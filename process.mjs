@@ -25,7 +25,7 @@ roky.forEach(rok => {
   fs.writeFileSync(`${rok}/okresy.json`, JSON.stringify(okresy));
   fs.writeFileSync(`${rok}/okresy.tsv`, tsvFormat(okresy));
 
-  console.log(`okresy ${rok} ok`);
+  console.log(`${rok} okresy ok`);
 
   // převeď zastupitelstva do JSONu
   const rawZastupitelstva = fs.readFileSync(`raw/${rok}/kvrzcoco.csv`, "utf8");
@@ -40,11 +40,18 @@ roky.forEach(rok => {
       COBVODU: zastupitelstvo.COBVODU,
       MANDATY: zastupitelstvo.MANDATY,
       POCOBYV: zastupitelstvo.POCOBYV,
-      key: zastupitelstvo.NAZEVZAST.normalize("NFD")
-        .replace(/\p{Diacritic}/gu, "")
-        .replaceAll(" ", "-")
-        .replaceAll(".", "")
-        .toLowerCase(),
+      key:
+        zastupitelstvo.KODZASTUP === "553930"
+          ? "mezholezy-2"
+          : zastupitelstvo.KODZASTUP === "573591"
+          ? "pohled-2"
+          : zastupitelstvo.KODZASTUP === "582891"
+          ? "brezina-2"
+          : zastupitelstvo.NAZEVZAST.normalize("NFD")
+              .replace(/\p{Diacritic}/gu, "")
+              .replaceAll(" ", "-")
+              .replaceAll(".", "")
+              .toLowerCase(),
     };
   });
   const zastUniq = [
@@ -54,7 +61,7 @@ roky.forEach(rok => {
   // fs.writeFileSync(`${rok}/zastupitelstva.json`, JSON.stringify(zastUniq));
   fs.writeFileSync(`${rok}/zastupitelstva.tsv`, tsvFormat(zastUniq));
 
-  console.log(`zastupitelstva ${rok} ok`);
+  console.log(`${rok} zastupitelstva ok`);
 
   // převeď kandidáty do JSONu
   const rawKandidati = fs.readFileSync(`raw/${rok}/kvrk-gender.csv`, "utf8");
@@ -82,8 +89,9 @@ roky.forEach(rok => {
 
   // fs.writeFileSync(`${rok}/kandidati.json`, JSON.stringify(kandidati));
   fs.writeFileSync(`${rok}/kandidati.tsv`, tsvFormat(kandidati));
-  console.log(`kandidati ${rok} ok`);
+  console.log(`${rok} kandidati ok`);
 
+  //vyegneruj kandidáty a zastupitelstva pro každý okres
   okresy.forEach(okres => {
     const zastupitelstvaOkresu = zastUniq.filter(
       zastupitelstvo => zastupitelstvo.OKRES === okres.NUMNUTS
@@ -99,12 +107,28 @@ roky.forEach(rok => {
       `${rok}/${okres.key}/zastupitelstva.tsv`,
       tsvFormat(zastupitelstvaOkresu)
     );
-    console.log(`zastupitelstva ${okres.NAZEVNUTS} ${rok} ok`);
+    console.log(`${rok} zastupitelstva ${okres.NAZEVNUTS} ok`);
 
     fs.writeFileSync(
       `${rok}/${okres.key}/kandidati.tsv`,
       tsvFormat(kandidatiOkresu)
     );
-    console.log(`kandidáti ${okres.NAZEVNUTS} ${rok} ok`);
+    console.log(`${rok} kandidáti ${okres.NAZEVNUTS} ok`);
+
+    // vygeneruj kandidáty pro každou obec
+    zastupitelstvaOkresu.forEach(zastupitelstvo => {
+      const kandidatiObce = kandidatiOkresu.filter(
+        kandidat => zastupitelstvo.KODZASTUP === kandidat.KODZASTUP
+      );
+
+      if (!fs.existsSync(`${rok}/${okres.key}/${zastupitelstvo.key}}`)) {
+        fs.mkdirSync(`${rok}/${okres.key}/${zastupitelstvo.key}`);
+      }
+      fs.writeFileSync(
+        `${rok}/${okres.key}/${zastupitelstvo.key}/kandidati.tsv`,
+        tsvFormat(kandidatiObce)
+      );
+      console.log(`${rok} kandidáti ${zastupitelstvo.NAZEVZAST} ${rok} ok`);
+    });
   });
 });
