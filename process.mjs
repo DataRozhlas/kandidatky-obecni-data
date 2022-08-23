@@ -57,7 +57,7 @@ roky.forEach(rok => {
   console.log(`zastupitelstva ${rok} ok`);
 
   // převeď kandidáty do JSONu
-  const rawKandidati = fs.readFileSync(`raw/${rok}/kvrk.csv`, "utf8");
+  const rawKandidati = fs.readFileSync(`raw/${rok}/kvrk-gender.csv`, "utf8");
   const kandidati = csvParse(rawKandidati).map(kandidat => {
     return {
       OKRES: kandidat.OKRES === "1100" ? "1199" : kandidat.OKRES,
@@ -68,6 +68,7 @@ roky.forEach(rok => {
       PORCISLO: kandidat.PORCISLO,
       JMENO: kandidat.JMENO,
       PRIJMENI: kandidat.PRIJMENI,
+      POHLAVI: kandidat.POHLAVI,
       TITULPRED: kandidat.TITULPRED,
       TITULZA: kandidat.TITULZA,
       VEK: kandidat.VEK,
