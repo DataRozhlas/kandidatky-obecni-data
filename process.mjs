@@ -55,32 +55,33 @@ roky.forEach(rok => {
   fs.writeFileSync(`${rok}/zastupitelstva.tsv`, tsvFormat(zastUniq));
 
   console.log(`zastupitelstva ${rok} ok`);
+
+  // převeď kandidáty do JSONu
+  const rawKandidati = fs.readFileSync(`raw/${rok}/kvrk.csv`, "utf8");
+  const kandidati = csvParse(rawKandidati).map(kandidat => {
+    return {
+      OKRES: kandidat.OKRES === "1100" ? "1199" : kandidat.OKRES,
+      KODZASTUP: kandidat.KODZASTUP,
+      COBVODU: kandidat.COBVODU,
+      POR_STR_HL: kandidat.POR_STR_HL,
+      OSTRANA: kandidat.OSTRANA,
+      PORCISLO: kandidat.PORCISLO,
+      JMENO: kandidat.JMENO,
+      PRIJMENI: kandidat.PRIJMENI,
+      TITULPRED: kandidat.TITULPRED,
+      TITULZA: kandidat.TITULZA,
+      VEK: kandidat.VEK,
+      POVOLANI: kandidat.POVOLANI,
+      BYDLISTEN: kandidat.BYDLISTEN,
+      PSTRANA: kandidat.PSTRANA,
+      NSTRANA: kandidat.NSTRANA,
+      PLATNOST: kandidat.PLATNOST,
+    };
+  });
+
+  fs.writeFileSync(`${rok}/kandidati.json`, JSON.stringify(kandidati));
+  fs.writeFileSync(`${rok}/kandidati.tsv`, tsvFormat(kandidati));
 });
-
-// // převeď kandidáty do JSONu
-// const rawKandidati = fs.readFileSync("./data/2022/kvrk.csv", "utf8");
-// const kandidati = csvParse(rawKandidati).map(kandidat => {
-//   return {
-//     OKRES: kandidat.OKRES === "1100" ? "1199" : kandidat.OKRES,
-//     KODZASTUP: kandidat.KODZASTUP,
-//     COBVODU: kandidat.COBVODU,
-//     POR_STR_HL: kandidat.POR_STR_HL,
-//     OSTRANA: kandidat.OSTRANA,
-//     PORCISLO: kandidat.PORCISLO,
-//     JMENO: kandidat.JMENO,
-//     PRIJMENI: kandidat.PRIJMENI,
-//     TITULPRED: kandidat.TITULPRED,
-//     TITULZA: kandidat.TITULZA,
-//     VEK: kandidat.VEK,
-//     POVOLANI: kandidat.POVOLANI,
-//     BYDLISTEN: kandidat.BYDLISTEN,
-//     PSTRANA: kandidat.PSTRANA,
-//     NSTRANA: kandidat.NSTRANA,
-//     PLATNOST: kandidat.PLATNOST,
-//   };
-// });
-
-// fs.writeFileSync("./data/processed/kandidati.json", JSON.stringify(kandidati));
 
 // // rozděl zastupitelstva a kandidáty podle okresů a ulož je do adresáře
 
