@@ -51,7 +51,7 @@ roky.forEach(rok => {
     //každé zastupitelstvo stačí jednou (aby se neopakovala zastupitelstva, do kterých se volí ve více obcích)
     ...new Map(zastupitelstva.map(v => [v.KODZASTUP, v])).values(),
   ];
-  fs.writeFileSync(`${rok}/zastupitelstva.json`, JSON.stringify(zastUniq));
+  // fs.writeFileSync(`${rok}/zastupitelstva.json`, JSON.stringify(zastUniq));
   fs.writeFileSync(`${rok}/zastupitelstva.tsv`, tsvFormat(zastUniq));
 
   console.log(`zastupitelstva ${rok} ok`);
@@ -80,26 +80,31 @@ roky.forEach(rok => {
     };
   });
 
-  fs.writeFileSync(`${rok}/kandidati.json`, JSON.stringify(kandidati));
+  // fs.writeFileSync(`${rok}/kandidati.json`, JSON.stringify(kandidati));
   fs.writeFileSync(`${rok}/kandidati.tsv`, tsvFormat(kandidati));
+  console.log(`kandidati ${rok} ok`);
+
+  okresy.forEach(okres => {
+    const zastupitelstvaOkresu = zastUniq.filter(
+      zastupitelstvo => zastupitelstvo.OKRES === okres.NUMNUTS
+    );
+    const kandidatiOkresu = kandidati.filter(
+      kandidat => kandidat.OKRES === okres.NUMNUTS
+    );
+    if (!fs.existsSync(`${rok}/${okres.key}`)) {
+      fs.mkdirSync(`${rok}/${okres.key}`);
+    }
+
+    fs.writeFileSync(
+      `${rok}/${okres.key}/zastupitelstva.tsv`,
+      tsvFormat(zastupitelstvaOkresu)
+    );
+    console.log(`zastupitelstva ${okres.NAZEVNUTS} ${rok} ok`);
+
+    fs.writeFileSync(
+      `${rok}/${okres.key}/kandidati.tsv`,
+      tsvFormat(kandidatiOkresu)
+    );
+    console.log(`kandidáti ${okres.NAZEVNUTS} ${rok} ok`);
+  });
 });
-
-// // rozděl zastupitelstva a kandidáty podle okresů a ulož je do adresáře
-
-// okresy.forEach(okres => {
-//   const zastupitelstvaOkresu = zastUniq.filter(
-//     zastupitelstvo => zastupitelstvo.OKRES === okres.NUMNUTS
-//   );
-//   const kandidatiOkresu = kandidati.filter(
-//     kandidat => kandidat.OKRES === okres.NUMNUTS
-//   );
-//   fs.mkdirSync(`./data/processed/${okres.key}`, { recursive: true });
-//   fs.writeFileSync(
-//     `./data/processed/${okres.key}/zastupitelstva.json`,
-//     JSON.stringify(zastupitelstvaOkresu)
-//   );
-//   fs.writeFileSync(
-//     `./data/processed/${okres.key}/kandidati.json`,
-//     JSON.stringify(kandidatiOkresu)
-//   );
-// });
