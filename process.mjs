@@ -64,10 +64,12 @@ roky.forEach(rok => {
   //vyrob seznam obcí pro autocomplete
   const zastAutocomplete = zastUniq.map(zast => {
     return {
-      label: zast.NAZEVZAST,
-      zastKey: zast.key,
-      okrKey: okresy.find(okres => okres.NUMNUTS === zast.OKRES).key,
-      okres: okresy.find(okres => okres.NUMNUTS === zast.OKRES).NAZEVNUTS,
+      label: `${zast.NAZEVZAST}, okr. ${
+        okresy.find(okres => okres.NUMNUTS === zast.OKRES).NAZEVNUTS
+      }`,
+      value: `${okresy.find(okres => okres.NUMNUTS === zast.OKRES).key}/${
+        zast.key
+      }`,
     };
   });
   fs.writeFileSync(`${rok}/zast-autocomplete.tsv`, tsvFormat(zastAutocomplete));
