@@ -61,6 +61,17 @@ roky.forEach(rok => {
   // fs.writeFileSync(`${rok}/zastupitelstva.json`, JSON.stringify(zastUniq));
   fs.writeFileSync(`${rok}/zastupitelstva.tsv`, tsvFormat(zastUniq));
 
+  //vyrob seznam obcí pro autocomplete
+  const zastAutocomplete = zastUniq.map(zast => {
+    return {
+      label: zast.NAZEVZAST,
+      zastKey: zast.key,
+      okrKey: okresy.find(okres => okres.NUMNUTS === zast.OKRES).key,
+      okres: okresy.find(okres => okres.NUMNUTS === zast.OKRES).NAZEVNUTS,
+    };
+  });
+  fs.writeFileSync(`${rok}/zast-autocomplete.tsv`, tsvFormat(zastAutocomplete));
+
   console.log(`${rok} zastupitelstva ok`);
 
   // převeď kandidáty do JSONu
