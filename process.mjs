@@ -64,9 +64,13 @@ roky.forEach(rok => {
   //vyrob seznam obcí pro autocomplete
   const zastAutocomplete = zastUniq.map(zast => {
     return {
-      label: `${zast.NAZEVZAST}, okr. ${
-        okresy.find(okres => okres.NUMNUTS === zast.OKRES).NAZEVNUTS
-      }`,
+      label: `${
+        zast.KODZASTUP === "553930"
+          ? "Mezholezy 2"
+          : zast.KODZASTUP === "582891"
+          ? "Březina 2"
+          : zast.NAZEVZAST
+      }, okr. ${okresy.find(okres => okres.NUMNUTS === zast.OKRES).NAZEVNUTS}`,
       value: `${okresy.find(okres => okres.NUMNUTS === zast.OKRES).key}/${
         zast.key
       }`,
