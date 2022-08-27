@@ -62,20 +62,24 @@ roky.forEach(rok => {
   fs.writeFileSync(`${rok}/zastupitelstva.tsv`, tsvFormat(zastUniq));
 
   //vyrob seznam obcí pro autocomplete
-  const zastAutocomplete = zastUniq.map(zast => {
-    return {
-      label: `${
-        zast.KODZASTUP === "553930"
-          ? "Mezholezy 2"
-          : zast.KODZASTUP === "582891"
-          ? "Březina 2"
-          : zast.NAZEVZAST
-      }, okr. ${okresy.find(okres => okres.NUMNUTS === zast.OKRES).NAZEVNUTS}`,
-      value: `${okresy.find(okres => okres.NUMNUTS === zast.OKRES).key}/${
-        zast.key
-      }`,
-    };
-  });
+  const zastAutocomplete = zastUniq
+    .sort((a, b) => Number(b.POCOBYV) - Number(a.POCOBYV))
+    .map(zast => {
+      return {
+        label: `${
+          zast.KODZASTUP === "553930"
+            ? "Mezholezy 2"
+            : zast.KODZASTUP === "582891"
+            ? "Březina 2"
+            : zast.NAZEVZAST
+        }, okr. ${
+          okresy.find(okres => okres.NUMNUTS === zast.OKRES).NAZEVNUTS
+        }`,
+        value: `${okresy.find(okres => okres.NUMNUTS === zast.OKRES).key}/${
+          zast.key
+        }`,
+      };
+    });
   fs.writeFileSync(`${rok}/zast-autocomplete.tsv`, tsvFormat(zastAutocomplete));
 
   console.log(`${rok} zastupitelstva ok`);
@@ -138,7 +142,7 @@ roky.forEach(rok => {
         kandidat => zastupitelstvo.KODZASTUP === kandidat.KODZASTUP
       );
 
-      if (!fs.existsSync(`${rok}/${okres.key}/${zastupitelstvo.key}}`)) {
+      if (!fs.existsSync(`${rok}/${okres.key}/${zastupitelstvo.key}`)) {
         fs.mkdirSync(`${rok}/${okres.key}/${zastupitelstvo.key}`);
       }
       fs.writeFileSync(
