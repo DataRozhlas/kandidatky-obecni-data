@@ -72,9 +72,8 @@ roky.forEach(rok => {
             : zast.KODZASTUP === "582891"
             ? "Březina 2"
             : zast.NAZEVZAST
-        }, okr. ${
-          okresy.find(okres => okres.NUMNUTS === zast.OKRES).NAZEVNUTS
         }`,
+        okres: okresy.find(okres => okres.NUMNUTS === zast.OKRES).NAZEVNUTS,
         value: `${okresy.find(okres => okres.NUMNUTS === zast.OKRES).key}/${
           zast.key
         }`,
