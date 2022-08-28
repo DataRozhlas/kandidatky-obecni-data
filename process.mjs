@@ -30,6 +30,9 @@ roky.forEach(rok => {
   // převeď zastupitelstva do JSONu
   const rawZastupitelstva = fs.readFileSync(`raw/${rok}/kvrzcoco.csv`, "utf8");
   const zastupitelstva = csvParse(rawZastupitelstva).map(zastupitelstvo => {
+    if (rok === "2006" && zastupitelstvo.KODZASTUP === "581429") {
+      zastupitelstvo.OKRES = "6203";
+    } //Březina Blansko=>Brno-venkov
     return {
       OKRES: zastupitelstvo.OKRES === "1100" ? "1199" : zastupitelstvo.OKRES, //aby Praha byla Praha
       TYPZASTUP: zastupitelstvo.TYPZASTUP,
@@ -41,7 +44,9 @@ roky.forEach(rok => {
       MANDATY: zastupitelstvo.MANDATY,
       POCOBYV: zastupitelstvo.POCOBYV,
       key:
-        zastupitelstvo.KODZASTUP === "553921"
+        zastupitelstvo.KODZASTUP === "581429"
+          ? "brezina"
+          : zastupitelstvo.KODZASTUP === "553921"
           ? "mezholezy"
           : zastupitelstvo.KODZASTUP === "553930"
           ? "mezholezy-2"
@@ -88,8 +93,11 @@ roky.forEach(rok => {
   // převeď kandidáty do JSONu
   const rawKandidati = fs.readFileSync(`raw/${rok}/kvrk-gender.csv`, "utf8");
   const kandidati = csvParse(rawKandidati).map(kandidat => {
+    if (rok === "2006" && kandidat.KODZASTUP === "581429") {
+      kandidat.OKRES = "6203";
+    } //Březina Blansko=>Brno-venkov
     return {
-      OKRES: kandidat.OKRES === "1100" ? "1199" : kandidat.OKRES,
+      OKRES: kandidat.OKRES === "1100" ? "1199" : kandidat.OKRES, //aby Praha byla Praha
       KODZASTUP: kandidat.KODZASTUP,
       COBVODU: kandidat.COBVODU,
       POR_STR_HL: kandidat.POR_STR_HL,
