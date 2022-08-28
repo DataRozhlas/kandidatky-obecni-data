@@ -1,5 +1,6 @@
 library(tidyverse)
 library(readxl)
+library(xml2)
 
 
 # convert semicolon to comma delimited and fix encoding
@@ -39,5 +40,13 @@ for (i in roky) {
   }
 }
 
-
+# convert XML numnuts to CSV numnuts
+roky = c(2006, 2010, 2014)
+for (i in roky) {
+  
+}
+i = 2006
+data_XML = as_list(read_xml(paste0("raw/", i, "/cnumnuts.xml")))
+xml_df = tibble::as_tibble(data_XML) %>%
+  unnest_longer(CNUMNUTS) %>% unnest_wider(CNUMNUTS)
 

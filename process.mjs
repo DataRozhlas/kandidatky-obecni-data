@@ -41,7 +41,9 @@ roky.forEach(rok => {
       MANDATY: zastupitelstvo.MANDATY,
       POCOBYV: zastupitelstvo.POCOBYV,
       key:
-        zastupitelstvo.KODZASTUP === "553930"
+        zastupitelstvo.KODZASTUP === "553921"
+          ? "mezholezy"
+          : zastupitelstvo.KODZASTUP === "553930"
           ? "mezholezy-2"
           : zastupitelstvo.KODZASTUP === "573591"
           ? "pohled-2"
