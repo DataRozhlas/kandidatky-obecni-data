@@ -1,4 +1,5 @@
 library(tidyverse)
+library(readxl)
 
 
 # convert semicolon to comma delimited and fix encoding
@@ -11,6 +12,17 @@ for (i in c(2018)) {
   write_csv(data, paste0("raw/", i, "/", j), quote = "all")
   }
   
+}
+
+# convert xls to csv
+
+for (i in c(2014, 2010, 2006)) {
+  files = list.files(paste0("raw/", i), "*.xlsx")
+  for (j in files) {
+    data=read_xlsx(paste0("raw/", i, "/", j))
+    if (!is.null(data$POHLAVI)) {data = data %>% select(-POHLAVI, -DATNAR)}
+    write_csv(data, paste0("raw/", i, "/", str_sub(j, 1, -6), ".csv"), quote = "all", na="")
+  }
 }
 
 

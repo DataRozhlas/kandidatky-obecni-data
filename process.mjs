@@ -9,7 +9,7 @@ roky.forEach(rok => {
   }
 
   // zpracuj seznam okresů
-  const rawOkresy = fs.readFileSync(`raw/${rok}/cnumnuts.csv`, "utf8");
+  const rawOkresy = fs.readFileSync(`raw/2022/cnumnuts.csv`, "utf8");
   const okresy = csvParse(rawOkresy)
     .filter(nuts => nuts.NUTS.length === 6)
     .map(okres => {
