@@ -122,6 +122,7 @@ roky.forEach(rok => {
     .sort(
       (a, b) =>
         Number(a.PORCISLO) - Number(b.PORCISLO) ||
+        Number(a.COBVODU) - Number(b.COBVODU) ||
         Number(a.POR_STR_HL) - Number(b.POR_STR_HL)
     );
 
