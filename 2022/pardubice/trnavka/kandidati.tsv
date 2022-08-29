@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5302	530794	1	1	902	1	Radek	Valenta	M			47	starosta	Trnávka	1227	80	A
-5302	530794	1	1	902	2	Marie	Škopková	F	JUDr.		80	důchodkyně	Trnávka	99	80	A
-5302	530794	1	1	902	3	Markéta	Tichá	F			30	na mateřské dovolené	Trnávka	99	80	A
-5302	530794	1	1	902	4	Hana	Krpatová	F			41	vedoucí prodejny	Trnávka	99	80	A
-5302	530794	1	1	902	5	Jakub	Šíf	M			28	OSVČ	Trnávka	99	80	A
-5302	530794	1	1	902	6	Emil	Janda	M			72	důchodce	Trnávka	99	80	A
-5302	530794	1	1	902	7	Vít	Salfický	M			50	dělník	Trnávka	99	80	A
-5302	530794	1	2	903	1	Radka	Valentová	F			52	zaměstnanec školní jídelny	Trnávka	99	80	A
-5302	530794	1	2	903	2	Tereza	Veselá	F	Bc.		52	obchodní manažer	Trnávka	99	80	A
-5302	530794	1	2	903	3	Lenka	Kolesová	F		DiS.	34	diplomovaný zdravotní laborant	Trnávka	99	80	A
-5302	530794	1	2	903	4	Pavel	Tichý	M			53	technik údržby	Trnávka	99	80	A
-5302	530794	1	2	903	5	Jaroslav	Míšek	M			50	provozní elektrikář	Trnávka	99	80	A
-5302	530794	1	2	903	6	Robert	Valenta	M			31	technik	Trnávka	99	80	A
-5302	530794	1	2	903	7	Jan	Fujdl	M			34	skladník	Trnávka	99	80	A
-5302	530794	1	3	904	1	David	Veselý	M	Bc.		40	systémový analytik	Pardubice	99	80	A
-5302	530794	1	3	904	2	Petra	Marešová	F	Ing.		34	účetní	Trnávka	99	80	A
-5302	530794	1	3	904	3	Václava	Likešová	F			51	zaměstnanec školní jídelny	Trnávka	99	80	A
-5302	530794	1	3	904	4	Kateřina	Míšková	F			47	mzdová účetní	Trnávka	99	80	A
-5302	530794	1	3	904	5	Riana	Tichá	F			55	vedoucí skladu	Trnávka	99	80	A
-5302	530794	1	3	904	6	Vilma	Sadilová	F			42	operátor výroby	Trnávka	99	80	A
-5302	530794	1	3	904	7	Karel	Suchánek	M			69	důchodce	Trnávka	99	80	A
-5302	530794	1	4	901	1	Roman	Žičař	M			45	dělník	Trnávka	99	80	A
-5302	530794	1	4	901	2	Libuše	Smolíková	F			68	důchodkyně	Trnávka	99	80	A
-5302	530794	1	4	901	3	Vendula	Šoltová	F			44	administrativní pracovnice	Trnávka	99	80	A
-5302	530794	1	4	901	4	Denis	Ostříž	M			21	administrativní pracovník	Trnávka	99	80	A
-5302	530794	1	4	901	5	Michal	Sadil	M			43	dělník	Trnávka	99	80	A
-5302	530794	1	4	901	6	Pavel	Míča	M			43	řidič	Trnávka	99	80	A
-5302	530794	1	4	901	7	Lenka	Lorencová	F			45	prodavačka	Trnávka	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5302	530794	1	1	902	1	Radek	Valenta			47	starosta	Trnávka	1227	80	A	M
+5302	530794	1	2	903	1	Radka	Valentová			52	zaměstnanec školní jídelny	Trnávka	99	80	A	F
+5302	530794	1	3	904	1	David	Veselý	Bc.		40	systémový analytik	Pardubice	99	80	A	M
+5302	530794	1	4	901	1	Roman	Žičař			45	dělník	Trnávka	99	80	A	M
+5302	530794	1	1	902	2	Marie	Škopková	JUDr.		80	důchodkyně	Trnávka	99	80	A	F
+5302	530794	1	2	903	2	Tereza	Veselá	Bc.		52	obchodní manažer	Trnávka	99	80	A	F
+5302	530794	1	3	904	2	Petra	Marešová	Ing.		34	účetní	Trnávka	99	80	A	F
+5302	530794	1	4	901	2	Libuše	Smolíková			68	důchodkyně	Trnávka	99	80	A	F
+5302	530794	1	1	902	3	Markéta	Tichá			30	na mateřské dovolené	Trnávka	99	80	A	F
+5302	530794	1	2	903	3	Lenka	Kolesová		DiS.	34	diplomovaný zdravotní laborant	Trnávka	99	80	A	F
+5302	530794	1	3	904	3	Václava	Likešová			51	zaměstnanec školní jídelny	Trnávka	99	80	A	F
+5302	530794	1	4	901	3	Vendula	Šoltová			44	administrativní pracovnice	Trnávka	99	80	A	F
+5302	530794	1	1	902	4	Hana	Krpatová			41	vedoucí prodejny	Trnávka	99	80	A	F
+5302	530794	1	2	903	4	Pavel	Tichý			53	technik údržby	Trnávka	99	80	A	M
+5302	530794	1	3	904	4	Kateřina	Míšková			47	mzdová účetní	Trnávka	99	80	A	F
+5302	530794	1	4	901	4	Denis	Ostříž			21	administrativní pracovník	Trnávka	99	80	A	M
+5302	530794	1	1	902	5	Jakub	Šíf			28	OSVČ	Trnávka	99	80	A	M
+5302	530794	1	2	903	5	Jaroslav	Míšek			50	provozní elektrikář	Trnávka	99	80	A	M
+5302	530794	1	3	904	5	Riana	Tichá			55	vedoucí skladu	Trnávka	99	80	A	F
+5302	530794	1	4	901	5	Michal	Sadil			43	dělník	Trnávka	99	80	A	M
+5302	530794	1	1	902	6	Emil	Janda			72	důchodce	Trnávka	99	80	A	M
+5302	530794	1	2	903	6	Robert	Valenta			31	technik	Trnávka	99	80	A	M
+5302	530794	1	3	904	6	Vilma	Sadilová			42	operátor výroby	Trnávka	99	80	A	F
+5302	530794	1	4	901	6	Pavel	Míča			43	řidič	Trnávka	99	80	A	M
+5302	530794	1	1	902	7	Vít	Salfický			50	dělník	Trnávka	99	80	A	M
+5302	530794	1	2	903	7	Jan	Fujdl			34	skladník	Trnávka	99	80	A	M
+5302	530794	1	3	904	7	Karel	Suchánek			69	důchodce	Trnávka	99	80	A	M
+5302	530794	1	4	901	7	Lenka	Lorencová			45	prodavačka	Trnávka	99	80	A	F

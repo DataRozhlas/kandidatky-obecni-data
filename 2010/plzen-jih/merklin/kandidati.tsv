@@ -1,42 +1,42 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3204	558044	1	1	53	1	Jan	Nozar	M	Ing.		62	auditor	Merklín	99	53	0
-3204	558044	1	1	53	2	Pavel	Šalom	M			50	živnostník	Merklín	99	53	0
-3204	558044	1	1	53	3	Veronika	Nová	F			33	supervizor	Merklín	99	53	0
-3204	558044	1	1	53	4	Martin	Šalom	M			37	živnostník	Merklín	99	53	0
-3204	558044	1	1	53	5	Jan	Fikrle	M			69	důchodce	Merklín	99	53	0
-3204	558044	1	1	53	6	Radek	Černý	M			36	technický poradce	Merklín	99	53	0
-3204	558044	1	1	53	7	Hana	Huřťáková	F			54	administrativní pracovnice	Merklín	99	53	0
-3204	558044	1	1	53	8	Václav	Prach	M			27	živnostník	Merklín	99	53	0
-3204	558044	1	1	53	9	Petr	Mikula	M			28	živnostník	Merklín	99	53	0
-3204	558044	1	1	53	10	Michaela	Wildová	F			37	učitelka	Merklín	99	53	0
-3204	558044	1	1	53	11	Michal	Voráček	M			31	živnostník	Merklín	99	53	0
-3204	558044	1	1	53	12	Jiří	Hruška	M			50	živnostník	Merklín	99	53	0
-3204	558044	1	1	53	13	Milan	Duháček	M			56	živnostník	Merklín	99	53	0
-3204	558044	1	1	53	14	Jiří	Němeček	M			62	důchodce	Merklín	99	53	0
-3204	558044	1	1	53	15	Antonín	Tomíšek	M			55	řidič	Merklín	99	53	0
-3204	558044	1	2	901	1	Jana	Nováková	F	Ing.		51	vychovatelka	Merklín	99	80	0
-3204	558044	1	2	901	2	Jiří	Valenz	M			51	OSVČ	Kloušov	99	80	0
-3204	558044	1	2	901	3	Václav	Polívka	M	Ing.		41	OSVČ	Merklín	99	80	0
-3204	558044	1	2	901	4	Věra	Grünerová	F	Ing.		43	OSVČ	Merklín	99	80	0
-3204	558044	1	2	901	5	Josef	Liška	M			43	technik	Merklín	99	80	0
-3204	558044	1	2	901	6	Nataša	Prachová	F			30	OSVČ	Merklín	99	80	0
-3204	558044	1	2	901	7	Jan	Bláha	M			44	OSVČ	Merklín	99	80	0
-3204	558044	1	2	901	8	Jiří	Václavovič	M			59	důchodce	Merklín	99	80	0
-3204	558044	1	2	901	9	Werner	Kříž	M			41	OSVČ	Merklín	99	80	0
-3204	558044	1	2	901	10	Lukáš	Vacík	M			40	lesník	Merklín	99	80	0
-3204	558044	1	2	901	11	Roman	Mečl	M			35	OSVČ	Merklín	99	80	0
-3204	558044	1	2	901	12	Tomáš	Bešta	M	Ing.		29	projektant	Merklín	99	80	0
-3204	558044	1	2	901	13	Libor	Bláha	M	MUDr.		46	lékař	Merklín	99	80	0
-3204	558044	1	2	901	14	Václav	Klička	M			39	OSVČ	Kloušov	99	80	0
-3204	558044	1	2	901	15	Jaroslav	Žák	M			28	OSVČ	Merklín	99	80	0
-3204	558044	1	3	902	1	Václav	Švejda	M			55	elektromechanik	Merklín	99	80	0
-3204	558044	1	3	902	2	Vít	Klička	M			30	elektromechanik	Kloušov	99	80	0
-3204	558044	1	3	902	3	Jana	Schejbalová	F			37	referentka OTE	Merklín	99	80	0
-3204	558044	1	3	902	4	Josef	Lucák	M			33	truhlář	Merklín	99	80	0
-3204	558044	1	3	902	5	Jan	Liška	M			46	kominík - kamnář	Kloušov	99	80	0
-3204	558044	1	3	902	6	Ivan	Pátek	M			50	elektrikář	Merklín	99	80	0
-3204	558044	1	3	902	7	Josef	Lucák	M			58	instalatér - topenář	Merklín	99	80	0
-3204	558044	1	3	902	8	Kateřina	Langmajerová	F			32	na mateřské	Merklín	99	80	0
-3204	558044	1	3	902	9	Marcela	Vighová	F			31	na mateřské	Merklín	99	80	0
-3204	558044	1	3	902	10	Helena	Hájková	F	Mgr.		53	učitelka	Merklín	99	80	0
-3204	558044	1	3	902	11	Václav	Sláma	M			66	důchodce	Merklín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3204	558044	1	1	53	1	Jan	Nozar	Ing.		62	auditor	Merklín	99	53	0	M
+3204	558044	1	2	901	1	Jana	Nováková	Ing.		51	vychovatelka	Merklín	99	80	0	F
+3204	558044	1	3	902	1	Václav	Švejda			55	elektromechanik	Merklín	99	80	0	M
+3204	558044	1	1	53	2	Pavel	Šalom			50	živnostník	Merklín	99	53	0	M
+3204	558044	1	2	901	2	Jiří	Valenz			51	OSVČ	Kloušov	99	80	0	M
+3204	558044	1	3	902	2	Vít	Klička			30	elektromechanik	Kloušov	99	80	0	M
+3204	558044	1	1	53	3	Veronika	Nová			33	supervizor	Merklín	99	53	0	F
+3204	558044	1	2	901	3	Václav	Polívka	Ing.		41	OSVČ	Merklín	99	80	0	M
+3204	558044	1	3	902	3	Jana	Schejbalová			37	referentka OTE	Merklín	99	80	0	F
+3204	558044	1	1	53	4	Martin	Šalom			37	živnostník	Merklín	99	53	0	M
+3204	558044	1	2	901	4	Věra	Grünerová	Ing.		43	OSVČ	Merklín	99	80	0	F
+3204	558044	1	3	902	4	Josef	Lucák			33	truhlář	Merklín	99	80	0	M
+3204	558044	1	1	53	5	Jan	Fikrle			69	důchodce	Merklín	99	53	0	M
+3204	558044	1	2	901	5	Josef	Liška			43	technik	Merklín	99	80	0	M
+3204	558044	1	3	902	5	Jan	Liška			46	kominík - kamnář	Kloušov	99	80	0	M
+3204	558044	1	1	53	6	Radek	Černý			36	technický poradce	Merklín	99	53	0	M
+3204	558044	1	2	901	6	Nataša	Prachová			30	OSVČ	Merklín	99	80	0	F
+3204	558044	1	3	902	6	Ivan	Pátek			50	elektrikář	Merklín	99	80	0	M
+3204	558044	1	1	53	7	Hana	Huřťáková			54	administrativní pracovnice	Merklín	99	53	0	F
+3204	558044	1	2	901	7	Jan	Bláha			44	OSVČ	Merklín	99	80	0	M
+3204	558044	1	3	902	7	Josef	Lucák			58	instalatér - topenář	Merklín	99	80	0	M
+3204	558044	1	1	53	8	Václav	Prach			27	živnostník	Merklín	99	53	0	M
+3204	558044	1	2	901	8	Jiří	Václavovič			59	důchodce	Merklín	99	80	0	M
+3204	558044	1	3	902	8	Kateřina	Langmajerová			32	na mateřské	Merklín	99	80	0	F
+3204	558044	1	1	53	9	Petr	Mikula			28	živnostník	Merklín	99	53	0	M
+3204	558044	1	2	901	9	Werner	Kříž			41	OSVČ	Merklín	99	80	0	M
+3204	558044	1	3	902	9	Marcela	Vighová			31	na mateřské	Merklín	99	80	0	F
+3204	558044	1	1	53	10	Michaela	Wildová			37	učitelka	Merklín	99	53	0	F
+3204	558044	1	2	901	10	Lukáš	Vacík			40	lesník	Merklín	99	80	0	M
+3204	558044	1	3	902	10	Helena	Hájková	Mgr.		53	učitelka	Merklín	99	80	0	F
+3204	558044	1	1	53	11	Michal	Voráček			31	živnostník	Merklín	99	53	0	M
+3204	558044	1	2	901	11	Roman	Mečl			35	OSVČ	Merklín	99	80	0	M
+3204	558044	1	3	902	11	Václav	Sláma			66	důchodce	Merklín	99	80	0	M
+3204	558044	1	1	53	12	Jiří	Hruška			50	živnostník	Merklín	99	53	0	M
+3204	558044	1	2	901	12	Tomáš	Bešta	Ing.		29	projektant	Merklín	99	80	0	M
+3204	558044	1	1	53	13	Milan	Duháček			56	živnostník	Merklín	99	53	0	M
+3204	558044	1	2	901	13	Libor	Bláha	MUDr.		46	lékař	Merklín	99	80	0	M
+3204	558044	1	1	53	14	Jiří	Němeček			62	důchodce	Merklín	99	53	0	M
+3204	558044	1	2	901	14	Václav	Klička			39	OSVČ	Kloušov	99	80	0	M
+3204	558044	1	1	53	15	Antonín	Tomíšek			55	řidič	Merklín	99	53	0	M
+3204	558044	1	2	901	15	Jaroslav	Žák			28	OSVČ	Merklín	99	80	0	M

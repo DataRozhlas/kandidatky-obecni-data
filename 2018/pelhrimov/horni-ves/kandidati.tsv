@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6103	547930	1	1	166	1	Milan	Makovička	M	Ing.		65	důchodce	Horní Ves	99	166	A
-6103	547930	1	1	166	2	Vlastimil	Lysý	M			61	mistr sdělovací a zabezpečovací techniky	Horní Ves	99	166	A
-6103	547930	1	1	166	3	Petr	Kapoun	M	Ing. Bc.		42	technolog	Horní Ves	99	166	A
-6103	547930	1	1	166	4	Karel	Mach	M			38	agronom	Horní Ves	99	166	A
-6103	547930	1	1	166	5	Aleš	Parkan	M		DiS.	33	učitel	Horní Ves	99	166	A
-6103	547930	1	1	166	6	Tomáš	Sacha	M			48	vlakvedoucí ČD Cargo	Horní Ves	99	166	A
-6103	547930	1	1	166	7	Martina	Vávrová	F	Mgr.		35	učitelka	Horní Ves	99	166	A
-6103	547930	1	1	166	8	Pavel	Holubář	M			49	svářecí dozor	Horní Ves	99	166	A
-6103	547930	1	1	166	9	Aleš	Dvořák	M			34	obchodní zástupce	Horní Ves	99	166	A
-6103	547930	1	2	901	1	Tomáš	Cháb	M			42	servisní technik	Horní Ves	99	80	A
-6103	547930	1	2	901	2	Miroslav	Lisa	M			65	důchodce	Horní Ves	99	80	A
-6103	547930	1	2	901	3	Milada	Nováková	F			41	programátor	Horní Ves	99	80	A
-6103	547930	1	2	901	4	Lenka	Podhorská	F			35	nezaměstnaná	Horní Ves	99	80	A
-6103	547930	1	2	901	5	Milan	Nechvátal	M			50	OSVČ	Horní Ves	99	80	A
-6103	547930	1	3	902	1	Jan	Vrána	M	Ing. Bc.		36	podnikatel	Horní Ves	99	80	A
-6103	547930	1	3	902	2	Jaroslav	Makovička	M		DiS.	33	technik pěstební a těžební činnosti	Horní Ves	99	80	A
-6103	547930	1	3	902	3	Veronika	Vránová	F	Ing.		33	podnikatelka	Horní Ves	99	80	A
-6103	547930	1	3	902	4	Pavel	Pilát	M			66	důchodce	Horní Ves	99	80	A
-6103	547930	1	3	902	5	Martina	Sabo	F			31	zástupkyně vedoucí prodejny	Horní Ves	99	80	A
-6103	547930	1	3	902	6	Jaroslav	Makovička	M			62	elektrikář	Horní Ves	99	80	A
-6103	547930	1	3	902	7	Petr	Parkan	M			38	podnikatel	Horní Ves	99	80	A
-6103	547930	1	3	902	8	Přemysl	Makovička	M			41	podnikatel	Horní Ves	99	80	A
-6103	547930	1	3	902	9	Miloslava	Handlovičová	F			61	důchodkyně	Horní Ves	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6103	547930	1	1	166	1	Milan	Makovička	Ing.		65	důchodce	Horní Ves	99	166	A	M
+6103	547930	1	2	901	1	Tomáš	Cháb			42	servisní technik	Horní Ves	99	80	A	M
+6103	547930	1	3	902	1	Jan	Vrána	Ing. Bc.		36	podnikatel	Horní Ves	99	80	A	M
+6103	547930	1	1	166	2	Vlastimil	Lysý			61	mistr sdělovací a zabezpečovací techniky	Horní Ves	99	166	A	M
+6103	547930	1	2	901	2	Miroslav	Lisa			65	důchodce	Horní Ves	99	80	A	M
+6103	547930	1	3	902	2	Jaroslav	Makovička		DiS.	33	technik pěstební a těžební činnosti	Horní Ves	99	80	A	M
+6103	547930	1	1	166	3	Petr	Kapoun	Ing. Bc.		42	technolog	Horní Ves	99	166	A	M
+6103	547930	1	2	901	3	Milada	Nováková			41	programátor	Horní Ves	99	80	A	F
+6103	547930	1	3	902	3	Veronika	Vránová	Ing.		33	podnikatelka	Horní Ves	99	80	A	F
+6103	547930	1	1	166	4	Karel	Mach			38	agronom	Horní Ves	99	166	A	M
+6103	547930	1	2	901	4	Lenka	Podhorská			35	nezaměstnaná	Horní Ves	99	80	A	F
+6103	547930	1	3	902	4	Pavel	Pilát			66	důchodce	Horní Ves	99	80	A	M
+6103	547930	1	1	166	5	Aleš	Parkan		DiS.	33	učitel	Horní Ves	99	166	A	M
+6103	547930	1	2	901	5	Milan	Nechvátal			50	OSVČ	Horní Ves	99	80	A	M
+6103	547930	1	3	902	5	Martina	Sabo			31	zástupkyně vedoucí prodejny	Horní Ves	99	80	A	F
+6103	547930	1	1	166	6	Tomáš	Sacha			48	vlakvedoucí ČD Cargo	Horní Ves	99	166	A	M
+6103	547930	1	3	902	6	Jaroslav	Makovička			62	elektrikář	Horní Ves	99	80	A	M
+6103	547930	1	1	166	7	Martina	Vávrová	Mgr.		35	učitelka	Horní Ves	99	166	A	F
+6103	547930	1	3	902	7	Petr	Parkan			38	podnikatel	Horní Ves	99	80	A	M
+6103	547930	1	1	166	8	Pavel	Holubář			49	svářecí dozor	Horní Ves	99	166	A	M
+6103	547930	1	3	902	8	Přemysl	Makovička			41	podnikatel	Horní Ves	99	80	A	M
+6103	547930	1	1	166	9	Aleš	Dvořák			34	obchodní zástupce	Horní Ves	99	166	A	M
+6103	547930	1	3	902	9	Miloslava	Handlovičová			61	důchodkyně	Horní Ves	99	80	A	F

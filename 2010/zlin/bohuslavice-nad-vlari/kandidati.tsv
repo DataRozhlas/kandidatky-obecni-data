@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7204	557102	1	1	7	1	Pavel	Janáček	M			58	technik	Bohuslavice nad Vláří	7	7	0
-7204	557102	1	1	7	2	Ladislav	Janáček	M			52	ředitel společnosti	Bohuslavice nad Vláří	99	7	0
-7204	557102	1	1	7	3	Milan	Krejčí	M	MUDr.		61	lékař	Bohuslavice nad Vláří	99	7	0
-7204	557102	1	1	7	4	Marie	Ševčíková	F			42	účetní	Bohuslavice nad Vláří	99	7	0
-7204	557102	1	1	7	5	Alena	Manová	F			27	mateřská dovolená	Bohuslavice nad Vláří	99	7	0
-7204	557102	1	1	7	6	Markéta	Vávrová	F			34	mateřská dovolená	Bohuslavice nad Vláří	99	7	0
-7204	557102	1	1	7	7	Josef	Bařinka	M			34	řidič	Bohuslavice nad Vláří	99	7	0
-7204	557102	1	1	7	8	Vladimír	Hrabina	M			59	mistr	Bohuslavice nad Vláří	99	7	0
-7204	557102	1	1	7	9	Oldřich	Hrabina	M			34	mistr	Bohuslavice nad Vláří	99	7	0
-7204	557102	1	2	166	1	Jiří	Slovák	M			55	starosta	Bohuslavice nad Vláří	99	166	0
-7204	557102	1	2	166	2	Jaroslav	Urbaník	M	Ing.		55	vedoucí oddělení měření	Bohuslavice nad Vláří	99	166	0
-7204	557102	1	2	166	3	Josef	Šebák	M			54	malíř	Bohuslavice nad Vláří	99	166	0
-7204	557102	1	2	166	4	František	Machuča	M	Mgr.		44	technický pracovník	Bohuslavice nad Vláří	99	166	0
-7204	557102	1	2	166	5	Lubomír	Slovák	M			44	dělník	Bohuslavice nad Vláří	99	166	0
-7204	557102	1	2	166	6	Vlastislav	Janáček	M			41	školník	Bohuslavice nad Vláří	99	166	0
-7204	557102	1	2	166	7	Zuzana	Jandlová	F	Mgr.		42	učitelka	Bohuslavice nad Vláří	99	166	0
-7204	557102	1	2	166	8	Jiří	Maček	M	Ing.		56	technický pracovník	Bohuslavice nad Vláří	99	166	0
-7204	557102	1	2	166	9	Ladislav	Trybus	M			62	důchodce	Bohuslavice nad Vláří	99	166	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7204	557102	1	1	7	1	Pavel	Janáček			58	technik	Bohuslavice nad Vláří	7	7	0	M
+7204	557102	1	2	166	1	Jiří	Slovák			55	starosta	Bohuslavice nad Vláří	99	166	0	M
+7204	557102	1	1	7	2	Ladislav	Janáček			52	ředitel společnosti	Bohuslavice nad Vláří	99	7	0	M
+7204	557102	1	2	166	2	Jaroslav	Urbaník	Ing.		55	vedoucí oddělení měření	Bohuslavice nad Vláří	99	166	0	M
+7204	557102	1	1	7	3	Milan	Krejčí	MUDr.		61	lékař	Bohuslavice nad Vláří	99	7	0	M
+7204	557102	1	2	166	3	Josef	Šebák			54	malíř	Bohuslavice nad Vláří	99	166	0	M
+7204	557102	1	1	7	4	Marie	Ševčíková			42	účetní	Bohuslavice nad Vláří	99	7	0	F
+7204	557102	1	2	166	4	František	Machuča	Mgr.		44	technický pracovník	Bohuslavice nad Vláří	99	166	0	M
+7204	557102	1	1	7	5	Alena	Manová			27	mateřská dovolená	Bohuslavice nad Vláří	99	7	0	F
+7204	557102	1	2	166	5	Lubomír	Slovák			44	dělník	Bohuslavice nad Vláří	99	166	0	M
+7204	557102	1	1	7	6	Markéta	Vávrová			34	mateřská dovolená	Bohuslavice nad Vláří	99	7	0	F
+7204	557102	1	2	166	6	Vlastislav	Janáček			41	školník	Bohuslavice nad Vláří	99	166	0	M
+7204	557102	1	1	7	7	Josef	Bařinka			34	řidič	Bohuslavice nad Vláří	99	7	0	M
+7204	557102	1	2	166	7	Zuzana	Jandlová	Mgr.		42	učitelka	Bohuslavice nad Vláří	99	166	0	F
+7204	557102	1	1	7	8	Vladimír	Hrabina			59	mistr	Bohuslavice nad Vláří	99	7	0	M
+7204	557102	1	2	166	8	Jiří	Maček	Ing.		56	technický pracovník	Bohuslavice nad Vláří	99	166	0	M
+7204	557102	1	1	7	9	Oldřich	Hrabina			34	mistr	Bohuslavice nad Vláří	99	7	0	M
+7204	557102	1	2	166	9	Ladislav	Trybus			62	důchodce	Bohuslavice nad Vláří	99	166	0	M

@@ -1,33 +1,33 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	578282	1	1	53	1	Jiří	Jelínek	M			48	obchodník	Kunčina	53	53	0
-5303	578282	1	1	53	2	Karel	Antl	M			43	správce	Kunčina	99	53	0
-5303	578282	1	1	53	3	Jaromír	Tlustoš	M			47	stolař	Nová Ves	99	53	0
-5303	578282	1	1	53	4	Roman	Richter	M			38	obchodní manažer	Kunčina	99	53	0
-5303	578282	1	1	53	5	Ilona	Kalinová	F			38	úřednice	Kunčina	99	53	0
-5303	578282	1	1	53	6	Josef	Charvát	M			54	ředitel	Nová Ves	99	53	0
-5303	578282	1	1	53	7	František	Knápek	M			41	stolař	Kunčina	99	53	0
-5303	578282	1	1	53	8	Libor	Pustina	M			37	zámečník	Nová Ves	99	53	0
-5303	578282	1	1	53	9	Pavel	Beránek	M			35	vedoucí výroby	Kunčina	99	53	0
-5303	578282	1	1	53	10	Petr	Rašner	M			43	vedoucí obch. úseku	Kunčina	99	53	0
-5303	578282	1	1	53	11	Pavel	Fajman	M			34	pracovník ve službách	Kunčina	99	53	0
-5303	578282	1	2	7	1	Miloslava	Hutirová	F	Mgr.		50	ředitelka školy	Kunčina	7	7	0
-5303	578282	1	2	7	2	Dagmar	Nedvědová	F			46	učitelka	Nová Ves	99	7	0
-5303	578282	1	2	7	3	Jiří	Sedláček	M			40	elektrikář	Nová Ves	99	7	0
-5303	578282	1	2	7	4	Zdeňka	Doleželová	F			42	prodavačka	Nová Ves	99	7	0
-5303	578282	1	2	7	5	Milan	Prokopec	M			43	pracovník živočišné výroby	Nová Ves	99	7	0
-5303	578282	1	2	7	6	Jarmila	Stejskalová	F			44	rehabilitační sestra	Kunčina	99	7	0
-5303	578282	1	2	7	7	Lenka	Antlová	F			40	zaměstnankyně ZŠ Kunčina	Kunčina	99	7	0
-5303	578282	1	2	7	8	Zdeněk	Opletal	M			31	soustružník	Kunčina	99	7	0
-5303	578282	1	2	7	9	Martin	David	M			31	seřizovač	Nová Ves	99	7	0
-5303	578282	1	2	7	10	Miroslav	Hruban	M	Ing.		28	stavbyvedoucí	Kunčina	99	7	0
-5303	578282	1	3	47	1	Zdeněk	Henych	M			59	starosta	Nová Ves	47	47	0
-5303	578282	1	3	47	2	Oldřich	Vybíral	M	Ing.		58	vedoucí živočišné výroby	Kunčina	99	47	0
-5303	578282	1	3	47	3	Jiří	Šejnoha	M			55	ředitel Agro a.s.	Kunčina	99	47	0
-5303	578282	1	3	47	4	Pavel	Zahradník	M			53	podnikatel	Kunčina	99	47	0
-5303	578282	1	3	47	5	Oldřiška	Kadlecová	F			48	prodavačka	Nová Ves	99	47	0
-5303	578282	1	3	47	6	Tomáš	Matušák	M			33	vedoucí výroby	Kunčina	99	47	0
-5303	578282	1	3	47	7	Josef	Pytlík	M			59	nástrojař	Kunčina	99	47	0
-5303	578282	1	3	47	8	Petr	Jančí	M			39	kuchař	Nová Ves	99	47	0
-5303	578282	1	3	47	9	Josef	Kaláb	M			69	důchodce	Kunčina	99	47	0
-5303	578282	1	3	47	10	Milan	Huška	M			55	dělník	Kunčina	99	47	0
-5303	578282	1	3	47	11	Marek	Šejnoha	M	Ing.		27	technik	Kunčina	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	578282	1	1	53	1	Jiří	Jelínek			48	obchodník	Kunčina	53	53	0	M
+5303	578282	1	2	7	1	Miloslava	Hutirová	Mgr.		50	ředitelka školy	Kunčina	7	7	0	F
+5303	578282	1	3	47	1	Zdeněk	Henych			59	starosta	Nová Ves	47	47	0	M
+5303	578282	1	1	53	2	Karel	Antl			43	správce	Kunčina	99	53	0	M
+5303	578282	1	2	7	2	Dagmar	Nedvědová			46	učitelka	Nová Ves	99	7	0	F
+5303	578282	1	3	47	2	Oldřich	Vybíral	Ing.		58	vedoucí živočišné výroby	Kunčina	99	47	0	M
+5303	578282	1	1	53	3	Jaromír	Tlustoš			47	stolař	Nová Ves	99	53	0	M
+5303	578282	1	2	7	3	Jiří	Sedláček			40	elektrikář	Nová Ves	99	7	0	M
+5303	578282	1	3	47	3	Jiří	Šejnoha			55	ředitel Agro a.s.	Kunčina	99	47	0	M
+5303	578282	1	1	53	4	Roman	Richter			38	obchodní manažer	Kunčina	99	53	0	M
+5303	578282	1	2	7	4	Zdeňka	Doleželová			42	prodavačka	Nová Ves	99	7	0	F
+5303	578282	1	3	47	4	Pavel	Zahradník			53	podnikatel	Kunčina	99	47	0	M
+5303	578282	1	1	53	5	Ilona	Kalinová			38	úřednice	Kunčina	99	53	0	F
+5303	578282	1	2	7	5	Milan	Prokopec			43	pracovník živočišné výroby	Nová Ves	99	7	0	M
+5303	578282	1	3	47	5	Oldřiška	Kadlecová			48	prodavačka	Nová Ves	99	47	0	F
+5303	578282	1	1	53	6	Josef	Charvát			54	ředitel	Nová Ves	99	53	0	M
+5303	578282	1	2	7	6	Jarmila	Stejskalová			44	rehabilitační sestra	Kunčina	99	7	0	F
+5303	578282	1	3	47	6	Tomáš	Matušák			33	vedoucí výroby	Kunčina	99	47	0	M
+5303	578282	1	1	53	7	František	Knápek			41	stolař	Kunčina	99	53	0	M
+5303	578282	1	2	7	7	Lenka	Antlová			40	zaměstnankyně ZŠ Kunčina	Kunčina	99	7	0	F
+5303	578282	1	3	47	7	Josef	Pytlík			59	nástrojař	Kunčina	99	47	0	M
+5303	578282	1	1	53	8	Libor	Pustina			37	zámečník	Nová Ves	99	53	0	M
+5303	578282	1	2	7	8	Zdeněk	Opletal			31	soustružník	Kunčina	99	7	0	M
+5303	578282	1	3	47	8	Petr	Jančí			39	kuchař	Nová Ves	99	47	0	M
+5303	578282	1	1	53	9	Pavel	Beránek			35	vedoucí výroby	Kunčina	99	53	0	M
+5303	578282	1	2	7	9	Martin	David			31	seřizovač	Nová Ves	99	7	0	M
+5303	578282	1	3	47	9	Josef	Kaláb			69	důchodce	Kunčina	99	47	0	M
+5303	578282	1	1	53	10	Petr	Rašner			43	vedoucí obch. úseku	Kunčina	99	53	0	M
+5303	578282	1	2	7	10	Miroslav	Hruban	Ing.		28	stavbyvedoucí	Kunčina	99	7	0	M
+5303	578282	1	3	47	10	Milan	Huška			55	dělník	Kunčina	99	47	0	M
+5303	578282	1	1	53	11	Pavel	Fajman			34	pracovník ve službách	Kunčina	99	53	0	M
+5303	578282	1	3	47	11	Marek	Šejnoha	Ing.		27	technik	Kunčina	99	47	0	M

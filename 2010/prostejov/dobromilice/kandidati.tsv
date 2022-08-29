@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589446	1	1	901	1	Jan	Prusenovský	M			49	inženýr železniční dopravy	Dobromilice	99	80	0
-7103	589446	1	1	901	2	František	Klapil	M			63	důchodce	Dobromilice	99	80	0
-7103	589446	1	1	901	3	Jan	Jílek	M			53	invalidní důchodce	Dobromilice	99	80	0
-7103	589446	1	1	901	4	Roman	Krivčík	M			45	elektrikář	Dobromilice	99	80	0
-7103	589446	1	1	901	5	Lukáš	Hrabal	M			35	obchodní manažer	Dobromilice	99	80	0
-7103	589446	1	1	901	6	Zdeňka	Blumensteinová	F			35	dělnice	Dobromilice	99	80	0
-7103	589446	1	1	901	7	Jana	Málková	F			44	OSVČ	Šternberk	99	80	0
-7103	589446	1	1	901	8	Karel	Pazdera	M			60	klempíř	Dobromilice	99	80	0
-7103	589446	1	1	901	9	Eva	Špalková	F			38	účetní	Dobromilice	99	80	0
-7103	589446	1	2	1	1	Pavel	Drnovský	M			45	výkon státní správy	Dobromilice	99	1	0
-7103	589446	1	2	1	2	Hana	Žondrová	F	Ing.		35	stavební inženýr	Dobromilice	99	1	0
-7103	589446	1	2	1	3	Josef	Prusenovský	M	Ing.		35	stavební inženýr	Dobromilice	99	1	0
-7103	589446	1	2	1	4	Jaroslav	Jordán	M	Ing.		47	podnikatel	Dobromilice	99	1	0
-7103	589446	1	2	1	5	Tomáš	Svozilek	M	Bc.		24	student	Dobromilice	99	1	0
-7103	589446	1	2	1	6	Jiří	Antoníček	M			41	voják z povolání	Dobromilice	99	1	0
-7103	589446	1	2	1	7	Ivana	Rudyková	F			40	mateřská dovolená	Dobromilice	99	1	0
-7103	589446	1	2	1	8	Jaromír	Vláčil	M			50	projektant	Dobromilice	99	1	0
-7103	589446	1	3	47	1	Renata	Antoníčková	F			49	technik	Dobromilice	99	47	0
-7103	589446	1	3	47	2	Vladimír	Piňos	M	Ing.		56	podnikatel	Dobromilice	99	47	0
-7103	589446	1	3	47	3	Pavel	Hruda	M			50	živnostník	Dobromilice	99	47	0
-7103	589446	1	3	47	4	Drahoš	Pravec	M			36	státní zaměstnanec	Dobromilice	99	47	0
-7103	589446	1	3	47	5	Petr	Špičák	M			33	OSVČ	Dobromilice	99	47	0
-7103	589446	1	3	47	6	Petr	Antoníček	M			35	údržbář	Dobromilice	99	47	0
-7103	589446	1	3	47	7	Alena	Matoušková	F			68	důchodce	Dobromilice	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589446	1	1	901	1	Jan	Prusenovský			49	inženýr železniční dopravy	Dobromilice	99	80	0	M
+7103	589446	1	2	1	1	Pavel	Drnovský			45	výkon státní správy	Dobromilice	99	1	0	M
+7103	589446	1	3	47	1	Renata	Antoníčková			49	technik	Dobromilice	99	47	0	F
+7103	589446	1	1	901	2	František	Klapil			63	důchodce	Dobromilice	99	80	0	M
+7103	589446	1	2	1	2	Hana	Žondrová	Ing.		35	stavební inženýr	Dobromilice	99	1	0	F
+7103	589446	1	3	47	2	Vladimír	Piňos	Ing.		56	podnikatel	Dobromilice	99	47	0	M
+7103	589446	1	1	901	3	Jan	Jílek			53	invalidní důchodce	Dobromilice	99	80	0	M
+7103	589446	1	2	1	3	Josef	Prusenovský	Ing.		35	stavební inženýr	Dobromilice	99	1	0	M
+7103	589446	1	3	47	3	Pavel	Hruda			50	živnostník	Dobromilice	99	47	0	M
+7103	589446	1	1	901	4	Roman	Krivčík			45	elektrikář	Dobromilice	99	80	0	M
+7103	589446	1	2	1	4	Jaroslav	Jordán	Ing.		47	podnikatel	Dobromilice	99	1	0	M
+7103	589446	1	3	47	4	Drahoš	Pravec			36	státní zaměstnanec	Dobromilice	99	47	0	M
+7103	589446	1	1	901	5	Lukáš	Hrabal			35	obchodní manažer	Dobromilice	99	80	0	M
+7103	589446	1	2	1	5	Tomáš	Svozilek	Bc.		24	student	Dobromilice	99	1	0	M
+7103	589446	1	3	47	5	Petr	Špičák			33	OSVČ	Dobromilice	99	47	0	M
+7103	589446	1	1	901	6	Zdeňka	Blumensteinová			35	dělnice	Dobromilice	99	80	0	F
+7103	589446	1	2	1	6	Jiří	Antoníček			41	voják z povolání	Dobromilice	99	1	0	M
+7103	589446	1	3	47	6	Petr	Antoníček			35	údržbář	Dobromilice	99	47	0	M
+7103	589446	1	1	901	7	Jana	Málková			44	OSVČ	Šternberk	99	80	0	F
+7103	589446	1	2	1	7	Ivana	Rudyková			40	mateřská dovolená	Dobromilice	99	1	0	F
+7103	589446	1	3	47	7	Alena	Matoušková			68	důchodce	Dobromilice	47	47	0	F
+7103	589446	1	1	901	8	Karel	Pazdera			60	klempíř	Dobromilice	99	80	0	M
+7103	589446	1	2	1	8	Jaromír	Vláčil			50	projektant	Dobromilice	99	1	0	M
+7103	589446	1	1	901	9	Eva	Špalková			38	účetní	Dobromilice	99	80	0	F

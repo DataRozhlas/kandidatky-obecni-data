@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4205	567353	1	1	902	1	Pavel	Novák	M	Ing.		52	energetický specialista	Polerady	99	80	0
-4205	567353	1	1	902	2	Václav	Fiala	M			40	zámečník	Polerady	99	80	0
-4205	567353	1	1	902	3	Alois	Macháč	M			41	provozní zámečník	Polerady	99	80	0
-4205	567353	1	1	902	4	Edvard	Trzop	M			34	řidič speciálních vozidel	Polerady	99	80	0
-4205	567353	1	1	902	5	Ladislav	Červenka	M			53	provozní zámečník	Polerady	99	80	0
-4205	567353	1	1	902	6	Kateřina	Trzopová	F	Bc.		29	OSVČ	Polerady	99	80	0
-4205	567353	1	1	902	7	Iva	Macháčová	F			71	důchodkyně	Polerady	99	80	0
-4205	567353	1	1	902	8	Jana	Ulrichová	F			40	zahradnice	Polerady	99	80	0
-4205	567353	1	2	901	1	Miroslav	Janota	M			47	elektrotechnik	Polerady	99	80	0
-4205	567353	1	2	901	2	Jiří	Plechatý	M			50	skladník	Polerady	99	80	0
-4205	567353	1	2	901	3	Josef	Janota	M			67	důchodce	Polerady	99	80	0
-4205	567353	1	2	901	4	Jan	Vozka	M			20	student	Polerady	99	80	0
-4205	567353	1	2	901	5	Roman	Pohůdka	M			47	řidič	Polerady	99	80	0
-4205	567353	1	2	901	6	Jarmila	Roučková	F			69	důchodce	Polerady	99	80	0
-4205	567353	1	3	7	1	Jaroslav	Kunc	M	Ing.		44	státní úředník	Polerady	7	7	0
-4205	567353	1	3	7	2	Petr	Mayer	M			33	provozní elektro technik	Polerady	99	7	0
-4205	567353	1	3	7	3	Miroslav	Hnátek	M			38	strážník	Polerady	99	7	0
-4205	567353	1	3	7	4	Martin	Kunc	M			22	OSVČ	Polerady	99	7	0
-4205	567353	1	3	7	5	Michal	Pýcha	M			21	obráběč kovů	Polerady	99	7	0
-4205	567353	1	3	7	6	Monika	Hnátková	F	Bc.		36	státní úřednice	Polerady	99	7	0
-4205	567353	1	3	7	7	Jana	Kuncová	F			40	dělnice	Polerady	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4205	567353	1	1	902	1	Pavel	Novák	Ing.		52	energetický specialista	Polerady	99	80	0	M
+4205	567353	1	2	901	1	Miroslav	Janota			47	elektrotechnik	Polerady	99	80	0	M
+4205	567353	1	3	7	1	Jaroslav	Kunc	Ing.		44	státní úředník	Polerady	7	7	0	M
+4205	567353	1	1	902	2	Václav	Fiala			40	zámečník	Polerady	99	80	0	M
+4205	567353	1	2	901	2	Jiří	Plechatý			50	skladník	Polerady	99	80	0	M
+4205	567353	1	3	7	2	Petr	Mayer			33	provozní elektro technik	Polerady	99	7	0	M
+4205	567353	1	1	902	3	Alois	Macháč			41	provozní zámečník	Polerady	99	80	0	M
+4205	567353	1	2	901	3	Josef	Janota			67	důchodce	Polerady	99	80	0	M
+4205	567353	1	3	7	3	Miroslav	Hnátek			38	strážník	Polerady	99	7	0	M
+4205	567353	1	1	902	4	Edvard	Trzop			34	řidič speciálních vozidel	Polerady	99	80	0	M
+4205	567353	1	2	901	4	Jan	Vozka			20	student	Polerady	99	80	0	M
+4205	567353	1	3	7	4	Martin	Kunc			22	OSVČ	Polerady	99	7	0	M
+4205	567353	1	1	902	5	Ladislav	Červenka			53	provozní zámečník	Polerady	99	80	0	M
+4205	567353	1	2	901	5	Roman	Pohůdka			47	řidič	Polerady	99	80	0	M
+4205	567353	1	3	7	5	Michal	Pýcha			21	obráběč kovů	Polerady	99	7	0	M
+4205	567353	1	1	902	6	Kateřina	Trzopová	Bc.		29	OSVČ	Polerady	99	80	0	F
+4205	567353	1	2	901	6	Jarmila	Roučková			69	důchodce	Polerady	99	80	0	F
+4205	567353	1	3	7	6	Monika	Hnátková	Bc.		36	státní úřednice	Polerady	99	7	0	F
+4205	567353	1	1	902	7	Iva	Macháčová			71	důchodkyně	Polerady	99	80	0	F
+4205	567353	1	3	7	7	Jana	Kuncová			40	dělnice	Polerady	99	7	0	F
+4205	567353	1	1	902	8	Jana	Ulrichová			40	zahradnice	Polerady	99	80	0	F

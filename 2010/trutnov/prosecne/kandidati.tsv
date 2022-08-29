@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579602	1	1	901	1	Pavel	Zeman	M			41	lanovkář	Prosečné	99	80	0
-5205	579602	1	1	901	2	Roman	Jančula	M			32	živnostník	Prosečné	99	80	0
-5205	579602	1	1	901	3	Ilona	Bursová	F			38	poštovní úředník	Prosečné	99	80	0
-5205	579602	1	1	901	4	Jaromír	Jančula	M			52	živnostník	Prosečné	99	80	0
-5205	579602	1	1	901	5	Lešek	Przybyla	M			42	řidič	Prosečné	99	80	0
-5205	579602	1	1	901	6	Tomáš	Doubek	M			34	automechanik	Prosečné	99	80	0
-5205	579602	1	1	901	7	Marcela	Zemanová	F			61	učitelka v důchodu	Prosečné	99	80	0
-5205	579602	1	1	901	8	Rudolf	Böhm	M			43	mechanik	Prosečné	99	80	0
-5205	579602	1	1	901	9	Michal	Šrámek	M			32	podnikatel	Prosečné	99	80	0
-5205	579602	1	2	166	1	Jiří	Bachtík	M			44	starosta obce Prosečné	Prosečné	99	166	0
-5205	579602	1	2	166	2	Dana	Šubrtová	F	Bc.		26	ředitelka MŠ Prosečné	Prosečné	99	166	0
-5205	579602	1	2	166	3	Jan	Dostálek	M			29	dělník Škoda auto a.s.	Prosečné	99	166	0
-5205	579602	1	2	166	4	Jiří	Novák	M			35	technik kontr.Škoda auto,a.s.	Prosečné	99	166	0
-5205	579602	1	2	166	5	Aleš	Tomanica	M	Bc.		33	konstruktér Argo Hytos	Prosečné	99	166	0
-5205	579602	1	2	166	6	Andrea	Polesná	F			32	soukromý zemědělec	Prosečné	99	166	0
-5205	579602	1	2	166	7	Roman	Leder	M			32	seřizovač Model Obaly a.s.	Prosečné	99	166	0
-5205	579602	1	2	166	8	Petr	Kopčil	M			52	soukromý podnikatel	Prosečné	99	166	0
-5205	579602	1	2	166	9	Vratislav	Jiřička	M			34	dělník Škoda auto,a.s.	Prosečné	99	166	0
-5205	579602	1	3	53	1	Jan	Basař	M			31	zemědělský podnikatel	Prosečné	99	53	0
-5205	579602	1	3	53	2	Jiří	Tázlar	M			33	řidič	Prosečné	99	53	0
-5205	579602	1	3	53	3	Michal	Mařík	M			32	vedoucí prodejny	Prosečné	99	53	0
-5205	579602	1	3	53	4	Kateřina	Žluvová	F		DiS.	24	disponent expedice	Prosečné	99	53	0
-5205	579602	1	3	53	5	Ladislav	Ludvík	M			33	vedoucí administrativy	Prosečné	99	53	0
-5205	579602	1	3	53	6	Miroslav	Štefan	M			22	soukromý podnikatel	Prosečné	99	53	0
-5205	579602	1	3	53	7	Marek	Resl	M			33	soukromý podnikatel	Prosečné	99	53	0
-5205	579602	1	3	53	8	Karolína	Dvořáková	F	Bc.	DiS.	30	učitelka	Prosečné	99	53	0
-5205	579602	1	3	53	9	Marcela	Čvančarová	F			67	důchodkyně	Prosečné	99	53	0
-5205	579602	1	4	47	1	Jaroslav	Máslo	M	Ing.		42	podnikatel staveb.inženýr	Prosečné	99	47	0
-5205	579602	1	4	47	2	Miroslav	Patzelt	M			44	dělník KRPA	Prosečné	99	47	0
-5205	579602	1	4	47	3	Miloslav	Kalenský	M			63	důchodce	Prosečné	99	47	0
-5205	579602	1	4	47	4	Luboš	Rolf	M			46	str.zámečník	Prosečné	99	47	0
-5205	579602	1	4	47	5	Jaroslav	Máslo	M			69	důchodce	Prosečné	47	47	0
-5205	579602	1	4	47	6	Věra	Šestáková	F			62	důchodkyně	Prosečné	47	47	0
-5205	579602	1	4	47	7	Petr	Kalvach	M			61	podnikatel, důchodce	Prosečné	99	47	0
-5205	579602	1	4	47	8	Josef	Máslo	M			68	důchodce	Prosečné	47	47	0
-5205	579602	1	4	47	9	Karel	Leder	M			60	inval.důchodce	Prosečné	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579602	1	1	901	1	Pavel	Zeman			41	lanovkář	Prosečné	99	80	0	M
+5205	579602	1	2	166	1	Jiří	Bachtík			44	starosta obce Prosečné	Prosečné	99	166	0	M
+5205	579602	1	3	53	1	Jan	Basař			31	zemědělský podnikatel	Prosečné	99	53	0	M
+5205	579602	1	4	47	1	Jaroslav	Máslo	Ing.		42	podnikatel staveb.inženýr	Prosečné	99	47	0	M
+5205	579602	1	1	901	2	Roman	Jančula			32	živnostník	Prosečné	99	80	0	M
+5205	579602	1	2	166	2	Dana	Šubrtová	Bc.		26	ředitelka MŠ Prosečné	Prosečné	99	166	0	F
+5205	579602	1	3	53	2	Jiří	Tázlar			33	řidič	Prosečné	99	53	0	M
+5205	579602	1	4	47	2	Miroslav	Patzelt			44	dělník KRPA	Prosečné	99	47	0	M
+5205	579602	1	1	901	3	Ilona	Bursová			38	poštovní úředník	Prosečné	99	80	0	F
+5205	579602	1	2	166	3	Jan	Dostálek			29	dělník Škoda auto a.s.	Prosečné	99	166	0	M
+5205	579602	1	3	53	3	Michal	Mařík			32	vedoucí prodejny	Prosečné	99	53	0	M
+5205	579602	1	4	47	3	Miloslav	Kalenský			63	důchodce	Prosečné	99	47	0	M
+5205	579602	1	1	901	4	Jaromír	Jančula			52	živnostník	Prosečné	99	80	0	M
+5205	579602	1	2	166	4	Jiří	Novák			35	technik kontr.Škoda auto,a.s.	Prosečné	99	166	0	M
+5205	579602	1	3	53	4	Kateřina	Žluvová		DiS.	24	disponent expedice	Prosečné	99	53	0	F
+5205	579602	1	4	47	4	Luboš	Rolf			46	str.zámečník	Prosečné	99	47	0	M
+5205	579602	1	1	901	5	Lešek	Przybyla			42	řidič	Prosečné	99	80	0	M
+5205	579602	1	2	166	5	Aleš	Tomanica	Bc.		33	konstruktér Argo Hytos	Prosečné	99	166	0	M
+5205	579602	1	3	53	5	Ladislav	Ludvík			33	vedoucí administrativy	Prosečné	99	53	0	M
+5205	579602	1	4	47	5	Jaroslav	Máslo			69	důchodce	Prosečné	47	47	0	M
+5205	579602	1	1	901	6	Tomáš	Doubek			34	automechanik	Prosečné	99	80	0	M
+5205	579602	1	2	166	6	Andrea	Polesná			32	soukromý zemědělec	Prosečné	99	166	0	F
+5205	579602	1	3	53	6	Miroslav	Štefan			22	soukromý podnikatel	Prosečné	99	53	0	M
+5205	579602	1	4	47	6	Věra	Šestáková			62	důchodkyně	Prosečné	47	47	0	F
+5205	579602	1	1	901	7	Marcela	Zemanová			61	učitelka v důchodu	Prosečné	99	80	0	F
+5205	579602	1	2	166	7	Roman	Leder			32	seřizovač Model Obaly a.s.	Prosečné	99	166	0	M
+5205	579602	1	3	53	7	Marek	Resl			33	soukromý podnikatel	Prosečné	99	53	0	M
+5205	579602	1	4	47	7	Petr	Kalvach			61	podnikatel, důchodce	Prosečné	99	47	0	M
+5205	579602	1	1	901	8	Rudolf	Böhm			43	mechanik	Prosečné	99	80	0	M
+5205	579602	1	2	166	8	Petr	Kopčil			52	soukromý podnikatel	Prosečné	99	166	0	M
+5205	579602	1	3	53	8	Karolína	Dvořáková	Bc.	DiS.	30	učitelka	Prosečné	99	53	0	F
+5205	579602	1	4	47	8	Josef	Máslo			68	důchodce	Prosečné	47	47	0	M
+5205	579602	1	1	901	9	Michal	Šrámek			32	podnikatel	Prosečné	99	80	0	M
+5205	579602	1	2	166	9	Vratislav	Jiřička			34	dělník Škoda auto,a.s.	Prosečné	99	166	0	M
+5205	579602	1	3	53	9	Marcela	Čvančarová			67	důchodkyně	Prosečné	99	53	0	F
+5205	579602	1	4	47	9	Karel	Leder			60	inval.důchodce	Prosečné	99	47	0	M

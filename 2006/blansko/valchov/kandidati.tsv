@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	582581	1	1	802	1	Tomáš	Fiala	M			31	zaměstnanec MěÚ	Valchov	99	80	0
-6201	582581	1	2	801	1	Libor	Dokoupil	M		DiS	26	referent nákupu	Valchov	99	80	0
-6201	582581	1	3	803	1	Stanislava	Šromová	F			49	strojní zámečnice	Valchov	99	80	0
-6201	582581	1	4	902	1	Miroslav	Dokoupil	M			52	seřizovač	Valchov	99	80	0
-6201	582581	1	4	902	2	Jiří	Dokoupil	M	ing.		45	technik	Valchov	99	80	0
-6201	582581	1	4	902	3	Josef	Barák	M			46	soukromý podnikatel	Valchov	99	80	0
-6201	582581	1	4	902	4	Robert	Vašíček	M			54	státní zaměstnanec	Valchov	99	80	0
-6201	582581	1	4	902	5	Milan	Menšík	M			48	údržbář	Valchov	99	80	0
-6201	582581	1	4	902	6	Alois	Učeň	M			45	údržbář	Valchov	99	80	0
-6201	582581	1	4	902	7	Radka	Svěráková	F	Ing.		30	odborný referent	Valchov	99	80	0
-6201	582581	1	4	902	8	Petr	Nečas	M			35	dělník	Valchov	1	80	0
-6201	582581	1	4	902	9	Jitka	Hudcová	F			43	dokumentátorka	Valchov	99	80	0
-6201	582581	1	5	805	1	Václav	Hasoň	M			30	operátor	Valchov	99	80	0
-6201	582581	1	6	806	1	Libor	Kalik	M			47	farmář	Valchov	99	80	0
-6201	582581	1	7	901	1	Zdeněk	Kunc	M			65	důchodce	Valchov	99	80	0
-6201	582581	1	7	901	2	Zdeněk	Přikryl	M	Ing.		46	úředník	Valchov	99	80	0
-6201	582581	1	7	901	3	Jiří	Sedlák	M	Ing.		28	jakostní inženýr	Valchov	99	80	0
-6201	582581	1	7	901	4	Rudolf	Štefaňák	M			41	dělník	Valchov	99	80	0
-6201	582581	1	7	901	5	Věra	Vašíčková	F			45	sanitářka	Valchov	99	80	0
-6201	582581	1	7	901	6	Irena	Přibylová	F			33	vychovatelka	Valchov	99	80	0
-6201	582581	1	7	901	7	Petr	Přikryl	M			28	mechanik	Valchov	99	80	0
-6201	582581	1	7	901	8	Karel	Vrána	M			33	elektromechanik	Valchov	99	80	0
-6201	582581	1	7	901	9	Petr	Chlup	M			31	obraběč kovů	Valchov	99	80	0
-6201	582581	1	8	804	1	Dana	Chlupová	F			51	ředitelka mateřské školy	Valchov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	582581	1	1	802	1	Tomáš	Fiala			31	zaměstnanec MěÚ	Valchov	99	80	0	M
+6201	582581	1	2	801	1	Libor	Dokoupil		DiS	26	referent nákupu	Valchov	99	80	0	M
+6201	582581	1	3	803	1	Stanislava	Šromová			49	strojní zámečnice	Valchov	99	80	0	F
+6201	582581	1	4	902	1	Miroslav	Dokoupil			52	seřizovač	Valchov	99	80	0	M
+6201	582581	1	5	805	1	Václav	Hasoň			30	operátor	Valchov	99	80	0	M
+6201	582581	1	6	806	1	Libor	Kalik			47	farmář	Valchov	99	80	0	M
+6201	582581	1	7	901	1	Zdeněk	Kunc			65	důchodce	Valchov	99	80	0	M
+6201	582581	1	8	804	1	Dana	Chlupová			51	ředitelka mateřské školy	Valchov	99	80	0	F
+6201	582581	1	4	902	2	Jiří	Dokoupil	ing.		45	technik	Valchov	99	80	0	M
+6201	582581	1	7	901	2	Zdeněk	Přikryl	Ing.		46	úředník	Valchov	99	80	0	M
+6201	582581	1	4	902	3	Josef	Barák			46	soukromý podnikatel	Valchov	99	80	0	M
+6201	582581	1	7	901	3	Jiří	Sedlák	Ing.		28	jakostní inženýr	Valchov	99	80	0	M
+6201	582581	1	4	902	4	Robert	Vašíček			54	státní zaměstnanec	Valchov	99	80	0	M
+6201	582581	1	7	901	4	Rudolf	Štefaňák			41	dělník	Valchov	99	80	0	M
+6201	582581	1	4	902	5	Milan	Menšík			48	údržbář	Valchov	99	80	0	M
+6201	582581	1	7	901	5	Věra	Vašíčková			45	sanitářka	Valchov	99	80	0	F
+6201	582581	1	4	902	6	Alois	Učeň			45	údržbář	Valchov	99	80	0	M
+6201	582581	1	7	901	6	Irena	Přibylová			33	vychovatelka	Valchov	99	80	0	F
+6201	582581	1	4	902	7	Radka	Svěráková	Ing.		30	odborný referent	Valchov	99	80	0	F
+6201	582581	1	7	901	7	Petr	Přikryl			28	mechanik	Valchov	99	80	0	M
+6201	582581	1	4	902	8	Petr	Nečas			35	dělník	Valchov	1	80	0	M
+6201	582581	1	7	901	8	Karel	Vrána			33	elektromechanik	Valchov	99	80	0	M
+6201	582581	1	4	902	9	Jitka	Hudcová			43	dokumentátorka	Valchov	99	80	0	F
+6201	582581	1	7	901	9	Petr	Chlup			31	obraběč kovů	Valchov	99	80	0	M

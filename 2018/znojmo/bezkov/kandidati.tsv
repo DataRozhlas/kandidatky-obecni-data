@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	593745	1	1	901	1	Martin	Kuřítka	M	MVDr.		35	veterinární lékař	Bezkov	99	80	A
-6207	593745	1	1	901	2	Miroslav	Kubák	M			33	truhlář	Bezkov	99	80	A
-6207	593745	1	1	901	3	Tomáš	Voříšek	M			39	soukromý zemědělec	Bezkov	99	80	A
-6207	593745	1	1	901	4	Marek	Pokorný	M	Ing.		38	tesař	Bezkov	99	80	A
-6207	593745	1	1	901	5	Ida	Holíková	F	Bc.		53	stavební technik	Bezkov	99	80	A
-6207	593745	1	2	355	1	Jiří	Tunka	M			53	podnikatel	Bezkov	1	1	A
-6207	593745	1	2	355	2	Václav	Vybíral	M			35	referent MěÚ	Bezkov	99	1	A
-6207	593745	1	2	355	3	Karolína	Křížová	F	Bc.		37	podnikatel	Bezkov	99	1	A
-6207	593745	1	2	355	4	Jana	Koníčková	F			55	keramička	Bezkov	99	80	A
-6207	593745	1	2	355	5	Hana	Františáková	F			48	technická pracovnice	Bezkov	99	1	A
-6207	593745	1	2	355	6	Zdeněk	Motáček	M			48	dělník	Bezkov	99	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	593745	1	1	901	1	Martin	Kuřítka	MVDr.		35	veterinární lékař	Bezkov	99	80	A	M
+6207	593745	1	2	355	1	Jiří	Tunka			53	podnikatel	Bezkov	1	1	A	M
+6207	593745	1	1	901	2	Miroslav	Kubák			33	truhlář	Bezkov	99	80	A	M
+6207	593745	1	2	355	2	Václav	Vybíral			35	referent MěÚ	Bezkov	99	1	A	M
+6207	593745	1	1	901	3	Tomáš	Voříšek			39	soukromý zemědělec	Bezkov	99	80	A	M
+6207	593745	1	2	355	3	Karolína	Křížová	Bc.		37	podnikatel	Bezkov	99	1	A	F
+6207	593745	1	1	901	4	Marek	Pokorný	Ing.		38	tesař	Bezkov	99	80	A	M
+6207	593745	1	2	355	4	Jana	Koníčková			55	keramička	Bezkov	99	80	A	F
+6207	593745	1	1	901	5	Ida	Holíková	Bc.		53	stavební technik	Bezkov	99	80	A	F
+6207	593745	1	2	355	5	Hana	Františáková			48	technická pracovnice	Bezkov	99	1	A	F
+6207	593745	1	2	355	6	Zdeněk	Motáček			48	dělník	Bezkov	99	1	A	M

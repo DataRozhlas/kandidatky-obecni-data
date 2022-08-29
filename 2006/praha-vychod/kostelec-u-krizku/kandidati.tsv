@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2109	538370	1	1	1	1	František	Dvořák	M	Ing.		37	projektant	Kostelec u Křížků	1	1	0
-2109	538370	1	1	1	2	Bohuslav	Kadlec	M			50	řidič	Kostelec u Křížků	1	1	0
-2109	538370	1	1	1	3	Jitka	Portešová	F			29	t.č.mateřská dovolená	Kostelec u Křížků	99	1	0
-2109	538370	1	1	1	4	Eva	Petržílková	F			66	porodní asistentka	Kostelec u Křížků	99	1	0
-2109	538370	1	1	1	5	Miroslava	Dvořáková	F	Mgr.		36	obchodní referentka	Kostelec u Křížků	1	1	0
-2109	538370	1	2	901	1	Zdeněk	Eisenreich	M	Ing.		47	daňový poradce	Kostelec u Křížků	99	80	0
-2109	538370	1	2	901	2	Dana	Profeldová	F			46	podnikatelka	Kostelec u Křížků	99	80	0
-2109	538370	1	2	901	3	Jan	Trizna	M			41	řidič	Kostelec u Křížků	99	80	0
-2109	538370	1	2	901	4	Václav	Medřický	M			59	referent	Kostelec u Křížků	99	80	0
-2109	538370	1	2	901	5	Ivan	Novák	M	Doc.MUDr.	CSc.	62	pediatr	Kostelec u Křížků	99	80	0
-2109	538370	1	2	901	6	Petr	Hrábek	M			48	prodavač	Kostelec u Křížků	99	80	0
-2109	538370	1	2	901	7	Zdeněk	Králík	M			55	technolog	Kostelec u Křížků	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2109	538370	1	1	1	1	František	Dvořák	Ing.		37	projektant	Kostelec u Křížků	1	1	0	M
+2109	538370	1	2	901	1	Zdeněk	Eisenreich	Ing.		47	daňový poradce	Kostelec u Křížků	99	80	0	M
+2109	538370	1	1	1	2	Bohuslav	Kadlec			50	řidič	Kostelec u Křížků	1	1	0	M
+2109	538370	1	2	901	2	Dana	Profeldová			46	podnikatelka	Kostelec u Křížků	99	80	0	F
+2109	538370	1	1	1	3	Jitka	Portešová			29	t.č.mateřská dovolená	Kostelec u Křížků	99	1	0	F
+2109	538370	1	2	901	3	Jan	Trizna			41	řidič	Kostelec u Křížků	99	80	0	M
+2109	538370	1	1	1	4	Eva	Petržílková			66	porodní asistentka	Kostelec u Křížků	99	1	0	F
+2109	538370	1	2	901	4	Václav	Medřický			59	referent	Kostelec u Křížků	99	80	0	M
+2109	538370	1	1	1	5	Miroslava	Dvořáková	Mgr.		36	obchodní referentka	Kostelec u Křížků	1	1	0	F
+2109	538370	1	2	901	5	Ivan	Novák	Doc.MUDr.	CSc.	62	pediatr	Kostelec u Křížků	99	80	0	M
+2109	538370	1	2	901	6	Petr	Hrábek			48	prodavač	Kostelec u Křížků	99	80	0	M
+2109	538370	1	2	901	7	Zdeněk	Králík			55	technolog	Kostelec u Křížků	99	80	0	M

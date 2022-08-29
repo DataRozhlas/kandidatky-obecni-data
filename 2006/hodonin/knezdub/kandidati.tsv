@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6205	586269	1	1	1	1	Aleš	Mokroš	M			32	zedník	Kněždub	1	1	0
-6205	586269	1	1	1	2	Josef	Zubatý	M			34	truhlář	Kněždub	1	1	0
-6205	586269	1	1	1	3	František	Petrucha	M			44	stolař	Kněždub	1	1	0
-6205	586269	1	1	1	4	Marie	Křižanová	F			54	švadlena	Kněždub	1	1	0
-6205	586269	1	1	1	5	Blanka	Teplá	F			44	zubní laborantka	Kněždub	99	1	0
-6205	586269	1	1	1	6	Radek	Zalubil	M			37	technický pracov.	Kněždub	99	1	0
-6205	586269	1	1	1	7	Marie	Falešníková	F			43	admin.pracovnice	Kněždub	99	1	0
-6205	586269	1	1	1	8	Martin	Frolka	M			54	traktorista	Kněždub	1	1	0
-6205	586269	1	1	1	9	Hana	Staňková	F			31	zdravotní sestra	Kněždub	99	1	0
-6205	586269	1	1	1	10	Martin	Sochor	M			39	stolař	Kněždub	99	1	0
-6205	586269	1	1	1	11	Vladimír	Šantavý	M			39	pokrývač	Kněždub	99	1	0
-6205	586269	1	2	901	1	Libor	Grabec	M			39	starosta obce	Kněždub	99	80	0
-6205	586269	1	2	901	2	Jan	Petrucha	M	Ing.		41	agronom	Kněždub	99	80	0
-6205	586269	1	2	901	3	Jaroslav	Symerský	M	Ing.		43	manager	Kněždub	99	80	0
-6205	586269	1	2	901	4	Vlastislav	Chromeček	M			37	řidič	Kněždub	99	80	0
-6205	586269	1	2	901	5	Jaroslav	Mrkva	M	Mgr.		36	psycholog	Kněždub	99	80	0
-6205	586269	1	2	901	6	Josef	Frolka	M			48	stavební technik	Kněždub	99	80	0
-6205	586269	1	2	901	7	Ludmila	Bartošková	F			48	THP-mistrová	Kněždub	99	80	0
-6205	586269	1	2	901	8	Danuše	Máčalová	F			53	OSVČ	Kněždub	99	80	0
-6205	586269	1	2	901	9	Milan	Durna	M			40	malíř, natěrač	Kněždub	99	80	0
-6205	586269	1	2	901	10	Věra	Karásková	F			40	prodavačka	Kněždub	99	80	0
-6205	586269	1	2	901	11	Jan	Šantavý	M			57	dílenský mistr	Kněždub	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6205	586269	1	1	1	1	Aleš	Mokroš			32	zedník	Kněždub	1	1	0	M
+6205	586269	1	2	901	1	Libor	Grabec			39	starosta obce	Kněždub	99	80	0	M
+6205	586269	1	1	1	2	Josef	Zubatý			34	truhlář	Kněždub	1	1	0	M
+6205	586269	1	2	901	2	Jan	Petrucha	Ing.		41	agronom	Kněždub	99	80	0	M
+6205	586269	1	1	1	3	František	Petrucha			44	stolař	Kněždub	1	1	0	M
+6205	586269	1	2	901	3	Jaroslav	Symerský	Ing.		43	manager	Kněždub	99	80	0	M
+6205	586269	1	1	1	4	Marie	Křižanová			54	švadlena	Kněždub	1	1	0	F
+6205	586269	1	2	901	4	Vlastislav	Chromeček			37	řidič	Kněždub	99	80	0	M
+6205	586269	1	1	1	5	Blanka	Teplá			44	zubní laborantka	Kněždub	99	1	0	F
+6205	586269	1	2	901	5	Jaroslav	Mrkva	Mgr.		36	psycholog	Kněždub	99	80	0	M
+6205	586269	1	1	1	6	Radek	Zalubil			37	technický pracov.	Kněždub	99	1	0	M
+6205	586269	1	2	901	6	Josef	Frolka			48	stavební technik	Kněždub	99	80	0	M
+6205	586269	1	1	1	7	Marie	Falešníková			43	admin.pracovnice	Kněždub	99	1	0	F
+6205	586269	1	2	901	7	Ludmila	Bartošková			48	THP-mistrová	Kněždub	99	80	0	F
+6205	586269	1	1	1	8	Martin	Frolka			54	traktorista	Kněždub	1	1	0	M
+6205	586269	1	2	901	8	Danuše	Máčalová			53	OSVČ	Kněždub	99	80	0	F
+6205	586269	1	1	1	9	Hana	Staňková			31	zdravotní sestra	Kněždub	99	1	0	F
+6205	586269	1	2	901	9	Milan	Durna			40	malíř, natěrač	Kněždub	99	80	0	M
+6205	586269	1	1	1	10	Martin	Sochor			39	stolař	Kněždub	99	1	0	M
+6205	586269	1	2	901	10	Věra	Karásková			40	prodavačka	Kněždub	99	80	0	F
+6205	586269	1	1	1	11	Vladimír	Šantavý			39	pokrývač	Kněždub	99	1	0	M
+6205	586269	1	2	901	11	Jan	Šantavý			57	dílenský mistr	Kněždub	99	80	0	M

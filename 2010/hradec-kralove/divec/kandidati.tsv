@@ -1,9 +1,9 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	569941	1	1	801	1	Roman	Kvasnička	M	Mgr.		30	právník	Divec	99	80	0
-5201	569941	1	2	901	1	Vendulka	Bezrová	F	PaedDr.		54	klinický logoped	Divec	99	80	0
-5201	569941	1	2	901	2	Hana	Fátorová	F			63	důchodce	Divec	99	80	0
-5201	569941	1	2	901	3	Marta	Grandová	F	Mgr.		57	programátor	Divec	99	80	0
-5201	569941	1	2	901	4	Roman	Hrnčíř	M	Ing.		47	technik	Divec	99	80	0
-5201	569941	1	2	901	5	Miroslav	Líbal	M	Ing.		56	jednatel	Divec	99	80	0
-5201	569941	1	2	901	6	Pavel	Tojnar	M			37	technik	Divec	99	80	0
-5201	569941	1	2	901	7	Karel	Vašata	M			53	nástrojař	Divec	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	569941	1	1	801	1	Roman	Kvasnička	Mgr.		30	právník	Divec	99	80	0	M
+5201	569941	1	2	901	1	Vendulka	Bezrová	PaedDr.		54	klinický logoped	Divec	99	80	0	F
+5201	569941	1	2	901	2	Hana	Fátorová			63	důchodce	Divec	99	80	0	F
+5201	569941	1	2	901	3	Marta	Grandová	Mgr.		57	programátor	Divec	99	80	0	F
+5201	569941	1	2	901	4	Roman	Hrnčíř	Ing.		47	technik	Divec	99	80	0	M
+5201	569941	1	2	901	5	Miroslav	Líbal	Ing.		56	jednatel	Divec	99	80	0	M
+5201	569941	1	2	901	6	Pavel	Tojnar			37	technik	Divec	99	80	0	M
+5201	569941	1	2	901	7	Karel	Vašata			53	nástrojař	Divec	99	80	0	M

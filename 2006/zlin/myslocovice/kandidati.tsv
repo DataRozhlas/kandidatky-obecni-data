@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7204	585505	1	1	1	1	František	Dřímal	M			62	důchodce	Mysločovice	99	1	0
-7204	585505	1	1	1	2	Milan	Bilík	M			52	lesní dělník	Mysločovice	99	1	0
-7204	585505	1	1	1	3	Vladimír	Večeřa	M			48	kuchař	Mysločovice	99	1	0
-7204	585505	1	1	1	4	Libuše	Kadlubová	F			57	důchodkyně	Mysločovice	99	1	0
-7204	585505	1	1	1	5	Miroslav	Dyňka	M			58	zedník	Mysločovice	99	1	0
-7204	585505	1	1	1	6	Svatopluk	Langer	M			37	technik	Mysločovice	99	1	0
-7204	585505	1	1	1	7	Roman	Mezl	M	Ing.		39	báňský inženýr	Mysločovice	99	1	0
-7204	585505	1	2	801	1	František	Junk	M			61	dělník	Mysločovice	99	80	0
-7204	585505	1	3	901	1	Ivan	Miserovský	M			63	důchodce	Mysločovice	99	80	0
-7204	585505	1	3	901	2	Miroslava	Dovrtělová	F			53	v domácnosti	Mysločovice	99	80	0
-7204	585505	1	3	901	3	Svatopluk	Kotík	M			54	podnikatel	Mysločovice	99	80	0
-7204	585505	1	4	902	1	Zdeněk	Gazdoš	M			42	živnostník	Mysločovice	99	80	0
-7204	585505	1	4	902	2	Radim	Kutra	M	Ing.		26	stavbyvedoucí	Mysločovice	99	80	0
-7204	585505	1	4	902	3	František	Stoklásek	M			53	podnikatel	Mysločovice	99	80	0
-7204	585505	1	4	902	4	Petr	Žák	M			34	vedoucí skladu	Mysločovice	99	80	0
-7204	585505	1	4	902	5	Václav	Žák	M			60	důchodce	Mysločovice	99	80	0
-7204	585505	1	4	902	6	Jana	Brázdilová	F			22	studující	Mysločovice	99	80	0
-7204	585505	1	4	902	7	Dušan	Dosoudil	M			31	stavbyvedoucí	Mysločovice	99	80	0
-7204	585505	1	4	902	8	Karel	Miklík	M			50	instruktor	Mysločovice	99	80	0
-7204	585505	1	4	902	9	Jana	Dřímalová	F			39	pracovnice odbytu	Mysločovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7204	585505	1	1	1	1	František	Dřímal			62	důchodce	Mysločovice	99	1	0	M
+7204	585505	1	2	801	1	František	Junk			61	dělník	Mysločovice	99	80	0	M
+7204	585505	1	3	901	1	Ivan	Miserovský			63	důchodce	Mysločovice	99	80	0	M
+7204	585505	1	4	902	1	Zdeněk	Gazdoš			42	živnostník	Mysločovice	99	80	0	M
+7204	585505	1	1	1	2	Milan	Bilík			52	lesní dělník	Mysločovice	99	1	0	M
+7204	585505	1	3	901	2	Miroslava	Dovrtělová			53	v domácnosti	Mysločovice	99	80	0	F
+7204	585505	1	4	902	2	Radim	Kutra	Ing.		26	stavbyvedoucí	Mysločovice	99	80	0	M
+7204	585505	1	1	1	3	Vladimír	Večeřa			48	kuchař	Mysločovice	99	1	0	M
+7204	585505	1	3	901	3	Svatopluk	Kotík			54	podnikatel	Mysločovice	99	80	0	M
+7204	585505	1	4	902	3	František	Stoklásek			53	podnikatel	Mysločovice	99	80	0	M
+7204	585505	1	1	1	4	Libuše	Kadlubová			57	důchodkyně	Mysločovice	99	1	0	F
+7204	585505	1	4	902	4	Petr	Žák			34	vedoucí skladu	Mysločovice	99	80	0	M
+7204	585505	1	1	1	5	Miroslav	Dyňka			58	zedník	Mysločovice	99	1	0	M
+7204	585505	1	4	902	5	Václav	Žák			60	důchodce	Mysločovice	99	80	0	M
+7204	585505	1	1	1	6	Svatopluk	Langer			37	technik	Mysločovice	99	1	0	M
+7204	585505	1	4	902	6	Jana	Brázdilová			22	studující	Mysločovice	99	80	0	F
+7204	585505	1	1	1	7	Roman	Mezl	Ing.		39	báňský inženýr	Mysločovice	99	1	0	M
+7204	585505	1	4	902	7	Dušan	Dosoudil			31	stavbyvedoucí	Mysločovice	99	80	0	M
+7204	585505	1	4	902	8	Karel	Miklík			50	instruktor	Mysločovice	99	80	0	M
+7204	585505	1	4	902	9	Jana	Dřímalová			39	pracovnice odbytu	Mysločovice	99	80	0	F

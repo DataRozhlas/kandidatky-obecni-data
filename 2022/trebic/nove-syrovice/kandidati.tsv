@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6104	591254	1	1	1325	1	Barbora	Pokorná	F		DiS.	38	úředník	Krnčice	99	80	A
-6104	591254	1	1	1325	2	Michael	Heřmánek	M			34	zdravotní bratr	Nové Syrovice	99	80	A
-6104	591254	1	1	1325	3	Radmila	Punčochářová	F	Mgr.		55	ředitelka základní školy	Nové Syrovice	99	80	A
-6104	591254	1	1	1325	4	Marek	Poláček	M			28	mechanik	Nové Syrovice	99	80	A
-6104	591254	1	1	1325	5	Jaroslav	Růžička	M			27	dělník v kovovýrobě	Krnčice	99	80	A
-6104	591254	1	1	1325	6	Veronika	Kopecká	F		DiS.	36	zdravotní sestra	Krnčice	99	80	A
-6104	591254	1	1	1325	7	David	Jenerál	M			24	řidič	Nové Syrovice	99	80	A
-6104	591254	1	1	1325	8	Ludmila	Čáblová	F	Bc.		48	pracovník v sociálních službách	Nové Syrovice	99	80	A
-6104	591254	1	1	1325	9	Leoš	Tesař	M			39	podnikatel	Krnčice	99	80	A
-6104	591254	1	1	1325	10	Marek	Klusáček	M			35	technik	Nové Syrovice	99	80	A
-6104	591254	1	1	1325	11	Miroslava	Šťávová	F			43	operátor výroby	Nové Syrovice	99	80	A
-6104	591254	1	1	1325	12	Radka	Vitula	F			41	na mateřské dovolené	Nové Syrovice	99	80	A
-6104	591254	1	1	1325	13	Dominik	Punčochář	M			28	hasič	Nové Syrovice	99	80	A
-6104	591254	1	1	1325	14	Josef	Solanský	M			72	důchodce	Nové Syrovice	1	80	A
-6104	591254	1	1	1325	15	Miloslav	Pecivál	M	Ing.		63	úředník	Nové Syrovice	99	80	A
-6104	591254	1	2	901	1	Oldřich	Svoboda	M			62	starosta obce	Nové Syrovice	99	80	A
-6104	591254	1	2	901	2	František	Dubský	M	Mgr.		54	ředitel Gymnázia a SOŠ	Nové Syrovice	99	80	A
-6104	591254	1	2	901	3	Jiří	Sedlmajer	M			40	truhlář	Nové Syrovice	99	80	A
-6104	591254	1	2	901	4	Miroslav	Čurda	M			57	skladník	Krnčice	99	80	A
-6104	591254	1	2	901	5	Jaroslav	Růžička	M			48	dělník	Krnčice	99	80	A
-6104	591254	1	2	901	6	Vlastimil	Štěpanovský	M	Ing.		35	stavbyvedoucí	Nové Syrovice	99	80	A
-6104	591254	1	2	901	7	Dana	Kašpárková	F			38	mateřská dovolená	Nové Syrovice	99	80	A
-6104	591254	1	2	901	8	Karel	Novotný	M	Ing.		72	OSVČ	Nové Syrovice	99	80	A
-6104	591254	1	2	901	9	Dana	Peřinková	F			57	referentka	Krnčice	99	80	A
-6104	591254	1	2	901	10	Dagmar	Šerháková	F			56	kuchařka	Nové Syrovice	99	80	A
-6104	591254	1	2	901	11	Jana	Kašpárková	F			33	pracovník v sociálních službách	Nové Syrovice	99	80	A
-6104	591254	1	2	901	12	Miloslav	Nejedlík	M			62	důchodce	Nové Syrovice	99	80	A
-6104	591254	1	2	901	13	Jakub	Dubský	M			29	mechanik, seřizovač	Nové Syrovice	99	80	A
-6104	591254	1	2	901	14	Tomáš	Lang	M			38	voják	Nové Syrovice	99	80	A
-6104	591254	1	2	901	15	Lenka	Tříletá	F			51	uklízečka	Nové Syrovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6104	591254	1	1	1325	1	Barbora	Pokorná		DiS.	38	úředník	Krnčice	99	80	A	F
+6104	591254	1	2	901	1	Oldřich	Svoboda			62	starosta obce	Nové Syrovice	99	80	A	M
+6104	591254	1	1	1325	2	Michael	Heřmánek			34	zdravotní bratr	Nové Syrovice	99	80	A	M
+6104	591254	1	2	901	2	František	Dubský	Mgr.		54	ředitel Gymnázia a SOŠ	Nové Syrovice	99	80	A	M
+6104	591254	1	1	1325	3	Radmila	Punčochářová	Mgr.		55	ředitelka základní školy	Nové Syrovice	99	80	A	F
+6104	591254	1	2	901	3	Jiří	Sedlmajer			40	truhlář	Nové Syrovice	99	80	A	M
+6104	591254	1	1	1325	4	Marek	Poláček			28	mechanik	Nové Syrovice	99	80	A	M
+6104	591254	1	2	901	4	Miroslav	Čurda			57	skladník	Krnčice	99	80	A	M
+6104	591254	1	1	1325	5	Jaroslav	Růžička			27	dělník v kovovýrobě	Krnčice	99	80	A	M
+6104	591254	1	2	901	5	Jaroslav	Růžička			48	dělník	Krnčice	99	80	A	M
+6104	591254	1	1	1325	6	Veronika	Kopecká		DiS.	36	zdravotní sestra	Krnčice	99	80	A	F
+6104	591254	1	2	901	6	Vlastimil	Štěpanovský	Ing.		35	stavbyvedoucí	Nové Syrovice	99	80	A	M
+6104	591254	1	1	1325	7	David	Jenerál			24	řidič	Nové Syrovice	99	80	A	M
+6104	591254	1	2	901	7	Dana	Kašpárková			38	mateřská dovolená	Nové Syrovice	99	80	A	F
+6104	591254	1	1	1325	8	Ludmila	Čáblová	Bc.		48	pracovník v sociálních službách	Nové Syrovice	99	80	A	F
+6104	591254	1	2	901	8	Karel	Novotný	Ing.		72	OSVČ	Nové Syrovice	99	80	A	M
+6104	591254	1	1	1325	9	Leoš	Tesař			39	podnikatel	Krnčice	99	80	A	M
+6104	591254	1	2	901	9	Dana	Peřinková			57	referentka	Krnčice	99	80	A	F
+6104	591254	1	1	1325	10	Marek	Klusáček			35	technik	Nové Syrovice	99	80	A	M
+6104	591254	1	2	901	10	Dagmar	Šerháková			56	kuchařka	Nové Syrovice	99	80	A	F
+6104	591254	1	1	1325	11	Miroslava	Šťávová			43	operátor výroby	Nové Syrovice	99	80	A	F
+6104	591254	1	2	901	11	Jana	Kašpárková			33	pracovník v sociálních službách	Nové Syrovice	99	80	A	F
+6104	591254	1	1	1325	12	Radka	Vitula			41	na mateřské dovolené	Nové Syrovice	99	80	A	F
+6104	591254	1	2	901	12	Miloslav	Nejedlík			62	důchodce	Nové Syrovice	99	80	A	M
+6104	591254	1	1	1325	13	Dominik	Punčochář			28	hasič	Nové Syrovice	99	80	A	M
+6104	591254	1	2	901	13	Jakub	Dubský			29	mechanik, seřizovač	Nové Syrovice	99	80	A	M
+6104	591254	1	1	1325	14	Josef	Solanský			72	důchodce	Nové Syrovice	1	80	A	M
+6104	591254	1	2	901	14	Tomáš	Lang			38	voják	Nové Syrovice	99	80	A	M
+6104	591254	1	1	1325	15	Miloslav	Pecivál	Ing.		63	úředník	Nové Syrovice	99	80	A	M
+6104	591254	1	2	901	15	Lenka	Tříletá			51	uklízečka	Nové Syrovice	99	80	A	F

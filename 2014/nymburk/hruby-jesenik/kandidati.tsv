@@ -1,32 +1,32 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2108	599638	1	1	902	1	Roman	Sodoma	M	Bc.		40	celník	Hrubý Jeseník	99	80	0
-2108	599638	1	1	902	2	Miroslav	Chlíbek	M			66	důchodce	Hrubý Jeseník	99	80	0
-2108	599638	1	1	902	3	Jaroslav	Oberhel	M	Mgr.		45	ředitel školy	Hrubý Jeseník	99	80	0
-2108	599638	1	1	902	4	Jiří	Rybín	M			56	vedoucí prodejny	Hrubý Jeseník	99	80	0
-2108	599638	1	1	902	5	Jana	Hurychová	F			37	účetní	Hrubý Jeseník	99	80	0
-2108	599638	1	1	902	6	Pavla	Kučerová	F			46	vedoucí oddělení logistiky skladu	Hrubý Jeseník	99	80	0
-2108	599638	1	1	902	7	Magdalena	Kurková	F			38	v domácnosti	Hrubý Jeseník	99	80	0
-2108	599638	1	1	902	8	Vratislav	Nešněra	M			40	invalidní důchodce	Hrubý Jeseník	99	80	0
-2108	599638	1	2	901	1	Jakub	Hájek	M			27	obchodní zástupce	Hrubý Jeseník	99	80	0
-2108	599638	1	2	901	2	Miroslav	Šifta	M	JUDr.		61	právník	Hrubý Jeseník	99	80	0
-2108	599638	1	2	901	3	Aleš	Mikeš	M			44	mechanik	Hrubý Jeseník	99	80	0
-2108	599638	1	2	901	4	Pavel	Stránský	M			28	dispečer výroby	Hrubý Jeseník	99	80	0
-2108	599638	1	2	901	5	Alena	Čecháčková	F			31	účetní na MD	Hrubý Jeseník	99	80	0
-2108	599638	1	2	901	6	Ladislav	Hájek	M			63	důchodce	Hrubý Jeseník	99	80	0
-2108	599638	1	2	901	7	Valérie	Pourová	F			23	úřednice	Hrubý Jeseník	99	80	0
-2108	599638	1	2	901	8	Jitka	Ottová	F	Bc.		37	učitelka MŠ	Hrubý Jeseník	99	80	0
-2108	599638	1	2	901	9	Andrea	Košvancová	F			26	studující	Hrubý Jeseník	99	80	0
-2108	599638	1	3	903	1	Zdeněk	Kubálek	M	Mgr.		49	učitel	Hrubý Jeseník	99	80	0
-2108	599638	1	3	903	2	Josef	Frcek	M	Ing.		47	technolog	Hrubý Jeseník	99	80	0
-2108	599638	1	3	903	3	Jiří	Škoda	M			41	specialista	Hrubý Jeseník	99	80	0
-2108	599638	1	3	903	4	Vojtěch	Svárovský	M			24	vedoucí skladu	Hrubý Jeseník	99	80	0
-2108	599638	1	3	903	5	David	Hájek	M			36	automechanik	Hrubý Jeseník	99	80	0
-2108	599638	1	3	903	6	Luboš	Havlíček	M			47	řidič	Hrubý Jeseník	99	80	0
-2108	599638	1	3	903	7	Zdeněk	Hráský	M			20	student	Hrubý Jeseník	99	80	0
-2108	599638	1	3	903	8	Hana	Kuncová	F			56	invalidní důchodkyně	Hrubý Jeseník	99	80	0
-2108	599638	1	3	903	9	Václav	Erben	M			48	řidič	Hrubý Jeseník	99	80	0
-2108	599638	1	4	7	1	Martin	Hájek	M			23	programátor	Hrubý Jeseník	7	7	0
-2108	599638	1	4	7	2	Josef	Tomsa	M			56	koordinátor logistiky	Hrubý Jeseník	99	7	0
-2108	599638	1	4	7	3	Alena	Hájková	F			54	vychovatelka	Hrubý Jeseník	7	7	0
-2108	599638	1	4	7	4	Pavel	Dobeš	M			39	výpravčí	Hrubý Jeseník	99	7	0
-2108	599638	1	4	7	5	Eva	Mocová	F			77	důchodce	Hrubý Jeseník	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2108	599638	1	1	902	1	Roman	Sodoma	Bc.		40	celník	Hrubý Jeseník	99	80	0	M
+2108	599638	1	2	901	1	Jakub	Hájek			27	obchodní zástupce	Hrubý Jeseník	99	80	0	M
+2108	599638	1	3	903	1	Zdeněk	Kubálek	Mgr.		49	učitel	Hrubý Jeseník	99	80	0	M
+2108	599638	1	4	7	1	Martin	Hájek			23	programátor	Hrubý Jeseník	7	7	0	M
+2108	599638	1	1	902	2	Miroslav	Chlíbek			66	důchodce	Hrubý Jeseník	99	80	0	M
+2108	599638	1	2	901	2	Miroslav	Šifta	JUDr.		61	právník	Hrubý Jeseník	99	80	0	M
+2108	599638	1	3	903	2	Josef	Frcek	Ing.		47	technolog	Hrubý Jeseník	99	80	0	M
+2108	599638	1	4	7	2	Josef	Tomsa			56	koordinátor logistiky	Hrubý Jeseník	99	7	0	M
+2108	599638	1	1	902	3	Jaroslav	Oberhel	Mgr.		45	ředitel školy	Hrubý Jeseník	99	80	0	M
+2108	599638	1	2	901	3	Aleš	Mikeš			44	mechanik	Hrubý Jeseník	99	80	0	M
+2108	599638	1	3	903	3	Jiří	Škoda			41	specialista	Hrubý Jeseník	99	80	0	M
+2108	599638	1	4	7	3	Alena	Hájková			54	vychovatelka	Hrubý Jeseník	7	7	0	F
+2108	599638	1	1	902	4	Jiří	Rybín			56	vedoucí prodejny	Hrubý Jeseník	99	80	0	M
+2108	599638	1	2	901	4	Pavel	Stránský			28	dispečer výroby	Hrubý Jeseník	99	80	0	M
+2108	599638	1	3	903	4	Vojtěch	Svárovský			24	vedoucí skladu	Hrubý Jeseník	99	80	0	M
+2108	599638	1	4	7	4	Pavel	Dobeš			39	výpravčí	Hrubý Jeseník	99	7	0	M
+2108	599638	1	1	902	5	Jana	Hurychová			37	účetní	Hrubý Jeseník	99	80	0	F
+2108	599638	1	2	901	5	Alena	Čecháčková			31	účetní na MD	Hrubý Jeseník	99	80	0	F
+2108	599638	1	3	903	5	David	Hájek			36	automechanik	Hrubý Jeseník	99	80	0	M
+2108	599638	1	4	7	5	Eva	Mocová			77	důchodce	Hrubý Jeseník	99	7	0	F
+2108	599638	1	1	902	6	Pavla	Kučerová			46	vedoucí oddělení logistiky skladu	Hrubý Jeseník	99	80	0	F
+2108	599638	1	2	901	6	Ladislav	Hájek			63	důchodce	Hrubý Jeseník	99	80	0	M
+2108	599638	1	3	903	6	Luboš	Havlíček			47	řidič	Hrubý Jeseník	99	80	0	M
+2108	599638	1	1	902	7	Magdalena	Kurková			38	v domácnosti	Hrubý Jeseník	99	80	0	F
+2108	599638	1	2	901	7	Valérie	Pourová			23	úřednice	Hrubý Jeseník	99	80	0	F
+2108	599638	1	3	903	7	Zdeněk	Hráský			20	student	Hrubý Jeseník	99	80	0	M
+2108	599638	1	1	902	8	Vratislav	Nešněra			40	invalidní důchodce	Hrubý Jeseník	99	80	0	M
+2108	599638	1	2	901	8	Jitka	Ottová	Bc.		37	učitelka MŠ	Hrubý Jeseník	99	80	0	F
+2108	599638	1	3	903	8	Hana	Kuncová			56	invalidní důchodkyně	Hrubý Jeseník	99	80	0	F
+2108	599638	1	2	901	9	Andrea	Košvancová			26	studující	Hrubý Jeseník	99	80	0	F
+2108	599638	1	3	903	9	Václav	Erben			48	řidič	Hrubý Jeseník	99	80	0	M

@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3105	550540	1	1	766	1	Václav	Kolář	M	Ing.		35	manažer	Strunkovice nad Blanicí	99	766	A
-3105	550540	1	1	766	2	Mária	Šandová	F	Ing.		33	projektant	Strunkovice nad Blanicí	99	766	A
-3105	550540	1	1	766	3	Marcela	Kadlecová	F			47	OSVČ	Velký Bor	99	766	A
-3105	550540	1	1	766	4	Lukáš	Pártl	M			34	technik	Strunkovice nad Blanicí	99	766	A
-3105	550540	1	1	766	5	Jitka	Matějková	F	Ing.		40	lektor anglického jazyka	Strunkovice nad Blanicí	99	766	A
-3105	550540	1	1	766	6	Alžběta	Stará	F	Ing.	Ph.D.	36	pracovník Jihočeské univerzity	Strunkovice nad Blanicí	99	766	A
-3105	550540	1	1	766	7	Gabriela	Richterová	F			42	dámská krejčová	Strunkovice nad Blanicí	99	766	A
-3105	550540	1	1	766	8	David	Alenka	M			42	mistr výroby	Strunkovice nad Blanicí	99	766	A
-3105	550540	1	1	766	9	Romana	Dubravcová	F			44	pracovník v textilní výrobě	Strunkovice nad Blanicí	99	766	A
-3105	550540	1	1	766	10	Petr	Šanda	M			39	OSVČ	Strunkovice nad Blanicí	99	766	A
-3105	550540	1	1	766	11	Ivan	Ostádal	M			50	OSVČ	Strunkovice nad Blanicí	99	766	A
-3105	550540	1	2	166	1	Vladimír	Trávníček	M	Mgr.		49	ředitel školy	Strunkovice nad Blanicí	99	166	A
-3105	550540	1	2	166	2	Jiří	Petrášek	M	Ing.		56	pracovník v energetice	Velký Bor	99	166	A
-3105	550540	1	2	166	3	Dana	Kábelová	F			49	vedoucí pošty	Protivec	99	166	A
-3105	550540	1	2	166	4	Jaroslav	Petrlík	M			49	soukromý podnikatel	Šipoun	99	166	A
-3105	550540	1	2	166	5	Eva	Grebeníčková	F			48	zdravotní sestra	Strunkovice nad Blanicí	99	166	A
-3105	550540	1	2	166	6	Zdeněk	Novák	M			44	soukromý zemědělec	Malý Bor	99	166	A
-3105	550540	1	2	166	7	Petr	Sebera	M			47	řidič	Strunkovice nad Blanicí	99	166	A
-3105	550540	1	2	166	8	Jiří	Holub	M			61	finanční poradce	Strunkovice nad Blanicí	99	166	A
-3105	550540	1	2	166	9	Miroslav	Kašpar	M			41	zámečník	Strunkovice nad Blanicí	99	166	A
-3105	550540	1	2	166	10	Iveta	Kosmatová	F			48	sociální pracovnice	Strunkovice nad Blanicí	99	166	A
-3105	550540	1	2	166	11	Ivo	Novotný	M	Ing.		52	ředitel městské policie	Strunkovice nad Blanicí	99	166	A
-3105	550540	1	3	1	1	Karel	Matějka	M	Ing.		54	starosta městyse	Strunkovice nad Blanicí	99	1	A
-3105	550540	1	3	1	2	Rudolf	Toušek	M			58	místostarosta městyse	Strunkovice nad Blanicí	99	1	A
-3105	550540	1	3	1	3	Václav	Kozler	M	Ing.		50	projektant	Strunkovice nad Blanicí	1	1	A
-3105	550540	1	3	1	4	Mikuláš	Richter	M			40	výrobní ředitel	Strunkovice nad Blanicí	99	1	A
-3105	550540	1	3	1	5	Hana	Pártlová	F	Mgr.		59	ředitelka školy v. v.	Strunkovice nad Blanicí	99	1	A
-3105	550540	1	3	1	6	Jan	Pártl	M	Ing.		37	lesník	Strunkovice nad Blanicí	1	1	A
-3105	550540	1	3	1	7	Růžena	Nováková	F			55	farmaceutická laborantka	Strunkovice nad Blanicí	99	1	A
-3105	550540	1	3	1	8	Jan	Starý	M	MVDr.	Ph.D.	37	veterinární lékař	Strunkovice nad Blanicí	99	1	A
-3105	550540	1	3	1	9	Lukáš	Brabec	M	Ing.		37	stavbyvedoucí	Strunkovice nad Blanicí	99	1	A
-3105	550540	1	3	1	10	Vladimír	Dubravec	M	Bc.		47	obchodní zástupce	Strunkovice nad Blanicí	99	1	A
-3105	550540	1	3	1	11	Pavel	Koterzyna	M			55	kavárník	Strunkovice nad Blanicí	99	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3105	550540	1	1	766	1	Václav	Kolář	Ing.		35	manažer	Strunkovice nad Blanicí	99	766	A	M
+3105	550540	1	2	166	1	Vladimír	Trávníček	Mgr.		49	ředitel školy	Strunkovice nad Blanicí	99	166	A	M
+3105	550540	1	3	1	1	Karel	Matějka	Ing.		54	starosta městyse	Strunkovice nad Blanicí	99	1	A	M
+3105	550540	1	1	766	2	Mária	Šandová	Ing.		33	projektant	Strunkovice nad Blanicí	99	766	A	F
+3105	550540	1	2	166	2	Jiří	Petrášek	Ing.		56	pracovník v energetice	Velký Bor	99	166	A	M
+3105	550540	1	3	1	2	Rudolf	Toušek			58	místostarosta městyse	Strunkovice nad Blanicí	99	1	A	M
+3105	550540	1	1	766	3	Marcela	Kadlecová			47	OSVČ	Velký Bor	99	766	A	F
+3105	550540	1	2	166	3	Dana	Kábelová			49	vedoucí pošty	Protivec	99	166	A	F
+3105	550540	1	3	1	3	Václav	Kozler	Ing.		50	projektant	Strunkovice nad Blanicí	1	1	A	M
+3105	550540	1	1	766	4	Lukáš	Pártl			34	technik	Strunkovice nad Blanicí	99	766	A	M
+3105	550540	1	2	166	4	Jaroslav	Petrlík			49	soukromý podnikatel	Šipoun	99	166	A	M
+3105	550540	1	3	1	4	Mikuláš	Richter			40	výrobní ředitel	Strunkovice nad Blanicí	99	1	A	M
+3105	550540	1	1	766	5	Jitka	Matějková	Ing.		40	lektor anglického jazyka	Strunkovice nad Blanicí	99	766	A	F
+3105	550540	1	2	166	5	Eva	Grebeníčková			48	zdravotní sestra	Strunkovice nad Blanicí	99	166	A	F
+3105	550540	1	3	1	5	Hana	Pártlová	Mgr.		59	ředitelka školy v. v.	Strunkovice nad Blanicí	99	1	A	F
+3105	550540	1	1	766	6	Alžběta	Stará	Ing.	Ph.D.	36	pracovník Jihočeské univerzity	Strunkovice nad Blanicí	99	766	A	F
+3105	550540	1	2	166	6	Zdeněk	Novák			44	soukromý zemědělec	Malý Bor	99	166	A	M
+3105	550540	1	3	1	6	Jan	Pártl	Ing.		37	lesník	Strunkovice nad Blanicí	1	1	A	M
+3105	550540	1	1	766	7	Gabriela	Richterová			42	dámská krejčová	Strunkovice nad Blanicí	99	766	A	F
+3105	550540	1	2	166	7	Petr	Sebera			47	řidič	Strunkovice nad Blanicí	99	166	A	M
+3105	550540	1	3	1	7	Růžena	Nováková			55	farmaceutická laborantka	Strunkovice nad Blanicí	99	1	A	F
+3105	550540	1	1	766	8	David	Alenka			42	mistr výroby	Strunkovice nad Blanicí	99	766	A	M
+3105	550540	1	2	166	8	Jiří	Holub			61	finanční poradce	Strunkovice nad Blanicí	99	166	A	M
+3105	550540	1	3	1	8	Jan	Starý	MVDr.	Ph.D.	37	veterinární lékař	Strunkovice nad Blanicí	99	1	A	M
+3105	550540	1	1	766	9	Romana	Dubravcová			44	pracovník v textilní výrobě	Strunkovice nad Blanicí	99	766	A	F
+3105	550540	1	2	166	9	Miroslav	Kašpar			41	zámečník	Strunkovice nad Blanicí	99	166	A	M
+3105	550540	1	3	1	9	Lukáš	Brabec	Ing.		37	stavbyvedoucí	Strunkovice nad Blanicí	99	1	A	M
+3105	550540	1	1	766	10	Petr	Šanda			39	OSVČ	Strunkovice nad Blanicí	99	766	A	M
+3105	550540	1	2	166	10	Iveta	Kosmatová			48	sociální pracovnice	Strunkovice nad Blanicí	99	166	A	F
+3105	550540	1	3	1	10	Vladimír	Dubravec	Bc.		47	obchodní zástupce	Strunkovice nad Blanicí	99	1	A	M
+3105	550540	1	1	766	11	Ivan	Ostádal			50	OSVČ	Strunkovice nad Blanicí	99	766	A	M
+3105	550540	1	2	166	11	Ivo	Novotný	Ing.		52	ředitel městské policie	Strunkovice nad Blanicí	99	166	A	M
+3105	550540	1	3	1	11	Pavel	Koterzyna			55	kavárník	Strunkovice nad Blanicí	99	1	A	M

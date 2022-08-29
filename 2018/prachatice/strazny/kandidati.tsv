@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3105	550531	1	1	47	1	Jiří	Vacek	M	Bc.		44	technik	Strážný	99	47	A
-3105	550531	1	1	47	2	František	Dostál	M			43	dělník	Strážný	47	47	A
-3105	550531	1	1	47	3	Tomáš	Vostruha	M			44	lesník	Strážný	99	47	A
-3105	550531	1	1	47	4	Jaroslav	Kolman	M			33	dělník	Strážný	99	47	A
-3105	550531	1	1	47	5	Michal	Tůma	M			33	dělník	Strážný	99	47	A
-3105	550531	1	1	47	6	Pavel	Švehla	M			37	dělník	Strážný	99	47	A
-3105	550531	1	1	47	7	Lucie	Hodboďová	F			35	rodičovská dovolená	Strážný	99	47	A
-3105	550531	1	1	47	8	Petr	Růžička	M			51	invalidní důchodce	Strážný	99	47	A
-3105	550531	1	1	47	9	Roman	Potenec	M			52	dělník	Strážný	99	47	A
-3105	550531	1	2	7	1	Jaroslav	Pubal	M	Ing.		62	OSVČ	Strážný	99	7	A
-3105	550531	1	2	7	2	Marcela	Potencová	F			52	krupiérka	Strážný	99	7	A
-3105	550531	1	2	7	3	Alena	Vodičková	F	Bc.		39	pokojská	Strážný	99	7	A
-3105	550531	1	2	7	4	Eva	Tesařová	F			54	v domácnosti	Strážný	99	7	A
-3105	550531	1	2	7	5	Jiří	Tesař	M			57	mechanik	Strážný	99	7	A
-3105	550531	1	2	7	6	David	Müller	M			42	OSVČ	Strážný	99	7	A
-3105	550531	1	2	7	7	Jaroslava	Žluvová	F			39	mateřská dovolená	Strážný	99	7	A
-3105	550531	1	3	901	1	Jiřina	Kraliková	F	Mgr.		51	učitelka	Strážný	99	80	A
-3105	550531	1	3	901	2	Martin	Szwanczar	M			47	manažer servisu	Strážný	99	80	A
-3105	550531	1	3	901	3	Ondřej	Zagatta	M	Ing.		32	vedoucí předvýroby	Kořenný	99	80	A
-3105	550531	1	3	901	4	Pavel	Vokál	M	Ing.		58	podnikatel	Hliniště	99	80	A
-3105	550531	1	3	901	5	František	Čuba	M			42	dělník	Strážný	99	80	A
-3105	550531	1	3	901	6	Petra	Hlávková	F			42	prodavačka	Hliniště	99	80	A
-3105	550531	1	3	901	7	Radovan	Dušek	M			32	podnikatel	Strážný	99	80	A
-3105	550531	1	3	901	8	Martin	Beneš	M			34	podnikatel	Strážný	99	80	A
-3105	550531	1	3	901	9	Eva	Wagner	F			50	podnikatelka	Strážný	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3105	550531	1	1	47	1	Jiří	Vacek	Bc.		44	technik	Strážný	99	47	A	M
+3105	550531	1	2	7	1	Jaroslav	Pubal	Ing.		62	OSVČ	Strážný	99	7	A	M
+3105	550531	1	3	901	1	Jiřina	Kraliková	Mgr.		51	učitelka	Strážný	99	80	A	F
+3105	550531	1	1	47	2	František	Dostál			43	dělník	Strážný	47	47	A	M
+3105	550531	1	2	7	2	Marcela	Potencová			52	krupiérka	Strážný	99	7	A	F
+3105	550531	1	3	901	2	Martin	Szwanczar			47	manažer servisu	Strážný	99	80	A	M
+3105	550531	1	1	47	3	Tomáš	Vostruha			44	lesník	Strážný	99	47	A	M
+3105	550531	1	2	7	3	Alena	Vodičková	Bc.		39	pokojská	Strážný	99	7	A	F
+3105	550531	1	3	901	3	Ondřej	Zagatta	Ing.		32	vedoucí předvýroby	Kořenný	99	80	A	M
+3105	550531	1	1	47	4	Jaroslav	Kolman			33	dělník	Strážný	99	47	A	M
+3105	550531	1	2	7	4	Eva	Tesařová			54	v domácnosti	Strážný	99	7	A	F
+3105	550531	1	3	901	4	Pavel	Vokál	Ing.		58	podnikatel	Hliniště	99	80	A	M
+3105	550531	1	1	47	5	Michal	Tůma			33	dělník	Strážný	99	47	A	M
+3105	550531	1	2	7	5	Jiří	Tesař			57	mechanik	Strážný	99	7	A	M
+3105	550531	1	3	901	5	František	Čuba			42	dělník	Strážný	99	80	A	M
+3105	550531	1	1	47	6	Pavel	Švehla			37	dělník	Strážný	99	47	A	M
+3105	550531	1	2	7	6	David	Müller			42	OSVČ	Strážný	99	7	A	M
+3105	550531	1	3	901	6	Petra	Hlávková			42	prodavačka	Hliniště	99	80	A	F
+3105	550531	1	1	47	7	Lucie	Hodboďová			35	rodičovská dovolená	Strážný	99	47	A	F
+3105	550531	1	2	7	7	Jaroslava	Žluvová			39	mateřská dovolená	Strážný	99	7	A	F
+3105	550531	1	3	901	7	Radovan	Dušek			32	podnikatel	Strážný	99	80	A	M
+3105	550531	1	1	47	8	Petr	Růžička			51	invalidní důchodce	Strážný	99	47	A	M
+3105	550531	1	3	901	8	Martin	Beneš			34	podnikatel	Strážný	99	80	A	M
+3105	550531	1	1	47	9	Roman	Potenec			52	dělník	Strážný	99	47	A	M
+3105	550531	1	3	901	9	Eva	Wagner			50	podnikatelka	Strážný	99	80	A	F

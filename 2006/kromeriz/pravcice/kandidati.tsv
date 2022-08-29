@@ -1,38 +1,38 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7201	588890	1	1	47	1	Antonín	Mrhálek	M			48	zásobovač	Pravčice	47	47	0
-7201	588890	1	1	47	2	Jaroslava	Galušková	F			58	důchodce	Pravčice	47	47	0
-7201	588890	1	1	47	3	Jiří	Lukáš	M			58	důchodce	Pravčice	99	47	0
-7201	588890	1	1	47	4	Vladimír	Kornel	M			58	důchodce	Pravčice	99	47	0
-7201	588890	1	1	47	5	Hynek	Mičola	M			48	mistr	Pravčice	47	47	0
-7201	588890	1	1	47	6	Julius	Mišelnický	M			78	důchodce	Pravčice	47	47	0
-7201	588890	1	1	47	7	Antonín	Majda	M			89	důchodce	Pravčice	47	47	0
-7201	588890	1	2	901	1	Jaroslav	Šašek	M			48	starosta obce	Pravčice	99	80	0
-7201	588890	1	2	901	2	Eva	Čechová	F			46	ředitelka školy	Pravčice	99	80	0
-7201	588890	1	2	901	3	Jana	Hermanová	F			44	technik	Pravčice	99	80	0
-7201	588890	1	2	901	4	Lenka	Brezanská	F	Ing.		41	referentka	Pravčice	99	80	0
-7201	588890	1	2	901	5	Jiří	Možíš	M			43	elektromontér	Pravčice	99	80	0
-7201	588890	1	2	901	6	Miloslav	Matal	M			49	obsluha plynových kotlů	Pravčice	99	80	0
-7201	588890	1	2	901	7	Svatoslav	Dvořák	M			51	řidič	Pravčice	99	80	0
-7201	588890	1	2	901	8	Věra	Zlámalová	F			47	dělník	Pravčice	99	80	0
-7201	588890	1	2	901	9	Šárka	Gahurová	F			31	technik	Pravčice	99	80	0
-7201	588890	1	2	901	10	Dagmar	Procházková	F			49	zdravotní sestra	Pravčice	99	80	0
-7201	588890	1	2	901	11	Jaroslav	Smolinka	M			54	frézař	Pravčice	99	80	0
-7201	588890	1	2	901	12	Eva	Cupáková	F	Mgr.		44	učitelka	Pravčice	99	80	0
-7201	588890	1	2	901	13	Stanislav	Uličný	M			35	kovář	Pravčice	99	80	0
-7201	588890	1	2	901	14	František	Pospíšilík	M			42	dělník	Pravčice	99	80	0
-7201	588890	1	2	901	15	Václav	Spáčil	M			59	zedník	Pravčice	99	80	0
-7201	588890	1	3	53	1	Jiří	Ouroda	M	Ing.		41	ekonom	Pravčice	99	53	0
-7201	588890	1	3	53	2	Richard	Dvořák	M	Bc.		41	konzultant	Pravčice	53	53	0
-7201	588890	1	3	53	3	Iva	Hladíková	F			35	knihařka t.č. MD	Pravčice	53	53	0
-7201	588890	1	3	53	4	Ladislav	Zapletal	M			27	obchodník	Pravčice	99	53	0
-7201	588890	1	3	53	5	David	Smolinka	M			30	seřizovač	Pravčice	99	53	0
-7201	588890	1	3	53	6	Dušan	Miklík	M			36	podnikatel	Pravčice	99	53	0
-7201	588890	1	3	53	7	Radek	Vystavěl	M			29	podnikatel	Pravčice	99	53	0
-7201	588890	1	3	53	8	Jana	Ourodová	F	Ing.		38	ekonomka	Pravčice	99	53	0
-7201	588890	1	3	53	9	Vladimír	Nevřala	M			59	řezník	Pravčice	99	53	0
-7201	588890	1	3	53	10	Erika	Součková	F			31	podnikatelka	Pravčice	99	53	0
-7201	588890	1	3	53	11	Eva	Sklenářová	F			29	úřednice, t.č. MD	Pravčice	99	53	0
-7201	588890	1	3	53	12	Zdena	Pitnerová	F			78	rodinná péče,t.č. v důchodu	Pravčice	99	53	0
-7201	588890	1	3	53	13	Václav	Dvořák	M			70	zemědělec,trenér a důchodce	Pravčice	99	53	0
-7201	588890	1	3	53	14	Tomáš	Hladík	M	Ing.		36	úředník	Pravčice	53	53	0
-7201	588890	1	3	53	15	Miroslava	Dvořáková	F	Ing.		39	úřednice	Pravčice	53	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7201	588890	1	1	47	1	Antonín	Mrhálek			48	zásobovač	Pravčice	47	47	0	M
+7201	588890	1	2	901	1	Jaroslav	Šašek			48	starosta obce	Pravčice	99	80	0	M
+7201	588890	1	3	53	1	Jiří	Ouroda	Ing.		41	ekonom	Pravčice	99	53	0	M
+7201	588890	1	1	47	2	Jaroslava	Galušková			58	důchodce	Pravčice	47	47	0	F
+7201	588890	1	2	901	2	Eva	Čechová			46	ředitelka školy	Pravčice	99	80	0	F
+7201	588890	1	3	53	2	Richard	Dvořák	Bc.		41	konzultant	Pravčice	53	53	0	M
+7201	588890	1	1	47	3	Jiří	Lukáš			58	důchodce	Pravčice	99	47	0	M
+7201	588890	1	2	901	3	Jana	Hermanová			44	technik	Pravčice	99	80	0	F
+7201	588890	1	3	53	3	Iva	Hladíková			35	knihařka t.č. MD	Pravčice	53	53	0	F
+7201	588890	1	1	47	4	Vladimír	Kornel			58	důchodce	Pravčice	99	47	0	M
+7201	588890	1	2	901	4	Lenka	Brezanská	Ing.		41	referentka	Pravčice	99	80	0	F
+7201	588890	1	3	53	4	Ladislav	Zapletal			27	obchodník	Pravčice	99	53	0	M
+7201	588890	1	1	47	5	Hynek	Mičola			48	mistr	Pravčice	47	47	0	M
+7201	588890	1	2	901	5	Jiří	Možíš			43	elektromontér	Pravčice	99	80	0	M
+7201	588890	1	3	53	5	David	Smolinka			30	seřizovač	Pravčice	99	53	0	M
+7201	588890	1	1	47	6	Julius	Mišelnický			78	důchodce	Pravčice	47	47	0	M
+7201	588890	1	2	901	6	Miloslav	Matal			49	obsluha plynových kotlů	Pravčice	99	80	0	M
+7201	588890	1	3	53	6	Dušan	Miklík			36	podnikatel	Pravčice	99	53	0	M
+7201	588890	1	1	47	7	Antonín	Majda			89	důchodce	Pravčice	47	47	0	M
+7201	588890	1	2	901	7	Svatoslav	Dvořák			51	řidič	Pravčice	99	80	0	M
+7201	588890	1	3	53	7	Radek	Vystavěl			29	podnikatel	Pravčice	99	53	0	M
+7201	588890	1	2	901	8	Věra	Zlámalová			47	dělník	Pravčice	99	80	0	F
+7201	588890	1	3	53	8	Jana	Ourodová	Ing.		38	ekonomka	Pravčice	99	53	0	F
+7201	588890	1	2	901	9	Šárka	Gahurová			31	technik	Pravčice	99	80	0	F
+7201	588890	1	3	53	9	Vladimír	Nevřala			59	řezník	Pravčice	99	53	0	M
+7201	588890	1	2	901	10	Dagmar	Procházková			49	zdravotní sestra	Pravčice	99	80	0	F
+7201	588890	1	3	53	10	Erika	Součková			31	podnikatelka	Pravčice	99	53	0	F
+7201	588890	1	2	901	11	Jaroslav	Smolinka			54	frézař	Pravčice	99	80	0	M
+7201	588890	1	3	53	11	Eva	Sklenářová			29	úřednice, t.č. MD	Pravčice	99	53	0	F
+7201	588890	1	2	901	12	Eva	Cupáková	Mgr.		44	učitelka	Pravčice	99	80	0	F
+7201	588890	1	3	53	12	Zdena	Pitnerová			78	rodinná péče,t.č. v důchodu	Pravčice	99	53	0	F
+7201	588890	1	2	901	13	Stanislav	Uličný			35	kovář	Pravčice	99	80	0	M
+7201	588890	1	3	53	13	Václav	Dvořák			70	zemědělec,trenér a důchodce	Pravčice	99	53	0	M
+7201	588890	1	2	901	14	František	Pospíšilík			42	dělník	Pravčice	99	80	0	M
+7201	588890	1	3	53	14	Tomáš	Hladík	Ing.		36	úředník	Pravčice	53	53	0	M
+7201	588890	1	2	901	15	Václav	Spáčil			59	zedník	Pravčice	99	80	0	M
+7201	588890	1	3	53	15	Miroslava	Dvořáková	Ing.		39	úřednice	Pravčice	53	53	0	F

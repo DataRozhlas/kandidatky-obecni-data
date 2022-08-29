@@ -1,8 +1,8 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3204	566705	1	1	803	1	Martin	Konečný	M	Ing.		32	autorizovaný stavební inženýr	Borovno	99	80	0
-3204	566705	1	2	805	1	Radek	Fast	M			39	traktorista	Borovno	99	80	0
-3204	566705	1	3	804	1	Emil	Číha	M			51	prac. bezpečnostní agentury	Borovno	99	80	0
-3204	566705	1	4	807	1	Miloslava	Šilhová	F			58	důchodce	Borovno	99	80	0
-3204	566705	1	5	806	1	Josef	Loukota	M	Ing.		62	ekonom	Borovno	99	80	0
-3204	566705	1	6	801	1	Helena	Tolarová	F			56	důchodce	Borovno	99	80	0
-3204	566705	1	7	802	1	Milan	Albrecht	M			38	voják z povolání	Borovno	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3204	566705	1	1	803	1	Martin	Konečný	Ing.		32	autorizovaný stavební inženýr	Borovno	99	80	0	M
+3204	566705	1	2	805	1	Radek	Fast			39	traktorista	Borovno	99	80	0	M
+3204	566705	1	3	804	1	Emil	Číha			51	prac. bezpečnostní agentury	Borovno	99	80	0	M
+3204	566705	1	4	807	1	Miloslava	Šilhová			58	důchodce	Borovno	99	80	0	F
+3204	566705	1	5	806	1	Josef	Loukota	Ing.		62	ekonom	Borovno	99	80	0	M
+3204	566705	1	6	801	1	Helena	Tolarová			56	důchodce	Borovno	99	80	0	F
+3204	566705	1	7	802	1	Milan	Albrecht			38	voják z povolání	Borovno	99	80	0	M

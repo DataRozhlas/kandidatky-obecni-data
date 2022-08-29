@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	552402	1	1	902	1	Miroslav	Stloukal	M	Ing.		56	jednatel	Bukovany	99	80	0
-7102	552402	1	1	902	2	Ivana	Opichalová	F			41	referentka	Bukovany	99	80	0
-7102	552402	1	1	902	3	Zdenek	Habáň	M			49	jednatel	Bukovany	99	80	0
-7102	552402	1	1	902	4	Petr	Nickl	M			47	soukromý podnikatel	Bukovany	99	80	0
-7102	552402	1	1	902	5	Alois	Pitner	M	Ing.		58	konstruktér	Bukovany	99	80	0
-7102	552402	1	1	902	6	Zdeněk	Pitner	M			25	technik	Bukovany	99	80	0
-7102	552402	1	1	902	7	Martin	Mikláš	M	MUDr.		42	lékař	Bukovany	99	80	0
-7102	552402	1	1	902	8	Zbyněk	Bajer	M	Ing.		51	soukromý podnikatel	Bukovany	99	80	0
-7102	552402	1	2	901	1	Renáta	Hernová	F	Mgr.	Ph.D.	54	středoškolská učitelka	Bukovany	99	80	0
-7102	552402	1	2	901	2	Žaneta	Brablík Himrová	F			37	MD	Bukovany	99	80	0
-7102	552402	1	2	901	3	Lubomír	Šperka	M	Ing.		41	technolog	Bukovany	99	80	0
-7102	552402	1	2	901	4	Zdeněk	Krumpolc	M	Ing.		31	strojní inženýr	Bukovany	99	80	0
-7102	552402	1	2	901	5	Marek	Navrátil	M			46	lesník	Bukovany	99	80	0
-7102	552402	1	2	901	6	Dagmar	Lepková	F			47	úřednice	Bukovany	99	80	0
-7102	552402	1	2	901	7	Petr	Palka	M	Bc.		37	policista	Bukovany	99	80	0
-7102	552402	1	3	1	1	Ivana	Vančurová	F	Ing.		48	starostka obce	Bukovany	99	1	0
-7102	552402	1	3	1	2	Jan	Machalka	M	Ing.		43	bankovní specialista	Bukovany	99	1	0
-7102	552402	1	3	1	3	Martin	Köhler	M	Bc.		25	IT konzultant	Bukovany	99	1	0
-7102	552402	1	3	1	4	Tomáš	Zendulka	M			38	podnikatel	Bukovany	99	1	0
-7102	552402	1	3	1	5	Rudolf	Svoboda	M			51	koordinátor provozu	Bukovany	99	1	0
-7102	552402	1	3	1	6	Pavel	Chudík	M			52	vrchní mistr tratí	Bukovany	1	1	0
-7102	552402	1	3	1	7	Kateřina	Vybíralová	F			41	reklamní poradce	Bukovany	99	1	0
-7102	552402	1	3	1	8	Josef	Čurda	M	Mgr.		39	IT konzultant	Bukovany	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	552402	1	1	902	1	Miroslav	Stloukal	Ing.		56	jednatel	Bukovany	99	80	0	M
+7102	552402	1	2	901	1	Renáta	Hernová	Mgr.	Ph.D.	54	středoškolská učitelka	Bukovany	99	80	0	F
+7102	552402	1	3	1	1	Ivana	Vančurová	Ing.		48	starostka obce	Bukovany	99	1	0	F
+7102	552402	1	1	902	2	Ivana	Opichalová			41	referentka	Bukovany	99	80	0	F
+7102	552402	1	2	901	2	Žaneta	Brablík Himrová			37	MD	Bukovany	99	80	0	F
+7102	552402	1	3	1	2	Jan	Machalka	Ing.		43	bankovní specialista	Bukovany	99	1	0	M
+7102	552402	1	1	902	3	Zdenek	Habáň			49	jednatel	Bukovany	99	80	0	M
+7102	552402	1	2	901	3	Lubomír	Šperka	Ing.		41	technolog	Bukovany	99	80	0	M
+7102	552402	1	3	1	3	Martin	Köhler	Bc.		25	IT konzultant	Bukovany	99	1	0	M
+7102	552402	1	1	902	4	Petr	Nickl			47	soukromý podnikatel	Bukovany	99	80	0	M
+7102	552402	1	2	901	4	Zdeněk	Krumpolc	Ing.		31	strojní inženýr	Bukovany	99	80	0	M
+7102	552402	1	3	1	4	Tomáš	Zendulka			38	podnikatel	Bukovany	99	1	0	M
+7102	552402	1	1	902	5	Alois	Pitner	Ing.		58	konstruktér	Bukovany	99	80	0	M
+7102	552402	1	2	901	5	Marek	Navrátil			46	lesník	Bukovany	99	80	0	M
+7102	552402	1	3	1	5	Rudolf	Svoboda			51	koordinátor provozu	Bukovany	99	1	0	M
+7102	552402	1	1	902	6	Zdeněk	Pitner			25	technik	Bukovany	99	80	0	M
+7102	552402	1	2	901	6	Dagmar	Lepková			47	úřednice	Bukovany	99	80	0	F
+7102	552402	1	3	1	6	Pavel	Chudík			52	vrchní mistr tratí	Bukovany	1	1	0	M
+7102	552402	1	1	902	7	Martin	Mikláš	MUDr.		42	lékař	Bukovany	99	80	0	M
+7102	552402	1	2	901	7	Petr	Palka	Bc.		37	policista	Bukovany	99	80	0	M
+7102	552402	1	3	1	7	Kateřina	Vybíralová			41	reklamní poradce	Bukovany	99	1	0	F
+7102	552402	1	1	902	8	Zbyněk	Bajer	Ing.		51	soukromý podnikatel	Bukovany	99	80	0	M
+7102	552402	1	3	1	8	Josef	Čurda	Mgr.		39	IT konzultant	Bukovany	99	1	0	M

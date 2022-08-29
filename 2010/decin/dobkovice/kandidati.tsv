@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4201	562408	1	1	903	1	Rudolf	Žofaj	M			57	zaměstnanec	Dobkovice	99	80	0
-4201	562408	1	1	903	2	Petr	Tomášek	M			41	zaměstnanec	Prosetín	99	80	0
-4201	562408	1	1	903	3	Markéta	Chmárníková	F			24	zaměstnanec	Dobkovice	99	80	0
-4201	562408	1	1	903	4	Petr	Šulc	M			56	starosta obce	Dobkovice	99	80	0
-4201	562408	1	2	902	1	Pavel	Tomášek	M			37	zaměstnanec	Dobkovice	99	80	0
-4201	562408	1	2	902	2	Lenka	Novotná	F			35	zaměstnanec	Dobkovice	99	80	0
-4201	562408	1	2	902	3	Zdeněk	Novotný	M			39	zaměstnanec	Dobkovice	99	80	0
-4201	562408	1	2	902	4	Rostislav	Zajíček	M			36	zaměstnanec	Dobkovice	99	80	0
-4201	562408	1	2	902	5	Daniel	Bruk	M			38	zaměstnanec	Dobkovice	99	80	0
-4201	562408	1	2	902	6	Jaroslava	Havlová	F			41	zaměstnanec	Dobkovice	99	80	0
-4201	562408	1	2	902	7	Růžena	Brandejsová	F			72	důchodce	Dobkovice	99	80	0
-4201	562408	1	2	902	8	Libuše	Říhová	F			67	důchodce	Dobkovice	99	80	0
-4201	562408	1	2	902	9	Hana	Sagnerová	F			70	důchodce	Dobkovice	99	80	0
-4201	562408	1	3	901	1	Michal	Faltus	M			36	dělník	Dobkovice	99	80	0
-4201	562408	1	3	901	2	Zdeněk	Štol	M			41	technik	Dobkovice	99	80	0
-4201	562408	1	3	901	3	Jan	Bělohorský	M			66	důchodce	Dobkovice	99	80	0
-4201	562408	1	3	901	4	Miroslava	Zatočilová	F			35	sociální pracovnice	Dobkovice	99	80	0
-4201	562408	1	3	901	5	Miroslav	Martínek	M			56	dělník	Dobkovice	99	80	0
-4201	562408	1	3	901	6	Jiří	Ládr	M			37	dělník	Dobkovice	99	80	0
-4201	562408	1	3	901	7	Ondřej	Švábík	M			29	dělník	Dobkovice	99	80	0
-4201	562408	1	3	901	8	Pavel	Kotalík	M			37	prodavač	Dobkovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4201	562408	1	1	903	1	Rudolf	Žofaj			57	zaměstnanec	Dobkovice	99	80	0	M
+4201	562408	1	2	902	1	Pavel	Tomášek			37	zaměstnanec	Dobkovice	99	80	0	M
+4201	562408	1	3	901	1	Michal	Faltus			36	dělník	Dobkovice	99	80	0	M
+4201	562408	1	1	903	2	Petr	Tomášek			41	zaměstnanec	Prosetín	99	80	0	M
+4201	562408	1	2	902	2	Lenka	Novotná			35	zaměstnanec	Dobkovice	99	80	0	F
+4201	562408	1	3	901	2	Zdeněk	Štol			41	technik	Dobkovice	99	80	0	M
+4201	562408	1	1	903	3	Markéta	Chmárníková			24	zaměstnanec	Dobkovice	99	80	0	F
+4201	562408	1	2	902	3	Zdeněk	Novotný			39	zaměstnanec	Dobkovice	99	80	0	M
+4201	562408	1	3	901	3	Jan	Bělohorský			66	důchodce	Dobkovice	99	80	0	M
+4201	562408	1	1	903	4	Petr	Šulc			56	starosta obce	Dobkovice	99	80	0	M
+4201	562408	1	2	902	4	Rostislav	Zajíček			36	zaměstnanec	Dobkovice	99	80	0	M
+4201	562408	1	3	901	4	Miroslava	Zatočilová			35	sociální pracovnice	Dobkovice	99	80	0	F
+4201	562408	1	2	902	5	Daniel	Bruk			38	zaměstnanec	Dobkovice	99	80	0	M
+4201	562408	1	3	901	5	Miroslav	Martínek			56	dělník	Dobkovice	99	80	0	M
+4201	562408	1	2	902	6	Jaroslava	Havlová			41	zaměstnanec	Dobkovice	99	80	0	F
+4201	562408	1	3	901	6	Jiří	Ládr			37	dělník	Dobkovice	99	80	0	M
+4201	562408	1	2	902	7	Růžena	Brandejsová			72	důchodce	Dobkovice	99	80	0	F
+4201	562408	1	3	901	7	Ondřej	Švábík			29	dělník	Dobkovice	99	80	0	M
+4201	562408	1	2	902	8	Libuše	Říhová			67	důchodce	Dobkovice	99	80	0	F
+4201	562408	1	3	901	8	Pavel	Kotalík			37	prodavač	Dobkovice	99	80	0	M
+4201	562408	1	2	902	9	Hana	Sagnerová			70	důchodce	Dobkovice	99	80	0	F

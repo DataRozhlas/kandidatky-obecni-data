@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	547018	1	1	1	1	Josef	Gargela	M			55	geodet	Střeň	1	1	0
-7102	547018	1	1	1	2	Martin	Scholler	M	Ing.		48	vedoucí pracovník	Střeň	99	1	0
-7102	547018	1	1	1	3	Marie	Tichá	F			59	důchodce	Střeň	99	1	0
-7102	547018	1	1	1	4	Pavel	Rotter	M			34	elektrotechnik	Střeň	99	1	0
-7102	547018	1	1	1	5	Eva	Sanislová	F			58	důchodce	Střeň	99	1	0
-7102	547018	1	1	1	6	Luděk	Veselý	M			42	dělník	Střeň	99	1	0
-7102	547018	1	1	1	7	Michal	Ščučka	M			23	student	Střeň	99	1	0
-7102	547018	1	1	1	8	Marie	Plavnická	F			52	účetní	Střeň	99	1	0
-7102	547018	1	1	1	9	Gabriela	Němcová	F			44	prodavačka	Střeň	99	1	0
-7102	547018	1	2	143	1	Miroslav	Ševčík	M			51	technik	Střeň	99	143	0
-7102	547018	1	2	143	2	Roman	Uvízl	M			42	zámečník	Střeň	99	143	0
-7102	547018	1	2	143	3	Josef	Vymlátil	M			39	elektrotechnik	Střeň	99	143	0
-7102	547018	1	2	143	4	Jiří	Mojžíš	M			48	soukromý rolník	Střeň	99	143	0
-7102	547018	1	2	143	5	Oldřich	Vyvozil	M			37	autoelektrikář	Střeň	99	143	0
-7102	547018	1	2	143	6	David	Komárek	M			33	instalatér	Střeň	99	143	0
-7102	547018	1	2	143	7	Ivana	Koutňáková	F			37	prodavačka	Střeň	99	143	0
-7102	547018	1	2	143	8	Miroslav	Wengryn	M			39	řidič, automechanik	Střeň	99	143	0
-7102	547018	1	2	143	9	Jan	Sekanina	M			36	zedník	Střeň	99	143	0
-7102	547018	1	3	166	1	Vladimír	Kamínek	M			57	slaboproudý technik	Střeň	99	166	0
-7102	547018	1	3	166	2	Jaroslav	Havlíček	M			40	bankovní úředník	Střeň	99	166	0
-7102	547018	1	3	166	3	František	Žatka	M			39	vedoucí odboru dopravy	Střeň	99	166	0
-7102	547018	1	3	166	4	Milan	Medvedík	M	Bc.		39	obchodní manažer	Střeň	99	166	0
-7102	547018	1	3	166	5	Karel	Weiser	M			51	obráběč kovů	Střeň	99	166	0
-7102	547018	1	3	166	6	Elena	Kuxová	F			40	poštovní úřednice	Střeň	99	166	0
-7102	547018	1	3	166	7	Jaroslav	Šlégl	M			43	servisní technik	Střeň	99	166	0
-7102	547018	1	3	166	8	Roman	Pfof	M			45	mechanik opravář kolejových vozidel	Střeň	99	166	0
-7102	547018	1	3	166	9	Petr	Němeček	M			24	student	Střeň	99	166	0
-7102	547018	1	4	7	1	Renata	Churavá	F			44	prodavačka	Střeň	99	7	0
-7102	547018	1	4	7	2	Jiří	Nevima	M	Mgr.	Ph.D.	35	středoškolský učitel	Střeň	99	7	0
-7102	547018	1	4	7	3	Věroslav	Mach	M	Bc.		50	ředitel jakosti a servisu	Střeň	99	7	0
-7102	547018	1	4	7	4	Jiřina	Pončová	F	Mgr. Bc.		58	sociální pracovník	Střeň	99	7	0
-7102	547018	1	4	7	5	Dagmar	Holániková	F			41	zdravotní sestra	Střeň	99	7	0
-7102	547018	1	4	7	6	Miloslava	Nakashima	F			36	v domácnosti	Střeň	99	7	0
-7102	547018	1	4	7	7	František	Obšil	M			40	strojmistr	Střeň	99	7	0
-7102	547018	1	4	7	8	Radek	Kainar	M			40	zámečník	Střeň	99	7	0
-7102	547018	1	4	7	9	Marek	Lenikus	M			36	zámečník	Střeň	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	547018	1	1	1	1	Josef	Gargela			55	geodet	Střeň	1	1	0	M
+7102	547018	1	2	143	1	Miroslav	Ševčík			51	technik	Střeň	99	143	0	M
+7102	547018	1	3	166	1	Vladimír	Kamínek			57	slaboproudý technik	Střeň	99	166	0	M
+7102	547018	1	4	7	1	Renata	Churavá			44	prodavačka	Střeň	99	7	0	F
+7102	547018	1	1	1	2	Martin	Scholler	Ing.		48	vedoucí pracovník	Střeň	99	1	0	M
+7102	547018	1	2	143	2	Roman	Uvízl			42	zámečník	Střeň	99	143	0	M
+7102	547018	1	3	166	2	Jaroslav	Havlíček			40	bankovní úředník	Střeň	99	166	0	M
+7102	547018	1	4	7	2	Jiří	Nevima	Mgr.	Ph.D.	35	středoškolský učitel	Střeň	99	7	0	M
+7102	547018	1	1	1	3	Marie	Tichá			59	důchodce	Střeň	99	1	0	F
+7102	547018	1	2	143	3	Josef	Vymlátil			39	elektrotechnik	Střeň	99	143	0	M
+7102	547018	1	3	166	3	František	Žatka			39	vedoucí odboru dopravy	Střeň	99	166	0	M
+7102	547018	1	4	7	3	Věroslav	Mach	Bc.		50	ředitel jakosti a servisu	Střeň	99	7	0	M
+7102	547018	1	1	1	4	Pavel	Rotter			34	elektrotechnik	Střeň	99	1	0	M
+7102	547018	1	2	143	4	Jiří	Mojžíš			48	soukromý rolník	Střeň	99	143	0	M
+7102	547018	1	3	166	4	Milan	Medvedík	Bc.		39	obchodní manažer	Střeň	99	166	0	M
+7102	547018	1	4	7	4	Jiřina	Pončová	Mgr. Bc.		58	sociální pracovník	Střeň	99	7	0	F
+7102	547018	1	1	1	5	Eva	Sanislová			58	důchodce	Střeň	99	1	0	F
+7102	547018	1	2	143	5	Oldřich	Vyvozil			37	autoelektrikář	Střeň	99	143	0	M
+7102	547018	1	3	166	5	Karel	Weiser			51	obráběč kovů	Střeň	99	166	0	M
+7102	547018	1	4	7	5	Dagmar	Holániková			41	zdravotní sestra	Střeň	99	7	0	F
+7102	547018	1	1	1	6	Luděk	Veselý			42	dělník	Střeň	99	1	0	M
+7102	547018	1	2	143	6	David	Komárek			33	instalatér	Střeň	99	143	0	M
+7102	547018	1	3	166	6	Elena	Kuxová			40	poštovní úřednice	Střeň	99	166	0	F
+7102	547018	1	4	7	6	Miloslava	Nakashima			36	v domácnosti	Střeň	99	7	0	F
+7102	547018	1	1	1	7	Michal	Ščučka			23	student	Střeň	99	1	0	M
+7102	547018	1	2	143	7	Ivana	Koutňáková			37	prodavačka	Střeň	99	143	0	F
+7102	547018	1	3	166	7	Jaroslav	Šlégl			43	servisní technik	Střeň	99	166	0	M
+7102	547018	1	4	7	7	František	Obšil			40	strojmistr	Střeň	99	7	0	M
+7102	547018	1	1	1	8	Marie	Plavnická			52	účetní	Střeň	99	1	0	F
+7102	547018	1	2	143	8	Miroslav	Wengryn			39	řidič, automechanik	Střeň	99	143	0	M
+7102	547018	1	3	166	8	Roman	Pfof			45	mechanik opravář kolejových vozidel	Střeň	99	166	0	M
+7102	547018	1	4	7	8	Radek	Kainar			40	zámečník	Střeň	99	7	0	M
+7102	547018	1	1	1	9	Gabriela	Němcová			44	prodavačka	Střeň	99	1	0	F
+7102	547018	1	2	143	9	Jan	Sekanina			36	zedník	Střeň	99	143	0	M
+7102	547018	1	3	166	9	Petr	Němeček			24	student	Střeň	99	166	0	M
+7102	547018	1	4	7	9	Marek	Lenikus			36	zámečník	Střeň	99	7	0	M

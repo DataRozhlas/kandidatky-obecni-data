@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5103	564290	1	1	7	1	Tomáš	Johanovský	M	Mgr.		34	ředitel základní školy	Osečná	99	7	0
-5103	564290	1	1	7	2	Jiří	Hauzer	M			49	starosta	Osečná	99	7	0
-5103	564290	1	1	7	3	Luboš	Pytloun	M			41	dispečer dopravy	Lázně Kundratice	99	7	0
-5103	564290	1	1	7	4	Wilfried	Prokop	M	Ing.		62	technický pracovník	Osečná	99	7	0
-5103	564290	1	1	7	5	Helena	Bušová	F			44	vedoucí stavebního úřadu	Osečná	99	7	0
-5103	564290	1	1	7	6	Marie	Guričanová	F			47	učitelka odborného výcviku	Osečná	99	7	0
-5103	564290	1	1	7	7	Karel	Třešňák	M			59	důchodce	Osečná	99	7	0
-5103	564290	1	1	7	8	Aleš	Roubíček	M			45	elektromechanik	Druzcov	99	7	0
-5103	564290	1	1	7	9	Václav	Hvízdal	M			65	důchodce	Lázně Kundratice	47	7	0
-5103	564290	1	1	7	10	Jiří	Hauzr	M			48	podnikatel	Osečná	99	7	0
-5103	564290	1	1	7	11	Dana	Svobodová	F			45	poštovní doručovatelka	Zábrdí	99	7	0
-5103	564290	1	2	129	1	Jarmila	Bláhová	F			41	učitelka a místostarostka	Osečná	99	129	0
-5103	564290	1	2	129	2	Aleš	Kysela	M			31	dělník	Osečná	99	129	0
-5103	564290	1	2	129	3	Jiří	Chlupáček	M			30	dělník	Osečná	99	129	0
-5103	564290	1	2	129	4	Vladimír	Šatava	M	MUDr.		49	lékař	Osečná	99	129	0
-5103	564290	1	2	129	5	Martina	Bartáková	F			35	zástupce ředitele	Lázně Kundratice	99	129	0
-5103	564290	1	2	129	6	Petr	Škoda	M			35	podnikatel	Osečná	99	129	0
-5103	564290	1	2	129	7	Dagmar	Janíčková	F			41	vychovatelka	Lázně Kundratice	99	129	0
-5103	564290	1	2	129	8	Eva	Mužíková	F			61	důchodce	Chrastná	99	129	0
-5103	564290	1	2	129	9	Radomír	Starý	M	Mgr.		43	obchodní zástupce	Lázně Kundratice	99	129	0
-5103	564290	1	2	129	10	Jana	Šámalová	F			39	referent	Lázně Kundratice	99	129	0
-5103	564290	1	2	129	11	Werner	Moc	M			56	technik	Osečná	99	129	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5103	564290	1	1	7	1	Tomáš	Johanovský	Mgr.		34	ředitel základní školy	Osečná	99	7	0	M
+5103	564290	1	2	129	1	Jarmila	Bláhová			41	učitelka a místostarostka	Osečná	99	129	0	F
+5103	564290	1	1	7	2	Jiří	Hauzer			49	starosta	Osečná	99	7	0	M
+5103	564290	1	2	129	2	Aleš	Kysela			31	dělník	Osečná	99	129	0	M
+5103	564290	1	1	7	3	Luboš	Pytloun			41	dispečer dopravy	Lázně Kundratice	99	7	0	M
+5103	564290	1	2	129	3	Jiří	Chlupáček			30	dělník	Osečná	99	129	0	M
+5103	564290	1	1	7	4	Wilfried	Prokop	Ing.		62	technický pracovník	Osečná	99	7	0	M
+5103	564290	1	2	129	4	Vladimír	Šatava	MUDr.		49	lékař	Osečná	99	129	0	M
+5103	564290	1	1	7	5	Helena	Bušová			44	vedoucí stavebního úřadu	Osečná	99	7	0	F
+5103	564290	1	2	129	5	Martina	Bartáková			35	zástupce ředitele	Lázně Kundratice	99	129	0	F
+5103	564290	1	1	7	6	Marie	Guričanová			47	učitelka odborného výcviku	Osečná	99	7	0	F
+5103	564290	1	2	129	6	Petr	Škoda			35	podnikatel	Osečná	99	129	0	M
+5103	564290	1	1	7	7	Karel	Třešňák			59	důchodce	Osečná	99	7	0	M
+5103	564290	1	2	129	7	Dagmar	Janíčková			41	vychovatelka	Lázně Kundratice	99	129	0	F
+5103	564290	1	1	7	8	Aleš	Roubíček			45	elektromechanik	Druzcov	99	7	0	M
+5103	564290	1	2	129	8	Eva	Mužíková			61	důchodce	Chrastná	99	129	0	F
+5103	564290	1	1	7	9	Václav	Hvízdal			65	důchodce	Lázně Kundratice	47	7	0	M
+5103	564290	1	2	129	9	Radomír	Starý	Mgr.		43	obchodní zástupce	Lázně Kundratice	99	129	0	M
+5103	564290	1	1	7	10	Jiří	Hauzr			48	podnikatel	Osečná	99	7	0	M
+5103	564290	1	2	129	10	Jana	Šámalová			39	referent	Lázně Kundratice	99	129	0	F
+5103	564290	1	1	7	11	Dana	Svobodová			45	poštovní doručovatelka	Zábrdí	99	7	0	F
+5103	564290	1	2	129	11	Werner	Moc			56	technik	Osečná	99	129	0	M

@@ -1,30 +1,30 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	593338	1	1	53	1	Miroslav	Přikryl	M			57	částečný důchodce	Milonice	99	53	0
-6206	593338	1	1	53	2	Ivana	Sádliková	F			22	sekretářka	Milonice	99	53	0
-6206	593338	1	1	53	3	Radek	Klimeš	M			42	dělník	Milonice	99	53	0
-6206	593338	1	1	53	4	Silvie	Kužílková	F			21	studentka Masaryk. univerzity	Milonice	99	53	0
-6206	593338	1	1	53	5	Petr	Kremr	M			42	osoba samostatně výděl. činná	Milonice	99	53	0
-6206	593338	1	1	53	6	Lenka	Petrová	F			48	dělnice	Milonice	99	53	0
-6206	593338	1	1	53	7	Jan	Merta	M			59	nezaměstnaný	Milonice	99	53	0
-6206	593338	1	2	470	1	Petr	Valoušek	M			40	systémový technik	Milonice	99	80	0
-6206	593338	1	2	470	2	Dagmar	Sádlíková	F			49	mistrová ve výrobě	Milonice	99	80	0
-6206	593338	1	2	470	3	Ladislav	Grim	M			75	důchodce	Milonice	99	166	0
-6206	593338	1	2	470	4	Josef	Surala	M			37	stolař	Milonice	99	80	0
-6206	593338	1	2	470	5	Jan	Sádlík	M			73	důchodce	Milonice	99	80	0
-6206	593338	1	2	470	6	Jindřich	Karger	M			53	seřizovač	Milonice	99	80	0
-6206	593338	1	2	470	7	Karel	Tynkl	M			54	montér vodovodů	Milonice	99	80	0
-6206	593338	1	3	47	1	František	Kremr	M			68	důchodce	Milonice	47	47	0
-6206	593338	1	3	47	2	Josef	Šmedek	M			69	důchodce	Milonice	47	47	0
-6206	593338	1	3	47	3	Petr	Bouda	M			31	mechanik elektronik	Milonice	99	47	0
-6206	593338	1	3	47	4	Pavel	Kyša	M			29	autodopravce	Milonice	47	47	0
-6206	593338	1	3	47	5	Rostislav	Sedlář	M			57	instalatér	Milonice	47	47	0
-6206	593338	1	3	47	6	Jana	Hanáková	F			62	důchodkyně	Milonice	47	47	0
-6206	593338	1	3	47	7	Karel	Kotolan	M			69	důchodce	Milonice	47	47	0
-6206	593338	1	4	801	1	Jindřich	Šafařík	M			60	strážný	Milonice	99	80	0
-6206	593338	1	5	1	1	Jiří	Svoboda	M	Ing.		27	agronom	Milonice	99	1	0
-6206	593338	1	5	1	2	Jiří	Fryč	M			38	stolař	Milonice	99	1	0
-6206	593338	1	5	1	3	Božena	Hofrová	F			46	osoba samostatně výděl. činná	Milonice	1	1	0
-6206	593338	1	5	1	4	Radek	Veselý	M			24	daňový poradce	Milonice	1	1	0
-6206	593338	1	5	1	5	Daniela	Zezulová	F	Mgr.		45	učitelka	Milonice	99	1	0
-6206	593338	1	5	1	6	Antonín	Koudelka	M			35	osoba samostatně výděl. činná	Milonice	99	1	0
-6206	593338	1	5	1	7	Jiří	Rybnikář	M			34	dělník	Milonice	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	593338	1	1	53	1	Miroslav	Přikryl			57	částečný důchodce	Milonice	99	53	0	M
+6206	593338	1	2	470	1	Petr	Valoušek			40	systémový technik	Milonice	99	80	0	M
+6206	593338	1	3	47	1	František	Kremr			68	důchodce	Milonice	47	47	0	M
+6206	593338	1	4	801	1	Jindřich	Šafařík			60	strážný	Milonice	99	80	0	M
+6206	593338	1	5	1	1	Jiří	Svoboda	Ing.		27	agronom	Milonice	99	1	0	M
+6206	593338	1	1	53	2	Ivana	Sádliková			22	sekretářka	Milonice	99	53	0	F
+6206	593338	1	2	470	2	Dagmar	Sádlíková			49	mistrová ve výrobě	Milonice	99	80	0	F
+6206	593338	1	3	47	2	Josef	Šmedek			69	důchodce	Milonice	47	47	0	M
+6206	593338	1	5	1	2	Jiří	Fryč			38	stolař	Milonice	99	1	0	M
+6206	593338	1	1	53	3	Radek	Klimeš			42	dělník	Milonice	99	53	0	M
+6206	593338	1	2	470	3	Ladislav	Grim			75	důchodce	Milonice	99	166	0	M
+6206	593338	1	3	47	3	Petr	Bouda			31	mechanik elektronik	Milonice	99	47	0	M
+6206	593338	1	5	1	3	Božena	Hofrová			46	osoba samostatně výděl. činná	Milonice	1	1	0	F
+6206	593338	1	1	53	4	Silvie	Kužílková			21	studentka Masaryk. univerzity	Milonice	99	53	0	F
+6206	593338	1	2	470	4	Josef	Surala			37	stolař	Milonice	99	80	0	M
+6206	593338	1	3	47	4	Pavel	Kyša			29	autodopravce	Milonice	47	47	0	M
+6206	593338	1	5	1	4	Radek	Veselý			24	daňový poradce	Milonice	1	1	0	M
+6206	593338	1	1	53	5	Petr	Kremr			42	osoba samostatně výděl. činná	Milonice	99	53	0	M
+6206	593338	1	2	470	5	Jan	Sádlík			73	důchodce	Milonice	99	80	0	M
+6206	593338	1	3	47	5	Rostislav	Sedlář			57	instalatér	Milonice	47	47	0	M
+6206	593338	1	5	1	5	Daniela	Zezulová	Mgr.		45	učitelka	Milonice	99	1	0	F
+6206	593338	1	1	53	6	Lenka	Petrová			48	dělnice	Milonice	99	53	0	F
+6206	593338	1	2	470	6	Jindřich	Karger			53	seřizovač	Milonice	99	80	0	M
+6206	593338	1	3	47	6	Jana	Hanáková			62	důchodkyně	Milonice	47	47	0	F
+6206	593338	1	5	1	6	Antonín	Koudelka			35	osoba samostatně výděl. činná	Milonice	99	1	0	M
+6206	593338	1	1	53	7	Jan	Merta			59	nezaměstnaný	Milonice	99	53	0	M
+6206	593338	1	2	470	7	Karel	Tynkl			54	montér vodovodů	Milonice	99	80	0	M
+6206	593338	1	3	47	7	Karel	Kotolan			69	důchodce	Milonice	47	47	0	M
+6206	593338	1	5	1	7	Jiří	Rybnikář			34	dělník	Milonice	99	1	0	M

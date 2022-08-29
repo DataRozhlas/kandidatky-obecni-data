@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	593249	1	1	387	1	Radek	Vít	M			43	mistr výroby	Kučerov	99	80	A
-6206	593249	1	1	387	2	Marcela	Pellerová	F			42	obsluha třídícího pásu	Kučerov	99	80	A
-6206	593249	1	1	387	3	Jiří	Macka	M	Ing.		31	strojní konstruktér	Kučerov	99	80	A
-6206	593249	1	1	387	4	Jitka	Burianová	F			36	kuchařka	Kučerov	99	80	A
-6206	593249	1	1	387	5	David	Vokurka	M			43	osoba samostatně výdělečně činná	Kučerov	99	80	A
-6206	593249	1	1	387	6	Kristián	Gryc	M			25	osoba samostatně výdělečně činná	Kučerov	99	80	A
-6206	593249	1	1	387	7	Milan	Růžička	M	Bc.		33	datový analytik	Kučerov	99	80	A
-6206	593249	1	1	387	8	František	Helleport	M			56	manažer úklidu	Kučerov	99	80	A
-6206	593249	1	1	387	9	Josef	Kehm	M			68	důchodce	Kučerov	47	47	A
-6206	593249	1	2	903	1	Vojtěch	Šubrt	M			63	voják v záloze	Kučerov	99	80	A
-6206	593249	1	2	903	2	Josef	Kuchtíček	M			58	automechanik	Kučerov	99	80	A
-6206	593249	1	2	903	3	Lubomír	Peller	M			37	servisní technik	Kučerov	99	80	A
-6206	593249	1	2	903	4	Pavel	Wasserbauer	M	Ing.		58	voják z povolání	Kučerov	99	80	A
-6206	593249	1	2	903	5	Ladislav	Sekanina	M			37	zámečník	Kučerov	99	80	A
-6206	593249	1	2	903	6	Vojtěch	Neděla	M			29	pokrývač	Kučerov	99	80	A
-6206	593249	1	2	903	7	Jan	Zahradníček	M			41	pokrývač	Kučerov	99	80	A
-6206	593249	1	2	903	8	Ivana	Macháňová	F	Bc.		42	státní zaměstnanec	Kučerov	99	80	A
-6206	593249	1	2	903	9	Pavel	Raclavský	M			23	státní zaměstnanec	Kučerov	99	80	A
-6206	593249	1	3	902	1	Marie	Lokajová	F			41	starostka obce	Kučerov	99	80	A
-6206	593249	1	3	902	2	Pavel	Žvátora	M			45	živnostník	Kučerov	99	80	A
-6206	593249	1	3	902	3	Dagmar	Hůlková	F			59	odborný pracovník pro přezkumná řízení	Kučerov	99	80	A
-6206	593249	1	3	902	4	Pavel	Karabina	M			45	vodárenský technik	Kučerov	99	80	A
-6206	593249	1	3	902	5	Ladislav	Ježek	M			26	operátor CNC strojů	Kučerov	99	80	A
-6206	593249	1	3	902	6	Pavel	Tvrzník	M			33	technický pracovník obce	Kučerov	99	80	A
-6206	593249	1	3	902	7	David	Hrnčiřík	M			36	nákupčí velkoobchodu	Kučerov	99	80	A
-6206	593249	1	3	902	8	Jiří	Michlíček	M			55	opravář zemědělské techniky	Kučerov	99	80	A
-6206	593249	1	3	902	9	Světlana	Formánková	F			43	operátorka výroby	Kučerov	99	80	A
-6206	593249	1	4	901	1	Pavel	Štěpán	M			39	vedoucí provozu	Kučerov	99	80	A
-6206	593249	1	4	901	2	Marie	Flajzarová	F			52	referent	Kučerov	99	80	A
-6206	593249	1	4	901	3	Martin	Lokaj	M			41	voják z povolání	Kučerov	99	80	A
-6206	593249	1	4	901	4	Martin	Formánek	M			46	živnostník	Kučerov	99	80	A
-6206	593249	1	4	901	5	Šárka	Zouharová	F			41	zdravotní sestra v sociálních službách	Kučerov	99	80	A
-6206	593249	1	4	901	6	David	Mašek	M			41	řidič	Kučerov	99	80	A
-6206	593249	1	4	901	7	Libor	Malafa	M			38	podnikatel	Kučerov	99	80	A
-6206	593249	1	4	901	8	Květoslav	Lasovský	M			48	podnikatel	Kučerov	99	80	A
-6206	593249	1	4	901	9	Zdenka	Mrázková	F			35	zdravotní sestra	Kučerov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	593249	1	1	387	1	Radek	Vít			43	mistr výroby	Kučerov	99	80	A	M
+6206	593249	1	2	903	1	Vojtěch	Šubrt			63	voják v záloze	Kučerov	99	80	A	M
+6206	593249	1	3	902	1	Marie	Lokajová			41	starostka obce	Kučerov	99	80	A	F
+6206	593249	1	4	901	1	Pavel	Štěpán			39	vedoucí provozu	Kučerov	99	80	A	M
+6206	593249	1	1	387	2	Marcela	Pellerová			42	obsluha třídícího pásu	Kučerov	99	80	A	F
+6206	593249	1	2	903	2	Josef	Kuchtíček			58	automechanik	Kučerov	99	80	A	M
+6206	593249	1	3	902	2	Pavel	Žvátora			45	živnostník	Kučerov	99	80	A	M
+6206	593249	1	4	901	2	Marie	Flajzarová			52	referent	Kučerov	99	80	A	F
+6206	593249	1	1	387	3	Jiří	Macka	Ing.		31	strojní konstruktér	Kučerov	99	80	A	M
+6206	593249	1	2	903	3	Lubomír	Peller			37	servisní technik	Kučerov	99	80	A	M
+6206	593249	1	3	902	3	Dagmar	Hůlková			59	odborný pracovník pro přezkumná řízení	Kučerov	99	80	A	F
+6206	593249	1	4	901	3	Martin	Lokaj			41	voják z povolání	Kučerov	99	80	A	M
+6206	593249	1	1	387	4	Jitka	Burianová			36	kuchařka	Kučerov	99	80	A	F
+6206	593249	1	2	903	4	Pavel	Wasserbauer	Ing.		58	voják z povolání	Kučerov	99	80	A	M
+6206	593249	1	3	902	4	Pavel	Karabina			45	vodárenský technik	Kučerov	99	80	A	M
+6206	593249	1	4	901	4	Martin	Formánek			46	živnostník	Kučerov	99	80	A	M
+6206	593249	1	1	387	5	David	Vokurka			43	osoba samostatně výdělečně činná	Kučerov	99	80	A	M
+6206	593249	1	2	903	5	Ladislav	Sekanina			37	zámečník	Kučerov	99	80	A	M
+6206	593249	1	3	902	5	Ladislav	Ježek			26	operátor CNC strojů	Kučerov	99	80	A	M
+6206	593249	1	4	901	5	Šárka	Zouharová			41	zdravotní sestra v sociálních službách	Kučerov	99	80	A	F
+6206	593249	1	1	387	6	Kristián	Gryc			25	osoba samostatně výdělečně činná	Kučerov	99	80	A	M
+6206	593249	1	2	903	6	Vojtěch	Neděla			29	pokrývač	Kučerov	99	80	A	M
+6206	593249	1	3	902	6	Pavel	Tvrzník			33	technický pracovník obce	Kučerov	99	80	A	M
+6206	593249	1	4	901	6	David	Mašek			41	řidič	Kučerov	99	80	A	M
+6206	593249	1	1	387	7	Milan	Růžička	Bc.		33	datový analytik	Kučerov	99	80	A	M
+6206	593249	1	2	903	7	Jan	Zahradníček			41	pokrývač	Kučerov	99	80	A	M
+6206	593249	1	3	902	7	David	Hrnčiřík			36	nákupčí velkoobchodu	Kučerov	99	80	A	M
+6206	593249	1	4	901	7	Libor	Malafa			38	podnikatel	Kučerov	99	80	A	M
+6206	593249	1	1	387	8	František	Helleport			56	manažer úklidu	Kučerov	99	80	A	M
+6206	593249	1	2	903	8	Ivana	Macháňová	Bc.		42	státní zaměstnanec	Kučerov	99	80	A	F
+6206	593249	1	3	902	8	Jiří	Michlíček			55	opravář zemědělské techniky	Kučerov	99	80	A	M
+6206	593249	1	4	901	8	Květoslav	Lasovský			48	podnikatel	Kučerov	99	80	A	M
+6206	593249	1	1	387	9	Josef	Kehm			68	důchodce	Kučerov	47	47	A	M
+6206	593249	1	2	903	9	Pavel	Raclavský			23	státní zaměstnanec	Kučerov	99	80	A	M
+6206	593249	1	3	902	9	Světlana	Formánková			43	operátorka výroby	Kučerov	99	80	A	F
+6206	593249	1	4	901	9	Zdenka	Mrázková			35	zdravotní sestra	Kučerov	99	80	A	F

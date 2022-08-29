@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7104	569275	1	1	901	1	Jiří	Hanák	M			55	zedník	Horní Nětčice	99	80	0
-7104	569275	1	1	901	2	Božena	Skálová	F			49	prodavačka	Horní Nětčice	99	80	0
-7104	569275	1	1	901	3	Karel	Nehyba	M			21	servisní technik	Horní Nětčice	99	80	0
-7104	569275	1	1	901	4	Eva	Kudláčková	F			39	šička	Horní Nětčice	99	80	0
-7104	569275	1	1	901	5	Lubomír	Ryška	M			41	stolař	Horní Nětčice	99	80	0
-7104	569275	1	1	901	6	Veronika	Unarová	F			21	studující	Horní Nětčice	99	80	0
-7104	569275	1	1	901	7	Jaroslava	Číhalová	F			56	účetní	Horní Nětčice	99	80	0
-7104	569275	1	1	901	8	Petr	Zela	M			27	tesař	Horní Nětčice	99	80	0
-7104	569275	1	2	1	1	František	Zela	M			58	dělník	Horní Nětčice	1	1	0
-7104	569275	1	2	1	2	Tomáš	Růžička	M			43	technický kontrolor	Horní Nětčice	99	1	0
-7104	569275	1	2	1	3	Jiřina	Vašinová	F			37	účetní	Horní Nětčice	99	1	0
-7104	569275	1	2	1	4	Renata	Ordáňová	F			40	dělnice	Horní Nětčice	99	1	0
-7104	569275	1	2	1	5	Václav	Libosvár	M			36	technický kontrolor	Horní Nětčice	99	1	0
-7104	569275	1	2	1	6	Jakub	Škrobák	M			29	živnostník, OSVČ	Horní Nětčice	99	1	0
-7104	569275	1	2	1	7	Josef	Zela	M			42	živnostník	Horní Nětčice	99	1	0
-7104	569275	1	2	1	8	Anna	Růžičková	F		DiS.	31	sociální pracovnice	Horní Nětčice	99	1	0
-7104	569275	1	3	7	1	Roman	Kolář	M			38	projektant	Horní Nětčice	99	7	0
-7104	569275	1	3	7	2	David	Nesvadba	M			31	malíř, natěrač	Horní Nětčice	99	7	0
-7104	569275	1	3	7	3	Tomáš	Coufalík	M			36	řidič	Horní Nětčice	99	7	0
-7104	569275	1	3	7	4	Antonín	Kadlčík	M			24	skladník, řidič	Horní Nětčice	99	7	0
-7104	569275	1	3	7	5	Michal	Coufalík	M			32	řidič	Horní Nětčice	99	7	0
-7104	569275	1	3	7	6	Arnošt	Zbořil	M	MVDr.		51	zvěrolékař	Horní Nětčice	99	7	0
-7104	569275	1	3	7	7	Jaromír	Vrubel	M			40	OSVČ	Horní Nětčice	99	7	0
-7104	569275	1	4	902	1	Dagmar	Nesvadbová	F	Bc.	DiS.	28	sociální pracovnice	Horní Nětčice	99	80	0
-7104	569275	1	4	902	2	Helena	Coufalíková	F			34	uklízečka	Horní Nětčice	99	80	0
-7104	569275	1	4	902	3	Miroslava	Šumšálová	F			40	přímoobslužný pracovník	Horní Nětčice	99	80	0
-7104	569275	1	4	902	4	Radek	Široký	M			41	dělník	Horní Nětčice	99	80	0
-7104	569275	1	4	902	5	Veronika	Jemelková	F			27	OSVČ	Horní Nětčice	99	80	0
-7104	569275	1	4	902	6	Iveta	Šumšálová	F			37	zdravotní sestra	Horní Nětčice	99	80	0
-7104	569275	1	4	902	7	Stanislav	Kulička	M			40	elektrotechnik	Horní Nětčice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7104	569275	1	1	901	1	Jiří	Hanák			55	zedník	Horní Nětčice	99	80	0	M
+7104	569275	1	2	1	1	František	Zela			58	dělník	Horní Nětčice	1	1	0	M
+7104	569275	1	3	7	1	Roman	Kolář			38	projektant	Horní Nětčice	99	7	0	M
+7104	569275	1	4	902	1	Dagmar	Nesvadbová	Bc.	DiS.	28	sociální pracovnice	Horní Nětčice	99	80	0	F
+7104	569275	1	1	901	2	Božena	Skálová			49	prodavačka	Horní Nětčice	99	80	0	F
+7104	569275	1	2	1	2	Tomáš	Růžička			43	technický kontrolor	Horní Nětčice	99	1	0	M
+7104	569275	1	3	7	2	David	Nesvadba			31	malíř, natěrač	Horní Nětčice	99	7	0	M
+7104	569275	1	4	902	2	Helena	Coufalíková			34	uklízečka	Horní Nětčice	99	80	0	F
+7104	569275	1	1	901	3	Karel	Nehyba			21	servisní technik	Horní Nětčice	99	80	0	M
+7104	569275	1	2	1	3	Jiřina	Vašinová			37	účetní	Horní Nětčice	99	1	0	F
+7104	569275	1	3	7	3	Tomáš	Coufalík			36	řidič	Horní Nětčice	99	7	0	M
+7104	569275	1	4	902	3	Miroslava	Šumšálová			40	přímoobslužný pracovník	Horní Nětčice	99	80	0	F
+7104	569275	1	1	901	4	Eva	Kudláčková			39	šička	Horní Nětčice	99	80	0	F
+7104	569275	1	2	1	4	Renata	Ordáňová			40	dělnice	Horní Nětčice	99	1	0	F
+7104	569275	1	3	7	4	Antonín	Kadlčík			24	skladník, řidič	Horní Nětčice	99	7	0	M
+7104	569275	1	4	902	4	Radek	Široký			41	dělník	Horní Nětčice	99	80	0	M
+7104	569275	1	1	901	5	Lubomír	Ryška			41	stolař	Horní Nětčice	99	80	0	M
+7104	569275	1	2	1	5	Václav	Libosvár			36	technický kontrolor	Horní Nětčice	99	1	0	M
+7104	569275	1	3	7	5	Michal	Coufalík			32	řidič	Horní Nětčice	99	7	0	M
+7104	569275	1	4	902	5	Veronika	Jemelková			27	OSVČ	Horní Nětčice	99	80	0	F
+7104	569275	1	1	901	6	Veronika	Unarová			21	studující	Horní Nětčice	99	80	0	F
+7104	569275	1	2	1	6	Jakub	Škrobák			29	živnostník, OSVČ	Horní Nětčice	99	1	0	M
+7104	569275	1	3	7	6	Arnošt	Zbořil	MVDr.		51	zvěrolékař	Horní Nětčice	99	7	0	M
+7104	569275	1	4	902	6	Iveta	Šumšálová			37	zdravotní sestra	Horní Nětčice	99	80	0	F
+7104	569275	1	1	901	7	Jaroslava	Číhalová			56	účetní	Horní Nětčice	99	80	0	F
+7104	569275	1	2	1	7	Josef	Zela			42	živnostník	Horní Nětčice	99	1	0	M
+7104	569275	1	3	7	7	Jaromír	Vrubel			40	OSVČ	Horní Nětčice	99	7	0	M
+7104	569275	1	4	902	7	Stanislav	Kulička			40	elektrotechnik	Horní Nětčice	99	80	0	M
+7104	569275	1	1	901	8	Petr	Zela			27	tesař	Horní Nětčice	99	80	0	M
+7104	569275	1	2	1	8	Anna	Růžičková		DiS.	31	sociální pracovnice	Horní Nětčice	99	1	0	F

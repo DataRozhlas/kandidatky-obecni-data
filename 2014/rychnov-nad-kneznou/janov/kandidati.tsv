@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5204	576328	1	1	901	1	Josef	Macek	M			73	důchodce	Janov	99	80	0
-5204	576328	1	1	901	2	Jan	Martinek	M			55	technik RV	Tis	99	80	0
-5204	576328	1	1	901	3	Václav	Dyntar	M	Ing.		46	stavbyvedoucí	Janov	99	80	0
-5204	576328	1	1	901	4	Roman	Dyntar	M			43	skladník	Janov	99	80	0
-5204	576328	1	1	901	5	Petr	Martinek	M			22	obsluha CNC strojů	Tis	99	80	0
-5204	576328	1	1	901	6	Markéta	Macková	F			44	pracovník obchodního provozu PČR	Janov	99	80	0
-5204	576328	1	1	901	7	Lucie	Hartmanová	F			28	servírka	Janov	99	80	0
-5204	576328	1	1	901	8	Jaromír	Nývlt	M			53	skladník	Tis	99	80	0
-5204	576328	1	1	901	9	Lenka	Kulichová	F	Mgr.		36	vedoucí NZDM	Tis	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5204	576328	1	1	901	1	Josef	Macek			73	důchodce	Janov	99	80	0	M
+5204	576328	1	1	901	2	Jan	Martinek			55	technik RV	Tis	99	80	0	M
+5204	576328	1	1	901	3	Václav	Dyntar	Ing.		46	stavbyvedoucí	Janov	99	80	0	M
+5204	576328	1	1	901	4	Roman	Dyntar			43	skladník	Janov	99	80	0	M
+5204	576328	1	1	901	5	Petr	Martinek			22	obsluha CNC strojů	Tis	99	80	0	M
+5204	576328	1	1	901	6	Markéta	Macková			44	pracovník obchodního provozu PČR	Janov	99	80	0	F
+5204	576328	1	1	901	7	Lucie	Hartmanová			28	servírka	Janov	99	80	0	F
+5204	576328	1	1	901	8	Jaromír	Nývlt			53	skladník	Tis	99	80	0	M
+5204	576328	1	1	901	9	Lenka	Kulichová	Mgr.		36	vedoucí NZDM	Tis	99	80	0	F

@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	540846	1	1	53	1	Veronika	Stiborová	F	Ing.		28	referentka odboru výstavby a územního plánování	Ředice	99	53	A
-2111	540846	1	1	53	2	Vít	Zrůbek	M	Bc.		29	projektový manažer	Nechvalice	99	53	A
-2111	540846	1	1	53	3	Marie	Vašáková	F			63	vedoucí stavebního úřadu	Huštilář	99	53	A
-2111	540846	1	1	53	4	Matěj	Janoušek	M			31	hasič	Nechvalice	99	53	A
-2111	540846	1	1	53	5	Jan	Pudil	M			61	tesař	Březí	99	53	A
-2111	540846	1	1	53	6	Vojtěch	Pudil	M			28	tesař	Březí	99	53	A
-2111	540846	1	1	53	7	Miroslav	Lalák	M			34	hasič	Nechvalice	99	53	A
-2111	540846	1	1	53	8	Josef	Hadáček	M			54	řidič	Setěkovy	99	53	A
-2111	540846	1	1	53	9	Jiří	Hejhal	M			64	důchodce	Nechvalice	99	53	A
-2111	540846	1	2	1	1	Josef	Stibor	M			27	tesař OSVČ	Ředice	99	1	A
-2111	540846	1	2	1	2	Veronika	Lípová	F			49	policistka	Nechvalice	99	1	A
-2111	540846	1	2	1	3	Pavlína	Nováková	F			34	učitelka MŠ	Nechvalice	99	1	A
-2111	540846	1	2	1	4	Anna	Pflegerová	F			23	učitelka ZUŠ	Libčice	99	1	A
-2111	540846	1	2	1	5	Jiří	Turnovec	M			50	soukromý zemědělec	Březí	99	1	A
-2111	540846	1	2	1	6	Irena	Štorková	F			59	OSVČ	Libčice	99	1	A
-2111	540846	1	2	1	7	Jiří	Skalický	M			70	OSVČ důchodce	Nechvalice	99	1	A
-2111	540846	1	3	470	1	Jaroslav	Mašek	M			45	starosta obce	Nechvalice	99	166	A
-2111	540846	1	3	470	2	Michal	Kolín	M			29	zemědělec	Březí	99	166	A
-2111	540846	1	3	470	3	Tomáš	Štemberk	M			43	truhlář	Křemenice	99	166	A
-2111	540846	1	3	470	4	Roman	Dvořák	M	Ing.	BA(HONS)	49	ekonom	Nechvalice	99	166	A
-2111	540846	1	3	470	5	Pavlína	Holasová	F	Ing.		31	na mateřské dovolené	Ředičky	99	166	A
-2111	540846	1	3	470	6	Petr	Kothera	M			57	zedník	Bratříkovice	99	166	A
-2111	540846	1	3	470	7	Jiří	Doubrava	M	Ing.		51	lesník	Bratříkovice	99	166	A
-2111	540846	1	3	470	8	Jiří	Barhoň	M			49	tesař	Bratřejov	99	166	A
-2111	540846	1	3	470	9	Josef	Taboga	M			53	tesař	Vratkov	99	166	A
-2111	540846	1	4	901	1	František	Kortánek	M	Ing.		72	zemědělský podnikatel jednatel	Dražka	99	80	A
-2111	540846	1	4	901	2	Milan	Trpka	M			49	řidič - opravář	Ředice	99	80	A
-2111	540846	1	4	901	3	Michael	Dvořák	M	Ing.		28	projektant	Nechvalice	99	80	A
-2111	540846	1	4	901	4	Jiří	Taks	M			49	podnikatel	Nechvalice	99	80	A
-2111	540846	1	4	901	5	Pavel	Lípa	M	Ing.		29	projektant	Nechvalice	99	80	A
-2111	540846	1	4	901	6	Jiří	Trpka	M			25	automechanik	Ředice	99	80	A
-2111	540846	1	4	901	7	Jiří	Dvořák	M			25	řidič opravář	Nechvalice	99	80	A
-2111	540846	1	4	901	8	Jiří	Stibor	M			46	řidič opravář zeměd.strojů	Ředice	99	80	A
-2111	540846	1	4	901	9	Milan	Stibor	M			43	řidič, automechanik	Ředice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	540846	1	1	53	1	Veronika	Stiborová	Ing.		28	referentka odboru výstavby a územního plánování	Ředice	99	53	A	F
+2111	540846	1	2	1	1	Josef	Stibor			27	tesař OSVČ	Ředice	99	1	A	M
+2111	540846	1	3	470	1	Jaroslav	Mašek			45	starosta obce	Nechvalice	99	166	A	M
+2111	540846	1	4	901	1	František	Kortánek	Ing.		72	zemědělský podnikatel jednatel	Dražka	99	80	A	M
+2111	540846	1	1	53	2	Vít	Zrůbek	Bc.		29	projektový manažer	Nechvalice	99	53	A	M
+2111	540846	1	2	1	2	Veronika	Lípová			49	policistka	Nechvalice	99	1	A	F
+2111	540846	1	3	470	2	Michal	Kolín			29	zemědělec	Březí	99	166	A	M
+2111	540846	1	4	901	2	Milan	Trpka			49	řidič - opravář	Ředice	99	80	A	M
+2111	540846	1	1	53	3	Marie	Vašáková			63	vedoucí stavebního úřadu	Huštilář	99	53	A	F
+2111	540846	1	2	1	3	Pavlína	Nováková			34	učitelka MŠ	Nechvalice	99	1	A	F
+2111	540846	1	3	470	3	Tomáš	Štemberk			43	truhlář	Křemenice	99	166	A	M
+2111	540846	1	4	901	3	Michael	Dvořák	Ing.		28	projektant	Nechvalice	99	80	A	M
+2111	540846	1	1	53	4	Matěj	Janoušek			31	hasič	Nechvalice	99	53	A	M
+2111	540846	1	2	1	4	Anna	Pflegerová			23	učitelka ZUŠ	Libčice	99	1	A	F
+2111	540846	1	3	470	4	Roman	Dvořák	Ing.	BA(HONS)	49	ekonom	Nechvalice	99	166	A	M
+2111	540846	1	4	901	4	Jiří	Taks			49	podnikatel	Nechvalice	99	80	A	M
+2111	540846	1	1	53	5	Jan	Pudil			61	tesař	Březí	99	53	A	M
+2111	540846	1	2	1	5	Jiří	Turnovec			50	soukromý zemědělec	Březí	99	1	A	M
+2111	540846	1	3	470	5	Pavlína	Holasová	Ing.		31	na mateřské dovolené	Ředičky	99	166	A	F
+2111	540846	1	4	901	5	Pavel	Lípa	Ing.		29	projektant	Nechvalice	99	80	A	M
+2111	540846	1	1	53	6	Vojtěch	Pudil			28	tesař	Březí	99	53	A	M
+2111	540846	1	2	1	6	Irena	Štorková			59	OSVČ	Libčice	99	1	A	F
+2111	540846	1	3	470	6	Petr	Kothera			57	zedník	Bratříkovice	99	166	A	M
+2111	540846	1	4	901	6	Jiří	Trpka			25	automechanik	Ředice	99	80	A	M
+2111	540846	1	1	53	7	Miroslav	Lalák			34	hasič	Nechvalice	99	53	A	M
+2111	540846	1	2	1	7	Jiří	Skalický			70	OSVČ důchodce	Nechvalice	99	1	A	M
+2111	540846	1	3	470	7	Jiří	Doubrava	Ing.		51	lesník	Bratříkovice	99	166	A	M
+2111	540846	1	4	901	7	Jiří	Dvořák			25	řidič opravář	Nechvalice	99	80	A	M
+2111	540846	1	1	53	8	Josef	Hadáček			54	řidič	Setěkovy	99	53	A	M
+2111	540846	1	3	470	8	Jiří	Barhoň			49	tesař	Bratřejov	99	166	A	M
+2111	540846	1	4	901	8	Jiří	Stibor			46	řidič opravář zeměd.strojů	Ředice	99	80	A	M
+2111	540846	1	1	53	9	Jiří	Hejhal			64	důchodce	Nechvalice	99	53	A	M
+2111	540846	1	3	470	9	Josef	Taboga			53	tesař	Vratkov	99	166	A	M
+2111	540846	1	4	901	9	Milan	Stibor			43	řidič, automechanik	Ředice	99	80	A	M

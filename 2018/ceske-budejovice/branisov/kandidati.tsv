@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	551490	1	1	902	1	Bohuslav	Mášl	M	Ing.		65	pojišťovna Generali - ředitel	Branišov	99	80	A
-3101	551490	1	1	902	2	Radomír	Thaler	M			62	Centrum reprodukční medicíny - ředitel	Branišov	99	80	A
-3101	551490	1	1	902	3	Jiřina	Nohavová	F			59	Hochtief - vedoucí financování a správy pohledávek	Branišov	99	80	A
-3101	551490	1	1	902	4	Eva	Honnerová	F			53	zdravotní sestra	Branišov	99	80	A
-3101	551490	1	1	902	5	Marek	Drahokoupil	M			42	osoba samostatně výdělečně činná	Branišov	99	80	A
-3101	551490	1	1	902	6	Kateřina	Csóková	F			27	manažer cateringu	Branišov	99	80	A
-3101	551490	1	1	902	7	Zlatuše	Návarová	F			48	podnikatelka	Branišov	99	80	A
-3101	551490	1	1	902	8	Benedikt	Dobrovský	M			52	podnikatel - informační technologie	Branišov	99	80	A
-3101	551490	1	1	902	9	Marek	Felenda	M			48	podnikatel	Branišov	99	80	A
-3101	551490	1	2	901	1	Petra	Voborská	F	Ing.		31	vedoucí školní jídelny	Branišov	99	80	A
-3101	551490	1	2	901	2	Tomáš	Hruška	M	Ing. arch.		47	technik	Branišov	99	80	A
-3101	551490	1	2	901	3	Martin	Melena	M			26	přijímací technik	Branišov	99	80	A
-3101	551490	1	2	901	4	Jaroslav	Kaňka	M			39	řidič	Branišov	99	80	A
-3101	551490	1	2	901	5	Zdenek	Farkač	M			62	důchodce	Branišov	99	80	A
-3101	551490	1	2	901	6	Jan	Vachta	M			64	důchodce	Branišov	99	80	A
-3101	551490	1	2	901	7	Josef	Hodianek	M			49	elektrikář	Branišov	99	80	A
-3101	551490	1	2	901	8	Jiří	Benda	M	Ing.		35	programátor	Branišov	99	80	A
-3101	551490	1	2	901	9	Eva	Návarová	F	Ing.		68	důchodce	Branišov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	551490	1	1	902	1	Bohuslav	Mášl	Ing.		65	pojišťovna Generali - ředitel	Branišov	99	80	A	M
+3101	551490	1	2	901	1	Petra	Voborská	Ing.		31	vedoucí školní jídelny	Branišov	99	80	A	F
+3101	551490	1	1	902	2	Radomír	Thaler			62	Centrum reprodukční medicíny - ředitel	Branišov	99	80	A	M
+3101	551490	1	2	901	2	Tomáš	Hruška	Ing. arch.		47	technik	Branišov	99	80	A	M
+3101	551490	1	1	902	3	Jiřina	Nohavová			59	Hochtief - vedoucí financování a správy pohledávek	Branišov	99	80	A	F
+3101	551490	1	2	901	3	Martin	Melena			26	přijímací technik	Branišov	99	80	A	M
+3101	551490	1	1	902	4	Eva	Honnerová			53	zdravotní sestra	Branišov	99	80	A	F
+3101	551490	1	2	901	4	Jaroslav	Kaňka			39	řidič	Branišov	99	80	A	M
+3101	551490	1	1	902	5	Marek	Drahokoupil			42	osoba samostatně výdělečně činná	Branišov	99	80	A	M
+3101	551490	1	2	901	5	Zdenek	Farkač			62	důchodce	Branišov	99	80	A	M
+3101	551490	1	1	902	6	Kateřina	Csóková			27	manažer cateringu	Branišov	99	80	A	F
+3101	551490	1	2	901	6	Jan	Vachta			64	důchodce	Branišov	99	80	A	M
+3101	551490	1	1	902	7	Zlatuše	Návarová			48	podnikatelka	Branišov	99	80	A	F
+3101	551490	1	2	901	7	Josef	Hodianek			49	elektrikář	Branišov	99	80	A	M
+3101	551490	1	1	902	8	Benedikt	Dobrovský			52	podnikatel - informační technologie	Branišov	99	80	A	M
+3101	551490	1	2	901	8	Jiří	Benda	Ing.		35	programátor	Branišov	99	80	A	M
+3101	551490	1	1	902	9	Marek	Felenda			48	podnikatel	Branišov	99	80	A	M
+3101	551490	1	2	901	9	Eva	Návarová	Ing.		68	důchodce	Branišov	99	80	A	F

@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6204	584541	1	1	902	1	Vladimír	Slačík	M			40	vedoucí pracovník	Klentnice	99	80	A
-6204	584541	1	1	902	2	Marian	Dvořák	M			41	OSVČ	Klentnice	99	80	A
-6204	584541	1	1	902	3	Ilona	Čevelíková	F			41	OSVČ	Klentnice	99	80	A
-6204	584541	1	1	902	4	Jakub	Strouhal	M			29	administrativní pracovník	Klentnice	99	80	A
-6204	584541	1	1	902	5	Ondřej	Papaj	M	MUDr.		32	lékař	Klentnice	99	80	A
-6204	584541	1	1	902	6	Romana	Slačíková	F			41	kontrolorka	Klentnice	99	80	A
-6204	584541	1	1	902	7	David	Blaha	M			42	operátor skladování	Klentnice	99	80	A
-6204	584541	1	1	902	8	Dalibor	Borák	M	Ing. arch.		59	architekt	Klentnice	99	80	A
-6204	584541	1	1	902	9	Stanislav	Bláha	M			39	kuchař	Klentnice	99	80	A
-6204	584541	1	2	901	1	Soňa	Hříbová	F			62	důchodkyně	Klentnice	99	80	A
-6204	584541	1	2	901	2	Petra	Peřinová	F			41	OSVČ	Klentnice	99	80	A
-6204	584541	1	2	901	3	Věra	Lysoňková	F			49	sociální pracovnice	Klentnice	99	80	A
-6204	584541	1	2	901	4	Kateřina	Fichtlová	F			38	mateřská dovolená	Klentnice	99	80	A
-6204	584541	1	2	901	5	Klára	Blahová	F			37	obchodní referent	Klentnice	99	80	A
-6204	584541	1	2	901	6	Zdeňka	Sedláková	F			60	důchodkyně	Klentnice	99	80	A
-6204	584541	1	2	901	7	Michaela	Harris	F			47	asistentka ředitele	Klentnice	99	80	A
-6204	584541	1	2	901	8	Simona	Urbánková	F		DiS.	29	strážník MP	Klentnice	99	80	A
-6204	584541	1	2	901	9	Jana	Lysoňková	F			66	důchodkyně	Klentnice	99	80	A
-6204	584541	1	3	7	1	Monika	Blahová	F			40	starostka obce	Klentnice	7	7	A
-6204	584541	1	3	7	2	Roman	Koprivňanský	M	Bc.		48	ředitel domova seniorů	Klentnice	7	7	A
-6204	584541	1	3	7	3	Ivana	Stojánková	F			54	státní zaměstnanec	Klentnice	99	7	A
-6204	584541	1	3	7	4	Marie	Pavlačková	F			70	důchodce	Klentnice	99	7	A
-6204	584541	1	3	7	5	Karla	Blahová	F			63	pracovník v sociálních službách	Klentnice	99	7	A
-6204	584541	1	3	7	6	Dagmar	Urbancová	F	Mgr.		88	důchodce	Klentnice	7	7	A
-6204	584541	1	3	7	7	Ivana	Papajová	F			54	ředitelka mateřské školy	Klentnice	99	7	A
-6204	584541	1	3	7	8	František	Minařík	M			62	podnikatel	Klentnice	99	7	A
-6204	584541	1	3	7	9	Jana	Tomanová	F			67	důchodce	Klentnice	99	7	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6204	584541	1	1	902	1	Vladimír	Slačík			40	vedoucí pracovník	Klentnice	99	80	A	M
+6204	584541	1	2	901	1	Soňa	Hříbová			62	důchodkyně	Klentnice	99	80	A	F
+6204	584541	1	3	7	1	Monika	Blahová			40	starostka obce	Klentnice	7	7	A	F
+6204	584541	1	1	902	2	Marian	Dvořák			41	OSVČ	Klentnice	99	80	A	M
+6204	584541	1	2	901	2	Petra	Peřinová			41	OSVČ	Klentnice	99	80	A	F
+6204	584541	1	3	7	2	Roman	Koprivňanský	Bc.		48	ředitel domova seniorů	Klentnice	7	7	A	M
+6204	584541	1	1	902	3	Ilona	Čevelíková			41	OSVČ	Klentnice	99	80	A	F
+6204	584541	1	2	901	3	Věra	Lysoňková			49	sociální pracovnice	Klentnice	99	80	A	F
+6204	584541	1	3	7	3	Ivana	Stojánková			54	státní zaměstnanec	Klentnice	99	7	A	F
+6204	584541	1	1	902	4	Jakub	Strouhal			29	administrativní pracovník	Klentnice	99	80	A	M
+6204	584541	1	2	901	4	Kateřina	Fichtlová			38	mateřská dovolená	Klentnice	99	80	A	F
+6204	584541	1	3	7	4	Marie	Pavlačková			70	důchodce	Klentnice	99	7	A	F
+6204	584541	1	1	902	5	Ondřej	Papaj	MUDr.		32	lékař	Klentnice	99	80	A	M
+6204	584541	1	2	901	5	Klára	Blahová			37	obchodní referent	Klentnice	99	80	A	F
+6204	584541	1	3	7	5	Karla	Blahová			63	pracovník v sociálních službách	Klentnice	99	7	A	F
+6204	584541	1	1	902	6	Romana	Slačíková			41	kontrolorka	Klentnice	99	80	A	F
+6204	584541	1	2	901	6	Zdeňka	Sedláková			60	důchodkyně	Klentnice	99	80	A	F
+6204	584541	1	3	7	6	Dagmar	Urbancová	Mgr.		88	důchodce	Klentnice	7	7	A	F
+6204	584541	1	1	902	7	David	Blaha			42	operátor skladování	Klentnice	99	80	A	M
+6204	584541	1	2	901	7	Michaela	Harris			47	asistentka ředitele	Klentnice	99	80	A	F
+6204	584541	1	3	7	7	Ivana	Papajová			54	ředitelka mateřské školy	Klentnice	99	7	A	F
+6204	584541	1	1	902	8	Dalibor	Borák	Ing. arch.		59	architekt	Klentnice	99	80	A	M
+6204	584541	1	2	901	8	Simona	Urbánková		DiS.	29	strážník MP	Klentnice	99	80	A	F
+6204	584541	1	3	7	8	František	Minařík			62	podnikatel	Klentnice	99	7	A	M
+6204	584541	1	1	902	9	Stanislav	Bláha			39	kuchař	Klentnice	99	80	A	M
+6204	584541	1	2	901	9	Jana	Lysoňková			66	důchodkyně	Klentnice	99	80	A	F
+6204	584541	1	3	7	9	Jana	Tomanová			67	důchodce	Klentnice	99	7	A	F

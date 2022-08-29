@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2106	531511	1	1	801	1	Petr	Belica	M			33	account manager	Zlončice	99	80	0
-2106	531511	1	2	901	1	Jiří	Louček	M			61	technický ředitel	Zlončice	99	80	0
-2106	531511	1	2	901	2	Jan	Borýsek	M			60	předseda odborové organizace	Zlončice	99	80	0
-2106	531511	1	2	901	3	Jiří	Moravec	M			54	elektro technik	Zlončice	99	80	0
-2106	531511	1	2	901	4	Jiřina	Borýsková	F			61	důchodce	Zlončice	99	80	0
-2106	531511	1	2	901	5	Kateřina	Rážová	F			34	marketingová ředitelka	Zlončice	99	80	0
-2106	531511	1	2	901	6	Renata	Kdérová	F			41	OSVČ	Zlončice	99	80	0
-2106	531511	1	2	901	7	Dagmar	Skalníková	F	PaedDr.		53	OSVČ	Zlončice	99	80	0
-2106	531511	1	2	901	8	Miloslava	Plicková	F			55	dispečer	Zlončice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2106	531511	1	1	801	1	Petr	Belica			33	account manager	Zlončice	99	80	0	M
+2106	531511	1	2	901	1	Jiří	Louček			61	technický ředitel	Zlončice	99	80	0	M
+2106	531511	1	2	901	2	Jan	Borýsek			60	předseda odborové organizace	Zlončice	99	80	0	M
+2106	531511	1	2	901	3	Jiří	Moravec			54	elektro technik	Zlončice	99	80	0	M
+2106	531511	1	2	901	4	Jiřina	Borýsková			61	důchodce	Zlončice	99	80	0	F
+2106	531511	1	2	901	5	Kateřina	Rážová			34	marketingová ředitelka	Zlončice	99	80	0	F
+2106	531511	1	2	901	6	Renata	Kdérová			41	OSVČ	Zlončice	99	80	0	F
+2106	531511	1	2	901	7	Dagmar	Skalníková	PaedDr.		53	OSVČ	Zlončice	99	80	0	F
+2106	531511	1	2	901	8	Miloslava	Plicková			55	dispečer	Zlončice	99	80	0	F

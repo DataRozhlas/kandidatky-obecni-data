@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3107	553123	1	1	902	1	Josef	Dvořák	M			60	starosta	Smilovy Hory	99	80	0
-3107	553123	1	1	902	2	Zdeněk	Macháček	M			59	traktorista	Radostovice	99	80	0
-3107	553123	1	1	902	3	Josef	Cihelna	M			64	důchodce	Smilovy Hory	99	80	0
-3107	553123	1	1	902	4	František	Maršík	M			64	důchodce	Radostovice	99	80	0
-3107	553123	1	1	902	5	Jana	Králová	F			39	úřednice	Smilovy Hory	99	80	0
-3107	553123	1	1	902	6	Jiří	Vitovský	M	Ing.		30	zaměstnanec státní správy	Smilovy Hory	99	80	0
-3107	553123	1	1	902	7	Jan	Šitler	M			50	traktorista	Smilovy Hory	99	80	0
-3107	553123	1	1	902	8	Jiří	Míchal	M			22	dělník	Smilovy Hory	99	80	0
-3107	553123	1	1	902	9	Karel	Vítek	M			34	dělník	Smilovy Hory	99	80	0
-3107	553123	1	2	901	1	Tomáš	Cihelna	M	Ing.		36	státní zaměstnanec	Stojslavice	99	80	0
-3107	553123	1	2	901	2	Josef	Kopecký	M			49	řidič	Stojslavice	99	80	0
-3107	553123	1	2	901	3	Jaroslav	Průša	M			43	zedník	Stojslavice	99	80	0
-3107	553123	1	2	901	4	Josef	Smrčka	M			42	technik dopravy	Stojslavice	99	80	0
-3107	553123	1	2	901	5	Miroslav	Vítek	M			46	zámečník	Stojslavice	99	80	0
-3107	553123	1	2	901	6	František	Křivánek	M			60	zedník	Stojslavice	99	80	0
-3107	553123	1	2	901	7	Pavel	Semrád	M			31	řidič	Stojslavice	99	80	0
-3107	553123	1	2	901	8	Petr	Průša	M			33	konstruktér výroby	Stojslavice	99	80	0
-3107	553123	1	2	901	9	Stanislav	Váša	M			56	ostraha objektů	Stojslavice	99	80	0
-3107	553123	1	3	903	1	Stanislava	Dvořáková	F			42	v domácnosti	Velký Ježov	99	80	0
-3107	553123	1	3	903	2	Tomáš	Čeněk	M			27	vedoucí prodeje	Velký Ježov	99	80	0
-3107	553123	1	3	903	3	Josef	Mencl	M			29	truhlář	Velký Ježov	99	80	0
-3107	553123	1	3	903	4	Josef	Hlavnička	M			36	tesař	Velký Ježov	99	80	0
-3107	553123	1	3	903	5	Marcela	Mrázková	F			38	vychovatelka	Velký Ježov	99	80	0
-3107	553123	1	3	903	6	Josef	Simandl	M			46	řidič	Velký Ježov	99	80	0
-3107	553123	1	3	903	7	Lenka	Menclová	F			24	obchodní asistenka	Velký Ježov	99	80	0
-3107	553123	1	3	903	8	Jindřich	Brabec	M			55	zámečník	Velký Ježov	99	80	0
-3107	553123	1	3	903	9	František	Mrázek	M			41	řidič	Velký Ježov	99	80	0
-3107	553123	1	4	904	1	Jaroslav	Kopecký	M			30	dělník	Malý Ježov	99	80	0
-3107	553123	1	4	904	2	Bohumil	Švec	M			52	technik	Malý Ježov	99	80	0
-3107	553123	1	4	904	3	Vojtěch	Lhotka	M			53	dělník	Malý Ježov	99	80	0
-3107	553123	1	4	904	4	Pavel	Kubec	M			51	řidič	Malý Ježov	99	80	0
-3107	553123	1	4	904	5	Oldřich	Staněk	M			52	řidič	Malý Ježov	99	80	0
-3107	553123	1	4	904	6	Josef	Říha	M			59	dělník	Malý Ježov	99	80	0
-3107	553123	1	4	904	7	Karel	Simandl	M			46	řidič	Malý Ježov	99	80	0
-3107	553123	1	4	904	8	Miloš	Vondrák	M			26	konstruktér	Malý Ježov	99	80	0
-3107	553123	1	4	904	9	Josef	Vaněček	M			30	dělník	Malý Ježov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3107	553123	1	1	902	1	Josef	Dvořák			60	starosta	Smilovy Hory	99	80	0	M
+3107	553123	1	2	901	1	Tomáš	Cihelna	Ing.		36	státní zaměstnanec	Stojslavice	99	80	0	M
+3107	553123	1	3	903	1	Stanislava	Dvořáková			42	v domácnosti	Velký Ježov	99	80	0	F
+3107	553123	1	4	904	1	Jaroslav	Kopecký			30	dělník	Malý Ježov	99	80	0	M
+3107	553123	1	1	902	2	Zdeněk	Macháček			59	traktorista	Radostovice	99	80	0	M
+3107	553123	1	2	901	2	Josef	Kopecký			49	řidič	Stojslavice	99	80	0	M
+3107	553123	1	3	903	2	Tomáš	Čeněk			27	vedoucí prodeje	Velký Ježov	99	80	0	M
+3107	553123	1	4	904	2	Bohumil	Švec			52	technik	Malý Ježov	99	80	0	M
+3107	553123	1	1	902	3	Josef	Cihelna			64	důchodce	Smilovy Hory	99	80	0	M
+3107	553123	1	2	901	3	Jaroslav	Průša			43	zedník	Stojslavice	99	80	0	M
+3107	553123	1	3	903	3	Josef	Mencl			29	truhlář	Velký Ježov	99	80	0	M
+3107	553123	1	4	904	3	Vojtěch	Lhotka			53	dělník	Malý Ježov	99	80	0	M
+3107	553123	1	1	902	4	František	Maršík			64	důchodce	Radostovice	99	80	0	M
+3107	553123	1	2	901	4	Josef	Smrčka			42	technik dopravy	Stojslavice	99	80	0	M
+3107	553123	1	3	903	4	Josef	Hlavnička			36	tesař	Velký Ježov	99	80	0	M
+3107	553123	1	4	904	4	Pavel	Kubec			51	řidič	Malý Ježov	99	80	0	M
+3107	553123	1	1	902	5	Jana	Králová			39	úřednice	Smilovy Hory	99	80	0	F
+3107	553123	1	2	901	5	Miroslav	Vítek			46	zámečník	Stojslavice	99	80	0	M
+3107	553123	1	3	903	5	Marcela	Mrázková			38	vychovatelka	Velký Ježov	99	80	0	F
+3107	553123	1	4	904	5	Oldřich	Staněk			52	řidič	Malý Ježov	99	80	0	M
+3107	553123	1	1	902	6	Jiří	Vitovský	Ing.		30	zaměstnanec státní správy	Smilovy Hory	99	80	0	M
+3107	553123	1	2	901	6	František	Křivánek			60	zedník	Stojslavice	99	80	0	M
+3107	553123	1	3	903	6	Josef	Simandl			46	řidič	Velký Ježov	99	80	0	M
+3107	553123	1	4	904	6	Josef	Říha			59	dělník	Malý Ježov	99	80	0	M
+3107	553123	1	1	902	7	Jan	Šitler			50	traktorista	Smilovy Hory	99	80	0	M
+3107	553123	1	2	901	7	Pavel	Semrád			31	řidič	Stojslavice	99	80	0	M
+3107	553123	1	3	903	7	Lenka	Menclová			24	obchodní asistenka	Velký Ježov	99	80	0	F
+3107	553123	1	4	904	7	Karel	Simandl			46	řidič	Malý Ježov	99	80	0	M
+3107	553123	1	1	902	8	Jiří	Míchal			22	dělník	Smilovy Hory	99	80	0	M
+3107	553123	1	2	901	8	Petr	Průša			33	konstruktér výroby	Stojslavice	99	80	0	M
+3107	553123	1	3	903	8	Jindřich	Brabec			55	zámečník	Velký Ježov	99	80	0	M
+3107	553123	1	4	904	8	Miloš	Vondrák			26	konstruktér	Malý Ježov	99	80	0	M
+3107	553123	1	1	902	9	Karel	Vítek			34	dělník	Smilovy Hory	99	80	0	M
+3107	553123	1	2	901	9	Stanislav	Váša			56	ostraha objektů	Stojslavice	99	80	0	M
+3107	553123	1	3	903	9	František	Mrázek			41	řidič	Velký Ježov	99	80	0	M
+3107	553123	1	4	904	9	Josef	Vaněček			30	dělník	Malý Ježov	99	80	0	M

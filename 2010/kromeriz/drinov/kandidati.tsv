@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7201	588431	1	1	1	1	Josef	Pospíšil	M			62	důchodce	Dřínov	1	1	0
-7201	588431	1	1	1	2	Petr	Lechner	M			32	dělník	Dřínov	99	1	0
-7201	588431	1	1	1	3	Petr	Pospíšil	M			35	elektromechanik	Dřínov	99	1	0
-7201	588431	1	1	1	4	Marie	Konupková	F			59	důchodkyně	Dřínov	1	1	0
-7201	588431	1	1	1	5	Jiří	Vrana	M			22	skladník	Dřínov	99	1	0
-7201	588431	1	1	1	6	František	Zlámal	M			73	důchodce	Dřínov	1	1	0
-7201	588431	1	1	1	7	Jitka	Pizúrová	F	Mgr.		32	programátorka	Dřínov	99	1	0
-7201	588431	1	1	1	8	Anna	Sofková	F			69	důchodkyně	Dřínov	1	1	0
-7201	588431	1	1	1	9	Jan	Vrana	M			57	učitel odborného výcviku SŠ	Dřínov	1	1	0
-7201	588431	1	2	901	1	Josef	Palíšek	M			62	starosta obce	Dřínov	99	80	0
-7201	588431	1	2	901	2	Ilona	Novotná	F			48	ředitelka MŠ	Dřínov	99	80	0
-7201	588431	1	2	901	3	Karel	Surý	M			59	strojník čistírny odpad. vod	Dřínov	99	80	0
-7201	588431	1	2	901	4	Dagmar	Schafferová	F			26	účetní	Dřínov	99	80	0
-7201	588431	1	2	901	5	Jaroslav	Laža	M			64	dělník	Dřínov	99	80	0
-7201	588431	1	2	901	6	Anna	Přecechtělová	F			56	OSVČ - pedikérka	Dřínov	99	80	0
-7201	588431	1	2	901	7	Antonín	Maňásek	M			51	stavební technik	Dřínov	99	80	0
-7201	588431	1	2	901	8	Hana	Večerková	F			57	invalidní důchodkyně	Dřínov	99	80	0
-7201	588431	1	2	901	9	Stanislav	Vykouřil	M			63	dělník	Dřínov	99	80	0
-7201	588431	1	3	902	1	Miroslav	Štěpánek	M			30	podnikatel	Dřínov	99	80	0
-7201	588431	1	3	902	2	Ivo	Hošek	M			40	dělník	Dřínov	99	80	0
-7201	588431	1	3	902	3	Martina	Guštarová	F			39	pracovnice sociálních služeb	Dřínov	99	80	0
-7201	588431	1	3	902	4	Ladislav	Kučírek	M			31	finanční poradce	Dřínov	99	80	0
-7201	588431	1	3	902	5	Jana	Novotná	F			26	asistentka ředitele	Dřínov	99	80	0
-7201	588431	1	3	902	6	Marcela	Lechnerová	F			32	mateřská dovolená	Dřínov	99	80	0
-7201	588431	1	3	902	7	Karel	Strašák	M			35	servisní technik	Dřínov	99	80	0
-7201	588431	1	3	902	8	Marcela	Pokorná	F			34	zdravotní sestra	Dřínov	99	80	0
-7201	588431	1	3	902	9	Roman	Hejč	M			44	montážní pracovník	Dřínov	99	80	0
-7201	588431	1	4	47	1	Miroslav	Laža	M			47	podnikatel	Dřínov	47	47	0
-7201	588431	1	4	47	2	Vojtěch	Hyžďal	M			74	důchodce	Dřínov	47	47	0
-7201	588431	1	4	47	3	Miroslav	Sedlák	M			64	důchodce	Dřínov	47	47	0
-7201	588431	1	4	47	4	Vratislav	Huličník	M			60	důchodce	Dřínov	47	47	0
-7201	588431	1	4	47	5	Alena	Maticsová	F			35	dělnice	Dřínov	47	47	0
-7201	588431	1	4	47	6	Ivan	Hyžďal	M			39	dělník	Dřínov	99	47	0
-7201	588431	1	4	47	7	Jiří	Přibyl	M			26	dělník	Dřínov	99	47	1
-7201	588431	1	4	47	8	Lenka	Slováčková	F			37	dělnice	Dřínov	99	47	0
-7201	588431	1	4	47	9	Iveta	Řezáčová	F			47	dělnice	Dřínov	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7201	588431	1	1	1	1	Josef	Pospíšil			62	důchodce	Dřínov	1	1	0	M
+7201	588431	1	2	901	1	Josef	Palíšek			62	starosta obce	Dřínov	99	80	0	M
+7201	588431	1	3	902	1	Miroslav	Štěpánek			30	podnikatel	Dřínov	99	80	0	M
+7201	588431	1	4	47	1	Miroslav	Laža			47	podnikatel	Dřínov	47	47	0	M
+7201	588431	1	1	1	2	Petr	Lechner			32	dělník	Dřínov	99	1	0	M
+7201	588431	1	2	901	2	Ilona	Novotná			48	ředitelka MŠ	Dřínov	99	80	0	F
+7201	588431	1	3	902	2	Ivo	Hošek			40	dělník	Dřínov	99	80	0	M
+7201	588431	1	4	47	2	Vojtěch	Hyžďal			74	důchodce	Dřínov	47	47	0	M
+7201	588431	1	1	1	3	Petr	Pospíšil			35	elektromechanik	Dřínov	99	1	0	M
+7201	588431	1	2	901	3	Karel	Surý			59	strojník čistírny odpad. vod	Dřínov	99	80	0	M
+7201	588431	1	3	902	3	Martina	Guštarová			39	pracovnice sociálních služeb	Dřínov	99	80	0	F
+7201	588431	1	4	47	3	Miroslav	Sedlák			64	důchodce	Dřínov	47	47	0	M
+7201	588431	1	1	1	4	Marie	Konupková			59	důchodkyně	Dřínov	1	1	0	F
+7201	588431	1	2	901	4	Dagmar	Schafferová			26	účetní	Dřínov	99	80	0	F
+7201	588431	1	3	902	4	Ladislav	Kučírek			31	finanční poradce	Dřínov	99	80	0	M
+7201	588431	1	4	47	4	Vratislav	Huličník			60	důchodce	Dřínov	47	47	0	M
+7201	588431	1	1	1	5	Jiří	Vrana			22	skladník	Dřínov	99	1	0	M
+7201	588431	1	2	901	5	Jaroslav	Laža			64	dělník	Dřínov	99	80	0	M
+7201	588431	1	3	902	5	Jana	Novotná			26	asistentka ředitele	Dřínov	99	80	0	F
+7201	588431	1	4	47	5	Alena	Maticsová			35	dělnice	Dřínov	47	47	0	F
+7201	588431	1	1	1	6	František	Zlámal			73	důchodce	Dřínov	1	1	0	M
+7201	588431	1	2	901	6	Anna	Přecechtělová			56	OSVČ - pedikérka	Dřínov	99	80	0	F
+7201	588431	1	3	902	6	Marcela	Lechnerová			32	mateřská dovolená	Dřínov	99	80	0	F
+7201	588431	1	4	47	6	Ivan	Hyžďal			39	dělník	Dřínov	99	47	0	M
+7201	588431	1	1	1	7	Jitka	Pizúrová	Mgr.		32	programátorka	Dřínov	99	1	0	F
+7201	588431	1	2	901	7	Antonín	Maňásek			51	stavební technik	Dřínov	99	80	0	M
+7201	588431	1	3	902	7	Karel	Strašák			35	servisní technik	Dřínov	99	80	0	M
+7201	588431	1	4	47	7	Jiří	Přibyl			26	dělník	Dřínov	99	47	1	M
+7201	588431	1	1	1	8	Anna	Sofková			69	důchodkyně	Dřínov	1	1	0	F
+7201	588431	1	2	901	8	Hana	Večerková			57	invalidní důchodkyně	Dřínov	99	80	0	F
+7201	588431	1	3	902	8	Marcela	Pokorná			34	zdravotní sestra	Dřínov	99	80	0	F
+7201	588431	1	4	47	8	Lenka	Slováčková			37	dělnice	Dřínov	99	47	0	F
+7201	588431	1	1	1	9	Jan	Vrana			57	učitel odborného výcviku SŠ	Dřínov	1	1	0	M
+7201	588431	1	2	901	9	Stanislav	Vykouřil			63	dělník	Dřínov	99	80	0	M
+7201	588431	1	3	902	9	Roman	Hejč			44	montážní pracovník	Dřínov	99	80	0	M
+7201	588431	1	4	47	9	Iveta	Řezáčová			47	dělnice	Dřínov	99	47	0	F

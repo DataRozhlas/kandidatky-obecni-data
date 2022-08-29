@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2106	529575	1	1	901	1	Magdalena	Kotrčová	F			34	zahradnice	Osinalice	99	80	0
-2106	529575	1	1	901	2	Vladimír	Halada	M	Mgr.		54	OSVČ	Osinalice	99	80	0
-2106	529575	1	1	901	3	Adolf	Rozman	M			49	automechanik	Osinalice	99	80	0
-2106	529575	1	1	901	4	František	Rozman	M			27	dělník	Osinalice	99	80	0
-2106	529575	1	1	901	5	Martin	Kusbach	M			45	automechanik	Osinalice	99	80	0
-2106	529575	1	1	901	6	David	Witz	M			38	svářeč	Osinalice	99	80	0
-2106	529575	1	1	901	7	Vít	Pauzr	M			49	zemědělec	Osinalice	99	80	0
-2106	529575	1	2	903	1	Jana	Vlková	F	Bc.		40	učitelka na SŠ	Chudolazy	99	80	0
-2106	529575	1	2	903	2	František	Hromas	M	Bc.		29	finanční poradce	Chudolazy	99	80	0
-2106	529575	1	2	903	3	Michal	Tichý	M			41	technik, dispečer	Chudolazy	99	80	0
-2106	529575	1	2	903	4	Petr	Vopátka	M			35	policista	Chudolazy	99	80	0
-2106	529575	1	2	903	5	Markéta	Rösslerová	F			35	policistka	Chudolazy	99	80	0
-2106	529575	1	2	903	6	Pavlína	Pospíšilová	F			33	dělnice	Chudolazy	99	80	0
-2106	529575	1	2	903	7	Josef	Pospíšil	M			54	dělník	Chudolazy	99	80	0
-2106	529575	1	2	903	8	Tomáš	Szekely	M			45	číšník	Chudolazy	99	80	0
-2106	529575	1	3	801	1	Antonín	Kuča	M			59	invalidní důchodce	Chudolazy	99	80	0
-2106	529575	1	4	902	1	Stanislav	Strejček	M			61	OSVČ	Medonosy	99	80	0
-2106	529575	1	4	902	2	Ondřej	Roček	M			31	OSVČ	Medonosy	99	80	0
-2106	529575	1	4	902	3	Filip	Tesař	M	Mgr.		44	tlumočník	Medonosy	99	80	0
-2106	529575	1	4	902	4	Ondřej	Podstavek	M			37	manažer	Medonosy	99	80	0
-2106	529575	1	4	902	5	Kateřina	Berchová	F	Doc.		40	vědecký pracovník	Medonosy	99	80	0
-2106	529575	1	4	902	6	Jan	Florián	M			32	OSVČ	Medonosy	99	80	0
-2106	529575	1	4	902	7	Kristýna	Ročková	F			31	v domácnosti	Medonosy	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2106	529575	1	1	901	1	Magdalena	Kotrčová			34	zahradnice	Osinalice	99	80	0	F
+2106	529575	1	2	903	1	Jana	Vlková	Bc.		40	učitelka na SŠ	Chudolazy	99	80	0	F
+2106	529575	1	3	801	1	Antonín	Kuča			59	invalidní důchodce	Chudolazy	99	80	0	M
+2106	529575	1	4	902	1	Stanislav	Strejček			61	OSVČ	Medonosy	99	80	0	M
+2106	529575	1	1	901	2	Vladimír	Halada	Mgr.		54	OSVČ	Osinalice	99	80	0	M
+2106	529575	1	2	903	2	František	Hromas	Bc.		29	finanční poradce	Chudolazy	99	80	0	M
+2106	529575	1	4	902	2	Ondřej	Roček			31	OSVČ	Medonosy	99	80	0	M
+2106	529575	1	1	901	3	Adolf	Rozman			49	automechanik	Osinalice	99	80	0	M
+2106	529575	1	2	903	3	Michal	Tichý			41	technik, dispečer	Chudolazy	99	80	0	M
+2106	529575	1	4	902	3	Filip	Tesař	Mgr.		44	tlumočník	Medonosy	99	80	0	M
+2106	529575	1	1	901	4	František	Rozman			27	dělník	Osinalice	99	80	0	M
+2106	529575	1	2	903	4	Petr	Vopátka			35	policista	Chudolazy	99	80	0	M
+2106	529575	1	4	902	4	Ondřej	Podstavek			37	manažer	Medonosy	99	80	0	M
+2106	529575	1	1	901	5	Martin	Kusbach			45	automechanik	Osinalice	99	80	0	M
+2106	529575	1	2	903	5	Markéta	Rösslerová			35	policistka	Chudolazy	99	80	0	F
+2106	529575	1	4	902	5	Kateřina	Berchová	Doc.		40	vědecký pracovník	Medonosy	99	80	0	F
+2106	529575	1	1	901	6	David	Witz			38	svářeč	Osinalice	99	80	0	M
+2106	529575	1	2	903	6	Pavlína	Pospíšilová			33	dělnice	Chudolazy	99	80	0	F
+2106	529575	1	4	902	6	Jan	Florián			32	OSVČ	Medonosy	99	80	0	M
+2106	529575	1	1	901	7	Vít	Pauzr			49	zemědělec	Osinalice	99	80	0	M
+2106	529575	1	2	903	7	Josef	Pospíšil			54	dělník	Chudolazy	99	80	0	M
+2106	529575	1	4	902	7	Kristýna	Ročková			31	v domácnosti	Medonosy	99	80	0	F
+2106	529575	1	2	903	8	Tomáš	Szekely			45	číšník	Chudolazy	99	80	0	M

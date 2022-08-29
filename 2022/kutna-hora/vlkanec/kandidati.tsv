@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2105	534579	1	1	801	1	Vincent	Špalek	M	Ing.		57	státní zaměstnanec	Kozohlody	99	80	A
-2105	534579	1	2	901	1	Oldřich	Novák	M			53	stavbyvedoucí	Vlkaneč	99	80	A
-2105	534579	1	2	901	2	Josef	Altmann	M			46	vedoucí servisu	Kozohlody	99	80	A
-2105	534579	1	2	901	3	Jitka	Rajdlová	F			42	dělnice ve výrobě	Vlkaneč	99	80	A
-2105	534579	1	2	901	4	Michaela	Holubová	F	Bc.		25	marketingový manažer	Vlkaneč	99	80	A
-2105	534579	1	2	901	5	Jan	Burian	M			61	dispečer dopravy	Vlkaneč	99	80	A
-2105	534579	1	2	901	6	Martina	Nováková	F			50	učitelka MŠ	Vlkaneč	99	80	A
-2105	534579	1	2	901	7	Kamil	Novák	M	Ing.		32	projektový koordinátor	Vlkaneč	99	80	A
-2105	534579	1	2	901	8	Stanislav	Svatoň	M	Ing.		53	soukromý zemědělec	Vlkaneč	99	80	A
-2105	534579	1	2	901	9	Pavla	Havlová	F	Ing.	Ph.D.	45	učitelka SŠ	Vlkaneč	99	80	A
-2105	534579	1	3	387	1	Jiří	Volenec	M			70	automechanik	Vlkaneč	47	47	A
-2105	534579	1	3	387	2	Zdeněk	Janáček	M			40	automechanik	Vlkaneč	99	80	A
-2105	534579	1	3	387	3	Pavel	Kratochvíl	M			35	operátor linky	Vlkaneč	99	80	A
-2105	534579	1	3	387	4	Miroslav	Mládek	M			32	údržbář	Vlkaneč	99	80	A
-2105	534579	1	3	387	5	Barbora	Komárková	F			43	zaměstnanec obce	Vlkaneč	99	80	A
-2105	534579	1	3	387	6	Josef	Mrkvička	M			26	technik ČD	Kozohlody	99	80	A
-2105	534579	1	3	387	7	Jana	Jonášová	F			43	sociální pracovnice	Vlkaneč	99	80	A
-2105	534579	1	3	387	8	Vlastimil	Miláček	M			34	kuchař	Vlkaneč	99	80	A
-2105	534579	1	3	387	9	Jindřich	Časar	M			27	zaměstnanec ČD	Vlkaneč	99	80	A
-2105	534579	1	4	1	1	Josef	Klaus	M			61	starosta obce	Vlkaneč	99	1	A
-2105	534579	1	4	1	2	Václav	Vágner	M			46	manažer	Vlkaneč	99	1	A
-2105	534579	1	4	1	3	Jaroslava	Cempírková	F	Mgr.	Dis.	38	referent sociálních věcí	Vlkaneč	99	1	A
-2105	534579	1	4	1	4	Jaroslava	Havlinová	F	Ing.		37	zootechnik	Vlkaneč	99	1	A
-2105	534579	1	4	1	5	Josef	Rejnek	M			45	policista ve výslužbě	Přibyslavice	99	1	A
-2105	534579	1	4	1	6	Magda	Šimerková	F			34	na mateřské dovolené	Kozohlody	99	1	A
-2105	534579	1	4	1	7	Stanislava	Rázlová	F	Bc.		41	státní zaměstnanec	Vlkaneč	99	1	A
-2105	534579	1	4	1	8	Alena	Zelená	F			48	vedoucí pošty	Vlkaneč	99	1	A
-2105	534579	1	4	1	9	Miroslav	Jonáš	M			39	zaměstnanec obce	Vlkaneč	99	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2105	534579	1	1	801	1	Vincent	Špalek	Ing.		57	státní zaměstnanec	Kozohlody	99	80	A	M
+2105	534579	1	2	901	1	Oldřich	Novák			53	stavbyvedoucí	Vlkaneč	99	80	A	M
+2105	534579	1	3	387	1	Jiří	Volenec			70	automechanik	Vlkaneč	47	47	A	M
+2105	534579	1	4	1	1	Josef	Klaus			61	starosta obce	Vlkaneč	99	1	A	M
+2105	534579	1	2	901	2	Josef	Altmann			46	vedoucí servisu	Kozohlody	99	80	A	M
+2105	534579	1	3	387	2	Zdeněk	Janáček			40	automechanik	Vlkaneč	99	80	A	M
+2105	534579	1	4	1	2	Václav	Vágner			46	manažer	Vlkaneč	99	1	A	M
+2105	534579	1	2	901	3	Jitka	Rajdlová			42	dělnice ve výrobě	Vlkaneč	99	80	A	F
+2105	534579	1	3	387	3	Pavel	Kratochvíl			35	operátor linky	Vlkaneč	99	80	A	M
+2105	534579	1	4	1	3	Jaroslava	Cempírková	Mgr.	Dis.	38	referent sociálních věcí	Vlkaneč	99	1	A	F
+2105	534579	1	2	901	4	Michaela	Holubová	Bc.		25	marketingový manažer	Vlkaneč	99	80	A	F
+2105	534579	1	3	387	4	Miroslav	Mládek			32	údržbář	Vlkaneč	99	80	A	M
+2105	534579	1	4	1	4	Jaroslava	Havlinová	Ing.		37	zootechnik	Vlkaneč	99	1	A	F
+2105	534579	1	2	901	5	Jan	Burian			61	dispečer dopravy	Vlkaneč	99	80	A	M
+2105	534579	1	3	387	5	Barbora	Komárková			43	zaměstnanec obce	Vlkaneč	99	80	A	F
+2105	534579	1	4	1	5	Josef	Rejnek			45	policista ve výslužbě	Přibyslavice	99	1	A	M
+2105	534579	1	2	901	6	Martina	Nováková			50	učitelka MŠ	Vlkaneč	99	80	A	F
+2105	534579	1	3	387	6	Josef	Mrkvička			26	technik ČD	Kozohlody	99	80	A	M
+2105	534579	1	4	1	6	Magda	Šimerková			34	na mateřské dovolené	Kozohlody	99	1	A	F
+2105	534579	1	2	901	7	Kamil	Novák	Ing.		32	projektový koordinátor	Vlkaneč	99	80	A	M
+2105	534579	1	3	387	7	Jana	Jonášová			43	sociální pracovnice	Vlkaneč	99	80	A	F
+2105	534579	1	4	1	7	Stanislava	Rázlová	Bc.		41	státní zaměstnanec	Vlkaneč	99	1	A	F
+2105	534579	1	2	901	8	Stanislav	Svatoň	Ing.		53	soukromý zemědělec	Vlkaneč	99	80	A	M
+2105	534579	1	3	387	8	Vlastimil	Miláček			34	kuchař	Vlkaneč	99	80	A	M
+2105	534579	1	4	1	8	Alena	Zelená			48	vedoucí pošty	Vlkaneč	99	1	A	F
+2105	534579	1	2	901	9	Pavla	Havlová	Ing.	Ph.D.	45	učitelka SŠ	Vlkaneč	99	80	A	F
+2105	534579	1	3	387	9	Jindřich	Časar			27	zaměstnanec ČD	Vlkaneč	99	80	A	M
+2105	534579	1	4	1	9	Miroslav	Jonáš			39	zaměstnanec obce	Vlkaneč	99	1	A	M

@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2105	534366	1	1	901	1	Ladislav	Flek	M			64	důchodce	Řendějov	99	80	A
-2105	534366	1	1	901	2	Alena	Slavíčková	F			57	učitelka mateřské školy	Jiřice	99	80	A
-2105	534366	1	1	901	3	Robert	Včelák	M			39	OSVČ	Jiřice	99	80	A
-2105	534366	1	1	901	4	Pavel	Jelínek	M			45	dispečer	Jiřice	99	80	A
-2105	534366	1	1	901	5	Petr	Dubják	M			51	obchodní ředitel	Jiřice	99	80	A
-2105	534366	1	1	901	6	Josef	Edr	M			30	dělník	Řendějov	99	80	A
-2105	534366	1	1	901	7	Lubomír	Lépeš	M			58	řidič záchranné služby	Jiřice	99	80	A
-2105	534366	1	1	901	8	Petr	Brabec	M			51	lakýrník	Starý Samechov	99	80	A
-2105	534366	1	1	901	9	Kristýna	Jelínková	F			22	student	Jiřice	99	80	A
-2105	534366	1	2	902	1	Petr	Jirovský	M			52	elektrikář	Nový Samechov	99	80	A
-2105	534366	1	2	902	2	Radek	Douda	M			31	vedoucí expedice	Řendějov	99	80	A
-2105	534366	1	2	902	3	Martina	Sedláčková	F			49	dámská krejčová	Nový Samechov	99	80	A
-2105	534366	1	2	902	4	Hana	Schvarzová	F			50	kuchařka	Starý Samechov	99	80	A
-2105	534366	1	2	902	5	Markéta	Krausová	F			47	sanitářka	Starý Samechov	99	80	A
-2105	534366	1	2	902	6	Robert	Navrátil	M			28	řidič	Jiřice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2105	534366	1	1	901	1	Ladislav	Flek			64	důchodce	Řendějov	99	80	A	M
+2105	534366	1	2	902	1	Petr	Jirovský			52	elektrikář	Nový Samechov	99	80	A	M
+2105	534366	1	1	901	2	Alena	Slavíčková			57	učitelka mateřské školy	Jiřice	99	80	A	F
+2105	534366	1	2	902	2	Radek	Douda			31	vedoucí expedice	Řendějov	99	80	A	M
+2105	534366	1	1	901	3	Robert	Včelák			39	OSVČ	Jiřice	99	80	A	M
+2105	534366	1	2	902	3	Martina	Sedláčková			49	dámská krejčová	Nový Samechov	99	80	A	F
+2105	534366	1	1	901	4	Pavel	Jelínek			45	dispečer	Jiřice	99	80	A	M
+2105	534366	1	2	902	4	Hana	Schvarzová			50	kuchařka	Starý Samechov	99	80	A	F
+2105	534366	1	1	901	5	Petr	Dubják			51	obchodní ředitel	Jiřice	99	80	A	M
+2105	534366	1	2	902	5	Markéta	Krausová			47	sanitářka	Starý Samechov	99	80	A	F
+2105	534366	1	1	901	6	Josef	Edr			30	dělník	Řendějov	99	80	A	M
+2105	534366	1	2	902	6	Robert	Navrátil			28	řidič	Jiřice	99	80	A	M
+2105	534366	1	1	901	7	Lubomír	Lépeš			58	řidič záchranné služby	Jiřice	99	80	A	M
+2105	534366	1	1	901	8	Petr	Brabec			51	lakýrník	Starý Samechov	99	80	A	M
+2105	534366	1	1	901	9	Kristýna	Jelínková			22	student	Jiřice	99	80	A	F

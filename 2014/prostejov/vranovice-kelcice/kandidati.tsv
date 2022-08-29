@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	590177	1	1	901	1	Irena	Blažková	F			45	starostka obce	Vranovice	99	80	0
-7103	590177	1	1	901	2	Milan	Burda	M			46	řidič	Vranovice	99	80	0
-7103	590177	1	1	901	3	Markéta	Greplová	F	PhDr.		35	psycholog	Vranovice	99	80	0
-7103	590177	1	1	901	4	Petr	Lorenc	M			50	soukromý zemědělec	Vranovice	99	80	0
-7103	590177	1	1	901	5	Lucie	Zemánková	F	Bc.	DiS.	29	referentka VZP	Vranovice	99	80	0
-7103	590177	1	1	901	6	Miroslav	Drábek	M			40	státní zaměstnanec	Vranovice	99	80	0
-7103	590177	1	1	901	7	Vojtěch	Burda	M			23	manažer obchodu	Vranovice	99	80	0
-7103	590177	1	1	901	8	Tomáš	Kučera	M			25	číšník	Vranovice	99	80	0
-7103	590177	1	1	901	9	Karel	Hruda	M			56	mistr odborného výcviku	Vranovice	99	80	0
-7103	590177	1	2	389	1	Vilém	Novotný	M	Ing.		31	obchodník	Kelčice	53	53	0
-7103	590177	1	2	389	2	Ondřej	Valenta	M			27	řidič	Kelčice	99	80	0
-7103	590177	1	2	389	3	Jaroslav	Holub	M			48	dělník	Kelčice	99	80	0
-7103	590177	1	2	389	4	Jitka	Peškeová	F	Mgr.		28	ředitelka mateřské školy	Kelčice	53	53	0
-7103	590177	1	2	389	5	Vilém	Novotný	M	Ing.		54	jednatel obchodní společnosti	Kelčice	53	53	0
-7103	590177	1	3	1	1	Jaromír	Lepařík	M			49	strojník	Kelčice	99	1	0
-7103	590177	1	3	1	2	Raimund	Sokele	M			51	OSVČ	Kelčice	99	1	0
-7103	590177	1	3	1	3	Marie	Grussmannová	F			53	zaměstnanec	Kelčice	99	1	0
-7103	590177	1	3	1	4	František	Koudelka	M			55	cestmistr	Vranovice	99	1	0
-7103	590177	1	3	1	5	Milan	Pospíšil	M			50	klempíř	Vranovice	99	1	0
-7103	590177	1	3	1	6	Michal	Tesař	M			29	skladník	Kelčice	99	1	0
-7103	590177	1	4	903	1	Miloš	Vinařský	M			49	servisní technik	Kelčice	99	80	0
-7103	590177	1	4	903	2	Josef	Cetkovský	M	Ing.		49	předseda družstva	Kelčice	99	80	0
-7103	590177	1	4	903	3	Milan	Ošťádal	M	Ing.		45	projektant	Kelčice	99	80	0
-7103	590177	1	4	903	4	Pavel	Soldán	M			43	vedoucí prodejny	Kelčice	99	80	0
-7103	590177	1	4	903	5	Jan	Grussmann	M	Ing.		53	výrobní ředitel	Kelčice	99	80	0
-7103	590177	1	4	903	6	Josef	Hrazdira	M			48	státní zaměstnanec	Kelčice	99	80	0
-7103	590177	1	4	903	7	Lucie	Páleníková	F	MDDr.		27	zubní lékařka	Kelčice	99	80	0
-7103	590177	1	4	903	8	Jiří	Vytásek	M			58	zaměstnanec obce	Kelčice	99	80	0
-7103	590177	1	4	903	9	David	Hrazdira	M			23	student	Kelčice	99	80	0
-7103	590177	1	5	902	1	Šárka	Havlíčková	F	Ing.	Ph.D.	35	manažer	Vranovice	99	80	0
-7103	590177	1	5	902	2	Ivana	Hasalová	F	Ing.		56	šlechtitel	Vranovice	53	80	0
-7103	590177	1	5	902	3	Alois	Svoboda	M			52	OSVČ	Vranovice	99	80	0
-7103	590177	1	5	902	4	Tomáš	Vojáček	M			43	technik, konstruktér	Vranovice	99	80	0
-7103	590177	1	5	902	5	Vlastimila	Svobodová	F			50	dětská sestra	Vranovice	99	80	0
-7103	590177	1	5	902	6	Anna	Piňosová	F	Mgr.		31	vedoucí kanceláře OSZ na rodičovské dovolené	Vranovice	99	80	0
-7103	590177	1	5	902	7	Jan	Chytil	M			40	správce sportovní haly	Vranovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	590177	1	1	901	1	Irena	Blažková			45	starostka obce	Vranovice	99	80	0	F
+7103	590177	1	2	389	1	Vilém	Novotný	Ing.		31	obchodník	Kelčice	53	53	0	M
+7103	590177	1	3	1	1	Jaromír	Lepařík			49	strojník	Kelčice	99	1	0	M
+7103	590177	1	4	903	1	Miloš	Vinařský			49	servisní technik	Kelčice	99	80	0	M
+7103	590177	1	5	902	1	Šárka	Havlíčková	Ing.	Ph.D.	35	manažer	Vranovice	99	80	0	F
+7103	590177	1	1	901	2	Milan	Burda			46	řidič	Vranovice	99	80	0	M
+7103	590177	1	2	389	2	Ondřej	Valenta			27	řidič	Kelčice	99	80	0	M
+7103	590177	1	3	1	2	Raimund	Sokele			51	OSVČ	Kelčice	99	1	0	M
+7103	590177	1	4	903	2	Josef	Cetkovský	Ing.		49	předseda družstva	Kelčice	99	80	0	M
+7103	590177	1	5	902	2	Ivana	Hasalová	Ing.		56	šlechtitel	Vranovice	53	80	0	F
+7103	590177	1	1	901	3	Markéta	Greplová	PhDr.		35	psycholog	Vranovice	99	80	0	F
+7103	590177	1	2	389	3	Jaroslav	Holub			48	dělník	Kelčice	99	80	0	M
+7103	590177	1	3	1	3	Marie	Grussmannová			53	zaměstnanec	Kelčice	99	1	0	F
+7103	590177	1	4	903	3	Milan	Ošťádal	Ing.		45	projektant	Kelčice	99	80	0	M
+7103	590177	1	5	902	3	Alois	Svoboda			52	OSVČ	Vranovice	99	80	0	M
+7103	590177	1	1	901	4	Petr	Lorenc			50	soukromý zemědělec	Vranovice	99	80	0	M
+7103	590177	1	2	389	4	Jitka	Peškeová	Mgr.		28	ředitelka mateřské školy	Kelčice	53	53	0	F
+7103	590177	1	3	1	4	František	Koudelka			55	cestmistr	Vranovice	99	1	0	M
+7103	590177	1	4	903	4	Pavel	Soldán			43	vedoucí prodejny	Kelčice	99	80	0	M
+7103	590177	1	5	902	4	Tomáš	Vojáček			43	technik, konstruktér	Vranovice	99	80	0	M
+7103	590177	1	1	901	5	Lucie	Zemánková	Bc.	DiS.	29	referentka VZP	Vranovice	99	80	0	F
+7103	590177	1	2	389	5	Vilém	Novotný	Ing.		54	jednatel obchodní společnosti	Kelčice	53	53	0	M
+7103	590177	1	3	1	5	Milan	Pospíšil			50	klempíř	Vranovice	99	1	0	M
+7103	590177	1	4	903	5	Jan	Grussmann	Ing.		53	výrobní ředitel	Kelčice	99	80	0	M
+7103	590177	1	5	902	5	Vlastimila	Svobodová			50	dětská sestra	Vranovice	99	80	0	F
+7103	590177	1	1	901	6	Miroslav	Drábek			40	státní zaměstnanec	Vranovice	99	80	0	M
+7103	590177	1	3	1	6	Michal	Tesař			29	skladník	Kelčice	99	1	0	M
+7103	590177	1	4	903	6	Josef	Hrazdira			48	státní zaměstnanec	Kelčice	99	80	0	M
+7103	590177	1	5	902	6	Anna	Piňosová	Mgr.		31	vedoucí kanceláře OSZ na rodičovské dovolené	Vranovice	99	80	0	F
+7103	590177	1	1	901	7	Vojtěch	Burda			23	manažer obchodu	Vranovice	99	80	0	M
+7103	590177	1	4	903	7	Lucie	Páleníková	MDDr.		27	zubní lékařka	Kelčice	99	80	0	F
+7103	590177	1	5	902	7	Jan	Chytil			40	správce sportovní haly	Vranovice	99	80	0	M
+7103	590177	1	1	901	8	Tomáš	Kučera			25	číšník	Vranovice	99	80	0	M
+7103	590177	1	4	903	8	Jiří	Vytásek			58	zaměstnanec obce	Kelčice	99	80	0	M
+7103	590177	1	1	901	9	Karel	Hruda			56	mistr odborného výcviku	Vranovice	99	80	0	M
+7103	590177	1	4	903	9	David	Hrazdira			23	student	Kelčice	99	80	0	M

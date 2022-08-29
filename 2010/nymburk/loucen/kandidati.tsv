@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2108	537446	1	1	7	1	František	Suchý	M	Mgr.et Bc.		31	učitel ZŠ	Loučeň	99	7	0
-2108	537446	1	1	7	2	Martina	Záklasníková	F			26	zaměstnanec České pošty	Loučeň	7	7	0
-2108	537446	1	1	7	3	Miloslav	Jetel	M			30	technický ref.kvality Škoda	Loučeň	99	7	0
-2108	537446	1	1	7	4	Jan	Bártl	M			34	soukromý podnikatel	Loučeň	7	7	0
-2108	537446	1	1	7	5	Pavel	Novotný	M			33	dozorčí os. přepravy ČD a.s.	Loučeň	7	7	0
-2108	537446	1	2	901	1	Bohumil	Vinš	M			53	starosta	Loučeň	99	80	0
-2108	537446	1	2	901	2	Petr	Nezdara	M			43	technik	Studce	99	80	0
-2108	537446	1	2	901	3	František	Vlk	M			35	technik	Loučeň	99	80	0
-2108	537446	1	2	901	4	Jitka	Knytlová	F			47	v domácnosti	Loučeň	99	80	0
-2108	537446	1	2	901	5	Iveta	Holánková	F			35	OSVČ	Loučeň	99	80	0
-2108	537446	1	2	901	6	Eva	Baumgartnerová	F			57	OSVČ	Loučeň	99	80	0
-2108	537446	1	2	901	7	Hana	Kuřová	F			66	důchodkyně	Studečky	99	80	0
-2108	537446	1	2	901	8	Tomáš	Svoboda	M			31	zaměstnanec	Loučeň	99	80	0
-2108	537446	1	2	901	9	Marta	Nováková	F			70	důchodkyně	Patřín	53	80	0
-2108	537446	1	2	901	10	Vladislav	Malík	M			56	technik	Loučeň	99	80	0
-2108	537446	1	2	901	11	Jiří	Mánek	M			70	důchodce	Patřín	99	80	0
-2108	537446	1	3	53	1	Lenka	Náměstková	F		DiS.	42	podnikatel	Loučeň	99	53	0
-2108	537446	1	3	53	2	Rudolf	Zeman	M	MUDr.		59	zubní lékař	Loučeň	53	53	0
-2108	537446	1	3	53	3	Iva	Macálová	F			34	úřednice	Loučeň	99	53	0
-2108	537446	1	3	53	4	Hana	Zímová	F			50	úřednice	Loučeň	99	53	0
-2108	537446	1	3	53	5	Jaroslav	Martínek	M	Ing.		53	podnikatel	Patřín	99	53	0
-2108	537446	1	3	53	6	Andrea	Vecková	F			34	specialista	Patřín	99	53	0
-2108	537446	1	3	53	7	Pavel	Zahrádka	M			44	automechanik	Loučeň	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2108	537446	1	1	7	1	František	Suchý	Mgr.et Bc.		31	učitel ZŠ	Loučeň	99	7	0	M
+2108	537446	1	2	901	1	Bohumil	Vinš			53	starosta	Loučeň	99	80	0	M
+2108	537446	1	3	53	1	Lenka	Náměstková		DiS.	42	podnikatel	Loučeň	99	53	0	F
+2108	537446	1	1	7	2	Martina	Záklasníková			26	zaměstnanec České pošty	Loučeň	7	7	0	F
+2108	537446	1	2	901	2	Petr	Nezdara			43	technik	Studce	99	80	0	M
+2108	537446	1	3	53	2	Rudolf	Zeman	MUDr.		59	zubní lékař	Loučeň	53	53	0	M
+2108	537446	1	1	7	3	Miloslav	Jetel			30	technický ref.kvality Škoda	Loučeň	99	7	0	M
+2108	537446	1	2	901	3	František	Vlk			35	technik	Loučeň	99	80	0	M
+2108	537446	1	3	53	3	Iva	Macálová			34	úřednice	Loučeň	99	53	0	F
+2108	537446	1	1	7	4	Jan	Bártl			34	soukromý podnikatel	Loučeň	7	7	0	M
+2108	537446	1	2	901	4	Jitka	Knytlová			47	v domácnosti	Loučeň	99	80	0	F
+2108	537446	1	3	53	4	Hana	Zímová			50	úřednice	Loučeň	99	53	0	F
+2108	537446	1	1	7	5	Pavel	Novotný			33	dozorčí os. přepravy ČD a.s.	Loučeň	7	7	0	M
+2108	537446	1	2	901	5	Iveta	Holánková			35	OSVČ	Loučeň	99	80	0	F
+2108	537446	1	3	53	5	Jaroslav	Martínek	Ing.		53	podnikatel	Patřín	99	53	0	M
+2108	537446	1	2	901	6	Eva	Baumgartnerová			57	OSVČ	Loučeň	99	80	0	F
+2108	537446	1	3	53	6	Andrea	Vecková			34	specialista	Patřín	99	53	0	F
+2108	537446	1	2	901	7	Hana	Kuřová			66	důchodkyně	Studečky	99	80	0	F
+2108	537446	1	3	53	7	Pavel	Zahrádka			44	automechanik	Loučeň	99	53	0	M
+2108	537446	1	2	901	8	Tomáš	Svoboda			31	zaměstnanec	Loučeň	99	80	0	M
+2108	537446	1	2	901	9	Marta	Nováková			70	důchodkyně	Patřín	53	80	0	F
+2108	537446	1	2	901	10	Vladislav	Malík			56	technik	Loučeň	99	80	0	M
+2108	537446	1	2	901	11	Jiří	Mánek			70	důchodce	Patřín	99	80	0	M

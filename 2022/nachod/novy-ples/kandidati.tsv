@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5203	574295	1	1	901	1	Jaroslav	Mrázek	M	Ing.		50	lesník	Nový Ples	99	80	A
-5203	574295	1	1	901	2	Tereza	Martinová	F	Mgr.		33	učitelka	Nový Ples	99	80	A
-5203	574295	1	1	901	3	Renata	Linková	F			48	prodavačka	Nový Ples	99	80	A
-5203	574295	1	1	901	4	Ilona	Součková	F			50	úřednice	Nový Ples	99	80	A
-5203	574295	1	1	901	5	Vladimíra	Poláková	F			57	knihovnice	Nový Ples	99	80	A
-5203	574295	1	1	901	6	Michael	Nosek	M			33	servisní technik	Nový Ples	99	80	A
-5203	574295	1	1	901	7	Petra	Nováková	F			27	účetní	Nový Ples	99	80	A
-5203	574295	1	2	902	1	Martin	Slezák	M			47	technik	Nový Ples	99	80	A
-5203	574295	1	2	902	2	Jitka	Jarkovská	F			48	úřednice	Nový Ples	99	80	A
-5203	574295	1	2	902	3	Veronika	Kaiserová	F	Mgr.		40	OSVČ	Nový Ples	99	80	A
-5203	574295	1	2	902	4	Zuzana	Forstová	F	Ing.		32	technickohospodářský pracovník	Nový Ples	99	80	A
-5203	574295	1	2	902	5	Richard	Šrámek	M	Ing.		25	zootechnik	Nový Ples	99	80	A
-5203	574295	1	2	902	6	Lukáš	Souček	M	Ing.		26	úředník	Nový Ples	99	80	A
-5203	574295	1	2	902	7	David	Holeček	M			48	bezpečnostní pracovník	Nový Ples	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5203	574295	1	1	901	1	Jaroslav	Mrázek	Ing.		50	lesník	Nový Ples	99	80	A	M
+5203	574295	1	2	902	1	Martin	Slezák			47	technik	Nový Ples	99	80	A	M
+5203	574295	1	1	901	2	Tereza	Martinová	Mgr.		33	učitelka	Nový Ples	99	80	A	F
+5203	574295	1	2	902	2	Jitka	Jarkovská			48	úřednice	Nový Ples	99	80	A	F
+5203	574295	1	1	901	3	Renata	Linková			48	prodavačka	Nový Ples	99	80	A	F
+5203	574295	1	2	902	3	Veronika	Kaiserová	Mgr.		40	OSVČ	Nový Ples	99	80	A	F
+5203	574295	1	1	901	4	Ilona	Součková			50	úřednice	Nový Ples	99	80	A	F
+5203	574295	1	2	902	4	Zuzana	Forstová	Ing.		32	technickohospodářský pracovník	Nový Ples	99	80	A	F
+5203	574295	1	1	901	5	Vladimíra	Poláková			57	knihovnice	Nový Ples	99	80	A	F
+5203	574295	1	2	902	5	Richard	Šrámek	Ing.		25	zootechnik	Nový Ples	99	80	A	M
+5203	574295	1	1	901	6	Michael	Nosek			33	servisní technik	Nový Ples	99	80	A	M
+5203	574295	1	2	902	6	Lukáš	Souček	Ing.		26	úředník	Nový Ples	99	80	A	M
+5203	574295	1	1	901	7	Petra	Nováková			27	účetní	Nový Ples	99	80	A	F
+5203	574295	1	2	902	7	David	Holeček			48	bezpečnostní pracovník	Nový Ples	99	80	A	M

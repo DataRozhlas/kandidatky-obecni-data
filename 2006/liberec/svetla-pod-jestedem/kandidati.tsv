@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5103	564427	1	1	1	1	Libuše	Úradníková	F			56	prodavačka	Hodky	99	1	0
-5103	564427	1	1	1	2	Vlastimil	Bulíř	M			58	předseda agrodružstva	Dolení Paseky	99	1	0
-5103	564427	1	1	1	3	Jana	Škodová	F			72	zdravotní sestra	Světlá pod Ještědem	99	1	0
-5103	564427	1	1	1	4	Božena	Antošová	F			74	důchodkyně	Jiříčkov	99	1	0
-5103	564427	1	1	1	5	Vlasta	Rozkovcová	F			75	důchodkyně	Světlá pod Ještědem	99	1	0
-5103	564427	1	2	903	1	Milan	Pavlů	M			67	důchodce	Hodky	99	80	0
-5103	564427	1	2	903	2	Jaromír	Bulíř	M			56	živnostník	Rozstání	99	80	0
-5103	564427	1	3	801	1	Jan	Pavlů	M			22	student VŠE v Praze	Světlá pod Ještědem	99	80	0
-5103	564427	1	4	902	1	Vít	Prokop	M	Ing.		38	technolog	Dolení Paseky	99	80	0
-5103	564427	1	4	902	2	Petr	Bulíř	M			56	servisní technik	Světlá pod Ještědem	99	80	0
-5103	564427	1	4	902	3	Jiří	Havelka	M			53	veterinární technik	Hodky	99	80	0
-5103	564427	1	4	902	4	Tomáš	Bulíř	M			41	živnostník	Hodky	99	80	0
-5103	564427	1	5	901	1	Tomáš	Sluka	M	Ing.		48	starosta	Světlá pod Ještědem	99	80	0
-5103	564427	1	5	901	2	Iva	Kutrová	F	Mgr.		35	učitelka	Rozstání	99	80	0
-5103	564427	1	5	901	3	Jaroslav	Felkner	M			53	stavební zámečník	Rozstání	99	80	0
-5103	564427	1	5	901	4	Petr	Kolomazník	M	Ing.		41	úředník	Rozstání	99	80	0
-5103	564427	1	5	901	5	Hana	Kupcová	F			55	asistent hygienické služby	Rozstání	99	80	0
-5103	564427	1	5	901	6	Alena	Vanerová	F			50	vedoucí stravování	Rozstání	99	80	0
-5103	564427	1	5	901	7	Roman	Škoda	M			35	elektrotechnik	Jiříčkov	99	80	0
-5103	564427	1	5	901	8	Milan	Kořínek	M			34	projektant	Rozstání	99	80	0
-5103	564427	1	5	901	9	Tomáš	Polcar	M			37	obchodní cestující	Světlá pod Ještědem	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5103	564427	1	1	1	1	Libuše	Úradníková			56	prodavačka	Hodky	99	1	0	F
+5103	564427	1	2	903	1	Milan	Pavlů			67	důchodce	Hodky	99	80	0	M
+5103	564427	1	3	801	1	Jan	Pavlů			22	student VŠE v Praze	Světlá pod Ještědem	99	80	0	M
+5103	564427	1	4	902	1	Vít	Prokop	Ing.		38	technolog	Dolení Paseky	99	80	0	M
+5103	564427	1	5	901	1	Tomáš	Sluka	Ing.		48	starosta	Světlá pod Ještědem	99	80	0	M
+5103	564427	1	1	1	2	Vlastimil	Bulíř			58	předseda agrodružstva	Dolení Paseky	99	1	0	M
+5103	564427	1	2	903	2	Jaromír	Bulíř			56	živnostník	Rozstání	99	80	0	M
+5103	564427	1	4	902	2	Petr	Bulíř			56	servisní technik	Světlá pod Ještědem	99	80	0	M
+5103	564427	1	5	901	2	Iva	Kutrová	Mgr.		35	učitelka	Rozstání	99	80	0	F
+5103	564427	1	1	1	3	Jana	Škodová			72	zdravotní sestra	Světlá pod Ještědem	99	1	0	F
+5103	564427	1	4	902	3	Jiří	Havelka			53	veterinární technik	Hodky	99	80	0	M
+5103	564427	1	5	901	3	Jaroslav	Felkner			53	stavební zámečník	Rozstání	99	80	0	M
+5103	564427	1	1	1	4	Božena	Antošová			74	důchodkyně	Jiříčkov	99	1	0	F
+5103	564427	1	4	902	4	Tomáš	Bulíř			41	živnostník	Hodky	99	80	0	M
+5103	564427	1	5	901	4	Petr	Kolomazník	Ing.		41	úředník	Rozstání	99	80	0	M
+5103	564427	1	1	1	5	Vlasta	Rozkovcová			75	důchodkyně	Světlá pod Ještědem	99	1	0	F
+5103	564427	1	5	901	5	Hana	Kupcová			55	asistent hygienické služby	Rozstání	99	80	0	F
+5103	564427	1	5	901	6	Alena	Vanerová			50	vedoucí stravování	Rozstání	99	80	0	F
+5103	564427	1	5	901	7	Roman	Škoda			35	elektrotechnik	Jiříčkov	99	80	0	M
+5103	564427	1	5	901	8	Milan	Kořínek			34	projektant	Rozstání	99	80	0	M
+5103	564427	1	5	901	9	Tomáš	Polcar			37	obchodní cestující	Světlá pod Ještědem	99	80	0	M

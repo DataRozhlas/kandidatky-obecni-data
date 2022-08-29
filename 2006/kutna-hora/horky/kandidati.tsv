@@ -1,9 +1,9 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2105	531359	1	1	805	1	Jiřina	Štemberová	F			58	důchodkyně	Horky	99	80	0
-2105	531359	1	2	804	1	Luboš	Kruml	M			40	mechanik ČD DKV Praha	Horky	99	80	0
-2105	531359	1	3	7	1	Jan	Veselka	M	Ing.		65	důchodce	Horky	99	7	0
-2105	531359	1	3	7	2	Libuše	Půhonná	F			52	rehabilitační pracovnice	Horky	99	7	0
-2105	531359	1	3	7	3	Kateřina	Veselá	F			28	státní úředník	Horky	99	7	0
-2105	531359	1	4	803	1	Miloslav	Miláček	M			53	člen ZOD Potěhy	Horky	99	80	0
-2105	531359	1	5	802	1	Miloslava	Koudelková	F			61	důchodce	Horky	99	80	0
-2105	531359	1	6	801	1	Jaroslav	Uhlíř	M	Ing.	CSc.	52	technický konzultant	Horky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2105	531359	1	1	805	1	Jiřina	Štemberová			58	důchodkyně	Horky	99	80	0	F
+2105	531359	1	2	804	1	Luboš	Kruml			40	mechanik ČD DKV Praha	Horky	99	80	0	M
+2105	531359	1	3	7	1	Jan	Veselka	Ing.		65	důchodce	Horky	99	7	0	M
+2105	531359	1	4	803	1	Miloslav	Miláček			53	člen ZOD Potěhy	Horky	99	80	0	M
+2105	531359	1	5	802	1	Miloslava	Koudelková			61	důchodce	Horky	99	80	0	F
+2105	531359	1	6	801	1	Jaroslav	Uhlíř	Ing.	CSc.	52	technický konzultant	Horky	99	80	0	M
+2105	531359	1	3	7	2	Libuše	Půhonná			52	rehabilitační pracovnice	Horky	99	7	0	F
+2105	531359	1	3	7	3	Kateřina	Veselá			28	státní úředník	Horky	99	7	0	F

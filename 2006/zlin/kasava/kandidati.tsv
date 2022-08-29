@@ -1,38 +1,38 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7204	585343	1	1	901	1	Zdeněk	Holík	M			54	místostarosta	Kašava	99	80	0
-7204	585343	1	1	901	2	Ivo	Rochla	M	Ing.		41	stavební inženýr	Kašava	99	80	0
-7204	585343	1	1	901	3	Petr	Zezulka	M			53	technik	Kašava	99	80	0
-7204	585343	1	1	901	4	Jitka	Holíková	F			44	asistentka ředitele	Kašava	99	80	0
-7204	585343	1	1	901	5	Bohumil	Krajča	M			41	zámečník	Kašava	99	80	0
-7204	585343	1	1	901	6	Jiřina	Černochová	F			49	sociální pracovnice	Kašava	99	80	0
-7204	585343	1	1	901	7	Stanislav	Farda	M			55	elektromontér	Kašava	99	80	0
-7204	585343	1	1	901	8	Zdeněk	Říha	M			62	důchodce	Kašava	99	80	0
-7204	585343	1	1	901	9	Milan	Březík	M			32	řezník	Kašava	99	80	0
-7204	585343	1	1	901	10	Alois	Křižka	M			57	dělník	Kašava	99	80	0
-7204	585343	1	1	901	11	Růžena	Staroštíková	F			47	fotograf	Kašava	99	80	0
-7204	585343	1	1	901	12	Daniela	Zezulková	F	Mgr.		52	učitelka	Kašava	99	80	0
-7204	585343	1	1	901	13	Zbyněk	Sousedík	M			35	klempíř	Kašava	99	80	0
-7204	585343	1	2	1	1	Josef	Šarman	M			50	soukromý podnikatel	Kašava	1	1	0
-7204	585343	1	2	1	2	Miroslava	Kruťová	F			53	dělnice	Kašava	99	1	0
-7204	585343	1	2	1	3	Anastázie	Jurášková	F			60	důchodkyně	Kašava	1	1	0
-7204	585343	1	2	1	4	Bohuslav	Minařík	M			54	technik	Kašava	99	1	0
-7204	585343	1	2	1	5	Jiří	Zbranek	M			50	plánovač	Kašava	99	1	0
-7204	585343	1	2	1	6	Marie	Vyvlečková	F			53	mzdová účetní	Kašava	99	1	0
-7204	585343	1	2	1	7	Ladislav	Zbranek	M			37	autokarosář	Kašava	99	1	0
-7204	585343	1	2	1	8	Miroslav	Masař	M			43	skladník	Kašava	99	1	0
-7204	585343	1	2	1	9	Pavel	Zbranek	M	Ing.		24	student	Kašava	99	1	0
-7204	585343	1	2	1	10	Jarmila	Knedlová	F			52	kuchařka	Kašava	99	1	0
-7204	585343	1	2	1	11	Zdeňka	Topičová	F			50	dělnice	Kašava	99	1	0
-7204	585343	1	3	471	1	Milan	Zaoral	M			40	podnikatel	Kašava	99	80	0
-7204	585343	1	3	471	2	Alena	Patáková	F	Mgr.		54	ředitelka školy	Kašava	99	80	0
-7204	585343	1	3	471	3	Vlastimil	Macík	M			39	školník	Kašava	99	80	0
-7204	585343	1	3	471	4	Pavel	Jakuba	M			38	podnikatel	Kašava	99	80	0
-7204	585343	1	3	471	5	Jaroslav	Langer	M	Ing.		48	podnikatel	Kašava	99	80	0
-7204	585343	1	3	471	6	Rostislav	Šarman	M			51	technik	Kašava	99	80	0
-7204	585343	1	3	471	7	Miroslava	Sluštíková	F	Mgr.		46	učitelka	Kašava	99	80	0
-7204	585343	1	3	471	8	Lenka	Latifová	F			35	prodavačka	Kašava	99	80	0
-7204	585343	1	3	471	9	Jana	Langerová	F	PhDr.		43	učitelka	Kašava	99	80	0
-7204	585343	1	3	471	10	Karel	Kratochvíl	M			65	důchodce	Kašava	99	80	0
-7204	585343	1	3	471	11	Jana	Kristová	F			46	dělnice	Kašava	99	80	0
-7204	585343	1	3	471	12	Roman	Pavelka	M			34	podnikatel	Kašava	99	80	0
-7204	585343	1	3	471	13	Marek	Langer	M			20	automechanik	Kašava	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7204	585343	1	1	901	1	Zdeněk	Holík			54	místostarosta	Kašava	99	80	0	M
+7204	585343	1	2	1	1	Josef	Šarman			50	soukromý podnikatel	Kašava	1	1	0	M
+7204	585343	1	3	471	1	Milan	Zaoral			40	podnikatel	Kašava	99	80	0	M
+7204	585343	1	1	901	2	Ivo	Rochla	Ing.		41	stavební inženýr	Kašava	99	80	0	M
+7204	585343	1	2	1	2	Miroslava	Kruťová			53	dělnice	Kašava	99	1	0	F
+7204	585343	1	3	471	2	Alena	Patáková	Mgr.		54	ředitelka školy	Kašava	99	80	0	F
+7204	585343	1	1	901	3	Petr	Zezulka			53	technik	Kašava	99	80	0	M
+7204	585343	1	2	1	3	Anastázie	Jurášková			60	důchodkyně	Kašava	1	1	0	F
+7204	585343	1	3	471	3	Vlastimil	Macík			39	školník	Kašava	99	80	0	M
+7204	585343	1	1	901	4	Jitka	Holíková			44	asistentka ředitele	Kašava	99	80	0	F
+7204	585343	1	2	1	4	Bohuslav	Minařík			54	technik	Kašava	99	1	0	M
+7204	585343	1	3	471	4	Pavel	Jakuba			38	podnikatel	Kašava	99	80	0	M
+7204	585343	1	1	901	5	Bohumil	Krajča			41	zámečník	Kašava	99	80	0	M
+7204	585343	1	2	1	5	Jiří	Zbranek			50	plánovač	Kašava	99	1	0	M
+7204	585343	1	3	471	5	Jaroslav	Langer	Ing.		48	podnikatel	Kašava	99	80	0	M
+7204	585343	1	1	901	6	Jiřina	Černochová			49	sociální pracovnice	Kašava	99	80	0	F
+7204	585343	1	2	1	6	Marie	Vyvlečková			53	mzdová účetní	Kašava	99	1	0	F
+7204	585343	1	3	471	6	Rostislav	Šarman			51	technik	Kašava	99	80	0	M
+7204	585343	1	1	901	7	Stanislav	Farda			55	elektromontér	Kašava	99	80	0	M
+7204	585343	1	2	1	7	Ladislav	Zbranek			37	autokarosář	Kašava	99	1	0	M
+7204	585343	1	3	471	7	Miroslava	Sluštíková	Mgr.		46	učitelka	Kašava	99	80	0	F
+7204	585343	1	1	901	8	Zdeněk	Říha			62	důchodce	Kašava	99	80	0	M
+7204	585343	1	2	1	8	Miroslav	Masař			43	skladník	Kašava	99	1	0	M
+7204	585343	1	3	471	8	Lenka	Latifová			35	prodavačka	Kašava	99	80	0	F
+7204	585343	1	1	901	9	Milan	Březík			32	řezník	Kašava	99	80	0	M
+7204	585343	1	2	1	9	Pavel	Zbranek	Ing.		24	student	Kašava	99	1	0	M
+7204	585343	1	3	471	9	Jana	Langerová	PhDr.		43	učitelka	Kašava	99	80	0	F
+7204	585343	1	1	901	10	Alois	Křižka			57	dělník	Kašava	99	80	0	M
+7204	585343	1	2	1	10	Jarmila	Knedlová			52	kuchařka	Kašava	99	1	0	F
+7204	585343	1	3	471	10	Karel	Kratochvíl			65	důchodce	Kašava	99	80	0	M
+7204	585343	1	1	901	11	Růžena	Staroštíková			47	fotograf	Kašava	99	80	0	F
+7204	585343	1	2	1	11	Zdeňka	Topičová			50	dělnice	Kašava	99	1	0	F
+7204	585343	1	3	471	11	Jana	Kristová			46	dělnice	Kašava	99	80	0	F
+7204	585343	1	1	901	12	Daniela	Zezulková	Mgr.		52	učitelka	Kašava	99	80	0	F
+7204	585343	1	3	471	12	Roman	Pavelka			34	podnikatel	Kašava	99	80	0	M
+7204	585343	1	1	901	13	Zbyněk	Sousedík			35	klempíř	Kašava	99	80	0	M
+7204	585343	1	3	471	13	Marek	Langer			20	automechanik	Kašava	99	80	0	M

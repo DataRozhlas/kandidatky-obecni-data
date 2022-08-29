@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	553247	1	1	166	1	Jana	Gerešová	F			51	starostka	Kopřivná	99	166	0
-7105	553247	1	1	166	2	Pavel	Turek	M			48	strojní zámečník	Kopřivná	99	166	0
-7105	553247	1	1	166	3	Vladimíra	Rolínková	F			57	podnikatelka	Kopřivná	99	166	0
-7105	553247	1	1	166	4	Lenka	Hlaváčková	F			40	prodavačka	Kopřivná	99	166	0
-7105	553247	1	1	166	5	Táňa	Mikšíková	F			44	administrativní pracovník	Kopřivná	99	166	0
-7105	553247	1	1	166	6	Jaroslava	Cíchová	F			59	dámská krejčová	Kopřivná	99	166	0
-7105	553247	1	2	901	1	Martin	Vavrečka	M			19	student, podnikatel	Kopřivná	99	80	0
-7105	553247	1	2	901	2	Martina	Mičíková	F			23	administrativní pracovnice	Kopřivná	99	80	0
-7105	553247	1	2	901	3	Martin	Vavrečka	M	Bc.		41	celník	Kopřivná	99	80	0
-7105	553247	1	2	901	4	Josef	Stuchlík	M	Bc.		45	bezpečnostní referent	Lužná	99	80	0
-7105	553247	1	2	901	5	Markéta	Ošťádalová	F			39	nezaměstnaná	Kopřivná	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	553247	1	1	166	1	Jana	Gerešová			51	starostka	Kopřivná	99	166	0	F
+7105	553247	1	2	901	1	Martin	Vavrečka			19	student, podnikatel	Kopřivná	99	80	0	M
+7105	553247	1	1	166	2	Pavel	Turek			48	strojní zámečník	Kopřivná	99	166	0	M
+7105	553247	1	2	901	2	Martina	Mičíková			23	administrativní pracovnice	Kopřivná	99	80	0	F
+7105	553247	1	1	166	3	Vladimíra	Rolínková			57	podnikatelka	Kopřivná	99	166	0	F
+7105	553247	1	2	901	3	Martin	Vavrečka	Bc.		41	celník	Kopřivná	99	80	0	M
+7105	553247	1	1	166	4	Lenka	Hlaváčková			40	prodavačka	Kopřivná	99	166	0	F
+7105	553247	1	2	901	4	Josef	Stuchlík	Bc.		45	bezpečnostní referent	Lužná	99	80	0	M
+7105	553247	1	1	166	5	Táňa	Mikšíková			44	administrativní pracovník	Kopřivná	99	166	0	F
+7105	553247	1	2	901	5	Markéta	Ošťádalová			39	nezaměstnaná	Kopřivná	99	80	0	F
+7105	553247	1	1	166	6	Jaroslava	Cíchová			59	dámská krejčová	Kopřivná	99	166	0	F

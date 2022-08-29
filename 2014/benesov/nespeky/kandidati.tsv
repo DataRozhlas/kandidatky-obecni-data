@@ -1,30 +1,30 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	530263	1	1	802	1	Josef	Vinduška	M			71	starosta obce-důchodce	Nespeky	99	80	0
-2101	530263	1	2	901	1	Milan	Rosenvald	M			49	živnostník	Nespeky	99	80	0
-2101	530263	1	2	901	2	Ladislav	Siebert	M	Mgr.		50	státní zaměstnanec	Nespeky	99	80	0
-2101	530263	1	2	901	3	Aleš	Drnec	M	Bc.		37	státní zaměstnanec	Nespeky	99	80	0
-2101	530263	1	2	901	4	Michal	Tyrner	M	Mgr.		27	prodavač	Nespeky	99	80	0
-2101	530263	1	2	901	5	Jaroslav	Basl ml.	M			37	živnostník	Nespeky	99	80	0
-2101	530263	1	2	901	6	Eva	Štulíková	F			40	účetní	Nespeky	99	80	0
-2101	530263	1	2	901	7	Zdeněk	Kubela	M			43	číšník	Městečko	99	80	0
-2101	530263	1	2	901	8	Petr	Kačírek	M			50	obráběč kovů	Nespeky	99	80	0
-2101	530263	1	2	901	9	Pavel	Rublič	M			40	živnostník	Nespeky	99	80	0
-2101	530263	1	3	902	1	Leona	Uhrová	F	Mgr.		46	ekonom	Městečko	99	80	0
-2101	530263	1	3	902	2	Petr	Kubeška	M			49	zaměstnanec Hasičského záchr. sboru ČR	Nespeky	99	80	0
-2101	530263	1	3	902	3	Anna	Řezníčková	F			50	manažerka prodeje	Městečko	99	80	0
-2101	530263	1	3	902	4	Eva	Jelínková	F	JUDr.		52	právnička	Nespeky	99	80	0
-2101	530263	1	3	902	5	Martin	Vošický	M			41	vedoucí spedice	Městečko	99	80	0
-2101	530263	1	3	902	6	Martin	Janoud	M			26	student a osobní asistent tělesně postiž.osoby	Nespeky	99	80	0
-2101	530263	1	3	902	7	Leona	Tylingrová	F	MUDr.		54	lékařka	Nespeky	99	80	0
-2101	530263	1	3	902	8	Milan	Seidl	M			56	tesař	Nespeky	99	80	0
-2101	530263	1	3	902	9	Nataša	Červenková	F			60	vychovatelka	Městečko	99	80	0
-2101	530263	1	4	801	1	Jan	Souček	M			38	místostarosta	Nespeky	99	80	0
-2101	530263	1	5	903	1	Michal	Kuchař	M	MgA.		51	produkční	Nespeky	99	80	0
-2101	530263	1	5	903	2	Michaela	Voldřichová	F	Mgr.		43	klinická logopedka	Nespeky	99	80	0
-2101	530263	1	5	903	3	Michal	Horn	M	Ing.		25	programátor	Nespeky	99	80	0
-2101	530263	1	5	903	4	Lenka	Hamajdová	F	Mgr.		46	učitelka hudby a jazyků	Nespeky	99	80	0
-2101	530263	1	5	903	5	Zdeněk	Hubert	M			37	OSVČ	Městečko	99	80	0
-2101	530263	1	5	903	6	Pavel	Krištof	M	Ing.		53	programátor	Nespeky	99	80	0
-2101	530263	1	5	903	7	Pavel	Schön	M			68	důchodce	Nespeky	99	80	0
-2101	530263	1	5	903	8	Tomáš	Tylingr	M			26	obchodní zástupce	Nespeky	99	80	0
-2101	530263	1	5	903	9	Josef	Greš	M			40	OSVČ	Městečko	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	530263	1	1	802	1	Josef	Vinduška			71	starosta obce-důchodce	Nespeky	99	80	0	M
+2101	530263	1	2	901	1	Milan	Rosenvald			49	živnostník	Nespeky	99	80	0	M
+2101	530263	1	3	902	1	Leona	Uhrová	Mgr.		46	ekonom	Městečko	99	80	0	F
+2101	530263	1	4	801	1	Jan	Souček			38	místostarosta	Nespeky	99	80	0	M
+2101	530263	1	5	903	1	Michal	Kuchař	MgA.		51	produkční	Nespeky	99	80	0	M
+2101	530263	1	2	901	2	Ladislav	Siebert	Mgr.		50	státní zaměstnanec	Nespeky	99	80	0	M
+2101	530263	1	3	902	2	Petr	Kubeška			49	zaměstnanec Hasičského záchr. sboru ČR	Nespeky	99	80	0	M
+2101	530263	1	5	903	2	Michaela	Voldřichová	Mgr.		43	klinická logopedka	Nespeky	99	80	0	F
+2101	530263	1	2	901	3	Aleš	Drnec	Bc.		37	státní zaměstnanec	Nespeky	99	80	0	M
+2101	530263	1	3	902	3	Anna	Řezníčková			50	manažerka prodeje	Městečko	99	80	0	F
+2101	530263	1	5	903	3	Michal	Horn	Ing.		25	programátor	Nespeky	99	80	0	M
+2101	530263	1	2	901	4	Michal	Tyrner	Mgr.		27	prodavač	Nespeky	99	80	0	M
+2101	530263	1	3	902	4	Eva	Jelínková	JUDr.		52	právnička	Nespeky	99	80	0	F
+2101	530263	1	5	903	4	Lenka	Hamajdová	Mgr.		46	učitelka hudby a jazyků	Nespeky	99	80	0	F
+2101	530263	1	2	901	5	Jaroslav	Basl ml.			37	živnostník	Nespeky	99	80	0	M
+2101	530263	1	3	902	5	Martin	Vošický			41	vedoucí spedice	Městečko	99	80	0	M
+2101	530263	1	5	903	5	Zdeněk	Hubert			37	OSVČ	Městečko	99	80	0	M
+2101	530263	1	2	901	6	Eva	Štulíková			40	účetní	Nespeky	99	80	0	F
+2101	530263	1	3	902	6	Martin	Janoud			26	student a osobní asistent tělesně postiž.osoby	Nespeky	99	80	0	M
+2101	530263	1	5	903	6	Pavel	Krištof	Ing.		53	programátor	Nespeky	99	80	0	M
+2101	530263	1	2	901	7	Zdeněk	Kubela			43	číšník	Městečko	99	80	0	M
+2101	530263	1	3	902	7	Leona	Tylingrová	MUDr.		54	lékařka	Nespeky	99	80	0	F
+2101	530263	1	5	903	7	Pavel	Schön			68	důchodce	Nespeky	99	80	0	M
+2101	530263	1	2	901	8	Petr	Kačírek			50	obráběč kovů	Nespeky	99	80	0	M
+2101	530263	1	3	902	8	Milan	Seidl			56	tesař	Nespeky	99	80	0	M
+2101	530263	1	5	903	8	Tomáš	Tylingr			26	obchodní zástupce	Nespeky	99	80	0	M
+2101	530263	1	2	901	9	Pavel	Rublič			40	živnostník	Nespeky	99	80	0	M
+2101	530263	1	3	902	9	Nataša	Červenková			60	vychovatelka	Městečko	99	80	0	F
+2101	530263	1	5	903	9	Josef	Greš			40	OSVČ	Městečko	99	80	0	M

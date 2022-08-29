@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	554405	1	1	902	1	Karel	Polák	M			56	údržbář	Úsilov	99	80	A
-3201	554405	1	1	902	2	Václav	Hambek	M			39	OSVČ	Úsilov	99	80	A
-3201	554405	1	1	902	3	Martin	Ráž	M			50	OSVČ	Úsilov	99	80	A
-3201	554405	1	1	902	4	Tereza	Rážová	F			24	učitelka v MŠ	Úsilov	99	80	A
-3201	554405	1	1	902	5	Václav	Mašek	M			34	operátor výroby	Pocinovice	99	80	A
-3201	554405	1	1	902	6	Erika	Šustková	F			33	zdravotní sestra	Nýrsko	99	80	A
-3201	554405	1	1	902	7	Luboš	Polák	M			45	OSVČ	Úsilov	99	80	A
-3201	554405	1	2	901	1	Miroslav	Sláma	M			72	důchodce	Úsilov	99	80	A
-3201	554405	1	2	901	2	Miloslav	Bušek	M			60	důchodce	Úsilov	99	80	A
-3201	554405	1	2	901	3	Karel	Kubovec	M			58	sanitář	Úsilov	99	80	A
-3201	554405	1	2	901	4	Zdeněk	Bláha	M			51	traktorista	Úsilov	99	80	A
-3201	554405	1	2	901	5	Jitka	Godžová	F			50	pokojská	Úsilov	99	80	A
-3201	554405	1	2	901	6	Radek	Hais	M			54	traktorista	Úsilov	99	80	A
-3201	554405	1	2	901	7	Přemysl	Valečka	M			62	státní zaměstnanec	Úsilov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	554405	1	1	902	1	Karel	Polák			56	údržbář	Úsilov	99	80	A	M
+3201	554405	1	2	901	1	Miroslav	Sláma			72	důchodce	Úsilov	99	80	A	M
+3201	554405	1	1	902	2	Václav	Hambek			39	OSVČ	Úsilov	99	80	A	M
+3201	554405	1	2	901	2	Miloslav	Bušek			60	důchodce	Úsilov	99	80	A	M
+3201	554405	1	1	902	3	Martin	Ráž			50	OSVČ	Úsilov	99	80	A	M
+3201	554405	1	2	901	3	Karel	Kubovec			58	sanitář	Úsilov	99	80	A	M
+3201	554405	1	1	902	4	Tereza	Rážová			24	učitelka v MŠ	Úsilov	99	80	A	F
+3201	554405	1	2	901	4	Zdeněk	Bláha			51	traktorista	Úsilov	99	80	A	M
+3201	554405	1	1	902	5	Václav	Mašek			34	operátor výroby	Pocinovice	99	80	A	M
+3201	554405	1	2	901	5	Jitka	Godžová			50	pokojská	Úsilov	99	80	A	F
+3201	554405	1	1	902	6	Erika	Šustková			33	zdravotní sestra	Nýrsko	99	80	A	F
+3201	554405	1	2	901	6	Radek	Hais			54	traktorista	Úsilov	99	80	A	M
+3201	554405	1	1	902	7	Luboš	Polák			45	OSVČ	Úsilov	99	80	A	M
+3201	554405	1	2	901	7	Přemysl	Valečka			62	státní zaměstnanec	Úsilov	99	80	A	M

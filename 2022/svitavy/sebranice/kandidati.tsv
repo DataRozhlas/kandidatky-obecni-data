@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	578738	1	1	901	1	Lenka	Karalová	F			63	starostka	Sebranice	99	80	A
-5303	578738	1	1	901	2	Jan	Klejch	M			33	řidič	Sebranice	99	80	A
-5303	578738	1	1	901	3	Filip	Tměj	M			32	podnikatel	Sebranice	99	80	A
-5303	578738	1	1	901	4	Jana	Svobodová	F			45	realitní makléřka	Sebranice	99	80	A
-5303	578738	1	1	901	5	Jiří	Patočka	M			62	stavební technik	Sebranice	99	80	A
-5303	578738	1	1	901	6	Lenka	Patočková	F	Mgr.		36	sociální pracovník	Sebranice	99	80	A
-5303	578738	1	1	901	7	Jana	Jílková	F	Bc.		52	vedoucí PS a OA	Sebranice	99	80	A
-5303	578738	1	1	901	8	Jana	Vomočilová	F	Mgr.		49	učitelka	Sebranice	99	80	A
-5303	578738	1	1	901	9	Petr	Pohorský	M			43	truhlář	Sebranice	99	80	A
-5303	578738	1	2	1	1	Pavel	Jílek	M			53	jednatel	Sebranice	1	1	A
-5303	578738	1	2	1	2	Radka	Kučerová	F			46	administrativní pracovnice	Sebranice	99	1	A
-5303	578738	1	2	1	3	František	Košňar	M	Ing. arch.		28	architekt	Sebranice	99	1	A
-5303	578738	1	2	1	4	František	Malý	M			41	OSVČ	Sebranice	99	1	A
-5303	578738	1	2	1	5	Petr	Pohorský	M			43	ředitel	Sebranice	99	1	A
-5303	578738	1	2	1	6	Pavel	Kučera	M			51	OSVČ	Sebranice	99	1	A
-5303	578738	1	2	1	7	Zdeněk	Jílek	M			52	ředitel	Sebranice	1	1	A
-5303	578738	1	2	1	8	Stanislava	Mastíková	F			44	administrativní pracovnice	Sebranice	99	1	A
-5303	578738	1	2	1	9	Karel	Indruch	M			52	vedoucí sociální služby	Sebranice	99	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	578738	1	1	901	1	Lenka	Karalová			63	starostka	Sebranice	99	80	A	F
+5303	578738	1	2	1	1	Pavel	Jílek			53	jednatel	Sebranice	1	1	A	M
+5303	578738	1	1	901	2	Jan	Klejch			33	řidič	Sebranice	99	80	A	M
+5303	578738	1	2	1	2	Radka	Kučerová			46	administrativní pracovnice	Sebranice	99	1	A	F
+5303	578738	1	1	901	3	Filip	Tměj			32	podnikatel	Sebranice	99	80	A	M
+5303	578738	1	2	1	3	František	Košňar	Ing. arch.		28	architekt	Sebranice	99	1	A	M
+5303	578738	1	1	901	4	Jana	Svobodová			45	realitní makléřka	Sebranice	99	80	A	F
+5303	578738	1	2	1	4	František	Malý			41	OSVČ	Sebranice	99	1	A	M
+5303	578738	1	1	901	5	Jiří	Patočka			62	stavební technik	Sebranice	99	80	A	M
+5303	578738	1	2	1	5	Petr	Pohorský			43	ředitel	Sebranice	99	1	A	M
+5303	578738	1	1	901	6	Lenka	Patočková	Mgr.		36	sociální pracovník	Sebranice	99	80	A	F
+5303	578738	1	2	1	6	Pavel	Kučera			51	OSVČ	Sebranice	99	1	A	M
+5303	578738	1	1	901	7	Jana	Jílková	Bc.		52	vedoucí PS a OA	Sebranice	99	80	A	F
+5303	578738	1	2	1	7	Zdeněk	Jílek			52	ředitel	Sebranice	1	1	A	M
+5303	578738	1	1	901	8	Jana	Vomočilová	Mgr.		49	učitelka	Sebranice	99	80	A	F
+5303	578738	1	2	1	8	Stanislava	Mastíková			44	administrativní pracovnice	Sebranice	99	1	A	F
+5303	578738	1	1	901	9	Petr	Pohorský			43	truhlář	Sebranice	99	80	A	M
+5303	578738	1	2	1	9	Karel	Indruch			52	vedoucí sociální služby	Sebranice	99	1	A	M

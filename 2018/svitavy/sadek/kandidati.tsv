@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	578720	1	1	902	1	Jiří	Honzálek	M			37	podnikatel	Sádek	99	80	A
-5303	578720	1	1	902	2	Marek	Mešťan	M			27	ekonom	Sádek	99	80	A
-5303	578720	1	1	902	3	Eliška	Mešťanová	F			52	úřednice	Sádek	99	80	A
-5303	578720	1	1	902	4	Tomáš	Jílek	M			30	OSVČ	Sádek	99	80	A
-5303	578720	1	1	902	5	Petr	Haupt	M			33	automechanik	Sádek	99	80	A
-5303	578720	1	1	902	6	Šárka	Hauptová	F			29	rodičovská dovolená	Sádek	99	80	A
-5303	578720	1	1	902	7	Pavlína	Jílková	F			29	mateřská dovolená	Sádek	99	80	A
-5303	578720	1	1	902	8	Iva	Letá	F			51	poštovní úřednice	Sádek	99	80	A
-5303	578720	1	1	902	9	Ludmila	Sládková	F			62	starostka obce	Sádek	99	80	A
-5303	578720	1	2	901	1	Luboš	Dvořák	M			57	technik	Sádek	99	80	A
-5303	578720	1	2	901	2	Stanislav	Červený	M	Ing.		58	ředitel	Sádek	99	80	A
-5303	578720	1	2	901	3	Tomáš	Fliedr	M	Mgr.		41	učitel	Sádek	99	80	A
-5303	578720	1	2	901	4	Karel	Neudert	M	Ing.		61	IT pracovník	Sádek	99	80	A
-5303	578720	1	2	901	5	Alena	Bednářová	F	Mgr.		35	speciální pedagog	Sádek	99	80	A
-5303	578720	1	2	901	6	Josef	Boštík	M			45	truhlář	Sádek	99	80	A
-5303	578720	1	2	901	7	Bohumil	Jukl	M			68	důchodce-podnikatel	Sádek	99	80	A
-5303	578720	1	2	901	8	Olga	Kotvová	F	Mgr.		42	učitelka	Sádek	99	80	A
-5303	578720	1	2	901	9	Radek	Bednář	M			33	OSVČ	Sádek	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	578720	1	1	902	1	Jiří	Honzálek			37	podnikatel	Sádek	99	80	A	M
+5303	578720	1	2	901	1	Luboš	Dvořák			57	technik	Sádek	99	80	A	M
+5303	578720	1	1	902	2	Marek	Mešťan			27	ekonom	Sádek	99	80	A	M
+5303	578720	1	2	901	2	Stanislav	Červený	Ing.		58	ředitel	Sádek	99	80	A	M
+5303	578720	1	1	902	3	Eliška	Mešťanová			52	úřednice	Sádek	99	80	A	F
+5303	578720	1	2	901	3	Tomáš	Fliedr	Mgr.		41	učitel	Sádek	99	80	A	M
+5303	578720	1	1	902	4	Tomáš	Jílek			30	OSVČ	Sádek	99	80	A	M
+5303	578720	1	2	901	4	Karel	Neudert	Ing.		61	IT pracovník	Sádek	99	80	A	M
+5303	578720	1	1	902	5	Petr	Haupt			33	automechanik	Sádek	99	80	A	M
+5303	578720	1	2	901	5	Alena	Bednářová	Mgr.		35	speciální pedagog	Sádek	99	80	A	F
+5303	578720	1	1	902	6	Šárka	Hauptová			29	rodičovská dovolená	Sádek	99	80	A	F
+5303	578720	1	2	901	6	Josef	Boštík			45	truhlář	Sádek	99	80	A	M
+5303	578720	1	1	902	7	Pavlína	Jílková			29	mateřská dovolená	Sádek	99	80	A	F
+5303	578720	1	2	901	7	Bohumil	Jukl			68	důchodce-podnikatel	Sádek	99	80	A	M
+5303	578720	1	1	902	8	Iva	Letá			51	poštovní úřednice	Sádek	99	80	A	F
+5303	578720	1	2	901	8	Olga	Kotvová	Mgr.		42	učitelka	Sádek	99	80	A	F
+5303	578720	1	1	902	9	Ludmila	Sládková			62	starostka obce	Sádek	99	80	A	F
+5303	578720	1	2	901	9	Radek	Bednář			33	OSVČ	Sádek	99	80	A	M

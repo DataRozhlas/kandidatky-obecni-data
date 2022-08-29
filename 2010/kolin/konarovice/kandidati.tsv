@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2104	533394	1	1	904	1	Dana	Svobodová	F			27	vedoucí expedice	Konárovice	99	80	0
-2104	533394	1	1	904	2	Kamil	Kukal	M			38	osoba sam. výděl. činná	Konárovice	99	80	0
-2104	533394	1	1	904	3	Ivan	Kutil	M			44	státní zaměstnanec	Konárovice	99	80	0
-2104	533394	1	1	904	4	Iva	Václavíčková	F		DiS.	25	referent pojišťovny ČSOB	Konárovice	99	80	0
-2104	533394	1	1	904	5	Lukáš	Kahoun	M			27	osoba sam. výděl. činná	Konárovice	99	80	0
-2104	533394	1	1	904	6	František	Žídek	M			36	skladník	Konárovice	99	80	0
-2104	533394	1	1	904	7	Andrea	Žídková	F			34	zdravotní sestra	Konárovice	99	80	0
-2104	533394	1	1	904	8	Tomáš	Černík	M			26	skladník	Konárovice	99	80	0
-2104	533394	1	1	904	9	Václava	Bucharová	F			39	osoba sam. výděl. činná	Konárovice	99	80	0
-2104	533394	1	2	901	1	Milan	Kratina	M	Ing.		52	ředitel obecně prospěšné spol.	Konárovice	99	80	0
-2104	533394	1	2	901	2	Aleš	Kratochvíl	M			39	starosta obce	Konárovice	99	80	0
-2104	533394	1	2	901	3	Milan	Severa	M	Ing.		57	vedoucí odd.přípravy staveb	Konárovice	99	80	0
-2104	533394	1	2	901	4	Josef	Vokoun	M			53	podnikatel	Konárovice	99	80	0
-2104	533394	1	2	901	5	Ludmila	Sedláková	F			61	důchodkyně	Konárovice	99	80	0
-2104	533394	1	2	901	6	Hana	Bartecká	F	Mgr.		56	učitelka	Konárovice	99	80	0
-2104	533394	1	2	901	7	Štěpán	Honzl	M			30	OSVČ	Konárovice	99	80	0
-2104	533394	1	2	901	8	Hana	Chocholová	F			54	prodavačka	Konárovice	99	80	0
-2104	533394	1	2	901	9	Antonín	Pešout	M			51	OSVČ	Konárovice	99	80	0
-2104	533394	1	3	903	1	Petr	Pokorný	M			30	voják z povolání	Konárovice	99	80	0
-2104	533394	1	3	903	2	Štěpánka	Jurčíková	F			37	bankovní úřednice	Konárovice	99	80	0
-2104	533394	1	3	903	3	Marcela	Lačná	F			45	chemik	Konárovice	99	80	0
-2104	533394	1	3	903	4	Jan	Šanda	M	Mgr.		29	právník	Konárovice	99	80	0
-2104	533394	1	3	903	5	Martina	Šorčíková	F			28	učitelka MŠ	Konárovice	99	80	0
-2104	533394	1	3	903	6	Jiří	Kutil	M			46	dělník	Konárovice	99	80	0
-2104	533394	1	3	903	7	Jaroslav	Kopecký	M			37	topenář	Konárovice	99	80	0
-2104	533394	1	3	903	8	Petr	Debelka	M			38	osoba sam. výd. činná	Konárovice	99	80	0
-2104	533394	1	3	903	9	Petra	Lukešová	F			32	vedoucí prodejny	Konárovice	99	80	0
-2104	533394	1	4	902	1	Josef	Černý	M			46	řidič	Konárovice	99	80	0
-2104	533394	1	4	902	2	Vladimír	Jelínek	M			65	důchodce	Konárovice	99	80	0
-2104	533394	1	4	902	3	Pavel	Sojka	M			43	pracovník MV ČR Policie ČR	Konárovice	99	80	0
-2104	533394	1	4	902	4	Zuzana	Říhová	F			58	dělník	Konárovice	99	80	0
-2104	533394	1	4	902	5	Miloslav	Debelka	M			67	důchodce	Konárovice	99	80	0
-2104	533394	1	4	902	6	Milan	Rambousek	M			35	mlynář	Konárovice	99	80	0
-2104	533394	1	4	902	7	Drahomíra	Vavřičková	F			43	technická podpora výroby	Konárovice	99	80	0
-2104	533394	1	4	902	8	Martin	Vavřina	M			34	OSVČ	Konárovice	99	80	0
-2104	533394	1	4	902	9	Klára	Sehnalová	F			43	administrativní pracovník	Konárovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2104	533394	1	1	904	1	Dana	Svobodová			27	vedoucí expedice	Konárovice	99	80	0	F
+2104	533394	1	2	901	1	Milan	Kratina	Ing.		52	ředitel obecně prospěšné spol.	Konárovice	99	80	0	M
+2104	533394	1	3	903	1	Petr	Pokorný			30	voják z povolání	Konárovice	99	80	0	M
+2104	533394	1	4	902	1	Josef	Černý			46	řidič	Konárovice	99	80	0	M
+2104	533394	1	1	904	2	Kamil	Kukal			38	osoba sam. výděl. činná	Konárovice	99	80	0	M
+2104	533394	1	2	901	2	Aleš	Kratochvíl			39	starosta obce	Konárovice	99	80	0	M
+2104	533394	1	3	903	2	Štěpánka	Jurčíková			37	bankovní úřednice	Konárovice	99	80	0	F
+2104	533394	1	4	902	2	Vladimír	Jelínek			65	důchodce	Konárovice	99	80	0	M
+2104	533394	1	1	904	3	Ivan	Kutil			44	státní zaměstnanec	Konárovice	99	80	0	M
+2104	533394	1	2	901	3	Milan	Severa	Ing.		57	vedoucí odd.přípravy staveb	Konárovice	99	80	0	M
+2104	533394	1	3	903	3	Marcela	Lačná			45	chemik	Konárovice	99	80	0	F
+2104	533394	1	4	902	3	Pavel	Sojka			43	pracovník MV ČR Policie ČR	Konárovice	99	80	0	M
+2104	533394	1	1	904	4	Iva	Václavíčková		DiS.	25	referent pojišťovny ČSOB	Konárovice	99	80	0	F
+2104	533394	1	2	901	4	Josef	Vokoun			53	podnikatel	Konárovice	99	80	0	M
+2104	533394	1	3	903	4	Jan	Šanda	Mgr.		29	právník	Konárovice	99	80	0	M
+2104	533394	1	4	902	4	Zuzana	Říhová			58	dělník	Konárovice	99	80	0	F
+2104	533394	1	1	904	5	Lukáš	Kahoun			27	osoba sam. výděl. činná	Konárovice	99	80	0	M
+2104	533394	1	2	901	5	Ludmila	Sedláková			61	důchodkyně	Konárovice	99	80	0	F
+2104	533394	1	3	903	5	Martina	Šorčíková			28	učitelka MŠ	Konárovice	99	80	0	F
+2104	533394	1	4	902	5	Miloslav	Debelka			67	důchodce	Konárovice	99	80	0	M
+2104	533394	1	1	904	6	František	Žídek			36	skladník	Konárovice	99	80	0	M
+2104	533394	1	2	901	6	Hana	Bartecká	Mgr.		56	učitelka	Konárovice	99	80	0	F
+2104	533394	1	3	903	6	Jiří	Kutil			46	dělník	Konárovice	99	80	0	M
+2104	533394	1	4	902	6	Milan	Rambousek			35	mlynář	Konárovice	99	80	0	M
+2104	533394	1	1	904	7	Andrea	Žídková			34	zdravotní sestra	Konárovice	99	80	0	F
+2104	533394	1	2	901	7	Štěpán	Honzl			30	OSVČ	Konárovice	99	80	0	M
+2104	533394	1	3	903	7	Jaroslav	Kopecký			37	topenář	Konárovice	99	80	0	M
+2104	533394	1	4	902	7	Drahomíra	Vavřičková			43	technická podpora výroby	Konárovice	99	80	0	F
+2104	533394	1	1	904	8	Tomáš	Černík			26	skladník	Konárovice	99	80	0	M
+2104	533394	1	2	901	8	Hana	Chocholová			54	prodavačka	Konárovice	99	80	0	F
+2104	533394	1	3	903	8	Petr	Debelka			38	osoba sam. výd. činná	Konárovice	99	80	0	M
+2104	533394	1	4	902	8	Martin	Vavřina			34	OSVČ	Konárovice	99	80	0	M
+2104	533394	1	1	904	9	Václava	Bucharová			39	osoba sam. výděl. činná	Konárovice	99	80	0	F
+2104	533394	1	2	901	9	Antonín	Pešout			51	OSVČ	Konárovice	99	80	0	M
+2104	533394	1	3	903	9	Petra	Lukešová			32	vedoucí prodejny	Konárovice	99	80	0	F
+2104	533394	1	4	902	9	Klára	Sehnalová			43	administrativní pracovník	Konárovice	99	80	0	F

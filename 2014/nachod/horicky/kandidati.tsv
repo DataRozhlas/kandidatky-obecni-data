@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5203	574074	1	1	1	1	Stanislava	Hofmanová	F	Ing.		50	učitelka	Nový Dvůr	99	1	0
-5203	574074	1	1	1	2	Jaroslav	Jirásek	M			54	soukromý podnikatel	Hořičky	99	1	0
-5203	574074	1	1	1	3	Josef	Vlček	M			56	soukromý zemědělec	Hořičky	1	1	0
-5203	574074	1	1	1	4	Jiří	Měřínský	M	Ing.		35	programátor správce systému	Hořičky	99	1	0
-5203	574074	1	1	1	5	Jiří	Matoulek	M	Ing.		28	výzkumný pracovník	Hořičky	99	1	0
-5203	574074	1	1	1	6	Josef	Tylš	M			54	soukromý podnikatel	Hořičky	1	1	0
-5203	574074	1	1	1	7	Vladimír	Kudera	M	Ing.		48	ředitel Broumovské stavební společnosti	Hořičky	99	1	0
-5203	574074	1	1	1	8	Jaromír	Kotěra	M			26	provozní zámečník	Hořičky	99	1	0
-5203	574074	1	1	1	9	Jiří	Matyska	M			50	elektrikář	Hořičky	99	1	0
-5203	574074	1	2	901	1	Eva	Náhlovská	F			65	důchodce	Mečov	99	80	0
-5203	574074	1	2	901	2	Milan	Neumann	M	PaedDr.		50	ředitel společnosti	Hořičky	99	80	0
-5203	574074	1	2	901	3	Jiří	Lorenc	M			47	projektant	Chlístov	99	80	0
-5203	574074	1	2	901	4	Marek	Hýbl	M			40	agronom	Hořičky	99	80	0
-5203	574074	1	2	901	5	Luděk	Rudiš	M			62	OSVČ	Hořičky	99	80	0
-5203	574074	1	2	901	6	Luděk	Vítek	M			51	soukromý podnikatel	Hořičky	99	80	0
-5203	574074	1	2	901	7	Josef	Kačer	M			78	důchodce	Hořičky	99	80	0
-5203	574074	1	2	901	8	Petr	Sýkora	M			42	strojař	Hořičky	99	80	0
-5203	574074	1	2	901	9	Štěpánka	Kovalová	F			43	vychovatelka	Chlístov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5203	574074	1	1	1	1	Stanislava	Hofmanová	Ing.		50	učitelka	Nový Dvůr	99	1	0	F
+5203	574074	1	2	901	1	Eva	Náhlovská			65	důchodce	Mečov	99	80	0	F
+5203	574074	1	1	1	2	Jaroslav	Jirásek			54	soukromý podnikatel	Hořičky	99	1	0	M
+5203	574074	1	2	901	2	Milan	Neumann	PaedDr.		50	ředitel společnosti	Hořičky	99	80	0	M
+5203	574074	1	1	1	3	Josef	Vlček			56	soukromý zemědělec	Hořičky	1	1	0	M
+5203	574074	1	2	901	3	Jiří	Lorenc			47	projektant	Chlístov	99	80	0	M
+5203	574074	1	1	1	4	Jiří	Měřínský	Ing.		35	programátor správce systému	Hořičky	99	1	0	M
+5203	574074	1	2	901	4	Marek	Hýbl			40	agronom	Hořičky	99	80	0	M
+5203	574074	1	1	1	5	Jiří	Matoulek	Ing.		28	výzkumný pracovník	Hořičky	99	1	0	M
+5203	574074	1	2	901	5	Luděk	Rudiš			62	OSVČ	Hořičky	99	80	0	M
+5203	574074	1	1	1	6	Josef	Tylš			54	soukromý podnikatel	Hořičky	1	1	0	M
+5203	574074	1	2	901	6	Luděk	Vítek			51	soukromý podnikatel	Hořičky	99	80	0	M
+5203	574074	1	1	1	7	Vladimír	Kudera	Ing.		48	ředitel Broumovské stavební společnosti	Hořičky	99	1	0	M
+5203	574074	1	2	901	7	Josef	Kačer			78	důchodce	Hořičky	99	80	0	M
+5203	574074	1	1	1	8	Jaromír	Kotěra			26	provozní zámečník	Hořičky	99	1	0	M
+5203	574074	1	2	901	8	Petr	Sýkora			42	strojař	Hořičky	99	80	0	M
+5203	574074	1	1	1	9	Jiří	Matyska			50	elektrikář	Hořičky	99	1	0	M
+5203	574074	1	2	901	9	Štěpánka	Kovalová			43	vychovatelka	Chlístov	99	80	0	F

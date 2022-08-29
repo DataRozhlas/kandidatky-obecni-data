@@ -1,30 +1,30 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	561703	1	1	802	1	Antonín	Hynek	M			58	invalidní důchodce	Člunek	99	80	0
-3103	561703	1	2	7	1	Zdeněk	Plachý	M			53	soukromý podnikatel	Lomy	99	7	0
-3103	561703	1	2	7	2	Iva	Svobodová	F			43	soukromá podnikatelka	Lomy	99	7	0
-3103	561703	1	2	7	3	Leoš	Janotka	M			30	soukromý podnikatel	Lomy	99	7	0
-3103	561703	1	2	7	4	Milan	Kovář	M			42	řidič	Lomy	99	7	0
-3103	561703	1	2	7	5	Pavol	Petrovský	M			47	technickohospodářský pracovník	Člunek	99	7	0
-3103	561703	1	2	7	6	Jindřich	Povolný	M			44	soukromý podnikatel	Lomy	99	7	0
-3103	561703	1	2	7	7	Andrea	Seitlová	F			30	soukromá podnikatelka	Člunek	99	7	0
-3103	561703	1	2	7	8	Rostislav	Beran	M			36	soukromý podnikatel	Lomy	99	7	0
-3103	561703	1	2	7	9	Milan	Křehlík	M			46	provozní zámečník	Lomy	99	7	0
-3103	561703	1	3	901	1	Jaroslav	Filsak	M			37	podnikatel	Člunek	99	80	0
-3103	561703	1	3	901	2	Milan	Růžička	M			37	přijímací technik	Člunek	99	80	0
-3103	561703	1	3	901	3	Milan	Sobek	M			51	dělník	Kunějov	99	80	0
-3103	561703	1	3	901	4	Jiří	Laudát	M			37	státní zaměstnanec	Člunek	99	80	0
-3103	561703	1	3	901	5	Petra	Hanzalová	F	Mgr.		26	učitelka	Člunek	99	80	0
-3103	561703	1	3	901	6	Libor	Hynek	M			30	přípravář výroby	Člunek	99	80	0
-3103	561703	1	3	901	7	Pavel	Strnad	M			31	podnikatel	Člunek	99	80	0
-3103	561703	1	3	901	8	Štěpánka	Parolková	F			37	mistrová výroby	Člunek	99	80	0
-3103	561703	1	3	901	9	Miroslav	Dvořák	M			39	dělník	Člunek	99	80	0
-3103	561703	1	4	801	1	Milena	Lubinová	F			40	terénní inspektor	Člunek	99	80	0
-3103	561703	1	5	902	1	Petr	Pflug	M	Bc.		34	konzultant	Kunějov	99	80	0
-3103	561703	1	5	902	2	Jiří	Beran	M			48	podnikatel	Člunek	99	80	0
-3103	561703	1	5	902	3	Josef	Petrák	M			56	starosta obce	Člunek	99	80	0
-3103	561703	1	5	902	4	Miroslav	Pospíchal	M			45	domovník	Člunek	99	80	0
-3103	561703	1	5	902	5	Jarmila	Hudečková	F			53	podnikatelka	Kunějov	99	80	0
-3103	561703	1	5	902	6	Petr	Strnad	M			33	podnikatel	Člunek	99	80	0
-3103	561703	1	5	902	7	Ladislav	Bureš	M			47	údržbář	Člunek	99	80	0
-3103	561703	1	5	902	8	František	Doležal	M			55	podnikatel	Lomy	99	80	0
-3103	561703	1	5	902	9	Vlastimil	Řezáč	M			75	důchodce	Člunek	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	561703	1	1	802	1	Antonín	Hynek			58	invalidní důchodce	Člunek	99	80	0	M
+3103	561703	1	2	7	1	Zdeněk	Plachý			53	soukromý podnikatel	Lomy	99	7	0	M
+3103	561703	1	3	901	1	Jaroslav	Filsak			37	podnikatel	Člunek	99	80	0	M
+3103	561703	1	4	801	1	Milena	Lubinová			40	terénní inspektor	Člunek	99	80	0	F
+3103	561703	1	5	902	1	Petr	Pflug	Bc.		34	konzultant	Kunějov	99	80	0	M
+3103	561703	1	2	7	2	Iva	Svobodová			43	soukromá podnikatelka	Lomy	99	7	0	F
+3103	561703	1	3	901	2	Milan	Růžička			37	přijímací technik	Člunek	99	80	0	M
+3103	561703	1	5	902	2	Jiří	Beran			48	podnikatel	Člunek	99	80	0	M
+3103	561703	1	2	7	3	Leoš	Janotka			30	soukromý podnikatel	Lomy	99	7	0	M
+3103	561703	1	3	901	3	Milan	Sobek			51	dělník	Kunějov	99	80	0	M
+3103	561703	1	5	902	3	Josef	Petrák			56	starosta obce	Člunek	99	80	0	M
+3103	561703	1	2	7	4	Milan	Kovář			42	řidič	Lomy	99	7	0	M
+3103	561703	1	3	901	4	Jiří	Laudát			37	státní zaměstnanec	Člunek	99	80	0	M
+3103	561703	1	5	902	4	Miroslav	Pospíchal			45	domovník	Člunek	99	80	0	M
+3103	561703	1	2	7	5	Pavol	Petrovský			47	technickohospodářský pracovník	Člunek	99	7	0	M
+3103	561703	1	3	901	5	Petra	Hanzalová	Mgr.		26	učitelka	Člunek	99	80	0	F
+3103	561703	1	5	902	5	Jarmila	Hudečková			53	podnikatelka	Kunějov	99	80	0	F
+3103	561703	1	2	7	6	Jindřich	Povolný			44	soukromý podnikatel	Lomy	99	7	0	M
+3103	561703	1	3	901	6	Libor	Hynek			30	přípravář výroby	Člunek	99	80	0	M
+3103	561703	1	5	902	6	Petr	Strnad			33	podnikatel	Člunek	99	80	0	M
+3103	561703	1	2	7	7	Andrea	Seitlová			30	soukromá podnikatelka	Člunek	99	7	0	F
+3103	561703	1	3	901	7	Pavel	Strnad			31	podnikatel	Člunek	99	80	0	M
+3103	561703	1	5	902	7	Ladislav	Bureš			47	údržbář	Člunek	99	80	0	M
+3103	561703	1	2	7	8	Rostislav	Beran			36	soukromý podnikatel	Lomy	99	7	0	M
+3103	561703	1	3	901	8	Štěpánka	Parolková			37	mistrová výroby	Člunek	99	80	0	F
+3103	561703	1	5	902	8	František	Doležal			55	podnikatel	Lomy	99	80	0	M
+3103	561703	1	2	7	9	Milan	Křehlík			46	provozní zámečník	Lomy	99	7	0	M
+3103	561703	1	3	901	9	Miroslav	Dvořák			39	dělník	Člunek	99	80	0	M
+3103	561703	1	5	902	9	Vlastimil	Řezáč			75	důchodce	Člunek	99	80	0	M

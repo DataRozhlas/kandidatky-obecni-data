@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6102	587273	1	1	803	1	Jindra	Vondráková	F			35	referent odbytu	Jezdovice	99	80	0
-6102	587273	1	2	901	1	Michal	Kučera	M			32	řidič SÚS Jihlava	Jezdovice	99	80	0
-6102	587273	1	2	901	2	Petra	Jiráková	F		DiS.	28	mateřská dovolená	Jezdovice	99	80	0
-6102	587273	1	2	901	3	Tomáš	Kučera	M			28	skladník	Jezdovice	99	80	0
-6102	587273	1	2	901	4	Martin	Forst	M			23	konstruktér	Jezdovice	99	80	0
-6102	587273	1	2	901	5	Lucie	Vondráčková	F			24	kadeřnice	Jezdovice	99	80	0
-6102	587273	1	2	901	6	Michal	Rojek	M			30	dělník	Jezdovice	99	80	0
-6102	587273	1	3	801	1	Vlastimil	Talpa	M			24	mistr stavební výroby	Jezdovice	99	80	0
-6102	587273	1	4	802	1	Luboš	Hartl	M			40	živnostník	Jezdovice	99	80	0
-6102	587273	1	5	903	1	Evžen	Kuchyňa	M			45	mistr lesní výroby	Jezdovice	99	80	0
-6102	587273	1	5	903	2	Petr	Holoubek	M			23	tesař	Jezdovice	99	80	0
-6102	587273	1	5	903	3	Josef	Mareš	M			48	OSVČ	Jezdovice	99	80	0
-6102	587273	1	5	903	4	Ivo	Mišák	M			52	architekt	Jezdovice	99	80	0
-6102	587273	1	5	903	5	Jaroslav	Barták	M			29	řezník	Jezdovice	99	80	0
-6102	587273	1	5	903	6	Petr	Fortelný	M			31	OSVČ	Jezdovice	99	80	0
-6102	587273	1	6	804	1	Miloslav	Vondráček	M			47	živnostník	Jezdovice	99	80	0
-6102	587273	1	7	902	1	Jana	Mišáková	F			48	provozní ředitelka	Jezdovice	99	80	0
-6102	587273	1	7	902	2	Dana	Kuchyňová	F			46	zdravotní sestra	Jezdovice	99	80	0
-6102	587273	1	7	902	3	Jana	Marešová	F			41	laborantka	Jezdovice	99	80	0
-6102	587273	1	7	902	4	Jana	Pelánová	F			46	skladník přepravy	Jezdovice	99	80	0
-6102	587273	1	7	902	5	Hana	Adamová	F			50	švadlena	Jezdovice	99	80	0
-6102	587273	1	7	902	6	Vlasta	Holoubková	F			48	OSVČ	Jezdovice	99	80	0
-6102	587273	1	7	902	7	Alena	Fortelná	F			27	mateřská dovolená	Jezdovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6102	587273	1	1	803	1	Jindra	Vondráková			35	referent odbytu	Jezdovice	99	80	0	F
+6102	587273	1	2	901	1	Michal	Kučera			32	řidič SÚS Jihlava	Jezdovice	99	80	0	M
+6102	587273	1	3	801	1	Vlastimil	Talpa			24	mistr stavební výroby	Jezdovice	99	80	0	M
+6102	587273	1	4	802	1	Luboš	Hartl			40	živnostník	Jezdovice	99	80	0	M
+6102	587273	1	5	903	1	Evžen	Kuchyňa			45	mistr lesní výroby	Jezdovice	99	80	0	M
+6102	587273	1	6	804	1	Miloslav	Vondráček			47	živnostník	Jezdovice	99	80	0	M
+6102	587273	1	7	902	1	Jana	Mišáková			48	provozní ředitelka	Jezdovice	99	80	0	F
+6102	587273	1	2	901	2	Petra	Jiráková		DiS.	28	mateřská dovolená	Jezdovice	99	80	0	F
+6102	587273	1	5	903	2	Petr	Holoubek			23	tesař	Jezdovice	99	80	0	M
+6102	587273	1	7	902	2	Dana	Kuchyňová			46	zdravotní sestra	Jezdovice	99	80	0	F
+6102	587273	1	2	901	3	Tomáš	Kučera			28	skladník	Jezdovice	99	80	0	M
+6102	587273	1	5	903	3	Josef	Mareš			48	OSVČ	Jezdovice	99	80	0	M
+6102	587273	1	7	902	3	Jana	Marešová			41	laborantka	Jezdovice	99	80	0	F
+6102	587273	1	2	901	4	Martin	Forst			23	konstruktér	Jezdovice	99	80	0	M
+6102	587273	1	5	903	4	Ivo	Mišák			52	architekt	Jezdovice	99	80	0	M
+6102	587273	1	7	902	4	Jana	Pelánová			46	skladník přepravy	Jezdovice	99	80	0	F
+6102	587273	1	2	901	5	Lucie	Vondráčková			24	kadeřnice	Jezdovice	99	80	0	F
+6102	587273	1	5	903	5	Jaroslav	Barták			29	řezník	Jezdovice	99	80	0	M
+6102	587273	1	7	902	5	Hana	Adamová			50	švadlena	Jezdovice	99	80	0	F
+6102	587273	1	2	901	6	Michal	Rojek			30	dělník	Jezdovice	99	80	0	M
+6102	587273	1	5	903	6	Petr	Fortelný			31	OSVČ	Jezdovice	99	80	0	M
+6102	587273	1	7	902	6	Vlasta	Holoubková			48	OSVČ	Jezdovice	99	80	0	F
+6102	587273	1	7	902	7	Alena	Fortelná			27	mateřská dovolená	Jezdovice	99	80	0	F

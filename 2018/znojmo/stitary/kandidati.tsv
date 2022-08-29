@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	594890	1	1	47	1	Milan	Makovička	M	Mgr.		48	státní zaměstnanec	Štítary	99	47	A
-6207	594890	1	1	47	2	Jan	Pokorný	M			55	dělník	Štítary	99	47	A
-6207	594890	1	1	47	3	František	Suchánek	M			60	technik	Štítary	99	47	A
-6207	594890	1	1	47	4	Pavel	Makovička	M			43	kuchař	Štítary	99	47	A
-6207	594890	1	1	47	5	Jiří	Růžička	M			52	OSVČ	Štítary	99	47	A
-6207	594890	1	1	47	6	Zdeněk	Bauer	M			64	důchodce	Štítary	99	47	A
-6207	594890	1	1	47	7	Petr	Růžička	M			44	pekař	Štítary	99	47	A
-6207	594890	1	1	47	8	René	Brunclík	M			44	dělník	Štítary	99	47	A
-6207	594890	1	1	47	9	Alena	Zámorská	F			54	kuchařka-číšnice	Štítary	99	47	A
-6207	594890	1	1	47	10	Jiří	Molík	M			25	kuchař	Štítary	99	47	A
-6207	594890	1	1	47	11	František	Chromý	M			46	OSVČ	Štítary	99	47	A
-6207	594890	1	2	901	1	Radek	Šimka	M			43	vedoucí výroby	Štítary	99	80	A
-6207	594890	1	2	901	2	Štěpán	Kortiš	M			55	THP pracovník	Štítary	99	80	A
-6207	594890	1	2	901	3	Šárka	Citterbergová	F			45	zdravotní sestra	Štítary	99	80	A
-6207	594890	1	2	901	4	Martin	Rozsypal	M			47	THP pracovník	Štítary	99	80	A
-6207	594890	1	2	901	5	Jiří	Bulín	M			47	strojník	Štítary	7	80	A
-6207	594890	1	2	901	6	Josef	Mahr	M			42	zedník	Štítary	99	80	A
-6207	594890	1	2	901	7	Marcela	Golombová	F			47	kuchařka	Štítary	99	80	A
-6207	594890	1	2	901	8	Dana	Bauerová	F			54	prodavačka	Štítary	99	80	A
-6207	594890	1	2	901	9	Petr	Šumpich	M			42	dělník	Štítary	99	80	A
-6207	594890	1	2	901	10	Jana	Kociánová	F			56	THP pracovník	Štítary	99	80	A
-6207	594890	1	2	901	11	Zdeněk	Bauer	M			40	dělník	Štítary	7	80	A
-6207	594890	1	3	902	1	Jan	Hevera	M	Ing.		46	stavbyvedoucí	Štítary	99	80	A
-6207	594890	1	3	902	2	Zdeněk	Trojan	M	Ing.		36	ředitel příspěvkové organizace	Štítary	99	80	A
-6207	594890	1	3	902	3	Pavla	Rozsypalová	F			41	mzdová účetní	Štítary	99	80	A
-6207	594890	1	3	902	4	Miloslav	Holub	M			35	revizní technik	Štítary	99	80	A
-6207	594890	1	3	902	5	František	Hevera	M			51	soukromý zemědělec	Štítary	99	80	A
-6207	594890	1	3	902	6	Josef	Hochman	M			42	zedník	Štítary	99	80	A
-6207	594890	1	3	902	7	Radek	Šimka	M			21	student	Štítary	99	80	A
-6207	594890	1	3	902	8	Vít	Fojtík	M			42	technik prodeje	Štítary	99	80	A
-6207	594890	1	3	902	9	Markéta	Špačková	F			42	prodavačka	Štítary	99	80	A
-6207	594890	1	3	902	10	Vlastimil	Kandus	M			44	manažer	Štítary	99	80	A
-6207	594890	1	3	902	11	Ladislav	Svoboda	M			46	strojník	Štítary	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	594890	1	1	47	1	Milan	Makovička	Mgr.		48	státní zaměstnanec	Štítary	99	47	A	M
+6207	594890	1	2	901	1	Radek	Šimka			43	vedoucí výroby	Štítary	99	80	A	M
+6207	594890	1	3	902	1	Jan	Hevera	Ing.		46	stavbyvedoucí	Štítary	99	80	A	M
+6207	594890	1	1	47	2	Jan	Pokorný			55	dělník	Štítary	99	47	A	M
+6207	594890	1	2	901	2	Štěpán	Kortiš			55	THP pracovník	Štítary	99	80	A	M
+6207	594890	1	3	902	2	Zdeněk	Trojan	Ing.		36	ředitel příspěvkové organizace	Štítary	99	80	A	M
+6207	594890	1	1	47	3	František	Suchánek			60	technik	Štítary	99	47	A	M
+6207	594890	1	2	901	3	Šárka	Citterbergová			45	zdravotní sestra	Štítary	99	80	A	F
+6207	594890	1	3	902	3	Pavla	Rozsypalová			41	mzdová účetní	Štítary	99	80	A	F
+6207	594890	1	1	47	4	Pavel	Makovička			43	kuchař	Štítary	99	47	A	M
+6207	594890	1	2	901	4	Martin	Rozsypal			47	THP pracovník	Štítary	99	80	A	M
+6207	594890	1	3	902	4	Miloslav	Holub			35	revizní technik	Štítary	99	80	A	M
+6207	594890	1	1	47	5	Jiří	Růžička			52	OSVČ	Štítary	99	47	A	M
+6207	594890	1	2	901	5	Jiří	Bulín			47	strojník	Štítary	7	80	A	M
+6207	594890	1	3	902	5	František	Hevera			51	soukromý zemědělec	Štítary	99	80	A	M
+6207	594890	1	1	47	6	Zdeněk	Bauer			64	důchodce	Štítary	99	47	A	M
+6207	594890	1	2	901	6	Josef	Mahr			42	zedník	Štítary	99	80	A	M
+6207	594890	1	3	902	6	Josef	Hochman			42	zedník	Štítary	99	80	A	M
+6207	594890	1	1	47	7	Petr	Růžička			44	pekař	Štítary	99	47	A	M
+6207	594890	1	2	901	7	Marcela	Golombová			47	kuchařka	Štítary	99	80	A	F
+6207	594890	1	3	902	7	Radek	Šimka			21	student	Štítary	99	80	A	M
+6207	594890	1	1	47	8	René	Brunclík			44	dělník	Štítary	99	47	A	M
+6207	594890	1	2	901	8	Dana	Bauerová			54	prodavačka	Štítary	99	80	A	F
+6207	594890	1	3	902	8	Vít	Fojtík			42	technik prodeje	Štítary	99	80	A	M
+6207	594890	1	1	47	9	Alena	Zámorská			54	kuchařka-číšnice	Štítary	99	47	A	F
+6207	594890	1	2	901	9	Petr	Šumpich			42	dělník	Štítary	99	80	A	M
+6207	594890	1	3	902	9	Markéta	Špačková			42	prodavačka	Štítary	99	80	A	F
+6207	594890	1	1	47	10	Jiří	Molík			25	kuchař	Štítary	99	47	A	M
+6207	594890	1	2	901	10	Jana	Kociánová			56	THP pracovník	Štítary	99	80	A	F
+6207	594890	1	3	902	10	Vlastimil	Kandus			44	manažer	Štítary	99	80	A	M
+6207	594890	1	1	47	11	František	Chromý			46	OSVČ	Štítary	99	47	A	M
+6207	594890	1	2	901	11	Zdeněk	Bauer			40	dělník	Štítary	7	80	A	M
+6207	594890	1	3	902	11	Ladislav	Svoboda			46	strojník	Štítary	99	80	A	M

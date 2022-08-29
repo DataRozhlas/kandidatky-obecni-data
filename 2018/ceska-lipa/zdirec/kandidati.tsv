@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5101	514195	1	1	902	1	Hana	Jelínková	F			41	OSVČ	Ždírec	99	80	A
-5101	514195	1	1	902	2	Tomáš	Moučka	M			54	řidič	Ždírec	99	80	A
-5101	514195	1	1	902	3	Antonín	Kadlec	M			51	městský strážník	Ždírec	99	80	A
-5101	514195	1	1	902	4	Antonín	Šesták	M			67	důchodce	Bořejov	99	80	A
-5101	514195	1	1	902	5	Tomáš	Moučka	M			35	strojník	Ždírec	99	80	A
-5101	514195	1	1	902	6	Karel	Šmíd	M			72	důchodce	Bořejov	99	80	A
-5101	514195	1	2	901	1	Jarmila	Hloušková	F			62	důchodce	Ždírec	99	80	A
-5101	514195	1	2	901	2	Lenka	Báchorová	F			39	uklízečka	Ždírec	99	80	A
-5101	514195	1	2	901	3	Jarmila	Kučerová	F			45	dělnice	Ždírec	99	80	A
-5101	514195	1	2	901	4	Milan	Rampouch	M			62	invalidní důchodce	Ždírec	99	80	A
-5101	514195	1	2	901	5	Jan	Čermák	M			44	obsluha katru	Ždírec	99	80	A
-5101	514195	1	2	901	6	Zbyněk	Zelenka	M			66	důchodce	Ždírec	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5101	514195	1	1	902	1	Hana	Jelínková			41	OSVČ	Ždírec	99	80	A	F
+5101	514195	1	2	901	1	Jarmila	Hloušková			62	důchodce	Ždírec	99	80	A	F
+5101	514195	1	1	902	2	Tomáš	Moučka			54	řidič	Ždírec	99	80	A	M
+5101	514195	1	2	901	2	Lenka	Báchorová			39	uklízečka	Ždírec	99	80	A	F
+5101	514195	1	1	902	3	Antonín	Kadlec			51	městský strážník	Ždírec	99	80	A	M
+5101	514195	1	2	901	3	Jarmila	Kučerová			45	dělnice	Ždírec	99	80	A	F
+5101	514195	1	1	902	4	Antonín	Šesták			67	důchodce	Bořejov	99	80	A	M
+5101	514195	1	2	901	4	Milan	Rampouch			62	invalidní důchodce	Ždírec	99	80	A	M
+5101	514195	1	1	902	5	Tomáš	Moučka			35	strojník	Ždírec	99	80	A	M
+5101	514195	1	2	901	5	Jan	Čermák			44	obsluha katru	Ždírec	99	80	A	M
+5101	514195	1	1	902	6	Karel	Šmíd			72	důchodce	Bořejov	99	80	A	M
+5101	514195	1	2	901	6	Zbyněk	Zelenka			66	důchodce	Ždírec	99	80	A	M

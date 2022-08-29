@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8102	511951	1	1	901	1	Renata	Pavlinová	F			47	starostka	Dolní Lomná	99	80	0
-8102	511951	1	1	901	2	Pavel	Boháč	M			60	revírník	Dolní Lomná	99	80	0
-8102	511951	1	1	901	3	Alois	Kawulok	M			59	podnikatel	Dolní Lomná	99	80	0
-8102	511951	1	1	901	4	Miroslav	Stefek	M			43	mistr údržby	Dolní Lomná	99	80	0
-8102	511951	1	1	901	5	Marek	Jachnicki	M	Ing.		43	elektromechanik	Dolní Lomná	99	80	0
-8102	511951	1	1	901	6	Pavel	Machnik	M			78	důchodce	Dolní Lomná	99	80	0
-8102	511951	1	1	901	7	Zdeněk	Peter	M	Ing.		60	správce toků	Dolní Lomná	99	80	0
-8102	511951	1	1	901	8	Jan	Gruszka	M	Mgr.		31	státní zaměstnanec	Dolní Lomná	99	80	0
-8102	511951	1	1	901	9	Anna	Heczková	F			67	důchodkyně	Dolní Lomná	99	80	0
-8102	511951	1	2	72	1	Ivan	Kluz	M			47	valcíř	Dolní Lomná	99	72	0
-8102	511951	1	2	72	2	Tomáš	Jopek	M	Ing.		40	výzkumník	Dolní Lomná	99	72	0
-8102	511951	1	2	72	3	Josef	Zubek	M	JUDr.		53	advokát	Dolní Lomná	99	72	0
-8102	511951	1	2	72	4	Lucyna	Sikora	F	Mgr.		44	učitelka	Dolní Lomná	99	72	0
-8102	511951	1	2	72	5	Bogdan	Pytlik	M	Bc.		42	majitel pensionu	Dolní Lomná	99	72	0
-8102	511951	1	2	72	6	Bogdan	Mruzek	M	Mgr.		40	vedoucí laboratoře	Dolní Lomná	99	72	0
-8102	511951	1	2	72	7	Stanislav	Filipek	M			68	důchodce	Dolní Lomná	99	72	0
-8102	511951	1	2	72	8	Alina	Jopková	F	MUDr.		39	lékař	Dolní Lomná	99	72	0
-8102	511951	1	2	72	9	Adam	Kolasa	M	Bc.		25	finanční poradce	Dolní Lomná	99	72	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8102	511951	1	1	901	1	Renata	Pavlinová			47	starostka	Dolní Lomná	99	80	0	F
+8102	511951	1	2	72	1	Ivan	Kluz			47	valcíř	Dolní Lomná	99	72	0	M
+8102	511951	1	1	901	2	Pavel	Boháč			60	revírník	Dolní Lomná	99	80	0	M
+8102	511951	1	2	72	2	Tomáš	Jopek	Ing.		40	výzkumník	Dolní Lomná	99	72	0	M
+8102	511951	1	1	901	3	Alois	Kawulok			59	podnikatel	Dolní Lomná	99	80	0	M
+8102	511951	1	2	72	3	Josef	Zubek	JUDr.		53	advokát	Dolní Lomná	99	72	0	M
+8102	511951	1	1	901	4	Miroslav	Stefek			43	mistr údržby	Dolní Lomná	99	80	0	M
+8102	511951	1	2	72	4	Lucyna	Sikora	Mgr.		44	učitelka	Dolní Lomná	99	72	0	F
+8102	511951	1	1	901	5	Marek	Jachnicki	Ing.		43	elektromechanik	Dolní Lomná	99	80	0	M
+8102	511951	1	2	72	5	Bogdan	Pytlik	Bc.		42	majitel pensionu	Dolní Lomná	99	72	0	M
+8102	511951	1	1	901	6	Pavel	Machnik			78	důchodce	Dolní Lomná	99	80	0	M
+8102	511951	1	2	72	6	Bogdan	Mruzek	Mgr.		40	vedoucí laboratoře	Dolní Lomná	99	72	0	M
+8102	511951	1	1	901	7	Zdeněk	Peter	Ing.		60	správce toků	Dolní Lomná	99	80	0	M
+8102	511951	1	2	72	7	Stanislav	Filipek			68	důchodce	Dolní Lomná	99	72	0	M
+8102	511951	1	1	901	8	Jan	Gruszka	Mgr.		31	státní zaměstnanec	Dolní Lomná	99	80	0	M
+8102	511951	1	2	72	8	Alina	Jopková	MUDr.		39	lékař	Dolní Lomná	99	72	0	F
+8102	511951	1	1	901	9	Anna	Heczková			67	důchodkyně	Dolní Lomná	99	80	0	F
+8102	511951	1	2	72	9	Adam	Kolasa	Bc.		25	finanční poradce	Dolní Lomná	99	72	0	M

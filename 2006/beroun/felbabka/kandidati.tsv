@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2102	531162	1	1	901	1	Jiří	Micka	M			68	podnikatel	Felbabka	99	80	0
-2102	531162	1	1	901	2	Karel	Čepelák	M			52	podnikatel	Felbabka	99	80	0
-2102	531162	1	1	901	3	Petr	Doubek	M			61	důchodce	Felbabka	99	80	0
-2102	531162	1	1	901	4	Libuše	Rogosová	F			67	důchodce	Felbabka	99	80	0
-2102	531162	1	1	901	5	Bohumil	Karásek	M			60	důchodce	Felbabka	99	80	0
-2102	531162	1	1	901	6	Josef	Anděl	M			46	důchodce	Felbabka	99	80	0
-2102	531162	1	1	901	7	Jan	Plecitý	M			49	dělník	Felbabka	99	80	0
-2102	531162	1	2	47	1	Pavel	Huml	M			66	důchodce	Felbabka	47	47	0
-2102	531162	1	2	47	2	Vlastimil	Štajner	M			57	skladník	Felbabka	99	47	0
-2102	531162	1	2	47	3	Jiří	Červenka	M			60	dělník	Felbabka	99	47	0
-2102	531162	1	2	47	4	Stanislav	Prepsl	M			56	řidič	Felbabka	99	47	0
-2102	531162	1	2	47	5	Pavel	Justych	M			24	dělník	Felbabka	99	47	0
-2102	531162	1	2	47	6	Antonín	Srp	M			59	inv.důchodce	Felbabka	99	47	0
-2102	531162	1	2	47	7	Vladimír	Mareš	M			54	dělník	Felbabka	99	47	0
-2102	531162	1	3	902	1	Libor	Štorkán	M			36	podnikatel	Felbabka	99	80	0
-2102	531162	1	3	902	2	Gabriela	Mottlová	F	Bc.		37	mateřská dovolená	Felbabka	99	80	0
-2102	531162	1	3	902	3	Alexandr	Ohrablo	M			55	invalidní důchodce	Felbabka	99	80	0
-2102	531162	1	3	902	4	Petra	Kadeřábková	F			31	kuchařka	Felbabka	99	80	0
-2102	531162	1	3	902	5	Dana	Feňáková	F			33	úřednice	Felbabka	99	80	0
-2102	531162	1	3	902	6	Stanislav	Prepsl	M			29	truhlář	Felbabka	99	80	0
-2102	531162	1	3	902	7	Zdeněk	Sábel	M			32	vrchní mistr	Felbabka	99	80	0
-2102	531162	1	4	904	1	Antonín	Čepelák	M			64	důchodce	Felbabka	99	80	0
-2102	531162	1	4	904	2	Ján	Priškin	M	Ing.		58	důchodce	Felbabka	99	80	0
-2102	531162	1	4	904	3	Antonín	Skuhrovec	M			60	technik	Felbabka	99	80	0
-2102	531162	1	4	904	4	Václav	Polák	M			35	dělník	Felbabka	99	80	0
-2102	531162	1	4	904	5	Karel	Čepelák	M	Ing.		30	SW vývojář	Felbabka	99	80	0
-2102	531162	1	4	904	6	Jan	Puchmaier	M			59	dělník	Felbabka	99	80	0
-2102	531162	1	4	904	7	Aleš	Polanecký	M			33	živnostník	Felbabka	99	80	0
-2102	531162	1	4	904	8	Anna	Hrdličková	F			60	technička	Felbabka	99	80	0
-2102	531162	1	5	903	1	Roman	Čech	M			36	servisní technik	Felbabka	99	80	0
-2102	531162	1	5	903	2	Dušan	Jonák	M			34	živnostník	Felbabka	99	80	0
-2102	531162	1	5	903	3	Václav	Justych	M			43	státní zaměstnanec	Felbabka	99	80	0
-2102	531162	1	5	903	4	Jan	Štorkán	M			34	elektrotechnik	Felbabka	99	80	0
-2102	531162	1	5	903	5	Josef	Jahelka	M			29	živnostník	Felbabka	99	80	0
-2102	531162	1	5	903	6	Zdeněk	Hampl	M			69	důchodce	Felbabka	99	80	0
-2102	531162	1	5	903	7	Ivana	Valentini	F	Mgr.		34	učitelka	Felbabka	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2102	531162	1	1	901	1	Jiří	Micka			68	podnikatel	Felbabka	99	80	0	M
+2102	531162	1	2	47	1	Pavel	Huml			66	důchodce	Felbabka	47	47	0	M
+2102	531162	1	3	902	1	Libor	Štorkán			36	podnikatel	Felbabka	99	80	0	M
+2102	531162	1	4	904	1	Antonín	Čepelák			64	důchodce	Felbabka	99	80	0	M
+2102	531162	1	5	903	1	Roman	Čech			36	servisní technik	Felbabka	99	80	0	M
+2102	531162	1	1	901	2	Karel	Čepelák			52	podnikatel	Felbabka	99	80	0	M
+2102	531162	1	2	47	2	Vlastimil	Štajner			57	skladník	Felbabka	99	47	0	M
+2102	531162	1	3	902	2	Gabriela	Mottlová	Bc.		37	mateřská dovolená	Felbabka	99	80	0	F
+2102	531162	1	4	904	2	Ján	Priškin	Ing.		58	důchodce	Felbabka	99	80	0	M
+2102	531162	1	5	903	2	Dušan	Jonák			34	živnostník	Felbabka	99	80	0	M
+2102	531162	1	1	901	3	Petr	Doubek			61	důchodce	Felbabka	99	80	0	M
+2102	531162	1	2	47	3	Jiří	Červenka			60	dělník	Felbabka	99	47	0	M
+2102	531162	1	3	902	3	Alexandr	Ohrablo			55	invalidní důchodce	Felbabka	99	80	0	M
+2102	531162	1	4	904	3	Antonín	Skuhrovec			60	technik	Felbabka	99	80	0	M
+2102	531162	1	5	903	3	Václav	Justych			43	státní zaměstnanec	Felbabka	99	80	0	M
+2102	531162	1	1	901	4	Libuše	Rogosová			67	důchodce	Felbabka	99	80	0	F
+2102	531162	1	2	47	4	Stanislav	Prepsl			56	řidič	Felbabka	99	47	0	M
+2102	531162	1	3	902	4	Petra	Kadeřábková			31	kuchařka	Felbabka	99	80	0	F
+2102	531162	1	4	904	4	Václav	Polák			35	dělník	Felbabka	99	80	0	M
+2102	531162	1	5	903	4	Jan	Štorkán			34	elektrotechnik	Felbabka	99	80	0	M
+2102	531162	1	1	901	5	Bohumil	Karásek			60	důchodce	Felbabka	99	80	0	M
+2102	531162	1	2	47	5	Pavel	Justych			24	dělník	Felbabka	99	47	0	M
+2102	531162	1	3	902	5	Dana	Feňáková			33	úřednice	Felbabka	99	80	0	F
+2102	531162	1	4	904	5	Karel	Čepelák	Ing.		30	SW vývojář	Felbabka	99	80	0	M
+2102	531162	1	5	903	5	Josef	Jahelka			29	živnostník	Felbabka	99	80	0	M
+2102	531162	1	1	901	6	Josef	Anděl			46	důchodce	Felbabka	99	80	0	M
+2102	531162	1	2	47	6	Antonín	Srp			59	inv.důchodce	Felbabka	99	47	0	M
+2102	531162	1	3	902	6	Stanislav	Prepsl			29	truhlář	Felbabka	99	80	0	M
+2102	531162	1	4	904	6	Jan	Puchmaier			59	dělník	Felbabka	99	80	0	M
+2102	531162	1	5	903	6	Zdeněk	Hampl			69	důchodce	Felbabka	99	80	0	M
+2102	531162	1	1	901	7	Jan	Plecitý			49	dělník	Felbabka	99	80	0	M
+2102	531162	1	2	47	7	Vladimír	Mareš			54	dělník	Felbabka	99	47	0	M
+2102	531162	1	3	902	7	Zdeněk	Sábel			32	vrchní mistr	Felbabka	99	80	0	M
+2102	531162	1	4	904	7	Aleš	Polanecký			33	živnostník	Felbabka	99	80	0	M
+2102	531162	1	5	903	7	Ivana	Valentini	Mgr.		34	učitelka	Felbabka	99	80	0	F
+2102	531162	1	4	904	8	Anna	Hrdličková			60	technička	Felbabka	99	80	0	F

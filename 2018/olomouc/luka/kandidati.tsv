@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	503622	1	1	1	1	Marie	Šišmová	F	Ing. Bc.	MBA, DiS.	46	ekonom	Ješov	1	1	A
-7102	503622	1	1	1	2	Iveta	Pluháčková	F		DiS.	25	učitelka ZUŠ	Luká	99	1	A
-7102	503622	1	1	1	3	Ilona	Moťková	F			32	vychovatelka ve školní družině	Luká	99	1	A
-7102	503622	1	1	1	4	Jan	Martínek	M	Mgr.		35	výzkumný pracovník	Ješov	99	1	A
-7102	503622	1	1	1	5	Miroslav	Ellner	M	Ing.		26	projektant	Střemeníčko	99	1	A
-7102	503622	1	1	1	6	Michal	Šmoldas	M	Ing.		24	programátor	Ješov	99	1	A
-7102	503622	1	1	1	7	Martina	Mužíková	F	Bc.		35	účetní	Ješov	99	1	A
-7102	503622	1	1	1	8	Josef	Kovář	M	Ing.		72	důchodce	Luká	99	1	A
-7102	503622	1	1	1	9	Ondřej	Vogl	M			61	řidič	Ješov	1	1	A
-7102	503622	1	2	903	1	Pavla	Múdra	F	Mgr.		50	učitelka ZŠ	Ješov	99	80	A
-7102	503622	1	2	903	2	Kristián	Vronka	M	Ing.		39	podnikatel	Luká	99	80	A
-7102	503622	1	2	903	3	Ondřej	Zapletal	M			22	technický pracovník	Javoříčko	99	80	A
-7102	503622	1	2	903	4	Josef	Vydržel	M			52	podnikatel	Luká	99	80	A
-7102	503622	1	2	903	5	František	Pluháček	M			43	údržbář	Ješov	99	80	A
-7102	503622	1	2	903	6	Zdeněk	Zapletal	M			53	IT pracovník PČR	Javoříčko	99	80	A
-7102	503622	1	2	903	7	Daniela	Slouková Recová	F	Mgr.		35	rodičovská dovolená	Luká	99	80	A
-7102	503622	1	2	903	8	Jaroslav	Chytil	M			33	IT pracovník	Ješov	99	80	A
-7102	503622	1	2	903	9	Miloslav	Müller	M	Ing.		60	učitel SŠ	Ješov	99	80	A
-7102	503622	1	3	902	1	František	Lakomý	M			61	starosta	Luká	99	80	A
-7102	503622	1	3	902	2	Lenka	Zapletalová	F			41	skladnice	Luká	99	80	A
-7102	503622	1	3	902	3	Jaromír	Němec	M			64	důchodce	Luká	99	80	A
-7102	503622	1	3	902	4	Jiří	Navara	M	Bc.		43	policista	Luká	99	80	A
-7102	503622	1	3	902	5	Ondřej	Přecechtěl	M			23	živnostník	Březina	99	80	A
-7102	503622	1	3	902	6	Martina	Kvapilová	F			37	elektromechanička	Ješov	99	80	A
-7102	503622	1	3	902	7	Bohumil	Zapletal	M			35	skladník	Střemeníčko	99	80	A
-7102	503622	1	3	902	8	Aleš	Jurásek	M			33	manager	Luká	99	80	A
-7102	503622	1	3	902	9	Alexander	Nagy	M			65	důchodce	Luká	99	80	A
-7102	503622	1	4	901	1	Lubomír	Vyroubal	M			54	strojník	Ješov	99	80	A
-7102	503622	1	4	901	2	Filip	Sasák	M			37	technik	Střemeníčko	99	80	A
-7102	503622	1	4	901	3	Marcela	Šimíčková	F			36	úřednice	Luká	99	80	A
-7102	503622	1	4	901	4	Jiří	Mikulka	M			60	invalidní důchodce	Luká	99	80	A
-7102	503622	1	4	901	5	Josef	Nátr	M			39	strojník	Javoříčko	99	80	A
-7102	503622	1	4	901	6	Gabriela	Přecechtělová	F			27	projektantka	Březina	99	80	A
-7102	503622	1	4	901	7	Magda	Nátrová	F			34	manipulační pracovnice	Luká	99	80	A
-7102	503622	1	4	901	8	Milan	Čáslava	M			70	řidič	Luká	99	80	A
-7102	503622	1	4	901	9	Radomír	Kvapil	M			40	vedoucí skladu	Ješov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	503622	1	1	1	1	Marie	Šišmová	Ing. Bc.	MBA, DiS.	46	ekonom	Ješov	1	1	A	F
+7102	503622	1	2	903	1	Pavla	Múdra	Mgr.		50	učitelka ZŠ	Ješov	99	80	A	F
+7102	503622	1	3	902	1	František	Lakomý			61	starosta	Luká	99	80	A	M
+7102	503622	1	4	901	1	Lubomír	Vyroubal			54	strojník	Ješov	99	80	A	M
+7102	503622	1	1	1	2	Iveta	Pluháčková		DiS.	25	učitelka ZUŠ	Luká	99	1	A	F
+7102	503622	1	2	903	2	Kristián	Vronka	Ing.		39	podnikatel	Luká	99	80	A	M
+7102	503622	1	3	902	2	Lenka	Zapletalová			41	skladnice	Luká	99	80	A	F
+7102	503622	1	4	901	2	Filip	Sasák			37	technik	Střemeníčko	99	80	A	M
+7102	503622	1	1	1	3	Ilona	Moťková			32	vychovatelka ve školní družině	Luká	99	1	A	F
+7102	503622	1	2	903	3	Ondřej	Zapletal			22	technický pracovník	Javoříčko	99	80	A	M
+7102	503622	1	3	902	3	Jaromír	Němec			64	důchodce	Luká	99	80	A	M
+7102	503622	1	4	901	3	Marcela	Šimíčková			36	úřednice	Luká	99	80	A	F
+7102	503622	1	1	1	4	Jan	Martínek	Mgr.		35	výzkumný pracovník	Ješov	99	1	A	M
+7102	503622	1	2	903	4	Josef	Vydržel			52	podnikatel	Luká	99	80	A	M
+7102	503622	1	3	902	4	Jiří	Navara	Bc.		43	policista	Luká	99	80	A	M
+7102	503622	1	4	901	4	Jiří	Mikulka			60	invalidní důchodce	Luká	99	80	A	M
+7102	503622	1	1	1	5	Miroslav	Ellner	Ing.		26	projektant	Střemeníčko	99	1	A	M
+7102	503622	1	2	903	5	František	Pluháček			43	údržbář	Ješov	99	80	A	M
+7102	503622	1	3	902	5	Ondřej	Přecechtěl			23	živnostník	Březina	99	80	A	M
+7102	503622	1	4	901	5	Josef	Nátr			39	strojník	Javoříčko	99	80	A	M
+7102	503622	1	1	1	6	Michal	Šmoldas	Ing.		24	programátor	Ješov	99	1	A	M
+7102	503622	1	2	903	6	Zdeněk	Zapletal			53	IT pracovník PČR	Javoříčko	99	80	A	M
+7102	503622	1	3	902	6	Martina	Kvapilová			37	elektromechanička	Ješov	99	80	A	F
+7102	503622	1	4	901	6	Gabriela	Přecechtělová			27	projektantka	Březina	99	80	A	F
+7102	503622	1	1	1	7	Martina	Mužíková	Bc.		35	účetní	Ješov	99	1	A	F
+7102	503622	1	2	903	7	Daniela	Slouková Recová	Mgr.		35	rodičovská dovolená	Luká	99	80	A	F
+7102	503622	1	3	902	7	Bohumil	Zapletal			35	skladník	Střemeníčko	99	80	A	M
+7102	503622	1	4	901	7	Magda	Nátrová			34	manipulační pracovnice	Luká	99	80	A	F
+7102	503622	1	1	1	8	Josef	Kovář	Ing.		72	důchodce	Luká	99	1	A	M
+7102	503622	1	2	903	8	Jaroslav	Chytil			33	IT pracovník	Ješov	99	80	A	M
+7102	503622	1	3	902	8	Aleš	Jurásek			33	manager	Luká	99	80	A	M
+7102	503622	1	4	901	8	Milan	Čáslava			70	řidič	Luká	99	80	A	M
+7102	503622	1	1	1	9	Ondřej	Vogl			61	řidič	Ješov	1	1	A	M
+7102	503622	1	2	903	9	Miloslav	Müller	Ing.		60	učitel SŠ	Ješov	99	80	A	M
+7102	503622	1	3	902	9	Alexander	Nagy			65	důchodce	Luká	99	80	A	M
+7102	503622	1	4	901	9	Radomír	Kvapil			40	vedoucí skladu	Ješov	99	80	A	M

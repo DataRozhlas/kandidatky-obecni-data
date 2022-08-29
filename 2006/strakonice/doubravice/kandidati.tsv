@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3106	550981	1	1	1	1	Roman	Prokopius	M			39	hospodař dopravy	Doubravice	99	1	0
-3106	550981	1	1	1	2	Karel	Ježek	M			46	dělník	Doubravice	99	1	0
-3106	550981	1	1	1	3	Jana	Roubalová	F			57	důchodce	Doubravice	99	1	0
-3106	550981	1	1	1	4	Blažena	Nová	F			60	důchodce	Doubravice	99	1	0
-3106	550981	1	1	1	5	Kateřina	Souhradová	F			44	zdravotní ošetřovatelka	Doubravice	99	1	0
-3106	550981	1	1	1	6	Hana	Kořánová	F			37	zdravotní sestra	Doubravice	99	1	0
-3106	550981	1	1	1	7	Miluše	Kuchtová	F			33	dělnice	Doubravice	99	1	0
-3106	550981	1	1	1	8	Ilona	Prokopiusová	F			33	pomocnice ve stravování	Doubravice	99	1	0
-3106	550981	1	1	1	9	Karel	Jedlička	M			34	výpravčí	Doubravice	99	1	0
-3106	550981	1	2	901	1	Milan	Panuška	M			58	důchodce	Doubravice	47	80	0
-3106	550981	1	2	901	2	Marcel	Bečvář	M			40	seřizovač	Doubravice	99	80	0
-3106	550981	1	2	901	3	Václav	Křivanec	M			51	řidič	Doubravice	47	80	0
-3106	550981	1	2	901	4	Jana	Křivancová	F			32	prodavačka	Doubravice	99	80	0
-3106	550981	1	2	901	5	Karel	Fořt	M			65	důchodce	Doubravice	47	80	0
-3106	550981	1	2	901	6	František	Zuklín	M			46	podnikatel	Doubravice	99	80	0
-3106	550981	1	2	901	7	Jana	Slancová	F			30	učitelka	Doubravice	99	80	0
-3106	550981	1	2	901	8	Milan	Kuchta	M			40	dělník	Doubravice	99	80	0
-3106	550981	1	2	901	9	Milada	Kuchtová	F			48	ředitelka	Doubravice	99	80	0
-3106	550981	1	3	53	1	Jaroslav	Jeništa	M			50	stavbyvedoucí	Doubravice	99	53	0
-3106	550981	1	3	53	2	Marta	Roubalová	F			34	v domácnosti	Doubravice	99	53	0
-3106	550981	1	3	53	3	Pavel	Petrovec	M			32	živnostník	Doubravice	99	53	0
-3106	550981	1	3	53	4	Pavel	Srb	M			39	dělník	Doubravice	99	53	0
-3106	550981	1	3	53	5	Jiřina	Matějková	F			46	podnikatelka	Doubravice	99	53	0
-3106	550981	1	3	53	6	Pavla	Vrátná	F			40	zdravotní sestra	Doubravice	99	53	0
-3106	550981	1	3	53	7	Miroslav	Roubal	M			37	dělník	Doubravice	99	53	0
-3106	550981	1	3	53	8	Jan	Jeništa	M			21	student	Doubravice	99	53	0
-3106	550981	1	4	902	1	Jiří	Turek	M	Ing.		56	předseda	Nahošín	99	80	0
-3106	550981	1	4	902	2	Jaroslav	Plechatý	M			50	podnikatel	Nahošín	99	80	0
-3106	550981	1	4	902	3	Pavel	Honsa	M			44	technik	Nahošín	99	80	0
-3106	550981	1	4	902	4	Hana	Štěpánová	F			46	dělnice	Nahošín	99	80	0
-3106	550981	1	4	902	5	Šárka	Szederová	F			30	ošetřovatelka	Nahošín	99	80	0
-3106	550981	1	4	902	6	Božena	Švecová	F			40	v domácnosti	Nahošín	99	80	0
-3106	550981	1	4	902	7	Karel	Rach	M			46	dělník	Nahošín	1	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3106	550981	1	1	1	1	Roman	Prokopius			39	hospodař dopravy	Doubravice	99	1	0	M
+3106	550981	1	2	901	1	Milan	Panuška			58	důchodce	Doubravice	47	80	0	M
+3106	550981	1	3	53	1	Jaroslav	Jeništa			50	stavbyvedoucí	Doubravice	99	53	0	M
+3106	550981	1	4	902	1	Jiří	Turek	Ing.		56	předseda	Nahošín	99	80	0	M
+3106	550981	1	1	1	2	Karel	Ježek			46	dělník	Doubravice	99	1	0	M
+3106	550981	1	2	901	2	Marcel	Bečvář			40	seřizovač	Doubravice	99	80	0	M
+3106	550981	1	3	53	2	Marta	Roubalová			34	v domácnosti	Doubravice	99	53	0	F
+3106	550981	1	4	902	2	Jaroslav	Plechatý			50	podnikatel	Nahošín	99	80	0	M
+3106	550981	1	1	1	3	Jana	Roubalová			57	důchodce	Doubravice	99	1	0	F
+3106	550981	1	2	901	3	Václav	Křivanec			51	řidič	Doubravice	47	80	0	M
+3106	550981	1	3	53	3	Pavel	Petrovec			32	živnostník	Doubravice	99	53	0	M
+3106	550981	1	4	902	3	Pavel	Honsa			44	technik	Nahošín	99	80	0	M
+3106	550981	1	1	1	4	Blažena	Nová			60	důchodce	Doubravice	99	1	0	F
+3106	550981	1	2	901	4	Jana	Křivancová			32	prodavačka	Doubravice	99	80	0	F
+3106	550981	1	3	53	4	Pavel	Srb			39	dělník	Doubravice	99	53	0	M
+3106	550981	1	4	902	4	Hana	Štěpánová			46	dělnice	Nahošín	99	80	0	F
+3106	550981	1	1	1	5	Kateřina	Souhradová			44	zdravotní ošetřovatelka	Doubravice	99	1	0	F
+3106	550981	1	2	901	5	Karel	Fořt			65	důchodce	Doubravice	47	80	0	M
+3106	550981	1	3	53	5	Jiřina	Matějková			46	podnikatelka	Doubravice	99	53	0	F
+3106	550981	1	4	902	5	Šárka	Szederová			30	ošetřovatelka	Nahošín	99	80	0	F
+3106	550981	1	1	1	6	Hana	Kořánová			37	zdravotní sestra	Doubravice	99	1	0	F
+3106	550981	1	2	901	6	František	Zuklín			46	podnikatel	Doubravice	99	80	0	M
+3106	550981	1	3	53	6	Pavla	Vrátná			40	zdravotní sestra	Doubravice	99	53	0	F
+3106	550981	1	4	902	6	Božena	Švecová			40	v domácnosti	Nahošín	99	80	0	F
+3106	550981	1	1	1	7	Miluše	Kuchtová			33	dělnice	Doubravice	99	1	0	F
+3106	550981	1	2	901	7	Jana	Slancová			30	učitelka	Doubravice	99	80	0	F
+3106	550981	1	3	53	7	Miroslav	Roubal			37	dělník	Doubravice	99	53	0	M
+3106	550981	1	4	902	7	Karel	Rach			46	dělník	Nahošín	1	80	0	M
+3106	550981	1	1	1	8	Ilona	Prokopiusová			33	pomocnice ve stravování	Doubravice	99	1	0	F
+3106	550981	1	2	901	8	Milan	Kuchta			40	dělník	Doubravice	99	80	0	M
+3106	550981	1	3	53	8	Jan	Jeništa			21	student	Doubravice	99	53	0	M
+3106	550981	1	1	1	9	Karel	Jedlička			34	výpravčí	Doubravice	99	1	0	M
+3106	550981	1	2	901	9	Milada	Kuchtová			48	ředitelka	Doubravice	99	80	0	F

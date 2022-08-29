@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	532533	1	1	902	1	Patrik	Tichava	M			50	OSVČ ve stavebnictví	Ledce	99	80	A
-2103	532533	1	1	902	2	Michaela	Žáková	F			52	lékařka	Ledce	99	80	A
-2103	532533	1	1	902	3	Blanka	Benešová	F			67	důchodkyně	Ledce	99	80	A
-2103	532533	1	1	902	4	Květa	Široká	F			53	obecní úřednice	Ledce	99	80	A
-2103	532533	1	1	902	5	Jan	Procházka	M			59	OSVČ	Ledce	99	80	A
-2103	532533	1	1	902	6	Šárka	Švábová	F			57	středoškolská pedagožka	Ledce	99	80	A
-2103	532533	1	1	902	7	Ondřej	Piskač	M			39	lékař	Ledce	99	80	A
-2103	532533	1	2	901	1	Martin	Burant	M	Mgr.		31	učitel	Ledce	99	80	A
-2103	532533	1	2	901	2	Lenka	Kmohanová	F			50	úřednice	Ledce	99	80	A
-2103	532533	1	2	901	3	Oldřich	Krupička	M			59	dělník	Ledce	99	80	A
-2103	532533	1	2	901	4	Andrea	Krčková	F	Ing.		38	úřednice	Ledce	99	80	A
-2103	532533	1	2	901	5	Libor	Hladík	M			49	OSVČ	Ledce	99	80	A
-2103	532533	1	2	901	6	Jiří	Šantora	M			58	správce objektu	Ledce	99	80	A
-2103	532533	1	2	901	7	Miloslav	Krček	M			71	důchodce	Ledce	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	532533	1	1	902	1	Patrik	Tichava			50	OSVČ ve stavebnictví	Ledce	99	80	A	M
+2103	532533	1	2	901	1	Martin	Burant	Mgr.		31	učitel	Ledce	99	80	A	M
+2103	532533	1	1	902	2	Michaela	Žáková			52	lékařka	Ledce	99	80	A	F
+2103	532533	1	2	901	2	Lenka	Kmohanová			50	úřednice	Ledce	99	80	A	F
+2103	532533	1	1	902	3	Blanka	Benešová			67	důchodkyně	Ledce	99	80	A	F
+2103	532533	1	2	901	3	Oldřich	Krupička			59	dělník	Ledce	99	80	A	M
+2103	532533	1	1	902	4	Květa	Široká			53	obecní úřednice	Ledce	99	80	A	F
+2103	532533	1	2	901	4	Andrea	Krčková	Ing.		38	úřednice	Ledce	99	80	A	F
+2103	532533	1	1	902	5	Jan	Procházka			59	OSVČ	Ledce	99	80	A	M
+2103	532533	1	2	901	5	Libor	Hladík			49	OSVČ	Ledce	99	80	A	M
+2103	532533	1	1	902	6	Šárka	Švábová			57	středoškolská pedagožka	Ledce	99	80	A	F
+2103	532533	1	2	901	6	Jiří	Šantora			58	správce objektu	Ledce	99	80	A	M
+2103	532533	1	1	902	7	Ondřej	Piskač			39	lékař	Ledce	99	80	A	M
+2103	532533	1	2	901	7	Miloslav	Krček			71	důchodce	Ledce	99	80	A	M

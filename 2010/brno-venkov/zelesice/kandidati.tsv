@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	584266	1	1	721	1	Irena	Pavlasová	F			39	místostarostka	Želešice	99	721	0
-6203	584266	1	1	721	2	Lubomír	Mach	M	Mgr.		37	magistr	Želešice	99	721	0
-6203	584266	1	1	721	3	Marek	Tichý	M	Ing.arch.		43	podnikatel	Želešice	99	721	0
-6203	584266	1	1	721	4	Jiří	Dohnal	M	Ing.arch.		29	státní zaměstnanec	Želešice	99	721	0
-6203	584266	1	1	721	5	Alena	Pejcharová	F	Mgr.		39	administrativní pracovnice	Želešice	99	721	0
-6203	584266	1	1	721	6	Terezie	Vařeková	F	Mgr.		34	učitelka	Želešice	99	721	0
-6203	584266	1	1	721	7	Ilona	Vildová	F			32	na rodičovské dovolené	Želešice	99	721	0
-6203	584266	1	1	721	8	Jan	Šumbera	M	Ing.arch.		70	důchodce	Želešice	99	721	0
-6203	584266	1	1	721	9	Jiří	Loutocký	M			22	technik	Želešice	99	721	0
-6203	584266	1	1	721	10	Markéta	Bdinková	F			21	studentka	Želešice	99	721	0
-6203	584266	1	1	721	11	Eliška	Kvasničková	F			20	studentka	Želešice	99	721	0
-6203	584266	1	2	53	1	Jiří	Kvasnička	M	Ing.		47	starosta obce Želešice	Želešice	99	53	0
-6203	584266	1	2	53	2	Milan	Lapčík	M			46	technik	Želešice	53	53	0
-6203	584266	1	2	53	3	Roman	Loutocký	M	Ing.		50	podnikatel	Želešice	99	53	0
-6203	584266	1	2	53	4	Zdeněk	Bdinka	M			48	podnikatel	Želešice	99	53	0
-6203	584266	1	2	53	5	František	Starý	M			34	technik	Želešice	99	53	0
-6203	584266	1	2	53	6	Dana	Průšová	F			40	technik	Želešice	53	53	0
-6203	584266	1	2	53	7	Anna	Lapčíková	F	Mgr.		45	ředitelka základní školy	Želešice	53	53	0
-6203	584266	1	2	53	8	Denisa	Dobešová	F	Bc.		28	technik	Želešice	53	53	0
-6203	584266	1	2	53	9	Eva	Dulíková	F			54	technik	Želešice	99	53	0
-6203	584266	1	2	53	10	Miroslav	Průša	M			45	technik	Želešice	53	53	0
-6203	584266	1	2	53	11	Helena	Caudrová	F			52	podnikatel	Želešice	53	53	0
-6203	584266	1	3	901	1	Roman	Veselý	M			40	manažer	Želešice	99	80	0
-6203	584266	1	3	901	2	Magda	Kvardová	F			42	vedoucí školní jídelny	Želešice	99	80	0
-6203	584266	1	3	901	3	Jaroslav	Vraňan	M	Ing.		38	jednatel společnosti	Želešice	99	80	0
-6203	584266	1	3	901	4	Tomáš	Koláček	M			36	stavbyvedoucí	Želešice	99	80	0
-6203	584266	1	3	901	5	Zdeněk	Stříbrný	M			62	důchodce	Želešice	99	80	0
-6203	584266	1	3	901	6	Pavel	Pavlas	M			38	vedoucí výroby	Želešice	99	80	0
-6203	584266	1	3	901	7	Jan	Starý	M			20	student	Želešice	99	80	0
-6203	584266	1	3	901	8	Pavel	Kalvoda	M			47	řidič	Želešice	99	80	0
-6203	584266	1	3	901	9	Radek	Růžička	M			43	podnikatel	Želešice	99	80	0
-6203	584266	1	3	901	10	Roman	Oberfranc	M			40	technik	Želešice	99	80	0
-6203	584266	1	3	901	11	Vít	Andrlík	M			45	obchodní zástupce	Želešice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	584266	1	1	721	1	Irena	Pavlasová			39	místostarostka	Želešice	99	721	0	F
+6203	584266	1	2	53	1	Jiří	Kvasnička	Ing.		47	starosta obce Želešice	Želešice	99	53	0	M
+6203	584266	1	3	901	1	Roman	Veselý			40	manažer	Želešice	99	80	0	M
+6203	584266	1	1	721	2	Lubomír	Mach	Mgr.		37	magistr	Želešice	99	721	0	M
+6203	584266	1	2	53	2	Milan	Lapčík			46	technik	Želešice	53	53	0	M
+6203	584266	1	3	901	2	Magda	Kvardová			42	vedoucí školní jídelny	Želešice	99	80	0	F
+6203	584266	1	1	721	3	Marek	Tichý	Ing.arch.		43	podnikatel	Želešice	99	721	0	M
+6203	584266	1	2	53	3	Roman	Loutocký	Ing.		50	podnikatel	Želešice	99	53	0	M
+6203	584266	1	3	901	3	Jaroslav	Vraňan	Ing.		38	jednatel společnosti	Želešice	99	80	0	M
+6203	584266	1	1	721	4	Jiří	Dohnal	Ing.arch.		29	státní zaměstnanec	Želešice	99	721	0	M
+6203	584266	1	2	53	4	Zdeněk	Bdinka			48	podnikatel	Želešice	99	53	0	M
+6203	584266	1	3	901	4	Tomáš	Koláček			36	stavbyvedoucí	Želešice	99	80	0	M
+6203	584266	1	1	721	5	Alena	Pejcharová	Mgr.		39	administrativní pracovnice	Želešice	99	721	0	F
+6203	584266	1	2	53	5	František	Starý			34	technik	Želešice	99	53	0	M
+6203	584266	1	3	901	5	Zdeněk	Stříbrný			62	důchodce	Želešice	99	80	0	M
+6203	584266	1	1	721	6	Terezie	Vařeková	Mgr.		34	učitelka	Želešice	99	721	0	F
+6203	584266	1	2	53	6	Dana	Průšová			40	technik	Želešice	53	53	0	F
+6203	584266	1	3	901	6	Pavel	Pavlas			38	vedoucí výroby	Želešice	99	80	0	M
+6203	584266	1	1	721	7	Ilona	Vildová			32	na rodičovské dovolené	Želešice	99	721	0	F
+6203	584266	1	2	53	7	Anna	Lapčíková	Mgr.		45	ředitelka základní školy	Želešice	53	53	0	F
+6203	584266	1	3	901	7	Jan	Starý			20	student	Želešice	99	80	0	M
+6203	584266	1	1	721	8	Jan	Šumbera	Ing.arch.		70	důchodce	Želešice	99	721	0	M
+6203	584266	1	2	53	8	Denisa	Dobešová	Bc.		28	technik	Želešice	53	53	0	F
+6203	584266	1	3	901	8	Pavel	Kalvoda			47	řidič	Želešice	99	80	0	M
+6203	584266	1	1	721	9	Jiří	Loutocký			22	technik	Želešice	99	721	0	M
+6203	584266	1	2	53	9	Eva	Dulíková			54	technik	Želešice	99	53	0	F
+6203	584266	1	3	901	9	Radek	Růžička			43	podnikatel	Želešice	99	80	0	M
+6203	584266	1	1	721	10	Markéta	Bdinková			21	studentka	Želešice	99	721	0	F
+6203	584266	1	2	53	10	Miroslav	Průša			45	technik	Želešice	53	53	0	M
+6203	584266	1	3	901	10	Roman	Oberfranc			40	technik	Želešice	99	80	0	M
+6203	584266	1	1	721	11	Eliška	Kvasničková			20	studentka	Želešice	99	721	0	F
+6203	584266	1	2	53	11	Helena	Caudrová			52	podnikatel	Želešice	53	53	0	F
+6203	584266	1	3	901	11	Vít	Andrlík			45	obchodní zástupce	Želešice	99	80	0	M

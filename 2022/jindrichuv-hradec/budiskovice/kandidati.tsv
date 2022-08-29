@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	546038	1	1	901	1	Pavel	Benda	M	Bc.		46	starosta obce	Budíškovice	99	80	A
-3103	546038	1	1	901	2	Petra	Andělová	F	Mgr.		46	učitelka ZŠ, místostarostka	Budíškovice	99	80	A
-3103	546038	1	1	901	3	Martin	Havlík	M			36	zámečník	Budíškovice	99	80	A
-3103	546038	1	1	901	4	Antonín	Švec	M			52	OSVČ	Vesce	1	80	A
-3103	546038	1	1	901	5	Martin	Procházka	M			32	dispečer	Budíškovice	99	80	A
-3103	546038	1	1	901	6	Jan	Musil	M			32	nákupčí dřeva	Budíškovice	99	80	A
-3103	546038	1	1	901	7	Jan	Řezáč	M			59	operátor výroby	Budíškovice	99	80	A
-3103	546038	1	1	901	8	Jana	Nováčková	F			48	ošetřovatelka skotu	Manešovice	99	80	A
-3103	546038	1	1	901	9	Ludmila	Švecová	F			50	asistent pedagoga	Vesce	99	80	A
-3103	546038	1	1	901	10	Miroslav	Doležal	M			31	hasič	Budíškovice	99	80	A
-3103	546038	1	1	901	11	Zuzana	Březinová	F			34	mateřská dovolená	Budíškovice	99	80	A
-3103	546038	1	2	902	1	Petr	Švarc	M	Bc.		31	učitel	Ostojkovice	99	80	A
-3103	546038	1	2	902	2	Naděžda	Táborská	F			50	OSVČ	Ostojkovice	99	80	A
-3103	546038	1	2	902	3	Petr	Švarc	M			59	OSVČ	Ostojkovice	99	80	A
-3103	546038	1	2	902	4	Antonín	Málek	M			49	THP	Ostojkovice	99	80	A
-3103	546038	1	2	902	5	Aleš	Stejskal	M			42	řidič	Ostojkovice	99	80	A
-3103	546038	1	2	902	6	Tomáš	Krulla	M			38	OSVČ	Ostojkovice	99	80	A
-3103	546038	1	2	902	7	Petr	Neshyba	M			33	programátor	Ostojkovice	99	80	A
-3103	546038	1	2	902	8	Pavel	Duba	M			36	OSVČ	Ostojkovice	99	80	A
-3103	546038	1	2	902	9	Dagmar	Stejskalová	F			43	dělnice	Ostojkovice	99	80	A
-3103	546038	1	2	902	10	Jiří	Králík	M			33	OSVČ	Ostojkovice	99	80	A
-3103	546038	1	2	902	11	Jaromír	Vacek	M			48	OSVČ	Ostojkovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	546038	1	1	901	1	Pavel	Benda	Bc.		46	starosta obce	Budíškovice	99	80	A	M
+3103	546038	1	2	902	1	Petr	Švarc	Bc.		31	učitel	Ostojkovice	99	80	A	M
+3103	546038	1	1	901	2	Petra	Andělová	Mgr.		46	učitelka ZŠ, místostarostka	Budíškovice	99	80	A	F
+3103	546038	1	2	902	2	Naděžda	Táborská			50	OSVČ	Ostojkovice	99	80	A	F
+3103	546038	1	1	901	3	Martin	Havlík			36	zámečník	Budíškovice	99	80	A	M
+3103	546038	1	2	902	3	Petr	Švarc			59	OSVČ	Ostojkovice	99	80	A	M
+3103	546038	1	1	901	4	Antonín	Švec			52	OSVČ	Vesce	1	80	A	M
+3103	546038	1	2	902	4	Antonín	Málek			49	THP	Ostojkovice	99	80	A	M
+3103	546038	1	1	901	5	Martin	Procházka			32	dispečer	Budíškovice	99	80	A	M
+3103	546038	1	2	902	5	Aleš	Stejskal			42	řidič	Ostojkovice	99	80	A	M
+3103	546038	1	1	901	6	Jan	Musil			32	nákupčí dřeva	Budíškovice	99	80	A	M
+3103	546038	1	2	902	6	Tomáš	Krulla			38	OSVČ	Ostojkovice	99	80	A	M
+3103	546038	1	1	901	7	Jan	Řezáč			59	operátor výroby	Budíškovice	99	80	A	M
+3103	546038	1	2	902	7	Petr	Neshyba			33	programátor	Ostojkovice	99	80	A	M
+3103	546038	1	1	901	8	Jana	Nováčková			48	ošetřovatelka skotu	Manešovice	99	80	A	F
+3103	546038	1	2	902	8	Pavel	Duba			36	OSVČ	Ostojkovice	99	80	A	M
+3103	546038	1	1	901	9	Ludmila	Švecová			50	asistent pedagoga	Vesce	99	80	A	F
+3103	546038	1	2	902	9	Dagmar	Stejskalová			43	dělnice	Ostojkovice	99	80	A	F
+3103	546038	1	1	901	10	Miroslav	Doležal			31	hasič	Budíškovice	99	80	A	M
+3103	546038	1	2	902	10	Jiří	Králík			33	OSVČ	Ostojkovice	99	80	A	M
+3103	546038	1	1	901	11	Zuzana	Březinová			34	mateřská dovolená	Budíškovice	99	80	A	F
+3103	546038	1	2	902	11	Jaromír	Vacek			48	OSVČ	Ostojkovice	99	80	A	M

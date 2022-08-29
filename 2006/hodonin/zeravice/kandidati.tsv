@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6205	586820	1	1	901	1	Jiří	Hýbl	M			39	dělník	Žeravice	99	80	0
-6205	586820	1	1	901	2	Erika	Machová	F			35	zdr. sestra	Žeravice	99	80	0
-6205	586820	1	1	901	3	Evžen	Němec	M			32	obch. manžer	Žeravice	99	80	0
-6205	586820	1	1	901	4	Bronislav	Čech	M			35	technik	Žeravice	99	80	0
-6205	586820	1	1	901	5	Michal	Straka	M			33	obch. zástupce	Žeravice	99	80	0
-6205	586820	1	1	901	6	Rostislav	Lacina	M	Ing.		41	podnikatel	Žeravice	99	80	0
-6205	586820	1	1	901	7	Lubomír	Kozina	M			34	podnikatel	Žeravice	99	80	0
-6205	586820	1	1	901	8	Dagmar	Hartlová	F	Bc.		23	studentka	Žeravice	99	80	0
-6205	586820	1	1	901	9	Eva	Němcová	F			31	mat. dovolená	Žeravice	99	80	0
-6205	586820	1	2	1	1	Stanislav	Pres	M	Ing.		40	zeměděl.ing.	Žeravice	99	1	0
-6205	586820	1	2	1	2	Ladislav	Žůrek	M			48	instalatér	Žeravice	1	1	0
-6205	586820	1	2	1	3	Pavel	Soukup	M	Ing.		40	stavební ing.	Žeravice	99	1	0
-6205	586820	1	2	1	4	Marie	Menšíková	F			37	obchod. asistent	Žeravice	99	1	0
-6205	586820	1	2	1	5	Jana	Žůrková	F			35	prodavačka	Žeravice	99	1	0
-6205	586820	1	2	1	6	Jan	Jandásek	M			39	tesař	Žeravice	1	1	0
-6205	586820	1	2	1	7	Petra	Knápková	F			27	dělnice	Žeravice	99	1	0
-6205	586820	1	2	1	8	Antonín	Pohanka	M			32	truhlář	Žeravice	99	1	0
-6205	586820	1	2	1	9	Stanislav	Žůrek	M			35	OSVČ	Žeravice	99	1	0
-6205	586820	1	3	902	1	Luboš	Hradil	M			54	zedník	Žeravice	99	80	0
-6205	586820	1	3	902	2	Miroslav	Kozumplík	M			49	projektant	Žeravice	99	80	0
-6205	586820	1	3	902	3	Oldřich	Ludva	M			56	elektrikář	Žeravice	99	80	0
-6205	586820	1	3	902	4	Zdeněk	Hrazdílek	M			36	montér	Žeravice	99	80	0
-6205	586820	1	3	902	5	Petr	Žůrek	M			33	hasič-strojník	Žeravice	99	80	0
-6205	586820	1	3	902	6	Pavel	Pohanka	M	MVDr.		35	zootechnik	Žeravice	99	80	0
-6205	586820	1	3	902	7	Jarmila	Zlochová	F			52	inv. důchodce	Žeravice	99	80	0
-6205	586820	1	3	902	8	Petr	Knápek	M			51	dělník	Žeravice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6205	586820	1	1	901	1	Jiří	Hýbl			39	dělník	Žeravice	99	80	0	M
+6205	586820	1	2	1	1	Stanislav	Pres	Ing.		40	zeměděl.ing.	Žeravice	99	1	0	M
+6205	586820	1	3	902	1	Luboš	Hradil			54	zedník	Žeravice	99	80	0	M
+6205	586820	1	1	901	2	Erika	Machová			35	zdr. sestra	Žeravice	99	80	0	F
+6205	586820	1	2	1	2	Ladislav	Žůrek			48	instalatér	Žeravice	1	1	0	M
+6205	586820	1	3	902	2	Miroslav	Kozumplík			49	projektant	Žeravice	99	80	0	M
+6205	586820	1	1	901	3	Evžen	Němec			32	obch. manžer	Žeravice	99	80	0	M
+6205	586820	1	2	1	3	Pavel	Soukup	Ing.		40	stavební ing.	Žeravice	99	1	0	M
+6205	586820	1	3	902	3	Oldřich	Ludva			56	elektrikář	Žeravice	99	80	0	M
+6205	586820	1	1	901	4	Bronislav	Čech			35	technik	Žeravice	99	80	0	M
+6205	586820	1	2	1	4	Marie	Menšíková			37	obchod. asistent	Žeravice	99	1	0	F
+6205	586820	1	3	902	4	Zdeněk	Hrazdílek			36	montér	Žeravice	99	80	0	M
+6205	586820	1	1	901	5	Michal	Straka			33	obch. zástupce	Žeravice	99	80	0	M
+6205	586820	1	2	1	5	Jana	Žůrková			35	prodavačka	Žeravice	99	1	0	F
+6205	586820	1	3	902	5	Petr	Žůrek			33	hasič-strojník	Žeravice	99	80	0	M
+6205	586820	1	1	901	6	Rostislav	Lacina	Ing.		41	podnikatel	Žeravice	99	80	0	M
+6205	586820	1	2	1	6	Jan	Jandásek			39	tesař	Žeravice	1	1	0	M
+6205	586820	1	3	902	6	Pavel	Pohanka	MVDr.		35	zootechnik	Žeravice	99	80	0	M
+6205	586820	1	1	901	7	Lubomír	Kozina			34	podnikatel	Žeravice	99	80	0	M
+6205	586820	1	2	1	7	Petra	Knápková			27	dělnice	Žeravice	99	1	0	F
+6205	586820	1	3	902	7	Jarmila	Zlochová			52	inv. důchodce	Žeravice	99	80	0	F
+6205	586820	1	1	901	8	Dagmar	Hartlová	Bc.		23	studentka	Žeravice	99	80	0	F
+6205	586820	1	2	1	8	Antonín	Pohanka			32	truhlář	Žeravice	99	1	0	M
+6205	586820	1	3	902	8	Petr	Knápek			51	dělník	Žeravice	99	80	0	M
+6205	586820	1	1	901	9	Eva	Němcová			31	mat. dovolená	Žeravice	99	80	0	F
+6205	586820	1	2	1	9	Stanislav	Žůrek			35	OSVČ	Žeravice	99	1	0	M

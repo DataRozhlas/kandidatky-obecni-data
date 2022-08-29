@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	570681	1	1	901	1	Ladislav	Steklý	M			60	OSVČ	Převýšov	99	80	0
-5201	570681	1	1	901	2	Tomáš	Votava	M			40	zedník	Převýšov	99	80	0
-5201	570681	1	1	901	3	Pavel	Pilař	M			50	výpravčí ČD	Převýšov	99	80	0
-5201	570681	1	1	901	4	Stanislav	Lochman	M			48	řidič	Převýšov	99	80	0
-5201	570681	1	1	901	5	Petr	Pilař	M			51	zootechnik	Převýšov	99	80	0
-5201	570681	1	1	901	6	Václav	Černý	M			37	dělník	Převýšov	99	80	0
-5201	570681	1	1	901	7	Martin	Pilař	M			26	dělník	Převýšov	99	80	0
-5201	570681	1	1	901	8	Radek	Pilař	M			38	zedník	Převýšov	99	80	0
-5201	570681	1	2	902	1	Oldřich	Vejr	M	Ing		61	státní zaměstnanec	Převýšov	99	80	0
-5201	570681	1	2	902	2	Miroslav	Podnecký	M	Ing.		45	podnikatel	Převýšov	99	80	0
-5201	570681	1	2	902	3	Monika	Faltysová	F	Bc.		26	bankovní úředník	Převýšov	99	80	0
-5201	570681	1	2	902	4	Pavel	Hubený	M			46	truhlář	Převýšov	99	80	0
-5201	570681	1	2	902	5	Karel	Faltys	M			48	elektrikář	Převýšov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	570681	1	1	901	1	Ladislav	Steklý			60	OSVČ	Převýšov	99	80	0	M
+5201	570681	1	2	902	1	Oldřich	Vejr	Ing		61	státní zaměstnanec	Převýšov	99	80	0	M
+5201	570681	1	1	901	2	Tomáš	Votava			40	zedník	Převýšov	99	80	0	M
+5201	570681	1	2	902	2	Miroslav	Podnecký	Ing.		45	podnikatel	Převýšov	99	80	0	M
+5201	570681	1	1	901	3	Pavel	Pilař			50	výpravčí ČD	Převýšov	99	80	0	M
+5201	570681	1	2	902	3	Monika	Faltysová	Bc.		26	bankovní úředník	Převýšov	99	80	0	F
+5201	570681	1	1	901	4	Stanislav	Lochman			48	řidič	Převýšov	99	80	0	M
+5201	570681	1	2	902	4	Pavel	Hubený			46	truhlář	Převýšov	99	80	0	M
+5201	570681	1	1	901	5	Petr	Pilař			51	zootechnik	Převýšov	99	80	0	M
+5201	570681	1	2	902	5	Karel	Faltys			48	elektrikář	Převýšov	99	80	0	M
+5201	570681	1	1	901	6	Václav	Černý			37	dělník	Převýšov	99	80	0	M
+5201	570681	1	1	901	7	Martin	Pilař			26	dělník	Převýšov	99	80	0	M
+5201	570681	1	1	901	8	Radek	Pilař			38	zedník	Převýšov	99	80	0	M

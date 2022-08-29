@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	569488	1	1	901	1	Oldřich	Otava	M			46	OSVČ	Slavíkov	99	80	A
-6101	569488	1	1	901	2	Jan	Procházka	M			49	operátor na pile	Rovný	99	80	A
-6101	569488	1	1	901	3	Renata	Uchytilová	F			46	zdravotní sestra	Slavíkov	99	80	A
-6101	569488	1	1	901	4	Marek	Klátil	M			25	OSVČ	Rovný	99	80	A
-6101	569488	1	1	901	5	Jaroslav	Bláha	M			44	řidič zemědělských strojů	Slavíkov	99	80	A
-6101	569488	1	1	901	6	Libuše	Němcová	F	Mgr.		52	advokátka	Rovný	99	80	A
-6101	569488	1	1	901	7	Michal	Bříza	M			47	nástrojař	Rovný	99	80	A
-6101	569488	1	1	901	8	Pavel	Vondráček	M			40	zemědělec	Slavíkov	99	80	A
-6101	569488	1	1	901	9	Věra	Preislerová	F	Mgr.		65	důchodce	Slavíkov	99	80	A
-6101	569488	1	2	902	1	Luboš	Culek	M			52	operátor výroby	Slavíkov	99	80	A
-6101	569488	1	2	902	2	Eliška	Břízová	F			22	administrátorka zahraničního distribučního centra	Rovný	99	80	A
-6101	569488	1	2	902	3	Jaroslav	Sýkora	M			50	vedoucí lomu	Slavíkov	99	80	A
-6101	569488	1	2	902	4	Josef	Čejka	M			48	podnikatel	Rovný	99	80	A
-6101	569488	1	2	902	5	Pavel	Marek	M			44	hasič	Slavíkov	99	80	A
-6101	569488	1	2	902	6	Helena	Horáková	F			56	kuchařka	Rovný	99	80	A
-6101	569488	1	2	902	7	Romana	Michalová	F			47	pracovník v gastronomii	Slavíkov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	569488	1	1	901	1	Oldřich	Otava			46	OSVČ	Slavíkov	99	80	A	M
+6101	569488	1	2	902	1	Luboš	Culek			52	operátor výroby	Slavíkov	99	80	A	M
+6101	569488	1	1	901	2	Jan	Procházka			49	operátor na pile	Rovný	99	80	A	M
+6101	569488	1	2	902	2	Eliška	Břízová			22	administrátorka zahraničního distribučního centra	Rovný	99	80	A	F
+6101	569488	1	1	901	3	Renata	Uchytilová			46	zdravotní sestra	Slavíkov	99	80	A	F
+6101	569488	1	2	902	3	Jaroslav	Sýkora			50	vedoucí lomu	Slavíkov	99	80	A	M
+6101	569488	1	1	901	4	Marek	Klátil			25	OSVČ	Rovný	99	80	A	M
+6101	569488	1	2	902	4	Josef	Čejka			48	podnikatel	Rovný	99	80	A	M
+6101	569488	1	1	901	5	Jaroslav	Bláha			44	řidič zemědělských strojů	Slavíkov	99	80	A	M
+6101	569488	1	2	902	5	Pavel	Marek			44	hasič	Slavíkov	99	80	A	M
+6101	569488	1	1	901	6	Libuše	Němcová	Mgr.		52	advokátka	Rovný	99	80	A	F
+6101	569488	1	2	902	6	Helena	Horáková			56	kuchařka	Rovný	99	80	A	F
+6101	569488	1	1	901	7	Michal	Bříza			47	nástrojař	Rovný	99	80	A	M
+6101	569488	1	2	902	7	Romana	Michalová			47	pracovník v gastronomii	Slavíkov	99	80	A	F
+6101	569488	1	1	901	8	Pavel	Vondráček			40	zemědělec	Slavíkov	99	80	A	M
+6101	569488	1	1	901	9	Věra	Preislerová	Mgr.		65	důchodce	Slavíkov	99	80	A	F

@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	549703	1	1	801	1	Václav	Hejl	M			61	řidič	Oslov	99	80	0
-3104	549703	1	2	901	1	František	Hašek	M			30	řidič	Tukleky	99	80	0
-3104	549703	1	2	901	2	Miroslav	Lopata	M			39	agronom	Tukleky	99	80	0
-3104	549703	1	2	901	3	Milan	Malý	M			39	elektromechanik	Oslov	99	80	0
-3104	549703	1	2	901	4	Vladimír	Hubáček	M			33	řidič	Oslov	99	80	0
-3104	549703	1	2	901	5	Petr	Řežábek	M			32	traktorista	Tukleky	99	80	0
-3104	549703	1	3	902	1	Zdeňka	Picková	F			46	účetní	Oslov	99	80	0
-3104	549703	1	3	902	2	Petr	Vysokomýtský	M			40	agronom	Oslov	99	80	0
-3104	549703	1	3	902	3	Jiří	Kloboučník	M			56	traktorista	Oslov	99	80	0
-3104	549703	1	3	902	4	Petra	Korolová	F			52	podnikatelka	Oslov	99	80	0
-3104	549703	1	3	902	5	Markéta	Lexová	F			31	účetní	Oslov	99	80	0
-3104	549703	1	3	902	6	Jaroslav	Pavlíček	M			35	podnikatel	Oslov	99	80	0
-3104	549703	1	4	904	1	František	Čapek	M	Ing.		29	podnikatel	Oslov	53	80	0
-3104	549703	1	4	904	2	Josef	Průša	M			28	podnikatel	Oslov	99	80	0
-3104	549703	1	4	904	3	Michal	Kříž	M			29	mechanik	Oslov	99	80	0
-3104	549703	1	4	904	4	Miloslava	Pavlovcová	F	Ing.		33	administrátor	Oslov	99	80	0
-3104	549703	1	4	904	5	Martin	Hubáček	M			34	řidič	Oslov	99	80	0
-3104	549703	1	4	904	6	Soňa	Ramajzlová	F		DiS.	28	účetní	Oslov	99	80	0
-3104	549703	1	4	904	7	Lidie	Žejdlíková	F			65	důchodce	Oslov	99	80	0
-3104	549703	1	4	904	8	Radka	Blažková	F			36	podnikatelka	Oslov	99	80	0
-3104	549703	1	4	904	9	Lenka	Smolová	F		DiS.	27	dipl. porod. asistentka	Oslov	99	80	0
-3104	549703	1	5	903	1	Zdeněk	Charvát	M			34	podnikatel	Oslov	99	80	0
-3104	549703	1	5	903	2	Radka	Skoblíková	F			34	administrativní pracovnice	Oslov	99	80	0
-3104	549703	1	5	903	3	Václav	Charvát	M			45	podnikatel	Oslov	99	80	0
-3104	549703	1	5	903	4	Dana	Česká	F			47	provozovatel golfového klubu	Oslov	99	80	0
-3104	549703	1	5	903	5	Martin	Ramajzl	M			31	farmář	Oslov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	549703	1	1	801	1	Václav	Hejl			61	řidič	Oslov	99	80	0	M
+3104	549703	1	2	901	1	František	Hašek			30	řidič	Tukleky	99	80	0	M
+3104	549703	1	3	902	1	Zdeňka	Picková			46	účetní	Oslov	99	80	0	F
+3104	549703	1	4	904	1	František	Čapek	Ing.		29	podnikatel	Oslov	53	80	0	M
+3104	549703	1	5	903	1	Zdeněk	Charvát			34	podnikatel	Oslov	99	80	0	M
+3104	549703	1	2	901	2	Miroslav	Lopata			39	agronom	Tukleky	99	80	0	M
+3104	549703	1	3	902	2	Petr	Vysokomýtský			40	agronom	Oslov	99	80	0	M
+3104	549703	1	4	904	2	Josef	Průša			28	podnikatel	Oslov	99	80	0	M
+3104	549703	1	5	903	2	Radka	Skoblíková			34	administrativní pracovnice	Oslov	99	80	0	F
+3104	549703	1	2	901	3	Milan	Malý			39	elektromechanik	Oslov	99	80	0	M
+3104	549703	1	3	902	3	Jiří	Kloboučník			56	traktorista	Oslov	99	80	0	M
+3104	549703	1	4	904	3	Michal	Kříž			29	mechanik	Oslov	99	80	0	M
+3104	549703	1	5	903	3	Václav	Charvát			45	podnikatel	Oslov	99	80	0	M
+3104	549703	1	2	901	4	Vladimír	Hubáček			33	řidič	Oslov	99	80	0	M
+3104	549703	1	3	902	4	Petra	Korolová			52	podnikatelka	Oslov	99	80	0	F
+3104	549703	1	4	904	4	Miloslava	Pavlovcová	Ing.		33	administrátor	Oslov	99	80	0	F
+3104	549703	1	5	903	4	Dana	Česká			47	provozovatel golfového klubu	Oslov	99	80	0	F
+3104	549703	1	2	901	5	Petr	Řežábek			32	traktorista	Tukleky	99	80	0	M
+3104	549703	1	3	902	5	Markéta	Lexová			31	účetní	Oslov	99	80	0	F
+3104	549703	1	4	904	5	Martin	Hubáček			34	řidič	Oslov	99	80	0	M
+3104	549703	1	5	903	5	Martin	Ramajzl			31	farmář	Oslov	99	80	0	M
+3104	549703	1	3	902	6	Jaroslav	Pavlíček			35	podnikatel	Oslov	99	80	0	M
+3104	549703	1	4	904	6	Soňa	Ramajzlová		DiS.	28	účetní	Oslov	99	80	0	F
+3104	549703	1	4	904	7	Lidie	Žejdlíková			65	důchodce	Oslov	99	80	0	F
+3104	549703	1	4	904	8	Radka	Blažková			36	podnikatelka	Oslov	99	80	0	F
+3104	549703	1	4	904	9	Lenka	Smolová		DiS.	27	dipl. porod. asistentka	Oslov	99	80	0	F

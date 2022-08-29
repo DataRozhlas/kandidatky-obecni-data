@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8104	568431	1	1	7	1	Zdeněk	Caisberger	M	Mgr.		64	důchodce	Bordovice	99	7	0
-8104	568431	1	1	7	2	Vladimír	Haluška	M			60	důchodce	Bordovice	99	7	0
-8104	568431	1	1	7	3	Eva	Marková	F			52	technik	Bordovice	99	7	0
-8104	568431	1	1	7	4	Albín	Lichnovský	M			52	podnikatel	Bordovice	99	7	0
-8104	568431	1	2	1	1	Rudolf	Střalka	M			57	televizní opravář	Bordovice	99	1	0
-8104	568431	1	2	1	2	Cyril	Pařenica	M			58	invalidní důchodce	Bordovice	99	1	0
-8104	568431	1	2	1	3	Jan	Rek	M			27	elektromechanik	Bordovice	99	1	0
-8104	568431	1	2	1	4	Eduard	Bordovský	M			29	svářeč	Bordovice	99	1	0
-8104	568431	1	2	1	5	Pavel	Machynka	M			31	dělník	Bordovice	99	1	0
-8104	568431	1	3	901	1	Bohumila	Trčková	F	Ing.		61	starostka	Bordovice	99	80	0
-8104	568431	1	3	901	2	Vojtěch	Pavel	M	Ing.		56	lesní správce	Bordovice	99	80	0
-8104	568431	1	3	901	3	Libuše	Sosenková	F			44	mistrová odborného výcviku	Bordovice	99	80	0
-8104	568431	1	3	901	4	Josef	Kostelník	M			43	mechanik	Bordovice	99	80	0
-8104	568431	1	3	901	5	Tomáš	Špaček	M			38	obráběč kovů	Bordovice	99	80	0
-8104	568431	1	3	901	6	Miloslav	Kožaný	M			47	podnikatel	Bordovice	99	80	0
-8104	568431	1	3	901	7	Jiří	Najvar	M			39	obráběč kovů	Bordovice	99	80	0
-8104	568431	1	4	902	1	Miroslav	Raška	M			54	elektromontér	Bordovice	99	80	0
-8104	568431	1	4	902	2	Alice	Pustějovská	F			40	referentka	Bordovice	99	80	0
-8104	568431	1	4	902	3	Pavel	Londa	M			61	brusič	Bordovice	99	80	0
-8104	568431	1	4	902	4	Simona	Londová	F			28	mateřská dovolená	Bordovice	99	80	0
-8104	568431	1	4	902	5	Zbyněk	Jurek	M			34	zámečník	Bordovice	99	80	0
-8104	568431	1	4	902	6	Drahomíra	Huvarová	F			55	ředitelka mateřské školy	Bordovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8104	568431	1	1	7	1	Zdeněk	Caisberger	Mgr.		64	důchodce	Bordovice	99	7	0	M
+8104	568431	1	2	1	1	Rudolf	Střalka			57	televizní opravář	Bordovice	99	1	0	M
+8104	568431	1	3	901	1	Bohumila	Trčková	Ing.		61	starostka	Bordovice	99	80	0	F
+8104	568431	1	4	902	1	Miroslav	Raška			54	elektromontér	Bordovice	99	80	0	M
+8104	568431	1	1	7	2	Vladimír	Haluška			60	důchodce	Bordovice	99	7	0	M
+8104	568431	1	2	1	2	Cyril	Pařenica			58	invalidní důchodce	Bordovice	99	1	0	M
+8104	568431	1	3	901	2	Vojtěch	Pavel	Ing.		56	lesní správce	Bordovice	99	80	0	M
+8104	568431	1	4	902	2	Alice	Pustějovská			40	referentka	Bordovice	99	80	0	F
+8104	568431	1	1	7	3	Eva	Marková			52	technik	Bordovice	99	7	0	F
+8104	568431	1	2	1	3	Jan	Rek			27	elektromechanik	Bordovice	99	1	0	M
+8104	568431	1	3	901	3	Libuše	Sosenková			44	mistrová odborného výcviku	Bordovice	99	80	0	F
+8104	568431	1	4	902	3	Pavel	Londa			61	brusič	Bordovice	99	80	0	M
+8104	568431	1	1	7	4	Albín	Lichnovský			52	podnikatel	Bordovice	99	7	0	M
+8104	568431	1	2	1	4	Eduard	Bordovský			29	svářeč	Bordovice	99	1	0	M
+8104	568431	1	3	901	4	Josef	Kostelník			43	mechanik	Bordovice	99	80	0	M
+8104	568431	1	4	902	4	Simona	Londová			28	mateřská dovolená	Bordovice	99	80	0	F
+8104	568431	1	2	1	5	Pavel	Machynka			31	dělník	Bordovice	99	1	0	M
+8104	568431	1	3	901	5	Tomáš	Špaček			38	obráběč kovů	Bordovice	99	80	0	M
+8104	568431	1	4	902	5	Zbyněk	Jurek			34	zámečník	Bordovice	99	80	0	M
+8104	568431	1	3	901	6	Miloslav	Kožaný			47	podnikatel	Bordovice	99	80	0	M
+8104	568431	1	4	902	6	Drahomíra	Huvarová			55	ředitelka mateřské školy	Bordovice	99	80	0	F
+8104	568431	1	3	901	7	Jiří	Najvar			39	obráběč kovů	Bordovice	99	80	0	M

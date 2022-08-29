@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2109	538671	1	1	801	1	Rudolf	Novotný	M			52	úředník	Přezletice	99	80	0
-2109	538671	1	2	53	1	Veronika	VRECIONOVÁ	F	Ing.		45	starostka obce	Přezletice	53	53	0
-2109	538671	1	2	53	2	Cyril	NEUMANN	M	Ing.		51	publicista	Přezletice	53	53	0
-2109	538671	1	2	53	3	Milan	DVOŘÁK	M	Ing.		60	geodet	Přezletice	99	53	0
-2109	538671	1	2	53	4	Taťána	PANÝROVÁ	F	Ing.		47	živnostník	Přezletice	99	53	0
-2109	538671	1	2	53	5	Jan	KOUDELKA	M			30	burzovní makléř	Přezletice	53	53	0
-2109	538671	1	2	53	6	Petra	KOPÁČOVÁ	F		DiS.	33	evidentka	Přezletice	99	53	0
-2109	538671	1	2	53	7	Pavel	MILOTA	M			38	stavební technik	Přezletice	53	53	0
-2109	538671	1	2	53	8	Pavel	HEINSCH	M			58	podnikatel	Přezletice	99	53	0
-2109	538671	1	2	53	9	František	BULA	M	Ing.		57	technik	Přezletice	53	53	0
-2109	538671	1	3	901	1	Ludmila	Červínová	F	Ing.		43	v domácnosti	Přezletice	99	80	0
-2109	538671	1	3	901	2	Olga	Hanzlíková	F			64	v důchodu	Přezletice	99	80	0
-2109	538671	1	3	901	3	Tomáš	Mesner	M			33	dispečer dopravy	Přezletice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2109	538671	1	1	801	1	Rudolf	Novotný			52	úředník	Přezletice	99	80	0	M
+2109	538671	1	2	53	1	Veronika	VRECIONOVÁ	Ing.		45	starostka obce	Přezletice	53	53	0	F
+2109	538671	1	3	901	1	Ludmila	Červínová	Ing.		43	v domácnosti	Přezletice	99	80	0	F
+2109	538671	1	2	53	2	Cyril	NEUMANN	Ing.		51	publicista	Přezletice	53	53	0	M
+2109	538671	1	3	901	2	Olga	Hanzlíková			64	v důchodu	Přezletice	99	80	0	F
+2109	538671	1	2	53	3	Milan	DVOŘÁK	Ing.		60	geodet	Přezletice	99	53	0	M
+2109	538671	1	3	901	3	Tomáš	Mesner			33	dispečer dopravy	Přezletice	99	80	0	M
+2109	538671	1	2	53	4	Taťána	PANÝROVÁ	Ing.		47	živnostník	Přezletice	99	53	0	F
+2109	538671	1	2	53	5	Jan	KOUDELKA			30	burzovní makléř	Přezletice	53	53	0	M
+2109	538671	1	2	53	6	Petra	KOPÁČOVÁ		DiS.	33	evidentka	Přezletice	99	53	0	F
+2109	538671	1	2	53	7	Pavel	MILOTA			38	stavební technik	Přezletice	53	53	0	M
+2109	538671	1	2	53	8	Pavel	HEINSCH			58	podnikatel	Přezletice	99	53	0	M
+2109	538671	1	2	53	9	František	BULA	Ing.		57	technik	Přezletice	53	53	0	M

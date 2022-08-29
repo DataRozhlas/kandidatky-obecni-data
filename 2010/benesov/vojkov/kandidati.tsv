@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	530891	1	1	901	1	Miroslav	Babický	M	Ing.		55	technik	Bezmíř	99	80	0
-2101	530891	1	1	901	2	Jan	Hulan	M			50	technik	Vojkov	99	80	0
-2101	530891	1	1	901	3	Jaroslav	Kříž	M			57	podnikatel	Zahrádka	99	80	0
-2101	530891	1	1	901	4	Zdeňka	Skálová	F			58	účetní	Zahrádka	99	80	0
-2101	530891	1	1	901	5	Tomáš	Dráb	M			34	technik	Křenovice	99	80	0
-2101	530891	1	1	901	6	Zdeněk	Paták	M			29	podnikatel	Minartice	99	80	0
-2101	530891	1	1	901	7	Stanislava	Podzimková	F			47	sanitární sestra	Sledovice	99	80	0
-2101	530891	1	1	901	8	Karel	Jirásek	M	Ing.		70	důchodce	Vojkov	99	80	0
-2101	530891	1	2	902	1	František	Baťha	M			46	seřizovač	Vojkov	99	80	0
-2101	530891	1	2	902	2	Ludmila	Vítová	F			36	podnikatelka	Minartice	99	80	0
-2101	530891	1	2	902	3	Dagmar	Jarůšková	F			52	referentka	Vojkov	99	80	0
-2101	530891	1	2	902	4	Zdeněk	Chomout	M			66	důchodce	Podolí	99	80	0
-2101	530891	1	2	902	5	Radka	Chomoutová	F			46	vychovatelka	Sledovice	99	80	0
-2101	530891	1	2	902	6	Věra	Tymešová	F			57	soc. pracovnice	Křenovice	99	80	0
-2101	530891	1	2	902	7	Josef	Burian	M			60	důchodce	Podolí	99	80	0
-2101	530891	1	2	902	8	Eva	Králová	F			38	kuchařka	Bezmíř	99	80	0
-2101	530891	1	2	902	9	Hana	Peterková	F			55	administr. pracovnice	Vojkov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	530891	1	1	901	1	Miroslav	Babický	Ing.		55	technik	Bezmíř	99	80	0	M
+2101	530891	1	2	902	1	František	Baťha			46	seřizovač	Vojkov	99	80	0	M
+2101	530891	1	1	901	2	Jan	Hulan			50	technik	Vojkov	99	80	0	M
+2101	530891	1	2	902	2	Ludmila	Vítová			36	podnikatelka	Minartice	99	80	0	F
+2101	530891	1	1	901	3	Jaroslav	Kříž			57	podnikatel	Zahrádka	99	80	0	M
+2101	530891	1	2	902	3	Dagmar	Jarůšková			52	referentka	Vojkov	99	80	0	F
+2101	530891	1	1	901	4	Zdeňka	Skálová			58	účetní	Zahrádka	99	80	0	F
+2101	530891	1	2	902	4	Zdeněk	Chomout			66	důchodce	Podolí	99	80	0	M
+2101	530891	1	1	901	5	Tomáš	Dráb			34	technik	Křenovice	99	80	0	M
+2101	530891	1	2	902	5	Radka	Chomoutová			46	vychovatelka	Sledovice	99	80	0	F
+2101	530891	1	1	901	6	Zdeněk	Paták			29	podnikatel	Minartice	99	80	0	M
+2101	530891	1	2	902	6	Věra	Tymešová			57	soc. pracovnice	Křenovice	99	80	0	F
+2101	530891	1	1	901	7	Stanislava	Podzimková			47	sanitární sestra	Sledovice	99	80	0	F
+2101	530891	1	2	902	7	Josef	Burian			60	důchodce	Podolí	99	80	0	M
+2101	530891	1	1	901	8	Karel	Jirásek	Ing.		70	důchodce	Vojkov	99	80	0	M
+2101	530891	1	2	902	8	Eva	Králová			38	kuchařka	Bezmíř	99	80	0	F
+2101	530891	1	2	902	9	Hana	Peterková			55	administr. pracovnice	Vojkov	99	80	0	F

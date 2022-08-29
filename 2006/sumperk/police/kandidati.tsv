@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	540731	1	1	7	1	Květoslav	Urbášek	M			52	zemědělský podnikatel	Police	7	7	0
-7105	540731	1	1	7	2	Milan	Horký	M			42	skladník	Police	7	7	0
-7105	540731	1	1	7	3	Lukáš	Kopp	M			29	vedoucí skladu	Police	99	7	0
-7105	540731	1	1	7	4	Milan	Langer	M			39	soukromý podnikatel	Police	99	7	0
-7105	540731	1	1	7	5	Pavel	Hloušek	M			35	státní zaměstnanec	Police	99	7	0
-7105	540731	1	1	7	6	Pavel	Fajt	M			37	soukromý podnikatel	Police	99	7	0
-7105	540731	1	1	7	7	Helena	Musilová	F			55	dělnice	Police	99	7	0
-7105	540731	1	2	901	1	Josef	Polák	M			50	dělník	Police	99	80	0
-7105	540731	1	2	901	2	Pavel	Polách	M			34	vedoucí	Police	99	80	0
-7105	540731	1	2	901	3	Miroslav	Gronych	M			55	dělník	Police	99	80	0
-7105	540731	1	2	901	4	Antonín	Novák	M			46	dělník	Police	99	80	0
-7105	540731	1	2	901	5	Zdenek	Janků	M			55	dělník	Police	99	80	0
-7105	540731	1	2	901	6	Jaroslav	Verner	M			51	technik	Police	99	80	0
-7105	540731	1	3	83	1	Karel	Hloch	M	Ing.		53	vedoucí výroby	Police	99	83	0
-7105	540731	1	3	83	2	Slavomír	Musil	M			54	dělník	Police	83	83	0
-7105	540731	1	3	83	3	Josef	Chudoba	M			43	soukromý podnikatel	Police	99	83	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	540731	1	1	7	1	Květoslav	Urbášek			52	zemědělský podnikatel	Police	7	7	0	M
+7105	540731	1	2	901	1	Josef	Polák			50	dělník	Police	99	80	0	M
+7105	540731	1	3	83	1	Karel	Hloch	Ing.		53	vedoucí výroby	Police	99	83	0	M
+7105	540731	1	1	7	2	Milan	Horký			42	skladník	Police	7	7	0	M
+7105	540731	1	2	901	2	Pavel	Polách			34	vedoucí	Police	99	80	0	M
+7105	540731	1	3	83	2	Slavomír	Musil			54	dělník	Police	83	83	0	M
+7105	540731	1	1	7	3	Lukáš	Kopp			29	vedoucí skladu	Police	99	7	0	M
+7105	540731	1	2	901	3	Miroslav	Gronych			55	dělník	Police	99	80	0	M
+7105	540731	1	3	83	3	Josef	Chudoba			43	soukromý podnikatel	Police	99	83	0	M
+7105	540731	1	1	7	4	Milan	Langer			39	soukromý podnikatel	Police	99	7	0	M
+7105	540731	1	2	901	4	Antonín	Novák			46	dělník	Police	99	80	0	M
+7105	540731	1	1	7	5	Pavel	Hloušek			35	státní zaměstnanec	Police	99	7	0	M
+7105	540731	1	2	901	5	Zdenek	Janků			55	dělník	Police	99	80	0	M
+7105	540731	1	1	7	6	Pavel	Fajt			37	soukromý podnikatel	Police	99	7	0	M
+7105	540731	1	2	901	6	Jaroslav	Verner			51	technik	Police	99	80	0	M
+7105	540731	1	1	7	7	Helena	Musilová			55	dělnice	Police	99	7	0	F

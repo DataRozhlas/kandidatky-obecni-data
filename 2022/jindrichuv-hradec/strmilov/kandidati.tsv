@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	547239	1	1	766	1	Miloš	Sedlák	M			50	OSVČ	Strmilov	99	766	A
-3103	547239	1	1	766	2	Filip	Kubák	M			33	OSVČ	Strmilov	99	766	A
-3103	547239	1	1	766	3	Lukáš	Kubů	M			38	technik	Česká Olešná	99	766	A
-3103	547239	1	1	766	4	Věra	Semotánová	F			60	ředitelka	Strmilov	99	766	A
-3103	547239	1	1	766	5	Zdeněk	Kubák	M			62	OSVČ	Strmilov	99	766	A
-3103	547239	1	1	766	6	Johanna Victoria	Karenová	F	Dipl. Arch.		63	OSVČ	Palupín	99	766	A
-3103	547239	1	1	766	7	František	Vosolsobě	M			57	dělník	Strmilov	99	766	A
-3103	547239	1	1	766	8	Karel	Frühauf	M			60	nástrojař	Palupín	99	766	A
-3103	547239	1	1	766	9	Tomáš	Tuček	M			33	kameník	Strmilov	99	766	A
-3103	547239	1	1	766	10	Milena	Michálková	F			57	pedagožka	Strmilov	99	766	A
-3103	547239	1	1	766	11	Ivana	Barešová	F		DiS.	36	pedagožka	Strmilov	99	766	A
-3103	547239	1	1	766	12	Ivana	Kramerová	F			53	ekonomka	Strmilov	99	766	A
-3103	547239	1	1	766	13	Zdeněk	Popelka	M			32	OSVČ	Strmilov	99	766	A
-3103	547239	1	1	766	14	Adam	Zich	M			39	OSVČ	Strmilov	99	766	A
-3103	547239	1	1	766	15	Martin	Vácha	M			45	OSVČ	Malý Jeníkov	99	766	A
-3103	547239	1	2	901	1	Martin	Novák	M			51	starosta města	Strmilov	99	80	A
-3103	547239	1	2	901	2	Pavel	Štěrba	M			48	místostarosta města	Strmilov	99	80	A
-3103	547239	1	2	901	3	Lubomír	Kozák	M			64	důchodce	Strmilov	99	80	A
-3103	547239	1	2	901	4	Tomáš	Kučera	M			44	OSVČ	Strmilov	99	80	A
-3103	547239	1	2	901	5	Luboš	Nečeda	M			30	učitel ZŠ	Strmilov	99	80	A
-3103	547239	1	2	901	6	Vladimíra	Kučerová	F			45	sociální pracovnice	Česká Olešná	99	80	A
-3103	547239	1	2	901	7	Jiří	Přibyl	M	Ing.		45	státní zaměstnanec	Strmilov	99	80	A
-3103	547239	1	2	901	8	Jan	Nesporý	M			48	montér údržby PZ	Strmilov	99	80	A
-3103	547239	1	2	901	9	Irena	Razimová	F			52	mistrová výroby	Strmilov	99	80	A
-3103	547239	1	2	901	10	Zuzana	Semotánová	F			42	zdravotní sestra	Strmilov	99	80	A
-3103	547239	1	2	901	11	Martin	Lehejček	M			31	reprodukční fotograf	Strmilov	99	80	A
-3103	547239	1	2	901	12	Jiří	Dohnal	M			52	řidič	Strmilov	99	80	A
-3103	547239	1	2	901	13	Jan	Jůn	M			71	důchodce	Strmilov	99	80	A
-3103	547239	1	2	901	14	Zdeněk	Zeman	M			66	důchodce	Strmilov	99	80	A
-3103	547239	1	2	901	15	Zdeněk	Švehla	M			66	důchodce	Strmilov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	547239	1	1	766	1	Miloš	Sedlák			50	OSVČ	Strmilov	99	766	A	M
+3103	547239	1	2	901	1	Martin	Novák			51	starosta města	Strmilov	99	80	A	M
+3103	547239	1	1	766	2	Filip	Kubák			33	OSVČ	Strmilov	99	766	A	M
+3103	547239	1	2	901	2	Pavel	Štěrba			48	místostarosta města	Strmilov	99	80	A	M
+3103	547239	1	1	766	3	Lukáš	Kubů			38	technik	Česká Olešná	99	766	A	M
+3103	547239	1	2	901	3	Lubomír	Kozák			64	důchodce	Strmilov	99	80	A	M
+3103	547239	1	1	766	4	Věra	Semotánová			60	ředitelka	Strmilov	99	766	A	F
+3103	547239	1	2	901	4	Tomáš	Kučera			44	OSVČ	Strmilov	99	80	A	M
+3103	547239	1	1	766	5	Zdeněk	Kubák			62	OSVČ	Strmilov	99	766	A	M
+3103	547239	1	2	901	5	Luboš	Nečeda			30	učitel ZŠ	Strmilov	99	80	A	M
+3103	547239	1	1	766	6	Johanna Victoria	Karenová	Dipl. Arch.		63	OSVČ	Palupín	99	766	A	F
+3103	547239	1	2	901	6	Vladimíra	Kučerová			45	sociální pracovnice	Česká Olešná	99	80	A	F
+3103	547239	1	1	766	7	František	Vosolsobě			57	dělník	Strmilov	99	766	A	M
+3103	547239	1	2	901	7	Jiří	Přibyl	Ing.		45	státní zaměstnanec	Strmilov	99	80	A	M
+3103	547239	1	1	766	8	Karel	Frühauf			60	nástrojař	Palupín	99	766	A	M
+3103	547239	1	2	901	8	Jan	Nesporý			48	montér údržby PZ	Strmilov	99	80	A	M
+3103	547239	1	1	766	9	Tomáš	Tuček			33	kameník	Strmilov	99	766	A	M
+3103	547239	1	2	901	9	Irena	Razimová			52	mistrová výroby	Strmilov	99	80	A	F
+3103	547239	1	1	766	10	Milena	Michálková			57	pedagožka	Strmilov	99	766	A	F
+3103	547239	1	2	901	10	Zuzana	Semotánová			42	zdravotní sestra	Strmilov	99	80	A	F
+3103	547239	1	1	766	11	Ivana	Barešová		DiS.	36	pedagožka	Strmilov	99	766	A	F
+3103	547239	1	2	901	11	Martin	Lehejček			31	reprodukční fotograf	Strmilov	99	80	A	M
+3103	547239	1	1	766	12	Ivana	Kramerová			53	ekonomka	Strmilov	99	766	A	F
+3103	547239	1	2	901	12	Jiří	Dohnal			52	řidič	Strmilov	99	80	A	M
+3103	547239	1	1	766	13	Zdeněk	Popelka			32	OSVČ	Strmilov	99	766	A	M
+3103	547239	1	2	901	13	Jan	Jůn			71	důchodce	Strmilov	99	80	A	M
+3103	547239	1	1	766	14	Adam	Zich			39	OSVČ	Strmilov	99	766	A	M
+3103	547239	1	2	901	14	Zdeněk	Zeman			66	důchodce	Strmilov	99	80	A	M
+3103	547239	1	1	766	15	Martin	Vácha			45	OSVČ	Malý Jeníkov	99	766	A	M
+3103	547239	1	2	901	15	Zdeněk	Švehla			66	důchodce	Strmilov	99	80	A	M

@@ -1,32 +1,32 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	571491	1	1	470	1	Leoš	Kaplan	M			49	strojník cihlářské výroby, místostarosta města Hrochův Týnec	Hrochův Týnec	99	166	A
-5301	571491	1	1	470	2	Petr	Voženílek	M			63	referent správy majetku výstavby	Stíčany	99	80	A
-5301	571491	1	1	470	3	Jiří	Novotný	M			61	technik, starosta SDH Blížňovice	Blížňovice	99	80	A
-5301	571491	1	1	470	4	Tereza	Štursová	F	Bc.		29	OSVČ, Adelaine hope	Blansko	99	80	A
-5301	571491	1	1	470	5	Marian	Víšek	M			24	OSVČ	Skalice	99	80	A
-5301	571491	1	1	470	6	Martin	Vlk	M			44	vývoj software	Hrochův Týnec	99	80	A
-5301	571491	1	1	470	7	Aleš	Vašek	M	Mgr.		50	státní zaměstnanec	Hrochův Týnec	99	80	A
-5301	571491	1	1	470	8	Aleš	Chaloupecký	M			43	mistr odborného výcviku	Stíčany	99	80	A
-5301	571491	1	1	470	9	Jiří	Boháč	M			43	odborný pracovník KIS, HZS PK	Stíčany	99	80	A
-5301	571491	1	1	470	10	Martin	Souček	M			50	OSVČ, předseda ŠK ALEA Hrochův Týnec	Hrochův Týnec	99	80	A
-5301	571491	1	1	470	11	Tomáš	Káva	M			35	vedoucí oddělení poptávky a obchodu, starosta SDH Hrochův Týnec	Hrochův Týnec	99	80	A
-5301	571491	1	2	53	1	Tomáš	Douda	M	Ing.	DiS.	38	projektový manažer, živnostník	Hrochův Týnec	99	53	A
-5301	571491	1	2	53	2	Zdeněk	Rejl	M	Ing.		72	důchodce	Hrochův Týnec	99	53	A
-5301	571491	1	2	53	3	Petr	Plachý	M			59	noční hlídač, OSVČ	Blížňovice	53	53	A
-5301	571491	1	2	53	4	Cyril	Dvořák	M			59	provozní dělník	Blížňovice	99	53	A
-5301	571491	1	2	53	5	Jozef	Čelinák	M			68	důchodce	Hrochův Týnec	99	53	A
-5301	571491	1	2	53	6	Simona	Lašáková	F			55	operátorka ve výrobě	Hrochův Týnec	99	53	A
-5301	571491	1	2	53	7	Eva	Plachá	F			74	důchodkyně	Blížňovice	99	53	A
-5301	571491	1	2	53	8	Stanislav	Špaček	M			38	kuchař	Hrochův Týnec	99	53	A
-5301	571491	1	2	53	9	Marcela	Rejlová Tomínová	F			61	operátorka ve výrobě	Hrochův Týnec	99	53	A
-5301	571491	1	3	1	1	Petr	Schejbal	M	Ing.		57	starosta	Hrochův Týnec	1	1	A
-5301	571491	1	3	1	2	Michal	Beran	M			47	OSVČ	Hrochův Týnec	99	1	A
-5301	571491	1	3	1	3	Václav	Pohorský	M	Ing.		42	projektant	Hrochův Týnec	99	1	A
-5301	571491	1	3	1	4	Vojtěch	Velínský	M			38	zdravotnický záchranář	Hrochův Týnec	99	1	A
-5301	571491	1	3	1	5	Milan	Nosil	M			55	výpravčí SŽ s. o.	Stíčany	99	1	A
-5301	571491	1	3	1	6	Veronika	Bakešová	F	Mgr.		37	učitelka pro I. stupeň ZŠ	Stíčany	99	1	A
-5301	571491	1	3	1	7	Iva	Korejtková	F			43	vedoucí skladu	Hrochův Týnec	99	1	A
-5301	571491	1	3	1	8	Jan	Kobosil	M	Ing.		59	OSVČ - projektant	Hrochův Týnec	99	1	A
-5301	571491	1	3	1	9	Ladislav	Dufek	M		DiS.	38	hasič - velitel družstva, HZS Pardubického kraje	Hrochův Týnec	99	1	A
-5301	571491	1	3	1	10	Vladimír	Bakeš	M			65	důchodce	Hrochův Týnec	1	1	A
-5301	571491	1	3	1	11	Marie	Hoskovcová	F			64	dámská krejčová	Hrochův Týnec	1	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	571491	1	1	470	1	Leoš	Kaplan			49	strojník cihlářské výroby, místostarosta města Hrochův Týnec	Hrochův Týnec	99	166	A	M
+5301	571491	1	2	53	1	Tomáš	Douda	Ing.	DiS.	38	projektový manažer, živnostník	Hrochův Týnec	99	53	A	M
+5301	571491	1	3	1	1	Petr	Schejbal	Ing.		57	starosta	Hrochův Týnec	1	1	A	M
+5301	571491	1	1	470	2	Petr	Voženílek			63	referent správy majetku výstavby	Stíčany	99	80	A	M
+5301	571491	1	2	53	2	Zdeněk	Rejl	Ing.		72	důchodce	Hrochův Týnec	99	53	A	M
+5301	571491	1	3	1	2	Michal	Beran			47	OSVČ	Hrochův Týnec	99	1	A	M
+5301	571491	1	1	470	3	Jiří	Novotný			61	technik, starosta SDH Blížňovice	Blížňovice	99	80	A	M
+5301	571491	1	2	53	3	Petr	Plachý			59	noční hlídač, OSVČ	Blížňovice	53	53	A	M
+5301	571491	1	3	1	3	Václav	Pohorský	Ing.		42	projektant	Hrochův Týnec	99	1	A	M
+5301	571491	1	1	470	4	Tereza	Štursová	Bc.		29	OSVČ, Adelaine hope	Blansko	99	80	A	F
+5301	571491	1	2	53	4	Cyril	Dvořák			59	provozní dělník	Blížňovice	99	53	A	M
+5301	571491	1	3	1	4	Vojtěch	Velínský			38	zdravotnický záchranář	Hrochův Týnec	99	1	A	M
+5301	571491	1	1	470	5	Marian	Víšek			24	OSVČ	Skalice	99	80	A	M
+5301	571491	1	2	53	5	Jozef	Čelinák			68	důchodce	Hrochův Týnec	99	53	A	M
+5301	571491	1	3	1	5	Milan	Nosil			55	výpravčí SŽ s. o.	Stíčany	99	1	A	M
+5301	571491	1	1	470	6	Martin	Vlk			44	vývoj software	Hrochův Týnec	99	80	A	M
+5301	571491	1	2	53	6	Simona	Lašáková			55	operátorka ve výrobě	Hrochův Týnec	99	53	A	F
+5301	571491	1	3	1	6	Veronika	Bakešová	Mgr.		37	učitelka pro I. stupeň ZŠ	Stíčany	99	1	A	F
+5301	571491	1	1	470	7	Aleš	Vašek	Mgr.		50	státní zaměstnanec	Hrochův Týnec	99	80	A	M
+5301	571491	1	2	53	7	Eva	Plachá			74	důchodkyně	Blížňovice	99	53	A	F
+5301	571491	1	3	1	7	Iva	Korejtková			43	vedoucí skladu	Hrochův Týnec	99	1	A	F
+5301	571491	1	1	470	8	Aleš	Chaloupecký			43	mistr odborného výcviku	Stíčany	99	80	A	M
+5301	571491	1	2	53	8	Stanislav	Špaček			38	kuchař	Hrochův Týnec	99	53	A	M
+5301	571491	1	3	1	8	Jan	Kobosil	Ing.		59	OSVČ - projektant	Hrochův Týnec	99	1	A	M
+5301	571491	1	1	470	9	Jiří	Boháč			43	odborný pracovník KIS, HZS PK	Stíčany	99	80	A	M
+5301	571491	1	2	53	9	Marcela	Rejlová Tomínová			61	operátorka ve výrobě	Hrochův Týnec	99	53	A	F
+5301	571491	1	3	1	9	Ladislav	Dufek		DiS.	38	hasič - velitel družstva, HZS Pardubického kraje	Hrochův Týnec	99	1	A	M
+5301	571491	1	1	470	10	Martin	Souček			50	OSVČ, předseda ŠK ALEA Hrochův Týnec	Hrochův Týnec	99	80	A	M
+5301	571491	1	3	1	10	Vladimír	Bakeš			65	důchodce	Hrochův Týnec	1	1	A	M
+5301	571491	1	1	470	11	Tomáš	Káva			35	vedoucí oddělení poptávky a obchodu, starosta SDH Hrochův Týnec	Hrochův Týnec	99	80	A	M
+5301	571491	1	3	1	11	Marie	Hoskovcová			64	dámská krejčová	Hrochův Týnec	1	1	A	F

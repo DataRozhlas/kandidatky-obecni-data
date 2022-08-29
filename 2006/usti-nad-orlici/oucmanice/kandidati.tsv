@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	580741	1	1	901	1	Zdeněk	Veselý	M			54	technolog	Oucmanice	53	80	0
-5304	580741	1	1	901	2	Jana	Motlová	F			50	osoba samost.výdělečně činná	Oucmanice	99	80	0
-5304	580741	1	1	901	3	Leoš	Minář	M			35	inženýr železniční dopravy	Oucmanice	99	80	0
-5304	580741	1	1	901	4	Zbyšek	Houdek	M			41	technik	Oucmanice	99	80	0
-5304	580741	1	1	901	5	Milan	Moravec	M			26	řidič	Oucmanice	99	80	0
-5304	580741	1	1	901	6	Josef	Roubínek	M	Ing.		59	důchodce	Oucmanice	99	80	0
-5304	580741	1	2	902	1	Jan	Suchánek	M			38	agronom	Oucmanice	99	80	0
-5304	580741	1	2	902	2	Jiří	Dostál	M			40	truhlář	Oucmanice	99	80	0
-5304	580741	1	2	902	3	Eva	Olivová	F			48	osoba samost. výdělečně činná	Oucmanice	99	80	0
-5304	580741	1	2	902	4	Milena	Čermáková	F	PharmDr.		27	magistra	Oucmanice	99	80	0
-5304	580741	1	2	902	5	Josef	Pavlíček	M			41	traktorista	Oucmanice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	580741	1	1	901	1	Zdeněk	Veselý			54	technolog	Oucmanice	53	80	0	M
+5304	580741	1	2	902	1	Jan	Suchánek			38	agronom	Oucmanice	99	80	0	M
+5304	580741	1	1	901	2	Jana	Motlová			50	osoba samost.výdělečně činná	Oucmanice	99	80	0	F
+5304	580741	1	2	902	2	Jiří	Dostál			40	truhlář	Oucmanice	99	80	0	M
+5304	580741	1	1	901	3	Leoš	Minář			35	inženýr železniční dopravy	Oucmanice	99	80	0	M
+5304	580741	1	2	902	3	Eva	Olivová			48	osoba samost. výdělečně činná	Oucmanice	99	80	0	F
+5304	580741	1	1	901	4	Zbyšek	Houdek			41	technik	Oucmanice	99	80	0	M
+5304	580741	1	2	902	4	Milena	Čermáková	PharmDr.		27	magistra	Oucmanice	99	80	0	F
+5304	580741	1	1	901	5	Milan	Moravec			26	řidič	Oucmanice	99	80	0	M
+5304	580741	1	2	902	5	Josef	Pavlíček			41	traktorista	Oucmanice	99	80	0	M
+5304	580741	1	1	901	6	Josef	Roubínek	Ing.		59	důchodce	Oucmanice	99	80	0	M

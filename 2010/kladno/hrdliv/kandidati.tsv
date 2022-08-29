@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	532363	1	1	901	1	Radek	RŮŽIČKA	M	Ing.		34	vedoucí projektant	Hrdlív	99	80	0
-2103	532363	1	1	901	2	Roman	JANYŠ	M			59	zaměstnanec	Hrdlív	99	80	0
-2103	532363	1	1	901	3	Lenka	KOČINSKÁ	F	Mgr.		37	konzultant	Hrdlív	99	80	0
-2103	532363	1	1	901	4	Michal	DAVID	M	Bc.		37	státní zaměstnanec	Hrdlív	99	80	0
-2103	532363	1	1	901	5	Stanislav	PELÁN	M			42	stavební technik	Hrdlív	99	80	0
-2103	532363	1	1	901	6	Petr	MIKEŠ	M	Ing.	Ph.D.	36	ředitel prodeje	Hrdlív	99	80	0
-2103	532363	1	1	901	7	Robin	ČERVENKA	M			23	provozní technik	Hrdlív	99	80	0
-2103	532363	1	1	901	8	Jan	SEDMÍK	M			34	provozní penzionu	Hrdlív	99	80	0
-2103	532363	1	2	47	1	Marie	ČERVENKOVÁ	F	Ing.		50	podnikatelka	Hrdlív	99	47	0
-2103	532363	1	2	47	2	František	RŮŽIČKA	M			59	mistr	Hrdlív	99	47	0
-2103	532363	1	2	47	3	Jolana	JELÍNKOVÁ	F			45	obch. zástupce	Hrdlív	99	47	0
-2103	532363	1	2	47	4	Miroslav	RŮŽIČKA	M			63	důchodce	Hrdlív	47	47	0
-2103	532363	1	2	47	5	Jiří	LHOTKA	M			69	důchodce	Hrdlív	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	532363	1	1	901	1	Radek	RŮŽIČKA	Ing.		34	vedoucí projektant	Hrdlív	99	80	0	M
+2103	532363	1	2	47	1	Marie	ČERVENKOVÁ	Ing.		50	podnikatelka	Hrdlív	99	47	0	F
+2103	532363	1	1	901	2	Roman	JANYŠ			59	zaměstnanec	Hrdlív	99	80	0	M
+2103	532363	1	2	47	2	František	RŮŽIČKA			59	mistr	Hrdlív	99	47	0	M
+2103	532363	1	1	901	3	Lenka	KOČINSKÁ	Mgr.		37	konzultant	Hrdlív	99	80	0	F
+2103	532363	1	2	47	3	Jolana	JELÍNKOVÁ			45	obch. zástupce	Hrdlív	99	47	0	F
+2103	532363	1	1	901	4	Michal	DAVID	Bc.		37	státní zaměstnanec	Hrdlív	99	80	0	M
+2103	532363	1	2	47	4	Miroslav	RŮŽIČKA			63	důchodce	Hrdlív	47	47	0	M
+2103	532363	1	1	901	5	Stanislav	PELÁN			42	stavební technik	Hrdlív	99	80	0	M
+2103	532363	1	2	47	5	Jiří	LHOTKA			69	důchodce	Hrdlív	47	47	0	M
+2103	532363	1	1	901	6	Petr	MIKEŠ	Ing.	Ph.D.	36	ředitel prodeje	Hrdlív	99	80	0	M
+2103	532363	1	1	901	7	Robin	ČERVENKA			23	provozní technik	Hrdlív	99	80	0	M
+2103	532363	1	1	901	8	Jan	SEDMÍK			34	provozní penzionu	Hrdlív	99	80	0	M

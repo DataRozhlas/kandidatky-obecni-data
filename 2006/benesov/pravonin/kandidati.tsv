@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	530476	1	1	901	1	Ladislav	Hejný	M			40	starosta	Pravonín	99	80	0
-2101	530476	1	1	901	2	František	Studnička	M			36	podnikatel	Pravonín	99	80	0
-2101	530476	1	1	901	3	Pavel	Lejček	M			43	technik	Pravonín-Tisek	99	80	0
-2101	530476	1	1	901	4	Jiří	Slavata	M			36	seřizovač	Pravonín-Křížov	99	80	0
-2101	530476	1	1	901	5	Jaroslava	Havlíková	F			42	manažer	Pravonín	99	80	0
-2101	530476	1	1	901	6	Jarmila	Kodedová	F			48	účetní	Pravonín	99	80	0
-2101	530476	1	1	901	7	Vladimír	Veselý	M			53	obráběč kovů	Pravonín-Karhule	99	80	0
-2101	530476	1	1	901	8	Zdeněk	Vopálka	M			31	soukromý zemědělec	Pravonín-Tisek	99	80	0
-2101	530476	1	1	901	9	Vladimíra	Filipová	F			33	účetní	Pravonín	99	80	0
-2101	530476	1	1	901	10	Bohuslav	Klimpera	M			39	řidič	Pravonín-Křížov	99	80	0
-2101	530476	1	1	901	11	Petr	Adam	M			39	řidič	Pravonín-Křížov	99	80	0
-2101	530476	1	2	903	1	Josef	Růžička	M			58	vedoucí výroby	Pravonín-Buková	99	80	0
-2101	530476	1	2	903	2	Jiří	Peterka	M			53	živnostník	Pravonín	99	80	0
-2101	530476	1	2	903	3	Miloslav	Kosík	M			51	dělník	Pravonín	99	80	0
-2101	530476	1	2	903	4	Pavel	Duda	M			58	mistr	Pravonín	99	80	0
-2101	530476	1	2	903	5	Jiří	Brabenec	M			50	zemědělec	Pravonín-Křížov	99	80	0
-2101	530476	1	2	903	6	Jiří	Kopecký	M			35	soukromý podnikatel	Pravonín-Buková	99	80	0
-2101	530476	1	2	903	7	František	Kulík	M			49	soukromý zemědělec	Pravonín-Tisek	99	80	0
-2101	530476	1	2	903	8	Zdeněk	Borek	M			34	řidič	Pravonín	99	80	0
-2101	530476	1	2	903	9	Václav	Ždych	M			36	dělník	Pravonín	99	80	0
-2101	530476	1	2	903	10	Stanislav	Kupsa	M			34	dělník	Pravonín	99	80	0
-2101	530476	1	2	903	11	David	Kopecký	M			25	soukromý podnikatel	Pravonín	99	80	0
-2101	530476	1	3	902	1	Zdeněk	Studnička	M			66	důchodce	Pravonín	99	80	0
-2101	530476	1	3	902	2	Hana	Ondráková	F			45	úsek kontroly kvality	Pravonín	99	80	0
-2101	530476	1	3	902	3	Miroslava	Ondráková	F			42	učitelka	Pravonín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	530476	1	1	901	1	Ladislav	Hejný			40	starosta	Pravonín	99	80	0	M
+2101	530476	1	2	903	1	Josef	Růžička			58	vedoucí výroby	Pravonín-Buková	99	80	0	M
+2101	530476	1	3	902	1	Zdeněk	Studnička			66	důchodce	Pravonín	99	80	0	M
+2101	530476	1	1	901	2	František	Studnička			36	podnikatel	Pravonín	99	80	0	M
+2101	530476	1	2	903	2	Jiří	Peterka			53	živnostník	Pravonín	99	80	0	M
+2101	530476	1	3	902	2	Hana	Ondráková			45	úsek kontroly kvality	Pravonín	99	80	0	F
+2101	530476	1	1	901	3	Pavel	Lejček			43	technik	Pravonín-Tisek	99	80	0	M
+2101	530476	1	2	903	3	Miloslav	Kosík			51	dělník	Pravonín	99	80	0	M
+2101	530476	1	3	902	3	Miroslava	Ondráková			42	učitelka	Pravonín	99	80	0	F
+2101	530476	1	1	901	4	Jiří	Slavata			36	seřizovač	Pravonín-Křížov	99	80	0	M
+2101	530476	1	2	903	4	Pavel	Duda			58	mistr	Pravonín	99	80	0	M
+2101	530476	1	1	901	5	Jaroslava	Havlíková			42	manažer	Pravonín	99	80	0	F
+2101	530476	1	2	903	5	Jiří	Brabenec			50	zemědělec	Pravonín-Křížov	99	80	0	M
+2101	530476	1	1	901	6	Jarmila	Kodedová			48	účetní	Pravonín	99	80	0	F
+2101	530476	1	2	903	6	Jiří	Kopecký			35	soukromý podnikatel	Pravonín-Buková	99	80	0	M
+2101	530476	1	1	901	7	Vladimír	Veselý			53	obráběč kovů	Pravonín-Karhule	99	80	0	M
+2101	530476	1	2	903	7	František	Kulík			49	soukromý zemědělec	Pravonín-Tisek	99	80	0	M
+2101	530476	1	1	901	8	Zdeněk	Vopálka			31	soukromý zemědělec	Pravonín-Tisek	99	80	0	M
+2101	530476	1	2	903	8	Zdeněk	Borek			34	řidič	Pravonín	99	80	0	M
+2101	530476	1	1	901	9	Vladimíra	Filipová			33	účetní	Pravonín	99	80	0	F
+2101	530476	1	2	903	9	Václav	Ždych			36	dělník	Pravonín	99	80	0	M
+2101	530476	1	1	901	10	Bohuslav	Klimpera			39	řidič	Pravonín-Křížov	99	80	0	M
+2101	530476	1	2	903	10	Stanislav	Kupsa			34	dělník	Pravonín	99	80	0	M
+2101	530476	1	1	901	11	Petr	Adam			39	řidič	Pravonín-Křížov	99	80	0	M
+2101	530476	1	2	903	11	David	Kopecký			25	soukromý podnikatel	Pravonín	99	80	0	M

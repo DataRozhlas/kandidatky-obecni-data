@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	570745	1	1	901	1	Karel	Novák	M	Bc.	DiS.	36	ekonom	Roudnice	99	80	0
-5201	570745	1	1	901	2	Jan	Kuric	M			37	soukromý zemědělec	Roudnice	99	80	0
-5201	570745	1	1	901	3	Milena	Bártová	F			40	účetní	Roudnice	99	80	0
-5201	570745	1	1	901	4	Iveta	Žáková	F			48	hlavní účetní	Roudnice	99	80	0
-5201	570745	1	1	901	5	Miloslav	Klapka	M			53	soukromý zemědělec	Roudnice	99	80	0
-5201	570745	1	1	901	6	Milan	Charbuský	M			31	soukromý zemědělec	Roudnice	99	80	0
-5201	570745	1	1	901	7	Václav	Krupka	M			39	živnostník	Roudnice	99	80	0
-5201	570745	1	1	901	8	Radoslav	Macháček	M			41	pracovník v zemědělství	Roudnice	99	80	0
-5201	570745	1	1	901	9	Zdeněk	Košťál	M			56	pracovník v zemědělství	Roudnice	99	80	0
-5201	570745	1	2	902	1	Jana	Rejlová	F	Ing.		44	manažerka	Roudnice	99	80	0
-5201	570745	1	2	902	2	Svatopluk	Kněžour	M	Bc.		41	investiční technik	Roudnice	99	80	0
-5201	570745	1	2	902	3	Drahomíra	Charbuská	F			59	účetní	Roudnice	99	80	0
-5201	570745	1	2	902	4	Martina	Kopřivová	F			40	učitelka v MŠ	Roudnice	99	80	0
-5201	570745	1	2	902	5	David	Klapka	M			33	truhlář	Roudnice	99	80	0
-5201	570745	1	2	902	6	Radek	Žilka	M			40	makléř	Roudnice	99	80	0
-5201	570745	1	2	902	7	Miroslav	Vlasák	M			45	svářeč	Roudnice	99	80	0
-5201	570745	1	2	902	8	Luděk	Hrdina	M			44	soukromý zemědělec	Roudnice	99	80	0
-5201	570745	1	2	902	9	Ladislava	Koudelková	F			48	ošetřovatelka dojnic	Roudnice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	570745	1	1	901	1	Karel	Novák	Bc.	DiS.	36	ekonom	Roudnice	99	80	0	M
+5201	570745	1	2	902	1	Jana	Rejlová	Ing.		44	manažerka	Roudnice	99	80	0	F
+5201	570745	1	1	901	2	Jan	Kuric			37	soukromý zemědělec	Roudnice	99	80	0	M
+5201	570745	1	2	902	2	Svatopluk	Kněžour	Bc.		41	investiční technik	Roudnice	99	80	0	M
+5201	570745	1	1	901	3	Milena	Bártová			40	účetní	Roudnice	99	80	0	F
+5201	570745	1	2	902	3	Drahomíra	Charbuská			59	účetní	Roudnice	99	80	0	F
+5201	570745	1	1	901	4	Iveta	Žáková			48	hlavní účetní	Roudnice	99	80	0	F
+5201	570745	1	2	902	4	Martina	Kopřivová			40	učitelka v MŠ	Roudnice	99	80	0	F
+5201	570745	1	1	901	5	Miloslav	Klapka			53	soukromý zemědělec	Roudnice	99	80	0	M
+5201	570745	1	2	902	5	David	Klapka			33	truhlář	Roudnice	99	80	0	M
+5201	570745	1	1	901	6	Milan	Charbuský			31	soukromý zemědělec	Roudnice	99	80	0	M
+5201	570745	1	2	902	6	Radek	Žilka			40	makléř	Roudnice	99	80	0	M
+5201	570745	1	1	901	7	Václav	Krupka			39	živnostník	Roudnice	99	80	0	M
+5201	570745	1	2	902	7	Miroslav	Vlasák			45	svářeč	Roudnice	99	80	0	M
+5201	570745	1	1	901	8	Radoslav	Macháček			41	pracovník v zemědělství	Roudnice	99	80	0	M
+5201	570745	1	2	902	8	Luděk	Hrdina			44	soukromý zemědělec	Roudnice	99	80	0	M
+5201	570745	1	1	901	9	Zdeněk	Košťál			56	pracovník v zemědělství	Roudnice	99	80	0	M
+5201	570745	1	2	902	9	Ladislava	Koudelková			48	ošetřovatelka dojnic	Roudnice	99	80	0	F

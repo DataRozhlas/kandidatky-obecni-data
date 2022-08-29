@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	564851	1	1	901	1	Miloš	Suchý	M			55	vedoucí údržby	Horní Beřkovice	99	80	0
-4203	564851	1	1	901	2	Václav	Fousek	M			60	vedoucí provozního oddělení	Horní Beřkovice	99	80	0
-4203	564851	1	1	901	3	Jaroslav	Křepínský	M	Ing.		51	ekonom	Horní Beřkovice	99	80	0
-4203	564851	1	1	901	4	Jaroslava	Pangrácová	F			65	důchodkyně	Horní Beřkovice	99	80	0
-4203	564851	1	1	901	5	Michaela	Auerová	F	Mgr.		59	klinický psycholog	Horní Beřkovice	99	80	0
-4203	564851	1	1	901	6	Libor	Klement	M			47	zdravotník	Horní Beřkovice	99	80	0
-4203	564851	1	1	901	7	Martina	Adámková	F	MUDr.		35	lékařka	Horní Beřkovice	99	80	0
-4203	564851	1	1	901	8	Lenka	Syrová	F			41	zdravotní sestra	Horní Beřkovice	99	80	0
-4203	564851	1	1	901	9	Zdeněk	Antoš	M			41	podnikatel	Horní Beřkovice	99	80	0
-4203	564851	1	1	901	10	Petr	Braunstein	M			42	jednatel společnosti	Horní Beřkovice	99	80	0
-4203	564851	1	1	901	11	Miroslav	Kalenský	M			60	zdravotník	Horní Beřkovice	99	80	0
-4203	564851	1	1	901	12	Zdeňka	Došková	F			52	sanitářka	Horní Beřkovice	99	80	0
-4203	564851	1	1	901	13	Jindřiška	Koubová	F			57	sanitářka	Horní Beřkovice	99	80	0
-4203	564851	1	1	901	14	Jaroslav	Hoch	M			56	stavební dělník	Horní Beřkovice	99	80	0
-4203	564851	1	1	901	15	Pavel	Mataj	M			44	podnikatel	Horní Beřkovice	99	80	0
-4203	564851	1	2	387	1	Pavel	Pospíšek	M			62	důchodce	Horní Beřkovice	47	47	0
-4203	564851	1	2	387	2	Dana	Němcová	F			50	zdravotní sestra	Horní Beřkovice	99	80	0
-4203	564851	1	2	387	3	Milan	Zelený	M	Ing.		47	stavitel	Horní Beřkovice	99	80	0
-4203	564851	1	2	387	4	Petra	Poláková	F			33	úřednice	Horní Beřkovice	99	80	0
-4203	564851	1	2	387	5	Petr	Fengl	M			54	dopravce	Horní Beřkovice	99	80	0
-4203	564851	1	2	387	6	Václav	Hubáček	M			55	zedník	Horní Beřkovice	47	47	0
-4203	564851	1	2	387	7	Marie	Sűssenmilchová	F			61	zdravotní sestra	Horní Beřkovice	47	47	0
-4203	564851	1	2	387	8	Marie	Malá	F			63	důchodkyně	Horní Beřkovice	47	47	0
-4203	564851	1	2	387	9	Jan	Husar	M			38	technik	Horní Beřkovice	99	80	0
-4203	564851	1	2	387	10	Jiří	Cinybulk	M			49	údržbář	Horní Beřkovice	99	80	0
-4203	564851	1	2	387	11	Miloš	Filler	M			50	živnostník	Horní Beřkovice	99	80	0
-4203	564851	1	2	387	12	Jiří	Doležal	M			50	zedník	Horní Beřkovice	99	80	0
-4203	564851	1	2	387	13	Alena	Němcová	F			55	podnikatelka	Horní Beřkovice	99	80	0
-4203	564851	1	2	387	14	Dagmar	Dvořáková	F			53	zdravotní sestra	Horní Beřkovice	99	80	0
-4203	564851	1	2	387	15	Pavel	Petr	M			62	důchodce	Horní Beřkovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	564851	1	1	901	1	Miloš	Suchý			55	vedoucí údržby	Horní Beřkovice	99	80	0	M
+4203	564851	1	2	387	1	Pavel	Pospíšek			62	důchodce	Horní Beřkovice	47	47	0	M
+4203	564851	1	1	901	2	Václav	Fousek			60	vedoucí provozního oddělení	Horní Beřkovice	99	80	0	M
+4203	564851	1	2	387	2	Dana	Němcová			50	zdravotní sestra	Horní Beřkovice	99	80	0	F
+4203	564851	1	1	901	3	Jaroslav	Křepínský	Ing.		51	ekonom	Horní Beřkovice	99	80	0	M
+4203	564851	1	2	387	3	Milan	Zelený	Ing.		47	stavitel	Horní Beřkovice	99	80	0	M
+4203	564851	1	1	901	4	Jaroslava	Pangrácová			65	důchodkyně	Horní Beřkovice	99	80	0	F
+4203	564851	1	2	387	4	Petra	Poláková			33	úřednice	Horní Beřkovice	99	80	0	F
+4203	564851	1	1	901	5	Michaela	Auerová	Mgr.		59	klinický psycholog	Horní Beřkovice	99	80	0	F
+4203	564851	1	2	387	5	Petr	Fengl			54	dopravce	Horní Beřkovice	99	80	0	M
+4203	564851	1	1	901	6	Libor	Klement			47	zdravotník	Horní Beřkovice	99	80	0	M
+4203	564851	1	2	387	6	Václav	Hubáček			55	zedník	Horní Beřkovice	47	47	0	M
+4203	564851	1	1	901	7	Martina	Adámková	MUDr.		35	lékařka	Horní Beřkovice	99	80	0	F
+4203	564851	1	2	387	7	Marie	Sűssenmilchová			61	zdravotní sestra	Horní Beřkovice	47	47	0	F
+4203	564851	1	1	901	8	Lenka	Syrová			41	zdravotní sestra	Horní Beřkovice	99	80	0	F
+4203	564851	1	2	387	8	Marie	Malá			63	důchodkyně	Horní Beřkovice	47	47	0	F
+4203	564851	1	1	901	9	Zdeněk	Antoš			41	podnikatel	Horní Beřkovice	99	80	0	M
+4203	564851	1	2	387	9	Jan	Husar			38	technik	Horní Beřkovice	99	80	0	M
+4203	564851	1	1	901	10	Petr	Braunstein			42	jednatel společnosti	Horní Beřkovice	99	80	0	M
+4203	564851	1	2	387	10	Jiří	Cinybulk			49	údržbář	Horní Beřkovice	99	80	0	M
+4203	564851	1	1	901	11	Miroslav	Kalenský			60	zdravotník	Horní Beřkovice	99	80	0	M
+4203	564851	1	2	387	11	Miloš	Filler			50	živnostník	Horní Beřkovice	99	80	0	M
+4203	564851	1	1	901	12	Zdeňka	Došková			52	sanitářka	Horní Beřkovice	99	80	0	F
+4203	564851	1	2	387	12	Jiří	Doležal			50	zedník	Horní Beřkovice	99	80	0	M
+4203	564851	1	1	901	13	Jindřiška	Koubová			57	sanitářka	Horní Beřkovice	99	80	0	F
+4203	564851	1	2	387	13	Alena	Němcová			55	podnikatelka	Horní Beřkovice	99	80	0	F
+4203	564851	1	1	901	14	Jaroslav	Hoch			56	stavební dělník	Horní Beřkovice	99	80	0	M
+4203	564851	1	2	387	14	Dagmar	Dvořáková			53	zdravotní sestra	Horní Beřkovice	99	80	0	F
+4203	564851	1	1	901	15	Pavel	Mataj			44	podnikatel	Horní Beřkovice	99	80	0	M
+4203	564851	1	2	387	15	Pavel	Petr			62	důchodce	Horní Beřkovice	99	80	0	M

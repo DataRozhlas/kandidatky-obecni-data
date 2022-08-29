@@ -1,38 +1,38 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	597988	1	1	47	1	Jiří	Křivák	M			53	instalatér	Zátor	47	47	0
-8101	597988	1	1	47	2	Karel	Vávra	M	Ing.		35	podnikatel	Zátor	99	47	0
-8101	597988	1	1	47	3	Marie	Rušajová	F			56	kuchařka	Zátor	99	47	0
-8101	597988	1	1	47	4	Milan	Belej	M			54	údržbář	Loučky	47	47	0
-8101	597988	1	1	47	5	Jiří	Němec	M			62	řidič	Loučky	99	47	0
-8101	597988	1	1	47	6	Jozef	Velčický	M			60	dělník	Zátor	47	47	0
-8101	597988	1	1	47	7	Lubomír	Petr	M			50	dělník	Loučky	47	47	0
-8101	597988	1	2	129	1	Salome	Sýkorová	F	Ing.		42	starostka	Loučky	129	129	0
-8101	597988	1	2	129	2	Miloslav	Ovčáček	M			48	podnikatel	Zátor	99	129	0
-8101	597988	1	2	129	3	Jiří	Albrecht	M	Ing.		42	geodet	Loučky	99	129	0
-8101	597988	1	2	129	4	Jaroslav	Otisk	M			44	státní zaměstnanec	Loučky	99	129	0
-8101	597988	1	2	129	5	Jiřina	Míčková	F			42	státní zaměstnanec	Loučky	99	129	0
-8101	597988	1	2	129	6	Petr	Gajdoš	M			59	důchodce	Loučky	99	129	0
-8101	597988	1	2	129	7	Stanislav	Češek	M			42	podnikatel	Zátor	99	129	0
-8101	597988	1	2	129	8	Ivana	Brychtová	F	Mgr.		45	učitelka	Loučky	99	129	0
-8101	597988	1	2	129	9	Romana	Lantová	F	Mgr.		34	učitelka	Zátor	99	129	0
-8101	597988	1	3	88	1	Rudolf	Doričák	M			50	zedník	Loučky	99	88	0
-8101	597988	1	3	88	2	Václav	Křivák	M			47	elektrikář	Loučky	99	88	0
-8101	597988	1	3	88	3	Tomáš	Kroupa	M			38	OSVČ	Loučky	99	88	0
-8101	597988	1	3	88	4	Milan	Spáčil	M			68	důchodce	Loučky	99	88	0
-8101	597988	1	3	88	5	Anička	Hudecová	F			40	agronom	Zátor	99	88	0
-8101	597988	1	3	88	6	Renata	Kuchtová	F			39	dělnice	Loučky	99	88	0
-8101	597988	1	3	88	7	Milan	Cwiertka	M			28	dělník	Zátor	99	88	0
-8101	597988	1	3	88	8	Jiří	Schlegel	M			51	dělník	Loučky	99	88	0
-8101	597988	1	3	88	9	Jarmila	Trčková	F			41	soustružnice	Loučky	99	88	0
-8101	597988	1	4	53	1	Dalibor	Vávra	M			47	podnikatel	Loučky	53	53	0
-8101	597988	1	4	53	2	Pavel	Guňka	M			46	zedník	Loučky	99	53	0
-8101	597988	1	4	53	3	Jaroslav	Míček	M			50	podnikatel	Loučky	99	53	0
-8101	597988	1	4	53	4	Pavel	Štangler	M			45	podnikatel	Zátor	99	53	0
-8101	597988	1	4	53	5	Stanislav	Řezník	M			43	řidič	Loučky	99	53	0
-8101	597988	1	4	53	6	Helena	Štefková	F			49	učitelka MŠ	Zátor	99	53	0
-8101	597988	1	4	53	7	Josef	Růžička	M			53	podnikatel	Loučky	99	53	0
-8101	597988	1	4	53	8	Marek	Krhovják	M			33	podnikatel	Loučky	99	53	0
-8101	597988	1	4	53	9	Petr	Skřivánek	M	Mgr.		46	učitel	Loučky	99	53	0
-8101	597988	1	5	1	1	Josef	Albrecht	M	Ing.		64	důchodce	Zátor	1	1	0
-8101	597988	1	5	1	2	Zdeněk	Kadlčík	M	Ing.		57	projektant	Loučky	99	1	0
-8101	597988	1	5	1	3	Sylvie	Lizoňová	F			52	ekonomka	Loučky	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	597988	1	1	47	1	Jiří	Křivák			53	instalatér	Zátor	47	47	0	M
+8101	597988	1	2	129	1	Salome	Sýkorová	Ing.		42	starostka	Loučky	129	129	0	F
+8101	597988	1	3	88	1	Rudolf	Doričák			50	zedník	Loučky	99	88	0	M
+8101	597988	1	4	53	1	Dalibor	Vávra			47	podnikatel	Loučky	53	53	0	M
+8101	597988	1	5	1	1	Josef	Albrecht	Ing.		64	důchodce	Zátor	1	1	0	M
+8101	597988	1	1	47	2	Karel	Vávra	Ing.		35	podnikatel	Zátor	99	47	0	M
+8101	597988	1	2	129	2	Miloslav	Ovčáček			48	podnikatel	Zátor	99	129	0	M
+8101	597988	1	3	88	2	Václav	Křivák			47	elektrikář	Loučky	99	88	0	M
+8101	597988	1	4	53	2	Pavel	Guňka			46	zedník	Loučky	99	53	0	M
+8101	597988	1	5	1	2	Zdeněk	Kadlčík	Ing.		57	projektant	Loučky	99	1	0	M
+8101	597988	1	1	47	3	Marie	Rušajová			56	kuchařka	Zátor	99	47	0	F
+8101	597988	1	2	129	3	Jiří	Albrecht	Ing.		42	geodet	Loučky	99	129	0	M
+8101	597988	1	3	88	3	Tomáš	Kroupa			38	OSVČ	Loučky	99	88	0	M
+8101	597988	1	4	53	3	Jaroslav	Míček			50	podnikatel	Loučky	99	53	0	M
+8101	597988	1	5	1	3	Sylvie	Lizoňová			52	ekonomka	Loučky	99	1	0	F
+8101	597988	1	1	47	4	Milan	Belej			54	údržbář	Loučky	47	47	0	M
+8101	597988	1	2	129	4	Jaroslav	Otisk			44	státní zaměstnanec	Loučky	99	129	0	M
+8101	597988	1	3	88	4	Milan	Spáčil			68	důchodce	Loučky	99	88	0	M
+8101	597988	1	4	53	4	Pavel	Štangler			45	podnikatel	Zátor	99	53	0	M
+8101	597988	1	1	47	5	Jiří	Němec			62	řidič	Loučky	99	47	0	M
+8101	597988	1	2	129	5	Jiřina	Míčková			42	státní zaměstnanec	Loučky	99	129	0	F
+8101	597988	1	3	88	5	Anička	Hudecová			40	agronom	Zátor	99	88	0	F
+8101	597988	1	4	53	5	Stanislav	Řezník			43	řidič	Loučky	99	53	0	M
+8101	597988	1	1	47	6	Jozef	Velčický			60	dělník	Zátor	47	47	0	M
+8101	597988	1	2	129	6	Petr	Gajdoš			59	důchodce	Loučky	99	129	0	M
+8101	597988	1	3	88	6	Renata	Kuchtová			39	dělnice	Loučky	99	88	0	F
+8101	597988	1	4	53	6	Helena	Štefková			49	učitelka MŠ	Zátor	99	53	0	F
+8101	597988	1	1	47	7	Lubomír	Petr			50	dělník	Loučky	47	47	0	M
+8101	597988	1	2	129	7	Stanislav	Češek			42	podnikatel	Zátor	99	129	0	M
+8101	597988	1	3	88	7	Milan	Cwiertka			28	dělník	Zátor	99	88	0	M
+8101	597988	1	4	53	7	Josef	Růžička			53	podnikatel	Loučky	99	53	0	M
+8101	597988	1	2	129	8	Ivana	Brychtová	Mgr.		45	učitelka	Loučky	99	129	0	F
+8101	597988	1	3	88	8	Jiří	Schlegel			51	dělník	Loučky	99	88	0	M
+8101	597988	1	4	53	8	Marek	Krhovják			33	podnikatel	Loučky	99	53	0	M
+8101	597988	1	2	129	9	Romana	Lantová	Mgr.		34	učitelka	Zátor	99	129	0	F
+8101	597988	1	3	88	9	Jarmila	Trčková			41	soustružnice	Loučky	99	88	0	F
+8101	597988	1	4	53	9	Petr	Skřivánek	Mgr.		46	učitel	Loučky	99	53	0	M

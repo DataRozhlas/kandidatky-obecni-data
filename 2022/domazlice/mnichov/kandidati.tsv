@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	566292	1	1	901	1	Karel	Černý	M			67	důchodce	Mnichov	99	80	A
-3201	566292	1	1	901	2	David	Heindl	M			43	podnikatel	Pivoň	99	80	A
-3201	566292	1	1	901	3	Martina	Strenková	F			47	žena v domácnosti	Pivoň	99	80	A
-3201	566292	1	1	901	4	Jana	Karlová	F			42	poštovní doručovatelka	Mnichov	99	80	A
-3201	566292	1	1	901	5	Marek	Paták	M			57	zubní lékař	Vranov	99	80	A
-3201	566292	1	1	901	6	Naděžda	Jehličková	F			48	invalidní důchodce	Mnichov	99	80	A
-3201	566292	1	1	901	7	Stanislav	Veit	M			65	důchodce	Mnichov	99	80	A
-3201	566292	1	2	902	1	Josef	Johánek	M			72	důchodce	Mnichov	99	80	A
-3201	566292	1	2	902	2	Jiří	Hronec	M			50	mistr výroby	Mnichov	99	80	A
-3201	566292	1	2	902	3	Martin	Johánek	M			46	mechanizátor	Mnichov	99	80	A
-3201	566292	1	2	902	4	Radek	Mil	M			47	podnikatel	Pivoň	99	80	A
-3201	566292	1	2	902	5	Miroslav	Kovařík	M			45	operátor výroby	Mnichov	99	80	A
-3201	566292	1	2	902	6	Miroslav	Kneifl	M			40	zedník	Mnichov	99	80	A
-3201	566292	1	2	902	7	Karel	Ferko	M			32	dělník	Mnichov	99	80	A
-3201	566292	1	2	902	8	Jaroslav	Benda	M			64	důchodce	Mnichov	99	80	A
-3201	566292	1	2	902	9	Josef	Váchal	M			68	důchodce	Vranov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	566292	1	1	901	1	Karel	Černý			67	důchodce	Mnichov	99	80	A	M
+3201	566292	1	2	902	1	Josef	Johánek			72	důchodce	Mnichov	99	80	A	M
+3201	566292	1	1	901	2	David	Heindl			43	podnikatel	Pivoň	99	80	A	M
+3201	566292	1	2	902	2	Jiří	Hronec			50	mistr výroby	Mnichov	99	80	A	M
+3201	566292	1	1	901	3	Martina	Strenková			47	žena v domácnosti	Pivoň	99	80	A	F
+3201	566292	1	2	902	3	Martin	Johánek			46	mechanizátor	Mnichov	99	80	A	M
+3201	566292	1	1	901	4	Jana	Karlová			42	poštovní doručovatelka	Mnichov	99	80	A	F
+3201	566292	1	2	902	4	Radek	Mil			47	podnikatel	Pivoň	99	80	A	M
+3201	566292	1	1	901	5	Marek	Paták			57	zubní lékař	Vranov	99	80	A	M
+3201	566292	1	2	902	5	Miroslav	Kovařík			45	operátor výroby	Mnichov	99	80	A	M
+3201	566292	1	1	901	6	Naděžda	Jehličková			48	invalidní důchodce	Mnichov	99	80	A	F
+3201	566292	1	2	902	6	Miroslav	Kneifl			40	zedník	Mnichov	99	80	A	M
+3201	566292	1	1	901	7	Stanislav	Veit			65	důchodce	Mnichov	99	80	A	M
+3201	566292	1	2	902	7	Karel	Ferko			32	dělník	Mnichov	99	80	A	M
+3201	566292	1	2	902	8	Jaroslav	Benda			64	důchodce	Mnichov	99	80	A	M
+3201	566292	1	2	902	9	Josef	Váchal			68	důchodce	Vranov	99	80	A	M

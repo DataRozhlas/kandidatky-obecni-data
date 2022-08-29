@@ -1,32 +1,32 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4201	562530	1	1	1114	1	Tomáš	Doležal	M			44	správce stadionu	Horní Chřibská	1114	1114	A
-4201	562530	1	1	1114	2	Michal	Doležal	M			24	pečovatel	Horní Chřibská	1114	1114	A
-4201	562530	1	1	1114	3	Petr	Doležal	M			50	zedník	Krásné Pole	99	1114	A
-4201	562530	1	1	1114	4	Eduard	Doležal	M			77	malíř	Horní Chřibská	99	1114	A
-4201	562530	1	2	901	1	Jaromír	Nepovím	M			46	místostarosta	Chřibská	99	80	A
-4201	562530	1	2	901	2	David	Blažek	M			37	obchodní zástupce	Chřibská	99	80	A
-4201	562530	1	2	901	3	Martin	Kalfus	M			46	obchodní zástupce	Horní Chřibská	99	80	A
-4201	562530	1	2	901	4	Richard	Nuska	M			48	provozní	Krásné Pole	99	80	A
-4201	562530	1	2	901	5	Michal	Šefara	M		DiS.	39	státní zaměstnanec	Chřibská	99	80	A
-4201	562530	1	2	901	6	Martina	Navrátilová	F	Bc.		34	učitelka	Chřibská	99	80	A
-4201	562530	1	2	901	7	Tomáš	Procházka	M			41	dělník	Chřibská	99	80	A
-4201	562530	1	2	901	8	Mirena	Švejdová	F			49	státní zaměstnanec	Chřibská	99	80	A
-4201	562530	1	2	901	9	Tomáš	Chochola	M			44	barvíř	Chřibská	99	80	A
-4201	562530	1	3	902	1	Jan	Machač	M			69	starosta	Chřibská	99	80	A
-4201	562530	1	3	902	2	Vít	Friml	M	Ing. Mgr.		55	OSVČ	Dolní Chřibská	99	80	A
-4201	562530	1	3	902	3	Věra	Musilová	F			54	zdravotní sestra	Chřibská	99	80	A
-4201	562530	1	3	902	4	Josef	Navrátil	M			71	důchodce	Chřibská	99	80	A
-4201	562530	1	3	902	5	Jaroslav	Martikán	M			53	vedoucí údržby	Chřibská	99	80	A
-4201	562530	1	3	902	6	Radek	Vindyš	M			44	svářeč	Dolní Chřibská	99	80	A
-4201	562530	1	3	902	7	Lukáš	Hejný	M			38	elektrikář	Krásné Pole	99	80	A
-4201	562530	1	3	902	8	Pavlína	Holendová	F			51	kuchařka	Krásné Pole	99	80	A
-4201	562530	1	3	902	9	Jaromír	Mocík	M			47	předák, diagnostik	Chřibská	99	80	A
-4201	562530	1	4	903	1	Jan	Machač	M	Ing.		49	podnikatel	Chřibská	99	80	A
-4201	562530	1	4	903	2	Miloš	Lukačovič	M			50	technik	Chřibská	99	80	A
-4201	562530	1	4	903	3	Michal	Škarvada	M	Ing.		52	svářecí inženýr	Chřibská	99	80	A
-4201	562530	1	4	903	4	Jan	Kunc	M			33	mistr	Chřibská	99	80	A
-4201	562530	1	4	903	5	Pavel	Šamko	M			37	dělník	Chřibská	99	80	A
-4201	562530	1	4	903	6	Josef	Bučko	M			40	dělník	Chřibská	99	80	A
-4201	562530	1	4	903	7	Jan	Holenda	M			25	vedoucí	Krásné Pole	99	80	A
-4201	562530	1	4	903	8	Lukáš	Novák	M			30	státní zaměstnanec	Chřibská	99	80	A
-4201	562530	1	4	903	9	Josef	Papoušek	M			40	podnikatel	Chřibská	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4201	562530	1	1	1114	1	Tomáš	Doležal			44	správce stadionu	Horní Chřibská	1114	1114	A	M
+4201	562530	1	2	901	1	Jaromír	Nepovím			46	místostarosta	Chřibská	99	80	A	M
+4201	562530	1	3	902	1	Jan	Machač			69	starosta	Chřibská	99	80	A	M
+4201	562530	1	4	903	1	Jan	Machač	Ing.		49	podnikatel	Chřibská	99	80	A	M
+4201	562530	1	1	1114	2	Michal	Doležal			24	pečovatel	Horní Chřibská	1114	1114	A	M
+4201	562530	1	2	901	2	David	Blažek			37	obchodní zástupce	Chřibská	99	80	A	M
+4201	562530	1	3	902	2	Vít	Friml	Ing. Mgr.		55	OSVČ	Dolní Chřibská	99	80	A	M
+4201	562530	1	4	903	2	Miloš	Lukačovič			50	technik	Chřibská	99	80	A	M
+4201	562530	1	1	1114	3	Petr	Doležal			50	zedník	Krásné Pole	99	1114	A	M
+4201	562530	1	2	901	3	Martin	Kalfus			46	obchodní zástupce	Horní Chřibská	99	80	A	M
+4201	562530	1	3	902	3	Věra	Musilová			54	zdravotní sestra	Chřibská	99	80	A	F
+4201	562530	1	4	903	3	Michal	Škarvada	Ing.		52	svářecí inženýr	Chřibská	99	80	A	M
+4201	562530	1	1	1114	4	Eduard	Doležal			77	malíř	Horní Chřibská	99	1114	A	M
+4201	562530	1	2	901	4	Richard	Nuska			48	provozní	Krásné Pole	99	80	A	M
+4201	562530	1	3	902	4	Josef	Navrátil			71	důchodce	Chřibská	99	80	A	M
+4201	562530	1	4	903	4	Jan	Kunc			33	mistr	Chřibská	99	80	A	M
+4201	562530	1	2	901	5	Michal	Šefara		DiS.	39	státní zaměstnanec	Chřibská	99	80	A	M
+4201	562530	1	3	902	5	Jaroslav	Martikán			53	vedoucí údržby	Chřibská	99	80	A	M
+4201	562530	1	4	903	5	Pavel	Šamko			37	dělník	Chřibská	99	80	A	M
+4201	562530	1	2	901	6	Martina	Navrátilová	Bc.		34	učitelka	Chřibská	99	80	A	F
+4201	562530	1	3	902	6	Radek	Vindyš			44	svářeč	Dolní Chřibská	99	80	A	M
+4201	562530	1	4	903	6	Josef	Bučko			40	dělník	Chřibská	99	80	A	M
+4201	562530	1	2	901	7	Tomáš	Procházka			41	dělník	Chřibská	99	80	A	M
+4201	562530	1	3	902	7	Lukáš	Hejný			38	elektrikář	Krásné Pole	99	80	A	M
+4201	562530	1	4	903	7	Jan	Holenda			25	vedoucí	Krásné Pole	99	80	A	M
+4201	562530	1	2	901	8	Mirena	Švejdová			49	státní zaměstnanec	Chřibská	99	80	A	F
+4201	562530	1	3	902	8	Pavlína	Holendová			51	kuchařka	Krásné Pole	99	80	A	F
+4201	562530	1	4	903	8	Lukáš	Novák			30	státní zaměstnanec	Chřibská	99	80	A	M
+4201	562530	1	2	901	9	Tomáš	Chochola			44	barvíř	Chřibská	99	80	A	M
+4201	562530	1	3	902	9	Jaromír	Mocík			47	předák, diagnostik	Chřibská	99	80	A	M
+4201	562530	1	4	903	9	Josef	Papoušek			40	podnikatel	Chřibská	99	80	A	M

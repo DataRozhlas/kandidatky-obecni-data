@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	568708	1	1	901	1	Václav	Lacina	M			31	IT specialista	Horní Krupá	99	80	0
-6101	568708	1	1	901	2	Michal	Štěpán	M			38	živnostník	Údolí	99	80	0
-6101	568708	1	1	901	3	Lucie	Šormová	F	Mgr.		36	sociální pracovnice	Horní Krupá	99	80	0
-6101	568708	1	1	901	4	Petr	Jindra	M			40	skladník	Horní Krupá	99	80	0
-6101	568708	1	1	901	5	Oldřich	Holoubek	M			46	živnostník	Horní Krupá	99	80	0
-6101	568708	1	1	901	6	Miloš	Jindra	M	Ing.		35	konstruktér	Horní Krupá	99	80	0
-6101	568708	1	1	901	7	Jitka	Doležalová	F	Bc.	DiS.	30	na mateřské dovolené	Horní Krupá	99	80	0
-6101	568708	1	2	53	1	Pavel	Jindra	M			58	živnostník	Horní Krupá	53	53	0
-6101	568708	1	2	53	2	Jaroslav	Čáp	M	Ing.	Ph.D.	37	zkušební inženýr	Horní Krupá	99	53	0
-6101	568708	1	2	53	3	Josef	Jelínek	M			53	starosta	Horní Krupá	99	53	0
-6101	568708	1	2	53	4	Jakub	Trachtulec	M			35	obchodní zástupce	Horní Krupá	99	53	0
-6101	568708	1	2	53	5	Pavel	Popek	M	Ing.		31	stavbyvedoucí	Horní Krupá	53	53	0
-6101	568708	1	2	53	6	Lada	Nováková	F	Mgr.		38	náměstek ošetřovatelké péče	Údolí	53	53	0
-6101	568708	1	2	53	7	Petr	Calta	M	Ing.		58	konstruktér	Horní Krupá	53	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	568708	1	1	901	1	Václav	Lacina			31	IT specialista	Horní Krupá	99	80	0	M
+6101	568708	1	2	53	1	Pavel	Jindra			58	živnostník	Horní Krupá	53	53	0	M
+6101	568708	1	1	901	2	Michal	Štěpán			38	živnostník	Údolí	99	80	0	M
+6101	568708	1	2	53	2	Jaroslav	Čáp	Ing.	Ph.D.	37	zkušební inženýr	Horní Krupá	99	53	0	M
+6101	568708	1	1	901	3	Lucie	Šormová	Mgr.		36	sociální pracovnice	Horní Krupá	99	80	0	F
+6101	568708	1	2	53	3	Josef	Jelínek			53	starosta	Horní Krupá	99	53	0	M
+6101	568708	1	1	901	4	Petr	Jindra			40	skladník	Horní Krupá	99	80	0	M
+6101	568708	1	2	53	4	Jakub	Trachtulec			35	obchodní zástupce	Horní Krupá	99	53	0	M
+6101	568708	1	1	901	5	Oldřich	Holoubek			46	živnostník	Horní Krupá	99	80	0	M
+6101	568708	1	2	53	5	Pavel	Popek	Ing.		31	stavbyvedoucí	Horní Krupá	53	53	0	M
+6101	568708	1	1	901	6	Miloš	Jindra	Ing.		35	konstruktér	Horní Krupá	99	80	0	M
+6101	568708	1	2	53	6	Lada	Nováková	Mgr.		38	náměstek ošetřovatelké péče	Údolí	53	53	0	F
+6101	568708	1	1	901	7	Jitka	Doležalová	Bc.	DiS.	30	na mateřské dovolené	Horní Krupá	99	80	0	F
+6101	568708	1	2	53	7	Petr	Calta	Ing.		58	konstruktér	Horní Krupá	53	53	0	M

@@ -1,38 +1,38 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4202	563200	1	1	53	1	Vladislav	Terešák	M			58	podnikatel	Málkov	53	53	A
-4202	563200	1	1	53	2	Ilona	Hrušková	F			57	zaměstnanec Městské policie Chomutov	Zelená	53	53	A
-4202	563200	1	1	53	3	Naděžda	Stuchlá	F			66	důchodce	Zelená	53	53	A
-4202	563200	1	1	53	4	Walter	Fiedler	M	Ing.		56	ředitel	Zelená	53	53	A
-4202	563200	1	1	53	5	Veronika	Terešáková	F	Mgr.		36	mateřská dovolená	Zelená	53	53	A
-4202	563200	1	1	53	6	Jiří	Stuchlý	M			68	důchodce	Zelená	53	53	A
-4202	563200	1	1	53	7	Eliška	Láníková	F	Ing.		29	báňský projektant	Zelená	99	53	A
-4202	563200	1	1	53	8	Jiří	Linke	M			33	vedoucí výroby	Zelená	99	53	A
-4202	563200	1	1	53	9	Olga	Kohlíková	F			53	zdravotní péče	Málkov	99	53	A
-4202	563200	1	2	801	1	Michal	Hertel	M			72	důchodce	Málkov	99	80	A
-4202	563200	1	3	902	1	Milan	Bursa	M			58	řidič	Zelená	99	80	A
-4202	563200	1	3	902	2	David	Minarik	M	Ing.		43	technik	Zelená	99	80	A
-4202	563200	1	3	902	3	Martina	Jelínková	F	Mgr.		37	zástupce ředitele umělecké školy	Zelená	99	80	A
-4202	563200	1	3	902	4	Eva	Mocková	F			66	zdravotní sestra	Zelená	99	80	A
-4202	563200	1	3	902	5	Luděk	Šil	M			47	skladník	Málkov	99	80	A
-4202	563200	1	3	902	6	Pavel	Mižička	M			46	řidič	Vysoká	99	80	A
-4202	563200	1	3	902	7	Věra	Kočová	F			51	OSVČ	Zelená	99	80	A
-4202	563200	1	3	902	8	Václav	Malý	M			44	vedoucí pekárny	Zelená	99	80	A
-4202	563200	1	3	902	9	Petr	Vlček	M			45	obráběč kovů	Zelená	99	80	A
-4202	563200	1	4	901	1	Josef	Egermann	M			68	starosta	Zelená	99	80	A
-4202	563200	1	4	901	2	Adéla	Vodrážková	F			50	učitelka odborného výcviku	Zelená	99	80	A
-4202	563200	1	4	901	3	Ivan	Pilík	M			54	poříčný	Zelená	99	80	A
-4202	563200	1	4	901	4	Zdeněk	Zachar	M			47	údržba obchodního centra	Málkov	99	80	A
-4202	563200	1	4	901	5	Hana	Oborná	F			49	pojišťovací poradce	Zelená	99	80	A
-4202	563200	1	4	901	6	Lukáš	Šroub	M			36	regionální ředitel Komerční banky	Zelená	99	80	A
-4202	563200	1	4	901	7	Vilém	Burian	M			33	asistent strážný psovod	Málkov	99	80	A
-4202	563200	1	4	901	8	Irena	Wiednerová	F			69	důchodce	Málkov	99	80	A
-4202	563200	1	4	901	9	Václav	Bendl	M			71	důchodce	Zelená	99	80	A
-4202	563200	1	5	903	1	Pavel	Červený	M	Ing.		43	area manager	Zelená	99	80	A
-4202	563200	1	5	903	2	Petr	Stránský	M			50	řidič	Zelená	99	80	A
-4202	563200	1	5	903	3	Vladimír	Kneř	M			45	quality manager	Zelená	99	80	A
-4202	563200	1	5	903	4	Zdeněk	Machatý	M	Ing.		47	technický vedoucí	Zelená	99	80	A
-4202	563200	1	5	903	5	Miroslav	Jurčík	M			71	důchodce	Zelená	99	80	A
-4202	563200	1	5	903	6	Lucie	Kneřová Dortová	F	Ing.		40	personalistka	Zelená	99	80	A
-4202	563200	1	5	903	7	Jan	Kozlík	M			44	strojník	Málkov	99	80	A
-4202	563200	1	5	903	8	Erik	Stacho	M			30	vedoucí skladu	Zelená	99	80	A
-4202	563200	1	5	903	9	Vlastimil	Fridrich	M		DiS.	47	učitel	Málkov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4202	563200	1	1	53	1	Vladislav	Terešák			58	podnikatel	Málkov	53	53	A	M
+4202	563200	1	2	801	1	Michal	Hertel			72	důchodce	Málkov	99	80	A	M
+4202	563200	1	3	902	1	Milan	Bursa			58	řidič	Zelená	99	80	A	M
+4202	563200	1	4	901	1	Josef	Egermann			68	starosta	Zelená	99	80	A	M
+4202	563200	1	5	903	1	Pavel	Červený	Ing.		43	area manager	Zelená	99	80	A	M
+4202	563200	1	1	53	2	Ilona	Hrušková			57	zaměstnanec Městské policie Chomutov	Zelená	53	53	A	F
+4202	563200	1	3	902	2	David	Minarik	Ing.		43	technik	Zelená	99	80	A	M
+4202	563200	1	4	901	2	Adéla	Vodrážková			50	učitelka odborného výcviku	Zelená	99	80	A	F
+4202	563200	1	5	903	2	Petr	Stránský			50	řidič	Zelená	99	80	A	M
+4202	563200	1	1	53	3	Naděžda	Stuchlá			66	důchodce	Zelená	53	53	A	F
+4202	563200	1	3	902	3	Martina	Jelínková	Mgr.		37	zástupce ředitele umělecké školy	Zelená	99	80	A	F
+4202	563200	1	4	901	3	Ivan	Pilík			54	poříčný	Zelená	99	80	A	M
+4202	563200	1	5	903	3	Vladimír	Kneř			45	quality manager	Zelená	99	80	A	M
+4202	563200	1	1	53	4	Walter	Fiedler	Ing.		56	ředitel	Zelená	53	53	A	M
+4202	563200	1	3	902	4	Eva	Mocková			66	zdravotní sestra	Zelená	99	80	A	F
+4202	563200	1	4	901	4	Zdeněk	Zachar			47	údržba obchodního centra	Málkov	99	80	A	M
+4202	563200	1	5	903	4	Zdeněk	Machatý	Ing.		47	technický vedoucí	Zelená	99	80	A	M
+4202	563200	1	1	53	5	Veronika	Terešáková	Mgr.		36	mateřská dovolená	Zelená	53	53	A	F
+4202	563200	1	3	902	5	Luděk	Šil			47	skladník	Málkov	99	80	A	M
+4202	563200	1	4	901	5	Hana	Oborná			49	pojišťovací poradce	Zelená	99	80	A	F
+4202	563200	1	5	903	5	Miroslav	Jurčík			71	důchodce	Zelená	99	80	A	M
+4202	563200	1	1	53	6	Jiří	Stuchlý			68	důchodce	Zelená	53	53	A	M
+4202	563200	1	3	902	6	Pavel	Mižička			46	řidič	Vysoká	99	80	A	M
+4202	563200	1	4	901	6	Lukáš	Šroub			36	regionální ředitel Komerční banky	Zelená	99	80	A	M
+4202	563200	1	5	903	6	Lucie	Kneřová Dortová	Ing.		40	personalistka	Zelená	99	80	A	F
+4202	563200	1	1	53	7	Eliška	Láníková	Ing.		29	báňský projektant	Zelená	99	53	A	F
+4202	563200	1	3	902	7	Věra	Kočová			51	OSVČ	Zelená	99	80	A	F
+4202	563200	1	4	901	7	Vilém	Burian			33	asistent strážný psovod	Málkov	99	80	A	M
+4202	563200	1	5	903	7	Jan	Kozlík			44	strojník	Málkov	99	80	A	M
+4202	563200	1	1	53	8	Jiří	Linke			33	vedoucí výroby	Zelená	99	53	A	M
+4202	563200	1	3	902	8	Václav	Malý			44	vedoucí pekárny	Zelená	99	80	A	M
+4202	563200	1	4	901	8	Irena	Wiednerová			69	důchodce	Málkov	99	80	A	F
+4202	563200	1	5	903	8	Erik	Stacho			30	vedoucí skladu	Zelená	99	80	A	M
+4202	563200	1	1	53	9	Olga	Kohlíková			53	zdravotní péče	Málkov	99	53	A	F
+4202	563200	1	3	902	9	Petr	Vlček			45	obráběč kovů	Zelená	99	80	A	M
+4202	563200	1	4	901	9	Václav	Bendl			71	důchodce	Zelená	99	80	A	M
+4202	563200	1	5	903	9	Vlastimil	Fridrich		DiS.	47	učitel	Málkov	99	80	A	M

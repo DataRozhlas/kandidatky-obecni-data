@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7201	588865	1	1	901	1	Jarmila	Cigánková	F			60	TH pracovník	Tetětice	99	80	0
-7201	588865	1	1	901	2	Ivana	Lejsalová	F			39	ved. prodejny	Počenice	99	80	0
-7201	588865	1	1	901	3	Vladimír	Zbořil	M			28	st. zaměstnanec	Tetětice	99	80	0
-7201	588865	1	1	901	4	Rudolf	Churý	M	Ing.		67	důchodce	Počenice	99	80	0
-7201	588865	1	1	901	5	Miroslava	Urbanová	F			56	dělnice	Tetětice	99	80	0
-7201	588865	1	1	901	6	Jana	Kučerová	F	Mgr.		49	st. zaměstnanec	Počenice	99	80	0
-7201	588865	1	1	901	7	Pavel	Svoboda	M			41	mechanizátor RV	Počenice	99	80	0
-7201	588865	1	1	901	8	Barbora	Bubeníčková	F			21	studentka VŠ	Tetětice	99	80	0
-7201	588865	1	1	901	9	Michaela	Churá	F			40	dělnice	Počenice	99	80	0
-7201	588865	1	2	47	1	Pavlína	Procházková	F			38	starostka obce	Počenice	99	47	0
-7201	588865	1	2	47	2	Zdeněk	Frkal	M	JUDr.		66	důchodce	Tetětice	47	47	0
-7201	588865	1	2	47	3	Libor	Novák	M			50	dělník	Počenice	99	47	0
-7201	588865	1	2	47	4	Hana	Nectoux Frkalová	F			41	mateřská dovolená	Tetětice	99	47	0
-7201	588865	1	2	47	5	Stanislava	Voždová	F			44	odborný referent	Počenice	99	47	0
-7201	588865	1	2	47	6	Jaroslav	Tichý	M			52	nezaměstnaný	Tetětice	99	47	0
-7201	588865	1	2	47	7	Oldřich	Holeček	M			53	dělník	Počenice	99	47	0
-7201	588865	1	2	47	8	Marek	Mach	M			37	dělník	Tetětice	99	47	0
-7201	588865	1	2	47	9	Lenka	Mrňková	F			43	dělnice	Počenice	99	47	0
-7201	588865	1	3	902	1	Jaromír	Pěnčík	M	Mgr.		29	zaměstnanec letecké společnosti	Počenice	99	80	0
-7201	588865	1	3	902	2	Jitka	Herodková	F	Bc.	DiS.,	30	státní zaměstnanec	Počenice	99	80	0
-7201	588865	1	3	902	3	Marie	Přecechtělová	F			47	dělnice	Počenice	99	80	0
-7201	588865	1	3	902	4	Josef	Večerka	M			55	státní zaměstnanec	Počenice	99	80	0
-7201	588865	1	3	902	5	František	Šedivý	M			24	OSVČ	Počenice	99	80	0
-7201	588865	1	3	902	6	Richard	Bubeníček	M			43	OSVČ	Počenice	99	80	0
-7201	588865	1	3	902	7	Libor	Štětina	M	Mgr.		43	státní zaměstnanec	Tetětice	99	80	0
-7201	588865	1	3	902	8	Marcel	Tichánek	M			30	OSVČ, dělník	Počenice	99	80	0
-7201	588865	1	3	902	9	Šárka	Králíková	F			19	cukrářka	Počenice	99	80	0
-7201	588865	1	4	1	1	Josef	Otevřel	M			43	technik	Počenice	1	1	0
-7201	588865	1	4	1	2	Iveta	Volková	F			41	poštovní doručovatelka	Počenice	1	1	0
-7201	588865	1	4	1	3	Martina	Vaňková	F			36	ošetřovatelka v živočišné výrobě	Počenice	99	1	0
-7201	588865	1	4	1	4	Pavel	Vybíral	M			19	student	Tetětice	99	1	0
-7201	588865	1	4	1	5	Pavlína	Chmelařová	F			36	účetní	Počenice	99	1	0
-7201	588865	1	4	1	6	Martina	Lepičová	F			42	účetní	Počenice	99	1	0
-7201	588865	1	4	1	7	Miloslava	Kullašová	F			51	zdravotní sestra	Tetětice	99	1	0
-7201	588865	1	4	1	8	Magdalena	Jurová	F			52	košíkářská dělnice	Počenice	99	1	0
-7201	588865	1	4	1	9	Jitka	Trávníčková	F			57	účetní	Počenice	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7201	588865	1	1	901	1	Jarmila	Cigánková			60	TH pracovník	Tetětice	99	80	0	F
+7201	588865	1	2	47	1	Pavlína	Procházková			38	starostka obce	Počenice	99	47	0	F
+7201	588865	1	3	902	1	Jaromír	Pěnčík	Mgr.		29	zaměstnanec letecké společnosti	Počenice	99	80	0	M
+7201	588865	1	4	1	1	Josef	Otevřel			43	technik	Počenice	1	1	0	M
+7201	588865	1	1	901	2	Ivana	Lejsalová			39	ved. prodejny	Počenice	99	80	0	F
+7201	588865	1	2	47	2	Zdeněk	Frkal	JUDr.		66	důchodce	Tetětice	47	47	0	M
+7201	588865	1	3	902	2	Jitka	Herodková	Bc.	DiS.,	30	státní zaměstnanec	Počenice	99	80	0	F
+7201	588865	1	4	1	2	Iveta	Volková			41	poštovní doručovatelka	Počenice	1	1	0	F
+7201	588865	1	1	901	3	Vladimír	Zbořil			28	st. zaměstnanec	Tetětice	99	80	0	M
+7201	588865	1	2	47	3	Libor	Novák			50	dělník	Počenice	99	47	0	M
+7201	588865	1	3	902	3	Marie	Přecechtělová			47	dělnice	Počenice	99	80	0	F
+7201	588865	1	4	1	3	Martina	Vaňková			36	ošetřovatelka v živočišné výrobě	Počenice	99	1	0	F
+7201	588865	1	1	901	4	Rudolf	Churý	Ing.		67	důchodce	Počenice	99	80	0	M
+7201	588865	1	2	47	4	Hana	Nectoux Frkalová			41	mateřská dovolená	Tetětice	99	47	0	F
+7201	588865	1	3	902	4	Josef	Večerka			55	státní zaměstnanec	Počenice	99	80	0	M
+7201	588865	1	4	1	4	Pavel	Vybíral			19	student	Tetětice	99	1	0	M
+7201	588865	1	1	901	5	Miroslava	Urbanová			56	dělnice	Tetětice	99	80	0	F
+7201	588865	1	2	47	5	Stanislava	Voždová			44	odborný referent	Počenice	99	47	0	F
+7201	588865	1	3	902	5	František	Šedivý			24	OSVČ	Počenice	99	80	0	M
+7201	588865	1	4	1	5	Pavlína	Chmelařová			36	účetní	Počenice	99	1	0	F
+7201	588865	1	1	901	6	Jana	Kučerová	Mgr.		49	st. zaměstnanec	Počenice	99	80	0	F
+7201	588865	1	2	47	6	Jaroslav	Tichý			52	nezaměstnaný	Tetětice	99	47	0	M
+7201	588865	1	3	902	6	Richard	Bubeníček			43	OSVČ	Počenice	99	80	0	M
+7201	588865	1	4	1	6	Martina	Lepičová			42	účetní	Počenice	99	1	0	F
+7201	588865	1	1	901	7	Pavel	Svoboda			41	mechanizátor RV	Počenice	99	80	0	M
+7201	588865	1	2	47	7	Oldřich	Holeček			53	dělník	Počenice	99	47	0	M
+7201	588865	1	3	902	7	Libor	Štětina	Mgr.		43	státní zaměstnanec	Tetětice	99	80	0	M
+7201	588865	1	4	1	7	Miloslava	Kullašová			51	zdravotní sestra	Tetětice	99	1	0	F
+7201	588865	1	1	901	8	Barbora	Bubeníčková			21	studentka VŠ	Tetětice	99	80	0	F
+7201	588865	1	2	47	8	Marek	Mach			37	dělník	Tetětice	99	47	0	M
+7201	588865	1	3	902	8	Marcel	Tichánek			30	OSVČ, dělník	Počenice	99	80	0	M
+7201	588865	1	4	1	8	Magdalena	Jurová			52	košíkářská dělnice	Počenice	99	1	0	F
+7201	588865	1	1	901	9	Michaela	Churá			40	dělnice	Počenice	99	80	0	F
+7201	588865	1	2	47	9	Lenka	Mrňková			43	dělnice	Počenice	99	47	0	F
+7201	588865	1	3	902	9	Šárka	Králíková			19	cukrářka	Počenice	99	80	0	F
+7201	588865	1	4	1	9	Jitka	Trávníčková			57	účetní	Počenice	99	1	0	F

@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3106	551139	1	1	166	1	Miroslav	Dušek	M	Ing.		57	podnikatel	Chelčice	99	166	0
-3106	551139	1	1	166	2	František	Krump	M			59	soukromý zemědělec	Chelčice	99	166	0
-3106	551139	1	1	166	3	Lucie	Aiznerová	F	Ing.		26	analytik pohledávek	Chelčice	99	166	0
-3106	551139	1	1	166	4	Václav	Tůma	M			31	podnikatel	Chelčice	99	166	0
-3106	551139	1	1	166	5	Petr	Šmíd	M	Ing.		30	učitel	Chelčice	99	166	0
-3106	551139	1	1	166	6	Jindřich	Turek	M			48	skladový mistr	Chelčice	99	166	0
-3106	551139	1	1	166	7	Alena	Píchová	F			47	podnikatelka	Chelčice	99	166	0
-3106	551139	1	1	166	8	Jiří	Iral	M			25	podnikatel	Chelčice	99	166	0
-3106	551139	1	1	166	9	Hana	Šenkýřová	F			26	na mateřské dovolené	Chelčice	99	166	0
-3106	551139	1	2	721	1	Jiří	Iral	M			48	podnikatel	Chelčice	99	721	0
-3106	551139	1	2	721	2	Jan	Baloušek	M			33	automechanik	Chelčice	99	721	0
-3106	551139	1	2	721	3	Věnceslava	Jakubcová	F	Ing.		46	hospodářka	Chelčice	99	721	0
-3106	551139	1	2	721	4	Petr	Novák	M			21	student	Chelčice	99	721	0
-3106	551139	1	2	721	5	Zdenka	Vavrušková	F	Mgr.		29	na mateřské dovolené	Chelčice	99	721	0
-3106	551139	1	2	721	6	Luděk	Sosna	M			30	skladník	Chelčice	99	721	0
-3106	551139	1	2	721	7	Klára	Kavanová Mušková	F	Mgr.		37	učitelka	Chelčice	99	721	0
-3106	551139	1	2	721	8	Marta	Tůmová	F	Ing.		60	podnikatelka	Chelčice	99	721	0
-3106	551139	1	2	721	9	Michal	Trobl	M			33	podnikatel	Chelčice	99	721	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3106	551139	1	1	166	1	Miroslav	Dušek	Ing.		57	podnikatel	Chelčice	99	166	0	M
+3106	551139	1	2	721	1	Jiří	Iral			48	podnikatel	Chelčice	99	721	0	M
+3106	551139	1	1	166	2	František	Krump			59	soukromý zemědělec	Chelčice	99	166	0	M
+3106	551139	1	2	721	2	Jan	Baloušek			33	automechanik	Chelčice	99	721	0	M
+3106	551139	1	1	166	3	Lucie	Aiznerová	Ing.		26	analytik pohledávek	Chelčice	99	166	0	F
+3106	551139	1	2	721	3	Věnceslava	Jakubcová	Ing.		46	hospodářka	Chelčice	99	721	0	F
+3106	551139	1	1	166	4	Václav	Tůma			31	podnikatel	Chelčice	99	166	0	M
+3106	551139	1	2	721	4	Petr	Novák			21	student	Chelčice	99	721	0	M
+3106	551139	1	1	166	5	Petr	Šmíd	Ing.		30	učitel	Chelčice	99	166	0	M
+3106	551139	1	2	721	5	Zdenka	Vavrušková	Mgr.		29	na mateřské dovolené	Chelčice	99	721	0	F
+3106	551139	1	1	166	6	Jindřich	Turek			48	skladový mistr	Chelčice	99	166	0	M
+3106	551139	1	2	721	6	Luděk	Sosna			30	skladník	Chelčice	99	721	0	M
+3106	551139	1	1	166	7	Alena	Píchová			47	podnikatelka	Chelčice	99	166	0	F
+3106	551139	1	2	721	7	Klára	Kavanová Mušková	Mgr.		37	učitelka	Chelčice	99	721	0	F
+3106	551139	1	1	166	8	Jiří	Iral			25	podnikatel	Chelčice	99	166	0	M
+3106	551139	1	2	721	8	Marta	Tůmová	Ing.		60	podnikatelka	Chelčice	99	721	0	F
+3106	551139	1	1	166	9	Hana	Šenkýřová			26	na mateřské dovolené	Chelčice	99	166	0	F
+3106	551139	1	2	721	9	Michal	Trobl			33	podnikatel	Chelčice	99	721	0	M

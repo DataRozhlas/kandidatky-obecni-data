@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	585025	1	1	53	1	Jiří	Studeník	M			56	automechanik	Vlasatice	53	53	0
-6203	585025	1	1	53	2	Ladislav	Paleček	M			52	automechanik	Vlasatice	99	53	0
-6203	585025	1	1	53	3	Pavel	Procházka	M			37	pracovník v zemědělství	Vlasatice	99	53	0
-6203	585025	1	1	53	4	Pavel	Varmuža	M			28	technik	Vlasatice	99	53	0
-6203	585025	1	1	53	5	Stanislav	Dufek	M			46	živnostník	Vlasatice	99	53	0
-6203	585025	1	2	47	1	Karel	Valenta	M			35	hasič	Vlasatice	99	47	0
-6203	585025	1	2	47	2	Miroslav	Tesař	M			39	zedník - vedoucí technického provozu	Vlasatice	99	47	0
-6203	585025	1	2	47	3	Václav	Konečný	M			40	živnostník	Vlasatice	99	47	0
-6203	585025	1	2	47	4	Jan	Magal	M			25	vstupní kontrolor	Vlasatice	99	47	0
-6203	585025	1	2	47	5	Vladimír	Fasora	M			34	ostraha	Vlasatice	99	47	0
-6203	585025	1	2	47	6	Lubomír	Sapoušek	M			72	důchodce	Vlasatice	47	47	0
-6203	585025	1	2	47	7	Jaroslav	Beneš	M			65	důchodce	Vlasatice	47	47	0
-6203	585025	1	3	901	1	Petr	Hubáček	M	Ing.	Ph.D.	42	voják z povolání	Vlasatice	99	80	0
-6203	585025	1	3	901	2	Libor	Šulc	M			48	podnikatel	Vlasatice	99	80	0
-6203	585025	1	3	901	3	Petr	Skalák	M			44	řidič	Vlasatice	99	80	0
-6203	585025	1	3	901	4	Josef	Lakatoš	M			34	státní zaměstnanec	Vlasatice	99	80	0
-6203	585025	1	3	901	5	Lukáš	Wais	M			28	státní zaměstnanec	Vlasatice	99	80	0
-6203	585025	1	3	901	6	Jiří	Bém	M			32	číšník	Vlasatice	99	80	0
-6203	585025	1	4	166	1	Pavel	Pekař	M	Ing. et Ing.		48	starosta	Vlasatice	99	166	0
-6203	585025	1	4	166	2	Ivan	Malík	M			60	živnostník	Vlasatice	99	166	0
-6203	585025	1	4	166	3	Zdeněk	Fuksa	M			55	živnostník	Vlasatice	99	166	0
-6203	585025	1	4	166	4	Josef	Feichtinger	M			53	školník	Vlasatice	99	166	0
-6203	585025	1	4	166	5	Jan	Koubek	M			52	vedoucí skladu	Vlasatice	99	166	0
-6203	585025	1	4	166	6	Pavel	Špaček	M			37	živnostník	Vlasatice	99	166	0
-6203	585025	1	4	166	7	Petr	Veselý	M			48	živnostník	Vlasatice	99	166	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	585025	1	1	53	1	Jiří	Studeník			56	automechanik	Vlasatice	53	53	0	M
+6203	585025	1	2	47	1	Karel	Valenta			35	hasič	Vlasatice	99	47	0	M
+6203	585025	1	3	901	1	Petr	Hubáček	Ing.	Ph.D.	42	voják z povolání	Vlasatice	99	80	0	M
+6203	585025	1	4	166	1	Pavel	Pekař	Ing. et Ing.		48	starosta	Vlasatice	99	166	0	M
+6203	585025	1	1	53	2	Ladislav	Paleček			52	automechanik	Vlasatice	99	53	0	M
+6203	585025	1	2	47	2	Miroslav	Tesař			39	zedník - vedoucí technického provozu	Vlasatice	99	47	0	M
+6203	585025	1	3	901	2	Libor	Šulc			48	podnikatel	Vlasatice	99	80	0	M
+6203	585025	1	4	166	2	Ivan	Malík			60	živnostník	Vlasatice	99	166	0	M
+6203	585025	1	1	53	3	Pavel	Procházka			37	pracovník v zemědělství	Vlasatice	99	53	0	M
+6203	585025	1	2	47	3	Václav	Konečný			40	živnostník	Vlasatice	99	47	0	M
+6203	585025	1	3	901	3	Petr	Skalák			44	řidič	Vlasatice	99	80	0	M
+6203	585025	1	4	166	3	Zdeněk	Fuksa			55	živnostník	Vlasatice	99	166	0	M
+6203	585025	1	1	53	4	Pavel	Varmuža			28	technik	Vlasatice	99	53	0	M
+6203	585025	1	2	47	4	Jan	Magal			25	vstupní kontrolor	Vlasatice	99	47	0	M
+6203	585025	1	3	901	4	Josef	Lakatoš			34	státní zaměstnanec	Vlasatice	99	80	0	M
+6203	585025	1	4	166	4	Josef	Feichtinger			53	školník	Vlasatice	99	166	0	M
+6203	585025	1	1	53	5	Stanislav	Dufek			46	živnostník	Vlasatice	99	53	0	M
+6203	585025	1	2	47	5	Vladimír	Fasora			34	ostraha	Vlasatice	99	47	0	M
+6203	585025	1	3	901	5	Lukáš	Wais			28	státní zaměstnanec	Vlasatice	99	80	0	M
+6203	585025	1	4	166	5	Jan	Koubek			52	vedoucí skladu	Vlasatice	99	166	0	M
+6203	585025	1	2	47	6	Lubomír	Sapoušek			72	důchodce	Vlasatice	47	47	0	M
+6203	585025	1	3	901	6	Jiří	Bém			32	číšník	Vlasatice	99	80	0	M
+6203	585025	1	4	166	6	Pavel	Špaček			37	živnostník	Vlasatice	99	166	0	M
+6203	585025	1	2	47	7	Jaroslav	Beneš			65	důchodce	Vlasatice	47	47	0	M
+6203	585025	1	4	166	7	Petr	Veselý			48	živnostník	Vlasatice	99	166	0	M

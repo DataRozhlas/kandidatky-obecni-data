@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	551945	1	1	47	1	Jaroslav	Kutil	M	JUDr.		60	právník	Rudná pod Pradědem - Stará Rudná	47	47	0
-8101	551945	1	1	47	2	Josef	Kolimár	M			36	řidič	Rudná pod Pradědem - Stará Rudná	99	47	0
-8101	551945	1	1	47	3	Antonín	Zemančík	M			26	technik	Rudná pod Pradědem - Stará Rudná	99	47	0
-8101	551945	1	1	47	4	Jitka	Trojáčková	F			42	poštovní doručovatelka	Rudná pod Pradědem - Stará Rudná	99	47	0
-8101	551945	1	1	47	5	Julius	Kolimár	M			30	dělník	Rudná pod Pradědem - Stará Rudná	99	47	0
-8101	551945	1	1	47	6	Jana	Molíková	F			29	dělnice	Rudná pod Pradědem - Stará Rudná	99	47	0
-8101	551945	1	1	47	7	Miroslava	Kutilová	F			27	zdravotní sestra	Rudná pod Pradědem - Stará Rudná	99	47	0
-8101	551945	1	2	902	1	Radomír	Tománek	M			39	servisní technik	Rudná pod Pradědem - Nová Rudná	99	80	0
-8101	551945	1	2	902	2	Stanislav	Trojáček	M	RNDr.		45	hydrogeolog	Rudná pod Pradědem - Stará Rudná	99	80	0
-8101	551945	1	2	902	3	Antonín	Hanák	M			47	nástrojař	Rudná pod Pradědem - Stará Rudná	99	80	0
-8101	551945	1	2	902	4	Miroslav	Král	M			50	OSVČ	Rudná pod Pradědem - Stará Rudná	99	80	0
-8101	551945	1	2	902	5	Vladimír	Urbaník	M			45	zemědělský dělník	Rudná pod Pradědem - Stará Rudná	99	80	0
-8101	551945	1	2	902	6	Petr	Tománek	M			34	nákupčí	Rudná pod Pradědem - Stará Rudná	99	80	0
-8101	551945	1	2	902	7	Martin	Molík	M			30	obráběč kovů	Rudná pod Pradědem - Stará Rudná	99	80	0
-8101	551945	1	3	901	1	Milan	Theimer	M	Ing.		47	OSVČ	Rudná pod Pradědem - Stará Rudná	99	80	0
-8101	551945	1	3	901	2	Antonín	Maňásek	M			55	důchodce	Rudná pod Pradědem - Stará Rudná	99	80	0
-8101	551945	1	3	901	3	Jiří	Plesník	M	Ing.		42	OSVČ	Rudná pod Pradědem - Stará Rudná	99	80	0
-8101	551945	1	3	901	4	Michal	Strápek	M			29	OSVČ	Rudná pod Pradědem - Stará Rudná	99	80	0
-8101	551945	1	3	901	5	Jitka	Bereznaninová	F			47	státní zaměstnanec	Rudná pod Pradědem - Stará Rudná	99	80	0
-8101	551945	1	3	901	6	Lenka	Šimová	F			34	dělnice	Rudná pod Pradědem - Stará Rudná	99	80	0
-8101	551945	1	3	901	7	Marie	Jančíková	F			49	státní zaměstnanec	Rudná pod Pradědem - Stará Rudná	99	80	0
-8101	551945	1	4	88	1	Václav	Vavřík	M	Mgr.		66	učitel	Rudná pod Pradědem - Stará Rudná	99	88	0
-8101	551945	1	4	88	2	Júlia	Pinková	F			50	vychovatelka	Rudná pod Pradědem - Stará Rudná	99	88	0
-8101	551945	1	4	88	3	Michal	Dáni	M			58	pokrývač	Rudná pod Pradědem - Stará Rudná	99	88	0
-8101	551945	1	4	88	4	Vladimír	Klech	M			36	dělník	Rudná pod Pradědem - Stará Rudná	99	88	0
-8101	551945	1	4	88	5	Božena	Totková	F			53	signalistka	Rudná pod Pradědem - Stará Rudná	99	88	0
-8101	551945	1	4	88	6	Jiří	Hoško	M			51	tesař	Rudná pod Pradědem - Stará Rudná	99	88	0
-8101	551945	1	4	88	7	Josef	Urbaník	M			40	řidič	Rudná pod Pradědem - Stará Rudná	99	88	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	551945	1	1	47	1	Jaroslav	Kutil	JUDr.		60	právník	Rudná pod Pradědem - Stará Rudná	47	47	0	M
+8101	551945	1	2	902	1	Radomír	Tománek			39	servisní technik	Rudná pod Pradědem - Nová Rudná	99	80	0	M
+8101	551945	1	3	901	1	Milan	Theimer	Ing.		47	OSVČ	Rudná pod Pradědem - Stará Rudná	99	80	0	M
+8101	551945	1	4	88	1	Václav	Vavřík	Mgr.		66	učitel	Rudná pod Pradědem - Stará Rudná	99	88	0	M
+8101	551945	1	1	47	2	Josef	Kolimár			36	řidič	Rudná pod Pradědem - Stará Rudná	99	47	0	M
+8101	551945	1	2	902	2	Stanislav	Trojáček	RNDr.		45	hydrogeolog	Rudná pod Pradědem - Stará Rudná	99	80	0	M
+8101	551945	1	3	901	2	Antonín	Maňásek			55	důchodce	Rudná pod Pradědem - Stará Rudná	99	80	0	M
+8101	551945	1	4	88	2	Júlia	Pinková			50	vychovatelka	Rudná pod Pradědem - Stará Rudná	99	88	0	F
+8101	551945	1	1	47	3	Antonín	Zemančík			26	technik	Rudná pod Pradědem - Stará Rudná	99	47	0	M
+8101	551945	1	2	902	3	Antonín	Hanák			47	nástrojař	Rudná pod Pradědem - Stará Rudná	99	80	0	M
+8101	551945	1	3	901	3	Jiří	Plesník	Ing.		42	OSVČ	Rudná pod Pradědem - Stará Rudná	99	80	0	M
+8101	551945	1	4	88	3	Michal	Dáni			58	pokrývač	Rudná pod Pradědem - Stará Rudná	99	88	0	M
+8101	551945	1	1	47	4	Jitka	Trojáčková			42	poštovní doručovatelka	Rudná pod Pradědem - Stará Rudná	99	47	0	F
+8101	551945	1	2	902	4	Miroslav	Král			50	OSVČ	Rudná pod Pradědem - Stará Rudná	99	80	0	M
+8101	551945	1	3	901	4	Michal	Strápek			29	OSVČ	Rudná pod Pradědem - Stará Rudná	99	80	0	M
+8101	551945	1	4	88	4	Vladimír	Klech			36	dělník	Rudná pod Pradědem - Stará Rudná	99	88	0	M
+8101	551945	1	1	47	5	Julius	Kolimár			30	dělník	Rudná pod Pradědem - Stará Rudná	99	47	0	M
+8101	551945	1	2	902	5	Vladimír	Urbaník			45	zemědělský dělník	Rudná pod Pradědem - Stará Rudná	99	80	0	M
+8101	551945	1	3	901	5	Jitka	Bereznaninová			47	státní zaměstnanec	Rudná pod Pradědem - Stará Rudná	99	80	0	F
+8101	551945	1	4	88	5	Božena	Totková			53	signalistka	Rudná pod Pradědem - Stará Rudná	99	88	0	F
+8101	551945	1	1	47	6	Jana	Molíková			29	dělnice	Rudná pod Pradědem - Stará Rudná	99	47	0	F
+8101	551945	1	2	902	6	Petr	Tománek			34	nákupčí	Rudná pod Pradědem - Stará Rudná	99	80	0	M
+8101	551945	1	3	901	6	Lenka	Šimová			34	dělnice	Rudná pod Pradědem - Stará Rudná	99	80	0	F
+8101	551945	1	4	88	6	Jiří	Hoško			51	tesař	Rudná pod Pradědem - Stará Rudná	99	88	0	M
+8101	551945	1	1	47	7	Miroslava	Kutilová			27	zdravotní sestra	Rudná pod Pradědem - Stará Rudná	99	47	0	F
+8101	551945	1	2	902	7	Martin	Molík			30	obráběč kovů	Rudná pod Pradědem - Stará Rudná	99	80	0	M
+8101	551945	1	3	901	7	Marie	Jančíková			49	státní zaměstnanec	Rudná pod Pradědem - Stará Rudná	99	80	0	F
+8101	551945	1	4	88	7	Josef	Urbaník			40	řidič	Rudná pod Pradědem - Stará Rudná	99	88	0	M

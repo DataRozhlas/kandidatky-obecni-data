@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6204	584924	1	1	1	1	Drahomíra	Dirgasová	F			55	starostka	Šakvice	99	1	0
-6204	584924	1	1	1	2	David	Tomášek	M	Ing.		33	analytik	Šakvice	99	1	0
-6204	584924	1	1	1	3	Roman	Šafařík	M			33	technik	Šakvice	99	1	0
-6204	584924	1	1	1	4	Martin	Kurc	M			22	student	Šakvice	99	1	0
-6204	584924	1	1	1	5	Miroslav	Brúček	M	Mgr.		36	učitel	Šakvice	99	1	0
-6204	584924	1	1	1	6	Radim	Dirgas	M	Ing.		32	obchodní manažer	Šakvice	99	1	0
-6204	584924	1	1	1	7	Petr	Suský	M			37	grafik	Šakvice	99	1	0
-6204	584924	1	1	1	8	Zdeněk	Jakubčík	M	Ing.		57	soukromý zemědělec	Šakvice	99	1	0
-6204	584924	1	1	1	9	Eliška	Svobodová	F			56	podnikatelka	Šakvice	1	1	0
-6204	584924	1	2	901	1	Zdeněk	Osička	M	Ing.		49	projektový inženýr	Šakvice	99	80	0
-6204	584924	1	2	901	2	Věra	Zemanová	F			51	zdravotní sestra	Šakvice	99	80	0
-6204	584924	1	2	901	3	Jiří	Nevěděl	M			49	řidič	Šakvice	99	80	0
-6204	584924	1	2	901	4	Karel	Svoboda	M			37	technik	Šakvice	99	80	0
-6204	584924	1	2	901	5	Vojtěch	Lazi	M			42	realizátor staveb	Šakvice	99	80	0
-6204	584924	1	2	901	6	Vít	Nevěděl	M			23	student	Šakvice	99	80	0
-6204	584924	1	2	901	7	Jarmila	Hutrová	F			36	mateřská dovolená	Šakvice	99	80	0
-6204	584924	1	2	901	8	Petr	Svoboda	M			45	stolař	Šakvice	99	80	0
-6204	584924	1	2	901	9	Růžena	Kubísková	F			57	účetní	Šakvice	99	80	0
-6204	584924	1	3	801	1	Gerhard	Walter	M	Ing.		52	provozní ředitel, ekon.-provoz. inženýr, fin.spec.	Šakvice	99	80	0
-6204	584924	1	4	47	1	František	Kolář	M			61	dělník	Šakvice	47	47	0
-6204	584924	1	4	47	2	Břetislav	Křižan	M	Ing.	Ph.D.	37	jednatel společnosti	Šakvice	99	47	0
-6204	584924	1	4	47	3	Jana	Svobodová	F		BA(Hons)	35	účetní	Šakvice	99	47	0
-6204	584924	1	4	47	4	Jan	Svoboda	M			64	důchodce	Šakvice	99	47	0
-6204	584924	1	4	47	5	Kamila	Šlorová	F			38	dělník	Šakvice	99	47	0
-6204	584924	1	4	47	6	Lenka	Winterová	F			40	učitelka	Šakvice	99	47	0
-6204	584924	1	4	47	7	Milan	Godany	M			60	osoba samostatně výdělečně činná	Šakvice	99	47	0
-6204	584924	1	4	47	8	Jiřina	Eliášová	F			40	uklízečka	Šakvice	99	47	0
-6204	584924	1	4	47	9	Marie	Metlická	F	Ing.		53	účetní	Šakvice	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6204	584924	1	1	1	1	Drahomíra	Dirgasová			55	starostka	Šakvice	99	1	0	F
+6204	584924	1	2	901	1	Zdeněk	Osička	Ing.		49	projektový inženýr	Šakvice	99	80	0	M
+6204	584924	1	3	801	1	Gerhard	Walter	Ing.		52	provozní ředitel, ekon.-provoz. inženýr, fin.spec.	Šakvice	99	80	0	M
+6204	584924	1	4	47	1	František	Kolář			61	dělník	Šakvice	47	47	0	M
+6204	584924	1	1	1	2	David	Tomášek	Ing.		33	analytik	Šakvice	99	1	0	M
+6204	584924	1	2	901	2	Věra	Zemanová			51	zdravotní sestra	Šakvice	99	80	0	F
+6204	584924	1	4	47	2	Břetislav	Křižan	Ing.	Ph.D.	37	jednatel společnosti	Šakvice	99	47	0	M
+6204	584924	1	1	1	3	Roman	Šafařík			33	technik	Šakvice	99	1	0	M
+6204	584924	1	2	901	3	Jiří	Nevěděl			49	řidič	Šakvice	99	80	0	M
+6204	584924	1	4	47	3	Jana	Svobodová		BA(Hons)	35	účetní	Šakvice	99	47	0	F
+6204	584924	1	1	1	4	Martin	Kurc			22	student	Šakvice	99	1	0	M
+6204	584924	1	2	901	4	Karel	Svoboda			37	technik	Šakvice	99	80	0	M
+6204	584924	1	4	47	4	Jan	Svoboda			64	důchodce	Šakvice	99	47	0	M
+6204	584924	1	1	1	5	Miroslav	Brúček	Mgr.		36	učitel	Šakvice	99	1	0	M
+6204	584924	1	2	901	5	Vojtěch	Lazi			42	realizátor staveb	Šakvice	99	80	0	M
+6204	584924	1	4	47	5	Kamila	Šlorová			38	dělník	Šakvice	99	47	0	F
+6204	584924	1	1	1	6	Radim	Dirgas	Ing.		32	obchodní manažer	Šakvice	99	1	0	M
+6204	584924	1	2	901	6	Vít	Nevěděl			23	student	Šakvice	99	80	0	M
+6204	584924	1	4	47	6	Lenka	Winterová			40	učitelka	Šakvice	99	47	0	F
+6204	584924	1	1	1	7	Petr	Suský			37	grafik	Šakvice	99	1	0	M
+6204	584924	1	2	901	7	Jarmila	Hutrová			36	mateřská dovolená	Šakvice	99	80	0	F
+6204	584924	1	4	47	7	Milan	Godany			60	osoba samostatně výdělečně činná	Šakvice	99	47	0	M
+6204	584924	1	1	1	8	Zdeněk	Jakubčík	Ing.		57	soukromý zemědělec	Šakvice	99	1	0	M
+6204	584924	1	2	901	8	Petr	Svoboda			45	stolař	Šakvice	99	80	0	M
+6204	584924	1	4	47	8	Jiřina	Eliášová			40	uklízečka	Šakvice	99	47	0	F
+6204	584924	1	1	1	9	Eliška	Svobodová			56	podnikatelka	Šakvice	1	1	0	F
+6204	584924	1	2	901	9	Růžena	Kubísková			57	účetní	Šakvice	99	80	0	F
+6204	584924	1	4	47	9	Marie	Metlická	Ing.		53	účetní	Šakvice	99	47	0	F

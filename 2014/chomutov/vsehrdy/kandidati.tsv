@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4202	563471	1	1	901	1	VLADIMÍR	NOVAKOVSKÝ	M	Bc.		54	MISTR	Všehrdy	99	80	0
-4202	563471	1	1	901	2	IRENA	ČECHOVÁ	F			58	PRODUKČNÍ	Všehrdy	99	80	0
-4202	563471	1	1	901	3	MONIKA	PEŘINOVÁ	F	Bc.		36	SOCIÁLNÍ PRACOVNICE	Všehrdy	99	80	0
-4202	563471	1	1	901	4	PAVEL	ČERNÝ	M			54	TECH. PRACOVNÍK	Všehrdy	99	80	0
-4202	563471	1	1	901	5	ZDENĚK	HANZL	M			19	ZÁMEČNÍK	Všehrdy	99	80	0
-4202	563471	1	1	901	6	JAN	RANDÁK	M	Ing. Bc.		60	SPECIÁLNÍ PEDAGOG	Všehrdy	99	80	0
-4202	563471	1	2	903	1	Josef	Jelínek	M			53	podnikatel	Všehrdy	99	80	0
-4202	563471	1	2	903	2	Zuzana	Borlová	F	Ing.		26	adm. pracovnice	Všehrdy	99	80	0
-4202	563471	1	2	903	3	Petra	Březinová	F	Bc.		28	mateř. dovolená	Všehrdy	99	80	0
-4202	563471	1	2	903	4	Michal	Trejbal	M			30	klempíř	Všehrdy	99	80	0
-4202	563471	1	2	903	5	Ladislav	Formánek	M			52	zaměstnanec	Všehrdy	99	80	0
-4202	563471	1	3	902	1	Miloslav	Mandík	M			67	zaměstnanec	Všehrdy	99	80	0
-4202	563471	1	3	902	2	Miroslav	Šlapák	M	Ing.		72	soukromý podnikatel	Všehrdy	99	80	0
-4202	563471	1	3	902	3	Jiří	Stejskal	M			67	důchodce	Všehrdy	99	80	0
-4202	563471	1	3	902	4	Radek	Umlauf	M			37	soukromý podnikatel	Všehrdy	99	80	0
-4202	563471	1	3	902	5	Aleš	Vinduška	M			33	zaměstnanec	Všehrdy	99	80	0
-4202	563471	1	4	801	1	Jana	Benešová	F			33	Mateřská dovolená	Všehrdy	5	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4202	563471	1	1	901	1	VLADIMÍR	NOVAKOVSKÝ	Bc.		54	MISTR	Všehrdy	99	80	0	M
+4202	563471	1	2	903	1	Josef	Jelínek			53	podnikatel	Všehrdy	99	80	0	M
+4202	563471	1	3	902	1	Miloslav	Mandík			67	zaměstnanec	Všehrdy	99	80	0	M
+4202	563471	1	4	801	1	Jana	Benešová			33	Mateřská dovolená	Všehrdy	5	80	0	F
+4202	563471	1	1	901	2	IRENA	ČECHOVÁ			58	PRODUKČNÍ	Všehrdy	99	80	0	F
+4202	563471	1	2	903	2	Zuzana	Borlová	Ing.		26	adm. pracovnice	Všehrdy	99	80	0	F
+4202	563471	1	3	902	2	Miroslav	Šlapák	Ing.		72	soukromý podnikatel	Všehrdy	99	80	0	M
+4202	563471	1	1	901	3	MONIKA	PEŘINOVÁ	Bc.		36	SOCIÁLNÍ PRACOVNICE	Všehrdy	99	80	0	F
+4202	563471	1	2	903	3	Petra	Březinová	Bc.		28	mateř. dovolená	Všehrdy	99	80	0	F
+4202	563471	1	3	902	3	Jiří	Stejskal			67	důchodce	Všehrdy	99	80	0	M
+4202	563471	1	1	901	4	PAVEL	ČERNÝ			54	TECH. PRACOVNÍK	Všehrdy	99	80	0	M
+4202	563471	1	2	903	4	Michal	Trejbal			30	klempíř	Všehrdy	99	80	0	M
+4202	563471	1	3	902	4	Radek	Umlauf			37	soukromý podnikatel	Všehrdy	99	80	0	M
+4202	563471	1	1	901	5	ZDENĚK	HANZL			19	ZÁMEČNÍK	Všehrdy	99	80	0	M
+4202	563471	1	2	903	5	Ladislav	Formánek			52	zaměstnanec	Všehrdy	99	80	0	M
+4202	563471	1	3	902	5	Aleš	Vinduška			33	zaměstnanec	Všehrdy	99	80	0	M
+4202	563471	1	1	901	6	JAN	RANDÁK	Ing. Bc.		60	SPECIÁLNÍ PEDAGOG	Všehrdy	99	80	0	M

@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3107	549631	1	1	901	1	Arnošt	Novák	M	Ing.		56	starosta obce	Nadějkov	99	80	A
-3107	549631	1	1	901	2	Šárka	Peterková	F	MUDr.		38	lékařka	Petříkovice	99	80	A
-3107	549631	1	1	901	3	Klára	Tesařová	F	Ing.		31	soukromý zemědělec	Nepřejov	99	80	A
-3107	549631	1	1	901	4	Jan	Veselý	M	Mgr.		36	právník	Nadějkov	99	80	A
-3107	549631	1	1	901	5	Lukáš	Turnovec	M			32	soukromý zemědělec	Petříkovice	99	80	A
-3107	549631	1	1	901	6	Petra	Dohnalová	F			39	pedagogický pracovník	Nadějkov	99	80	A
-3107	549631	1	1	901	7	Michal	Steinbauer	M			30	hasič	Nadějkov	99	80	A
-3107	549631	1	1	901	8	Jaroslav	Vacek	M			46	dělník	Brtec	99	80	A
-3107	549631	1	1	901	9	Pavel	Kříž	M			38	OSVČ	Nadějkov	99	80	A
-3107	549631	1	1	901	10	Marek	Peterka	M			40	zdravotnický záchranář	Petříkovice	99	80	A
-3107	549631	1	1	901	11	Ondřej	Hulan	M			35	OSVČ	Nadějkov	99	80	A
-3107	549631	1	1	901	12	Markéta	Buzková	F			37	prodavačka	Hubov	99	80	A
-3107	549631	1	1	901	13	Jiří	Vocílka	M			60	zedník	Chlístov	99	80	A
-3107	549631	1	1	901	14	Jiří	Seidl	M			55	traktorista	Nadějkov	99	80	A
-3107	549631	1	1	901	15	Stanislav	Hejna	M			56	zootechnik	Nadějkov	99	80	A
-3107	549631	1	2	7	1	Romana	Cimpová	F			54	daňová a finanční poradkyně	Nadějkov	99	7	A
-3107	549631	1	2	7	2	Luděk	Fuka	M			55	OSVČ	Nepřejov	99	7	A
-3107	549631	1	2	7	3	Martin	Hedvik	M			34	správa a provoz nemovitostí	Nadějkov	99	7	A
-3107	549631	1	2	7	4	Helena	Kubištová	F			65	hlavní účetní	Nadějkov	7	7	A
-3107	549631	1	3	1	1	Jiří	Benda	M	Ing.		35	zemědělec	Hronova Vesec	1	1	A
-3107	549631	1	3	1	2	Tomáš	Kabíček	M	Ing.		31	webový vývojář	Nadějkov	99	1	A
-3107	549631	1	3	1	3	Vít	Benda	M	Ing. arch.		29	architekt	Hronova Vesec	99	1	A
-3107	549631	1	3	1	4	Olga	Dušková	F			44	manažerka	Nadějkov	99	1	A
-3107	549631	1	3	1	5	Tomáš	Průša	M			45	konzultant	Hubov	99	1	A
-3107	549631	1	3	1	6	Eva	Špallová	F	Mgr.		42	sociální pracovnice	Nadějkov	99	1	A
-3107	549631	1	3	1	7	Simona	Šitnerová	F	Bc. et Bc.		28	studentka, recepční	Nadějkov	99	1	A
-3107	549631	1	3	1	8	Jana	Průšová	F	Mgr.		41	učitelka	Hubov	99	1	A
-3107	549631	1	3	1	9	Josef	Dvořák	M	Ing.		62	důchodce	Vratišov	99	1	A
-3107	549631	1	3	1	10	Pavel	Šitner	M	Ing.		57	zemědělský poradce	Nadějkov	99	1	A
-3107	549631	1	3	1	11	Jaroslav	Čapek	M			52	elektrikář	Brtec	99	1	A
-3107	549631	1	3	1	12	Kateřina	Mikešová	F			44	školní asistentka	Nadějkov	99	1	A
-3107	549631	1	3	1	13	Josef	Ctibor	M			46	údržbář	Modlíkov	99	1	A
-3107	549631	1	3	1	14	Hana	Koudelková	F			42	vedoucí výroby	Nadějkov	99	1	A
-3107	549631	1	3	1	15	Olga	Černá	F	Ing.		54	knihovnice	Kaliště	99	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3107	549631	1	1	901	1	Arnošt	Novák	Ing.		56	starosta obce	Nadějkov	99	80	A	M
+3107	549631	1	2	7	1	Romana	Cimpová			54	daňová a finanční poradkyně	Nadějkov	99	7	A	F
+3107	549631	1	3	1	1	Jiří	Benda	Ing.		35	zemědělec	Hronova Vesec	1	1	A	M
+3107	549631	1	1	901	2	Šárka	Peterková	MUDr.		38	lékařka	Petříkovice	99	80	A	F
+3107	549631	1	2	7	2	Luděk	Fuka			55	OSVČ	Nepřejov	99	7	A	M
+3107	549631	1	3	1	2	Tomáš	Kabíček	Ing.		31	webový vývojář	Nadějkov	99	1	A	M
+3107	549631	1	1	901	3	Klára	Tesařová	Ing.		31	soukromý zemědělec	Nepřejov	99	80	A	F
+3107	549631	1	2	7	3	Martin	Hedvik			34	správa a provoz nemovitostí	Nadějkov	99	7	A	M
+3107	549631	1	3	1	3	Vít	Benda	Ing. arch.		29	architekt	Hronova Vesec	99	1	A	M
+3107	549631	1	1	901	4	Jan	Veselý	Mgr.		36	právník	Nadějkov	99	80	A	M
+3107	549631	1	2	7	4	Helena	Kubištová			65	hlavní účetní	Nadějkov	7	7	A	F
+3107	549631	1	3	1	4	Olga	Dušková			44	manažerka	Nadějkov	99	1	A	F
+3107	549631	1	1	901	5	Lukáš	Turnovec			32	soukromý zemědělec	Petříkovice	99	80	A	M
+3107	549631	1	3	1	5	Tomáš	Průša			45	konzultant	Hubov	99	1	A	M
+3107	549631	1	1	901	6	Petra	Dohnalová			39	pedagogický pracovník	Nadějkov	99	80	A	F
+3107	549631	1	3	1	6	Eva	Špallová	Mgr.		42	sociální pracovnice	Nadějkov	99	1	A	F
+3107	549631	1	1	901	7	Michal	Steinbauer			30	hasič	Nadějkov	99	80	A	M
+3107	549631	1	3	1	7	Simona	Šitnerová	Bc. et Bc.		28	studentka, recepční	Nadějkov	99	1	A	F
+3107	549631	1	1	901	8	Jaroslav	Vacek			46	dělník	Brtec	99	80	A	M
+3107	549631	1	3	1	8	Jana	Průšová	Mgr.		41	učitelka	Hubov	99	1	A	F
+3107	549631	1	1	901	9	Pavel	Kříž			38	OSVČ	Nadějkov	99	80	A	M
+3107	549631	1	3	1	9	Josef	Dvořák	Ing.		62	důchodce	Vratišov	99	1	A	M
+3107	549631	1	1	901	10	Marek	Peterka			40	zdravotnický záchranář	Petříkovice	99	80	A	M
+3107	549631	1	3	1	10	Pavel	Šitner	Ing.		57	zemědělský poradce	Nadějkov	99	1	A	M
+3107	549631	1	1	901	11	Ondřej	Hulan			35	OSVČ	Nadějkov	99	80	A	M
+3107	549631	1	3	1	11	Jaroslav	Čapek			52	elektrikář	Brtec	99	1	A	M
+3107	549631	1	1	901	12	Markéta	Buzková			37	prodavačka	Hubov	99	80	A	F
+3107	549631	1	3	1	12	Kateřina	Mikešová			44	školní asistentka	Nadějkov	99	1	A	F
+3107	549631	1	1	901	13	Jiří	Vocílka			60	zedník	Chlístov	99	80	A	M
+3107	549631	1	3	1	13	Josef	Ctibor			46	údržbář	Modlíkov	99	1	A	M
+3107	549631	1	1	901	14	Jiří	Seidl			55	traktorista	Nadějkov	99	80	A	M
+3107	549631	1	3	1	14	Hana	Koudelková			42	vedoucí výroby	Nadějkov	99	1	A	F
+3107	549631	1	1	901	15	Stanislav	Hejna			56	zootechnik	Nadějkov	99	80	A	M
+3107	549631	1	3	1	15	Olga	Černá	Ing.		54	knihovnice	Kaliště	99	1	A	F

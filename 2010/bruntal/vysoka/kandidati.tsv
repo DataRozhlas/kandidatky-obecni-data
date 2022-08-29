@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	597970	1	1	901	1	Antonín	Budínský	M			64	starosta	Bartultovice	99	80	0
-8101	597970	1	1	901	2	Radim	Hranec	M			34	státní zaměstnanec	Pitárné	99	80	0
-8101	597970	1	1	901	3	Jaroslava	Nováková	F			48	zdravotní sestra	Pitárné	99	80	0
-8101	597970	1	1	901	4	Lubomír	Michalisko	M			51	zaměstnanec	Pitárné	99	80	0
-8101	597970	1	1	901	5	Marcela	Hrancová	F			54	účetní	Vysoká	99	80	0
-8101	597970	1	1	901	6	Hedvika	Kučeriková	F			45	prodavačka	Pitárné	99	80	0
-8101	597970	1	1	901	7	Zdeněk	Krajčík	M			48	zaměstnanec	Pitárné	99	80	0
-8101	597970	1	2	902	1	Jaroslav	Macho	M			34	domovník	Vysoká	99	80	0
-8101	597970	1	2	902	2	Martina	Kusová	F			39	sociální pracovnice	Bartultovice	99	80	0
-8101	597970	1	2	902	3	Vlasta	Křížková	F			61	důchodce	Vysoká	47	80	0
-8101	597970	1	2	902	4	Lenka	Glozová	F			40	dělnice	Vysoká	99	80	0
-8101	597970	1	2	902	5	Jan	Šostek	M			39	invalidní důchodce	Vysoká	99	80	0
-8101	597970	1	2	902	6	Anežka	Dudicová	F	Ing., Mgr.		35	učitelka na střed. škole	Vysoká	99	80	0
-8101	597970	1	2	902	7	Jan	Bratek	M			49	soukromý podnikatel	Vysoká	99	80	0
-8101	597970	1	3	47	1	Zdenka	Beinhauerová	F			63	důchodkyně	Bartultovice	99	47	0
-8101	597970	1	3	47	2	Věra	Dozbabová	F			65	důchodkyně	Vysoká	47	47	0
-8101	597970	1	3	47	3	Lubomír	Ham	M			53	traktorista	Bartultovice	47	47	0
-8101	597970	1	3	47	4	Luděk	Janošec	M			36	traktorista	Vysoká	99	47	0
-8101	597970	1	3	47	5	Hana	Janošová	F			58	důchodkyně	Bartultovice	99	47	0
-8101	597970	1	3	47	6	Jan	Šesták	M			61	důchodce	Pitárné	47	47	0
-8101	597970	1	3	47	7	Ivan	Táborský	M			48	opravář zeměd.strojů	Vysoká	47	47	0
-8101	597970	1	4	53	1	Aleš	Budínský	M			36	vedoucí skladu	Vysoká	53	53	0
-8101	597970	1	4	53	2	Josef	Hranec	M	Ing.		31	vedoucí odboru Statut.m.Opava	Vysoká	99	53	0
-8101	597970	1	4	53	3	Pavel	Kruk	M			33	vedoucí provozovny	Bartultovice	53	53	0
-8101	597970	1	4	53	4	Jana	Švestková	F			51	podnikatelka	Bartultovice	53	53	0
-8101	597970	1	4	53	5	Radomír	Levý	M			29	podnikatel	Bartultovice	53	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	597970	1	1	901	1	Antonín	Budínský			64	starosta	Bartultovice	99	80	0	M
+8101	597970	1	2	902	1	Jaroslav	Macho			34	domovník	Vysoká	99	80	0	M
+8101	597970	1	3	47	1	Zdenka	Beinhauerová			63	důchodkyně	Bartultovice	99	47	0	F
+8101	597970	1	4	53	1	Aleš	Budínský			36	vedoucí skladu	Vysoká	53	53	0	M
+8101	597970	1	1	901	2	Radim	Hranec			34	státní zaměstnanec	Pitárné	99	80	0	M
+8101	597970	1	2	902	2	Martina	Kusová			39	sociální pracovnice	Bartultovice	99	80	0	F
+8101	597970	1	3	47	2	Věra	Dozbabová			65	důchodkyně	Vysoká	47	47	0	F
+8101	597970	1	4	53	2	Josef	Hranec	Ing.		31	vedoucí odboru Statut.m.Opava	Vysoká	99	53	0	M
+8101	597970	1	1	901	3	Jaroslava	Nováková			48	zdravotní sestra	Pitárné	99	80	0	F
+8101	597970	1	2	902	3	Vlasta	Křížková			61	důchodce	Vysoká	47	80	0	F
+8101	597970	1	3	47	3	Lubomír	Ham			53	traktorista	Bartultovice	47	47	0	M
+8101	597970	1	4	53	3	Pavel	Kruk			33	vedoucí provozovny	Bartultovice	53	53	0	M
+8101	597970	1	1	901	4	Lubomír	Michalisko			51	zaměstnanec	Pitárné	99	80	0	M
+8101	597970	1	2	902	4	Lenka	Glozová			40	dělnice	Vysoká	99	80	0	F
+8101	597970	1	3	47	4	Luděk	Janošec			36	traktorista	Vysoká	99	47	0	M
+8101	597970	1	4	53	4	Jana	Švestková			51	podnikatelka	Bartultovice	53	53	0	F
+8101	597970	1	1	901	5	Marcela	Hrancová			54	účetní	Vysoká	99	80	0	F
+8101	597970	1	2	902	5	Jan	Šostek			39	invalidní důchodce	Vysoká	99	80	0	M
+8101	597970	1	3	47	5	Hana	Janošová			58	důchodkyně	Bartultovice	99	47	0	F
+8101	597970	1	4	53	5	Radomír	Levý			29	podnikatel	Bartultovice	53	53	0	M
+8101	597970	1	1	901	6	Hedvika	Kučeriková			45	prodavačka	Pitárné	99	80	0	F
+8101	597970	1	2	902	6	Anežka	Dudicová	Ing., Mgr.		35	učitelka na střed. škole	Vysoká	99	80	0	F
+8101	597970	1	3	47	6	Jan	Šesták			61	důchodce	Pitárné	47	47	0	M
+8101	597970	1	1	901	7	Zdeněk	Krajčík			48	zaměstnanec	Pitárné	99	80	0	M
+8101	597970	1	2	902	7	Jan	Bratek			49	soukromý podnikatel	Vysoká	99	80	0	M
+8101	597970	1	3	47	7	Ivan	Táborský			48	opravář zeměd.strojů	Vysoká	47	47	0	M

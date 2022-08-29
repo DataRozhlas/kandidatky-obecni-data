@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	539317	1	1	785	1	Tomáš	Rigo	M			35	soukr. podnikatel, fotbalista, člen TJ Sokol Jeneč	Jeneč	785	785	A
-2110	539317	1	1	785	2	Jiří	Varhulík	M	Mgr.		40	státní zaměstnanec, člen výboru TJ Sokol Jeneč	Jeneč	99	785	A
-2110	539317	1	1	785	3	Petr	Kolka	M			45	OSVČ, člen TJ Sokol Jeneč	Jeneč	785	785	A
-2110	539317	1	1	785	4	Michal	Blažek	M			39	zaměstnanec Letiště Praha, trenér mládeže TJ Sokol	Jeneč	785	785	A
-2110	539317	1	1	785	5	Jan	Valko	M			37	řidič, fotbalový trenér mládeže	Jeneč	785	785	A
-2110	539317	1	1	785	6	Zdeněk	Trávník	M			37	elektrikář	Jeneč	99	785	A
-2110	539317	1	1	785	7	Kamil	Charvát	M			39	soukromý podnikatel, člen TJ Sokol Jeneč	Jeneč	99	785	A
-2110	539317	1	1	785	8	Lucie	Varhulíková	F			40	státní zaměstnanec	Jeneč	99	785	A
-2110	539317	1	1	785	9	Filip	Štefan	M			23	soukr. podnikatel, fotbalista, člen TJ Sokol Jeneč	Jeneč	785	785	A
-2110	539317	1	2	47	1	Zbyněk	Chuman	M			66	místostarosta	Jeneč	47	47	A
-2110	539317	1	2	47	2	Jaroslava	Vršková	F			73	důchodce	Jeneč	47	47	A
-2110	539317	1	2	47	3	Petr	Zmatlík	M			52	důchodce	Jeneč	99	47	A
-2110	539317	1	2	47	4	Bohuslav	Denk	M	Bc.		33	zahradník	Jeneč	47	47	A
-2110	539317	1	2	47	5	Jaromír	Kuba	M			54	řidič	Jeneč	47	47	A
-2110	539317	1	2	47	6	Miroslav	Pánek	M			78	důchodce	Jeneč	47	47	A
-2110	539317	1	2	47	7	Karel	Urban	M			71	důchodce	Jeneč	47	47	A
-2110	539317	1	3	53	1	Pavel	Burgr	M	Ing.		66	důchodce	Jeneč	53	53	A
-2110	539317	1	3	53	2	Michal	Stark	M			53	místostarosta, sportovec - OSVČ	Jeneč	99	53	A
-2110	539317	1	3	53	3	Ondřej	Petr	M	Ing.		46	ekonom	Jeneč	99	53	A
-2110	539317	1	3	53	4	Pavel	Bernard	M			48	elektrotechnik	Jeneč	99	53	A
-2110	539317	1	3	53	5	Petr	Veleba	M	Ing.		40	stavební inženýr, specialista v životním prostředí	Jeneč	99	53	A
-2110	539317	1	3	53	6	Gabriela	Eisenreichová	F			43	v domácnosti	Jeneč	99	53	A
-2110	539317	1	3	53	7	Petr	Inneman	M			51	ošetřování veřejné zeleně obce	Jeneč	99	53	A
-2110	539317	1	3	53	8	Václav	Grätz	M	Ing.		66	důchodce	Jeneč	99	53	A
-2110	539317	1	3	53	9	Jaroslava	Burgrová	F			63	důchodce	Jeneč	99	53	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	539317	1	1	785	1	Tomáš	Rigo			35	soukr. podnikatel, fotbalista, člen TJ Sokol Jeneč	Jeneč	785	785	A	M
+2110	539317	1	2	47	1	Zbyněk	Chuman			66	místostarosta	Jeneč	47	47	A	M
+2110	539317	1	3	53	1	Pavel	Burgr	Ing.		66	důchodce	Jeneč	53	53	A	M
+2110	539317	1	1	785	2	Jiří	Varhulík	Mgr.		40	státní zaměstnanec, člen výboru TJ Sokol Jeneč	Jeneč	99	785	A	M
+2110	539317	1	2	47	2	Jaroslava	Vršková			73	důchodce	Jeneč	47	47	A	F
+2110	539317	1	3	53	2	Michal	Stark			53	místostarosta, sportovec - OSVČ	Jeneč	99	53	A	M
+2110	539317	1	1	785	3	Petr	Kolka			45	OSVČ, člen TJ Sokol Jeneč	Jeneč	785	785	A	M
+2110	539317	1	2	47	3	Petr	Zmatlík			52	důchodce	Jeneč	99	47	A	M
+2110	539317	1	3	53	3	Ondřej	Petr	Ing.		46	ekonom	Jeneč	99	53	A	M
+2110	539317	1	1	785	4	Michal	Blažek			39	zaměstnanec Letiště Praha, trenér mládeže TJ Sokol	Jeneč	785	785	A	M
+2110	539317	1	2	47	4	Bohuslav	Denk	Bc.		33	zahradník	Jeneč	47	47	A	M
+2110	539317	1	3	53	4	Pavel	Bernard			48	elektrotechnik	Jeneč	99	53	A	M
+2110	539317	1	1	785	5	Jan	Valko			37	řidič, fotbalový trenér mládeže	Jeneč	785	785	A	M
+2110	539317	1	2	47	5	Jaromír	Kuba			54	řidič	Jeneč	47	47	A	M
+2110	539317	1	3	53	5	Petr	Veleba	Ing.		40	stavební inženýr, specialista v životním prostředí	Jeneč	99	53	A	M
+2110	539317	1	1	785	6	Zdeněk	Trávník			37	elektrikář	Jeneč	99	785	A	M
+2110	539317	1	2	47	6	Miroslav	Pánek			78	důchodce	Jeneč	47	47	A	M
+2110	539317	1	3	53	6	Gabriela	Eisenreichová			43	v domácnosti	Jeneč	99	53	A	F
+2110	539317	1	1	785	7	Kamil	Charvát			39	soukromý podnikatel, člen TJ Sokol Jeneč	Jeneč	99	785	A	M
+2110	539317	1	2	47	7	Karel	Urban			71	důchodce	Jeneč	47	47	A	M
+2110	539317	1	3	53	7	Petr	Inneman			51	ošetřování veřejné zeleně obce	Jeneč	99	53	A	M
+2110	539317	1	1	785	8	Lucie	Varhulíková			40	státní zaměstnanec	Jeneč	99	785	A	F
+2110	539317	1	3	53	8	Václav	Grätz	Ing.		66	důchodce	Jeneč	99	53	A	M
+2110	539317	1	1	785	9	Filip	Štefan			23	soukr. podnikatel, fotbalista, člen TJ Sokol Jeneč	Jeneč	785	785	A	M
+2110	539317	1	3	53	9	Jaroslava	Burgrová			63	důchodce	Jeneč	99	53	A	F

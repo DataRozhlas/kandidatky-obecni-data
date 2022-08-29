@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	597473	1	1	901	1	Radka	Chudová	F	Ing.		45	starostka	Karlova Studánka	99	80	A
-8101	597473	1	1	901	2	Pavla	Skrutková	F	Ing.		54	zaměstnanec ZŠ	Karlova Studánka	1	80	A
-8101	597473	1	1	901	3	Radek	Peňáz	M	Ing.		42	ředitel ZŠ	Karlova Studánka	99	80	A
-8101	597473	1	1	901	4	Martin	Hamrlík	M		diplomovaný ekonom	43	OSVČ	Karlova Studánka	99	80	A
-8101	597473	1	1	901	5	Daniel	Hegr	M			27	údržbář specialista	Karlova Studánka	99	80	A
-8101	597473	1	1	901	6	Tomáš	Němec	M			41	technik PLZ	Karlova Studánka	99	80	A
-8101	597473	1	1	901	7	Luboš	Novák	M	Ing.		60	OSVČ	Karlova Studánka	99	80	A
-8101	597473	1	1	901	8	Danuta	Riedlová	F			65	důchodce	Karlova Studánka	99	80	A
-8101	597473	1	1	901	9	Jaroslav	Tejnský	M			65	důchodce	Karlova Studánka	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	597473	1	1	901	1	Radka	Chudová	Ing.		45	starostka	Karlova Studánka	99	80	A	F
+8101	597473	1	1	901	2	Pavla	Skrutková	Ing.		54	zaměstnanec ZŠ	Karlova Studánka	1	80	A	F
+8101	597473	1	1	901	3	Radek	Peňáz	Ing.		42	ředitel ZŠ	Karlova Studánka	99	80	A	M
+8101	597473	1	1	901	4	Martin	Hamrlík		diplomovaný ekonom	43	OSVČ	Karlova Studánka	99	80	A	M
+8101	597473	1	1	901	5	Daniel	Hegr			27	údržbář specialista	Karlova Studánka	99	80	A	M
+8101	597473	1	1	901	6	Tomáš	Němec			41	technik PLZ	Karlova Studánka	99	80	A	M
+8101	597473	1	1	901	7	Luboš	Novák	Ing.		60	OSVČ	Karlova Studánka	99	80	A	M
+8101	597473	1	1	901	8	Danuta	Riedlová			65	důchodce	Karlova Studánka	99	80	A	F
+8101	597473	1	1	901	9	Jaroslav	Tejnský			65	důchodce	Karlova Studánka	99	80	A	M

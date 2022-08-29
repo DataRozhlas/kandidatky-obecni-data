@@ -1,30 +1,30 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	532207	1	1	903	1	Radka	KLÍMOVÁ	F			41	nákupčí	Černuc	99	80	0
-2103	532207	1	1	903	2	Vladislav	KRAUS	M			41	státní zaměstnanec	Černuc	99	80	0
-2103	532207	1	1	903	3	Roman	KÁCHA	M			42	programátor	Černuc	99	80	0
-2103	532207	1	1	903	4	Jan	BERNÁŠEK	M			35	úředník	Černuc	99	80	0
-2103	532207	1	1	903	5	Eva	BÖHMOVÁ	F			43	podnikatel	Černuc	99	80	0
-2103	532207	1	1	903	6	Tomáš	VEJŘÍK	M			29	vedoucí technik	Černuc	99	80	0
-2103	532207	1	1	903	7	Olga	POTLUKOVÁ	F			31	administrativní pracovník	Černuc	99	80	0
-2103	532207	1	1	903	8	Pavel	KAŠPÁREK	M			39	strojník	Černuc	99	80	0
-2103	532207	1	2	902	1	Radek	DUDA	M		DiS.	30	technolog	Černuc	99	80	0
-2103	532207	1	2	902	2	Simona	FOŘTÍKOVÁ	F			35	referentka	Černuc	99	80	0
-2103	532207	1	2	902	3	Jitka	KŮRKOVÁ	F	Ing.		47	správce depozitáře	Černuc	99	80	0
-2103	532207	1	2	902	4	Pavel	VALEŠ	M			40	hasič	Bratkovice	99	80	0
-2103	532207	1	2	902	5	Helena	DUDOVÁ	F			32	floristka	Černuc	99	80	0
-2103	532207	1	2	902	6	Lenka	VALEŠOVÁ	F			29	rodič.dovolená	Bratkovice	99	80	0
-2103	532207	1	2	902	7	Marcela	JIRÁSKOVÁ	F			58	důchodce	Černuc	99	80	0
-2103	532207	1	3	904	1	Soňa	DVOŘÁČKOVÁ	F			39	podnikatelka	Miletice	99	80	0
-2103	532207	1	3	904	2	Eva	HOLÁNOVÁ	F			37	administrativní pracovnice	Miletice	99	80	0
-2103	532207	1	3	904	3	Jaroslav	HONICKÝ	M			55	řidič	Miletice	99	80	0
-2103	532207	1	3	904	4	Vladimíra	KAŠPÁRKOVÁ	F			46	úřednice	Nabdín	99	80	0
-2103	532207	1	3	904	5	Rudolf	KOŠŤÁL	M			48	dělník	Černuc	99	80	0
-2103	532207	1	3	904	6	Čestmír	LEV	M			55	podnikatel	Černuc	99	80	0
-2103	532207	1	3	904	7	Jaroslav	MALÝ	M			41	řidič	Černuc	99	80	0
-2103	532207	1	3	904	8	Vlastimil	MARTINOVSKÝ	M			58	svářeč	Černuc	99	80	0
-2103	532207	1	3	904	9	Jiří	TYMICH	M	Ing.		50	zemědělec	Černuc	99	80	0
-2103	532207	1	3	904	10	Petr	VESELÝ	M			48	dělník	Černuc	99	80	0
-2103	532207	1	3	904	11	Roman	VINTRYCH	M			37	zámečník	Černuc	99	80	0
-2103	532207	1	4	901	1	Renáta	ČÍŽKOVÁ	F	Mgr.		39	učitelka	Miletice	99	80	0
-2103	532207	1	4	901	2	Kateřina	KRÁLOVÁ	F	Ing.		33	účetní	Miletice	99	80	0
-2103	532207	1	4	901	3	Antonín	VILDE	M			51	skladník	Miletice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	532207	1	1	903	1	Radka	KLÍMOVÁ			41	nákupčí	Černuc	99	80	0	F
+2103	532207	1	2	902	1	Radek	DUDA		DiS.	30	technolog	Černuc	99	80	0	M
+2103	532207	1	3	904	1	Soňa	DVOŘÁČKOVÁ			39	podnikatelka	Miletice	99	80	0	F
+2103	532207	1	4	901	1	Renáta	ČÍŽKOVÁ	Mgr.		39	učitelka	Miletice	99	80	0	F
+2103	532207	1	1	903	2	Vladislav	KRAUS			41	státní zaměstnanec	Černuc	99	80	0	M
+2103	532207	1	2	902	2	Simona	FOŘTÍKOVÁ			35	referentka	Černuc	99	80	0	F
+2103	532207	1	3	904	2	Eva	HOLÁNOVÁ			37	administrativní pracovnice	Miletice	99	80	0	F
+2103	532207	1	4	901	2	Kateřina	KRÁLOVÁ	Ing.		33	účetní	Miletice	99	80	0	F
+2103	532207	1	1	903	3	Roman	KÁCHA			42	programátor	Černuc	99	80	0	M
+2103	532207	1	2	902	3	Jitka	KŮRKOVÁ	Ing.		47	správce depozitáře	Černuc	99	80	0	F
+2103	532207	1	3	904	3	Jaroslav	HONICKÝ			55	řidič	Miletice	99	80	0	M
+2103	532207	1	4	901	3	Antonín	VILDE			51	skladník	Miletice	99	80	0	M
+2103	532207	1	1	903	4	Jan	BERNÁŠEK			35	úředník	Černuc	99	80	0	M
+2103	532207	1	2	902	4	Pavel	VALEŠ			40	hasič	Bratkovice	99	80	0	M
+2103	532207	1	3	904	4	Vladimíra	KAŠPÁRKOVÁ			46	úřednice	Nabdín	99	80	0	F
+2103	532207	1	1	903	5	Eva	BÖHMOVÁ			43	podnikatel	Černuc	99	80	0	F
+2103	532207	1	2	902	5	Helena	DUDOVÁ			32	floristka	Černuc	99	80	0	F
+2103	532207	1	3	904	5	Rudolf	KOŠŤÁL			48	dělník	Černuc	99	80	0	M
+2103	532207	1	1	903	6	Tomáš	VEJŘÍK			29	vedoucí technik	Černuc	99	80	0	M
+2103	532207	1	2	902	6	Lenka	VALEŠOVÁ			29	rodič.dovolená	Bratkovice	99	80	0	F
+2103	532207	1	3	904	6	Čestmír	LEV			55	podnikatel	Černuc	99	80	0	M
+2103	532207	1	1	903	7	Olga	POTLUKOVÁ			31	administrativní pracovník	Černuc	99	80	0	F
+2103	532207	1	2	902	7	Marcela	JIRÁSKOVÁ			58	důchodce	Černuc	99	80	0	F
+2103	532207	1	3	904	7	Jaroslav	MALÝ			41	řidič	Černuc	99	80	0	M
+2103	532207	1	1	903	8	Pavel	KAŠPÁREK			39	strojník	Černuc	99	80	0	M
+2103	532207	1	3	904	8	Vlastimil	MARTINOVSKÝ			58	svářeč	Černuc	99	80	0	M
+2103	532207	1	3	904	9	Jiří	TYMICH	Ing.		50	zemědělec	Černuc	99	80	0	M
+2103	532207	1	3	904	10	Petr	VESELÝ			48	dělník	Černuc	99	80	0	M
+2103	532207	1	3	904	11	Roman	VINTRYCH			37	zámečník	Černuc	99	80	0	M

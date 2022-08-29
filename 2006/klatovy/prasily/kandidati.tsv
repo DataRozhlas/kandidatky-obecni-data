@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3202	556084	1	1	53	1	Jaroslav	Tolar	M	Ing.		50	správce	Nová Hůrka	53	53	0
-3202	556084	1	1	53	2	Jan	Zámiška	M			31	živnostník	Prášily	99	53	0
-3202	556084	1	1	53	3	Michal	Zámiška	M			23	řidič	Prášily	99	53	0
-3202	556084	1	1	53	4	Miroslav	Pour	M	MUDr.		32	lékař	Nová Hůrka	99	53	0
-3202	556084	1	1	53	5	Václav	Topinka	M			29	lesník	Nová Hůrka	99	53	0
-3202	556084	1	1	53	6	Lenka	Procházková	F			21	barmanka	Prášily	99	53	0
-3202	556084	1	1	53	7	Petr	Zamiška	M			23	student	Prášily	99	53	0
-3202	556084	1	2	801	1	Iva	Zámišková	F			29	referent	Prášily	99	80	0
-3202	556084	1	3	802	1	Josef	Rada	M			27	strážce NP	Prášily	99	80	0
-3202	556084	1	4	803	1	Jiří	Kopelent	M			36	technik	Nová Hůrka	99	80	0
-3202	556084	1	5	804	1	Petr	Šrail	M			41	strážce NP	Nová Hůrka	99	80	0
-3202	556084	1	6	901	1	Mojmír	Kabát	M			68	důchodce	Prášily	99	80	0
-3202	556084	1	6	901	2	Věra	Chudobová	F			54	OSVČ	Prášily	99	80	0
-3202	556084	1	6	901	3	Mojmír	Kabát	M			37	OSVČ	Prášily	99	80	0
-3202	556084	1	6	901	4	Oldřich	Vojtěch	M	Ing.		36	lesník	Prášily	99	80	0
-3202	556084	1	6	901	5	Petr	Kozák	M	Ing.		47	lesník	Prášily	99	80	0
-3202	556084	1	6	901	6	Josef	Kubelák	M			51	lesní dělník	Prášily	99	80	0
-3202	556084	1	6	901	7	Vladimír	Čeřovský	M			32	lesní	Prášily	99	80	0
-3202	556084	1	6	901	8	Petra	Hanzlíková	F	Ing.		35	technik LS	Prášily	99	80	0
-3202	556084	1	6	901	9	Jiřina	Kozáková	F			36	ekonomka	Prášily	99	80	0
-3202	556084	1	7	805	1	Libor	Pospíšil	M			41	lesník	Prášily	99	80	0
-3202	556084	1	8	806	1	Vladislav	Adamec	M	Ing.		50	stavební inženýr	Prášily	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3202	556084	1	1	53	1	Jaroslav	Tolar	Ing.		50	správce	Nová Hůrka	53	53	0	M
+3202	556084	1	2	801	1	Iva	Zámišková			29	referent	Prášily	99	80	0	F
+3202	556084	1	3	802	1	Josef	Rada			27	strážce NP	Prášily	99	80	0	M
+3202	556084	1	4	803	1	Jiří	Kopelent			36	technik	Nová Hůrka	99	80	0	M
+3202	556084	1	5	804	1	Petr	Šrail			41	strážce NP	Nová Hůrka	99	80	0	M
+3202	556084	1	6	901	1	Mojmír	Kabát			68	důchodce	Prášily	99	80	0	M
+3202	556084	1	7	805	1	Libor	Pospíšil			41	lesník	Prášily	99	80	0	M
+3202	556084	1	8	806	1	Vladislav	Adamec	Ing.		50	stavební inženýr	Prášily	99	80	0	M
+3202	556084	1	1	53	2	Jan	Zámiška			31	živnostník	Prášily	99	53	0	M
+3202	556084	1	6	901	2	Věra	Chudobová			54	OSVČ	Prášily	99	80	0	F
+3202	556084	1	1	53	3	Michal	Zámiška			23	řidič	Prášily	99	53	0	M
+3202	556084	1	6	901	3	Mojmír	Kabát			37	OSVČ	Prášily	99	80	0	M
+3202	556084	1	1	53	4	Miroslav	Pour	MUDr.		32	lékař	Nová Hůrka	99	53	0	M
+3202	556084	1	6	901	4	Oldřich	Vojtěch	Ing.		36	lesník	Prášily	99	80	0	M
+3202	556084	1	1	53	5	Václav	Topinka			29	lesník	Nová Hůrka	99	53	0	M
+3202	556084	1	6	901	5	Petr	Kozák	Ing.		47	lesník	Prášily	99	80	0	M
+3202	556084	1	1	53	6	Lenka	Procházková			21	barmanka	Prášily	99	53	0	F
+3202	556084	1	6	901	6	Josef	Kubelák			51	lesní dělník	Prášily	99	80	0	M
+3202	556084	1	1	53	7	Petr	Zamiška			23	student	Prášily	99	53	0	M
+3202	556084	1	6	901	7	Vladimír	Čeřovský			32	lesní	Prášily	99	80	0	M
+3202	556084	1	6	901	8	Petra	Hanzlíková	Ing.		35	technik LS	Prášily	99	80	0	F
+3202	556084	1	6	901	9	Jiřina	Kozáková			36	ekonomka	Prášily	99	80	0	F

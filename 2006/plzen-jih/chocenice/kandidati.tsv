@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3204	557803	1	1	1	1	Jaroslav	Benda	M	Ing.		62	důchodce	Chocenice	102	1	0
-3204	557803	1	1	1	2	Václav	Strnad	M			41	pojišťovací poradce	Chocenická Lhota	99	1	0
-3204	557803	1	1	1	3	Olga	Šváchová	F			50	prodavačka	Chocenice	99	1	0
-3204	557803	1	1	1	4	Markéta	Bílá	F			28	mateřská dovolená	Chocenice	99	1	0
-3204	557803	1	1	1	5	Vladimír	Straka	M	Mgr.		38	učitel	Chocenice	99	1	0
-3204	557803	1	2	387	1	Václav	Vaniš	M			59	zedník	Chocenice	47	47	0
-3204	557803	1	2	387	2	Josef	Korbel	M			58	mistr stav. čety	Chocenice	99	80	0
-3204	557803	1	2	387	3	Josef	Strejc	M			40	elektrikář	Chocenice	99	80	0
-3204	557803	1	2	387	4	Václav	Heřman	M			55	strojník	Chocenice	47	47	0
-3204	557803	1	2	387	5	Pavel	Kubík	M			43	inval. důchodce	Chocenice	47	47	0
-3204	557803	1	2	387	6	Josef	Zavadil	M			48	řidič	Chocenice	99	80	0
-3204	557803	1	2	387	7	František	Svoboda	M			68	důchodce	Chocenická Lhota	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3204	557803	1	1	1	1	Jaroslav	Benda	Ing.		62	důchodce	Chocenice	102	1	0	M
+3204	557803	1	2	387	1	Václav	Vaniš			59	zedník	Chocenice	47	47	0	M
+3204	557803	1	1	1	2	Václav	Strnad			41	pojišťovací poradce	Chocenická Lhota	99	1	0	M
+3204	557803	1	2	387	2	Josef	Korbel			58	mistr stav. čety	Chocenice	99	80	0	M
+3204	557803	1	1	1	3	Olga	Šváchová			50	prodavačka	Chocenice	99	1	0	F
+3204	557803	1	2	387	3	Josef	Strejc			40	elektrikář	Chocenice	99	80	0	M
+3204	557803	1	1	1	4	Markéta	Bílá			28	mateřská dovolená	Chocenice	99	1	0	F
+3204	557803	1	2	387	4	Václav	Heřman			55	strojník	Chocenice	47	47	0	M
+3204	557803	1	1	1	5	Vladimír	Straka	Mgr.		38	učitel	Chocenice	99	1	0	M
+3204	557803	1	2	387	5	Pavel	Kubík			43	inval. důchodce	Chocenice	47	47	0	M
+3204	557803	1	2	387	6	Josef	Zavadil			48	řidič	Chocenice	99	80	0	M
+3204	557803	1	2	387	7	František	Svoboda			68	důchodce	Chocenická Lhota	99	80	0	M

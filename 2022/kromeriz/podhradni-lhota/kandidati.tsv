@@ -1,36 +1,36 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7201	588873	1	1	903	1	Lukáš	Vacek	M			32	OSVČ	Podhradní Lhota	99	80	A
-7201	588873	1	1	903	2	Adéla	Stašová	F	Bc.		23	student	Podhradní Lhota	99	80	A
-7201	588873	1	1	903	3	Dominik	Cicvarić				26	koordinátor výroby	Podhradní Lhota	99	80	A
-7201	588873	1	1	903	4	Rudolf	Kundrát	M	Ing.		39	manažer obchodního týmu	Podhradní Lhota	99	80	A
-7201	588873	1	1	903	5	Lukáš	Zbořil	M	Ing.		32	glob. správce katalogů	Podhradní Lhota	99	80	A
-7201	588873	1	1	903	6	Vojtěch	Vacek	M			26	grafický a web. designér	Podhradní Lhota	99	80	A
-7201	588873	1	1	903	7	Šárka	Vykopalová	F			36	administrativní pracovník	Podhradní Lhota	99	80	A
-7201	588873	1	1	903	8	Filip	Chromec	M			26	profesionální hasič	Podhradní Lhota	99	80	A
-7201	588873	1	1	903	9	Matěj	Žídek	M			22	obchodní zástupce	Podhradní Lhota	99	80	A
-7201	588873	1	2	901	1	Vojtěch	Fiala	M			27	stavební technik	Podhradní Lhota	99	80	A
-7201	588873	1	2	901	2	Tomáš	Hradil	M			24	stavební technik	Podhradní Lhota	99	80	A
-7201	588873	1	2	901	3	Karel	Poláček	M			40	truhlář pro výrobu nábytku	Podhradní Lhota	99	80	A
-7201	588873	1	2	901	4	Michal	Rýc	M			38	řidič	Podhradní Lhota	99	80	A
-7201	588873	1	2	901	5	Zdeněk	Žejdlík	M			37	OSVČ	Podhradní Lhota	99	80	A
-7201	588873	1	2	901	6	Petr	Bukovjan	M			38	opravář zemědělských strojů	Podhradní Lhota	99	80	A
-7201	588873	1	2	901	7	Zbyněk	Koloničný	M			52	technik	Podhradní Lhota	99	80	A
-7201	588873	1	2	901	8	Ladislav	Letoch	M			40	strojník	Podhradní Lhota	99	80	A
-7201	588873	1	2	901	9	Tomáš	Kaděra	M			40	OSVČ	Podhradní Lhota	99	80	A
-7201	588873	1	3	1	1	Radmila	Švejdová	F			48	skladnice - SCHOTT Valašské Meziříčí - logistika	Podhradní Lhota	1	1	A
-7201	588873	1	3	1	2	Marie	Žejdlíková	F	Bc.		36	ekonomka	Podhradní Lhota	1	1	A
-7201	588873	1	3	1	3	Lenka	Dubjáková	F			32	kuchařka, číšnice - PIZZERIE Osíčko	Podhradní Lhota	1	1	A
-7201	588873	1	3	1	4	Ivanka	Hlobilová	F	Mgr.		61	učitelka ZŠ Rajnochovice	Podhradní Lhota	99	1	A
-7201	588873	1	3	1	5	Jarmila	Mohylová	F			56	účetní	Podhradní Lhota	99	1	A
-7201	588873	1	3	1	6	Martina	Hradilová	F			53	invalidní důchodce, varhanice	Podhradní Lhota	1	1	A
-7201	588873	1	3	1	7	Marie	Poláčková	F			63	důchodkyně, knihovnice OÚ	Podhradní Lhota	1	1	A
-7201	588873	1	3	1	8	Jana	Gomolová	F			61	zdravotní sestra	Podhradní Lhota	99	1	A
-7201	588873	1	3	1	9	Eva	Měsícová	F			50	odborný referent	Podhradní Lhota	99	1	A
-7201	588873	1	4	902	1	Petr	Horáček	M			59	starosta	Podhradní Lhota	99	80	A
-7201	588873	1	4	902	2	Erik	Fiala	M			39	jednatel	Podhradní Lhota	99	80	A
-7201	588873	1	4	902	3	Martin	Chvatík	M			43	OSVČ	Podhradní Lhota	99	80	A
-7201	588873	1	4	902	4	Jakub	Chytil	M			34	technik	Podhradní Lhota	99	80	A
-7201	588873	1	4	902	5	Roman	Chromec	M			49	OSVČ	Podhradní Lhota	99	80	A
-7201	588873	1	4	902	6	Petr	Staša	M			51	obchodní zástupce	Podhradní Lhota	99	80	A
-7201	588873	1	4	902	7	Renata	Doležalová	F			55	referentka	Podhradní Lhota	99	80	A
-7201	588873	1	4	902	8	Jan	Roška	M			34	IT specialista	Podhradní Lhota	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7201	588873	1	1	903	1	Lukáš	Vacek			32	OSVČ	Podhradní Lhota	99	80	A	M
+7201	588873	1	2	901	1	Vojtěch	Fiala			27	stavební technik	Podhradní Lhota	99	80	A	M
+7201	588873	1	3	1	1	Radmila	Švejdová			48	skladnice - SCHOTT Valašské Meziříčí - logistika	Podhradní Lhota	1	1	A	F
+7201	588873	1	4	902	1	Petr	Horáček			59	starosta	Podhradní Lhota	99	80	A	M
+7201	588873	1	1	903	2	Adéla	Stašová	Bc.		23	student	Podhradní Lhota	99	80	A	F
+7201	588873	1	2	901	2	Tomáš	Hradil			24	stavební technik	Podhradní Lhota	99	80	A	M
+7201	588873	1	3	1	2	Marie	Žejdlíková	Bc.		36	ekonomka	Podhradní Lhota	1	1	A	F
+7201	588873	1	4	902	2	Erik	Fiala			39	jednatel	Podhradní Lhota	99	80	A	M
+7201	588873	1	1	903	3	Dominik	Cicvarić			26	koordinátor výroby	Podhradní Lhota	99	80	A	
+7201	588873	1	2	901	3	Karel	Poláček			40	truhlář pro výrobu nábytku	Podhradní Lhota	99	80	A	M
+7201	588873	1	3	1	3	Lenka	Dubjáková			32	kuchařka, číšnice - PIZZERIE Osíčko	Podhradní Lhota	1	1	A	F
+7201	588873	1	4	902	3	Martin	Chvatík			43	OSVČ	Podhradní Lhota	99	80	A	M
+7201	588873	1	1	903	4	Rudolf	Kundrát	Ing.		39	manažer obchodního týmu	Podhradní Lhota	99	80	A	M
+7201	588873	1	2	901	4	Michal	Rýc			38	řidič	Podhradní Lhota	99	80	A	M
+7201	588873	1	3	1	4	Ivanka	Hlobilová	Mgr.		61	učitelka ZŠ Rajnochovice	Podhradní Lhota	99	1	A	F
+7201	588873	1	4	902	4	Jakub	Chytil			34	technik	Podhradní Lhota	99	80	A	M
+7201	588873	1	1	903	5	Lukáš	Zbořil	Ing.		32	glob. správce katalogů	Podhradní Lhota	99	80	A	M
+7201	588873	1	2	901	5	Zdeněk	Žejdlík			37	OSVČ	Podhradní Lhota	99	80	A	M
+7201	588873	1	3	1	5	Jarmila	Mohylová			56	účetní	Podhradní Lhota	99	1	A	F
+7201	588873	1	4	902	5	Roman	Chromec			49	OSVČ	Podhradní Lhota	99	80	A	M
+7201	588873	1	1	903	6	Vojtěch	Vacek			26	grafický a web. designér	Podhradní Lhota	99	80	A	M
+7201	588873	1	2	901	6	Petr	Bukovjan			38	opravář zemědělských strojů	Podhradní Lhota	99	80	A	M
+7201	588873	1	3	1	6	Martina	Hradilová			53	invalidní důchodce, varhanice	Podhradní Lhota	1	1	A	F
+7201	588873	1	4	902	6	Petr	Staša			51	obchodní zástupce	Podhradní Lhota	99	80	A	M
+7201	588873	1	1	903	7	Šárka	Vykopalová			36	administrativní pracovník	Podhradní Lhota	99	80	A	F
+7201	588873	1	2	901	7	Zbyněk	Koloničný			52	technik	Podhradní Lhota	99	80	A	M
+7201	588873	1	3	1	7	Marie	Poláčková			63	důchodkyně, knihovnice OÚ	Podhradní Lhota	1	1	A	F
+7201	588873	1	4	902	7	Renata	Doležalová			55	referentka	Podhradní Lhota	99	80	A	F
+7201	588873	1	1	903	8	Filip	Chromec			26	profesionální hasič	Podhradní Lhota	99	80	A	M
+7201	588873	1	2	901	8	Ladislav	Letoch			40	strojník	Podhradní Lhota	99	80	A	M
+7201	588873	1	3	1	8	Jana	Gomolová			61	zdravotní sestra	Podhradní Lhota	99	1	A	F
+7201	588873	1	4	902	8	Jan	Roška			34	IT specialista	Podhradní Lhota	99	80	A	M
+7201	588873	1	1	903	9	Matěj	Žídek			22	obchodní zástupce	Podhradní Lhota	99	80	A	M
+7201	588873	1	2	901	9	Tomáš	Kaděra			40	OSVČ	Podhradní Lhota	99	80	A	M
+7201	588873	1	3	1	9	Eva	Měsícová			50	odborný referent	Podhradní Lhota	99	1	A	F

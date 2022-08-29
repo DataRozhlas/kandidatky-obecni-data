@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	544523	1	1	53	1	Jaroslav	Daněk	M	Ing. arch.		50	projektant	Hosín	99	53	0
-3101	544523	1	1	53	2	Miluše	Kubešová	F	Ing.		54	ekonomka	Dobřejovice	99	53	0
-3101	544523	1	1	53	3	Jan	Benýšek	M			41	elektromechanik	Hosín	99	53	0
-3101	544523	1	1	53	4	Drahomíra	Fikotová	F			53	laborantka	Hosín	99	53	0
-3101	544523	1	1	53	5	Miroslav	Louženský	M			47	pracovník ZD	Dobřejovice	99	53	0
-3101	544523	1	1	53	6	Eva	Pražanová	F			45	zdravotní sestra	Hosín	99	53	0
-3101	544523	1	1	53	7	Václav	Fikota	M			53	mechanizátor	Hosín	99	53	0
-3101	544523	1	1	53	8	Michal	Heřman	M			36	zámečník	Dobřejovice	99	53	0
-3101	544523	1	1	53	9	Josef	Matouš	M			61	starosta	Hosín	53	53	0
-3101	544523	1	2	801	1	Petr	Kolář	M	JUDr.		53	skladník	Dobřejovice	99	80	0
-3101	544523	1	3	47	1	Jan	Urban	M			43	řidič	Hosín	99	47	0
-3101	544523	1	3	47	2	Jan	Brašnička	M			33	automechanik	Hosín	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	544523	1	1	53	1	Jaroslav	Daněk	Ing. arch.		50	projektant	Hosín	99	53	0	M
+3101	544523	1	2	801	1	Petr	Kolář	JUDr.		53	skladník	Dobřejovice	99	80	0	M
+3101	544523	1	3	47	1	Jan	Urban			43	řidič	Hosín	99	47	0	M
+3101	544523	1	1	53	2	Miluše	Kubešová	Ing.		54	ekonomka	Dobřejovice	99	53	0	F
+3101	544523	1	3	47	2	Jan	Brašnička			33	automechanik	Hosín	99	47	0	M
+3101	544523	1	1	53	3	Jan	Benýšek			41	elektromechanik	Hosín	99	53	0	M
+3101	544523	1	1	53	4	Drahomíra	Fikotová			53	laborantka	Hosín	99	53	0	F
+3101	544523	1	1	53	5	Miroslav	Louženský			47	pracovník ZD	Dobřejovice	99	53	0	M
+3101	544523	1	1	53	6	Eva	Pražanová			45	zdravotní sestra	Hosín	99	53	0	F
+3101	544523	1	1	53	7	Václav	Fikota			53	mechanizátor	Hosín	99	53	0	M
+3101	544523	1	1	53	8	Michal	Heřman			36	zámečník	Dobřejovice	99	53	0	M
+3101	544523	1	1	53	9	Josef	Matouš			61	starosta	Hosín	53	53	0	M

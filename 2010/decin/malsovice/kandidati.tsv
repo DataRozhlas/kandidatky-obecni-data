@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4201	562718	1	1	904	1	Tomáš	Vejnar	M			50	soukromý podnikatel	Malšovice	99	80	0
-4201	562718	1	1	904	2	Jiří	Petrášek	M	Ing.		54	ředitel Evropské obch.akademie	Malšovice	99	80	0
-4201	562718	1	1	904	3	Jiří	Opat	M	Ing.		44	zemědělec	Malšovice	99	80	0
-4201	562718	1	1	904	4	Roman	Synek	M			41	soukromý podnikatel	Malšovice	99	80	0
-4201	562718	1	1	904	5	Pavel	Martínek	M			36	truhlář	Hliněná	99	80	0
-4201	562718	1	1	904	6	Petr	Zalabák	M			35	řidič	Malšovice	99	80	0
-4201	562718	1	1	904	7	Pavel	Kudrna	M			37	soukromý podnikatel	Malšovice	99	80	0
-4201	562718	1	1	904	8	Miloš	Kotrch	M			50	soukromý podnikatel	Javory	99	80	0
-4201	562718	1	1	904	9	Pavel	Němec	M			44	soukromý podnikatel	Malšovice	99	80	0
-4201	562718	1	2	902	1	Pavel	Plachý	M			53	strojní technik	Malšovice	99	80	0
-4201	562718	1	2	902	2	Pavel	Nový	M			47	řemeslník	Javory	99	80	0
-4201	562718	1	2	902	3	Jitka	Pilařová	F			53	OSVČ	Hliněná	99	80	0
-4201	562718	1	2	902	4	Jaruška	Šmalclová	F			61	ředitelka MŠ	Malšovice	99	80	0
-4201	562718	1	2	902	5	Miroslav	Pileček	M			62	technik	Malšovice	99	80	0
-4201	562718	1	2	902	6	Kateřina	Pacovská	F	Mgr.		35	právník	Malšovice	99	80	0
-4201	562718	1	2	902	7	Iva	Bubnová	F			44	prodavačka	Malšovice	99	80	0
-4201	562718	1	2	902	8	Eva	Plačková	F			35	dělnice	Stará Bohyně	99	80	0
-4201	562718	1	2	902	9	Tomáš	Dostál	M			44	OSVČ	Malšovice	99	80	0
-4201	562718	1	3	903	1	Jiří	Krpálek	M			39	nástrojař	Choratice	99	80	0
-4201	562718	1	3	903	2	Iva	Štolová	F			45	projektový asistent	Choratice	99	80	0
-4201	562718	1	3	903	3	Vojtěch	Boháč	M			27	řidič	Choratice	99	80	0
-4201	562718	1	3	903	4	Soňa	Arnoldová	F		DiS.	28	fyzioterapeutka	Choratice	99	80	0
-4201	562718	1	3	903	5	David	Morc	M			38	strojmistr	Choratice	99	80	0
-4201	562718	1	3	903	6	Jan	Zima	M			47	mechanik	Choratice	99	80	0
-4201	562718	1	3	903	7	Anna	Hájková	F			36	zdravotní sestra	Choratice	99	80	0
-4201	562718	1	3	903	8	Václav	Lisa	M			41	nástrojař	Choratice	99	80	0
-4201	562718	1	3	903	9	Vít	Hlaváček	M			42	OSVČ	Choratice	99	80	0
-4201	562718	1	4	901	1	Radovan	Urban	M			40	technik	Malšovice	99	80	0
-4201	562718	1	4	901	2	Monika	Hypšová	F			39	manažerka obchodu	Javory	99	80	0
-4201	562718	1	4	901	3	Zdena	Hübstová	F			47	pečovatelka	Javory	99	80	0
-4201	562718	1	4	901	4	Miroslav	Šír	M			37	přijímací technik	Borek	99	80	0
-4201	562718	1	4	901	5	Daniela	Libichová	F			32	referentka	Stará Bohyně	99	80	0
-4201	562718	1	4	901	6	Václav	Burian	M			39	jednatel	Malšovice	99	80	0
-4201	562718	1	4	901	7	Rudolf	Žák	M			40	vedoucí personální agentury	Malšovice	99	80	0
-4201	562718	1	4	901	8	Jan	Šmalcl	M			36	podnikatel	Malšovice	99	80	0
-4201	562718	1	4	901	9	Jaroslav	Zach	M			43	ošetřovatel	Malšovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4201	562718	1	1	904	1	Tomáš	Vejnar			50	soukromý podnikatel	Malšovice	99	80	0	M
+4201	562718	1	2	902	1	Pavel	Plachý			53	strojní technik	Malšovice	99	80	0	M
+4201	562718	1	3	903	1	Jiří	Krpálek			39	nástrojař	Choratice	99	80	0	M
+4201	562718	1	4	901	1	Radovan	Urban			40	technik	Malšovice	99	80	0	M
+4201	562718	1	1	904	2	Jiří	Petrášek	Ing.		54	ředitel Evropské obch.akademie	Malšovice	99	80	0	M
+4201	562718	1	2	902	2	Pavel	Nový			47	řemeslník	Javory	99	80	0	M
+4201	562718	1	3	903	2	Iva	Štolová			45	projektový asistent	Choratice	99	80	0	F
+4201	562718	1	4	901	2	Monika	Hypšová			39	manažerka obchodu	Javory	99	80	0	F
+4201	562718	1	1	904	3	Jiří	Opat	Ing.		44	zemědělec	Malšovice	99	80	0	M
+4201	562718	1	2	902	3	Jitka	Pilařová			53	OSVČ	Hliněná	99	80	0	F
+4201	562718	1	3	903	3	Vojtěch	Boháč			27	řidič	Choratice	99	80	0	M
+4201	562718	1	4	901	3	Zdena	Hübstová			47	pečovatelka	Javory	99	80	0	F
+4201	562718	1	1	904	4	Roman	Synek			41	soukromý podnikatel	Malšovice	99	80	0	M
+4201	562718	1	2	902	4	Jaruška	Šmalclová			61	ředitelka MŠ	Malšovice	99	80	0	F
+4201	562718	1	3	903	4	Soňa	Arnoldová		DiS.	28	fyzioterapeutka	Choratice	99	80	0	F
+4201	562718	1	4	901	4	Miroslav	Šír			37	přijímací technik	Borek	99	80	0	M
+4201	562718	1	1	904	5	Pavel	Martínek			36	truhlář	Hliněná	99	80	0	M
+4201	562718	1	2	902	5	Miroslav	Pileček			62	technik	Malšovice	99	80	0	M
+4201	562718	1	3	903	5	David	Morc			38	strojmistr	Choratice	99	80	0	M
+4201	562718	1	4	901	5	Daniela	Libichová			32	referentka	Stará Bohyně	99	80	0	F
+4201	562718	1	1	904	6	Petr	Zalabák			35	řidič	Malšovice	99	80	0	M
+4201	562718	1	2	902	6	Kateřina	Pacovská	Mgr.		35	právník	Malšovice	99	80	0	F
+4201	562718	1	3	903	6	Jan	Zima			47	mechanik	Choratice	99	80	0	M
+4201	562718	1	4	901	6	Václav	Burian			39	jednatel	Malšovice	99	80	0	M
+4201	562718	1	1	904	7	Pavel	Kudrna			37	soukromý podnikatel	Malšovice	99	80	0	M
+4201	562718	1	2	902	7	Iva	Bubnová			44	prodavačka	Malšovice	99	80	0	F
+4201	562718	1	3	903	7	Anna	Hájková			36	zdravotní sestra	Choratice	99	80	0	F
+4201	562718	1	4	901	7	Rudolf	Žák			40	vedoucí personální agentury	Malšovice	99	80	0	M
+4201	562718	1	1	904	8	Miloš	Kotrch			50	soukromý podnikatel	Javory	99	80	0	M
+4201	562718	1	2	902	8	Eva	Plačková			35	dělnice	Stará Bohyně	99	80	0	F
+4201	562718	1	3	903	8	Václav	Lisa			41	nástrojař	Choratice	99	80	0	M
+4201	562718	1	4	901	8	Jan	Šmalcl			36	podnikatel	Malšovice	99	80	0	M
+4201	562718	1	1	904	9	Pavel	Němec			44	soukromý podnikatel	Malšovice	99	80	0	M
+4201	562718	1	2	902	9	Tomáš	Dostál			44	OSVČ	Malšovice	99	80	0	M
+4201	562718	1	3	903	9	Vít	Hlaváček			42	OSVČ	Choratice	99	80	0	M
+4201	562718	1	4	901	9	Jaroslav	Zach			43	ošetřovatel	Malšovice	99	80	0	M

@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	512869	1	1	901	1	Karel	Malchárek	M	Ing.		64	technik	Strahovice	99	80	A
-8105	512869	1	1	901	2	Daniel	Beneš	M			52	vedoucí měření a regulace	Strahovice	99	80	A
-8105	512869	1	1	901	3	Petr	Boček	M			36	profesionální hasič	Strahovice	99	80	A
-8105	512869	1	1	901	4	Martina	Panocová	F	Ing.		51	manager prodeje	Strahovice	99	80	A
-8105	512869	1	1	901	5	Elen	Malchárková	F	Ing. arch.		59	architekt	Strahovice	99	80	A
-8105	512869	1	1	901	6	Marek	Hluchník	M	Ing.		48	vývojový pracovník	Strahovice	99	80	A
-8105	512869	1	1	901	7	Zdeněk	Hluchník	M			52	mistr výroby	Strahovice	99	80	A
-8105	512869	1	1	901	8	Stanislav	Josefus	M			50	regionální ředitel	Strahovice	99	80	A
-8105	512869	1	1	901	9	Kamil	Hluchník	M			39	OSVČ	Strahovice	99	80	A
-8105	512869	1	1	901	10	Kateřina	Obrusníková	F	Mgr.		44	středoškolská učitelka	Strahovice	99	80	A
-8105	512869	1	1	901	11	Miroslav	Nevřela	M	Ing.		29	vývojový technik	Strahovice	99	80	A
-8105	512869	1	1	901	12	Irena	Juchelková	F	Mgr.		42	ředitelka	Strahovice	99	80	A
-8105	512869	1	1	901	13	David	Riemel	M			48	ředitel	Strahovice	99	80	A
-8105	512869	1	1	901	14	Lukáš	Pekárek	M	Bc.		43	OSVČ	Strahovice	99	80	A
-8105	512869	1	1	901	15	Pavel	Obrusník	M			56	mechanik seřizovač	Strahovice	99	80	A
-8105	512869	1	2	902	1	Tomáš	Peterek	M	Ing.	Ph.D.	38	IT analytik	Strahovice	99	80	A
-8105	512869	1	2	902	2	Pavel	Vaněk	M	Ing.		44	ekonom	Strahovice	99	80	A
-8105	512869	1	2	902	3	Petr	Nevřela	M	Ing.		34	obchodně technický manažer	Strahovice	99	80	A
-8105	512869	1	2	902	4	Aleš	Dvořák	M	Ing.		30	ekonom, analytik	Strahovice	99	80	A
-8105	512869	1	2	902	5	Blanka	Večerková	F	Ing.		36	rodičovská dovolená	Strahovice	99	80	A
-8105	512869	1	2	902	6	David	Stareček	M			49	vedoucí výroby	Strahovice	99	80	A
-8105	512869	1	2	902	7	Ondřej	Pekárek	M	Mgr.		33	učitel	Strahovice	99	80	A
-8105	512869	1	2	902	8	Karel	Komínek	M	Ing.		43	zeměměřič	Strahovice	99	80	A
-8105	512869	1	2	902	9	Lenka	Sedláčková	F	Ing.		36	rodičovská dovolená	Strahovice	99	80	A
-8105	512869	1	2	902	10	Josef	Bílek	M			38	IT manažer	Strahovice	99	80	A
-8105	512869	1	2	902	11	Jiří	Nevřela	M	Bc.		32	OSVČ	Strahovice	99	80	A
-8105	512869	1	2	902	12	Jan	Josefus	M	Ing.		26	účetní	Strahovice	99	80	A
-8105	512869	1	2	902	13	Pavla	Šímová	F			43	referent	Strahovice	99	80	A
-8105	512869	1	2	902	14	Radek	Hladík	M			38	OSVČ	Strahovice	99	80	A
-8105	512869	1	2	902	15	Vítězslav	Strnisko	M			44	OSVČ	Strahovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	512869	1	1	901	1	Karel	Malchárek	Ing.		64	technik	Strahovice	99	80	A	M
+8105	512869	1	2	902	1	Tomáš	Peterek	Ing.	Ph.D.	38	IT analytik	Strahovice	99	80	A	M
+8105	512869	1	1	901	2	Daniel	Beneš			52	vedoucí měření a regulace	Strahovice	99	80	A	M
+8105	512869	1	2	902	2	Pavel	Vaněk	Ing.		44	ekonom	Strahovice	99	80	A	M
+8105	512869	1	1	901	3	Petr	Boček			36	profesionální hasič	Strahovice	99	80	A	M
+8105	512869	1	2	902	3	Petr	Nevřela	Ing.		34	obchodně technický manažer	Strahovice	99	80	A	M
+8105	512869	1	1	901	4	Martina	Panocová	Ing.		51	manager prodeje	Strahovice	99	80	A	F
+8105	512869	1	2	902	4	Aleš	Dvořák	Ing.		30	ekonom, analytik	Strahovice	99	80	A	M
+8105	512869	1	1	901	5	Elen	Malchárková	Ing. arch.		59	architekt	Strahovice	99	80	A	F
+8105	512869	1	2	902	5	Blanka	Večerková	Ing.		36	rodičovská dovolená	Strahovice	99	80	A	F
+8105	512869	1	1	901	6	Marek	Hluchník	Ing.		48	vývojový pracovník	Strahovice	99	80	A	M
+8105	512869	1	2	902	6	David	Stareček			49	vedoucí výroby	Strahovice	99	80	A	M
+8105	512869	1	1	901	7	Zdeněk	Hluchník			52	mistr výroby	Strahovice	99	80	A	M
+8105	512869	1	2	902	7	Ondřej	Pekárek	Mgr.		33	učitel	Strahovice	99	80	A	M
+8105	512869	1	1	901	8	Stanislav	Josefus			50	regionální ředitel	Strahovice	99	80	A	M
+8105	512869	1	2	902	8	Karel	Komínek	Ing.		43	zeměměřič	Strahovice	99	80	A	M
+8105	512869	1	1	901	9	Kamil	Hluchník			39	OSVČ	Strahovice	99	80	A	M
+8105	512869	1	2	902	9	Lenka	Sedláčková	Ing.		36	rodičovská dovolená	Strahovice	99	80	A	F
+8105	512869	1	1	901	10	Kateřina	Obrusníková	Mgr.		44	středoškolská učitelka	Strahovice	99	80	A	F
+8105	512869	1	2	902	10	Josef	Bílek			38	IT manažer	Strahovice	99	80	A	M
+8105	512869	1	1	901	11	Miroslav	Nevřela	Ing.		29	vývojový technik	Strahovice	99	80	A	M
+8105	512869	1	2	902	11	Jiří	Nevřela	Bc.		32	OSVČ	Strahovice	99	80	A	M
+8105	512869	1	1	901	12	Irena	Juchelková	Mgr.		42	ředitelka	Strahovice	99	80	A	F
+8105	512869	1	2	902	12	Jan	Josefus	Ing.		26	účetní	Strahovice	99	80	A	M
+8105	512869	1	1	901	13	David	Riemel			48	ředitel	Strahovice	99	80	A	M
+8105	512869	1	2	902	13	Pavla	Šímová			43	referent	Strahovice	99	80	A	F
+8105	512869	1	1	901	14	Lukáš	Pekárek	Bc.		43	OSVČ	Strahovice	99	80	A	M
+8105	512869	1	2	902	14	Radek	Hladík			38	OSVČ	Strahovice	99	80	A	M
+8105	512869	1	1	901	15	Pavel	Obrusník			56	mechanik seřizovač	Strahovice	99	80	A	M
+8105	512869	1	2	902	15	Vítězslav	Strnisko			44	OSVČ	Strahovice	99	80	A	M

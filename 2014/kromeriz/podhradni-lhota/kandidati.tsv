@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7201	588873	1	1	1	1	Miroslava	Žídková	F			40	OSVČ	Podhradní Lhota	99	1	0
-7201	588873	1	1	1	2	Marie	Žejdlíková	F	Bc.		28	rodičovská dovolená	Podhradní Lhota	1	1	0
-7201	588873	1	1	1	3	Jan	Hradil	M			22	florista	Podhradní Lhota	1	1	0
-7201	588873	1	1	1	4	Rostislav	Dubják	M			59	elektrikář	Podhradní Lhota	99	1	0
-7201	588873	1	1	1	5	Radek	Hanák	M			24	SPŠ stavební-instalatér	Podhradní Lhota	99	1	0
-7201	588873	1	1	1	6	Eva	Vacková	F			49	zahradnice	Podhradní Lhota	99	1	0
-7201	588873	1	1	1	7	Jeanne	Vičanová	F			49	zaměstnanec ČD	Podhradní Lhota	99	1	0
-7201	588873	1	2	902	1	Zdeněk	Žejdlík	M			29	OSVČ	Podhradní Lhota	99	80	0
-7201	588873	1	2	902	2	Zdeněk	Žejdlík	M			59	řidič	Podhradní Lhota	99	80	0
-7201	588873	1	2	902	3	Jiří	Laibner	M			57	OSVČ	Podhradní Lhota	99	80	0
-7201	588873	1	2	902	4	Karel	Poláček	M			32	truhlář	Podhradní Lhota	99	80	0
-7201	588873	1	2	902	5	Petr	Bukovjan	M			30	opravář zemědělských strojů	Podhradní Lhota	99	80	0
-7201	588873	1	2	902	6	Dana	Ježová	F			43	kuchařka	Podhradní Lhota	99	80	0
-7201	588873	1	2	902	7	Patrik	Adame	M			40	obraběč kovů	Podhradní Lhota	99	80	0
-7201	588873	1	2	902	8	Vladimír	Hradil	M			46	řidič	Podhradní Lhota	99	80	0
-7201	588873	1	3	901	1	Petr	Horáček	M			51	starosta obce	Podhradní Lhota	99	80	0
-7201	588873	1	3	901	2	Erik	Fiala	M			31	OSVČ	Podhradní Lhota	99	80	0
-7201	588873	1	3	901	3	Jiří	Dubják	M	Ing.		50	koordinátor daňových kontrol	Podhradní Lhota	99	80	0
-7201	588873	1	3	901	4	Martin	Chvatík	M			35	nezaměstnaný	Podhradní Lhota	99	80	0
-7201	588873	1	3	901	5	Petr	Staša	M			43	obchodní zástupce	Podhradní Lhota	99	80	0
-7201	588873	1	3	901	6	Jaroslav	Šindelek	M			68	důchodce	Podhradní Lhota	99	80	0
-7201	588873	1	3	901	7	Roman	Chromec	M			41	dispečer	Podhradní Lhota	99	80	0
-7201	588873	1	3	901	8	Renata	Doležalová	F			47	státní zaměstnanec	Podhradní Lhota	99	80	0
-7201	588873	1	3	901	9	Iva	Hlobilová	F			45	úřednice	Podhradní Lhota	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7201	588873	1	1	1	1	Miroslava	Žídková			40	OSVČ	Podhradní Lhota	99	1	0	F
+7201	588873	1	2	902	1	Zdeněk	Žejdlík			29	OSVČ	Podhradní Lhota	99	80	0	M
+7201	588873	1	3	901	1	Petr	Horáček			51	starosta obce	Podhradní Lhota	99	80	0	M
+7201	588873	1	1	1	2	Marie	Žejdlíková	Bc.		28	rodičovská dovolená	Podhradní Lhota	1	1	0	F
+7201	588873	1	2	902	2	Zdeněk	Žejdlík			59	řidič	Podhradní Lhota	99	80	0	M
+7201	588873	1	3	901	2	Erik	Fiala			31	OSVČ	Podhradní Lhota	99	80	0	M
+7201	588873	1	1	1	3	Jan	Hradil			22	florista	Podhradní Lhota	1	1	0	M
+7201	588873	1	2	902	3	Jiří	Laibner			57	OSVČ	Podhradní Lhota	99	80	0	M
+7201	588873	1	3	901	3	Jiří	Dubják	Ing.		50	koordinátor daňových kontrol	Podhradní Lhota	99	80	0	M
+7201	588873	1	1	1	4	Rostislav	Dubják			59	elektrikář	Podhradní Lhota	99	1	0	M
+7201	588873	1	2	902	4	Karel	Poláček			32	truhlář	Podhradní Lhota	99	80	0	M
+7201	588873	1	3	901	4	Martin	Chvatík			35	nezaměstnaný	Podhradní Lhota	99	80	0	M
+7201	588873	1	1	1	5	Radek	Hanák			24	SPŠ stavební-instalatér	Podhradní Lhota	99	1	0	M
+7201	588873	1	2	902	5	Petr	Bukovjan			30	opravář zemědělských strojů	Podhradní Lhota	99	80	0	M
+7201	588873	1	3	901	5	Petr	Staša			43	obchodní zástupce	Podhradní Lhota	99	80	0	M
+7201	588873	1	1	1	6	Eva	Vacková			49	zahradnice	Podhradní Lhota	99	1	0	F
+7201	588873	1	2	902	6	Dana	Ježová			43	kuchařka	Podhradní Lhota	99	80	0	F
+7201	588873	1	3	901	6	Jaroslav	Šindelek			68	důchodce	Podhradní Lhota	99	80	0	M
+7201	588873	1	1	1	7	Jeanne	Vičanová			49	zaměstnanec ČD	Podhradní Lhota	99	1	0	F
+7201	588873	1	2	902	7	Patrik	Adame			40	obraběč kovů	Podhradní Lhota	99	80	0	M
+7201	588873	1	3	901	7	Roman	Chromec			41	dispečer	Podhradní Lhota	99	80	0	M
+7201	588873	1	2	902	8	Vladimír	Hradil			46	řidič	Podhradní Lhota	99	80	0	M
+7201	588873	1	3	901	8	Renata	Doležalová			47	státní zaměstnanec	Podhradní Lhota	99	80	0	F
+7201	588873	1	3	901	9	Iva	Hlobilová			45	úřednice	Podhradní Lhota	99	80	0	F

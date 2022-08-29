@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8102	507458	1	1	901	1	Lukáš	Kufa	M			32	lisař	Košařiska	99	80	A
-8102	507458	1	1	901	2	Eva	Macháčová	F	Mgr.		35	lékárnice	Košařiska	99	80	A
-8102	507458	1	1	901	3	Miroslav	Kobliha	M			67	důchodce	Košařiska	99	80	A
-8102	507458	1	1	901	4	František	Kufa	M	Ing.		62	důchodce	Košařiska	99	80	A
-8102	507458	1	1	901	5	Jaroslav	Macháč	M			43	včelař	Košařiska	99	80	A
-8102	507458	1	1	901	6	Karel	Kantor	M			63	důchodce	Košařiska	99	80	A
-8102	507458	1	1	901	7	Anna	Nováková	F			30	administrativní pracovnice	Košařiska	99	80	A
-8102	507458	1	1	901	8	Tereza	Szlaurová	F			25	rodičovská dovolená	Košařiska	99	80	A
-8102	507458	1	1	901	9	Tomáš	Sikora	M			45	operátor ve výrobě	Košařiska	99	80	A
-8102	507458	1	2	1	1	Daniel	Mazur	M			40	strojník	Košařiska	99	1	A
-8102	507458	1	2	1	2	Lenka	Gazdová	F	Mgr.		41	zdravotní sestra	Košařiska	99	1	A
-8102	507458	1	2	1	3	Robert	Petřík	M			44	inspektor PČR	Košařiska	99	1	A
-8102	507458	1	2	1	4	David	Cieslar	M			35	OSVČ	Košařiska	99	1	A
-8102	507458	1	2	1	5	Zuzana	Gillová	F			47	knihovnice	Košařiska	99	1	A
-8102	507458	1	2	1	6	Martin	Ježowicz	M			39	operátor	Košařiska	99	1	A
-8102	507458	1	2	1	7	Daniel	Sikora	M			42	strojník	Košařiska	99	1	A
-8102	507458	1	2	1	8	Alena	Vojtechovská	F	Ing. arch.		55	projektantka	Košařiska	99	1	A
-8102	507458	1	2	1	9	Eva	Ježowiczová	F		DiS.	33	zdravotní sestra	Košařiska	99	1	A
-8102	507458	1	3	7	1	Václav	Haratyk	M			41	koordinátor oprav	Košařiska	7	7	A
-8102	507458	1	3	7	2	Erik	Húdok	M			35	svářeč	Košařiska	7	7	A
-8102	507458	1	3	7	3	Jiří	Kapsia	M			60	dělník	Košařiska	99	7	A
-8102	507458	1	3	7	4	Hvězdoslav	Kuchejda	M			54	vysokopecař	Košařiska	99	7	A
-8102	507458	1	3	7	5	Irena	Mitrengová	F			61	důchodkyně	Košařiska	99	7	A
-8102	507458	1	3	7	6	Daniel	Szkatula	M			19	řidič	Košařiska	99	7	A
-8102	507458	1	3	7	7	Jarmila	Kapsiová	F			61	důchodkyně	Košařiska	99	7	A
-8102	507458	1	3	7	8	Tomáš	Galusik	M			40	předák ve výrobě	Košařiska	99	7	A
-8102	507458	1	3	7	9	Tomáš	Kuchejda	M			30	strojvedoucí	Košařiska	99	7	A
-8102	507458	1	4	72	1	Januš	Klimek	M			49	podnikatel	Košařiska	99	72	A
-8102	507458	1	4	72	2	Czesław	Cieślar	M			35	OSVČ	Košařiska	99	72	A
-8102	507458	1	4	72	3	Barbara	Boszczyková	F		DiS.	34	vedoucí školní jídelny	Košařiska	99	72	A
-8102	507458	1	4	72	4	Natálie	Kantorová	F			36	OSVČ	Košařiska	99	72	A
-8102	507458	1	4	72	5	Michal	Szlaur	M			30	OSVČ	Košařiska	99	72	A
-8102	507458	1	4	72	6	Beata	Koždoň	F	Bc.		28	OSVČ	Košařiska	99	72	A
-8102	507458	1	4	72	7	Danuta	Szlaurová	F			51	pracovnice poštovní přepážky	Košařiska	99	72	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8102	507458	1	1	901	1	Lukáš	Kufa			32	lisař	Košařiska	99	80	A	M
+8102	507458	1	2	1	1	Daniel	Mazur			40	strojník	Košařiska	99	1	A	M
+8102	507458	1	3	7	1	Václav	Haratyk			41	koordinátor oprav	Košařiska	7	7	A	M
+8102	507458	1	4	72	1	Januš	Klimek			49	podnikatel	Košařiska	99	72	A	M
+8102	507458	1	1	901	2	Eva	Macháčová	Mgr.		35	lékárnice	Košařiska	99	80	A	F
+8102	507458	1	2	1	2	Lenka	Gazdová	Mgr.		41	zdravotní sestra	Košařiska	99	1	A	F
+8102	507458	1	3	7	2	Erik	Húdok			35	svářeč	Košařiska	7	7	A	M
+8102	507458	1	4	72	2	Czesław	Cieślar			35	OSVČ	Košařiska	99	72	A	M
+8102	507458	1	1	901	3	Miroslav	Kobliha			67	důchodce	Košařiska	99	80	A	M
+8102	507458	1	2	1	3	Robert	Petřík			44	inspektor PČR	Košařiska	99	1	A	M
+8102	507458	1	3	7	3	Jiří	Kapsia			60	dělník	Košařiska	99	7	A	M
+8102	507458	1	4	72	3	Barbara	Boszczyková		DiS.	34	vedoucí školní jídelny	Košařiska	99	72	A	F
+8102	507458	1	1	901	4	František	Kufa	Ing.		62	důchodce	Košařiska	99	80	A	M
+8102	507458	1	2	1	4	David	Cieslar			35	OSVČ	Košařiska	99	1	A	M
+8102	507458	1	3	7	4	Hvězdoslav	Kuchejda			54	vysokopecař	Košařiska	99	7	A	M
+8102	507458	1	4	72	4	Natálie	Kantorová			36	OSVČ	Košařiska	99	72	A	F
+8102	507458	1	1	901	5	Jaroslav	Macháč			43	včelař	Košařiska	99	80	A	M
+8102	507458	1	2	1	5	Zuzana	Gillová			47	knihovnice	Košařiska	99	1	A	F
+8102	507458	1	3	7	5	Irena	Mitrengová			61	důchodkyně	Košařiska	99	7	A	F
+8102	507458	1	4	72	5	Michal	Szlaur			30	OSVČ	Košařiska	99	72	A	M
+8102	507458	1	1	901	6	Karel	Kantor			63	důchodce	Košařiska	99	80	A	M
+8102	507458	1	2	1	6	Martin	Ježowicz			39	operátor	Košařiska	99	1	A	M
+8102	507458	1	3	7	6	Daniel	Szkatula			19	řidič	Košařiska	99	7	A	M
+8102	507458	1	4	72	6	Beata	Koždoň	Bc.		28	OSVČ	Košařiska	99	72	A	F
+8102	507458	1	1	901	7	Anna	Nováková			30	administrativní pracovnice	Košařiska	99	80	A	F
+8102	507458	1	2	1	7	Daniel	Sikora			42	strojník	Košařiska	99	1	A	M
+8102	507458	1	3	7	7	Jarmila	Kapsiová			61	důchodkyně	Košařiska	99	7	A	F
+8102	507458	1	4	72	7	Danuta	Szlaurová			51	pracovnice poštovní přepážky	Košařiska	99	72	A	F
+8102	507458	1	1	901	8	Tereza	Szlaurová			25	rodičovská dovolená	Košařiska	99	80	A	F
+8102	507458	1	2	1	8	Alena	Vojtechovská	Ing. arch.		55	projektantka	Košařiska	99	1	A	F
+8102	507458	1	3	7	8	Tomáš	Galusik			40	předák ve výrobě	Košařiska	99	7	A	M
+8102	507458	1	1	901	9	Tomáš	Sikora			45	operátor ve výrobě	Košařiska	99	80	A	M
+8102	507458	1	2	1	9	Eva	Ježowiczová		DiS.	33	zdravotní sestra	Košařiska	99	1	A	F
+8102	507458	1	3	7	9	Tomáš	Kuchejda			30	strojvedoucí	Košařiska	99	7	A	M

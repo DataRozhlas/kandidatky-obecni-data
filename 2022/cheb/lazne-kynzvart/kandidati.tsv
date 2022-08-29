@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4101	554600	1	1	901	1	Jindřich	Zíval	M			50	starosta	Lázně Kynžvart	99	80	A
-4101	554600	1	1	901	2	Adam	Gabriel	M		DiS.	33	místostarosta, zdravotnický záchranář	Lázně Kynžvart	99	80	A
-4101	554600	1	1	901	3	Radka	Korcová	F	Ing.		30	OSVČ	Lazy	99	80	A
-4101	554600	1	1	901	4	Josef	Korec	M			65	OSVČ - kameraman	Lazy	99	80	A
-4101	554600	1	1	901	5	Radek	Hlaváček	M			47	skladník	Lázně Kynžvart	99	80	A
-4101	554600	1	1	901	6	Petr	Tůma	M	Ing.		56	technik	Lázně Kynžvart	99	80	A
-4101	554600	1	1	901	7	Alena	Kuchariková Lišková	F	MVDr. Bc.		38	veterinární lékařka	Lázně Kynžvart	99	80	A
-4101	554600	1	1	901	8	Jakub	Zíval	M	Ing.		33	ministerský rada (Ministerstvo průmyslu a obchodu)	Lázně Kynžvart	99	80	A
-4101	554600	1	1	901	9	Božena	Šurabová	F			54	OSVČ - ubytovací služby	Lázně Kynžvart	99	80	A
-4101	554600	1	2	1481	1	Miloslav	Pernica	M			61	vedoucí technických služeb	Lázně Kynžvart	99	1118	A
-4101	554600	1	2	1481	2	Michal	Businský	M	Bc.		42	pracovník ochrany majetku	Lázně Kynžvart	99	80	A
-4101	554600	1	2	1481	3	Lenka	Vlasáková	F	Mgr.		39	personalistka	Lázně Kynžvart	99	80	A
-4101	554600	1	2	1481	4	Peter	Oravec	M	Ing.		71	osoba samostatně výdělečně činná	Lázně Kynžvart	99	80	A
-4101	554600	1	2	1481	5	Daniel	Kubásek	M			38	policista Policie ČR	Lázně Kynžvart	99	80	A
-4101	554600	1	2	1481	6	Miloslav	Tomeš	M			46	osoba samostatně výdělečně činná	Lázně Kynžvart	99	80	A
-4101	554600	1	2	1481	7	Milan	Pelikán	M			67	důchodce	Lázně Kynžvart	99	80	A
-4101	554600	1	2	1481	8	Štefan	Brštiak	M	Bc.		37	vedoucí oddělení provozu státního zámku	Lázně Kynžvart	99	80	A
-4101	554600	1	2	1481	9	Radomír	Sýbal	M			38	směnový mistr	Lázně Kynžvart	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4101	554600	1	1	901	1	Jindřich	Zíval			50	starosta	Lázně Kynžvart	99	80	A	M
+4101	554600	1	2	1481	1	Miloslav	Pernica			61	vedoucí technických služeb	Lázně Kynžvart	99	1118	A	M
+4101	554600	1	1	901	2	Adam	Gabriel		DiS.	33	místostarosta, zdravotnický záchranář	Lázně Kynžvart	99	80	A	M
+4101	554600	1	2	1481	2	Michal	Businský	Bc.		42	pracovník ochrany majetku	Lázně Kynžvart	99	80	A	M
+4101	554600	1	1	901	3	Radka	Korcová	Ing.		30	OSVČ	Lazy	99	80	A	F
+4101	554600	1	2	1481	3	Lenka	Vlasáková	Mgr.		39	personalistka	Lázně Kynžvart	99	80	A	F
+4101	554600	1	1	901	4	Josef	Korec			65	OSVČ - kameraman	Lazy	99	80	A	M
+4101	554600	1	2	1481	4	Peter	Oravec	Ing.		71	osoba samostatně výdělečně činná	Lázně Kynžvart	99	80	A	M
+4101	554600	1	1	901	5	Radek	Hlaváček			47	skladník	Lázně Kynžvart	99	80	A	M
+4101	554600	1	2	1481	5	Daniel	Kubásek			38	policista Policie ČR	Lázně Kynžvart	99	80	A	M
+4101	554600	1	1	901	6	Petr	Tůma	Ing.		56	technik	Lázně Kynžvart	99	80	A	M
+4101	554600	1	2	1481	6	Miloslav	Tomeš			46	osoba samostatně výdělečně činná	Lázně Kynžvart	99	80	A	M
+4101	554600	1	1	901	7	Alena	Kuchariková Lišková	MVDr. Bc.		38	veterinární lékařka	Lázně Kynžvart	99	80	A	F
+4101	554600	1	2	1481	7	Milan	Pelikán			67	důchodce	Lázně Kynžvart	99	80	A	M
+4101	554600	1	1	901	8	Jakub	Zíval	Ing.		33	ministerský rada (Ministerstvo průmyslu a obchodu)	Lázně Kynžvart	99	80	A	M
+4101	554600	1	2	1481	8	Štefan	Brštiak	Bc.		37	vedoucí oddělení provozu státního zámku	Lázně Kynžvart	99	80	A	M
+4101	554600	1	1	901	9	Božena	Šurabová			54	OSVČ - ubytovací služby	Lázně Kynžvart	99	80	A	F
+4101	554600	1	2	1481	9	Radomír	Sýbal			38	směnový mistr	Lázně Kynžvart	99	80	A	M

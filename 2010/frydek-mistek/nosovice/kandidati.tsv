@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8102	552518	1	1	721	1	Igor	Slováček	M	Mgr.		38	učitel	Nošovice	99	721	0
-8102	552518	1	1	721	2	Jiří	Myšinský	M	Mgr.		45	manažer mark., soud. znalec	Nošovice	721	721	0
-8102	552518	1	1	721	3	Pavel	Hendrych	M			38	obchodní zástupce	Nošovice	99	721	0
-8102	552518	1	1	721	4	Jana	Dobešová	F			42	trenérka mlad. reprezentace	Nošovice	99	721	0
-8102	552518	1	1	721	5	Pavel	Babica	M			38	podnikatel	Nošovice	99	721	0
-8102	552518	1	1	721	6	Jindřiška	Slováčková	F	Mgr.		39	ved. lékárny	Nošovice	99	721	0
-8102	552518	1	1	721	7	Jiří	Kudělásek	M			51	podnikatel	Nošovice	99	721	0
-8102	552518	1	1	721	8	Marek	Myšinský	M			24	fin. analytik	Nošovice	99	721	0
-8102	552518	1	1	721	9	Rostislav	Březina	M			45	živnostník	Nošovice	99	721	0
-8102	552518	1	2	901	1	Miroslav	Kačmarčík	M			56	starosta	Nošovice	99	80	0
-8102	552518	1	2	901	2	Roman	Cviček	M	Ing.		37	podnikatel	Nošovice	99	80	0
-8102	552518	1	2	901	3	Marek	Olšar	M	Ing.		34	vedoucí dopravy	Nošovice	99	80	0
-8102	552518	1	2	901	4	Radomír	Mikoláš	M	Ing.		25	junior specialista	Nošovice	99	80	0
-8102	552518	1	2	901	5	Tomáš	Gongol	M	Mgr.	Ph.D.	32	odborný asistent VŠ	Nošovice	99	80	0
-8102	552518	1	2	901	6	Věra	Palarčíková	F	Mgr.		64	důchodce	Nošovice	99	80	0
-8102	552518	1	2	901	7	Karel	Ptáček	M			53	prodejce automobilů	Nošovice	99	80	0
-8102	552518	1	2	901	8	Jana	Dobešová	F			65	důchodce	Nošovice	99	80	0
-8102	552518	1	2	901	9	Břetislav	Škola	M	Ing.		59	vedoucí technolog	Nošovice	99	80	0
-8102	552518	1	3	902	1	Jiří	Juřica	M			49	technik	Nošovice	99	80	0
-8102	552518	1	3	902	2	František	Gavlas	M			46	velínář	Nošovice	99	80	0
-8102	552518	1	3	902	3	Milan	Gurecký	M			31	valcíř kovů	Nošovice	99	80	0
-8102	552518	1	3	902	4	Petr	Kroček	M			28	policista	Nošovice	99	80	0
-8102	552518	1	3	902	5	Rostislav	Čagala	M			32	svářeč	Nošovice	99	80	0
-8102	552518	1	3	902	6	Jiří	Kozel	M			60	důchodce	Nošovice	99	80	0
-8102	552518	1	3	902	7	Vladimír	Kaloč	M			32	svářeč	Nošovice	99	80	0
-8102	552518	1	3	902	8	Robert	Zajac	M			36	technik	Nošovice	99	80	0
-8102	552518	1	3	902	9	Vlastislav	Komenský	M	Ing.		41	technik	Nošovice	99	80	0
-8102	552518	1	4	903	1	Magdaléna	Kachtíková	F	Ing.		34	referent pošt. provozu	Nošovice	99	80	0
-8102	552518	1	4	903	2	Lenka	Damková	F	Mgr.		44	ředitelka ZŠ a MŠ	Nošovice	99	80	0
-8102	552518	1	4	903	3	Anna	Mališová	F			55	asistentka manažera	Nošovice	99	80	0
-8102	552518	1	4	903	4	Renáta	Dvořáková	F			35	vedoucí jídelny	Nošovice	99	80	0
-8102	552518	1	4	903	5	Jarmila	Juřicová	F			44	dělnice	Nošovice	99	80	0
-8102	552518	1	4	903	6	Lenka	Vojkovská	F			23	pojišťovací makléř	Nošovice	99	80	0
-8102	552518	1	4	903	7	Emílie	Uherková	F			59	důchodce	Nošovice	99	80	0
-8102	552518	1	4	903	8	Renáta	Komenská	F			40	vedoucí jídelny ZŠ a MŠ	Nošovice	99	80	0
-8102	552518	1	4	903	9	Martina	Vlčková	F			38	uklízečka	Nošovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8102	552518	1	1	721	1	Igor	Slováček	Mgr.		38	učitel	Nošovice	99	721	0	M
+8102	552518	1	2	901	1	Miroslav	Kačmarčík			56	starosta	Nošovice	99	80	0	M
+8102	552518	1	3	902	1	Jiří	Juřica			49	technik	Nošovice	99	80	0	M
+8102	552518	1	4	903	1	Magdaléna	Kachtíková	Ing.		34	referent pošt. provozu	Nošovice	99	80	0	F
+8102	552518	1	1	721	2	Jiří	Myšinský	Mgr.		45	manažer mark., soud. znalec	Nošovice	721	721	0	M
+8102	552518	1	2	901	2	Roman	Cviček	Ing.		37	podnikatel	Nošovice	99	80	0	M
+8102	552518	1	3	902	2	František	Gavlas			46	velínář	Nošovice	99	80	0	M
+8102	552518	1	4	903	2	Lenka	Damková	Mgr.		44	ředitelka ZŠ a MŠ	Nošovice	99	80	0	F
+8102	552518	1	1	721	3	Pavel	Hendrych			38	obchodní zástupce	Nošovice	99	721	0	M
+8102	552518	1	2	901	3	Marek	Olšar	Ing.		34	vedoucí dopravy	Nošovice	99	80	0	M
+8102	552518	1	3	902	3	Milan	Gurecký			31	valcíř kovů	Nošovice	99	80	0	M
+8102	552518	1	4	903	3	Anna	Mališová			55	asistentka manažera	Nošovice	99	80	0	F
+8102	552518	1	1	721	4	Jana	Dobešová			42	trenérka mlad. reprezentace	Nošovice	99	721	0	F
+8102	552518	1	2	901	4	Radomír	Mikoláš	Ing.		25	junior specialista	Nošovice	99	80	0	M
+8102	552518	1	3	902	4	Petr	Kroček			28	policista	Nošovice	99	80	0	M
+8102	552518	1	4	903	4	Renáta	Dvořáková			35	vedoucí jídelny	Nošovice	99	80	0	F
+8102	552518	1	1	721	5	Pavel	Babica			38	podnikatel	Nošovice	99	721	0	M
+8102	552518	1	2	901	5	Tomáš	Gongol	Mgr.	Ph.D.	32	odborný asistent VŠ	Nošovice	99	80	0	M
+8102	552518	1	3	902	5	Rostislav	Čagala			32	svářeč	Nošovice	99	80	0	M
+8102	552518	1	4	903	5	Jarmila	Juřicová			44	dělnice	Nošovice	99	80	0	F
+8102	552518	1	1	721	6	Jindřiška	Slováčková	Mgr.		39	ved. lékárny	Nošovice	99	721	0	F
+8102	552518	1	2	901	6	Věra	Palarčíková	Mgr.		64	důchodce	Nošovice	99	80	0	F
+8102	552518	1	3	902	6	Jiří	Kozel			60	důchodce	Nošovice	99	80	0	M
+8102	552518	1	4	903	6	Lenka	Vojkovská			23	pojišťovací makléř	Nošovice	99	80	0	F
+8102	552518	1	1	721	7	Jiří	Kudělásek			51	podnikatel	Nošovice	99	721	0	M
+8102	552518	1	2	901	7	Karel	Ptáček			53	prodejce automobilů	Nošovice	99	80	0	M
+8102	552518	1	3	902	7	Vladimír	Kaloč			32	svářeč	Nošovice	99	80	0	M
+8102	552518	1	4	903	7	Emílie	Uherková			59	důchodce	Nošovice	99	80	0	F
+8102	552518	1	1	721	8	Marek	Myšinský			24	fin. analytik	Nošovice	99	721	0	M
+8102	552518	1	2	901	8	Jana	Dobešová			65	důchodce	Nošovice	99	80	0	F
+8102	552518	1	3	902	8	Robert	Zajac			36	technik	Nošovice	99	80	0	M
+8102	552518	1	4	903	8	Renáta	Komenská			40	vedoucí jídelny ZŠ a MŠ	Nošovice	99	80	0	F
+8102	552518	1	1	721	9	Rostislav	Březina			45	živnostník	Nošovice	99	721	0	M
+8102	552518	1	2	901	9	Břetislav	Škola	Ing.		59	vedoucí technolog	Nošovice	99	80	0	M
+8102	552518	1	3	902	9	Vlastislav	Komenský	Ing.		41	technik	Nošovice	99	80	0	M
+8102	552518	1	4	903	9	Martina	Vlčková			38	uklízečka	Nošovice	99	80	0	F

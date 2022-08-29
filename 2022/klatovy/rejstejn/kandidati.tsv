@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3202	557021	1	1	901	1	David	Poláček	M			46	státní zaměstnanec	Velký Radkov	99	80	A
-3202	557021	1	1	901	2	Vladimír	Holý	M			46	hasič záchranář	Rejštejn	99	80	A
-3202	557021	1	1	901	3	Daniel	Jiroušek	M			45	hasič záchranář	Rejštejn	99	80	A
-3202	557021	1	1	901	4	Jakub	Martinec	M			36	IT specialista	Rejštejn	99	80	A
-3202	557021	1	1	901	5	Martin	Loužek	M			48	vedoucí údržby	Rejštejn	99	80	A
-3202	557021	1	1	901	6	Luděk	Bufka	M			58	zoolog	Rejštejn	99	80	A
-3202	557021	1	1	901	7	Josef	Kavale	M			69	důchodce	Radešov	99	80	A
-3202	557021	1	2	902	1	Horst	Hasenöhrl	M			51	starosta	Rejštejn	99	80	A
-3202	557021	1	2	902	2	Zdeněk	Bradáč	M			42	soukromý zemědělec	Radešov	99	80	A
-3202	557021	1	2	902	3	Jiří	Heberlein	M			50	podnikatel	Klášterský Mlýn	99	80	A
-3202	557021	1	2	902	4	Václav	Zahrádka	M			40	zámečník	Klášterský Mlýn	99	80	A
-3202	557021	1	2	902	5	František	Scheinost	M	Ing.		64	soukromý zemědělec	Svojše	99	80	A
-3202	557021	1	2	902	6	Richard	Kolář	M	Bc.		46	státní zaměstnanec	Rejštejn	99	80	A
-3202	557021	1	2	902	7	Lubor	Koňas	M			46	obchodník	Klášterský Mlýn	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3202	557021	1	1	901	1	David	Poláček			46	státní zaměstnanec	Velký Radkov	99	80	A	M
+3202	557021	1	2	902	1	Horst	Hasenöhrl			51	starosta	Rejštejn	99	80	A	M
+3202	557021	1	1	901	2	Vladimír	Holý			46	hasič záchranář	Rejštejn	99	80	A	M
+3202	557021	1	2	902	2	Zdeněk	Bradáč			42	soukromý zemědělec	Radešov	99	80	A	M
+3202	557021	1	1	901	3	Daniel	Jiroušek			45	hasič záchranář	Rejštejn	99	80	A	M
+3202	557021	1	2	902	3	Jiří	Heberlein			50	podnikatel	Klášterský Mlýn	99	80	A	M
+3202	557021	1	1	901	4	Jakub	Martinec			36	IT specialista	Rejštejn	99	80	A	M
+3202	557021	1	2	902	4	Václav	Zahrádka			40	zámečník	Klášterský Mlýn	99	80	A	M
+3202	557021	1	1	901	5	Martin	Loužek			48	vedoucí údržby	Rejštejn	99	80	A	M
+3202	557021	1	2	902	5	František	Scheinost	Ing.		64	soukromý zemědělec	Svojše	99	80	A	M
+3202	557021	1	1	901	6	Luděk	Bufka			58	zoolog	Rejštejn	99	80	A	M
+3202	557021	1	2	902	6	Richard	Kolář	Bc.		46	státní zaměstnanec	Rejštejn	99	80	A	M
+3202	557021	1	1	901	7	Josef	Kavale			69	důchodce	Radešov	99	80	A	M
+3202	557021	1	2	902	7	Lubor	Koňas			46	obchodník	Klášterský Mlýn	99	80	A	M

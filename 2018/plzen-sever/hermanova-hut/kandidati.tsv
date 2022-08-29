@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3205	558869	1	1	901	1	Karel	Bernhard	M	Ing.	DiS.	37	lesník	Vlkýš	99	80	A
-3205	558869	1	1	901	2	Václav	Síbal	M			72	důchodce	Dolní Sekyřany	99	80	A
-3205	558869	1	1	901	3	Irena	Filipová	F			42	OSVČ	Vlkýš	99	80	A
-3205	558869	1	1	901	4	Štěpánka	Nováková	F			43	technik přípravy staveb	Dolní Sekyřany	99	80	A
-3205	558869	1	1	901	5	Markéta	Kučerová	F	Ing.		33	mateřská dovolená	Vlkýš	99	80	A
-3205	558869	1	1	901	6	Marie	Rožková	F			54	v domácnosti	Vlkýš	99	80	A
-3205	558869	1	1	901	7	Michal	Naď	M	Ing.		35	technolog	Vlkýš	99	80	A
-3205	558869	1	1	901	8	Jiří	Poslední	M			56	malíř pokojů	Vlkýš	99	80	A
-3205	558869	1	1	901	9	Aneta	Mahdalová	F			43	administrativní pracovnice	Vlkýš	99	80	A
-3205	558869	1	1	901	10	Irena	Urbanczyková	F			54	administrativní pracovnice	Vlkýš	99	80	A
-3205	558869	1	1	901	11	Jaromír	Zelenka	M			59	zámečník	Vlkýš	99	80	A
-3205	558869	1	1	901	12	Helena	Gahnová	F			61	disponent kam. dopravy	Dolní Sekyřany	99	80	A
-3205	558869	1	1	901	13	Tomáš	Sedláček	M			46	řidič	Vlkýš	99	80	A
-3205	558869	1	1	901	14	Marcela	Londová	F			40	dámská krejčová	Vlkýš	99	80	A
-3205	558869	1	1	901	15	Kateřina	Jindrová	F			40	THP lesnictví	Vlkýš	99	80	A
-3205	558869	1	2	470	1	Radek	Lukáč	M			52	starosta	Vlkýš	166	166	A
-3205	558869	1	2	470	2	Přemysl	Hofman	M	Ing.		47	podnikatel	Dolní Sekyřany	99	166	A
-3205	558869	1	2	470	3	Vladimír	Vavřina	M			46	zámečník	Vlkýš	99	166	A
-3205	558869	1	2	470	4	Libor	Vachovec	M			42	ICT	Vlkýš	99	166	A
-3205	558869	1	2	470	5	Karel	Neckář	M	Ing.	Ph.D.	37	vedoucí obchodního oddělení	Vlkýš	99	166	A
-3205	558869	1	2	470	6	Lucie	Pavezová	F			38	úřednice	Horní Sekyřany	99	166	A
-3205	558869	1	2	470	7	Miroslava	Suchá	F	Mgr.		30	mateřská dovolená	Vlkýš	99	166	A
-3205	558869	1	2	470	8	Miroslav	Pánek	M			53	podnikatel	Vlkýš	99	166	A
-3205	558869	1	2	470	9	Jitka	Muzikářová	F			48	účetní	Vlkýš	99	166	A
-3205	558869	1	2	470	10	Stanislav	Svoboda	M			71	důchodce	Horní Sekyřany	99	166	A
-3205	558869	1	2	470	11	Martin	Hosman	M			36	seřizovač	Vlkýš	99	166	A
-3205	558869	1	2	470	12	Vladimír	Kindl	M	doc. Ing.	Ph.D.	35	akademický vědecký pracovník	Vlkýš	99	166	A
-3205	558869	1	2	470	13	Ondřej	Melichar	M			39	SAP specialista skladového hospodářství	Vlkýš	99	166	A
-3205	558869	1	2	470	14	Tereza	Macháčková	F			25	student	Vlkýš	99	166	A
-3205	558869	1	2	470	15	Karel	Volráb	M			52	operátor	Vlkýš	99	166	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3205	558869	1	1	901	1	Karel	Bernhard	Ing.	DiS.	37	lesník	Vlkýš	99	80	A	M
+3205	558869	1	2	470	1	Radek	Lukáč			52	starosta	Vlkýš	166	166	A	M
+3205	558869	1	1	901	2	Václav	Síbal			72	důchodce	Dolní Sekyřany	99	80	A	M
+3205	558869	1	2	470	2	Přemysl	Hofman	Ing.		47	podnikatel	Dolní Sekyřany	99	166	A	M
+3205	558869	1	1	901	3	Irena	Filipová			42	OSVČ	Vlkýš	99	80	A	F
+3205	558869	1	2	470	3	Vladimír	Vavřina			46	zámečník	Vlkýš	99	166	A	M
+3205	558869	1	1	901	4	Štěpánka	Nováková			43	technik přípravy staveb	Dolní Sekyřany	99	80	A	F
+3205	558869	1	2	470	4	Libor	Vachovec			42	ICT	Vlkýš	99	166	A	M
+3205	558869	1	1	901	5	Markéta	Kučerová	Ing.		33	mateřská dovolená	Vlkýš	99	80	A	F
+3205	558869	1	2	470	5	Karel	Neckář	Ing.	Ph.D.	37	vedoucí obchodního oddělení	Vlkýš	99	166	A	M
+3205	558869	1	1	901	6	Marie	Rožková			54	v domácnosti	Vlkýš	99	80	A	F
+3205	558869	1	2	470	6	Lucie	Pavezová			38	úřednice	Horní Sekyřany	99	166	A	F
+3205	558869	1	1	901	7	Michal	Naď	Ing.		35	technolog	Vlkýš	99	80	A	M
+3205	558869	1	2	470	7	Miroslava	Suchá	Mgr.		30	mateřská dovolená	Vlkýš	99	166	A	F
+3205	558869	1	1	901	8	Jiří	Poslední			56	malíř pokojů	Vlkýš	99	80	A	M
+3205	558869	1	2	470	8	Miroslav	Pánek			53	podnikatel	Vlkýš	99	166	A	M
+3205	558869	1	1	901	9	Aneta	Mahdalová			43	administrativní pracovnice	Vlkýš	99	80	A	F
+3205	558869	1	2	470	9	Jitka	Muzikářová			48	účetní	Vlkýš	99	166	A	F
+3205	558869	1	1	901	10	Irena	Urbanczyková			54	administrativní pracovnice	Vlkýš	99	80	A	F
+3205	558869	1	2	470	10	Stanislav	Svoboda			71	důchodce	Horní Sekyřany	99	166	A	M
+3205	558869	1	1	901	11	Jaromír	Zelenka			59	zámečník	Vlkýš	99	80	A	M
+3205	558869	1	2	470	11	Martin	Hosman			36	seřizovač	Vlkýš	99	166	A	M
+3205	558869	1	1	901	12	Helena	Gahnová			61	disponent kam. dopravy	Dolní Sekyřany	99	80	A	F
+3205	558869	1	2	470	12	Vladimír	Kindl	doc. Ing.	Ph.D.	35	akademický vědecký pracovník	Vlkýš	99	166	A	M
+3205	558869	1	1	901	13	Tomáš	Sedláček			46	řidič	Vlkýš	99	80	A	M
+3205	558869	1	2	470	13	Ondřej	Melichar			39	SAP specialista skladového hospodářství	Vlkýš	99	166	A	M
+3205	558869	1	1	901	14	Marcela	Londová			40	dámská krejčová	Vlkýš	99	80	A	F
+3205	558869	1	2	470	14	Tereza	Macháčková			25	student	Vlkýš	99	166	A	F
+3205	558869	1	1	901	15	Kateřina	Jindrová			40	THP lesnictví	Vlkýš	99	80	A	F
+3205	558869	1	2	470	15	Karel	Volráb			52	operátor	Vlkýš	99	166	A	M

@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	582654	1	1	1	1	František	Kala	M			57	vedoucí výroby	Vilémovice	1	1	A
-6201	582654	1	1	1	2	Anežka	Štelclová	F	Ing.		36	registrační manažer	Vilémovice	99	1	A
-6201	582654	1	1	1	3	Petr	Tomeš	M	Ing.		35	technický pracovník	Vilémovice	99	1	A
-6201	582654	1	1	1	4	Jaromír	Sedlák	M	Ing.		63	podnikatel	Vilémovice	1	1	A
-6201	582654	1	1	1	5	Radek	Vybíhal	M	Ing.		33	molding engineer	Vilémovice	99	1	A
-6201	582654	1	1	1	6	Jarmila	Hrazdírová	F			45	dělnice	Vilémovice	99	1	A
-6201	582654	1	1	1	7	Zdeněk	Suchý	M			37	podnikatel	Vilémovice	99	1	A
-6201	582654	1	2	88	1	Milan	Kučera	M			47	správce obecního majetku	Vilémovice	99	88	A
-6201	582654	1	2	88	2	Petr	Flek	M			52	obsluha CNC	Vilémovice	99	88	A
-6201	582654	1	2	88	3	Leoš	Doležel	M			52	mechanik	Vilémovice	99	88	A
-6201	582654	1	2	88	4	Radek	Kučera	M			43	řidič ZZS	Vilémovice	99	88	A
-6201	582654	1	2	88	5	Ilona	Fleková	F			44	elektromechanička	Vilémovice	99	88	A
-6201	582654	1	2	88	6	Pavel	Kouřil	M			47	dělník	Vilémovice	99	88	A
-6201	582654	1	2	88	7	Jiří	Ševčík	M			45	instruktor	Vilémovice	99	88	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	582654	1	1	1	1	František	Kala			57	vedoucí výroby	Vilémovice	1	1	A	M
+6201	582654	1	2	88	1	Milan	Kučera			47	správce obecního majetku	Vilémovice	99	88	A	M
+6201	582654	1	1	1	2	Anežka	Štelclová	Ing.		36	registrační manažer	Vilémovice	99	1	A	F
+6201	582654	1	2	88	2	Petr	Flek			52	obsluha CNC	Vilémovice	99	88	A	M
+6201	582654	1	1	1	3	Petr	Tomeš	Ing.		35	technický pracovník	Vilémovice	99	1	A	M
+6201	582654	1	2	88	3	Leoš	Doležel			52	mechanik	Vilémovice	99	88	A	M
+6201	582654	1	1	1	4	Jaromír	Sedlák	Ing.		63	podnikatel	Vilémovice	1	1	A	M
+6201	582654	1	2	88	4	Radek	Kučera			43	řidič ZZS	Vilémovice	99	88	A	M
+6201	582654	1	1	1	5	Radek	Vybíhal	Ing.		33	molding engineer	Vilémovice	99	1	A	M
+6201	582654	1	2	88	5	Ilona	Fleková			44	elektromechanička	Vilémovice	99	88	A	F
+6201	582654	1	1	1	6	Jarmila	Hrazdírová			45	dělnice	Vilémovice	99	1	A	F
+6201	582654	1	2	88	6	Pavel	Kouřil			47	dělník	Vilémovice	99	88	A	M
+6201	582654	1	1	1	7	Zdeněk	Suchý			37	podnikatel	Vilémovice	99	1	A	M
+6201	582654	1	2	88	7	Jiří	Ševčík			45	instruktor	Vilémovice	99	88	A	M

@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3106	536628	1	1	801	1	Jaroslav	Křivanec	M			45	pojišťovací agent	Hlupín	99	80	0
-3106	536628	1	2	802	1	Stanislav	Kučera	M			36	učitel odborného výcviku	Hlupín	99	80	0
-3106	536628	1	3	1	1	Petr	Břicháček	M	Ing.		47	úředník	Hlupín	1	1	0
-3106	536628	1	3	1	2	Jan	Komrska	M			21	student	Hlupín	1	1	0
-3106	536628	1	4	901	1	Karel	Fišer	M			37	obráběč kovů	Hlupín	99	80	0
-3106	536628	1	4	901	2	Zdeněk	Šilhan	M			54	řidič	Hlupín	99	80	0
-3106	536628	1	4	901	3	Michaela	Kočárová	F			22	studentka	Hlupín	99	80	0
-3106	536628	1	4	901	4	Josef	Fišer	M			40	řidič	Hlupín	99	80	0
-3106	536628	1	4	901	5	Antonín	Křivanec	M			44	řidič	Hlupín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3106	536628	1	1	801	1	Jaroslav	Křivanec			45	pojišťovací agent	Hlupín	99	80	0	M
+3106	536628	1	2	802	1	Stanislav	Kučera			36	učitel odborného výcviku	Hlupín	99	80	0	M
+3106	536628	1	3	1	1	Petr	Břicháček	Ing.		47	úředník	Hlupín	1	1	0	M
+3106	536628	1	4	901	1	Karel	Fišer			37	obráběč kovů	Hlupín	99	80	0	M
+3106	536628	1	3	1	2	Jan	Komrska			21	student	Hlupín	1	1	0	M
+3106	536628	1	4	901	2	Zdeněk	Šilhan			54	řidič	Hlupín	99	80	0	M
+3106	536628	1	4	901	3	Michaela	Kočárová			22	studentka	Hlupín	99	80	0	F
+3106	536628	1	4	901	4	Josef	Fišer			40	řidič	Hlupín	99	80	0	M
+3106	536628	1	4	901	5	Antonín	Křivanec			44	řidič	Hlupín	99	80	0	M

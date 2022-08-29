@@ -1,40 +1,40 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	565415	1	1	903	1	Věra	Zapletalová	F	Ing.		49	OSVČ	Chrášťany	99	80	A
-4203	565415	1	1	903	2	Michal	Šuma	M	Ing.		37	administrativní pracovník státní správy	Podsedice	99	80	A
-4203	565415	1	1	903	3	Miloš	Zeman	M			61	údržbář	Chrášťany	99	80	A
-4203	565415	1	1	903	4	Ondřej	Svítil	M			37	obchodní zástupce	Podsedice	99	80	A
-4203	565415	1	1	903	5	Lenka	Zemanová	F	Ing.		32	logistik	Chrášťany	99	80	A
-4203	565415	1	1	903	6	Jozef	Németh	M	Ing.		64	důchodce	Podsedice	99	80	A
-4203	565415	1	1	903	7	Richard	Zapletal	M			53	voják z povolání	Chrášťany	99	80	A
-4203	565415	1	1	903	8	Václav	Hönig	M			46	učitel odborného výcviku	Podsedice	99	80	A
-4203	565415	1	1	903	9	René	Čubík	M			42	administrativní pracovník	Podsedice	99	80	A
-4203	565415	1	1	903	10	Hana	Mendová	F			64	důchodce	Podsedice	99	80	A
-4203	565415	1	1	903	11	Zdeněk	Murdych	M			57	řidič	Podsedice	99	80	A
-4203	565415	1	1	903	12	Luděk	Dejml	M			69	důchodce	Podsedice	99	80	A
-4203	565415	1	1	903	13	Jaroslav	Pazourek	M			71	důchodce	Podsedice	99	80	A
-4203	565415	1	2	901	1	Veronika	Kulichová	F			41	starostka obce	Podsedice	99	80	A
-4203	565415	1	2	901	2	Miluše	Srbková	F	Ing.	MBA	57	ředitelka příspěvkové organizace	Chrášťany	99	80	A
-4203	565415	1	2	901	3	Iveta	Holubová	F			38	OSVČ	Podsedice	99	80	A
-4203	565415	1	2	901	4	Josef	Mareš	M			46	policista PČR	Chrášťany	99	80	A
-4203	565415	1	2	901	5	Zdeněk	Zdvořák	M			39	logistik	Podsedice	99	80	A
-4203	565415	1	2	901	6	Martina	Pavlíčková	F	Mgr.		27	advokátní koncipientka	Podsedice	99	80	A
-4203	565415	1	2	901	7	Květoslav	Holeyšovský	M	Bc.		48	policista PČR	Podsedice	99	80	A
-4203	565415	1	2	901	8	Miloslav	Šaloun	M			43	automechanik	Obřice	99	80	A
-4203	565415	1	2	901	9	Antonín	Krug	M			54	technik-logistik	Pnětluky	99	80	A
-4203	565415	1	2	901	10	Pavla	Vobrubová	F	Ing.		43	obchodní zástupce	Pnětluky	99	80	A
-4203	565415	1	2	901	11	Jiří	Zinek	M			30	hasič	Chrášťany	99	80	A
-4203	565415	1	2	901	12	Milan	Dvořák	M			66	důchodce	Chrášťany	99	80	A
-4203	565415	1	2	901	13	Anna	Aulická	F			42	administrativní pracovník výroby	Podsedice	99	80	A
-4203	565415	1	3	902	1	Robert	Kopecký	M			36	policista	Podsedice	99	80	A
-4203	565415	1	3	902	2	Miroslava	Pešulová	F			66	důchodkyně	Podsedice	99	80	A
-4203	565415	1	3	902	3	Miloslava	Matuláková	F	Mgr. Bc.		37	učitelka	Podsedice	99	80	A
-4203	565415	1	3	902	4	Zdeněk	Hodek	M			41	seřizovač	Podsedice	99	80	A
-4203	565415	1	3	902	5	Petr	Macák	M			43	živnostník	Pnětluky	99	80	A
-4203	565415	1	3	902	6	Zdeněk	Škola	M	MUDr.		63	lékař	Podsedice	99	80	A
-4203	565415	1	3	902	7	Anna	Walentová	F			74	důchodkyně	Podsedice	99	80	A
-4203	565415	1	3	902	8	Adéla	Zemanová	F			23	studentka	Podsedice	99	80	A
-4203	565415	1	3	902	9	Ondřej	Hönig	M			19	student	Chrášťany	99	80	A
-4203	565415	1	3	902	10	Jiří	Dorn	M			39	živnostník	Podsedice	99	80	A
-4203	565415	1	3	902	11	Alena	Anderlová	F			67	důchodkyně	Podsedice	99	80	A
-4203	565415	1	3	902	12	Milan	Rokoš	M			71	důchodce	Obřice	99	80	A
-4203	565415	1	3	902	13	Jaroslav	Pešula	M			48	skladník	Podsedice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	565415	1	1	903	1	Věra	Zapletalová	Ing.		49	OSVČ	Chrášťany	99	80	A	F
+4203	565415	1	2	901	1	Veronika	Kulichová			41	starostka obce	Podsedice	99	80	A	F
+4203	565415	1	3	902	1	Robert	Kopecký			36	policista	Podsedice	99	80	A	M
+4203	565415	1	1	903	2	Michal	Šuma	Ing.		37	administrativní pracovník státní správy	Podsedice	99	80	A	M
+4203	565415	1	2	901	2	Miluše	Srbková	Ing.	MBA	57	ředitelka příspěvkové organizace	Chrášťany	99	80	A	F
+4203	565415	1	3	902	2	Miroslava	Pešulová			66	důchodkyně	Podsedice	99	80	A	F
+4203	565415	1	1	903	3	Miloš	Zeman			61	údržbář	Chrášťany	99	80	A	M
+4203	565415	1	2	901	3	Iveta	Holubová			38	OSVČ	Podsedice	99	80	A	F
+4203	565415	1	3	902	3	Miloslava	Matuláková	Mgr. Bc.		37	učitelka	Podsedice	99	80	A	F
+4203	565415	1	1	903	4	Ondřej	Svítil			37	obchodní zástupce	Podsedice	99	80	A	M
+4203	565415	1	2	901	4	Josef	Mareš			46	policista PČR	Chrášťany	99	80	A	M
+4203	565415	1	3	902	4	Zdeněk	Hodek			41	seřizovač	Podsedice	99	80	A	M
+4203	565415	1	1	903	5	Lenka	Zemanová	Ing.		32	logistik	Chrášťany	99	80	A	F
+4203	565415	1	2	901	5	Zdeněk	Zdvořák			39	logistik	Podsedice	99	80	A	M
+4203	565415	1	3	902	5	Petr	Macák			43	živnostník	Pnětluky	99	80	A	M
+4203	565415	1	1	903	6	Jozef	Németh	Ing.		64	důchodce	Podsedice	99	80	A	M
+4203	565415	1	2	901	6	Martina	Pavlíčková	Mgr.		27	advokátní koncipientka	Podsedice	99	80	A	F
+4203	565415	1	3	902	6	Zdeněk	Škola	MUDr.		63	lékař	Podsedice	99	80	A	M
+4203	565415	1	1	903	7	Richard	Zapletal			53	voják z povolání	Chrášťany	99	80	A	M
+4203	565415	1	2	901	7	Květoslav	Holeyšovský	Bc.		48	policista PČR	Podsedice	99	80	A	M
+4203	565415	1	3	902	7	Anna	Walentová			74	důchodkyně	Podsedice	99	80	A	F
+4203	565415	1	1	903	8	Václav	Hönig			46	učitel odborného výcviku	Podsedice	99	80	A	M
+4203	565415	1	2	901	8	Miloslav	Šaloun			43	automechanik	Obřice	99	80	A	M
+4203	565415	1	3	902	8	Adéla	Zemanová			23	studentka	Podsedice	99	80	A	F
+4203	565415	1	1	903	9	René	Čubík			42	administrativní pracovník	Podsedice	99	80	A	M
+4203	565415	1	2	901	9	Antonín	Krug			54	technik-logistik	Pnětluky	99	80	A	M
+4203	565415	1	3	902	9	Ondřej	Hönig			19	student	Chrášťany	99	80	A	M
+4203	565415	1	1	903	10	Hana	Mendová			64	důchodce	Podsedice	99	80	A	F
+4203	565415	1	2	901	10	Pavla	Vobrubová	Ing.		43	obchodní zástupce	Pnětluky	99	80	A	F
+4203	565415	1	3	902	10	Jiří	Dorn			39	živnostník	Podsedice	99	80	A	M
+4203	565415	1	1	903	11	Zdeněk	Murdych			57	řidič	Podsedice	99	80	A	M
+4203	565415	1	2	901	11	Jiří	Zinek			30	hasič	Chrášťany	99	80	A	M
+4203	565415	1	3	902	11	Alena	Anderlová			67	důchodkyně	Podsedice	99	80	A	F
+4203	565415	1	1	903	12	Luděk	Dejml			69	důchodce	Podsedice	99	80	A	M
+4203	565415	1	2	901	12	Milan	Dvořák			66	důchodce	Chrášťany	99	80	A	M
+4203	565415	1	3	902	12	Milan	Rokoš			71	důchodce	Obřice	99	80	A	M
+4203	565415	1	1	903	13	Jaroslav	Pazourek			71	důchodce	Podsedice	99	80	A	M
+4203	565415	1	2	901	13	Anna	Aulická			42	administrativní pracovník výroby	Podsedice	99	80	A	F
+4203	565415	1	3	902	13	Jaroslav	Pešula			48	skladník	Podsedice	99	80	A	M

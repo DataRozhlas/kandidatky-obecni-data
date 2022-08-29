@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3205	566756	1	1	902	1	Petr	Chleborád	M	Bc.		37	jednatel s.r.o., místostarosta	Bdeněves	99	80	0
-3205	566756	1	1	902	2	Tomáš	Myslivec	M			42	obchodník ve stavebninách	Bdeněves	99	80	0
-3205	566756	1	1	902	3	Radovan	Rašpl	M	Ing.		45	technický ředitel ve strojírenství	Bdeněves	99	80	0
-3205	566756	1	1	902	4	Gabriela	Mathejzíková	F			39	administrátorka účetního oddělení	Bdeněves	99	80	0
-3205	566756	1	1	902	5	Milan	Kapraľ	M	Ing.		47	vedoucí manažer v elektrotechnice	Bdeněves	99	80	0
-3205	566756	1	1	902	6	Jan	Kupec	M			32	technik ve výrobě	Bdeněves	99	80	0
-3205	566756	1	1	902	7	Eva	Patčová	F	Mgr.	DiS.	37	učitelka ZŠ, fyzioterapeut	Bdeněves	99	80	0
-3205	566756	1	1	902	8	Zuzana	Svobodová	F	Ing.		37	referentka v energetice	Bdeněves	99	80	0
-3205	566756	1	1	902	9	Iveta	Hanišová	F	MUDr.		44	lékařka oboru kardiologie	Bdeněves	99	80	0
-3205	566756	1	2	901	1	Josef	Šmíd	M	Ing.		58	soukromý podnikatel	Bdeněves	99	80	0
-3205	566756	1	2	901	2	Marie	Skálová	F			46	laboratorní technik	Bdeněves	99	80	0
-3205	566756	1	2	901	3	Jiří	Rajchelt	M			56	soukromý podnikatel	Bdeněves	99	80	0
-3205	566756	1	2	901	4	Miroslav	Trnka	M	Ing.		46	zaměstnanec města Plzně	Bdeněves	99	80	0
-3205	566756	1	2	901	5	Helena	Křivová	F			45	obchodní zástupce	Bdeněves	99	80	0
-3205	566756	1	2	901	6	Vít	Zahradník	M			40	seřizovač nc strojů	Bdeněves	99	80	0
-3205	566756	1	2	901	7	Martin	Havlík	M			19	studující	Bdeněves	99	80	0
-3205	566756	1	2	901	8	Martin	Mikulovský	M			37	zaměstnanec stavební firmy	Bdeněves	99	80	0
-3205	566756	1	2	901	9	Michaela	Lavičková	F			27	zdravotní sestra	Bdeněves	99	80	0
-3205	566756	1	3	903	1	Dana	Šmídová	F			49	účetní ÚSC	Bdeněves	99	80	0
-3205	566756	1	3	903	2	Pavel	Kochman	M	Ing.		52	projektový manažer	Bdeněves	99	80	0
-3205	566756	1	3	903	3	Jaroslava	Hausdorfová	F			65	důchodce	Bdeněves	99	80	0
-3205	566756	1	3	903	4	Karel	Linhart	M			51	technik	Bdeněves	99	80	0
-3205	566756	1	3	903	5	Jitka	Šmídová	F	Bc.	DiS.	25	koordinátorka projektu	Bdeněves	99	80	0
-3205	566756	1	3	903	6	Hana	Lisá	F			41	zástupce vedoucí filiálky	Bdeněves	99	80	0
-3205	566756	1	3	903	7	Michal	Čečil	M			43	podnikatel	Bdeněves	99	80	0
-3205	566756	1	3	903	8	Kateřina	Hniličková	F			35	sociální pracovnice	Bdeněves	99	80	0
-3205	566756	1	3	903	9	Jan	Černý	M			57	podnikatel	Bdeněves	99	80	0
-3205	566756	1	4	470	1	Radek	Burda	M			40	vykonavatel soudního exekutora	Bdeněves	99	166	0
-3205	566756	1	4	470	2	Michal	Tiller	M			34	elektrotechnik	Bdeněves	99	80	0
-3205	566756	1	4	470	3	Milan	Kerner	M			36	disponent nákladní dopravy	Bdeněves	99	80	0
-3205	566756	1	4	470	4	Pavel	Trojan	M			38	elektrotechnik	Bdeněves	99	80	0
-3205	566756	1	4	470	5	Miroslav	Slapnička	M			29	koordinátor oprav kamionové dopravy	Bdeněves	99	80	0
-3205	566756	1	4	470	6	Milan	Tomišin	M			47	vedoucí pracovník čalounické firmy	Bdeněves	99	80	0
-3205	566756	1	4	470	7	Šárka	Honomichlová	F			40	policistka	Bdeněves	99	80	0
-3205	566756	1	4	470	8	Tomáš	Hausdorf	M			35	automechanik	Bdeněves	99	80	0
-3205	566756	1	4	470	9	René	Tomášek	M			40	strojník	Bdeněves	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3205	566756	1	1	902	1	Petr	Chleborád	Bc.		37	jednatel s.r.o., místostarosta	Bdeněves	99	80	0	M
+3205	566756	1	2	901	1	Josef	Šmíd	Ing.		58	soukromý podnikatel	Bdeněves	99	80	0	M
+3205	566756	1	3	903	1	Dana	Šmídová			49	účetní ÚSC	Bdeněves	99	80	0	F
+3205	566756	1	4	470	1	Radek	Burda			40	vykonavatel soudního exekutora	Bdeněves	99	166	0	M
+3205	566756	1	1	902	2	Tomáš	Myslivec			42	obchodník ve stavebninách	Bdeněves	99	80	0	M
+3205	566756	1	2	901	2	Marie	Skálová			46	laboratorní technik	Bdeněves	99	80	0	F
+3205	566756	1	3	903	2	Pavel	Kochman	Ing.		52	projektový manažer	Bdeněves	99	80	0	M
+3205	566756	1	4	470	2	Michal	Tiller			34	elektrotechnik	Bdeněves	99	80	0	M
+3205	566756	1	1	902	3	Radovan	Rašpl	Ing.		45	technický ředitel ve strojírenství	Bdeněves	99	80	0	M
+3205	566756	1	2	901	3	Jiří	Rajchelt			56	soukromý podnikatel	Bdeněves	99	80	0	M
+3205	566756	1	3	903	3	Jaroslava	Hausdorfová			65	důchodce	Bdeněves	99	80	0	F
+3205	566756	1	4	470	3	Milan	Kerner			36	disponent nákladní dopravy	Bdeněves	99	80	0	M
+3205	566756	1	1	902	4	Gabriela	Mathejzíková			39	administrátorka účetního oddělení	Bdeněves	99	80	0	F
+3205	566756	1	2	901	4	Miroslav	Trnka	Ing.		46	zaměstnanec města Plzně	Bdeněves	99	80	0	M
+3205	566756	1	3	903	4	Karel	Linhart			51	technik	Bdeněves	99	80	0	M
+3205	566756	1	4	470	4	Pavel	Trojan			38	elektrotechnik	Bdeněves	99	80	0	M
+3205	566756	1	1	902	5	Milan	Kapraľ	Ing.		47	vedoucí manažer v elektrotechnice	Bdeněves	99	80	0	M
+3205	566756	1	2	901	5	Helena	Křivová			45	obchodní zástupce	Bdeněves	99	80	0	F
+3205	566756	1	3	903	5	Jitka	Šmídová	Bc.	DiS.	25	koordinátorka projektu	Bdeněves	99	80	0	F
+3205	566756	1	4	470	5	Miroslav	Slapnička			29	koordinátor oprav kamionové dopravy	Bdeněves	99	80	0	M
+3205	566756	1	1	902	6	Jan	Kupec			32	technik ve výrobě	Bdeněves	99	80	0	M
+3205	566756	1	2	901	6	Vít	Zahradník			40	seřizovač nc strojů	Bdeněves	99	80	0	M
+3205	566756	1	3	903	6	Hana	Lisá			41	zástupce vedoucí filiálky	Bdeněves	99	80	0	F
+3205	566756	1	4	470	6	Milan	Tomišin			47	vedoucí pracovník čalounické firmy	Bdeněves	99	80	0	M
+3205	566756	1	1	902	7	Eva	Patčová	Mgr.	DiS.	37	učitelka ZŠ, fyzioterapeut	Bdeněves	99	80	0	F
+3205	566756	1	2	901	7	Martin	Havlík			19	studující	Bdeněves	99	80	0	M
+3205	566756	1	3	903	7	Michal	Čečil			43	podnikatel	Bdeněves	99	80	0	M
+3205	566756	1	4	470	7	Šárka	Honomichlová			40	policistka	Bdeněves	99	80	0	F
+3205	566756	1	1	902	8	Zuzana	Svobodová	Ing.		37	referentka v energetice	Bdeněves	99	80	0	F
+3205	566756	1	2	901	8	Martin	Mikulovský			37	zaměstnanec stavební firmy	Bdeněves	99	80	0	M
+3205	566756	1	3	903	8	Kateřina	Hniličková			35	sociální pracovnice	Bdeněves	99	80	0	F
+3205	566756	1	4	470	8	Tomáš	Hausdorf			35	automechanik	Bdeněves	99	80	0	M
+3205	566756	1	1	902	9	Iveta	Hanišová	MUDr.		44	lékařka oboru kardiologie	Bdeněves	99	80	0	F
+3205	566756	1	2	901	9	Michaela	Lavičková			27	zdravotní sestra	Bdeněves	99	80	0	F
+3205	566756	1	3	903	9	Jan	Černý			57	podnikatel	Bdeněves	99	80	0	M
+3205	566756	1	4	470	9	René	Tomášek			40	strojník	Bdeněves	99	80	0	M

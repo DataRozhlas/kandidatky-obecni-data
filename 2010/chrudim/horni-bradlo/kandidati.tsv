@@ -1,33 +1,33 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	571474	1	1	901	1	Radislav	Kumpan	M			29	vedoucí technolog	Dolní Bradlo	99	80	0
-5301	571474	1	1	901	2	Michal	Nepovím	M			33	THP - pracovník	Lipka	99	80	0
-5301	571474	1	1	901	3	Tereza	Horčíková	F	Bc.	DiS.	29	rodičovská dovolená	Horní Bradlo	99	80	0
-5301	571474	1	1	901	4	Miluše	Nepovímová	F			48	péče o osobu blízkou	Velká Střítež	99	80	0
-5301	571474	1	1	901	5	Jaroslav	Kroutil	M			46	řidič	Dolní Bradlo	99	80	0
-5301	571474	1	1	901	6	Daniel	Žák	M			38	živnostník	Travná	99	80	0
-5301	571474	1	1	901	7	Kristýna	Pilná	F			27	foukač	Dolní Bradlo	99	80	0
-5301	571474	1	1	901	8	Antonín	Pospíšil	M			33	řidič	Lipka	99	80	0
-5301	571474	1	1	901	9	Martin	Novák	M			25	stavební technik	Horní Bradlo	99	80	0
-5301	571474	1	2	902	1	Renata	Sedláková	F			38	účetní	Horní Bradlo	99	80	0
-5301	571474	1	2	902	2	Iveta	Pospíšilová	F			45	jednatelka rek.stř.Šarz Vršov	Horní Bradlo	99	80	0
-5301	571474	1	2	902	3	Karel	Linhart	M			62	starosta obce	Horní Bradlo	99	80	0
-5301	571474	1	2	902	4	Helena	Trnková	F			56	malířka vánočních ozdob	Horní Bradlo - Vršov	99	80	0
-5301	571474	1	2	902	5	Jan	Matěna	M	Ing.		47	konstruktér	Horní Bradlo - Dolní Bradlo	99	80	0
-5301	571474	1	2	902	6	Roman	Linhart	M			39	elektrotechnik	Horní Bradlo - Dolní Bradlo	99	80	0
-5301	571474	1	2	902	7	Jiří	Blažek	M	Ing.		37	referent	Horní Bradlo	99	80	0
-5301	571474	1	2	902	8	Stanislav	Tichý	M			41	živnostník	Horní Bradlo - Travná	99	80	0
-5301	571474	1	2	902	9	Jana	Janiková	F			29	vychovatelka	Horní Bradlo - Dolní Bradlo	99	80	0
-5301	571474	1	3	53	1	Jiří	Mrkvička	M	Ing.		54	podnikatel	Horní Bradlo, Dolní Bradlo	53	53	0
-5301	571474	1	3	53	2	Jaroslav	Semerád	M			25	truhlář	Horní Bradlo	99	53	0
-5301	571474	1	3	53	3	Markéta	Mrkvičková	F	PhDr.		51	středoškolská učitelka	Horní Bradlo, Dolní Bradlo	53	53	0
-5301	571474	1	3	53	4	Klára	Mrkvičková	F			20	studentka VŠ	Horní Bradlo, Dolní Bradlo	99	53	0
-5301	571474	1	3	53	5	František	Plašil	M			25	podnikatel	Horní Bradlo	99	53	0
-5301	571474	1	4	47	1	Zdeňka	Šretrová	F			50	sekretářka	Travná	47	47	0
-5301	571474	1	4	47	2	Josef	Blažek	M	Ing.		59	ekonom	Dolní Bradlo	47	47	0
-5301	571474	1	4	47	3	Marcel	Paulus	M			42	elektromontér	Vršov	99	47	0
-5301	571474	1	4	47	4	Oldřich	Kovačka	M			54	traktorista	Dolní Bradlo	99	47	0
-5301	571474	1	4	47	5	Josef	Horák	M			62	důchodce	Dolní Bradlo	47	47	0
-5301	571474	1	4	47	6	Jaroslava	Landsmanová	F			52	OSVČ	Horní Bradlo	99	47	0
-5301	571474	1	4	47	7	Jan	Dostál	M			63	důchodce	Horní Bradlo	47	47	0
-5301	571474	1	4	47	8	Jana	Horníková	F			49	ošetřovatelka skotu	Velká Střítež	47	47	0
-5301	571474	1	4	47	9	Milan	Pilař	M			54	kuchař	Dolní Bradlo	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	571474	1	1	901	1	Radislav	Kumpan			29	vedoucí technolog	Dolní Bradlo	99	80	0	M
+5301	571474	1	2	902	1	Renata	Sedláková			38	účetní	Horní Bradlo	99	80	0	F
+5301	571474	1	3	53	1	Jiří	Mrkvička	Ing.		54	podnikatel	Horní Bradlo, Dolní Bradlo	53	53	0	M
+5301	571474	1	4	47	1	Zdeňka	Šretrová			50	sekretářka	Travná	47	47	0	F
+5301	571474	1	1	901	2	Michal	Nepovím			33	THP - pracovník	Lipka	99	80	0	M
+5301	571474	1	2	902	2	Iveta	Pospíšilová			45	jednatelka rek.stř.Šarz Vršov	Horní Bradlo	99	80	0	F
+5301	571474	1	3	53	2	Jaroslav	Semerád			25	truhlář	Horní Bradlo	99	53	0	M
+5301	571474	1	4	47	2	Josef	Blažek	Ing.		59	ekonom	Dolní Bradlo	47	47	0	M
+5301	571474	1	1	901	3	Tereza	Horčíková	Bc.	DiS.	29	rodičovská dovolená	Horní Bradlo	99	80	0	F
+5301	571474	1	2	902	3	Karel	Linhart			62	starosta obce	Horní Bradlo	99	80	0	M
+5301	571474	1	3	53	3	Markéta	Mrkvičková	PhDr.		51	středoškolská učitelka	Horní Bradlo, Dolní Bradlo	53	53	0	F
+5301	571474	1	4	47	3	Marcel	Paulus			42	elektromontér	Vršov	99	47	0	M
+5301	571474	1	1	901	4	Miluše	Nepovímová			48	péče o osobu blízkou	Velká Střítež	99	80	0	F
+5301	571474	1	2	902	4	Helena	Trnková			56	malířka vánočních ozdob	Horní Bradlo - Vršov	99	80	0	F
+5301	571474	1	3	53	4	Klára	Mrkvičková			20	studentka VŠ	Horní Bradlo, Dolní Bradlo	99	53	0	F
+5301	571474	1	4	47	4	Oldřich	Kovačka			54	traktorista	Dolní Bradlo	99	47	0	M
+5301	571474	1	1	901	5	Jaroslav	Kroutil			46	řidič	Dolní Bradlo	99	80	0	M
+5301	571474	1	2	902	5	Jan	Matěna	Ing.		47	konstruktér	Horní Bradlo - Dolní Bradlo	99	80	0	M
+5301	571474	1	3	53	5	František	Plašil			25	podnikatel	Horní Bradlo	99	53	0	M
+5301	571474	1	4	47	5	Josef	Horák			62	důchodce	Dolní Bradlo	47	47	0	M
+5301	571474	1	1	901	6	Daniel	Žák			38	živnostník	Travná	99	80	0	M
+5301	571474	1	2	902	6	Roman	Linhart			39	elektrotechnik	Horní Bradlo - Dolní Bradlo	99	80	0	M
+5301	571474	1	4	47	6	Jaroslava	Landsmanová			52	OSVČ	Horní Bradlo	99	47	0	F
+5301	571474	1	1	901	7	Kristýna	Pilná			27	foukač	Dolní Bradlo	99	80	0	F
+5301	571474	1	2	902	7	Jiří	Blažek	Ing.		37	referent	Horní Bradlo	99	80	0	M
+5301	571474	1	4	47	7	Jan	Dostál			63	důchodce	Horní Bradlo	47	47	0	M
+5301	571474	1	1	901	8	Antonín	Pospíšil			33	řidič	Lipka	99	80	0	M
+5301	571474	1	2	902	8	Stanislav	Tichý			41	živnostník	Horní Bradlo - Travná	99	80	0	M
+5301	571474	1	4	47	8	Jana	Horníková			49	ošetřovatelka skotu	Velká Střítež	47	47	0	F
+5301	571474	1	1	901	9	Martin	Novák			25	stavební technik	Horní Bradlo	99	80	0	M
+5301	571474	1	2	902	9	Jana	Janiková			29	vychovatelka	Horní Bradlo - Dolní Bradlo	99	80	0	F
+5301	571474	1	4	47	9	Milan	Pilař			54	kuchař	Dolní Bradlo	47	47	0	M

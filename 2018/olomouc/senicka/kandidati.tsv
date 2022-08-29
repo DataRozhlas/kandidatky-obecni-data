@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	552267	1	1	902	1	Jana	Lakomá	F	Ing.		30	administrativní pracovník	Senička	99	80	A
-7102	552267	1	1	902	2	Josef	Dostál	M			70	důchodce	Senička	99	80	A
-7102	552267	1	1	902	3	Jiří	Sekanina	M			26	OSVČ	Senička	99	80	A
-7102	552267	1	1	902	4	David	Lakomý	M			27	soukromý zemědělec	Senička	99	80	A
-7102	552267	1	1	902	5	Pavel	Štefan	M			49	skladník	Senička	99	80	A
-7102	552267	1	2	901	1	Jiří	Matoušek	M			52	zemědělský technik	Senička	99	80	A
-7102	552267	1	2	901	2	Veronika	Doleželová	F	Bc.		42	OSVČ	Senička	99	80	A
-7102	552267	1	2	901	3	Zdeněk	Dvořák	M	PhDr.		68	učitel autoškoly	Senička	99	80	A
-7102	552267	1	2	901	4	Lubomír	Popelka	M			40	podnikatel	Senička	99	80	A
-7102	552267	1	2	901	5	Helena	Pachnerová	F			67	důchodce	Senička	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	552267	1	1	902	1	Jana	Lakomá	Ing.		30	administrativní pracovník	Senička	99	80	A	F
+7102	552267	1	2	901	1	Jiří	Matoušek			52	zemědělský technik	Senička	99	80	A	M
+7102	552267	1	1	902	2	Josef	Dostál			70	důchodce	Senička	99	80	A	M
+7102	552267	1	2	901	2	Veronika	Doleželová	Bc.		42	OSVČ	Senička	99	80	A	F
+7102	552267	1	1	902	3	Jiří	Sekanina			26	OSVČ	Senička	99	80	A	M
+7102	552267	1	2	901	3	Zdeněk	Dvořák	PhDr.		68	učitel autoškoly	Senička	99	80	A	M
+7102	552267	1	1	902	4	David	Lakomý			27	soukromý zemědělec	Senička	99	80	A	M
+7102	552267	1	2	901	4	Lubomír	Popelka			40	podnikatel	Senička	99	80	A	M
+7102	552267	1	1	902	5	Pavel	Štefan			49	skladník	Senička	99	80	A	M
+7102	552267	1	2	901	5	Helena	Pachnerová			67	důchodce	Senička	99	80	A	F

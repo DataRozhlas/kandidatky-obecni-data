@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6204	584878	1	1	903	1	Rudolf	Pelán	M	Ing.		45	starosta obce	Sedlec	99	80	0
-6204	584878	1	1	903	2	Marian	Pánek	M	Bc.		42	státní zaměstnanec	Sedlec	99	80	0
-6204	584878	1	1	903	3	Radek	Aust	M			38	manažer šlechtění	Sedlec	99	80	0
-6204	584878	1	1	903	4	Olga	Harajová	F	Mgr.		36	učitelka ZŠ	Sedlec	99	80	0
-6204	584878	1	1	903	5	Jana	Hrůzová	F			36	kuchařka	Sedlec	99	80	0
-6204	584878	1	1	903	6	Michaela	Štěpánková	F			40	mateřská dovolená	Sedlec	99	80	0
-6204	584878	1	1	903	7	Roman	Opava	M			43	soukromý podnikatel	Sedlec	99	80	0
-6204	584878	1	2	47	1	Vojtěch	Jedlička	M	Ing.		64	důchodce	Sedlec	47	47	0
-6204	584878	1	2	47	2	Jiří	Bábíček	M			47	dělník	Sedlec	99	47	0
-6204	584878	1	2	47	3	Jiřina	Šuterová	F			37	vedoucí školní jídelny	Sedlec	99	47	0
-6204	584878	1	2	47	4	Lucie	Bábíčková	F			24	účetní	Sedlec	99	47	0
-6204	584878	1	2	47	5	Alena	Malá	F			58	školnice	Sedlec	99	47	0
-6204	584878	1	2	47	6	Zdeněk	Herzán	M			67	důchodce	Sedlec	47	47	0
-6204	584878	1	2	47	7	Jan	Janíček	M			65	důchodce	Sedlec	47	47	0
-6204	584878	1	3	902	1	Pavel	Michlík	M	Ing.		29	osoba samostatně výdělečně činná	Sedlec	99	80	0
-6204	584878	1	3	902	2	Vojtěch	Jedlička	M			39	vedoucí	Sedlec	99	80	0
-6204	584878	1	3	902	3	Lucia	Vrabcová	F	Bc.		24	učitelka	Sedlec	99	80	0
-6204	584878	1	3	902	4	Zdeněk	Drobilič	M			44	osoba samostatně výdělečně činná	Sedlec	99	80	0
-6204	584878	1	3	902	5	Kamila	Beníčková	F	Bc.		28	pošťačka	Sedlec	99	80	0
-6204	584878	1	3	902	6	Jakub	Pivoda	M			31	svářeč	Sedlec	99	80	0
-6204	584878	1	4	901	1	Josef	Pivoda	M			46	traktorista	Sedlec	99	80	0
-6204	584878	1	4	901	2	Jan	Janíček	M			40	vedoucí střediska	Sedlec	99	80	0
-6204	584878	1	4	901	3	Monika	Ježová	F			35	mateřská dovolená	Sedlec	99	80	0
-6204	584878	1	4	901	4	Jan	Kováč	M			42	traktorista	Sedlec	99	80	0
-6204	584878	1	4	901	5	Dana	Mihulková	F			51	pracovnice ve vinici	Sedlec	99	80	0
-6204	584878	1	4	901	6	František	Tichý	M			60	údržbář	Sedlec	99	80	0
-6204	584878	1	4	901	7	Miroslav	Polončák	M			52	traktorista	Sedlec	99	80	0
-6204	584878	1	4	901	8	Milan	Palínek	M			48	traktorista	Sedlec	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6204	584878	1	1	903	1	Rudolf	Pelán	Ing.		45	starosta obce	Sedlec	99	80	0	M
+6204	584878	1	2	47	1	Vojtěch	Jedlička	Ing.		64	důchodce	Sedlec	47	47	0	M
+6204	584878	1	3	902	1	Pavel	Michlík	Ing.		29	osoba samostatně výdělečně činná	Sedlec	99	80	0	M
+6204	584878	1	4	901	1	Josef	Pivoda			46	traktorista	Sedlec	99	80	0	M
+6204	584878	1	1	903	2	Marian	Pánek	Bc.		42	státní zaměstnanec	Sedlec	99	80	0	M
+6204	584878	1	2	47	2	Jiří	Bábíček			47	dělník	Sedlec	99	47	0	M
+6204	584878	1	3	902	2	Vojtěch	Jedlička			39	vedoucí	Sedlec	99	80	0	M
+6204	584878	1	4	901	2	Jan	Janíček			40	vedoucí střediska	Sedlec	99	80	0	M
+6204	584878	1	1	903	3	Radek	Aust			38	manažer šlechtění	Sedlec	99	80	0	M
+6204	584878	1	2	47	3	Jiřina	Šuterová			37	vedoucí školní jídelny	Sedlec	99	47	0	F
+6204	584878	1	3	902	3	Lucia	Vrabcová	Bc.		24	učitelka	Sedlec	99	80	0	F
+6204	584878	1	4	901	3	Monika	Ježová			35	mateřská dovolená	Sedlec	99	80	0	F
+6204	584878	1	1	903	4	Olga	Harajová	Mgr.		36	učitelka ZŠ	Sedlec	99	80	0	F
+6204	584878	1	2	47	4	Lucie	Bábíčková			24	účetní	Sedlec	99	47	0	F
+6204	584878	1	3	902	4	Zdeněk	Drobilič			44	osoba samostatně výdělečně činná	Sedlec	99	80	0	M
+6204	584878	1	4	901	4	Jan	Kováč			42	traktorista	Sedlec	99	80	0	M
+6204	584878	1	1	903	5	Jana	Hrůzová			36	kuchařka	Sedlec	99	80	0	F
+6204	584878	1	2	47	5	Alena	Malá			58	školnice	Sedlec	99	47	0	F
+6204	584878	1	3	902	5	Kamila	Beníčková	Bc.		28	pošťačka	Sedlec	99	80	0	F
+6204	584878	1	4	901	5	Dana	Mihulková			51	pracovnice ve vinici	Sedlec	99	80	0	F
+6204	584878	1	1	903	6	Michaela	Štěpánková			40	mateřská dovolená	Sedlec	99	80	0	F
+6204	584878	1	2	47	6	Zdeněk	Herzán			67	důchodce	Sedlec	47	47	0	M
+6204	584878	1	3	902	6	Jakub	Pivoda			31	svářeč	Sedlec	99	80	0	M
+6204	584878	1	4	901	6	František	Tichý			60	údržbář	Sedlec	99	80	0	M
+6204	584878	1	1	903	7	Roman	Opava			43	soukromý podnikatel	Sedlec	99	80	0	M
+6204	584878	1	2	47	7	Jan	Janíček			65	důchodce	Sedlec	47	47	0	M
+6204	584878	1	4	901	7	Miroslav	Polončák			52	traktorista	Sedlec	99	80	0	M
+6204	584878	1	4	901	8	Milan	Palínek			48	traktorista	Sedlec	99	80	0	M

@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	582131	1	1	901	1	Pavel	Chlup	M			33	hasič	Okrouhlá	99	80	0
-6201	582131	1	1	901	2	Milan	Tlamka	M	Ing.		25	hasič	Okrouhlá	99	80	0
-6201	582131	1	1	901	3	Bohumil	Kovář	M			42	OSVČ	Okrouhlá	99	80	0
-6201	582131	1	1	901	4	Lenka	Tlamková	F			33	obchodní zástupce	Okrouhlá	99	80	0
-6201	582131	1	1	901	5	Milan	Blažek	M			25	automechanik	Okrouhlá	99	80	0
-6201	582131	1	1	901	6	Miloslava	Šamšulová	F			49	zdravotní sestra	Okrouhlá	99	80	0
-6201	582131	1	1	901	7	Jiří	Veselý	M			34	OSVČ	Okrouhlá	99	80	0
-6201	582131	1	1	901	8	Pavel	Minx	M	Ing.		37	státní zaměstanec	Okrouhlá	99	80	0
-6201	582131	1	1	901	9	Petr	Kužel	M		DiS.	22	student	Okrouhlá	99	80	0
-6201	582131	1	1	901	10	Viktor	Polák	M			23	nezaměstnaný	Okrouhlá	99	80	0
-6201	582131	1	1	901	11	Radim	Menšík	M			32	obraběč kovů	Okrouhlá	99	80	0
-6201	582131	1	2	1	1	Josef	Kejík	M			67	důchodce	Okrouhlá	99	1	0
-6201	582131	1	2	1	2	Drahomíra	Tichá	F			59	důchodkyně	Okrouhlá	99	1	0
-6201	582131	1	2	1	3	Anna	Honzírková	F			64	důchodkyně	Okrouhlá	1	1	0
-6201	582131	1	2	1	4	Jan	Laštůvka	M			65	důchodce	Okrouhlá	99	1	0
-6201	582131	1	3	181	1	Alois	Hložek	M	Ing.		51	technik	Okrouhlá	99	181	0
-6201	582131	1	3	181	2	Ladislav	Minx	M	Ing.		51	technik	Okrouhlá	99	181	0
-6201	582131	1	3	181	3	Milena	Tichá	F	Mgr.		36	učitelka	Okrouhlá	99	181	0
-6201	582131	1	3	181	4	Jaroslava	Kovářová	F			41	ředitelka	Okrouhlá	99	181	0
-6201	582131	1	3	181	5	Gustav	Grün	M			38	OSVČ	Okrouhlá	99	181	0
-6201	582131	1	3	181	6	Luboš	Horák	M	Ing.		28	technik	Okrouhlá	99	181	0
-6201	582131	1	3	181	7	Marta	Juříková	F			36	účetní	Okrouhlá	99	181	0
-6201	582131	1	3	181	8	Petr	Konečný	M			36	OSVČ	Okrouhlá	99	181	0
-6201	582131	1	3	181	9	Alois	Eyer	M			56	dělník	Okrouhlá	99	181	0
-6201	582131	1	3	181	10	Marie	Čapková	F			55	účatní	Okrouhlá	99	181	0
-6201	582131	1	3	181	11	Marie	Parolková	F	Mgr.		59	důchodkyně	Okrouhlá	99	181	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	582131	1	1	901	1	Pavel	Chlup			33	hasič	Okrouhlá	99	80	0	M
+6201	582131	1	2	1	1	Josef	Kejík			67	důchodce	Okrouhlá	99	1	0	M
+6201	582131	1	3	181	1	Alois	Hložek	Ing.		51	technik	Okrouhlá	99	181	0	M
+6201	582131	1	1	901	2	Milan	Tlamka	Ing.		25	hasič	Okrouhlá	99	80	0	M
+6201	582131	1	2	1	2	Drahomíra	Tichá			59	důchodkyně	Okrouhlá	99	1	0	F
+6201	582131	1	3	181	2	Ladislav	Minx	Ing.		51	technik	Okrouhlá	99	181	0	M
+6201	582131	1	1	901	3	Bohumil	Kovář			42	OSVČ	Okrouhlá	99	80	0	M
+6201	582131	1	2	1	3	Anna	Honzírková			64	důchodkyně	Okrouhlá	1	1	0	F
+6201	582131	1	3	181	3	Milena	Tichá	Mgr.		36	učitelka	Okrouhlá	99	181	0	F
+6201	582131	1	1	901	4	Lenka	Tlamková			33	obchodní zástupce	Okrouhlá	99	80	0	F
+6201	582131	1	2	1	4	Jan	Laštůvka			65	důchodce	Okrouhlá	99	1	0	M
+6201	582131	1	3	181	4	Jaroslava	Kovářová			41	ředitelka	Okrouhlá	99	181	0	F
+6201	582131	1	1	901	5	Milan	Blažek			25	automechanik	Okrouhlá	99	80	0	M
+6201	582131	1	3	181	5	Gustav	Grün			38	OSVČ	Okrouhlá	99	181	0	M
+6201	582131	1	1	901	6	Miloslava	Šamšulová			49	zdravotní sestra	Okrouhlá	99	80	0	F
+6201	582131	1	3	181	6	Luboš	Horák	Ing.		28	technik	Okrouhlá	99	181	0	M
+6201	582131	1	1	901	7	Jiří	Veselý			34	OSVČ	Okrouhlá	99	80	0	M
+6201	582131	1	3	181	7	Marta	Juříková			36	účetní	Okrouhlá	99	181	0	F
+6201	582131	1	1	901	8	Pavel	Minx	Ing.		37	státní zaměstanec	Okrouhlá	99	80	0	M
+6201	582131	1	3	181	8	Petr	Konečný			36	OSVČ	Okrouhlá	99	181	0	M
+6201	582131	1	1	901	9	Petr	Kužel		DiS.	22	student	Okrouhlá	99	80	0	M
+6201	582131	1	3	181	9	Alois	Eyer			56	dělník	Okrouhlá	99	181	0	M
+6201	582131	1	1	901	10	Viktor	Polák			23	nezaměstnaný	Okrouhlá	99	80	0	M
+6201	582131	1	3	181	10	Marie	Čapková			55	účatní	Okrouhlá	99	181	0	F
+6201	582131	1	1	901	11	Radim	Menšík			32	obraběč kovů	Okrouhlá	99	80	0	M
+6201	582131	1	3	181	11	Marie	Parolková	Mgr.		59	důchodkyně	Okrouhlá	99	181	0	F

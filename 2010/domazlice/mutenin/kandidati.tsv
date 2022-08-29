@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	553999	1	1	47	1	František	Maroušek	M			64	důchodce	Mutěnín	47	47	0
-3201	553999	1	1	47	2	Jan	Králíček	M			64	důchodce	Mutěnín	99	47	0
-3201	553999	1	1	47	3	Miroslav	Manole	M			42	dělník	Mutěnín	99	47	0
-3201	553999	1	1	47	4	Květoslava	Svobodová	F			50	ošetřovatelka prasat	Mutěnín	99	47	0
-3201	553999	1	1	47	5	Milada	Němcová	F			61	důchodkyně	Mutěnín	99	47	0
-3201	553999	1	1	47	6	Petr	Kalous	M			38	svářeč	Mutěnín	99	47	0
-3201	553999	1	1	47	7	Viktor	Svoboda	M			28	ošetřovatel skotu	Mutěnín	99	47	0
-3201	553999	1	1	47	8	Jaroslav	Koželuh	M			58	traktorista	Mutěnín	99	47	0
-3201	553999	1	2	901	1	Josef	Pešava	M	Ing.		67	důchodce	Mutěnín	99	80	0
-3201	553999	1	2	901	2	Miroslav	Fremuth	M			35	podnikatel	Mutěnín	99	80	0
-3201	553999	1	2	901	3	Jaroslav	Kotlan	M			65	důchodce	Mutěnín	99	80	0
-3201	553999	1	2	901	4	Miloslava	Pekárová	F			33	mateřská dovolená	Mutěnín	99	80	0
-3201	553999	1	2	901	5	Petr	Blažek	M			33	dělník	Mutěnín	99	80	0
-3201	553999	1	2	901	6	František	Babka	M			52	zaměstnanec Správy silnic	Mutěnín	99	80	0
-3201	553999	1	2	901	7	Marie	Blatská	F			35	prodavačka	Mutěnín	99	80	0
-3201	553999	1	2	901	8	Čestmír	Šlajs	M			46	zaměstnanec	Mutěnín	99	80	0
-3201	553999	1	3	7	1	Jana	Vobořilová	F	Ing.		31	revírník Lesy ČR	Starý Kramolín	99	7	0
-3201	553999	1	3	7	2	Helena	Řezáčová	F			50	mistrová	Mutěnín	99	7	0
-3201	553999	1	3	7	3	Miloslava	Šrámková	F			48	asistent pedagoga	Starý Kramolín	99	7	0
-3201	553999	1	3	7	4	Helena	Švehlová	F			31	prodavačka	Mutěnín	99	7	0
-3201	553999	1	3	7	5	Jana	Vokurková Kašpárková	F			31	administrativní asistentka	Starý Kramolín	99	7	0
-3201	553999	1	3	7	6	Jana	Vodová	F			52	invalidní důchodce	Mutěnín	99	7	0
-3201	553999	1	3	7	7	Zdenka	Auerveková	F			70	důchodce	Mutěnín	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	553999	1	1	47	1	František	Maroušek			64	důchodce	Mutěnín	47	47	0	M
+3201	553999	1	2	901	1	Josef	Pešava	Ing.		67	důchodce	Mutěnín	99	80	0	M
+3201	553999	1	3	7	1	Jana	Vobořilová	Ing.		31	revírník Lesy ČR	Starý Kramolín	99	7	0	F
+3201	553999	1	1	47	2	Jan	Králíček			64	důchodce	Mutěnín	99	47	0	M
+3201	553999	1	2	901	2	Miroslav	Fremuth			35	podnikatel	Mutěnín	99	80	0	M
+3201	553999	1	3	7	2	Helena	Řezáčová			50	mistrová	Mutěnín	99	7	0	F
+3201	553999	1	1	47	3	Miroslav	Manole			42	dělník	Mutěnín	99	47	0	M
+3201	553999	1	2	901	3	Jaroslav	Kotlan			65	důchodce	Mutěnín	99	80	0	M
+3201	553999	1	3	7	3	Miloslava	Šrámková			48	asistent pedagoga	Starý Kramolín	99	7	0	F
+3201	553999	1	1	47	4	Květoslava	Svobodová			50	ošetřovatelka prasat	Mutěnín	99	47	0	F
+3201	553999	1	2	901	4	Miloslava	Pekárová			33	mateřská dovolená	Mutěnín	99	80	0	F
+3201	553999	1	3	7	4	Helena	Švehlová			31	prodavačka	Mutěnín	99	7	0	F
+3201	553999	1	1	47	5	Milada	Němcová			61	důchodkyně	Mutěnín	99	47	0	F
+3201	553999	1	2	901	5	Petr	Blažek			33	dělník	Mutěnín	99	80	0	M
+3201	553999	1	3	7	5	Jana	Vokurková Kašpárková			31	administrativní asistentka	Starý Kramolín	99	7	0	F
+3201	553999	1	1	47	6	Petr	Kalous			38	svářeč	Mutěnín	99	47	0	M
+3201	553999	1	2	901	6	František	Babka			52	zaměstnanec Správy silnic	Mutěnín	99	80	0	M
+3201	553999	1	3	7	6	Jana	Vodová			52	invalidní důchodce	Mutěnín	99	7	0	F
+3201	553999	1	1	47	7	Viktor	Svoboda			28	ošetřovatel skotu	Mutěnín	99	47	0	M
+3201	553999	1	2	901	7	Marie	Blatská			35	prodavačka	Mutěnín	99	80	0	F
+3201	553999	1	3	7	7	Zdenka	Auerveková			70	důchodce	Mutěnín	99	7	0	F
+3201	553999	1	1	47	8	Jaroslav	Koželuh			58	traktorista	Mutěnín	99	47	0	M
+3201	553999	1	2	901	8	Čestmír	Šlajs			46	zaměstnanec	Mutěnín	99	80	0	M

@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	548553	1	1	901	1	Jiří	Stehno	M			44	kontrolor	Slavětín	99	80	A
-6101	548553	1	1	901	2	Richard	Lipavský	M			40	profesionální řidič	Slavětín	99	80	A
-6101	548553	1	1	901	3	Lenka	Holasová	F			36	dělnice	Slavětín	99	80	A
-6101	548553	1	1	901	4	Marcela	Sobotková	F			48	dělnice	Oudoleň	99	80	A
-6101	548553	1	1	901	5	Tomáš	Vácha	M			30	dělník	Slavětín	99	80	A
-6101	548553	1	2	902	1	Petr	Ondráček	M			47	hajný	Slavětín	99	80	A
-6101	548553	1	2	902	2	Oldřich	Peřina	M			38	řidič, strojník	Slavětín	99	80	A
-6101	548553	1	2	902	3	Renata	Petruželková	F			32	skladnice	Slavětín	99	80	A
-6101	548553	1	2	902	4	Miroslav	Sobotka	M			45	řidič	Slavětín	99	80	A
-6101	548553	1	2	902	5	Martin	Smejkal	M			48	OSVČ	Slavětín	99	80	A
-6101	548553	1	3	1114	1	Libor	Veselý	M			56	obsluha NCN stroje	Slavětín	1114	1114	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	548553	1	1	901	1	Jiří	Stehno			44	kontrolor	Slavětín	99	80	A	M
+6101	548553	1	2	902	1	Petr	Ondráček			47	hajný	Slavětín	99	80	A	M
+6101	548553	1	3	1114	1	Libor	Veselý			56	obsluha NCN stroje	Slavětín	1114	1114	A	M
+6101	548553	1	1	901	2	Richard	Lipavský			40	profesionální řidič	Slavětín	99	80	A	M
+6101	548553	1	2	902	2	Oldřich	Peřina			38	řidič, strojník	Slavětín	99	80	A	M
+6101	548553	1	1	901	3	Lenka	Holasová			36	dělnice	Slavětín	99	80	A	F
+6101	548553	1	2	902	3	Renata	Petruželková			32	skladnice	Slavětín	99	80	A	F
+6101	548553	1	1	901	4	Marcela	Sobotková			48	dělnice	Oudoleň	99	80	A	F
+6101	548553	1	2	902	4	Miroslav	Sobotka			45	řidič	Slavětín	99	80	A	M
+6101	548553	1	1	901	5	Tomáš	Vácha			30	dělník	Slavětín	99	80	A	M
+6101	548553	1	2	902	5	Martin	Smejkal			48	OSVČ	Slavětín	99	80	A	M

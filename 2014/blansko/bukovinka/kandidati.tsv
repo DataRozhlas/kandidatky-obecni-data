@@ -1,40 +1,40 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	581453	1	1	902	1	Vladimír	Janoušek	M			64	důchodce	Bukovinka	99	80	0
-6201	581453	1	1	902	2	František	Pořízek	M			63	důchodce	Bukovinka	99	80	0
-6201	581453	1	1	902	3	Věra	Švehlová	F			62	důchodce	Bukovinka	99	80	0
-6201	581453	1	1	902	4	Jiří	Hudec	M			69	důchodce	Bukovinka	99	80	0
-6201	581453	1	1	902	5	Marie	Franková	F			62	důchodce	Bukovinka	99	80	0
-6201	581453	1	1	902	6	Kateřina	Burdová	F			34	dělnice	Bukovinka	99	80	0
-6201	581453	1	1	902	7	Radka	Ježková	F			37	prodavačka	Bukovinka	99	80	0
-6201	581453	1	2	158	1	Jarmila	Tesařová	F	Mgr.		36	učitelka	Bukovinka	99	158	0
-6201	581453	1	2	158	2	Pavel	Malík	M			46	podnikatel	Bukovinka	99	158	0
-6201	581453	1	2	158	3	Patrik	Novotný	M	Ing.		40	manažer obchodu	Bukovinka	99	158	0
-6201	581453	1	2	158	4	Ester	Dufková	F			39	zdravotní sestra	Bukovinka	99	158	0
-6201	581453	1	2	158	5	Eva	Bartáková	F			63	OSVČ	Bukovinka	99	158	0
-6201	581453	1	2	158	6	Břetislav	Keprt	M			57	řidič	Bukovinka	99	158	0
-6201	581453	1	2	158	7	Josef	Doležel	M			36	OSVČ	Bukovinka	99	158	0
-6201	581453	1	2	158	8	Radoslav	Hegar	M			39	obchodní manažer	Bukovinka	99	158	0
-6201	581453	1	3	1	1	Pavel	Horáček	M			46	vedoucí divize správy a údržby nemovitostí	Bukovinka	1	1	0
-6201	581453	1	3	1	2	Pavel	Tichý	M	Ing.		66	důchodce	Bukovinka	99	1	0
-6201	581453	1	3	1	3	Tomáš	Hloušek	M			43	technolog	Bukovinka	99	1	0
-6201	581453	1	3	1	4	Iva	Grolíková	F	Ing.		50	osoba samostatně výdělečně činná	Bukovinka	99	1	0
-6201	581453	1	3	1	5	Vlastimil	Dufka	M			43	elektromechanik	Bukovinka	99	1	0
-6201	581453	1	3	1	6	Marie	Tichá	F			61	důchodkyně	Bukovinka	99	1	0
-6201	581453	1	3	1	7	Jana	Holubová	F			46	školnice	Bukovinka	99	1	0
-6201	581453	1	3	1	8	Jana	Mikulová	F			29	mateřská dovolená	Bukovinka	1	1	0
-6201	581453	1	4	901	1	Luboš	Šenk	M			54	jednatel společnosti	Bukovinka	99	80	0
-6201	581453	1	4	901	2	Marta	Pořízková	F	Ing.		64	důchodce	Bukovinka	99	80	0
-6201	581453	1	4	901	3	Miloš	Nimmrichter	M			64	důchodce	Bukovinka	99	80	0
-6201	581453	1	4	901	4	Zdeňka	Vévodová	F			27	učitelka mateřské školy	Bukovinka	99	80	0
-6201	581453	1	4	901	5	Dušan	Kendereški	M	Ing.		64	patentový zástupce	Bukovinka	99	80	0
-6201	581453	1	4	901	6	Zdeněk	Jedlička	M			66	důchodce	Bukovinka	99	80	0
-6201	581453	1	4	901	7	Renata	Šilhanová	F			31	zdravotní sestra	Bukovinka	99	80	0
-6201	581453	1	4	901	8	Zdeněk	Kotulan	M			60	obecní pracovník	Bukovinka	99	80	0
-6201	581453	1	4	901	9	Alois	Fiala	M			54	servisní technik	Bukovinka	99	80	0
-6201	581453	1	5	903	1	Milan	Weiter	M			59	vedoucí pracovník	Bukovinka	99	80	0
-6201	581453	1	5	903	2	Milan	Beránek	M			41	pracovník ostrahy	Bukovinka	99	80	0
-6201	581453	1	5	903	3	Jiří	Šnajdr	M			51	obchodní zástupce	Bukovinka	99	80	0
-6201	581453	1	5	903	4	Iveta	Koppová	F			44	laborantka	Bukovinka	99	80	0
-6201	581453	1	5	903	5	Lucie	Antonická	F	Mgr.		32	asistentka ředitele	Bukovinka	99	80	0
-6201	581453	1	5	903	6	Radovan	Plešek	M	Bc.		61	důchodce	Bukovinka	99	80	0
-6201	581453	1	5	903	7	Marie	Jedličková	F			58	operátorka	Bukovinka	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	581453	1	1	902	1	Vladimír	Janoušek			64	důchodce	Bukovinka	99	80	0	M
+6201	581453	1	2	158	1	Jarmila	Tesařová	Mgr.		36	učitelka	Bukovinka	99	158	0	F
+6201	581453	1	3	1	1	Pavel	Horáček			46	vedoucí divize správy a údržby nemovitostí	Bukovinka	1	1	0	M
+6201	581453	1	4	901	1	Luboš	Šenk			54	jednatel společnosti	Bukovinka	99	80	0	M
+6201	581453	1	5	903	1	Milan	Weiter			59	vedoucí pracovník	Bukovinka	99	80	0	M
+6201	581453	1	1	902	2	František	Pořízek			63	důchodce	Bukovinka	99	80	0	M
+6201	581453	1	2	158	2	Pavel	Malík			46	podnikatel	Bukovinka	99	158	0	M
+6201	581453	1	3	1	2	Pavel	Tichý	Ing.		66	důchodce	Bukovinka	99	1	0	M
+6201	581453	1	4	901	2	Marta	Pořízková	Ing.		64	důchodce	Bukovinka	99	80	0	F
+6201	581453	1	5	903	2	Milan	Beránek			41	pracovník ostrahy	Bukovinka	99	80	0	M
+6201	581453	1	1	902	3	Věra	Švehlová			62	důchodce	Bukovinka	99	80	0	F
+6201	581453	1	2	158	3	Patrik	Novotný	Ing.		40	manažer obchodu	Bukovinka	99	158	0	M
+6201	581453	1	3	1	3	Tomáš	Hloušek			43	technolog	Bukovinka	99	1	0	M
+6201	581453	1	4	901	3	Miloš	Nimmrichter			64	důchodce	Bukovinka	99	80	0	M
+6201	581453	1	5	903	3	Jiří	Šnajdr			51	obchodní zástupce	Bukovinka	99	80	0	M
+6201	581453	1	1	902	4	Jiří	Hudec			69	důchodce	Bukovinka	99	80	0	M
+6201	581453	1	2	158	4	Ester	Dufková			39	zdravotní sestra	Bukovinka	99	158	0	F
+6201	581453	1	3	1	4	Iva	Grolíková	Ing.		50	osoba samostatně výdělečně činná	Bukovinka	99	1	0	F
+6201	581453	1	4	901	4	Zdeňka	Vévodová			27	učitelka mateřské školy	Bukovinka	99	80	0	F
+6201	581453	1	5	903	4	Iveta	Koppová			44	laborantka	Bukovinka	99	80	0	F
+6201	581453	1	1	902	5	Marie	Franková			62	důchodce	Bukovinka	99	80	0	F
+6201	581453	1	2	158	5	Eva	Bartáková			63	OSVČ	Bukovinka	99	158	0	F
+6201	581453	1	3	1	5	Vlastimil	Dufka			43	elektromechanik	Bukovinka	99	1	0	M
+6201	581453	1	4	901	5	Dušan	Kendereški	Ing.		64	patentový zástupce	Bukovinka	99	80	0	M
+6201	581453	1	5	903	5	Lucie	Antonická	Mgr.		32	asistentka ředitele	Bukovinka	99	80	0	F
+6201	581453	1	1	902	6	Kateřina	Burdová			34	dělnice	Bukovinka	99	80	0	F
+6201	581453	1	2	158	6	Břetislav	Keprt			57	řidič	Bukovinka	99	158	0	M
+6201	581453	1	3	1	6	Marie	Tichá			61	důchodkyně	Bukovinka	99	1	0	F
+6201	581453	1	4	901	6	Zdeněk	Jedlička			66	důchodce	Bukovinka	99	80	0	M
+6201	581453	1	5	903	6	Radovan	Plešek	Bc.		61	důchodce	Bukovinka	99	80	0	M
+6201	581453	1	1	902	7	Radka	Ježková			37	prodavačka	Bukovinka	99	80	0	F
+6201	581453	1	2	158	7	Josef	Doležel			36	OSVČ	Bukovinka	99	158	0	M
+6201	581453	1	3	1	7	Jana	Holubová			46	školnice	Bukovinka	99	1	0	F
+6201	581453	1	4	901	7	Renata	Šilhanová			31	zdravotní sestra	Bukovinka	99	80	0	F
+6201	581453	1	5	903	7	Marie	Jedličková			58	operátorka	Bukovinka	99	80	0	F
+6201	581453	1	2	158	8	Radoslav	Hegar			39	obchodní manažer	Bukovinka	99	158	0	M
+6201	581453	1	3	1	8	Jana	Mikulová			29	mateřská dovolená	Bukovinka	1	1	0	F
+6201	581453	1	4	901	8	Zdeněk	Kotulan			60	obecní pracovník	Bukovinka	99	80	0	M
+6201	581453	1	4	901	9	Alois	Fiala			54	servisní technik	Bukovinka	99	80	0	M

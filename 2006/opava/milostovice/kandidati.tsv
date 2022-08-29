@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	555436	1	1	53	1	Kamil	Ručil	M			37	technik	Milostovice	99	53	0
-8105	555436	1	1	53	2	Soňa	Ručilová	F	Ing.		31	ekonomka	Milostovice	99	53	0
-8105	555436	1	1	53	3	Tomáš	Volný	M	Ing.		27	ekonom	Milostovice	99	53	0
-8105	555436	1	1	53	4	Daniel	Bala	M			32	podlahář	Milostovice	99	53	0
-8105	555436	1	1	53	5	Jaromír	Volný	M			28	informatik	Milostovice	99	53	0
-8105	555436	1	2	901	1	Milan	Klár	M			68	starobní důchodce	Milostovice	99	80	0
-8105	555436	1	2	901	2	Miroslava	Kavanová	F			46	ekonomka	Milostovice	99	80	0
-8105	555436	1	2	901	3	Jiří	Osadník	M			45	stolař	Milostovice	99	80	0
-8105	555436	1	2	901	4	Bohumír	Grošaft	M			44	zemědělec	Milostovice	99	80	0
-8105	555436	1	2	901	5	Vlastimil	Paleta	M			36	soukromý zemědělec	Milostovice	99	80	0
-8105	555436	1	2	901	6	Miroslav	Migdal	M			43	hasič	Milostovice	99	80	0
-8105	555436	1	2	901	7	Karel	Volný	M			54	elektrikář	Milostovice	99	80	0
-8105	555436	1	2	901	8	Aleš	Mikulec	M			34	zámečník	Milostovice	99	80	0
-8105	555436	1	2	901	9	Martin	Křesťan	M			32	obuvník	Milostovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	555436	1	1	53	1	Kamil	Ručil			37	technik	Milostovice	99	53	0	M
+8105	555436	1	2	901	1	Milan	Klár			68	starobní důchodce	Milostovice	99	80	0	M
+8105	555436	1	1	53	2	Soňa	Ručilová	Ing.		31	ekonomka	Milostovice	99	53	0	F
+8105	555436	1	2	901	2	Miroslava	Kavanová			46	ekonomka	Milostovice	99	80	0	F
+8105	555436	1	1	53	3	Tomáš	Volný	Ing.		27	ekonom	Milostovice	99	53	0	M
+8105	555436	1	2	901	3	Jiří	Osadník			45	stolař	Milostovice	99	80	0	M
+8105	555436	1	1	53	4	Daniel	Bala			32	podlahář	Milostovice	99	53	0	M
+8105	555436	1	2	901	4	Bohumír	Grošaft			44	zemědělec	Milostovice	99	80	0	M
+8105	555436	1	1	53	5	Jaromír	Volný			28	informatik	Milostovice	99	53	0	M
+8105	555436	1	2	901	5	Vlastimil	Paleta			36	soukromý zemědělec	Milostovice	99	80	0	M
+8105	555436	1	2	901	6	Miroslav	Migdal			43	hasič	Milostovice	99	80	0	M
+8105	555436	1	2	901	7	Karel	Volný			54	elektrikář	Milostovice	99	80	0	M
+8105	555436	1	2	901	8	Aleš	Mikulec			34	zámečník	Milostovice	99	80	0	M
+8105	555436	1	2	901	9	Martin	Křesťan			32	obuvník	Milostovice	99	80	0	M

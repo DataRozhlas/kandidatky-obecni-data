@@ -1,20 +1,20 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5104	577341	1	1	901	1	Martin	Fendrych	M			39	OSVČ	Nová Ves nad Popelkou	99	80	A
-5104	577341	1	1	901	2	Pavla	Fendrychová	F			39	OSVČ	Nová Ves nad Popelkou	99	80	A
-5104	577341	1	1	901	3	Daniel	Fišar	M			39	servisní technik	Nová Ves nad Popelkou	99	80	A
-5104	577341	1	1	901	4	Petr	Würkner	M			37	státní zaměstnanec	Nová Ves nad Popelkou	99	80	A
-5104	577341	1	1	901	5	Veronika	Matoušová				35	asistentka auditora	Nová Ves nad Popelkou	99	80	A
-5104	577341	1	1	901	6	Marcel	Turek	M			40	obchodní zástupce	Nová Ves nad Popelkou	99	80	A
-5104	577341	1	2	902	1	Martin	Žák	M	Bc.		45	úředník	Nová Ves nad Popelkou	99	80	A
-5104	577341	1	2	902	2	Marek	Vodička	M	Mgr.		46	pedagog, živnostník	Nová Ves nad Popelkou	99	80	A
-5104	577341	1	2	902	3	Benjamin Emmanuel	Emeriaud	M			49	soukromý zemědělec	Nová Ves nad Popelkou	99	80	A
-5104	577341	1	2	902	4	Zdeňka	Bouchalová	F	Mgr.		66	důchodkyně	Nová Ves nad Popelkou	99	80	A
-5104	577341	1	3	903	1	Vladimír	Tomášek	M			58	starosta obce	Nová Ves nad Popelkou	99	80	A
-5104	577341	1	3	903	2	Radek	Crha	M	Ing.		40	konzultant IT	Nová Ves nad Popelkou	99	80	A
-5104	577341	1	3	903	3	Jitka	Fišarová	F			71	důchodkyně	Nová Ves nad Popelkou	99	80	A
-5104	577341	1	3	903	4	Marie	Kynčlová	F			68	důchodkyně	Nová Ves nad Popelkou	99	80	A
-5104	577341	1	3	903	5	Iveta	Karbanová	F	Ing.		48	hlavní účetní	Nová Ves nad Popelkou	99	80	A
-5104	577341	1	3	903	6	Jan	Čapek	M			82	důchodce	Nová Ves nad Popelkou	99	80	A
-5104	577341	1	3	903	7	Iveta	Hronková	F	Ing.		39	administrativní pracovník	Nová Ves nad Popelkou	99	80	A
-5104	577341	1	3	903	8	Tomáš	Hlubuček	M			33	projektant	Nová Ves nad Popelkou	99	80	A
-5104	577341	1	3	903	9	Markéta	Fišarová	F			37	učitelka MŠ	Nová Ves nad Popelkou	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5104	577341	1	1	901	1	Martin	Fendrych			39	OSVČ	Nová Ves nad Popelkou	99	80	A	M
+5104	577341	1	2	902	1	Martin	Žák	Bc.		45	úředník	Nová Ves nad Popelkou	99	80	A	M
+5104	577341	1	3	903	1	Vladimír	Tomášek			58	starosta obce	Nová Ves nad Popelkou	99	80	A	M
+5104	577341	1	1	901	2	Pavla	Fendrychová			39	OSVČ	Nová Ves nad Popelkou	99	80	A	F
+5104	577341	1	2	902	2	Marek	Vodička	Mgr.		46	pedagog, živnostník	Nová Ves nad Popelkou	99	80	A	M
+5104	577341	1	3	903	2	Radek	Crha	Ing.		40	konzultant IT	Nová Ves nad Popelkou	99	80	A	M
+5104	577341	1	1	901	3	Daniel	Fišar			39	servisní technik	Nová Ves nad Popelkou	99	80	A	M
+5104	577341	1	2	902	3	Benjamin Emmanuel	Emeriaud			49	soukromý zemědělec	Nová Ves nad Popelkou	99	80	A	M
+5104	577341	1	3	903	3	Jitka	Fišarová			71	důchodkyně	Nová Ves nad Popelkou	99	80	A	F
+5104	577341	1	1	901	4	Petr	Würkner			37	státní zaměstnanec	Nová Ves nad Popelkou	99	80	A	M
+5104	577341	1	2	902	4	Zdeňka	Bouchalová	Mgr.		66	důchodkyně	Nová Ves nad Popelkou	99	80	A	F
+5104	577341	1	3	903	4	Marie	Kynčlová			68	důchodkyně	Nová Ves nad Popelkou	99	80	A	F
+5104	577341	1	1	901	5	Veronika	Matoušová			35	asistentka auditora	Nová Ves nad Popelkou	99	80	A	
+5104	577341	1	3	903	5	Iveta	Karbanová	Ing.		48	hlavní účetní	Nová Ves nad Popelkou	99	80	A	F
+5104	577341	1	1	901	6	Marcel	Turek			40	obchodní zástupce	Nová Ves nad Popelkou	99	80	A	M
+5104	577341	1	3	903	6	Jan	Čapek			82	důchodce	Nová Ves nad Popelkou	99	80	A	M
+5104	577341	1	3	903	7	Iveta	Hronková	Ing.		39	administrativní pracovník	Nová Ves nad Popelkou	99	80	A	F
+5104	577341	1	3	903	8	Tomáš	Hlubuček			33	projektant	Nová Ves nad Popelkou	99	80	A	M
+5104	577341	1	3	903	9	Markéta	Fišarová			37	učitelka MŠ	Nová Ves nad Popelkou	99	80	A	F

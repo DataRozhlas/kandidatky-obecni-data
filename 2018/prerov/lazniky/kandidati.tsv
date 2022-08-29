@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7104	514471	1	1	47	1	Hedvika	Dočkalová	F		DiS.	39	zemědělský technik	Lazníky	99	47	A
-7104	514471	1	1	47	2	Marta	Zedková	F			60	stavební technik	Lazníky	99	47	A
-7104	514471	1	1	47	3	Martin	Polách	M			52	elektromechanik	Lazníky	99	47	A
-7104	514471	1	1	47	4	Lidmila	Látalová	F	Ing.		71	ekonomka	Svrčov	47	47	A
-7104	514471	1	1	47	5	Monika	Zedková	F	Bc.	DiS.	37	úřednice	Lazníky	99	47	A
-7104	514471	1	1	47	6	Josef	Klement	M			70	energetik	Lazníky	47	47	A
-7104	514471	1	1	47	7	Milan	Pollák	M			63	státní zaměstnanec	Lazníky	99	47	A
-7104	514471	1	1	47	8	Marie	Klementová	F			70	účetní	Lazníky	47	47	A
-7104	514471	1	1	47	9	Pavel	Látal	M			65	řidič	Svrčov	99	47	A
-7104	514471	1	2	903	1	Michal	Pokorný	M			40	OSVČ	Lazníky	99	80	A
-7104	514471	1	2	903	2	Jiří	Hausner	M			47	kontrolor	Lazníky	99	80	A
-7104	514471	1	2	903	3	Miroslav	Hůla	M			39	technik	Lazníky	99	80	A
-7104	514471	1	2	903	4	Vítězslav	Ilík	M			42	řidič	Lazníky	99	80	A
-7104	514471	1	2	903	5	Zdeněk	Skopalík	M		DiS.	41	technik	Lazníky	99	80	A
-7104	514471	1	2	903	6	Dominika	Libigrová	F			30	OSVČ	Lazníky	99	80	A
-7104	514471	1	2	903	7	Ludmila	Dostálová	F			59	OSVČ	Lazníky	99	80	A
-7104	514471	1	2	903	8	Lukáš	Libigr	M			32	technik	Lazníky	99	80	A
-7104	514471	1	2	903	9	Alexandra	Pindrochová	F	JUDr.		37	právník	Lazníky	99	80	A
-7104	514471	1	3	901	1	Martin	Dočkal	M			42	IT technik	Lazníky	99	80	A
-7104	514471	1	3	901	2	Adam	Tichavský	M			39	lakýrník	Lazníky	99	80	A
-7104	514471	1	3	901	3	Jiří	Zedek	M			58	soustružník kovů	Lazníky	99	80	A
-7104	514471	1	3	901	4	Andrea	Tichavská	F			40	kuchařka	Lazníky	99	80	A
-7104	514471	1	3	901	5	Michal	Mozr	M			39	montážní dělník	Lazníky	99	80	A
-7104	514471	1	3	901	6	Zdeněk	Šulák	M			32	kontrolor kvality	Lazníky	99	80	A
-7104	514471	1	3	901	7	Andrea	Chytilová	F			44	telefonní operátorka	Lazníky	99	80	A
-7104	514471	1	3	901	8	Ivona	Matysová	F			39	domovnice	Lazníky	99	80	A
-7104	514471	1	3	901	9	František	Dočkal	M			65	důchodce	Lazníky	99	80	A
-7104	514471	1	4	902	1	Jan	Blažek	M	Mgr.		42	učitel	Lazníky	99	80	A
-7104	514471	1	4	902	2	Pavla	Flodrová	F	MUDr.		34	lékařka	Svrčov	99	80	A
-7104	514471	1	4	902	3	Petra	Sedláčková	F			39	administrativní pracovnice	Lazníky	99	80	A
-7104	514471	1	4	902	4	David	Länger	M			24	stavební dělník	Lazníky	99	80	A
-7104	514471	1	4	902	5	Andrea	Přecechtělová	F			41	prodavačka	Lazníky	99	80	A
-7104	514471	1	4	902	6	Dušan	Sedláček	M			45	řidič mezinárodní kamionové dopravy	Lazníky	99	80	A
-7104	514471	1	4	902	7	Karel	Krajčovič	M			28	pracovník reklamní agentury	Lazníky	99	80	A
-7104	514471	1	4	902	8	Zuzana	Molerová	F			34	pracovnice reklamní agentury	Lazníky	99	80	A
-7104	514471	1	4	902	9	Zdeněk	Basl	M			54	podnikatel ve stavebnictví	Svrčov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7104	514471	1	1	47	1	Hedvika	Dočkalová		DiS.	39	zemědělský technik	Lazníky	99	47	A	F
+7104	514471	1	2	903	1	Michal	Pokorný			40	OSVČ	Lazníky	99	80	A	M
+7104	514471	1	3	901	1	Martin	Dočkal			42	IT technik	Lazníky	99	80	A	M
+7104	514471	1	4	902	1	Jan	Blažek	Mgr.		42	učitel	Lazníky	99	80	A	M
+7104	514471	1	1	47	2	Marta	Zedková			60	stavební technik	Lazníky	99	47	A	F
+7104	514471	1	2	903	2	Jiří	Hausner			47	kontrolor	Lazníky	99	80	A	M
+7104	514471	1	3	901	2	Adam	Tichavský			39	lakýrník	Lazníky	99	80	A	M
+7104	514471	1	4	902	2	Pavla	Flodrová	MUDr.		34	lékařka	Svrčov	99	80	A	F
+7104	514471	1	1	47	3	Martin	Polách			52	elektromechanik	Lazníky	99	47	A	M
+7104	514471	1	2	903	3	Miroslav	Hůla			39	technik	Lazníky	99	80	A	M
+7104	514471	1	3	901	3	Jiří	Zedek			58	soustružník kovů	Lazníky	99	80	A	M
+7104	514471	1	4	902	3	Petra	Sedláčková			39	administrativní pracovnice	Lazníky	99	80	A	F
+7104	514471	1	1	47	4	Lidmila	Látalová	Ing.		71	ekonomka	Svrčov	47	47	A	F
+7104	514471	1	2	903	4	Vítězslav	Ilík			42	řidič	Lazníky	99	80	A	M
+7104	514471	1	3	901	4	Andrea	Tichavská			40	kuchařka	Lazníky	99	80	A	F
+7104	514471	1	4	902	4	David	Länger			24	stavební dělník	Lazníky	99	80	A	M
+7104	514471	1	1	47	5	Monika	Zedková	Bc.	DiS.	37	úřednice	Lazníky	99	47	A	F
+7104	514471	1	2	903	5	Zdeněk	Skopalík		DiS.	41	technik	Lazníky	99	80	A	M
+7104	514471	1	3	901	5	Michal	Mozr			39	montážní dělník	Lazníky	99	80	A	M
+7104	514471	1	4	902	5	Andrea	Přecechtělová			41	prodavačka	Lazníky	99	80	A	F
+7104	514471	1	1	47	6	Josef	Klement			70	energetik	Lazníky	47	47	A	M
+7104	514471	1	2	903	6	Dominika	Libigrová			30	OSVČ	Lazníky	99	80	A	F
+7104	514471	1	3	901	6	Zdeněk	Šulák			32	kontrolor kvality	Lazníky	99	80	A	M
+7104	514471	1	4	902	6	Dušan	Sedláček			45	řidič mezinárodní kamionové dopravy	Lazníky	99	80	A	M
+7104	514471	1	1	47	7	Milan	Pollák			63	státní zaměstnanec	Lazníky	99	47	A	M
+7104	514471	1	2	903	7	Ludmila	Dostálová			59	OSVČ	Lazníky	99	80	A	F
+7104	514471	1	3	901	7	Andrea	Chytilová			44	telefonní operátorka	Lazníky	99	80	A	F
+7104	514471	1	4	902	7	Karel	Krajčovič			28	pracovník reklamní agentury	Lazníky	99	80	A	M
+7104	514471	1	1	47	8	Marie	Klementová			70	účetní	Lazníky	47	47	A	F
+7104	514471	1	2	903	8	Lukáš	Libigr			32	technik	Lazníky	99	80	A	M
+7104	514471	1	3	901	8	Ivona	Matysová			39	domovnice	Lazníky	99	80	A	F
+7104	514471	1	4	902	8	Zuzana	Molerová			34	pracovnice reklamní agentury	Lazníky	99	80	A	F
+7104	514471	1	1	47	9	Pavel	Látal			65	řidič	Svrčov	99	47	A	M
+7104	514471	1	2	903	9	Alexandra	Pindrochová	JUDr.		37	právník	Lazníky	99	80	A	F
+7104	514471	1	3	901	9	František	Dočkal			65	důchodce	Lazníky	99	80	A	M
+7104	514471	1	4	902	9	Zdeněk	Basl			54	podnikatel ve stavebnictví	Svrčov	99	80	A	M

@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589438	1	1	1	1	Pavel	Grepl	M			58	OZVÚ 8280	Dobrochov	99	1	0
-7103	589438	1	1	1	2	Jana	Ryvolová	F			45	mistrová	Dobrochov	99	1	0
-7103	589438	1	1	1	3	Miloslav	Šimánek	M			46	podnikatel	Dobrochov	99	1	0
-7103	589438	1	1	1	4	Marie	Jančiová	F			57	kuchařka	Dobrochov	99	1	0
-7103	589438	1	1	1	5	Josef	Šatný	M			38	podnikatel	Dobrochov	99	1	0
-7103	589438	1	2	901	1	Miloslav	Kříž	M	Ing.		45	státní zaměstnanec	Dobrochov	99	80	0
-7103	589438	1	2	901	2	Josef	Vrána	M	Ing.		46	státní zaměstnanec	Dobrochov	99	80	0
-7103	589438	1	2	901	3	Roman	Novotný	M			31	státní zaměstnanec	Dobrochov	99	80	0
-7103	589438	1	2	901	4	Jiří	Špaček	M			43	zámečník	Dobrochov	99	80	0
-7103	589438	1	2	901	5	Viktor	Hrdlička	M			32	státní zaměstnanec	Dobrochov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589438	1	1	1	1	Pavel	Grepl			58	OZVÚ 8280	Dobrochov	99	1	0	M
+7103	589438	1	2	901	1	Miloslav	Kříž	Ing.		45	státní zaměstnanec	Dobrochov	99	80	0	M
+7103	589438	1	1	1	2	Jana	Ryvolová			45	mistrová	Dobrochov	99	1	0	F
+7103	589438	1	2	901	2	Josef	Vrána	Ing.		46	státní zaměstnanec	Dobrochov	99	80	0	M
+7103	589438	1	1	1	3	Miloslav	Šimánek			46	podnikatel	Dobrochov	99	1	0	M
+7103	589438	1	2	901	3	Roman	Novotný			31	státní zaměstnanec	Dobrochov	99	80	0	M
+7103	589438	1	1	1	4	Marie	Jančiová			57	kuchařka	Dobrochov	99	1	0	F
+7103	589438	1	2	901	4	Jiří	Špaček			43	zámečník	Dobrochov	99	80	0	M
+7103	589438	1	1	1	5	Josef	Šatný			38	podnikatel	Dobrochov	99	1	0	M
+7103	589438	1	2	901	5	Viktor	Hrdlička			32	státní zaměstnanec	Dobrochov	99	80	0	M

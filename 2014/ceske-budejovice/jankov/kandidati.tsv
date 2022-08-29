@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	544612	1	1	901	1	Lukáš	Hála	M			27	automechanik	Holašovice	99	80	0
-3101	544612	1	1	901	2	Jan	Ambrož	M	Mgr.		25	právník	Holašovice	99	80	0
-3101	544612	1	1	901	3	Šárka	Bauerová	F			24	studentka	Holašovice	99	80	0
-3101	544612	1	1	901	4	Andrea	Hálová	F	Ing.		32	podnikatelka	Holašovice	99	80	0
-3101	544612	1	1	901	5	František	Bíca	M			27	truhlář	Holašovice	99	80	0
-3101	544612	1	1	901	6	Jan	Kukla	M			25	technik	Jankov	99	80	0
-3101	544612	1	1	901	7	Jan	Šturma	M			22	student	Holašovice	99	80	0
-3101	544612	1	1	901	8	Jiří	Bauer	M			22	nástrojař	Holašovice	99	80	0
-3101	544612	1	1	901	9	Lucie	Bícová	F			29	mateřská dovolená	Holašovice	99	80	0
-3101	544612	1	2	902	1	Jan	Jílek	M	Ing.		41	ředitel	Holašovice	99	80	0
-3101	544612	1	2	902	2	František	Řezníček	M			56	soukromý podnikatel	Jankov	99	80	0
-3101	544612	1	2	902	3	Radek	Maxa	M			36	ředitel firmy	Holašovice	99	80	0
-3101	544612	1	2	902	4	Milan	Kukla	M			48	vedoucí výroby	Jankov	99	80	0
-3101	544612	1	2	902	5	František	Bürger	M	Ing.		53	soukromý podnikatel	Jankov	99	80	0
-3101	544612	1	2	902	6	Marie	Vaňková	F			46	poštovní doručovatelka	Jankov	99	80	0
-3101	544612	1	2	902	7	Tomáš	Mügl	M			36	soukromý podnikatel	Holašovice	99	80	0
-3101	544612	1	2	902	8	Marie	Bürgerová	F			50	administrativní pracovník	Jankov	99	80	0
-3101	544612	1	2	902	9	David	Zeman	M			40	technik	Jankov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	544612	1	1	901	1	Lukáš	Hála			27	automechanik	Holašovice	99	80	0	M
+3101	544612	1	2	902	1	Jan	Jílek	Ing.		41	ředitel	Holašovice	99	80	0	M
+3101	544612	1	1	901	2	Jan	Ambrož	Mgr.		25	právník	Holašovice	99	80	0	M
+3101	544612	1	2	902	2	František	Řezníček			56	soukromý podnikatel	Jankov	99	80	0	M
+3101	544612	1	1	901	3	Šárka	Bauerová			24	studentka	Holašovice	99	80	0	F
+3101	544612	1	2	902	3	Radek	Maxa			36	ředitel firmy	Holašovice	99	80	0	M
+3101	544612	1	1	901	4	Andrea	Hálová	Ing.		32	podnikatelka	Holašovice	99	80	0	F
+3101	544612	1	2	902	4	Milan	Kukla			48	vedoucí výroby	Jankov	99	80	0	M
+3101	544612	1	1	901	5	František	Bíca			27	truhlář	Holašovice	99	80	0	M
+3101	544612	1	2	902	5	František	Bürger	Ing.		53	soukromý podnikatel	Jankov	99	80	0	M
+3101	544612	1	1	901	6	Jan	Kukla			25	technik	Jankov	99	80	0	M
+3101	544612	1	2	902	6	Marie	Vaňková			46	poštovní doručovatelka	Jankov	99	80	0	F
+3101	544612	1	1	901	7	Jan	Šturma			22	student	Holašovice	99	80	0	M
+3101	544612	1	2	902	7	Tomáš	Mügl			36	soukromý podnikatel	Holašovice	99	80	0	M
+3101	544612	1	1	901	8	Jiří	Bauer			22	nástrojař	Holašovice	99	80	0	M
+3101	544612	1	2	902	8	Marie	Bürgerová			50	administrativní pracovník	Jankov	99	80	0	F
+3101	544612	1	1	901	9	Lucie	Bícová			29	mateřská dovolená	Holašovice	99	80	0	F
+3101	544612	1	2	902	9	David	Zeman			40	technik	Jankov	99	80	0	M

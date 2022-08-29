@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3205	559504	1	1	901	1	Marie	Šimlová	F			63	vedoucí prodejny	Trnová	99	80	0
-3205	559504	1	1	901	2	Jan	Korejčík	M	JUDr.		33	policista	Trnová	99	80	0
-3205	559504	1	1	901	3	Ludmila	Křížová	F			45	vedoucí účetní	Trnová	99	80	0
-3205	559504	1	1	901	4	Martin	Fric	M	Ing.		48	ředitel logistického centra	Trnová	99	80	0
-3205	559504	1	1	901	5	Jan	Krnáč	M			27	obráběč kovů	Trnová	99	80	0
-3205	559504	1	1	901	6	Ladislav	Kraus	M			40	stavbyvedoucí	Trnová	99	80	0
-3205	559504	1	1	901	7	Jiří	Dolejš	M	Mgr. Ing.		35	bankovní specialista	Trnová	99	80	0
-3205	559504	1	1	901	8	Petr	Vicenda	M	Mgr.		48	jednatel obchodní společnosti	Severní Předměstí	99	80	0
-3205	559504	1	1	901	9	Jiří	Zelenka	M			46	jednatel obchodní společnosti	Trnová	99	80	0
-3205	559504	1	2	166	1	Petra	Šumlovová	F	Bc.		40	manažerka	Trnová	99	166	0
-3205	559504	1	2	166	2	Zdeněk	Zima	M	Ing.		56	ředitel výrobní jednotky	Trnová	99	166	0
-3205	559504	1	2	166	3	Libor	Hauzner	M			50	dělník	Trnová	99	166	0
-3205	559504	1	2	166	4	Václav	Duchek	M			53	podnikatel	Trnová	99	166	0
-3205	559504	1	2	166	5	Petr	Čása	M			42	podnikatel	Trnová	99	166	0
-3205	559504	1	2	166	6	Martina	Jindrová	F			37	učitelka	Trnová	99	166	0
-3205	559504	1	2	166	7	Václav	Tirb	M	Ing.		34	vedoucí výroby	Trnová	99	166	0
-3205	559504	1	2	166	8	Zdeněk	Randa	M			52	vedoucí autodopravy	Trnová	99	166	0
-3205	559504	1	2	166	9	Jiří	Valeš	M			46	dělník	Trnová	99	166	0
-3205	559504	1	3	53	1	Jan	Mácha	M	Ing.		53	středoškolský učitel	Trnová	99	53	0
-3205	559504	1	3	53	2	Josef	Kraus	M	Mgr.		50	učitel	Trnová	53	53	0
-3205	559504	1	3	53	3	Petr	Randa	M			48	vedoucí střediska	Trnová	99	53	0
-3205	559504	1	3	53	4	Karel	Voříšek	M			65	důchodce	Trnová	99	53	0
-3205	559504	1	3	53	5	Luboš	Erhard	M			43	OSVČ	Trnová	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3205	559504	1	1	901	1	Marie	Šimlová			63	vedoucí prodejny	Trnová	99	80	0	F
+3205	559504	1	2	166	1	Petra	Šumlovová	Bc.		40	manažerka	Trnová	99	166	0	F
+3205	559504	1	3	53	1	Jan	Mácha	Ing.		53	středoškolský učitel	Trnová	99	53	0	M
+3205	559504	1	1	901	2	Jan	Korejčík	JUDr.		33	policista	Trnová	99	80	0	M
+3205	559504	1	2	166	2	Zdeněk	Zima	Ing.		56	ředitel výrobní jednotky	Trnová	99	166	0	M
+3205	559504	1	3	53	2	Josef	Kraus	Mgr.		50	učitel	Trnová	53	53	0	M
+3205	559504	1	1	901	3	Ludmila	Křížová			45	vedoucí účetní	Trnová	99	80	0	F
+3205	559504	1	2	166	3	Libor	Hauzner			50	dělník	Trnová	99	166	0	M
+3205	559504	1	3	53	3	Petr	Randa			48	vedoucí střediska	Trnová	99	53	0	M
+3205	559504	1	1	901	4	Martin	Fric	Ing.		48	ředitel logistického centra	Trnová	99	80	0	M
+3205	559504	1	2	166	4	Václav	Duchek			53	podnikatel	Trnová	99	166	0	M
+3205	559504	1	3	53	4	Karel	Voříšek			65	důchodce	Trnová	99	53	0	M
+3205	559504	1	1	901	5	Jan	Krnáč			27	obráběč kovů	Trnová	99	80	0	M
+3205	559504	1	2	166	5	Petr	Čása			42	podnikatel	Trnová	99	166	0	M
+3205	559504	1	3	53	5	Luboš	Erhard			43	OSVČ	Trnová	99	53	0	M
+3205	559504	1	1	901	6	Ladislav	Kraus			40	stavbyvedoucí	Trnová	99	80	0	M
+3205	559504	1	2	166	6	Martina	Jindrová			37	učitelka	Trnová	99	166	0	F
+3205	559504	1	1	901	7	Jiří	Dolejš	Mgr. Ing.		35	bankovní specialista	Trnová	99	80	0	M
+3205	559504	1	2	166	7	Václav	Tirb	Ing.		34	vedoucí výroby	Trnová	99	166	0	M
+3205	559504	1	1	901	8	Petr	Vicenda	Mgr.		48	jednatel obchodní společnosti	Severní Předměstí	99	80	0	M
+3205	559504	1	2	166	8	Zdeněk	Randa			52	vedoucí autodopravy	Trnová	99	166	0	M
+3205	559504	1	1	901	9	Jiří	Zelenka			46	jednatel obchodní společnosti	Trnová	99	80	0	M
+3205	559504	1	2	166	9	Jiří	Valeš			46	dělník	Trnová	99	166	0	M

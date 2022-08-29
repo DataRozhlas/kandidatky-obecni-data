@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3107	552321	1	1	902	1	Jaroslav	Boháč	M			49	podnikatel	Hlavatce	99	80	0
-3107	552321	1	1	902	2	Pavel	Kostečka	M			43	soukromý zemědělec	Hlavatce	99	80	0
-3107	552321	1	1	902	3	Miroslav	Drs	M			41	soukromý zemědělec	Debrník	99	80	0
-3107	552321	1	1	902	4	Miroslav	Pecháček	M			38	soukromý zemědělec	Debrník	99	80	0
-3107	552321	1	1	902	5	Jaroslav	Pánek	M			33	obráběč kovů	Hlavatce	99	80	0
-3107	552321	1	1	902	6	Jaroslav	Maroušek	M			23	obchodník	Vyhnanice	99	80	0
-3107	552321	1	1	902	7	Vojtěch	Říha	M	Ing.		33	agronom	Hlavatce	99	80	0
-3107	552321	1	1	902	8	Stanislav	Novák	M	Ing.		31	pedagogický pracovník	Hlavatce	99	80	0
-3107	552321	1	1	902	9	Milan	Vaněk	M	Ing.		30	elektrotechnik	Hlavatce	99	80	0
-3107	552321	1	2	901	1	Jaroslav	Hejný	M			49	lesař	Hlavatce	99	80	0
-3107	552321	1	2	901	2	Bohumil	Hejný	M	Ing.		46	informatik	Hlavatce	99	80	0
-3107	552321	1	2	901	3	Josef	Vondruška	M			50	truhlář	Hlavatce	99	80	0
-3107	552321	1	2	901	4	František	Podlaha	M	Bc.		45	příslušník hasič.záchr.sboru	Hlavatce	99	80	0
-3107	552321	1	2	901	5	Jaroslav	Podlaha	M			54	traktorista	Debrník	99	80	0
-3107	552321	1	2	901	6	Hana	Benešová	F			51	sekretářka	Vyhnanice	99	80	0
-3107	552321	1	2	901	7	Josef	Boháč	M			28	elektrotechnik	Hlavatce	99	80	0
-3107	552321	1	2	901	8	Daniel	Vácha	M			31	automechanik	Debrník	99	80	0
-3107	552321	1	2	901	9	František	Jiříček	M			58	soukromý zemědělec	Vyhnanice	99	80	0
-3107	552321	1	3	7	1	Václava	Kodejšová	F	Ing.		71	důchodkyně	Vyhnanice	7	7	0
-3107	552321	1	3	7	2	Pavla	Hejná	F	Ing.		38	nezaměstnaná	Hlavatce	99	7	0
-3107	552321	1	3	7	3	Martin	Hejtmánek	M			27	řidič	Vyhnanice	99	7	0
-3107	552321	1	3	7	4	Marcela	Novotná	F			55	ekonomka	Vyhnanice	99	7	0
-3107	552321	1	3	7	5	Marie	Smržová	F			48	účetní	Hlavatce	99	7	0
-3107	552321	1	3	7	6	Jana	Suchanová	F			47	zdravotní sestra	Vyhnanice	99	7	0
-3107	552321	1	3	7	7	Zdeněk	Kodejš	M	Ing.		70	důchodce	Vyhnanice	7	7	0
-3107	552321	1	3	7	8	Jitka	Přibylová	F			44	zootechnička	Vyhnanice	99	7	0
-3107	552321	1	3	7	9	Miroslav	Pilař	M	Ing.		67	důchodce	Vyhnanice	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3107	552321	1	1	902	1	Jaroslav	Boháč			49	podnikatel	Hlavatce	99	80	0	M
+3107	552321	1	2	901	1	Jaroslav	Hejný			49	lesař	Hlavatce	99	80	0	M
+3107	552321	1	3	7	1	Václava	Kodejšová	Ing.		71	důchodkyně	Vyhnanice	7	7	0	F
+3107	552321	1	1	902	2	Pavel	Kostečka			43	soukromý zemědělec	Hlavatce	99	80	0	M
+3107	552321	1	2	901	2	Bohumil	Hejný	Ing.		46	informatik	Hlavatce	99	80	0	M
+3107	552321	1	3	7	2	Pavla	Hejná	Ing.		38	nezaměstnaná	Hlavatce	99	7	0	F
+3107	552321	1	1	902	3	Miroslav	Drs			41	soukromý zemědělec	Debrník	99	80	0	M
+3107	552321	1	2	901	3	Josef	Vondruška			50	truhlář	Hlavatce	99	80	0	M
+3107	552321	1	3	7	3	Martin	Hejtmánek			27	řidič	Vyhnanice	99	7	0	M
+3107	552321	1	1	902	4	Miroslav	Pecháček			38	soukromý zemědělec	Debrník	99	80	0	M
+3107	552321	1	2	901	4	František	Podlaha	Bc.		45	příslušník hasič.záchr.sboru	Hlavatce	99	80	0	M
+3107	552321	1	3	7	4	Marcela	Novotná			55	ekonomka	Vyhnanice	99	7	0	F
+3107	552321	1	1	902	5	Jaroslav	Pánek			33	obráběč kovů	Hlavatce	99	80	0	M
+3107	552321	1	2	901	5	Jaroslav	Podlaha			54	traktorista	Debrník	99	80	0	M
+3107	552321	1	3	7	5	Marie	Smržová			48	účetní	Hlavatce	99	7	0	F
+3107	552321	1	1	902	6	Jaroslav	Maroušek			23	obchodník	Vyhnanice	99	80	0	M
+3107	552321	1	2	901	6	Hana	Benešová			51	sekretářka	Vyhnanice	99	80	0	F
+3107	552321	1	3	7	6	Jana	Suchanová			47	zdravotní sestra	Vyhnanice	99	7	0	F
+3107	552321	1	1	902	7	Vojtěch	Říha	Ing.		33	agronom	Hlavatce	99	80	0	M
+3107	552321	1	2	901	7	Josef	Boháč			28	elektrotechnik	Hlavatce	99	80	0	M
+3107	552321	1	3	7	7	Zdeněk	Kodejš	Ing.		70	důchodce	Vyhnanice	7	7	0	M
+3107	552321	1	1	902	8	Stanislav	Novák	Ing.		31	pedagogický pracovník	Hlavatce	99	80	0	M
+3107	552321	1	2	901	8	Daniel	Vácha			31	automechanik	Debrník	99	80	0	M
+3107	552321	1	3	7	8	Jitka	Přibylová			44	zootechnička	Vyhnanice	99	7	0	F
+3107	552321	1	1	902	9	Milan	Vaněk	Ing.		30	elektrotechnik	Hlavatce	99	80	0	M
+3107	552321	1	2	901	9	František	Jiříček			58	soukromý zemědělec	Vyhnanice	99	80	0	M
+3107	552321	1	3	7	9	Miroslav	Pilař	Ing.		67	důchodce	Vyhnanice	99	7	0	M

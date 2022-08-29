@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6102	587109	1	1	901	1	Milan	Opravil	M	Mgr.		55	ředitel dětského domova	Dyjice	99	80	A
-6102	587109	1	1	901	2	Miloš	Brtník	M			58	soukromý zemědělec	Stranná	99	80	A
-6102	587109	1	1	901	3	Jiří	Brychta	M			29	umělecký truhlář	Dyjice	99	80	A
-6102	587109	1	1	901	4	Veronika	Jelínková	F		DiS.	28	referent ÚP	Dyjička	99	80	A
-6102	587109	1	1	901	5	Petra	Kučerová	F			44	administrativní pracovník	Dolní Dvorce	99	80	A
-6102	587109	1	1	901	6	Ladislav	Holub	M			52	terapeut	Dyjička	99	80	A
-6102	587109	1	1	901	7	Miroslav	Korčák	M			69	důchodce	Dyjice	99	80	A
-6102	587109	1	2	902	1	Jiří	Brychta	M			50	jednatel	Dyjice	99	80	A
-6102	587109	1	2	902	2	Jitka	Klimešová	F			54	účetní	Dyjička	99	80	A
-6102	587109	1	2	902	3	Milan	Tušer	M			46	automechanik	Dyjice	99	80	A
-6102	587109	1	2	902	4	Milan	Blecha	M			39	soukromý zemědělec	Dolní Dvorce	99	80	A
-6102	587109	1	2	902	5	František	Kumbár	M			26	automechanik	Dyjice	99	80	A
-6102	587109	1	2	902	6	Ladislav	Lakatos	M			61	seřizovač	Dyjička	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6102	587109	1	1	901	1	Milan	Opravil	Mgr.		55	ředitel dětského domova	Dyjice	99	80	A	M
+6102	587109	1	2	902	1	Jiří	Brychta			50	jednatel	Dyjice	99	80	A	M
+6102	587109	1	1	901	2	Miloš	Brtník			58	soukromý zemědělec	Stranná	99	80	A	M
+6102	587109	1	2	902	2	Jitka	Klimešová			54	účetní	Dyjička	99	80	A	F
+6102	587109	1	1	901	3	Jiří	Brychta			29	umělecký truhlář	Dyjice	99	80	A	M
+6102	587109	1	2	902	3	Milan	Tušer			46	automechanik	Dyjice	99	80	A	M
+6102	587109	1	1	901	4	Veronika	Jelínková		DiS.	28	referent ÚP	Dyjička	99	80	A	F
+6102	587109	1	2	902	4	Milan	Blecha			39	soukromý zemědělec	Dolní Dvorce	99	80	A	M
+6102	587109	1	1	901	5	Petra	Kučerová			44	administrativní pracovník	Dolní Dvorce	99	80	A	F
+6102	587109	1	2	902	5	František	Kumbár			26	automechanik	Dyjice	99	80	A	M
+6102	587109	1	1	901	6	Ladislav	Holub			52	terapeut	Dyjička	99	80	A	M
+6102	587109	1	2	902	6	Ladislav	Lakatos			61	seřizovač	Dyjička	99	80	A	M
+6102	587109	1	1	901	7	Miroslav	Korčák			69	důchodce	Dyjice	99	80	A	M

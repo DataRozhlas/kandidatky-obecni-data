@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2108	537802	1	1	901	1	Petr	Novotný	M			57	opravář zemědělských strojů	Střihov	99	80	0
-2108	537802	1	1	901	2	František	Rulík	M	MVDr.		55	veterinář	Sloveč	99	80	0
-2108	537802	1	1	901	3	Miroslav	Valenta	M			52	mechanizátor	Sloveč	99	80	0
-2108	537802	1	1	901	4	Jaroslava	Novotná	F			38	prodavačka	Sloveč	99	80	0
-2108	537802	1	1	901	5	Dana	Jiřičná	F			52	účetní	Sloveč	99	80	0
-2108	537802	1	1	901	6	Martin	Kafka	M			29	podnikatel	Střihov	99	80	0
-2108	537802	1	1	901	7	Jitka	Kohoutová	F			34	zahradnice	Kamilov	99	80	0
-2108	537802	1	1	901	8	Vladimír	Čipera	M			53	zedník	Sloveč	99	80	0
-2108	537802	1	1	901	9	Ivana	Plchová	F			42	prodavačka	Střihov	99	80	0
-2108	537802	1	2	902	1	Irena	Novotná	F			40	prodavačka	Střihov	99	80	0
-2108	537802	1	2	902	2	Jaroslav	Barnet	M			27	prodavač	Kamilov	99	80	0
-2108	537802	1	2	902	3	Blanka	Kopřivová	F			33	nezaměstnanaá	Sloveč	99	80	0
-2108	537802	1	2	902	4	Miroslav	Štěrba	M			35	referent prodeje	Sloveč	99	80	0
-2108	537802	1	2	902	5	Dana	Havlíčková	F	Mgr.		26	speciální pedagog	Sloveč	99	80	0
-2108	537802	1	2	902	6	Dana	Jiřičná	F			41	účetní	Kamilov	99	80	0
-2108	537802	1	2	902	7	Michal	Ifka	M			37	soukromý podnikatel	Střihov	99	80	0
-2108	537802	1	2	902	8	Aleš	Langr	M			37	referent prodeje	Sloveč	99	80	0
-2108	537802	1	2	902	9	Petr	Tyl	M			37	technik	Sloveč	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2108	537802	1	1	901	1	Petr	Novotný			57	opravář zemědělských strojů	Střihov	99	80	0	M
+2108	537802	1	2	902	1	Irena	Novotná			40	prodavačka	Střihov	99	80	0	F
+2108	537802	1	1	901	2	František	Rulík	MVDr.		55	veterinář	Sloveč	99	80	0	M
+2108	537802	1	2	902	2	Jaroslav	Barnet			27	prodavač	Kamilov	99	80	0	M
+2108	537802	1	1	901	3	Miroslav	Valenta			52	mechanizátor	Sloveč	99	80	0	M
+2108	537802	1	2	902	3	Blanka	Kopřivová			33	nezaměstnanaá	Sloveč	99	80	0	F
+2108	537802	1	1	901	4	Jaroslava	Novotná			38	prodavačka	Sloveč	99	80	0	F
+2108	537802	1	2	902	4	Miroslav	Štěrba			35	referent prodeje	Sloveč	99	80	0	M
+2108	537802	1	1	901	5	Dana	Jiřičná			52	účetní	Sloveč	99	80	0	F
+2108	537802	1	2	902	5	Dana	Havlíčková	Mgr.		26	speciální pedagog	Sloveč	99	80	0	F
+2108	537802	1	1	901	6	Martin	Kafka			29	podnikatel	Střihov	99	80	0	M
+2108	537802	1	2	902	6	Dana	Jiřičná			41	účetní	Kamilov	99	80	0	F
+2108	537802	1	1	901	7	Jitka	Kohoutová			34	zahradnice	Kamilov	99	80	0	F
+2108	537802	1	2	902	7	Michal	Ifka			37	soukromý podnikatel	Střihov	99	80	0	M
+2108	537802	1	1	901	8	Vladimír	Čipera			53	zedník	Sloveč	99	80	0	M
+2108	537802	1	2	902	8	Aleš	Langr			37	referent prodeje	Sloveč	99	80	0	M
+2108	537802	1	1	901	9	Ivana	Plchová			42	prodavačka	Střihov	99	80	0	F
+2108	537802	1	2	902	9	Petr	Tyl			37	technik	Sloveč	99	80	0	M

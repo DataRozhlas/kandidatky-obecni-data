@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5203	574317	1	1	902	1	Petr	Novák	M			45	starosta obce	Otovice	99	80	0
-5203	574317	1	1	902	2	Kamil	Korityák	M			36	garážmistr	Otovice	99	80	0
-5203	574317	1	1	902	3	Ivana	Hejtmánková	F	Mgr.		42	učitelka	Otovice	99	80	0
-5203	574317	1	1	902	4	Tomáš	Smrček	M			34	živnostník	Otovice	99	80	0
-5203	574317	1	1	902	5	Pavel	Ježek	M			39	dělník	Otovice	99	80	0
-5203	574317	1	1	902	6	Filip	Hušek	M			27	sanitář	Otovice	99	80	0
-5203	574317	1	1	902	7	Martin	Keller	M			38	předák výroby	Otovice	99	80	0
-5203	574317	1	2	901	1	Josef	Barvíř	M			58	soukromý podnikatel	Otovice	99	80	0
-5203	574317	1	2	901	2	Miroslav	Martin	M			57	údržbář	Otovice	99	80	0
-5203	574317	1	2	901	3	Milan	Korityák	M			41	živnostník	Otovice	99	80	0
-5203	574317	1	2	901	4	Ilona	Jakubková	F			41	tkadlena	Otovice	99	80	0
-5203	574317	1	2	901	5	Miloš	Klesáček	M			50	kovoobráběč	Otovice	99	80	0
-5203	574317	1	2	901	6	Lukáš	Knápek	M			34	obchodní zástupce	Otovice	99	80	0
-5203	574317	1	2	901	7	Jaroslav	Korityák	M			39	strážník	Otovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5203	574317	1	1	902	1	Petr	Novák			45	starosta obce	Otovice	99	80	0	M
+5203	574317	1	2	901	1	Josef	Barvíř			58	soukromý podnikatel	Otovice	99	80	0	M
+5203	574317	1	1	902	2	Kamil	Korityák			36	garážmistr	Otovice	99	80	0	M
+5203	574317	1	2	901	2	Miroslav	Martin			57	údržbář	Otovice	99	80	0	M
+5203	574317	1	1	902	3	Ivana	Hejtmánková	Mgr.		42	učitelka	Otovice	99	80	0	F
+5203	574317	1	2	901	3	Milan	Korityák			41	živnostník	Otovice	99	80	0	M
+5203	574317	1	1	902	4	Tomáš	Smrček			34	živnostník	Otovice	99	80	0	M
+5203	574317	1	2	901	4	Ilona	Jakubková			41	tkadlena	Otovice	99	80	0	F
+5203	574317	1	1	902	5	Pavel	Ježek			39	dělník	Otovice	99	80	0	M
+5203	574317	1	2	901	5	Miloš	Klesáček			50	kovoobráběč	Otovice	99	80	0	M
+5203	574317	1	1	902	6	Filip	Hušek			27	sanitář	Otovice	99	80	0	M
+5203	574317	1	2	901	6	Lukáš	Knápek			34	obchodní zástupce	Otovice	99	80	0	M
+5203	574317	1	1	902	7	Martin	Keller			38	předák výroby	Otovice	99	80	0	M
+5203	574317	1	2	901	7	Jaroslav	Korityák			39	strážník	Otovice	99	80	0	M

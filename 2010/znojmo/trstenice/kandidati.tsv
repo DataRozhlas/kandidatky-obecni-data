@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	594971	1	1	902	1	Marcela	Bonková	F			41	podnikatelka	Trstěnice	99	80	0
-6207	594971	1	1	902	2	Jiří	Březina	M			45	stavební dělník	Trstěnice	99	80	0
-6207	594971	1	1	902	3	Karel	Hlávka	M	Ing.		53	stavební technik	Trstěnice	1	80	0
-6207	594971	1	1	902	4	Václav	Hlávka	M			25	student	Trstěnice	99	80	0
-6207	594971	1	2	901	1	Jan	Březina	M			58	řidič	Trstěnice	99	80	0
-6207	594971	1	2	901	2	Petr	Sova	M	Ing.		40	obchodní zástupce	Trstěnice	99	80	0
-6207	594971	1	2	901	3	Zdeňka	Březinová	F			54	starostka	Trstěnice	99	80	0
-6207	594971	1	2	901	4	Jan	Sklenský	M			47	podnikatel	Trstěnice	99	80	0
-6207	594971	1	2	901	5	Ivana	Smrkovská	F			43	poštovní doručovatelka	Trstěnice	99	80	0
-6207	594971	1	2	901	6	Anna	Bauerová	F			51	mistrová odborného výcviku	Trstěnice	99	80	0
-6207	594971	1	2	901	7	Drahoslav	Chlebeček	M			37	skladník	Trstěnice	99	80	0
-6207	594971	1	2	901	8	Bohumil	Bauer	M			58	stavební dělník	Trstěnice	99	80	0
-6207	594971	1	2	901	9	Otto	Rapf	M	Mgr.		49	ředitel ZŠ a MŠ	Trstěnice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	594971	1	1	902	1	Marcela	Bonková			41	podnikatelka	Trstěnice	99	80	0	F
+6207	594971	1	2	901	1	Jan	Březina			58	řidič	Trstěnice	99	80	0	M
+6207	594971	1	1	902	2	Jiří	Březina			45	stavební dělník	Trstěnice	99	80	0	M
+6207	594971	1	2	901	2	Petr	Sova	Ing.		40	obchodní zástupce	Trstěnice	99	80	0	M
+6207	594971	1	1	902	3	Karel	Hlávka	Ing.		53	stavební technik	Trstěnice	1	80	0	M
+6207	594971	1	2	901	3	Zdeňka	Březinová			54	starostka	Trstěnice	99	80	0	F
+6207	594971	1	1	902	4	Václav	Hlávka			25	student	Trstěnice	99	80	0	M
+6207	594971	1	2	901	4	Jan	Sklenský			47	podnikatel	Trstěnice	99	80	0	M
+6207	594971	1	2	901	5	Ivana	Smrkovská			43	poštovní doručovatelka	Trstěnice	99	80	0	F
+6207	594971	1	2	901	6	Anna	Bauerová			51	mistrová odborného výcviku	Trstěnice	99	80	0	F
+6207	594971	1	2	901	7	Drahoslav	Chlebeček			37	skladník	Trstěnice	99	80	0	M
+6207	594971	1	2	901	8	Bohumil	Bauer			58	stavební dělník	Trstěnice	99	80	0	M
+6207	594971	1	2	901	9	Otto	Rapf	Mgr.		49	ředitel ZŠ a MŠ	Trstěnice	99	80	0	M

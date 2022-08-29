@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6104	591602	1	1	7	1	Jiří	Strnad	M	Mgr.		45	učitel	Rohy	99	7	0
-6104	591602	1	1	7	2	Alena	Brychtová	F			64	důchodkyně	Rohy	99	7	0
-6104	591602	1	1	7	3	Jan	Blaha	M	Ing.		42	státní zaměstnanec	Rohy	99	7	0
-6104	591602	1	1	7	4	Radek	Bednář	M			37	dělník	Rohy	99	7	0
-6104	591602	1	1	7	5	Aleš	Brychta	M			41	podnikatel	Rohy	99	7	0
-6104	591602	1	1	7	6	Stanislav	Javůrek	M			32	dělník	Rohy	99	7	0
-6104	591602	1	1	7	7	Olga	Voborná	F			34	podnikatelka	Rohy	99	7	0
-6104	591602	1	2	47	1	Richard	Smejkal	M			47	dělník	Rohy	99	47	0
-6104	591602	1	2	47	2	Jiří	Žák	M			53	dělník	Rohy	99	47	0
-6104	591602	1	2	47	3	Josef	Vaďura	M			49	dělník	Rohy	99	47	0
-6104	591602	1	2	47	4	Petr	Bednář	M			34	dělník	Rohy	99	47	0
-6104	591602	1	2	47	5	Dalibor	Mikyska	M			43	dělník	Rohy	99	47	0
-6104	591602	1	2	47	6	Radomil	Nestrašil	M			36	dělník	Rohy	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6104	591602	1	1	7	1	Jiří	Strnad	Mgr.		45	učitel	Rohy	99	7	0	M
+6104	591602	1	2	47	1	Richard	Smejkal			47	dělník	Rohy	99	47	0	M
+6104	591602	1	1	7	2	Alena	Brychtová			64	důchodkyně	Rohy	99	7	0	F
+6104	591602	1	2	47	2	Jiří	Žák			53	dělník	Rohy	99	47	0	M
+6104	591602	1	1	7	3	Jan	Blaha	Ing.		42	státní zaměstnanec	Rohy	99	7	0	M
+6104	591602	1	2	47	3	Josef	Vaďura			49	dělník	Rohy	99	47	0	M
+6104	591602	1	1	7	4	Radek	Bednář			37	dělník	Rohy	99	7	0	M
+6104	591602	1	2	47	4	Petr	Bednář			34	dělník	Rohy	99	47	0	M
+6104	591602	1	1	7	5	Aleš	Brychta			41	podnikatel	Rohy	99	7	0	M
+6104	591602	1	2	47	5	Dalibor	Mikyska			43	dělník	Rohy	99	47	0	M
+6104	591602	1	1	7	6	Stanislav	Javůrek			32	dělník	Rohy	99	7	0	M
+6104	591602	1	2	47	6	Radomil	Nestrašil			36	dělník	Rohy	99	47	0	M
+6104	591602	1	1	7	7	Olga	Voborná			34	podnikatelka	Rohy	99	7	0	F

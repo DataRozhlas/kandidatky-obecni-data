@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7104	517666	1	1	801	1	Radomír	Hánečka	M	Ing.		55	technolog Montáže Přerov a.s.	Říkovice	99	80	0
-7104	517666	1	2	902	1	Jiří	Říha	M			35	dispečer	Říkovice	99	80	0
-7104	517666	1	2	902	2	Luděk	Rotrekl	M	Ing.		47	letecký instruktor	Říkovice	99	80	0
-7104	517666	1	2	902	3	Tomáš	Vlach	M	Ing.		35	technolog	Říkovice	99	80	0
-7104	517666	1	2	902	4	Radomír	Vlach	M	Ing.		31	státní zaměstnanec	Říkovice	99	80	0
-7104	517666	1	2	902	5	Zuzana	Opletalová	F	Ing.		26	osobní bankéř	Říkovice	99	80	0
-7104	517666	1	2	902	6	Pavel	Opletal	M	Bc.		30	programátor	Říkovice	99	80	0
-7104	517666	1	2	902	7	Petr	Zavřel	M			26	elektromontér	Říkovice	99	80	0
-7104	517666	1	2	902	8	Richard	Váňa	M			37	strojní mechanik	Říkovice	99	80	0
-7104	517666	1	2	902	9	Renáta	Műcková	F			39	školnice	Říkovice	99	80	0
-7104	517666	1	3	901	1	Radomír	Možíš	M			59	starosta	Říkovice	99	80	0
-7104	517666	1	3	901	2	Zdeněk	Prachniar	M			59	strojní zámečník	Říkovice	99	80	0
-7104	517666	1	3	901	3	Václav	Pospíšil	M			45	učitel	Říkovice	99	80	0
-7104	517666	1	3	901	4	Karel	Pitner	M			53	podnikatel	Říkovice	99	80	0
-7104	517666	1	3	901	5	Miroslav	Vlach	M			61	strojník	Říkovice	99	80	0
-7104	517666	1	3	901	6	Dušan	Pitner	M			42	řidič	Říkovice	99	80	0
-7104	517666	1	3	901	7	Helena	Vinklárková	F			50	asistentka	Říkovice	99	80	0
-7104	517666	1	3	901	8	Radomír	Vlach	M			61	strojník	Říkovice	99	80	0
-7104	517666	1	3	901	9	Jiří	Zavřel	M			59	technik	Říkovice	99	80	0
-7104	517666	1	4	802	1	Adam	Pospíšil	M			35	automechanik	Říkovice	99	80	0
-7104	517666	1	5	803	1	Ladislav	Říha	M			57	zaměstnanec obecního úřadu	Říkovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7104	517666	1	1	801	1	Radomír	Hánečka	Ing.		55	technolog Montáže Přerov a.s.	Říkovice	99	80	0	M
+7104	517666	1	2	902	1	Jiří	Říha			35	dispečer	Říkovice	99	80	0	M
+7104	517666	1	3	901	1	Radomír	Možíš			59	starosta	Říkovice	99	80	0	M
+7104	517666	1	4	802	1	Adam	Pospíšil			35	automechanik	Říkovice	99	80	0	M
+7104	517666	1	5	803	1	Ladislav	Říha			57	zaměstnanec obecního úřadu	Říkovice	99	80	0	M
+7104	517666	1	2	902	2	Luděk	Rotrekl	Ing.		47	letecký instruktor	Říkovice	99	80	0	M
+7104	517666	1	3	901	2	Zdeněk	Prachniar			59	strojní zámečník	Říkovice	99	80	0	M
+7104	517666	1	2	902	3	Tomáš	Vlach	Ing.		35	technolog	Říkovice	99	80	0	M
+7104	517666	1	3	901	3	Václav	Pospíšil			45	učitel	Říkovice	99	80	0	M
+7104	517666	1	2	902	4	Radomír	Vlach	Ing.		31	státní zaměstnanec	Říkovice	99	80	0	M
+7104	517666	1	3	901	4	Karel	Pitner			53	podnikatel	Říkovice	99	80	0	M
+7104	517666	1	2	902	5	Zuzana	Opletalová	Ing.		26	osobní bankéř	Říkovice	99	80	0	F
+7104	517666	1	3	901	5	Miroslav	Vlach			61	strojník	Říkovice	99	80	0	M
+7104	517666	1	2	902	6	Pavel	Opletal	Bc.		30	programátor	Říkovice	99	80	0	M
+7104	517666	1	3	901	6	Dušan	Pitner			42	řidič	Říkovice	99	80	0	M
+7104	517666	1	2	902	7	Petr	Zavřel			26	elektromontér	Říkovice	99	80	0	M
+7104	517666	1	3	901	7	Helena	Vinklárková			50	asistentka	Říkovice	99	80	0	F
+7104	517666	1	2	902	8	Richard	Váňa			37	strojní mechanik	Říkovice	99	80	0	M
+7104	517666	1	3	901	8	Radomír	Vlach			61	strojník	Říkovice	99	80	0	M
+7104	517666	1	2	902	9	Renáta	Műcková			39	školnice	Říkovice	99	80	0	F
+7104	517666	1	3	901	9	Jiří	Zavřel			59	technik	Říkovice	99	80	0	M

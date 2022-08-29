@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3105	550451	1	1	902	1	Martin	Judl	M			45	řidič	Nové Chalupy	99	80	A
-3105	550451	1	1	902	2	Magdalena	Buzková	F	Ing.		33	zástupce vedoucí prodejny	Nové Chalupy	99	80	A
-3105	550451	1	1	902	3	Ján	Stanek	M			44	údržbář provozu-mechanik	Láz	99	80	A
-3105	550451	1	1	902	4	Štěpánka	Judlová	F			40	pracovník KIC	Nové Chalupy	99	80	A
-3105	550451	1	1	902	5	Tereza	Novotná	F	Mgr.		38	podnikatel	Láz	99	80	A
-3105	550451	1	1	902	6	Miroslav	Jirásek	M			55	podnikatel	Jelení	99	80	A
-3105	550451	1	1	902	7	Jan	Kopej	M	Bc.		36	podnikatel	Nové Chalupy	99	80	A
-3105	550451	1	1	902	8	Radek	Judl	M			40	koordinátor BOZP	Nové Chalupy	99	80	A
-3105	550451	1	1	902	9	Josef	Zíka	M			65	řidič	Pěkná	99	80	A
-3105	550451	1	2	47	1	Pavel	Štětina	M			66	lesník	Nová Pec	47	47	A
-3105	550451	1	2	47	2	Andrea	Lašková	F			43	úřednice	Bělá	99	47	A
-3105	550451	1	2	47	3	Jan	Beneš	M			33	lesník	Láz	99	47	A
-3105	550451	1	2	47	4	Jitka	Nekolová	F			51	úřednice	Jelení	99	47	A
-3105	550451	1	2	47	5	Jiří	Štěpánek	M			67	důchodce	Nové Chalupy	99	47	A
-3105	550451	1	2	47	6	Václav	Judl	M			61	řidič	Láz	99	47	A
-3105	550451	1	2	47	7	Karel	Veselovský	M			58	technik	Pěkná	99	47	A
-3105	550451	1	2	47	8	Karel	Dvořáček	M			45	dělník	Nové Chalupy	99	47	A
-3105	550451	1	2	47	9	Zdenka	Střelečková	F			57	kuchařka	Láz	99	47	A
-3105	550451	1	3	901	1	Martin	Hrbek	M			50	jednatel právnické osoby	Jelení	99	80	A
-3105	550451	1	3	901	2	Ivo	Solař	M			44	zaměstnanec finanční správy	Nová Pec	99	80	A
-3105	550451	1	3	901	3	Martin	Šanda	M			38	soukromý podnikatel	Nové Chalupy	99	80	A
-3105	550451	1	3	901	4	Petr	Květoň	M	Mgr.		39	policista	Nové Chalupy	99	80	A
-3105	550451	1	3	901	5	Karel	Kocurek	M			60	vedoucí provozu  ZEFA Nová Pec s.r.o.	Pěkná	99	80	A
-3105	550451	1	3	901	6	Václav	Cypro	M			38	zaměstnanec horské služby	Láz	99	80	A
-3105	550451	1	3	901	7	Pavel	Brejška	M			42	zaměstnanec VLS	Nové Chalupy	99	80	A
-3105	550451	1	3	901	8	David	Daneš	M			38	soukromý podnikatel	Nové Chalupy	99	80	A
-3105	550451	1	3	901	9	Pavel	Bače	M			51	soukromý podnikatel	Pěkná	99	80	A
-3105	550451	1	4	903	1	Jakub	Koželuh	M			33	starosta	Jelení	99	80	A
-3105	550451	1	4	903	2	Ladislav	Valenta	M	Ing.		33	lesník	Nové Chalupy	99	80	A
-3105	550451	1	4	903	3	Miroslav	Novotný	M	Bc.		41	provozní technik	Nové Chalupy	99	80	A
-3105	550451	1	4	903	4	Karel	Král	M			44	operátor	Nové Chalupy	99	80	A
-3105	550451	1	4	903	5	Václav	Klíma	M			59	vedoucí lesní školky	Nové Chalupy	99	80	A
-3105	550451	1	4	903	6	Jiří	Kachlík	M			60	řidič	Nové Chalupy	99	80	A
-3105	550451	1	4	903	7	Roman	Rose	M	Ing.		51	vedoucí ÚP Stožec	Nové Chalupy	99	80	A
-3105	550451	1	4	903	8	Roman	Plzák	M			40	podnikatel	Nové Chalupy	99	80	A
-3105	550451	1	4	903	9	Josef	Koželuh	M	Ing.		27	obchodní zástupce	Jelení	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3105	550451	1	1	902	1	Martin	Judl			45	řidič	Nové Chalupy	99	80	A	M
+3105	550451	1	2	47	1	Pavel	Štětina			66	lesník	Nová Pec	47	47	A	M
+3105	550451	1	3	901	1	Martin	Hrbek			50	jednatel právnické osoby	Jelení	99	80	A	M
+3105	550451	1	4	903	1	Jakub	Koželuh			33	starosta	Jelení	99	80	A	M
+3105	550451	1	1	902	2	Magdalena	Buzková	Ing.		33	zástupce vedoucí prodejny	Nové Chalupy	99	80	A	F
+3105	550451	1	2	47	2	Andrea	Lašková			43	úřednice	Bělá	99	47	A	F
+3105	550451	1	3	901	2	Ivo	Solař			44	zaměstnanec finanční správy	Nová Pec	99	80	A	M
+3105	550451	1	4	903	2	Ladislav	Valenta	Ing.		33	lesník	Nové Chalupy	99	80	A	M
+3105	550451	1	1	902	3	Ján	Stanek			44	údržbář provozu-mechanik	Láz	99	80	A	M
+3105	550451	1	2	47	3	Jan	Beneš			33	lesník	Láz	99	47	A	M
+3105	550451	1	3	901	3	Martin	Šanda			38	soukromý podnikatel	Nové Chalupy	99	80	A	M
+3105	550451	1	4	903	3	Miroslav	Novotný	Bc.		41	provozní technik	Nové Chalupy	99	80	A	M
+3105	550451	1	1	902	4	Štěpánka	Judlová			40	pracovník KIC	Nové Chalupy	99	80	A	F
+3105	550451	1	2	47	4	Jitka	Nekolová			51	úřednice	Jelení	99	47	A	F
+3105	550451	1	3	901	4	Petr	Květoň	Mgr.		39	policista	Nové Chalupy	99	80	A	M
+3105	550451	1	4	903	4	Karel	Král			44	operátor	Nové Chalupy	99	80	A	M
+3105	550451	1	1	902	5	Tereza	Novotná	Mgr.		38	podnikatel	Láz	99	80	A	F
+3105	550451	1	2	47	5	Jiří	Štěpánek			67	důchodce	Nové Chalupy	99	47	A	M
+3105	550451	1	3	901	5	Karel	Kocurek			60	vedoucí provozu  ZEFA Nová Pec s.r.o.	Pěkná	99	80	A	M
+3105	550451	1	4	903	5	Václav	Klíma			59	vedoucí lesní školky	Nové Chalupy	99	80	A	M
+3105	550451	1	1	902	6	Miroslav	Jirásek			55	podnikatel	Jelení	99	80	A	M
+3105	550451	1	2	47	6	Václav	Judl			61	řidič	Láz	99	47	A	M
+3105	550451	1	3	901	6	Václav	Cypro			38	zaměstnanec horské služby	Láz	99	80	A	M
+3105	550451	1	4	903	6	Jiří	Kachlík			60	řidič	Nové Chalupy	99	80	A	M
+3105	550451	1	1	902	7	Jan	Kopej	Bc.		36	podnikatel	Nové Chalupy	99	80	A	M
+3105	550451	1	2	47	7	Karel	Veselovský			58	technik	Pěkná	99	47	A	M
+3105	550451	1	3	901	7	Pavel	Brejška			42	zaměstnanec VLS	Nové Chalupy	99	80	A	M
+3105	550451	1	4	903	7	Roman	Rose	Ing.		51	vedoucí ÚP Stožec	Nové Chalupy	99	80	A	M
+3105	550451	1	1	902	8	Radek	Judl			40	koordinátor BOZP	Nové Chalupy	99	80	A	M
+3105	550451	1	2	47	8	Karel	Dvořáček			45	dělník	Nové Chalupy	99	47	A	M
+3105	550451	1	3	901	8	David	Daneš			38	soukromý podnikatel	Nové Chalupy	99	80	A	M
+3105	550451	1	4	903	8	Roman	Plzák			40	podnikatel	Nové Chalupy	99	80	A	M
+3105	550451	1	1	902	9	Josef	Zíka			65	řidič	Pěkná	99	80	A	M
+3105	550451	1	2	47	9	Zdenka	Střelečková			57	kuchařka	Láz	99	47	A	F
+3105	550451	1	3	901	9	Pavel	Bače			51	soukromý podnikatel	Pěkná	99	80	A	M
+3105	550451	1	4	903	9	Josef	Koželuh	Ing.		27	obchodní zástupce	Jelení	99	80	A	M

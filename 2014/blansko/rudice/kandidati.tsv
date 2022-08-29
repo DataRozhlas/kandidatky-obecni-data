@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	582298	1	1	901	1	Roman	Šebela	M			44	starosta	Rudice	99	80	0
-6201	582298	1	1	901	2	Vlastimil	Jeřábek	M			51	rýsovač	Rudice	99	80	0
-6201	582298	1	1	901	3	Ivana	Neumanová	F			59	projektant	Rudice	99	80	0
-6201	582298	1	1	901	4	Kamil	Kuchař	M	Ing.		39	vývojový projektant	Rudice	99	80	0
-6201	582298	1	1	901	5	Josef	Kulaviak	M	Ing.		59	odborný učitel	Rudice	99	80	0
-6201	582298	1	1	901	6	Josef	Klimosz	M			69	důchodce	Rudice	99	80	0
-6201	582298	1	1	901	7	Pavel	Ševčík	M	Ing.		34	manažer	Rudice	99	80	0
-6201	582298	1	1	901	8	Robert	Pokladník	M	Ing.		29	konstruktér	Rudice	99	80	0
-6201	582298	1	1	901	9	Milena	Grmelová	F			50	prodavačka	Rudice	99	80	0
-6201	582298	1	1	901	10	Jan	Matuška	M			41	referent nákupu	Rudice	99	80	0
-6201	582298	1	1	901	11	Jaroslav	Weiter	M	Ing.		33	vývojový inženýr	Rudice	99	80	0
-6201	582298	1	1	901	12	Roman	Hrazdíra	M			20	student	Rudice	99	80	0
-6201	582298	1	1	901	13	Radim	Nečas	M			27	živnostník	Rudice	99	80	0
-6201	582298	1	1	901	14	Jan	Kunc	M			37	prodejní poradce	Rudice	99	80	0
-6201	582298	1	1	901	15	Jana	Musilová	F	Mgr.		51	učitelka	Rudice	99	80	0
-6201	582298	1	2	1	1	Milan	Žák	M	Mgr.		41	státní zaměstnanec	Rudice	99	1	0
-6201	582298	1	2	1	2	Helena	Dvořáková	F			36	prodavačka	Rudice	99	1	0
-6201	582298	1	2	1	3	René	Rys	M			54	technik ve stavebnictví	Rudice	99	1	0
-6201	582298	1	2	1	4	Zdeňka	Martinásková	F			43	zdravotní sestra	Rudice	1	1	0
-6201	582298	1	2	1	5	Lucie	Šebelová	F			29	pokladní	Rudice	99	1	0
-6201	582298	1	2	1	6	Martin	Mužík	M			36	řidič	Rudice	99	1	0
-6201	582298	1	2	1	7	Marie	Trojáčková	F	Bc.		26	student	Rudice	99	1	0
-6201	582298	1	2	1	8	Vladimír	Hruška	M	Bc.		40	OSVČ - zahradník	Rudice	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	582298	1	1	901	1	Roman	Šebela			44	starosta	Rudice	99	80	0	M
+6201	582298	1	2	1	1	Milan	Žák	Mgr.		41	státní zaměstnanec	Rudice	99	1	0	M
+6201	582298	1	1	901	2	Vlastimil	Jeřábek			51	rýsovač	Rudice	99	80	0	M
+6201	582298	1	2	1	2	Helena	Dvořáková			36	prodavačka	Rudice	99	1	0	F
+6201	582298	1	1	901	3	Ivana	Neumanová			59	projektant	Rudice	99	80	0	F
+6201	582298	1	2	1	3	René	Rys			54	technik ve stavebnictví	Rudice	99	1	0	M
+6201	582298	1	1	901	4	Kamil	Kuchař	Ing.		39	vývojový projektant	Rudice	99	80	0	M
+6201	582298	1	2	1	4	Zdeňka	Martinásková			43	zdravotní sestra	Rudice	1	1	0	F
+6201	582298	1	1	901	5	Josef	Kulaviak	Ing.		59	odborný učitel	Rudice	99	80	0	M
+6201	582298	1	2	1	5	Lucie	Šebelová			29	pokladní	Rudice	99	1	0	F
+6201	582298	1	1	901	6	Josef	Klimosz			69	důchodce	Rudice	99	80	0	M
+6201	582298	1	2	1	6	Martin	Mužík			36	řidič	Rudice	99	1	0	M
+6201	582298	1	1	901	7	Pavel	Ševčík	Ing.		34	manažer	Rudice	99	80	0	M
+6201	582298	1	2	1	7	Marie	Trojáčková	Bc.		26	student	Rudice	99	1	0	F
+6201	582298	1	1	901	8	Robert	Pokladník	Ing.		29	konstruktér	Rudice	99	80	0	M
+6201	582298	1	2	1	8	Vladimír	Hruška	Bc.		40	OSVČ - zahradník	Rudice	99	1	0	M
+6201	582298	1	1	901	9	Milena	Grmelová			50	prodavačka	Rudice	99	80	0	F
+6201	582298	1	1	901	10	Jan	Matuška			41	referent nákupu	Rudice	99	80	0	M
+6201	582298	1	1	901	11	Jaroslav	Weiter	Ing.		33	vývojový inženýr	Rudice	99	80	0	M
+6201	582298	1	1	901	12	Roman	Hrazdíra			20	student	Rudice	99	80	0	M
+6201	582298	1	1	901	13	Radim	Nečas			27	živnostník	Rudice	99	80	0	M
+6201	582298	1	1	901	14	Jan	Kunc			37	prodejní poradce	Rudice	99	80	0	M
+6201	582298	1	1	901	15	Jana	Musilová	Mgr.		51	učitelka	Rudice	99	80	0	F

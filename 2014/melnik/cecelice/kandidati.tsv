@@ -1,20 +1,20 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2106	534749	1	1	801	1	Pavel	Zelenka	M			30	podnikatel	Čečelice	99	80	0
-2106	534749	1	2	901	1	Josef	Zeman	M			52	starosta obce Čečelice	Čečelice	99	80	0
-2106	534749	1	2	901	2	Vladislava	Černohlávková	F			50	zdravotní sestra	Čečelice	99	80	0
-2106	534749	1	2	901	3	Hana	Slánská	F	Mgr.		39	ředitelka ZŠ Čečelice	Čečelice	99	80	0
-2106	534749	1	2	901	4	Jiří	Kábrt	M			38	technolog	Čečelice	99	80	0
-2106	534749	1	2	901	5	Damír	Škarnitzl	M			45	chemik	Čečelice	99	80	0
-2106	534749	1	2	901	6	Josef	Palička	M			65	důchodce	Čečelice	99	80	0
-2106	534749	1	2	901	7	Libor	Kurzweil	M	Ing.	Ph.D.	35	ředitel provozní bezpečnosti	Čečelice	99	80	0
-2106	534749	1	2	901	8	Václav	Hruška	M			39	živnostník	Čečelice	99	80	0
-2106	534749	1	2	901	9	Martin	Koš	M			20	student	Čečelice	99	80	0
-2106	534749	1	3	902	1	Ivan	Langmajer	M	Bc.		48	ekonom	Čečelice	99	80	0
-2106	534749	1	3	902	2	Miroslav	Netík	M			33	automechanik	Čečelice	99	80	0
-2106	534749	1	3	902	3	Josef	Najman	M			39	vedoucí skladu	Čečelice	99	80	0
-2106	534749	1	3	902	4	Jan	Votrubec	M			28	obchodní zástupce	Čečelice	99	80	0
-2106	534749	1	3	902	5	Jakub	Sedláček	M			38	strojní technik	Čečelice	99	80	0
-2106	534749	1	3	902	6	Jan	Langmajer	M			19	student	Čečelice	99	80	0
-2106	534749	1	3	902	7	Martin	Hubáček	M	Bc.		23	student	Čečelice	99	80	0
-2106	534749	1	3	902	8	Jiří	Szen	M			21	student	Čečelice	99	80	0
-2106	534749	1	3	902	9	Tereza	Netíková	F	Mgr.		29	ředitelka mateřské školy	Čečelice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2106	534749	1	1	801	1	Pavel	Zelenka			30	podnikatel	Čečelice	99	80	0	M
+2106	534749	1	2	901	1	Josef	Zeman			52	starosta obce Čečelice	Čečelice	99	80	0	M
+2106	534749	1	3	902	1	Ivan	Langmajer	Bc.		48	ekonom	Čečelice	99	80	0	M
+2106	534749	1	2	901	2	Vladislava	Černohlávková			50	zdravotní sestra	Čečelice	99	80	0	F
+2106	534749	1	3	902	2	Miroslav	Netík			33	automechanik	Čečelice	99	80	0	M
+2106	534749	1	2	901	3	Hana	Slánská	Mgr.		39	ředitelka ZŠ Čečelice	Čečelice	99	80	0	F
+2106	534749	1	3	902	3	Josef	Najman			39	vedoucí skladu	Čečelice	99	80	0	M
+2106	534749	1	2	901	4	Jiří	Kábrt			38	technolog	Čečelice	99	80	0	M
+2106	534749	1	3	902	4	Jan	Votrubec			28	obchodní zástupce	Čečelice	99	80	0	M
+2106	534749	1	2	901	5	Damír	Škarnitzl			45	chemik	Čečelice	99	80	0	M
+2106	534749	1	3	902	5	Jakub	Sedláček			38	strojní technik	Čečelice	99	80	0	M
+2106	534749	1	2	901	6	Josef	Palička			65	důchodce	Čečelice	99	80	0	M
+2106	534749	1	3	902	6	Jan	Langmajer			19	student	Čečelice	99	80	0	M
+2106	534749	1	2	901	7	Libor	Kurzweil	Ing.	Ph.D.	35	ředitel provozní bezpečnosti	Čečelice	99	80	0	M
+2106	534749	1	3	902	7	Martin	Hubáček	Bc.		23	student	Čečelice	99	80	0	M
+2106	534749	1	2	901	8	Václav	Hruška			39	živnostník	Čečelice	99	80	0	M
+2106	534749	1	3	902	8	Jiří	Szen			21	student	Čečelice	99	80	0	M
+2106	534749	1	2	901	9	Martin	Koš			20	student	Čečelice	99	80	0	M
+2106	534749	1	3	902	9	Tereza	Netíková	Mgr.		29	ředitelka mateřské školy	Čečelice	99	80	0	F

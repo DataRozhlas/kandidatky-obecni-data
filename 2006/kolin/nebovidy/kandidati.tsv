@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2104	533521	1	1	801	1	Jaromír	Kašpar	M	Ing.		38	jednatel soukromé společnosti	Nebovidy	99	80	0
-2104	533521	1	2	901	1	Alena	Stopková	F			69	důchodce	Nebovidy	99	80	0
-2104	533521	1	2	901	2	Pavel	Kolář	M			56	technik	Nebovidy	99	80	0
-2104	533521	1	2	901	3	Petr	Petera	M			55	mechanik	Hluboký Důl	99	80	0
-2104	533521	1	2	901	4	Zdeněk	Milichovský	M			46	podnikatel	Hluboký Důl	99	80	0
-2104	533521	1	2	901	5	Petr	Hradílek	M			33	dělník	Nebovidy	99	80	0
-2104	533521	1	2	901	6	Josef	Krátký	M			39	elektrikář	Hluboký Důl	99	80	0
-2104	533521	1	2	901	7	Eva	Kadeřábková	F			42	výtvarnice	Nebovidy	99	80	0
-2104	533521	1	2	901	8	Petr	Brancuzský	M			50	automechanik	Nebovidy	99	80	0
-2104	533521	1	2	901	9	Karel	Štechr	M			65	důchodce	Nebovidy	99	80	0
-2104	533521	1	3	802	1	Jiří	Koubský	M			45	řidič	Hluboký Důl	99	80	0
-2104	533521	1	4	803	1	Libor	Sýkora	M			35	zedník	Nebovidy	99	80	0
-2104	533521	1	5	804	1	Jiří	Dytrich	M			30	truhlář	Nebovidy	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2104	533521	1	1	801	1	Jaromír	Kašpar	Ing.		38	jednatel soukromé společnosti	Nebovidy	99	80	0	M
+2104	533521	1	2	901	1	Alena	Stopková			69	důchodce	Nebovidy	99	80	0	F
+2104	533521	1	3	802	1	Jiří	Koubský			45	řidič	Hluboký Důl	99	80	0	M
+2104	533521	1	4	803	1	Libor	Sýkora			35	zedník	Nebovidy	99	80	0	M
+2104	533521	1	5	804	1	Jiří	Dytrich			30	truhlář	Nebovidy	99	80	0	M
+2104	533521	1	2	901	2	Pavel	Kolář			56	technik	Nebovidy	99	80	0	M
+2104	533521	1	2	901	3	Petr	Petera			55	mechanik	Hluboký Důl	99	80	0	M
+2104	533521	1	2	901	4	Zdeněk	Milichovský			46	podnikatel	Hluboký Důl	99	80	0	M
+2104	533521	1	2	901	5	Petr	Hradílek			33	dělník	Nebovidy	99	80	0	M
+2104	533521	1	2	901	6	Josef	Krátký			39	elektrikář	Hluboký Důl	99	80	0	M
+2104	533521	1	2	901	7	Eva	Kadeřábková			42	výtvarnice	Nebovidy	99	80	0	F
+2104	533521	1	2	901	8	Petr	Brancuzský			50	automechanik	Nebovidy	99	80	0	M
+2104	533521	1	2	901	9	Karel	Štechr			65	důchodce	Nebovidy	99	80	0	M

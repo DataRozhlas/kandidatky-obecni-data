@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	593664	1	1	47	1	Kamil	Oujezdský	M			54	správce budov	Vážany nad Litavou	99	47	0
-6206	593664	1	1	47	2	Ludmila	Pilátová	F			57	pracovnice v sociálních službách	Vážany nad Litavou	99	47	0
-6206	593664	1	1	47	3	Miroslava	Hegrová	F			59	prodavačka	Vážany nad Litavou	99	47	0
-6206	593664	1	1	47	4	Emil	Novotný	M			65	živnostník	Vážany nad Litavou	99	47	0
-6206	593664	1	1	47	5	Dagmar	Dvořáková	F			50	dělnice	Vážany nad Litavou	47	47	0
-6206	593664	1	1	47	6	Jiří	Dostal	M			47	traktorista	Vážany nad Litavou	47	47	0
-6206	593664	1	1	47	7	Jan	Dostal	M			80	důchodce	Vážany nad Litavou	47	47	0
-6206	593664	1	2	901	1	Josef	Hloužek	M			61	stavební technik	Vážany nad Litavou	99	80	0
-6206	593664	1	2	901	2	Karel	Škraňka	M			50	obchodník	Vážany nad Litavou	99	80	0
-6206	593664	1	2	901	3	Eva	Dudová	F	Ing.		40	ekonomka	Vážany nad Litavou	99	80	0
-6206	593664	1	2	901	4	Hana	Paseková	F			38	kuchařka	Vážany nad Litavou	99	80	0
-6206	593664	1	2	901	5	Jiří	Moškvan	M			50	podnikatel	Vážany nad Litavou	99	80	0
-6206	593664	1	2	901	6	Ludvík	Tůma	M			60	montér	Vážany nad Litavou	99	80	0
-6206	593664	1	2	901	7	Radim	Partyka	M			45	revizní technik	Vážany nad Litavou	99	80	0
-6206	593664	1	3	7	1	Václav	Matyáš	M	Ing.		53	OSVČ	Vážany nad Litavou	7	7	0
-6206	593664	1	3	7	2	Petr	Smejsík	M			33	velitel městské policie	Vážany nad Litavou	99	7	0
-6206	593664	1	3	7	3	Pavel	Nezhyba	M			34	dřevomodelář	Vážany nad Litavou	7	7	0
-6206	593664	1	3	7	4	Veronika	Hladíková	F			28	mateřská dovolená	Vážany nad Litavou	7	7	0
-6206	593664	1	3	7	5	Kamil	Zborovský	M			32	OSVČ	Vážany nad Litavou	7	7	0
-6206	593664	1	3	7	6	David	Halamka	M			33	státní zaměstnanec	Vážany nad Litavou	99	7	0
-6206	593664	1	3	7	7	Michal	Oujezdský	M	Mgr.		29	bankovní úředník	Vážany nad Litavou	7	7	0
-6206	593664	1	3	7	8	Kateřina	Zborovská	F			30	mateřská dovolená	Vážany nad Litavou	7	7	0
-6206	593664	1	4	339	1	Jaroslav	Řezáč	M	Ing.		54	ekonom	Vážany nad Litavou	99	181	0
-6206	593664	1	4	339	2	Zuzana	Menšíková	F	Ing. arch.		36	architekt	Vážany nad Litavou	99	181	0
-6206	593664	1	4	339	3	Anna	Pišová	F	Mgr.		34	ředitelka sekretariátů KSZ	Vážany nad Litavou	99	181	0
-6206	593664	1	4	339	4	Viktor	Zachoval	M			35	instalatér	Vážany nad Litavou	99	181	0
-6206	593664	1	4	339	5	Jan	Kundera	M			68	důchodce	Vážany nad Litavou	1	1	0
-6206	593664	1	4	339	6	Helena	Hofírková	F			56	vedoucí obchodu	Vážany nad Litavou	1	1	0
-6206	593664	1	4	339	7	Petr	Hofírek	M			59	nástrojař	Vážany nad Litavou	99	1	0
-6206	593664	1	4	339	8	Jana	Lopatková	F			58	důchodkyně	Vážany nad Litavou	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	593664	1	1	47	1	Kamil	Oujezdský			54	správce budov	Vážany nad Litavou	99	47	0	M
+6206	593664	1	2	901	1	Josef	Hloužek			61	stavební technik	Vážany nad Litavou	99	80	0	M
+6206	593664	1	3	7	1	Václav	Matyáš	Ing.		53	OSVČ	Vážany nad Litavou	7	7	0	M
+6206	593664	1	4	339	1	Jaroslav	Řezáč	Ing.		54	ekonom	Vážany nad Litavou	99	181	0	M
+6206	593664	1	1	47	2	Ludmila	Pilátová			57	pracovnice v sociálních službách	Vážany nad Litavou	99	47	0	F
+6206	593664	1	2	901	2	Karel	Škraňka			50	obchodník	Vážany nad Litavou	99	80	0	M
+6206	593664	1	3	7	2	Petr	Smejsík			33	velitel městské policie	Vážany nad Litavou	99	7	0	M
+6206	593664	1	4	339	2	Zuzana	Menšíková	Ing. arch.		36	architekt	Vážany nad Litavou	99	181	0	F
+6206	593664	1	1	47	3	Miroslava	Hegrová			59	prodavačka	Vážany nad Litavou	99	47	0	F
+6206	593664	1	2	901	3	Eva	Dudová	Ing.		40	ekonomka	Vážany nad Litavou	99	80	0	F
+6206	593664	1	3	7	3	Pavel	Nezhyba			34	dřevomodelář	Vážany nad Litavou	7	7	0	M
+6206	593664	1	4	339	3	Anna	Pišová	Mgr.		34	ředitelka sekretariátů KSZ	Vážany nad Litavou	99	181	0	F
+6206	593664	1	1	47	4	Emil	Novotný			65	živnostník	Vážany nad Litavou	99	47	0	M
+6206	593664	1	2	901	4	Hana	Paseková			38	kuchařka	Vážany nad Litavou	99	80	0	F
+6206	593664	1	3	7	4	Veronika	Hladíková			28	mateřská dovolená	Vážany nad Litavou	7	7	0	F
+6206	593664	1	4	339	4	Viktor	Zachoval			35	instalatér	Vážany nad Litavou	99	181	0	M
+6206	593664	1	1	47	5	Dagmar	Dvořáková			50	dělnice	Vážany nad Litavou	47	47	0	F
+6206	593664	1	2	901	5	Jiří	Moškvan			50	podnikatel	Vážany nad Litavou	99	80	0	M
+6206	593664	1	3	7	5	Kamil	Zborovský			32	OSVČ	Vážany nad Litavou	7	7	0	M
+6206	593664	1	4	339	5	Jan	Kundera			68	důchodce	Vážany nad Litavou	1	1	0	M
+6206	593664	1	1	47	6	Jiří	Dostal			47	traktorista	Vážany nad Litavou	47	47	0	M
+6206	593664	1	2	901	6	Ludvík	Tůma			60	montér	Vážany nad Litavou	99	80	0	M
+6206	593664	1	3	7	6	David	Halamka			33	státní zaměstnanec	Vážany nad Litavou	99	7	0	M
+6206	593664	1	4	339	6	Helena	Hofírková			56	vedoucí obchodu	Vážany nad Litavou	1	1	0	F
+6206	593664	1	1	47	7	Jan	Dostal			80	důchodce	Vážany nad Litavou	47	47	0	M
+6206	593664	1	2	901	7	Radim	Partyka			45	revizní technik	Vážany nad Litavou	99	80	0	M
+6206	593664	1	3	7	7	Michal	Oujezdský	Mgr.		29	bankovní úředník	Vážany nad Litavou	7	7	0	M
+6206	593664	1	4	339	7	Petr	Hofírek			59	nástrojař	Vážany nad Litavou	99	1	0	M
+6206	593664	1	3	7	8	Kateřina	Zborovská			30	mateřská dovolená	Vážany nad Litavou	7	7	0	F
+6206	593664	1	4	339	8	Jana	Lopatková			58	důchodkyně	Vážany nad Litavou	99	1	0	F

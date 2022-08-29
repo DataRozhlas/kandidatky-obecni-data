@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3202	555941	1	1	901	1	Jana	Kocurová	F			35	poštmistrová	Bradné	99	80	0
-3202	555941	1	1	901	2	Václav	Kollross	M			52	nezaměstnaný	Bradné	99	80	0
-3202	555941	1	1	901	3	Stanislava	Gollová	F			60	důchodce	Čachrov	99	80	0
-3202	555941	1	1	901	4	Jiří	Chlebeček	M	Ing.		66	důchodce	Javorná	99	80	0
-3202	555941	1	1	901	5	Jitka	Vlčková	F			37	nezaměstnaná	Čachrov	99	80	0
-3202	555941	1	1	901	6	Josef	Janeček	M			61	důchodce	Kunkovice	99	80	0
-3202	555941	1	1	901	7	Olga	Šmídková	F			49	prodavačka	Javorná	99	80	0
-3202	555941	1	1	901	8	Dušan	Šedlbauer	M			26	soukromý podnikatel	Chvalšovice	99	80	0
-3202	555941	1	1	901	9	Václav	Rendl	M			69	důchodce	Javorná	99	80	0
-3202	555941	1	2	53	1	Josef	Bejvl	M			32	starosta	Chvalšovice	99	53	0
-3202	555941	1	2	53	2	Bohumír	Hásnedl	M			48	soukromý podnikatel	Čachrov	99	53	0
-3202	555941	1	2	53	3	Vladimír	Šedlbauer	M			35	soukromý podnikatel	Čachrov	99	53	0
-3202	555941	1	2	53	4	Stanislav	Kolář	M	Ing.		47	technik	Čachrov	99	53	0
-3202	555941	1	2	53	5	Vlastimil	Valeš	M	Ing.		47	úředník	Jesení	99	53	0
-3202	555941	1	2	53	6	Václav	Bastl	M			39	mistr	Březí	99	53	0
-3202	555941	1	2	53	7	Zdeňka	Kolářová	F			37	zástupce ředitele	Čachrov	99	53	0
-3202	555941	1	2	53	8	Josef	Mensa	M			46	operátor	Javorná	99	53	0
-3202	555941	1	2	53	9	Milena	Chroustová	F	Mgr.		47	učitelka	Čachrov	99	53	0
-3202	555941	1	3	129	1	Karel	Randák	M			57	OSVČ	Javorná	99	129	0
-3202	555941	1	3	129	2	Jaroslav	Kubát	M	Ing.		38	soukromý zemědělec	Kunkovice	99	129	0
-3202	555941	1	3	129	3	Marie	Jarolímová	F			42	finanční poradce	Čachrov	99	129	0
-3202	555941	1	3	129	4	Josef	Brůha	M			44	OSVČ	Čachrov	99	129	0
-3202	555941	1	3	129	5	Václav	Matějka	M			54	OSVČ	Javorná	99	129	0
-3202	555941	1	3	129	6	Jiří	Křen	M			36	řidič	Javorná	99	129	0
-3202	555941	1	3	129	7	Zdeněk	Poláček	M			54	technik	Javorná	99	129	0
-3202	555941	1	3	129	8	Julie	Schneedórflerová	F			32	fyzioterapeut	Javorná	99	129	0
-3202	555941	1	3	129	9	Anna	Mašková	F			41	prodavačka	Kunkovice	99	129	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3202	555941	1	1	901	1	Jana	Kocurová			35	poštmistrová	Bradné	99	80	0	F
+3202	555941	1	2	53	1	Josef	Bejvl			32	starosta	Chvalšovice	99	53	0	M
+3202	555941	1	3	129	1	Karel	Randák			57	OSVČ	Javorná	99	129	0	M
+3202	555941	1	1	901	2	Václav	Kollross			52	nezaměstnaný	Bradné	99	80	0	M
+3202	555941	1	2	53	2	Bohumír	Hásnedl			48	soukromý podnikatel	Čachrov	99	53	0	M
+3202	555941	1	3	129	2	Jaroslav	Kubát	Ing.		38	soukromý zemědělec	Kunkovice	99	129	0	M
+3202	555941	1	1	901	3	Stanislava	Gollová			60	důchodce	Čachrov	99	80	0	F
+3202	555941	1	2	53	3	Vladimír	Šedlbauer			35	soukromý podnikatel	Čachrov	99	53	0	M
+3202	555941	1	3	129	3	Marie	Jarolímová			42	finanční poradce	Čachrov	99	129	0	F
+3202	555941	1	1	901	4	Jiří	Chlebeček	Ing.		66	důchodce	Javorná	99	80	0	M
+3202	555941	1	2	53	4	Stanislav	Kolář	Ing.		47	technik	Čachrov	99	53	0	M
+3202	555941	1	3	129	4	Josef	Brůha			44	OSVČ	Čachrov	99	129	0	M
+3202	555941	1	1	901	5	Jitka	Vlčková			37	nezaměstnaná	Čachrov	99	80	0	F
+3202	555941	1	2	53	5	Vlastimil	Valeš	Ing.		47	úředník	Jesení	99	53	0	M
+3202	555941	1	3	129	5	Václav	Matějka			54	OSVČ	Javorná	99	129	0	M
+3202	555941	1	1	901	6	Josef	Janeček			61	důchodce	Kunkovice	99	80	0	M
+3202	555941	1	2	53	6	Václav	Bastl			39	mistr	Březí	99	53	0	M
+3202	555941	1	3	129	6	Jiří	Křen			36	řidič	Javorná	99	129	0	M
+3202	555941	1	1	901	7	Olga	Šmídková			49	prodavačka	Javorná	99	80	0	F
+3202	555941	1	2	53	7	Zdeňka	Kolářová			37	zástupce ředitele	Čachrov	99	53	0	F
+3202	555941	1	3	129	7	Zdeněk	Poláček			54	technik	Javorná	99	129	0	M
+3202	555941	1	1	901	8	Dušan	Šedlbauer			26	soukromý podnikatel	Chvalšovice	99	80	0	M
+3202	555941	1	2	53	8	Josef	Mensa			46	operátor	Javorná	99	53	0	M
+3202	555941	1	3	129	8	Julie	Schneedórflerová			32	fyzioterapeut	Javorná	99	129	0	F
+3202	555941	1	1	901	9	Václav	Rendl			69	důchodce	Javorná	99	80	0	M
+3202	555941	1	2	53	9	Milena	Chroustová	Mgr.		47	učitelka	Čachrov	99	53	0	F
+3202	555941	1	3	129	9	Anna	Mašková			41	prodavačka	Kunkovice	99	129	0	F

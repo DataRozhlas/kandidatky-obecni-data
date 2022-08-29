@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	546666	1	1	901	1	Václav	Matoušek	M			30	zaměstnanec Policie ČR	Lodhéřov	99	80	A
-3103	546666	1	1	901	2	Radek	Hronza	M	Ing.		33	procesní konzultant, analytik	Lodhéřov	99	80	A
-3103	546666	1	1	901	3	Petr	Plachý	M	Ing.	DiS.	37	vývojář informačních systémů	Lodhéřov	99	80	A
-3103	546666	1	1	901	4	Šárka	Petrů	F			32	na rodičovské dovolené	Lodhéřov	99	80	A
-3103	546666	1	1	901	5	Lucie	Plachá	F	Ing.		33	finanční ředitelka, fotografka	Lodhéřov	99	80	A
-3103	546666	1	1	901	6	Karel	Lacko	M			37	dispečer AD	Lodhéřov	99	80	A
-3103	546666	1	1	901	7	Vladimír	Lovětínský	M			37	pracovník v živočišné výrobě	Lodhéřov	99	80	A
-3103	546666	1	1	901	8	Dušan	Běhounek	M	Ing.		43	realitní makléř	Lodhéřov	99	80	A
-3103	546666	1	1	901	9	Rostislav	Matoušek	M			49	dělník v truhlářské výrobě, elektromechanik	Lodhéřov	99	80	A
-3103	546666	1	2	902	1	Zdeňka	Klesalová	F			46	starostka	Studnice	7	80	A
-3103	546666	1	2	902	2	Miroslav	Šlinc	M	Ing.		30	strojní konstruktér - velitel JSDHO	Lodhéřov	99	80	A
-3103	546666	1	2	902	3	Zdeňka	Jurigová	F			39	prodavačka	Studnice	99	80	A
-3103	546666	1	2	902	4	Petr	Hronza	M	Ing.		32	konzultant v oblasti logistiky - vel. druž. JSDHO	Lodhéřov	99	80	A
-3103	546666	1	2	902	5	Lenka	Hájková	F			32	kadeřnice	Lodhéřov	99	80	A
-3103	546666	1	2	902	6	Miloš	Míka	M			70	důchodce, místostarosta	Najdek	99	80	A
-3103	546666	1	2	902	7	Vendula	Matoušková	F	Mgr.		25	učitelka v MŠ	Lodhéřov	99	80	A
-3103	546666	1	2	902	8	Karel	Hron	M			49	instalatér	Lodhéřov	99	80	A
-3103	546666	1	2	902	9	Zdeněk	Plachý	M			45	truhlář	Lodhéřov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	546666	1	1	901	1	Václav	Matoušek			30	zaměstnanec Policie ČR	Lodhéřov	99	80	A	M
+3103	546666	1	2	902	1	Zdeňka	Klesalová			46	starostka	Studnice	7	80	A	F
+3103	546666	1	1	901	2	Radek	Hronza	Ing.		33	procesní konzultant, analytik	Lodhéřov	99	80	A	M
+3103	546666	1	2	902	2	Miroslav	Šlinc	Ing.		30	strojní konstruktér - velitel JSDHO	Lodhéřov	99	80	A	M
+3103	546666	1	1	901	3	Petr	Plachý	Ing.	DiS.	37	vývojář informačních systémů	Lodhéřov	99	80	A	M
+3103	546666	1	2	902	3	Zdeňka	Jurigová			39	prodavačka	Studnice	99	80	A	F
+3103	546666	1	1	901	4	Šárka	Petrů			32	na rodičovské dovolené	Lodhéřov	99	80	A	F
+3103	546666	1	2	902	4	Petr	Hronza	Ing.		32	konzultant v oblasti logistiky - vel. druž. JSDHO	Lodhéřov	99	80	A	M
+3103	546666	1	1	901	5	Lucie	Plachá	Ing.		33	finanční ředitelka, fotografka	Lodhéřov	99	80	A	F
+3103	546666	1	2	902	5	Lenka	Hájková			32	kadeřnice	Lodhéřov	99	80	A	F
+3103	546666	1	1	901	6	Karel	Lacko			37	dispečer AD	Lodhéřov	99	80	A	M
+3103	546666	1	2	902	6	Miloš	Míka			70	důchodce, místostarosta	Najdek	99	80	A	M
+3103	546666	1	1	901	7	Vladimír	Lovětínský			37	pracovník v živočišné výrobě	Lodhéřov	99	80	A	M
+3103	546666	1	2	902	7	Vendula	Matoušková	Mgr.		25	učitelka v MŠ	Lodhéřov	99	80	A	F
+3103	546666	1	1	901	8	Dušan	Běhounek	Ing.		43	realitní makléř	Lodhéřov	99	80	A	M
+3103	546666	1	2	902	8	Karel	Hron			49	instalatér	Lodhéřov	99	80	A	M
+3103	546666	1	1	901	9	Rostislav	Matoušek			49	dělník v truhlářské výrobě, elektromechanik	Lodhéřov	99	80	A	M
+3103	546666	1	2	902	9	Zdeněk	Plachý			45	truhlář	Lodhéřov	99	80	A	M

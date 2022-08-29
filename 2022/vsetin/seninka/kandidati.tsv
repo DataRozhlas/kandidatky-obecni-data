@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7203	544906	1	1	902	1	Kateřina	Zukalová	F			55	OSVČ	Seninka	5	80	A
-7203	544906	1	1	902	2	Josef	Šulák	M			51	vedoucí výroby	Seninka	99	80	A
-7203	544906	1	1	902	3	Ivan	Juřica	M	Ing.		65	důchodce	Seninka	7	80	A
-7203	544906	1	1	902	4	Milan	Hanulík	M			54	jednatel s.r.o.	Seninka	99	80	A
-7203	544906	1	1	902	5	Petra	Holbová	F			50	dělnice	Seninka	99	80	A
-7203	544906	1	1	902	6	Daniela	Bilová	F	Bc.		42	učitelka	Seninka	99	80	A
-7203	544906	1	1	902	7	Martin	Zeťák	M			44	stavbyvedoucí	Seninka	99	80	A
-7203	544906	1	2	901	1	Eva	Hadrabová	F	Ing.		37	živnostník	Seninka	99	80	A
-7203	544906	1	2	901	2	Adéla	Trnová	F	Mgr.		45	sociální pracovnice	Seninka	99	80	A
-7203	544906	1	2	901	3	Jana	Lažová	F			65	jednatelka	Seninka	99	80	A
-7203	544906	1	2	901	4	Pavel	Řezníček	M			40	montážní dělník	Seninka	99	80	A
-7203	544906	1	2	901	5	Jiří	Chrástecký	M			49	dělník	Seninka	99	80	A
-7203	544906	1	2	901	6	Jiří Michael	Martinec	M	MUDr.		36	lékař	Seninka	99	80	A
-7203	544906	1	2	901	7	Tomáš	Bil				35	hasič	Seninka	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7203	544906	1	1	902	1	Kateřina	Zukalová			55	OSVČ	Seninka	5	80	A	F
+7203	544906	1	2	901	1	Eva	Hadrabová	Ing.		37	živnostník	Seninka	99	80	A	F
+7203	544906	1	1	902	2	Josef	Šulák			51	vedoucí výroby	Seninka	99	80	A	M
+7203	544906	1	2	901	2	Adéla	Trnová	Mgr.		45	sociální pracovnice	Seninka	99	80	A	F
+7203	544906	1	1	902	3	Ivan	Juřica	Ing.		65	důchodce	Seninka	7	80	A	M
+7203	544906	1	2	901	3	Jana	Lažová			65	jednatelka	Seninka	99	80	A	F
+7203	544906	1	1	902	4	Milan	Hanulík			54	jednatel s.r.o.	Seninka	99	80	A	M
+7203	544906	1	2	901	4	Pavel	Řezníček			40	montážní dělník	Seninka	99	80	A	M
+7203	544906	1	1	902	5	Petra	Holbová			50	dělnice	Seninka	99	80	A	F
+7203	544906	1	2	901	5	Jiří	Chrástecký			49	dělník	Seninka	99	80	A	M
+7203	544906	1	1	902	6	Daniela	Bilová	Bc.		42	učitelka	Seninka	99	80	A	F
+7203	544906	1	2	901	6	Jiří Michael	Martinec	MUDr.		36	lékař	Seninka	99	80	A	M
+7203	544906	1	1	902	7	Martin	Zeťák			44	stavbyvedoucí	Seninka	99	80	A	M
+7203	544906	1	2	901	7	Tomáš	Bil			35	hasič	Seninka	99	80	A	

@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6204	584461	1	1	47	1	Antonín	Šlancar	M	Ing.		56	technik	Horní Bojanovice	47	47	0
-6204	584461	1	1	47	2	Zdeněk	Prokeš	M			50	technik	Horní Bojanovice	47	47	0
-6204	584461	1	1	47	3	Milan	Opršal	M			45	technik	Horní Bojanovice	47	47	0
-6204	584461	1	1	47	4	Josef	Michna	M			28	zaměstnanec	Horní Bojanovice	99	47	0
-6204	584461	1	1	47	5	Michal	Lízal	M			30	zaměstnanec	Horní Bojanovice	99	47	0
-6204	584461	1	1	47	6	Zdeněk	Kaňa	M			40	zaměstnanec	Horní Bojanovice	99	47	0
-6204	584461	1	1	47	7	Tomáš	Vejvančický	M			62	důchodce	Horní Bojanovice	47	47	0
-6204	584461	1	2	901	1	Jan	Prokeš	M			24	zemědělský technik	Horní Bojanovice	99	80	0
-6204	584461	1	2	901	2	Vít	Machač	M			33	strojník	Horní Bojanovice	99	80	0
-6204	584461	1	2	901	3	Zbyněk	Prokeš	M			24	živnostník	Horní Bojanovice	99	80	0
-6204	584461	1	2	901	4	Ludmila	Prokešová	F			19	nezaměstnaná	Horní Bojanovice	99	80	0
-6204	584461	1	2	901	5	Jaroslav	Relich	M			25	dělník	Horní Bojanovice	99	80	0
-6204	584461	1	2	901	6	Jiří	Doležel	M			60	důchodce	Horní Bojanovice	99	80	0
-6204	584461	1	2	901	7	Matěj	Machač	M			62	důchodce	Horní Bojanovice	99	80	0
-6204	584461	1	3	1	1	Josef	Hoštický	M			65	důchodce	Horní Bojanovice	1	1	0
-6204	584461	1	3	1	2	Antonín	Kaňa	M			61	důchodce	Horní Bojanovice	1	1	0
-6204	584461	1	3	1	3	Jaroslav	Fojtík	M			51	dělník	Horní Bojanovice	1	1	0
-6204	584461	1	3	1	4	Marcela	Kaňová	F			34	úřednice	Horní Bojanovice	99	1	0
-6204	584461	1	3	1	5	Pavel	Hádlík	M			39	dělník	Horní Bojanovice	99	1	0
-6204	584461	1	3	1	6	Antonín	Kaňa	M			38	řidič autobusu	Horní Bojanovice	99	1	0
-6204	584461	1	3	1	7	Květoslava	Čermáková	F			60	soukromá podnikatelka	Horní Bojanovice	1	1	0
-6204	584461	1	4	53	1	Vladimír	Záruba	M	Ing.		42	starosta	Horní Bojanovice	53	53	0
-6204	584461	1	4	53	2	Vladimír	Bubeníček	M			43	živnostník	Horní Bojanovice	53	53	0
-6204	584461	1	4	53	3	Jiří	Šlancar	M			30	elektromontér	Horní Bojanovice	99	53	0
-6204	584461	1	4	53	4	Jaroslav	Hanák	M			56	stavební technik	Horní Bojanovice	99	53	0
-6204	584461	1	4	53	5	František	Kopčík	M			41	živnostník	Horní Bojanovice	99	53	0
-6204	584461	1	4	53	6	Kamil	Vlach	M			30	strojník	Horní Bojanovice	99	53	0
-6204	584461	1	4	53	7	Petr	Tesař	M			27	elektromechanik	Horní Bojanovice	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6204	584461	1	1	47	1	Antonín	Šlancar	Ing.		56	technik	Horní Bojanovice	47	47	0	M
+6204	584461	1	2	901	1	Jan	Prokeš			24	zemědělský technik	Horní Bojanovice	99	80	0	M
+6204	584461	1	3	1	1	Josef	Hoštický			65	důchodce	Horní Bojanovice	1	1	0	M
+6204	584461	1	4	53	1	Vladimír	Záruba	Ing.		42	starosta	Horní Bojanovice	53	53	0	M
+6204	584461	1	1	47	2	Zdeněk	Prokeš			50	technik	Horní Bojanovice	47	47	0	M
+6204	584461	1	2	901	2	Vít	Machač			33	strojník	Horní Bojanovice	99	80	0	M
+6204	584461	1	3	1	2	Antonín	Kaňa			61	důchodce	Horní Bojanovice	1	1	0	M
+6204	584461	1	4	53	2	Vladimír	Bubeníček			43	živnostník	Horní Bojanovice	53	53	0	M
+6204	584461	1	1	47	3	Milan	Opršal			45	technik	Horní Bojanovice	47	47	0	M
+6204	584461	1	2	901	3	Zbyněk	Prokeš			24	živnostník	Horní Bojanovice	99	80	0	M
+6204	584461	1	3	1	3	Jaroslav	Fojtík			51	dělník	Horní Bojanovice	1	1	0	M
+6204	584461	1	4	53	3	Jiří	Šlancar			30	elektromontér	Horní Bojanovice	99	53	0	M
+6204	584461	1	1	47	4	Josef	Michna			28	zaměstnanec	Horní Bojanovice	99	47	0	M
+6204	584461	1	2	901	4	Ludmila	Prokešová			19	nezaměstnaná	Horní Bojanovice	99	80	0	F
+6204	584461	1	3	1	4	Marcela	Kaňová			34	úřednice	Horní Bojanovice	99	1	0	F
+6204	584461	1	4	53	4	Jaroslav	Hanák			56	stavební technik	Horní Bojanovice	99	53	0	M
+6204	584461	1	1	47	5	Michal	Lízal			30	zaměstnanec	Horní Bojanovice	99	47	0	M
+6204	584461	1	2	901	5	Jaroslav	Relich			25	dělník	Horní Bojanovice	99	80	0	M
+6204	584461	1	3	1	5	Pavel	Hádlík			39	dělník	Horní Bojanovice	99	1	0	M
+6204	584461	1	4	53	5	František	Kopčík			41	živnostník	Horní Bojanovice	99	53	0	M
+6204	584461	1	1	47	6	Zdeněk	Kaňa			40	zaměstnanec	Horní Bojanovice	99	47	0	M
+6204	584461	1	2	901	6	Jiří	Doležel			60	důchodce	Horní Bojanovice	99	80	0	M
+6204	584461	1	3	1	6	Antonín	Kaňa			38	řidič autobusu	Horní Bojanovice	99	1	0	M
+6204	584461	1	4	53	6	Kamil	Vlach			30	strojník	Horní Bojanovice	99	53	0	M
+6204	584461	1	1	47	7	Tomáš	Vejvančický			62	důchodce	Horní Bojanovice	47	47	0	M
+6204	584461	1	2	901	7	Matěj	Machač			62	důchodce	Horní Bojanovice	99	80	0	M
+6204	584461	1	3	1	7	Květoslava	Čermáková			60	soukromá podnikatelka	Horní Bojanovice	1	1	0	F
+6204	584461	1	4	53	7	Petr	Tesař			27	elektromechanik	Horní Bojanovice	99	53	0	M

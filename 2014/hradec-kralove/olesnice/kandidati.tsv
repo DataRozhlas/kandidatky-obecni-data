@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	570524	1	1	902	1	Jan	Outlý	M	PhDr.	Ph.D.	37	vysokoškolský učitel	Olešnice	99	80	0
-5201	570524	1	1	902	2	Jaroslav	Ryba	M			38	vedoucí výroby	Olešnice	99	80	0
-5201	570524	1	1	902	3	Zbyněk	Dvořák	M			42	OSVČ	Olešnice	99	80	0
-5201	570524	1	1	902	4	Petr	Podnecký	M			30	servisní technik	Olešnice	99	80	0
-5201	570524	1	1	902	5	Jitka	Králová	F			38	prodavačka	Olešnice	99	80	0
-5201	570524	1	1	902	6	Pavel	Truksa	M			35	IT analytik	Olešnice	99	80	0
-5201	570524	1	1	902	7	Jaromír	Hruška	M			38	dělník	Levín	99	80	0
-5201	570524	1	1	902	8	Ivo	Šmída	M			36	OSVČ	Olešnice	99	80	0
-5201	570524	1	2	901	1	Luboš	Jelínek	M			44	řidič	Olešnice	99	80	0
-5201	570524	1	2	901	2	Kateřina	Nevrlá	F	Ing.		27	logistik	Olešnice	99	80	0
-5201	570524	1	2	901	3	Pavel	Jelínek	M			39	vedoucí autoservisu	Olešnice	99	80	0
-5201	570524	1	2	901	4	Michal	Jansa	M	Ing.		40	rozpočtář	Olešnice	99	80	0
-5201	570524	1	2	901	5	Jiří	Freika	M			61	údržbář	Olešnice	99	80	0
-5201	570524	1	2	901	6	Pavel	Procházka	M			50	komandující	Olešnice	99	80	0
-5201	570524	1	2	901	7	Martina	Vaníčková	F			40	v domácnosti	Olešnice	99	80	0
-5201	570524	1	2	901	8	Kateřina	Špalková	F			33	prodavačka	Olešnice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	570524	1	1	902	1	Jan	Outlý	PhDr.	Ph.D.	37	vysokoškolský učitel	Olešnice	99	80	0	M
+5201	570524	1	2	901	1	Luboš	Jelínek			44	řidič	Olešnice	99	80	0	M
+5201	570524	1	1	902	2	Jaroslav	Ryba			38	vedoucí výroby	Olešnice	99	80	0	M
+5201	570524	1	2	901	2	Kateřina	Nevrlá	Ing.		27	logistik	Olešnice	99	80	0	F
+5201	570524	1	1	902	3	Zbyněk	Dvořák			42	OSVČ	Olešnice	99	80	0	M
+5201	570524	1	2	901	3	Pavel	Jelínek			39	vedoucí autoservisu	Olešnice	99	80	0	M
+5201	570524	1	1	902	4	Petr	Podnecký			30	servisní technik	Olešnice	99	80	0	M
+5201	570524	1	2	901	4	Michal	Jansa	Ing.		40	rozpočtář	Olešnice	99	80	0	M
+5201	570524	1	1	902	5	Jitka	Králová			38	prodavačka	Olešnice	99	80	0	F
+5201	570524	1	2	901	5	Jiří	Freika			61	údržbář	Olešnice	99	80	0	M
+5201	570524	1	1	902	6	Pavel	Truksa			35	IT analytik	Olešnice	99	80	0	M
+5201	570524	1	2	901	6	Pavel	Procházka			50	komandující	Olešnice	99	80	0	M
+5201	570524	1	1	902	7	Jaromír	Hruška			38	dělník	Levín	99	80	0	M
+5201	570524	1	2	901	7	Martina	Vaníčková			40	v domácnosti	Olešnice	99	80	0	F
+5201	570524	1	1	902	8	Ivo	Šmída			36	OSVČ	Olešnice	99	80	0	M
+5201	570524	1	2	901	8	Kateřina	Špalková			33	prodavačka	Olešnice	99	80	0	F

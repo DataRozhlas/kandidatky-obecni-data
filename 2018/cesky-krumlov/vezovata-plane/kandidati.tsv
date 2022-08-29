@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3102	536300	1	1	1	1	Lukáš	Marek	M			37	podnikatel	Dolní Pláně	99	1	A
-3102	536300	1	1	1	2	Josef	Janda	M			48	programátor	Věžovatá Pláně	99	1	A
-3102	536300	1	1	1	3	František	Janda	M			42	podnikatel	Věžovatá Pláně	99	1	A
-3102	536300	1	1	1	4	Ctibor	Malík	M			52	prodejce	Věžovatá Pláně	99	1	A
-3102	536300	1	1	1	5	Martina	Jandová	F			46	úřednice	Věžovatá Pláně	99	1	A
-3102	536300	1	1	1	6	Petr	Debnár	M			39	dělník	Věžovatá Pláně	99	1	A
-3102	536300	1	1	1	7	Iva	Kočíková	F			57	živnostník	Věžovatá Pláně	99	1	A
-3102	536300	1	1	1	8	Josef	Čížek	M	Mgr.		26	učitel	Věžovatá Pláně	99	1	A
-3102	536300	1	1	1	9	Josef	Čížek	M			53	dělník	Věžovatá Pláně	99	1	A
-3102	536300	1	2	721	1	Jaroslava	Pilsová	F			38	úřednice	Věžovatá Pláně	99	721	A
-3102	536300	1	2	721	2	Ludmila	Opelková	F			63	učitelka	Věžovatá Pláně	99	721	A
-3102	536300	1	2	721	3	Josef	Mach	M			65	starosta, soukromý zemědělec	Dolní Pláně	99	721	A
-3102	536300	1	2	721	4	Jaroslav	Mach	M			63	bagrista	Dolní Pláně	99	721	A
-3102	536300	1	2	721	5	Karel	Pražan	M			46	pracovník logistiky	Věžovatá Pláně	99	721	A
-3102	536300	1	2	721	6	Aleš	Gutwirth	M			42	truhlář	Věžovatá Pláně	721	721	A
-3102	536300	1	2	721	7	Jana	Holcová	F			33	kadeřnice	Dolní Pláně	99	721	A
-3102	536300	1	2	721	8	Petr	Duda	M			41	systémový administrátor	Věžovatá Pláně	99	721	A
-3102	536300	1	3	901	1	Jiří	Vaněček	M			48	seřizovač CNC	Dolní Pláně	99	80	A
-3102	536300	1	3	901	2	Josef	Ondřich	M	Mgr.		52	celník	Dolní Pláně	99	80	A
-3102	536300	1	3	901	3	Miroslav	Šrom	M			48	podnikatel	Dolní Pláně	99	80	A
-3102	536300	1	3	901	4	Jiří	Vaněček	M			23	elektrikář	Dolní Pláně	99	80	A
-3102	536300	1	3	901	5	Tomáš	Marek	M			42	hasič	Dolní Pláně	99	80	A
-3102	536300	1	3	901	6	František	Dvořák	M			58	řidič	Dolní Pláně	99	80	A
-3102	536300	1	3	901	7	Kristýna	Dvořáková	F	Bc.		30	mateřská dovolená	Dolní Pláně	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3102	536300	1	1	1	1	Lukáš	Marek			37	podnikatel	Dolní Pláně	99	1	A	M
+3102	536300	1	2	721	1	Jaroslava	Pilsová			38	úřednice	Věžovatá Pláně	99	721	A	F
+3102	536300	1	3	901	1	Jiří	Vaněček			48	seřizovač CNC	Dolní Pláně	99	80	A	M
+3102	536300	1	1	1	2	Josef	Janda			48	programátor	Věžovatá Pláně	99	1	A	M
+3102	536300	1	2	721	2	Ludmila	Opelková			63	učitelka	Věžovatá Pláně	99	721	A	F
+3102	536300	1	3	901	2	Josef	Ondřich	Mgr.		52	celník	Dolní Pláně	99	80	A	M
+3102	536300	1	1	1	3	František	Janda			42	podnikatel	Věžovatá Pláně	99	1	A	M
+3102	536300	1	2	721	3	Josef	Mach			65	starosta, soukromý zemědělec	Dolní Pláně	99	721	A	M
+3102	536300	1	3	901	3	Miroslav	Šrom			48	podnikatel	Dolní Pláně	99	80	A	M
+3102	536300	1	1	1	4	Ctibor	Malík			52	prodejce	Věžovatá Pláně	99	1	A	M
+3102	536300	1	2	721	4	Jaroslav	Mach			63	bagrista	Dolní Pláně	99	721	A	M
+3102	536300	1	3	901	4	Jiří	Vaněček			23	elektrikář	Dolní Pláně	99	80	A	M
+3102	536300	1	1	1	5	Martina	Jandová			46	úřednice	Věžovatá Pláně	99	1	A	F
+3102	536300	1	2	721	5	Karel	Pražan			46	pracovník logistiky	Věžovatá Pláně	99	721	A	M
+3102	536300	1	3	901	5	Tomáš	Marek			42	hasič	Dolní Pláně	99	80	A	M
+3102	536300	1	1	1	6	Petr	Debnár			39	dělník	Věžovatá Pláně	99	1	A	M
+3102	536300	1	2	721	6	Aleš	Gutwirth			42	truhlář	Věžovatá Pláně	721	721	A	M
+3102	536300	1	3	901	6	František	Dvořák			58	řidič	Dolní Pláně	99	80	A	M
+3102	536300	1	1	1	7	Iva	Kočíková			57	živnostník	Věžovatá Pláně	99	1	A	F
+3102	536300	1	2	721	7	Jana	Holcová			33	kadeřnice	Dolní Pláně	99	721	A	F
+3102	536300	1	3	901	7	Kristýna	Dvořáková	Bc.		30	mateřská dovolená	Dolní Pláně	99	80	A	F
+3102	536300	1	1	1	8	Josef	Čížek	Mgr.		26	učitel	Věžovatá Pláně	99	1	A	M
+3102	536300	1	2	721	8	Petr	Duda			41	systémový administrátor	Věžovatá Pláně	99	721	A	M
+3102	536300	1	1	1	9	Josef	Čížek			53	dělník	Věžovatá Pláně	99	1	A	M

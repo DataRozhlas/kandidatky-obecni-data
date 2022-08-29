@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	553352	1	1	902	1	Karel	Vepřek	M	Ing.		32	stavební technik	Postřelmůvek	99	80	A
-7105	553352	1	1	902	2	Lukáš	Pospíšil	M			33	truhlář	Postřelmůvek	99	80	A
-7105	553352	1	1	902	3	Veronika	Koppová	F			31	grafička	Postřelmůvek	99	80	A
-7105	553352	1	1	902	4	Jana	Nekvindová	F	Ing.		35	programátorka	Postřelmůvek	99	80	A
-7105	553352	1	2	901	1	Stanislav	Sitta	M	Bc.		48	starosta obce	Postřelmůvek	99	80	A
-7105	553352	1	2	901	2	Radek	Červený	M	Ing.		35	stavební technik	Postřelmůvek	99	80	A
-7105	553352	1	2	901	3	Iveta	Pirkl Beštová	F	Ing.		39	učitelka	Postřelmůvek	99	80	A
-7105	553352	1	2	901	4	Jiří	Hányš	M	Ing.		64	státní zaměstnanec	Postřelmůvek	99	80	A
-7105	553352	1	2	901	5	Jarmila	Linhartová	F			60	státní zaměstnanec	Postřelmůvek	99	80	A
-7105	553352	1	2	901	6	Jan	Pospíšil	M			56	řidič autobusu	Postřelmůvek	99	80	A
-7105	553352	1	2	901	7	Zdeněk	Soják	M			57	automechanik	Postřelmůvek	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	553352	1	1	902	1	Karel	Vepřek	Ing.		32	stavební technik	Postřelmůvek	99	80	A	M
+7105	553352	1	2	901	1	Stanislav	Sitta	Bc.		48	starosta obce	Postřelmůvek	99	80	A	M
+7105	553352	1	1	902	2	Lukáš	Pospíšil			33	truhlář	Postřelmůvek	99	80	A	M
+7105	553352	1	2	901	2	Radek	Červený	Ing.		35	stavební technik	Postřelmůvek	99	80	A	M
+7105	553352	1	1	902	3	Veronika	Koppová			31	grafička	Postřelmůvek	99	80	A	F
+7105	553352	1	2	901	3	Iveta	Pirkl Beštová	Ing.		39	učitelka	Postřelmůvek	99	80	A	F
+7105	553352	1	1	902	4	Jana	Nekvindová	Ing.		35	programátorka	Postřelmůvek	99	80	A	F
+7105	553352	1	2	901	4	Jiří	Hányš	Ing.		64	státní zaměstnanec	Postřelmůvek	99	80	A	M
+7105	553352	1	2	901	5	Jarmila	Linhartová			60	státní zaměstnanec	Postřelmůvek	99	80	A	F
+7105	553352	1	2	901	6	Jan	Pospíšil			56	řidič autobusu	Postřelmůvek	99	80	A	M
+7105	553352	1	2	901	7	Zdeněk	Soják			57	automechanik	Postřelmůvek	99	80	A	M

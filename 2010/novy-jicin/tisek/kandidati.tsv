@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8104	599964	1	1	1	1	Jiří	Richtár	M			61	důchodce	Tísek	1	1	0
-8104	599964	1	1	1	2	Renata	Nykšová	F			43	pokojská	Tísek	1	1	0
-8104	599964	1	1	1	3	Martin	Hellebrand	M	Bc.		34	konstruktér	Tísek	99	1	0
-8104	599964	1	1	1	4	Radim	Richter	M			34	obchodní zástupce	Tísek	99	1	0
-8104	599964	1	1	1	5	Radim	Krayzel	M			38	traktorista	Tísek	99	1	0
-8104	599964	1	1	1	6	Daniel	Hájek	M			33	zámečník	Tísek	99	1	0
-8104	599964	1	1	1	7	Petr	Richtár	M			35	automechanik	Tísek	99	1	0
-8104	599964	1	1	1	8	Tomáš	Lindovský	M			32	řidič	Tísek	99	1	0
-8104	599964	1	1	1	9	Peter	Kapusňák	M			46	valcíř	Tísek	1	1	0
-8104	599964	1	2	53	1	Radomír	Tichý	M			58	starosta obce	Tísek	99	53	0
-8104	599964	1	2	53	2	Miroslav	Vašica	M			50	technik	Tísek	99	53	0
-8104	599964	1	2	53	3	Vladimír	Hájek	M			56	soukromý podnikatel	Tísek	53	53	0
-8104	599964	1	2	53	4	Iva	Martinková	F			52	radiologická asistentka	Tísek	53	53	0
-8104	599964	1	2	53	5	Jiří	Richtár	M			34	asistent	Tísek	53	53	0
-8104	599964	1	2	53	6	Jiří	Kudela	M			47	frézař	Tísek	99	53	0
-8104	599964	1	2	53	7	Jan	Vašica	M	Ing.		58	technik	Tísek	53	53	0
-8104	599964	1	2	53	8	Petr	Fritsch	M			45	automechanik	Tísek	53	53	0
-8104	599964	1	2	53	9	Rostislav	Nohel	M			43	instalatér	Tísek	53	53	0
-8104	599964	1	3	47	1	Zdeněk	Šťastný	M			54	dělník	Tísek	47	47	0
-8104	599964	1	3	47	2	Libor	Lazecký	M			35	dělník	Tísek	99	47	0
-8104	599964	1	3	47	3	Tomáš	Nikel	M			32	dělník	Tísek	99	47	0
-8104	599964	1	3	47	4	Iva	Šindlerová	F			57	technik	Tísek	99	47	0
-8104	599964	1	3	47	5	Miloš	Krása	M	Ing.		27	technik	Tísek	99	47	0
-8104	599964	1	3	47	6	Alena	Vojtíšková	F			42	nezaměstnána	Tísek	99	47	0
-8104	599964	1	3	47	7	Ladislav	Dorňák	M			47	technik	Tísek	47	47	0
-8104	599964	1	3	47	8	Petr	Homola	M			56	dělník	Tísek	47	47	0
-8104	599964	1	3	47	9	František	Jedlička	M			68	důchodce	Tísek	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8104	599964	1	1	1	1	Jiří	Richtár			61	důchodce	Tísek	1	1	0	M
+8104	599964	1	2	53	1	Radomír	Tichý			58	starosta obce	Tísek	99	53	0	M
+8104	599964	1	3	47	1	Zdeněk	Šťastný			54	dělník	Tísek	47	47	0	M
+8104	599964	1	1	1	2	Renata	Nykšová			43	pokojská	Tísek	1	1	0	F
+8104	599964	1	2	53	2	Miroslav	Vašica			50	technik	Tísek	99	53	0	M
+8104	599964	1	3	47	2	Libor	Lazecký			35	dělník	Tísek	99	47	0	M
+8104	599964	1	1	1	3	Martin	Hellebrand	Bc.		34	konstruktér	Tísek	99	1	0	M
+8104	599964	1	2	53	3	Vladimír	Hájek			56	soukromý podnikatel	Tísek	53	53	0	M
+8104	599964	1	3	47	3	Tomáš	Nikel			32	dělník	Tísek	99	47	0	M
+8104	599964	1	1	1	4	Radim	Richter			34	obchodní zástupce	Tísek	99	1	0	M
+8104	599964	1	2	53	4	Iva	Martinková			52	radiologická asistentka	Tísek	53	53	0	F
+8104	599964	1	3	47	4	Iva	Šindlerová			57	technik	Tísek	99	47	0	F
+8104	599964	1	1	1	5	Radim	Krayzel			38	traktorista	Tísek	99	1	0	M
+8104	599964	1	2	53	5	Jiří	Richtár			34	asistent	Tísek	53	53	0	M
+8104	599964	1	3	47	5	Miloš	Krása	Ing.		27	technik	Tísek	99	47	0	M
+8104	599964	1	1	1	6	Daniel	Hájek			33	zámečník	Tísek	99	1	0	M
+8104	599964	1	2	53	6	Jiří	Kudela			47	frézař	Tísek	99	53	0	M
+8104	599964	1	3	47	6	Alena	Vojtíšková			42	nezaměstnána	Tísek	99	47	0	F
+8104	599964	1	1	1	7	Petr	Richtár			35	automechanik	Tísek	99	1	0	M
+8104	599964	1	2	53	7	Jan	Vašica	Ing.		58	technik	Tísek	53	53	0	M
+8104	599964	1	3	47	7	Ladislav	Dorňák			47	technik	Tísek	47	47	0	M
+8104	599964	1	1	1	8	Tomáš	Lindovský			32	řidič	Tísek	99	1	0	M
+8104	599964	1	2	53	8	Petr	Fritsch			45	automechanik	Tísek	53	53	0	M
+8104	599964	1	3	47	8	Petr	Homola			56	dělník	Tísek	47	47	0	M
+8104	599964	1	1	1	9	Peter	Kapusňák			46	valcíř	Tísek	1	1	0	M
+8104	599964	1	2	53	9	Rostislav	Nohel			43	instalatér	Tísek	53	53	0	M
+8104	599964	1	3	47	9	František	Jedlička			68	důchodce	Tísek	47	47	0	M

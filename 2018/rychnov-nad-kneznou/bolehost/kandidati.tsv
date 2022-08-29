@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5204	576123	1	1	522	1	Petr	Kubíček	M			42	starosta	Bolehošť	99	80	A
-5204	576123	1	1	522	2	Ondřej	Řezníček	M			35	osoba samostatně výdělečně činná	Bolehošťská Lhota	99	80	A
-5204	576123	1	1	522	3	Ivan	Lelák	M	Ing.		58	konstruktér	Bolehošť	99	80	A
-5204	576123	1	1	522	4	Alena	Jelínková	F	Mgr.		61	učitelka	Bolehošťská Lhota	99	80	A
-5204	576123	1	1	522	5	Jaroslav	Erben	M	Mgr.		41	jednatel marketingové agentury	Bolehošťská Lhota	99	80	A
-5204	576123	1	1	522	6	Tomáš	Karásek	M	Mgr.		29	vývojový inženýr	Bolehošť	99	80	A
-5204	576123	1	1	522	7	Milan	Valenta	M			72	důchodce	Bolehošť	99	80	A
-5204	576123	1	1	522	8	Miloš	Špaček	M			53	strojvůdce	Bolehošťská Lhota	99	80	A
-5204	576123	1	1	522	9	Petr	Hojný	M			41	osoba samostatně výdělečně činná	Bolehošť	99	80	A
-5204	576123	1	2	901	1	Jakub	Šimerda	M			29	podnikatel	Bolehošť	99	80	A
-5204	576123	1	2	901	2	Miloš	Brandejs	M			23	programátor	Bolehošťská Lhota	99	80	A
-5204	576123	1	2	901	3	Martina	Horáková	F			30	farmaceutický asistent	Lipiny	99	80	A
-5204	576123	1	2	901	4	Ivo	Šimerda	M			54	zootechnik	Bolehošť	99	80	A
-5204	576123	1	2	901	5	Jakub	Jizba	M	Bc.		30	podnikatel	Bolehošť	714	80	A
-5204	576123	1	2	901	6	Lýdie	Šimerdová	F	Bc.		29	zdravotní laborant	Bolehošťská Lhota	99	80	A
-5204	576123	1	2	901	7	Petr	Horák	M			28	podnikatel	Lipiny	99	80	A
-5204	576123	1	2	901	8	Vojtěch	Drašnar	M	Mgr.		27	student Ph.D. programu	Bolehošťská Lhota	99	80	A
-5204	576123	1	2	901	9	Marie	Šimerdová	F			75	důchodkyně	Bolehošťská Lhota	99	80	A
-5204	576123	1	3	902	1	Jan	Baše	M			46	asistent logistického centra	Bolehošť	99	80	A
-5204	576123	1	3	902	2	Jiří	Netík	M			39	dispečer kooperace	Bolehošť	99	80	A
-5204	576123	1	3	902	3	Hana	Kučerová	F			38	OSVČ - účetní	Bolehošť	99	80	A
-5204	576123	1	3	902	4	Jan	Baše	M			27	svářeč	Bolehošť	99	80	A
-5204	576123	1	3	902	5	Martina	Korábová	F			48	pracovnice v sociálních službách	Bolehošť	99	80	A
-5204	576123	1	3	902	6	Václav	Drašnar	M			48	řidič mechanik	Bolehošť	99	80	A
-5204	576123	1	3	902	7	Roman	Černý	M			43	stavbyvedoucí	Bolehošť	99	80	A
-5204	576123	1	3	902	8	Roman	Holub	M			52	vedoucí střediska AQUA servis	Bolehošť	99	80	A
-5204	576123	1	3	902	9	Hana	Brandejsová	F			44	odečítač	Bolehošť	99	80	A
-5204	576123	1	4	47	1	Petr	Prause	M			43	technolog	Lipiny	99	47	A
-5204	576123	1	4	47	2	Lucie	Nováková	F	Ing.		35	vedoucí provozovny	Lipiny	99	47	A
-5204	576123	1	4	47	3	Petr	Mencl	M			52	dělník	Lipiny	99	47	A
-5204	576123	1	4	47	4	Miroslav	Máslo	M			40	lesní dělník	Lipiny	99	47	A
-5204	576123	1	4	47	5	Simona	Hájková	F			36	dělnice	Lipiny	99	47	A
-5204	576123	1	4	47	6	Lukáš	Mencl	M			31	provozní dělník	Lipiny	99	47	A
-5204	576123	1	4	47	7	Roman	Hájek	M			44	mistr výroby	Lipiny	99	47	A
-5204	576123	1	4	47	8	Martin	Kupka	M			42	obchodní zástupce	Bolehošťská Lhota	99	47	A
-5204	576123	1	4	47	9	Luboš	Stonjek	M			51	OSVČ	Bolehošťská Lhota	99	47	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5204	576123	1	1	522	1	Petr	Kubíček			42	starosta	Bolehošť	99	80	A	M
+5204	576123	1	2	901	1	Jakub	Šimerda			29	podnikatel	Bolehošť	99	80	A	M
+5204	576123	1	3	902	1	Jan	Baše			46	asistent logistického centra	Bolehošť	99	80	A	M
+5204	576123	1	4	47	1	Petr	Prause			43	technolog	Lipiny	99	47	A	M
+5204	576123	1	1	522	2	Ondřej	Řezníček			35	osoba samostatně výdělečně činná	Bolehošťská Lhota	99	80	A	M
+5204	576123	1	2	901	2	Miloš	Brandejs			23	programátor	Bolehošťská Lhota	99	80	A	M
+5204	576123	1	3	902	2	Jiří	Netík			39	dispečer kooperace	Bolehošť	99	80	A	M
+5204	576123	1	4	47	2	Lucie	Nováková	Ing.		35	vedoucí provozovny	Lipiny	99	47	A	F
+5204	576123	1	1	522	3	Ivan	Lelák	Ing.		58	konstruktér	Bolehošť	99	80	A	M
+5204	576123	1	2	901	3	Martina	Horáková			30	farmaceutický asistent	Lipiny	99	80	A	F
+5204	576123	1	3	902	3	Hana	Kučerová			38	OSVČ - účetní	Bolehošť	99	80	A	F
+5204	576123	1	4	47	3	Petr	Mencl			52	dělník	Lipiny	99	47	A	M
+5204	576123	1	1	522	4	Alena	Jelínková	Mgr.		61	učitelka	Bolehošťská Lhota	99	80	A	F
+5204	576123	1	2	901	4	Ivo	Šimerda			54	zootechnik	Bolehošť	99	80	A	M
+5204	576123	1	3	902	4	Jan	Baše			27	svářeč	Bolehošť	99	80	A	M
+5204	576123	1	4	47	4	Miroslav	Máslo			40	lesní dělník	Lipiny	99	47	A	M
+5204	576123	1	1	522	5	Jaroslav	Erben	Mgr.		41	jednatel marketingové agentury	Bolehošťská Lhota	99	80	A	M
+5204	576123	1	2	901	5	Jakub	Jizba	Bc.		30	podnikatel	Bolehošť	714	80	A	M
+5204	576123	1	3	902	5	Martina	Korábová			48	pracovnice v sociálních službách	Bolehošť	99	80	A	F
+5204	576123	1	4	47	5	Simona	Hájková			36	dělnice	Lipiny	99	47	A	F
+5204	576123	1	1	522	6	Tomáš	Karásek	Mgr.		29	vývojový inženýr	Bolehošť	99	80	A	M
+5204	576123	1	2	901	6	Lýdie	Šimerdová	Bc.		29	zdravotní laborant	Bolehošťská Lhota	99	80	A	F
+5204	576123	1	3	902	6	Václav	Drašnar			48	řidič mechanik	Bolehošť	99	80	A	M
+5204	576123	1	4	47	6	Lukáš	Mencl			31	provozní dělník	Lipiny	99	47	A	M
+5204	576123	1	1	522	7	Milan	Valenta			72	důchodce	Bolehošť	99	80	A	M
+5204	576123	1	2	901	7	Petr	Horák			28	podnikatel	Lipiny	99	80	A	M
+5204	576123	1	3	902	7	Roman	Černý			43	stavbyvedoucí	Bolehošť	99	80	A	M
+5204	576123	1	4	47	7	Roman	Hájek			44	mistr výroby	Lipiny	99	47	A	M
+5204	576123	1	1	522	8	Miloš	Špaček			53	strojvůdce	Bolehošťská Lhota	99	80	A	M
+5204	576123	1	2	901	8	Vojtěch	Drašnar	Mgr.		27	student Ph.D. programu	Bolehošťská Lhota	99	80	A	M
+5204	576123	1	3	902	8	Roman	Holub			52	vedoucí střediska AQUA servis	Bolehošť	99	80	A	M
+5204	576123	1	4	47	8	Martin	Kupka			42	obchodní zástupce	Bolehošťská Lhota	99	47	A	M
+5204	576123	1	1	522	9	Petr	Hojný			41	osoba samostatně výdělečně činná	Bolehošť	99	80	A	M
+5204	576123	1	2	901	9	Marie	Šimerdová			75	důchodkyně	Bolehošťská Lhota	99	80	A	F
+5204	576123	1	3	902	9	Hana	Brandejsová			44	odečítač	Bolehošť	99	80	A	F
+5204	576123	1	4	47	9	Luboš	Stonjek			51	OSVČ	Bolehošťská Lhota	99	47	A	M

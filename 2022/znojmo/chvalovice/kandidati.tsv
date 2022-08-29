@@ -1,36 +1,36 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	594172	1	1	901	1	Robert	Vaněk	M			47	starosta, vedoucí řidičů TWHE	Chvalovice	99	80	A
-6207	594172	1	1	901	2	Jaromír	Jelínek	M			70	starobní důchodce	Chvalovice	99	80	A
-6207	594172	1	1	901	3	Dušan	Zemčík	M			41	OSVČ	Chvalovice	99	80	A
-6207	594172	1	1	901	4	Jiří	Kuchař	M			34	správce IT	Chvalovice	99	80	A
-6207	594172	1	1	901	5	Jindřich	Mráz	M			64	starobní důchodce	Chvalovice	99	80	A
-6207	594172	1	1	901	6	Richard	Lössl	M			43	řidič	Chvalovice	99	80	A
-6207	594172	1	1	901	7	Lucie	Kurtová	F			41	pokojská	Chvalovice	99	80	A
-6207	594172	1	1	901	8	Marius	Jordánek	M			43	PČR	Chvalovice	99	80	A
-6207	594172	1	1	901	9	David	Habrdle	M			48	jednatel společnosti Videon	Chvalovice	99	80	A
-6207	594172	1	2	902	1	František	Hruška	M			56	ekonom	Chvalovice	99	80	A
-6207	594172	1	2	902	2	Ivan	Lehocký	M			50	vedoucí referátu	Chvalovice	99	80	A
-6207	594172	1	2	902	3	Tomáš	Kundrát	M			42	vedoucí provozu	Chvalovice	99	80	A
-6207	594172	1	2	902	4	Petra	Kučerová	F			39	uklízečka	Chvalovice	99	80	A
-6207	594172	1	2	902	5	Radek	Červinka	M			42	vedoucí výroby	Chvalovice	99	80	A
-6207	594172	1	2	902	6	Tomáš	Hruška	M	Bc.		30	úředník	Chvalovice	99	80	A
-6207	594172	1	2	902	7	Martin	Ištvánek	M			39	údržbář	Chvalovice	99	80	A
-6207	594172	1	2	902	8	Vladimír	Hlucháň	M			39	řidič	Chvalovice	99	80	A
-6207	594172	1	3	1	1	Stanislav	Pokorný	M			59	kuchař	Chvalovice	1	1	A
-6207	594172	1	3	1	2	Bohumila	Kovaľská	F			53	účetní	Chvalovice	99	1	A
-6207	594172	1	3	1	3	Jozef	Matiašek	M			70	důchodce	Chvalovice	99	1	A
-6207	594172	1	3	1	4	Libor	Fila	M	Bc.		33	vinař	Chvalovice	99	1	A
-6207	594172	1	3	1	5	Miroslav	Vaněk	M			27	servisní technik	Chvalovice	99	1	A
-6207	594172	1	3	1	6	Jan	Volek	M			40	tesař	Chvalovice	99	1	A
-6207	594172	1	3	1	7	Jiří	Pech	M	Ing.		65	důchodce	Chvalovice	99	1	A
-6207	594172	1	3	1	8	Roman	Zemčík	M			42	řidič - skladník	Chvalovice	99	1	A
-6207	594172	1	3	1	9	Darina	Mašová	F			43	vedoucí prodejny a prodavačka potravin	Chvalovice	99	1	A
-6207	594172	1	4	903	1	Jana	Pekárková	F	Bc.		50	archivářka	Chvalovice	99	80	A
-6207	594172	1	4	903	2	Ladislav	Hájek	M	Ing.		66	soukromý zemědělec	Chvalovice	99	80	A
-6207	594172	1	4	903	3	Radek	Filip	M	Ing. et Ing.		33	manažer správy aktiv	Chvalovice	99	80	A
-6207	594172	1	4	903	4	Martin	Fišer	M			38	policista	Chvalovice	99	80	A
-6207	594172	1	4	903	5	Miroslav	Zemčík	M			39	učitel odborného výcviku	Chvalovice	99	80	A
-6207	594172	1	4	903	6	Martina	Křížová	F			45	pracovnice přímé péče	Chvalovice	99	80	A
-6207	594172	1	4	903	7	Martin	Kapečka	M			47	kuchař	Chvalovice	99	80	A
-6207	594172	1	4	903	8	Jiří	Hájek	M			31	obsluha kamerového dohlížecího systému	Chvalovice	99	80	A
-6207	594172	1	4	903	9	Martin	Pokorný	M	Ing.		35	programátor	Chvalovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	594172	1	1	901	1	Robert	Vaněk			47	starosta, vedoucí řidičů TWHE	Chvalovice	99	80	A	M
+6207	594172	1	2	902	1	František	Hruška			56	ekonom	Chvalovice	99	80	A	M
+6207	594172	1	3	1	1	Stanislav	Pokorný			59	kuchař	Chvalovice	1	1	A	M
+6207	594172	1	4	903	1	Jana	Pekárková	Bc.		50	archivářka	Chvalovice	99	80	A	F
+6207	594172	1	1	901	2	Jaromír	Jelínek			70	starobní důchodce	Chvalovice	99	80	A	M
+6207	594172	1	2	902	2	Ivan	Lehocký			50	vedoucí referátu	Chvalovice	99	80	A	M
+6207	594172	1	3	1	2	Bohumila	Kovaľská			53	účetní	Chvalovice	99	1	A	F
+6207	594172	1	4	903	2	Ladislav	Hájek	Ing.		66	soukromý zemědělec	Chvalovice	99	80	A	M
+6207	594172	1	1	901	3	Dušan	Zemčík			41	OSVČ	Chvalovice	99	80	A	M
+6207	594172	1	2	902	3	Tomáš	Kundrát			42	vedoucí provozu	Chvalovice	99	80	A	M
+6207	594172	1	3	1	3	Jozef	Matiašek			70	důchodce	Chvalovice	99	1	A	M
+6207	594172	1	4	903	3	Radek	Filip	Ing. et Ing.		33	manažer správy aktiv	Chvalovice	99	80	A	M
+6207	594172	1	1	901	4	Jiří	Kuchař			34	správce IT	Chvalovice	99	80	A	M
+6207	594172	1	2	902	4	Petra	Kučerová			39	uklízečka	Chvalovice	99	80	A	F
+6207	594172	1	3	1	4	Libor	Fila	Bc.		33	vinař	Chvalovice	99	1	A	M
+6207	594172	1	4	903	4	Martin	Fišer			38	policista	Chvalovice	99	80	A	M
+6207	594172	1	1	901	5	Jindřich	Mráz			64	starobní důchodce	Chvalovice	99	80	A	M
+6207	594172	1	2	902	5	Radek	Červinka			42	vedoucí výroby	Chvalovice	99	80	A	M
+6207	594172	1	3	1	5	Miroslav	Vaněk			27	servisní technik	Chvalovice	99	1	A	M
+6207	594172	1	4	903	5	Miroslav	Zemčík			39	učitel odborného výcviku	Chvalovice	99	80	A	M
+6207	594172	1	1	901	6	Richard	Lössl			43	řidič	Chvalovice	99	80	A	M
+6207	594172	1	2	902	6	Tomáš	Hruška	Bc.		30	úředník	Chvalovice	99	80	A	M
+6207	594172	1	3	1	6	Jan	Volek			40	tesař	Chvalovice	99	1	A	M
+6207	594172	1	4	903	6	Martina	Křížová			45	pracovnice přímé péče	Chvalovice	99	80	A	F
+6207	594172	1	1	901	7	Lucie	Kurtová			41	pokojská	Chvalovice	99	80	A	F
+6207	594172	1	2	902	7	Martin	Ištvánek			39	údržbář	Chvalovice	99	80	A	M
+6207	594172	1	3	1	7	Jiří	Pech	Ing.		65	důchodce	Chvalovice	99	1	A	M
+6207	594172	1	4	903	7	Martin	Kapečka			47	kuchař	Chvalovice	99	80	A	M
+6207	594172	1	1	901	8	Marius	Jordánek			43	PČR	Chvalovice	99	80	A	M
+6207	594172	1	2	902	8	Vladimír	Hlucháň			39	řidič	Chvalovice	99	80	A	M
+6207	594172	1	3	1	8	Roman	Zemčík			42	řidič - skladník	Chvalovice	99	1	A	M
+6207	594172	1	4	903	8	Jiří	Hájek			31	obsluha kamerového dohlížecího systému	Chvalovice	99	80	A	M
+6207	594172	1	1	901	9	David	Habrdle			48	jednatel společnosti Videon	Chvalovice	99	80	A	M
+6207	594172	1	3	1	9	Darina	Mašová			43	vedoucí prodejny a prodavačka potravin	Chvalovice	99	1	A	F
+6207	594172	1	4	903	9	Martin	Pokorný	Ing.		35	programátor	Chvalovice	99	80	A	M

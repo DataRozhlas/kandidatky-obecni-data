@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5101	562203	1	1	901	1	Jiří	Maček	M			33	soukromý zemědělec	Velký Valtinov	99	80	0
-5101	562203	1	1	901	2	Andrej	Gurský	M			59	invalidní důchodce	Velký Valtinov	99	80	0
-5101	562203	1	1	901	3	Martin	Hůzl	M			25	strojní seřizovač	Velký Valtinov	99	80	0
-5101	562203	1	1	901	4	Blanka	Michalcová	F			40	dělnice	Velký Valtinov	99	80	0
-5101	562203	1	1	901	5	Aleš	Maček	M			25	elektromechanik údržbář	Velký Valtinov	99	80	0
-5101	562203	1	1	901	6	Jaroslava	Pribulová	F			24	dělnice	Velký Valtinov	99	80	0
-5101	562203	1	1	901	7	Kateřina	Knížková	F			33	vychovatelka v dětském domově	Velký Valtinov	53	80	0
-5101	562203	1	2	902	1	Marta	Čermáková	F			58	důchodkyně	Velký Valtinov	99	80	0
-5101	562203	1	2	902	2	Josef	Lukavec	M			58	podnikatel	Velký Valtinov	99	80	0
-5101	562203	1	2	902	3	Monika	Štěpánková	F			34	podnikatelka	Velký Valtinov	99	80	0
-5101	562203	1	2	902	4	Milada	Eichlerová	F			63	důchodkyně	Velký Valtinov	99	80	0
-5101	562203	1	2	902	5	Jan	Socha	M			26	mistr	Velký Valtinov	99	80	0
-5101	562203	1	2	902	6	Martin	Nosek	M			39	podnikatel	Velký Valtinov	99	80	0
-5101	562203	1	2	902	7	Lukáš	Ptáček	M			24	státní zaměstnanec	Velký Valtinov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5101	562203	1	1	901	1	Jiří	Maček			33	soukromý zemědělec	Velký Valtinov	99	80	0	M
+5101	562203	1	2	902	1	Marta	Čermáková			58	důchodkyně	Velký Valtinov	99	80	0	F
+5101	562203	1	1	901	2	Andrej	Gurský			59	invalidní důchodce	Velký Valtinov	99	80	0	M
+5101	562203	1	2	902	2	Josef	Lukavec			58	podnikatel	Velký Valtinov	99	80	0	M
+5101	562203	1	1	901	3	Martin	Hůzl			25	strojní seřizovač	Velký Valtinov	99	80	0	M
+5101	562203	1	2	902	3	Monika	Štěpánková			34	podnikatelka	Velký Valtinov	99	80	0	F
+5101	562203	1	1	901	4	Blanka	Michalcová			40	dělnice	Velký Valtinov	99	80	0	F
+5101	562203	1	2	902	4	Milada	Eichlerová			63	důchodkyně	Velký Valtinov	99	80	0	F
+5101	562203	1	1	901	5	Aleš	Maček			25	elektromechanik údržbář	Velký Valtinov	99	80	0	M
+5101	562203	1	2	902	5	Jan	Socha			26	mistr	Velký Valtinov	99	80	0	M
+5101	562203	1	1	901	6	Jaroslava	Pribulová			24	dělnice	Velký Valtinov	99	80	0	F
+5101	562203	1	2	902	6	Martin	Nosek			39	podnikatel	Velký Valtinov	99	80	0	M
+5101	562203	1	1	901	7	Kateřina	Knížková			33	vychovatelka v dětském domově	Velký Valtinov	53	80	0	F
+5101	562203	1	2	902	7	Lukáš	Ptáček			24	státní zaměstnanec	Velký Valtinov	99	80	0	M

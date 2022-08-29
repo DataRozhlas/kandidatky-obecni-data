@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3204	530140	1	1	901	1	Pavel	Moulis	M	Ing.	Ph.D.	47	vysokoškolský učitel, farmář	Milínov	99	80	A
-3204	530140	1	1	901	2	Marcela	Přibylová	F			53	finanční účetní	Milínov	99	80	A
-3204	530140	1	1	901	3	Tomáš	Přibyl	M			52	obchodní manager	Milínov	99	80	A
-3204	530140	1	1	901	4	Jana	Lopatová	F			47	mzdová účetní	Milínov	99	80	A
-3204	530140	1	1	901	5	Martin	Pecka	M			51	OSVČ	Milínov	99	80	A
-3204	530140	1	1	901	6	Michal	Holý	M			30	mistr výroby	Milínov	99	80	A
-3204	530140	1	1	901	7	Jan	Bubník	M			29	zámečník	Milínov	99	80	A
-3204	530140	1	1	901	8	Hana	Krausová Szakos		MUDr.		42	lékařka	Milínov	99	80	A
-3204	530140	1	1	901	9	Miroslav	Kreuzer	M			33	technik IT	Milínov	99	80	A
-3204	530140	1	2	902	1	Jaroslava	Pechová	F	Ing.		64	daňový poradce	Milínov	99	80	A
-3204	530140	1	2	902	2	Miroslav	Kotora	M			65	umělecký truhlář, soukromý podnikatel	Milínov	99	80	A
-3204	530140	1	2	902	3	Václav	Šimek	M			53	zámečník, soukromý podnikatel	Milínov	99	80	A
-3204	530140	1	2	902	4	Helena	Zubová	F			61	interiérový architekt	Milínov	99	80	A
-3204	530140	1	2	902	5	Vladimír	Zub	M			70	důchodce, ekonom	Milínov	99	80	A
-3204	530140	1	2	902	6	Vladislava	Vyletová	F			38	prodavačka	Milínov	99	80	A
-3204	530140	1	2	902	7	Jana	Krejčová	F	Bc.		47	účetní, soukromá podnikatelka	Milínov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3204	530140	1	1	901	1	Pavel	Moulis	Ing.	Ph.D.	47	vysokoškolský učitel, farmář	Milínov	99	80	A	M
+3204	530140	1	2	902	1	Jaroslava	Pechová	Ing.		64	daňový poradce	Milínov	99	80	A	F
+3204	530140	1	1	901	2	Marcela	Přibylová			53	finanční účetní	Milínov	99	80	A	F
+3204	530140	1	2	902	2	Miroslav	Kotora			65	umělecký truhlář, soukromý podnikatel	Milínov	99	80	A	M
+3204	530140	1	1	901	3	Tomáš	Přibyl			52	obchodní manager	Milínov	99	80	A	M
+3204	530140	1	2	902	3	Václav	Šimek			53	zámečník, soukromý podnikatel	Milínov	99	80	A	M
+3204	530140	1	1	901	4	Jana	Lopatová			47	mzdová účetní	Milínov	99	80	A	F
+3204	530140	1	2	902	4	Helena	Zubová			61	interiérový architekt	Milínov	99	80	A	F
+3204	530140	1	1	901	5	Martin	Pecka			51	OSVČ	Milínov	99	80	A	M
+3204	530140	1	2	902	5	Vladimír	Zub			70	důchodce, ekonom	Milínov	99	80	A	M
+3204	530140	1	1	901	6	Michal	Holý			30	mistr výroby	Milínov	99	80	A	M
+3204	530140	1	2	902	6	Vladislava	Vyletová			38	prodavačka	Milínov	99	80	A	F
+3204	530140	1	1	901	7	Jan	Bubník			29	zámečník	Milínov	99	80	A	M
+3204	530140	1	2	902	7	Jana	Krejčová	Bc.		47	účetní, soukromá podnikatelka	Milínov	99	80	A	F
+3204	530140	1	1	901	8	Hana	Krausová Szakos	MUDr.		42	lékařka	Milínov	99	80	A	
+3204	530140	1	1	901	9	Miroslav	Kreuzer			33	technik IT	Milínov	99	80	A	M

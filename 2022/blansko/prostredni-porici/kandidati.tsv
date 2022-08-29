@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	582221	1	1	1114	1	David	Bárta	M			26	operátor výroby	Prostřední Poříčí	1114	1114	A
-6201	582221	1	1	1114	2	Lída	Vita	F			85	živnostnice	Prostřední Poříčí	99	1114	A
-6201	582221	1	1	1114	3	Ondřej	Lajner	M			18	operátor výroby	Prostřední Poříčí	99	1114	A
-6201	582221	1	1	1114	4	Jiří	Bárta	M			64	operátor výroby	Prostřední Poříčí	99	1114	A
-6201	582221	1	1	1114	5	Lidmila	Bártová	F			61	prodavačka	Prostřední Poříčí	99	1114	A
-6201	582221	1	1	1114	6	Dušan	Bárta	M			39	řidič	Prostřední Poříčí	99	1114	A
-6201	582221	1	2	901	1	Ladislav	Koudelka	M	Mgr.		29	IT vývojář	Prostřední Poříčí	99	80	A
-6201	582221	1	2	901	2	Zdeňka	Dušilová	F			46	krejčová	Prostřední Poříčí	99	80	A
-6201	582221	1	2	901	3	Tomáš	Herčík	M	Ing.		27	technický ředitel	Prostřední Poříčí	99	80	A
-6201	582221	1	2	901	4	Pavla	Novotná	F			51	skladnice	Prostřední Poříčí	99	80	A
-6201	582221	1	2	901	5	Jiří	Kubín	M			40	rodičovská dovolená	Prostřední Poříčí	99	80	A
-6201	582221	1	2	901	6	Natálie	Novotná	F			22	studentka	Prostřední Poříčí	99	80	A
-6201	582221	1	2	901	7	Zdeňka	Květenská	F			65	důchodkyně	Prostřední Poříčí	99	80	A
-6201	582221	1	2	901	8	Jaroslava	Kubínová	F			60	invalidní důchodce	Prostřední Poříčí	99	80	A
-6201	582221	1	2	901	9	Kateřina	Kubínová	F			38	asistentka prodeje	Prostřední Poříčí	99	80	A
-6201	582221	1	3	355	1	Jaroslav	Peterka	M	Ing.		33	konstruktér	Prostřední Poříčí	99	1	A
-6201	582221	1	3	355	2	Ivana	Květenská	F			60	administrativní pracovnice	Prostřední Poříčí	99	80	A
-6201	582221	1	3	355	3	Lenka	Ježová	F	Bc.		30	mateřská dovolená	Prostřední Poříčí	99	1	A
-6201	582221	1	3	355	4	Alena	Dražilová	F			59	krejčová	Prostřední Poříčí	99	80	A
-6201	582221	1	3	355	5	Jiří	Jež	M			36	voják	Prostřední Poříčí	99	1	A
-6201	582221	1	3	355	6	Zdeněk	Kotoulek	M			32	technolog	Prostřední Poříčí	99	80	A
-6201	582221	1	3	355	7	Tomáš	Staněk	M			31	řidič	Prostřední Poříčí	99	1	A
-6201	582221	1	3	355	8	Lukáš	Vrána	M			42	plánovač	Prostřední Poříčí	99	80	A
-6201	582221	1	3	355	9	Martin	Jež	M			34	stolař	Prostřední Poříčí	99	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	582221	1	1	1114	1	David	Bárta			26	operátor výroby	Prostřední Poříčí	1114	1114	A	M
+6201	582221	1	2	901	1	Ladislav	Koudelka	Mgr.		29	IT vývojář	Prostřední Poříčí	99	80	A	M
+6201	582221	1	3	355	1	Jaroslav	Peterka	Ing.		33	konstruktér	Prostřední Poříčí	99	1	A	M
+6201	582221	1	1	1114	2	Lída	Vita			85	živnostnice	Prostřední Poříčí	99	1114	A	F
+6201	582221	1	2	901	2	Zdeňka	Dušilová			46	krejčová	Prostřední Poříčí	99	80	A	F
+6201	582221	1	3	355	2	Ivana	Květenská			60	administrativní pracovnice	Prostřední Poříčí	99	80	A	F
+6201	582221	1	1	1114	3	Ondřej	Lajner			18	operátor výroby	Prostřední Poříčí	99	1114	A	M
+6201	582221	1	2	901	3	Tomáš	Herčík	Ing.		27	technický ředitel	Prostřední Poříčí	99	80	A	M
+6201	582221	1	3	355	3	Lenka	Ježová	Bc.		30	mateřská dovolená	Prostřední Poříčí	99	1	A	F
+6201	582221	1	1	1114	4	Jiří	Bárta			64	operátor výroby	Prostřední Poříčí	99	1114	A	M
+6201	582221	1	2	901	4	Pavla	Novotná			51	skladnice	Prostřední Poříčí	99	80	A	F
+6201	582221	1	3	355	4	Alena	Dražilová			59	krejčová	Prostřední Poříčí	99	80	A	F
+6201	582221	1	1	1114	5	Lidmila	Bártová			61	prodavačka	Prostřední Poříčí	99	1114	A	F
+6201	582221	1	2	901	5	Jiří	Kubín			40	rodičovská dovolená	Prostřední Poříčí	99	80	A	M
+6201	582221	1	3	355	5	Jiří	Jež			36	voják	Prostřední Poříčí	99	1	A	M
+6201	582221	1	1	1114	6	Dušan	Bárta			39	řidič	Prostřední Poříčí	99	1114	A	M
+6201	582221	1	2	901	6	Natálie	Novotná			22	studentka	Prostřední Poříčí	99	80	A	F
+6201	582221	1	3	355	6	Zdeněk	Kotoulek			32	technolog	Prostřední Poříčí	99	80	A	M
+6201	582221	1	2	901	7	Zdeňka	Květenská			65	důchodkyně	Prostřední Poříčí	99	80	A	F
+6201	582221	1	3	355	7	Tomáš	Staněk			31	řidič	Prostřední Poříčí	99	1	A	M
+6201	582221	1	2	901	8	Jaroslava	Kubínová			60	invalidní důchodce	Prostřední Poříčí	99	80	A	F
+6201	582221	1	3	355	8	Lukáš	Vrána			42	plánovač	Prostřední Poříčí	99	80	A	M
+6201	582221	1	2	901	9	Kateřina	Kubínová			38	asistentka prodeje	Prostřední Poříčí	99	80	A	F
+6201	582221	1	3	355	9	Martin	Jež			34	stolař	Prostřední Poříčí	99	1	A	M

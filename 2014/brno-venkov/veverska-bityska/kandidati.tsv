@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	584100	1	1	53	1	Pavel	Králík	M	Ing.		46	lesník, živnostník	Veverská Bítýška	53	53	0
-6203	584100	1	1	53	2	Jaroslav	Skalický	M	Ing. arch.		42	architekt	Veverská Bítýška	99	53	0
-6203	584100	1	1	53	3	Miloš	Ráb	M	Ing.		59	programátor	Veverská Bítýška	99	53	0
-6203	584100	1	1	53	4	Jiří	Urbánek	M			56	živnostník	Veverská Bítýška	99	53	0
-6203	584100	1	1	53	5	Jaromír	Fišer	M			70	důchodce	Veverská Bítýška	99	53	0
-6203	584100	1	1	53	6	Karel	Dobyšar	M			48	živnostník	Veverská Bítýška	99	53	0
-6203	584100	1	1	53	7	Aleš	Mička	M			52	živnostník	Veverská Bítýška	99	53	0
-6203	584100	1	1	53	8	Oldřich	Kazík	M			59	předseda představenstva a.s.	Veverská Bítýška	99	53	0
-6203	584100	1	1	53	9	Evžen	Loutocký	M	Ing.		55	obchodní zástupce	Veverská Bítýška	99	53	0
-6203	584100	1	1	53	10	Jaroslav	Kilián	M			55	servisní technik	Veverská Bítýška	99	53	0
-6203	584100	1	1	53	11	Irena	Králíková	F			44	živnostník	Veverská Bítýška	99	53	0
-6203	584100	1	2	901	1	Josef	Mifek	M			56	starosta městyse	Veverská Bítýška	99	80	0
-6203	584100	1	2	901	2	Pavel	Novotný	M			52	místostarosta městyse	Veverská Bítýška	99	80	0
-6203	584100	1	2	901	3	Vlastimil	Kolstrunk	M	Bc.		52	učitel odborných předmětů	Veverská Bítýška	99	80	0
-6203	584100	1	2	901	4	Pavel	Kozel	M			55	řidič-pokladník	Veverská Bítýška	99	80	0
-6203	584100	1	2	901	5	Petr	Plachý	M	Ing.		43	vedoucí projektant	Veverská Bítýška	99	80	0
-6203	584100	1	2	901	6	Irena	Koláčná	F			54	vychovatelka	Veverská Bítýška	99	80	0
-6203	584100	1	2	901	7	Pavla	Krystková	F			50	zdravotní laborant	Veverská Bítýška	99	80	0
-6203	584100	1	2	901	8	Josef	Kopřiva	M			58	mistr hlavní stavební výroby	Veverská Bítýška	99	80	0
-6203	584100	1	2	901	9	Pavel	Rozkošný	M			63	příslušník cizinecké policie ve výslužbě	Veverská Bítýška	99	80	0
-6203	584100	1	2	901	10	Pavlína	Králíková	F			49	učitelka mateřské školy	Veverská Bítýška	99	80	0
-6203	584100	1	2	901	11	Jana	Váňová	F			57	účetní	Veverská Bítýška	99	80	0
-6203	584100	1	3	902	1	František	Černý	M			58	stavbyvedoucí	Veverská Bítýška	99	80	0
-6203	584100	1	3	902	2	Milan	Veselý	M			41	mistr	Veverská Bítýška	99	80	0
-6203	584100	1	3	902	3	Hana	Bůčková	F	Mgr.		48	správní referent	Veverská Bítýška	99	80	0
-6203	584100	1	3	902	4	Jaroslav	Bělíček	M			66	zedník	Veverská Bítýška	99	80	0
-6203	584100	1	3	902	5	Pavel	Valach	M			49	živnostník	Veverská Bítýška	99	80	0
-6203	584100	1	3	902	6	Bohumil	Jakubec	M	Ing.		61	technolog	Veverská Bítýška	99	80	0
-6203	584100	1	3	902	7	Květoslava	Přibylová	F			63	důchodce	Veverská Bítýška	99	80	0
-6203	584100	1	3	902	8	Zdeněk	Poláček	M			47	samostatný odborný pracovník	Veverská Bítýška	99	80	0
-6203	584100	1	3	902	9	Josef	Řezníček	M	Ing.		64	ředitel firmy	Veverská Bítýška	99	80	0
-6203	584100	1	3	902	10	Jiří	Balabán	M			43	živnostník	Veverská Bítýška	99	80	0
-6203	584100	1	3	902	11	Jarmila	Novotná	F	Ing.		50	stavební inženýrka	Veverská Bítýška	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	584100	1	1	53	1	Pavel	Králík	Ing.		46	lesník, živnostník	Veverská Bítýška	53	53	0	M
+6203	584100	1	2	901	1	Josef	Mifek			56	starosta městyse	Veverská Bítýška	99	80	0	M
+6203	584100	1	3	902	1	František	Černý			58	stavbyvedoucí	Veverská Bítýška	99	80	0	M
+6203	584100	1	1	53	2	Jaroslav	Skalický	Ing. arch.		42	architekt	Veverská Bítýška	99	53	0	M
+6203	584100	1	2	901	2	Pavel	Novotný			52	místostarosta městyse	Veverská Bítýška	99	80	0	M
+6203	584100	1	3	902	2	Milan	Veselý			41	mistr	Veverská Bítýška	99	80	0	M
+6203	584100	1	1	53	3	Miloš	Ráb	Ing.		59	programátor	Veverská Bítýška	99	53	0	M
+6203	584100	1	2	901	3	Vlastimil	Kolstrunk	Bc.		52	učitel odborných předmětů	Veverská Bítýška	99	80	0	M
+6203	584100	1	3	902	3	Hana	Bůčková	Mgr.		48	správní referent	Veverská Bítýška	99	80	0	F
+6203	584100	1	1	53	4	Jiří	Urbánek			56	živnostník	Veverská Bítýška	99	53	0	M
+6203	584100	1	2	901	4	Pavel	Kozel			55	řidič-pokladník	Veverská Bítýška	99	80	0	M
+6203	584100	1	3	902	4	Jaroslav	Bělíček			66	zedník	Veverská Bítýška	99	80	0	M
+6203	584100	1	1	53	5	Jaromír	Fišer			70	důchodce	Veverská Bítýška	99	53	0	M
+6203	584100	1	2	901	5	Petr	Plachý	Ing.		43	vedoucí projektant	Veverská Bítýška	99	80	0	M
+6203	584100	1	3	902	5	Pavel	Valach			49	živnostník	Veverská Bítýška	99	80	0	M
+6203	584100	1	1	53	6	Karel	Dobyšar			48	živnostník	Veverská Bítýška	99	53	0	M
+6203	584100	1	2	901	6	Irena	Koláčná			54	vychovatelka	Veverská Bítýška	99	80	0	F
+6203	584100	1	3	902	6	Bohumil	Jakubec	Ing.		61	technolog	Veverská Bítýška	99	80	0	M
+6203	584100	1	1	53	7	Aleš	Mička			52	živnostník	Veverská Bítýška	99	53	0	M
+6203	584100	1	2	901	7	Pavla	Krystková			50	zdravotní laborant	Veverská Bítýška	99	80	0	F
+6203	584100	1	3	902	7	Květoslava	Přibylová			63	důchodce	Veverská Bítýška	99	80	0	F
+6203	584100	1	1	53	8	Oldřich	Kazík			59	předseda představenstva a.s.	Veverská Bítýška	99	53	0	M
+6203	584100	1	2	901	8	Josef	Kopřiva			58	mistr hlavní stavební výroby	Veverská Bítýška	99	80	0	M
+6203	584100	1	3	902	8	Zdeněk	Poláček			47	samostatný odborný pracovník	Veverská Bítýška	99	80	0	M
+6203	584100	1	1	53	9	Evžen	Loutocký	Ing.		55	obchodní zástupce	Veverská Bítýška	99	53	0	M
+6203	584100	1	2	901	9	Pavel	Rozkošný			63	příslušník cizinecké policie ve výslužbě	Veverská Bítýška	99	80	0	M
+6203	584100	1	3	902	9	Josef	Řezníček	Ing.		64	ředitel firmy	Veverská Bítýška	99	80	0	M
+6203	584100	1	1	53	10	Jaroslav	Kilián			55	servisní technik	Veverská Bítýška	99	53	0	M
+6203	584100	1	2	901	10	Pavlína	Králíková			49	učitelka mateřské školy	Veverská Bítýška	99	80	0	F
+6203	584100	1	3	902	10	Jiří	Balabán			43	živnostník	Veverská Bítýška	99	80	0	M
+6203	584100	1	1	53	11	Irena	Králíková			44	živnostník	Veverská Bítýška	99	53	0	F
+6203	584100	1	2	901	11	Jana	Váňová			57	účetní	Veverská Bítýška	99	80	0	F
+6203	584100	1	3	902	11	Jarmila	Novotná	Ing.		50	stavební inženýrka	Veverská Bítýška	99	80	0	F

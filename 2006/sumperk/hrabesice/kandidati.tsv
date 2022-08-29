@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	553387	1	1	901	1	Miroslav	Hevera	M		DiS.	42	konstruktér	Hraběšice	99	80	1
-7105	553387	1	1	901	2	Josef	Forajta	M			66	důchodce	Hraběšice	99	80	0
-7105	553387	1	1	901	3	Libor	Suchánek	M	Ing.		49	podnikatel	Hraběšice	99	80	0
-7105	553387	1	1	901	4	Alois	Míča	M			48	živnostník	Hraběšice	99	80	0
-7105	553387	1	1	901	5	Jan	Kampas	M			59	dělník	Hraběšice	1	80	0
-7105	553387	1	1	901	6	Helena	Buchtová	F			39	MD	Hraběšice	99	80	0
-7105	553387	1	1	901	7	Jiří	Mikulka	M			34	referent prodeje	Hraběšice	99	80	0
-7105	553387	1	1	901	8	Dana	Barčíková	F			43	MD	Hraběšice	99	80	0
-7105	553387	1	1	901	9	Marta	Matisová	F			29	dělnice	Hraběšice	99	80	0
-7105	553387	1	2	801	1	Emil	Markovský	M			61	důchodce	Hraběšice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	553387	1	1	901	1	Miroslav	Hevera		DiS.	42	konstruktér	Hraběšice	99	80	1	M
+7105	553387	1	2	801	1	Emil	Markovský			61	důchodce	Hraběšice	99	80	0	M
+7105	553387	1	1	901	2	Josef	Forajta			66	důchodce	Hraběšice	99	80	0	M
+7105	553387	1	1	901	3	Libor	Suchánek	Ing.		49	podnikatel	Hraběšice	99	80	0	M
+7105	553387	1	1	901	4	Alois	Míča			48	živnostník	Hraběšice	99	80	0	M
+7105	553387	1	1	901	5	Jan	Kampas			59	dělník	Hraběšice	1	80	0	M
+7105	553387	1	1	901	6	Helena	Buchtová			39	MD	Hraběšice	99	80	0	F
+7105	553387	1	1	901	7	Jiří	Mikulka			34	referent prodeje	Hraběšice	99	80	0	M
+7105	553387	1	1	901	8	Dana	Barčíková			43	MD	Hraběšice	99	80	0	F
+7105	553387	1	1	901	9	Marta	Matisová			29	dělnice	Hraběšice	99	80	0	F

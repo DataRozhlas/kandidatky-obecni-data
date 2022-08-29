@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8106	506711	1	1	1	1	Aleš	Miko	M	JUDr.		34	technický ředitel a předseda Atletického klubu	Dolní Lhota	99	1	A
-8106	506711	1	1	1	2	Marek	Tejzr	M	Mgr.		41	provozně-technický manažer	Dolní Lhota	99	1	A
-8106	506711	1	1	1	3	Jaroslav	Volf	M	MUDr.	Ph.D.	64	lékař	Dolní Lhota	99	1	A
-8106	506711	1	1	1	4	Simona	Havrlantová	F	Mgr.		39	učitelka ZŠ	Dolní Lhota	99	1	A
-8106	506711	1	1	1	5	Petr	Novobilský	M	Ing.		34	biomedicínský inženýr	Dolní Lhota	1	1	A
-8106	506711	1	1	1	6	Dagmar	Máchová	F	Bc.		50	pedagogický pracovník	Dolní Lhota	1	1	A
-8106	506711	1	1	1	7	Ivan	Niziol	M			52	pracovník sociálních služeb	Dolní Lhota	99	1	A
-8106	506711	1	2	901	1	Vladimír	Sobas	M	Mgr. Bc.		55	starosta obce	Dolní Lhota	99	80	A
-8106	506711	1	2	901	2	Věra	Lasáková	F	Mgr.		65	ředitelka ZŠ	Dolní Lhota	99	80	A
-8106	506711	1	2	901	3	Bohumil	Kokeš	M			54	hasič technik	Dolní Lhota	99	80	A
-8106	506711	1	2	901	4	Tomáš	Zdražila	M			48	vedoucí prodejny	Dolní Lhota	99	80	A
-8106	506711	1	2	901	5	Lumír	Míček	M	Ing.		76	technik	Dolní Lhota	99	80	A
-8106	506711	1	2	901	6	Jindřiška	Lasáková	F			70	důchodce	Dolní Lhota	99	80	A
-8106	506711	1	2	901	7	Jaroslav	Prčík	M			62	důlní zámečník	Dolní Lhota	99	80	A
-8106	506711	1	3	53	1	Tomáš	Hrubý	M			46	hasič, technik	Dolní Lhota	99	53	A
-8106	506711	1	3	53	2	Radovan	Dolba	M	Mgr.		51	obchodní manažer	Dolní Lhota	99	53	A
-8106	506711	1	3	53	3	Martina	Hrubá	F			47	OSVČ	Dolní Lhota	99	53	A
-8106	506711	1	3	53	4	Barbora	Sládková	F	Ing.		29	ekonomka	Dolní Lhota	99	53	A
-8106	506711	1	3	53	5	Tomáš	Válek	M	Ing.		46	technik	Dolní Lhota	99	53	A
-8106	506711	1	3	53	6	František	Höfer	M			80	důchodce	Dolní Lhota	53	53	A
-8106	506711	1	3	53	7	Pavel	Válek	M			78	důchodce	Dolní Lhota	53	53	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8106	506711	1	1	1	1	Aleš	Miko	JUDr.		34	technický ředitel a předseda Atletického klubu	Dolní Lhota	99	1	A	M
+8106	506711	1	2	901	1	Vladimír	Sobas	Mgr. Bc.		55	starosta obce	Dolní Lhota	99	80	A	M
+8106	506711	1	3	53	1	Tomáš	Hrubý			46	hasič, technik	Dolní Lhota	99	53	A	M
+8106	506711	1	1	1	2	Marek	Tejzr	Mgr.		41	provozně-technický manažer	Dolní Lhota	99	1	A	M
+8106	506711	1	2	901	2	Věra	Lasáková	Mgr.		65	ředitelka ZŠ	Dolní Lhota	99	80	A	F
+8106	506711	1	3	53	2	Radovan	Dolba	Mgr.		51	obchodní manažer	Dolní Lhota	99	53	A	M
+8106	506711	1	1	1	3	Jaroslav	Volf	MUDr.	Ph.D.	64	lékař	Dolní Lhota	99	1	A	M
+8106	506711	1	2	901	3	Bohumil	Kokeš			54	hasič technik	Dolní Lhota	99	80	A	M
+8106	506711	1	3	53	3	Martina	Hrubá			47	OSVČ	Dolní Lhota	99	53	A	F
+8106	506711	1	1	1	4	Simona	Havrlantová	Mgr.		39	učitelka ZŠ	Dolní Lhota	99	1	A	F
+8106	506711	1	2	901	4	Tomáš	Zdražila			48	vedoucí prodejny	Dolní Lhota	99	80	A	M
+8106	506711	1	3	53	4	Barbora	Sládková	Ing.		29	ekonomka	Dolní Lhota	99	53	A	F
+8106	506711	1	1	1	5	Petr	Novobilský	Ing.		34	biomedicínský inženýr	Dolní Lhota	1	1	A	M
+8106	506711	1	2	901	5	Lumír	Míček	Ing.		76	technik	Dolní Lhota	99	80	A	M
+8106	506711	1	3	53	5	Tomáš	Válek	Ing.		46	technik	Dolní Lhota	99	53	A	M
+8106	506711	1	1	1	6	Dagmar	Máchová	Bc.		50	pedagogický pracovník	Dolní Lhota	1	1	A	F
+8106	506711	1	2	901	6	Jindřiška	Lasáková			70	důchodce	Dolní Lhota	99	80	A	F
+8106	506711	1	3	53	6	František	Höfer			80	důchodce	Dolní Lhota	53	53	A	M
+8106	506711	1	1	1	7	Ivan	Niziol			52	pracovník sociálních služeb	Dolní Lhota	99	1	A	M
+8106	506711	1	2	901	7	Jaroslav	Prčík			62	důlní zámečník	Dolní Lhota	99	80	A	M
+8106	506711	1	3	53	7	Pavel	Válek			78	důchodce	Dolní Lhota	53	53	A	M

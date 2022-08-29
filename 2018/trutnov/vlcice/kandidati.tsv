@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579823	1	1	901	1	Milan	Pecen	M			54	starosta obce	Vlčice	99	80	A
-5205	579823	1	1	901	2	Bořivoj	Trávníček	M			54	učitel odborného výcviku	Vlčice	99	80	A
-5205	579823	1	1	901	3	Bedřich	Mach	M			52	OSVČ	Vlčice	99	80	A
-5205	579823	1	1	901	4	Tomáš	Cvrček	M			45	OSVČ	Vlčice	99	80	A
-5205	579823	1	1	901	5	Roman	Reil	M	Mgr.		51	vedoucí Okresního archivu	Vlčice	99	80	A
-5205	579823	1	1	901	6	Pavel	Rejmont	M			40	OSVČ	Vlčice	99	80	A
-5205	579823	1	1	901	7	Karel	Buben	M			41	správce majetku	Vlčice	99	80	A
-5205	579823	1	1	901	8	Václav	Beneš	M	MUDr.		35	lékař	Vlčice	99	80	A
-5205	579823	1	2	902	1	Martin	Petr	M			27	řidič, údržbář	Vlčice	99	80	A
-5205	579823	1	2	902	2	Ladislav	Obst	M			48	řidič, údržbář	Vlčice	99	80	A
-5205	579823	1	2	902	3	Pavel	Turičík	M	Ing.		50	bankovní poradce	Vlčice	99	80	A
-5205	579823	1	2	902	4	Filip	Hans	M			42	OSVČ	Vlčice	99	80	A
-5205	579823	1	2	902	5	Adéla	Petrová	F	Mgr.		27	učitelka ZŠ	Vlčice	99	80	A
-5205	579823	1	2	902	6	Jan	Šafář	M		DiS.	34	koordinátor BOZP	Vlčice	99	80	A
-5205	579823	1	2	902	7	Jaroslav	Klíma	M			52	OSVČ	Vlčice	99	80	A
-5205	579823	1	2	902	8	Jitka	Šafářová	F			56	učitelka MŠ	Vlčice	99	80	A
-5205	579823	1	2	902	9	Roman	Petr	M			29	automechanik	Vlčice	99	80	A
-5205	579823	1	3	47	1	Jan	Horký	M			63	seřizovač	Vlčice	47	47	A
-5205	579823	1	3	47	2	Jiří	Ondráček	M			63	důchodce	Vlčice	47	47	A
-5205	579823	1	3	47	3	Jan	Horký	M			41	dělník	Vlčice	47	47	A
-5205	579823	1	3	47	4	Jaroslav	Hruška	M			36	dělník	Vlčice	99	47	A
-5205	579823	1	3	47	5	Aleš	Hrdlička	M			46	živnostník	Vlčice	47	47	A
-5205	579823	1	3	47	6	Soňa	Dvořáčková	F			46	dělnice	Vlčice	99	47	A
-5205	579823	1	3	47	7	Karel	Petr	M			63	důchodce	Vlčice	47	47	A
-5205	579823	1	3	47	8	Soňa	Ondráčková	F			38	dělnice	Vlčice	99	47	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579823	1	1	901	1	Milan	Pecen			54	starosta obce	Vlčice	99	80	A	M
+5205	579823	1	2	902	1	Martin	Petr			27	řidič, údržbář	Vlčice	99	80	A	M
+5205	579823	1	3	47	1	Jan	Horký			63	seřizovač	Vlčice	47	47	A	M
+5205	579823	1	1	901	2	Bořivoj	Trávníček			54	učitel odborného výcviku	Vlčice	99	80	A	M
+5205	579823	1	2	902	2	Ladislav	Obst			48	řidič, údržbář	Vlčice	99	80	A	M
+5205	579823	1	3	47	2	Jiří	Ondráček			63	důchodce	Vlčice	47	47	A	M
+5205	579823	1	1	901	3	Bedřich	Mach			52	OSVČ	Vlčice	99	80	A	M
+5205	579823	1	2	902	3	Pavel	Turičík	Ing.		50	bankovní poradce	Vlčice	99	80	A	M
+5205	579823	1	3	47	3	Jan	Horký			41	dělník	Vlčice	47	47	A	M
+5205	579823	1	1	901	4	Tomáš	Cvrček			45	OSVČ	Vlčice	99	80	A	M
+5205	579823	1	2	902	4	Filip	Hans			42	OSVČ	Vlčice	99	80	A	M
+5205	579823	1	3	47	4	Jaroslav	Hruška			36	dělník	Vlčice	99	47	A	M
+5205	579823	1	1	901	5	Roman	Reil	Mgr.		51	vedoucí Okresního archivu	Vlčice	99	80	A	M
+5205	579823	1	2	902	5	Adéla	Petrová	Mgr.		27	učitelka ZŠ	Vlčice	99	80	A	F
+5205	579823	1	3	47	5	Aleš	Hrdlička			46	živnostník	Vlčice	47	47	A	M
+5205	579823	1	1	901	6	Pavel	Rejmont			40	OSVČ	Vlčice	99	80	A	M
+5205	579823	1	2	902	6	Jan	Šafář		DiS.	34	koordinátor BOZP	Vlčice	99	80	A	M
+5205	579823	1	3	47	6	Soňa	Dvořáčková			46	dělnice	Vlčice	99	47	A	F
+5205	579823	1	1	901	7	Karel	Buben			41	správce majetku	Vlčice	99	80	A	M
+5205	579823	1	2	902	7	Jaroslav	Klíma			52	OSVČ	Vlčice	99	80	A	M
+5205	579823	1	3	47	7	Karel	Petr			63	důchodce	Vlčice	47	47	A	M
+5205	579823	1	1	901	8	Václav	Beneš	MUDr.		35	lékař	Vlčice	99	80	A	M
+5205	579823	1	2	902	8	Jitka	Šafářová			56	učitelka MŠ	Vlčice	99	80	A	F
+5205	579823	1	3	47	8	Soňa	Ondráčková			38	dělnice	Vlčice	99	47	A	F
+5205	579823	1	2	902	9	Roman	Petr			29	automechanik	Vlčice	99	80	A	M

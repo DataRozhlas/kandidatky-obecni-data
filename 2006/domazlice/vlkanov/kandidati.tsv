@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	566250	1	1	901	1	Martin	Anderle	M			31	tesař	Vlkanov	99	80	0
-3201	566250	1	1	901	2	Josef	Böhm	M			46	traktorista	Vlkanov	99	80	0
-3201	566250	1	1	901	3	Květoň	Eichler	M			58	důchodce	Vlkanov	99	80	0
-3201	566250	1	1	901	4	Ivana	Jacáková	F			31	podnikatelka	Vlkanov	99	80	0
-3201	566250	1	1	901	5	Anežka	Kunešová	F			28	mateřská dovolená	Vlkanov	99	80	0
-3201	566250	1	2	902	1	Josef	Konopík	M			60	podnikatel	Vlkanov	99	80	0
-3201	566250	1	2	902	2	Jan	Doktor	M			50	truhlář	Vlkanov	99	80	0
-3201	566250	1	2	902	3	Josef	Sokol	M			56	důchodce	Vlkanov	99	80	0
-3201	566250	1	2	902	4	Jana	Anderlová	F			20	mateřská dovolená	Vlkanov	99	80	0
-3201	566250	1	2	902	5	Josef	Kugl	M			66	důchodce	Vlkanov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	566250	1	1	901	1	Martin	Anderle			31	tesař	Vlkanov	99	80	0	M
+3201	566250	1	2	902	1	Josef	Konopík			60	podnikatel	Vlkanov	99	80	0	M
+3201	566250	1	1	901	2	Josef	Böhm			46	traktorista	Vlkanov	99	80	0	M
+3201	566250	1	2	902	2	Jan	Doktor			50	truhlář	Vlkanov	99	80	0	M
+3201	566250	1	1	901	3	Květoň	Eichler			58	důchodce	Vlkanov	99	80	0	M
+3201	566250	1	2	902	3	Josef	Sokol			56	důchodce	Vlkanov	99	80	0	M
+3201	566250	1	1	901	4	Ivana	Jacáková			31	podnikatelka	Vlkanov	99	80	0	F
+3201	566250	1	2	902	4	Jana	Anderlová			20	mateřská dovolená	Vlkanov	99	80	0	F
+3201	566250	1	1	901	5	Anežka	Kunešová			28	mateřská dovolená	Vlkanov	99	80	0	F
+3201	566250	1	2	902	5	Josef	Kugl			66	důchodce	Vlkanov	99	80	0	M

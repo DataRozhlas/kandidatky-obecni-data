@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	596582	1	1	166	1	Martin	Minář	M			30	hlavní předák šachetní údržby	Rojetín	99	166	0
-6203	596582	1	1	166	2	Ladislav	Kadlec	M			30	invalidní důchodce	Rojetín	99	166	0
-6203	596582	1	1	166	3	Dušan	Čech	M			31	dělník - operátor NC a CNC	Rojetín	99	166	0
-6203	596582	1	1	166	4	Zdeněk	Kadlec	M			33	živnostník - elektrikář	Rojetín	99	166	0
-6203	596582	1	1	166	5	Martin	Karásek	M			45	dělník - operátor NC a CNC	Rojetín	99	166	0
-6203	596582	1	2	901	1	Pavel	Hubálek	M			36	zaměstnanec krajského úřadu	Rojetín	99	80	0
-6203	596582	1	2	901	2	František	Žák	M			32	specialista zákaznického servisu	Rojetín	99	80	0
-6203	596582	1	2	901	3	Věra	Uličná	F			60	starobní důchodce	Rojetín	99	80	0
-6203	596582	1	2	901	4	Radko	Havlát	M			64	živnostník	Rojetín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	596582	1	1	166	1	Martin	Minář			30	hlavní předák šachetní údržby	Rojetín	99	166	0	M
+6203	596582	1	2	901	1	Pavel	Hubálek			36	zaměstnanec krajského úřadu	Rojetín	99	80	0	M
+6203	596582	1	1	166	2	Ladislav	Kadlec			30	invalidní důchodce	Rojetín	99	166	0	M
+6203	596582	1	2	901	2	František	Žák			32	specialista zákaznického servisu	Rojetín	99	80	0	M
+6203	596582	1	1	166	3	Dušan	Čech			31	dělník - operátor NC a CNC	Rojetín	99	166	0	M
+6203	596582	1	2	901	3	Věra	Uličná			60	starobní důchodce	Rojetín	99	80	0	F
+6203	596582	1	1	166	4	Zdeněk	Kadlec			33	živnostník - elektrikář	Rojetín	99	166	0	M
+6203	596582	1	2	901	4	Radko	Havlát			64	živnostník	Rojetín	99	80	0	M
+6203	596582	1	1	166	5	Martin	Karásek			45	dělník - operátor NC a CNC	Rojetín	99	166	0	M

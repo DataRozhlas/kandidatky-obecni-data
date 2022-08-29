@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4102	555711	1	1	903	1	Pavlína	Hulínská	F	Mgr.		40	učitelka	Týniště	99	80	0
-4102	555711	1	1	903	2	Ivo	Masák	M	Ing.		44	podnikatel	Verušičky	99	80	0
-4102	555711	1	1	903	3	Jindřich	Kumpolt	M			41	řidič	Verušičky	99	80	0
-4102	555711	1	1	903	4	Miroslav	Rubáš	M	Ing.		57	technik	Luka	99	80	0
-4102	555711	1	1	903	5	Miroslav	Roubínek	M			31	vedoucí výpočetního střediska	Verušičky	98	80	0
-4102	555711	1	1	903	6	Jan	Bartoň	M			54	občanský zaměstnanec	Verušičky	99	80	0
-4102	555711	1	1	903	7	Václav	Říha	M			58	důchodce	Vahaneč	99	80	0
-4102	555711	1	1	903	8	Květoslava	Masáková	F			41	vychovatelka	Verušičky	99	80	0
-4102	555711	1	2	902	1	Jan	Vlk	M			57	soukromě hospodařící rolník	Luka	99	80	0
-4102	555711	1	2	902	2	Marie	Slivčáková	F			33	vedoucí prodejny SD	Verušičky	99	80	0
-4102	555711	1	2	902	3	Rostislav	Černý	M			54	OSVČ - mlynář	Týniště	99	80	0
-4102	555711	1	2	902	4	Alžběta	Šejbová	F			46	uklizečka	Verušičky	99	80	0
-4102	555711	1	2	902	5	Ludvík	Karlík	M			35	učitel odborného výcviku	Verušičky	99	80	0
-4102	555711	1	2	902	6	Josef	Schieferdecker	M			51	kuchař	Verušičky	99	80	0
-4102	555711	1	2	902	7	Jan	Šimkanin	M			39	topič - údržbář	Luka	99	80	0
-4102	555711	1	2	902	8	Dana	Patočková	F			42	dělnice	Luka	99	80	1
-4102	555711	1	2	902	9	Alžběta	Dindová	F			61	důchodkyně	Verušičky	99	80	0
-4102	555711	1	3	901	1	Petr	Kvasnička	M			30	obchodní zástupce	Verušičky	99	80	0
-4102	555711	1	3	901	2	Václav	Hirš	M			36	zedník	Verušičky	99	80	0
-4102	555711	1	3	901	3	Jiří	Mára	M			38	elektromechanik	Verušičky	99	80	0
-4102	555711	1	3	901	4	František	Petříček	M			58	zootechnik	Verušičky	99	80	0
-4102	555711	1	3	901	5	Marcela	Tvrdková	F			29	tiskařka porcelánu	Verušičky	99	80	0
-4102	555711	1	3	901	6	Josef	Rom	M			54	řidič	Týniště	99	80	0
-4102	555711	1	3	901	7	Pavel	Junás	M			52	automechanik	Luka	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4102	555711	1	1	903	1	Pavlína	Hulínská	Mgr.		40	učitelka	Týniště	99	80	0	F
+4102	555711	1	2	902	1	Jan	Vlk			57	soukromě hospodařící rolník	Luka	99	80	0	M
+4102	555711	1	3	901	1	Petr	Kvasnička			30	obchodní zástupce	Verušičky	99	80	0	M
+4102	555711	1	1	903	2	Ivo	Masák	Ing.		44	podnikatel	Verušičky	99	80	0	M
+4102	555711	1	2	902	2	Marie	Slivčáková			33	vedoucí prodejny SD	Verušičky	99	80	0	F
+4102	555711	1	3	901	2	Václav	Hirš			36	zedník	Verušičky	99	80	0	M
+4102	555711	1	1	903	3	Jindřich	Kumpolt			41	řidič	Verušičky	99	80	0	M
+4102	555711	1	2	902	3	Rostislav	Černý			54	OSVČ - mlynář	Týniště	99	80	0	M
+4102	555711	1	3	901	3	Jiří	Mára			38	elektromechanik	Verušičky	99	80	0	M
+4102	555711	1	1	903	4	Miroslav	Rubáš	Ing.		57	technik	Luka	99	80	0	M
+4102	555711	1	2	902	4	Alžběta	Šejbová			46	uklizečka	Verušičky	99	80	0	F
+4102	555711	1	3	901	4	František	Petříček			58	zootechnik	Verušičky	99	80	0	M
+4102	555711	1	1	903	5	Miroslav	Roubínek			31	vedoucí výpočetního střediska	Verušičky	98	80	0	M
+4102	555711	1	2	902	5	Ludvík	Karlík			35	učitel odborného výcviku	Verušičky	99	80	0	M
+4102	555711	1	3	901	5	Marcela	Tvrdková			29	tiskařka porcelánu	Verušičky	99	80	0	F
+4102	555711	1	1	903	6	Jan	Bartoň			54	občanský zaměstnanec	Verušičky	99	80	0	M
+4102	555711	1	2	902	6	Josef	Schieferdecker			51	kuchař	Verušičky	99	80	0	M
+4102	555711	1	3	901	6	Josef	Rom			54	řidič	Týniště	99	80	0	M
+4102	555711	1	1	903	7	Václav	Říha			58	důchodce	Vahaneč	99	80	0	M
+4102	555711	1	2	902	7	Jan	Šimkanin			39	topič - údržbář	Luka	99	80	0	M
+4102	555711	1	3	901	7	Pavel	Junás			52	automechanik	Luka	99	80	0	M
+4102	555711	1	1	903	8	Květoslava	Masáková			41	vychovatelka	Verušičky	99	80	0	F
+4102	555711	1	2	902	8	Dana	Patočková			42	dělnice	Luka	99	80	1	F
+4102	555711	1	2	902	9	Alžběta	Dindová			61	důchodkyně	Verušičky	99	80	0	F

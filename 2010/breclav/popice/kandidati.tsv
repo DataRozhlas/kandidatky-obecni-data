@@ -1,40 +1,40 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6204	584819	1	1	902	1	Marek	Sekanina	M			37	obchodní zástupce	Popice	99	80	0
-6204	584819	1	1	902	2	Blanka	Šťastná	F	Mgr.		44	učitelka	Popice	99	80	0
-6204	584819	1	1	902	3	Jiří	Vachala	M			42	elektromontér	Popice	99	80	0
-6204	584819	1	1	902	4	Miroslav	Singer	M			43	strojník	Popice	99	80	0
-6204	584819	1	1	902	5	Stanislav	Málek	M	Ing.		33	vinař	Popice	99	80	0
-6204	584819	1	1	902	6	Renata	Podešťová	F	Ing.		37	manažerka provozu	Popice	99	80	0
-6204	584819	1	1	902	7	Jiří	Geier	M	Mgr.		36	speciální pedagog	Popice	99	80	0
-6204	584819	1	1	902	8	Jan	Šamalík	M	Ing.		37	poradce v zemědělství	Popice	99	80	0
-6204	584819	1	1	902	9	Zdeňka	Gabrhelová	F			38	referent státní správy a samo.	Popice	99	80	0
-6204	584819	1	1	902	10	Miroslav	Sopoušek	M			47	elektromechanik	Popice	99	80	0
-6204	584819	1	1	902	11	Miroslav	Svoboda	M			26	skladník	Popice	99	80	0
-6204	584819	1	2	1	1	Josef	Urbánek	M			60	starosta	Popice	1	1	0
-6204	584819	1	2	1	2	Josef	Střelec	M			36	prodejce infor.technologií	Popice	99	1	0
-6204	584819	1	2	1	3	Petr	Melkus	M			35	živnostník	Popice	1	1	0
-6204	584819	1	2	1	4	Josef	Mikulica	M			27	soukromý zemědělec	Popice	99	1	0
-6204	584819	1	2	1	5	Vladimír	Sedláček	M	Ing.		43	architekt informačních systémů	Popice	99	1	0
-6204	584819	1	2	1	6	Jan	Urbánek	M			34	technik info.technologií	Popice	99	1	0
-6204	584819	1	2	1	7	Petr	Forman	M			43	zemědělec vinař	Popice	99	1	0
-6204	584819	1	2	1	8	Brigita	Křivková	F	Mgr.		32	učitelka	Popice	99	1	0
-6204	584819	1	2	1	9	Blažej	Mahovský	M			61	traktorista	Popice	1	1	0
-6204	584819	1	2	1	10	František	Fiala	M			48	údržbář	Popice	99	1	0
-6204	584819	1	2	1	11	Jaromír	Žídek	M			26	soukromý zemědělec	Popice	99	1	0
-6204	584819	1	3	901	1	Bernard	Rampáček	M	Ing.		48	jednatel společnosti	Popice	99	80	0
-6204	584819	1	3	901	2	Miroslav	Zabloudil	M			52	soukromý zemědělec	Popice	99	80	0
-6204	584819	1	3	901	3	Andrea	Straková	F			35	poštmistr	Popice	99	80	0
-6204	584819	1	3	901	4	Ludmila	Friedlová	F			51	dělnice	Popice	99	80	0
-6204	584819	1	3	901	5	Věra	Škarpová	F			39	mateřská dovolená	Popice	99	80	0
-6204	584819	1	3	901	6	Alexandr	Rampáček	M			39	předák	Popice	99	80	0
-6204	584819	1	3	901	7	Pavel	Štřelec	M			33	vedoucí skladu	Popice	99	80	0
-6204	584819	1	3	901	8	Radim	Novotný	M			38	podnikatel	Popice	99	80	0
-6204	584819	1	3	901	9	Ladislava	Kubová	F			55	dělnice	Popice	99	80	0
-6204	584819	1	3	901	10	Vlastimil	Zabloudil	M			49	stavbyvedoucí	Popice	99	80	0
-6204	584819	1	3	901	11	Marie	Málková	F			53	učitelka	Popice	99	80	0
-6204	584819	1	4	47	1	Jan	Straka	M			63	důchodce	Popice	99	47	0
-6204	584819	1	4	47	2	Vladimír	Hradil	M			61	pedagog	Popice	99	47	0
-6204	584819	1	4	47	3	František	Damborský	M			68	důchodce	Popice	47	47	0
-6204	584819	1	4	47	4	Ladislav	Zelinka	M			76	důchodce	Popice	47	47	0
-6204	584819	1	4	47	5	Helena	Damborská	F			60	důchodce	Popice	47	47	0
-6204	584819	1	4	47	6	Jan	Singer	M			67	důchodce	Popice	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6204	584819	1	1	902	1	Marek	Sekanina			37	obchodní zástupce	Popice	99	80	0	M
+6204	584819	1	2	1	1	Josef	Urbánek			60	starosta	Popice	1	1	0	M
+6204	584819	1	3	901	1	Bernard	Rampáček	Ing.		48	jednatel společnosti	Popice	99	80	0	M
+6204	584819	1	4	47	1	Jan	Straka			63	důchodce	Popice	99	47	0	M
+6204	584819	1	1	902	2	Blanka	Šťastná	Mgr.		44	učitelka	Popice	99	80	0	F
+6204	584819	1	2	1	2	Josef	Střelec			36	prodejce infor.technologií	Popice	99	1	0	M
+6204	584819	1	3	901	2	Miroslav	Zabloudil			52	soukromý zemědělec	Popice	99	80	0	M
+6204	584819	1	4	47	2	Vladimír	Hradil			61	pedagog	Popice	99	47	0	M
+6204	584819	1	1	902	3	Jiří	Vachala			42	elektromontér	Popice	99	80	0	M
+6204	584819	1	2	1	3	Petr	Melkus			35	živnostník	Popice	1	1	0	M
+6204	584819	1	3	901	3	Andrea	Straková			35	poštmistr	Popice	99	80	0	F
+6204	584819	1	4	47	3	František	Damborský			68	důchodce	Popice	47	47	0	M
+6204	584819	1	1	902	4	Miroslav	Singer			43	strojník	Popice	99	80	0	M
+6204	584819	1	2	1	4	Josef	Mikulica			27	soukromý zemědělec	Popice	99	1	0	M
+6204	584819	1	3	901	4	Ludmila	Friedlová			51	dělnice	Popice	99	80	0	F
+6204	584819	1	4	47	4	Ladislav	Zelinka			76	důchodce	Popice	47	47	0	M
+6204	584819	1	1	902	5	Stanislav	Málek	Ing.		33	vinař	Popice	99	80	0	M
+6204	584819	1	2	1	5	Vladimír	Sedláček	Ing.		43	architekt informačních systémů	Popice	99	1	0	M
+6204	584819	1	3	901	5	Věra	Škarpová			39	mateřská dovolená	Popice	99	80	0	F
+6204	584819	1	4	47	5	Helena	Damborská			60	důchodce	Popice	47	47	0	F
+6204	584819	1	1	902	6	Renata	Podešťová	Ing.		37	manažerka provozu	Popice	99	80	0	F
+6204	584819	1	2	1	6	Jan	Urbánek			34	technik info.technologií	Popice	99	1	0	M
+6204	584819	1	3	901	6	Alexandr	Rampáček			39	předák	Popice	99	80	0	M
+6204	584819	1	4	47	6	Jan	Singer			67	důchodce	Popice	47	47	0	M
+6204	584819	1	1	902	7	Jiří	Geier	Mgr.		36	speciální pedagog	Popice	99	80	0	M
+6204	584819	1	2	1	7	Petr	Forman			43	zemědělec vinař	Popice	99	1	0	M
+6204	584819	1	3	901	7	Pavel	Štřelec			33	vedoucí skladu	Popice	99	80	0	M
+6204	584819	1	1	902	8	Jan	Šamalík	Ing.		37	poradce v zemědělství	Popice	99	80	0	M
+6204	584819	1	2	1	8	Brigita	Křivková	Mgr.		32	učitelka	Popice	99	1	0	F
+6204	584819	1	3	901	8	Radim	Novotný			38	podnikatel	Popice	99	80	0	M
+6204	584819	1	1	902	9	Zdeňka	Gabrhelová			38	referent státní správy a samo.	Popice	99	80	0	F
+6204	584819	1	2	1	9	Blažej	Mahovský			61	traktorista	Popice	1	1	0	M
+6204	584819	1	3	901	9	Ladislava	Kubová			55	dělnice	Popice	99	80	0	F
+6204	584819	1	1	902	10	Miroslav	Sopoušek			47	elektromechanik	Popice	99	80	0	M
+6204	584819	1	2	1	10	František	Fiala			48	údržbář	Popice	99	1	0	M
+6204	584819	1	3	901	10	Vlastimil	Zabloudil			49	stavbyvedoucí	Popice	99	80	0	M
+6204	584819	1	1	902	11	Miroslav	Svoboda			26	skladník	Popice	99	80	0	M
+6204	584819	1	2	1	11	Jaromír	Žídek			26	soukromý zemědělec	Popice	99	1	0	M
+6204	584819	1	3	901	11	Marie	Málková			53	učitelka	Popice	99	80	0	F

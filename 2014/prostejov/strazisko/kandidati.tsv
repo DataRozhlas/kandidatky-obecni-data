@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	590070	1	1	1	1	Petra	Popelková	F			44	technik	Stražisko	99	1	0
-7103	590070	1	1	1	2	Jarmila	Stojanová	F			54	úřednice	Růžov	99	1	0
-7103	590070	1	1	1	3	Dana	Šimková	F			44	úřednice	Stražisko	99	1	0
-7103	590070	1	1	1	4	Renata	Navrátilová	F			39	asistent	Stražisko	99	1	0
-7103	590070	1	1	1	5	Eliška	Pajchlová	F			67	důchodce	Maleny	99	1	0
-7103	590070	1	1	1	6	Zdislava	Arnoštová	F			51	zdravotní sestra	Maleny	1	1	0
-7103	590070	1	1	1	7	Ludmila	Greplová	F			66	důchodce	Růžov	1	1	0
-7103	590070	1	2	902	1	Jaroslav	Kröner	M			55	starosta	Růžov	99	80	0
-7103	590070	1	2	902	2	Jaroslava	Florianová	F			51	v domácnosti	Maleny	99	80	0
-7103	590070	1	2	902	3	Ladislav	Pejř	M	Ing.		61	elektroinženýr	Růžov	99	80	0
-7103	590070	1	2	902	4	Eliška	Čížková	F			50	v domácnosti	Maleny	99	80	0
-7103	590070	1	2	902	5	Petr	Komárek	M			28	policista	Růžov	99	80	0
-7103	590070	1	2	902	6	Ondřej	Pospíšil	M			22	operátor CNC strojů	Stražisko	99	80	0
-7103	590070	1	2	902	7	Josef	Krejčí	M			36	operátor CNC strojů	Růžov	99	80	0
-7103	590070	1	2	902	8	Lenka	Busolínová	F			34	mateřská dovolená	Maleny	99	80	0
-7103	590070	1	2	902	9	Pavel	Popelka	M			24	hasič	Růžov	99	80	0
-7103	590070	1	3	901	1	Pavel	Černý	M			40	zámečník	Maleny	99	80	0
-7103	590070	1	3	901	2	Petr	Doseděl	M			34	hasič - operační technik	Stražisko	99	80	0
-7103	590070	1	3	901	3	Kateřina	Singrová	F			38	právní asistentka	Růžov	99	80	0
-7103	590070	1	3	901	4	Jaroslav	Dvořák	M	Ing.		59	podnikatel	Maleny	99	80	0
-7103	590070	1	3	901	5	Radomír	Krč	M			43	hasič	Růžov	99	80	0
-7103	590070	1	3	901	6	Jan	Lukáš	M			40	podnikatel	Stražisko	99	80	0
-7103	590070	1	3	901	7	Pavel	Kolík	M			65	důchodce	Maleny	99	80	0
-7103	590070	1	3	901	8	Jitka	Kvapilová	F			35	administrativní pracovnice	Stražisko	99	80	0
-7103	590070	1	3	901	9	Marek	Srostlík	M	Ing.		39	manažer	Růžov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	590070	1	1	1	1	Petra	Popelková			44	technik	Stražisko	99	1	0	F
+7103	590070	1	2	902	1	Jaroslav	Kröner			55	starosta	Růžov	99	80	0	M
+7103	590070	1	3	901	1	Pavel	Černý			40	zámečník	Maleny	99	80	0	M
+7103	590070	1	1	1	2	Jarmila	Stojanová			54	úřednice	Růžov	99	1	0	F
+7103	590070	1	2	902	2	Jaroslava	Florianová			51	v domácnosti	Maleny	99	80	0	F
+7103	590070	1	3	901	2	Petr	Doseděl			34	hasič - operační technik	Stražisko	99	80	0	M
+7103	590070	1	1	1	3	Dana	Šimková			44	úřednice	Stražisko	99	1	0	F
+7103	590070	1	2	902	3	Ladislav	Pejř	Ing.		61	elektroinženýr	Růžov	99	80	0	M
+7103	590070	1	3	901	3	Kateřina	Singrová			38	právní asistentka	Růžov	99	80	0	F
+7103	590070	1	1	1	4	Renata	Navrátilová			39	asistent	Stražisko	99	1	0	F
+7103	590070	1	2	902	4	Eliška	Čížková			50	v domácnosti	Maleny	99	80	0	F
+7103	590070	1	3	901	4	Jaroslav	Dvořák	Ing.		59	podnikatel	Maleny	99	80	0	M
+7103	590070	1	1	1	5	Eliška	Pajchlová			67	důchodce	Maleny	99	1	0	F
+7103	590070	1	2	902	5	Petr	Komárek			28	policista	Růžov	99	80	0	M
+7103	590070	1	3	901	5	Radomír	Krč			43	hasič	Růžov	99	80	0	M
+7103	590070	1	1	1	6	Zdislava	Arnoštová			51	zdravotní sestra	Maleny	1	1	0	F
+7103	590070	1	2	902	6	Ondřej	Pospíšil			22	operátor CNC strojů	Stražisko	99	80	0	M
+7103	590070	1	3	901	6	Jan	Lukáš			40	podnikatel	Stražisko	99	80	0	M
+7103	590070	1	1	1	7	Ludmila	Greplová			66	důchodce	Růžov	1	1	0	F
+7103	590070	1	2	902	7	Josef	Krejčí			36	operátor CNC strojů	Růžov	99	80	0	M
+7103	590070	1	3	901	7	Pavel	Kolík			65	důchodce	Maleny	99	80	0	M
+7103	590070	1	2	902	8	Lenka	Busolínová			34	mateřská dovolená	Maleny	99	80	0	F
+7103	590070	1	3	901	8	Jitka	Kvapilová			35	administrativní pracovnice	Stražisko	99	80	0	F
+7103	590070	1	2	902	9	Pavel	Popelka			24	hasič	Růžov	99	80	0	M
+7103	590070	1	3	901	9	Marek	Srostlík	Ing.		39	manažer	Růžov	99	80	0	M

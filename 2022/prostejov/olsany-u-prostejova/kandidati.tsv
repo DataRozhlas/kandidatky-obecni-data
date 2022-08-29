@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589829	1	1	902	1	Petr	Hansl	M			31	elektrotechnik	Olšany u Prostějova	99	80	A
-7103	589829	1	1	902	2	Tomáš	Posker	M	Bc.		31	státní zaměstnanec	Olšany u Prostějova	99	80	A
-7103	589829	1	1	902	3	Jan	Baláš	M	Mgr.	MBA	42	obchodní ředitel	Olšany u Prostějova	99	80	A
-7103	589829	1	1	902	4	Monika	Hanslová Pechová	F	Mgr.	MBA	31	pedagog ZŠ, VOŠ	Olšany u Prostějova	99	80	A
-7103	589829	1	1	902	5	Radek	Přikryl	M			43	elektrikář	Olšany u Prostějova	99	80	A
-7103	589829	1	1	902	6	Petra	Šinová	F	MVDr.		38	veterinární lékařka	Olšany u Prostějova	99	80	A
-7103	589829	1	1	902	7	Petr	Marčan	M			45	OSVČ	Olšany u Prostějova	99	80	A
-7103	589829	1	1	902	8	Antonín	Pospíšil	M			45	mechanik zabezpečovacích zařízení	Olšany u Prostějova	99	80	A
-7103	589829	1	1	902	9	Jaroslav	Dokoupil	M			44	řidič z povolání	Olšany u Prostějova	99	80	A
-7103	589829	1	1	902	10	Libuše	Zifčáková	F			48	zdravotní sestra	Hablov	99	80	A
-7103	589829	1	1	902	11	Josef	Holinka	M			48	skladník	Olšany u Prostějova	99	80	A
-7103	589829	1	1	902	12	Silvie	Zedníčková	F			48	obchodní zástupce	Olšany u Prostějova	99	80	A
-7103	589829	1	1	902	13	Jiří	Pospíšil	M	Bc.		22	student	Olšany u Prostějova	99	80	A
-7103	589829	1	1	902	14	Lucie	Ellnerová	F			40	OSVČ - optička	Hablov	99	80	A
-7103	589829	1	1	902	15	Petr	Navrátil	M	Bc.		43	voják z povolání	Olšany u Prostějova	99	80	A
-7103	589829	1	2	901	1	Milan	Elfmark	M	RNDr.		63	vědecký pracovník	Olšany u Prostějova	99	80	A
-7103	589829	1	2	901	2	René	Všetička	M	Ing.		46	obchodní zástupce	Olšany u Prostějova	99	80	A
-7103	589829	1	2	901	3	Martin	Kikal	M			37	zaměstnanec obce	Hablov	99	80	A
-7103	589829	1	2	901	4	Jiří	Hrbata	M	PharmDr.		62	podnikatel	Olšany u Prostějova	99	80	A
-7103	589829	1	2	901	5	Jan	Spurný	M	Ing.		42	OSVČ	Olšany u Prostějova	99	80	A
-7103	589829	1	2	901	6	Petr	Koláček	M			56	učitel	Olšany u Prostějova	99	80	A
-7103	589829	1	2	901	7	Silvie	Götzová	F			28	učitelka	Hablov	99	80	A
-7103	589829	1	2	901	8	Břetislav	Tureček	M	PhDr.		58	OSVČ	Hablov	99	80	A
-7103	589829	1	2	901	9	Luděk	Novotný	M			46	OSVČ	Olšany u Prostějova	99	80	A
-7103	589829	1	2	901	10	Oldřich	Pelíšek	M			50	zaměstnanec	Olšany u Prostějova	99	80	A
-7103	589829	1	2	901	11	Branislav	Lariš	M	Mgr.		42	učitel	Olšany u Prostějova	99	80	A
-7103	589829	1	2	901	12	Martin	Křivánek	M			39	OSVČ	Olšany u Prostějova	99	80	A
-7103	589829	1	2	901	13	Kateřina	Konečná	F	Mgr.		35	rodičovská dovolená	Olšany u Prostějova	99	80	A
-7103	589829	1	2	901	14	Jarmila	Šimková	F			74	důchodkyně	Olšany u Prostějova	99	80	A
-7103	589829	1	2	901	15	Michaela	Pugnerová	F	Mgr.		56	vysokoškolský pedagog	Olšany u Prostějova	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589829	1	1	902	1	Petr	Hansl			31	elektrotechnik	Olšany u Prostějova	99	80	A	M
+7103	589829	1	2	901	1	Milan	Elfmark	RNDr.		63	vědecký pracovník	Olšany u Prostějova	99	80	A	M
+7103	589829	1	1	902	2	Tomáš	Posker	Bc.		31	státní zaměstnanec	Olšany u Prostějova	99	80	A	M
+7103	589829	1	2	901	2	René	Všetička	Ing.		46	obchodní zástupce	Olšany u Prostějova	99	80	A	M
+7103	589829	1	1	902	3	Jan	Baláš	Mgr.	MBA	42	obchodní ředitel	Olšany u Prostějova	99	80	A	M
+7103	589829	1	2	901	3	Martin	Kikal			37	zaměstnanec obce	Hablov	99	80	A	M
+7103	589829	1	1	902	4	Monika	Hanslová Pechová	Mgr.	MBA	31	pedagog ZŠ, VOŠ	Olšany u Prostějova	99	80	A	F
+7103	589829	1	2	901	4	Jiří	Hrbata	PharmDr.		62	podnikatel	Olšany u Prostějova	99	80	A	M
+7103	589829	1	1	902	5	Radek	Přikryl			43	elektrikář	Olšany u Prostějova	99	80	A	M
+7103	589829	1	2	901	5	Jan	Spurný	Ing.		42	OSVČ	Olšany u Prostějova	99	80	A	M
+7103	589829	1	1	902	6	Petra	Šinová	MVDr.		38	veterinární lékařka	Olšany u Prostějova	99	80	A	F
+7103	589829	1	2	901	6	Petr	Koláček			56	učitel	Olšany u Prostějova	99	80	A	M
+7103	589829	1	1	902	7	Petr	Marčan			45	OSVČ	Olšany u Prostějova	99	80	A	M
+7103	589829	1	2	901	7	Silvie	Götzová			28	učitelka	Hablov	99	80	A	F
+7103	589829	1	1	902	8	Antonín	Pospíšil			45	mechanik zabezpečovacích zařízení	Olšany u Prostějova	99	80	A	M
+7103	589829	1	2	901	8	Břetislav	Tureček	PhDr.		58	OSVČ	Hablov	99	80	A	M
+7103	589829	1	1	902	9	Jaroslav	Dokoupil			44	řidič z povolání	Olšany u Prostějova	99	80	A	M
+7103	589829	1	2	901	9	Luděk	Novotný			46	OSVČ	Olšany u Prostějova	99	80	A	M
+7103	589829	1	1	902	10	Libuše	Zifčáková			48	zdravotní sestra	Hablov	99	80	A	F
+7103	589829	1	2	901	10	Oldřich	Pelíšek			50	zaměstnanec	Olšany u Prostějova	99	80	A	M
+7103	589829	1	1	902	11	Josef	Holinka			48	skladník	Olšany u Prostějova	99	80	A	M
+7103	589829	1	2	901	11	Branislav	Lariš	Mgr.		42	učitel	Olšany u Prostějova	99	80	A	M
+7103	589829	1	1	902	12	Silvie	Zedníčková			48	obchodní zástupce	Olšany u Prostějova	99	80	A	F
+7103	589829	1	2	901	12	Martin	Křivánek			39	OSVČ	Olšany u Prostějova	99	80	A	M
+7103	589829	1	1	902	13	Jiří	Pospíšil	Bc.		22	student	Olšany u Prostějova	99	80	A	M
+7103	589829	1	2	901	13	Kateřina	Konečná	Mgr.		35	rodičovská dovolená	Olšany u Prostějova	99	80	A	F
+7103	589829	1	1	902	14	Lucie	Ellnerová			40	OSVČ - optička	Hablov	99	80	A	F
+7103	589829	1	2	901	14	Jarmila	Šimková			74	důchodkyně	Olšany u Prostějova	99	80	A	F
+7103	589829	1	1	902	15	Petr	Navrátil	Bc.		43	voják z povolání	Olšany u Prostějova	99	80	A	M
+7103	589829	1	2	901	15	Michaela	Pugnerová	Mgr.		56	vysokoškolský pedagog	Olšany u Prostějova	99	80	A	F

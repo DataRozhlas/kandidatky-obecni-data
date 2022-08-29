@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	569062	1	1	7	1	Jiří	Havel	M			57	dopravce	Lučice	99	7	0
-6101	569062	1	1	7	2	Jaroslav	Jelen	M			49	ČD	Lučice	99	7	0
-6101	569062	1	1	7	3	Miloslav	Zimmermann	M			52	administrativní pracovník	Lučice	99	7	0
-6101	569062	1	1	7	4	Vlastimil	Pavlík	M	Ing.		56	předseda ZD	Lučice	99	7	0
-6101	569062	1	1	7	5	Josef	Dolejší	M	Ing.		35	podnikatel	Lučice	99	7	0
-6101	569062	1	1	7	6	Tomáš	Malík	M			22	student	Lučice	99	7	0
-6101	569062	1	1	7	7	Hana	Kovačková	F			52	administrativní pracovnice	Lučice	99	7	0
-6101	569062	1	1	7	8	Martin	Dejl	M			39	podnikatel	Lučice	99	7	0
-6101	569062	1	1	7	9	Jiří	Hermann	M			35	ČD	Lučice	99	7	0
-6101	569062	1	2	53	1	Jaroslav	Doležal	M			37	podnikatel	Lučice	99	53	0
-6101	569062	1	2	53	2	Vlastislav	Rejnek	M			55	podnikatel	Lučice	99	53	0
-6101	569062	1	2	53	3	Petr	Šotola	M			31	elektromontér	Lučice	99	53	0
-6101	569062	1	2	53	4	Lubomír	Jelínek	M			54	podnikatel	Lučice	99	53	0
-6101	569062	1	2	53	5	Jan	Prchal	M			49	inv. důchodce	Lučice	99	53	0
-6101	569062	1	2	53	6	Luboš	Nový	M			44	dělník	Lučice	99	53	0
-6101	569062	1	2	53	7	Josef	Musil	M			35	podnikatel	Lučice	99	53	0
-6101	569062	1	2	53	8	Kateřina	Kroufková	F			26	prodavačka	Lučice	99	53	0
-6101	569062	1	2	53	9	Bohumil	Kruntorád	M			67	důchodce	Lučice	53	53	0
-6101	569062	1	3	1	1	Vladislav	Svoboda	M			47	podnikatel	Lučice	99	1	0
-6101	569062	1	3	1	2	Marie	Šotolová	F	Ing.		47	účetní	Lučice	99	1	0
-6101	569062	1	3	1	3	Josef	Šimánek	M			24	skladník	Lučice	99	1	0
-6101	569062	1	3	1	4	František	Krepčík	M			39	sklář	Lučice	99	1	0
-6101	569062	1	3	1	5	Kateřina	Rejnková	F			22	vedoucí prodejny	Lučice	99	1	0
-6101	569062	1	3	1	6	Petra	Vrzáková	F	Bc.		31	mateřská dovolená	Lučice	99	1	0
-6101	569062	1	3	1	7	Jitka	Klepetková	F	Mgr.		29	mateřská dovolená	Lučice	99	1	0
-6101	569062	1	3	1	8	Petr	Janů	M			26	servisní technik	Lučice	99	1	0
-6101	569062	1	3	1	9	Petr	Šimánek	M			27	strojař	Lučice	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	569062	1	1	7	1	Jiří	Havel			57	dopravce	Lučice	99	7	0	M
+6101	569062	1	2	53	1	Jaroslav	Doležal			37	podnikatel	Lučice	99	53	0	M
+6101	569062	1	3	1	1	Vladislav	Svoboda			47	podnikatel	Lučice	99	1	0	M
+6101	569062	1	1	7	2	Jaroslav	Jelen			49	ČD	Lučice	99	7	0	M
+6101	569062	1	2	53	2	Vlastislav	Rejnek			55	podnikatel	Lučice	99	53	0	M
+6101	569062	1	3	1	2	Marie	Šotolová	Ing.		47	účetní	Lučice	99	1	0	F
+6101	569062	1	1	7	3	Miloslav	Zimmermann			52	administrativní pracovník	Lučice	99	7	0	M
+6101	569062	1	2	53	3	Petr	Šotola			31	elektromontér	Lučice	99	53	0	M
+6101	569062	1	3	1	3	Josef	Šimánek			24	skladník	Lučice	99	1	0	M
+6101	569062	1	1	7	4	Vlastimil	Pavlík	Ing.		56	předseda ZD	Lučice	99	7	0	M
+6101	569062	1	2	53	4	Lubomír	Jelínek			54	podnikatel	Lučice	99	53	0	M
+6101	569062	1	3	1	4	František	Krepčík			39	sklář	Lučice	99	1	0	M
+6101	569062	1	1	7	5	Josef	Dolejší	Ing.		35	podnikatel	Lučice	99	7	0	M
+6101	569062	1	2	53	5	Jan	Prchal			49	inv. důchodce	Lučice	99	53	0	M
+6101	569062	1	3	1	5	Kateřina	Rejnková			22	vedoucí prodejny	Lučice	99	1	0	F
+6101	569062	1	1	7	6	Tomáš	Malík			22	student	Lučice	99	7	0	M
+6101	569062	1	2	53	6	Luboš	Nový			44	dělník	Lučice	99	53	0	M
+6101	569062	1	3	1	6	Petra	Vrzáková	Bc.		31	mateřská dovolená	Lučice	99	1	0	F
+6101	569062	1	1	7	7	Hana	Kovačková			52	administrativní pracovnice	Lučice	99	7	0	F
+6101	569062	1	2	53	7	Josef	Musil			35	podnikatel	Lučice	99	53	0	M
+6101	569062	1	3	1	7	Jitka	Klepetková	Mgr.		29	mateřská dovolená	Lučice	99	1	0	F
+6101	569062	1	1	7	8	Martin	Dejl			39	podnikatel	Lučice	99	7	0	M
+6101	569062	1	2	53	8	Kateřina	Kroufková			26	prodavačka	Lučice	99	53	0	F
+6101	569062	1	3	1	8	Petr	Janů			26	servisní technik	Lučice	99	1	0	M
+6101	569062	1	1	7	9	Jiří	Hermann			35	ČD	Lučice	99	7	0	M
+6101	569062	1	2	53	9	Bohumil	Kruntorád			67	důchodce	Lučice	53	53	0	M
+6101	569062	1	3	1	9	Petr	Šimánek			27	strojař	Lučice	99	1	0	M

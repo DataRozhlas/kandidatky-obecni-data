@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2107	536130	1	1	902	1	Milan	Vašek	M	Ing.		41	podnikatel	Kostelní Hlavno	99	80	0
-2107	536130	1	1	902	2	Jindřich	Jiráň	M			41	podnikatel	Kostelní Hlavno	99	80	0
-2107	536130	1	1	902	3	Miloslav	Mráček	M			37	podnikatel	Kostelní Hlavno	99	80	0
-2107	536130	1	1	902	4	Milan	Pavlíček	M			32	rámař	Kostelní Hlavno	99	80	0
-2107	536130	1	1	902	5	Ludmila	Knitlová	F		DiS.	25	administrativní pracovnice	Kostelní Hlavno	99	80	0
-2107	536130	1	1	902	6	Lenka	Kůstová	F			25	administrativní pracovnice	Kostelní Hlavno	99	80	0
-2107	536130	1	1	902	7	Miloslav	Brůžek	M			38	státní zaměstnanec MO	Kostelní Hlavno	99	80	0
-2107	536130	1	1	902	8	František	Vrabec	M			30	podnikatel	Kostelní Hlavno	99	80	0
-2107	536130	1	2	901	1	Josef	Rigl	M	PaedDr.		55	bývalý voják z povolání	Kostelní Hlavno	99	80	0
-2107	536130	1	2	901	2	Stanislav	Liška	M	Ing.		39	geotechnik	Kostelní Hlavno	99	80	0
-2107	536130	1	2	901	3	Lubomír	Čamek	M	Ing.		52	soukromý zemědělec	Kostelní Hlavno	99	80	0
-2107	536130	1	2	901	4	Martin	Cirkovský	M	Ing.		38	správní rada	Kostelní Hlavno	99	80	0
-2107	536130	1	2	901	5	Vladimíra	Svobodová	F			31	mateřská dovolená	Kostelní Hlavno	99	80	0
-2107	536130	1	2	901	6	Eva	Holečková	F	Ing.		34	rostlinolékařka	Kostelní Hlavno	99	80	0
-2107	536130	1	2	901	7	Šárka	Veverková	F			36	mateřská dovolená	Kostelní Hlavno	99	80	0
-2107	536130	1	2	901	8	Hana	Slezáková	F			35	mateřská dovolená	Kostelní Hlavno	99	80	0
-2107	536130	1	2	901	9	Dagmar	Deverová	F			56	účetní	Kostelní Hlavno	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2107	536130	1	1	902	1	Milan	Vašek	Ing.		41	podnikatel	Kostelní Hlavno	99	80	0	M
+2107	536130	1	2	901	1	Josef	Rigl	PaedDr.		55	bývalý voják z povolání	Kostelní Hlavno	99	80	0	M
+2107	536130	1	1	902	2	Jindřich	Jiráň			41	podnikatel	Kostelní Hlavno	99	80	0	M
+2107	536130	1	2	901	2	Stanislav	Liška	Ing.		39	geotechnik	Kostelní Hlavno	99	80	0	M
+2107	536130	1	1	902	3	Miloslav	Mráček			37	podnikatel	Kostelní Hlavno	99	80	0	M
+2107	536130	1	2	901	3	Lubomír	Čamek	Ing.		52	soukromý zemědělec	Kostelní Hlavno	99	80	0	M
+2107	536130	1	1	902	4	Milan	Pavlíček			32	rámař	Kostelní Hlavno	99	80	0	M
+2107	536130	1	2	901	4	Martin	Cirkovský	Ing.		38	správní rada	Kostelní Hlavno	99	80	0	M
+2107	536130	1	1	902	5	Ludmila	Knitlová		DiS.	25	administrativní pracovnice	Kostelní Hlavno	99	80	0	F
+2107	536130	1	2	901	5	Vladimíra	Svobodová			31	mateřská dovolená	Kostelní Hlavno	99	80	0	F
+2107	536130	1	1	902	6	Lenka	Kůstová			25	administrativní pracovnice	Kostelní Hlavno	99	80	0	F
+2107	536130	1	2	901	6	Eva	Holečková	Ing.		34	rostlinolékařka	Kostelní Hlavno	99	80	0	F
+2107	536130	1	1	902	7	Miloslav	Brůžek			38	státní zaměstnanec MO	Kostelní Hlavno	99	80	0	M
+2107	536130	1	2	901	7	Šárka	Veverková			36	mateřská dovolená	Kostelní Hlavno	99	80	0	F
+2107	536130	1	1	902	8	František	Vrabec			30	podnikatel	Kostelní Hlavno	99	80	0	M
+2107	536130	1	2	901	8	Hana	Slezáková			35	mateřská dovolená	Kostelní Hlavno	99	80	0	F
+2107	536130	1	2	901	9	Dagmar	Deverová			56	účetní	Kostelní Hlavno	99	80	0	F

@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	594121	1	1	903	1	Luboš	Zejda	M	Bc.		34	důstojník Armády ČR	Hostim	99	80	A
-6207	594121	1	1	903	2	Pavel	Čábl	M			26	dispečer tepelných zdrojů	Hostim	99	80	A
-6207	594121	1	1	903	3	Ondřej	Zejda	M	Bc.		26	OSVČ	Hostim	99	80	A
-6207	594121	1	1	903	4	Vojtěch	Jelínek	M			26	operátor výroby	Hostim	99	80	A
-6207	594121	1	1	903	5	David	Taflíř	M			21	elektromontér	Hostim	99	80	A
-6207	594121	1	1	903	6	Jan	Kandl	M			31	operátor výroby	Hostim	99	80	A
-6207	594121	1	1	903	7	Tomáš	Kandl	M			21	elektromontér	Hostim	99	80	A
-6207	594121	1	2	902	1	Marcela	Hanáková	F	Mgr.		49	učitelka	Hostim	99	80	A
-6207	594121	1	2	902	2	Monika	Větrovská	F			42	zdravotní sestra	Hostim	99	80	A
-6207	594121	1	2	902	3	Kristýna	Štěpánová	F			49	ředitelka O.P.S.	Hostim	99	80	A
-6207	594121	1	2	902	4	Ivana	Papoušková	F	Ing.		26	zootechnička	Hostim	99	80	A
-6207	594121	1	2	902	5	Ivana	Jašová	F			36	administrativní pracovnice	Hostim	99	80	A
-6207	594121	1	2	902	6	Žaneta	Dohnalová	F			34	tiskařka v grafickém studiu	Hostim	99	80	A
-6207	594121	1	2	902	7	Lenka	Novotná	F	Mgr. et Mgr.		41	učitelka	Hostim	99	80	A
-6207	594121	1	3	901	1	Karel	Rada	M			48	soukromý zemědělec	Hostim	99	80	A
-6207	594121	1	3	901	2	Petr	Moškvan	M			59	řidič záchranné služby	Hostim	99	80	A
-6207	594121	1	3	901	3	Pavel	Závěrka	M			41	stavbyvedoucí	Hostim	99	80	A
-6207	594121	1	3	901	4	Karel	Svoboda	M			51	truhlář	Hostim	99	80	A
-6207	594121	1	3	901	5	Pavel	Meduna	M			55	lesní dělník	Hostim	99	80	A
-6207	594121	1	3	901	6	Miroslav	Dohnal	M			59	dělník ve stavebnictví	Hostim	99	80	A
-6207	594121	1	3	901	7	Josef	Kunst	M			52	zedník	Hostim	99	80	A
-6207	594121	1	3	901	8	Miloš	Turnebr	M			44	opravář zemědělských strojů	Hostim	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	594121	1	1	903	1	Luboš	Zejda	Bc.		34	důstojník Armády ČR	Hostim	99	80	A	M
+6207	594121	1	2	902	1	Marcela	Hanáková	Mgr.		49	učitelka	Hostim	99	80	A	F
+6207	594121	1	3	901	1	Karel	Rada			48	soukromý zemědělec	Hostim	99	80	A	M
+6207	594121	1	1	903	2	Pavel	Čábl			26	dispečer tepelných zdrojů	Hostim	99	80	A	M
+6207	594121	1	2	902	2	Monika	Větrovská			42	zdravotní sestra	Hostim	99	80	A	F
+6207	594121	1	3	901	2	Petr	Moškvan			59	řidič záchranné služby	Hostim	99	80	A	M
+6207	594121	1	1	903	3	Ondřej	Zejda	Bc.		26	OSVČ	Hostim	99	80	A	M
+6207	594121	1	2	902	3	Kristýna	Štěpánová			49	ředitelka O.P.S.	Hostim	99	80	A	F
+6207	594121	1	3	901	3	Pavel	Závěrka			41	stavbyvedoucí	Hostim	99	80	A	M
+6207	594121	1	1	903	4	Vojtěch	Jelínek			26	operátor výroby	Hostim	99	80	A	M
+6207	594121	1	2	902	4	Ivana	Papoušková	Ing.		26	zootechnička	Hostim	99	80	A	F
+6207	594121	1	3	901	4	Karel	Svoboda			51	truhlář	Hostim	99	80	A	M
+6207	594121	1	1	903	5	David	Taflíř			21	elektromontér	Hostim	99	80	A	M
+6207	594121	1	2	902	5	Ivana	Jašová			36	administrativní pracovnice	Hostim	99	80	A	F
+6207	594121	1	3	901	5	Pavel	Meduna			55	lesní dělník	Hostim	99	80	A	M
+6207	594121	1	1	903	6	Jan	Kandl			31	operátor výroby	Hostim	99	80	A	M
+6207	594121	1	2	902	6	Žaneta	Dohnalová			34	tiskařka v grafickém studiu	Hostim	99	80	A	F
+6207	594121	1	3	901	6	Miroslav	Dohnal			59	dělník ve stavebnictví	Hostim	99	80	A	M
+6207	594121	1	1	903	7	Tomáš	Kandl			21	elektromontér	Hostim	99	80	A	M
+6207	594121	1	2	902	7	Lenka	Novotná	Mgr. et Mgr.		41	učitelka	Hostim	99	80	A	F
+6207	594121	1	3	901	7	Josef	Kunst			52	zedník	Hostim	99	80	A	M
+6207	594121	1	3	901	8	Miloš	Turnebr			44	opravář zemědělských strojů	Hostim	99	80	A	M

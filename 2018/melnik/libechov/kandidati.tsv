@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2106	535001	1	1	902	1	Vladimíra	Zralíková	F	Ing. Mgr.		48	starostka města Liběchov	Ješovice	99	80	A
-2106	535001	1	1	902	2	Pavla	Veverková	F	Ing.		38	projektová manažerka	Liběchov	99	80	A
-2106	535001	1	1	902	3	Jan	Rodr	M			38	policista	Liběchov	99	80	A
-2106	535001	1	1	902	4	Štěpán	Hladký	M	Ing.		42	vedoucí pracovník	Liběchov	99	80	A
-2106	535001	1	1	902	5	Jaroslav	Groh	M			42	OSVČ	Liběchov	99	80	A
-2106	535001	1	1	902	6	Pavel	Dostál	M	Ing.		51	OSVČ	Liběchov	99	80	A
-2106	535001	1	1	902	7	Jan	Balogh	M			49	stavbyvedoucí	Liběchov	99	80	A
-2106	535001	1	1	902	8	Zdeněk	Lunzar	M			30	elektronik	Liběchov	99	80	A
-2106	535001	1	1	902	9	Josef	Richtr	M			68	důchodce	Liběchov	99	80	A
-2106	535001	1	2	901	1	Jan	Bína	M	Ing.		53	stavební inženýr	Liběchov	99	80	A
-2106	535001	1	2	901	2	Josef	Homolka	M			39	zemědělský podnikatel	Ješovice	99	80	A
-2106	535001	1	2	901	3	Lucie	Žáčková	F	MUDr.		52	lékařka	Liběchov	99	80	A
-2106	535001	1	2	901	4	Veronika	Borovičková	F			32	policistka	Liběchov	99	80	A
-2106	535001	1	2	901	5	Stanislav	Postl	M			45	policista	Liběchov	99	80	A
-2106	535001	1	2	901	6	Jozefa	Fiedorová	F			67	pečovatelka	Považská Bystrica	99	80	A
-2106	535001	1	2	901	7	Zdeněk	Puža	M			59	technik	Liběchov	99	80	A
-2106	535001	1	2	901	8	Nikola	Bušková	F			22	úřednice	Liběchov	99	80	A
-2106	535001	1	2	901	9	Petra	Kollmanová	F			19	studentka	Liběchov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2106	535001	1	1	902	1	Vladimíra	Zralíková	Ing. Mgr.		48	starostka města Liběchov	Ješovice	99	80	A	F
+2106	535001	1	2	901	1	Jan	Bína	Ing.		53	stavební inženýr	Liběchov	99	80	A	M
+2106	535001	1	1	902	2	Pavla	Veverková	Ing.		38	projektová manažerka	Liběchov	99	80	A	F
+2106	535001	1	2	901	2	Josef	Homolka			39	zemědělský podnikatel	Ješovice	99	80	A	M
+2106	535001	1	1	902	3	Jan	Rodr			38	policista	Liběchov	99	80	A	M
+2106	535001	1	2	901	3	Lucie	Žáčková	MUDr.		52	lékařka	Liběchov	99	80	A	F
+2106	535001	1	1	902	4	Štěpán	Hladký	Ing.		42	vedoucí pracovník	Liběchov	99	80	A	M
+2106	535001	1	2	901	4	Veronika	Borovičková			32	policistka	Liběchov	99	80	A	F
+2106	535001	1	1	902	5	Jaroslav	Groh			42	OSVČ	Liběchov	99	80	A	M
+2106	535001	1	2	901	5	Stanislav	Postl			45	policista	Liběchov	99	80	A	M
+2106	535001	1	1	902	6	Pavel	Dostál	Ing.		51	OSVČ	Liběchov	99	80	A	M
+2106	535001	1	2	901	6	Jozefa	Fiedorová			67	pečovatelka	Považská Bystrica	99	80	A	F
+2106	535001	1	1	902	7	Jan	Balogh			49	stavbyvedoucí	Liběchov	99	80	A	M
+2106	535001	1	2	901	7	Zdeněk	Puža			59	technik	Liběchov	99	80	A	M
+2106	535001	1	1	902	8	Zdeněk	Lunzar			30	elektronik	Liběchov	99	80	A	M
+2106	535001	1	2	901	8	Nikola	Bušková			22	úřednice	Liběchov	99	80	A	F
+2106	535001	1	1	902	9	Josef	Richtr			68	důchodce	Liběchov	99	80	A	M
+2106	535001	1	2	901	9	Petra	Kollmanová			19	studentka	Liběchov	99	80	A	F

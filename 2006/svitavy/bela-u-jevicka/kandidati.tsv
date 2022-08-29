@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	505391	1	1	47	1	Josef	Červinka	M			52	technik	Bělá u Jevíčka	47	47	0
-5303	505391	1	1	47	2	Lada	Hladilová	F			36	dělnice	Bělá u Jevíčka	47	47	0
-5303	505391	1	1	47	3	Markéta	Koukalová	F			63	důchodkyně	Smolná	99	47	1
-5303	505391	1	1	47	4	Lucie	Bubeníková	F			25	dělnice	Bělá u Jevíčka	99	47	0
-5303	505391	1	1	47	5	Josef	Hladil	M			51	dělník	Bělá u Jevíčka	47	47	0
-5303	505391	1	2	902	1	Zdeněk	Dražil	M			47	technik	Bělá u Jevíčka	99	80	0
-5303	505391	1	2	902	2	Antonín	Petr	M			33	dělník	Bělá u Jevíčka	99	80	0
-5303	505391	1	2	902	3	Vladimír	Nárožný	M			50	dělník	Bělá u Jevíčka	99	80	0
-5303	505391	1	2	902	4	Jana	Wolfová	F			27	doručovatelka	Bělá u Jevíčka	99	80	0
-5303	505391	1	3	901	1	Josefa	Hiklová	F			50	OSVČ	Smolná	99	80	0
-5303	505391	1	3	901	2	Miroslav	Petr	M			45	dělník	Smolná	99	80	0
-5303	505391	1	4	53	1	David	Šmigura	M			29	podnikatel	Bělá u Jevíčka	53	53	0
-5303	505391	1	4	53	2	Ivana	Bendová	F			55	nezaměstnaný	Smolná	53	53	0
-5303	505391	1	4	53	3	Lubomír	Knötig	M			32	nezaměstnaný	Bělá u Jevíčka	53	53	0
-5303	505391	1	4	53	4	Lenka	Porketová	F			21	student	Bělá u Jevíčka	53	53	0
-5303	505391	1	4	53	5	Martin	Benda	M			20	student	Smolná	53	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	505391	1	1	47	1	Josef	Červinka			52	technik	Bělá u Jevíčka	47	47	0	M
+5303	505391	1	2	902	1	Zdeněk	Dražil			47	technik	Bělá u Jevíčka	99	80	0	M
+5303	505391	1	3	901	1	Josefa	Hiklová			50	OSVČ	Smolná	99	80	0	F
+5303	505391	1	4	53	1	David	Šmigura			29	podnikatel	Bělá u Jevíčka	53	53	0	M
+5303	505391	1	1	47	2	Lada	Hladilová			36	dělnice	Bělá u Jevíčka	47	47	0	F
+5303	505391	1	2	902	2	Antonín	Petr			33	dělník	Bělá u Jevíčka	99	80	0	M
+5303	505391	1	3	901	2	Miroslav	Petr			45	dělník	Smolná	99	80	0	M
+5303	505391	1	4	53	2	Ivana	Bendová			55	nezaměstnaný	Smolná	53	53	0	F
+5303	505391	1	1	47	3	Markéta	Koukalová			63	důchodkyně	Smolná	99	47	1	F
+5303	505391	1	2	902	3	Vladimír	Nárožný			50	dělník	Bělá u Jevíčka	99	80	0	M
+5303	505391	1	4	53	3	Lubomír	Knötig			32	nezaměstnaný	Bělá u Jevíčka	53	53	0	M
+5303	505391	1	1	47	4	Lucie	Bubeníková			25	dělnice	Bělá u Jevíčka	99	47	0	F
+5303	505391	1	2	902	4	Jana	Wolfová			27	doručovatelka	Bělá u Jevíčka	99	80	0	F
+5303	505391	1	4	53	4	Lenka	Porketová			21	student	Bělá u Jevíčka	53	53	0	F
+5303	505391	1	1	47	5	Josef	Hladil			51	dělník	Bělá u Jevíčka	47	47	0	M
+5303	505391	1	4	53	5	Martin	Benda			20	student	Smolná	53	53	0	M

@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5203	574651	1	1	1	1	Karel	Jansák	M	Bc.		33	rolník	Horní Rybníky	99	1	0
-5203	574651	1	1	1	2	Lubomír	Středa	M			49	živnostník	Končiny	99	1	0
-5203	574651	1	1	1	3	Vendula	Steinová	F			22	ošetřovatelka skotu	Horní Rybníky	99	1	0
-5203	574651	1	1	1	4	Pavel	Sadovský	M			46	mistr výroby	Horní Rybníky	99	1	0
-5203	574651	1	1	1	5	Aneta	Dohnanská	F			24	mateřská dovolená	Horní Rybníky	99	1	0
-5203	574651	1	1	1	6	Tomáš	Škoda	M			24	skladník - údržbář	Horní Rybníky	99	1	0
-5203	574651	1	1	1	7	David	Hejna	M			23	student	Zábrodí	99	1	0
-5203	574651	1	1	1	8	Ondřej	Kohl	M	Bc.		23	student	Končiny	99	1	0
-5203	574651	1	1	1	9	Petr	Kulhánek	M			28	truhlář	Horní Rybníky	99	1	0
-5203	574651	1	2	903	1	Ludmila	Pohanková	F			56	vedoucí pracovnice	Zábrodí	99	80	0
-5203	574651	1	2	903	2	Petr	Habr	M			32	dělník	Zábrodí	99	80	0
-5203	574651	1	2	903	3	Jan	Dlauhoweský	M			37	soukromý podnikatel	Zábrodí	99	80	0
-5203	574651	1	2	903	4	Ladislav	Hruška	M			54	soukromý podnikatel	Zábrodí	99	80	0
-5203	574651	1	2	903	5	Eva	Lokvencová	F			50	učitelka	Horní Rybníky	99	80	0
-5203	574651	1	2	903	6	Jaroslav	Vlček	M			34	technolog	Zábrodí	99	80	0
-5203	574651	1	2	903	7	Josef	Kohl	M			51	soukromý podnikatel	Končiny	99	80	0
-5203	574651	1	2	903	8	Aleš	Hnízdil	M			35	soukromý podnikatel	Končiny	99	80	0
-5203	574651	1	2	903	9	Michal	Jirka	M			37	soukromý podnikatel	Zábrodí	99	80	0
-5203	574651	1	3	901	1	Jiří	Oleják	M			45	ředitel školy	Horní Rybníky	99	80	0
-5203	574651	1	3	901	2	Michal	Just	M			33	vedoucí pobočky KB	Horní Rybníky	99	80	0
-5203	574651	1	3	901	3	Jakub	Středa	M			26	servisní technik	Končiny	99	80	0
-5203	574651	1	3	901	4	Pavel	Volhejn	M			42	obchodní referent	Končiny	99	80	0
-5203	574651	1	3	901	5	Drahomíra	Bartošová	F			33	učitelka	Končiny	99	80	0
-5203	574651	1	3	901	6	František	Tupec	M			47	podnikatel	Horní Rybníky	99	80	0
-5203	574651	1	3	901	7	Ladislav	Jirka	M			63	podnikatel	Končiny	99	80	0
-5203	574651	1	3	901	8	Dana	Sedláčková	F			51	dělnice	Horní Rybníky	99	80	0
-5203	574651	1	3	901	9	Jiří	Prouza	M			54	investiční technik	Horní Rybníky	99	80	0
-5203	574651	1	4	902	1	Jiřina	Ducháčová	F			51	bankovní úřednice	Končiny	99	80	0
-5203	574651	1	4	902	2	Jiří	Matějovic	M			44	mistr	Končiny	99	80	0
-5203	574651	1	4	902	3	Tomáš	Mikeš	M			54	kuchař	Zábrodí	99	80	0
-5203	574651	1	4	902	4	Stanislav	Dohanský	M			50	vedoucí pracovník	Horní Rybníky	99	80	0
-5203	574651	1	4	902	5	Pavel	Jirásek	M			34	soukromý podnikatel	Horní Rybníky	99	80	0
-5203	574651	1	4	902	6	Martin	Livar	M			44	soukromý podnikatel	Horní Rybníky	99	80	0
-5203	574651	1	4	902	7	Jaroslav	Ducháč	M			57	soukromý podnikatel	Horní Rybníky	99	80	0
-5203	574651	1	4	902	8	Naděžda	Hanušová	F			51	prodavačka	Končiny	99	80	0
-5203	574651	1	4	902	9	Veronika	Sokolová	F			30	mateřská dovolená	Zábrodí	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5203	574651	1	1	1	1	Karel	Jansák	Bc.		33	rolník	Horní Rybníky	99	1	0	M
+5203	574651	1	2	903	1	Ludmila	Pohanková			56	vedoucí pracovnice	Zábrodí	99	80	0	F
+5203	574651	1	3	901	1	Jiří	Oleják			45	ředitel školy	Horní Rybníky	99	80	0	M
+5203	574651	1	4	902	1	Jiřina	Ducháčová			51	bankovní úřednice	Končiny	99	80	0	F
+5203	574651	1	1	1	2	Lubomír	Středa			49	živnostník	Končiny	99	1	0	M
+5203	574651	1	2	903	2	Petr	Habr			32	dělník	Zábrodí	99	80	0	M
+5203	574651	1	3	901	2	Michal	Just			33	vedoucí pobočky KB	Horní Rybníky	99	80	0	M
+5203	574651	1	4	902	2	Jiří	Matějovic			44	mistr	Končiny	99	80	0	M
+5203	574651	1	1	1	3	Vendula	Steinová			22	ošetřovatelka skotu	Horní Rybníky	99	1	0	F
+5203	574651	1	2	903	3	Jan	Dlauhoweský			37	soukromý podnikatel	Zábrodí	99	80	0	M
+5203	574651	1	3	901	3	Jakub	Středa			26	servisní technik	Končiny	99	80	0	M
+5203	574651	1	4	902	3	Tomáš	Mikeš			54	kuchař	Zábrodí	99	80	0	M
+5203	574651	1	1	1	4	Pavel	Sadovský			46	mistr výroby	Horní Rybníky	99	1	0	M
+5203	574651	1	2	903	4	Ladislav	Hruška			54	soukromý podnikatel	Zábrodí	99	80	0	M
+5203	574651	1	3	901	4	Pavel	Volhejn			42	obchodní referent	Končiny	99	80	0	M
+5203	574651	1	4	902	4	Stanislav	Dohanský			50	vedoucí pracovník	Horní Rybníky	99	80	0	M
+5203	574651	1	1	1	5	Aneta	Dohnanská			24	mateřská dovolená	Horní Rybníky	99	1	0	F
+5203	574651	1	2	903	5	Eva	Lokvencová			50	učitelka	Horní Rybníky	99	80	0	F
+5203	574651	1	3	901	5	Drahomíra	Bartošová			33	učitelka	Končiny	99	80	0	F
+5203	574651	1	4	902	5	Pavel	Jirásek			34	soukromý podnikatel	Horní Rybníky	99	80	0	M
+5203	574651	1	1	1	6	Tomáš	Škoda			24	skladník - údržbář	Horní Rybníky	99	1	0	M
+5203	574651	1	2	903	6	Jaroslav	Vlček			34	technolog	Zábrodí	99	80	0	M
+5203	574651	1	3	901	6	František	Tupec			47	podnikatel	Horní Rybníky	99	80	0	M
+5203	574651	1	4	902	6	Martin	Livar			44	soukromý podnikatel	Horní Rybníky	99	80	0	M
+5203	574651	1	1	1	7	David	Hejna			23	student	Zábrodí	99	1	0	M
+5203	574651	1	2	903	7	Josef	Kohl			51	soukromý podnikatel	Končiny	99	80	0	M
+5203	574651	1	3	901	7	Ladislav	Jirka			63	podnikatel	Končiny	99	80	0	M
+5203	574651	1	4	902	7	Jaroslav	Ducháč			57	soukromý podnikatel	Horní Rybníky	99	80	0	M
+5203	574651	1	1	1	8	Ondřej	Kohl	Bc.		23	student	Končiny	99	1	0	M
+5203	574651	1	2	903	8	Aleš	Hnízdil			35	soukromý podnikatel	Končiny	99	80	0	M
+5203	574651	1	3	901	8	Dana	Sedláčková			51	dělnice	Horní Rybníky	99	80	0	F
+5203	574651	1	4	902	8	Naděžda	Hanušová			51	prodavačka	Končiny	99	80	0	F
+5203	574651	1	1	1	9	Petr	Kulhánek			28	truhlář	Horní Rybníky	99	1	0	M
+5203	574651	1	2	903	9	Michal	Jirka			37	soukromý podnikatel	Zábrodí	99	80	0	M
+5203	574651	1	3	901	9	Jiří	Prouza			54	investiční technik	Horní Rybníky	99	80	0	M
+5203	574651	1	4	902	9	Veronika	Sokolová			30	mateřská dovolená	Zábrodí	99	80	0	F

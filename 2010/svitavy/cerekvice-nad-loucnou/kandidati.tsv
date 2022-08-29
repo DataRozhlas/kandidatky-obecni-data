@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	577936	1	1	339	1	Pavel	Rezek	M	Mgr.		37	učitel ZŠ	Cerekvice nad Loučnou	99	1	0
-5303	577936	1	1	339	2	Eva	Šedová	F			42	účetní	Cerekvice nad Loučnou	99	181	0
-5303	577936	1	1	339	3	Pavlína	Nejedlá	F			39	asistentka ředitele	Pekla	99	181	0
-5303	577936	1	1	339	4	Miroslav	Jůza	M	Bc.		26	referent výzkumu	Cerekvice nad Loučnou	99	181	0
-5303	577936	1	1	339	5	Josef	Abraham	M	Ing.		49	podnikový metrolog	Cerekvice nad Loučnou	1	1	0
-5303	577936	1	1	339	6	Miroslav	Mergl	M	Ing.		48	projektant	Cerekvice nad Loučnou	99	181	0
-5303	577936	1	1	339	7	Pavel	Novotný	M	Ing.		33	středoškolský učitel	Cerekvice nad Loučnou	99	181	0
-5303	577936	1	1	339	8	Petr	Halousek	M			45	technik	Cerekvice nad Loučnou	99	1	0
-5303	577936	1	1	339	9	Ludmila	Škrbová	F			54	učitelka MŠ	Pekla	99	181	0
-5303	577936	1	1	339	10	Bohdana	Jůzová	F			38	úřednice	Cerekvice nad Loučnou	99	181	0
-5303	577936	1	1	339	11	Jiří	Pešina	M			44	požární technik	Cerekvice nad Loučnou	99	1	0
-5303	577936	1	2	901	1	Jiří	Huráň	M			54	vedoucí provozu	Cerekvice nad Loučnou	99	80	0
-5303	577936	1	2	901	2	Tomáš	Netolický	M	Bc.		39	policista	Cerekvice nad Loučnou	99	80	0
-5303	577936	1	2	901	3	Jiří	Storoženko	M			35	projektant	Cerekvice nad Loučnou	99	80	0
-5303	577936	1	2	901	4	Miloslav	Kusý	M			56	elektrikář	Cerekvice nad Loučnou	99	80	0
-5303	577936	1	2	901	5	Miroslav	Kusý	M			49	podnikatel	Cerekvice nad Loučnou	99	80	0
-5303	577936	1	2	901	6	Zdena	Olivová	F			44	ředitelka MŠ	Cerekvice nad Loučnou	99	80	0
-5303	577936	1	2	901	7	Roman	Pražák	M			23	obchodní zástupce	Cerekvice nad Loučnou	99	80	0
-5303	577936	1	2	901	8	Milan	Adámek	M			58	vedoucí střediska	Cerekvice nad Loučnou	99	80	0
-5303	577936	1	2	901	9	Jan	Hořínek	M			54	vedoucí provozovny	Cerekvice nad Loučnou	99	80	0
-5303	577936	1	2	901	10	Oldřiška	Janderová	F			46	referentka	Cerekvice nad Loučnou	99	80	0
-5303	577936	1	2	901	11	Vlastimil	Jetmar	M			24	technolog	Cerekvice nad Loučnou	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	577936	1	1	339	1	Pavel	Rezek	Mgr.		37	učitel ZŠ	Cerekvice nad Loučnou	99	1	0	M
+5303	577936	1	2	901	1	Jiří	Huráň			54	vedoucí provozu	Cerekvice nad Loučnou	99	80	0	M
+5303	577936	1	1	339	2	Eva	Šedová			42	účetní	Cerekvice nad Loučnou	99	181	0	F
+5303	577936	1	2	901	2	Tomáš	Netolický	Bc.		39	policista	Cerekvice nad Loučnou	99	80	0	M
+5303	577936	1	1	339	3	Pavlína	Nejedlá			39	asistentka ředitele	Pekla	99	181	0	F
+5303	577936	1	2	901	3	Jiří	Storoženko			35	projektant	Cerekvice nad Loučnou	99	80	0	M
+5303	577936	1	1	339	4	Miroslav	Jůza	Bc.		26	referent výzkumu	Cerekvice nad Loučnou	99	181	0	M
+5303	577936	1	2	901	4	Miloslav	Kusý			56	elektrikář	Cerekvice nad Loučnou	99	80	0	M
+5303	577936	1	1	339	5	Josef	Abraham	Ing.		49	podnikový metrolog	Cerekvice nad Loučnou	1	1	0	M
+5303	577936	1	2	901	5	Miroslav	Kusý			49	podnikatel	Cerekvice nad Loučnou	99	80	0	M
+5303	577936	1	1	339	6	Miroslav	Mergl	Ing.		48	projektant	Cerekvice nad Loučnou	99	181	0	M
+5303	577936	1	2	901	6	Zdena	Olivová			44	ředitelka MŠ	Cerekvice nad Loučnou	99	80	0	F
+5303	577936	1	1	339	7	Pavel	Novotný	Ing.		33	středoškolský učitel	Cerekvice nad Loučnou	99	181	0	M
+5303	577936	1	2	901	7	Roman	Pražák			23	obchodní zástupce	Cerekvice nad Loučnou	99	80	0	M
+5303	577936	1	1	339	8	Petr	Halousek			45	technik	Cerekvice nad Loučnou	99	1	0	M
+5303	577936	1	2	901	8	Milan	Adámek			58	vedoucí střediska	Cerekvice nad Loučnou	99	80	0	M
+5303	577936	1	1	339	9	Ludmila	Škrbová			54	učitelka MŠ	Pekla	99	181	0	F
+5303	577936	1	2	901	9	Jan	Hořínek			54	vedoucí provozovny	Cerekvice nad Loučnou	99	80	0	M
+5303	577936	1	1	339	10	Bohdana	Jůzová			38	úřednice	Cerekvice nad Loučnou	99	181	0	F
+5303	577936	1	2	901	10	Oldřiška	Janderová			46	referentka	Cerekvice nad Loučnou	99	80	0	F
+5303	577936	1	1	339	11	Jiří	Pešina			44	požární technik	Cerekvice nad Loučnou	99	1	0	M
+5303	577936	1	2	901	11	Vlastimil	Jetmar			24	technolog	Cerekvice nad Loučnou	99	80	0	M

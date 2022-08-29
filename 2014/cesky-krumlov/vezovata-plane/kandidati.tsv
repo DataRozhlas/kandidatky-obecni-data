@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3102	536300	1	1	801	1	Jiří	Vaněček	M			44	dělník	Dolní Pláně	99	80	0
-3102	536300	1	2	1	1	Josef	Čížek	M			22	student	Věžovatá Pláně	99	1	0
-3102	536300	1	2	1	2	Josef	Janda	M			44	programátor	Věžovatá Pláně	99	1	0
-3102	536300	1	2	1	3	Kristýna	Dvořáková	F			26	úřednice	Dolní Pláně	99	1	0
-3102	536300	1	2	1	4	Tomáš	Mazák	M			21	student	Dolní Pláně	99	1	0
-3102	536300	1	2	1	5	Michal	Holec	M			30	dělník	Dolní Pláně	99	1	0
-3102	536300	1	2	1	6	Martina	Jandová	F			42	úřednice	Věžovatá Pláně	99	1	0
-3102	536300	1	3	480	1	Josef	Klimeš	M			71	důchodce	Dolní Pláně	99	80	0
-3102	536300	1	3	480	2	Jaroslav	Mach	M			59	bagrista	Dolní Pláně	99	80	0
-3102	536300	1	3	480	3	Josef	Mach	M			61	soukromý zemědělec	Dolní Pláně	99	80	0
-3102	536300	1	3	480	4	František	Janda	M			66	důchodce	Dolní Pláně	99	80	0
-3102	536300	1	3	480	5	Jiří	Marek	M			65	důchodce	Dolní Pláně	99	80	0
-3102	536300	1	3	480	6	Josef	Pils	M			57	řidič	Věžovatá Pláně	99	80	0
-3102	536300	1	3	480	7	František	Opekar	M			58	podnikatel	Věžovatá Pláně	99	80	0
-3102	536300	1	4	802	1	Iva	Kočíková	F			53	pečovatelka	Věžovatá Pláně	99	80	0
-3102	536300	1	5	803	1	Lukáš	Marek	M			33	hasič	Dolní Pláně	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3102	536300	1	1	801	1	Jiří	Vaněček			44	dělník	Dolní Pláně	99	80	0	M
+3102	536300	1	2	1	1	Josef	Čížek			22	student	Věžovatá Pláně	99	1	0	M
+3102	536300	1	3	480	1	Josef	Klimeš			71	důchodce	Dolní Pláně	99	80	0	M
+3102	536300	1	4	802	1	Iva	Kočíková			53	pečovatelka	Věžovatá Pláně	99	80	0	F
+3102	536300	1	5	803	1	Lukáš	Marek			33	hasič	Dolní Pláně	99	80	0	M
+3102	536300	1	2	1	2	Josef	Janda			44	programátor	Věžovatá Pláně	99	1	0	M
+3102	536300	1	3	480	2	Jaroslav	Mach			59	bagrista	Dolní Pláně	99	80	0	M
+3102	536300	1	2	1	3	Kristýna	Dvořáková			26	úřednice	Dolní Pláně	99	1	0	F
+3102	536300	1	3	480	3	Josef	Mach			61	soukromý zemědělec	Dolní Pláně	99	80	0	M
+3102	536300	1	2	1	4	Tomáš	Mazák			21	student	Dolní Pláně	99	1	0	M
+3102	536300	1	3	480	4	František	Janda			66	důchodce	Dolní Pláně	99	80	0	M
+3102	536300	1	2	1	5	Michal	Holec			30	dělník	Dolní Pláně	99	1	0	M
+3102	536300	1	3	480	5	Jiří	Marek			65	důchodce	Dolní Pláně	99	80	0	M
+3102	536300	1	2	1	6	Martina	Jandová			42	úřednice	Věžovatá Pláně	99	1	0	F
+3102	536300	1	3	480	6	Josef	Pils			57	řidič	Věžovatá Pláně	99	80	0	M
+3102	536300	1	3	480	7	František	Opekar			58	podnikatel	Věžovatá Pláně	99	80	0	M

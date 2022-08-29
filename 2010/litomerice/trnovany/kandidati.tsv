@@ -1,30 +1,30 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	542407	1	1	901	1	Petr	Fischer	M			32	Městská policie Praha 1	Podviní	99	80	0
-4203	542407	1	1	901	2	Lubomír	Svoboda	M			32	regionální manažer, Praha	Podviní	99	80	0
-4203	542407	1	1	901	3	Jiří	Kunst	M			33	živnostník, Trnovany	Trnovany	99	80	0
-4203	542407	1	1	901	4	Marian	Petržilka	M			31	Městská policie Litoměřice	Podviní	99	80	0
-4203	542407	1	1	901	5	Petr	Müller	M			39	Celní správa, Praha	Podviní	99	80	0
-4203	542407	1	1	901	6	Josef	Kalina	M			32	řezník, Litoměřice	Podviní	99	80	0
-4203	542407	1	1	901	7	Roman	Fischer	M			20	student, SOŠ Litoměřice	Podviní	99	80	0
-4203	542407	1	2	902	1	Jan	Strnad	M			38	stavební technik	Podviní	99	80	0
-4203	542407	1	2	902	2	Věra	Hudcová	F			47	zdravotní sestra	Trnovany	99	80	0
-4203	542407	1	2	902	3	Martina	Čechová	F			32	úřednice na mateřské dovolené	Podviní	99	80	0
-4203	542407	1	2	902	4	Kateřina	Tůmová	F			42	starostka	Podviní	99	80	0
-4203	542407	1	2	902	5	Antonín	Novotný	M			55	živnostník	Podviní	99	80	0
-4203	542407	1	2	902	6	Lenka	Vandrovcová	F			34	sekretářka	Podviní	99	80	0
-4203	542407	1	2	902	7	Barbora	Hudcová	F	Bc.		25	speciální pedagog	Trnovany	99	80	0
-4203	542407	1	2	902	8	Eva	Kapušiová	F			50	účetní	Podviní	99	80	0
-4203	542407	1	2	902	9	Jiří	Šenkeřík	M			20	student	Podviní	99	80	0
-4203	542407	1	3	47	1	Jaroslava	Králová	F			21	studentka	Trnovany	99	47	0
-4203	542407	1	3	47	2	Marie	Hrnčířová	F			64	ekonomka	Trnovany	99	47	0
-4203	542407	1	3	47	3	Pavla	Vaverková	F			56	ekonomka	Podviní	99	47	0
-4203	542407	1	3	47	4	Jitka	Brožovičová	F			53	civilní zaměstnanec	Podviní	99	47	0
-4203	542407	1	3	47	5	Věra	Horáková	F			67	laborantka	Podviní	47	47	0
-4203	542407	1	3	47	6	Monika	Musilová	F			40	krejčová	Podviní	99	47	0
-4203	542407	1	3	47	7	Václav	Vrána	M			82	důchodce	Trnovany	47	47	0
-4203	542407	1	4	903	1	Alena	Týřová	F			22	studentka VŠ	Trnovany	99	80	0
-4203	542407	1	4	903	2	Tomáš	Patzenhauer	M			21	živnostník	Trnovany	99	80	0
-4203	542407	1	4	903	3	Jana	Papoušková	F			21	studentka VŠ	Podviní	99	80	0
-4203	542407	1	4	903	4	Jan	Tůma	M			22	projektant	Podviní	99	80	0
-4203	542407	1	4	903	5	Petr	Bradáč	M			26	technik	Trnovany	99	80	0
-4203	542407	1	4	903	6	Martin	Týř	M			24	živnostník	Trnovany	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	542407	1	1	901	1	Petr	Fischer			32	Městská policie Praha 1	Podviní	99	80	0	M
+4203	542407	1	2	902	1	Jan	Strnad			38	stavební technik	Podviní	99	80	0	M
+4203	542407	1	3	47	1	Jaroslava	Králová			21	studentka	Trnovany	99	47	0	F
+4203	542407	1	4	903	1	Alena	Týřová			22	studentka VŠ	Trnovany	99	80	0	F
+4203	542407	1	1	901	2	Lubomír	Svoboda			32	regionální manažer, Praha	Podviní	99	80	0	M
+4203	542407	1	2	902	2	Věra	Hudcová			47	zdravotní sestra	Trnovany	99	80	0	F
+4203	542407	1	3	47	2	Marie	Hrnčířová			64	ekonomka	Trnovany	99	47	0	F
+4203	542407	1	4	903	2	Tomáš	Patzenhauer			21	živnostník	Trnovany	99	80	0	M
+4203	542407	1	1	901	3	Jiří	Kunst			33	živnostník, Trnovany	Trnovany	99	80	0	M
+4203	542407	1	2	902	3	Martina	Čechová			32	úřednice na mateřské dovolené	Podviní	99	80	0	F
+4203	542407	1	3	47	3	Pavla	Vaverková			56	ekonomka	Podviní	99	47	0	F
+4203	542407	1	4	903	3	Jana	Papoušková			21	studentka VŠ	Podviní	99	80	0	F
+4203	542407	1	1	901	4	Marian	Petržilka			31	Městská policie Litoměřice	Podviní	99	80	0	M
+4203	542407	1	2	902	4	Kateřina	Tůmová			42	starostka	Podviní	99	80	0	F
+4203	542407	1	3	47	4	Jitka	Brožovičová			53	civilní zaměstnanec	Podviní	99	47	0	F
+4203	542407	1	4	903	4	Jan	Tůma			22	projektant	Podviní	99	80	0	M
+4203	542407	1	1	901	5	Petr	Müller			39	Celní správa, Praha	Podviní	99	80	0	M
+4203	542407	1	2	902	5	Antonín	Novotný			55	živnostník	Podviní	99	80	0	M
+4203	542407	1	3	47	5	Věra	Horáková			67	laborantka	Podviní	47	47	0	F
+4203	542407	1	4	903	5	Petr	Bradáč			26	technik	Trnovany	99	80	0	M
+4203	542407	1	1	901	6	Josef	Kalina			32	řezník, Litoměřice	Podviní	99	80	0	M
+4203	542407	1	2	902	6	Lenka	Vandrovcová			34	sekretářka	Podviní	99	80	0	F
+4203	542407	1	3	47	6	Monika	Musilová			40	krejčová	Podviní	99	47	0	F
+4203	542407	1	4	903	6	Martin	Týř			24	živnostník	Trnovany	99	80	0	M
+4203	542407	1	1	901	7	Roman	Fischer			20	student, SOŠ Litoměřice	Podviní	99	80	0	M
+4203	542407	1	2	902	7	Barbora	Hudcová	Bc.		25	speciální pedagog	Trnovany	99	80	0	F
+4203	542407	1	3	47	7	Václav	Vrána			82	důchodce	Trnovany	47	47	0	M
+4203	542407	1	2	902	8	Eva	Kapušiová			50	účetní	Podviní	99	80	0	F
+4203	542407	1	2	902	9	Jiří	Šenkeřík			20	student	Podviní	99	80	0	M

@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	571580	1	1	901	1	Jaroslav	Drahoš	M			49	technik	Kladno	99	80	0
-5301	571580	1	1	901	2	Zdeněk	Hlavatý	M			27	technik	Kladno	99	80	0
-5301	571580	1	1	901	3	Pavel	Tichý	M	Ing.		35	OSVČ	Kladno	99	80	0
-5301	571580	1	1	901	4	Petr	Vašulín	M			42	dělník	Kladno	99	80	0
-5301	571580	1	1	901	5	Božena	Nekvindová	F			50	dělnice	Kladno	99	80	0
-5301	571580	1	1	901	6	Jiří	Krátký	M			60	důchodce	Kladno	99	80	0
-5301	571580	1	1	901	7	Pavel	Drapák	M			30	dělník	Kladno	99	80	0
-5301	571580	1	1	901	8	Milan	Baťa	M			51	dělník	Kladno	99	80	0
-5301	571580	1	1	901	9	Milan	Halamka	M			43	dělník	Kladno	99	80	0
-5301	571580	1	2	1	1	Josef	Spilko	M			69	důchodce	Kladno	99	1	0
-5301	571580	1	2	1	2	Milan	Mašek	M			44	invalidní důchodce	Kladno	99	1	0
-5301	571580	1	2	1	3	Milan	Hrubý	M			55	nástrojař	Kladno	99	1	0
-5301	571580	1	2	1	4	Martin	Kulich	M			37	zámečník	Kladno	99	1	0
-5301	571580	1	2	1	5	Milan	Modráček	M			30	zedník	Kladno	99	1	0
-5301	571580	1	2	1	6	David	Homolka	M			35	invalidní důchodce	Kladno	99	1	0
-5301	571580	1	2	1	7	Vítězslav	Holomek	M			34	invalidní důchodce	Kladno	99	1	0
-5301	571580	1	2	1	8	Ludmila	Krátká	F			60	důchodkyně	Kladno	99	1	0
-5301	571580	1	3	902	1	Alena	Talacková	F			41	živnostnice	Kladno	99	80	0
-5301	571580	1	3	902	2	Milan	Osinek	M			42	fin. poradce	Kladno	99	80	0
-5301	571580	1	3	902	3	Monika	Holomková	F			32	živnostnice	Kladno	99	80	0
-5301	571580	1	3	902	4	Pavel	Mudroch	M			54	dělník	Kladno	99	80	0
-5301	571580	1	3	902	5	Josef	Pešava	M			48	dělník	Kladno	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	571580	1	1	901	1	Jaroslav	Drahoš			49	technik	Kladno	99	80	0	M
+5301	571580	1	2	1	1	Josef	Spilko			69	důchodce	Kladno	99	1	0	M
+5301	571580	1	3	902	1	Alena	Talacková			41	živnostnice	Kladno	99	80	0	F
+5301	571580	1	1	901	2	Zdeněk	Hlavatý			27	technik	Kladno	99	80	0	M
+5301	571580	1	2	1	2	Milan	Mašek			44	invalidní důchodce	Kladno	99	1	0	M
+5301	571580	1	3	902	2	Milan	Osinek			42	fin. poradce	Kladno	99	80	0	M
+5301	571580	1	1	901	3	Pavel	Tichý	Ing.		35	OSVČ	Kladno	99	80	0	M
+5301	571580	1	2	1	3	Milan	Hrubý			55	nástrojař	Kladno	99	1	0	M
+5301	571580	1	3	902	3	Monika	Holomková			32	živnostnice	Kladno	99	80	0	F
+5301	571580	1	1	901	4	Petr	Vašulín			42	dělník	Kladno	99	80	0	M
+5301	571580	1	2	1	4	Martin	Kulich			37	zámečník	Kladno	99	1	0	M
+5301	571580	1	3	902	4	Pavel	Mudroch			54	dělník	Kladno	99	80	0	M
+5301	571580	1	1	901	5	Božena	Nekvindová			50	dělnice	Kladno	99	80	0	F
+5301	571580	1	2	1	5	Milan	Modráček			30	zedník	Kladno	99	1	0	M
+5301	571580	1	3	902	5	Josef	Pešava			48	dělník	Kladno	99	80	0	M
+5301	571580	1	1	901	6	Jiří	Krátký			60	důchodce	Kladno	99	80	0	M
+5301	571580	1	2	1	6	David	Homolka			35	invalidní důchodce	Kladno	99	1	0	M
+5301	571580	1	1	901	7	Pavel	Drapák			30	dělník	Kladno	99	80	0	M
+5301	571580	1	2	1	7	Vítězslav	Holomek			34	invalidní důchodce	Kladno	99	1	0	M
+5301	571580	1	1	901	8	Milan	Baťa			51	dělník	Kladno	99	80	0	M
+5301	571580	1	2	1	8	Ludmila	Krátká			60	důchodkyně	Kladno	99	1	0	F
+5301	571580	1	1	901	9	Milan	Halamka			43	dělník	Kladno	99	80	0	M

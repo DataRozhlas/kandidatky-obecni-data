@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5204	576191	1	1	47	1	Anna	Adamcová	F			55	dělnice	Velká Čermná	99	47	0
-5204	576191	1	1	47	2	Aleš	Matějus	M			21	truhlář	Číčová	99	47	0
-5204	576191	1	1	47	3	Jiří	Hloušek	M	Ing.		72	důchodce	Malá Čermná	47	47	0
-5204	576191	1	1	47	4	Hana	Nyčová	F			62	důchodce	Malá Čermná	99	47	0
-5204	576191	1	1	47	5	Milan	Kopecký	M			54	invalidní důchodce	Malá Čermná	47	47	0
-5204	576191	1	1	47	6	Božena	Kašparová	F			55	dělnice	Malá Čermná	99	47	0
-5204	576191	1	1	47	7	Bohuslava	Matějková	F			27	prodavačka	Malá Čermná	99	47	0
-5204	576191	1	1	47	8	Zdeňka	Kosinová	F			53	úřednice	Malá Čermná	99	47	0
-5204	576191	1	1	47	9	Stanislava	Stálá	F			54	dělnice	Malá Čermná	99	47	0
-5204	576191	1	1	47	10	Karel	Hamerník	M			69	důchodce	Číčová	47	47	0
-5204	576191	1	1	47	11	František	Doležal	M			54	dělník	Velká Čermná	47	47	0
-5204	576191	1	1	47	12	Zbyněk	Bednařík	M			46	dělník	Velká Čermná	99	47	0
-5204	576191	1	1	47	13	Vladimír	Majrych	M			56	důchodce	Číčová	99	47	0
-5204	576191	1	1	47	14	Miroslav	Sitka	M			61	důchodce	Malá Čermná	99	47	0
-5204	576191	1	1	47	15	Lubomír	Šága	M			66	důchodce	Malá Čermná	99	47	0
-5204	576191	1	2	449	1	Josef	Bezdíček	M			55	starosta obce	Malá Čermná	99	80	0
-5204	576191	1	2	449	2	Vlastimil	Fuchsa	M			62	důchodce	Velká Čermná	99	80	0
-5204	576191	1	2	449	3	Jaroslava	Bouchnerová	F	Mgr.		51	učitelka	Korunka	99	80	0
-5204	576191	1	2	449	4	Lenka	Andrlíková	F			43	prodavačka	Malá Čermná	99	80	0
-5204	576191	1	2	449	5	David	Joska	M	Mgr.		27	učitel	Malá Čermná	99	80	0
-5204	576191	1	2	449	6	Ladislav	Novák	M			55	dělník	Velká Čermná	99	80	0
-5204	576191	1	2	449	7	Rudolf	Rous	M			38	technik	Číčová	99	80	0
-5204	576191	1	2	449	8	Zdeněk	Tupec	M			51	dělník	Malá Čermná	99	80	0
-5204	576191	1	2	449	9	František	Kuchař	M	Ing.		46	technik	Malá Čermná	53	80	0
-5204	576191	1	2	449	10	Pavel	Rak	M			34	technik	Malá Čermná	99	80	0
-5204	576191	1	2	449	11	Petr	Kubias	M			52	dělník	Malá Čermná	99	80	0
-5204	576191	1	2	449	12	Jan	Červený	M	Bc.		37	technik	Velká Čermná	99	80	0
-5204	576191	1	2	449	13	Roman	Kosinka	M			25	soukromý podnikatel	Velká Čermná	99	80	0
-5204	576191	1	2	449	14	Jiří	Němec	M	Mgr.		52	učitel	Malá Čermná	99	80	0
-5204	576191	1	2	449	15	Milan	Jindra	M			30	technik	Malá Čermná	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5204	576191	1	1	47	1	Anna	Adamcová			55	dělnice	Velká Čermná	99	47	0	F
+5204	576191	1	2	449	1	Josef	Bezdíček			55	starosta obce	Malá Čermná	99	80	0	M
+5204	576191	1	1	47	2	Aleš	Matějus			21	truhlář	Číčová	99	47	0	M
+5204	576191	1	2	449	2	Vlastimil	Fuchsa			62	důchodce	Velká Čermná	99	80	0	M
+5204	576191	1	1	47	3	Jiří	Hloušek	Ing.		72	důchodce	Malá Čermná	47	47	0	M
+5204	576191	1	2	449	3	Jaroslava	Bouchnerová	Mgr.		51	učitelka	Korunka	99	80	0	F
+5204	576191	1	1	47	4	Hana	Nyčová			62	důchodce	Malá Čermná	99	47	0	F
+5204	576191	1	2	449	4	Lenka	Andrlíková			43	prodavačka	Malá Čermná	99	80	0	F
+5204	576191	1	1	47	5	Milan	Kopecký			54	invalidní důchodce	Malá Čermná	47	47	0	M
+5204	576191	1	2	449	5	David	Joska	Mgr.		27	učitel	Malá Čermná	99	80	0	M
+5204	576191	1	1	47	6	Božena	Kašparová			55	dělnice	Malá Čermná	99	47	0	F
+5204	576191	1	2	449	6	Ladislav	Novák			55	dělník	Velká Čermná	99	80	0	M
+5204	576191	1	1	47	7	Bohuslava	Matějková			27	prodavačka	Malá Čermná	99	47	0	F
+5204	576191	1	2	449	7	Rudolf	Rous			38	technik	Číčová	99	80	0	M
+5204	576191	1	1	47	8	Zdeňka	Kosinová			53	úřednice	Malá Čermná	99	47	0	F
+5204	576191	1	2	449	8	Zdeněk	Tupec			51	dělník	Malá Čermná	99	80	0	M
+5204	576191	1	1	47	9	Stanislava	Stálá			54	dělnice	Malá Čermná	99	47	0	F
+5204	576191	1	2	449	9	František	Kuchař	Ing.		46	technik	Malá Čermná	53	80	0	M
+5204	576191	1	1	47	10	Karel	Hamerník			69	důchodce	Číčová	47	47	0	M
+5204	576191	1	2	449	10	Pavel	Rak			34	technik	Malá Čermná	99	80	0	M
+5204	576191	1	1	47	11	František	Doležal			54	dělník	Velká Čermná	47	47	0	M
+5204	576191	1	2	449	11	Petr	Kubias			52	dělník	Malá Čermná	99	80	0	M
+5204	576191	1	1	47	12	Zbyněk	Bednařík			46	dělník	Velká Čermná	99	47	0	M
+5204	576191	1	2	449	12	Jan	Červený	Bc.		37	technik	Velká Čermná	99	80	0	M
+5204	576191	1	1	47	13	Vladimír	Majrych			56	důchodce	Číčová	99	47	0	M
+5204	576191	1	2	449	13	Roman	Kosinka			25	soukromý podnikatel	Velká Čermná	99	80	0	M
+5204	576191	1	1	47	14	Miroslav	Sitka			61	důchodce	Malá Čermná	99	47	0	M
+5204	576191	1	2	449	14	Jiří	Němec	Mgr.		52	učitel	Malá Čermná	99	80	0	M
+5204	576191	1	1	47	15	Lubomír	Šága			66	důchodce	Malá Čermná	99	47	0	M
+5204	576191	1	2	449	15	Milan	Jindra			30	technik	Malá Čermná	99	80	0	M

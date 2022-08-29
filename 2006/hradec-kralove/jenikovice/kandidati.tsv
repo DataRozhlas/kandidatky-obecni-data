@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	570133	1	1	47	1	Václav	Jánský	M			49	nástrojař	Jeníkovice	99	47	0
-5201	570133	1	1	47	2	Ladislav	Cabicar	M			61	důchodce	Jeníkovice	47	47	0
-5201	570133	1	1	47	3	Lenka	Skalická	F			50	invalidní důchodce	Jeníkovice	99	47	0
-5201	570133	1	1	47	4	Jozef	Mitráš	M			50	řidič	Jeníkovice	47	47	0
-5201	570133	1	1	47	5	Jiří	Lamer	M			37	řidič	Jeníkovice	99	47	0
-5201	570133	1	1	47	6	Jana	Matulová	F			52	účetní	Jeníkovice	99	47	0
-5201	570133	1	1	47	7	Viliam	Krovina	M			60	opravář	Jeníkovice	99	47	0
-5201	570133	1	1	47	8	Josef	Brychta	M			73	důchodce	Jeníkovice	47	47	0
-5201	570133	1	2	1	1	Miloš	Havel	M			66	důchodce	Jeníkovice	99	1	0
-5201	570133	1	2	1	2	Josef	Gregor	M	Ing.		67	důchodce	Jeníkovice	99	1	0
-5201	570133	1	2	1	3	Jaromír	Pultar	M	Mgr.		38	vedoucí agentury	Jeníkovice	99	1	0
-5201	570133	1	2	1	4	Jaroslav	Kupka	M	Ing.		45	konstruktér	Jeníkovice	99	1	0
-5201	570133	1	2	1	5	Martin	Löw	M			50	podnikatel	Jeníkovice	99	1	0
-5201	570133	1	2	1	6	Alena	Potůčková	F			36	v domácnosti	Jeníkovice	99	1	0
-5201	570133	1	2	1	7	Monika	Leierová	F			45	v domácnosti	Jeníkovice	99	1	0
-5201	570133	1	2	1	8	Josef	Martinec	M			45	podnikatel	Jeníkovice	99	1	0
-5201	570133	1	2	1	9	Lenka	Kosařová	F	Ing.		32	v domácnosti	Jeníkovice	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	570133	1	1	47	1	Václav	Jánský			49	nástrojař	Jeníkovice	99	47	0	M
+5201	570133	1	2	1	1	Miloš	Havel			66	důchodce	Jeníkovice	99	1	0	M
+5201	570133	1	1	47	2	Ladislav	Cabicar			61	důchodce	Jeníkovice	47	47	0	M
+5201	570133	1	2	1	2	Josef	Gregor	Ing.		67	důchodce	Jeníkovice	99	1	0	M
+5201	570133	1	1	47	3	Lenka	Skalická			50	invalidní důchodce	Jeníkovice	99	47	0	F
+5201	570133	1	2	1	3	Jaromír	Pultar	Mgr.		38	vedoucí agentury	Jeníkovice	99	1	0	M
+5201	570133	1	1	47	4	Jozef	Mitráš			50	řidič	Jeníkovice	47	47	0	M
+5201	570133	1	2	1	4	Jaroslav	Kupka	Ing.		45	konstruktér	Jeníkovice	99	1	0	M
+5201	570133	1	1	47	5	Jiří	Lamer			37	řidič	Jeníkovice	99	47	0	M
+5201	570133	1	2	1	5	Martin	Löw			50	podnikatel	Jeníkovice	99	1	0	M
+5201	570133	1	1	47	6	Jana	Matulová			52	účetní	Jeníkovice	99	47	0	F
+5201	570133	1	2	1	6	Alena	Potůčková			36	v domácnosti	Jeníkovice	99	1	0	F
+5201	570133	1	1	47	7	Viliam	Krovina			60	opravář	Jeníkovice	99	47	0	M
+5201	570133	1	2	1	7	Monika	Leierová			45	v domácnosti	Jeníkovice	99	1	0	F
+5201	570133	1	1	47	8	Josef	Brychta			73	důchodce	Jeníkovice	47	47	0	M
+5201	570133	1	2	1	8	Josef	Martinec			45	podnikatel	Jeníkovice	99	1	0	M
+5201	570133	1	2	1	9	Lenka	Kosařová	Ing.		32	v domácnosti	Jeníkovice	99	1	0	F

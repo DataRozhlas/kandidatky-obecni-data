@@ -1,36 +1,36 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579629	1	1	903	1	Petra	Spitzerová	F			35	provozní	Radvanice	99	80	0
-5205	579629	1	1	903	2	Petr	Pundr	M			60	důchodce	Radvanice	99	80	0
-5205	579629	1	1	903	3	Jiří	Janošík	M			24	podnikatel	Radvanice	99	80	0
-5205	579629	1	1	903	4	Veronika	Maršíková	F			40	žena v domácnosti	Radvanice	99	80	0
-5205	579629	1	1	903	5	Květa	Dufková	F			24	rodičovská dovolená	Radvanice	99	80	0
-5205	579629	1	1	903	6	Angelika	Voltrová	F			22	operátorka	Radvanice	99	80	0
-5205	579629	1	1	903	7	Veronika	Limberská	F			22	studentka	Radvanice	99	80	0
-5205	579629	1	2	901	1	Petr	Lukášek	M			36	podnikatel	Radvanice	99	80	0
-5205	579629	1	2	901	2	Renata	Mihulková	F			34	THP pracovník	Radvanice	99	80	0
-5205	579629	1	2	901	3	Rostislav	Burdych	M			40	podnikatel	Radvanice	99	80	0
-5205	579629	1	2	901	4	Hana	Stonjeková	F			37	THP pracovník	Radvanice	99	80	0
-5205	579629	1	2	901	5	Petr	Pěkný	M			35	mateřská dovolená	Radvanice	99	80	0
-5205	579629	1	2	901	6	Lenka	Lukášková	F			66	důchodce	Radvanice	99	80	0
-5205	579629	1	2	901	7	František	Volman	M			38	řidič	Radvanice	99	80	0
-5205	579629	1	2	901	8	Martin	Smyček	M			22	podnikatel	Radvanice	99	80	0
-5205	579629	1	2	901	9	Martin	Peschke	M			25	policista	Radvanice	99	80	0
-5205	579629	1	3	768	1	Tomáš	Kašpar	M			30	jednatel společnosti	Radvanice	99	768	0
-5205	579629	1	3	768	2	Julie	Burdychová	F			40	vychovatelka ve školní družině	Radvanice	99	768	0
-5205	579629	1	3	768	3	Jindřich	Gult	M			31	OSVČ	Radvanice	99	768	0
-5205	579629	1	3	768	4	Pavel	Zubričan	M			34	svářeč	Radvanice	99	768	0
-5205	579629	1	3	768	5	Jan	Novotný	M			24	zámečník	Radvanice	99	768	0
-5205	579629	1	3	768	6	Iva	Pročková	F			44	jednatelka společnosti	Radvanice	99	768	0
-5205	579629	1	3	768	7	Jiří	Pospíšil	M			25	přední montér	Radvanice	99	768	0
-5205	579629	1	3	768	8	Lenka	Kašparová	F			26	OSVČ	Radvanice	99	768	0
-5205	579629	1	3	768	9	Jan	Takáč	M			56	invalidní důchodce	Radvanice	99	768	0
-5205	579629	1	4	902	1	Štefan	Krajniak	M			47	OSVČ	Radvanice	99	80	0
-5205	579629	1	4	902	2	Pavel	Cicvárek	M			50	technik ČEZ	Radvanice	99	80	0
-5205	579629	1	4	902	3	Marcela	Krajniaková	F			43	OSVČ	Radvanice	99	80	0
-5205	579629	1	4	902	4	Tomáš	Trejtnar	M			38	podnikatel	Radvanice	99	80	0
-5205	579629	1	4	902	5	Karel	Olah	M			41	vedoucí střediska	Radvanice	99	80	0
-5205	579629	1	4	902	6	Jana	Cinková	F			56	OSVČ	Radvanice	99	80	0
-5205	579629	1	4	902	7	Tomáš	Chmelík	M			30	montér	Radvanice	99	80	0
-5205	579629	1	4	902	8	Lukáš	Krajniak	M			24	svářeč	Radvanice	99	80	0
-5205	579629	1	4	902	9	Tomáš	Němec	M			46	státní zaměstnanec	Radvanice	99	80	0
-5205	579629	1	5	7	1	Pavel	Spitzer	M			40	malíř, natěrač	Radvanice	7	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579629	1	1	903	1	Petra	Spitzerová			35	provozní	Radvanice	99	80	0	F
+5205	579629	1	2	901	1	Petr	Lukášek			36	podnikatel	Radvanice	99	80	0	M
+5205	579629	1	3	768	1	Tomáš	Kašpar			30	jednatel společnosti	Radvanice	99	768	0	M
+5205	579629	1	4	902	1	Štefan	Krajniak			47	OSVČ	Radvanice	99	80	0	M
+5205	579629	1	5	7	1	Pavel	Spitzer			40	malíř, natěrač	Radvanice	7	7	0	M
+5205	579629	1	1	903	2	Petr	Pundr			60	důchodce	Radvanice	99	80	0	M
+5205	579629	1	2	901	2	Renata	Mihulková			34	THP pracovník	Radvanice	99	80	0	F
+5205	579629	1	3	768	2	Julie	Burdychová			40	vychovatelka ve školní družině	Radvanice	99	768	0	F
+5205	579629	1	4	902	2	Pavel	Cicvárek			50	technik ČEZ	Radvanice	99	80	0	M
+5205	579629	1	1	903	3	Jiří	Janošík			24	podnikatel	Radvanice	99	80	0	M
+5205	579629	1	2	901	3	Rostislav	Burdych			40	podnikatel	Radvanice	99	80	0	M
+5205	579629	1	3	768	3	Jindřich	Gult			31	OSVČ	Radvanice	99	768	0	M
+5205	579629	1	4	902	3	Marcela	Krajniaková			43	OSVČ	Radvanice	99	80	0	F
+5205	579629	1	1	903	4	Veronika	Maršíková			40	žena v domácnosti	Radvanice	99	80	0	F
+5205	579629	1	2	901	4	Hana	Stonjeková			37	THP pracovník	Radvanice	99	80	0	F
+5205	579629	1	3	768	4	Pavel	Zubričan			34	svářeč	Radvanice	99	768	0	M
+5205	579629	1	4	902	4	Tomáš	Trejtnar			38	podnikatel	Radvanice	99	80	0	M
+5205	579629	1	1	903	5	Květa	Dufková			24	rodičovská dovolená	Radvanice	99	80	0	F
+5205	579629	1	2	901	5	Petr	Pěkný			35	mateřská dovolená	Radvanice	99	80	0	M
+5205	579629	1	3	768	5	Jan	Novotný			24	zámečník	Radvanice	99	768	0	M
+5205	579629	1	4	902	5	Karel	Olah			41	vedoucí střediska	Radvanice	99	80	0	M
+5205	579629	1	1	903	6	Angelika	Voltrová			22	operátorka	Radvanice	99	80	0	F
+5205	579629	1	2	901	6	Lenka	Lukášková			66	důchodce	Radvanice	99	80	0	F
+5205	579629	1	3	768	6	Iva	Pročková			44	jednatelka společnosti	Radvanice	99	768	0	F
+5205	579629	1	4	902	6	Jana	Cinková			56	OSVČ	Radvanice	99	80	0	F
+5205	579629	1	1	903	7	Veronika	Limberská			22	studentka	Radvanice	99	80	0	F
+5205	579629	1	2	901	7	František	Volman			38	řidič	Radvanice	99	80	0	M
+5205	579629	1	3	768	7	Jiří	Pospíšil			25	přední montér	Radvanice	99	768	0	M
+5205	579629	1	4	902	7	Tomáš	Chmelík			30	montér	Radvanice	99	80	0	M
+5205	579629	1	2	901	8	Martin	Smyček			22	podnikatel	Radvanice	99	80	0	M
+5205	579629	1	3	768	8	Lenka	Kašparová			26	OSVČ	Radvanice	99	768	0	F
+5205	579629	1	4	902	8	Lukáš	Krajniak			24	svářeč	Radvanice	99	80	0	M
+5205	579629	1	2	901	9	Martin	Peschke			25	policista	Radvanice	99	80	0	M
+5205	579629	1	3	768	9	Jan	Takáč			56	invalidní důchodce	Radvanice	99	768	0	M
+5205	579629	1	4	902	9	Tomáš	Němec			46	státní zaměstnanec	Radvanice	99	80	0	M

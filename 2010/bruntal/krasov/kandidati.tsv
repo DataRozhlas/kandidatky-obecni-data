@@ -1,39 +1,39 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	597511	1	1	47	1	Jaroslav	Fajtl	M			53	nákupčí	Krasov	47	47	0
-8101	597511	1	1	47	2	Imrich	Blažek	M			76	důchodce	Krasov	47	47	0
-8101	597511	1	1	47	3	Karel	Peška	M			59	údržbář	Krasov	47	47	0
-8101	597511	1	1	47	4	Rostislav	Surmař	M			36	dělník	Krasov	99	47	0
-8101	597511	1	1	47	5	Josef	Malíšek	M			31	zedník	Krasov	99	47	0
-8101	597511	1	2	902	1	Richard	Bajcar	M			48	technik	Krasov	99	80	0
-8101	597511	1	2	902	2	Miroslav	Stříž	M			53	zedník	Krasov	99	80	0
-8101	597511	1	2	902	3	Martin	Jurášek	M			46	živnostník	Krasov	99	80	0
-8101	597511	1	2	902	4	Josef	Kilhof	M	Ing.		54	OSVČ	Krasov	99	80	0
-8101	597511	1	2	902	5	Milan	Baran	M			41	zedník	Krasov	99	80	0
-8101	597511	1	2	902	6	Martin	Červenka	M			33	dělník	Krasov	99	80	0
-8101	597511	1	2	902	7	Vilém	Bravanský	M			40	řidič	Krasov	99	80	0
-8101	597511	1	2	902	8	Gerhard	Otava	M			70	důchodce	Krasov	99	80	0
-8101	597511	1	3	901	1	Petr	Jelínek	M			54	starosta	Krasov	99	80	0
-8101	597511	1	3	901	2	Jana	Kosorová	F			46	OSVČ	Krasov	99	80	0
-8101	597511	1	3	901	3	Věra	Smoloňová	F			54	prodavačka	Krasov	99	80	0
-8101	597511	1	3	901	4	Milan	Mohelník	M			37	OSVČ	Krasov	99	80	0
-8101	597511	1	3	901	5	Monika	Baranová	F			34	OSVČ	Krasov	99	80	0
-8101	597511	1	3	901	6	Miroslav	Kucharski	M			34	horizontař	Krasov	99	80	0
-8101	597511	1	3	901	7	Zdeněk	Mališ	M			52	zámečník	Krasov	99	80	0
-8101	597511	1	3	901	8	Miroslav	Novák	M			60	důchodce	Krasov	99	80	0
-8101	597511	1	3	901	9	Roman	Smoloň	M			34	strážník M.P.	Krasov	99	80	0
-8101	597511	1	4	166	1	Kateřina	Lorišová	F			33	OSVČ	Krasov	99	166	0
-8101	597511	1	4	166	2	Petra	Dočkalová	F			36	advokátka	Krasov	99	166	0
-8101	597511	1	4	166	3	Danuše	Němcová	F			62	OSVČ	Krasov	99	166	0
-8101	597511	1	4	166	4	Robert	Vinzenz	M			35	státní zaměstnanec	Krasov	99	166	0
-8101	597511	1	4	166	5	Josef	Janšta	M			45	mistr	Krasov	99	166	0
-8101	597511	1	4	166	6	Lucie	Rožanská	F			21	studentka VŠ	Krasov	99	166	0
-8101	597511	1	4	166	7	Josef	Janšta	M			21	traktorista	Krasov	99	166	0
-8101	597511	1	4	166	8	Hana	Sikorová	F			19	chovatelka koní	Krasov	99	166	0
-8101	597511	1	4	166	9	Kateřina	Synková	F			26	asistentka	Krasov	99	166	0
-8101	597511	1	5	903	1	Lukáš	Vyleťal	M			28	referent	Krasov	99	80	0
-8101	597511	1	5	903	2	Lukáš	Grůza	M	Mgr.		25	etnolog	Krasov	99	80	0
-8101	597511	1	5	903	3	Miroslav	Engel	M			30	středoškolský učitel	Krasov	99	80	0
-8101	597511	1	5	903	4	Petr	Kuchta	M			27	automechanik	Krasov	99	80	0
-8101	597511	1	5	903	5	Marcela	Grůzová	F			48	kuchařka	Krasov	99	80	0
-8101	597511	1	5	903	6	Jaromír	Macka	M	Ing.		77	důchodce	Krasov	99	80	0
-8101	597511	1	5	903	7	Dagmar	Baranová	F			59	důchodkyně	Krasov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	597511	1	1	47	1	Jaroslav	Fajtl			53	nákupčí	Krasov	47	47	0	M
+8101	597511	1	2	902	1	Richard	Bajcar			48	technik	Krasov	99	80	0	M
+8101	597511	1	3	901	1	Petr	Jelínek			54	starosta	Krasov	99	80	0	M
+8101	597511	1	4	166	1	Kateřina	Lorišová			33	OSVČ	Krasov	99	166	0	F
+8101	597511	1	5	903	1	Lukáš	Vyleťal			28	referent	Krasov	99	80	0	M
+8101	597511	1	1	47	2	Imrich	Blažek			76	důchodce	Krasov	47	47	0	M
+8101	597511	1	2	902	2	Miroslav	Stříž			53	zedník	Krasov	99	80	0	M
+8101	597511	1	3	901	2	Jana	Kosorová			46	OSVČ	Krasov	99	80	0	F
+8101	597511	1	4	166	2	Petra	Dočkalová			36	advokátka	Krasov	99	166	0	F
+8101	597511	1	5	903	2	Lukáš	Grůza	Mgr.		25	etnolog	Krasov	99	80	0	M
+8101	597511	1	1	47	3	Karel	Peška			59	údržbář	Krasov	47	47	0	M
+8101	597511	1	2	902	3	Martin	Jurášek			46	živnostník	Krasov	99	80	0	M
+8101	597511	1	3	901	3	Věra	Smoloňová			54	prodavačka	Krasov	99	80	0	F
+8101	597511	1	4	166	3	Danuše	Němcová			62	OSVČ	Krasov	99	166	0	F
+8101	597511	1	5	903	3	Miroslav	Engel			30	středoškolský učitel	Krasov	99	80	0	M
+8101	597511	1	1	47	4	Rostislav	Surmař			36	dělník	Krasov	99	47	0	M
+8101	597511	1	2	902	4	Josef	Kilhof	Ing.		54	OSVČ	Krasov	99	80	0	M
+8101	597511	1	3	901	4	Milan	Mohelník			37	OSVČ	Krasov	99	80	0	M
+8101	597511	1	4	166	4	Robert	Vinzenz			35	státní zaměstnanec	Krasov	99	166	0	M
+8101	597511	1	5	903	4	Petr	Kuchta			27	automechanik	Krasov	99	80	0	M
+8101	597511	1	1	47	5	Josef	Malíšek			31	zedník	Krasov	99	47	0	M
+8101	597511	1	2	902	5	Milan	Baran			41	zedník	Krasov	99	80	0	M
+8101	597511	1	3	901	5	Monika	Baranová			34	OSVČ	Krasov	99	80	0	F
+8101	597511	1	4	166	5	Josef	Janšta			45	mistr	Krasov	99	166	0	M
+8101	597511	1	5	903	5	Marcela	Grůzová			48	kuchařka	Krasov	99	80	0	F
+8101	597511	1	2	902	6	Martin	Červenka			33	dělník	Krasov	99	80	0	M
+8101	597511	1	3	901	6	Miroslav	Kucharski			34	horizontař	Krasov	99	80	0	M
+8101	597511	1	4	166	6	Lucie	Rožanská			21	studentka VŠ	Krasov	99	166	0	F
+8101	597511	1	5	903	6	Jaromír	Macka	Ing.		77	důchodce	Krasov	99	80	0	M
+8101	597511	1	2	902	7	Vilém	Bravanský			40	řidič	Krasov	99	80	0	M
+8101	597511	1	3	901	7	Zdeněk	Mališ			52	zámečník	Krasov	99	80	0	M
+8101	597511	1	4	166	7	Josef	Janšta			21	traktorista	Krasov	99	166	0	M
+8101	597511	1	5	903	7	Dagmar	Baranová			59	důchodkyně	Krasov	99	80	0	F
+8101	597511	1	2	902	8	Gerhard	Otava			70	důchodce	Krasov	99	80	0	M
+8101	597511	1	3	901	8	Miroslav	Novák			60	důchodce	Krasov	99	80	0	M
+8101	597511	1	4	166	8	Hana	Sikorová			19	chovatelka koní	Krasov	99	166	0	F
+8101	597511	1	3	901	9	Roman	Smoloň			34	strážník M.P.	Krasov	99	80	0	M
+8101	597511	1	4	166	9	Kateřina	Synková			26	asistentka	Krasov	99	166	0	F

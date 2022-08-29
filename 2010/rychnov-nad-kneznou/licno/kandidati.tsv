@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5204	576468	1	1	902	1	Tomáš	Vilímek	M	Bc.		46	státní zaměstnanec	Lično	99	80	0
-5204	576468	1	1	902	2	František	Talavašek	M	Bc.		52	úředník	Lično	99	80	0
-5204	576468	1	1	902	3	Martina	Ludvíková	F	Ing.		34	projektový manažer	Ostašovice	99	80	0
-5204	576468	1	1	902	4	Jan	Plašil	M	Mgr.		30	učitel	Lično	99	80	0
-5204	576468	1	1	902	5	Roman	Škop	M			43	vedoucí MTZ	Lično	99	80	0
-5204	576468	1	1	902	6	Hana	Kocmanová	F			33	soukromá podnikatelka	Lično	99	80	0
-5204	576468	1	1	902	7	Jaroslav	Tomas	M			36	technik pneuservisu	Lično	99	80	0
-5204	576468	1	1	902	8	Monika	Hejnová	F			38	účetní	Lično	99	80	0
-5204	576468	1	1	902	9	Alena	Padriánová	F			54	účetní	Lično	99	80	0
-5204	576468	1	2	901	1	Jan	Voda	M			58	strojní technik	Lično	99	80	0
-5204	576468	1	2	901	2	Petr	Dokulil	M			40	hasič	Lično	99	80	0
-5204	576468	1	2	901	3	Marie	Jarkovská	F			38	vychovatelka	Lično	99	80	0
-5204	576468	1	2	901	4	Josef	Tošovský	M	Ing.		42	velitel pož. stanice RK	Lično	99	80	0
-5204	576468	1	2	901	5	Josef	Janeček	M			54	soukromý podnikatel	Radostovice	99	80	0
-5204	576468	1	2	901	6	Helena	Faltová	F	Mgr.		44	profesorka gymnázia RK	Lično	99	80	0
-5204	576468	1	2	901	7	Jiří	Kaiser	M			44	technický pracovník	Lično	99	80	0
-5204	576468	1	2	901	8	Dušan	Doležal	M			32	soukromý podnikatel	Ostašovice	99	80	0
-5204	576468	1	2	901	9	Vladimír	Hejna	M			54	soukromý podnikatel	Lično	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5204	576468	1	1	902	1	Tomáš	Vilímek	Bc.		46	státní zaměstnanec	Lično	99	80	0	M
+5204	576468	1	2	901	1	Jan	Voda			58	strojní technik	Lično	99	80	0	M
+5204	576468	1	1	902	2	František	Talavašek	Bc.		52	úředník	Lično	99	80	0	M
+5204	576468	1	2	901	2	Petr	Dokulil			40	hasič	Lično	99	80	0	M
+5204	576468	1	1	902	3	Martina	Ludvíková	Ing.		34	projektový manažer	Ostašovice	99	80	0	F
+5204	576468	1	2	901	3	Marie	Jarkovská			38	vychovatelka	Lično	99	80	0	F
+5204	576468	1	1	902	4	Jan	Plašil	Mgr.		30	učitel	Lično	99	80	0	M
+5204	576468	1	2	901	4	Josef	Tošovský	Ing.		42	velitel pož. stanice RK	Lično	99	80	0	M
+5204	576468	1	1	902	5	Roman	Škop			43	vedoucí MTZ	Lično	99	80	0	M
+5204	576468	1	2	901	5	Josef	Janeček			54	soukromý podnikatel	Radostovice	99	80	0	M
+5204	576468	1	1	902	6	Hana	Kocmanová			33	soukromá podnikatelka	Lično	99	80	0	F
+5204	576468	1	2	901	6	Helena	Faltová	Mgr.		44	profesorka gymnázia RK	Lično	99	80	0	F
+5204	576468	1	1	902	7	Jaroslav	Tomas			36	technik pneuservisu	Lično	99	80	0	M
+5204	576468	1	2	901	7	Jiří	Kaiser			44	technický pracovník	Lično	99	80	0	M
+5204	576468	1	1	902	8	Monika	Hejnová			38	účetní	Lično	99	80	0	F
+5204	576468	1	2	901	8	Dušan	Doležal			32	soukromý podnikatel	Ostašovice	99	80	0	M
+5204	576468	1	1	902	9	Alena	Padriánová			54	účetní	Lično	99	80	0	F
+5204	576468	1	2	901	9	Vladimír	Hejna			54	soukromý podnikatel	Lično	99	80	0	M

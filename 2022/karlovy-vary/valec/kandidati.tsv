@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4102	555690	1	1	720	1	Nikola	Kassl	F	Mgr.		34	regionální koordinátorka výzkumného projektu	Valeč	720	720	A
-4102	555690	1	1	720	2	Jiří Metod	Kassl	M			49	producent	Valeč	720	720	A
-4102	555690	1	1	720	3	Jiří	Navrátil	M			42	lesní dělník	Valeč	720	720	A
-4102	555690	1	1	720	4	Jan	Stehlík	M	Ing.		39	projektový manažer SUSE Linux	Valeč	99	720	A
-4102	555690	1	1	720	5	Jiří	Hýř	M			73	badatel	Valeč	99	720	A
-4102	555690	1	1	720	6	František	Michel	M			76	legendární dřevorubec	Valeč	99	720	A
-4102	555690	1	1	720	7	Šárka	Švabergová	F			53	vedoucí školní jídelny	Valeč	99	720	A
-4102	555690	1	1	720	8	Monika	Pohlodková	F			49	v domácnosti	Valeč	99	720	A
-4102	555690	1	1	720	9	Zdeněk	Mach	M	Ing.		66	manažer	Valeč	99	720	A
-4102	555690	1	2	903	1	Josef	Novák	M			58	OSVČ, správce bytových domů	Valeč	99	80	A
-4102	555690	1	2	903	2	Milan	Jedlička	M			38	číšník	Valeč	99	80	A
-4102	555690	1	2	903	3	Lucie	Nováková	F			29	učitelka MŠ Valeč	Valeč	99	80	A
-4102	555690	1	2	903	4	Stanislav	Zatloukal	M			45	lesní dělník	Velký Hlavákov	99	80	A
-4102	555690	1	2	903	5	Markéta	Palicsková	F			33	mateřská dovolená	Kostrčany	99	80	A
-4102	555690	1	2	903	6	Vojtěch	Veselý	M	Mgr.		43	agroekologický farmář	Valeč	720	80	A
-4102	555690	1	2	903	7	Dušan	Kanči	M			66	důchodce	Valeč	99	80	A
-4102	555690	1	2	903	8	Jiří	Holubec	M			65	důchodce	Valeč	99	80	A
-4102	555690	1	2	903	9	Jan	Havelka	M			38	realitní makléř, hudebník	Valeč	99	80	A
-4102	555690	1	3	901	1	Michaela	Holubcová	F			38	starostka	Jeřeň	99	80	A
-4102	555690	1	3	901	2	Matěj	Dudek	M			44	soukromý zemědělec	Velký Hlavákov	99	80	A
-4102	555690	1	3	901	3	Josef	Kubař	M			67	důchodce	Valeč	47	80	A
-4102	555690	1	3	901	4	Aleš	Kubísek	M			69	stavební technik	Valeč	99	80	A
-4102	555690	1	3	901	5	Jozef	Klus	M			63	zemědělský technik	Valeč	99	80	A
-4102	555690	1	3	901	6	Lucie	Holubcová	F			39	poštovní administrátorka	Valeč	99	80	A
-4102	555690	1	3	901	7	Lenka	Koubková	F			51	specialista podpory obchodu	Nahořečice	99	80	A
-4102	555690	1	3	901	8	Tereza	Vantuchová	F			20	studentka	Valeč	99	80	A
-4102	555690	1	3	901	9	Marcela	Včeláková	F			57	vedoucí oblastní pošty	Valeč	99	80	A
-4102	555690	1	4	902	1	Tomáš	Petr	M	Ing.		44	kastelán zámku Valeč, místostarosta	Valeč	99	80	A
-4102	555690	1	4	902	2	Barbora	Tichá	F	Mgr.		37	organizátorka kulturních akcí, rodičovská dovolená	Valeč	99	80	A
-4102	555690	1	4	902	3	Roman	Bartoň	M	Ing.		37	fotograf, organizátor Zcestovalce, redaktor Valečského týdeníku	Valeč	99	80	A
-4102	555690	1	4	902	4	Jakub	Hadrava	M	MgA.		37	sochař, zemědělec	Valeč	99	80	A
-4102	555690	1	4	902	5	Markéta	Petrová	F	Mgr.		35	právník, předsedkyně Klubu českých turistů Barokní Valeč, rodičovská dovolená	Valeč	99	80	A
-4102	555690	1	4	902	6	Vojtěch	Vasko	M	Bc.		33	spolumajitel Pivovaru Valeč, hudebník	Valeč	99	80	A
-4102	555690	1	4	902	7	Květoslav	Dragoun	M			40	zahradník	Valeč	99	80	A
-4102	555690	1	4	902	8	Irena	Kubísková	F			64	důchodkyně	Valeč	99	80	A
-4102	555690	1	4	902	9	Eliška	Martínková	F	Ing. arch.		28	architektka	Valeč	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4102	555690	1	1	720	1	Nikola	Kassl	Mgr.		34	regionální koordinátorka výzkumného projektu	Valeč	720	720	A	F
+4102	555690	1	2	903	1	Josef	Novák			58	OSVČ, správce bytových domů	Valeč	99	80	A	M
+4102	555690	1	3	901	1	Michaela	Holubcová			38	starostka	Jeřeň	99	80	A	F
+4102	555690	1	4	902	1	Tomáš	Petr	Ing.		44	kastelán zámku Valeč, místostarosta	Valeč	99	80	A	M
+4102	555690	1	1	720	2	Jiří Metod	Kassl			49	producent	Valeč	720	720	A	M
+4102	555690	1	2	903	2	Milan	Jedlička			38	číšník	Valeč	99	80	A	M
+4102	555690	1	3	901	2	Matěj	Dudek			44	soukromý zemědělec	Velký Hlavákov	99	80	A	M
+4102	555690	1	4	902	2	Barbora	Tichá	Mgr.		37	organizátorka kulturních akcí, rodičovská dovolená	Valeč	99	80	A	F
+4102	555690	1	1	720	3	Jiří	Navrátil			42	lesní dělník	Valeč	720	720	A	M
+4102	555690	1	2	903	3	Lucie	Nováková			29	učitelka MŠ Valeč	Valeč	99	80	A	F
+4102	555690	1	3	901	3	Josef	Kubař			67	důchodce	Valeč	47	80	A	M
+4102	555690	1	4	902	3	Roman	Bartoň	Ing.		37	fotograf, organizátor Zcestovalce, redaktor Valečského týdeníku	Valeč	99	80	A	M
+4102	555690	1	1	720	4	Jan	Stehlík	Ing.		39	projektový manažer SUSE Linux	Valeč	99	720	A	M
+4102	555690	1	2	903	4	Stanislav	Zatloukal			45	lesní dělník	Velký Hlavákov	99	80	A	M
+4102	555690	1	3	901	4	Aleš	Kubísek			69	stavební technik	Valeč	99	80	A	M
+4102	555690	1	4	902	4	Jakub	Hadrava	MgA.		37	sochař, zemědělec	Valeč	99	80	A	M
+4102	555690	1	1	720	5	Jiří	Hýř			73	badatel	Valeč	99	720	A	M
+4102	555690	1	2	903	5	Markéta	Palicsková			33	mateřská dovolená	Kostrčany	99	80	A	F
+4102	555690	1	3	901	5	Jozef	Klus			63	zemědělský technik	Valeč	99	80	A	M
+4102	555690	1	4	902	5	Markéta	Petrová	Mgr.		35	právník, předsedkyně Klubu českých turistů Barokní Valeč, rodičovská dovolená	Valeč	99	80	A	F
+4102	555690	1	1	720	6	František	Michel			76	legendární dřevorubec	Valeč	99	720	A	M
+4102	555690	1	2	903	6	Vojtěch	Veselý	Mgr.		43	agroekologický farmář	Valeč	720	80	A	M
+4102	555690	1	3	901	6	Lucie	Holubcová			39	poštovní administrátorka	Valeč	99	80	A	F
+4102	555690	1	4	902	6	Vojtěch	Vasko	Bc.		33	spolumajitel Pivovaru Valeč, hudebník	Valeč	99	80	A	M
+4102	555690	1	1	720	7	Šárka	Švabergová			53	vedoucí školní jídelny	Valeč	99	720	A	F
+4102	555690	1	2	903	7	Dušan	Kanči			66	důchodce	Valeč	99	80	A	M
+4102	555690	1	3	901	7	Lenka	Koubková			51	specialista podpory obchodu	Nahořečice	99	80	A	F
+4102	555690	1	4	902	7	Květoslav	Dragoun			40	zahradník	Valeč	99	80	A	M
+4102	555690	1	1	720	8	Monika	Pohlodková			49	v domácnosti	Valeč	99	720	A	F
+4102	555690	1	2	903	8	Jiří	Holubec			65	důchodce	Valeč	99	80	A	M
+4102	555690	1	3	901	8	Tereza	Vantuchová			20	studentka	Valeč	99	80	A	F
+4102	555690	1	4	902	8	Irena	Kubísková			64	důchodkyně	Valeč	99	80	A	F
+4102	555690	1	1	720	9	Zdeněk	Mach	Ing.		66	manažer	Valeč	99	720	A	M
+4102	555690	1	2	903	9	Jan	Havelka			38	realitní makléř, hudebník	Valeč	99	80	A	M
+4102	555690	1	3	901	9	Marcela	Včeláková			57	vedoucí oblastní pošty	Valeč	99	80	A	F
+4102	555690	1	4	902	9	Eliška	Martínková	Ing. arch.		28	architektka	Valeč	99	80	A	F

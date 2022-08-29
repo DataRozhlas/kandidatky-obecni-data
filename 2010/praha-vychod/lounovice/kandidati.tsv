@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2109	538451	1	1	902	1	Josef	Řehák	M	Ing.		50	ředitel lesní správy	Louňovice	99	80	0
-2109	538451	1	1	902	2	Jiří	Peterka	M	Bc.		25	podnikatel a studující	Louňovice	53	80	0
-2109	538451	1	1	902	3	Zdeněk	Drátovský	M	Ing.		59	živnostník	Louňovice	99	80	0
-2109	538451	1	1	902	4	Jiří	Heš	M	Ing.		59	předseda představenstva	Louňovice	99	80	0
-2109	538451	1	1	902	5	Dana	Velechovská	F			48	koordinátorka	Louňovice	99	80	0
-2109	538451	1	1	902	6	Božena	Petruželová	F			48	obchodní manager	Louňovice	99	80	0
-2109	538451	1	1	902	7	František	Lebeda	M	Ing.		49	podnikatel	Louňovice	99	80	0
-2109	538451	1	1	902	8	Jaroslav	Slezák	M	Ing.		46	podnikatel	Louňovice	99	80	0
-2109	538451	1	1	902	9	Jiří	Formánek	M			56	podnikatel	Louňovice	99	80	0
-2109	538451	1	2	901	1	Lenka	Němcová	F	Mgr.		32	právnička	Louňovice	99	80	0
-2109	538451	1	2	901	2	Oleg	Svatoš	M	Ing.		31	finanční analytik	Louňovice	99	80	0
-2109	538451	1	2	901	3	Jiří	Štibingr	M	Ing.		40	prodejní specialista	Louňovice	99	80	0
-2109	538451	1	2	901	4	Miroslav	Daneš	M			59	dělník	Louňovice	99	80	0
-2109	538451	1	2	901	5	Zdeňka	Hlávková	F			52	podnikatel	Louňovice	99	80	0
-2109	538451	1	2	901	6	Jan	Henc	M			48	podnikatel	Louňovice	99	80	0
-2109	538451	1	2	901	7	Alice	Krčová	F			45	realitní makléř	Louňovice	99	80	0
-2109	538451	1	2	901	8	Petr	Toman	M			37	podnikatel	Louňovice	99	80	0
-2109	538451	1	2	901	9	Marie	Boudová	F			59	úřednice	Louňovice	99	80	0
-2109	538451	1	3	903	1	Miroslava	Samcová	F	Mgr.		32	právnička	Louňovice	99	80	0
-2109	538451	1	3	903	2	Bohumil	Paleček	M			53	konstruktér	Louňovice	99	80	0
-2109	538451	1	3	903	3	Ondřej	Holoubek	M			37	výrobce hudebních nástrojů	Louňovice	99	80	0
-2109	538451	1	3	903	4	Monika	Vosková	F	PhDr.		58	VŠ učitelka	Louňovice	99	80	0
-2109	538451	1	3	903	5	Miloslava	Václavíková	F			63	vedoucí pracovnice PSSZ	Louňovice	99	80	0
-2109	538451	1	3	903	6	Hana	Kučerová	F			33	pracovnice v logistice	Louňovice	99	80	1
-2109	538451	1	3	903	7	Karolína	Kyselá	F			35	grafička	Louňovice	99	80	0
-2109	538451	1	3	903	8	Blanka	Lázničková	F	Bc.		30	MŠ učitelka	Louňovice	99	80	1
-2109	538451	1	3	903	9	Zuzana	Ungerová	F			38	finanční účetní	Louňovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2109	538451	1	1	902	1	Josef	Řehák	Ing.		50	ředitel lesní správy	Louňovice	99	80	0	M
+2109	538451	1	2	901	1	Lenka	Němcová	Mgr.		32	právnička	Louňovice	99	80	0	F
+2109	538451	1	3	903	1	Miroslava	Samcová	Mgr.		32	právnička	Louňovice	99	80	0	F
+2109	538451	1	1	902	2	Jiří	Peterka	Bc.		25	podnikatel a studující	Louňovice	53	80	0	M
+2109	538451	1	2	901	2	Oleg	Svatoš	Ing.		31	finanční analytik	Louňovice	99	80	0	M
+2109	538451	1	3	903	2	Bohumil	Paleček			53	konstruktér	Louňovice	99	80	0	M
+2109	538451	1	1	902	3	Zdeněk	Drátovský	Ing.		59	živnostník	Louňovice	99	80	0	M
+2109	538451	1	2	901	3	Jiří	Štibingr	Ing.		40	prodejní specialista	Louňovice	99	80	0	M
+2109	538451	1	3	903	3	Ondřej	Holoubek			37	výrobce hudebních nástrojů	Louňovice	99	80	0	M
+2109	538451	1	1	902	4	Jiří	Heš	Ing.		59	předseda představenstva	Louňovice	99	80	0	M
+2109	538451	1	2	901	4	Miroslav	Daneš			59	dělník	Louňovice	99	80	0	M
+2109	538451	1	3	903	4	Monika	Vosková	PhDr.		58	VŠ učitelka	Louňovice	99	80	0	F
+2109	538451	1	1	902	5	Dana	Velechovská			48	koordinátorka	Louňovice	99	80	0	F
+2109	538451	1	2	901	5	Zdeňka	Hlávková			52	podnikatel	Louňovice	99	80	0	F
+2109	538451	1	3	903	5	Miloslava	Václavíková			63	vedoucí pracovnice PSSZ	Louňovice	99	80	0	F
+2109	538451	1	1	902	6	Božena	Petruželová			48	obchodní manager	Louňovice	99	80	0	F
+2109	538451	1	2	901	6	Jan	Henc			48	podnikatel	Louňovice	99	80	0	M
+2109	538451	1	3	903	6	Hana	Kučerová			33	pracovnice v logistice	Louňovice	99	80	1	F
+2109	538451	1	1	902	7	František	Lebeda	Ing.		49	podnikatel	Louňovice	99	80	0	M
+2109	538451	1	2	901	7	Alice	Krčová			45	realitní makléř	Louňovice	99	80	0	F
+2109	538451	1	3	903	7	Karolína	Kyselá			35	grafička	Louňovice	99	80	0	F
+2109	538451	1	1	902	8	Jaroslav	Slezák	Ing.		46	podnikatel	Louňovice	99	80	0	M
+2109	538451	1	2	901	8	Petr	Toman			37	podnikatel	Louňovice	99	80	0	M
+2109	538451	1	3	903	8	Blanka	Lázničková	Bc.		30	MŠ učitelka	Louňovice	99	80	1	F
+2109	538451	1	1	902	9	Jiří	Formánek			56	podnikatel	Louňovice	99	80	0	M
+2109	538451	1	2	901	9	Marie	Boudová			59	úřednice	Louňovice	99	80	0	F
+2109	538451	1	3	903	9	Zuzana	Ungerová			38	finanční účetní	Louňovice	99	80	0	F

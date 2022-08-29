@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589713	1	1	801	1	Petr	Dostál	M	Ing.		32	podnikatel	Malé Hradisko	99	80	0
-7103	589713	1	2	167	1	František	Grulich	M			52	starosta	Malé Hradisko	99	167	0
-7103	589713	1	2	167	2	Jaroslav	Novotný	M			33	technik	Malé Hradisko	99	167	0
-7103	589713	1	2	167	3	Marián	Fiedler	M			34	technik	Malé Hradisko	99	167	0
-7103	589713	1	2	167	4	Miloš	Žampach	M			50	zámečník	Malé Hradisko	99	167	0
-7103	589713	1	2	167	5	Pavel	Badal	M			38	lesník	Malé Hradisko-Okluky	99	167	0
-7103	589713	1	2	167	6	Daniel	Mudroch	M			34	technik	Malé Hradisko	99	167	0
-7103	589713	1	2	167	7	Josef	Matonoha	M			56	strojvedoucí	Malé Hradisko	99	167	0
-7103	589713	1	2	167	8	Marie	Pospíšilová	F			44	švadlena	Malé Hradisko	99	167	0
-7103	589713	1	2	167	9	František	Komínek	M			42	soukrpmý podnikatel	Malé Hradisko	99	167	0
-7103	589713	1	3	47	1	Alexander	Trunečka	M			63	důchodce	Malé Hradisko	99	47	0
-7103	589713	1	3	47	2	Vojtěch	Kolísek	M			59	dělník	Malé Hradisko	47	47	0
-7103	589713	1	3	47	3	Bedřich	Grulich	M			74	důchodce	Malé Hradisko	47	47	0
-7103	589713	1	3	47	4	Zdeněk	Hejmala	M			49	podnikatel	Malé Hradisko	99	47	0
-7103	589713	1	3	47	5	František	Žampach	M			57	strojní zámečník	Malé Hradisko	99	47	0
-7103	589713	1	3	47	6	Augustin	Mazal	M			56	elektromechanik	Malé Hradisko	99	47	0
-7103	589713	1	3	47	7	František	Procházka	M			56	automechanik	Malé Hradisko	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589713	1	1	801	1	Petr	Dostál	Ing.		32	podnikatel	Malé Hradisko	99	80	0	M
+7103	589713	1	2	167	1	František	Grulich			52	starosta	Malé Hradisko	99	167	0	M
+7103	589713	1	3	47	1	Alexander	Trunečka			63	důchodce	Malé Hradisko	99	47	0	M
+7103	589713	1	2	167	2	Jaroslav	Novotný			33	technik	Malé Hradisko	99	167	0	M
+7103	589713	1	3	47	2	Vojtěch	Kolísek			59	dělník	Malé Hradisko	47	47	0	M
+7103	589713	1	2	167	3	Marián	Fiedler			34	technik	Malé Hradisko	99	167	0	M
+7103	589713	1	3	47	3	Bedřich	Grulich			74	důchodce	Malé Hradisko	47	47	0	M
+7103	589713	1	2	167	4	Miloš	Žampach			50	zámečník	Malé Hradisko	99	167	0	M
+7103	589713	1	3	47	4	Zdeněk	Hejmala			49	podnikatel	Malé Hradisko	99	47	0	M
+7103	589713	1	2	167	5	Pavel	Badal			38	lesník	Malé Hradisko-Okluky	99	167	0	M
+7103	589713	1	3	47	5	František	Žampach			57	strojní zámečník	Malé Hradisko	99	47	0	M
+7103	589713	1	2	167	6	Daniel	Mudroch			34	technik	Malé Hradisko	99	167	0	M
+7103	589713	1	3	47	6	Augustin	Mazal			56	elektromechanik	Malé Hradisko	99	47	0	M
+7103	589713	1	2	167	7	Josef	Matonoha			56	strojvedoucí	Malé Hradisko	99	167	0	M
+7103	589713	1	3	47	7	František	Procházka			56	automechanik	Malé Hradisko	99	47	0	M
+7103	589713	1	2	167	8	Marie	Pospíšilová			44	švadlena	Malé Hradisko	99	167	0	F
+7103	589713	1	2	167	9	František	Komínek			42	soukrpmý podnikatel	Malé Hradisko	99	167	0	M

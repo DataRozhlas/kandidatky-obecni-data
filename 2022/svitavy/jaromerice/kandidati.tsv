@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	578151	1	1	901	1	Iveta	Glocová	F	Mgr.		55	starostka	Jaroměřice	99	80	A
-5303	578151	1	1	901	2	Stanislav	Kosík	M			40	konstruktér	Jaroměřice	99	80	A
-5303	578151	1	1	901	3	Radek	Sekyra	M			49	OSVČ	Jaroměřice	99	80	A
-5303	578151	1	1	901	4	Jan	Zuzčák	M			43	vedoucí logistiky	Jaroměřice	99	80	A
-5303	578151	1	1	901	5	Andrea	Dosedlová	F			46	vedoucí pošty	Jaroměřice	99	80	A
-5303	578151	1	1	901	6	Vlastimil	Matocha	M			49	OSVČ	Jaroměřice	99	80	A
-5303	578151	1	1	901	7	Martina	Továrková	F	Mgr.		49	učitelka	Jaroměřice	99	80	A
-5303	578151	1	1	901	8	Jan	Hrbata	M			68	důchodce	Jaroměřice	99	80	A
-5303	578151	1	1	901	9	Petr	Bombera	M			42	OSVČ	Jaroměřice	99	80	A
-5303	578151	1	2	902	1	Petr	Nečekal	M			39	obchodní ředitel	Nový Dvůr	99	80	A
-5303	578151	1	2	902	2	Tereza	Crháková	F		DiS.	31	zdravotní sestra	Jaroměřice	99	80	A
-5303	578151	1	2	902	3	Stanislav	Pazdírek	M			35	údržbář	Nový Dvůr	99	80	A
-5303	578151	1	2	902	4	Pavel	Soural	M			35	technik	Jaroměřice	99	80	A
-5303	578151	1	2	902	5	Jana	Šabatková	F			37	administrativní pracovnice	Jaroměřice	99	80	A
-5303	578151	1	2	902	6	Jaroslav	Havlíček	M		DiS.	38	dělník	Nový Dvůr	99	80	A
-5303	578151	1	2	902	7	Irena	Štaffová	F	Mgr.		55	učitelka střední školy	Jaroměřice	99	80	A
-5303	578151	1	2	902	8	Luděk	Knoll	M			32	obchodní zástupce	Jaroměřice	99	80	A
-5303	578151	1	2	902	9	Miroslava	Oslizlá	F	Bc.		38	laborantka	Jaroměřice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	578151	1	1	901	1	Iveta	Glocová	Mgr.		55	starostka	Jaroměřice	99	80	A	F
+5303	578151	1	2	902	1	Petr	Nečekal			39	obchodní ředitel	Nový Dvůr	99	80	A	M
+5303	578151	1	1	901	2	Stanislav	Kosík			40	konstruktér	Jaroměřice	99	80	A	M
+5303	578151	1	2	902	2	Tereza	Crháková		DiS.	31	zdravotní sestra	Jaroměřice	99	80	A	F
+5303	578151	1	1	901	3	Radek	Sekyra			49	OSVČ	Jaroměřice	99	80	A	M
+5303	578151	1	2	902	3	Stanislav	Pazdírek			35	údržbář	Nový Dvůr	99	80	A	M
+5303	578151	1	1	901	4	Jan	Zuzčák			43	vedoucí logistiky	Jaroměřice	99	80	A	M
+5303	578151	1	2	902	4	Pavel	Soural			35	technik	Jaroměřice	99	80	A	M
+5303	578151	1	1	901	5	Andrea	Dosedlová			46	vedoucí pošty	Jaroměřice	99	80	A	F
+5303	578151	1	2	902	5	Jana	Šabatková			37	administrativní pracovnice	Jaroměřice	99	80	A	F
+5303	578151	1	1	901	6	Vlastimil	Matocha			49	OSVČ	Jaroměřice	99	80	A	M
+5303	578151	1	2	902	6	Jaroslav	Havlíček		DiS.	38	dělník	Nový Dvůr	99	80	A	M
+5303	578151	1	1	901	7	Martina	Továrková	Mgr.		49	učitelka	Jaroměřice	99	80	A	F
+5303	578151	1	2	902	7	Irena	Štaffová	Mgr.		55	učitelka střední školy	Jaroměřice	99	80	A	F
+5303	578151	1	1	901	8	Jan	Hrbata			68	důchodce	Jaroměřice	99	80	A	M
+5303	578151	1	2	902	8	Luděk	Knoll			32	obchodní zástupce	Jaroměřice	99	80	A	M
+5303	578151	1	1	901	9	Petr	Bombera			42	OSVČ	Jaroměřice	99	80	A	M
+5303	578151	1	2	902	9	Miroslava	Oslizlá	Bc.		38	laborantka	Jaroměřice	99	80	A	F

@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3206	560235	1	1	901	1	Petr	Holba	M			48	vedoucí projektu	Veselá	99	80	A
-3206	560235	1	1	901	2	Pavel	Planeta	M			48	zámečník	Veselá	99	80	A
-3206	560235	1	1	901	3	Vlastimil	Ungr	M			46	plný invalidní důchod	Veselá	99	80	A
-3206	560235	1	1	901	4	Irena	Planetová	F			27	mateřská dovolená	Veselá	99	80	A
-3206	560235	1	1	901	5	Vít	Ungr	M			18	student	Veselá	99	80	A
-3206	560235	1	1	901	6	Daniel	Benešovský	M			21	dělník	Veselá	99	80	A
-3206	560235	1	1	901	7	Václav	Kieveg	M			31	předák výroby	Veselá	99	80	A
-3206	560235	1	2	902	1	Luboš	Beran	M			42	OSVČ	Veselá	99	80	A
-3206	560235	1	2	902	2	Jiří	Poborský	M			42	prodejce vozidel	Veselá	99	80	A
-3206	560235	1	2	902	3	Lucie	Pezlarová	F			34	administrativní pracovnice	Veselá	99	80	A
-3206	560235	1	3	903	1	Pavel	Rybař	M			42	OSVČ	Veselá	99	80	A
-3206	560235	1	3	903	2	Milan	Větrovec	M	Bc.		44	státní zaměstnanec	Veselá	99	80	A
-3206	560235	1	3	903	3	Tomáš	Pezlar	M			44	OSVČ	Veselá	99	80	A
-3206	560235	1	3	903	4	Luboš	Rybař	M			57	OSVČ	Veselá	99	80	A
-3206	560235	1	3	903	5	Koloman	Kanyicska	M			34	manažer	Veselá	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3206	560235	1	1	901	1	Petr	Holba			48	vedoucí projektu	Veselá	99	80	A	M
+3206	560235	1	2	902	1	Luboš	Beran			42	OSVČ	Veselá	99	80	A	M
+3206	560235	1	3	903	1	Pavel	Rybař			42	OSVČ	Veselá	99	80	A	M
+3206	560235	1	1	901	2	Pavel	Planeta			48	zámečník	Veselá	99	80	A	M
+3206	560235	1	2	902	2	Jiří	Poborský			42	prodejce vozidel	Veselá	99	80	A	M
+3206	560235	1	3	903	2	Milan	Větrovec	Bc.		44	státní zaměstnanec	Veselá	99	80	A	M
+3206	560235	1	1	901	3	Vlastimil	Ungr			46	plný invalidní důchod	Veselá	99	80	A	M
+3206	560235	1	2	902	3	Lucie	Pezlarová			34	administrativní pracovnice	Veselá	99	80	A	F
+3206	560235	1	3	903	3	Tomáš	Pezlar			44	OSVČ	Veselá	99	80	A	M
+3206	560235	1	1	901	4	Irena	Planetová			27	mateřská dovolená	Veselá	99	80	A	F
+3206	560235	1	3	903	4	Luboš	Rybař			57	OSVČ	Veselá	99	80	A	M
+3206	560235	1	1	901	5	Vít	Ungr			18	student	Veselá	99	80	A	M
+3206	560235	1	3	903	5	Koloman	Kanyicska			34	manažer	Veselá	99	80	A	M
+3206	560235	1	1	901	6	Daniel	Benešovský			21	dělník	Veselá	99	80	A	M
+3206	560235	1	1	901	7	Václav	Kieveg			31	předák výroby	Veselá	99	80	A	M

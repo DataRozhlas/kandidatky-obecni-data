@@ -1,9 +1,9 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3203	540641	1	1	801	1	Roman	Nový	M			50	řidič	Mokrouše	99	80	A
-3203	540641	1	2	901	1	Miloslav	Fajman	M			51	technik	Mokrouše	99	80	A
-3203	540641	1	2	901	2	Ivana	Vatrsová	F			63	OSVČ	Mokrouše	99	80	A
-3203	540641	1	2	901	3	Jiří	Protiva	M			53	řidič	Mokrouše	99	80	A
-3203	540641	1	2	901	4	Pavel	Šrail	M	Ing.		63	IT technik	Mokrouše	99	80	A
-3203	540641	1	2	901	5	Hana	Timková	F	Mgr.		53	ředitelka ZŠ	Mokrouše	99	80	A
-3203	540641	1	2	901	6	Zuzana	Nová	F			53	všeobecká sestra	Mokrouše	99	80	A
-3203	540641	1	2	901	7	Jaroslav	Kugler	M	Bc.		40	státní zaměstnanec	Mokrouše	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3203	540641	1	1	801	1	Roman	Nový			50	řidič	Mokrouše	99	80	A	M
+3203	540641	1	2	901	1	Miloslav	Fajman			51	technik	Mokrouše	99	80	A	M
+3203	540641	1	2	901	2	Ivana	Vatrsová			63	OSVČ	Mokrouše	99	80	A	F
+3203	540641	1	2	901	3	Jiří	Protiva			53	řidič	Mokrouše	99	80	A	M
+3203	540641	1	2	901	4	Pavel	Šrail	Ing.		63	IT technik	Mokrouše	99	80	A	M
+3203	540641	1	2	901	5	Hana	Timková	Mgr.		53	ředitelka ZŠ	Mokrouše	99	80	A	F
+3203	540641	1	2	901	6	Zuzana	Nová			53	všeobecká sestra	Mokrouše	99	80	A	F
+3203	540641	1	2	901	7	Jaroslav	Kugler	Bc.		40	státní zaměstnanec	Mokrouše	99	80	A	M

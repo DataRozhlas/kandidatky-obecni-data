@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4103	560545	1	1	902	1	Ladislav	Litvák	M	Mgr.		53	správce sportovního areálu	Lomnice	99	80	A
-4103	560545	1	1	902	2	Miloš	Matoušek	M			41	technik	Týn	99	80	A
-4103	560545	1	1	902	3	Stanislav	Hauf	M			41	dělník	Lomnice	99	80	A
-4103	560545	1	1	902	4	Rudolf	Štěpanovský	M			50	dělník	Lomnice	99	80	A
-4103	560545	1	1	902	5	Radovan	Vajdík	M			50	dělník	Týn	99	80	A
-4103	560545	1	1	902	6	Vladimír	Vondruška	M			55	dělník	Týn	99	80	A
-4103	560545	1	1	902	7	Josef	Pitner	M			53	státní zaměstnanec	Lomnice	99	80	A
-4103	560545	1	1	902	8	Josef	Kordík	M			61	elektromechanik	Týn	99	80	A
-4103	560545	1	1	902	9	František	Krátký	M			60	v důchodu	Týn	99	80	A
-4103	560545	1	1	902	10	Jaroslav	Šlais	M			29	technik	Týn	99	80	A
-4103	560545	1	1	902	11	Martin	Zach	M			39	dělník	Lomnice	99	80	A
-4103	560545	1	1	902	12	František	Čermák	M			54	dělník	Lomnice	99	80	A
-4103	560545	1	1	902	13	Milan	Štursa	M			48	OSVČ	Lomnice	99	80	A
-4103	560545	1	2	801	1	Hana	Schimmerová	F			62	důchodce	Lomnice	99	80	A
-4103	560545	1	3	901	1	Miloslav	Matoušek	M			67	starosta	Týn	99	80	A
-4103	560545	1	3	901	2	Karel	Lídl	M			46	vedoucí údržby	Týn	99	80	A
-4103	560545	1	3	901	3	Naděžda	Černíková	F			56	ředitelka MŠ	Lomnice	99	80	A
-4103	560545	1	3	901	4	Jaroslav	Ondrejčík	M			61	makléř	Týn	99	80	A
-4103	560545	1	3	901	5	Jaroslav	Blcha	M			51	zámečník	Týn	99	80	A
-4103	560545	1	3	901	6	Josef	Janura	M	Ing.	DiS.	42	vedoucí finančního odboru	Týn	99	80	A
-4103	560545	1	3	901	7	Petra	Severová	F	Mgr.		39	právník	Lomnice	99	80	A
-4103	560545	1	3	901	8	Josef	Kadlec	M			51	technik	Lomnice	99	80	A
-4103	560545	1	3	901	9	Jitka	Pugnerová	F	Mgr.		55	učitelka	Lomnice	99	80	A
-4103	560545	1	3	901	10	Markéta	Nováková	F			35	servírka	Týn	99	80	A
-4103	560545	1	3	901	11	Eva	Sásová	F			56	provozní	Lomnice	99	80	A
-4103	560545	1	3	901	12	Karel	Baumann	M			59	elektrikář	Lomnice	99	80	A
-4103	560545	1	3	901	13	Antonín	Téma	M			68	důchodce	Týn	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4103	560545	1	1	902	1	Ladislav	Litvák	Mgr.		53	správce sportovního areálu	Lomnice	99	80	A	M
+4103	560545	1	2	801	1	Hana	Schimmerová			62	důchodce	Lomnice	99	80	A	F
+4103	560545	1	3	901	1	Miloslav	Matoušek			67	starosta	Týn	99	80	A	M
+4103	560545	1	1	902	2	Miloš	Matoušek			41	technik	Týn	99	80	A	M
+4103	560545	1	3	901	2	Karel	Lídl			46	vedoucí údržby	Týn	99	80	A	M
+4103	560545	1	1	902	3	Stanislav	Hauf			41	dělník	Lomnice	99	80	A	M
+4103	560545	1	3	901	3	Naděžda	Černíková			56	ředitelka MŠ	Lomnice	99	80	A	F
+4103	560545	1	1	902	4	Rudolf	Štěpanovský			50	dělník	Lomnice	99	80	A	M
+4103	560545	1	3	901	4	Jaroslav	Ondrejčík			61	makléř	Týn	99	80	A	M
+4103	560545	1	1	902	5	Radovan	Vajdík			50	dělník	Týn	99	80	A	M
+4103	560545	1	3	901	5	Jaroslav	Blcha			51	zámečník	Týn	99	80	A	M
+4103	560545	1	1	902	6	Vladimír	Vondruška			55	dělník	Týn	99	80	A	M
+4103	560545	1	3	901	6	Josef	Janura	Ing.	DiS.	42	vedoucí finančního odboru	Týn	99	80	A	M
+4103	560545	1	1	902	7	Josef	Pitner			53	státní zaměstnanec	Lomnice	99	80	A	M
+4103	560545	1	3	901	7	Petra	Severová	Mgr.		39	právník	Lomnice	99	80	A	F
+4103	560545	1	1	902	8	Josef	Kordík			61	elektromechanik	Týn	99	80	A	M
+4103	560545	1	3	901	8	Josef	Kadlec			51	technik	Lomnice	99	80	A	M
+4103	560545	1	1	902	9	František	Krátký			60	v důchodu	Týn	99	80	A	M
+4103	560545	1	3	901	9	Jitka	Pugnerová	Mgr.		55	učitelka	Lomnice	99	80	A	F
+4103	560545	1	1	902	10	Jaroslav	Šlais			29	technik	Týn	99	80	A	M
+4103	560545	1	3	901	10	Markéta	Nováková			35	servírka	Týn	99	80	A	F
+4103	560545	1	1	902	11	Martin	Zach			39	dělník	Lomnice	99	80	A	M
+4103	560545	1	3	901	11	Eva	Sásová			56	provozní	Lomnice	99	80	A	F
+4103	560545	1	1	902	12	František	Čermák			54	dělník	Lomnice	99	80	A	M
+4103	560545	1	3	901	12	Karel	Baumann			59	elektrikář	Lomnice	99	80	A	M
+4103	560545	1	1	902	13	Milan	Štursa			48	OSVČ	Lomnice	99	80	A	M
+4103	560545	1	3	901	13	Antonín	Téma			68	důchodce	Týn	99	80	A	M

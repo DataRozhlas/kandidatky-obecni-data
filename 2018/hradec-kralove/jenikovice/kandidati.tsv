@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	570133	1	1	904	1	Pavlína	Kutílková	F	Bc.		48	všeobecná zdravotní sestra	Jeníkovice	99	80	A
-5201	570133	1	1	904	2	Martina	Petrásková	F			42	všeobecná zdravotní sestra	Jeníkovice	99	80	A
-5201	570133	1	1	904	3	Lucie	Petrová	F	Mgr.	Ph.D.	32	zdravotní analytik	Jeníkovice	99	80	A
-5201	570133	1	2	902	1	Jan	Kestřánek	M	MUDr.	Ph.D.	44	lékař	Jeníkovice	99	80	A
-5201	570133	1	2	902	2	Josef	Medek	M			50	řidič	Jeníkovice	99	80	A
-5201	570133	1	2	902	3	Jan	Petr	M	Ing.		33	stavbyvedoucí	Jeníkovice	99	80	A
-5201	570133	1	3	901	1	Lenka	Hojná Kosařová	F	Ing.		44	starostka obce Jeníkovice	Jeníkovice	99	80	A
-5201	570133	1	3	901	2	Milan	Sedláček	M			54	OSVČ	Jeníkovice	99	80	A
-5201	570133	1	4	903	1	Milan	Šatník	M			24	OSVČ	Jeníkovice	99	80	A
-5201	570133	1	4	903	2	Michal	Petrásek	M			41	obchodní zástupce	Jeníkovice	99	80	A
-5201	570133	1	4	903	3	Michal	Marha	M			38	vedoucí skladu	Jeníkovice	99	80	A
-5201	570133	1	5	47	1	Jaroslav	Kupka	M	Ing.		57	technik	Jeníkovice	99	47	A
-5201	570133	1	5	47	2	Jozef	Mitráš	M			62	řidič z povolání	Jeníkovice	47	47	A
-5201	570133	1	5	47	3	Monika	Horáková	F			46	prodavačka	Jeníkovice	99	47	A
-5201	570133	1	5	47	4	Romana	Zemanská	F			29	dámská krejčová	Jeníkovice	99	47	A
-5201	570133	1	5	47	5	Milan	Svoboda	M			39	zedník	Jeníkovice	99	47	A
-5201	570133	1	5	47	6	Jiří	Lamer	M			49	řidič z povolání	Jeníkovice	99	47	A
-5201	570133	1	5	47	7	Jana	Matulová	F			64	důchodkyně	Jeníkovice	99	47	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	570133	1	1	904	1	Pavlína	Kutílková	Bc.		48	všeobecná zdravotní sestra	Jeníkovice	99	80	A	F
+5201	570133	1	2	902	1	Jan	Kestřánek	MUDr.	Ph.D.	44	lékař	Jeníkovice	99	80	A	M
+5201	570133	1	3	901	1	Lenka	Hojná Kosařová	Ing.		44	starostka obce Jeníkovice	Jeníkovice	99	80	A	F
+5201	570133	1	4	903	1	Milan	Šatník			24	OSVČ	Jeníkovice	99	80	A	M
+5201	570133	1	5	47	1	Jaroslav	Kupka	Ing.		57	technik	Jeníkovice	99	47	A	M
+5201	570133	1	1	904	2	Martina	Petrásková			42	všeobecná zdravotní sestra	Jeníkovice	99	80	A	F
+5201	570133	1	2	902	2	Josef	Medek			50	řidič	Jeníkovice	99	80	A	M
+5201	570133	1	3	901	2	Milan	Sedláček			54	OSVČ	Jeníkovice	99	80	A	M
+5201	570133	1	4	903	2	Michal	Petrásek			41	obchodní zástupce	Jeníkovice	99	80	A	M
+5201	570133	1	5	47	2	Jozef	Mitráš			62	řidič z povolání	Jeníkovice	47	47	A	M
+5201	570133	1	1	904	3	Lucie	Petrová	Mgr.	Ph.D.	32	zdravotní analytik	Jeníkovice	99	80	A	F
+5201	570133	1	2	902	3	Jan	Petr	Ing.		33	stavbyvedoucí	Jeníkovice	99	80	A	M
+5201	570133	1	4	903	3	Michal	Marha			38	vedoucí skladu	Jeníkovice	99	80	A	M
+5201	570133	1	5	47	3	Monika	Horáková			46	prodavačka	Jeníkovice	99	47	A	F
+5201	570133	1	5	47	4	Romana	Zemanská			29	dámská krejčová	Jeníkovice	99	47	A	F
+5201	570133	1	5	47	5	Milan	Svoboda			39	zedník	Jeníkovice	99	47	A	M
+5201	570133	1	5	47	6	Jiří	Lamer			49	řidič z povolání	Jeníkovice	99	47	A	M
+5201	570133	1	5	47	7	Jana	Matulová			64	důchodkyně	Jeníkovice	99	47	A	F

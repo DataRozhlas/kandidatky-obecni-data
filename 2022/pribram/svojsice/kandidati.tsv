@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	564273	1	1	901	1	Jiří	Cíza	M			63	automechanik	Svojšice	1	80	A
-2111	564273	1	1	901	2	Kateřina	Krejčí	F	Ing.	DiS.	41	mateřská dovolená	Svojšice	99	80	A
-2111	564273	1	1	901	3	Monika	Lukešová	F			31	mateřská dovolená	Svojšice	99	80	A
-2111	564273	1	1	901	4	Václav	Novotný	M			53	elektromechanik	Kletice	99	80	A
-2111	564273	1	1	901	5	Radek	Říha	M			49	podnikatel	Svojšice	7	80	A
-2111	564273	1	1	901	6	Václav	Smolka	M			56	řidič	Svojšice	99	80	A
-2111	564273	1	1	901	7	Markéta	Zelenková	F	Bc.		35	laborantka	Kletice	99	80	A
-2111	564273	1	1	901	8	Jakub	Švejnoha	M			19	student	Svojšice	99	80	A
-2111	564273	1	1	901	9	Jiří	Kuna	M			42	dělník	Svojšice	99	80	A
-2111	564273	1	2	801	1	Martin	Stejskal	M			51	OSVČ	Kletice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	564273	1	1	901	1	Jiří	Cíza			63	automechanik	Svojšice	1	80	A	M
+2111	564273	1	2	801	1	Martin	Stejskal			51	OSVČ	Kletice	99	80	A	M
+2111	564273	1	1	901	2	Kateřina	Krejčí	Ing.	DiS.	41	mateřská dovolená	Svojšice	99	80	A	F
+2111	564273	1	1	901	3	Monika	Lukešová			31	mateřská dovolená	Svojšice	99	80	A	F
+2111	564273	1	1	901	4	Václav	Novotný			53	elektromechanik	Kletice	99	80	A	M
+2111	564273	1	1	901	5	Radek	Říha			49	podnikatel	Svojšice	7	80	A	M
+2111	564273	1	1	901	6	Václav	Smolka			56	řidič	Svojšice	99	80	A	M
+2111	564273	1	1	901	7	Markéta	Zelenková	Bc.		35	laborantka	Kletice	99	80	A	F
+2111	564273	1	1	901	8	Jakub	Švejnoha			19	student	Svojšice	99	80	A	M
+2111	564273	1	1	901	9	Jiří	Kuna			42	dělník	Svojšice	99	80	A	M

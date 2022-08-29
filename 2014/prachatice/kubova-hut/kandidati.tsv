@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3105	563978	1	1	901	1	Jan	Beran	M			39	soukromý podnikatel	Kubova Huť	99	80	0
-3105	563978	1	1	901	2	Radek	Čtvrtník	M			37	instalatér	Kubova Huť	99	80	0
-3105	563978	1	1	901	3	Zdeněk	Frček	M			65	důchodce	Kubova Huť	99	80	0
-3105	563978	1	1	901	4	Lenka	Kopaničáková	F			45	obsluha čerpací stanice	Kubova Huť	99	80	0
-3105	563978	1	1	901	5	Miriam	Pelcová	F			58	soukromá podnikatelka	Kubova Huť	99	80	0
-3105	563978	1	1	901	6	František	Zdichynec	M			71	důchodce	Kubova Huť	99	80	0
-3105	563978	1	1	901	7	František	Martan	M			70	důchodce	Kubova Huť	99	80	0
-3105	563978	1	2	902	1	Aleš	Strnad	M			36	lesník	Kubova Huť	99	80	0
-3105	563978	1	2	902	2	Jaroslav	Matějka	M			51	státní zaměstnanec	Kubova Huť	99	80	0
-3105	563978	1	2	902	3	Karel	Hrůša	M			50	učitel	Kubova Huť	99	80	0
-3105	563978	1	2	902	4	Marcela	Frühaufová	F			42	účetní	Kubova Huť	99	80	0
-3105	563978	1	2	902	5	Jiří	Novotný	M			37	manažer	Kubova Huť	99	80	0
-3105	563978	1	2	902	6	Izabela	Jurczková	F			39	zaměstnanec	Kubova Huť	99	80	0
-3105	563978	1	2	902	7	Iva	Šípková	F			50	živnostník	Kubova Huť	99	80	0
-3105	563978	1	3	903	1	Vladimír	Vykydal	M			48	živnostník	Kubova Huť	99	80	0
-3105	563978	1	3	903	2	Zbyněk	Klose	M			54	živnostník	Kubova Huť	99	80	0
-3105	563978	1	3	903	3	Radim	Sýkora	M			25	student	Kubova Huť	99	80	0
-3105	563978	1	3	903	4	Jana	Lenská	F			50	státní zaměstnanec	Kubova Huť	99	80	0
-3105	563978	1	3	903	5	Petr	Meloun	M			68	důchodce	Kubova Huť	99	80	0
-3105	563978	1	3	903	6	Jiří	Volech	M			25	student	Kubova Huť	99	80	0
-3105	563978	1	3	903	7	Matěj	Bartošík	M			25	živnostník	Kubova Huť	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3105	563978	1	1	901	1	Jan	Beran			39	soukromý podnikatel	Kubova Huť	99	80	0	M
+3105	563978	1	2	902	1	Aleš	Strnad			36	lesník	Kubova Huť	99	80	0	M
+3105	563978	1	3	903	1	Vladimír	Vykydal			48	živnostník	Kubova Huť	99	80	0	M
+3105	563978	1	1	901	2	Radek	Čtvrtník			37	instalatér	Kubova Huť	99	80	0	M
+3105	563978	1	2	902	2	Jaroslav	Matějka			51	státní zaměstnanec	Kubova Huť	99	80	0	M
+3105	563978	1	3	903	2	Zbyněk	Klose			54	živnostník	Kubova Huť	99	80	0	M
+3105	563978	1	1	901	3	Zdeněk	Frček			65	důchodce	Kubova Huť	99	80	0	M
+3105	563978	1	2	902	3	Karel	Hrůša			50	učitel	Kubova Huť	99	80	0	M
+3105	563978	1	3	903	3	Radim	Sýkora			25	student	Kubova Huť	99	80	0	M
+3105	563978	1	1	901	4	Lenka	Kopaničáková			45	obsluha čerpací stanice	Kubova Huť	99	80	0	F
+3105	563978	1	2	902	4	Marcela	Frühaufová			42	účetní	Kubova Huť	99	80	0	F
+3105	563978	1	3	903	4	Jana	Lenská			50	státní zaměstnanec	Kubova Huť	99	80	0	F
+3105	563978	1	1	901	5	Miriam	Pelcová			58	soukromá podnikatelka	Kubova Huť	99	80	0	F
+3105	563978	1	2	902	5	Jiří	Novotný			37	manažer	Kubova Huť	99	80	0	M
+3105	563978	1	3	903	5	Petr	Meloun			68	důchodce	Kubova Huť	99	80	0	M
+3105	563978	1	1	901	6	František	Zdichynec			71	důchodce	Kubova Huť	99	80	0	M
+3105	563978	1	2	902	6	Izabela	Jurczková			39	zaměstnanec	Kubova Huť	99	80	0	F
+3105	563978	1	3	903	6	Jiří	Volech			25	student	Kubova Huť	99	80	0	M
+3105	563978	1	1	901	7	František	Martan			70	důchodce	Kubova Huť	99	80	0	M
+3105	563978	1	2	902	7	Iva	Šípková			50	živnostník	Kubova Huť	99	80	0	F
+3105	563978	1	3	903	7	Matěj	Bartošík			25	živnostník	Kubova Huť	99	80	0	M

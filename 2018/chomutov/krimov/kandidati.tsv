@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4202	563161	1	1	903	1	Jiřina	Modrianská	F			64	důchodce	Křimov	99	80	A
-4202	563161	1	1	903	2	Petr	Krak	M			45	podnikatel	Krásná Lípa	99	80	A
-4202	563161	1	1	903	3	Jana	Drakselová	F			38	dělnice	Křimov	99	80	A
-4202	563161	1	1	903	4	Terezie	Hejduková	F			30	dělnice	Křimov	99	80	A
-4202	563161	1	1	903	5	Jaroslav	Hupcej	M			56	dělník	Křimov	99	80	A
-4202	563161	1	1	903	6	Martina	Prandlová	F			35	dělnice	Krásná Lípa	99	80	A
-4202	563161	1	1	903	7	Kateřina	Sychrová	F			42	dělnice	Křimov	99	80	A
-4202	563161	1	1	903	8	Jarmila	Labutová	F			53	prodavačka	Křimov	99	80	A
-4202	563161	1	1	903	9	Petra	Drakselová	F			32	prodavačka	Křimov	99	80	A
-4202	563161	1	2	904	1	Lukáš	Hrzán	M			35	kuchař	Krásná Lípa	99	80	A
-4202	563161	1	2	904	2	Soňa	Kališová	F			54	úřednice	Suchdol	99	80	A
-4202	563161	1	2	904	3	Jan	Ralbovský	M			64	důchodce	Křimov	99	80	A
-4202	563161	1	2	904	4	Eva	Kašková	F	Ing.		51	referent	Domina	99	80	A
-4202	563161	1	2	904	5	Jan	Trčálek	M			53	OSVČ	Domina	99	80	A
-4202	563161	1	2	904	6	Lenka	Zmátlová	F			49	OSVČ	Suchdol	99	80	A
-4202	563161	1	2	904	7	Šárka	Jirsová	F			46	administrativní pracovnice	Suchdol	99	80	A
-4202	563161	1	2	904	8	Janette	Thein	F			44	OSVČ	Domina	99	80	A
-4202	563161	1	2	904	9	Petra	Šarochová	F	Bc.		38	OSVČ	Suchdol	99	80	A
-4202	563161	1	3	901	1	Milan	Váňa	M			55	starosta	Křimov	99	80	A
-4202	563161	1	3	901	2	Hynek	Bošina	M			47	soukromě hospodařící rolník	Nebovazy	1	80	A
-4202	563161	1	3	901	3	Drahomíra	Štajnerová	F			61	zubní laborantka	Suchdol	99	80	A
-4202	563161	1	3	901	4	Václav	Formánek	M			25	manipulátor výroby	Krásná Lípa	99	80	A
-4202	563161	1	3	901	5	Stanislav	Šnábl	M			55	strojvedoucí	Suchdol	99	80	A
-4202	563161	1	3	901	6	Jiří	Bláha	M			43	řidič	Křimov	99	80	A
-4202	563161	1	3	901	7	Martin	Fojta	M			29	technik na čerpací stanici	Křimov	99	80	A
-4202	563161	1	3	901	8	Karel	Král	M			64	důchodce	Krásná Lípa	99	80	A
-4202	563161	1	3	901	9	Martin	Frollo	M			47	podnikatel	Celná	99	80	A
-4202	563161	1	4	902	1	Petr	Leden	M			60	obchodní ředitel	Krásná Lípa	99	80	A
-4202	563161	1	4	902	2	Lenka	Loduhová	F			49	zdravotní sestra	Strážky	99	80	A
-4202	563161	1	4	902	3	Jitka	Malecká	F		DiS.	40	ředitelka školky	Suchdol	99	80	A
-4202	563161	1	4	902	4	Milada	Votrubová	F			71	administrativní pracovnice	Domina	99	80	A
-4202	563161	1	4	902	5	Jiří	Malypetr	M			57	podnikatel	Strážky	99	80	A
-4202	563161	1	4	902	6	Jitka	Hrdličková	F			52	operátorka výroby	Křimov	99	80	A
-4202	563161	1	4	902	7	Karolína	Moulisová	F			39	vedoucí čerpací stanice	Suchdol	99	80	A
-4202	563161	1	4	902	8	Libuše	Ivanová	F			59	podnikatelka	Suchdol	99	80	A
-4202	563161	1	4	902	9	Roman	Šimek	M			44	technolog odmašťování	Křimov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4202	563161	1	1	903	1	Jiřina	Modrianská			64	důchodce	Křimov	99	80	A	F
+4202	563161	1	2	904	1	Lukáš	Hrzán			35	kuchař	Krásná Lípa	99	80	A	M
+4202	563161	1	3	901	1	Milan	Váňa			55	starosta	Křimov	99	80	A	M
+4202	563161	1	4	902	1	Petr	Leden			60	obchodní ředitel	Krásná Lípa	99	80	A	M
+4202	563161	1	1	903	2	Petr	Krak			45	podnikatel	Krásná Lípa	99	80	A	M
+4202	563161	1	2	904	2	Soňa	Kališová			54	úřednice	Suchdol	99	80	A	F
+4202	563161	1	3	901	2	Hynek	Bošina			47	soukromě hospodařící rolník	Nebovazy	1	80	A	M
+4202	563161	1	4	902	2	Lenka	Loduhová			49	zdravotní sestra	Strážky	99	80	A	F
+4202	563161	1	1	903	3	Jana	Drakselová			38	dělnice	Křimov	99	80	A	F
+4202	563161	1	2	904	3	Jan	Ralbovský			64	důchodce	Křimov	99	80	A	M
+4202	563161	1	3	901	3	Drahomíra	Štajnerová			61	zubní laborantka	Suchdol	99	80	A	F
+4202	563161	1	4	902	3	Jitka	Malecká		DiS.	40	ředitelka školky	Suchdol	99	80	A	F
+4202	563161	1	1	903	4	Terezie	Hejduková			30	dělnice	Křimov	99	80	A	F
+4202	563161	1	2	904	4	Eva	Kašková	Ing.		51	referent	Domina	99	80	A	F
+4202	563161	1	3	901	4	Václav	Formánek			25	manipulátor výroby	Krásná Lípa	99	80	A	M
+4202	563161	1	4	902	4	Milada	Votrubová			71	administrativní pracovnice	Domina	99	80	A	F
+4202	563161	1	1	903	5	Jaroslav	Hupcej			56	dělník	Křimov	99	80	A	M
+4202	563161	1	2	904	5	Jan	Trčálek			53	OSVČ	Domina	99	80	A	M
+4202	563161	1	3	901	5	Stanislav	Šnábl			55	strojvedoucí	Suchdol	99	80	A	M
+4202	563161	1	4	902	5	Jiří	Malypetr			57	podnikatel	Strážky	99	80	A	M
+4202	563161	1	1	903	6	Martina	Prandlová			35	dělnice	Krásná Lípa	99	80	A	F
+4202	563161	1	2	904	6	Lenka	Zmátlová			49	OSVČ	Suchdol	99	80	A	F
+4202	563161	1	3	901	6	Jiří	Bláha			43	řidič	Křimov	99	80	A	M
+4202	563161	1	4	902	6	Jitka	Hrdličková			52	operátorka výroby	Křimov	99	80	A	F
+4202	563161	1	1	903	7	Kateřina	Sychrová			42	dělnice	Křimov	99	80	A	F
+4202	563161	1	2	904	7	Šárka	Jirsová			46	administrativní pracovnice	Suchdol	99	80	A	F
+4202	563161	1	3	901	7	Martin	Fojta			29	technik na čerpací stanici	Křimov	99	80	A	M
+4202	563161	1	4	902	7	Karolína	Moulisová			39	vedoucí čerpací stanice	Suchdol	99	80	A	F
+4202	563161	1	1	903	8	Jarmila	Labutová			53	prodavačka	Křimov	99	80	A	F
+4202	563161	1	2	904	8	Janette	Thein			44	OSVČ	Domina	99	80	A	F
+4202	563161	1	3	901	8	Karel	Král			64	důchodce	Krásná Lípa	99	80	A	M
+4202	563161	1	4	902	8	Libuše	Ivanová			59	podnikatelka	Suchdol	99	80	A	F
+4202	563161	1	1	903	9	Petra	Drakselová			32	prodavačka	Křimov	99	80	A	F
+4202	563161	1	2	904	9	Petra	Šarochová	Bc.		38	OSVČ	Suchdol	99	80	A	F
+4202	563161	1	3	901	9	Martin	Frollo			47	podnikatel	Celná	99	80	A	M
+4202	563161	1	4	902	9	Roman	Šimek			44	technolog odmašťování	Křimov	99	80	A	M

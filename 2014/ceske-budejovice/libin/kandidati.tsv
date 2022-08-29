@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	544744	1	1	901	1	Lenka	Jáchimová	F			38	administrativní pracovnice	Libín	99	80	0
-3101	544744	1	1	901	2	Jiří	Candra	M			48	dělník	Libín	99	80	0
-3101	544744	1	1	901	3	Pavel	Sláma	M			50	živnostník	Libín	99	80	0
-3101	544744	1	1	901	4	Miroslav	Číhal	M			28	živnostník	Libín	99	80	0
-3101	544744	1	1	901	5	Kateřina	Bejdáková	F			34	státní zaměstnanec	Libín	99	80	0
-3101	544744	1	2	902	1	Václav	Číhal	M	Ing.		27	technik zem. výroby	Libín	99	80	0
-3101	544744	1	2	902	2	Petr	Jindra	M	Ing.		68	důchodce	Libín	99	80	0
-3101	544744	1	2	902	3	Josef	Candra	M			49	opravář	Libín	99	80	0
-3101	544744	1	2	902	4	Josef	Jáchim	M			35	řidič	Libín	99	80	0
-3101	544744	1	2	902	5	Rostislav	Kuch	M			40	manažer nákupu	Libín	99	80	0
-3101	544744	1	3	903	1	Ctibor	Kubeš	M			37	technik	Spolí	99	80	0
-3101	544744	1	3	903	2	Věra	Ježková	F			60	důchodce	Spolí	99	80	0
-3101	544744	1	3	903	3	Jan	Ježek	M			31	OSVČ	Spolí	99	80	0
-3101	544744	1	3	903	4	Ivan	Mertl	M			51	OSVČ	Spolí	99	80	0
-3101	544744	1	3	903	5	Pavel	Leyer	M			59	údržbář	Spolí	99	80	0
-3101	544744	1	3	903	6	Jan	Koranda	M			66	důchodce	Spolí	99	80	0
-3101	544744	1	3	903	7	Roman	Kopet	M			37	OSVČ	Spolí	99	80	0
-3101	544744	1	4	801	1	Jan	Koranda	M			41	soukromý zemědělec	Libín	99	80	0
-3101	544744	1	5	904	1	Dušan	Chvál	M			39	OSVČ	Slavošovice	99	80	0
-3101	544744	1	5	904	2	Marie	Smetanová	F			61	důchodce	Slavošovice	99	80	0
-3101	544744	1	5	904	3	Veronika	Pokorná	F			41	OSVČ	Slavošovice	99	80	0
-3101	544744	1	5	904	4	Petr	Jindra	M			51	OSVČ	Slavošovice	99	80	0
-3101	544744	1	5	904	5	Štěpánka	Jindrová	F			48	OSVČ	Slavošovice	99	80	0
-3101	544744	1	5	904	6	Roman	Nagy	M			34	stavbyvedoucí	Slavošovice	99	80	0
-3101	544744	1	5	904	7	Martina	Ziegerbauerová	F			38	modeláž nehtů	Slavošovice	99	80	0
-3101	544744	1	5	904	8	Zdeněk	Koukal	M			38	lakýrník	Slavošovice	99	80	0
-3101	544744	1	5	904	9	Roman	Tisoň	M			39	řidič, mechanik	Libín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	544744	1	1	901	1	Lenka	Jáchimová			38	administrativní pracovnice	Libín	99	80	0	F
+3101	544744	1	2	902	1	Václav	Číhal	Ing.		27	technik zem. výroby	Libín	99	80	0	M
+3101	544744	1	3	903	1	Ctibor	Kubeš			37	technik	Spolí	99	80	0	M
+3101	544744	1	4	801	1	Jan	Koranda			41	soukromý zemědělec	Libín	99	80	0	M
+3101	544744	1	5	904	1	Dušan	Chvál			39	OSVČ	Slavošovice	99	80	0	M
+3101	544744	1	1	901	2	Jiří	Candra			48	dělník	Libín	99	80	0	M
+3101	544744	1	2	902	2	Petr	Jindra	Ing.		68	důchodce	Libín	99	80	0	M
+3101	544744	1	3	903	2	Věra	Ježková			60	důchodce	Spolí	99	80	0	F
+3101	544744	1	5	904	2	Marie	Smetanová			61	důchodce	Slavošovice	99	80	0	F
+3101	544744	1	1	901	3	Pavel	Sláma			50	živnostník	Libín	99	80	0	M
+3101	544744	1	2	902	3	Josef	Candra			49	opravář	Libín	99	80	0	M
+3101	544744	1	3	903	3	Jan	Ježek			31	OSVČ	Spolí	99	80	0	M
+3101	544744	1	5	904	3	Veronika	Pokorná			41	OSVČ	Slavošovice	99	80	0	F
+3101	544744	1	1	901	4	Miroslav	Číhal			28	živnostník	Libín	99	80	0	M
+3101	544744	1	2	902	4	Josef	Jáchim			35	řidič	Libín	99	80	0	M
+3101	544744	1	3	903	4	Ivan	Mertl			51	OSVČ	Spolí	99	80	0	M
+3101	544744	1	5	904	4	Petr	Jindra			51	OSVČ	Slavošovice	99	80	0	M
+3101	544744	1	1	901	5	Kateřina	Bejdáková			34	státní zaměstnanec	Libín	99	80	0	F
+3101	544744	1	2	902	5	Rostislav	Kuch			40	manažer nákupu	Libín	99	80	0	M
+3101	544744	1	3	903	5	Pavel	Leyer			59	údržbář	Spolí	99	80	0	M
+3101	544744	1	5	904	5	Štěpánka	Jindrová			48	OSVČ	Slavošovice	99	80	0	F
+3101	544744	1	3	903	6	Jan	Koranda			66	důchodce	Spolí	99	80	0	M
+3101	544744	1	5	904	6	Roman	Nagy			34	stavbyvedoucí	Slavošovice	99	80	0	M
+3101	544744	1	3	903	7	Roman	Kopet			37	OSVČ	Spolí	99	80	0	M
+3101	544744	1	5	904	7	Martina	Ziegerbauerová			38	modeláž nehtů	Slavošovice	99	80	0	F
+3101	544744	1	5	904	8	Zdeněk	Koukal			38	lakýrník	Slavošovice	99	80	0	M
+3101	544744	1	5	904	9	Roman	Tisoň			39	řidič, mechanik	Libín	99	80	0	M

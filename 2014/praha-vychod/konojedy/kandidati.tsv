@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2109	564761	1	1	901	1	Vladimír	Danda	M			59	tiskař	Konojedy	99	80	0
-2109	564761	1	1	901	2	Pavel	Jelínek	M			50	OSVČ	Konojedy	99	80	0
-2109	564761	1	1	901	3	Kateřina	Klimešová	F			35	vedoucí šk. jídelny	Konojedy	99	80	0
-2109	564761	1	1	901	4	Zlatuše	Nováková	F			28	servírka	Konojedy	99	80	0
-2109	564761	1	1	901	5	Kateřina	Ulomová	F			41	manažer	Konojedy	99	80	0
-2109	564761	1	1	901	6	Alena	Molinari	F			50	účetní	Konojedy	99	80	0
-2109	564761	1	1	901	7	Miloslav	Novák	M			41	operátor CNC strojů	Konojedy	99	80	0
-2109	564761	1	2	902	1	Michaela	Růžičková	F			42	starostka, soukr. podnikatelka v ob. masér. a reg.	Konojedy	99	80	0
-2109	564761	1	2	902	2	Vlasta	Holíková	F			39	hlavní účetní	Konojedy	99	80	0
-2109	564761	1	2	902	3	Václav	Volavka	M			44	soukromý podnikatel v oboru stavebnictví	Konojedy	99	80	0
-2109	564761	1	2	902	4	Helena	Strejčková	F			64	důchodkyně	Konojedy	99	80	0
-2109	564761	1	2	902	5	Filip	Kovalčík	M			19	soukromý podnikatel v oboru zemědělství, student	Konojedy	99	80	0
-2109	564761	1	2	902	6	Jitka	Neužilová	F	Ing.		46	vedení projektu a školitel správné výrobní praxe	Konojedy	99	80	0
-2109	564761	1	2	902	7	Erik	Komanec	M			34	specialista informačních technologií	Konojedy	99	80	0
-2109	564761	1	2	902	8	Vlastimil	Toman	M			59	soukromý podnikatel v oboru autoopravárenství	Konojedy-Klíče	99	80	0
-2109	564761	1	2	902	9	Petr	Rutar	M			48	soukromý podnikatel v oboru stavebnictví	Konojedy	99	80	0
-2109	564761	1	3	166	1	Jiří	Klimeš	M			66	důchodce	Konojedy	99	166	0
-2109	564761	1	3	166	2	Luboš	Boháček	M			48	zaměstnanec	Konojedy	99	166	0
-2109	564761	1	3	166	3	Milan	Chloupý	M			30	zaměstnanec	Konojedy	99	166	0
-2109	564761	1	3	166	4	Jan	Strejček	M			34	OSVČ	Konojedy	99	166	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2109	564761	1	1	901	1	Vladimír	Danda			59	tiskař	Konojedy	99	80	0	M
+2109	564761	1	2	902	1	Michaela	Růžičková			42	starostka, soukr. podnikatelka v ob. masér. a reg.	Konojedy	99	80	0	F
+2109	564761	1	3	166	1	Jiří	Klimeš			66	důchodce	Konojedy	99	166	0	M
+2109	564761	1	1	901	2	Pavel	Jelínek			50	OSVČ	Konojedy	99	80	0	M
+2109	564761	1	2	902	2	Vlasta	Holíková			39	hlavní účetní	Konojedy	99	80	0	F
+2109	564761	1	3	166	2	Luboš	Boháček			48	zaměstnanec	Konojedy	99	166	0	M
+2109	564761	1	1	901	3	Kateřina	Klimešová			35	vedoucí šk. jídelny	Konojedy	99	80	0	F
+2109	564761	1	2	902	3	Václav	Volavka			44	soukromý podnikatel v oboru stavebnictví	Konojedy	99	80	0	M
+2109	564761	1	3	166	3	Milan	Chloupý			30	zaměstnanec	Konojedy	99	166	0	M
+2109	564761	1	1	901	4	Zlatuše	Nováková			28	servírka	Konojedy	99	80	0	F
+2109	564761	1	2	902	4	Helena	Strejčková			64	důchodkyně	Konojedy	99	80	0	F
+2109	564761	1	3	166	4	Jan	Strejček			34	OSVČ	Konojedy	99	166	0	M
+2109	564761	1	1	901	5	Kateřina	Ulomová			41	manažer	Konojedy	99	80	0	F
+2109	564761	1	2	902	5	Filip	Kovalčík			19	soukromý podnikatel v oboru zemědělství, student	Konojedy	99	80	0	M
+2109	564761	1	1	901	6	Alena	Molinari			50	účetní	Konojedy	99	80	0	F
+2109	564761	1	2	902	6	Jitka	Neužilová	Ing.		46	vedení projektu a školitel správné výrobní praxe	Konojedy	99	80	0	F
+2109	564761	1	1	901	7	Miloslav	Novák			41	operátor CNC strojů	Konojedy	99	80	0	M
+2109	564761	1	2	902	7	Erik	Komanec			34	specialista informačních technologií	Konojedy	99	80	0	M
+2109	564761	1	2	902	8	Vlastimil	Toman			59	soukromý podnikatel v oboru autoopravárenství	Konojedy-Klíče	99	80	0	M
+2109	564761	1	2	902	9	Petr	Rutar			48	soukromý podnikatel v oboru stavebnictví	Konojedy	99	80	0	M

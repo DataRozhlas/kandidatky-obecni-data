@@ -1,9 +1,9 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	549835	1	1	902	1	Marie	Dvořáková	F			50	v domácnosti	Milasín	99	80	0
-6105	549835	1	1	902	2	Jiří	Šustal	M			37	dělník	Milasín	99	80	0
-6105	549835	1	1	902	3	Petr	Kabelka	M			40	řidič	Milasín	99	80	0
-6105	549835	1	1	902	4	František	Šikula	M			40	výškový pracovník	Milasín	99	80	0
-6105	549835	1	1	902	5	Jaroslav	Večeřa	M			41	elektromontér	Milasín	99	80	0
-6105	549835	1	2	901	1	František	Šustal	M			66	důchodce	Milasín	99	80	0
-6105	549835	1	2	901	2	Alois	Homolka	M			60	elektromechanik	Milasín	99	80	0
-6105	549835	1	2	901	3	Ivan	Škára	M			78	důchodce	Milasín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	549835	1	1	902	1	Marie	Dvořáková			50	v domácnosti	Milasín	99	80	0	F
+6105	549835	1	2	901	1	František	Šustal			66	důchodce	Milasín	99	80	0	M
+6105	549835	1	1	902	2	Jiří	Šustal			37	dělník	Milasín	99	80	0	M
+6105	549835	1	2	901	2	Alois	Homolka			60	elektromechanik	Milasín	99	80	0	M
+6105	549835	1	1	902	3	Petr	Kabelka			40	řidič	Milasín	99	80	0	M
+6105	549835	1	2	901	3	Ivan	Škára			78	důchodce	Milasín	99	80	0	M
+6105	549835	1	1	902	4	František	Šikula			40	výškový pracovník	Milasín	99	80	0	M
+6105	549835	1	1	902	5	Jaroslav	Večeřa			41	elektromontér	Milasín	99	80	0	M

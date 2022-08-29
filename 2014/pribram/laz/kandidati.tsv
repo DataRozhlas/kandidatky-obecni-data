@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	540625	1	1	901	1	Jaroslav	Mrázek	M	Ing.		35	geodet a kartograf	Láz	99	80	0
-2111	540625	1	1	901	2	Pavel	Kopecký	M	Mgr.		32	středoškolský učitel	Láz	99	80	0
-2111	540625	1	1	901	3	Antonín	Kropáč	M	Mgr.		50	státní zaměstnanec	Láz	99	80	0
-2111	540625	1	1	901	4	Ivana	Petrušková	F			49	učitelka mateřské školy	Láz	99	80	0
-2111	540625	1	1	901	5	Denisa	Skalická	F			36	státní zaměstnankyně	Láz	99	80	0
-2111	540625	1	1	901	6	Zbyněk	Turek	M			38	státní zaměstnanec	Láz	99	80	0
-2111	540625	1	1	901	7	Radka	Fiamová	F			55	poradenství a léčitelství	Láz	99	80	0
-2111	540625	1	2	902	1	Radek	Vlk	M			50	OSVČ	Láz	99	80	0
-2111	540625	1	2	902	2	Petr	Štika	M			53	vet. technik	Láz	99	80	0
-2111	540625	1	2	902	3	Josef	Chýle	M			26	OSVČ	Láz	99	80	0
-2111	540625	1	2	902	4	Radka	Vlková	F			21	student	Láz	99	80	0
-2111	540625	1	2	902	5	Kristýna	Jurová	F			25	porodní asistentka	Láz	99	80	0
-2111	540625	1	2	902	6	Václav	Heřman	M			35	vězeňská služ.	Láz	99	80	0
-2111	540625	1	2	902	7	Libuše	Melicharová	F			24	sociální pracovnice	Láz	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	540625	1	1	901	1	Jaroslav	Mrázek	Ing.		35	geodet a kartograf	Láz	99	80	0	M
+2111	540625	1	2	902	1	Radek	Vlk			50	OSVČ	Láz	99	80	0	M
+2111	540625	1	1	901	2	Pavel	Kopecký	Mgr.		32	středoškolský učitel	Láz	99	80	0	M
+2111	540625	1	2	902	2	Petr	Štika			53	vet. technik	Láz	99	80	0	M
+2111	540625	1	1	901	3	Antonín	Kropáč	Mgr.		50	státní zaměstnanec	Láz	99	80	0	M
+2111	540625	1	2	902	3	Josef	Chýle			26	OSVČ	Láz	99	80	0	M
+2111	540625	1	1	901	4	Ivana	Petrušková			49	učitelka mateřské školy	Láz	99	80	0	F
+2111	540625	1	2	902	4	Radka	Vlková			21	student	Láz	99	80	0	F
+2111	540625	1	1	901	5	Denisa	Skalická			36	státní zaměstnankyně	Láz	99	80	0	F
+2111	540625	1	2	902	5	Kristýna	Jurová			25	porodní asistentka	Láz	99	80	0	F
+2111	540625	1	1	901	6	Zbyněk	Turek			38	státní zaměstnanec	Láz	99	80	0	M
+2111	540625	1	2	902	6	Václav	Heřman			35	vězeňská služ.	Láz	99	80	0	M
+2111	540625	1	1	901	7	Radka	Fiamová			55	poradenství a léčitelství	Láz	99	80	0	F
+2111	540625	1	2	902	7	Libuše	Melicharová			24	sociální pracovnice	Láz	99	80	0	F

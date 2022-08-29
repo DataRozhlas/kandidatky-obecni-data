@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6103	548146	1	1	902	1	Jiří	Krupka	M			45	mechanik	Lísky	99	80	0
-6103	548146	1	1	902	2	Miroslav	Paťha	M			47	řidič	Koberovice	99	80	0
-6103	548146	1	1	902	3	Martin	Petrik	M			30	tesař	Koberovice	99	80	0
-6103	548146	1	1	902	4	Václav	Kváš	M			59	dělník	Koberovice	99	80	0
-6103	548146	1	1	902	5	Lenka	Krupková	F			42	ekonomka	Lísky	99	80	0
-6103	548146	1	1	902	6	Karel	Šimek	M			58	agronom	Koberovice	99	80	0
-6103	548146	1	2	901	1	Ilona	Hrubešová	F			30	učitelka ZŠ	Koberovice	99	80	0
-6103	548146	1	2	901	2	Ladislav	Lacina	M			61	invalidní důchodce	Koberovice	99	80	0
-6103	548146	1	2	901	3	Martin	Čáp	M			31	zedník	Koberovice	99	80	0
-6103	548146	1	2	901	4	Miroslav	Paťha	M			18	nástrojař	Koberovice	99	80	0
-6103	548146	1	2	901	5	Milan	Kratochvíl	M			39	prodejce	Koberovice	99	80	0
-6103	548146	1	2	901	6	Miroslav	Chadim	M			28	dělník	Koberovice	99	80	0
-6103	548146	1	2	901	7	Ferdinand	Petrik	M			52	traktorista	Koberovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6103	548146	1	1	902	1	Jiří	Krupka			45	mechanik	Lísky	99	80	0	M
+6103	548146	1	2	901	1	Ilona	Hrubešová			30	učitelka ZŠ	Koberovice	99	80	0	F
+6103	548146	1	1	902	2	Miroslav	Paťha			47	řidič	Koberovice	99	80	0	M
+6103	548146	1	2	901	2	Ladislav	Lacina			61	invalidní důchodce	Koberovice	99	80	0	M
+6103	548146	1	1	902	3	Martin	Petrik			30	tesař	Koberovice	99	80	0	M
+6103	548146	1	2	901	3	Martin	Čáp			31	zedník	Koberovice	99	80	0	M
+6103	548146	1	1	902	4	Václav	Kváš			59	dělník	Koberovice	99	80	0	M
+6103	548146	1	2	901	4	Miroslav	Paťha			18	nástrojař	Koberovice	99	80	0	M
+6103	548146	1	1	902	5	Lenka	Krupková			42	ekonomka	Lísky	99	80	0	F
+6103	548146	1	2	901	5	Milan	Kratochvíl			39	prodejce	Koberovice	99	80	0	M
+6103	548146	1	1	902	6	Karel	Šimek			58	agronom	Koberovice	99	80	0	M
+6103	548146	1	2	901	6	Miroslav	Chadim			28	dělník	Koberovice	99	80	0	M
+6103	548146	1	2	901	7	Ferdinand	Petrik			52	traktorista	Koberovice	99	80	0	M

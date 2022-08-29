@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	551767	1	1	7	1	Vladimír	Mikula	M			40	technik	Staré Město	99	7	0
-8101	551767	1	1	7	2	Bohuslav	Klimeš	M			46	řidič	Staré Město	99	7	0
-8101	551767	1	1	7	3	Silvestr	Václavík	M			43	zedník	Staré Město	99	7	0
-8101	551767	1	1	7	4	Ladislav	Olejníček	M			55	novinář	Staré Město	99	7	0
-8101	551767	1	1	7	5	Miroslav	Breškovec	M			46	zedník	Staré Město	99	7	0
-8101	551767	1	1	7	6	Václav	Breškovec	M			50	zedník	Staré Město	99	7	0
-8101	551767	1	1	7	7	Marek	Smetana	M			31	automechanik	Staré Město	99	7	0
-8101	551767	1	2	53	1	Václav	Frgal	M	Ing.		43	ekonom	Staré Město	53	53	0
-8101	551767	1	2	53	2	Olga	Nováková	F	Ing		48	zemědělský podnikatel	Staré Město	99	53	0
-8101	551767	1	2	53	3	Richard	Václavík	M	Ing.		34	policista	Staré Město	99	53	0
-8101	551767	1	2	53	4	Jiří	Majer	M			41	ředitel	Staré Město	99	53	0
-8101	551767	1	2	53	5	Miroslav	Hrstka	M			45	projektant	Staré Město	99	53	0
-8101	551767	1	2	53	6	Jitka	Steinerová	F			42	zaměstnanec ve veř. správě	Staré Město	99	53	0
-8101	551767	1	2	53	7	Pavel	Pluháček	M			41	ředitel	Staré Město	99	53	0
-8101	551767	1	3	901	1	Antonín	Směšný	M			60	starosta obce	Nová Véska	99	80	0
-8101	551767	1	3	901	2	Richard	Šanda	M			38	OSVČ	Staré Město	99	80	0
-8101	551767	1	3	901	3	Jiřina	Rychová	F			45	OSVČ	Staré Město	99	80	0
-8101	551767	1	3	901	4	Marie	Slánská	F	Ing.		54	zástupce ředitele	Staré Město	99	80	0
-8101	551767	1	3	901	5	Andrea	Kodedová	F			38	učitelka MŠ	Staré Město	99	80	0
-8101	551767	1	3	901	6	Jarmila	Šíblová	F	Bc.		56	ředitelka DD	Staré Město	99	80	0
-8101	551767	1	3	901	7	Eliška	Malčíková	F			58	vedoucí účtárny	Staré Město	99	80	0
-8101	551767	1	3	901	8	Petra	Kodrlová	F			32	pracovník VPP	Staré Město	99	80	0
-8101	551767	1	3	901	9	Jana	Švehlová	F	Mgr.		58	důchodce	Staré Město	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	551767	1	1	7	1	Vladimír	Mikula			40	technik	Staré Město	99	7	0	M
+8101	551767	1	2	53	1	Václav	Frgal	Ing.		43	ekonom	Staré Město	53	53	0	M
+8101	551767	1	3	901	1	Antonín	Směšný			60	starosta obce	Nová Véska	99	80	0	M
+8101	551767	1	1	7	2	Bohuslav	Klimeš			46	řidič	Staré Město	99	7	0	M
+8101	551767	1	2	53	2	Olga	Nováková	Ing		48	zemědělský podnikatel	Staré Město	99	53	0	F
+8101	551767	1	3	901	2	Richard	Šanda			38	OSVČ	Staré Město	99	80	0	M
+8101	551767	1	1	7	3	Silvestr	Václavík			43	zedník	Staré Město	99	7	0	M
+8101	551767	1	2	53	3	Richard	Václavík	Ing.		34	policista	Staré Město	99	53	0	M
+8101	551767	1	3	901	3	Jiřina	Rychová			45	OSVČ	Staré Město	99	80	0	F
+8101	551767	1	1	7	4	Ladislav	Olejníček			55	novinář	Staré Město	99	7	0	M
+8101	551767	1	2	53	4	Jiří	Majer			41	ředitel	Staré Město	99	53	0	M
+8101	551767	1	3	901	4	Marie	Slánská	Ing.		54	zástupce ředitele	Staré Město	99	80	0	F
+8101	551767	1	1	7	5	Miroslav	Breškovec			46	zedník	Staré Město	99	7	0	M
+8101	551767	1	2	53	5	Miroslav	Hrstka			45	projektant	Staré Město	99	53	0	M
+8101	551767	1	3	901	5	Andrea	Kodedová			38	učitelka MŠ	Staré Město	99	80	0	F
+8101	551767	1	1	7	6	Václav	Breškovec			50	zedník	Staré Město	99	7	0	M
+8101	551767	1	2	53	6	Jitka	Steinerová			42	zaměstnanec ve veř. správě	Staré Město	99	53	0	F
+8101	551767	1	3	901	6	Jarmila	Šíblová	Bc.		56	ředitelka DD	Staré Město	99	80	0	F
+8101	551767	1	1	7	7	Marek	Smetana			31	automechanik	Staré Město	99	7	0	M
+8101	551767	1	2	53	7	Pavel	Pluháček			41	ředitel	Staré Město	99	53	0	M
+8101	551767	1	3	901	7	Eliška	Malčíková			58	vedoucí účtárny	Staré Město	99	80	0	F
+8101	551767	1	3	901	8	Petra	Kodrlová			32	pracovník VPP	Staré Město	99	80	0	F
+8101	551767	1	3	901	9	Jana	Švehlová	Mgr.		58	důchodce	Staré Město	99	80	0	F

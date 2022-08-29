@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4204	566527	1	1	901	1	Alena	Blechová	F			52	administrativní pracovnice	Očihov	99	80	A
-4204	566527	1	1	901	2	Dana	Cimrová	F			54	technik	Očihovec	99	80	A
-4204	566527	1	1	901	3	Petr	Menzl	M	Ing.		30	manažer Programu rozvoje venkova	Očihov	99	80	A
-4204	566527	1	1	901	4	Jan	Strieborný	M			49	skladník	Očihov	99	80	A
-4204	566527	1	1	901	5	Martina	Kantorová	F			53	referentka	Očihovec	99	80	A
-4204	566527	1	1	901	6	Jaroslava	Kačerová	F			52	sanitářka	Očihov	99	80	A
-4204	566527	1	1	901	7	Josef	Holeček	M			62	důchodce	Očihov	99	80	A
-4204	566527	1	1	901	8	Věra	Kohoutová	F			26	mateřská dovolená	Očihov	99	80	A
-4204	566527	1	1	901	9	Dagmar	Bařtipánová	F			51	prodavačka	Očihov	99	80	A
-4204	566527	1	2	902	1	Kristýna	Gubíková	F			29	redaktorka Očihovských novin	Očihov	99	80	A
-4204	566527	1	2	902	2	Zdeněk	Fajman	M			40	řidič	Očihov	99	80	A
-4204	566527	1	2	902	3	Roman	Andrle	M			32	hasič - profesionál	Očihov	99	80	A
-4204	566527	1	2	902	4	Pavel	Gregor	M			35	OSVČ	Očihov	99	80	A
-4204	566527	1	2	902	5	Milan	Schütz	M			63	řidič	Očihov	99	80	A
-4204	566527	1	2	902	6	Michaela	Andrlová	F	Mgr.		34	sociálně právní ochrana dětí	Očihov	99	80	A
-4204	566527	1	2	902	7	Pavel	Kantor	M			27	hasič - profesionál	Očihovec	99	80	A
-4204	566527	1	2	902	8	Jolana	Černá	F			50	staniční sestra	Očihov	99	80	A
-4204	566527	1	2	902	9	Pavel	Černý	M			48	řidič	Očihov	99	80	A
-4204	566527	1	3	903	1	Jan	Sklenář	M			35	stavbyvedoucí	Očihov	99	80	A
-4204	566527	1	3	903	2	Roman	Ptáček	M			49	OSVČ	Očihov	99	80	A
-4204	566527	1	3	903	3	Patrik	Ptáček	M			25	řidič	Očihov	99	80	A
-4204	566527	1	3	903	4	Andrea	Neradová	F			33	učitelka	Očihovec	99	80	A
-4204	566527	1	3	903	5	Ondřej	Kronďák	M			31	konstruktér	Očihov	99	80	A
-4204	566527	1	3	903	6	Kateřina	Chaloupecká	F			23	asistent pedagoga	Očihov	99	80	A
-4204	566527	1	3	903	7	Romana	Ptáčková	F			47	školnice	Očihov	99	80	A
-4204	566527	1	3	903	8	Martin	Stanovoi	M			22	elektrikář	Očihov	99	80	A
-4204	566527	1	3	903	9	Petr	Kašper	M			58	zámečník	Očihov	99	80	A
-4204	566527	1	4	480	1	Denisa	Štecherová	F			41	personalista	Očihov	99	80	A
-4204	566527	1	4	480	2	Tomáš	Linhart	M			49	jednatel společnosti	Očihov	721	721	A
-4204	566527	1	4	480	3	Markéta	Vojáčková	F			37	vedoucí stavebnin	Očihovec	99	80	A
-4204	566527	1	4	480	4	Jana	Rogulová	F	Ing.		62	učitelka	Očihovec	99	80	A
-4204	566527	1	4	480	5	Martin	Linhart	M			52	technik STK	Očihov	99	80	A
-4204	566527	1	4	480	6	Jana	Kronďáková	F			60	starostka	Očihov	99	80	A
-4204	566527	1	4	480	7	Blanka	Batková	F			41	dělnice	Očihov	99	80	A
-4204	566527	1	4	480	8	Tomáš	Hoffmann	M			55	stavební technik	Očihov	99	80	A
-4204	566527	1	4	480	9	Dana	Matějíčková	F			63	důchodce	Očihov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4204	566527	1	1	901	1	Alena	Blechová			52	administrativní pracovnice	Očihov	99	80	A	F
+4204	566527	1	2	902	1	Kristýna	Gubíková			29	redaktorka Očihovských novin	Očihov	99	80	A	F
+4204	566527	1	3	903	1	Jan	Sklenář			35	stavbyvedoucí	Očihov	99	80	A	M
+4204	566527	1	4	480	1	Denisa	Štecherová			41	personalista	Očihov	99	80	A	F
+4204	566527	1	1	901	2	Dana	Cimrová			54	technik	Očihovec	99	80	A	F
+4204	566527	1	2	902	2	Zdeněk	Fajman			40	řidič	Očihov	99	80	A	M
+4204	566527	1	3	903	2	Roman	Ptáček			49	OSVČ	Očihov	99	80	A	M
+4204	566527	1	4	480	2	Tomáš	Linhart			49	jednatel společnosti	Očihov	721	721	A	M
+4204	566527	1	1	901	3	Petr	Menzl	Ing.		30	manažer Programu rozvoje venkova	Očihov	99	80	A	M
+4204	566527	1	2	902	3	Roman	Andrle			32	hasič - profesionál	Očihov	99	80	A	M
+4204	566527	1	3	903	3	Patrik	Ptáček			25	řidič	Očihov	99	80	A	M
+4204	566527	1	4	480	3	Markéta	Vojáčková			37	vedoucí stavebnin	Očihovec	99	80	A	F
+4204	566527	1	1	901	4	Jan	Strieborný			49	skladník	Očihov	99	80	A	M
+4204	566527	1	2	902	4	Pavel	Gregor			35	OSVČ	Očihov	99	80	A	M
+4204	566527	1	3	903	4	Andrea	Neradová			33	učitelka	Očihovec	99	80	A	F
+4204	566527	1	4	480	4	Jana	Rogulová	Ing.		62	učitelka	Očihovec	99	80	A	F
+4204	566527	1	1	901	5	Martina	Kantorová			53	referentka	Očihovec	99	80	A	F
+4204	566527	1	2	902	5	Milan	Schütz			63	řidič	Očihov	99	80	A	M
+4204	566527	1	3	903	5	Ondřej	Kronďák			31	konstruktér	Očihov	99	80	A	M
+4204	566527	1	4	480	5	Martin	Linhart			52	technik STK	Očihov	99	80	A	M
+4204	566527	1	1	901	6	Jaroslava	Kačerová			52	sanitářka	Očihov	99	80	A	F
+4204	566527	1	2	902	6	Michaela	Andrlová	Mgr.		34	sociálně právní ochrana dětí	Očihov	99	80	A	F
+4204	566527	1	3	903	6	Kateřina	Chaloupecká			23	asistent pedagoga	Očihov	99	80	A	F
+4204	566527	1	4	480	6	Jana	Kronďáková			60	starostka	Očihov	99	80	A	F
+4204	566527	1	1	901	7	Josef	Holeček			62	důchodce	Očihov	99	80	A	M
+4204	566527	1	2	902	7	Pavel	Kantor			27	hasič - profesionál	Očihovec	99	80	A	M
+4204	566527	1	3	903	7	Romana	Ptáčková			47	školnice	Očihov	99	80	A	F
+4204	566527	1	4	480	7	Blanka	Batková			41	dělnice	Očihov	99	80	A	F
+4204	566527	1	1	901	8	Věra	Kohoutová			26	mateřská dovolená	Očihov	99	80	A	F
+4204	566527	1	2	902	8	Jolana	Černá			50	staniční sestra	Očihov	99	80	A	F
+4204	566527	1	3	903	8	Martin	Stanovoi			22	elektrikář	Očihov	99	80	A	M
+4204	566527	1	4	480	8	Tomáš	Hoffmann			55	stavební technik	Očihov	99	80	A	M
+4204	566527	1	1	901	9	Dagmar	Bařtipánová			51	prodavačka	Očihov	99	80	A	F
+4204	566527	1	2	902	9	Pavel	Černý			48	řidič	Očihov	99	80	A	M
+4204	566527	1	3	903	9	Petr	Kašper			58	zámečník	Očihov	99	80	A	M
+4204	566527	1	4	480	9	Dana	Matějíčková			63	důchodce	Očihov	99	80	A	F

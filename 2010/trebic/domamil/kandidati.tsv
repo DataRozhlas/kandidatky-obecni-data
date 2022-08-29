@@ -1,30 +1,30 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6104	590568	1	1	1	1	Oldřich	Břinek	M			55	zedník	Domamil	1	1	0
-6104	590568	1	1	1	2	Bohumil	Klepáček	M			57	kolář	Domamil	1	1	0
-6104	590568	1	1	1	3	Jiří	Bláha	M			60	důchodce	Domamil	1	1	0
-6104	590568	1	1	1	4	Vít	Klimeš	M			41	dělník	Domamil	99	1	0
-6104	590568	1	1	1	5	Pavel	Šabatka	M			24	instalatér	Domamil	99	1	0
-6104	590568	1	1	1	6	František	Břinek	M			49	tesař	Domamil	99	1	0
-6104	590568	1	1	1	7	Slavomil	Klepáček	M			60	důchodce	Domamil	99	1	0
-6104	590568	1	1	1	8	Rostislav	Svoboda	M			38	řidič	Domamil	99	1	0
-6104	590568	1	1	1	9	Pavla	Nahodilová	F			38	prodavačka	Domamil	99	1	0
-6104	590568	1	2	901	1	Radek	Menčík	M			46	technik	Domamil	99	80	0
-6104	590568	1	2	901	2	Josef	Bláha	M			57	dělník	Domamil	99	80	0
-6104	590568	1	2	901	3	Bohuslav	Kabelka	M			45	živnostník	Domamil	99	80	0
-6104	590568	1	2	901	4	Markéta	Bauerová	F			34	dělnice	Domamil	99	80	0
-6104	590568	1	2	901	5	Karel	Papoušek	M			59	vedoucí skladu PHM	Domamil	99	80	0
-6104	590568	1	2	901	6	Antonín	Herout	M			51	krmič	Domamil	99	80	0
-6104	590568	1	2	901	7	Marek	Špinka	M			33	živnostník	Domamil	99	80	0
-6104	590568	1	2	901	8	Leoš	Ferdan	M			29	opravář zemědělských strojů	Domamil	99	80	0
-6104	590568	1	3	902	1	Václav	Špinka	M			58	řidič	Domamil	99	80	0
-6104	590568	1	3	902	2	Jaroslav	Simajchl	M			55	invalidní důchodce	Domamil	99	80	0
-6104	590568	1	3	902	3	Vladimír	Menčík	M			31	OSVČ	Domamil	99	80	0
-6104	590568	1	3	902	4	Milan	Koudelka	M			35	vedoucí armovny	Domamil	99	80	0
-6104	590568	1	3	902	5	Petr	Šabatka	M			25	dělník	Domamil	99	80	0
-6104	590568	1	4	903	1	Zbyněk	Burian	M			37	živnostník	Domamil	99	80	0
-6104	590568	1	4	903	2	Otto	Mareček	M			58	dělník	Domamil	99	80	0
-6104	590568	1	4	903	3	Jiří	Schlanger	M	RNDr.		59	státní úředník	Domamil	99	80	0
-6104	590568	1	4	903	4	Jaroslav	Vyskot	M			46	řidič	Domamil	99	80	0
-6104	590568	1	4	903	5	František	Vodička	M			21	dělník	Domamil	99	80	0
-6104	590568	1	4	903	6	Hana	Janíčková	F			20	nákupčí	Domamil	99	80	0
-6104	590568	1	4	903	7	Josef	Kopec	M			68	důchodce	Domamil	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6104	590568	1	1	1	1	Oldřich	Břinek			55	zedník	Domamil	1	1	0	M
+6104	590568	1	2	901	1	Radek	Menčík			46	technik	Domamil	99	80	0	M
+6104	590568	1	3	902	1	Václav	Špinka			58	řidič	Domamil	99	80	0	M
+6104	590568	1	4	903	1	Zbyněk	Burian			37	živnostník	Domamil	99	80	0	M
+6104	590568	1	1	1	2	Bohumil	Klepáček			57	kolář	Domamil	1	1	0	M
+6104	590568	1	2	901	2	Josef	Bláha			57	dělník	Domamil	99	80	0	M
+6104	590568	1	3	902	2	Jaroslav	Simajchl			55	invalidní důchodce	Domamil	99	80	0	M
+6104	590568	1	4	903	2	Otto	Mareček			58	dělník	Domamil	99	80	0	M
+6104	590568	1	1	1	3	Jiří	Bláha			60	důchodce	Domamil	1	1	0	M
+6104	590568	1	2	901	3	Bohuslav	Kabelka			45	živnostník	Domamil	99	80	0	M
+6104	590568	1	3	902	3	Vladimír	Menčík			31	OSVČ	Domamil	99	80	0	M
+6104	590568	1	4	903	3	Jiří	Schlanger	RNDr.		59	státní úředník	Domamil	99	80	0	M
+6104	590568	1	1	1	4	Vít	Klimeš			41	dělník	Domamil	99	1	0	M
+6104	590568	1	2	901	4	Markéta	Bauerová			34	dělnice	Domamil	99	80	0	F
+6104	590568	1	3	902	4	Milan	Koudelka			35	vedoucí armovny	Domamil	99	80	0	M
+6104	590568	1	4	903	4	Jaroslav	Vyskot			46	řidič	Domamil	99	80	0	M
+6104	590568	1	1	1	5	Pavel	Šabatka			24	instalatér	Domamil	99	1	0	M
+6104	590568	1	2	901	5	Karel	Papoušek			59	vedoucí skladu PHM	Domamil	99	80	0	M
+6104	590568	1	3	902	5	Petr	Šabatka			25	dělník	Domamil	99	80	0	M
+6104	590568	1	4	903	5	František	Vodička			21	dělník	Domamil	99	80	0	M
+6104	590568	1	1	1	6	František	Břinek			49	tesař	Domamil	99	1	0	M
+6104	590568	1	2	901	6	Antonín	Herout			51	krmič	Domamil	99	80	0	M
+6104	590568	1	4	903	6	Hana	Janíčková			20	nákupčí	Domamil	99	80	0	F
+6104	590568	1	1	1	7	Slavomil	Klepáček			60	důchodce	Domamil	99	1	0	M
+6104	590568	1	2	901	7	Marek	Špinka			33	živnostník	Domamil	99	80	0	M
+6104	590568	1	4	903	7	Josef	Kopec			68	důchodce	Domamil	99	80	0	M
+6104	590568	1	1	1	8	Rostislav	Svoboda			38	řidič	Domamil	99	1	0	M
+6104	590568	1	2	901	8	Leoš	Ferdan			29	opravář zemědělských strojů	Domamil	99	80	0	M
+6104	590568	1	1	1	9	Pavla	Nahodilová			38	prodavačka	Domamil	99	1	0	F

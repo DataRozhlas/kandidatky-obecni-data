@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	551503	1	1	902	1	Lenka	Štantýská	F			49	účetní	Čížkrajice	99	80	0
-3101	551503	1	1	902	2	Jiřina	Vávrová	F			51	v domácnosti	Čížkrajice	47	80	0
-3101	551503	1	1	902	3	Hana	Gegnerová	F			44	zdravotní sestra	Mezilesí	99	80	0
-3101	551503	1	1	902	4	Jana	Vávrová	F	Ing.arch.		26	architekt	Čížkrajice	99	80	0
-3101	551503	1	1	902	5	Jitka	Čechová	F			23	laborantka	Čížkrajice	99	80	0
-3101	551503	1	1	902	6	Jana	Jandová	F			42	lesní dělnice	Čížkrajice	99	80	0
-3101	551503	1	1	902	7	Lenka	Vávrová	F		DiS.	25	mateřská dovolená	Čížkrajice	99	80	0
-3101	551503	1	1	902	8	Michaela	Gegnerová	F			22	studentka	Mezilesí	99	80	0
-3101	551503	1	1	902	9	Pavlína	Tláskalová	F			45	laborantka	Čížkrajice	99	80	0
-3101	551503	1	2	901	1	Stanislav	Skamene	M			65	elektrikář	Čížkrajice	99	80	0
-3101	551503	1	2	901	2	Ladislav	Vávra	M			56	soukromý zemědělec	Čížkrajice	47	80	0
-3101	551503	1	2	901	3	Jiří	Marek	M	Ing.		43	soukromý zemědělec	Chvalkov	99	80	0
-3101	551503	1	2	901	4	Petr	Skamene	M	Ing.		38	starosta obce	Čížkrajice	99	80	0
-3101	551503	1	2	901	5	Milan	Kápl	M			47	traktorista	Čížkrajice	99	80	0
-3101	551503	1	2	901	6	Pavel	Gegner	M			45	údržbář	Mezilesí	99	80	0
-3101	551503	1	2	901	7	Jiří	Vávra	M			31	soukromý zemědělec	Čížkrajice	99	80	0
-3101	551503	1	2	901	8	Karel	Janda	M			47	řidič	Čížkrajice	99	80	0
-3101	551503	1	2	901	9	Josef	Štantýský	M			26	truhlář	Čížkrajice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	551503	1	1	902	1	Lenka	Štantýská			49	účetní	Čížkrajice	99	80	0	F
+3101	551503	1	2	901	1	Stanislav	Skamene			65	elektrikář	Čížkrajice	99	80	0	M
+3101	551503	1	1	902	2	Jiřina	Vávrová			51	v domácnosti	Čížkrajice	47	80	0	F
+3101	551503	1	2	901	2	Ladislav	Vávra			56	soukromý zemědělec	Čížkrajice	47	80	0	M
+3101	551503	1	1	902	3	Hana	Gegnerová			44	zdravotní sestra	Mezilesí	99	80	0	F
+3101	551503	1	2	901	3	Jiří	Marek	Ing.		43	soukromý zemědělec	Chvalkov	99	80	0	M
+3101	551503	1	1	902	4	Jana	Vávrová	Ing.arch.		26	architekt	Čížkrajice	99	80	0	F
+3101	551503	1	2	901	4	Petr	Skamene	Ing.		38	starosta obce	Čížkrajice	99	80	0	M
+3101	551503	1	1	902	5	Jitka	Čechová			23	laborantka	Čížkrajice	99	80	0	F
+3101	551503	1	2	901	5	Milan	Kápl			47	traktorista	Čížkrajice	99	80	0	M
+3101	551503	1	1	902	6	Jana	Jandová			42	lesní dělnice	Čížkrajice	99	80	0	F
+3101	551503	1	2	901	6	Pavel	Gegner			45	údržbář	Mezilesí	99	80	0	M
+3101	551503	1	1	902	7	Lenka	Vávrová		DiS.	25	mateřská dovolená	Čížkrajice	99	80	0	F
+3101	551503	1	2	901	7	Jiří	Vávra			31	soukromý zemědělec	Čížkrajice	99	80	0	M
+3101	551503	1	1	902	8	Michaela	Gegnerová			22	studentka	Mezilesí	99	80	0	F
+3101	551503	1	2	901	8	Karel	Janda			47	řidič	Čížkrajice	99	80	0	M
+3101	551503	1	1	902	9	Pavlína	Tláskalová			45	laborantka	Čížkrajice	99	80	0	F
+3101	551503	1	2	901	9	Josef	Štantýský			26	truhlář	Čížkrajice	99	80	0	M

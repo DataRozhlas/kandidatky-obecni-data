@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3106	551414	1	1	901	1	Veronika	Římanová	F	Bc.		34	OSVČ, podnikatel	Sudkovice	99	80	A
-3106	551414	1	1	901	2	Svetlana	Hamranová	F		DiS.	43	výrobní technik	Miloňovice	99	80	A
-3106	551414	1	1	901	3	Barbora	Trojanová	F			31	prodavačka	Miloňovice	99	80	A
-3106	551414	1	1	901	4	Ondřej	Salot	M			32	projektant technologií	Sudkovice	99	80	A
-3106	551414	1	1	901	5	Marek	Novák	M			28	zemědělec	Sudkovice	99	80	A
-3106	551414	1	1	901	6	Michal	Synek	M			56	vedoucí (mistr)	Miloňovice	99	80	A
-3106	551414	1	1	901	7	Jan	Štefl	M	Ing.		33	produktový inženýr	Miloňovice	99	80	A
-3106	551414	1	2	902	1	Tomáš	Hejlek	M			35	prodavač	Miloňovice	99	80	A
-3106	551414	1	2	902	2	Petr	Šanda	M			57	hasič	Miloňovice	99	80	A
-3106	551414	1	2	902	3	Šárka	Kadlecová	F			53	učitelka ZŠ	Miloňovice	99	80	A
-3106	551414	1	2	902	4	Milan	Sosna	M			54	skladník	Miloňovice	99	80	A
-3106	551414	1	2	902	5	Jiří	Babka	M			43	geodet	Miloňovice	99	80	A
-3106	551414	1	2	902	6	Martina	Soutorová	F			50	OSVČ	Miloňovice	99	80	A
-3106	551414	1	2	902	7	Jana	Nováková	F			72	důchodce	Miloňovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3106	551414	1	1	901	1	Veronika	Římanová	Bc.		34	OSVČ, podnikatel	Sudkovice	99	80	A	F
+3106	551414	1	2	902	1	Tomáš	Hejlek			35	prodavač	Miloňovice	99	80	A	M
+3106	551414	1	1	901	2	Svetlana	Hamranová		DiS.	43	výrobní technik	Miloňovice	99	80	A	F
+3106	551414	1	2	902	2	Petr	Šanda			57	hasič	Miloňovice	99	80	A	M
+3106	551414	1	1	901	3	Barbora	Trojanová			31	prodavačka	Miloňovice	99	80	A	F
+3106	551414	1	2	902	3	Šárka	Kadlecová			53	učitelka ZŠ	Miloňovice	99	80	A	F
+3106	551414	1	1	901	4	Ondřej	Salot			32	projektant technologií	Sudkovice	99	80	A	M
+3106	551414	1	2	902	4	Milan	Sosna			54	skladník	Miloňovice	99	80	A	M
+3106	551414	1	1	901	5	Marek	Novák			28	zemědělec	Sudkovice	99	80	A	M
+3106	551414	1	2	902	5	Jiří	Babka			43	geodet	Miloňovice	99	80	A	M
+3106	551414	1	1	901	6	Michal	Synek			56	vedoucí (mistr)	Miloňovice	99	80	A	M
+3106	551414	1	2	902	6	Martina	Soutorová			50	OSVČ	Miloňovice	99	80	A	F
+3106	551414	1	1	901	7	Jan	Štefl	Ing.		33	produktový inženýr	Miloňovice	99	80	A	M
+3106	551414	1	2	902	7	Jana	Nováková			72	důchodce	Miloňovice	99	80	A	F

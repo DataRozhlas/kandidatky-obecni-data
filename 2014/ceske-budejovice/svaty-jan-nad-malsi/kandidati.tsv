@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	545104	1	1	903	1	Tomáš	Michal	M			30	vedoucí skladu	Svatý Jan nad Malší	99	80	0
-3101	545104	1	1	903	2	Miroslav	Martinus	M	Ing.		51	oční technik	Svatý Jan nad Malší	99	80	0
-3101	545104	1	1	903	3	Hana	Charvátová	F	Ing.		57	úředník	Svatý Jan nad Malší	99	80	0
-3101	545104	1	1	903	4	Karel	Charvát	M	Ing.		57	technik	Svatý Jan nad Malší	99	80	0
-3101	545104	1	1	903	5	Antonín	Michal	M			57	úředník	Svatý Jan nad Malší	99	80	0
-3101	545104	1	1	903	6	Jan	Piterka	M	Ing.		57	energetik	Svatý Jan nad Malší	99	80	0
-3101	545104	1	1	903	7	Nikola	Švecová	F			23	nezaměstnaná	Svatý Jan nad Malší	99	80	0
-3101	545104	1	1	903	8	Ota	Švec	M			24	skladník	Svatý Jan nad Malší	99	80	0
-3101	545104	1	2	902	1	Romana	Laubeová	F			46	OSVČ	Svatý Jan nad Malší	99	80	0
-3101	545104	1	2	902	2	Michaela	Hájková	F			31	účetní	Svatý Jan nad Malší	99	80	0
-3101	545104	1	2	902	3	David	Kubínek	M			42	ředitel obchodního zastoupení	Svatý Jan nad Malší	99	80	0
-3101	545104	1	2	902	4	Štěpán	Chovanec	M			21	montážní dělník	Svatý Jan nad Malší	99	80	0
-3101	545104	1	2	902	5	Lucie	Müllerová	F			34	ekonom	Sedlce	99	80	0
-3101	545104	1	2	902	6	Anna	Kretková	F	Mgr.		30	vedoucí metodik anglického jazyka	Svatý Jan nad Malší	99	80	0
-3101	545104	1	2	902	7	Tomáš	Staněk	M			38	OSVČ	Svatý Jan nad Malší	99	80	0
-3101	545104	1	2	902	8	Martina	Langová	F	Mgr. Bc.		28	asistentka manažera	Svatý Jan nad Malší	99	80	0
-3101	545104	1	2	902	9	Lenka	Vretosová	F			46	OSVČ	Svatý Jan nad Malší	99	80	0
-3101	545104	1	3	901	1	Růžena	Balláková	F			44	starostka obce	Svatý Jan nad Malší	99	80	0
-3101	545104	1	3	901	2	Pavel	Tvaroh	M			37	kontrolní technik	Svatý Jan nad Malší	99	80	0
-3101	545104	1	3	901	3	Michal	Bláha	M	Ing.		49	zaměstnanec banky	Chlum	99	80	0
-3101	545104	1	3	901	4	Veronika	Mazouchová	F	Ing.		26	správa nemovitostí	Svatý Jan nad Malší	99	80	0
-3101	545104	1	3	901	5	Jiří	Šrámek	M			32	opravář těžební techniky	Svatý Jan nad Malší	99	80	0
-3101	545104	1	3	901	6	Václav	Krátký	M			42	technik ve výrobě	Svatý Jan nad Malší	99	80	0
-3101	545104	1	3	901	7	Jiří	Kučera	M	Ing.		57	podnikatel	Svatý Jan nad Malší	99	80	0
-3101	545104	1	3	901	8	Vlastimil	Tomášek	M			58	podnikatel	Svatý Jan nad Malší	99	80	0
-3101	545104	1	3	901	9	František	Jaroš	M			55	servis zdravotní techniky	Svatý Jan nad Malší	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	545104	1	1	903	1	Tomáš	Michal			30	vedoucí skladu	Svatý Jan nad Malší	99	80	0	M
+3101	545104	1	2	902	1	Romana	Laubeová			46	OSVČ	Svatý Jan nad Malší	99	80	0	F
+3101	545104	1	3	901	1	Růžena	Balláková			44	starostka obce	Svatý Jan nad Malší	99	80	0	F
+3101	545104	1	1	903	2	Miroslav	Martinus	Ing.		51	oční technik	Svatý Jan nad Malší	99	80	0	M
+3101	545104	1	2	902	2	Michaela	Hájková			31	účetní	Svatý Jan nad Malší	99	80	0	F
+3101	545104	1	3	901	2	Pavel	Tvaroh			37	kontrolní technik	Svatý Jan nad Malší	99	80	0	M
+3101	545104	1	1	903	3	Hana	Charvátová	Ing.		57	úředník	Svatý Jan nad Malší	99	80	0	F
+3101	545104	1	2	902	3	David	Kubínek			42	ředitel obchodního zastoupení	Svatý Jan nad Malší	99	80	0	M
+3101	545104	1	3	901	3	Michal	Bláha	Ing.		49	zaměstnanec banky	Chlum	99	80	0	M
+3101	545104	1	1	903	4	Karel	Charvát	Ing.		57	technik	Svatý Jan nad Malší	99	80	0	M
+3101	545104	1	2	902	4	Štěpán	Chovanec			21	montážní dělník	Svatý Jan nad Malší	99	80	0	M
+3101	545104	1	3	901	4	Veronika	Mazouchová	Ing.		26	správa nemovitostí	Svatý Jan nad Malší	99	80	0	F
+3101	545104	1	1	903	5	Antonín	Michal			57	úředník	Svatý Jan nad Malší	99	80	0	M
+3101	545104	1	2	902	5	Lucie	Müllerová			34	ekonom	Sedlce	99	80	0	F
+3101	545104	1	3	901	5	Jiří	Šrámek			32	opravář těžební techniky	Svatý Jan nad Malší	99	80	0	M
+3101	545104	1	1	903	6	Jan	Piterka	Ing.		57	energetik	Svatý Jan nad Malší	99	80	0	M
+3101	545104	1	2	902	6	Anna	Kretková	Mgr.		30	vedoucí metodik anglického jazyka	Svatý Jan nad Malší	99	80	0	F
+3101	545104	1	3	901	6	Václav	Krátký			42	technik ve výrobě	Svatý Jan nad Malší	99	80	0	M
+3101	545104	1	1	903	7	Nikola	Švecová			23	nezaměstnaná	Svatý Jan nad Malší	99	80	0	F
+3101	545104	1	2	902	7	Tomáš	Staněk			38	OSVČ	Svatý Jan nad Malší	99	80	0	M
+3101	545104	1	3	901	7	Jiří	Kučera	Ing.		57	podnikatel	Svatý Jan nad Malší	99	80	0	M
+3101	545104	1	1	903	8	Ota	Švec			24	skladník	Svatý Jan nad Malší	99	80	0	M
+3101	545104	1	2	902	8	Martina	Langová	Mgr. Bc.		28	asistentka manažera	Svatý Jan nad Malší	99	80	0	F
+3101	545104	1	3	901	8	Vlastimil	Tomášek			58	podnikatel	Svatý Jan nad Malší	99	80	0	M
+3101	545104	1	2	902	9	Lenka	Vretosová			46	OSVČ	Svatý Jan nad Malší	99	80	0	F
+3101	545104	1	3	901	9	František	Jaroš			55	servis zdravotní techniky	Svatý Jan nad Malší	99	80	0	M

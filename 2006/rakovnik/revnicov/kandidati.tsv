@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	542351	1	1	901	1	Jiří	Petráček	M			48	starosta obce	Řevničov	99	80	0
-2112	542351	1	1	901	2	Pavel	Kejla	M			58	elektromontér	Řevničov	99	80	0
-2112	542351	1	1	901	3	Marie	Dyntarová	F			52	ředitelka MŠ	Řevničov	99	80	0
-2112	542351	1	1	901	4	Miroslava	Rzadkovská	F			49	recepční	Řevničov	99	80	0
-2112	542351	1	1	901	5	Viera	Černá	F			57	úřednice	Řevničov	99	80	0
-2112	542351	1	1	901	6	Josef	Slunečko	M			24	provozní technik	Řevničov	99	80	0
-2112	542351	1	1	901	7	Zdeňka	Cífková	F			32	soukromá podnikatelka	Řevničov	99	80	0
-2112	542351	1	1	901	8	Vladimír	Bobák	M			32	řidič	Řevničov	99	80	0
-2112	542351	1	1	901	9	Květoslava	Bohatá	F			33	mateřská dovolená	Řevničov	99	80	0
-2112	542351	1	1	901	10	Marcela	Zikmundová	F			35	mateřská dovolená	Řevničov	99	80	0
-2112	542351	1	1	901	11	Jitka	Kuželová	F			53	skladnice	Řevničov	99	80	0
-2112	542351	1	1	901	12	Josef	Knot	M			58	zámečník	Řevničov	99	80	0
-2112	542351	1	1	901	13	Luděk	Tauer	M	Ing.		71	důchodce	Řevničov	99	80	0
-2112	542351	1	2	902	1	Antonín	Zábranský	M			41	řidič údržbář	Řevničov	99	80	0
-2112	542351	1	2	902	2	Martin	Charvát	M			39	podnikatel	Řevničov	99	80	0
-2112	542351	1	2	902	3	Marie	Mášová	F			57	vychovatelka	Řevničov	99	80	0
-2112	542351	1	2	902	4	Petr	Liebezeit	M			37	podnikatel	Řevničov	99	80	0
-2112	542351	1	2	902	5	Pavel	Bílý	M			49	technik	Řevničov	99	80	0
-2112	542351	1	2	902	6	Milan	Tóth	M			39	technik	Řevničov	99	80	0
-2112	542351	1	2	902	7	Jana	Malecká	F			29	mateřská dovolená	Řevničov	99	80	0
-2112	542351	1	2	902	8	Jan	Stehlík	M			37	operátor	Řevničov	99	80	0
-2112	542351	1	2	902	9	Vlastimil	Staněk	M			40	podnikatel	Řevničov	99	80	0
-2112	542351	1	2	902	10	Jiří	Zikmund	M			37	podnikatel	Řevničov	99	80	0
-2112	542351	1	2	902	11	Roman	Stieber	M			35	podnikatel	Řevničov	99	80	0
-2112	542351	1	3	53	1	Tomáš	Staněk	M			52	soukr.zemědělec	Řevničov	53	53	0
-2112	542351	1	3	53	2	Ladislava	Růžičková	F			47	učitelka	Řevničov	99	53	0
-2112	542351	1	3	53	3	Karel	Jungmann	M			55	technik	Řevničov	99	53	0
-2112	542351	1	3	53	4	Eva	Bechyňská	F			52	prodavačka	Řevničov	99	53	0
-2112	542351	1	3	53	5	Jana	Patráková	F			33	knihovnice	Řevničov	99	53	0
-2112	542351	1	3	53	6	Daniela	Vacínková	F			33	úřednice	Řevničov	99	53	0
-2112	542351	1	3	53	7	Stanislava	Vejražková	F			45	účetní	Řevničov	99	53	0
-2112	542351	1	3	53	8	Václav	Šíma	M			38	technik	Řevničov	99	53	0
-2112	542351	1	3	53	9	Miloslav	Kotík	M			37	podnikatel	Řevničov	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	542351	1	1	901	1	Jiří	Petráček			48	starosta obce	Řevničov	99	80	0	M
+2112	542351	1	2	902	1	Antonín	Zábranský			41	řidič údržbář	Řevničov	99	80	0	M
+2112	542351	1	3	53	1	Tomáš	Staněk			52	soukr.zemědělec	Řevničov	53	53	0	M
+2112	542351	1	1	901	2	Pavel	Kejla			58	elektromontér	Řevničov	99	80	0	M
+2112	542351	1	2	902	2	Martin	Charvát			39	podnikatel	Řevničov	99	80	0	M
+2112	542351	1	3	53	2	Ladislava	Růžičková			47	učitelka	Řevničov	99	53	0	F
+2112	542351	1	1	901	3	Marie	Dyntarová			52	ředitelka MŠ	Řevničov	99	80	0	F
+2112	542351	1	2	902	3	Marie	Mášová			57	vychovatelka	Řevničov	99	80	0	F
+2112	542351	1	3	53	3	Karel	Jungmann			55	technik	Řevničov	99	53	0	M
+2112	542351	1	1	901	4	Miroslava	Rzadkovská			49	recepční	Řevničov	99	80	0	F
+2112	542351	1	2	902	4	Petr	Liebezeit			37	podnikatel	Řevničov	99	80	0	M
+2112	542351	1	3	53	4	Eva	Bechyňská			52	prodavačka	Řevničov	99	53	0	F
+2112	542351	1	1	901	5	Viera	Černá			57	úřednice	Řevničov	99	80	0	F
+2112	542351	1	2	902	5	Pavel	Bílý			49	technik	Řevničov	99	80	0	M
+2112	542351	1	3	53	5	Jana	Patráková			33	knihovnice	Řevničov	99	53	0	F
+2112	542351	1	1	901	6	Josef	Slunečko			24	provozní technik	Řevničov	99	80	0	M
+2112	542351	1	2	902	6	Milan	Tóth			39	technik	Řevničov	99	80	0	M
+2112	542351	1	3	53	6	Daniela	Vacínková			33	úřednice	Řevničov	99	53	0	F
+2112	542351	1	1	901	7	Zdeňka	Cífková			32	soukromá podnikatelka	Řevničov	99	80	0	F
+2112	542351	1	2	902	7	Jana	Malecká			29	mateřská dovolená	Řevničov	99	80	0	F
+2112	542351	1	3	53	7	Stanislava	Vejražková			45	účetní	Řevničov	99	53	0	F
+2112	542351	1	1	901	8	Vladimír	Bobák			32	řidič	Řevničov	99	80	0	M
+2112	542351	1	2	902	8	Jan	Stehlík			37	operátor	Řevničov	99	80	0	M
+2112	542351	1	3	53	8	Václav	Šíma			38	technik	Řevničov	99	53	0	M
+2112	542351	1	1	901	9	Květoslava	Bohatá			33	mateřská dovolená	Řevničov	99	80	0	F
+2112	542351	1	2	902	9	Vlastimil	Staněk			40	podnikatel	Řevničov	99	80	0	M
+2112	542351	1	3	53	9	Miloslav	Kotík			37	podnikatel	Řevničov	99	53	0	M
+2112	542351	1	1	901	10	Marcela	Zikmundová			35	mateřská dovolená	Řevničov	99	80	0	F
+2112	542351	1	2	902	10	Jiří	Zikmund			37	podnikatel	Řevničov	99	80	0	M
+2112	542351	1	1	901	11	Jitka	Kuželová			53	skladnice	Řevničov	99	80	0	F
+2112	542351	1	2	902	11	Roman	Stieber			35	podnikatel	Řevničov	99	80	0	M
+2112	542351	1	1	901	12	Josef	Knot			58	zámečník	Řevničov	99	80	0	M
+2112	542351	1	1	901	13	Luděk	Tauer	Ing.		71	důchodce	Řevničov	99	80	0	M

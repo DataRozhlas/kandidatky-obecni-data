@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6103	549215	1	1	166	1	Miroslav	Buňata	M			49	starosta obce	Želiv	99	166	A
-6103	549215	1	1	166	2	Vlasta	Dolejšová	F			44	místostarostka obce	Želiv	99	166	A
-6103	549215	1	1	166	3	Pavel	Novák	M			60	mistr výroby	Vřesník	99	166	A
-6103	549215	1	1	166	4	Karel	Chmel	M			67	důchodce	Želiv	99	166	A
-6103	549215	1	1	166	5	Michal	Kovář	M			36	hasič	Želiv	99	166	A
-6103	549215	1	1	166	6	Markéta	Paťhová	F			41	ředitelka mateřské školy	Želiv	99	166	A
-6103	549215	1	1	166	7	Pavel	Svoboda	M			45	řidič	Lískovice	99	166	A
-6103	549215	1	1	166	8	Marta	Šimáčková	F			51	zdravotní sestra	Želiv	99	166	A
-6103	549215	1	1	166	9	Václav	Krejčí	M			50	správce objektu	Brtná	99	166	A
-6103	549215	1	2	901	1	Ladislav	Janál	M	Mgr.		39	zástupce ředitele ZŠ Pacov	Želiv	99	80	A
-6103	549215	1	2	901	2	Petr	Petr	M	Mgr.		46	ředitel územního odboru policie	Želiv	99	80	A
-6103	549215	1	2	901	3	Martin	Špetl	M	Ing.		40	jednatel společnosti Klimasoft Robotics s.r.o.	Želiv	99	80	A
-6103	549215	1	2	901	4	Lucie	Čečková	F	Ing.	M.A.	32	finanční účetní	Lhotice	99	80	A
-6103	549215	1	2	901	5	Markéta	Festová	F	Mgr.		50	učitelka	Želiv	99	80	A
-6103	549215	1	2	901	6	David	Karásek	M			28	dopravní technik	Želiv	99	80	A
-6103	549215	1	2	901	7	Jan	Thomaier	M			38	číšník	Želiv	99	80	A
-6103	549215	1	2	901	8	Petr	Vácha	M			50	obchodní zástupce	Brtná	99	80	A
-6103	549215	1	2	901	9	Jaroslav	Veselý	M			60	pracovník pojišťovny	Želiv	99	80	A
-6103	549215	1	3	1114	1	Lucie	Pavlů Řádová	F	Mgr.		39	lektorka cizích jazyků	Brná	1114	1114	N
-6103	549215	1	3	1114	2	Lenka	Kotková	F		DiS.	41	diplomovaná zdravotní sestra	Želiv	99	1114	N
-6103	549215	1	3	1114	3	Petra	Krejčí	F			45	OSVČ	Želiv	99	1114	N
-6103	549215	1	3	1114	4	Dana	Nováková	F	Bc.		59	vychovatelka ve školní družině	Želiv	99	1114	N
-6103	549215	1	3	1114	5	Zdeněk	Procházka	M			42	OSVČ - trenér	Želiv	99	1114	N
-6103	549215	1	3	1114	6	František	Spousta	M			48	státní zaměstnanec	Želiv	99	1114	N
-6103	549215	1	3	1114	7	Martin	Polák	M			42	OSVČ	Želiv	99	1114	N
-6103	549215	1	3	1114	8	Jiří	Koten	M			55	řidič	Želiv	99	1114	N
-6103	549215	1	3	1114	9	Miroslav	Kohel	M			64	OSVČ	Želiv	99	1114	N
-6103	549215	1	4	53	1	Ladislav	Brávek	M			28	zemědělec	Brtná	99	53	A
-6103	549215	1	4	53	2	Pavel	Mička	M			62	důchodce	Vitice	99	53	A
-6103	549215	1	4	53	3	Jitka	Získalová	F			46	učitelka ZŠ	Želiv	99	53	A
-6103	549215	1	4	53	4	Tomáš	Beneš	M			30	provozní	Želiv	99	53	A
-6103	549215	1	4	53	5	Valerie	Holendová	F			19	studentka	Miletín	99	53	A
-6103	549215	1	4	53	6	Ondřej	Bloudek	M			28	číšník	Brtná	99	53	A
-6103	549215	1	4	53	7	Simona	Moravová	F			71	důchodkyně	Želiv	99	53	A
-6103	549215	1	4	53	8	Petr	Veleta	M			45	OSVČ	Brtná	99	53	A
-6103	549215	1	4	53	9	Tomáš	Bejda	M			25	OSVČ	Želiv	99	53	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6103	549215	1	1	166	1	Miroslav	Buňata			49	starosta obce	Želiv	99	166	A	M
+6103	549215	1	2	901	1	Ladislav	Janál	Mgr.		39	zástupce ředitele ZŠ Pacov	Želiv	99	80	A	M
+6103	549215	1	3	1114	1	Lucie	Pavlů Řádová	Mgr.		39	lektorka cizích jazyků	Brná	1114	1114	N	F
+6103	549215	1	4	53	1	Ladislav	Brávek			28	zemědělec	Brtná	99	53	A	M
+6103	549215	1	1	166	2	Vlasta	Dolejšová			44	místostarostka obce	Želiv	99	166	A	F
+6103	549215	1	2	901	2	Petr	Petr	Mgr.		46	ředitel územního odboru policie	Želiv	99	80	A	M
+6103	549215	1	3	1114	2	Lenka	Kotková		DiS.	41	diplomovaná zdravotní sestra	Želiv	99	1114	N	F
+6103	549215	1	4	53	2	Pavel	Mička			62	důchodce	Vitice	99	53	A	M
+6103	549215	1	1	166	3	Pavel	Novák			60	mistr výroby	Vřesník	99	166	A	M
+6103	549215	1	2	901	3	Martin	Špetl	Ing.		40	jednatel společnosti Klimasoft Robotics s.r.o.	Želiv	99	80	A	M
+6103	549215	1	3	1114	3	Petra	Krejčí			45	OSVČ	Želiv	99	1114	N	F
+6103	549215	1	4	53	3	Jitka	Získalová			46	učitelka ZŠ	Želiv	99	53	A	F
+6103	549215	1	1	166	4	Karel	Chmel			67	důchodce	Želiv	99	166	A	M
+6103	549215	1	2	901	4	Lucie	Čečková	Ing.	M.A.	32	finanční účetní	Lhotice	99	80	A	F
+6103	549215	1	3	1114	4	Dana	Nováková	Bc.		59	vychovatelka ve školní družině	Želiv	99	1114	N	F
+6103	549215	1	4	53	4	Tomáš	Beneš			30	provozní	Želiv	99	53	A	M
+6103	549215	1	1	166	5	Michal	Kovář			36	hasič	Želiv	99	166	A	M
+6103	549215	1	2	901	5	Markéta	Festová	Mgr.		50	učitelka	Želiv	99	80	A	F
+6103	549215	1	3	1114	5	Zdeněk	Procházka			42	OSVČ - trenér	Želiv	99	1114	N	M
+6103	549215	1	4	53	5	Valerie	Holendová			19	studentka	Miletín	99	53	A	F
+6103	549215	1	1	166	6	Markéta	Paťhová			41	ředitelka mateřské školy	Želiv	99	166	A	F
+6103	549215	1	2	901	6	David	Karásek			28	dopravní technik	Želiv	99	80	A	M
+6103	549215	1	3	1114	6	František	Spousta			48	státní zaměstnanec	Želiv	99	1114	N	M
+6103	549215	1	4	53	6	Ondřej	Bloudek			28	číšník	Brtná	99	53	A	M
+6103	549215	1	1	166	7	Pavel	Svoboda			45	řidič	Lískovice	99	166	A	M
+6103	549215	1	2	901	7	Jan	Thomaier			38	číšník	Želiv	99	80	A	M
+6103	549215	1	3	1114	7	Martin	Polák			42	OSVČ	Želiv	99	1114	N	M
+6103	549215	1	4	53	7	Simona	Moravová			71	důchodkyně	Želiv	99	53	A	F
+6103	549215	1	1	166	8	Marta	Šimáčková			51	zdravotní sestra	Želiv	99	166	A	F
+6103	549215	1	2	901	8	Petr	Vácha			50	obchodní zástupce	Brtná	99	80	A	M
+6103	549215	1	3	1114	8	Jiří	Koten			55	řidič	Želiv	99	1114	N	M
+6103	549215	1	4	53	8	Petr	Veleta			45	OSVČ	Brtná	99	53	A	M
+6103	549215	1	1	166	9	Václav	Krejčí			50	správce objektu	Brtná	99	166	A	M
+6103	549215	1	2	901	9	Jaroslav	Veselý			60	pracovník pojišťovny	Želiv	99	80	A	M
+6103	549215	1	3	1114	9	Miroslav	Kohel			64	OSVČ	Želiv	99	1114	N	M
+6103	549215	1	4	53	9	Tomáš	Bejda			25	OSVČ	Želiv	99	53	A	M

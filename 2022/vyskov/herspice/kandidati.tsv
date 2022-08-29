@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	550213	1	1	901	1	Pavel	Řihák	M	Ing.		44	projektový manažer	Heršpice	99	80	A
-6206	550213	1	1	901	2	Vít	Vykoukal	M	Mgr.	Ph.D.	33	aplikační inženýr	Heršpice	99	80	A
-6206	550213	1	1	901	3	Michal	Sigmund	M			37	technicko - hospodářský pracovník	Heršpice	99	80	A
-6206	550213	1	1	901	4	Jan	Hofírek	M			41	projektant	Heršpice	99	80	A
-6206	550213	1	1	901	5	Jaromír	Dostál	M			72	důchodce	Heršpice	99	80	A
-6206	550213	1	1	901	6	Kamil	Maláč	M			45	koordinátor stavebních prací	Heršpice	99	80	A
-6206	550213	1	1	901	7	Zdeněk	Janík	M	Mgr.	M.A., Ph.D.	47	koordinátor mezinárodních vztahů Masarykovy univerzity	Heršpice	99	80	A
-6206	550213	1	1	901	8	Alena	Šmerdová	F			60	kadeřnice	Heršpice	99	80	A
-6206	550213	1	2	902	1	Karel	Knesl	M			38	starosta	Heršpice	99	80	A
-6206	550213	1	2	902	2	Jaroslav	Juříček	M			37	OSVČ	Heršpice	99	80	A
-6206	550213	1	2	902	3	Lubomír	Štěpánek	M			56	lesní dělník	Heršpice	99	80	A
-6206	550213	1	2	902	4	Miloslav	Jeřábek	M			48	OSVČ	Heršpice	99	80	A
-6206	550213	1	2	902	5	Lucie	Štefánková	F	Mgr. Bc.		37	mateřská dovolená	Heršpice	99	80	A
-6206	550213	1	2	902	6	Kateřina	Sikorová	F	Mgr.		38	laboratorní diagnostika	Heršpice	99	80	A
-6206	550213	1	2	902	7	Pavel	Braun	M	Ing.		43	manager bankovnictví	Heršpice	99	80	A
-6206	550213	1	2	902	8	Lubomír	Štěpánek	M			34	strojírenství	Heršpice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	550213	1	1	901	1	Pavel	Řihák	Ing.		44	projektový manažer	Heršpice	99	80	A	M
+6206	550213	1	2	902	1	Karel	Knesl			38	starosta	Heršpice	99	80	A	M
+6206	550213	1	1	901	2	Vít	Vykoukal	Mgr.	Ph.D.	33	aplikační inženýr	Heršpice	99	80	A	M
+6206	550213	1	2	902	2	Jaroslav	Juříček			37	OSVČ	Heršpice	99	80	A	M
+6206	550213	1	1	901	3	Michal	Sigmund			37	technicko - hospodářský pracovník	Heršpice	99	80	A	M
+6206	550213	1	2	902	3	Lubomír	Štěpánek			56	lesní dělník	Heršpice	99	80	A	M
+6206	550213	1	1	901	4	Jan	Hofírek			41	projektant	Heršpice	99	80	A	M
+6206	550213	1	2	902	4	Miloslav	Jeřábek			48	OSVČ	Heršpice	99	80	A	M
+6206	550213	1	1	901	5	Jaromír	Dostál			72	důchodce	Heršpice	99	80	A	M
+6206	550213	1	2	902	5	Lucie	Štefánková	Mgr. Bc.		37	mateřská dovolená	Heršpice	99	80	A	F
+6206	550213	1	1	901	6	Kamil	Maláč			45	koordinátor stavebních prací	Heršpice	99	80	A	M
+6206	550213	1	2	902	6	Kateřina	Sikorová	Mgr.		38	laboratorní diagnostika	Heršpice	99	80	A	F
+6206	550213	1	1	901	7	Zdeněk	Janík	Mgr.	M.A., Ph.D.	47	koordinátor mezinárodních vztahů Masarykovy univerzity	Heršpice	99	80	A	M
+6206	550213	1	2	902	7	Pavel	Braun	Ing.		43	manager bankovnictví	Heršpice	99	80	A	M
+6206	550213	1	1	901	8	Alena	Šmerdová			60	kadeřnice	Heršpice	99	80	A	F
+6206	550213	1	2	902	8	Lubomír	Štěpánek			34	strojírenství	Heršpice	99	80	A	M

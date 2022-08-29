@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3105	561673	1	1	902	1	Ondřej	Sedláček	M			27	farmář	Arnoštov	99	80	0
-3105	561673	1	1	902	2	Miroslav	Tobiáš	M			37	lesní dělník	Arnoštov	99	80	0
-3105	561673	1	1	902	3	Ivana	Kloudová	F			60	důchodkyně	Markov	99	80	0
-3105	561673	1	1	902	4	Roman	Chudý	M			37	zedník	Křišťanov	99	80	0
-3105	561673	1	1	902	5	Růžena	Drozdová	F			29	mateřská dovolená	Arnoštov	99	80	0
-3105	561673	1	1	902	6	Lucie	Vyskočilová	F			22	kuchařka	Křišťanov	99	80	0
-3105	561673	1	1	902	7	Alena	Zemanová	F			49	kuchařka	Křišťanov	99	80	0
-3105	561673	1	2	901	1	Martin	Menšík	M			48	soukromý podnikatel	Křišťanov	99	80	0
-3105	561673	1	2	901	2	Miroslav	Drozd	M			28	lesní dělník	Arnoštov	99	80	0
-3105	561673	1	2	901	3	Božena	Vyskočilová	F			45	prodavačka	Křišťanov	99	80	0
-3105	561673	1	2	901	4	Jan	Bárta	M			25	příslušník Policie ČR	Arnoštov	99	80	0
-3105	561673	1	2	901	5	Martin	Rožnovský	M			37	lesní dělník	Křišťanov	99	80	0
-3105	561673	1	2	901	6	Anna	Benešová	F			47	dělnice	Křišťanov	99	80	0
-3105	561673	1	2	901	7	Antonín	Haluška	M			25	řidič	Křišťanov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3105	561673	1	1	902	1	Ondřej	Sedláček			27	farmář	Arnoštov	99	80	0	M
+3105	561673	1	2	901	1	Martin	Menšík			48	soukromý podnikatel	Křišťanov	99	80	0	M
+3105	561673	1	1	902	2	Miroslav	Tobiáš			37	lesní dělník	Arnoštov	99	80	0	M
+3105	561673	1	2	901	2	Miroslav	Drozd			28	lesní dělník	Arnoštov	99	80	0	M
+3105	561673	1	1	902	3	Ivana	Kloudová			60	důchodkyně	Markov	99	80	0	F
+3105	561673	1	2	901	3	Božena	Vyskočilová			45	prodavačka	Křišťanov	99	80	0	F
+3105	561673	1	1	902	4	Roman	Chudý			37	zedník	Křišťanov	99	80	0	M
+3105	561673	1	2	901	4	Jan	Bárta			25	příslušník Policie ČR	Arnoštov	99	80	0	M
+3105	561673	1	1	902	5	Růžena	Drozdová			29	mateřská dovolená	Arnoštov	99	80	0	F
+3105	561673	1	2	901	5	Martin	Rožnovský			37	lesní dělník	Křišťanov	99	80	0	M
+3105	561673	1	1	902	6	Lucie	Vyskočilová			22	kuchařka	Křišťanov	99	80	0	F
+3105	561673	1	2	901	6	Anna	Benešová			47	dělnice	Křišťanov	99	80	0	F
+3105	561673	1	1	902	7	Alena	Zemanová			49	kuchařka	Křišťanov	99	80	0	F
+3105	561673	1	2	901	7	Antonín	Haluška			25	řidič	Křišťanov	99	80	0	M

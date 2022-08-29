@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7104	517887	1	1	53	1	Milan	Možíš	M			53	výkonný ředitel	Stará Ves	53	53	0
-7104	517887	1	1	53	2	Gabriela	Heryánová	F	Mgr.		29	učitelka	Stará Ves	99	53	0
-7104	517887	1	1	53	3	Milan	Chodníček	M			30	zámečník	Stará Ves	99	53	0
-7104	517887	1	1	53	4	Monika	Dvořáková	F			30	sekretářka	Stará Ves	99	53	0
-7104	517887	1	1	53	5	Martin	Možíš	M			28	živnostník	Stará Ves	53	53	0
-7104	517887	1	1	53	6	Bořek	Nevřala	M			22	technik	Stará Ves	53	53	0
-7104	517887	1	1	53	7	Pavlína	Uhlířová	F			38	dělnice	Stará Ves	99	53	0
-7104	517887	1	1	53	8	Milan	Možíš	M			29	podnikatel	Stará Ves	53	53	0
-7104	517887	1	1	53	9	Rostislav	Říha	M			29	dělník	Stará Ves	99	53	0
-7104	517887	1	2	801	1	Milan	Koplík	M			58	stavitel	Stará Ves	99	80	0
-7104	517887	1	3	47	1	Jaroslav	Zavadil	M			73	technik	Stará Ves	47	47	0
-7104	517887	1	3	47	2	Bohumil	Šiška	M			65	technik	Stará Ves	99	47	0
-7104	517887	1	3	47	3	Antonie	Hradilíková	F			52	jeřábnice	Stará Ves	47	47	0
-7104	517887	1	4	88	1	František	Zanáška	M	Ing.		65	důchodce	Stará Ves	99	88	0
-7104	517887	1	4	88	2	Radek	Heryan	M			27	státní zaměstnanec	Stará Ves	99	88	0
-7104	517887	1	4	88	3	Josef	Rozsypal	M			56	dělník	Stará Ves	99	88	0
-7104	517887	1	4	88	4	Jarmila	Lojdová	F			45	hospodářka	Stará Ves	99	88	0
-7104	517887	1	4	88	5	Jiřina	Mádrová	F			31	účetní	Stará Ves	99	88	0
-7104	517887	1	4	88	6	Pavel	Zakopal	M			24	zem. podnikatel	Stará Ves	99	88	0
-7104	517887	1	4	88	7	Martin	Pluháček	M			34	ved. výroby	Stará Ves	99	88	0
-7104	517887	1	4	88	8	Augustin	Procházka	M			63	důchodce	Stará Ves	99	88	0
-7104	517887	1	4	88	9	Roman	Slaměník	M			31	strojvedoucí	Stará Ves	99	88	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7104	517887	1	1	53	1	Milan	Možíš			53	výkonný ředitel	Stará Ves	53	53	0	M
+7104	517887	1	2	801	1	Milan	Koplík			58	stavitel	Stará Ves	99	80	0	M
+7104	517887	1	3	47	1	Jaroslav	Zavadil			73	technik	Stará Ves	47	47	0	M
+7104	517887	1	4	88	1	František	Zanáška	Ing.		65	důchodce	Stará Ves	99	88	0	M
+7104	517887	1	1	53	2	Gabriela	Heryánová	Mgr.		29	učitelka	Stará Ves	99	53	0	F
+7104	517887	1	3	47	2	Bohumil	Šiška			65	technik	Stará Ves	99	47	0	M
+7104	517887	1	4	88	2	Radek	Heryan			27	státní zaměstnanec	Stará Ves	99	88	0	M
+7104	517887	1	1	53	3	Milan	Chodníček			30	zámečník	Stará Ves	99	53	0	M
+7104	517887	1	3	47	3	Antonie	Hradilíková			52	jeřábnice	Stará Ves	47	47	0	F
+7104	517887	1	4	88	3	Josef	Rozsypal			56	dělník	Stará Ves	99	88	0	M
+7104	517887	1	1	53	4	Monika	Dvořáková			30	sekretářka	Stará Ves	99	53	0	F
+7104	517887	1	4	88	4	Jarmila	Lojdová			45	hospodářka	Stará Ves	99	88	0	F
+7104	517887	1	1	53	5	Martin	Možíš			28	živnostník	Stará Ves	53	53	0	M
+7104	517887	1	4	88	5	Jiřina	Mádrová			31	účetní	Stará Ves	99	88	0	F
+7104	517887	1	1	53	6	Bořek	Nevřala			22	technik	Stará Ves	53	53	0	M
+7104	517887	1	4	88	6	Pavel	Zakopal			24	zem. podnikatel	Stará Ves	99	88	0	M
+7104	517887	1	1	53	7	Pavlína	Uhlířová			38	dělnice	Stará Ves	99	53	0	F
+7104	517887	1	4	88	7	Martin	Pluháček			34	ved. výroby	Stará Ves	99	88	0	M
+7104	517887	1	1	53	8	Milan	Možíš			29	podnikatel	Stará Ves	53	53	0	M
+7104	517887	1	4	88	8	Augustin	Procházka			63	důchodce	Stará Ves	99	88	0	M
+7104	517887	1	1	53	9	Rostislav	Říha			29	dělník	Stará Ves	99	53	0	M
+7104	517887	1	4	88	9	Roman	Slaměník			31	strojvedoucí	Stará Ves	99	88	0	M

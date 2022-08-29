@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4202	563269	1	1	901	1	Květoslava	Grubnerová	F			44	bankovní úředník	Okounov	99	80	A
-4202	563269	1	1	901	2	Martin	Antoň	M			52	OSVČ	Okounov	99	80	A
-4202	563269	1	1	901	3	Ingrid	Martincová	F			44	operátor výroby	Okounov	99	80	A
-4202	563269	1	1	901	4	Martin	Bílek	M			43	svářeč	Okounov	99	80	A
-4202	563269	1	1	901	5	Robert	Šimůnek	M			41	voják z povolání	Okounov	99	80	A
-4202	563269	1	1	901	6	Martin	Kovač	M			42	OSVČ	Okounov	99	80	A
-4202	563269	1	1	901	7	Zdeněk	Gábor	M			34	technik	Okounov	99	80	A
-4202	563269	1	1	901	8	Ondřej	Antoň	M			24	operátor výroby	Okounov	99	80	A
-4202	563269	1	1	901	9	Adriana	Grubnerová	F			20	student	Okounov	99	80	A
-4202	563269	1	2	1017	1	Josef	Dvořák	M			43	starosta obce	Kotvina	99	1017	A
-4202	563269	1	2	1017	2	Radek	Dvořák	M			38	instalatér	Kotvina	99	1017	A
-4202	563269	1	2	1017	3	David	Essler	M			43	podnikatel	Kotvina	99	1017	A
-4202	563269	1	2	1017	4	Radka	Esslerová	F			34	mateřská dovolená	Kotvina	99	1017	A
-4202	563269	1	2	1017	5	Lenka	Nodlová	F			35	mateřská dovolená	Oslovice	99	1017	A
-4202	563269	1	2	1017	6	Dominik	Antoň	M			21	komerční bezpečnost	Okounov	99	1017	A
-4202	563269	1	2	1017	7	Věra	Pánisová	F			44	mistr výroby	Okounov	99	1017	A
-4202	563269	1	2	1017	8	Jiří	Zavadil	M			40	podnikatel	Kotvina	99	1017	A
-4202	563269	1	2	1017	9	Jan	Mareš	M			43	THP pracovník	Okounov	99	1017	A
-4202	563269	1	3	902	1	Josef	Hanžl	M			73	důchodce	Okounov	99	80	A
-4202	563269	1	3	902	2	Josef	Štochl	M			45	soukromý zemědělec	Okounov	99	80	A
-4202	563269	1	3	902	3	Patrik	Bartl	M			45	podnikatel	Kotvina	99	80	A
-4202	563269	1	3	902	4	Ivana	Bartlová	F			22	student	Kotvina	99	80	A
-4202	563269	1	3	902	5	Martina	Moučková	F			38	operátor výroby	Kotvina	99	80	A
-4202	563269	1	3	902	6	Petr	Moučka	M			42	údržbář	Kotvina	99	80	A
-4202	563269	1	3	902	7	Jiří	Vozarik	M			42	operátor výroby	Kotvina	99	80	A
-4202	563269	1	3	902	8	Zlata	Vozariková	F			54	předák VPP	Kotvina	99	80	A
-4202	563269	1	3	902	9	Miroslav	Černý	M			55	podnikatel	Okounov	99	80	A
-4202	563269	1	4	903	1	Martin	Hovorka	M			41	hasič	Okounov	99	80	A
-4202	563269	1	4	903	2	Zdeněk	Klaner	M			72	důchodce	Okounov	99	80	A
-4202	563269	1	4	903	3	Zuzana	Baďurová	F			40	soukromý zemědělec	Okounov	99	80	A
-4202	563269	1	4	903	4	Stanislava	Baďurová	F			44	bezpečnostní služba	Okounov	99	80	A
-4202	563269	1	4	903	5	Jarmila	Baďurová	F			63	důchodce	Okounov	99	80	A
-4202	563269	1	4	903	6	Lucie	Hovorková	F			35	operátor	Okounov	99	80	A
-4202	563269	1	4	903	7	Josef	Dvořák	M			23	hasič	Kotvina	99	80	A
-4202	563269	1	4	903	8	Klára	Malá	F			22	operátor	Kotvina	99	80	A
-4202	563269	1	4	903	9	Miroslav	Černý	M			30	řidič	Okounov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4202	563269	1	1	901	1	Květoslava	Grubnerová			44	bankovní úředník	Okounov	99	80	A	F
+4202	563269	1	2	1017	1	Josef	Dvořák			43	starosta obce	Kotvina	99	1017	A	M
+4202	563269	1	3	902	1	Josef	Hanžl			73	důchodce	Okounov	99	80	A	M
+4202	563269	1	4	903	1	Martin	Hovorka			41	hasič	Okounov	99	80	A	M
+4202	563269	1	1	901	2	Martin	Antoň			52	OSVČ	Okounov	99	80	A	M
+4202	563269	1	2	1017	2	Radek	Dvořák			38	instalatér	Kotvina	99	1017	A	M
+4202	563269	1	3	902	2	Josef	Štochl			45	soukromý zemědělec	Okounov	99	80	A	M
+4202	563269	1	4	903	2	Zdeněk	Klaner			72	důchodce	Okounov	99	80	A	M
+4202	563269	1	1	901	3	Ingrid	Martincová			44	operátor výroby	Okounov	99	80	A	F
+4202	563269	1	2	1017	3	David	Essler			43	podnikatel	Kotvina	99	1017	A	M
+4202	563269	1	3	902	3	Patrik	Bartl			45	podnikatel	Kotvina	99	80	A	M
+4202	563269	1	4	903	3	Zuzana	Baďurová			40	soukromý zemědělec	Okounov	99	80	A	F
+4202	563269	1	1	901	4	Martin	Bílek			43	svářeč	Okounov	99	80	A	M
+4202	563269	1	2	1017	4	Radka	Esslerová			34	mateřská dovolená	Kotvina	99	1017	A	F
+4202	563269	1	3	902	4	Ivana	Bartlová			22	student	Kotvina	99	80	A	F
+4202	563269	1	4	903	4	Stanislava	Baďurová			44	bezpečnostní služba	Okounov	99	80	A	F
+4202	563269	1	1	901	5	Robert	Šimůnek			41	voják z povolání	Okounov	99	80	A	M
+4202	563269	1	2	1017	5	Lenka	Nodlová			35	mateřská dovolená	Oslovice	99	1017	A	F
+4202	563269	1	3	902	5	Martina	Moučková			38	operátor výroby	Kotvina	99	80	A	F
+4202	563269	1	4	903	5	Jarmila	Baďurová			63	důchodce	Okounov	99	80	A	F
+4202	563269	1	1	901	6	Martin	Kovač			42	OSVČ	Okounov	99	80	A	M
+4202	563269	1	2	1017	6	Dominik	Antoň			21	komerční bezpečnost	Okounov	99	1017	A	M
+4202	563269	1	3	902	6	Petr	Moučka			42	údržbář	Kotvina	99	80	A	M
+4202	563269	1	4	903	6	Lucie	Hovorková			35	operátor	Okounov	99	80	A	F
+4202	563269	1	1	901	7	Zdeněk	Gábor			34	technik	Okounov	99	80	A	M
+4202	563269	1	2	1017	7	Věra	Pánisová			44	mistr výroby	Okounov	99	1017	A	F
+4202	563269	1	3	902	7	Jiří	Vozarik			42	operátor výroby	Kotvina	99	80	A	M
+4202	563269	1	4	903	7	Josef	Dvořák			23	hasič	Kotvina	99	80	A	M
+4202	563269	1	1	901	8	Ondřej	Antoň			24	operátor výroby	Okounov	99	80	A	M
+4202	563269	1	2	1017	8	Jiří	Zavadil			40	podnikatel	Kotvina	99	1017	A	M
+4202	563269	1	3	902	8	Zlata	Vozariková			54	předák VPP	Kotvina	99	80	A	F
+4202	563269	1	4	903	8	Klára	Malá			22	operátor	Kotvina	99	80	A	F
+4202	563269	1	1	901	9	Adriana	Grubnerová			20	student	Okounov	99	80	A	F
+4202	563269	1	2	1017	9	Jan	Mareš			43	THP pracovník	Okounov	99	1017	A	M
+4202	563269	1	3	902	9	Miroslav	Černý			55	podnikatel	Okounov	99	80	A	M
+4202	563269	1	4	903	9	Miroslav	Černý			30	řidič	Okounov	99	80	A	M

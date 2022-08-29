@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2102	534421	1	1	901	1	Petr	Šilhavý	M			42	státní zaměstnanec	Bavoryně	99	80	0
-2102	534421	1	1	901	2	Václav	Mareš	M			67	důchodce	Bavoryně	99	80	0
-2102	534421	1	1	901	3	Josef	Dětka	M	JUDr.		61	OSVČ	Bavoryně	99	80	0
-2102	534421	1	1	901	4	Josef	Bacík	M			69	důchodce	Bavoryně	99	80	0
-2102	534421	1	1	901	5	Helena	Trnková	F			33	OSVČ	Bavoryně	99	80	0
-2102	534421	1	1	901	6	Alena	Gajňáková	F			37	prodavačka	Bavoryně	99	80	0
-2102	534421	1	1	901	7	Eva	Jelšinová	F			34	státní zaměstnanec	Bavoryně	99	80	0
-2102	534421	1	2	902	1	Jan	Nedvěd	M	Ing.		27	projektant	Bavoryně	99	80	0
-2102	534421	1	2	902	2	Marie	Kučerová	F			44	administrativní pracovnice	Bavoryně	99	80	0
-2102	534421	1	2	902	3	Josef	Merhaut	M			58	předseda ZD	Bavoryně	99	80	0
-2102	534421	1	2	902	4	Tomáš	Hrabák	M	MUDr.		46	lékař	Bavoryně	99	80	0
-2102	534421	1	2	902	5	Zdeněk	Vinš	M	Ing.		58	OSVČ	Bavoryně	99	80	0
-2102	534421	1	2	902	6	Josef	Kepr	M			35	OSVČ	Bavoryně	99	80	0
-2102	534421	1	2	902	7	Eva	Villagomez Dlouhá	F	Ing.		29	mateřská péče	Bavoryně	99	80	0
-2102	534421	1	2	902	8	Kamil	Roztočil	M			35	provozní montér VaK	Bavoryně	99	80	0
-2102	534421	1	2	902	9	Hana	Levová	F			43	účetní	Bavoryně	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2102	534421	1	1	901	1	Petr	Šilhavý			42	státní zaměstnanec	Bavoryně	99	80	0	M
+2102	534421	1	2	902	1	Jan	Nedvěd	Ing.		27	projektant	Bavoryně	99	80	0	M
+2102	534421	1	1	901	2	Václav	Mareš			67	důchodce	Bavoryně	99	80	0	M
+2102	534421	1	2	902	2	Marie	Kučerová			44	administrativní pracovnice	Bavoryně	99	80	0	F
+2102	534421	1	1	901	3	Josef	Dětka	JUDr.		61	OSVČ	Bavoryně	99	80	0	M
+2102	534421	1	2	902	3	Josef	Merhaut			58	předseda ZD	Bavoryně	99	80	0	M
+2102	534421	1	1	901	4	Josef	Bacík			69	důchodce	Bavoryně	99	80	0	M
+2102	534421	1	2	902	4	Tomáš	Hrabák	MUDr.		46	lékař	Bavoryně	99	80	0	M
+2102	534421	1	1	901	5	Helena	Trnková			33	OSVČ	Bavoryně	99	80	0	F
+2102	534421	1	2	902	5	Zdeněk	Vinš	Ing.		58	OSVČ	Bavoryně	99	80	0	M
+2102	534421	1	1	901	6	Alena	Gajňáková			37	prodavačka	Bavoryně	99	80	0	F
+2102	534421	1	2	902	6	Josef	Kepr			35	OSVČ	Bavoryně	99	80	0	M
+2102	534421	1	1	901	7	Eva	Jelšinová			34	státní zaměstnanec	Bavoryně	99	80	0	F
+2102	534421	1	2	902	7	Eva	Villagomez Dlouhá	Ing.		29	mateřská péče	Bavoryně	99	80	0	F
+2102	534421	1	2	902	8	Kamil	Roztočil			35	provozní montér VaK	Bavoryně	99	80	0	M
+2102	534421	1	2	902	9	Hana	Levová			43	účetní	Bavoryně	99	80	0	F

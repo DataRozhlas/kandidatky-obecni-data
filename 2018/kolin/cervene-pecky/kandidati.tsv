@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2104	533262	1	1	470	1	Lubomír	Jirků	M			52	starosta městyse	Červené Pečky	99	166	A
-2104	533262	1	1	470	2	Josef	Novotný	M	Ing.		62	důchodce	Červené Pečky	99	80	A
-2104	533262	1	1	470	3	Miloslav	Kubín	M	Ing.		61	geodet	Červené Pečky	99	80	A
-2104	533262	1	1	470	4	Lukáš	Istenčin	M	Mgr.		41	učitel ZŠ	Červené Pečky	99	80	A
-2104	533262	1	1	470	5	Alena	Sosnovcová	F	PaedDr.		57	učitelka SŠ	Dobešovice	99	80	A
-2104	533262	1	1	470	6	Jan	Bradna	M			67	důchodce	Červené Pečky	99	80	A
-2104	533262	1	1	470	7	Kateřina	Bradnová	F			40	OSVČ, jednatelka společnosti	Červené Pečky	99	80	A
-2104	533262	1	1	470	8	Jiřina	Kotyková	F	Mgr.		43	učitelka SŠ	Červené Pečky	99	80	A
-2104	533262	1	1	470	9	Jan	Dvořák	M	Mgr.		75	důchodce	Červené Pečky	99	80	A
-2104	533262	1	1	470	10	Tomáš	Dvořák	M			43	mechanik regulačních zařízení	Červené Pečky	99	80	A
-2104	533262	1	1	470	11	Pavel	Matoušek	M			55	technik	Červené Pečky	99	80	A
-2104	533262	1	1	470	12	Jan	Beránek	M			62	školník ZŠ a MŠ Červené Pečky	Červené Pečky	99	80	A
-2104	533262	1	1	470	13	Pavel	Lupták	M	Mgr.		56	pracovník CBS	Bořetice	99	80	A
-2104	533262	1	2	53	1	Radek	Kulhánek	M			46	jednatel společnosti	Červené Pečky	99	53	A
-2104	533262	1	2	53	2	Pavel	Šanc	M	Ing.		45	ekonom	Červené Pečky	99	53	A
-2104	533262	1	2	53	3	Magdalena	Jirušová	F			45	účetní	Bořetice	99	53	A
-2104	533262	1	2	53	4	Roman	Lang	M			53	technik	Bojiště	99	53	A
-2104	533262	1	2	53	5	Petr	Hoffman	M			46	technik	Červené Pečky	99	53	A
-2104	533262	1	2	53	6	Zdeněk	Körbl	M			43	soukromý podnikatel	Červené Pečky	99	53	A
-2104	533262	1	2	53	7	Jan	Hanzl	M			55	stavební technik	Bořetice	99	53	A
-2104	533262	1	2	53	8	Pavel	Pospíšil	M	Ing.		45	vedoucí konstrukce	Červené Pečky	99	53	A
-2104	533262	1	2	53	9	Jakub	Kulhánek	M	Bc.		26	projektový manažer	Červené Pečky	53	53	A
-2104	533262	1	2	53	10	Jiří	Král	M			43	technik	Červené Pečky	99	53	A
-2104	533262	1	2	53	11	Milan	Král	M			39	elektromontér	Červené Pečky	99	53	A
-2104	533262	1	2	53	12	Miloš	Zuza	M			46	vedoucí výroby	Červené Pečky	99	53	A
-2104	533262	1	2	53	13	Radka	Šancová	F	Mgr.		40	učitelka	Červené Pečky	99	53	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2104	533262	1	1	470	1	Lubomír	Jirků			52	starosta městyse	Červené Pečky	99	166	A	M
+2104	533262	1	2	53	1	Radek	Kulhánek			46	jednatel společnosti	Červené Pečky	99	53	A	M
+2104	533262	1	1	470	2	Josef	Novotný	Ing.		62	důchodce	Červené Pečky	99	80	A	M
+2104	533262	1	2	53	2	Pavel	Šanc	Ing.		45	ekonom	Červené Pečky	99	53	A	M
+2104	533262	1	1	470	3	Miloslav	Kubín	Ing.		61	geodet	Červené Pečky	99	80	A	M
+2104	533262	1	2	53	3	Magdalena	Jirušová			45	účetní	Bořetice	99	53	A	F
+2104	533262	1	1	470	4	Lukáš	Istenčin	Mgr.		41	učitel ZŠ	Červené Pečky	99	80	A	M
+2104	533262	1	2	53	4	Roman	Lang			53	technik	Bojiště	99	53	A	M
+2104	533262	1	1	470	5	Alena	Sosnovcová	PaedDr.		57	učitelka SŠ	Dobešovice	99	80	A	F
+2104	533262	1	2	53	5	Petr	Hoffman			46	technik	Červené Pečky	99	53	A	M
+2104	533262	1	1	470	6	Jan	Bradna			67	důchodce	Červené Pečky	99	80	A	M
+2104	533262	1	2	53	6	Zdeněk	Körbl			43	soukromý podnikatel	Červené Pečky	99	53	A	M
+2104	533262	1	1	470	7	Kateřina	Bradnová			40	OSVČ, jednatelka společnosti	Červené Pečky	99	80	A	F
+2104	533262	1	2	53	7	Jan	Hanzl			55	stavební technik	Bořetice	99	53	A	M
+2104	533262	1	1	470	8	Jiřina	Kotyková	Mgr.		43	učitelka SŠ	Červené Pečky	99	80	A	F
+2104	533262	1	2	53	8	Pavel	Pospíšil	Ing.		45	vedoucí konstrukce	Červené Pečky	99	53	A	M
+2104	533262	1	1	470	9	Jan	Dvořák	Mgr.		75	důchodce	Červené Pečky	99	80	A	M
+2104	533262	1	2	53	9	Jakub	Kulhánek	Bc.		26	projektový manažer	Červené Pečky	53	53	A	M
+2104	533262	1	1	470	10	Tomáš	Dvořák			43	mechanik regulačních zařízení	Červené Pečky	99	80	A	M
+2104	533262	1	2	53	10	Jiří	Král			43	technik	Červené Pečky	99	53	A	M
+2104	533262	1	1	470	11	Pavel	Matoušek			55	technik	Červené Pečky	99	80	A	M
+2104	533262	1	2	53	11	Milan	Král			39	elektromontér	Červené Pečky	99	53	A	M
+2104	533262	1	1	470	12	Jan	Beránek			62	školník ZŠ a MŠ Červené Pečky	Červené Pečky	99	80	A	M
+2104	533262	1	2	53	12	Miloš	Zuza			46	vedoucí výroby	Červené Pečky	99	53	A	M
+2104	533262	1	1	470	13	Pavel	Lupták	Mgr.		56	pracovník CBS	Bořetice	99	80	A	M
+2104	533262	1	2	53	13	Radka	Šancová	Mgr.		40	učitelka	Červené Pečky	99	53	A	F

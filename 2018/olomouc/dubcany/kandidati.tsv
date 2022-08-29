@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	552071	1	1	901	1	Karel	Stejskal	M	Bc.		39	manager obchodu	Dubčany	99	80	A
-7102	552071	1	1	901	2	Pavel	Píše	M	Ing.		40	technik	Dubčany	99	80	A
-7102	552071	1	1	901	3	Hana	Sládková	F			44	státní zaměstnanec	Dubčany	99	80	A
-7102	552071	1	1	901	4	Jiří	Kyjonka	M			37	obchodní zástupce	Dubčany	99	80	A
-7102	552071	1	1	901	5	Roman	Mačák	M	Ing.		42	policista	Dubčany	99	80	A
-7102	552071	1	1	901	6	Tomáš	Navrátil	M			45	soukromý zemědělec	Dubčany	99	80	A
-7102	552071	1	1	901	7	Bohumil	Květoň	M			39	projektant	Dubčany	99	80	A
-7102	552071	1	2	1	1	Alois	Obšel	M			57	frézař	Dubčany	1	1	A
-7102	552071	1	2	1	2	Marcela	Sekaninová	F	Mgr.		46	zdravotní sestra	Dubčany	1	1	A
-7102	552071	1	2	1	3	Jiří	Vykydal	M			34	servisní technik	Dubčany	99	1	A
-7102	552071	1	2	1	4	Zdenek	Hubáček	M			60	řidič pohřební služby	Dubčany	1	1	A
-7102	552071	1	2	1	5	Karel	Krikel	M			41	pracovník SSOK	Dubčany	99	1	A
-7102	552071	1	2	1	6	Jiřina	Novotná	F			72	důchodkyně	Dubčany	1	1	A
-7102	552071	1	2	1	7	Zdeněk	Hubáček	M			35	OSVČ	Dubčany	1	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	552071	1	1	901	1	Karel	Stejskal	Bc.		39	manager obchodu	Dubčany	99	80	A	M
+7102	552071	1	2	1	1	Alois	Obšel			57	frézař	Dubčany	1	1	A	M
+7102	552071	1	1	901	2	Pavel	Píše	Ing.		40	technik	Dubčany	99	80	A	M
+7102	552071	1	2	1	2	Marcela	Sekaninová	Mgr.		46	zdravotní sestra	Dubčany	1	1	A	F
+7102	552071	1	1	901	3	Hana	Sládková			44	státní zaměstnanec	Dubčany	99	80	A	F
+7102	552071	1	2	1	3	Jiří	Vykydal			34	servisní technik	Dubčany	99	1	A	M
+7102	552071	1	1	901	4	Jiří	Kyjonka			37	obchodní zástupce	Dubčany	99	80	A	M
+7102	552071	1	2	1	4	Zdenek	Hubáček			60	řidič pohřební služby	Dubčany	1	1	A	M
+7102	552071	1	1	901	5	Roman	Mačák	Ing.		42	policista	Dubčany	99	80	A	M
+7102	552071	1	2	1	5	Karel	Krikel			41	pracovník SSOK	Dubčany	99	1	A	M
+7102	552071	1	1	901	6	Tomáš	Navrátil			45	soukromý zemědělec	Dubčany	99	80	A	M
+7102	552071	1	2	1	6	Jiřina	Novotná			72	důchodkyně	Dubčany	1	1	A	F
+7102	552071	1	1	901	7	Bohumil	Květoň			39	projektant	Dubčany	99	80	A	M
+7102	552071	1	2	1	7	Zdeněk	Hubáček			35	OSVČ	Dubčany	1	1	A	M

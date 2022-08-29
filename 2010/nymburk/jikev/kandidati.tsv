@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2108	537250	1	1	902	1	Martina	Veselá	F			34	rodičovská dovolená	Jíkev	99	80	0
-2108	537250	1	1	902	2	Žaneta	Rysová	F			24	systémový specialista	Jíkev	99	80	0
-2108	537250	1	1	902	3	Stanislav	Krupka	M			40	elektromechanik	Jíkev	99	80	0
-2108	537250	1	1	902	4	Petra	Rysová	F			38	asistent agronoma	Jíkev	99	80	0
-2108	537250	1	1	902	5	Petra	Klusáková	F			32	rodičovská dovolená	Jíkev	99	80	0
-2108	537250	1	1	902	6	Dana	Wiehlová	F	Ing.		40	referent kontroly	Jíkev	99	80	0
-2108	537250	1	1	902	7	Lenka	Adamcová	F			36	dámská krejčová	Jíkev	99	80	0
-2108	537250	1	1	902	8	Jana	Žmolilová	F			37	referent	Jíkev	99	80	0
-2108	537250	1	1	902	9	Lucie	Kysilková	F			30	pracovnice v expedici	Jíkev	99	80	0
-2108	537250	1	2	904	1	Ivanka	Šámalová	F	RSDr., Mgr.		62	učitelka	Jíkev	47	80	0
-2108	537250	1	2	904	2	Marie	Hořáková	F			59	redaktorka	Jíkev	99	80	0
-2108	537250	1	2	904	3	Lenka	Minaříková	F			36	stát. zaměst.	Jíkev	99	80	0
-2108	537250	1	2	904	4	Eva	Hrušková	F			64	zem. technik	Jíkev	99	80	0
-2108	537250	1	2	904	5	Stanislava	Formanová	F			58	ekonomka	Jíkev	99	80	0
-2108	537250	1	2	904	6	Jitka	Austová	F			48	prodavačka	Jíkev	99	80	0
-2108	537250	1	2	904	7	Ivanka	Štěpánková	F			61	referentka	Jíkev	99	80	0
-2108	537250	1	2	904	8	Lenka	Millerová	F			37	text. chemička	Jíkev	99	80	0
-2108	537250	1	2	904	9	Jana	Pekárková	F			47	referentka CA	Jíkev	99	80	0
-2108	537250	1	3	903	1	Vladimír	Káninský	M			63	v důchodu	Jíkev	99	80	0
-2108	537250	1	3	903	2	Jiří	Zahrádka	M			50	řidič	Jíkev	99	80	0
-2108	537250	1	3	903	3	Jiří	Jouza	M			45	dělník	Jíkev	99	80	0
-2108	537250	1	3	903	4	Vladimír	Fadrhonc	M			50	dělník	Jíkev	99	80	0
-2108	537250	1	3	903	5	Tomáš	Holan	M			43	dělník	Jíkev	99	80	0
-2108	537250	1	3	903	6	Václav	Šafr	M			36	dělník	Jíkev	99	80	0
-2108	537250	1	3	903	7	Jaromír	Škuthan	M			56	dělník	Jíkev	99	80	0
-2108	537250	1	3	903	8	Václav	Hrdlička	M			37	podnikatel	Jíkev	99	80	0
-2108	537250	1	3	903	9	Marcela	Kučerová	F			55	pošt.doručovatelka	Jíkev	99	80	0
-2108	537250	1	4	901	1	Jaroslav	Adamec	M			38	vlakvedoucí	Jíkev	99	80	0
-2108	537250	1	4	901	2	Martin	Wiehl	M	Ing.		42	ředitel společnosti	Jíkev	99	80	0
-2108	537250	1	4	901	3	Jaroslav	Klusák	M	Ing.		35	konzultant	Jíkev	99	80	0
-2108	537250	1	4	901	4	Jaroslav	Žmolil	M			39	soukromý zemědělec	Jíkev	99	80	0
-2108	537250	1	4	901	5	Radka	Rozová	F			32	pracovnice velkoobchodu	Jíkev	99	80	0
-2108	537250	1	4	901	6	Petr	Rys	M			41	servisní technik	Jíkev	99	80	0
-2108	537250	1	4	901	7	Miroslav	Veselý	M			36	soukromý zemědělec	Jíkev	99	80	0
-2108	537250	1	4	901	8	Eva	Lebdušková	F			34	dámská krejčová	Jíkev	99	80	0
-2108	537250	1	4	901	9	Jaroslav	Rylich	M			29	truhlář	Jíkev	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2108	537250	1	1	902	1	Martina	Veselá			34	rodičovská dovolená	Jíkev	99	80	0	F
+2108	537250	1	2	904	1	Ivanka	Šámalová	RSDr., Mgr.		62	učitelka	Jíkev	47	80	0	F
+2108	537250	1	3	903	1	Vladimír	Káninský			63	v důchodu	Jíkev	99	80	0	M
+2108	537250	1	4	901	1	Jaroslav	Adamec			38	vlakvedoucí	Jíkev	99	80	0	M
+2108	537250	1	1	902	2	Žaneta	Rysová			24	systémový specialista	Jíkev	99	80	0	F
+2108	537250	1	2	904	2	Marie	Hořáková			59	redaktorka	Jíkev	99	80	0	F
+2108	537250	1	3	903	2	Jiří	Zahrádka			50	řidič	Jíkev	99	80	0	M
+2108	537250	1	4	901	2	Martin	Wiehl	Ing.		42	ředitel společnosti	Jíkev	99	80	0	M
+2108	537250	1	1	902	3	Stanislav	Krupka			40	elektromechanik	Jíkev	99	80	0	M
+2108	537250	1	2	904	3	Lenka	Minaříková			36	stát. zaměst.	Jíkev	99	80	0	F
+2108	537250	1	3	903	3	Jiří	Jouza			45	dělník	Jíkev	99	80	0	M
+2108	537250	1	4	901	3	Jaroslav	Klusák	Ing.		35	konzultant	Jíkev	99	80	0	M
+2108	537250	1	1	902	4	Petra	Rysová			38	asistent agronoma	Jíkev	99	80	0	F
+2108	537250	1	2	904	4	Eva	Hrušková			64	zem. technik	Jíkev	99	80	0	F
+2108	537250	1	3	903	4	Vladimír	Fadrhonc			50	dělník	Jíkev	99	80	0	M
+2108	537250	1	4	901	4	Jaroslav	Žmolil			39	soukromý zemědělec	Jíkev	99	80	0	M
+2108	537250	1	1	902	5	Petra	Klusáková			32	rodičovská dovolená	Jíkev	99	80	0	F
+2108	537250	1	2	904	5	Stanislava	Formanová			58	ekonomka	Jíkev	99	80	0	F
+2108	537250	1	3	903	5	Tomáš	Holan			43	dělník	Jíkev	99	80	0	M
+2108	537250	1	4	901	5	Radka	Rozová			32	pracovnice velkoobchodu	Jíkev	99	80	0	F
+2108	537250	1	1	902	6	Dana	Wiehlová	Ing.		40	referent kontroly	Jíkev	99	80	0	F
+2108	537250	1	2	904	6	Jitka	Austová			48	prodavačka	Jíkev	99	80	0	F
+2108	537250	1	3	903	6	Václav	Šafr			36	dělník	Jíkev	99	80	0	M
+2108	537250	1	4	901	6	Petr	Rys			41	servisní technik	Jíkev	99	80	0	M
+2108	537250	1	1	902	7	Lenka	Adamcová			36	dámská krejčová	Jíkev	99	80	0	F
+2108	537250	1	2	904	7	Ivanka	Štěpánková			61	referentka	Jíkev	99	80	0	F
+2108	537250	1	3	903	7	Jaromír	Škuthan			56	dělník	Jíkev	99	80	0	M
+2108	537250	1	4	901	7	Miroslav	Veselý			36	soukromý zemědělec	Jíkev	99	80	0	M
+2108	537250	1	1	902	8	Jana	Žmolilová			37	referent	Jíkev	99	80	0	F
+2108	537250	1	2	904	8	Lenka	Millerová			37	text. chemička	Jíkev	99	80	0	F
+2108	537250	1	3	903	8	Václav	Hrdlička			37	podnikatel	Jíkev	99	80	0	M
+2108	537250	1	4	901	8	Eva	Lebdušková			34	dámská krejčová	Jíkev	99	80	0	F
+2108	537250	1	1	902	9	Lucie	Kysilková			30	pracovnice v expedici	Jíkev	99	80	0	F
+2108	537250	1	2	904	9	Jana	Pekárková			47	referentka CA	Jíkev	99	80	0	F
+2108	537250	1	3	903	9	Marcela	Kučerová			55	pošt.doručovatelka	Jíkev	99	80	0	F
+2108	537250	1	4	901	9	Jaroslav	Rylich			29	truhlář	Jíkev	99	80	0	M

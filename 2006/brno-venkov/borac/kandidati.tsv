@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	595314	1	1	805	1	Milan	Válka	M			33	elektromechanik	Borač	99	80	0
-6203	595314	1	2	803	1	Milan	Odehnal	M			45	vrátný	Borač	99	80	0
-6203	595314	1	3	802	1	Jaroslav	Uher	M			31	hasič	Podolí	99	80	0
-6203	595314	1	4	1	1	Miroslava	Kadlová	F			47	podnikatelka	Podolí	1	1	0
-6203	595314	1	4	1	2	František	Brázda	M	Ing.		39	státní zaměstnanec	Podolí	99	1	0
-6203	595314	1	4	1	3	Vladimír	Bartošovský	M	Ing.		42	podnikatel	Podolí	99	1	0
-6203	595314	1	4	1	4	Miroslava	Egerová	F			43	živnostník	Borač	99	1	0
-6203	595314	1	4	1	5	Petr	Odehnal	M			24	svářeč	Borač	99	1	0
-6203	595314	1	4	1	6	Kateřina	Tomášková	F			19	studentka právnické fakulty	Borač	99	1	0
-6203	595314	1	5	804	1	Radek	Haranz	M			32	invalidní důchodce	Podolí	99	80	0
-6203	595314	1	6	808	1	Martin	Haranz	M			27	podnikatel	Podolí	99	80	0
-6203	595314	1	7	801	1	Vladimír	Uher	M			63	důchodce	Podolí	99	80	0
-6203	595314	1	8	807	1	Roman	Odehnal	M			34	zámečník	Borač	99	80	0
-6203	595314	1	9	806	1	Jitka	Válková	F			33	prodavačka	Borač	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	595314	1	1	805	1	Milan	Válka			33	elektromechanik	Borač	99	80	0	M
+6203	595314	1	2	803	1	Milan	Odehnal			45	vrátný	Borač	99	80	0	M
+6203	595314	1	3	802	1	Jaroslav	Uher			31	hasič	Podolí	99	80	0	M
+6203	595314	1	4	1	1	Miroslava	Kadlová			47	podnikatelka	Podolí	1	1	0	F
+6203	595314	1	5	804	1	Radek	Haranz			32	invalidní důchodce	Podolí	99	80	0	M
+6203	595314	1	6	808	1	Martin	Haranz			27	podnikatel	Podolí	99	80	0	M
+6203	595314	1	7	801	1	Vladimír	Uher			63	důchodce	Podolí	99	80	0	M
+6203	595314	1	8	807	1	Roman	Odehnal			34	zámečník	Borač	99	80	0	M
+6203	595314	1	9	806	1	Jitka	Válková			33	prodavačka	Borač	99	80	0	F
+6203	595314	1	4	1	2	František	Brázda	Ing.		39	státní zaměstnanec	Podolí	99	1	0	M
+6203	595314	1	4	1	3	Vladimír	Bartošovský	Ing.		42	podnikatel	Podolí	99	1	0	M
+6203	595314	1	4	1	4	Miroslava	Egerová			43	živnostník	Borač	99	1	0	F
+6203	595314	1	4	1	5	Petr	Odehnal			24	svářeč	Borač	99	1	0	M
+6203	595314	1	4	1	6	Kateřina	Tomášková			19	studentka právnické fakulty	Borač	99	1	0	F

@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7104	523453	1	1	901	1	Zdeňka	Lesáková	F			54	nezaměstnaná	Žákovice	99	80	0
-7104	523453	1	1	901	2	Miroslav	Jančík	M			52	údržbář	Žákovice	99	80	0
-7104	523453	1	1	901	3	Jana	Sigmundová	F			62	důchodkyně	Žákovice	99	80	0
-7104	523453	1	1	901	4	Pavel	Coufalík	M			35	elektrikář	Žákovice	99	80	0
-7104	523453	1	1	901	5	Tomáš	Kapavík	M	Bc.		31	elektrotechnik	Žákovice	99	80	0
-7104	523453	1	2	902	1	Blažena	Matějíčková	F			55	úřednice	Žákovice	99	80	0
-7104	523453	1	2	902	2	Jaromír	Jiříček	M			37	stolař	Žákovice	99	80	0
-7104	523453	1	2	902	3	Martin	Němec	M	Ing.		29	středoškolský učitel	Žákovice	99	80	0
-7104	523453	1	2	902	4	Robert	Pavlištík	M			31	lesní dělník	Žákovice	99	80	0
-7104	523453	1	2	902	5	Miroslav	Jančík	M	Bc.		24	dělník	Žákovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7104	523453	1	1	901	1	Zdeňka	Lesáková			54	nezaměstnaná	Žákovice	99	80	0	F
+7104	523453	1	2	902	1	Blažena	Matějíčková			55	úřednice	Žákovice	99	80	0	F
+7104	523453	1	1	901	2	Miroslav	Jančík			52	údržbář	Žákovice	99	80	0	M
+7104	523453	1	2	902	2	Jaromír	Jiříček			37	stolař	Žákovice	99	80	0	M
+7104	523453	1	1	901	3	Jana	Sigmundová			62	důchodkyně	Žákovice	99	80	0	F
+7104	523453	1	2	902	3	Martin	Němec	Ing.		29	středoškolský učitel	Žákovice	99	80	0	M
+7104	523453	1	1	901	4	Pavel	Coufalík			35	elektrikář	Žákovice	99	80	0	M
+7104	523453	1	2	902	4	Robert	Pavlištík			31	lesní dělník	Žákovice	99	80	0	M
+7104	523453	1	1	901	5	Tomáš	Kapavík	Bc.		31	elektrotechnik	Žákovice	99	80	0	M
+7104	523453	1	2	902	5	Miroslav	Jančík	Bc.		24	dělník	Žákovice	99	80	0	M

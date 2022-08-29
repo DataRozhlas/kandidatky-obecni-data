@@ -1,33 +1,33 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4102	555622	1	1	801	1	Pavel	Široký	M	Ing.		32	soukromě hospodařící zemědělec	Mostec	99	80	0
-4102	555622	1	2	903	1	Roman	Debellis	M			34	dělník	Štědrá	99	80	0
-4102	555622	1	2	903	2	Jaroslav	Třeštík	M			35	dělník	Zbraslav	99	80	0
-4102	555622	1	2	903	3	Albert	Karnoll	M			53	řidič	Prohoř	99	80	0
-4102	555622	1	2	903	4	Kamil	Ashoor	M			31	dělník	Lažany	99	80	0
-4102	555622	1	2	903	5	Antonín	Bachmann	M			33	dělník	Štědrá	99	80	0
-4102	555622	1	2	903	6	Jiří	Špiroch	M			39	dělník	Štědrá	99	80	0
-4102	555622	1	2	903	7	Václav	Bachmann	M			37	dělník	Štědrá	99	80	0
-4102	555622	1	2	903	8	Petr	Babic	M			21	dělník	Zbraslav	99	80	0
-4102	555622	1	3	47	1	Václav	Šindelář	M			52	zemědělec	Brložec	47	47	0
-4102	555622	1	3	47	2	Ivan	Plavec	M			55	dělník	Zbraslav	47	47	0
-4102	555622	1	3	47	3	František	Homolka	M			63	důchodce	Prohoř	47	47	0
-4102	555622	1	3	47	4	Václav	Žák	M			51	údržbář	Štědrá	47	47	0
-4102	555622	1	3	47	5	Alžběta	Pánková	F			56	účetní	Štědrá	99	47	0
-4102	555622	1	3	47	6	Josef	Mora	M			62	zedník	Zbraslav	47	47	0
-4102	555622	1	3	47	7	Vladimír	Šejba	M			56	důchodce	Mostec	47	47	0
-4102	555622	1	4	902	1	Viktor	Weilguny	M	Ing.		59	stavební technik	Štědrá	99	80	0
-4102	555622	1	4	902	2	Daniel	Kordoš	M			28	hasič	Štědrá	99	80	0
-4102	555622	1	4	902	3	Dana	Pavelková	F			36	zdravotní sestra	Štědrá	99	80	0
-4102	555622	1	4	902	4	Jana	Mikešová	F			42	prodavačka	Lažany	99	80	0
-4102	555622	1	4	902	5	Jiří	Chmátal	M			36	dělník	Štědrá	99	80	0
-4102	555622	1	4	902	6	Tomáš	Járka	M			31	dělník	Štědrá	99	80	0
-4102	555622	1	4	902	7	Václav	Dvořák	M			30	dělník	Zbraslav	99	80	0
-4102	555622	1	5	901	1	František	Pánek	M			31	úředník	Štědrá	99	80	0
-4102	555622	1	5	901	2	Petr	Bubník	M			39	technik	Štědrá	99	80	0
-4102	555622	1	5	901	3	Pavel	Šejba	M			32	státní zaměstnanec	Štědrá	99	80	0
-4102	555622	1	5	901	4	Hana	Špirochová	F			39	podnikatelka	Lažany	99	80	0
-4102	555622	1	5	901	5	Renata	Schmelzerová	F			40	vychovatelka	Štědrá	99	80	0
-4102	555622	1	5	901	6	Vladislav	Rozhoň	M			39	řidič	Prohoř	99	80	0
-4102	555622	1	5	901	7	Martin	Volín	M			37	řidič	Brložec	99	80	0
-4102	555622	1	5	901	8	Miloslav	Volín	M			25	řidič	Štědrá	99	80	0
-4102	555622	1	5	901	9	Rudolf	Sýkora	M			25	státní zaměstnanec	Lažany	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4102	555622	1	1	801	1	Pavel	Široký	Ing.		32	soukromě hospodařící zemědělec	Mostec	99	80	0	M
+4102	555622	1	2	903	1	Roman	Debellis			34	dělník	Štědrá	99	80	0	M
+4102	555622	1	3	47	1	Václav	Šindelář			52	zemědělec	Brložec	47	47	0	M
+4102	555622	1	4	902	1	Viktor	Weilguny	Ing.		59	stavební technik	Štědrá	99	80	0	M
+4102	555622	1	5	901	1	František	Pánek			31	úředník	Štědrá	99	80	0	M
+4102	555622	1	2	903	2	Jaroslav	Třeštík			35	dělník	Zbraslav	99	80	0	M
+4102	555622	1	3	47	2	Ivan	Plavec			55	dělník	Zbraslav	47	47	0	M
+4102	555622	1	4	902	2	Daniel	Kordoš			28	hasič	Štědrá	99	80	0	M
+4102	555622	1	5	901	2	Petr	Bubník			39	technik	Štědrá	99	80	0	M
+4102	555622	1	2	903	3	Albert	Karnoll			53	řidič	Prohoř	99	80	0	M
+4102	555622	1	3	47	3	František	Homolka			63	důchodce	Prohoř	47	47	0	M
+4102	555622	1	4	902	3	Dana	Pavelková			36	zdravotní sestra	Štědrá	99	80	0	F
+4102	555622	1	5	901	3	Pavel	Šejba			32	státní zaměstnanec	Štědrá	99	80	0	M
+4102	555622	1	2	903	4	Kamil	Ashoor			31	dělník	Lažany	99	80	0	M
+4102	555622	1	3	47	4	Václav	Žák			51	údržbář	Štědrá	47	47	0	M
+4102	555622	1	4	902	4	Jana	Mikešová			42	prodavačka	Lažany	99	80	0	F
+4102	555622	1	5	901	4	Hana	Špirochová			39	podnikatelka	Lažany	99	80	0	F
+4102	555622	1	2	903	5	Antonín	Bachmann			33	dělník	Štědrá	99	80	0	M
+4102	555622	1	3	47	5	Alžběta	Pánková			56	účetní	Štědrá	99	47	0	F
+4102	555622	1	4	902	5	Jiří	Chmátal			36	dělník	Štědrá	99	80	0	M
+4102	555622	1	5	901	5	Renata	Schmelzerová			40	vychovatelka	Štědrá	99	80	0	F
+4102	555622	1	2	903	6	Jiří	Špiroch			39	dělník	Štědrá	99	80	0	M
+4102	555622	1	3	47	6	Josef	Mora			62	zedník	Zbraslav	47	47	0	M
+4102	555622	1	4	902	6	Tomáš	Járka			31	dělník	Štědrá	99	80	0	M
+4102	555622	1	5	901	6	Vladislav	Rozhoň			39	řidič	Prohoř	99	80	0	M
+4102	555622	1	2	903	7	Václav	Bachmann			37	dělník	Štědrá	99	80	0	M
+4102	555622	1	3	47	7	Vladimír	Šejba			56	důchodce	Mostec	47	47	0	M
+4102	555622	1	4	902	7	Václav	Dvořák			30	dělník	Zbraslav	99	80	0	M
+4102	555622	1	5	901	7	Martin	Volín			37	řidič	Brložec	99	80	0	M
+4102	555622	1	2	903	8	Petr	Babic			21	dělník	Zbraslav	99	80	0	M
+4102	555622	1	5	901	8	Miloslav	Volín			25	řidič	Štědrá	99	80	0	M
+4102	555622	1	5	901	9	Rudolf	Sýkora			25	státní zaměstnanec	Lažany	99	80	0	M

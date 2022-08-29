@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	599760	1	1	902	1	Tomáš	Kohout	M	Bc.		41	strojař	Račice	99	80	A
-2112	599760	1	1	902	2	Ondřej	Markup	M			41	servisní technik	Račice	99	80	A
-2112	599760	1	1	902	3	Jiří	Svoboda	M			51	projektový manažer	Račice	99	80	A
-2112	599760	1	1	902	4	Lucie	Šimánková	F			34	rozpočtář	Račice	99	80	A
-2112	599760	1	1	902	5	Eva	Markupová Sadová	F			41	učitelka MŠ	Račice	99	80	A
-2112	599760	1	1	902	6	Tomáš	Andr	M			39	manažer farmacie	Račice	99	80	A
-2112	599760	1	2	901	1	Pavla	Plimlová Pichlerová	F			41	vedoucí prodejny, řidič t.č. mateřská dovolená	Račice	99	80	A
-2112	599760	1	2	901	2	Pavlína	Plimlová	F	Bc.	MBA, MA	48	úředník, matrikář	Račice	99	80	A
-2112	599760	1	2	901	3	Helena	Merhautová	F			44	administrativní pracovnice	Račice	99	80	A
-2112	599760	1	2	901	4	Daniela	Slabá	F			30	student VŠ, t.č. rodičovská dovolená	Račice	99	80	A
-2112	599760	1	2	901	5	Pavla	Kranlová	F			44	administrativní pracovnice	Račice	99	80	A
-2112	599760	1	2	901	6	Alice	Valtová	F			55	chovatelka	Račice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	599760	1	1	902	1	Tomáš	Kohout	Bc.		41	strojař	Račice	99	80	A	M
+2112	599760	1	2	901	1	Pavla	Plimlová Pichlerová			41	vedoucí prodejny, řidič t.č. mateřská dovolená	Račice	99	80	A	F
+2112	599760	1	1	902	2	Ondřej	Markup			41	servisní technik	Račice	99	80	A	M
+2112	599760	1	2	901	2	Pavlína	Plimlová	Bc.	MBA, MA	48	úředník, matrikář	Račice	99	80	A	F
+2112	599760	1	1	902	3	Jiří	Svoboda			51	projektový manažer	Račice	99	80	A	M
+2112	599760	1	2	901	3	Helena	Merhautová			44	administrativní pracovnice	Račice	99	80	A	F
+2112	599760	1	1	902	4	Lucie	Šimánková			34	rozpočtář	Račice	99	80	A	F
+2112	599760	1	2	901	4	Daniela	Slabá			30	student VŠ, t.č. rodičovská dovolená	Račice	99	80	A	F
+2112	599760	1	1	902	5	Eva	Markupová Sadová			41	učitelka MŠ	Račice	99	80	A	F
+2112	599760	1	2	901	5	Pavla	Kranlová			44	administrativní pracovnice	Račice	99	80	A	F
+2112	599760	1	1	902	6	Tomáš	Andr			39	manažer farmacie	Račice	99	80	A	M
+2112	599760	1	2	901	6	Alice	Valtová			55	chovatelka	Račice	99	80	A	F

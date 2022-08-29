@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	546968	1	1	355	1	Karolína	Píchová	F	Mgr.	DiS.	28	ředitelka Charity	Jižná	99	80	A
-3103	546968	1	1	355	2	Eliška	Živná	F	Ing.		48	podnikatelka	Jižná	99	80	A
-3103	546968	1	1	355	3	Jaroslav	Marvan	M	Bc.		26	ministerský rada	Pluhův Žďár	99	80	A
-3103	546968	1	1	355	4	Karel	Pícha	M	Ing.		65	pojišťovací poradce	Jižná	99	80	A
-3103	546968	1	1	355	5	Milan	Veselý	M			40	utility specialist	Mostečný	99	80	A
-3103	546968	1	1	355	6	Aleš	Pícha	M	Ing.		42	geodet	Jižná	99	80	A
-3103	546968	1	1	355	7	Marek	Živný	M			45	podnikatel	Jižná	99	80	A
-3103	546968	1	1	355	8	Blanka	Randlová	F			42	učitelka MŠ	Mostečný	99	80	A
-3103	546968	1	1	355	9	Jana	Uhrová	F			29	rodičovská dovolená	Samosoly	99	80	A
-3103	546968	1	1	355	10	Iveta	Vávrů	F	Mgr.		44	manažerka nukleární medicíny	Jižná	99	80	A
-3103	546968	1	1	355	11	Zdeněk	Žák	M			39	zemědělec	Klenov	99	80	A
-3103	546968	1	2	901	1	Petr	Nohava	M			48	starosta obce	Klenov	99	80	A
-3103	546968	1	2	901	2	Jan	Kůrka	M	Ing.		36	garanční technik	Pluhův Žďár	99	80	A
-3103	546968	1	2	901	3	Jiří	Křehla	M			49	OSVČ	Klenov	99	80	A
-3103	546968	1	2	901	4	Ondřej	Smolík	M			32	rybář	Samosoly	99	80	A
-3103	546968	1	2	901	5	Aleš	Kočí	M			44	OSVČ	Klenov	99	80	A
-3103	546968	1	2	901	6	Ondřej	Průša	M			42	OSVČ	Samosoly	99	80	A
-3103	546968	1	2	901	7	Romana	Mikešová	F			50	OSVČ	Pluhův Žďár	99	80	A
-3103	546968	1	2	901	8	Pavel	Hryzák	M			40	hasič	Pluhův Žďár	99	80	A
-3103	546968	1	2	901	9	Jaroslav	Valter	M			45	elektromechanik	Plasná	99	80	A
-3103	546968	1	2	901	10	Michal	Diviš	M			40	řidič	Mostečný	99	80	A
-3103	546968	1	2	901	11	Stanislava	Kubíčková	F			60	vedoucí kuchařka	Pohoří	99	80	A
-3103	546968	1	3	766	1	Radim	Beneš	M			48	OSVČ	Pluhův Žďár	99	766	A
-3103	546968	1	3	766	2	Zdeněk	Mareš	M			50	zedník	Jižná	99	766	A
-3103	546968	1	3	766	3	Marcela	Švecová	F			50	nutriční terapeut	Samosoly	99	766	A
-3103	546968	1	3	766	4	Tomáš	Bezemek	M			40	dělník	Plasná	99	766	A
-3103	546968	1	3	766	5	Aleš	Kůrka	M		DiS.	44	vodohospodář	Pluhův Žďár	99	766	A
-3103	546968	1	3	766	6	Jan	Kubíček	M			59	opravář	Jižná	99	766	A
-3103	546968	1	3	766	7	Martin	Průša	M			38	vedoucí logistiky	Jižná	99	766	A
-3103	546968	1	3	766	8	Šárka	Jarolímková	F	Ing.		57	projektová a finanční manažerka	Pohoří	766	766	A
-3103	546968	1	3	766	9	Petr	Burda	M			48	OSVČ	Klenov	99	766	A
-3103	546968	1	3	766	10	Josef	Salaba	M			51	opravář	Jižná	99	766	A
-3103	546968	1	3	766	11	Petr	Vodička	M			58	opravář	Pohoří	99	766	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	546968	1	1	355	1	Karolína	Píchová	Mgr.	DiS.	28	ředitelka Charity	Jižná	99	80	A	F
+3103	546968	1	2	901	1	Petr	Nohava			48	starosta obce	Klenov	99	80	A	M
+3103	546968	1	3	766	1	Radim	Beneš			48	OSVČ	Pluhův Žďár	99	766	A	M
+3103	546968	1	1	355	2	Eliška	Živná	Ing.		48	podnikatelka	Jižná	99	80	A	F
+3103	546968	1	2	901	2	Jan	Kůrka	Ing.		36	garanční technik	Pluhův Žďár	99	80	A	M
+3103	546968	1	3	766	2	Zdeněk	Mareš			50	zedník	Jižná	99	766	A	M
+3103	546968	1	1	355	3	Jaroslav	Marvan	Bc.		26	ministerský rada	Pluhův Žďár	99	80	A	M
+3103	546968	1	2	901	3	Jiří	Křehla			49	OSVČ	Klenov	99	80	A	M
+3103	546968	1	3	766	3	Marcela	Švecová			50	nutriční terapeut	Samosoly	99	766	A	F
+3103	546968	1	1	355	4	Karel	Pícha	Ing.		65	pojišťovací poradce	Jižná	99	80	A	M
+3103	546968	1	2	901	4	Ondřej	Smolík			32	rybář	Samosoly	99	80	A	M
+3103	546968	1	3	766	4	Tomáš	Bezemek			40	dělník	Plasná	99	766	A	M
+3103	546968	1	1	355	5	Milan	Veselý			40	utility specialist	Mostečný	99	80	A	M
+3103	546968	1	2	901	5	Aleš	Kočí			44	OSVČ	Klenov	99	80	A	M
+3103	546968	1	3	766	5	Aleš	Kůrka		DiS.	44	vodohospodář	Pluhův Žďár	99	766	A	M
+3103	546968	1	1	355	6	Aleš	Pícha	Ing.		42	geodet	Jižná	99	80	A	M
+3103	546968	1	2	901	6	Ondřej	Průša			42	OSVČ	Samosoly	99	80	A	M
+3103	546968	1	3	766	6	Jan	Kubíček			59	opravář	Jižná	99	766	A	M
+3103	546968	1	1	355	7	Marek	Živný			45	podnikatel	Jižná	99	80	A	M
+3103	546968	1	2	901	7	Romana	Mikešová			50	OSVČ	Pluhův Žďár	99	80	A	F
+3103	546968	1	3	766	7	Martin	Průša			38	vedoucí logistiky	Jižná	99	766	A	M
+3103	546968	1	1	355	8	Blanka	Randlová			42	učitelka MŠ	Mostečný	99	80	A	F
+3103	546968	1	2	901	8	Pavel	Hryzák			40	hasič	Pluhův Žďár	99	80	A	M
+3103	546968	1	3	766	8	Šárka	Jarolímková	Ing.		57	projektová a finanční manažerka	Pohoří	766	766	A	F
+3103	546968	1	1	355	9	Jana	Uhrová			29	rodičovská dovolená	Samosoly	99	80	A	F
+3103	546968	1	2	901	9	Jaroslav	Valter			45	elektromechanik	Plasná	99	80	A	M
+3103	546968	1	3	766	9	Petr	Burda			48	OSVČ	Klenov	99	766	A	M
+3103	546968	1	1	355	10	Iveta	Vávrů	Mgr.		44	manažerka nukleární medicíny	Jižná	99	80	A	F
+3103	546968	1	2	901	10	Michal	Diviš			40	řidič	Mostečný	99	80	A	M
+3103	546968	1	3	766	10	Josef	Salaba			51	opravář	Jižná	99	766	A	M
+3103	546968	1	1	355	11	Zdeněk	Žák			39	zemědělec	Klenov	99	80	A	M
+3103	546968	1	2	901	11	Stanislava	Kubíčková			60	vedoucí kuchařka	Pohoří	99	80	A	F
+3103	546968	1	3	766	11	Petr	Vodička			58	opravář	Pohoří	99	766	A	M

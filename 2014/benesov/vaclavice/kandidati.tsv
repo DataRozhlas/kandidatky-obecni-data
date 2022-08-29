@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	532061	1	1	903	1	Zdeněk	Votruba	M			50	starosta obce	Václavice	99	80	0
-2101	532061	1	1	903	2	Pavel	Veselý	M			50	podnikatel	Václavice	99	80	0
-2101	532061	1	1	903	3	Miroslav	Plavec	M			46	vedoucí obchodní skupiny	Václavice	99	80	0
-2101	532061	1	1	903	4	Václav	Krejčí	M			52	živnostník - klempíř	Václavice	99	80	0
-2101	532061	1	1	903	5	Jakub	Mikš	M			25	řidič	Václavice	99	80	0
-2101	532061	1	1	903	6	Lukáš	Votruba	M			26	zemědělec	Václavice	99	80	0
-2101	532061	1	1	903	7	Jana	Jíšová	F			59	účetní	Václavice	99	80	0
-2101	532061	1	1	903	8	Jan	Fiala	M	Ing.		40	stavitel	Václavice	99	80	0
-2101	532061	1	1	903	9	Jiří	Znamenáček	M			40	živnostník - truhlář	Václavice	99	80	0
-2101	532061	1	2	902	1	Miroslav	Kadlec	M	Ing.		31	referent v lesnictví	Václavice	99	80	0
-2101	532061	1	2	902	2	Josef	Kohoutek	M			30	truhlář	Vatěkov	99	80	0
-2101	532061	1	2	902	3	Monika	Artusová	F			41	účetní na MD	Václavice	99	80	0
-2101	532061	1	2	902	4	Jan	Málek	M	Bc.		33	kriminalista	Zbožnice	99	80	0
-2101	532061	1	2	902	5	Luboš	Doležal	M			32	hasič	Václavice	99	80	0
-2101	532061	1	2	902	6	Pavel	Zafouk	M	Ing.		42	živnostník	Václavice	99	80	0
-2101	532061	1	2	902	7	Jindřich	Lán	M			45	technik	Zbožnice	99	80	0
-2101	532061	1	2	902	8	Petr	Jelínek	M			40	živnostník	Vatěkov	99	80	0
-2101	532061	1	2	902	9	Zuzana	Kolumbusová	F	Mgr.		33	státní úřednice na MD	Václavice	99	80	0
-2101	532061	1	3	901	1	Miloslav	Kolumbus	M			61	podnikatel	Václavice	99	80	0
-2101	532061	1	3	901	2	Karel	Chlistovský	M			55	elektrotechnik	Zbožnice	99	80	0
-2101	532061	1	3	901	3	Miroslav	Vrňák	M			51	dispečer	Václavice	99	80	0
-2101	532061	1	3	901	4	Karel	Michálek	M			51	živnostník	Václavice	99	80	0
-2101	532061	1	3	901	5	Petra	Charuzová Sadílková	F			56	zdravotní sestra	Václavice	99	80	0
-2101	532061	1	3	901	6	Miroslav	Vaněček	M			33	státní zaměstnanec	Václavice	99	80	0
-2101	532061	1	3	901	7	Petr	Matoušek	M			58	živnostník	Václavice	99	80	0
-2101	532061	1	3	901	8	Olga	Kolmanová	F			37	invalidní důchodce	Václavice	99	80	0
-2101	532061	1	3	901	9	Pavel	Pýcha	M			51	technik	Václavice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	532061	1	1	903	1	Zdeněk	Votruba			50	starosta obce	Václavice	99	80	0	M
+2101	532061	1	2	902	1	Miroslav	Kadlec	Ing.		31	referent v lesnictví	Václavice	99	80	0	M
+2101	532061	1	3	901	1	Miloslav	Kolumbus			61	podnikatel	Václavice	99	80	0	M
+2101	532061	1	1	903	2	Pavel	Veselý			50	podnikatel	Václavice	99	80	0	M
+2101	532061	1	2	902	2	Josef	Kohoutek			30	truhlář	Vatěkov	99	80	0	M
+2101	532061	1	3	901	2	Karel	Chlistovský			55	elektrotechnik	Zbožnice	99	80	0	M
+2101	532061	1	1	903	3	Miroslav	Plavec			46	vedoucí obchodní skupiny	Václavice	99	80	0	M
+2101	532061	1	2	902	3	Monika	Artusová			41	účetní na MD	Václavice	99	80	0	F
+2101	532061	1	3	901	3	Miroslav	Vrňák			51	dispečer	Václavice	99	80	0	M
+2101	532061	1	1	903	4	Václav	Krejčí			52	živnostník - klempíř	Václavice	99	80	0	M
+2101	532061	1	2	902	4	Jan	Málek	Bc.		33	kriminalista	Zbožnice	99	80	0	M
+2101	532061	1	3	901	4	Karel	Michálek			51	živnostník	Václavice	99	80	0	M
+2101	532061	1	1	903	5	Jakub	Mikš			25	řidič	Václavice	99	80	0	M
+2101	532061	1	2	902	5	Luboš	Doležal			32	hasič	Václavice	99	80	0	M
+2101	532061	1	3	901	5	Petra	Charuzová Sadílková			56	zdravotní sestra	Václavice	99	80	0	F
+2101	532061	1	1	903	6	Lukáš	Votruba			26	zemědělec	Václavice	99	80	0	M
+2101	532061	1	2	902	6	Pavel	Zafouk	Ing.		42	živnostník	Václavice	99	80	0	M
+2101	532061	1	3	901	6	Miroslav	Vaněček			33	státní zaměstnanec	Václavice	99	80	0	M
+2101	532061	1	1	903	7	Jana	Jíšová			59	účetní	Václavice	99	80	0	F
+2101	532061	1	2	902	7	Jindřich	Lán			45	technik	Zbožnice	99	80	0	M
+2101	532061	1	3	901	7	Petr	Matoušek			58	živnostník	Václavice	99	80	0	M
+2101	532061	1	1	903	8	Jan	Fiala	Ing.		40	stavitel	Václavice	99	80	0	M
+2101	532061	1	2	902	8	Petr	Jelínek			40	živnostník	Vatěkov	99	80	0	M
+2101	532061	1	3	901	8	Olga	Kolmanová			37	invalidní důchodce	Václavice	99	80	0	F
+2101	532061	1	1	903	9	Jiří	Znamenáček			40	živnostník - truhlář	Václavice	99	80	0	M
+2101	532061	1	2	902	9	Zuzana	Kolumbusová	Mgr.		33	státní úřednice na MD	Václavice	99	80	0	F
+2101	532061	1	3	901	9	Pavel	Pýcha			51	technik	Václavice	99	80	0	M

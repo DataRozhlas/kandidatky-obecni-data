@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	552372	1	1	1	1	Petr	Šotola	M			39	podnikatel	Zadní Újezd	99	1	0
-7102	552372	1	1	1	2	Jan	Pecha	M			37	prodejce	Medlov	99	1	0
-7102	552372	1	1	1	3	Pavla	Petrová	F			45	pěstounka	Medlov	99	1	0
-7102	552372	1	1	1	4	Jakub	Smyčka	M			28	zemědělec	Zadní Újezd	99	1	0
-7102	552372	1	1	1	5	Martina	Smyčková	F			31	učitelka - na MD	Zadní Újezd	99	1	0
-7102	552372	1	1	1	6	Ludmila	Škopcová	F			30	technoložka potravin	Medlov	99	1	0
-7102	552372	1	1	1	7	Jindřich	Smyčka	M			69	zemědělec	Zadní Újezd	1	1	0
-7102	552372	1	1	1	8	Karel	Štrbík	M			56	řidič	Medlov	99	1	0
-7102	552372	1	1	1	9	Eva	Smyčková	F			31	učitelka - na MD	Medlov	99	1	0
-7102	552372	1	1	1	10	Jan	Zdrámala	M			26	prodejce stavebního materiálu	Medlov	99	1	0
-7102	552372	1	1	1	11	Ludmila	Koldová	F			64	důchodkyně	Medlov	99	1	0
-7102	552372	1	1	1	12	Marie	Vašíčková	F			28	dělnice	Medlov	99	1	0
-7102	552372	1	1	1	13	Antonie	Smrčková	F			61	důchodkyně	Medlov	1	1	0
-7102	552372	1	1	1	14	Vojtěch	Fišnar	M			51	řezník	Zadní Újezd	99	1	0
-7102	552372	1	1	1	15	Marta	Juráňová	F			42	zdravotní sestra	Zadní Újezd	99	1	0
-7102	552372	1	2	901	1	Jan	Zahradníček	M			54	starosta	Medlov	99	80	0
-7102	552372	1	2	901	2	Eva	Škopová	F			51	právník	Hlivice	99	80	0
-7102	552372	1	2	901	3	Oldřich	Bittner	M			42	osobní bankéř	Medlov	99	80	0
-7102	552372	1	2	901	4	Růžena	Kurucová	F			55	vychovatelka	Králová	99	80	0
-7102	552372	1	2	901	5	Pavel	Pospíšil	M			50	vedoucí plánování	Medlov	99	80	0
-7102	552372	1	2	901	6	Alexander	Pavelka	M			50	výpravčí SŽDC	Hlivice	99	80	0
-7102	552372	1	2	901	7	Josef	Juráš	M			55	OSVČ	Zadní Újezd	99	80	0
-7102	552372	1	2	901	8	Josef	Bednařík	M			55	OSVČ	Medlov	99	80	0
-7102	552372	1	2	901	9	Ilona	Brachtlová	F			41	v domácnosti	Zadní Újezd	99	80	0
-7102	552372	1	2	901	10	Věra	Studená	F			39	asistentka	Králová	99	80	0
-7102	552372	1	2	901	11	Marek	Smyčka	M			41	zdravotní bratr	Zadní Újezd	99	80	0
-7102	552372	1	2	901	12	Helena	Vašíčková	F			39	učitelka MŠ	Zadní Újezd	99	80	0
-7102	552372	1	2	901	13	Jana	Vrablicová	F			57	prodavačka	Medlov	99	80	0
-7102	552372	1	2	901	14	Miroslav	Pytlíček	M			71	důchodce	Medlov	99	80	0
-7102	552372	1	2	901	15	Vladimír	Jonáš	M			64	technik	Hlivice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	552372	1	1	1	1	Petr	Šotola			39	podnikatel	Zadní Újezd	99	1	0	M
+7102	552372	1	2	901	1	Jan	Zahradníček			54	starosta	Medlov	99	80	0	M
+7102	552372	1	1	1	2	Jan	Pecha			37	prodejce	Medlov	99	1	0	M
+7102	552372	1	2	901	2	Eva	Škopová			51	právník	Hlivice	99	80	0	F
+7102	552372	1	1	1	3	Pavla	Petrová			45	pěstounka	Medlov	99	1	0	F
+7102	552372	1	2	901	3	Oldřich	Bittner			42	osobní bankéř	Medlov	99	80	0	M
+7102	552372	1	1	1	4	Jakub	Smyčka			28	zemědělec	Zadní Újezd	99	1	0	M
+7102	552372	1	2	901	4	Růžena	Kurucová			55	vychovatelka	Králová	99	80	0	F
+7102	552372	1	1	1	5	Martina	Smyčková			31	učitelka - na MD	Zadní Újezd	99	1	0	F
+7102	552372	1	2	901	5	Pavel	Pospíšil			50	vedoucí plánování	Medlov	99	80	0	M
+7102	552372	1	1	1	6	Ludmila	Škopcová			30	technoložka potravin	Medlov	99	1	0	F
+7102	552372	1	2	901	6	Alexander	Pavelka			50	výpravčí SŽDC	Hlivice	99	80	0	M
+7102	552372	1	1	1	7	Jindřich	Smyčka			69	zemědělec	Zadní Újezd	1	1	0	M
+7102	552372	1	2	901	7	Josef	Juráš			55	OSVČ	Zadní Újezd	99	80	0	M
+7102	552372	1	1	1	8	Karel	Štrbík			56	řidič	Medlov	99	1	0	M
+7102	552372	1	2	901	8	Josef	Bednařík			55	OSVČ	Medlov	99	80	0	M
+7102	552372	1	1	1	9	Eva	Smyčková			31	učitelka - na MD	Medlov	99	1	0	F
+7102	552372	1	2	901	9	Ilona	Brachtlová			41	v domácnosti	Zadní Újezd	99	80	0	F
+7102	552372	1	1	1	10	Jan	Zdrámala			26	prodejce stavebního materiálu	Medlov	99	1	0	M
+7102	552372	1	2	901	10	Věra	Studená			39	asistentka	Králová	99	80	0	F
+7102	552372	1	1	1	11	Ludmila	Koldová			64	důchodkyně	Medlov	99	1	0	F
+7102	552372	1	2	901	11	Marek	Smyčka			41	zdravotní bratr	Zadní Újezd	99	80	0	M
+7102	552372	1	1	1	12	Marie	Vašíčková			28	dělnice	Medlov	99	1	0	F
+7102	552372	1	2	901	12	Helena	Vašíčková			39	učitelka MŠ	Zadní Újezd	99	80	0	F
+7102	552372	1	1	1	13	Antonie	Smrčková			61	důchodkyně	Medlov	1	1	0	F
+7102	552372	1	2	901	13	Jana	Vrablicová			57	prodavačka	Medlov	99	80	0	F
+7102	552372	1	1	1	14	Vojtěch	Fišnar			51	řezník	Zadní Újezd	99	1	0	M
+7102	552372	1	2	901	14	Miroslav	Pytlíček			71	důchodce	Medlov	99	80	0	M
+7102	552372	1	1	1	15	Marta	Juráňová			42	zdravotní sestra	Zadní Újezd	99	1	0	F
+7102	552372	1	2	901	15	Vladimír	Jonáš			64	technik	Hlivice	99	80	0	M

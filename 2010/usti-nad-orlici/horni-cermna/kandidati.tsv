@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	580279	1	1	181	1	Pavel	Suldovský	M	Ing.		33	ekonom	Horní Čermná	99	181	0
-5304	580279	1	1	181	2	Vladimír	Hejl	M	Ing.		64	důchodce	Horní Čermná	99	181	0
-5304	580279	1	1	181	3	Petr	Šilar	M	Ing.		54	zemědělský poradce	Nepomuky	1	181	0
-5304	580279	1	1	181	4	Bohuslav	Dušek	M			48	nástrojař	Horní Čermná	99	181	0
-5304	580279	1	1	181	5	Ivana	Vranková	F			37	nezaměstnaná	Horní Čermná	99	181	0
-5304	580279	1	1	181	6	Luboš	Marek	M			45	soukromý zemědělec	Horní Čermná	99	181	0
-5304	580279	1	1	181	7	Josef	Kittner	M			62	starosta	Horní Čermná	99	181	0
-5304	580279	1	1	181	8	Michael	Mikula	M	Ing.		57	matematik-analytik	Horní Čermná	99	181	0
-5304	580279	1	1	181	9	Lubomír	Jirásek	M			35	zootechnik	Horní Čermná	99	181	0
-5304	580279	1	1	181	10	Eugenie	Dřímalová	F	Ing.		42	mateřská dovolená	Nepomuky	99	181	0
-5304	580279	1	1	181	11	Martin	Sudík	M			39	instalatér	Horní Čermná	99	181	0
-5304	580279	1	1	181	12	Tomáš	Dušek	M			28	obchodní zástupce	Horní Čermná	99	181	0
-5304	580279	1	1	181	13	Alena	Vojtková	F			57	knihovnice	Horní Čermná	99	181	0
-5304	580279	1	1	181	14	Ladislav	Marek	M			50	seřizovač	Horní Čermná	99	181	0
-5304	580279	1	1	181	15	Mirka	Vacková	F	Bc.		28	pedagog	Horní Čermná	99	181	0
-5304	580279	1	2	801	1	Simona	Hajzlerová	F	Bc.		33	personalista	Nepomuky	99	80	0
-5304	580279	1	3	901	1	Pavel	Sokol	M			38	soukromý podnikatel	Horní Čermná	99	80	0
-5304	580279	1	3	901	2	Martin	Balcar	M			43	skladník	Horní Čermná	99	80	0
-5304	580279	1	3	901	3	Jana	Beranová	F			35	učitelka	Horní Čermná	99	80	0
-5304	580279	1	3	901	4	Jiří	Marek	M			28	statik	Horní Čermná	99	80	0
-5304	580279	1	3	901	5	Hana	Motlová	F			45	ved.stavebnin	Horní Čermná	99	80	0
-5304	580279	1	3	901	6	Radek	Šilar	M			27	technik kvality	Horní Čermná	99	80	0
-5304	580279	1	3	901	7	Karel	Balcar	M			44	malíř	Horní Čermná	99	80	0
-5304	580279	1	4	802	1	Ivan	Havel	M			44	OSVČ	Horní Čermná	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	580279	1	1	181	1	Pavel	Suldovský	Ing.		33	ekonom	Horní Čermná	99	181	0	M
+5304	580279	1	2	801	1	Simona	Hajzlerová	Bc.		33	personalista	Nepomuky	99	80	0	F
+5304	580279	1	3	901	1	Pavel	Sokol			38	soukromý podnikatel	Horní Čermná	99	80	0	M
+5304	580279	1	4	802	1	Ivan	Havel			44	OSVČ	Horní Čermná	99	80	0	M
+5304	580279	1	1	181	2	Vladimír	Hejl	Ing.		64	důchodce	Horní Čermná	99	181	0	M
+5304	580279	1	3	901	2	Martin	Balcar			43	skladník	Horní Čermná	99	80	0	M
+5304	580279	1	1	181	3	Petr	Šilar	Ing.		54	zemědělský poradce	Nepomuky	1	181	0	M
+5304	580279	1	3	901	3	Jana	Beranová			35	učitelka	Horní Čermná	99	80	0	F
+5304	580279	1	1	181	4	Bohuslav	Dušek			48	nástrojař	Horní Čermná	99	181	0	M
+5304	580279	1	3	901	4	Jiří	Marek			28	statik	Horní Čermná	99	80	0	M
+5304	580279	1	1	181	5	Ivana	Vranková			37	nezaměstnaná	Horní Čermná	99	181	0	F
+5304	580279	1	3	901	5	Hana	Motlová			45	ved.stavebnin	Horní Čermná	99	80	0	F
+5304	580279	1	1	181	6	Luboš	Marek			45	soukromý zemědělec	Horní Čermná	99	181	0	M
+5304	580279	1	3	901	6	Radek	Šilar			27	technik kvality	Horní Čermná	99	80	0	M
+5304	580279	1	1	181	7	Josef	Kittner			62	starosta	Horní Čermná	99	181	0	M
+5304	580279	1	3	901	7	Karel	Balcar			44	malíř	Horní Čermná	99	80	0	M
+5304	580279	1	1	181	8	Michael	Mikula	Ing.		57	matematik-analytik	Horní Čermná	99	181	0	M
+5304	580279	1	1	181	9	Lubomír	Jirásek			35	zootechnik	Horní Čermná	99	181	0	M
+5304	580279	1	1	181	10	Eugenie	Dřímalová	Ing.		42	mateřská dovolená	Nepomuky	99	181	0	F
+5304	580279	1	1	181	11	Martin	Sudík			39	instalatér	Horní Čermná	99	181	0	M
+5304	580279	1	1	181	12	Tomáš	Dušek			28	obchodní zástupce	Horní Čermná	99	181	0	M
+5304	580279	1	1	181	13	Alena	Vojtková			57	knihovnice	Horní Čermná	99	181	0	F
+5304	580279	1	1	181	14	Ladislav	Marek			50	seřizovač	Horní Čermná	99	181	0	M
+5304	580279	1	1	181	15	Mirka	Vacková	Bc.		28	pedagog	Horní Čermná	99	181	0	F

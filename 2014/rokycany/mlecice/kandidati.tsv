@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3206	560006	1	1	901	1	Jaromír	Křejdl	M			52	řidič	Mlečice	99	80	0
-3206	560006	1	1	901	2	Pavel	Smola	M			44	traktorista	Mlečice	99	80	0
-3206	560006	1	1	901	3	Jiří	Moravec	M			45	technik	Mlečice	99	80	0
-3206	560006	1	1	901	4	Pavel	Smrž	M			31	zámečník	Mlečice	99	80	0
-3206	560006	1	1	901	5	Petr	Staněk	M			36	soukromý podnikatel	Mlečice	99	80	0
-3206	560006	1	1	901	6	Vladimír	Balák	M			40	agronom	Mlečice	99	80	0
-3206	560006	1	1	901	7	Jaroslav	Holota	M			58	dělník	Mlečice	99	80	0
-3206	560006	1	1	901	8	Jan	Tomášek	M	Ing.		48	inseminační technik	Mlečice	99	80	0
-3206	560006	1	2	902	1	Pavel	Houda	M			42	zedník	Prašný Újezd	99	80	0
-3206	560006	1	2	902	2	Soběslav	Eidler	M			49	dělník	Skoupý	99	80	0
-3206	560006	1	2	902	3	Daniel	Tvrdý	M			37	řidič	Prašný Újezd	99	80	0
-3206	560006	1	2	902	4	Jan	Klíma	M			28	montážní dělník	Skoupý	99	80	0
-3206	560006	1	2	902	5	Jan	Ullman	M			66	důchodce	Prašný Újezd	99	80	0
-3206	560006	1	2	902	6	Václav	Klíma	M			30	seřizovač - technik	Skoupý	99	80	0
-3206	560006	1	2	902	7	Václav	Král	M	Mgr.	CSc.	68	důchodce	Skoupý	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3206	560006	1	1	901	1	Jaromír	Křejdl			52	řidič	Mlečice	99	80	0	M
+3206	560006	1	2	902	1	Pavel	Houda			42	zedník	Prašný Újezd	99	80	0	M
+3206	560006	1	1	901	2	Pavel	Smola			44	traktorista	Mlečice	99	80	0	M
+3206	560006	1	2	902	2	Soběslav	Eidler			49	dělník	Skoupý	99	80	0	M
+3206	560006	1	1	901	3	Jiří	Moravec			45	technik	Mlečice	99	80	0	M
+3206	560006	1	2	902	3	Daniel	Tvrdý			37	řidič	Prašný Újezd	99	80	0	M
+3206	560006	1	1	901	4	Pavel	Smrž			31	zámečník	Mlečice	99	80	0	M
+3206	560006	1	2	902	4	Jan	Klíma			28	montážní dělník	Skoupý	99	80	0	M
+3206	560006	1	1	901	5	Petr	Staněk			36	soukromý podnikatel	Mlečice	99	80	0	M
+3206	560006	1	2	902	5	Jan	Ullman			66	důchodce	Prašný Újezd	99	80	0	M
+3206	560006	1	1	901	6	Vladimír	Balák			40	agronom	Mlečice	99	80	0	M
+3206	560006	1	2	902	6	Václav	Klíma			30	seřizovač - technik	Skoupý	99	80	0	M
+3206	560006	1	1	901	7	Jaroslav	Holota			58	dělník	Mlečice	99	80	0	M
+3206	560006	1	2	902	7	Václav	Král	Mgr.	CSc.	68	důchodce	Skoupý	99	80	0	M
+3206	560006	1	1	901	8	Jan	Tomášek	Ing.		48	inseminační technik	Mlečice	99	80	0	M

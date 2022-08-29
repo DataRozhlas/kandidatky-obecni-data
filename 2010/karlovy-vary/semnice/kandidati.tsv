@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4102	555614	1	1	476	1	Jiří	Kočí	M			48	geodet	Sedlečko	99	80	0
-4102	555614	1	1	476	2	Zdeněk	Kalous	M			56	státní zaměstnanec ve výslužbě	Sedlečko	99	80	0
-4102	555614	1	1	476	3	Petr	Jirkovec	M			45	podnikatel	Dubina	99	80	0
-4102	555614	1	1	476	4	Štěpán	Petržilka	M	Bc.		31	státní zaměstnanec	Šemnice	99	80	0
-4102	555614	1	1	476	5	Miloslav	Krček	M			47	řidič	Sedlečko	99	80	0
-4102	555614	1	1	476	6	Zdeněk	Švejdar	M			27	zaměstnanec FÚ	Sedlečko	99	80	0
-4102	555614	1	1	476	7	Vladěna	Čapková	F	MUDr.		31	lékařka	Dubina	99	80	0
-4102	555614	1	2	902	1	Ivana	Zajíčková	F			47	obchodní manažerka	Šemnice	99	80	0
-4102	555614	1	2	902	2	Hana	Kousalová	F			34	úřednice	Dubina	99	80	0
-4102	555614	1	2	902	3	Radek	Januška	M			43	operátor	Šemnice	99	80	0
-4102	555614	1	2	902	4	Libuše	Holečková	F			40	laborantka	Sedlečko	99	80	0
-4102	555614	1	2	902	5	Renata	Hromadová	F			42	nezaměstnaná	Dubina	99	80	0
-4102	555614	1	2	902	6	Marek	Šimon	M			33	klempíř	Šemnice	99	80	0
-4102	555614	1	2	902	7	Ivan	Georgiev	M			37	řidič	Dubina	99	80	0
-4102	555614	1	3	901	1	Vladislav	Tůma	M			42	geodet	Dubina	99	80	0
-4102	555614	1	3	901	2	Vladimír	Matějů	M	Ing.		39	zootechnik	Sedlečko	99	80	0
-4102	555614	1	3	901	3	Jana	Hlaváčová	F			47	účetní	Dubina	99	80	0
-4102	555614	1	3	901	4	Petr	Vorel	M	Ing.		58	ředitel	Šemnice	99	80	0
-4102	555614	1	3	901	5	Kateřina	Valnohová	F	MVDr.		41	veterinární lékař	Sedlečko	99	80	0
-4102	555614	1	3	901	6	František	Untermüller	M			42	živnostník	Sedlečko	99	80	0
-4102	555614	1	3	901	7	Daniel	Koubek	M			31	obchodní zástupce	Sedlečko	99	80	0
-4102	555614	1	3	901	8	Michal	Krejčí	M			37	živnostník	Dubina	99	80	0
-4102	555614	1	3	901	9	Lucie	Srbová	F			36	sekretářka	Sedlečko	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4102	555614	1	1	476	1	Jiří	Kočí			48	geodet	Sedlečko	99	80	0	M
+4102	555614	1	2	902	1	Ivana	Zajíčková			47	obchodní manažerka	Šemnice	99	80	0	F
+4102	555614	1	3	901	1	Vladislav	Tůma			42	geodet	Dubina	99	80	0	M
+4102	555614	1	1	476	2	Zdeněk	Kalous			56	státní zaměstnanec ve výslužbě	Sedlečko	99	80	0	M
+4102	555614	1	2	902	2	Hana	Kousalová			34	úřednice	Dubina	99	80	0	F
+4102	555614	1	3	901	2	Vladimír	Matějů	Ing.		39	zootechnik	Sedlečko	99	80	0	M
+4102	555614	1	1	476	3	Petr	Jirkovec			45	podnikatel	Dubina	99	80	0	M
+4102	555614	1	2	902	3	Radek	Januška			43	operátor	Šemnice	99	80	0	M
+4102	555614	1	3	901	3	Jana	Hlaváčová			47	účetní	Dubina	99	80	0	F
+4102	555614	1	1	476	4	Štěpán	Petržilka	Bc.		31	státní zaměstnanec	Šemnice	99	80	0	M
+4102	555614	1	2	902	4	Libuše	Holečková			40	laborantka	Sedlečko	99	80	0	F
+4102	555614	1	3	901	4	Petr	Vorel	Ing.		58	ředitel	Šemnice	99	80	0	M
+4102	555614	1	1	476	5	Miloslav	Krček			47	řidič	Sedlečko	99	80	0	M
+4102	555614	1	2	902	5	Renata	Hromadová			42	nezaměstnaná	Dubina	99	80	0	F
+4102	555614	1	3	901	5	Kateřina	Valnohová	MVDr.		41	veterinární lékař	Sedlečko	99	80	0	F
+4102	555614	1	1	476	6	Zdeněk	Švejdar			27	zaměstnanec FÚ	Sedlečko	99	80	0	M
+4102	555614	1	2	902	6	Marek	Šimon			33	klempíř	Šemnice	99	80	0	M
+4102	555614	1	3	901	6	František	Untermüller			42	živnostník	Sedlečko	99	80	0	M
+4102	555614	1	1	476	7	Vladěna	Čapková	MUDr.		31	lékařka	Dubina	99	80	0	F
+4102	555614	1	2	902	7	Ivan	Georgiev			37	řidič	Dubina	99	80	0	M
+4102	555614	1	3	901	7	Daniel	Koubek			31	obchodní zástupce	Sedlečko	99	80	0	M
+4102	555614	1	3	901	8	Michal	Krejčí			37	živnostník	Dubina	99	80	0	M
+4102	555614	1	3	901	9	Lucie	Srbová			36	sekretářka	Sedlečko	99	80	0	F

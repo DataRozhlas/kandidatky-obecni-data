@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	569518	1	1	901	1	Rudolf	Adamec	M			49	místostarosta	Sobíňov	99	80	A
-6101	569518	1	1	901	2	Marek	Ondráček	M			36	obsluha stáčecí linky	Sobíňov	99	80	A
-6101	569518	1	1	901	3	Aleš	Málek	M	Ing.		50	předseda představenstva	Sobíňov	99	80	A
-6101	569518	1	1	901	4	Jaroslav	Starý	M	Ing.		68	důchodce	Sobíňov	99	80	A
-6101	569518	1	1	901	5	Ludvík	Kudláček	M			54	údržbář	Sobíňov	99	80	A
-6101	569518	1	1	901	6	Oldřich	Dostrašil	M	Bc.		31	technolog	Sobíňov	99	80	A
-6101	569518	1	1	901	7	Magdalena	Blažíčková	F			47	vedoucí prodejny	Sobíňov	99	80	A
-6101	569518	1	1	901	8	Vítězslav	Krbálek	M			47	předák nakládky	Sobíňov	99	80	A
-6101	569518	1	1	901	9	Michal	Kamp	M	Mgr.		38	vedoucí muzea	Sobíňov	99	80	A
-6101	569518	1	2	47	1	Vratislav	Voral	M			59	mistr	Sobíňov	99	47	A
-6101	569518	1	2	47	2	Jiří	Kvanka	M			69	důchodce	Sobíňov	47	47	A
-6101	569518	1	2	47	3	Pavlína	Kvanková	F			72	důchodkyně	Sobíňov	47	47	A
-6101	569518	1	3	902	1	Miloš	Starý	M			37	starosta	Sobíňov	99	80	A
-6101	569518	1	3	902	2	Daniel	Říčan	M	Ing.		35	vedoucí laboratoře	Sobíňov	99	80	A
-6101	569518	1	3	902	3	Dana	Stehnová	F			65	důchodce	Sobíňov	99	80	A
-6101	569518	1	3	902	4	Karel	Kouba	M			34	projektový manažer	Sobíňov	99	80	A
-6101	569518	1	3	902	5	Zdeněk	Vytiska				38	dělník	Sobíňov	99	80	A
-6101	569518	1	3	902	6	Viktor	Starý	M	Ing.		33	projektový manažer	Sobíňov	99	80	A
-6101	569518	1	3	902	7	Ivo	Koutník	M	Ing.		31	technolog	Sobíňov	99	80	A
-6101	569518	1	3	902	8	Tomáš	Matějka	M			52	obchodní zástupce	Sobíňov	99	80	A
-6101	569518	1	3	902	9	Martina	Polánská	F			47	prodavačka	Sobíňov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	569518	1	1	901	1	Rudolf	Adamec			49	místostarosta	Sobíňov	99	80	A	M
+6101	569518	1	2	47	1	Vratislav	Voral			59	mistr	Sobíňov	99	47	A	M
+6101	569518	1	3	902	1	Miloš	Starý			37	starosta	Sobíňov	99	80	A	M
+6101	569518	1	1	901	2	Marek	Ondráček			36	obsluha stáčecí linky	Sobíňov	99	80	A	M
+6101	569518	1	2	47	2	Jiří	Kvanka			69	důchodce	Sobíňov	47	47	A	M
+6101	569518	1	3	902	2	Daniel	Říčan	Ing.		35	vedoucí laboratoře	Sobíňov	99	80	A	M
+6101	569518	1	1	901	3	Aleš	Málek	Ing.		50	předseda představenstva	Sobíňov	99	80	A	M
+6101	569518	1	2	47	3	Pavlína	Kvanková			72	důchodkyně	Sobíňov	47	47	A	F
+6101	569518	1	3	902	3	Dana	Stehnová			65	důchodce	Sobíňov	99	80	A	F
+6101	569518	1	1	901	4	Jaroslav	Starý	Ing.		68	důchodce	Sobíňov	99	80	A	M
+6101	569518	1	3	902	4	Karel	Kouba			34	projektový manažer	Sobíňov	99	80	A	M
+6101	569518	1	1	901	5	Ludvík	Kudláček			54	údržbář	Sobíňov	99	80	A	M
+6101	569518	1	3	902	5	Zdeněk	Vytiska			38	dělník	Sobíňov	99	80	A	
+6101	569518	1	1	901	6	Oldřich	Dostrašil	Bc.		31	technolog	Sobíňov	99	80	A	M
+6101	569518	1	3	902	6	Viktor	Starý	Ing.		33	projektový manažer	Sobíňov	99	80	A	M
+6101	569518	1	1	901	7	Magdalena	Blažíčková			47	vedoucí prodejny	Sobíňov	99	80	A	F
+6101	569518	1	3	902	7	Ivo	Koutník	Ing.		31	technolog	Sobíňov	99	80	A	M
+6101	569518	1	1	901	8	Vítězslav	Krbálek			47	předák nakládky	Sobíňov	99	80	A	M
+6101	569518	1	3	902	8	Tomáš	Matějka			52	obchodní zástupce	Sobíňov	99	80	A	M
+6101	569518	1	1	901	9	Michal	Kamp	Mgr.		38	vedoucí muzea	Sobíňov	99	80	A	M
+6101	569518	1	3	902	9	Martina	Polánská			47	prodavačka	Sobíňov	99	80	A	F

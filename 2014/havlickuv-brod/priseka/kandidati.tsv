@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	569348	1	1	901	1	Jaroslav	Štefáček	M			54	starosta	Příseka	99	80	0
-6101	569348	1	1	901	2	Jiří	Kouba	M	Ing.		39	realizační ředitel	Příseka	99	80	0
-6101	569348	1	1	901	3	Pavel	Ročeň	M			50	podnikatel	Příseka	99	80	0
-6101	569348	1	1	901	4	Petr	Hodný	M	Mgr.		49	učitel	Příseka	99	80	0
-6101	569348	1	1	901	5	Jiří	Šolc	M			51	automechanik	Příseka	99	80	0
-6101	569348	1	1	901	6	Karel	Novotný	M			48	sklář	Příseka	99	80	0
-6101	569348	1	1	901	7	Milan	Kotěra	M			28	obsluha CNC	Příseka	99	80	0
-6101	569348	1	2	902	1	Jaroslav	Šimek	M			40	traktorista	Příseka	99	80	0
-6101	569348	1	2	902	2	Vladislav	Jirák	M			30	technolog	Příseka	99	80	0
-6101	569348	1	2	902	3	Jan	Rezek	M			31	živnostník	Příseka	99	80	0
-6101	569348	1	2	902	4	Jaroslav	Firon	M			32	truhlář	Příseka	99	80	0
-6101	569348	1	2	902	5	Jan	Pecha	M			31	obsluha CNC	Příseka	99	80	0
-6101	569348	1	2	902	6	Miroslav	Kubín	M			45	technik	Příseka	99	80	0
-6101	569348	1	2	902	7	Martin	Smejkal	M			44	elektrotechnik	Příseka	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	569348	1	1	901	1	Jaroslav	Štefáček			54	starosta	Příseka	99	80	0	M
+6101	569348	1	2	902	1	Jaroslav	Šimek			40	traktorista	Příseka	99	80	0	M
+6101	569348	1	1	901	2	Jiří	Kouba	Ing.		39	realizační ředitel	Příseka	99	80	0	M
+6101	569348	1	2	902	2	Vladislav	Jirák			30	technolog	Příseka	99	80	0	M
+6101	569348	1	1	901	3	Pavel	Ročeň			50	podnikatel	Příseka	99	80	0	M
+6101	569348	1	2	902	3	Jan	Rezek			31	živnostník	Příseka	99	80	0	M
+6101	569348	1	1	901	4	Petr	Hodný	Mgr.		49	učitel	Příseka	99	80	0	M
+6101	569348	1	2	902	4	Jaroslav	Firon			32	truhlář	Příseka	99	80	0	M
+6101	569348	1	1	901	5	Jiří	Šolc			51	automechanik	Příseka	99	80	0	M
+6101	569348	1	2	902	5	Jan	Pecha			31	obsluha CNC	Příseka	99	80	0	M
+6101	569348	1	1	901	6	Karel	Novotný			48	sklář	Příseka	99	80	0	M
+6101	569348	1	2	902	6	Miroslav	Kubín			45	technik	Příseka	99	80	0	M
+6101	569348	1	1	901	7	Milan	Kotěra			28	obsluha CNC	Příseka	99	80	0	M
+6101	569348	1	2	902	7	Martin	Smejkal			44	elektrotechnik	Příseka	99	80	0	M

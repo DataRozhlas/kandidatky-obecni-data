@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5302	575372	1	1	904	1	Rita	Starečková	F	Mgr.		38	projektový manažer	Blato	99	80	0
-5302	575372	1	1	904	2	František	Liška	M	MUDr.		60	lékař	Mikulovice	99	80	0
-5302	575372	1	1	904	3	Hana	Spejchlíková	F			39	operátor	Blato	99	80	0
-5302	575372	1	1	904	4	Radek	Báňa	M			48	podnikatel	Mikulovice	99	80	0
-5302	575372	1	1	904	5	Miloslav	Liška	M	JUDr.		60	podnikatel	Mikulovice	99	80	0
-5302	575372	1	1	904	6	Ludmila	Andrlová	F			40	nezávislý finanční poradce	Mikulovice	99	80	0
-5302	575372	1	1	904	7	Zdeněk	Brláš	M			25	technik	Mikulovice	99	80	0
-5302	575372	1	1	904	8	Milan	Průšek	M			37	podnikatel	Mikulovice	99	80	0
-5302	575372	1	1	904	9	Ladislav	Holeček	M			36	servisní technik	Mikulovice	99	80	0
-5302	575372	1	2	902	1	Rostislav	Báňa	M	Ing.		51	podnikatel	Mikulovice	99	80	0
-5302	575372	1	2	902	2	Miroslav	Horák	M			39	obchodní zástupce	Blato	99	80	0
-5302	575372	1	2	902	3	Zdeňka	Venclová	F			58	invalidní důchodce	Mikulovice	99	80	0
-5302	575372	1	2	902	4	Aleš	Gürtler	M	Lic.		37	policejní komisař	Mikulovice	99	80	0
-5302	575372	1	2	902	5	Jitka	Barrijová	F			49	podnikatel	Mikulovice	99	80	0
-5302	575372	1	2	902	6	Aleš	Kopecký	M	Ing.		44	podnikatel	Mikulovice	99	80	0
-5302	575372	1	2	902	7	Kateřina	Valentová	F		DiS.	34	technický archivář	Mikulovice	99	80	0
-5302	575372	1	2	902	8	Peter	Průšek	M			46	živnostník	Mikulovice	99	80	0
-5302	575372	1	2	902	9	Jana	Dotzauerová	F			67	důchodce	Blato	99	80	0
-5302	575372	1	3	903	1	Josef	Nentvich	M	Ing.		56	HZS - ředitel odboru	Mikulovice	99	80	0
-5302	575372	1	3	903	2	Romana	Vojířová	F	Mgr.		41	ředitelka příspěvk. organizace	Blato	7	80	0
-5302	575372	1	3	903	3	Renata	Fendrichová	F		DiS.	30	referentka obchodu	Mikulovice	99	80	0
-5302	575372	1	3	903	4	Rudolf	Jelčic	M			43	hasič - záchranář	Mikulovice	99	80	0
-5302	575372	1	3	903	5	Josef	Holešovský	M			36	státní zaměstnanec	Mikulovice	99	80	0
-5302	575372	1	3	903	6	Jiří	Hromádka	M			33	živnostník	Mikulovice	99	80	0
-5302	575372	1	3	903	7	Jan	Kroupa	M	Ing.		54	technik	Mikulovice	99	80	0
-5302	575372	1	4	901	1	Eva	Klosová	F			74	starostka	Mikulovice	99	80	0
-5302	575372	1	4	901	2	Eduard	Šmejdíř	M			39	podnikatel	Blato	99	80	0
-5302	575372	1	4	901	3	Slavomír	Meduna	M			50	oblastní ředitel	Mikulovice	99	80	0
-5302	575372	1	4	901	4	Martin	Pfeifer	M	Bc.		25	zdravotnický záchranář	Mikulovice	53	80	0
-5302	575372	1	4	901	5	Dagmar	Tycová	F			39	asistentka	Mikulovice	99	80	0
-5302	575372	1	4	901	6	František	Dvořák	M			63	důchodce	Blato	99	80	0
-5302	575372	1	4	901	7	Renata	Kasalová	F	Ing.		42	zástupce ředitele SOŠ	Mikulovice	99	80	0
-5302	575372	1	4	901	8	Robert	Zeman	M			35	státní zaměstnanec	Mikulovice	99	80	0
-5302	575372	1	4	901	9	Viera	Šťastná	F			42	účetní	Mikulovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5302	575372	1	1	904	1	Rita	Starečková	Mgr.		38	projektový manažer	Blato	99	80	0	F
+5302	575372	1	2	902	1	Rostislav	Báňa	Ing.		51	podnikatel	Mikulovice	99	80	0	M
+5302	575372	1	3	903	1	Josef	Nentvich	Ing.		56	HZS - ředitel odboru	Mikulovice	99	80	0	M
+5302	575372	1	4	901	1	Eva	Klosová			74	starostka	Mikulovice	99	80	0	F
+5302	575372	1	1	904	2	František	Liška	MUDr.		60	lékař	Mikulovice	99	80	0	M
+5302	575372	1	2	902	2	Miroslav	Horák			39	obchodní zástupce	Blato	99	80	0	M
+5302	575372	1	3	903	2	Romana	Vojířová	Mgr.		41	ředitelka příspěvk. organizace	Blato	7	80	0	F
+5302	575372	1	4	901	2	Eduard	Šmejdíř			39	podnikatel	Blato	99	80	0	M
+5302	575372	1	1	904	3	Hana	Spejchlíková			39	operátor	Blato	99	80	0	F
+5302	575372	1	2	902	3	Zdeňka	Venclová			58	invalidní důchodce	Mikulovice	99	80	0	F
+5302	575372	1	3	903	3	Renata	Fendrichová		DiS.	30	referentka obchodu	Mikulovice	99	80	0	F
+5302	575372	1	4	901	3	Slavomír	Meduna			50	oblastní ředitel	Mikulovice	99	80	0	M
+5302	575372	1	1	904	4	Radek	Báňa			48	podnikatel	Mikulovice	99	80	0	M
+5302	575372	1	2	902	4	Aleš	Gürtler	Lic.		37	policejní komisař	Mikulovice	99	80	0	M
+5302	575372	1	3	903	4	Rudolf	Jelčic			43	hasič - záchranář	Mikulovice	99	80	0	M
+5302	575372	1	4	901	4	Martin	Pfeifer	Bc.		25	zdravotnický záchranář	Mikulovice	53	80	0	M
+5302	575372	1	1	904	5	Miloslav	Liška	JUDr.		60	podnikatel	Mikulovice	99	80	0	M
+5302	575372	1	2	902	5	Jitka	Barrijová			49	podnikatel	Mikulovice	99	80	0	F
+5302	575372	1	3	903	5	Josef	Holešovský			36	státní zaměstnanec	Mikulovice	99	80	0	M
+5302	575372	1	4	901	5	Dagmar	Tycová			39	asistentka	Mikulovice	99	80	0	F
+5302	575372	1	1	904	6	Ludmila	Andrlová			40	nezávislý finanční poradce	Mikulovice	99	80	0	F
+5302	575372	1	2	902	6	Aleš	Kopecký	Ing.		44	podnikatel	Mikulovice	99	80	0	M
+5302	575372	1	3	903	6	Jiří	Hromádka			33	živnostník	Mikulovice	99	80	0	M
+5302	575372	1	4	901	6	František	Dvořák			63	důchodce	Blato	99	80	0	M
+5302	575372	1	1	904	7	Zdeněk	Brláš			25	technik	Mikulovice	99	80	0	M
+5302	575372	1	2	902	7	Kateřina	Valentová		DiS.	34	technický archivář	Mikulovice	99	80	0	F
+5302	575372	1	3	903	7	Jan	Kroupa	Ing.		54	technik	Mikulovice	99	80	0	M
+5302	575372	1	4	901	7	Renata	Kasalová	Ing.		42	zástupce ředitele SOŠ	Mikulovice	99	80	0	F
+5302	575372	1	1	904	8	Milan	Průšek			37	podnikatel	Mikulovice	99	80	0	M
+5302	575372	1	2	902	8	Peter	Průšek			46	živnostník	Mikulovice	99	80	0	M
+5302	575372	1	4	901	8	Robert	Zeman			35	státní zaměstnanec	Mikulovice	99	80	0	M
+5302	575372	1	1	904	9	Ladislav	Holeček			36	servisní technik	Mikulovice	99	80	0	M
+5302	575372	1	2	902	9	Jana	Dotzauerová			67	důchodce	Blato	99	80	0	F
+5302	575372	1	4	901	9	Viera	Šťastná			42	účetní	Mikulovice	99	80	0	F

@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	554057	1	1	901	1	Jiří	Pivoňka	M			52	celník	Nový Kramolín	99	80	0
-3201	554057	1	1	901	2	Josef	Kabourek	M			56	údržbář	Nový Kramolín	99	80	0
-3201	554057	1	1	901	3	Josef	Pešta	M			52	řidič	Nový Kramolín	99	80	0
-3201	554057	1	1	901	4	Jaroslav	Míka	M			64	důchodce	Nový Kramolín	47	80	0
-3201	554057	1	1	901	5	Václav	Vogeltanz	M			65	důchodce	Nový Kramolín	99	80	0
-3201	554057	1	1	901	6	Martin	Navrátil	M			27	svářeč	Nový Kramolín	99	80	1
-3201	554057	1	1	901	7	Lucie	Krutinová	F			19	studentka	Nový Kramolín	99	80	1
-3201	554057	1	1	901	8	Jitka	Bittenglová	F			43	prodavačka	Nový Kramolín	99	80	0
-3201	554057	1	1	901	9	Milan	Podlaha	M			35	údržbář	Nový Kramolín	99	80	0
-3201	554057	1	2	902	1	David	Běhounek	M			29	kuchař	Nový Kramolín	99	80	0
-3201	554057	1	2	902	2	Petr	Buršík	M			41	řidič	Nový Kramolín	99	80	0
-3201	554057	1	2	902	3	Petr	Teplý	M			42	ošetřovatel vepřů	Nový Kramolín	99	80	0
-3201	554057	1	2	902	4	Milan	Černý	M			42	dělník	Nový Kramolín	99	80	0
-3201	554057	1	2	902	5	Jaroslav	Běhounek	M			54	podnikatel	Nový Kramolín	99	80	0
-3201	554057	1	2	902	6	Světlana	Teplá	F			41	dělnice	Nový Kramolín	99	80	0
-3201	554057	1	2	902	7	Josef	Ehrlich	M			31	dělník	Nový Kramolín	99	80	0
-3201	554057	1	2	902	8	František	Sokol	M			46	řidič	Nový Kramolín	99	80	0
-3201	554057	1	2	902	9	Josef	Švajka	M			35	ošetřovatel skotu	Nový Kramolín	99	80	0
-3201	554057	1	3	7	1	Pavel	Sokol	M			61	zedník	Nový Kramolín	7	7	0
-3201	554057	1	3	7	2	Jan	Buršík	M			60	technik	Nový Kramolín	7	7	0
-3201	554057	1	3	7	3	Luboš	Hána	M			51	elektrikář	Nový Kramolín	7	7	0
-3201	554057	1	3	7	4	Vlastimil	Faina	M			54	obsluha čerpací stanice	Nový Kramolín	99	7	0
-3201	554057	1	3	7	5	Petr	Knopf	M			42	bez zaměstnání	Nový Kramolín	99	7	0
-3201	554057	1	3	7	6	Jitka	Ledvinová	F			43	obsluha čerpací stanice	Nový Kramolín	99	7	0
-3201	554057	1	3	7	7	Liběna	Duždová	F			34	v domácnosti	Nový Kramolín	99	7	0
-3201	554057	1	3	7	8	Ondřej	Horešovský	M			54	truhlář	Nový Kramolín	99	7	0
-3201	554057	1	3	7	9	Antonín	Karel	M			31	pracovník v zemědělské výrobě	Nový Kramolín	99	7	0
-3201	554057	1	4	903	1	Pavel	Chmelík	M			45	řidič	Nový Kramolín	156	80	0
-3201	554057	1	4	903	2	Petra	Krausová	F			27	servírka	Nový Kramolín	99	80	0
-3201	554057	1	4	903	3	Věra	Svidrová	F	Mgr.		64	důchodkyně	Nový Kramolín	99	80	0
-3201	554057	1	4	903	4	Josef	Vogeltanz	M			40	dělník	Nový Kramolín	99	80	0
-3201	554057	1	4	903	5	Miroslav	Mach	M			51	řidič	Nový Kramolín	99	80	0
-3201	554057	1	4	903	6	Pavel	Molnár	M			50	zedník	Nový Kramolín	99	80	0
-3201	554057	1	4	903	7	Helena	Antošková	F			42	kuchařka	Nový Kramolín	99	80	0
-3201	554057	1	4	903	8	Vlastimil	Baborák	M			18	student	Nový Kramolín	99	80	0
-3201	554057	1	4	903	9	David	Krutina	M			21	tesař	Nový Kramolín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	554057	1	1	901	1	Jiří	Pivoňka			52	celník	Nový Kramolín	99	80	0	M
+3201	554057	1	2	902	1	David	Běhounek			29	kuchař	Nový Kramolín	99	80	0	M
+3201	554057	1	3	7	1	Pavel	Sokol			61	zedník	Nový Kramolín	7	7	0	M
+3201	554057	1	4	903	1	Pavel	Chmelík			45	řidič	Nový Kramolín	156	80	0	M
+3201	554057	1	1	901	2	Josef	Kabourek			56	údržbář	Nový Kramolín	99	80	0	M
+3201	554057	1	2	902	2	Petr	Buršík			41	řidič	Nový Kramolín	99	80	0	M
+3201	554057	1	3	7	2	Jan	Buršík			60	technik	Nový Kramolín	7	7	0	M
+3201	554057	1	4	903	2	Petra	Krausová			27	servírka	Nový Kramolín	99	80	0	F
+3201	554057	1	1	901	3	Josef	Pešta			52	řidič	Nový Kramolín	99	80	0	M
+3201	554057	1	2	902	3	Petr	Teplý			42	ošetřovatel vepřů	Nový Kramolín	99	80	0	M
+3201	554057	1	3	7	3	Luboš	Hána			51	elektrikář	Nový Kramolín	7	7	0	M
+3201	554057	1	4	903	3	Věra	Svidrová	Mgr.		64	důchodkyně	Nový Kramolín	99	80	0	F
+3201	554057	1	1	901	4	Jaroslav	Míka			64	důchodce	Nový Kramolín	47	80	0	M
+3201	554057	1	2	902	4	Milan	Černý			42	dělník	Nový Kramolín	99	80	0	M
+3201	554057	1	3	7	4	Vlastimil	Faina			54	obsluha čerpací stanice	Nový Kramolín	99	7	0	M
+3201	554057	1	4	903	4	Josef	Vogeltanz			40	dělník	Nový Kramolín	99	80	0	M
+3201	554057	1	1	901	5	Václav	Vogeltanz			65	důchodce	Nový Kramolín	99	80	0	M
+3201	554057	1	2	902	5	Jaroslav	Běhounek			54	podnikatel	Nový Kramolín	99	80	0	M
+3201	554057	1	3	7	5	Petr	Knopf			42	bez zaměstnání	Nový Kramolín	99	7	0	M
+3201	554057	1	4	903	5	Miroslav	Mach			51	řidič	Nový Kramolín	99	80	0	M
+3201	554057	1	1	901	6	Martin	Navrátil			27	svářeč	Nový Kramolín	99	80	1	M
+3201	554057	1	2	902	6	Světlana	Teplá			41	dělnice	Nový Kramolín	99	80	0	F
+3201	554057	1	3	7	6	Jitka	Ledvinová			43	obsluha čerpací stanice	Nový Kramolín	99	7	0	F
+3201	554057	1	4	903	6	Pavel	Molnár			50	zedník	Nový Kramolín	99	80	0	M
+3201	554057	1	1	901	7	Lucie	Krutinová			19	studentka	Nový Kramolín	99	80	1	F
+3201	554057	1	2	902	7	Josef	Ehrlich			31	dělník	Nový Kramolín	99	80	0	M
+3201	554057	1	3	7	7	Liběna	Duždová			34	v domácnosti	Nový Kramolín	99	7	0	F
+3201	554057	1	4	903	7	Helena	Antošková			42	kuchařka	Nový Kramolín	99	80	0	F
+3201	554057	1	1	901	8	Jitka	Bittenglová			43	prodavačka	Nový Kramolín	99	80	0	F
+3201	554057	1	2	902	8	František	Sokol			46	řidič	Nový Kramolín	99	80	0	M
+3201	554057	1	3	7	8	Ondřej	Horešovský			54	truhlář	Nový Kramolín	99	7	0	M
+3201	554057	1	4	903	8	Vlastimil	Baborák			18	student	Nový Kramolín	99	80	0	M
+3201	554057	1	1	901	9	Milan	Podlaha			35	údržbář	Nový Kramolín	99	80	0	M
+3201	554057	1	2	902	9	Josef	Švajka			35	ošetřovatel skotu	Nový Kramolín	99	80	0	M
+3201	554057	1	3	7	9	Antonín	Karel			31	pracovník v zemědělské výrobě	Nový Kramolín	99	7	0	M
+3201	554057	1	4	903	9	David	Krutina			21	tesař	Nový Kramolín	99	80	0	M

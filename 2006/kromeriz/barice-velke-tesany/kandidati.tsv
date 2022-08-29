@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7201	588300	1	1	901	1	Věra	Halamová	F			41	v domácnosti	Bařice	99	80	0
-7201	588300	1	1	901	2	Petra	Valachová	F			21	zdravotní sestra	Velké Těšany	99	80	0
-7201	588300	1	1	901	3	Jaroslava	Zbořilová	F			31	dělnice	Bařice	99	80	0
-7201	588300	1	1	901	4	Jaroslav	Běhal	M			61	invalidní důchodce	Bařice	99	80	0
-7201	588300	1	1	901	5	Lubomír	Kadlčík	M			45	dělník	Bařice	99	80	0
-7201	588300	1	1	901	6	Helena	Bartůsková	F			31	zootechnička	Bařice	99	80	0
-7201	588300	1	1	901	7	Irena	Valachová	F			55	ekonomka	Velké Těšany	99	80	0
-7201	588300	1	1	901	8	Petr	Dočkal	M			38	nástrojař	Bařice	99	80	0
-7201	588300	1	1	901	9	Josef	Dvořák	M			54	zámečník	Bařice	99	80	0
-7201	588300	1	2	903	1	Jaroslav	Galatík	M			53	technik	Velké Těšany	99	80	0
-7201	588300	1	2	903	2	Josef	Smolinka	M			41	živnostník	Bařice	99	80	0
-7201	588300	1	2	903	3	Ondřej	Valach	M	Bc.		24	student	Velké Těšany	99	80	0
-7201	588300	1	2	903	4	Marcela	Ředinová	F			27	lektorka angličtiny	Velké Těšany	99	80	0
-7201	588300	1	2	903	5	Pavel	Chrastina	M			32	technik	Velké Těšany	99	80	0
-7201	588300	1	2	903	6	Lubomír	Šťastný	M			38	dělník	Bařice	99	80	0
-7201	588300	1	2	903	7	Josef	Potočný	M			33	řidič	Velké Těšany	99	80	0
-7201	588300	1	2	903	8	Petra	Albertová	F			20	studentka	Bařice	99	80	0
-7201	588300	1	3	902	1	Stanislav	Jarka	M			55	technik	Velké Těšany	99	80	0
-7201	588300	1	3	902	2	Miroslav	Běhal	M			51	nezaměstnaný	Bařice	99	80	0
-7201	588300	1	3	902	3	Pavel	Dadák	M			38	soukromý podnikatel	Velké Těšany	99	80	0
-7201	588300	1	3	902	4	František	Hrbatý	M			53	invalidní důchodce	Bařice	99	80	0
-7201	588300	1	3	902	5	Antonín	Dušek	M	Ing.		49	soukromý podnikatel	Velké Těšany	99	80	0
-7201	588300	1	3	902	6	Markéta	Ševčíková	F			29	úřednice	Bařice	99	80	0
-7201	588300	1	3	902	7	Marek	Haloda	M			32	soukromý podnikatel	Velké Těšany	99	80	0
-7201	588300	1	3	902	8	Vladimíra	Kolouchová	F			23	soudní úřednice	Bařice	99	80	0
-7201	588300	1	3	902	9	Josef	Stančík	M	Ing.		75	důchodce	Bařice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7201	588300	1	1	901	1	Věra	Halamová			41	v domácnosti	Bařice	99	80	0	F
+7201	588300	1	2	903	1	Jaroslav	Galatík			53	technik	Velké Těšany	99	80	0	M
+7201	588300	1	3	902	1	Stanislav	Jarka			55	technik	Velké Těšany	99	80	0	M
+7201	588300	1	1	901	2	Petra	Valachová			21	zdravotní sestra	Velké Těšany	99	80	0	F
+7201	588300	1	2	903	2	Josef	Smolinka			41	živnostník	Bařice	99	80	0	M
+7201	588300	1	3	902	2	Miroslav	Běhal			51	nezaměstnaný	Bařice	99	80	0	M
+7201	588300	1	1	901	3	Jaroslava	Zbořilová			31	dělnice	Bařice	99	80	0	F
+7201	588300	1	2	903	3	Ondřej	Valach	Bc.		24	student	Velké Těšany	99	80	0	M
+7201	588300	1	3	902	3	Pavel	Dadák			38	soukromý podnikatel	Velké Těšany	99	80	0	M
+7201	588300	1	1	901	4	Jaroslav	Běhal			61	invalidní důchodce	Bařice	99	80	0	M
+7201	588300	1	2	903	4	Marcela	Ředinová			27	lektorka angličtiny	Velké Těšany	99	80	0	F
+7201	588300	1	3	902	4	František	Hrbatý			53	invalidní důchodce	Bařice	99	80	0	M
+7201	588300	1	1	901	5	Lubomír	Kadlčík			45	dělník	Bařice	99	80	0	M
+7201	588300	1	2	903	5	Pavel	Chrastina			32	technik	Velké Těšany	99	80	0	M
+7201	588300	1	3	902	5	Antonín	Dušek	Ing.		49	soukromý podnikatel	Velké Těšany	99	80	0	M
+7201	588300	1	1	901	6	Helena	Bartůsková			31	zootechnička	Bařice	99	80	0	F
+7201	588300	1	2	903	6	Lubomír	Šťastný			38	dělník	Bařice	99	80	0	M
+7201	588300	1	3	902	6	Markéta	Ševčíková			29	úřednice	Bařice	99	80	0	F
+7201	588300	1	1	901	7	Irena	Valachová			55	ekonomka	Velké Těšany	99	80	0	F
+7201	588300	1	2	903	7	Josef	Potočný			33	řidič	Velké Těšany	99	80	0	M
+7201	588300	1	3	902	7	Marek	Haloda			32	soukromý podnikatel	Velké Těšany	99	80	0	M
+7201	588300	1	1	901	8	Petr	Dočkal			38	nástrojař	Bařice	99	80	0	M
+7201	588300	1	2	903	8	Petra	Albertová			20	studentka	Bařice	99	80	0	F
+7201	588300	1	3	902	8	Vladimíra	Kolouchová			23	soudní úřednice	Bařice	99	80	0	F
+7201	588300	1	1	901	9	Josef	Dvořák			54	zámečník	Bařice	99	80	0	M
+7201	588300	1	3	902	9	Josef	Stančík	Ing.		75	důchodce	Bařice	99	80	0	M

@@ -1,8 +1,8 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	538710	1	1	806	1	Lukáš	Bareš	M	Ing.		30	státní zaměstnanec	Křiváček	99	80	0
-2101	538710	1	2	803	1	Pavel	Zoula	M			50	kovář	Barochov	99	80	0
-2101	538710	1	3	804	1	Zdeňka	Nováková	F	Ing.		40	podnikatelka	Babice - Dařbož	99	80	0
-2101	538710	1	4	805	1	Martin	Šveda	M	Ing.		47	ředitel společnosti	Babice - Dařbož	99	80	0
-2101	538710	1	5	802	1	Norbert	Newald	M			42	automechanik	Řehenice - Babice	99	80	0
-2101	538710	1	6	807	1	Petr	Kavalíř	M			56	podnikatel	Řehenice	99	80	0
-2101	538710	1	7	801	1	František	Ondřich	M			65	důchodce	Řehenice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	538710	1	1	806	1	Lukáš	Bareš	Ing.		30	státní zaměstnanec	Křiváček	99	80	0	M
+2101	538710	1	2	803	1	Pavel	Zoula			50	kovář	Barochov	99	80	0	M
+2101	538710	1	3	804	1	Zdeňka	Nováková	Ing.		40	podnikatelka	Babice - Dařbož	99	80	0	F
+2101	538710	1	4	805	1	Martin	Šveda	Ing.		47	ředitel společnosti	Babice - Dařbož	99	80	0	M
+2101	538710	1	5	802	1	Norbert	Newald			42	automechanik	Řehenice - Babice	99	80	0	M
+2101	538710	1	6	807	1	Petr	Kavalíř			56	podnikatel	Řehenice	99	80	0	M
+2101	538710	1	7	801	1	František	Ondřich			65	důchodce	Řehenice	99	80	0	M

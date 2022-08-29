@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	532169	1	1	7	1	Antonín	KADLEC	M			64	technicko-hospodářský prac.	Buštěhrad	7	7	0
-2103	532169	1	1	7	2	Karel	TRNOBRANSKÝ	M	doc.Ing.	CSc.	65	v důchodu	Buštěhrad	99	7	0
-2103	532169	1	1	7	3	Magda	KINDLOVÁ	F	Mgr.		40	ředitelka gymnázia	Buštěhrad	99	7	0
-2103	532169	1	1	7	4	Věra	MRÁZKOVÁ	F			40	zdravotní sestra	Buštěhrad	99	7	0
-2103	532169	1	1	7	5	Jiří	MÜLLER	M	Ing.		38	konstruktér	Buštěhrad	99	7	0
-2103	532169	1	1	7	6	Václava	ŠUMNÁ	F			35	bankovní úřednice	Buštěhrad	99	7	0
-2103	532169	1	1	7	7	Petr	MENCL	M	Mgr.		44	asistent starosty	Buštěhrad	7	7	0
-2103	532169	1	1	7	8	Josef	KOUTECKÝ	M	Ing.		64	v důchodu	Buštěhrad	7	7	0
-2103	532169	1	1	7	9	Jan	MIKŠOVIC	M			62	v důchodu	Buštěhrad	7	7	0
-2103	532169	1	2	901	1	Miroslav	OPLT	M	RNDr.	CSc.	72	tajemník Mikroregionu ÚLP	Buštěhrad	99	80	0
-2103	532169	1	2	901	2	Jitka	LEFLEROVÁ	F	Ing.		66	důchodkyně	Buštěhrad	99	80	0
-2103	532169	1	2	901	3	Roman	DĚDIČ	M			43	samostatně hospodařící rolník	Buštěhrad	99	80	0
-2103	532169	1	2	901	4	Miroslava	BUREŠOVÁ	F			53	ekonomka	Buštěhrad	99	80	0
-2103	532169	1	2	901	5	Karel	JEDLIČKA	M	Ing.		64	podnikatel	Buštěhrad	99	80	0
-2103	532169	1	2	901	6	Radek	HLAVSA	M			38	podnikatel	Buštěhrad	99	80	0
-2103	532169	1	2	901	7	Tomáš	NOVOTNÝ	M			39	strojvedoucí metra	Buštěhrad	99	80	0
-2103	532169	1	2	901	8	Iva	FOREJTOVÁ	F			50	podnikatelka	Buštěhrad	99	80	0
-2103	532169	1	2	901	9	Zdeněk	ŠTEFEK st.	M			58	podnikatel	Buštěhrad	99	80	0
-2103	532169	1	3	659	1	Luboš	KLUIBER	M	BcA.		27	stavební technik	Buštěhrad	721	721	0
-2103	532169	1	3	659	2	Luděk	SEMRÁD	M	Mgr.		46	jednatel společnosti	Buštěhrad	99	166	0
-2103	532169	1	3	659	3	Petr	SEJKORA	M			34	učitel	Buštěhrad	721	721	0
-2103	532169	1	3	659	4	Dagmar	NOVOTNÁ	F			47	supervizor	Buštěhrad	99	721	0
-2103	532169	1	3	659	5	Lucie	DLOUHÁ	F		DiS.	30	technik plynáren.zařízení	Buštěhrad	721	721	0
-2103	532169	1	3	659	6	Tomáš	KLUIBER	M	Ing.		30	technický manažer	Buštěhrad	721	721	0
-2103	532169	1	3	659	7	Kamil	DLOUHÝ	M	Ing.		29	technický manažer	Buštěhrad	721	721	0
-2103	532169	1	3	659	8	Romana	VĚRČÁKOVÁ	F			32	projektová manažerka	Buštěhrad	99	166	0
-2103	532169	1	3	659	9	Jana	LANDSINGEROVÁ	F			31	administrativní pracovník	Buštěhrad	721	721	0
-2103	532169	1	4	53	1	Václav	NOVÝ	M	Ing.		58	starosta	Buštěhrad	99	53	0
-2103	532169	1	4	53	2	Lukáš	KOHL	M	Ing.arch.		35	architekt	Buštěhrad	99	53	0
-2103	532169	1	4	53	3	Daniela	JAVORČEKOVÁ	F	Ing.arch.		36	architektka	Buštěhrad	99	53	0
-2103	532169	1	4	53	4	Ladislav	ŠIMON	M			39	podnikatel	Buštěhrad	99	53	0
-2103	532169	1	4	53	5	Gabriela	PLACHÁ	F	MgA.		34	hudebnice	Buštěhrad	99	53	0
-2103	532169	1	4	53	6	Michal	SZTOGRÝN	M			28	živnostník	Buštěhrad	99	53	0
-2103	532169	1	4	53	7	Pavel	HEIDENREICH	M			48	manažer	Buštěhrad	53	53	0
-2103	532169	1	4	53	8	Luděk	ZÁMYSLICKÝ	M	Ing.		59	podnikatel	Buštěhrad	99	53	0
-2103	532169	1	4	53	9	Radim	ŠVEJDA	M			45	podnikatel	Buštěhrad	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	532169	1	1	7	1	Antonín	KADLEC			64	technicko-hospodářský prac.	Buštěhrad	7	7	0	M
+2103	532169	1	2	901	1	Miroslav	OPLT	RNDr.	CSc.	72	tajemník Mikroregionu ÚLP	Buštěhrad	99	80	0	M
+2103	532169	1	3	659	1	Luboš	KLUIBER	BcA.		27	stavební technik	Buštěhrad	721	721	0	M
+2103	532169	1	4	53	1	Václav	NOVÝ	Ing.		58	starosta	Buštěhrad	99	53	0	M
+2103	532169	1	1	7	2	Karel	TRNOBRANSKÝ	doc.Ing.	CSc.	65	v důchodu	Buštěhrad	99	7	0	M
+2103	532169	1	2	901	2	Jitka	LEFLEROVÁ	Ing.		66	důchodkyně	Buštěhrad	99	80	0	F
+2103	532169	1	3	659	2	Luděk	SEMRÁD	Mgr.		46	jednatel společnosti	Buštěhrad	99	166	0	M
+2103	532169	1	4	53	2	Lukáš	KOHL	Ing.arch.		35	architekt	Buštěhrad	99	53	0	M
+2103	532169	1	1	7	3	Magda	KINDLOVÁ	Mgr.		40	ředitelka gymnázia	Buštěhrad	99	7	0	F
+2103	532169	1	2	901	3	Roman	DĚDIČ			43	samostatně hospodařící rolník	Buštěhrad	99	80	0	M
+2103	532169	1	3	659	3	Petr	SEJKORA			34	učitel	Buštěhrad	721	721	0	M
+2103	532169	1	4	53	3	Daniela	JAVORČEKOVÁ	Ing.arch.		36	architektka	Buštěhrad	99	53	0	F
+2103	532169	1	1	7	4	Věra	MRÁZKOVÁ			40	zdravotní sestra	Buštěhrad	99	7	0	F
+2103	532169	1	2	901	4	Miroslava	BUREŠOVÁ			53	ekonomka	Buštěhrad	99	80	0	F
+2103	532169	1	3	659	4	Dagmar	NOVOTNÁ			47	supervizor	Buštěhrad	99	721	0	F
+2103	532169	1	4	53	4	Ladislav	ŠIMON			39	podnikatel	Buštěhrad	99	53	0	M
+2103	532169	1	1	7	5	Jiří	MÜLLER	Ing.		38	konstruktér	Buštěhrad	99	7	0	M
+2103	532169	1	2	901	5	Karel	JEDLIČKA	Ing.		64	podnikatel	Buštěhrad	99	80	0	M
+2103	532169	1	3	659	5	Lucie	DLOUHÁ		DiS.	30	technik plynáren.zařízení	Buštěhrad	721	721	0	F
+2103	532169	1	4	53	5	Gabriela	PLACHÁ	MgA.		34	hudebnice	Buštěhrad	99	53	0	F
+2103	532169	1	1	7	6	Václava	ŠUMNÁ			35	bankovní úřednice	Buštěhrad	99	7	0	F
+2103	532169	1	2	901	6	Radek	HLAVSA			38	podnikatel	Buštěhrad	99	80	0	M
+2103	532169	1	3	659	6	Tomáš	KLUIBER	Ing.		30	technický manažer	Buštěhrad	721	721	0	M
+2103	532169	1	4	53	6	Michal	SZTOGRÝN			28	živnostník	Buštěhrad	99	53	0	M
+2103	532169	1	1	7	7	Petr	MENCL	Mgr.		44	asistent starosty	Buštěhrad	7	7	0	M
+2103	532169	1	2	901	7	Tomáš	NOVOTNÝ			39	strojvedoucí metra	Buštěhrad	99	80	0	M
+2103	532169	1	3	659	7	Kamil	DLOUHÝ	Ing.		29	technický manažer	Buštěhrad	721	721	0	M
+2103	532169	1	4	53	7	Pavel	HEIDENREICH			48	manažer	Buštěhrad	53	53	0	M
+2103	532169	1	1	7	8	Josef	KOUTECKÝ	Ing.		64	v důchodu	Buštěhrad	7	7	0	M
+2103	532169	1	2	901	8	Iva	FOREJTOVÁ			50	podnikatelka	Buštěhrad	99	80	0	F
+2103	532169	1	3	659	8	Romana	VĚRČÁKOVÁ			32	projektová manažerka	Buštěhrad	99	166	0	F
+2103	532169	1	4	53	8	Luděk	ZÁMYSLICKÝ	Ing.		59	podnikatel	Buštěhrad	99	53	0	M
+2103	532169	1	1	7	9	Jan	MIKŠOVIC			62	v důchodu	Buštěhrad	7	7	0	M
+2103	532169	1	2	901	9	Zdeněk	ŠTEFEK st.			58	podnikatel	Buštěhrad	99	80	0	M
+2103	532169	1	3	659	9	Jana	LANDSINGEROVÁ			31	administrativní pracovník	Buštěhrad	721	721	0	F
+2103	532169	1	4	53	9	Radim	ŠVEJDA			45	podnikatel	Buštěhrad	99	53	0	M

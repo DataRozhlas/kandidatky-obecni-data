@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5202	573108	1	1	166	1	Jaromír	Přibyl	M			38	podnikatel	Libáň	99	166	0
-5202	573108	1	1	166	2	Petr	Soukup	M			53	starosta	Libáň	99	166	0
-5202	573108	1	1	166	3	Michal	Zahradníček	M	Ing.		37	technický ředitel	Libáň	99	166	0
-5202	573108	1	1	166	4	Jan	Ježek	M	Ing.		38	specialista logistických projektů	Libáň	99	166	0
-5202	573108	1	1	166	5	Jindřich	Řezníček	M			42	podnikatel	Kozodírky	99	166	0
-5202	573108	1	1	166	6	Hana	Ježková	F	Ing.		35	medicínský specialista	Libáň	99	166	0
-5202	573108	1	1	166	7	Libor	Vaněk	M			61	strojvedoucí ČD	Psinice	99	166	0
-5202	573108	1	1	166	8	Petra	Kouřilová	F			34	vedoucí prodejny	Libáň	99	166	0
-5202	573108	1	1	166	9	Miroslav	Paclt	M			47	svářeč	Kozodírky	99	166	0
-5202	573108	1	2	427	1	David	Holman	M	Bc.		35	podnikatel	Libáň	99	143	0
-5202	573108	1	2	427	2	Jáchym	Čepický	M	Ing.		35	IT specialista	Křešice	99	143	0
-5202	573108	1	2	427	3	Milan	Etrych	M	Ing.	Ph.D.	37	podnikatel	Psinice	99	143	0
-5202	573108	1	2	427	4	Martin	Kohout	M			30	obráběč kovů	Libáň	99	80	0
-5202	573108	1	2	427	5	Marek	Haken	M			37	asistent seřizovače	Libáň	99	80	0
-5202	573108	1	2	427	6	Josef	Paločko	M			41	koordinátor	Libáň	99	80	0
-5202	573108	1	2	427	7	Michal	Vlk	M			44	řidič	Kozodírky	99	80	0
-5202	573108	1	2	427	8	Ivo	Zmátlík	M			41	IT specialista	Libáň	99	143	0
-5202	573108	1	2	427	9	Ondřej	Průšek	M	Ing.		31	technický specialista	Libáň	99	143	0
-5202	573108	1	3	53	1	Jan	Šesták	M			77	důchodce	Zliv	53	53	0
-5202	573108	1	3	53	2	František	Grossman	M			65	důchodce	Libáň	99	53	0
-5202	573108	1	3	53	3	David	Horák	M			41	technik	Libáň	99	53	0
-5202	573108	1	3	53	4	Jiří	Miech	M			51	technik	Libáň	99	53	0
-5202	573108	1	3	53	5	Ivana	Najmanová	F			50	účetní	Libáň	99	53	0
-5202	573108	1	3	53	6	Radek	Kůta	M			41	dělník	Libáň	99	53	0
-5202	573108	1	3	53	7	Radomír	Najman	M			53	autoklempíř	Libáň	99	53	0
-5202	573108	1	3	53	8	Antonín	Hurcik	M			62	skladník	Libáň	99	53	0
-5202	573108	1	3	53	9	Jena	Šestáková	F			78	důchodkyně	Zliv	99	53	0
-5202	573108	1	4	768	1	Milan	Valnoha	M	Mgr.		46	učitel	Libáň	99	768	0
-5202	573108	1	4	768	2	Miloslav	Šolc	M			54	řidič	Libáň	99	768	0
-5202	573108	1	4	768	3	David	Pošepný	M			36	zdravotnický záchranář	Libáň	99	768	0
-5202	573108	1	4	768	4	Miroslav	Drozen	M			43	soukromý podnikatel	Libáň	99	768	0
-5202	573108	1	4	768	5	Roman	Myška	M			39	vedoucí skladu	Libáň	99	768	0
-5202	573108	1	4	768	6	Jana	Kořínková	F			34	referent řízení výroby	Libáň	99	768	0
-5202	573108	1	4	768	7	Zdeněk	Mazáček	M			42	elektromechanik	Libáň	99	768	0
-5202	573108	1	4	768	8	Vladimír	Stoklasa	M			61	důchodce	Libáň	99	768	0
-5202	573108	1	4	768	9	Jana	Valnohová	F	Mgr.		44	učitelka	Libáň	99	768	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5202	573108	1	1	166	1	Jaromír	Přibyl			38	podnikatel	Libáň	99	166	0	M
+5202	573108	1	2	427	1	David	Holman	Bc.		35	podnikatel	Libáň	99	143	0	M
+5202	573108	1	3	53	1	Jan	Šesták			77	důchodce	Zliv	53	53	0	M
+5202	573108	1	4	768	1	Milan	Valnoha	Mgr.		46	učitel	Libáň	99	768	0	M
+5202	573108	1	1	166	2	Petr	Soukup			53	starosta	Libáň	99	166	0	M
+5202	573108	1	2	427	2	Jáchym	Čepický	Ing.		35	IT specialista	Křešice	99	143	0	M
+5202	573108	1	3	53	2	František	Grossman			65	důchodce	Libáň	99	53	0	M
+5202	573108	1	4	768	2	Miloslav	Šolc			54	řidič	Libáň	99	768	0	M
+5202	573108	1	1	166	3	Michal	Zahradníček	Ing.		37	technický ředitel	Libáň	99	166	0	M
+5202	573108	1	2	427	3	Milan	Etrych	Ing.	Ph.D.	37	podnikatel	Psinice	99	143	0	M
+5202	573108	1	3	53	3	David	Horák			41	technik	Libáň	99	53	0	M
+5202	573108	1	4	768	3	David	Pošepný			36	zdravotnický záchranář	Libáň	99	768	0	M
+5202	573108	1	1	166	4	Jan	Ježek	Ing.		38	specialista logistických projektů	Libáň	99	166	0	M
+5202	573108	1	2	427	4	Martin	Kohout			30	obráběč kovů	Libáň	99	80	0	M
+5202	573108	1	3	53	4	Jiří	Miech			51	technik	Libáň	99	53	0	M
+5202	573108	1	4	768	4	Miroslav	Drozen			43	soukromý podnikatel	Libáň	99	768	0	M
+5202	573108	1	1	166	5	Jindřich	Řezníček			42	podnikatel	Kozodírky	99	166	0	M
+5202	573108	1	2	427	5	Marek	Haken			37	asistent seřizovače	Libáň	99	80	0	M
+5202	573108	1	3	53	5	Ivana	Najmanová			50	účetní	Libáň	99	53	0	F
+5202	573108	1	4	768	5	Roman	Myška			39	vedoucí skladu	Libáň	99	768	0	M
+5202	573108	1	1	166	6	Hana	Ježková	Ing.		35	medicínský specialista	Libáň	99	166	0	F
+5202	573108	1	2	427	6	Josef	Paločko			41	koordinátor	Libáň	99	80	0	M
+5202	573108	1	3	53	6	Radek	Kůta			41	dělník	Libáň	99	53	0	M
+5202	573108	1	4	768	6	Jana	Kořínková			34	referent řízení výroby	Libáň	99	768	0	F
+5202	573108	1	1	166	7	Libor	Vaněk			61	strojvedoucí ČD	Psinice	99	166	0	M
+5202	573108	1	2	427	7	Michal	Vlk			44	řidič	Kozodírky	99	80	0	M
+5202	573108	1	3	53	7	Radomír	Najman			53	autoklempíř	Libáň	99	53	0	M
+5202	573108	1	4	768	7	Zdeněk	Mazáček			42	elektromechanik	Libáň	99	768	0	M
+5202	573108	1	1	166	8	Petra	Kouřilová			34	vedoucí prodejny	Libáň	99	166	0	F
+5202	573108	1	2	427	8	Ivo	Zmátlík			41	IT specialista	Libáň	99	143	0	M
+5202	573108	1	3	53	8	Antonín	Hurcik			62	skladník	Libáň	99	53	0	M
+5202	573108	1	4	768	8	Vladimír	Stoklasa			61	důchodce	Libáň	99	768	0	M
+5202	573108	1	1	166	9	Miroslav	Paclt			47	svářeč	Kozodírky	99	166	0	M
+5202	573108	1	2	427	9	Ondřej	Průšek	Ing.		31	technický specialista	Libáň	99	143	0	M
+5202	573108	1	3	53	9	Jena	Šestáková			78	důchodkyně	Zliv	99	53	0	F
+5202	573108	1	4	768	9	Jana	Valnohová	Mgr.		44	učitelka	Libáň	99	768	0	F

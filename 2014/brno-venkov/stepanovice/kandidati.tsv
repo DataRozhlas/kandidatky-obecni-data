@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	583961	1	1	901	1	Jiří	Kopřiva	M			60	důchodce	Štěpánovice	99	80	0
-6203	583961	1	1	901	2	Jaroslav	Vojta	M			59	dělník	Štěpánovice	99	80	0
-6203	583961	1	1	901	3	Libor	Vejpustek	M			46	dělník	Štěpánovice	99	80	0
-6203	583961	1	1	901	4	Jiří	Bělič	M	Ing.		45	revírník	Štěpánovice	99	80	0
-6203	583961	1	1	901	5	František	Polák	M			57	zemědělec	Štěpánovice	99	80	0
-6203	583961	1	1	901	6	Jiří	Sýs	M			53	technik	Štěpánovice	99	80	0
-6203	583961	1	1	901	7	Roman	Martinek	M			44	dělník	Štěpánovice	99	80	0
-6203	583961	1	2	902	1	Tomáš	Kubín	M	Ing.		49	revírník LČR	Štěpánovice	99	80	0
-6203	583961	1	2	902	2	Rudolf	Mašek	M	Ing.		56	ředitel SŠ a ZŠ Tišnov	Štěpánovice	99	80	0
-6203	583961	1	2	902	3	Petr	Káč	M	Ing.		46	IT specialista	Štěpánovice	99	80	0
-6203	583961	1	2	902	4	Marek	Haman	M			46	odbytář	Štěpánovice	99	80	0
-6203	583961	1	2	902	5	Michal	Kroupa	M			39	automechanik	Štěpánovice	99	80	0
-6203	583961	1	2	902	6	Jaroslav	Raus	M			42	chemik - operátor výroby	Štěpánovice	99	80	0
-6203	583961	1	2	902	7	Libor	Štěpánek	M			39	instalatér topenář	Štěpánovice	99	80	0
-6203	583961	1	3	47	1	Jiří	Dolníček	M			71	důchodce	Štěpánovice	47	47	0
-6203	583961	1	3	47	2	Jiří	Dvořák	M			67	důchodce	Štěpánovice	47	47	0
-6203	583961	1	3	47	3	Bohuslav	Matoušek	M			63	důchodce	Štěpánovice	99	47	0
-6203	583961	1	3	47	4	Jiří	Dvořák	M			57	zaměstnanec ČD	Štěpánovice	99	47	0
-6203	583961	1	3	47	5	Jan	Rolínek	M			57	stavař	Štěpánovice	99	47	0
-6203	583961	1	3	47	6	Josef	Dolníček	M			61	důchodce	Štěpánovice	99	47	0
-6203	583961	1	3	47	7	Naděžda	Bémová	F			61	důchodkyně	Štěpánovice	99	47	0
-6203	583961	1	4	53	1	Miluše	Pulkrábková	F	Mgr.		56	učitelka	Štěpánovice	99	53	0
-6203	583961	1	4	53	2	Erik	Oplt	M			38	obchodní zástupce	Štěpánovice	99	53	0
-6203	583961	1	4	53	3	Stanislav	Helan	M			58	podnikatel	Štěpánovice	53	53	0
-6203	583961	1	4	53	4	Petr	Sýs	M			48	technický a produktový manažer	Štěpánovice	99	53	0
-6203	583961	1	4	53	5	Marek	Uhlíř	M			28	podnikatel	Štěpánovice	99	53	0
-6203	583961	1	4	53	6	Petr	Svoboda	M			30	podnikatel	Štěpánovice	99	53	0
-6203	583961	1	4	53	7	Vítězslava	Vejpustková	F			49	farmaceutický asistent	Štěpánovice	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	583961	1	1	901	1	Jiří	Kopřiva			60	důchodce	Štěpánovice	99	80	0	M
+6203	583961	1	2	902	1	Tomáš	Kubín	Ing.		49	revírník LČR	Štěpánovice	99	80	0	M
+6203	583961	1	3	47	1	Jiří	Dolníček			71	důchodce	Štěpánovice	47	47	0	M
+6203	583961	1	4	53	1	Miluše	Pulkrábková	Mgr.		56	učitelka	Štěpánovice	99	53	0	F
+6203	583961	1	1	901	2	Jaroslav	Vojta			59	dělník	Štěpánovice	99	80	0	M
+6203	583961	1	2	902	2	Rudolf	Mašek	Ing.		56	ředitel SŠ a ZŠ Tišnov	Štěpánovice	99	80	0	M
+6203	583961	1	3	47	2	Jiří	Dvořák			67	důchodce	Štěpánovice	47	47	0	M
+6203	583961	1	4	53	2	Erik	Oplt			38	obchodní zástupce	Štěpánovice	99	53	0	M
+6203	583961	1	1	901	3	Libor	Vejpustek			46	dělník	Štěpánovice	99	80	0	M
+6203	583961	1	2	902	3	Petr	Káč	Ing.		46	IT specialista	Štěpánovice	99	80	0	M
+6203	583961	1	3	47	3	Bohuslav	Matoušek			63	důchodce	Štěpánovice	99	47	0	M
+6203	583961	1	4	53	3	Stanislav	Helan			58	podnikatel	Štěpánovice	53	53	0	M
+6203	583961	1	1	901	4	Jiří	Bělič	Ing.		45	revírník	Štěpánovice	99	80	0	M
+6203	583961	1	2	902	4	Marek	Haman			46	odbytář	Štěpánovice	99	80	0	M
+6203	583961	1	3	47	4	Jiří	Dvořák			57	zaměstnanec ČD	Štěpánovice	99	47	0	M
+6203	583961	1	4	53	4	Petr	Sýs			48	technický a produktový manažer	Štěpánovice	99	53	0	M
+6203	583961	1	1	901	5	František	Polák			57	zemědělec	Štěpánovice	99	80	0	M
+6203	583961	1	2	902	5	Michal	Kroupa			39	automechanik	Štěpánovice	99	80	0	M
+6203	583961	1	3	47	5	Jan	Rolínek			57	stavař	Štěpánovice	99	47	0	M
+6203	583961	1	4	53	5	Marek	Uhlíř			28	podnikatel	Štěpánovice	99	53	0	M
+6203	583961	1	1	901	6	Jiří	Sýs			53	technik	Štěpánovice	99	80	0	M
+6203	583961	1	2	902	6	Jaroslav	Raus			42	chemik - operátor výroby	Štěpánovice	99	80	0	M
+6203	583961	1	3	47	6	Josef	Dolníček			61	důchodce	Štěpánovice	99	47	0	M
+6203	583961	1	4	53	6	Petr	Svoboda			30	podnikatel	Štěpánovice	99	53	0	M
+6203	583961	1	1	901	7	Roman	Martinek			44	dělník	Štěpánovice	99	80	0	M
+6203	583961	1	2	902	7	Libor	Štěpánek			39	instalatér topenář	Štěpánovice	99	80	0	M
+6203	583961	1	3	47	7	Naděžda	Bémová			61	důchodkyně	Štěpánovice	99	47	0	F
+6203	583961	1	4	53	7	Vítězslava	Vejpustková			49	farmaceutický asistent	Štěpánovice	99	53	0	F

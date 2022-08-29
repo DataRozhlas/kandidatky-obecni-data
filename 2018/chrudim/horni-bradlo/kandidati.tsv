@@ -1,38 +1,38 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	571474	1	1	801	1	Lenka	Stýblová	F			37	pracovnice v soc. službách-aktivizační pracovnice	Vršov	99	80	A
-5301	571474	1	2	902	1	Radislav	Kumpan	M			37	starosta obce	Dolní Bradlo	99	80	A
-5301	571474	1	2	902	2	Michal	Nepovím	M			41	THP - pracovník	Lipka	99	80	A
-5301	571474	1	2	902	3	Alena	Kroutilová	F			67	důchodce	Vršov	99	80	A
-5301	571474	1	2	902	4	Lubomír	Nepovím	M			60	elektrikář	Velká Střítež	99	80	A
-5301	571474	1	2	902	5	Luboš	Hrdý	M			47	OSVČ	Horní Bradlo	99	80	A
-5301	571474	1	2	902	6	Jaroslav	Kroutil	M			54	řidič	Dolní Bradlo	99	80	A
-5301	571474	1	2	902	7	Broňa	Eisová	F			56	kuchařka	Horní Bradlo	99	80	A
-5301	571474	1	2	902	8	Daniel	Žák	M			46	OSVČ	Travná	99	80	A
-5301	571474	1	2	902	9	Antonín	Pospíšil	M			41	řidič	Lipka	99	80	A
-5301	571474	1	3	47	1	Josef	Blažek	M	Ing.		67	důchodce	Dolní Bradlo	47	47	A
-5301	571474	1	3	47	2	Josef	Horák	M			70	důchodce	Dolní Bradlo	47	47	A
-5301	571474	1	3	47	3	Oldřich	Kovačka	M			62	traktorista	Dolní Bradlo	99	47	A
-5301	571474	1	3	47	4	Roman	Šretr	M			60	dělník	Travná	47	47	A
-5301	571474	1	3	47	5	Josef	Sotona	M			62	ošetřovatel skotu	Velká Střítež	99	47	A
-5301	571474	1	3	47	6	Jan	Dostál	M			71	důchodce	Horní Bradlo	47	47	A
-5301	571474	1	3	47	7	František	Paulus	M			71	důchodce	Vršov	47	47	A
-5301	571474	1	3	47	8	Milan	Pilař	M			62	kuchař	Dolní Bradlo	47	47	A
-5301	571474	1	3	47	9	Jana	Horníková	F			57	ošetřovatelka skotu	Velká Střítež	47	47	A
-5301	571474	1	4	903	1	Jiří	Linhart	M			62	podnikatel	Vršov	99	80	A
-5301	571474	1	4	903	2	Dana	Pilařová	F			54	účetní	Lipka	99	80	A
-5301	571474	1	4	903	3	Petr	Kosina	M			42	zámečník	Velká Střítež	99	80	A
-5301	571474	1	4	903	4	Jana	Tichá	F			55	zaměstnankyně v kuchyni	Travná	99	80	A
-5301	571474	1	4	903	5	Jaroslav	Pospíšil	M			61	metrolog	Horní Bradlo	99	80	A
-5301	571474	1	4	903	6	Martin	Záruba	M			47	řidič autobusu	Dolní Bradlo	99	80	A
-5301	571474	1	4	903	7	Milan	Sommr	M			60	důchodce	Vršov	99	80	A
-5301	571474	1	4	903	8	Monika	Holá	F			41	malířka vánočních ozdob	Travná	99	80	A
-5301	571474	1	4	903	9	Miroslava	Zárubová	F			43	operátorka CNC strojů	Dolní Bradlo	99	80	A
-5301	571474	1	5	901	1	Tereza	Horčíková	F	Bc.	DiS.	37	zaměstnanec České pošty	Dolní Bradlo	99	80	A
-5301	571474	1	5	901	2	Luděk	Cidlina	M	Ing.		72	důchodce	Dolní Bradlo	99	80	A
-5301	571474	1	5	901	3	Vendula	Danielová	F			35	vedoucí odpadového hospodářství	Vršov	99	80	A
-5301	571474	1	5	901	4	Karel	Linhart	M			70	důchodce	Horní Bradlo	99	80	A
-5301	571474	1	5	901	5	Jan	Matěna	M	Ing.		55	konstruktér	Dolní Bradlo	99	80	A
-5301	571474	1	5	901	6	Iveta	Pospíšilová	F			53	jednatelka rekreačního zařízení	Horní Bradlo	99	80	A
-5301	571474	1	5	901	7	Roman	Linhart	M			47	elektrikář	Dolní Bradlo	99	80	A
-5301	571474	1	5	901	8	Alena	Pospíšilová	F			54	pracovník v živočišné výrobě	Horní Bradlo	99	80	A
-5301	571474	1	5	901	9	Jana	Cidlinová	F	Mgr.		70	důchodce	Dolní Bradlo	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	571474	1	1	801	1	Lenka	Stýblová			37	pracovnice v soc. službách-aktivizační pracovnice	Vršov	99	80	A	F
+5301	571474	1	2	902	1	Radislav	Kumpan			37	starosta obce	Dolní Bradlo	99	80	A	M
+5301	571474	1	3	47	1	Josef	Blažek	Ing.		67	důchodce	Dolní Bradlo	47	47	A	M
+5301	571474	1	4	903	1	Jiří	Linhart			62	podnikatel	Vršov	99	80	A	M
+5301	571474	1	5	901	1	Tereza	Horčíková	Bc.	DiS.	37	zaměstnanec České pošty	Dolní Bradlo	99	80	A	F
+5301	571474	1	2	902	2	Michal	Nepovím			41	THP - pracovník	Lipka	99	80	A	M
+5301	571474	1	3	47	2	Josef	Horák			70	důchodce	Dolní Bradlo	47	47	A	M
+5301	571474	1	4	903	2	Dana	Pilařová			54	účetní	Lipka	99	80	A	F
+5301	571474	1	5	901	2	Luděk	Cidlina	Ing.		72	důchodce	Dolní Bradlo	99	80	A	M
+5301	571474	1	2	902	3	Alena	Kroutilová			67	důchodce	Vršov	99	80	A	F
+5301	571474	1	3	47	3	Oldřich	Kovačka			62	traktorista	Dolní Bradlo	99	47	A	M
+5301	571474	1	4	903	3	Petr	Kosina			42	zámečník	Velká Střítež	99	80	A	M
+5301	571474	1	5	901	3	Vendula	Danielová			35	vedoucí odpadového hospodářství	Vršov	99	80	A	F
+5301	571474	1	2	902	4	Lubomír	Nepovím			60	elektrikář	Velká Střítež	99	80	A	M
+5301	571474	1	3	47	4	Roman	Šretr			60	dělník	Travná	47	47	A	M
+5301	571474	1	4	903	4	Jana	Tichá			55	zaměstnankyně v kuchyni	Travná	99	80	A	F
+5301	571474	1	5	901	4	Karel	Linhart			70	důchodce	Horní Bradlo	99	80	A	M
+5301	571474	1	2	902	5	Luboš	Hrdý			47	OSVČ	Horní Bradlo	99	80	A	M
+5301	571474	1	3	47	5	Josef	Sotona			62	ošetřovatel skotu	Velká Střítež	99	47	A	M
+5301	571474	1	4	903	5	Jaroslav	Pospíšil			61	metrolog	Horní Bradlo	99	80	A	M
+5301	571474	1	5	901	5	Jan	Matěna	Ing.		55	konstruktér	Dolní Bradlo	99	80	A	M
+5301	571474	1	2	902	6	Jaroslav	Kroutil			54	řidič	Dolní Bradlo	99	80	A	M
+5301	571474	1	3	47	6	Jan	Dostál			71	důchodce	Horní Bradlo	47	47	A	M
+5301	571474	1	4	903	6	Martin	Záruba			47	řidič autobusu	Dolní Bradlo	99	80	A	M
+5301	571474	1	5	901	6	Iveta	Pospíšilová			53	jednatelka rekreačního zařízení	Horní Bradlo	99	80	A	F
+5301	571474	1	2	902	7	Broňa	Eisová			56	kuchařka	Horní Bradlo	99	80	A	F
+5301	571474	1	3	47	7	František	Paulus			71	důchodce	Vršov	47	47	A	M
+5301	571474	1	4	903	7	Milan	Sommr			60	důchodce	Vršov	99	80	A	M
+5301	571474	1	5	901	7	Roman	Linhart			47	elektrikář	Dolní Bradlo	99	80	A	M
+5301	571474	1	2	902	8	Daniel	Žák			46	OSVČ	Travná	99	80	A	M
+5301	571474	1	3	47	8	Milan	Pilař			62	kuchař	Dolní Bradlo	47	47	A	M
+5301	571474	1	4	903	8	Monika	Holá			41	malířka vánočních ozdob	Travná	99	80	A	F
+5301	571474	1	5	901	8	Alena	Pospíšilová			54	pracovník v živočišné výrobě	Horní Bradlo	99	80	A	F
+5301	571474	1	2	902	9	Antonín	Pospíšil			41	řidič	Lipka	99	80	A	M
+5301	571474	1	3	47	9	Jana	Horníková			57	ošetřovatelka skotu	Velká Střítež	47	47	A	F
+5301	571474	1	4	903	9	Miroslava	Zárubová			43	operátorka CNC strojů	Dolní Bradlo	99	80	A	F
+5301	571474	1	5	901	9	Jana	Cidlinová	Mgr.		70	důchodce	Dolní Bradlo	99	80	A	F

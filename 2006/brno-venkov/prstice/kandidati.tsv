@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	583707	1	1	901	1	Pavel	Dvořák	M			39	podnikatel	Prštice	99	80	0
-6203	583707	1	1	901	2	Jana	Veselá	F			58	důchodce	Prštice	99	80	0
-6203	583707	1	1	901	3	Jana	Jedličková	F			60	důchodce	Prštice	99	80	0
-6203	583707	1	1	901	4	Jaroslav	Lokos	M			44	umělec	Prštice	99	80	0
-6203	583707	1	1	901	5	Miroslav	Peška	M			59	těžební mistr	Prštice	47	80	0
-6203	583707	1	1	901	6	Jiřina	Minarčíková	F			56	podnikatel	Prštice	99	80	0
-6203	583707	1	1	901	7	Stanislava	Horáková	F			54	učitelka	Prštice	99	80	0
-6203	583707	1	1	901	8	Jana	Růžičková	F			35	dispečerka	Prštice	99	80	0
-6203	583707	1	1	901	9	Leonka	Ciznerová	F			60	důchodce	Prštice	99	80	0
-6203	583707	1	2	903	1	Jan	Slavík	M	Ing.		59	ekonom	Prštice	99	80	0
-6203	583707	1	2	903	2	Jan	Kuklínek	M			69	důchodce	Prštice	99	80	0
-6203	583707	1	2	903	3	Antonín	Urban	M			60	důchodce	Prštice	99	80	0
-6203	583707	1	2	903	4	Lenka	Doupovcová	F	Mgr.		43	učitelka	Prštice	99	80	0
-6203	583707	1	2	903	5	Jan	Slavík	M			48	elektromontér	Prštice	99	80	0
-6203	583707	1	2	903	6	Miroslav	Dvořáček	M			27	elektrotechnik	Prštice	99	80	0
-6203	583707	1	2	903	7	František	Hlávka	M			59	malíř	Prštice	99	80	0
-6203	583707	1	2	903	8	Ondřej	Talafant	M			19	stolař	Prštice	99	80	0
-6203	583707	1	2	903	9	Leoš	Pikula	M			28	stolař	Prštice	99	80	0
-6203	583707	1	3	53	1	Josef	Daněk	M	Ing.		46	živnostník	Prštice	53	53	0
-6203	583707	1	3	53	2	Pavel	Sedláček	M	Ing.		50	projektant	Prštice	99	53	0
-6203	583707	1	3	53	3	Jiří	Fiala	M	Ing.		54	technik	Prštice	99	53	0
-6203	583707	1	3	53	4	Josef	Daňhel	M			56	živnostník	Prštice	99	53	0
-6203	583707	1	3	53	5	Zdeněk	Čapek	M	Ing.		53	podnikatel	Prštice	99	53	0
-6203	583707	1	3	53	6	Jan	Paulíček	M			54	klempíř	Prštice	99	53	0
-6203	583707	1	3	53	7	Jaromír	Šalplachta	M			57	servisní technik	Prštice	99	53	0
-6203	583707	1	3	53	8	Miloš	Červený	M			48	mistr výroby	Prštice	99	53	0
-6203	583707	1	3	53	9	Pavel	Tichý	M			36	živnostník	Prštice	99	53	0
-6203	583707	1	4	902	1	Josef	Zapletal	M	Ing.		48	podnikatel	Prštice	99	80	0
-6203	583707	1	4	902	2	Karel	Dobrovodský	M	Ing.		58	podnikatel	Prštice	99	80	0
-6203	583707	1	4	902	3	Milan	Červený	M			64	důchodce	Prštice	99	80	0
-6203	583707	1	4	902	4	Marie	Minaříková	F			67	důchodce	Prštice	99	80	0
-6203	583707	1	4	902	5	Jaroslava	Putnarová	F			55	dělnice	Prštice	99	80	0
-6203	583707	1	4	902	6	Oldřich	Chladil	M	Ing.		68	důchodce	Prštice	99	80	0
-6203	583707	1	4	902	7	Věra	Šimberová	F			59	důchodce	Prštice	99	80	0
-6203	583707	1	4	902	8	Hana	Urbanová	F			64	důchodce	Prštice	99	80	0
-6203	583707	1	4	902	9	Lenka	Mazalová	F	Ing.arch.		36	projektant	Prštice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	583707	1	1	901	1	Pavel	Dvořák			39	podnikatel	Prštice	99	80	0	M
+6203	583707	1	2	903	1	Jan	Slavík	Ing.		59	ekonom	Prštice	99	80	0	M
+6203	583707	1	3	53	1	Josef	Daněk	Ing.		46	živnostník	Prštice	53	53	0	M
+6203	583707	1	4	902	1	Josef	Zapletal	Ing.		48	podnikatel	Prštice	99	80	0	M
+6203	583707	1	1	901	2	Jana	Veselá			58	důchodce	Prštice	99	80	0	F
+6203	583707	1	2	903	2	Jan	Kuklínek			69	důchodce	Prštice	99	80	0	M
+6203	583707	1	3	53	2	Pavel	Sedláček	Ing.		50	projektant	Prštice	99	53	0	M
+6203	583707	1	4	902	2	Karel	Dobrovodský	Ing.		58	podnikatel	Prštice	99	80	0	M
+6203	583707	1	1	901	3	Jana	Jedličková			60	důchodce	Prštice	99	80	0	F
+6203	583707	1	2	903	3	Antonín	Urban			60	důchodce	Prštice	99	80	0	M
+6203	583707	1	3	53	3	Jiří	Fiala	Ing.		54	technik	Prštice	99	53	0	M
+6203	583707	1	4	902	3	Milan	Červený			64	důchodce	Prštice	99	80	0	M
+6203	583707	1	1	901	4	Jaroslav	Lokos			44	umělec	Prštice	99	80	0	M
+6203	583707	1	2	903	4	Lenka	Doupovcová	Mgr.		43	učitelka	Prštice	99	80	0	F
+6203	583707	1	3	53	4	Josef	Daňhel			56	živnostník	Prštice	99	53	0	M
+6203	583707	1	4	902	4	Marie	Minaříková			67	důchodce	Prštice	99	80	0	F
+6203	583707	1	1	901	5	Miroslav	Peška			59	těžební mistr	Prštice	47	80	0	M
+6203	583707	1	2	903	5	Jan	Slavík			48	elektromontér	Prštice	99	80	0	M
+6203	583707	1	3	53	5	Zdeněk	Čapek	Ing.		53	podnikatel	Prštice	99	53	0	M
+6203	583707	1	4	902	5	Jaroslava	Putnarová			55	dělnice	Prštice	99	80	0	F
+6203	583707	1	1	901	6	Jiřina	Minarčíková			56	podnikatel	Prštice	99	80	0	F
+6203	583707	1	2	903	6	Miroslav	Dvořáček			27	elektrotechnik	Prštice	99	80	0	M
+6203	583707	1	3	53	6	Jan	Paulíček			54	klempíř	Prštice	99	53	0	M
+6203	583707	1	4	902	6	Oldřich	Chladil	Ing.		68	důchodce	Prštice	99	80	0	M
+6203	583707	1	1	901	7	Stanislava	Horáková			54	učitelka	Prštice	99	80	0	F
+6203	583707	1	2	903	7	František	Hlávka			59	malíř	Prštice	99	80	0	M
+6203	583707	1	3	53	7	Jaromír	Šalplachta			57	servisní technik	Prštice	99	53	0	M
+6203	583707	1	4	902	7	Věra	Šimberová			59	důchodce	Prštice	99	80	0	F
+6203	583707	1	1	901	8	Jana	Růžičková			35	dispečerka	Prštice	99	80	0	F
+6203	583707	1	2	903	8	Ondřej	Talafant			19	stolař	Prštice	99	80	0	M
+6203	583707	1	3	53	8	Miloš	Červený			48	mistr výroby	Prštice	99	53	0	M
+6203	583707	1	4	902	8	Hana	Urbanová			64	důchodce	Prštice	99	80	0	F
+6203	583707	1	1	901	9	Leonka	Ciznerová			60	důchodce	Prštice	99	80	0	F
+6203	583707	1	2	903	9	Leoš	Pikula			28	stolař	Prštice	99	80	0	M
+6203	583707	1	3	53	9	Pavel	Tichý			36	živnostník	Prštice	99	53	0	M
+6203	583707	1	4	902	9	Lenka	Mazalová	Ing.arch.		36	projektant	Prštice	99	80	0	F

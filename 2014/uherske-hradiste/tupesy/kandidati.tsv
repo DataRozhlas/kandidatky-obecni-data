@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7202	592722	1	1	901	1	Petr	Kocourek	M	Ing.		45	projektant	Tupesy	99	80	0
-7202	592722	1	1	901	2	Zdeněk	Žaluda	M	Ing.		50	programátor	Tupesy	99	80	0
-7202	592722	1	1	901	3	Jana	Miklíková	F			47	analytik fin. trhu	Tupesy	99	80	0
-7202	592722	1	1	901	4	Hana	Kočendová	F	Mgr.		44	učitelka	Tupesy	99	80	0
-7202	592722	1	1	901	5	Drahoslav	Kňourek	M			36	policista	Tupesy	99	80	0
-7202	592722	1	1	901	6	Zdeněk	Martinák	M			42	skladník	Tupesy	99	80	0
-7202	592722	1	1	901	7	Zdeněk	Hubík	M			47	manažer exportu	Tupesy	99	80	0
-7202	592722	1	1	901	8	Roman	Bureš	M	Ing.		33	obchodník	Tupesy	99	80	0
-7202	592722	1	1	901	9	Václav	Čevela	M			49	podnikatel	Tupesy	99	80	0
-7202	592722	1	2	1	1	Oldřich	Vávra	M	Mgr.		43	starosta, učitel	Tupesy	99	1	0
-7202	592722	1	2	1	2	Bohuslava	Šimonová	F	Ing.		44	stavební inženýr	Tupesy	99	1	0
-7202	592722	1	2	1	3	Petr	Kaňovský	M	Ing.	Ph.D.	35	vědecký pracovník	Tupesy	99	1	0
-7202	592722	1	2	1	4	Filip	Macek	M	Mgr.		42	zástupce ředitele, učitel	Tupesy	99	1	0
-7202	592722	1	2	1	5	Libor	Vrána	M	Ing.		56	stavební inženýr	Tupesy	1	1	0
-7202	592722	1	2	1	6	Jan	Šnajdar	M			35	vedoucí vývoje sw	Tupesy	99	1	0
-7202	592722	1	2	1	7	Dušan	Helia	M	MUDr.		46	lékař	Tupesy	99	1	0
-7202	592722	1	2	1	8	Šárka	Kulová	F	Ing.		40	technický pracovník	Tupesy	99	1	0
-7202	592722	1	2	1	9	Marie	Havlíčková	F			58	pracovník sociální péče	Tupesy	1	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7202	592722	1	1	901	1	Petr	Kocourek	Ing.		45	projektant	Tupesy	99	80	0	M
+7202	592722	1	2	1	1	Oldřich	Vávra	Mgr.		43	starosta, učitel	Tupesy	99	1	0	M
+7202	592722	1	1	901	2	Zdeněk	Žaluda	Ing.		50	programátor	Tupesy	99	80	0	M
+7202	592722	1	2	1	2	Bohuslava	Šimonová	Ing.		44	stavební inženýr	Tupesy	99	1	0	F
+7202	592722	1	1	901	3	Jana	Miklíková			47	analytik fin. trhu	Tupesy	99	80	0	F
+7202	592722	1	2	1	3	Petr	Kaňovský	Ing.	Ph.D.	35	vědecký pracovník	Tupesy	99	1	0	M
+7202	592722	1	1	901	4	Hana	Kočendová	Mgr.		44	učitelka	Tupesy	99	80	0	F
+7202	592722	1	2	1	4	Filip	Macek	Mgr.		42	zástupce ředitele, učitel	Tupesy	99	1	0	M
+7202	592722	1	1	901	5	Drahoslav	Kňourek			36	policista	Tupesy	99	80	0	M
+7202	592722	1	2	1	5	Libor	Vrána	Ing.		56	stavební inženýr	Tupesy	1	1	0	M
+7202	592722	1	1	901	6	Zdeněk	Martinák			42	skladník	Tupesy	99	80	0	M
+7202	592722	1	2	1	6	Jan	Šnajdar			35	vedoucí vývoje sw	Tupesy	99	1	0	M
+7202	592722	1	1	901	7	Zdeněk	Hubík			47	manažer exportu	Tupesy	99	80	0	M
+7202	592722	1	2	1	7	Dušan	Helia	MUDr.		46	lékař	Tupesy	99	1	0	M
+7202	592722	1	1	901	8	Roman	Bureš	Ing.		33	obchodník	Tupesy	99	80	0	M
+7202	592722	1	2	1	8	Šárka	Kulová	Ing.		40	technický pracovník	Tupesy	99	1	0	F
+7202	592722	1	1	901	9	Václav	Čevela			49	podnikatel	Tupesy	99	80	0	M
+7202	592722	1	2	1	9	Marie	Havlíčková			58	pracovník sociální péče	Tupesy	1	1	0	F

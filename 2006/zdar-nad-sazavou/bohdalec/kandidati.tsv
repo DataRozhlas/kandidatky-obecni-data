@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	595284	1	1	1	1	Stanislav	Kučera	M			41	technik	Bohdalec	1	1	0
-6105	595284	1	1	1	2	Petr	Nedoma	M			32	technik	Bohdalec	99	1	0
-6105	595284	1	1	1	3	Radek	Skryja	M			35	technolog	Bohdalec	99	1	0
-6105	595284	1	1	1	4	Luboš	Staněk	M			34	OSVČ	Bohdalec	1	1	0
-6105	595284	1	1	1	5	Petr	Staněk	M	Ing.		33	pracovník nákupu	Bohdalec	99	1	0
-6105	595284	1	1	1	6	Michal	Krejčí	M			20	zámečník	Bohdalec	99	1	0
-6105	595284	1	1	1	7	Michal	Chalupa	M			20	provozní elektrikář	Bohdalec	99	1	0
-6105	595284	1	1	1	8	Ondřej	Vencálek	M			21	technik	Bohdalec	99	1	0
-6105	595284	1	1	1	9	Pavel	Kučera	M			37	OSVČ	Bohdalec	1	1	0
-6105	595284	1	2	7	1	Milan	Ambrož	M			54	řidič	Bohdalec	7	7	0
-6105	595284	1	2	7	2	Josef	Blaha	M			40	dělník	Bohdalec	7	7	0
-6105	595284	1	2	7	3	František	Jaša	M			82	důchodce	Bohdalec	7	7	0
-6105	595284	1	3	801	1	Václav	Pinkava	M	Mgr.		47	manažer	Bohdalec	99	80	0
-6105	595284	1	4	53	1	Petr	Urbanec	M			51	technik	Bohdalec	53	53	0
-6105	595284	1	4	53	2	František	Kudrna	M			36	jednatel společnosti	Bohdalec	53	53	0
-6105	595284	1	4	53	3	Pavel	Sklenář	M			34	geodet	Bohdalec	99	53	0
-6105	595284	1	4	53	4	František	Teml	M			30	živnostník	Bohdalec	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	595284	1	1	1	1	Stanislav	Kučera			41	technik	Bohdalec	1	1	0	M
+6105	595284	1	2	7	1	Milan	Ambrož			54	řidič	Bohdalec	7	7	0	M
+6105	595284	1	3	801	1	Václav	Pinkava	Mgr.		47	manažer	Bohdalec	99	80	0	M
+6105	595284	1	4	53	1	Petr	Urbanec			51	technik	Bohdalec	53	53	0	M
+6105	595284	1	1	1	2	Petr	Nedoma			32	technik	Bohdalec	99	1	0	M
+6105	595284	1	2	7	2	Josef	Blaha			40	dělník	Bohdalec	7	7	0	M
+6105	595284	1	4	53	2	František	Kudrna			36	jednatel společnosti	Bohdalec	53	53	0	M
+6105	595284	1	1	1	3	Radek	Skryja			35	technolog	Bohdalec	99	1	0	M
+6105	595284	1	2	7	3	František	Jaša			82	důchodce	Bohdalec	7	7	0	M
+6105	595284	1	4	53	3	Pavel	Sklenář			34	geodet	Bohdalec	99	53	0	M
+6105	595284	1	1	1	4	Luboš	Staněk			34	OSVČ	Bohdalec	1	1	0	M
+6105	595284	1	4	53	4	František	Teml			30	živnostník	Bohdalec	99	53	0	M
+6105	595284	1	1	1	5	Petr	Staněk	Ing.		33	pracovník nákupu	Bohdalec	99	1	0	M
+6105	595284	1	1	1	6	Michal	Krejčí			20	zámečník	Bohdalec	99	1	0	M
+6105	595284	1	1	1	7	Michal	Chalupa			20	provozní elektrikář	Bohdalec	99	1	0	M
+6105	595284	1	1	1	8	Ondřej	Vencálek			21	technik	Bohdalec	99	1	0	M
+6105	595284	1	1	1	9	Pavel	Kučera			37	OSVČ	Bohdalec	1	1	0	M

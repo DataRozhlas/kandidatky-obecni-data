@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	553816	1	1	901	1	Bohumil	Cimburek	M			53	svářeč	Koloveč	99	80	0
-3201	553816	1	1	901	2	Vladimír	Liška	M			56	skladník	Koloveč	99	80	0
-3201	553816	1	1	901	3	Jaroslav	Tengler	M			25	montér	Koloveč	99	80	0
-3201	553816	1	1	901	4	Petr	Toupal	M			45	dělník	Koloveč	99	80	0
-3201	553816	1	1	901	5	Michal	Hajzner	M			37	řidič	Koloveč	99	80	0
-3201	553816	1	1	901	6	Bohumil	Lobner	M			37	zedník	Koloveč	99	80	0
-3201	553816	1	2	53	1	Jana	Peclová	F			53	místostarostka Městyse Koloveč	Koloveč	99	53	0
-3201	553816	1	2	53	2	Josef	Šnirc	M			27	soukromý podnikatel	Zíchov	99	53	0
-3201	553816	1	2	53	3	Miroslav	Brožovský	M			41	technik	Koloveč	99	53	0
-3201	553816	1	2	53	4	Jan	Chadim	M			68	důchodce - typograf	Koloveč	99	53	0
-3201	553816	1	2	53	5	Jaroslav	Klička	M			31	pekař	Koloveč	99	53	0
-3201	553816	1	2	53	6	Jana	Bartáková	F	Mgr.		65	učitelka	Koloveč	99	53	0
-3201	553816	1	2	53	7	Josef	Chval	M	MUDr.		46	lékař	Koloveč	99	53	0
-3201	553816	1	2	53	8	Ludvík	Dolejš	M			63	důchodce	Koloveč	99	53	0
-3201	553816	1	2	53	9	Viola	Chvalová	F	MUDr.		42	lékařka	Koloveč	99	53	0
-3201	553816	1	3	166	1	Václav	Pergl	M	Ing.		45	starosta a ředitel Odb.řízení Kraj.pozem.úřadů SPÚ	Koloveč	99	166	0
-3201	553816	1	3	166	2	Jitka	Gabrielová	F	Mgr.		41	učitelka Základní školy	Koloveč	99	166	0
-3201	553816	1	3	166	3	Petr	Hájek	M			49	technik a údržbář	Koloveč	99	166	0
-3201	553816	1	3	166	4	Václav	Kříž	M			49	inseminační technik	Koloveč	99	166	0
-3201	553816	1	3	166	5	Václav	Mráz	M			48	řidič	Koloveč	99	166	0
-3201	553816	1	3	166	6	Václava	Dobšíčková	F	Ing.		52	specialistka finančních informačních systémů	Koloveč	99	166	0
-3201	553816	1	3	166	7	Michaela	Soupírová	F	Bc.		36	učitelka Mateřské školy	Koloveč	99	166	0
-3201	553816	1	3	166	8	Petr	Krechler	M			41	soukromý podnikatel	Koloveč	99	166	0
-3201	553816	1	3	166	9	Miloslav	Diviš	M			39	technik	Koloveč	99	166	0
-3201	553816	1	4	7	1	Radek	Andrle	M			48	řidič záchranář	Koloveč	7	7	0
-3201	553816	1	4	7	2	Václav	Kocek	M	Ing.		27	hlavní agronom	Koloveč	99	7	0
-3201	553816	1	4	7	3	Karel	Petráš	M			70	podnikatel	Koloveč	99	7	0
-3201	553816	1	4	7	4	Ladislav	Moller	M			28	revírník	Koloveč	99	7	0
-3201	553816	1	4	7	5	Bedřich	Formánek	M			25	student	Koloveč	99	7	0
-3201	553816	1	4	7	6	Petr	Moravec	M			38	dělník	Koloveč	99	7	0
-3201	553816	1	4	7	7	Jan	Kadlec	M			49	opravář	Koloveč	99	7	0
-3201	553816	1	4	7	8	Hana	Přibáňová	F			40	nezaměstnaná	Koloveč	99	7	0
-3201	553816	1	4	7	9	Roman	Pekhart	M			42	dělník	Koloveč	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	553816	1	1	901	1	Bohumil	Cimburek			53	svářeč	Koloveč	99	80	0	M
+3201	553816	1	2	53	1	Jana	Peclová			53	místostarostka Městyse Koloveč	Koloveč	99	53	0	F
+3201	553816	1	3	166	1	Václav	Pergl	Ing.		45	starosta a ředitel Odb.řízení Kraj.pozem.úřadů SPÚ	Koloveč	99	166	0	M
+3201	553816	1	4	7	1	Radek	Andrle			48	řidič záchranář	Koloveč	7	7	0	M
+3201	553816	1	1	901	2	Vladimír	Liška			56	skladník	Koloveč	99	80	0	M
+3201	553816	1	2	53	2	Josef	Šnirc			27	soukromý podnikatel	Zíchov	99	53	0	M
+3201	553816	1	3	166	2	Jitka	Gabrielová	Mgr.		41	učitelka Základní školy	Koloveč	99	166	0	F
+3201	553816	1	4	7	2	Václav	Kocek	Ing.		27	hlavní agronom	Koloveč	99	7	0	M
+3201	553816	1	1	901	3	Jaroslav	Tengler			25	montér	Koloveč	99	80	0	M
+3201	553816	1	2	53	3	Miroslav	Brožovský			41	technik	Koloveč	99	53	0	M
+3201	553816	1	3	166	3	Petr	Hájek			49	technik a údržbář	Koloveč	99	166	0	M
+3201	553816	1	4	7	3	Karel	Petráš			70	podnikatel	Koloveč	99	7	0	M
+3201	553816	1	1	901	4	Petr	Toupal			45	dělník	Koloveč	99	80	0	M
+3201	553816	1	2	53	4	Jan	Chadim			68	důchodce - typograf	Koloveč	99	53	0	M
+3201	553816	1	3	166	4	Václav	Kříž			49	inseminační technik	Koloveč	99	166	0	M
+3201	553816	1	4	7	4	Ladislav	Moller			28	revírník	Koloveč	99	7	0	M
+3201	553816	1	1	901	5	Michal	Hajzner			37	řidič	Koloveč	99	80	0	M
+3201	553816	1	2	53	5	Jaroslav	Klička			31	pekař	Koloveč	99	53	0	M
+3201	553816	1	3	166	5	Václav	Mráz			48	řidič	Koloveč	99	166	0	M
+3201	553816	1	4	7	5	Bedřich	Formánek			25	student	Koloveč	99	7	0	M
+3201	553816	1	1	901	6	Bohumil	Lobner			37	zedník	Koloveč	99	80	0	M
+3201	553816	1	2	53	6	Jana	Bartáková	Mgr.		65	učitelka	Koloveč	99	53	0	F
+3201	553816	1	3	166	6	Václava	Dobšíčková	Ing.		52	specialistka finančních informačních systémů	Koloveč	99	166	0	F
+3201	553816	1	4	7	6	Petr	Moravec			38	dělník	Koloveč	99	7	0	M
+3201	553816	1	2	53	7	Josef	Chval	MUDr.		46	lékař	Koloveč	99	53	0	M
+3201	553816	1	3	166	7	Michaela	Soupírová	Bc.		36	učitelka Mateřské školy	Koloveč	99	166	0	F
+3201	553816	1	4	7	7	Jan	Kadlec			49	opravář	Koloveč	99	7	0	M
+3201	553816	1	2	53	8	Ludvík	Dolejš			63	důchodce	Koloveč	99	53	0	M
+3201	553816	1	3	166	8	Petr	Krechler			41	soukromý podnikatel	Koloveč	99	166	0	M
+3201	553816	1	4	7	8	Hana	Přibáňová			40	nezaměstnaná	Koloveč	99	7	0	F
+3201	553816	1	2	53	9	Viola	Chvalová	MUDr.		42	lékařka	Koloveč	99	53	0	F
+3201	553816	1	3	166	9	Miloslav	Diviš			39	technik	Koloveč	99	166	0	M
+3201	553816	1	4	7	9	Roman	Pekhart			42	dělník	Koloveč	99	7	0	M

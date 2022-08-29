@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5103	564397	1	1	903	1	Markéta	Žatečková	F			29	koordinátor autobusové dopravy	Jítrava	99	80	0
-5103	564397	1	1	903	2	Petra	Hodková	F	Bc.		30	učitelka ZŠ	Jítrava	99	80	0
-5103	564397	1	1	903	3	Pavel	Žatečka	M	Ing.		29	ekonom	Jítrava	99	80	0
-5103	564397	1	1	903	4	Antonín	Polák	M			55	OSVČ	Jítrava	99	80	0
-5103	564397	1	1	903	5	Roman	Prokop	M			36	technik	Jítrava	99	80	0
-5103	564397	1	1	903	6	Eva	Strapková	F			42	OSVČ	Jítrava	99	80	0
-5103	564397	1	1	903	7	Stanislav	Záhon	M			60	OSVČ	Jítrava	99	80	0
-5103	564397	1	1	903	8	Libor	Koucký	M	Ing.		44	OSVČ	Jítrava	99	80	0
-5103	564397	1	1	903	9	Hana	Mandíková	F	Mgr.		48	učitelka ZŠ	Jítrava	99	80	0
-5103	564397	1	2	901	1	Miloš	Sehnal	M			44	místostarosta	Rynoltice	99	80	0
-5103	564397	1	2	901	2	Vladimír	Guttmann	M			40	vedoucí cestmistrovství	Rynoltice	53	80	0
-5103	564397	1	2	901	3	Eva	Guttmannová	F			39	vedoucí pošty	Rynoltice	99	80	0
-5103	564397	1	2	901	4	Jana	Kavanová	F			38	obchodní zástupce	Rynoltice	99	80	0
-5103	564397	1	2	901	5	Ondřej	Špaček	M			36	živnostník	Rynoltice	99	80	0
-5103	564397	1	2	901	6	Olga	Rudolfová	F			49	živnostník	Rynoltice	99	80	0
-5103	564397	1	2	901	7	Jozef	Krajňak	M			46	živnostník	Rynoltice	99	80	0
-5103	564397	1	2	901	8	David	Sehnal	M			23	státní zaměstnanec	Rynoltice	99	80	0
-5103	564397	1	2	901	9	Jaroslav	Marek	M			61	dělník	Rynoltice	99	80	0
-5103	564397	1	3	904	1	Ivan	Stebelský	M			62	inseminační technik	Rynoltice	99	80	0
-5103	564397	1	3	904	2	Irena	Kubínková	F			50	zdravotní sestra	Rynoltice	99	80	0
-5103	564397	1	3	904	3	Alena	Šilhavá	F	Ing.		27	projektový manažer	Rynoltice	99	80	0
-5103	564397	1	3	904	4	Jaroslav	Švanda	M			55	autodopravce	Rynoltice	99	80	0
-5103	564397	1	3	904	5	Josef	Zeman	M			62	důchodce	Rynoltice	47	80	0
-5103	564397	1	3	904	6	Jan	Vacek	M	Bc.		22	student	Rynoltice	99	80	0
-5103	564397	1	3	904	7	Martina	Patková	F			43	učitelka MŠ	Rynoltice	99	80	0
-5103	564397	1	3	904	8	Lenka	Matuszná	F	Mgr.		52	projektový manažer	Rynoltice	99	80	0
-5103	564397	1	3	904	9	Martina	Dianová	F			39	prodavačka	Rynoltice	99	80	0
-5103	564397	1	4	902	1	Jana	Kotková	F			59	důchodce	Nová Starost	99	80	0
-5103	564397	1	4	902	2	František	Kačena	M			52	starosta obce	Rynoltice	99	80	0
-5103	564397	1	4	902	3	Milan	Dlouhý	M			60	dělník	Rynoltice	99	80	0
-5103	564397	1	4	902	4	Vratislav	Špaček	M			59	dělník	Rynoltice	99	80	0
-5103	564397	1	4	902	5	Josef	Konývka	M			56	městská policie	Nová Starost	99	80	0
-5103	564397	1	4	902	6	Ivan	Lejček	M			49	živnostník	Polesí	99	80	0
-5103	564397	1	4	902	7	Martin	Kolomý	M			29	dělník	Rynoltice	99	80	0
-5103	564397	1	4	902	8	Nikola	Kotková	F			23	živnostník	Rynoltice	99	80	0
-5103	564397	1	4	902	9	Jiří	Lejsek	M			66	dělník	Rynoltice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5103	564397	1	1	903	1	Markéta	Žatečková			29	koordinátor autobusové dopravy	Jítrava	99	80	0	F
+5103	564397	1	2	901	1	Miloš	Sehnal			44	místostarosta	Rynoltice	99	80	0	M
+5103	564397	1	3	904	1	Ivan	Stebelský			62	inseminační technik	Rynoltice	99	80	0	M
+5103	564397	1	4	902	1	Jana	Kotková			59	důchodce	Nová Starost	99	80	0	F
+5103	564397	1	1	903	2	Petra	Hodková	Bc.		30	učitelka ZŠ	Jítrava	99	80	0	F
+5103	564397	1	2	901	2	Vladimír	Guttmann			40	vedoucí cestmistrovství	Rynoltice	53	80	0	M
+5103	564397	1	3	904	2	Irena	Kubínková			50	zdravotní sestra	Rynoltice	99	80	0	F
+5103	564397	1	4	902	2	František	Kačena			52	starosta obce	Rynoltice	99	80	0	M
+5103	564397	1	1	903	3	Pavel	Žatečka	Ing.		29	ekonom	Jítrava	99	80	0	M
+5103	564397	1	2	901	3	Eva	Guttmannová			39	vedoucí pošty	Rynoltice	99	80	0	F
+5103	564397	1	3	904	3	Alena	Šilhavá	Ing.		27	projektový manažer	Rynoltice	99	80	0	F
+5103	564397	1	4	902	3	Milan	Dlouhý			60	dělník	Rynoltice	99	80	0	M
+5103	564397	1	1	903	4	Antonín	Polák			55	OSVČ	Jítrava	99	80	0	M
+5103	564397	1	2	901	4	Jana	Kavanová			38	obchodní zástupce	Rynoltice	99	80	0	F
+5103	564397	1	3	904	4	Jaroslav	Švanda			55	autodopravce	Rynoltice	99	80	0	M
+5103	564397	1	4	902	4	Vratislav	Špaček			59	dělník	Rynoltice	99	80	0	M
+5103	564397	1	1	903	5	Roman	Prokop			36	technik	Jítrava	99	80	0	M
+5103	564397	1	2	901	5	Ondřej	Špaček			36	živnostník	Rynoltice	99	80	0	M
+5103	564397	1	3	904	5	Josef	Zeman			62	důchodce	Rynoltice	47	80	0	M
+5103	564397	1	4	902	5	Josef	Konývka			56	městská policie	Nová Starost	99	80	0	M
+5103	564397	1	1	903	6	Eva	Strapková			42	OSVČ	Jítrava	99	80	0	F
+5103	564397	1	2	901	6	Olga	Rudolfová			49	živnostník	Rynoltice	99	80	0	F
+5103	564397	1	3	904	6	Jan	Vacek	Bc.		22	student	Rynoltice	99	80	0	M
+5103	564397	1	4	902	6	Ivan	Lejček			49	živnostník	Polesí	99	80	0	M
+5103	564397	1	1	903	7	Stanislav	Záhon			60	OSVČ	Jítrava	99	80	0	M
+5103	564397	1	2	901	7	Jozef	Krajňak			46	živnostník	Rynoltice	99	80	0	M
+5103	564397	1	3	904	7	Martina	Patková			43	učitelka MŠ	Rynoltice	99	80	0	F
+5103	564397	1	4	902	7	Martin	Kolomý			29	dělník	Rynoltice	99	80	0	M
+5103	564397	1	1	903	8	Libor	Koucký	Ing.		44	OSVČ	Jítrava	99	80	0	M
+5103	564397	1	2	901	8	David	Sehnal			23	státní zaměstnanec	Rynoltice	99	80	0	M
+5103	564397	1	3	904	8	Lenka	Matuszná	Mgr.		52	projektový manažer	Rynoltice	99	80	0	F
+5103	564397	1	4	902	8	Nikola	Kotková			23	živnostník	Rynoltice	99	80	0	F
+5103	564397	1	1	903	9	Hana	Mandíková	Mgr.		48	učitelka ZŠ	Jítrava	99	80	0	F
+5103	564397	1	2	901	9	Jaroslav	Marek			61	dělník	Rynoltice	99	80	0	M
+5103	564397	1	3	904	9	Martina	Dianová			39	prodavačka	Rynoltice	99	80	0	F
+5103	564397	1	4	902	9	Jiří	Lejsek			66	dělník	Rynoltice	99	80	0	M

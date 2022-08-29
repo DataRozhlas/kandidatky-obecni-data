@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3106	551261	1	1	901	1	Irena	Uhlířová	F			39	v domácnosti	Kraselov	99	80	0
-3106	551261	1	1	901	2	Stanislav	Mareš	M			60	dělník	Kraselov	99	80	0
-3106	551261	1	1	901	3	Jaroslav	Bauer	M			41	dělník	Kraselov	99	80	0
-3106	551261	1	1	901	4	Jaromír	Janout	M	Ing.		53	konstruktér	Mladotice	99	80	0
-3106	551261	1	1	901	5	Pavel	Mašek	M			37	dělník	Kraselov	99	80	0
-3106	551261	1	1	901	6	Pavel	Malý	M			35	vedoucí skladu	Kraselov	99	80	0
-3106	551261	1	1	901	7	Josef	Hejman	M			52	dělník	Kraselov	99	80	0
-3106	551261	1	1	901	8	Marie	Marešová	F			54	důchodkyně	Lhota u Svaté Anny	99	80	0
-3106	551261	1	1	901	9	Terezie	Košnarová	F			34	účetní	Lhota u Svaté Anny	99	80	0
-3106	551261	1	2	902	1	Antonín	Kropáček	M			43	státní zaměstnanec	Kraselov	99	80	0
-3106	551261	1	2	902	2	Jaroslav	Cimburek	M			63	technik	Kraselov	99	80	0
-3106	551261	1	2	902	3	Karel	Sellner	M			62	dělník	Kraselov	99	80	0
-3106	551261	1	2	902	4	Blanka	Boudová	F			41	dělnice	Kraselov	99	80	0
-3106	551261	1	2	902	5	Magdalena	Sichingerová	F			43	dělnice	Kraselov	99	80	0
-3106	551261	1	2	902	6	Robert	Vachout	M			37	dělník	Kraselov	99	80	0
-3106	551261	1	2	902	7	Petr	Švácha	M			44	dělník	Kraselov	99	80	0
-3106	551261	1	2	902	8	Jana	Smarkoňová	F			30	dělnice	Kraselov	99	80	0
-3106	551261	1	2	902	9	Emil	Bouda	M			45	dělník	Kraselov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3106	551261	1	1	901	1	Irena	Uhlířová			39	v domácnosti	Kraselov	99	80	0	F
+3106	551261	1	2	902	1	Antonín	Kropáček			43	státní zaměstnanec	Kraselov	99	80	0	M
+3106	551261	1	1	901	2	Stanislav	Mareš			60	dělník	Kraselov	99	80	0	M
+3106	551261	1	2	902	2	Jaroslav	Cimburek			63	technik	Kraselov	99	80	0	M
+3106	551261	1	1	901	3	Jaroslav	Bauer			41	dělník	Kraselov	99	80	0	M
+3106	551261	1	2	902	3	Karel	Sellner			62	dělník	Kraselov	99	80	0	M
+3106	551261	1	1	901	4	Jaromír	Janout	Ing.		53	konstruktér	Mladotice	99	80	0	M
+3106	551261	1	2	902	4	Blanka	Boudová			41	dělnice	Kraselov	99	80	0	F
+3106	551261	1	1	901	5	Pavel	Mašek			37	dělník	Kraselov	99	80	0	M
+3106	551261	1	2	902	5	Magdalena	Sichingerová			43	dělnice	Kraselov	99	80	0	F
+3106	551261	1	1	901	6	Pavel	Malý			35	vedoucí skladu	Kraselov	99	80	0	M
+3106	551261	1	2	902	6	Robert	Vachout			37	dělník	Kraselov	99	80	0	M
+3106	551261	1	1	901	7	Josef	Hejman			52	dělník	Kraselov	99	80	0	M
+3106	551261	1	2	902	7	Petr	Švácha			44	dělník	Kraselov	99	80	0	M
+3106	551261	1	1	901	8	Marie	Marešová			54	důchodkyně	Lhota u Svaté Anny	99	80	0	F
+3106	551261	1	2	902	8	Jana	Smarkoňová			30	dělnice	Kraselov	99	80	0	F
+3106	551261	1	1	901	9	Terezie	Košnarová			34	účetní	Lhota u Svaté Anny	99	80	0	F
+3106	551261	1	2	902	9	Emil	Bouda			45	dělník	Kraselov	99	80	0	M

@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7104	516899	1	1	470	1	Drahomír	Novák	M	Ing.		51	starosta	Polkovice	99	166	0
-7104	516899	1	1	470	2	Alena	Vaculíková	F		DiS.	26	OSVČ	Polkovice	99	166	0
-7104	516899	1	1	470	3	Hana	Hlavinková	F			53	účetní	Polkovice	99	166	0
-7104	516899	1	1	470	4	Lenka	Šimková	F			46	prodavačka	Polkovice	99	80	0
-7104	516899	1	1	470	5	Jaroslav	Tinka	M			32	OSVČ	Polkovice	99	80	0
-7104	516899	1	1	470	6	Petr	Indrák	M	Ing.		40	samostatně hospodařící rolník	Polkovice	99	80	0
-7104	516899	1	1	470	7	Milan	Blaštík	M	MUDr.		55	lékař	Polkovice	99	80	0
-7104	516899	1	2	1	1	Andrea	Hrdličková	F	Ing.		32	ekonomka	Polkovice	99	1	0
-7104	516899	1	2	1	2	Josef	Vaculčík	M			53	autodopravce	Polkovice	99	1	0
-7104	516899	1	2	1	3	Filip	Hlavinka	M	Ing.		32	podnikatel	Polkovice	99	1	0
-7104	516899	1	2	1	4	Eva	Gefingová	F	Ing.		32	učitelka	Polkovice	99	1	0
-7104	516899	1	2	1	5	Romana	Indráková	F	Ing.		37	technik	Polkovice	99	1	0
-7104	516899	1	2	1	6	Kamil	Kuba	M			33	montér	Polkovice	99	1	0
-7104	516899	1	2	1	7	Lenka	Olivová	F	Bc.		34	ředitelka DD	Polkovice	99	1	0
-7104	516899	1	2	1	8	Helena	Menšíková	F			56	učitelka	Polkovice	99	1	0
-7104	516899	1	2	1	9	Věra	Lasovská	F			52	kuchařka	Polkovice	99	1	0
-7104	516899	1	3	47	1	Petr	Topič	M			43	topenář	Polkovice	47	47	0
-7104	516899	1	3	47	2	Petr	Lasovský	M			47	řidič	Polkovice	99	47	0
-7104	516899	1	3	47	3	Martin	Gregovský	M			45	podnikatel	Polkovice	99	47	0
-7104	516899	1	3	47	4	Miroslav	Coufal	M			36	podnikatel	Polkovice	99	47	0
-7104	516899	1	3	47	5	Zdeňka	Křepelková	F			59	dělnice	Polkovice	99	47	0
-7104	516899	1	3	47	6	Mária	Kultaniková	F			37	úřednice	Polkovice	99	47	0
-7104	516899	1	3	47	7	Břetislav	Nakládal	M			75	důchodce	Polkovice	47	47	0
-7104	516899	1	3	47	8	Stanislav	Šmehlík	M			74	důchodce	Polkovice	47	47	0
-7104	516899	1	4	901	1	Josef	Gybas	M	Mgr.		42	zaměstnanec	Polkovice	99	80	0
-7104	516899	1	4	901	2	Miloslav	Halenka	M			40	soukromě hospodařící rolník	Polkovice	99	80	0
-7104	516899	1	4	901	3	Aleš	Krchňák	M			34	zaměstnanec	Polkovice	99	80	0
-7104	516899	1	4	901	4	Eva	Gregovská	F			43	zaměstnanec	Polkovice	99	80	0
-7104	516899	1	4	901	5	Martin	Mrázek	M			40	OSVČ	Polkovice	99	80	0
-7104	516899	1	4	901	6	Miloslava	Nakládalová	F			51	bankovní úřednice	Polkovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7104	516899	1	1	470	1	Drahomír	Novák	Ing.		51	starosta	Polkovice	99	166	0	M
+7104	516899	1	2	1	1	Andrea	Hrdličková	Ing.		32	ekonomka	Polkovice	99	1	0	F
+7104	516899	1	3	47	1	Petr	Topič			43	topenář	Polkovice	47	47	0	M
+7104	516899	1	4	901	1	Josef	Gybas	Mgr.		42	zaměstnanec	Polkovice	99	80	0	M
+7104	516899	1	1	470	2	Alena	Vaculíková		DiS.	26	OSVČ	Polkovice	99	166	0	F
+7104	516899	1	2	1	2	Josef	Vaculčík			53	autodopravce	Polkovice	99	1	0	M
+7104	516899	1	3	47	2	Petr	Lasovský			47	řidič	Polkovice	99	47	0	M
+7104	516899	1	4	901	2	Miloslav	Halenka			40	soukromě hospodařící rolník	Polkovice	99	80	0	M
+7104	516899	1	1	470	3	Hana	Hlavinková			53	účetní	Polkovice	99	166	0	F
+7104	516899	1	2	1	3	Filip	Hlavinka	Ing.		32	podnikatel	Polkovice	99	1	0	M
+7104	516899	1	3	47	3	Martin	Gregovský			45	podnikatel	Polkovice	99	47	0	M
+7104	516899	1	4	901	3	Aleš	Krchňák			34	zaměstnanec	Polkovice	99	80	0	M
+7104	516899	1	1	470	4	Lenka	Šimková			46	prodavačka	Polkovice	99	80	0	F
+7104	516899	1	2	1	4	Eva	Gefingová	Ing.		32	učitelka	Polkovice	99	1	0	F
+7104	516899	1	3	47	4	Miroslav	Coufal			36	podnikatel	Polkovice	99	47	0	M
+7104	516899	1	4	901	4	Eva	Gregovská			43	zaměstnanec	Polkovice	99	80	0	F
+7104	516899	1	1	470	5	Jaroslav	Tinka			32	OSVČ	Polkovice	99	80	0	M
+7104	516899	1	2	1	5	Romana	Indráková	Ing.		37	technik	Polkovice	99	1	0	F
+7104	516899	1	3	47	5	Zdeňka	Křepelková			59	dělnice	Polkovice	99	47	0	F
+7104	516899	1	4	901	5	Martin	Mrázek			40	OSVČ	Polkovice	99	80	0	M
+7104	516899	1	1	470	6	Petr	Indrák	Ing.		40	samostatně hospodařící rolník	Polkovice	99	80	0	M
+7104	516899	1	2	1	6	Kamil	Kuba			33	montér	Polkovice	99	1	0	M
+7104	516899	1	3	47	6	Mária	Kultaniková			37	úřednice	Polkovice	99	47	0	F
+7104	516899	1	4	901	6	Miloslava	Nakládalová			51	bankovní úřednice	Polkovice	99	80	0	F
+7104	516899	1	1	470	7	Milan	Blaštík	MUDr.		55	lékař	Polkovice	99	80	0	M
+7104	516899	1	2	1	7	Lenka	Olivová	Bc.		34	ředitelka DD	Polkovice	99	1	0	F
+7104	516899	1	3	47	7	Břetislav	Nakládal			75	důchodce	Polkovice	47	47	0	M
+7104	516899	1	2	1	8	Helena	Menšíková			56	učitelka	Polkovice	99	1	0	F
+7104	516899	1	3	47	8	Stanislav	Šmehlík			74	důchodce	Polkovice	47	47	0	M
+7104	516899	1	2	1	9	Věra	Lasovská			52	kuchařka	Polkovice	99	1	0	F

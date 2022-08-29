@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4204	543128	1	1	47	1	Petr	Koubík	M			30	technik	Staňkovice	99	47	1
-4204	543128	1	1	47	2	Oldřich	Mareček	M	Ing.		61	důchodce	Staňkovice	99	47	0
-4204	543128	1	1	47	3	Gabriela	Skipalová	F			29	vychovatelka ŠD-učitelka	Staňkovice	99	47	1
-4204	543128	1	1	47	4	Miloslav	Křimský	M			51	vedoucí skladu	Staňkovice	99	47	0
-4204	543128	1	1	47	5	Ludmila	Koubíková	F			58	důchodkyně	Staňkovice	99	47	0
-4204	543128	1	1	47	6	Lubica	Kováčová	F			29	dělnice	Staňkovice	99	47	1
-4204	543128	1	1	47	7	Rostislav	Svitek	M			74	důchodce	Tvršice	47	47	0
-4204	543128	1	1	47	8	Ludvík	Kozelka	M			52	invalidní důchodce	Staňkovice	99	47	0
-4204	543128	1	1	47	9	Antonín	Novotný	M			59	invalidní důchodce	Staňkovice	99	47	1
-4204	543128	1	2	901	1	Jan	Bartoň	M			57	starosta	Staňkovice	129	80	0
-4204	543128	1	2	901	2	Helena	Bártová	F			48	místostarostka	Staňkovice	99	80	0
-4204	543128	1	2	901	3	Vladimír	Libich	M	Ing.		50	soukromý zemědělec	Selibice	7	80	0
-4204	543128	1	2	901	4	Petr	Adler	M			33	dělník	Staňkovice	99	80	0
-4204	543128	1	2	901	5	Dagmar	Majerová	F			52	prodavačka	Staňkovice	99	80	0
-4204	543128	1	2	901	6	Emil	Hažlinský	M			45	servisní technik	Staňkovice	99	80	0
-4204	543128	1	2	901	7	Petr	Pařízek	M			35	technik počítačového systému	Staňkovice	99	80	0
-4204	543128	1	2	901	8	Jiří	Hanzl	M			40	truhlář	Staňkovice	99	80	0
-4204	543128	1	2	901	9	Inocent	Kadnár	M	Ing.		64	důchodce	Staňkovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4204	543128	1	1	47	1	Petr	Koubík			30	technik	Staňkovice	99	47	1	M
+4204	543128	1	2	901	1	Jan	Bartoň			57	starosta	Staňkovice	129	80	0	M
+4204	543128	1	1	47	2	Oldřich	Mareček	Ing.		61	důchodce	Staňkovice	99	47	0	M
+4204	543128	1	2	901	2	Helena	Bártová			48	místostarostka	Staňkovice	99	80	0	F
+4204	543128	1	1	47	3	Gabriela	Skipalová			29	vychovatelka ŠD-učitelka	Staňkovice	99	47	1	F
+4204	543128	1	2	901	3	Vladimír	Libich	Ing.		50	soukromý zemědělec	Selibice	7	80	0	M
+4204	543128	1	1	47	4	Miloslav	Křimský			51	vedoucí skladu	Staňkovice	99	47	0	M
+4204	543128	1	2	901	4	Petr	Adler			33	dělník	Staňkovice	99	80	0	M
+4204	543128	1	1	47	5	Ludmila	Koubíková			58	důchodkyně	Staňkovice	99	47	0	F
+4204	543128	1	2	901	5	Dagmar	Majerová			52	prodavačka	Staňkovice	99	80	0	F
+4204	543128	1	1	47	6	Lubica	Kováčová			29	dělnice	Staňkovice	99	47	1	F
+4204	543128	1	2	901	6	Emil	Hažlinský			45	servisní technik	Staňkovice	99	80	0	M
+4204	543128	1	1	47	7	Rostislav	Svitek			74	důchodce	Tvršice	47	47	0	M
+4204	543128	1	2	901	7	Petr	Pařízek			35	technik počítačového systému	Staňkovice	99	80	0	M
+4204	543128	1	1	47	8	Ludvík	Kozelka			52	invalidní důchodce	Staňkovice	99	47	0	M
+4204	543128	1	2	901	8	Jiří	Hanzl			40	truhlář	Staňkovice	99	80	0	M
+4204	543128	1	1	47	9	Antonín	Novotný			59	invalidní důchodce	Staňkovice	99	47	1	M
+4204	543128	1	2	901	9	Inocent	Kadnár	Ing.		64	důchodce	Staňkovice	99	80	0	M

@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3204	557803	1	1	721	1	Jaroslav	Benda	M	Ing.		66	důchodce	Chocenice	102	721	0
-3204	557803	1	1	721	2	Rudolf	Švácha	M			56	zprostředkov. prodeje a nákupu	Chocenice	99	721	0
-3204	557803	1	1	721	3	Vladimír	Straka	M	Ing.		42	učitel	Chocenice	99	721	0
-3204	557803	1	1	721	4	Markéta	Bílá	F			32	vychovatelka v ZŠ	Chocenice	99	721	0
-3204	557803	1	1	721	5	Andrej	Diviš	M			25	živnostník	Zhůř	99	721	0
-3204	557803	1	1	721	6	Dušan	Hubert	M			37	strojník	Chocenice	99	721	0
-3204	557803	1	2	387	1	Bohumil	Heřman	M	Ing.		61	důchodce	Chocenice	99	80	0
-3204	557803	1	2	387	2	Hana	Krejčová	F			66	důchodce	Zhůř	99	80	0
-3204	557803	1	2	387	3	Josef	Strejc	M			44	elektrikář	Chocenice	99	80	0
-3204	557803	1	2	387	4	Josef	Korbel	M			62	mistr stavební čety	Chocenice	99	80	0
-3204	557803	1	2	387	5	Zdeněk	Šrámek	M			71	důchodce	Chocenice	47	47	0
-3204	557803	1	2	387	6	František	Svoboda	M			72	důchodce	Chocenická Lhota	99	80	0
-3204	557803	1	2	387	7	Václav	Vaniš	M			63	důchodce	Chocenice	47	47	0
-3204	557803	1	2	387	8	Václav	Strnad	M			45	pojišťovací makléř	Chocenická Lhota	99	80	0
-3204	557803	1	2	387	9	Václav	Heřman	M			59	řidič	Chocenice	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3204	557803	1	1	721	1	Jaroslav	Benda	Ing.		66	důchodce	Chocenice	102	721	0	M
+3204	557803	1	2	387	1	Bohumil	Heřman	Ing.		61	důchodce	Chocenice	99	80	0	M
+3204	557803	1	1	721	2	Rudolf	Švácha			56	zprostředkov. prodeje a nákupu	Chocenice	99	721	0	M
+3204	557803	1	2	387	2	Hana	Krejčová			66	důchodce	Zhůř	99	80	0	F
+3204	557803	1	1	721	3	Vladimír	Straka	Ing.		42	učitel	Chocenice	99	721	0	M
+3204	557803	1	2	387	3	Josef	Strejc			44	elektrikář	Chocenice	99	80	0	M
+3204	557803	1	1	721	4	Markéta	Bílá			32	vychovatelka v ZŠ	Chocenice	99	721	0	F
+3204	557803	1	2	387	4	Josef	Korbel			62	mistr stavební čety	Chocenice	99	80	0	M
+3204	557803	1	1	721	5	Andrej	Diviš			25	živnostník	Zhůř	99	721	0	M
+3204	557803	1	2	387	5	Zdeněk	Šrámek			71	důchodce	Chocenice	47	47	0	M
+3204	557803	1	1	721	6	Dušan	Hubert			37	strojník	Chocenice	99	721	0	M
+3204	557803	1	2	387	6	František	Svoboda			72	důchodce	Chocenická Lhota	99	80	0	M
+3204	557803	1	2	387	7	Václav	Vaniš			63	důchodce	Chocenice	47	47	0	M
+3204	557803	1	2	387	8	Václav	Strnad			45	pojišťovací makléř	Chocenická Lhota	99	80	0	M
+3204	557803	1	2	387	9	Václav	Heřman			59	řidič	Chocenice	47	47	0	M

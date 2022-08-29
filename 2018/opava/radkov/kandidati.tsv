@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	568317	1	1	902	1	Petr	Dubový	M			59	strojní zámečník	Radkov	99	80	A
-8105	568317	1	1	902	2	Stanislav	Murcek	M			44	vedoucí strojník	Radkov	99	80	A
-8105	568317	1	1	902	3	Tomáš	Běťák	M			35	skladník	Radkov	99	80	A
-8105	568317	1	1	902	4	Kamila	Čajková	F	Mgr.		53	specialista zákaznického servisu	Radkov	99	80	A
-8105	568317	1	1	902	5	Zbyněk	Hrubý	M			40	OSVČ	Radkov	99	80	A
-8105	568317	1	1	902	6	Jaromír	Michalko	M			60	dělník	Radkov	99	80	A
-8105	568317	1	2	901	1	Jana	Cihlářová	F			49	dělnice	Radkov	99	80	A
-8105	568317	1	2	901	2	Blanka	Běťáková	F	Bc.		36	dělnice	Radkov	99	80	A
-8105	568317	1	2	901	3	Marie	Kuníková	F			43	skladnice	Radkov	99	80	A
-8105	568317	1	2	901	4	Karin	Bolfová	F			44	OSVČ	Radkov	99	80	A
-8105	568317	1	2	901	5	Pavla	Vymětalová	F			47	asistent pedagoga	Radkov	99	80	A
-8105	568317	1	3	904	1	Gabriela	Zajíčková	F			45	výrobní dělnice	Radkov	99	80	A
-8105	568317	1	3	904	2	Šárka	Volná	F	Ing.		29	zootechnik	Radkov	99	80	A
-8105	568317	1	3	904	3	Radek	Zajíček	M			47	řidič	Radkov	99	80	A
-8105	568317	1	3	904	4	Lucie	Masnicová	F			43	výrobní dělnice	Radkov	99	80	A
-8105	568317	1	4	903	1	Michal	Bek	M	Ing.		45	vedoucí ekonomického úseku	Radkov	99	80	A
-8105	568317	1	4	903	2	Svatava	Ferková	F			46	dělnice	Radkov	99	80	A
-8105	568317	1	4	903	3	Jiří	Plevák	M			59	strojní zámečník	Radkov	99	80	A
-8105	568317	1	4	903	4	Petra	Hefková	F			40	dělnice	Radkov	99	80	A
-8105	568317	1	4	903	5	Markéta	Válková	F			36	zdravotní sestra	Radkov	99	80	A
-8105	568317	1	4	903	6	Xenie	Lhotská	F			41	dělnice	Radkov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	568317	1	1	902	1	Petr	Dubový			59	strojní zámečník	Radkov	99	80	A	M
+8105	568317	1	2	901	1	Jana	Cihlářová			49	dělnice	Radkov	99	80	A	F
+8105	568317	1	3	904	1	Gabriela	Zajíčková			45	výrobní dělnice	Radkov	99	80	A	F
+8105	568317	1	4	903	1	Michal	Bek	Ing.		45	vedoucí ekonomického úseku	Radkov	99	80	A	M
+8105	568317	1	1	902	2	Stanislav	Murcek			44	vedoucí strojník	Radkov	99	80	A	M
+8105	568317	1	2	901	2	Blanka	Běťáková	Bc.		36	dělnice	Radkov	99	80	A	F
+8105	568317	1	3	904	2	Šárka	Volná	Ing.		29	zootechnik	Radkov	99	80	A	F
+8105	568317	1	4	903	2	Svatava	Ferková			46	dělnice	Radkov	99	80	A	F
+8105	568317	1	1	902	3	Tomáš	Běťák			35	skladník	Radkov	99	80	A	M
+8105	568317	1	2	901	3	Marie	Kuníková			43	skladnice	Radkov	99	80	A	F
+8105	568317	1	3	904	3	Radek	Zajíček			47	řidič	Radkov	99	80	A	M
+8105	568317	1	4	903	3	Jiří	Plevák			59	strojní zámečník	Radkov	99	80	A	M
+8105	568317	1	1	902	4	Kamila	Čajková	Mgr.		53	specialista zákaznického servisu	Radkov	99	80	A	F
+8105	568317	1	2	901	4	Karin	Bolfová			44	OSVČ	Radkov	99	80	A	F
+8105	568317	1	3	904	4	Lucie	Masnicová			43	výrobní dělnice	Radkov	99	80	A	F
+8105	568317	1	4	903	4	Petra	Hefková			40	dělnice	Radkov	99	80	A	F
+8105	568317	1	1	902	5	Zbyněk	Hrubý			40	OSVČ	Radkov	99	80	A	M
+8105	568317	1	2	901	5	Pavla	Vymětalová			47	asistent pedagoga	Radkov	99	80	A	F
+8105	568317	1	4	903	5	Markéta	Válková			36	zdravotní sestra	Radkov	99	80	A	F
+8105	568317	1	1	902	6	Jaromír	Michalko			60	dělník	Radkov	99	80	A	M
+8105	568317	1	4	903	6	Xenie	Lhotská			41	dělnice	Radkov	99	80	A	F

@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3106	551201	1	1	47	1	Jaroslava	Ouředníková	F			54	invalidní důchodkyně	Katovice	99	47	0
-3106	551201	1	1	47	2	Jiří	Zemen	M			39	dělník	Katovice	99	47	0
-3106	551201	1	1	47	3	Jaroslav	Velíšek	M			60	řidič	Katovice	99	47	0
-3106	551201	1	1	47	4	Josef	Švelch	M			41	řidič	Katovice	47	47	0
-3106	551201	1	1	47	5	Karel	Braťka	M			63	důchodce	Katovice	47	47	0
-3106	551201	1	1	47	6	Václava	Roučková	F			46	administr. pracov.	Katovice	99	47	0
-3106	551201	1	1	47	7	Jana	Sodomková	F			65	důchodkyně	Katovice	47	47	0
-3106	551201	1	2	53	1	Karel	Karas	M	RNDr.	CSc.	51	manažer	Katovice	99	53	0
-3106	551201	1	2	53	2	Miroslav	Kolářík	M			45	místostarosta	Katovice	99	53	0
-3106	551201	1	2	53	3	Tomáš	Hajdušek	M	Ing.		41	daňový poradce	Katovice	53	53	0
-3106	551201	1	2	53	4	Pavel	Bláha	M	Ing.		40	projektant	Katovice	99	53	0
-3106	551201	1	2	53	5	Alois	Kadlec	M	Ing.		30	lesní inženýr	Katovice	99	53	0
-3106	551201	1	2	53	6	Jaroslav	Tomšovic	M	Ing.		42	pojišťovací agent	Katovice	99	53	0
-3106	551201	1	2	53	7	Michal	Veselka	M	Ing.		28	servisní technik	Katovice	99	53	0
-3106	551201	1	2	53	8	Miloslav	Řehoř	M			51	technik	Katovice	99	53	0
-3106	551201	1	2	53	9	Karel	Němeček	M	Ing.		44	projektant	Katovice	99	53	0
-3106	551201	1	2	53	10	Jiří	Zahradník	M			51	bankovní úředník	Katovice	99	53	0
-3106	551201	1	2	53	11	Jiřina	Opavová	F			44	vedoucí pošty	Katovice	99	53	0
-3106	551201	1	2	53	12	František	Vondrášek	M			36	podnikatel	Katovice	99	53	0
-3106	551201	1	2	53	13	Václav	Studnička	M			27	technik	Katovice	99	53	0
-3106	551201	1	3	721	1	Lukáš	Švehla	M			19	student	Katovice	721	721	0
-3106	551201	1	4	1	1	Jindřich	Zdráhal	M	Bc.		34	státní úředník	Katovice	1	1	0
-3106	551201	1	4	1	2	Vladimír	Nejedlý	M	Ing.		47	projektant	Katovice	99	1	0
-3106	551201	1	4	1	3	Jan	Holeček	M	Ing.		45	podnikatel	Katovice	99	1	0
-3106	551201	1	4	1	4	Alena	Navrátilová	F			40	prodavačka	Katovice	1	1	0
-3106	551201	1	4	1	5	Vladimíra	Malá	F			48	pečovatelka	Katovice	1	1	0
-3106	551201	1	4	1	6	Iva	Kudějová	F			43	učitelka SOU	Katovice	99	1	0
-3106	551201	1	4	1	7	Karel	Kadlec	M			68	důchodce	Katovice	99	1	0
-3106	551201	1	4	1	8	Pavla	Vojtová	F			43	zdravotní sestra	Katovice	99	1	0
-3106	551201	1	4	1	9	Jiřina	Karasová	F	Bc.		61	důchodce	Katovice	1	1	0
-3106	551201	1	4	1	10	František	Barvíř	M			64	důchodce	Katovice	99	1	0
-3106	551201	1	4	1	11	Pavel	Lemberger	M			44	provozní zámečník	Katovice	99	1	0
-3106	551201	1	4	1	12	Jan	Boháč	M			77	důchodce	Katovice	1	1	0
-3106	551201	1	4	1	13	Michal	Novotný	M	Mgr.		39	projektový manažer	Katovice	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3106	551201	1	1	47	1	Jaroslava	Ouředníková			54	invalidní důchodkyně	Katovice	99	47	0	F
+3106	551201	1	2	53	1	Karel	Karas	RNDr.	CSc.	51	manažer	Katovice	99	53	0	M
+3106	551201	1	3	721	1	Lukáš	Švehla			19	student	Katovice	721	721	0	M
+3106	551201	1	4	1	1	Jindřich	Zdráhal	Bc.		34	státní úředník	Katovice	1	1	0	M
+3106	551201	1	1	47	2	Jiří	Zemen			39	dělník	Katovice	99	47	0	M
+3106	551201	1	2	53	2	Miroslav	Kolářík			45	místostarosta	Katovice	99	53	0	M
+3106	551201	1	4	1	2	Vladimír	Nejedlý	Ing.		47	projektant	Katovice	99	1	0	M
+3106	551201	1	1	47	3	Jaroslav	Velíšek			60	řidič	Katovice	99	47	0	M
+3106	551201	1	2	53	3	Tomáš	Hajdušek	Ing.		41	daňový poradce	Katovice	53	53	0	M
+3106	551201	1	4	1	3	Jan	Holeček	Ing.		45	podnikatel	Katovice	99	1	0	M
+3106	551201	1	1	47	4	Josef	Švelch			41	řidič	Katovice	47	47	0	M
+3106	551201	1	2	53	4	Pavel	Bláha	Ing.		40	projektant	Katovice	99	53	0	M
+3106	551201	1	4	1	4	Alena	Navrátilová			40	prodavačka	Katovice	1	1	0	F
+3106	551201	1	1	47	5	Karel	Braťka			63	důchodce	Katovice	47	47	0	M
+3106	551201	1	2	53	5	Alois	Kadlec	Ing.		30	lesní inženýr	Katovice	99	53	0	M
+3106	551201	1	4	1	5	Vladimíra	Malá			48	pečovatelka	Katovice	1	1	0	F
+3106	551201	1	1	47	6	Václava	Roučková			46	administr. pracov.	Katovice	99	47	0	F
+3106	551201	1	2	53	6	Jaroslav	Tomšovic	Ing.		42	pojišťovací agent	Katovice	99	53	0	M
+3106	551201	1	4	1	6	Iva	Kudějová			43	učitelka SOU	Katovice	99	1	0	F
+3106	551201	1	1	47	7	Jana	Sodomková			65	důchodkyně	Katovice	47	47	0	F
+3106	551201	1	2	53	7	Michal	Veselka	Ing.		28	servisní technik	Katovice	99	53	0	M
+3106	551201	1	4	1	7	Karel	Kadlec			68	důchodce	Katovice	99	1	0	M
+3106	551201	1	2	53	8	Miloslav	Řehoř			51	technik	Katovice	99	53	0	M
+3106	551201	1	4	1	8	Pavla	Vojtová			43	zdravotní sestra	Katovice	99	1	0	F
+3106	551201	1	2	53	9	Karel	Němeček	Ing.		44	projektant	Katovice	99	53	0	M
+3106	551201	1	4	1	9	Jiřina	Karasová	Bc.		61	důchodce	Katovice	1	1	0	F
+3106	551201	1	2	53	10	Jiří	Zahradník			51	bankovní úředník	Katovice	99	53	0	M
+3106	551201	1	4	1	10	František	Barvíř			64	důchodce	Katovice	99	1	0	M
+3106	551201	1	2	53	11	Jiřina	Opavová			44	vedoucí pošty	Katovice	99	53	0	F
+3106	551201	1	4	1	11	Pavel	Lemberger			44	provozní zámečník	Katovice	99	1	0	M
+3106	551201	1	2	53	12	František	Vondrášek			36	podnikatel	Katovice	99	53	0	M
+3106	551201	1	4	1	12	Jan	Boháč			77	důchodce	Katovice	1	1	0	M
+3106	551201	1	2	53	13	Václav	Studnička			27	technik	Katovice	99	53	0	M
+3106	551201	1	4	1	13	Michal	Novotný	Mgr.		39	projektový manažer	Katovice	99	1	0	M

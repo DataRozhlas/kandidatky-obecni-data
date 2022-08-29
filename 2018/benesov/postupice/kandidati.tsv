@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	530450	1	1	1	1	Miroslav	Fürbacher	M			43	celník	Lísek	99	1	A
-2101	530450	1	1	1	2	Jaroslav	Zvíhal	M			55	OSVČ	Postupice	99	1	A
-2101	530450	1	1	1	3	Pavel	Forman	M			66	důchodce	Postupice	99	1	A
-2101	530450	1	1	1	4	Václav	Šesták	M			52	operátor kamerového systému	Postupice	1	1	A
-2101	530450	1	1	1	5	Jaroslav	Andr	M			31	OSVČ	Postupice	99	1	A
-2101	530450	1	1	1	6	Zdeněk	Hnídek	M			60	technik havárie	Lísek	99	1	A
-2101	530450	1	1	1	7	Petr	Slavíček	M			69	důchodce	Postupice	1	1	A
-2101	530450	1	1	1	8	Ladislav	Pěkný	M			67	důchodce	Lísek	99	1	A
-2101	530450	1	1	1	9	Josef	Brabenec	M			70	důchodce	Postupice	99	1	A
-2101	530450	1	2	166	1	Jana	Jíšová	F			48	účetní	Postupice	99	166	A
-2101	530450	1	2	166	2	Jiří	Sternberg	M	Ing.		49	podnikatel	Jemniště	99	166	A
-2101	530450	1	2	166	3	Pavel	Vrňák	M	Ing.		56	ředitel DZS Struhařov a. s.	Miroslav	99	166	A
-2101	530450	1	2	166	4	Jan	Kahoun	M			31	veterinární technik	Postupice	99	166	A
-2101	530450	1	2	166	5	Miloslav	Půta	M			62	starosta obce Postupice	Postupice	99	166	A
-2101	530450	1	2	166	6	Jiří	Malý	M			43	revizní technik	Postupice	99	166	A
-2101	530450	1	2	166	7	Michal	Janata	M			46	úředník	Jemniště	99	166	A
-2101	530450	1	2	166	8	Radka	Marešová	F			47	dělnice	Postupice	99	166	A
-2101	530450	1	2	166	9	Štěpánka	Tůmová	F			42	administrativní pracovnice	Postupice	99	166	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	530450	1	1	1	1	Miroslav	Fürbacher			43	celník	Lísek	99	1	A	M
+2101	530450	1	2	166	1	Jana	Jíšová			48	účetní	Postupice	99	166	A	F
+2101	530450	1	1	1	2	Jaroslav	Zvíhal			55	OSVČ	Postupice	99	1	A	M
+2101	530450	1	2	166	2	Jiří	Sternberg	Ing.		49	podnikatel	Jemniště	99	166	A	M
+2101	530450	1	1	1	3	Pavel	Forman			66	důchodce	Postupice	99	1	A	M
+2101	530450	1	2	166	3	Pavel	Vrňák	Ing.		56	ředitel DZS Struhařov a. s.	Miroslav	99	166	A	M
+2101	530450	1	1	1	4	Václav	Šesták			52	operátor kamerového systému	Postupice	1	1	A	M
+2101	530450	1	2	166	4	Jan	Kahoun			31	veterinární technik	Postupice	99	166	A	M
+2101	530450	1	1	1	5	Jaroslav	Andr			31	OSVČ	Postupice	99	1	A	M
+2101	530450	1	2	166	5	Miloslav	Půta			62	starosta obce Postupice	Postupice	99	166	A	M
+2101	530450	1	1	1	6	Zdeněk	Hnídek			60	technik havárie	Lísek	99	1	A	M
+2101	530450	1	2	166	6	Jiří	Malý			43	revizní technik	Postupice	99	166	A	M
+2101	530450	1	1	1	7	Petr	Slavíček			69	důchodce	Postupice	1	1	A	M
+2101	530450	1	2	166	7	Michal	Janata			46	úředník	Jemniště	99	166	A	M
+2101	530450	1	1	1	8	Ladislav	Pěkný			67	důchodce	Lísek	99	1	A	M
+2101	530450	1	2	166	8	Radka	Marešová			47	dělnice	Postupice	99	166	A	F
+2101	530450	1	1	1	9	Josef	Brabenec			70	důchodce	Postupice	99	1	A	M
+2101	530450	1	2	166	9	Štěpánka	Tůmová			42	administrativní pracovnice	Postupice	99	166	A	F

@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	553841	1	1	901	1	Mária	Faloutová	F			53	invalidní důchodce	Kvíčovice	99	80	0
-3201	553841	1	1	901	2	Miroslava	Hodanová	F			45	OSVČ	Kvíčovice	99	80	0
-3201	553841	1	1	901	3	Vladislava	Pavlíková	F			39	obsluha čerpací stanice	Kvíčovice	99	80	0
-3201	553841	1	2	166	1	Jan	Bostl	M	Ing.		35	Systém.inženýr správy aplikací	Kvíčovice	99	166	0
-3201	553841	1	2	166	2	Jana	Šimková	F			32	dělnice	Kvíčovice	99	166	0
-3201	553841	1	2	166	3	Antonín	Líbal	M	Ing.		48	vedoucí skladu	Kvíčovice	99	166	0
-3201	553841	1	2	166	4	Eva	Brychcínová	F			19	studentka VŠ	Kvíčovice	99	166	0
-3201	553841	1	2	166	5	David	Toman	M			32	podnikatel	Kvíčovice	99	166	0
-3201	553841	1	2	166	6	Miroslav	Sekora	M	Ing.		60	manažer	Kvíčovice	99	166	0
-3201	553841	1	2	166	7	Jan	Klesa	M	Ing.		54	mechanizátor	Kvíčovice	99	166	0
-3201	553841	1	3	802	1	Rudolf	Wilhelm	M			56	pracovník v zák.centru	Kvíčovice	99	80	0
-3201	553841	1	4	803	1	Miroslav	Volf	M			53	soukromý podnikatel	Kvíčovice	99	80	0
-3201	553841	1	5	801	1	Josef	Stauber	M			49	strážník	Kvíčovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	553841	1	1	901	1	Mária	Faloutová			53	invalidní důchodce	Kvíčovice	99	80	0	F
+3201	553841	1	2	166	1	Jan	Bostl	Ing.		35	Systém.inženýr správy aplikací	Kvíčovice	99	166	0	M
+3201	553841	1	3	802	1	Rudolf	Wilhelm			56	pracovník v zák.centru	Kvíčovice	99	80	0	M
+3201	553841	1	4	803	1	Miroslav	Volf			53	soukromý podnikatel	Kvíčovice	99	80	0	M
+3201	553841	1	5	801	1	Josef	Stauber			49	strážník	Kvíčovice	99	80	0	M
+3201	553841	1	1	901	2	Miroslava	Hodanová			45	OSVČ	Kvíčovice	99	80	0	F
+3201	553841	1	2	166	2	Jana	Šimková			32	dělnice	Kvíčovice	99	166	0	F
+3201	553841	1	1	901	3	Vladislava	Pavlíková			39	obsluha čerpací stanice	Kvíčovice	99	80	0	F
+3201	553841	1	2	166	3	Antonín	Líbal	Ing.		48	vedoucí skladu	Kvíčovice	99	166	0	M
+3201	553841	1	2	166	4	Eva	Brychcínová			19	studentka VŠ	Kvíčovice	99	166	0	F
+3201	553841	1	2	166	5	David	Toman			32	podnikatel	Kvíčovice	99	166	0	M
+3201	553841	1	2	166	6	Miroslav	Sekora	Ing.		60	manažer	Kvíčovice	99	166	0	M
+3201	553841	1	2	166	7	Jan	Klesa	Ing.		54	mechanizátor	Kvíčovice	99	166	0	M

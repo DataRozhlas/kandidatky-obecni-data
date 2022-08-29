@@ -1,36 +1,36 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3102	545597	1	1	903	1	Zdeněk	Zídek	M	Ing.		44	ředitel	Lipno nad Vltavou	99	80	0
-3102	545597	1	1	903	2	Rudolf	Zbín	M	Ing.		30	policista	Lipno nad Vltavou	99	80	0
-3102	545597	1	1	903	3	Radek	Krátký	M			39	policista	Lipno nad Vltavou	99	80	0
-3102	545597	1	1	903	4	Marika	Poslušná	F	Mgr.		27	učitelka	Lipno nad Vltavou	99	80	0
-3102	545597	1	1	903	5	Luboš	Fenc	M			36	technik	Lipno nad Vltavou	99	80	0
-3102	545597	1	1	903	6	Jan	Staněk	M			41	podnikatel	Lipno nad Vltavou	99	80	0
-3102	545597	1	1	903	7	Jaroslava	Smejkalová	F	Mgr.		38	právník	Lipno nad Vltavou	99	80	0
-3102	545597	1	2	902	1	Emanuel	Zejda	M			47	živnostník	Slupečná	99	80	0
-3102	545597	1	2	902	2	Jiří	Kalivoda	M			50	státní zaměstnanec	Lipno nad Vltavou	99	80	0
-3102	545597	1	2	902	3	Jan	Irsigler	M			57	elektrotechnik	Lipno nad Vltavou	99	80	0
-3102	545597	1	2	902	4	Jan	Fatur	M			50	živnostník	Slupečná	99	80	0
-3102	545597	1	2	902	5	Zdena	Kortišová	F			58	důchodkyně	Lipno nad Vltavou	99	80	0
-3102	545597	1	2	902	6	Pavel	Míšek	M			46	elektrotechnik	Lipno nad Vltavou	99	80	0
-3102	545597	1	2	902	7	Jiří	Sedlák	M			56	dělník	Lipno nad Vltavou	99	80	0
-3102	545597	1	2	902	8	Jindřich	Crkva	M			22	číšník	Lipno nad Vltavou	99	80	0
-3102	545597	1	2	902	9	Bronislava	Bédáková	F			35	servírka	Lipno nad Vltavou	99	80	0
-3102	545597	1	3	904	1	Lucie	Bravencová	F			29	vedoucí střediska	Lipno nad Vltavou	99	80	0
-3102	545597	1	3	904	2	Pavel	Macák	M			44	policista	Lipno nad Vltavou	99	80	0
-3102	545597	1	3	904	3	Antonín	Kolář	M	Mgr.		44	provozní ředitel	Lipno nad Vltavou	99	80	0
-3102	545597	1	3	904	4	Rudolf	Zbín	M			50	obchodní zástupce	Lipno nad Vltavou	99	80	0
-3102	545597	1	3	904	5	Vítězslava	Neubauerová	F	Mgr.		61	důchodkyně	Lipno nad Vltavou	99	80	0
-3102	545597	1	3	904	6	Luděk	Máčka	M			34	technik	Lipno nad Vltavou	99	80	0
-3102	545597	1	3	904	7	Vilém	Neubauer	M			37	technik	Lipno nad Vltavou	99	80	0
-3102	545597	1	4	905	1	Jaroslav	Koutský	M			44	podnikatel	Lipno nad Vltavou	99	80	0
-3102	545597	1	4	905	2	Petr	Březina	M			45	elektrikář	Lipno nad Vltavou	99	80	0
-3102	545597	1	4	905	3	Aleš	Vacula	M			36	stavební technik	Lipno nad Vltavou	99	80	0
-3102	545597	1	4	905	4	Rudolf	Glasunov	M			35	řidič	Lipno nad Vltavou	99	80	0
-3102	545597	1	4	905	5	Jiří	Rohlík	M			34	stavební technik	Lipno nad Vltavou	99	80	0
-3102	545597	1	4	905	6	Lukáš	Vongrej	M			33	elektrikář	Lipno nad Vltavou	99	80	0
-3102	545597	1	4	905	7	Petr	Dušek	M	Ing.		40	ředitel	Lipno nad Vltavou	99	80	0
-3102	545597	1	5	901	1	Petr	Palma	M			33	státní zaměstnanec	Lipno nad Vltavou	99	80	0
-3102	545597	1	5	901	2	Gabriela	Frnková	F			34	dělnice	Lipno nad Vltavou	99	80	0
-3102	545597	1	5	901	3	Ivana	Homolová	F			30	soukromá podnikatelka	Lipno nad Vltavou	99	80	0
-3102	545597	1	5	901	4	Pavel	Frnka	M			36	hrázný	Lipno nad Vltavou	99	80	0
-3102	545597	1	5	901	5	Jaromír	Homola	M			33	soukromý podnikatel	Lipno nad Vltavou	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3102	545597	1	1	903	1	Zdeněk	Zídek	Ing.		44	ředitel	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	2	902	1	Emanuel	Zejda			47	živnostník	Slupečná	99	80	0	M
+3102	545597	1	3	904	1	Lucie	Bravencová			29	vedoucí střediska	Lipno nad Vltavou	99	80	0	F
+3102	545597	1	4	905	1	Jaroslav	Koutský			44	podnikatel	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	5	901	1	Petr	Palma			33	státní zaměstnanec	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	1	903	2	Rudolf	Zbín	Ing.		30	policista	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	2	902	2	Jiří	Kalivoda			50	státní zaměstnanec	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	3	904	2	Pavel	Macák			44	policista	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	4	905	2	Petr	Březina			45	elektrikář	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	5	901	2	Gabriela	Frnková			34	dělnice	Lipno nad Vltavou	99	80	0	F
+3102	545597	1	1	903	3	Radek	Krátký			39	policista	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	2	902	3	Jan	Irsigler			57	elektrotechnik	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	3	904	3	Antonín	Kolář	Mgr.		44	provozní ředitel	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	4	905	3	Aleš	Vacula			36	stavební technik	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	5	901	3	Ivana	Homolová			30	soukromá podnikatelka	Lipno nad Vltavou	99	80	0	F
+3102	545597	1	1	903	4	Marika	Poslušná	Mgr.		27	učitelka	Lipno nad Vltavou	99	80	0	F
+3102	545597	1	2	902	4	Jan	Fatur			50	živnostník	Slupečná	99	80	0	M
+3102	545597	1	3	904	4	Rudolf	Zbín			50	obchodní zástupce	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	4	905	4	Rudolf	Glasunov			35	řidič	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	5	901	4	Pavel	Frnka			36	hrázný	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	1	903	5	Luboš	Fenc			36	technik	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	2	902	5	Zdena	Kortišová			58	důchodkyně	Lipno nad Vltavou	99	80	0	F
+3102	545597	1	3	904	5	Vítězslava	Neubauerová	Mgr.		61	důchodkyně	Lipno nad Vltavou	99	80	0	F
+3102	545597	1	4	905	5	Jiří	Rohlík			34	stavební technik	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	5	901	5	Jaromír	Homola			33	soukromý podnikatel	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	1	903	6	Jan	Staněk			41	podnikatel	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	2	902	6	Pavel	Míšek			46	elektrotechnik	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	3	904	6	Luděk	Máčka			34	technik	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	4	905	6	Lukáš	Vongrej			33	elektrikář	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	1	903	7	Jaroslava	Smejkalová	Mgr.		38	právník	Lipno nad Vltavou	99	80	0	F
+3102	545597	1	2	902	7	Jiří	Sedlák			56	dělník	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	3	904	7	Vilém	Neubauer			37	technik	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	4	905	7	Petr	Dušek	Ing.		40	ředitel	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	2	902	8	Jindřich	Crkva			22	číšník	Lipno nad Vltavou	99	80	0	M
+3102	545597	1	2	902	9	Bronislava	Bédáková			35	servírka	Lipno nad Vltavou	99	80	0	F

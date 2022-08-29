@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2108	503410	1	1	901	1	Tomáš	Antoš	M			47	montér vodovodů	Žitovlice	99	80	A
-2108	503410	1	1	901	2	Veronika	Sádlíková	F	Ing.	MBA	41	podnikatelka	Pojedy	99	80	A
-2108	503410	1	1	901	3	Jaroslav	Malý	M			41	servisní technik	Žitovlice	99	80	A
-2108	503410	1	1	901	4	Tomáš	Kurka	M	Mgr.		42	policejní komisař	Žitovlice	99	80	A
-2108	503410	1	1	901	5	Simona	Škodová	F			49	účetní	Žitovlice	99	80	A
-2108	503410	1	1	901	6	Tomáš	Antoš	M			25	mechatronik	Žitovlice	99	80	A
-2108	503410	1	2	902	1	Martin	Kříž	M			37	obchodní zástupce	Žitovlice	99	80	A
-2108	503410	1	2	902	2	Martin	Dohnal	M			53	grafik	Pojedy	99	80	A
-2108	503410	1	2	902	3	Jaroslav	Kaňka	M			44	mistr výroby	Žitovlice	99	80	A
-2108	503410	1	2	902	4	Jaroslav	Novák	M			39	policista ČR	Žitovlice	99	80	A
-2108	503410	1	2	902	5	Monika	Szentesi	F			46	učitelka MŠ	Žitovlice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2108	503410	1	1	901	1	Tomáš	Antoš			47	montér vodovodů	Žitovlice	99	80	A	M
+2108	503410	1	2	902	1	Martin	Kříž			37	obchodní zástupce	Žitovlice	99	80	A	M
+2108	503410	1	1	901	2	Veronika	Sádlíková	Ing.	MBA	41	podnikatelka	Pojedy	99	80	A	F
+2108	503410	1	2	902	2	Martin	Dohnal			53	grafik	Pojedy	99	80	A	M
+2108	503410	1	1	901	3	Jaroslav	Malý			41	servisní technik	Žitovlice	99	80	A	M
+2108	503410	1	2	902	3	Jaroslav	Kaňka			44	mistr výroby	Žitovlice	99	80	A	M
+2108	503410	1	1	901	4	Tomáš	Kurka	Mgr.		42	policejní komisař	Žitovlice	99	80	A	M
+2108	503410	1	2	902	4	Jaroslav	Novák			39	policista ČR	Žitovlice	99	80	A	M
+2108	503410	1	1	901	5	Simona	Škodová			49	účetní	Žitovlice	99	80	A	F
+2108	503410	1	2	902	5	Monika	Szentesi			46	učitelka MŠ	Žitovlice	99	80	A	F
+2108	503410	1	1	901	6	Tomáš	Antoš			25	mechatronik	Žitovlice	99	80	A	M

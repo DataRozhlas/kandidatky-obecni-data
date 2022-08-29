@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5103	530433	1	1	902	1	Milan	Götz	M			28	seřizovač - Benteler ČR	Kunratice	99	80	0
-5103	530433	1	1	902	2	Luděk	Pažout	M			39	státní zaměstnanec	Kunratice	99	80	0
-5103	530433	1	1	902	3	Miroslav	Liška	M			35	živnostník	Kunratice	99	80	0
-5103	530433	1	1	902	4	Miloslav	Götz	M			51	živnostník	Kunratice	99	80	0
-5103	530433	1	1	902	5	Lenka	Křížová	F			21	studentka	Kunratice	99	80	0
-5103	530433	1	1	902	6	Josef	Novák	M			28	vedoucí technik KSS LK	Kunratice	99	80	0
-5103	530433	1	1	902	7	Josef	Vojta	M			58	dělník - Benteler ČR	Kunratice	99	80	0
-5103	530433	1	1	902	8	Jaroslav	Lachman	M			53	seřizovač - Benteler ČR	Kunratice	99	80	0
-5103	530433	1	1	902	9	Jiří	Novák	M			63	důchodce	Kunratice	99	80	0
-5103	530433	1	2	901	1	Alois	Život	M			66	důchodce	Kunratice	99	80	0
-5103	530433	1	2	901	2	Milan	Franc	M			33	elektromontér	Kunratice	99	80	0
-5103	530433	1	2	901	3	Petra	Slepitschková	F			42	projektový manažer	Kunratice	99	80	0
-5103	530433	1	2	901	4	Jiří	Kříž	M	Ing.		57	ekonom	Kunratice	99	80	0
-5103	530433	1	2	901	5	Ludmila	Brynychová	F			59	učitelka MŠ	Kunratice	99	80	0
-5103	530433	1	2	901	6	Jana	Runkasová	F	Mgr.		39	učitelka MŠ	Kunratice	99	80	0
-5103	530433	1	2	901	7	Miloslav	Šejna	M			28	vedoucí provozu	Kunratice	99	80	0
-5103	530433	1	2	901	8	Jana	Jirounková	F			41	dělnice	Kunratice	99	80	0
-5103	530433	1	2	901	9	Božena	Smržová	F			54	dělnice	Kunratice	99	80	0
-5103	530433	1	3	903	1	František	Vrátný	M			57	jednatel společnosti	Kunratice	99	80	0
-5103	530433	1	3	903	2	Pavel	Němec	M			61	důchodce	Kunratice	99	80	0
-5103	530433	1	3	903	3	Miroslava	Mervová	F			37	účetní	Kunratice	99	80	0
-5103	530433	1	3	903	4	Emilie	Pleskačová	F			62	důchodce	Kunratice	99	80	0
-5103	530433	1	3	903	5	Miloš	Farský	M			40	mistr	Kunratice	99	80	0
-5103	530433	1	3	903	6	Josef	Vojta	M			31	seřizovač	Kunratice	99	80	0
-5103	530433	1	3	903	7	Hana	Valová	F			42	dělnice	Kunratice	99	80	0
-5103	530433	1	3	903	8	Stanislav	Matoušek	M			69	důchodce	Kunratice	99	80	0
-5103	530433	1	3	903	9	Hana	Labská	F			46	dělnice	Kunratice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5103	530433	1	1	902	1	Milan	Götz			28	seřizovač - Benteler ČR	Kunratice	99	80	0	M
+5103	530433	1	2	901	1	Alois	Život			66	důchodce	Kunratice	99	80	0	M
+5103	530433	1	3	903	1	František	Vrátný			57	jednatel společnosti	Kunratice	99	80	0	M
+5103	530433	1	1	902	2	Luděk	Pažout			39	státní zaměstnanec	Kunratice	99	80	0	M
+5103	530433	1	2	901	2	Milan	Franc			33	elektromontér	Kunratice	99	80	0	M
+5103	530433	1	3	903	2	Pavel	Němec			61	důchodce	Kunratice	99	80	0	M
+5103	530433	1	1	902	3	Miroslav	Liška			35	živnostník	Kunratice	99	80	0	M
+5103	530433	1	2	901	3	Petra	Slepitschková			42	projektový manažer	Kunratice	99	80	0	F
+5103	530433	1	3	903	3	Miroslava	Mervová			37	účetní	Kunratice	99	80	0	F
+5103	530433	1	1	902	4	Miloslav	Götz			51	živnostník	Kunratice	99	80	0	M
+5103	530433	1	2	901	4	Jiří	Kříž	Ing.		57	ekonom	Kunratice	99	80	0	M
+5103	530433	1	3	903	4	Emilie	Pleskačová			62	důchodce	Kunratice	99	80	0	F
+5103	530433	1	1	902	5	Lenka	Křížová			21	studentka	Kunratice	99	80	0	F
+5103	530433	1	2	901	5	Ludmila	Brynychová			59	učitelka MŠ	Kunratice	99	80	0	F
+5103	530433	1	3	903	5	Miloš	Farský			40	mistr	Kunratice	99	80	0	M
+5103	530433	1	1	902	6	Josef	Novák			28	vedoucí technik KSS LK	Kunratice	99	80	0	M
+5103	530433	1	2	901	6	Jana	Runkasová	Mgr.		39	učitelka MŠ	Kunratice	99	80	0	F
+5103	530433	1	3	903	6	Josef	Vojta			31	seřizovač	Kunratice	99	80	0	M
+5103	530433	1	1	902	7	Josef	Vojta			58	dělník - Benteler ČR	Kunratice	99	80	0	M
+5103	530433	1	2	901	7	Miloslav	Šejna			28	vedoucí provozu	Kunratice	99	80	0	M
+5103	530433	1	3	903	7	Hana	Valová			42	dělnice	Kunratice	99	80	0	F
+5103	530433	1	1	902	8	Jaroslav	Lachman			53	seřizovač - Benteler ČR	Kunratice	99	80	0	M
+5103	530433	1	2	901	8	Jana	Jirounková			41	dělnice	Kunratice	99	80	0	F
+5103	530433	1	3	903	8	Stanislav	Matoušek			69	důchodce	Kunratice	99	80	0	M
+5103	530433	1	1	902	9	Jiří	Novák			63	důchodce	Kunratice	99	80	0	M
+5103	530433	1	2	901	9	Božena	Smržová			54	dělnice	Kunratice	99	80	0	F
+5103	530433	1	3	903	9	Hana	Labská			46	dělnice	Kunratice	99	80	0	F

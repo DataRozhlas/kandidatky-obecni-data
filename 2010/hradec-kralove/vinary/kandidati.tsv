@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	571083	1	1	801	1	Václav	Horák	M			63	důchodce	Vinary	99	80	0
-5201	571083	1	2	901	1	Ladislav	Linek	M			39	státní zaměstnanec	Smidarská Lhota	99	80	0
-5201	571083	1	2	901	2	Karel	Kraus	M			56	sanitář	Smidarská Lhota	99	80	0
-5201	571083	1	2	901	3	Jan	Turnovský	M			39	OSVČ	Smidarská Lhota	99	80	0
-5201	571083	1	2	901	4	Petr	Hudec	M	Ing.		60	důchodce	Smidarská Lhota	99	80	0
-5201	571083	1	2	901	5	Dušan	Turnovský	M			34	řidič	Smidarská Lhota	99	80	0
-5201	571083	1	2	901	6	Kamil	Hyršál	M			37	tepelné zpracování kovů	Smidarská Lhota	99	80	0
-5201	571083	1	3	802	1	Vratislav	Boudyš	M			60	zásobovač	Janovice	99	80	0
-5201	571083	1	4	903	1	Luboš	Schovánek	M			36	skladník	Janovice	99	80	0
-5201	571083	1	4	903	2	Alena	Boudyšová	F	Bc.		27	sociální pracovnice	Janovice	99	80	0
-5201	571083	1	4	903	3	Jaroslava	Deverová	F			51	asistentka výrobního ředitele	Janovice	99	80	0
-5201	571083	1	4	903	4	Milan	Schovánek	M			34	OSVČ	Janovice	99	80	0
-5201	571083	1	5	902	1	Štěpánka	Holmanová	F	Ing.		42	ředitelka sociálních služeb	Vinary	99	80	0
-5201	571083	1	5	902	2	Pavel	Špinka	M			39	brusič skla	Vinary	99	80	0
-5201	571083	1	5	902	3	Ivana	Janovcová	F			45	zaměstnanec České pošty s.p.	Vinary	99	80	0
-5201	571083	1	5	902	4	Jiří	Štoček	M			35	řezník	Vinary	99	80	0
-5201	571083	1	5	902	5	Eutym	Mátis	M	MUDr.		30	lékař	Vinary	99	80	0
-5201	571083	1	5	902	6	Milan	Myška	M			39	traktorista	Vinary	99	80	0
-5201	571083	1	6	904	1	Milan	Libánský	M			50	elektrikář	Kozojídky	99	80	0
-5201	571083	1	6	904	2	Jiří	Zechovský	M			42	zedník	Kozojídky	99	80	0
-5201	571083	1	6	904	3	Jiří	Mocek	M			36	seřizovač	Kozojídky	99	80	0
-5201	571083	1	6	904	4	Pavel	Trnka	M			53	opravář	Kozojídky	99	80	0
-5201	571083	1	6	904	5	Bohuslav	Vršťala	M			53	státní zaměstnanec	Kozojídky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	571083	1	1	801	1	Václav	Horák			63	důchodce	Vinary	99	80	0	M
+5201	571083	1	2	901	1	Ladislav	Linek			39	státní zaměstnanec	Smidarská Lhota	99	80	0	M
+5201	571083	1	3	802	1	Vratislav	Boudyš			60	zásobovač	Janovice	99	80	0	M
+5201	571083	1	4	903	1	Luboš	Schovánek			36	skladník	Janovice	99	80	0	M
+5201	571083	1	5	902	1	Štěpánka	Holmanová	Ing.		42	ředitelka sociálních služeb	Vinary	99	80	0	F
+5201	571083	1	6	904	1	Milan	Libánský			50	elektrikář	Kozojídky	99	80	0	M
+5201	571083	1	2	901	2	Karel	Kraus			56	sanitář	Smidarská Lhota	99	80	0	M
+5201	571083	1	4	903	2	Alena	Boudyšová	Bc.		27	sociální pracovnice	Janovice	99	80	0	F
+5201	571083	1	5	902	2	Pavel	Špinka			39	brusič skla	Vinary	99	80	0	M
+5201	571083	1	6	904	2	Jiří	Zechovský			42	zedník	Kozojídky	99	80	0	M
+5201	571083	1	2	901	3	Jan	Turnovský			39	OSVČ	Smidarská Lhota	99	80	0	M
+5201	571083	1	4	903	3	Jaroslava	Deverová			51	asistentka výrobního ředitele	Janovice	99	80	0	F
+5201	571083	1	5	902	3	Ivana	Janovcová			45	zaměstnanec České pošty s.p.	Vinary	99	80	0	F
+5201	571083	1	6	904	3	Jiří	Mocek			36	seřizovač	Kozojídky	99	80	0	M
+5201	571083	1	2	901	4	Petr	Hudec	Ing.		60	důchodce	Smidarská Lhota	99	80	0	M
+5201	571083	1	4	903	4	Milan	Schovánek			34	OSVČ	Janovice	99	80	0	M
+5201	571083	1	5	902	4	Jiří	Štoček			35	řezník	Vinary	99	80	0	M
+5201	571083	1	6	904	4	Pavel	Trnka			53	opravář	Kozojídky	99	80	0	M
+5201	571083	1	2	901	5	Dušan	Turnovský			34	řidič	Smidarská Lhota	99	80	0	M
+5201	571083	1	5	902	5	Eutym	Mátis	MUDr.		30	lékař	Vinary	99	80	0	M
+5201	571083	1	6	904	5	Bohuslav	Vršťala			53	státní zaměstnanec	Kozojídky	99	80	0	M
+5201	571083	1	2	901	6	Kamil	Hyršál			37	tepelné zpracování kovů	Smidarská Lhota	99	80	0	M
+5201	571083	1	5	902	6	Milan	Myška			39	traktorista	Vinary	99	80	0	M

@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	565466	1	1	801	1	Miroslav	Krupka	M			33	technik	Milý	99	80	0
-2112	565466	1	2	901	1	Milan	Charvát	M	Mgr.		78	důchodce	Milý	99	80	0
-2112	565466	1	2	901	2	Josef	Kolda	M			69	důchodce	Milý	99	80	0
-2112	565466	1	2	901	3	Karel	Šmída	M			68	důchodce	Milý	99	80	0
-2112	565466	1	2	901	4	Zdeněk	Kvasnička	M			61	ekonom	Milý	99	80	0
-2112	565466	1	2	901	5	Tomáš	Klíma	M	Ing.		47	soukromý zemědělec	Milý	99	80	0
-2112	565466	1	2	901	6	Josef	Dundr	M			45	technik	Milý	99	80	0
-2112	565466	1	2	901	7	Lucie	Koldová	F			24	manažerka	Milý	99	80	0
-2112	565466	1	2	901	8	Radomír	Brož	M			45	technik	Milý	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	565466	1	1	801	1	Miroslav	Krupka			33	technik	Milý	99	80	0	M
+2112	565466	1	2	901	1	Milan	Charvát	Mgr.		78	důchodce	Milý	99	80	0	M
+2112	565466	1	2	901	2	Josef	Kolda			69	důchodce	Milý	99	80	0	M
+2112	565466	1	2	901	3	Karel	Šmída			68	důchodce	Milý	99	80	0	M
+2112	565466	1	2	901	4	Zdeněk	Kvasnička			61	ekonom	Milý	99	80	0	M
+2112	565466	1	2	901	5	Tomáš	Klíma	Ing.		47	soukromý zemědělec	Milý	99	80	0	M
+2112	565466	1	2	901	6	Josef	Dundr			45	technik	Milý	99	80	0	M
+2112	565466	1	2	901	7	Lucie	Koldová			24	manažerka	Milý	99	80	0	F
+2112	565466	1	2	901	8	Radomír	Brož			45	technik	Milý	99	80	0	M

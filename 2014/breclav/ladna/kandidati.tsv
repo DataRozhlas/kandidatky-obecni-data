@@ -1,32 +1,32 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6204	558443	1	1	1	1	Stanislav	Holub	M	Bc.		58	vinař	Ladná	99	1	0
-6204	558443	1	1	1	2	Jan	Struhár	M	Mgr.		40	informatik	Ladná	99	1	0
-6204	558443	1	1	1	3	Pavel	Čech	M	Ing.		29	informatik	Ladná	1	1	0
-6204	558443	1	1	1	4	Ludmila	Střelská	F			65	kostelnice	Ladná	1	1	0
-6204	558443	1	1	1	5	Stanislav	Maxa	M			58	vedoucí provozu	Ladná	99	1	0
-6204	558443	1	1	1	6	Jaroslav	Čech	M	Ing.		33	analytik	Ladná	1	1	0
-6204	558443	1	1	1	7	Jaroslava	Prudíková	F			54	podnikatelka	Ladná	99	1	0
-6204	558443	1	1	1	8	Ivana	Hlavňovská Dvořáková	F	RNDr.		52	lektorka	Ladná	99	1	0
-6204	558443	1	1	1	9	Marcela	Černá	F			42	účetní	Ladná	99	1	0
-6204	558443	1	2	902	1	Věra	Šúňová	F			50	inženýrka chemie	Ladná	99	80	0
-6204	558443	1	2	902	2	Ondřej	Černý	M			27	cenař	Ladná	99	80	0
-6204	558443	1	2	902	3	Nataša	Málková	F			50	ekonomická ředitelka	Ladná	99	80	0
-6204	558443	1	2	902	4	Ivan	Áč	M			41	mistr ve výrobě	Ladná	99	80	0
-6204	558443	1	2	902	5	Kamil	Štoll	M			40	podnikatel	Ladná	99	80	0
-6204	558443	1	2	902	6	Zdeněk	Vrbík	M			39	překladatel	Ladná	99	80	0
-6204	558443	1	2	902	7	Ladislav	Novotný	M			69	důchodce	Ladná	99	80	0
-6204	558443	1	2	902	8	Věra	Svobodová	F			44	kuchařka	Ladná	99	80	0
-6204	558443	1	2	902	9	Jiří	Málek	M			29	projektant	Ladná	99	80	0
-6204	558443	1	3	901	1	Renáta	Priesterrathová	F			49	starostka	Ladná	99	80	0
-6204	558443	1	3	901	2	Bohumila	Tesaříková	F			41	místostarostka	Ladná	99	80	0
-6204	558443	1	3	901	3	Martin	Vlk	M			42	státní zaměstnanec	Ladná	99	80	0
-6204	558443	1	3	901	4	Stanislav	Krůtil	M			61	živnostník	Ladná	99	80	0
-6204	558443	1	3	901	5	Karel	Novozámský	M			57	konstruktér	Ladná	99	80	0
-6204	558443	1	3	901	6	Petr	Dřevěný	M			37	živnostník	Ladná	99	80	0
-6204	558443	1	3	901	7	Vítězslav	Michalovič	M			35	číšník	Ladná	99	80	0
-6204	558443	1	3	901	8	Josef	Pulkrábek	M			45	státní zaměstnanec	Ladná	99	80	0
-6204	558443	1	3	901	9	František	Valušek	M			67	důchodce	Ladná	99	80	0
-6204	558443	1	4	53	1	Jan	Vintrlík	M			34	obchodní manažer	Ladná	53	53	0
-6204	558443	1	4	53	2	Silvie	Plotzová	F			38	pokladní	Ladná	99	53	0
-6204	558443	1	4	53	3	Vít	Černý	M	Ing.		36	konzultant	Ladná	53	53	0
-6204	558443	1	4	53	4	Miroslav	Šmíd	M			53	podnikatel	Ladná	53	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6204	558443	1	1	1	1	Stanislav	Holub	Bc.		58	vinař	Ladná	99	1	0	M
+6204	558443	1	2	902	1	Věra	Šúňová			50	inženýrka chemie	Ladná	99	80	0	F
+6204	558443	1	3	901	1	Renáta	Priesterrathová			49	starostka	Ladná	99	80	0	F
+6204	558443	1	4	53	1	Jan	Vintrlík			34	obchodní manažer	Ladná	53	53	0	M
+6204	558443	1	1	1	2	Jan	Struhár	Mgr.		40	informatik	Ladná	99	1	0	M
+6204	558443	1	2	902	2	Ondřej	Černý			27	cenař	Ladná	99	80	0	M
+6204	558443	1	3	901	2	Bohumila	Tesaříková			41	místostarostka	Ladná	99	80	0	F
+6204	558443	1	4	53	2	Silvie	Plotzová			38	pokladní	Ladná	99	53	0	F
+6204	558443	1	1	1	3	Pavel	Čech	Ing.		29	informatik	Ladná	1	1	0	M
+6204	558443	1	2	902	3	Nataša	Málková			50	ekonomická ředitelka	Ladná	99	80	0	F
+6204	558443	1	3	901	3	Martin	Vlk			42	státní zaměstnanec	Ladná	99	80	0	M
+6204	558443	1	4	53	3	Vít	Černý	Ing.		36	konzultant	Ladná	53	53	0	M
+6204	558443	1	1	1	4	Ludmila	Střelská			65	kostelnice	Ladná	1	1	0	F
+6204	558443	1	2	902	4	Ivan	Áč			41	mistr ve výrobě	Ladná	99	80	0	M
+6204	558443	1	3	901	4	Stanislav	Krůtil			61	živnostník	Ladná	99	80	0	M
+6204	558443	1	4	53	4	Miroslav	Šmíd			53	podnikatel	Ladná	53	53	0	M
+6204	558443	1	1	1	5	Stanislav	Maxa			58	vedoucí provozu	Ladná	99	1	0	M
+6204	558443	1	2	902	5	Kamil	Štoll			40	podnikatel	Ladná	99	80	0	M
+6204	558443	1	3	901	5	Karel	Novozámský			57	konstruktér	Ladná	99	80	0	M
+6204	558443	1	1	1	6	Jaroslav	Čech	Ing.		33	analytik	Ladná	1	1	0	M
+6204	558443	1	2	902	6	Zdeněk	Vrbík			39	překladatel	Ladná	99	80	0	M
+6204	558443	1	3	901	6	Petr	Dřevěný			37	živnostník	Ladná	99	80	0	M
+6204	558443	1	1	1	7	Jaroslava	Prudíková			54	podnikatelka	Ladná	99	1	0	F
+6204	558443	1	2	902	7	Ladislav	Novotný			69	důchodce	Ladná	99	80	0	M
+6204	558443	1	3	901	7	Vítězslav	Michalovič			35	číšník	Ladná	99	80	0	M
+6204	558443	1	1	1	8	Ivana	Hlavňovská Dvořáková	RNDr.		52	lektorka	Ladná	99	1	0	F
+6204	558443	1	2	902	8	Věra	Svobodová			44	kuchařka	Ladná	99	80	0	F
+6204	558443	1	3	901	8	Josef	Pulkrábek			45	státní zaměstnanec	Ladná	99	80	0	M
+6204	558443	1	1	1	9	Marcela	Černá			42	účetní	Ladná	99	1	0	F
+6204	558443	1	2	902	9	Jiří	Málek			29	projektant	Ladná	99	80	0	M
+6204	558443	1	3	901	9	František	Valušek			67	důchodce	Ladná	99	80	0	M

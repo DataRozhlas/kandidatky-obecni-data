@@ -1,32 +1,32 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5103	564435	1	1	904	1	Aleš	Drahoňovský	M	Mgr.		46	učitel	Svijanský Újezd	99	80	A
-5103	564435	1	1	904	2	Petr	Maršík	M			46	OSVČ	Svijanský Újezd	99	80	A
-5103	564435	1	1	904	3	Miroslav	Dvořák	M			35	podnikatel	Svijanský Újezd	99	80	A
-5103	564435	1	1	904	4	Jiří	Zíta	M			42	stavař	Podhora	99	80	A
-5103	564435	1	1	904	5	Petr	Král	M			30	elektromechanik	Svijanský Újezd	99	80	A
-5103	564435	1	1	904	6	Jiří	Mohelský	M			45	mistr lisovny	Svijanský Újezd	99	80	A
-5103	564435	1	1	904	7	Lenka	Novotná	F			43	učitelka v MŠ	Svijanský Újezd	99	80	A
-5103	564435	1	1	904	8	Josef	Laurin	M			49	zámečník	Svijanský Újezd	99	80	A
-5103	564435	1	2	902	1	Matěj	Picek	M		DiS.	32	stavbyvedoucí	Močítka	99	80	A
-5103	564435	1	2	902	2	Jiří	Drobný	M			27	ovocnář	Svijanský Újezd	99	80	A
-5103	564435	1	2	902	3	Jaroslav	Bursa	M			67	řidič	Svijanský Újezd	99	80	A
-5103	564435	1	2	902	4	Jiří	Jonáš	M			37	engineering manager	Svijanský Újezd	99	80	A
-5103	564435	1	2	902	5	Jan	Bárta	M			32	skladník, řidič	Svijanský Újezd	99	80	A
-5103	564435	1	2	902	6	Blanka	Maršíková	F			42	cukrářka	Svijanský Újezd	99	80	A
-5103	564435	1	2	902	7	Aneta	Zemánková	F		DiS.	32	administrativní pracovnice	Močítka	99	80	A
-5103	564435	1	2	902	8	Michaela	Vacková	F		DiS.	36	na mateřské dovolené	Močítka	99	80	A
-5103	564435	1	3	901	1	Petra	Bursová	F			38	starostka	Svijanský Újezd	99	80	A
-5103	564435	1	3	901	2	Jindřich	Picek	M			58	mechanizátor	Močítka	99	80	A
-5103	564435	1	3	901	3	Blahoslav	Kratochvíl	M			64	místostarosta	Svijanský Újezd	99	80	A
-5103	564435	1	3	901	4	Pavel	Odcházel	M			37	zemědělec	Svijanský Újezd	99	80	A
-5103	564435	1	3	901	5	Tereza	Maršíková	F			18	student	Svijanský Újezd	99	80	A
-5103	564435	1	3	901	6	Michal	Adam	M			52	obecní zaměstnanec	Svijanský Újezd	99	80	A
-5103	564435	1	3	901	7	Roman	Kapras	M			43	montér	Svijanský Újezd	99	80	A
-5103	564435	1	3	901	8	Jana	Mařasová	F			49	zdravotní sestra	Svijanský Újezd	99	80	A
-5103	564435	1	4	903	1	Ilona	Kuderová	F	Bc.	DiS.	33	finanční specialista	Svijanský Újezd	99	80	A
-5103	564435	1	4	903	2	Ladislava	Fidlerová	F			40	kadeřnice	Svijanský Újezd	99	80	A
-5103	564435	1	4	903	3	Martina	Wambachová	F			44	úvěrový poradce ČS	Svijanský Újezd	99	80	A
-5103	564435	1	4	903	4	Lucie	Šenberková	F			39	učitelka v MŠ	Svijanský Újezd	99	80	A
-5103	564435	1	4	903	5	Lucie	Ardeltová	F			31	mateřská dovolená	Svijanský Újezd	99	80	A
-5103	564435	1	4	903	6	Pavel	Kudera	M			38	truhlář	Svijanský Újezd	99	80	A
-5103	564435	1	4	903	7	Tomáš	Kvasnica	M	Ing.		37	voják z povolání	Svijanský Újezd	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5103	564435	1	1	904	1	Aleš	Drahoňovský	Mgr.		46	učitel	Svijanský Újezd	99	80	A	M
+5103	564435	1	2	902	1	Matěj	Picek		DiS.	32	stavbyvedoucí	Močítka	99	80	A	M
+5103	564435	1	3	901	1	Petra	Bursová			38	starostka	Svijanský Újezd	99	80	A	F
+5103	564435	1	4	903	1	Ilona	Kuderová	Bc.	DiS.	33	finanční specialista	Svijanský Újezd	99	80	A	F
+5103	564435	1	1	904	2	Petr	Maršík			46	OSVČ	Svijanský Újezd	99	80	A	M
+5103	564435	1	2	902	2	Jiří	Drobný			27	ovocnář	Svijanský Újezd	99	80	A	M
+5103	564435	1	3	901	2	Jindřich	Picek			58	mechanizátor	Močítka	99	80	A	M
+5103	564435	1	4	903	2	Ladislava	Fidlerová			40	kadeřnice	Svijanský Újezd	99	80	A	F
+5103	564435	1	1	904	3	Miroslav	Dvořák			35	podnikatel	Svijanský Újezd	99	80	A	M
+5103	564435	1	2	902	3	Jaroslav	Bursa			67	řidič	Svijanský Újezd	99	80	A	M
+5103	564435	1	3	901	3	Blahoslav	Kratochvíl			64	místostarosta	Svijanský Újezd	99	80	A	M
+5103	564435	1	4	903	3	Martina	Wambachová			44	úvěrový poradce ČS	Svijanský Újezd	99	80	A	F
+5103	564435	1	1	904	4	Jiří	Zíta			42	stavař	Podhora	99	80	A	M
+5103	564435	1	2	902	4	Jiří	Jonáš			37	engineering manager	Svijanský Újezd	99	80	A	M
+5103	564435	1	3	901	4	Pavel	Odcházel			37	zemědělec	Svijanský Újezd	99	80	A	M
+5103	564435	1	4	903	4	Lucie	Šenberková			39	učitelka v MŠ	Svijanský Újezd	99	80	A	F
+5103	564435	1	1	904	5	Petr	Král			30	elektromechanik	Svijanský Újezd	99	80	A	M
+5103	564435	1	2	902	5	Jan	Bárta			32	skladník, řidič	Svijanský Újezd	99	80	A	M
+5103	564435	1	3	901	5	Tereza	Maršíková			18	student	Svijanský Újezd	99	80	A	F
+5103	564435	1	4	903	5	Lucie	Ardeltová			31	mateřská dovolená	Svijanský Újezd	99	80	A	F
+5103	564435	1	1	904	6	Jiří	Mohelský			45	mistr lisovny	Svijanský Újezd	99	80	A	M
+5103	564435	1	2	902	6	Blanka	Maršíková			42	cukrářka	Svijanský Újezd	99	80	A	F
+5103	564435	1	3	901	6	Michal	Adam			52	obecní zaměstnanec	Svijanský Újezd	99	80	A	M
+5103	564435	1	4	903	6	Pavel	Kudera			38	truhlář	Svijanský Újezd	99	80	A	M
+5103	564435	1	1	904	7	Lenka	Novotná			43	učitelka v MŠ	Svijanský Újezd	99	80	A	F
+5103	564435	1	2	902	7	Aneta	Zemánková		DiS.	32	administrativní pracovnice	Močítka	99	80	A	F
+5103	564435	1	3	901	7	Roman	Kapras			43	montér	Svijanský Újezd	99	80	A	M
+5103	564435	1	4	903	7	Tomáš	Kvasnica	Ing.		37	voják z povolání	Svijanský Újezd	99	80	A	M
+5103	564435	1	1	904	8	Josef	Laurin			49	zámečník	Svijanský Újezd	99	80	A	M
+5103	564435	1	2	902	8	Michaela	Vacková		DiS.	36	na mateřské dovolené	Močítka	99	80	A	F
+5103	564435	1	3	901	8	Jana	Mařasová			49	zdravotní sestra	Svijanský Újezd	99	80	A	F

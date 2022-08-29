@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	570249	1	1	901	1	Tomáš	Slavík	M	Ing.		36	finanční analytik	Libčany	99	80	0
-5201	570249	1	1	901	2	Marek	Pišl	M			35	podnikatel	Libčany	99	80	0
-5201	570249	1	1	901	3	Jaroslav	Plodek	M	Ing.		40	jednatel společnosti	Libčany	99	80	0
-5201	570249	1	1	901	4	Petr	Lexa	M			43	montér	Libčany	99	80	0
-5201	570249	1	1	901	5	Josef	Stránský	M			42	vedoucí skladu	Libčany	99	80	0
-5201	570249	1	1	901	6	Jaroslava	Slavíková	F	Mgr.		57	manažerka	Libčany	99	80	0
-5201	570249	1	1	901	7	Pavel	Herbrych	M			44	technik	Libčany	99	80	0
-5201	570249	1	1	901	8	Martin	Svoboda	M	Mgr.		36	vedoucí obchodního střediska	Libčany	99	80	0
-5201	570249	1	2	371	1	Aleš	Etrych	M			45	nástrojař	Libčany	99	80	0
-5201	570249	1	2	371	2	Michal	Jouda	M	Ing.		26	analytik	Libčany	7	7	0
-5201	570249	1	2	371	3	Rudolf	Jouda	M			50	dispečer provozu	Libčany	99	80	0
-5201	570249	1	2	371	4	Petr	Kaplan	M	Ing.		49	OSVČ	Libčany	99	80	0
-5201	570249	1	2	371	5	Miroslav	Slavíček	M	Ing.		53	ekonom	Libčany	99	80	0
-5201	570249	1	2	371	6	Jana	Srpková	F			48	administrativní pracovnice	Libčany	99	80	0
-5201	570249	1	2	371	7	Jana	Voženílková	F			32	prodavačka	Želí	99	80	0
-5201	570249	1	2	371	8	Martina	Leierová	F			34	student	Libčany	99	80	0
-5201	570249	1	2	371	9	David	Červenka	M			25	technik	Libčany	99	80	0
-5201	570249	1	2	371	10	Roman	Žitek	M			46	sanitář FN	Libčany	99	80	0
-5201	570249	1	2	371	11	Jan	Studnička	M	MUDr.		36	lékař	Libčany	99	80	0
-5201	570249	1	3	902	1	Lukáš	Horský	M			26	region manager	Želí	99	80	0
-5201	570249	1	3	902	2	Radek	Petira	M			37	skladník	Želí	99	80	0
-5201	570249	1	3	902	3	Jan	Šťásek	M			26	zemědělský pracovník	Želí	99	80	0
-5201	570249	1	3	902	4	Jaroslav	Mádlo	M			40	živnostník	Želí	99	80	0
-5201	570249	1	3	902	5	Miloslava	Mádlová	F			40	expedientka	Želí	99	80	0
-5201	570249	1	3	902	6	Stanislav	Palina	M			48	skladník	Libčany	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	570249	1	1	901	1	Tomáš	Slavík	Ing.		36	finanční analytik	Libčany	99	80	0	M
+5201	570249	1	2	371	1	Aleš	Etrych			45	nástrojař	Libčany	99	80	0	M
+5201	570249	1	3	902	1	Lukáš	Horský			26	region manager	Želí	99	80	0	M
+5201	570249	1	1	901	2	Marek	Pišl			35	podnikatel	Libčany	99	80	0	M
+5201	570249	1	2	371	2	Michal	Jouda	Ing.		26	analytik	Libčany	7	7	0	M
+5201	570249	1	3	902	2	Radek	Petira			37	skladník	Želí	99	80	0	M
+5201	570249	1	1	901	3	Jaroslav	Plodek	Ing.		40	jednatel společnosti	Libčany	99	80	0	M
+5201	570249	1	2	371	3	Rudolf	Jouda			50	dispečer provozu	Libčany	99	80	0	M
+5201	570249	1	3	902	3	Jan	Šťásek			26	zemědělský pracovník	Želí	99	80	0	M
+5201	570249	1	1	901	4	Petr	Lexa			43	montér	Libčany	99	80	0	M
+5201	570249	1	2	371	4	Petr	Kaplan	Ing.		49	OSVČ	Libčany	99	80	0	M
+5201	570249	1	3	902	4	Jaroslav	Mádlo			40	živnostník	Želí	99	80	0	M
+5201	570249	1	1	901	5	Josef	Stránský			42	vedoucí skladu	Libčany	99	80	0	M
+5201	570249	1	2	371	5	Miroslav	Slavíček	Ing.		53	ekonom	Libčany	99	80	0	M
+5201	570249	1	3	902	5	Miloslava	Mádlová			40	expedientka	Želí	99	80	0	F
+5201	570249	1	1	901	6	Jaroslava	Slavíková	Mgr.		57	manažerka	Libčany	99	80	0	F
+5201	570249	1	2	371	6	Jana	Srpková			48	administrativní pracovnice	Libčany	99	80	0	F
+5201	570249	1	3	902	6	Stanislav	Palina			48	skladník	Libčany	99	80	0	M
+5201	570249	1	1	901	7	Pavel	Herbrych			44	technik	Libčany	99	80	0	M
+5201	570249	1	2	371	7	Jana	Voženílková			32	prodavačka	Želí	99	80	0	F
+5201	570249	1	1	901	8	Martin	Svoboda	Mgr.		36	vedoucí obchodního střediska	Libčany	99	80	0	M
+5201	570249	1	2	371	8	Martina	Leierová			34	student	Libčany	99	80	0	F
+5201	570249	1	2	371	9	David	Červenka			25	technik	Libčany	99	80	0	M
+5201	570249	1	2	371	10	Roman	Žitek			46	sanitář FN	Libčany	99	80	0	M
+5201	570249	1	2	371	11	Jan	Studnička	MUDr.		36	lékař	Libčany	99	80	0	M

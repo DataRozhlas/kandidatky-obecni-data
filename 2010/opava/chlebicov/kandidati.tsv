@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	512923	1	1	902	1	Aleš	Gibes	M			46	hasič	Chlebičov	99	80	0
-8105	512923	1	1	902	2	Pavel	Bena	M			39	strojník	Chlebičov	99	80	0
-8105	512923	1	1	902	3	Alena	Sedláčková	F	Mgr.		28	administrativní pracovník	Chlebičov	99	80	0
-8105	512923	1	1	902	4	Jaroslav	Blahetka	M			54	mistr výroby	Chlebičov	99	80	0
-8105	512923	1	1	902	5	Kristína	Lokočová	F			55	administrativní pracovnice	Chlebičov	99	80	0
-8105	512923	1	1	902	6	Petr	Michalík	M			46	zámečník	Chlebičov	99	80	0
-8105	512923	1	1	902	7	Tomáš	König	M			23	stolař	Chlebičov	99	80	0
-8105	512923	1	1	902	8	Stanislav	Slivka	M			46	stolař	Chlebičov	99	80	0
-8105	512923	1	1	902	9	Ivana	Lavická	F			44	v domácnosti	Chlebičov	99	80	0
-8105	512923	1	2	901	1	Ilja	Novotný	M			60	technik	Chlebičov	99	80	0
-8105	512923	1	2	901	2	Emil	König	M			53	technik	Chlebičov	99	80	0
-8105	512923	1	2	901	3	Radovan	Staněk	M	Mgr.		57	učitel	Chlebičov	99	80	0
-8105	512923	1	2	901	4	Ervín	Possel	M	Ing.		57	podnikatel	Chlebičov	99	80	0
-8105	512923	1	2	901	5	Vilém	Stiborský	M	Ing.		44	obchodní zástupce	Chlebičov	99	80	0
-8105	512923	1	2	901	6	Petra	Stanjurová	F	Mgr.		31	učitelka	Chlebičov	99	80	0
-8105	512923	1	2	901	7	Jiří	Otlík	M			45	technik	Chlebičov	99	80	0
-8105	512923	1	2	901	8	Tomáš	Levák	M			25	technik	Chlebičov	99	80	0
-8105	512923	1	2	901	9	Lukáš	Kubný	M			19	student	Chlebičov	99	80	0
-8105	512923	1	3	904	1	Karel	Novák	M			47	technik	Chlebičov	99	80	0
-8105	512923	1	3	904	2	Zdeněk	Moša	M			36	živnostník	Chlebičov	99	80	0
-8105	512923	1	3	904	3	Lukáš	Weiss	M			30	vahař	Chlebičov	99	80	0
-8105	512923	1	3	904	4	Tomáš	Holas	M			32	výzkumný a vývojový pracovník	Chlebičov	99	80	0
-8105	512923	1	3	904	5	Martin	König	M			28	dělník	Chlebičov	99	80	0
-8105	512923	1	3	904	6	Zuzana	Kašná	F			34	vedoucí obchodního oddělení	Chlebičov	99	80	0
-8105	512923	1	3	904	7	Jaromír	Ciesla	M			26	technik CNC strojů	Chlebičov	99	80	0
-8105	512923	1	3	904	8	Manfred	Hubálek	M			57	pedagog	Chlebičov	99	80	0
-8105	512923	1	3	904	9	Anna	Kurková	F			29	ošetřovatelka koní	Chlebičov	99	80	0
-8105	512923	1	4	903	1	Margita	Ihnová	F			54	učitelka odborného výcviku	Chlebičov	99	80	0
-8105	512923	1	4	903	2	Rudolf	Grygarčík	M	Ing. Bc.		51	středoškolský účitel	Chlebičov	99	80	0
-8105	512923	1	4	903	3	Emil	Klimek	M			41	živnostník	Chlebičov	99	80	0
-8105	512923	1	4	903	4	Ludmila	Dihlová	F			56	zdravotní sestra	Chlebičov	99	80	0
-8105	512923	1	4	903	5	Jaroslav	Trávníček	M			41	strojní mechanik	Chlebičov	99	80	0
-8105	512923	1	4	903	6	Emilie	Šafarčíková	F			63	důchodkyně	Chlebičov	99	80	0
-8105	512923	1	4	903	7	Drahomíra	Skuplíková	F			51	dělnice	Chlebičov	99	80	0
-8105	512923	1	4	903	8	Jaroslav	Pešat	M			53	skladník	Chlebičov	99	80	0
-8105	512923	1	4	903	9	Karel	Elek	M			47	živnostník	Chlebičov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	512923	1	1	902	1	Aleš	Gibes			46	hasič	Chlebičov	99	80	0	M
+8105	512923	1	2	901	1	Ilja	Novotný			60	technik	Chlebičov	99	80	0	M
+8105	512923	1	3	904	1	Karel	Novák			47	technik	Chlebičov	99	80	0	M
+8105	512923	1	4	903	1	Margita	Ihnová			54	učitelka odborného výcviku	Chlebičov	99	80	0	F
+8105	512923	1	1	902	2	Pavel	Bena			39	strojník	Chlebičov	99	80	0	M
+8105	512923	1	2	901	2	Emil	König			53	technik	Chlebičov	99	80	0	M
+8105	512923	1	3	904	2	Zdeněk	Moša			36	živnostník	Chlebičov	99	80	0	M
+8105	512923	1	4	903	2	Rudolf	Grygarčík	Ing. Bc.		51	středoškolský účitel	Chlebičov	99	80	0	M
+8105	512923	1	1	902	3	Alena	Sedláčková	Mgr.		28	administrativní pracovník	Chlebičov	99	80	0	F
+8105	512923	1	2	901	3	Radovan	Staněk	Mgr.		57	učitel	Chlebičov	99	80	0	M
+8105	512923	1	3	904	3	Lukáš	Weiss			30	vahař	Chlebičov	99	80	0	M
+8105	512923	1	4	903	3	Emil	Klimek			41	živnostník	Chlebičov	99	80	0	M
+8105	512923	1	1	902	4	Jaroslav	Blahetka			54	mistr výroby	Chlebičov	99	80	0	M
+8105	512923	1	2	901	4	Ervín	Possel	Ing.		57	podnikatel	Chlebičov	99	80	0	M
+8105	512923	1	3	904	4	Tomáš	Holas			32	výzkumný a vývojový pracovník	Chlebičov	99	80	0	M
+8105	512923	1	4	903	4	Ludmila	Dihlová			56	zdravotní sestra	Chlebičov	99	80	0	F
+8105	512923	1	1	902	5	Kristína	Lokočová			55	administrativní pracovnice	Chlebičov	99	80	0	F
+8105	512923	1	2	901	5	Vilém	Stiborský	Ing.		44	obchodní zástupce	Chlebičov	99	80	0	M
+8105	512923	1	3	904	5	Martin	König			28	dělník	Chlebičov	99	80	0	M
+8105	512923	1	4	903	5	Jaroslav	Trávníček			41	strojní mechanik	Chlebičov	99	80	0	M
+8105	512923	1	1	902	6	Petr	Michalík			46	zámečník	Chlebičov	99	80	0	M
+8105	512923	1	2	901	6	Petra	Stanjurová	Mgr.		31	učitelka	Chlebičov	99	80	0	F
+8105	512923	1	3	904	6	Zuzana	Kašná			34	vedoucí obchodního oddělení	Chlebičov	99	80	0	F
+8105	512923	1	4	903	6	Emilie	Šafarčíková			63	důchodkyně	Chlebičov	99	80	0	F
+8105	512923	1	1	902	7	Tomáš	König			23	stolař	Chlebičov	99	80	0	M
+8105	512923	1	2	901	7	Jiří	Otlík			45	technik	Chlebičov	99	80	0	M
+8105	512923	1	3	904	7	Jaromír	Ciesla			26	technik CNC strojů	Chlebičov	99	80	0	M
+8105	512923	1	4	903	7	Drahomíra	Skuplíková			51	dělnice	Chlebičov	99	80	0	F
+8105	512923	1	1	902	8	Stanislav	Slivka			46	stolař	Chlebičov	99	80	0	M
+8105	512923	1	2	901	8	Tomáš	Levák			25	technik	Chlebičov	99	80	0	M
+8105	512923	1	3	904	8	Manfred	Hubálek			57	pedagog	Chlebičov	99	80	0	M
+8105	512923	1	4	903	8	Jaroslav	Pešat			53	skladník	Chlebičov	99	80	0	M
+8105	512923	1	1	902	9	Ivana	Lavická			44	v domácnosti	Chlebičov	99	80	0	F
+8105	512923	1	2	901	9	Lukáš	Kubný			19	student	Chlebičov	99	80	0	M
+8105	512923	1	3	904	9	Anna	Kurková			29	ošetřovatelka koní	Chlebičov	99	80	0	F
+8105	512923	1	4	903	9	Karel	Elek			47	živnostník	Chlebičov	99	80	0	M

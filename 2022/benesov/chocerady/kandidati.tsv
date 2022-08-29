@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	529796	1	1	903	1	Martin	Smetana	M	Mgr.		48	advokát	Chocerady	99	80	A
-2101	529796	1	1	903	2	Eva	Bubnová	F			66	starostka	Chocerady	99	80	A
-2101	529796	1	1	903	3	Dobroslav	Šanda	M			46	OSVČ	Chocerady	99	80	A
-2101	529796	1	1	903	4	Miloslav	Javůrek	M	Bc.		53	státní zaměstnanec	Vestec	99	80	A
-2101	529796	1	1	903	5	Milan	Kocábek	M			50	podnikatel	Chocerady	99	80	A
-2101	529796	1	1	903	6	Lenka	Krejcárková	F			39	podnikatelka	Samechov	99	80	A
-2101	529796	1	1	903	7	Aleš	Vojslavský	M			47	vedoucí mistr	Chocerady	99	80	A
-2101	529796	1	1	903	8	František	Kamelský	M			54	osvětlovač	Chocerady	99	80	A
-2101	529796	1	1	903	9	Miroslava	Bažantová	F			44	učitelka ZŠ a ZUŠ	Chocerady	99	80	A
-2101	529796	1	1	903	10	Zdeněk	Šarbach	M			38	strojvedoucí	Samechov	99	80	A
-2101	529796	1	1	903	11	Marie	Solařová	F			33	mateřská dovolená	Chocerady	99	80	A
-2101	529796	1	2	902	1	Milan	Bober	M			47	pracovník kovošrotu	Chocerady	99	80	A
-2101	529796	1	2	902	2	Martin	Dřízhal	M			43	IT specialista	Chocerady	99	80	A
-2101	529796	1	2	902	3	František	Kuliš	M			40	IT specialista	Chocerady	99	80	A
-2101	529796	1	2	902	4	Marek	Žák	M			36	živnostník	Vlkovec	99	80	A
-2101	529796	1	2	902	5	David	Kratochvíl	M			29	živnostník	Vlkovec	99	80	A
-2101	529796	1	2	902	6	Luboš	Javůrek	M			28	státní zaměstnanec	Chocerady	99	80	A
-2101	529796	1	2	902	7	Josef	Herda	M			37	živnostník	Chocerady	99	80	A
-2101	529796	1	2	902	8	Martin	Bašta	M			66	důchodce	Chocerady	99	80	A
-2101	529796	1	2	902	9	Pavel	Řejha	M			49	zedník	Chocerady	99	80	A
-2101	529796	1	2	902	10	Eva	Burešová	F			66	důchodkyně	Chocerady	99	80	A
-2101	529796	1	2	902	11	Jan	Herbst	M			63	důchodce	Komorní Hrádek	99	80	A
-2101	529796	1	3	901	1	Martin	Kůrka	M			38	administrativní pracovník	Samechov	99	80	A
-2101	529796	1	3	901	2	Petra	Jeništová	F	Ing.		49	projektový manažer	Chocerady	99	80	A
-2101	529796	1	3	901	3	Jan	Krejcárek	M			54	řidič - záchranář	Samechov	99	80	A
-2101	529796	1	3	901	4	Petr	Vlach	M	Ing.		45	OSVČ	Chocerady	99	80	A
-2101	529796	1	3	901	5	Josef	Vávra	M			30	OSVČ	Vestec	99	80	A
-2101	529796	1	3	901	6	Vojtěch	Kratochvíl	M			27	soukromý zemědělec	Vlkovec	99	80	A
-2101	529796	1	3	901	7	Luboš	Turek	M			45	technik	Vlkovec	99	80	A
-2101	529796	1	3	901	8	Zdeněk	Šimbera	M	MUDr.		70	praktický lékař	Chocerady	99	80	A
-2101	529796	1	3	901	9	Anna	Jeništová	F			20	studentka VŠ	Chocerady	99	80	A
-2101	529796	1	3	901	10	Jaroslava	Svobodová	F			63	důchodkyně	Vlkovec	99	80	A
-2101	529796	1	3	901	11	Vladislav	Havránek	M			68	důchodce	Vestec	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	529796	1	1	903	1	Martin	Smetana	Mgr.		48	advokát	Chocerady	99	80	A	M
+2101	529796	1	2	902	1	Milan	Bober			47	pracovník kovošrotu	Chocerady	99	80	A	M
+2101	529796	1	3	901	1	Martin	Kůrka			38	administrativní pracovník	Samechov	99	80	A	M
+2101	529796	1	1	903	2	Eva	Bubnová			66	starostka	Chocerady	99	80	A	F
+2101	529796	1	2	902	2	Martin	Dřízhal			43	IT specialista	Chocerady	99	80	A	M
+2101	529796	1	3	901	2	Petra	Jeništová	Ing.		49	projektový manažer	Chocerady	99	80	A	F
+2101	529796	1	1	903	3	Dobroslav	Šanda			46	OSVČ	Chocerady	99	80	A	M
+2101	529796	1	2	902	3	František	Kuliš			40	IT specialista	Chocerady	99	80	A	M
+2101	529796	1	3	901	3	Jan	Krejcárek			54	řidič - záchranář	Samechov	99	80	A	M
+2101	529796	1	1	903	4	Miloslav	Javůrek	Bc.		53	státní zaměstnanec	Vestec	99	80	A	M
+2101	529796	1	2	902	4	Marek	Žák			36	živnostník	Vlkovec	99	80	A	M
+2101	529796	1	3	901	4	Petr	Vlach	Ing.		45	OSVČ	Chocerady	99	80	A	M
+2101	529796	1	1	903	5	Milan	Kocábek			50	podnikatel	Chocerady	99	80	A	M
+2101	529796	1	2	902	5	David	Kratochvíl			29	živnostník	Vlkovec	99	80	A	M
+2101	529796	1	3	901	5	Josef	Vávra			30	OSVČ	Vestec	99	80	A	M
+2101	529796	1	1	903	6	Lenka	Krejcárková			39	podnikatelka	Samechov	99	80	A	F
+2101	529796	1	2	902	6	Luboš	Javůrek			28	státní zaměstnanec	Chocerady	99	80	A	M
+2101	529796	1	3	901	6	Vojtěch	Kratochvíl			27	soukromý zemědělec	Vlkovec	99	80	A	M
+2101	529796	1	1	903	7	Aleš	Vojslavský			47	vedoucí mistr	Chocerady	99	80	A	M
+2101	529796	1	2	902	7	Josef	Herda			37	živnostník	Chocerady	99	80	A	M
+2101	529796	1	3	901	7	Luboš	Turek			45	technik	Vlkovec	99	80	A	M
+2101	529796	1	1	903	8	František	Kamelský			54	osvětlovač	Chocerady	99	80	A	M
+2101	529796	1	2	902	8	Martin	Bašta			66	důchodce	Chocerady	99	80	A	M
+2101	529796	1	3	901	8	Zdeněk	Šimbera	MUDr.		70	praktický lékař	Chocerady	99	80	A	M
+2101	529796	1	1	903	9	Miroslava	Bažantová			44	učitelka ZŠ a ZUŠ	Chocerady	99	80	A	F
+2101	529796	1	2	902	9	Pavel	Řejha			49	zedník	Chocerady	99	80	A	M
+2101	529796	1	3	901	9	Anna	Jeništová			20	studentka VŠ	Chocerady	99	80	A	F
+2101	529796	1	1	903	10	Zdeněk	Šarbach			38	strojvedoucí	Samechov	99	80	A	M
+2101	529796	1	2	902	10	Eva	Burešová			66	důchodkyně	Chocerady	99	80	A	F
+2101	529796	1	3	901	10	Jaroslava	Svobodová			63	důchodkyně	Vlkovec	99	80	A	F
+2101	529796	1	1	903	11	Marie	Solařová			33	mateřská dovolená	Chocerady	99	80	A	F
+2101	529796	1	2	902	11	Jan	Herbst			63	důchodce	Komorní Hrádek	99	80	A	M
+2101	529796	1	3	901	11	Vladislav	Havránek			68	důchodce	Vestec	99	80	A	M

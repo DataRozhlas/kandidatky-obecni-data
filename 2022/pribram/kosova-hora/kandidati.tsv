@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	540498	1	1	470	1	Martin	Krameš	M			47	starosta obce	Kosova Hora	99	166	A
-2111	540498	1	1	470	2	Lenka	Havlíčková	F			68	místostarostka	Kosova Hora	166	166	A
-2111	540498	1	1	470	3	Jitka	Váňová	F			64	OSVČ	Dohnalova Lhota	99	166	A
-2111	540498	1	1	470	4	Petr	Vršecký	M			58	dělník	Kosova Hora	99	166	A
-2111	540498	1	1	470	5	Jana	Němcová	F	Mgr.		57	učitelka	Kosova Hora	99	166	A
-2111	540498	1	1	470	6	Jiří	Burian	M			38	OSVČ	Lavičky	99	166	A
-2111	540498	1	1	470	7	Jaroslav	Pokorný	M			66	důchodce	Lovčice	99	166	A
-2111	540498	1	1	470	8	Ondřej	Sejkora	M	Ing.		37	vedoucí oddělení SFŽP ČR Kosova Hora	Kosova Hora	99	166	A
-2111	540498	1	1	470	9	Markéta	Macháčková	F	Ing. arch.		26	architektka	Janov	99	166	A
-2111	540498	1	1	470	10	Martin	Pyšna	M			40	projektant	Kosova Hora	99	166	A
-2111	540498	1	1	470	11	Bohumil	Vohanka	M	Ing.		44	produktový manažer	Kosova Hora	99	166	A
-2111	540498	1	1	470	12	Ondřej	Belza	M			40	OSVČ	Kosova Hora	99	166	A
-2111	540498	1	1	470	13	Ivana	Procházková	F			47	účetní	Kosova Hora	99	166	A
-2111	540498	1	1	470	14	Libor	Hnilička	M	Ing.		31	lesník	Dohnalova Lhota	99	166	A
-2111	540498	1	1	470	15	Blanka	Vlasová	F			64	důchodkyně	Kosova Hora	99	166	A
-2111	540498	1	2	901	1	Ladislav	Hodík	M	Bc.		60	bývalý státní zaměstnanec	Kosova Hora	99	80	A
-2111	540498	1	2	901	2	Martin	Fiala	M	Bc.		56	živnostník	Kosova Hora	99	80	A
-2111	540498	1	2	901	3	Pavel	Růzha	M			51	mechanik pneuservisu	Kosova Hora	99	80	A
-2111	540498	1	2	901	4	Pavel	Řehák	M			46	mechanizátor	Lavičky	99	80	A
-2111	540498	1	2	901	5	Alexandr	Jiránek	M			68	důchodce	Kosova Hora	99	80	A
-2111	540498	1	2	901	6	Ladislav	Sůva				55	skladník	Kosova Hora	99	80	A
-2111	540498	1	2	901	7	Filip	Endrst	M			29	profesionální hasič	Kosova Hora	99	80	A
-2111	540498	1	2	901	8	Martin	Rosa	M			52	strojvedoucí	Kosova Hora	99	80	A
-2111	540498	1	2	901	9	Josef	Skalický	M			53	opravář zemědělských strojů	Kosova Hora	99	80	A
-2111	540498	1	2	901	10	Hana	Kadeřábková	F			52	pojišťovací poradce	Přibýška	99	80	A
-2111	540498	1	2	901	11	Jiří	Janů	M	Ing.		68	soudní znalec, odborný lesní hospodář	Kosova Hora	99	80	A
-2111	540498	1	2	901	12	Petra	Skálová	F			39	účetní	Kosova Hora	99	80	A
-2111	540498	1	2	901	13	Jaroslav	Vyskočil	M			50	údržbář	Kosova Hora	99	80	A
-2111	540498	1	2	901	14	Radek	Sirotek	M			49	řidič	Kosova Hora	99	80	A
-2111	540498	1	2	901	15	Jiří	Sůva	M			37	profesionální hasič	Kosova Hora	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	540498	1	1	470	1	Martin	Krameš			47	starosta obce	Kosova Hora	99	166	A	M
+2111	540498	1	2	901	1	Ladislav	Hodík	Bc.		60	bývalý státní zaměstnanec	Kosova Hora	99	80	A	M
+2111	540498	1	1	470	2	Lenka	Havlíčková			68	místostarostka	Kosova Hora	166	166	A	F
+2111	540498	1	2	901	2	Martin	Fiala	Bc.		56	živnostník	Kosova Hora	99	80	A	M
+2111	540498	1	1	470	3	Jitka	Váňová			64	OSVČ	Dohnalova Lhota	99	166	A	F
+2111	540498	1	2	901	3	Pavel	Růzha			51	mechanik pneuservisu	Kosova Hora	99	80	A	M
+2111	540498	1	1	470	4	Petr	Vršecký			58	dělník	Kosova Hora	99	166	A	M
+2111	540498	1	2	901	4	Pavel	Řehák			46	mechanizátor	Lavičky	99	80	A	M
+2111	540498	1	1	470	5	Jana	Němcová	Mgr.		57	učitelka	Kosova Hora	99	166	A	F
+2111	540498	1	2	901	5	Alexandr	Jiránek			68	důchodce	Kosova Hora	99	80	A	M
+2111	540498	1	1	470	6	Jiří	Burian			38	OSVČ	Lavičky	99	166	A	M
+2111	540498	1	2	901	6	Ladislav	Sůva			55	skladník	Kosova Hora	99	80	A	
+2111	540498	1	1	470	7	Jaroslav	Pokorný			66	důchodce	Lovčice	99	166	A	M
+2111	540498	1	2	901	7	Filip	Endrst			29	profesionální hasič	Kosova Hora	99	80	A	M
+2111	540498	1	1	470	8	Ondřej	Sejkora	Ing.		37	vedoucí oddělení SFŽP ČR Kosova Hora	Kosova Hora	99	166	A	M
+2111	540498	1	2	901	8	Martin	Rosa			52	strojvedoucí	Kosova Hora	99	80	A	M
+2111	540498	1	1	470	9	Markéta	Macháčková	Ing. arch.		26	architektka	Janov	99	166	A	F
+2111	540498	1	2	901	9	Josef	Skalický			53	opravář zemědělských strojů	Kosova Hora	99	80	A	M
+2111	540498	1	1	470	10	Martin	Pyšna			40	projektant	Kosova Hora	99	166	A	M
+2111	540498	1	2	901	10	Hana	Kadeřábková			52	pojišťovací poradce	Přibýška	99	80	A	F
+2111	540498	1	1	470	11	Bohumil	Vohanka	Ing.		44	produktový manažer	Kosova Hora	99	166	A	M
+2111	540498	1	2	901	11	Jiří	Janů	Ing.		68	soudní znalec, odborný lesní hospodář	Kosova Hora	99	80	A	M
+2111	540498	1	1	470	12	Ondřej	Belza			40	OSVČ	Kosova Hora	99	166	A	M
+2111	540498	1	2	901	12	Petra	Skálová			39	účetní	Kosova Hora	99	80	A	F
+2111	540498	1	1	470	13	Ivana	Procházková			47	účetní	Kosova Hora	99	166	A	F
+2111	540498	1	2	901	13	Jaroslav	Vyskočil			50	údržbář	Kosova Hora	99	80	A	M
+2111	540498	1	1	470	14	Libor	Hnilička	Ing.		31	lesník	Dohnalova Lhota	99	166	A	M
+2111	540498	1	2	901	14	Radek	Sirotek			49	řidič	Kosova Hora	99	80	A	M
+2111	540498	1	1	470	15	Blanka	Vlasová			64	důchodkyně	Kosova Hora	99	166	A	F
+2111	540498	1	2	901	15	Jiří	Sůva			37	profesionální hasič	Kosova Hora	99	80	A	M

@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6204	584355	1	1	901	1	Zdeněk	Slavík	M	Mgr.		52	učitel	Brod nad Dyjí	99	80	0
-6204	584355	1	1	901	2	Petr	Kolaja	M			36	živnostník	Brod nad Dyjí	99	80	0
-6204	584355	1	1	901	3	Karel	Kalianko	M			30	živnostník	Brod nad Dyjí	99	80	0
-6204	584355	1	1	901	4	Petr	Divoký	M			36	traktorista	Brod nad Dyjí	99	80	0
-6204	584355	1	1	901	5	Petr	Konýček	M			27	živnostník	Brod nad Dyjí	99	80	0
-6204	584355	1	2	47	1	Libor	Janoušek	M			48	podnikatel	Brod nad Dyjí	47	47	0
-6204	584355	1	2	47	2	Pavla	Norková	F			29	rodičovská dovolená	Brod nad Dyjí	99	47	0
-6204	584355	1	2	47	3	Rostislav	Chludil	M			49	zaměstnanec	Brod nad Dyjí	47	47	0
-6204	584355	1	2	47	4	Ladislav	Černek	M			54	zaměstnanec	Brod nad Dyjí	47	47	0
-6204	584355	1	2	47	5	Josef	Uhlík	M			28	zaměstnanec	Brod nad Dyjí	99	47	0
-6204	584355	1	2	47	6	Michala	Janoušková	F			23	studující	Brod nad Dyjí	99	47	0
-6204	584355	1	2	47	7	Květoslav	Jelínek	M			60	zaměstnanec	Brod nad Dyjí	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6204	584355	1	1	901	1	Zdeněk	Slavík	Mgr.		52	učitel	Brod nad Dyjí	99	80	0	M
+6204	584355	1	2	47	1	Libor	Janoušek			48	podnikatel	Brod nad Dyjí	47	47	0	M
+6204	584355	1	1	901	2	Petr	Kolaja			36	živnostník	Brod nad Dyjí	99	80	0	M
+6204	584355	1	2	47	2	Pavla	Norková			29	rodičovská dovolená	Brod nad Dyjí	99	47	0	F
+6204	584355	1	1	901	3	Karel	Kalianko			30	živnostník	Brod nad Dyjí	99	80	0	M
+6204	584355	1	2	47	3	Rostislav	Chludil			49	zaměstnanec	Brod nad Dyjí	47	47	0	M
+6204	584355	1	1	901	4	Petr	Divoký			36	traktorista	Brod nad Dyjí	99	80	0	M
+6204	584355	1	2	47	4	Ladislav	Černek			54	zaměstnanec	Brod nad Dyjí	47	47	0	M
+6204	584355	1	1	901	5	Petr	Konýček			27	živnostník	Brod nad Dyjí	99	80	0	M
+6204	584355	1	2	47	5	Josef	Uhlík			28	zaměstnanec	Brod nad Dyjí	99	47	0	M
+6204	584355	1	2	47	6	Michala	Janoušková			23	studující	Brod nad Dyjí	99	47	0	F
+6204	584355	1	2	47	7	Květoslav	Jelínek			60	zaměstnanec	Brod nad Dyjí	99	47	0	M

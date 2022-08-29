@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	582352	1	1	901	1	Martin	Mikulášek	M	Ing.		45	starosta	Sloup	99	80	A
-6201	582352	1	1	901	2	Vladimír	Čípek	M			63	školník	Sloup	99	80	A
-6201	582352	1	1	901	3	Petr	Havelka	M	Mgr.		59	soukromý podnikatel	Sloup	99	80	A
-6201	582352	1	1	901	4	Marek	Vymazal	M	Bc.		52	státní zaměstnanec	Sloup	99	80	A
-6201	582352	1	1	901	5	Hynek	Štrajt	M			47	dřevomodelář	Sloup	99	80	A
-6201	582352	1	1	901	6	Michaela	Matějková	F	Mgr.		55	učitelka ZŠ	Sloup	99	80	A
-6201	582352	1	1	901	7	Tomáš	Vybíhal	M	Ing.		40	učitel SŠ	Sloup	99	80	A
-6201	582352	1	1	901	8	Hana	Pernicová	F	Ing.		40	vedoucí kvality	Sloup	99	80	A
-6201	582352	1	1	901	9	Tomáš	Pernica	M	Mgr. Bc.	MBA	41	ICT konzultant	Sloup	99	80	A
-6201	582352	1	2	801	1	Oskar	Novák	M			64	soukromý podnikatel	Sloup	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	582352	1	1	901	1	Martin	Mikulášek	Ing.		45	starosta	Sloup	99	80	A	M
+6201	582352	1	2	801	1	Oskar	Novák			64	soukromý podnikatel	Sloup	99	80	A	M
+6201	582352	1	1	901	2	Vladimír	Čípek			63	školník	Sloup	99	80	A	M
+6201	582352	1	1	901	3	Petr	Havelka	Mgr.		59	soukromý podnikatel	Sloup	99	80	A	M
+6201	582352	1	1	901	4	Marek	Vymazal	Bc.		52	státní zaměstnanec	Sloup	99	80	A	M
+6201	582352	1	1	901	5	Hynek	Štrajt			47	dřevomodelář	Sloup	99	80	A	M
+6201	582352	1	1	901	6	Michaela	Matějková	Mgr.		55	učitelka ZŠ	Sloup	99	80	A	F
+6201	582352	1	1	901	7	Tomáš	Vybíhal	Ing.		40	učitel SŠ	Sloup	99	80	A	M
+6201	582352	1	1	901	8	Hana	Pernicová	Ing.		40	vedoucí kvality	Sloup	99	80	A	F
+6201	582352	1	1	901	9	Tomáš	Pernica	Mgr. Bc.	MBA	41	ICT konzultant	Sloup	99	80	A	M

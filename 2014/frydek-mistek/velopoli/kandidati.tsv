@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8102	552615	1	1	901	1	Petr	Krzywoń	M	Ing.		59	vedoucí pracovník	Vělopolí	99	80	0
-8102	552615	1	1	901	2	Petr	Guznar	M			58	instalatér	Vělopolí	99	80	0
-8102	552615	1	1	901	3	Martin	Jursa	M			35	knihař	Vělopolí	99	80	0
-8102	552615	1	1	901	4	Kristina	Sydorová	F			38	kuchařka	Vělopolí	99	80	0
-8102	552615	1	1	901	5	Bronislav	Cieslar	M			63	důchodce	Vělopolí	99	80	0
-8102	552615	1	2	903	1	Aleš	Stebel	M	Ing.		45	živnostník (OSVČ)	Vělopolí	99	80	0
-8102	552615	1	2	903	2	Magda	Nogová	F	Ing.		49	zástupkyně ředitele ZŠ	Vělopolí	99	80	0
-8102	552615	1	2	903	3	Renata	Pietrzyková	F	Ing.		33	mateřská dov.	Vělopolí	99	80	0
-8102	552615	1	2	903	4	Jozef	Kriho	M	Ing.		48	programátor	Vělopolí	99	80	0
-8102	552615	1	2	903	5	Martin	Kuchař	M	Mgr.A.		45	sochař (svobod. pov.)	Vělopolí	99	80	0
-8102	552615	1	3	902	1	Vladislava	Latochová	F			62	starostka	Vělopolí	99	80	0
-8102	552615	1	3	902	2	Pavel	Kaczmarczyk	M	Ing.		45	elektrotechnik	Vělopolí	99	80	0
-8102	552615	1	3	902	3	Tomáš	Grohmann	M			41	živnostník	Vělopolí	99	80	0
-8102	552615	1	3	902	4	Petr	Landecký	M			45	zámečník	Vělopolí	99	80	0
-8102	552615	1	3	902	5	Tomáš	Sabela	M	Mgr.		32	skladový logistik	Vělopolí	99	80	0
-8102	552615	1	3	902	6	Jan	Przeczek	M			62	technolog	Vělopolí	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8102	552615	1	1	901	1	Petr	Krzywoń	Ing.		59	vedoucí pracovník	Vělopolí	99	80	0	M
+8102	552615	1	2	903	1	Aleš	Stebel	Ing.		45	živnostník (OSVČ)	Vělopolí	99	80	0	M
+8102	552615	1	3	902	1	Vladislava	Latochová			62	starostka	Vělopolí	99	80	0	F
+8102	552615	1	1	901	2	Petr	Guznar			58	instalatér	Vělopolí	99	80	0	M
+8102	552615	1	2	903	2	Magda	Nogová	Ing.		49	zástupkyně ředitele ZŠ	Vělopolí	99	80	0	F
+8102	552615	1	3	902	2	Pavel	Kaczmarczyk	Ing.		45	elektrotechnik	Vělopolí	99	80	0	M
+8102	552615	1	1	901	3	Martin	Jursa			35	knihař	Vělopolí	99	80	0	M
+8102	552615	1	2	903	3	Renata	Pietrzyková	Ing.		33	mateřská dov.	Vělopolí	99	80	0	F
+8102	552615	1	3	902	3	Tomáš	Grohmann			41	živnostník	Vělopolí	99	80	0	M
+8102	552615	1	1	901	4	Kristina	Sydorová			38	kuchařka	Vělopolí	99	80	0	F
+8102	552615	1	2	903	4	Jozef	Kriho	Ing.		48	programátor	Vělopolí	99	80	0	M
+8102	552615	1	3	902	4	Petr	Landecký			45	zámečník	Vělopolí	99	80	0	M
+8102	552615	1	1	901	5	Bronislav	Cieslar			63	důchodce	Vělopolí	99	80	0	M
+8102	552615	1	2	903	5	Martin	Kuchař	Mgr.A.		45	sochař (svobod. pov.)	Vělopolí	99	80	0	M
+8102	552615	1	3	902	5	Tomáš	Sabela	Mgr.		32	skladový logistik	Vělopolí	99	80	0	M
+8102	552615	1	3	902	6	Jan	Przeczek			62	technolog	Vělopolí	99	80	0	M

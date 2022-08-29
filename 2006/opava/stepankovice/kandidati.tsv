@@ -1,39 +1,39 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	510483	1	1	47	1	Jaroslav	Bláha	M			38	OSVČ	Svoboda	47	47	0
-8105	510483	1	1	47	2	Bořivoj	Karas	M			56	stavební technik	Štěpánkovice	47	47	0
-8105	510483	1	1	47	3	Kateřina	Kolářová	F			35	pracovnice autoškoly	Štěpánkovice	99	47	0
-8105	510483	1	1	47	4	Manfred	Harasim	M			64	důchodce	Štěpánkovice	99	47	0
-8105	510483	1	1	47	5	Arnošt	Malchar	M			66	důchodce	Štěpánkovice	99	47	0
-8105	510483	1	1	47	6	Jaroslav	Záloha	M			75	důchodce	Štěpánkovice	47	47	0
-8105	510483	1	1	47	7	Miroslav	Chorabík	M			83	důchodce	Štěpánkovice	47	47	0
-8105	510483	1	1	47	8	Josef	Abrahamčík	M			56	dělník	Štěpánkovice	99	47	0
-8105	510483	1	2	902	1	Bernard	Halfar	M			50	místostarosta	Štěpánkovice	99	80	0
-8105	510483	1	2	902	2	Rudolf	Nevřela	M	Ing.		51	vedoucí výroby	Štěpánkovice	99	80	0
-8105	510483	1	2	902	3	Tomáš	Volný	M	Mgr.		29	právník	Štěpánkovice	99	80	0
-8105	510483	1	2	902	4	Michael	Pavlásek	M	Mgr.		32	zástupce ředitelky školy	Svoboda	99	80	0
-8105	510483	1	2	902	5	Josef	Baránek	M	Ing.		53	vedoucí nákupu	Štěpánkovice	99	80	0
-8105	510483	1	2	902	6	Marie	Dluhošová	F	Mgr.		54	ředitelka školy	Štěpánkovice	99	80	0
-8105	510483	1	2	902	7	Jaromír	Nevřela	M			44	provozní technik	Štěpánkovice	99	80	0
-8105	510483	1	2	902	8	Jan	Katolický	M	Mgr.		62	starosta	Štěpánkovice	99	80	0
-8105	510483	1	2	902	9	Miroslav	Záloha	M	Ing.		26	obchodní zástupce	Štěpánkovice	99	80	0
-8105	510483	1	2	902	10	Martina	Teichmannová	F			34	vedoucí knihovny	Štěpánkovice	99	80	0
-8105	510483	1	2	902	11	Vlastimil	Harazim	M			32	podnikatel	Štěpánkovice	99	80	0
-8105	510483	1	2	902	12	Emil	Kurka	M			53	podnikatel	Štěpánkovice	99	80	0
-8105	510483	1	2	902	13	Jana	Poláková	F	MUDr.		50	lékařka	Štěpánkovice	99	80	0
-8105	510483	1	2	902	14	Tomáš	Bollek	M	Ing.		38	informační technik	Štěpánkovice	99	80	0
-8105	510483	1	2	902	15	Josef	Jankovský	M			49	dělník	Štěpánkovice	99	80	0
-8105	510483	1	3	901	1	Jiří	Kolečkář	M			32	elektromechanik	Štěpánkovice	99	80	0
-8105	510483	1	3	901	2	Bohuslav	Czudek	M	Ing.		32	manažer	Štěpánkovice	99	80	0
-8105	510483	1	3	901	3	Martin	Kurka	M			33	technolog	Štěpánkovice	99	80	0
-8105	510483	1	3	901	4	Gerhard	Ondruf	M			49	podnikatel	Štěpánkovice	99	80	0
-8105	510483	1	3	901	5	Josef	Staňura	M			56	důchodce	Bílá Bříza	99	80	0
-8105	510483	1	3	901	6	Rostislav	Sliwka	M			42	stavbyvedoucí	Štěpánkovice	99	80	0
-8105	510483	1	3	901	7	Jana	Stromská	F			29	podnikatelka	Štěpánkovice	99	80	0
-8105	510483	1	3	901	8	Josef	Fichna	M	Mgr.		36	učitel	Štěpánkovice	99	80	0
-8105	510483	1	3	901	9	Pavlína	Moldříková	F	Ing.		31	účetní	Štěpánkovice	99	80	0
-8105	510483	1	3	901	10	Drahomíra	Harasimová	F			32	účetní	Štěpánkovice	99	80	0
-8105	510483	1	3	901	11	Vilém	Obrusník	M			46	podnikatel	Štěpánkovice	99	80	0
-8105	510483	1	3	901	12	Reinhold	Kurka	M			41	manažer	Štěpánkovice	99	80	0
-8105	510483	1	3	901	13	Marcel	Harasim	M			36	podnikatel	Štěpánkovice	99	80	0
-8105	510483	1	3	901	14	Bohumil	Vybrančík	M			42	hasič	Štěpánkovice	99	80	0
-8105	510483	1	3	901	15	Pavel	Grigarčík	M			32	podnikatel	Štěpánkovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	510483	1	1	47	1	Jaroslav	Bláha			38	OSVČ	Svoboda	47	47	0	M
+8105	510483	1	2	902	1	Bernard	Halfar			50	místostarosta	Štěpánkovice	99	80	0	M
+8105	510483	1	3	901	1	Jiří	Kolečkář			32	elektromechanik	Štěpánkovice	99	80	0	M
+8105	510483	1	1	47	2	Bořivoj	Karas			56	stavební technik	Štěpánkovice	47	47	0	M
+8105	510483	1	2	902	2	Rudolf	Nevřela	Ing.		51	vedoucí výroby	Štěpánkovice	99	80	0	M
+8105	510483	1	3	901	2	Bohuslav	Czudek	Ing.		32	manažer	Štěpánkovice	99	80	0	M
+8105	510483	1	1	47	3	Kateřina	Kolářová			35	pracovnice autoškoly	Štěpánkovice	99	47	0	F
+8105	510483	1	2	902	3	Tomáš	Volný	Mgr.		29	právník	Štěpánkovice	99	80	0	M
+8105	510483	1	3	901	3	Martin	Kurka			33	technolog	Štěpánkovice	99	80	0	M
+8105	510483	1	1	47	4	Manfred	Harasim			64	důchodce	Štěpánkovice	99	47	0	M
+8105	510483	1	2	902	4	Michael	Pavlásek	Mgr.		32	zástupce ředitelky školy	Svoboda	99	80	0	M
+8105	510483	1	3	901	4	Gerhard	Ondruf			49	podnikatel	Štěpánkovice	99	80	0	M
+8105	510483	1	1	47	5	Arnošt	Malchar			66	důchodce	Štěpánkovice	99	47	0	M
+8105	510483	1	2	902	5	Josef	Baránek	Ing.		53	vedoucí nákupu	Štěpánkovice	99	80	0	M
+8105	510483	1	3	901	5	Josef	Staňura			56	důchodce	Bílá Bříza	99	80	0	M
+8105	510483	1	1	47	6	Jaroslav	Záloha			75	důchodce	Štěpánkovice	47	47	0	M
+8105	510483	1	2	902	6	Marie	Dluhošová	Mgr.		54	ředitelka školy	Štěpánkovice	99	80	0	F
+8105	510483	1	3	901	6	Rostislav	Sliwka			42	stavbyvedoucí	Štěpánkovice	99	80	0	M
+8105	510483	1	1	47	7	Miroslav	Chorabík			83	důchodce	Štěpánkovice	47	47	0	M
+8105	510483	1	2	902	7	Jaromír	Nevřela			44	provozní technik	Štěpánkovice	99	80	0	M
+8105	510483	1	3	901	7	Jana	Stromská			29	podnikatelka	Štěpánkovice	99	80	0	F
+8105	510483	1	1	47	8	Josef	Abrahamčík			56	dělník	Štěpánkovice	99	47	0	M
+8105	510483	1	2	902	8	Jan	Katolický	Mgr.		62	starosta	Štěpánkovice	99	80	0	M
+8105	510483	1	3	901	8	Josef	Fichna	Mgr.		36	učitel	Štěpánkovice	99	80	0	M
+8105	510483	1	2	902	9	Miroslav	Záloha	Ing.		26	obchodní zástupce	Štěpánkovice	99	80	0	M
+8105	510483	1	3	901	9	Pavlína	Moldříková	Ing.		31	účetní	Štěpánkovice	99	80	0	F
+8105	510483	1	2	902	10	Martina	Teichmannová			34	vedoucí knihovny	Štěpánkovice	99	80	0	F
+8105	510483	1	3	901	10	Drahomíra	Harasimová			32	účetní	Štěpánkovice	99	80	0	F
+8105	510483	1	2	902	11	Vlastimil	Harazim			32	podnikatel	Štěpánkovice	99	80	0	M
+8105	510483	1	3	901	11	Vilém	Obrusník			46	podnikatel	Štěpánkovice	99	80	0	M
+8105	510483	1	2	902	12	Emil	Kurka			53	podnikatel	Štěpánkovice	99	80	0	M
+8105	510483	1	3	901	12	Reinhold	Kurka			41	manažer	Štěpánkovice	99	80	0	M
+8105	510483	1	2	902	13	Jana	Poláková	MUDr.		50	lékařka	Štěpánkovice	99	80	0	F
+8105	510483	1	3	901	13	Marcel	Harasim			36	podnikatel	Štěpánkovice	99	80	0	M
+8105	510483	1	2	902	14	Tomáš	Bollek	Ing.		38	informační technik	Štěpánkovice	99	80	0	M
+8105	510483	1	3	901	14	Bohumil	Vybrančík			42	hasič	Štěpánkovice	99	80	0	M
+8105	510483	1	2	902	15	Josef	Jankovský			49	dělník	Štěpánkovice	99	80	0	M
+8105	510483	1	3	901	15	Pavel	Grigarčík			32	podnikatel	Štěpánkovice	99	80	0	M

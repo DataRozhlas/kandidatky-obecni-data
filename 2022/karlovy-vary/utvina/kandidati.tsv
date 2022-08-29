@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4102	555681	1	1	806	1	Milan	Větrovec	M			58	zaměstnanec firmy	Útvina	99	80	A
-4102	555681	1	2	804	1	Vít	Červenka	M	Mgr.		52	tajemník městského úřadu	Útvina	99	80	A
-4102	555681	1	3	803	1	Josef	Chrenák	M			40	vedoucí servisu	Útvina	99	80	A
-4102	555681	1	4	807	1	Radek	Matlák	M			44	bez pracovního poměru	Útvina	99	80	A
-4102	555681	1	5	901	1	Jana	Křížová	F			46	operátor montáže - školitel	Útvina	99	80	A
-4102	555681	1	5	901	2	Marcela	Staňková	F			54	operátor montáže - školitel	Útvina	99	80	A
-4102	555681	1	5	901	3	Zdeněk	Kříž	M			62	řidič	Útvina	99	80	A
-4102	555681	1	5	901	4	Nikola	Hromková	F			32	operátor montáže - školitel	Útvina	99	80	A
-4102	555681	1	6	902	1	Lenka	Straková	F	Ing.		58	ekonom	Útvina	99	80	A
-4102	555681	1	6	902	2	Miroslav	Mikula	M			66	vedoucí dopravy	Útvina	99	80	A
-4102	555681	1	6	902	3	Michaela	Široká	F	Mgr.		51	OSVČ	Útvina	99	80	A
-4102	555681	1	6	902	4	Jan	Krejča	M			35	OSVČ	Útvina	99	80	A
-4102	555681	1	6	902	5	Vladimír	Šebek	M			56	údržbář	Útvina	99	80	A
-4102	555681	1	6	902	6	Václav	Turek	M			64	OSVČ	Útvina	99	80	A
-4102	555681	1	6	902	7	Eva	Fedosejevová	F			42	stavbyvedoucí	Chylice	99	80	A
-4102	555681	1	6	902	8	Miroslav	Studnička	M			43	OSVČ	Útvina	99	80	A
-4102	555681	1	6	902	9	Ivana	Květoňová	F	Ing.		60	OSVČ	Sedlo	99	80	A
-4102	555681	1	7	802	1	Petra	Račanská	F			44	ČP - procesní specialista	Útvina	99	80	A
-4102	555681	1	8	805	1	Petr	Šulc	M			53	manažer nákupu a výroby	Útvina	99	80	A
-4102	555681	1	9	801	1	Monika	Hejkalová	F			43	čalounice	Útvina	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4102	555681	1	1	806	1	Milan	Větrovec			58	zaměstnanec firmy	Útvina	99	80	A	M
+4102	555681	1	2	804	1	Vít	Červenka	Mgr.		52	tajemník městského úřadu	Útvina	99	80	A	M
+4102	555681	1	3	803	1	Josef	Chrenák			40	vedoucí servisu	Útvina	99	80	A	M
+4102	555681	1	4	807	1	Radek	Matlák			44	bez pracovního poměru	Útvina	99	80	A	M
+4102	555681	1	5	901	1	Jana	Křížová			46	operátor montáže - školitel	Útvina	99	80	A	F
+4102	555681	1	6	902	1	Lenka	Straková	Ing.		58	ekonom	Útvina	99	80	A	F
+4102	555681	1	7	802	1	Petra	Račanská			44	ČP - procesní specialista	Útvina	99	80	A	F
+4102	555681	1	8	805	1	Petr	Šulc			53	manažer nákupu a výroby	Útvina	99	80	A	M
+4102	555681	1	9	801	1	Monika	Hejkalová			43	čalounice	Útvina	99	80	A	F
+4102	555681	1	5	901	2	Marcela	Staňková			54	operátor montáže - školitel	Útvina	99	80	A	F
+4102	555681	1	6	902	2	Miroslav	Mikula			66	vedoucí dopravy	Útvina	99	80	A	M
+4102	555681	1	5	901	3	Zdeněk	Kříž			62	řidič	Útvina	99	80	A	M
+4102	555681	1	6	902	3	Michaela	Široká	Mgr.		51	OSVČ	Útvina	99	80	A	F
+4102	555681	1	5	901	4	Nikola	Hromková			32	operátor montáže - školitel	Útvina	99	80	A	F
+4102	555681	1	6	902	4	Jan	Krejča			35	OSVČ	Útvina	99	80	A	M
+4102	555681	1	6	902	5	Vladimír	Šebek			56	údržbář	Útvina	99	80	A	M
+4102	555681	1	6	902	6	Václav	Turek			64	OSVČ	Útvina	99	80	A	M
+4102	555681	1	6	902	7	Eva	Fedosejevová			42	stavbyvedoucí	Chylice	99	80	A	F
+4102	555681	1	6	902	8	Miroslav	Studnička			43	OSVČ	Útvina	99	80	A	M
+4102	555681	1	6	902	9	Ivana	Květoňová	Ing.		60	OSVČ	Sedlo	99	80	A	F

@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	578894	1	1	1	1	Alexandr	Mertl	M	Ing.		42	projektant	Trstěnice	99	1	0
-5303	578894	1	1	1	2	Petr	Krejsa	M			37	dělník	Trstěnice	99	1	0
-5303	578894	1	1	1	3	Jaroslav	Cacek	M	MUDr.		57	praktický lékař	Trstěnice	1	1	0
-5303	578894	1	1	1	4	Jan	Kmošek	M			33	PFP ING	Trstěnice	99	1	0
-5303	578894	1	1	1	5	Alena	Pechrová	F			37	ošetřovatelka skotu	Trstěnice	99	1	0
-5303	578894	1	1	1	6	Miriam	Holubcová	F			46	vychovatelka	Trstěnice	99	1	0
-5303	578894	1	1	1	7	Božena	Elčknerová	F			56	důchodkyně	Trstěnice	1	1	0
-5303	578894	1	1	1	8	Jan	Kuchta	M			55	dělník	Trstěnice	99	1	0
-5303	578894	1	1	1	9	Marta	Zandlerová	F			60	důchodkyně	Trstěnice	99	1	0
-5303	578894	1	2	901	1	Jan	Sigl	M			55	starosta obce	Trstěnice	99	80	0
-5303	578894	1	2	901	2	Marcela	Šplíchalová	F	Mgr.		31	učitelka	Trstěnice	99	80	0
-5303	578894	1	2	901	3	Josef	Stráník	M	Ing.		51	technik	Trstěnice	99	80	0
-5303	578894	1	2	901	4	Jana	Vejrychová	F			41	účetní	Trstěnice	99	80	0
-5303	578894	1	2	901	5	Josef	Doležal	M			50	řidič	Trstěnice	99	80	0
-5303	578894	1	2	901	6	Alena	Kmošková	F			43	úřednice	Trstěnice	99	80	0
-5303	578894	1	2	901	7	Simona	Kubešová	F	Mgr.		34	učitelka	Trstěnice	99	80	0
-5303	578894	1	2	901	8	Josef	Mandlík	M			50	technik	Trstěnice	99	80	0
-5303	578894	1	2	901	9	Josef	Hubinka	M			54	technik	Trstěnice	99	80	0
-5303	578894	1	3	5	1	Arnold	Nowak	M			51	výtvarník	Trstěnice	5	5	0
-5303	578894	1	3	5	2	Jakub	Kodym	M			24	učitel	Trstěnice	5	5	0
-5303	578894	1	3	5	3	Radovan	Kuchta	M			28	soukromý zemědělec	Trstěnice	99	5	0
-5303	578894	1	3	5	4	Pavlína	Kopecká	F			22	studentka	Trstěnice	99	5	0
-5303	578894	1	3	5	5	Pavel	Novotný	M			43	zedník	Trstěnice	99	5	0
-5303	578894	1	3	5	6	Kateřina	Brzková	F	Bc.		44	úřednice	Trstěnice	99	5	0
-5303	578894	1	3	5	7	Martin	Černohorský	M			28	tiskař	Trstěnice	5	5	0
-5303	578894	1	3	5	8	Mikuláš	Kodym	M		DiS.	23	restaurátor	Trstěnice	99	5	0
-5303	578894	1	3	5	9	Tomáš	Pánek	M			27	servisní technik	Trstěnice	99	5	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	578894	1	1	1	1	Alexandr	Mertl	Ing.		42	projektant	Trstěnice	99	1	0	M
+5303	578894	1	2	901	1	Jan	Sigl			55	starosta obce	Trstěnice	99	80	0	M
+5303	578894	1	3	5	1	Arnold	Nowak			51	výtvarník	Trstěnice	5	5	0	M
+5303	578894	1	1	1	2	Petr	Krejsa			37	dělník	Trstěnice	99	1	0	M
+5303	578894	1	2	901	2	Marcela	Šplíchalová	Mgr.		31	učitelka	Trstěnice	99	80	0	F
+5303	578894	1	3	5	2	Jakub	Kodym			24	učitel	Trstěnice	5	5	0	M
+5303	578894	1	1	1	3	Jaroslav	Cacek	MUDr.		57	praktický lékař	Trstěnice	1	1	0	M
+5303	578894	1	2	901	3	Josef	Stráník	Ing.		51	technik	Trstěnice	99	80	0	M
+5303	578894	1	3	5	3	Radovan	Kuchta			28	soukromý zemědělec	Trstěnice	99	5	0	M
+5303	578894	1	1	1	4	Jan	Kmošek			33	PFP ING	Trstěnice	99	1	0	M
+5303	578894	1	2	901	4	Jana	Vejrychová			41	účetní	Trstěnice	99	80	0	F
+5303	578894	1	3	5	4	Pavlína	Kopecká			22	studentka	Trstěnice	99	5	0	F
+5303	578894	1	1	1	5	Alena	Pechrová			37	ošetřovatelka skotu	Trstěnice	99	1	0	F
+5303	578894	1	2	901	5	Josef	Doležal			50	řidič	Trstěnice	99	80	0	M
+5303	578894	1	3	5	5	Pavel	Novotný			43	zedník	Trstěnice	99	5	0	M
+5303	578894	1	1	1	6	Miriam	Holubcová			46	vychovatelka	Trstěnice	99	1	0	F
+5303	578894	1	2	901	6	Alena	Kmošková			43	úřednice	Trstěnice	99	80	0	F
+5303	578894	1	3	5	6	Kateřina	Brzková	Bc.		44	úřednice	Trstěnice	99	5	0	F
+5303	578894	1	1	1	7	Božena	Elčknerová			56	důchodkyně	Trstěnice	1	1	0	F
+5303	578894	1	2	901	7	Simona	Kubešová	Mgr.		34	učitelka	Trstěnice	99	80	0	F
+5303	578894	1	3	5	7	Martin	Černohorský			28	tiskař	Trstěnice	5	5	0	M
+5303	578894	1	1	1	8	Jan	Kuchta			55	dělník	Trstěnice	99	1	0	M
+5303	578894	1	2	901	8	Josef	Mandlík			50	technik	Trstěnice	99	80	0	M
+5303	578894	1	3	5	8	Mikuláš	Kodym		DiS.	23	restaurátor	Trstěnice	99	5	0	M
+5303	578894	1	1	1	9	Marta	Zandlerová			60	důchodkyně	Trstěnice	99	1	0	F
+5303	578894	1	2	901	9	Josef	Hubinka			54	technik	Trstěnice	99	80	0	M
+5303	578894	1	3	5	9	Tomáš	Pánek			27	servisní technik	Trstěnice	99	5	0	M

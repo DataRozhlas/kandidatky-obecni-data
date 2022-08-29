@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6205	593354	1	1	902	1	Lukáš	Jelínek	M			29	vedoucí směny	Mouchnice	99	80	0
-6205	593354	1	1	902	2	David	Machálek	M			39	OSVČ	Mouchnice	99	80	0
-6205	593354	1	1	902	3	Dagmar	Koudelková	F			30	rodičovská dovolená	Mouchnice	99	80	0
-6205	593354	1	1	902	4	Radana	Menyhartová	F			26	policistka	Mouchnice	99	80	0
-6205	593354	1	1	902	5	Eva	Jenáčková	F			30	vedoucí logistiky	Mouchnice	99	80	0
-6205	593354	1	1	902	6	Žaneta	Bednaříková	F			35	dělnice	Mouchnice	99	80	0
-6205	593354	1	1	902	7	Vlastimila	Pokorná	F			39	OSVČ	Mouchnice	99	80	0
-6205	593354	1	1	902	8	Petr	Mateleško	M			28	informatik	Mouchnice	99	80	0
-6205	593354	1	2	901	1	Jiří	Janovský	M			58	starosta obce	Mouchnice	99	80	0
-6205	593354	1	2	901	2	Jana	Kudličková	F			41	účetní	Mouchnice	99	80	0
-6205	593354	1	2	901	3	Ivana	Hanáková	F			38	zdravotní sestra	Mouchnice	99	80	0
-6205	593354	1	2	901	4	Simona	Jáchimiáková	F			38	živnostník	Mouchnice	99	80	0
-6205	593354	1	2	901	5	Gustav	Barák	M			66	důchodce	Mouchnice	99	80	0
-6205	593354	1	2	901	6	Šárka	Elznerová	F			35	dělnice	Mouchnice	99	80	0
-6205	593354	1	2	901	7	Věra	Pulerová	F			70	důchodce	Mouchnice	99	80	0
-6205	593354	1	2	901	8	Miriam	Elznerová	F			34	dělnice	Mouchnice	99	80	0
-6205	593354	1	2	901	9	Pavel	Válek	M			32	živnostník	Mouchnice	99	80	0
-6205	593354	1	3	903	1	David	Mateleško	M			34	kvalitář	Mouchnice	99	80	0
-6205	593354	1	3	903	2	Hana	Machálková	F			38	zdravotní sestra	Mouchnice	99	80	0
-6205	593354	1	3	903	3	David	Jelínek	M			30	OSVČ	Mouchnice	99	80	0
-6205	593354	1	3	903	4	Martina	Žáčková	F			34	rodičovská dovolená	Mouchnice	99	80	0
-6205	593354	1	3	903	5	René	Jenáček	M			34	dělník	Mouchnice	99	80	0
-6205	593354	1	3	903	6	Zbyněk	Koudelka	M			30	specialista	Mouchnice	99	80	0
-6205	593354	1	3	903	7	Jarmila	Krejcarová	F			62	důchodce	Mouchnice	1	80	0
-6205	593354	1	3	903	8	Pavel	Prachař	M			26	operátor výroby	Mouchnice	99	80	0
-6205	593354	1	3	903	9	Josef	Hůsek	M			35	voják	Mouchnice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6205	593354	1	1	902	1	Lukáš	Jelínek			29	vedoucí směny	Mouchnice	99	80	0	M
+6205	593354	1	2	901	1	Jiří	Janovský			58	starosta obce	Mouchnice	99	80	0	M
+6205	593354	1	3	903	1	David	Mateleško			34	kvalitář	Mouchnice	99	80	0	M
+6205	593354	1	1	902	2	David	Machálek			39	OSVČ	Mouchnice	99	80	0	M
+6205	593354	1	2	901	2	Jana	Kudličková			41	účetní	Mouchnice	99	80	0	F
+6205	593354	1	3	903	2	Hana	Machálková			38	zdravotní sestra	Mouchnice	99	80	0	F
+6205	593354	1	1	902	3	Dagmar	Koudelková			30	rodičovská dovolená	Mouchnice	99	80	0	F
+6205	593354	1	2	901	3	Ivana	Hanáková			38	zdravotní sestra	Mouchnice	99	80	0	F
+6205	593354	1	3	903	3	David	Jelínek			30	OSVČ	Mouchnice	99	80	0	M
+6205	593354	1	1	902	4	Radana	Menyhartová			26	policistka	Mouchnice	99	80	0	F
+6205	593354	1	2	901	4	Simona	Jáchimiáková			38	živnostník	Mouchnice	99	80	0	F
+6205	593354	1	3	903	4	Martina	Žáčková			34	rodičovská dovolená	Mouchnice	99	80	0	F
+6205	593354	1	1	902	5	Eva	Jenáčková			30	vedoucí logistiky	Mouchnice	99	80	0	F
+6205	593354	1	2	901	5	Gustav	Barák			66	důchodce	Mouchnice	99	80	0	M
+6205	593354	1	3	903	5	René	Jenáček			34	dělník	Mouchnice	99	80	0	M
+6205	593354	1	1	902	6	Žaneta	Bednaříková			35	dělnice	Mouchnice	99	80	0	F
+6205	593354	1	2	901	6	Šárka	Elznerová			35	dělnice	Mouchnice	99	80	0	F
+6205	593354	1	3	903	6	Zbyněk	Koudelka			30	specialista	Mouchnice	99	80	0	M
+6205	593354	1	1	902	7	Vlastimila	Pokorná			39	OSVČ	Mouchnice	99	80	0	F
+6205	593354	1	2	901	7	Věra	Pulerová			70	důchodce	Mouchnice	99	80	0	F
+6205	593354	1	3	903	7	Jarmila	Krejcarová			62	důchodce	Mouchnice	1	80	0	F
+6205	593354	1	1	902	8	Petr	Mateleško			28	informatik	Mouchnice	99	80	0	M
+6205	593354	1	2	901	8	Miriam	Elznerová			34	dělnice	Mouchnice	99	80	0	F
+6205	593354	1	3	903	8	Pavel	Prachař			26	operátor výroby	Mouchnice	99	80	0	M
+6205	593354	1	2	901	9	Pavel	Válek			32	živnostník	Mouchnice	99	80	0	M
+6205	593354	1	3	903	9	Josef	Hůsek			35	voják	Mouchnice	99	80	0	M

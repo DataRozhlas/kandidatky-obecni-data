@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2105	531286	1	1	805	1	Marcel	Olyšar	M			35	modelář	Bratčice	99	80	A
-2105	531286	1	2	480	1	Tabea	Eicher	F			21	studentka	Bratčice	721	721	A
-2105	531286	1	2	480	2	Lucie	Hudcová	F			19	studentka	Bratčice	99	80	A
-2105	531286	1	2	480	3	Michaela	Procházková	F			25	administrativní pracovnice	Bratčice	99	80	A
-2105	531286	1	2	480	4	Martina	Adamová Eicher	F	Mgr.		51	učitelka	Bratčice	99	80	A
-2105	531286	1	3	803	1	Miloslava	Kuperová Miláčková	F			33	policista	Bratčice	99	80	A
-2105	531286	1	4	801	1	Martin	Kupera	M			40	hasič	Bratčice	99	80	A
-2105	531286	1	5	802	1	Pavel	Havránek	M			50	vedoucí pobočky ADIP	Bratčice	99	80	A
-2105	531286	1	6	804	1	Milan	Hudec	M			44	letecký technik	Bratčice	99	80	A
-2105	531286	1	7	53	1	Jiří	Havránek	M	Ing.		25	vysokoškolský pedagog	Bratčice	53	53	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2105	531286	1	1	805	1	Marcel	Olyšar			35	modelář	Bratčice	99	80	A	M
+2105	531286	1	2	480	1	Tabea	Eicher			21	studentka	Bratčice	721	721	A	F
+2105	531286	1	3	803	1	Miloslava	Kuperová Miláčková			33	policista	Bratčice	99	80	A	F
+2105	531286	1	4	801	1	Martin	Kupera			40	hasič	Bratčice	99	80	A	M
+2105	531286	1	5	802	1	Pavel	Havránek			50	vedoucí pobočky ADIP	Bratčice	99	80	A	M
+2105	531286	1	6	804	1	Milan	Hudec			44	letecký technik	Bratčice	99	80	A	M
+2105	531286	1	7	53	1	Jiří	Havránek	Ing.		25	vysokoškolský pedagog	Bratčice	53	53	A	M
+2105	531286	1	2	480	2	Lucie	Hudcová			19	studentka	Bratčice	99	80	A	F
+2105	531286	1	2	480	3	Michaela	Procházková			25	administrativní pracovnice	Bratčice	99	80	A	F
+2105	531286	1	2	480	4	Martina	Adamová Eicher	Mgr.		51	učitelka	Bratčice	99	80	A	F

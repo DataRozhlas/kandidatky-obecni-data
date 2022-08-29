@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	565776	1	1	901	1	Tomáš	Rulf	M	Mgr.		42	ředitel školy	Třebívlice	99	80	0
-4203	565776	1	1	901	2	Karel	Poráč	M			44	soukromý zemědělec	Leská	99	80	0
-4203	565776	1	1	901	3	Milan	Šolar	M			56	elektrikář	Třebívlice	99	80	0
-4203	565776	1	1	901	4	Pavel	Fux	M			54	vedoucí odboru	Třebívlice	99	80	0
-4203	565776	1	1	901	5	Stanislav	Gebhart	M			38	elektrikář	Staré	99	80	0
-4203	565776	1	1	901	6	Radka	Klupáková	F			45	poštovní doručovatelka	Třebívlice	99	80	0
-4203	565776	1	1	901	7	Lenka	Větrovcová	F			41	švadlena	Šepetely	99	80	0
-4203	565776	1	1	901	8	Martin	Lácha	M			48	státní zaměstnanec	Třebívlice	99	80	0
-4203	565776	1	1	901	9	Václav	Šantora	M			53	zámečník	Třebívlice	99	80	0
-4203	565776	1	1	901	10	Tomáš	Klupák	M	Bc.		24	student	Třebívlice	99	80	0
-4203	565776	1	1	901	11	Tomáš	Hrnčíř	M			37	technik	Staré	99	80	0
-4203	565776	1	1	901	12	Vladimír	Škaloud	M	Ing.		48	novinář	Třebívlice	99	80	0
-4203	565776	1	1	901	13	Josef	Pálek	M			46	provozní ředitel	Šepetely	99	80	0
-4203	565776	1	1	901	14	Daniel	Nietsch	M			36	státní zaměstnanec	Třebívlice	99	80	0
-4203	565776	1	1	901	15	Martin	Douša	M			42	traktorista	Třebívlice	99	80	0
-4203	565776	1	2	470	1	Jiří	Sailer	M	MUDr.		69	zubní lékař	Třebívlice	99	80	0
-4203	565776	1	2	470	2	Ladislava	Tichá	F			45	vychovatelka	Třebívlice	99	166	0
-4203	565776	1	2	470	3	Jan	Dienstl	M			65	podnikatel	Třebívlice	53	80	0
-4203	565776	1	2	470	4	Iva	Špringlová	F			48	prodavačka	Dřemčice	99	80	0
-4203	565776	1	2	470	5	Josef	Seifert	M	Mgr.		66	starosta	Třebívlice	99	166	0
-4203	565776	1	2	470	6	Ladislav	Knespl	M	Ing. Bc.		34	úředník	Leská	99	166	0
-4203	565776	1	2	470	7	Karel	Červenka	M			45	konzultant	Šepetely	99	80	0
-4203	565776	1	2	470	8	Jaroslav	Koutský	M	JUDr.		61	právník	Dřevce	99	80	0
-4203	565776	1	2	470	9	Petra	Rulfová	F	Mgr.		47	učitelka	Třebívlice	99	166	0
-4203	565776	1	2	470	10	Lucie	Zvěřinová	F			24	samostatná referentka	Třebívlice	99	80	0
-4203	565776	1	2	470	11	Michaela	Povová	F	Bc.		35	samostatná referentka	Třebívlice	99	80	0
-4203	565776	1	2	470	12	Herbert	Seifert	M	Bc.		22	referent obchodu	Třebívlice	99	80	0
-4203	565776	1	2	470	13	Pavel	Ruffer	M			56	tiskař	Třebívlice	99	166	0
-4203	565776	1	2	470	14	Petr	Svoboda	M			26	operátor výroby	Skalice	99	166	0
-4203	565776	1	2	470	15	Josef	Bér	M			40	technolog	Staré	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	565776	1	1	901	1	Tomáš	Rulf	Mgr.		42	ředitel školy	Třebívlice	99	80	0	M
+4203	565776	1	2	470	1	Jiří	Sailer	MUDr.		69	zubní lékař	Třebívlice	99	80	0	M
+4203	565776	1	1	901	2	Karel	Poráč			44	soukromý zemědělec	Leská	99	80	0	M
+4203	565776	1	2	470	2	Ladislava	Tichá			45	vychovatelka	Třebívlice	99	166	0	F
+4203	565776	1	1	901	3	Milan	Šolar			56	elektrikář	Třebívlice	99	80	0	M
+4203	565776	1	2	470	3	Jan	Dienstl			65	podnikatel	Třebívlice	53	80	0	M
+4203	565776	1	1	901	4	Pavel	Fux			54	vedoucí odboru	Třebívlice	99	80	0	M
+4203	565776	1	2	470	4	Iva	Špringlová			48	prodavačka	Dřemčice	99	80	0	F
+4203	565776	1	1	901	5	Stanislav	Gebhart			38	elektrikář	Staré	99	80	0	M
+4203	565776	1	2	470	5	Josef	Seifert	Mgr.		66	starosta	Třebívlice	99	166	0	M
+4203	565776	1	1	901	6	Radka	Klupáková			45	poštovní doručovatelka	Třebívlice	99	80	0	F
+4203	565776	1	2	470	6	Ladislav	Knespl	Ing. Bc.		34	úředník	Leská	99	166	0	M
+4203	565776	1	1	901	7	Lenka	Větrovcová			41	švadlena	Šepetely	99	80	0	F
+4203	565776	1	2	470	7	Karel	Červenka			45	konzultant	Šepetely	99	80	0	M
+4203	565776	1	1	901	8	Martin	Lácha			48	státní zaměstnanec	Třebívlice	99	80	0	M
+4203	565776	1	2	470	8	Jaroslav	Koutský	JUDr.		61	právník	Dřevce	99	80	0	M
+4203	565776	1	1	901	9	Václav	Šantora			53	zámečník	Třebívlice	99	80	0	M
+4203	565776	1	2	470	9	Petra	Rulfová	Mgr.		47	učitelka	Třebívlice	99	166	0	F
+4203	565776	1	1	901	10	Tomáš	Klupák	Bc.		24	student	Třebívlice	99	80	0	M
+4203	565776	1	2	470	10	Lucie	Zvěřinová			24	samostatná referentka	Třebívlice	99	80	0	F
+4203	565776	1	1	901	11	Tomáš	Hrnčíř			37	technik	Staré	99	80	0	M
+4203	565776	1	2	470	11	Michaela	Povová	Bc.		35	samostatná referentka	Třebívlice	99	80	0	F
+4203	565776	1	1	901	12	Vladimír	Škaloud	Ing.		48	novinář	Třebívlice	99	80	0	M
+4203	565776	1	2	470	12	Herbert	Seifert	Bc.		22	referent obchodu	Třebívlice	99	80	0	M
+4203	565776	1	1	901	13	Josef	Pálek			46	provozní ředitel	Šepetely	99	80	0	M
+4203	565776	1	2	470	13	Pavel	Ruffer			56	tiskař	Třebívlice	99	166	0	M
+4203	565776	1	1	901	14	Daniel	Nietsch			36	státní zaměstnanec	Třebívlice	99	80	0	M
+4203	565776	1	2	470	14	Petr	Svoboda			26	operátor výroby	Skalice	99	166	0	M
+4203	565776	1	1	901	15	Martin	Douša			42	traktorista	Třebívlice	99	80	0	M
+4203	565776	1	2	470	15	Josef	Bér			40	technolog	Staré	99	80	0	M

@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2106	534722	1	1	389	1	Jana	Poláková	F	Mgr.		43	starostka	Byšice	53	53	A
-2106	534722	1	1	389	2	Irena	Zavadilová	F			55	zdravotní sestra, místostarostka	Byšice	99	80	A
-2106	534722	1	1	389	3	František	Viktorín	M	Mgr.		47	ředitel ZŠ a MŠ Byšice	Byšice	99	80	A
-2106	534722	1	1	389	4	Vladimíra	Chalupová	F	Ing.		41	odborný referent	Byšice	99	80	A
-2106	534722	1	1	389	5	Martin	Hora	M			43	programátor	Byšice	99	80	A
-2106	534722	1	1	389	6	Josef	Kolínský	M	Ing.		69	důchodce, elektrotechnik	Byšice	53	53	A
-2106	534722	1	1	389	7	David	Sedláček	M			42	obchodní ředitel	Byšice	99	80	A
-2106	534722	1	1	389	8	Lenka	Vaisová	F			46	účetní	Byšice	99	80	A
-2106	534722	1	1	389	9	Alice	Schovánková	F			41	vedoucí střediska Vitana Byšice	Byšice	99	80	A
-2106	534722	1	2	7	1	Jaroslav	Kostka	M			44	ředitel divize	Byšice	7	7	A
-2106	534722	1	2	7	2	Michal	Šrubař	M			35	OSVČ - stavitel	Byšice	7	7	A
-2106	534722	1	2	7	3	Aleš	Hlaváček	M			46	IZS - záchranář	Byšice	7	7	A
-2106	534722	1	2	7	4	Lucie	Orvošová	F	Ing.		39	učitelka ZŠ	Byšice	7	7	A
-2106	534722	1	2	7	5	Miloš	Charvát	M			42	OSVČ - řezník	Byšice	99	7	A
-2106	534722	1	2	7	6	Věnceslava	Kostková	F			66	důchodce	Byšice	99	7	A
-2106	534722	1	2	7	7	Pavlína	Kernová	F			34	OSVČ - taxi	Byšice	99	7	A
-2106	534722	1	2	7	8	Hana	Švecová	F			72	důchodce	Byšice	99	7	A
-2106	534722	1	3	901	1	Luboš	Uhlíř	M			44	podnikatel	Byšice	99	80	A
-2106	534722	1	3	901	2	Vladimír	Hroško	M			61	technický poradce	Byšice	99	80	A
-2106	534722	1	3	901	3	Jan	Vacek	M			37	technik	Byšice	99	80	A
-2106	534722	1	3	901	4	Jan	Čurda	M			33	ředitel pobočky banky	Byšice	99	80	A
-2106	534722	1	3	901	5	Petr	Dědič	M			33	OSVČ - podnikatel	Byšice	99	80	A
-2106	534722	1	3	901	6	Marian	Schovánek	M	Ing.		41	specialista konstruktér	Byšice	99	80	A
-2106	534722	1	3	901	7	Renata	Lovíšková	F			50	asistentka	Byšice	99	80	A
-2106	534722	1	3	901	8	Jan	Zámečník	M			55	technik	Byšice	99	80	A
-2106	534722	1	3	901	9	Pavel	Macháček	M			42	chemik	Byšice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2106	534722	1	1	389	1	Jana	Poláková	Mgr.		43	starostka	Byšice	53	53	A	F
+2106	534722	1	2	7	1	Jaroslav	Kostka			44	ředitel divize	Byšice	7	7	A	M
+2106	534722	1	3	901	1	Luboš	Uhlíř			44	podnikatel	Byšice	99	80	A	M
+2106	534722	1	1	389	2	Irena	Zavadilová			55	zdravotní sestra, místostarostka	Byšice	99	80	A	F
+2106	534722	1	2	7	2	Michal	Šrubař			35	OSVČ - stavitel	Byšice	7	7	A	M
+2106	534722	1	3	901	2	Vladimír	Hroško			61	technický poradce	Byšice	99	80	A	M
+2106	534722	1	1	389	3	František	Viktorín	Mgr.		47	ředitel ZŠ a MŠ Byšice	Byšice	99	80	A	M
+2106	534722	1	2	7	3	Aleš	Hlaváček			46	IZS - záchranář	Byšice	7	7	A	M
+2106	534722	1	3	901	3	Jan	Vacek			37	technik	Byšice	99	80	A	M
+2106	534722	1	1	389	4	Vladimíra	Chalupová	Ing.		41	odborný referent	Byšice	99	80	A	F
+2106	534722	1	2	7	4	Lucie	Orvošová	Ing.		39	učitelka ZŠ	Byšice	7	7	A	F
+2106	534722	1	3	901	4	Jan	Čurda			33	ředitel pobočky banky	Byšice	99	80	A	M
+2106	534722	1	1	389	5	Martin	Hora			43	programátor	Byšice	99	80	A	M
+2106	534722	1	2	7	5	Miloš	Charvát			42	OSVČ - řezník	Byšice	99	7	A	M
+2106	534722	1	3	901	5	Petr	Dědič			33	OSVČ - podnikatel	Byšice	99	80	A	M
+2106	534722	1	1	389	6	Josef	Kolínský	Ing.		69	důchodce, elektrotechnik	Byšice	53	53	A	M
+2106	534722	1	2	7	6	Věnceslava	Kostková			66	důchodce	Byšice	99	7	A	F
+2106	534722	1	3	901	6	Marian	Schovánek	Ing.		41	specialista konstruktér	Byšice	99	80	A	M
+2106	534722	1	1	389	7	David	Sedláček			42	obchodní ředitel	Byšice	99	80	A	M
+2106	534722	1	2	7	7	Pavlína	Kernová			34	OSVČ - taxi	Byšice	99	7	A	F
+2106	534722	1	3	901	7	Renata	Lovíšková			50	asistentka	Byšice	99	80	A	F
+2106	534722	1	1	389	8	Lenka	Vaisová			46	účetní	Byšice	99	80	A	F
+2106	534722	1	2	7	8	Hana	Švecová			72	důchodce	Byšice	99	7	A	F
+2106	534722	1	3	901	8	Jan	Zámečník			55	technik	Byšice	99	80	A	M
+2106	534722	1	1	389	9	Alice	Schovánková			41	vedoucí střediska Vitana Byšice	Byšice	99	80	A	F
+2106	534722	1	3	901	9	Pavel	Macháček			42	chemik	Byšice	99	80	A	M

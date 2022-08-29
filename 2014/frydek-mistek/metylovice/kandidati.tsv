@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8102	512184	1	1	901	1	Lukáš	Halata	M	Ing.		34	starosta	Metylovice	99	80	0
-8102	512184	1	1	901	2	Miroslav	Konečný	M	Ing.		28	důlní měřič	Metylovice	99	80	0
-8102	512184	1	1	901	3	Leona	Pavlásková	F			32	týmový předák	Metylovice	99	80	0
-8102	512184	1	1	901	4	Radomír	Kulhánek	M	Ing.		51	informatik	Metylovice	99	80	0
-8102	512184	1	1	901	5	Tomáš	Rabas	M			42	nástrojář	Metylovice	99	80	0
-8102	512184	1	1	901	6	Jakub	Farný	M	Bc.		31	správce informačního systému	Metylovice	99	80	0
-8102	512184	1	1	901	7	Jindřich	Bílek	M			40	OSVČ	Metylovice	99	80	0
-8102	512184	1	1	901	8	Zbyněk	Drastich	M			47	soustružník	Metylovice	99	80	0
-8102	512184	1	1	901	9	David	Hyšpler	M	Bc.		37	projektový manažer	Metylovice	99	80	0
-8102	512184	1	1	901	10	Radim	Bílek	M			43	servisní technik elektro	Metylovice	99	80	0
-8102	512184	1	1	901	11	Emanuel	Karteczka	M			66	důchodce	Metylovice	99	80	0
-8102	512184	1	2	721	1	Jan	Koloničný	M	Ing.	Ph.D.	40	projektový manager	Metylovice	99	721	0
-8102	512184	1	2	721	2	Miroslav	Ševčík	M	Ing.		36	obchodní manažer	Metylovice	99	721	0
-8102	512184	1	2	721	3	Robert	Zsigmond	M			56	prodavač	Metylovice	99	721	0
-8102	512184	1	2	721	4	Tereza	Dvořáková	F			35	marketingový specialista	Metylovice	99	721	0
-8102	512184	1	2	721	5	Milena	Pazderníková	F	Ing.		40	specialista vodohospodář	Metylovice	99	721	0
-8102	512184	1	2	721	6	Ján	Hribík	M			57	svářeč zámečník	Metylovice	99	721	0
-8102	512184	1	2	721	7	Marta	Bílková	F	Ing.		42	soudní znalec, projektový manažer	Metylovice	99	721	0
-8102	512184	1	2	721	8	Zbyněk	Luňáček	M	MUDr.		47	všeobecný praktický lékař	Metylovice	99	721	0
-8102	512184	1	2	721	9	Hana	Praussová	F			53	OSVČ	Metylovice	99	721	0
-8102	512184	1	2	721	10	Marcela	Vysogladová	F			44	vedoucí prodejny	Metylovice	99	721	0
-8102	512184	1	2	721	11	Jiří	Růžička	M	Ing.		60	vedoucí výroby úpravy uhlí	Metylovice	99	721	0
-8102	512184	1	3	1	1	Josef	Velička	M	Ing.		53	energ. auditor	Metylovice	1	1	0
-8102	512184	1	3	1	2	Lumír	Halata	M			49	hasič HZS MSK	Metylovice	99	1	0
-8102	512184	1	3	1	3	Blanka	Ochmanová	F	Ing.		31	bankovní úředník	Metylovice	1	1	0
-8102	512184	1	3	1	4	Jiřina	Halatová	F			44	referentka ČEZ	Metylovice	1	1	0
-8102	512184	1	3	1	5	Josef	Kluska	M			30	OSVČ	Metylovice	99	1	0
-8102	512184	1	3	1	6	Markéta	Macháňová	F			38	zahradnice	Metylovice	99	1	0
-8102	512184	1	3	1	7	Přemysl	Drmela	M			54	dispečer	Metylovice	99	1	0
-8102	512184	1	3	1	8	Petra	Herotová	F			28	učitelka ZŠ 2. st.	Metylovice	99	1	0
-8102	512184	1	3	1	9	Marta	Michalcová	F			66	důchodkyně	Metylovice	1	1	0
-8102	512184	1	3	1	10	Pavel	Šigut	M			54	jeřábník	Metylovice	99	1	0
-8102	512184	1	3	1	11	Pavel	Šigut	M			73	důchodce	Metylovice	1	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8102	512184	1	1	901	1	Lukáš	Halata	Ing.		34	starosta	Metylovice	99	80	0	M
+8102	512184	1	2	721	1	Jan	Koloničný	Ing.	Ph.D.	40	projektový manager	Metylovice	99	721	0	M
+8102	512184	1	3	1	1	Josef	Velička	Ing.		53	energ. auditor	Metylovice	1	1	0	M
+8102	512184	1	1	901	2	Miroslav	Konečný	Ing.		28	důlní měřič	Metylovice	99	80	0	M
+8102	512184	1	2	721	2	Miroslav	Ševčík	Ing.		36	obchodní manažer	Metylovice	99	721	0	M
+8102	512184	1	3	1	2	Lumír	Halata			49	hasič HZS MSK	Metylovice	99	1	0	M
+8102	512184	1	1	901	3	Leona	Pavlásková			32	týmový předák	Metylovice	99	80	0	F
+8102	512184	1	2	721	3	Robert	Zsigmond			56	prodavač	Metylovice	99	721	0	M
+8102	512184	1	3	1	3	Blanka	Ochmanová	Ing.		31	bankovní úředník	Metylovice	1	1	0	F
+8102	512184	1	1	901	4	Radomír	Kulhánek	Ing.		51	informatik	Metylovice	99	80	0	M
+8102	512184	1	2	721	4	Tereza	Dvořáková			35	marketingový specialista	Metylovice	99	721	0	F
+8102	512184	1	3	1	4	Jiřina	Halatová			44	referentka ČEZ	Metylovice	1	1	0	F
+8102	512184	1	1	901	5	Tomáš	Rabas			42	nástrojář	Metylovice	99	80	0	M
+8102	512184	1	2	721	5	Milena	Pazderníková	Ing.		40	specialista vodohospodář	Metylovice	99	721	0	F
+8102	512184	1	3	1	5	Josef	Kluska			30	OSVČ	Metylovice	99	1	0	M
+8102	512184	1	1	901	6	Jakub	Farný	Bc.		31	správce informačního systému	Metylovice	99	80	0	M
+8102	512184	1	2	721	6	Ján	Hribík			57	svářeč zámečník	Metylovice	99	721	0	M
+8102	512184	1	3	1	6	Markéta	Macháňová			38	zahradnice	Metylovice	99	1	0	F
+8102	512184	1	1	901	7	Jindřich	Bílek			40	OSVČ	Metylovice	99	80	0	M
+8102	512184	1	2	721	7	Marta	Bílková	Ing.		42	soudní znalec, projektový manažer	Metylovice	99	721	0	F
+8102	512184	1	3	1	7	Přemysl	Drmela			54	dispečer	Metylovice	99	1	0	M
+8102	512184	1	1	901	8	Zbyněk	Drastich			47	soustružník	Metylovice	99	80	0	M
+8102	512184	1	2	721	8	Zbyněk	Luňáček	MUDr.		47	všeobecný praktický lékař	Metylovice	99	721	0	M
+8102	512184	1	3	1	8	Petra	Herotová			28	učitelka ZŠ 2. st.	Metylovice	99	1	0	F
+8102	512184	1	1	901	9	David	Hyšpler	Bc.		37	projektový manažer	Metylovice	99	80	0	M
+8102	512184	1	2	721	9	Hana	Praussová			53	OSVČ	Metylovice	99	721	0	F
+8102	512184	1	3	1	9	Marta	Michalcová			66	důchodkyně	Metylovice	1	1	0	F
+8102	512184	1	1	901	10	Radim	Bílek			43	servisní technik elektro	Metylovice	99	80	0	M
+8102	512184	1	2	721	10	Marcela	Vysogladová			44	vedoucí prodejny	Metylovice	99	721	0	F
+8102	512184	1	3	1	10	Pavel	Šigut			54	jeřábník	Metylovice	99	1	0	M
+8102	512184	1	1	901	11	Emanuel	Karteczka			66	důchodce	Metylovice	99	80	0	M
+8102	512184	1	2	721	11	Jiří	Růžička	Ing.		60	vedoucí výroby úpravy uhlí	Metylovice	99	721	0	M
+8102	512184	1	3	1	11	Pavel	Šigut			73	důchodce	Metylovice	1	1	0	M

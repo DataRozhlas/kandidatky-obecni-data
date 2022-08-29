@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	553735	1	1	901	1	Martina	Vaňková	F			50	vedoucí pošty	Chodov	99	80	A
-3201	553735	1	1	901	2	Jarmil	Etzl	M			52	konstruktér	Chodov	99	80	A
-3201	553735	1	1	901	3	Miloslav	Strnad	M			52	vedoucí výroby	Chodov	99	80	A
-3201	553735	1	1	901	4	Milan	Mathauser	M			47	hasič	Chodov	99	80	A
-3201	553735	1	1	901	5	Jiří	Kapic	M			44	technik	Chodov	99	80	A
-3201	553735	1	1	901	6	Vendula	Ondruchová	F			45	účetní	Chodov	99	80	A
-3201	553735	1	1	901	7	Lukáš	Etzl	M			33	automechanik	Chodov	99	80	A
-3201	553735	1	1	901	8	Jitka	Maršíková	F			46	disponentka	Chodov	99	80	A
-3201	553735	1	1	901	9	Ondřej	Velecký	M			31	zámečník	Chodov	99	80	A
-3201	553735	1	2	482	1	Petr	Mleziva	M	Ing.		59	starosta	Chodov	715	715	A
-3201	553735	1	2	482	2	Vlasta	Holarová	F			67	důchodkyně	Chodov	99	80	A
-3201	553735	1	2	482	3	Radek	Svoboda	M			25	zaměstnanec	Chodov	99	80	A
-3201	553735	1	2	482	4	Miroslava	Psutková	F			54	živnostník	Chodov	99	80	A
-3201	553735	1	2	482	5	Martina	Kramárová	F			35	projektantka	Chodov	99	80	A
-3201	553735	1	2	482	6	Petr	Hubka	M			46	THP	Chodov	99	80	A
-3201	553735	1	2	482	7	Jana	Maníková	F			37	ošetřovatelka v útulku	Chodov	99	80	A
-3201	553735	1	2	482	8	Jaroslav	Veselý	M			59	vedoucí prodejny	Chodov	99	80	A
-3201	553735	1	2	482	9	Jiří	Thomayer	M			57	vedoucí střediska	Chodov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	553735	1	1	901	1	Martina	Vaňková			50	vedoucí pošty	Chodov	99	80	A	F
+3201	553735	1	2	482	1	Petr	Mleziva	Ing.		59	starosta	Chodov	715	715	A	M
+3201	553735	1	1	901	2	Jarmil	Etzl			52	konstruktér	Chodov	99	80	A	M
+3201	553735	1	2	482	2	Vlasta	Holarová			67	důchodkyně	Chodov	99	80	A	F
+3201	553735	1	1	901	3	Miloslav	Strnad			52	vedoucí výroby	Chodov	99	80	A	M
+3201	553735	1	2	482	3	Radek	Svoboda			25	zaměstnanec	Chodov	99	80	A	M
+3201	553735	1	1	901	4	Milan	Mathauser			47	hasič	Chodov	99	80	A	M
+3201	553735	1	2	482	4	Miroslava	Psutková			54	živnostník	Chodov	99	80	A	F
+3201	553735	1	1	901	5	Jiří	Kapic			44	technik	Chodov	99	80	A	M
+3201	553735	1	2	482	5	Martina	Kramárová			35	projektantka	Chodov	99	80	A	F
+3201	553735	1	1	901	6	Vendula	Ondruchová			45	účetní	Chodov	99	80	A	F
+3201	553735	1	2	482	6	Petr	Hubka			46	THP	Chodov	99	80	A	M
+3201	553735	1	1	901	7	Lukáš	Etzl			33	automechanik	Chodov	99	80	A	M
+3201	553735	1	2	482	7	Jana	Maníková			37	ošetřovatelka v útulku	Chodov	99	80	A	F
+3201	553735	1	1	901	8	Jitka	Maršíková			46	disponentka	Chodov	99	80	A	F
+3201	553735	1	2	482	8	Jaroslav	Veselý			59	vedoucí prodejny	Chodov	99	80	A	M
+3201	553735	1	1	901	9	Ondřej	Velecký			31	zámečník	Chodov	99	80	A	M
+3201	553735	1	2	482	9	Jiří	Thomayer			57	vedoucí střediska	Chodov	99	80	A	M

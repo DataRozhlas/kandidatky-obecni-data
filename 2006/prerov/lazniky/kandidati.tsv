@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7104	514471	1	1	47	1	Lidmila	Látalová	F	Ing.		59	ekonom	Lazníky	47	47	0
-7104	514471	1	1	47	2	Martin	Polách	M			40	elektromechanik	Lazníky	99	47	0
-7104	514471	1	1	47	3	Karel	Kolář	M			40	zedník	Lazníky	99	47	0
-7104	514471	1	1	47	4	Miroslav	Špalek	M			57	automechanik	Lazníky	47	47	0
-7104	514471	1	1	47	5	Martin	Grunt	M			33	obráběč kovů	Lazníky	99	47	0
-7104	514471	1	1	47	6	Milan	Pollák	M			51	státní zaměstnanec	Lazníky	99	47	0
-7104	514471	1	1	47	7	Pavel	Janák	M			59	řidič	Lazníky	47	47	0
-7104	514471	1	1	47	8	Jaroslav	Grunt	M			56	dělník	Lazníky	47	47	0
-7104	514471	1	1	47	9	Libor	Lukáš	M			74	soustružník	Lazníky	47	47	0
-7104	514471	1	2	904	1	Dagmar	Dohnalíková	F			35	nezaměstnaná	Lazníky	99	80	0
-7104	514471	1	2	904	2	Petra	Sedláčková	F			27	dělnice	Lazníky	99	80	0
-7104	514471	1	3	903	1	Josef	Klement	M			58	energetik	Lazníky	47	80	0
-7104	514471	1	3	903	2	Marie	Kortusová	F			56	důchodkyně	Lazníky	99	80	0
-7104	514471	1	3	903	3	Jiří	Hausner	M			35	programátor CNC	Lazníky	99	80	0
-7104	514471	1	3	903	4	Vojtěch	Tichavský	M			51	mechanik tel. zař.	Lazníky	99	80	0
-7104	514471	1	3	903	5	Zdeněk	Zedek	M			43	plastikář	Lazníky	99	80	0
-7104	514471	1	3	903	6	Adam	Tichavský	M			27	malíř-natěrač	Lazníky	99	80	0
-7104	514471	1	3	903	7	Zdenek	Šulák	M			44	zámečník	Lazníky	99	80	0
-7104	514471	1	3	903	8	Jiří	Zwesper	M			46	soustružník	Lazníky	99	80	0
-7104	514471	1	3	903	9	Bohumil	Libigr	M			51	instalatér	Lazníky	99	80	0
-7104	514471	1	4	902	1	Pavel	Kulich	M			38	mistr	Lazníky	99	80	0
-7104	514471	1	4	902	2	Andrea	Längerová	F			32	mat. dovolená	Lazníky	99	80	0
-7104	514471	1	4	902	3	Radim	Chytil	M			29	řidič	Lazníky	99	80	0
-7104	514471	1	4	902	4	Radka	Skácelová	F			33	kuchařka	Lazníky	99	80	0
-7104	514471	1	4	902	5	Renata	Kulichová	F			36	dělnice	Lazníky	99	80	0
-7104	514471	1	5	901	1	Hana	Vagrčková	F			55	starostka	Lazníky	99	80	0
-7104	514471	1	5	901	2	Věra	Vodárková	F			41	odb. asistent	Lazníky	99	80	0
-7104	514471	1	5	901	3	Jiří	Zedek	M			46	soustružník	Lazníky	99	80	0
-7104	514471	1	5	901	4	Roman	Blažek	M			28	zedník	Lazníky	99	80	0
-7104	514471	1	5	901	5	Jana	Heitlová	F			39	prodavačka	Lazníky	99	80	0
-7104	514471	1	5	901	6	Michal	Blažek	M			28	traktorista	Lazníky	99	80	0
-7104	514471	1	5	901	7	Petr	Skařupa	M			55	zem.dělník	Lazníky	99	80	0
-7104	514471	1	5	901	8	Lenka	Hluší	F			39	podnikatelka	Lazníky	99	80	0
-7104	514471	1	5	901	9	Věra	Novosadová	F			37	účetní	Lazníky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7104	514471	1	1	47	1	Lidmila	Látalová	Ing.		59	ekonom	Lazníky	47	47	0	F
+7104	514471	1	2	904	1	Dagmar	Dohnalíková			35	nezaměstnaná	Lazníky	99	80	0	F
+7104	514471	1	3	903	1	Josef	Klement			58	energetik	Lazníky	47	80	0	M
+7104	514471	1	4	902	1	Pavel	Kulich			38	mistr	Lazníky	99	80	0	M
+7104	514471	1	5	901	1	Hana	Vagrčková			55	starostka	Lazníky	99	80	0	F
+7104	514471	1	1	47	2	Martin	Polách			40	elektromechanik	Lazníky	99	47	0	M
+7104	514471	1	2	904	2	Petra	Sedláčková			27	dělnice	Lazníky	99	80	0	F
+7104	514471	1	3	903	2	Marie	Kortusová			56	důchodkyně	Lazníky	99	80	0	F
+7104	514471	1	4	902	2	Andrea	Längerová			32	mat. dovolená	Lazníky	99	80	0	F
+7104	514471	1	5	901	2	Věra	Vodárková			41	odb. asistent	Lazníky	99	80	0	F
+7104	514471	1	1	47	3	Karel	Kolář			40	zedník	Lazníky	99	47	0	M
+7104	514471	1	3	903	3	Jiří	Hausner			35	programátor CNC	Lazníky	99	80	0	M
+7104	514471	1	4	902	3	Radim	Chytil			29	řidič	Lazníky	99	80	0	M
+7104	514471	1	5	901	3	Jiří	Zedek			46	soustružník	Lazníky	99	80	0	M
+7104	514471	1	1	47	4	Miroslav	Špalek			57	automechanik	Lazníky	47	47	0	M
+7104	514471	1	3	903	4	Vojtěch	Tichavský			51	mechanik tel. zař.	Lazníky	99	80	0	M
+7104	514471	1	4	902	4	Radka	Skácelová			33	kuchařka	Lazníky	99	80	0	F
+7104	514471	1	5	901	4	Roman	Blažek			28	zedník	Lazníky	99	80	0	M
+7104	514471	1	1	47	5	Martin	Grunt			33	obráběč kovů	Lazníky	99	47	0	M
+7104	514471	1	3	903	5	Zdeněk	Zedek			43	plastikář	Lazníky	99	80	0	M
+7104	514471	1	4	902	5	Renata	Kulichová			36	dělnice	Lazníky	99	80	0	F
+7104	514471	1	5	901	5	Jana	Heitlová			39	prodavačka	Lazníky	99	80	0	F
+7104	514471	1	1	47	6	Milan	Pollák			51	státní zaměstnanec	Lazníky	99	47	0	M
+7104	514471	1	3	903	6	Adam	Tichavský			27	malíř-natěrač	Lazníky	99	80	0	M
+7104	514471	1	5	901	6	Michal	Blažek			28	traktorista	Lazníky	99	80	0	M
+7104	514471	1	1	47	7	Pavel	Janák			59	řidič	Lazníky	47	47	0	M
+7104	514471	1	3	903	7	Zdenek	Šulák			44	zámečník	Lazníky	99	80	0	M
+7104	514471	1	5	901	7	Petr	Skařupa			55	zem.dělník	Lazníky	99	80	0	M
+7104	514471	1	1	47	8	Jaroslav	Grunt			56	dělník	Lazníky	47	47	0	M
+7104	514471	1	3	903	8	Jiří	Zwesper			46	soustružník	Lazníky	99	80	0	M
+7104	514471	1	5	901	8	Lenka	Hluší			39	podnikatelka	Lazníky	99	80	0	F
+7104	514471	1	1	47	9	Libor	Lukáš			74	soustružník	Lazníky	47	47	0	M
+7104	514471	1	3	903	9	Bohumil	Libigr			51	instalatér	Lazníky	99	80	0	M
+7104	514471	1	5	901	9	Věra	Novosadová			37	účetní	Lazníky	99	80	0	F

@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589675	1	1	1	1	Pavel	Spáčil	M			36	invalidní důchodce	Laškov	1	1	0
-7103	589675	1	1	1	2	Antonín	Ševčík	M			66	důchodce	Laškov-Kandia	1	1	0
-7103	589675	1	1	1	3	Josef	Komárek	M			54	soukromý podnikatel	Laškov-Kandia	1	1	0
-7103	589675	1	1	1	4	Jindřich	Marek	M			50	zámečník	Laškov	99	1	0
-7103	589675	1	1	1	5	Josef	Trnka	M			73	důchodce	Laškov-Krakovec	1	1	0
-7103	589675	1	1	1	6	Petr	Navrátil	M			35	zaměstnanec OÚ	Laškov	99	1	0
-7103	589675	1	1	1	7	Marek	Bílý	M			29	mechanik	Laškov	1	1	0
-7103	589675	1	1	1	8	Eliška	Čadílková	F			52	švadlena	Laškov	99	1	0
-7103	589675	1	1	1	9	Jakub	Marek	M			22	dispečer	Laškov	1	1	0
-7103	589675	1	2	903	1	Ladislav	Jedlička	M			50	starosta obce	Laškov	99	80	0
-7103	589675	1	2	903	2	Luděk	Korec	M			47	počítačový technik	Laškov-Krakovec	99	80	0
-7103	589675	1	2	903	3	Miroslav	Soppe	M			51	státní zaměstnanec	Laškov	99	80	0
-7103	589675	1	2	903	4	Jiří	Vohralik	M			61	důchodce	Laškov	99	80	0
-7103	589675	1	2	903	5	Marta	Dvořáková	F			51	podnikatelka	Laškov	99	80	0
-7103	589675	1	2	903	6	Martin	Popelka	M			35	elektrikář	Laškov	99	80	0
-7103	589675	1	2	903	7	Danuše	Klapková	F			51	v domácnosti	Laškov	99	80	0
-7103	589675	1	2	903	8	František	Blahušek	M			50	revizní technik	Laškov	99	80	0
-7103	589675	1	2	903	9	Jiří	Horák	M			38	technický pracovník	Laškov	99	80	0
-7103	589675	1	3	902	1	Luděk	Řípa	M			38	soukromý podnikatel	Laškov	99	80	0
-7103	589675	1	3	902	2	Šárka	Rozsívalová	F			41	ekonomka	Laškov-Dvorek	99	80	0
-7103	589675	1	3	902	3	David	Kovář	M			31	soukromý podnikatel	Laškov	99	80	0
-7103	589675	1	3	902	4	Martin	Bednář	M			39	bezpečnostní technik	Laškov	99	80	0
-7103	589675	1	3	902	5	Zdeněk	Sedlák	M			40	soukromý podnikatel	Laškov	99	80	0
-7103	589675	1	3	902	6	Michal	Hacar	M			38	zámečník	Laškov	99	80	0
-7103	589675	1	3	902	7	Ludmila	Vévodová	F			55	školnice	Laškov-Kandia	99	80	0
-7103	589675	1	3	902	8	Karel	Dočkal	M			57	technik	Laškov	99	80	0
-7103	589675	1	3	902	9	Milada	Kohlová	F			55	prodavačka	Laškov-Dvorek	99	80	0
-7103	589675	1	4	901	1	Jana	Šťastná	F			42	soukromý podnikatel	Laškov	99	80	0
-7103	589675	1	4	901	2	Jaroslav	Ošťádal	M			45	elektrotechnik	Laškov-Dvorek	99	80	0
-7103	589675	1	4	901	3	Marie	Dočkalová	F			56	učitelka	Laškov	99	80	0
-7103	589675	1	4	901	4	Milan	Blahušek	M			43	technik	Laškov	99	80	0
-7103	589675	1	4	901	5	Josef	Vrzal	M			59	státní zaměstnanec	Laškov	99	80	0
-7103	589675	1	4	901	6	Jiří	Sláma	M			46	soukromý podnikatel	Laškov	99	80	0
-7103	589675	1	4	901	7	Jiřina	Gajdošíková	F			41	žena v domácnosti	Laškov-Krakovec	99	80	0
-7103	589675	1	4	901	8	Pavlína	Trnková	F			30	asistentka ve stacionáři	Laškov	99	80	0
-7103	589675	1	4	901	9	Ladislav	Přikryl	M			38	tiskař	Laškov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589675	1	1	1	1	Pavel	Spáčil			36	invalidní důchodce	Laškov	1	1	0	M
+7103	589675	1	2	903	1	Ladislav	Jedlička			50	starosta obce	Laškov	99	80	0	M
+7103	589675	1	3	902	1	Luděk	Řípa			38	soukromý podnikatel	Laškov	99	80	0	M
+7103	589675	1	4	901	1	Jana	Šťastná			42	soukromý podnikatel	Laškov	99	80	0	F
+7103	589675	1	1	1	2	Antonín	Ševčík			66	důchodce	Laškov-Kandia	1	1	0	M
+7103	589675	1	2	903	2	Luděk	Korec			47	počítačový technik	Laškov-Krakovec	99	80	0	M
+7103	589675	1	3	902	2	Šárka	Rozsívalová			41	ekonomka	Laškov-Dvorek	99	80	0	F
+7103	589675	1	4	901	2	Jaroslav	Ošťádal			45	elektrotechnik	Laškov-Dvorek	99	80	0	M
+7103	589675	1	1	1	3	Josef	Komárek			54	soukromý podnikatel	Laškov-Kandia	1	1	0	M
+7103	589675	1	2	903	3	Miroslav	Soppe			51	státní zaměstnanec	Laškov	99	80	0	M
+7103	589675	1	3	902	3	David	Kovář			31	soukromý podnikatel	Laškov	99	80	0	M
+7103	589675	1	4	901	3	Marie	Dočkalová			56	učitelka	Laškov	99	80	0	F
+7103	589675	1	1	1	4	Jindřich	Marek			50	zámečník	Laškov	99	1	0	M
+7103	589675	1	2	903	4	Jiří	Vohralik			61	důchodce	Laškov	99	80	0	M
+7103	589675	1	3	902	4	Martin	Bednář			39	bezpečnostní technik	Laškov	99	80	0	M
+7103	589675	1	4	901	4	Milan	Blahušek			43	technik	Laškov	99	80	0	M
+7103	589675	1	1	1	5	Josef	Trnka			73	důchodce	Laškov-Krakovec	1	1	0	M
+7103	589675	1	2	903	5	Marta	Dvořáková			51	podnikatelka	Laškov	99	80	0	F
+7103	589675	1	3	902	5	Zdeněk	Sedlák			40	soukromý podnikatel	Laškov	99	80	0	M
+7103	589675	1	4	901	5	Josef	Vrzal			59	státní zaměstnanec	Laškov	99	80	0	M
+7103	589675	1	1	1	6	Petr	Navrátil			35	zaměstnanec OÚ	Laškov	99	1	0	M
+7103	589675	1	2	903	6	Martin	Popelka			35	elektrikář	Laškov	99	80	0	M
+7103	589675	1	3	902	6	Michal	Hacar			38	zámečník	Laškov	99	80	0	M
+7103	589675	1	4	901	6	Jiří	Sláma			46	soukromý podnikatel	Laškov	99	80	0	M
+7103	589675	1	1	1	7	Marek	Bílý			29	mechanik	Laškov	1	1	0	M
+7103	589675	1	2	903	7	Danuše	Klapková			51	v domácnosti	Laškov	99	80	0	F
+7103	589675	1	3	902	7	Ludmila	Vévodová			55	školnice	Laškov-Kandia	99	80	0	F
+7103	589675	1	4	901	7	Jiřina	Gajdošíková			41	žena v domácnosti	Laškov-Krakovec	99	80	0	F
+7103	589675	1	1	1	8	Eliška	Čadílková			52	švadlena	Laškov	99	1	0	F
+7103	589675	1	2	903	8	František	Blahušek			50	revizní technik	Laškov	99	80	0	M
+7103	589675	1	3	902	8	Karel	Dočkal			57	technik	Laškov	99	80	0	M
+7103	589675	1	4	901	8	Pavlína	Trnková			30	asistentka ve stacionáři	Laškov	99	80	0	F
+7103	589675	1	1	1	9	Jakub	Marek			22	dispečer	Laškov	1	1	0	M
+7103	589675	1	2	903	9	Jiří	Horák			38	technický pracovník	Laškov	99	80	0	M
+7103	589675	1	3	902	9	Milada	Kohlová			55	prodavačka	Laškov-Dvorek	99	80	0	F
+7103	589675	1	4	901	9	Ladislav	Přikryl			38	tiskař	Laškov	99	80	0	M

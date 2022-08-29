@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	552089	1	1	904	1	Vratislav	Brodacký	M			59	el. technik	Tovéř	99	80	0
-7102	552089	1	1	904	2	Antonín	Müller	M			51	mechanik	Tovéř	99	80	0
-7102	552089	1	1	904	3	Věra	Bombíková	F			58	učitelka	Tovéř	99	80	0
-7102	552089	1	1	904	4	Jaroslav	Brodacký	M	Ing.		57	hasič	Tovéř	99	80	0
-7102	552089	1	1	904	5	Josef	Jansa	M	JUDr.		56	advokát	Tovéř	99	80	0
-7102	552089	1	1	904	6	Marie	Daňková	F	Mgr.		57	učitelka	Tovéř	99	80	0
-7102	552089	1	1	904	7	Vladimír	Smutný	M	Ing.		58	technik	Tovéř	99	80	0
-7102	552089	1	1	904	8	Zdeněk	Matoušek	M			44	OSVČ	Tovéř	99	80	0
-7102	552089	1	1	904	9	Martin	Šimbera	M			22	OSVČ	Tovéř	99	80	0
-7102	552089	1	2	903	1	Anna	Kopřivová	F	Ing.		63	důchodce	Tovéř	99	80	0
-7102	552089	1	2	903	2	Eva	Hudcová	F	Mgr.	Ph.D.	38	office manager	Tovéř	99	80	0
-7102	552089	1	2	903	3	Jan	Svozil	M			36	vedoucí zkušební laboratoře	Tovéř	99	80	0
-7102	552089	1	2	903	4	Martina	Osyková	F	Bc.		23	studentka	Tovéř	99	80	0
-7102	552089	1	2	903	5	Ivana	Svozilová	F	Mgr.		35	advokát	Tovéř	99	80	0
-7102	552089	1	3	901	1	Miroslav	Majer	M			43	starosta obce	Tovéř	99	80	0
-7102	552089	1	3	901	2	Marta	Šubrtová	F	Ing.		44	OSVČ	Tovéř	99	80	0
-7102	552089	1	3	901	3	Jitka	Loyková	F			52	ekonom	Tovéř	99	80	0
-7102	552089	1	3	901	4	Milena	Dosoudilová	F			47	vedoucí pob. v bance	Tovéř	99	80	0
-7102	552089	1	3	901	5	Radovan	Richter	M			46	technik ŽTV	Tovéř	99	80	0
-7102	552089	1	3	901	6	Vladimír	Štěpánek	M			48	OSVČ	Tovéř	99	80	0
-7102	552089	1	3	901	7	Jiří	Vrtal	M			49	technik údržby	Tovéř	99	80	0
-7102	552089	1	3	901	8	Libor	Mikšík	M			53	automechanik	Tovéř	99	80	0
-7102	552089	1	3	901	9	Aleš	Zdařil	M	Ing.		59	státní zaměstnanec	Tovéř	99	80	0
-7102	552089	1	4	902	1	Petr	Maurer	M	Ing.		52	stavební inženýr	Tovéř	99	80	0
-7102	552089	1	4	902	2	Svatava	Němečková	F			67	stavební technik	Tovéř	99	80	0
-7102	552089	1	4	902	3	Petr	Doležel	M	Ing.		54	projektant	Tovéř	99	80	0
-7102	552089	1	4	902	4	Čestmír	Kučera	M	RNDr. Ing.		67	ekonom	Tovéř	99	80	0
-7102	552089	1	4	902	5	Věra	Hamplová	F			59	ekonom	Tovéř	99	80	0
-7102	552089	1	4	902	6	František	Pachman	M	Ing.		72	ekonom	Tovéř	99	80	0
-7102	552089	1	4	902	7	Jiří	Macháček	M			58	elektrotechnik	Tovéř	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	552089	1	1	904	1	Vratislav	Brodacký			59	el. technik	Tovéř	99	80	0	M
+7102	552089	1	2	903	1	Anna	Kopřivová	Ing.		63	důchodce	Tovéř	99	80	0	F
+7102	552089	1	3	901	1	Miroslav	Majer			43	starosta obce	Tovéř	99	80	0	M
+7102	552089	1	4	902	1	Petr	Maurer	Ing.		52	stavební inženýr	Tovéř	99	80	0	M
+7102	552089	1	1	904	2	Antonín	Müller			51	mechanik	Tovéř	99	80	0	M
+7102	552089	1	2	903	2	Eva	Hudcová	Mgr.	Ph.D.	38	office manager	Tovéř	99	80	0	F
+7102	552089	1	3	901	2	Marta	Šubrtová	Ing.		44	OSVČ	Tovéř	99	80	0	F
+7102	552089	1	4	902	2	Svatava	Němečková			67	stavební technik	Tovéř	99	80	0	F
+7102	552089	1	1	904	3	Věra	Bombíková			58	učitelka	Tovéř	99	80	0	F
+7102	552089	1	2	903	3	Jan	Svozil			36	vedoucí zkušební laboratoře	Tovéř	99	80	0	M
+7102	552089	1	3	901	3	Jitka	Loyková			52	ekonom	Tovéř	99	80	0	F
+7102	552089	1	4	902	3	Petr	Doležel	Ing.		54	projektant	Tovéř	99	80	0	M
+7102	552089	1	1	904	4	Jaroslav	Brodacký	Ing.		57	hasič	Tovéř	99	80	0	M
+7102	552089	1	2	903	4	Martina	Osyková	Bc.		23	studentka	Tovéř	99	80	0	F
+7102	552089	1	3	901	4	Milena	Dosoudilová			47	vedoucí pob. v bance	Tovéř	99	80	0	F
+7102	552089	1	4	902	4	Čestmír	Kučera	RNDr. Ing.		67	ekonom	Tovéř	99	80	0	M
+7102	552089	1	1	904	5	Josef	Jansa	JUDr.		56	advokát	Tovéř	99	80	0	M
+7102	552089	1	2	903	5	Ivana	Svozilová	Mgr.		35	advokát	Tovéř	99	80	0	F
+7102	552089	1	3	901	5	Radovan	Richter			46	technik ŽTV	Tovéř	99	80	0	M
+7102	552089	1	4	902	5	Věra	Hamplová			59	ekonom	Tovéř	99	80	0	F
+7102	552089	1	1	904	6	Marie	Daňková	Mgr.		57	učitelka	Tovéř	99	80	0	F
+7102	552089	1	3	901	6	Vladimír	Štěpánek			48	OSVČ	Tovéř	99	80	0	M
+7102	552089	1	4	902	6	František	Pachman	Ing.		72	ekonom	Tovéř	99	80	0	M
+7102	552089	1	1	904	7	Vladimír	Smutný	Ing.		58	technik	Tovéř	99	80	0	M
+7102	552089	1	3	901	7	Jiří	Vrtal			49	technik údržby	Tovéř	99	80	0	M
+7102	552089	1	4	902	7	Jiří	Macháček			58	elektrotechnik	Tovéř	99	80	0	M
+7102	552089	1	1	904	8	Zdeněk	Matoušek			44	OSVČ	Tovéř	99	80	0	M
+7102	552089	1	3	901	8	Libor	Mikšík			53	automechanik	Tovéř	99	80	0	M
+7102	552089	1	1	904	9	Martin	Šimbera			22	OSVČ	Tovéř	99	80	0	M
+7102	552089	1	3	901	9	Aleš	Zdařil	Ing.		59	státní zaměstnanec	Tovéř	99	80	0	M

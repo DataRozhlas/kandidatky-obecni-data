@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579581	1	1	902	1	Tomáš	Kučera	M			50	OSVČ	Pec pod Sněžkou	99	80	A
-5205	579581	1	1	902	2	Jaroslav	Dudek	M			43	elektrotechnik	Velká Úpa	99	80	A
-5205	579581	1	1	902	3	Luboš	Brát	M			40	programátor	Velká Úpa	99	80	A
-5205	579581	1	1	902	4	František	Vaněk	M			26	student	Pec pod Sněžkou	99	80	A
-5205	579581	1	1	902	5	František	Vambera	M			68	důchodce	Pec pod Sněžkou	99	80	A
-5205	579581	1	1	902	6	Drahomíra	Zákonová	F			61	ekonomka	Pec pod Sněžkou	99	80	A
-5205	579581	1	1	902	7	Jiří	Pikola	M			65	ředitel hotelu	Pec pod Sněžkou	99	80	A
-5205	579581	1	1	902	8	Kamil	Veselý	M			63	OSVČ	Velká Úpa	99	80	A
-5205	579581	1	1	902	9	Jiří	Šteiner	M			60	OSVČ	Pec pod Sněžkou	99	80	A
-5205	579581	1	2	901	1	Alan	Tomášek	M			51	starosta města	Pec pod Sněžkou	99	80	A
-5205	579581	1	2	901	2	Zdeněk	Virt	M			60	soukromý podnikatel	Pec pod Sněžkou	99	80	A
-5205	579581	1	2	901	3	Petr	Hais	M			62	záchranář	Velká Úpa	99	80	A
-5205	579581	1	2	901	4	Vratislav	Říha	M			55	soukromý podnikatel	Pec pod Sněžkou	99	80	A
-5205	579581	1	2	901	5	Ivan	Balcar	M			54	zaměstnanec	Pec pod Sněžkou	99	80	A
-5205	579581	1	2	901	6	Tomáš	Novák	M			30	záchranář	Pec pod Sněžkou	99	80	A
-5205	579581	1	2	901	7	Nikol	Novotná	F			32	geolog	Pec pod Sněžkou	99	80	A
-5205	579581	1	2	901	8	Josef	Bláha	M			35	soukromý podnikatel	Pec pod Sněžkou	99	80	A
-5205	579581	1	2	901	9	Nikola	Kobrová	F			30	soukromý podnikatel	Velká Úpa	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579581	1	1	902	1	Tomáš	Kučera			50	OSVČ	Pec pod Sněžkou	99	80	A	M
+5205	579581	1	2	901	1	Alan	Tomášek			51	starosta města	Pec pod Sněžkou	99	80	A	M
+5205	579581	1	1	902	2	Jaroslav	Dudek			43	elektrotechnik	Velká Úpa	99	80	A	M
+5205	579581	1	2	901	2	Zdeněk	Virt			60	soukromý podnikatel	Pec pod Sněžkou	99	80	A	M
+5205	579581	1	1	902	3	Luboš	Brát			40	programátor	Velká Úpa	99	80	A	M
+5205	579581	1	2	901	3	Petr	Hais			62	záchranář	Velká Úpa	99	80	A	M
+5205	579581	1	1	902	4	František	Vaněk			26	student	Pec pod Sněžkou	99	80	A	M
+5205	579581	1	2	901	4	Vratislav	Říha			55	soukromý podnikatel	Pec pod Sněžkou	99	80	A	M
+5205	579581	1	1	902	5	František	Vambera			68	důchodce	Pec pod Sněžkou	99	80	A	M
+5205	579581	1	2	901	5	Ivan	Balcar			54	zaměstnanec	Pec pod Sněžkou	99	80	A	M
+5205	579581	1	1	902	6	Drahomíra	Zákonová			61	ekonomka	Pec pod Sněžkou	99	80	A	F
+5205	579581	1	2	901	6	Tomáš	Novák			30	záchranář	Pec pod Sněžkou	99	80	A	M
+5205	579581	1	1	902	7	Jiří	Pikola			65	ředitel hotelu	Pec pod Sněžkou	99	80	A	M
+5205	579581	1	2	901	7	Nikol	Novotná			32	geolog	Pec pod Sněžkou	99	80	A	F
+5205	579581	1	1	902	8	Kamil	Veselý			63	OSVČ	Velká Úpa	99	80	A	M
+5205	579581	1	2	901	8	Josef	Bláha			35	soukromý podnikatel	Pec pod Sněžkou	99	80	A	M
+5205	579581	1	1	902	9	Jiří	Šteiner			60	OSVČ	Pec pod Sněžkou	99	80	A	M
+5205	579581	1	2	901	9	Nikola	Kobrová			30	soukromý podnikatel	Velká Úpa	99	80	A	F

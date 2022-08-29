@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7202	592099	1	1	901	1	Josef	Trecha	M			64	starosta obce Březová	Březová	99	80	A
-7202	592099	1	1	901	2	Josef	Majer	M			55	OSVČ	Březová	99	80	A
-7202	592099	1	1	901	3	Richard	Jurásek	M			31	řidič, údržbář	Březová	99	80	A
-7202	592099	1	1	901	4	Dušan	Bruštík	M			33	specialista zákaznických služeb	Březová	99	80	A
-7202	592099	1	1	901	5	Marie	Zetková	F			61	administrativní pracovnice	Březová	99	80	A
-7202	592099	1	1	901	6	Petr	Kročil	M	Ing.		41	projektový manažer	Březová	99	80	A
-7202	592099	1	1	901	7	Roman	Vacula	M			44	manažer	Březová	99	80	A
-7202	592099	1	1	901	8	Lenka	Janíková	F			48	OSVČ	Březová	99	80	A
-7202	592099	1	1	901	9	Petr	Kročil	M	Bc.		43	státní zaměstnanec	Březová	99	80	A
-7202	592099	1	2	1	1	Josef	Uher	M			46	bagrista	Březová	99	1	A
-7202	592099	1	2	1	2	Pavel	Čaňo	M	Ing.		31	vedoucí výroby	Březová	1	1	A
-7202	592099	1	2	1	3	Lucie	Uhrová	F	Bc.		34	pedagožka	Březová	99	1	A
-7202	592099	1	2	1	4	Dominik	Janků	M			39	řidič MKD	Březová	99	1	A
-7202	592099	1	2	1	5	Simona	Jurásková	F			50	odborný operátor výroby - kontrola	Březová	99	1	A
-7202	592099	1	2	1	6	Marie	Šemorová	F			54	referentka	Březová	1	1	A
-7202	592099	1	2	1	7	Martin	Matějíček	M			39	zedník	Březová	99	1	A
-7202	592099	1	2	1	8	Lukáš	Jurásek	M			29	technický pracovník	Březová	99	1	A
-7202	592099	1	2	1	9	Kateřina	Gorčíková	F			32	účetní	Březová	99	1	A
-7202	592099	1	3	902	1	Petr	Michalec	M	Bc.		54	soukromý podnikatel	Březová	99	80	A
-7202	592099	1	3	902	2	Josef	Ševčík	M	PhDr.		47	státní zaměstnanec	Březová	99	80	A
-7202	592099	1	3	902	3	Ludvík	Gardoň	M	Ing.		35	projektový manažer	Březová	99	80	A
-7202	592099	1	3	902	4	Jana	Matějíčková	F	Mgr.		60	referentka státní správy	Březová	99	80	A
-7202	592099	1	3	902	5	Petr	Horňák	M			47	elektroúdržbář	Březová	99	80	A
-7202	592099	1	3	902	6	Pavel	Jurásek	M			62	zedník	Březová	99	80	A
-7202	592099	1	3	902	7	Pavel	Zámečník	M			37	živnostník	Březová	99	80	A
-7202	592099	1	3	902	8	Bronislav	Křen	M			28	zaměstnanec	Březová	99	80	A
-7202	592099	1	3	902	9	Ondřej	Moravčík	M	Ing.		25	obchodní zástupce	Březová	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7202	592099	1	1	901	1	Josef	Trecha			64	starosta obce Březová	Březová	99	80	A	M
+7202	592099	1	2	1	1	Josef	Uher			46	bagrista	Březová	99	1	A	M
+7202	592099	1	3	902	1	Petr	Michalec	Bc.		54	soukromý podnikatel	Březová	99	80	A	M
+7202	592099	1	1	901	2	Josef	Majer			55	OSVČ	Březová	99	80	A	M
+7202	592099	1	2	1	2	Pavel	Čaňo	Ing.		31	vedoucí výroby	Březová	1	1	A	M
+7202	592099	1	3	902	2	Josef	Ševčík	PhDr.		47	státní zaměstnanec	Březová	99	80	A	M
+7202	592099	1	1	901	3	Richard	Jurásek			31	řidič, údržbář	Březová	99	80	A	M
+7202	592099	1	2	1	3	Lucie	Uhrová	Bc.		34	pedagožka	Březová	99	1	A	F
+7202	592099	1	3	902	3	Ludvík	Gardoň	Ing.		35	projektový manažer	Březová	99	80	A	M
+7202	592099	1	1	901	4	Dušan	Bruštík			33	specialista zákaznických služeb	Březová	99	80	A	M
+7202	592099	1	2	1	4	Dominik	Janků			39	řidič MKD	Březová	99	1	A	M
+7202	592099	1	3	902	4	Jana	Matějíčková	Mgr.		60	referentka státní správy	Březová	99	80	A	F
+7202	592099	1	1	901	5	Marie	Zetková			61	administrativní pracovnice	Březová	99	80	A	F
+7202	592099	1	2	1	5	Simona	Jurásková			50	odborný operátor výroby - kontrola	Březová	99	1	A	F
+7202	592099	1	3	902	5	Petr	Horňák			47	elektroúdržbář	Březová	99	80	A	M
+7202	592099	1	1	901	6	Petr	Kročil	Ing.		41	projektový manažer	Březová	99	80	A	M
+7202	592099	1	2	1	6	Marie	Šemorová			54	referentka	Březová	1	1	A	F
+7202	592099	1	3	902	6	Pavel	Jurásek			62	zedník	Březová	99	80	A	M
+7202	592099	1	1	901	7	Roman	Vacula			44	manažer	Březová	99	80	A	M
+7202	592099	1	2	1	7	Martin	Matějíček			39	zedník	Březová	99	1	A	M
+7202	592099	1	3	902	7	Pavel	Zámečník			37	živnostník	Březová	99	80	A	M
+7202	592099	1	1	901	8	Lenka	Janíková			48	OSVČ	Březová	99	80	A	F
+7202	592099	1	2	1	8	Lukáš	Jurásek			29	technický pracovník	Březová	99	1	A	M
+7202	592099	1	3	902	8	Bronislav	Křen			28	zaměstnanec	Březová	99	80	A	M
+7202	592099	1	1	901	9	Petr	Kročil	Bc.		43	státní zaměstnanec	Březová	99	80	A	M
+7202	592099	1	2	1	9	Kateřina	Gorčíková			32	účetní	Březová	99	1	A	F
+7202	592099	1	3	902	9	Ondřej	Moravčík	Ing.		25	obchodní zástupce	Březová	99	80	A	M

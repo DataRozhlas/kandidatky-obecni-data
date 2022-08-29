@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	553972	1	1	903	1	Vladimír	Skopal	M			51	živnostník	Rybníček	99	80	0
-6206	553972	1	1	903	2	Radek	Kreutzer	M			34	živnostník	Rybníček	99	80	0
-6206	553972	1	1	903	3	David	Henner	M			25	technik	Rybníček	99	80	0
-6206	553972	1	1	903	4	Marta	Klacková	F			35	prodavačka	Rybníček	99	80	0
-6206	553972	1	1	903	5	Vratislav	Skopal	M			53	zedník	Rybníček	99	80	0
-6206	553972	1	1	903	6	Tereza	Lutonská	F	Ing.		26	chemička	Rybníček	99	80	0
-6206	553972	1	1	903	7	Jaroslav	Musil	M			45	zootechnik	Rybníček	99	80	0
-6206	553972	1	1	903	8	Karel	Uhlíř	M			46	nákupčí	Rybníček	99	80	0
-6206	553972	1	1	903	9	Radek	Henner	M	Ing.		47	státní zaměstnanec	Rybníček	99	80	0
-6206	553972	1	2	902	1	Helena	Přikrylová	F	Ing.		45	soukr. zemědělec	Rybníček	99	80	0
-6206	553972	1	2	902	2	Olga	Harásková	F	Mgr.		38	ředitelka školy	Rybníček	99	80	0
-6206	553972	1	2	902	3	Radomír	Kydal	M			48	živnostník	Rybníček	99	80	0
-6206	553972	1	2	902	4	Bedřich	Honemann	M			51	živnostník	Rybníček	99	80	0
-6206	553972	1	2	902	5	Věra	Suchánková	F			41	cukrářka	Rybníček	99	80	0
-6206	553972	1	2	902	6	František	Bilíček	M			45	technik	Rybníček	99	80	0
-6206	553972	1	2	902	7	Veronika	Oháňková	F			32	žena v domácnosti	Rybníček	99	80	0
-6206	553972	1	2	902	8	Josef	Harásek	M			39	živnostník	Rybníček	99	80	0
-6206	553972	1	3	901	1	Miroslav	Cvek	M	Ing.		36	předseda představenstva družs.	Rybníček	99	80	0
-6206	553972	1	3	901	2	Irena	Hanečková	F	Ing.		46	ekonomka	Rybníček	99	80	0
-6206	553972	1	3	901	3	Jiří	Haneček	M	JUDr.		51	advokát	Rybníček	99	80	0
-6206	553972	1	3	901	4	Milan	Lutonský	M	Ing.		52	zootechnik	Rybníček	99	80	0
-6206	553972	1	3	901	5	Marcela	Orbánová	F			40	uklízečka	Rybníček	99	80	0
-6206	553972	1	3	901	6	Lenka	Pešavová	F			50	pracovnice živočišné výroby	Rybníček	99	80	0
-6206	553972	1	3	901	7	Jitka	Hortová	F			40	dámská krejčová	Rybníček	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	553972	1	1	903	1	Vladimír	Skopal			51	živnostník	Rybníček	99	80	0	M
+6206	553972	1	2	902	1	Helena	Přikrylová	Ing.		45	soukr. zemědělec	Rybníček	99	80	0	F
+6206	553972	1	3	901	1	Miroslav	Cvek	Ing.		36	předseda představenstva družs.	Rybníček	99	80	0	M
+6206	553972	1	1	903	2	Radek	Kreutzer			34	živnostník	Rybníček	99	80	0	M
+6206	553972	1	2	902	2	Olga	Harásková	Mgr.		38	ředitelka školy	Rybníček	99	80	0	F
+6206	553972	1	3	901	2	Irena	Hanečková	Ing.		46	ekonomka	Rybníček	99	80	0	F
+6206	553972	1	1	903	3	David	Henner			25	technik	Rybníček	99	80	0	M
+6206	553972	1	2	902	3	Radomír	Kydal			48	živnostník	Rybníček	99	80	0	M
+6206	553972	1	3	901	3	Jiří	Haneček	JUDr.		51	advokát	Rybníček	99	80	0	M
+6206	553972	1	1	903	4	Marta	Klacková			35	prodavačka	Rybníček	99	80	0	F
+6206	553972	1	2	902	4	Bedřich	Honemann			51	živnostník	Rybníček	99	80	0	M
+6206	553972	1	3	901	4	Milan	Lutonský	Ing.		52	zootechnik	Rybníček	99	80	0	M
+6206	553972	1	1	903	5	Vratislav	Skopal			53	zedník	Rybníček	99	80	0	M
+6206	553972	1	2	902	5	Věra	Suchánková			41	cukrářka	Rybníček	99	80	0	F
+6206	553972	1	3	901	5	Marcela	Orbánová			40	uklízečka	Rybníček	99	80	0	F
+6206	553972	1	1	903	6	Tereza	Lutonská	Ing.		26	chemička	Rybníček	99	80	0	F
+6206	553972	1	2	902	6	František	Bilíček			45	technik	Rybníček	99	80	0	M
+6206	553972	1	3	901	6	Lenka	Pešavová			50	pracovnice živočišné výroby	Rybníček	99	80	0	F
+6206	553972	1	1	903	7	Jaroslav	Musil			45	zootechnik	Rybníček	99	80	0	M
+6206	553972	1	2	902	7	Veronika	Oháňková			32	žena v domácnosti	Rybníček	99	80	0	F
+6206	553972	1	3	901	7	Jitka	Hortová			40	dámská krejčová	Rybníček	99	80	0	F
+6206	553972	1	1	903	8	Karel	Uhlíř			46	nákupčí	Rybníček	99	80	0	M
+6206	553972	1	2	902	8	Josef	Harásek			39	živnostník	Rybníček	99	80	0	M
+6206	553972	1	1	903	9	Radek	Henner	Ing.		47	státní zaměstnanec	Rybníček	99	80	0	M

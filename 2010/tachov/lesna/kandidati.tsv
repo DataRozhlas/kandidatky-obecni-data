@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3207	561002	1	1	47	1	Stanislav	Kolda	M			53	vedoucí provozního oddělení	Lesná	47	47	0
-3207	561002	1	2	901	1	David	Őlveczki	M			32	starosta obce	Lesná	99	80	0
-3207	561002	1	2	901	2	Josef	Červinka	M			42	lesní správce	Lesná	99	80	0
-3207	561002	1	2	901	3	Jiří	Voron	M			46	referent majetkové správy	Lesná	99	80	0
-3207	561002	1	2	901	4	Ivan	Sauko	M			53	OSVČ	Lesná	99	80	0
-3207	561002	1	2	901	5	Ivan	Packan	M			52	dělník	Lesná	99	80	0
-3207	561002	1	2	901	6	Marek	Packan	M			30	dělník	Lesná	99	80	0
-3207	561002	1	2	901	7	Stanislav	Packan	M			35	OSVČ	Lesná	99	80	0
-3207	561002	1	2	901	8	Kamil	Pečenka	M			23	OSVČ	Lesná	99	80	0
-3207	561002	1	2	901	9	Václav	Šesták	M			42	vedoucí výroby	Lesná	99	80	0
-3207	561002	1	3	903	1	Karel	Mikuláš	M			56	inv.důchodce	Lesná	99	80	0
-3207	561002	1	3	903	2	Václav	Jára	M	Ing.		52	zeměd. inženýr	Lesná	99	80	0
-3207	561002	1	3	903	3	Blanka	Zálišová	F			50	podnikatelka	Písařova Vesce	99	80	0
-3207	561002	1	3	903	4	Marie	Kantorová	F			54	podnikatelka	Lesná	99	80	0
-3207	561002	1	3	903	5	Libuše	Kormošová	F			51	podnikatelka	Lesná	99	80	0
-3207	561002	1	3	903	6	Marek	Mikuláš	M			34	instalatér	Lesná	99	80	0
-3207	561002	1	3	903	7	Jan	Kantor	M	Bc.		25	student	Lesná	99	80	0
-3207	561002	1	3	903	8	Petr	Rohlík	M			26	automechanik	Lesná	99	80	0
-3207	561002	1	3	903	9	Michaela	Kárníková	F	Bc.		32	manažérka	Stará Knížecí Huť	99	80	0
-3207	561002	1	4	902	1	Jitka	Uhlíková	F	Mgr.		44	ředitelka ZŠ a MŠ	Lesná	99	80	0
-3207	561002	1	4	902	2	Drahomíra	Červinková	F	Bc.		43	vedoucí odboru MěÚ	Lesná	99	80	0
-3207	561002	1	4	902	3	Marta	Bartošová	F			47	učitelka MŠ	Lesná	99	80	0
-3207	561002	1	4	902	4	Milena	Šulcová	F			39	obchodní zástupce	Lesná	99	80	0
-3207	561002	1	4	902	5	Marta	Danková	F		DiS	27	nezaměstnaná	Lesná	99	80	0
-3207	561002	1	4	902	6	Anna	Hrečínová	F			56	uklízečka	Lesná	99	80	0
-3207	561002	1	4	902	7	Monika	Farkašová	F	Bc.		23	sociální pracovnice	Písařova Vesce	99	80	0
-3207	561002	1	4	902	8	Marcela	Hrečinová	F			31	zaměstnanec exekuční kanceláře	Lesná	99	80	0
-3207	561002	1	4	902	9	Růžena	Fantová	F			48	vedoucí účtárny	Lesná	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3207	561002	1	1	47	1	Stanislav	Kolda			53	vedoucí provozního oddělení	Lesná	47	47	0	M
+3207	561002	1	2	901	1	David	Őlveczki			32	starosta obce	Lesná	99	80	0	M
+3207	561002	1	3	903	1	Karel	Mikuláš			56	inv.důchodce	Lesná	99	80	0	M
+3207	561002	1	4	902	1	Jitka	Uhlíková	Mgr.		44	ředitelka ZŠ a MŠ	Lesná	99	80	0	F
+3207	561002	1	2	901	2	Josef	Červinka			42	lesní správce	Lesná	99	80	0	M
+3207	561002	1	3	903	2	Václav	Jára	Ing.		52	zeměd. inženýr	Lesná	99	80	0	M
+3207	561002	1	4	902	2	Drahomíra	Červinková	Bc.		43	vedoucí odboru MěÚ	Lesná	99	80	0	F
+3207	561002	1	2	901	3	Jiří	Voron			46	referent majetkové správy	Lesná	99	80	0	M
+3207	561002	1	3	903	3	Blanka	Zálišová			50	podnikatelka	Písařova Vesce	99	80	0	F
+3207	561002	1	4	902	3	Marta	Bartošová			47	učitelka MŠ	Lesná	99	80	0	F
+3207	561002	1	2	901	4	Ivan	Sauko			53	OSVČ	Lesná	99	80	0	M
+3207	561002	1	3	903	4	Marie	Kantorová			54	podnikatelka	Lesná	99	80	0	F
+3207	561002	1	4	902	4	Milena	Šulcová			39	obchodní zástupce	Lesná	99	80	0	F
+3207	561002	1	2	901	5	Ivan	Packan			52	dělník	Lesná	99	80	0	M
+3207	561002	1	3	903	5	Libuše	Kormošová			51	podnikatelka	Lesná	99	80	0	F
+3207	561002	1	4	902	5	Marta	Danková		DiS	27	nezaměstnaná	Lesná	99	80	0	F
+3207	561002	1	2	901	6	Marek	Packan			30	dělník	Lesná	99	80	0	M
+3207	561002	1	3	903	6	Marek	Mikuláš			34	instalatér	Lesná	99	80	0	M
+3207	561002	1	4	902	6	Anna	Hrečínová			56	uklízečka	Lesná	99	80	0	F
+3207	561002	1	2	901	7	Stanislav	Packan			35	OSVČ	Lesná	99	80	0	M
+3207	561002	1	3	903	7	Jan	Kantor	Bc.		25	student	Lesná	99	80	0	M
+3207	561002	1	4	902	7	Monika	Farkašová	Bc.		23	sociální pracovnice	Písařova Vesce	99	80	0	F
+3207	561002	1	2	901	8	Kamil	Pečenka			23	OSVČ	Lesná	99	80	0	M
+3207	561002	1	3	903	8	Petr	Rohlík			26	automechanik	Lesná	99	80	0	M
+3207	561002	1	4	902	8	Marcela	Hrečinová			31	zaměstnanec exekuční kanceláře	Lesná	99	80	0	F
+3207	561002	1	2	901	9	Václav	Šesták			42	vedoucí výroby	Lesná	99	80	0	M
+3207	561002	1	3	903	9	Michaela	Kárníková	Bc.		32	manažérka	Stará Knížecí Huť	99	80	0	F
+3207	561002	1	4	902	9	Růžena	Fantová			48	vedoucí účtárny	Lesná	99	80	0	F

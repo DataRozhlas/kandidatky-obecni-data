@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	564346	1	1	901	1	František	Bártík	M	PhDr.		46	historik	Lazsko	99	80	A
-2111	564346	1	1	901	2	Radka	Kopičková	F	Mgr.		35	učitelka ZŠ	Lazsko	99	80	A
-2111	564346	1	1	901	3	Stanislav	Kubeš	M			43	obchodní zástupce	Lazsko	99	80	A
-2111	564346	1	1	901	4	Jana	Kosánová	F			57	invalidní důchodkyně	Lazsko	99	80	A
-2111	564346	1	1	901	5	Markéta	Hrubá	F		DiS.	43	odborná pracovnice	Lazsko	99	80	A
-2111	564346	1	1	901	6	Pavel	Bartoš	M			87	důchodce	Lazsko	99	80	A
-2111	564346	1	2	902	1	Marek	Bartoš	M			51	zámečník	Lazsko	99	80	A
-2111	564346	1	2	902	2	Roman	Bischof	M			54	skladník	Lazsko	99	80	A
-2111	564346	1	2	902	3	Luboš	Hradský	M			44	stavbyvedoucí	Lazsko	99	80	A
-2111	564346	1	2	902	4	Martin	Bartoš	M			54	OSVČ	Lazsko	99	80	A
-2111	564346	1	2	902	5	Andrea	Bartošová	F			21	studentka	Lazsko	99	80	A
-2111	564346	1	2	902	6	Jaroslav	Lundák	M			61	důchodce	Lazsko	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	564346	1	1	901	1	František	Bártík	PhDr.		46	historik	Lazsko	99	80	A	M
+2111	564346	1	2	902	1	Marek	Bartoš			51	zámečník	Lazsko	99	80	A	M
+2111	564346	1	1	901	2	Radka	Kopičková	Mgr.		35	učitelka ZŠ	Lazsko	99	80	A	F
+2111	564346	1	2	902	2	Roman	Bischof			54	skladník	Lazsko	99	80	A	M
+2111	564346	1	1	901	3	Stanislav	Kubeš			43	obchodní zástupce	Lazsko	99	80	A	M
+2111	564346	1	2	902	3	Luboš	Hradský			44	stavbyvedoucí	Lazsko	99	80	A	M
+2111	564346	1	1	901	4	Jana	Kosánová			57	invalidní důchodkyně	Lazsko	99	80	A	F
+2111	564346	1	2	902	4	Martin	Bartoš			54	OSVČ	Lazsko	99	80	A	M
+2111	564346	1	1	901	5	Markéta	Hrubá		DiS.	43	odborná pracovnice	Lazsko	99	80	A	F
+2111	564346	1	2	902	5	Andrea	Bartošová			21	studentka	Lazsko	99	80	A	F
+2111	564346	1	1	901	6	Pavel	Bartoš			87	důchodce	Lazsko	99	80	A	M
+2111	564346	1	2	902	6	Jaroslav	Lundák			61	důchodce	Lazsko	99	80	A	M

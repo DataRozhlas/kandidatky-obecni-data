@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3205	578983	1	1	901	1	Jaroslav	Beneš	M	Ing.		57	samostatný odborný pracovník	Tatiná	99	80	A
-3205	578983	1	1	901	2	Martina	Červená	F			39	personální referentka	Tatiná	99	80	A
-3205	578983	1	1	901	3	Jan	Doležel	M	Bc.		62	elektrikář	Tatiná	99	80	A
-3205	578983	1	1	901	4	Stanislav	Loula	M	Ing.		32	obchodní zástupce	Tatiná	99	80	A
-3205	578983	1	1	901	5	Jiří	Mencl	M			49	jednatel	Tatiná	99	80	A
-3205	578983	1	1	901	6	Tomáš	Perníček	M			37	hasič	Tatiná	768	80	A
-3205	578983	1	2	902	1	Karel	Tyc	M			59	skladník	Tatiná	99	80	A
-3205	578983	1	2	902	2	Jaroslav	Beneš	M			34	OSVČ	Tatiná	99	80	A
-3205	578983	1	2	902	3	Petr	Hynek	M	Ing.		49	OSVČ	Tatiná	99	80	A
-3205	578983	1	2	902	4	Jaroslav	Kašpar	M			54	provozní zámečník	Tatiná	99	80	A
-3205	578983	1	2	902	5	Štěpánka	Kliková	F			35	operátorka	Tatiná	99	80	A
-3205	578983	1	2	902	6	Martin	Novák	M			25	obráběč kovů	Tatiná	99	80	A
-3205	578983	1	2	902	7	Dana	Saková	F			24	studentka	Tatiná	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3205	578983	1	1	901	1	Jaroslav	Beneš	Ing.		57	samostatný odborný pracovník	Tatiná	99	80	A	M
+3205	578983	1	2	902	1	Karel	Tyc			59	skladník	Tatiná	99	80	A	M
+3205	578983	1	1	901	2	Martina	Červená			39	personální referentka	Tatiná	99	80	A	F
+3205	578983	1	2	902	2	Jaroslav	Beneš			34	OSVČ	Tatiná	99	80	A	M
+3205	578983	1	1	901	3	Jan	Doležel	Bc.		62	elektrikář	Tatiná	99	80	A	M
+3205	578983	1	2	902	3	Petr	Hynek	Ing.		49	OSVČ	Tatiná	99	80	A	M
+3205	578983	1	1	901	4	Stanislav	Loula	Ing.		32	obchodní zástupce	Tatiná	99	80	A	M
+3205	578983	1	2	902	4	Jaroslav	Kašpar			54	provozní zámečník	Tatiná	99	80	A	M
+3205	578983	1	1	901	5	Jiří	Mencl			49	jednatel	Tatiná	99	80	A	M
+3205	578983	1	2	902	5	Štěpánka	Kliková			35	operátorka	Tatiná	99	80	A	F
+3205	578983	1	1	901	6	Tomáš	Perníček			37	hasič	Tatiná	768	80	A	M
+3205	578983	1	2	902	6	Martin	Novák			25	obráběč kovů	Tatiná	99	80	A	M
+3205	578983	1	2	902	7	Dana	Saková			24	studentka	Tatiná	99	80	A	F

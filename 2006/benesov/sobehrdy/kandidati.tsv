@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	530638	1	1	901	1	Pavel	Bartík	M			36	ředitel agentury	Soběhrdy	99	80	0
-2101	530638	1	1	901	2	Václava	Šímová	F			22	student	Soběhrdy	99	80	0
-2101	530638	1	1	901	3	Josef	Stareček	M			43	technik	Soběhrdy	99	80	0
-2101	530638	1	1	901	4	Soňa	Konrádová	F			40	informátorka	Soběhrdy	99	80	0
-2101	530638	1	1	901	5	Aleš	Bubla	M			29	geodet	Soběhrdy	99	80	0
-2101	530638	1	1	901	6	Martina	Sahulová	F			37	prodavačka	Soběhrdy	99	80	0
-2101	530638	1	1	901	7	Luboš	Kuchta	M			28	podnikatel	Soběhrdy	99	80	0
-2101	530638	1	1	901	8	Jana	Rezková	F			41	prodavačka	Soběhrdy	99	80	0
-2101	530638	1	2	902	1	Milan	Potůček	M	Ing.		46	zootechnik	Soběhrdy-Mezihoří	99	80	0
-2101	530638	1	2	902	2	Jaroslav	Vilímek	M			51	spojový mechanik	Soběhrdy-Mezihoří	99	80	0
-2101	530638	1	2	902	3	Pavlína	Hradečná	F	Ing.		37	projektový manažer	Soběhrdy-Mezihoří	99	80	0
-2101	530638	1	3	801	1	Maciej	Kucharski	M	Mgr.	CSc.	64	důchodce	Soběhrdy	99	80	0
-2101	530638	1	4	803	1	Jan	Šíma	M			29	manažer pro klíčové zákazníky	Soběhrdy-Žíňany	99	80	0
-2101	530638	1	5	802	1	Alena	Barešová	F	Ing.		35	účetní	Soběhrdy	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	530638	1	1	901	1	Pavel	Bartík			36	ředitel agentury	Soběhrdy	99	80	0	M
+2101	530638	1	2	902	1	Milan	Potůček	Ing.		46	zootechnik	Soběhrdy-Mezihoří	99	80	0	M
+2101	530638	1	3	801	1	Maciej	Kucharski	Mgr.	CSc.	64	důchodce	Soběhrdy	99	80	0	M
+2101	530638	1	4	803	1	Jan	Šíma			29	manažer pro klíčové zákazníky	Soběhrdy-Žíňany	99	80	0	M
+2101	530638	1	5	802	1	Alena	Barešová	Ing.		35	účetní	Soběhrdy	99	80	0	F
+2101	530638	1	1	901	2	Václava	Šímová			22	student	Soběhrdy	99	80	0	F
+2101	530638	1	2	902	2	Jaroslav	Vilímek			51	spojový mechanik	Soběhrdy-Mezihoří	99	80	0	M
+2101	530638	1	1	901	3	Josef	Stareček			43	technik	Soběhrdy	99	80	0	M
+2101	530638	1	2	902	3	Pavlína	Hradečná	Ing.		37	projektový manažer	Soběhrdy-Mezihoří	99	80	0	F
+2101	530638	1	1	901	4	Soňa	Konrádová			40	informátorka	Soběhrdy	99	80	0	F
+2101	530638	1	1	901	5	Aleš	Bubla			29	geodet	Soběhrdy	99	80	0	M
+2101	530638	1	1	901	6	Martina	Sahulová			37	prodavačka	Soběhrdy	99	80	0	F
+2101	530638	1	1	901	7	Luboš	Kuchta			28	podnikatel	Soběhrdy	99	80	0	M
+2101	530638	1	1	901	8	Jana	Rezková			41	prodavačka	Soběhrdy	99	80	0	F

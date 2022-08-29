@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5203	574562	1	1	902	1	Martin	Vondra	M			29	řidič	Velká Jesenice	99	80	0
-5203	574562	1	1	902	2	Jaroslav	Šinták	M			42	OSVČ	Velká Jesenice	99	80	0
-5203	574562	1	1	902	3	Břetislav	Krčil	M			48	svářeč	Velká Jesenice	99	80	0
-5203	574562	1	1	902	4	Petr	Slánský	M			29	truhlář	Velká Jesenice	99	80	0
-5203	574562	1	1	902	5	David	Vondra	M			27	řidič	Velká Jesenice	99	80	0
-5203	574562	1	1	902	6	Radim	Janoušek	M			37	OSVČ	Velká Jesenice	99	80	0
-5203	574562	1	1	902	7	Petr	Kroupa	M			45	řidič	Velká Jesenice	99	80	0
-5203	574562	1	1	902	8	Petr	Kriegler	M			51	mistr	Velká Jesenice	99	80	0
-5203	574562	1	1	902	9	Hana	Slabá	F			44	poštovní doručovatelka	Velká Jesenice	99	80	0
-5203	574562	1	2	903	1	Petr	Plaček	M			33	vedoucí energetik	Velká Jesenice	99	80	0
-5203	574562	1	2	903	2	Petr	Havlík	M			30	tiskař	Velká Jesenice	99	80	0
-5203	574562	1	2	903	3	Marcela	Šitinová	F			41	řeznice	Velká Jesenice	99	80	0
-5203	574562	1	2	903	4	Martina	Kratěnová	F			36	zdravotní sestra	Velká Jesenice	99	80	0
-5203	574562	1	2	903	5	Monika	Charousová	F			32	na rodičovské dovolené	Velká Jesenice	99	80	0
-5203	574562	1	2	903	6	Marie	Runštuková	F			53	kantýnská	Velká Jesenice	99	80	0
-5203	574562	1	2	903	7	Jaromír	Vaněk	M			56	údržbář ČD	Velká Jesenice	99	80	0
-5203	574562	1	2	903	8	Žaneta	Šumpíková	F			22	na rodičovské dovolené	Velká Jesenice	99	80	0
-5203	574562	1	2	903	9	Blanka	Hromádková	F			56	vedoucí pošty	Velká Jesenice	99	80	0
-5203	574562	1	3	904	1	Jaroslav	Zelený	M		DiS.	30	zdravotnický záchranář	Velká Jesenice	99	80	0
-5203	574562	1	3	904	2	Rostislav	Toman	M			36	finanční poradce	Velká Jesenice	99	80	0
-5203	574562	1	3	904	3	Zuzana	Valešová	F	Ing.		27	ekonomka	Velká Jesenice	99	80	0
-5203	574562	1	3	904	4	Aleš	Cohorna	M			35	provozní údržbář	Velká Jesenice	99	80	0
-5203	574562	1	3	904	5	Martin	Valeš	M			36	technik	Velká Jesenice	99	80	0
-5203	574562	1	3	904	6	Jan	Valeš	M			31	vedoucí a účetní skladu	Velká Jesenice	99	80	0
-5203	574562	1	3	904	7	Jiří	Meier	M			59	živnostník v kovoobráběčství	Velká Jesenice	99	80	0
-5203	574562	1	3	904	8	Jana	Jansová	F			48	podnikatelka v gumáren. prům.	Velká Jesenice	99	80	0
-5203	574562	1	3	904	9	Ivo	Souček	M			37	podnikatel v autodopravě	Velká Jesenice	99	80	0
-5203	574562	1	4	901	1	Josef	Míl	M	Ing.		59	starosta	Velká Jesenice	99	80	0
-5203	574562	1	4	901	2	Pavel	Vohralík	M			56	stavební technik	Velká Jesenice	99	80	0
-5203	574562	1	4	901	3	Josef	Metelka	M			35	podnikatel	Velká Jesenice	99	80	0
-5203	574562	1	4	901	4	Josef	Vondra	M			54	řidič	Velká Jesenice	99	80	0
-5203	574562	1	4	901	5	Zdeněk	Stolín	M	Ing.		32	stavební inženýr	Velká Jesenice	11	80	0
-5203	574562	1	4	901	6	Pavel	Rudolf	M			64	podnikatel	Velká Jesenice	99	80	0
-5203	574562	1	4	901	7	Lukáš	Pražák	M			35	řidič	Velká Jesenice	99	80	0
-5203	574562	1	4	901	8	Jaroslav	Kmoníček	M			31	bankovní úředník	Velká Jesenice	99	80	0
-5203	574562	1	4	901	9	Petr	Jeništa	M			33	zeměměřič	Velká Jesenice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5203	574562	1	1	902	1	Martin	Vondra			29	řidič	Velká Jesenice	99	80	0	M
+5203	574562	1	2	903	1	Petr	Plaček			33	vedoucí energetik	Velká Jesenice	99	80	0	M
+5203	574562	1	3	904	1	Jaroslav	Zelený		DiS.	30	zdravotnický záchranář	Velká Jesenice	99	80	0	M
+5203	574562	1	4	901	1	Josef	Míl	Ing.		59	starosta	Velká Jesenice	99	80	0	M
+5203	574562	1	1	902	2	Jaroslav	Šinták			42	OSVČ	Velká Jesenice	99	80	0	M
+5203	574562	1	2	903	2	Petr	Havlík			30	tiskař	Velká Jesenice	99	80	0	M
+5203	574562	1	3	904	2	Rostislav	Toman			36	finanční poradce	Velká Jesenice	99	80	0	M
+5203	574562	1	4	901	2	Pavel	Vohralík			56	stavební technik	Velká Jesenice	99	80	0	M
+5203	574562	1	1	902	3	Břetislav	Krčil			48	svářeč	Velká Jesenice	99	80	0	M
+5203	574562	1	2	903	3	Marcela	Šitinová			41	řeznice	Velká Jesenice	99	80	0	F
+5203	574562	1	3	904	3	Zuzana	Valešová	Ing.		27	ekonomka	Velká Jesenice	99	80	0	F
+5203	574562	1	4	901	3	Josef	Metelka			35	podnikatel	Velká Jesenice	99	80	0	M
+5203	574562	1	1	902	4	Petr	Slánský			29	truhlář	Velká Jesenice	99	80	0	M
+5203	574562	1	2	903	4	Martina	Kratěnová			36	zdravotní sestra	Velká Jesenice	99	80	0	F
+5203	574562	1	3	904	4	Aleš	Cohorna			35	provozní údržbář	Velká Jesenice	99	80	0	M
+5203	574562	1	4	901	4	Josef	Vondra			54	řidič	Velká Jesenice	99	80	0	M
+5203	574562	1	1	902	5	David	Vondra			27	řidič	Velká Jesenice	99	80	0	M
+5203	574562	1	2	903	5	Monika	Charousová			32	na rodičovské dovolené	Velká Jesenice	99	80	0	F
+5203	574562	1	3	904	5	Martin	Valeš			36	technik	Velká Jesenice	99	80	0	M
+5203	574562	1	4	901	5	Zdeněk	Stolín	Ing.		32	stavební inženýr	Velká Jesenice	11	80	0	M
+5203	574562	1	1	902	6	Radim	Janoušek			37	OSVČ	Velká Jesenice	99	80	0	M
+5203	574562	1	2	903	6	Marie	Runštuková			53	kantýnská	Velká Jesenice	99	80	0	F
+5203	574562	1	3	904	6	Jan	Valeš			31	vedoucí a účetní skladu	Velká Jesenice	99	80	0	M
+5203	574562	1	4	901	6	Pavel	Rudolf			64	podnikatel	Velká Jesenice	99	80	0	M
+5203	574562	1	1	902	7	Petr	Kroupa			45	řidič	Velká Jesenice	99	80	0	M
+5203	574562	1	2	903	7	Jaromír	Vaněk			56	údržbář ČD	Velká Jesenice	99	80	0	M
+5203	574562	1	3	904	7	Jiří	Meier			59	živnostník v kovoobráběčství	Velká Jesenice	99	80	0	M
+5203	574562	1	4	901	7	Lukáš	Pražák			35	řidič	Velká Jesenice	99	80	0	M
+5203	574562	1	1	902	8	Petr	Kriegler			51	mistr	Velká Jesenice	99	80	0	M
+5203	574562	1	2	903	8	Žaneta	Šumpíková			22	na rodičovské dovolené	Velká Jesenice	99	80	0	F
+5203	574562	1	3	904	8	Jana	Jansová			48	podnikatelka v gumáren. prům.	Velká Jesenice	99	80	0	F
+5203	574562	1	4	901	8	Jaroslav	Kmoníček			31	bankovní úředník	Velká Jesenice	99	80	0	M
+5203	574562	1	1	902	9	Hana	Slabá			44	poštovní doručovatelka	Velká Jesenice	99	80	0	F
+5203	574562	1	2	903	9	Blanka	Hromádková			56	vedoucí pošty	Velká Jesenice	99	80	0	F
+5203	574562	1	3	904	9	Ivo	Souček			37	podnikatel v autodopravě	Velká Jesenice	99	80	0	M
+5203	574562	1	4	901	9	Petr	Jeništa			33	zeměměřič	Velká Jesenice	99	80	0	M

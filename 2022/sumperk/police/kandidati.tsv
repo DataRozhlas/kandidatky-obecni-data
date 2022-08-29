@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	540731	1	1	902	1	Pavel	Polách	M	Dr. Ing.		50	OSVČ	Police	99	80	A
-7105	540731	1	1	902	2	Soňa	Fajtová	F	Ing.		47	účetní	Police	99	80	A
-7105	540731	1	1	902	3	Zdeňka	Kuxová	F	Mgr.		42	učitelka	Police	99	80	A
-7105	540731	1	1	902	4	Ivana	Galásková	F			54	personalistka	Police	99	80	A
-7105	540731	1	1	902	5	Václav	Kux	M			43	jednatel	Police	99	80	A
-7105	540731	1	1	902	6	Patrik	Potocký	M			27	opravář	Police	99	80	A
-7105	540731	1	1	902	7	Dana	Pelikánová	F	Bc.		56	účetní	Police	99	80	A
-7105	540731	1	2	901	1	Vít	Seidenglanz	M	Ing.		54	zemědělský poradce	Police	99	80	A
-7105	540731	1	2	901	2	Lukáš	Kopp	M			45	vedoucí slévárny	Police	99	80	A
-7105	540731	1	2	901	3	Martin	Fišner	M			48	dělník	Police	99	80	A
-7105	540731	1	2	901	4	Martin	Plačko	M			35	voják z povolání	Police	99	80	A
-7105	540731	1	2	901	5	Tomáš	Polák	M			34	dělník	Police	99	80	A
-7105	540731	1	2	901	6	Pavel	Heincl	M			68	vězeňská služba ČR	Police	99	80	A
-7105	540731	1	2	901	7	Milena	Štěpánová	F			55	dělník	Police	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	540731	1	1	902	1	Pavel	Polách	Dr. Ing.		50	OSVČ	Police	99	80	A	M
+7105	540731	1	2	901	1	Vít	Seidenglanz	Ing.		54	zemědělský poradce	Police	99	80	A	M
+7105	540731	1	1	902	2	Soňa	Fajtová	Ing.		47	účetní	Police	99	80	A	F
+7105	540731	1	2	901	2	Lukáš	Kopp			45	vedoucí slévárny	Police	99	80	A	M
+7105	540731	1	1	902	3	Zdeňka	Kuxová	Mgr.		42	učitelka	Police	99	80	A	F
+7105	540731	1	2	901	3	Martin	Fišner			48	dělník	Police	99	80	A	M
+7105	540731	1	1	902	4	Ivana	Galásková			54	personalistka	Police	99	80	A	F
+7105	540731	1	2	901	4	Martin	Plačko			35	voják z povolání	Police	99	80	A	M
+7105	540731	1	1	902	5	Václav	Kux			43	jednatel	Police	99	80	A	M
+7105	540731	1	2	901	5	Tomáš	Polák			34	dělník	Police	99	80	A	M
+7105	540731	1	1	902	6	Patrik	Potocký			27	opravář	Police	99	80	A	M
+7105	540731	1	2	901	6	Pavel	Heincl			68	vězeňská služba ČR	Police	99	80	A	M
+7105	540731	1	1	902	7	Dana	Pelikánová	Bc.		56	účetní	Police	99	80	A	F
+7105	540731	1	2	901	7	Milena	Štěpánová			55	dělník	Police	99	80	A	F

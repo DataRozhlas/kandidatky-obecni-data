@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	569160	1	1	1	1	Dana	Křováčková	F			44	úřednice	Nová Ves u Chotěboře	99	1	0
-6101	569160	1	1	1	2	Zdenka	Pavlasová	F			37	prodavačka	Nová Ves u Chotěboře	99	1	0
-6101	569160	1	1	1	3	František	Pospíchal	M	Ing.		69	důchodce	Nová Ves u Chotěboře	1	1	0
-6101	569160	1	1	1	4	Hynek	Boháč	M			45	podnikatel	Nová Ves u Chotěboře	99	1	0
-6101	569160	1	1	1	5	Zdeněk	Vacek	M			51	řidič MKD	Nová Ves u Chotěboře	99	1	0
-6101	569160	1	1	1	6	Jiří	Karlík	M			47	podnikatel	Nová Ves u Chotěboře	99	1	0
-6101	569160	1	1	1	7	Václav	Málek	M			38	řidič	Nová Ves u Chotěboře	99	1	0
-6101	569160	1	1	1	8	Jan	Erben	M			51	inv. důchodce	Nový Dvůr	99	1	0
-6101	569160	1	1	1	9	Marcela	Pospíchalová	F			37	dělnice	Nová Ves u Chotěboře	99	1	0
-6101	569160	1	2	901	1	Miloš	Plašil	M			35	zámečník	Nová Ves u Chotěboře	99	80	0
-6101	569160	1	2	901	2	Josef	Pelikán	M			47	invalidní důchodce	Nová Ves u Chotěboře	99	80	0
-6101	569160	1	2	901	3	Pavel	Kolář	M			43	živnostník	Nová Ves u Chotěboře	99	80	0
-6101	569160	1	2	901	4	Jitka	Frimlová	F			35	kuchařka	Nová Ves u Chotěboře	99	80	0
-6101	569160	1	2	901	5	Jana	Málková	F			30	švadlena	Nová Ves u Chotěboře	99	80	0
-6101	569160	1	2	901	6	Petr	Pavlas	M			34	živnostník	Nová Ves u Chotěboře	99	80	0
-6101	569160	1	2	901	7	Pavel	Marek	M			35	dělník	Nová Ves u Chotěboře	99	80	0
-6101	569160	1	2	901	8	Pavel	Málek	M			35	soustružník	Nový Dvůr	99	80	0
-6101	569160	1	2	901	9	Martin	Bříza	M			35	vedoucí prodejny	Nová Ves u Chotěboře	99	80	0
-6101	569160	1	3	7	1	Miloš	Uchytil	M	Ing.		43	starosta obce	Nová Ves u Chotěboře	99	7	0
-6101	569160	1	3	7	2	Václav	Marek	M	Ing. Arch.		41	projektant	Nová Ves u Chotěboře	99	7	0
-6101	569160	1	3	7	3	Roman	Sadílek	M			33	zootechnik	Nová Ves u Chotěboře	99	7	0
-6101	569160	1	3	7	4	Jaromír	Filip	M	Ing.	CSc.	54	podnikatel	Nová Ves u Chotěboře	99	7	0
-6101	569160	1	3	7	5	Bohumila	Zmeková	F			36	dělnice	Nový Dvůr	99	7	0
-6101	569160	1	3	7	6	Ludvík	Čermák	M			62	stavební technik	Nová Ves u Chotěboře	7	7	0
-6101	569160	1	3	7	7	Ladislav	Kubera	M			53	dělník	Nová Ves u Chotěboře	99	7	0
-6101	569160	1	3	7	8	Monika	Čermáková	F			32	žena v domácnosti	Nová Ves u Chotěboře	7	7	0
-6101	569160	1	3	7	9	Václav	Kadleček	M			65	důchodce	Nová Ves u Chotěboře	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	569160	1	1	1	1	Dana	Křováčková			44	úřednice	Nová Ves u Chotěboře	99	1	0	F
+6101	569160	1	2	901	1	Miloš	Plašil			35	zámečník	Nová Ves u Chotěboře	99	80	0	M
+6101	569160	1	3	7	1	Miloš	Uchytil	Ing.		43	starosta obce	Nová Ves u Chotěboře	99	7	0	M
+6101	569160	1	1	1	2	Zdenka	Pavlasová			37	prodavačka	Nová Ves u Chotěboře	99	1	0	F
+6101	569160	1	2	901	2	Josef	Pelikán			47	invalidní důchodce	Nová Ves u Chotěboře	99	80	0	M
+6101	569160	1	3	7	2	Václav	Marek	Ing. Arch.		41	projektant	Nová Ves u Chotěboře	99	7	0	M
+6101	569160	1	1	1	3	František	Pospíchal	Ing.		69	důchodce	Nová Ves u Chotěboře	1	1	0	M
+6101	569160	1	2	901	3	Pavel	Kolář			43	živnostník	Nová Ves u Chotěboře	99	80	0	M
+6101	569160	1	3	7	3	Roman	Sadílek			33	zootechnik	Nová Ves u Chotěboře	99	7	0	M
+6101	569160	1	1	1	4	Hynek	Boháč			45	podnikatel	Nová Ves u Chotěboře	99	1	0	M
+6101	569160	1	2	901	4	Jitka	Frimlová			35	kuchařka	Nová Ves u Chotěboře	99	80	0	F
+6101	569160	1	3	7	4	Jaromír	Filip	Ing.	CSc.	54	podnikatel	Nová Ves u Chotěboře	99	7	0	M
+6101	569160	1	1	1	5	Zdeněk	Vacek			51	řidič MKD	Nová Ves u Chotěboře	99	1	0	M
+6101	569160	1	2	901	5	Jana	Málková			30	švadlena	Nová Ves u Chotěboře	99	80	0	F
+6101	569160	1	3	7	5	Bohumila	Zmeková			36	dělnice	Nový Dvůr	99	7	0	F
+6101	569160	1	1	1	6	Jiří	Karlík			47	podnikatel	Nová Ves u Chotěboře	99	1	0	M
+6101	569160	1	2	901	6	Petr	Pavlas			34	živnostník	Nová Ves u Chotěboře	99	80	0	M
+6101	569160	1	3	7	6	Ludvík	Čermák			62	stavební technik	Nová Ves u Chotěboře	7	7	0	M
+6101	569160	1	1	1	7	Václav	Málek			38	řidič	Nová Ves u Chotěboře	99	1	0	M
+6101	569160	1	2	901	7	Pavel	Marek			35	dělník	Nová Ves u Chotěboře	99	80	0	M
+6101	569160	1	3	7	7	Ladislav	Kubera			53	dělník	Nová Ves u Chotěboře	99	7	0	M
+6101	569160	1	1	1	8	Jan	Erben			51	inv. důchodce	Nový Dvůr	99	1	0	M
+6101	569160	1	2	901	8	Pavel	Málek			35	soustružník	Nový Dvůr	99	80	0	M
+6101	569160	1	3	7	8	Monika	Čermáková			32	žena v domácnosti	Nová Ves u Chotěboře	7	7	0	F
+6101	569160	1	1	1	9	Marcela	Pospíchalová			37	dělnice	Nová Ves u Chotěboře	99	1	0	F
+6101	569160	1	2	901	9	Martin	Bříza			35	vedoucí prodejny	Nová Ves u Chotěboře	99	80	0	M
+6101	569160	1	3	7	9	Václav	Kadleček			65	důchodce	Nová Ves u Chotěboře	99	7	0	M

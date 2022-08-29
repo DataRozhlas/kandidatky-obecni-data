@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4201	562645	1	1	801	1	Martin	Čunát	M			21	student	Kytlice	99	80	0
-4201	562645	1	2	902	1	Přemysl	Chlad	M			30	vedoucí mateřské školky	Falknov	99	80	0
-4201	562645	1	2	902	2	Lukáš	Schwarz	M			30	úředník	Falknov	99	80	0
-4201	562645	1	2	902	3	Rafael	Moreno	M			35	stavební manažer	Kytlice	99	80	0
-4201	562645	1	2	902	4	Jaroslav	Mandík	M			66	důchodce	Kytlice	99	80	0
-4201	562645	1	2	902	5	Eva	Rajnohová	F			54	signalista ČD	Mlýny	99	80	0
-4201	562645	1	2	902	6	Jindřich	Kreidl	M			51	podnikatel	Dolní Falknov	99	80	0
-4201	562645	1	2	902	7	Blanka	Kubincová	F			57	dělnice	Kytlice	99	80	0
-4201	562645	1	2	902	8	František	Rajnoha	M			51	dělník	Mlýny	99	80	0
-4201	562645	1	2	902	9	Miloš	Novák	M			33	číšník	Kytlice	99	80	0
-4201	562645	1	3	53	1	Josef	Janouškovec	M			60	starosta obce	Falknov	99	53	0
-4201	562645	1	3	53	2	David	Dvořák	M			38	živnostník	Kytlice	53	53	0
-4201	562645	1	3	53	3	Jan	Jahoda	M			53	geodet	Kytlice	99	53	0
-4201	562645	1	3	53	4	Karel	Štědra	M			52	nástrojař	Kytlice	99	53	0
-4201	562645	1	3	53	5	Pavel	Pekař	M			35	technik	Falknov	99	53	0
-4201	562645	1	3	53	6	Jan	Sekan	M			24	živnostník	Kytlice	99	53	0
-4201	562645	1	3	53	7	Hana	Bělová	F			58	důchodce	Dolní Falknov	99	53	0
-4201	562645	1	3	53	8	Jiří	Března	M			61	živnostník	Kytlice	99	53	0
-4201	562645	1	3	53	9	Jiří	David-Mach	M			22	automechanik	Hillův Mlýn	99	53	0
-4201	562645	1	4	901	1	Tamara	Zajacová	F			50	bankovní manažer	Kytlice	99	80	0
-4201	562645	1	4	901	2	Yvetta	Blažková	F			49	živnostník	Kytlice	99	80	0
-4201	562645	1	4	901	3	Martin	Rajchl	M			43	dělník	Mlýny	99	80	0
-4201	562645	1	4	901	4	Eva	Parásková	F			32	mateřská dovolená	Dolní Falknov	99	80	0
-4201	562645	1	4	901	5	Kateřina	Melničáková Kučerová	F			47	vedoucí pošty	Kytlice	99	80	0
-4201	562645	1	4	901	6	Petr	Culek	M			45	řidič MKD	Dolní Falknov	99	80	0
-4201	562645	1	4	901	7	Tomáš	Malý	M	JUDr.		51	právník	Kytlice	99	80	0
-4201	562645	1	4	901	8	Dana	Svobodová	F			33	inspektorka tisku	Kytlice	99	80	0
-4201	562645	1	4	901	9	Libor	Hasmanda	M			27	samostatný technik	Kytlice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4201	562645	1	1	801	1	Martin	Čunát			21	student	Kytlice	99	80	0	M
+4201	562645	1	2	902	1	Přemysl	Chlad			30	vedoucí mateřské školky	Falknov	99	80	0	M
+4201	562645	1	3	53	1	Josef	Janouškovec			60	starosta obce	Falknov	99	53	0	M
+4201	562645	1	4	901	1	Tamara	Zajacová			50	bankovní manažer	Kytlice	99	80	0	F
+4201	562645	1	2	902	2	Lukáš	Schwarz			30	úředník	Falknov	99	80	0	M
+4201	562645	1	3	53	2	David	Dvořák			38	živnostník	Kytlice	53	53	0	M
+4201	562645	1	4	901	2	Yvetta	Blažková			49	živnostník	Kytlice	99	80	0	F
+4201	562645	1	2	902	3	Rafael	Moreno			35	stavební manažer	Kytlice	99	80	0	M
+4201	562645	1	3	53	3	Jan	Jahoda			53	geodet	Kytlice	99	53	0	M
+4201	562645	1	4	901	3	Martin	Rajchl			43	dělník	Mlýny	99	80	0	M
+4201	562645	1	2	902	4	Jaroslav	Mandík			66	důchodce	Kytlice	99	80	0	M
+4201	562645	1	3	53	4	Karel	Štědra			52	nástrojař	Kytlice	99	53	0	M
+4201	562645	1	4	901	4	Eva	Parásková			32	mateřská dovolená	Dolní Falknov	99	80	0	F
+4201	562645	1	2	902	5	Eva	Rajnohová			54	signalista ČD	Mlýny	99	80	0	F
+4201	562645	1	3	53	5	Pavel	Pekař			35	technik	Falknov	99	53	0	M
+4201	562645	1	4	901	5	Kateřina	Melničáková Kučerová			47	vedoucí pošty	Kytlice	99	80	0	F
+4201	562645	1	2	902	6	Jindřich	Kreidl			51	podnikatel	Dolní Falknov	99	80	0	M
+4201	562645	1	3	53	6	Jan	Sekan			24	živnostník	Kytlice	99	53	0	M
+4201	562645	1	4	901	6	Petr	Culek			45	řidič MKD	Dolní Falknov	99	80	0	M
+4201	562645	1	2	902	7	Blanka	Kubincová			57	dělnice	Kytlice	99	80	0	F
+4201	562645	1	3	53	7	Hana	Bělová			58	důchodce	Dolní Falknov	99	53	0	F
+4201	562645	1	4	901	7	Tomáš	Malý	JUDr.		51	právník	Kytlice	99	80	0	M
+4201	562645	1	2	902	8	František	Rajnoha			51	dělník	Mlýny	99	80	0	M
+4201	562645	1	3	53	8	Jiří	Března			61	živnostník	Kytlice	99	53	0	M
+4201	562645	1	4	901	8	Dana	Svobodová			33	inspektorka tisku	Kytlice	99	80	0	F
+4201	562645	1	2	902	9	Miloš	Novák			33	číšník	Kytlice	99	80	0	M
+4201	562645	1	3	53	9	Jiří	David-Mach			22	automechanik	Hillův Mlýn	99	53	0	M
+4201	562645	1	4	901	9	Libor	Hasmanda			27	samostatný technik	Kytlice	99	80	0	M

@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6205	586421	1	1	1	1	Vojtěch	Kopeček	M			59	jednatel	Násedlovice	1	1	A
-6205	586421	1	1	1	2	František	Hanák	M	Mgr.		46	programátor	Násedlovice	1	1	A
-6205	586421	1	1	1	3	Šárka	Nováková	F			43	pracovnice obecního úřadu	Násedlovice	99	1	A
-6205	586421	1	1	1	4	Václava	Urbančoková	F			48	pracovnice v sociálních službách	Násedlovice	99	1	A
-6205	586421	1	1	1	5	Renáta	Bravencová	F	MUDr.		28	lékařka	Násedlovice	99	1	A
-6205	586421	1	1	1	6	Lukáš	Kučera	M			42	instalatér - topenář	Násedlovice	99	1	A
-6205	586421	1	1	1	7	Hana	Dobešová	F			55	pečující o osobu blízkou	Násedlovice	99	1	A
-6205	586421	1	1	1	8	Roman	Svatoň	M			40	instalatér	Násedlovice	99	1	A
-6205	586421	1	1	1	9	Michal	Klimek	M			37	OSVČ	Násedlovice	99	1	A
-6205	586421	1	2	166	1	Vlasta	Mokrá	F			60	starostka	Násedlovice	166	166	A
-6205	586421	1	2	166	2	František	Večeřa	M			67	důchodce	Násedlovice	99	166	A
-6205	586421	1	2	166	3	Vladimír	Švec	M			61	dělník	Násedlovice	99	166	A
-6205	586421	1	2	166	4	Tomáš	Buršík	M			36	IT specialista	Násedlovice	99	166	A
-6205	586421	1	2	166	5	Ivona	Hovězáková	F			35	asistentka	Násedlovice	99	166	A
-6205	586421	1	2	166	6	Klára	Mokrá	F		DiS.	39	projektový manažer	Násedlovice	99	166	A
-6205	586421	1	2	166	7	Petra	Horáčková	F			34	prodavačka	Násedlovice	99	166	A
-6205	586421	1	2	166	8	Jaromír	Boháček	M			63	jednatel	Násedlovice	99	166	A
-6205	586421	1	2	166	9	Petr	Ševela	M			51	dělník	Násedlovice	99	166	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6205	586421	1	1	1	1	Vojtěch	Kopeček			59	jednatel	Násedlovice	1	1	A	M
+6205	586421	1	2	166	1	Vlasta	Mokrá			60	starostka	Násedlovice	166	166	A	F
+6205	586421	1	1	1	2	František	Hanák	Mgr.		46	programátor	Násedlovice	1	1	A	M
+6205	586421	1	2	166	2	František	Večeřa			67	důchodce	Násedlovice	99	166	A	M
+6205	586421	1	1	1	3	Šárka	Nováková			43	pracovnice obecního úřadu	Násedlovice	99	1	A	F
+6205	586421	1	2	166	3	Vladimír	Švec			61	dělník	Násedlovice	99	166	A	M
+6205	586421	1	1	1	4	Václava	Urbančoková			48	pracovnice v sociálních službách	Násedlovice	99	1	A	F
+6205	586421	1	2	166	4	Tomáš	Buršík			36	IT specialista	Násedlovice	99	166	A	M
+6205	586421	1	1	1	5	Renáta	Bravencová	MUDr.		28	lékařka	Násedlovice	99	1	A	F
+6205	586421	1	2	166	5	Ivona	Hovězáková			35	asistentka	Násedlovice	99	166	A	F
+6205	586421	1	1	1	6	Lukáš	Kučera			42	instalatér - topenář	Násedlovice	99	1	A	M
+6205	586421	1	2	166	6	Klára	Mokrá		DiS.	39	projektový manažer	Násedlovice	99	166	A	F
+6205	586421	1	1	1	7	Hana	Dobešová			55	pečující o osobu blízkou	Násedlovice	99	1	A	F
+6205	586421	1	2	166	7	Petra	Horáčková			34	prodavačka	Násedlovice	99	166	A	F
+6205	586421	1	1	1	8	Roman	Svatoň			40	instalatér	Násedlovice	99	1	A	M
+6205	586421	1	2	166	8	Jaromír	Boháček			63	jednatel	Násedlovice	99	166	A	M
+6205	586421	1	1	1	9	Michal	Klimek			37	OSVČ	Násedlovice	99	1	A	M
+6205	586421	1	2	166	9	Petr	Ševela			51	dělník	Násedlovice	99	166	A	M

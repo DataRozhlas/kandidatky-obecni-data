@@ -1,32 +1,32 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5102	563633	1	1	903	1	Lukáš	Bělohradský	M			31	podnikatel	Josefův Důl	53	80	0
-5102	563633	1	1	903	2	Radka	Kittelová	F			46	poštovní doručovatelka	Josefův Důl	99	80	0
-5102	563633	1	1	903	3	Bedřich	Kramár	M			31	stavbyvedoucí	Dolní Maxov	99	80	0
-5102	563633	1	1	903	4	Milan	Engel	M			44	živnostník	Dolní Maxov	99	80	0
-5102	563633	1	1	903	5	Petra	Kočová	F			31	sociální pracovník	Dolní Maxov	99	80	0
-5102	563633	1	1	903	6	Pavel	Svárovský	M			34	technik	Josefův Důl	99	80	0
-5102	563633	1	1	903	7	Miroslav	Adamec	M			43	číšník	Dolní Maxov	99	80	0
-5102	563633	1	1	903	8	Jan	Bejdák	M	Bc.	DiS.	27	podnikatel	Antonínov	99	80	0
-5102	563633	1	1	903	9	Jan	Blaško	M			31	OSVČ	Dolní Maxov	99	80	0
-5102	563633	1	2	7	1	Pavel	Petráček	M			35	člen rady Libereckého kraje	Dolní Maxov	7	7	0
-5102	563633	1	2	7	2	Zdeněk	Petržela	M			35	OSVČ	Antonínov	7	7	0
-5102	563633	1	2	7	3	Petr	Petráček	M			38	vedoucí zimního střediska	Josefův Důl	99	7	0
-5102	563633	1	2	7	4	Nikol	Sosičová	F			25	vedoucí satelitní pošty	Josefův Důl	99	7	0
-5102	563633	1	3	902	1	Petra	Slavíková	F			30	finanční poradce	Dolní Maxov	99	80	0
-5102	563633	1	3	902	2	Milan	Holubička	M			36	truhlář	Josefův Důl	99	80	0
-5102	563633	1	3	902	3	Eva	Bulavčáková	F			27	finanční poradce	Dolní Maxov	99	80	0
-5102	563633	1	3	902	4	Lukáš	Kender	M			27	živnostník	Dolní Maxov	99	80	0
-5102	563633	1	3	902	5	Kateřina	Šabatová	F			31	barmanka	Dolní Maxov	99	80	0
-5102	563633	1	3	902	6	Jaroslav	Morávek	M	Ing.		51	podnikatel	Josefův Důl	99	80	0
-5102	563633	1	3	902	7	Renáta	Sodomková	F			35	zdravotní sestra	Dolní Maxov	99	80	0
-5102	563633	1	3	902	8	Miroslav	Černohorský	M			40	průvodčí	Josefův Důl	99	80	0
-5102	563633	1	3	902	9	Markéta	Počekajlová	F			35	lékarnice	Dolní Maxov	99	80	0
-5102	563633	1	4	901	1	Jan	Miksa	M			56	starosta	Dolní Maxov	99	80	0
-5102	563633	1	4	901	2	Roman	Šťastný	M			51	místostarosta	Josefův Důl	99	80	0
-5102	563633	1	4	901	3	Karel	Stuchlík	M	MUDr.		45	lékař	Antonínov	99	80	0
-5102	563633	1	4	901	4	Miloš	Rydval	M	Ing.		56	podnikatel	Dolní Maxov	99	80	0
-5102	563633	1	4	901	5	Jiří	Kremláček	M			41	podnikatel	Josefův Důl	99	80	0
-5102	563633	1	4	901	6	Daniel	Hynek	M			39	sklář	Antonínov	99	80	0
-5102	563633	1	4	901	7	Michael	Harmanoš	M			31	nezaměstnaný	Josefův Důl	99	80	0
-5102	563633	1	4	901	8	Jaromír	Poledňák	M	Ing.		50	jednatel	Dolní Maxov	99	80	0
-5102	563633	1	4	901	9	Helena	Košteynová	F			60	podnikatelka	Josefův Důl	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5102	563633	1	1	903	1	Lukáš	Bělohradský			31	podnikatel	Josefův Důl	53	80	0	M
+5102	563633	1	2	7	1	Pavel	Petráček			35	člen rady Libereckého kraje	Dolní Maxov	7	7	0	M
+5102	563633	1	3	902	1	Petra	Slavíková			30	finanční poradce	Dolní Maxov	99	80	0	F
+5102	563633	1	4	901	1	Jan	Miksa			56	starosta	Dolní Maxov	99	80	0	M
+5102	563633	1	1	903	2	Radka	Kittelová			46	poštovní doručovatelka	Josefův Důl	99	80	0	F
+5102	563633	1	2	7	2	Zdeněk	Petržela			35	OSVČ	Antonínov	7	7	0	M
+5102	563633	1	3	902	2	Milan	Holubička			36	truhlář	Josefův Důl	99	80	0	M
+5102	563633	1	4	901	2	Roman	Šťastný			51	místostarosta	Josefův Důl	99	80	0	M
+5102	563633	1	1	903	3	Bedřich	Kramár			31	stavbyvedoucí	Dolní Maxov	99	80	0	M
+5102	563633	1	2	7	3	Petr	Petráček			38	vedoucí zimního střediska	Josefův Důl	99	7	0	M
+5102	563633	1	3	902	3	Eva	Bulavčáková			27	finanční poradce	Dolní Maxov	99	80	0	F
+5102	563633	1	4	901	3	Karel	Stuchlík	MUDr.		45	lékař	Antonínov	99	80	0	M
+5102	563633	1	1	903	4	Milan	Engel			44	živnostník	Dolní Maxov	99	80	0	M
+5102	563633	1	2	7	4	Nikol	Sosičová			25	vedoucí satelitní pošty	Josefův Důl	99	7	0	F
+5102	563633	1	3	902	4	Lukáš	Kender			27	živnostník	Dolní Maxov	99	80	0	M
+5102	563633	1	4	901	4	Miloš	Rydval	Ing.		56	podnikatel	Dolní Maxov	99	80	0	M
+5102	563633	1	1	903	5	Petra	Kočová			31	sociální pracovník	Dolní Maxov	99	80	0	F
+5102	563633	1	3	902	5	Kateřina	Šabatová			31	barmanka	Dolní Maxov	99	80	0	F
+5102	563633	1	4	901	5	Jiří	Kremláček			41	podnikatel	Josefův Důl	99	80	0	M
+5102	563633	1	1	903	6	Pavel	Svárovský			34	technik	Josefův Důl	99	80	0	M
+5102	563633	1	3	902	6	Jaroslav	Morávek	Ing.		51	podnikatel	Josefův Důl	99	80	0	M
+5102	563633	1	4	901	6	Daniel	Hynek			39	sklář	Antonínov	99	80	0	M
+5102	563633	1	1	903	7	Miroslav	Adamec			43	číšník	Dolní Maxov	99	80	0	M
+5102	563633	1	3	902	7	Renáta	Sodomková			35	zdravotní sestra	Dolní Maxov	99	80	0	F
+5102	563633	1	4	901	7	Michael	Harmanoš			31	nezaměstnaný	Josefův Důl	99	80	0	M
+5102	563633	1	1	903	8	Jan	Bejdák	Bc.	DiS.	27	podnikatel	Antonínov	99	80	0	M
+5102	563633	1	3	902	8	Miroslav	Černohorský			40	průvodčí	Josefův Důl	99	80	0	M
+5102	563633	1	4	901	8	Jaromír	Poledňák	Ing.		50	jednatel	Dolní Maxov	99	80	0	M
+5102	563633	1	1	903	9	Jan	Blaško			31	OSVČ	Dolní Maxov	99	80	0	M
+5102	563633	1	3	902	9	Markéta	Počekajlová			35	lékarnice	Dolní Maxov	99	80	0	F
+5102	563633	1	4	901	9	Helena	Košteynová			60	podnikatelka	Josefův Důl	99	80	0	F

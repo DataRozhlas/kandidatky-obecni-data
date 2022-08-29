@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	572608	1	1	902	1	Zdenka	Zeidová	F			65	důchodce	Nová Sídla	99	80	0
-5303	572608	1	1	902	2	Zdeněk	Sládek	M			62	soukromý podnikatel	Sedlíšťka	99	80	0
-5303	572608	1	1	902	3	Vlastimil	Kmošek	M			49	seřizovač	Nová Sídla	99	80	0
-5303	572608	1	1	902	4	Václav	Jošt	M			35	živnostník	Nová Sídla	99	80	0
-5303	572608	1	1	902	5	Pavel	Kulhavý	M			37	opravář zem. strojů	Nová Sídla	99	80	0
-5303	572608	1	1	902	6	Karel	Záleský	M			52	lakýrník	Nová Sídla	99	80	0
-5303	572608	1	1	902	7	Veronika	Vaňková	F			30	asistentka pedagoga	Nová Sídla	99	80	0
-5303	572608	1	2	166	1	Vladimír	Záleský	M			71	důchodce	Nová Sídla	99	166	0
-5303	572608	1	3	901	1	Eva	Vokasová	F			54	živnostník	Nová Sídla	99	80	0
-5303	572608	1	3	901	2	Milan	Stráník	M			50	živnostník	Nová Sídla	99	80	0
-5303	572608	1	3	901	3	Šárka	Šplíchalová	F			22	zaměstnanec	Nová Sídla	99	80	0
-5303	572608	1	3	901	4	Michaela	Lněničková	F			32	zaměstnanec	Sedlíšťka	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	572608	1	1	902	1	Zdenka	Zeidová			65	důchodce	Nová Sídla	99	80	0	F
+5303	572608	1	2	166	1	Vladimír	Záleský			71	důchodce	Nová Sídla	99	166	0	M
+5303	572608	1	3	901	1	Eva	Vokasová			54	živnostník	Nová Sídla	99	80	0	F
+5303	572608	1	1	902	2	Zdeněk	Sládek			62	soukromý podnikatel	Sedlíšťka	99	80	0	M
+5303	572608	1	3	901	2	Milan	Stráník			50	živnostník	Nová Sídla	99	80	0	M
+5303	572608	1	1	902	3	Vlastimil	Kmošek			49	seřizovač	Nová Sídla	99	80	0	M
+5303	572608	1	3	901	3	Šárka	Šplíchalová			22	zaměstnanec	Nová Sídla	99	80	0	F
+5303	572608	1	1	902	4	Václav	Jošt			35	živnostník	Nová Sídla	99	80	0	M
+5303	572608	1	3	901	4	Michaela	Lněničková			32	zaměstnanec	Sedlíšťka	99	80	0	F
+5303	572608	1	1	902	5	Pavel	Kulhavý			37	opravář zem. strojů	Nová Sídla	99	80	0	M
+5303	572608	1	1	902	6	Karel	Záleský			52	lakýrník	Nová Sídla	99	80	0	M
+5303	572608	1	1	902	7	Veronika	Vaňková			30	asistentka pedagoga	Nová Sídla	99	80	0	F

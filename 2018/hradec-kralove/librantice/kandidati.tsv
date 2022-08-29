@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	570265	1	1	801	1	Vladimír	Koutník	M			60	OSVČ, projektant	Librantice	99	80	A
-5201	570265	1	2	902	1	Petr	Lukášek	M			34	šéfkonstruktér zemědělských strojů	Librantice	99	80	A
-5201	570265	1	2	902	2	Patrik	Šmatolán	M			38	státní zaměstnanec	Librantice	99	80	A
-5201	570265	1	2	902	3	Helena	Nováková	F			42	konzultant kvality	Librantice	99	80	A
-5201	570265	1	2	902	4	Jiří	Hladík	M			29	projektový manažer	Librantice	99	80	A
-5201	570265	1	2	902	5	Marcel	Kalous	M			42	hospodský	Librantice	99	80	A
-5201	570265	1	2	902	6	Věra	Koutníková	F			62	důchodkyně	Librantice	99	80	A
-5201	570265	1	2	902	7	Jiří	Doležal	M			56	vedoucí pracovník	Librantice	99	80	A
-5201	570265	1	2	902	8	Miroslav	Oklepek	M			52	strojník	Librantice	99	80	A
-5201	570265	1	3	901	1	Alena	Hladíková	F			57	starostka	Librantice	99	80	A
-5201	570265	1	3	901	2	Jaroslav	Volenec	M			54	údržbář, hasič	Librantice	99	80	A
-5201	570265	1	3	901	3	Milada	Bortlíková	F			57	zaměstnanec obce	Librantice	99	80	A
-5201	570265	1	3	901	4	Tomáš	Lukášek	M			40	vedoucí betonárky	Librantice	99	80	A
-5201	570265	1	3	901	5	Miroslav	Machač	M			42	vodohospodářský dělník	Librantice	99	80	A
-5201	570265	1	3	901	6	Tomáš	Tkáčík	M			42	OSVČ	Librantice	99	80	A
-5201	570265	1	4	903	1	Radek	Pavlát	M			44	výpravčí	Librantice	99	80	A
-5201	570265	1	4	903	2	Ivana	Novotná	F			43	administrativa	Librantice	99	80	A
-5201	570265	1	4	903	3	Libor	Jarkovský	M			51	technik	Librantice	99	80	A
-5201	570265	1	4	903	4	František	Novotný	M			71	důchodce	Librantice	99	80	A
-5201	570265	1	4	903	5	Vojtěch	Šaroun	M			22	OSVČ	Librantice	99	80	A
-5201	570265	1	5	480	1	Josef	Radvan	M	Ing.		35	stavbyvedoucí	Librantice	99	80	A
-5201	570265	1	5	480	2	Jaroslav	Dufka	M			55	ředitel společnosti se zdravotnickou technikou	Librantice	99	721	A
-5201	570265	1	5	480	3	Radka	Jarkovská	F			49	vedoucí adjustace	Librantice	99	80	A
-5201	570265	1	5	480	4	Jan	Vaněk	M			34	provozní restaurace	Librantice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	570265	1	1	801	1	Vladimír	Koutník			60	OSVČ, projektant	Librantice	99	80	A	M
+5201	570265	1	2	902	1	Petr	Lukášek			34	šéfkonstruktér zemědělských strojů	Librantice	99	80	A	M
+5201	570265	1	3	901	1	Alena	Hladíková			57	starostka	Librantice	99	80	A	F
+5201	570265	1	4	903	1	Radek	Pavlát			44	výpravčí	Librantice	99	80	A	M
+5201	570265	1	5	480	1	Josef	Radvan	Ing.		35	stavbyvedoucí	Librantice	99	80	A	M
+5201	570265	1	2	902	2	Patrik	Šmatolán			38	státní zaměstnanec	Librantice	99	80	A	M
+5201	570265	1	3	901	2	Jaroslav	Volenec			54	údržbář, hasič	Librantice	99	80	A	M
+5201	570265	1	4	903	2	Ivana	Novotná			43	administrativa	Librantice	99	80	A	F
+5201	570265	1	5	480	2	Jaroslav	Dufka			55	ředitel společnosti se zdravotnickou technikou	Librantice	99	721	A	M
+5201	570265	1	2	902	3	Helena	Nováková			42	konzultant kvality	Librantice	99	80	A	F
+5201	570265	1	3	901	3	Milada	Bortlíková			57	zaměstnanec obce	Librantice	99	80	A	F
+5201	570265	1	4	903	3	Libor	Jarkovský			51	technik	Librantice	99	80	A	M
+5201	570265	1	5	480	3	Radka	Jarkovská			49	vedoucí adjustace	Librantice	99	80	A	F
+5201	570265	1	2	902	4	Jiří	Hladík			29	projektový manažer	Librantice	99	80	A	M
+5201	570265	1	3	901	4	Tomáš	Lukášek			40	vedoucí betonárky	Librantice	99	80	A	M
+5201	570265	1	4	903	4	František	Novotný			71	důchodce	Librantice	99	80	A	M
+5201	570265	1	5	480	4	Jan	Vaněk			34	provozní restaurace	Librantice	99	80	A	M
+5201	570265	1	2	902	5	Marcel	Kalous			42	hospodský	Librantice	99	80	A	M
+5201	570265	1	3	901	5	Miroslav	Machač			42	vodohospodářský dělník	Librantice	99	80	A	M
+5201	570265	1	4	903	5	Vojtěch	Šaroun			22	OSVČ	Librantice	99	80	A	M
+5201	570265	1	2	902	6	Věra	Koutníková			62	důchodkyně	Librantice	99	80	A	F
+5201	570265	1	3	901	6	Tomáš	Tkáčík			42	OSVČ	Librantice	99	80	A	M
+5201	570265	1	2	902	7	Jiří	Doležal			56	vedoucí pracovník	Librantice	99	80	A	M
+5201	570265	1	2	902	8	Miroslav	Oklepek			52	strojník	Librantice	99	80	A	M

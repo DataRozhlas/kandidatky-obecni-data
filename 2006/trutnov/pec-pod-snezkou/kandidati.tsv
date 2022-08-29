@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579581	1	1	902	1	Eva	Lorencová	F		dipl.  ekonom	31	soukromá podnikatelka	Velká Úpa	99	80	0
-5205	579581	1	1	902	2	Petra	Kocová	F		DiS.	24	studentka	Pec pod Sněžkou	99	80	0
-5205	579581	1	1	902	3	Luboš	Brát	M	Bc.		28	soukromý podnikatel	Velká Úpa	99	80	0
-5205	579581	1	1	902	4	Zdeněk	Janouch	M			39	soukromý podnikatel	Velká Úpa	99	80	0
-5205	579581	1	1	902	5	Václav	Lorenc	M			55	soukromý podnikatel	Velká Úpa	99	80	0
-5205	579581	1	1	902	6	Dagmar	Hofmanová	F			52	soukromá podnikatelka	Pec pod Sněžkou	99	80	0
-5205	579581	1	1	902	7	Iva	Porubská	F			43	soukromá podnikatelka	Velká Úpa	99	80	0
-5205	579581	1	1	902	8	Zdeňka	Johnová	F			53	soukromá podnikatelka	Pec pod Sněžkou	99	80	0
-5205	579581	1	1	902	9	Antonín	Zmatlík	M			59	soukromý podnikatel	Pec pod Sněžkou	99	80	0
-5205	579581	1	2	53	1	Radim	Švanda	M			39	podnikatel	Velká Úpa	53	53	0
-5205	579581	1	2	53	2	Karel	Rada	M			34	podnikatel	Pec pod Sněžkou	53	53	0
-5205	579581	1	2	53	3	Martin	Michalík	M			38	podnikatel	Velká Úpa	53	53	0
-5205	579581	1	2	53	4	Petr	Šimral	M			33	soukr. zemědělec	Velká Úpa	53	53	0
-5205	579581	1	2	53	5	Martin	Hájek	M			36	podnikatel	Pec pod Sněžkou	53	53	0
-5205	579581	1	2	53	6	Miroslav	Kopecký	M	Ing.		45	podnikatel	Velká Úpa	53	53	0
-5205	579581	1	2	53	7	Simona	Radová	F			32	zaměstnanec	Pec pod Sněžkou	53	53	0
-5205	579581	1	2	53	8	Jiřina	Peroutková	F			58	podnikatelka	Velká Úpa	53	53	0
-5205	579581	1	2	53	9	Josef	Zilvar	M			62	podnikatel	Velká Úpa	53	53	0
-5205	579581	1	3	901	1	Alan	Tomášek	M			39	soukromý podnikatel	Pec pod Sněžkou	53	80	0
-5205	579581	1	3	901	2	Jaromír	Dostálek	M			47	soukromý podnikatel	Pec pod Sněžkou	99	80	0
-5205	579581	1	3	901	3	Vratislav	Říha	M			43	soukromý podnikatel	Pec pod Sněžkou	99	80	0
-5205	579581	1	3	901	4	Blanka	Sochorová	F	Mgr.		52	soukromá podnikatelka	Pec pod Sněžkou	99	80	0
-5205	579581	1	3	901	5	Zdeněk	Vrtala	M	MUDr.		50	lékař	Pec pod Sněžkou	99	80	0
-5205	579581	1	3	901	6	Zdeněk	Virt	M	Ing.		49	soukromý podnikatel	Pec pod Sněžkou	99	80	0
-5205	579581	1	3	901	7	Hana	Konkolská	F			49	soukromá podnikatelka	Pec pod Sněžkou	99	80	0
-5205	579581	1	3	901	8	Jiří	Karlík	M			40	vedoucí provozu	Pec pod Sněžkou	99	80	0
-5205	579581	1	3	901	9	Petr	Kobr	M			46	soukromý podnikatel	Velká Úpa	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579581	1	1	902	1	Eva	Lorencová		dipl.  ekonom	31	soukromá podnikatelka	Velká Úpa	99	80	0	F
+5205	579581	1	2	53	1	Radim	Švanda			39	podnikatel	Velká Úpa	53	53	0	M
+5205	579581	1	3	901	1	Alan	Tomášek			39	soukromý podnikatel	Pec pod Sněžkou	53	80	0	M
+5205	579581	1	1	902	2	Petra	Kocová		DiS.	24	studentka	Pec pod Sněžkou	99	80	0	F
+5205	579581	1	2	53	2	Karel	Rada			34	podnikatel	Pec pod Sněžkou	53	53	0	M
+5205	579581	1	3	901	2	Jaromír	Dostálek			47	soukromý podnikatel	Pec pod Sněžkou	99	80	0	M
+5205	579581	1	1	902	3	Luboš	Brát	Bc.		28	soukromý podnikatel	Velká Úpa	99	80	0	M
+5205	579581	1	2	53	3	Martin	Michalík			38	podnikatel	Velká Úpa	53	53	0	M
+5205	579581	1	3	901	3	Vratislav	Říha			43	soukromý podnikatel	Pec pod Sněžkou	99	80	0	M
+5205	579581	1	1	902	4	Zdeněk	Janouch			39	soukromý podnikatel	Velká Úpa	99	80	0	M
+5205	579581	1	2	53	4	Petr	Šimral			33	soukr. zemědělec	Velká Úpa	53	53	0	M
+5205	579581	1	3	901	4	Blanka	Sochorová	Mgr.		52	soukromá podnikatelka	Pec pod Sněžkou	99	80	0	F
+5205	579581	1	1	902	5	Václav	Lorenc			55	soukromý podnikatel	Velká Úpa	99	80	0	M
+5205	579581	1	2	53	5	Martin	Hájek			36	podnikatel	Pec pod Sněžkou	53	53	0	M
+5205	579581	1	3	901	5	Zdeněk	Vrtala	MUDr.		50	lékař	Pec pod Sněžkou	99	80	0	M
+5205	579581	1	1	902	6	Dagmar	Hofmanová			52	soukromá podnikatelka	Pec pod Sněžkou	99	80	0	F
+5205	579581	1	2	53	6	Miroslav	Kopecký	Ing.		45	podnikatel	Velká Úpa	53	53	0	M
+5205	579581	1	3	901	6	Zdeněk	Virt	Ing.		49	soukromý podnikatel	Pec pod Sněžkou	99	80	0	M
+5205	579581	1	1	902	7	Iva	Porubská			43	soukromá podnikatelka	Velká Úpa	99	80	0	F
+5205	579581	1	2	53	7	Simona	Radová			32	zaměstnanec	Pec pod Sněžkou	53	53	0	F
+5205	579581	1	3	901	7	Hana	Konkolská			49	soukromá podnikatelka	Pec pod Sněžkou	99	80	0	F
+5205	579581	1	1	902	8	Zdeňka	Johnová			53	soukromá podnikatelka	Pec pod Sněžkou	99	80	0	F
+5205	579581	1	2	53	8	Jiřina	Peroutková			58	podnikatelka	Velká Úpa	53	53	0	F
+5205	579581	1	3	901	8	Jiří	Karlík			40	vedoucí provozu	Pec pod Sněžkou	99	80	0	M
+5205	579581	1	1	902	9	Antonín	Zmatlík			59	soukromý podnikatel	Pec pod Sněžkou	99	80	0	M
+5205	579581	1	2	53	9	Josef	Zilvar			62	podnikatel	Velká Úpa	53	53	0	M
+5205	579581	1	3	901	9	Petr	Kobr			46	soukromý podnikatel	Velká Úpa	99	80	0	M

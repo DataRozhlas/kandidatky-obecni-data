@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7201	588385	1	1	902	1	Vladimír	Topič	M			50	autodopravce	Břest	99	80	0
-7201	588385	1	1	902	2	Richard	Dostál	M			40	stavební činnost	Břest	99	80	0
-7201	588385	1	1	902	3	Ludmila	Zavadilová	F			53	obchodní činnost	Břest	99	80	0
-7201	588385	1	1	902	4	Jaroslav	Vymětal	M			53	mechanik	Břest	99	80	0
-7201	588385	1	1	902	5	Milena	Hermanová	F			48	invalidní důchodce	Břest	99	80	0
-7201	588385	1	1	902	6	Dáša	Hrabalová	F			55	prodavačka	Břest	99	80	0
-7201	588385	1	1	902	7	Karel	Zavadil	M			43	stavební činnost	Břest	99	80	0
-7201	588385	1	1	902	8	Pavel	Pospíšil	M			42	stavební činnost	Břest	99	80	0
-7201	588385	1	1	902	9	Jiří	Regent	M			48	autodopravce	Břest	53	80	0
-7201	588385	1	1	902	10	Eva	Dědková	F			38	podnikatelka	Břest	99	80	0
-7201	588385	1	1	902	11	Libuše	Dostálová	F			61	důchodkyně	Břest	99	80	0
-7201	588385	1	2	901	1	Marie	Zavadilová	F			50	starostka obce	Břest	99	80	0
-7201	588385	1	2	901	2	Josef	Látal	M			38	elektrikář	Břest	99	80	0
-7201	588385	1	2	901	3	Anna	Koudelníčková	F			47	vedoucí jídelny	Břest	99	80	0
-7201	588385	1	2	901	4	Jaroslav	Buček	M			34	elektromechanik	Břest	99	80	0
-7201	588385	1	2	901	5	Jana	Mášová	F			36	kadeřnice	Břest	99	80	0
-7201	588385	1	2	901	6	Radek	Janda	M			43	učitel	Břest	99	80	0
-7201	588385	1	2	901	7	Jaroslava	Darebníčková	F	Mgr.		46	učitelka	Břest	99	80	0
-7201	588385	1	2	901	8	Lenka	Motalová	F			43	terapeut	Břest	99	80	0
-7201	588385	1	2	901	9	Rostislav	Nesvadba	M			48	strojní zámečník	Břest	99	80	0
-7201	588385	1	2	901	10	Zdeněk	Hradilík	M			45	mistr	Břest	99	80	0
-7201	588385	1	2	901	11	Miroslav	Šálek	M			39	soukromý zemědělec	Břest	99	80	0
-7201	588385	1	3	1	1	Stanislav	Hanák	M			35	obchodní asistent	Břest	1	1	0
-7201	588385	1	3	1	2	Hana	Hrabalová	F	JUDr.		46	úřednice	Břest	99	1	0
-7201	588385	1	3	1	3	Alena	Řiháková	F			48	důchodce	Břest	99	1	0
-7201	588385	1	3	1	4	Miroslav	Uhlíř	M			23	student	Břest	99	1	0
-7201	588385	1	3	1	5	Helena	Hladilová	F			47	technik	Břest	1	1	0
-7201	588385	1	3	1	6	Hana	Burešová	F			31	správce daně	Břest	99	1	0
-7201	588385	1	3	1	7	Božena	Dlabajová	F			44	tiskařka	Břest	99	1	0
-7201	588385	1	3	1	8	František	Hladil	M			63	důchodce	Břest	99	1	0
-7201	588385	1	3	1	9	Pavlína	Motalová	F			41	zubní technik	Břest	99	1	0
-7201	588385	1	3	1	10	Václava	Navrátilová	F			42	v domácnosti	Břest	1	1	0
-7201	588385	1	3	1	11	Pavel	Nejedlý	M			45	mechanik	Břest	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7201	588385	1	1	902	1	Vladimír	Topič			50	autodopravce	Břest	99	80	0	M
+7201	588385	1	2	901	1	Marie	Zavadilová			50	starostka obce	Břest	99	80	0	F
+7201	588385	1	3	1	1	Stanislav	Hanák			35	obchodní asistent	Břest	1	1	0	M
+7201	588385	1	1	902	2	Richard	Dostál			40	stavební činnost	Břest	99	80	0	M
+7201	588385	1	2	901	2	Josef	Látal			38	elektrikář	Břest	99	80	0	M
+7201	588385	1	3	1	2	Hana	Hrabalová	JUDr.		46	úřednice	Břest	99	1	0	F
+7201	588385	1	1	902	3	Ludmila	Zavadilová			53	obchodní činnost	Břest	99	80	0	F
+7201	588385	1	2	901	3	Anna	Koudelníčková			47	vedoucí jídelny	Břest	99	80	0	F
+7201	588385	1	3	1	3	Alena	Řiháková			48	důchodce	Břest	99	1	0	F
+7201	588385	1	1	902	4	Jaroslav	Vymětal			53	mechanik	Břest	99	80	0	M
+7201	588385	1	2	901	4	Jaroslav	Buček			34	elektromechanik	Břest	99	80	0	M
+7201	588385	1	3	1	4	Miroslav	Uhlíř			23	student	Břest	99	1	0	M
+7201	588385	1	1	902	5	Milena	Hermanová			48	invalidní důchodce	Břest	99	80	0	F
+7201	588385	1	2	901	5	Jana	Mášová			36	kadeřnice	Břest	99	80	0	F
+7201	588385	1	3	1	5	Helena	Hladilová			47	technik	Břest	1	1	0	F
+7201	588385	1	1	902	6	Dáša	Hrabalová			55	prodavačka	Břest	99	80	0	F
+7201	588385	1	2	901	6	Radek	Janda			43	učitel	Břest	99	80	0	M
+7201	588385	1	3	1	6	Hana	Burešová			31	správce daně	Břest	99	1	0	F
+7201	588385	1	1	902	7	Karel	Zavadil			43	stavební činnost	Břest	99	80	0	M
+7201	588385	1	2	901	7	Jaroslava	Darebníčková	Mgr.		46	učitelka	Břest	99	80	0	F
+7201	588385	1	3	1	7	Božena	Dlabajová			44	tiskařka	Břest	99	1	0	F
+7201	588385	1	1	902	8	Pavel	Pospíšil			42	stavební činnost	Břest	99	80	0	M
+7201	588385	1	2	901	8	Lenka	Motalová			43	terapeut	Břest	99	80	0	F
+7201	588385	1	3	1	8	František	Hladil			63	důchodce	Břest	99	1	0	M
+7201	588385	1	1	902	9	Jiří	Regent			48	autodopravce	Břest	53	80	0	M
+7201	588385	1	2	901	9	Rostislav	Nesvadba			48	strojní zámečník	Břest	99	80	0	M
+7201	588385	1	3	1	9	Pavlína	Motalová			41	zubní technik	Břest	99	1	0	F
+7201	588385	1	1	902	10	Eva	Dědková			38	podnikatelka	Břest	99	80	0	F
+7201	588385	1	2	901	10	Zdeněk	Hradilík			45	mistr	Břest	99	80	0	M
+7201	588385	1	3	1	10	Václava	Navrátilová			42	v domácnosti	Břest	1	1	0	F
+7201	588385	1	1	902	11	Libuše	Dostálová			61	důchodkyně	Břest	99	80	0	F
+7201	588385	1	2	901	11	Miroslav	Šálek			39	soukromý zemědělec	Břest	99	80	0	M
+7201	588385	1	3	1	11	Pavel	Nejedlý			45	mechanik	Břest	99	1	0	M

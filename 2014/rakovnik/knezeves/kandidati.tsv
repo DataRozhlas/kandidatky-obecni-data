@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	541877	1	1	53	1	Alena	Králičková	F			47	pojišťovací poradce	Kněževes	53	53	0
-2112	541877	1	1	53	2	Eva	Janotová	F			61	starostka městyse	Kněževes	53	53	0
-2112	541877	1	1	53	3	Petr	Bradáč	M	Ing.		57	technik IT	Kněževes	53	53	0
-2112	541877	1	1	53	4	Radek	Vaňha	M			42	prodejce uhlí	Kněževes	99	53	0
-2112	541877	1	1	53	5	Václav	Skála	M	PaedDr.		59	školní inspektor	Kněževes	99	53	0
-2112	541877	1	1	53	6	Zdeněk	Štětka	M			45	živnostník	Kněževes	99	53	0
-2112	541877	1	1	53	7	Jana	Sedláčková	F			53	úřednice	Kněževes	99	53	0
-2112	541877	1	1	53	8	Zdeněk	Englický	M			45	referent MěÚ Rakovník	Kněževes	99	53	0
-2112	541877	1	1	53	9	Luboš	Malafa	M			30	prodejce automobilů	Kněževes	99	53	0
-2112	541877	1	1	53	10	Libor	Chrápek	M			49	živnostník	Kněževes	99	53	0
-2112	541877	1	1	53	11	Radek	Vaníček	M			22	osobní bankéř	Kněževes	99	53	0
-2112	541877	1	1	53	12	Zdenka	Malafová	F			51	úřednice	Kněževes	53	53	0
-2112	541877	1	1	53	13	Zdeněk	Jirgl	M			57	živnostník	Kněževes	99	53	0
-2112	541877	1	2	47	1	Darina	Matějková	F			39	OSVČ	Kněževes	99	47	0
-2112	541877	1	2	47	2	Petr	Pisár	M			38	stavební technik	Kněževes	99	47	0
-2112	541877	1	2	47	3	Jan	Plaček	M			41	OSVČ	Kněževes	99	47	0
-2112	541877	1	2	47	4	Pavel	Fišer	M			43	strážník MěP	Kněževes	99	47	0
-2112	541877	1	2	47	5	Jan	Vršecký	M			26	student	Kněževes	99	47	0
-2112	541877	1	2	47	6	Věra	Křivská	F			66	důchodce	Kněževes	99	47	0
-2112	541877	1	2	47	7	Petr	Krejčí	M			40	OSVČ	Kněževes	99	47	0
-2112	541877	1	2	47	8	Josef	Vlk	M			40	zaměstnanec věz.služby	Kněževes	99	47	0
-2112	541877	1	2	47	9	Luboš	Čechák	M			26	truhlář, montážník	Kněževes	99	47	0
-2112	541877	1	2	47	10	Kamila	Miksová	F			51	odborný referent	Kněževes	99	47	0
-2112	541877	1	2	47	11	Milan	Šefara	M			36	obráběč kovů	Kněževes	99	47	0
-2112	541877	1	2	47	12	Miroslav	Kasan	M			62	masér	Kněževes	47	47	0
-2112	541877	1	2	47	13	Julie	Zárubová	F			67	důchodce	Kněževes	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	541877	1	1	53	1	Alena	Králičková			47	pojišťovací poradce	Kněževes	53	53	0	F
+2112	541877	1	2	47	1	Darina	Matějková			39	OSVČ	Kněževes	99	47	0	F
+2112	541877	1	1	53	2	Eva	Janotová			61	starostka městyse	Kněževes	53	53	0	F
+2112	541877	1	2	47	2	Petr	Pisár			38	stavební technik	Kněževes	99	47	0	M
+2112	541877	1	1	53	3	Petr	Bradáč	Ing.		57	technik IT	Kněževes	53	53	0	M
+2112	541877	1	2	47	3	Jan	Plaček			41	OSVČ	Kněževes	99	47	0	M
+2112	541877	1	1	53	4	Radek	Vaňha			42	prodejce uhlí	Kněževes	99	53	0	M
+2112	541877	1	2	47	4	Pavel	Fišer			43	strážník MěP	Kněževes	99	47	0	M
+2112	541877	1	1	53	5	Václav	Skála	PaedDr.		59	školní inspektor	Kněževes	99	53	0	M
+2112	541877	1	2	47	5	Jan	Vršecký			26	student	Kněževes	99	47	0	M
+2112	541877	1	1	53	6	Zdeněk	Štětka			45	živnostník	Kněževes	99	53	0	M
+2112	541877	1	2	47	6	Věra	Křivská			66	důchodce	Kněževes	99	47	0	F
+2112	541877	1	1	53	7	Jana	Sedláčková			53	úřednice	Kněževes	99	53	0	F
+2112	541877	1	2	47	7	Petr	Krejčí			40	OSVČ	Kněževes	99	47	0	M
+2112	541877	1	1	53	8	Zdeněk	Englický			45	referent MěÚ Rakovník	Kněževes	99	53	0	M
+2112	541877	1	2	47	8	Josef	Vlk			40	zaměstnanec věz.služby	Kněževes	99	47	0	M
+2112	541877	1	1	53	9	Luboš	Malafa			30	prodejce automobilů	Kněževes	99	53	0	M
+2112	541877	1	2	47	9	Luboš	Čechák			26	truhlář, montážník	Kněževes	99	47	0	M
+2112	541877	1	1	53	10	Libor	Chrápek			49	živnostník	Kněževes	99	53	0	M
+2112	541877	1	2	47	10	Kamila	Miksová			51	odborný referent	Kněževes	99	47	0	F
+2112	541877	1	1	53	11	Radek	Vaníček			22	osobní bankéř	Kněževes	99	53	0	M
+2112	541877	1	2	47	11	Milan	Šefara			36	obráběč kovů	Kněževes	99	47	0	M
+2112	541877	1	1	53	12	Zdenka	Malafová			51	úřednice	Kněževes	53	53	0	F
+2112	541877	1	2	47	12	Miroslav	Kasan			62	masér	Kněževes	47	47	0	M
+2112	541877	1	1	53	13	Zdeněk	Jirgl			57	živnostník	Kněževes	99	53	0	M
+2112	541877	1	2	47	13	Julie	Zárubová			67	důchodce	Kněževes	47	47	0	F

@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	505366	1	1	801	1	Milan	Vachler	M			51	vedoucí provozu, majitel Sklenářovy Stodoly	Tršice	99	80	A
-7102	505366	1	2	902	1	Luděk	Bednařík	M	Bc.		41	výrobní/provozní dispečer	Tršice	99	80	A
-7102	505366	1	2	902	2	Róbert	Gärtner	M	Ing.		41	referent majetkové správy	Tršice	99	80	A
-7102	505366	1	2	902	3	Jana	Bělajevová	F			29	pracovnice v potravinářském průmyslu	Tršice	99	80	A
-7102	505366	1	2	902	4	Jana	Ulicová	F	Ing.		48	účetní	Tršice	99	80	A
-7102	505366	1	2	902	5	Jiří	Kubíček	M			47	operátor	Lipňany	99	80	A
-7102	505366	1	2	902	6	Miroslav	Herinek	M	Ing.		37	referent majetkové správy	Tršice	7	80	A
-7102	505366	1	2	902	7	Karla	Šimarová Brzobohatá	F	Ing. Bc.		41	úřednice	Tršice	99	80	A
-7102	505366	1	2	902	8	Zdeněk	Dvořák	M			38	elektrikář	Tršice	99	80	A
-7102	505366	1	2	902	9	Jaroslav	Horák	M			53	vedoucí prodejny	Tršice	99	80	A
-7102	505366	1	2	902	10	Michaela	Coufalová	F			40	zástupkyně manažera	Hostkovice	99	80	A
-7102	505366	1	2	902	11	Radomír	Ohera	M	Ing.		49	dispečer mezinárodní dopravy	Zákřov	99	80	A
-7102	505366	1	3	461	1	Pavel	Ambrož	M			43	voják	Tršice	99	163	A
-7102	505366	1	3	461	2	Pavel	Kováček	M			37	projektový manažer	Tršice	99	163	A
-7102	505366	1	3	461	3	Marek	Závodník	M	Ing.		44	ekonom	Tršice	99	163	A
-7102	505366	1	3	461	4	Martin	Polák	M	Bc.		40	vývojář software	Tršice	99	163	A
-7102	505366	1	3	461	5	Rostislav	Lepař	M			42	hasič	Lipňany	99	163	A
-7102	505366	1	3	461	6	Daniela	Nucová	F			38	zdravotní laborantka	Tršice	99	163	A
-7102	505366	1	3	461	7	Martin	Muzikant	M	Ing.		45	ředitel	Vacanovice	99	163	A
-7102	505366	1	3	461	8	Jiří	Rozsíval	M	Ing.		61	jednatel s. r. o.	Tršice	99	163	A
-7102	505366	1	3	461	9	Josef	Baldermann	M	Ing.		46	lesní inženýr	Přestavlky	99	163	A
-7102	505366	1	3	461	10	Stanislav	Záděra	M			39	podnikatel	Tršice	99	163	A
-7102	505366	1	3	461	11	Pavel	Šimeček	M	Ing.		40	auditor, daňový poradce	Tršice	99	163	A
-7102	505366	1	4	901	1	Leona	Stejskalová	F			50	starostka	Hostkovice	99	80	A
-7102	505366	1	4	901	2	Antonín	Glier	M			61	OSVČ	Zákřov	99	80	A
-7102	505366	1	4	901	3	Ingrid	Vybíralová	F			44	pečovatelka	Tršice	99	80	A
-7102	505366	1	4	901	4	Milan	Stejskal	M	Ing.		30	technik	Hostkovice	99	80	A
-7102	505366	1	4	901	5	Jakub	Chromek	M	Ing.		33	projektový manažer	Tršice	99	80	A
-7102	505366	1	4	901	6	Pavla	Vláčilová	F			43	dělnice	Tršice	99	80	A
-7102	505366	1	4	901	7	Bedřich	Kopečný	M			39	servisní technik	Lipňany	99	80	A
-7102	505366	1	4	901	8	Jaroslav	Ulma	M			30	OSVČ	Tršice	99	80	A
-7102	505366	1	4	901	9	Eliška	Sypalová	F			59	uklízečka	Tršice	99	80	A
-7102	505366	1	4	901	10	Jaroslav	Staněk	M			48	obsluha ČOV	Tršice	99	80	A
-7102	505366	1	4	901	11	Roman	Hroch	M			43	vedoucí výroby a servisu	Přestavlky	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	505366	1	1	801	1	Milan	Vachler			51	vedoucí provozu, majitel Sklenářovy Stodoly	Tršice	99	80	A	M
+7102	505366	1	2	902	1	Luděk	Bednařík	Bc.		41	výrobní/provozní dispečer	Tršice	99	80	A	M
+7102	505366	1	3	461	1	Pavel	Ambrož			43	voják	Tršice	99	163	A	M
+7102	505366	1	4	901	1	Leona	Stejskalová			50	starostka	Hostkovice	99	80	A	F
+7102	505366	1	2	902	2	Róbert	Gärtner	Ing.		41	referent majetkové správy	Tršice	99	80	A	M
+7102	505366	1	3	461	2	Pavel	Kováček			37	projektový manažer	Tršice	99	163	A	M
+7102	505366	1	4	901	2	Antonín	Glier			61	OSVČ	Zákřov	99	80	A	M
+7102	505366	1	2	902	3	Jana	Bělajevová			29	pracovnice v potravinářském průmyslu	Tršice	99	80	A	F
+7102	505366	1	3	461	3	Marek	Závodník	Ing.		44	ekonom	Tršice	99	163	A	M
+7102	505366	1	4	901	3	Ingrid	Vybíralová			44	pečovatelka	Tršice	99	80	A	F
+7102	505366	1	2	902	4	Jana	Ulicová	Ing.		48	účetní	Tršice	99	80	A	F
+7102	505366	1	3	461	4	Martin	Polák	Bc.		40	vývojář software	Tršice	99	163	A	M
+7102	505366	1	4	901	4	Milan	Stejskal	Ing.		30	technik	Hostkovice	99	80	A	M
+7102	505366	1	2	902	5	Jiří	Kubíček			47	operátor	Lipňany	99	80	A	M
+7102	505366	1	3	461	5	Rostislav	Lepař			42	hasič	Lipňany	99	163	A	M
+7102	505366	1	4	901	5	Jakub	Chromek	Ing.		33	projektový manažer	Tršice	99	80	A	M
+7102	505366	1	2	902	6	Miroslav	Herinek	Ing.		37	referent majetkové správy	Tršice	7	80	A	M
+7102	505366	1	3	461	6	Daniela	Nucová			38	zdravotní laborantka	Tršice	99	163	A	F
+7102	505366	1	4	901	6	Pavla	Vláčilová			43	dělnice	Tršice	99	80	A	F
+7102	505366	1	2	902	7	Karla	Šimarová Brzobohatá	Ing. Bc.		41	úřednice	Tršice	99	80	A	F
+7102	505366	1	3	461	7	Martin	Muzikant	Ing.		45	ředitel	Vacanovice	99	163	A	M
+7102	505366	1	4	901	7	Bedřich	Kopečný			39	servisní technik	Lipňany	99	80	A	M
+7102	505366	1	2	902	8	Zdeněk	Dvořák			38	elektrikář	Tršice	99	80	A	M
+7102	505366	1	3	461	8	Jiří	Rozsíval	Ing.		61	jednatel s. r. o.	Tršice	99	163	A	M
+7102	505366	1	4	901	8	Jaroslav	Ulma			30	OSVČ	Tršice	99	80	A	M
+7102	505366	1	2	902	9	Jaroslav	Horák			53	vedoucí prodejny	Tršice	99	80	A	M
+7102	505366	1	3	461	9	Josef	Baldermann	Ing.		46	lesní inženýr	Přestavlky	99	163	A	M
+7102	505366	1	4	901	9	Eliška	Sypalová			59	uklízečka	Tršice	99	80	A	F
+7102	505366	1	2	902	10	Michaela	Coufalová			40	zástupkyně manažera	Hostkovice	99	80	A	F
+7102	505366	1	3	461	10	Stanislav	Záděra			39	podnikatel	Tršice	99	163	A	M
+7102	505366	1	4	901	10	Jaroslav	Staněk			48	obsluha ČOV	Tršice	99	80	A	M
+7102	505366	1	2	902	11	Radomír	Ohera	Ing.		49	dispečer mezinárodní dopravy	Zákřov	99	80	A	M
+7102	505366	1	3	461	11	Pavel	Šimeček	Ing.		40	auditor, daňový poradce	Tršice	99	163	A	M
+7102	505366	1	4	901	11	Roman	Hroch			43	vedoucí výroby a servisu	Přestavlky	99	80	A	M

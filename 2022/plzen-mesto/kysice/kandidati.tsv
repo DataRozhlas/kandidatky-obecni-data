@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3203	559130	1	1	53	1	Jana	Hradská	F			66	konzultant NIPI	Kyšice	53	53	A
-3203	559130	1	1	53	2	Jiří	Konvalina	M	Ing.	Ph.D.	48	specialista, automobilový průmysl	Kyšice	99	53	A
-3203	559130	1	1	53	3	Robert	Racek	M	Ing.		38	statik	Kyšice	53	53	A
-3203	559130	1	1	53	4	Slavomír	Racek	M	Ing.		69	statik	Kyšice	53	53	A
-3203	559130	1	1	53	5	Václav	Vodrážka	M			52	technik	Kyšice	99	53	A
-3203	559130	1	1	53	6	Martina	Rajzrová	F	MUDr.		33	lékařka	Kyšice	99	53	A
-3203	559130	1	1	53	7	Martina	Rückaufová	F			54	kontrolor kvality	Kyšice	99	53	A
-3203	559130	1	2	901	1	Vojtěch	Suchý	M			24	servisní technik, elektrikář	Kyšice	99	80	A
-3203	559130	1	2	901	2	Miroslav	Jindřich	M			43	vedoucí střediska	Kyšice	99	80	A
-3203	559130	1	2	901	3	Monika	Sladká	F	Ing. arch.		33	architekt	Kyšice	99	80	A
-3203	559130	1	2	901	4	Tomáš	Folk	M			36	podnikatel v autodopravě	Kyšice	99	80	A
-3203	559130	1	2	901	5	Tomáš	Šleis	M			31	vedoucí skladu	Kyšice	99	80	A
-3203	559130	1	2	901	6	Eliška	Tolarová	F			48	kuchařka	Kyšice	99	80	A
-3203	559130	1	3	902	1	Martina	Beranová	F	Mgr.		51	starostka	Kyšice	99	80	A
-3203	559130	1	3	902	2	Václav	Kališ	M	Ing.		55	stavební inženýr	Kyšice	99	80	A
-3203	559130	1	3	902	3	Martin	Cubr	M	Ing.		57	technik, jednatel společnosti	Kyšice	99	80	A
-3203	559130	1	3	902	4	Jana	Rajzrová	F	Bc.		55	policistka ve výslužbě	Kyšice	99	80	A
-3203	559130	1	3	902	5	Petr	Sedlák	M	Ing.		49	manažer v energetice	Kyšice	99	80	A
-3203	559130	1	3	902	6	Vladimír	Novák	M	Ing.		46	vedoucí oddělení obchodu a realizace	Kyšice	99	80	A
-3203	559130	1	3	902	7	Jan	Navrátil	M			49	technik	Kyšice	99	80	A
-3203	559130	1	3	902	8	Tomáš	Ausberger	M	Ing.		29	vědeckovýzkumný pracovník	Kyšice	99	80	A
-3203	559130	1	3	902	9	Lukáš	Flekal	M	Ing.		36	manažer v automobilovém průmyslu	Kyšice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3203	559130	1	1	53	1	Jana	Hradská			66	konzultant NIPI	Kyšice	53	53	A	F
+3203	559130	1	2	901	1	Vojtěch	Suchý			24	servisní technik, elektrikář	Kyšice	99	80	A	M
+3203	559130	1	3	902	1	Martina	Beranová	Mgr.		51	starostka	Kyšice	99	80	A	F
+3203	559130	1	1	53	2	Jiří	Konvalina	Ing.	Ph.D.	48	specialista, automobilový průmysl	Kyšice	99	53	A	M
+3203	559130	1	2	901	2	Miroslav	Jindřich			43	vedoucí střediska	Kyšice	99	80	A	M
+3203	559130	1	3	902	2	Václav	Kališ	Ing.		55	stavební inženýr	Kyšice	99	80	A	M
+3203	559130	1	1	53	3	Robert	Racek	Ing.		38	statik	Kyšice	53	53	A	M
+3203	559130	1	2	901	3	Monika	Sladká	Ing. arch.		33	architekt	Kyšice	99	80	A	F
+3203	559130	1	3	902	3	Martin	Cubr	Ing.		57	technik, jednatel společnosti	Kyšice	99	80	A	M
+3203	559130	1	1	53	4	Slavomír	Racek	Ing.		69	statik	Kyšice	53	53	A	M
+3203	559130	1	2	901	4	Tomáš	Folk			36	podnikatel v autodopravě	Kyšice	99	80	A	M
+3203	559130	1	3	902	4	Jana	Rajzrová	Bc.		55	policistka ve výslužbě	Kyšice	99	80	A	F
+3203	559130	1	1	53	5	Václav	Vodrážka			52	technik	Kyšice	99	53	A	M
+3203	559130	1	2	901	5	Tomáš	Šleis			31	vedoucí skladu	Kyšice	99	80	A	M
+3203	559130	1	3	902	5	Petr	Sedlák	Ing.		49	manažer v energetice	Kyšice	99	80	A	M
+3203	559130	1	1	53	6	Martina	Rajzrová	MUDr.		33	lékařka	Kyšice	99	53	A	F
+3203	559130	1	2	901	6	Eliška	Tolarová			48	kuchařka	Kyšice	99	80	A	F
+3203	559130	1	3	902	6	Vladimír	Novák	Ing.		46	vedoucí oddělení obchodu a realizace	Kyšice	99	80	A	M
+3203	559130	1	1	53	7	Martina	Rückaufová			54	kontrolor kvality	Kyšice	99	53	A	F
+3203	559130	1	3	902	7	Jan	Navrátil			49	technik	Kyšice	99	80	A	M
+3203	559130	1	3	902	8	Tomáš	Ausberger	Ing.		29	vědeckovýzkumný pracovník	Kyšice	99	80	A	M
+3203	559130	1	3	902	9	Lukáš	Flekal	Ing.		36	manažer v automobilovém průmyslu	Kyšice	99	80	A	M

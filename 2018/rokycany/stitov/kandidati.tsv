@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3206	579343	1	1	902	1	Václav	Hudec	M			57	ostraha	Štítov	99	80	A
-3206	579343	1	1	902	2	Jiří	Vostrovský	M	Bc.		30	pracovník reklamačního oddělení	Štítov	99	80	A
-3206	579343	1	1	902	3	Marie	Vostrovská	F			49	pracovnice v sociálních službách	Štítov	99	80	A
-3206	579343	1	1	902	4	Ladislav	Ječný	M			42	pracovník kvality	Štítov	99	80	A
-3206	579343	1	1	902	5	Václav	Fábera	M			63	elektromechanik	Štítov	99	80	A
-3206	579343	1	1	902	6	Aneta	Těhanová	F			34	pracovnice zákaznického centra	Štítov	99	80	A
-3206	579343	1	2	901	1	Michala	Haasová	F	Ing.		37	OSVČ, interní auditor	Štítov	99	80	A
-3206	579343	1	2	901	2	Lukáš	Krátký	M			28	IT specialista	Štítov	99	80	A
-3206	579343	1	2	901	3	Vladimír	Haas	M			57	OSVČ	Štítov	99	80	A
-3206	579343	1	2	901	4	František	Krátký	M			47	opravář zemědělských strojů	Štítov	99	80	A
-3206	579343	1	2	901	5	Pavel	Sadovský	M			43	zedník	Štítov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3206	579343	1	1	902	1	Václav	Hudec			57	ostraha	Štítov	99	80	A	M
+3206	579343	1	2	901	1	Michala	Haasová	Ing.		37	OSVČ, interní auditor	Štítov	99	80	A	F
+3206	579343	1	1	902	2	Jiří	Vostrovský	Bc.		30	pracovník reklamačního oddělení	Štítov	99	80	A	M
+3206	579343	1	2	901	2	Lukáš	Krátký			28	IT specialista	Štítov	99	80	A	M
+3206	579343	1	1	902	3	Marie	Vostrovská			49	pracovnice v sociálních službách	Štítov	99	80	A	F
+3206	579343	1	2	901	3	Vladimír	Haas			57	OSVČ	Štítov	99	80	A	M
+3206	579343	1	1	902	4	Ladislav	Ječný			42	pracovník kvality	Štítov	99	80	A	M
+3206	579343	1	2	901	4	František	Krátký			47	opravář zemědělských strojů	Štítov	99	80	A	M
+3206	579343	1	1	902	5	Václav	Fábera			63	elektromechanik	Štítov	99	80	A	M
+3206	579343	1	2	901	5	Pavel	Sadovský			43	zedník	Štítov	99	80	A	M
+3206	579343	1	1	902	6	Aneta	Těhanová			34	pracovnice zákaznického centra	Štítov	99	80	A	F

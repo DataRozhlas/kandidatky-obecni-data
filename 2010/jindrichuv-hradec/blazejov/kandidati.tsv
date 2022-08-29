@@ -1,36 +1,36 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	561711	1	1	7	1	Stanislav	Šamal	M			52	soukromý zemědělec	Dvoreček	7	7	0
-3103	561711	1	1	7	2	Zdeňka	Kašpárková	F			39	kontrolor	Blažejov	7	7	0
-3103	561711	1	1	7	3	Michaela	Macháčková	F			21	úřednice	Dvoreček	99	7	0
-3103	561711	1	1	7	4	Miroslava	Šamalová	F			26	recepční	Dvoreček	7	7	0
-3103	561711	1	1	7	5	Kateřina	Bartůšková	F			37	technik	Blažejov	99	7	0
-3103	561711	1	1	7	6	David	Mikš	M			30	dělník	Mutyněves	99	7	0
-3103	561711	1	1	7	7	Jiří	Veselý	M			65	důchodce	Oldřiš	99	7	0
-3103	561711	1	1	7	8	Vlasta	Jonáčková	F			61	důchodce	Oldřiš	99	7	0
-3103	561711	1	1	7	9	Bohumír	Hajný	M			61	dělník	Dvoreček	99	7	0
-3103	561711	1	2	901	1	Alena	Láfová	F			58	OSVČ	Blažejov	99	80	0
-3103	561711	1	2	901	2	Libuše	Vondráková	F			60	důchodce	Blažejov	99	80	0
-3103	561711	1	2	901	3	Dagmar	Valentová	F			39	dělnice	Blažejov	99	80	0
-3103	561711	1	2	901	4	Marie	Hanzlová	F			64	důchodce	Blažejov	99	80	0
-3103	561711	1	2	901	5	Šárka	Šamalová	F			37	na mat. dovolené	Blažejov	99	80	0
-3103	561711	1	2	901	6	Anna	Hrubá	F			36	staniční sestra	Blažejov	99	80	0
-3103	561711	1	2	901	7	Emilie	Straková	F			64	důchodce	Blažejov	99	80	0
-3103	561711	1	2	901	8	Jitka	Mašková	F			53	inv. důchodce	Blažejov	99	80	0
-3103	561711	1	3	902	1	Vladimír	Fejt	M			35	technik	Oldřiš	99	80	0
-3103	561711	1	3	902	2	Jiří	Maršík	M			39	automechanik	Blažejov	99	80	0
-3103	561711	1	3	902	3	Ladislav	Ayrer	M			70	důchodce	Oldřiš	99	80	0
-3103	561711	1	3	902	4	Ladislav	Palka	M			36	zámečník	Blažejov	99	80	0
-3103	561711	1	3	902	5	Aleš	Martínek	M			34	řidič	Mutyněves	99	80	0
-3103	561711	1	3	902	6	Martin	Čapek	M			35	živnostník	Blažejov	99	80	0
-3103	561711	1	3	902	7	Milan	Mert	M			51	zedník	Blažejov	99	80	0
-3103	561711	1	3	902	8	Martin	Macků	M			36	manažer	Blažejov	99	80	0
-3103	561711	1	3	902	9	Petra	Vítečková	F	Bc.		30	bankovní úřednice	Blažejov	99	80	0
-3103	561711	1	4	903	1	Petr	Tóth	M			41	starosta	Blažejov	99	80	0
-3103	561711	1	4	903	2	Svatopluk	Špaček	M			67	důchodce	Dvoreček	99	80	0
-3103	561711	1	4	903	3	Miloslav	Vlk	M			39	vedoucí skladu	Blažejov	99	80	0
-3103	561711	1	4	903	4	Blanka	Tancerová	F	Ing. arch.		37	architektka	Blažejov	99	80	0
-3103	561711	1	4	903	5	Martin	Slavík	M			44	soukromý podnikatel	Malý Ratmírov	99	80	0
-3103	561711	1	4	903	6	Monika	Vítečková	F			36	pošt. doručovatelka	Mutyněves	99	80	0
-3103	561711	1	4	903	7	Věra	Mrkvičková	F			37	fyzioterapeutka	Blažejov	99	80	0
-3103	561711	1	4	903	8	Ladislava	Havlová	F			33	zpracovatelka dat	Oldřiš	99	80	0
-3103	561711	1	4	903	9	Michal	Hrubý	M			27	svářeč	Blažejov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	561711	1	1	7	1	Stanislav	Šamal			52	soukromý zemědělec	Dvoreček	7	7	0	M
+3103	561711	1	2	901	1	Alena	Láfová			58	OSVČ	Blažejov	99	80	0	F
+3103	561711	1	3	902	1	Vladimír	Fejt			35	technik	Oldřiš	99	80	0	M
+3103	561711	1	4	903	1	Petr	Tóth			41	starosta	Blažejov	99	80	0	M
+3103	561711	1	1	7	2	Zdeňka	Kašpárková			39	kontrolor	Blažejov	7	7	0	F
+3103	561711	1	2	901	2	Libuše	Vondráková			60	důchodce	Blažejov	99	80	0	F
+3103	561711	1	3	902	2	Jiří	Maršík			39	automechanik	Blažejov	99	80	0	M
+3103	561711	1	4	903	2	Svatopluk	Špaček			67	důchodce	Dvoreček	99	80	0	M
+3103	561711	1	1	7	3	Michaela	Macháčková			21	úřednice	Dvoreček	99	7	0	F
+3103	561711	1	2	901	3	Dagmar	Valentová			39	dělnice	Blažejov	99	80	0	F
+3103	561711	1	3	902	3	Ladislav	Ayrer			70	důchodce	Oldřiš	99	80	0	M
+3103	561711	1	4	903	3	Miloslav	Vlk			39	vedoucí skladu	Blažejov	99	80	0	M
+3103	561711	1	1	7	4	Miroslava	Šamalová			26	recepční	Dvoreček	7	7	0	F
+3103	561711	1	2	901	4	Marie	Hanzlová			64	důchodce	Blažejov	99	80	0	F
+3103	561711	1	3	902	4	Ladislav	Palka			36	zámečník	Blažejov	99	80	0	M
+3103	561711	1	4	903	4	Blanka	Tancerová	Ing. arch.		37	architektka	Blažejov	99	80	0	F
+3103	561711	1	1	7	5	Kateřina	Bartůšková			37	technik	Blažejov	99	7	0	F
+3103	561711	1	2	901	5	Šárka	Šamalová			37	na mat. dovolené	Blažejov	99	80	0	F
+3103	561711	1	3	902	5	Aleš	Martínek			34	řidič	Mutyněves	99	80	0	M
+3103	561711	1	4	903	5	Martin	Slavík			44	soukromý podnikatel	Malý Ratmírov	99	80	0	M
+3103	561711	1	1	7	6	David	Mikš			30	dělník	Mutyněves	99	7	0	M
+3103	561711	1	2	901	6	Anna	Hrubá			36	staniční sestra	Blažejov	99	80	0	F
+3103	561711	1	3	902	6	Martin	Čapek			35	živnostník	Blažejov	99	80	0	M
+3103	561711	1	4	903	6	Monika	Vítečková			36	pošt. doručovatelka	Mutyněves	99	80	0	F
+3103	561711	1	1	7	7	Jiří	Veselý			65	důchodce	Oldřiš	99	7	0	M
+3103	561711	1	2	901	7	Emilie	Straková			64	důchodce	Blažejov	99	80	0	F
+3103	561711	1	3	902	7	Milan	Mert			51	zedník	Blažejov	99	80	0	M
+3103	561711	1	4	903	7	Věra	Mrkvičková			37	fyzioterapeutka	Blažejov	99	80	0	F
+3103	561711	1	1	7	8	Vlasta	Jonáčková			61	důchodce	Oldřiš	99	7	0	F
+3103	561711	1	2	901	8	Jitka	Mašková			53	inv. důchodce	Blažejov	99	80	0	F
+3103	561711	1	3	902	8	Martin	Macků			36	manažer	Blažejov	99	80	0	M
+3103	561711	1	4	903	8	Ladislava	Havlová			33	zpracovatelka dat	Oldřiš	99	80	0	F
+3103	561711	1	1	7	9	Bohumír	Hajný			61	dělník	Dvoreček	99	7	0	M
+3103	561711	1	3	902	9	Petra	Vítečková	Bc.		30	bankovní úřednice	Blažejov	99	80	0	F
+3103	561711	1	4	903	9	Michal	Hrubý			27	svářeč	Blažejov	99	80	0	M

@@ -1,9 +1,9 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	596001	1	1	7	1	Marta	Frejlichová	F			36	účetní	Kyjov	99	7	0
-6105	596001	1	1	7	2	Luboš	Frejlich	M			36	řidič	Kyjov	99	7	0
-6105	596001	1	1	7	3	Tomáš	Frejlich	M	Ing.		24	student	Kyjov	99	7	0
-6105	596001	1	2	901	1	Josef	Kotík	M			62	místostarosta obce	Kyjov	99	80	0
-6105	596001	1	2	901	2	Josef	Havlíček	M			26	technik	Kyjov	99	80	0
-6105	596001	1	2	901	3	Ludmila	Večeřová	F			63	důchodkyně	Kyjov	99	80	0
-6105	596001	1	2	901	4	Marta	Kujínková	F			61	důchodkyně	Kyjov	99	80	0
-6105	596001	1	2	901	5	Karel	Cejnek	M			57	dělník	Kyjov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	596001	1	1	7	1	Marta	Frejlichová			36	účetní	Kyjov	99	7	0	F
+6105	596001	1	2	901	1	Josef	Kotík			62	místostarosta obce	Kyjov	99	80	0	M
+6105	596001	1	1	7	2	Luboš	Frejlich			36	řidič	Kyjov	99	7	0	M
+6105	596001	1	2	901	2	Josef	Havlíček			26	technik	Kyjov	99	80	0	M
+6105	596001	1	1	7	3	Tomáš	Frejlich	Ing.		24	student	Kyjov	99	7	0	M
+6105	596001	1	2	901	3	Ludmila	Večeřová			63	důchodkyně	Kyjov	99	80	0	F
+6105	596001	1	2	901	4	Marta	Kujínková			61	důchodkyně	Kyjov	99	80	0	F
+6105	596001	1	2	901	5	Karel	Cejnek			57	dělník	Kyjov	99	80	0	M

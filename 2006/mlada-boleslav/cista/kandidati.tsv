@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2107	535630	1	1	53	1	Leoš	Miler	M			38	soukromý zemědělec	Čistá	53	53	0
-2107	535630	1	1	53	2	Martin	Tůma	M			25	referent řízení výroby	Čistá	99	53	0
-2107	535630	1	1	53	3	Jan	Gregor	M			24	obchodní zástupce	Čistá	53	53	0
-2107	535630	1	2	47	1	Stanislav	Veselý	M			73	důchodce	Čistá	47	47	0
-2107	535630	1	2	47	2	Václav	Malý	M			72	důchodce	Čistá	99	47	0
-2107	535630	1	2	47	3	Miloš	Klacek	M			66	důchodce	Čistá	47	47	0
-2107	535630	1	2	47	4	Jaroslav	Šverma	M			62	důchodce	Čistá	99	47	0
-2107	535630	1	2	47	5	Zoltán	Trifonti	M			58	strážný	Čistá	99	47	0
-2107	535630	1	2	47	6	Zdeněk	Müller	M			50	opr.zem.techn.	Čistá	99	47	0
-2107	535630	1	2	47	7	Stanislav	Řezáč	M			59	dělník	Čistá	99	47	0
-2107	535630	1	3	901	1	Jaroslav	Gregor	M			59	zem. technik	Čistá	99	80	0
-2107	535630	1	3	901	2	Miroslav	Hašl	M	Ing.		59	technik	Čistá	99	80	0
-2107	535630	1	3	901	3	Danuše	Horáčková	F			43	podnikatelka	Čistá	99	80	0
-2107	535630	1	3	901	4	Lucie	Dlasková	F			36	poštmistrová	Čistá	99	80	0
-2107	535630	1	3	901	5	Jaroslav	Dohalský	M			54	expedient	Čistá	99	80	0
-2107	535630	1	3	901	6	Jaroslav	Martinec	M			47	podnikatel	Čistá	99	80	0
-2107	535630	1	3	901	7	Vladislava	Vrbová	F			31	sklenářka	Čistá	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2107	535630	1	1	53	1	Leoš	Miler			38	soukromý zemědělec	Čistá	53	53	0	M
+2107	535630	1	2	47	1	Stanislav	Veselý			73	důchodce	Čistá	47	47	0	M
+2107	535630	1	3	901	1	Jaroslav	Gregor			59	zem. technik	Čistá	99	80	0	M
+2107	535630	1	1	53	2	Martin	Tůma			25	referent řízení výroby	Čistá	99	53	0	M
+2107	535630	1	2	47	2	Václav	Malý			72	důchodce	Čistá	99	47	0	M
+2107	535630	1	3	901	2	Miroslav	Hašl	Ing.		59	technik	Čistá	99	80	0	M
+2107	535630	1	1	53	3	Jan	Gregor			24	obchodní zástupce	Čistá	53	53	0	M
+2107	535630	1	2	47	3	Miloš	Klacek			66	důchodce	Čistá	47	47	0	M
+2107	535630	1	3	901	3	Danuše	Horáčková			43	podnikatelka	Čistá	99	80	0	F
+2107	535630	1	2	47	4	Jaroslav	Šverma			62	důchodce	Čistá	99	47	0	M
+2107	535630	1	3	901	4	Lucie	Dlasková			36	poštmistrová	Čistá	99	80	0	F
+2107	535630	1	2	47	5	Zoltán	Trifonti			58	strážný	Čistá	99	47	0	M
+2107	535630	1	3	901	5	Jaroslav	Dohalský			54	expedient	Čistá	99	80	0	M
+2107	535630	1	2	47	6	Zdeněk	Müller			50	opr.zem.techn.	Čistá	99	47	0	M
+2107	535630	1	3	901	6	Jaroslav	Martinec			47	podnikatel	Čistá	99	80	0	M
+2107	535630	1	2	47	7	Stanislav	Řezáč			59	dělník	Čistá	99	47	0	M
+2107	535630	1	3	901	7	Vladislava	Vrbová			31	sklenářka	Čistá	99	80	0	F

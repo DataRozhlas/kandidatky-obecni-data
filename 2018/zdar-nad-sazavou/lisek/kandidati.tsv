@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	596051	1	1	801	1	Stanislav	Šejnoha	M			29	kontrolor kvality ve výrobě	Lhota	99	80	A
-6105	596051	1	2	1	1	Josef	Zich	M			47	traktorista	Lhota	99	1	A
-6105	596051	1	2	1	2	Tomáš	Vrtěna	M			36	vedoucí skladu	Lhota	99	1	A
-6105	596051	1	2	1	3	Josef	Lidmila	M			53	soukromý zemědělec	Lísek	99	1	A
-6105	596051	1	2	1	4	František	Houdek	M			48	řidič	Lhota	99	1	A
-6105	596051	1	2	1	5	Pavel	Kabrda	M			44	OSVČ	Lhota	99	1	A
-6105	596051	1	2	1	6	Pavel	Mitáš	M			41	OSVČ	Lhota	99	1	A
-6105	596051	1	2	1	7	Petr	Mitáš	M			38	soustružník	Lhota	99	1	A
-6105	596051	1	2	1	8	Jaroslava	Homolková	F	Mgr.		37	právnička	Lhota	99	1	A
-6105	596051	1	2	1	9	Milan	Břenek	M			33	OSVČ	Lhota	99	1	A
-6105	596051	1	3	802	1	Jiří	Just	M			29	OSVČ	Lhota	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	596051	1	1	801	1	Stanislav	Šejnoha			29	kontrolor kvality ve výrobě	Lhota	99	80	A	M
+6105	596051	1	2	1	1	Josef	Zich			47	traktorista	Lhota	99	1	A	M
+6105	596051	1	3	802	1	Jiří	Just			29	OSVČ	Lhota	99	80	A	M
+6105	596051	1	2	1	2	Tomáš	Vrtěna			36	vedoucí skladu	Lhota	99	1	A	M
+6105	596051	1	2	1	3	Josef	Lidmila			53	soukromý zemědělec	Lísek	99	1	A	M
+6105	596051	1	2	1	4	František	Houdek			48	řidič	Lhota	99	1	A	M
+6105	596051	1	2	1	5	Pavel	Kabrda			44	OSVČ	Lhota	99	1	A	M
+6105	596051	1	2	1	6	Pavel	Mitáš			41	OSVČ	Lhota	99	1	A	M
+6105	596051	1	2	1	7	Petr	Mitáš			38	soustružník	Lhota	99	1	A	M
+6105	596051	1	2	1	8	Jaroslava	Homolková	Mgr.		37	právnička	Lhota	99	1	A	F
+6105	596051	1	2	1	9	Milan	Břenek			33	OSVČ	Lhota	99	1	A	M

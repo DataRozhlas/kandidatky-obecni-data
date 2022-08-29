@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	574333	1	1	7	1	Martina	Horáčková	F			35	OSVČ	Radkov	7	7	0
-5303	574333	1	1	7	2	Hana	Gottwaldová	F			32	OSVČ	Radkov	99	7	0
-5303	574333	1	1	7	3	Pavel	Kopřiva	M			36	dělník	Radkov	7	7	0
-5303	574333	1	1	7	4	Stanislav	Gottwald	M			60	důchodce	Radkov	99	7	0
-5303	574333	1	1	7	5	Josef	Smolík	M			42	skladník	Radkov	99	7	0
-5303	574333	1	1	7	6	Josef	Továrek	M			36	dělník	Radkov	7	7	0
-5303	574333	1	1	7	7	Kamil	Fischer	M			45	kuchař, číšník	Radkov	99	7	0
-5303	574333	1	2	901	1	Oldřich	Bušina	M			57	dělník	Radkov	99	80	0
-5303	574333	1	2	901	2	Blanka	Kronesová	F			44	dělnice	Radkov	99	80	0
-5303	574333	1	2	901	3	Rudolf	Továrek	M			39	dělník	Radkov	99	80	0
-5303	574333	1	2	901	4	Zdeněk	Pospíšil	M			40	dělník	Radkov	99	80	0
-5303	574333	1	2	901	5	Vlasta	Suchomelová	F			65	důchodce	Radkov	99	80	0
-5303	574333	1	2	901	6	Petr	Janáček	M			38	dělník	Radkov	99	80	0
-5303	574333	1	2	901	7	Milan	Pecha	M			27	dělník	Radkov	99	80	0
-5303	574333	1	2	901	8	Zdeněk	Horáček	M			56	dělník	Radkov	99	80	0
-5303	574333	1	2	901	9	Marie	Vágnerová	F			67	důchodce	Radkov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	574333	1	1	7	1	Martina	Horáčková			35	OSVČ	Radkov	7	7	0	F
+5303	574333	1	2	901	1	Oldřich	Bušina			57	dělník	Radkov	99	80	0	M
+5303	574333	1	1	7	2	Hana	Gottwaldová			32	OSVČ	Radkov	99	7	0	F
+5303	574333	1	2	901	2	Blanka	Kronesová			44	dělnice	Radkov	99	80	0	F
+5303	574333	1	1	7	3	Pavel	Kopřiva			36	dělník	Radkov	7	7	0	M
+5303	574333	1	2	901	3	Rudolf	Továrek			39	dělník	Radkov	99	80	0	M
+5303	574333	1	1	7	4	Stanislav	Gottwald			60	důchodce	Radkov	99	7	0	M
+5303	574333	1	2	901	4	Zdeněk	Pospíšil			40	dělník	Radkov	99	80	0	M
+5303	574333	1	1	7	5	Josef	Smolík			42	skladník	Radkov	99	7	0	M
+5303	574333	1	2	901	5	Vlasta	Suchomelová			65	důchodce	Radkov	99	80	0	F
+5303	574333	1	1	7	6	Josef	Továrek			36	dělník	Radkov	7	7	0	M
+5303	574333	1	2	901	6	Petr	Janáček			38	dělník	Radkov	99	80	0	M
+5303	574333	1	1	7	7	Kamil	Fischer			45	kuchař, číšník	Radkov	99	7	0	M
+5303	574333	1	2	901	7	Milan	Pecha			27	dělník	Radkov	99	80	0	M
+5303	574333	1	2	901	8	Zdeněk	Horáček			56	dělník	Radkov	99	80	0	M
+5303	574333	1	2	901	9	Marie	Vágnerová			67	důchodce	Radkov	99	80	0	F

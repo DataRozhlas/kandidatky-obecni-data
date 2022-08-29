@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5104	577413	1	1	902	1	Jiří	Novák	M	Ing.		31	vedoucí technický pracovník	Přepeře	99	80	A
-5104	577413	1	1	902	2	Blanka	Mocová	F			63	důchodce	Přepeře	99	80	A
-5104	577413	1	1	902	3	Eva	Krsková	F	Ing.		55	projektová manažerka	Přepeře	99	80	A
-5104	577413	1	1	902	4	Miloslav	Semler	M	RNDr.	Ph.D.	31	odborný technický pracovník	Přepeře	99	80	A
-5104	577413	1	1	902	5	Dušan	Hozdecký	M			55	technický pracovník	Přepeře	99	80	A
-5104	577413	1	1	902	6	Ondřej	Louda	M	Ing.		29	technický pracovník	Přepeře	99	80	A
-5104	577413	1	1	902	7	Marcela	Dolanská	F			48	brusička	Přepeře	99	80	A
-5104	577413	1	1	902	8	Hana	Semerádová	F			60	zubní laborantka	Přepeře	99	80	A
-5104	577413	1	1	902	9	Jaroslav	Dostraštil	M			50	brusič skla	Přepeře	99	80	A
-5104	577413	1	1	902	10	Daniel	Černý	M			39	podnikatel	Přepeře	99	80	A
-5104	577413	1	1	902	11	Petr	Těhník	M			33	technický pracovník	Přepeře	99	80	A
-5104	577413	1	2	901	1	Luděk	Sajdl	M	Ing.		54	starosta	Přepeře	703	80	A
-5104	577413	1	2	901	2	Tomáš	Kudrnáč	M			41	projektant	Přepeře	99	80	A
-5104	577413	1	2	901	3	Lukáš	Náhlovský	M			40	konstruktér	Přepeře	99	80	A
-5104	577413	1	2	901	4	Petr	Malý	M	Ing.		44	podnikatel	Přepeře	99	80	A
-5104	577413	1	2	901	5	Alena	Dlouhá	F			47	mistr výroby	Přepeře	99	80	A
-5104	577413	1	2	901	6	Bohdan	Brožek	M	Ing.		53	podnikatel	Přepeře	99	80	A
-5104	577413	1	2	901	7	Pavel	Kratochvíl	M			57	podnikatel	Přepeře	99	80	A
-5104	577413	1	2	901	8	Jan	Hanzl	M			70	důchodce	Přepeře	99	80	A
-5104	577413	1	2	901	9	Václav	Donát	M			40	konstruktér	Přepeře	99	80	A
-5104	577413	1	2	901	10	Jan	Mrázek	M	Ing.		35	konstruktér vývoje	Přepeře	99	80	A
-5104	577413	1	2	901	11	Josef	Löffler	M			41	vedoucí výroby	Přepeře	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5104	577413	1	1	902	1	Jiří	Novák	Ing.		31	vedoucí technický pracovník	Přepeře	99	80	A	M
+5104	577413	1	2	901	1	Luděk	Sajdl	Ing.		54	starosta	Přepeře	703	80	A	M
+5104	577413	1	1	902	2	Blanka	Mocová			63	důchodce	Přepeře	99	80	A	F
+5104	577413	1	2	901	2	Tomáš	Kudrnáč			41	projektant	Přepeře	99	80	A	M
+5104	577413	1	1	902	3	Eva	Krsková	Ing.		55	projektová manažerka	Přepeře	99	80	A	F
+5104	577413	1	2	901	3	Lukáš	Náhlovský			40	konstruktér	Přepeře	99	80	A	M
+5104	577413	1	1	902	4	Miloslav	Semler	RNDr.	Ph.D.	31	odborný technický pracovník	Přepeře	99	80	A	M
+5104	577413	1	2	901	4	Petr	Malý	Ing.		44	podnikatel	Přepeře	99	80	A	M
+5104	577413	1	1	902	5	Dušan	Hozdecký			55	technický pracovník	Přepeře	99	80	A	M
+5104	577413	1	2	901	5	Alena	Dlouhá			47	mistr výroby	Přepeře	99	80	A	F
+5104	577413	1	1	902	6	Ondřej	Louda	Ing.		29	technický pracovník	Přepeře	99	80	A	M
+5104	577413	1	2	901	6	Bohdan	Brožek	Ing.		53	podnikatel	Přepeře	99	80	A	M
+5104	577413	1	1	902	7	Marcela	Dolanská			48	brusička	Přepeře	99	80	A	F
+5104	577413	1	2	901	7	Pavel	Kratochvíl			57	podnikatel	Přepeře	99	80	A	M
+5104	577413	1	1	902	8	Hana	Semerádová			60	zubní laborantka	Přepeře	99	80	A	F
+5104	577413	1	2	901	8	Jan	Hanzl			70	důchodce	Přepeře	99	80	A	M
+5104	577413	1	1	902	9	Jaroslav	Dostraštil			50	brusič skla	Přepeře	99	80	A	M
+5104	577413	1	2	901	9	Václav	Donát			40	konstruktér	Přepeře	99	80	A	M
+5104	577413	1	1	902	10	Daniel	Černý			39	podnikatel	Přepeře	99	80	A	M
+5104	577413	1	2	901	10	Jan	Mrázek	Ing.		35	konstruktér vývoje	Přepeře	99	80	A	M
+5104	577413	1	1	902	11	Petr	Těhník			33	technický pracovník	Přepeře	99	80	A	M
+5104	577413	1	2	901	11	Josef	Löffler			41	vedoucí výroby	Přepeře	99	80	A	M

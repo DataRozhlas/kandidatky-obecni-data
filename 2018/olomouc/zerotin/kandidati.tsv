@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	505862	1	1	902	1	David	Fryblík	M		DiS.	38	administrativní pracovník	Žerotín	99	80	A
-7102	505862	1	1	902	2	Vladimír	Motáň	M			58	agronom	Žerotín	99	80	A
-7102	505862	1	1	902	3	Robert	Čunderle	M			48	tiskař	Žerotín	99	80	A
-7102	505862	1	1	902	4	Monika	Kelarová	F	Bc.		42	administrativní pracovnice	Žerotín	99	80	A
-7102	505862	1	1	902	5	Ladislav	Gébl	M			47	opravář zemědělských strojů	Žerotín	99	80	A
-7102	505862	1	2	1	1	Vojtěch	Motáň	M			61	pracovník ŽV	Žerotín	1	1	A
-7102	505862	1	2	1	2	Jan	Hubáček	M			59	obecní pracovník	Žerotín	1	1	A
-7102	505862	1	2	1	3	Pavel	Janíček	M			30	servisní technik	Žerotín	99	1	A
-7102	505862	1	2	1	4	Jitka	Lichtensteinová	F			36	pedagogická pracovnice	Žerotín	1	1	A
-7102	505862	1	2	1	5	Robert	Venský	M			43	servisní technik	Žerotín	99	1	A
-7102	505862	1	2	1	6	Kamil	Sedlář	M			41	skladník	Žerotín	99	1	A
-7102	505862	1	2	1	7	Emília	Ryšavá	F			72	důchodkyně	Žerotín	99	1	A
-7102	505862	1	3	901	1	Jarmila	Capková	F	JUDr.		61	právník	Žerotín	99	80	A
-7102	505862	1	3	901	2	Radek	Hrubý	M	Mgr. et Mgr.		55	učitel	Žerotín	99	80	A
-7102	505862	1	3	901	3	Vojtěch	Motáň	M			22	technik	Žerotín	99	80	A
-7102	505862	1	3	901	4	Kateřina	Heřmanovská	F			44	pracovnice v sociálních službách	Žerotín	99	80	A
-7102	505862	1	3	901	5	Renáta	Kunstová	F	Ing.		34	na mateřské dovolené	Žerotín	99	80	A
-7102	505862	1	3	901	6	Petr	Pazdera	M	Ing.		44	stavební inženýr	Žerotín	99	80	A
-7102	505862	1	3	901	7	Lada	Sejáková	F			41	strážnice obecní policie	Žerotín	99	80	A
-7102	505862	1	3	901	8	Tomáš	Hrubý	M			19	student	Žerotín	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	505862	1	1	902	1	David	Fryblík		DiS.	38	administrativní pracovník	Žerotín	99	80	A	M
+7102	505862	1	2	1	1	Vojtěch	Motáň			61	pracovník ŽV	Žerotín	1	1	A	M
+7102	505862	1	3	901	1	Jarmila	Capková	JUDr.		61	právník	Žerotín	99	80	A	F
+7102	505862	1	1	902	2	Vladimír	Motáň			58	agronom	Žerotín	99	80	A	M
+7102	505862	1	2	1	2	Jan	Hubáček			59	obecní pracovník	Žerotín	1	1	A	M
+7102	505862	1	3	901	2	Radek	Hrubý	Mgr. et Mgr.		55	učitel	Žerotín	99	80	A	M
+7102	505862	1	1	902	3	Robert	Čunderle			48	tiskař	Žerotín	99	80	A	M
+7102	505862	1	2	1	3	Pavel	Janíček			30	servisní technik	Žerotín	99	1	A	M
+7102	505862	1	3	901	3	Vojtěch	Motáň			22	technik	Žerotín	99	80	A	M
+7102	505862	1	1	902	4	Monika	Kelarová	Bc.		42	administrativní pracovnice	Žerotín	99	80	A	F
+7102	505862	1	2	1	4	Jitka	Lichtensteinová			36	pedagogická pracovnice	Žerotín	1	1	A	F
+7102	505862	1	3	901	4	Kateřina	Heřmanovská			44	pracovnice v sociálních službách	Žerotín	99	80	A	F
+7102	505862	1	1	902	5	Ladislav	Gébl			47	opravář zemědělských strojů	Žerotín	99	80	A	M
+7102	505862	1	2	1	5	Robert	Venský			43	servisní technik	Žerotín	99	1	A	M
+7102	505862	1	3	901	5	Renáta	Kunstová	Ing.		34	na mateřské dovolené	Žerotín	99	80	A	F
+7102	505862	1	2	1	6	Kamil	Sedlář			41	skladník	Žerotín	99	1	A	M
+7102	505862	1	3	901	6	Petr	Pazdera	Ing.		44	stavební inženýr	Žerotín	99	80	A	M
+7102	505862	1	2	1	7	Emília	Ryšavá			72	důchodkyně	Žerotín	99	1	A	F
+7102	505862	1	3	901	7	Lada	Sejáková			41	strážnice obecní policie	Žerotín	99	80	A	F
+7102	505862	1	3	901	8	Tomáš	Hrubý			19	student	Žerotín	99	80	A	M

@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7104	517909	1	1	1	1	Marek	Mynář	M			47	strojník	Střítež nad Ludinou	99	1	0
-7104	517909	1	1	1	2	Josef	Hynčica	M			51	opravář	Střítež nad Ludinou	99	1	0
-7104	517909	1	1	1	3	Bohumír	Škrhla	M			53	podnikatel	Střítež nad Ludinou	99	1	0
-7104	517909	1	1	1	4	Hynek	Šatánek	M			41	opravář zemědělských strojů	Střítež nad Ludinou	99	1	0
-7104	517909	1	1	1	5	Jaromír	Hapala	M			42	traktorista	Střítež nad Ludinou	99	1	0
-7104	517909	1	1	1	6	Libor	Mík	M			46	stolař	Střítež nad Ludinou	99	1	0
-7104	517909	1	1	1	7	Václav	Čoček	M			48	podnikatel	Střítež nad Ludinou	99	1	0
-7104	517909	1	1	1	8	Jan	Šenk	M			43	elektrikář	Střítež nad Ludinou	99	1	0
-7104	517909	1	1	1	9	Ivo	Kubica	M			46	zámečník	Střítež nad Ludinou	99	1	0
-7104	517909	1	2	53	1	Petr	Pajdla	M	Ing.		45	ekonom	Střítež nad Ludinou	53	53	0
-7104	517909	1	2	53	2	Jiří	Jordán	M	Mgr.		37	učitel	Střítež nad Ludinou	99	53	0
-7104	517909	1	2	53	3	Radim	Haitl	M			32	řezník	Střítež nad Ludinou	99	53	0
-7104	517909	1	2	53	4	Hana	Mrkvová	F			52	podnikatelka	Střítež nad Ludinou	53	53	0
-7104	517909	1	2	53	5	Ivo	Skácel	M	MUDr.		51	lékař	Střítež nad Ludinou	99	53	0
-7104	517909	1	2	53	6	František	Holík	M			45	obchodní zástupce	Střítež nad Ludinou	99	53	0
-7104	517909	1	2	53	7	Ludmila	Šatánková	F			66	ekonom	Střítež nad Ludinou	53	53	0
-7104	517909	1	2	53	8	Josef	Čoček	M			41	zámečník	Střítež nad Ludinou	99	53	0
-7104	517909	1	2	53	9	Pavla	Maléřová	F			43	účetní	Střítež nad Ludinou	99	53	0
-7104	517909	1	3	470	1	Zdeněk	Lév	M			47	starosta obce	Střítež nad Ludinou	99	166	0
-7104	517909	1	3	470	2	Jana	Černá	F			47	referentka	Střítež nad Ludinou	99	166	0
-7104	517909	1	3	470	3	Zdeněk	Maléř	M			42	podnikatel	Střítež nad Ludinou	99	166	0
-7104	517909	1	3	470	4	Naděžda	Šváčková	F	Bc.		47	pedag. pracovník	Střítež nad Ludinou	99	166	0
-7104	517909	1	3	470	5	Vladimír	Sedláček	M	Ing.		46	výpravčí	Střítež nad Ludinou	99	166	0
-7104	517909	1	3	470	6	Petr	Švec	M	Ing.		45	konstruktér	Střítež nad Ludinou	99	166	0
-7104	517909	1	3	470	7	Luboš	Bartoš	M	Ing.	PhD.	50	středoškolský učitel	Střítež nad Ludinou	99	166	0
-7104	517909	1	3	470	8	Eva	Wolframová	F	Mgr.		44	učitelka	Střítež nad Ludinou	99	166	0
-7104	517909	1	3	470	9	Martina	Hapalová	F			38	referentka obchodu	Střítež nad Ludinou	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7104	517909	1	1	1	1	Marek	Mynář			47	strojník	Střítež nad Ludinou	99	1	0	M
+7104	517909	1	2	53	1	Petr	Pajdla	Ing.		45	ekonom	Střítež nad Ludinou	53	53	0	M
+7104	517909	1	3	470	1	Zdeněk	Lév			47	starosta obce	Střítež nad Ludinou	99	166	0	M
+7104	517909	1	1	1	2	Josef	Hynčica			51	opravář	Střítež nad Ludinou	99	1	0	M
+7104	517909	1	2	53	2	Jiří	Jordán	Mgr.		37	učitel	Střítež nad Ludinou	99	53	0	M
+7104	517909	1	3	470	2	Jana	Černá			47	referentka	Střítež nad Ludinou	99	166	0	F
+7104	517909	1	1	1	3	Bohumír	Škrhla			53	podnikatel	Střítež nad Ludinou	99	1	0	M
+7104	517909	1	2	53	3	Radim	Haitl			32	řezník	Střítež nad Ludinou	99	53	0	M
+7104	517909	1	3	470	3	Zdeněk	Maléř			42	podnikatel	Střítež nad Ludinou	99	166	0	M
+7104	517909	1	1	1	4	Hynek	Šatánek			41	opravář zemědělských strojů	Střítež nad Ludinou	99	1	0	M
+7104	517909	1	2	53	4	Hana	Mrkvová			52	podnikatelka	Střítež nad Ludinou	53	53	0	F
+7104	517909	1	3	470	4	Naděžda	Šváčková	Bc.		47	pedag. pracovník	Střítež nad Ludinou	99	166	0	F
+7104	517909	1	1	1	5	Jaromír	Hapala			42	traktorista	Střítež nad Ludinou	99	1	0	M
+7104	517909	1	2	53	5	Ivo	Skácel	MUDr.		51	lékař	Střítež nad Ludinou	99	53	0	M
+7104	517909	1	3	470	5	Vladimír	Sedláček	Ing.		46	výpravčí	Střítež nad Ludinou	99	166	0	M
+7104	517909	1	1	1	6	Libor	Mík			46	stolař	Střítež nad Ludinou	99	1	0	M
+7104	517909	1	2	53	6	František	Holík			45	obchodní zástupce	Střítež nad Ludinou	99	53	0	M
+7104	517909	1	3	470	6	Petr	Švec	Ing.		45	konstruktér	Střítež nad Ludinou	99	166	0	M
+7104	517909	1	1	1	7	Václav	Čoček			48	podnikatel	Střítež nad Ludinou	99	1	0	M
+7104	517909	1	2	53	7	Ludmila	Šatánková			66	ekonom	Střítež nad Ludinou	53	53	0	F
+7104	517909	1	3	470	7	Luboš	Bartoš	Ing.	PhD.	50	středoškolský učitel	Střítež nad Ludinou	99	166	0	M
+7104	517909	1	1	1	8	Jan	Šenk			43	elektrikář	Střítež nad Ludinou	99	1	0	M
+7104	517909	1	2	53	8	Josef	Čoček			41	zámečník	Střítež nad Ludinou	99	53	0	M
+7104	517909	1	3	470	8	Eva	Wolframová	Mgr.		44	učitelka	Střítež nad Ludinou	99	166	0	F
+7104	517909	1	1	1	9	Ivo	Kubica			46	zámečník	Střítež nad Ludinou	99	1	0	M
+7104	517909	1	2	53	9	Pavla	Maléřová			43	účetní	Střítež nad Ludinou	99	53	0	F
+7104	517909	1	3	470	9	Martina	Hapalová			38	referentka obchodu	Střítež nad Ludinou	99	80	0	F

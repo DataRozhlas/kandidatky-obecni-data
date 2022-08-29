@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	540447	1	1	1	1	Václav	Holub	M			60	agronom	Klučenice	1	1	0
-2111	540447	1	1	1	2	Josef	Kulas	M	Ing.		40	OSVČ	Voltýřov	99	1	0
-2111	540447	1	1	1	3	Petr	Sirotek	M			41	soukromý podnikatel	Klučenice	99	1	0
-2111	540447	1	1	1	4	Jan	Pecka	M			38	podnikatel v lesnictví	Zadní Chlum	99	1	0
-2111	540447	1	1	1	5	Stanislav	Stoulil	M			31	agronom	Zadní Chlum	99	1	0
-2111	540447	1	1	1	6	Josef	Lacina	M			40	řidič	Koubalova Lhota	99	1	0
-2111	540447	1	1	1	7	Zdeňka	Květová	F			50	kadeřnice	Klučenice	99	1	0
-2111	540447	1	1	1	8	Miroslav	Koptiš	M			50	elektromontér	Klučenice	99	1	0
-2111	540447	1	1	1	9	Marie	Volfová	F			54	účetní	Voltýřov	99	1	0
-2111	540447	1	2	901	1	Jiří	Veselý	M			60	starosta	Klučenice	99	80	0
-2111	540447	1	2	901	2	Ota	Roušal	M			43	lesník	Kosobudy	99	80	0
-2111	540447	1	2	901	3	Václav	Kolín	M			38	automechanik	Klučenice	99	80	0
-2111	540447	1	2	901	4	Václav	Hlinomaz	M	PaedDr.		59	ředitel školy	Klučenice	99	80	0
-2111	540447	1	2	901	5	Věra	Balíková	F			54	prodavačka	Kosobudy	99	80	0
-2111	540447	1	2	901	6	Pavel	Marek	M			43	opravář zemědělských strojů	Kosobudy	99	80	0
-2111	540447	1	2	901	7	Zdeňka	Křikavová	F			55	vedoucí pošty	Klučenice	99	80	0
-2111	540447	1	2	901	8	Jana	Květová	F			27	účetní	Klučenice	99	80	0
-2111	540447	1	3	902	1	Stanislav	Žák	M	Ing.		31	živnostník	Klučenice	99	80	0
-2111	540447	1	3	902	2	Luboš	Řezník	M			36	živnostník	Klučenice	99	80	0
-2111	540447	1	3	902	3	František	Lacina	M			34	strojník pro zeměd. výrobu	Klučenice	99	80	0
-2111	540447	1	3	902	4	Božetěch	Burda	M	Mgr.		34	učitel	Klučenice	99	80	0
-2111	540447	1	3	902	5	Josef	Vlna	M			42	soukromě hospodařící rolník	Voltýřov	99	80	0
-2111	540447	1	3	902	6	Tomáš	Květ	M			28	obchodní zástupce	Klučenice	99	80	0
-2111	540447	1	3	902	7	Lenka	Rosová	F			31	v domácnosti	Klučenice	99	80	0
-2111	540447	1	3	902	8	Pavel	Bartoň	M			36	živnostník	Klučenice	99	80	0
-2111	540447	1	3	902	9	Marie	Drazdíková	F			31	živnostnice	Voltýřov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	540447	1	1	1	1	Václav	Holub			60	agronom	Klučenice	1	1	0	M
+2111	540447	1	2	901	1	Jiří	Veselý			60	starosta	Klučenice	99	80	0	M
+2111	540447	1	3	902	1	Stanislav	Žák	Ing.		31	živnostník	Klučenice	99	80	0	M
+2111	540447	1	1	1	2	Josef	Kulas	Ing.		40	OSVČ	Voltýřov	99	1	0	M
+2111	540447	1	2	901	2	Ota	Roušal			43	lesník	Kosobudy	99	80	0	M
+2111	540447	1	3	902	2	Luboš	Řezník			36	živnostník	Klučenice	99	80	0	M
+2111	540447	1	1	1	3	Petr	Sirotek			41	soukromý podnikatel	Klučenice	99	1	0	M
+2111	540447	1	2	901	3	Václav	Kolín			38	automechanik	Klučenice	99	80	0	M
+2111	540447	1	3	902	3	František	Lacina			34	strojník pro zeměd. výrobu	Klučenice	99	80	0	M
+2111	540447	1	1	1	4	Jan	Pecka			38	podnikatel v lesnictví	Zadní Chlum	99	1	0	M
+2111	540447	1	2	901	4	Václav	Hlinomaz	PaedDr.		59	ředitel školy	Klučenice	99	80	0	M
+2111	540447	1	3	902	4	Božetěch	Burda	Mgr.		34	učitel	Klučenice	99	80	0	M
+2111	540447	1	1	1	5	Stanislav	Stoulil			31	agronom	Zadní Chlum	99	1	0	M
+2111	540447	1	2	901	5	Věra	Balíková			54	prodavačka	Kosobudy	99	80	0	F
+2111	540447	1	3	902	5	Josef	Vlna			42	soukromě hospodařící rolník	Voltýřov	99	80	0	M
+2111	540447	1	1	1	6	Josef	Lacina			40	řidič	Koubalova Lhota	99	1	0	M
+2111	540447	1	2	901	6	Pavel	Marek			43	opravář zemědělských strojů	Kosobudy	99	80	0	M
+2111	540447	1	3	902	6	Tomáš	Květ			28	obchodní zástupce	Klučenice	99	80	0	M
+2111	540447	1	1	1	7	Zdeňka	Květová			50	kadeřnice	Klučenice	99	1	0	F
+2111	540447	1	2	901	7	Zdeňka	Křikavová			55	vedoucí pošty	Klučenice	99	80	0	F
+2111	540447	1	3	902	7	Lenka	Rosová			31	v domácnosti	Klučenice	99	80	0	F
+2111	540447	1	1	1	8	Miroslav	Koptiš			50	elektromontér	Klučenice	99	1	0	M
+2111	540447	1	2	901	8	Jana	Květová			27	účetní	Klučenice	99	80	0	F
+2111	540447	1	3	902	8	Pavel	Bartoň			36	živnostník	Klučenice	99	80	0	M
+2111	540447	1	1	1	9	Marie	Volfová			54	účetní	Voltýřov	99	1	0	F
+2111	540447	1	3	902	9	Marie	Drazdíková			31	živnostnice	Voltýřov	99	80	0	F

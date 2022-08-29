@@ -1,20 +1,20 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8104	554910	1	1	470	1	Vladimír	Nippert	M	Ing.		61	starosta	Hynčice	99	166	0
-8104	554910	1	1	470	2	Pavlína	Koláčková	F	Ing.		42	ekonom	Hynčice	99	166	0
-8104	554910	1	1	470	3	Drahomír	Černický	M			40	technik	Vražné	99	166	0
-8104	554910	1	1	470	4	Jiří	Šuba	M			29	technik	Vražné	99	166	0
-8104	554910	1	1	470	5	Jiří	Kucharz	M			47	podnikatel	Emauzy	99	166	0
-8104	554910	1	1	470	6	Alois	Kvita	M			59	důchodce	Vražné	99	166	0
-8104	554910	1	1	470	7	David	Holub	M			32	technik	Hynčice	99	166	0
-8104	554910	1	1	470	8	Michal	Mikala	M			30	zedník	Vražné	99	166	0
-8104	554910	1	1	470	9	Ladislav	Lašák	M			25	studující	Vražné	99	80	0
-8104	554910	1	2	901	1	Radim	Matonoha	M			34	technolog	Vražné	99	80	0
-8104	554910	1	2	901	2	Marie	Lazecká	F			59	hlavní ekonom	Vražné	99	80	0
-8104	554910	1	2	901	3	Gabriela	Grzegorzová	F	Ing.		34	product.manager	Vražné	99	80	0
-8104	554910	1	2	901	4	Silvie	Lukášová	F			32	vedoucí pošty	Vražné	99	80	0
-8104	554910	1	2	901	5	Marián	Černický	M			34	řidič	Vražné	99	80	0
-8104	554910	1	2	901	6	Pavel	Křenek	M			33	řidič	Vražné	99	80	0
-8104	554910	1	2	901	7	Alois	Mácha	M			33	výrobní dělník	Vražné	99	80	0
-8104	554910	1	2	901	8	Michal	Beneš	M			26	výrobní dělník	Vražné	99	80	0
-8104	554910	1	2	901	9	Milan	Leskovjan	M			33	výrobní dělník	Vražné	99	80	0
-8104	554910	1	3	801	1	Jaromír	Rudol	M			53	el.údržbář	Vražné	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8104	554910	1	1	470	1	Vladimír	Nippert	Ing.		61	starosta	Hynčice	99	166	0	M
+8104	554910	1	2	901	1	Radim	Matonoha			34	technolog	Vražné	99	80	0	M
+8104	554910	1	3	801	1	Jaromír	Rudol			53	el.údržbář	Vražné	99	80	0	M
+8104	554910	1	1	470	2	Pavlína	Koláčková	Ing.		42	ekonom	Hynčice	99	166	0	F
+8104	554910	1	2	901	2	Marie	Lazecká			59	hlavní ekonom	Vražné	99	80	0	F
+8104	554910	1	1	470	3	Drahomír	Černický			40	technik	Vražné	99	166	0	M
+8104	554910	1	2	901	3	Gabriela	Grzegorzová	Ing.		34	product.manager	Vražné	99	80	0	F
+8104	554910	1	1	470	4	Jiří	Šuba			29	technik	Vražné	99	166	0	M
+8104	554910	1	2	901	4	Silvie	Lukášová			32	vedoucí pošty	Vražné	99	80	0	F
+8104	554910	1	1	470	5	Jiří	Kucharz			47	podnikatel	Emauzy	99	166	0	M
+8104	554910	1	2	901	5	Marián	Černický			34	řidič	Vražné	99	80	0	M
+8104	554910	1	1	470	6	Alois	Kvita			59	důchodce	Vražné	99	166	0	M
+8104	554910	1	2	901	6	Pavel	Křenek			33	řidič	Vražné	99	80	0	M
+8104	554910	1	1	470	7	David	Holub			32	technik	Hynčice	99	166	0	M
+8104	554910	1	2	901	7	Alois	Mácha			33	výrobní dělník	Vražné	99	80	0	M
+8104	554910	1	1	470	8	Michal	Mikala			30	zedník	Vražné	99	166	0	M
+8104	554910	1	2	901	8	Michal	Beneš			26	výrobní dělník	Vražné	99	80	0	M
+8104	554910	1	1	470	9	Ladislav	Lašák			25	studující	Vražné	99	80	0	M
+8104	554910	1	2	901	9	Milan	Leskovjan			33	výrobní dělník	Vražné	99	80	0	M

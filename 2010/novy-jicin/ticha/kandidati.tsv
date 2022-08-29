@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8104	599956	1	1	1	1	Lucie	Jurková	F	Ing.		32	mateřská dovolená	Tichá	1	1	0
-8104	599956	1	1	1	2	Jiří	Adamec	M	Ing.		48	technik	Tichá	1	1	0
-8104	599956	1	1	1	3	Kateřina	Ryšková	F	Bc.	DiS.	36	sociální pracovnice	Tichá	99	1	0
-8104	599956	1	1	1	4	Roman	Bok	M	Ing.		28	technik	Tichá	99	1	0
-8104	599956	1	1	1	5	Pavel	Šmajstrla	M			41	vedoucí Lisovny	Tichá	99	1	0
-8104	599956	1	1	1	6	Zuzana	Kociánová	F			33	montážní dělnice	Tichá	99	1	0
-8104	599956	1	1	1	7	Miluše	Adamcová	F	MUDr.		58	dětská lékařka	Tichá	99	1	0
-8104	599956	1	1	1	8	Pavel	Fajkus	M			33	dělník - Lisovna	Tichá	99	1	0
-8104	599956	1	1	1	9	Radim	Butora	M			42	brusič	Tichá	99	1	0
-8104	599956	1	1	1	10	Miroslav	Mičulek	M			55	instalatér	Tichá	1	1	0
-8104	599956	1	1	1	11	Marie	Fojtíková	F			51	poštovní doručovatelka	Tichá	99	1	0
-8104	599956	1	2	47	1	Josef	Neplech	M			63	důchodce	Tichá	47	47	0
-8104	599956	1	2	47	2	Stanislav	Palacký	M	Bc.		39	státní zaměstnanec	Tichá	99	47	0
-8104	599956	1	2	47	3	Jan	Skřivánek	M			62	důchodce	Tichá	99	47	0
-8104	599956	1	2	47	4	Jiří	Vraspír	M			61	důchodce	Tichá	47	47	0
-8104	599956	1	2	47	5	Milan	Mikoláš	M			52	dělník	Tichá	47	47	0
-8104	599956	1	2	47	6	Josef	Jurajda	M			65	důchodce	Tichá	47	47	0
-8104	599956	1	2	47	7	Zdeněk	Čulák	M			55	THP	Tichá	99	47	0
-8104	599956	1	2	47	8	Jiří	Svoboda	M			57	polit. pracovník	Tichá	47	47	0
-8104	599956	1	2	47	9	Jan	Petr	M			68	důchodce	Tichá	47	47	0
-8104	599956	1	2	47	10	Jan	Kovář	M			66	důchodce	Tichá	47	47	0
-8104	599956	1	2	47	11	Alenka	Lipková	F			73	důchodce	Tichá	47	47	0
-8104	599956	1	3	53	1	Miroslav	Hopp	M			46	soukromý podnikatel	Tichá	53	53	0
-8104	599956	1	3	53	2	Luboš	Žabka	M			49	starosta obce	Tichá	53	53	0
-8104	599956	1	3	53	3	Zdeněk	Slačík	M	Ing.		54	ekonom	Tichá	99	53	0
-8104	599956	1	3	53	4	Zdeněk	Švrček	M			41	dělník	Tichá	99	53	0
-8104	599956	1	3	53	5	Pavel	Ulčák	M			46	technik	Tichá	53	53	0
-8104	599956	1	3	53	6	Jan	Bobek	M			51	soukromý podnikatel	Tichá	99	53	0
-8104	599956	1	3	53	7	Ladislav	Kundrát	M			26	voják z povolání	Tichá	99	53	0
-8104	599956	1	3	53	8	Michal	Hoffmann	M			27	dělník	Tichá	99	53	0
-8104	599956	1	3	53	9	Petr	Bordovský	M	Bc.		23	student	Tichá	99	53	0
-8104	599956	1	3	53	10	Miroslav	Ulčák	M			56	dělník	Tichá	99	53	0
-8104	599956	1	3	53	11	Martin	Gonos	M			38	technik	Tichá	53	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8104	599956	1	1	1	1	Lucie	Jurková	Ing.		32	mateřská dovolená	Tichá	1	1	0	F
+8104	599956	1	2	47	1	Josef	Neplech			63	důchodce	Tichá	47	47	0	M
+8104	599956	1	3	53	1	Miroslav	Hopp			46	soukromý podnikatel	Tichá	53	53	0	M
+8104	599956	1	1	1	2	Jiří	Adamec	Ing.		48	technik	Tichá	1	1	0	M
+8104	599956	1	2	47	2	Stanislav	Palacký	Bc.		39	státní zaměstnanec	Tichá	99	47	0	M
+8104	599956	1	3	53	2	Luboš	Žabka			49	starosta obce	Tichá	53	53	0	M
+8104	599956	1	1	1	3	Kateřina	Ryšková	Bc.	DiS.	36	sociální pracovnice	Tichá	99	1	0	F
+8104	599956	1	2	47	3	Jan	Skřivánek			62	důchodce	Tichá	99	47	0	M
+8104	599956	1	3	53	3	Zdeněk	Slačík	Ing.		54	ekonom	Tichá	99	53	0	M
+8104	599956	1	1	1	4	Roman	Bok	Ing.		28	technik	Tichá	99	1	0	M
+8104	599956	1	2	47	4	Jiří	Vraspír			61	důchodce	Tichá	47	47	0	M
+8104	599956	1	3	53	4	Zdeněk	Švrček			41	dělník	Tichá	99	53	0	M
+8104	599956	1	1	1	5	Pavel	Šmajstrla			41	vedoucí Lisovny	Tichá	99	1	0	M
+8104	599956	1	2	47	5	Milan	Mikoláš			52	dělník	Tichá	47	47	0	M
+8104	599956	1	3	53	5	Pavel	Ulčák			46	technik	Tichá	53	53	0	M
+8104	599956	1	1	1	6	Zuzana	Kociánová			33	montážní dělnice	Tichá	99	1	0	F
+8104	599956	1	2	47	6	Josef	Jurajda			65	důchodce	Tichá	47	47	0	M
+8104	599956	1	3	53	6	Jan	Bobek			51	soukromý podnikatel	Tichá	99	53	0	M
+8104	599956	1	1	1	7	Miluše	Adamcová	MUDr.		58	dětská lékařka	Tichá	99	1	0	F
+8104	599956	1	2	47	7	Zdeněk	Čulák			55	THP	Tichá	99	47	0	M
+8104	599956	1	3	53	7	Ladislav	Kundrát			26	voják z povolání	Tichá	99	53	0	M
+8104	599956	1	1	1	8	Pavel	Fajkus			33	dělník - Lisovna	Tichá	99	1	0	M
+8104	599956	1	2	47	8	Jiří	Svoboda			57	polit. pracovník	Tichá	47	47	0	M
+8104	599956	1	3	53	8	Michal	Hoffmann			27	dělník	Tichá	99	53	0	M
+8104	599956	1	1	1	9	Radim	Butora			42	brusič	Tichá	99	1	0	M
+8104	599956	1	2	47	9	Jan	Petr			68	důchodce	Tichá	47	47	0	M
+8104	599956	1	3	53	9	Petr	Bordovský	Bc.		23	student	Tichá	99	53	0	M
+8104	599956	1	1	1	10	Miroslav	Mičulek			55	instalatér	Tichá	1	1	0	M
+8104	599956	1	2	47	10	Jan	Kovář			66	důchodce	Tichá	47	47	0	M
+8104	599956	1	3	53	10	Miroslav	Ulčák			56	dělník	Tichá	99	53	0	M
+8104	599956	1	1	1	11	Marie	Fojtíková			51	poštovní doručovatelka	Tichá	99	1	0	F
+8104	599956	1	2	47	11	Alenka	Lipková			73	důchodce	Tichá	47	47	0	F
+8104	599956	1	3	53	11	Martin	Gonos			38	technik	Tichá	53	53	0	M

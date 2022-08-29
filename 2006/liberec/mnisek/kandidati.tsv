@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5103	564231	1	1	902	1	Hana	Čepičková	F	Bc.		31	referentka KÚLK	Mníšek	99	80	0
-5103	564231	1	1	902	2	Roman	Slezák	M			39	živnostník	Mníšek	99	80	0
-5103	564231	1	1	902	3	Hana	Pavlíková	F			49	vedoucí pošty	Mníšek	99	80	0
-5103	564231	1	1	902	4	Gisela	Škodová	F			57	administrativní pracovnice	Mníšek	53	80	0
-5103	564231	1	1	902	5	Kamila	Drobná	F			36	zdravotní sestra	Mníšek	99	80	0
-5103	564231	1	1	902	6	Kurt	Effenberger	M			66	technik	Mníšek	99	80	0
-5103	564231	1	1	902	7	Jan	Zítka	M			43	technik	Fojtka	99	80	0
-5103	564231	1	1	902	8	Ladislav	Ulrych	M	Mgr.		73	důchodce	Mníšek	99	80	0
-5103	564231	1	1	902	9	Miloslav	Florian	M			61	starosta	Fojtka	99	80	0
-5103	564231	1	2	47	1	Vladimír	Vacek	M			60	důchodce	Fojtka	99	47	0
-5103	564231	1	2	47	2	Monika	Haasová	F			64	ekonomka	Mníšek	47	47	0
-5103	564231	1	2	47	3	Miroslav	Vacek	M			59	dělník	Mníšek	99	47	0
-5103	564231	1	2	47	4	Miroslava	Kubišová	F			45	učitelka mateřské školy	Fojtka	99	47	0
-5103	564231	1	2	47	5	Bohuslav	Chaloupecký	M			58	dělník	Fojtka	99	47	0
-5103	564231	1	2	47	6	Bedřich	Holubec	M			48	dělník	Mníšek	99	47	0
-5103	564231	1	2	47	7	Oldřich	Souček	M	Ing.		52	technický pracovník	Fojtka	99	47	0
-5103	564231	1	2	47	8	Růžena	Korcová	F			53	dělnice	Mníšek	47	47	0
-5103	564231	1	2	47	9	Hana	Hajflerová	F			52	nezaměstnaná	Mníšek	47	47	0
-5103	564231	1	3	901	1	Pavel	Vlasák	M			50	podnikatel	Fojtka	99	80	0
-5103	564231	1	3	901	2	Alice	Benešová	F			50	sociální poradce	Fojtka	99	80	0
-5103	564231	1	3	901	3	Pavel	Šimek	M			42	zaměstnanec Státní vet. správy	Mníšek	99	80	1
-5103	564231	1	3	901	4	Luděk	Zítka	M			41	podnikatel	Mníšek	99	80	0
-5103	564231	1	3	901	5	Richard	Barusel	M			35	profesionální trenér golfu	Fojtka	99	80	0
-5103	564231	1	3	901	6	Pavel	Janďourek	M	Ing.		44	podnikatel	Mníšek	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5103	564231	1	1	902	1	Hana	Čepičková	Bc.		31	referentka KÚLK	Mníšek	99	80	0	F
+5103	564231	1	2	47	1	Vladimír	Vacek			60	důchodce	Fojtka	99	47	0	M
+5103	564231	1	3	901	1	Pavel	Vlasák			50	podnikatel	Fojtka	99	80	0	M
+5103	564231	1	1	902	2	Roman	Slezák			39	živnostník	Mníšek	99	80	0	M
+5103	564231	1	2	47	2	Monika	Haasová			64	ekonomka	Mníšek	47	47	0	F
+5103	564231	1	3	901	2	Alice	Benešová			50	sociální poradce	Fojtka	99	80	0	F
+5103	564231	1	1	902	3	Hana	Pavlíková			49	vedoucí pošty	Mníšek	99	80	0	F
+5103	564231	1	2	47	3	Miroslav	Vacek			59	dělník	Mníšek	99	47	0	M
+5103	564231	1	3	901	3	Pavel	Šimek			42	zaměstnanec Státní vet. správy	Mníšek	99	80	1	M
+5103	564231	1	1	902	4	Gisela	Škodová			57	administrativní pracovnice	Mníšek	53	80	0	F
+5103	564231	1	2	47	4	Miroslava	Kubišová			45	učitelka mateřské školy	Fojtka	99	47	0	F
+5103	564231	1	3	901	4	Luděk	Zítka			41	podnikatel	Mníšek	99	80	0	M
+5103	564231	1	1	902	5	Kamila	Drobná			36	zdravotní sestra	Mníšek	99	80	0	F
+5103	564231	1	2	47	5	Bohuslav	Chaloupecký			58	dělník	Fojtka	99	47	0	M
+5103	564231	1	3	901	5	Richard	Barusel			35	profesionální trenér golfu	Fojtka	99	80	0	M
+5103	564231	1	1	902	6	Kurt	Effenberger			66	technik	Mníšek	99	80	0	M
+5103	564231	1	2	47	6	Bedřich	Holubec			48	dělník	Mníšek	99	47	0	M
+5103	564231	1	3	901	6	Pavel	Janďourek	Ing.		44	podnikatel	Mníšek	99	80	0	M
+5103	564231	1	1	902	7	Jan	Zítka			43	technik	Fojtka	99	80	0	M
+5103	564231	1	2	47	7	Oldřich	Souček	Ing.		52	technický pracovník	Fojtka	99	47	0	M
+5103	564231	1	1	902	8	Ladislav	Ulrych	Mgr.		73	důchodce	Mníšek	99	80	0	M
+5103	564231	1	2	47	8	Růžena	Korcová			53	dělnice	Mníšek	47	47	0	F
+5103	564231	1	1	902	9	Miloslav	Florian			61	starosta	Fojtka	99	80	0	M
+5103	564231	1	2	47	9	Hana	Hajflerová			52	nezaměstnaná	Mníšek	47	47	0	F

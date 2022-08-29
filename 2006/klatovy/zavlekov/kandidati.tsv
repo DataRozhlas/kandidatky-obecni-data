@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3202	557463	1	1	902	1	Rostislav	Maxa	M			36	obchodník	Zavlekov	99	80	0
-3202	557463	1	1	902	2	Václav	Hnojský	M	Mgr.		41	učitel	Zavlekov	99	80	0
-3202	557463	1	1	902	3	Vladislav	Vaňourek	M			45	mlékař	Zavlekov	99	80	0
-3202	557463	1	1	902	4	Frank	Simson	M			38	podnikatel	Zavlekov	99	80	0
-3202	557463	1	1	902	5	Zdeněk	Koubek	M			49	zedník	Zavlekov	99	80	0
-3202	557463	1	1	902	6	Pavel	Přerost	M			34	svářeč	Zavlekov	99	80	0
-3202	557463	1	1	902	7	Karel	Novák	M			33	elektromontér	Zavlekov	99	80	0
-3202	557463	1	1	902	8	Karin	Pacholíková	F			50	recepční	Zavlekov	99	80	0
-3202	557463	1	1	902	9	Jaroslav	Makrlík	M			37	podnikatel	Zavlekov	99	80	0
-3202	557463	1	2	901	1	Petr	Tomšík	M			33	montér VZT	Zavlekov	99	80	0
-3202	557463	1	2	901	2	Milan	Kotlan	M			37	opravář zemědělských strojů	Skránčice	99	80	0
-3202	557463	1	2	901	3	Jaroslava	Maxová	F			36	vychovatelka ŠD	Mladice	99	80	0
-3202	557463	1	2	901	4	Jitka	Šiplová	F			43	soukromá podnikatelka	Plichtice	99	80	0
-3202	557463	1	2	901	5	Pavla	Přerostová	F			34	učitelka MŠ	Zavlekov	99	80	0
-3202	557463	1	2	901	6	Stanislav	Johánek	M			46	svářeč	Zavlekov	99	80	0
-3202	557463	1	2	901	7	Blanka	Sudová	F			51	vedoucí pošty	Zavlekov	99	80	0
-3202	557463	1	2	901	8	Hana	Melcová	F			31	sekretářka	Zavlekov	99	80	0
-3202	557463	1	2	901	9	Ladislav	Král	M			25	skladník	Zavlekov	99	80	0
-3202	557463	1	3	1	1	František	Kalista	M	Ing.		46	programátor	Zavlekov	99	1	0
-3202	557463	1	3	1	2	František	Fous	M			47	soukromý zemědělec	Zavlekov	1	1	0
-3202	557463	1	3	1	3	Miroslav	Přerost	M			31	soukromý podnikatel	Mladice	99	1	0
-3202	557463	1	3	1	4	Pavel	Šipla	M			48	soukromý podnikatel	Plichtice	99	1	0
-3202	557463	1	3	1	5	Karel	Plánička	M			51	soukromý podnikatel	Skránčice	99	1	0
-3202	557463	1	3	1	6	Miroslav	Soumar	M			49	soukromý zemědělec	Zavlekov	99	1	0
-3202	557463	1	3	1	7	Tomáš	Prexl	M		DiS.	27	soukromý podnikatel	Zavlekov	99	1	0
-3202	557463	1	3	1	8	Blažej	Černík	M			60	starosta obce	Zavlekov	1	1	0
-3202	557463	1	3	1	9	Jaroslav	Vitásek	M			48	zedník	Zavlekov	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3202	557463	1	1	902	1	Rostislav	Maxa			36	obchodník	Zavlekov	99	80	0	M
+3202	557463	1	2	901	1	Petr	Tomšík			33	montér VZT	Zavlekov	99	80	0	M
+3202	557463	1	3	1	1	František	Kalista	Ing.		46	programátor	Zavlekov	99	1	0	M
+3202	557463	1	1	902	2	Václav	Hnojský	Mgr.		41	učitel	Zavlekov	99	80	0	M
+3202	557463	1	2	901	2	Milan	Kotlan			37	opravář zemědělských strojů	Skránčice	99	80	0	M
+3202	557463	1	3	1	2	František	Fous			47	soukromý zemědělec	Zavlekov	1	1	0	M
+3202	557463	1	1	902	3	Vladislav	Vaňourek			45	mlékař	Zavlekov	99	80	0	M
+3202	557463	1	2	901	3	Jaroslava	Maxová			36	vychovatelka ŠD	Mladice	99	80	0	F
+3202	557463	1	3	1	3	Miroslav	Přerost			31	soukromý podnikatel	Mladice	99	1	0	M
+3202	557463	1	1	902	4	Frank	Simson			38	podnikatel	Zavlekov	99	80	0	M
+3202	557463	1	2	901	4	Jitka	Šiplová			43	soukromá podnikatelka	Plichtice	99	80	0	F
+3202	557463	1	3	1	4	Pavel	Šipla			48	soukromý podnikatel	Plichtice	99	1	0	M
+3202	557463	1	1	902	5	Zdeněk	Koubek			49	zedník	Zavlekov	99	80	0	M
+3202	557463	1	2	901	5	Pavla	Přerostová			34	učitelka MŠ	Zavlekov	99	80	0	F
+3202	557463	1	3	1	5	Karel	Plánička			51	soukromý podnikatel	Skránčice	99	1	0	M
+3202	557463	1	1	902	6	Pavel	Přerost			34	svářeč	Zavlekov	99	80	0	M
+3202	557463	1	2	901	6	Stanislav	Johánek			46	svářeč	Zavlekov	99	80	0	M
+3202	557463	1	3	1	6	Miroslav	Soumar			49	soukromý zemědělec	Zavlekov	99	1	0	M
+3202	557463	1	1	902	7	Karel	Novák			33	elektromontér	Zavlekov	99	80	0	M
+3202	557463	1	2	901	7	Blanka	Sudová			51	vedoucí pošty	Zavlekov	99	80	0	F
+3202	557463	1	3	1	7	Tomáš	Prexl		DiS.	27	soukromý podnikatel	Zavlekov	99	1	0	M
+3202	557463	1	1	902	8	Karin	Pacholíková			50	recepční	Zavlekov	99	80	0	F
+3202	557463	1	2	901	8	Hana	Melcová			31	sekretářka	Zavlekov	99	80	0	F
+3202	557463	1	3	1	8	Blažej	Černík			60	starosta obce	Zavlekov	1	1	0	M
+3202	557463	1	1	902	9	Jaroslav	Makrlík			37	podnikatel	Zavlekov	99	80	0	M
+3202	557463	1	2	901	9	Ladislav	Král			25	skladník	Zavlekov	99	80	0	M
+3202	557463	1	3	1	9	Jaroslav	Vitásek			48	zedník	Zavlekov	99	1	0	M

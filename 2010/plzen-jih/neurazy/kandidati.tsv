@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3204	558125	1	1	901	1	Miroslav	Hrubý	M			55	manažer IMS	Vojovice	99	80	0
-3204	558125	1	1	901	2	Luboš	Svoboda	M	Ing.		35	projektant	Klikařov	99	80	0
-3204	558125	1	1	901	3	Jan	Brašna	M			46	traktorista	Partoltice	99	80	0
-3204	558125	1	1	901	4	Vojtěch	Silovský	M			56	invalidní důchodce	Nová Ves u Nepomuka	99	80	0
-3204	558125	1	1	901	5	Oto	Vopalecký	M			37	obsluha stavebních strojů	Vojovice	99	80	0
-3204	558125	1	1	901	6	Václav	Franc	M			33	skladník	Radochovy	99	80	0
-3204	558125	1	1	901	7	Václav	Kůs	M			33	truhlář	Neurazy	99	80	0
-3204	558125	1	1	901	8	Jaromír	Richtář	M			43	jeřábník	Nová Ves u Nepomuka	99	80	0
-3204	558125	1	1	901	9	Zdeňka	Bartošová	F			58	OSVČ	Vojovice	99	80	0
-3204	558125	1	2	902	1	Anna	Burešová	F			51	učitelka MŠ	Neurazy	99	80	0
-3204	558125	1	2	902	2	Marie	Svejkovská	F	Mgr.		36	učitelka	Neurazy	99	80	0
-3204	558125	1	2	902	3	Jiří	Ptáček	M			64	starosta	Klikařov	99	80	0
-3204	558125	1	2	902	4	Josef	Vavřina	M			63	důchodce	Partoltice	99	80	0
-3204	558125	1	2	902	5	Jan	Bartička	M			36	elektrikář	Radochovy	99	80	0
-3204	558125	1	2	902	6	Daniel	Krob	M			45	hosp.-tech. vedoucí	Soběsuky	99	80	0
-3204	558125	1	2	902	7	Václav	Paneš	M			38	telefonní mechanik	Neurazy	99	80	0
-3204	558125	1	2	902	8	Milan	Kotlan	M	Ing.		28	revírník	Neurazy	99	80	0
-3204	558125	1	2	902	9	Petr	Švarc	M			35	elektrikář	Soběsuky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3204	558125	1	1	901	1	Miroslav	Hrubý			55	manažer IMS	Vojovice	99	80	0	M
+3204	558125	1	2	902	1	Anna	Burešová			51	učitelka MŠ	Neurazy	99	80	0	F
+3204	558125	1	1	901	2	Luboš	Svoboda	Ing.		35	projektant	Klikařov	99	80	0	M
+3204	558125	1	2	902	2	Marie	Svejkovská	Mgr.		36	učitelka	Neurazy	99	80	0	F
+3204	558125	1	1	901	3	Jan	Brašna			46	traktorista	Partoltice	99	80	0	M
+3204	558125	1	2	902	3	Jiří	Ptáček			64	starosta	Klikařov	99	80	0	M
+3204	558125	1	1	901	4	Vojtěch	Silovský			56	invalidní důchodce	Nová Ves u Nepomuka	99	80	0	M
+3204	558125	1	2	902	4	Josef	Vavřina			63	důchodce	Partoltice	99	80	0	M
+3204	558125	1	1	901	5	Oto	Vopalecký			37	obsluha stavebních strojů	Vojovice	99	80	0	M
+3204	558125	1	2	902	5	Jan	Bartička			36	elektrikář	Radochovy	99	80	0	M
+3204	558125	1	1	901	6	Václav	Franc			33	skladník	Radochovy	99	80	0	M
+3204	558125	1	2	902	6	Daniel	Krob			45	hosp.-tech. vedoucí	Soběsuky	99	80	0	M
+3204	558125	1	1	901	7	Václav	Kůs			33	truhlář	Neurazy	99	80	0	M
+3204	558125	1	2	902	7	Václav	Paneš			38	telefonní mechanik	Neurazy	99	80	0	M
+3204	558125	1	1	901	8	Jaromír	Richtář			43	jeřábník	Nová Ves u Nepomuka	99	80	0	M
+3204	558125	1	2	902	8	Milan	Kotlan	Ing.		28	revírník	Neurazy	99	80	0	M
+3204	558125	1	1	901	9	Zdeňka	Bartošová			58	OSVČ	Vojovice	99	80	0	F
+3204	558125	1	2	902	9	Petr	Švarc			35	elektrikář	Soběsuky	99	80	0	M

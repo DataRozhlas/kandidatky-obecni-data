@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	562165	1	1	901	1	Marie	Smrtová	F			59	důchodkyně	Zvíkovské Podhradí	99	80	0
-3104	562165	1	1	901	2	Miluše	Rentková	F			37	podnikatelka	Zvíkovské Podhradí	99	80	0
-3104	562165	1	1	901	3	Rostislav	Matuška	M			33	podnikatel	Zvíkovské Podhradí	99	80	0
-3104	562165	1	1	901	4	Petr	Lasovský	M			69	důchodce	Zvíkovské Podhradí	99	80	0
-3104	562165	1	1	901	5	Jana	Hlavínová	F			52	zaměstnanec OÚ	Zvíkovské Podhradí	99	80	0
-3104	562165	1	1	901	6	Martina	Průšová	F			35	podnikatelka	Zvíkovské Podhradí	99	80	0
-3104	562165	1	1	901	7	Radka	Matušková	F			32	kuchařka	Zvíkovské Podhradí	99	80	0
-3104	562165	1	1	901	8	Monika	Keřková	F			26	prodavačka	Zvíkovské Podhradí	99	80	0
-3104	562165	1	1	901	9	Dana	Alexandrová	F			19	studentka	Zvíkovské Podhradí	99	80	0
-3104	562165	1	2	902	1	Jiří	Kloboučník	M			35	truhlář	Zvíkovské Podhradí	99	80	0
-3104	562165	1	2	902	2	Josef	Kozelka	M			31	podnikatel	Zvíkovské Podhradí	99	80	0
-3104	562165	1	2	902	3	František	Kubíček	M			45	automechanik	Zvíkovské Podhradí	99	80	0
-3104	562165	1	2	902	4	Josef	Bárta	M			36	údržbář	Zvíkovské Podhradí	99	80	0
-3104	562165	1	2	902	5	Ladislav	Jáchym	M			50	dělník	Zvíkovské Podhradí	99	80	0
-3104	562165	1	2	902	6	Jiří	Fiřt	M			31	podnikatel	Zvíkovské Podhradí	99	80	0
-3104	562165	1	3	903	1	Miluše	Klimendová	F			41	podnikatelka	Zvíkovské Podhradí	99	80	0
-3104	562165	1	3	903	2	Helena	Žydková Smolková	F			53	vychovatelka	Zvíkovské Podhradí	99	80	0
-3104	562165	1	3	903	3	Olga	Suchanová	F			39	servírka	Zvíkovské Podhradí	99	80	0
-3104	562165	1	3	903	4	Blanka	Kloboučníková	F			33	kuchařka	Zvíkovské Podhradí	99	80	0
-3104	562165	1	3	903	5	Markéta	Bílková	F			24	manager	Zvíkovské Podhradí	99	80	0
-3104	562165	1	3	903	6	Helena	Fiřtová	F			27	pokojská	Zvíkovské Podhradí	99	80	0
-3104	562165	1	3	903	7	Klára	Tíková	F			27	mateřská dovolená	Zvíkovské Podhradí	99	80	0
-3104	562165	1	3	903	8	Marie	Kubíčková	F			44	vychovatelka	Zvíkovské Podhradí	99	80	0
-3104	562165	1	3	903	9	Petra	Kubíčková	F			21	recepční	Zvíkovské Podhradí	99	80	0
-3104	562165	1	4	53	1	František	Blažek	M			60	hajný	Zvíkovské Podhradí	53	53	0
-3104	562165	1	4	53	2	Miroslav	Bílek	M			25	zásobovač	Zvíkovské Podhradí	53	53	0
-3104	562165	1	4	53	3	Josef	Procházka	M			65	důchodce	Zvíkovské Podhradí	99	53	0
-3104	562165	1	4	53	4	František	Cingl	M			46	podnikatel	Zvíkovské Podhradí	99	53	0
-3104	562165	1	4	53	5	Viktor	Šorf	M			30	podnikatel	Zvíkovské Podhradí	53	53	0
-3104	562165	1	4	53	6	Tomáš	Morávek	M			37	říční dozor	Zvíkovské Podhradí	53	53	0
-3104	562165	1	4	53	7	Jana	Šorfová	F			30	mateřská dovolená	Zvíkovské Podhradí	53	53	1
-3104	562165	1	4	53	8	Jan	Říha	M			38	podnikatel	Zvíkovské Podhradí	99	53	0
-3104	562165	1	4	53	9	Květuše	Wichterlová	F			83	důchodce	Zvíkovské Podhradí	53	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	562165	1	1	901	1	Marie	Smrtová			59	důchodkyně	Zvíkovské Podhradí	99	80	0	F
+3104	562165	1	2	902	1	Jiří	Kloboučník			35	truhlář	Zvíkovské Podhradí	99	80	0	M
+3104	562165	1	3	903	1	Miluše	Klimendová			41	podnikatelka	Zvíkovské Podhradí	99	80	0	F
+3104	562165	1	4	53	1	František	Blažek			60	hajný	Zvíkovské Podhradí	53	53	0	M
+3104	562165	1	1	901	2	Miluše	Rentková			37	podnikatelka	Zvíkovské Podhradí	99	80	0	F
+3104	562165	1	2	902	2	Josef	Kozelka			31	podnikatel	Zvíkovské Podhradí	99	80	0	M
+3104	562165	1	3	903	2	Helena	Žydková Smolková			53	vychovatelka	Zvíkovské Podhradí	99	80	0	F
+3104	562165	1	4	53	2	Miroslav	Bílek			25	zásobovač	Zvíkovské Podhradí	53	53	0	M
+3104	562165	1	1	901	3	Rostislav	Matuška			33	podnikatel	Zvíkovské Podhradí	99	80	0	M
+3104	562165	1	2	902	3	František	Kubíček			45	automechanik	Zvíkovské Podhradí	99	80	0	M
+3104	562165	1	3	903	3	Olga	Suchanová			39	servírka	Zvíkovské Podhradí	99	80	0	F
+3104	562165	1	4	53	3	Josef	Procházka			65	důchodce	Zvíkovské Podhradí	99	53	0	M
+3104	562165	1	1	901	4	Petr	Lasovský			69	důchodce	Zvíkovské Podhradí	99	80	0	M
+3104	562165	1	2	902	4	Josef	Bárta			36	údržbář	Zvíkovské Podhradí	99	80	0	M
+3104	562165	1	3	903	4	Blanka	Kloboučníková			33	kuchařka	Zvíkovské Podhradí	99	80	0	F
+3104	562165	1	4	53	4	František	Cingl			46	podnikatel	Zvíkovské Podhradí	99	53	0	M
+3104	562165	1	1	901	5	Jana	Hlavínová			52	zaměstnanec OÚ	Zvíkovské Podhradí	99	80	0	F
+3104	562165	1	2	902	5	Ladislav	Jáchym			50	dělník	Zvíkovské Podhradí	99	80	0	M
+3104	562165	1	3	903	5	Markéta	Bílková			24	manager	Zvíkovské Podhradí	99	80	0	F
+3104	562165	1	4	53	5	Viktor	Šorf			30	podnikatel	Zvíkovské Podhradí	53	53	0	M
+3104	562165	1	1	901	6	Martina	Průšová			35	podnikatelka	Zvíkovské Podhradí	99	80	0	F
+3104	562165	1	2	902	6	Jiří	Fiřt			31	podnikatel	Zvíkovské Podhradí	99	80	0	M
+3104	562165	1	3	903	6	Helena	Fiřtová			27	pokojská	Zvíkovské Podhradí	99	80	0	F
+3104	562165	1	4	53	6	Tomáš	Morávek			37	říční dozor	Zvíkovské Podhradí	53	53	0	M
+3104	562165	1	1	901	7	Radka	Matušková			32	kuchařka	Zvíkovské Podhradí	99	80	0	F
+3104	562165	1	3	903	7	Klára	Tíková			27	mateřská dovolená	Zvíkovské Podhradí	99	80	0	F
+3104	562165	1	4	53	7	Jana	Šorfová			30	mateřská dovolená	Zvíkovské Podhradí	53	53	1	F
+3104	562165	1	1	901	8	Monika	Keřková			26	prodavačka	Zvíkovské Podhradí	99	80	0	F
+3104	562165	1	3	903	8	Marie	Kubíčková			44	vychovatelka	Zvíkovské Podhradí	99	80	0	F
+3104	562165	1	4	53	8	Jan	Říha			38	podnikatel	Zvíkovské Podhradí	99	53	0	M
+3104	562165	1	1	901	9	Dana	Alexandrová			19	studentka	Zvíkovské Podhradí	99	80	0	F
+3104	562165	1	3	903	9	Petra	Kubíčková			21	recepční	Zvíkovské Podhradí	99	80	0	F
+3104	562165	1	4	53	9	Květuše	Wichterlová			83	důchodce	Zvíkovské Podhradí	53	53	0	F

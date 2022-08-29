@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2102	532002	1	1	801	1	Milan	Výrut	M			28	auditor kvality	Záluží	99	80	0
-2102	532002	1	2	802	1	Marek	Horák	M			25	skladník	Záluží	99	80	0
-2102	532002	1	3	901	1	Ludmila	Mottlová	F	Mgr.		36	učitelka	Záluží	99	80	0
-2102	532002	1	3	901	2	Miriam	Carvánová	F			42	účetní	Záluží	99	80	0
-2102	532002	1	3	901	3	Josef	Chlustina	M			64	důchodce	Záluží	99	80	0
-2102	532002	1	3	901	4	Margita	Antonová	F			63	důchodkyně	Záluží	99	80	0
-2102	532002	1	3	901	5	Jiří	Cabalka	M			50	podnikatel	Záluží	99	80	0
-2102	532002	1	3	901	6	Jiří	Hatina	M			48	zedník	Záluží	99	80	0
-2102	532002	1	3	901	7	Jiří	Flieger	M	Ing.		41	technik elektro	Záluží	99	80	0
-2102	532002	1	3	901	8	Petr	Ding	M	Ing.		38	technik elektro	Záluží	99	80	0
-2102	532002	1	3	901	9	Jaroslav	Šebek	M			42	dělník	Záluží	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2102	532002	1	1	801	1	Milan	Výrut			28	auditor kvality	Záluží	99	80	0	M
+2102	532002	1	2	802	1	Marek	Horák			25	skladník	Záluží	99	80	0	M
+2102	532002	1	3	901	1	Ludmila	Mottlová	Mgr.		36	učitelka	Záluží	99	80	0	F
+2102	532002	1	3	901	2	Miriam	Carvánová			42	účetní	Záluží	99	80	0	F
+2102	532002	1	3	901	3	Josef	Chlustina			64	důchodce	Záluží	99	80	0	M
+2102	532002	1	3	901	4	Margita	Antonová			63	důchodkyně	Záluží	99	80	0	F
+2102	532002	1	3	901	5	Jiří	Cabalka			50	podnikatel	Záluží	99	80	0	M
+2102	532002	1	3	901	6	Jiří	Hatina			48	zedník	Záluží	99	80	0	M
+2102	532002	1	3	901	7	Jiří	Flieger	Ing.		41	technik elektro	Záluží	99	80	0	M
+2102	532002	1	3	901	8	Petr	Ding	Ing.		38	technik elektro	Záluží	99	80	0	M
+2102	532002	1	3	901	9	Jaroslav	Šebek			42	dělník	Záluží	99	80	0	M

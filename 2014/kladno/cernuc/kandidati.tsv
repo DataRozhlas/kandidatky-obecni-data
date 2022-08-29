@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	532207	1	1	470	1	Radka	KLÍMOVÁ	F			45	starostka	Černuc	99	166	0
-2103	532207	1	1	470	2	Jiří	TYMICH	M	Ing.		54	zemědělec	Černuc	99	80	0
-2103	532207	1	1	470	3	Jan	BERNÁŠEK	M			39	úředník	Černuc	99	80	0
-2103	532207	1	1	470	4	Vladimíra	KAŠPÁRKOVÁ	F			50	úřednice	Nabdín	99	80	0
-2103	532207	1	1	470	5	Čestmír	LEV	M			59	podnikatel	Černuc	99	80	0
-2103	532207	1	1	470	6	Alena	KUTÍLKOVÁ	F			50	ředitelka mateřské školy	Černuc	99	80	0
-2103	532207	1	1	470	7	Jaroslava	KRAUSOVÁ	F			44	účetní	Černuc	99	80	0
-2103	532207	1	1	470	8	Petr	VESELÝ	M			52	dělník	Černuc	99	80	0
-2103	532207	1	1	470	9	Pavel	VALEŠ	M			44	hasič,záchranář	Bratkovice	99	80	0
-2103	532207	1	1	470	10	Eva	HOLÁNOVÁ	F			41	administrativní pracovnice	Miletice	99	80	0
-2103	532207	1	1	470	11	Lada	BALEJOVÁ	F	Mgr.		44	speciální pedagog	Černuc	99	80	0
-2103	532207	1	2	801	1	Šárka	ŠVARCOVÁ	F	Ing.		43	stavební inženýr	Černuc	99	80	0
-2103	532207	1	3	901	1	Kateřina	KRÁLOVÁ	F	Ing.		37	účetní	Miletice	99	80	0
-2103	532207	1	3	901	2	Romana	MAŇÁKOVÁ	F			51	dispečerka	Miletice	99	80	0
-2103	532207	1	3	901	3	Antonín	VILDE	M			55	skladník	Miletice	99	80	0
-2103	532207	1	3	901	4	Petra	RAZÁKOVÁ	F			44	supervizor CMV	Miletice	99	80	0
-2103	532207	1	3	901	5	Miroslav	ŠIMÁK	M			31	automechanik	Miletice	99	80	0
-2103	532207	1	3	901	6	Radek	HYKEŠ	M			24	student	Miletice	99	80	0
-2103	532207	1	3	901	7	Petr	MAZÁR	M			52	podnikatel	Miletice	99	80	0
-2103	532207	1	3	901	8	Luděk	EKHARD	M			47	technik	Miletice	99	80	0
-2103	532207	1	3	901	9	Soňa	DVOŘÁČKOVÁ	F			43	podnikatelka	Miletice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	532207	1	1	470	1	Radka	KLÍMOVÁ			45	starostka	Černuc	99	166	0	F
+2103	532207	1	2	801	1	Šárka	ŠVARCOVÁ	Ing.		43	stavební inženýr	Černuc	99	80	0	F
+2103	532207	1	3	901	1	Kateřina	KRÁLOVÁ	Ing.		37	účetní	Miletice	99	80	0	F
+2103	532207	1	1	470	2	Jiří	TYMICH	Ing.		54	zemědělec	Černuc	99	80	0	M
+2103	532207	1	3	901	2	Romana	MAŇÁKOVÁ			51	dispečerka	Miletice	99	80	0	F
+2103	532207	1	1	470	3	Jan	BERNÁŠEK			39	úředník	Černuc	99	80	0	M
+2103	532207	1	3	901	3	Antonín	VILDE			55	skladník	Miletice	99	80	0	M
+2103	532207	1	1	470	4	Vladimíra	KAŠPÁRKOVÁ			50	úřednice	Nabdín	99	80	0	F
+2103	532207	1	3	901	4	Petra	RAZÁKOVÁ			44	supervizor CMV	Miletice	99	80	0	F
+2103	532207	1	1	470	5	Čestmír	LEV			59	podnikatel	Černuc	99	80	0	M
+2103	532207	1	3	901	5	Miroslav	ŠIMÁK			31	automechanik	Miletice	99	80	0	M
+2103	532207	1	1	470	6	Alena	KUTÍLKOVÁ			50	ředitelka mateřské školy	Černuc	99	80	0	F
+2103	532207	1	3	901	6	Radek	HYKEŠ			24	student	Miletice	99	80	0	M
+2103	532207	1	1	470	7	Jaroslava	KRAUSOVÁ			44	účetní	Černuc	99	80	0	F
+2103	532207	1	3	901	7	Petr	MAZÁR			52	podnikatel	Miletice	99	80	0	M
+2103	532207	1	1	470	8	Petr	VESELÝ			52	dělník	Černuc	99	80	0	M
+2103	532207	1	3	901	8	Luděk	EKHARD			47	technik	Miletice	99	80	0	M
+2103	532207	1	1	470	9	Pavel	VALEŠ			44	hasič,záchranář	Bratkovice	99	80	0	M
+2103	532207	1	3	901	9	Soňa	DVOŘÁČKOVÁ			43	podnikatelka	Miletice	99	80	0	F
+2103	532207	1	1	470	10	Eva	HOLÁNOVÁ			41	administrativní pracovnice	Miletice	99	80	0	F
+2103	532207	1	1	470	11	Lada	BALEJOVÁ	Mgr.		44	speciální pedagog	Černuc	99	80	0	F

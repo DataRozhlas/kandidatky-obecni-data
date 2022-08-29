@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7204	585807	1	1	901	1	Božena	Sukaná	F	Ing.		49	OSVČ	Šanov	99	80	0
-7204	585807	1	1	901	2	Ladislav	Šoman	M			33	policista	Šanov	99	80	0
-7204	585807	1	1	901	3	David	Peléšek	M	Bc.		31	zemědělec	Šanov	99	80	0
-7204	585807	1	1	901	4	Eva	Krajíčková	F			41	prodavačka	Šanov	99	80	0
-7204	585807	1	1	901	5	Milan	Mudrák	M			36	elektrikář	Šanov	99	80	0
-7204	585807	1	1	901	6	Petr	Kalík	M			36	instalatér	Šanov	99	80	0
-7204	585807	1	1	901	7	Michal	Prchlík	M			31	zámečník	Šanov	99	80	0
-7204	585807	1	1	901	8	Zbyněk	Rusek	M			29	stolař	Šanov	99	80	0
-7204	585807	1	1	901	9	Stanislava	Berčíková	F	Mgr.		34	učitelka	Šanov	99	80	0
-7204	585807	1	2	902	1	Helena	Suchánková	F			56	OSVČ	Šanov	99	80	0
-7204	585807	1	2	902	2	Emil	Ševčík	M			60	OSVČ	Šanov	99	80	0
-7204	585807	1	2	902	3	Miroslav	Macík	M			44	strážný - hasič	Šanov	99	80	0
-7204	585807	1	2	902	4	Miroslav	Gazdík	M	Mgr.		41	učitel	Šanov	99	80	0
-7204	585807	1	2	902	5	Pavel	Adámek	M			33	ved. provozu dřevařství	Šanov	99	80	0
-7204	585807	1	2	902	6	Karel	Studeník	M			48	policista	Šanov	99	80	0
-7204	585807	1	2	902	7	Petra	Ševčíková	F	Ing.		25	absolvent VŠ	Šanov	99	80	0
-7204	585807	1	2	902	8	Josef	Chovančík	M			52	řidič	Šanov	99	80	0
-7204	585807	1	2	902	9	Dana	Zachová	F			35	mateřská dovolená	Šanov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7204	585807	1	1	901	1	Božena	Sukaná	Ing.		49	OSVČ	Šanov	99	80	0	F
+7204	585807	1	2	902	1	Helena	Suchánková			56	OSVČ	Šanov	99	80	0	F
+7204	585807	1	1	901	2	Ladislav	Šoman			33	policista	Šanov	99	80	0	M
+7204	585807	1	2	902	2	Emil	Ševčík			60	OSVČ	Šanov	99	80	0	M
+7204	585807	1	1	901	3	David	Peléšek	Bc.		31	zemědělec	Šanov	99	80	0	M
+7204	585807	1	2	902	3	Miroslav	Macík			44	strážný - hasič	Šanov	99	80	0	M
+7204	585807	1	1	901	4	Eva	Krajíčková			41	prodavačka	Šanov	99	80	0	F
+7204	585807	1	2	902	4	Miroslav	Gazdík	Mgr.		41	učitel	Šanov	99	80	0	M
+7204	585807	1	1	901	5	Milan	Mudrák			36	elektrikář	Šanov	99	80	0	M
+7204	585807	1	2	902	5	Pavel	Adámek			33	ved. provozu dřevařství	Šanov	99	80	0	M
+7204	585807	1	1	901	6	Petr	Kalík			36	instalatér	Šanov	99	80	0	M
+7204	585807	1	2	902	6	Karel	Studeník			48	policista	Šanov	99	80	0	M
+7204	585807	1	1	901	7	Michal	Prchlík			31	zámečník	Šanov	99	80	0	M
+7204	585807	1	2	902	7	Petra	Ševčíková	Ing.		25	absolvent VŠ	Šanov	99	80	0	F
+7204	585807	1	1	901	8	Zbyněk	Rusek			29	stolař	Šanov	99	80	0	M
+7204	585807	1	2	902	8	Josef	Chovančík			52	řidič	Šanov	99	80	0	M
+7204	585807	1	1	901	9	Stanislava	Berčíková	Mgr.		34	učitelka	Šanov	99	80	0	F
+7204	585807	1	2	902	9	Dana	Zachová			35	mateřská dovolená	Šanov	99	80	0	F

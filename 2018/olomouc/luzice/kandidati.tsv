@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	569844	1	1	801	1	Karel	Orság	M			38	truhlář	Lužice	99	80	A
-7102	569844	1	2	805	1	Radim	Wrana	M	Ing.		36	vedoucí provozu	Lužice	99	80	A
-7102	569844	1	3	811	1	Michal	Dřímalka	M			29	stavbyvedoucí	Lužice	99	80	A
-7102	569844	1	4	806	1	Vladimír	Hlaváček	M			64	důchodce	Lužice	99	80	A
-7102	569844	1	5	810	1	Jaroslav	Minář	M			37	regionální manažer	Lužice	99	80	A
-7102	569844	1	6	802	1	Ivo	Švéda	M			57	údržbář	Lužice	99	80	A
-7102	569844	1	7	812	1	Vladimíra	Králová	F			42	skladnice	Lužice	99	80	A
-7102	569844	1	8	901	1	Jana	Tesařová	F	Bc.		42	účetní	Lužice	99	80	A
-7102	569844	1	8	901	2	Filip	Zlámal	M			39	operátor	Lužice	99	80	A
-7102	569844	1	8	901	3	Ilona	Wagnerová	F			49	OSVČ	Lužice	99	80	A
-7102	569844	1	8	901	4	Jana	Krejčí	F			27	MD	Lužice	99	80	A
-7102	569844	1	8	901	5	Vladimír	Grégr	M			43	OSVČ	Lužice	99	80	A
-7102	569844	1	8	901	6	Luděk	Černý	M			48	dělník	Lužice	99	80	A
-7102	569844	1	8	901	7	Gustav	Chládek	M	Ing.		50	podnikatel	Lužice	99	80	A
-7102	569844	1	8	901	8	Soňa	Novosadová	F	Bc.		49	vedoucí pracovník	Lužice	99	80	A
-7102	569844	1	8	901	9	Ludmila	Hložková	F			59	inspektorka	Lužice	99	80	A
-7102	569844	1	9	809	1	Tereza	Superata	F	Mgr.		32	sociální pracovnice	Lužice	99	80	A
-7102	569844	1	10	804	1	Jaroslav	Žaluda	M	Mgr.		36	akademický pracovník	Lužice	99	80	A
-7102	569844	1	11	808	1	Pavla	Dvořáčková	F	Mgr.		34	učitelka	Lužice	99	80	A
-7102	569844	1	12	803	1	Rostislav	Wagner	M			57	OSVČ	Lužice	99	80	A
-7102	569844	1	13	807	1	Klára	Grohová	F			26	servírka	Lužice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	569844	1	1	801	1	Karel	Orság			38	truhlář	Lužice	99	80	A	M
+7102	569844	1	2	805	1	Radim	Wrana	Ing.		36	vedoucí provozu	Lužice	99	80	A	M
+7102	569844	1	3	811	1	Michal	Dřímalka			29	stavbyvedoucí	Lužice	99	80	A	M
+7102	569844	1	4	806	1	Vladimír	Hlaváček			64	důchodce	Lužice	99	80	A	M
+7102	569844	1	5	810	1	Jaroslav	Minář			37	regionální manažer	Lužice	99	80	A	M
+7102	569844	1	6	802	1	Ivo	Švéda			57	údržbář	Lužice	99	80	A	M
+7102	569844	1	7	812	1	Vladimíra	Králová			42	skladnice	Lužice	99	80	A	F
+7102	569844	1	8	901	1	Jana	Tesařová	Bc.		42	účetní	Lužice	99	80	A	F
+7102	569844	1	9	809	1	Tereza	Superata	Mgr.		32	sociální pracovnice	Lužice	99	80	A	F
+7102	569844	1	10	804	1	Jaroslav	Žaluda	Mgr.		36	akademický pracovník	Lužice	99	80	A	M
+7102	569844	1	11	808	1	Pavla	Dvořáčková	Mgr.		34	učitelka	Lužice	99	80	A	F
+7102	569844	1	12	803	1	Rostislav	Wagner			57	OSVČ	Lužice	99	80	A	M
+7102	569844	1	13	807	1	Klára	Grohová			26	servírka	Lužice	99	80	A	F
+7102	569844	1	8	901	2	Filip	Zlámal			39	operátor	Lužice	99	80	A	M
+7102	569844	1	8	901	3	Ilona	Wagnerová			49	OSVČ	Lužice	99	80	A	F
+7102	569844	1	8	901	4	Jana	Krejčí			27	MD	Lužice	99	80	A	F
+7102	569844	1	8	901	5	Vladimír	Grégr			43	OSVČ	Lužice	99	80	A	M
+7102	569844	1	8	901	6	Luděk	Černý			48	dělník	Lužice	99	80	A	M
+7102	569844	1	8	901	7	Gustav	Chládek	Ing.		50	podnikatel	Lužice	99	80	A	M
+7102	569844	1	8	901	8	Soňa	Novosadová	Bc.		49	vedoucí pracovník	Lužice	99	80	A	F
+7102	569844	1	8	901	9	Ludmila	Hložková			59	inspektorka	Lužice	99	80	A	F

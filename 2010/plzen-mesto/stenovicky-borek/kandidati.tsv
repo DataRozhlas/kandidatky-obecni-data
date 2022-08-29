@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3203	539741	1	1	901	1	Ladislav	Kesl	M			52	vedoucí kamenolomu	Nebílovský Borek	99	80	0
-3203	539741	1	1	901	2	Jiří	Vojta	M			64	důchodce	Nebílovský Borek	7	80	0
-3203	539741	1	1	901	3	Zdeněk	Albl	M			38	státní zaměstnanec	Štěnovický Borek	99	80	0
-3203	539741	1	1	901	4	Jiří	Polívka	M			47	dělník	Štěnovický Borek	99	80	0
-3203	539741	1	1	901	5	Pavel	Grebeň	M			40	ředitel	Nebílovský Borek	99	80	0
-3203	539741	1	1	901	6	Petr	Hajšman	M			53	ostraha	Štěnovický Borek	99	80	0
-3203	539741	1	1	901	7	Libor	Kryč	M			42	soukromý podnikatel	Nebílovský Borek	99	80	0
-3203	539741	1	1	901	8	Jaroslav	Kajer	M			40	soukromý podnikatel	Nebílovský Borek	99	80	0
-3203	539741	1	1	901	9	Zdeněk	Albl	M			63	důchodce	Štěnovický Borek	99	80	0
-3203	539741	1	2	902	1	Ivan	Krestýn	M			48	jednatel	Nebílovský Borek	99	80	0
-3203	539741	1	2	902	2	Jaroslav	Fremr	M			36	OSVČ	Nebílovský Borek	99	80	0
-3203	539741	1	2	902	3	Lukáš	Jánský	M			23	technik	Nebílovský Borek	99	80	0
-3203	539741	1	2	902	4	Pavel	Pech	M			37	konstruktér	Nebílovský Borek	99	80	0
-3203	539741	1	2	902	5	Michal	Holub	M			43	živnostník	Nebílovský Borek	99	80	0
-3203	539741	1	2	902	6	Soňa	Pechová	F			36	administrativní pracovnice	Nebílovský Borek	99	80	0
-3203	539741	1	2	902	7	Pavla	Fremrová	F			27	mateřská dovolená	Nebílovský Borek	99	80	0
-3203	539741	1	2	902	8	Jindřich	Terč	M			54	farmář	Štěnovický Borek	99	80	0
-3203	539741	1	2	902	9	Jan	Albl	M			49	elektromontér	Nebílovský Borek	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3203	539741	1	1	901	1	Ladislav	Kesl			52	vedoucí kamenolomu	Nebílovský Borek	99	80	0	M
+3203	539741	1	2	902	1	Ivan	Krestýn			48	jednatel	Nebílovský Borek	99	80	0	M
+3203	539741	1	1	901	2	Jiří	Vojta			64	důchodce	Nebílovský Borek	7	80	0	M
+3203	539741	1	2	902	2	Jaroslav	Fremr			36	OSVČ	Nebílovský Borek	99	80	0	M
+3203	539741	1	1	901	3	Zdeněk	Albl			38	státní zaměstnanec	Štěnovický Borek	99	80	0	M
+3203	539741	1	2	902	3	Lukáš	Jánský			23	technik	Nebílovský Borek	99	80	0	M
+3203	539741	1	1	901	4	Jiří	Polívka			47	dělník	Štěnovický Borek	99	80	0	M
+3203	539741	1	2	902	4	Pavel	Pech			37	konstruktér	Nebílovský Borek	99	80	0	M
+3203	539741	1	1	901	5	Pavel	Grebeň			40	ředitel	Nebílovský Borek	99	80	0	M
+3203	539741	1	2	902	5	Michal	Holub			43	živnostník	Nebílovský Borek	99	80	0	M
+3203	539741	1	1	901	6	Petr	Hajšman			53	ostraha	Štěnovický Borek	99	80	0	M
+3203	539741	1	2	902	6	Soňa	Pechová			36	administrativní pracovnice	Nebílovský Borek	99	80	0	F
+3203	539741	1	1	901	7	Libor	Kryč			42	soukromý podnikatel	Nebílovský Borek	99	80	0	M
+3203	539741	1	2	902	7	Pavla	Fremrová			27	mateřská dovolená	Nebílovský Borek	99	80	0	F
+3203	539741	1	1	901	8	Jaroslav	Kajer			40	soukromý podnikatel	Nebílovský Borek	99	80	0	M
+3203	539741	1	2	902	8	Jindřich	Terč			54	farmář	Štěnovický Borek	99	80	0	M
+3203	539741	1	1	901	9	Zdeněk	Albl			63	důchodce	Štěnovický Borek	99	80	0	M
+3203	539741	1	2	902	9	Jan	Albl			49	elektromontér	Nebílovský Borek	99	80	0	M

@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	597325	1	1	901	1	Tomáš	Kotas	M	Ing.		29	technik strojírenské výroby	Heřmanovice	99	80	A
-8101	597325	1	1	901	2	Josef	Kubinec	M			70	důchodce	Heřmanovice	99	80	A
-8101	597325	1	1	901	3	Lidye	Kováčová	F			55	účetní	Heřmanovice	99	80	A
-8101	597325	1	1	901	4	František	Šikula	M			43	podnikatel	Heřmanovice	99	80	A
-8101	597325	1	1	901	5	Libor	Navrátil	M			36	operátor	Heřmanovice	99	80	A
-8101	597325	1	1	901	6	Jana	Kuncová	F			43	podnikatelka	Heřmanovice	99	80	A
-8101	597325	1	1	901	7	Jan	Kocur	M			42	zedník	Heřmanovice	99	80	A
-8101	597325	1	2	166	1	Jan	Tomalský	M			67	starosta	Heřmanovice	99	166	A
-8101	597325	1	2	166	2	Mária	Skopalíková	F	Ing.		64	účetní	Heřmanovice	99	166	A
-8101	597325	1	2	166	3	Hynek	Sekanina	M	RNDr.	Ph.D.	67	vysokoškolský učitel	Heřmanovice	99	166	A
-8101	597325	1	2	166	4	Jaroslav	Dohnal	M			48	dispečer dopravy	Heřmanovice	99	166	A
-8101	597325	1	2	166	5	Robert	Sütto	M			64	vedoucí čety finišerů	Heřmanovice	99	166	A
-8101	597325	1	2	166	6	Roman	Petřík	M			48	vedoucí střediska	Heřmanovice	99	166	A
-8101	597325	1	2	166	7	Šárka	Labajová	F			47	veterinární technik	Heřmanovice	99	166	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	597325	1	1	901	1	Tomáš	Kotas	Ing.		29	technik strojírenské výroby	Heřmanovice	99	80	A	M
+8101	597325	1	2	166	1	Jan	Tomalský			67	starosta	Heřmanovice	99	166	A	M
+8101	597325	1	1	901	2	Josef	Kubinec			70	důchodce	Heřmanovice	99	80	A	M
+8101	597325	1	2	166	2	Mária	Skopalíková	Ing.		64	účetní	Heřmanovice	99	166	A	F
+8101	597325	1	1	901	3	Lidye	Kováčová			55	účetní	Heřmanovice	99	80	A	F
+8101	597325	1	2	166	3	Hynek	Sekanina	RNDr.	Ph.D.	67	vysokoškolský učitel	Heřmanovice	99	166	A	M
+8101	597325	1	1	901	4	František	Šikula			43	podnikatel	Heřmanovice	99	80	A	M
+8101	597325	1	2	166	4	Jaroslav	Dohnal			48	dispečer dopravy	Heřmanovice	99	166	A	M
+8101	597325	1	1	901	5	Libor	Navrátil			36	operátor	Heřmanovice	99	80	A	M
+8101	597325	1	2	166	5	Robert	Sütto			64	vedoucí čety finišerů	Heřmanovice	99	166	A	M
+8101	597325	1	1	901	6	Jana	Kuncová			43	podnikatelka	Heřmanovice	99	80	A	F
+8101	597325	1	2	166	6	Roman	Petřík			48	vedoucí střediska	Heřmanovice	99	166	A	M
+8101	597325	1	1	901	7	Jan	Kocur			42	zedník	Heřmanovice	99	80	A	M
+8101	597325	1	2	166	7	Šárka	Labajová			47	veterinární technik	Heřmanovice	99	166	A	F

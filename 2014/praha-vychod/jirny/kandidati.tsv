@@ -1,38 +1,38 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2109	538272	1	1	901	1	Stanislav	Skořepa	M			56	technik	Jirny	99	80	0
-2109	538272	1	1	901	2	Jindřich	Rytíř	M			46	svobodné povolání	Nové Jirny	99	80	0
-2109	538272	1	1	901	3	Šárka	Hanušová	F			44	OSVČ	Jirny	99	80	0
-2109	538272	1	1	901	4	Jan	Hrůza	M	Ing.		68	technik	Jirny	99	80	0
-2109	538272	1	1	901	5	Milan	Červinka	M	Ing.		60	vedoucí oddělení	Nové Jirny	99	80	0
-2109	538272	1	1	901	6	Hana	Kudrnová	F	Mgr.		51	ředitelka ZŠ	Jirny	99	80	0
-2109	538272	1	1	901	7	Václav	Kopecký	M			41	manažer obchodu	Nové Jirny	99	80	0
-2109	538272	1	1	901	8	Milan	Vilímek	M			40	vedoucí provozovny	Jirny	99	80	0
-2109	538272	1	1	901	9	Martin	Růžička	M			37	zámečník	Jirny	99	80	0
-2109	538272	1	1	901	10	Milan	Novotný	M			39	podnikatel	Nové Jirny	99	80	0
-2109	538272	1	1	901	11	Lucie	Proroková	F	Ing.	MBA	28	referentka ÚSC	Nové Jirny	99	80	0
-2109	538272	1	1	901	12	Květa	Hrdličková	F	MUDr.		66	lékařka	Jirny	99	80	0
-2109	538272	1	1	901	13	Jan	Cibulka	M			45	provozní technik	Nové Jirny	99	80	0
-2109	538272	1	2	721	1	Jan	Lehečka	M	Ing.		42	podnikatel, zastupitel, předseda stavební komise	Jirny	721	721	0
-2109	538272	1	2	721	2	Petr	Hnízdil	M	Ing.		51	OSVČ, zastupitel	Jirny	99	721	0
-2109	538272	1	2	721	3	Jaromír	Bednařík	M			56	stavbyvedoucí	Nové Jirny	99	721	0
-2109	538272	1	2	721	4	Martin	Rucký	M			49	IT konzultant	Jirny	721	721	0
-2109	538272	1	2	721	5	Pavel	Vohnout	M	Mgr.		43	projektový manažer	Nové Jirny	99	721	0
-2109	538272	1	2	721	6	Bohdan	Nejedlý	M	Ing.et Mgr.		40	IT manažer	Jirny	99	721	0
-2109	538272	1	2	721	7	Petr	Benáčan	M	Ing.		37	projektový manažer	Jirny	99	721	0
-2109	538272	1	2	721	8	Eva	Borková	F	PhDr.		59	manažerka	Nové Jirny	99	721	0
-2109	538272	1	2	721	9	Alena	Hoznauerová	F	MUDr.		46	lékařka	Jirny	99	721	0
-2109	538272	1	2	721	10	Markéta	Škaloudová	F			39	OSVČ	Jirny	99	721	0
-2109	538272	1	2	721	11	Šárka	Rucká	F	Mgr.		48	tlumočnice, překladatelka	Jirny	99	721	0
-2109	538272	1	2	721	12	Jiří	Vaněk	M	Ing.		49	podnikatel	Jirny	99	721	0
-2109	538272	1	2	721	13	Andrea	Lehečková	F			39	OSVČ, kosmetička	Jirny	99	721	0
-2109	538272	1	3	53	1	Daniela	Pištěková	F			47	OSVČ	Jirny	53	53	0
-2109	538272	1	3	53	2	Milan	Vodička	M			50	podnikatel	Nové Jirny	53	53	0
-2109	538272	1	3	53	3	Helena	Sůrová	F			71	důchodkyně	Jirny	53	53	0
-2109	538272	1	3	53	4	Michaela	Vodičková	F	Mgr.		27	úřednice OÚ	Nové Jirny	53	53	0
-2109	538272	1	3	53	5	Blanka	Smolíková	F			60	důchodkyně	Jirny	53	53	0
-2109	538272	1	3	53	6	Kamil	Ševěček	M			38	podnikatel	Jirny	53	53	0
-2109	538272	1	3	53	7	Martin	Pouch	M			46	podnikatel	Jirny	53	53	0
-2109	538272	1	3	53	8	Petr	Alexander	M			47	podnikatel	Nové Jirny	99	53	0
-2109	538272	1	3	53	9	Jiří	Šmejkal	M			45	automechanik	Jirny	99	53	0
-2109	538272	1	3	53	10	Jan	Špeta	M	Ing.		37	podnikatel	Jirny	99	53	0
-2109	538272	1	3	53	11	Jiří	Čížek	M			65	důchodce	Jirny	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2109	538272	1	1	901	1	Stanislav	Skořepa			56	technik	Jirny	99	80	0	M
+2109	538272	1	2	721	1	Jan	Lehečka	Ing.		42	podnikatel, zastupitel, předseda stavební komise	Jirny	721	721	0	M
+2109	538272	1	3	53	1	Daniela	Pištěková			47	OSVČ	Jirny	53	53	0	F
+2109	538272	1	1	901	2	Jindřich	Rytíř			46	svobodné povolání	Nové Jirny	99	80	0	M
+2109	538272	1	2	721	2	Petr	Hnízdil	Ing.		51	OSVČ, zastupitel	Jirny	99	721	0	M
+2109	538272	1	3	53	2	Milan	Vodička			50	podnikatel	Nové Jirny	53	53	0	M
+2109	538272	1	1	901	3	Šárka	Hanušová			44	OSVČ	Jirny	99	80	0	F
+2109	538272	1	2	721	3	Jaromír	Bednařík			56	stavbyvedoucí	Nové Jirny	99	721	0	M
+2109	538272	1	3	53	3	Helena	Sůrová			71	důchodkyně	Jirny	53	53	0	F
+2109	538272	1	1	901	4	Jan	Hrůza	Ing.		68	technik	Jirny	99	80	0	M
+2109	538272	1	2	721	4	Martin	Rucký			49	IT konzultant	Jirny	721	721	0	M
+2109	538272	1	3	53	4	Michaela	Vodičková	Mgr.		27	úřednice OÚ	Nové Jirny	53	53	0	F
+2109	538272	1	1	901	5	Milan	Červinka	Ing.		60	vedoucí oddělení	Nové Jirny	99	80	0	M
+2109	538272	1	2	721	5	Pavel	Vohnout	Mgr.		43	projektový manažer	Nové Jirny	99	721	0	M
+2109	538272	1	3	53	5	Blanka	Smolíková			60	důchodkyně	Jirny	53	53	0	F
+2109	538272	1	1	901	6	Hana	Kudrnová	Mgr.		51	ředitelka ZŠ	Jirny	99	80	0	F
+2109	538272	1	2	721	6	Bohdan	Nejedlý	Ing.et Mgr.		40	IT manažer	Jirny	99	721	0	M
+2109	538272	1	3	53	6	Kamil	Ševěček			38	podnikatel	Jirny	53	53	0	M
+2109	538272	1	1	901	7	Václav	Kopecký			41	manažer obchodu	Nové Jirny	99	80	0	M
+2109	538272	1	2	721	7	Petr	Benáčan	Ing.		37	projektový manažer	Jirny	99	721	0	M
+2109	538272	1	3	53	7	Martin	Pouch			46	podnikatel	Jirny	53	53	0	M
+2109	538272	1	1	901	8	Milan	Vilímek			40	vedoucí provozovny	Jirny	99	80	0	M
+2109	538272	1	2	721	8	Eva	Borková	PhDr.		59	manažerka	Nové Jirny	99	721	0	F
+2109	538272	1	3	53	8	Petr	Alexander			47	podnikatel	Nové Jirny	99	53	0	M
+2109	538272	1	1	901	9	Martin	Růžička			37	zámečník	Jirny	99	80	0	M
+2109	538272	1	2	721	9	Alena	Hoznauerová	MUDr.		46	lékařka	Jirny	99	721	0	F
+2109	538272	1	3	53	9	Jiří	Šmejkal			45	automechanik	Jirny	99	53	0	M
+2109	538272	1	1	901	10	Milan	Novotný			39	podnikatel	Nové Jirny	99	80	0	M
+2109	538272	1	2	721	10	Markéta	Škaloudová			39	OSVČ	Jirny	99	721	0	F
+2109	538272	1	3	53	10	Jan	Špeta	Ing.		37	podnikatel	Jirny	99	53	0	M
+2109	538272	1	1	901	11	Lucie	Proroková	Ing.	MBA	28	referentka ÚSC	Nové Jirny	99	80	0	F
+2109	538272	1	2	721	11	Šárka	Rucká	Mgr.		48	tlumočnice, překladatelka	Jirny	99	721	0	F
+2109	538272	1	3	53	11	Jiří	Čížek			65	důchodce	Jirny	99	53	0	M
+2109	538272	1	1	901	12	Květa	Hrdličková	MUDr.		66	lékařka	Jirny	99	80	0	F
+2109	538272	1	2	721	12	Jiří	Vaněk	Ing.		49	podnikatel	Jirny	99	721	0	M
+2109	538272	1	1	901	13	Jan	Cibulka			45	provozní technik	Nové Jirny	99	80	0	M
+2109	538272	1	2	721	13	Andrea	Lehečková			39	OSVČ, kosmetička	Jirny	99	721	0	F

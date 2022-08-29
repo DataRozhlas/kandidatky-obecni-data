@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2107	535567	1	1	901	1	Petr	Vávra	M			35	vychovatel	Březina	99	80	0
-2107	535567	1	1	901	2	Radoslav	Drázský	M			52	technik	Březina	99	80	0
-2107	535567	1	1	901	3	Eva	Prokopová	F	Mgr.		45	učitelka	Březina	99	80	0
-2107	535567	1	1	901	4	Lucie	Svárovská	F			37	účetní	Honsob	99	80	0
-2107	535567	1	1	901	5	Lidmila	Vyhlasová	F			51	učitelka	Březina	99	80	0
-2107	535567	1	1	901	6	Miroslav	Šťastný	M			71	důchodce	Březina	99	80	0
-2107	535567	1	2	902	1	Josef	Hoření	M			34	vývojový technik	Březina	99	80	0
-2107	535567	1	2	902	2	Petr	Pískač	M			34	vedoucí výroby	Březina	99	80	0
-2107	535567	1	2	902	3	Martin	Pálka	M			34	živnostník	Březina	99	80	0
-2107	535567	1	2	902	4	Tomáš	Šantroch	M			25	učitel	Březina	99	80	0
-2107	535567	1	2	902	5	Zdeněk	Pařík	M			32	mechanik	Březina	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2107	535567	1	1	901	1	Petr	Vávra			35	vychovatel	Březina	99	80	0	M
+2107	535567	1	2	902	1	Josef	Hoření			34	vývojový technik	Březina	99	80	0	M
+2107	535567	1	1	901	2	Radoslav	Drázský			52	technik	Březina	99	80	0	M
+2107	535567	1	2	902	2	Petr	Pískač			34	vedoucí výroby	Březina	99	80	0	M
+2107	535567	1	1	901	3	Eva	Prokopová	Mgr.		45	učitelka	Březina	99	80	0	F
+2107	535567	1	2	902	3	Martin	Pálka			34	živnostník	Březina	99	80	0	M
+2107	535567	1	1	901	4	Lucie	Svárovská			37	účetní	Honsob	99	80	0	F
+2107	535567	1	2	902	4	Tomáš	Šantroch			25	učitel	Březina	99	80	0	M
+2107	535567	1	1	901	5	Lidmila	Vyhlasová			51	učitelka	Březina	99	80	0	F
+2107	535567	1	2	902	5	Zdeněk	Pařík			32	mechanik	Březina	99	80	0	M
+2107	535567	1	1	901	6	Miroslav	Šťastný			71	důchodce	Březina	99	80	0	M

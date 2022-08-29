@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4205	567345	1	1	802	1	Vladimír	Kohout	M	Ing.		43	vedoucí úseku MU a.s.	Patokryje	99	80	0
-4205	567345	1	2	902	1	Petr	Zelenka	M	Ing.		43	manažer	Patokryje	99	80	0
-4205	567345	1	2	902	2	Zdeněk	Gremlica	M			37	manažer	Patokryje	99	80	0
-4205	567345	1	2	902	3	Josef	Kopřiva	M			47	podnikatel	Patokryje	99	80	0
-4205	567345	1	2	902	4	Stanislav	Salač	M	Ing.		37	manažer	Patokryje	99	80	0
-4205	567345	1	2	902	5	Josef	Pöschl	M			48	zámečník	Patokryje	99	80	0
-4205	567345	1	2	902	6	Bedřich	Fischer	M			49	zámečník	Patokryje	99	80	0
-4205	567345	1	3	901	1	Josef	Koblik	M			49	elektromontér	Patokryje	99	80	0
-4205	567345	1	3	901	2	Helena	Hrzánová	F			39	poštovní doručovatelka	Patokryje	99	80	0
-4205	567345	1	3	901	3	Jaroslav	Škrdlant	M			60	řidič	Patokryje	99	80	0
-4205	567345	1	3	901	4	Zdenka	Stehnová	F			59	důchodkyně	Patokryje	99	80	0
-4205	567345	1	3	901	5	František	Chlupsa	M			48	strojní zámečník	Patokryje	99	80	0
-4205	567345	1	3	901	6	Eva	Matušíková	F			48	poradkyně	Patokryje	99	80	0
-4205	567345	1	3	901	7	Helena	Lisá	F			53	podnikatelka	Patokryje	99	80	0
-4205	567345	1	3	901	8	Karel	Řehák	M			46	informatik	Patokryje	99	80	0
-4205	567345	1	3	901	9	Dagmar	Apeltaureová	F			50	uklizečka	Patokryje	99	80	0
-4205	567345	1	4	801	1	Vladislav	Cífka	M			50	soukromý zemědělec	Patokryje	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4205	567345	1	1	802	1	Vladimír	Kohout	Ing.		43	vedoucí úseku MU a.s.	Patokryje	99	80	0	M
+4205	567345	1	2	902	1	Petr	Zelenka	Ing.		43	manažer	Patokryje	99	80	0	M
+4205	567345	1	3	901	1	Josef	Koblik			49	elektromontér	Patokryje	99	80	0	M
+4205	567345	1	4	801	1	Vladislav	Cífka			50	soukromý zemědělec	Patokryje	99	80	0	M
+4205	567345	1	2	902	2	Zdeněk	Gremlica			37	manažer	Patokryje	99	80	0	M
+4205	567345	1	3	901	2	Helena	Hrzánová			39	poštovní doručovatelka	Patokryje	99	80	0	F
+4205	567345	1	2	902	3	Josef	Kopřiva			47	podnikatel	Patokryje	99	80	0	M
+4205	567345	1	3	901	3	Jaroslav	Škrdlant			60	řidič	Patokryje	99	80	0	M
+4205	567345	1	2	902	4	Stanislav	Salač	Ing.		37	manažer	Patokryje	99	80	0	M
+4205	567345	1	3	901	4	Zdenka	Stehnová			59	důchodkyně	Patokryje	99	80	0	F
+4205	567345	1	2	902	5	Josef	Pöschl			48	zámečník	Patokryje	99	80	0	M
+4205	567345	1	3	901	5	František	Chlupsa			48	strojní zámečník	Patokryje	99	80	0	M
+4205	567345	1	2	902	6	Bedřich	Fischer			49	zámečník	Patokryje	99	80	0	M
+4205	567345	1	3	901	6	Eva	Matušíková			48	poradkyně	Patokryje	99	80	0	F
+4205	567345	1	3	901	7	Helena	Lisá			53	podnikatelka	Patokryje	99	80	0	F
+4205	567345	1	3	901	8	Karel	Řehák			46	informatik	Patokryje	99	80	0	M
+4205	567345	1	3	901	9	Dagmar	Apeltaureová			50	uklizečka	Patokryje	99	80	0	F

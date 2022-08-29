@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	544892	1	1	901	1	Milan	Kotýnek st.	M	Ing.		57	soukromý podnikatel	Olešník	99	80	A
-3101	544892	1	1	901	2	František	Mádl	M			51	servisní technik	Olešník	99	80	A
-3101	544892	1	1	901	3	Vladimír	Zibura	M	Mgr.		41	ředitel ZŠ a MŠ	Olešník	99	80	A
-3101	544892	1	1	901	4	Milan	Kotýnek ml.	M	Ing.		36	projektový manažer	Olešník	99	80	A
-3101	544892	1	1	901	5	Jiří	Liška	M			41	živnostník	Olešník	99	80	A
-3101	544892	1	1	901	6	Dana	Kuboušková	F			61	důchodkyně	Olešník	99	80	A
-3101	544892	1	1	901	7	Pavel	Joza	M			49	živnostník	Chlumec	99	80	A
-3101	544892	1	1	901	8	Květa	Krejčová	F			64	důchodkyně	Olešník	99	80	A
-3101	544892	1	1	901	9	Jindřich	Vavroch	M			42	vedoucí skladu	Olešník	99	80	A
-3101	544892	1	2	53	1	Radek	Holub	M			45	OSVČ	Chlumec	99	53	A
-3101	544892	1	2	53	2	Kateřina	Faktorová	F	Mgr.		36	učitelka	Nová Ves	99	53	A
-3101	544892	1	2	53	3	Václav	Pekárek	M	Ing.		44	OSVČ	Chlumec	99	53	A
-3101	544892	1	2	53	4	František	Bartuška	M			65	OSVČ	Olešník	53	53	A
-3101	544892	1	2	53	5	Petr	Bartuška	M			64	skladník	Olešník	99	53	A
-3101	544892	1	2	53	6	Zdeňka	Hucková	F	Mgr.		54	učitelka	Olešník	99	53	A
-3101	544892	1	2	53	7	Michal	Strnad	M			54	OSVČ	Olešník	99	53	A
-3101	544892	1	2	53	8	Jaroslav	Chytráček	M			41	vedoucí skladu	Chlumec	99	53	A
-3101	544892	1	2	53	9	Pavel	Hezoučký	M			22	OSVČ	Olešník	99	53	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	544892	1	1	901	1	Milan	Kotýnek st.	Ing.		57	soukromý podnikatel	Olešník	99	80	A	M
+3101	544892	1	2	53	1	Radek	Holub			45	OSVČ	Chlumec	99	53	A	M
+3101	544892	1	1	901	2	František	Mádl			51	servisní technik	Olešník	99	80	A	M
+3101	544892	1	2	53	2	Kateřina	Faktorová	Mgr.		36	učitelka	Nová Ves	99	53	A	F
+3101	544892	1	1	901	3	Vladimír	Zibura	Mgr.		41	ředitel ZŠ a MŠ	Olešník	99	80	A	M
+3101	544892	1	2	53	3	Václav	Pekárek	Ing.		44	OSVČ	Chlumec	99	53	A	M
+3101	544892	1	1	901	4	Milan	Kotýnek ml.	Ing.		36	projektový manažer	Olešník	99	80	A	M
+3101	544892	1	2	53	4	František	Bartuška			65	OSVČ	Olešník	53	53	A	M
+3101	544892	1	1	901	5	Jiří	Liška			41	živnostník	Olešník	99	80	A	M
+3101	544892	1	2	53	5	Petr	Bartuška			64	skladník	Olešník	99	53	A	M
+3101	544892	1	1	901	6	Dana	Kuboušková			61	důchodkyně	Olešník	99	80	A	F
+3101	544892	1	2	53	6	Zdeňka	Hucková	Mgr.		54	učitelka	Olešník	99	53	A	F
+3101	544892	1	1	901	7	Pavel	Joza			49	živnostník	Chlumec	99	80	A	M
+3101	544892	1	2	53	7	Michal	Strnad			54	OSVČ	Olešník	99	53	A	M
+3101	544892	1	1	901	8	Květa	Krejčová			64	důchodkyně	Olešník	99	80	A	F
+3101	544892	1	2	53	8	Jaroslav	Chytráček			41	vedoucí skladu	Chlumec	99	53	A	M
+3101	544892	1	1	901	9	Jindřich	Vavroch			42	vedoucí skladu	Olešník	99	80	A	M
+3101	544892	1	2	53	9	Pavel	Hezoučký			22	OSVČ	Olešník	99	53	A	M

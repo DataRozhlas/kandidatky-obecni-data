@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	569101	1	1	902	1	Jaroslav	Vlk	M			47	starosta	Třebom	99	80	A
-8105	569101	1	1	902	2	Lenka	Černá	F			31	dělnice	Třebom	99	80	A
-8105	569101	1	1	902	3	Vlasta	Kousalová	F			70	důchodkyně	Třebom	99	80	A
-8105	569101	1	1	902	4	Ivana	Kobzová	F	Mgr.		54	ředitelka ZŠ a MŠ	Třebom	99	80	A
-8105	569101	1	1	902	5	Gerhard	Teichmann	M			54	mistr	Třebom	99	80	A
-8105	569101	1	1	902	6	Petr	Hartmann	M			35	montér	Třebom	99	80	A
-8105	569101	1	1	902	7	Marek	Varmus	M			31	řidič	Třebom	99	80	A
-8105	569101	1	2	901	1	Petr	Stanke	M			46	mistr	Třebom	99	80	A
-8105	569101	1	2	901	2	Pavla	Stanková	F			41	administrativní pracovník	Třebom	99	80	A
-8105	569101	1	2	901	3	Bohdana	Egertová	F			47	invalidní důchodce	Třebom	99	80	A
-8105	569101	1	2	901	4	Radmila	Kotzianová	F			53	referent	Třebom	99	80	A
-8105	569101	1	2	901	5	Jitka	Šochová	F			53	dělnice	Třebom	99	80	A
-8105	569101	1	2	901	6	Naděžda	Šromová	F			42	nezaměstnaná	Třebom	99	80	A
-8105	569101	1	2	901	7	Antonín	Egert	M			57	zedník	Třebom	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	569101	1	1	902	1	Jaroslav	Vlk			47	starosta	Třebom	99	80	A	M
+8105	569101	1	2	901	1	Petr	Stanke			46	mistr	Třebom	99	80	A	M
+8105	569101	1	1	902	2	Lenka	Černá			31	dělnice	Třebom	99	80	A	F
+8105	569101	1	2	901	2	Pavla	Stanková			41	administrativní pracovník	Třebom	99	80	A	F
+8105	569101	1	1	902	3	Vlasta	Kousalová			70	důchodkyně	Třebom	99	80	A	F
+8105	569101	1	2	901	3	Bohdana	Egertová			47	invalidní důchodce	Třebom	99	80	A	F
+8105	569101	1	1	902	4	Ivana	Kobzová	Mgr.		54	ředitelka ZŠ a MŠ	Třebom	99	80	A	F
+8105	569101	1	2	901	4	Radmila	Kotzianová			53	referent	Třebom	99	80	A	F
+8105	569101	1	1	902	5	Gerhard	Teichmann			54	mistr	Třebom	99	80	A	M
+8105	569101	1	2	901	5	Jitka	Šochová			53	dělnice	Třebom	99	80	A	F
+8105	569101	1	1	902	6	Petr	Hartmann			35	montér	Třebom	99	80	A	M
+8105	569101	1	2	901	6	Naděžda	Šromová			42	nezaměstnaná	Třebom	99	80	A	F
+8105	569101	1	1	902	7	Marek	Varmus			31	řidič	Třebom	99	80	A	M
+8105	569101	1	2	901	7	Antonín	Egert			57	zedník	Třebom	99	80	A	M

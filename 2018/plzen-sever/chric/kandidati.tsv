@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3205	558974	1	1	902	1	Jan	Štulík	M			70	důchodce	Lhota	99	80	A
-3205	558974	1	1	902	2	Radek	Brázda	M			48	montér SDK	Chříč	99	80	A
-3205	558974	1	1	902	3	Dagmar	Blechová	F			43	kuchařka	Chříč	99	80	A
-3205	558974	1	1	902	4	Petr	Krob	M			55	řidič VZV	Chříč	99	80	A
-3205	558974	1	1	902	5	Petr	Oliverius	M			29	bussines manager	Chříč	99	80	A
-3205	558974	1	1	902	6	Radek	Křehota	M			36	řidič	Chříč	99	80	A
-3205	558974	1	1	902	7	Michaela	Brázdová	F			27	operátor výroby	Chříč	99	80	A
-3205	558974	1	1	902	8	Blanka	Bílková	F			71	důchodce	Chříč	99	80	A
-3205	558974	1	2	901	1	Petr	Jakubíček	M	Bc.		39	pivovarník	Chříč	99	80	A
-3205	558974	1	2	901	2	Anna	Havlíčková	F	Mgr.		38	sociální pracovnice pro seniory	Chříč	99	80	A
-3205	558974	1	2	901	3	Viktor	Kovařík	M	Mgr.		42	historik	Chříč	99	80	A
-3205	558974	1	2	901	4	Jiřina	Průšová	F			58	soukromý zemědělec	Chříč	99	80	A
-3205	558974	1	2	901	5	Lenka	Černá	F	Mgr.		55	zástupce ředitele základní školy	Chříč	99	80	A
-3205	558974	1	2	901	6	Jan	Tesárek	M			46	kameník	Chříč	99	80	A
-3205	558974	1	2	901	7	Jana	Jakubíčková	F	MgA.		33	ředitelka ZŠ Pivoňka	Chříč	99	80	A
-3205	558974	1	3	903	1	Martin	Hartman	M			47	servisní technik	Chříč	99	80	A
-3205	558974	1	3	903	2	Žaneta	Blechová	F			21	student	Chříč	99	80	A
-3205	558974	1	3	903	3	František	Blecha	M			44	řidič	Chříč	99	80	A
-3205	558974	1	3	903	4	Ilona	Hartmanová	F			39	pracovník v soc. službách	Chříč	99	80	A
-3205	558974	1	3	903	5	Zdeňka	Brázdová	F			47	vedoucí kvality	Chříč	99	80	A
-3205	558974	1	3	903	6	Tomáš	Jelínek	M			40	kuchař	Chříč	99	80	A
-3205	558974	1	3	903	7	Lucie	Oliveriusová	F			29	operátor výroby	Chříč	99	80	A
-3205	558974	1	3	903	8	Pavel	Uher	M			62	invalidní důchodce	Chříč	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3205	558974	1	1	902	1	Jan	Štulík			70	důchodce	Lhota	99	80	A	M
+3205	558974	1	2	901	1	Petr	Jakubíček	Bc.		39	pivovarník	Chříč	99	80	A	M
+3205	558974	1	3	903	1	Martin	Hartman			47	servisní technik	Chříč	99	80	A	M
+3205	558974	1	1	902	2	Radek	Brázda			48	montér SDK	Chříč	99	80	A	M
+3205	558974	1	2	901	2	Anna	Havlíčková	Mgr.		38	sociální pracovnice pro seniory	Chříč	99	80	A	F
+3205	558974	1	3	903	2	Žaneta	Blechová			21	student	Chříč	99	80	A	F
+3205	558974	1	1	902	3	Dagmar	Blechová			43	kuchařka	Chříč	99	80	A	F
+3205	558974	1	2	901	3	Viktor	Kovařík	Mgr.		42	historik	Chříč	99	80	A	M
+3205	558974	1	3	903	3	František	Blecha			44	řidič	Chříč	99	80	A	M
+3205	558974	1	1	902	4	Petr	Krob			55	řidič VZV	Chříč	99	80	A	M
+3205	558974	1	2	901	4	Jiřina	Průšová			58	soukromý zemědělec	Chříč	99	80	A	F
+3205	558974	1	3	903	4	Ilona	Hartmanová			39	pracovník v soc. službách	Chříč	99	80	A	F
+3205	558974	1	1	902	5	Petr	Oliverius			29	bussines manager	Chříč	99	80	A	M
+3205	558974	1	2	901	5	Lenka	Černá	Mgr.		55	zástupce ředitele základní školy	Chříč	99	80	A	F
+3205	558974	1	3	903	5	Zdeňka	Brázdová			47	vedoucí kvality	Chříč	99	80	A	F
+3205	558974	1	1	902	6	Radek	Křehota			36	řidič	Chříč	99	80	A	M
+3205	558974	1	2	901	6	Jan	Tesárek			46	kameník	Chříč	99	80	A	M
+3205	558974	1	3	903	6	Tomáš	Jelínek			40	kuchař	Chříč	99	80	A	M
+3205	558974	1	1	902	7	Michaela	Brázdová			27	operátor výroby	Chříč	99	80	A	F
+3205	558974	1	2	901	7	Jana	Jakubíčková	MgA.		33	ředitelka ZŠ Pivoňka	Chříč	99	80	A	F
+3205	558974	1	3	903	7	Lucie	Oliveriusová			29	operátor výroby	Chříč	99	80	A	F
+3205	558974	1	1	902	8	Blanka	Bílková			71	důchodce	Chříč	99	80	A	F
+3205	558974	1	3	903	8	Pavel	Uher			62	invalidní důchodce	Chříč	99	80	A	M

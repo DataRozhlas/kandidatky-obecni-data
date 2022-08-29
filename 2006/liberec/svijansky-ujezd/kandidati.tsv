@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5103	564435	1	1	903	1	Ivana	Kašťáková	F			42	živnostník	Svijanský Újezd	99	80	0
-5103	564435	1	1	903	2	Jana	Prokorátová	F			44	zaměstnanec	Močítka	99	80	0
-5103	564435	1	2	902	1	Blahoslav	Kratochvíl	M			52	starosta	Svijanský Újezd	99	80	0
-5103	564435	1	2	902	2	Jindřich	Picek	M			46	mechanizátor	Močítka	99	80	0
-5103	564435	1	2	902	3	Roman	Kapras	M			31	montážní pracovník	Svijanský Újezd	99	80	0
-5103	564435	1	2	902	4	Miloslav	Havle	M			40	řidič	Svijanský Újezd	99	80	0
-5103	564435	1	2	902	5	Stanislav	Novotný	M			37	prodejce	Svijanský Újezd	99	80	0
-5103	564435	1	2	902	6	Jiří	Mohelský	M			33	mistr lisovny	Svijanský Újezd	99	80	0
-5103	564435	1	2	902	7	Dagmar	Najmonová	F			31	brusička	Svijanský Újezd	99	80	0
-5103	564435	1	3	904	1	Lubomír	Odcházel	M			50	podnikatel	Svijanský Újezd	99	80	0
-5103	564435	1	3	904	2	Roman	Novotný	M			30	zaměstnanec	Svijanský Újezd	99	80	0
-5103	564435	1	4	901	1	Vladimír	Pelant	M	Ing.		57	ředitel	Svijanský Újezd	99	80	0
-5103	564435	1	4	901	2	Jaroslav	Bursa	M			55	vedoucí PV	Svijanský Újezd	99	80	0
-5103	564435	1	4	901	3	Josef	Čapek	M			37	nezaměstnaný	Svijanský Újezd	99	80	0
-5103	564435	1	4	901	4	Václav	Prskavec	M			46	strojní zámečník	Svijanský Újezd	99	80	0
-5103	564435	1	4	901	5	Michal	Adam	M			40	zedník	Svijanský Újezd	99	80	0
-5103	564435	1	4	901	6	Květuše	Prokorátová	F			52	zdravotní sestra	Svijanský Újezd	99	80	0
-5103	564435	1	4	901	7	Jaroslava	Hauftová	F			56	dělnice	Svijanský Újezd	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5103	564435	1	1	903	1	Ivana	Kašťáková			42	živnostník	Svijanský Újezd	99	80	0	F
+5103	564435	1	2	902	1	Blahoslav	Kratochvíl			52	starosta	Svijanský Újezd	99	80	0	M
+5103	564435	1	3	904	1	Lubomír	Odcházel			50	podnikatel	Svijanský Újezd	99	80	0	M
+5103	564435	1	4	901	1	Vladimír	Pelant	Ing.		57	ředitel	Svijanský Újezd	99	80	0	M
+5103	564435	1	1	903	2	Jana	Prokorátová			44	zaměstnanec	Močítka	99	80	0	F
+5103	564435	1	2	902	2	Jindřich	Picek			46	mechanizátor	Močítka	99	80	0	M
+5103	564435	1	3	904	2	Roman	Novotný			30	zaměstnanec	Svijanský Újezd	99	80	0	M
+5103	564435	1	4	901	2	Jaroslav	Bursa			55	vedoucí PV	Svijanský Újezd	99	80	0	M
+5103	564435	1	2	902	3	Roman	Kapras			31	montážní pracovník	Svijanský Újezd	99	80	0	M
+5103	564435	1	4	901	3	Josef	Čapek			37	nezaměstnaný	Svijanský Újezd	99	80	0	M
+5103	564435	1	2	902	4	Miloslav	Havle			40	řidič	Svijanský Újezd	99	80	0	M
+5103	564435	1	4	901	4	Václav	Prskavec			46	strojní zámečník	Svijanský Újezd	99	80	0	M
+5103	564435	1	2	902	5	Stanislav	Novotný			37	prodejce	Svijanský Újezd	99	80	0	M
+5103	564435	1	4	901	5	Michal	Adam			40	zedník	Svijanský Újezd	99	80	0	M
+5103	564435	1	2	902	6	Jiří	Mohelský			33	mistr lisovny	Svijanský Újezd	99	80	0	M
+5103	564435	1	4	901	6	Květuše	Prokorátová			52	zdravotní sestra	Svijanský Újezd	99	80	0	F
+5103	564435	1	2	902	7	Dagmar	Najmonová			31	brusička	Svijanský Újezd	99	80	0	F
+5103	564435	1	4	901	7	Jaroslava	Hauftová			56	dělnice	Svijanský Újezd	99	80	0	F

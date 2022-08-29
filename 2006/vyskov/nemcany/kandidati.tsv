@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	593371	1	1	53	1	Martin	Krátký	M			31	bankovní úředník	Němčany	53	53	0
-6206	593371	1	1	53	2	Roman	Havránek	M	Ing.		25	ekonom	Němčany	53	53	0
-6206	593371	1	1	53	3	Jan	Hanák	M			36	OSVČ	Němčany	53	53	0
-6206	593371	1	1	53	4	Rudolf	Kučera	M	Bc.		30	plánovač materiálu	Němčany	99	53	0
-6206	593371	1	1	53	5	Radek	Hynšt	M	Ing.		30	konstruktér	Němčany	99	53	0
-6206	593371	1	1	53	6	Zdeňka	Bezrouková	F			39	prodavačka	Němčany	99	53	0
-6206	593371	1	1	53	7	Aleš	Švaříček	M			38	OSVČ	Němčany	53	53	0
-6206	593371	1	1	53	8	Marcela	Kotolanová	F			33	operátorka	Němčany	99	53	0
-6206	593371	1	1	53	9	Vojtěch	Včelař	M			38	OSVČ	Němčany	53	53	0
-6206	593371	1	2	1	1	Marie	Andrlová	F			49	operátorka	Němčany	1	1	0
-6206	593371	1	2	1	2	Blanka	Svobodová	F			49	v domácnosti	Němčany	1	1	0
-6206	593371	1	2	1	3	Pavel	Matyáš	M			51	četař	Němčany	99	1	0
-6206	593371	1	2	1	4	Miloš	Jindřich	M			36	stolař	Němčany	99	1	0
-6206	593371	1	2	1	5	Martina	Kovaříková	F			30	prodavačka	Němčany	99	1	0
-6206	593371	1	2	1	6	Jaroslava	Ledvinová	F			43	švadlena	Němčany	99	1	0
-6206	593371	1	2	1	7	Pavel	Svoboda	M			54	řidič	Němčany	1	1	0
-6206	593371	1	2	1	8	Blažena	Šimoníková	F			65	důchodkyně	Němčany	1	1	0
-6206	593371	1	2	1	9	Marie	Kiliánová	F			57	důchodkyně	Němčany	1	1	0
-6206	593371	1	3	47	1	Josef	Cenek	M			53	pracovník živočiš.výroby	Němčany	47	47	0
-6206	593371	1	3	47	2	Květoslava	Kovaříková	F	MUDr.		53	lékařka	Němčany	47	47	0
-6206	593371	1	3	47	3	Libuše	Polachová	F			53	referentka	Němčany	47	47	0
-6206	593371	1	3	47	4	Marie	Polachová	F			56	pečovatelka	Němčany	47	47	0
-6206	593371	1	3	47	5	Antonín	Pavézka	M			58	důchodce	Němčany	99	47	0
-6206	593371	1	3	47	6	Rudolf	Musil	M			47	montér	Němčany	99	47	0
-6206	593371	1	3	47	7	Ivana	Májková	F			58	v domácnosti	Němčany	47	47	0
-6206	593371	1	3	47	8	Jaroslav	Svoboda	M			72	důchodce	Němčany	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	593371	1	1	53	1	Martin	Krátký			31	bankovní úředník	Němčany	53	53	0	M
+6206	593371	1	2	1	1	Marie	Andrlová			49	operátorka	Němčany	1	1	0	F
+6206	593371	1	3	47	1	Josef	Cenek			53	pracovník živočiš.výroby	Němčany	47	47	0	M
+6206	593371	1	1	53	2	Roman	Havránek	Ing.		25	ekonom	Němčany	53	53	0	M
+6206	593371	1	2	1	2	Blanka	Svobodová			49	v domácnosti	Němčany	1	1	0	F
+6206	593371	1	3	47	2	Květoslava	Kovaříková	MUDr.		53	lékařka	Němčany	47	47	0	F
+6206	593371	1	1	53	3	Jan	Hanák			36	OSVČ	Němčany	53	53	0	M
+6206	593371	1	2	1	3	Pavel	Matyáš			51	četař	Němčany	99	1	0	M
+6206	593371	1	3	47	3	Libuše	Polachová			53	referentka	Němčany	47	47	0	F
+6206	593371	1	1	53	4	Rudolf	Kučera	Bc.		30	plánovač materiálu	Němčany	99	53	0	M
+6206	593371	1	2	1	4	Miloš	Jindřich			36	stolař	Němčany	99	1	0	M
+6206	593371	1	3	47	4	Marie	Polachová			56	pečovatelka	Němčany	47	47	0	F
+6206	593371	1	1	53	5	Radek	Hynšt	Ing.		30	konstruktér	Němčany	99	53	0	M
+6206	593371	1	2	1	5	Martina	Kovaříková			30	prodavačka	Němčany	99	1	0	F
+6206	593371	1	3	47	5	Antonín	Pavézka			58	důchodce	Němčany	99	47	0	M
+6206	593371	1	1	53	6	Zdeňka	Bezrouková			39	prodavačka	Němčany	99	53	0	F
+6206	593371	1	2	1	6	Jaroslava	Ledvinová			43	švadlena	Němčany	99	1	0	F
+6206	593371	1	3	47	6	Rudolf	Musil			47	montér	Němčany	99	47	0	M
+6206	593371	1	1	53	7	Aleš	Švaříček			38	OSVČ	Němčany	53	53	0	M
+6206	593371	1	2	1	7	Pavel	Svoboda			54	řidič	Němčany	1	1	0	M
+6206	593371	1	3	47	7	Ivana	Májková			58	v domácnosti	Němčany	47	47	0	F
+6206	593371	1	1	53	8	Marcela	Kotolanová			33	operátorka	Němčany	99	53	0	F
+6206	593371	1	2	1	8	Blažena	Šimoníková			65	důchodkyně	Němčany	1	1	0	F
+6206	593371	1	3	47	8	Jaroslav	Svoboda			72	důchodce	Němčany	47	47	0	M
+6206	593371	1	1	53	9	Vojtěch	Včelař			38	OSVČ	Němčany	53	53	0	M
+6206	593371	1	2	1	9	Marie	Kiliánová			57	důchodkyně	Němčany	1	1	0	F

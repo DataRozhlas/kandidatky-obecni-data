@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3102	545431	1	1	902	1	Martin	Toman	M			45	starosta obce	Brloh	99	80	A
-3102	545431	1	1	902	2	Václav	Pecha	M			35	hasič	Brloh	99	80	A
-3102	545431	1	1	902	3	Jan	Postl	M	Bc.		35	manažer obchodu	Brloh	99	80	A
-3102	545431	1	1	902	4	Petr	Macháček	M	Ing.		46	softwarový inženýr	Brloh	99	80	A
-3102	545431	1	1	902	5	Dana	Sixlová	F			52	pečovatelka	Brloh	99	80	A
-3102	545431	1	1	902	6	Jan	Prüher	M			66	důchodce	Jaronín	99	80	A
-3102	545431	1	1	902	7	Hana	Anderlová	F			48	dělnice	Sedm Chalup	99	80	A
-3102	545431	1	1	902	8	Jan	Pecha	M	Ing.		61	obchodní zástupce	Jaronín	99	80	A
-3102	545431	1	1	902	9	Zdeňka	Švarcová	F	Mgr.		54	zástupce ředitele ZŠ a MŠ	Brloh	99	80	A
-3102	545431	1	2	1	1	Radek	Šimeček	M			30	hasič	Rojšín	99	1	A
-3102	545431	1	2	1	2	Pavel	Vojtko	M	Ing.		26	projektant	Brloh	99	1	A
-3102	545431	1	2	1	3	Marcel	Vyžral	M			53	technik	Brloh	99	1	A
-3102	545431	1	2	1	4	František	Trapl	M	Mgr.	Ph.D.	39	vysokoškolský profesor	Brloh	99	1	A
-3102	545431	1	2	1	5	Tomáš	Farský	M	Ing.		47	stavitel	Brloh	99	1	A
-3102	545431	1	2	1	6	Jan	Hrubeš	M	Ing.		58	konstruktér	Brloh	99	1	A
-3102	545431	1	2	1	7	Věra	Macháčková	F	Ing.		38	učitelka	Brloh	99	1	A
-3102	545431	1	2	1	8	Václav	Rončák	M	Bc.		44	policista	Brloh	99	1	A
-3102	545431	1	2	1	9	Anna	Zahradníková	F			38	asistentka	Brloh	99	1	A
-3102	545431	1	3	47	1	Jaroslav	Mikuška	M	Ing.		60	zemědělec	Brloh	47	47	A
-3102	545431	1	3	47	2	Štěpánka	Veselá	F			43	zdravotní sestra	Brloh	99	47	A
-3102	545431	1	3	47	3	Karel	Pavlík	M			43	zámečník	Brloh	47	47	A
-3102	545431	1	3	47	4	Václav	Pavlík	M			48	truhlář	Brloh	47	47	A
-3102	545431	1	3	47	5	Jiří	Prener	M			69	důchodce	Brloh	47	47	A
-3102	545431	1	3	47	6	Václav	Veselý	M			80	důchodce	Brloh	99	47	A
-3102	545431	1	3	47	7	Josef	Šafář	M			70	důchodce	Rojšín	99	47	A
-3102	545431	1	3	47	8	Josef	Fryč	M			42	lesní dělník	Rojšín	47	47	A
-3102	545431	1	3	47	9	Miroslav	Hlaváček	M			60	řidič	Brloh	47	47	A
-3102	545431	1	4	901	1	Tomáš	Jungwirth	M			38	vedoucí rostlinné výroby	Brloh	99	80	A
-3102	545431	1	4	901	2	Jan	Kříž	M	Ing.		37	soukromý podnikatel	Janské Údolí	99	80	A
-3102	545431	1	4	901	3	Michal	Mikeš	M			46	informatik	Brloh	99	80	A
-3102	545431	1	4	901	4	Václav	Loucký	M	Bc.		29	administrátor zákaznické podpory	Brloh	99	80	A
-3102	545431	1	4	901	5	Josef	Fučík	M			21	soukromý podnikatel	Brloh	99	80	A
-3102	545431	1	4	901	6	Martin	Šimeček	M			34	automechanik	Brloh	99	80	A
-3102	545431	1	4	901	7	Jan	Klement	M			42	soukromý podnikatel	Brloh	99	80	A
-3102	545431	1	4	901	8	Vlastimil	Vacek	M			31	správce informačního systému	Brloh	99	80	A
-3102	545431	1	4	901	9	Jan	Rusinko	M			19	traktorista	Janské Údolí	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3102	545431	1	1	902	1	Martin	Toman			45	starosta obce	Brloh	99	80	A	M
+3102	545431	1	2	1	1	Radek	Šimeček			30	hasič	Rojšín	99	1	A	M
+3102	545431	1	3	47	1	Jaroslav	Mikuška	Ing.		60	zemědělec	Brloh	47	47	A	M
+3102	545431	1	4	901	1	Tomáš	Jungwirth			38	vedoucí rostlinné výroby	Brloh	99	80	A	M
+3102	545431	1	1	902	2	Václav	Pecha			35	hasič	Brloh	99	80	A	M
+3102	545431	1	2	1	2	Pavel	Vojtko	Ing.		26	projektant	Brloh	99	1	A	M
+3102	545431	1	3	47	2	Štěpánka	Veselá			43	zdravotní sestra	Brloh	99	47	A	F
+3102	545431	1	4	901	2	Jan	Kříž	Ing.		37	soukromý podnikatel	Janské Údolí	99	80	A	M
+3102	545431	1	1	902	3	Jan	Postl	Bc.		35	manažer obchodu	Brloh	99	80	A	M
+3102	545431	1	2	1	3	Marcel	Vyžral			53	technik	Brloh	99	1	A	M
+3102	545431	1	3	47	3	Karel	Pavlík			43	zámečník	Brloh	47	47	A	M
+3102	545431	1	4	901	3	Michal	Mikeš			46	informatik	Brloh	99	80	A	M
+3102	545431	1	1	902	4	Petr	Macháček	Ing.		46	softwarový inženýr	Brloh	99	80	A	M
+3102	545431	1	2	1	4	František	Trapl	Mgr.	Ph.D.	39	vysokoškolský profesor	Brloh	99	1	A	M
+3102	545431	1	3	47	4	Václav	Pavlík			48	truhlář	Brloh	47	47	A	M
+3102	545431	1	4	901	4	Václav	Loucký	Bc.		29	administrátor zákaznické podpory	Brloh	99	80	A	M
+3102	545431	1	1	902	5	Dana	Sixlová			52	pečovatelka	Brloh	99	80	A	F
+3102	545431	1	2	1	5	Tomáš	Farský	Ing.		47	stavitel	Brloh	99	1	A	M
+3102	545431	1	3	47	5	Jiří	Prener			69	důchodce	Brloh	47	47	A	M
+3102	545431	1	4	901	5	Josef	Fučík			21	soukromý podnikatel	Brloh	99	80	A	M
+3102	545431	1	1	902	6	Jan	Prüher			66	důchodce	Jaronín	99	80	A	M
+3102	545431	1	2	1	6	Jan	Hrubeš	Ing.		58	konstruktér	Brloh	99	1	A	M
+3102	545431	1	3	47	6	Václav	Veselý			80	důchodce	Brloh	99	47	A	M
+3102	545431	1	4	901	6	Martin	Šimeček			34	automechanik	Brloh	99	80	A	M
+3102	545431	1	1	902	7	Hana	Anderlová			48	dělnice	Sedm Chalup	99	80	A	F
+3102	545431	1	2	1	7	Věra	Macháčková	Ing.		38	učitelka	Brloh	99	1	A	F
+3102	545431	1	3	47	7	Josef	Šafář			70	důchodce	Rojšín	99	47	A	M
+3102	545431	1	4	901	7	Jan	Klement			42	soukromý podnikatel	Brloh	99	80	A	M
+3102	545431	1	1	902	8	Jan	Pecha	Ing.		61	obchodní zástupce	Jaronín	99	80	A	M
+3102	545431	1	2	1	8	Václav	Rončák	Bc.		44	policista	Brloh	99	1	A	M
+3102	545431	1	3	47	8	Josef	Fryč			42	lesní dělník	Rojšín	47	47	A	M
+3102	545431	1	4	901	8	Vlastimil	Vacek			31	správce informačního systému	Brloh	99	80	A	M
+3102	545431	1	1	902	9	Zdeňka	Švarcová	Mgr.		54	zástupce ředitele ZŠ a MŠ	Brloh	99	80	A	F
+3102	545431	1	2	1	9	Anna	Zahradníková			38	asistentka	Brloh	99	1	A	F
+3102	545431	1	3	47	9	Miroslav	Hlaváček			60	řidič	Brloh	47	47	A	M
+3102	545431	1	4	901	9	Jan	Rusinko			19	traktorista	Janské Údolí	99	80	A	M

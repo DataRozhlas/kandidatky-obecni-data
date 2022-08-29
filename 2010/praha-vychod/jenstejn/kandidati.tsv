@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2109	538264	1	1	902	1	Zuzana	Bezvodová	F	Mgr.		60	bezpečnostní technik	Jenštejn	99	80	0
-2109	538264	1	1	902	2	Jana	Ivanišová	F	Ing.		46	speciální pracovník	Jenštejn	99	80	0
-2109	538264	1	1	902	3	Ivana Marie	Primusová	F			30	bankovní úředník	Jenštejn	99	80	0
-2109	538264	1	1	902	4	Alena	Koňaříková	F			59	poštovní úřednice	Dehtáry	99	80	0
-2109	538264	1	1	902	5	Pavel	Marek	M	Ing.		42	IT pracovník	Jenštejn	99	80	0
-2109	538264	1	1	902	6	Markéta	Beránková Hanušová	F	Ing.		34	architekt	Jenštejn	99	80	0
-2109	538264	1	1	902	7	Jiří	Přibyl	M			51	mistr SÚS	Dehtáry	99	80	0
-2109	538264	1	2	53	1	Marek	VACEK	M			36	zaměstnanec dopravního podniku	Dehtáry	53	53	0
-2109	538264	1	2	53	2	Pavel	DVOŘÁK	M			41	soukromý podnikatel	Jenštejn	99	53	0
-2109	538264	1	2	53	3	Jiří	SOJOVSKÝ	M			59	zámečník	Jenštejn	99	53	0
-2109	538264	1	2	53	4	Věra	VOLMUTOVÁ	F			33	zdravotní sestra	Jenštejn	99	53	0
-2109	538264	1	2	53	5	Pavel	ČINÁTL	M	Ing.		31	dopravní inženýr	Jenštejn	53	53	0
-2109	538264	1	2	53	6	Petr	STIBŮREK	M			44	soukromý podnikatel	Jenštejn	99	53	0
-2109	538264	1	2	53	7	Zdeňka	FRYKOVÁ	F			39	účetní	Jenštejn	99	53	0
-2109	538264	1	3	901	1	Evžen	Dub	M	Ing. arch.		42	architekt	Jenštejn	99	80	0
-2109	538264	1	3	901	2	Magdalena	Hlaváčková	F	Ing. arch.		49	architekt	Jenštejn	99	80	0
-2109	538264	1	3	901	3	Petr	Dovolil	M	Mgr.		34	právník - konzultant	Jenštejn	99	80	0
-2109	538264	1	3	901	4	Jan	Rábl	M	Ing.		41	ekonom - finanční ředitel	Jenštejn	99	80	0
-2109	538264	1	3	901	5	Jana	Habartová	F	Mgr.		38	pojistný matematik	Jenštejn	99	80	0
-2109	538264	1	3	901	6	Daniel	Tůma	M	Mgr.		37	programátor	Jenštejn	99	80	0
-2109	538264	1	3	901	7	Tomáš	Soukup	M			37	analytik Business Intelligence	Jenštejn	99	80	0
-2109	538264	1	3	901	8	Jan	Musílek	M	Bc.		36	konzultant	Jenštejn	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2109	538264	1	1	902	1	Zuzana	Bezvodová	Mgr.		60	bezpečnostní technik	Jenštejn	99	80	0	F
+2109	538264	1	2	53	1	Marek	VACEK			36	zaměstnanec dopravního podniku	Dehtáry	53	53	0	M
+2109	538264	1	3	901	1	Evžen	Dub	Ing. arch.		42	architekt	Jenštejn	99	80	0	M
+2109	538264	1	1	902	2	Jana	Ivanišová	Ing.		46	speciální pracovník	Jenštejn	99	80	0	F
+2109	538264	1	2	53	2	Pavel	DVOŘÁK			41	soukromý podnikatel	Jenštejn	99	53	0	M
+2109	538264	1	3	901	2	Magdalena	Hlaváčková	Ing. arch.		49	architekt	Jenštejn	99	80	0	F
+2109	538264	1	1	902	3	Ivana Marie	Primusová			30	bankovní úředník	Jenštejn	99	80	0	F
+2109	538264	1	2	53	3	Jiří	SOJOVSKÝ			59	zámečník	Jenštejn	99	53	0	M
+2109	538264	1	3	901	3	Petr	Dovolil	Mgr.		34	právník - konzultant	Jenštejn	99	80	0	M
+2109	538264	1	1	902	4	Alena	Koňaříková			59	poštovní úřednice	Dehtáry	99	80	0	F
+2109	538264	1	2	53	4	Věra	VOLMUTOVÁ			33	zdravotní sestra	Jenštejn	99	53	0	F
+2109	538264	1	3	901	4	Jan	Rábl	Ing.		41	ekonom - finanční ředitel	Jenštejn	99	80	0	M
+2109	538264	1	1	902	5	Pavel	Marek	Ing.		42	IT pracovník	Jenštejn	99	80	0	M
+2109	538264	1	2	53	5	Pavel	ČINÁTL	Ing.		31	dopravní inženýr	Jenštejn	53	53	0	M
+2109	538264	1	3	901	5	Jana	Habartová	Mgr.		38	pojistný matematik	Jenštejn	99	80	0	F
+2109	538264	1	1	902	6	Markéta	Beránková Hanušová	Ing.		34	architekt	Jenštejn	99	80	0	F
+2109	538264	1	2	53	6	Petr	STIBŮREK			44	soukromý podnikatel	Jenštejn	99	53	0	M
+2109	538264	1	3	901	6	Daniel	Tůma	Mgr.		37	programátor	Jenštejn	99	80	0	M
+2109	538264	1	1	902	7	Jiří	Přibyl			51	mistr SÚS	Dehtáry	99	80	0	M
+2109	538264	1	2	53	7	Zdeňka	FRYKOVÁ			39	účetní	Jenštejn	99	53	0	F
+2109	538264	1	3	901	7	Tomáš	Soukup			37	analytik Business Intelligence	Jenštejn	99	80	0	M
+2109	538264	1	3	901	8	Jan	Musílek	Bc.		36	konzultant	Jenštejn	99	80	0	M

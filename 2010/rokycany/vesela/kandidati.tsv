@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3206	560235	1	1	902	1	Ladislav	Pezlar	M			61	OSVČ	Veselá	99	80	0
-3206	560235	1	1	902	2	Pavel	Rybař	M			34	OSVČ	Veselá	99	80	0
-3206	560235	1	1	902	3	Tomáš	Pezlar	M			36	OSVČ	Veselá	99	80	0
-3206	560235	1	1	902	4	Milan	Větrovec	M			36	policista	Veselá	99	80	0
-3206	560235	1	1	902	5	Petr	Holba	M			40	stavbyvedoucí	Veselá	99	80	0
-3206	560235	1	1	902	6	Petra	Holbová	F			32	OSVČ	Veselá	99	80	0
-3206	560235	1	1	902	7	Luboš	Beran	M			34	manager	Veselá	99	80	0
-3206	560235	1	2	901	1	Pavel	Planeta	M			40	dělník	Veselá	99	80	0
-3206	560235	1	2	901	2	Jaroslav	Planeta	M			41	dělník	Veselá	99	80	0
-3206	560235	1	2	901	3	Václav	Dezort	M			56	dělník	Veselá	99	80	0
-3206	560235	1	2	901	4	Vlastimil	Ungr	M			38	OSVČ	Veselá	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3206	560235	1	1	902	1	Ladislav	Pezlar			61	OSVČ	Veselá	99	80	0	M
+3206	560235	1	2	901	1	Pavel	Planeta			40	dělník	Veselá	99	80	0	M
+3206	560235	1	1	902	2	Pavel	Rybař			34	OSVČ	Veselá	99	80	0	M
+3206	560235	1	2	901	2	Jaroslav	Planeta			41	dělník	Veselá	99	80	0	M
+3206	560235	1	1	902	3	Tomáš	Pezlar			36	OSVČ	Veselá	99	80	0	M
+3206	560235	1	2	901	3	Václav	Dezort			56	dělník	Veselá	99	80	0	M
+3206	560235	1	1	902	4	Milan	Větrovec			36	policista	Veselá	99	80	0	M
+3206	560235	1	2	901	4	Vlastimil	Ungr			38	OSVČ	Veselá	99	80	0	M
+3206	560235	1	1	902	5	Petr	Holba			40	stavbyvedoucí	Veselá	99	80	0	M
+3206	560235	1	1	902	6	Petra	Holbová			32	OSVČ	Veselá	99	80	0	F
+3206	560235	1	1	902	7	Luboš	Beran			34	manager	Veselá	99	80	0	M

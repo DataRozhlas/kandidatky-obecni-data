@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2107	565750	1	1	7	1	Milan	Benc	M			40	automechanik	Bílá Hlína	7	7	0
-2107	565750	1	1	7	2	Ondřej	Kučera	M			27	sanitář	Bílá Hlína	7	7	0
-2107	565750	1	1	7	3	Josef	Richtr	M			53	dělník	Bílá Hlína	7	7	0
-2107	565750	1	1	7	4	Petra	Patřičná	F			31	dělnice	Bílá Hlína	99	7	0
-2107	565750	1	2	901	1	Miroslav	Nigrín	M	Ing.		38	vedoucí technického rozvoje	Bílá Hlína	99	80	0
-2107	565750	1	2	901	2	Karel	Šíp	M			57	řidič	Bílá Hlína	99	80	0
-2107	565750	1	2	901	3	Renata	Palečková	F			37	referent účetnictví	Bílá Hlína	99	80	0
-2107	565750	1	2	901	4	Jiří	Šíp	M			56	zemědělský podnikatel	Bílá Hlína	99	80	0
-2107	565750	1	2	901	5	Jitka	Matoušová	F			35	dělnice	Bílá Hlína	99	80	0
-2107	565750	1	3	47	1	Jan	Šmíd	M			63	inv.důchodce	Bílá Hlína	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2107	565750	1	1	7	1	Milan	Benc			40	automechanik	Bílá Hlína	7	7	0	M
+2107	565750	1	2	901	1	Miroslav	Nigrín	Ing.		38	vedoucí technického rozvoje	Bílá Hlína	99	80	0	M
+2107	565750	1	3	47	1	Jan	Šmíd			63	inv.důchodce	Bílá Hlína	47	47	0	M
+2107	565750	1	1	7	2	Ondřej	Kučera			27	sanitář	Bílá Hlína	7	7	0	M
+2107	565750	1	2	901	2	Karel	Šíp			57	řidič	Bílá Hlína	99	80	0	M
+2107	565750	1	1	7	3	Josef	Richtr			53	dělník	Bílá Hlína	7	7	0	M
+2107	565750	1	2	901	3	Renata	Palečková			37	referent účetnictví	Bílá Hlína	99	80	0	F
+2107	565750	1	1	7	4	Petra	Patřičná			31	dělnice	Bílá Hlína	99	7	0	F
+2107	565750	1	2	901	4	Jiří	Šíp			56	zemědělský podnikatel	Bílá Hlína	99	80	0	M
+2107	565750	1	2	901	5	Jitka	Matoušová			35	dělnice	Bílá Hlína	99	80	0	F

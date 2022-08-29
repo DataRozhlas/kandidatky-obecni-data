@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4101	554740	1	1	901	1	Antonín	Dinga	M	Ing.		59	učitel	Plesná	99	80	A
-4101	554740	1	1	901	2	Stanislav	Mour	M			60	technik	Plesná	99	80	A
-4101	554740	1	1	901	3	Václav	Janča	M			71	důchodce	Plesná	47	80	A
-4101	554740	1	1	901	4	Božena	Neuschlová	F			66	ekonom	Plesná	99	80	A
-4101	554740	1	1	901	5	Jiří	Koprušťák	M			68	důchodce	Plesná	99	80	A
-4101	554740	1	1	901	6	Jan	Sadovský	M			74	důchodce	Plesná	99	80	A
-4101	554740	1	1	901	7	Jaroslava	Peltrámová	F			74	důchodce	Plesná	47	80	A
-4101	554740	1	1	901	8	Stanislav	Macek	M			73	důchodce	Plesná	47	80	A
-4101	554740	1	1	901	9	Miroslav	Neuschl	M			42	fyzioterapeut	Plesná	99	80	A
-4101	554740	1	2	902	1	Petr	Schaller	M			49	starosta	Plesná	721	80	A
-4101	554740	1	2	902	2	Alena	Jelínková	F	Mgr.		54	učitelka	Plesná	99	80	A
-4101	554740	1	2	902	3	Kristýna	Dusová	F			33	administrativní pracovnice	Plesná	99	80	A
-4101	554740	1	2	902	4	Martin	Polívka	M			30	sociální pracovník	Plesná	99	80	A
-4101	554740	1	2	902	5	Barbora	Votrubová	F	Bc.		29	mateřská dovolená	Plesná	99	80	A
-4101	554740	1	2	902	6	Lukáš	Svoboda	M	Mgr.		26	učitel	Plesná	99	80	A
-4101	554740	1	2	902	7	Michal	Helwin	M			44	technik	Plesná	99	80	A
-4101	554740	1	2	902	8	Aleš	Peltrám	M			47	soukromý podnikatel	Plesná	99	80	A
-4101	554740	1	2	902	9	Blažena	Lvová	F			72	učitelka	Plesná	99	80	A
-4101	554740	1	3	903	1	Václav	Mleziva	M			55	manager	Plesná	99	80	A
-4101	554740	1	3	903	2	Milan	Sýkora	M	Bc.		49	městská policie	Plesná	99	80	A
-4101	554740	1	3	903	3	Martin	Drápal	M			46	OSVČ	Plesná	99	80	A
-4101	554740	1	3	903	4	Marek	Kováč	M			29	řidič	Plesná	99	80	A
-4101	554740	1	3	903	5	Veronika	Bělohoubková Blažková	F			54	zdravotní sestra	Plesná	99	80	A
-4101	554740	1	3	903	6	Aleš	Strnad	M			31	OSVČ	Plesná	99	80	A
-4101	554740	1	3	903	7	Karel	Bláha	M			67	důchodce	Plesná	99	80	A
-4101	554740	1	3	903	8	Nikola	Lekešová	F			25	obchodní asistentka	Plesná	99	80	A
-4101	554740	1	3	903	9	Martina	Vlčková	F			37	dělnice	Plesná	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4101	554740	1	1	901	1	Antonín	Dinga	Ing.		59	učitel	Plesná	99	80	A	M
+4101	554740	1	2	902	1	Petr	Schaller			49	starosta	Plesná	721	80	A	M
+4101	554740	1	3	903	1	Václav	Mleziva			55	manager	Plesná	99	80	A	M
+4101	554740	1	1	901	2	Stanislav	Mour			60	technik	Plesná	99	80	A	M
+4101	554740	1	2	902	2	Alena	Jelínková	Mgr.		54	učitelka	Plesná	99	80	A	F
+4101	554740	1	3	903	2	Milan	Sýkora	Bc.		49	městská policie	Plesná	99	80	A	M
+4101	554740	1	1	901	3	Václav	Janča			71	důchodce	Plesná	47	80	A	M
+4101	554740	1	2	902	3	Kristýna	Dusová			33	administrativní pracovnice	Plesná	99	80	A	F
+4101	554740	1	3	903	3	Martin	Drápal			46	OSVČ	Plesná	99	80	A	M
+4101	554740	1	1	901	4	Božena	Neuschlová			66	ekonom	Plesná	99	80	A	F
+4101	554740	1	2	902	4	Martin	Polívka			30	sociální pracovník	Plesná	99	80	A	M
+4101	554740	1	3	903	4	Marek	Kováč			29	řidič	Plesná	99	80	A	M
+4101	554740	1	1	901	5	Jiří	Koprušťák			68	důchodce	Plesná	99	80	A	M
+4101	554740	1	2	902	5	Barbora	Votrubová	Bc.		29	mateřská dovolená	Plesná	99	80	A	F
+4101	554740	1	3	903	5	Veronika	Bělohoubková Blažková			54	zdravotní sestra	Plesná	99	80	A	F
+4101	554740	1	1	901	6	Jan	Sadovský			74	důchodce	Plesná	99	80	A	M
+4101	554740	1	2	902	6	Lukáš	Svoboda	Mgr.		26	učitel	Plesná	99	80	A	M
+4101	554740	1	3	903	6	Aleš	Strnad			31	OSVČ	Plesná	99	80	A	M
+4101	554740	1	1	901	7	Jaroslava	Peltrámová			74	důchodce	Plesná	47	80	A	F
+4101	554740	1	2	902	7	Michal	Helwin			44	technik	Plesná	99	80	A	M
+4101	554740	1	3	903	7	Karel	Bláha			67	důchodce	Plesná	99	80	A	M
+4101	554740	1	1	901	8	Stanislav	Macek			73	důchodce	Plesná	47	80	A	M
+4101	554740	1	2	902	8	Aleš	Peltrám			47	soukromý podnikatel	Plesná	99	80	A	M
+4101	554740	1	3	903	8	Nikola	Lekešová			25	obchodní asistentka	Plesná	99	80	A	F
+4101	554740	1	1	901	9	Miroslav	Neuschl			42	fyzioterapeut	Plesná	99	80	A	M
+4101	554740	1	2	902	9	Blažena	Lvová			72	učitelka	Plesná	99	80	A	F
+4101	554740	1	3	903	9	Martina	Vlčková			37	dělnice	Plesná	99	80	A	F

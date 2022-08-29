@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	546364	1	1	901	1	Karel	Dušek	M	Ing.		40	zástupce lesního správce LČR	Horní Pěna	99	80	0
-3103	546364	1	1	901	2	Vladimír	Šaman	M			36	OSVČ	Horní Pěna	99	80	0
-3103	546364	1	1	901	3	Jiří	Sýkora	M			61	dělník	Horní Pěna	99	80	0
-3103	546364	1	1	901	4	Josef	Balga	M			43	mechanik	Horní Pěna	99	80	0
-3103	546364	1	1	901	5	Karel	Koudelka	M			35	traktorista	Horní Pěna	99	80	0
-3103	546364	1	1	901	6	Ludvík	Dvořák	M			24	dělník	Horní Pěna	99	80	0
-3103	546364	1	1	901	7	Radim	Hložek	M			26	zootechnik	Horní Pěna	99	80	0
-3103	546364	1	1	901	8	František	Píša	M			50	traktorista	Horní Pěna	99	80	0
-3103	546364	1	1	901	9	Zdeněk	Jakl	M			54	technik	Horní Pěna	99	80	0
-3103	546364	1	2	902	1	Jaroslav	Kubát	M			52	místostarosta	Horní Pěna	99	80	0
-3103	546364	1	2	902	2	Hana	Andrejchová	F	RNDr.		51	učitelka	Horní Pěna	99	80	0
-3103	546364	1	2	902	3	Eva	Píšová	F	Ing.		48	zootechnik	Horní Pěna	99	80	0
-3103	546364	1	2	902	4	Rudolf	Žáček	M			57	řidič	Malíkov nad Nežárkou	99	80	0
-3103	546364	1	2	902	5	Oldřich	Jantač	M			28	podnikatel	Horní Pěna	99	80	0
-3103	546364	1	2	902	6	Václav	Čekal	M			38	podnikatel	Malíkov nad Nežárkou	99	80	0
-3103	546364	1	2	902	7	Jaroslav	Turín	M			37	podnikatel	Horní Pěna	99	80	0
-3103	546364	1	2	902	8	Jaroslav	Botka	M			52	podnikatel	Malíkov nad Nežárkou	99	80	0
-3103	546364	1	2	902	9	Helena	Moudrá	F			35	konzervářka	Malíkov nad Nežárkou	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	546364	1	1	901	1	Karel	Dušek	Ing.		40	zástupce lesního správce LČR	Horní Pěna	99	80	0	M
+3103	546364	1	2	902	1	Jaroslav	Kubát			52	místostarosta	Horní Pěna	99	80	0	M
+3103	546364	1	1	901	2	Vladimír	Šaman			36	OSVČ	Horní Pěna	99	80	0	M
+3103	546364	1	2	902	2	Hana	Andrejchová	RNDr.		51	učitelka	Horní Pěna	99	80	0	F
+3103	546364	1	1	901	3	Jiří	Sýkora			61	dělník	Horní Pěna	99	80	0	M
+3103	546364	1	2	902	3	Eva	Píšová	Ing.		48	zootechnik	Horní Pěna	99	80	0	F
+3103	546364	1	1	901	4	Josef	Balga			43	mechanik	Horní Pěna	99	80	0	M
+3103	546364	1	2	902	4	Rudolf	Žáček			57	řidič	Malíkov nad Nežárkou	99	80	0	M
+3103	546364	1	1	901	5	Karel	Koudelka			35	traktorista	Horní Pěna	99	80	0	M
+3103	546364	1	2	902	5	Oldřich	Jantač			28	podnikatel	Horní Pěna	99	80	0	M
+3103	546364	1	1	901	6	Ludvík	Dvořák			24	dělník	Horní Pěna	99	80	0	M
+3103	546364	1	2	902	6	Václav	Čekal			38	podnikatel	Malíkov nad Nežárkou	99	80	0	M
+3103	546364	1	1	901	7	Radim	Hložek			26	zootechnik	Horní Pěna	99	80	0	M
+3103	546364	1	2	902	7	Jaroslav	Turín			37	podnikatel	Horní Pěna	99	80	0	M
+3103	546364	1	1	901	8	František	Píša			50	traktorista	Horní Pěna	99	80	0	M
+3103	546364	1	2	902	8	Jaroslav	Botka			52	podnikatel	Malíkov nad Nežárkou	99	80	0	M
+3103	546364	1	1	901	9	Zdeněk	Jakl			54	technik	Horní Pěna	99	80	0	M
+3103	546364	1	2	902	9	Helena	Moudrá			35	konzervářka	Malíkov nad Nežárkou	99	80	0	F

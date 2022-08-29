@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3107	552241	1	1	339	1	Štěpán	Hladík	M	Ing.		36	vedoucí střediska služeb	Hartvíkov	99	1	0
-3107	552241	1	1	339	2	Jaroslava	Pravečková	F	Ing.		44	ekonomka	Prasetín	99	1	0
-3107	552241	1	1	339	3	Milan	Makovec	M			33	stavební dělník	Chotčiny	99	181	0
-3107	552241	1	1	339	4	Jan	Macek	M			58	traktorista	Pořín	99	1	0
-3107	552241	1	1	339	5	Josef	Rychlý	M			47	brusič	Dolní Hořice	99	181	0
-3107	552241	1	1	339	6	Libor	Rytíř	M			26	řidič	Chotčiny	99	1	0
-3107	552241	1	1	339	7	Dana	Nejdrová	F			36	soukromá zemědělkyně	Horní Hořice	99	181	0
-3107	552241	1	1	339	8	Martin	Lojda	M			25	zámečník	Mašovice	99	181	0
-3107	552241	1	1	339	9	Jana	Vítů	F			33	účetní	Lejčkov	99	181	0
-3107	552241	1	1	339	10	Vlastislav	Srbek	M			40	živnostník	Hartvíkov	99	181	0
-3107	552241	1	1	339	11	Eva	Novotná	F			50	mzdová účetní	Pořín	99	1	0
-3107	552241	1	1	339	12	Věra	Skalníková	F			38	dělnice	Kladruby	99	181	0
-3107	552241	1	1	339	13	Marek	Petrů	M			29	automechanik	Pořín	99	181	0
-3107	552241	1	1	339	14	Jan	Chamra	M			38	elektrikář	Horní Hořice	99	181	0
-3107	552241	1	1	339	15	Patrik	Hladík	M			29	traktorista	Prasetín	99	181	0
-3107	552241	1	2	901	1	Pavel	Rothbauer	M			51	automechanik	Mašovice	99	80	0
-3107	552241	1	2	901	2	Marie	Stejskalová	F			56	vedoucí oddělení	Pořín	99	80	0
-3107	552241	1	2	901	3	Vladimír	Seidl	M			56	technik	Horní Hořice	99	80	0
-3107	552241	1	2	901	4	Josef	Hora	M	Ing.		63	důchodce	Nové Dvory	99	80	0
-3107	552241	1	2	901	5	Jiří	Filip	M			42	dispečer	Lejčkov	99	80	0
-3107	552241	1	2	901	6	Josef	Petrů	M			54	strojvedoucí	Pořín	99	80	0
-3107	552241	1	2	901	7	Karel	Pistulka	M	Ing.		55	předseda	Dolní Hořice	99	80	0
-3107	552241	1	2	901	8	František	Válka	M			57	invalidní důchodce	Oblajovice	99	80	0
-3107	552241	1	2	901	9	Vladimír	Janura	M			34	vedoucí směny	Dolní Hořice	99	80	0
-3107	552241	1	2	901	10	Josef	Prchlík	M	Ing.		62	důchodce	Mašovice	99	80	0
-3107	552241	1	2	901	11	Vlastimil	Musil	M			47	technik	Prasetín	99	80	0
-3107	552241	1	2	901	12	Jaroslav	Přívozník	M			60	elektrikář	Chotčiny	99	80	0
-3107	552241	1	2	901	13	Hana	Ješetová	F			52	referent	Horní Hořice	99	80	0
-3107	552241	1	2	901	14	Josef	Skalník	M			47	řidič	Kladruby	99	80	0
-3107	552241	1	2	901	15	Karel	Musil	M			57	opravář	Oblajovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3107	552241	1	1	339	1	Štěpán	Hladík	Ing.		36	vedoucí střediska služeb	Hartvíkov	99	1	0	M
+3107	552241	1	2	901	1	Pavel	Rothbauer			51	automechanik	Mašovice	99	80	0	M
+3107	552241	1	1	339	2	Jaroslava	Pravečková	Ing.		44	ekonomka	Prasetín	99	1	0	F
+3107	552241	1	2	901	2	Marie	Stejskalová			56	vedoucí oddělení	Pořín	99	80	0	F
+3107	552241	1	1	339	3	Milan	Makovec			33	stavební dělník	Chotčiny	99	181	0	M
+3107	552241	1	2	901	3	Vladimír	Seidl			56	technik	Horní Hořice	99	80	0	M
+3107	552241	1	1	339	4	Jan	Macek			58	traktorista	Pořín	99	1	0	M
+3107	552241	1	2	901	4	Josef	Hora	Ing.		63	důchodce	Nové Dvory	99	80	0	M
+3107	552241	1	1	339	5	Josef	Rychlý			47	brusič	Dolní Hořice	99	181	0	M
+3107	552241	1	2	901	5	Jiří	Filip			42	dispečer	Lejčkov	99	80	0	M
+3107	552241	1	1	339	6	Libor	Rytíř			26	řidič	Chotčiny	99	1	0	M
+3107	552241	1	2	901	6	Josef	Petrů			54	strojvedoucí	Pořín	99	80	0	M
+3107	552241	1	1	339	7	Dana	Nejdrová			36	soukromá zemědělkyně	Horní Hořice	99	181	0	F
+3107	552241	1	2	901	7	Karel	Pistulka	Ing.		55	předseda	Dolní Hořice	99	80	0	M
+3107	552241	1	1	339	8	Martin	Lojda			25	zámečník	Mašovice	99	181	0	M
+3107	552241	1	2	901	8	František	Válka			57	invalidní důchodce	Oblajovice	99	80	0	M
+3107	552241	1	1	339	9	Jana	Vítů			33	účetní	Lejčkov	99	181	0	F
+3107	552241	1	2	901	9	Vladimír	Janura			34	vedoucí směny	Dolní Hořice	99	80	0	M
+3107	552241	1	1	339	10	Vlastislav	Srbek			40	živnostník	Hartvíkov	99	181	0	M
+3107	552241	1	2	901	10	Josef	Prchlík	Ing.		62	důchodce	Mašovice	99	80	0	M
+3107	552241	1	1	339	11	Eva	Novotná			50	mzdová účetní	Pořín	99	1	0	F
+3107	552241	1	2	901	11	Vlastimil	Musil			47	technik	Prasetín	99	80	0	M
+3107	552241	1	1	339	12	Věra	Skalníková			38	dělnice	Kladruby	99	181	0	F
+3107	552241	1	2	901	12	Jaroslav	Přívozník			60	elektrikář	Chotčiny	99	80	0	M
+3107	552241	1	1	339	13	Marek	Petrů			29	automechanik	Pořín	99	181	0	M
+3107	552241	1	2	901	13	Hana	Ješetová			52	referent	Horní Hořice	99	80	0	F
+3107	552241	1	1	339	14	Jan	Chamra			38	elektrikář	Horní Hořice	99	181	0	M
+3107	552241	1	2	901	14	Josef	Skalník			47	řidič	Kladruby	99	80	0	M
+3107	552241	1	1	339	15	Patrik	Hladík			29	traktorista	Prasetín	99	181	0	M
+3107	552241	1	2	901	15	Karel	Musil			57	opravář	Oblajovice	99	80	0	M

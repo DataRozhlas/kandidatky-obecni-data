@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	554201	1	1	901	1	Jiří	Janovský	M			46	učitel	Semněvice	99	80	0
-3201	554201	1	1	901	2	Václav	Jobák	M			57	úředník	Pocinovice	99	80	0
-3201	554201	1	1	901	3	Petr	Koutecký	M			61	důchodce	Šlovice	99	80	0
-3201	554201	1	1	901	4	Pavlína	Marešová	F			32	účetní	Semněvice	99	80	0
-3201	554201	1	1	901	5	Zdeněk	Turek	M			47	dělník	Semněvice	99	80	0
-3201	554201	1	1	901	6	Dana	Svobodová	F			36	podnikatelka	Semněvice	99	80	0
-3201	554201	1	1	901	7	Iveta	Hodinová	F			27	v domácnosti	Semněvice	99	80	0
-3201	554201	1	1	901	8	Hedvika	Hermannová	F			67	důchodce	Pocinovice	99	80	0
-3201	554201	1	1	901	9	Václav	Terzl	M			45	podnikatel	Semněvice	99	80	0
-3201	554201	1	2	902	1	Zdeněk	Horáček	M			48	dělník	Semněvice	99	80	0
-3201	554201	1	2	902	2	Milan	Pepo	M			43	OSVČ	Semněvice	99	80	0
-3201	554201	1	2	902	3	Petr	Bozděch	M			42	technik	Semněvice	99	80	0
-3201	554201	1	2	902	4	Markéta	Badačová	F			57	důchodkyně	Semněvice	99	80	0
-3201	554201	1	2	902	5	Jiří	Brabec	M			50	mechanik	Semněvice	99	80	0
-3201	554201	1	2	902	6	Václav	Bauz ml.	M			31	dělník	Semněvice	99	80	0
-3201	554201	1	2	902	7	Renata	Podivítrová	F			25	dělnice	Semněvice	99	80	0
-3201	554201	1	2	902	8	Jiřina	Koucká	F			22	v domácnosti	Semněvice	99	80	0
-3201	554201	1	2	902	9	Michal	Wagner	M			31	opravář.zem.strojů	Šlovice	99	80	0
-3201	554201	1	3	903	1	Josef	Hálek	M			60	důchodce	Šlovice	99	80	0
-3201	554201	1	3	903	2	Miroslav	Pezl	M			29	dělník	Semněvice	99	80	0
-3201	554201	1	3	903	3	Václav	Bauz	M			55	důchodce	Semněvice	99	80	0
-3201	554201	1	3	903	4	Jaroslava	Pflugová	F			50	důchodkyně	Semněvice	99	80	0
-3201	554201	1	3	903	5	Josef	Kydlíček	M			73	důchodce	Pocinovice	99	80	0
-3201	554201	1	3	903	6	Josef	Hodina	M			31	dělník	Semněvice	99	80	0
-3201	554201	1	3	903	7	Anežka	Hajsová	F			56	důchodkyně	Semněvice	99	80	0
-3201	554201	1	3	903	8	Jana	Lehnerová	F			31	dělnice	Semněvice	99	80	0
-3201	554201	1	3	903	9	Martina	Václavová	F			24	mateřská dovolená	Semněvice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	554201	1	1	901	1	Jiří	Janovský			46	učitel	Semněvice	99	80	0	M
+3201	554201	1	2	902	1	Zdeněk	Horáček			48	dělník	Semněvice	99	80	0	M
+3201	554201	1	3	903	1	Josef	Hálek			60	důchodce	Šlovice	99	80	0	M
+3201	554201	1	1	901	2	Václav	Jobák			57	úředník	Pocinovice	99	80	0	M
+3201	554201	1	2	902	2	Milan	Pepo			43	OSVČ	Semněvice	99	80	0	M
+3201	554201	1	3	903	2	Miroslav	Pezl			29	dělník	Semněvice	99	80	0	M
+3201	554201	1	1	901	3	Petr	Koutecký			61	důchodce	Šlovice	99	80	0	M
+3201	554201	1	2	902	3	Petr	Bozděch			42	technik	Semněvice	99	80	0	M
+3201	554201	1	3	903	3	Václav	Bauz			55	důchodce	Semněvice	99	80	0	M
+3201	554201	1	1	901	4	Pavlína	Marešová			32	účetní	Semněvice	99	80	0	F
+3201	554201	1	2	902	4	Markéta	Badačová			57	důchodkyně	Semněvice	99	80	0	F
+3201	554201	1	3	903	4	Jaroslava	Pflugová			50	důchodkyně	Semněvice	99	80	0	F
+3201	554201	1	1	901	5	Zdeněk	Turek			47	dělník	Semněvice	99	80	0	M
+3201	554201	1	2	902	5	Jiří	Brabec			50	mechanik	Semněvice	99	80	0	M
+3201	554201	1	3	903	5	Josef	Kydlíček			73	důchodce	Pocinovice	99	80	0	M
+3201	554201	1	1	901	6	Dana	Svobodová			36	podnikatelka	Semněvice	99	80	0	F
+3201	554201	1	2	902	6	Václav	Bauz ml.			31	dělník	Semněvice	99	80	0	M
+3201	554201	1	3	903	6	Josef	Hodina			31	dělník	Semněvice	99	80	0	M
+3201	554201	1	1	901	7	Iveta	Hodinová			27	v domácnosti	Semněvice	99	80	0	F
+3201	554201	1	2	902	7	Renata	Podivítrová			25	dělnice	Semněvice	99	80	0	F
+3201	554201	1	3	903	7	Anežka	Hajsová			56	důchodkyně	Semněvice	99	80	0	F
+3201	554201	1	1	901	8	Hedvika	Hermannová			67	důchodce	Pocinovice	99	80	0	F
+3201	554201	1	2	902	8	Jiřina	Koucká			22	v domácnosti	Semněvice	99	80	0	F
+3201	554201	1	3	903	8	Jana	Lehnerová			31	dělnice	Semněvice	99	80	0	F
+3201	554201	1	1	901	9	Václav	Terzl			45	podnikatel	Semněvice	99	80	0	M
+3201	554201	1	2	902	9	Michal	Wagner			31	opravář.zem.strojů	Šlovice	99	80	0	M
+3201	554201	1	3	903	9	Martina	Václavová			24	mateřská dovolená	Semněvice	99	80	0	F

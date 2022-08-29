@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	568708	1	1	53	1	Jaroslav	Čáp	M	Ing.	Ph.D.	41	programátor	Horní Krupá	99	53	A
-6101	568708	1	1	53	2	Jakub	Trachtulec	M		DiS.	39	obchodní zástupce	Horní Krupá	99	53	A
-6101	568708	1	1	53	3	Zuzana	Titzová	F	Mgr.		29	rodičovská dovolená	Horní Krupá	99	53	A
-6101	568708	1	1	53	4	Pavel	Jindra	M			62	živnostník	Horní Krupá	53	53	A
-6101	568708	1	1	53	5	Petr	Hejný	M			35	strojvedoucí	Horní Krupá	99	53	A
-6101	568708	1	1	53	6	Lada	Nováková	F	PhDr.	Ph.D.	42	náměstek ošetřovatelské péče	Údolí	53	53	A
-6101	568708	1	1	53	7	Zdeněk	Krédl	M	Ing.	Ph.D.	34	obchodní zástupce	Horní Krupá	99	53	A
-6101	568708	1	1	53	8	Petra	Machová	F			38	skladnice	Zálesí	99	53	A
-6101	568708	1	2	901	1	Václav	Lacina	M			35	starosta obce	Horní Krupá	99	80	A
-6101	568708	1	2	901	2	Michal	Štěpán	M			42	OSVČ	Údolí	99	80	A
-6101	568708	1	2	901	3	Petr	Jindra	M			44	skladník	Horní Krupá	99	80	A
-6101	568708	1	2	901	4	Pavel	Jindra	M			45	tiskař	Horní Krupá	99	80	A
-6101	568708	1	2	901	5	Miloš	Jindra	M	Ing.		38	konstruktér	Horní Krupá	99	80	A
-6101	568708	1	2	901	6	Jitka	Doležalová	F	Bc.	DiS.	34	učitelka	Horní Krupá	99	80	A
-6101	568708	1	2	901	7	Miloslav	Konfršt	M			53	OSVČ	Horní Krupá	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	568708	1	1	53	1	Jaroslav	Čáp	Ing.	Ph.D.	41	programátor	Horní Krupá	99	53	A	M
+6101	568708	1	2	901	1	Václav	Lacina			35	starosta obce	Horní Krupá	99	80	A	M
+6101	568708	1	1	53	2	Jakub	Trachtulec		DiS.	39	obchodní zástupce	Horní Krupá	99	53	A	M
+6101	568708	1	2	901	2	Michal	Štěpán			42	OSVČ	Údolí	99	80	A	M
+6101	568708	1	1	53	3	Zuzana	Titzová	Mgr.		29	rodičovská dovolená	Horní Krupá	99	53	A	F
+6101	568708	1	2	901	3	Petr	Jindra			44	skladník	Horní Krupá	99	80	A	M
+6101	568708	1	1	53	4	Pavel	Jindra			62	živnostník	Horní Krupá	53	53	A	M
+6101	568708	1	2	901	4	Pavel	Jindra			45	tiskař	Horní Krupá	99	80	A	M
+6101	568708	1	1	53	5	Petr	Hejný			35	strojvedoucí	Horní Krupá	99	53	A	M
+6101	568708	1	2	901	5	Miloš	Jindra	Ing.		38	konstruktér	Horní Krupá	99	80	A	M
+6101	568708	1	1	53	6	Lada	Nováková	PhDr.	Ph.D.	42	náměstek ošetřovatelské péče	Údolí	53	53	A	F
+6101	568708	1	2	901	6	Jitka	Doležalová	Bc.	DiS.	34	učitelka	Horní Krupá	99	80	A	F
+6101	568708	1	1	53	7	Zdeněk	Krédl	Ing.	Ph.D.	34	obchodní zástupce	Horní Krupá	99	53	A	M
+6101	568708	1	2	901	7	Miloslav	Konfršt			53	OSVČ	Horní Krupá	99	80	A	M
+6101	568708	1	1	53	8	Petra	Machová			38	skladnice	Zálesí	99	53	A	F

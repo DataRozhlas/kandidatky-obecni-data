@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	580708	1	1	901	1	Jaroslav	Eliáš	M			41	návěstní mistr	Loučky	99	80	0
-5304	580708	1	1	901	2	Petr	Hrabec	M			36	technický pracovník	Loučky	99	80	0
-5304	580708	1	1	901	3	Hana	Konečná	F			47	účetní	Loučky	99	80	0
-5304	580708	1	1	901	4	Vladimír	Stárek	M	Ing.		31	správce sítě	Loučky	99	80	0
-5304	580708	1	1	901	5	Lubomír	Štorek	M			26	technik	Loučky	99	80	0
-5304	580708	1	1	901	6	Milena	Samková	F			44	vedoucí kuchyně	Loučky	99	80	0
-5304	580708	1	2	902	1	Ladislav	Chládek	M			57	starosta	Svatý Jiří	99	80	0
-5304	580708	1	2	902	2	Jan	Minář	M			48	řidič	Svatý Jiří	99	80	0
-5304	580708	1	2	902	3	Stanislava	Fišerová	F			33	účetní	Svatý Jiří	99	80	0
-5304	580708	1	2	902	4	Jiřík	Jarkovský	M			57	traktorista	Svatý Jiří	99	80	0
-5304	580708	1	2	902	5	Radovan	Kružík	M			31	technik	Svatý Jiří	99	80	0
-5304	580708	1	2	902	6	Zdeňka	Zezulová	F			52	vedoucí prodejny	Svatý Jiří	99	80	0
-5304	580708	1	2	902	7	Miloslav	Kubát	M			36	dělník	Svatý Jiří	99	80	0
-5304	580708	1	2	902	8	Marek	Harapát	M	Ing.		31	účetní	Svatý Jiří	99	80	0
-5304	580708	1	2	902	9	Eva	Teplá	F			43	vychovatelka	Sítiny	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	580708	1	1	901	1	Jaroslav	Eliáš			41	návěstní mistr	Loučky	99	80	0	M
+5304	580708	1	2	902	1	Ladislav	Chládek			57	starosta	Svatý Jiří	99	80	0	M
+5304	580708	1	1	901	2	Petr	Hrabec			36	technický pracovník	Loučky	99	80	0	M
+5304	580708	1	2	902	2	Jan	Minář			48	řidič	Svatý Jiří	99	80	0	M
+5304	580708	1	1	901	3	Hana	Konečná			47	účetní	Loučky	99	80	0	F
+5304	580708	1	2	902	3	Stanislava	Fišerová			33	účetní	Svatý Jiří	99	80	0	F
+5304	580708	1	1	901	4	Vladimír	Stárek	Ing.		31	správce sítě	Loučky	99	80	0	M
+5304	580708	1	2	902	4	Jiřík	Jarkovský			57	traktorista	Svatý Jiří	99	80	0	M
+5304	580708	1	1	901	5	Lubomír	Štorek			26	technik	Loučky	99	80	0	M
+5304	580708	1	2	902	5	Radovan	Kružík			31	technik	Svatý Jiří	99	80	0	M
+5304	580708	1	1	901	6	Milena	Samková			44	vedoucí kuchyně	Loučky	99	80	0	F
+5304	580708	1	2	902	6	Zdeňka	Zezulová			52	vedoucí prodejny	Svatý Jiří	99	80	0	F
+5304	580708	1	2	902	7	Miloslav	Kubát			36	dělník	Svatý Jiří	99	80	0	M
+5304	580708	1	2	902	8	Marek	Harapát	Ing.		31	účetní	Svatý Jiří	99	80	0	M
+5304	580708	1	2	902	9	Eva	Teplá			43	vychovatelka	Sítiny	99	80	0	F

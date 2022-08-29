@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6104	590436	1	1	901	1	Miroslava	Čermáková	F	Bc.		48	učitelka	Čáslavice	99	80	A
-6104	590436	1	1	901	2	Jaroslav	Havel	M	Mgr. Ing.		48	zaměstnanec státního podniku	Čáslavice	99	80	A
-6104	590436	1	1	901	3	Pavel	Vařbuchta	M			35	konstruktér elektrických zařízení	Čáslavice	99	80	A
-6104	590436	1	1	901	4	Miroslav	Vaníček	M			45	řidič	Čáslavice	99	80	A
-6104	590436	1	1	901	5	Rostislav	Jeřábek	M	Ing.		43	učitel	Čáslavice	99	80	A
-6104	590436	1	1	901	6	Jitka	Javorková	F	Mgr.		35	učitelka	Čáslavice	99	80	A
-6104	590436	1	1	901	7	Jiří	Blecha	M			34	technik JE Dukovany	Čáslavice	99	80	A
-6104	590436	1	1	901	8	Pavel	Nedvědický	M			36	automechanik	Čáslavice	99	80	A
-6104	590436	1	1	901	9	Ladislav	Rubák	M			28	projektový manažer	Čáslavice	99	80	A
-6104	590436	1	1	901	10	Petr	Klika	M			36	OSVČ	Čáslavice	99	80	A
-6104	590436	1	1	901	11	Karel	Venhoda	M			34	skladník	Čáslavice	99	80	A
-6104	590436	1	1	901	12	Jakub	Fašina	M			36	vedoucí výroby	Čáslavice	99	80	A
-6104	590436	1	1	901	13	Roman	Javorek	M			38	obchodní manažer	Čáslavice	99	80	A
-6104	590436	1	1	901	14	Martin	Rygl	M	Mgr.		36	advokát	Čáslavice	99	80	A
-6104	590436	1	1	901	15	Ivo	Dobeš	M			52	OSVČ	Čáslavice	99	80	A
-6104	590436	1	2	47	1	Vladimír	Bartes	M			65	starosta	Čáslavice	47	47	A
-6104	590436	1	2	47	2	Petra	Iranová	F		DiS.	39	vychovatelka	Čáslavice	99	47	A
-6104	590436	1	2	47	3	Roman	Vecheta	M			43	státní zaměstnanec	Čáslavice	99	47	A
-6104	590436	1	2	47	4	Ludmila	Chloupková	F			64	účetní	Čáslavice	47	47	A
-6104	590436	1	2	47	5	Šárka	Zámečníková	F			38	obchodní zástupce	Čáslavice	99	47	A
-6104	590436	1	2	47	6	Karel	Venhoda	M			69	důchodce	Čáslavice	47	47	A
-6104	590436	1	2	47	7	Karel	Martének	M			35	OSVČ	Čáslavice	99	47	A
-6104	590436	1	2	47	8	František	Vítek	M			68	důchodce	Čáslavice	47	47	A
-6104	590436	1	2	47	9	Miloš	Krotký	M			39	pracovník v zemědělství	Čáslavice	99	47	A
-6104	590436	1	2	47	10	Emil	Špaček	M			68	důchodce	Čáslavice	47	47	A
-6104	590436	1	2	47	11	Miroslav	Macháček	M			63	důchodce	Čáslavice	47	47	A
-6104	590436	1	2	47	12	Zdeněk	Růžička	M			59	zámečník	Čáslavice	99	47	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6104	590436	1	1	901	1	Miroslava	Čermáková	Bc.		48	učitelka	Čáslavice	99	80	A	F
+6104	590436	1	2	47	1	Vladimír	Bartes			65	starosta	Čáslavice	47	47	A	M
+6104	590436	1	1	901	2	Jaroslav	Havel	Mgr. Ing.		48	zaměstnanec státního podniku	Čáslavice	99	80	A	M
+6104	590436	1	2	47	2	Petra	Iranová		DiS.	39	vychovatelka	Čáslavice	99	47	A	F
+6104	590436	1	1	901	3	Pavel	Vařbuchta			35	konstruktér elektrických zařízení	Čáslavice	99	80	A	M
+6104	590436	1	2	47	3	Roman	Vecheta			43	státní zaměstnanec	Čáslavice	99	47	A	M
+6104	590436	1	1	901	4	Miroslav	Vaníček			45	řidič	Čáslavice	99	80	A	M
+6104	590436	1	2	47	4	Ludmila	Chloupková			64	účetní	Čáslavice	47	47	A	F
+6104	590436	1	1	901	5	Rostislav	Jeřábek	Ing.		43	učitel	Čáslavice	99	80	A	M
+6104	590436	1	2	47	5	Šárka	Zámečníková			38	obchodní zástupce	Čáslavice	99	47	A	F
+6104	590436	1	1	901	6	Jitka	Javorková	Mgr.		35	učitelka	Čáslavice	99	80	A	F
+6104	590436	1	2	47	6	Karel	Venhoda			69	důchodce	Čáslavice	47	47	A	M
+6104	590436	1	1	901	7	Jiří	Blecha			34	technik JE Dukovany	Čáslavice	99	80	A	M
+6104	590436	1	2	47	7	Karel	Martének			35	OSVČ	Čáslavice	99	47	A	M
+6104	590436	1	1	901	8	Pavel	Nedvědický			36	automechanik	Čáslavice	99	80	A	M
+6104	590436	1	2	47	8	František	Vítek			68	důchodce	Čáslavice	47	47	A	M
+6104	590436	1	1	901	9	Ladislav	Rubák			28	projektový manažer	Čáslavice	99	80	A	M
+6104	590436	1	2	47	9	Miloš	Krotký			39	pracovník v zemědělství	Čáslavice	99	47	A	M
+6104	590436	1	1	901	10	Petr	Klika			36	OSVČ	Čáslavice	99	80	A	M
+6104	590436	1	2	47	10	Emil	Špaček			68	důchodce	Čáslavice	47	47	A	M
+6104	590436	1	1	901	11	Karel	Venhoda			34	skladník	Čáslavice	99	80	A	M
+6104	590436	1	2	47	11	Miroslav	Macháček			63	důchodce	Čáslavice	47	47	A	M
+6104	590436	1	1	901	12	Jakub	Fašina			36	vedoucí výroby	Čáslavice	99	80	A	M
+6104	590436	1	2	47	12	Zdeněk	Růžička			59	zámečník	Čáslavice	99	47	A	M
+6104	590436	1	1	901	13	Roman	Javorek			38	obchodní manažer	Čáslavice	99	80	A	M
+6104	590436	1	1	901	14	Martin	Rygl	Mgr.		36	advokát	Čáslavice	99	80	A	M
+6104	590436	1	1	901	15	Ivo	Dobeš			52	OSVČ	Čáslavice	99	80	A	M

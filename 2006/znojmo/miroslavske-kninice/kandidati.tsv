@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	594466	1	1	904	1	Zdeněk	Oliva	M			55	živnostník	Miroslavské Knínice	99	80	0
-6207	594466	1	1	904	2	Václav	Oliva	M			55	opravář	Miroslavské Knínice	99	80	0
-6207	594466	1	1	904	3	Ladislav	Štandl	M			47	svářeč	Miroslavské Knínice	99	80	0
-6207	594466	1	1	904	4	Oldřich	Křeček	M			62	technik	Miroslavské Knínice	99	80	0
-6207	594466	1	1	904	5	Libuše	Krainová	F			63	učitelka	Miroslavské Knínice	99	80	0
-6207	594466	1	1	904	6	Miloš	Hladík	M			34	zámečník	Miroslavské Knínice	99	80	0
-6207	594466	1	1	904	7	Petr	Hanzel	M			51	živnostník	Miroslavské Knínice	99	80	0
-6207	594466	1	1	904	8	Peter	Heinereich	M			58	dělník	Miroslavské Knínice	99	80	0
-6207	594466	1	1	904	9	Karel	Jahn	M			62	dělník	Miroslavské Knínice	99	80	0
-6207	594466	1	2	903	1	Milan	Vyžrálek	M			35	podnikatel	Miroslavské Knínice	99	80	0
-6207	594466	1	2	903	2	Pavel	Štefl	M			36	strojník	Miroslavské Knínice	99	80	0
-6207	594466	1	2	903	3	Jiří	Berka	M			36	důchodce	Miroslavské Knínice	99	80	0
-6207	594466	1	2	903	4	Radomír	Hodeček	M			42	soukromý zemědělec	Miroslavské Knínice	99	80	0
-6207	594466	1	2	903	5	Pavel	Gregor	M			35	zedník	Miroslavské Knínice	99	80	0
-6207	594466	1	2	903	6	Josef	Cekovský	M			38	podnikatel	Miroslavské Knínice	99	80	0
-6207	594466	1	2	903	7	Zlatuše	Vyžrálková	F			35	nezaměstnaná	Miroslavské Knínice	99	80	0
-6207	594466	1	2	903	8	Eva	Kohoutková	F			33	mateřská dovolená	Miroslavské Knínice	99	80	0
-6207	594466	1	2	903	9	Jana	Sobotková	F			39	mateřská dovolená	Miroslavské Knínice	99	80	0
-6207	594466	1	3	901	1	Petr	Příkazský	M			43	výpravčí	Miroslavské Knínice	99	80	0
-6207	594466	1	3	901	2	Kamil	Raboň	M	Ing.		29	úředník	Miroslavské Knínice	99	80	0
-6207	594466	1	3	901	3	Jiří	Balík	M	Ing.		28	technik	Miroslavské Knínice	99	80	0
-6207	594466	1	3	901	4	Marek	Krchňavý	M	Ing.		28	úředník	Miroslavské Knínice	99	80	0
-6207	594466	1	3	901	5	Renata	Ryšavá	F			41	zdravotní sestra	Miroslavské Knínice	99	80	0
-6207	594466	1	3	901	6	Radka	Součková	F			38	mistrová	Miroslavské Knínice	99	80	0
-6207	594466	1	3	901	7	Milan	Kudláček	M			25	student	Miroslavské Knínice	99	80	0
-6207	594466	1	3	901	8	Dagmar	Příkazská	F	Mgr.		43	učitelka	Miroslavské Knínice	99	80	0
-6207	594466	1	3	901	9	Alena	Kudláčková	F			26	prodavačka	Miroslavské Knínice	99	80	0
-6207	594466	1	4	902	1	Petr	Janda	M	Mgr.		33	učitel	Miroslavské Knínice	99	80	0
-6207	594466	1	4	902	2	Rudolf	Weiss	M	Ing.		40	manažér prodeje	Miroslavské Knínice	99	80	0
-6207	594466	1	4	902	3	Stanislav	Křeček	M	Ing.		63	důchodce	Miroslavské Knínice	99	80	0
-6207	594466	1	4	902	4	Milan	Záviška	M			51	řidič	Miroslavské Knínice	99	80	0
-6207	594466	1	4	902	5	Jiří	Souček	M			52	dělník	Miroslavské Knínice	99	80	0
-6207	594466	1	4	902	6	Věra	Cekovská	F			39	kadeřnice	Miroslavské Knínice	99	80	0
-6207	594466	1	4	902	7	Pavel	Hoc	M			50	soukromý podnikatel	Miroslavské Knínice	99	80	0
-6207	594466	1	4	902	8	Jaroslava	Klímová	F			57	pracovnice živočišné výroby	Miroslavské Knínice	99	80	0
-6207	594466	1	4	902	9	Miroslav	Novotný	M			42	invalidní důchodce	Miroslavské Knínice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	594466	1	1	904	1	Zdeněk	Oliva			55	živnostník	Miroslavské Knínice	99	80	0	M
+6207	594466	1	2	903	1	Milan	Vyžrálek			35	podnikatel	Miroslavské Knínice	99	80	0	M
+6207	594466	1	3	901	1	Petr	Příkazský			43	výpravčí	Miroslavské Knínice	99	80	0	M
+6207	594466	1	4	902	1	Petr	Janda	Mgr.		33	učitel	Miroslavské Knínice	99	80	0	M
+6207	594466	1	1	904	2	Václav	Oliva			55	opravář	Miroslavské Knínice	99	80	0	M
+6207	594466	1	2	903	2	Pavel	Štefl			36	strojník	Miroslavské Knínice	99	80	0	M
+6207	594466	1	3	901	2	Kamil	Raboň	Ing.		29	úředník	Miroslavské Knínice	99	80	0	M
+6207	594466	1	4	902	2	Rudolf	Weiss	Ing.		40	manažér prodeje	Miroslavské Knínice	99	80	0	M
+6207	594466	1	1	904	3	Ladislav	Štandl			47	svářeč	Miroslavské Knínice	99	80	0	M
+6207	594466	1	2	903	3	Jiří	Berka			36	důchodce	Miroslavské Knínice	99	80	0	M
+6207	594466	1	3	901	3	Jiří	Balík	Ing.		28	technik	Miroslavské Knínice	99	80	0	M
+6207	594466	1	4	902	3	Stanislav	Křeček	Ing.		63	důchodce	Miroslavské Knínice	99	80	0	M
+6207	594466	1	1	904	4	Oldřich	Křeček			62	technik	Miroslavské Knínice	99	80	0	M
+6207	594466	1	2	903	4	Radomír	Hodeček			42	soukromý zemědělec	Miroslavské Knínice	99	80	0	M
+6207	594466	1	3	901	4	Marek	Krchňavý	Ing.		28	úředník	Miroslavské Knínice	99	80	0	M
+6207	594466	1	4	902	4	Milan	Záviška			51	řidič	Miroslavské Knínice	99	80	0	M
+6207	594466	1	1	904	5	Libuše	Krainová			63	učitelka	Miroslavské Knínice	99	80	0	F
+6207	594466	1	2	903	5	Pavel	Gregor			35	zedník	Miroslavské Knínice	99	80	0	M
+6207	594466	1	3	901	5	Renata	Ryšavá			41	zdravotní sestra	Miroslavské Knínice	99	80	0	F
+6207	594466	1	4	902	5	Jiří	Souček			52	dělník	Miroslavské Knínice	99	80	0	M
+6207	594466	1	1	904	6	Miloš	Hladík			34	zámečník	Miroslavské Knínice	99	80	0	M
+6207	594466	1	2	903	6	Josef	Cekovský			38	podnikatel	Miroslavské Knínice	99	80	0	M
+6207	594466	1	3	901	6	Radka	Součková			38	mistrová	Miroslavské Knínice	99	80	0	F
+6207	594466	1	4	902	6	Věra	Cekovská			39	kadeřnice	Miroslavské Knínice	99	80	0	F
+6207	594466	1	1	904	7	Petr	Hanzel			51	živnostník	Miroslavské Knínice	99	80	0	M
+6207	594466	1	2	903	7	Zlatuše	Vyžrálková			35	nezaměstnaná	Miroslavské Knínice	99	80	0	F
+6207	594466	1	3	901	7	Milan	Kudláček			25	student	Miroslavské Knínice	99	80	0	M
+6207	594466	1	4	902	7	Pavel	Hoc			50	soukromý podnikatel	Miroslavské Knínice	99	80	0	M
+6207	594466	1	1	904	8	Peter	Heinereich			58	dělník	Miroslavské Knínice	99	80	0	M
+6207	594466	1	2	903	8	Eva	Kohoutková			33	mateřská dovolená	Miroslavské Knínice	99	80	0	F
+6207	594466	1	3	901	8	Dagmar	Příkazská	Mgr.		43	učitelka	Miroslavské Knínice	99	80	0	F
+6207	594466	1	4	902	8	Jaroslava	Klímová			57	pracovnice živočišné výroby	Miroslavské Knínice	99	80	0	F
+6207	594466	1	1	904	9	Karel	Jahn			62	dělník	Miroslavské Knínice	99	80	0	M
+6207	594466	1	2	903	9	Jana	Sobotková			39	mateřská dovolená	Miroslavské Knínice	99	80	0	F
+6207	594466	1	3	901	9	Alena	Kudláčková			26	prodavačka	Miroslavské Knínice	99	80	0	F
+6207	594466	1	4	902	9	Miroslav	Novotný			42	invalidní důchodce	Miroslavské Knínice	99	80	0	M

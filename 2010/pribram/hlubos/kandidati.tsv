@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	540242	1	1	129	1	Jiří	Prokeš	M			59	technik	Hluboš	129	129	0
-2111	540242	1	1	129	2	Vlastimil	Fiala	M			61	důchodce	Hluboš	99	129	0
-2111	540242	1	1	129	3	Jindřich	Dvořák	M	Ing.		53	technik	Hluboš	99	129	0
-2111	540242	1	1	129	4	Jiří	Čajan	M	Bc.		38	technik	Hluboš	99	129	0
-2111	540242	1	1	129	5	Pavel	Richter	M			40	truhlář	Hluboš	99	129	0
-2111	540242	1	1	129	6	Marcela	Bryndová	F			51	úředník	Hluboš	99	129	0
-2111	540242	1	1	129	7	Gabriela	Hurtová	F			36	úředník	Hluboš	99	129	0
-2111	540242	1	1	129	8	Hana	Dušková	F			60	důchodce	Hluboš	99	129	0
-2111	540242	1	1	129	9	Aleš	Zelenka	M	Bc.		45	zkuš. komisař	Kardavec	99	129	0
-2111	540242	1	2	53	1	Josef	Mašek	M			45	živnostník	Kardavec	99	53	0
-2111	540242	1	2	53	2	Lumír	Faltys	M			60	lesník	Hluboš	99	53	0
-2111	540242	1	2	53	3	František	Dědičík	M	JUDr.		37	státní zaměstnanec	Kardavec	99	53	0
-2111	540242	1	2	53	4	Pavel	Štefány	M			36	technik	Kardavec	99	53	0
-2111	540242	1	2	53	5	Dita	Vykysalová	F			38	vedoucí tiskárny	Hluboš	99	53	0
-2111	540242	1	2	53	6	Věra	Brožová	F			41	účetní	Hluboš	99	53	0
-2111	540242	1	2	53	7	Lubomír	Kočí	M			50	nástrojař	Hluboš	99	53	0
-2111	540242	1	2	53	8	Rostislav	Petřík	M	Bc.		40	státní zaměstnanec	Kardavec	99	53	0
-2111	540242	1	2	53	9	Vlastimil	Čuřín	M			53	živnostník	Kardavec	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	540242	1	1	129	1	Jiří	Prokeš			59	technik	Hluboš	129	129	0	M
+2111	540242	1	2	53	1	Josef	Mašek			45	živnostník	Kardavec	99	53	0	M
+2111	540242	1	1	129	2	Vlastimil	Fiala			61	důchodce	Hluboš	99	129	0	M
+2111	540242	1	2	53	2	Lumír	Faltys			60	lesník	Hluboš	99	53	0	M
+2111	540242	1	1	129	3	Jindřich	Dvořák	Ing.		53	technik	Hluboš	99	129	0	M
+2111	540242	1	2	53	3	František	Dědičík	JUDr.		37	státní zaměstnanec	Kardavec	99	53	0	M
+2111	540242	1	1	129	4	Jiří	Čajan	Bc.		38	technik	Hluboš	99	129	0	M
+2111	540242	1	2	53	4	Pavel	Štefány			36	technik	Kardavec	99	53	0	M
+2111	540242	1	1	129	5	Pavel	Richter			40	truhlář	Hluboš	99	129	0	M
+2111	540242	1	2	53	5	Dita	Vykysalová			38	vedoucí tiskárny	Hluboš	99	53	0	F
+2111	540242	1	1	129	6	Marcela	Bryndová			51	úředník	Hluboš	99	129	0	F
+2111	540242	1	2	53	6	Věra	Brožová			41	účetní	Hluboš	99	53	0	F
+2111	540242	1	1	129	7	Gabriela	Hurtová			36	úředník	Hluboš	99	129	0	F
+2111	540242	1	2	53	7	Lubomír	Kočí			50	nástrojař	Hluboš	99	53	0	M
+2111	540242	1	1	129	8	Hana	Dušková			60	důchodce	Hluboš	99	129	0	F
+2111	540242	1	2	53	8	Rostislav	Petřík	Bc.		40	státní zaměstnanec	Kardavec	99	53	0	M
+2111	540242	1	1	129	9	Aleš	Zelenka	Bc.		45	zkuš. komisař	Kardavec	99	129	0	M
+2111	540242	1	2	53	9	Vlastimil	Čuřín			53	živnostník	Kardavec	99	53	0	M

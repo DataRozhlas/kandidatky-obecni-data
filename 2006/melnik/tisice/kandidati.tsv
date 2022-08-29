@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2106	535222	1	1	901	1	Olga	Janoušková	F	PhDr.		44	realitní makléř	Chrást	99	80	0
-2106	535222	1	1	901	2	Jana	Čemusová	F	Ing.		45	analytik informačních systémů	Chrást	99	80	0
-2106	535222	1	1	901	3	Radka	Staňková	F	Ing.		36	analytik	Chrást	99	80	0
-2106	535222	1	1	901	4	Lenka	Duchoslavová	F			31	účetní	Kozly	99	80	0
-2106	535222	1	1	901	5	Pavel	Veselý	M			51	soukromý podnikatel	Kozly	99	80	0
-2106	535222	1	1	901	6	Pavel	Jelínek	M	Mgr.		28	učitel	Chrást	99	80	0
-2106	535222	1	1	901	7	Alena	Palicová	F			51	úřednice	Chrást	99	80	0
-2106	535222	1	1	901	8	Pavel	Rejnart	M			29	projektant	Tišice	99	80	0
-2106	535222	1	1	901	9	Stanislava	Stibingerová Herálecká	F			53	pojišťovací poradce	Tišice	99	80	0
-2106	535222	1	1	901	10	Ivan	Bruner	M			41	obchodní manažer	Chrást	99	80	0
-2106	535222	1	1	901	11	Vladimíra	Luňáková	F			44	učitelka	Kozly	99	80	0
-2106	535222	1	2	7	1	Miroslav	Brodský	M			64	starosta	Tišice-Chrást	99	7	0
-2106	535222	1	2	7	2	Václav	Uher	M			68	zastupitel Středočeského kraje	Tišice-Kozly	7	7	0
-2106	535222	1	2	7	3	Bohuslav	Štolba	M	Ing.		54	místostarosta	Tišice	7	7	0
-2106	535222	1	2	7	4	Věra	Hovorková	F			52	podnikatelka	Tišice	99	7	0
-2106	535222	1	2	7	5	František	Staněk	M			43	technik	Tišice-Chrást	99	7	0
-2106	535222	1	2	7	6	Bohuslav	Růžička	M	Dr.		53	podnikatel	Tišice-Chrást	99	7	0
-2106	535222	1	2	7	7	Pavel	Končel	M			32	technik	Tišice-Chrást	7	7	0
-2106	535222	1	2	7	8	Jiří	Horčík	M			52	podnikatel	Tišice	99	7	0
-2106	535222	1	2	7	9	Jan	Vacek	M			30	technik	Tišice-Kozly	7	7	0
-2106	535222	1	2	7	10	Tomáš	Uher	M			36	technik	Tišice	99	7	0
-2106	535222	1	2	7	11	Petr	Váša	M			29	státní zaměstnanec	Tišice	99	7	0
-2106	535222	1	3	47	1	Zdeněk	Hynek	M	Mgr.		60	podnikatel	Chrást	47	47	0
-2106	535222	1	3	47	2	Václav	Vejman	M			56	strojvedoucí	Chrást	47	47	0
-2106	535222	1	3	47	3	Karel	Pazdera	M	Ing.		57	vedoucí střediska	Tišice-Kozly	47	47	0
-2106	535222	1	3	47	4	Jaroslav	Černý	M			72	nástrojař	Kozly	47	47	0
-2106	535222	1	3	47	5	Jan	Fait	M			64	zámečník	Chrást	99	47	0
-2106	535222	1	3	47	6	Zdeněk	Zvelebil	M			38	topič	Chrást	47	47	0
-2106	535222	1	3	47	7	Jarmila	Kőppelová	F			61	výpravčí	Tišice-Kozly	99	47	0
-2106	535222	1	3	47	8	Miloslav	Soukup	M			57	strojník	Kozly	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2106	535222	1	1	901	1	Olga	Janoušková	PhDr.		44	realitní makléř	Chrást	99	80	0	F
+2106	535222	1	2	7	1	Miroslav	Brodský			64	starosta	Tišice-Chrást	99	7	0	M
+2106	535222	1	3	47	1	Zdeněk	Hynek	Mgr.		60	podnikatel	Chrást	47	47	0	M
+2106	535222	1	1	901	2	Jana	Čemusová	Ing.		45	analytik informačních systémů	Chrást	99	80	0	F
+2106	535222	1	2	7	2	Václav	Uher			68	zastupitel Středočeského kraje	Tišice-Kozly	7	7	0	M
+2106	535222	1	3	47	2	Václav	Vejman			56	strojvedoucí	Chrást	47	47	0	M
+2106	535222	1	1	901	3	Radka	Staňková	Ing.		36	analytik	Chrást	99	80	0	F
+2106	535222	1	2	7	3	Bohuslav	Štolba	Ing.		54	místostarosta	Tišice	7	7	0	M
+2106	535222	1	3	47	3	Karel	Pazdera	Ing.		57	vedoucí střediska	Tišice-Kozly	47	47	0	M
+2106	535222	1	1	901	4	Lenka	Duchoslavová			31	účetní	Kozly	99	80	0	F
+2106	535222	1	2	7	4	Věra	Hovorková			52	podnikatelka	Tišice	99	7	0	F
+2106	535222	1	3	47	4	Jaroslav	Černý			72	nástrojař	Kozly	47	47	0	M
+2106	535222	1	1	901	5	Pavel	Veselý			51	soukromý podnikatel	Kozly	99	80	0	M
+2106	535222	1	2	7	5	František	Staněk			43	technik	Tišice-Chrást	99	7	0	M
+2106	535222	1	3	47	5	Jan	Fait			64	zámečník	Chrást	99	47	0	M
+2106	535222	1	1	901	6	Pavel	Jelínek	Mgr.		28	učitel	Chrást	99	80	0	M
+2106	535222	1	2	7	6	Bohuslav	Růžička	Dr.		53	podnikatel	Tišice-Chrást	99	7	0	M
+2106	535222	1	3	47	6	Zdeněk	Zvelebil			38	topič	Chrást	47	47	0	M
+2106	535222	1	1	901	7	Alena	Palicová			51	úřednice	Chrást	99	80	0	F
+2106	535222	1	2	7	7	Pavel	Končel			32	technik	Tišice-Chrást	7	7	0	M
+2106	535222	1	3	47	7	Jarmila	Kőppelová			61	výpravčí	Tišice-Kozly	99	47	0	F
+2106	535222	1	1	901	8	Pavel	Rejnart			29	projektant	Tišice	99	80	0	M
+2106	535222	1	2	7	8	Jiří	Horčík			52	podnikatel	Tišice	99	7	0	M
+2106	535222	1	3	47	8	Miloslav	Soukup			57	strojník	Kozly	47	47	0	M
+2106	535222	1	1	901	9	Stanislava	Stibingerová Herálecká			53	pojišťovací poradce	Tišice	99	80	0	F
+2106	535222	1	2	7	9	Jan	Vacek			30	technik	Tišice-Kozly	7	7	0	M
+2106	535222	1	1	901	10	Ivan	Bruner			41	obchodní manažer	Chrást	99	80	0	M
+2106	535222	1	2	7	10	Tomáš	Uher			36	technik	Tišice	99	7	0	M
+2106	535222	1	1	901	11	Vladimíra	Luňáková			44	učitelka	Kozly	99	80	0	F
+2106	535222	1	2	7	11	Petr	Váša			29	státní zaměstnanec	Tišice	99	7	0	M

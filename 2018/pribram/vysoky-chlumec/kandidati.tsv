@@ -1,36 +1,36 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	541591	1	1	470	1	Jiří	Svatek	M			35	pracovník informačního centra	Víska	99	166	A
-2111	541591	1	1	470	2	Stanislav	Doležal	M			49	elektromechanik	Vápenice	99	166	A
-2111	541591	1	1	470	3	Ivana	Slavková	F	Ing. arch.		44	architekt	Vysoký Chlumec	99	166	A
-2111	541591	1	1	470	4	Jaroslav	Nevlida	M			37	sklepmistr	Vysoký Chlumec	99	166	A
-2111	541591	1	1	470	5	Jiří	Triner	M			36	automechanik	Pořešice	99	166	A
-2111	541591	1	1	470	6	Blanka	Sirotková	F			39	cukrářka	Hrabří	99	166	A
-2111	541591	1	1	470	7	Zuzana	Dvořáková	F	Ing.		33	projektový manažer odpadového hospodářství	Víska	99	166	A
-2111	541591	1	1	470	8	Marcela	Lišmanová	F			49	kuchařka školní jídelny	Vysoký Chlumec	99	166	A
-2111	541591	1	1	470	9	Hana	Podlipská	F			61	majitelka Staré hospody	Vysoký Chlumec	7	80	A
-2111	541591	1	2	902	1	Luboš	Hlaváček	M			51	podnikatel	Vysoký Chlumec	99	80	A
-2111	541591	1	2	902	2	Libor	Podlaha	M			35	policista	Vysoký Chlumec	99	80	A
-2111	541591	1	2	902	3	Vladimír	Houska	M			49	stavbyvedoucí	Hrabří	99	80	A
-2111	541591	1	2	902	4	Milan	Dvořák	M			42	podnikatel	Víska	99	80	A
-2111	541591	1	2	902	5	Jan	Hron	M			41	řidič	Hradce	99	80	A
-2111	541591	1	2	902	6	Pavel	Kortan	M			59	správce	Vysoký Chlumec	99	80	A
-2111	541591	1	2	902	7	Pavel	Martina	M			36	podnikatel	Pořešice	99	80	A
-2111	541591	1	2	902	8	Jan	Kubišta	M			45	topič	Vysoký Chlumec	99	80	A
-2111	541591	1	2	902	9	Tomáš	Procházka	M			46	oblastní vedoucí	Pořešice	99	80	A
-2111	541591	1	3	1	1	Markéta	Jarešová	F	Mgr.		37	učitelka	Vysoký Chlumec	99	1	A
-2111	541591	1	3	1	2	Šárka	Housková	F	RNDr.		36	učitelka	Hrabří	99	1	A
-2111	541591	1	3	1	3	Jiří	Čanda	M	Ing.		33	specialista jakosti dodavatelů	Hrabří	99	1	A
-2111	541591	1	3	1	4	Miroslav	Chlasták	M	Ing.		29	technik ve výrobě	Hrabří	99	1	A
-2111	541591	1	3	1	5	Pavel	Sirotek	M			50	zootechnik	Hrabří	99	1	A
-2111	541591	1	3	1	6	Veronika	Šmejkalová	F			34	dětská zdravotní sestra	Hrabří	99	1	A
-2111	541591	1	3	1	7	Lukáš	Houska	M	Ing.		39	technik ve dřevovýrobě	Hrabří	99	1	A
-2111	541591	1	3	1	8	Jan	Pšenička	M			52	řidič	Hrabří	99	1	A
-2111	541591	1	3	1	9	Jan	Hradil	M			46	elektrikář	Hrabří	99	1	A
-2111	541591	1	4	901	1	Pavlína	Kožmínová	F			47	prodavačka	Vysoký Chlumec	99	80	A
-2111	541591	1	4	901	2	Petr	Tůma	M			43	OSVČ	Vysoký Chlumec	99	80	A
-2111	541591	1	4	901	3	Libor	Nulíček	M			52	OSVČ	Víska	99	80	A
-2111	541591	1	4	901	4	Jaroslav	Šťastný	M			33	OSVČ	Víska	99	80	A
-2111	541591	1	4	901	5	Renata	Matuchová	F			43	sociální pracovnice	Pořešice	99	80	A
-2111	541591	1	4	901	6	Radka	Jirsová	F			43	poštovní doručovatelka	Vysoký Chlumec	99	80	A
-2111	541591	1	4	901	7	Alena	Michálková	F			43	OSVČ	Vápenice	99	80	A
-2111	541591	1	4	901	8	Eva	Tůmová	F			38	školnice	Vysoký Chlumec	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	541591	1	1	470	1	Jiří	Svatek			35	pracovník informačního centra	Víska	99	166	A	M
+2111	541591	1	2	902	1	Luboš	Hlaváček			51	podnikatel	Vysoký Chlumec	99	80	A	M
+2111	541591	1	3	1	1	Markéta	Jarešová	Mgr.		37	učitelka	Vysoký Chlumec	99	1	A	F
+2111	541591	1	4	901	1	Pavlína	Kožmínová			47	prodavačka	Vysoký Chlumec	99	80	A	F
+2111	541591	1	1	470	2	Stanislav	Doležal			49	elektromechanik	Vápenice	99	166	A	M
+2111	541591	1	2	902	2	Libor	Podlaha			35	policista	Vysoký Chlumec	99	80	A	M
+2111	541591	1	3	1	2	Šárka	Housková	RNDr.		36	učitelka	Hrabří	99	1	A	F
+2111	541591	1	4	901	2	Petr	Tůma			43	OSVČ	Vysoký Chlumec	99	80	A	M
+2111	541591	1	1	470	3	Ivana	Slavková	Ing. arch.		44	architekt	Vysoký Chlumec	99	166	A	F
+2111	541591	1	2	902	3	Vladimír	Houska			49	stavbyvedoucí	Hrabří	99	80	A	M
+2111	541591	1	3	1	3	Jiří	Čanda	Ing.		33	specialista jakosti dodavatelů	Hrabří	99	1	A	M
+2111	541591	1	4	901	3	Libor	Nulíček			52	OSVČ	Víska	99	80	A	M
+2111	541591	1	1	470	4	Jaroslav	Nevlida			37	sklepmistr	Vysoký Chlumec	99	166	A	M
+2111	541591	1	2	902	4	Milan	Dvořák			42	podnikatel	Víska	99	80	A	M
+2111	541591	1	3	1	4	Miroslav	Chlasták	Ing.		29	technik ve výrobě	Hrabří	99	1	A	M
+2111	541591	1	4	901	4	Jaroslav	Šťastný			33	OSVČ	Víska	99	80	A	M
+2111	541591	1	1	470	5	Jiří	Triner			36	automechanik	Pořešice	99	166	A	M
+2111	541591	1	2	902	5	Jan	Hron			41	řidič	Hradce	99	80	A	M
+2111	541591	1	3	1	5	Pavel	Sirotek			50	zootechnik	Hrabří	99	1	A	M
+2111	541591	1	4	901	5	Renata	Matuchová			43	sociální pracovnice	Pořešice	99	80	A	F
+2111	541591	1	1	470	6	Blanka	Sirotková			39	cukrářka	Hrabří	99	166	A	F
+2111	541591	1	2	902	6	Pavel	Kortan			59	správce	Vysoký Chlumec	99	80	A	M
+2111	541591	1	3	1	6	Veronika	Šmejkalová			34	dětská zdravotní sestra	Hrabří	99	1	A	F
+2111	541591	1	4	901	6	Radka	Jirsová			43	poštovní doručovatelka	Vysoký Chlumec	99	80	A	F
+2111	541591	1	1	470	7	Zuzana	Dvořáková	Ing.		33	projektový manažer odpadového hospodářství	Víska	99	166	A	F
+2111	541591	1	2	902	7	Pavel	Martina			36	podnikatel	Pořešice	99	80	A	M
+2111	541591	1	3	1	7	Lukáš	Houska	Ing.		39	technik ve dřevovýrobě	Hrabří	99	1	A	M
+2111	541591	1	4	901	7	Alena	Michálková			43	OSVČ	Vápenice	99	80	A	F
+2111	541591	1	1	470	8	Marcela	Lišmanová			49	kuchařka školní jídelny	Vysoký Chlumec	99	166	A	F
+2111	541591	1	2	902	8	Jan	Kubišta			45	topič	Vysoký Chlumec	99	80	A	M
+2111	541591	1	3	1	8	Jan	Pšenička			52	řidič	Hrabří	99	1	A	M
+2111	541591	1	4	901	8	Eva	Tůmová			38	školnice	Vysoký Chlumec	99	80	A	F
+2111	541591	1	1	470	9	Hana	Podlipská			61	majitelka Staré hospody	Vysoký Chlumec	7	80	A	F
+2111	541591	1	2	902	9	Tomáš	Procházka			46	oblastní vedoucí	Pořešice	99	80	A	M
+2111	541591	1	3	1	9	Jan	Hradil			46	elektrikář	Hrabří	99	1	A	M

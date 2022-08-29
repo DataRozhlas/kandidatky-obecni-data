@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	508128	1	1	902	1	Tomáš	Kozák	M			29	OSVČ	Markvartovice	99	80	0
-8105	508128	1	1	902	2	Petr	Glogar	M			33	řidič	Markvartovice	99	80	0
-8105	508128	1	1	902	3	Pavel	Vojáček	M	Ing.		42	výrobní ředitel	Markvartovice	99	80	0
-8105	508128	1	1	902	4	Jan	Stuchlík	M	Ing.		29	geofyzik operátor	Markvartovice	99	80	0
-8105	508128	1	1	902	5	Martin	Menšík	M			41	technický konzultant	Markvartovice	99	80	0
-8105	508128	1	1	902	6	Marián	Poledník	M	Bc.		22	student	Markvartovice	99	80	0
-8105	508128	1	1	902	7	Radim	Kučera	M			39	obchodní zástupce	Markvartovice	99	80	0
-8105	508128	1	1	902	8	Jiří	Janoš	M			53	OSVČ	Markvartovice	99	80	0
-8105	508128	1	1	902	9	Jaromír	Bohačík	M			51	vedoucí pracovní skupiny	Markvartovice	99	80	0
-8105	508128	1	1	902	10	Karin	Šimíčková	F	Ing.		33	projektový manažer	Markvartovice	99	80	0
-8105	508128	1	1	902	11	Otto	Hahn	M			41	revizní technik	Markvartovice	99	80	0
-8105	508128	1	1	902	12	Miroslav	Smolka	M			55	podnikatel	Markvartovice	99	80	0
-8105	508128	1	1	902	13	Karel	Cigan	M			37	zedník	Markvartovice	99	80	0
-8105	508128	1	1	902	14	Petra	Janošová	F	Ing.		33	asistentka ředitele	Markvartovice	99	80	0
-8105	508128	1	1	902	15	Ladislav	Kozák	M			56	řidič	Markvartovice	99	80	0
-8105	508128	1	2	901	1	Pavel	Myslivec	M	Ing.		57	technik	Markvartovice	99	80	0
-8105	508128	1	2	901	2	Pavel	Merta	M	Ing.		38	geolog	Markvartovice	99	80	0
-8105	508128	1	2	901	3	Drahomíra	Robenková	F	Ing.		56	OSVČ	Markvartovice	99	80	0
-8105	508128	1	2	901	4	Zuzana	Pistovčáková	F			46	zdravotní sestra	Markvartovice	99	80	0
-8105	508128	1	2	901	5	Šárka	Kubišová	F	Mgr.		51	ředitelka ZŠ	Markvartovice	99	80	0
-8105	508128	1	2	901	6	Arnošt	Plaček	M			59	technik	Markvartovice	99	80	0
-8105	508128	1	2	901	7	Martin	Ohrzal	M			34	profesionální hasič	Markvartovice	99	80	0
-8105	508128	1	2	901	8	Kateřina	Tesařová	F	Ing.		36	personalistka	Markvartovice	99	80	0
-8105	508128	1	2	901	9	Tomáš	Halfar	M			38	OSVČ	Markvartovice	99	80	0
-8105	508128	1	2	901	10	Petr	Martinek	M			50	technik	Markvartovice	99	80	0
-8105	508128	1	2	901	11	Jitka	Relligová	F			50	ekonom	Markvartovice	99	80	0
-8105	508128	1	2	901	12	Lukáš	Václavčík	M			34	OSVČ	Markvartovice	99	80	0
-8105	508128	1	2	901	13	Libor	Rostek	M	Ing.		42	IT specialista	Markvartovice	99	80	0
-8105	508128	1	2	901	14	Lydie	Šipulová	F			66	důchodce	Markvartovice	99	80	0
-8105	508128	1	2	901	15	Krista	Glacová	F			64	důchodce	Markvartovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	508128	1	1	902	1	Tomáš	Kozák			29	OSVČ	Markvartovice	99	80	0	M
+8105	508128	1	2	901	1	Pavel	Myslivec	Ing.		57	technik	Markvartovice	99	80	0	M
+8105	508128	1	1	902	2	Petr	Glogar			33	řidič	Markvartovice	99	80	0	M
+8105	508128	1	2	901	2	Pavel	Merta	Ing.		38	geolog	Markvartovice	99	80	0	M
+8105	508128	1	1	902	3	Pavel	Vojáček	Ing.		42	výrobní ředitel	Markvartovice	99	80	0	M
+8105	508128	1	2	901	3	Drahomíra	Robenková	Ing.		56	OSVČ	Markvartovice	99	80	0	F
+8105	508128	1	1	902	4	Jan	Stuchlík	Ing.		29	geofyzik operátor	Markvartovice	99	80	0	M
+8105	508128	1	2	901	4	Zuzana	Pistovčáková			46	zdravotní sestra	Markvartovice	99	80	0	F
+8105	508128	1	1	902	5	Martin	Menšík			41	technický konzultant	Markvartovice	99	80	0	M
+8105	508128	1	2	901	5	Šárka	Kubišová	Mgr.		51	ředitelka ZŠ	Markvartovice	99	80	0	F
+8105	508128	1	1	902	6	Marián	Poledník	Bc.		22	student	Markvartovice	99	80	0	M
+8105	508128	1	2	901	6	Arnošt	Plaček			59	technik	Markvartovice	99	80	0	M
+8105	508128	1	1	902	7	Radim	Kučera			39	obchodní zástupce	Markvartovice	99	80	0	M
+8105	508128	1	2	901	7	Martin	Ohrzal			34	profesionální hasič	Markvartovice	99	80	0	M
+8105	508128	1	1	902	8	Jiří	Janoš			53	OSVČ	Markvartovice	99	80	0	M
+8105	508128	1	2	901	8	Kateřina	Tesařová	Ing.		36	personalistka	Markvartovice	99	80	0	F
+8105	508128	1	1	902	9	Jaromír	Bohačík			51	vedoucí pracovní skupiny	Markvartovice	99	80	0	M
+8105	508128	1	2	901	9	Tomáš	Halfar			38	OSVČ	Markvartovice	99	80	0	M
+8105	508128	1	1	902	10	Karin	Šimíčková	Ing.		33	projektový manažer	Markvartovice	99	80	0	F
+8105	508128	1	2	901	10	Petr	Martinek			50	technik	Markvartovice	99	80	0	M
+8105	508128	1	1	902	11	Otto	Hahn			41	revizní technik	Markvartovice	99	80	0	M
+8105	508128	1	2	901	11	Jitka	Relligová			50	ekonom	Markvartovice	99	80	0	F
+8105	508128	1	1	902	12	Miroslav	Smolka			55	podnikatel	Markvartovice	99	80	0	M
+8105	508128	1	2	901	12	Lukáš	Václavčík			34	OSVČ	Markvartovice	99	80	0	M
+8105	508128	1	1	902	13	Karel	Cigan			37	zedník	Markvartovice	99	80	0	M
+8105	508128	1	2	901	13	Libor	Rostek	Ing.		42	IT specialista	Markvartovice	99	80	0	M
+8105	508128	1	1	902	14	Petra	Janošová	Ing.		33	asistentka ředitele	Markvartovice	99	80	0	F
+8105	508128	1	2	901	14	Lydie	Šipulová			66	důchodce	Markvartovice	99	80	0	F
+8105	508128	1	1	902	15	Ladislav	Kozák			56	řidič	Markvartovice	99	80	0	M
+8105	508128	1	2	901	15	Krista	Glacová			64	důchodce	Markvartovice	99	80	0	F

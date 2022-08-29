@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	595501	1	1	801	1	Ladislav	Pelánek	M			53	vedoucí provozu	Dolní Heřmanice	99	80	0
-6105	595501	1	2	901	1	Kamil	Krejčí	M	Ing.		30	obchodní referent	Dolní Heřmanice	53	80	0
-6105	595501	1	2	901	2	Miloš	Bednář	M			30	dělník	Dolní Heřmanice	99	80	0
-6105	595501	1	2	901	3	Martin	Vala	M			31	řidič	Dolní Heřmanice	99	80	0
-6105	595501	1	2	901	4	Vladimír	Barták	M			33	automechanik	Dolní Heřmanice	99	80	0
-6105	595501	1	2	901	5	Jiří	Prokeš	M			22	student	Oslava	99	80	0
-6105	595501	1	3	902	1	Jiří	Bednář	M			26	OSVČ-tesař	Dolní Heřmanice	99	80	0
-6105	595501	1	3	902	2	Luboš	Polák	M			33	dělník	Dolní Heřmanice	99	80	0
-6105	595501	1	3	902	3	Nikola	Kříž	F			32	manažer	Dolní Heřmanice	99	80	0
-6105	595501	1	3	902	4	Michal	Martinec	M			21	traktorista	Dolní Heřmanice	99	80	0
-6105	595501	1	3	902	5	Zbyněk	Paták	M			35	bagrista	Dolní Heřmanice	99	80	0
-6105	595501	1	4	903	1	Josef	Prudík	M			48	starosta	Dolní Heřmanice	53	80	0
-6105	595501	1	4	903	2	Marie	Jaseňáková	F			55	kuchařka	Dolní Heřmanice	53	80	0
-6105	595501	1	4	903	3	Eva	Ondráčková	F			43	manažer	Dolní Heřmanice	99	80	0
-6105	595501	1	4	903	4	Věra	Bednářová	F			55	dělnice	Dolní Heřmanice	99	80	0
-6105	595501	1	4	903	5	Blanka	Němcová	F			43	aranžerka	Dolní Heřmanice	99	80	0
-6105	595501	1	4	903	6	Luboš	Mucha	M			42	dělník	Oslava	99	80	0
-6105	595501	1	4	903	7	Ladislav	Prudík	M			44	dělník	Dolní Heřmanice	99	80	0
-6105	595501	1	4	903	8	Jaroslav	Krejčí	M			53	mistr	Dolní Heřmanice	99	80	0
-6105	595501	1	4	903	9	Irena	Martincová	F	Mgr.		43	učitelka	Dolní Heřmanice	99	80	0
-6105	595501	1	5	802	1	Miloslav	Tichý	M			50	řidič	Dolní Heřmanice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	595501	1	1	801	1	Ladislav	Pelánek			53	vedoucí provozu	Dolní Heřmanice	99	80	0	M
+6105	595501	1	2	901	1	Kamil	Krejčí	Ing.		30	obchodní referent	Dolní Heřmanice	53	80	0	M
+6105	595501	1	3	902	1	Jiří	Bednář			26	OSVČ-tesař	Dolní Heřmanice	99	80	0	M
+6105	595501	1	4	903	1	Josef	Prudík			48	starosta	Dolní Heřmanice	53	80	0	M
+6105	595501	1	5	802	1	Miloslav	Tichý			50	řidič	Dolní Heřmanice	99	80	0	M
+6105	595501	1	2	901	2	Miloš	Bednář			30	dělník	Dolní Heřmanice	99	80	0	M
+6105	595501	1	3	902	2	Luboš	Polák			33	dělník	Dolní Heřmanice	99	80	0	M
+6105	595501	1	4	903	2	Marie	Jaseňáková			55	kuchařka	Dolní Heřmanice	53	80	0	F
+6105	595501	1	2	901	3	Martin	Vala			31	řidič	Dolní Heřmanice	99	80	0	M
+6105	595501	1	3	902	3	Nikola	Kříž			32	manažer	Dolní Heřmanice	99	80	0	F
+6105	595501	1	4	903	3	Eva	Ondráčková			43	manažer	Dolní Heřmanice	99	80	0	F
+6105	595501	1	2	901	4	Vladimír	Barták			33	automechanik	Dolní Heřmanice	99	80	0	M
+6105	595501	1	3	902	4	Michal	Martinec			21	traktorista	Dolní Heřmanice	99	80	0	M
+6105	595501	1	4	903	4	Věra	Bednářová			55	dělnice	Dolní Heřmanice	99	80	0	F
+6105	595501	1	2	901	5	Jiří	Prokeš			22	student	Oslava	99	80	0	M
+6105	595501	1	3	902	5	Zbyněk	Paták			35	bagrista	Dolní Heřmanice	99	80	0	M
+6105	595501	1	4	903	5	Blanka	Němcová			43	aranžerka	Dolní Heřmanice	99	80	0	F
+6105	595501	1	4	903	6	Luboš	Mucha			42	dělník	Oslava	99	80	0	M
+6105	595501	1	4	903	7	Ladislav	Prudík			44	dělník	Dolní Heřmanice	99	80	0	M
+6105	595501	1	4	903	8	Jaroslav	Krejčí			53	mistr	Dolní Heřmanice	99	80	0	M
+6105	595501	1	4	903	9	Irena	Martincová	Mgr.		43	učitelka	Dolní Heřmanice	99	80	0	F

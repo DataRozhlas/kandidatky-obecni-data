@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	569682	1	1	802	1	Josef	Kubát	M			55	geodet	Veselý Žďár	99	80	0
-6101	569682	1	2	801	1	Martin	Suchý	M			37	výsluha MVČR	Veselý Žďár	99	80	0
-6101	569682	1	3	901	1	Josef	Zadina	M	Ing.		60	ředitel OSSZ Havlíčkův Brod	Veselý Žďár	99	80	0
-6101	569682	1	3	901	2	Jana	Šejnostová	F			58	důchodce	Veselý Žďár	99	80	0
-6101	569682	1	3	901	3	Atila	Koncz	M			21	student	Veselý Žďár	99	80	0
-6101	569682	1	3	901	4	Jan	Panský	M	Ing.		39	inspektor ČIŽP	Veselý Žďár	99	80	0
-6101	569682	1	3	901	5	František	Blažek	M			50	technik AGRO Posázaví	Veselý Žďár	99	80	0
-6101	569682	1	3	901	6	Karel	Palán	M			37	kuchař	Veselý Žďár	99	80	0
-6101	569682	1	3	901	7	Miloslav	Korejtko	M			36	soukromý podnikatel	Veselý Žďár	99	80	0
-6101	569682	1	3	901	8	Miloslav	Endrle	M			54	spojový mechanik	Veselý Žďár	99	80	0
-6101	569682	1	3	901	9	Iva	Červená	F			39	dětská zdravotní sestra	Veselý Žďár	99	80	0
-6101	569682	1	4	803	1	Martin	Tonar	M	Ing.		38	vedoucí prodejny	Veselý Žďár	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	569682	1	1	802	1	Josef	Kubát			55	geodet	Veselý Žďár	99	80	0	M
+6101	569682	1	2	801	1	Martin	Suchý			37	výsluha MVČR	Veselý Žďár	99	80	0	M
+6101	569682	1	3	901	1	Josef	Zadina	Ing.		60	ředitel OSSZ Havlíčkův Brod	Veselý Žďár	99	80	0	M
+6101	569682	1	4	803	1	Martin	Tonar	Ing.		38	vedoucí prodejny	Veselý Žďár	99	80	0	M
+6101	569682	1	3	901	2	Jana	Šejnostová			58	důchodce	Veselý Žďár	99	80	0	F
+6101	569682	1	3	901	3	Atila	Koncz			21	student	Veselý Žďár	99	80	0	M
+6101	569682	1	3	901	4	Jan	Panský	Ing.		39	inspektor ČIŽP	Veselý Žďár	99	80	0	M
+6101	569682	1	3	901	5	František	Blažek			50	technik AGRO Posázaví	Veselý Žďár	99	80	0	M
+6101	569682	1	3	901	6	Karel	Palán			37	kuchař	Veselý Žďár	99	80	0	M
+6101	569682	1	3	901	7	Miloslav	Korejtko			36	soukromý podnikatel	Veselý Žďár	99	80	0	M
+6101	569682	1	3	901	8	Miloslav	Endrle			54	spojový mechanik	Veselý Žďár	99	80	0	M
+6101	569682	1	3	901	9	Iva	Červená			39	dětská zdravotní sestra	Veselý Žďár	99	80	0	F

@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8106	554324	1	1	53	1	Josef	Šrámek	M			62	starosta	Lhotka	53	53	A
-8106	554324	1	1	53	2	Pavel	Řeha	M			40	jednatel	Lhotka	53	53	A
-8106	554324	1	1	53	3	Dagmar	Zemková	F	Ing.		50	bankovní úředník	Lhotka	99	53	A
-8106	554324	1	1	53	4	Pavel	Milota	M	Ing.		55	soukromý podnikatel	Lhotka	53	53	A
-8106	554324	1	1	53	5	Sylva	Kazárová	F	Ing.		43	vedoucí certifikačního orgánu	Lhotka	99	53	A
-8106	554324	1	1	53	6	Miroslav	Glumbík	M	Ing.		64	důchodce	Lhotka	99	53	A
-8106	554324	1	1	53	7	Lucie	Vozná	F	Mgr.		44	učitelka ZŠ	Lhotka	99	53	A
-8106	554324	1	1	53	8	Vilém	Antončík	M	Mgr.		48	soukromý podnikatel	Lhotka	53	53	A
-8106	554324	1	1	53	9	Aleš	Gavenda	M	RNDr.	Ph.D.	41	ředitel	Lhotka	99	53	A
-8106	554324	1	1	53	10	Elen	Wilkusová	F	Ing.		44	ekonom	Lhotka	53	53	A
-8106	554324	1	1	53	11	Filip	Horák	M	MUDr.		52	soukromý podnikatel	Lhotka	99	53	A
-8106	554324	1	1	53	12	David	Lysoněk	M	Ing.		44	ekonom	Lhotka	99	53	A
-8106	554324	1	1	53	13	Daniel	Rygel	M			38	úředník	Lhotka	99	53	A
-8106	554324	1	1	53	14	Petr	Kopec	M	Ing.		55	jednatel	Lhotka	53	53	A
-8106	554324	1	1	53	15	Ladislav	Kaštovský	M			66	důchodce	Lhotka	99	53	A
-8106	554324	1	2	7	1	Michael	Viščor	M	Ing.		44	OSVČ, radní Městského obvodu Lhotka	Lhotka	7	7	A
-8106	554324	1	2	7	2	Lucie	Swierczek Sedlářová	F			29	referent informačních služeb	Lhotka	99	7	A
-8106	554324	1	2	7	3	Drahoslav	Handlíř	M	Ing.		45	technik	Lhotka	99	7	A
-8106	554324	1	2	7	4	Zuzana	Šajtarová	F	Ing.		35	projektová referentka	Lhotka	7	7	A
-8106	554324	1	2	7	5	Josef	Sedlář	M			61	pracovník krajského úřadu	Lhotka	7	7	A
-8106	554324	1	2	7	6	Barbora	Černotová	F			45	mistrová úklidu	Lhotka	99	7	A
-8106	554324	1	2	7	7	Marcela	Klimková	F			42	officer facility management	Lhotka	7	7	A
-8106	554324	1	2	7	8	Renáta	Rykalová	F	Ing.		36	specialista vodního hospodářství	Lhotka	7	7	A
-8106	554324	1	2	7	9	Lenka	Vajtrová	F			45	account manager	Lhotka	99	7	A
-8106	554324	1	2	7	10	Hana	Janevová	F	Bc.		31	učitelka mateřské školy	Lhotka	99	7	A
-8106	554324	1	2	7	11	Barbora	Charitonidu	F			36	v domácnosti	Lhotka	99	7	A
-8106	554324	1	2	7	12	Martin	Wrobel	M			44	strojník	Lhotka	99	7	A
-8106	554324	1	2	7	13	Richard	Pělucha	M	Ing.		28	technolog v metalurgii	Lhotka	99	7	A
-8106	554324	1	2	7	14	Reinhold	Raczek	M			79	důchodce	Lhotka	7	7	A
-8106	554324	1	2	7	15	Vladimír	Pachota	M			69	důchodce	Lhotka	99	7	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8106	554324	1	1	53	1	Josef	Šrámek			62	starosta	Lhotka	53	53	A	M
+8106	554324	1	2	7	1	Michael	Viščor	Ing.		44	OSVČ, radní Městského obvodu Lhotka	Lhotka	7	7	A	M
+8106	554324	1	1	53	2	Pavel	Řeha			40	jednatel	Lhotka	53	53	A	M
+8106	554324	1	2	7	2	Lucie	Swierczek Sedlářová			29	referent informačních služeb	Lhotka	99	7	A	F
+8106	554324	1	1	53	3	Dagmar	Zemková	Ing.		50	bankovní úředník	Lhotka	99	53	A	F
+8106	554324	1	2	7	3	Drahoslav	Handlíř	Ing.		45	technik	Lhotka	99	7	A	M
+8106	554324	1	1	53	4	Pavel	Milota	Ing.		55	soukromý podnikatel	Lhotka	53	53	A	M
+8106	554324	1	2	7	4	Zuzana	Šajtarová	Ing.		35	projektová referentka	Lhotka	7	7	A	F
+8106	554324	1	1	53	5	Sylva	Kazárová	Ing.		43	vedoucí certifikačního orgánu	Lhotka	99	53	A	F
+8106	554324	1	2	7	5	Josef	Sedlář			61	pracovník krajského úřadu	Lhotka	7	7	A	M
+8106	554324	1	1	53	6	Miroslav	Glumbík	Ing.		64	důchodce	Lhotka	99	53	A	M
+8106	554324	1	2	7	6	Barbora	Černotová			45	mistrová úklidu	Lhotka	99	7	A	F
+8106	554324	1	1	53	7	Lucie	Vozná	Mgr.		44	učitelka ZŠ	Lhotka	99	53	A	F
+8106	554324	1	2	7	7	Marcela	Klimková			42	officer facility management	Lhotka	7	7	A	F
+8106	554324	1	1	53	8	Vilém	Antončík	Mgr.		48	soukromý podnikatel	Lhotka	53	53	A	M
+8106	554324	1	2	7	8	Renáta	Rykalová	Ing.		36	specialista vodního hospodářství	Lhotka	7	7	A	F
+8106	554324	1	1	53	9	Aleš	Gavenda	RNDr.	Ph.D.	41	ředitel	Lhotka	99	53	A	M
+8106	554324	1	2	7	9	Lenka	Vajtrová			45	account manager	Lhotka	99	7	A	F
+8106	554324	1	1	53	10	Elen	Wilkusová	Ing.		44	ekonom	Lhotka	53	53	A	F
+8106	554324	1	2	7	10	Hana	Janevová	Bc.		31	učitelka mateřské školy	Lhotka	99	7	A	F
+8106	554324	1	1	53	11	Filip	Horák	MUDr.		52	soukromý podnikatel	Lhotka	99	53	A	M
+8106	554324	1	2	7	11	Barbora	Charitonidu			36	v domácnosti	Lhotka	99	7	A	F
+8106	554324	1	1	53	12	David	Lysoněk	Ing.		44	ekonom	Lhotka	99	53	A	M
+8106	554324	1	2	7	12	Martin	Wrobel			44	strojník	Lhotka	99	7	A	M
+8106	554324	1	1	53	13	Daniel	Rygel			38	úředník	Lhotka	99	53	A	M
+8106	554324	1	2	7	13	Richard	Pělucha	Ing.		28	technolog v metalurgii	Lhotka	99	7	A	M
+8106	554324	1	1	53	14	Petr	Kopec	Ing.		55	jednatel	Lhotka	53	53	A	M
+8106	554324	1	2	7	14	Reinhold	Raczek			79	důchodce	Lhotka	7	7	A	M
+8106	554324	1	1	53	15	Ladislav	Kaštovský			66	důchodce	Lhotka	99	53	A	M
+8106	554324	1	2	7	15	Vladimír	Pachota			69	důchodce	Lhotka	99	7	A	M

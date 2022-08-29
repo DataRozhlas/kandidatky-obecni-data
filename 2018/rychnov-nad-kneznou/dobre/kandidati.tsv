@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5204	576263	1	1	901	1	Jan	Rozínek	M			54	podnikatel	Dobré	99	80	A
-5204	576263	1	1	901	2	Petr	Práza	M			41	vedoucí střediska správy majetku	Dobré	99	80	A
-5204	576263	1	1	901	3	Jiří	Nágl	M			44	technik	Dobré	99	80	A
-5204	576263	1	1	901	4	Milan	Kunc	M			58	vedoucí dopravy	Dobré	99	80	A
-5204	576263	1	1	901	5	Lenka	Hovorková	F	Mgr.		51	učitelka ZŠ	Hlinné	99	80	A
-5204	576263	1	1	901	6	Roman	Panenka	M			48	podnikatel	Kamenice	99	80	A
-5204	576263	1	1	901	7	Karel	Boháč	M	Ing.		62	soukromý zemědělec	Dobré	99	80	A
-5204	576263	1	1	901	8	Roman	Plodek	M			38	automechanik	Dobré	99	80	A
-5204	576263	1	1	901	9	Dušan	Zange	M			45	zedník	Dobré	99	80	A
-5204	576263	1	2	1	1	Luděk	Preininger	M	Mgr.		38	učitel na ZŠ	Dobré	99	1	A
-5204	576263	1	2	1	2	Martin	Spanilý	M			37	referent kvality	Dobré	99	1	A
-5204	576263	1	2	1	3	Václav	Melichar	M			26	pracovník v zemědělství	Kamenice	99	1	A
-5204	576263	1	2	1	4	Tomáš	Chaloupka	M			27	pracovník v zemědělství	Hlinné	99	1	A
-5204	576263	1	2	1	5	Josef	Verner	M			43	obráběč kovů	Rovné	99	1	A
-5204	576263	1	2	1	6	Jan	Sedláček	M			35	obchodní zástupce	Dobré	99	1	A
-5204	576263	1	2	1	7	Petr	Linhart	M			19	student	Kamenice	99	1	A
-5204	576263	1	2	1	8	Pavel	Dirlam	M			20	operátor výroby	Dobré	99	1	A
-5204	576263	1	2	1	9	Anna	Melicharová	F			20	student	Kamenice	1	1	A
-5204	576263	1	3	902	1	Tomáš	Vidlák	M	Ing.		35	vedoucí pracovník	Dobré	99	80	A
-5204	576263	1	3	902	2	Jiří	Netík	M			39	podnikatel	Dobré	99	80	A
-5204	576263	1	3	902	3	Olga	Prázová	F	Ing.		32	projektová manažerka	Dobré	99	80	A
-5204	576263	1	3	902	4	Daniela	Pohlová	F	Bc.	ACCA	38	podnikatelka	Hlinné	99	80	A
-5204	576263	1	3	902	5	Jiří	Svoboda	M			51	řidič	Dobré	99	80	A
-5204	576263	1	3	902	6	Jana	Doucková	F			43	referentka	Dobré	99	80	A
-5204	576263	1	3	902	7	Bohuslav	Poláček	M			43	obchodní zástupce	Dobré	99	80	A
-5204	576263	1	3	902	8	Daniel	Šmída	M	Ing.		24	student	Dobré	99	80	A
-5204	576263	1	3	902	9	Martin	Fryml	M			40	obchodní ředitel	Dobré	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5204	576263	1	1	901	1	Jan	Rozínek			54	podnikatel	Dobré	99	80	A	M
+5204	576263	1	2	1	1	Luděk	Preininger	Mgr.		38	učitel na ZŠ	Dobré	99	1	A	M
+5204	576263	1	3	902	1	Tomáš	Vidlák	Ing.		35	vedoucí pracovník	Dobré	99	80	A	M
+5204	576263	1	1	901	2	Petr	Práza			41	vedoucí střediska správy majetku	Dobré	99	80	A	M
+5204	576263	1	2	1	2	Martin	Spanilý			37	referent kvality	Dobré	99	1	A	M
+5204	576263	1	3	902	2	Jiří	Netík			39	podnikatel	Dobré	99	80	A	M
+5204	576263	1	1	901	3	Jiří	Nágl			44	technik	Dobré	99	80	A	M
+5204	576263	1	2	1	3	Václav	Melichar			26	pracovník v zemědělství	Kamenice	99	1	A	M
+5204	576263	1	3	902	3	Olga	Prázová	Ing.		32	projektová manažerka	Dobré	99	80	A	F
+5204	576263	1	1	901	4	Milan	Kunc			58	vedoucí dopravy	Dobré	99	80	A	M
+5204	576263	1	2	1	4	Tomáš	Chaloupka			27	pracovník v zemědělství	Hlinné	99	1	A	M
+5204	576263	1	3	902	4	Daniela	Pohlová	Bc.	ACCA	38	podnikatelka	Hlinné	99	80	A	F
+5204	576263	1	1	901	5	Lenka	Hovorková	Mgr.		51	učitelka ZŠ	Hlinné	99	80	A	F
+5204	576263	1	2	1	5	Josef	Verner			43	obráběč kovů	Rovné	99	1	A	M
+5204	576263	1	3	902	5	Jiří	Svoboda			51	řidič	Dobré	99	80	A	M
+5204	576263	1	1	901	6	Roman	Panenka			48	podnikatel	Kamenice	99	80	A	M
+5204	576263	1	2	1	6	Jan	Sedláček			35	obchodní zástupce	Dobré	99	1	A	M
+5204	576263	1	3	902	6	Jana	Doucková			43	referentka	Dobré	99	80	A	F
+5204	576263	1	1	901	7	Karel	Boháč	Ing.		62	soukromý zemědělec	Dobré	99	80	A	M
+5204	576263	1	2	1	7	Petr	Linhart			19	student	Kamenice	99	1	A	M
+5204	576263	1	3	902	7	Bohuslav	Poláček			43	obchodní zástupce	Dobré	99	80	A	M
+5204	576263	1	1	901	8	Roman	Plodek			38	automechanik	Dobré	99	80	A	M
+5204	576263	1	2	1	8	Pavel	Dirlam			20	operátor výroby	Dobré	99	1	A	M
+5204	576263	1	3	902	8	Daniel	Šmída	Ing.		24	student	Dobré	99	80	A	M
+5204	576263	1	1	901	9	Dušan	Zange			45	zedník	Dobré	99	80	A	M
+5204	576263	1	2	1	9	Anna	Melicharová			20	student	Kamenice	1	1	A	F
+5204	576263	1	3	902	9	Martin	Fryml			40	obchodní ředitel	Dobré	99	80	A	M

@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5101	562106	1	1	901	1	Vítězslav	Soukup	M			60	důchodce	Stružnice	99	80	0
-5101	562106	1	1	901	2	Milan	Hájek	M			48	soukromý podnikatel	Jezvé	99	80	0
-5101	562106	1	1	901	3	Libor	Širlo	M			37	živnostník	Stružnice	99	80	0
-5101	562106	1	1	901	4	Darja	Brejchová	F			42	účetní	Stružnice	99	80	0
-5101	562106	1	1	901	5	Renata	Ryšavá	F			37	bankovní poradce	Jezvé	99	80	0
-5101	562106	1	1	901	6	Zdenek	Blažek	M			37	ředitel společnosti	Stružnice	99	80	0
-5101	562106	1	1	901	7	Jaroslav	Mašinda	M			63	důchodce	Jezvé	99	80	0
-5101	562106	1	1	901	8	Milouš	Šámal	M			58	dělník	Jezvé	99	80	0
-5101	562106	1	1	901	9	Radek	Sak	M			32	automechanik	Stružnice	99	80	0
-5101	562106	1	2	703	1	Jan	Mečíř	M	Ing.		52	starosta obce	Stružnice	99	703	0
-5101	562106	1	2	703	2	Anita	Bělová	F			35	místostarostka obce	Jezvé	99	703	0
-5101	562106	1	2	703	3	Milan	Hančín	M			57	podnikatel	Jezvé	99	703	0
-5101	562106	1	2	703	4	Alena	Schneiderová	F			51	uklízečka	Stružnice	99	703	0
-5101	562106	1	2	703	5	Viktor	Švejcha	M	Ing.		46	investiční technik	Stružnice	99	703	0
-5101	562106	1	2	703	6	Robert	Kotek	M			36	živnostník	Jezvé	99	703	0
-5101	562106	1	2	703	7	Ivona	Jančí	F			58	personalistka	Stružnice	99	703	0
-5101	562106	1	2	703	8	Jan	Merenus	M			46	řidič	Stružnice	99	703	0
-5101	562106	1	2	703	9	Marcela	Pašková	F			51	invalidní důchodkyně	Jezvé	99	703	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5101	562106	1	1	901	1	Vítězslav	Soukup			60	důchodce	Stružnice	99	80	0	M
+5101	562106	1	2	703	1	Jan	Mečíř	Ing.		52	starosta obce	Stružnice	99	703	0	M
+5101	562106	1	1	901	2	Milan	Hájek			48	soukromý podnikatel	Jezvé	99	80	0	M
+5101	562106	1	2	703	2	Anita	Bělová			35	místostarostka obce	Jezvé	99	703	0	F
+5101	562106	1	1	901	3	Libor	Širlo			37	živnostník	Stružnice	99	80	0	M
+5101	562106	1	2	703	3	Milan	Hančín			57	podnikatel	Jezvé	99	703	0	M
+5101	562106	1	1	901	4	Darja	Brejchová			42	účetní	Stružnice	99	80	0	F
+5101	562106	1	2	703	4	Alena	Schneiderová			51	uklízečka	Stružnice	99	703	0	F
+5101	562106	1	1	901	5	Renata	Ryšavá			37	bankovní poradce	Jezvé	99	80	0	F
+5101	562106	1	2	703	5	Viktor	Švejcha	Ing.		46	investiční technik	Stružnice	99	703	0	M
+5101	562106	1	1	901	6	Zdenek	Blažek			37	ředitel společnosti	Stružnice	99	80	0	M
+5101	562106	1	2	703	6	Robert	Kotek			36	živnostník	Jezvé	99	703	0	M
+5101	562106	1	1	901	7	Jaroslav	Mašinda			63	důchodce	Jezvé	99	80	0	M
+5101	562106	1	2	703	7	Ivona	Jančí			58	personalistka	Stružnice	99	703	0	F
+5101	562106	1	1	901	8	Milouš	Šámal			58	dělník	Jezvé	99	80	0	M
+5101	562106	1	2	703	8	Jan	Merenus			46	řidič	Stružnice	99	703	0	M
+5101	562106	1	1	901	9	Radek	Sak			32	automechanik	Stružnice	99	80	0	M
+5101	562106	1	2	703	9	Marcela	Pašková			51	invalidní důchodkyně	Jezvé	99	703	0	F

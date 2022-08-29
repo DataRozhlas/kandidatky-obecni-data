@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	533122	1	1	902	1	Marie	NEDVĚDOVÁ	F			39	prodavačka	Zvoleněves	99	80	0
-2103	533122	1	1	902	2	Miroslava	DOLEŽELOVÁ	F			34	administrativní pracovnice	Zvoleněves	99	80	0
-2103	533122	1	1	902	3	Martin	HANZAL	M			30	dispečer rakouských drah	Zvoleněves	99	80	0
-2103	533122	1	1	902	4	Jan	KEIZLAR ml.	M			24	podnikatel	Zvoleněves	99	80	0
-2103	533122	1	1	902	5	Kamila	ČAPKOVÁ	F			35	civilní zaměstnanec Policie	Zvoleněves	99	80	0
-2103	533122	1	1	902	6	Růžena	KLEMPTOVÁ	F			75	důchodce	Zvoleněves	99	80	0
-2103	533122	1	1	902	7	Jan	RUBEŠ	M			49	technik	Zvoleněves	99	80	0
-2103	533122	1	1	902	8	Petra	LENÁRTOVÁ	F			23	studentka ČVUT	Zvoleněves	99	80	0
-2103	533122	1	1	902	9	Tereza	ŠIMERKOVÁ	F			29	účetní	Zvoleněves	99	80	0
-2103	533122	1	2	901	1	Jiří	KINTER	M			44	profesor gymnázia	Zvoleněves	99	80	0
-2103	533122	1	2	901	2	Jiří	ŠVEJDA	M			56	OSVČ	Zvoleněves	99	80	0
-2103	533122	1	2	901	3	Jan	KEIZLAR	M			49	mistr SZT	Zvoleněves	99	80	0
-2103	533122	1	2	901	4	Pavel	RICHTR	M			66	starosta	Zvoleněves	99	80	0
-2103	533122	1	2	901	5	Iva	KRUPAUEROVÁ	F			55	zdravotní sestra	Zvoleněves	99	80	0
-2103	533122	1	2	901	6	Kamil	KLEMPT	M			56	směnový vedoucí	Zvoleněves	99	80	0
-2103	533122	1	2	901	7	Zdeněk	KINZL	M			55	pracovník v zemědělství	Zvoleněves	99	80	0
-2103	533122	1	2	901	8	Irena	SYRŮČKOVÁ	F			65	důchodkyně	Zvoleněves	99	80	0
-2103	533122	1	2	901	9	František	ŠKVRNA	M			52	důchodce	Zvoleněves	99	80	0
-2103	533122	1	3	7	1	Ladislav	JELEN	M			58	OSVČ	Zvoleněves	7	7	0
-2103	533122	1	3	7	2	Jaroslav	RÁŽ	M			47	mechanik řídících systémů	Zvoleněves	7	7	0
-2103	533122	1	3	7	3	Luboš	JIRSÁK	M			60	mistr - chemický průmysl	Zvoleněves	99	7	0
-2103	533122	1	3	7	4	Ivan	FURIŠ	M			48	řidič	Zvoleněves	7	7	0
-2103	533122	1	3	7	5	Pavel	BRABEC	M			47	strojní zámečník	Zvoleněves	7	7	0
-2103	533122	1	3	7	6	Jaroslav	URKS	M			51	důchodce	Zvoleněves	7	7	0
-2103	533122	1	3	7	7	Jaroslav	PAUL	M			46	důchodce	Zvoleněves	7	7	0
-2103	533122	1	3	7	8	Miroslava	RÁŽOVÁ	F			48	učitelka	Zvoleněves	99	7	0
-2103	533122	1	3	7	9	Eliška	JELENOVÁ	F			24	servírka	Zvoleněves	7	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	533122	1	1	902	1	Marie	NEDVĚDOVÁ			39	prodavačka	Zvoleněves	99	80	0	F
+2103	533122	1	2	901	1	Jiří	KINTER			44	profesor gymnázia	Zvoleněves	99	80	0	M
+2103	533122	1	3	7	1	Ladislav	JELEN			58	OSVČ	Zvoleněves	7	7	0	M
+2103	533122	1	1	902	2	Miroslava	DOLEŽELOVÁ			34	administrativní pracovnice	Zvoleněves	99	80	0	F
+2103	533122	1	2	901	2	Jiří	ŠVEJDA			56	OSVČ	Zvoleněves	99	80	0	M
+2103	533122	1	3	7	2	Jaroslav	RÁŽ			47	mechanik řídících systémů	Zvoleněves	7	7	0	M
+2103	533122	1	1	902	3	Martin	HANZAL			30	dispečer rakouských drah	Zvoleněves	99	80	0	M
+2103	533122	1	2	901	3	Jan	KEIZLAR			49	mistr SZT	Zvoleněves	99	80	0	M
+2103	533122	1	3	7	3	Luboš	JIRSÁK			60	mistr - chemický průmysl	Zvoleněves	99	7	0	M
+2103	533122	1	1	902	4	Jan	KEIZLAR ml.			24	podnikatel	Zvoleněves	99	80	0	M
+2103	533122	1	2	901	4	Pavel	RICHTR			66	starosta	Zvoleněves	99	80	0	M
+2103	533122	1	3	7	4	Ivan	FURIŠ			48	řidič	Zvoleněves	7	7	0	M
+2103	533122	1	1	902	5	Kamila	ČAPKOVÁ			35	civilní zaměstnanec Policie	Zvoleněves	99	80	0	F
+2103	533122	1	2	901	5	Iva	KRUPAUEROVÁ			55	zdravotní sestra	Zvoleněves	99	80	0	F
+2103	533122	1	3	7	5	Pavel	BRABEC			47	strojní zámečník	Zvoleněves	7	7	0	M
+2103	533122	1	1	902	6	Růžena	KLEMPTOVÁ			75	důchodce	Zvoleněves	99	80	0	F
+2103	533122	1	2	901	6	Kamil	KLEMPT			56	směnový vedoucí	Zvoleněves	99	80	0	M
+2103	533122	1	3	7	6	Jaroslav	URKS			51	důchodce	Zvoleněves	7	7	0	M
+2103	533122	1	1	902	7	Jan	RUBEŠ			49	technik	Zvoleněves	99	80	0	M
+2103	533122	1	2	901	7	Zdeněk	KINZL			55	pracovník v zemědělství	Zvoleněves	99	80	0	M
+2103	533122	1	3	7	7	Jaroslav	PAUL			46	důchodce	Zvoleněves	7	7	0	M
+2103	533122	1	1	902	8	Petra	LENÁRTOVÁ			23	studentka ČVUT	Zvoleněves	99	80	0	F
+2103	533122	1	2	901	8	Irena	SYRŮČKOVÁ			65	důchodkyně	Zvoleněves	99	80	0	F
+2103	533122	1	3	7	8	Miroslava	RÁŽOVÁ			48	učitelka	Zvoleněves	99	7	0	F
+2103	533122	1	1	902	9	Tereza	ŠIMERKOVÁ			29	účetní	Zvoleněves	99	80	0	F
+2103	533122	1	2	901	9	František	ŠKVRNA			52	důchodce	Zvoleněves	99	80	0	M
+2103	533122	1	3	7	9	Eliška	JELENOVÁ			24	servírka	Zvoleněves	7	7	0	F

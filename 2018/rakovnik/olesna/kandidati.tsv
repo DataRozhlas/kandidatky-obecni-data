@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	542199	1	1	53	1	Jiří	Lengyel	M	Ing.		56	jednatel lesní společnosti	Olešná	99	53	A
-2112	542199	1	1	53	2	Tomáš	Kočovský	M			53	vedoucí technik STK	Olešná	99	53	A
-2112	542199	1	1	53	3	Hana	Hejdová	F			57	mistr-mechanik	Olešná	99	53	A
-2112	542199	1	1	53	4	Vladimír	Pavlíček	M			65	podnikatel	Olešná	99	53	A
-2112	542199	1	1	53	5	Eva	Fastová	F	PaedDr.		56	ředitelka ZŠ	Olešná	99	53	A
-2112	542199	1	1	53	6	Radek	Kočovský	M			46	podnikatel	Olešná	99	53	A
-2112	542199	1	1	53	7	Václav	Urban	M			68	podnikatel	Olešná	99	53	A
-2112	542199	1	1	53	8	Zbyněk	Hejda	M			59	elektromonter	Olešná	99	53	A
-2112	542199	1	1	53	9	Václav	Valdman	M			68	důchodce	Olešná	99	53	A
-2112	542199	1	2	7	1	Jaromír	Nový	M	Bc.		46	velitel MěP	Olešná	7	7	A
-2112	542199	1	2	7	2	Martin	Ohnemichl	M			47	řidič	Olešná	7	7	A
-2112	542199	1	2	7	3	Lucie	Svobodová	F			41	prodavačka	Olešná	99	7	A
-2112	542199	1	2	7	4	Zdeněk	Červenka	M			50	klempíř	Olešná	99	7	A
-2112	542199	1	2	7	5	Kateřina	Hajnová	F			49	laborantka	Olešná	99	7	A
-2112	542199	1	2	7	6	Jakub	Nový	M			23	číšník	Olešná	99	7	A
-2112	542199	1	2	7	7	Václav	Čadek	M			45	OSVČ	Olešná	99	7	A
-2112	542199	1	2	7	8	Markéta	Lamine	F			40	prodavačka	Olešná	99	7	A
-2112	542199	1	2	7	9	Vladislav	Gregor	M			77	důchodce	Olešná	99	7	A
-2112	542199	1	3	901	1	Martin	Těšínský	M			51	konzultant bezpečnostních systémů	Olešná	99	80	A
-2112	542199	1	3	901	2	František	Itner	M			46	administrativní pracovník v IT	Olešná	99	80	A
-2112	542199	1	3	901	3	Kamil	Ivančík ml.	M			42	stavební technik	Olešná	99	80	A
-2112	542199	1	3	901	4	Miroslav	Řežábek	M			47	invalidní důchodce	Olešná	99	80	A
-2112	542199	1	3	901	5	Miroslava	Křížová	F	Ing.		40	na rodičovské dovolené	Olešná	99	80	A
-2112	542199	1	3	901	6	Lukáš	Brotánek	M	Bc.		35	státní zaměstnanec-odborný rada KÚ	Olešná	99	80	A
-2112	542199	1	3	901	7	Petra	Bubová	F			38	v domácnosti	Olešná	99	80	A
-2112	542199	1	3	901	8	Aleš	Hlavsa	M			44	projektový manažer	Olešná	99	80	A
-2112	542199	1	3	901	9	Josef	Štiller	M			62	důchodce, obecní zaměstnanec	Olešná	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	542199	1	1	53	1	Jiří	Lengyel	Ing.		56	jednatel lesní společnosti	Olešná	99	53	A	M
+2112	542199	1	2	7	1	Jaromír	Nový	Bc.		46	velitel MěP	Olešná	7	7	A	M
+2112	542199	1	3	901	1	Martin	Těšínský			51	konzultant bezpečnostních systémů	Olešná	99	80	A	M
+2112	542199	1	1	53	2	Tomáš	Kočovský			53	vedoucí technik STK	Olešná	99	53	A	M
+2112	542199	1	2	7	2	Martin	Ohnemichl			47	řidič	Olešná	7	7	A	M
+2112	542199	1	3	901	2	František	Itner			46	administrativní pracovník v IT	Olešná	99	80	A	M
+2112	542199	1	1	53	3	Hana	Hejdová			57	mistr-mechanik	Olešná	99	53	A	F
+2112	542199	1	2	7	3	Lucie	Svobodová			41	prodavačka	Olešná	99	7	A	F
+2112	542199	1	3	901	3	Kamil	Ivančík ml.			42	stavební technik	Olešná	99	80	A	M
+2112	542199	1	1	53	4	Vladimír	Pavlíček			65	podnikatel	Olešná	99	53	A	M
+2112	542199	1	2	7	4	Zdeněk	Červenka			50	klempíř	Olešná	99	7	A	M
+2112	542199	1	3	901	4	Miroslav	Řežábek			47	invalidní důchodce	Olešná	99	80	A	M
+2112	542199	1	1	53	5	Eva	Fastová	PaedDr.		56	ředitelka ZŠ	Olešná	99	53	A	F
+2112	542199	1	2	7	5	Kateřina	Hajnová			49	laborantka	Olešná	99	7	A	F
+2112	542199	1	3	901	5	Miroslava	Křížová	Ing.		40	na rodičovské dovolené	Olešná	99	80	A	F
+2112	542199	1	1	53	6	Radek	Kočovský			46	podnikatel	Olešná	99	53	A	M
+2112	542199	1	2	7	6	Jakub	Nový			23	číšník	Olešná	99	7	A	M
+2112	542199	1	3	901	6	Lukáš	Brotánek	Bc.		35	státní zaměstnanec-odborný rada KÚ	Olešná	99	80	A	M
+2112	542199	1	1	53	7	Václav	Urban			68	podnikatel	Olešná	99	53	A	M
+2112	542199	1	2	7	7	Václav	Čadek			45	OSVČ	Olešná	99	7	A	M
+2112	542199	1	3	901	7	Petra	Bubová			38	v domácnosti	Olešná	99	80	A	F
+2112	542199	1	1	53	8	Zbyněk	Hejda			59	elektromonter	Olešná	99	53	A	M
+2112	542199	1	2	7	8	Markéta	Lamine			40	prodavačka	Olešná	99	7	A	F
+2112	542199	1	3	901	8	Aleš	Hlavsa			44	projektový manažer	Olešná	99	80	A	M
+2112	542199	1	1	53	9	Václav	Valdman			68	důchodce	Olešná	99	53	A	M
+2112	542199	1	2	7	9	Vladislav	Gregor			77	důchodce	Olešná	99	7	A	M
+2112	542199	1	3	901	9	Josef	Štiller			62	důchodce, obecní zaměstnanec	Olešná	99	80	A	M

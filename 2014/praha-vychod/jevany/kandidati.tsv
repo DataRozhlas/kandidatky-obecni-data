@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2109	533378	1	1	721	1	Václav	Svoboda	M	Ing.		57	lesník	Jevany	721	721	0
-2109	533378	1	1	721	2	Roman	Trmal	M			28	živnostník - klimatizace, chlazení	Jevany	99	721	0
-2109	533378	1	1	721	3	Jan	Palička	M			24	student, právní asistent	Jevany	99	721	0
-2109	533378	1	1	721	4	Petr	Gruber	M			61	důchodce	Jevany	99	721	0
-2109	533378	1	1	721	5	Alice	Rašovská	F	Ing.		31	projektový manažer v oblasti dotačního managementu	Jevany	99	721	0
-2109	533378	1	1	721	6	Nikola	Tomková	F			33	projektantka pozemních staveb	Jevany	99	721	0
-2109	533378	1	1	721	7	Martina	Jandlová	F			37	pracovnice ve školství	Jevany	99	721	0
-2109	533378	1	1	721	8	Barbora	Prokopová	F	Ing.		35	administrativní pracovník	Jevany	99	721	0
-2109	533378	1	1	721	9	Jan	Pastor	M	BBS.		33	podnikatel	Jevany	99	721	0
-2109	533378	1	2	902	1	Jaroslav	Švejda	M			64	starosta obce	Jevany	99	80	0
-2109	533378	1	2	902	2	Jan	Šimon	M	PharmDr. MUDr.		41	lékárník	Jevany	99	80	0
-2109	533378	1	2	902	3	Marcela	Moravcová	F			48	pečovatelka	Jevany	99	80	0
-2109	533378	1	2	902	4	Petra	Pokorná	F			43	prodavačka	Jevany	99	80	0
-2109	533378	1	2	902	5	Petr	Kubašta	M			42	truhlář - mistr	Jevany	99	80	0
-2109	533378	1	2	902	6	Josef	Hedrlín	M			59	živnostník - zámečník	Jevany	99	80	0
-2109	533378	1	2	902	7	Marek	Žalud	M			41	řidič	Jevany	99	80	0
-2109	533378	1	2	902	8	Pavel	Salák	M			46	zaměstnanec	Jevany	99	80	0
-2109	533378	1	2	902	9	Zdeněk	Pokorný	M			64	důchodce	Jevany	99	80	0
-2109	533378	1	3	901	1	Jan	Lahoda	M			48	OSVČ	Jevany	99	80	0
-2109	533378	1	3	901	2	Petr	Kameníček	M			62	řezbář	Jevany	99	80	0
-2109	533378	1	3	901	3	Michaela	Petráková	F			33	OSVČ	Jevany	99	80	0
-2109	533378	1	3	901	4	Jan	Bureš	M			48	technik	Jevany	99	80	0
-2109	533378	1	3	901	5	Radek	Jandl	M			41	technik	Jevany	99	80	0
-2109	533378	1	3	901	6	Hynek	Fabián	M			40	technik	Jevany	99	80	0
-2109	533378	1	3	901	7	Petra	Kurkova	F			31	v domácnosti	Jevany	99	80	0
-2109	533378	1	3	901	8	Annita	Daříčková	F			70	odborný asistent na ČVUT	Jevany	99	80	0
-2109	533378	1	3	901	9	Jan	Klocperk	M			65	důchodce	Jevany	99	80	0
-2109	533378	1	4	53	1	Jan	Stejskal	M			52	OSVČ - trenér	Jevany	99	53	0
-2109	533378	1	4	53	2	Pavlína	Kratochvílová	F			41	v domácnosti	Jevany	53	53	0
-2109	533378	1	4	53	3	Petr	Čechrák	M			39	makléř	Jevany	99	53	0
-2109	533378	1	4	53	4	Petr	Jelínek	M			52	manažer	Jevany	99	53	0
-2109	533378	1	4	53	5	Helena	Kopecká	F			60	důchodkyně	Jevany	53	53	0
-2109	533378	1	4	53	6	Dagmar	Černá	F	Ing.		71	důchodkyně, OSVČ	Jevany	99	53	0
-2109	533378	1	4	53	7	Jiřina	Moravcová	F			49	zaměstnanec v dopravě	Jevany	99	53	0
-2109	533378	1	4	53	8	Martin	Saitz	M			49	gen. ředitel Hyundai motor CZECH Slov.	Jevany	53	53	0
-2109	533378	1	4	53	9	Markéta	Vávrová	F	Ing.		48	podnikatelka	Jevany	53	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2109	533378	1	1	721	1	Václav	Svoboda	Ing.		57	lesník	Jevany	721	721	0	M
+2109	533378	1	2	902	1	Jaroslav	Švejda			64	starosta obce	Jevany	99	80	0	M
+2109	533378	1	3	901	1	Jan	Lahoda			48	OSVČ	Jevany	99	80	0	M
+2109	533378	1	4	53	1	Jan	Stejskal			52	OSVČ - trenér	Jevany	99	53	0	M
+2109	533378	1	1	721	2	Roman	Trmal			28	živnostník - klimatizace, chlazení	Jevany	99	721	0	M
+2109	533378	1	2	902	2	Jan	Šimon	PharmDr. MUDr.		41	lékárník	Jevany	99	80	0	M
+2109	533378	1	3	901	2	Petr	Kameníček			62	řezbář	Jevany	99	80	0	M
+2109	533378	1	4	53	2	Pavlína	Kratochvílová			41	v domácnosti	Jevany	53	53	0	F
+2109	533378	1	1	721	3	Jan	Palička			24	student, právní asistent	Jevany	99	721	0	M
+2109	533378	1	2	902	3	Marcela	Moravcová			48	pečovatelka	Jevany	99	80	0	F
+2109	533378	1	3	901	3	Michaela	Petráková			33	OSVČ	Jevany	99	80	0	F
+2109	533378	1	4	53	3	Petr	Čechrák			39	makléř	Jevany	99	53	0	M
+2109	533378	1	1	721	4	Petr	Gruber			61	důchodce	Jevany	99	721	0	M
+2109	533378	1	2	902	4	Petra	Pokorná			43	prodavačka	Jevany	99	80	0	F
+2109	533378	1	3	901	4	Jan	Bureš			48	technik	Jevany	99	80	0	M
+2109	533378	1	4	53	4	Petr	Jelínek			52	manažer	Jevany	99	53	0	M
+2109	533378	1	1	721	5	Alice	Rašovská	Ing.		31	projektový manažer v oblasti dotačního managementu	Jevany	99	721	0	F
+2109	533378	1	2	902	5	Petr	Kubašta			42	truhlář - mistr	Jevany	99	80	0	M
+2109	533378	1	3	901	5	Radek	Jandl			41	technik	Jevany	99	80	0	M
+2109	533378	1	4	53	5	Helena	Kopecká			60	důchodkyně	Jevany	53	53	0	F
+2109	533378	1	1	721	6	Nikola	Tomková			33	projektantka pozemních staveb	Jevany	99	721	0	F
+2109	533378	1	2	902	6	Josef	Hedrlín			59	živnostník - zámečník	Jevany	99	80	0	M
+2109	533378	1	3	901	6	Hynek	Fabián			40	technik	Jevany	99	80	0	M
+2109	533378	1	4	53	6	Dagmar	Černá	Ing.		71	důchodkyně, OSVČ	Jevany	99	53	0	F
+2109	533378	1	1	721	7	Martina	Jandlová			37	pracovnice ve školství	Jevany	99	721	0	F
+2109	533378	1	2	902	7	Marek	Žalud			41	řidič	Jevany	99	80	0	M
+2109	533378	1	3	901	7	Petra	Kurkova			31	v domácnosti	Jevany	99	80	0	F
+2109	533378	1	4	53	7	Jiřina	Moravcová			49	zaměstnanec v dopravě	Jevany	99	53	0	F
+2109	533378	1	1	721	8	Barbora	Prokopová	Ing.		35	administrativní pracovník	Jevany	99	721	0	F
+2109	533378	1	2	902	8	Pavel	Salák			46	zaměstnanec	Jevany	99	80	0	M
+2109	533378	1	3	901	8	Annita	Daříčková			70	odborný asistent na ČVUT	Jevany	99	80	0	F
+2109	533378	1	4	53	8	Martin	Saitz			49	gen. ředitel Hyundai motor CZECH Slov.	Jevany	53	53	0	M
+2109	533378	1	1	721	9	Jan	Pastor	BBS.		33	podnikatel	Jevany	99	721	0	M
+2109	533378	1	2	902	9	Zdeněk	Pokorný			64	důchodce	Jevany	99	80	0	M
+2109	533378	1	3	901	9	Jan	Klocperk			65	důchodce	Jevany	99	80	0	M
+2109	533378	1	4	53	9	Markéta	Vávrová	Ing.		48	podnikatelka	Jevany	53	53	0	F

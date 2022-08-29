@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2104	533343	1	1	901	1	René	Hanyk	M	Ing.		36	manažer	Chotutice	99	80	0
-2104	533343	1	1	901	2	Josef	Hrdlička	M			70	důchodce	Chotutice	99	80	0
-2104	533343	1	1	901	3	Jitka	Schnurpfeilová	F			41	pečovatelka	Chotutice	99	80	0
-2104	533343	1	1	901	4	Ivana	Hrušková	F			54	realitní makléřka	Chotutice	99	80	0
-2104	533343	1	1	901	5	Jitka	Krausová	F			63	důchodce	Chotutice	99	80	0
-2104	533343	1	1	901	6	Alena	Jelínková	F			31	mateřská dovolená	Chotutice	99	80	0
-2104	533343	1	1	901	7	Lenka	Hnátková	F			34	mateřská dovolená	Chotutice	99	80	0
-2104	533343	1	2	53	1	Pavel	Mach	M			53	pojišťovací poradce	Chotutice	53	53	0
-2104	533343	1	2	53	2	Petr	Mach	M	Bc.		24	student	Chotutice	53	53	0
-2104	533343	1	2	53	3	Luboš	Zajíc	M	Mgr. Ing.		48	učitel	Chotutice	99	53	0
-2104	533343	1	2	53	4	Vítězslav	Novák	M			59	živnostník	Chotutice	99	53	0
-2104	533343	1	2	53	5	Zdeňka	Sixtová	F			31	zootechnička	Chotutice	53	53	0
-2104	533343	1	2	53	6	Linda	Matoušková	F			32	referentka veřejných produkcí	Chotutice	99	53	0
-2104	533343	1	2	53	7	Věra	Zemanová	F			62	důchodkyně	Chotutice	53	53	0
-2104	533343	1	2	53	8	Lucie	Šibíková	F			34	zásobovačka	Chotutice	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2104	533343	1	1	901	1	René	Hanyk	Ing.		36	manažer	Chotutice	99	80	0	M
+2104	533343	1	2	53	1	Pavel	Mach			53	pojišťovací poradce	Chotutice	53	53	0	M
+2104	533343	1	1	901	2	Josef	Hrdlička			70	důchodce	Chotutice	99	80	0	M
+2104	533343	1	2	53	2	Petr	Mach	Bc.		24	student	Chotutice	53	53	0	M
+2104	533343	1	1	901	3	Jitka	Schnurpfeilová			41	pečovatelka	Chotutice	99	80	0	F
+2104	533343	1	2	53	3	Luboš	Zajíc	Mgr. Ing.		48	učitel	Chotutice	99	53	0	M
+2104	533343	1	1	901	4	Ivana	Hrušková			54	realitní makléřka	Chotutice	99	80	0	F
+2104	533343	1	2	53	4	Vítězslav	Novák			59	živnostník	Chotutice	99	53	0	M
+2104	533343	1	1	901	5	Jitka	Krausová			63	důchodce	Chotutice	99	80	0	F
+2104	533343	1	2	53	5	Zdeňka	Sixtová			31	zootechnička	Chotutice	53	53	0	F
+2104	533343	1	1	901	6	Alena	Jelínková			31	mateřská dovolená	Chotutice	99	80	0	F
+2104	533343	1	2	53	6	Linda	Matoušková			32	referentka veřejných produkcí	Chotutice	99	53	0	F
+2104	533343	1	1	901	7	Lenka	Hnátková			34	mateřská dovolená	Chotutice	99	80	0	F
+2104	533343	1	2	53	7	Věra	Zemanová			62	důchodkyně	Chotutice	53	53	0	F
+2104	533343	1	2	53	8	Lucie	Šibíková			34	zásobovačka	Chotutice	99	53	0	F

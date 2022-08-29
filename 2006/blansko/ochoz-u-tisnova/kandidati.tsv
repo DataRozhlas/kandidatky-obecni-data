@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	582123	1	1	806	1	Zdeněk	Pavlíček	M	Ing.		44	pedagog	Ochoz u Tišnova	99	80	0
-6201	582123	1	2	804	1	Jiří	Raus	M			25	dělník	Ochoz u Tišnova	99	80	0
-6201	582123	1	3	805	1	Dana	Cíchová	F	Mgr.		26	učitelka	Ochoz u Tišnova	99	80	0
-6201	582123	1	4	808	1	Vít	Kadlec	M	Ing.		28	projektant	Ochoz u Tišnova	99	80	0
-6201	582123	1	5	807	1	František	Cícha	M			30	živnostník	Ochoz u Tišnova	99	80	0
-6201	582123	1	6	1	1	Zdeněk	Smrkal	M			52	invalidní důchodce	Ochoz u Tišnova	1	1	0
-6201	582123	1	6	1	2	Alena	Smrkalová	F			40	podnikatelka	Ochoz u Tišnova	99	1	0
-6201	582123	1	6	1	3	Zdena	Smrkalová	F			19	studentka	Ochoz u Tišnova	99	1	0
-6201	582123	1	7	803	1	Ladislav	Bracek	M			37	dělník	Ochoz u Tišnova	99	80	0
-6201	582123	1	8	801	1	Marie	Šmardová	F			38	v domácnosti	Ochoz u Tišnova	99	80	0
-6201	582123	1	9	802	1	Radek	Vala	M			33	horník	Ochoz u Tišnova	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	582123	1	1	806	1	Zdeněk	Pavlíček	Ing.		44	pedagog	Ochoz u Tišnova	99	80	0	M
+6201	582123	1	2	804	1	Jiří	Raus			25	dělník	Ochoz u Tišnova	99	80	0	M
+6201	582123	1	3	805	1	Dana	Cíchová	Mgr.		26	učitelka	Ochoz u Tišnova	99	80	0	F
+6201	582123	1	4	808	1	Vít	Kadlec	Ing.		28	projektant	Ochoz u Tišnova	99	80	0	M
+6201	582123	1	5	807	1	František	Cícha			30	živnostník	Ochoz u Tišnova	99	80	0	M
+6201	582123	1	6	1	1	Zdeněk	Smrkal			52	invalidní důchodce	Ochoz u Tišnova	1	1	0	M
+6201	582123	1	7	803	1	Ladislav	Bracek			37	dělník	Ochoz u Tišnova	99	80	0	M
+6201	582123	1	8	801	1	Marie	Šmardová			38	v domácnosti	Ochoz u Tišnova	99	80	0	F
+6201	582123	1	9	802	1	Radek	Vala			33	horník	Ochoz u Tišnova	99	80	0	M
+6201	582123	1	6	1	2	Alena	Smrkalová			40	podnikatelka	Ochoz u Tišnova	99	1	0	F
+6201	582123	1	6	1	3	Zdena	Smrkalová			19	studentka	Ochoz u Tišnova	99	1	0	F

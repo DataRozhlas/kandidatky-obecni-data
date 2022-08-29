@@ -1,38 +1,38 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3107	552143	1	1	901	1	Miroslav	Prachař	M			59	invalidní důchodce	Budislav	99	80	0
-3107	552143	1	1	901	2	Lidmila	Lukešová	F			55	učitelka	Budislav	99	80	0
-3107	552143	1	1	901	3	Lubomír	Suda	M			48	živnostník	Budislav	99	80	0
-3107	552143	1	1	901	4	Jiří	Kuttelwascher	M			52	THP	Budislav	99	80	0
-3107	552143	1	1	901	5	Vlastimil	Lemberka	M			48	automechanik	Budislav	99	80	0
-3107	552143	1	1	901	6	Miroslav	Láska	M			32	dělník	Záluží u Budislavě	99	80	0
-3107	552143	1	1	901	7	Irena	Smutná	F			45	zdravotní sestra	Budislav	99	80	0
-3107	552143	1	1	901	8	Libor	Nezbeda	M			42	podnikatel	Budislav	99	80	0
-3107	552143	1	1	901	9	Pavel	Mixa	M			21	traktorista	Budislav	99	80	0
-3107	552143	1	2	903	1	Karel	Šabatka	M			51	OSVČ	Hlavňov	99	80	0
-3107	552143	1	2	903	2	Marcela	Holíková	F			32	železničářka	Budislav	99	80	0
-3107	552143	1	2	903	3	Dalibor	Houska	M			44	technik	Budislav	99	80	0
-3107	552143	1	2	903	4	Miloslav	Prchlík	M			64	starosta	Budislav	99	80	0
-3107	552143	1	2	903	5	Jan	Havel	M			54	st.zaměstnanec	Hlavňov	99	80	0
-3107	552143	1	2	903	6	Pavel	Šimeček	M			36	opravář	Budislav	99	80	0
-3107	552143	1	2	903	7	František	Mikuda	M			50	zámečník	Budislav	99	80	0
-3107	552143	1	2	903	8	Soňa	Pražmová	F			33	kvalitářka	Záluží u Budislavě	99	80	0
-3107	552143	1	2	903	9	Michal	Musil	M			43	ved.skladu	Budislav	99	80	0
-3107	552143	1	3	1	1	Marie	Hrušková	F			33	oděvní technik	Budislav	99	1	0
-3107	552143	1	3	1	2	Zdeňka	Mixová	F			40	dělnice	Budislav	99	1	0
-3107	552143	1	3	1	3	Jan	Klimeš	M			40	opravář zemědělských strojů	Záluží u Budislavě	99	1	0
-3107	552143	1	3	1	4	Milan	Vaněk	M			34	OSVČ	Budislav	99	1	0
-3107	552143	1	3	1	5	Lenka	Lásková	F			32	mateřská dovolená	Záluží u Budislavě	99	1	0
-3107	552143	1	3	1	6	Ivana	Lemberková	F			44	sociální pracovnice	Budislav	99	1	0
-3107	552143	1	3	1	7	Marie	Nezbedová	F			49	OSVČ	Budislav	99	1	0
-3107	552143	1	3	1	8	František	Rybák	M			59	důchodce	Budislav	99	1	0
-3107	552143	1	3	1	9	Stanislav	Pána	M			62	důchodce	Budislav	99	1	0
-3107	552143	1	4	902	1	Miroslav	Doležal	M			54	zaměstnanec	Budislav	99	80	0
-3107	552143	1	4	902	2	František	Škrleta	M			42	OSVČ	Budislav	99	80	0
-3107	552143	1	4	902	3	Zdenka	Sudová	F			46	ekonom	Budislav	99	80	0
-3107	552143	1	4	902	4	Libor	Kratochvíl	M			42	OSVČ	Budislav	99	80	0
-3107	552143	1	4	902	5	Petr	Havel	M			49	OSVČ	Hlavňov	99	80	0
-3107	552143	1	4	902	6	Michal	Procházka	M			33	OSVČ	Budislav	99	80	0
-3107	552143	1	4	902	7	Jaroslav	Trpák	M			41	OSVČ	Budislav	99	80	0
-3107	552143	1	4	902	8	Roman	Čížek	M	Ing.		27	projektant	Budislav	99	80	0
-3107	552143	1	4	902	9	Vít	Semrád	M	Ing.		40	projektant	Budislav	99	80	0
-3107	552143	1	5	801	1	Jiří	Matoušek	M			59	důchodce	Hlavňov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3107	552143	1	1	901	1	Miroslav	Prachař			59	invalidní důchodce	Budislav	99	80	0	M
+3107	552143	1	2	903	1	Karel	Šabatka			51	OSVČ	Hlavňov	99	80	0	M
+3107	552143	1	3	1	1	Marie	Hrušková			33	oděvní technik	Budislav	99	1	0	F
+3107	552143	1	4	902	1	Miroslav	Doležal			54	zaměstnanec	Budislav	99	80	0	M
+3107	552143	1	5	801	1	Jiří	Matoušek			59	důchodce	Hlavňov	99	80	0	M
+3107	552143	1	1	901	2	Lidmila	Lukešová			55	učitelka	Budislav	99	80	0	F
+3107	552143	1	2	903	2	Marcela	Holíková			32	železničářka	Budislav	99	80	0	F
+3107	552143	1	3	1	2	Zdeňka	Mixová			40	dělnice	Budislav	99	1	0	F
+3107	552143	1	4	902	2	František	Škrleta			42	OSVČ	Budislav	99	80	0	M
+3107	552143	1	1	901	3	Lubomír	Suda			48	živnostník	Budislav	99	80	0	M
+3107	552143	1	2	903	3	Dalibor	Houska			44	technik	Budislav	99	80	0	M
+3107	552143	1	3	1	3	Jan	Klimeš			40	opravář zemědělských strojů	Záluží u Budislavě	99	1	0	M
+3107	552143	1	4	902	3	Zdenka	Sudová			46	ekonom	Budislav	99	80	0	F
+3107	552143	1	1	901	4	Jiří	Kuttelwascher			52	THP	Budislav	99	80	0	M
+3107	552143	1	2	903	4	Miloslav	Prchlík			64	starosta	Budislav	99	80	0	M
+3107	552143	1	3	1	4	Milan	Vaněk			34	OSVČ	Budislav	99	1	0	M
+3107	552143	1	4	902	4	Libor	Kratochvíl			42	OSVČ	Budislav	99	80	0	M
+3107	552143	1	1	901	5	Vlastimil	Lemberka			48	automechanik	Budislav	99	80	0	M
+3107	552143	1	2	903	5	Jan	Havel			54	st.zaměstnanec	Hlavňov	99	80	0	M
+3107	552143	1	3	1	5	Lenka	Lásková			32	mateřská dovolená	Záluží u Budislavě	99	1	0	F
+3107	552143	1	4	902	5	Petr	Havel			49	OSVČ	Hlavňov	99	80	0	M
+3107	552143	1	1	901	6	Miroslav	Láska			32	dělník	Záluží u Budislavě	99	80	0	M
+3107	552143	1	2	903	6	Pavel	Šimeček			36	opravář	Budislav	99	80	0	M
+3107	552143	1	3	1	6	Ivana	Lemberková			44	sociální pracovnice	Budislav	99	1	0	F
+3107	552143	1	4	902	6	Michal	Procházka			33	OSVČ	Budislav	99	80	0	M
+3107	552143	1	1	901	7	Irena	Smutná			45	zdravotní sestra	Budislav	99	80	0	F
+3107	552143	1	2	903	7	František	Mikuda			50	zámečník	Budislav	99	80	0	M
+3107	552143	1	3	1	7	Marie	Nezbedová			49	OSVČ	Budislav	99	1	0	F
+3107	552143	1	4	902	7	Jaroslav	Trpák			41	OSVČ	Budislav	99	80	0	M
+3107	552143	1	1	901	8	Libor	Nezbeda			42	podnikatel	Budislav	99	80	0	M
+3107	552143	1	2	903	8	Soňa	Pražmová			33	kvalitářka	Záluží u Budislavě	99	80	0	F
+3107	552143	1	3	1	8	František	Rybák			59	důchodce	Budislav	99	1	0	M
+3107	552143	1	4	902	8	Roman	Čížek	Ing.		27	projektant	Budislav	99	80	0	M
+3107	552143	1	1	901	9	Pavel	Mixa			21	traktorista	Budislav	99	80	0	M
+3107	552143	1	2	903	9	Michal	Musil			43	ved.skladu	Budislav	99	80	0	M
+3107	552143	1	3	1	9	Stanislav	Pána			62	důchodce	Budislav	99	1	0	M
+3107	552143	1	4	902	9	Vít	Semrád	Ing.		40	projektant	Budislav	99	80	0	M

@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	580988	1	1	901	1	Zdenek	Borovec	M			36	pojišťovací poradce	Strážná	99	80	0
-5304	580988	1	1	901	2	Václav	Prokop	M			35	technolog	Strážná	99	80	0
-5304	580988	1	1	901	3	Petr	Prokop	M			33	podnikatel	Strážná	99	80	0
-5304	580988	1	1	901	4	Josef	Štarman	M			62	důchodce	Strážná	99	80	0
-5304	580988	1	1	901	5	Kristýna	Indrová	F	Ing.		29	stavební inženýrka	Strážná	99	80	0
-5304	580988	1	2	1	1	Oldřich	Petr	M			51	řidič	Strážná	99	1	0
-5304	580988	1	2	1	2	František	Indra	M			55	dělník	Strážná	1	1	0
-5304	580988	1	2	1	3	Martin	Faltus	M			33	nástrojař	Strážná	99	1	0
-5304	580988	1	2	1	4	Eliška	Ficnerová	F			38	lisařka	Strážná	99	1	0
-5304	580988	1	2	1	5	Libor	Kuttich	M			31	OSVČ	Strážná	99	1	0
-5304	580988	1	2	1	6	Josef	Indra	M			45	dělník	Strážná	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	580988	1	1	901	1	Zdenek	Borovec			36	pojišťovací poradce	Strážná	99	80	0	M
+5304	580988	1	2	1	1	Oldřich	Petr			51	řidič	Strážná	99	1	0	M
+5304	580988	1	1	901	2	Václav	Prokop			35	technolog	Strážná	99	80	0	M
+5304	580988	1	2	1	2	František	Indra			55	dělník	Strážná	1	1	0	M
+5304	580988	1	1	901	3	Petr	Prokop			33	podnikatel	Strážná	99	80	0	M
+5304	580988	1	2	1	3	Martin	Faltus			33	nástrojař	Strážná	99	1	0	M
+5304	580988	1	1	901	4	Josef	Štarman			62	důchodce	Strážná	99	80	0	M
+5304	580988	1	2	1	4	Eliška	Ficnerová			38	lisařka	Strážná	99	1	0	F
+5304	580988	1	1	901	5	Kristýna	Indrová	Ing.		29	stavební inženýrka	Strážná	99	80	0	F
+5304	580988	1	2	1	5	Libor	Kuttich			31	OSVČ	Strážná	99	1	0	M
+5304	580988	1	2	1	6	Josef	Indra			45	dělník	Strážná	99	1	0	M

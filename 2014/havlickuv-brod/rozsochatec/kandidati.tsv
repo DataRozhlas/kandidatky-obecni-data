@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	569399	1	1	903	1	Miroslava	Fousková	F	Mgr.		31	analytik - laborant	Rozsochatec	99	80	0
-6101	569399	1	1	903	2	Karel	Jelínek	M			38	geodet	Rozsochatec	99	80	0
-6101	569399	1	1	903	3	Zdeněk	Pešek	M	Bc.		27	hygienik	Rozsochatec	99	80	0
-6101	569399	1	1	903	4	Kateřina	Křivská	F		DiS.	31	pracovník propagace	Rozsochatec	99	80	0
-6101	569399	1	1	903	5	Karel	Pazderka	M			42	elektromontér	Rozsochatec	99	80	0
-6101	569399	1	1	903	6	Petr	Fousek	M	Bc.		32	voják z povolání	Rozsochatec	99	80	0
-6101	569399	1	1	903	7	Pavol	Gašpar	M			58	řidič	Rozsochatec	99	80	0
-6101	569399	1	1	903	8	Martin	Eisenvort	M			40	řidič	Rozsochatec	99	80	0
-6101	569399	1	1	903	9	Veronika	Jeřábková	F			30	mateřská dovolená	Rozsochatec	99	80	0
-6101	569399	1	2	902	1	Jaroslav	Halák	M			46	soukromý zemědělec	Rozsochatec	99	80	0
-6101	569399	1	2	902	2	Pavel	Pelikán	M			52	vedoucí dílen	Rozsochatec	99	80	0
-6101	569399	1	2	902	3	Jiří	Novák	M			57	ředitel zemědělské společnosti	Rozsochatec	99	80	0
-6101	569399	1	2	902	4	Radek	Svoboda	M			43	OSVČ	Rozsochatec	99	80	0
-6101	569399	1	2	902	5	Pavlína	Polanská	F			30	rodičovská dovolená	Rozsochatec	99	80	0
-6101	569399	1	2	902	6	Petr	Štěpán	M			26	projektant	Rozsochatec	99	80	0
-6101	569399	1	2	902	7	Zdeněk	Bílek	M			39	řidič	Rozsochatec	99	80	0
-6101	569399	1	2	902	8	Daniel	Dundáček	M			25	nezaměstnaný	Rozsochatec	99	80	0
-6101	569399	1	2	902	9	Jaroslav	Holubec	M			29	směnový mistr	Rozsochatec	99	80	0
-6101	569399	1	3	901	1	Dušan	Svoboda	M			38	OSVČ	Rozsochatec	7	80	0
-6101	569399	1	3	901	2	Jaroslav	Krédl	M			58	hasič	Rozsochatec	99	80	0
-6101	569399	1	3	901	3	Václav	Havelka	M			53	vedoucí provozu	Rozsochatec	99	80	0
-6101	569399	1	3	901	4	Jaroslav	Mišta	M			49	výpravčí	Rozsochatec	99	80	0
-6101	569399	1	3	901	5	Jaroslav	Hrdina	M	JUDr.		59	OSVČ	Jahodov	99	80	0
-6101	569399	1	3	901	6	Jakub	Dobrovolný	M			29	truhlář	Rozsochatec	99	80	0
-6101	569399	1	3	901	7	Martin	Halama	M			27	mistr lesní výroby	Rozsochatec	99	80	0
-6101	569399	1	3	901	8	Ladislav	Štěpán	M			28	projektant	Rozsochatec	99	80	0
-6101	569399	1	3	901	9	Jiří	Šemík	M			51	soukromý zemědělec	Rozsochatec	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	569399	1	1	903	1	Miroslava	Fousková	Mgr.		31	analytik - laborant	Rozsochatec	99	80	0	F
+6101	569399	1	2	902	1	Jaroslav	Halák			46	soukromý zemědělec	Rozsochatec	99	80	0	M
+6101	569399	1	3	901	1	Dušan	Svoboda			38	OSVČ	Rozsochatec	7	80	0	M
+6101	569399	1	1	903	2	Karel	Jelínek			38	geodet	Rozsochatec	99	80	0	M
+6101	569399	1	2	902	2	Pavel	Pelikán			52	vedoucí dílen	Rozsochatec	99	80	0	M
+6101	569399	1	3	901	2	Jaroslav	Krédl			58	hasič	Rozsochatec	99	80	0	M
+6101	569399	1	1	903	3	Zdeněk	Pešek	Bc.		27	hygienik	Rozsochatec	99	80	0	M
+6101	569399	1	2	902	3	Jiří	Novák			57	ředitel zemědělské společnosti	Rozsochatec	99	80	0	M
+6101	569399	1	3	901	3	Václav	Havelka			53	vedoucí provozu	Rozsochatec	99	80	0	M
+6101	569399	1	1	903	4	Kateřina	Křivská		DiS.	31	pracovník propagace	Rozsochatec	99	80	0	F
+6101	569399	1	2	902	4	Radek	Svoboda			43	OSVČ	Rozsochatec	99	80	0	M
+6101	569399	1	3	901	4	Jaroslav	Mišta			49	výpravčí	Rozsochatec	99	80	0	M
+6101	569399	1	1	903	5	Karel	Pazderka			42	elektromontér	Rozsochatec	99	80	0	M
+6101	569399	1	2	902	5	Pavlína	Polanská			30	rodičovská dovolená	Rozsochatec	99	80	0	F
+6101	569399	1	3	901	5	Jaroslav	Hrdina	JUDr.		59	OSVČ	Jahodov	99	80	0	M
+6101	569399	1	1	903	6	Petr	Fousek	Bc.		32	voják z povolání	Rozsochatec	99	80	0	M
+6101	569399	1	2	902	6	Petr	Štěpán			26	projektant	Rozsochatec	99	80	0	M
+6101	569399	1	3	901	6	Jakub	Dobrovolný			29	truhlář	Rozsochatec	99	80	0	M
+6101	569399	1	1	903	7	Pavol	Gašpar			58	řidič	Rozsochatec	99	80	0	M
+6101	569399	1	2	902	7	Zdeněk	Bílek			39	řidič	Rozsochatec	99	80	0	M
+6101	569399	1	3	901	7	Martin	Halama			27	mistr lesní výroby	Rozsochatec	99	80	0	M
+6101	569399	1	1	903	8	Martin	Eisenvort			40	řidič	Rozsochatec	99	80	0	M
+6101	569399	1	2	902	8	Daniel	Dundáček			25	nezaměstnaný	Rozsochatec	99	80	0	M
+6101	569399	1	3	901	8	Ladislav	Štěpán			28	projektant	Rozsochatec	99	80	0	M
+6101	569399	1	1	903	9	Veronika	Jeřábková			30	mateřská dovolená	Rozsochatec	99	80	0	F
+6101	569399	1	2	902	9	Jaroslav	Holubec			29	směnový mistr	Rozsochatec	99	80	0	M
+6101	569399	1	3	901	9	Jiří	Šemík			51	soukromý zemědělec	Rozsochatec	99	80	0	M

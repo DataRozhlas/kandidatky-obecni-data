@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	548278	1	1	901	1	Ivo	Chadim	M	Ing.		53	konstruktér	Břevnice	99	80	A
-6101	548278	1	1	901	2	Marek	Stojan	M			34	svářeč	Břevnice	99	80	A
-6101	548278	1	1	901	3	Luboš	Hyrš	M			31	koordinátor projektů	Břevnice	99	80	A
-6101	548278	1	1	901	4	Tomáš	Moučka	M			42	dělník	Břevnice	99	80	A
-6101	548278	1	1	901	5	Jan	Miřátský	M			42	živnostník	Břevnice	99	80	A
-6101	548278	1	1	901	6	Jiří	Čejka	M			35	celník	Břevnice	99	80	A
-6101	548278	1	1	901	7	Ondřej	Tesař	M			22	bankovní úředník	Břevnice	99	80	A
-6101	548278	1	1	901	8	Barbora	Pavlasová	F			24	mateřská dovolená	Břevnice	99	80	A
-6101	548278	1	1	901	9	Jiří	Berky	M			55	zedník	Břevnice	99	80	A
-6101	548278	1	2	902	1	Milan	Krátký	M			72	důchodce	Břevnice	99	80	A
-6101	548278	1	2	902	2	Jan	Hyrš	M			67	důchodce	Břevnice	99	80	A
-6101	548278	1	2	902	3	Marie	Hyršová	F			71	důchodce	Břevnice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	548278	1	1	901	1	Ivo	Chadim	Ing.		53	konstruktér	Břevnice	99	80	A	M
+6101	548278	1	2	902	1	Milan	Krátký			72	důchodce	Břevnice	99	80	A	M
+6101	548278	1	1	901	2	Marek	Stojan			34	svářeč	Břevnice	99	80	A	M
+6101	548278	1	2	902	2	Jan	Hyrš			67	důchodce	Břevnice	99	80	A	M
+6101	548278	1	1	901	3	Luboš	Hyrš			31	koordinátor projektů	Břevnice	99	80	A	M
+6101	548278	1	2	902	3	Marie	Hyršová			71	důchodce	Břevnice	99	80	A	F
+6101	548278	1	1	901	4	Tomáš	Moučka			42	dělník	Břevnice	99	80	A	M
+6101	548278	1	1	901	5	Jan	Miřátský			42	živnostník	Břevnice	99	80	A	M
+6101	548278	1	1	901	6	Jiří	Čejka			35	celník	Břevnice	99	80	A	M
+6101	548278	1	1	901	7	Ondřej	Tesař			22	bankovní úředník	Břevnice	99	80	A	M
+6101	548278	1	1	901	8	Barbora	Pavlasová			24	mateřská dovolená	Břevnice	99	80	A	F
+6101	548278	1	1	901	9	Jiří	Berky			55	zedník	Břevnice	99	80	A	M

@@ -1,9 +1,9 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8104	555312	1	1	901	1	Petra	Vojkůvková	F	Bc.		39	starostka	Kujavy	99	80	A
-8104	555312	1	1	901	2	Jiří	Zajíček	M			45	svářeč	Kujavy	99	80	A
-8104	555312	1	1	901	3	Zdeněk	Pavlík	M			39	technolog	Kujavy	99	80	A
-8104	555312	1	1	901	4	Michal	Dresler	M			21	student	Kujavy	99	80	A
-8104	555312	1	1	901	5	Markéta	Berková	F	Ing.		41	laborantka	Kujavy	99	80	A
-8104	555312	1	1	901	6	Jan	Drozd	M	Mgr.		44	učitel	Kujavy	99	80	N
-8104	555312	1	1	901	7	Ivana	Krejčířová	F			36	asistentka	Kujavy	99	80	A
-8104	555312	1	1	901	8	Antonín	Šlosar	M	Ing.		65	invalidní důchodce	Kujavy	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8104	555312	1	1	901	1	Petra	Vojkůvková	Bc.		39	starostka	Kujavy	99	80	A	F
+8104	555312	1	1	901	2	Jiří	Zajíček			45	svářeč	Kujavy	99	80	A	M
+8104	555312	1	1	901	3	Zdeněk	Pavlík			39	technolog	Kujavy	99	80	A	M
+8104	555312	1	1	901	4	Michal	Dresler			21	student	Kujavy	99	80	A	M
+8104	555312	1	1	901	5	Markéta	Berková	Ing.		41	laborantka	Kujavy	99	80	A	F
+8104	555312	1	1	901	6	Jan	Drozd	Mgr.		44	učitel	Kujavy	99	80	N	M
+8104	555312	1	1	901	7	Ivana	Krejčířová			36	asistentka	Kujavy	99	80	A	F
+8104	555312	1	1	901	8	Antonín	Šlosar	Ing.		65	invalidní důchodce	Kujavy	99	80	A	M

@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	580716	1	1	801	1	Hana	Křepelová	F			31	zdravotní sestra	Dobrá Voda	99	80	0
-5304	580716	1	2	1	1	František	Zeman	M	Mgr. Bc.		24	učitel	Rviště	1	1	0
-5304	580716	1	2	1	2	Josef	Novák	M			55	OSVČ	Rviště	99	1	0
-5304	580716	1	2	1	3	Radek	Šlechta	M			29	frézař	Říčky	99	1	0
-5304	580716	1	2	1	4	Lenka	Stejskalová	F			39	technik	Rozsocha	99	1	0
-5304	580716	1	2	1	5	Jiří	Hudeček	M			54	stavební technik	Říčky	99	1	0
-5304	580716	1	2	1	6	Iva	Kurucová	F			30	účetní t.č. na MD	Říčky	99	1	0
-5304	580716	1	2	1	7	Ivan	Král	M			33	technik	Říčky	99	1	0
-5304	580716	1	2	1	8	Petr	Kroulík	M			21	elektrikář	Říčky	99	1	0
-5304	580716	1	2	1	9	Jana	Divišová	F			32	učitelka	Říčky	99	1	1
-5304	580716	1	2	1	10	Martin	Leschinger	M			38	soukromý podnikatel	Říčky	99	1	0
-5304	580716	1	2	1	11	Petr	Hladík	M			47	vrátný	Říčky	1	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	580716	1	1	801	1	Hana	Křepelová			31	zdravotní sestra	Dobrá Voda	99	80	0	F
+5304	580716	1	2	1	1	František	Zeman	Mgr. Bc.		24	učitel	Rviště	1	1	0	M
+5304	580716	1	2	1	2	Josef	Novák			55	OSVČ	Rviště	99	1	0	M
+5304	580716	1	2	1	3	Radek	Šlechta			29	frézař	Říčky	99	1	0	M
+5304	580716	1	2	1	4	Lenka	Stejskalová			39	technik	Rozsocha	99	1	0	F
+5304	580716	1	2	1	5	Jiří	Hudeček			54	stavební technik	Říčky	99	1	0	M
+5304	580716	1	2	1	6	Iva	Kurucová			30	účetní t.č. na MD	Říčky	99	1	0	F
+5304	580716	1	2	1	7	Ivan	Král			33	technik	Říčky	99	1	0	M
+5304	580716	1	2	1	8	Petr	Kroulík			21	elektrikář	Říčky	99	1	0	M
+5304	580716	1	2	1	9	Jana	Divišová			32	učitelka	Říčky	99	1	1	F
+5304	580716	1	2	1	10	Martin	Leschinger			38	soukromý podnikatel	Říčky	99	1	0	M
+5304	580716	1	2	1	11	Petr	Hladík			47	vrátný	Říčky	1	1	0	M

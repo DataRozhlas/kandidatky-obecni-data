@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	582492	1	1	1	1	Zdeněk	Dolníček	M			47	inspektor silniční sítě	Štěchov	1	1	0
-6201	582492	1	1	1	2	Jiřina	Konečná	F			54	důchodce	Štěchov	99	1	0
-6201	582492	1	1	1	3	Milan	Sedlák	M			44	stavbyvedoucí	Štěchov	99	1	0
-6201	582492	1	1	1	4	Zuzana	Sedláková	F			32	nezaměstnaná	Lačnov	99	1	0
-6201	582492	1	1	1	5	František	Toman	M			47	řidič	Štěchov	1	1	0
-6201	582492	1	1	1	6	Alois	Kubíček	M			70	důchodce	Štěchov	1	1	0
-6201	582492	1	1	1	7	Vladimír	Vítek	M			54	řidič	Štěchov	99	1	0
-6201	582492	1	2	7	1	Vladimír	Konečný	M	Ing.		54	agrotechnik	Štěchov	99	7	0
-6201	582492	1	2	7	2	Markéta	Dušková	F	Bc.		51	státní zaměstnanec	Štěchov	99	7	0
-6201	582492	1	2	7	3	Jaroslav	Fibinger	M			70	důchodce	Štěchov	99	7	0
-6201	582492	1	3	158	1	Pavel	Trna	M	Mgr.		29	asistent soudce	Štěchov	99	158	0
-6201	582492	1	3	158	2	Vladislav	Němec	M			55	ošetřovatel drůbeže	Štěchov	99	158	0
-6201	582492	1	3	158	3	Jaroslav	Cícha	M			66	důchodce	Štěchov	99	158	0
-6201	582492	1	3	158	4	Věra	Knotková	F	Mgr.		37	manažer kvality	Lačnov	99	158	0
-6201	582492	1	3	158	5	Petr	Ždila	M			28	technik	Lačnov	99	158	0
-6201	582492	1	3	158	6	Vlasta	Švábová	F			34	administrativní pracovník	Štěchov	99	158	0
-6201	582492	1	3	158	7	Ladislav	Dokoupil	M			44	řidič	Lačnov	99	158	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	582492	1	1	1	1	Zdeněk	Dolníček			47	inspektor silniční sítě	Štěchov	1	1	0	M
+6201	582492	1	2	7	1	Vladimír	Konečný	Ing.		54	agrotechnik	Štěchov	99	7	0	M
+6201	582492	1	3	158	1	Pavel	Trna	Mgr.		29	asistent soudce	Štěchov	99	158	0	M
+6201	582492	1	1	1	2	Jiřina	Konečná			54	důchodce	Štěchov	99	1	0	F
+6201	582492	1	2	7	2	Markéta	Dušková	Bc.		51	státní zaměstnanec	Štěchov	99	7	0	F
+6201	582492	1	3	158	2	Vladislav	Němec			55	ošetřovatel drůbeže	Štěchov	99	158	0	M
+6201	582492	1	1	1	3	Milan	Sedlák			44	stavbyvedoucí	Štěchov	99	1	0	M
+6201	582492	1	2	7	3	Jaroslav	Fibinger			70	důchodce	Štěchov	99	7	0	M
+6201	582492	1	3	158	3	Jaroslav	Cícha			66	důchodce	Štěchov	99	158	0	M
+6201	582492	1	1	1	4	Zuzana	Sedláková			32	nezaměstnaná	Lačnov	99	1	0	F
+6201	582492	1	3	158	4	Věra	Knotková	Mgr.		37	manažer kvality	Lačnov	99	158	0	F
+6201	582492	1	1	1	5	František	Toman			47	řidič	Štěchov	1	1	0	M
+6201	582492	1	3	158	5	Petr	Ždila			28	technik	Lačnov	99	158	0	M
+6201	582492	1	1	1	6	Alois	Kubíček			70	důchodce	Štěchov	1	1	0	M
+6201	582492	1	3	158	6	Vlasta	Švábová			34	administrativní pracovník	Štěchov	99	158	0	F
+6201	582492	1	1	1	7	Vladimír	Vítek			54	řidič	Štěchov	99	1	0	M
+6201	582492	1	3	158	7	Ladislav	Dokoupil			44	řidič	Lačnov	99	158	0	M

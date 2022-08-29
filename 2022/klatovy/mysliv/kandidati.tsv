@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3202	556734	1	1	901	1	Jaroslav	Ticháček	M			57	hasič	Myslív	99	80	A
-3202	556734	1	1	901	2	Daniela	Moravcová	F	Ing.	Ph.D.	46	akademický pracovník	Myslív	99	80	A
-3202	556734	1	1	901	3	Milan	Kubaň	M			55	invalidní důchodce	Milčice	99	80	A
-3202	556734	1	1	901	4	Jiří	Moravec	M	Ing.	Ph.D.	46	vědecký pracovník	Myslív	99	80	A
-3202	556734	1	1	901	5	Bohumil	Kupka	M			56	podnikatel	Myslív	99	80	A
-3202	556734	1	1	901	6	Jana	Štípková	F	Bc.		43	učitelka v mateřské škole	Milčice	99	80	A
-3202	556734	1	1	901	7	Jakub	Záleský	M			20	podnikatel	Myslív	99	80	A
-3202	556734	1	1	901	8	Alena	Knězová	F	Ing.		63	ekonomka	Myslív	99	80	A
-3202	556734	1	1	901	9	Petr	Soukup	M			49	řidič	Myslív	99	80	A
-3202	556734	1	2	902	1	Marie	Pícková	F			62	státní zaměstnanec	Myslív	99	80	A
-3202	556734	1	2	902	2	Pavel	Ticháček	M			57	vedoucí zemědělské společnosti	Milčice	99	80	A
-3202	556734	1	2	902	3	Petr	Panuška	M			50	IT technik	Myslív	99	80	A
-3202	556734	1	2	902	4	Jan	Vach	M			40	voják z povolání	Milčice	99	80	A
-3202	556734	1	2	902	5	František	Vejvančický	M			62	soukromý zemědělec	Loužná	99	80	A
-3202	556734	1	2	902	6	Dana	Bečvářová	F			66	důchodkyně	Milčice	99	80	A
-3202	556734	1	2	902	7	Michal	Halmeš	M	Ing.		41	IT technik	Nový Dvůr	99	80	A
-3202	556734	1	2	902	8	Jan	Kučera	M			45	OSVČ	Myslív	99	80	A
-3202	556734	1	2	902	9	Jana	Vopalecká	F	Mgr.		47	učitelka	Loužná	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3202	556734	1	1	901	1	Jaroslav	Ticháček			57	hasič	Myslív	99	80	A	M
+3202	556734	1	2	902	1	Marie	Pícková			62	státní zaměstnanec	Myslív	99	80	A	F
+3202	556734	1	1	901	2	Daniela	Moravcová	Ing.	Ph.D.	46	akademický pracovník	Myslív	99	80	A	F
+3202	556734	1	2	902	2	Pavel	Ticháček			57	vedoucí zemědělské společnosti	Milčice	99	80	A	M
+3202	556734	1	1	901	3	Milan	Kubaň			55	invalidní důchodce	Milčice	99	80	A	M
+3202	556734	1	2	902	3	Petr	Panuška			50	IT technik	Myslív	99	80	A	M
+3202	556734	1	1	901	4	Jiří	Moravec	Ing.	Ph.D.	46	vědecký pracovník	Myslív	99	80	A	M
+3202	556734	1	2	902	4	Jan	Vach			40	voják z povolání	Milčice	99	80	A	M
+3202	556734	1	1	901	5	Bohumil	Kupka			56	podnikatel	Myslív	99	80	A	M
+3202	556734	1	2	902	5	František	Vejvančický			62	soukromý zemědělec	Loužná	99	80	A	M
+3202	556734	1	1	901	6	Jana	Štípková	Bc.		43	učitelka v mateřské škole	Milčice	99	80	A	F
+3202	556734	1	2	902	6	Dana	Bečvářová			66	důchodkyně	Milčice	99	80	A	F
+3202	556734	1	1	901	7	Jakub	Záleský			20	podnikatel	Myslív	99	80	A	M
+3202	556734	1	2	902	7	Michal	Halmeš	Ing.		41	IT technik	Nový Dvůr	99	80	A	M
+3202	556734	1	1	901	8	Alena	Knězová	Ing.		63	ekonomka	Myslív	99	80	A	F
+3202	556734	1	2	902	8	Jan	Kučera			45	OSVČ	Myslív	99	80	A	M
+3202	556734	1	1	901	9	Petr	Soukup			49	řidič	Myslív	99	80	A	M
+3202	556734	1	2	902	9	Jana	Vopalecká	Mgr.		47	učitelka	Loužná	99	80	A	F

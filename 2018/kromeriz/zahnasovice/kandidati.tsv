@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7201	589152	1	1	901	1	Antonín	Filák	M	Ing.		33	chemický technolog - investice	Zahnašovice	99	80	A
-7201	589152	1	1	901	2	Jaromír	Miklík	M			34	konstruktér	Zahnašovice	99	80	A
-7201	589152	1	1	901	3	Kamil	Sovadina	M			26	správce majetku	Zahnašovice	99	80	A
-7201	589152	1	1	901	4	David	Konečný	M			20	student	Zahnašovice	99	80	A
-7201	589152	1	1	901	5	Radim	Nečekal	M			29	městský policista	Zahnašovice	99	80	A
-7201	589152	1	2	902	1	Drahomír	Jura	M			53	truhlář	Zahnašovice	99	80	A
-7201	589152	1	2	902	2	Zdeňka	Bucňáková	F			49	technický pracovník	Zahnašovice	99	80	A
-7201	589152	1	2	902	3	Vladimír	Chytil	M			45	traktorista	Zahnašovice	99	80	A
-7201	589152	1	2	902	4	Gabriela	Javorová	F			42	prodavačka	Zahnašovice	99	80	A
-7201	589152	1	2	902	5	Radomíra	Koblihová	F			58	zootechnik	Zahnašovice	99	80	A
-7201	589152	1	2	902	6	František	Němec	M			64	lesník	Zahnašovice	99	80	A
-7201	589152	1	2	902	7	Kamil	Zakopal	M			39	ošetřovatel zvířat	Zahnašovice	99	80	A
-7201	589152	1	2	902	8	Roman	Adámek	M			49	operátor CNC strojů	Zahnašovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7201	589152	1	1	901	1	Antonín	Filák	Ing.		33	chemický technolog - investice	Zahnašovice	99	80	A	M
+7201	589152	1	2	902	1	Drahomír	Jura			53	truhlář	Zahnašovice	99	80	A	M
+7201	589152	1	1	901	2	Jaromír	Miklík			34	konstruktér	Zahnašovice	99	80	A	M
+7201	589152	1	2	902	2	Zdeňka	Bucňáková			49	technický pracovník	Zahnašovice	99	80	A	F
+7201	589152	1	1	901	3	Kamil	Sovadina			26	správce majetku	Zahnašovice	99	80	A	M
+7201	589152	1	2	902	3	Vladimír	Chytil			45	traktorista	Zahnašovice	99	80	A	M
+7201	589152	1	1	901	4	David	Konečný			20	student	Zahnašovice	99	80	A	M
+7201	589152	1	2	902	4	Gabriela	Javorová			42	prodavačka	Zahnašovice	99	80	A	F
+7201	589152	1	1	901	5	Radim	Nečekal			29	městský policista	Zahnašovice	99	80	A	M
+7201	589152	1	2	902	5	Radomíra	Koblihová			58	zootechnik	Zahnašovice	99	80	A	F
+7201	589152	1	2	902	6	František	Němec			64	lesník	Zahnašovice	99	80	A	M
+7201	589152	1	2	902	7	Kamil	Zakopal			39	ošetřovatel zvířat	Zahnašovice	99	80	A	M
+7201	589152	1	2	902	8	Roman	Adámek			49	operátor CNC strojů	Zahnašovice	99	80	A	M

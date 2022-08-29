@@ -1,9 +1,9 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	548022	1	1	801	1	Luboš	Karmín	M	Ing.		58	vedoucí stavebního úřadu	Vračovice-Orlov, Orlov	99	80	A
-5304	548022	1	2	166	1	Pavel	Vařečka	M			59	skladník	Vračovice-Orlov, Orlov	166	166	A
-5304	548022	1	2	166	2	Pavel	Jiroušek	M			33	servisní technik	Vračovice-Orlov, Orlov	99	166	A
-5304	548022	1	2	166	3	Miroslav	Hlušička	M			32	podnikatel	Vračovice-Orlov, Orlov	99	166	A
-5304	548022	1	2	166	4	Pavla	Hájková	F			51	dispečer	Vračovice-Orlov, Orlov	99	166	A
-5304	548022	1	2	166	5	Hana	Mrázková	F	Mgr.		54	pedagog	Vračovice-Orlov, Orlov	99	166	A
-5304	548022	1	2	166	6	Ondřej	Šejnoha	M			27	lakýrník	Vračovice-Orlov, Vračovice	99	166	A
-5304	548022	1	3	802	1	Ludvík	Staněk	M			38	likvidátor	Orlov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	548022	1	1	801	1	Luboš	Karmín	Ing.		58	vedoucí stavebního úřadu	Vračovice-Orlov, Orlov	99	80	A	M
+5304	548022	1	2	166	1	Pavel	Vařečka			59	skladník	Vračovice-Orlov, Orlov	166	166	A	M
+5304	548022	1	3	802	1	Ludvík	Staněk			38	likvidátor	Orlov	99	80	A	M
+5304	548022	1	2	166	2	Pavel	Jiroušek			33	servisní technik	Vračovice-Orlov, Orlov	99	166	A	M
+5304	548022	1	2	166	3	Miroslav	Hlušička			32	podnikatel	Vračovice-Orlov, Orlov	99	166	A	M
+5304	548022	1	2	166	4	Pavla	Hájková			51	dispečer	Vračovice-Orlov, Orlov	99	166	A	F
+5304	548022	1	2	166	5	Hana	Mrázková	Mgr.		54	pedagog	Vračovice-Orlov, Orlov	99	166	A	F
+5304	548022	1	2	166	6	Ondřej	Šejnoha			27	lakýrník	Vračovice-Orlov, Vračovice	99	166	A	M

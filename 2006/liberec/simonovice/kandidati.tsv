@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5103	564460	1	1	901	1	Jiří	Kučera	M			52	podnikatel	Šimonovice	99	80	0
-5103	564460	1	1	901	2	Ivo	Kopecký	M			44	zaměst. České pojišťovny, a.s.	Minkovice	99	80	0
-5103	564460	1	1	901	3	Jan	Čihák	M			60	hasič	Minkovice	7	80	0
-5103	564460	1	1	901	4	Petr	Mikulecký	M	Ing.		39	manager Ferona, a. s.	Minkovice	99	80	0
-5103	564460	1	1	901	5	Leona	Vránová	F	Ing.		39	zaměstnanec Tarmac CZ, a.s.	Šimonovice	99	80	0
-5103	564460	1	1	901	6	Karel	Pour	M			33	umělecký sochař	Minkovice	99	80	0
-5103	564460	1	1	901	7	Martin	Korf	M			37	podnikatel	Minkovice	99	80	0
-5103	564460	1	1	901	8	Věra	Tesárková	F			50	podnikatelka	Minkovice	99	80	0
-5103	564460	1	1	901	9	Martin	Klinger	M	Ing.		38	projektant	Minkovice	99	80	0
-5103	564460	1	2	103	1	Jaroslav	Pfeifer	M			58	soukromý podnikatel	Šimonovice	99	103	0
-5103	564460	1	2	103	2	Jakub	Meloun	M			32	sanační technik	Minkovice	99	103	0
-5103	564460	1	2	103	3	Antonín	Moučka	M			66	důchodce	Minkovice	99	103	0
-5103	564460	1	2	103	4	Zbyněk	Pták	M			38	stavební technik	Minkovice	99	103	0
-5103	564460	1	2	103	5	Václav	Sládek	M			65	důchodce	Minkovice	99	103	0
-5103	564460	1	2	103	6	Hana	Kellerová	F			44	nákupčí	Minkovice	99	103	0
-5103	564460	1	2	103	7	Oldřich	Nosek	M			49	technik	Šimonovice	99	103	0
-5103	564460	1	2	103	8	Josef	Suska	M	Ing.		43	ředitel společnosti	Minkovice	99	103	0
-5103	564460	1	2	103	9	Vladimír	Bursa	M			32	automechanik	Minkovice	99	103	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5103	564460	1	1	901	1	Jiří	Kučera			52	podnikatel	Šimonovice	99	80	0	M
+5103	564460	1	2	103	1	Jaroslav	Pfeifer			58	soukromý podnikatel	Šimonovice	99	103	0	M
+5103	564460	1	1	901	2	Ivo	Kopecký			44	zaměst. České pojišťovny, a.s.	Minkovice	99	80	0	M
+5103	564460	1	2	103	2	Jakub	Meloun			32	sanační technik	Minkovice	99	103	0	M
+5103	564460	1	1	901	3	Jan	Čihák			60	hasič	Minkovice	7	80	0	M
+5103	564460	1	2	103	3	Antonín	Moučka			66	důchodce	Minkovice	99	103	0	M
+5103	564460	1	1	901	4	Petr	Mikulecký	Ing.		39	manager Ferona, a. s.	Minkovice	99	80	0	M
+5103	564460	1	2	103	4	Zbyněk	Pták			38	stavební technik	Minkovice	99	103	0	M
+5103	564460	1	1	901	5	Leona	Vránová	Ing.		39	zaměstnanec Tarmac CZ, a.s.	Šimonovice	99	80	0	F
+5103	564460	1	2	103	5	Václav	Sládek			65	důchodce	Minkovice	99	103	0	M
+5103	564460	1	1	901	6	Karel	Pour			33	umělecký sochař	Minkovice	99	80	0	M
+5103	564460	1	2	103	6	Hana	Kellerová			44	nákupčí	Minkovice	99	103	0	F
+5103	564460	1	1	901	7	Martin	Korf			37	podnikatel	Minkovice	99	80	0	M
+5103	564460	1	2	103	7	Oldřich	Nosek			49	technik	Šimonovice	99	103	0	M
+5103	564460	1	1	901	8	Věra	Tesárková			50	podnikatelka	Minkovice	99	80	0	F
+5103	564460	1	2	103	8	Josef	Suska	Ing.		43	ředitel společnosti	Minkovice	99	103	0	M
+5103	564460	1	1	901	9	Martin	Klinger	Ing.		38	projektant	Minkovice	99	80	0	M
+5103	564460	1	2	103	9	Vladimír	Bursa			32	automechanik	Minkovice	99	103	0	M

@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	532045	1	1	804	1	Petr	Čáp	M			54	podnikatel	Chlístov	99	80	0
-2101	532045	1	2	803	1	Miroslav	Křelina	M			58	invalidní důchodce	Chlístov	99	80	0
-2101	532045	1	3	901	1	Bohumil	Rataj	M			34	ředitel TS	Racek	99	80	0
-2101	532045	1	3	901	2	Milada	Těhlová	F	Ing.		45	ekonom	Chlístov	99	80	0
-2101	532045	1	3	901	3	Hana	Větrovcová	F			40	obchodní ředitelka	Chlístov	99	80	0
-2101	532045	1	3	901	4	Jiří	Jelínek	M			46	elektromechanik	Racek	99	80	0
-2101	532045	1	3	901	5	Pavel	Kožant	M			55	živnostník	Racek	99	80	0
-2101	532045	1	3	901	6	Hana	Mácová	F			48	učitelka MŠ	Racek	99	80	0
-2101	532045	1	3	901	7	Markéta	Zajíčková	F			29	na mateřské dovolené	Chlístov	99	80	0
-2101	532045	1	4	7	1	Marián	Rešetka	M	Ing.		43	ekonom	Chlístov	99	7	0
-2101	532045	1	4	7	2	Jana	Čičmičová	F			46	podnikatelka	Žabovřesky	99	7	0
-2101	532045	1	5	807	1	Jaromír	Bakos	M			41	dělník	Chlístov	99	80	0
-2101	532045	1	6	806	1	Jan	Poupě	M			35	podnikatel	Chlístov	99	80	0
-2101	532045	1	7	801	1	Jitka	Smolková	F			55	vychovatelka	Racek	99	80	0
-2101	532045	1	8	802	1	Jaroslava	Vodrážková	F			51	uklízečka	Žabovřesky	99	80	0
-2101	532045	1	9	805	1	Věra	Havelková	F			51	vychovatelka	Chlístov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	532045	1	1	804	1	Petr	Čáp			54	podnikatel	Chlístov	99	80	0	M
+2101	532045	1	2	803	1	Miroslav	Křelina			58	invalidní důchodce	Chlístov	99	80	0	M
+2101	532045	1	3	901	1	Bohumil	Rataj			34	ředitel TS	Racek	99	80	0	M
+2101	532045	1	4	7	1	Marián	Rešetka	Ing.		43	ekonom	Chlístov	99	7	0	M
+2101	532045	1	5	807	1	Jaromír	Bakos			41	dělník	Chlístov	99	80	0	M
+2101	532045	1	6	806	1	Jan	Poupě			35	podnikatel	Chlístov	99	80	0	M
+2101	532045	1	7	801	1	Jitka	Smolková			55	vychovatelka	Racek	99	80	0	F
+2101	532045	1	8	802	1	Jaroslava	Vodrážková			51	uklízečka	Žabovřesky	99	80	0	F
+2101	532045	1	9	805	1	Věra	Havelková			51	vychovatelka	Chlístov	99	80	0	F
+2101	532045	1	3	901	2	Milada	Těhlová	Ing.		45	ekonom	Chlístov	99	80	0	F
+2101	532045	1	4	7	2	Jana	Čičmičová			46	podnikatelka	Žabovřesky	99	7	0	F
+2101	532045	1	3	901	3	Hana	Větrovcová			40	obchodní ředitelka	Chlístov	99	80	0	F
+2101	532045	1	3	901	4	Jiří	Jelínek			46	elektromechanik	Racek	99	80	0	M
+2101	532045	1	3	901	5	Pavel	Kožant			55	živnostník	Racek	99	80	0	M
+2101	532045	1	3	901	6	Hana	Mácová			48	učitelka MŠ	Racek	99	80	0	F
+2101	532045	1	3	901	7	Markéta	Zajíčková			29	na mateřské dovolené	Chlístov	99	80	0	F

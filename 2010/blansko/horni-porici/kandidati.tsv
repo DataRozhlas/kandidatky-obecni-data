@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	581631	1	1	1	1	František	Zunka	M			46	Jednatel společnosti	Horní Poříčí	99	1	0
-6201	581631	1	1	1	2	Vojtěch	Holas	M			49	Svářeč	Horní Poříčí	99	1	0
-6201	581631	1	1	1	3	Kamil	Zunka	M			38	Řidič	Horní Poříčí	99	1	0
-6201	581631	1	1	1	4	Dušan	Janků	M			41	Živnostník	Horní Poříčí	99	1	0
-6201	581631	1	1	1	5	Josef	Kalas	M			31	Dělník	Horní Poříčí	99	1	0
-6201	581631	1	1	1	6	Ivana	Bauerová	F			43	Prodavačka	Horní Poříčí	99	1	0
-6201	581631	1	1	1	7	Eva	Janků	F			39	Dělnice	Horní Poříčí	99	1	0
-6201	581631	1	1	1	8	Karel	Bauer	M			39	Pokrývač	Horní Poříčí	99	1	0
-6201	581631	1	1	1	9	Marie	Kosmáková	F			53	Pracovnice sociální péče	Horní Poříčí	1	1	0
-6201	581631	1	2	901	1	Karel	Bauer	M			64	důchodce	Horní Poříčí	99	80	0
-6201	581631	1	2	901	2	Jaroslav	Lžičař	M	Ing.		64	důchodce	Horní Poříčí	99	80	0
-6201	581631	1	2	901	3	Jindřich	Nečas	M			59	elektrikář	Horní Poříčí	99	80	0
-6201	581631	1	2	901	4	Jiří	Klusák	M			57	podnikatel	Horní Poříčí	99	80	0
-6201	581631	1	2	901	5	Rostislav	Minář	M			36	živnostník	Horní Poříčí	99	80	0
-6201	581631	1	2	901	6	Josef	Bahula	M	Ing.		66	důchodce	Horní Poříčí	99	80	0
-6201	581631	1	2	901	7	Oldřich	Kos	M	Ing.		63	důchodce	Horní Poříčí	99	80	0
-6201	581631	1	2	901	8	Petr	Kos	M			33	dělník	Horní Poříčí	99	80	0
-6201	581631	1	2	901	9	Jiří	Škaroupka	M			22	hasič	Horní Poříčí	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	581631	1	1	1	1	František	Zunka			46	Jednatel společnosti	Horní Poříčí	99	1	0	M
+6201	581631	1	2	901	1	Karel	Bauer			64	důchodce	Horní Poříčí	99	80	0	M
+6201	581631	1	1	1	2	Vojtěch	Holas			49	Svářeč	Horní Poříčí	99	1	0	M
+6201	581631	1	2	901	2	Jaroslav	Lžičař	Ing.		64	důchodce	Horní Poříčí	99	80	0	M
+6201	581631	1	1	1	3	Kamil	Zunka			38	Řidič	Horní Poříčí	99	1	0	M
+6201	581631	1	2	901	3	Jindřich	Nečas			59	elektrikář	Horní Poříčí	99	80	0	M
+6201	581631	1	1	1	4	Dušan	Janků			41	Živnostník	Horní Poříčí	99	1	0	M
+6201	581631	1	2	901	4	Jiří	Klusák			57	podnikatel	Horní Poříčí	99	80	0	M
+6201	581631	1	1	1	5	Josef	Kalas			31	Dělník	Horní Poříčí	99	1	0	M
+6201	581631	1	2	901	5	Rostislav	Minář			36	živnostník	Horní Poříčí	99	80	0	M
+6201	581631	1	1	1	6	Ivana	Bauerová			43	Prodavačka	Horní Poříčí	99	1	0	F
+6201	581631	1	2	901	6	Josef	Bahula	Ing.		66	důchodce	Horní Poříčí	99	80	0	M
+6201	581631	1	1	1	7	Eva	Janků			39	Dělnice	Horní Poříčí	99	1	0	F
+6201	581631	1	2	901	7	Oldřich	Kos	Ing.		63	důchodce	Horní Poříčí	99	80	0	M
+6201	581631	1	1	1	8	Karel	Bauer			39	Pokrývač	Horní Poříčí	99	1	0	M
+6201	581631	1	2	901	8	Petr	Kos			33	dělník	Horní Poříčí	99	80	0	M
+6201	581631	1	1	1	9	Marie	Kosmáková			53	Pracovnice sociální péče	Horní Poříčí	1	1	0	F
+6201	581631	1	2	901	9	Jiří	Škaroupka			22	hasič	Horní Poříčí	99	80	0	M

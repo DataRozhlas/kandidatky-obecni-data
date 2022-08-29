@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	594709	1	1	724	1	Zdeněk	Suchý	M			59	soukromý podnikatel	Prosiměřice	99	724	0
-6207	594709	1	1	724	2	Zdeněk	Měrka	M			48	elektrikář	Prosiměřice	99	724	0
-6207	594709	1	1	724	3	Michal	Rada	M			33	dělník	Prosiměřice	99	724	0
-6207	594709	1	1	724	4	Libor	Coufal	M	Ing.		41	dělník	Prosiměřice	99	724	0
-6207	594709	1	1	724	5	Václav	Blahynka	M			30	dělník	Prosiměřice	99	724	0
-6207	594709	1	1	724	6	Petr	Kryštof	M			38	technik	Prosiměřice	99	724	0
-6207	594709	1	2	901	1	Jiří	Lukeš	M			41	starosta	Prosiměřice	99	80	0
-6207	594709	1	2	901	2	Zdeněk	Holčapek	M			46	údržbář	Prosiměřice	99	80	0
-6207	594709	1	2	901	3	Bohuslav	Svoboda	M			34	řidič	Prosiměřice	99	80	0
-6207	594709	1	2	901	4	Petr	Kráčman	M			39	technik	Prosiměřice	99	80	0
-6207	594709	1	2	901	5	Bohuslav	Chaloupka	M			36	instalatér	Prosiměřice	99	80	0
-6207	594709	1	2	901	6	Helena	Machačná	F			58	ředitelka mateřské školy	Prosiměřice	99	80	0
-6207	594709	1	2	901	7	Jiří	Jajtner	M			42	manažer	Prosiměřice	99	80	0
-6207	594709	1	2	901	8	Stanislav	Mikulášek	M	MVDr.		57	veterinář	Prosiměřice	99	80	0
-6207	594709	1	3	902	1	Jiří	Mašek	M	Mgr.		55	ředitel školy	Prosiměřice	99	80	0
-6207	594709	1	3	902	2	Světlana	Chovancová	F			44	vychovatelka	Prosiměřice	99	80	0
-6207	594709	1	3	902	3	Jiří	Semotam	M			37	úředník	Prosiměřice	99	80	0
-6207	594709	1	3	902	4	Zdeněk	Novotný	M			58	truhlář	Prosiměřice	99	80	0
-6207	594709	1	3	902	5	Libor	Balík	M			37	zedník	Prosiměřice	99	80	0
-6207	594709	1	3	902	6	Dana	Mašková	F			52	zdravotní sestra	Prosiměřice	99	80	0
-6207	594709	1	3	902	7	Lubomír	Šlapák	M			26	programátor	Prosiměřice	99	80	0
-6207	594709	1	3	902	8	Radek	Bíbr	M			39	školník	Prosiměřice	99	80	0
-6207	594709	1	3	902	9	Lubomír	Hřib	M			46	zaměstnanec	Prosiměřice	99	80	0
-6207	594709	1	4	903	1	Jaroslav	Fanta	M			38	vedoucí kvality	Prosiměřice	99	80	0
-6207	594709	1	4	903	2	Libor	Kuřitka	M			37	technik	Prosiměřice	99	80	0
-6207	594709	1	4	903	3	Emil	Hegr	M	JUDr.		64	jednatel firmy	Prosiměřice	99	80	0
-6207	594709	1	4	903	4	Jan	Simandl	M			33	státní zaměstnanec	Prosiměřice	99	80	0
-6207	594709	1	4	903	5	Irena	Svobodová	F			33	dělnice	Prosiměřice	99	80	0
-6207	594709	1	4	903	6	Jiří	Kulhánek	M			31	lakýrník	Prosiměřice	99	80	0
-6207	594709	1	4	903	7	Karel	Řezáč	M			64	důchodce	Prosiměřice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	594709	1	1	724	1	Zdeněk	Suchý			59	soukromý podnikatel	Prosiměřice	99	724	0	M
+6207	594709	1	2	901	1	Jiří	Lukeš			41	starosta	Prosiměřice	99	80	0	M
+6207	594709	1	3	902	1	Jiří	Mašek	Mgr.		55	ředitel školy	Prosiměřice	99	80	0	M
+6207	594709	1	4	903	1	Jaroslav	Fanta			38	vedoucí kvality	Prosiměřice	99	80	0	M
+6207	594709	1	1	724	2	Zdeněk	Měrka			48	elektrikář	Prosiměřice	99	724	0	M
+6207	594709	1	2	901	2	Zdeněk	Holčapek			46	údržbář	Prosiměřice	99	80	0	M
+6207	594709	1	3	902	2	Světlana	Chovancová			44	vychovatelka	Prosiměřice	99	80	0	F
+6207	594709	1	4	903	2	Libor	Kuřitka			37	technik	Prosiměřice	99	80	0	M
+6207	594709	1	1	724	3	Michal	Rada			33	dělník	Prosiměřice	99	724	0	M
+6207	594709	1	2	901	3	Bohuslav	Svoboda			34	řidič	Prosiměřice	99	80	0	M
+6207	594709	1	3	902	3	Jiří	Semotam			37	úředník	Prosiměřice	99	80	0	M
+6207	594709	1	4	903	3	Emil	Hegr	JUDr.		64	jednatel firmy	Prosiměřice	99	80	0	M
+6207	594709	1	1	724	4	Libor	Coufal	Ing.		41	dělník	Prosiměřice	99	724	0	M
+6207	594709	1	2	901	4	Petr	Kráčman			39	technik	Prosiměřice	99	80	0	M
+6207	594709	1	3	902	4	Zdeněk	Novotný			58	truhlář	Prosiměřice	99	80	0	M
+6207	594709	1	4	903	4	Jan	Simandl			33	státní zaměstnanec	Prosiměřice	99	80	0	M
+6207	594709	1	1	724	5	Václav	Blahynka			30	dělník	Prosiměřice	99	724	0	M
+6207	594709	1	2	901	5	Bohuslav	Chaloupka			36	instalatér	Prosiměřice	99	80	0	M
+6207	594709	1	3	902	5	Libor	Balík			37	zedník	Prosiměřice	99	80	0	M
+6207	594709	1	4	903	5	Irena	Svobodová			33	dělnice	Prosiměřice	99	80	0	F
+6207	594709	1	1	724	6	Petr	Kryštof			38	technik	Prosiměřice	99	724	0	M
+6207	594709	1	2	901	6	Helena	Machačná			58	ředitelka mateřské školy	Prosiměřice	99	80	0	F
+6207	594709	1	3	902	6	Dana	Mašková			52	zdravotní sestra	Prosiměřice	99	80	0	F
+6207	594709	1	4	903	6	Jiří	Kulhánek			31	lakýrník	Prosiměřice	99	80	0	M
+6207	594709	1	2	901	7	Jiří	Jajtner			42	manažer	Prosiměřice	99	80	0	M
+6207	594709	1	3	902	7	Lubomír	Šlapák			26	programátor	Prosiměřice	99	80	0	M
+6207	594709	1	4	903	7	Karel	Řezáč			64	důchodce	Prosiměřice	99	80	0	M
+6207	594709	1	2	901	8	Stanislav	Mikulášek	MVDr.		57	veterinář	Prosiměřice	99	80	0	M
+6207	594709	1	3	902	8	Radek	Bíbr			39	školník	Prosiměřice	99	80	0	M
+6207	594709	1	3	902	9	Lubomír	Hřib			46	zaměstnanec	Prosiměřice	99	80	0	M

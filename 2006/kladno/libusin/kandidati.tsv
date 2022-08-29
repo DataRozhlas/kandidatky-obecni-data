@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	532576	1	1	47	1	Josef	KRUŽÍK	M	Ing.		67	důlní měřič	Libušín	47	47	0
-2103	532576	1	1	47	2	Jaroslav	POKORNÝ	M	RsDr.		55	soukromý podnikatel	Libušín	47	47	0
-2103	532576	1	1	47	3	Václav	SOUČEK	M			58	automechanik	Libušín	99	47	0
-2103	532576	1	1	47	4	Iva	PIONTKOVÁ	F			60	v důchodu	Libušín	47	47	0
-2103	532576	1	1	47	5	Jiří	PANENKA	M			58	el. montér	Libušín	47	47	0
-2103	532576	1	1	47	6	Michal	HORA	M			24	řidič autobusu	Libušín	99	47	0
-2103	532576	1	1	47	7	Miloslav	KLAUZ	M			34	řidič	Libušín	99	47	0
-2103	532576	1	1	47	8	Felix	ŠIMORA	M	Ing.		64	hutní inženýr	Libušín	47	47	0
-2103	532576	1	1	47	9	Eliška	PEJŠKOVÁ	F			60	v důchodu	Libušín	47	47	0
-2103	532576	1	1	47	10	Karel	STESKAL	M			60	zámečník, topenář	Libušín	99	47	0
-2103	532576	1	1	47	11	Miroslav	SUCHÝ	M			51	dělník	Libušín	99	47	0
-2103	532576	1	1	47	12	Aleš	HYBNER	M			58	sklad.dělník	Libušín	47	47	0
-2103	532576	1	1	47	13	Zdeněk	VELTRUSKÝ	M			63	montér, svářeč	Libušín	47	47	0
-2103	532576	1	1	47	14	Václav	ENDRLE	M			60	mistr provozu	Libušín	47	47	0
-2103	532576	1	1	47	15	Karel	TIEFA	M			63	v důchodu	Libušín	47	47	0
-2103	532576	1	2	7	1	Jan	ČERNUCKÝ	M			54	starosta obce	Libušín	99	7	0
-2103	532576	1	2	7	2	Iva	DUBRAVSKÁ	F	Mgr.		40	místostarostka obce	Libušín	99	7	0
-2103	532576	1	2	7	3	Milan	DRAHOŠ	M	Ing.		41	konstruktér	Libušín	99	7	0
-2103	532576	1	2	7	4	Vladimír	EICHLER	M	Ing.		42	státní zaměstnanec	Libušín	99	7	0
-2103	532576	1	2	7	5	Pavel	KLIČKA	M	Ing.		33	středoškolský učitel	Libušín	99	7	0
-2103	532576	1	2	7	6	Martina	BŘEHOVÁ	F			34	podnikatelka	Libušín	99	7	0
-2103	532576	1	2	7	7	Hana	BÁRTOVÁ	F			42	v domácnosti	Libušín	99	7	0
-2103	532576	1	2	7	8	Jindra	ŠMOLÍKOVÁ	F			37	asistentka ředitele agentury	Libušín	99	7	0
-2103	532576	1	2	7	9	Jiří	JŮNA	M			21	prodavač	Libušín	99	7	0
-2103	532576	1	2	7	10	Věra	PORTUŽÁKOVÁ	F			40	učitelka mateřské školy	Libušín	99	7	0
-2103	532576	1	2	7	11	Blanka	ŠTĚTINOVÁ	F	MUDr.		41	lékařka	Libušín	99	7	0
-2103	532576	1	2	7	12	Dana	HOLÍKOVÁ	F			59	ředitelka mateřské školy	Libušín	99	7	0
-2103	532576	1	2	7	13	Pavel	STRNAD	M	Doc.PhDr.	CSc	61	vysokoškolský učitel	Libušín	99	7	0
-2103	532576	1	2	7	14	Jiří	ŠPALEK	M			55	dělník	Libušín	99	7	0
-2103	532576	1	2	7	15	Jaroslav	SALAVA	M	Ing.		71	důchodce	Libušín	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	532576	1	1	47	1	Josef	KRUŽÍK	Ing.		67	důlní měřič	Libušín	47	47	0	M
+2103	532576	1	2	7	1	Jan	ČERNUCKÝ			54	starosta obce	Libušín	99	7	0	M
+2103	532576	1	1	47	2	Jaroslav	POKORNÝ	RsDr.		55	soukromý podnikatel	Libušín	47	47	0	M
+2103	532576	1	2	7	2	Iva	DUBRAVSKÁ	Mgr.		40	místostarostka obce	Libušín	99	7	0	F
+2103	532576	1	1	47	3	Václav	SOUČEK			58	automechanik	Libušín	99	47	0	M
+2103	532576	1	2	7	3	Milan	DRAHOŠ	Ing.		41	konstruktér	Libušín	99	7	0	M
+2103	532576	1	1	47	4	Iva	PIONTKOVÁ			60	v důchodu	Libušín	47	47	0	F
+2103	532576	1	2	7	4	Vladimír	EICHLER	Ing.		42	státní zaměstnanec	Libušín	99	7	0	M
+2103	532576	1	1	47	5	Jiří	PANENKA			58	el. montér	Libušín	47	47	0	M
+2103	532576	1	2	7	5	Pavel	KLIČKA	Ing.		33	středoškolský učitel	Libušín	99	7	0	M
+2103	532576	1	1	47	6	Michal	HORA			24	řidič autobusu	Libušín	99	47	0	M
+2103	532576	1	2	7	6	Martina	BŘEHOVÁ			34	podnikatelka	Libušín	99	7	0	F
+2103	532576	1	1	47	7	Miloslav	KLAUZ			34	řidič	Libušín	99	47	0	M
+2103	532576	1	2	7	7	Hana	BÁRTOVÁ			42	v domácnosti	Libušín	99	7	0	F
+2103	532576	1	1	47	8	Felix	ŠIMORA	Ing.		64	hutní inženýr	Libušín	47	47	0	M
+2103	532576	1	2	7	8	Jindra	ŠMOLÍKOVÁ			37	asistentka ředitele agentury	Libušín	99	7	0	F
+2103	532576	1	1	47	9	Eliška	PEJŠKOVÁ			60	v důchodu	Libušín	47	47	0	F
+2103	532576	1	2	7	9	Jiří	JŮNA			21	prodavač	Libušín	99	7	0	M
+2103	532576	1	1	47	10	Karel	STESKAL			60	zámečník, topenář	Libušín	99	47	0	M
+2103	532576	1	2	7	10	Věra	PORTUŽÁKOVÁ			40	učitelka mateřské školy	Libušín	99	7	0	F
+2103	532576	1	1	47	11	Miroslav	SUCHÝ			51	dělník	Libušín	99	47	0	M
+2103	532576	1	2	7	11	Blanka	ŠTĚTINOVÁ	MUDr.		41	lékařka	Libušín	99	7	0	F
+2103	532576	1	1	47	12	Aleš	HYBNER			58	sklad.dělník	Libušín	47	47	0	M
+2103	532576	1	2	7	12	Dana	HOLÍKOVÁ			59	ředitelka mateřské školy	Libušín	99	7	0	F
+2103	532576	1	1	47	13	Zdeněk	VELTRUSKÝ			63	montér, svářeč	Libušín	47	47	0	M
+2103	532576	1	2	7	13	Pavel	STRNAD	Doc.PhDr.	CSc	61	vysokoškolský učitel	Libušín	99	7	0	M
+2103	532576	1	1	47	14	Václav	ENDRLE			60	mistr provozu	Libušín	47	47	0	M
+2103	532576	1	2	7	14	Jiří	ŠPALEK			55	dělník	Libušín	99	7	0	M
+2103	532576	1	1	47	15	Karel	TIEFA			63	v důchodu	Libušín	47	47	0	M
+2103	532576	1	2	7	15	Jaroslav	SALAVA	Ing.		71	důchodce	Libušín	99	7	0	M

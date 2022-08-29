@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	546054	1	1	166	1	Vít	Krušina	M			56	starosta obce	Holešice	99	166	0
-3103	546054	1	1	166	2	Alena	Vázlerová	F			39	podnikatelka	Holešice	99	166	0
-3103	546054	1	1	166	3	Pavel	Brůžek	M			30	hasič	Cizkrajov	99	166	0
-3103	546054	1	1	166	4	Milan	Láník	M			49	dělník	Mutná	99	166	0
-3103	546054	1	1	166	5	Jiří	Novák	M			57	dělník	Cizkrajov	99	166	0
-3103	546054	1	1	166	6	Antonín	Tůma	M			63	důchodce	Holešice	99	166	0
-3103	546054	1	1	166	7	Josef	Nekula	M			78	důchodce	Dolní Bolíkov	99	166	0
-3103	546054	1	1	166	8	František	Malý	M			58	dělník	Mutná	99	166	0
-3103	546054	1	1	166	9	Zdeňka	Muselová	F			64	důchodkyně	Cizkrajov	99	166	0
-3103	546054	1	2	901	1	David	Rosenkranz	M			39	OSVČ, místostarosta	Dolní Bolíkov	99	80	0
-3103	546054	1	2	901	2	Dalibor	Andrejs	M	Ing.		57	soukromý zemědělec	Cizkrajov	99	80	0
-3103	546054	1	2	901	3	Jan	Blaha	M			38	technik	Cizkrajov	99	80	0
-3103	546054	1	2	901	4	Pavel	Šula	M			65	důchodce	Cizkrajov	99	80	0
-3103	546054	1	2	901	5	Miroslav	Klimeš	M			50	elektrikář	Dolní Bolíkov	99	80	0
-3103	546054	1	2	901	6	Jindřich	Čejka	M			44	vedoucí pošty	Cizkrajov	99	80	0
-3103	546054	1	2	901	7	Antonín	Melišík	M			47	řidič	Dolní Bolíkov	99	80	0
-3103	546054	1	2	901	8	Martin	Maxa	M			45	obráběč kovů	Dolní Bolíkov	99	80	0
-3103	546054	1	2	901	9	Jolana	Hrubá	F	Mgr.		38	učitelka	Dolní Bolíkov	99	80	0
-3103	546054	1	3	903	1	Zdeněk	Kučera	M			44	mechanik seřizovač	Cizkrajov	99	80	0
-3103	546054	1	3	903	2	Vlastimil	Musel	M			40	opravář zemědělských strojů	Cizkrajov	99	80	0
-3103	546054	1	3	903	3	Petr	Kelbler	M			34	mechanik seřizovač	Cizkrajov	99	80	0
-3103	546054	1	3	903	4	Jan	Povolný	M			21	stavební dělník	Cizkrajov	99	80	0
-3103	546054	1	3	903	5	Josef	Németh	M			49	dělník	Cizkrajov	99	80	0
-3103	546054	1	3	903	6	Jakub	Janák	M			25	operátor výroby	Cizkrajov	99	80	0
-3103	546054	1	3	903	7	Milan	Bělohoubek	M			49	zedník	Cizkrajov	99	80	0
-3103	546054	1	3	903	8	Petr	Dohnal	M			36	truhlář	Cizkrajov	99	80	0
-3103	546054	1	3	903	9	Libor	Bartoň	M			36	dělník	Cizkrajov	99	80	0
-3103	546054	1	4	902	1	Pavel	Budíček	M			67	podnikatel	Cizkrajov	99	80	0
-3103	546054	1	4	902	2	Julie	Boudová	F	Bc.		23	studentka	Cizkrajov	99	80	0
-3103	546054	1	4	902	3	Jan	Záhumenský	M			46	inseminační technik	Cizkrajov	99	80	0
-3103	546054	1	4	902	4	Jaroslav	Haluza	M			36	dělník	Cizkrajov	99	80	0
-3103	546054	1	4	902	5	Jiřina	Hesová	F			41	dělnice	Cizkrajov	99	80	0
-3103	546054	1	4	902	6	Martina	Šimánková	F			37	zdravotní sestra	Cizkrajov	99	80	0
-3103	546054	1	4	902	7	Miroslav	Vondrák	M			54	traktorista	Cizkrajov	99	80	0
-3103	546054	1	4	902	8	Jana	Macečková	F			49	keramička	Cizkrajov	99	80	0
-3103	546054	1	4	902	9	Jana	Chromá	F			41	podnikatelka	Cizkrajov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	546054	1	1	166	1	Vít	Krušina			56	starosta obce	Holešice	99	166	0	M
+3103	546054	1	2	901	1	David	Rosenkranz			39	OSVČ, místostarosta	Dolní Bolíkov	99	80	0	M
+3103	546054	1	3	903	1	Zdeněk	Kučera			44	mechanik seřizovač	Cizkrajov	99	80	0	M
+3103	546054	1	4	902	1	Pavel	Budíček			67	podnikatel	Cizkrajov	99	80	0	M
+3103	546054	1	1	166	2	Alena	Vázlerová			39	podnikatelka	Holešice	99	166	0	F
+3103	546054	1	2	901	2	Dalibor	Andrejs	Ing.		57	soukromý zemědělec	Cizkrajov	99	80	0	M
+3103	546054	1	3	903	2	Vlastimil	Musel			40	opravář zemědělských strojů	Cizkrajov	99	80	0	M
+3103	546054	1	4	902	2	Julie	Boudová	Bc.		23	studentka	Cizkrajov	99	80	0	F
+3103	546054	1	1	166	3	Pavel	Brůžek			30	hasič	Cizkrajov	99	166	0	M
+3103	546054	1	2	901	3	Jan	Blaha			38	technik	Cizkrajov	99	80	0	M
+3103	546054	1	3	903	3	Petr	Kelbler			34	mechanik seřizovač	Cizkrajov	99	80	0	M
+3103	546054	1	4	902	3	Jan	Záhumenský			46	inseminační technik	Cizkrajov	99	80	0	M
+3103	546054	1	1	166	4	Milan	Láník			49	dělník	Mutná	99	166	0	M
+3103	546054	1	2	901	4	Pavel	Šula			65	důchodce	Cizkrajov	99	80	0	M
+3103	546054	1	3	903	4	Jan	Povolný			21	stavební dělník	Cizkrajov	99	80	0	M
+3103	546054	1	4	902	4	Jaroslav	Haluza			36	dělník	Cizkrajov	99	80	0	M
+3103	546054	1	1	166	5	Jiří	Novák			57	dělník	Cizkrajov	99	166	0	M
+3103	546054	1	2	901	5	Miroslav	Klimeš			50	elektrikář	Dolní Bolíkov	99	80	0	M
+3103	546054	1	3	903	5	Josef	Németh			49	dělník	Cizkrajov	99	80	0	M
+3103	546054	1	4	902	5	Jiřina	Hesová			41	dělnice	Cizkrajov	99	80	0	F
+3103	546054	1	1	166	6	Antonín	Tůma			63	důchodce	Holešice	99	166	0	M
+3103	546054	1	2	901	6	Jindřich	Čejka			44	vedoucí pošty	Cizkrajov	99	80	0	M
+3103	546054	1	3	903	6	Jakub	Janák			25	operátor výroby	Cizkrajov	99	80	0	M
+3103	546054	1	4	902	6	Martina	Šimánková			37	zdravotní sestra	Cizkrajov	99	80	0	F
+3103	546054	1	1	166	7	Josef	Nekula			78	důchodce	Dolní Bolíkov	99	166	0	M
+3103	546054	1	2	901	7	Antonín	Melišík			47	řidič	Dolní Bolíkov	99	80	0	M
+3103	546054	1	3	903	7	Milan	Bělohoubek			49	zedník	Cizkrajov	99	80	0	M
+3103	546054	1	4	902	7	Miroslav	Vondrák			54	traktorista	Cizkrajov	99	80	0	M
+3103	546054	1	1	166	8	František	Malý			58	dělník	Mutná	99	166	0	M
+3103	546054	1	2	901	8	Martin	Maxa			45	obráběč kovů	Dolní Bolíkov	99	80	0	M
+3103	546054	1	3	903	8	Petr	Dohnal			36	truhlář	Cizkrajov	99	80	0	M
+3103	546054	1	4	902	8	Jana	Macečková			49	keramička	Cizkrajov	99	80	0	F
+3103	546054	1	1	166	9	Zdeňka	Muselová			64	důchodkyně	Cizkrajov	99	166	0	F
+3103	546054	1	2	901	9	Jolana	Hrubá	Mgr.		38	učitelka	Dolní Bolíkov	99	80	0	F
+3103	546054	1	3	903	9	Libor	Bartoň			36	dělník	Cizkrajov	99	80	0	M
+3103	546054	1	4	902	9	Jana	Chromá			41	podnikatelka	Cizkrajov	99	80	0	F

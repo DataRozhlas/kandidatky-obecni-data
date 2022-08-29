@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6205	586692	1	1	903	1	Lukáš	Tesařík	M			40	vedoucí skladu	Uhřice	99	80	A
-6205	586692	1	1	903	2	Zdeněk	Brabec	M			42	OSVČ	Uhřice	99	80	A
-6205	586692	1	1	903	3	Martin	Kosír	M			49	strojník	Uhřice	99	80	A
-6205	586692	1	1	903	4	Zdeněk	Valihrach	M			58	OSVČ	Uhřice	99	80	A
-6205	586692	1	1	903	5	Luděk	Hrubý	M			43	stavební mistr	Uhřice	99	80	A
-6205	586692	1	1	903	6	Jiří	Luskač	M			46	skladník	Uhřice	99	80	A
-6205	586692	1	1	903	7	Lenka	Večeřová	F			46	lesní dělník	Uhřice	99	80	A
-6205	586692	1	1	903	8	Jan	Trčka	M			48	stavební dělník	Uhřice	99	80	A
-6205	586692	1	1	903	9	Blanka	Medunová	F			56	účetní	Uhřice	99	80	A
-6205	586692	1	2	902	1	Lukáš	Gajárek	M	Mgr.		26	právník	Uhřice	99	80	A
-6205	586692	1	2	902	2	Marek	Veselý	M	Ing.	Ph.D.	46	agronom, místopředseda představenstva	Uhřice	1	80	A
-6205	586692	1	2	902	3	Roman	Gryga	M	Bc.		40	geodet	Uhřice	99	80	A
-6205	586692	1	2	902	4	Eva	Radikovská	F	Ing.		41	správce rozpočtu	Uhřice	99	80	A
-6205	586692	1	2	902	5	Jindřich	Valihrach	M			38	podnikatel	Uhřice	99	80	A
-6205	586692	1	2	902	6	Zdeňka	Teclová	F			41	administrativní pracovnice	Uhřice	99	80	A
-6205	586692	1	2	902	7	Jan	Chmelař	M			29	truhlář, výtvarník	Uhřice	99	80	A
-6205	586692	1	2	902	8	Lenka	Foltýnová	F	Bc.		44	zdravotní sestra, rodičovská dovolená	Uhřice	99	80	A
-6205	586692	1	2	902	9	Martina	Valihrachová	F			32	zdravotní laborant, rodičovská dovolená	Uhřice	99	80	A
-6205	586692	1	3	1	1	Michal	Malík	M			58	místostarosta obce, agronom	Uhřice	1	1	A
-6205	586692	1	3	1	2	Martin	Kovanda	M	Ing.		37	OSVČ	Uhřice	99	1	A
-6205	586692	1	3	1	3	Filip	Slovák	M	Ing.		25	chemický inženýr	Uhřice	99	1	A
-6205	586692	1	3	1	4	Eva	Kořínková	F			42	OSVČ	Uhřice	99	1	A
-6205	586692	1	3	1	5	Vít	Večeřa	M			23	lesní dělník	Uhřice	99	1	A
-6205	586692	1	3	1	6	Miloš	Stanislav	M			71	důchodce, kostelník	Uhřice	1	1	A
-6205	586692	1	3	1	7	Jana	Chmelařová	F			51	supervizor	Uhřice	99	1	A
-6205	586692	1	4	901	1	Petr	Tihelka	M			50	starosta obce	Uhřice	99	80	A
-6205	586692	1	4	901	2	Josef	Mokrý	M		DiS.	44	vedoucí obchodního úseku	Uhřice	99	80	A
-6205	586692	1	4	901	3	Richard	Pěnčík	M	Mgr.		31	advokát	Uhřice	99	80	A
-6205	586692	1	4	901	4	Martin	Brablc	M	Ing.		41	vedoucí nákupu	Uhřice	99	80	A
-6205	586692	1	4	901	5	Jan	Pěnčík	M			51	klempíř	Uhřice	1	80	A
-6205	586692	1	4	901	6	Ondřej	Dvorský	M			37	kuchař	Uhřice	99	80	A
-6205	586692	1	4	901	7	František	Hroudný	M			30	mechanizátor	Uhřice	99	80	A
-6205	586692	1	4	901	8	Kristýna	Růžičková	F			23	studentka medicíny	Uhřice	99	80	A
-6205	586692	1	4	901	9	Tomáš	Luskač	M			44	jednatel stavební firmy	Uhřice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6205	586692	1	1	903	1	Lukáš	Tesařík			40	vedoucí skladu	Uhřice	99	80	A	M
+6205	586692	1	2	902	1	Lukáš	Gajárek	Mgr.		26	právník	Uhřice	99	80	A	M
+6205	586692	1	3	1	1	Michal	Malík			58	místostarosta obce, agronom	Uhřice	1	1	A	M
+6205	586692	1	4	901	1	Petr	Tihelka			50	starosta obce	Uhřice	99	80	A	M
+6205	586692	1	1	903	2	Zdeněk	Brabec			42	OSVČ	Uhřice	99	80	A	M
+6205	586692	1	2	902	2	Marek	Veselý	Ing.	Ph.D.	46	agronom, místopředseda představenstva	Uhřice	1	80	A	M
+6205	586692	1	3	1	2	Martin	Kovanda	Ing.		37	OSVČ	Uhřice	99	1	A	M
+6205	586692	1	4	901	2	Josef	Mokrý		DiS.	44	vedoucí obchodního úseku	Uhřice	99	80	A	M
+6205	586692	1	1	903	3	Martin	Kosír			49	strojník	Uhřice	99	80	A	M
+6205	586692	1	2	902	3	Roman	Gryga	Bc.		40	geodet	Uhřice	99	80	A	M
+6205	586692	1	3	1	3	Filip	Slovák	Ing.		25	chemický inženýr	Uhřice	99	1	A	M
+6205	586692	1	4	901	3	Richard	Pěnčík	Mgr.		31	advokát	Uhřice	99	80	A	M
+6205	586692	1	1	903	4	Zdeněk	Valihrach			58	OSVČ	Uhřice	99	80	A	M
+6205	586692	1	2	902	4	Eva	Radikovská	Ing.		41	správce rozpočtu	Uhřice	99	80	A	F
+6205	586692	1	3	1	4	Eva	Kořínková			42	OSVČ	Uhřice	99	1	A	F
+6205	586692	1	4	901	4	Martin	Brablc	Ing.		41	vedoucí nákupu	Uhřice	99	80	A	M
+6205	586692	1	1	903	5	Luděk	Hrubý			43	stavební mistr	Uhřice	99	80	A	M
+6205	586692	1	2	902	5	Jindřich	Valihrach			38	podnikatel	Uhřice	99	80	A	M
+6205	586692	1	3	1	5	Vít	Večeřa			23	lesní dělník	Uhřice	99	1	A	M
+6205	586692	1	4	901	5	Jan	Pěnčík			51	klempíř	Uhřice	1	80	A	M
+6205	586692	1	1	903	6	Jiří	Luskač			46	skladník	Uhřice	99	80	A	M
+6205	586692	1	2	902	6	Zdeňka	Teclová			41	administrativní pracovnice	Uhřice	99	80	A	F
+6205	586692	1	3	1	6	Miloš	Stanislav			71	důchodce, kostelník	Uhřice	1	1	A	M
+6205	586692	1	4	901	6	Ondřej	Dvorský			37	kuchař	Uhřice	99	80	A	M
+6205	586692	1	1	903	7	Lenka	Večeřová			46	lesní dělník	Uhřice	99	80	A	F
+6205	586692	1	2	902	7	Jan	Chmelař			29	truhlář, výtvarník	Uhřice	99	80	A	M
+6205	586692	1	3	1	7	Jana	Chmelařová			51	supervizor	Uhřice	99	1	A	F
+6205	586692	1	4	901	7	František	Hroudný			30	mechanizátor	Uhřice	99	80	A	M
+6205	586692	1	1	903	8	Jan	Trčka			48	stavební dělník	Uhřice	99	80	A	M
+6205	586692	1	2	902	8	Lenka	Foltýnová	Bc.		44	zdravotní sestra, rodičovská dovolená	Uhřice	99	80	A	F
+6205	586692	1	4	901	8	Kristýna	Růžičková			23	studentka medicíny	Uhřice	99	80	A	F
+6205	586692	1	1	903	9	Blanka	Medunová			56	účetní	Uhřice	99	80	A	F
+6205	586692	1	2	902	9	Martina	Valihrachová			32	zdravotní laborant, rodičovská dovolená	Uhřice	99	80	A	F
+6205	586692	1	4	901	9	Tomáš	Luskač			44	jednatel stavební firmy	Uhřice	99	80	A	M

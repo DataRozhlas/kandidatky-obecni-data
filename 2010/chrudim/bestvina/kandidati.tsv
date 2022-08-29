@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	571181	1	1	53	1	David	Horčička	M			28	řidič z povolání	Běstvina, Rostejn	53	53	0
-5301	571181	1	1	53	2	Ondřej	Konfršt	M			22	operátor	Běstvina	99	53	0
-5301	571181	1	1	53	3	Petr	Nikl	M			46	OSVČ	Běstvina	99	53	0
-5301	571181	1	1	53	4	Ladislav	Kolář	M			63	důchodce	Běstvina	99	53	0
-5301	571181	1	1	53	5	Jitka	Bolechová	F			41	mistr ve výrobě	Běstvina	99	53	0
-5301	571181	1	1	53	6	Helena	Kolomazníková	F			64	důchodce, OSVČ	Běstvina, Spačice	53	53	0
-5301	571181	1	1	53	7	Jakub	Zelený	M			18	student	Běstvina, Vestec	99	53	0
-5301	571181	1	1	53	8	Radek	Kosina	M			31	OSVČ	Běstvina, Rostejn	99	53	0
-5301	571181	1	1	53	9	Radek	Schneberger	M			22	dělník	Běstvina, Vestec	99	53	0
-5301	571181	1	1	53	10	Miloš	Panocha	M			65	důchodce	Běstvina	99	53	0
-5301	571181	1	1	53	11	Jaromír	Bolech	M			19	student	Běstvina	99	53	0
-5301	571181	1	2	901	1	Alena	Salaquardová	F			45	vedoucí školní jídelny	Běstvina, Rostejn	99	80	0
-5301	571181	1	2	901	2	Vojtěch	Holub	M			56	invalidní důchodce	Běstvina, Pařížov	99	80	0
-5301	571181	1	2	901	3	Jan	Urban	M			47	samostatně hospodařící rolník	Běstvina	99	80	0
-5301	571181	1	2	901	4	Jiří	Svoboda	M	Ing.		34	vedoucí vývoje	Běstvina, Vestec	99	80	0
-5301	571181	1	2	901	5	Iveta	Šimonová	F			41	zdravotní sestra	Běstvina	99	80	0
-5301	571181	1	2	901	6	Marie	Brožková	F	Ing.		35	úřednice - na mateř. dovolené	Běstvina, Vestec	99	80	0
-5301	571181	1	2	901	7	František	Zelený	M			59	řidič	Běstvina, Spačice	99	80	0
-5301	571181	1	2	901	8	Josef	Kovačka	M			28	soukromý podnikatel	Běstvina, Vestec	99	80	0
-5301	571181	1	2	901	9	Andrea	Procházková	F	Ing.		32	technička - na mateř. dovolené	Běstvina	99	80	0
-5301	571181	1	2	901	10	Martin	Trojan	M			32	hasič	Běstvina, Vestec	99	80	0
-5301	571181	1	2	901	11	Pavel	Dolejš	M			27	živnostník	Běstvina, Rostejn	99	80	0
-5301	571181	1	3	1	1	Pavel	Starý	M	Ing.		45	lesník	Běstvina	1	1	0
-5301	571181	1	3	1	2	Jiří	Novotný	M	Ing.		59	obchodní manažer	Běstvina, Spačice	99	1	0
-5301	571181	1	3	1	3	Marie	Víšková	F	Ing.		35	ekonomka	Běstvina	99	1	0
-5301	571181	1	3	1	4	Václav	Plener	M			50	strojní zámečník	Běstvina, Pařížov	1	1	0
-5301	571181	1	3	1	5	Marie	Lilková	F			63	důchodce	Běstvina	99	1	0
-5301	571181	1	3	1	6	Josef	Trojan	M			55	zedník	Běstvina	99	1	0
-5301	571181	1	3	1	7	Pavel	Bobek	M			64	podnikatel	Běstvina	99	1	0
-5301	571181	1	3	1	8	Vladimír	Maixner	M			53	OSVČ	Běstvina	99	1	0
-5301	571181	1	3	1	9	Kateřina	Stará	F	MUDr.		43	lékařka	Běstvina	99	1	0
-5301	571181	1	3	1	10	Martin	Šimon	M			36	dělník	Běstvina, Rostejn	99	1	0
-5301	571181	1	3	1	11	Martina	Vojtěchová	F			34	poštovní doručovatelka	Běstvina, Vestec	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	571181	1	1	53	1	David	Horčička			28	řidič z povolání	Běstvina, Rostejn	53	53	0	M
+5301	571181	1	2	901	1	Alena	Salaquardová			45	vedoucí školní jídelny	Běstvina, Rostejn	99	80	0	F
+5301	571181	1	3	1	1	Pavel	Starý	Ing.		45	lesník	Běstvina	1	1	0	M
+5301	571181	1	1	53	2	Ondřej	Konfršt			22	operátor	Běstvina	99	53	0	M
+5301	571181	1	2	901	2	Vojtěch	Holub			56	invalidní důchodce	Běstvina, Pařížov	99	80	0	M
+5301	571181	1	3	1	2	Jiří	Novotný	Ing.		59	obchodní manažer	Běstvina, Spačice	99	1	0	M
+5301	571181	1	1	53	3	Petr	Nikl			46	OSVČ	Běstvina	99	53	0	M
+5301	571181	1	2	901	3	Jan	Urban			47	samostatně hospodařící rolník	Běstvina	99	80	0	M
+5301	571181	1	3	1	3	Marie	Víšková	Ing.		35	ekonomka	Běstvina	99	1	0	F
+5301	571181	1	1	53	4	Ladislav	Kolář			63	důchodce	Běstvina	99	53	0	M
+5301	571181	1	2	901	4	Jiří	Svoboda	Ing.		34	vedoucí vývoje	Běstvina, Vestec	99	80	0	M
+5301	571181	1	3	1	4	Václav	Plener			50	strojní zámečník	Běstvina, Pařížov	1	1	0	M
+5301	571181	1	1	53	5	Jitka	Bolechová			41	mistr ve výrobě	Běstvina	99	53	0	F
+5301	571181	1	2	901	5	Iveta	Šimonová			41	zdravotní sestra	Běstvina	99	80	0	F
+5301	571181	1	3	1	5	Marie	Lilková			63	důchodce	Běstvina	99	1	0	F
+5301	571181	1	1	53	6	Helena	Kolomazníková			64	důchodce, OSVČ	Běstvina, Spačice	53	53	0	F
+5301	571181	1	2	901	6	Marie	Brožková	Ing.		35	úřednice - na mateř. dovolené	Běstvina, Vestec	99	80	0	F
+5301	571181	1	3	1	6	Josef	Trojan			55	zedník	Běstvina	99	1	0	M
+5301	571181	1	1	53	7	Jakub	Zelený			18	student	Běstvina, Vestec	99	53	0	M
+5301	571181	1	2	901	7	František	Zelený			59	řidič	Běstvina, Spačice	99	80	0	M
+5301	571181	1	3	1	7	Pavel	Bobek			64	podnikatel	Běstvina	99	1	0	M
+5301	571181	1	1	53	8	Radek	Kosina			31	OSVČ	Běstvina, Rostejn	99	53	0	M
+5301	571181	1	2	901	8	Josef	Kovačka			28	soukromý podnikatel	Běstvina, Vestec	99	80	0	M
+5301	571181	1	3	1	8	Vladimír	Maixner			53	OSVČ	Běstvina	99	1	0	M
+5301	571181	1	1	53	9	Radek	Schneberger			22	dělník	Běstvina, Vestec	99	53	0	M
+5301	571181	1	2	901	9	Andrea	Procházková	Ing.		32	technička - na mateř. dovolené	Běstvina	99	80	0	F
+5301	571181	1	3	1	9	Kateřina	Stará	MUDr.		43	lékařka	Běstvina	99	1	0	F
+5301	571181	1	1	53	10	Miloš	Panocha			65	důchodce	Běstvina	99	53	0	M
+5301	571181	1	2	901	10	Martin	Trojan			32	hasič	Běstvina, Vestec	99	80	0	M
+5301	571181	1	3	1	10	Martin	Šimon			36	dělník	Běstvina, Rostejn	99	1	0	M
+5301	571181	1	1	53	11	Jaromír	Bolech			19	student	Běstvina	99	53	0	M
+5301	571181	1	2	901	11	Pavel	Dolejš			27	živnostník	Běstvina, Rostejn	99	80	0	M
+5301	571181	1	3	1	11	Martina	Vojtěchová			34	poštovní doručovatelka	Běstvina, Vestec	99	1	0	F

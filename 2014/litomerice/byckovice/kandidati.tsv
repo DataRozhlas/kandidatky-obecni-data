@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	546780	1	1	903	1	Lenka	Vítková	F	Mgr.		46	učitelka SŠ	Býčkovice	99	80	0
-4203	546780	1	1	903	2	Miroslav	Novák	M			40	technik	Býčkovice	99	80	0
-4203	546780	1	1	903	3	Daniel	Tonini	M	Bc.		50	státní zaměstnanec	Býčkovice	99	80	0
-4203	546780	1	1	903	4	Vladimíra	Horčíková	F			47	zdravotní sestra	Býčkovice	99	80	0
-4203	546780	1	1	903	5	Martin	Houška	M			28	výpravčí	Býčkovice	99	80	0
-4203	546780	1	1	903	6	Milan	Bažant	M			31	obchodník	Býčkovice	99	80	0
-4203	546780	1	1	903	7	Alena	Žampachová	F			38	podnikatelka	Býčkovice	99	80	0
-4203	546780	1	2	901	1	Vratislav	Prokůpek	M			57	technik STK	Velký Újezd	99	80	0
-4203	546780	1	2	901	2	Ladislav	Petrák	M			40	pracovník expedice	Velký Újezd	99	80	0
-4203	546780	1	2	901	3	Radek	Sibera	M			38	mistr výroby	Velký Újezd	99	80	0
-4203	546780	1	2	901	4	Petra	Radicsová	F			29	procesní technik	Velký Újezd	99	80	0
-4203	546780	1	2	901	5	Dagmar	Šecová	F			38	poštovní doručovatelka	Velký Újezd	99	80	0
-4203	546780	1	2	901	6	Dagmar	Šecová	F			20	nezaměstnaná	Velký Újezd	99	80	0
-4203	546780	1	3	902	1	Jana	Toniniová	F	Ing.		61	důchodce	Býčkovice	99	80	0
-4203	546780	1	3	902	2	Jindřiška	Hercíková	F			53	úřednice	Býčkovice	99	80	0
-4203	546780	1	3	902	3	Alena	Černá	F			41	kuchařka	Býčkovice	99	80	0
-4203	546780	1	3	902	4	Petra	Grospičová	F			33	v domácnosti	Býčkovice	99	80	0
-4203	546780	1	3	902	5	Ilona	Hromadová	F			57	v domácnosti	Býčkovice	99	80	0
-4203	546780	1	3	902	6	Stanislav	Černý	M			41	klempíř	Býčkovice	99	80	0
-4203	546780	1	3	902	7	Jiří	Tonini	M			59	strojvedoucí	Býčkovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	546780	1	1	903	1	Lenka	Vítková	Mgr.		46	učitelka SŠ	Býčkovice	99	80	0	F
+4203	546780	1	2	901	1	Vratislav	Prokůpek			57	technik STK	Velký Újezd	99	80	0	M
+4203	546780	1	3	902	1	Jana	Toniniová	Ing.		61	důchodce	Býčkovice	99	80	0	F
+4203	546780	1	1	903	2	Miroslav	Novák			40	technik	Býčkovice	99	80	0	M
+4203	546780	1	2	901	2	Ladislav	Petrák			40	pracovník expedice	Velký Újezd	99	80	0	M
+4203	546780	1	3	902	2	Jindřiška	Hercíková			53	úřednice	Býčkovice	99	80	0	F
+4203	546780	1	1	903	3	Daniel	Tonini	Bc.		50	státní zaměstnanec	Býčkovice	99	80	0	M
+4203	546780	1	2	901	3	Radek	Sibera			38	mistr výroby	Velký Újezd	99	80	0	M
+4203	546780	1	3	902	3	Alena	Černá			41	kuchařka	Býčkovice	99	80	0	F
+4203	546780	1	1	903	4	Vladimíra	Horčíková			47	zdravotní sestra	Býčkovice	99	80	0	F
+4203	546780	1	2	901	4	Petra	Radicsová			29	procesní technik	Velký Újezd	99	80	0	F
+4203	546780	1	3	902	4	Petra	Grospičová			33	v domácnosti	Býčkovice	99	80	0	F
+4203	546780	1	1	903	5	Martin	Houška			28	výpravčí	Býčkovice	99	80	0	M
+4203	546780	1	2	901	5	Dagmar	Šecová			38	poštovní doručovatelka	Velký Újezd	99	80	0	F
+4203	546780	1	3	902	5	Ilona	Hromadová			57	v domácnosti	Býčkovice	99	80	0	F
+4203	546780	1	1	903	6	Milan	Bažant			31	obchodník	Býčkovice	99	80	0	M
+4203	546780	1	2	901	6	Dagmar	Šecová			20	nezaměstnaná	Velký Újezd	99	80	0	F
+4203	546780	1	3	902	6	Stanislav	Černý			41	klempíř	Býčkovice	99	80	0	M
+4203	546780	1	1	903	7	Alena	Žampachová			38	podnikatelka	Býčkovice	99	80	0	F
+4203	546780	1	3	902	7	Jiří	Tonini			59	strojvedoucí	Býčkovice	99	80	0	M

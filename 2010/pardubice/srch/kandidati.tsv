@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5302	575682	1	1	901	1	Jana	Jiráňová	F	Ing.		47	starostka obce	Srch	99	80	0
-5302	575682	1	1	901	2	Petr	Němec	M			56	podnikatel	Srch	99	80	0
-5302	575682	1	1	901	3	Richard	Ležák	M			41	podnikatel	Srch	99	80	0
-5302	575682	1	1	901	4	Jakub	Hlaváček	M	Ing.		25	OSVČ	Hrádek	99	80	0
-5302	575682	1	1	901	5	Věra	Vrbová	F			54	manažerka	Pohránov	99	80	0
-5302	575682	1	1	901	6	Josef	Červený	M			57	podnikatel	Srch	99	80	0
-5302	575682	1	1	901	7	Petra	Tupá	F			34	kuchařka	Srch	99	80	0
-5302	575682	1	1	901	8	Vladimír	Červinka	M	MUDr.		39	lékař	Srch	99	80	0
-5302	575682	1	1	901	9	Radek	Hančák	M	Ing.		37	zemědělský poradce	Srch	99	80	0
-5302	575682	1	1	901	10	Vlastimil	Švadlenka	M			58	podnikatel	Srch	99	80	0
-5302	575682	1	1	901	11	Miroslav	Krupauer	M			49	podnikatel	Srch	99	80	0
-5302	575682	1	2	902	1	Jiří	Beránek	M	Ing.		62	obchodně-technický manažer	Srch	99	80	0
-5302	575682	1	2	902	2	Michal	Šprinc	M			30	manažer koordinace BOZP	Srch	99	80	0
-5302	575682	1	2	902	3	Iva	Vinklerová	F			34	OSVČ	Hrádek	99	80	0
-5302	575682	1	2	902	4	Lukáš	Polák	M	JUDr.		31	advokátní koncipient	Srch	99	80	0
-5302	575682	1	2	902	5	Simona	Píšová	F			40	celní deklarant	Srch	99	80	0
-5302	575682	1	2	902	6	Lukáš	Panchártek	M	Ing.		31	svářecí technolog	Srch	99	80	0
-5302	575682	1	2	902	7	Květoslava	Doležalová	F	Ing.		40	zemědělský inženýr	Srch	99	80	0
-5302	575682	1	2	902	8	Aleš	Maloch	M	Mgr.		31	kriminalista	Srch	99	80	0
-5302	575682	1	2	902	9	Michael	Fabián	M	Ing.		39	ředitel společnosti	Srch	99	80	0
-5302	575682	1	2	902	10	Pavla	Slezáková	F	Bc.		33	ekonomka	Srch	99	80	0
-5302	575682	1	2	902	11	Marta	Holická	F			35	referent majetkové správy	Hrádek	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5302	575682	1	1	901	1	Jana	Jiráňová	Ing.		47	starostka obce	Srch	99	80	0	F
+5302	575682	1	2	902	1	Jiří	Beránek	Ing.		62	obchodně-technický manažer	Srch	99	80	0	M
+5302	575682	1	1	901	2	Petr	Němec			56	podnikatel	Srch	99	80	0	M
+5302	575682	1	2	902	2	Michal	Šprinc			30	manažer koordinace BOZP	Srch	99	80	0	M
+5302	575682	1	1	901	3	Richard	Ležák			41	podnikatel	Srch	99	80	0	M
+5302	575682	1	2	902	3	Iva	Vinklerová			34	OSVČ	Hrádek	99	80	0	F
+5302	575682	1	1	901	4	Jakub	Hlaváček	Ing.		25	OSVČ	Hrádek	99	80	0	M
+5302	575682	1	2	902	4	Lukáš	Polák	JUDr.		31	advokátní koncipient	Srch	99	80	0	M
+5302	575682	1	1	901	5	Věra	Vrbová			54	manažerka	Pohránov	99	80	0	F
+5302	575682	1	2	902	5	Simona	Píšová			40	celní deklarant	Srch	99	80	0	F
+5302	575682	1	1	901	6	Josef	Červený			57	podnikatel	Srch	99	80	0	M
+5302	575682	1	2	902	6	Lukáš	Panchártek	Ing.		31	svářecí technolog	Srch	99	80	0	M
+5302	575682	1	1	901	7	Petra	Tupá			34	kuchařka	Srch	99	80	0	F
+5302	575682	1	2	902	7	Květoslava	Doležalová	Ing.		40	zemědělský inženýr	Srch	99	80	0	F
+5302	575682	1	1	901	8	Vladimír	Červinka	MUDr.		39	lékař	Srch	99	80	0	M
+5302	575682	1	2	902	8	Aleš	Maloch	Mgr.		31	kriminalista	Srch	99	80	0	M
+5302	575682	1	1	901	9	Radek	Hančák	Ing.		37	zemědělský poradce	Srch	99	80	0	M
+5302	575682	1	2	902	9	Michael	Fabián	Ing.		39	ředitel společnosti	Srch	99	80	0	M
+5302	575682	1	1	901	10	Vlastimil	Švadlenka			58	podnikatel	Srch	99	80	0	M
+5302	575682	1	2	902	10	Pavla	Slezáková	Bc.		33	ekonomka	Srch	99	80	0	F
+5302	575682	1	1	901	11	Miroslav	Krupauer			49	podnikatel	Srch	99	80	0	M
+5302	575682	1	2	902	11	Marta	Holická			35	referent majetkové správy	Hrádek	99	80	0	F

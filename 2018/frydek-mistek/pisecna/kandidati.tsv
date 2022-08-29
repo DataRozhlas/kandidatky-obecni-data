@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8102	557226	1	1	902	1	David	Ćmiel	M	Bc.		44	sociální pracovník	Písečná	166	80	A
-8102	557226	1	1	902	2	Pavel	Kantor	M	Mgr.		43	ředitel základní školy	Písečná	99	80	A
-8102	557226	1	1	902	3	Władyslaw	Sikora	M	Ing.		36	programátor	Písečná	99	80	A
-8102	557226	1	1	902	4	Marie	Byrtusová	F	Ing.		36	asistentka jednatele	Písečná	99	80	A
-8102	557226	1	1	902	5	Tomáš	Benek	M			43	provozní elektrikář	Písečná	99	80	A
-8102	557226	1	1	902	6	Libor	Szotkowski	M			52	hutník	Písečná	99	80	A
-8102	557226	1	1	902	7	Miroslav	Ćmiel	M			67	důchodce	Písečná	99	80	A
-8102	557226	1	2	7	1	Žaneta	Poloková	F			46	referent MěÚ	Písečná	7	7	A
-8102	557226	1	2	7	2	Radomír	Macoszek	M			45	vedoucí	Písečná	99	7	A
-8102	557226	1	2	7	3	Jitka	Krawczyková	F			40	Deputy HR Manager	Písečná	99	7	A
-8102	557226	1	2	7	4	Kateřina	Hrabětová	F	Ing.		42	účetní	Písečná	99	7	A
-8102	557226	1	2	7	5	Marta	Cieslarová	F			62	důchodce	Písečná	99	7	A
-8102	557226	1	2	7	6	Evžen	Lysek	M			46	dělník	Písečná	99	7	A
-8102	557226	1	2	7	7	Marie	Krzyžanková	F			52	úřednice	Písečná	99	7	A
-8102	557226	1	3	901	1	Jan	Krzok	M	Ing.		54	logistik	Písečná	99	80	A
-8102	557226	1	3	901	2	Kateřina	Sikorová	F			35	administrativní pracovník	Písečná	99	80	A
-8102	557226	1	3	901	3	Zdeněk	Buček	M			41	stavbyvedoucí	Písečná	99	80	A
-8102	557226	1	3	901	4	Radek	Byrtus	M	Ing.		37	projektant	Písečná	99	80	A
-8102	557226	1	3	901	5	Filip	Jaracz	M	Bc.		40	policista	Písečná	99	80	A
-8102	557226	1	3	901	6	Marie	Veličková	F	Ing.		40	referent dopravy	Písečná	99	80	A
-8102	557226	1	3	901	7	Bogdan	Cienciala	M	Mgr.		51	právník	Písečná	99	80	A
-8102	557226	1	3	901	8	David	Bielesz	M	Mgr.		29	učitel	Písečná	99	80	A
-8102	557226	1	3	901	9	Karel	Kaleta	M			55	OSVČ	Písečná	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8102	557226	1	1	902	1	David	Ćmiel	Bc.		44	sociální pracovník	Písečná	166	80	A	M
+8102	557226	1	2	7	1	Žaneta	Poloková			46	referent MěÚ	Písečná	7	7	A	F
+8102	557226	1	3	901	1	Jan	Krzok	Ing.		54	logistik	Písečná	99	80	A	M
+8102	557226	1	1	902	2	Pavel	Kantor	Mgr.		43	ředitel základní školy	Písečná	99	80	A	M
+8102	557226	1	2	7	2	Radomír	Macoszek			45	vedoucí	Písečná	99	7	A	M
+8102	557226	1	3	901	2	Kateřina	Sikorová			35	administrativní pracovník	Písečná	99	80	A	F
+8102	557226	1	1	902	3	Władyslaw	Sikora	Ing.		36	programátor	Písečná	99	80	A	M
+8102	557226	1	2	7	3	Jitka	Krawczyková			40	Deputy HR Manager	Písečná	99	7	A	F
+8102	557226	1	3	901	3	Zdeněk	Buček			41	stavbyvedoucí	Písečná	99	80	A	M
+8102	557226	1	1	902	4	Marie	Byrtusová	Ing.		36	asistentka jednatele	Písečná	99	80	A	F
+8102	557226	1	2	7	4	Kateřina	Hrabětová	Ing.		42	účetní	Písečná	99	7	A	F
+8102	557226	1	3	901	4	Radek	Byrtus	Ing.		37	projektant	Písečná	99	80	A	M
+8102	557226	1	1	902	5	Tomáš	Benek			43	provozní elektrikář	Písečná	99	80	A	M
+8102	557226	1	2	7	5	Marta	Cieslarová			62	důchodce	Písečná	99	7	A	F
+8102	557226	1	3	901	5	Filip	Jaracz	Bc.		40	policista	Písečná	99	80	A	M
+8102	557226	1	1	902	6	Libor	Szotkowski			52	hutník	Písečná	99	80	A	M
+8102	557226	1	2	7	6	Evžen	Lysek			46	dělník	Písečná	99	7	A	M
+8102	557226	1	3	901	6	Marie	Veličková	Ing.		40	referent dopravy	Písečná	99	80	A	F
+8102	557226	1	1	902	7	Miroslav	Ćmiel			67	důchodce	Písečná	99	80	A	M
+8102	557226	1	2	7	7	Marie	Krzyžanková			52	úřednice	Písečná	99	7	A	F
+8102	557226	1	3	901	7	Bogdan	Cienciala	Mgr.		51	právník	Písečná	99	80	A	M
+8102	557226	1	3	901	8	David	Bielesz	Mgr.		29	učitel	Písečná	99	80	A	M
+8102	557226	1	3	901	9	Karel	Kaleta			55	OSVČ	Písečná	99	80	A	M

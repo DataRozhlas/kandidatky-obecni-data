@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6104	591611	1	1	1	1	Stanislav	Štork	M	Ing.		46	stavební technik, místostarosta	Rokytnice nad Rokytnou	99	1	A
-6104	591611	1	1	1	2	Jana	Štefánková	F	Mgr.		48	specialista komunikace	Rokytnice nad Rokytnou	99	1	A
-6104	591611	1	1	1	3	Josef	Herbrych	M	Ing.		59	manažer	Rokytnice nad Rokytnou	1	1	A
-6104	591611	1	1	1	4	Rostislav	Musil	M	Bc.		33	servisní technik	Rokytnice nad Rokytnou	99	1	A
-6104	591611	1	1	1	5	Libuše	Sochnová	F			62	účetní	Rokytnice nad Rokytnou	99	1	A
-6104	591611	1	1	1	6	Petr	Herbrych	M	Bc.		22	student	Rokytnice nad Rokytnou	1	1	A
-6104	591611	1	1	1	7	František	Svoboda	M			48	elektrikář	Rokytnice nad Rokytnou	99	1	A
-6104	591611	1	1	1	8	Martin	Špaček	M			50	projektant, jednatel firmy	Rokytnice nad Rokytnou	99	1	A
-6104	591611	1	1	1	9	Pavlína	Haklová	F			49	zubní instrumentářka	Rokytnice nad Rokytnou	99	1	A
-6104	591611	1	1	1	10	Petr	Štork	M	Bc.	DiS.	45	průmyslový inženýr	Rokytnice nad Rokytnou	99	1	A
-6104	591611	1	1	1	11	Magdalena	Nováková	F		DiS.	50	sociální pracovnice	Rokytnice nad Rokytnou	99	1	A
-6104	591611	1	2	47	1	Radek	Šulc	M			43	OSVČ	Rokytnice nad Rokytnou	99	47	A
-6104	591611	1	2	47	2	Marcela	Bobková	F			50	referent	Rokytnice nad Rokytnou	99	47	A
-6104	591611	1	2	47	3	Petr	Dokulil	M			47	zámečník	Rokytnice nad Rokytnou	99	47	A
-6104	591611	1	2	47	4	Milan	Bartejs	M			53	OSVČ	Rokytnice nad Rokytnou	99	47	A
-6104	591611	1	2	47	5	Štěpán	Špaček	M			56	montér	Rokytnice nad Rokytnou	99	47	A
-6104	591611	1	2	47	6	Radka	Křivanová	F			43	školnice	Rokytnice nad Rokytnou	99	47	A
-6104	591611	1	2	47	7	Erika	Dokulilová				44	invalidní důchodkyně	Rokytnice nad Rokytnou	99	47	A
-6104	591611	1	2	47	8	Slavomír	Maštera	M			45	OSVČ	Rokytnice nad Rokytnou	99	47	A
-6104	591611	1	2	47	9	Věra	Václavková	F	Ing.		63	důchodce	Rokytnice nad Rokytnou	47	47	A
-6104	591611	1	2	47	10	Jaroslav	Machoň	M			62	OSVČ	Rokytnice nad Rokytnou	99	47	A
-6104	591611	1	2	47	11	Miroslav	Špaček	M			70	důchodce	Rokytnice nad Rokytnou	47	47	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6104	591611	1	1	1	1	Stanislav	Štork	Ing.		46	stavební technik, místostarosta	Rokytnice nad Rokytnou	99	1	A	M
+6104	591611	1	2	47	1	Radek	Šulc			43	OSVČ	Rokytnice nad Rokytnou	99	47	A	M
+6104	591611	1	1	1	2	Jana	Štefánková	Mgr.		48	specialista komunikace	Rokytnice nad Rokytnou	99	1	A	F
+6104	591611	1	2	47	2	Marcela	Bobková			50	referent	Rokytnice nad Rokytnou	99	47	A	F
+6104	591611	1	1	1	3	Josef	Herbrych	Ing.		59	manažer	Rokytnice nad Rokytnou	1	1	A	M
+6104	591611	1	2	47	3	Petr	Dokulil			47	zámečník	Rokytnice nad Rokytnou	99	47	A	M
+6104	591611	1	1	1	4	Rostislav	Musil	Bc.		33	servisní technik	Rokytnice nad Rokytnou	99	1	A	M
+6104	591611	1	2	47	4	Milan	Bartejs			53	OSVČ	Rokytnice nad Rokytnou	99	47	A	M
+6104	591611	1	1	1	5	Libuše	Sochnová			62	účetní	Rokytnice nad Rokytnou	99	1	A	F
+6104	591611	1	2	47	5	Štěpán	Špaček			56	montér	Rokytnice nad Rokytnou	99	47	A	M
+6104	591611	1	1	1	6	Petr	Herbrych	Bc.		22	student	Rokytnice nad Rokytnou	1	1	A	M
+6104	591611	1	2	47	6	Radka	Křivanová			43	školnice	Rokytnice nad Rokytnou	99	47	A	F
+6104	591611	1	1	1	7	František	Svoboda			48	elektrikář	Rokytnice nad Rokytnou	99	1	A	M
+6104	591611	1	2	47	7	Erika	Dokulilová			44	invalidní důchodkyně	Rokytnice nad Rokytnou	99	47	A	
+6104	591611	1	1	1	8	Martin	Špaček			50	projektant, jednatel firmy	Rokytnice nad Rokytnou	99	1	A	M
+6104	591611	1	2	47	8	Slavomír	Maštera			45	OSVČ	Rokytnice nad Rokytnou	99	47	A	M
+6104	591611	1	1	1	9	Pavlína	Haklová			49	zubní instrumentářka	Rokytnice nad Rokytnou	99	1	A	F
+6104	591611	1	2	47	9	Věra	Václavková	Ing.		63	důchodce	Rokytnice nad Rokytnou	47	47	A	F
+6104	591611	1	1	1	10	Petr	Štork	Bc.	DiS.	45	průmyslový inženýr	Rokytnice nad Rokytnou	99	1	A	M
+6104	591611	1	2	47	10	Jaroslav	Machoň			62	OSVČ	Rokytnice nad Rokytnou	99	47	A	M
+6104	591611	1	1	1	11	Magdalena	Nováková		DiS.	50	sociální pracovnice	Rokytnice nad Rokytnou	99	1	A	F
+6104	591611	1	2	47	11	Miroslav	Špaček			70	důchodce	Rokytnice nad Rokytnou	47	47	A	M

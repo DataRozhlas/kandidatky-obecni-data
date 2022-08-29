@@ -1,33 +1,33 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7204	585441	1	1	903	1	Stanislav	Bartoš	M			48	starosta	Ludkovice	99	80	0
-7204	585441	1	1	903	2	Robert	Dvorník	M			43	instalatér	Ludkovice	99	80	0
-7204	585441	1	1	903	3	Jaroslav	Pleca	M			44	podnikatel	Ludkovice	99	80	0
-7204	585441	1	1	903	4	Radek	Mikel	M			46	technik	Ludkovice	99	80	0
-7204	585441	1	1	903	5	Robert	Kunorza	M			34	jednatel společnosti	Ludkovice	99	80	0
-7204	585441	1	1	903	6	Filip	Kunorza	M			32	technik	Ludkovice	99	80	0
-7204	585441	1	1	903	7	Renáta	Talašová	F	Mgr.		27	probační úředník	Ludkovice	99	80	0
-7204	585441	1	1	903	8	Petr	Kunorza	M			44	technik	Ludkovice	99	80	0
-7204	585441	1	1	903	9	Romana	Urbancová	F	Bc.		31	radiolog. asistent	Ludkovice	99	80	0
-7204	585441	1	1	903	10	Milan	Hodný	M			35	technik	Ludkovice	99	80	0
-7204	585441	1	1	903	11	Pavel	Hanák	M			42	podnikatel	Ludkovice	99	80	0
-7204	585441	1	2	902	1	Josef	Bernátek	M			57	revírník	Ludkovice	99	80	0
-7204	585441	1	2	902	2	Zdeněk	Růžička	M			39	technik	Ludkovice	99	80	0
-7204	585441	1	2	902	3	Ludmila	Šůstková	F			46	OSVČ	Ludkovice	99	80	0
-7204	585441	1	2	902	4	Karel	Gavenda	M			54	inv. důchodce	Ludkovice	99	80	0
-7204	585441	1	2	902	5	Alois	Vítek	M			52	technik	Ludkovice	99	80	0
-7204	585441	1	2	902	6	Petr	Krajča	M			31	řidič	Ludkovice	99	80	0
-7204	585441	1	2	902	7	Miroslav	Mlček	M			55	inv.důchodce	Pradlisko	99	80	0
-7204	585441	1	2	902	8	Dalibor	Šůstek	M			48	dělník	Ludkovice	99	80	0
-7204	585441	1	2	902	9	Alexej	Studený	M			56	OSVČ	Ludkovice	99	80	0
-7204	585441	1	2	902	10	Stanislav	Gavenda	M			62	důchodce	Ludkovice	99	80	0
-7204	585441	1	3	901	1	Jitka	Studená	F			51	účetní	Ludkovice	99	80	0
-7204	585441	1	3	901	2	René	Ševčík	M	Bc.		42	státní zaměstnanec	Ludkovice	99	80	0
-7204	585441	1	3	901	3	Markéta	Šůstková	F			35	obchodní zástupce	Ludkovice	99	80	0
-7204	585441	1	3	901	4	Miroslav	Gärtner	M			39	zámečník	Ludkovice	99	80	0
-7204	585441	1	3	901	5	Věra	Juřičková	F			43	dělník	Ludkovice	99	80	0
-7204	585441	1	3	901	6	Karel	Večeřa	M			42	řidič	Ludkovice	99	80	0
-7204	585441	1	3	901	7	Josef	Vašina	M			49	truhlář	Ludkovice	99	80	0
-7204	585441	1	3	901	8	Aleš	Bartončík	M			28	řidič	Ludkovice	99	80	0
-7204	585441	1	3	901	9	Martin	Studený	M			29	mistr	Ludkovice	99	80	0
-7204	585441	1	3	901	10	Josef	Zábojník	M			58	dělník	Ludkovice	99	80	0
-7204	585441	1	3	901	11	František	Švadleňák	M			58	montér	Ludkovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7204	585441	1	1	903	1	Stanislav	Bartoš			48	starosta	Ludkovice	99	80	0	M
+7204	585441	1	2	902	1	Josef	Bernátek			57	revírník	Ludkovice	99	80	0	M
+7204	585441	1	3	901	1	Jitka	Studená			51	účetní	Ludkovice	99	80	0	F
+7204	585441	1	1	903	2	Robert	Dvorník			43	instalatér	Ludkovice	99	80	0	M
+7204	585441	1	2	902	2	Zdeněk	Růžička			39	technik	Ludkovice	99	80	0	M
+7204	585441	1	3	901	2	René	Ševčík	Bc.		42	státní zaměstnanec	Ludkovice	99	80	0	M
+7204	585441	1	1	903	3	Jaroslav	Pleca			44	podnikatel	Ludkovice	99	80	0	M
+7204	585441	1	2	902	3	Ludmila	Šůstková			46	OSVČ	Ludkovice	99	80	0	F
+7204	585441	1	3	901	3	Markéta	Šůstková			35	obchodní zástupce	Ludkovice	99	80	0	F
+7204	585441	1	1	903	4	Radek	Mikel			46	technik	Ludkovice	99	80	0	M
+7204	585441	1	2	902	4	Karel	Gavenda			54	inv. důchodce	Ludkovice	99	80	0	M
+7204	585441	1	3	901	4	Miroslav	Gärtner			39	zámečník	Ludkovice	99	80	0	M
+7204	585441	1	1	903	5	Robert	Kunorza			34	jednatel společnosti	Ludkovice	99	80	0	M
+7204	585441	1	2	902	5	Alois	Vítek			52	technik	Ludkovice	99	80	0	M
+7204	585441	1	3	901	5	Věra	Juřičková			43	dělník	Ludkovice	99	80	0	F
+7204	585441	1	1	903	6	Filip	Kunorza			32	technik	Ludkovice	99	80	0	M
+7204	585441	1	2	902	6	Petr	Krajča			31	řidič	Ludkovice	99	80	0	M
+7204	585441	1	3	901	6	Karel	Večeřa			42	řidič	Ludkovice	99	80	0	M
+7204	585441	1	1	903	7	Renáta	Talašová	Mgr.		27	probační úředník	Ludkovice	99	80	0	F
+7204	585441	1	2	902	7	Miroslav	Mlček			55	inv.důchodce	Pradlisko	99	80	0	M
+7204	585441	1	3	901	7	Josef	Vašina			49	truhlář	Ludkovice	99	80	0	M
+7204	585441	1	1	903	8	Petr	Kunorza			44	technik	Ludkovice	99	80	0	M
+7204	585441	1	2	902	8	Dalibor	Šůstek			48	dělník	Ludkovice	99	80	0	M
+7204	585441	1	3	901	8	Aleš	Bartončík			28	řidič	Ludkovice	99	80	0	M
+7204	585441	1	1	903	9	Romana	Urbancová	Bc.		31	radiolog. asistent	Ludkovice	99	80	0	F
+7204	585441	1	2	902	9	Alexej	Studený			56	OSVČ	Ludkovice	99	80	0	M
+7204	585441	1	3	901	9	Martin	Studený			29	mistr	Ludkovice	99	80	0	M
+7204	585441	1	1	903	10	Milan	Hodný			35	technik	Ludkovice	99	80	0	M
+7204	585441	1	2	902	10	Stanislav	Gavenda			62	důchodce	Ludkovice	99	80	0	M
+7204	585441	1	3	901	10	Josef	Zábojník			58	dělník	Ludkovice	99	80	0	M
+7204	585441	1	1	903	11	Pavel	Hanák			42	podnikatel	Ludkovice	99	80	0	M
+7204	585441	1	3	901	11	František	Švadleňák			58	montér	Ludkovice	99	80	0	M

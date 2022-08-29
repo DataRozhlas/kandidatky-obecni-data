@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	561045	1	1	902	1	František	Ondřich	M			62	důchodce	Smržov	99	80	0
-3103	561045	1	1	902	2	František	Valenta	M			43	zámečník	Smržov	99	80	0
-3103	561045	1	1	902	3	Josef	Žižka	M			68	důchodce	Smržov	99	80	0
-3103	561045	1	1	902	4	František	Tík	M	Ing.		60	účetní poradce	Smržov	99	80	0
-3103	561045	1	1	902	5	Jitka	Vyžralová	F			50	vychovatelka	Smržov	99	80	0
-3103	561045	1	2	901	1	Marcel	Škarda	M			41	automechanik	Smržov	99	80	0
-3103	561045	1	2	901	2	Stanislav	Žižka	M			66	důchodce	Smržov	99	80	0
-3103	561045	1	2	901	3	Josef	Paul	M			58	podnikatel	Smržov	99	80	0
-3103	561045	1	2	901	4	Pavel	Valenta	M			38	řidič	Smržov	99	80	0
-3103	561045	1	2	901	5	Jiří	Svoboda	M			47	podnikatel	Smržov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	561045	1	1	902	1	František	Ondřich			62	důchodce	Smržov	99	80	0	M
+3103	561045	1	2	901	1	Marcel	Škarda			41	automechanik	Smržov	99	80	0	M
+3103	561045	1	1	902	2	František	Valenta			43	zámečník	Smržov	99	80	0	M
+3103	561045	1	2	901	2	Stanislav	Žižka			66	důchodce	Smržov	99	80	0	M
+3103	561045	1	1	902	3	Josef	Žižka			68	důchodce	Smržov	99	80	0	M
+3103	561045	1	2	901	3	Josef	Paul			58	podnikatel	Smržov	99	80	0	M
+3103	561045	1	1	902	4	František	Tík	Ing.		60	účetní poradce	Smržov	99	80	0	M
+3103	561045	1	2	901	4	Pavel	Valenta			38	řidič	Smržov	99	80	0	M
+3103	561045	1	1	902	5	Jitka	Vyžralová			50	vychovatelka	Smržov	99	80	0	F
+3103	561045	1	2	901	5	Jiří	Svoboda			47	podnikatel	Smržov	99	80	0	M

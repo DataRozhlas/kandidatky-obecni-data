@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3205	559482	1	1	901	1	Jan	Křepelka	M			56	dělník	Tis u Blatna	99	80	0
-3205	559482	1	1	901	2	Václav	Chlupsa	M			50	dělník	Tis u Blatna	99	80	0
-3205	559482	1	1	901	3	Ivan	Jeřábek	M	MUDr.		61	lékař	Tis u Blatna	99	80	0
-3205	559482	1	1	901	4	Stanislav	Ptáček	M			65	důchodce	Tis u Blatna	99	80	0
-3205	559482	1	1	901	5	Michal	Kohel	M			26	truhlář	Tis u Blatna	99	80	0
-3205	559482	1	1	901	6	Lucie	Krumlová	F			33	podnikatel	Tis u Blatna	99	80	0
-3205	559482	1	1	901	7	Michaela	Franková	F			35	operátor	Kračín	99	80	0
-3205	559482	1	1	901	8	František	Frank	M			52	dělník	Kračín	99	80	0
-3205	559482	1	2	902	1	Blanka	Nováková	F			60	důchodce	Tis u Blatna	99	80	0
-3205	559482	1	2	902	2	Pavel	Jelínek	M			43	vedoucí stavby	Tis u Blatna	99	80	0
-3205	559482	1	2	902	3	Miroslava	Pracnová	F			43	živnostník	Tis u Blatna	99	80	0
-3205	559482	1	2	902	4	Zdeněk	Vraj	M			29	operátor	Tis u Blatna	99	80	0
-3205	559482	1	2	902	5	Josef	Mráz	M			62	důchodce	Kračín	99	80	0
-3205	559482	1	2	902	6	Josef	Čech	M			73	důchodce	Kračín	99	80	0
-3205	559482	1	2	902	7	Zdeněk	Brabec	M			73	důchodce	Tis u Blatna	99	80	0
-3205	559482	1	2	902	8	Josef	Pilz	M			68	důchodce	Kračín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3205	559482	1	1	901	1	Jan	Křepelka			56	dělník	Tis u Blatna	99	80	0	M
+3205	559482	1	2	902	1	Blanka	Nováková			60	důchodce	Tis u Blatna	99	80	0	F
+3205	559482	1	1	901	2	Václav	Chlupsa			50	dělník	Tis u Blatna	99	80	0	M
+3205	559482	1	2	902	2	Pavel	Jelínek			43	vedoucí stavby	Tis u Blatna	99	80	0	M
+3205	559482	1	1	901	3	Ivan	Jeřábek	MUDr.		61	lékař	Tis u Blatna	99	80	0	M
+3205	559482	1	2	902	3	Miroslava	Pracnová			43	živnostník	Tis u Blatna	99	80	0	F
+3205	559482	1	1	901	4	Stanislav	Ptáček			65	důchodce	Tis u Blatna	99	80	0	M
+3205	559482	1	2	902	4	Zdeněk	Vraj			29	operátor	Tis u Blatna	99	80	0	M
+3205	559482	1	1	901	5	Michal	Kohel			26	truhlář	Tis u Blatna	99	80	0	M
+3205	559482	1	2	902	5	Josef	Mráz			62	důchodce	Kračín	99	80	0	M
+3205	559482	1	1	901	6	Lucie	Krumlová			33	podnikatel	Tis u Blatna	99	80	0	F
+3205	559482	1	2	902	6	Josef	Čech			73	důchodce	Kračín	99	80	0	M
+3205	559482	1	1	901	7	Michaela	Franková			35	operátor	Kračín	99	80	0	F
+3205	559482	1	2	902	7	Zdeněk	Brabec			73	důchodce	Tis u Blatna	99	80	0	M
+3205	559482	1	1	901	8	František	Frank			52	dělník	Kračín	99	80	0	M
+3205	559482	1	2	902	8	Josef	Pilz			68	důchodce	Kračín	99	80	0	M

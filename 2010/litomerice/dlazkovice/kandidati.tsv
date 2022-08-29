@@ -1,20 +1,20 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	564737	1	1	704	1	Miroslava	Bendová	F			64	důchodce	Dlažkovice	99	704	0
-4203	564737	1	1	704	2	Stanislav	Douša	M			54	živnostník	Dlažkovice	99	704	0
-4203	564737	1	1	704	3	Miloš	Hnilica	M			47	zámečník	Dlažkovice	99	704	0
-4203	564737	1	1	704	4	Luboš	Týce	M			31	logistik	Dlažkovice	99	704	0
-4203	564737	1	1	704	5	Dagmar	Kučerová	F			39	uklízečka	Dlažkovice	99	704	0
-4203	564737	1	1	704	6	Marcela	Suchomelová	F			33	poštovní doručovatelka	Dlažkovice	99	704	0
-4203	564737	1	1	704	7	Tomáš	Douša	M			30	údržbář	Dlažkovice	99	704	0
-4203	564737	1	2	901	1	Helena	Opavová	F			42	vychovatelka	Dlažkovice	99	80	0
-4203	564737	1	2	901	2	Jiří	Cíl	M			43	technik	Dlažkovice	99	80	0
-4203	564737	1	2	901	3	Pavel	Rosypal	M			23	chemik	Dlažkovice	99	80	0
-4203	564737	1	2	901	4	Martina	Rulfová	F			18	studentka	Dlažkovice	99	80	0
-4203	564737	1	2	901	5	Tomáš	Linhart	M			29	instalatér	Dlažkovice	99	80	0
-4203	564737	1	3	902	1	Martin	Rulf	M			42	živnostník	Dlažkovice	99	80	0
-4203	564737	1	3	902	2	Marie	Kočková	F			30	aranžérka	Dlažkovice	99	80	0
-4203	564737	1	3	902	3	Karel	Böhm	M			55	zedník	Dlažkovice	99	80	0
-4203	564737	1	3	902	4	Ladislav	Rosypal	M			57	živnostník	Dlažkovice	99	80	0
-4203	564737	1	3	902	5	Romana	Opavová	F			19	studentka	Dlažkovice	99	80	0
-4203	564737	1	3	902	6	Eduarda	Rauchová	F			44	zahradnice	Dlažkovice	99	80	0
-4203	564737	1	3	902	7	Jiří	Vahala	M			61	živnostník	Dlažkovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	564737	1	1	704	1	Miroslava	Bendová			64	důchodce	Dlažkovice	99	704	0	F
+4203	564737	1	2	901	1	Helena	Opavová			42	vychovatelka	Dlažkovice	99	80	0	F
+4203	564737	1	3	902	1	Martin	Rulf			42	živnostník	Dlažkovice	99	80	0	M
+4203	564737	1	1	704	2	Stanislav	Douša			54	živnostník	Dlažkovice	99	704	0	M
+4203	564737	1	2	901	2	Jiří	Cíl			43	technik	Dlažkovice	99	80	0	M
+4203	564737	1	3	902	2	Marie	Kočková			30	aranžérka	Dlažkovice	99	80	0	F
+4203	564737	1	1	704	3	Miloš	Hnilica			47	zámečník	Dlažkovice	99	704	0	M
+4203	564737	1	2	901	3	Pavel	Rosypal			23	chemik	Dlažkovice	99	80	0	M
+4203	564737	1	3	902	3	Karel	Böhm			55	zedník	Dlažkovice	99	80	0	M
+4203	564737	1	1	704	4	Luboš	Týce			31	logistik	Dlažkovice	99	704	0	M
+4203	564737	1	2	901	4	Martina	Rulfová			18	studentka	Dlažkovice	99	80	0	F
+4203	564737	1	3	902	4	Ladislav	Rosypal			57	živnostník	Dlažkovice	99	80	0	M
+4203	564737	1	1	704	5	Dagmar	Kučerová			39	uklízečka	Dlažkovice	99	704	0	F
+4203	564737	1	2	901	5	Tomáš	Linhart			29	instalatér	Dlažkovice	99	80	0	M
+4203	564737	1	3	902	5	Romana	Opavová			19	studentka	Dlažkovice	99	80	0	F
+4203	564737	1	1	704	6	Marcela	Suchomelová			33	poštovní doručovatelka	Dlažkovice	99	704	0	F
+4203	564737	1	3	902	6	Eduarda	Rauchová			44	zahradnice	Dlažkovice	99	80	0	F
+4203	564737	1	1	704	7	Tomáš	Douša			30	údržbář	Dlažkovice	99	704	0	M
+4203	564737	1	3	902	7	Jiří	Vahala			61	živnostník	Dlažkovice	99	80	0	M

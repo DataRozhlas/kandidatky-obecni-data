@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3205	559083	1	1	901	1	Václav	Janouškovec	M	Ing.		64	důchodce	Krašovice	99	80	A
-3205	559083	1	1	901	2	Karel	Cvačka	M	Ing.	Ph.D.	62	podnikatel	Krašovice	99	80	A
-3205	559083	1	1	901	3	Rostislav	Forejt	M	Ing.		50	podnikatel	Krašovice	99	80	A
-3205	559083	1	1	901	4	Dana	Täglová	F			32	obchodní asistentka	Krašovice	99	80	A
-3205	559083	1	1	901	5	Magda	Sýkorová	F	Ing.		39	ředitelka úz.odb. IROP pro PK	Krašovice	99	80	A
-3205	559083	1	1	901	6	Milan	Kovařík	M	Ing.		55	podnikatel	Krašovice	99	80	A
-3205	559083	1	1	901	7	Martina	Jurčagová	F	Ing.		52	finanční ředitelka	Krašovice	99	80	A
-3205	559083	1	1	901	8	Matěj	Čepelák	M		DiS.	39	technický dozor	Krašovice	99	80	A
-3205	559083	1	1	901	9	Petr	Mašát	M			43	strojník	Krašovice	99	80	A
-3205	559083	1	2	47	1	Václav	Duchek	M			79	důchodce	Krašovice	47	47	A
-3205	559083	1	2	47	2	Josef	Henžlík	M	Ing.		75	důchodce	Krašovice	47	47	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3205	559083	1	1	901	1	Václav	Janouškovec	Ing.		64	důchodce	Krašovice	99	80	A	M
+3205	559083	1	2	47	1	Václav	Duchek			79	důchodce	Krašovice	47	47	A	M
+3205	559083	1	1	901	2	Karel	Cvačka	Ing.	Ph.D.	62	podnikatel	Krašovice	99	80	A	M
+3205	559083	1	2	47	2	Josef	Henžlík	Ing.		75	důchodce	Krašovice	47	47	A	M
+3205	559083	1	1	901	3	Rostislav	Forejt	Ing.		50	podnikatel	Krašovice	99	80	A	M
+3205	559083	1	1	901	4	Dana	Täglová			32	obchodní asistentka	Krašovice	99	80	A	F
+3205	559083	1	1	901	5	Magda	Sýkorová	Ing.		39	ředitelka úz.odb. IROP pro PK	Krašovice	99	80	A	F
+3205	559083	1	1	901	6	Milan	Kovařík	Ing.		55	podnikatel	Krašovice	99	80	A	M
+3205	559083	1	1	901	7	Martina	Jurčagová	Ing.		52	finanční ředitelka	Krašovice	99	80	A	F
+3205	559083	1	1	901	8	Matěj	Čepelák		DiS.	39	technický dozor	Krašovice	99	80	A	M
+3205	559083	1	1	901	9	Petr	Mašát			43	strojník	Krašovice	99	80	A	M

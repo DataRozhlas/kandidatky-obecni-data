@@ -1,9 +1,9 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3204	558117	1	1	801	1	Pavel	Lešetický	M	Ing.		32	vedoucí přípravy staveb	Netunice	99	80	0
-3204	558117	1	2	901	1	Petr	Mašek	M			41	policista	Netunice	99	80	0
-3204	558117	1	2	901	2	Vladislav	Soukup	M	Ing.		47	OSVČ	Netunice	99	80	0
-3204	558117	1	2	901	3	Gabriela	Soukupová	F			40	učitelka jazyků na mateřské dovolené	Netunice	99	80	0
-3204	558117	1	2	901	4	Radek	Sigmond	M			38	grafik	Netunice	99	80	0
-3204	558117	1	2	901	5	Lenka	Volfová	F	Ing.		32	konstruktérka na mateřské dovolené	Netunice-Mrtol	99	80	0
-3204	558117	1	2	901	6	Lucie	Kůsová	F			32	účetní na mateřské dovolené	Netunice	99	80	0
-3204	558117	1	2	901	7	Eva	Kvíderová	F			34	poštovní doručovatelka	Netunice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3204	558117	1	1	801	1	Pavel	Lešetický	Ing.		32	vedoucí přípravy staveb	Netunice	99	80	0	M
+3204	558117	1	2	901	1	Petr	Mašek			41	policista	Netunice	99	80	0	M
+3204	558117	1	2	901	2	Vladislav	Soukup	Ing.		47	OSVČ	Netunice	99	80	0	M
+3204	558117	1	2	901	3	Gabriela	Soukupová			40	učitelka jazyků na mateřské dovolené	Netunice	99	80	0	F
+3204	558117	1	2	901	4	Radek	Sigmond			38	grafik	Netunice	99	80	0	M
+3204	558117	1	2	901	5	Lenka	Volfová	Ing.		32	konstruktérka na mateřské dovolené	Netunice-Mrtol	99	80	0	F
+3204	558117	1	2	901	6	Lucie	Kůsová			32	účetní na mateřské dovolené	Netunice	99	80	0	F
+3204	558117	1	2	901	7	Eva	Kvíderová			34	poštovní doručovatelka	Netunice	99	80	0	F

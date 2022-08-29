@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589802	1	1	1	1	Lubomír	Nágl	M			61	pastorační asistent	Ohrozim	99	1	0
-7103	589802	1	1	1	2	Jiří	Vrba	M	MUDr.		48	lékař	Ohrozim	99	1	0
-7103	589802	1	1	1	3	Jaroslav	Somr	M			42	mistr výroby	Ohrozim	99	1	0
-7103	589802	1	1	1	4	Martina	Ehlová	F			18	student	Ohrozim	99	1	0
-7103	589802	1	1	1	5	Robert	Sivoň	M			49	živnostník	Ohrozim	99	1	0
-7103	589802	1	1	1	6	Miroslav	Rind	M			37	dispečer	Ohrozim	99	1	0
-7103	589802	1	1	1	7	Lubomír	Havlíček	M			44	ředitel prodeje	Ohrozim	99	1	0
-7103	589802	1	2	901	1	Michal	Lukeš	M	Ing.		53	starosta obce	Ohrozim	99	80	0
-7103	589802	1	2	901	2	Mojmír	Čarný	M	Ing.		48	lesní inženýr	Ohrozim	99	80	0
-7103	589802	1	2	901	3	Petr	Doseděl	M			51	OSVČ	Ohrozim	99	80	0
-7103	589802	1	2	901	4	Aleš	Adam	M			40	pracovník VZP	Ohrozim	99	80	0
-7103	589802	1	2	901	5	Petra	Kroutilová	F			38	pracovník státní správy	Ohrozim	99	80	0
-7103	589802	1	2	901	6	Pavla	Simonsen	F	Ing.		40	jednatel společnosti	Ohrozim	99	80	0
-7103	589802	1	2	901	7	Zdeněk	Bureš	M			62	OSVČ	Ohrozim	99	80	0
-7103	589802	1	2	901	8	Iveta	Kamarytová	F			33	přípravář výroby	Ohrozim	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589802	1	1	1	1	Lubomír	Nágl			61	pastorační asistent	Ohrozim	99	1	0	M
+7103	589802	1	2	901	1	Michal	Lukeš	Ing.		53	starosta obce	Ohrozim	99	80	0	M
+7103	589802	1	1	1	2	Jiří	Vrba	MUDr.		48	lékař	Ohrozim	99	1	0	M
+7103	589802	1	2	901	2	Mojmír	Čarný	Ing.		48	lesní inženýr	Ohrozim	99	80	0	M
+7103	589802	1	1	1	3	Jaroslav	Somr			42	mistr výroby	Ohrozim	99	1	0	M
+7103	589802	1	2	901	3	Petr	Doseděl			51	OSVČ	Ohrozim	99	80	0	M
+7103	589802	1	1	1	4	Martina	Ehlová			18	student	Ohrozim	99	1	0	F
+7103	589802	1	2	901	4	Aleš	Adam			40	pracovník VZP	Ohrozim	99	80	0	M
+7103	589802	1	1	1	5	Robert	Sivoň			49	živnostník	Ohrozim	99	1	0	M
+7103	589802	1	2	901	5	Petra	Kroutilová			38	pracovník státní správy	Ohrozim	99	80	0	F
+7103	589802	1	1	1	6	Miroslav	Rind			37	dispečer	Ohrozim	99	1	0	M
+7103	589802	1	2	901	6	Pavla	Simonsen	Ing.		40	jednatel společnosti	Ohrozim	99	80	0	F
+7103	589802	1	1	1	7	Lubomír	Havlíček			44	ředitel prodeje	Ohrozim	99	1	0	M
+7103	589802	1	2	901	7	Zdeněk	Bureš			62	OSVČ	Ohrozim	99	80	0	M
+7103	589802	1	2	901	8	Iveta	Kamarytová			33	přípravář výroby	Ohrozim	99	80	0	F

@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	582107	1	1	902	1	Ivo	Dvořáček	M			50	správce sítě	Nýrov	99	80	0
-6201	582107	1	1	902	2	Stanislav	Michal	M	Ing.		54	zemědělský inženýr	Nýrov	99	80	0
-6201	582107	1	1	902	3	Jaroslav	Horák	M	Ing.		57	stavební inženýr	Nýrov	99	80	0
-6201	582107	1	1	902	4	Radek	Dvořáček	M			44	bankovní úředník	Nýrov	99	80	0
-6201	582107	1	1	902	5	Pavel	Toman	M			51	soustružník	Nýrov	99	80	0
-6201	582107	1	1	902	6	Kamil	Čech	M			38	skladník	Nýrov	99	80	0
-6201	582107	1	1	902	7	Richard	Zárychta	M			35	OSVČ	Nýrov	99	80	0
-6201	582107	1	2	901	1	Roman	Šiller	M			33	státní zaměstnanec	Nýrov	99	80	0
-6201	582107	1	2	901	2	Aneta	Sedláčková	F	Ing.		32	referent městského úřadu	Nýrov	99	80	0
-6201	582107	1	2	901	3	Lenka	Páralová	F			32	prodavačka	Nýrov	99	80	0
-6201	582107	1	2	901	4	Milan	Hladil	M			36	obsluha tiskařského stroje	Nýrov	99	80	0
-6201	582107	1	2	901	5	Petr	Šikula	M			29	seřizovač CNC strojů	Nýrov	99	80	0
-6201	582107	1	2	901	6	Lenka	Čechová	F			39	vychovatelka	Nýrov	99	80	0
-6201	582107	1	2	901	7	Miroslava	Vítková	F	Mgr.		31	učitelka	Nýrov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	582107	1	1	902	1	Ivo	Dvořáček			50	správce sítě	Nýrov	99	80	0	M
+6201	582107	1	2	901	1	Roman	Šiller			33	státní zaměstnanec	Nýrov	99	80	0	M
+6201	582107	1	1	902	2	Stanislav	Michal	Ing.		54	zemědělský inženýr	Nýrov	99	80	0	M
+6201	582107	1	2	901	2	Aneta	Sedláčková	Ing.		32	referent městského úřadu	Nýrov	99	80	0	F
+6201	582107	1	1	902	3	Jaroslav	Horák	Ing.		57	stavební inženýr	Nýrov	99	80	0	M
+6201	582107	1	2	901	3	Lenka	Páralová			32	prodavačka	Nýrov	99	80	0	F
+6201	582107	1	1	902	4	Radek	Dvořáček			44	bankovní úředník	Nýrov	99	80	0	M
+6201	582107	1	2	901	4	Milan	Hladil			36	obsluha tiskařského stroje	Nýrov	99	80	0	M
+6201	582107	1	1	902	5	Pavel	Toman			51	soustružník	Nýrov	99	80	0	M
+6201	582107	1	2	901	5	Petr	Šikula			29	seřizovač CNC strojů	Nýrov	99	80	0	M
+6201	582107	1	1	902	6	Kamil	Čech			38	skladník	Nýrov	99	80	0	M
+6201	582107	1	2	901	6	Lenka	Čechová			39	vychovatelka	Nýrov	99	80	0	F
+6201	582107	1	1	902	7	Richard	Zárychta			35	OSVČ	Nýrov	99	80	0	M
+6201	582107	1	2	901	7	Miroslava	Vítková	Mgr.		31	učitelka	Nýrov	99	80	0	F

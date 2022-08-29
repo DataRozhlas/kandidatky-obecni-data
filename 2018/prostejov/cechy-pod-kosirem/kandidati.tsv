@@ -1,36 +1,36 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589381	1	1	166	1	Luboš	Mader	M			47	technik VMO, OSVČ	Čechy pod Kosířem	99	166	A
-7103	589381	1	1	166	2	David	Chromec	M			32	technik kontroly kvality	Čechy pod Kosířem	99	166	A
-7103	589381	1	1	166	3	Renáta	Kemelová	F			47	diplomovaná zdravotní sestra	Čechy pod Kosířem	99	166	A
-7103	589381	1	1	166	4	Jiří	Kubíček	M			29	OSVČ	Čechy pod Kosířem	99	166	A
-7103	589381	1	1	166	5	Filip	Přidal	M			39	OSVČ	Čechy pod Kosířem	99	166	A
-7103	589381	1	1	166	6	Dušan	Fišer	M			38	OSVČ	Čechy pod Kosířem	99	166	A
-7103	589381	1	1	166	7	Robert	Brzobohatý	M			53	OSVČ	Čechy pod Kosířem	99	166	A
-7103	589381	1	2	7	1	František	Střída	M	Ing.	Ph.D.	36	elektroenergetik	Čechy pod Kosířem	7	7	A
-7103	589381	1	2	7	2	Richard	Pospíšil	M			41	nákupčí	Čechy pod Kosířem	7	7	A
-7103	589381	1	2	7	3	Robert	Tyl	M			45	živnostník	Čechy pod Kosířem	99	7	A
-7103	589381	1	2	7	4	Martin	Židek	M			42	technik	Čechy pod Kosířem	7	7	A
-7103	589381	1	2	7	5	Michaela	Zatloukalová	F			57	invalidní důchodce	Čechy pod Kosířem	7	7	A
-7103	589381	1	2	7	6	Josef	Kopečný	M	Ing.		63	zemědělský inženýr	Čechy pod Kosířem	7	7	A
-7103	589381	1	2	7	7	Lenka	Havelková	F			49	prodavačka	Čechy pod Kosířem	7	7	A
-7103	589381	1	3	1	1	Milan	Kiebel	M	Ing.		55	starosta	Čechy pod Kosířem	99	1	A
-7103	589381	1	3	1	2	Jan	Pospíšil	M			63	místostarosta	Čechy pod Kosířem	1	1	A
-7103	589381	1	3	1	3	Antonín	Grepl	M			66	důchodce	Čechy pod Kosířem	1	1	A
-7103	589381	1	3	1	4	Jindřiška	Kristková	F			63	důchodkyně	Čechy pod Kosířem	99	1	A
-7103	589381	1	3	1	5	Jaroslav	Sloupský	M			46	řidič	Čechy pod Kosířem	99	1	A
-7103	589381	1	3	1	6	Jindřich	Otruba	M			72	důchodce	Čechy pod Kosířem	1	1	A
-7103	589381	1	3	1	7	Metoděj	Zaoral	M			64	důchodce	Čechy pod Kosířem	99	1	A
-7103	589381	1	4	47	1	Stanislava	Dopitová	F			70	důchodkyně	Čechy pod Kosířem	47	47	A
-7103	589381	1	4	47	2	Jiří	Urban	M			50	mistr v kovovýrobě	Čechy pod Kosířem	99	47	A
-7103	589381	1	4	47	3	Mojmír	Drápal	M			60	skladník	Čechy pod Kosířem	47	47	A
-7103	589381	1	4	47	4	Růžena	Steinerová	F			67	důchodkyně	Čechy pod Kosířem	47	47	A
-7103	589381	1	4	47	5	Alois	Mlčoch	M			60	elektromontér	Čechy pod Kosířem	99	47	A
-7103	589381	1	4	47	6	Jana	Střeláková	F			55	pracovnice obecního úřadu	Čechy pod Kosířem	99	47	A
-7103	589381	1	4	47	7	Martina	Floriánová	F			44	zdravotní sestra	Čechy pod Kosířem	99	47	A
-7103	589381	1	5	901	1	Iveta	Slámová	F	Bc.		51	ředitelka ZŠ a MŠ	Čechy pod Kosířem	7	80	A
-7103	589381	1	5	901	2	Petr	Klusáček	M			40	stavební mistr	Čechy pod Kosířem	99	80	A
-7103	589381	1	5	901	3	David	Hruban	M			45	mistr dřevovýroby	Čechy pod Kosířem	99	80	A
-7103	589381	1	5	901	4	Kristýna	Jurášová	F	Mgr.		41	ředitelka sociálních služeb	Čechy pod Kosířem	99	80	A
-7103	589381	1	5	901	5	Jan	Piták	M			58	malíř -  natěrač	Čechy pod Kosířem	99	80	A
-7103	589381	1	5	901	6	Miroslava	Buiglová	F			48	učitelka MŠ	Čechy pod Kosířem	7	80	A
-7103	589381	1	5	901	7	Pavla	Nemerádová	F			52	školnice	Čechy pod Kosířem	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589381	1	1	166	1	Luboš	Mader			47	technik VMO, OSVČ	Čechy pod Kosířem	99	166	A	M
+7103	589381	1	2	7	1	František	Střída	Ing.	Ph.D.	36	elektroenergetik	Čechy pod Kosířem	7	7	A	M
+7103	589381	1	3	1	1	Milan	Kiebel	Ing.		55	starosta	Čechy pod Kosířem	99	1	A	M
+7103	589381	1	4	47	1	Stanislava	Dopitová			70	důchodkyně	Čechy pod Kosířem	47	47	A	F
+7103	589381	1	5	901	1	Iveta	Slámová	Bc.		51	ředitelka ZŠ a MŠ	Čechy pod Kosířem	7	80	A	F
+7103	589381	1	1	166	2	David	Chromec			32	technik kontroly kvality	Čechy pod Kosířem	99	166	A	M
+7103	589381	1	2	7	2	Richard	Pospíšil			41	nákupčí	Čechy pod Kosířem	7	7	A	M
+7103	589381	1	3	1	2	Jan	Pospíšil			63	místostarosta	Čechy pod Kosířem	1	1	A	M
+7103	589381	1	4	47	2	Jiří	Urban			50	mistr v kovovýrobě	Čechy pod Kosířem	99	47	A	M
+7103	589381	1	5	901	2	Petr	Klusáček			40	stavební mistr	Čechy pod Kosířem	99	80	A	M
+7103	589381	1	1	166	3	Renáta	Kemelová			47	diplomovaná zdravotní sestra	Čechy pod Kosířem	99	166	A	F
+7103	589381	1	2	7	3	Robert	Tyl			45	živnostník	Čechy pod Kosířem	99	7	A	M
+7103	589381	1	3	1	3	Antonín	Grepl			66	důchodce	Čechy pod Kosířem	1	1	A	M
+7103	589381	1	4	47	3	Mojmír	Drápal			60	skladník	Čechy pod Kosířem	47	47	A	M
+7103	589381	1	5	901	3	David	Hruban			45	mistr dřevovýroby	Čechy pod Kosířem	99	80	A	M
+7103	589381	1	1	166	4	Jiří	Kubíček			29	OSVČ	Čechy pod Kosířem	99	166	A	M
+7103	589381	1	2	7	4	Martin	Židek			42	technik	Čechy pod Kosířem	7	7	A	M
+7103	589381	1	3	1	4	Jindřiška	Kristková			63	důchodkyně	Čechy pod Kosířem	99	1	A	F
+7103	589381	1	4	47	4	Růžena	Steinerová			67	důchodkyně	Čechy pod Kosířem	47	47	A	F
+7103	589381	1	5	901	4	Kristýna	Jurášová	Mgr.		41	ředitelka sociálních služeb	Čechy pod Kosířem	99	80	A	F
+7103	589381	1	1	166	5	Filip	Přidal			39	OSVČ	Čechy pod Kosířem	99	166	A	M
+7103	589381	1	2	7	5	Michaela	Zatloukalová			57	invalidní důchodce	Čechy pod Kosířem	7	7	A	F
+7103	589381	1	3	1	5	Jaroslav	Sloupský			46	řidič	Čechy pod Kosířem	99	1	A	M
+7103	589381	1	4	47	5	Alois	Mlčoch			60	elektromontér	Čechy pod Kosířem	99	47	A	M
+7103	589381	1	5	901	5	Jan	Piták			58	malíř -  natěrač	Čechy pod Kosířem	99	80	A	M
+7103	589381	1	1	166	6	Dušan	Fišer			38	OSVČ	Čechy pod Kosířem	99	166	A	M
+7103	589381	1	2	7	6	Josef	Kopečný	Ing.		63	zemědělský inženýr	Čechy pod Kosířem	7	7	A	M
+7103	589381	1	3	1	6	Jindřich	Otruba			72	důchodce	Čechy pod Kosířem	1	1	A	M
+7103	589381	1	4	47	6	Jana	Střeláková			55	pracovnice obecního úřadu	Čechy pod Kosířem	99	47	A	F
+7103	589381	1	5	901	6	Miroslava	Buiglová			48	učitelka MŠ	Čechy pod Kosířem	7	80	A	F
+7103	589381	1	1	166	7	Robert	Brzobohatý			53	OSVČ	Čechy pod Kosířem	99	166	A	M
+7103	589381	1	2	7	7	Lenka	Havelková			49	prodavačka	Čechy pod Kosířem	7	7	A	F
+7103	589381	1	3	1	7	Metoděj	Zaoral			64	důchodce	Čechy pod Kosířem	99	1	A	M
+7103	589381	1	4	47	7	Martina	Floriánová			44	zdravotní sestra	Čechy pod Kosířem	99	47	A	F
+7103	589381	1	5	901	7	Pavla	Nemerádová			52	školnice	Čechy pod Kosířem	99	80	A	F

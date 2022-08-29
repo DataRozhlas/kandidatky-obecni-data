@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5202	573329	1	1	903	1	Michal	Rambousek	M			43	OSVČ	Šlikova Ves	99	80	0
-5202	573329	1	1	903	2	Hana	Dubská	F			38	OSVČ	Šlikova Ves	99	80	0
-5202	573329	1	1	903	3	Josef	Havelka	M			65	důchodce	Šlikova Ves	99	80	0
-5202	573329	1	1	903	4	Vlastimil	Charvát	M			43	dělník	Šlikova Ves	99	80	0
-5202	573329	1	1	903	5	Jana	Flečková	F			38	dělnice	Šlikova Ves	99	80	0
-5202	573329	1	1	903	6	Roman	Řezníček	M			48	OSVČ	Šlikova Ves	99	80	0
-5202	573329	1	1	903	7	Milan	Havelka	M			40	řidič	Šlikova Ves	99	80	0
-5202	573329	1	1	903	8	Marie	Šebková	F			63	důchodce	Šlikova Ves	99	80	0
-5202	573329	1	1	903	9	Josef	Piri	M			22	dělník	Šlikova Ves	99	80	0
-5202	573329	1	2	902	1	Jaroslava	Elisová	F			66	důchodce	Hlásná Lhota	99	80	0
-5202	573329	1	2	902	2	Jiří	Trűbenekr	M			60	finanční poradce	Hlásná Lhota	99	80	0
-5202	573329	1	2	902	3	Milan	Dubský	M			61	skladník stav.	Hlásná Lhota	99	80	0
-5202	573329	1	2	902	4	Josef	Roudný	M			36	řidič	Hlásná Lhota	99	80	0
-5202	573329	1	2	902	5	Jiří	Štolovský	M			38	skladník	Hlásná Lhota	99	80	0
-5202	573329	1	2	902	6	Helena	Trűbenekrová	F			63	důchodce	Hlásná Lhota	99	80	0
-5202	573329	1	2	902	7	Anna	Danysová	F			57	prodavačka	Hlásná Lhota	99	80	0
-5202	573329	1	2	902	8	Jaromír	Mařan	M			36	dělník	Hlásná Lhota	99	80	0
-5202	573329	1	2	902	9	Rudolf	Lhota	M			44	nezaměstnaný	Hlásná Lhota	99	80	0
-5202	573329	1	3	904	1	Marcela	Fantová	F			40	obsluha čerpací stanice	Čejkovice	99	80	0
-5202	573329	1	3	904	2	Milan	Berný	M			56	pedagog	Čejkovice	99	80	0
-5202	573329	1	3	904	3	Josef	Buchar	M			52	vedoucí údržby	Čejkovice	99	80	0
-5202	573329	1	3	904	4	Miloš	Vích	M			42	montér vodovodu	Čejkovice	99	80	0
-5202	573329	1	3	904	5	Lenka	Petržílková	F			47	nákupčí	Čejkovice	99	80	0
-5202	573329	1	3	904	6	Pavel	Maška	M			52	podnikatel	Čejkovice	99	80	0
-5202	573329	1	3	904	7	Stanislava	Nožičková	F			42	asistent OTS	Čejkovice	99	80	0
-5202	573329	1	3	904	8	Petra	Víchová	F			40	montážní dělník	Čejkovice	99	80	0
-5202	573329	1	3	904	9	Jaroslav	Fanta	M			21	student	Čejkovice	99	80	0
-5202	573329	1	4	901	1	Eva	Heydová	F			66	důchodce	Podhradí	99	80	0
-5202	573329	1	4	901	2	Stanislava	Škaloudová	F			49	dispečer	Podhradí	99	80	0
-5202	573329	1	4	901	3	Milan	Veselý	M			29	státní zaměstnanec	Podhradí	99	80	0
-5202	573329	1	4	901	4	Radek	Veselý	M			28	státní zaměstnanec	Podhradí	99	80	0
-5202	573329	1	4	901	5	Jitka	Faustová	F			66	důchodce	Podhradí	99	80	0
-5202	573329	1	4	901	6	František	Faust	M			58	dělník	Podhradí	99	80	0
-5202	573329	1	4	901	7	Josef	Kysilka	M			38	vlakvedoucí	Podhradí	99	80	0
-5202	573329	1	4	901	8	Kateřina	Šimková	F			40	prodavačka	Podhradí	99	80	0
-5202	573329	1	4	901	9	Dana	Schovancová	F			60	důchodce	Podhradí	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5202	573329	1	1	903	1	Michal	Rambousek			43	OSVČ	Šlikova Ves	99	80	0	M
+5202	573329	1	2	902	1	Jaroslava	Elisová			66	důchodce	Hlásná Lhota	99	80	0	F
+5202	573329	1	3	904	1	Marcela	Fantová			40	obsluha čerpací stanice	Čejkovice	99	80	0	F
+5202	573329	1	4	901	1	Eva	Heydová			66	důchodce	Podhradí	99	80	0	F
+5202	573329	1	1	903	2	Hana	Dubská			38	OSVČ	Šlikova Ves	99	80	0	F
+5202	573329	1	2	902	2	Jiří	Trűbenekr			60	finanční poradce	Hlásná Lhota	99	80	0	M
+5202	573329	1	3	904	2	Milan	Berný			56	pedagog	Čejkovice	99	80	0	M
+5202	573329	1	4	901	2	Stanislava	Škaloudová			49	dispečer	Podhradí	99	80	0	F
+5202	573329	1	1	903	3	Josef	Havelka			65	důchodce	Šlikova Ves	99	80	0	M
+5202	573329	1	2	902	3	Milan	Dubský			61	skladník stav.	Hlásná Lhota	99	80	0	M
+5202	573329	1	3	904	3	Josef	Buchar			52	vedoucí údržby	Čejkovice	99	80	0	M
+5202	573329	1	4	901	3	Milan	Veselý			29	státní zaměstnanec	Podhradí	99	80	0	M
+5202	573329	1	1	903	4	Vlastimil	Charvát			43	dělník	Šlikova Ves	99	80	0	M
+5202	573329	1	2	902	4	Josef	Roudný			36	řidič	Hlásná Lhota	99	80	0	M
+5202	573329	1	3	904	4	Miloš	Vích			42	montér vodovodu	Čejkovice	99	80	0	M
+5202	573329	1	4	901	4	Radek	Veselý			28	státní zaměstnanec	Podhradí	99	80	0	M
+5202	573329	1	1	903	5	Jana	Flečková			38	dělnice	Šlikova Ves	99	80	0	F
+5202	573329	1	2	902	5	Jiří	Štolovský			38	skladník	Hlásná Lhota	99	80	0	M
+5202	573329	1	3	904	5	Lenka	Petržílková			47	nákupčí	Čejkovice	99	80	0	F
+5202	573329	1	4	901	5	Jitka	Faustová			66	důchodce	Podhradí	99	80	0	F
+5202	573329	1	1	903	6	Roman	Řezníček			48	OSVČ	Šlikova Ves	99	80	0	M
+5202	573329	1	2	902	6	Helena	Trűbenekrová			63	důchodce	Hlásná Lhota	99	80	0	F
+5202	573329	1	3	904	6	Pavel	Maška			52	podnikatel	Čejkovice	99	80	0	M
+5202	573329	1	4	901	6	František	Faust			58	dělník	Podhradí	99	80	0	M
+5202	573329	1	1	903	7	Milan	Havelka			40	řidič	Šlikova Ves	99	80	0	M
+5202	573329	1	2	902	7	Anna	Danysová			57	prodavačka	Hlásná Lhota	99	80	0	F
+5202	573329	1	3	904	7	Stanislava	Nožičková			42	asistent OTS	Čejkovice	99	80	0	F
+5202	573329	1	4	901	7	Josef	Kysilka			38	vlakvedoucí	Podhradí	99	80	0	M
+5202	573329	1	1	903	8	Marie	Šebková			63	důchodce	Šlikova Ves	99	80	0	F
+5202	573329	1	2	902	8	Jaromír	Mařan			36	dělník	Hlásná Lhota	99	80	0	M
+5202	573329	1	3	904	8	Petra	Víchová			40	montážní dělník	Čejkovice	99	80	0	F
+5202	573329	1	4	901	8	Kateřina	Šimková			40	prodavačka	Podhradí	99	80	0	F
+5202	573329	1	1	903	9	Josef	Piri			22	dělník	Šlikova Ves	99	80	0	M
+5202	573329	1	2	902	9	Rudolf	Lhota			44	nezaměstnaný	Hlásná Lhota	99	80	0	M
+5202	573329	1	3	904	9	Jaroslav	Fanta			21	student	Čejkovice	99	80	0	M
+5202	573329	1	4	901	9	Dana	Schovancová			60	důchodce	Podhradí	99	80	0	F

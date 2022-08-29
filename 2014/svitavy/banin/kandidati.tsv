@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	572560	1	1	1	1	Jiří	Samek	M			42	zaměstnanec obce	Banín	1	1	0
-5303	572560	1	1	1	2	Vilém	Škaroupka	M			69	důchodce	Banín	1	1	0
-5303	572560	1	1	1	3	Jana	Samková	F			43	péče o osobu blízkou	Banín	1	1	0
-5303	572560	1	1	1	4	Emilie	Ondrová	F			55	šička	Banín	1	1	0
-5303	572560	1	1	1	5	Vojtěch	Prudil	M			33	truhlář	Banín	1	1	0
-5303	572560	1	1	1	6	Josef	Prudil	M			36	klempíř	Banín	1	1	0
-5303	572560	1	1	1	7	Antonín	Ondra	M			60	ostraha	Banín	1	1	0
-5303	572560	1	2	901	1	Josef	Peterka	M			50	OSVČ	Banín	99	80	0
-5303	572560	1	2	901	2	Lenka	Talacková	F			43	státní zaměstnanec	Banín	99	80	0
-5303	572560	1	2	901	3	Roman	Palla	M			37	vrtmistr	Banín	99	80	0
-5303	572560	1	2	901	4	Jolana	Folkmanová	F			42	technik	Banín	99	80	0
-5303	572560	1	2	901	5	Radek	Folkman	M			48	OSVČ	Banín	99	80	0
-5303	572560	1	2	901	6	Bořivoj	Loukota	M			64	důchodce	Banín	99	80	0
-5303	572560	1	2	901	7	Lenka	Hudecová	F			38	zaměstnanec OÚ	Banín	1	80	0
-5303	572560	1	3	470	1	Jiří	Švihel	M			66	OSVČ	Banín	166	166	0
-5303	572560	1	3	470	2	Lubomír	Šmerda	M			47	státní zaměstnanec	Banín	99	80	0
-5303	572560	1	3	470	3	Jiří	Jílek	M	Ing.		48	technik	Banín	99	80	0
-5303	572560	1	3	470	4	Jiří	Rozsypal	M			60	technik	Banín	99	80	0
-5303	572560	1	3	470	5	Rostislav	Bednář	M	Ing.		64	důchodce	Banín	99	80	0
-5303	572560	1	3	470	6	Karel	Pospíšil	M			63	OSVČ	Banín	99	80	0
-5303	572560	1	3	470	7	Lucie	Loukotová	F			30	mateřská dovolená	Banín	99	80	0
-5303	572560	1	3	470	8	Jiří	Ondra	M			40	OSVČ	Banín	99	80	0
-5303	572560	1	3	470	9	Ladislava	Ducháčková	F			62	důchodce	Banín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	572560	1	1	1	1	Jiří	Samek			42	zaměstnanec obce	Banín	1	1	0	M
+5303	572560	1	2	901	1	Josef	Peterka			50	OSVČ	Banín	99	80	0	M
+5303	572560	1	3	470	1	Jiří	Švihel			66	OSVČ	Banín	166	166	0	M
+5303	572560	1	1	1	2	Vilém	Škaroupka			69	důchodce	Banín	1	1	0	M
+5303	572560	1	2	901	2	Lenka	Talacková			43	státní zaměstnanec	Banín	99	80	0	F
+5303	572560	1	3	470	2	Lubomír	Šmerda			47	státní zaměstnanec	Banín	99	80	0	M
+5303	572560	1	1	1	3	Jana	Samková			43	péče o osobu blízkou	Banín	1	1	0	F
+5303	572560	1	2	901	3	Roman	Palla			37	vrtmistr	Banín	99	80	0	M
+5303	572560	1	3	470	3	Jiří	Jílek	Ing.		48	technik	Banín	99	80	0	M
+5303	572560	1	1	1	4	Emilie	Ondrová			55	šička	Banín	1	1	0	F
+5303	572560	1	2	901	4	Jolana	Folkmanová			42	technik	Banín	99	80	0	F
+5303	572560	1	3	470	4	Jiří	Rozsypal			60	technik	Banín	99	80	0	M
+5303	572560	1	1	1	5	Vojtěch	Prudil			33	truhlář	Banín	1	1	0	M
+5303	572560	1	2	901	5	Radek	Folkman			48	OSVČ	Banín	99	80	0	M
+5303	572560	1	3	470	5	Rostislav	Bednář	Ing.		64	důchodce	Banín	99	80	0	M
+5303	572560	1	1	1	6	Josef	Prudil			36	klempíř	Banín	1	1	0	M
+5303	572560	1	2	901	6	Bořivoj	Loukota			64	důchodce	Banín	99	80	0	M
+5303	572560	1	3	470	6	Karel	Pospíšil			63	OSVČ	Banín	99	80	0	M
+5303	572560	1	1	1	7	Antonín	Ondra			60	ostraha	Banín	1	1	0	M
+5303	572560	1	2	901	7	Lenka	Hudecová			38	zaměstnanec OÚ	Banín	1	80	0	F
+5303	572560	1	3	470	7	Lucie	Loukotová			30	mateřská dovolená	Banín	99	80	0	F
+5303	572560	1	3	470	8	Jiří	Ondra			40	OSVČ	Banín	99	80	0	M
+5303	572560	1	3	470	9	Ladislava	Ducháčková			62	důchodce	Banín	99	80	0	F

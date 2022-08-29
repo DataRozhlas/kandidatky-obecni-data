@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6104	591378	1	1	901	1	Jaroslav	Novotný	M	Ing.		53	podnikatel	Petrůvky	99	80	0
-6104	591378	1	1	901	2	Vladimír	Drdlíček	M			56	zaměstnanec ex. úřadu	Petrůvky	99	80	0
-6104	591378	1	1	901	3	Jaroslav	Peštál	M			66	důchodce	Petrůvky	99	80	0
-6104	591378	1	1	901	4	Iveta	Peštálová	F			42	webmaster	Petrůvky	99	80	0
-6104	591378	1	1	901	5	František	Rymeš	M			60	jednatel společnosti	Petrůvky	99	80	0
-6104	591378	1	1	901	6	Alena	Mašejová	F			63	důchodce	Petrůvky	99	80	0
-6104	591378	1	1	901	7	Kamil	Drdlíček	M	Ing.		27	projektant	Petrůvky	99	80	0
-6104	591378	1	1	901	8	Tomáš	Čierník	M			40	dělník	Petrůvky	99	80	0
-6104	591378	1	1	901	9	Jaroslav	Mašeja	M			66	důchodce	Petrůvky	99	80	0
-6104	591378	1	2	902	1	Jana	Krejčí	F	Ing.		47	administrativní pracovnice	Petrůvky	99	80	0
-6104	591378	1	2	902	2	Miloslav	Řezáč	M			50	OSVČ	Petrůvky	99	80	0
-6104	591378	1	2	902	3	Pavel	Chytka	M			47	OSVČ	Petrůvky	99	80	0
-6104	591378	1	2	902	4	Marek	Mašeja	M			40	automechanik	Petrůvky	99	80	0
-6104	591378	1	2	902	5	Vít	Chalupský	M			44	mistr provozu	Petrůvky	99	80	0
-6104	591378	1	2	902	6	Radek	Procházka	M			33	OSVČ	Petrůvky	99	80	0
-6104	591378	1	2	902	7	Michaela	Dvořáková	F			35	customer service Mann Hummel	Petrůvky	99	80	0
-6104	591378	1	2	902	8	Marcela	Velebová	F			54	obsluha lisovacího stroje	Petrůvky	99	80	0
-6104	591378	1	2	902	9	Věra	Petříčková	F			58	strážný	Petrůvky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6104	591378	1	1	901	1	Jaroslav	Novotný	Ing.		53	podnikatel	Petrůvky	99	80	0	M
+6104	591378	1	2	902	1	Jana	Krejčí	Ing.		47	administrativní pracovnice	Petrůvky	99	80	0	F
+6104	591378	1	1	901	2	Vladimír	Drdlíček			56	zaměstnanec ex. úřadu	Petrůvky	99	80	0	M
+6104	591378	1	2	902	2	Miloslav	Řezáč			50	OSVČ	Petrůvky	99	80	0	M
+6104	591378	1	1	901	3	Jaroslav	Peštál			66	důchodce	Petrůvky	99	80	0	M
+6104	591378	1	2	902	3	Pavel	Chytka			47	OSVČ	Petrůvky	99	80	0	M
+6104	591378	1	1	901	4	Iveta	Peštálová			42	webmaster	Petrůvky	99	80	0	F
+6104	591378	1	2	902	4	Marek	Mašeja			40	automechanik	Petrůvky	99	80	0	M
+6104	591378	1	1	901	5	František	Rymeš			60	jednatel společnosti	Petrůvky	99	80	0	M
+6104	591378	1	2	902	5	Vít	Chalupský			44	mistr provozu	Petrůvky	99	80	0	M
+6104	591378	1	1	901	6	Alena	Mašejová			63	důchodce	Petrůvky	99	80	0	F
+6104	591378	1	2	902	6	Radek	Procházka			33	OSVČ	Petrůvky	99	80	0	M
+6104	591378	1	1	901	7	Kamil	Drdlíček	Ing.		27	projektant	Petrůvky	99	80	0	M
+6104	591378	1	2	902	7	Michaela	Dvořáková			35	customer service Mann Hummel	Petrůvky	99	80	0	F
+6104	591378	1	1	901	8	Tomáš	Čierník			40	dělník	Petrůvky	99	80	0	M
+6104	591378	1	2	902	8	Marcela	Velebová			54	obsluha lisovacího stroje	Petrůvky	99	80	0	F
+6104	591378	1	1	901	9	Jaroslav	Mašeja			66	důchodce	Petrůvky	99	80	0	M
+6104	591378	1	2	902	9	Věra	Petříčková			58	strážný	Petrůvky	99	80	0	F

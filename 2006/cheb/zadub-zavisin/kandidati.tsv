@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4101	539431	1	1	903	1	Roman	Mařík	M			33	pojišťovací poradce	Závišín	99	80	0
-4101	539431	1	1	903	2	Hana	Šťastná	F	JUDr.		42	advokátka	Závišín	99	80	0
-4101	539431	1	1	903	3	Rudolf	Nechanický	M			43	odborný dělník	Závišín	99	80	0
-4101	539431	1	1	903	4	Eva	Bártová	F			61	důchodce	Milhostov	99	80	0
-4101	539431	1	1	903	5	Miroslava	Křivanová	F	Ing.		31	sales manager	Zádub	99	80	0
-4101	539431	1	1	903	6	Stanislav	Knaizl	M			30	technik	Závišín	99	80	0
-4101	539431	1	1	903	7	Antonín	Janoud	M			57	elektrikář	Zádub	99	80	0
-4101	539431	1	2	902	1	Jitka	Otradovcová	F			44	živnostník	Zádub	99	80	0
-4101	539431	1	2	902	2	Vlastimil	Pytelka	M			53	invalidní důchodce	Zádub	99	80	0
-4101	539431	1	2	902	3	Jana	Slavíková	F			44	správce golfového hřiště	Zádub	99	80	0
-4101	539431	1	2	902	4	Jiří	Bažata	M			58	soukromý podnikatel	Závišín	99	80	0
-4101	539431	1	2	902	5	Josef	Němeček	M	Ing.		61	důchodce	Závišín	99	80	0
-4101	539431	1	2	902	6	František	Kykal	M	MUDr.		68	lékař	Závišín	99	80	0
-4101	539431	1	2	902	7	Michal	Faměra	M			32	skladník,řidič	Zádub	99	80	0
-4101	539431	1	3	901	1	Anna	Tučková	F			56	starostka obce	Zádub	99	80	0
-4101	539431	1	3	901	2	Jiří	Nešpor	M	Ing.		50	podnikatel	Milhostov	99	80	0
-4101	539431	1	3	901	3	Vladimír	Musil	M	MUDr.		58	lékař	Milhostov	99	80	0
-4101	539431	1	3	901	4	Zdeněk	Příhoda	M			47	podnikatel	Zádub	99	80	0
-4101	539431	1	3	901	5	Petr	Vodička	M	MVDr.		43	veterinární lékař	Milhostov	99	80	0
-4101	539431	1	3	901	6	Jiří	Klimko	M			39	živnostník	Zádub	99	80	0
-4101	539431	1	3	901	7	Dagmar	Synáčová	F			42	bankovní poradce	Zádub	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4101	539431	1	1	903	1	Roman	Mařík			33	pojišťovací poradce	Závišín	99	80	0	M
+4101	539431	1	2	902	1	Jitka	Otradovcová			44	živnostník	Zádub	99	80	0	F
+4101	539431	1	3	901	1	Anna	Tučková			56	starostka obce	Zádub	99	80	0	F
+4101	539431	1	1	903	2	Hana	Šťastná	JUDr.		42	advokátka	Závišín	99	80	0	F
+4101	539431	1	2	902	2	Vlastimil	Pytelka			53	invalidní důchodce	Zádub	99	80	0	M
+4101	539431	1	3	901	2	Jiří	Nešpor	Ing.		50	podnikatel	Milhostov	99	80	0	M
+4101	539431	1	1	903	3	Rudolf	Nechanický			43	odborný dělník	Závišín	99	80	0	M
+4101	539431	1	2	902	3	Jana	Slavíková			44	správce golfového hřiště	Zádub	99	80	0	F
+4101	539431	1	3	901	3	Vladimír	Musil	MUDr.		58	lékař	Milhostov	99	80	0	M
+4101	539431	1	1	903	4	Eva	Bártová			61	důchodce	Milhostov	99	80	0	F
+4101	539431	1	2	902	4	Jiří	Bažata			58	soukromý podnikatel	Závišín	99	80	0	M
+4101	539431	1	3	901	4	Zdeněk	Příhoda			47	podnikatel	Zádub	99	80	0	M
+4101	539431	1	1	903	5	Miroslava	Křivanová	Ing.		31	sales manager	Zádub	99	80	0	F
+4101	539431	1	2	902	5	Josef	Němeček	Ing.		61	důchodce	Závišín	99	80	0	M
+4101	539431	1	3	901	5	Petr	Vodička	MVDr.		43	veterinární lékař	Milhostov	99	80	0	M
+4101	539431	1	1	903	6	Stanislav	Knaizl			30	technik	Závišín	99	80	0	M
+4101	539431	1	2	902	6	František	Kykal	MUDr.		68	lékař	Závišín	99	80	0	M
+4101	539431	1	3	901	6	Jiří	Klimko			39	živnostník	Zádub	99	80	0	M
+4101	539431	1	1	903	7	Antonín	Janoud			57	elektrikář	Zádub	99	80	0	M
+4101	539431	1	2	902	7	Michal	Faměra			32	skladník,řidič	Zádub	99	80	0	M
+4101	539431	1	3	901	7	Dagmar	Synáčová			42	bankovní poradce	Zádub	99	80	0	F

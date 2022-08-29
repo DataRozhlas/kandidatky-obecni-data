@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7204	585874	1	1	901	1	Jiří	Geržičák	M			48	živnostník	Ublo	99	80	A
-7204	585874	1	1	901	2	Martin	Zámečník	M			27	zaměstnanec v logistice	Ublo	99	80	A
-7204	585874	1	1	901	3	Pavel	Kajš	M	Ing.		56	technický pracovník	Ublo	99	80	A
-7204	585874	1	1	901	4	Barbora	Navrátilová	F	Ing.		34	státní zaměstnanec	Ublo	99	80	A
-7204	585874	1	1	901	5	Renata	Horčicová	F		DiS.	34	podnikatelka	Ublo	99	80	A
-7204	585874	1	1	901	6	Miloš	Jurčák	M			52	technik	Ublo	99	80	A
-7204	585874	1	2	902	1	Jaroslav	Šimek	M	Ing.		55	podnikatel	Ublo	99	80	A
-7204	585874	1	2	902	2	Miroslav	Zelinský	M	PhDr.	CSc.	57	vysokoškolský pedagog	Ublo	99	80	A
-7204	585874	1	2	902	3	David	Vávra	M			36	dělník	Ublo	99	80	A
-7204	585874	1	2	902	4	Petr	Jurásek	M			39	OSVČ	Ublo	99	80	A
-7204	585874	1	2	902	5	Lukáš	Vávra	M			20	elektrikář	Ublo	99	80	A
-7204	585874	1	2	902	6	Jana	Šimková	F	Mgr. Bc.		27	lékárnice	Ublo	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7204	585874	1	1	901	1	Jiří	Geržičák			48	živnostník	Ublo	99	80	A	M
+7204	585874	1	2	902	1	Jaroslav	Šimek	Ing.		55	podnikatel	Ublo	99	80	A	M
+7204	585874	1	1	901	2	Martin	Zámečník			27	zaměstnanec v logistice	Ublo	99	80	A	M
+7204	585874	1	2	902	2	Miroslav	Zelinský	PhDr.	CSc.	57	vysokoškolský pedagog	Ublo	99	80	A	M
+7204	585874	1	1	901	3	Pavel	Kajš	Ing.		56	technický pracovník	Ublo	99	80	A	M
+7204	585874	1	2	902	3	David	Vávra			36	dělník	Ublo	99	80	A	M
+7204	585874	1	1	901	4	Barbora	Navrátilová	Ing.		34	státní zaměstnanec	Ublo	99	80	A	F
+7204	585874	1	2	902	4	Petr	Jurásek			39	OSVČ	Ublo	99	80	A	M
+7204	585874	1	1	901	5	Renata	Horčicová		DiS.	34	podnikatelka	Ublo	99	80	A	F
+7204	585874	1	2	902	5	Lukáš	Vávra			20	elektrikář	Ublo	99	80	A	M
+7204	585874	1	1	901	6	Miloš	Jurčák			52	technik	Ublo	99	80	A	M
+7204	585874	1	2	902	6	Jana	Šimková	Mgr. Bc.		27	lékárnice	Ublo	99	80	A	F

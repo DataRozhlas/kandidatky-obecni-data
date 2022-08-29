@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	553972	1	1	801	1	Radek	Henner	M	Ing.		51	voják z povolání-ředitel Kraj. Vojen. velitelství	Rybníček	99	80	0
-6206	553972	1	2	901	1	Vladimír	Skopal	M			55	živnostník	Rybníček	99	80	0
-6206	553972	1	2	901	2	David	Henner	M			29	servisní technik	Rybníček	99	80	0
-6206	553972	1	2	901	3	Radek	Kreutzer	M			38	živnostník	Rybníček	99	80	0
-6206	553972	1	2	901	4	Marta	Klacková	F			39	prodavačka	Rybníček	99	80	0
-6206	553972	1	2	901	5	Helena	Přikrylová	F	Ing.		49	živnostník	Rybníček	99	80	0
-6206	553972	1	2	901	6	Jiří	Haneček	M	JUDr.		55	advokát	Rybníček	99	80	0
-6206	553972	1	2	901	7	Věra	Suchánková	F			45	cukrářka	Rybníček	99	80	0
-6206	553972	1	2	901	8	Petr	Stoklasa	M			29	strojní specialista	Rybníček	99	80	0
-6206	553972	1	2	901	9	Vratislav	Skopal	M			57	zedník	Rybníček	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	553972	1	1	801	1	Radek	Henner	Ing.		51	voják z povolání-ředitel Kraj. Vojen. velitelství	Rybníček	99	80	0	M
+6206	553972	1	2	901	1	Vladimír	Skopal			55	živnostník	Rybníček	99	80	0	M
+6206	553972	1	2	901	2	David	Henner			29	servisní technik	Rybníček	99	80	0	M
+6206	553972	1	2	901	3	Radek	Kreutzer			38	živnostník	Rybníček	99	80	0	M
+6206	553972	1	2	901	4	Marta	Klacková			39	prodavačka	Rybníček	99	80	0	F
+6206	553972	1	2	901	5	Helena	Přikrylová	Ing.		49	živnostník	Rybníček	99	80	0	F
+6206	553972	1	2	901	6	Jiří	Haneček	JUDr.		55	advokát	Rybníček	99	80	0	M
+6206	553972	1	2	901	7	Věra	Suchánková			45	cukrářka	Rybníček	99	80	0	F
+6206	553972	1	2	901	8	Petr	Stoklasa			29	strojní specialista	Rybníček	99	80	0	M
+6206	553972	1	2	901	9	Vratislav	Skopal			57	zedník	Rybníček	99	80	0	M

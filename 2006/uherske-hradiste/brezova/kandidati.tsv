@@ -1,38 +1,38 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7202	592099	1	1	83	1	Petr	Michalec	M	Bc.		38	podnikatel	Březová	99	83	0
-7202	592099	1	1	83	2	Alfons	Gorčík	M			47	zaměstnanec	Březová	99	83	0
-7202	592099	1	1	83	3	Josef	Ševčík	M	Bc.		31	státní zaměstnanec	Březová	99	83	0
-7202	592099	1	1	83	4	František	Vacula	M			64	starosta obce	Březová	99	83	0
-7202	592099	1	1	83	5	František	Králík	M			52	soukromý zemědělec	Březová	99	83	0
-7202	592099	1	1	83	6	Miroslava	Ševčíková	F			49	učitelka MŠ	Březová	99	83	0
-7202	592099	1	1	83	7	Jiří	Bartko	M			38	zaměstnanec	Březová	99	83	0
-7202	592099	1	1	83	8	Pavel	Jurásek	M			46	zaměstnanec	Březová	99	83	0
-7202	592099	1	1	83	9	Josef	Miškařík	M			42	podnikatel	Březová	99	83	0
-7202	592099	1	2	801	1	Karel	Kubiš	M			57	živnostník	Březová	99	80	0
-7202	592099	1	3	470	1	Josef	Trecha	M			48	obchodní zástupce	Březová	99	166	0
-7202	592099	1	3	470	2	Josef	Majer	M			39	soukromý podnikatel	Březová	99	80	0
-7202	592099	1	3	470	3	Světlana	Moravčíková	F	Ing.		38	ekonomka	Březová	99	80	0
-7202	592099	1	3	470	4	Alena	Křeháčková	F			48	administrativní pracovnice	Březová	99	80	0
-7202	592099	1	3	470	5	Jarmila	Moravčíková	F			45	soukromý podnikatel	Březová	99	80	0
-7202	592099	1	3	470	6	Marie	Zetková	F			45	administrativní pracovnice	Březová	99	80	0
-7202	592099	1	3	470	7	Jozef	Vojtek	M			49	řidič autobusu	Březová	99	80	0
-7202	592099	1	3	470	8	František	Adámek	M			59	řidič nákladního vozidla	Březová	99	80	0
-7202	592099	1	3	470	9	Jan	Janík	M			56	řidič sanitky	Březová	99	80	0
-7202	592099	1	4	1	1	Květoslav	Urbanec	M	Ing.		32	stavební inženýr	Březová	99	1	0
-7202	592099	1	4	1	2	Marie	Kubišová	F			57	v domácnosti	Březová	1	1	0
-7202	592099	1	4	1	3	Eva	Křeháčková	F			49	v domácnosti	Březová	1	1	0
-7202	592099	1	4	1	4	Irena	Čaňová	F			39	v domácnosti	Březová	99	1	0
-7202	592099	1	4	1	5	Petr	Janků	M	Ing.		43	pedagog, soukr. podnik.	Březová	99	1	0
-7202	592099	1	4	1	6	Josef	Čaňo	M			45	strojník	Březová	1	1	0
-7202	592099	1	4	1	7	Josef	Králík	M			63	důchodce	Březová	1	1	0
-7202	592099	1	4	1	8	Drahomír	Moravčík	M			64	důchodce	Březová	1	1	0
-7202	592099	1	4	1	9	Josef	Ševčík	M			56	elektroúdržbář	Březová	99	1	0
-7202	592099	1	5	449	1	Robert	Provodovský	M			31	obchodní zástupce	Březová	99	129	0
-7202	592099	1	5	449	2	Pavlína	Majerová	F			40	vychovatelka ŠD	Březová	99	80	0
-7202	592099	1	5	449	3	Petr	Křeháček	M			32	státní zaměstnanec	Březová	99	80	0
-7202	592099	1	5	449	4	Štěpán	Machala	M			43	zaměstnanec	Březová	99	80	0
-7202	592099	1	5	449	5	Alžběta	Janků	F			40	živnostník	Březová	99	80	0
-7202	592099	1	5	449	6	Jiřina	Benková	F			25	zdravotní laborantka	Březová	99	80	0
-7202	592099	1	5	449	7	Soňa	Kubišová	F			26	mateřská dovolená	Březová	99	80	0
-7202	592099	1	5	449	8	Jaroslav	Janků	M			53	učitel odborného výcviku	Březová	99	80	0
-7202	592099	1	5	449	9	Leopold	Janík	M			34	podnikatel	Březová	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7202	592099	1	1	83	1	Petr	Michalec	Bc.		38	podnikatel	Březová	99	83	0	M
+7202	592099	1	2	801	1	Karel	Kubiš			57	živnostník	Březová	99	80	0	M
+7202	592099	1	3	470	1	Josef	Trecha			48	obchodní zástupce	Březová	99	166	0	M
+7202	592099	1	4	1	1	Květoslav	Urbanec	Ing.		32	stavební inženýr	Březová	99	1	0	M
+7202	592099	1	5	449	1	Robert	Provodovský			31	obchodní zástupce	Březová	99	129	0	M
+7202	592099	1	1	83	2	Alfons	Gorčík			47	zaměstnanec	Březová	99	83	0	M
+7202	592099	1	3	470	2	Josef	Majer			39	soukromý podnikatel	Březová	99	80	0	M
+7202	592099	1	4	1	2	Marie	Kubišová			57	v domácnosti	Březová	1	1	0	F
+7202	592099	1	5	449	2	Pavlína	Majerová			40	vychovatelka ŠD	Březová	99	80	0	F
+7202	592099	1	1	83	3	Josef	Ševčík	Bc.		31	státní zaměstnanec	Březová	99	83	0	M
+7202	592099	1	3	470	3	Světlana	Moravčíková	Ing.		38	ekonomka	Březová	99	80	0	F
+7202	592099	1	4	1	3	Eva	Křeháčková			49	v domácnosti	Březová	1	1	0	F
+7202	592099	1	5	449	3	Petr	Křeháček			32	státní zaměstnanec	Březová	99	80	0	M
+7202	592099	1	1	83	4	František	Vacula			64	starosta obce	Březová	99	83	0	M
+7202	592099	1	3	470	4	Alena	Křeháčková			48	administrativní pracovnice	Březová	99	80	0	F
+7202	592099	1	4	1	4	Irena	Čaňová			39	v domácnosti	Březová	99	1	0	F
+7202	592099	1	5	449	4	Štěpán	Machala			43	zaměstnanec	Březová	99	80	0	M
+7202	592099	1	1	83	5	František	Králík			52	soukromý zemědělec	Březová	99	83	0	M
+7202	592099	1	3	470	5	Jarmila	Moravčíková			45	soukromý podnikatel	Březová	99	80	0	F
+7202	592099	1	4	1	5	Petr	Janků	Ing.		43	pedagog, soukr. podnik.	Březová	99	1	0	M
+7202	592099	1	5	449	5	Alžběta	Janků			40	živnostník	Březová	99	80	0	F
+7202	592099	1	1	83	6	Miroslava	Ševčíková			49	učitelka MŠ	Březová	99	83	0	F
+7202	592099	1	3	470	6	Marie	Zetková			45	administrativní pracovnice	Březová	99	80	0	F
+7202	592099	1	4	1	6	Josef	Čaňo			45	strojník	Březová	1	1	0	M
+7202	592099	1	5	449	6	Jiřina	Benková			25	zdravotní laborantka	Březová	99	80	0	F
+7202	592099	1	1	83	7	Jiří	Bartko			38	zaměstnanec	Březová	99	83	0	M
+7202	592099	1	3	470	7	Jozef	Vojtek			49	řidič autobusu	Březová	99	80	0	M
+7202	592099	1	4	1	7	Josef	Králík			63	důchodce	Březová	1	1	0	M
+7202	592099	1	5	449	7	Soňa	Kubišová			26	mateřská dovolená	Březová	99	80	0	F
+7202	592099	1	1	83	8	Pavel	Jurásek			46	zaměstnanec	Březová	99	83	0	M
+7202	592099	1	3	470	8	František	Adámek			59	řidič nákladního vozidla	Březová	99	80	0	M
+7202	592099	1	4	1	8	Drahomír	Moravčík			64	důchodce	Březová	1	1	0	M
+7202	592099	1	5	449	8	Jaroslav	Janků			53	učitel odborného výcviku	Březová	99	80	0	M
+7202	592099	1	1	83	9	Josef	Miškařík			42	podnikatel	Březová	99	83	0	M
+7202	592099	1	3	470	9	Jan	Janík			56	řidič sanitky	Březová	99	80	0	M
+7202	592099	1	4	1	9	Josef	Ševčík			56	elektroúdržbář	Březová	99	1	0	M
+7202	592099	1	5	449	9	Leopold	Janík			34	podnikatel	Březová	99	80	0	M

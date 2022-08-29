@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7101	553468	1	1	470	1	Vlasta	Kočí	F			48	starostka	Velká Kraš	166	166	0
-7101	553468	1	1	470	2	Jaroslav	Ondrušík	M			42	dělník	Velká Kraš	99	166	0
-7101	553468	1	1	470	3	Dagmar	Fomiczewová	F	Ing.		49	ekonomka	Velká Kraš	99	166	0
-7101	553468	1	1	470	4	Zdeněk	Pessel	M			43	železničář	Velká Kraš	99	166	0
-7101	553468	1	1	470	5	Libuše	Zichová	F			41	na mateřské dovolené	Velká Kraš	99	166	0
-7101	553468	1	1	470	6	Josef	Horák	M			42	technik	Velká Kraš	99	80	0
-7101	553468	1	1	470	7	Anna	Gabrišová	F			36	pečovatelka	Velká Kraš	99	80	0
-7101	553468	1	1	470	8	Jaromír	Kočí	M			50	podnikatel	Velká Kraš	99	80	0
-7101	553468	1	1	470	9	Dagmar	Bakešová	F	Mgr.		48	učitelka	Velká Kraš	99	80	0
-7101	553468	1	2	902	1	Dalibor	Zdražil	M			22	student	Velká Kraš	99	80	0
-7101	553468	1	2	902	2	Jindřich	Janků	M			31	OSVČ	Velká Kraš	99	80	0
-7101	553468	1	2	902	3	Jaroslav	Kovařík	M			43	technik	Velká Kraš	99	80	0
-7101	553468	1	2	902	4	Radek	Zicha	M			18	student	Velká Kraš	99	80	0
-7101	553468	1	2	902	5	Richard	Kachyňa	M			30	obchodní zástupce	Velká Kraš	99	80	0
-7101	553468	1	3	901	1	Petr	Vysloužil	M			35	montážní dělník	Velká Kraš	99	80	0
-7101	553468	1	3	901	2	Věra	Brixová	F			48	prodavačka	Velká Kraš	99	80	0
-7101	553468	1	3	901	3	Jana	Madajová	F			31	laborantka	Velká Kraš	99	80	0
-7101	553468	1	3	901	4	František	Ryba	M			36	podnikatel	Velká Kraš	99	80	0
-7101	553468	1	3	901	5	Zdeňka	Rybová	F	Mgr.		42	ředitelka mateřské školy	Velká Kraš	99	80	0
-7101	553468	1	3	901	6	Hana	Jičínská	F			25	mateřská dovolená	Velká Kraš	99	80	0
-7101	553468	1	3	901	7	Petr	Kolomar	M			39	dělník	Velká Kraš	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7101	553468	1	1	470	1	Vlasta	Kočí			48	starostka	Velká Kraš	166	166	0	F
+7101	553468	1	2	902	1	Dalibor	Zdražil			22	student	Velká Kraš	99	80	0	M
+7101	553468	1	3	901	1	Petr	Vysloužil			35	montážní dělník	Velká Kraš	99	80	0	M
+7101	553468	1	1	470	2	Jaroslav	Ondrušík			42	dělník	Velká Kraš	99	166	0	M
+7101	553468	1	2	902	2	Jindřich	Janků			31	OSVČ	Velká Kraš	99	80	0	M
+7101	553468	1	3	901	2	Věra	Brixová			48	prodavačka	Velká Kraš	99	80	0	F
+7101	553468	1	1	470	3	Dagmar	Fomiczewová	Ing.		49	ekonomka	Velká Kraš	99	166	0	F
+7101	553468	1	2	902	3	Jaroslav	Kovařík			43	technik	Velká Kraš	99	80	0	M
+7101	553468	1	3	901	3	Jana	Madajová			31	laborantka	Velká Kraš	99	80	0	F
+7101	553468	1	1	470	4	Zdeněk	Pessel			43	železničář	Velká Kraš	99	166	0	M
+7101	553468	1	2	902	4	Radek	Zicha			18	student	Velká Kraš	99	80	0	M
+7101	553468	1	3	901	4	František	Ryba			36	podnikatel	Velká Kraš	99	80	0	M
+7101	553468	1	1	470	5	Libuše	Zichová			41	na mateřské dovolené	Velká Kraš	99	166	0	F
+7101	553468	1	2	902	5	Richard	Kachyňa			30	obchodní zástupce	Velká Kraš	99	80	0	M
+7101	553468	1	3	901	5	Zdeňka	Rybová	Mgr.		42	ředitelka mateřské školy	Velká Kraš	99	80	0	F
+7101	553468	1	1	470	6	Josef	Horák			42	technik	Velká Kraš	99	80	0	M
+7101	553468	1	3	901	6	Hana	Jičínská			25	mateřská dovolená	Velká Kraš	99	80	0	F
+7101	553468	1	1	470	7	Anna	Gabrišová			36	pečovatelka	Velká Kraš	99	80	0	F
+7101	553468	1	3	901	7	Petr	Kolomar			39	dělník	Velká Kraš	99	80	0	M
+7101	553468	1	1	470	8	Jaromír	Kočí			50	podnikatel	Velká Kraš	99	80	0	M
+7101	553468	1	1	470	9	Dagmar	Bakešová	Mgr.		48	učitelka	Velká Kraš	99	80	0	F

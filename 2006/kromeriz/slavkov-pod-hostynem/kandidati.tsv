@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7201	588997	1	1	902	1	Stanislav	Buček	M			41	řidič	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	1	902	2	Pavel	Sadil	M			35	živnostník	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	1	902	3	Jaroslav	Drábek	M			40	živnostník	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	1	902	4	Marie	Kratinohová	F			44	bezpečnostní pracovník	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	1	902	5	Miloslav	Kopřiva	M			46	živnostník	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	1	902	6	Božena	Kukučková	F			54	živnostník	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	1	902	7	Roman	Dudlák	M			21	řidič-hasič	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	1	902	8	Petr	Neradil	M			42	hasič	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	1	902	9	Pavel	Kučerka	M			37	živnostník	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	1	902	10	Radek	Ponížil	M			40	řidič	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	1	902	11	Miroslav	Urbanec	M			34	lesní technik	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	2	901	1	Jan	Mikšík	M			57	starosta obce	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	2	901	2	Marie	Barotová	F			42	účetní	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	2	901	3	Věra	Kopřivová	F	Mgr.		50	učitelka ZŠ	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	2	901	4	Karel	Mikulčák	M	Ing.		39	konstruktér	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	2	901	5	Kamil	Janečka	M			37	stavbyvedoucí	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	2	901	6	Jaruška	Vašutová	F			56	mistrová	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	2	901	7	Metoděj	Koutný	M			49	soukromý podnikatel	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	2	901	8	Jaroslav	Pavlica	M			51	stavbyvedoucí	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	2	901	9	Vladimír	Sehnal	M			44	zámečník	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	2	901	10	Bohumír	Haleš	M			35	tech. hospodářský pracovník	Slavkov pod Hostýnem	99	80	0
-7201	588997	1	2	901	11	Ludmila	Kopřivová	F			44	zdravotní sestra	Slavkov pod Hostýnem	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7201	588997	1	1	902	1	Stanislav	Buček			41	řidič	Slavkov pod Hostýnem	99	80	0	M
+7201	588997	1	2	901	1	Jan	Mikšík			57	starosta obce	Slavkov pod Hostýnem	99	80	0	M
+7201	588997	1	1	902	2	Pavel	Sadil			35	živnostník	Slavkov pod Hostýnem	99	80	0	M
+7201	588997	1	2	901	2	Marie	Barotová			42	účetní	Slavkov pod Hostýnem	99	80	0	F
+7201	588997	1	1	902	3	Jaroslav	Drábek			40	živnostník	Slavkov pod Hostýnem	99	80	0	M
+7201	588997	1	2	901	3	Věra	Kopřivová	Mgr.		50	učitelka ZŠ	Slavkov pod Hostýnem	99	80	0	F
+7201	588997	1	1	902	4	Marie	Kratinohová			44	bezpečnostní pracovník	Slavkov pod Hostýnem	99	80	0	F
+7201	588997	1	2	901	4	Karel	Mikulčák	Ing.		39	konstruktér	Slavkov pod Hostýnem	99	80	0	M
+7201	588997	1	1	902	5	Miloslav	Kopřiva			46	živnostník	Slavkov pod Hostýnem	99	80	0	M
+7201	588997	1	2	901	5	Kamil	Janečka			37	stavbyvedoucí	Slavkov pod Hostýnem	99	80	0	M
+7201	588997	1	1	902	6	Božena	Kukučková			54	živnostník	Slavkov pod Hostýnem	99	80	0	F
+7201	588997	1	2	901	6	Jaruška	Vašutová			56	mistrová	Slavkov pod Hostýnem	99	80	0	F
+7201	588997	1	1	902	7	Roman	Dudlák			21	řidič-hasič	Slavkov pod Hostýnem	99	80	0	M
+7201	588997	1	2	901	7	Metoděj	Koutný			49	soukromý podnikatel	Slavkov pod Hostýnem	99	80	0	M
+7201	588997	1	1	902	8	Petr	Neradil			42	hasič	Slavkov pod Hostýnem	99	80	0	M
+7201	588997	1	2	901	8	Jaroslav	Pavlica			51	stavbyvedoucí	Slavkov pod Hostýnem	99	80	0	M
+7201	588997	1	1	902	9	Pavel	Kučerka			37	živnostník	Slavkov pod Hostýnem	99	80	0	M
+7201	588997	1	2	901	9	Vladimír	Sehnal			44	zámečník	Slavkov pod Hostýnem	99	80	0	M
+7201	588997	1	1	902	10	Radek	Ponížil			40	řidič	Slavkov pod Hostýnem	99	80	0	M
+7201	588997	1	2	901	10	Bohumír	Haleš			35	tech. hospodářský pracovník	Slavkov pod Hostýnem	99	80	0	M
+7201	588997	1	1	902	11	Miroslav	Urbanec			34	lesní technik	Slavkov pod Hostýnem	99	80	0	M
+7201	588997	1	2	901	11	Ludmila	Kopřivová			44	zdravotní sestra	Slavkov pod Hostýnem	99	80	0	F

@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5101	561738	1	1	901	1	Miloš	Jirmásek	M			54	technik	Krompach	99	80	0
-5101	561738	1	1	901	2	Luboš	Krejčík	M			49	OSVČ	Krompach	99	80	0
-5101	561738	1	1	901	3	Martin	Šimek	M	Bc.		38	st. zam.	Krompach	99	80	0
-5101	561738	1	1	901	4	František	Chadima	M			42	st. zam.	Krompach	99	80	0
-5101	561738	1	1	901	5	Jiří	Balšánek	M			28	OSVČ	Krompach	99	80	0
-5101	561738	1	1	901	6	Jan	Hruška	M			40	st. zam.	Krompach	99	80	0
-5101	561738	1	1	901	7	Lukáš	Krejčík	M			29	dělník	Valy	99	80	0
-5101	561738	1	1	901	8	Miroslav	Nešvera	M			25	aplikační pracovník	Krompach	99	80	0
-5101	561738	1	2	475	1	František	Audes	M			67	starosta obce	Krompach	99	703	0
-5101	561738	1	2	475	2	Jaroslav	Kopecký	M			67	místostarosta obce	Valy	99	703	0
-5101	561738	1	2	475	3	Pavel	Soukup	M			26	úředník	Valy	99	80	0
-5101	561738	1	2	475	4	Marie	Řípová	F			67	důchodce	Krompach	99	80	0
-5101	561738	1	2	475	5	Roman	Nigrin	M			54	OSVČ	Krompach	99	80	0
-5101	561738	1	2	475	6	Josef	Vincík	M			64	důchodce	Krompach	99	80	0
-5101	561738	1	2	475	7	Markéta	Chábová	F			67	důchodce	Valy	99	80	0
-5101	561738	1	2	475	8	Irena	Blažková	F			65	důchodce	Valy	99	80	0
-5101	561738	1	2	475	9	Vlasta	Kaluhová	F			65	důchodce	Krompach	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5101	561738	1	1	901	1	Miloš	Jirmásek			54	technik	Krompach	99	80	0	M
+5101	561738	1	2	475	1	František	Audes			67	starosta obce	Krompach	99	703	0	M
+5101	561738	1	1	901	2	Luboš	Krejčík			49	OSVČ	Krompach	99	80	0	M
+5101	561738	1	2	475	2	Jaroslav	Kopecký			67	místostarosta obce	Valy	99	703	0	M
+5101	561738	1	1	901	3	Martin	Šimek	Bc.		38	st. zam.	Krompach	99	80	0	M
+5101	561738	1	2	475	3	Pavel	Soukup			26	úředník	Valy	99	80	0	M
+5101	561738	1	1	901	4	František	Chadima			42	st. zam.	Krompach	99	80	0	M
+5101	561738	1	2	475	4	Marie	Řípová			67	důchodce	Krompach	99	80	0	F
+5101	561738	1	1	901	5	Jiří	Balšánek			28	OSVČ	Krompach	99	80	0	M
+5101	561738	1	2	475	5	Roman	Nigrin			54	OSVČ	Krompach	99	80	0	M
+5101	561738	1	1	901	6	Jan	Hruška			40	st. zam.	Krompach	99	80	0	M
+5101	561738	1	2	475	6	Josef	Vincík			64	důchodce	Krompach	99	80	0	M
+5101	561738	1	1	901	7	Lukáš	Krejčík			29	dělník	Valy	99	80	0	M
+5101	561738	1	2	475	7	Markéta	Chábová			67	důchodce	Valy	99	80	0	F
+5101	561738	1	1	901	8	Miroslav	Nešvera			25	aplikační pracovník	Krompach	99	80	0	M
+5101	561738	1	2	475	8	Irena	Blažková			65	důchodce	Valy	99	80	0	F
+5101	561738	1	2	475	9	Vlasta	Kaluhová			65	důchodce	Krompach	99	80	0	F

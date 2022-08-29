@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	549827	1	1	1	1	Miroslav	Soukup	M			56	zootechnik	Ražice	99	1	0
-3104	549827	1	1	1	2	Josef	Buchtele	M			58	zaměstnanec textilní firmy	Ražice	99	1	0
-3104	549827	1	1	1	3	Jaroslav	Lusk	M			59	zemědělský technik	Ražice	1	1	0
-3104	549827	1	1	1	4	Josef	Bouší	M			70	důchodce	Ražice	1	1	0
-3104	549827	1	1	1	5	Jitka	Medunová	F			40	sociální pracovnice	Ražice	99	1	0
-3104	549827	1	1	1	6	Vlasta	Šálková	F			52	technik	Štětice	99	1	0
-3104	549827	1	2	47	1	Eduard	Černý	M			47	technik	Ražice	99	47	0
-3104	549827	1	2	47	2	Helena	Zoubková	F			54	podnikatelka	Ražice	99	47	0
-3104	549827	1	2	47	3	Helena	Rajtrová	F			65	důchodkyně	Ražice	99	47	0
-3104	549827	1	2	47	4	Jana	Cesca Ješková	F			60	překladatelka	Štětice	99	47	0
-3104	549827	1	2	47	5	Pavel	Troják	M			56	traktorista	Ražice	47	47	0
-3104	549827	1	2	47	6	František	Kašpařík	M	Ing.		78	důchodce	Ražice	47	47	0
-3104	549827	1	3	901	1	Jaroslav	Němejc	M			30	projektant pozemních staveb	Ražice	99	80	0
-3104	549827	1	3	901	2	Vladimír	Drye	M	Ing.		26	projektový manažer	Ražice	99	80	0
-3104	549827	1	3	901	3	Josef	Šefránek	M			38	elektromontér	Ražice	99	80	0
-3104	549827	1	3	901	4	Monika	Souhradová	F			40	jednatelka	Ražice	99	80	0
-3104	549827	1	3	901	5	Miroslav	Horáček	M	Mgr.		36	učitel ZŠ	Ražice	99	80	0
-3104	549827	1	3	901	6	Petra	Voráčková	F	Bc.		23	studentka	Ražice	99	80	0
-3104	549827	1	3	901	7	Jana	Valentová	F			28	administrativní pracovnice	Ražice	99	80	0
-3104	549827	1	3	901	8	Vít	Zoch	M			29	řidič	Ražice	99	80	0
-3104	549827	1	3	901	9	Hana	Šefránková	F			38	zaměstnanec ČD	Ražice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	549827	1	1	1	1	Miroslav	Soukup			56	zootechnik	Ražice	99	1	0	M
+3104	549827	1	2	47	1	Eduard	Černý			47	technik	Ražice	99	47	0	M
+3104	549827	1	3	901	1	Jaroslav	Němejc			30	projektant pozemních staveb	Ražice	99	80	0	M
+3104	549827	1	1	1	2	Josef	Buchtele			58	zaměstnanec textilní firmy	Ražice	99	1	0	M
+3104	549827	1	2	47	2	Helena	Zoubková			54	podnikatelka	Ražice	99	47	0	F
+3104	549827	1	3	901	2	Vladimír	Drye	Ing.		26	projektový manažer	Ražice	99	80	0	M
+3104	549827	1	1	1	3	Jaroslav	Lusk			59	zemědělský technik	Ražice	1	1	0	M
+3104	549827	1	2	47	3	Helena	Rajtrová			65	důchodkyně	Ražice	99	47	0	F
+3104	549827	1	3	901	3	Josef	Šefránek			38	elektromontér	Ražice	99	80	0	M
+3104	549827	1	1	1	4	Josef	Bouší			70	důchodce	Ražice	1	1	0	M
+3104	549827	1	2	47	4	Jana	Cesca Ješková			60	překladatelka	Štětice	99	47	0	F
+3104	549827	1	3	901	4	Monika	Souhradová			40	jednatelka	Ražice	99	80	0	F
+3104	549827	1	1	1	5	Jitka	Medunová			40	sociální pracovnice	Ražice	99	1	0	F
+3104	549827	1	2	47	5	Pavel	Troják			56	traktorista	Ražice	47	47	0	M
+3104	549827	1	3	901	5	Miroslav	Horáček	Mgr.		36	učitel ZŠ	Ražice	99	80	0	M
+3104	549827	1	1	1	6	Vlasta	Šálková			52	technik	Štětice	99	1	0	F
+3104	549827	1	2	47	6	František	Kašpařík	Ing.		78	důchodce	Ražice	47	47	0	M
+3104	549827	1	3	901	6	Petra	Voráčková	Bc.		23	studentka	Ražice	99	80	0	F
+3104	549827	1	3	901	7	Jana	Valentová			28	administrativní pracovnice	Ražice	99	80	0	F
+3104	549827	1	3	901	8	Vít	Zoch			29	řidič	Ražice	99	80	0	M
+3104	549827	1	3	901	9	Hana	Šefránková			38	zaměstnanec ČD	Ražice	99	80	0	F

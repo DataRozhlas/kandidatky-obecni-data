@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	594920	1	1	901	1	Miroslav	Viktorin	M			52	dělník	Tasovice	99	80	0
-6207	594920	1	1	901	2	Ondřej	Paulenka	M			32	laborant	Tasovice	99	80	0
-6207	594920	1	1	901	3	David	Zedníček	M			34	technický pracovník	Tasovice	99	80	0
-6207	594920	1	1	901	4	Miroslav	Grolig	M	RNDr.		43	programátor	Tasovice	99	80	0
-6207	594920	1	1	901	5	Josef	Durajka	M			43	učitel	Tasovice	99	80	0
-6207	594920	1	1	901	6	Jana	Hubrová	F			38	učitelka	Tasovice	99	80	0
-6207	594920	1	1	901	7	Radim	Holík	M			30	skladník	Tasovice	99	80	0
-6207	594920	1	1	901	8	Jaroslav	Kalus	M			52	podnikatel	Tasovice	99	80	0
-6207	594920	1	1	901	9	Ladislav	Šrámek	M	Ing.		64	důchodce	Tasovice	99	80	0
-6207	594920	1	1	901	10	Milan	Slepánek	M			48	dělník	Tasovice	99	80	0
-6207	594920	1	1	901	11	Petr	Buřval	M			51	podnikatel	Tasovice	99	80	0
-6207	594920	1	2	1	1	Josef	Sabáček	M			53	starosta	Tasovice	1	1	0
-6207	594920	1	2	1	2	Jana	Fajkusová	F	Mgr.		38	učitelka	Tasovice	99	1	0
-6207	594920	1	2	1	3	Antonín	Benešovský	M			45	soukromý podnikatel	Tasovice	99	1	0
-6207	594920	1	2	1	4	Jana	Čopová	F			39	vedoucí stravování	Tasovice	99	1	0
-6207	594920	1	2	1	5	Jan	Juhaňák	M			51	obraběč kovů	Tasovice	99	1	0
-6207	594920	1	2	1	6	Jan	Zifčák	M			44	soukromý podnikatel	Tasovice	99	1	0
-6207	594920	1	2	1	7	Miroslava	Brhelová	F			29	pokladní	Tasovice	99	1	0
-6207	594920	1	2	1	8	Jan	Klíčník	M			58	soukromý podnikatel	Tasovice	99	1	0
-6207	594920	1	2	1	9	Ivo	Csanádi	M			28	prodavač	Tasovice	99	1	0
-6207	594920	1	2	1	10	Jaroslav	Vašina	M			27	dělník	Tasovice	99	1	0
-6207	594920	1	2	1	11	Marie	Dítětová	F			41	prodavačka	Tasovice	1	1	0
-6207	594920	1	3	53	1	Jiří	Milotínský	M			50	technik	Tasovice	53	53	0
-6207	594920	1	3	53	2	Josef	Císař	M			59	technik	Tasovice	99	53	0
-6207	594920	1	3	53	3	František	Houšť	M	Ing.		41	technik	Tasovice	99	53	0
-6207	594920	1	3	53	4	Františka	Dvořáková	F			64	důchodce - správce	Tasovice	99	53	0
-6207	594920	1	3	53	5	Iveta	Tesařová	F			40	účetní	Tasovice	99	53	0
-6207	594920	1	3	53	6	Zdeňka	Lukešová	F	MUDr.		52	lékař	Tasovice	53	53	0
-6207	594920	1	3	53	7	Rostislav	Kříž	M			48	dělník	Tasovice	99	53	0
-6207	594920	1	3	53	8	Roman	Arbeiter	M			41	podnikatel	Tasovice	99	53	0
-6207	594920	1	3	53	9	Josef	Vyšinka	M			60	dělník	Tasovice	99	53	0
-6207	594920	1	3	53	10	Petr	Horáček	M			53	dělník	Tasovice	99	53	0
-6207	594920	1	3	53	11	Lubomír	Bazal	M			55	dělník	Tasovice	53	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	594920	1	1	901	1	Miroslav	Viktorin			52	dělník	Tasovice	99	80	0	M
+6207	594920	1	2	1	1	Josef	Sabáček			53	starosta	Tasovice	1	1	0	M
+6207	594920	1	3	53	1	Jiří	Milotínský			50	technik	Tasovice	53	53	0	M
+6207	594920	1	1	901	2	Ondřej	Paulenka			32	laborant	Tasovice	99	80	0	M
+6207	594920	1	2	1	2	Jana	Fajkusová	Mgr.		38	učitelka	Tasovice	99	1	0	F
+6207	594920	1	3	53	2	Josef	Císař			59	technik	Tasovice	99	53	0	M
+6207	594920	1	1	901	3	David	Zedníček			34	technický pracovník	Tasovice	99	80	0	M
+6207	594920	1	2	1	3	Antonín	Benešovský			45	soukromý podnikatel	Tasovice	99	1	0	M
+6207	594920	1	3	53	3	František	Houšť	Ing.		41	technik	Tasovice	99	53	0	M
+6207	594920	1	1	901	4	Miroslav	Grolig	RNDr.		43	programátor	Tasovice	99	80	0	M
+6207	594920	1	2	1	4	Jana	Čopová			39	vedoucí stravování	Tasovice	99	1	0	F
+6207	594920	1	3	53	4	Františka	Dvořáková			64	důchodce - správce	Tasovice	99	53	0	F
+6207	594920	1	1	901	5	Josef	Durajka			43	učitel	Tasovice	99	80	0	M
+6207	594920	1	2	1	5	Jan	Juhaňák			51	obraběč kovů	Tasovice	99	1	0	M
+6207	594920	1	3	53	5	Iveta	Tesařová			40	účetní	Tasovice	99	53	0	F
+6207	594920	1	1	901	6	Jana	Hubrová			38	učitelka	Tasovice	99	80	0	F
+6207	594920	1	2	1	6	Jan	Zifčák			44	soukromý podnikatel	Tasovice	99	1	0	M
+6207	594920	1	3	53	6	Zdeňka	Lukešová	MUDr.		52	lékař	Tasovice	53	53	0	F
+6207	594920	1	1	901	7	Radim	Holík			30	skladník	Tasovice	99	80	0	M
+6207	594920	1	2	1	7	Miroslava	Brhelová			29	pokladní	Tasovice	99	1	0	F
+6207	594920	1	3	53	7	Rostislav	Kříž			48	dělník	Tasovice	99	53	0	M
+6207	594920	1	1	901	8	Jaroslav	Kalus			52	podnikatel	Tasovice	99	80	0	M
+6207	594920	1	2	1	8	Jan	Klíčník			58	soukromý podnikatel	Tasovice	99	1	0	M
+6207	594920	1	3	53	8	Roman	Arbeiter			41	podnikatel	Tasovice	99	53	0	M
+6207	594920	1	1	901	9	Ladislav	Šrámek	Ing.		64	důchodce	Tasovice	99	80	0	M
+6207	594920	1	2	1	9	Ivo	Csanádi			28	prodavač	Tasovice	99	1	0	M
+6207	594920	1	3	53	9	Josef	Vyšinka			60	dělník	Tasovice	99	53	0	M
+6207	594920	1	1	901	10	Milan	Slepánek			48	dělník	Tasovice	99	80	0	M
+6207	594920	1	2	1	10	Jaroslav	Vašina			27	dělník	Tasovice	99	1	0	M
+6207	594920	1	3	53	10	Petr	Horáček			53	dělník	Tasovice	99	53	0	M
+6207	594920	1	1	901	11	Petr	Buřval			51	podnikatel	Tasovice	99	80	0	M
+6207	594920	1	2	1	11	Marie	Dítětová			41	prodavačka	Tasovice	1	1	0	F
+6207	594920	1	3	53	11	Lubomír	Bazal			55	dělník	Tasovice	53	53	0	M

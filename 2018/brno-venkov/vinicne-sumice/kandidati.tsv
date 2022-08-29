@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	584126	1	1	355	1	Petr	Marek	M			41	zámečník	Viničné Šumice	1	1	A
-6203	584126	1	1	355	2	Martin	Krupička	M	Ing.		44	obchodní ředitel	Viničné Šumice	99	80	A
-6203	584126	1	1	355	3	Miroslava	Kunčáková	F			50	šéfredaktorka	Viničné Šumice	99	80	A
-6203	584126	1	1	355	4	Karel	Škrob	M			29	obchodní zástupce	Viničné Šumice	99	80	A
-6203	584126	1	1	355	5	Pavel	Rataj	M	Ing.		28	projektant	Viničné Šumice	99	80	A
-6203	584126	1	1	355	6	Petra	Křížová	F	Bc.		22	studentka VŠ	Viničné Šumice	99	1	A
-6203	584126	1	1	355	7	Mojmír	Novotný	M	Ing.		60	ekonom	Viničné Šumice	1	1	A
-6203	584126	1	1	355	8	Pavel	Kříž	M	Ing.		38	manažer servisu	Viničné Šumice	1	1	A
-6203	584126	1	1	355	9	Maria	Novotná	F			53	programátor	Viničné Šumice	1	1	A
-6203	584126	1	2	901	1	Oldřich	Sedláček	M			53	jednatel společnosti Sebus	Viničné Šumice	99	80	A
-6203	584126	1	2	901	2	Kateřina	Řiháčková	F			52	pekařka	Viničné Šumice	99	80	A
-6203	584126	1	2	901	3	Jaroslav	Šmerda	M			63	vedoucí provozu VAS a.s.	Viničné Šumice	99	80	A
-6203	584126	1	2	901	4	Aleš	Jílek	M			38	OSVČ	Viničné Šumice	99	80	A
-6203	584126	1	2	901	5	Lukáš	Řiháček	M			30	elektrikář	Viničné Šumice	99	80	A
-6203	584126	1	2	901	6	Martin	Doležel	M			27	montér vodovodů	Viničné Šumice	99	80	A
-6203	584126	1	2	901	7	Jiří	Malík	M			24	hasič	Viničné Šumice	99	80	A
-6203	584126	1	2	901	8	Václav	Khůl	M			21	student	Viničné Šumice	99	80	A
-6203	584126	1	2	901	9	Jakub	Šmerda	M			27	jeřábník	Viničné Šumice	99	80	A
-6203	584126	1	3	902	1	Josef	Drápal	M			60	starosta obce	Viničné Šumice	99	80	A
-6203	584126	1	3	902	2	Pavel	Málek	M	Ing.		63	stavební inženýr	Viničné Šumice	99	80	A
-6203	584126	1	3	902	3	Ladislav	Šedý	M			59	zámečník	Viničné Šumice	99	80	A
-6203	584126	1	3	902	4	Jana	Vlčková	F			59	učitelka	Viničné Šumice	99	80	A
-6203	584126	1	3	902	5	Irena	Rausová	F	Ing.		58	ekonomka	Viničné Šumice	99	80	A
-6203	584126	1	3	902	6	Jana	Železná	F	Ing.		48	ekonomka	Viničné Šumice	99	80	A
-6203	584126	1	3	902	7	Michal	Mendl	M			45	OSVČ	Viničné Šumice	99	80	A
-6203	584126	1	3	902	8	Jan	Kohout	M	Ing.		47	obchodní zástupce	Viničné Šumice	99	80	A
-6203	584126	1	3	902	9	Jakub	Šebesta	M			26	autorizovaný technik	Viničné Šumice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	584126	1	1	355	1	Petr	Marek			41	zámečník	Viničné Šumice	1	1	A	M
+6203	584126	1	2	901	1	Oldřich	Sedláček			53	jednatel společnosti Sebus	Viničné Šumice	99	80	A	M
+6203	584126	1	3	902	1	Josef	Drápal			60	starosta obce	Viničné Šumice	99	80	A	M
+6203	584126	1	1	355	2	Martin	Krupička	Ing.		44	obchodní ředitel	Viničné Šumice	99	80	A	M
+6203	584126	1	2	901	2	Kateřina	Řiháčková			52	pekařka	Viničné Šumice	99	80	A	F
+6203	584126	1	3	902	2	Pavel	Málek	Ing.		63	stavební inženýr	Viničné Šumice	99	80	A	M
+6203	584126	1	1	355	3	Miroslava	Kunčáková			50	šéfredaktorka	Viničné Šumice	99	80	A	F
+6203	584126	1	2	901	3	Jaroslav	Šmerda			63	vedoucí provozu VAS a.s.	Viničné Šumice	99	80	A	M
+6203	584126	1	3	902	3	Ladislav	Šedý			59	zámečník	Viničné Šumice	99	80	A	M
+6203	584126	1	1	355	4	Karel	Škrob			29	obchodní zástupce	Viničné Šumice	99	80	A	M
+6203	584126	1	2	901	4	Aleš	Jílek			38	OSVČ	Viničné Šumice	99	80	A	M
+6203	584126	1	3	902	4	Jana	Vlčková			59	učitelka	Viničné Šumice	99	80	A	F
+6203	584126	1	1	355	5	Pavel	Rataj	Ing.		28	projektant	Viničné Šumice	99	80	A	M
+6203	584126	1	2	901	5	Lukáš	Řiháček			30	elektrikář	Viničné Šumice	99	80	A	M
+6203	584126	1	3	902	5	Irena	Rausová	Ing.		58	ekonomka	Viničné Šumice	99	80	A	F
+6203	584126	1	1	355	6	Petra	Křížová	Bc.		22	studentka VŠ	Viničné Šumice	99	1	A	F
+6203	584126	1	2	901	6	Martin	Doležel			27	montér vodovodů	Viničné Šumice	99	80	A	M
+6203	584126	1	3	902	6	Jana	Železná	Ing.		48	ekonomka	Viničné Šumice	99	80	A	F
+6203	584126	1	1	355	7	Mojmír	Novotný	Ing.		60	ekonom	Viničné Šumice	1	1	A	M
+6203	584126	1	2	901	7	Jiří	Malík			24	hasič	Viničné Šumice	99	80	A	M
+6203	584126	1	3	902	7	Michal	Mendl			45	OSVČ	Viničné Šumice	99	80	A	M
+6203	584126	1	1	355	8	Pavel	Kříž	Ing.		38	manažer servisu	Viničné Šumice	1	1	A	M
+6203	584126	1	2	901	8	Václav	Khůl			21	student	Viničné Šumice	99	80	A	M
+6203	584126	1	3	902	8	Jan	Kohout	Ing.		47	obchodní zástupce	Viničné Šumice	99	80	A	M
+6203	584126	1	1	355	9	Maria	Novotná			53	programátor	Viničné Šumice	1	1	A	F
+6203	584126	1	2	901	9	Jakub	Šmerda			27	jeřábník	Viničné Šumice	99	80	A	M
+6203	584126	1	3	902	9	Jakub	Šebesta			26	autorizovaný technik	Viničné Šumice	99	80	A	M

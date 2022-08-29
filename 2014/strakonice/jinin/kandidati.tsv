@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3106	551163	1	1	802	1	Jiří	Červenka	M	Ing.		36	voják z povolání	Jinín	99	80	0
-3106	551163	1	2	805	1	Milena	Weinarová	F	Bc.		39	účetní	Jinín	99	80	0
-3106	551163	1	3	803	1	Lenka	Filipčíková	F			42	prodavačka	Jinín	99	80	0
-3106	551163	1	4	1	1	Marcela	Zájedová	F			39	učitelka	Jinín	99	1	0
-3106	551163	1	4	1	2	Radek	Uher	M			38	zedník	Jinín	99	1	0
-3106	551163	1	4	1	3	Pavel	Sáňka	M	Ing.		34	personalista	Jinín	1	1	0
-3106	551163	1	5	600	1	Jana	Somolová	F			55	OSVČ	Jinín	156	156	0
-3106	551163	1	5	600	2	Jaroslav	Gabriel	M			50	řidič	Jinín	156	156	0
-3106	551163	1	5	600	3	Iveta	Šarlejová	F			44	operátor výroby	Jinín	156	156	0
-3106	551163	1	5	600	4	Michal	Vrána	M			25	operátor výroby	Jinín	156	156	0
-3106	551163	1	6	801	1	Milan	Mráz	M			37	dělník	Jinín	99	80	0
-3106	551163	1	7	804	1	Luboš	Šimon	M			48	dělník	Jinín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3106	551163	1	1	802	1	Jiří	Červenka	Ing.		36	voják z povolání	Jinín	99	80	0	M
+3106	551163	1	2	805	1	Milena	Weinarová	Bc.		39	účetní	Jinín	99	80	0	F
+3106	551163	1	3	803	1	Lenka	Filipčíková			42	prodavačka	Jinín	99	80	0	F
+3106	551163	1	4	1	1	Marcela	Zájedová			39	učitelka	Jinín	99	1	0	F
+3106	551163	1	5	600	1	Jana	Somolová			55	OSVČ	Jinín	156	156	0	F
+3106	551163	1	6	801	1	Milan	Mráz			37	dělník	Jinín	99	80	0	M
+3106	551163	1	7	804	1	Luboš	Šimon			48	dělník	Jinín	99	80	0	M
+3106	551163	1	4	1	2	Radek	Uher			38	zedník	Jinín	99	1	0	M
+3106	551163	1	5	600	2	Jaroslav	Gabriel			50	řidič	Jinín	156	156	0	M
+3106	551163	1	4	1	3	Pavel	Sáňka	Ing.		34	personalista	Jinín	1	1	0	M
+3106	551163	1	5	600	3	Iveta	Šarlejová			44	operátor výroby	Jinín	156	156	0	F
+3106	551163	1	5	600	4	Michal	Vrána			25	operátor výroby	Jinín	156	156	0	M

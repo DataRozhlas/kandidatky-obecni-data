@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6205	586684	1	1	901	1	Martina	Bílová	F	Mgr.		46	starostka	Tvarožná Lhota	99	80	A
-6205	586684	1	1	901	2	Radek	Říha	M	Ing.		59	vedoucí obchodního oddělení	Tvarožná Lhota	99	80	A
-6205	586684	1	1	901	3	Josef	Tomeček	M			27	elektromontér	Tvarožná Lhota	99	80	A
-6205	586684	1	1	901	4	Lukáš	Pelucha	M			45	řidič	Tvarožná Lhota	99	80	A
-6205	586684	1	1	901	5	Josef	Polášek	M			31	truhlář-údržbář	Tvarožná Lhota	720	80	A
-6205	586684	1	1	901	6	Sabina	Jeglová	F			27	vychovatelka školní družiny	Tvarožná Lhota	99	80	A
-6205	586684	1	1	901	7	Jakub	Borek	M	Bc.		29	OSVČ, podpora IT	Tvarožná Lhota	99	80	A
-6205	586684	1	1	901	8	Robert	Petr	M			49	OSVČ, pokrývač	Tvarožná Lhota	99	80	A
-6205	586684	1	1	901	9	Romana	Kanianská	F			42	nákupčí	Tvarožná Lhota	99	80	A
-6205	586684	1	1	901	10	Adam	Slovák	M	Bc.		36	záchranář	Tvarožná Lhota	99	80	A
-6205	586684	1	1	901	11	Petr	Miško	M			35	logistik	Tvarožná Lhota	99	80	A
-6205	586684	1	2	1	1	Martina	Šimšová	F	Bc.		47	účetní	Tvarožná Lhota	1	1	A
-6205	586684	1	2	1	2	Josef	Holubík	M	MUDr.		66	lékař	Tvarožná Lhota	99	1	A
-6205	586684	1	2	1	3	Jana	Aberlová	F	Mgr.		35	učitelka	Tvarožná Lhota	99	1	A
-6205	586684	1	2	1	4	Petr	Zůbek	M			42	montér	Tvarožná Lhota	99	1	A
-6205	586684	1	2	1	5	František	Tomeček	M			45	zaměřovací technik	Tvarožná Lhota	99	1	A
-6205	586684	1	2	1	6	Martin	Křížan	M			42	technik	Tvarožná Lhota	99	1	A
-6205	586684	1	2	1	7	Vít	Hrdoušek	M	Mgr.		50	manager MAS	Tvarožná Lhota	1	1	A
-6205	586684	1	2	1	8	Hana	Glozneková	F			58	laborantka	Tvarožná Lhota	99	1	A
-6205	586684	1	2	1	9	Martin	Šimša	M	PhDr.	Ph.D.	48	ředitel NULK	Tvarožná Lhota	1	1	A
-6205	586684	1	2	1	10	Kristina	Komoňová	F	Bc.		45	pastorační asistent	Tvarožná Lhota	1	1	A
-6205	586684	1	2	1	11	Adéla	Uřičářová	F	Ing.		33	ekonomický pracovník	Tvarožná Lhota	1	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6205	586684	1	1	901	1	Martina	Bílová	Mgr.		46	starostka	Tvarožná Lhota	99	80	A	F
+6205	586684	1	2	1	1	Martina	Šimšová	Bc.		47	účetní	Tvarožná Lhota	1	1	A	F
+6205	586684	1	1	901	2	Radek	Říha	Ing.		59	vedoucí obchodního oddělení	Tvarožná Lhota	99	80	A	M
+6205	586684	1	2	1	2	Josef	Holubík	MUDr.		66	lékař	Tvarožná Lhota	99	1	A	M
+6205	586684	1	1	901	3	Josef	Tomeček			27	elektromontér	Tvarožná Lhota	99	80	A	M
+6205	586684	1	2	1	3	Jana	Aberlová	Mgr.		35	učitelka	Tvarožná Lhota	99	1	A	F
+6205	586684	1	1	901	4	Lukáš	Pelucha			45	řidič	Tvarožná Lhota	99	80	A	M
+6205	586684	1	2	1	4	Petr	Zůbek			42	montér	Tvarožná Lhota	99	1	A	M
+6205	586684	1	1	901	5	Josef	Polášek			31	truhlář-údržbář	Tvarožná Lhota	720	80	A	M
+6205	586684	1	2	1	5	František	Tomeček			45	zaměřovací technik	Tvarožná Lhota	99	1	A	M
+6205	586684	1	1	901	6	Sabina	Jeglová			27	vychovatelka školní družiny	Tvarožná Lhota	99	80	A	F
+6205	586684	1	2	1	6	Martin	Křížan			42	technik	Tvarožná Lhota	99	1	A	M
+6205	586684	1	1	901	7	Jakub	Borek	Bc.		29	OSVČ, podpora IT	Tvarožná Lhota	99	80	A	M
+6205	586684	1	2	1	7	Vít	Hrdoušek	Mgr.		50	manager MAS	Tvarožná Lhota	1	1	A	M
+6205	586684	1	1	901	8	Robert	Petr			49	OSVČ, pokrývač	Tvarožná Lhota	99	80	A	M
+6205	586684	1	2	1	8	Hana	Glozneková			58	laborantka	Tvarožná Lhota	99	1	A	F
+6205	586684	1	1	901	9	Romana	Kanianská			42	nákupčí	Tvarožná Lhota	99	80	A	F
+6205	586684	1	2	1	9	Martin	Šimša	PhDr.	Ph.D.	48	ředitel NULK	Tvarožná Lhota	1	1	A	M
+6205	586684	1	1	901	10	Adam	Slovák	Bc.		36	záchranář	Tvarožná Lhota	99	80	A	M
+6205	586684	1	2	1	10	Kristina	Komoňová	Bc.		45	pastorační asistent	Tvarožná Lhota	1	1	A	F
+6205	586684	1	1	901	11	Petr	Miško			35	logistik	Tvarožná Lhota	99	80	A	M
+6205	586684	1	2	1	11	Adéla	Uřičářová	Ing.		33	ekonomický pracovník	Tvarožná Lhota	1	1	A	F

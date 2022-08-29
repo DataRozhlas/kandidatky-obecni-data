@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5104	577553	1	1	1	1	Jan	Medlík	M		DiS.	38	finanční poradce	Studenec	99	1	A
-5104	577553	1	1	1	2	Pavel	Jiran	M	Ing.		61	ředitel firmy Zetka Strážník	Studenec	1	1	A
-5104	577553	1	1	1	3	Pavel	Mečíř	M	Ing.		42	provozní ředitel Kablo Vrchlabí	Studenec	99	1	A
-5104	577553	1	1	1	4	Jana	Nováková	F	Ing.		35	technolog - vývojář Kablo Vrchlabí	Studenec	99	1	A
-5104	577553	1	1	1	5	Martin	Kuřík	M			21	student	Studenec	99	1	A
-5104	577553	1	1	1	6	Veronika	Vanclová	F			38	sanitářka MMN Jilemnice	Studenec	99	1	A
-5104	577553	1	1	1	7	Marie	Horáčková	F	Bc. et Bc.		35	učitelka mateřské školy	Studenec	99	1	A
-5104	577553	1	1	1	8	Jan	Vancl	M	Ing.		35	vedoucí fúzních technologií a oddělení technologie	Studenec	99	1	A
-5104	577553	1	1	1	9	Petr	Mečíř	M	Bc.		34	referent veřejné správy	Studenec	99	1	A
-5104	577553	1	1	1	10	Václava	Kuříková	F	Ing.		24	učitelka odborných předmětů	Studenec	1	1	A
-5104	577553	1	1	1	11	Martin	Šimáček	M	Ing.		54	projektant	Studenec	99	1	A
-5104	577553	1	1	1	12	František	Tauchman	M	Ing.		35	stavební inženýr	Studenec	99	1	A
-5104	577553	1	1	1	13	Pavel	Bartoň	M			49	OSVČ	Studenec	99	1	A
-5104	577553	1	1	1	14	Lubomír	Brož	M	Mgr.		33	policista	Studenec	99	1	A
-5104	577553	1	1	1	15	Karel	Vancl	M			67	důchodce	Studenec	1	1	A
-5104	577553	1	2	901	1	Jiří	Ulvr	M	Mgr.		46	starosta obce	Studenec	703	80	A
-5104	577553	1	2	901	2	Martin	Mühlbach	M	Ing.		48	státní zaměstnanec	Studenec	99	80	A
-5104	577553	1	2	901	3	Markéta	Kadavá	F			45	zdravotní sestra	Zálesní Lhota	99	80	A
-5104	577553	1	2	901	4	Tomáš	Chrtek	M	Mgr.		31	státní zaměstnanec	Studenec	99	80	A
-5104	577553	1	2	901	5	Josef	Boura	M	Ing.		50	místostarosta obce	Studenec	99	80	A
-5104	577553	1	2	901	6	Marie	Tauchmanová	F	Ing.		37	auditorka	Rovnáčov	99	80	A
-5104	577553	1	2	901	7	Václav	Vancl	M			50	technický poradce	Studenec	99	80	A
-5104	577553	1	2	901	8	Pavel	Tauchman	M	Ing.	Ph.D.	37	technik lesní výroby	Zálesní Lhota	99	80	A
-5104	577553	1	2	901	9	Lukáš	Kalenský	M	JUDr.		48	státní zaměstnanec	Studenec	99	80	A
-5104	577553	1	2	901	10	Jakub	Tauchman	M	Ing.		30	projektový inženýr	Studenec	99	80	A
-5104	577553	1	2	901	11	Dana	Synková	F	PaedDr.		55	zástupkyně ředitele	Studenec	99	80	A
-5104	577553	1	2	901	12	Jan	Hák	M	Ing.		39	technik kvality	Studenec	99	80	A
-5104	577553	1	2	901	13	Antonín	Pacholík	M			59	živnostník	Zálesní Lhota	99	80	A
-5104	577553	1	2	901	14	Jiří	Kudr	M			55	živnostník	Studenec	99	80	A
-5104	577553	1	2	901	15	Lukáš	Vancl	M			24	živnostník	Studenec	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5104	577553	1	1	1	1	Jan	Medlík		DiS.	38	finanční poradce	Studenec	99	1	A	M
+5104	577553	1	2	901	1	Jiří	Ulvr	Mgr.		46	starosta obce	Studenec	703	80	A	M
+5104	577553	1	1	1	2	Pavel	Jiran	Ing.		61	ředitel firmy Zetka Strážník	Studenec	1	1	A	M
+5104	577553	1	2	901	2	Martin	Mühlbach	Ing.		48	státní zaměstnanec	Studenec	99	80	A	M
+5104	577553	1	1	1	3	Pavel	Mečíř	Ing.		42	provozní ředitel Kablo Vrchlabí	Studenec	99	1	A	M
+5104	577553	1	2	901	3	Markéta	Kadavá			45	zdravotní sestra	Zálesní Lhota	99	80	A	F
+5104	577553	1	1	1	4	Jana	Nováková	Ing.		35	technolog - vývojář Kablo Vrchlabí	Studenec	99	1	A	F
+5104	577553	1	2	901	4	Tomáš	Chrtek	Mgr.		31	státní zaměstnanec	Studenec	99	80	A	M
+5104	577553	1	1	1	5	Martin	Kuřík			21	student	Studenec	99	1	A	M
+5104	577553	1	2	901	5	Josef	Boura	Ing.		50	místostarosta obce	Studenec	99	80	A	M
+5104	577553	1	1	1	6	Veronika	Vanclová			38	sanitářka MMN Jilemnice	Studenec	99	1	A	F
+5104	577553	1	2	901	6	Marie	Tauchmanová	Ing.		37	auditorka	Rovnáčov	99	80	A	F
+5104	577553	1	1	1	7	Marie	Horáčková	Bc. et Bc.		35	učitelka mateřské školy	Studenec	99	1	A	F
+5104	577553	1	2	901	7	Václav	Vancl			50	technický poradce	Studenec	99	80	A	M
+5104	577553	1	1	1	8	Jan	Vancl	Ing.		35	vedoucí fúzních technologií a oddělení technologie	Studenec	99	1	A	M
+5104	577553	1	2	901	8	Pavel	Tauchman	Ing.	Ph.D.	37	technik lesní výroby	Zálesní Lhota	99	80	A	M
+5104	577553	1	1	1	9	Petr	Mečíř	Bc.		34	referent veřejné správy	Studenec	99	1	A	M
+5104	577553	1	2	901	9	Lukáš	Kalenský	JUDr.		48	státní zaměstnanec	Studenec	99	80	A	M
+5104	577553	1	1	1	10	Václava	Kuříková	Ing.		24	učitelka odborných předmětů	Studenec	1	1	A	F
+5104	577553	1	2	901	10	Jakub	Tauchman	Ing.		30	projektový inženýr	Studenec	99	80	A	M
+5104	577553	1	1	1	11	Martin	Šimáček	Ing.		54	projektant	Studenec	99	1	A	M
+5104	577553	1	2	901	11	Dana	Synková	PaedDr.		55	zástupkyně ředitele	Studenec	99	80	A	F
+5104	577553	1	1	1	12	František	Tauchman	Ing.		35	stavební inženýr	Studenec	99	1	A	M
+5104	577553	1	2	901	12	Jan	Hák	Ing.		39	technik kvality	Studenec	99	80	A	M
+5104	577553	1	1	1	13	Pavel	Bartoň			49	OSVČ	Studenec	99	1	A	M
+5104	577553	1	2	901	13	Antonín	Pacholík			59	živnostník	Zálesní Lhota	99	80	A	M
+5104	577553	1	1	1	14	Lubomír	Brož	Mgr.		33	policista	Studenec	99	1	A	M
+5104	577553	1	2	901	14	Jiří	Kudr			55	živnostník	Studenec	99	80	A	M
+5104	577553	1	1	1	15	Karel	Vancl			67	důchodce	Studenec	1	1	A	M
+5104	577553	1	2	901	15	Lukáš	Vancl			24	živnostník	Studenec	99	80	A	M

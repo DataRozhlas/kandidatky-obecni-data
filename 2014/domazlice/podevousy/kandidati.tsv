@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	566365	1	1	901	1	Iveta	Nová	F			39	učitelka MŠ	Poděvousy	99	80	0
-3201	566365	1	1	901	2	Zdeněk	Bárta	M			57	obchodník	Poděvousy	99	80	0
-3201	566365	1	1	901	3	Ladislava	Levá	F			49	dělnice	Poděvousy	99	80	0
-3201	566365	1	1	901	4	Roman	Fidler	M	Ing.		49	soukromý podnikatel	Poděvousy	99	80	0
-3201	566365	1	2	902	1	Vít	Veselý	M			35	programátor	Poděvousy	99	80	0
-3201	566365	1	2	902	2	Petr	Šleis	M			44	instalatér	Poděvousy	99	80	0
-3201	566365	1	2	902	3	Anděla	Sedláčková	F			35	obchodní manažer	Poděvousy	99	80	0
-3201	566365	1	2	902	4	Václav	Levý	M			53	zámečník	Poděvousy	99	80	0
-3201	566365	1	2	902	5	Jan	Mašek	M			25	prodejce	Poděvousy	99	80	0
-3201	566365	1	2	902	6	Josef	Svačina	M			30	traktorista	Poděvousy	99	80	0
-3201	566365	1	2	902	7	Pavel	Leština	M			35	řidič	Poděvousy	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	566365	1	1	901	1	Iveta	Nová			39	učitelka MŠ	Poděvousy	99	80	0	F
+3201	566365	1	2	902	1	Vít	Veselý			35	programátor	Poděvousy	99	80	0	M
+3201	566365	1	1	901	2	Zdeněk	Bárta			57	obchodník	Poděvousy	99	80	0	M
+3201	566365	1	2	902	2	Petr	Šleis			44	instalatér	Poděvousy	99	80	0	M
+3201	566365	1	1	901	3	Ladislava	Levá			49	dělnice	Poděvousy	99	80	0	F
+3201	566365	1	2	902	3	Anděla	Sedláčková			35	obchodní manažer	Poděvousy	99	80	0	F
+3201	566365	1	1	901	4	Roman	Fidler	Ing.		49	soukromý podnikatel	Poděvousy	99	80	0	M
+3201	566365	1	2	902	4	Václav	Levý			53	zámečník	Poděvousy	99	80	0	M
+3201	566365	1	2	902	5	Jan	Mašek			25	prodejce	Poděvousy	99	80	0	M
+3201	566365	1	2	902	6	Josef	Svačina			30	traktorista	Poděvousy	99	80	0	M
+3201	566365	1	2	902	7	Pavel	Leština			35	řidič	Poděvousy	99	80	0	M

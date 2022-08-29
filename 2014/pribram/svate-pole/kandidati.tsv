@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	541389	1	1	902	1	Josef	Šimonovský	M			57	stavební technik	Svaté Pole	99	80	0
-2111	541389	1	1	902	2	Martina	Volfová	F	Mgr.		36	učitelka ZŠ	Svaté Pole	53	80	0
-2111	541389	1	1	902	3	Josef	Tesárek	M			53	automechanik	Budínek	99	80	0
-2111	541389	1	1	902	4	Petr	Kozohorský	M	Mgr.		31	fyzioterapeut	Svaté Pole	99	80	0
-2111	541389	1	1	902	5	Martina	Kujanová	F	RNDr.	Ph.D.	34	molekulární bioložka	Svaté Pole	99	80	0
-2111	541389	1	1	902	6	Ondřej	Kočí	M	Ing.		29	geodet	Budínek	99	80	0
-2111	541389	1	1	902	7	Bohuslav	Hamet	M			47	elektromontér	Budínek	99	80	0
-2111	541389	1	2	901	1	Šárka	Kočová	F			52	státní zaměstnanec	Budínek	99	80	0
-2111	541389	1	2	901	2	Josef	Pecka	M			43	automechanik	Svaté Pole	99	80	0
-2111	541389	1	2	901	3	Zdeněk	Žaloudek	M			59	elektromechanik	Svaté Pole	99	80	0
-2111	541389	1	2	901	4	Zdeňka	Pöschlová	F	Mgr.		35	státní zaměstnanec	Svaté Pole	99	80	0
-2111	541389	1	2	901	5	Michal	Hoffman	M	Bc.		25	stavební technik	Svaté Pole	99	80	0
-2111	541389	1	2	901	6	Petr	Šimonovský	M	Mgr.		25	učitel	Svaté Pole	99	80	0
-2111	541389	1	2	901	7	Milan	Farář	M			41	prodejce autodílů	Svaté Pole	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	541389	1	1	902	1	Josef	Šimonovský			57	stavební technik	Svaté Pole	99	80	0	M
+2111	541389	1	2	901	1	Šárka	Kočová			52	státní zaměstnanec	Budínek	99	80	0	F
+2111	541389	1	1	902	2	Martina	Volfová	Mgr.		36	učitelka ZŠ	Svaté Pole	53	80	0	F
+2111	541389	1	2	901	2	Josef	Pecka			43	automechanik	Svaté Pole	99	80	0	M
+2111	541389	1	1	902	3	Josef	Tesárek			53	automechanik	Budínek	99	80	0	M
+2111	541389	1	2	901	3	Zdeněk	Žaloudek			59	elektromechanik	Svaté Pole	99	80	0	M
+2111	541389	1	1	902	4	Petr	Kozohorský	Mgr.		31	fyzioterapeut	Svaté Pole	99	80	0	M
+2111	541389	1	2	901	4	Zdeňka	Pöschlová	Mgr.		35	státní zaměstnanec	Svaté Pole	99	80	0	F
+2111	541389	1	1	902	5	Martina	Kujanová	RNDr.	Ph.D.	34	molekulární bioložka	Svaté Pole	99	80	0	F
+2111	541389	1	2	901	5	Michal	Hoffman	Bc.		25	stavební technik	Svaté Pole	99	80	0	M
+2111	541389	1	1	902	6	Ondřej	Kočí	Ing.		29	geodet	Budínek	99	80	0	M
+2111	541389	1	2	901	6	Petr	Šimonovský	Mgr.		25	učitel	Svaté Pole	99	80	0	M
+2111	541389	1	1	902	7	Bohuslav	Hamet			47	elektromontér	Budínek	99	80	0	M
+2111	541389	1	2	901	7	Milan	Farář			41	prodejce autodílů	Svaté Pole	99	80	0	M

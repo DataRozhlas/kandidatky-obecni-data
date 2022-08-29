@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	582085	1	1	901	1	Lukáš	Šebela	M	Ing.		34	inspektor	Němčice	99	80	A
-6201	582085	1	1	901	2	Jan	Kala	M	Ing.		37	hasič	Němčice	99	80	A
-6201	582085	1	1	901	3	Šárka	Marková	F	Ing.		36	koordinátor zákaznické podpory	Němčice	99	80	A
-6201	582085	1	1	901	4	Petr	Přikryl	M	Mgr.		30	designer	Němčice	99	80	A
-6201	582085	1	1	901	5	Jan	Skoták	M			62	obráběč kovů	Němčice	1	80	A
-6201	582085	1	1	901	6	Václav	Potáš	M	Ing.		58	geometr	Němčice	99	80	A
-6201	582085	1	1	901	7	Tomáš	Grulich	M			31	zaměstnanec obce	Němčice	99	80	A
-6201	582085	1	2	47	1	Antonín	Fidler	M	Mgr.		64	učitel	Němčice	47	47	A
-6201	582085	1	2	47	2	Miroslav	Novotný	M			67	důchodce	Němčice	47	47	A
-6201	582085	1	2	47	3	Josef	Dvořáček	M			31	kooperant výroby	Němčice	99	47	A
-6201	582085	1	2	47	4	Ondřej	Vlach	M			29	vedoucí skladu	Němčice	99	47	A
-6201	582085	1	2	47	5	Kristýna	Sedláková	F		DiS.	28	účetní	Němčice	99	47	A
-6201	582085	1	2	47	6	Jan	Kaššai	M			31	operátor výroby	Němčice	99	47	A
-6201	582085	1	2	47	7	Josef	Štoudek	M			66	důchodce	Němčice	47	47	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	582085	1	1	901	1	Lukáš	Šebela	Ing.		34	inspektor	Němčice	99	80	A	M
+6201	582085	1	2	47	1	Antonín	Fidler	Mgr.		64	učitel	Němčice	47	47	A	M
+6201	582085	1	1	901	2	Jan	Kala	Ing.		37	hasič	Němčice	99	80	A	M
+6201	582085	1	2	47	2	Miroslav	Novotný			67	důchodce	Němčice	47	47	A	M
+6201	582085	1	1	901	3	Šárka	Marková	Ing.		36	koordinátor zákaznické podpory	Němčice	99	80	A	F
+6201	582085	1	2	47	3	Josef	Dvořáček			31	kooperant výroby	Němčice	99	47	A	M
+6201	582085	1	1	901	4	Petr	Přikryl	Mgr.		30	designer	Němčice	99	80	A	M
+6201	582085	1	2	47	4	Ondřej	Vlach			29	vedoucí skladu	Němčice	99	47	A	M
+6201	582085	1	1	901	5	Jan	Skoták			62	obráběč kovů	Němčice	1	80	A	M
+6201	582085	1	2	47	5	Kristýna	Sedláková		DiS.	28	účetní	Němčice	99	47	A	F
+6201	582085	1	1	901	6	Václav	Potáš	Ing.		58	geometr	Němčice	99	80	A	M
+6201	582085	1	2	47	6	Jan	Kaššai			31	operátor výroby	Němčice	99	47	A	M
+6201	582085	1	1	901	7	Tomáš	Grulich			31	zaměstnanec obce	Němčice	99	80	A	M
+6201	582085	1	2	47	7	Josef	Štoudek			66	důchodce	Němčice	47	47	A	M

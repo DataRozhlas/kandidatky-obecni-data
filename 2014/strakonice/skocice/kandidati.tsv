@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3106	551741	1	1	1	1	Jan	Šídlo	M	Ing.		32	vedoucí technolog	Skočice	99	1	0
-3106	551741	1	1	1	2	Václav	Havlík	M			55	dělník	Skočice	99	1	0
-3106	551741	1	1	1	3	Jaroslav	Šídlo	M	Ing.		65	důchodce	Skočice	1	1	0
-3106	551741	1	1	1	4	Jiří	Hasil	M	Ing.		58	technik	Lidmovice	99	1	0
-3106	551741	1	1	1	5	Stanislav	Ondráček	M			39	OSVČ	Skočice	99	1	0
-3106	551741	1	1	1	6	Dagmar	Žílová	F			68	důchodce	Skočice	99	1	0
-3106	551741	1	1	1	7	Jiří	Kovářík	M	Bc.		26	zemědělský odborník	Lidmovice	99	1	0
-3106	551741	1	1	1	8	Pavel	Baloun	M			40	obchodní zástupce	Skočice	99	1	0
-3106	551741	1	1	1	9	Marie	Kapustová	F			62	důchodce	Skočice	99	1	0
-3106	551741	1	2	901	1	Karel	Křišťan	M			41	živnostník	Lidmovice	99	80	0
-3106	551741	1	2	901	2	Marek	Peška	M			31	truhlář	Lidmovice	99	80	0
-3106	551741	1	2	901	3	Zdeněk	Křišťan	M			37	řidič	Lidmovice	99	80	0
-3106	551741	1	2	901	4	Karel	Vojík	M			34	číšník	Lidmovice	99	80	0
-3106	551741	1	2	901	5	Petr	Malec	M			26	strážník MP	Lidmovice	99	80	0
-3106	551741	1	2	901	6	Radek	Kieweg	M			34	kuchař	Lidmovice	99	80	0
-3106	551741	1	2	901	7	Milan	Kejšar	M			31	automechanik	Lidmovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3106	551741	1	1	1	1	Jan	Šídlo	Ing.		32	vedoucí technolog	Skočice	99	1	0	M
+3106	551741	1	2	901	1	Karel	Křišťan			41	živnostník	Lidmovice	99	80	0	M
+3106	551741	1	1	1	2	Václav	Havlík			55	dělník	Skočice	99	1	0	M
+3106	551741	1	2	901	2	Marek	Peška			31	truhlář	Lidmovice	99	80	0	M
+3106	551741	1	1	1	3	Jaroslav	Šídlo	Ing.		65	důchodce	Skočice	1	1	0	M
+3106	551741	1	2	901	3	Zdeněk	Křišťan			37	řidič	Lidmovice	99	80	0	M
+3106	551741	1	1	1	4	Jiří	Hasil	Ing.		58	technik	Lidmovice	99	1	0	M
+3106	551741	1	2	901	4	Karel	Vojík			34	číšník	Lidmovice	99	80	0	M
+3106	551741	1	1	1	5	Stanislav	Ondráček			39	OSVČ	Skočice	99	1	0	M
+3106	551741	1	2	901	5	Petr	Malec			26	strážník MP	Lidmovice	99	80	0	M
+3106	551741	1	1	1	6	Dagmar	Žílová			68	důchodce	Skočice	99	1	0	F
+3106	551741	1	2	901	6	Radek	Kieweg			34	kuchař	Lidmovice	99	80	0	M
+3106	551741	1	1	1	7	Jiří	Kovářík	Bc.		26	zemědělský odborník	Lidmovice	99	1	0	M
+3106	551741	1	2	901	7	Milan	Kejšar			31	automechanik	Lidmovice	99	80	0	M
+3106	551741	1	1	1	8	Pavel	Baloun			40	obchodní zástupce	Skočice	99	1	0	M
+3106	551741	1	1	1	9	Marie	Kapustová			62	důchodce	Skočice	99	1	0	F

@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	550001	1	1	902	1	Martin	Troják	M			45	OSVČ	Vrcovice	99	80	A
-3104	550001	1	1	902	2	Marie	Müllerová	F			61	důchodce	Vrcovice	99	80	A
-3104	550001	1	1	902	3	Iveta	Salfická	F			52	kuchařka	Vrcovice	99	80	A
-3104	550001	1	1	902	4	Iva	Maroušková	F			47	učitelka MŠ	Vrcovice	99	80	A
-3104	550001	1	1	902	5	Pavel	Englický	M	Mgr.		59	finanční poradce	Vrcovice	99	80	A
-3104	550001	1	2	901	1	Markéta	Nepodalová	F			41	OSVČ soukromý zemědělec	Vrcovice	99	80	A
-3104	550001	1	2	901	2	Jiří	Mikát	M	Ing.		75	důchodce	Vrcovice	99	80	A
-3104	550001	1	2	901	3	Petr	Ciboch	M			42	čalouník	Vrcovice	99	80	A
-3104	550001	1	2	901	4	Václav	Lechnýř	M			69	důchodce	Vrcovice	99	80	A
-3104	550001	1	2	901	5	Marie	Bahenská	F			57	pracovník SORP	Vrcovice	99	80	A
-3104	550001	1	2	901	6	Jitka	Šťastná	F			47	obchodní zástupce	Vrcovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	550001	1	1	902	1	Martin	Troják			45	OSVČ	Vrcovice	99	80	A	M
+3104	550001	1	2	901	1	Markéta	Nepodalová			41	OSVČ soukromý zemědělec	Vrcovice	99	80	A	F
+3104	550001	1	1	902	2	Marie	Müllerová			61	důchodce	Vrcovice	99	80	A	F
+3104	550001	1	2	901	2	Jiří	Mikát	Ing.		75	důchodce	Vrcovice	99	80	A	M
+3104	550001	1	1	902	3	Iveta	Salfická			52	kuchařka	Vrcovice	99	80	A	F
+3104	550001	1	2	901	3	Petr	Ciboch			42	čalouník	Vrcovice	99	80	A	M
+3104	550001	1	1	902	4	Iva	Maroušková			47	učitelka MŠ	Vrcovice	99	80	A	F
+3104	550001	1	2	901	4	Václav	Lechnýř			69	důchodce	Vrcovice	99	80	A	M
+3104	550001	1	1	902	5	Pavel	Englický	Mgr.		59	finanční poradce	Vrcovice	99	80	A	M
+3104	550001	1	2	901	5	Marie	Bahenská			57	pracovník SORP	Vrcovice	99	80	A	F
+3104	550001	1	2	901	6	Jitka	Šťastná			47	obchodní zástupce	Vrcovice	99	80	A	F

@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	549991	1	1	7	1	Josef	Urych	M			52	OSVČ	Stará Vráž	99	7	A
-3104	549991	1	1	7	2	Miroslav	Šilinger	M			43	technolog	Stará Vráž	99	7	A
-3104	549991	1	1	7	3	Vojtěch	Urych	M			23	OSVČ	Stará Vráž	99	7	A
-3104	549991	1	1	7	4	Jan	Toman	M			29	operátor výroby	Stará Vráž	99	7	A
-3104	549991	1	1	7	5	Pavol	Ozaňák	M	Ing.		57	marketingový ředitel	Stará Vráž	99	7	A
-3104	549991	1	1	7	6	Milan	Čaloun	M			39	OSVČ	Stará Vráž	99	7	A
-3104	549991	1	2	901	1	Vladimír	Huptych	M			56	starosta obce	Stará Vráž	99	80	A
-3104	549991	1	2	901	2	Ivan	Hollý	M			46	stavbyvedoucí	Stará Vráž	99	80	A
-3104	549991	1	2	901	3	Jaroslav	Kučera	M			55	vedoucí střediska	Nová Vráž	99	80	A
-3104	549991	1	2	901	4	Martina	Kučerová	F			37	manažerka	Stará Vráž	99	80	A
-3104	549991	1	2	901	5	Jiří	Hlavsa	M			63	důchodce	Stará Vráž	99	80	A
-3104	549991	1	2	901	6	Marcela	Viktorová	F	Ing.		36	ekonomická ředitelka	Stará Vráž	99	80	A
-3104	549991	1	2	901	7	Pavla	Vokatá	F			52	prodavačka	Stará Vráž	99	80	A
-3104	549991	1	2	901	8	Zdeněk	Čarek	M			63	důchodce	Stará Vráž	99	80	A
-3104	549991	1	2	901	9	Josef	Jančura	M			60	mistr odborného výcviku	Nová Vráž	99	80	A
-3104	549991	1	3	902	1	Michal	Štědronský	M			47	OSVČ	Nová Vráž	99	80	A
-3104	549991	1	3	902	2	Lumír	Marcin	M	Ing.		63	důchodce	Nová Vráž	99	80	A
-3104	549991	1	3	902	3	Ivana	Smolová	F			61	důchodce	Stará Vráž	99	80	A
-3104	549991	1	3	902	4	Jaroslav	Pravda	M			59	výpravčí	Stará Vráž	99	80	A
-3104	549991	1	3	902	5	Miroslav	Kaše	M			56	řidič	Stará Vráž	99	80	A
-3104	549991	1	3	902	6	Petr	Moravec	M			37	referent majetkové správy	Nová Vráž	99	80	A
-3104	549991	1	3	902	7	Marie	Kučerová	F			62	důchodkyně	Nová Vráž	1	80	A
-3104	549991	1	3	902	8	Jan	Pavlas	M			35	OSVČ	Stará Vráž	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	549991	1	1	7	1	Josef	Urych			52	OSVČ	Stará Vráž	99	7	A	M
+3104	549991	1	2	901	1	Vladimír	Huptych			56	starosta obce	Stará Vráž	99	80	A	M
+3104	549991	1	3	902	1	Michal	Štědronský			47	OSVČ	Nová Vráž	99	80	A	M
+3104	549991	1	1	7	2	Miroslav	Šilinger			43	technolog	Stará Vráž	99	7	A	M
+3104	549991	1	2	901	2	Ivan	Hollý			46	stavbyvedoucí	Stará Vráž	99	80	A	M
+3104	549991	1	3	902	2	Lumír	Marcin	Ing.		63	důchodce	Nová Vráž	99	80	A	M
+3104	549991	1	1	7	3	Vojtěch	Urych			23	OSVČ	Stará Vráž	99	7	A	M
+3104	549991	1	2	901	3	Jaroslav	Kučera			55	vedoucí střediska	Nová Vráž	99	80	A	M
+3104	549991	1	3	902	3	Ivana	Smolová			61	důchodce	Stará Vráž	99	80	A	F
+3104	549991	1	1	7	4	Jan	Toman			29	operátor výroby	Stará Vráž	99	7	A	M
+3104	549991	1	2	901	4	Martina	Kučerová			37	manažerka	Stará Vráž	99	80	A	F
+3104	549991	1	3	902	4	Jaroslav	Pravda			59	výpravčí	Stará Vráž	99	80	A	M
+3104	549991	1	1	7	5	Pavol	Ozaňák	Ing.		57	marketingový ředitel	Stará Vráž	99	7	A	M
+3104	549991	1	2	901	5	Jiří	Hlavsa			63	důchodce	Stará Vráž	99	80	A	M
+3104	549991	1	3	902	5	Miroslav	Kaše			56	řidič	Stará Vráž	99	80	A	M
+3104	549991	1	1	7	6	Milan	Čaloun			39	OSVČ	Stará Vráž	99	7	A	M
+3104	549991	1	2	901	6	Marcela	Viktorová	Ing.		36	ekonomická ředitelka	Stará Vráž	99	80	A	F
+3104	549991	1	3	902	6	Petr	Moravec			37	referent majetkové správy	Nová Vráž	99	80	A	M
+3104	549991	1	2	901	7	Pavla	Vokatá			52	prodavačka	Stará Vráž	99	80	A	F
+3104	549991	1	3	902	7	Marie	Kučerová			62	důchodkyně	Nová Vráž	1	80	A	F
+3104	549991	1	2	901	8	Zdeněk	Čarek			63	důchodce	Stará Vráž	99	80	A	M
+3104	549991	1	3	902	8	Jan	Pavlas			35	OSVČ	Stará Vráž	99	80	A	M
+3104	549991	1	2	901	9	Josef	Jančura			60	mistr odborného výcviku	Nová Vráž	99	80	A	M

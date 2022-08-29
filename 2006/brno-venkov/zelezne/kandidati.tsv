@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	584274	1	1	901	1	Jan	Motyčka	M			47	tajemník svazku	Železné	99	80	0
-6203	584274	1	1	901	2	Zdeněk	Hrbotický	M			38	dělník	Železné	99	80	0
-6203	584274	1	1	901	3	Jaromír	Synek	M			42	skladník	Železné	99	80	0
-6203	584274	1	1	901	4	Irena	Záluská	F			39	vedoucí prodejny	Železné	99	80	0
-6203	584274	1	1	901	5	Libor	Mach	M			31	programátor	Železné	99	80	0
-6203	584274	1	1	901	6	Pavel	Odehnal	M			36	elektromontér	Železné	99	80	0
-6203	584274	1	2	7	1	Radomír	Pavlíček	M			45	jednatel	Železné	99	7	0
-6203	584274	1	2	7	2	Jiří	Dolek	M	Ing.		73	důchodce	Železné	99	7	0
-6203	584274	1	2	7	3	Pavla	Vacová	F			35	obchodní zástupce	Železné	99	7	0
-6203	584274	1	2	7	4	Michal	Burian	M	Ing.	Ph.D.	48	podnikatel	Železné	99	7	0
-6203	584274	1	2	7	5	Libor	Vejrosta	M			43	živnostník	Železné	7	7	0
-6203	584274	1	2	7	6	Miroslav	Pavlík	M	Mgr.		66	důchodce	Železné	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	584274	1	1	901	1	Jan	Motyčka			47	tajemník svazku	Železné	99	80	0	M
+6203	584274	1	2	7	1	Radomír	Pavlíček			45	jednatel	Železné	99	7	0	M
+6203	584274	1	1	901	2	Zdeněk	Hrbotický			38	dělník	Železné	99	80	0	M
+6203	584274	1	2	7	2	Jiří	Dolek	Ing.		73	důchodce	Železné	99	7	0	M
+6203	584274	1	1	901	3	Jaromír	Synek			42	skladník	Železné	99	80	0	M
+6203	584274	1	2	7	3	Pavla	Vacová			35	obchodní zástupce	Železné	99	7	0	F
+6203	584274	1	1	901	4	Irena	Záluská			39	vedoucí prodejny	Železné	99	80	0	F
+6203	584274	1	2	7	4	Michal	Burian	Ing.	Ph.D.	48	podnikatel	Železné	99	7	0	M
+6203	584274	1	1	901	5	Libor	Mach			31	programátor	Železné	99	80	0	M
+6203	584274	1	2	7	5	Libor	Vejrosta			43	živnostník	Železné	7	7	0	M
+6203	584274	1	1	901	6	Pavel	Odehnal			36	elektromontér	Železné	99	80	0	M
+6203	584274	1	2	7	6	Miroslav	Pavlík	Mgr.		66	důchodce	Železné	99	7	0	M

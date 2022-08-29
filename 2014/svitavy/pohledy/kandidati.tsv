@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	578550	1	1	47	1	Jiří	Lenoch	M	Ing.		36	samostatný projektant	Horní Hynčina	99	47	0
-5303	578550	1	1	47	2	Antonín	Vajgl	M			51	agronom	Horní Hynčina	99	47	0
-5303	578550	1	1	47	3	Miroslav	Šváb	M			37	živnostník	Pohledy	99	47	0
-5303	578550	1	1	47	4	Leoš	Valenta	M			20	student	Horní Hynčina	99	47	0
-5303	578550	1	1	47	5	Ladislav	Štoudek	M			54	údržbář	Pohledy	99	47	0
-5303	578550	1	1	47	6	Zdeňka	Juránová	F			63	důchodkyně	Horní Hynčina	99	47	0
-5303	578550	1	1	47	7	Marián	Hynek	M			38	prodavač	Horní Hynčina	99	47	0
-5303	578550	1	1	47	8	Lenka	Švábová	F			36	kuchařka	Pohledy	99	47	0
-5303	578550	1	1	47	9	Josef	Blaha	M			47	dělník	Horní Hynčina	99	47	0
-5303	578550	1	2	792	1	Ladislav	Bahrynovski	M	JUDr.		66	právník	Horní Hynčina	99	792	0
-5303	578550	1	2	792	2	Roman	Houser	M			38	pokrývač	Horní Hynčina	99	792	0
-5303	578550	1	2	792	3	Zdeněk	Baklík	M			61	nástrojař	Horní Hynčina	99	792	0
-5303	578550	1	2	792	4	Martin	Löffler	M			42	dělník	Horní Hynčina	99	792	0
-5303	578550	1	2	792	5	Zdeněk	Špelda	M			59	státní zaměstnanec	Horní Hynčina	99	792	0
-5303	578550	1	2	792	6	Hana	Špeldová	F			58	zdravotní laborantka	Horní Hynčina	99	792	0
-5303	578550	1	2	792	7	Pavlína	Houserová	F			36	obchodní zástupce	Horní Hynčina	99	792	0
-5303	578550	1	2	792	8	Věra	Janíková	F			80	důchodkyně	Horní Hynčina	99	792	0
-5303	578550	1	2	792	9	Jaroslav	Novák	M			47	spisovatel-novinář	Horní Hynčina	99	792	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	578550	1	1	47	1	Jiří	Lenoch	Ing.		36	samostatný projektant	Horní Hynčina	99	47	0	M
+5303	578550	1	2	792	1	Ladislav	Bahrynovski	JUDr.		66	právník	Horní Hynčina	99	792	0	M
+5303	578550	1	1	47	2	Antonín	Vajgl			51	agronom	Horní Hynčina	99	47	0	M
+5303	578550	1	2	792	2	Roman	Houser			38	pokrývač	Horní Hynčina	99	792	0	M
+5303	578550	1	1	47	3	Miroslav	Šváb			37	živnostník	Pohledy	99	47	0	M
+5303	578550	1	2	792	3	Zdeněk	Baklík			61	nástrojař	Horní Hynčina	99	792	0	M
+5303	578550	1	1	47	4	Leoš	Valenta			20	student	Horní Hynčina	99	47	0	M
+5303	578550	1	2	792	4	Martin	Löffler			42	dělník	Horní Hynčina	99	792	0	M
+5303	578550	1	1	47	5	Ladislav	Štoudek			54	údržbář	Pohledy	99	47	0	M
+5303	578550	1	2	792	5	Zdeněk	Špelda			59	státní zaměstnanec	Horní Hynčina	99	792	0	M
+5303	578550	1	1	47	6	Zdeňka	Juránová			63	důchodkyně	Horní Hynčina	99	47	0	F
+5303	578550	1	2	792	6	Hana	Špeldová			58	zdravotní laborantka	Horní Hynčina	99	792	0	F
+5303	578550	1	1	47	7	Marián	Hynek			38	prodavač	Horní Hynčina	99	47	0	M
+5303	578550	1	2	792	7	Pavlína	Houserová			36	obchodní zástupce	Horní Hynčina	99	792	0	F
+5303	578550	1	1	47	8	Lenka	Švábová			36	kuchařka	Pohledy	99	47	0	F
+5303	578550	1	2	792	8	Věra	Janíková			80	důchodkyně	Horní Hynčina	99	792	0	F
+5303	578550	1	1	47	9	Josef	Blaha			47	dělník	Horní Hynčina	99	47	0	M
+5303	578550	1	2	792	9	Jaroslav	Novák			47	spisovatel-novinář	Horní Hynčina	99	792	0	M

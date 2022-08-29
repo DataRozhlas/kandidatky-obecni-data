@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	581356	1	1	902	1	Michal	Paroulek	M			30	OSVČ obor IT	Borotín	99	80	A
-6201	581356	1	1	902	2	Tomáš	Köhler	M			39	příslušník ozbrojených sil ČR	Borotín	99	80	A
-6201	581356	1	1	902	3	Jakub	Staněk	M			30	příslušník ozbrojených sil ČR	Borotín	99	80	A
-6201	581356	1	1	902	4	Petr	Smékal	M			32	OSVČ obor zednictví	Borotín	99	80	A
-6201	581356	1	1	902	5	Jiří	Čápek	M			35	technolog	Borotín	99	80	A
-6201	581356	1	1	902	6	Michal	Župka	M			31	OSVČ obor zednictví	Borotín	99	80	A
-6201	581356	1	1	902	7	Dominik	Machálek	M			27	OSVČ obor opravy silničních vozidel	Borotín	99	80	A
-6201	581356	1	2	166	1	Zdeněk	Toul	M	Ing.		62	starosta	Borotín	166	166	A
-6201	581356	1	2	166	2	Petr	Kouřil	M			44	řidič - záchranář	Borotín	99	166	A
-6201	581356	1	2	166	3	Petr	Oliva	M			40	údržbář	Borotín	99	166	A
-6201	581356	1	2	166	4	Zdeněk	Mrštík	M			30	strážník městské policie	Borotín	99	166	A
-6201	581356	1	2	166	5	František	Chlup	M			55	živnostník	Borotín	99	166	A
-6201	581356	1	2	166	6	Milan	Vlasák	M			51	traktorista	Borotín	99	166	A
-6201	581356	1	2	166	7	Šárka	Ambrozová	F			52	montážní dělnice	Borotín	99	166	A
-6201	581356	1	2	166	8	Miroslav	Novotný	M			48	dělník - svářeč	Borotín	99	166	A
-6201	581356	1	3	901	1	Iveta	Müllerová	F	Bc.	DiS.	30	rodičovská dovolená	Borotín	99	80	A
-6201	581356	1	3	901	2	Martin	Dűrr	M			45	elektrikář	Borotín	99	80	A
-6201	581356	1	3	901	3	David	Kubík	M			33	recepční	Borotín	99	80	A
-6201	581356	1	3	901	4	Zdeněk	Čapka	M			49	montér, zámečník	Borotín	99	80	A
-6201	581356	1	3	901	5	Lucie	Tomanová	F			40	pracovnice přímé péče	Borotín	99	80	A
-6201	581356	1	3	901	6	Andrea	Tihonová	F			45	sanitářka	Borotín	99	80	A
-6201	581356	1	3	901	7	Kateřina	Cigánková	F			35	operátor výroby	Borotín	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	581356	1	1	902	1	Michal	Paroulek			30	OSVČ obor IT	Borotín	99	80	A	M
+6201	581356	1	2	166	1	Zdeněk	Toul	Ing.		62	starosta	Borotín	166	166	A	M
+6201	581356	1	3	901	1	Iveta	Müllerová	Bc.	DiS.	30	rodičovská dovolená	Borotín	99	80	A	F
+6201	581356	1	1	902	2	Tomáš	Köhler			39	příslušník ozbrojených sil ČR	Borotín	99	80	A	M
+6201	581356	1	2	166	2	Petr	Kouřil			44	řidič - záchranář	Borotín	99	166	A	M
+6201	581356	1	3	901	2	Martin	Dűrr			45	elektrikář	Borotín	99	80	A	M
+6201	581356	1	1	902	3	Jakub	Staněk			30	příslušník ozbrojených sil ČR	Borotín	99	80	A	M
+6201	581356	1	2	166	3	Petr	Oliva			40	údržbář	Borotín	99	166	A	M
+6201	581356	1	3	901	3	David	Kubík			33	recepční	Borotín	99	80	A	M
+6201	581356	1	1	902	4	Petr	Smékal			32	OSVČ obor zednictví	Borotín	99	80	A	M
+6201	581356	1	2	166	4	Zdeněk	Mrštík			30	strážník městské policie	Borotín	99	166	A	M
+6201	581356	1	3	901	4	Zdeněk	Čapka			49	montér, zámečník	Borotín	99	80	A	M
+6201	581356	1	1	902	5	Jiří	Čápek			35	technolog	Borotín	99	80	A	M
+6201	581356	1	2	166	5	František	Chlup			55	živnostník	Borotín	99	166	A	M
+6201	581356	1	3	901	5	Lucie	Tomanová			40	pracovnice přímé péče	Borotín	99	80	A	F
+6201	581356	1	1	902	6	Michal	Župka			31	OSVČ obor zednictví	Borotín	99	80	A	M
+6201	581356	1	2	166	6	Milan	Vlasák			51	traktorista	Borotín	99	166	A	M
+6201	581356	1	3	901	6	Andrea	Tihonová			45	sanitářka	Borotín	99	80	A	F
+6201	581356	1	1	902	7	Dominik	Machálek			27	OSVČ obor opravy silničních vozidel	Borotín	99	80	A	M
+6201	581356	1	2	166	7	Šárka	Ambrozová			52	montážní dělnice	Borotín	99	166	A	F
+6201	581356	1	3	901	7	Kateřina	Cigánková			35	operátor výroby	Borotín	99	80	A	F
+6201	581356	1	2	166	8	Miroslav	Novotný			48	dělník - svářeč	Borotín	99	166	A	M

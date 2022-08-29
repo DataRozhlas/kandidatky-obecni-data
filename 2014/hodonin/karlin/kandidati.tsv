@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6205	586242	1	1	7	1	Stanislav	Urbánek	M			48	státní zaměstnanec	Karlín	7	7	0
-6205	586242	1	1	7	2	Petr	Venera	M			28	státní zaměstnanec	Karlín	99	7	0
-6205	586242	1	1	7	3	Josef	Stávek	M			67	důchodce	Karlín	99	7	0
-6205	586242	1	1	7	4	Pavel	Machala	M			54	technik	Karlín	99	7	0
-6205	586242	1	1	7	5	Monika	Červínková	F			20	studentka	Karlín	99	7	0
-6205	586242	1	2	901	1	Darja	Krpalová	F			47	účetní	Karlín	99	80	0
-6205	586242	1	2	901	2	Tomáš	Stávek	M			37	podnikatel	Karlín	99	80	0
-6205	586242	1	2	901	3	Pavel	Ivan	M			46	seřizovač	Karlín	99	80	0
-6205	586242	1	2	901	4	Vladimíra	Gulišová	F			41	šička	Karlín	99	80	0
-6205	586242	1	2	901	5	Kamil	Grmolec	M			39	stolař	Karlín	99	80	0
-6205	586242	1	2	901	6	Lenka	Laigotová	F			32	admin. pracovnice	Karlín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6205	586242	1	1	7	1	Stanislav	Urbánek			48	státní zaměstnanec	Karlín	7	7	0	M
+6205	586242	1	2	901	1	Darja	Krpalová			47	účetní	Karlín	99	80	0	F
+6205	586242	1	1	7	2	Petr	Venera			28	státní zaměstnanec	Karlín	99	7	0	M
+6205	586242	1	2	901	2	Tomáš	Stávek			37	podnikatel	Karlín	99	80	0	M
+6205	586242	1	1	7	3	Josef	Stávek			67	důchodce	Karlín	99	7	0	M
+6205	586242	1	2	901	3	Pavel	Ivan			46	seřizovač	Karlín	99	80	0	M
+6205	586242	1	1	7	4	Pavel	Machala			54	technik	Karlín	99	7	0	M
+6205	586242	1	2	901	4	Vladimíra	Gulišová			41	šička	Karlín	99	80	0	F
+6205	586242	1	1	7	5	Monika	Červínková			20	studentka	Karlín	99	7	0	F
+6205	586242	1	2	901	5	Kamil	Grmolec			39	stolař	Karlín	99	80	0	M
+6205	586242	1	2	901	6	Lenka	Laigotová			32	admin. pracovnice	Karlín	99	80	0	F

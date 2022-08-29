@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589888	1	1	470	1	Kamil	Štětař	M			33	OSVČ, místostarosta obce	Pivín	166	166	A
-7103	589888	1	1	470	2	Tomáš	Vrba	M	Bc.		29	zaměstnanec Státního pozemkového úřadu	Pivín	99	80	A
-7103	589888	1	1	470	3	Jarmila	Krchňáková	F			58	mzdová účetní	Pivín	99	80	A
-7103	589888	1	1	470	4	Květoslava	Žondrová	F	Mgr.		56	ředitelka ZŠ Pivín	Pivín	99	80	A
-7103	589888	1	1	470	5	Zdeněk	Svozil	M	Ing.		29	vedoucí energetiky	Pivín	99	80	A
-7103	589888	1	1	470	6	Roman	Nakládal	M			42	OSVČ	Pivín	99	80	A
-7103	589888	1	1	470	7	Jan	Nedbal	M			27	učitel odborného výcviku	Pivín	99	80	A
-7103	589888	1	1	470	8	Naděžda	Horáčková	F			53	nákupčí	Pivín	99	80	A
-7103	589888	1	1	470	9	Hana	Sedlářová	F			47	bankovní úředník	Pivín	99	80	A
-7103	589888	1	2	181	1	František	Sedlák	M			28	zámečník	Pivín	1	181	A
-7103	589888	1	2	181	2	Radmila	Buchláková	F			41	zdravotní sestra	Pivín	99	181	A
-7103	589888	1	2	181	3	Miroslav	Zavadil	M			28	technik vodohospodář	Pivín	99	181	A
-7103	589888	1	2	181	4	Věra	Rábková	F			48	pečovatelka	Pivín	99	181	A
-7103	589888	1	2	181	5	Jakub	Šišma	M			33	řidič	Pivín	99	181	A
-7103	589888	1	2	181	6	František	Ježek	M			41	OSVČ - cukrář	Pivín	99	181	A
-7103	589888	1	2	181	7	Marek	Flášar	M			41	OSVČ - zahradní technik	Pivín	99	181	A
-7103	589888	1	2	181	8	Martina	Pavelková	F			34	prodavačka	Pivín	99	181	A
-7103	589888	1	2	181	9	Jan	Straka	M			39	kovoobraběč	Pivín	99	181	A
-7103	589888	1	3	1	1	František	Sedlák	M			58	OSVČ - zámečník	Pivín	1	1	A
-7103	589888	1	3	1	2	Jaroslav	Žondra	M			58	OSVČ	Pivín	1	1	A
-7103	589888	1	3	1	3	Josef	Komínek	M			42	traktorista - mechanik	Pivín	99	1	A
-7103	589888	1	3	1	4	Marie	Hýblová	F	Mgr.		47	učitelka	Pivín	99	1	A
-7103	589888	1	3	1	5	Petr	Češka	M			27	specialista IT	Pivín	99	1	A
-7103	589888	1	3	1	6	Jiří	Janík	M			48	lékárník	Pivín	99	1	A
-7103	589888	1	3	1	7	Kristýna	Kulhajová	F			39	pánská krejčová	Pivín	99	1	A
-7103	589888	1	3	1	8	Jiří	Pazdera	M			41	zámečník	Pivín	99	1	A
-7103	589888	1	3	1	9	Anna	Hýblová	F			21	studentka	Pivín	99	1	A
-7103	589888	1	4	901	1	Jan	Vrána	M			67	starosta obce Pivín	Pivín	99	80	A
-7103	589888	1	4	901	2	Bronislav	Mrkva	M			48	stavební, investiční technik	Pivín	99	80	A
-7103	589888	1	4	901	3	Tomáš	Nedbal	M			58	invalidní důchodce	Pivín	99	80	A
-7103	589888	1	4	901	4	Dagmar	Zbožínková	F			56	ředitelka MŠ Pivín	Pivín	99	80	A
-7103	589888	1	4	901	5	Vladimír	Nakládal	M			44	zámečník	Pivín	99	80	A
-7103	589888	1	4	901	6	Pavel	Vrba	M			29	OSVČ	Pivín	99	80	A
-7103	589888	1	4	901	7	Alois	Ježek	M			46	OSVČ	Pivín	99	80	A
-7103	589888	1	4	901	8	Miloslava	Sýkorová	F			60	pracovnice obecního úřadu	Pivín	99	80	A
-7103	589888	1	4	901	9	Dana	Hamplová	F			55	OSVČ	Pivín	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589888	1	1	470	1	Kamil	Štětař			33	OSVČ, místostarosta obce	Pivín	166	166	A	M
+7103	589888	1	2	181	1	František	Sedlák			28	zámečník	Pivín	1	181	A	M
+7103	589888	1	3	1	1	František	Sedlák			58	OSVČ - zámečník	Pivín	1	1	A	M
+7103	589888	1	4	901	1	Jan	Vrána			67	starosta obce Pivín	Pivín	99	80	A	M
+7103	589888	1	1	470	2	Tomáš	Vrba	Bc.		29	zaměstnanec Státního pozemkového úřadu	Pivín	99	80	A	M
+7103	589888	1	2	181	2	Radmila	Buchláková			41	zdravotní sestra	Pivín	99	181	A	F
+7103	589888	1	3	1	2	Jaroslav	Žondra			58	OSVČ	Pivín	1	1	A	M
+7103	589888	1	4	901	2	Bronislav	Mrkva			48	stavební, investiční technik	Pivín	99	80	A	M
+7103	589888	1	1	470	3	Jarmila	Krchňáková			58	mzdová účetní	Pivín	99	80	A	F
+7103	589888	1	2	181	3	Miroslav	Zavadil			28	technik vodohospodář	Pivín	99	181	A	M
+7103	589888	1	3	1	3	Josef	Komínek			42	traktorista - mechanik	Pivín	99	1	A	M
+7103	589888	1	4	901	3	Tomáš	Nedbal			58	invalidní důchodce	Pivín	99	80	A	M
+7103	589888	1	1	470	4	Květoslava	Žondrová	Mgr.		56	ředitelka ZŠ Pivín	Pivín	99	80	A	F
+7103	589888	1	2	181	4	Věra	Rábková			48	pečovatelka	Pivín	99	181	A	F
+7103	589888	1	3	1	4	Marie	Hýblová	Mgr.		47	učitelka	Pivín	99	1	A	F
+7103	589888	1	4	901	4	Dagmar	Zbožínková			56	ředitelka MŠ Pivín	Pivín	99	80	A	F
+7103	589888	1	1	470	5	Zdeněk	Svozil	Ing.		29	vedoucí energetiky	Pivín	99	80	A	M
+7103	589888	1	2	181	5	Jakub	Šišma			33	řidič	Pivín	99	181	A	M
+7103	589888	1	3	1	5	Petr	Češka			27	specialista IT	Pivín	99	1	A	M
+7103	589888	1	4	901	5	Vladimír	Nakládal			44	zámečník	Pivín	99	80	A	M
+7103	589888	1	1	470	6	Roman	Nakládal			42	OSVČ	Pivín	99	80	A	M
+7103	589888	1	2	181	6	František	Ježek			41	OSVČ - cukrář	Pivín	99	181	A	M
+7103	589888	1	3	1	6	Jiří	Janík			48	lékárník	Pivín	99	1	A	M
+7103	589888	1	4	901	6	Pavel	Vrba			29	OSVČ	Pivín	99	80	A	M
+7103	589888	1	1	470	7	Jan	Nedbal			27	učitel odborného výcviku	Pivín	99	80	A	M
+7103	589888	1	2	181	7	Marek	Flášar			41	OSVČ - zahradní technik	Pivín	99	181	A	M
+7103	589888	1	3	1	7	Kristýna	Kulhajová			39	pánská krejčová	Pivín	99	1	A	F
+7103	589888	1	4	901	7	Alois	Ježek			46	OSVČ	Pivín	99	80	A	M
+7103	589888	1	1	470	8	Naděžda	Horáčková			53	nákupčí	Pivín	99	80	A	F
+7103	589888	1	2	181	8	Martina	Pavelková			34	prodavačka	Pivín	99	181	A	F
+7103	589888	1	3	1	8	Jiří	Pazdera			41	zámečník	Pivín	99	1	A	M
+7103	589888	1	4	901	8	Miloslava	Sýkorová			60	pracovnice obecního úřadu	Pivín	99	80	A	F
+7103	589888	1	1	470	9	Hana	Sedlářová			47	bankovní úředník	Pivín	99	80	A	F
+7103	589888	1	2	181	9	Jan	Straka			39	kovoobraběč	Pivín	99	181	A	M
+7103	589888	1	3	1	9	Anna	Hýblová			21	studentka	Pivín	99	1	A	F
+7103	589888	1	4	901	9	Dana	Hamplová			55	OSVČ	Pivín	99	80	A	F

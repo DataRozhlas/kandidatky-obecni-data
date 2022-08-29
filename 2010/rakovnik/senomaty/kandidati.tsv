@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	542377	1	1	901	1	Tomáš	Valer	M	Mgr.		41	starosta městyse	Nouzov	99	80	0
-2112	542377	1	1	901	2	Petr	Kořínek	M			33	skladník	Senomaty	99	80	0
-2112	542377	1	1	901	3	Miluše	Palkosková	F			46	školnice	Hostokryje	99	80	0
-2112	542377	1	1	901	4	Daniel	Klaban	M	Ing.		38	podnikatel ve strojírenství	Senomaty	99	80	0
-2112	542377	1	1	901	5	Antonín	Prokop	M	Ing.		52	invalidní důchodce	Senomaty	99	80	0
-2112	542377	1	1	901	6	Vítězslav	Kühn	M			36	instalatér	Nouzov	99	80	0
-2112	542377	1	1	901	7	Petr	Sojka	M			40	zam. magistr. hl.m.Prahy	Senomaty	99	80	0
-2112	542377	1	1	901	8	Josef	Bouda	M			38	řidič	Senomaty	99	80	0
-2112	542377	1	1	901	9	Veronika	Hejdová	F			28	dělnice	Senomaty	99	80	0
-2112	542377	1	1	901	10	Jan	Horský	M			42	mistr pekařské výroby	Senomaty	99	80	0
-2112	542377	1	1	901	11	Radka	Valová	F			36	pracovnice cestovní kanceláře	Senomaty	99	80	0
-2112	542377	1	2	7	1	Luděk	Fišer	M			33	místopředseda a ředitel	Senomaty	7	7	0
-2112	542377	1	2	7	2	Ladislav	Engelthaler	M			57	místostarosta	Senomaty	7	7	0
-2112	542377	1	2	7	3	Petr	Kochleffl	M			37	podnikatel	Senomaty	7	7	0
-2112	542377	1	2	7	4	Petra	Blahetová	F			43	poštovní doručovatelka	Senomaty	7	7	0
-2112	542377	1	2	7	5	Petr	Chromec	M			43	podnikatel	Senomaty	7	7	0
-2112	542377	1	2	7	6	Miroslav	Bezstarosta	M			48	vedoucí střediska	Senomaty	7	7	0
-2112	542377	1	2	7	7	Hana	Sahulková	F			52	důchodce	Senomaty	7	7	0
-2112	542377	1	2	7	8	Alena	Suttnerová	F			55	účetní	Senomaty	99	7	0
-2112	542377	1	2	7	9	Vladimír	Šolc	M			48	údržbář	Nouzov	99	7	0
-2112	542377	1	2	7	10	Karel	Stehlík	M			53	traktorista	Senomaty	99	7	0
-2112	542377	1	2	7	11	Bohuslav	Vávra	M			57	traktorista	Hostokryje	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	542377	1	1	901	1	Tomáš	Valer	Mgr.		41	starosta městyse	Nouzov	99	80	0	M
+2112	542377	1	2	7	1	Luděk	Fišer			33	místopředseda a ředitel	Senomaty	7	7	0	M
+2112	542377	1	1	901	2	Petr	Kořínek			33	skladník	Senomaty	99	80	0	M
+2112	542377	1	2	7	2	Ladislav	Engelthaler			57	místostarosta	Senomaty	7	7	0	M
+2112	542377	1	1	901	3	Miluše	Palkosková			46	školnice	Hostokryje	99	80	0	F
+2112	542377	1	2	7	3	Petr	Kochleffl			37	podnikatel	Senomaty	7	7	0	M
+2112	542377	1	1	901	4	Daniel	Klaban	Ing.		38	podnikatel ve strojírenství	Senomaty	99	80	0	M
+2112	542377	1	2	7	4	Petra	Blahetová			43	poštovní doručovatelka	Senomaty	7	7	0	F
+2112	542377	1	1	901	5	Antonín	Prokop	Ing.		52	invalidní důchodce	Senomaty	99	80	0	M
+2112	542377	1	2	7	5	Petr	Chromec			43	podnikatel	Senomaty	7	7	0	M
+2112	542377	1	1	901	6	Vítězslav	Kühn			36	instalatér	Nouzov	99	80	0	M
+2112	542377	1	2	7	6	Miroslav	Bezstarosta			48	vedoucí střediska	Senomaty	7	7	0	M
+2112	542377	1	1	901	7	Petr	Sojka			40	zam. magistr. hl.m.Prahy	Senomaty	99	80	0	M
+2112	542377	1	2	7	7	Hana	Sahulková			52	důchodce	Senomaty	7	7	0	F
+2112	542377	1	1	901	8	Josef	Bouda			38	řidič	Senomaty	99	80	0	M
+2112	542377	1	2	7	8	Alena	Suttnerová			55	účetní	Senomaty	99	7	0	F
+2112	542377	1	1	901	9	Veronika	Hejdová			28	dělnice	Senomaty	99	80	0	F
+2112	542377	1	2	7	9	Vladimír	Šolc			48	údržbář	Nouzov	99	7	0	M
+2112	542377	1	1	901	10	Jan	Horský			42	mistr pekařské výroby	Senomaty	99	80	0	M
+2112	542377	1	2	7	10	Karel	Stehlík			53	traktorista	Senomaty	99	7	0	M
+2112	542377	1	1	901	11	Radka	Valová			36	pracovnice cestovní kanceláře	Senomaty	99	80	0	F
+2112	542377	1	2	7	11	Bohuslav	Vávra			57	traktorista	Hostokryje	99	7	0	M

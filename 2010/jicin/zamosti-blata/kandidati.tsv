@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5202	549193	1	1	803	1	David	Snopek	M	Ing.		31	živnostník	Blata	99	80	0
-5202	549193	1	2	805	1	Zdeňka	Bažantová	F			51	analytik	Zámostí	99	80	0
-5202	549193	1	3	901	1	Zdeněk	Konečný	M			35	živnostník	Blata	99	80	0
-5202	549193	1	3	901	2	Květa	Ederová	F			63	důchodce	Blata	99	80	0
-5202	549193	1	3	901	3	Milan	Cerman	M			35	bank.úředník	Blata	99	80	0
-5202	549193	1	3	901	4	Ivana	Konečná	F			54	soud.úřednice	Blata	99	80	0
-5202	549193	1	3	901	5	Gabriela	Vítová	F			31	personalistka	Blata	99	80	0
-5202	549193	1	3	901	6	Ladislav	Vytejček	M			57	živnostník	Blata	99	80	0
-5202	549193	1	3	901	7	Jana	Petrusová	F			29	prac.v sítotisku	Blata	99	80	0
-5202	549193	1	3	901	8	Michal	Slezák	M	Ing.		59	živnostník	Blata	99	80	0
-5202	549193	1	3	901	9	Josef	Eder	M			36	technik	Blata	99	80	0
-5202	549193	1	4	801	1	Jiří	Stránský	M	Ing.		59	živnostník	Blata	99	80	0
-5202	549193	1	5	802	1	Ladislav	Procházka	M			55	živnostník	Blata	99	80	0
-5202	549193	1	6	804	1	Martin	Peteráč	M			39	strážník	Blata	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5202	549193	1	1	803	1	David	Snopek	Ing.		31	živnostník	Blata	99	80	0	M
+5202	549193	1	2	805	1	Zdeňka	Bažantová			51	analytik	Zámostí	99	80	0	F
+5202	549193	1	3	901	1	Zdeněk	Konečný			35	živnostník	Blata	99	80	0	M
+5202	549193	1	4	801	1	Jiří	Stránský	Ing.		59	živnostník	Blata	99	80	0	M
+5202	549193	1	5	802	1	Ladislav	Procházka			55	živnostník	Blata	99	80	0	M
+5202	549193	1	6	804	1	Martin	Peteráč			39	strážník	Blata	99	80	0	M
+5202	549193	1	3	901	2	Květa	Ederová			63	důchodce	Blata	99	80	0	F
+5202	549193	1	3	901	3	Milan	Cerman			35	bank.úředník	Blata	99	80	0	M
+5202	549193	1	3	901	4	Ivana	Konečná			54	soud.úřednice	Blata	99	80	0	F
+5202	549193	1	3	901	5	Gabriela	Vítová			31	personalistka	Blata	99	80	0	F
+5202	549193	1	3	901	6	Ladislav	Vytejček			57	živnostník	Blata	99	80	0	M
+5202	549193	1	3	901	7	Jana	Petrusová			29	prac.v sítotisku	Blata	99	80	0	F
+5202	549193	1	3	901	8	Michal	Slezák	Ing.		59	živnostník	Blata	99	80	0	M
+5202	549193	1	3	901	9	Josef	Eder			36	technik	Blata	99	80	0	M

@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	571016	1	1	802	1	Ivana	Čiperová	F			46	úřednice	Šaplava	99	80	0
-5201	571016	1	2	806	1	František	Šafka	M			65	důchodce	Šaplava	99	80	0
-5201	571016	1	3	809	1	Jana	Štanclová	F			48	učitelka MŠ	Šaplava	99	80	0
-5201	571016	1	4	804	1	Eduard	Woidig	M	Bc.		35	specialista technické podpory	Šaplava	99	80	0
-5201	571016	1	5	810	1	Jitka	Pichová	F	Mgr.		45	lékárnice	Šaplava	99	80	0
-5201	571016	1	6	801	1	Lukáš	Čipera	M			29	řidič	Šaplava	99	80	0
-5201	571016	1	7	807	1	Michal	Habich	M			41	výpravčí	Šaplava	99	80	0
-5201	571016	1	8	808	1	Milan	Fučík	M			55	OSVČ	Šaplava	99	80	0
-5201	571016	1	9	803	1	Zuzana	Woidigová Ducháčová	F	PharmDr.		33	farmaceut	Šaplava	99	80	0
-5201	571016	1	10	805	1	Jaroslav	Gemsa	M			63	důchodce	Šaplava	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	571016	1	1	802	1	Ivana	Čiperová			46	úřednice	Šaplava	99	80	0	F
+5201	571016	1	2	806	1	František	Šafka			65	důchodce	Šaplava	99	80	0	M
+5201	571016	1	3	809	1	Jana	Štanclová			48	učitelka MŠ	Šaplava	99	80	0	F
+5201	571016	1	4	804	1	Eduard	Woidig	Bc.		35	specialista technické podpory	Šaplava	99	80	0	M
+5201	571016	1	5	810	1	Jitka	Pichová	Mgr.		45	lékárnice	Šaplava	99	80	0	F
+5201	571016	1	6	801	1	Lukáš	Čipera			29	řidič	Šaplava	99	80	0	M
+5201	571016	1	7	807	1	Michal	Habich			41	výpravčí	Šaplava	99	80	0	M
+5201	571016	1	8	808	1	Milan	Fučík			55	OSVČ	Šaplava	99	80	0	M
+5201	571016	1	9	803	1	Zuzana	Woidigová Ducháčová	PharmDr.		33	farmaceut	Šaplava	99	80	0	F
+5201	571016	1	10	805	1	Jaroslav	Gemsa			63	důchodce	Šaplava	99	80	0	M

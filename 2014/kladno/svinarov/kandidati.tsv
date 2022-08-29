@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	532908	1	1	902	1	Jaroslav	PRUŽINEC	M			55	THP	Svinařov	99	80	0
-2103	532908	1	1	902	2	Romana	HOROVÁ	F			50	referentka	Svinařov	99	80	0
-2103	532908	1	1	902	3	Miroslav	MACH	M			54	podnikatel	Svinařov	99	80	0
-2103	532908	1	1	902	4	Jana	HUSNAJOVÁ	F	Ing.		28	podnikatel	Svinařov	99	80	0
-2103	532908	1	1	902	5	Petr	THON	M			49	řidič	Svinařov	99	80	0
-2103	532908	1	1	902	6	Jaroslav	FUČÍK	M			30	instalatér	Svinařov	99	80	0
-2103	532908	1	1	902	7	Vladimír	NOVOTNÝ	M			43	manager	Svinařov	99	80	0
-2103	532908	1	1	902	8	Josef	ARLT	M			55	THP	Svinařov	99	80	0
-2103	532908	1	1	902	9	Petra	HARTLOVÁ	F			27	zdravotní sestra	Svinařov	99	80	0
-2103	532908	1	2	901	1	Miluše	DUŠKOVÁ	F			59	prodavačka	Svinařov	99	80	0
-2103	532908	1	2	901	2	Zlata	ŠMAUSOVÁ	F			34	referentka	Svinařov	99	80	0
-2103	532908	1	2	901	3	Karel	MAJER	M			49	OSVČ	Svinařov	99	80	0
-2103	532908	1	2	901	4	Ivana	VALTOVÁ	F			40	prodavačka	Svinařov	99	80	0
-2103	532908	1	2	901	5	Jiří	KILIÁŠ	M			60	řidič	Svinařov	99	80	0
-2103	532908	1	2	901	6	Jana	ADAMOVÁ	F	Mgr.		39	učitelka	Svinařov	99	80	0
-2103	532908	1	2	901	7	Miloslav	HLOUŠEK	M	Ing.		39	marketing manager	Svinařov	99	80	0
-2103	532908	1	2	901	8	Ivanka	ŠMEJKALOVÁ	F			66	důchodce	Svinařov	99	80	0
-2103	532908	1	2	901	9	Pavel	BATAKOV	M			67	důchodce	Svinařov	99	80	0
-2103	532908	1	3	903	1	Milan	DVOŘÁK	M			41	referent	Svinařov	99	80	0
-2103	532908	1	3	903	2	Jana	BAKOVÁ	F			36	obsl.čerp.stanice	Svinařov	99	80	0
-2103	532908	1	3	903	3	Radoslav	TON	M			37	podnikatel	Svinařov	99	80	0
-2103	532908	1	3	903	4	Jiří	BURLE	M			38	dispečer	Svinařov	99	80	0
-2103	532908	1	3	903	5	Barbora	FRÖMMELOVÁ	F			21	studentka	Svinařov	99	80	0
-2103	532908	1	3	903	6	Zdeněk	ZAVŘEL	M			46	montér RWE	Svinařov	99	80	0
-2103	532908	1	3	903	7	David	ČERNÝ	M			37	podnikatel	Svinařov	99	80	0
-2103	532908	1	3	903	8	Milan	SEDLÁK	M			49	elektromechanik	Svinařov	99	80	0
-2103	532908	1	3	903	9	Renata	WOLLEROVÁ	F	Ing.		58	provozní řed. TAXI	Svinařov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	532908	1	1	902	1	Jaroslav	PRUŽINEC			55	THP	Svinařov	99	80	0	M
+2103	532908	1	2	901	1	Miluše	DUŠKOVÁ			59	prodavačka	Svinařov	99	80	0	F
+2103	532908	1	3	903	1	Milan	DVOŘÁK			41	referent	Svinařov	99	80	0	M
+2103	532908	1	1	902	2	Romana	HOROVÁ			50	referentka	Svinařov	99	80	0	F
+2103	532908	1	2	901	2	Zlata	ŠMAUSOVÁ			34	referentka	Svinařov	99	80	0	F
+2103	532908	1	3	903	2	Jana	BAKOVÁ			36	obsl.čerp.stanice	Svinařov	99	80	0	F
+2103	532908	1	1	902	3	Miroslav	MACH			54	podnikatel	Svinařov	99	80	0	M
+2103	532908	1	2	901	3	Karel	MAJER			49	OSVČ	Svinařov	99	80	0	M
+2103	532908	1	3	903	3	Radoslav	TON			37	podnikatel	Svinařov	99	80	0	M
+2103	532908	1	1	902	4	Jana	HUSNAJOVÁ	Ing.		28	podnikatel	Svinařov	99	80	0	F
+2103	532908	1	2	901	4	Ivana	VALTOVÁ			40	prodavačka	Svinařov	99	80	0	F
+2103	532908	1	3	903	4	Jiří	BURLE			38	dispečer	Svinařov	99	80	0	M
+2103	532908	1	1	902	5	Petr	THON			49	řidič	Svinařov	99	80	0	M
+2103	532908	1	2	901	5	Jiří	KILIÁŠ			60	řidič	Svinařov	99	80	0	M
+2103	532908	1	3	903	5	Barbora	FRÖMMELOVÁ			21	studentka	Svinařov	99	80	0	F
+2103	532908	1	1	902	6	Jaroslav	FUČÍK			30	instalatér	Svinařov	99	80	0	M
+2103	532908	1	2	901	6	Jana	ADAMOVÁ	Mgr.		39	učitelka	Svinařov	99	80	0	F
+2103	532908	1	3	903	6	Zdeněk	ZAVŘEL			46	montér RWE	Svinařov	99	80	0	M
+2103	532908	1	1	902	7	Vladimír	NOVOTNÝ			43	manager	Svinařov	99	80	0	M
+2103	532908	1	2	901	7	Miloslav	HLOUŠEK	Ing.		39	marketing manager	Svinařov	99	80	0	M
+2103	532908	1	3	903	7	David	ČERNÝ			37	podnikatel	Svinařov	99	80	0	M
+2103	532908	1	1	902	8	Josef	ARLT			55	THP	Svinařov	99	80	0	M
+2103	532908	1	2	901	8	Ivanka	ŠMEJKALOVÁ			66	důchodce	Svinařov	99	80	0	F
+2103	532908	1	3	903	8	Milan	SEDLÁK			49	elektromechanik	Svinařov	99	80	0	M
+2103	532908	1	1	902	9	Petra	HARTLOVÁ			27	zdravotní sestra	Svinařov	99	80	0	F
+2103	532908	1	2	901	9	Pavel	BATAKOV			67	důchodce	Svinařov	99	80	0	M
+2103	532908	1	3	903	9	Renata	WOLLEROVÁ	Ing.		58	provozní řed. TAXI	Svinařov	99	80	0	F

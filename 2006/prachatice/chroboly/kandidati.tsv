@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3105	550264	1	1	53	1	Josef	Malý	M			62	důchodce	Chroboly	53	53	0
-3105	550264	1	1	53	2	Pavla	Müllerová	F			40	živnostník	Rohanov	99	53	0
-3105	550264	1	1	53	3	Radim	Strnad	M			32	živnostník	Leptáč	99	53	0
-3105	550264	1	1	53	4	Radomír	Holčík	M			42	živnostník	Záhoří	99	53	0
-3105	550264	1	1	53	5	Jiří	Jahoda	M			51	lesní dělník	Chroboly	99	53	0
-3105	550264	1	1	53	6	Jan	Janda	M			47	dělník	Chroboly	99	53	0
-3105	550264	1	1	53	7	Václav	Honeš	M			57	soukromý zemědělec	Záhoří	99	53	0
-3105	550264	1	1	53	8	Milan	Kaprál	M			36	prodavač	Rohanov	99	53	0
-3105	550264	1	1	53	9	Marek	Vácha	M			33	prodavač	Chroboly	99	53	0
-3105	550264	1	2	47	1	František	Tesař	M			58	strojník	Chroboly	47	47	0
-3105	550264	1	2	47	2	Jindřich	Socha	M			43	podnikatel	Záhoří	47	47	0
-3105	550264	1	2	47	3	Josef	Vlasák	M			68	důchodce	Chroboly	47	47	0
-3105	550264	1	2	47	4	Jan	Josef	M			65	důchodce	Chroboly	47	47	0
-3105	550264	1	2	47	5	Jan	Bárta	M			56	dělník	Chroboly	99	47	0
-3105	550264	1	2	47	6	Michaela	Sivoková	F			23	skladnice	Chroboly	99	47	0
-3105	550264	1	2	47	7	Jiřina	Pavlíková	F			35	dělnice	Chroboly	99	47	0
-3105	550264	1	2	47	8	Vilém	Šrámek	M			46	dělník	Chroboly	99	47	0
-3105	550264	1	3	7	1	Oldřich	Valouch	M			40	starosta obce	Chroboly	7	7	0
-3105	550264	1	3	7	2	Miroslav	Vágner	M			43	OSVČ - stavební práce	Chroboly	7	7	0
-3105	550264	1	3	7	3	Jaromír	Macháček	M	Ing.		64	stát. zam. v důchodu	Chroboly	7	7	0
-3105	550264	1	3	7	4	Anna	Manová	F			69	učitelka v důchodu	Chroboly	7	7	0
-3105	550264	1	3	7	5	Vladimír	Adam	M	Ing.		51	tajemník	Chroboly	7	7	0
-3105	550264	1	3	7	6	Josef	Velek	M			46	lesní technik	Chroboly	99	7	0
-3105	550264	1	3	7	7	Petr	Juhaňák	M			40	podnikatel-autodoprava	Chroboly	7	7	0
-3105	550264	1	3	7	8	Václav	Hálek	M			28	stavební dělník	Chroboly	7	7	0
-3105	550264	1	3	7	9	Hana	Václavíková	F			51	dělnice	Chroboly	7	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3105	550264	1	1	53	1	Josef	Malý			62	důchodce	Chroboly	53	53	0	M
+3105	550264	1	2	47	1	František	Tesař			58	strojník	Chroboly	47	47	0	M
+3105	550264	1	3	7	1	Oldřich	Valouch			40	starosta obce	Chroboly	7	7	0	M
+3105	550264	1	1	53	2	Pavla	Müllerová			40	živnostník	Rohanov	99	53	0	F
+3105	550264	1	2	47	2	Jindřich	Socha			43	podnikatel	Záhoří	47	47	0	M
+3105	550264	1	3	7	2	Miroslav	Vágner			43	OSVČ - stavební práce	Chroboly	7	7	0	M
+3105	550264	1	1	53	3	Radim	Strnad			32	živnostník	Leptáč	99	53	0	M
+3105	550264	1	2	47	3	Josef	Vlasák			68	důchodce	Chroboly	47	47	0	M
+3105	550264	1	3	7	3	Jaromír	Macháček	Ing.		64	stát. zam. v důchodu	Chroboly	7	7	0	M
+3105	550264	1	1	53	4	Radomír	Holčík			42	živnostník	Záhoří	99	53	0	M
+3105	550264	1	2	47	4	Jan	Josef			65	důchodce	Chroboly	47	47	0	M
+3105	550264	1	3	7	4	Anna	Manová			69	učitelka v důchodu	Chroboly	7	7	0	F
+3105	550264	1	1	53	5	Jiří	Jahoda			51	lesní dělník	Chroboly	99	53	0	M
+3105	550264	1	2	47	5	Jan	Bárta			56	dělník	Chroboly	99	47	0	M
+3105	550264	1	3	7	5	Vladimír	Adam	Ing.		51	tajemník	Chroboly	7	7	0	M
+3105	550264	1	1	53	6	Jan	Janda			47	dělník	Chroboly	99	53	0	M
+3105	550264	1	2	47	6	Michaela	Sivoková			23	skladnice	Chroboly	99	47	0	F
+3105	550264	1	3	7	6	Josef	Velek			46	lesní technik	Chroboly	99	7	0	M
+3105	550264	1	1	53	7	Václav	Honeš			57	soukromý zemědělec	Záhoří	99	53	0	M
+3105	550264	1	2	47	7	Jiřina	Pavlíková			35	dělnice	Chroboly	99	47	0	F
+3105	550264	1	3	7	7	Petr	Juhaňák			40	podnikatel-autodoprava	Chroboly	7	7	0	M
+3105	550264	1	1	53	8	Milan	Kaprál			36	prodavač	Rohanov	99	53	0	M
+3105	550264	1	2	47	8	Vilém	Šrámek			46	dělník	Chroboly	99	47	0	M
+3105	550264	1	3	7	8	Václav	Hálek			28	stavební dělník	Chroboly	7	7	0	M
+3105	550264	1	1	53	9	Marek	Vácha			33	prodavač	Chroboly	99	53	0	M
+3105	550264	1	3	7	9	Hana	Václavíková			51	dělnice	Chroboly	7	7	0	F

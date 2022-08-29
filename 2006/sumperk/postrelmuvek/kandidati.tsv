@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	553352	1	1	1	1	Stanislav	Dvořák	M	Ing.		45	OSVČ	Postřelmůvek	1	1	0
-7105	553352	1	1	1	2	Jan	Šanovec	M			61	frézař	Postřelmůvek	1	1	0
-7105	553352	1	1	1	3	Antonín	Šimek	M			54	důchodce	Postřelmůvek	1	1	0
-7105	553352	1	1	1	4	Břetislav	Hrubý	M			55	důchodce	Postřelmůvek	99	1	0
-7105	553352	1	1	1	5	Petr	Janíček	M			31	posunovač	Postřelmůvek	99	1	0
-7105	553352	1	1	1	6	Božena	Kulilová	F			66	důchodce	Postřelmůvek	99	1	0
-7105	553352	1	1	1	7	Pavel	Krňávek	M			33	dělník	Postřelmůvek	99	1	0
-7105	553352	1	2	47	1	Ferdinand	Bartoš	M			62	technik stavební výroby	Postřelmůvek	47	47	0
-7105	553352	1	2	47	2	Petr	Jaroš	M			25	konstruktér	Postřelmůvek	99	47	0
-7105	553352	1	2	47	3	Stanislav	Chaloupka	M			51	strojvedoucí	Postřelmůvek	99	47	0
-7105	553352	1	2	47	4	Milan	Mazák	M			47	vodoinstalatér	Postřelmůvek	99	47	0
-7105	553352	1	2	47	5	Josef	Kupka	M			58	brusič	Postřelmůvek	47	47	0
-7105	553352	1	2	47	6	Lubomír	Zapletal	M			42	státní zaměstnanec	Postřelmůvek	99	47	0
-7105	553352	1	2	47	7	František	Rýznar	M			66	důchodce	Postřelmůvek	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	553352	1	1	1	1	Stanislav	Dvořák	Ing.		45	OSVČ	Postřelmůvek	1	1	0	M
+7105	553352	1	2	47	1	Ferdinand	Bartoš			62	technik stavební výroby	Postřelmůvek	47	47	0	M
+7105	553352	1	1	1	2	Jan	Šanovec			61	frézař	Postřelmůvek	1	1	0	M
+7105	553352	1	2	47	2	Petr	Jaroš			25	konstruktér	Postřelmůvek	99	47	0	M
+7105	553352	1	1	1	3	Antonín	Šimek			54	důchodce	Postřelmůvek	1	1	0	M
+7105	553352	1	2	47	3	Stanislav	Chaloupka			51	strojvedoucí	Postřelmůvek	99	47	0	M
+7105	553352	1	1	1	4	Břetislav	Hrubý			55	důchodce	Postřelmůvek	99	1	0	M
+7105	553352	1	2	47	4	Milan	Mazák			47	vodoinstalatér	Postřelmůvek	99	47	0	M
+7105	553352	1	1	1	5	Petr	Janíček			31	posunovač	Postřelmůvek	99	1	0	M
+7105	553352	1	2	47	5	Josef	Kupka			58	brusič	Postřelmůvek	47	47	0	M
+7105	553352	1	1	1	6	Božena	Kulilová			66	důchodce	Postřelmůvek	99	1	0	F
+7105	553352	1	2	47	6	Lubomír	Zapletal			42	státní zaměstnanec	Postřelmůvek	99	47	0	M
+7105	553352	1	1	1	7	Pavel	Krňávek			33	dělník	Postřelmůvek	99	1	0	M
+7105	553352	1	2	47	7	František	Rýznar			66	důchodce	Postřelmůvek	47	47	0	M

@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7202	592773	1	1	903	1	Jiří	Michalčík	M			41	strojník	Vápenice	99	80	A
-7202	592773	1	1	903	2	Pavel	Masařík	M			42	učitel, zemědělec	Vápenice	99	80	A
-7202	592773	1	1	903	3	František	Juračka	M			71	důchodce	Vápenice	99	80	A
-7202	592773	1	1	903	4	Jan	Michalčík	M			37	konstruktér	Vápenice	99	80	A
-7202	592773	1	1	903	5	Bohumil	Gorčík	M			66	podnikatel	Vápenice	99	80	A
-7202	592773	1	1	903	6	Eva	Macková	F			47	THP pracovnice	Vápenice	99	80	A
-7202	592773	1	2	901	1	Ferdinand	Kubáník	M			60	OSVČ	Vápenice	99	80	A
-7202	592773	1	2	901	2	Josef	Gabrhel	M			51	malíř	Vápenice	99	80	A
-7202	592773	1	2	901	3	Josef	Gabrhel	M			43	instalatér	Vápenice	99	80	A
-7202	592773	1	2	901	4	Václav	Adam	M			60	OSVČ	Vápenice	99	80	A
-7202	592773	1	2	901	5	Pavel	Gabrhel	M			44	elektrotechnik	Vápenice	99	80	A
-7202	592773	1	2	901	6	Dagmar	Parišová	F			56	poštovní doručovatelka	Vápenice	99	80	A
-7202	592773	1	2	901	7	Lukáš	Gabrhel	M			31	OSVČ	Vápenice	99	80	A
-7202	592773	1	3	902	1	Anna	Kubáníková	F			72	neuvolněná starostka	Vápenice	99	80	A
-7202	592773	1	3	902	2	Josef	Bartoš	M			67	starobní důchodce	Vápenice	99	80	A
-7202	592773	1	3	902	3	Hana	Jurigová	F			63	starobní důchodce	Vápenice	99	80	A
-7202	592773	1	3	902	4	Petr	Maňák	M			33	pomocné technické práce	Vápenice	99	80	A
-7202	592773	1	3	902	5	Jiří	Zapletal	M			42	dělník	Vápenice	99	80	A
-7202	592773	1	3	902	6	Bedřich	Kubáník	M	Mgr.		38	státní zaměstnanec	Vápenice	99	80	A
-7202	592773	1	3	902	7	Petra	Jačová	F			48	prodavačka	Vápenice	99	80	A
-7202	592773	1	3	902	8	Rostislav	Husařík	M			27	řidič kamionové dopravy	Vápenice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7202	592773	1	1	903	1	Jiří	Michalčík			41	strojník	Vápenice	99	80	A	M
+7202	592773	1	2	901	1	Ferdinand	Kubáník			60	OSVČ	Vápenice	99	80	A	M
+7202	592773	1	3	902	1	Anna	Kubáníková			72	neuvolněná starostka	Vápenice	99	80	A	F
+7202	592773	1	1	903	2	Pavel	Masařík			42	učitel, zemědělec	Vápenice	99	80	A	M
+7202	592773	1	2	901	2	Josef	Gabrhel			51	malíř	Vápenice	99	80	A	M
+7202	592773	1	3	902	2	Josef	Bartoš			67	starobní důchodce	Vápenice	99	80	A	M
+7202	592773	1	1	903	3	František	Juračka			71	důchodce	Vápenice	99	80	A	M
+7202	592773	1	2	901	3	Josef	Gabrhel			43	instalatér	Vápenice	99	80	A	M
+7202	592773	1	3	902	3	Hana	Jurigová			63	starobní důchodce	Vápenice	99	80	A	F
+7202	592773	1	1	903	4	Jan	Michalčík			37	konstruktér	Vápenice	99	80	A	M
+7202	592773	1	2	901	4	Václav	Adam			60	OSVČ	Vápenice	99	80	A	M
+7202	592773	1	3	902	4	Petr	Maňák			33	pomocné technické práce	Vápenice	99	80	A	M
+7202	592773	1	1	903	5	Bohumil	Gorčík			66	podnikatel	Vápenice	99	80	A	M
+7202	592773	1	2	901	5	Pavel	Gabrhel			44	elektrotechnik	Vápenice	99	80	A	M
+7202	592773	1	3	902	5	Jiří	Zapletal			42	dělník	Vápenice	99	80	A	M
+7202	592773	1	1	903	6	Eva	Macková			47	THP pracovnice	Vápenice	99	80	A	F
+7202	592773	1	2	901	6	Dagmar	Parišová			56	poštovní doručovatelka	Vápenice	99	80	A	F
+7202	592773	1	3	902	6	Bedřich	Kubáník	Mgr.		38	státní zaměstnanec	Vápenice	99	80	A	M
+7202	592773	1	2	901	7	Lukáš	Gabrhel			31	OSVČ	Vápenice	99	80	A	M
+7202	592773	1	3	902	7	Petra	Jačová			48	prodavačka	Vápenice	99	80	A	F
+7202	592773	1	3	902	8	Rostislav	Husařík			27	řidič kamionové dopravy	Vápenice	99	80	A	M

@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	566276	1	1	901	1	David	Kraml	M			39	OSVČ	Hora Svatého Václava	99	80	0
-3201	566276	1	1	901	2	Marcel	Šanda	M	Ing.		42	technický pracovník	Načetín	99	80	0
-3201	566276	1	1	901	3	Jozef	Nemergut	M			44	obsluha čerpací stanice	Hora Svatého Václava	99	80	0
-3201	566276	1	1	901	4	Ondřej	Starinski	M			67	důchodce	Hora Svatého Václava	99	80	0
-3201	566276	1	1	901	5	Zdeňka	Kubů	F			53	OSVČ	Načetín	99	80	0
-3201	566276	1	1	901	6	Helena	Rybárová	F			47	účetní	Načetín	99	80	0
-3201	566276	1	1	901	7	Zdeněk	Durkáč	M			53	zemědělec	Hora Svatého Václava	99	80	0
-3201	566276	1	2	902	1	Josef	Burík	M			45	traktorista	Hora Svatého Václava	99	80	0
-3201	566276	1	2	902	2	Jana	Kadlecová	F			28	OSVČ	Hora Svatého Václava	99	80	0
-3201	566276	1	2	902	3	Petr	Burík	M			19	student	Hora Svatého Václava	99	80	0
-3201	566276	1	2	902	4	Josef	Burík	M			22	traktorista	Hora Svatého Václava	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	566276	1	1	901	1	David	Kraml			39	OSVČ	Hora Svatého Václava	99	80	0	M
+3201	566276	1	2	902	1	Josef	Burík			45	traktorista	Hora Svatého Václava	99	80	0	M
+3201	566276	1	1	901	2	Marcel	Šanda	Ing.		42	technický pracovník	Načetín	99	80	0	M
+3201	566276	1	2	902	2	Jana	Kadlecová			28	OSVČ	Hora Svatého Václava	99	80	0	F
+3201	566276	1	1	901	3	Jozef	Nemergut			44	obsluha čerpací stanice	Hora Svatého Václava	99	80	0	M
+3201	566276	1	2	902	3	Petr	Burík			19	student	Hora Svatého Václava	99	80	0	M
+3201	566276	1	1	901	4	Ondřej	Starinski			67	důchodce	Hora Svatého Václava	99	80	0	M
+3201	566276	1	2	902	4	Josef	Burík			22	traktorista	Hora Svatého Václava	99	80	0	M
+3201	566276	1	1	901	5	Zdeňka	Kubů			53	OSVČ	Načetín	99	80	0	F
+3201	566276	1	1	901	6	Helena	Rybárová			47	účetní	Načetín	99	80	0	F
+3201	566276	1	1	901	7	Zdeněk	Durkáč			53	zemědělec	Hora Svatého Václava	99	80	0	M

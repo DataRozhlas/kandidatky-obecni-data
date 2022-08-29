@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7202	592145	1	1	1	1	Milan	Zelinka	M			35	stavební referent	Dolní Němčí	99	1	0
-7202	592145	1	1	1	2	Leoš	Minks	M			50	invalidní důchodce	Dolní Němčí	1	1	0
-7202	592145	1	1	1	3	Jozef	Lipka	M	Ing.		40	senior konzultant	Dolní Němčí	99	1	0
-7202	592145	1	1	1	4	Vladimír	Stojaspal	M			50	invalidní důchodce	Dolní Němčí	1	1	0
-7202	592145	1	1	1	5	Antonín	Světinský	M			42	podnikatel	Dolní Němčí	99	1	0
-7202	592145	1	1	1	6	Jaroslav	Hanák	M			56	dělník	Dolní Němčí	99	1	0
-7202	592145	1	1	1	7	Ludmila	Ježková	F			57	důchodce	Dolní Němčí	99	1	0
-7202	592145	1	1	1	8	Drahomíra	Ponížilová	F			59	účetní	Dolní Němčí	99	1	0
-7202	592145	1	1	1	9	Antonín	Světinský	M			62	důchodce	Dolní Němčí	1	1	0
-7202	592145	1	1	1	10	Alois	Michalec	M			40	technik	Dolní Němčí	99	1	0
-7202	592145	1	1	1	11	Bronislav	Ježek	M			41	elektrikář	Dolní Němčí	99	1	0
-7202	592145	1	1	1	12	Petr	Kadlček	M			34	podnikatel	Dolní Němčí	99	1	0
-7202	592145	1	1	1	13	Ludvík	Stojaspal	M			42	podnikatel	Dolní Němčí	99	1	0
-7202	592145	1	1	1	14	Antonín	Kadlček	M			43	podnikatel	Dolní Němčí	99	1	0
-7202	592145	1	1	1	15	Miroslav	Tinka	M			51	elektroúdržbář	Dolní Němčí	99	1	0
-7202	592145	1	2	7	1	Ladislav	Juriga	M			25	elektromontér	Dolní Němčí	99	7	0
-7202	592145	1	2	7	2	František	Válek	M			66	svářeč	Dolní Němčí	99	7	0
-7202	592145	1	2	7	3	Antonín	Bobčík	M			43	dělník	Dolní Němčí	99	7	0
-7202	592145	1	2	7	4	Jaroslav	Krhovský	M			42	dělník	Dolní Němčí	99	7	0
-7202	592145	1	2	7	5	Antonín	Tinka	M			52	elektromontér	Dolní Němčí	99	7	0
-7202	592145	1	2	7	6	Jan	Kadlček	M			41	soustružník	Dolní Němčí	99	7	0
-7202	592145	1	3	166	1	František	Hajdůch	M	Ing.		45	starosta obce	Dolní Němčí	99	166	0
-7202	592145	1	3	166	2	Miroslav	Kadlček	M	Ing.		48	místostarosta obce	Dolní Němčí	99	166	0
-7202	592145	1	3	166	3	Zdeněk	Kadlček	M			46	podnikatel	Dolní Němčí	99	166	0
-7202	592145	1	3	166	4	Eva	Kadlčková	F			51	ředitelka MŠ	Dolní Němčí	99	166	0
-7202	592145	1	3	166	5	Zdeňka	Trtková	F			44	učitelka MŠ	Dolní Němčí	99	166	0
-7202	592145	1	3	166	6	Antonín	Zedníček	M			54	podnikatel	Dolní Němčí	99	166	0
-7202	592145	1	3	166	7	Tomáš	Černý	M	Ing.		43	odborný referent	Dolní Němčí	99	166	0
-7202	592145	1	3	166	8	Radomil	Horák	M			34	obsluha ČS	Dolní Němčí	99	166	0
-7202	592145	1	3	166	9	Marie	Bukvicová	F	Mgr.		58	učitelka	Dolní Němčí	99	166	0
-7202	592145	1	3	166	10	Miroslav	Kadlček	M			23	podnikatel	Dolní Němčí	99	166	0
-7202	592145	1	3	166	11	Dušan	Kubeš	M	Bc.		26	státní zaměstnanec	Dolní Němčí	99	166	0
-7202	592145	1	3	166	12	Ĺubica	Ježková	F	Mgr.		42	učitelka	Dolní Němčí	99	166	0
-7202	592145	1	3	166	13	Antonín	Richtr	M			49	technik	Dolní Němčí	99	166	0
-7202	592145	1	3	166	14	Zdeněk	Macků	M			31	podnikatel	Dolní Němčí	99	166	0
-7202	592145	1	3	166	15	Šárka	Došková	F			45	zdravotní sestra	Dolní Němčí	99	166	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7202	592145	1	1	1	1	Milan	Zelinka			35	stavební referent	Dolní Němčí	99	1	0	M
+7202	592145	1	2	7	1	Ladislav	Juriga			25	elektromontér	Dolní Němčí	99	7	0	M
+7202	592145	1	3	166	1	František	Hajdůch	Ing.		45	starosta obce	Dolní Němčí	99	166	0	M
+7202	592145	1	1	1	2	Leoš	Minks			50	invalidní důchodce	Dolní Němčí	1	1	0	M
+7202	592145	1	2	7	2	František	Válek			66	svářeč	Dolní Němčí	99	7	0	M
+7202	592145	1	3	166	2	Miroslav	Kadlček	Ing.		48	místostarosta obce	Dolní Němčí	99	166	0	M
+7202	592145	1	1	1	3	Jozef	Lipka	Ing.		40	senior konzultant	Dolní Němčí	99	1	0	M
+7202	592145	1	2	7	3	Antonín	Bobčík			43	dělník	Dolní Němčí	99	7	0	M
+7202	592145	1	3	166	3	Zdeněk	Kadlček			46	podnikatel	Dolní Němčí	99	166	0	M
+7202	592145	1	1	1	4	Vladimír	Stojaspal			50	invalidní důchodce	Dolní Němčí	1	1	0	M
+7202	592145	1	2	7	4	Jaroslav	Krhovský			42	dělník	Dolní Němčí	99	7	0	M
+7202	592145	1	3	166	4	Eva	Kadlčková			51	ředitelka MŠ	Dolní Němčí	99	166	0	F
+7202	592145	1	1	1	5	Antonín	Světinský			42	podnikatel	Dolní Němčí	99	1	0	M
+7202	592145	1	2	7	5	Antonín	Tinka			52	elektromontér	Dolní Němčí	99	7	0	M
+7202	592145	1	3	166	5	Zdeňka	Trtková			44	učitelka MŠ	Dolní Němčí	99	166	0	F
+7202	592145	1	1	1	6	Jaroslav	Hanák			56	dělník	Dolní Němčí	99	1	0	M
+7202	592145	1	2	7	6	Jan	Kadlček			41	soustružník	Dolní Němčí	99	7	0	M
+7202	592145	1	3	166	6	Antonín	Zedníček			54	podnikatel	Dolní Němčí	99	166	0	M
+7202	592145	1	1	1	7	Ludmila	Ježková			57	důchodce	Dolní Němčí	99	1	0	F
+7202	592145	1	3	166	7	Tomáš	Černý	Ing.		43	odborný referent	Dolní Němčí	99	166	0	M
+7202	592145	1	1	1	8	Drahomíra	Ponížilová			59	účetní	Dolní Němčí	99	1	0	F
+7202	592145	1	3	166	8	Radomil	Horák			34	obsluha ČS	Dolní Němčí	99	166	0	M
+7202	592145	1	1	1	9	Antonín	Světinský			62	důchodce	Dolní Němčí	1	1	0	M
+7202	592145	1	3	166	9	Marie	Bukvicová	Mgr.		58	učitelka	Dolní Němčí	99	166	0	F
+7202	592145	1	1	1	10	Alois	Michalec			40	technik	Dolní Němčí	99	1	0	M
+7202	592145	1	3	166	10	Miroslav	Kadlček			23	podnikatel	Dolní Němčí	99	166	0	M
+7202	592145	1	1	1	11	Bronislav	Ježek			41	elektrikář	Dolní Němčí	99	1	0	M
+7202	592145	1	3	166	11	Dušan	Kubeš	Bc.		26	státní zaměstnanec	Dolní Němčí	99	166	0	M
+7202	592145	1	1	1	12	Petr	Kadlček			34	podnikatel	Dolní Němčí	99	1	0	M
+7202	592145	1	3	166	12	Ĺubica	Ježková	Mgr.		42	učitelka	Dolní Němčí	99	166	0	F
+7202	592145	1	1	1	13	Ludvík	Stojaspal			42	podnikatel	Dolní Němčí	99	1	0	M
+7202	592145	1	3	166	13	Antonín	Richtr			49	technik	Dolní Němčí	99	166	0	M
+7202	592145	1	1	1	14	Antonín	Kadlček			43	podnikatel	Dolní Němčí	99	1	0	M
+7202	592145	1	3	166	14	Zdeněk	Macků			31	podnikatel	Dolní Němčí	99	166	0	M
+7202	592145	1	1	1	15	Miroslav	Tinka			51	elektroúdržbář	Dolní Němčí	99	1	0	M
+7202	592145	1	3	166	15	Šárka	Došková			45	zdravotní sestra	Dolní Němčí	99	166	0	F

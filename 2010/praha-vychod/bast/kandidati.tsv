@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2109	538051	1	1	901	1	Iva	Cucová	F	Ing.		40	rodičovská dovolená	Bašť	99	80	0
-2109	538051	1	1	901	2	Václav	Žihla	M			48	podnikatel	Bašť	99	80	0
-2109	538051	1	1	901	3	Jiří	Staněk	M		Dis.	33	manažer	Bašť	99	80	0
-2109	538051	1	1	901	4	Vítězslav	Kaliba	M	Bc.		29	úředník	Bašť	99	80	0
-2109	538051	1	1	901	5	Miroslav	Zlámal	M	MUDr.		34	lékař	Bašť	99	80	0
-2109	538051	1	1	901	6	Vladimír	Mišner	M			67	důchodce	Bašť	99	80	0
-2109	538051	1	1	901	7	Jiří	Nedvěd	M			31	technik	Bašť	99	80	0
-2109	538051	1	1	901	8	Petr	Červenka	M			51	technolog	Bašť	99	80	0
-2109	538051	1	1	901	9	Květuše	Kostková	F			47	podnikatelka	Bašť	99	80	0
-2109	538051	1	2	449	1	Jan	Moravec	M			61	technický manažer	Bašť	99	80	0
-2109	538051	1	2	449	2	Jiří	Srbek	M	Ing.		56	manažer	Bašť	99	80	0
-2109	538051	1	2	449	3	Jitka	Kalašová	F			51	účetní	Bašť	99	80	0
-2109	538051	1	2	449	4	Blanka	Dvořáková	F			50	účetní	Bašť	99	80	0
-2109	538051	1	2	449	5	Martin	Kaiser	M			44	manažer obchodu	Bašť	99	80	0
-2109	538051	1	2	449	6	Martin	Bulvas	M			54	technik	Bašť	99	80	0
-2109	538051	1	2	449	7	Oto	Melmuka	M			46	truhlář	Bašť	99	80	0
-2109	538051	1	2	449	8	Dana	Líbová	F			62	ekonom	Bašť	99	80	0
-2109	538051	1	2	449	9	Aleš	Hájek	M			37	manažer	Bašť	99	80	0
-2109	538051	1	3	144	1	Petr	Utěkal	M	Ing.		65	podnikatel	Bašť	99	144	0
-2109	538051	1	3	144	2	Jara Georg	Meger	M			40	ekonomický poradce	Bašť	99	144	0
-2109	538051	1	3	144	3	Jitka	Mazánková	F			55	úřednice	Bašť	99	144	0
-2109	538051	1	3	144	4	Iva	Chovancová	F	Ing.		42	účetní	Bašť	99	144	0
-2109	538051	1	3	144	5	Jiří	Kurka	M	Ing.		52	jednatel	Bašť	99	144	0
-2109	538051	1	3	144	6	Richard	Walitza	M		Dipl.-Kfm.	41	manažer	Bašť	99	144	0
-2109	538051	1	3	144	7	Kateřina	Hánová	F			30	rodičovská dovolená	Bašť	99	144	0
-2109	538051	1	3	144	8	Radoslav	Obšil	M	Ing.		33	manažer	Bašť	99	144	0
-2109	538051	1	3	144	9	Blanka	Veselá	F			66	důchodce	Bašť	99	144	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2109	538051	1	1	901	1	Iva	Cucová	Ing.		40	rodičovská dovolená	Bašť	99	80	0	F
+2109	538051	1	2	449	1	Jan	Moravec			61	technický manažer	Bašť	99	80	0	M
+2109	538051	1	3	144	1	Petr	Utěkal	Ing.		65	podnikatel	Bašť	99	144	0	M
+2109	538051	1	1	901	2	Václav	Žihla			48	podnikatel	Bašť	99	80	0	M
+2109	538051	1	2	449	2	Jiří	Srbek	Ing.		56	manažer	Bašť	99	80	0	M
+2109	538051	1	3	144	2	Jara Georg	Meger			40	ekonomický poradce	Bašť	99	144	0	M
+2109	538051	1	1	901	3	Jiří	Staněk		Dis.	33	manažer	Bašť	99	80	0	M
+2109	538051	1	2	449	3	Jitka	Kalašová			51	účetní	Bašť	99	80	0	F
+2109	538051	1	3	144	3	Jitka	Mazánková			55	úřednice	Bašť	99	144	0	F
+2109	538051	1	1	901	4	Vítězslav	Kaliba	Bc.		29	úředník	Bašť	99	80	0	M
+2109	538051	1	2	449	4	Blanka	Dvořáková			50	účetní	Bašť	99	80	0	F
+2109	538051	1	3	144	4	Iva	Chovancová	Ing.		42	účetní	Bašť	99	144	0	F
+2109	538051	1	1	901	5	Miroslav	Zlámal	MUDr.		34	lékař	Bašť	99	80	0	M
+2109	538051	1	2	449	5	Martin	Kaiser			44	manažer obchodu	Bašť	99	80	0	M
+2109	538051	1	3	144	5	Jiří	Kurka	Ing.		52	jednatel	Bašť	99	144	0	M
+2109	538051	1	1	901	6	Vladimír	Mišner			67	důchodce	Bašť	99	80	0	M
+2109	538051	1	2	449	6	Martin	Bulvas			54	technik	Bašť	99	80	0	M
+2109	538051	1	3	144	6	Richard	Walitza		Dipl.-Kfm.	41	manažer	Bašť	99	144	0	M
+2109	538051	1	1	901	7	Jiří	Nedvěd			31	technik	Bašť	99	80	0	M
+2109	538051	1	2	449	7	Oto	Melmuka			46	truhlář	Bašť	99	80	0	M
+2109	538051	1	3	144	7	Kateřina	Hánová			30	rodičovská dovolená	Bašť	99	144	0	F
+2109	538051	1	1	901	8	Petr	Červenka			51	technolog	Bašť	99	80	0	M
+2109	538051	1	2	449	8	Dana	Líbová			62	ekonom	Bašť	99	80	0	F
+2109	538051	1	3	144	8	Radoslav	Obšil	Ing.		33	manažer	Bašť	99	144	0	M
+2109	538051	1	1	901	9	Květuše	Kostková			47	podnikatelka	Bašť	99	80	0	F
+2109	538051	1	2	449	9	Aleš	Hájek			37	manažer	Bašť	99	80	0	M
+2109	538051	1	3	144	9	Blanka	Veselá			66	důchodce	Bašť	99	144	0	F

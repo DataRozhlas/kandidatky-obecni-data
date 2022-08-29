@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	593079	1	1	1	1	Vojtěch	Štefan	M			53	technolog	Hrušky	99	1	0
-6206	593079	1	1	1	2	Petr	Šmerda	M			58	invalidní důchodce	Hrušky	99	1	0
-6206	593079	1	1	1	3	Zdeněk	Dubnický	M			55	zámečník	Hrušky	99	1	0
-6206	593079	1	1	1	4	Jiří	Ludin	M			40	mistr výroby	Hrušky	99	1	0
-6206	593079	1	1	1	5	Kateřina	Krejčířová	F			37	mateřská dovolená	Hrušky	99	1	0
-6206	593079	1	1	1	6	Oldřich	Dočekal	M	RNDr.		68	důchodce	Hrušky	1	1	0
-6206	593079	1	1	1	7	Josef	Kromer	M			62	důchodce	Hrušky	1	1	0
-6206	593079	1	2	901	1	Jan	Kauf	M			35	živnostník	Hrušky	99	80	0
-6206	593079	1	2	901	2	Ivana	Holoubková	F			57	učitelka	Hrušky	99	80	0
-6206	593079	1	2	901	3	Svatava	Horáčková	F	Ing.		47	technik	Hrušky	99	80	0
-6206	593079	1	2	901	4	Jaroslava	Randýsková	F			59	ekonomka	Hrušky	99	80	0
-6206	593079	1	2	901	5	Miroslav	Fraňo	M			53	mechanizátor	Hrušky	99	80	0
-6206	593079	1	2	901	6	Kamila	Cenková	F			38	dispečerka poruchové služby	Hrušky	99	80	0
-6206	593079	1	2	901	7	Lubomír	Blatný Zimmermann	M			30	programátor	Hrušky	99	80	0
-6206	593079	1	2	901	8	Ivana	Procházková	F	Mgr.		28	učitelka	Hrušky	99	80	0
-6206	593079	1	2	901	9	Petr	Košulič	M	Ing.		46	elektrotechnik	Hrušky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	593079	1	1	1	1	Vojtěch	Štefan			53	technolog	Hrušky	99	1	0	M
+6206	593079	1	2	901	1	Jan	Kauf			35	živnostník	Hrušky	99	80	0	M
+6206	593079	1	1	1	2	Petr	Šmerda			58	invalidní důchodce	Hrušky	99	1	0	M
+6206	593079	1	2	901	2	Ivana	Holoubková			57	učitelka	Hrušky	99	80	0	F
+6206	593079	1	1	1	3	Zdeněk	Dubnický			55	zámečník	Hrušky	99	1	0	M
+6206	593079	1	2	901	3	Svatava	Horáčková	Ing.		47	technik	Hrušky	99	80	0	F
+6206	593079	1	1	1	4	Jiří	Ludin			40	mistr výroby	Hrušky	99	1	0	M
+6206	593079	1	2	901	4	Jaroslava	Randýsková			59	ekonomka	Hrušky	99	80	0	F
+6206	593079	1	1	1	5	Kateřina	Krejčířová			37	mateřská dovolená	Hrušky	99	1	0	F
+6206	593079	1	2	901	5	Miroslav	Fraňo			53	mechanizátor	Hrušky	99	80	0	M
+6206	593079	1	1	1	6	Oldřich	Dočekal	RNDr.		68	důchodce	Hrušky	1	1	0	M
+6206	593079	1	2	901	6	Kamila	Cenková			38	dispečerka poruchové služby	Hrušky	99	80	0	F
+6206	593079	1	1	1	7	Josef	Kromer			62	důchodce	Hrušky	1	1	0	M
+6206	593079	1	2	901	7	Lubomír	Blatný Zimmermann			30	programátor	Hrušky	99	80	0	M
+6206	593079	1	2	901	8	Ivana	Procházková	Mgr.		28	učitelka	Hrušky	99	80	0	F
+6206	593079	1	2	901	9	Petr	Košulič	Ing.		46	elektrotechnik	Hrušky	99	80	0	M

@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	571768	1	1	901	1	Vítězslav	Dostál	M			46	voják AČR	Lukavice	99	80	A
-5301	571768	1	1	901	2	Andrea	Rohlíková	F	Ing.		50	účetní	Lukavička	99	80	A
-5301	571768	1	1	901	3	Leoš	Zíta	M			47	geodet-kartograf	Lukavice	99	80	A
-5301	571768	1	1	901	4	Aleš	Malý	M	Bc.	DiS.	36	zdravotnický záchranář	Loučky	99	80	A
-5301	571768	1	1	901	5	Robin	Dvořák	M			25	agronom	Výsonín	99	80	A
-5301	571768	1	1	901	6	Hana	Horáčková	F	Mgr.		65	pedagog ve výslužbě	Lukavička	99	80	A
-5301	571768	1	1	901	7	Pavlína	Dostálková	F			42	účetní	Lukavička	99	80	A
-5301	571768	1	1	901	8	Jakub	Valenta	M			40	traktorista, majitel minipivovaru	Loučky	99	80	A
-5301	571768	1	1	901	9	Olga	Hejduková	F			40	mateřská dovolená	Lukavice	99	80	A
-5301	571768	1	1	901	10	Vít	Vavroušek	M	Bc.		45	stavební technik	Lukavice	99	80	A
-5301	571768	1	1	901	11	Helena	Kapitolová	F			55	referent	Lukavička	99	80	A
-5301	571768	1	2	902	1	Miloslav	Stehno	M			50	geodet	Lukavice	99	80	A
-5301	571768	1	2	902	2	Zdeněk	Rožek	M			46	IT specialista	Lukavička	99	80	A
-5301	571768	1	2	902	3	Robert	Moravec	M			47	OSVČ	Lukavice	99	80	A
-5301	571768	1	2	902	4	Markéta	Hospodková	F	Ing.		48	IT specialista	Výsonín	99	80	A
-5301	571768	1	2	902	5	Vlasta	Zástěrová	F			50	vedoucí školní jídelny	Lukavice	99	80	A
-5301	571768	1	2	902	6	Milan	Šťovíček	M			36	elektrikář	Výsonín	99	80	A
-5301	571768	1	2	902	7	Zbyněk	Pokorný	M			32	podnikatel	Výsonín	99	80	A
-5301	571768	1	2	902	8	Jaroslav	Vašák	M			44	operátor NC stroje	Lukavice	99	80	A
-5301	571768	1	2	902	9	Petr	Mrázek	M			47	OSVČ	Lukavice	99	80	A
-5301	571768	1	2	902	10	Aleš	Korbel	M			49	poříčný	Lukavička	99	80	A
-5301	571768	1	2	902	11	David	Dědek	M			36	číšník	Lukavička	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	571768	1	1	901	1	Vítězslav	Dostál			46	voják AČR	Lukavice	99	80	A	M
+5301	571768	1	2	902	1	Miloslav	Stehno			50	geodet	Lukavice	99	80	A	M
+5301	571768	1	1	901	2	Andrea	Rohlíková	Ing.		50	účetní	Lukavička	99	80	A	F
+5301	571768	1	2	902	2	Zdeněk	Rožek			46	IT specialista	Lukavička	99	80	A	M
+5301	571768	1	1	901	3	Leoš	Zíta			47	geodet-kartograf	Lukavice	99	80	A	M
+5301	571768	1	2	902	3	Robert	Moravec			47	OSVČ	Lukavice	99	80	A	M
+5301	571768	1	1	901	4	Aleš	Malý	Bc.	DiS.	36	zdravotnický záchranář	Loučky	99	80	A	M
+5301	571768	1	2	902	4	Markéta	Hospodková	Ing.		48	IT specialista	Výsonín	99	80	A	F
+5301	571768	1	1	901	5	Robin	Dvořák			25	agronom	Výsonín	99	80	A	M
+5301	571768	1	2	902	5	Vlasta	Zástěrová			50	vedoucí školní jídelny	Lukavice	99	80	A	F
+5301	571768	1	1	901	6	Hana	Horáčková	Mgr.		65	pedagog ve výslužbě	Lukavička	99	80	A	F
+5301	571768	1	2	902	6	Milan	Šťovíček			36	elektrikář	Výsonín	99	80	A	M
+5301	571768	1	1	901	7	Pavlína	Dostálková			42	účetní	Lukavička	99	80	A	F
+5301	571768	1	2	902	7	Zbyněk	Pokorný			32	podnikatel	Výsonín	99	80	A	M
+5301	571768	1	1	901	8	Jakub	Valenta			40	traktorista, majitel minipivovaru	Loučky	99	80	A	M
+5301	571768	1	2	902	8	Jaroslav	Vašák			44	operátor NC stroje	Lukavice	99	80	A	M
+5301	571768	1	1	901	9	Olga	Hejduková			40	mateřská dovolená	Lukavice	99	80	A	F
+5301	571768	1	2	902	9	Petr	Mrázek			47	OSVČ	Lukavice	99	80	A	M
+5301	571768	1	1	901	10	Vít	Vavroušek	Bc.		45	stavební technik	Lukavice	99	80	A	M
+5301	571768	1	2	902	10	Aleš	Korbel			49	poříčný	Lukavička	99	80	A	M
+5301	571768	1	1	901	11	Helena	Kapitolová			55	referent	Lukavička	99	80	A	F
+5301	571768	1	2	902	11	David	Dědek			36	číšník	Lukavička	99	80	A	M

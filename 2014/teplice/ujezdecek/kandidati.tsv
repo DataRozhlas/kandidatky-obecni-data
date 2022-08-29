@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4206	567850	1	1	47	1	Jitka	Hanousková	F			62	politický pracovník	Újezdeček	47	47	0
-4206	567850	1	1	47	2	Karel	Jodas	M			66	živnostník	Újezdeček	99	47	0
-4206	567850	1	1	47	3	Karel	Krejčík	M			48	technik	Újezdeček	99	47	0
-4206	567850	1	1	47	4	Václav	Kohlmistr	M			62	zámečník	Újezdeček	99	47	0
-4206	567850	1	1	47	5	Miroslav	Reiner	M			43	živnostník	Újezdeček	99	47	0
-4206	567850	1	1	47	6	Antonín	Šlechta	M			68	důchodce	Újezdeček	47	47	0
-4206	567850	1	1	47	7	Petr	Hanousek	M			62	zedník	Újezdeček	47	47	0
-4206	567850	1	2	7	1	Josef	Žampach	M			56	místostarosta	Újezdeček	7	7	0
-4206	567850	1	2	7	2	Petr	Štark	M	Bc.		39	technik	Újezdeček	99	7	0
-4206	567850	1	2	7	3	Rudolf	Veselý	M			75	důchodce	Újezdeček	99	7	0
-4206	567850	1	2	7	4	Lucie	Křenovská	F			36	živnostník	Újezdeček	99	7	0
-4206	567850	1	2	7	5	Martin	Štambera	M			49	dělník	Újezdeček	99	7	0
-4206	567850	1	2	7	6	Václav	Brabec	M			55	živnostník	Újezdeček	99	7	0
-4206	567850	1	2	7	7	Vlasta	Marková	F			37	odborný referent pojišťovny	Újezdeček	99	7	0
-4206	567850	1	3	901	1	Petr	Pokorný	M			64	starosta	Újezdeček	99	80	0
-4206	567850	1	3	901	2	Pavel	Hejlik	M			45	dělník	Újezdeček	99	80	0
-4206	567850	1	3	901	3	Ladislav	Trojáček	M			67	důchodce	Újezdeček	99	80	0
-4206	567850	1	3	901	4	Radek	Březina	M			39	dělník	Újezdeček	99	80	0
-4206	567850	1	3	901	5	Jiří	Chára	M			42	podnikatel	Újezdeček	99	80	0
-4206	567850	1	3	901	6	Zdeněk	Kohlmistr	M			38	podnikatel	Újezdeček	99	80	0
-4206	567850	1	3	901	7	Antonín	Koudelka	M	Ing.		47	podnikatel	Újezdeček	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4206	567850	1	1	47	1	Jitka	Hanousková			62	politický pracovník	Újezdeček	47	47	0	F
+4206	567850	1	2	7	1	Josef	Žampach			56	místostarosta	Újezdeček	7	7	0	M
+4206	567850	1	3	901	1	Petr	Pokorný			64	starosta	Újezdeček	99	80	0	M
+4206	567850	1	1	47	2	Karel	Jodas			66	živnostník	Újezdeček	99	47	0	M
+4206	567850	1	2	7	2	Petr	Štark	Bc.		39	technik	Újezdeček	99	7	0	M
+4206	567850	1	3	901	2	Pavel	Hejlik			45	dělník	Újezdeček	99	80	0	M
+4206	567850	1	1	47	3	Karel	Krejčík			48	technik	Újezdeček	99	47	0	M
+4206	567850	1	2	7	3	Rudolf	Veselý			75	důchodce	Újezdeček	99	7	0	M
+4206	567850	1	3	901	3	Ladislav	Trojáček			67	důchodce	Újezdeček	99	80	0	M
+4206	567850	1	1	47	4	Václav	Kohlmistr			62	zámečník	Újezdeček	99	47	0	M
+4206	567850	1	2	7	4	Lucie	Křenovská			36	živnostník	Újezdeček	99	7	0	F
+4206	567850	1	3	901	4	Radek	Březina			39	dělník	Újezdeček	99	80	0	M
+4206	567850	1	1	47	5	Miroslav	Reiner			43	živnostník	Újezdeček	99	47	0	M
+4206	567850	1	2	7	5	Martin	Štambera			49	dělník	Újezdeček	99	7	0	M
+4206	567850	1	3	901	5	Jiří	Chára			42	podnikatel	Újezdeček	99	80	0	M
+4206	567850	1	1	47	6	Antonín	Šlechta			68	důchodce	Újezdeček	47	47	0	M
+4206	567850	1	2	7	6	Václav	Brabec			55	živnostník	Újezdeček	99	7	0	M
+4206	567850	1	3	901	6	Zdeněk	Kohlmistr			38	podnikatel	Újezdeček	99	80	0	M
+4206	567850	1	1	47	7	Petr	Hanousek			62	zedník	Újezdeček	47	47	0	M
+4206	567850	1	2	7	7	Vlasta	Marková			37	odborný referent pojišťovny	Újezdeček	99	7	0	F
+4206	567850	1	3	901	7	Antonín	Koudelka	Ing.		47	podnikatel	Újezdeček	99	80	0	M

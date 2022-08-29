@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6205	586579	1	1	901	1	Miroslav	Fridrich	M			62	starosta	Stavěšice	99	80	0
-6205	586579	1	1	901	2	Zdeněk	Slezáček	M			56	elektrikář	Stavěšice	99	80	0
-6205	586579	1	1	901	3	Vladislava	Florianová	F			40	vedoucí prodejny	Stavěšice	99	80	0
-6205	586579	1	1	901	4	František	Večeřa	M			56	malíř	Stavěšice	99	80	0
-6205	586579	1	1	901	5	Milan	Viktorýn	M			44	autoopravář	Stavěšice	99	80	0
-6205	586579	1	1	901	6	Zdeněk	Luža	M			41	instalatér	Stavěšice	99	80	0
-6205	586579	1	1	901	7	Jan	Polcr	M			51	zedník	Stavěšice	99	80	0
-6205	586579	1	1	901	8	Josef	Španěl	M			66	důchodce	Stavěšice	99	80	0
-6205	586579	1	1	901	9	Eliška	Ondříšková	F			58	pečovatelka	Stavěšice	47	80	0
-6205	586579	1	2	903	1	Luděk	Jagoš	M			43	předseda odborů	Stavěšice	99	80	0
-6205	586579	1	2	903	2	Jitka	Franková	F			38	farmaceut. asistent	Stavěšice	99	80	0
-6205	586579	1	2	903	3	Josef	Slavík	M			45	policista	Stavěšice	99	80	0
-6205	586579	1	2	903	4	Iva	Šohajová	F			48	živnostník	Stavěšice	99	80	0
-6205	586579	1	2	903	5	Oldřich	Hartl	M			35	živnostník	Stavěšice	99	80	0
-6205	586579	1	2	903	6	Jan	Crlík	M			24	truhlář	Stavěšice	99	80	0
-6205	586579	1	2	903	7	Stanislava	Polcrová	F			60	důchodkyně	Stavěšice	99	80	0
-6205	586579	1	2	903	8	Eliška	Černohorská	F			36	živnostník	Stavěšice	99	80	0
-6205	586579	1	2	903	9	Aleš	Štika	M			35	živnostník	Stavěšice	99	80	0
-6205	586579	1	3	1	1	Marie	Nováková	F			52	knihovnice	Stavěšice	1	1	0
-6205	586579	1	3	1	2	Miloslav	Mencl	M			45	vedoucí dopravy	Stavěšice	99	1	0
-6205	586579	1	3	1	3	Vladimír	Otruba	M			46	manažer	Stavěšice	99	1	0
-6205	586579	1	3	1	4	Milada	Novotná	F			43	švadlena	Stavěšice	99	1	0
-6205	586579	1	3	1	5	Ladislav	Pančocha	M			45	řidič	Stavěšice	99	1	0
-6205	586579	1	3	1	6	Mojmír	Jandora	M			45	soukromě hospodařící rolník	Stavěšice	1	1	0
-6205	586579	1	3	1	7	Veronika	Hartlová	F			33	kuchařka	Stavěšice	99	1	0
-6205	586579	1	3	1	8	Helena	Crlíková	F			44	kuchařka	Stavěšice	99	1	0
-6205	586579	1	3	1	9	Anežka	Adámková	F			60	důchodce	Stavěšice	99	1	0
-6205	586579	1	4	902	1	Martin	Vaďura	M			29	nákupní manažer	Stavěšice	99	80	0
-6205	586579	1	4	902	2	Antonín	Kozák	M			41	soukromě hospodařící rolník	Stavěšice	99	80	0
-6205	586579	1	4	902	3	Michal	Večeřa	M			29	malíř	Stavěšice	99	80	0
-6205	586579	1	4	902	4	Zbyněk	Dobeš	M			26	technik	Stavěšice	99	80	0
-6205	586579	1	4	902	5	Renata	Kozáková	F			35	účetní	Stavěšice	99	80	0
-6205	586579	1	4	902	6	Petr	Polcr	M			39	soustružník	Stavěšice	99	80	0
-6205	586579	1	4	902	7	Zdeněk	Balajka	M			39	truhlář	Stavěšice	99	80	0
-6205	586579	1	4	902	8	Josef	Hofírek	M			37	mlynář	Stavěšice	99	80	0
-6205	586579	1	4	902	9	Vít	Zálešák	M			42	dělník	Stavěšice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6205	586579	1	1	901	1	Miroslav	Fridrich			62	starosta	Stavěšice	99	80	0	M
+6205	586579	1	2	903	1	Luděk	Jagoš			43	předseda odborů	Stavěšice	99	80	0	M
+6205	586579	1	3	1	1	Marie	Nováková			52	knihovnice	Stavěšice	1	1	0	F
+6205	586579	1	4	902	1	Martin	Vaďura			29	nákupní manažer	Stavěšice	99	80	0	M
+6205	586579	1	1	901	2	Zdeněk	Slezáček			56	elektrikář	Stavěšice	99	80	0	M
+6205	586579	1	2	903	2	Jitka	Franková			38	farmaceut. asistent	Stavěšice	99	80	0	F
+6205	586579	1	3	1	2	Miloslav	Mencl			45	vedoucí dopravy	Stavěšice	99	1	0	M
+6205	586579	1	4	902	2	Antonín	Kozák			41	soukromě hospodařící rolník	Stavěšice	99	80	0	M
+6205	586579	1	1	901	3	Vladislava	Florianová			40	vedoucí prodejny	Stavěšice	99	80	0	F
+6205	586579	1	2	903	3	Josef	Slavík			45	policista	Stavěšice	99	80	0	M
+6205	586579	1	3	1	3	Vladimír	Otruba			46	manažer	Stavěšice	99	1	0	M
+6205	586579	1	4	902	3	Michal	Večeřa			29	malíř	Stavěšice	99	80	0	M
+6205	586579	1	1	901	4	František	Večeřa			56	malíř	Stavěšice	99	80	0	M
+6205	586579	1	2	903	4	Iva	Šohajová			48	živnostník	Stavěšice	99	80	0	F
+6205	586579	1	3	1	4	Milada	Novotná			43	švadlena	Stavěšice	99	1	0	F
+6205	586579	1	4	902	4	Zbyněk	Dobeš			26	technik	Stavěšice	99	80	0	M
+6205	586579	1	1	901	5	Milan	Viktorýn			44	autoopravář	Stavěšice	99	80	0	M
+6205	586579	1	2	903	5	Oldřich	Hartl			35	živnostník	Stavěšice	99	80	0	M
+6205	586579	1	3	1	5	Ladislav	Pančocha			45	řidič	Stavěšice	99	1	0	M
+6205	586579	1	4	902	5	Renata	Kozáková			35	účetní	Stavěšice	99	80	0	F
+6205	586579	1	1	901	6	Zdeněk	Luža			41	instalatér	Stavěšice	99	80	0	M
+6205	586579	1	2	903	6	Jan	Crlík			24	truhlář	Stavěšice	99	80	0	M
+6205	586579	1	3	1	6	Mojmír	Jandora			45	soukromě hospodařící rolník	Stavěšice	1	1	0	M
+6205	586579	1	4	902	6	Petr	Polcr			39	soustružník	Stavěšice	99	80	0	M
+6205	586579	1	1	901	7	Jan	Polcr			51	zedník	Stavěšice	99	80	0	M
+6205	586579	1	2	903	7	Stanislava	Polcrová			60	důchodkyně	Stavěšice	99	80	0	F
+6205	586579	1	3	1	7	Veronika	Hartlová			33	kuchařka	Stavěšice	99	1	0	F
+6205	586579	1	4	902	7	Zdeněk	Balajka			39	truhlář	Stavěšice	99	80	0	M
+6205	586579	1	1	901	8	Josef	Španěl			66	důchodce	Stavěšice	99	80	0	M
+6205	586579	1	2	903	8	Eliška	Černohorská			36	živnostník	Stavěšice	99	80	0	F
+6205	586579	1	3	1	8	Helena	Crlíková			44	kuchařka	Stavěšice	99	1	0	F
+6205	586579	1	4	902	8	Josef	Hofírek			37	mlynář	Stavěšice	99	80	0	M
+6205	586579	1	1	901	9	Eliška	Ondříšková			58	pečovatelka	Stavěšice	47	80	0	F
+6205	586579	1	2	903	9	Aleš	Štika			35	živnostník	Stavěšice	99	80	0	M
+6205	586579	1	3	1	9	Anežka	Adámková			60	důchodce	Stavěšice	99	1	0	F
+6205	586579	1	4	902	9	Vít	Zálešák			42	dělník	Stavěšice	99	80	0	M

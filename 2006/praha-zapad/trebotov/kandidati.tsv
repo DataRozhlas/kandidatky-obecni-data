@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	539759	1	1	53	1	Jiří	Pauk	M			66	důchodce	Solopisky	53	53	0
-2110	539759	1	1	53	2	Otakar	Kolínský	M			51	hoteliér	Solopisky	99	53	0
-2110	539759	1	1	53	3	Jaroslav	Částka	M			50	podnikatel	Solopisky	53	53	0
-2110	539759	1	1	53	4	Jiří	Holinka	M			51	tesař	Třebotov	99	53	0
-2110	539759	1	1	53	5	Rudolf	Hlaváček	M			63	podnikatel	Třebotov	99	53	0
-2110	539759	1	2	903	1	Eduard	Kalabis	M			66	důchodce - stavební technik	Třebotov	99	80	0
-2110	539759	1	2	903	2	Vojtěch	Makovec	M			23	student právnické fakulty	Třebotov	99	80	0
-2110	539759	1	2	903	3	David	Císař	M	Mgr.		33	marketingový manažer	Třebotov	99	80	0
-2110	539759	1	2	903	4	Jarmila	Hladíková	F	RNDr.		50	chemik	Třebotov	99	80	0
-2110	539759	1	2	903	5	Petr	Kubát	M	akad. mal.		47	grafik	Třebotov	99	80	0
-2110	539759	1	2	903	6	Zdeněk	Březovský	M	MUDr.		56	praktický lékař	Třebotov	99	80	0
-2110	539759	1	2	903	7	Ondřej	Makovec	M	PhDr.		27	ekonomický analytik	Třebotov	99	80	0
-2110	539759	1	2	903	8	Jitka	Štěpničková	F	Ing.		43	asistentka - nyní v domácnosti	Třebotov	99	80	0
-2110	539759	1	2	903	9	Václav	Fafejta	M	Ing.		31	technický ředitel	Třebotov	99	80	0
-2110	539759	1	3	902	1	Pavel	Macháček	M	Ing.		64	starosta obce	Třebotov	99	80	0
-2110	539759	1	3	902	2	Josef	Lachout	M	Ing.		57	zootechnik	Třebotov	99	80	0
-2110	539759	1	3	902	3	Zdeněk	Chlaň	M			58	opravář silničních vozidel	Třebotov	99	80	0
-2110	539759	1	3	902	4	Jaroslav	Erben	M			43	podnikatel	Solopisky	99	80	0
-2110	539759	1	3	902	5	Antonín	Bejlek	M			57	soukromý zemědělec	Solopisky	99	80	0
-2110	539759	1	4	47	1	Petr	Müller	M			43	stavitel	Třebotov	99	47	0
-2110	539759	1	4	47	2	Pavel	Podzemský	M			61	učitel US	Třebotov	99	47	0
-2110	539759	1	4	47	3	František	Jaroušek	M			58	elektromontér	Třebotov	99	47	0
-2110	539759	1	4	47	4	Helena	Karpíšková	F			59	důchodce	Třebotov	47	47	0
-2110	539759	1	4	47	5	Matúš	Miko	M			66	důchodce	Třebotov	47	47	0
-2110	539759	1	4	47	6	Jindřich	Vávra	M			75	důchodce	Solopisky	47	47	0
-2110	539759	1	4	47	7	Milan	Skřivan	M			70	důchodce	Solopisky	99	47	0
-2110	539759	1	5	801	1	Jan	Náprstek	M	Ing.		49	tajemník městského úřadu	Třebotov	99	80	0
-2110	539759	1	6	901	1	Stanislav	Ouřada	M			58	mechanik	Třebotov	99	80	0
-2110	539759	1	6	901	2	Markéta	Kadlecová	F			35	vedoucí knihkupectví	Třebotov	99	80	0
-2110	539759	1	6	901	3	Tomáš	Moucha	M			32	záchranář	Solopisky	99	80	0
-2110	539759	1	6	901	4	René	Král	M			41	podnikatel	Třebotov	99	80	0
-2110	539759	1	6	901	5	Lukáš	Ouřada	M			30	kuchař	Třebotov	99	80	0
-2110	539759	1	6	901	6	David	Maleček	M			33	autoelektrikář	Třebotov	99	80	0
-2110	539759	1	6	901	7	Aleš	Pietrula	M			25	programátor	Třebotov	99	80	0
-2110	539759	1	6	901	8	Igor	Kormunda	M			27	podnikatel	Třebotov	99	80	0
-2110	539759	1	6	901	9	Jan	Kadlec	M			31	zástupce ředitele	Třebotov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	539759	1	1	53	1	Jiří	Pauk			66	důchodce	Solopisky	53	53	0	M
+2110	539759	1	2	903	1	Eduard	Kalabis			66	důchodce - stavební technik	Třebotov	99	80	0	M
+2110	539759	1	3	902	1	Pavel	Macháček	Ing.		64	starosta obce	Třebotov	99	80	0	M
+2110	539759	1	4	47	1	Petr	Müller			43	stavitel	Třebotov	99	47	0	M
+2110	539759	1	5	801	1	Jan	Náprstek	Ing.		49	tajemník městského úřadu	Třebotov	99	80	0	M
+2110	539759	1	6	901	1	Stanislav	Ouřada			58	mechanik	Třebotov	99	80	0	M
+2110	539759	1	1	53	2	Otakar	Kolínský			51	hoteliér	Solopisky	99	53	0	M
+2110	539759	1	2	903	2	Vojtěch	Makovec			23	student právnické fakulty	Třebotov	99	80	0	M
+2110	539759	1	3	902	2	Josef	Lachout	Ing.		57	zootechnik	Třebotov	99	80	0	M
+2110	539759	1	4	47	2	Pavel	Podzemský			61	učitel US	Třebotov	99	47	0	M
+2110	539759	1	6	901	2	Markéta	Kadlecová			35	vedoucí knihkupectví	Třebotov	99	80	0	F
+2110	539759	1	1	53	3	Jaroslav	Částka			50	podnikatel	Solopisky	53	53	0	M
+2110	539759	1	2	903	3	David	Císař	Mgr.		33	marketingový manažer	Třebotov	99	80	0	M
+2110	539759	1	3	902	3	Zdeněk	Chlaň			58	opravář silničních vozidel	Třebotov	99	80	0	M
+2110	539759	1	4	47	3	František	Jaroušek			58	elektromontér	Třebotov	99	47	0	M
+2110	539759	1	6	901	3	Tomáš	Moucha			32	záchranář	Solopisky	99	80	0	M
+2110	539759	1	1	53	4	Jiří	Holinka			51	tesař	Třebotov	99	53	0	M
+2110	539759	1	2	903	4	Jarmila	Hladíková	RNDr.		50	chemik	Třebotov	99	80	0	F
+2110	539759	1	3	902	4	Jaroslav	Erben			43	podnikatel	Solopisky	99	80	0	M
+2110	539759	1	4	47	4	Helena	Karpíšková			59	důchodce	Třebotov	47	47	0	F
+2110	539759	1	6	901	4	René	Král			41	podnikatel	Třebotov	99	80	0	M
+2110	539759	1	1	53	5	Rudolf	Hlaváček			63	podnikatel	Třebotov	99	53	0	M
+2110	539759	1	2	903	5	Petr	Kubát	akad. mal.		47	grafik	Třebotov	99	80	0	M
+2110	539759	1	3	902	5	Antonín	Bejlek			57	soukromý zemědělec	Solopisky	99	80	0	M
+2110	539759	1	4	47	5	Matúš	Miko			66	důchodce	Třebotov	47	47	0	M
+2110	539759	1	6	901	5	Lukáš	Ouřada			30	kuchař	Třebotov	99	80	0	M
+2110	539759	1	2	903	6	Zdeněk	Březovský	MUDr.		56	praktický lékař	Třebotov	99	80	0	M
+2110	539759	1	4	47	6	Jindřich	Vávra			75	důchodce	Solopisky	47	47	0	M
+2110	539759	1	6	901	6	David	Maleček			33	autoelektrikář	Třebotov	99	80	0	M
+2110	539759	1	2	903	7	Ondřej	Makovec	PhDr.		27	ekonomický analytik	Třebotov	99	80	0	M
+2110	539759	1	4	47	7	Milan	Skřivan			70	důchodce	Solopisky	99	47	0	M
+2110	539759	1	6	901	7	Aleš	Pietrula			25	programátor	Třebotov	99	80	0	M
+2110	539759	1	2	903	8	Jitka	Štěpničková	Ing.		43	asistentka - nyní v domácnosti	Třebotov	99	80	0	F
+2110	539759	1	6	901	8	Igor	Kormunda			27	podnikatel	Třebotov	99	80	0	M
+2110	539759	1	2	903	9	Václav	Fafejta	Ing.		31	technický ředitel	Třebotov	99	80	0	M
+2110	539759	1	6	901	9	Jan	Kadlec			31	zástupce ředitele	Třebotov	99	80	0	M

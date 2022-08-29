@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3202	556505	1	1	902	1	Vítězslav	Chval	M			38	podnikatel	Přetín	99	80	A
-3202	556505	1	1	902	2	Jaroslav	Zdvořák	M			55	řidič	Křenice	99	80	A
-3202	556505	1	1	902	3	Michal	Frýba	M			49	podnikatel	Křenice	99	80	A
-3202	556505	1	1	902	4	Jakub	Lösch	M			34	podnikatel	Křenice	99	80	A
-3202	556505	1	1	902	5	Milada	Chvalová	F			43	žena v domácnosti	Přetín	99	80	A
-3202	556505	1	1	902	6	Martin	Zdvořák	M	MVDr.		37	veterinář	Přetín	99	80	A
-3202	556505	1	1	902	7	Gabriela Daniela	Chvalová	F	Bc.		42	radiologická sestra	Přetín	99	80	A
-3202	556505	1	2	901	1	Vlastimil	Rejthar	M	Bc.		39	datový analytik	Křenice	99	80	A
-3202	556505	1	2	901	2	Antonín	Wollner	M	Ing.		37	soukromý podnikatel	Přetín	99	80	A
-3202	556505	1	2	901	3	René	Jirmus	M	Mgr.		24	student	Přetín	99	80	A
-3202	556505	1	2	901	4	Marcela	Tomanová	F			47	zdravotní sestra	Kámen	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3202	556505	1	1	902	1	Vítězslav	Chval			38	podnikatel	Přetín	99	80	A	M
+3202	556505	1	2	901	1	Vlastimil	Rejthar	Bc.		39	datový analytik	Křenice	99	80	A	M
+3202	556505	1	1	902	2	Jaroslav	Zdvořák			55	řidič	Křenice	99	80	A	M
+3202	556505	1	2	901	2	Antonín	Wollner	Ing.		37	soukromý podnikatel	Přetín	99	80	A	M
+3202	556505	1	1	902	3	Michal	Frýba			49	podnikatel	Křenice	99	80	A	M
+3202	556505	1	2	901	3	René	Jirmus	Mgr.		24	student	Přetín	99	80	A	M
+3202	556505	1	1	902	4	Jakub	Lösch			34	podnikatel	Křenice	99	80	A	M
+3202	556505	1	2	901	4	Marcela	Tomanová			47	zdravotní sestra	Kámen	99	80	A	F
+3202	556505	1	1	902	5	Milada	Chvalová			43	žena v domácnosti	Přetín	99	80	A	F
+3202	556505	1	1	902	6	Martin	Zdvořák	MVDr.		37	veterinář	Přetín	99	80	A	M
+3202	556505	1	1	902	7	Gabriela Daniela	Chvalová	Bc.		42	radiologická sestra	Přetín	99	80	A	F

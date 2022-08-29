@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	533157	1	1	902	1	Vratislav	RUBEŠ	M			52	starosta obce	Žižice	99	80	A
-2103	533157	1	1	902	2	Milan	NOVÁK	M			48	manažer	Drnov	99	80	A
-2103	533157	1	1	902	3	Marcela	JAVŮRKOVÁ	F			49	zaměstnanec SŽDC	Osluchov	99	80	A
-2103	533157	1	1	902	4	Jiří	CESTR	M			36	řidič z povolání	Žižice	99	80	A
-2103	533157	1	1	902	5	Martin	JANOUŠEK	M			30	systémový specialista	Vítov	99	80	A
-2103	533157	1	1	902	6	Lada	HÖPPOVÁ	F			35	manažer	Žižice	99	80	A
-2103	533157	1	1	902	7	Rostislav	LINDA	M			47	soukromý zemědělec	Žižice	99	80	A
-2103	533157	1	1	902	8	Petr	ŠRÁMEK	M			39	soukromý zemědělec	Vítov	99	80	A
-2103	533157	1	1	902	9	Karolína	LINDOVÁ	F	Ing.		42	vodohospodářka	Drnov	99	80	A
-2103	533157	1	2	901	1	Kateřina	ŠTORKOVÁ	F			32	technický pracovník	Žižice	99	80	A
-2103	533157	1	2	901	2	Jan	TABAČÁR	M	Ing.		42	ve služebním poměru Policie ČR	Luníkov	99	80	A
-2103	533157	1	2	901	3	Lucie	BUREŠOVÁ	F	Ing.		38	podnikatel	Vítov	99	80	A
-2103	533157	1	2	901	4	Aleš	URBAN	M	Bc.		38	odborný rada KÚ Slaný	Drnov	99	80	A
-2103	533157	1	2	901	5	Pavel	PODRAZKÝ	M			63	důchodce	Osluchov	99	80	A
-2103	533157	1	2	901	6	Tomáš	BŘINDA	M			29	vedoucí stavebního střediska	Žižice	99	80	A
-2103	533157	1	2	901	7	Karina	BALŠÁNKOVÁ	F			31	mateřská dovolená	Žižice	99	80	A
-2103	533157	1	2	901	8	Irena	URÍKOVÁ	F			53	invalidní důchodce	Drnov	99	80	A
-2103	533157	1	2	901	9	Hana	GRŰNWALDOVÁ	F			31	administrativní pracovník	Žižice	99	80	A
-2103	533157	1	3	53	1	Petr	KOTEN	M			42	místostarosta	Vítov	53	53	A
-2103	533157	1	3	53	2	David	HEJDUK	M	MUDr.		49	lékař	Luníkov	99	53	A
-2103	533157	1	3	53	3	Ladislav	JELEN	M			45	podnikatel	Žižice	99	53	A
-2103	533157	1	3	53	4	Jiří	PROCHÁZKA	M			29	vedoucí betonárny	Žižice	99	53	A
-2103	533157	1	3	53	5	Naděžda	SUCHÁNKOVÁ	F			46	zdravotní sestra	Žižice	53	53	A
-2103	533157	1	3	53	6	Josef	HROMÁDKA	M			44	technik	Žižice	53	53	A
-2103	533157	1	3	53	7	Josef	SAVINEC	M			44	podnikatel	Žižice	53	53	A
-2103	533157	1	3	53	8	Milan	PROCHÁZKA	M	Ing.		53	zemědělec	Žižice	53	53	A
-2103	533157	1	3	53	9	Roman	CHVOJ	M			50	podnikatel	Drnov	99	53	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	533157	1	1	902	1	Vratislav	RUBEŠ			52	starosta obce	Žižice	99	80	A	M
+2103	533157	1	2	901	1	Kateřina	ŠTORKOVÁ			32	technický pracovník	Žižice	99	80	A	F
+2103	533157	1	3	53	1	Petr	KOTEN			42	místostarosta	Vítov	53	53	A	M
+2103	533157	1	1	902	2	Milan	NOVÁK			48	manažer	Drnov	99	80	A	M
+2103	533157	1	2	901	2	Jan	TABAČÁR	Ing.		42	ve služebním poměru Policie ČR	Luníkov	99	80	A	M
+2103	533157	1	3	53	2	David	HEJDUK	MUDr.		49	lékař	Luníkov	99	53	A	M
+2103	533157	1	1	902	3	Marcela	JAVŮRKOVÁ			49	zaměstnanec SŽDC	Osluchov	99	80	A	F
+2103	533157	1	2	901	3	Lucie	BUREŠOVÁ	Ing.		38	podnikatel	Vítov	99	80	A	F
+2103	533157	1	3	53	3	Ladislav	JELEN			45	podnikatel	Žižice	99	53	A	M
+2103	533157	1	1	902	4	Jiří	CESTR			36	řidič z povolání	Žižice	99	80	A	M
+2103	533157	1	2	901	4	Aleš	URBAN	Bc.		38	odborný rada KÚ Slaný	Drnov	99	80	A	M
+2103	533157	1	3	53	4	Jiří	PROCHÁZKA			29	vedoucí betonárny	Žižice	99	53	A	M
+2103	533157	1	1	902	5	Martin	JANOUŠEK			30	systémový specialista	Vítov	99	80	A	M
+2103	533157	1	2	901	5	Pavel	PODRAZKÝ			63	důchodce	Osluchov	99	80	A	M
+2103	533157	1	3	53	5	Naděžda	SUCHÁNKOVÁ			46	zdravotní sestra	Žižice	53	53	A	F
+2103	533157	1	1	902	6	Lada	HÖPPOVÁ			35	manažer	Žižice	99	80	A	F
+2103	533157	1	2	901	6	Tomáš	BŘINDA			29	vedoucí stavebního střediska	Žižice	99	80	A	M
+2103	533157	1	3	53	6	Josef	HROMÁDKA			44	technik	Žižice	53	53	A	M
+2103	533157	1	1	902	7	Rostislav	LINDA			47	soukromý zemědělec	Žižice	99	80	A	M
+2103	533157	1	2	901	7	Karina	BALŠÁNKOVÁ			31	mateřská dovolená	Žižice	99	80	A	F
+2103	533157	1	3	53	7	Josef	SAVINEC			44	podnikatel	Žižice	53	53	A	M
+2103	533157	1	1	902	8	Petr	ŠRÁMEK			39	soukromý zemědělec	Vítov	99	80	A	M
+2103	533157	1	2	901	8	Irena	URÍKOVÁ			53	invalidní důchodce	Drnov	99	80	A	F
+2103	533157	1	3	53	8	Milan	PROCHÁZKA	Ing.		53	zemědělec	Žižice	53	53	A	M
+2103	533157	1	1	902	9	Karolína	LINDOVÁ	Ing.		42	vodohospodářka	Drnov	99	80	A	F
+2103	533157	1	2	901	9	Hana	GRŰNWALDOVÁ			31	administrativní pracovník	Žižice	99	80	A	F
+2103	533157	1	3	53	9	Roman	CHVOJ			50	podnikatel	Drnov	99	53	A	M

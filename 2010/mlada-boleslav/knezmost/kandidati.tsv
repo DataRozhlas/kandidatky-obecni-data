@@ -1,38 +1,38 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2107	536041	1	1	53	1	Adam	Pospíšil	M	Ing.		34	podnikatel	Kněžmost	53	53	0
-2107	536041	1	1	53	2	Miroslava	Kočová	F			45	místostarostka	Kněžmost	53	53	0
-2107	536041	1	1	53	3	Zbyněk	Pokorný	M			54	podnikatel	Kněžmost	53	53	0
-2107	536041	1	1	53	4	Martin	Hybner	M	Ing.		41	technik	Kněžmost	53	53	0
-2107	536041	1	1	53	5	Jan	Hofmann	M			25	student	Kněžmost	53	53	0
-2107	536041	1	1	53	6	Petr	Košek	M			40	technik	Kněžmost	53	53	0
-2107	536041	1	1	53	7	Marie Adela	Pokorná	F	Mgr.		65	učitelka	Kněžmost	99	53	0
-2107	536041	1	1	53	8	Luděk	Haken	M			38	vedoucí prodeje	Kněžmost	99	53	0
-2107	536041	1	1	53	9	Roman	Janků	M	Ing.		35	koordinátor	Kněžmost	99	53	0
-2107	536041	1	1	53	10	Jana	Outratová	F			41	asistentka ředitele	Kněžmost	99	53	0
-2107	536041	1	1	53	11	Jiří	Lehečka	M	Mgr.		41	učitel	Kněžmost	99	53	0
-2107	536041	1	1	53	12	Zdeněk	Helikar	M			39	technik	Násedlnice	99	53	0
-2107	536041	1	1	53	13	Jitka	Kurková	F			36	asistentka	Drhleny	99	53	0
-2107	536041	1	1	53	14	Vlastislav	Pažout	M			69	důchodce	Koprník	99	53	0
-2107	536041	1	1	53	15	Jiří	Píša	M			43	specialista	Kněžmost	99	53	0
-2107	536041	1	2	801	1	Jaroslav	Palaczuk	M	Mgr.		26	policista	Chlumín	99	80	0
-2107	536041	1	3	901	1	Zbyšek	Orzech	M			31	mistr	Kněžmost	99	80	0
-2107	536041	1	3	901	2	Tomáš	Zima	M			35	OSVČ	Kněžmost	99	80	0
-2107	536041	1	3	901	3	Jitka	Bartošová	F			30	oblastní manažer	Solec	99	80	0
-2107	536041	1	3	901	4	Jiří	Bergman	M			32	řidič	Soleček	99	80	0
-2107	536041	1	3	901	5	Jiří	Nikodem	M	Ing.		43	manažer	Kněžmost	99	80	0
-2107	536041	1	3	901	6	Jaroslav	Abraham	M			31	OSVČ	Býčina	99	80	0
-2107	536041	1	3	901	7	Michal	Krejčík	M			36	projektant	Kněžmost	99	80	0
-2107	536041	1	3	901	8	Pavel	Petrtýl	M			41	automechanik	Kněžmost	99	80	0
-2107	536041	1	3	901	9	Tomáš	Hruška	M			35	OSVČ	Kněžmost	99	80	0
-2107	536041	1	3	901	10	Lenka	Bergmanová	F			31	manažer	Kněžmost	99	80	0
-2107	536041	1	3	901	11	Radek	Pitr	M			32	svářeč	Solec	99	80	0
-2107	536041	1	3	901	12	Zdenka	Brdlíková	F			48	referent	Solec	99	80	0
-2107	536041	1	3	901	13	Jan	Škoda	M			42	OSVČ	Kněžmost	99	80	0
-2107	536041	1	3	901	14	Helena	Formánková	F			44	zástupce prodejny	Kněžmost	99	80	0
-2107	536041	1	3	901	15	Ilona	Bajtlerová	F			45	montážní dělnice	Kněžmost	99	80	0
-2107	536041	1	4	802	1	Ladislav	Kilián	M	Mgr.		38	policejní komisař	Koprník	99	80	0
-2107	536041	1	5	5	1	Pavel	Kverek	M			51	kovář-zámečník	Kněžmost	99	5	0
-2107	536041	1	5	5	2	Libor	Nový	M			48	stavbyvedoucí	Úhelnice	99	5	0
-2107	536041	1	5	5	3	Jiří	Dragon	M			73	důchodce	Kněžmost	99	5	0
-2107	536041	1	5	5	4	Stanislav	Bejr	M			33	technický pracovník	Koprník	99	5	0
-2107	536041	1	5	5	5	Tomáš	Kverek	M			21	umělecký kovář, podkovář	Kněžmost	99	5	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2107	536041	1	1	53	1	Adam	Pospíšil	Ing.		34	podnikatel	Kněžmost	53	53	0	M
+2107	536041	1	2	801	1	Jaroslav	Palaczuk	Mgr.		26	policista	Chlumín	99	80	0	M
+2107	536041	1	3	901	1	Zbyšek	Orzech			31	mistr	Kněžmost	99	80	0	M
+2107	536041	1	4	802	1	Ladislav	Kilián	Mgr.		38	policejní komisař	Koprník	99	80	0	M
+2107	536041	1	5	5	1	Pavel	Kverek			51	kovář-zámečník	Kněžmost	99	5	0	M
+2107	536041	1	1	53	2	Miroslava	Kočová			45	místostarostka	Kněžmost	53	53	0	F
+2107	536041	1	3	901	2	Tomáš	Zima			35	OSVČ	Kněžmost	99	80	0	M
+2107	536041	1	5	5	2	Libor	Nový			48	stavbyvedoucí	Úhelnice	99	5	0	M
+2107	536041	1	1	53	3	Zbyněk	Pokorný			54	podnikatel	Kněžmost	53	53	0	M
+2107	536041	1	3	901	3	Jitka	Bartošová			30	oblastní manažer	Solec	99	80	0	F
+2107	536041	1	5	5	3	Jiří	Dragon			73	důchodce	Kněžmost	99	5	0	M
+2107	536041	1	1	53	4	Martin	Hybner	Ing.		41	technik	Kněžmost	53	53	0	M
+2107	536041	1	3	901	4	Jiří	Bergman			32	řidič	Soleček	99	80	0	M
+2107	536041	1	5	5	4	Stanislav	Bejr			33	technický pracovník	Koprník	99	5	0	M
+2107	536041	1	1	53	5	Jan	Hofmann			25	student	Kněžmost	53	53	0	M
+2107	536041	1	3	901	5	Jiří	Nikodem	Ing.		43	manažer	Kněžmost	99	80	0	M
+2107	536041	1	5	5	5	Tomáš	Kverek			21	umělecký kovář, podkovář	Kněžmost	99	5	0	M
+2107	536041	1	1	53	6	Petr	Košek			40	technik	Kněžmost	53	53	0	M
+2107	536041	1	3	901	6	Jaroslav	Abraham			31	OSVČ	Býčina	99	80	0	M
+2107	536041	1	1	53	7	Marie Adela	Pokorná	Mgr.		65	učitelka	Kněžmost	99	53	0	F
+2107	536041	1	3	901	7	Michal	Krejčík			36	projektant	Kněžmost	99	80	0	M
+2107	536041	1	1	53	8	Luděk	Haken			38	vedoucí prodeje	Kněžmost	99	53	0	M
+2107	536041	1	3	901	8	Pavel	Petrtýl			41	automechanik	Kněžmost	99	80	0	M
+2107	536041	1	1	53	9	Roman	Janků	Ing.		35	koordinátor	Kněžmost	99	53	0	M
+2107	536041	1	3	901	9	Tomáš	Hruška			35	OSVČ	Kněžmost	99	80	0	M
+2107	536041	1	1	53	10	Jana	Outratová			41	asistentka ředitele	Kněžmost	99	53	0	F
+2107	536041	1	3	901	10	Lenka	Bergmanová			31	manažer	Kněžmost	99	80	0	F
+2107	536041	1	1	53	11	Jiří	Lehečka	Mgr.		41	učitel	Kněžmost	99	53	0	M
+2107	536041	1	3	901	11	Radek	Pitr			32	svářeč	Solec	99	80	0	M
+2107	536041	1	1	53	12	Zdeněk	Helikar			39	technik	Násedlnice	99	53	0	M
+2107	536041	1	3	901	12	Zdenka	Brdlíková			48	referent	Solec	99	80	0	F
+2107	536041	1	1	53	13	Jitka	Kurková			36	asistentka	Drhleny	99	53	0	F
+2107	536041	1	3	901	13	Jan	Škoda			42	OSVČ	Kněžmost	99	80	0	M
+2107	536041	1	1	53	14	Vlastislav	Pažout			69	důchodce	Koprník	99	53	0	M
+2107	536041	1	3	901	14	Helena	Formánková			44	zástupce prodejny	Kněžmost	99	80	0	F
+2107	536041	1	1	53	15	Jiří	Píša			43	specialista	Kněžmost	99	53	0	M
+2107	536041	1	3	901	15	Ilona	Bajtlerová			45	montážní dělnice	Kněžmost	99	80	0	F

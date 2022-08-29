@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7104	516686	1	1	903	1	Jana	Brhelová	F	Ing.		39	mateřská dovolená	Partutovice	99	80	A
-7104	516686	1	1	903	2	Otakar	Humplík	M			63	důchodce	Partutovice	99	80	A
-7104	516686	1	1	903	3	Marek	Maršálek	M			44	mechanik	Partutovice	99	80	A
-7104	516686	1	1	903	4	Tomáš	Klezla	M			28	strojník	Partutovice	99	80	A
-7104	516686	1	1	903	5	Martin	Humplík	M			39	strojní mechanik	Partutovice	99	80	A
-7104	516686	1	1	903	6	Martin	Polák	M			51	THP	Partutovice	99	80	A
-7104	516686	1	1	903	7	Kateřina	Plecho	F	Mgr.		24	technolog výroby	Partutovice	99	80	A
-7104	516686	1	1	903	8	Pavel	Blaha	M			46	OSVČ	Partutovice	99	80	A
-7104	516686	1	1	903	9	František	Hynčica	M			61	opatrovník osoby blízké	Partutovice	99	80	A
-7104	516686	1	2	901	1	Jaroslav	Šindler	M	Ing.		41	starosta obce	Partutovice	99	80	A
-7104	516686	1	2	901	2	Zdeněk	Lehnert	M	Ing.		35	účetní	Partutovice	99	80	A
-7104	516686	1	2	901	3	Petra	Azabache	F	Mgr.		48	učitelka	Partutovice	99	80	A
-7104	516686	1	2	901	4	Jiří	Lehnert	M			41	obchodní zástupce	Partutovice	99	80	A
-7104	516686	1	2	901	5	Pavel	Kandler	M			50	servisní technik	Partutovice	99	80	A
-7104	516686	1	2	901	6	Martin	Kubáč	M	Ing.		36	servisní technik	Partutovice	99	80	A
-7104	516686	1	2	901	7	Ivona	Kandlerová	F	Ing.		27	administrativní pracovník	Partutovice	99	80	A
-7104	516686	1	2	901	8	Jitka	Baghdady	F	Bc.		49	učitelka	Partutovice	99	80	A
-7104	516686	1	2	901	9	Lenka	Kandlerová	F	Ing.		50	učitelka	Partutovice	99	80	A
-7104	516686	1	3	902	1	Tomáš	Sečkár	M	Ing.		31	technolog	Partutovice	99	80	A
-7104	516686	1	3	902	2	Radim	Polák	M			29	údržbář	Partutovice	99	80	A
-7104	516686	1	3	902	3	Adam	Šnejdrla	M			29	řidič - mechanik	Partutovice	99	80	A
-7104	516686	1	3	902	4	Martin	Sendler	M			45	mistr	Partutovice	99	80	A
-7104	516686	1	3	902	5	Martin	Kandler	M			30	obsluha CNC strojů	Partutovice	99	80	A
-7104	516686	1	3	902	6	Jakub	Šindler	M			27	zámečník - svářeč	Partutovice	99	80	A
-7104	516686	1	3	902	7	Lukáš	Polák	M			26	obchodní manažer	Partutovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7104	516686	1	1	903	1	Jana	Brhelová	Ing.		39	mateřská dovolená	Partutovice	99	80	A	F
+7104	516686	1	2	901	1	Jaroslav	Šindler	Ing.		41	starosta obce	Partutovice	99	80	A	M
+7104	516686	1	3	902	1	Tomáš	Sečkár	Ing.		31	technolog	Partutovice	99	80	A	M
+7104	516686	1	1	903	2	Otakar	Humplík			63	důchodce	Partutovice	99	80	A	M
+7104	516686	1	2	901	2	Zdeněk	Lehnert	Ing.		35	účetní	Partutovice	99	80	A	M
+7104	516686	1	3	902	2	Radim	Polák			29	údržbář	Partutovice	99	80	A	M
+7104	516686	1	1	903	3	Marek	Maršálek			44	mechanik	Partutovice	99	80	A	M
+7104	516686	1	2	901	3	Petra	Azabache	Mgr.		48	učitelka	Partutovice	99	80	A	F
+7104	516686	1	3	902	3	Adam	Šnejdrla			29	řidič - mechanik	Partutovice	99	80	A	M
+7104	516686	1	1	903	4	Tomáš	Klezla			28	strojník	Partutovice	99	80	A	M
+7104	516686	1	2	901	4	Jiří	Lehnert			41	obchodní zástupce	Partutovice	99	80	A	M
+7104	516686	1	3	902	4	Martin	Sendler			45	mistr	Partutovice	99	80	A	M
+7104	516686	1	1	903	5	Martin	Humplík			39	strojní mechanik	Partutovice	99	80	A	M
+7104	516686	1	2	901	5	Pavel	Kandler			50	servisní technik	Partutovice	99	80	A	M
+7104	516686	1	3	902	5	Martin	Kandler			30	obsluha CNC strojů	Partutovice	99	80	A	M
+7104	516686	1	1	903	6	Martin	Polák			51	THP	Partutovice	99	80	A	M
+7104	516686	1	2	901	6	Martin	Kubáč	Ing.		36	servisní technik	Partutovice	99	80	A	M
+7104	516686	1	3	902	6	Jakub	Šindler			27	zámečník - svářeč	Partutovice	99	80	A	M
+7104	516686	1	1	903	7	Kateřina	Plecho	Mgr.		24	technolog výroby	Partutovice	99	80	A	F
+7104	516686	1	2	901	7	Ivona	Kandlerová	Ing.		27	administrativní pracovník	Partutovice	99	80	A	F
+7104	516686	1	3	902	7	Lukáš	Polák			26	obchodní manažer	Partutovice	99	80	A	M
+7104	516686	1	1	903	8	Pavel	Blaha			46	OSVČ	Partutovice	99	80	A	M
+7104	516686	1	2	901	8	Jitka	Baghdady	Bc.		49	učitelka	Partutovice	99	80	A	F
+7104	516686	1	1	903	9	František	Hynčica			61	opatrovník osoby blízké	Partutovice	99	80	A	M
+7104	516686	1	2	901	9	Lenka	Kandlerová	Ing.		50	učitelka	Partutovice	99	80	A	F

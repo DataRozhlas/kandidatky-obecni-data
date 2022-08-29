@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3106	551716	1	1	1	1	Kateřina	Brabcová	F	Mgr.		42	učitelka, místostarostka	Sedlice	99	1	A
-3106	551716	1	1	1	2	Rostislav	Šípek	M			45	OSVČ	Sedlice	99	1	A
-3106	551716	1	1	1	3	Martin	Čapek	M	Ing.		36	vedoucí výroby	Sedlice	99	1	A
-3106	551716	1	1	1	4	Josef	Říha	M			34	automechanik	Holušice	99	1	A
-3106	551716	1	1	1	5	Marie	Vyorálková	F			45	provozní pracovnice	Sedlice	99	1	A
-3106	551716	1	1	1	6	Jana	Bláhová	F	Bc.		55	úřednice	Sedlice	99	1	A
-3106	551716	1	1	1	7	Petra	Brožovská	F	Ing.		55	zootechnik	Sedlice	99	1	A
-3106	551716	1	1	1	8	Marta	Židová	F			45	prodavačka	Sedlice	99	1	A
-3106	551716	1	1	1	9	Miroslav	Šavrda	M			75	penzista	Sedlice	1	1	A
-3106	551716	1	1	1	10	Markéta	Matějovská	F			45	asistent výroby	Sedlice	99	1	A
-3106	551716	1	1	1	11	Anna	Šavrdová	F			48	dělnice	Sedlice	99	1	A
-3106	551716	1	2	901	1	Vladimír	Klíma	M			55	starosta	Sedlice	99	80	A
-3106	551716	1	2	901	2	Hana	Růžičková	F			48	samostatný fakturant	Sedlice	99	80	A
-3106	551716	1	2	901	3	Jakub	Herman	M	Ing.		50	vedoucí obchodního oddělení	Sedlice	99	80	A
-3106	551716	1	2	901	4	Zdeněk	Mikeš	M	Mgr.		36	manažer prodeje	Sedlice	99	80	A
-3106	551716	1	2	901	5	Petr	Obleser	M	Ing.		33	lesník	Mužetice	99	80	A
-3106	551716	1	2	901	6	Jaroslav	Novák	M			51	stavbyvedoucí	Sedlice	99	80	A
-3106	551716	1	2	901	7	Michal	Šindelář	M			39	technik vstupní kontroly	Mužetice	99	80	A
-3106	551716	1	2	901	8	Kateřina	Prexlová	F			41	živnostník	Sedlice	99	80	A
-3106	551716	1	2	901	9	Jana	Hudáková	F	Bc.		45	referentka MěÚ	Sedlice	99	80	A
-3106	551716	1	2	901	10	Marek	Míčka	M			46	stavbyvedoucí	Sedlice	99	80	A
-3106	551716	1	2	901	11	Martin	Mokrý	M			42	procesní technolog	Sedlice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3106	551716	1	1	1	1	Kateřina	Brabcová	Mgr.		42	učitelka, místostarostka	Sedlice	99	1	A	F
+3106	551716	1	2	901	1	Vladimír	Klíma			55	starosta	Sedlice	99	80	A	M
+3106	551716	1	1	1	2	Rostislav	Šípek			45	OSVČ	Sedlice	99	1	A	M
+3106	551716	1	2	901	2	Hana	Růžičková			48	samostatný fakturant	Sedlice	99	80	A	F
+3106	551716	1	1	1	3	Martin	Čapek	Ing.		36	vedoucí výroby	Sedlice	99	1	A	M
+3106	551716	1	2	901	3	Jakub	Herman	Ing.		50	vedoucí obchodního oddělení	Sedlice	99	80	A	M
+3106	551716	1	1	1	4	Josef	Říha			34	automechanik	Holušice	99	1	A	M
+3106	551716	1	2	901	4	Zdeněk	Mikeš	Mgr.		36	manažer prodeje	Sedlice	99	80	A	M
+3106	551716	1	1	1	5	Marie	Vyorálková			45	provozní pracovnice	Sedlice	99	1	A	F
+3106	551716	1	2	901	5	Petr	Obleser	Ing.		33	lesník	Mužetice	99	80	A	M
+3106	551716	1	1	1	6	Jana	Bláhová	Bc.		55	úřednice	Sedlice	99	1	A	F
+3106	551716	1	2	901	6	Jaroslav	Novák			51	stavbyvedoucí	Sedlice	99	80	A	M
+3106	551716	1	1	1	7	Petra	Brožovská	Ing.		55	zootechnik	Sedlice	99	1	A	F
+3106	551716	1	2	901	7	Michal	Šindelář			39	technik vstupní kontroly	Mužetice	99	80	A	M
+3106	551716	1	1	1	8	Marta	Židová			45	prodavačka	Sedlice	99	1	A	F
+3106	551716	1	2	901	8	Kateřina	Prexlová			41	živnostník	Sedlice	99	80	A	F
+3106	551716	1	1	1	9	Miroslav	Šavrda			75	penzista	Sedlice	1	1	A	M
+3106	551716	1	2	901	9	Jana	Hudáková	Bc.		45	referentka MěÚ	Sedlice	99	80	A	F
+3106	551716	1	1	1	10	Markéta	Matějovská			45	asistent výroby	Sedlice	99	1	A	F
+3106	551716	1	2	901	10	Marek	Míčka			46	stavbyvedoucí	Sedlice	99	80	A	M
+3106	551716	1	1	1	11	Anna	Šavrdová			48	dělnice	Sedlice	99	1	A	F
+3106	551716	1	2	901	11	Martin	Mokrý			42	procesní technolog	Sedlice	99	80	A	M

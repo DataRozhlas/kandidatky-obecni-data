@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3207	541486	1	1	901	1	Jaroslava	Bezděkovská	F			42	podnikatelka	Prostiboř	99	80	0
-3207	541486	1	1	901	2	Bohumil	Kůs	M			63	důchodce	Telice	99	80	0
-3207	541486	1	1	901	3	Pavel	Jakobe	M	Ing.		31	ekonom	Kopec	99	80	0
-3207	541486	1	1	901	4	Jiří	Češka	M			28	podnikatel	Prostiboř	99	80	0
-3207	541486	1	1	901	5	Jana	Zmeškalová	F			45	nezaměstnaná	Prostiboř	99	80	0
-3207	541486	1	1	901	6	Michaela	Češková	F			26	dělnice	Prostiboř	99	80	0
-3207	541486	1	2	47	1	Jan	Polčák	M			56	důchodce	Prostiboř	47	47	0
-3207	541486	1	2	47	2	Karel	Kotschy	M			65	obráběč kovů	Telice	99	47	0
-3207	541486	1	2	47	3	Zbyněk	Valeš	M			29	dělník	Prostiboř	99	47	0
-3207	541486	1	2	47	4	Viera	Mačurová	F			53	administrativní pracovnice	Prostiboř	47	47	0
-3207	541486	1	2	47	5	Václav	Beneš	M			54	dělník	Prostiboř	47	47	0
-3207	541486	1	2	47	6	Jaroslav	Hofman	M			79	důchodce	Prostiboř	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3207	541486	1	1	901	1	Jaroslava	Bezděkovská			42	podnikatelka	Prostiboř	99	80	0	F
+3207	541486	1	2	47	1	Jan	Polčák			56	důchodce	Prostiboř	47	47	0	M
+3207	541486	1	1	901	2	Bohumil	Kůs			63	důchodce	Telice	99	80	0	M
+3207	541486	1	2	47	2	Karel	Kotschy			65	obráběč kovů	Telice	99	47	0	M
+3207	541486	1	1	901	3	Pavel	Jakobe	Ing.		31	ekonom	Kopec	99	80	0	M
+3207	541486	1	2	47	3	Zbyněk	Valeš			29	dělník	Prostiboř	99	47	0	M
+3207	541486	1	1	901	4	Jiří	Češka			28	podnikatel	Prostiboř	99	80	0	M
+3207	541486	1	2	47	4	Viera	Mačurová			53	administrativní pracovnice	Prostiboř	47	47	0	F
+3207	541486	1	1	901	5	Jana	Zmeškalová			45	nezaměstnaná	Prostiboř	99	80	0	F
+3207	541486	1	2	47	5	Václav	Beneš			54	dělník	Prostiboř	47	47	0	M
+3207	541486	1	1	901	6	Michaela	Češková			26	dělnice	Prostiboř	99	80	0	F
+3207	541486	1	2	47	6	Jaroslav	Hofman			79	důchodce	Prostiboř	47	47	0	M

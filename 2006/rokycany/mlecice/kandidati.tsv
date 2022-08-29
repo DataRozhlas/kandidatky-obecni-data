@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3206	560006	1	1	901	1	Václav	Král	M	Mgr.	CSc.	60	učitel	Skoupý	99	80	0
-3206	560006	1	1	901	2	Zdeněk	Vrána	M			57	údržbář	Skoupý	99	80	0
-3206	560006	1	1	901	3	Josef	Houda	M			62	důchdce	Prašný Újezd	99	80	0
-3206	560006	1	1	901	4	Josef	Trejbal	M			45	opravář	Prašný Újezd	99	80	0
-3206	560006	1	1	901	5	Václav	Klíma	M			47	vedoucí střediska	Skoupý	99	80	0
-3206	560006	1	2	902	1	Jaromír	Křejdl	M			44	řidič	Mlečice	99	80	0
-3206	560006	1	2	902	2	Josef	Beneš	M			67	důchodce	Mlečice	99	80	0
-3206	560006	1	2	902	3	Pavel	Smola	M			36	traktorista	Mlečice	99	80	0
-3206	560006	1	2	902	4	Michal	Kolář	M			27	řidič	Mlečice	99	80	0
-3206	560006	1	2	902	5	Radek	Tysl	M			26	opravář	Mlečice	99	80	0
-3206	560006	1	2	902	6	Jana	Andělová	F			50	vychovatelka	Mlečice	99	80	0
-3206	560006	1	2	902	7	Pavel	Smrž	M			23	zámečník	Mlečice	99	80	0
-3206	560006	1	2	902	8	František	Pravda	M			61	nezaměstnaný	Mlečice	99	80	0
-3206	560006	1	2	902	9	Roman	Vondrášek	M			34	lakýrník	Mlečice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3206	560006	1	1	901	1	Václav	Král	Mgr.	CSc.	60	učitel	Skoupý	99	80	0	M
+3206	560006	1	2	902	1	Jaromír	Křejdl			44	řidič	Mlečice	99	80	0	M
+3206	560006	1	1	901	2	Zdeněk	Vrána			57	údržbář	Skoupý	99	80	0	M
+3206	560006	1	2	902	2	Josef	Beneš			67	důchodce	Mlečice	99	80	0	M
+3206	560006	1	1	901	3	Josef	Houda			62	důchdce	Prašný Újezd	99	80	0	M
+3206	560006	1	2	902	3	Pavel	Smola			36	traktorista	Mlečice	99	80	0	M
+3206	560006	1	1	901	4	Josef	Trejbal			45	opravář	Prašný Újezd	99	80	0	M
+3206	560006	1	2	902	4	Michal	Kolář			27	řidič	Mlečice	99	80	0	M
+3206	560006	1	1	901	5	Václav	Klíma			47	vedoucí střediska	Skoupý	99	80	0	M
+3206	560006	1	2	902	5	Radek	Tysl			26	opravář	Mlečice	99	80	0	M
+3206	560006	1	2	902	6	Jana	Andělová			50	vychovatelka	Mlečice	99	80	0	F
+3206	560006	1	2	902	7	Pavel	Smrž			23	zámečník	Mlečice	99	80	0	M
+3206	560006	1	2	902	8	František	Pravda			61	nezaměstnaný	Mlečice	99	80	0	M
+3206	560006	1	2	902	9	Roman	Vondrášek			34	lakýrník	Mlečice	99	80	0	M

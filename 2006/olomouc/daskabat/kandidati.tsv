@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	552445	1	1	801	1	Darina	Zedková	F			27	podnikatelka	Daskabát	99	80	0
-7102	552445	1	2	802	1	Eva	Hudcová	F			34	mateřská dovolená	Daskabát	99	80	0
-7102	552445	1	3	901	1	Ivana	Malíšková	F			39	projektantka, t.č. na mat.dov.	Daskabát	99	80	0
-7102	552445	1	3	901	2	Václav	Drábek	M			50	stavební technik	Daskabát	99	80	0
-7102	552445	1	3	901	3	Zdeněk	Gregor	M			38	podnikatel	Daskabát	99	80	0
-7102	552445	1	3	901	4	Dan	Šufner	M			37	podnikatel	Daskabát	99	80	0
-7102	552445	1	4	158	1	Antonín	Venclík	M			55	starosta	Daskabát	99	158	0
-7102	552445	1	4	158	2	Radim	Pazdera	M	Ing.		28	technolog	Daskabát	99	158	0
-7102	552445	1	4	158	3	Bohumila	Špaková	F			56	inženýr železniční dopravy	Daskabát	99	158	0
-7102	552445	1	4	158	4	Petr	Palík	M	Ing.		47	podnikatel	Daskabát	99	158	0
-7102	552445	1	4	158	5	Slavomír	Dostalík	M			61	podnikatel	Daskabát	99	158	0
-7102	552445	1	4	158	6	Josef	Hudec	M			33	podnikatel	Daskabát	99	158	0
-7102	552445	1	4	158	7	Pavel	Rokyta	M			36	stolař	Daskabát	99	158	0
-7102	552445	1	4	158	8	Svatopluk	Zdařil	M			62	důchodce	Daskabát	99	158	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	552445	1	1	801	1	Darina	Zedková			27	podnikatelka	Daskabát	99	80	0	F
+7102	552445	1	2	802	1	Eva	Hudcová			34	mateřská dovolená	Daskabát	99	80	0	F
+7102	552445	1	3	901	1	Ivana	Malíšková			39	projektantka, t.č. na mat.dov.	Daskabát	99	80	0	F
+7102	552445	1	4	158	1	Antonín	Venclík			55	starosta	Daskabát	99	158	0	M
+7102	552445	1	3	901	2	Václav	Drábek			50	stavební technik	Daskabát	99	80	0	M
+7102	552445	1	4	158	2	Radim	Pazdera	Ing.		28	technolog	Daskabát	99	158	0	M
+7102	552445	1	3	901	3	Zdeněk	Gregor			38	podnikatel	Daskabát	99	80	0	M
+7102	552445	1	4	158	3	Bohumila	Špaková			56	inženýr železniční dopravy	Daskabát	99	158	0	F
+7102	552445	1	3	901	4	Dan	Šufner			37	podnikatel	Daskabát	99	80	0	M
+7102	552445	1	4	158	4	Petr	Palík	Ing.		47	podnikatel	Daskabát	99	158	0	M
+7102	552445	1	4	158	5	Slavomír	Dostalík			61	podnikatel	Daskabát	99	158	0	M
+7102	552445	1	4	158	6	Josef	Hudec			33	podnikatel	Daskabát	99	158	0	M
+7102	552445	1	4	158	7	Pavel	Rokyta			36	stolař	Daskabát	99	158	0	M
+7102	552445	1	4	158	8	Svatopluk	Zdařil			62	důchodce	Daskabát	99	158	0	M

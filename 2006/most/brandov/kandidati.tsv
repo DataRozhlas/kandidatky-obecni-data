@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4205	567078	1	1	53	1	Milan	Stejskal	M			51	tesař	Brandov	53	53	0
-4205	567078	1	1	53	2	Alois	Bartík	M			55	soukromý podnikatel	Brandov	99	53	0
-4205	567078	1	1	53	3	Jaroslava	Zachariášová	F			56	hradlařka	Brandov	53	53	0
-4205	567078	1	1	53	4	Stanislava	Pavlíčková	F			57	administrativní pracovnice	Brandov	99	53	0
-4205	567078	1	1	53	5	Petra	Fraňková	F			26	v domácnosti	Brandov	53	53	0
-4205	567078	1	1	53	6	Václav	Wild	M			60	soukromý podnikatel	Brandov	99	53	0
-4205	567078	1	1	53	7	Otakar	Pavlíček	M			57	obchodní zástupce	Brandov	99	53	0
-4205	567078	1	2	901	1	Jiří	Mooz	M			41	podnikatel	Brandov	99	80	0
-4205	567078	1	2	901	2	Marcel	Čondl	M			32	živnostník	Brandov	99	80	0
-4205	567078	1	2	901	3	Zbyněk	Vítr	M			43	řidič	Brandov	99	80	0
-4205	567078	1	2	901	4	Richard	Schandara	M			38	mechanik	Brandov	99	80	0
-4205	567078	1	2	901	5	Zdeněk	Kopecký	M			54	podnikatel	Brandov	99	80	0
-4205	567078	1	2	901	6	Libuše	Wildová	F			59	důchodkyně	Brandov	99	80	0
-4205	567078	1	2	901	7	Ilona	Vítrová	F			38	důchodkyně	Brandov	99	80	0
-4205	567078	1	2	901	8	Denisa	Millerová	F			30	v domácnosti	Brandov	99	80	0
-4205	567078	1	2	901	9	Ladislav	Kraft	M			22	automechanik	Brandov	99	80	0
-4205	567078	1	3	47	1	Otakar	Kulhánek	M			76	důchodce	Brandov	47	47	0
-4205	567078	1	3	47	2	Simona	Studničková	F			38	laborantka	Brandov	99	47	0
-4205	567078	1	3	47	3	Vilém	Gröger	M			46	podnikatel	Brandov	99	47	0
-4205	567078	1	3	47	4	Jiří	Vokřál	M	Ing. Bc.		35	státní zaměstnanec	Brandov	99	47	0
-4205	567078	1	3	47	5	Robert	Strnad	M			42	řidič	Brandov	99	47	0
-4205	567078	1	3	47	6	Jan	Maštalíř	M			64	důchodce	Brandov	47	47	0
-4205	567078	1	3	47	7	Patrik	Studnička	M			32	státní zaměstnanec	Brandov	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4205	567078	1	1	53	1	Milan	Stejskal			51	tesař	Brandov	53	53	0	M
+4205	567078	1	2	901	1	Jiří	Mooz			41	podnikatel	Brandov	99	80	0	M
+4205	567078	1	3	47	1	Otakar	Kulhánek			76	důchodce	Brandov	47	47	0	M
+4205	567078	1	1	53	2	Alois	Bartík			55	soukromý podnikatel	Brandov	99	53	0	M
+4205	567078	1	2	901	2	Marcel	Čondl			32	živnostník	Brandov	99	80	0	M
+4205	567078	1	3	47	2	Simona	Studničková			38	laborantka	Brandov	99	47	0	F
+4205	567078	1	1	53	3	Jaroslava	Zachariášová			56	hradlařka	Brandov	53	53	0	F
+4205	567078	1	2	901	3	Zbyněk	Vítr			43	řidič	Brandov	99	80	0	M
+4205	567078	1	3	47	3	Vilém	Gröger			46	podnikatel	Brandov	99	47	0	M
+4205	567078	1	1	53	4	Stanislava	Pavlíčková			57	administrativní pracovnice	Brandov	99	53	0	F
+4205	567078	1	2	901	4	Richard	Schandara			38	mechanik	Brandov	99	80	0	M
+4205	567078	1	3	47	4	Jiří	Vokřál	Ing. Bc.		35	státní zaměstnanec	Brandov	99	47	0	M
+4205	567078	1	1	53	5	Petra	Fraňková			26	v domácnosti	Brandov	53	53	0	F
+4205	567078	1	2	901	5	Zdeněk	Kopecký			54	podnikatel	Brandov	99	80	0	M
+4205	567078	1	3	47	5	Robert	Strnad			42	řidič	Brandov	99	47	0	M
+4205	567078	1	1	53	6	Václav	Wild			60	soukromý podnikatel	Brandov	99	53	0	M
+4205	567078	1	2	901	6	Libuše	Wildová			59	důchodkyně	Brandov	99	80	0	F
+4205	567078	1	3	47	6	Jan	Maštalíř			64	důchodce	Brandov	47	47	0	M
+4205	567078	1	1	53	7	Otakar	Pavlíček			57	obchodní zástupce	Brandov	99	53	0	M
+4205	567078	1	2	901	7	Ilona	Vítrová			38	důchodkyně	Brandov	99	80	0	F
+4205	567078	1	3	47	7	Patrik	Studnička			32	státní zaměstnanec	Brandov	99	47	0	M
+4205	567078	1	2	901	8	Denisa	Millerová			30	v domácnosti	Brandov	99	80	0	F
+4205	567078	1	2	901	9	Ladislav	Kraft			22	automechanik	Brandov	99	80	0	M

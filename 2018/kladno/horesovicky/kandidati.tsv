@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	535150	1	1	905	1	Pavel	TROJÁK	M			44	obsluha stroje	Hořešovičky	99	80	A
-2103	535150	1	1	905	2	Radek	VAŇKÁT	M			41	údržbář	Hořešovičky	1114	80	A
-2103	535150	1	1	905	3	Anna	MALÁ	F			19	studentka	Hořešovičky	99	80	A
-2103	535150	1	1	905	4	Sabina	PROKOPOVÁ	F			18	kadeřnice	Hořešovičky	99	80	A
-2103	535150	1	1	905	5	Lucie	STREUBELOVÁ	F			33	školnice	Hořešovičky	99	80	A
-2103	535150	1	2	904	1	Josef	RUBEŠ	M			41	soukromý zemědělec	Hořešovičky	99	80	A
-2103	535150	1	2	904	2	Renata	RICHTROVÁ	F		DiS.	41	specialista odd. PNP a DOZP	Hořešovičky	99	80	A
-2103	535150	1	2	904	3	Jaroslav	HORÁK	M			34	OSVČ	Hořešovičky	99	80	A
-2103	535150	1	2	904	4	Petr	SNOP	M			69	důchodce	Hořešovičky	99	80	A
-2103	535150	1	2	904	5	Lenka	PROKOPOVÁ	F			43	operátor výroby	Hořešovičky	99	80	A
-2103	535150	1	3	901	1	Drahomíra	HORÁKOVÁ	F			57	prodavačka	Hořešovičky	99	80	A
-2103	535150	1	3	901	2	Alena	VAŇKÁTOVÁ	F			40	operátor ve výrobě	Hořešovičky	99	80	A
-2103	535150	1	3	901	3	Eva	BERÁNKOVÁ	F			63	kuchařka	Hořešovičky	99	80	A
-2103	535150	1	3	901	4	Marie	ZÁZVORKOVÁ	F			65	důchodkyně	Hořešovičky	99	80	A
-2103	535150	1	3	901	5	Irena	RICHTROVÁ	F			63	důchodkyně	Hořešovičky	99	80	A
-2103	535150	1	4	903	1	Jiří	SNOP st.	M	Ing.		60	soukromý zemědělec	Hořešovičky	99	80	A
-2103	535150	1	4	903	2	Iva	HLAVSOVÁ	F			37	ergoterapeut	Hořešovičky	99	80	A
-2103	535150	1	4	903	3	Vladimír	ČEPÁK	M			64	důchodce	Hořešovičky	99	80	A
-2103	535150	1	4	903	4	Radim	HUML	M			40	truhlář	Hořešovičky	99	80	A
-2103	535150	1	4	903	5	Josef	FRIEDRICH	M	JUDr.		62	právník	Hořešovičky	99	80	A
-2103	535150	1	5	902	1	Pavel	MORAVEC	M			39	technik letadel	Hořešovičky	99	80	A
-2103	535150	1	5	902	2	Jiří	HLAVSA	M			42	autoopravář	Hořešovičky	99	80	A
-2103	535150	1	5	902	3	Jiří	SNOP ml.	M			18	student	Hořešovičky	99	80	A
-2103	535150	1	5	902	4	Vladimíra	SNOPOVÁ	F	Mgr.		51	učitelka	Hořešovičky	99	80	A
-2103	535150	1	5	902	5	Danuše	DIBELKOVÁ	F			78	důchodce	Hořešovičky	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	535150	1	1	905	1	Pavel	TROJÁK			44	obsluha stroje	Hořešovičky	99	80	A	M
+2103	535150	1	2	904	1	Josef	RUBEŠ			41	soukromý zemědělec	Hořešovičky	99	80	A	M
+2103	535150	1	3	901	1	Drahomíra	HORÁKOVÁ			57	prodavačka	Hořešovičky	99	80	A	F
+2103	535150	1	4	903	1	Jiří	SNOP st.	Ing.		60	soukromý zemědělec	Hořešovičky	99	80	A	M
+2103	535150	1	5	902	1	Pavel	MORAVEC			39	technik letadel	Hořešovičky	99	80	A	M
+2103	535150	1	1	905	2	Radek	VAŇKÁT			41	údržbář	Hořešovičky	1114	80	A	M
+2103	535150	1	2	904	2	Renata	RICHTROVÁ		DiS.	41	specialista odd. PNP a DOZP	Hořešovičky	99	80	A	F
+2103	535150	1	3	901	2	Alena	VAŇKÁTOVÁ			40	operátor ve výrobě	Hořešovičky	99	80	A	F
+2103	535150	1	4	903	2	Iva	HLAVSOVÁ			37	ergoterapeut	Hořešovičky	99	80	A	F
+2103	535150	1	5	902	2	Jiří	HLAVSA			42	autoopravář	Hořešovičky	99	80	A	M
+2103	535150	1	1	905	3	Anna	MALÁ			19	studentka	Hořešovičky	99	80	A	F
+2103	535150	1	2	904	3	Jaroslav	HORÁK			34	OSVČ	Hořešovičky	99	80	A	M
+2103	535150	1	3	901	3	Eva	BERÁNKOVÁ			63	kuchařka	Hořešovičky	99	80	A	F
+2103	535150	1	4	903	3	Vladimír	ČEPÁK			64	důchodce	Hořešovičky	99	80	A	M
+2103	535150	1	5	902	3	Jiří	SNOP ml.			18	student	Hořešovičky	99	80	A	M
+2103	535150	1	1	905	4	Sabina	PROKOPOVÁ			18	kadeřnice	Hořešovičky	99	80	A	F
+2103	535150	1	2	904	4	Petr	SNOP			69	důchodce	Hořešovičky	99	80	A	M
+2103	535150	1	3	901	4	Marie	ZÁZVORKOVÁ			65	důchodkyně	Hořešovičky	99	80	A	F
+2103	535150	1	4	903	4	Radim	HUML			40	truhlář	Hořešovičky	99	80	A	M
+2103	535150	1	5	902	4	Vladimíra	SNOPOVÁ	Mgr.		51	učitelka	Hořešovičky	99	80	A	F
+2103	535150	1	1	905	5	Lucie	STREUBELOVÁ			33	školnice	Hořešovičky	99	80	A	F
+2103	535150	1	2	904	5	Lenka	PROKOPOVÁ			43	operátor výroby	Hořešovičky	99	80	A	F
+2103	535150	1	3	901	5	Irena	RICHTROVÁ			63	důchodkyně	Hořešovičky	99	80	A	F
+2103	535150	1	4	903	5	Josef	FRIEDRICH	JUDr.		62	právník	Hořešovičky	99	80	A	M
+2103	535150	1	5	902	5	Danuše	DIBELKOVÁ			78	důchodce	Hořešovičky	99	80	A	F

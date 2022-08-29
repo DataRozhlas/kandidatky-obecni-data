@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	572594	1	1	902	1	Zuzana	Neznajová	F	Ing.		58	zaměstnanec LČR	Kukle	99	80	A
-5303	572594	1	1	902	2	Milan	Helešic	M			50	OSVČ	Kukle	99	80	A
-5303	572594	1	1	902	3	Miroslav	Dolejš	M			50	podnikatel	Kukle	99	80	A
-5303	572594	1	1	902	4	Hynek	Stříteský	M	Mgr.		41	ředitel Městského muzea a galerie Svitavy	Kukle	99	80	A
-5303	572594	1	1	902	5	Petr	Bodeček	M			61	OSVČ	Kukle	99	80	A
-5303	572594	1	1	902	6	Jiří	Bulva	M			54	OSVČ	Kukle	99	80	A
-5303	572594	1	1	902	7	Ivana	Zemanová	F	Ing.		58	ředitelka TC	Kukle	99	80	A
-5303	572594	1	1	902	8	Jana	Pecháčková	F			58	OSVČ	Kukle	99	80	A
-5303	572594	1	1	902	9	Jitka	Sobotková	F			56	učitelka	Kukle	99	80	A
-5303	572594	1	2	901	1	Vladislava	Luňáčková	F			48	prodavačka	Kukle	99	80	A
-5303	572594	1	2	901	2	Čeněk	Volkov	M			41	směnový mistr	Kukle	99	80	A
-5303	572594	1	2	901	3	Václav	Jirásek	M			49	živnostník	Kukle	99	80	A
-5303	572594	1	2	901	4	Lenka	Bulvová	F			57	zdravotní sestra	Kukle	99	80	A
-5303	572594	1	2	901	5	Lenka	Horvátová	F			42	účetní	Kukle	99	80	A
-5303	572594	1	2	901	6	Pavel	Svoboda	M			56	dělník	Kukle	99	80	A
-5303	572594	1	2	901	7	Jindra	Jurenková	F			56	prodavačka	Kukle	99	80	A
-5303	572594	1	2	901	8	Božena	Vanišová	F			69	důchodce	Kukle	99	80	A
-5303	572594	1	2	901	9	Josef	Sedlický	M			69	důchodce	Kukle	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	572594	1	1	902	1	Zuzana	Neznajová	Ing.		58	zaměstnanec LČR	Kukle	99	80	A	F
+5303	572594	1	2	901	1	Vladislava	Luňáčková			48	prodavačka	Kukle	99	80	A	F
+5303	572594	1	1	902	2	Milan	Helešic			50	OSVČ	Kukle	99	80	A	M
+5303	572594	1	2	901	2	Čeněk	Volkov			41	směnový mistr	Kukle	99	80	A	M
+5303	572594	1	1	902	3	Miroslav	Dolejš			50	podnikatel	Kukle	99	80	A	M
+5303	572594	1	2	901	3	Václav	Jirásek			49	živnostník	Kukle	99	80	A	M
+5303	572594	1	1	902	4	Hynek	Stříteský	Mgr.		41	ředitel Městského muzea a galerie Svitavy	Kukle	99	80	A	M
+5303	572594	1	2	901	4	Lenka	Bulvová			57	zdravotní sestra	Kukle	99	80	A	F
+5303	572594	1	1	902	5	Petr	Bodeček			61	OSVČ	Kukle	99	80	A	M
+5303	572594	1	2	901	5	Lenka	Horvátová			42	účetní	Kukle	99	80	A	F
+5303	572594	1	1	902	6	Jiří	Bulva			54	OSVČ	Kukle	99	80	A	M
+5303	572594	1	2	901	6	Pavel	Svoboda			56	dělník	Kukle	99	80	A	M
+5303	572594	1	1	902	7	Ivana	Zemanová	Ing.		58	ředitelka TC	Kukle	99	80	A	F
+5303	572594	1	2	901	7	Jindra	Jurenková			56	prodavačka	Kukle	99	80	A	F
+5303	572594	1	1	902	8	Jana	Pecháčková			58	OSVČ	Kukle	99	80	A	F
+5303	572594	1	2	901	8	Božena	Vanišová			69	důchodce	Kukle	99	80	A	F
+5303	572594	1	1	902	9	Jitka	Sobotková			56	učitelka	Kukle	99	80	A	F
+5303	572594	1	2	901	9	Josef	Sedlický			69	důchodce	Kukle	99	80	A	M

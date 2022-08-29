@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	565075	1	1	47	1	Radek	Milka	M			33	zámečník	Křesín	99	47	0
-4203	565075	1	1	47	2	Jaroslav	Chlouba	M			52	automechanik	Křesín	47	47	0
-4203	565075	1	1	47	3	Antonín	Šup	M			43	zemědělec	Levousy	99	47	0
-4203	565075	1	1	47	4	Václav	Krunt	M			51	zedník	Křesín	99	47	0
-4203	565075	1	1	47	5	Rostislav	Křivan	M			37	elektromontér	Křesín	99	47	0
-4203	565075	1	1	47	6	Václav	Procházka	M			45	tesař	Křesín	99	47	0
-4203	565075	1	1	47	7	Zdeněk	Smetana	M			35	řidič	Křesín	99	47	0
-4203	565075	1	2	901	1	Karel	Menhart	M	Ing.		43	ekonom	Křesín	99	80	0
-4203	565075	1	2	901	2	Alena	Makovicová	F			62	důchodkyně	Křesín	99	80	0
-4203	565075	1	2	901	3	Lenka	Milková	F	Ing.		33	ekonomka	Křesín	99	80	0
-4203	565075	1	2	901	4	Zdeněk	Hažmuka	M	Ing.		53	výrobní ředitel	Křesín	99	80	0
-4203	565075	1	2	901	5	Ladislav	Lochman	M			28	soukromý podnikatel	Křesín	99	80	0
-4203	565075	1	2	901	6	Miloš	Dragoun	M			63	důchodce	Křesín	99	80	0
-4203	565075	1	2	901	7	Pavel	Valenta	M			37	truhlář	Křesín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	565075	1	1	47	1	Radek	Milka			33	zámečník	Křesín	99	47	0	M
+4203	565075	1	2	901	1	Karel	Menhart	Ing.		43	ekonom	Křesín	99	80	0	M
+4203	565075	1	1	47	2	Jaroslav	Chlouba			52	automechanik	Křesín	47	47	0	M
+4203	565075	1	2	901	2	Alena	Makovicová			62	důchodkyně	Křesín	99	80	0	F
+4203	565075	1	1	47	3	Antonín	Šup			43	zemědělec	Levousy	99	47	0	M
+4203	565075	1	2	901	3	Lenka	Milková	Ing.		33	ekonomka	Křesín	99	80	0	F
+4203	565075	1	1	47	4	Václav	Krunt			51	zedník	Křesín	99	47	0	M
+4203	565075	1	2	901	4	Zdeněk	Hažmuka	Ing.		53	výrobní ředitel	Křesín	99	80	0	M
+4203	565075	1	1	47	5	Rostislav	Křivan			37	elektromontér	Křesín	99	47	0	M
+4203	565075	1	2	901	5	Ladislav	Lochman			28	soukromý podnikatel	Křesín	99	80	0	M
+4203	565075	1	1	47	6	Václav	Procházka			45	tesař	Křesín	99	47	0	M
+4203	565075	1	2	901	6	Miloš	Dragoun			63	důchodce	Křesín	99	80	0	M
+4203	565075	1	1	47	7	Zdeněk	Smetana			35	řidič	Křesín	99	47	0	M
+4203	565075	1	2	901	7	Pavel	Valenta			37	truhlář	Křesín	99	80	0	M

@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	593524	1	1	901	1	Karel	Školař	M			57	podnikatel	Radslavice	99	80	A
-6206	593524	1	1	901	2	Jiří	Navrátil	M			41	podnikatel	Radslavičky	99	80	A
-6206	593524	1	1	901	3	Jana	Szkutová	F			35	učitelka	Radslavice	99	80	A
-6206	593524	1	1	901	4	Róbert	Rajci	M			52	lékař	Radslavice	99	80	A
-6206	593524	1	1	901	5	Martin	Adamec	M			38	strojník	Radslavice	99	80	A
-6206	593524	1	1	901	6	Věra	Marková	F			59	specialista obchodu	Radslavice	99	80	A
-6206	593524	1	1	901	7	Jan	Školař	M			23	student	Radslavice	99	80	A
-6206	593524	1	1	901	8	Jakub	Šmíd	M			26	řidič autobusu	Radslavice	99	80	A
-6206	593524	1	1	901	9	Helena	Kolkopová	F			64	důchodkyně	Radslavice	99	80	A
-6206	593524	1	2	7	1	Marek	Doležal	M			42	podnikatel	Radslavice	99	7	A
-6206	593524	1	2	7	2	Milan	Pazdera	M	Ing.		57	lektor	Radslavice	7	7	A
-6206	593524	1	2	7	3	Lenka	Konečná	F			34	referentka	Radslavice	99	7	A
-6206	593524	1	2	7	4	Miloslav	Dolejš	M	Ing.		57	nepedagogický pracovník	Radslavičky	99	7	A
-6206	593524	1	2	7	5	Zdeněk	Jelínek	M			48	technik	Radslavičky	99	7	A
-6206	593524	1	2	7	6	Jitka	Ambrožová	F		DiS.	39	úředník	Radslavice	99	7	A
-6206	593524	1	2	7	7	Josef	Sedlák	M	Ing.		57	lektor, instruktor	Radslavice	99	7	A
-6206	593524	1	2	7	8	Kamila	Ising	F	Ing.		40	projektant	Radslavice	99	7	A
-6206	593524	1	2	7	9	Martin	Ježek	M			58	publicista	Radslavice	99	7	N
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	593524	1	1	901	1	Karel	Školař			57	podnikatel	Radslavice	99	80	A	M
+6206	593524	1	2	7	1	Marek	Doležal			42	podnikatel	Radslavice	99	7	A	M
+6206	593524	1	1	901	2	Jiří	Navrátil			41	podnikatel	Radslavičky	99	80	A	M
+6206	593524	1	2	7	2	Milan	Pazdera	Ing.		57	lektor	Radslavice	7	7	A	M
+6206	593524	1	1	901	3	Jana	Szkutová			35	učitelka	Radslavice	99	80	A	F
+6206	593524	1	2	7	3	Lenka	Konečná			34	referentka	Radslavice	99	7	A	F
+6206	593524	1	1	901	4	Róbert	Rajci			52	lékař	Radslavice	99	80	A	M
+6206	593524	1	2	7	4	Miloslav	Dolejš	Ing.		57	nepedagogický pracovník	Radslavičky	99	7	A	M
+6206	593524	1	1	901	5	Martin	Adamec			38	strojník	Radslavice	99	80	A	M
+6206	593524	1	2	7	5	Zdeněk	Jelínek			48	technik	Radslavičky	99	7	A	M
+6206	593524	1	1	901	6	Věra	Marková			59	specialista obchodu	Radslavice	99	80	A	F
+6206	593524	1	2	7	6	Jitka	Ambrožová		DiS.	39	úředník	Radslavice	99	7	A	F
+6206	593524	1	1	901	7	Jan	Školař			23	student	Radslavice	99	80	A	M
+6206	593524	1	2	7	7	Josef	Sedlák	Ing.		57	lektor, instruktor	Radslavice	99	7	A	M
+6206	593524	1	1	901	8	Jakub	Šmíd			26	řidič autobusu	Radslavice	99	80	A	M
+6206	593524	1	2	7	8	Kamila	Ising	Ing.		40	projektant	Radslavice	99	7	A	F
+6206	593524	1	1	901	9	Helena	Kolkopová			64	důchodkyně	Radslavice	99	80	A	F
+6206	593524	1	2	7	9	Martin	Ježek			58	publicista	Radslavice	99	7	N	M

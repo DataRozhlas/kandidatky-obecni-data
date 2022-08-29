@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	595624	1	1	129	1	Pavel	Michal	M	Mgr.		54	učitel	Hodíškov	99	129	0
-6105	595624	1	1	129	2	Miluše	Šamlová	F			47	OSVČ	Hodíškov	99	129	0
-6105	595624	1	1	129	3	Jiří	Kříž	M			31	montážní dělník	Hodíškov	99	129	0
-6105	595624	1	1	129	4	Roman	Skoupý	M			32	montážní dělník	Hodíškov	99	129	0
-6105	595624	1	1	129	5	Zdeněk	Juda	M			24	technik	Hodíškov	99	129	0
-6105	595624	1	2	53	1	Oldřich	Ondráček	M	Ing.		61	úředník	Hodíškov	53	53	0
-6105	595624	1	2	53	2	Vladimír	Peňáz	M			42	ošetřovatel skotu	Hodíškov	99	53	0
-6105	595624	1	2	53	3	Milan	Doležal	M			41	mistr	Hodíškov	99	53	0
-6105	595624	1	2	53	4	Jan	Sobotka	M			32	podnikatel	Hodíškov	99	53	0
-6105	595624	1	2	53	5	Dana	Ondráčková	F			40	ošetřovatelka skotu	Hodíškov	99	53	0
-6105	595624	1	3	7	1	Zdeňka	Burianová	F	PaedDr.		62	důchodkyně	Hodíškov	99	7	0
-6105	595624	1	3	7	2	Lucie	Straková	F	Ing.		28	účednice	Hodíškov	99	7	0
-6105	595624	1	3	7	3	Ferdinand	Štrankmüller	M			65	důchodce	Hodíškov	99	7	0
-6105	595624	1	3	7	4	Karel	Nevrkla	M			49	traktorista	Hodíškov	99	7	0
-6105	595624	1	3	7	5	Libor	Michal	M			23	dělník	Hodíškov	99	7	0
-6105	595624	1	3	7	6	Jaroslav	Ondráček	M			21	traktorista	Hodíškov	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	595624	1	1	129	1	Pavel	Michal	Mgr.		54	učitel	Hodíškov	99	129	0	M
+6105	595624	1	2	53	1	Oldřich	Ondráček	Ing.		61	úředník	Hodíškov	53	53	0	M
+6105	595624	1	3	7	1	Zdeňka	Burianová	PaedDr.		62	důchodkyně	Hodíškov	99	7	0	F
+6105	595624	1	1	129	2	Miluše	Šamlová			47	OSVČ	Hodíškov	99	129	0	F
+6105	595624	1	2	53	2	Vladimír	Peňáz			42	ošetřovatel skotu	Hodíškov	99	53	0	M
+6105	595624	1	3	7	2	Lucie	Straková	Ing.		28	účednice	Hodíškov	99	7	0	F
+6105	595624	1	1	129	3	Jiří	Kříž			31	montážní dělník	Hodíškov	99	129	0	M
+6105	595624	1	2	53	3	Milan	Doležal			41	mistr	Hodíškov	99	53	0	M
+6105	595624	1	3	7	3	Ferdinand	Štrankmüller			65	důchodce	Hodíškov	99	7	0	M
+6105	595624	1	1	129	4	Roman	Skoupý			32	montážní dělník	Hodíškov	99	129	0	M
+6105	595624	1	2	53	4	Jan	Sobotka			32	podnikatel	Hodíškov	99	53	0	M
+6105	595624	1	3	7	4	Karel	Nevrkla			49	traktorista	Hodíškov	99	7	0	M
+6105	595624	1	1	129	5	Zdeněk	Juda			24	technik	Hodíškov	99	129	0	M
+6105	595624	1	2	53	5	Dana	Ondráčková			40	ošetřovatelka skotu	Hodíškov	99	53	0	F
+6105	595624	1	3	7	5	Libor	Michal			23	dělník	Hodíškov	99	7	0	M
+6105	595624	1	3	7	6	Jaroslav	Ondráček			21	traktorista	Hodíškov	99	7	0	M

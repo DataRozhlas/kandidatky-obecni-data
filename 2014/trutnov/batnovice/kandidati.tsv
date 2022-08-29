@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579041	1	1	1	1	Vladimíra	Pátková	F			55	starostka obce	Batňovice	99	1	0
-5205	579041	1	1	1	2	Miroslav	Šrejber	M			41	logistik	Batňovice	99	1	0
-5205	579041	1	1	1	3	Josef	Pich	M			50	podnikatel	Batňovice	99	1	0
-5205	579041	1	1	1	4	Václav	Melichar	M			72	důchodce	Batňovice	1	1	0
-5205	579041	1	1	1	5	Michal	Vaněček	M			38	manažer	Batňovice	99	1	0
-5205	579041	1	1	1	6	Zdeňka	Dušičková	F			36	pojišťovací zprostředkovatel	Batňovice	99	1	0
-5205	579041	1	1	1	7	Helena	Zahálková	F			69	důchodce	Batňovice	99	1	0
-5205	579041	1	1	1	8	Jana	Řezníčková	F			58	skladnice	Batňovice	1	1	0
-5205	579041	1	1	1	9	Miloslava	Pavlová	F	Mgr.		61	důchodce	Batňovice	99	1	0
-5205	579041	1	2	901	1	Aleš	Bartoníček	M	Ing.		61	učitel	Batňovice	99	80	0
-5205	579041	1	2	901	2	Iveta	Baudyšová	F	Bc.		46	sociální pracovnice	Batňovice	99	80	0
-5205	579041	1	2	901	3	Zdeněk	Jiroušek	M			56	malíř a natěrač	Batňovice	99	80	0
-5205	579041	1	2	901	4	Jan	Pásler	M			38	manažer	Batňovice	99	80	0
-5205	579041	1	2	901	5	Břetislav	Novák	M	MVDr.		58	OSVČ	Batňovice	99	80	0
-5205	579041	1	2	901	6	Olga	Přibylová	F			36	pracovnice pošty	Batňovice	99	80	0
-5205	579041	1	2	901	7	Jiří	Rudolf	M			46	podnikatel	Batňovice	99	80	0
-5205	579041	1	2	901	8	Miloš	Hemala	M			46	správce IT	Batňovice	99	80	0
-5205	579041	1	2	901	9	Roman	Hebelka	M			40	podnikatel	Batňovice	99	80	0
-5205	579041	1	3	902	1	Jan	Sedláček	M			23	student VŠ	Batňovice	53	80	0
-5205	579041	1	3	902	2	Petr	Hejna	M			49	OSVČ	Kvíčala	99	80	0
-5205	579041	1	3	902	3	Jan	Sedláček	M			47	OSVČ	Batňovice	99	80	0
-5205	579041	1	3	902	4	Bohdana	Janovská	F	Mgr.		38	učitelka	Batňovice	99	80	0
-5205	579041	1	3	902	5	Jana	Paděrová	F	Mgr. Bc.		34	učitelka	Batňovice	99	80	0
-5205	579041	1	3	902	6	Martin	Kult	M			22	řidič	Batňovice	99	80	0
-5205	579041	1	3	902	7	Petr	Pekárek	M	Bc.		24	student VŠ	Batňovice	99	80	0
-5205	579041	1	3	902	8	Kateřina	Macková	F	Bc.		29	rodičovská dovolená	Batňovice	99	80	0
-5205	579041	1	3	902	9	Lenka	Malá	F			41	rodičovská dovolená	Batňovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579041	1	1	1	1	Vladimíra	Pátková			55	starostka obce	Batňovice	99	1	0	F
+5205	579041	1	2	901	1	Aleš	Bartoníček	Ing.		61	učitel	Batňovice	99	80	0	M
+5205	579041	1	3	902	1	Jan	Sedláček			23	student VŠ	Batňovice	53	80	0	M
+5205	579041	1	1	1	2	Miroslav	Šrejber			41	logistik	Batňovice	99	1	0	M
+5205	579041	1	2	901	2	Iveta	Baudyšová	Bc.		46	sociální pracovnice	Batňovice	99	80	0	F
+5205	579041	1	3	902	2	Petr	Hejna			49	OSVČ	Kvíčala	99	80	0	M
+5205	579041	1	1	1	3	Josef	Pich			50	podnikatel	Batňovice	99	1	0	M
+5205	579041	1	2	901	3	Zdeněk	Jiroušek			56	malíř a natěrač	Batňovice	99	80	0	M
+5205	579041	1	3	902	3	Jan	Sedláček			47	OSVČ	Batňovice	99	80	0	M
+5205	579041	1	1	1	4	Václav	Melichar			72	důchodce	Batňovice	1	1	0	M
+5205	579041	1	2	901	4	Jan	Pásler			38	manažer	Batňovice	99	80	0	M
+5205	579041	1	3	902	4	Bohdana	Janovská	Mgr.		38	učitelka	Batňovice	99	80	0	F
+5205	579041	1	1	1	5	Michal	Vaněček			38	manažer	Batňovice	99	1	0	M
+5205	579041	1	2	901	5	Břetislav	Novák	MVDr.		58	OSVČ	Batňovice	99	80	0	M
+5205	579041	1	3	902	5	Jana	Paděrová	Mgr. Bc.		34	učitelka	Batňovice	99	80	0	F
+5205	579041	1	1	1	6	Zdeňka	Dušičková			36	pojišťovací zprostředkovatel	Batňovice	99	1	0	F
+5205	579041	1	2	901	6	Olga	Přibylová			36	pracovnice pošty	Batňovice	99	80	0	F
+5205	579041	1	3	902	6	Martin	Kult			22	řidič	Batňovice	99	80	0	M
+5205	579041	1	1	1	7	Helena	Zahálková			69	důchodce	Batňovice	99	1	0	F
+5205	579041	1	2	901	7	Jiří	Rudolf			46	podnikatel	Batňovice	99	80	0	M
+5205	579041	1	3	902	7	Petr	Pekárek	Bc.		24	student VŠ	Batňovice	99	80	0	M
+5205	579041	1	1	1	8	Jana	Řezníčková			58	skladnice	Batňovice	1	1	0	F
+5205	579041	1	2	901	8	Miloš	Hemala			46	správce IT	Batňovice	99	80	0	M
+5205	579041	1	3	902	8	Kateřina	Macková	Bc.		29	rodičovská dovolená	Batňovice	99	80	0	F
+5205	579041	1	1	1	9	Miloslava	Pavlová	Mgr.		61	důchodce	Batňovice	99	1	0	F
+5205	579041	1	2	901	9	Roman	Hebelka			40	podnikatel	Batňovice	99	80	0	M
+5205	579041	1	3	902	9	Lenka	Malá			41	rodičovská dovolená	Batňovice	99	80	0	F

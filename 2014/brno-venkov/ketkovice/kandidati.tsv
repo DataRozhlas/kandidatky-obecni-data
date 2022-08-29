@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	583201	1	1	902	1	Josef	Obršlík	M			59	technický pracovník	Ketkovice	99	80	0
-6203	583201	1	1	902	2	Šárka	Matoušková	F	MVDr.		40	produktová manažerka	Ketkovice	99	80	0
-6203	583201	1	1	902	3	Pavel	Staněk	M			38	energetik	Ketkovice	99	80	0
-6203	583201	1	1	902	4	Lenka	Foralová	F			48	učitelka	Ketkovice	99	80	0
-6203	583201	1	1	902	5	Marie	Přibylová	F			56	normovačka	Ketkovice	99	80	0
-6203	583201	1	1	902	6	Stanislav	Rosa de Pauli	M			50	tavič kovů	Ketkovice	99	80	0
-6203	583201	1	1	902	7	Dušan	Horváth	M			47	podlahář	Ketkovice	99	80	0
-6203	583201	1	2	47	1	Vladimír	Navrátil	M	Ing.		63	inženýr strojař	Ketkovice	99	47	0
-6203	583201	1	2	47	2	Ivan	Nekuda	M			52	živnostník	Ketkovice	99	47	0
-6203	583201	1	2	47	3	Vlastimil	Chadim	M			57	zaměstnanec Českých drah	Ketkovice	99	47	0
-6203	583201	1	2	47	4	Jana	Matýšková	F			40	kontrolorka	Ketkovice	99	47	0
-6203	583201	1	2	47	5	Marie	Karausová	F			40	prodavačka	Ketkovice	99	47	0
-6203	583201	1	2	47	6	Josef	Neklapil	M			71	důchodce	Ketkovice	47	47	0
-6203	583201	1	2	47	7	Roman	Báňa	M			41	živnostník	Ketkovice	99	47	0
-6203	583201	1	3	901	1	Jozef	Mihalisko	M	Ing.		57	podnikatel	Ketkovice	99	80	0
-6203	583201	1	3	901	2	Michal	Šarafín	M	Ing.		63	důchodce	Ketkovice	99	80	0
-6203	583201	1	3	901	3	Jan	Šic	M	Mgr.		29	příslušník VSČR	Ketkovice	99	80	0
-6203	583201	1	3	901	4	Tomáš	Garžík	M			33	směnový mistr	Ketkovice	99	80	0
-6203	583201	1	3	901	5	Petr	Mytyska	M			27	podnikatel	Ketkovice	99	80	0
-6203	583201	1	3	901	6	Petr	Sailer	M			30	směnový mistr	Ketkovice	99	80	0
-6203	583201	1	3	901	7	Branislav	Valo	M	Ing.		48	živnostník	Ketkovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	583201	1	1	902	1	Josef	Obršlík			59	technický pracovník	Ketkovice	99	80	0	M
+6203	583201	1	2	47	1	Vladimír	Navrátil	Ing.		63	inženýr strojař	Ketkovice	99	47	0	M
+6203	583201	1	3	901	1	Jozef	Mihalisko	Ing.		57	podnikatel	Ketkovice	99	80	0	M
+6203	583201	1	1	902	2	Šárka	Matoušková	MVDr.		40	produktová manažerka	Ketkovice	99	80	0	F
+6203	583201	1	2	47	2	Ivan	Nekuda			52	živnostník	Ketkovice	99	47	0	M
+6203	583201	1	3	901	2	Michal	Šarafín	Ing.		63	důchodce	Ketkovice	99	80	0	M
+6203	583201	1	1	902	3	Pavel	Staněk			38	energetik	Ketkovice	99	80	0	M
+6203	583201	1	2	47	3	Vlastimil	Chadim			57	zaměstnanec Českých drah	Ketkovice	99	47	0	M
+6203	583201	1	3	901	3	Jan	Šic	Mgr.		29	příslušník VSČR	Ketkovice	99	80	0	M
+6203	583201	1	1	902	4	Lenka	Foralová			48	učitelka	Ketkovice	99	80	0	F
+6203	583201	1	2	47	4	Jana	Matýšková			40	kontrolorka	Ketkovice	99	47	0	F
+6203	583201	1	3	901	4	Tomáš	Garžík			33	směnový mistr	Ketkovice	99	80	0	M
+6203	583201	1	1	902	5	Marie	Přibylová			56	normovačka	Ketkovice	99	80	0	F
+6203	583201	1	2	47	5	Marie	Karausová			40	prodavačka	Ketkovice	99	47	0	F
+6203	583201	1	3	901	5	Petr	Mytyska			27	podnikatel	Ketkovice	99	80	0	M
+6203	583201	1	1	902	6	Stanislav	Rosa de Pauli			50	tavič kovů	Ketkovice	99	80	0	M
+6203	583201	1	2	47	6	Josef	Neklapil			71	důchodce	Ketkovice	47	47	0	M
+6203	583201	1	3	901	6	Petr	Sailer			30	směnový mistr	Ketkovice	99	80	0	M
+6203	583201	1	1	902	7	Dušan	Horváth			47	podlahář	Ketkovice	99	80	0	M
+6203	583201	1	2	47	7	Roman	Báňa			41	živnostník	Ketkovice	99	47	0	M
+6203	583201	1	3	901	7	Branislav	Valo	Ing.		48	živnostník	Ketkovice	99	80	0	M

@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	578584	1	1	901	1	Věra	Chemišincová	F			51	starostka obce	Pomezí	99	80	0
-5303	578584	1	1	901	2	Milan	Nespěšný	M			42	vedoucí střediska LIKO Svitavy	Pomezí	99	80	0
-5303	578584	1	1	901	3	Jiří	Dočekal	M			43	elektrikář	Pomezí	99	80	0
-5303	578584	1	1	901	4	Leoš	Šedý	M			42	řidič SMV COLAS CZ a.s.	Pomezí	99	80	0
-5303	578584	1	1	901	5	Jiří	Svoboda	M	Mgr.		43	učitel zákldní školy	Pomezí	99	80	0
-5303	578584	1	1	901	6	Tomáš	Lopour	M	Mgr.		37	státní zaměstnanec policie ČR	Pomezí	99	80	0
-5303	578584	1	1	901	7	Petr	Němec	M			35	obl. manažer prodeje Mounfield	Pomezí	99	80	0
-5303	578584	1	1	901	8	Marta	Zerzánková	F			40	referentka zásobování Pol.str.	Pomezí	99	80	0
-5303	578584	1	1	901	9	Tomáš	Nikl	M			34	THP Agronea Polička	Pomezí	99	80	0
-5303	578584	1	1	901	10	Vladimír	Šedý	M			45	státní zaměstnanec Policie ČR	Pomezí	99	80	0
-5303	578584	1	1	901	11	Marie	Duchečková	F			50	učitelka základní školy	Pomezí	99	80	0
-5303	578584	1	1	901	12	Jana	Večeřová	F			38	školnice	Pomezí	99	80	0
-5303	578584	1	1	901	13	Martin	Vetešník	M			33	OSVČ	Pomezí	99	80	0
-5303	578584	1	1	901	14	Josef	Šmíd	M			62	důchodce	Pomezí	99	80	0
-5303	578584	1	1	901	15	Jaroslava	Kubíková	F			38	ředitelka školní jídelny	Pomezí	99	80	0
-5303	578584	1	2	902	1	Zdeněk	Stoklásek	M			54	podnikatel	Pomezí	99	80	0
-5303	578584	1	2	902	2	Jana	Venclová	F	Bc.		53	ředitelka MŠ	Pomezí	99	80	0
-5303	578584	1	2	902	3	Miroslav	Veselý	M			38	manažer prodeje	Pomezí	99	80	0
-5303	578584	1	2	902	4	Libor	Škorpík	M	Ing.		42	prodejní referent	Pomezí	99	80	0
-5303	578584	1	2	902	5	Ludmila	Homolová	F			55	knihovnice - metodička	Pomezí	99	80	0
-5303	578584	1	2	902	6	Markéta	Hladká	F			32	terapeut celostní medicíny	Pomezí	99	80	0
-5303	578584	1	2	902	7	Ivo	Janeček	M	Ing.		47	lektor	Pomezí	99	80	0
-5303	578584	1	2	902	8	Michal	Zerzánek	M			35	ekonom	Pomezí	99	80	0
-5303	578584	1	2	902	9	Renata	Jílková	F			33	kadeřnice	Pomezí	99	80	0
-5303	578584	1	2	902	10	Josef	Flídr	M	Ing.		35	obchodní zástupce	Pomezí	99	80	0
-5303	578584	1	2	902	11	Miloš	Muzikář	M			34	výtvarník	Pomezí	99	80	0
-5303	578584	1	2	902	12	Miluše	Kynclová	F			40	konzultant v maloobchodě	Pomezí	99	80	0
-5303	578584	1	2	902	13	Magdalena	Němcová	F			36	sekretářka	Pomezí	99	80	0
-5303	578584	1	2	902	14	Pavel	Macků	M			36	elektromechanik	Pomezí	99	80	0
-5303	578584	1	2	902	15	Gabriela	Slezáková	F			39	zdravotní ošetřovatelka	Pomezí	99	80	0
-5303	578584	1	3	47	1	Roman	Kuda	M			34	zaměstnanec Lesů ČR	Pomezí	99	47	0
-5303	578584	1	3	47	2	Zdeňka	Makovská	F			47	dělnice	Pomezí	99	47	0
-5303	578584	1	3	47	3	Anna	Smejkalová	F			69	důchodkyně	Pomezí	99	47	0
-5303	578584	1	3	47	4	Pavel	Šimon	M			41	soustružník	Pomezí	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	578584	1	1	901	1	Věra	Chemišincová			51	starostka obce	Pomezí	99	80	0	F
+5303	578584	1	2	902	1	Zdeněk	Stoklásek			54	podnikatel	Pomezí	99	80	0	M
+5303	578584	1	3	47	1	Roman	Kuda			34	zaměstnanec Lesů ČR	Pomezí	99	47	0	M
+5303	578584	1	1	901	2	Milan	Nespěšný			42	vedoucí střediska LIKO Svitavy	Pomezí	99	80	0	M
+5303	578584	1	2	902	2	Jana	Venclová	Bc.		53	ředitelka MŠ	Pomezí	99	80	0	F
+5303	578584	1	3	47	2	Zdeňka	Makovská			47	dělnice	Pomezí	99	47	0	F
+5303	578584	1	1	901	3	Jiří	Dočekal			43	elektrikář	Pomezí	99	80	0	M
+5303	578584	1	2	902	3	Miroslav	Veselý			38	manažer prodeje	Pomezí	99	80	0	M
+5303	578584	1	3	47	3	Anna	Smejkalová			69	důchodkyně	Pomezí	99	47	0	F
+5303	578584	1	1	901	4	Leoš	Šedý			42	řidič SMV COLAS CZ a.s.	Pomezí	99	80	0	M
+5303	578584	1	2	902	4	Libor	Škorpík	Ing.		42	prodejní referent	Pomezí	99	80	0	M
+5303	578584	1	3	47	4	Pavel	Šimon			41	soustružník	Pomezí	99	47	0	M
+5303	578584	1	1	901	5	Jiří	Svoboda	Mgr.		43	učitel zákldní školy	Pomezí	99	80	0	M
+5303	578584	1	2	902	5	Ludmila	Homolová			55	knihovnice - metodička	Pomezí	99	80	0	F
+5303	578584	1	1	901	6	Tomáš	Lopour	Mgr.		37	státní zaměstnanec policie ČR	Pomezí	99	80	0	M
+5303	578584	1	2	902	6	Markéta	Hladká			32	terapeut celostní medicíny	Pomezí	99	80	0	F
+5303	578584	1	1	901	7	Petr	Němec			35	obl. manažer prodeje Mounfield	Pomezí	99	80	0	M
+5303	578584	1	2	902	7	Ivo	Janeček	Ing.		47	lektor	Pomezí	99	80	0	M
+5303	578584	1	1	901	8	Marta	Zerzánková			40	referentka zásobování Pol.str.	Pomezí	99	80	0	F
+5303	578584	1	2	902	8	Michal	Zerzánek			35	ekonom	Pomezí	99	80	0	M
+5303	578584	1	1	901	9	Tomáš	Nikl			34	THP Agronea Polička	Pomezí	99	80	0	M
+5303	578584	1	2	902	9	Renata	Jílková			33	kadeřnice	Pomezí	99	80	0	F
+5303	578584	1	1	901	10	Vladimír	Šedý			45	státní zaměstnanec Policie ČR	Pomezí	99	80	0	M
+5303	578584	1	2	902	10	Josef	Flídr	Ing.		35	obchodní zástupce	Pomezí	99	80	0	M
+5303	578584	1	1	901	11	Marie	Duchečková			50	učitelka základní školy	Pomezí	99	80	0	F
+5303	578584	1	2	902	11	Miloš	Muzikář			34	výtvarník	Pomezí	99	80	0	M
+5303	578584	1	1	901	12	Jana	Večeřová			38	školnice	Pomezí	99	80	0	F
+5303	578584	1	2	902	12	Miluše	Kynclová			40	konzultant v maloobchodě	Pomezí	99	80	0	F
+5303	578584	1	1	901	13	Martin	Vetešník			33	OSVČ	Pomezí	99	80	0	M
+5303	578584	1	2	902	13	Magdalena	Němcová			36	sekretářka	Pomezí	99	80	0	F
+5303	578584	1	1	901	14	Josef	Šmíd			62	důchodce	Pomezí	99	80	0	M
+5303	578584	1	2	902	14	Pavel	Macků			36	elektromechanik	Pomezí	99	80	0	M
+5303	578584	1	1	901	15	Jaroslava	Kubíková			38	ředitelka školní jídelny	Pomezí	99	80	0	F
+5303	578584	1	2	902	15	Gabriela	Slezáková			39	zdravotní ošetřovatelka	Pomezí	99	80	0	F

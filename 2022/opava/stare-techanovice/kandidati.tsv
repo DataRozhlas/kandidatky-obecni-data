@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	568198	1	1	903	1	Bohdana	Kozáková	F			44	THP	Staré Těchanovice	99	80	A
-8105	568198	1	1	903	2	Jarmila	Drastíková	F			53	pracovnice OSSZ	Staré Těchanovice	99	80	A
-8105	568198	1	1	903	3	Bohdana	Komárková	F	Bc.		22	student	Staré Těchanovice	99	80	A
-8105	568198	1	1	903	4	Marcela	Šímová	F			52	sanitář	Staré Těchanovice	99	80	A
-8105	568198	1	1	903	5	Martina	Slivková	F			50	dělnice	Staré Těchanovice	99	80	A
-8105	568198	1	1	903	6	Marcela	Steppková	F			52	péče o osobu blízkou	Staré Těchanovice	99	80	A
-8105	568198	1	1	903	7	Michaela	Krajčová	F			34	mateřská dovolená	Staré Těchanovice	99	80	A
-8105	568198	1	2	904	1	Luděk	Kozák	M			49	OSVČ	Staré Těchanovice	99	80	A
-8105	568198	1	2	904	2	Tomáš	Drastík	M			59	ekonom	Staré Těchanovice	99	80	A
-8105	568198	1	2	904	3	Jan	Adámek	M			47	skladník	Staré Těchanovice	99	80	A
-8105	568198	1	2	904	4	Josef	Pavelka	M			48	OSVČ	Staré Těchanovice	99	80	A
-8105	568198	1	2	904	5	Jan	Raška	M			52	manažer prodeje	Staré Těchanovice	99	80	A
-8105	568198	1	2	904	6	Jaromír	Stec	M			40	automechanik	Staré Těchanovice	99	80	A
-8105	568198	1	3	902	1	Radovan	Krygel	M			61	stavební dozor	Staré Těchanovice	99	80	A
-8105	568198	1	3	902	2	Petr	Chroust	M			48	ředitel neziskové organizace	Staré Těchanovice	99	80	A
-8105	568198	1	4	901	1	Jana	Pastrňáková	F			52	OSVČ	Staré Těchanovice	99	80	A
-8105	568198	1	4	901	2	Jiří	Pavlíček	M			58	OSVČ	Staré Těchanovice	99	80	A
-8105	568198	1	4	901	3	Jiří	Špaček	M			33	řidič z povolání	Staré Těchanovice	99	80	A
-8105	568198	1	4	901	4	Filip	Haferník	M			35	poradce v oblasti veřejné správy a dotací	Staré Těchanovice	99	80	A
-8105	568198	1	4	901	5	Lukáš	Stec	M			24	OSVČ	Staré Těchanovice	99	80	A
-8105	568198	1	4	901	6	Ladislav	Šromota	M	Bc.		45	zdravotnický záchranář	Staré Těchanovice	99	80	A
-8105	568198	1	4	901	7	Petr	Haferník	M			44	OSVČ	Staré Těchanovice	99	80	A
-8105	568198	1	4	901	8	Lenka	Pohroňová	F			34	supervisor ve výrobě	Staré Těchanovice	99	80	A
-8105	568198	1	5	801	1	Jaromír	Štipčák	M			52	THP pracovník v lesnictví	Staré Těchanovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	568198	1	1	903	1	Bohdana	Kozáková			44	THP	Staré Těchanovice	99	80	A	F
+8105	568198	1	2	904	1	Luděk	Kozák			49	OSVČ	Staré Těchanovice	99	80	A	M
+8105	568198	1	3	902	1	Radovan	Krygel			61	stavební dozor	Staré Těchanovice	99	80	A	M
+8105	568198	1	4	901	1	Jana	Pastrňáková			52	OSVČ	Staré Těchanovice	99	80	A	F
+8105	568198	1	5	801	1	Jaromír	Štipčák			52	THP pracovník v lesnictví	Staré Těchanovice	99	80	A	M
+8105	568198	1	1	903	2	Jarmila	Drastíková			53	pracovnice OSSZ	Staré Těchanovice	99	80	A	F
+8105	568198	1	2	904	2	Tomáš	Drastík			59	ekonom	Staré Těchanovice	99	80	A	M
+8105	568198	1	3	902	2	Petr	Chroust			48	ředitel neziskové organizace	Staré Těchanovice	99	80	A	M
+8105	568198	1	4	901	2	Jiří	Pavlíček			58	OSVČ	Staré Těchanovice	99	80	A	M
+8105	568198	1	1	903	3	Bohdana	Komárková	Bc.		22	student	Staré Těchanovice	99	80	A	F
+8105	568198	1	2	904	3	Jan	Adámek			47	skladník	Staré Těchanovice	99	80	A	M
+8105	568198	1	4	901	3	Jiří	Špaček			33	řidič z povolání	Staré Těchanovice	99	80	A	M
+8105	568198	1	1	903	4	Marcela	Šímová			52	sanitář	Staré Těchanovice	99	80	A	F
+8105	568198	1	2	904	4	Josef	Pavelka			48	OSVČ	Staré Těchanovice	99	80	A	M
+8105	568198	1	4	901	4	Filip	Haferník			35	poradce v oblasti veřejné správy a dotací	Staré Těchanovice	99	80	A	M
+8105	568198	1	1	903	5	Martina	Slivková			50	dělnice	Staré Těchanovice	99	80	A	F
+8105	568198	1	2	904	5	Jan	Raška			52	manažer prodeje	Staré Těchanovice	99	80	A	M
+8105	568198	1	4	901	5	Lukáš	Stec			24	OSVČ	Staré Těchanovice	99	80	A	M
+8105	568198	1	1	903	6	Marcela	Steppková			52	péče o osobu blízkou	Staré Těchanovice	99	80	A	F
+8105	568198	1	2	904	6	Jaromír	Stec			40	automechanik	Staré Těchanovice	99	80	A	M
+8105	568198	1	4	901	6	Ladislav	Šromota	Bc.		45	zdravotnický záchranář	Staré Těchanovice	99	80	A	M
+8105	568198	1	1	903	7	Michaela	Krajčová			34	mateřská dovolená	Staré Těchanovice	99	80	A	F
+8105	568198	1	4	901	7	Petr	Haferník			44	OSVČ	Staré Těchanovice	99	80	A	M
+8105	568198	1	4	901	8	Lenka	Pohroňová			34	supervisor ve výrobě	Staré Těchanovice	99	80	A	F

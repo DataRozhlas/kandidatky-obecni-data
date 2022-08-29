@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	530611	1	1	901	1	Zdeněk	Dvořák	M			72	důchodce	Smilkov	99	80	A
-2101	530611	1	1	901	2	Lukáš	Babický	M			30	makléř	Smilkov	99	80	A
-2101	530611	1	1	901	3	Miloš	Vodrážka	M			64	učitel v důchodu	Oldřichovec	99	80	A
-2101	530611	1	1	901	4	Dagmar	Čermochová	F			48	stavební technik	Smilkov	99	80	A
-2101	530611	1	1	901	5	Lukáš	Volek	M			27	školitel robotiky	Smilkov	99	80	A
-2101	530611	1	1	901	6	Zdeněk	Šťovíček	M			44	technik	Smilkov	99	80	A
-2101	530611	1	1	901	7	Jana	Volšanská	F			38	OSVČ	Kouty	99	80	A
-2101	530611	1	1	901	8	Vladimír	Prošek	M			63	podnikatel	Smilkov	99	80	A
-2101	530611	1	2	902	1	Pavel	Fulín	M	Ing.		49	ředitel	Kouty	99	80	A
-2101	530611	1	2	902	2	Petra	Opičková	F			45	OSVČ projektový manažer	Líštěnec	99	80	A
-2101	530611	1	2	902	3	Zdeněk	Poskočil	M			33	technik	Smilkov	99	80	A
-2101	530611	1	2	902	4	Pavel	Bubník	M			71	důchodce	Smilkov	99	80	A
-2101	530611	1	2	902	5	Hana	Dohnalová	F			68	důchodce	Smilkov	99	80	A
-2101	530611	1	2	902	6	Eva	Kovaničová	F	Mgr.		48	redaktorka	Smilkov	99	80	A
-2101	530611	1	2	902	7	Květa	Bubníková	F			74	důchodce	Oldřichovec	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	530611	1	1	901	1	Zdeněk	Dvořák			72	důchodce	Smilkov	99	80	A	M
+2101	530611	1	2	902	1	Pavel	Fulín	Ing.		49	ředitel	Kouty	99	80	A	M
+2101	530611	1	1	901	2	Lukáš	Babický			30	makléř	Smilkov	99	80	A	M
+2101	530611	1	2	902	2	Petra	Opičková			45	OSVČ projektový manažer	Líštěnec	99	80	A	F
+2101	530611	1	1	901	3	Miloš	Vodrážka			64	učitel v důchodu	Oldřichovec	99	80	A	M
+2101	530611	1	2	902	3	Zdeněk	Poskočil			33	technik	Smilkov	99	80	A	M
+2101	530611	1	1	901	4	Dagmar	Čermochová			48	stavební technik	Smilkov	99	80	A	F
+2101	530611	1	2	902	4	Pavel	Bubník			71	důchodce	Smilkov	99	80	A	M
+2101	530611	1	1	901	5	Lukáš	Volek			27	školitel robotiky	Smilkov	99	80	A	M
+2101	530611	1	2	902	5	Hana	Dohnalová			68	důchodce	Smilkov	99	80	A	F
+2101	530611	1	1	901	6	Zdeněk	Šťovíček			44	technik	Smilkov	99	80	A	M
+2101	530611	1	2	902	6	Eva	Kovaničová	Mgr.		48	redaktorka	Smilkov	99	80	A	F
+2101	530611	1	1	901	7	Jana	Volšanská			38	OSVČ	Kouty	99	80	A	F
+2101	530611	1	2	902	7	Květa	Bubníková			74	důchodce	Oldřichovec	99	80	A	F
+2101	530611	1	1	901	8	Vladimír	Prošek			63	podnikatel	Smilkov	99	80	A	M

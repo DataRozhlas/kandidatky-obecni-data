@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3206	546488	1	1	901	1	Jiří	Opatrný	M			33	servisní technik	Sirá	99	80	0
-3206	546488	1	1	901	2	Kateřina	Laštovková	F			33	administrativní pracovnice	Sirá	99	80	0
-3206	546488	1	1	901	3	Petr	Novák	M			42	šlechtitel	Sirá	99	80	0
-3206	546488	1	1	901	4	Jaroslava	Podlenová	F			38	administrativní pracovnice	Sirá	99	80	0
-3206	546488	1	1	901	5	Václav	Laštovka	M			35	vedoucí autolakovny	Sirá	99	80	0
-3206	546488	1	2	53	1	Hana	Nováková	F			39	soukromý zemědělec	Sirá	99	53	0
-3206	546488	1	2	53	2	Václav	Kohout	M			34	podnikatel	Sirá	53	53	0
-3206	546488	1	2	53	3	Michal	Čihák	M			28	technik	Sirá	99	53	0
-3206	546488	1	2	53	4	Jaroslav	Tupec	M			77	důchodce	Sirá	53	53	0
-3206	546488	1	2	53	5	Marcela	Šírlová	F			49	důchodkyně	Sirá	53	53	0
-3206	546488	1	2	53	6	Lucie	Soukupová	F	Bc.		24	logistik	Sirá	99	53	0
-3206	546488	1	2	53	7	Veronika	Patová	F			27	úřednice	Sirá	99	53	0
-3206	546488	1	2	53	8	Václav	Opatrný	M			66	důchodce	Sirá	99	53	0
-3206	546488	1	2	53	9	Eduard	Mann	M			60	důchodce	Sirá	99	53	0
-3206	546488	1	3	47	1	Karel	Hrabák	M			67	důchodce	Sirá	47	47	0
-3206	546488	1	3	47	2	Dušana	Fatrová	F			64	důchodkyně	Sirá	47	47	0
-3206	546488	1	3	47	3	Jitka	Mannová	F			58	důchodkyně	Sirá	99	47	0
-3206	546488	1	3	47	4	Václav	Vetengl	M			43	dělník	Sirá	99	47	0
-3206	546488	1	3	47	5	Eva	Chvojková	F			71	důchodkyně	Sirá	47	47	0
-3206	546488	1	3	47	6	Jaroslava	Sommrová	F			71	důchodkyně	Sirá	47	47	0
-3206	546488	1	3	47	7	Jana	Kutilová	F			51	invalidní důchodkyně	Sirá	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3206	546488	1	1	901	1	Jiří	Opatrný			33	servisní technik	Sirá	99	80	0	M
+3206	546488	1	2	53	1	Hana	Nováková			39	soukromý zemědělec	Sirá	99	53	0	F
+3206	546488	1	3	47	1	Karel	Hrabák			67	důchodce	Sirá	47	47	0	M
+3206	546488	1	1	901	2	Kateřina	Laštovková			33	administrativní pracovnice	Sirá	99	80	0	F
+3206	546488	1	2	53	2	Václav	Kohout			34	podnikatel	Sirá	53	53	0	M
+3206	546488	1	3	47	2	Dušana	Fatrová			64	důchodkyně	Sirá	47	47	0	F
+3206	546488	1	1	901	3	Petr	Novák			42	šlechtitel	Sirá	99	80	0	M
+3206	546488	1	2	53	3	Michal	Čihák			28	technik	Sirá	99	53	0	M
+3206	546488	1	3	47	3	Jitka	Mannová			58	důchodkyně	Sirá	99	47	0	F
+3206	546488	1	1	901	4	Jaroslava	Podlenová			38	administrativní pracovnice	Sirá	99	80	0	F
+3206	546488	1	2	53	4	Jaroslav	Tupec			77	důchodce	Sirá	53	53	0	M
+3206	546488	1	3	47	4	Václav	Vetengl			43	dělník	Sirá	99	47	0	M
+3206	546488	1	1	901	5	Václav	Laštovka			35	vedoucí autolakovny	Sirá	99	80	0	M
+3206	546488	1	2	53	5	Marcela	Šírlová			49	důchodkyně	Sirá	53	53	0	F
+3206	546488	1	3	47	5	Eva	Chvojková			71	důchodkyně	Sirá	47	47	0	F
+3206	546488	1	2	53	6	Lucie	Soukupová	Bc.		24	logistik	Sirá	99	53	0	F
+3206	546488	1	3	47	6	Jaroslava	Sommrová			71	důchodkyně	Sirá	47	47	0	F
+3206	546488	1	2	53	7	Veronika	Patová			27	úřednice	Sirá	99	53	0	F
+3206	546488	1	3	47	7	Jana	Kutilová			51	invalidní důchodkyně	Sirá	47	47	0	F
+3206	546488	1	2	53	8	Václav	Opatrný			66	důchodce	Sirá	99	53	0	M
+3206	546488	1	2	53	9	Eduard	Mann			60	důchodce	Sirá	99	53	0	M

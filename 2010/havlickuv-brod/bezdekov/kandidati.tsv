@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	548430	1	1	902	1	Roman	Málek	M			32	vedoucí provozu	Bezděkov	99	80	0
-6101	548430	1	1	902	2	Pavlína	Culková	F			30	na mateřské dovolené	Bezděkov	99	80	0
-6101	548430	1	1	902	3	Miloslav	Čermák	M			45	podnikatel	Bezděkov	99	80	0
-6101	548430	1	1	902	4	Jaroslav	Císař	M			45	OSVČ	Bezděkov	99	80	0
-6101	548430	1	1	902	5	Libor	Vaněk	M			39	brusič	Bezděkov	99	80	0
-6101	548430	1	1	902	6	Dušan	Čermák	M			37	podnikatel	Bezděkov	99	80	0
-6101	548430	1	1	902	7	Pavel	Řádek	M			34	jednatel	Bezděkov	99	80	0
-6101	548430	1	2	901	1	Jaroslav	Stehno	M	Ing.		55	učitel	Bezděkov	99	80	0
-6101	548430	1	2	901	2	Bohumil	Marek	M			58	výrobní ředitel	Bezděkov	99	80	0
-6101	548430	1	2	901	3	Zdeněk	Dvořák	M			42	konstruktér	Bezděkov	99	80	0
-6101	548430	1	2	901	4	Luděk	Král	M			36	řidič	Bezděkov	99	80	0
-6101	548430	1	2	901	5	Štěpánka	Švecová	F			34	THP	Bezděkov	99	80	0
-6101	548430	1	2	901	6	Stanislav	Čermák	M			51	technik	Bezděkov	99	80	0
-6101	548430	1	2	901	7	Ladislav	Wasserbauer	M	Ing.		48	péče o osobu blízkou	Bezděkov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	548430	1	1	902	1	Roman	Málek			32	vedoucí provozu	Bezděkov	99	80	0	M
+6101	548430	1	2	901	1	Jaroslav	Stehno	Ing.		55	učitel	Bezděkov	99	80	0	M
+6101	548430	1	1	902	2	Pavlína	Culková			30	na mateřské dovolené	Bezděkov	99	80	0	F
+6101	548430	1	2	901	2	Bohumil	Marek			58	výrobní ředitel	Bezděkov	99	80	0	M
+6101	548430	1	1	902	3	Miloslav	Čermák			45	podnikatel	Bezděkov	99	80	0	M
+6101	548430	1	2	901	3	Zdeněk	Dvořák			42	konstruktér	Bezděkov	99	80	0	M
+6101	548430	1	1	902	4	Jaroslav	Císař			45	OSVČ	Bezděkov	99	80	0	M
+6101	548430	1	2	901	4	Luděk	Král			36	řidič	Bezděkov	99	80	0	M
+6101	548430	1	1	902	5	Libor	Vaněk			39	brusič	Bezděkov	99	80	0	M
+6101	548430	1	2	901	5	Štěpánka	Švecová			34	THP	Bezděkov	99	80	0	F
+6101	548430	1	1	902	6	Dušan	Čermák			37	podnikatel	Bezděkov	99	80	0	M
+6101	548430	1	2	901	6	Stanislav	Čermák			51	technik	Bezděkov	99	80	0	M
+6101	548430	1	1	902	7	Pavel	Řádek			34	jednatel	Bezděkov	99	80	0	M
+6101	548430	1	2	901	7	Ladislav	Wasserbauer	Ing.		48	péče o osobu blízkou	Bezděkov	99	80	0	M

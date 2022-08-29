@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	578673	1	1	902	1	Vladimír	Židek	M			51	starosta	Rohozná	99	80	0
-5303	578673	1	1	902	2	Jana	Hartlová	F			37	OSVČ	Rohozná	99	80	0
-5303	578673	1	1	902	3	Břetislav	Báča	M			54	pokrývač	Rohozná	99	80	0
-5303	578673	1	1	902	4	Dana	Hromádková	F	Mgr.		46	ředitelka základní školy	Rohozná	99	80	0
-5303	578673	1	1	902	5	Radek	Kříž	M			42	OSVČ	Rohozná	99	80	0
-5303	578673	1	1	902	6	Radovan	Pokorný	M	Mgr.		42	ředitel dětského domova	Rohozná	99	80	0
-5303	578673	1	1	902	7	Martin	Olšán	M			38	OSVČ	Rohozná	99	80	0
-5303	578673	1	1	902	8	Karel	Mitáš	M			40	truhlář	Rohozná	99	80	0
-5303	578673	1	1	902	9	Vlasta	Luňáčková	F		DiS.	38	učitelka mateřské školy	Rohozná	99	80	0
-5303	578673	1	1	902	10	Radek	Dohnal	M			42	elektrikář	Rohozná	99	80	0
-5303	578673	1	1	902	11	František	Báča	M			64	důchodce	Rohozná	99	80	0
-5303	578673	1	2	901	1	Jiří	Blaha	M			31	technik	Rohozná	99	80	0
-5303	578673	1	2	901	2	Erik Peter	Stejskal	M			44	servisní technik	Rohozná	99	80	0
-5303	578673	1	2	901	3	Miroslav	Cupal	M			28	profesionální hasič	Rohozná	99	80	0
-5303	578673	1	2	901	4	Zdeněk	Klouda	M			28	dělník	Rohozná	99	80	0
-5303	578673	1	2	901	5	Jan	Řehůřek	M			35	OSVČ	Rohozná	99	80	0
-5303	578673	1	2	901	6	Petr	Palla	M			27	policista ČR	Rohozná	99	80	0
-5303	578673	1	2	901	7	Petra	Bačovská	F			36	OSVČ	Rohozná	99	80	0
-5303	578673	1	2	901	8	Pavel	Radiměřský	M			33	řidič vozidla ZZS Pardubického kraje	Rohozná	99	80	0
-5303	578673	1	2	901	9	Lucie	Svobodová	F			33	účetní	Rohozná	99	80	0
-5303	578673	1	2	901	10	Aleš	Vápeník	M			38	řidič	Rohozná	99	80	0
-5303	578673	1	2	901	11	Karel	Svoboda	M			40	dělník	Rohozná	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	578673	1	1	902	1	Vladimír	Židek			51	starosta	Rohozná	99	80	0	M
+5303	578673	1	2	901	1	Jiří	Blaha			31	technik	Rohozná	99	80	0	M
+5303	578673	1	1	902	2	Jana	Hartlová			37	OSVČ	Rohozná	99	80	0	F
+5303	578673	1	2	901	2	Erik Peter	Stejskal			44	servisní technik	Rohozná	99	80	0	M
+5303	578673	1	1	902	3	Břetislav	Báča			54	pokrývač	Rohozná	99	80	0	M
+5303	578673	1	2	901	3	Miroslav	Cupal			28	profesionální hasič	Rohozná	99	80	0	M
+5303	578673	1	1	902	4	Dana	Hromádková	Mgr.		46	ředitelka základní školy	Rohozná	99	80	0	F
+5303	578673	1	2	901	4	Zdeněk	Klouda			28	dělník	Rohozná	99	80	0	M
+5303	578673	1	1	902	5	Radek	Kříž			42	OSVČ	Rohozná	99	80	0	M
+5303	578673	1	2	901	5	Jan	Řehůřek			35	OSVČ	Rohozná	99	80	0	M
+5303	578673	1	1	902	6	Radovan	Pokorný	Mgr.		42	ředitel dětského domova	Rohozná	99	80	0	M
+5303	578673	1	2	901	6	Petr	Palla			27	policista ČR	Rohozná	99	80	0	M
+5303	578673	1	1	902	7	Martin	Olšán			38	OSVČ	Rohozná	99	80	0	M
+5303	578673	1	2	901	7	Petra	Bačovská			36	OSVČ	Rohozná	99	80	0	F
+5303	578673	1	1	902	8	Karel	Mitáš			40	truhlář	Rohozná	99	80	0	M
+5303	578673	1	2	901	8	Pavel	Radiměřský			33	řidič vozidla ZZS Pardubického kraje	Rohozná	99	80	0	M
+5303	578673	1	1	902	9	Vlasta	Luňáčková		DiS.	38	učitelka mateřské školy	Rohozná	99	80	0	F
+5303	578673	1	2	901	9	Lucie	Svobodová			33	účetní	Rohozná	99	80	0	F
+5303	578673	1	1	902	10	Radek	Dohnal			42	elektrikář	Rohozná	99	80	0	M
+5303	578673	1	2	901	10	Aleš	Vápeník			38	řidič	Rohozná	99	80	0	M
+5303	578673	1	1	902	11	František	Báča			64	důchodce	Rohozná	99	80	0	M
+5303	578673	1	2	901	11	Karel	Svoboda			40	dělník	Rohozná	99	80	0	M

@@ -1,32 +1,32 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	568210	1	1	801	1	Marcel	Janiš	M			34	soukr. podnikatel	Hať	99	80	0
-8105	568210	1	2	1	1	Pavel	Kotlář	M			59	technik	Hať	99	1	0
-8105	568210	1	2	1	2	Werner	Vyletělek	M			50	technik	Hať	99	1	0
-8105	568210	1	2	1	3	Hubert	Moravec	M			55	technik	Hať	1	1	0
-8105	568210	1	2	1	4	Pavel	Kozel	M	Mgr.		41	operní zpěvák	Hať	1	1	0
-8105	568210	1	2	1	5	František	Ševčík	M	Ing.		56	technik	Hať	99	1	0
-8105	568210	1	2	1	6	Marta	Gospošová	F			48	soukr. zemědělkyně	Hať	99	1	0
-8105	568210	1	2	1	7	Erich	Císař	M			50	zámečník	Hať	99	1	0
-8105	568210	1	2	1	8	Petr	Kuča	M	Ing.		35	firemní bankéř	Hať	99	1	0
-8105	568210	1	2	1	9	Věra	Jurenková	F	Mgr.		53	učitelka	Hať	99	1	0
-8105	568210	1	2	1	10	Emerich	Bortlík	M			49	elektromontér	Hať	99	1	0
-8105	568210	1	2	1	11	Josef	Majer	M			54	soukr. hosp. rolník	Hať	99	1	0
-8105	568210	1	2	1	12	Lucie	Nováková	F			48	vedoucí pošty	Hať	99	1	0
-8105	568210	1	2	1	13	Petr	Křížák	M	Mgr.		26	advokátní koncipient	Hať	99	1	0
-8105	568210	1	2	1	14	Jan	Bilík	M			24	prodavač elektroniky	Hať	1	1	0
-8105	568210	1	2	1	15	Jiří	Popelek	M			44	zámečník	Hať	99	1	0
-8105	568210	1	3	901	1	Jan	Pavlenka	M			44	technik	Hať	99	80	0
-8105	568210	1	3	901	2	Milan	Šula	M	Mgr.		44	středoškolský profesor	Hať	99	80	0
-8105	568210	1	3	901	3	Martin	Dudek	M			30	technik	Hať	99	80	0
-8105	568210	1	3	901	4	Josef	Hranitzký	M			62	důchodce	Hať	99	80	0
-8105	568210	1	3	901	5	Martin	Baďura	M			31	provozní mistr	Hať	99	80	0
-8105	568210	1	3	901	6	David	Tománek	M			26	stolař	Hať	99	80	0
-8105	568210	1	3	901	7	Gerhard	Machala	M			52	zámečník	Hať	99	80	0
-8105	568210	1	3	901	8	Pavel	Pončík	M			58	důchodce	Hať	99	80	0
-8105	568210	1	3	901	9	Zdenka	Pěntáková	F			36	laborantka	Hať	99	80	0
-8105	568210	1	3	901	10	Milan	Václavík	M			45	přípravář	Hať	99	80	0
-8105	568210	1	3	901	11	Jiří	Pavlenka	M			45	konstrukér	Hať	99	80	0
-8105	568210	1	3	901	12	Radek	Pončík	M			37	elektrikář	Hať	99	80	0
-8105	568210	1	3	901	13	Erich	Dudek	M			52	stolař	Hať	99	80	0
-8105	568210	1	3	901	14	Pavel	Kamrad	M			43	horizontkář	Hať	99	80	0
-8105	568210	1	3	901	15	Filip	Říčný	M			23	student	Hať	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	568210	1	1	801	1	Marcel	Janiš			34	soukr. podnikatel	Hať	99	80	0	M
+8105	568210	1	2	1	1	Pavel	Kotlář			59	technik	Hať	99	1	0	M
+8105	568210	1	3	901	1	Jan	Pavlenka			44	technik	Hať	99	80	0	M
+8105	568210	1	2	1	2	Werner	Vyletělek			50	technik	Hať	99	1	0	M
+8105	568210	1	3	901	2	Milan	Šula	Mgr.		44	středoškolský profesor	Hať	99	80	0	M
+8105	568210	1	2	1	3	Hubert	Moravec			55	technik	Hať	1	1	0	M
+8105	568210	1	3	901	3	Martin	Dudek			30	technik	Hať	99	80	0	M
+8105	568210	1	2	1	4	Pavel	Kozel	Mgr.		41	operní zpěvák	Hať	1	1	0	M
+8105	568210	1	3	901	4	Josef	Hranitzký			62	důchodce	Hať	99	80	0	M
+8105	568210	1	2	1	5	František	Ševčík	Ing.		56	technik	Hať	99	1	0	M
+8105	568210	1	3	901	5	Martin	Baďura			31	provozní mistr	Hať	99	80	0	M
+8105	568210	1	2	1	6	Marta	Gospošová			48	soukr. zemědělkyně	Hať	99	1	0	F
+8105	568210	1	3	901	6	David	Tománek			26	stolař	Hať	99	80	0	M
+8105	568210	1	2	1	7	Erich	Císař			50	zámečník	Hať	99	1	0	M
+8105	568210	1	3	901	7	Gerhard	Machala			52	zámečník	Hať	99	80	0	M
+8105	568210	1	2	1	8	Petr	Kuča	Ing.		35	firemní bankéř	Hať	99	1	0	M
+8105	568210	1	3	901	8	Pavel	Pončík			58	důchodce	Hať	99	80	0	M
+8105	568210	1	2	1	9	Věra	Jurenková	Mgr.		53	učitelka	Hať	99	1	0	F
+8105	568210	1	3	901	9	Zdenka	Pěntáková			36	laborantka	Hať	99	80	0	F
+8105	568210	1	2	1	10	Emerich	Bortlík			49	elektromontér	Hať	99	1	0	M
+8105	568210	1	3	901	10	Milan	Václavík			45	přípravář	Hať	99	80	0	M
+8105	568210	1	2	1	11	Josef	Majer			54	soukr. hosp. rolník	Hať	99	1	0	M
+8105	568210	1	3	901	11	Jiří	Pavlenka			45	konstrukér	Hať	99	80	0	M
+8105	568210	1	2	1	12	Lucie	Nováková			48	vedoucí pošty	Hať	99	1	0	F
+8105	568210	1	3	901	12	Radek	Pončík			37	elektrikář	Hať	99	80	0	M
+8105	568210	1	2	1	13	Petr	Křížák	Mgr.		26	advokátní koncipient	Hať	99	1	0	M
+8105	568210	1	3	901	13	Erich	Dudek			52	stolař	Hať	99	80	0	M
+8105	568210	1	2	1	14	Jan	Bilík			24	prodavač elektroniky	Hať	1	1	0	M
+8105	568210	1	3	901	14	Pavel	Kamrad			43	horizontkář	Hať	99	80	0	M
+8105	568210	1	2	1	15	Jiří	Popelek			44	zámečník	Hať	99	1	0	M
+8105	568210	1	3	901	15	Filip	Říčný			23	student	Hať	99	80	0	M

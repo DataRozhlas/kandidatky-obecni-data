@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3102	536296	1	1	902	1	Jiří	Gondek	M			51	hostinský, podnikatel	Malšín	99	80	0
-3102	536296	1	1	902	2	Richard	Štrobl	M			36	dělník	Malšín	99	80	0
-3102	536296	1	1	902	3	Jiří	Kortiš	M			43	živnostník	Malšín	99	80	0
-3102	536296	1	1	902	4	Olga	Sládková	F			46	dispečerka nákl. dopr.	Malšín	99	80	0
-3102	536296	1	1	902	5	Alexander	Töth	M			67	důchodce	Ostrov	99	80	0
-3102	536296	1	1	902	6	Anna	Čonková	F			74	důchodce	Ostrov	99	80	0
-3102	536296	1	2	901	1	František	Stiskala	M			65	soukromý zemědělec	Malšín	99	80	0
-3102	536296	1	2	901	2	Josef	Fatura	M	Ing.		55	ředitel	Malšín	99	80	0
-3102	536296	1	2	901	3	Jaromír	Pardamec	M	Ing.		45	revírník LČR s. p.	Malšín	99	80	0
-3102	536296	1	2	901	4	Jan	Dojčar	M			31	řidič SUS s. p.	Malšín	99	80	0
-3102	536296	1	2	901	5	Alois	Maček	M			65	důchodce	Malšín	99	80	0
-3102	536296	1	2	901	6	Jana	Mačková	F			64	důchodce	Malšín	99	80	0
-3102	536296	1	2	901	7	Martin	Kortiš	M			44	správce	Malšín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3102	536296	1	1	902	1	Jiří	Gondek			51	hostinský, podnikatel	Malšín	99	80	0	M
+3102	536296	1	2	901	1	František	Stiskala			65	soukromý zemědělec	Malšín	99	80	0	M
+3102	536296	1	1	902	2	Richard	Štrobl			36	dělník	Malšín	99	80	0	M
+3102	536296	1	2	901	2	Josef	Fatura	Ing.		55	ředitel	Malšín	99	80	0	M
+3102	536296	1	1	902	3	Jiří	Kortiš			43	živnostník	Malšín	99	80	0	M
+3102	536296	1	2	901	3	Jaromír	Pardamec	Ing.		45	revírník LČR s. p.	Malšín	99	80	0	M
+3102	536296	1	1	902	4	Olga	Sládková			46	dispečerka nákl. dopr.	Malšín	99	80	0	F
+3102	536296	1	2	901	4	Jan	Dojčar			31	řidič SUS s. p.	Malšín	99	80	0	M
+3102	536296	1	1	902	5	Alexander	Töth			67	důchodce	Ostrov	99	80	0	M
+3102	536296	1	2	901	5	Alois	Maček			65	důchodce	Malšín	99	80	0	M
+3102	536296	1	1	902	6	Anna	Čonková			74	důchodce	Ostrov	99	80	0	F
+3102	536296	1	2	901	6	Jana	Mačková			64	důchodce	Malšín	99	80	0	F
+3102	536296	1	2	901	7	Martin	Kortiš			44	správce	Malšín	99	80	0	M

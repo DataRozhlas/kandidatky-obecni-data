@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3206	579289	1	1	901	1	Lubomír	Fiala	M			61	důchodce	Vísky	99	80	0
-3206	579289	1	1	901	2	Václav	Štokr	M			59	tesař	Vísky	99	80	0
-3206	579289	1	1	901	3	Jan	Blažek	M			24	voják z povolání	Vísky	99	80	0
-3206	579289	1	1	901	4	Michal	Škabra	M			39	zootechnik	Vísky	99	80	0
-3206	579289	1	1	901	5	Jiří	Vávra	M			38	topenář	Vísky	99	80	0
-3206	579289	1	1	901	6	Ivana	Michálková	F			31	prodavačka	Vísky	99	80	0
-3206	579289	1	2	902	1	Josef	Jacko	M	Ing.		44	stavební technik	Vísky	99	80	0
-3206	579289	1	2	902	2	Květuše	Frühaufová	F			39	účetní	Vísky	99	80	0
-3206	579289	1	2	902	3	Josef	Kesner	M			28	dispečer dopravy	Vísky	99	80	0
-3206	579289	1	2	902	4	Veronika	Kesnerová	F			26	účetní	Vísky	99	80	0
-3206	579289	1	2	902	5	Radka	Rollová	F			30	pradlena	Vísky	99	80	0
-3206	579289	1	2	902	6	Josef	Kesner	M			52	dělník	Vísky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3206	579289	1	1	901	1	Lubomír	Fiala			61	důchodce	Vísky	99	80	0	M
+3206	579289	1	2	902	1	Josef	Jacko	Ing.		44	stavební technik	Vísky	99	80	0	M
+3206	579289	1	1	901	2	Václav	Štokr			59	tesař	Vísky	99	80	0	M
+3206	579289	1	2	902	2	Květuše	Frühaufová			39	účetní	Vísky	99	80	0	F
+3206	579289	1	1	901	3	Jan	Blažek			24	voják z povolání	Vísky	99	80	0	M
+3206	579289	1	2	902	3	Josef	Kesner			28	dispečer dopravy	Vísky	99	80	0	M
+3206	579289	1	1	901	4	Michal	Škabra			39	zootechnik	Vísky	99	80	0	M
+3206	579289	1	2	902	4	Veronika	Kesnerová			26	účetní	Vísky	99	80	0	F
+3206	579289	1	1	901	5	Jiří	Vávra			38	topenář	Vísky	99	80	0	M
+3206	579289	1	2	902	5	Radka	Rollová			30	pradlena	Vísky	99	80	0	F
+3206	579289	1	1	901	6	Ivana	Michálková			31	prodavačka	Vísky	99	80	0	F
+3206	579289	1	2	902	6	Josef	Kesner			52	dělník	Vísky	99	80	0	M

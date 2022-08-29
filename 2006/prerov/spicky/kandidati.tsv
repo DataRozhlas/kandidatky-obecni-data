@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7104	570061	1	1	1	1	Radek	Novotný	M	MUDr.		35	veterinární lékař	Špičky	99	1	0
-7104	570061	1	1	1	2	Jaroslava	Vyhnánková	F	Mgr.		45	učitelka	Špičky	99	1	0
-7104	570061	1	1	1	3	Karel	Humplík	M			54	zámečník	Špičky	1	1	0
-7104	570061	1	1	1	4	Jiřina	Vaculová	F			43	školnice	Špičky	1	1	0
-7104	570061	1	1	1	5	Jan	Hýža	M			68	důchodce	Špičky	1	1	0
-7104	570061	1	2	901	1	Jaroslav	Andrš	M	Ing.		51	ředitel HZ	Špičky	99	80	0
-7104	570061	1	2	901	2	Naděžda	Polednová	F			54	soukromá podnikatelka	Špičky	99	80	0
-7104	570061	1	2	901	3	Vladimír	Zamazal	M	Ing.		52	soukromý podnikatel	Špičky	99	80	0
-7104	570061	1	2	901	4	Marcela	Stáhalová	F			39	soukromá podnikatelka	Špičky	99	80	0
-7104	570061	1	2	901	5	Zdeněk	Boháč	M	Ing.		47	ředitel ZOD	Špičky	99	80	0
-7104	570061	1	2	901	6	Martin	Čadra	M			32	soukromý podnikatel	Špičky	99	80	0
-7104	570061	1	2	901	7	Miroslava	Hložková	F			50	laborantka	Špičky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7104	570061	1	1	1	1	Radek	Novotný	MUDr.		35	veterinární lékař	Špičky	99	1	0	M
+7104	570061	1	2	901	1	Jaroslav	Andrš	Ing.		51	ředitel HZ	Špičky	99	80	0	M
+7104	570061	1	1	1	2	Jaroslava	Vyhnánková	Mgr.		45	učitelka	Špičky	99	1	0	F
+7104	570061	1	2	901	2	Naděžda	Polednová			54	soukromá podnikatelka	Špičky	99	80	0	F
+7104	570061	1	1	1	3	Karel	Humplík			54	zámečník	Špičky	1	1	0	M
+7104	570061	1	2	901	3	Vladimír	Zamazal	Ing.		52	soukromý podnikatel	Špičky	99	80	0	M
+7104	570061	1	1	1	4	Jiřina	Vaculová			43	školnice	Špičky	1	1	0	F
+7104	570061	1	2	901	4	Marcela	Stáhalová			39	soukromá podnikatelka	Špičky	99	80	0	F
+7104	570061	1	1	1	5	Jan	Hýža			68	důchodce	Špičky	1	1	0	M
+7104	570061	1	2	901	5	Zdeněk	Boháč	Ing.		47	ředitel ZOD	Špičky	99	80	0	M
+7104	570061	1	2	901	6	Martin	Čadra			32	soukromý podnikatel	Špičky	99	80	0	M
+7104	570061	1	2	901	7	Miroslava	Hložková			50	laborantka	Špičky	99	80	0	F

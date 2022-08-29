@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	569232	1	1	902	1	Jiří	Plešák	M			32	obráběč	Ovesná Lhota	99	80	0
-6101	569232	1	1	902	2	Martin	Beran	M			34	mistr	Ovesná Lhota	99	80	0
-6101	569232	1	1	902	3	Pavel	Ulrich	M			29	truhlář	Ovesná Lhota	99	80	0
-6101	569232	1	1	902	4	Jaroslav	Seifert	M			63	důchodce	Ovesná Lhota	99	80	0
-6101	569232	1	2	901	1	Milan	Šiman	M	Ing.		56	státní úředník	Ovesná Lhota	99	80	0
-6101	569232	1	2	901	2	Tomáš	Rajdl	M			30	THP	Ovesná Lhota	99	80	0
-6101	569232	1	2	901	3	Vladimír	Šemík	M			51	soukromý podnikatel	Ovesná Lhota	99	80	0
-6101	569232	1	2	901	4	Vladimír	Šemík	M			29	THP	Ovesná Lhota	99	80	0
-6101	569232	1	2	901	5	Martin	Šemík	M			29	státní zaměstnanec	Ovesná Lhota	99	80	0
-6101	569232	1	2	901	6	Tereza	Kadlecová	F			31	mateřská dovolená	Ovesná Lhota	99	80	0
-6101	569232	1	2	901	7	Petr	Hroch	M			44	inv. důchodce	Ovesná Lhota	99	80	0
-6101	569232	1	2	901	8	Milan	Petřík	M			48	soukromý podnikatel	Ovesná Lhota	99	80	0
-6101	569232	1	2	901	9	Ondřej	Jelínek	M			23	řidič	Ovesná Lhota	99	80	0
-6101	569232	1	3	47	1	Václav	Ulrich	M			59	důchodce	Ovesná Lhota	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	569232	1	1	902	1	Jiří	Plešák			32	obráběč	Ovesná Lhota	99	80	0	M
+6101	569232	1	2	901	1	Milan	Šiman	Ing.		56	státní úředník	Ovesná Lhota	99	80	0	M
+6101	569232	1	3	47	1	Václav	Ulrich			59	důchodce	Ovesná Lhota	47	47	0	M
+6101	569232	1	1	902	2	Martin	Beran			34	mistr	Ovesná Lhota	99	80	0	M
+6101	569232	1	2	901	2	Tomáš	Rajdl			30	THP	Ovesná Lhota	99	80	0	M
+6101	569232	1	1	902	3	Pavel	Ulrich			29	truhlář	Ovesná Lhota	99	80	0	M
+6101	569232	1	2	901	3	Vladimír	Šemík			51	soukromý podnikatel	Ovesná Lhota	99	80	0	M
+6101	569232	1	1	902	4	Jaroslav	Seifert			63	důchodce	Ovesná Lhota	99	80	0	M
+6101	569232	1	2	901	4	Vladimír	Šemík			29	THP	Ovesná Lhota	99	80	0	M
+6101	569232	1	2	901	5	Martin	Šemík			29	státní zaměstnanec	Ovesná Lhota	99	80	0	M
+6101	569232	1	2	901	6	Tereza	Kadlecová			31	mateřská dovolená	Ovesná Lhota	99	80	0	F
+6101	569232	1	2	901	7	Petr	Hroch			44	inv. důchodce	Ovesná Lhota	99	80	0	M
+6101	569232	1	2	901	8	Milan	Petřík			48	soukromý podnikatel	Ovesná Lhota	99	80	0	M
+6101	569232	1	2	901	9	Ondřej	Jelínek			23	řidič	Ovesná Lhota	99	80	0	M

@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	570257	1	1	808	1	Radek	Slezák	M			42	OSVČ	Libníkovice	99	80	0
-5201	570257	1	2	807	1	Jiří	Vavřinka	M	Ing.		40	konzultant	Libníkovice	99	80	0
-5201	570257	1	3	802	1	Ladislav	Preclík	M			57	OSVČ	Libníkovice	99	80	0
-5201	570257	1	4	804	1	Pavel	Horák	M	Ing.		52	logistik	Horní Černilov	99	80	0
-5201	570257	1	5	809	1	Zdeněk	Janda	M			48	OSVČ	Horní Černilov	99	80	0
-5201	570257	1	6	806	1	Tomáš	Kunsta	M			38	učitel autoškoly	Libníkovice	99	80	0
-5201	570257	1	7	811	1	Helena	Klosová	F			49	účetní	Libníkovice	99	80	0
-5201	570257	1	8	810	1	Václav	Vavřinka	M	Ing.		50	manažer	Libníkovice	99	80	0
-5201	570257	1	9	805	1	Božetěch	Dinka	M			44	projektový manažer energetických staveb	Libníkovice	99	80	0
-5201	570257	1	10	803	1	Romana	Remsová	F			34	OSVČ, pomocnice ve zdravotnickém zařízení	Libníkovice	99	80	0
-5201	570257	1	11	801	1	Miloš	Čistý	M	Ing.		60	důchodce	Horní Černilov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	570257	1	1	808	1	Radek	Slezák			42	OSVČ	Libníkovice	99	80	0	M
+5201	570257	1	2	807	1	Jiří	Vavřinka	Ing.		40	konzultant	Libníkovice	99	80	0	M
+5201	570257	1	3	802	1	Ladislav	Preclík			57	OSVČ	Libníkovice	99	80	0	M
+5201	570257	1	4	804	1	Pavel	Horák	Ing.		52	logistik	Horní Černilov	99	80	0	M
+5201	570257	1	5	809	1	Zdeněk	Janda			48	OSVČ	Horní Černilov	99	80	0	M
+5201	570257	1	6	806	1	Tomáš	Kunsta			38	učitel autoškoly	Libníkovice	99	80	0	M
+5201	570257	1	7	811	1	Helena	Klosová			49	účetní	Libníkovice	99	80	0	F
+5201	570257	1	8	810	1	Václav	Vavřinka	Ing.		50	manažer	Libníkovice	99	80	0	M
+5201	570257	1	9	805	1	Božetěch	Dinka			44	projektový manažer energetických staveb	Libníkovice	99	80	0	M
+5201	570257	1	10	803	1	Romana	Remsová			34	OSVČ, pomocnice ve zdravotnickém zařízení	Libníkovice	99	80	0	F
+5201	570257	1	11	801	1	Miloš	Čistý	Ing.		60	důchodce	Horní Černilov	99	80	0	M

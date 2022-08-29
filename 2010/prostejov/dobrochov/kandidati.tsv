@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589438	1	1	1	1	Miloslav	Kříž	M	Ing.		49	starosta	Dobrochov	99	1	0
-7103	589438	1	1	1	2	Roman	Novotný	M			35	voják z povolání	Dobrochov	99	1	0
-7103	589438	1	1	1	3	Oto	Tanhäuser	M			42	báňský úpravář	Dobrochov	99	1	0
-7103	589438	1	1	1	4	Eva	Mudrlová	F			36	krejčí	Dobrochov	99	1	0
-7103	589438	1	1	1	5	Bohdan	Vrtal	M			34	OSVČ	Dobrochov	99	1	0
-7103	589438	1	2	901	1	Jana	Ryvolová	F			49	mistrová	Dobrochov	99	80	0
-7103	589438	1	2	901	2	Josef	Vrána	M	Ing.		50	státní zaměstnanec	Dobrochov	99	80	0
-7103	589438	1	2	901	3	Jiří	Charvát	M			47	kuchař	Dobrochov	99	80	0
-7103	589438	1	2	901	4	Vlastimil	Nakládal	M			46	obchodní zástupce	Dobrochov	99	80	0
-7103	589438	1	2	901	5	Milada	Koudelová	F			53	obchodní asistentka	Dobrochov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589438	1	1	1	1	Miloslav	Kříž	Ing.		49	starosta	Dobrochov	99	1	0	M
+7103	589438	1	2	901	1	Jana	Ryvolová			49	mistrová	Dobrochov	99	80	0	F
+7103	589438	1	1	1	2	Roman	Novotný			35	voják z povolání	Dobrochov	99	1	0	M
+7103	589438	1	2	901	2	Josef	Vrána	Ing.		50	státní zaměstnanec	Dobrochov	99	80	0	M
+7103	589438	1	1	1	3	Oto	Tanhäuser			42	báňský úpravář	Dobrochov	99	1	0	M
+7103	589438	1	2	901	3	Jiří	Charvát			47	kuchař	Dobrochov	99	80	0	M
+7103	589438	1	1	1	4	Eva	Mudrlová			36	krejčí	Dobrochov	99	1	0	F
+7103	589438	1	2	901	4	Vlastimil	Nakládal			46	obchodní zástupce	Dobrochov	99	80	0	M
+7103	589438	1	1	1	5	Bohdan	Vrtal			34	OSVČ	Dobrochov	99	1	0	M
+7103	589438	1	2	901	5	Milada	Koudelová			53	obchodní asistentka	Dobrochov	99	80	0	F

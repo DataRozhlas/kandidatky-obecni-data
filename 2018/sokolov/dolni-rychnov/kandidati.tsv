@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4103	538591	1	1	7	1	Miluše	Bartoňková	F	Ing.	Ph.D.	44	manažerka VŠ	Dolní Rychnov	99	7	A
-4103	538591	1	1	7	2	Tomáš	Kokoška	M	Mgr.		53	úředník	Dolní Rychnov	99	7	A
-4103	538591	1	1	7	3	Hana	Kokošková	F			51	úřednice	Dolní Rychnov	99	7	A
-4103	538591	1	1	7	4	Fathi	Hedar	M	MUDr.		49	primář	Dolní Rychnov	99	7	A
-4103	538591	1	1	7	5	Alice	Habalová	F			48	podnikatelka	Dolní Rychnov	99	7	A
-4103	538591	1	1	7	6	Soňa	Retortillo	F			55	bankovní úřednice	Dolní Rychnov	99	7	A
-4103	538591	1	1	7	7	Jitka	Slaninková	F			53	pojišťovací poradce	Dolní Rychnov	99	7	A
-4103	538591	1	1	7	8	Silvie	Horvát Schugová	F			47	prodavačka	Dolní Rychnov	99	7	A
-4103	538591	1	1	7	9	Luboš	Horvát	M			52	invalidní důchodce	Dolní Rychnov	99	7	A
-4103	538591	1	2	902	1	Jiří	Veršecký	M			43	elektrotechnik,chemik	Dolní Rychnov	99	80	A
-4103	538591	1	2	902	2	František	Křenek	M			38	státní zaměstnanec	Dolní Rychnov	99	80	A
-4103	538591	1	3	901	1	Anna	Klímová	F			53	starostka obce	Dolní Rychnov	99	80	A
-4103	538591	1	3	901	2	Drahomíra	Vrzalová	F			55	soukromý podnikatel	Dolní Rychnov	47	80	A
-4103	538591	1	3	901	3	Petr	Novák	M			43	strojník	Dolní Rychnov	99	80	A
-4103	538591	1	3	901	4	Taťána	Bednářová	F	Ing.		53	svářecí inženýr	Dolní Rychnov	99	80	A
-4103	538591	1	3	901	5	Jiří	Doboš	M			62	provozní elektromontér	Dolní Rychnov	99	80	A
-4103	538591	1	3	901	6	Martina	Komárková	F	Mgr.		33	mateřská dovolená	Dolní Rychnov	99	80	A
-4103	538591	1	3	901	7	Petr	Kácl	M			48	zámečník	Dolní Rychnov	99	80	A
-4103	538591	1	3	901	8	Jiří	Veverka	M			45	soukromý podnikatel	Dolní Rychnov	99	80	A
-4103	538591	1	3	901	9	František	Kříž	M			68	důchodce	Dolní Rychnov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4103	538591	1	1	7	1	Miluše	Bartoňková	Ing.	Ph.D.	44	manažerka VŠ	Dolní Rychnov	99	7	A	F
+4103	538591	1	2	902	1	Jiří	Veršecký			43	elektrotechnik,chemik	Dolní Rychnov	99	80	A	M
+4103	538591	1	3	901	1	Anna	Klímová			53	starostka obce	Dolní Rychnov	99	80	A	F
+4103	538591	1	1	7	2	Tomáš	Kokoška	Mgr.		53	úředník	Dolní Rychnov	99	7	A	M
+4103	538591	1	2	902	2	František	Křenek			38	státní zaměstnanec	Dolní Rychnov	99	80	A	M
+4103	538591	1	3	901	2	Drahomíra	Vrzalová			55	soukromý podnikatel	Dolní Rychnov	47	80	A	F
+4103	538591	1	1	7	3	Hana	Kokošková			51	úřednice	Dolní Rychnov	99	7	A	F
+4103	538591	1	3	901	3	Petr	Novák			43	strojník	Dolní Rychnov	99	80	A	M
+4103	538591	1	1	7	4	Fathi	Hedar	MUDr.		49	primář	Dolní Rychnov	99	7	A	M
+4103	538591	1	3	901	4	Taťána	Bednářová	Ing.		53	svářecí inženýr	Dolní Rychnov	99	80	A	F
+4103	538591	1	1	7	5	Alice	Habalová			48	podnikatelka	Dolní Rychnov	99	7	A	F
+4103	538591	1	3	901	5	Jiří	Doboš			62	provozní elektromontér	Dolní Rychnov	99	80	A	M
+4103	538591	1	1	7	6	Soňa	Retortillo			55	bankovní úřednice	Dolní Rychnov	99	7	A	F
+4103	538591	1	3	901	6	Martina	Komárková	Mgr.		33	mateřská dovolená	Dolní Rychnov	99	80	A	F
+4103	538591	1	1	7	7	Jitka	Slaninková			53	pojišťovací poradce	Dolní Rychnov	99	7	A	F
+4103	538591	1	3	901	7	Petr	Kácl			48	zámečník	Dolní Rychnov	99	80	A	M
+4103	538591	1	1	7	8	Silvie	Horvát Schugová			47	prodavačka	Dolní Rychnov	99	7	A	F
+4103	538591	1	3	901	8	Jiří	Veverka			45	soukromý podnikatel	Dolní Rychnov	99	80	A	M
+4103	538591	1	1	7	9	Luboš	Horvát			52	invalidní důchodce	Dolní Rychnov	99	7	A	M
+4103	538591	1	3	901	9	František	Kříž			68	důchodce	Dolní Rychnov	99	80	A	M

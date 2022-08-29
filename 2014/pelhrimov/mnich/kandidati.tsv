@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6103	548391	1	1	901	1	Kamil	Dolejší	M			68	důchodce	Mnich	99	80	0
-6103	548391	1	1	901	2	Jan	Pilný	M			35	elektroinženýr	Mnich	99	80	0
-6103	548391	1	1	901	3	Hana	Chaloupková	F			52	invalidní důchodce	Mnich	99	80	0
-6103	548391	1	1	901	4	Dana	Volfová	F			56	účetní	Mnich	99	80	0
-6103	548391	1	1	901	5	František	Macek	M			62	důchodce	Mirotín	99	80	0
-6103	548391	1	1	901	6	František	Dvořák	M			64	důchodce	Mnich	99	80	0
-6103	548391	1	1	901	7	Jiří	Fryc	M			44	manipulant	Mnich	99	80	0
-6103	548391	1	1	901	8	Milan	Strašík	M			51	invalidní důchodce	Mnich	99	80	0
-6103	548391	1	1	901	9	Miroslav	Chaloupek	M			30	svářeč	Mnich	99	80	0
-6103	548391	1	2	902	1	Petr	Čekal	M			38	řidič	Chválkov	99	80	0
-6103	548391	1	2	902	2	Jiří	Trunda	M			31	soukromý zemědělec	Mirotín	99	80	0
-6103	548391	1	2	902	3	Lucie	Kvíčerová	F			32	pracovnice v sociálních službách	Chválkov	99	80	0
-6103	548391	1	2	902	4	Miroslav	Kotrč	M			39	elektrikář	Chválkov	99	80	0
-6103	548391	1	2	902	5	Jitka	Vacovská	F			39	ekonomka	Chválkov	99	80	0
-6103	548391	1	2	902	6	Jan	Michal	M			23	tesař	Chválkov	99	80	0
-6103	548391	1	2	902	7	Petra	Brejchová	F			28	soukromý zemědělec	Mirotín	99	80	0
-6103	548391	1	2	902	8	Jiří	Kotrč	M			41	vedoucí výroby	Chválkov	99	80	0
-6103	548391	1	2	902	9	Jiří	Semotán	M			56	řidič	Rutov	99	80	0
-6103	548391	1	3	903	1	Jiří	Klečatský	M			44	řidič	Mnich	99	80	0
-6103	548391	1	3	903	2	Karel	Dvořák	M			48	OSVČ	Mnich	99	80	0
-6103	548391	1	3	903	3	Vlastimil	Zeman	M			61	zedník	Mnich	99	80	0
-6103	548391	1	3	903	4	Pavel	Velíšek	M			22	student	Mnich	99	80	0
-6103	548391	1	3	903	5	Jaroslava	Dvořáčková	F		DiS.	36	administrativní pracovnice	Mnich	99	80	0
-6103	548391	1	3	903	6	Tomáš	Uhlík	M			43	dělník	Mnich	99	80	0
-6103	548391	1	3	903	7	Jan	Dvořáček	M			38	administrativní pracovník	Mnich	99	80	0
-6103	548391	1	3	903	8	Věra	Jedličková	F			60	důchodkyně	Mnich	99	80	0
-6103	548391	1	3	903	9	Monika	Zděnková	F			40	zdravotní sestra	Mnich	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6103	548391	1	1	901	1	Kamil	Dolejší			68	důchodce	Mnich	99	80	0	M
+6103	548391	1	2	902	1	Petr	Čekal			38	řidič	Chválkov	99	80	0	M
+6103	548391	1	3	903	1	Jiří	Klečatský			44	řidič	Mnich	99	80	0	M
+6103	548391	1	1	901	2	Jan	Pilný			35	elektroinženýr	Mnich	99	80	0	M
+6103	548391	1	2	902	2	Jiří	Trunda			31	soukromý zemědělec	Mirotín	99	80	0	M
+6103	548391	1	3	903	2	Karel	Dvořák			48	OSVČ	Mnich	99	80	0	M
+6103	548391	1	1	901	3	Hana	Chaloupková			52	invalidní důchodce	Mnich	99	80	0	F
+6103	548391	1	2	902	3	Lucie	Kvíčerová			32	pracovnice v sociálních službách	Chválkov	99	80	0	F
+6103	548391	1	3	903	3	Vlastimil	Zeman			61	zedník	Mnich	99	80	0	M
+6103	548391	1	1	901	4	Dana	Volfová			56	účetní	Mnich	99	80	0	F
+6103	548391	1	2	902	4	Miroslav	Kotrč			39	elektrikář	Chválkov	99	80	0	M
+6103	548391	1	3	903	4	Pavel	Velíšek			22	student	Mnich	99	80	0	M
+6103	548391	1	1	901	5	František	Macek			62	důchodce	Mirotín	99	80	0	M
+6103	548391	1	2	902	5	Jitka	Vacovská			39	ekonomka	Chválkov	99	80	0	F
+6103	548391	1	3	903	5	Jaroslava	Dvořáčková		DiS.	36	administrativní pracovnice	Mnich	99	80	0	F
+6103	548391	1	1	901	6	František	Dvořák			64	důchodce	Mnich	99	80	0	M
+6103	548391	1	2	902	6	Jan	Michal			23	tesař	Chválkov	99	80	0	M
+6103	548391	1	3	903	6	Tomáš	Uhlík			43	dělník	Mnich	99	80	0	M
+6103	548391	1	1	901	7	Jiří	Fryc			44	manipulant	Mnich	99	80	0	M
+6103	548391	1	2	902	7	Petra	Brejchová			28	soukromý zemědělec	Mirotín	99	80	0	F
+6103	548391	1	3	903	7	Jan	Dvořáček			38	administrativní pracovník	Mnich	99	80	0	M
+6103	548391	1	1	901	8	Milan	Strašík			51	invalidní důchodce	Mnich	99	80	0	M
+6103	548391	1	2	902	8	Jiří	Kotrč			41	vedoucí výroby	Chválkov	99	80	0	M
+6103	548391	1	3	903	8	Věra	Jedličková			60	důchodkyně	Mnich	99	80	0	F
+6103	548391	1	1	901	9	Miroslav	Chaloupek			30	svářeč	Mnich	99	80	0	M
+6103	548391	1	2	902	9	Jiří	Semotán			56	řidič	Rutov	99	80	0	M
+6103	548391	1	3	903	9	Monika	Zděnková			40	zdravotní sestra	Mnich	99	80	0	F

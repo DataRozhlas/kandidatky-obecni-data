@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	570443	1	1	901	1	Luboš	Podlipný	M	Ing.		52	strojní inženýr	Neděliště	99	80	0
-5201	570443	1	1	901	2	Uršula	Stannerová	F			45	učitelka mateřské školy	Neděliště	99	80	0
-5201	570443	1	1	901	3	Luděk	Mozdík	M			50	stavební technik	Neděliště	99	80	0
-5201	570443	1	1	901	4	Jiří	Petr	M	Ing.		43	stavební inženýr	Neděliště	99	80	0
-5201	570443	1	1	901	5	Jiří	Šenkýř	M			50	prodavač stavebnin	Neděliště	99	80	0
-5201	570443	1	1	901	6	Pavel	Hampl	M			35	truhlář	Neděliště	99	80	0
-5201	570443	1	2	902	1	Václav	Otřísal	M			49	vedoucí prodejny	Neděliště	99	80	0
-5201	570443	1	2	902	2	Josef	Michálek	M			47	programátor	Neděliště	99	80	0
-5201	570443	1	2	902	3	Zdeněk	Kiršbaum	M			35	OSVČ	Neděliště	99	80	0
-5201	570443	1	2	902	4	Michal	Stanner	M			28	obchodní zástupce	Neděliště	99	80	0
-5201	570443	1	2	902	5	Jaroslav	Heteš	M			33	řidič	Neděliště	99	80	0
-5201	570443	1	2	902	6	Jiří	Gabriel	M			56	zámečník	Neděliště	99	80	0
-5201	570443	1	2	902	7	Miloš	Budín	M			37	obchodní zástupce	Neděliště	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	570443	1	1	901	1	Luboš	Podlipný	Ing.		52	strojní inženýr	Neděliště	99	80	0	M
+5201	570443	1	2	902	1	Václav	Otřísal			49	vedoucí prodejny	Neděliště	99	80	0	M
+5201	570443	1	1	901	2	Uršula	Stannerová			45	učitelka mateřské školy	Neděliště	99	80	0	F
+5201	570443	1	2	902	2	Josef	Michálek			47	programátor	Neděliště	99	80	0	M
+5201	570443	1	1	901	3	Luděk	Mozdík			50	stavební technik	Neděliště	99	80	0	M
+5201	570443	1	2	902	3	Zdeněk	Kiršbaum			35	OSVČ	Neděliště	99	80	0	M
+5201	570443	1	1	901	4	Jiří	Petr	Ing.		43	stavební inženýr	Neděliště	99	80	0	M
+5201	570443	1	2	902	4	Michal	Stanner			28	obchodní zástupce	Neděliště	99	80	0	M
+5201	570443	1	1	901	5	Jiří	Šenkýř			50	prodavač stavebnin	Neděliště	99	80	0	M
+5201	570443	1	2	902	5	Jaroslav	Heteš			33	řidič	Neděliště	99	80	0	M
+5201	570443	1	1	901	6	Pavel	Hampl			35	truhlář	Neděliště	99	80	0	M
+5201	570443	1	2	902	6	Jiří	Gabriel			56	zámečník	Neděliště	99	80	0	M
+5201	570443	1	2	902	7	Miloš	Budín			37	obchodní zástupce	Neděliště	99	80	0	M

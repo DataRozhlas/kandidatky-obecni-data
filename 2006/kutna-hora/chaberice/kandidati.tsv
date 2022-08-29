@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2105	534081	1	1	903	1	Roman	Měkota	M			29	OSVČ	Čížov	99	80	0
-2105	534081	1	1	903	2	Marie	Barešová	F			57	důchodce	Chabeřice	99	80	0
-2105	534081	1	1	903	3	Václav	Hromas	M			30	dělník	Čížov	99	80	0
-2105	534081	1	1	903	4	Václav	Zuran	M			46	dělník	Čížov	99	80	0
-2105	534081	1	1	903	5	Petra	Strnadová	F			27	OSVČ	Čížov	99	80	0
-2105	534081	1	1	903	6	Pavel	Strnad	M			54	invalidní důchodce	Čížov	99	80	0
-2105	534081	1	1	903	7	Stanislav	Kotrejch	M			43	dělník	Brandýs	99	80	0
-2105	534081	1	1	903	8	Eva	Měkotová	F			31	mateřská dovolená	Čížov	99	80	0
-2105	534081	1	1	903	9	Josef	Štícha	M			54	zaměstnanec ČD	Holšice	99	80	0
-2105	534081	1	2	902	1	Barbora	Zárubová	F			19	studentka	Chabeřice	99	80	0
-2105	534081	1	2	902	2	Petr	Burda	M			21	operátor	Chabeřice	99	80	0
-2105	534081	1	2	902	3	Klára	Klčová	F			18	studentka	Holšice	99	80	0
-2105	534081	1	2	902	4	Josef	Peroutka	M			48	dělník	Chabeřice	99	80	0
-2105	534081	1	2	902	5	Lukáš	Petrů	M			20	student	Chabeřice	99	80	0
-2105	534081	1	2	902	6	Tomáš	Šafra	M			21	student	Chabeřice	99	80	0
-2105	534081	1	2	902	7	Lukáš	Sosnovec	M			18	student	Holšice	99	80	0
-2105	534081	1	2	902	8	Josef	Edr	M			27	dělník	Chabeřice	99	80	0
-2105	534081	1	2	902	9	Lucie	Zárubová	F			20	studentka	Chabeřice	99	80	0
-2105	534081	1	3	901	1	František	Pergr	M			43	soukromý podnikatel	Chabeřice	99	80	0
-2105	534081	1	3	901	2	František	Burda	M			43	dělník	Chabeřice	99	80	0
-2105	534081	1	3	901	3	Josef	Tvrdík	M			65	důchodce	Chabeřice	99	80	0
-2105	534081	1	3	901	4	Petr	Záruba	M	MVDr.		49	veterinární lékař	Chabeřice	99	80	0
-2105	534081	1	3	901	5	Jiří	Petrů	M			49	elektrikář	Chabeřice	99	80	0
-2105	534081	1	3	901	6	Miroslav	Vilimovský	M			46	dělník	Chabeřice	99	80	0
-2105	534081	1	3	901	7	Václav	Lichtenberk	M			62	důchodce	Chabeřice	99	80	0
-2105	534081	1	3	901	8	Vladimír	Pacák	M			52	soukromý podnikatel	Chabeřice	99	80	0
-2105	534081	1	3	901	9	Antonín	Jelínek	M			48	soukromý podnikatel	Chabeřice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2105	534081	1	1	903	1	Roman	Měkota			29	OSVČ	Čížov	99	80	0	M
+2105	534081	1	2	902	1	Barbora	Zárubová			19	studentka	Chabeřice	99	80	0	F
+2105	534081	1	3	901	1	František	Pergr			43	soukromý podnikatel	Chabeřice	99	80	0	M
+2105	534081	1	1	903	2	Marie	Barešová			57	důchodce	Chabeřice	99	80	0	F
+2105	534081	1	2	902	2	Petr	Burda			21	operátor	Chabeřice	99	80	0	M
+2105	534081	1	3	901	2	František	Burda			43	dělník	Chabeřice	99	80	0	M
+2105	534081	1	1	903	3	Václav	Hromas			30	dělník	Čížov	99	80	0	M
+2105	534081	1	2	902	3	Klára	Klčová			18	studentka	Holšice	99	80	0	F
+2105	534081	1	3	901	3	Josef	Tvrdík			65	důchodce	Chabeřice	99	80	0	M
+2105	534081	1	1	903	4	Václav	Zuran			46	dělník	Čížov	99	80	0	M
+2105	534081	1	2	902	4	Josef	Peroutka			48	dělník	Chabeřice	99	80	0	M
+2105	534081	1	3	901	4	Petr	Záruba	MVDr.		49	veterinární lékař	Chabeřice	99	80	0	M
+2105	534081	1	1	903	5	Petra	Strnadová			27	OSVČ	Čížov	99	80	0	F
+2105	534081	1	2	902	5	Lukáš	Petrů			20	student	Chabeřice	99	80	0	M
+2105	534081	1	3	901	5	Jiří	Petrů			49	elektrikář	Chabeřice	99	80	0	M
+2105	534081	1	1	903	6	Pavel	Strnad			54	invalidní důchodce	Čížov	99	80	0	M
+2105	534081	1	2	902	6	Tomáš	Šafra			21	student	Chabeřice	99	80	0	M
+2105	534081	1	3	901	6	Miroslav	Vilimovský			46	dělník	Chabeřice	99	80	0	M
+2105	534081	1	1	903	7	Stanislav	Kotrejch			43	dělník	Brandýs	99	80	0	M
+2105	534081	1	2	902	7	Lukáš	Sosnovec			18	student	Holšice	99	80	0	M
+2105	534081	1	3	901	7	Václav	Lichtenberk			62	důchodce	Chabeřice	99	80	0	M
+2105	534081	1	1	903	8	Eva	Měkotová			31	mateřská dovolená	Čížov	99	80	0	F
+2105	534081	1	2	902	8	Josef	Edr			27	dělník	Chabeřice	99	80	0	M
+2105	534081	1	3	901	8	Vladimír	Pacák			52	soukromý podnikatel	Chabeřice	99	80	0	M
+2105	534081	1	1	903	9	Josef	Štícha			54	zaměstnanec ČD	Holšice	99	80	0	M
+2105	534081	1	2	902	9	Lucie	Zárubová			20	studentka	Chabeřice	99	80	0	F
+2105	534081	1	3	901	9	Antonín	Jelínek			48	soukromý podnikatel	Chabeřice	99	80	0	M

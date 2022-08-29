@@ -1,40 +1,40 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	578096	1	1	901	1	Jiří	Smékal	M			47	starosta obce	Chornice	99	80	0
-5303	578096	1	1	901	2	Milan	Ševčík	M			41	zámečník	Chornice	99	80	0
-5303	578096	1	1	901	3	Jaroslav	Vyhlídal	M	Mgr.		54	ředitel školy	Chornice	99	80	0
-5303	578096	1	1	901	4	Hana	Němcová	F			49	vedoucí učitelka MŠ	Chornice	99	80	0
-5303	578096	1	1	901	5	Jaroslav	Vykydal	M			66	důchodce	Chornice	99	80	0
-5303	578096	1	1	901	6	Jaroslav	Horníček	M			40	mechanik opravář	Chornice	99	80	0
-5303	578096	1	1	901	7	Zdeněk	Schreiber	M			28	elektromontér	Chornice	99	80	0
-5303	578096	1	1	901	8	Bohumil	Voznička	M			49	invalidní důchodce	Chornice	99	80	0
-5303	578096	1	1	901	9	František	Písek	M			36	zaměstnanec ČD	Chornice	99	80	0
-5303	578096	1	1	901	10	Jan	Zouhar	M			58	revírník	Chornice	99	80	0
-5303	578096	1	1	901	11	Lubomír	Vykydal	M			61	školník	Chornice	99	80	0
-5303	578096	1	1	901	12	Metoděj	Dvořák	M			54	podnikatel	Chornice	99	80	0
-5303	578096	1	1	901	13	Hana	Nováková	F	Mgr.		39	středoškolská učitelka	Chornice	99	80	0
-5303	578096	1	2	902	1	Štěpánka	Hrubá	F	Bc.		35	administrativní pracovník	Chornice	99	80	0
-5303	578096	1	2	902	2	Pavel	Hrubý	M	Bc.		38	podnikatel	Chornice	99	80	0
-5303	578096	1	2	902	3	Jindřich	Chyla	M			60	důchodce	Chornice	99	80	0
-5303	578096	1	2	902	4	Pavel	Klvač	M			34	úředník	Chornice	99	80	0
-5303	578096	1	2	902	5	Tomáš	Kraus	M			28	obchodní zástupce	Chornice	99	80	0
-5303	578096	1	2	902	6	Přemysl	Macháček	M			62	důchodce	Chornice	99	80	0
-5303	578096	1	2	902	7	Jaroslav	Mauer	M	Bc.		33	podnikatel	Chornice	99	80	0
-5303	578096	1	2	902	8	Emil	Ošlejšek	M			56	zedník	Chornice	99	80	0
-5303	578096	1	2	902	9	Miloslav	Soukup	M			51	masér	Chornice	99	80	0
-5303	578096	1	2	902	10	Libor	Stejskal	M			44	živnostník	Chornice	99	80	0
-5303	578096	1	2	902	11	Roman	Studený	M			26	kuchař	Chornice	99	80	0
-5303	578096	1	2	902	12	Zdeněk	Štefl	M			48	zahradník	Chornice	99	80	0
-5303	578096	1	2	902	13	Alena	Václavková	F			36	vedoucí čerpací stanice	Chornice	99	80	0
-5303	578096	1	3	1	1	Radek	Pilař	M	Mgr.		42	zástupce ředitele	Chornice	1	1	0
-5303	578096	1	3	1	2	Marie	Henslová	F			50	dělnice	Chornice	99	1	0
-5303	578096	1	3	1	3	František	Smítal	M	Ing.		53	zemědělský poradce	Chornice	99	1	0
-5303	578096	1	3	1	4	Pavla	Lexová	F			42	účetní	Chornice	99	1	0
-5303	578096	1	3	1	5	Ivo	Vymětal	M	Ing.		46	učitel	Chornice	99	1	0
-5303	578096	1	3	1	6	Ilona	Vašíčková	F			20	studentka	Chornice	99	1	0
-5303	578096	1	3	1	7	Martin	Továrek	M	Mgr.		29	obchodní manažer	Chornice	99	1	0
-5303	578096	1	3	1	8	Blanka	Mauerová	F	Mgr.		33	učitelka	Chornice	99	1	0
-5303	578096	1	3	1	9	Petr	Felner	M			19	student	Chornice	99	1	0
-5303	578096	1	3	1	10	Soňa	Šteflová	F			48	prodavačka	Chornice	99	1	0
-5303	578096	1	3	1	11	Vlastimil	Knoll	M			50	zámečník	Chornice	99	1	0
-5303	578096	1	3	1	12	Anna	Knollová	F			62	důchodkyně	Chornice	1	1	0
-5303	578096	1	3	1	13	Lubomír	Machatý	M			64	důchodce	Chornice	1	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	578096	1	1	901	1	Jiří	Smékal			47	starosta obce	Chornice	99	80	0	M
+5303	578096	1	2	902	1	Štěpánka	Hrubá	Bc.		35	administrativní pracovník	Chornice	99	80	0	F
+5303	578096	1	3	1	1	Radek	Pilař	Mgr.		42	zástupce ředitele	Chornice	1	1	0	M
+5303	578096	1	1	901	2	Milan	Ševčík			41	zámečník	Chornice	99	80	0	M
+5303	578096	1	2	902	2	Pavel	Hrubý	Bc.		38	podnikatel	Chornice	99	80	0	M
+5303	578096	1	3	1	2	Marie	Henslová			50	dělnice	Chornice	99	1	0	F
+5303	578096	1	1	901	3	Jaroslav	Vyhlídal	Mgr.		54	ředitel školy	Chornice	99	80	0	M
+5303	578096	1	2	902	3	Jindřich	Chyla			60	důchodce	Chornice	99	80	0	M
+5303	578096	1	3	1	3	František	Smítal	Ing.		53	zemědělský poradce	Chornice	99	1	0	M
+5303	578096	1	1	901	4	Hana	Němcová			49	vedoucí učitelka MŠ	Chornice	99	80	0	F
+5303	578096	1	2	902	4	Pavel	Klvač			34	úředník	Chornice	99	80	0	M
+5303	578096	1	3	1	4	Pavla	Lexová			42	účetní	Chornice	99	1	0	F
+5303	578096	1	1	901	5	Jaroslav	Vykydal			66	důchodce	Chornice	99	80	0	M
+5303	578096	1	2	902	5	Tomáš	Kraus			28	obchodní zástupce	Chornice	99	80	0	M
+5303	578096	1	3	1	5	Ivo	Vymětal	Ing.		46	učitel	Chornice	99	1	0	M
+5303	578096	1	1	901	6	Jaroslav	Horníček			40	mechanik opravář	Chornice	99	80	0	M
+5303	578096	1	2	902	6	Přemysl	Macháček			62	důchodce	Chornice	99	80	0	M
+5303	578096	1	3	1	6	Ilona	Vašíčková			20	studentka	Chornice	99	1	0	F
+5303	578096	1	1	901	7	Zdeněk	Schreiber			28	elektromontér	Chornice	99	80	0	M
+5303	578096	1	2	902	7	Jaroslav	Mauer	Bc.		33	podnikatel	Chornice	99	80	0	M
+5303	578096	1	3	1	7	Martin	Továrek	Mgr.		29	obchodní manažer	Chornice	99	1	0	M
+5303	578096	1	1	901	8	Bohumil	Voznička			49	invalidní důchodce	Chornice	99	80	0	M
+5303	578096	1	2	902	8	Emil	Ošlejšek			56	zedník	Chornice	99	80	0	M
+5303	578096	1	3	1	8	Blanka	Mauerová	Mgr.		33	učitelka	Chornice	99	1	0	F
+5303	578096	1	1	901	9	František	Písek			36	zaměstnanec ČD	Chornice	99	80	0	M
+5303	578096	1	2	902	9	Miloslav	Soukup			51	masér	Chornice	99	80	0	M
+5303	578096	1	3	1	9	Petr	Felner			19	student	Chornice	99	1	0	M
+5303	578096	1	1	901	10	Jan	Zouhar			58	revírník	Chornice	99	80	0	M
+5303	578096	1	2	902	10	Libor	Stejskal			44	živnostník	Chornice	99	80	0	M
+5303	578096	1	3	1	10	Soňa	Šteflová			48	prodavačka	Chornice	99	1	0	F
+5303	578096	1	1	901	11	Lubomír	Vykydal			61	školník	Chornice	99	80	0	M
+5303	578096	1	2	902	11	Roman	Studený			26	kuchař	Chornice	99	80	0	M
+5303	578096	1	3	1	11	Vlastimil	Knoll			50	zámečník	Chornice	99	1	0	M
+5303	578096	1	1	901	12	Metoděj	Dvořák			54	podnikatel	Chornice	99	80	0	M
+5303	578096	1	2	902	12	Zdeněk	Štefl			48	zahradník	Chornice	99	80	0	M
+5303	578096	1	3	1	12	Anna	Knollová			62	důchodkyně	Chornice	1	1	0	F
+5303	578096	1	1	901	13	Hana	Nováková	Mgr.		39	středoškolská učitelka	Chornice	99	80	0	F
+5303	578096	1	2	902	13	Alena	Václavková			36	vedoucí čerpací stanice	Chornice	99	80	0	F
+5303	578096	1	3	1	13	Lubomír	Machatý			64	důchodce	Chornice	1	1	0	M

@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3204	540641	1	1	902	1	Zdeněk	Šimek	M	JUDr.		62	právník	Mokrouše	99	80	0
-3204	540641	1	1	902	2	Zdeněk	Vaněk	M			51	invalidní důchodce	Mokrouše	99	80	0
-3204	540641	1	1	902	3	Ivana	Vatrsová	F			51	podnikatelka	Mokrouše	99	80	0
-3204	540641	1	1	902	4	Hana	Urbánková	F			51	ekonomka	Mokrouše	99	80	0
-3204	540641	1	1	902	5	Jiří	Protiva	M			41	řidič	Mokrouše	99	80	0
-3204	540641	1	1	902	6	Alžběta	Tomášková	F			61	důchodkyně	Mokrouše	99	80	0
-3204	540641	1	1	902	7	Alena	Pousková	F			25	mateřská dovolená	Mokrouše	99	80	0
-3204	540641	1	2	903	1	Svatoslav	Koutský	M	Ing.		67	důchodce	Mokrouše	99	80	0
-3204	540641	1	2	903	2	Pavel	Šrail	M	Ing.		51	technik IT	Mokrouše	99	80	0
-3204	540641	1	2	903	3	Hana	Timková	F	Mgr.		41	učitelka	Mokrouše	99	80	0
-3204	540641	1	2	903	4	Jiří	Matějovský	M			48	soukr. podnikatel	Mokrouše	99	80	0
-3204	540641	1	2	903	5	Zuzana	Vršanská	F			41	zdravotní sestra	Mokrouše	99	80	0
-3204	540641	1	2	903	6	František	Černý	M			33	administrátor IT	Mokrouše	99	80	0
-3204	540641	1	2	903	7	Jiří	Černý	M			72	důchodce	Mokrouše	99	80	0
-3204	540641	1	3	901	1	Miloslav	Fajman	M			39	mechanik	Mokrouše	99	80	0
-3204	540641	1	3	901	2	Libor	Nový	M			33	servisní technik	Mokrouše	99	80	0
-3204	540641	1	3	901	3	Jan	Klasna	M			29	technik	Mokrouše	99	80	0
-3204	540641	1	3	901	4	Jana	Nová	F			31	mateřská dovolená	Mokrouše	99	80	0
-3204	540641	1	3	901	5	Karel	Vyleta	M			42	servisní technik	Mokrouše	99	80	0
-3204	540641	1	3	901	6	Jiří	Šmolík	M			40	zámečník	Mokrouše	99	80	0
-3204	540641	1	3	901	7	Pavel	Černý	M			32	zámečník	Mokrouše	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3204	540641	1	1	902	1	Zdeněk	Šimek	JUDr.		62	právník	Mokrouše	99	80	0	M
+3204	540641	1	2	903	1	Svatoslav	Koutský	Ing.		67	důchodce	Mokrouše	99	80	0	M
+3204	540641	1	3	901	1	Miloslav	Fajman			39	mechanik	Mokrouše	99	80	0	M
+3204	540641	1	1	902	2	Zdeněk	Vaněk			51	invalidní důchodce	Mokrouše	99	80	0	M
+3204	540641	1	2	903	2	Pavel	Šrail	Ing.		51	technik IT	Mokrouše	99	80	0	M
+3204	540641	1	3	901	2	Libor	Nový			33	servisní technik	Mokrouše	99	80	0	M
+3204	540641	1	1	902	3	Ivana	Vatrsová			51	podnikatelka	Mokrouše	99	80	0	F
+3204	540641	1	2	903	3	Hana	Timková	Mgr.		41	učitelka	Mokrouše	99	80	0	F
+3204	540641	1	3	901	3	Jan	Klasna			29	technik	Mokrouše	99	80	0	M
+3204	540641	1	1	902	4	Hana	Urbánková			51	ekonomka	Mokrouše	99	80	0	F
+3204	540641	1	2	903	4	Jiří	Matějovský			48	soukr. podnikatel	Mokrouše	99	80	0	M
+3204	540641	1	3	901	4	Jana	Nová			31	mateřská dovolená	Mokrouše	99	80	0	F
+3204	540641	1	1	902	5	Jiří	Protiva			41	řidič	Mokrouše	99	80	0	M
+3204	540641	1	2	903	5	Zuzana	Vršanská			41	zdravotní sestra	Mokrouše	99	80	0	F
+3204	540641	1	3	901	5	Karel	Vyleta			42	servisní technik	Mokrouše	99	80	0	M
+3204	540641	1	1	902	6	Alžběta	Tomášková			61	důchodkyně	Mokrouše	99	80	0	F
+3204	540641	1	2	903	6	František	Černý			33	administrátor IT	Mokrouše	99	80	0	M
+3204	540641	1	3	901	6	Jiří	Šmolík			40	zámečník	Mokrouše	99	80	0	M
+3204	540641	1	1	902	7	Alena	Pousková			25	mateřská dovolená	Mokrouše	99	80	0	F
+3204	540641	1	2	903	7	Jiří	Černý			72	důchodce	Mokrouše	99	80	0	M
+3204	540641	1	3	901	7	Pavel	Černý			32	zámečník	Mokrouše	99	80	0	M

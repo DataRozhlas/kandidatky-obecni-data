@@ -1,39 +1,39 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	581551	1	1	721	1	Marie	Vyhňáková	F	MUDr.		55	lékařka	Drnovice	99	721	0
-6201	581551	1	1	721	2	Petr	Ducháček	M	Bc.		23	marketingový konzultant	Drnovice	721	721	0
-6201	581551	1	1	721	3	Stanislav	Škrabal	M			32	učitel odborného výcviku	Drnovice	99	721	0
-6201	581551	1	1	721	4	Jiří	Kasal	M			39	programátor-seřizovač CNC	Drnovice	99	721	0
-6201	581551	1	1	721	5	Vladimír	Křepela	M			54	zedník	Drnovice	99	721	0
-6201	581551	1	1	721	6	Milan	Vrbas	M			57	živnostník-nástrojař	Drnovice	99	721	0
-6201	581551	1	1	721	7	František	Slavíček	M			41	nástrojař	Drnovice	99	721	0
-6201	581551	1	1	721	8	Ludmila	Sedláčková	F			61	živnostník-vazba květin	Drnovice	99	721	0
-6201	581551	1	1	721	9	Ivan	Mihálek	M			30	vedoucí výroby elektroprůmyslu	Drnovice	721	721	0
-6201	581551	1	2	53	1	Jana	Smejkalová	F			53	admin. pracovnice	Drnovice	53	53	0
-6201	581551	1	2	53	2	Jan	Růžička	M	Ing.		37	rostlinolékař	Drnovice	53	53	0
-6201	581551	1	2	53	3	Marek	Kupka	M	Ing.		31	auditor	Drnovice	53	53	0
-6201	581551	1	2	53	4	Tomáš	Páral	M	Ing.		25	referent financování	Drnovice	99	53	0
-6201	581551	1	2	53	5	Petr	Pernica	M	Ing.		31	tajemník Veter. far. uni. Brno	Drnovice	99	53	0
-6201	581551	1	2	53	6	Jan	Pavel	M			28	vedoucí skladu	Drnovice	99	53	0
-6201	581551	1	2	53	7	Rudolf	Dokonal	M			79	důchodce	Drnovice	53	53	0
-6201	581551	1	3	7	1	Petr	Šamšula	M			53	truhlář	Drnovice	7	7	0
-6201	581551	1	3	7	2	Antonín	Šorm	M			58	strojní zámečník	Drnovice	99	7	0
-6201	581551	1	3	7	3	Jiří	Kopřiva	M			56	podnikatel	Drnovice	7	7	0
-6201	581551	1	3	7	4	Miloslav	Boček	M			63	důchodce	Drnovice	99	7	0
-6201	581551	1	3	7	5	Luboš	Skřivánek	M			39	malíř-natěrač	Drnovice	7	7	0
-6201	581551	1	3	7	6	Oldřich	Toman	M			72	důchodce	Drnovice	7	7	0
-6201	581551	1	3	7	7	Antonín	Přibyl	M			64	důchodce	Drnovice	7	7	0
-6201	581551	1	4	470	1	Bohumil	Tenora	M			52	starosta obce	Drnovice	99	166	0
-6201	581551	1	4	470	2	Jan	Řezník	M			59	radiologický asistent	Drnovice	99	166	0
-6201	581551	1	4	470	3	Blanka	Hegrová	F			47	administrativní pracovnice	Drnovice	99	166	0
-6201	581551	1	4	470	4	Jiří	Šafář	M			46	ředitel zemědělské společnosti	Drnovice	99	80	0
-6201	581551	1	4	470	5	Alois	Dufek	M			46	skladník	Drnovice	99	80	0
-6201	581551	1	4	470	6	Jiří	Mihola	M			46	technik	Drnovice	99	80	0
-6201	581551	1	4	470	7	Naděžda	Novotná	F			19	studující	Drnovice	99	80	0
-6201	581551	1	5	901	1	Jaroslav	Sedláček	M			38	podnikatel	Drnovice	99	80	0
-6201	581551	1	5	901	2	Josef	Machát	M	PaedDr.		56	ved.oddělení CS MV	Drnovice	99	80	0
-6201	581551	1	5	901	3	Pavla	Nesnídalová	F	Mgr.		41	učitelka	Drnovice	99	80	0
-6201	581551	1	5	901	4	Karel	Krška	M			42	živnostník	Drnovice	99	80	0
-6201	581551	1	5	901	5	Radek	Zouhar	M			46	podnikatel	Drnovice	99	80	0
-6201	581551	1	5	901	6	Roman	Rokoš	M			46	obchodní zástupce	Drnovice	99	80	0
-6201	581551	1	5	901	7	Jiří	Pavel	M			30	řidič	Drnovice	99	80	0
-6201	581551	1	5	901	8	Jarmila	Zachovalová	F			45	sekretářka	Drnovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	581551	1	1	721	1	Marie	Vyhňáková	MUDr.		55	lékařka	Drnovice	99	721	0	F
+6201	581551	1	2	53	1	Jana	Smejkalová			53	admin. pracovnice	Drnovice	53	53	0	F
+6201	581551	1	3	7	1	Petr	Šamšula			53	truhlář	Drnovice	7	7	0	M
+6201	581551	1	4	470	1	Bohumil	Tenora			52	starosta obce	Drnovice	99	166	0	M
+6201	581551	1	5	901	1	Jaroslav	Sedláček			38	podnikatel	Drnovice	99	80	0	M
+6201	581551	1	1	721	2	Petr	Ducháček	Bc.		23	marketingový konzultant	Drnovice	721	721	0	M
+6201	581551	1	2	53	2	Jan	Růžička	Ing.		37	rostlinolékař	Drnovice	53	53	0	M
+6201	581551	1	3	7	2	Antonín	Šorm			58	strojní zámečník	Drnovice	99	7	0	M
+6201	581551	1	4	470	2	Jan	Řezník			59	radiologický asistent	Drnovice	99	166	0	M
+6201	581551	1	5	901	2	Josef	Machát	PaedDr.		56	ved.oddělení CS MV	Drnovice	99	80	0	M
+6201	581551	1	1	721	3	Stanislav	Škrabal			32	učitel odborného výcviku	Drnovice	99	721	0	M
+6201	581551	1	2	53	3	Marek	Kupka	Ing.		31	auditor	Drnovice	53	53	0	M
+6201	581551	1	3	7	3	Jiří	Kopřiva			56	podnikatel	Drnovice	7	7	0	M
+6201	581551	1	4	470	3	Blanka	Hegrová			47	administrativní pracovnice	Drnovice	99	166	0	F
+6201	581551	1	5	901	3	Pavla	Nesnídalová	Mgr.		41	učitelka	Drnovice	99	80	0	F
+6201	581551	1	1	721	4	Jiří	Kasal			39	programátor-seřizovač CNC	Drnovice	99	721	0	M
+6201	581551	1	2	53	4	Tomáš	Páral	Ing.		25	referent financování	Drnovice	99	53	0	M
+6201	581551	1	3	7	4	Miloslav	Boček			63	důchodce	Drnovice	99	7	0	M
+6201	581551	1	4	470	4	Jiří	Šafář			46	ředitel zemědělské společnosti	Drnovice	99	80	0	M
+6201	581551	1	5	901	4	Karel	Krška			42	živnostník	Drnovice	99	80	0	M
+6201	581551	1	1	721	5	Vladimír	Křepela			54	zedník	Drnovice	99	721	0	M
+6201	581551	1	2	53	5	Petr	Pernica	Ing.		31	tajemník Veter. far. uni. Brno	Drnovice	99	53	0	M
+6201	581551	1	3	7	5	Luboš	Skřivánek			39	malíř-natěrač	Drnovice	7	7	0	M
+6201	581551	1	4	470	5	Alois	Dufek			46	skladník	Drnovice	99	80	0	M
+6201	581551	1	5	901	5	Radek	Zouhar			46	podnikatel	Drnovice	99	80	0	M
+6201	581551	1	1	721	6	Milan	Vrbas			57	živnostník-nástrojař	Drnovice	99	721	0	M
+6201	581551	1	2	53	6	Jan	Pavel			28	vedoucí skladu	Drnovice	99	53	0	M
+6201	581551	1	3	7	6	Oldřich	Toman			72	důchodce	Drnovice	7	7	0	M
+6201	581551	1	4	470	6	Jiří	Mihola			46	technik	Drnovice	99	80	0	M
+6201	581551	1	5	901	6	Roman	Rokoš			46	obchodní zástupce	Drnovice	99	80	0	M
+6201	581551	1	1	721	7	František	Slavíček			41	nástrojař	Drnovice	99	721	0	M
+6201	581551	1	2	53	7	Rudolf	Dokonal			79	důchodce	Drnovice	53	53	0	M
+6201	581551	1	3	7	7	Antonín	Přibyl			64	důchodce	Drnovice	7	7	0	M
+6201	581551	1	4	470	7	Naděžda	Novotná			19	studující	Drnovice	99	80	0	F
+6201	581551	1	5	901	7	Jiří	Pavel			30	řidič	Drnovice	99	80	0	M
+6201	581551	1	1	721	8	Ludmila	Sedláčková			61	živnostník-vazba květin	Drnovice	99	721	0	F
+6201	581551	1	5	901	8	Jarmila	Zachovalová			45	sekretářka	Drnovice	99	80	0	F
+6201	581551	1	1	721	9	Ivan	Mihálek			30	vedoucí výroby elektroprůmyslu	Drnovice	721	721	0	M

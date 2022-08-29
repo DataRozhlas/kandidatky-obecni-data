@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5204	576247	1	1	902	1	Jaromír	Meier	M			43	profesionální hasič	Deštné v Orlických horách	99	80	A
-5204	576247	1	1	902	2	Arpád	Lörincz	M			67	důchodce	Deštné v Orlických horách	99	80	A
-5204	576247	1	1	902	3	Richard	Přikryl	M	Ing.		37	zemědělský podnikatel	Deštné v Orlických horách	99	80	A
-5204	576247	1	1	902	4	Kateřina	Tenchová Dismanová	F			50	rehabilitační pracovník	Deštné v Orlických horách	99	80	A
-5204	576247	1	1	902	5	Pavlína	Nováková	F	Mgr.		42	speciální pedagog v SPC	Deštné v Orlických horách	99	80	A
-5204	576247	1	1	902	6	Jakub	Dvořák	M	MUDr.		33	lékař, OSVČ	Deštné v Orlických horách	99	80	A
-5204	576247	1	1	902	7	Ilona	Valentová	F			53	vedoucí školní kuchyně	Deštné v Orlických horách	99	80	A
-5204	576247	1	1	902	8	Jitka	Hájková	F			45	vedoucí školní kuchyně	Deštné v Orlických horách	99	80	A
-5204	576247	1	1	902	9	Václav	Vojtěch	M	Mgr.		72	důchodce	Deštné v Orlických horách	99	80	A
-5204	576247	1	2	901	1	Jan	Hepnar	M	Mgr.		35	záchranář horské služby	Deštné v Orlických horách	99	80	A
-5204	576247	1	2	901	2	Tomáš	Nebeský	M	Ing. arch.		52	architekt	Deštné v Orlických horách	99	80	A
-5204	576247	1	2	901	3	Barbora	Macháčková	F	Bc.		30	veřejná správa	Deštné v Orlických horách	99	80	A
-5204	576247	1	2	901	4	Tomáš	Hejduk	M			45	OSVČ	Deštné v Orlických horách	99	80	A
-5204	576247	1	2	901	5	Simona	Vlková		Ing.		37	manažerka cestovního ruchu	Deštné v Orlických horách	99	80	A
-5204	576247	1	2	901	6	Martin	Vysoký	M			32	pilot	Deštné v Orlických horách	99	80	A
-5204	576247	1	2	901	7	Alžběta	Mikešová	F	Ing.		35	obchodní ředitelka	Deštné v Orlických horách	99	80	A
-5204	576247	1	2	901	8	Michael	Derunov	M			46	stavební technik	Deštné v Orlických horách	99	80	A
-5204	576247	1	2	901	9	Petr	Remeš	M	Ing. arch.		28	grafický designér	Deštné v Orlických horách	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5204	576247	1	1	902	1	Jaromír	Meier			43	profesionální hasič	Deštné v Orlických horách	99	80	A	M
+5204	576247	1	2	901	1	Jan	Hepnar	Mgr.		35	záchranář horské služby	Deštné v Orlických horách	99	80	A	M
+5204	576247	1	1	902	2	Arpád	Lörincz			67	důchodce	Deštné v Orlických horách	99	80	A	M
+5204	576247	1	2	901	2	Tomáš	Nebeský	Ing. arch.		52	architekt	Deštné v Orlických horách	99	80	A	M
+5204	576247	1	1	902	3	Richard	Přikryl	Ing.		37	zemědělský podnikatel	Deštné v Orlických horách	99	80	A	M
+5204	576247	1	2	901	3	Barbora	Macháčková	Bc.		30	veřejná správa	Deštné v Orlických horách	99	80	A	F
+5204	576247	1	1	902	4	Kateřina	Tenchová Dismanová			50	rehabilitační pracovník	Deštné v Orlických horách	99	80	A	F
+5204	576247	1	2	901	4	Tomáš	Hejduk			45	OSVČ	Deštné v Orlických horách	99	80	A	M
+5204	576247	1	1	902	5	Pavlína	Nováková	Mgr.		42	speciální pedagog v SPC	Deštné v Orlických horách	99	80	A	F
+5204	576247	1	2	901	5	Simona	Vlková	Ing.		37	manažerka cestovního ruchu	Deštné v Orlických horách	99	80	A	
+5204	576247	1	1	902	6	Jakub	Dvořák	MUDr.		33	lékař, OSVČ	Deštné v Orlických horách	99	80	A	M
+5204	576247	1	2	901	6	Martin	Vysoký			32	pilot	Deštné v Orlických horách	99	80	A	M
+5204	576247	1	1	902	7	Ilona	Valentová			53	vedoucí školní kuchyně	Deštné v Orlických horách	99	80	A	F
+5204	576247	1	2	901	7	Alžběta	Mikešová	Ing.		35	obchodní ředitelka	Deštné v Orlických horách	99	80	A	F
+5204	576247	1	1	902	8	Jitka	Hájková			45	vedoucí školní kuchyně	Deštné v Orlických horách	99	80	A	F
+5204	576247	1	2	901	8	Michael	Derunov			46	stavební technik	Deštné v Orlických horách	99	80	A	M
+5204	576247	1	1	902	9	Václav	Vojtěch	Mgr.		72	důchodce	Deštné v Orlických horách	99	80	A	M
+5204	576247	1	2	901	9	Petr	Remeš	Ing. arch.		28	grafický designér	Deštné v Orlických horách	99	80	A	M

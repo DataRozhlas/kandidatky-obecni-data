@@ -1,8 +1,8 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	570281	1	1	803	1	Monika	Dostálová	F			36	pracovník v sociálních službách	Stavenice	99	80	0
-7105	570281	1	2	804	1	Jan	Čada	M			21	mechanik	Stavenice	99	80	0
-7105	570281	1	3	7	1	Radek	Bittner	M	Ing.		47	OSVČ	Stavenice	7	7	0
-7105	570281	1	3	7	2	Jana	Rosecká	F			53	prodavačka	Stavenice	7	7	0
-7105	570281	1	3	7	3	Lada	Bittnerová	F			39	expedientka	Stavenice	99	7	0
-7105	570281	1	4	802	1	Zdeňka	Drlíková	F			53	v domácnosti	Stavenice	99	80	0
-7105	570281	1	5	801	1	Petr	Drlík	M			53	řidič	Stavenice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	570281	1	1	803	1	Monika	Dostálová			36	pracovník v sociálních službách	Stavenice	99	80	0	F
+7105	570281	1	2	804	1	Jan	Čada			21	mechanik	Stavenice	99	80	0	M
+7105	570281	1	3	7	1	Radek	Bittner	Ing.		47	OSVČ	Stavenice	7	7	0	M
+7105	570281	1	4	802	1	Zdeňka	Drlíková			53	v domácnosti	Stavenice	99	80	0	F
+7105	570281	1	5	801	1	Petr	Drlík			53	řidič	Stavenice	99	80	0	M
+7105	570281	1	3	7	2	Jana	Rosecká			53	prodavačka	Stavenice	7	7	0	F
+7105	570281	1	3	7	3	Lada	Bittnerová			39	expedientka	Stavenice	99	7	0	F

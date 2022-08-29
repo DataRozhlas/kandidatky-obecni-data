@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5102	563803	1	1	901	1	Tomáš	Pavlata	M			41	starosta obce	Huntířov	99	80	A
-5102	563803	1	1	901	2	Blanka	Kvochová	F	Ing.		52	koordinátor mezinárodní přepravy	Skuhrov	99	80	A
-5102	563803	1	1	901	3	Miroslav	Štěpán	M	Ing.		59	obchodní ředitel	Huntířov	99	80	A
-5102	563803	1	1	901	4	Alena	Halamová	F	Mgr.		63	učitelka	Skuhrov	99	80	A
-5102	563803	1	1	901	5	Šárka	Kurfiřtová	F			49	odborný referent katastru	Skuhrov	99	80	A
-5102	563803	1	1	901	6	Martin	Jíra	M	MUDr.		42	lékař	Huntířov	99	80	A
-5102	563803	1	1	901	7	Petr	Novotný	M	Ing.		46	podnikatel	Huntířov	99	80	A
-5102	563803	1	1	901	8	Adéla	Faltinková Procházková	F	Mgr.		34	učitelka	Skuhrov	99	80	A
-5102	563803	1	2	902	1	Libor	Šikola	M	Ing.		52	podnikatel	Huntířov	99	80	A
-5102	563803	1	2	902	2	Luboš	Tomášek	M	Mgr.		41	programátor	Skuhrov	99	80	A
-5102	563803	1	2	902	3	Tomáš	Zika	M	Mgr.		48	policista	Skuhrov	99	80	A
-5102	563803	1	2	902	4	Marta	Víchová	F			51	ekonomka	Huntířov	99	80	A
-5102	563803	1	2	902	5	Veronika	Vavrušková	F		DiS.	39	účetní	Skuhrov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5102	563803	1	1	901	1	Tomáš	Pavlata			41	starosta obce	Huntířov	99	80	A	M
+5102	563803	1	2	902	1	Libor	Šikola	Ing.		52	podnikatel	Huntířov	99	80	A	M
+5102	563803	1	1	901	2	Blanka	Kvochová	Ing.		52	koordinátor mezinárodní přepravy	Skuhrov	99	80	A	F
+5102	563803	1	2	902	2	Luboš	Tomášek	Mgr.		41	programátor	Skuhrov	99	80	A	M
+5102	563803	1	1	901	3	Miroslav	Štěpán	Ing.		59	obchodní ředitel	Huntířov	99	80	A	M
+5102	563803	1	2	902	3	Tomáš	Zika	Mgr.		48	policista	Skuhrov	99	80	A	M
+5102	563803	1	1	901	4	Alena	Halamová	Mgr.		63	učitelka	Skuhrov	99	80	A	F
+5102	563803	1	2	902	4	Marta	Víchová			51	ekonomka	Huntířov	99	80	A	F
+5102	563803	1	1	901	5	Šárka	Kurfiřtová			49	odborný referent katastru	Skuhrov	99	80	A	F
+5102	563803	1	2	902	5	Veronika	Vavrušková		DiS.	39	účetní	Skuhrov	99	80	A	F
+5102	563803	1	1	901	6	Martin	Jíra	MUDr.		42	lékař	Huntířov	99	80	A	M
+5102	563803	1	1	901	7	Petr	Novotný	Ing.		46	podnikatel	Huntířov	99	80	A	M
+5102	563803	1	1	901	8	Adéla	Faltinková Procházková	Mgr.		34	učitelka	Skuhrov	99	80	A	F

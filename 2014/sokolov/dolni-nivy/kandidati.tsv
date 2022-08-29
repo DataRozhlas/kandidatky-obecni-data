@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4103	560341	1	1	801	1	Emanuel	Dorschner	M			40	dělník	Horní Nivy	99	80	0
-4103	560341	1	2	901	1	Daniel	Brožek	M			45	THP	Dolní Nivy	99	80	0
-4103	560341	1	2	901	2	Milan	Štěpanik	M			48	řidič	Dolní Nivy	99	80	0
-4103	560341	1	2	901	3	Vlastimil	Kříž	M			44	soukromý zemědělec	Horní Nivy	156	80	0
-4103	560341	1	2	901	4	Martin	Urbánek	M			40	elektrikář	Dolní Nivy	99	80	0
-4103	560341	1	2	901	5	Pavel	Hrysz	M			37	projektový manažer	Dolní Nivy	99	80	0
-4103	560341	1	2	901	6	Hana	Pelikánová	F			44	THP	Horní Nivy	99	80	0
-4103	560341	1	2	901	7	Roman	Adámek	M			48	řidič	Horní Rozmyšl	99	80	0
-4103	560341	1	2	901	8	Jaroslav	Novák	M			48	jednatel společnosti	Boučí	99	80	0
-4103	560341	1	2	901	9	Lucie	Pilátová	F			21	prodavačka	Dolní Nivy	99	80	0
-4103	560341	1	3	902	1	Václav	Černý	M	Ing.		48	ředitel letiště Karlovy Vary	Horní Nivy	99	80	0
-4103	560341	1	3	902	2	Josef	Hoško	M			53	stavbyvedoucí	Boučí	99	80	0
-4103	560341	1	3	902	3	Jiří	Kyjevský	M			46	stavbyvedoucí	Horní Rozmyšl	99	80	0
-4103	560341	1	3	902	4	Milan	Takáč	M			42	pozemní obsluha letadel	Dolní Nivy	99	80	0
-4103	560341	1	3	902	5	Monika	Hanzálková	F			35	recepční	Dolní Nivy	99	80	0
-4103	560341	1	3	902	6	Pavel	Pilát	M			52	dělník	Dolní Nivy	99	80	0
-4103	560341	1	3	902	7	Dagmar	Knedlíková Baslová	F			37	podnikatelka	Dolní Nivy	99	80	0
-4103	560341	1	3	902	8	Jaroslava	Peštálová	F			46	provozní restaurace	Dolní Nivy	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4103	560341	1	1	801	1	Emanuel	Dorschner			40	dělník	Horní Nivy	99	80	0	M
+4103	560341	1	2	901	1	Daniel	Brožek			45	THP	Dolní Nivy	99	80	0	M
+4103	560341	1	3	902	1	Václav	Černý	Ing.		48	ředitel letiště Karlovy Vary	Horní Nivy	99	80	0	M
+4103	560341	1	2	901	2	Milan	Štěpanik			48	řidič	Dolní Nivy	99	80	0	M
+4103	560341	1	3	902	2	Josef	Hoško			53	stavbyvedoucí	Boučí	99	80	0	M
+4103	560341	1	2	901	3	Vlastimil	Kříž			44	soukromý zemědělec	Horní Nivy	156	80	0	M
+4103	560341	1	3	902	3	Jiří	Kyjevský			46	stavbyvedoucí	Horní Rozmyšl	99	80	0	M
+4103	560341	1	2	901	4	Martin	Urbánek			40	elektrikář	Dolní Nivy	99	80	0	M
+4103	560341	1	3	902	4	Milan	Takáč			42	pozemní obsluha letadel	Dolní Nivy	99	80	0	M
+4103	560341	1	2	901	5	Pavel	Hrysz			37	projektový manažer	Dolní Nivy	99	80	0	M
+4103	560341	1	3	902	5	Monika	Hanzálková			35	recepční	Dolní Nivy	99	80	0	F
+4103	560341	1	2	901	6	Hana	Pelikánová			44	THP	Horní Nivy	99	80	0	F
+4103	560341	1	3	902	6	Pavel	Pilát			52	dělník	Dolní Nivy	99	80	0	M
+4103	560341	1	2	901	7	Roman	Adámek			48	řidič	Horní Rozmyšl	99	80	0	M
+4103	560341	1	3	902	7	Dagmar	Knedlíková Baslová			37	podnikatelka	Dolní Nivy	99	80	0	F
+4103	560341	1	2	901	8	Jaroslav	Novák			48	jednatel společnosti	Boučí	99	80	0	M
+4103	560341	1	3	902	8	Jaroslava	Peštálová			46	provozní restaurace	Dolní Nivy	99	80	0	F
+4103	560341	1	2	901	9	Lucie	Pilátová			21	prodavačka	Dolní Nivy	99	80	0	F

@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	571628	1	1	53	1	Jiří	Skokan	M			46	OSVČ	Kostelec u Heřmanova Městce	99	53	0
-5301	571628	1	1	53	2	Jan	Limberský	M	Ing.	MBA	35	podnikatel	Kostelec u Heřmanova Městce	99	53	0
-5301	571628	1	1	53	3	Tereza	Plíšková	F			25	OSVČ	Kostelec u Heřmanova Městce	99	53	0
-5301	571628	1	1	53	4	Lukáš	Rychtařík	M			29	mistr výroby	Kostelec u Heřmanova Městce	99	53	0
-5301	571628	1	1	53	5	Kamil	Karela	M	Ing.		65	důchodce	Kostelec u Heřmanova Městce	53	53	0
-5301	571628	1	1	53	6	Štěpánka	Fišerová	F			48	ředitelka mateřské školy	Kostelec u Heřmanova Městce	99	53	0
-5301	571628	1	1	53	7	Radek	Římek	M			31	OSVČ	Kostelec u Heřmanova Městce	99	53	0
-5301	571628	1	2	47	1	František	Jablečník	M			56	důchodce	Kostelec u Heřmanova Městce	47	47	0
-5301	571628	1	2	47	2	Miroslav	Jakimczuk	M			58	dělník	Kostelec u Heřmanova Městce	99	47	0
-5301	571628	1	2	47	3	Petr	Jablečník	M			38	státní zaměstnanec	Kostelec u Heřmanova Městce	99	47	0
-5301	571628	1	2	47	4	Eva	Kaválková	F			52	učitelka	Kostelec u Heřmanova Městce	99	47	0
-5301	571628	1	2	47	5	Jan	Rychnovský	M			45	výpravčí ČD	Kostelec u Heřmanova Městce	99	47	0
-5301	571628	1	2	47	6	Milan	Severa	M			52	živnostník	Kostelec u Heřmanova Městce	99	47	0
-5301	571628	1	2	47	7	Ilona	Malíčková	F			40	pokladní ČD	Kostelec u Heřmanova Městce	99	47	0
-5301	571628	1	3	901	1	Lubomír	Jankovský	M	Ing.		51	učitel	Kostelec u Heřmanova Městce	99	80	0
-5301	571628	1	3	901	2	Ludmila	Dušková	F	Ing.		51	projektant	Kostelec u Heřmanova Městce	99	80	0
-5301	571628	1	3	901	3	Vlastimil	Růžička	M			60	podnikatel	Kostelec u Heřmanova Městce	99	80	0
-5301	571628	1	3	901	4	Eva	Jiráková	F			33	zdravotní sestra	Kostelec u Heřmanova Městce	99	80	0
-5301	571628	1	3	901	5	Kamil	Římek	M			30	podnikatel	Kostelec u Heřmanova Městce	99	80	0
-5301	571628	1	3	901	6	Dana	Ofnerová	F			51	účetní	Kostelec u Heřmanova Městce	99	80	0
-5301	571628	1	3	901	7	Milan	Maciga	M	Bc.		45	ředitel společnosti	Kostelec u Heřmanova Městce	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	571628	1	1	53	1	Jiří	Skokan			46	OSVČ	Kostelec u Heřmanova Městce	99	53	0	M
+5301	571628	1	2	47	1	František	Jablečník			56	důchodce	Kostelec u Heřmanova Městce	47	47	0	M
+5301	571628	1	3	901	1	Lubomír	Jankovský	Ing.		51	učitel	Kostelec u Heřmanova Městce	99	80	0	M
+5301	571628	1	1	53	2	Jan	Limberský	Ing.	MBA	35	podnikatel	Kostelec u Heřmanova Městce	99	53	0	M
+5301	571628	1	2	47	2	Miroslav	Jakimczuk			58	dělník	Kostelec u Heřmanova Městce	99	47	0	M
+5301	571628	1	3	901	2	Ludmila	Dušková	Ing.		51	projektant	Kostelec u Heřmanova Městce	99	80	0	F
+5301	571628	1	1	53	3	Tereza	Plíšková			25	OSVČ	Kostelec u Heřmanova Městce	99	53	0	F
+5301	571628	1	2	47	3	Petr	Jablečník			38	státní zaměstnanec	Kostelec u Heřmanova Městce	99	47	0	M
+5301	571628	1	3	901	3	Vlastimil	Růžička			60	podnikatel	Kostelec u Heřmanova Městce	99	80	0	M
+5301	571628	1	1	53	4	Lukáš	Rychtařík			29	mistr výroby	Kostelec u Heřmanova Městce	99	53	0	M
+5301	571628	1	2	47	4	Eva	Kaválková			52	učitelka	Kostelec u Heřmanova Městce	99	47	0	F
+5301	571628	1	3	901	4	Eva	Jiráková			33	zdravotní sestra	Kostelec u Heřmanova Městce	99	80	0	F
+5301	571628	1	1	53	5	Kamil	Karela	Ing.		65	důchodce	Kostelec u Heřmanova Městce	53	53	0	M
+5301	571628	1	2	47	5	Jan	Rychnovský			45	výpravčí ČD	Kostelec u Heřmanova Městce	99	47	0	M
+5301	571628	1	3	901	5	Kamil	Římek			30	podnikatel	Kostelec u Heřmanova Městce	99	80	0	M
+5301	571628	1	1	53	6	Štěpánka	Fišerová			48	ředitelka mateřské školy	Kostelec u Heřmanova Městce	99	53	0	F
+5301	571628	1	2	47	6	Milan	Severa			52	živnostník	Kostelec u Heřmanova Městce	99	47	0	M
+5301	571628	1	3	901	6	Dana	Ofnerová			51	účetní	Kostelec u Heřmanova Městce	99	80	0	F
+5301	571628	1	1	53	7	Radek	Římek			31	OSVČ	Kostelec u Heřmanova Městce	99	53	0	M
+5301	571628	1	2	47	7	Ilona	Malíčková			40	pokladní ČD	Kostelec u Heřmanova Městce	99	47	0	F
+5301	571628	1	3	901	7	Milan	Maciga	Bc.		45	ředitel společnosti	Kostelec u Heřmanova Městce	99	80	0	M

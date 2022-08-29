@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5204	576247	1	1	902	1	Martin	Struhař	M			42	soukromý podnikatel	Deštné v Orlických horách	99	80	0
-5204	576247	1	1	902	2	Eva	Brychtová	F			46	provozní hotelu	Deštné v Orlických horách	99	80	0
-5204	576247	1	1	902	3	Arpád	Lörincz	M			51	soukromý podnikatel	Deštné v Orlických horách	99	80	0
-5204	576247	1	1	902	4	Petra	Pohlová	F			30	soukromá podnikatelka	Deštné v Orlických horách	99	80	0
-5204	576247	1	1	902	5	Vilém	Matyáš	M			26	soukromý podnikatel	Deštné v Orlických horách	99	80	0
-5204	576247	1	1	902	6	Soňa	Dismanová	F			55	invalidní důchodce	Deštné v Orlických horách	99	80	0
-5204	576247	1	1	902	7	Petr	Cejnar	M			37	údržbář	Deštné v Orlických horách	99	80	0
-5204	576247	1	1	902	8	Petr	Verner	M			43	soukromý podnikatel	Deštné v Orlických horách	99	80	0
-5204	576247	1	1	902	9	Jan	Pásler	M			41	policista	Deštné v Orlických horách	99	80	0
-5204	576247	1	1	902	10	Miroslav	Rudzinskyj	M			62	důchodce	Deštné v Orlických horách	99	80	0
-5204	576247	1	1	902	11	Eva	Šritrová	F			35	kuchařka	Deštné v Orlických horách	99	80	0
-5204	576247	1	1	902	12	Václav	Vojtěch	M			27	referent infocentra	Deštné v Orlických horách	99	80	0
-5204	576247	1	1	902	13	Jiří	Švejda	M			29	nezaměstnaný	Deštné v Orlických horách	99	80	0
-5204	576247	1	1	902	14	Edita	Sochanová	F			31	servírka	Deštné v Orlických horách	99	80	0
-5204	576247	1	1	902	15	Yvona	Vernerová	F			43	vedoucí chaty	Deštné v Orlických horách	99	80	0
-5204	576247	1	2	901	1	Luboš	Domša	M	Ing.		49	starosta	Deštné v Orlických horách	99	80	0
-5204	576247	1	2	901	2	Oldřich	Bittner	M			51	soukromý podnikatel	Deštné v Orlických horách	99	80	0
-5204	576247	1	2	901	3	Václav	Vojtěch	M	Mgr.		56	ředitel ZŠ	Deštné v Orlických horách	99	80	0
-5204	576247	1	2	901	4	Eliška	Kollárovičová	F			43	kuchař - pokojská	Deštné v Orlických horách	99	80	0
-5204	576247	1	2	901	5	Zdenek	Škoda	M			55	lesník	Deštné v Orlických horách	99	80	0
-5204	576247	1	2	901	6	Alena	Křížová	F			41	účetní	Deštné v Orlických horách	99	80	0
-5204	576247	1	2	901	7	Eva	Fabiánová	F			42	prodavačka	Deštné v Orlických horách	99	80	0
-5204	576247	1	2	901	8	Eva	Kotyzová	F	Ing.		42	soukromá podnikatelka	Deštné v Orlických horách	99	80	0
-5204	576247	1	2	901	9	Naďa	Štěpová	F			37	učitelka MŠ	Deštné v Orlických horách	99	80	0
-5204	576247	1	2	901	10	Josef	Kuchař	M			44	soukromý podnikatel	Deštné v Orlických horách	99	80	0
-5204	576247	1	2	901	11	Josef	Prokopec	M			50	soukromý podnikatel	Deštné v Orlických horách	99	80	0
-5204	576247	1	2	901	12	Jindřiška	Štěpová	F			57	soukromá podnikatelka	Deštné v Orlických horách	99	80	0
-5204	576247	1	2	901	13	Jana	Koštůrová	F			63	důchodkyně	Deštné v Orlických horách	99	80	0
-5204	576247	1	2	901	14	Drahomíra	Ševců	F			49	dělnice	Deštné v Orlických horách	99	80	0
-5204	576247	1	2	901	15	Jiří	Štěp	M			54	strojní zámečník	Deštné v Orlických horách	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5204	576247	1	1	902	1	Martin	Struhař			42	soukromý podnikatel	Deštné v Orlických horách	99	80	0	M
+5204	576247	1	2	901	1	Luboš	Domša	Ing.		49	starosta	Deštné v Orlických horách	99	80	0	M
+5204	576247	1	1	902	2	Eva	Brychtová			46	provozní hotelu	Deštné v Orlických horách	99	80	0	F
+5204	576247	1	2	901	2	Oldřich	Bittner			51	soukromý podnikatel	Deštné v Orlických horách	99	80	0	M
+5204	576247	1	1	902	3	Arpád	Lörincz			51	soukromý podnikatel	Deštné v Orlických horách	99	80	0	M
+5204	576247	1	2	901	3	Václav	Vojtěch	Mgr.		56	ředitel ZŠ	Deštné v Orlických horách	99	80	0	M
+5204	576247	1	1	902	4	Petra	Pohlová			30	soukromá podnikatelka	Deštné v Orlických horách	99	80	0	F
+5204	576247	1	2	901	4	Eliška	Kollárovičová			43	kuchař - pokojská	Deštné v Orlických horách	99	80	0	F
+5204	576247	1	1	902	5	Vilém	Matyáš			26	soukromý podnikatel	Deštné v Orlických horách	99	80	0	M
+5204	576247	1	2	901	5	Zdenek	Škoda			55	lesník	Deštné v Orlických horách	99	80	0	M
+5204	576247	1	1	902	6	Soňa	Dismanová			55	invalidní důchodce	Deštné v Orlických horách	99	80	0	F
+5204	576247	1	2	901	6	Alena	Křížová			41	účetní	Deštné v Orlických horách	99	80	0	F
+5204	576247	1	1	902	7	Petr	Cejnar			37	údržbář	Deštné v Orlických horách	99	80	0	M
+5204	576247	1	2	901	7	Eva	Fabiánová			42	prodavačka	Deštné v Orlických horách	99	80	0	F
+5204	576247	1	1	902	8	Petr	Verner			43	soukromý podnikatel	Deštné v Orlických horách	99	80	0	M
+5204	576247	1	2	901	8	Eva	Kotyzová	Ing.		42	soukromá podnikatelka	Deštné v Orlických horách	99	80	0	F
+5204	576247	1	1	902	9	Jan	Pásler			41	policista	Deštné v Orlických horách	99	80	0	M
+5204	576247	1	2	901	9	Naďa	Štěpová			37	učitelka MŠ	Deštné v Orlických horách	99	80	0	F
+5204	576247	1	1	902	10	Miroslav	Rudzinskyj			62	důchodce	Deštné v Orlických horách	99	80	0	M
+5204	576247	1	2	901	10	Josef	Kuchař			44	soukromý podnikatel	Deštné v Orlických horách	99	80	0	M
+5204	576247	1	1	902	11	Eva	Šritrová			35	kuchařka	Deštné v Orlických horách	99	80	0	F
+5204	576247	1	2	901	11	Josef	Prokopec			50	soukromý podnikatel	Deštné v Orlických horách	99	80	0	M
+5204	576247	1	1	902	12	Václav	Vojtěch			27	referent infocentra	Deštné v Orlických horách	99	80	0	M
+5204	576247	1	2	901	12	Jindřiška	Štěpová			57	soukromá podnikatelka	Deštné v Orlických horách	99	80	0	F
+5204	576247	1	1	902	13	Jiří	Švejda			29	nezaměstnaný	Deštné v Orlických horách	99	80	0	M
+5204	576247	1	2	901	13	Jana	Koštůrová			63	důchodkyně	Deštné v Orlických horách	99	80	0	F
+5204	576247	1	1	902	14	Edita	Sochanová			31	servírka	Deštné v Orlických horách	99	80	0	F
+5204	576247	1	2	901	14	Drahomíra	Ševců			49	dělnice	Deštné v Orlických horách	99	80	0	F
+5204	576247	1	1	902	15	Yvona	Vernerová			43	vedoucí chaty	Deštné v Orlických horách	99	80	0	F
+5204	576247	1	2	901	15	Jiří	Štěp			54	strojní zámečník	Deštné v Orlických horách	99	80	0	M

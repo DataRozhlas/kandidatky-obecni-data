@@ -1,30 +1,30 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2106	535303	1	1	801	1	Alexander	Galyás	M			35	dělník	Vraňany	99	80	0
-2106	535303	1	2	53	1	Naděžda	Klimentová	F			54	starostka	Vraňany	53	53	0
-2106	535303	1	2	53	2	Jan	Deršák	M			37	soukromý podnikatel	Mlčechvosty	53	53	0
-2106	535303	1	2	53	3	Jaromír	Košťál	M			48	soukromý podnikatel	Vraňany	53	53	0
-2106	535303	1	2	53	4	Martina	Vaňousová	F	Bc.		24	zdravotní sestra	Vraňany	53	53	0
-2106	535303	1	2	53	5	Vladimír	Čadský	M			63	soukromý podnikatel	Vraňany	53	53	0
-2106	535303	1	2	53	6	Zdeněk	Havlíček	M	Ing.		41	CEZ technik	Vraňany	53	53	0
-2106	535303	1	2	53	7	Karel	Motejzík	M			61	důchodce	Vraňany	53	53	0
-2106	535303	1	2	53	8	Lucie	Bukovská	F	Mg.A		62	důchodce	Mlčechvosty	99	53	0
-2106	535303	1	2	53	9	Jaroslava	Hrstková	F			53	zaměstnanec ČD	Vraňany	53	53	0
-2106	535303	1	3	802	1	Vladimír	Horák	M			55	živnostník	Vraňany	99	80	0
-2106	535303	1	4	901	1	Václav	Uher	M			31	polygrafický technolog	Vraňany	99	80	0
-2106	535303	1	4	901	2	Šárka	Pletichová	F			35	účetní	Vraňany	99	80	0
-2106	535303	1	4	901	3	Luboš	Řáda	M			51	důchodce	Vraňany	99	80	0
-2106	535303	1	4	901	4	Radek	Zelený	M			31	obchodní ředitel	Mlčechvosty	99	80	0
-2106	535303	1	4	901	5	Milena	Chmelíková	F			32	technický laborant	Vraňany	99	80	0
-2106	535303	1	4	901	6	Antonín	Černý	M			48	strojní zámečník	Vraňany	99	80	0
-2106	535303	1	4	901	7	Jan	Valla	M			54	truhlář	Mlčechvosty	99	80	0
-2106	535303	1	4	901	8	Romana	Havlová	F			36	na mateřské dovolené	Vraňany	99	80	0
-2106	535303	1	4	901	9	Milan	Kaiser	M			25	strážník	Vraňany	99	80	0
-2106	535303	1	5	47	1	Jiří	Klepetko	M			68	kontrolor	Vraňany	47	47	0
-2106	535303	1	5	47	2	Radka	Vyšatová	F			32	školnice MŠ	Vraňany	99	47	0
-2106	535303	1	5	47	3	Jiří	Mácha	M			60	referent	Mlčechvosty	99	47	0
-2106	535303	1	5	47	4	Irena	Rabinčáková	F			35	prov. pracov.	Vraňany	99	47	0
-2106	535303	1	5	47	5	Vladimír	Bodiš	M			56	řidič	Vraňany	99	47	0
-2106	535303	1	5	47	6	Lenka	Černá	F			46	prodavačka	Vraňany	99	47	0
-2106	535303	1	5	47	7	Jiřina	Fialová	F			56	poslankyně P-ČR	Vraňany	47	47	0
-2106	535303	1	5	47	8	Irena	Černá	F			51	kuchařka	Vraňany	99	47	0
-2106	535303	1	5	47	9	Jitka	Hanzlíková	F			64	dělnice	Vraňany	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2106	535303	1	1	801	1	Alexander	Galyás			35	dělník	Vraňany	99	80	0	M
+2106	535303	1	2	53	1	Naděžda	Klimentová			54	starostka	Vraňany	53	53	0	F
+2106	535303	1	3	802	1	Vladimír	Horák			55	živnostník	Vraňany	99	80	0	M
+2106	535303	1	4	901	1	Václav	Uher			31	polygrafický technolog	Vraňany	99	80	0	M
+2106	535303	1	5	47	1	Jiří	Klepetko			68	kontrolor	Vraňany	47	47	0	M
+2106	535303	1	2	53	2	Jan	Deršák			37	soukromý podnikatel	Mlčechvosty	53	53	0	M
+2106	535303	1	4	901	2	Šárka	Pletichová			35	účetní	Vraňany	99	80	0	F
+2106	535303	1	5	47	2	Radka	Vyšatová			32	školnice MŠ	Vraňany	99	47	0	F
+2106	535303	1	2	53	3	Jaromír	Košťál			48	soukromý podnikatel	Vraňany	53	53	0	M
+2106	535303	1	4	901	3	Luboš	Řáda			51	důchodce	Vraňany	99	80	0	M
+2106	535303	1	5	47	3	Jiří	Mácha			60	referent	Mlčechvosty	99	47	0	M
+2106	535303	1	2	53	4	Martina	Vaňousová	Bc.		24	zdravotní sestra	Vraňany	53	53	0	F
+2106	535303	1	4	901	4	Radek	Zelený			31	obchodní ředitel	Mlčechvosty	99	80	0	M
+2106	535303	1	5	47	4	Irena	Rabinčáková			35	prov. pracov.	Vraňany	99	47	0	F
+2106	535303	1	2	53	5	Vladimír	Čadský			63	soukromý podnikatel	Vraňany	53	53	0	M
+2106	535303	1	4	901	5	Milena	Chmelíková			32	technický laborant	Vraňany	99	80	0	F
+2106	535303	1	5	47	5	Vladimír	Bodiš			56	řidič	Vraňany	99	47	0	M
+2106	535303	1	2	53	6	Zdeněk	Havlíček	Ing.		41	CEZ technik	Vraňany	53	53	0	M
+2106	535303	1	4	901	6	Antonín	Černý			48	strojní zámečník	Vraňany	99	80	0	M
+2106	535303	1	5	47	6	Lenka	Černá			46	prodavačka	Vraňany	99	47	0	F
+2106	535303	1	2	53	7	Karel	Motejzík			61	důchodce	Vraňany	53	53	0	M
+2106	535303	1	4	901	7	Jan	Valla			54	truhlář	Mlčechvosty	99	80	0	M
+2106	535303	1	5	47	7	Jiřina	Fialová			56	poslankyně P-ČR	Vraňany	47	47	0	F
+2106	535303	1	2	53	8	Lucie	Bukovská	Mg.A		62	důchodce	Mlčechvosty	99	53	0	F
+2106	535303	1	4	901	8	Romana	Havlová			36	na mateřské dovolené	Vraňany	99	80	0	F
+2106	535303	1	5	47	8	Irena	Černá			51	kuchařka	Vraňany	99	47	0	F
+2106	535303	1	2	53	9	Jaroslava	Hrstková			53	zaměstnanec ČD	Vraňany	53	53	0	F
+2106	535303	1	4	901	9	Milan	Kaiser			25	strážník	Vraňany	99	80	0	M
+2106	535303	1	5	47	9	Jitka	Hanzlíková			64	dělnice	Vraňany	99	47	0	F

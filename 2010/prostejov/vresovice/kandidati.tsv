@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	590207	1	1	1	1	Josef	Fica	M			40	OSVČ	Vřesovice	99	1	0
-7103	590207	1	1	1	2	Petr	Kroupa	M			43	logistik	Vřesovice	99	1	0
-7103	590207	1	1	1	3	Josef	Krchňák	M			42	technik	Vřesovice	99	1	0
-7103	590207	1	1	1	4	Milada	Novotná	F			57	ekonom	Vřesovice	1	1	0
-7103	590207	1	1	1	5	Jaroslava	Mlčochová	F			63	důchodce	Vřesovice	99	1	0
-7103	590207	1	1	1	6	Karel	Ondrák	M			40	servisní technik	Vřesovice	99	1	0
-7103	590207	1	1	1	7	Pavlína	Bebčáková	F		DiS.	34	ředitelka MŠ	Vřesovice	99	1	0
-7103	590207	1	2	47	1	Radek	Křivinka	M			39	soukromý podnikatel	Vřesovice	99	47	0
-7103	590207	1	2	47	2	Josef	Palla	M			56	řidič	Vřesovice	47	47	0
-7103	590207	1	2	47	3	Pavel	Poslušný	M			39	řidič	Vřesovice	99	47	0
-7103	590207	1	2	47	4	Josef	Andrejco	M			40	strojař	Vřesovice	99	47	0
-7103	590207	1	2	47	5	Marta	Kvapilová	F			65	důchodkyně	Vřesovice	99	47	1
-7103	590207	1	2	47	6	Bohumil	Mrva	M			38	řidič	Vřesovice	99	47	0
-7103	590207	1	2	47	7	Marie	Hrubá	F			60	důchodkyně	Vřesovice	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	590207	1	1	1	1	Josef	Fica			40	OSVČ	Vřesovice	99	1	0	M
+7103	590207	1	2	47	1	Radek	Křivinka			39	soukromý podnikatel	Vřesovice	99	47	0	M
+7103	590207	1	1	1	2	Petr	Kroupa			43	logistik	Vřesovice	99	1	0	M
+7103	590207	1	2	47	2	Josef	Palla			56	řidič	Vřesovice	47	47	0	M
+7103	590207	1	1	1	3	Josef	Krchňák			42	technik	Vřesovice	99	1	0	M
+7103	590207	1	2	47	3	Pavel	Poslušný			39	řidič	Vřesovice	99	47	0	M
+7103	590207	1	1	1	4	Milada	Novotná			57	ekonom	Vřesovice	1	1	0	F
+7103	590207	1	2	47	4	Josef	Andrejco			40	strojař	Vřesovice	99	47	0	M
+7103	590207	1	1	1	5	Jaroslava	Mlčochová			63	důchodce	Vřesovice	99	1	0	F
+7103	590207	1	2	47	5	Marta	Kvapilová			65	důchodkyně	Vřesovice	99	47	1	F
+7103	590207	1	1	1	6	Karel	Ondrák			40	servisní technik	Vřesovice	99	1	0	M
+7103	590207	1	2	47	6	Bohumil	Mrva			38	řidič	Vřesovice	99	47	0	M
+7103	590207	1	1	1	7	Pavlína	Bebčáková		DiS.	34	ředitelka MŠ	Vřesovice	99	1	0	F
+7103	590207	1	2	47	7	Marie	Hrubá			60	důchodkyně	Vřesovice	99	47	0	F

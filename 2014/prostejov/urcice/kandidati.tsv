@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	590126	1	1	461	1	Vlastimil	Konšel	M			58	automechanik	Určice	99	163	0
-7103	590126	1	1	461	2	Petr	Kouřil	M			40	technik	Určice	99	163	0
-7103	590126	1	1	461	3	Martin	Fródl	M			41	technik	Určice	99	163	0
-7103	590126	1	1	461	4	Jaroslava	Soušková	F			58	referentka	Určice	99	163	0
-7103	590126	1	1	461	5	Aleš	Vysloužil	M	Ing.		30	úředník	Určice	99	163	0
-7103	590126	1	1	461	6	Kamila	Sedláčková	F	Mgr.		45	učitelka	Určice	99	163	0
-7103	590126	1	1	461	7	Terézia	Havlíčková	F	Ing.		59	důchodkyně	Určice	99	163	0
-7103	590126	1	1	461	8	Antonín	Hujíček	M			61	živnostník	Určice	99	163	0
-7103	590126	1	1	461	9	Petra	Poulíková	F	Bc.		46	všeobecná sestra	Určice	99	163	0
-7103	590126	1	1	461	10	Jaromír	Mlčoch	M			53	opravář	Určice	99	163	0
-7103	590126	1	1	461	11	Ivanka	Cásková	F			60	důchodkyně	Určice	99	163	0
-7103	590126	1	1	461	12	Jaroslav	Drábek	M			49	nástrojař	Určice	99	163	0
-7103	590126	1	1	461	13	Marek	Beneš	M			38	zámečník	Určice	99	163	0
-7103	590126	1	1	461	14	Anna	Buřtová	F			49	referentka	Určice	99	163	0
-7103	590126	1	1	461	15	Josef	Volf	M			72	důchodce	Určice	99	163	0
-7103	590126	1	2	901	1	Marie	Slezáková	F			63	důchodkyně	Určice	99	80	0
-7103	590126	1	2	901	2	Lukáš	Hrdlička	M			35	OSVČ	Určice	99	80	0
-7103	590126	1	2	901	3	Petr	Tománek	M			29	stavbyvedoucí	Určice	99	80	0
-7103	590126	1	2	901	4	Milan	František	M			48	revizní technik	Určice	99	80	0
-7103	590126	1	2	901	5	Pavel	Pařenica	M			46	OSVČ	Určice	99	80	0
-7103	590126	1	2	901	6	Roman	Vitásek	M			31	OSVČ	Určice	99	80	0
-7103	590126	1	2	901	7	Radana	Přikrylová	F			30	bankovní úřednice	Určice	99	80	0
-7103	590126	1	2	901	8	Lukáš	Ovečka	M			32	OSVČ	Určice	99	80	0
-7103	590126	1	2	901	9	Vlastimil	Šmída	M			59	důchodce	Určice	99	80	0
-7103	590126	1	2	901	10	Jindřich	Matějka	M			70	důchodce	Určice	99	80	0
-7103	590126	1	2	901	11	Tomáš	Pařenica	M			22	truhlář	Určice	99	80	0
-7103	590126	1	2	901	12	Květoslava	Šmídová	F			59	důchodkyně	Určice	99	80	0
-7103	590126	1	2	901	13	Eliška	Tománková	F			26	mateřská dovolená	Určice	99	80	0
-7103	590126	1	2	901	14	Antonín	Slezák	M			64	důchodce	Určice	99	80	0
-7103	590126	1	2	901	15	Marcela	Pazderová	F			47	skladnice	Určice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	590126	1	1	461	1	Vlastimil	Konšel			58	automechanik	Určice	99	163	0	M
+7103	590126	1	2	901	1	Marie	Slezáková			63	důchodkyně	Určice	99	80	0	F
+7103	590126	1	1	461	2	Petr	Kouřil			40	technik	Určice	99	163	0	M
+7103	590126	1	2	901	2	Lukáš	Hrdlička			35	OSVČ	Určice	99	80	0	M
+7103	590126	1	1	461	3	Martin	Fródl			41	technik	Určice	99	163	0	M
+7103	590126	1	2	901	3	Petr	Tománek			29	stavbyvedoucí	Určice	99	80	0	M
+7103	590126	1	1	461	4	Jaroslava	Soušková			58	referentka	Určice	99	163	0	F
+7103	590126	1	2	901	4	Milan	František			48	revizní technik	Určice	99	80	0	M
+7103	590126	1	1	461	5	Aleš	Vysloužil	Ing.		30	úředník	Určice	99	163	0	M
+7103	590126	1	2	901	5	Pavel	Pařenica			46	OSVČ	Určice	99	80	0	M
+7103	590126	1	1	461	6	Kamila	Sedláčková	Mgr.		45	učitelka	Určice	99	163	0	F
+7103	590126	1	2	901	6	Roman	Vitásek			31	OSVČ	Určice	99	80	0	M
+7103	590126	1	1	461	7	Terézia	Havlíčková	Ing.		59	důchodkyně	Určice	99	163	0	F
+7103	590126	1	2	901	7	Radana	Přikrylová			30	bankovní úřednice	Určice	99	80	0	F
+7103	590126	1	1	461	8	Antonín	Hujíček			61	živnostník	Určice	99	163	0	M
+7103	590126	1	2	901	8	Lukáš	Ovečka			32	OSVČ	Určice	99	80	0	M
+7103	590126	1	1	461	9	Petra	Poulíková	Bc.		46	všeobecná sestra	Určice	99	163	0	F
+7103	590126	1	2	901	9	Vlastimil	Šmída			59	důchodce	Určice	99	80	0	M
+7103	590126	1	1	461	10	Jaromír	Mlčoch			53	opravář	Určice	99	163	0	M
+7103	590126	1	2	901	10	Jindřich	Matějka			70	důchodce	Určice	99	80	0	M
+7103	590126	1	1	461	11	Ivanka	Cásková			60	důchodkyně	Určice	99	163	0	F
+7103	590126	1	2	901	11	Tomáš	Pařenica			22	truhlář	Určice	99	80	0	M
+7103	590126	1	1	461	12	Jaroslav	Drábek			49	nástrojař	Určice	99	163	0	M
+7103	590126	1	2	901	12	Květoslava	Šmídová			59	důchodkyně	Určice	99	80	0	F
+7103	590126	1	1	461	13	Marek	Beneš			38	zámečník	Určice	99	163	0	M
+7103	590126	1	2	901	13	Eliška	Tománková			26	mateřská dovolená	Určice	99	80	0	F
+7103	590126	1	1	461	14	Anna	Buřtová			49	referentka	Určice	99	163	0	F
+7103	590126	1	2	901	14	Antonín	Slezák			64	důchodce	Určice	99	80	0	M
+7103	590126	1	1	461	15	Josef	Volf			72	důchodce	Určice	99	163	0	M
+7103	590126	1	2	901	15	Marcela	Pazderová			47	skladnice	Určice	99	80	0	F

@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	540315	1	1	901	1	Martin	Fous	M			44	živnostník	Vacíkov	99	80	A
-2111	540315	1	1	901	2	Milan	Jaroš	M			46	lesník	Hvožďany	99	80	A
-2111	540315	1	1	901	3	Petra	Kmůchová	F			41	účetní - OSVČ	Hvožďany	99	80	A
-2111	540315	1	1	901	4	Milan	Hanzlík	M			45	mistr stavební výroby	Hvožďany	99	80	A
-2111	540315	1	1	901	5	Alena	Křížová	F			53	vedoucí pošty	Planiny	99	80	A
-2111	540315	1	1	901	6	Martin	Škrýba	M			42	programátor a seřizovač CNC strojů	Hvožďany	99	80	A
-2111	540315	1	1	901	7	Stanislav	Tůma	M			27	dělník stavební výroby	Hvožďany	99	80	A
-2111	540315	1	1	901	8	Marek	Vašíček	M			26	živnostník	Vacíkov	99	80	A
-2111	540315	1	1	901	9	Antonín	Rajniš	M			27	živnostník	Vacíkov	99	80	A
-2111	540315	1	1	901	10	Jitka	Nováková	F	Ing.		53	ekonomka provozu	Leletice	99	80	A
-2111	540315	1	1	901	11	Jan	Šefrna	M			42	obor telekomunikace	Vacíkov	99	80	A
-2111	540315	1	2	902	1	Markéta	Balková	F			44	starostka obce	Hvožďany	99	80	A
-2111	540315	1	2	902	2	Michal	Zdeněk	M	Ing.		52	ekonom	Planiny	99	80	A
-2111	540315	1	2	902	3	Ivana	Juračková	F	Mgr.		46	ředitelka ZŠ a MŠ	Pozdyně	99	80	A
-2111	540315	1	2	902	4	Veronika	Krejčová	F			30	soukromý zemědělec	Vacíkov	99	80	A
-2111	540315	1	2	902	5	Jiří	Tůma	M			34	technik přípravy výroby, hl. metrolog	Hvožďany	99	80	A
-2111	540315	1	2	902	6	Petr	Lavička	M	Bc.		37	stavební technik	Leletice	99	80	A
-2111	540315	1	2	902	7	Veronika	Jindřichová	F			33	kadeřnice	Hvožďany	99	80	A
-2111	540315	1	2	902	8	Tomáš	Krejčí	M			34	zootechnik	Hvožďany	99	80	A
-2111	540315	1	2	902	9	Libuše	Vinšová	F	Mgr.		59	pedagog ZŠ	Leletice	99	80	A
-2111	540315	1	2	902	10	Alena	Weinfurterová	F	Mgr.		62	pedagog ZŠ	Hvožďany	99	80	A
-2111	540315	1	2	902	11	Tomáš	Čabrádek	M	Ing.		51	vedoucí polesí	Vacíkov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	540315	1	1	901	1	Martin	Fous			44	živnostník	Vacíkov	99	80	A	M
+2111	540315	1	2	902	1	Markéta	Balková			44	starostka obce	Hvožďany	99	80	A	F
+2111	540315	1	1	901	2	Milan	Jaroš			46	lesník	Hvožďany	99	80	A	M
+2111	540315	1	2	902	2	Michal	Zdeněk	Ing.		52	ekonom	Planiny	99	80	A	M
+2111	540315	1	1	901	3	Petra	Kmůchová			41	účetní - OSVČ	Hvožďany	99	80	A	F
+2111	540315	1	2	902	3	Ivana	Juračková	Mgr.		46	ředitelka ZŠ a MŠ	Pozdyně	99	80	A	F
+2111	540315	1	1	901	4	Milan	Hanzlík			45	mistr stavební výroby	Hvožďany	99	80	A	M
+2111	540315	1	2	902	4	Veronika	Krejčová			30	soukromý zemědělec	Vacíkov	99	80	A	F
+2111	540315	1	1	901	5	Alena	Křížová			53	vedoucí pošty	Planiny	99	80	A	F
+2111	540315	1	2	902	5	Jiří	Tůma			34	technik přípravy výroby, hl. metrolog	Hvožďany	99	80	A	M
+2111	540315	1	1	901	6	Martin	Škrýba			42	programátor a seřizovač CNC strojů	Hvožďany	99	80	A	M
+2111	540315	1	2	902	6	Petr	Lavička	Bc.		37	stavební technik	Leletice	99	80	A	M
+2111	540315	1	1	901	7	Stanislav	Tůma			27	dělník stavební výroby	Hvožďany	99	80	A	M
+2111	540315	1	2	902	7	Veronika	Jindřichová			33	kadeřnice	Hvožďany	99	80	A	F
+2111	540315	1	1	901	8	Marek	Vašíček			26	živnostník	Vacíkov	99	80	A	M
+2111	540315	1	2	902	8	Tomáš	Krejčí			34	zootechnik	Hvožďany	99	80	A	M
+2111	540315	1	1	901	9	Antonín	Rajniš			27	živnostník	Vacíkov	99	80	A	M
+2111	540315	1	2	902	9	Libuše	Vinšová	Mgr.		59	pedagog ZŠ	Leletice	99	80	A	F
+2111	540315	1	1	901	10	Jitka	Nováková	Ing.		53	ekonomka provozu	Leletice	99	80	A	F
+2111	540315	1	2	902	10	Alena	Weinfurterová	Mgr.		62	pedagog ZŠ	Hvožďany	99	80	A	F
+2111	540315	1	1	901	11	Jan	Šefrna			42	obor telekomunikace	Vacíkov	99	80	A	M
+2111	540315	1	2	902	11	Tomáš	Čabrádek	Ing.		51	vedoucí polesí	Vacíkov	99	80	A	M

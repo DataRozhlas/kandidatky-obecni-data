@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	532215	1	1	901	1	Václav	Ladman	M			53	technik	Červený Újezd	99	80	0
-2110	532215	1	1	901	2	Slavomír	Sláma	M	Ing.		61	projektant	Červený Újezd	99	80	0
-2110	532215	1	1	901	3	Ladislava	Modlíková	F	Ing.		42	daňová poradkyně, účetní	Červený Újezd	99	80	0
-2110	532215	1	1	901	4	Petr	Voska	M			46	referent životního prostředí	Červený Újezd	99	80	0
-2110	532215	1	1	901	5	Marie	Rubešová	F			53	učitelka	Červený Újezd	99	80	0
-2110	532215	1	1	901	6	Jan	Brabec	M			52	ředitel firmy	Červený Újezd	99	80	0
-2110	532215	1	1	901	7	Jitka	Kleinová	F	MUDr.		50	lékařka	Červený Újezd	99	80	0
-2110	532215	1	1	901	8	Marcela	Jandová	F	Mgr.		38	zaměstnanec banky	Červený Újezd	99	80	0
-2110	532215	1	1	901	9	Vojtěch	Kašák	M			34	vedoucí autoservisu	Červený Újezd	99	80	0
-2110	532215	1	2	47	1	Jindřich	Jedlička	M			66	důchodce	Červený Újezd	47	47	0
-2110	532215	1	2	47	2	Jaroslav	Novotný	M			65	důchodce	Červený Újezd	47	47	0
-2110	532215	1	2	47	3	Vladimír	Neumann	M			61	dělník	Červený Újezd	47	47	0
-2110	532215	1	2	47	4	Jaroslav	Svoboda	M	Ing.		66	důchodce	Červený Újezd	47	47	0
-2110	532215	1	2	47	5	Jaroslav	Cintl	M			67	důchodce	Červený Újezd	47	47	0
-2110	532215	1	2	47	6	Pavel	Kostovský	M			44	stavební technik	Červený Újezd	47	47	0
-2110	532215	1	2	47	7	Jiří	Marek	M			59	důchodce	Červený Újezd	99	47	0
-2110	532215	1	2	47	8	Táňa	Novotná	F			64	důchodkyně	Červený Újezd	47	47	0
-2110	532215	1	2	47	9	Věra	Neumannová	F			61	důchodkyně	Červený Újezd	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	532215	1	1	901	1	Václav	Ladman			53	technik	Červený Újezd	99	80	0	M
+2110	532215	1	2	47	1	Jindřich	Jedlička			66	důchodce	Červený Újezd	47	47	0	M
+2110	532215	1	1	901	2	Slavomír	Sláma	Ing.		61	projektant	Červený Újezd	99	80	0	M
+2110	532215	1	2	47	2	Jaroslav	Novotný			65	důchodce	Červený Újezd	47	47	0	M
+2110	532215	1	1	901	3	Ladislava	Modlíková	Ing.		42	daňová poradkyně, účetní	Červený Újezd	99	80	0	F
+2110	532215	1	2	47	3	Vladimír	Neumann			61	dělník	Červený Újezd	47	47	0	M
+2110	532215	1	1	901	4	Petr	Voska			46	referent životního prostředí	Červený Újezd	99	80	0	M
+2110	532215	1	2	47	4	Jaroslav	Svoboda	Ing.		66	důchodce	Červený Újezd	47	47	0	M
+2110	532215	1	1	901	5	Marie	Rubešová			53	učitelka	Červený Újezd	99	80	0	F
+2110	532215	1	2	47	5	Jaroslav	Cintl			67	důchodce	Červený Újezd	47	47	0	M
+2110	532215	1	1	901	6	Jan	Brabec			52	ředitel firmy	Červený Újezd	99	80	0	M
+2110	532215	1	2	47	6	Pavel	Kostovský			44	stavební technik	Červený Újezd	47	47	0	M
+2110	532215	1	1	901	7	Jitka	Kleinová	MUDr.		50	lékařka	Červený Újezd	99	80	0	F
+2110	532215	1	2	47	7	Jiří	Marek			59	důchodce	Červený Újezd	99	47	0	M
+2110	532215	1	1	901	8	Marcela	Jandová	Mgr.		38	zaměstnanec banky	Červený Újezd	99	80	0	F
+2110	532215	1	2	47	8	Táňa	Novotná			64	důchodkyně	Červený Újezd	47	47	0	F
+2110	532215	1	1	901	9	Vojtěch	Kašák			34	vedoucí autoservisu	Červený Újezd	99	80	0	M
+2110	532215	1	2	47	9	Věra	Neumannová			61	důchodkyně	Červený Újezd	47	47	0	F

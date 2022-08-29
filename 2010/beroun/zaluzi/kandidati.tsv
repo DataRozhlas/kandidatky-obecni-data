@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2102	532002	1	1	137	1	Marek	Horák	M			29	živnostník	Záluží	99	137	0
-2102	532002	1	1	137	2	Miloslav	Pajer	M			25	logistik	Záluží	99	137	0
-2102	532002	1	1	137	3	Vladimír	Diviš	M			47	živnostník	Záluží	99	137	0
-2102	532002	1	1	137	4	Karel	Štorkán	M			33	operátor výroby	Záluží	99	137	0
-2102	532002	1	1	137	5	Lenka	Ptáčková	F			39	pracovník příprava výroby	Záluží	99	137	0
-2102	532002	1	2	901	1	Ludmila	Mottlová	F	Mgr.		40	učitelka	Záluží	99	80	0
-2102	532002	1	2	901	2	Miriam	Carvánová	F			46	účetní	Záluží	99	80	0
-2102	532002	1	2	901	3	Jiří	Hatina	M			52	zedník	Záluží	99	80	0
-2102	532002	1	2	901	4	Jiří	Flieger	M	Ing.		45	technik elektro	Záluží	99	80	0
-2102	532002	1	2	901	5	Margita	Antonová	F			67	důchodkyně	Záluží	99	80	0
-2102	532002	1	2	901	6	Jiří	Cabalka	M			54	podnikatel	Záluží	99	80	0
-2102	532002	1	2	901	7	Jaroslav	Šebek	M			46	dělník	Záluží	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2102	532002	1	1	137	1	Marek	Horák			29	živnostník	Záluží	99	137	0	M
+2102	532002	1	2	901	1	Ludmila	Mottlová	Mgr.		40	učitelka	Záluží	99	80	0	F
+2102	532002	1	1	137	2	Miloslav	Pajer			25	logistik	Záluží	99	137	0	M
+2102	532002	1	2	901	2	Miriam	Carvánová			46	účetní	Záluží	99	80	0	F
+2102	532002	1	1	137	3	Vladimír	Diviš			47	živnostník	Záluží	99	137	0	M
+2102	532002	1	2	901	3	Jiří	Hatina			52	zedník	Záluží	99	80	0	M
+2102	532002	1	1	137	4	Karel	Štorkán			33	operátor výroby	Záluží	99	137	0	M
+2102	532002	1	2	901	4	Jiří	Flieger	Ing.		45	technik elektro	Záluží	99	80	0	M
+2102	532002	1	1	137	5	Lenka	Ptáčková			39	pracovník příprava výroby	Záluží	99	137	0	F
+2102	532002	1	2	901	5	Margita	Antonová			67	důchodkyně	Záluží	99	80	0	F
+2102	532002	1	2	901	6	Jiří	Cabalka			54	podnikatel	Záluží	99	80	0	M
+2102	532002	1	2	901	7	Jaroslav	Šebek			46	dělník	Záluží	99	80	0	M

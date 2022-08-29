@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	539210	1	1	470	1	Matěj	Novák	M	Mgr.		42	senior manažer/bankovnictví	Dolní Břežany	99	80	A
-2110	539210	1	1	470	2	Jana	De Merlier	F	Ing.		44	dotační manažer	Dolní Břežany	99	166	A
-2110	539210	1	1	470	3	Lubomír	Havel	M			64	místostarosta, manažer/telekomunikace	Dolní Břežany	99	166	A
-2110	539210	1	1	470	4	Zdeněk	Kovařík	M	Ing.		67	místostarosta	Dolní Břežany	99	166	A
-2110	539210	1	1	470	5	Markéta	Mayerová	F	JUDr.		55	moderátorka a project manager	Dolní Břežany	99	80	A
-2110	539210	1	1	470	6	Lucie	Vospělová	F	Ing.		46	PR a marketing manager	Dolní Břežany	99	166	A
-2110	539210	1	1	470	7	Jan	Šerák	M			41	servisní a revizní technik	Dolní Břežany	99	166	A
-2110	539210	1	1	470	8	Magda	Marková	F	Mgr.		46	ředitelka ZUŠ Harmony	Dolní Břežany	99	166	A
-2110	539210	1	1	470	9	Radek	Motyka	M			54	podnikatel	Zálepy	99	166	A
-2110	539210	1	1	470	10	Jan	Záruba	M	Ing.	MBA	50	manažer/telekomunikace	Dolní Břežany	99	166	A
-2110	539210	1	1	470	11	Michal	Zemek	M			42	vinotékař	Dolní Břežany	99	166	A
-2110	539210	1	1	470	12	Ivo	Segeťa	M	Ing. arch.		43	architekt a projektový manažér	Dolní Břežany	99	166	A
-2110	539210	1	1	470	13	Jan	Tomášek	M		DiS.	41	produktový specialista/obchodní manažer	Dolní Břežany	99	166	A
-2110	539210	1	1	470	14	Jiří	Budil	M			53	soukromý podnikatel	Lhota	99	166	A
-2110	539210	1	1	470	15	Martina	Malá	F			48	kalceotik	Zálepy	99	166	A
-2110	539210	1	1	470	16	Ingrid	Hubáček	F	Mgr.		48	učitelka 1. stupně ZŠ	Dolní Břežany	99	166	A
-2110	539210	1	1	470	17	Barbora	Urbanová	F	Ing.		30	poslankyně, ředitelka iSTAR	Dolní Břežany	166	166	A
-2110	539210	1	2	389	1	Jan	Jedlička	M	Ing.		48	ekonom	Dolní Břežany	99	80	A
-2110	539210	1	2	389	2	Petr	Lang	M	Ing.		57	podnikatel	Dolní Břežany	53	53	A
-2110	539210	1	2	389	3	Zdeňka	Hildová	F	Ing.		45	manažerka digitálních projektů	Lhota	99	80	A
-2110	539210	1	2	389	4	Daniela	Murad	F	JUDr.		41	právnička	Dolní Břežany	99	80	A
-2110	539210	1	2	389	5	Zuzana	Hocková	F	Ing.		45	ekonom, projektový manažer	Praha 4 - Libuš	99	80	A
-2110	539210	1	2	389	6	Jiří	Šimák	M			68	důchodce	Lhota	99	80	A
-2110	539210	1	2	389	7	Jitka	Langová	F			52	OSVČ	Dolní Břežany	99	80	A
-2110	539210	1	2	389	8	Pavel	Zástava	M			46	technolog	Dolní Břežany	99	80	A
-2110	539210	1	2	389	9	Jan	Kolář	M	Ing.	MHA	43	provozní a finanční ředitel	Dolní Břežany	99	80	A
-2110	539210	1	2	389	10	Barbora	Ulrychová	F		DiS.	40	personalistka	Zálepy	99	80	A
-2110	539210	1	2	389	11	Lukáš	Plechatý	M			40	manažer ve stavebnictví	Lhota	99	80	A
-2110	539210	1	2	389	12	Michal	Sedlecký	M			43	instruktor sportu	Dolní Břežany	99	80	A
-2110	539210	1	2	389	13	Radka	Mihaličková	F			52	OSVČ	Dolní Břežany	99	80	A
-2110	539210	1	2	389	14	Petr	Novák	M	RNDr.	PhD.	48	vědecký pracovník, vysokoškolský pedagog	Dolní Břežany	99	80	A
-2110	539210	1	2	389	15	Kateřina	Fritz	F	Mgr.		39	úřednice ve státní správě	Dolní Břežany	99	80	A
-2110	539210	1	2	389	16	Jana	Holanová	F	Mgr.		33	právnička	Dolní Břežany	99	80	A
-2110	539210	1	2	389	17	Tomáš	Stopka	M	prof. MUDr.	PhD.	51	lékař	Dolní Břežany	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	539210	1	1	470	1	Matěj	Novák	Mgr.		42	senior manažer/bankovnictví	Dolní Břežany	99	80	A	M
+2110	539210	1	2	389	1	Jan	Jedlička	Ing.		48	ekonom	Dolní Břežany	99	80	A	M
+2110	539210	1	1	470	2	Jana	De Merlier	Ing.		44	dotační manažer	Dolní Břežany	99	166	A	F
+2110	539210	1	2	389	2	Petr	Lang	Ing.		57	podnikatel	Dolní Břežany	53	53	A	M
+2110	539210	1	1	470	3	Lubomír	Havel			64	místostarosta, manažer/telekomunikace	Dolní Břežany	99	166	A	M
+2110	539210	1	2	389	3	Zdeňka	Hildová	Ing.		45	manažerka digitálních projektů	Lhota	99	80	A	F
+2110	539210	1	1	470	4	Zdeněk	Kovařík	Ing.		67	místostarosta	Dolní Břežany	99	166	A	M
+2110	539210	1	2	389	4	Daniela	Murad	JUDr.		41	právnička	Dolní Břežany	99	80	A	F
+2110	539210	1	1	470	5	Markéta	Mayerová	JUDr.		55	moderátorka a project manager	Dolní Břežany	99	80	A	F
+2110	539210	1	2	389	5	Zuzana	Hocková	Ing.		45	ekonom, projektový manažer	Praha 4 - Libuš	99	80	A	F
+2110	539210	1	1	470	6	Lucie	Vospělová	Ing.		46	PR a marketing manager	Dolní Břežany	99	166	A	F
+2110	539210	1	2	389	6	Jiří	Šimák			68	důchodce	Lhota	99	80	A	M
+2110	539210	1	1	470	7	Jan	Šerák			41	servisní a revizní technik	Dolní Břežany	99	166	A	M
+2110	539210	1	2	389	7	Jitka	Langová			52	OSVČ	Dolní Břežany	99	80	A	F
+2110	539210	1	1	470	8	Magda	Marková	Mgr.		46	ředitelka ZUŠ Harmony	Dolní Břežany	99	166	A	F
+2110	539210	1	2	389	8	Pavel	Zástava			46	technolog	Dolní Břežany	99	80	A	M
+2110	539210	1	1	470	9	Radek	Motyka			54	podnikatel	Zálepy	99	166	A	M
+2110	539210	1	2	389	9	Jan	Kolář	Ing.	MHA	43	provozní a finanční ředitel	Dolní Břežany	99	80	A	M
+2110	539210	1	1	470	10	Jan	Záruba	Ing.	MBA	50	manažer/telekomunikace	Dolní Břežany	99	166	A	M
+2110	539210	1	2	389	10	Barbora	Ulrychová		DiS.	40	personalistka	Zálepy	99	80	A	F
+2110	539210	1	1	470	11	Michal	Zemek			42	vinotékař	Dolní Břežany	99	166	A	M
+2110	539210	1	2	389	11	Lukáš	Plechatý			40	manažer ve stavebnictví	Lhota	99	80	A	M
+2110	539210	1	1	470	12	Ivo	Segeťa	Ing. arch.		43	architekt a projektový manažér	Dolní Břežany	99	166	A	M
+2110	539210	1	2	389	12	Michal	Sedlecký			43	instruktor sportu	Dolní Břežany	99	80	A	M
+2110	539210	1	1	470	13	Jan	Tomášek		DiS.	41	produktový specialista/obchodní manažer	Dolní Břežany	99	166	A	M
+2110	539210	1	2	389	13	Radka	Mihaličková			52	OSVČ	Dolní Břežany	99	80	A	F
+2110	539210	1	1	470	14	Jiří	Budil			53	soukromý podnikatel	Lhota	99	166	A	M
+2110	539210	1	2	389	14	Petr	Novák	RNDr.	PhD.	48	vědecký pracovník, vysokoškolský pedagog	Dolní Břežany	99	80	A	M
+2110	539210	1	1	470	15	Martina	Malá			48	kalceotik	Zálepy	99	166	A	F
+2110	539210	1	2	389	15	Kateřina	Fritz	Mgr.		39	úřednice ve státní správě	Dolní Břežany	99	80	A	F
+2110	539210	1	1	470	16	Ingrid	Hubáček	Mgr.		48	učitelka 1. stupně ZŠ	Dolní Břežany	99	166	A	F
+2110	539210	1	2	389	16	Jana	Holanová	Mgr.		33	právnička	Dolní Břežany	99	80	A	F
+2110	539210	1	1	470	17	Barbora	Urbanová	Ing.		30	poslankyně, ředitelka iSTAR	Dolní Břežany	166	166	A	F
+2110	539210	1	2	389	17	Tomáš	Stopka	prof. MUDr.	PhD.	51	lékař	Dolní Břežany	99	80	A	M

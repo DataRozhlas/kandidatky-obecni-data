@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4205	567281	1	1	901	1	Karel	Tuzar	M			47	poradce pro podnikatelské pojištění ČP a.s.	Lužice	99	80	0
-4205	567281	1	1	901	2	Jana	Rogulová	F	Ing.		54	vedoucí finančního odboru na MÚ	Svinčice	99	80	0
-4205	567281	1	1	901	3	Roman	Lisý	M			51	živnostník - potřeby pro chovatele	Lužice	99	80	0
-4205	567281	1	1	901	4	Josef	Tajmr	M	MVDr.		67	veterinář	Svinčice	99	80	0
-4205	567281	1	1	901	5	Ludmila	Polívková	F	Mgr.		60	notářka	Lužice	99	80	0
-4205	567281	1	1	901	6	Jiří	Šilhan	M			70	elektromechanik	Lužice	99	80	0
-4205	567281	1	1	901	7	Petr	Doležal	M			38	skladník	Svinčice	99	80	0
-4205	567281	1	1	901	8	Pavel	Chocholouš	M			65	autorizovaný stavitel	Lužice	99	80	0
-4205	567281	1	1	901	9	Pravoslava	Jirková	F			58	uklízečka	Svinčice	99	80	0
-4205	567281	1	2	536	1	Radek	Stehlík	M	Ing.		48	OSVČ	Lužice	99	1017	0
-4205	567281	1	2	536	2	Jindřich	John	M			49	zástupce vedoucího provozu	Lužice	99	1017	0
-4205	567281	1	2	536	3	Petr	Havej	M			51	technik	Lužice	99	80	0
-4205	567281	1	2	536	4	Jiří	Volprecht	M	Mgr.		48	státní zaměstnanec	Lužice	99	80	0
-4205	567281	1	2	536	5	Lucie	Staňková	F			37	manažerka	Lužice	99	80	0
-4205	567281	1	2	536	6	Luboš	Jirsa	M			50	OSVČ	Lužice	99	80	0
-4205	567281	1	2	536	7	Martin	Lecko	M			43	chemik	Lužice	99	80	0
-4205	567281	1	2	536	8	Julie	Nováková	F			33	zdravotní sestra	Lužice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4205	567281	1	1	901	1	Karel	Tuzar			47	poradce pro podnikatelské pojištění ČP a.s.	Lužice	99	80	0	M
+4205	567281	1	2	536	1	Radek	Stehlík	Ing.		48	OSVČ	Lužice	99	1017	0	M
+4205	567281	1	1	901	2	Jana	Rogulová	Ing.		54	vedoucí finančního odboru na MÚ	Svinčice	99	80	0	F
+4205	567281	1	2	536	2	Jindřich	John			49	zástupce vedoucího provozu	Lužice	99	1017	0	M
+4205	567281	1	1	901	3	Roman	Lisý			51	živnostník - potřeby pro chovatele	Lužice	99	80	0	M
+4205	567281	1	2	536	3	Petr	Havej			51	technik	Lužice	99	80	0	M
+4205	567281	1	1	901	4	Josef	Tajmr	MVDr.		67	veterinář	Svinčice	99	80	0	M
+4205	567281	1	2	536	4	Jiří	Volprecht	Mgr.		48	státní zaměstnanec	Lužice	99	80	0	M
+4205	567281	1	1	901	5	Ludmila	Polívková	Mgr.		60	notářka	Lužice	99	80	0	F
+4205	567281	1	2	536	5	Lucie	Staňková			37	manažerka	Lužice	99	80	0	F
+4205	567281	1	1	901	6	Jiří	Šilhan			70	elektromechanik	Lužice	99	80	0	M
+4205	567281	1	2	536	6	Luboš	Jirsa			50	OSVČ	Lužice	99	80	0	M
+4205	567281	1	1	901	7	Petr	Doležal			38	skladník	Svinčice	99	80	0	M
+4205	567281	1	2	536	7	Martin	Lecko			43	chemik	Lužice	99	80	0	M
+4205	567281	1	1	901	8	Pavel	Chocholouš			65	autorizovaný stavitel	Lužice	99	80	0	M
+4205	567281	1	2	536	8	Julie	Nováková			33	zdravotní sestra	Lužice	99	80	0	F
+4205	567281	1	1	901	9	Pravoslava	Jirková			58	uklízečka	Svinčice	99	80	0	F

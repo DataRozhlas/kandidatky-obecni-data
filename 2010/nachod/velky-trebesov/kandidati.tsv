@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5203	574589	1	1	902	1	Lubomír	Hnik	M			56	zaměstnanec obce	Velký Třebešov	99	80	0
-5203	574589	1	1	902	2	Jan	Suchánek	M			32	dělník	Velký Třebešov	99	80	0
-5203	574589	1	1	902	3	Milan	Exnar	M			28	rolník	Velký Třebešov	99	80	0
-5203	574589	1	2	901	1	Jaromír	Mervart	M			57	stavební technik	Velký Třebešov	99	80	0
-5203	574589	1	2	901	2	Milan	Důrek	M	Ing.		54	ekonom	Velký Třebešov	99	80	0
-5203	574589	1	2	901	3	Michal	Schejbal	M	Ing.		30	technický referent kvality	Velký Třebešov	99	80	0
-5203	574589	1	2	901	4	Lenka	Jarkovská	F			36	administrativní pracovnice	Velký Třebešov	99	80	0
-5203	574589	1	2	901	5	David	Melichar	M			32	podnikatel	Velký Třebešov	99	80	0
-5203	574589	1	2	901	6	Monika	Štodtová	F	Ing.		37	učitelka	Velký Třebešov	99	80	0
-5203	574589	1	2	901	7	Radek	Holubec	M			37	podnikatel	Velký Třebešov	99	80	0
-5203	574589	1	2	901	8	Robert	Jarkovský	M			38	vedoucí úseku elektro	Velký Třebešov	99	80	0
-5203	574589	1	2	901	9	Josef	Augst	M			40	mistr cihlářské výroby	Velký Třebešov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5203	574589	1	1	902	1	Lubomír	Hnik			56	zaměstnanec obce	Velký Třebešov	99	80	0	M
+5203	574589	1	2	901	1	Jaromír	Mervart			57	stavební technik	Velký Třebešov	99	80	0	M
+5203	574589	1	1	902	2	Jan	Suchánek			32	dělník	Velký Třebešov	99	80	0	M
+5203	574589	1	2	901	2	Milan	Důrek	Ing.		54	ekonom	Velký Třebešov	99	80	0	M
+5203	574589	1	1	902	3	Milan	Exnar			28	rolník	Velký Třebešov	99	80	0	M
+5203	574589	1	2	901	3	Michal	Schejbal	Ing.		30	technický referent kvality	Velký Třebešov	99	80	0	M
+5203	574589	1	2	901	4	Lenka	Jarkovská			36	administrativní pracovnice	Velký Třebešov	99	80	0	F
+5203	574589	1	2	901	5	David	Melichar			32	podnikatel	Velký Třebešov	99	80	0	M
+5203	574589	1	2	901	6	Monika	Štodtová	Ing.		37	učitelka	Velký Třebešov	99	80	0	F
+5203	574589	1	2	901	7	Radek	Holubec			37	podnikatel	Velký Třebešov	99	80	0	M
+5203	574589	1	2	901	8	Robert	Jarkovský			38	vedoucí úseku elektro	Velký Třebešov	99	80	0	M
+5203	574589	1	2	901	9	Josef	Augst			40	mistr cihlářské výroby	Velký Třebešov	99	80	0	M

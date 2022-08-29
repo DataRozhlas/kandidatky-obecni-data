@@ -1,30 +1,30 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	554057	1	1	902	1	Pavel	Chmelík	M			49	řidič	Nový Kramolín	156	80	0
-3201	554057	1	1	902	2	Petra	Horáková Krausová	F			31	dělnice	Nový Kramolín	99	80	0
-3201	554057	1	1	902	3	Ivana	Majková	F			49	kuchařka	Nový Kramolín	99	80	0
-3201	554057	1	1	902	4	Josef	Pešta	M			31	dělník	Nový Kramolín	99	80	0
-3201	554057	1	1	902	5	Věra	Svidrová	F	Mgr.		68	důchodkyně	Nový Kramolín	99	80	0
-3201	554057	1	1	902	6	Pavel	Molnár	M			54	zedník	Nový Kramolín	99	80	0
-3201	554057	1	1	902	7	Monika	Voráčová	F			36	na mateřské dovolené	Nový Kramolín	99	80	0
-3201	554057	1	1	902	8	Vojtěch	Knopf	M			19	student	Nový Kramolín	99	80	0
-3201	554057	1	1	902	9	Robin	Lang	M			25	dělník	Nový Kramolín	99	80	0
-3201	554057	1	2	901	1	Karel	Váchal	M	Mgr.		25	student	Nový Kramolín	99	80	0
-3201	554057	1	2	901	2	Jaroslav	Běhounek	M			58	tesař	Nový Kramolín	99	80	0
-3201	554057	1	2	901	3	Václav	Stahl	M			60	řidič autobusu	Nový Kramolín	99	80	0
-3201	554057	1	2	901	4	Miroslav	Mach	M			55	obsluha stavebních strojů	Nový Kramolín	99	80	0
-3201	554057	1	2	901	5	Hana	Váchalová	F			53	podnikatelka	Nový Kramolín	99	80	0
-3201	554057	1	2	901	6	Jiří	Krutina	M			56	pracovník v živočišné výrobě	Nový Kramolín	99	80	0
-3201	554057	1	2	901	7	Miroslav	Stodola	M			55	automechanik	Nový Kramolín	99	80	0
-3201	554057	1	2	901	8	Helena	Anderlová	F			41	prodavačka	Nový Kramolín	99	80	0
-3201	554057	1	2	901	9	Milan	Černý	M			46	pracovník SŽDC	Nový Kramolín	99	80	0
-3201	554057	1	3	7	1	Pavel	Sokol	M			65	důchodce	Nový Kramolín	7	7	0
-3201	554057	1	3	7	2	Jan	Buršík	M			64	důchodce	Nový Kramolín	7	7	0
-3201	554057	1	3	7	3	Veronika	Valtová	F			39	poštovní doručovatelka	Nový Kramolín	99	7	0
-3201	554057	1	3	7	4	Vlastimil	Faina	M			58	řidič	Nový Kramolín	7	7	0
-3201	554057	1	3	7	5	Jitka	Ledvinová	F			47	obsluha čerpací stanice	Nový Kramolín	99	7	0
-3201	554057	1	3	7	6	Luboš	Hána	M			55	elektrikář	Nový Kramolín	7	7	0
-3201	554057	1	3	7	7	Petr	Buršík	M			45	řidič	Nový Kramolín	7	7	0
-3201	554057	1	3	7	8	Petr	Knopf	M			46	zámečník-svářeč	Nový Kramolín	7	7	0
-3201	554057	1	3	7	9	Jiří	Anderle	M			43	truhlář	Nový Kramolín	99	7	0
-3201	554057	1	4	482	1	Petr	Vogeltanz	M			48	řidič MKD - hospodský	Nový Kramolín	99	715	1
-3201	554057	1	4	482	2	Martin	Navrátil	M			31	svářeč	Nový Kramolín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	554057	1	1	902	1	Pavel	Chmelík			49	řidič	Nový Kramolín	156	80	0	M
+3201	554057	1	2	901	1	Karel	Váchal	Mgr.		25	student	Nový Kramolín	99	80	0	M
+3201	554057	1	3	7	1	Pavel	Sokol			65	důchodce	Nový Kramolín	7	7	0	M
+3201	554057	1	4	482	1	Petr	Vogeltanz			48	řidič MKD - hospodský	Nový Kramolín	99	715	1	M
+3201	554057	1	1	902	2	Petra	Horáková Krausová			31	dělnice	Nový Kramolín	99	80	0	F
+3201	554057	1	2	901	2	Jaroslav	Běhounek			58	tesař	Nový Kramolín	99	80	0	M
+3201	554057	1	3	7	2	Jan	Buršík			64	důchodce	Nový Kramolín	7	7	0	M
+3201	554057	1	4	482	2	Martin	Navrátil			31	svářeč	Nový Kramolín	99	80	0	M
+3201	554057	1	1	902	3	Ivana	Majková			49	kuchařka	Nový Kramolín	99	80	0	F
+3201	554057	1	2	901	3	Václav	Stahl			60	řidič autobusu	Nový Kramolín	99	80	0	M
+3201	554057	1	3	7	3	Veronika	Valtová			39	poštovní doručovatelka	Nový Kramolín	99	7	0	F
+3201	554057	1	1	902	4	Josef	Pešta			31	dělník	Nový Kramolín	99	80	0	M
+3201	554057	1	2	901	4	Miroslav	Mach			55	obsluha stavebních strojů	Nový Kramolín	99	80	0	M
+3201	554057	1	3	7	4	Vlastimil	Faina			58	řidič	Nový Kramolín	7	7	0	M
+3201	554057	1	1	902	5	Věra	Svidrová	Mgr.		68	důchodkyně	Nový Kramolín	99	80	0	F
+3201	554057	1	2	901	5	Hana	Váchalová			53	podnikatelka	Nový Kramolín	99	80	0	F
+3201	554057	1	3	7	5	Jitka	Ledvinová			47	obsluha čerpací stanice	Nový Kramolín	99	7	0	F
+3201	554057	1	1	902	6	Pavel	Molnár			54	zedník	Nový Kramolín	99	80	0	M
+3201	554057	1	2	901	6	Jiří	Krutina			56	pracovník v živočišné výrobě	Nový Kramolín	99	80	0	M
+3201	554057	1	3	7	6	Luboš	Hána			55	elektrikář	Nový Kramolín	7	7	0	M
+3201	554057	1	1	902	7	Monika	Voráčová			36	na mateřské dovolené	Nový Kramolín	99	80	0	F
+3201	554057	1	2	901	7	Miroslav	Stodola			55	automechanik	Nový Kramolín	99	80	0	M
+3201	554057	1	3	7	7	Petr	Buršík			45	řidič	Nový Kramolín	7	7	0	M
+3201	554057	1	1	902	8	Vojtěch	Knopf			19	student	Nový Kramolín	99	80	0	M
+3201	554057	1	2	901	8	Helena	Anderlová			41	prodavačka	Nový Kramolín	99	80	0	F
+3201	554057	1	3	7	8	Petr	Knopf			46	zámečník-svářeč	Nový Kramolín	7	7	0	M
+3201	554057	1	1	902	9	Robin	Lang			25	dělník	Nový Kramolín	99	80	0	M
+3201	554057	1	2	901	9	Milan	Černý			46	pracovník SŽDC	Nový Kramolín	99	80	0	M
+3201	554057	1	3	7	9	Jiří	Anderle			43	truhlář	Nový Kramolín	99	7	0	M

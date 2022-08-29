@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	540447	1	1	1	1	Jan	Pecka	M			54	OSVČ	Zadní Chlum	99	1	A
-2111	540447	1	1	1	2	Stanislav	Stoulil	M			47	starosta	Zadní Chlum	99	1	A
-2111	540447	1	1	1	3	Josef	Kulas	M	Ing.		56	OSVČ	Voltýřov	99	1	A
-2111	540447	1	1	1	4	Marcela	Stehlíková	F			46	ekonom	Klučenice	99	1	A
-2111	540447	1	1	1	5	Martin	Kutil	M			27	mechanizátor	Koubalova Lhota	99	1	A
-2111	540447	1	1	1	6	Tomáš	Petřík	M			36	státní zaměstnanec	Klučenice	99	1	A
-2111	540447	1	1	1	7	Václav	Vozábal	M	Mgr.		27	učitel	Klučenice	1	1	A
-2111	540447	1	1	1	8	Luboš	Řezník	M	Ing.		30	obchodní zástupce	Klučenice	99	1	A
-2111	540447	1	1	1	9	Jakub	Záleský	M	MVDr.		28	veterinární lékař	Klučenice	99	1	A
-2111	540447	1	2	902	1	Stanislav	Žák	M	Ing.		47	živnostník	Klučenice	99	80	A
-2111	540447	1	2	902	2	Luboš	Řezník	M			52	živnostník	Klučenice	99	80	A
-2111	540447	1	2	902	3	Božetěch	Burda	M	Mgr.		50	učitel	Klučenice	99	80	A
-2111	540447	1	2	902	4	Radek	Kicl	M	Bc.		42	státní zaměstnanec	Klučenice	99	80	A
-2111	540447	1	2	902	5	Hana	Přibylová	F			45	OSVČ	Klučenice	99	80	A
-2111	540447	1	2	902	6	Tomáš	Kyselý	M	Ing.		26	IT byznys konzultant	Klučenice	99	80	A
-2111	540447	1	2	902	7	Karel	Valiček	M			62	technik	Klučenice	99	80	A
-2111	540447	1	2	902	8	Jan	Marek	M			54	zaměstnanec	Klučenice	99	80	A
-2111	540447	1	2	902	9	Marie	Bartoňová	F			48	asistent pedagoga	Klučenice	99	80	A
-2111	540447	1	3	901	1	Martin	Petřík	M	Bc.		33	profesionální hasič	Klučenice	99	80	A
-2111	540447	1	3	901	2	Ondřej	Vlna	M			28	živnostník	Voltýřov	99	80	A
-2111	540447	1	3	901	3	Tomáš	Květ	M			44	živnostník	Klučenice	99	80	A
-2111	540447	1	3	901	4	Martin	Křesina	M			55	kuchař	Kamenice	99	80	A
-2111	540447	1	3	901	5	Petr	Sirotek	M			57	zaměstnanec obce	Klučenice	99	80	A
-2111	540447	1	3	901	6	Jan	Pecka	M	Ing.		27	student	Zadní Chlum	99	80	A
-2111	540447	1	3	901	7	Klára	Balíková	F			43	dojička	Kosobudy	99	80	A
-2111	540447	1	3	901	8	Jitka	Marková	F			57	uklízečka ZŠ a MŠ	Kosobudy	99	80	A
-2111	540447	1	3	901	9	Blanka	Kostková	F			57	zaměstnanec obce	Planá	99	80	A
-2111	540447	1	4	903	1	Ota	Roušal	M			58	lesník	Kosobudy	99	80	A
-2111	540447	1	4	903	2	Oldřich	Žirovnický	M			37	technik	Klučenice	99	80	A
-2111	540447	1	4	903	3	Jiří	Veselý	M			76	důchodce	Klučenice	99	80	A
-2111	540447	1	4	903	4	Jana	Květová	F			43	asistent pedagoga	Klučenice	99	80	A
-2111	540447	1	4	903	5	Monika	Štecherová	F			33	laborantka	Klučenice	99	80	A
-2111	540447	1	4	903	6	Zbyněk	Štecher	M			33	OSVČ	Klučenice	99	80	A
-2111	540447	1	4	903	7	Aleš	Suchý	M	Mgr.		60	ředitel ZŠ a MŠ	Klučenice	99	80	A
-2111	540447	1	4	903	8	Jan	Marek	M			22	traktorista	Klučenice	99	80	A
-2111	540447	1	4	903	9	Šárka	Lacinová	F			44	sociální pracovnice	Klučenice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	540447	1	1	1	1	Jan	Pecka			54	OSVČ	Zadní Chlum	99	1	A	M
+2111	540447	1	2	902	1	Stanislav	Žák	Ing.		47	živnostník	Klučenice	99	80	A	M
+2111	540447	1	3	901	1	Martin	Petřík	Bc.		33	profesionální hasič	Klučenice	99	80	A	M
+2111	540447	1	4	903	1	Ota	Roušal			58	lesník	Kosobudy	99	80	A	M
+2111	540447	1	1	1	2	Stanislav	Stoulil			47	starosta	Zadní Chlum	99	1	A	M
+2111	540447	1	2	902	2	Luboš	Řezník			52	živnostník	Klučenice	99	80	A	M
+2111	540447	1	3	901	2	Ondřej	Vlna			28	živnostník	Voltýřov	99	80	A	M
+2111	540447	1	4	903	2	Oldřich	Žirovnický			37	technik	Klučenice	99	80	A	M
+2111	540447	1	1	1	3	Josef	Kulas	Ing.		56	OSVČ	Voltýřov	99	1	A	M
+2111	540447	1	2	902	3	Božetěch	Burda	Mgr.		50	učitel	Klučenice	99	80	A	M
+2111	540447	1	3	901	3	Tomáš	Květ			44	živnostník	Klučenice	99	80	A	M
+2111	540447	1	4	903	3	Jiří	Veselý			76	důchodce	Klučenice	99	80	A	M
+2111	540447	1	1	1	4	Marcela	Stehlíková			46	ekonom	Klučenice	99	1	A	F
+2111	540447	1	2	902	4	Radek	Kicl	Bc.		42	státní zaměstnanec	Klučenice	99	80	A	M
+2111	540447	1	3	901	4	Martin	Křesina			55	kuchař	Kamenice	99	80	A	M
+2111	540447	1	4	903	4	Jana	Květová			43	asistent pedagoga	Klučenice	99	80	A	F
+2111	540447	1	1	1	5	Martin	Kutil			27	mechanizátor	Koubalova Lhota	99	1	A	M
+2111	540447	1	2	902	5	Hana	Přibylová			45	OSVČ	Klučenice	99	80	A	F
+2111	540447	1	3	901	5	Petr	Sirotek			57	zaměstnanec obce	Klučenice	99	80	A	M
+2111	540447	1	4	903	5	Monika	Štecherová			33	laborantka	Klučenice	99	80	A	F
+2111	540447	1	1	1	6	Tomáš	Petřík			36	státní zaměstnanec	Klučenice	99	1	A	M
+2111	540447	1	2	902	6	Tomáš	Kyselý	Ing.		26	IT byznys konzultant	Klučenice	99	80	A	M
+2111	540447	1	3	901	6	Jan	Pecka	Ing.		27	student	Zadní Chlum	99	80	A	M
+2111	540447	1	4	903	6	Zbyněk	Štecher			33	OSVČ	Klučenice	99	80	A	M
+2111	540447	1	1	1	7	Václav	Vozábal	Mgr.		27	učitel	Klučenice	1	1	A	M
+2111	540447	1	2	902	7	Karel	Valiček			62	technik	Klučenice	99	80	A	M
+2111	540447	1	3	901	7	Klára	Balíková			43	dojička	Kosobudy	99	80	A	F
+2111	540447	1	4	903	7	Aleš	Suchý	Mgr.		60	ředitel ZŠ a MŠ	Klučenice	99	80	A	M
+2111	540447	1	1	1	8	Luboš	Řezník	Ing.		30	obchodní zástupce	Klučenice	99	1	A	M
+2111	540447	1	2	902	8	Jan	Marek			54	zaměstnanec	Klučenice	99	80	A	M
+2111	540447	1	3	901	8	Jitka	Marková			57	uklízečka ZŠ a MŠ	Kosobudy	99	80	A	F
+2111	540447	1	4	903	8	Jan	Marek			22	traktorista	Klučenice	99	80	A	M
+2111	540447	1	1	1	9	Jakub	Záleský	MVDr.		28	veterinární lékař	Klučenice	99	1	A	M
+2111	540447	1	2	902	9	Marie	Bartoňová			48	asistent pedagoga	Klučenice	99	80	A	F
+2111	540447	1	3	901	9	Blanka	Kostková			57	zaměstnanec obce	Planá	99	80	A	F
+2111	540447	1	4	903	9	Šárka	Lacinová			44	sociální pracovnice	Klučenice	99	80	A	F

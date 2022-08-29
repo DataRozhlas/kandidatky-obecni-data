@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4103	560677	1	1	903	1	Věra	Drozdíková	F			31	MD	Obora	99	80	0
-4103	560677	1	1	903	2	Marta	Kašparová	F			47	montážní dělnice	Obora	99	80	0
-4103	560677	1	1	903	3	Petr	Drozdík	M			33	elektrikář	Obora	99	80	0
-4103	560677	1	1	903	4	Eva	Lillová	F			28	zdravotní sestra	Obora	99	80	0
-4103	560677	1	1	903	5	Petr	Lill	M			39	truhlář	Obora	99	80	0
-4103	560677	1	1	903	6	Anna	Juříčková	F			28	prodavačka	Obora	99	80	0
-4103	560677	1	1	903	7	Miroslav	Kolda	M			29	policista	Krásná Lípa	99	80	0
-4103	560677	1	1	903	8	Lenka	Tvrzová	F	Mgr.		37	učitelka	Šindelová	99	80	0
-4103	560677	1	1	903	9	Miroslav	Tvrz	M	Mgr.		39	zástupce ředitele školy	Šindelová	99	80	0
-4103	560677	1	2	901	1	Jana	Svitáčková	F			53	dělnice	Šindelová	99	80	0
-4103	560677	1	2	901	2	Jan	Bouchal	M			57	dělník	Krásná Lípa	99	80	0
-4103	560677	1	2	901	3	Jan	Ševčík	M			58	obchodní zástupce	Krásná Lípa	99	80	0
-4103	560677	1	2	901	4	Šárka	Frischová	F			22	studentka	Krásná Lípa	99	80	0
-4103	560677	1	2	901	5	Jiří	Lehotský	M			56	důchodce	Šindelová	99	80	0
-4103	560677	1	2	901	6	Miroslav	Juříček	M			25	podnikatel	Obora	99	80	0
-4103	560677	1	2	901	7	Eva	Hřebíčková	F			44	dělnice	Šindelová	99	80	0
-4103	560677	1	2	901	8	Petr	Havelka	M			55	OSVČ	Šindelová	99	80	0
-4103	560677	1	2	901	9	Anna	Musiejovszká	F			33	dělnice	Šindelová	99	80	0
-4103	560677	1	3	902	1	Zdeněk	Fišer	M			52	podnikatel	Šindelová	99	80	0
-4103	560677	1	3	902	2	Lenka	Kaloudová	F	Mgr.		50	učitelka	Šindelová	99	80	0
-4103	560677	1	3	902	3	Jan	Kovařík	M			49	řidič	Šindelová	99	80	0
-4103	560677	1	3	902	4	Rudolf	Kovařík	M			45	podnikatel	Obora	99	80	0
-4103	560677	1	3	902	5	Ladislav	Svitáček	M			54	zámečník	Šindelová	99	80	0
-4103	560677	1	3	902	6	Dušan	Hřebíček	M			43	zámečník	Šindelová	99	80	0
-4103	560677	1	3	902	7	Josef	Maczó	M			50	řidič	Obora	99	80	0
-4103	560677	1	3	902	8	Oluše	Robová	F			64	důchodkyně	Šindelová	99	80	0
-4103	560677	1	3	902	9	Miroslav	Illek	M			42	řidič	Šindelová	99	80	0
-4103	560677	1	4	7	1	Zuzana	Šejnohová	F			51	referent	Obora	99	7	0
-4103	560677	1	4	7	2	Drahuše	Trojanová	F			47	v domácnosti	Krásná Lípa	99	7	0
-4103	560677	1	4	7	3	Jiří	Třesohlavý	M			65	důchodce	Krásná Lípa	99	7	0
-4103	560677	1	4	7	4	Jiří	Karaf	M			55	dělník	Šindelová	99	7	0
-4103	560677	1	4	7	5	Věra	Kristiánová	F	Mgr.		66	důchodce	Krásná Lípa	99	7	0
-4103	560677	1	4	7	6	Jaroslav	Hormandl	M			58	invalidní důchodce	Obora	99	7	0
-4103	560677	1	4	7	7	Jaroslav	Benda	M			57	OSVČ	Obora	99	7	0
-4103	560677	1	4	7	8	Pavlína	Kubincová	F			42	administrativní pracovnice	Obora	99	7	0
-4103	560677	1	4	7	9	Václav	Veselý	M			60	důchodce	Obora	7	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4103	560677	1	1	903	1	Věra	Drozdíková			31	MD	Obora	99	80	0	F
+4103	560677	1	2	901	1	Jana	Svitáčková			53	dělnice	Šindelová	99	80	0	F
+4103	560677	1	3	902	1	Zdeněk	Fišer			52	podnikatel	Šindelová	99	80	0	M
+4103	560677	1	4	7	1	Zuzana	Šejnohová			51	referent	Obora	99	7	0	F
+4103	560677	1	1	903	2	Marta	Kašparová			47	montážní dělnice	Obora	99	80	0	F
+4103	560677	1	2	901	2	Jan	Bouchal			57	dělník	Krásná Lípa	99	80	0	M
+4103	560677	1	3	902	2	Lenka	Kaloudová	Mgr.		50	učitelka	Šindelová	99	80	0	F
+4103	560677	1	4	7	2	Drahuše	Trojanová			47	v domácnosti	Krásná Lípa	99	7	0	F
+4103	560677	1	1	903	3	Petr	Drozdík			33	elektrikář	Obora	99	80	0	M
+4103	560677	1	2	901	3	Jan	Ševčík			58	obchodní zástupce	Krásná Lípa	99	80	0	M
+4103	560677	1	3	902	3	Jan	Kovařík			49	řidič	Šindelová	99	80	0	M
+4103	560677	1	4	7	3	Jiří	Třesohlavý			65	důchodce	Krásná Lípa	99	7	0	M
+4103	560677	1	1	903	4	Eva	Lillová			28	zdravotní sestra	Obora	99	80	0	F
+4103	560677	1	2	901	4	Šárka	Frischová			22	studentka	Krásná Lípa	99	80	0	F
+4103	560677	1	3	902	4	Rudolf	Kovařík			45	podnikatel	Obora	99	80	0	M
+4103	560677	1	4	7	4	Jiří	Karaf			55	dělník	Šindelová	99	7	0	M
+4103	560677	1	1	903	5	Petr	Lill			39	truhlář	Obora	99	80	0	M
+4103	560677	1	2	901	5	Jiří	Lehotský			56	důchodce	Šindelová	99	80	0	M
+4103	560677	1	3	902	5	Ladislav	Svitáček			54	zámečník	Šindelová	99	80	0	M
+4103	560677	1	4	7	5	Věra	Kristiánová	Mgr.		66	důchodce	Krásná Lípa	99	7	0	F
+4103	560677	1	1	903	6	Anna	Juříčková			28	prodavačka	Obora	99	80	0	F
+4103	560677	1	2	901	6	Miroslav	Juříček			25	podnikatel	Obora	99	80	0	M
+4103	560677	1	3	902	6	Dušan	Hřebíček			43	zámečník	Šindelová	99	80	0	M
+4103	560677	1	4	7	6	Jaroslav	Hormandl			58	invalidní důchodce	Obora	99	7	0	M
+4103	560677	1	1	903	7	Miroslav	Kolda			29	policista	Krásná Lípa	99	80	0	M
+4103	560677	1	2	901	7	Eva	Hřebíčková			44	dělnice	Šindelová	99	80	0	F
+4103	560677	1	3	902	7	Josef	Maczó			50	řidič	Obora	99	80	0	M
+4103	560677	1	4	7	7	Jaroslav	Benda			57	OSVČ	Obora	99	7	0	M
+4103	560677	1	1	903	8	Lenka	Tvrzová	Mgr.		37	učitelka	Šindelová	99	80	0	F
+4103	560677	1	2	901	8	Petr	Havelka			55	OSVČ	Šindelová	99	80	0	M
+4103	560677	1	3	902	8	Oluše	Robová			64	důchodkyně	Šindelová	99	80	0	F
+4103	560677	1	4	7	8	Pavlína	Kubincová			42	administrativní pracovnice	Obora	99	7	0	F
+4103	560677	1	1	903	9	Miroslav	Tvrz	Mgr.		39	zástupce ředitele školy	Šindelová	99	80	0	M
+4103	560677	1	2	901	9	Anna	Musiejovszká			33	dělnice	Šindelová	99	80	0	F
+4103	560677	1	3	902	9	Miroslav	Illek			42	řidič	Šindelová	99	80	0	M
+4103	560677	1	4	7	9	Václav	Veselý			60	důchodce	Obora	7	7	0	M

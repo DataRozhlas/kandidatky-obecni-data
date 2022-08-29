@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	593648	1	1	903	1	Stanislav	Hronek	M			31	správce provozu	Tučapy	99	80	0
-6206	593648	1	1	903	2	Ivana	Pavlíková	F			43	podnikatelka	Tučapy	99	80	0
-6206	593648	1	1	903	3	Jaroslav	Portík	M			37	podnikatel	Tučapy	724	80	0
-6206	593648	1	1	903	4	Ivana	Marišlerová	F			43	podnikatelka	Tučapy	99	80	0
-6206	593648	1	1	903	5	Tomáš	Kaňka	M			27	řidič	Tučapy	99	80	0
-6206	593648	1	1	903	6	Renata	Jaklová	F			31	vedoucí advokátní kanceláře	Tučapy	99	80	0
-6206	593648	1	1	903	7	Martin	Novotný	M			34	podnikatel	Tučapy	99	80	0
-6206	593648	1	1	903	8	Kateřina	Michalčíková	F			19	podnikatelka	Tučapy	99	80	0
-6206	593648	1	1	903	9	Richard	Ševčík	M			36	podnikatel	Tučapy	53	80	0
-6206	593648	1	2	901	1	Miloslav	Brandýs	M			46	technik	Tučapy	99	80	0
-6206	593648	1	2	901	2	Irena	Dvořáková	F			44	manažer	Tučapy	99	80	0
-6206	593648	1	2	901	3	Jan	Adamec	M	PhDr.		50	profesor	Tučapy	99	80	0
-6206	593648	1	2	901	4	Jiří	Sedláček	M	Ing.		65	důchodce	Tučapy	99	80	0
-6206	593648	1	2	901	5	Radoslav	Škůrek	M			52	živnostník	Tučapy	99	80	0
-6206	593648	1	2	901	6	Karel	Grošek	M			31	živnostník	Tučapy	99	80	0
-6206	593648	1	2	901	7	Radek	Bastl	M			43	živnostník	Tučapy	99	80	0
-6206	593648	1	2	901	8	Miroslava	Šulcová	F			34	v domácnosti	Tučapy	99	80	0
-6206	593648	1	2	901	9	Josef	Babyrád	M			34	dělník	Tučapy	99	80	0
-6206	593648	1	3	902	1	Bronislav	Brtníček	M			38	státní úředník	Tučapy	99	80	0
-6206	593648	1	3	902	2	Jana	Takácsová	F			51	státní úředník	Tučapy	99	80	0
-6206	593648	1	3	902	3	Petr	Novotný	M			36	podnikatel	Tučapy	99	80	0
-6206	593648	1	3	902	4	Jana	Kalivodová	F			47	zdravotní sestra	Tučapy	99	80	0
-6206	593648	1	3	902	5	Lukáš	Marišler	M			25	student	Tučapy	99	80	0
-6206	593648	1	3	902	6	Andrea	Skácelová	F			37	vedoucí skladu	Tučapy	99	80	0
-6206	593648	1	3	902	7	Libor	Wagner	M			27	podnikatel	Tučapy	99	80	0
-6206	593648	1	3	902	8	Kateřina	Vašíčková	F			21	studentka	Tučapy	99	80	0
-6206	593648	1	3	902	9	Jana	Portíková	F			33	mateřská dovolená	Tučapy	724	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	593648	1	1	903	1	Stanislav	Hronek			31	správce provozu	Tučapy	99	80	0	M
+6206	593648	1	2	901	1	Miloslav	Brandýs			46	technik	Tučapy	99	80	0	M
+6206	593648	1	3	902	1	Bronislav	Brtníček			38	státní úředník	Tučapy	99	80	0	M
+6206	593648	1	1	903	2	Ivana	Pavlíková			43	podnikatelka	Tučapy	99	80	0	F
+6206	593648	1	2	901	2	Irena	Dvořáková			44	manažer	Tučapy	99	80	0	F
+6206	593648	1	3	902	2	Jana	Takácsová			51	státní úředník	Tučapy	99	80	0	F
+6206	593648	1	1	903	3	Jaroslav	Portík			37	podnikatel	Tučapy	724	80	0	M
+6206	593648	1	2	901	3	Jan	Adamec	PhDr.		50	profesor	Tučapy	99	80	0	M
+6206	593648	1	3	902	3	Petr	Novotný			36	podnikatel	Tučapy	99	80	0	M
+6206	593648	1	1	903	4	Ivana	Marišlerová			43	podnikatelka	Tučapy	99	80	0	F
+6206	593648	1	2	901	4	Jiří	Sedláček	Ing.		65	důchodce	Tučapy	99	80	0	M
+6206	593648	1	3	902	4	Jana	Kalivodová			47	zdravotní sestra	Tučapy	99	80	0	F
+6206	593648	1	1	903	5	Tomáš	Kaňka			27	řidič	Tučapy	99	80	0	M
+6206	593648	1	2	901	5	Radoslav	Škůrek			52	živnostník	Tučapy	99	80	0	M
+6206	593648	1	3	902	5	Lukáš	Marišler			25	student	Tučapy	99	80	0	M
+6206	593648	1	1	903	6	Renata	Jaklová			31	vedoucí advokátní kanceláře	Tučapy	99	80	0	F
+6206	593648	1	2	901	6	Karel	Grošek			31	živnostník	Tučapy	99	80	0	M
+6206	593648	1	3	902	6	Andrea	Skácelová			37	vedoucí skladu	Tučapy	99	80	0	F
+6206	593648	1	1	903	7	Martin	Novotný			34	podnikatel	Tučapy	99	80	0	M
+6206	593648	1	2	901	7	Radek	Bastl			43	živnostník	Tučapy	99	80	0	M
+6206	593648	1	3	902	7	Libor	Wagner			27	podnikatel	Tučapy	99	80	0	M
+6206	593648	1	1	903	8	Kateřina	Michalčíková			19	podnikatelka	Tučapy	99	80	0	F
+6206	593648	1	2	901	8	Miroslava	Šulcová			34	v domácnosti	Tučapy	99	80	0	F
+6206	593648	1	3	902	8	Kateřina	Vašíčková			21	studentka	Tučapy	99	80	0	F
+6206	593648	1	1	903	9	Richard	Ševčík			36	podnikatel	Tučapy	53	80	0	M
+6206	593648	1	2	901	9	Josef	Babyrád			34	dělník	Tučapy	99	80	0	M
+6206	593648	1	3	902	9	Jana	Portíková			33	mateřská dovolená	Tučapy	724	80	0	F

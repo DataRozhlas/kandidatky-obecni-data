@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2108	529630	1	1	901	1	Martin	Král	M			42	podnikatel	Kostomlátky	99	80	A
-2108	529630	1	1	901	2	Tomáš	Plachý	M			38	generální ředitel	Kostomlátky	99	80	A
-2108	529630	1	1	901	3	Petr	Krpálek	M			41	podnikatel	Kostomlátky	99	80	A
-2108	529630	1	1	901	4	Lucie	Krejčíková	F			46	zdravotní sestra	Kostomlátky	99	80	A
-2108	529630	1	1	901	5	Jan	Pošík	M			42	zaměstnanec	Kostomlátky	99	80	A
-2108	529630	1	1	901	6	Vlastimil	Kopecký	M			42	servisní technik	Kostomlátky	99	80	A
-2108	529630	1	1	901	7	Eva	Bidziliová	F			61	důchodkyně	Kostomlátky	99	80	A
-2108	529630	1	1	901	8	Bohuslav	Kubín	M	Ing.		56	podnikatel	Kostomlátky	99	80	A
-2108	529630	1	1	901	9	Miroslava	Hlavičková	F			61	starostka	Kostomlátky	99	80	A
-2108	529630	1	2	902	1	Pavel	Kolář	M			48	podnikatel	Doubrava	7	80	A
-2108	529630	1	2	902	2	Daniel	Barták	M			26	technik	Doubrava	7	80	A
-2108	529630	1	2	902	3	Ladislav	Kaucký	M			60	dělník	Doubrava	99	80	A
-2108	529630	1	2	902	4	Michal	Janata	M			22	student	Doubrava	99	80	A
-2108	529630	1	2	902	5	Martin	Janata	M			47	dělník	Doubrava	99	80	A
-2108	529630	1	2	902	6	Jiří	Daněk	M			75	důchodce	Doubrava	99	80	A
-2108	529630	1	2	902	7	Marek	Janata	M			18	student	Doubrava	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2108	529630	1	1	901	1	Martin	Král			42	podnikatel	Kostomlátky	99	80	A	M
+2108	529630	1	2	902	1	Pavel	Kolář			48	podnikatel	Doubrava	7	80	A	M
+2108	529630	1	1	901	2	Tomáš	Plachý			38	generální ředitel	Kostomlátky	99	80	A	M
+2108	529630	1	2	902	2	Daniel	Barták			26	technik	Doubrava	7	80	A	M
+2108	529630	1	1	901	3	Petr	Krpálek			41	podnikatel	Kostomlátky	99	80	A	M
+2108	529630	1	2	902	3	Ladislav	Kaucký			60	dělník	Doubrava	99	80	A	M
+2108	529630	1	1	901	4	Lucie	Krejčíková			46	zdravotní sestra	Kostomlátky	99	80	A	F
+2108	529630	1	2	902	4	Michal	Janata			22	student	Doubrava	99	80	A	M
+2108	529630	1	1	901	5	Jan	Pošík			42	zaměstnanec	Kostomlátky	99	80	A	M
+2108	529630	1	2	902	5	Martin	Janata			47	dělník	Doubrava	99	80	A	M
+2108	529630	1	1	901	6	Vlastimil	Kopecký			42	servisní technik	Kostomlátky	99	80	A	M
+2108	529630	1	2	902	6	Jiří	Daněk			75	důchodce	Doubrava	99	80	A	M
+2108	529630	1	1	901	7	Eva	Bidziliová			61	důchodkyně	Kostomlátky	99	80	A	F
+2108	529630	1	2	902	7	Marek	Janata			18	student	Doubrava	99	80	A	M
+2108	529630	1	1	901	8	Bohuslav	Kubín	Ing.		56	podnikatel	Kostomlátky	99	80	A	M
+2108	529630	1	1	901	9	Miroslava	Hlavičková			61	starostka	Kostomlátky	99	80	A	F

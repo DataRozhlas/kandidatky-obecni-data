@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4102	555550	1	1	901	1	Jiří	Kadera	M			47	OSVČ	Stanovice	99	80	A
-4102	555550	1	1	901	2	Věra	Šnajdarová	F			42	poštovní úřednice	Stanovice	99	80	A
-4102	555550	1	1	901	3	Martin	Teuchert	M			49	technik	Stanovice	99	80	A
-4102	555550	1	1	901	4	Petra	Halamková	F			40	pracovník přepážky - specialista	Stanovice	99	80	A
-4102	555550	1	1	901	5	Radek	Langmaier	M			44	geodet	Stanovice	99	80	A
-4102	555550	1	1	901	6	Aleš	Kadera	M			44	řidič	Stanovice	99	80	A
-4102	555550	1	1	901	7	Lucie	Procházková	F			45	mateřská dovolená	Stanovice	99	80	A
-4102	555550	1	1	901	8	Jaroslav	Dulík	M			63	jednatel	Stanovice	99	80	A
-4102	555550	1	1	901	9	Milan	Vítek	M	Ing.		40	statik	Stanovice	99	80	A
-4102	555550	1	2	903	1	Miroslav	Mička	M			52	řidič	Hlinky	99	80	A
-4102	555550	1	2	903	2	Antonín	Flekács	M			56	řidič	Dražov	99	80	A
-4102	555550	1	2	903	3	Lada	Čelovská	F			43	interiérový designér	Hlinky	99	80	A
-4102	555550	1	2	903	4	Antonín	Flekács	M			31	státní zaměstnanec	Dražov	99	80	A
-4102	555550	1	2	903	5	Kristýna	Josková	F			28	hudebník českého orchestru	Stanovice	99	80	A
-4102	555550	1	2	903	6	Miloš	Chábera	M	Ing.		64	geodet	Stanovice	99	80	A
-4102	555550	1	2	903	7	Pavel	Humňal	M			34	řidič	Hlinky	99	80	A
-4102	555550	1	2	903	8	Martin	Hybner	M			48	školník	Dražov	99	80	A
-4102	555550	1	2	903	9	Marek	Čelovský	M			50	spojový mechanik	Hlinky	99	80	A
-4102	555550	1	3	902	1	Alice	Kondelčíková	F			43	starostka obce Stanovice	Dražov	99	80	A
-4102	555550	1	3	902	2	Václav	Klauz	M			48	obchodní manažer	Stanovice	99	80	A
-4102	555550	1	3	902	3	Karin	Tischerová	F	Ing.		53	účetní	Stanovice	99	80	A
-4102	555550	1	3	902	4	Václav	Knedlík	M	Ing.		66	soukromý podnikatel	Dražov	99	80	A
-4102	555550	1	3	902	5	Josef	Nyéki	M			55	OSVČ	Hlinky	99	80	A
-4102	555550	1	3	902	6	Hana	Hajdová	F			55	mistrová odborného výcviku	Hlinky	99	80	A
-4102	555550	1	3	902	7	Kamil	Čeladník	M			52	OSVČ	Dražov	99	80	A
-4102	555550	1	3	902	8	Jiří	Buček	M			58	profesionální hasič	Stanovice	99	80	A
-4102	555550	1	3	902	9	Karel	Lodr	M			65	hrázný	Stanovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4102	555550	1	1	901	1	Jiří	Kadera			47	OSVČ	Stanovice	99	80	A	M
+4102	555550	1	2	903	1	Miroslav	Mička			52	řidič	Hlinky	99	80	A	M
+4102	555550	1	3	902	1	Alice	Kondelčíková			43	starostka obce Stanovice	Dražov	99	80	A	F
+4102	555550	1	1	901	2	Věra	Šnajdarová			42	poštovní úřednice	Stanovice	99	80	A	F
+4102	555550	1	2	903	2	Antonín	Flekács			56	řidič	Dražov	99	80	A	M
+4102	555550	1	3	902	2	Václav	Klauz			48	obchodní manažer	Stanovice	99	80	A	M
+4102	555550	1	1	901	3	Martin	Teuchert			49	technik	Stanovice	99	80	A	M
+4102	555550	1	2	903	3	Lada	Čelovská			43	interiérový designér	Hlinky	99	80	A	F
+4102	555550	1	3	902	3	Karin	Tischerová	Ing.		53	účetní	Stanovice	99	80	A	F
+4102	555550	1	1	901	4	Petra	Halamková			40	pracovník přepážky - specialista	Stanovice	99	80	A	F
+4102	555550	1	2	903	4	Antonín	Flekács			31	státní zaměstnanec	Dražov	99	80	A	M
+4102	555550	1	3	902	4	Václav	Knedlík	Ing.		66	soukromý podnikatel	Dražov	99	80	A	M
+4102	555550	1	1	901	5	Radek	Langmaier			44	geodet	Stanovice	99	80	A	M
+4102	555550	1	2	903	5	Kristýna	Josková			28	hudebník českého orchestru	Stanovice	99	80	A	F
+4102	555550	1	3	902	5	Josef	Nyéki			55	OSVČ	Hlinky	99	80	A	M
+4102	555550	1	1	901	6	Aleš	Kadera			44	řidič	Stanovice	99	80	A	M
+4102	555550	1	2	903	6	Miloš	Chábera	Ing.		64	geodet	Stanovice	99	80	A	M
+4102	555550	1	3	902	6	Hana	Hajdová			55	mistrová odborného výcviku	Hlinky	99	80	A	F
+4102	555550	1	1	901	7	Lucie	Procházková			45	mateřská dovolená	Stanovice	99	80	A	F
+4102	555550	1	2	903	7	Pavel	Humňal			34	řidič	Hlinky	99	80	A	M
+4102	555550	1	3	902	7	Kamil	Čeladník			52	OSVČ	Dražov	99	80	A	M
+4102	555550	1	1	901	8	Jaroslav	Dulík			63	jednatel	Stanovice	99	80	A	M
+4102	555550	1	2	903	8	Martin	Hybner			48	školník	Dražov	99	80	A	M
+4102	555550	1	3	902	8	Jiří	Buček			58	profesionální hasič	Stanovice	99	80	A	M
+4102	555550	1	1	901	9	Milan	Vítek	Ing.		40	statik	Stanovice	99	80	A	M
+4102	555550	1	2	903	9	Marek	Čelovský			50	spojový mechanik	Hlinky	99	80	A	M
+4102	555550	1	3	902	9	Karel	Lodr			65	hrázný	Stanovice	99	80	A	M

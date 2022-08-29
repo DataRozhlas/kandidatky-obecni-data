@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5101	561533	1	1	703	1	Tomáš	Novák	M			50	místostarosta města Dubá, podnikatel	Dubá	703	703	A
-5101	561533	1	1	703	2	Jaroslava	Sloupová	F			42	učitelka v MŠ Dubá	Dubá	99	703	A
-5101	561533	1	1	703	3	Eva	Jelenová	F			55	živnostník, členka Školské rady, předsed. kult. k.	Dubá	99	703	A
-5101	561533	1	1	703	4	Kateřina	Janďourková	F	Ing.		38	ekonom ve Škoda-Auto a.s., předsed. Školské rady	Dubá	99	703	A
-5101	561533	1	1	703	5	Linda	Staňková	F			46	podnikatelka	Dubá	99	703	A
-5101	561533	1	1	703	6	Tomáš	Mařík	M			44	hasič	Dubá	99	703	A
-5101	561533	1	1	703	7	Martina	Šepsová	F			33	vedoucí pracovníků na veřejně prospěš. práce	Dubá	99	703	A
-5101	561533	1	1	703	8	Zbyšek	Stibor	M			33	velitel hasičů	Dubá	99	703	A
-5101	561533	1	1	703	9	Petr	Jelen	M			53	zedník	Dubá	99	703	A
-5101	561533	1	1	703	10	Jana	Staňková	F	Mgr.		73	učitelka v ZŠ Dubá	Dubá	99	703	A
-5101	561533	1	1	703	11	Jiří	Kadleček	M			73	důchodce	Dubá	99	703	A
-5101	561533	1	2	88	1	Zdeňka	Šepsová	F	Mgr.		61	starostka města Dubá, učitelka	Dubá	703	88	A
-5101	561533	1	2	88	2	Jiří	Klement	M	MUDr.		63	praktický lékař	Dubá	99	88	A
-5101	561533	1	2	88	3	Jana	Mašková	F	Mgr.		54	zástupkyně ředitelky základní školy	Dubá	99	88	A
-5101	561533	1	2	88	4	Ludmila	Kadlečková	F			61	učitelka	Dubá	99	88	A
-5101	561533	1	2	88	5	Miroslav	Novák	M			71	stavební technik	Dubá	99	88	A
-5101	561533	1	2	88	6	Antonín	Lupoměský	M			51	živnostník	Dubá	99	88	A
-5101	561533	1	2	88	7	Emanuel	Adamec	M			45	živnostník	Dřevčice	99	88	A
-5101	561533	1	2	88	8	Karel	Šimo	M			78	řidič	Dubá	99	88	A
-5101	561533	1	2	88	9	Milan	Mordačik	M	Mgr.		52	administrátor	Dubá	99	88	A
-5101	561533	1	2	88	10	Pavel	Mašek	M			56	kontrola výroby	Dubá	99	88	A
-5101	561533	1	2	88	11	Marek	Hruška	M			34	správce kempu	Dubá	99	88	A
-5101	561533	1	3	53	1	Irena	Žalovičová	F	Ing.		43	ekonomka	Dubá	99	53	A
-5101	561533	1	3	53	2	Martin	Fuxa	M		DiS.	34	lesník	Dubá	99	53	A
-5101	561533	1	3	53	3	Anna	Ložková	F	Bc.		34	finanční poradce	Nový Berštejn	99	53	A
-5101	561533	1	3	53	4	Monika	Šimonová	F			30	zahradnice	Deštná	99	53	A
-5101	561533	1	3	53	5	Veronika	Matějková	F	Mgr.		54	učitelka ZŠ	Dubá	99	53	A
-5101	561533	1	3	53	6	Jakub	Fliegel	M			28	obchodně technický zástupce	Dubá	99	53	A
-5101	561533	1	3	53	7	Martin	Mynařík	M			45	podnikatel	Dubá	99	53	A
-5101	561533	1	3	53	8	Daniel	Hanyk	M			45	sklář	Dubá	99	53	A
-5101	561533	1	3	53	9	Hana	Středová	F	MUDr.		42	lékařka, záchranářka	Nedvězí	99	53	A
-5101	561533	1	3	53	10	Lubomír	Wagenknecht	M			47	výrobní ředitel	Dubá	99	53	A
-5101	561533	1	3	53	11	Tomáš	Novák	M			35	živnostník	Dubá	99	53	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5101	561533	1	1	703	1	Tomáš	Novák			50	místostarosta města Dubá, podnikatel	Dubá	703	703	A	M
+5101	561533	1	2	88	1	Zdeňka	Šepsová	Mgr.		61	starostka města Dubá, učitelka	Dubá	703	88	A	F
+5101	561533	1	3	53	1	Irena	Žalovičová	Ing.		43	ekonomka	Dubá	99	53	A	F
+5101	561533	1	1	703	2	Jaroslava	Sloupová			42	učitelka v MŠ Dubá	Dubá	99	703	A	F
+5101	561533	1	2	88	2	Jiří	Klement	MUDr.		63	praktický lékař	Dubá	99	88	A	M
+5101	561533	1	3	53	2	Martin	Fuxa		DiS.	34	lesník	Dubá	99	53	A	M
+5101	561533	1	1	703	3	Eva	Jelenová			55	živnostník, členka Školské rady, předsed. kult. k.	Dubá	99	703	A	F
+5101	561533	1	2	88	3	Jana	Mašková	Mgr.		54	zástupkyně ředitelky základní školy	Dubá	99	88	A	F
+5101	561533	1	3	53	3	Anna	Ložková	Bc.		34	finanční poradce	Nový Berštejn	99	53	A	F
+5101	561533	1	1	703	4	Kateřina	Janďourková	Ing.		38	ekonom ve Škoda-Auto a.s., předsed. Školské rady	Dubá	99	703	A	F
+5101	561533	1	2	88	4	Ludmila	Kadlečková			61	učitelka	Dubá	99	88	A	F
+5101	561533	1	3	53	4	Monika	Šimonová			30	zahradnice	Deštná	99	53	A	F
+5101	561533	1	1	703	5	Linda	Staňková			46	podnikatelka	Dubá	99	703	A	F
+5101	561533	1	2	88	5	Miroslav	Novák			71	stavební technik	Dubá	99	88	A	M
+5101	561533	1	3	53	5	Veronika	Matějková	Mgr.		54	učitelka ZŠ	Dubá	99	53	A	F
+5101	561533	1	1	703	6	Tomáš	Mařík			44	hasič	Dubá	99	703	A	M
+5101	561533	1	2	88	6	Antonín	Lupoměský			51	živnostník	Dubá	99	88	A	M
+5101	561533	1	3	53	6	Jakub	Fliegel			28	obchodně technický zástupce	Dubá	99	53	A	M
+5101	561533	1	1	703	7	Martina	Šepsová			33	vedoucí pracovníků na veřejně prospěš. práce	Dubá	99	703	A	F
+5101	561533	1	2	88	7	Emanuel	Adamec			45	živnostník	Dřevčice	99	88	A	M
+5101	561533	1	3	53	7	Martin	Mynařík			45	podnikatel	Dubá	99	53	A	M
+5101	561533	1	1	703	8	Zbyšek	Stibor			33	velitel hasičů	Dubá	99	703	A	M
+5101	561533	1	2	88	8	Karel	Šimo			78	řidič	Dubá	99	88	A	M
+5101	561533	1	3	53	8	Daniel	Hanyk			45	sklář	Dubá	99	53	A	M
+5101	561533	1	1	703	9	Petr	Jelen			53	zedník	Dubá	99	703	A	M
+5101	561533	1	2	88	9	Milan	Mordačik	Mgr.		52	administrátor	Dubá	99	88	A	M
+5101	561533	1	3	53	9	Hana	Středová	MUDr.		42	lékařka, záchranářka	Nedvězí	99	53	A	F
+5101	561533	1	1	703	10	Jana	Staňková	Mgr.		73	učitelka v ZŠ Dubá	Dubá	99	703	A	F
+5101	561533	1	2	88	10	Pavel	Mašek			56	kontrola výroby	Dubá	99	88	A	M
+5101	561533	1	3	53	10	Lubomír	Wagenknecht			47	výrobní ředitel	Dubá	99	53	A	M
+5101	561533	1	1	703	11	Jiří	Kadleček			73	důchodce	Dubá	99	703	A	M
+5101	561533	1	2	88	11	Marek	Hruška			34	správce kempu	Dubá	99	88	A	M
+5101	561533	1	3	53	11	Tomáš	Novák			35	živnostník	Dubá	99	53	A	M

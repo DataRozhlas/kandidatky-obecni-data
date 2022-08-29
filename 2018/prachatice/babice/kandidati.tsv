@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3105	537241	1	1	801	1	František	Novák	M			28	truhlář	Babice	99	80	A
-3105	537241	1	2	804	1	Petr	Kohout	M			41	technologický správce	Babice	99	80	A
-3105	537241	1	3	803	1	Monika	Nováková	F			38	manager	Babice	99	80	A
-3105	537241	1	4	901	1	Martin	Fiala	M			38	obchodní zástupce	Babice	99	80	A
-3105	537241	1	4	901	2	Marie	Pivoňková	F			47	soukromý zemědělec	Babice	99	80	A
-3105	537241	1	4	901	3	Jana	Simandlová	F			39	prodavačka	Babice	99	80	A
-3105	537241	1	4	901	4	Miloš	Kümmel	M	Ing.		33	mechanizátor	Babice	99	80	A
-3105	537241	1	4	901	5	Helena	Štěpková	F			64	důchodce	Zvěřetice	99	80	A
-3105	537241	1	4	901	6	Jan	Suchý	M			29	zámečník	Babice	99	80	A
-3105	537241	1	5	802	1	Zdeněk	Simota	M			53	řidič MKD	Babice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3105	537241	1	1	801	1	František	Novák			28	truhlář	Babice	99	80	A	M
+3105	537241	1	2	804	1	Petr	Kohout			41	technologický správce	Babice	99	80	A	M
+3105	537241	1	3	803	1	Monika	Nováková			38	manager	Babice	99	80	A	F
+3105	537241	1	4	901	1	Martin	Fiala			38	obchodní zástupce	Babice	99	80	A	M
+3105	537241	1	5	802	1	Zdeněk	Simota			53	řidič MKD	Babice	99	80	A	M
+3105	537241	1	4	901	2	Marie	Pivoňková			47	soukromý zemědělec	Babice	99	80	A	F
+3105	537241	1	4	901	3	Jana	Simandlová			39	prodavačka	Babice	99	80	A	F
+3105	537241	1	4	901	4	Miloš	Kümmel	Ing.		33	mechanizátor	Babice	99	80	A	M
+3105	537241	1	4	901	5	Helena	Štěpková			64	důchodce	Zvěřetice	99	80	A	F
+3105	537241	1	4	901	6	Jan	Suchý			29	zámečník	Babice	99	80	A	M

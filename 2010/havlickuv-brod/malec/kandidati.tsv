@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	569089	1	1	47	1	Pavel	Novotný	M			60	vedoucí výroby	Maleč	47	47	0
-6101	569089	1	1	47	2	František	Ševčík	M	Ing.		67	středošk. učitel	Maleč	99	47	0
-6101	569089	1	1	47	3	Marcela	Janoušková	F	MUDr.		45	lékařka	Horní Lhotka	99	47	0
-6101	569089	1	1	47	4	Jarmila	Blažejovská	F			48	projektantka	Maleč	99	47	0
-6101	569089	1	1	47	5	Jiří	Hejduk	M			63	řidič	Maleč	47	47	0
-6101	569089	1	1	47	6	Zdeněk	Kolář	M			62	opravář	Maleč	47	47	0
-6101	569089	1	1	47	7	Josef	Urban	M			62	mistr	Hranice	47	47	0
-6101	569089	1	1	47	8	Josef	Boháč	M			57	dělník	Dolní Lhotka	47	47	0
-6101	569089	1	1	47	9	Pavel	Jelínek	M			37	obch. zástupce	Blatnice	99	47	0
-6101	569089	1	2	7	1	Karel	Musílek	M	Ing.		46	starosta obce	Maleč	7	7	0
-6101	569089	1	2	7	2	Věra	Řípová	F	Mgr.		53	ředitelka školy	Maleč	99	7	0
-6101	569089	1	2	7	3	Roman	Musílek	M			40	mechanizátor	Maleč	7	7	0
-6101	569089	1	2	7	4	Jaromír	Pospíšil	M			50	soukromý podnikatel	Maleč	99	7	0
-6101	569089	1	2	7	5	Rostislav	Vepřovský	M			33	traktorista	Maleč	7	7	0
-6101	569089	1	2	7	6	Lenka	Němcová	F			37	zdravotní sestra	Maleč	99	7	0
-6101	569089	1	2	7	7	Roman	Jindra	M			36	traktorista	Jeníkovec	7	7	0
-6101	569089	1	2	7	8	Helena	Musílková	F			41	ekonom	Maleč	99	7	0
-6101	569089	1	2	7	9	Miroslav	Nedbal	M			35	soukromý zemědělec	Blatnice	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	569089	1	1	47	1	Pavel	Novotný			60	vedoucí výroby	Maleč	47	47	0	M
+6101	569089	1	2	7	1	Karel	Musílek	Ing.		46	starosta obce	Maleč	7	7	0	M
+6101	569089	1	1	47	2	František	Ševčík	Ing.		67	středošk. učitel	Maleč	99	47	0	M
+6101	569089	1	2	7	2	Věra	Řípová	Mgr.		53	ředitelka školy	Maleč	99	7	0	F
+6101	569089	1	1	47	3	Marcela	Janoušková	MUDr.		45	lékařka	Horní Lhotka	99	47	0	F
+6101	569089	1	2	7	3	Roman	Musílek			40	mechanizátor	Maleč	7	7	0	M
+6101	569089	1	1	47	4	Jarmila	Blažejovská			48	projektantka	Maleč	99	47	0	F
+6101	569089	1	2	7	4	Jaromír	Pospíšil			50	soukromý podnikatel	Maleč	99	7	0	M
+6101	569089	1	1	47	5	Jiří	Hejduk			63	řidič	Maleč	47	47	0	M
+6101	569089	1	2	7	5	Rostislav	Vepřovský			33	traktorista	Maleč	7	7	0	M
+6101	569089	1	1	47	6	Zdeněk	Kolář			62	opravář	Maleč	47	47	0	M
+6101	569089	1	2	7	6	Lenka	Němcová			37	zdravotní sestra	Maleč	99	7	0	F
+6101	569089	1	1	47	7	Josef	Urban			62	mistr	Hranice	47	47	0	M
+6101	569089	1	2	7	7	Roman	Jindra			36	traktorista	Jeníkovec	7	7	0	M
+6101	569089	1	1	47	8	Josef	Boháč			57	dělník	Dolní Lhotka	47	47	0	M
+6101	569089	1	2	7	8	Helena	Musílková			41	ekonom	Maleč	99	7	0	F
+6101	569089	1	1	47	9	Pavel	Jelínek			37	obch. zástupce	Blatnice	99	47	0	M
+6101	569089	1	2	7	9	Miroslav	Nedbal			35	soukromý zemědělec	Blatnice	99	7	0	M

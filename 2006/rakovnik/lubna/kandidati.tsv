@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	542032	1	1	901	1	Jiří	Pergler	M	Ing.		55	technik	Lubná	99	80	0
-2112	542032	1	1	901	2	Jiřina	Endrštová	F	Bc.		46	učitelka MŠ	Lubná	99	80	0
-2112	542032	1	1	901	3	Lenka	Cajthamlová	F			32	účetní	Lubná	99	80	0
-2112	542032	1	1	901	4	Zuzana	Glacová	F	Ing.		31	technik	Lubná	99	80	0
-2112	542032	1	1	901	5	Monika	Zelenková	F			32	optička	Lubná	99	80	0
-2112	542032	1	1	901	6	Jaroslav	Bestajovský	M			58	řidič - opravář	Lubná	99	80	0
-2112	542032	1	1	901	7	Václav	Zelenka	M			32	nezaměstnaný	Lubná	99	80	0
-2112	542032	1	1	901	8	Jiří	Černý	M			51	technik	Lubná	99	80	0
-2112	542032	1	1	901	9	Eva	Blechová	F			51	technik	Lubná	99	80	0
-2112	542032	1	2	53	1	Václav	Kapsa	M			63	důchodce	Lubná	53	53	0
-2112	542032	1	2	53	2	Václav	Sedlák	M	Ing.		49	soukrom.podnikatel	Lubná	53	53	0
-2112	542032	1	2	53	3	Hana	Bařtipánová	F			41	soukrom.podnikatelka	Lubná	53	53	0
-2112	542032	1	2	53	4	Luboš	Mladý	M	Mgr.		53	učitel ZŠ	Lubná	99	53	0
-2112	542032	1	2	53	5	Václav	Urban	M			42	soukrom.podnikatel	Lubná	99	53	0
-2112	542032	1	2	53	6	Lenka	Ziková	F			44	poštovní doručovatelka	Lubná	99	53	1
-2112	542032	1	2	53	7	Pavel	Soukup	M			44	energetik	Lubná	99	53	0
-2112	542032	1	2	53	8	Oto	Titzl	M	Ing.		49	komisař PO	Lubná	99	53	0
-2112	542032	1	2	53	9	Petr	Cajthaml	M			35	řidič	Lubná	99	53	0
-2112	542032	1	3	47	1	Jaroslav	Kubička	M	RSDr.		63	důchodce	Lubná	47	47	0
-2112	542032	1	3	47	2	Pavel	Vyskočil	M	RSDr.		62	učitel	Lubná	47	47	0
-2112	542032	1	3	47	3	Vilém	Gebouský	M			49	ekonom	Lubná	99	47	0
-2112	542032	1	3	47	4	Vlasta	Prokopová	F			69	důchodkyně	Lubná	99	47	0
-2112	542032	1	3	47	5	Milan	Hofrichtr	M			55	technik	Lubná	99	47	0
-2112	542032	1	3	47	6	Václav	Schmoranz	M			69	důchodce	Lubná	47	47	0
-2112	542032	1	3	47	7	Jaroslav	Víšek	M			63	důchodce	Lubná	47	47	0
-2112	542032	1	3	47	8	Oldřich	Krejčí	M			67	důchodce	Lubná	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	542032	1	1	901	1	Jiří	Pergler	Ing.		55	technik	Lubná	99	80	0	M
+2112	542032	1	2	53	1	Václav	Kapsa			63	důchodce	Lubná	53	53	0	M
+2112	542032	1	3	47	1	Jaroslav	Kubička	RSDr.		63	důchodce	Lubná	47	47	0	M
+2112	542032	1	1	901	2	Jiřina	Endrštová	Bc.		46	učitelka MŠ	Lubná	99	80	0	F
+2112	542032	1	2	53	2	Václav	Sedlák	Ing.		49	soukrom.podnikatel	Lubná	53	53	0	M
+2112	542032	1	3	47	2	Pavel	Vyskočil	RSDr.		62	učitel	Lubná	47	47	0	M
+2112	542032	1	1	901	3	Lenka	Cajthamlová			32	účetní	Lubná	99	80	0	F
+2112	542032	1	2	53	3	Hana	Bařtipánová			41	soukrom.podnikatelka	Lubná	53	53	0	F
+2112	542032	1	3	47	3	Vilém	Gebouský			49	ekonom	Lubná	99	47	0	M
+2112	542032	1	1	901	4	Zuzana	Glacová	Ing.		31	technik	Lubná	99	80	0	F
+2112	542032	1	2	53	4	Luboš	Mladý	Mgr.		53	učitel ZŠ	Lubná	99	53	0	M
+2112	542032	1	3	47	4	Vlasta	Prokopová			69	důchodkyně	Lubná	99	47	0	F
+2112	542032	1	1	901	5	Monika	Zelenková			32	optička	Lubná	99	80	0	F
+2112	542032	1	2	53	5	Václav	Urban			42	soukrom.podnikatel	Lubná	99	53	0	M
+2112	542032	1	3	47	5	Milan	Hofrichtr			55	technik	Lubná	99	47	0	M
+2112	542032	1	1	901	6	Jaroslav	Bestajovský			58	řidič - opravář	Lubná	99	80	0	M
+2112	542032	1	2	53	6	Lenka	Ziková			44	poštovní doručovatelka	Lubná	99	53	1	F
+2112	542032	1	3	47	6	Václav	Schmoranz			69	důchodce	Lubná	47	47	0	M
+2112	542032	1	1	901	7	Václav	Zelenka			32	nezaměstnaný	Lubná	99	80	0	M
+2112	542032	1	2	53	7	Pavel	Soukup			44	energetik	Lubná	99	53	0	M
+2112	542032	1	3	47	7	Jaroslav	Víšek			63	důchodce	Lubná	47	47	0	M
+2112	542032	1	1	901	8	Jiří	Černý			51	technik	Lubná	99	80	0	M
+2112	542032	1	2	53	8	Oto	Titzl	Ing.		49	komisař PO	Lubná	99	53	0	M
+2112	542032	1	3	47	8	Oldřich	Krejčí			67	důchodce	Lubná	99	47	0	M
+2112	542032	1	1	901	9	Eva	Blechová			51	technik	Lubná	99	80	0	F
+2112	542032	1	2	53	9	Petr	Cajthaml			35	řidič	Lubná	99	53	0	M

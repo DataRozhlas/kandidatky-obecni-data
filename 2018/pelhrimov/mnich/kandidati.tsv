@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6103	548391	1	1	901	1	Petr	Čekal	M			42	řidič	Chválkov	99	80	A
-6103	548391	1	1	901	2	Jiří	Trunda	M			35	soukromý zemědělec	Mirotín	99	80	A
-6103	548391	1	1	901	3	Miroslav	Kotrč	M			43	elektrikář	Chválkov	99	80	A
-6103	548391	1	1	901	4	Michal	Diviš	M			34	technik	Mirotín	99	80	A
-6103	548391	1	1	901	5	Milan	Krajc	M			44	řidič	Chválkov	99	80	A
-6103	548391	1	1	901	6	Pavel	Čekal	M			45	řidič	Chválkov	99	80	A
-6103	548391	1	1	901	7	Jiří	Kotrč	M			26	OSVČ	Mirotín	99	80	A
-6103	548391	1	1	901	8	Irena	Janovská	F			55	administrativní pracovnice	Chválkov	99	80	A
-6103	548391	1	1	901	9	Lucie	Kvíčerová	F			36	dělník	Chválkov	99	80	A
-6103	548391	1	2	902	1	Jan	Pilný	M	Ing.		39	programátor - technický poradce	Mnich	99	80	A
-6103	548391	1	2	902	2	Karel	Dvořák	M			52	OSVČ	Mnich	99	80	A
-6103	548391	1	2	902	3	Monika	Zděnková	F			44	zdravotní sestra	Mnich	99	80	A
-6103	548391	1	2	902	4	Petr	Kouba	M			42	OSVČ	Mnich	99	80	A
-6103	548391	1	2	902	5	Jaroslava	Dvořáčková	F		DiS.	40	vedoucí měrové laboratoře	Mnich	99	80	A
-6103	548391	1	2	902	6	Jan	Dvořáček	M			42	technický nákupčí	Mnich	99	80	A
-6103	548391	1	2	902	7	Kateřina	Netolická	F			43	keramička	Mnich	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6103	548391	1	1	901	1	Petr	Čekal			42	řidič	Chválkov	99	80	A	M
+6103	548391	1	2	902	1	Jan	Pilný	Ing.		39	programátor - technický poradce	Mnich	99	80	A	M
+6103	548391	1	1	901	2	Jiří	Trunda			35	soukromý zemědělec	Mirotín	99	80	A	M
+6103	548391	1	2	902	2	Karel	Dvořák			52	OSVČ	Mnich	99	80	A	M
+6103	548391	1	1	901	3	Miroslav	Kotrč			43	elektrikář	Chválkov	99	80	A	M
+6103	548391	1	2	902	3	Monika	Zděnková			44	zdravotní sestra	Mnich	99	80	A	F
+6103	548391	1	1	901	4	Michal	Diviš			34	technik	Mirotín	99	80	A	M
+6103	548391	1	2	902	4	Petr	Kouba			42	OSVČ	Mnich	99	80	A	M
+6103	548391	1	1	901	5	Milan	Krajc			44	řidič	Chválkov	99	80	A	M
+6103	548391	1	2	902	5	Jaroslava	Dvořáčková		DiS.	40	vedoucí měrové laboratoře	Mnich	99	80	A	F
+6103	548391	1	1	901	6	Pavel	Čekal			45	řidič	Chválkov	99	80	A	M
+6103	548391	1	2	902	6	Jan	Dvořáček			42	technický nákupčí	Mnich	99	80	A	M
+6103	548391	1	1	901	7	Jiří	Kotrč			26	OSVČ	Mirotín	99	80	A	M
+6103	548391	1	2	902	7	Kateřina	Netolická			43	keramička	Mnich	99	80	A	F
+6103	548391	1	1	901	8	Irena	Janovská			55	administrativní pracovnice	Chválkov	99	80	A	F
+6103	548391	1	1	901	9	Lucie	Kvíčerová			36	dělník	Chválkov	99	80	A	F

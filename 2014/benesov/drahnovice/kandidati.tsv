@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	532151	1	1	802	1	Michal	Košata	M			40	OSVČ	Drahňovice	99	80	0
-2101	532151	1	2	806	1	Miloslava	Hejná	F			61	důchodce	Drahňovice	99	80	0
-2101	532151	1	3	804	1	David	Müller	M			39	OSVČ	Drahňovice	99	80	0
-2101	532151	1	4	803	1	František	Košata	M			63	důchodce	Drahňovice	99	80	0
-2101	532151	1	5	805	1	František	Chalupecký	M			39	technik	Drahňovice	99	80	0
-2101	532151	1	6	901	1	Pavel	Burda	M			42	řidič	Drahňovice	99	80	0
-2101	532151	1	6	901	2	Ladislav	Strnad	M			46	technický pracovník	Drahňovice	99	80	0
-2101	532151	1	6	901	3	Vladimír	Štěpánek	M			52	soukromý zemědělec	Drahňovice	99	80	0
-2101	532151	1	6	901	4	Ladislav	Strnad	M			21	student VŠ	Drahňovice	99	80	0
-2101	532151	1	6	901	5	Martin	Štěpánek	M			25	řidič - mechanik	Drahňovice	99	80	0
-2101	532151	1	6	901	6	Jiří	Holík	M			57	živnostník	Drahňovice	99	80	0
-2101	532151	1	7	801	1	Pavel	Retych	M			38	OSVČ	Drahňovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	532151	1	1	802	1	Michal	Košata			40	OSVČ	Drahňovice	99	80	0	M
+2101	532151	1	2	806	1	Miloslava	Hejná			61	důchodce	Drahňovice	99	80	0	F
+2101	532151	1	3	804	1	David	Müller			39	OSVČ	Drahňovice	99	80	0	M
+2101	532151	1	4	803	1	František	Košata			63	důchodce	Drahňovice	99	80	0	M
+2101	532151	1	5	805	1	František	Chalupecký			39	technik	Drahňovice	99	80	0	M
+2101	532151	1	6	901	1	Pavel	Burda			42	řidič	Drahňovice	99	80	0	M
+2101	532151	1	7	801	1	Pavel	Retych			38	OSVČ	Drahňovice	99	80	0	M
+2101	532151	1	6	901	2	Ladislav	Strnad			46	technický pracovník	Drahňovice	99	80	0	M
+2101	532151	1	6	901	3	Vladimír	Štěpánek			52	soukromý zemědělec	Drahňovice	99	80	0	M
+2101	532151	1	6	901	4	Ladislav	Strnad			21	student VŠ	Drahňovice	99	80	0	M
+2101	532151	1	6	901	5	Martin	Štěpánek			25	řidič - mechanik	Drahňovice	99	80	0	M
+2101	532151	1	6	901	6	Jiří	Holík			57	živnostník	Drahňovice	99	80	0	M

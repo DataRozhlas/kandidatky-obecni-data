@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6104	590274	1	1	901	1	Pavel	Zikmund	M			51	vedoucí prodejny	Bolíkovice	99	80	0
-6104	590274	1	1	901	2	Pavel	Krátký	M	Mgr.		35	OSVČ	Bolíkovice	99	80	0
-6104	590274	1	1	901	3	Petr	Roupec	M			31	traktorista	Bolíkovice	99	80	0
-6104	590274	1	2	902	1	Věra	Radová	F	Ing.		41	pedagog gymnázia	Babice	99	80	0
-6104	590274	1	2	902	2	Jiří	Nahodil	M	Ing.		26	konstruktér	Babice	99	80	0
-6104	590274	1	2	902	3	Petra	Černá	F			38	vedoucí prodejny	Babice	99	80	0
-6104	590274	1	2	902	4	Josef	Klimeš	M			54	mechanik	Babice	99	80	0
-6104	590274	1	2	902	5	Roman	Aipldauer	M			32	OSVČ	Babice	99	80	0
-6104	590274	1	2	902	6	Petr	Vyhnálek	M			33	elektrikář	Babice	99	80	0
-6104	590274	1	2	902	7	Jan	Tkaný	M	Ing.		27	procesní technolog	Babice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6104	590274	1	1	901	1	Pavel	Zikmund			51	vedoucí prodejny	Bolíkovice	99	80	0	M
+6104	590274	1	2	902	1	Věra	Radová	Ing.		41	pedagog gymnázia	Babice	99	80	0	F
+6104	590274	1	1	901	2	Pavel	Krátký	Mgr.		35	OSVČ	Bolíkovice	99	80	0	M
+6104	590274	1	2	902	2	Jiří	Nahodil	Ing.		26	konstruktér	Babice	99	80	0	M
+6104	590274	1	1	901	3	Petr	Roupec			31	traktorista	Bolíkovice	99	80	0	M
+6104	590274	1	2	902	3	Petra	Černá			38	vedoucí prodejny	Babice	99	80	0	F
+6104	590274	1	2	902	4	Josef	Klimeš			54	mechanik	Babice	99	80	0	M
+6104	590274	1	2	902	5	Roman	Aipldauer			32	OSVČ	Babice	99	80	0	M
+6104	590274	1	2	902	6	Petr	Vyhnálek			33	elektrikář	Babice	99	80	0	M
+6104	590274	1	2	902	7	Jan	Tkaný	Ing.		27	procesní technolog	Babice	99	80	0	M

@@ -1,33 +1,33 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8106	554570	1	1	47	1	Jana	Míková	F	Ing.	Ph.D.	52	vysokoškolský pedagog	Martinov	99	47	0
-8106	554570	1	1	47	2	Karel	Gerlík	M			61	důchodce	Martinov	47	47	0
-8106	554570	1	1	47	3	Irena	Veselá	F			71	důchodkyně	Martinov	99	47	0
-8106	554570	1	1	47	4	Zdeněk	Kudělka	M			77	důchodce	Martinov	47	47	0
-8106	554570	1	1	47	5	Jana	Kusynová	F			75	důchodkyně	Martinov	47	47	0
-8106	554570	1	1	47	6	Zdeňka	Gerlíková	F			59	důchodkyně	Martinov	47	47	0
-8106	554570	1	1	47	7	Václav	Veselý	M			72	důchodce	Martinov	99	47	0
-8106	554570	1	1	47	8	Jaromír	Kudělka	M			47	nezaměstnaný	Martinov	99	47	0
-8106	554570	1	1	47	9	Jan	Klímek	M			68	důchodce	Martinov	99	47	0
-8106	554570	1	1	47	10	Antonie	Konvicová	F			78	důchodkyně	Martinov	99	47	0
-8106	554570	1	1	47	11	Lukáš	Kudělka	M			20	řidič	Martinov	99	47	0
-8106	554570	1	1	47	12	Josef	Dunaj	M	Ing.		63	důchodce	Martinov	99	47	0
-8106	554570	1	1	47	13	František	Kraus	M			79	důchodce	Martinov	99	47	0
-8106	554570	1	2	901	1	Karel	Civín	M			59	starosta	Martinov	99	80	0
-8106	554570	1	2	901	2	Petr	Gallus	M	MUDr.		66	lékař	Martinov	99	80	0
-8106	554570	1	2	901	3	Jolana	Kavalková	F			43	referentka	Martinov	99	80	0
-8106	554570	1	2	901	4	Aleš	Besuch	M	MVDr.		53	OSVČ	Martinov	99	80	0
-8106	554570	1	2	901	5	Vlasta	Plačková	F			59	ekonomka	Martinov	99	80	0
-8106	554570	1	2	901	6	Petr	Vávra	M			30	OSVČ	Martinov	99	80	0
-8106	554570	1	2	901	7	Vlasta	Závodská	F			64	důchodkyně	Martinov	99	80	0
-8106	554570	1	2	901	8	Rostislav	Musálek	M			52	vedoucí údržby	Martinov	99	80	0
-8106	554570	1	2	901	9	Miroslav	Kolář	M			61	řidič	Martinov	99	80	0
-8106	554570	1	2	901	10	Alena	Michelová	F	Bc.		48	matrikářka	Martinov	99	80	0
-8106	554570	1	2	901	11	Marie	Šimíková	F			62	důchodkyně	Martinov	99	80	0
-8106	554570	1	2	901	12	Petr	Landiga	M			44	mistr	Martinov	99	80	0
-8106	554570	1	2	901	13	Zdeněk	Švrčula	M			55	mistr	Martinov	99	80	0
-8106	554570	1	2	901	14	Čestmír	Křížek	M			59	automechanik	Martinov	99	80	0
-8106	554570	1	2	901	15	Milan	Kutěj	M			68	důchodce	Martinov	99	80	0
-8106	554570	1	3	7	1	Petr	Dokulil	M			49	elektromechanik	Martinov	7	7	0
-8106	554570	1	3	7	2	Jaromír	Vaněk	M			60	kuchař	Martinov	99	7	0
-8106	554570	1	3	7	3	Robert	Špok	M			25	elektrotechnik	Martinov	99	7	0
-8106	554570	1	3	7	4	Vítězslav	Raab	M			27	skladník	Martinov	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8106	554570	1	1	47	1	Jana	Míková	Ing.	Ph.D.	52	vysokoškolský pedagog	Martinov	99	47	0	F
+8106	554570	1	2	901	1	Karel	Civín			59	starosta	Martinov	99	80	0	M
+8106	554570	1	3	7	1	Petr	Dokulil			49	elektromechanik	Martinov	7	7	0	M
+8106	554570	1	1	47	2	Karel	Gerlík			61	důchodce	Martinov	47	47	0	M
+8106	554570	1	2	901	2	Petr	Gallus	MUDr.		66	lékař	Martinov	99	80	0	M
+8106	554570	1	3	7	2	Jaromír	Vaněk			60	kuchař	Martinov	99	7	0	M
+8106	554570	1	1	47	3	Irena	Veselá			71	důchodkyně	Martinov	99	47	0	F
+8106	554570	1	2	901	3	Jolana	Kavalková			43	referentka	Martinov	99	80	0	F
+8106	554570	1	3	7	3	Robert	Špok			25	elektrotechnik	Martinov	99	7	0	M
+8106	554570	1	1	47	4	Zdeněk	Kudělka			77	důchodce	Martinov	47	47	0	M
+8106	554570	1	2	901	4	Aleš	Besuch	MVDr.		53	OSVČ	Martinov	99	80	0	M
+8106	554570	1	3	7	4	Vítězslav	Raab			27	skladník	Martinov	99	7	0	M
+8106	554570	1	1	47	5	Jana	Kusynová			75	důchodkyně	Martinov	47	47	0	F
+8106	554570	1	2	901	5	Vlasta	Plačková			59	ekonomka	Martinov	99	80	0	F
+8106	554570	1	1	47	6	Zdeňka	Gerlíková			59	důchodkyně	Martinov	47	47	0	F
+8106	554570	1	2	901	6	Petr	Vávra			30	OSVČ	Martinov	99	80	0	M
+8106	554570	1	1	47	7	Václav	Veselý			72	důchodce	Martinov	99	47	0	M
+8106	554570	1	2	901	7	Vlasta	Závodská			64	důchodkyně	Martinov	99	80	0	F
+8106	554570	1	1	47	8	Jaromír	Kudělka			47	nezaměstnaný	Martinov	99	47	0	M
+8106	554570	1	2	901	8	Rostislav	Musálek			52	vedoucí údržby	Martinov	99	80	0	M
+8106	554570	1	1	47	9	Jan	Klímek			68	důchodce	Martinov	99	47	0	M
+8106	554570	1	2	901	9	Miroslav	Kolář			61	řidič	Martinov	99	80	0	M
+8106	554570	1	1	47	10	Antonie	Konvicová			78	důchodkyně	Martinov	99	47	0	F
+8106	554570	1	2	901	10	Alena	Michelová	Bc.		48	matrikářka	Martinov	99	80	0	F
+8106	554570	1	1	47	11	Lukáš	Kudělka			20	řidič	Martinov	99	47	0	M
+8106	554570	1	2	901	11	Marie	Šimíková			62	důchodkyně	Martinov	99	80	0	F
+8106	554570	1	1	47	12	Josef	Dunaj	Ing.		63	důchodce	Martinov	99	47	0	M
+8106	554570	1	2	901	12	Petr	Landiga			44	mistr	Martinov	99	80	0	M
+8106	554570	1	1	47	13	František	Kraus			79	důchodce	Martinov	99	47	0	M
+8106	554570	1	2	901	13	Zdeněk	Švrčula			55	mistr	Martinov	99	80	0	M
+8106	554570	1	2	901	14	Čestmír	Křížek			59	automechanik	Martinov	99	80	0	M
+8106	554570	1	2	901	15	Milan	Kutěj			68	důchodce	Martinov	99	80	0	M

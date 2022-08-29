@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2102	531332	1	1	901	1	Jiří	Bartoš	M	Mgr.		41	učitel	Koněprusy	99	80	0
-2102	531332	1	1	901	2	Vlastislav	Fiřt	M	Ing.		56	provádění staveb	Koněprusy	99	80	0
-2102	531332	1	1	901	3	Radek	Havlíček	M			48	soukromý zemědělec	Koněprusy	99	80	0
-2102	531332	1	1	901	4	Petra	Kadlečková	F	Ing.		40	účetní	Bítov	99	80	0
-2102	531332	1	1	901	5	Martin	Vacek	M	Ing.		52	projektant pozem. staveb	Koněprusy	99	80	0
-2102	531332	1	1	901	6	Šárka	Procházková	F	Mgr.		40	SŠ učitelka	Bítov	99	80	0
-2102	531332	1	2	902	1	Jaroslav	Preisler	M			38	inspektor PO	Koněprusy	99	80	0
-2102	531332	1	2	902	2	Miroslav	Sudík	M			53	podnikatel	Koněprusy	99	80	0
-2102	531332	1	2	902	3	Petr	Kadleček	M	Ing.		45	personalista	Bítov	99	80	0
-2102	531332	1	2	902	4	Ivana	Čampulová	F			28	mateřská dovolená	Koněprusy	99	80	0
-2102	531332	1	2	902	5	Olga	Vitujová	F			42	bankovní úřednice	Koněprusy	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2102	531332	1	1	901	1	Jiří	Bartoš	Mgr.		41	učitel	Koněprusy	99	80	0	M
+2102	531332	1	2	902	1	Jaroslav	Preisler			38	inspektor PO	Koněprusy	99	80	0	M
+2102	531332	1	1	901	2	Vlastislav	Fiřt	Ing.		56	provádění staveb	Koněprusy	99	80	0	M
+2102	531332	1	2	902	2	Miroslav	Sudík			53	podnikatel	Koněprusy	99	80	0	M
+2102	531332	1	1	901	3	Radek	Havlíček			48	soukromý zemědělec	Koněprusy	99	80	0	M
+2102	531332	1	2	902	3	Petr	Kadleček	Ing.		45	personalista	Bítov	99	80	0	M
+2102	531332	1	1	901	4	Petra	Kadlečková	Ing.		40	účetní	Bítov	99	80	0	F
+2102	531332	1	2	902	4	Ivana	Čampulová			28	mateřská dovolená	Koněprusy	99	80	0	F
+2102	531332	1	1	901	5	Martin	Vacek	Ing.		52	projektant pozem. staveb	Koněprusy	99	80	0	M
+2102	531332	1	2	902	5	Olga	Vitujová			42	bankovní úřednice	Koněprusy	99	80	0	F
+2102	531332	1	1	901	6	Šárka	Procházková	Mgr.		40	SŠ učitelka	Bítov	99	80	0	F

@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	595187	1	1	7	1	Jaroslav	Nezveda	M	Ing.		51	podnikatel	Žerotice	7	7	0
-6207	595187	1	1	7	2	Antonín	Lenikus	M			49	truhlář	Žerotice	7	7	0
-6207	595187	1	1	7	3	Pavel	Nezveda	M			60	důchodce	Žerotice	7	7	0
-6207	595187	1	1	7	4	Libor	Komenda	M			35	dělník	Žerotice	99	7	0
-6207	595187	1	1	7	5	Drahomíra	Nezvedová	F			49	podnikatelka	Žerotice	7	7	0
-6207	595187	1	2	901	1	Jindřich	Nožka	M			42	učitel	Žerotice	99	80	0
-6207	595187	1	2	901	2	Libor	Eksler	M			32	technik	Žerotice	99	80	0
-6207	595187	1	2	901	3	Lubomír	Krbálek	M			41	soukromý podnikatel	Žerotice	99	80	0
-6207	595187	1	2	901	4	Luboš	Čapek	M			38	soukromý podnikatel	Žerotice	99	80	0
-6207	595187	1	2	901	5	Pavel	Lichtenberg	M			34	automechanik	Žerotice	99	80	0
-6207	595187	1	2	901	6	Jiřina	Šandová	F			47	soukromá podnikatelka	Žerotice	99	80	0
-6207	595187	1	2	901	7	Rostislav	Janíček	M			44	vedoucí prodejny	Žerotice	99	80	0
-6207	595187	1	2	901	8	Milan	Vyklický	M			39	opravář zemědělských strojů	Žerotice	99	80	0
-6207	595187	1	2	901	9	Josef	Mokrohajský	M			32	mechanik	Žerotice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	595187	1	1	7	1	Jaroslav	Nezveda	Ing.		51	podnikatel	Žerotice	7	7	0	M
+6207	595187	1	2	901	1	Jindřich	Nožka			42	učitel	Žerotice	99	80	0	M
+6207	595187	1	1	7	2	Antonín	Lenikus			49	truhlář	Žerotice	7	7	0	M
+6207	595187	1	2	901	2	Libor	Eksler			32	technik	Žerotice	99	80	0	M
+6207	595187	1	1	7	3	Pavel	Nezveda			60	důchodce	Žerotice	7	7	0	M
+6207	595187	1	2	901	3	Lubomír	Krbálek			41	soukromý podnikatel	Žerotice	99	80	0	M
+6207	595187	1	1	7	4	Libor	Komenda			35	dělník	Žerotice	99	7	0	M
+6207	595187	1	2	901	4	Luboš	Čapek			38	soukromý podnikatel	Žerotice	99	80	0	M
+6207	595187	1	1	7	5	Drahomíra	Nezvedová			49	podnikatelka	Žerotice	7	7	0	F
+6207	595187	1	2	901	5	Pavel	Lichtenberg			34	automechanik	Žerotice	99	80	0	M
+6207	595187	1	2	901	6	Jiřina	Šandová			47	soukromá podnikatelka	Žerotice	99	80	0	F
+6207	595187	1	2	901	7	Rostislav	Janíček			44	vedoucí prodejny	Žerotice	99	80	0	M
+6207	595187	1	2	901	8	Milan	Vyklický			39	opravář zemědělských strojů	Žerotice	99	80	0	M
+6207	595187	1	2	901	9	Josef	Mokrohajský			32	mechanik	Žerotice	99	80	0	M

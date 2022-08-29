@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	505218	1	1	1	1	Štěpán	Wiedermann	M			42	technik	Šumvald	99	1	A
-7102	505218	1	1	1	2	Miloslav	Dubový	M			19	technik	Šumvald	99	1	A
-7102	505218	1	1	1	3	Leoš	Kaller	M			47	obchod. zástupce	Šumvald	99	1	A
-7102	505218	1	1	1	4	Jaroslav	Mendlík	M	Ing.	Ph.D.	45	OSVČ - technik	Břevenec	99	1	A
-7102	505218	1	1	1	5	Miroslav	Kyselý	M			25	učitel	Břevenec	99	1	A
-7102	505218	1	1	1	6	Danuše	Bradová	F			40	THP - účetní	Šumvald	99	1	A
-7102	505218	1	1	1	7	Petra	Niklová	F			41	zdravotní sestra	Břevenec	99	1	A
-7102	505218	1	1	1	8	Eva	Kolářová	F			44	dělnice	Šumvald	99	1	A
-7102	505218	1	1	1	9	Stanislav	Wiedermann	M	Ing.		39	projektant	Šumvald	99	1	A
-7102	505218	1	2	88	1	Květoslav	Smrček	M			45	OSVČ	Šumvald	99	88	A
-7102	505218	1	2	88	2	Květoslav	Hejný	M	Ing.	Ph.D.	43	manager	Šumvald	99	88	A
-7102	505218	1	2	88	3	Martin	Solovský	M	Ing.		44	státní služba	Šumvald	99	88	A
-7102	505218	1	2	88	4	Jaromír	Zajíček	M	Bc.		40	správce IS	Šumvald	99	88	A
-7102	505218	1	2	88	5	Veronika	Zittová	F	Ing.		29	OZO v BOZP a PO (bez. technik)	Šumvald	99	88	A
-7102	505218	1	2	88	6	Bohumír	Kobylka	M			25	technik	Šumvald	99	88	A
-7102	505218	1	2	88	7	Tomáš	Bartoněk	M			38	státní zaměstnanec	Šumvald	99	88	A
-7102	505218	1	2	88	8	Ivana	Filipová	F			52	zdravotní sestra	Šumvald	99	88	A
-7102	505218	1	2	88	9	Martin	Čamek	M			45	stavební mistr	Šumvald	99	88	A
-7102	505218	1	3	53	1	Josef	Šenk	M	Ing.		42	starosta obce	Břevenec	53	53	A
-7102	505218	1	3	53	2	Miroslav	Kokoška	M			46	řidič	Šumvald	99	53	A
-7102	505218	1	3	53	3	Eva	Axmanová	F			37	ekonomka	Šumvald	53	53	A
-7102	505218	1	3	53	4	Lubomír	Balcárek	M	Mgr.		51	středoškolský učitel	Šumvald	99	53	A
-7102	505218	1	3	53	5	Jiří	Kyselý	M			44	mistr výroby	Šumvald	99	53	A
-7102	505218	1	3	53	6	Vladimír	Nikl	M	MUDr.		44	zubní lékař	Šumvald	99	53	A
-7102	505218	1	3	53	7	Ivana	Berková	F	Ing.		54	ekonomka	Šumvald	99	53	A
-7102	505218	1	3	53	8	Zdeněk	Navrátil	M			43	řidič	Šumvald	99	53	A
-7102	505218	1	3	53	9	Radek	Ulmann	M			54	revizní technik elektro	Břevenec	99	53	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	505218	1	1	1	1	Štěpán	Wiedermann			42	technik	Šumvald	99	1	A	M
+7102	505218	1	2	88	1	Květoslav	Smrček			45	OSVČ	Šumvald	99	88	A	M
+7102	505218	1	3	53	1	Josef	Šenk	Ing.		42	starosta obce	Břevenec	53	53	A	M
+7102	505218	1	1	1	2	Miloslav	Dubový			19	technik	Šumvald	99	1	A	M
+7102	505218	1	2	88	2	Květoslav	Hejný	Ing.	Ph.D.	43	manager	Šumvald	99	88	A	M
+7102	505218	1	3	53	2	Miroslav	Kokoška			46	řidič	Šumvald	99	53	A	M
+7102	505218	1	1	1	3	Leoš	Kaller			47	obchod. zástupce	Šumvald	99	1	A	M
+7102	505218	1	2	88	3	Martin	Solovský	Ing.		44	státní služba	Šumvald	99	88	A	M
+7102	505218	1	3	53	3	Eva	Axmanová			37	ekonomka	Šumvald	53	53	A	F
+7102	505218	1	1	1	4	Jaroslav	Mendlík	Ing.	Ph.D.	45	OSVČ - technik	Břevenec	99	1	A	M
+7102	505218	1	2	88	4	Jaromír	Zajíček	Bc.		40	správce IS	Šumvald	99	88	A	M
+7102	505218	1	3	53	4	Lubomír	Balcárek	Mgr.		51	středoškolský učitel	Šumvald	99	53	A	M
+7102	505218	1	1	1	5	Miroslav	Kyselý			25	učitel	Břevenec	99	1	A	M
+7102	505218	1	2	88	5	Veronika	Zittová	Ing.		29	OZO v BOZP a PO (bez. technik)	Šumvald	99	88	A	F
+7102	505218	1	3	53	5	Jiří	Kyselý			44	mistr výroby	Šumvald	99	53	A	M
+7102	505218	1	1	1	6	Danuše	Bradová			40	THP - účetní	Šumvald	99	1	A	F
+7102	505218	1	2	88	6	Bohumír	Kobylka			25	technik	Šumvald	99	88	A	M
+7102	505218	1	3	53	6	Vladimír	Nikl	MUDr.		44	zubní lékař	Šumvald	99	53	A	M
+7102	505218	1	1	1	7	Petra	Niklová			41	zdravotní sestra	Břevenec	99	1	A	F
+7102	505218	1	2	88	7	Tomáš	Bartoněk			38	státní zaměstnanec	Šumvald	99	88	A	M
+7102	505218	1	3	53	7	Ivana	Berková	Ing.		54	ekonomka	Šumvald	99	53	A	F
+7102	505218	1	1	1	8	Eva	Kolářová			44	dělnice	Šumvald	99	1	A	F
+7102	505218	1	2	88	8	Ivana	Filipová			52	zdravotní sestra	Šumvald	99	88	A	F
+7102	505218	1	3	53	8	Zdeněk	Navrátil			43	řidič	Šumvald	99	53	A	M
+7102	505218	1	1	1	9	Stanislav	Wiedermann	Ing.		39	projektant	Šumvald	99	1	A	M
+7102	505218	1	2	88	9	Martin	Čamek			45	stavební mistr	Šumvald	99	88	A	M
+7102	505218	1	3	53	9	Radek	Ulmann			54	revizní technik elektro	Břevenec	99	53	A	M

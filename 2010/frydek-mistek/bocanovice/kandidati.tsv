@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8102	511633	1	1	805	1	Tomáš	Čečotka	M			29	policista	Bocanovice	99	80	0
-8102	511633	1	2	804	1	Renata	Sikorová	F			45	učitelka MŠ	Bocanovice	99	80	0
-8102	511633	1	3	7	1	Martin	Paduch	M	Ing.		27	projektant - konstruktér	Bocanovice	7	7	0
-8102	511633	1	3	7	2	Roman	Czeczotka	M			40	živnostník	Bocanovice	7	7	0
-8102	511633	1	3	7	3	Helena	Czeczotková	F			36	provozní	Bocanovice	7	7	0
-8102	511633	1	3	7	4	Antonín	Hamrozi	M			49	stavbyvedoucí	Bocanovice	7	7	0
-8102	511633	1	3	7	5	Josef	Szkandera	M			82	důchodce	Bocanovice	99	7	0
-8102	511633	1	3	7	6	Jan	Szkandera	M			79	důchodce	Bocanovice	99	7	0
-8102	511633	1	3	7	7	Michaela	Paduchová	F			27	úřednice	Bocanovice	99	7	0
-8102	511633	1	4	801	1	Josef	Ćmiel	M			64	důchodce	Bocanovice	99	80	0
-8102	511633	1	5	803	1	Petr	Cienciala	M			48	mistr TŽ a.s.	Bocanovice	99	80	0
-8102	511633	1	6	802	1	Petra	Juroszová	F			30	skladnice	Bocanovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8102	511633	1	1	805	1	Tomáš	Čečotka			29	policista	Bocanovice	99	80	0	M
+8102	511633	1	2	804	1	Renata	Sikorová			45	učitelka MŠ	Bocanovice	99	80	0	F
+8102	511633	1	3	7	1	Martin	Paduch	Ing.		27	projektant - konstruktér	Bocanovice	7	7	0	M
+8102	511633	1	4	801	1	Josef	Ćmiel			64	důchodce	Bocanovice	99	80	0	M
+8102	511633	1	5	803	1	Petr	Cienciala			48	mistr TŽ a.s.	Bocanovice	99	80	0	M
+8102	511633	1	6	802	1	Petra	Juroszová			30	skladnice	Bocanovice	99	80	0	F
+8102	511633	1	3	7	2	Roman	Czeczotka			40	živnostník	Bocanovice	7	7	0	M
+8102	511633	1	3	7	3	Helena	Czeczotková			36	provozní	Bocanovice	7	7	0	F
+8102	511633	1	3	7	4	Antonín	Hamrozi			49	stavbyvedoucí	Bocanovice	7	7	0	M
+8102	511633	1	3	7	5	Josef	Szkandera			82	důchodce	Bocanovice	99	7	0	M
+8102	511633	1	3	7	6	Jan	Szkandera			79	důchodce	Bocanovice	99	7	0	M
+8102	511633	1	3	7	7	Michaela	Paduchová			27	úřednice	Bocanovice	99	7	0	F

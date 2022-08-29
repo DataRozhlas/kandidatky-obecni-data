@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7201	588300	1	1	901	1	Petra	Zápecová	F			32	účetní	Velké Těšany	99	80	A
-7201	588300	1	1	901	2	Petr	Ředina	M			37	státní zaměstnanec	Velké Těšany	99	80	A
-7201	588300	1	1	901	3	Miroslav	Vaško	M	Ing.		47	technik	Velké Těšany	99	80	A
-7201	588300	1	1	901	4	Antonín	Dušek	M	Ing.		61	důchodce	Velké Těšany	99	80	A
-7201	588300	1	1	901	5	Kateřina	Zapletalová	F			32	administrativní pracovnice	Velké Těšany	99	80	A
-7201	588300	1	1	901	6	Ivana	Veselá	F			56	pomocná kuchařka	Velké Těšany	99	80	A
-7201	588300	1	1	901	7	Pavel	Dadák	M			50	podnikatel	Velké Těšany	768	80	A
-7201	588300	1	1	901	8	Josef	Potočný	M			45	řidič	Velké Těšany	99	80	A
-7201	588300	1	1	901	9	Jan	Zapletal	M	Ing.		40	voják z povolání	Velké Těšany	99	80	A
-7201	588300	1	2	902	1	Věra	Halamová	F			53	starostka obce	Bařice	99	80	A
-7201	588300	1	2	902	2	Marek	Haloda	M			44	elektromontér	Velké Těšany	99	80	A
-7201	588300	1	2	902	3	Ladislava	Kolouchová	F			55	ředitelka PENAM	Bařice	99	80	A
-7201	588300	1	2	902	4	Roman	Valach	M			43	řidič	Velké Těšany	99	80	A
-7201	588300	1	2	902	5	Jitka	Běhalová	F			36	údržbář	Bařice	99	80	A
-7201	588300	1	2	902	6	Radim	Mikulenka	M			41	OSVČ	Velké Těšany	99	80	A
-7201	588300	1	2	902	7	Lubomír	Kadlčík	M			57	dělník	Bařice	99	80	A
-7201	588300	1	2	902	8	Jitka	Plevová	F			45	kuchařka	Velké Těšany	99	80	A
-7201	588300	1	2	902	9	Kamila	Zbořilová	F			19	studentka	Bařice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7201	588300	1	1	901	1	Petra	Zápecová			32	účetní	Velké Těšany	99	80	A	F
+7201	588300	1	2	902	1	Věra	Halamová			53	starostka obce	Bařice	99	80	A	F
+7201	588300	1	1	901	2	Petr	Ředina			37	státní zaměstnanec	Velké Těšany	99	80	A	M
+7201	588300	1	2	902	2	Marek	Haloda			44	elektromontér	Velké Těšany	99	80	A	M
+7201	588300	1	1	901	3	Miroslav	Vaško	Ing.		47	technik	Velké Těšany	99	80	A	M
+7201	588300	1	2	902	3	Ladislava	Kolouchová			55	ředitelka PENAM	Bařice	99	80	A	F
+7201	588300	1	1	901	4	Antonín	Dušek	Ing.		61	důchodce	Velké Těšany	99	80	A	M
+7201	588300	1	2	902	4	Roman	Valach			43	řidič	Velké Těšany	99	80	A	M
+7201	588300	1	1	901	5	Kateřina	Zapletalová			32	administrativní pracovnice	Velké Těšany	99	80	A	F
+7201	588300	1	2	902	5	Jitka	Běhalová			36	údržbář	Bařice	99	80	A	F
+7201	588300	1	1	901	6	Ivana	Veselá			56	pomocná kuchařka	Velké Těšany	99	80	A	F
+7201	588300	1	2	902	6	Radim	Mikulenka			41	OSVČ	Velké Těšany	99	80	A	M
+7201	588300	1	1	901	7	Pavel	Dadák			50	podnikatel	Velké Těšany	768	80	A	M
+7201	588300	1	2	902	7	Lubomír	Kadlčík			57	dělník	Bařice	99	80	A	M
+7201	588300	1	1	901	8	Josef	Potočný			45	řidič	Velké Těšany	99	80	A	M
+7201	588300	1	2	902	8	Jitka	Plevová			45	kuchařka	Velké Těšany	99	80	A	F
+7201	588300	1	1	901	9	Jan	Zapletal	Ing.		40	voják z povolání	Velké Těšany	99	80	A	M
+7201	588300	1	2	902	9	Kamila	Zbořilová			19	studentka	Bařice	99	80	A	F

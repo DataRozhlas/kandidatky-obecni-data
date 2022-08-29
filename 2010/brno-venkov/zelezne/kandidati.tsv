@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	584274	1	1	7	1	Simona	Veselá	F			34	obchodní zástupce	Železné	7	7	0
-6203	584274	1	1	7	2	Libor	Vejrosta	M			47	živnostník	Železné	7	7	0
-6203	584274	1	1	7	3	Bohdan	Merta	M	Ing.		45	stavbyvedoucí	Železné	99	7	0
-6203	584274	1	1	7	4	Lubomír	Bednář	M			49	logistik výroby	Železné	99	7	0
-6203	584274	1	2	470	1	Radomír	Pavlíček	M			49	elektrotechnik	Železné	99	166	0
-6203	584274	1	2	470	2	Jan	Motyčka	M			51	tajemník vodárenského svazku	Železné	99	166	0
-6203	584274	1	2	470	3	Irena	Záluská	F			43	vedoucí prodejny	Železné	99	80	0
-6203	584274	1	2	470	4	Jaromír	Synek	M			46	dělník	Železné	99	80	0
-6203	584274	1	2	470	5	Libor	Mach	M			35	technik	Železné	99	80	0
-6203	584274	1	2	470	6	Jiří	Dolek	M	Ing.		77	důchodce	Železné	99	80	0
-6203	584274	1	2	470	7	Pavla	Vacová	F			39	asistentka projektu	Železné	99	80	0
-6203	584274	1	2	470	8	Zdeněk	Hrbotický	M			42	řidič	Železné	99	80	0
-6203	584274	1	2	470	9	Aneta	Nejezová	F			21	student	Železné	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	584274	1	1	7	1	Simona	Veselá			34	obchodní zástupce	Železné	7	7	0	F
+6203	584274	1	2	470	1	Radomír	Pavlíček			49	elektrotechnik	Železné	99	166	0	M
+6203	584274	1	1	7	2	Libor	Vejrosta			47	živnostník	Železné	7	7	0	M
+6203	584274	1	2	470	2	Jan	Motyčka			51	tajemník vodárenského svazku	Železné	99	166	0	M
+6203	584274	1	1	7	3	Bohdan	Merta	Ing.		45	stavbyvedoucí	Železné	99	7	0	M
+6203	584274	1	2	470	3	Irena	Záluská			43	vedoucí prodejny	Železné	99	80	0	F
+6203	584274	1	1	7	4	Lubomír	Bednář			49	logistik výroby	Železné	99	7	0	M
+6203	584274	1	2	470	4	Jaromír	Synek			46	dělník	Železné	99	80	0	M
+6203	584274	1	2	470	5	Libor	Mach			35	technik	Železné	99	80	0	M
+6203	584274	1	2	470	6	Jiří	Dolek	Ing.		77	důchodce	Železné	99	80	0	M
+6203	584274	1	2	470	7	Pavla	Vacová			39	asistentka projektu	Železné	99	80	0	F
+6203	584274	1	2	470	8	Zdeněk	Hrbotický			42	řidič	Železné	99	80	0	M
+6203	584274	1	2	470	9	Aneta	Nejezová			21	student	Železné	99	80	0	F

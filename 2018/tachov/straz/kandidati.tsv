@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3207	561207	1	1	7	1	Pavlína	Havrdová	F			36	referent	Stráž	99	7	A
-3207	561207	1	1	7	2	Martina	Ludvíková	F			49	ošetřovatelka	Souměř	99	7	A
-3207	561207	1	1	7	3	Věra	Koktová	F	Bc.		42	asistent pedagoga	Stráž	99	7	A
-3207	561207	1	1	7	4	Igor	Hofmann	M			52	skladník	Stráž	99	7	A
-3207	561207	1	1	7	5	Martina	Zelenková	F			36	disponent	Stráž	99	7	A
-3207	561207	1	1	7	6	Filip	Nusko	M			24	elektrikář	Stráž	99	7	A
-3207	561207	1	1	7	7	Alena	Donovalová	F			66	pracující důchodce	Stráž	7	7	A
-3207	561207	1	1	7	8	Zdeněk	Nováček	M			47	opravář	Stráž	99	7	A
-3207	561207	1	1	7	9	Jiří	Sýkora	M			32	řidič vysokozdvižného vozíku	Stráž	99	7	A
-3207	561207	1	2	768	1	Miroslav	Tichý	M			60	vedoucí divize	Stráž	99	768	A
-3207	561207	1	2	768	2	Marcela	Veselá	F			47	expedient	Stráž	99	768	A
-3207	561207	1	2	768	3	Kamil	Vašíček	M			31	řidič VZV	Valcha	99	768	A
-3207	561207	1	2	768	4	Roman	Brückner	M			57	OSVČ	Stráž	99	768	A
-3207	561207	1	2	768	5	Zdeněk	Martinec	M			55	pracovník internetového obchodu	Stráž	99	768	A
-3207	561207	1	2	768	6	Jiří	Sýkora	M			56	OSVČ	Stráž	99	768	A
-3207	561207	1	2	768	7	Tomáš	Horváth	M			48	OSVČ	Stráž	99	768	A
-3207	561207	1	2	768	8	Tomáš	Mejsnar	M			31	montážní pracovník	Stráž	99	768	A
-3207	561207	1	2	768	9	Pavel	Mareš	M			70	důchodce	Olešná	99	768	A
-3207	561207	1	3	901	1	Karel	Fišpera	M			56	starosta městyse Stráž	Bernartice	99	80	A
-3207	561207	1	3	901	2	Petr	Bártík	M			39	učitel ZŠ	Stráž	99	80	A
-3207	561207	1	3	901	3	Lukáš	Vávra	M			32	programátor	Stráž	99	80	A
-3207	561207	1	3	901	4	Jana	Horáková	F			41	učitelka MŠ	Stráž	99	80	A
-3207	561207	1	3	901	5	Radek	Radoš	M			40	soustružník	Stráž	99	80	A
-3207	561207	1	3	901	6	Jan	Pikart	M			41	OSVČ - autoelektrikář	Stráž	99	80	A
-3207	561207	1	3	901	7	Radka	Svobodová	F			40	dělnice	Strachovice	99	80	A
-3207	561207	1	3	901	8	Aleš	Komárek	M			44	technik STK	Stráž	99	80	A
-3207	561207	1	3	901	9	Jitka	Ježková	F			49	správce rekreačního střediska	Stráž	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3207	561207	1	1	7	1	Pavlína	Havrdová			36	referent	Stráž	99	7	A	F
+3207	561207	1	2	768	1	Miroslav	Tichý			60	vedoucí divize	Stráž	99	768	A	M
+3207	561207	1	3	901	1	Karel	Fišpera			56	starosta městyse Stráž	Bernartice	99	80	A	M
+3207	561207	1	1	7	2	Martina	Ludvíková			49	ošetřovatelka	Souměř	99	7	A	F
+3207	561207	1	2	768	2	Marcela	Veselá			47	expedient	Stráž	99	768	A	F
+3207	561207	1	3	901	2	Petr	Bártík			39	učitel ZŠ	Stráž	99	80	A	M
+3207	561207	1	1	7	3	Věra	Koktová	Bc.		42	asistent pedagoga	Stráž	99	7	A	F
+3207	561207	1	2	768	3	Kamil	Vašíček			31	řidič VZV	Valcha	99	768	A	M
+3207	561207	1	3	901	3	Lukáš	Vávra			32	programátor	Stráž	99	80	A	M
+3207	561207	1	1	7	4	Igor	Hofmann			52	skladník	Stráž	99	7	A	M
+3207	561207	1	2	768	4	Roman	Brückner			57	OSVČ	Stráž	99	768	A	M
+3207	561207	1	3	901	4	Jana	Horáková			41	učitelka MŠ	Stráž	99	80	A	F
+3207	561207	1	1	7	5	Martina	Zelenková			36	disponent	Stráž	99	7	A	F
+3207	561207	1	2	768	5	Zdeněk	Martinec			55	pracovník internetového obchodu	Stráž	99	768	A	M
+3207	561207	1	3	901	5	Radek	Radoš			40	soustružník	Stráž	99	80	A	M
+3207	561207	1	1	7	6	Filip	Nusko			24	elektrikář	Stráž	99	7	A	M
+3207	561207	1	2	768	6	Jiří	Sýkora			56	OSVČ	Stráž	99	768	A	M
+3207	561207	1	3	901	6	Jan	Pikart			41	OSVČ - autoelektrikář	Stráž	99	80	A	M
+3207	561207	1	1	7	7	Alena	Donovalová			66	pracující důchodce	Stráž	7	7	A	F
+3207	561207	1	2	768	7	Tomáš	Horváth			48	OSVČ	Stráž	99	768	A	M
+3207	561207	1	3	901	7	Radka	Svobodová			40	dělnice	Strachovice	99	80	A	F
+3207	561207	1	1	7	8	Zdeněk	Nováček			47	opravář	Stráž	99	7	A	M
+3207	561207	1	2	768	8	Tomáš	Mejsnar			31	montážní pracovník	Stráž	99	768	A	M
+3207	561207	1	3	901	8	Aleš	Komárek			44	technik STK	Stráž	99	80	A	M
+3207	561207	1	1	7	9	Jiří	Sýkora			32	řidič vysokozdvižného vozíku	Stráž	99	7	A	M
+3207	561207	1	2	768	9	Pavel	Mareš			70	důchodce	Olešná	99	768	A	M
+3207	561207	1	3	901	9	Jitka	Ježková			49	správce rekreačního střediska	Stráž	99	80	A	F

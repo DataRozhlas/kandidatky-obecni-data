@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	581461	1	1	902	1	Josef	Čepelka	M	Mag.art.		37	restaurátor	Býkovice	99	80	A
-6201	581461	1	1	902	2	Lenka	Konstanzová	F			55	účetní	Býkovice	99	80	A
-6201	581461	1	1	902	3	Ondřej	Musil	M	Ing.		31	vedoucí lesní správy	Býkovice	99	80	A
-6201	581461	1	1	902	4	Jiří	Jakubec	M			36	CAD programátor	Býkovice	99	80	A
-6201	581461	1	1	902	5	Samir	Sunni	M			33	OSVČ	Býkovice	99	80	A
-6201	581461	1	1	902	6	Ladislav	Chloupek	M	Ing.		64	OSVČ	Býkovice	99	80	A
-6201	581461	1	1	902	7	František	Sedláček	M			72	důchodce	Býkovice	99	80	A
-6201	581461	1	1	902	8	Miroslav	Jakubec	M			61	důchodce	Býkovice	99	80	A
-6201	581461	1	2	901	1	Marek	Drábek	M			45	OSVČ	Býkovice	99	80	A
-6201	581461	1	2	901	2	Miroslav	Pavlíček	M			43	vedoucí prodeje	Býkovice	99	80	A
-6201	581461	1	2	901	3	Petr	Sedláček	M	Ing.		30	elektroinženýr	Býkovice	99	80	A
-6201	581461	1	2	901	4	Libor	Hladil	M	Ing.		55	soukromý zemědělec	Býkovice	99	80	A
-6201	581461	1	2	901	5	Zdeněk	Jakubec	M	Ing.		37	servisní technik	Býkovice	99	80	A
-6201	581461	1	2	901	6	Lenka	Doleželová	F	Mgr.		46	administrativní pracovník	Býkovice	99	80	A
-6201	581461	1	2	901	7	Antonín	Adámek	M			54	agromechanizátor	Býkovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	581461	1	1	902	1	Josef	Čepelka	Mag.art.		37	restaurátor	Býkovice	99	80	A	M
+6201	581461	1	2	901	1	Marek	Drábek			45	OSVČ	Býkovice	99	80	A	M
+6201	581461	1	1	902	2	Lenka	Konstanzová			55	účetní	Býkovice	99	80	A	F
+6201	581461	1	2	901	2	Miroslav	Pavlíček			43	vedoucí prodeje	Býkovice	99	80	A	M
+6201	581461	1	1	902	3	Ondřej	Musil	Ing.		31	vedoucí lesní správy	Býkovice	99	80	A	M
+6201	581461	1	2	901	3	Petr	Sedláček	Ing.		30	elektroinženýr	Býkovice	99	80	A	M
+6201	581461	1	1	902	4	Jiří	Jakubec			36	CAD programátor	Býkovice	99	80	A	M
+6201	581461	1	2	901	4	Libor	Hladil	Ing.		55	soukromý zemědělec	Býkovice	99	80	A	M
+6201	581461	1	1	902	5	Samir	Sunni			33	OSVČ	Býkovice	99	80	A	M
+6201	581461	1	2	901	5	Zdeněk	Jakubec	Ing.		37	servisní technik	Býkovice	99	80	A	M
+6201	581461	1	1	902	6	Ladislav	Chloupek	Ing.		64	OSVČ	Býkovice	99	80	A	M
+6201	581461	1	2	901	6	Lenka	Doleželová	Mgr.		46	administrativní pracovník	Býkovice	99	80	A	F
+6201	581461	1	1	902	7	František	Sedláček			72	důchodce	Býkovice	99	80	A	M
+6201	581461	1	2	901	7	Antonín	Adámek			54	agromechanizátor	Býkovice	99	80	A	M
+6201	581461	1	1	902	8	Miroslav	Jakubec			61	důchodce	Býkovice	99	80	A	M

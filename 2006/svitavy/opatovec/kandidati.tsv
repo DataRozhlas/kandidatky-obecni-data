@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	572721	1	1	5	1	Miroslav	Rejsa	M			49	řidič	Opatovec	99	5	0
-5303	572721	1	1	5	2	Roman	Macků	M			36	živnostník	Opatovec	99	5	0
-5303	572721	1	1	5	3	František	Jansa	M			60	důchodce	Opatovec	99	5	0
-5303	572721	1	1	5	4	Lenka	Kučerová	F			31	kuchařka	Opatovec	99	5	0
-5303	572721	1	1	5	5	Petr	Císař	M			36	podnikatel	Opatovec	99	5	0
-5303	572721	1	1	5	6	Miloš	Bednář	M			36	řidič	Opatovec	99	5	0
-5303	572721	1	1	5	7	Ludmila	Doskočilová	F			27	kuchařka	Opatovec	99	5	0
-5303	572721	1	1	5	8	Václav	Chadima	M			19	kuchař	Opatovec	99	5	0
-5303	572721	1	1	5	9	Nikola	Rejsa	F			19	student	Opatovec	99	5	0
-5303	572721	1	2	901	1	Hana	Telecká	F			46	vychovatelka	Opatovec	99	80	0
-5303	572721	1	2	901	2	Vladimíra	Menšíková	F			48	účetní	Opatovec	99	80	0
-5303	572721	1	2	901	3	Alena	Šimůnková	F			42	dětská sestra	Opatovec	99	80	0
-5303	572721	1	2	901	4	Jaroslava	Sobková	F	MVDr.		45	veterinární lékařka	Opatovec	99	80	0
-5303	572721	1	2	901	5	Markéta	Rybičková	F			30	tech. pracovník	Opatovec	99	80	0
-5303	572721	1	2	901	6	Ilona	Císařová	F			34	dělnice	Opatovec	99	80	0
-5303	572721	1	2	901	7	Dagmar	Benešová	F			34	skladnice	Opatovec	99	80	0
-5303	572721	1	2	901	8	Božena	Hořovská	F			54	nezaměstnaná	Opatovec	99	80	0
-5303	572721	1	2	901	9	Štěpánka	Ehrenbergerová	F			58	důchodkyně	Opatovec	99	80	0
-5303	572721	1	3	902	1	Miroslav	Buďa	M			45	řidič MKD	Opatovec	99	80	0
-5303	572721	1	3	902	2	František	Hořovský	M			51	elektromechanik	Opatovec	99	80	0
-5303	572721	1	3	902	3	Martin	Smítal	M	Bc.		39	operační důstojník HZS	Opatovec	99	80	0
-5303	572721	1	3	902	4	Martin	Smetana	M			32	technik	Opatovec	99	80	0
-5303	572721	1	3	902	5	Lukáš	Kudrna	M			27	OSVČ	Opatovec	99	80	0
-5303	572721	1	3	902	6	Vladimír	Šmejkal	M			56	OSVČ	Opatovec	99	80	0
-5303	572721	1	3	902	7	František	Kalánek	M			42	opravář zem. strojů	Opatovec	99	80	0
-5303	572721	1	3	902	8	Martin	Sekyra	M			34	technik	Opatovec	99	80	0
-5303	572721	1	3	902	9	Lenka	Molišová	F			32	dělnice	Opatovec	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	572721	1	1	5	1	Miroslav	Rejsa			49	řidič	Opatovec	99	5	0	M
+5303	572721	1	2	901	1	Hana	Telecká			46	vychovatelka	Opatovec	99	80	0	F
+5303	572721	1	3	902	1	Miroslav	Buďa			45	řidič MKD	Opatovec	99	80	0	M
+5303	572721	1	1	5	2	Roman	Macků			36	živnostník	Opatovec	99	5	0	M
+5303	572721	1	2	901	2	Vladimíra	Menšíková			48	účetní	Opatovec	99	80	0	F
+5303	572721	1	3	902	2	František	Hořovský			51	elektromechanik	Opatovec	99	80	0	M
+5303	572721	1	1	5	3	František	Jansa			60	důchodce	Opatovec	99	5	0	M
+5303	572721	1	2	901	3	Alena	Šimůnková			42	dětská sestra	Opatovec	99	80	0	F
+5303	572721	1	3	902	3	Martin	Smítal	Bc.		39	operační důstojník HZS	Opatovec	99	80	0	M
+5303	572721	1	1	5	4	Lenka	Kučerová			31	kuchařka	Opatovec	99	5	0	F
+5303	572721	1	2	901	4	Jaroslava	Sobková	MVDr.		45	veterinární lékařka	Opatovec	99	80	0	F
+5303	572721	1	3	902	4	Martin	Smetana			32	technik	Opatovec	99	80	0	M
+5303	572721	1	1	5	5	Petr	Císař			36	podnikatel	Opatovec	99	5	0	M
+5303	572721	1	2	901	5	Markéta	Rybičková			30	tech. pracovník	Opatovec	99	80	0	F
+5303	572721	1	3	902	5	Lukáš	Kudrna			27	OSVČ	Opatovec	99	80	0	M
+5303	572721	1	1	5	6	Miloš	Bednář			36	řidič	Opatovec	99	5	0	M
+5303	572721	1	2	901	6	Ilona	Císařová			34	dělnice	Opatovec	99	80	0	F
+5303	572721	1	3	902	6	Vladimír	Šmejkal			56	OSVČ	Opatovec	99	80	0	M
+5303	572721	1	1	5	7	Ludmila	Doskočilová			27	kuchařka	Opatovec	99	5	0	F
+5303	572721	1	2	901	7	Dagmar	Benešová			34	skladnice	Opatovec	99	80	0	F
+5303	572721	1	3	902	7	František	Kalánek			42	opravář zem. strojů	Opatovec	99	80	0	M
+5303	572721	1	1	5	8	Václav	Chadima			19	kuchař	Opatovec	99	5	0	M
+5303	572721	1	2	901	8	Božena	Hořovská			54	nezaměstnaná	Opatovec	99	80	0	F
+5303	572721	1	3	902	8	Martin	Sekyra			34	technik	Opatovec	99	80	0	M
+5303	572721	1	1	5	9	Nikola	Rejsa			19	student	Opatovec	99	5	0	F
+5303	572721	1	2	901	9	Štěpánka	Ehrenbergerová			58	důchodkyně	Opatovec	99	80	0	F
+5303	572721	1	3	902	9	Lenka	Molišová			32	dělnice	Opatovec	99	80	0	F

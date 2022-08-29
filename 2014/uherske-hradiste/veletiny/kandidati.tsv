@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7202	592803	1	1	901	1	Tomáš	Trtek	M			40	nástrojař	Veletiny	99	80	0
-7202	592803	1	1	901	2	René	Hruboš	M	Ing.	Ph.D., MBA	39	manažer prodeje	Veletiny	99	80	0
-7202	592803	1	1	901	3	Aleš	Cimala	M	Mgr.		47	překladatel	Veletiny	99	80	0
-7202	592803	1	1	901	4	Miroslav	Dostálek	M	Mgr.		53	podnikatel	Veletiny	99	80	0
-7202	592803	1	1	901	5	Jarmila	Zábranová	F	Ing.		35	projektant - statik	Veletiny	99	80	0
-7202	592803	1	1	901	6	František	Hruboš	M			45	svářeč	Veletiny	99	80	0
-7202	592803	1	1	901	7	Lukáš	Martinák	M			20	student	Veletiny	99	80	0
-7202	592803	1	1	901	8	František	Juračka	M	Mgr.		58	středoškolský učitel	Veletiny	99	80	0
-7202	592803	1	1	901	9	Michal	Roman	M			38	podnikatel v reklamě a marketingu	Veletiny	99	80	0
-7202	592803	1	2	1	1	Věroslav	Orlovský	M			33	OSVČ	Veletiny	99	1	0
-7202	592803	1	2	1	2	Renata	Gomelská	F			42	vrchní kontroly	Veletiny	99	1	0
-7202	592803	1	2	1	3	Marie	Berková	F			59	kuchařka	Veletiny	99	1	0
-7202	592803	1	2	1	4	Josef	Fray	M			52	lakýrník	Veletiny	1	1	0
-7202	592803	1	2	1	5	Karel	Šimek	M	Ing.		33	stavbyvedoucí	Veletiny	99	1	0
-7202	592803	1	2	1	6	Jindřich	Lukáš	M			36	horizontář	Veletiny	99	1	0
-7202	592803	1	2	1	7	Šárka	Hrubošová	F	Bc.		23	porodní asistentka	Veletiny	99	1	0
-7202	592803	1	2	1	8	Martin	Ševčík	M			24	brusič	Veletiny	99	1	0
-7202	592803	1	2	1	9	Eva	Gronesová	F			50	THP	Veletiny	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7202	592803	1	1	901	1	Tomáš	Trtek			40	nástrojař	Veletiny	99	80	0	M
+7202	592803	1	2	1	1	Věroslav	Orlovský			33	OSVČ	Veletiny	99	1	0	M
+7202	592803	1	1	901	2	René	Hruboš	Ing.	Ph.D., MBA	39	manažer prodeje	Veletiny	99	80	0	M
+7202	592803	1	2	1	2	Renata	Gomelská			42	vrchní kontroly	Veletiny	99	1	0	F
+7202	592803	1	1	901	3	Aleš	Cimala	Mgr.		47	překladatel	Veletiny	99	80	0	M
+7202	592803	1	2	1	3	Marie	Berková			59	kuchařka	Veletiny	99	1	0	F
+7202	592803	1	1	901	4	Miroslav	Dostálek	Mgr.		53	podnikatel	Veletiny	99	80	0	M
+7202	592803	1	2	1	4	Josef	Fray			52	lakýrník	Veletiny	1	1	0	M
+7202	592803	1	1	901	5	Jarmila	Zábranová	Ing.		35	projektant - statik	Veletiny	99	80	0	F
+7202	592803	1	2	1	5	Karel	Šimek	Ing.		33	stavbyvedoucí	Veletiny	99	1	0	M
+7202	592803	1	1	901	6	František	Hruboš			45	svářeč	Veletiny	99	80	0	M
+7202	592803	1	2	1	6	Jindřich	Lukáš			36	horizontář	Veletiny	99	1	0	M
+7202	592803	1	1	901	7	Lukáš	Martinák			20	student	Veletiny	99	80	0	M
+7202	592803	1	2	1	7	Šárka	Hrubošová	Bc.		23	porodní asistentka	Veletiny	99	1	0	F
+7202	592803	1	1	901	8	František	Juračka	Mgr.		58	středoškolský učitel	Veletiny	99	80	0	M
+7202	592803	1	2	1	8	Martin	Ševčík			24	brusič	Veletiny	99	1	0	M
+7202	592803	1	1	901	9	Michal	Roman			38	podnikatel v reklamě a marketingu	Veletiny	99	80	0	M
+7202	592803	1	2	1	9	Eva	Gronesová			50	THP	Veletiny	99	1	0	F

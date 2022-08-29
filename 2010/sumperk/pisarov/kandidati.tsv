@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	540650	1	1	470	1	Bořivoj	David	M	Ing.		39	starosta	Písařov	99	166	0
-7105	540650	1	1	470	2	Josef	Vyhňák	M			50	dělník	Bukovice	99	166	0
-7105	540650	1	1	470	3	Václav	Smrčka	M			56	vedoucí provozu	Bukovice	99	166	0
-7105	540650	1	1	470	4	Ivo	Valenta	M	Ing.		47	lesní správce	Písařov	99	166	0
-7105	540650	1	1	470	5	Josef	Kubíček	M	Ing.		28	doktorand	Písařov	99	166	0
-7105	540650	1	1	470	6	Libor	Šlesingr	M			34	řezník	Písařov	99	166	0
-7105	540650	1	1	470	7	Jiří	Bouška	M			56	elektrikář	Bukovice	99	166	0
-7105	540650	1	1	470	8	Marcela	Winklerová	F		DiS.	34	účetní	Písařov	99	166	0
-7105	540650	1	1	470	9	Anna	Jurenková	F			44	skladnice	Písařov	99	80	0
-7105	540650	1	2	181	1	Jaromír	Pecha	M	Ing.		44	manažer kvality	Písařov	99	181	0
-7105	540650	1	2	181	2	Václav	Kubíček	M			56	OSVČ	Písařov	99	181	0
-7105	540650	1	2	181	3	Pavel	Krobot	M			40	OSVČ	Písařov	99	181	0
-7105	540650	1	2	181	4	Kamil	Pilíšek	M			37	OSVČ	Písařov	99	181	0
-7105	540650	1	2	181	5	Jana	Jurenková	F			47	prodavač	Písařov	99	181	0
-7105	540650	1	2	181	6	Jiří	Kubíček	M			45	stolař	Písařov	99	181	0
-7105	540650	1	2	181	7	Radomír	Macek	M			41	energetik	Písařov	99	181	0
-7105	540650	1	2	181	8	Jana	Tejklová	F			38	dělník operátor	Bukovice	99	181	0
-7105	540650	1	2	181	9	Vratislav	Šebesta	M			39	elektromechanik	Písařov	99	181	0
-7105	540650	1	3	1	1	Jiří	Pavlas	M	Mgr.		28	ředitel ZŠ a MŠ	Písařov	1	1	0
-7105	540650	1	3	1	2	Jarmil	Kubíček	M			38	údržbář	Písařov	1	1	0
-7105	540650	1	3	1	3	Petr	Vícenec	M			41	policista	Písařov	99	1	0
-7105	540650	1	3	1	4	Ladislav	Drážný	M	Ing.		51	učitel	Písařov	99	1	0
-7105	540650	1	3	1	5	Alena	Hlásná	F			48	zdravotní sestra	Písařov	1	1	0
-7105	540650	1	3	1	6	Helena	Sedláčková	F			62	důchodce	Písařov	1	1	0
-7105	540650	1	3	1	7	Božena	Krobotová	F			36	ošetřovatelka	Písařov	1	1	0
-7105	540650	1	3	1	8	František	Tempír	M			66	důchodce	Písařov	99	1	0
-7105	540650	1	3	1	9	Kristina	Kubíčková	F			70	důchodce	Písařov	1	1	0
-7105	540650	1	4	47	1	Otto	Pávek	M			45	mistr	Písařov	47	47	0
-7105	540650	1	4	47	2	Rostislav	Brauner	M			62	strojní zámečník	Písařov	47	47	0
-7105	540650	1	4	47	3	Milan	Janků	M			49	vedoucí prodejny	Písařov	99	47	0
-7105	540650	1	4	47	4	Luděk	Lang	M			48	dělník	Písařov	47	47	0
-7105	540650	1	4	47	5	Zdeněk	David	M			52	skladník	Písařov	47	47	0
-7105	540650	1	4	47	6	Bořivoj	David	M			62	řidič autobusu	Písařov	47	47	0
-7105	540650	1	4	47	7	František	Valenta	M			71	důchodce	Písařov	47	47	0
-7105	540650	1	4	47	8	Rudolf	Škrobánek	M			67	důchodce	Písařov	47	47	0
-7105	540650	1	4	47	9	Jaroslav	Tempír	M			59	dělník	Písařov	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	540650	1	1	470	1	Bořivoj	David	Ing.		39	starosta	Písařov	99	166	0	M
+7105	540650	1	2	181	1	Jaromír	Pecha	Ing.		44	manažer kvality	Písařov	99	181	0	M
+7105	540650	1	3	1	1	Jiří	Pavlas	Mgr.		28	ředitel ZŠ a MŠ	Písařov	1	1	0	M
+7105	540650	1	4	47	1	Otto	Pávek			45	mistr	Písařov	47	47	0	M
+7105	540650	1	1	470	2	Josef	Vyhňák			50	dělník	Bukovice	99	166	0	M
+7105	540650	1	2	181	2	Václav	Kubíček			56	OSVČ	Písařov	99	181	0	M
+7105	540650	1	3	1	2	Jarmil	Kubíček			38	údržbář	Písařov	1	1	0	M
+7105	540650	1	4	47	2	Rostislav	Brauner			62	strojní zámečník	Písařov	47	47	0	M
+7105	540650	1	1	470	3	Václav	Smrčka			56	vedoucí provozu	Bukovice	99	166	0	M
+7105	540650	1	2	181	3	Pavel	Krobot			40	OSVČ	Písařov	99	181	0	M
+7105	540650	1	3	1	3	Petr	Vícenec			41	policista	Písařov	99	1	0	M
+7105	540650	1	4	47	3	Milan	Janků			49	vedoucí prodejny	Písařov	99	47	0	M
+7105	540650	1	1	470	4	Ivo	Valenta	Ing.		47	lesní správce	Písařov	99	166	0	M
+7105	540650	1	2	181	4	Kamil	Pilíšek			37	OSVČ	Písařov	99	181	0	M
+7105	540650	1	3	1	4	Ladislav	Drážný	Ing.		51	učitel	Písařov	99	1	0	M
+7105	540650	1	4	47	4	Luděk	Lang			48	dělník	Písařov	47	47	0	M
+7105	540650	1	1	470	5	Josef	Kubíček	Ing.		28	doktorand	Písařov	99	166	0	M
+7105	540650	1	2	181	5	Jana	Jurenková			47	prodavač	Písařov	99	181	0	F
+7105	540650	1	3	1	5	Alena	Hlásná			48	zdravotní sestra	Písařov	1	1	0	F
+7105	540650	1	4	47	5	Zdeněk	David			52	skladník	Písařov	47	47	0	M
+7105	540650	1	1	470	6	Libor	Šlesingr			34	řezník	Písařov	99	166	0	M
+7105	540650	1	2	181	6	Jiří	Kubíček			45	stolař	Písařov	99	181	0	M
+7105	540650	1	3	1	6	Helena	Sedláčková			62	důchodce	Písařov	1	1	0	F
+7105	540650	1	4	47	6	Bořivoj	David			62	řidič autobusu	Písařov	47	47	0	M
+7105	540650	1	1	470	7	Jiří	Bouška			56	elektrikář	Bukovice	99	166	0	M
+7105	540650	1	2	181	7	Radomír	Macek			41	energetik	Písařov	99	181	0	M
+7105	540650	1	3	1	7	Božena	Krobotová			36	ošetřovatelka	Písařov	1	1	0	F
+7105	540650	1	4	47	7	František	Valenta			71	důchodce	Písařov	47	47	0	M
+7105	540650	1	1	470	8	Marcela	Winklerová		DiS.	34	účetní	Písařov	99	166	0	F
+7105	540650	1	2	181	8	Jana	Tejklová			38	dělník operátor	Bukovice	99	181	0	F
+7105	540650	1	3	1	8	František	Tempír			66	důchodce	Písařov	99	1	0	M
+7105	540650	1	4	47	8	Rudolf	Škrobánek			67	důchodce	Písařov	47	47	0	M
+7105	540650	1	1	470	9	Anna	Jurenková			44	skladnice	Písařov	99	80	0	F
+7105	540650	1	2	181	9	Vratislav	Šebesta			39	elektromechanik	Písařov	99	181	0	M
+7105	540650	1	3	1	9	Kristina	Kubíčková			70	důchodce	Písařov	1	1	0	F
+7105	540650	1	4	47	9	Jaroslav	Tempír			59	dělník	Písařov	47	47	0	M

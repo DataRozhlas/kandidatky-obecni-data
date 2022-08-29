@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3204	558630	1	1	387	1	Václav	Šampalík	M	MUDr.		25	lékař	Žinkovy	47	47	0
-3204	558630	1	1	387	2	Karel	Niemkiewicz	M			46	vedoucí prodejny	Žinkovy	99	47	0
-3204	558630	1	1	387	3	Václav	Šampalík	M	Ing.		54	agronom	Žinkovy	47	47	0
-3204	558630	1	1	387	4	Pavla	Kočková	F			37	prodavačka	Březí	99	47	0
-3204	558630	1	1	387	5	František	Šrait	M			32	obráběč kovů	Žinkovy	99	47	0
-3204	558630	1	1	387	6	Marek	Boublík	M	Ing.		29	úředník	Žinkovy	99	47	0
-3204	558630	1	1	387	7	Šárka	Cygánková	F			34	poštovní doručovatelka	Žinkovy	99	47	0
-3204	558630	1	1	387	8	Miroslav	Nesrsta	M			47	řidič	Žinkovy	99	47	0
-3204	558630	1	1	387	9	Josef	Michálek	M			52	údržbář	Žinkovy	99	47	0
-3204	558630	1	1	387	10	Hana	Jandíková	F			58	učitelka MŠ	Žinkovy	99	47	0
-3204	558630	1	1	387	11	Libuše	Hoblová	F			54	pracovnice v sociálních služb.	Žinkovy	99	47	0
-3204	558630	1	2	801	1	Zbyněk	Hofman	M	Ing.		31	soukromý zemědělec	Kokořov	99	80	0
-3204	558630	1	3	901	1	Josef	Suda	M			36	podnikatel	Žinkovy	99	80	0
-3204	558630	1	3	901	2	Vojtěch	Mašek	M	Ing.	Ph.D.	43	obchodní ředitel	Březí	99	80	0
-3204	558630	1	3	901	3	Milan	Klingr	M			32	manažer prodeje	Kokořov	99	80	0
-3204	558630	1	3	901	4	Irena	Hampejsová	F			40	účetní	Žinkovy	99	80	0
-3204	558630	1	3	901	5	Václav	Vaněk	M			55	dělník	Žinkovy	99	80	0
-3204	558630	1	3	901	6	Petr	Diviš	M			43	podnikatel	Kokořov	99	80	0
-3204	558630	1	3	901	7	Hana	Boublíková	F	Ing.		30	učitelka	Žinkovy	99	80	0
-3204	558630	1	3	901	8	Lukáš	Tříska	M			30	zemědělský podnikatel	Březí	99	80	0
-3204	558630	1	3	901	9	Josef	Klášterka	M			49	opravář zemědělských strojů	Žinkovy	99	80	0
-3204	558630	1	3	901	10	Václav	Škopek	M			34	řidič	Žinkovy	99	80	0
-3204	558630	1	3	901	11	Jaroslav	Řežábek	M			41	zedník	Žinkovy	99	80	0
-3204	558630	1	4	902	1	Jan	Řežábek	M			60	zedník	Kokořov	99	80	0
-3204	558630	1	4	902	2	Libuše	Niemkiewiczová	F			41	účetní	Žinkovy	99	80	0
-3204	558630	1	4	902	3	Josef	Karhan	M			37	opravář zemědělských strojů	Žinkovy	99	80	0
-3204	558630	1	4	902	4	Jiří	Michálek	M			59	automechanik	Žinkovy	99	80	0
-3204	558630	1	4	902	5	Petr	Šťastný	M			49	stavbyvedoucí	Kokořov	99	80	0
-3204	558630	1	4	902	6	Danuše	Lásková	F			45	"zdrav.prac.""Domova klidného st"	Žinkovy	99	80	0
-3204	558630	1	4	902	7	Vladislava	Černá	F			45	účetní	Žinkovy	99	80	0
-3204	558630	1	4	902	8	Josef	Tříska	M			60	státní zaměstnanec	Březí	99	80	0
-3204	558630	1	4	902	9	Jitka	Vaňková	F			55	vedoucí provozu	Žinkovy	99	80	0
-3204	558630	1	4	902	10	Josef	Burda	M			29	bagrista	Žinkovy	99	80	0
-3204	558630	1	4	902	11	Pavel	Altman	M			31	truhlář	Březí	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3204	558630	1	1	387	1	Václav	Šampalík	MUDr.		25	lékař	Žinkovy	47	47	0	M
+3204	558630	1	2	801	1	Zbyněk	Hofman	Ing.		31	soukromý zemědělec	Kokořov	99	80	0	M
+3204	558630	1	3	901	1	Josef	Suda			36	podnikatel	Žinkovy	99	80	0	M
+3204	558630	1	4	902	1	Jan	Řežábek			60	zedník	Kokořov	99	80	0	M
+3204	558630	1	1	387	2	Karel	Niemkiewicz			46	vedoucí prodejny	Žinkovy	99	47	0	M
+3204	558630	1	3	901	2	Vojtěch	Mašek	Ing.	Ph.D.	43	obchodní ředitel	Březí	99	80	0	M
+3204	558630	1	4	902	2	Libuše	Niemkiewiczová			41	účetní	Žinkovy	99	80	0	F
+3204	558630	1	1	387	3	Václav	Šampalík	Ing.		54	agronom	Žinkovy	47	47	0	M
+3204	558630	1	3	901	3	Milan	Klingr			32	manažer prodeje	Kokořov	99	80	0	M
+3204	558630	1	4	902	3	Josef	Karhan			37	opravář zemědělských strojů	Žinkovy	99	80	0	M
+3204	558630	1	1	387	4	Pavla	Kočková			37	prodavačka	Březí	99	47	0	F
+3204	558630	1	3	901	4	Irena	Hampejsová			40	účetní	Žinkovy	99	80	0	F
+3204	558630	1	4	902	4	Jiří	Michálek			59	automechanik	Žinkovy	99	80	0	M
+3204	558630	1	1	387	5	František	Šrait			32	obráběč kovů	Žinkovy	99	47	0	M
+3204	558630	1	3	901	5	Václav	Vaněk			55	dělník	Žinkovy	99	80	0	M
+3204	558630	1	4	902	5	Petr	Šťastný			49	stavbyvedoucí	Kokořov	99	80	0	M
+3204	558630	1	1	387	6	Marek	Boublík	Ing.		29	úředník	Žinkovy	99	47	0	M
+3204	558630	1	3	901	6	Petr	Diviš			43	podnikatel	Kokořov	99	80	0	M
+3204	558630	1	4	902	6	Danuše	Lásková			45	"zdrav.prac.""Domova klidného st"	Žinkovy	99	80	0	F
+3204	558630	1	1	387	7	Šárka	Cygánková			34	poštovní doručovatelka	Žinkovy	99	47	0	F
+3204	558630	1	3	901	7	Hana	Boublíková	Ing.		30	učitelka	Žinkovy	99	80	0	F
+3204	558630	1	4	902	7	Vladislava	Černá			45	účetní	Žinkovy	99	80	0	F
+3204	558630	1	1	387	8	Miroslav	Nesrsta			47	řidič	Žinkovy	99	47	0	M
+3204	558630	1	3	901	8	Lukáš	Tříska			30	zemědělský podnikatel	Březí	99	80	0	M
+3204	558630	1	4	902	8	Josef	Tříska			60	státní zaměstnanec	Březí	99	80	0	M
+3204	558630	1	1	387	9	Josef	Michálek			52	údržbář	Žinkovy	99	47	0	M
+3204	558630	1	3	901	9	Josef	Klášterka			49	opravář zemědělských strojů	Žinkovy	99	80	0	M
+3204	558630	1	4	902	9	Jitka	Vaňková			55	vedoucí provozu	Žinkovy	99	80	0	F
+3204	558630	1	1	387	10	Hana	Jandíková			58	učitelka MŠ	Žinkovy	99	47	0	F
+3204	558630	1	3	901	10	Václav	Škopek			34	řidič	Žinkovy	99	80	0	M
+3204	558630	1	4	902	10	Josef	Burda			29	bagrista	Žinkovy	99	80	0	M
+3204	558630	1	1	387	11	Libuše	Hoblová			54	pracovnice v sociálních služb.	Žinkovy	99	47	0	F
+3204	558630	1	3	901	11	Jaroslav	Řežábek			41	zedník	Žinkovy	99	80	0	M
+3204	558630	1	4	902	11	Pavel	Altman			31	truhlář	Březí	99	80	0	M

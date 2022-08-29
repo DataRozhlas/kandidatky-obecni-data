@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	540650	1	1	1	1	Jiří	Pavlas	M	Mgr.	MBA	40	ředitel školy, místostarosta	Písařov	1	1	A
-7105	540650	1	1	1	2	Pavel	Krobot	M			52	soukromý zemědělec	Písařov	99	1	A
-7105	540650	1	1	1	3	Petr	Vícenec	M			53	správce budov	Písařov	99	1	A
-7105	540650	1	1	1	4	Ladislav	Drážný	M	Ing.		63	řidič v Charitě Zábřeh	Písařov	99	1	A
-7105	540650	1	1	1	5	Jana	Tejklová	F			50	operátorka výroby	Bukovice	99	1	A
-7105	540650	1	1	1	6	Jiří	Haas	M	Ing.		35	technický manažer	Písařov	99	1	A
-7105	540650	1	1	1	7	Hana	Vícencová Kubelková	F	Ing.		39	učitelka	Písařov	99	1	A
-7105	540650	1	1	1	8	Jaromír	Pecha	M	Ing.		56	jednatel společnosti	Písařov	99	1	A
-7105	540650	1	1	1	9	Alena	Hlásná	F			60	zdravotní sestra	Písařov	1	1	A
-7105	540650	1	2	470	1	Bořivoj	David	M	Ing.		51	starosta	Písařov	99	166	A
-7105	540650	1	2	470	2	Josef	Vyhňák	M			62	dělník	Bukovice	99	80	A
-7105	540650	1	2	470	3	Radek	Bulín	M			37	OSVČ, instalatér	Písařov	99	166	A
-7105	540650	1	2	470	4	Ivo	Valenta	M	Ing.		59	lesní správce	Písařov	99	80	A
-7105	540650	1	2	470	5	Petr	Pávek	M	Ing.		32	technik BOZP	Písařov	99	166	A
-7105	540650	1	2	470	6	Radek	Smrčka	M			46	technik kvality	Písařov	99	80	A
-7105	540650	1	2	470	7	Libor	Šlesingr	M			46	řezník - uzenář	Písařov	99	166	A
-7105	540650	1	2	470	8	Radek	Stejskal	M			32	podnikatel	Písařov	99	166	A
-7105	540650	1	2	470	9	Jiří	Černíček	M			49	dělník	Písařov	99	166	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	540650	1	1	1	1	Jiří	Pavlas	Mgr.	MBA	40	ředitel školy, místostarosta	Písařov	1	1	A	M
+7105	540650	1	2	470	1	Bořivoj	David	Ing.		51	starosta	Písařov	99	166	A	M
+7105	540650	1	1	1	2	Pavel	Krobot			52	soukromý zemědělec	Písařov	99	1	A	M
+7105	540650	1	2	470	2	Josef	Vyhňák			62	dělník	Bukovice	99	80	A	M
+7105	540650	1	1	1	3	Petr	Vícenec			53	správce budov	Písařov	99	1	A	M
+7105	540650	1	2	470	3	Radek	Bulín			37	OSVČ, instalatér	Písařov	99	166	A	M
+7105	540650	1	1	1	4	Ladislav	Drážný	Ing.		63	řidič v Charitě Zábřeh	Písařov	99	1	A	M
+7105	540650	1	2	470	4	Ivo	Valenta	Ing.		59	lesní správce	Písařov	99	80	A	M
+7105	540650	1	1	1	5	Jana	Tejklová			50	operátorka výroby	Bukovice	99	1	A	F
+7105	540650	1	2	470	5	Petr	Pávek	Ing.		32	technik BOZP	Písařov	99	166	A	M
+7105	540650	1	1	1	6	Jiří	Haas	Ing.		35	technický manažer	Písařov	99	1	A	M
+7105	540650	1	2	470	6	Radek	Smrčka			46	technik kvality	Písařov	99	80	A	M
+7105	540650	1	1	1	7	Hana	Vícencová Kubelková	Ing.		39	učitelka	Písařov	99	1	A	F
+7105	540650	1	2	470	7	Libor	Šlesingr			46	řezník - uzenář	Písařov	99	166	A	M
+7105	540650	1	1	1	8	Jaromír	Pecha	Ing.		56	jednatel společnosti	Písařov	99	1	A	M
+7105	540650	1	2	470	8	Radek	Stejskal			32	podnikatel	Písařov	99	166	A	M
+7105	540650	1	1	1	9	Alena	Hlásná			60	zdravotní sestra	Písařov	1	1	A	F
+7105	540650	1	2	470	9	Jiří	Černíček			49	dělník	Písařov	99	166	A	M

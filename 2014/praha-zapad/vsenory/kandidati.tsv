@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	539856	1	1	470	1	Richard	Feglar	M			47	podnikatel	Všenory	99	166	0
-2110	539856	1	1	470	2	Jan	Chalupecký	M	Ing.		55	specialista TELCO	Všenory	99	80	0
-2110	539856	1	1	470	3	Pavel	Bacík	M	Ing.		38	technik SŽDC	Všenory	99	80	0
-2110	539856	1	1	470	4	Jiří	Reif	M	Mgr.		41	obchodní manažer	Všenory	99	166	0
-2110	539856	1	1	470	5	Monika	Semová	F			60	zaměstnanec státní správy	Všenory	99	80	0
-2110	539856	1	1	470	6	Zdeněk	Seidler	M	Ing.		64	starosta	Všenory	99	166	0
-2110	539856	1	1	470	7	Karel	Škába	M	Ing.		60	podnikatel	Všenory	99	166	0
-2110	539856	1	1	470	8	Tomáš	Jirout	M	Ing.		47	podnikatel	Všenory	99	166	0
-2110	539856	1	1	470	9	Stanislav	Drážný	M			30	realitní specialista	Všenory	99	166	0
-2110	539856	1	2	901	1	Petr	Samek	M	Ing.		45	ekonom	Všenory	99	80	0
-2110	539856	1	2	901	2	Petr	Zedník	M			48	zlatník	Všenory	99	80	0
-2110	539856	1	2	901	3	Jaroslav	Blažek	M			46	manažer	Všenory	99	80	0
-2110	539856	1	2	901	4	Jana	Havrdová	F			41	účetní	Všenory	99	80	0
-2110	539856	1	2	901	5	Ladislav	Havrda	M			46	jednatel společnosti	Všenory	99	80	0
-2110	539856	1	2	901	6	Zdeňka	Šrucová	F			40	manažerka	Všenory	99	80	0
-2110	539856	1	2	901	7	Tereza	Kobíková	F			24	aranžérka	Všenory	99	80	0
-2110	539856	1	3	501	1	Václav	Hraba	M	Mgr.		44	výtvarník/podnikatel	Všenory	721	721	0
-2110	539856	1	3	501	2	Václav	Götz	M	Ing.		45	projektový manažer	Všenory	5	5	0
-2110	539856	1	3	501	3	Klára	Koppová	F			49	finanční ředitelka	Všenory	99	721	0
-2110	539856	1	3	501	4	Lucie	Pascu	F			46	TV produkční	Všenory	5	5	0
-2110	539856	1	3	501	5	Martin	Dudek	M	MUDr. Ing.		40	lékař	Všenory	99	721	0
-2110	539856	1	3	501	6	Lubor	Goláň	M	MUDr.		52	lékař	Všenory	99	721	0
-2110	539856	1	3	501	7	Petra	Johansson	F			42	komunikační expert	Všenory	99	5	0
-2110	539856	1	3	501	8	Radmila	Oličová	F			45	referent služeb	Všenory	99	80	0
-2110	539856	1	3	501	9	Karolina	Leiblová	F			33	zástupce vedoucího internetové prodejny	Všenory	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	539856	1	1	470	1	Richard	Feglar			47	podnikatel	Všenory	99	166	0	M
+2110	539856	1	2	901	1	Petr	Samek	Ing.		45	ekonom	Všenory	99	80	0	M
+2110	539856	1	3	501	1	Václav	Hraba	Mgr.		44	výtvarník/podnikatel	Všenory	721	721	0	M
+2110	539856	1	1	470	2	Jan	Chalupecký	Ing.		55	specialista TELCO	Všenory	99	80	0	M
+2110	539856	1	2	901	2	Petr	Zedník			48	zlatník	Všenory	99	80	0	M
+2110	539856	1	3	501	2	Václav	Götz	Ing.		45	projektový manažer	Všenory	5	5	0	M
+2110	539856	1	1	470	3	Pavel	Bacík	Ing.		38	technik SŽDC	Všenory	99	80	0	M
+2110	539856	1	2	901	3	Jaroslav	Blažek			46	manažer	Všenory	99	80	0	M
+2110	539856	1	3	501	3	Klára	Koppová			49	finanční ředitelka	Všenory	99	721	0	F
+2110	539856	1	1	470	4	Jiří	Reif	Mgr.		41	obchodní manažer	Všenory	99	166	0	M
+2110	539856	1	2	901	4	Jana	Havrdová			41	účetní	Všenory	99	80	0	F
+2110	539856	1	3	501	4	Lucie	Pascu			46	TV produkční	Všenory	5	5	0	F
+2110	539856	1	1	470	5	Monika	Semová			60	zaměstnanec státní správy	Všenory	99	80	0	F
+2110	539856	1	2	901	5	Ladislav	Havrda			46	jednatel společnosti	Všenory	99	80	0	M
+2110	539856	1	3	501	5	Martin	Dudek	MUDr. Ing.		40	lékař	Všenory	99	721	0	M
+2110	539856	1	1	470	6	Zdeněk	Seidler	Ing.		64	starosta	Všenory	99	166	0	M
+2110	539856	1	2	901	6	Zdeňka	Šrucová			40	manažerka	Všenory	99	80	0	F
+2110	539856	1	3	501	6	Lubor	Goláň	MUDr.		52	lékař	Všenory	99	721	0	M
+2110	539856	1	1	470	7	Karel	Škába	Ing.		60	podnikatel	Všenory	99	166	0	M
+2110	539856	1	2	901	7	Tereza	Kobíková			24	aranžérka	Všenory	99	80	0	F
+2110	539856	1	3	501	7	Petra	Johansson			42	komunikační expert	Všenory	99	5	0	F
+2110	539856	1	1	470	8	Tomáš	Jirout	Ing.		47	podnikatel	Všenory	99	166	0	M
+2110	539856	1	3	501	8	Radmila	Oličová			45	referent služeb	Všenory	99	80	0	F
+2110	539856	1	1	470	9	Stanislav	Drážný			30	realitní specialista	Všenory	99	166	0	M
+2110	539856	1	3	501	9	Karolina	Leiblová			33	zástupce vedoucího internetové prodejny	Všenory	99	80	0	F

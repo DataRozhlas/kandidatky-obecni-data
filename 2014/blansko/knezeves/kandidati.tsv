@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	581721	1	1	1	1	Vladimír	Vodák	M			52	dělník	Kněževes	1	1	0
-6201	581721	1	1	1	2	Luboš	Dvořák	M			50	mistr výroby	Jobova Lhota	99	1	0
-6201	581721	1	1	1	3	Milan	Kadlec	M			57	provozní	Kněževes	99	1	0
-6201	581721	1	1	1	4	Oldřich	Kůr	M			50	dělník	Kněževes	99	1	0
-6201	581721	1	1	1	5	Miloslav	Krejčí	M			32	servisní technik	Kněževes	99	1	0
-6201	581721	1	1	1	6	Stanislav	Knotek	M			44	mistr výroby	Kněževes	99	1	0
-6201	581721	1	1	1	7	Jan	Bláha	M			62	důchodce	Veselka	99	1	0
-6201	581721	1	1	1	8	Adolf	Jež	M			64	důchodce	Kněževes	99	1	0
-6201	581721	1	2	166	1	Petr	Olšan	M			45	obchodní zástupce	Veselka	99	166	0
-6201	581721	1	2	166	2	Milan	Palupa	M			49	technik	Veselka	99	166	0
-6201	581721	1	2	166	3	Marcela	Šuterová	F			38	vychovatelka	Kněževes	99	166	0
-6201	581721	1	2	166	4	Tomáš	Šutera	M			38	soukromý zemědělec	Kněževes	99	166	0
-6201	581721	1	2	166	5	Zdeňka	Palupová	F			44	zdravotnice	Veselka	99	166	0
-6201	581721	1	2	166	6	Tereza	Blahová	F			25	taxátorka pojištění	Veselka	99	166	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	581721	1	1	1	1	Vladimír	Vodák			52	dělník	Kněževes	1	1	0	M
+6201	581721	1	2	166	1	Petr	Olšan			45	obchodní zástupce	Veselka	99	166	0	M
+6201	581721	1	1	1	2	Luboš	Dvořák			50	mistr výroby	Jobova Lhota	99	1	0	M
+6201	581721	1	2	166	2	Milan	Palupa			49	technik	Veselka	99	166	0	M
+6201	581721	1	1	1	3	Milan	Kadlec			57	provozní	Kněževes	99	1	0	M
+6201	581721	1	2	166	3	Marcela	Šuterová			38	vychovatelka	Kněževes	99	166	0	F
+6201	581721	1	1	1	4	Oldřich	Kůr			50	dělník	Kněževes	99	1	0	M
+6201	581721	1	2	166	4	Tomáš	Šutera			38	soukromý zemědělec	Kněževes	99	166	0	M
+6201	581721	1	1	1	5	Miloslav	Krejčí			32	servisní technik	Kněževes	99	1	0	M
+6201	581721	1	2	166	5	Zdeňka	Palupová			44	zdravotnice	Veselka	99	166	0	F
+6201	581721	1	1	1	6	Stanislav	Knotek			44	mistr výroby	Kněževes	99	1	0	M
+6201	581721	1	2	166	6	Tereza	Blahová			25	taxátorka pojištění	Veselka	99	166	0	F
+6201	581721	1	1	1	7	Jan	Bláha			62	důchodce	Veselka	99	1	0	M
+6201	581721	1	1	1	8	Adolf	Jež			64	důchodce	Kněževes	99	1	0	M

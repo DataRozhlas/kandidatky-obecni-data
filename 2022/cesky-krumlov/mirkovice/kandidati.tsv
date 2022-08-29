@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3102	545627	1	1	1	1	Roman	Fučík	M			58	starosta obce	Mirkovice	99	1	A
-3102	545627	1	1	1	2	Miroslav	Jedlička	M			54	podnikatel	Mirkovice	99	1	A
-3102	545627	1	1	1	3	Jiří	Španiller	M			51	technik	Mirkovice	99	1	A
-3102	545627	1	1	1	4	Radek	Balla	M			48	dělník	Chabičovice	99	1	A
-3102	545627	1	1	1	5	Ivo	Kalista	M			45	OSVČ	Mirkovice	99	1	A
-3102	545627	1	1	1	6	Petr	Dvořák	M			41	technik	Mirkovice	99	1	A
-3102	545627	1	1	1	7	Petr	Šimánek	M			60	technik	Malčice	99	1	A
-3102	545627	1	1	1	8	Petr	Homolka	M			50	automechanik	Mirkovice	99	1	A
-3102	545627	1	1	1	9	Jiří	Vobr	M			48	technik	Zahrádka	99	1	A
-3102	545627	1	2	901	1	Hana	Karlíková	F	Bc.		37	mateřská dovolená	Mirkovice	99	80	A
-3102	545627	1	2	901	2	Jan	Jedlička	M	Ing.		28	software Engineer	Mirkovice	99	80	A
-3102	545627	1	2	901	3	Zdeněk	Mayer	M	Ing.		36	projektant	Žaltice	99	80	A
-3102	545627	1	2	901	4	Pavel	Krčka	M	Mgr.		34	elektrotechnik	Mirkovice	99	80	A
-3102	545627	1	2	901	5	Milan	Poláček	M			26	řidič z povolání	Mirkovice	99	80	A
-3102	545627	1	2	901	6	René	Neubauer	M			40	kominík	Žaltice	99	80	A
-3102	545627	1	2	901	7	Pavel	Hudeček	M			56	OSVČ	Malčice	1227	80	A
-3102	545627	1	2	901	8	Luboš	Bezděka	M			31	OSVČ	Mirkovice	99	80	A
-3102	545627	1	2	901	9	Petra	Poláčková	F			30	vedoucí kavárny	Mirkovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3102	545627	1	1	1	1	Roman	Fučík			58	starosta obce	Mirkovice	99	1	A	M
+3102	545627	1	2	901	1	Hana	Karlíková	Bc.		37	mateřská dovolená	Mirkovice	99	80	A	F
+3102	545627	1	1	1	2	Miroslav	Jedlička			54	podnikatel	Mirkovice	99	1	A	M
+3102	545627	1	2	901	2	Jan	Jedlička	Ing.		28	software Engineer	Mirkovice	99	80	A	M
+3102	545627	1	1	1	3	Jiří	Španiller			51	technik	Mirkovice	99	1	A	M
+3102	545627	1	2	901	3	Zdeněk	Mayer	Ing.		36	projektant	Žaltice	99	80	A	M
+3102	545627	1	1	1	4	Radek	Balla			48	dělník	Chabičovice	99	1	A	M
+3102	545627	1	2	901	4	Pavel	Krčka	Mgr.		34	elektrotechnik	Mirkovice	99	80	A	M
+3102	545627	1	1	1	5	Ivo	Kalista			45	OSVČ	Mirkovice	99	1	A	M
+3102	545627	1	2	901	5	Milan	Poláček			26	řidič z povolání	Mirkovice	99	80	A	M
+3102	545627	1	1	1	6	Petr	Dvořák			41	technik	Mirkovice	99	1	A	M
+3102	545627	1	2	901	6	René	Neubauer			40	kominík	Žaltice	99	80	A	M
+3102	545627	1	1	1	7	Petr	Šimánek			60	technik	Malčice	99	1	A	M
+3102	545627	1	2	901	7	Pavel	Hudeček			56	OSVČ	Malčice	1227	80	A	M
+3102	545627	1	1	1	8	Petr	Homolka			50	automechanik	Mirkovice	99	1	A	M
+3102	545627	1	2	901	8	Luboš	Bezděka			31	OSVČ	Mirkovice	99	80	A	M
+3102	545627	1	1	1	9	Jiří	Vobr			48	technik	Zahrádka	99	1	A	M
+3102	545627	1	2	901	9	Petra	Poláčková			30	vedoucí kavárny	Mirkovice	99	80	A	F

@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5203	574694	1	1	1	1	Marie	Kůtková	F			47	invalidní důchodce	Žďárky	1	1	0
-5203	574694	1	1	1	2	Josef	Němeček	M			50	dělník	Žďárky	99	1	0
-5203	574694	1	1	1	3	Vratislav	Hanzl	M			49	dělník	Žďárky	99	1	0
-5203	574694	1	2	901	1	Vladimír	Jerman	M	Ing.		42	nezaměstnaný	Žďárky	99	80	0
-5203	574694	1	2	901	2	Miloš	Miler	M			50	automechanik	Žďárky	99	80	0
-5203	574694	1	2	901	3	Josef	Genrt	M	RSDr.		53	obchodní zástupce	Žďárky	99	80	0
-5203	574694	1	2	901	4	Zsolt	Kanozsay	M			40	dělník	Žďárky	99	80	0
-5203	574694	1	2	901	5	Pavel	Jerman	M			36	vedoucí výroby	Žďárky	99	80	0
-5203	574694	1	2	901	6	Jana	Jirmanová	F			48	ředitelka MŠ	Žďárky	99	80	0
-5203	574694	1	2	901	7	Josef	Hrubý	M			35	dělník	Žďárky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5203	574694	1	1	1	1	Marie	Kůtková			47	invalidní důchodce	Žďárky	1	1	0	F
+5203	574694	1	2	901	1	Vladimír	Jerman	Ing.		42	nezaměstnaný	Žďárky	99	80	0	M
+5203	574694	1	1	1	2	Josef	Němeček			50	dělník	Žďárky	99	1	0	M
+5203	574694	1	2	901	2	Miloš	Miler			50	automechanik	Žďárky	99	80	0	M
+5203	574694	1	1	1	3	Vratislav	Hanzl			49	dělník	Žďárky	99	1	0	M
+5203	574694	1	2	901	3	Josef	Genrt	RSDr.		53	obchodní zástupce	Žďárky	99	80	0	M
+5203	574694	1	2	901	4	Zsolt	Kanozsay			40	dělník	Žďárky	99	80	0	M
+5203	574694	1	2	901	5	Pavel	Jerman			36	vedoucí výroby	Žďárky	99	80	0	M
+5203	574694	1	2	901	6	Jana	Jirmanová			48	ředitelka MŠ	Žďárky	99	80	0	F
+5203	574694	1	2	901	7	Josef	Hrubý			35	dělník	Žďárky	99	80	0	M

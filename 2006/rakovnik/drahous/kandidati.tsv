@@ -1,9 +1,9 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	529711	1	1	901	1	Anna	Černíková	F			54	učitelka	Tlesky	99	80	0
-2112	529711	1	1	901	2	Josef	Jelínek	M			54	soukromý podnikatel	Drahouš	99	80	0
-2112	529711	1	1	901	3	Vladimír	Kinský	M			55	zedník	Drahouš	99	80	0
-2112	529711	1	1	901	4	Emil	Kulhánek	M			58	soustružník	Drahouš	99	80	0
-2112	529711	1	1	901	5	Antonín	Tauber	M			47	truhlář	Drahouš	99	80	0
-2112	529711	1	1	901	6	Libor	Tomica	M	Ing.		51	zemědělský ing.	Tlesky	99	80	1
-2112	529711	1	1	901	7	Petr	Václavík	M			41	instalatér	Drahouš	99	80	0
-2112	529711	1	1	901	8	Marie	Vatrová	F			53	asistent pedagoga	Tlesky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	529711	1	1	901	1	Anna	Černíková			54	učitelka	Tlesky	99	80	0	F
+2112	529711	1	1	901	2	Josef	Jelínek			54	soukromý podnikatel	Drahouš	99	80	0	M
+2112	529711	1	1	901	3	Vladimír	Kinský			55	zedník	Drahouš	99	80	0	M
+2112	529711	1	1	901	4	Emil	Kulhánek			58	soustružník	Drahouš	99	80	0	M
+2112	529711	1	1	901	5	Antonín	Tauber			47	truhlář	Drahouš	99	80	0	M
+2112	529711	1	1	901	6	Libor	Tomica	Ing.		51	zemědělský ing.	Tlesky	99	80	1	M
+2112	529711	1	1	901	7	Petr	Václavík			41	instalatér	Drahouš	99	80	0	M
+2112	529711	1	1	901	8	Marie	Vatrová			53	asistent pedagoga	Tlesky	99	80	0	F

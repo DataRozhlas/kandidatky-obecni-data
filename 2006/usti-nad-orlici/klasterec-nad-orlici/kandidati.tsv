@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	580431	1	1	901	1	Václav	Fiedler	M	Ing.		48	podnikatel	Klášterec nad Orlicí	53	80	0
-5304	580431	1	1	901	2	Jan	Bednář	M			40	traktorista	Klášterec nad Orlicí	99	80	0
-5304	580431	1	1	901	3	Lenka	Ševčíková	F			35	účetní	Lhotka	99	80	0
-5304	580431	1	1	901	4	Radim	Horňák	M			32	učitel	Zbudov	99	80	0
-5304	580431	1	1	901	5	Pavel	Michalička	M			25	zootechnik	Lhotka	99	80	0
-5304	580431	1	1	901	6	Václav	Hebr	M			31	technik	Klášterec nad Orlicí	99	80	0
-5304	580431	1	1	901	7	Miroslav	Jirčík	M			30	podnikatel	Klášterec nad Orlicí	99	80	0
-5304	580431	1	1	901	8	Marie	Faltusová	F			55	prodavačka	Klášterec nad Orlicí	99	80	0
-5304	580431	1	1	901	9	Jiří	Lux	M			53	technik	Klášterec nad Orlicí	99	80	0
-5304	580431	1	2	47	1	Zdeněk	Bureš	M			54	starosta obce	Klášterec nad Orlicí	47	47	0
-5304	580431	1	2	47	2	Václav	Štefek	M			51	soukr. podnikatel	Klášterec nad Orlicí	47	47	0
-5304	580431	1	2	47	3	Zdeňka	Juřicová	F			54	vedoucí prodejny	Zbudov	99	47	0
-5304	580431	1	2	47	4	Lubomír	Černoch	M			54	dělník	Klášterec nad Orlicí	99	47	0
-5304	580431	1	2	47	5	Oldřich	Kalous	M			42	dělník	Klášterec nad Orlicí	47	47	0
-5304	580431	1	2	47	6	Karel	Mlynář	M			60	důchodce	Lhotka	47	47	0
-5304	580431	1	2	47	7	Josef	Koukol	M			50	dělník	Klášterec nad Orlicí	47	47	0
-5304	580431	1	2	47	8	Rudolf	Jireš	M			82	důchodce	Klášterec nad Orlicí	47	47	0
-5304	580431	1	2	47	9	Miloš	Hutník	M			48	živnostník	Jedlina	99	47	0
-5304	580431	1	3	1	1	Jindřich	Kalous	M			68	důchodce	Klášterec nad Orlicí	99	1	0
-5304	580431	1	3	1	2	Petr	Doleček	M			41	truhlář	Jedlina	99	1	0
-5304	580431	1	3	1	3	Jiří	Rous	M			53	traktorista	Jedlina	99	1	0
-5304	580431	1	3	1	4	Zbyněk	Bříza	M	Ing.		27	podnikatel	Lhotka	99	1	0
-5304	580431	1	3	1	5	Václav	Bílek	M			32	opravář	Klášterec nad Orlicí	99	1	0
-5304	580431	1	3	1	6	Marie	Janečková	F			59	důchodce	Jedlina	1	1	0
-5304	580431	1	3	1	7	Marie	Luxová	F			65	důchodce	Klášterec nad Orlicí	99	1	0
-5304	580431	1	3	1	8	Josef	Vágner	M			65	důchodce	Klášterec nad Orlicí	1	1	0
-5304	580431	1	3	1	9	Jaroslava	Černohousová	F			60	učitelka	Lhotka	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	580431	1	1	901	1	Václav	Fiedler	Ing.		48	podnikatel	Klášterec nad Orlicí	53	80	0	M
+5304	580431	1	2	47	1	Zdeněk	Bureš			54	starosta obce	Klášterec nad Orlicí	47	47	0	M
+5304	580431	1	3	1	1	Jindřich	Kalous			68	důchodce	Klášterec nad Orlicí	99	1	0	M
+5304	580431	1	1	901	2	Jan	Bednář			40	traktorista	Klášterec nad Orlicí	99	80	0	M
+5304	580431	1	2	47	2	Václav	Štefek			51	soukr. podnikatel	Klášterec nad Orlicí	47	47	0	M
+5304	580431	1	3	1	2	Petr	Doleček			41	truhlář	Jedlina	99	1	0	M
+5304	580431	1	1	901	3	Lenka	Ševčíková			35	účetní	Lhotka	99	80	0	F
+5304	580431	1	2	47	3	Zdeňka	Juřicová			54	vedoucí prodejny	Zbudov	99	47	0	F
+5304	580431	1	3	1	3	Jiří	Rous			53	traktorista	Jedlina	99	1	0	M
+5304	580431	1	1	901	4	Radim	Horňák			32	učitel	Zbudov	99	80	0	M
+5304	580431	1	2	47	4	Lubomír	Černoch			54	dělník	Klášterec nad Orlicí	99	47	0	M
+5304	580431	1	3	1	4	Zbyněk	Bříza	Ing.		27	podnikatel	Lhotka	99	1	0	M
+5304	580431	1	1	901	5	Pavel	Michalička			25	zootechnik	Lhotka	99	80	0	M
+5304	580431	1	2	47	5	Oldřich	Kalous			42	dělník	Klášterec nad Orlicí	47	47	0	M
+5304	580431	1	3	1	5	Václav	Bílek			32	opravář	Klášterec nad Orlicí	99	1	0	M
+5304	580431	1	1	901	6	Václav	Hebr			31	technik	Klášterec nad Orlicí	99	80	0	M
+5304	580431	1	2	47	6	Karel	Mlynář			60	důchodce	Lhotka	47	47	0	M
+5304	580431	1	3	1	6	Marie	Janečková			59	důchodce	Jedlina	1	1	0	F
+5304	580431	1	1	901	7	Miroslav	Jirčík			30	podnikatel	Klášterec nad Orlicí	99	80	0	M
+5304	580431	1	2	47	7	Josef	Koukol			50	dělník	Klášterec nad Orlicí	47	47	0	M
+5304	580431	1	3	1	7	Marie	Luxová			65	důchodce	Klášterec nad Orlicí	99	1	0	F
+5304	580431	1	1	901	8	Marie	Faltusová			55	prodavačka	Klášterec nad Orlicí	99	80	0	F
+5304	580431	1	2	47	8	Rudolf	Jireš			82	důchodce	Klášterec nad Orlicí	47	47	0	M
+5304	580431	1	3	1	8	Josef	Vágner			65	důchodce	Klášterec nad Orlicí	1	1	0	M
+5304	580431	1	1	901	9	Jiří	Lux			53	technik	Klášterec nad Orlicí	99	80	0	M
+5304	580431	1	2	47	9	Miloš	Hutník			48	živnostník	Jedlina	99	47	0	M
+5304	580431	1	3	1	9	Jaroslava	Černohousová			60	učitelka	Lhotka	99	1	0	F

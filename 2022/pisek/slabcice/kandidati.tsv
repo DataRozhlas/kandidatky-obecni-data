@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	549860	1	1	901	1	Jiří	Liška	M			40	dělník	Nemějice	99	80	A
-3104	549860	1	1	901	2	Zdeněk	Vilhelm	M	Mgr.		43	geolog	Nemějice	99	80	A
-3104	549860	1	1	901	3	Vlastimil	Kunt	M			30	dělník	Písecká Smoleč	99	80	A
-3104	549860	1	1	901	4	Gabriela	Jarošová	F	Ing.		25	vedoucí kontrolor kvality	Slabčice	99	80	A
-3104	549860	1	1	901	5	Petr	Jedlička	M			33	řidič	Slabčice	99	80	A
-3104	549860	1	1	901	6	Ondřej	Roubín	M			46	OSVČ	Nemějice	99	80	A
-3104	549860	1	1	901	7	Josef	Kuboušek	M			23	řidič	Písecká Smoleč	99	80	A
-3104	549860	1	1	901	8	Alena	Lišková	F			32	učitelka	Nemějice	99	80	A
-3104	549860	1	1	901	9	Pavel	Lhotecký	M			48	technik	Nemějice	99	80	A
-3104	549860	1	2	902	1	Jana	Patceltová	F			49	starostka obce	Slabčice	99	80	A
-3104	549860	1	2	902	2	Zdeněk	Kunt	M			33	dělník	Písecká Smoleč	99	80	A
-3104	549860	1	2	902	3	Zdeněk	Liška	M	Ing.		30	obchodní zástupce	Nemějice	1	80	A
-3104	549860	1	2	902	4	David	Svoboda	M			43	strojník	Písecká Smoleč	99	80	A
-3104	549860	1	2	902	5	Ivana	Kalábová	F			56	živnostník	Slabčice	99	80	A
-3104	549860	1	2	902	6	Roman	Kotšmíd	M	Ing.		33	technik	Slabčice	99	80	A
-3104	549860	1	2	902	7	Luděk	Tesař	M			46	obchodní ředitel	Slabčice	99	80	A
-3104	549860	1	2	902	8	Miroslav	Lhotecký	M			33	technik	Nemějice	99	80	A
-3104	549860	1	2	902	9	Miroslav	Šoch	M			41	strojní technik	Písecká Smoleč	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	549860	1	1	901	1	Jiří	Liška			40	dělník	Nemějice	99	80	A	M
+3104	549860	1	2	902	1	Jana	Patceltová			49	starostka obce	Slabčice	99	80	A	F
+3104	549860	1	1	901	2	Zdeněk	Vilhelm	Mgr.		43	geolog	Nemějice	99	80	A	M
+3104	549860	1	2	902	2	Zdeněk	Kunt			33	dělník	Písecká Smoleč	99	80	A	M
+3104	549860	1	1	901	3	Vlastimil	Kunt			30	dělník	Písecká Smoleč	99	80	A	M
+3104	549860	1	2	902	3	Zdeněk	Liška	Ing.		30	obchodní zástupce	Nemějice	1	80	A	M
+3104	549860	1	1	901	4	Gabriela	Jarošová	Ing.		25	vedoucí kontrolor kvality	Slabčice	99	80	A	F
+3104	549860	1	2	902	4	David	Svoboda			43	strojník	Písecká Smoleč	99	80	A	M
+3104	549860	1	1	901	5	Petr	Jedlička			33	řidič	Slabčice	99	80	A	M
+3104	549860	1	2	902	5	Ivana	Kalábová			56	živnostník	Slabčice	99	80	A	F
+3104	549860	1	1	901	6	Ondřej	Roubín			46	OSVČ	Nemějice	99	80	A	M
+3104	549860	1	2	902	6	Roman	Kotšmíd	Ing.		33	technik	Slabčice	99	80	A	M
+3104	549860	1	1	901	7	Josef	Kuboušek			23	řidič	Písecká Smoleč	99	80	A	M
+3104	549860	1	2	902	7	Luděk	Tesař			46	obchodní ředitel	Slabčice	99	80	A	M
+3104	549860	1	1	901	8	Alena	Lišková			32	učitelka	Nemějice	99	80	A	F
+3104	549860	1	2	902	8	Miroslav	Lhotecký			33	technik	Nemějice	99	80	A	M
+3104	549860	1	1	901	9	Pavel	Lhotecký			48	technik	Nemějice	99	80	A	M
+3104	549860	1	2	902	9	Miroslav	Šoch			41	strojní technik	Písecká Smoleč	99	80	A	M

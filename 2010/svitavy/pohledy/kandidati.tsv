@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	578550	1	1	901	1	Ladislav	Bahrynovski	M	JUDr.		62	důchodce	Horní Hynčina	99	80	0
-5303	578550	1	1	901	2	Pavlína	Houserová	F			32	podnikatelka	Horní Hynčina	99	80	0
-5303	578550	1	1	901	3	Lubomír	Odstrčil	M			46	podnikatel	Horní Hynčina	99	80	0
-5303	578550	1	1	901	4	Mojmír	Milota	M			61	invalidní důchodce	Horní Hynčina	99	80	0
-5303	578550	1	1	901	5	Zdeněk	Baklík	M			57	nástrojař	Horní Hynčina	99	80	0
-5303	578550	1	1	901	6	Zdeňka	Etzlerová	F			62	důchodce	Horní Hynčina	99	80	0
-5303	578550	1	1	901	7	Zdeněk	Špelda	M			55	invalidní důchodce	Horní Hynčina	99	80	0
-5303	578550	1	1	901	8	Martin	Löffler	M			38	seřizovač	Horní Hynčina	99	80	0
-5303	578550	1	1	901	9	Roman	Houser	M			34	pokrývač	Horní Hynčina	99	80	0
-5303	578550	1	2	902	1	Renata	Drtilová	F			43	švadlena	Horní Hynčina	99	80	0
-5303	578550	1	2	902	2	Eva	Schusterová	F			31	úřednice	Horní Hynčina	99	80	0
-5303	578550	1	2	902	3	Ladislava	Hromádková	F			56	bankovní úřednice	Pohledy	99	80	0
-5303	578550	1	2	902	4	Jan	Schuster	M			33	elektromechanik	Horní Hynčina	99	80	0
-5303	578550	1	2	902	5	Martin	Lukášek	M			30	živnostník	Horní Hynčina	99	80	0
-5303	578550	1	2	902	6	Marcela	Šafářová	F			50	obsluha čerpací stanice	Horní Hynčina	99	80	0
-5303	578550	1	2	902	7	Petra	Vyroubalová	F			33	živnostník	Horní Hynčina	99	80	0
-5303	578550	1	2	902	8	Lucie	Svobodová	F			32	mateřská dovolená	Horní Hynčina	99	80	0
-5303	578550	1	2	902	9	Klára	Lukášková	F			37	mateřská dovolená	Horní Hynčina	99	80	0
-5303	578550	1	3	47	1	Jiří	Lenoch	M	Ing.		32	samostatný projektant	Horní Hynčina	99	47	0
-5303	578550	1	3	47	2	Antonín	Vajgl	M			47	agronom	Horní Hynčina	99	47	0
-5303	578550	1	3	47	3	Miroslav	Šváb	M			33	osoba samostat.výdělečně činná	Pohledy	99	47	0
-5303	578550	1	3	47	4	Josef	Zapletal	M			39	řezník	Horní Hynčina	99	47	0
-5303	578550	1	3	47	5	Ladislav	Štoudek	M			50	údržbář	Pohledy	99	47	0
-5303	578550	1	3	47	6	Zdeňka	Juránová	F			59	důchodkyně	Horní Hynčina	99	47	0
-5303	578550	1	3	47	7	Marián	Hynek	M			34	prodavač	Horní Hynčina	99	47	0
-5303	578550	1	3	47	8	Jiří	Hansgut	M			52	dělník	Horní Hynčina	99	47	0
-5303	578550	1	3	47	9	Josef	Blaha	M			43	dělník	Horní Hynčina	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	578550	1	1	901	1	Ladislav	Bahrynovski	JUDr.		62	důchodce	Horní Hynčina	99	80	0	M
+5303	578550	1	2	902	1	Renata	Drtilová			43	švadlena	Horní Hynčina	99	80	0	F
+5303	578550	1	3	47	1	Jiří	Lenoch	Ing.		32	samostatný projektant	Horní Hynčina	99	47	0	M
+5303	578550	1	1	901	2	Pavlína	Houserová			32	podnikatelka	Horní Hynčina	99	80	0	F
+5303	578550	1	2	902	2	Eva	Schusterová			31	úřednice	Horní Hynčina	99	80	0	F
+5303	578550	1	3	47	2	Antonín	Vajgl			47	agronom	Horní Hynčina	99	47	0	M
+5303	578550	1	1	901	3	Lubomír	Odstrčil			46	podnikatel	Horní Hynčina	99	80	0	M
+5303	578550	1	2	902	3	Ladislava	Hromádková			56	bankovní úřednice	Pohledy	99	80	0	F
+5303	578550	1	3	47	3	Miroslav	Šváb			33	osoba samostat.výdělečně činná	Pohledy	99	47	0	M
+5303	578550	1	1	901	4	Mojmír	Milota			61	invalidní důchodce	Horní Hynčina	99	80	0	M
+5303	578550	1	2	902	4	Jan	Schuster			33	elektromechanik	Horní Hynčina	99	80	0	M
+5303	578550	1	3	47	4	Josef	Zapletal			39	řezník	Horní Hynčina	99	47	0	M
+5303	578550	1	1	901	5	Zdeněk	Baklík			57	nástrojař	Horní Hynčina	99	80	0	M
+5303	578550	1	2	902	5	Martin	Lukášek			30	živnostník	Horní Hynčina	99	80	0	M
+5303	578550	1	3	47	5	Ladislav	Štoudek			50	údržbář	Pohledy	99	47	0	M
+5303	578550	1	1	901	6	Zdeňka	Etzlerová			62	důchodce	Horní Hynčina	99	80	0	F
+5303	578550	1	2	902	6	Marcela	Šafářová			50	obsluha čerpací stanice	Horní Hynčina	99	80	0	F
+5303	578550	1	3	47	6	Zdeňka	Juránová			59	důchodkyně	Horní Hynčina	99	47	0	F
+5303	578550	1	1	901	7	Zdeněk	Špelda			55	invalidní důchodce	Horní Hynčina	99	80	0	M
+5303	578550	1	2	902	7	Petra	Vyroubalová			33	živnostník	Horní Hynčina	99	80	0	F
+5303	578550	1	3	47	7	Marián	Hynek			34	prodavač	Horní Hynčina	99	47	0	M
+5303	578550	1	1	901	8	Martin	Löffler			38	seřizovač	Horní Hynčina	99	80	0	M
+5303	578550	1	2	902	8	Lucie	Svobodová			32	mateřská dovolená	Horní Hynčina	99	80	0	F
+5303	578550	1	3	47	8	Jiří	Hansgut			52	dělník	Horní Hynčina	99	47	0	M
+5303	578550	1	1	901	9	Roman	Houser			34	pokrývač	Horní Hynčina	99	80	0	M
+5303	578550	1	2	902	9	Klára	Lukášková			37	mateřská dovolená	Horní Hynčina	99	80	0	F
+5303	578550	1	3	47	9	Josef	Blaha			43	dělník	Horní Hynčina	99	47	0	M

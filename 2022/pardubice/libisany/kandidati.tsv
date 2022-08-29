@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5302	575305	1	1	901	1	Monika	Nováková	F	Ing.		51	starostka	Libišany	99	80	A
-5302	575305	1	1	901	2	David	Dlesek	M			37	hasič	Libišany	99	80	A
-5302	575305	1	1	901	3	Jana	Helešicová	F			44	OSVČ	Libišany	99	80	A
-5302	575305	1	1	901	4	Milan	Machač	M			28	hasič	Libišany	99	80	A
-5302	575305	1	1	901	5	Elena	Juláková	F			39	asistentka	Libišany	99	80	A
-5302	575305	1	1	901	6	Roman	Divišek	M			53	strojník	Libišany	99	80	A
-5302	575305	1	1	901	7	Miluše	Havelková	F			64	asistentka	Libišany	99	80	A
-5302	575305	1	1	901	8	Petr	Vávra	M			27	řidič	Libišany	99	80	A
-5302	575305	1	1	901	9	David	Myška	M			32	obchodní zástupce	Libišany	99	80	A
-5302	575305	1	2	902	1	Petr	Vích	M			36	veterinární technik	Libišany	99	80	A
-5302	575305	1	2	902	2	Jan	Hauser	M	Mgr.		43	OSVČ	Libišany	99	80	A
-5302	575305	1	2	902	3	Lenka	Lehká	F			61	účetní	Libišany	99	80	A
-5302	575305	1	2	902	4	Martin	Děrgel	M	MUDr.		40	lékař	Libišany	99	80	A
-5302	575305	1	2	902	5	Martin	Čermák	M			41	IT specialista	Libišany	99	80	A
-5302	575305	1	2	902	6	Milan	Machač	M			55	mistr provozu	Libišany	99	80	A
-5302	575305	1	2	902	7	Tomáš	Balažovič	M			40	projektant	Libišany	99	80	A
-5302	575305	1	2	902	8	Ondřej	Kváš	M	Ing.		36	IT specilista	Libišany	99	80	A
-5302	575305	1	2	902	9	Lucie	Pechánková	F			41	OSVČ - kadeřnice	Libišany	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5302	575305	1	1	901	1	Monika	Nováková	Ing.		51	starostka	Libišany	99	80	A	F
+5302	575305	1	2	902	1	Petr	Vích			36	veterinární technik	Libišany	99	80	A	M
+5302	575305	1	1	901	2	David	Dlesek			37	hasič	Libišany	99	80	A	M
+5302	575305	1	2	902	2	Jan	Hauser	Mgr.		43	OSVČ	Libišany	99	80	A	M
+5302	575305	1	1	901	3	Jana	Helešicová			44	OSVČ	Libišany	99	80	A	F
+5302	575305	1	2	902	3	Lenka	Lehká			61	účetní	Libišany	99	80	A	F
+5302	575305	1	1	901	4	Milan	Machač			28	hasič	Libišany	99	80	A	M
+5302	575305	1	2	902	4	Martin	Děrgel	MUDr.		40	lékař	Libišany	99	80	A	M
+5302	575305	1	1	901	5	Elena	Juláková			39	asistentka	Libišany	99	80	A	F
+5302	575305	1	2	902	5	Martin	Čermák			41	IT specialista	Libišany	99	80	A	M
+5302	575305	1	1	901	6	Roman	Divišek			53	strojník	Libišany	99	80	A	M
+5302	575305	1	2	902	6	Milan	Machač			55	mistr provozu	Libišany	99	80	A	M
+5302	575305	1	1	901	7	Miluše	Havelková			64	asistentka	Libišany	99	80	A	F
+5302	575305	1	2	902	7	Tomáš	Balažovič			40	projektant	Libišany	99	80	A	M
+5302	575305	1	1	901	8	Petr	Vávra			27	řidič	Libišany	99	80	A	M
+5302	575305	1	2	902	8	Ondřej	Kváš	Ing.		36	IT specilista	Libišany	99	80	A	M
+5302	575305	1	1	901	9	David	Myška			32	obchodní zástupce	Libišany	99	80	A	M
+5302	575305	1	2	902	9	Lucie	Pechánková			41	OSVČ - kadeřnice	Libišany	99	80	A	F

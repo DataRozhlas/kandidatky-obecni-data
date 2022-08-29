@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5103	564451	1	1	901	1	Jaroslava	Kvapilová	F			61	starostka	Vrchovina	99	80	A
-5103	564451	1	1	901	2	Jan	Nejedlo	M			38	vedoucí výroby	Radostín	99	80	A
-5103	564451	1	1	901	3	Miloš	Kadlec	M	PhDr.		58	ředitel Územní památkové správy na Sychrově	Sychrov	99	80	A
-5103	564451	1	1	901	4	Oldřiška	Hejlová	F			45	technik BOZP a PO	Sedlejovice	99	80	A
-5103	564451	1	1	901	5	Jaroslav	Albrecht	M			58	skladník	Třtí	99	80	A
-5103	564451	1	1	901	6	Jaroslav	Bretšnajdr	M			42	kvalitář výroby	Vrchovina	99	80	A
-5103	564451	1	1	901	7	Milan	Bílek	M			37	konstruktér, zemědělec	Vrchovina	99	80	A
-5103	564451	1	1	901	8	Stefan	Canov	M			40	grafik	Třtí	99	80	A
-5103	564451	1	1	901	9	Martina	Strnadová	F			38	fyzioterapeut	Třtí	99	80	A
-5103	564451	1	2	7	1	Jiří	Licek	M			37	finanční ředitel	Radostín	99	7	A
-5103	564451	1	2	7	2	Denis	Seitz	M			24	IT specialista	Nová Role	99	7	A
-5103	564451	1	2	7	3	Radek	Zahálka	M			23	prodejce zemědělské techniky	Střekov	99	7	A
-5103	564451	1	2	7	4	Dominik	Uríček	M			20	mechanik	Šumbark	99	7	A
-5103	564451	1	2	7	5	Jiří	Růžička	M			23	OSVČ	Stodůlky	99	7	A
-5103	564451	1	2	7	6	Petr	Polanský	M			23	opravář zemědělských strojů	Děčín IV-Podmokly	99	7	A
-5103	564451	1	2	7	7	Jaroslav	Futera	M			44	obráběč kovů - dělník	Hodkovice nad Mohelkou	99	7	A
-5103	564451	1	2	7	8	Ladislav	Ferenc	M			58	dělník	Stará Paka	99	7	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5103	564451	1	1	901	1	Jaroslava	Kvapilová			61	starostka	Vrchovina	99	80	A	F
+5103	564451	1	2	7	1	Jiří	Licek			37	finanční ředitel	Radostín	99	7	A	M
+5103	564451	1	1	901	2	Jan	Nejedlo			38	vedoucí výroby	Radostín	99	80	A	M
+5103	564451	1	2	7	2	Denis	Seitz			24	IT specialista	Nová Role	99	7	A	M
+5103	564451	1	1	901	3	Miloš	Kadlec	PhDr.		58	ředitel Územní památkové správy na Sychrově	Sychrov	99	80	A	M
+5103	564451	1	2	7	3	Radek	Zahálka			23	prodejce zemědělské techniky	Střekov	99	7	A	M
+5103	564451	1	1	901	4	Oldřiška	Hejlová			45	technik BOZP a PO	Sedlejovice	99	80	A	F
+5103	564451	1	2	7	4	Dominik	Uríček			20	mechanik	Šumbark	99	7	A	M
+5103	564451	1	1	901	5	Jaroslav	Albrecht			58	skladník	Třtí	99	80	A	M
+5103	564451	1	2	7	5	Jiří	Růžička			23	OSVČ	Stodůlky	99	7	A	M
+5103	564451	1	1	901	6	Jaroslav	Bretšnajdr			42	kvalitář výroby	Vrchovina	99	80	A	M
+5103	564451	1	2	7	6	Petr	Polanský			23	opravář zemědělských strojů	Děčín IV-Podmokly	99	7	A	M
+5103	564451	1	1	901	7	Milan	Bílek			37	konstruktér, zemědělec	Vrchovina	99	80	A	M
+5103	564451	1	2	7	7	Jaroslav	Futera			44	obráběč kovů - dělník	Hodkovice nad Mohelkou	99	7	A	M
+5103	564451	1	1	901	8	Stefan	Canov			40	grafik	Třtí	99	80	A	M
+5103	564451	1	2	7	8	Ladislav	Ferenc			58	dělník	Stará Paka	99	7	A	M
+5103	564451	1	1	901	9	Martina	Strnadová			38	fyzioterapeut	Třtí	99	80	A	F

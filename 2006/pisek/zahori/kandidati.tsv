@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	550027	1	1	1	1	Josef	Kartíšek	M			53	řidič	Třešně	1	1	0
-3104	550027	1	1	1	2	Milena	Formánková	F			58	podnikatelka	Horní Záhoří	1	1	0
-3104	550027	1	1	1	3	Ladislav	Kožmín	M	Ing.		26	elektrotechnik	Horní Záhoří	99	1	0
-3104	550027	1	1	1	4	František	Blažek	M			47	správce	Horní Záhoří	99	1	0
-3104	550027	1	1	1	5	Martin	Hronek	M			29	traktorista	Horní Záhoří	99	1	0
-3104	550027	1	2	53	1	David	Malát	M	Ing.		27	podnikatel	Horní Záhoří	99	53	0
-3104	550027	1	2	53	2	Lenka	Formánková	F	Ing.		33	vedoucí obchod. odd.	Horní Záhoří	99	53	0
-3104	550027	1	2	53	3	Martin	Formánek	M	Ing.		34	podnikatel	Horní Záhoří	99	53	0
-3104	550027	1	3	901	1	František	Valvoda	M			53	starosta	Horní Záhoří	99	80	0
-3104	550027	1	3	901	2	Petr	Kápl	M			41	stavbyvedoucí	Horní Záhoří	99	80	0
-3104	550027	1	3	901	3	Václav	Kaněra	M	Ing.		48	ředitel	Dolní Záhoří	99	80	0
-3104	550027	1	3	901	4	Jaroslav	Beránek	M	Ing.		55	vedoucí oddělení	Horní Záhoří	47	80	0
-3104	550027	1	3	901	5	Václav	Hauser	M			56	vedoucí agrochemie	Horní Záhoří	99	80	0
-3104	550027	1	3	901	6	Jan	Kocourek	M			28	technik	Kašina Hora	99	80	0
-3104	550027	1	3	901	7	Zdeněk	Mára	M			49	invalidní důchodce	Jamný	99	80	0
-3104	550027	1	3	901	8	Václav	Hauser	M			32	vedoucí produktu	Horní Záhoří	99	80	0
-3104	550027	1	3	901	9	Helena	Šabková	F			39	prodavačka	Třešně	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	550027	1	1	1	1	Josef	Kartíšek			53	řidič	Třešně	1	1	0	M
+3104	550027	1	2	53	1	David	Malát	Ing.		27	podnikatel	Horní Záhoří	99	53	0	M
+3104	550027	1	3	901	1	František	Valvoda			53	starosta	Horní Záhoří	99	80	0	M
+3104	550027	1	1	1	2	Milena	Formánková			58	podnikatelka	Horní Záhoří	1	1	0	F
+3104	550027	1	2	53	2	Lenka	Formánková	Ing.		33	vedoucí obchod. odd.	Horní Záhoří	99	53	0	F
+3104	550027	1	3	901	2	Petr	Kápl			41	stavbyvedoucí	Horní Záhoří	99	80	0	M
+3104	550027	1	1	1	3	Ladislav	Kožmín	Ing.		26	elektrotechnik	Horní Záhoří	99	1	0	M
+3104	550027	1	2	53	3	Martin	Formánek	Ing.		34	podnikatel	Horní Záhoří	99	53	0	M
+3104	550027	1	3	901	3	Václav	Kaněra	Ing.		48	ředitel	Dolní Záhoří	99	80	0	M
+3104	550027	1	1	1	4	František	Blažek			47	správce	Horní Záhoří	99	1	0	M
+3104	550027	1	3	901	4	Jaroslav	Beránek	Ing.		55	vedoucí oddělení	Horní Záhoří	47	80	0	M
+3104	550027	1	1	1	5	Martin	Hronek			29	traktorista	Horní Záhoří	99	1	0	M
+3104	550027	1	3	901	5	Václav	Hauser			56	vedoucí agrochemie	Horní Záhoří	99	80	0	M
+3104	550027	1	3	901	6	Jan	Kocourek			28	technik	Kašina Hora	99	80	0	M
+3104	550027	1	3	901	7	Zdeněk	Mára			49	invalidní důchodce	Jamný	99	80	0	M
+3104	550027	1	3	901	8	Václav	Hauser			32	vedoucí produktu	Horní Záhoří	99	80	0	M
+3104	550027	1	3	901	9	Helena	Šabková			39	prodavačka	Třešně	99	80	0	F

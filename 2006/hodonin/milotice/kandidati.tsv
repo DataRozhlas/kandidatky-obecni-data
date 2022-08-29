@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6205	586382	1	1	1	1	Ladislav	Lunga	M			43	vedoucí prodejny	Milotice	1	1	0
-6205	586382	1	1	1	2	Josef	Levek	M			44	učitel	Milotice	1	1	0
-6205	586382	1	1	1	3	Jaroslav	Neduchal	M			43	obchodní zástupce	Milotice	1	1	0
-6205	586382	1	1	1	4	Ivan	Kotásek	M			56	technik	Milotice	1	1	0
-6205	586382	1	1	1	5	Luboš	Novotný	M			49	řidič	Milotice	1	1	0
-6205	586382	1	1	1	6	Petr	Šrahulek	M			28	obchodní zástupce	Milotice	1	1	0
-6205	586382	1	1	1	7	Ladislava	Kristová	F			46	vedoucí pošty	Milotice	1	1	0
-6205	586382	1	1	1	8	Helena	Dřevěná	F			44	technik	Milotice	1	1	0
-6205	586382	1	1	1	9	Stanislav	Grufík	M			47	obchodní zástupce	Milotice	1	1	0
-6205	586382	1	2	47	1	Richard	Šeďa	M			50	místostarosta	Milotice	99	47	0
-6205	586382	1	2	47	2	Antonín	Blaha	M			55	zedník	Milotice	47	47	0
-6205	586382	1	2	47	3	Stanislav	Chludil	M			53	zámečník	Milotice	99	47	0
-6205	586382	1	2	47	4	Miloš	Šeďa	M			46	podnikatel	Milotice	47	47	0
-6205	586382	1	2	47	5	Petr	Polášek	M			49	údržbář	Milotice	47	47	0
-6205	586382	1	2	47	6	Anna	Stašková	F			52	zaměstnanec	Milotice	47	47	0
-6205	586382	1	3	901	1	Alena	Presová	F	Mgr.		52	starostka	Milotice	99	80	0
-6205	586382	1	3	901	2	Antonín	Krist	M			59	důchodce	Milotice	99	80	0
-6205	586382	1	3	901	3	Irena	Nedvědická	F			44	technička	Milotice	99	80	0
-6205	586382	1	3	901	4	Roman	Neduchal	M			32	údržbář	Milotice	99	80	0
-6205	586382	1	3	901	5	Martina	Běhulová	F			39	mistrová	Milotice	99	80	0
-6205	586382	1	3	901	6	Miroslava	Bočková	F			39	zástupkyně kastelána	Milotice	99	80	0
-6205	586382	1	3	901	7	Emil	Pavloušek	M			70	důchodce	Milotice	99	80	0
-6205	586382	1	3	901	8	Jitka	Ingrová	F	Mgr.		36	učitelka	Milotice	99	80	0
-6205	586382	1	3	901	9	Bedřich	Jurčeka	M	Ing		44	projektant	Milotice	99	80	0
-6205	586382	1	4	53	1	Jaroslav	Pražák	M	Ing.		55	podnikatel	Milotice	53	53	0
-6205	586382	1	4	53	2	Jaroslav	Novák	M			40	podnikatel	Milotice	53	53	0
-6205	586382	1	4	53	3	Danuše	Holešinská	F	MUDr.		50	zubní lékařka	Milotice	99	53	0
-6205	586382	1	4	53	4	Jarmila	Antošová	F	Bc.		44	státní úředník	Milotice	99	53	0
-6205	586382	1	4	53	5	František	Neduchal	M			51	truhlář	Milotice	99	53	0
-6205	586382	1	4	53	6	Josef	Kotásek	M			40	podnikatel	Milotice	53	53	0
-6205	586382	1	4	53	7	Marcela	Blahynková	F			41	podnikatel	Milotice	99	53	0
-6205	586382	1	4	53	8	Čestmír	Řihák	M			49	soukromý zemědělec	Milotice	53	53	0
-6205	586382	1	4	53	9	Michal	Vaněk	M	Ing		27	podnikatel	Milotice	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6205	586382	1	1	1	1	Ladislav	Lunga			43	vedoucí prodejny	Milotice	1	1	0	M
+6205	586382	1	2	47	1	Richard	Šeďa			50	místostarosta	Milotice	99	47	0	M
+6205	586382	1	3	901	1	Alena	Presová	Mgr.		52	starostka	Milotice	99	80	0	F
+6205	586382	1	4	53	1	Jaroslav	Pražák	Ing.		55	podnikatel	Milotice	53	53	0	M
+6205	586382	1	1	1	2	Josef	Levek			44	učitel	Milotice	1	1	0	M
+6205	586382	1	2	47	2	Antonín	Blaha			55	zedník	Milotice	47	47	0	M
+6205	586382	1	3	901	2	Antonín	Krist			59	důchodce	Milotice	99	80	0	M
+6205	586382	1	4	53	2	Jaroslav	Novák			40	podnikatel	Milotice	53	53	0	M
+6205	586382	1	1	1	3	Jaroslav	Neduchal			43	obchodní zástupce	Milotice	1	1	0	M
+6205	586382	1	2	47	3	Stanislav	Chludil			53	zámečník	Milotice	99	47	0	M
+6205	586382	1	3	901	3	Irena	Nedvědická			44	technička	Milotice	99	80	0	F
+6205	586382	1	4	53	3	Danuše	Holešinská	MUDr.		50	zubní lékařka	Milotice	99	53	0	F
+6205	586382	1	1	1	4	Ivan	Kotásek			56	technik	Milotice	1	1	0	M
+6205	586382	1	2	47	4	Miloš	Šeďa			46	podnikatel	Milotice	47	47	0	M
+6205	586382	1	3	901	4	Roman	Neduchal			32	údržbář	Milotice	99	80	0	M
+6205	586382	1	4	53	4	Jarmila	Antošová	Bc.		44	státní úředník	Milotice	99	53	0	F
+6205	586382	1	1	1	5	Luboš	Novotný			49	řidič	Milotice	1	1	0	M
+6205	586382	1	2	47	5	Petr	Polášek			49	údržbář	Milotice	47	47	0	M
+6205	586382	1	3	901	5	Martina	Běhulová			39	mistrová	Milotice	99	80	0	F
+6205	586382	1	4	53	5	František	Neduchal			51	truhlář	Milotice	99	53	0	M
+6205	586382	1	1	1	6	Petr	Šrahulek			28	obchodní zástupce	Milotice	1	1	0	M
+6205	586382	1	2	47	6	Anna	Stašková			52	zaměstnanec	Milotice	47	47	0	F
+6205	586382	1	3	901	6	Miroslava	Bočková			39	zástupkyně kastelána	Milotice	99	80	0	F
+6205	586382	1	4	53	6	Josef	Kotásek			40	podnikatel	Milotice	53	53	0	M
+6205	586382	1	1	1	7	Ladislava	Kristová			46	vedoucí pošty	Milotice	1	1	0	F
+6205	586382	1	3	901	7	Emil	Pavloušek			70	důchodce	Milotice	99	80	0	M
+6205	586382	1	4	53	7	Marcela	Blahynková			41	podnikatel	Milotice	99	53	0	F
+6205	586382	1	1	1	8	Helena	Dřevěná			44	technik	Milotice	1	1	0	F
+6205	586382	1	3	901	8	Jitka	Ingrová	Mgr.		36	učitelka	Milotice	99	80	0	F
+6205	586382	1	4	53	8	Čestmír	Řihák			49	soukromý zemědělec	Milotice	53	53	0	M
+6205	586382	1	1	1	9	Stanislav	Grufík			47	obchodní zástupce	Milotice	1	1	0	M
+6205	586382	1	3	901	9	Bedřich	Jurčeka	Ing		44	projektant	Milotice	99	80	0	M
+6205	586382	1	4	53	9	Michal	Vaněk	Ing		27	podnikatel	Milotice	99	53	0	M

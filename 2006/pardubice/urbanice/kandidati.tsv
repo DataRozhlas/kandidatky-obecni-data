@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5302	575917	1	1	902	1	Lenka	Jelínková	F			46	zdravotní sestra	Urbanice	99	80	0
-5302	575917	1	1	902	2	Milan	Nalezinek	M			39	řidič	Urbanice	99	80	0
-5302	575917	1	1	902	3	Ladislav	Kadlec	M			25	dělník	Urbanice	99	80	0
-5302	575917	1	1	902	4	Marcela	Nalezinková	F			45	dělnice	Urbanice	99	80	0
-5302	575917	1	1	902	5	Jana	Nováková	F			38	zdravotní sestra	Urbanice	99	80	0
-5302	575917	1	1	902	6	Jana	Jiráková	F			32	dělnice	Urbanice	99	80	0
-5302	575917	1	2	901	1	Jan	Vyčítal	M			48	mistr výroby	Urbanice	99	80	0
-5302	575917	1	2	901	2	Zdeněk	Karabec	M			64	důchodce	Urbanice	99	80	0
-5302	575917	1	2	901	3	Petr	Jelínek	M			38	dělník	Urbanice	99	80	0
-5302	575917	1	2	901	4	Marie	Rokytová	F			57	dělnice	Urbanice	99	80	0
-5302	575917	1	2	901	5	Vladimíra	Lichnovská	F			51	učitelka	Urbanice	99	80	0
-5302	575917	1	2	901	6	Jaroslava	Vyčítalová	F			47	ČID	Urbanice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5302	575917	1	1	902	1	Lenka	Jelínková			46	zdravotní sestra	Urbanice	99	80	0	F
+5302	575917	1	2	901	1	Jan	Vyčítal			48	mistr výroby	Urbanice	99	80	0	M
+5302	575917	1	1	902	2	Milan	Nalezinek			39	řidič	Urbanice	99	80	0	M
+5302	575917	1	2	901	2	Zdeněk	Karabec			64	důchodce	Urbanice	99	80	0	M
+5302	575917	1	1	902	3	Ladislav	Kadlec			25	dělník	Urbanice	99	80	0	M
+5302	575917	1	2	901	3	Petr	Jelínek			38	dělník	Urbanice	99	80	0	M
+5302	575917	1	1	902	4	Marcela	Nalezinková			45	dělnice	Urbanice	99	80	0	F
+5302	575917	1	2	901	4	Marie	Rokytová			57	dělnice	Urbanice	99	80	0	F
+5302	575917	1	1	902	5	Jana	Nováková			38	zdravotní sestra	Urbanice	99	80	0	F
+5302	575917	1	2	901	5	Vladimíra	Lichnovská			51	učitelka	Urbanice	99	80	0	F
+5302	575917	1	1	902	6	Jana	Jiráková			32	dělnice	Urbanice	99	80	0	F
+5302	575917	1	2	901	6	Jaroslava	Vyčítalová			47	ČID	Urbanice	99	80	0	F

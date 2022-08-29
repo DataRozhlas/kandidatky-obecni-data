@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5104	577219	1	1	902	1	Tomáš	Kyloušek	M			36	elektrikář	Sedmihorky	99	80	0
-5104	577219	1	1	902	2	Jiří	Drahoňovský	M			32	IT administrátor	Sedmihorky	99	80	0
-5104	577219	1	1	902	3	Petr	Bajer	M			48	podnikatel	Sedmihorky	99	80	0
-5104	577219	1	1	902	4	Petr	Šafář	M			36	hasič	Radvánovice	99	80	0
-5104	577219	1	1	902	5	Ondřej	Macháček	M			34	podnikatel	Radvánovice	99	80	0
-5104	577219	1	1	902	6	Vlasta	Špačková	F			57	úřednice	Radvánovice	99	80	0
-5104	577219	1	1	902	7	Václav	Richter	M			27	podnikatel	Roudný	99	80	0
-5104	577219	1	1	902	8	Martin	Volf	M			30	úředník	Radvánovice	99	80	0
-5104	577219	1	1	902	9	David	Šťastný	M	Ing.		35	konstruktér	Radvánovice	99	80	0
-5104	577219	1	1	902	10	Miroslav	Kobrle	M			53	zlatník	Sedmihorky	99	80	0
-5104	577219	1	1	902	11	Vítězslav	Hlubuček	M			47	podnikatel	Svatoňovice	99	80	0
-5104	577219	1	1	902	12	Lukáš	Pešta	M	Ing.		33	technik-přípravář	Radvánovice	99	80	0
-5104	577219	1	1	902	13	Alena	Cvrčková	F			52	úřednice	Radvánovice	99	80	0
-5104	577219	1	2	901	1	Jana	Segečová	F			58	důchodkyně	Svatoňovice	99	80	0
-5104	577219	1	2	901	2	Jana	Hájková	F	Bc.		27	obchodní referentka	Radvánovice	99	80	0
-5104	577219	1	2	901	3	Ondřej	Cvrček	M	Bc.		32	nákupčí	Radvánovice	99	80	0
-5104	577219	1	2	901	4	Olga	Richterová	F			58	skladnice	Roudný	99	80	0
-5104	577219	1	2	901	5	Ondřej	Havrda	M	Mgr.		35	středoškolský učitel	Sedmihorky	99	80	0
-5104	577219	1	2	901	6	Kamil	Krpata	M			62	důchodce	Karlovice	99	80	0
-5104	577219	1	2	901	7	Václav	Švejda	M	Ing.		33	konstruktér	Sedmihorky	99	80	0
-5104	577219	1	2	901	8	Josef	Machačný	M			65	důchodce	Sedmihorky	99	80	0
-5104	577219	1	2	901	9	Petr	Šafář	M			60	řidič	Sedmihorky	99	80	0
-5104	577219	1	2	901	10	Libor	Buchar	M		DiS.	29	podnikatel	Sedmihorky	99	80	0
-5104	577219	1	2	901	11	Jaroslava	Vítková	F			54	úřednice	Radvánovice	99	80	0
-5104	577219	1	2	901	12	Petr	Prokopec	M			47	nástrojař	Radvánovice	99	80	0
-5104	577219	1	2	901	13	Lubomír	Janků	M			38	podnikatel	Svatoňovice	99	80	0
-5104	577219	1	2	901	14	Jarmila	Šichová	F	Mgr.		52	učitelka	Radvánovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5104	577219	1	1	902	1	Tomáš	Kyloušek			36	elektrikář	Sedmihorky	99	80	0	M
+5104	577219	1	2	901	1	Jana	Segečová			58	důchodkyně	Svatoňovice	99	80	0	F
+5104	577219	1	1	902	2	Jiří	Drahoňovský			32	IT administrátor	Sedmihorky	99	80	0	M
+5104	577219	1	2	901	2	Jana	Hájková	Bc.		27	obchodní referentka	Radvánovice	99	80	0	F
+5104	577219	1	1	902	3	Petr	Bajer			48	podnikatel	Sedmihorky	99	80	0	M
+5104	577219	1	2	901	3	Ondřej	Cvrček	Bc.		32	nákupčí	Radvánovice	99	80	0	M
+5104	577219	1	1	902	4	Petr	Šafář			36	hasič	Radvánovice	99	80	0	M
+5104	577219	1	2	901	4	Olga	Richterová			58	skladnice	Roudný	99	80	0	F
+5104	577219	1	1	902	5	Ondřej	Macháček			34	podnikatel	Radvánovice	99	80	0	M
+5104	577219	1	2	901	5	Ondřej	Havrda	Mgr.		35	středoškolský učitel	Sedmihorky	99	80	0	M
+5104	577219	1	1	902	6	Vlasta	Špačková			57	úřednice	Radvánovice	99	80	0	F
+5104	577219	1	2	901	6	Kamil	Krpata			62	důchodce	Karlovice	99	80	0	M
+5104	577219	1	1	902	7	Václav	Richter			27	podnikatel	Roudný	99	80	0	M
+5104	577219	1	2	901	7	Václav	Švejda	Ing.		33	konstruktér	Sedmihorky	99	80	0	M
+5104	577219	1	1	902	8	Martin	Volf			30	úředník	Radvánovice	99	80	0	M
+5104	577219	1	2	901	8	Josef	Machačný			65	důchodce	Sedmihorky	99	80	0	M
+5104	577219	1	1	902	9	David	Šťastný	Ing.		35	konstruktér	Radvánovice	99	80	0	M
+5104	577219	1	2	901	9	Petr	Šafář			60	řidič	Sedmihorky	99	80	0	M
+5104	577219	1	1	902	10	Miroslav	Kobrle			53	zlatník	Sedmihorky	99	80	0	M
+5104	577219	1	2	901	10	Libor	Buchar		DiS.	29	podnikatel	Sedmihorky	99	80	0	M
+5104	577219	1	1	902	11	Vítězslav	Hlubuček			47	podnikatel	Svatoňovice	99	80	0	M
+5104	577219	1	2	901	11	Jaroslava	Vítková			54	úřednice	Radvánovice	99	80	0	F
+5104	577219	1	1	902	12	Lukáš	Pešta	Ing.		33	technik-přípravář	Radvánovice	99	80	0	M
+5104	577219	1	2	901	12	Petr	Prokopec			47	nástrojař	Radvánovice	99	80	0	M
+5104	577219	1	1	902	13	Alena	Cvrčková			52	úřednice	Radvánovice	99	80	0	F
+5104	577219	1	2	901	13	Lubomír	Janků			38	podnikatel	Svatoňovice	99	80	0	M
+5104	577219	1	2	901	14	Jarmila	Šichová	Mgr.		52	učitelka	Radvánovice	99	80	0	F

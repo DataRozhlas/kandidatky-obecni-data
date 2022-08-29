@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6103	548383	1	1	803	1	Radek	Sadský	M			37	zedník	Záhoří	99	80	0
-6103	548383	1	2	802	1	Josef	Machek	M	Ing.		28	stavební inženýr - technik	Mladé Bříště	99	80	0
-6103	548383	1	3	801	1	Jan	Čech	M	Mgr.		32	farmaceutický reprezentant	Hojkovy	99	80	0
-6103	548383	1	4	804	1	Iva	Jilichová	F			30	dělník	Mladé Bříště	99	80	0
-6103	548383	1	5	810	1	Monika	Koubková	F			28	asistentka	Mladé Bříště	99	80	0
-6103	548383	1	6	809	1	Jaroslav	Vácha	M			37	dělník	Záhoří	99	80	0
-6103	548383	1	7	808	1	Zdeněk	Čada	M			49	OSVČ	Záhoří	99	80	0
-6103	548383	1	8	805	1	Vladimír	Jilich	M			56	dělník	Mladé Bříště	99	80	0
-6103	548383	1	9	806	1	Václav	Bambas	M			59	technik ZD	Záhoří	99	80	0
-6103	548383	1	10	807	1	Patrik	Sukdolák	M			38	učitel ČZA	Mladé Bříště	99	80	0
-6103	548383	1	11	815	1	Jaroslav	Klikar	M			29	ekonom	Mladé Bříště	99	80	0
-6103	548383	1	12	814	1	Pavel	Vytiska	M			46	opravář	Mladé Bříště	99	80	0
-6103	548383	1	13	813	1	Jan	Rozkovec	M			32	ekonom	Mladé Bříště	99	80	0
-6103	548383	1	14	812	1	Pavel	Kepka	M			47	operátor CNC	Mladé Bříště	99	80	0
-6103	548383	1	15	820	1	David	Hruška	M			33	drobný podnikatel	Mladé Bříště	99	80	0
-6103	548383	1	16	816	1	Helena	Horáčková	F			35	úřednice	Mladé Bříště	99	80	0
-6103	548383	1	17	819	1	Milan	Kotrč	M			28	dělník	Hojkovy	99	80	0
-6103	548383	1	18	811	1	Miloslava	Kaněrová	F			55	důchodce	Mladé Bříště	99	80	0
-6103	548383	1	19	821	1	Zdeňka	Augustová	F			37	úřednice	Mladé Bříště	99	80	0
-6103	548383	1	20	818	1	Helena	Mihulková	F			38	mzdová účetní	Mladé Bříště	99	80	0
-6103	548383	1	21	817	1	Jiří	Koubek	M			45	školník	Mladé Bříště	99	80	0
-6103	548383	1	22	822	1	Pavel	Horáček	M	Ing.		42	IT - specialista	Mladé Bříště	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6103	548383	1	1	803	1	Radek	Sadský			37	zedník	Záhoří	99	80	0	M
+6103	548383	1	2	802	1	Josef	Machek	Ing.		28	stavební inženýr - technik	Mladé Bříště	99	80	0	M
+6103	548383	1	3	801	1	Jan	Čech	Mgr.		32	farmaceutický reprezentant	Hojkovy	99	80	0	M
+6103	548383	1	4	804	1	Iva	Jilichová			30	dělník	Mladé Bříště	99	80	0	F
+6103	548383	1	5	810	1	Monika	Koubková			28	asistentka	Mladé Bříště	99	80	0	F
+6103	548383	1	6	809	1	Jaroslav	Vácha			37	dělník	Záhoří	99	80	0	M
+6103	548383	1	7	808	1	Zdeněk	Čada			49	OSVČ	Záhoří	99	80	0	M
+6103	548383	1	8	805	1	Vladimír	Jilich			56	dělník	Mladé Bříště	99	80	0	M
+6103	548383	1	9	806	1	Václav	Bambas			59	technik ZD	Záhoří	99	80	0	M
+6103	548383	1	10	807	1	Patrik	Sukdolák			38	učitel ČZA	Mladé Bříště	99	80	0	M
+6103	548383	1	11	815	1	Jaroslav	Klikar			29	ekonom	Mladé Bříště	99	80	0	M
+6103	548383	1	12	814	1	Pavel	Vytiska			46	opravář	Mladé Bříště	99	80	0	M
+6103	548383	1	13	813	1	Jan	Rozkovec			32	ekonom	Mladé Bříště	99	80	0	M
+6103	548383	1	14	812	1	Pavel	Kepka			47	operátor CNC	Mladé Bříště	99	80	0	M
+6103	548383	1	15	820	1	David	Hruška			33	drobný podnikatel	Mladé Bříště	99	80	0	M
+6103	548383	1	16	816	1	Helena	Horáčková			35	úřednice	Mladé Bříště	99	80	0	F
+6103	548383	1	17	819	1	Milan	Kotrč			28	dělník	Hojkovy	99	80	0	M
+6103	548383	1	18	811	1	Miloslava	Kaněrová			55	důchodce	Mladé Bříště	99	80	0	F
+6103	548383	1	19	821	1	Zdeňka	Augustová			37	úřednice	Mladé Bříště	99	80	0	F
+6103	548383	1	20	818	1	Helena	Mihulková			38	mzdová účetní	Mladé Bříště	99	80	0	F
+6103	548383	1	21	817	1	Jiří	Koubek			45	školník	Mladé Bříště	99	80	0	M
+6103	548383	1	22	822	1	Pavel	Horáček	Ing.		42	IT - specialista	Mladé Bříště	99	80	0	M

@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5302	575704	1	1	167	1	Pavel	Vrátil	M			58	starosta	Staré Hradiště	99	167	0
-5302	575704	1	1	167	2	Olga	Zelinková	F			52	místostarostka	Hradiště na Písku	99	167	0
-5302	575704	1	1	167	3	Oldřich	Burda	M			58	invalidní důchodce	Brozany	99	167	0
-5302	575704	1	1	167	4	Pavel	Blažek	M			61	elektromechanik	Staré Hradiště	99	167	0
-5302	575704	1	1	167	5	Šárka	Jacková	F			43	manager	Staré Hradiště	99	167	0
-5302	575704	1	1	167	6	Josef	Teplý	M			49	mistr odborného výcviku	Staré Hradiště	99	167	0
-5302	575704	1	1	167	7	Milan	Kršík	M			58	dělník	Staré Hradiště	99	167	0
-5302	575704	1	1	167	8	Petr	Mára	M			45	technik	Hradiště na Písku	99	167	0
-5302	575704	1	1	167	9	Vít	Maxa	M			44	strojní zámečník	Staré Hradiště	99	167	0
-5302	575704	1	1	167	10	Jiří	Píša	M			40	technik	Staré Hradiště	99	167	0
-5302	575704	1	1	167	11	Liběna	Sýkorová	F			47	manipulantka	Staré Hradiště	99	167	0
-5302	575704	1	1	167	12	Jaroslav	Štěpánek	M			50	živnostník	Brozany	99	167	0
-5302	575704	1	1	167	13	Vladimír	Hlaváček	M			55	technik	Staré Hradiště	99	167	0
-5302	575704	1	1	167	14	Hana	Straková	F		DiS.	25	referentka	Brozany	99	167	0
-5302	575704	1	1	167	15	Lukáš	Macek	M			24	student	Staré Hradiště	99	167	0
-5302	575704	1	2	901	1	Miroslav	Čepčář	M	Ing.		52	středoškolský učitel	Staré Hradiště	99	80	0
-5302	575704	1	2	901	2	Lubomír	Vondra	M			46	zaměstnanec Explosia a.s.	Brozany	99	80	0
-5302	575704	1	2	901	3	Václav	Janovský	M			37	mechanik	Hradiště na Písku	99	80	0
-5302	575704	1	2	901	4	Jiří	Mokošín	M	Ing.		48	technik Energetiky Synthesia	Staré Hradiště	99	80	0
-5302	575704	1	2	901	5	Stanislav	Poddaný	M			49	osoba samostatně výděl. činná	Staré Hradiště	99	80	0
-5302	575704	1	2	901	6	Eva	Škodová	F	Mgr.		50	školní inspektorka	Staré Hradiště	99	80	0
-5302	575704	1	2	901	7	Josef	Malíř	M			48	řidič	Brozany	99	80	0
-5302	575704	1	2	901	8	Dana	Králíková	F			48	osoba samostatně výděl. činná	Staré Hradiště	99	80	0
-5302	575704	1	2	901	9	Hana	Niklová	F			42	účetní	Hradiště na Písku	99	80	0
-5302	575704	1	2	901	10	Jaroslav	Kopal	M			45	svářeč	Staré Hradiště	99	80	0
-5302	575704	1	2	901	11	Josef	Koníř	M			46	údržbář	Staré Hradiště	99	80	0
-5302	575704	1	2	901	12	Jaroslava	Holomková	F			52	elektromechanička	Brozany	99	80	0
-5302	575704	1	2	901	13	František	Flégr	M			23	manager prodeje	Staré Hradiště	99	80	0
-5302	575704	1	2	901	14	Jaroslav	Štěpánek	M			49	osoba samostatně výděl. činná	Staré Hradiště	99	80	0
-5302	575704	1	2	901	15	Romana	Sedláčková	F			28	mateřská dovolená	Hradiště na Písku	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5302	575704	1	1	167	1	Pavel	Vrátil			58	starosta	Staré Hradiště	99	167	0	M
+5302	575704	1	2	901	1	Miroslav	Čepčář	Ing.		52	středoškolský učitel	Staré Hradiště	99	80	0	M
+5302	575704	1	1	167	2	Olga	Zelinková			52	místostarostka	Hradiště na Písku	99	167	0	F
+5302	575704	1	2	901	2	Lubomír	Vondra			46	zaměstnanec Explosia a.s.	Brozany	99	80	0	M
+5302	575704	1	1	167	3	Oldřich	Burda			58	invalidní důchodce	Brozany	99	167	0	M
+5302	575704	1	2	901	3	Václav	Janovský			37	mechanik	Hradiště na Písku	99	80	0	M
+5302	575704	1	1	167	4	Pavel	Blažek			61	elektromechanik	Staré Hradiště	99	167	0	M
+5302	575704	1	2	901	4	Jiří	Mokošín	Ing.		48	technik Energetiky Synthesia	Staré Hradiště	99	80	0	M
+5302	575704	1	1	167	5	Šárka	Jacková			43	manager	Staré Hradiště	99	167	0	F
+5302	575704	1	2	901	5	Stanislav	Poddaný			49	osoba samostatně výděl. činná	Staré Hradiště	99	80	0	M
+5302	575704	1	1	167	6	Josef	Teplý			49	mistr odborného výcviku	Staré Hradiště	99	167	0	M
+5302	575704	1	2	901	6	Eva	Škodová	Mgr.		50	školní inspektorka	Staré Hradiště	99	80	0	F
+5302	575704	1	1	167	7	Milan	Kršík			58	dělník	Staré Hradiště	99	167	0	M
+5302	575704	1	2	901	7	Josef	Malíř			48	řidič	Brozany	99	80	0	M
+5302	575704	1	1	167	8	Petr	Mára			45	technik	Hradiště na Písku	99	167	0	M
+5302	575704	1	2	901	8	Dana	Králíková			48	osoba samostatně výděl. činná	Staré Hradiště	99	80	0	F
+5302	575704	1	1	167	9	Vít	Maxa			44	strojní zámečník	Staré Hradiště	99	167	0	M
+5302	575704	1	2	901	9	Hana	Niklová			42	účetní	Hradiště na Písku	99	80	0	F
+5302	575704	1	1	167	10	Jiří	Píša			40	technik	Staré Hradiště	99	167	0	M
+5302	575704	1	2	901	10	Jaroslav	Kopal			45	svářeč	Staré Hradiště	99	80	0	M
+5302	575704	1	1	167	11	Liběna	Sýkorová			47	manipulantka	Staré Hradiště	99	167	0	F
+5302	575704	1	2	901	11	Josef	Koníř			46	údržbář	Staré Hradiště	99	80	0	M
+5302	575704	1	1	167	12	Jaroslav	Štěpánek			50	živnostník	Brozany	99	167	0	M
+5302	575704	1	2	901	12	Jaroslava	Holomková			52	elektromechanička	Brozany	99	80	0	F
+5302	575704	1	1	167	13	Vladimír	Hlaváček			55	technik	Staré Hradiště	99	167	0	M
+5302	575704	1	2	901	13	František	Flégr			23	manager prodeje	Staré Hradiště	99	80	0	M
+5302	575704	1	1	167	14	Hana	Straková		DiS.	25	referentka	Brozany	99	167	0	F
+5302	575704	1	2	901	14	Jaroslav	Štěpánek			49	osoba samostatně výděl. činná	Staré Hradiště	99	80	0	M
+5302	575704	1	1	167	15	Lukáš	Macek			24	student	Staré Hradiště	99	167	0	M
+5302	575704	1	2	901	15	Romana	Sedláčková			28	mateřská dovolená	Hradiště na Písku	99	80	0	F

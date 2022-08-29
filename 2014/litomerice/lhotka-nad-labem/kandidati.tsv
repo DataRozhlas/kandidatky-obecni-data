@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	565113	1	1	901	1	Roman	Krch	M			44	živnostník	Lhotka nad Labem	99	80	0
-4203	565113	1	1	901	2	Jitka	Limberková	F			42	ekonomka	Lhotka nad Labem	99	80	0
-4203	565113	1	1	901	3	Josef	Nedorost	M	Bc.		34	ředitel nákupu a logistiky	Lhotka nad Labem	99	80	0
-4203	565113	1	1	901	4	Jiří	Procházka	M			60	předák údržby	Lhotka nad Labem	99	80	0
-4203	565113	1	1	901	5	Radomíra	Benešová	F	Mgr.		46	učitelka	Lhotka nad Labem	99	80	0
-4203	565113	1	1	901	6	Jaroslav	Kopejtko	M			50	operátor	Lhotka nad Labem	99	80	0
-4203	565113	1	1	901	7	Ladislav	Gabriel	M			56	důchodce	Lhotka nad Labem	99	80	0
-4203	565113	1	2	470	1	Arnošt	Řehánek	M			55	dělník	Lhotka nad Labem	99	166	0
-4203	565113	1	2	470	2	Marcel	Metayer	M			40	OSVČ - revizní technik elektro	Lhotka nad Labem	99	166	0
-4203	565113	1	2	470	3	Marek	Šilhart	M	Mgr.		41	interní auditor	Lhotka nad Labem	99	166	0
-4203	565113	1	2	470	4	Helena	Černá	F			63	důchodce	Lhotka nad Labem	99	80	0
-4203	565113	1	2	470	5	Martin	Švarc	M			42	řidič	Lhotka nad Labem	99	166	0
-4203	565113	1	2	470	6	Martin	Toušek	M			39	dělník	Lhotka nad Labem	99	80	0
-4203	565113	1	2	470	7	Jaroslava	Čapková	F			69	důchodce	Lhotka nad Labem	99	80	0
-4203	565113	1	2	470	8	František	Čubík	M			62	dělník	Lhotka nad Labem	99	80	0
-4203	565113	1	2	470	9	Milan	Veselý	M			41	dělník	Lhotka nad Labem	99	80	0
-4203	565113	1	3	902	1	Jaroslav	Pošva	M	Mgr.		70	důchodce	Lhotka nad Labem	99	80	0
-4203	565113	1	3	902	2	Miloslav	Toušek	M			64	důchodce	Lhotka nad Labem	99	80	0
-4203	565113	1	3	902	3	Oldřich	Kaizrlík	M	Ing.		51	stát. zam.	Lhotka nad Labem	99	80	0
-4203	565113	1	3	902	4	Ladislav	Hanzlík	M			73	důchodce	Lhotka nad Labem	99	80	0
-4203	565113	1	3	902	5	Zdeňka	Šindlerová	F			47	důchodce	Lhotka nad Labem	99	80	0
-4203	565113	1	3	902	6	Stanislava	Toušková	F			60	důchodce	Lhotka nad Labem	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	565113	1	1	901	1	Roman	Krch			44	živnostník	Lhotka nad Labem	99	80	0	M
+4203	565113	1	2	470	1	Arnošt	Řehánek			55	dělník	Lhotka nad Labem	99	166	0	M
+4203	565113	1	3	902	1	Jaroslav	Pošva	Mgr.		70	důchodce	Lhotka nad Labem	99	80	0	M
+4203	565113	1	1	901	2	Jitka	Limberková			42	ekonomka	Lhotka nad Labem	99	80	0	F
+4203	565113	1	2	470	2	Marcel	Metayer			40	OSVČ - revizní technik elektro	Lhotka nad Labem	99	166	0	M
+4203	565113	1	3	902	2	Miloslav	Toušek			64	důchodce	Lhotka nad Labem	99	80	0	M
+4203	565113	1	1	901	3	Josef	Nedorost	Bc.		34	ředitel nákupu a logistiky	Lhotka nad Labem	99	80	0	M
+4203	565113	1	2	470	3	Marek	Šilhart	Mgr.		41	interní auditor	Lhotka nad Labem	99	166	0	M
+4203	565113	1	3	902	3	Oldřich	Kaizrlík	Ing.		51	stát. zam.	Lhotka nad Labem	99	80	0	M
+4203	565113	1	1	901	4	Jiří	Procházka			60	předák údržby	Lhotka nad Labem	99	80	0	M
+4203	565113	1	2	470	4	Helena	Černá			63	důchodce	Lhotka nad Labem	99	80	0	F
+4203	565113	1	3	902	4	Ladislav	Hanzlík			73	důchodce	Lhotka nad Labem	99	80	0	M
+4203	565113	1	1	901	5	Radomíra	Benešová	Mgr.		46	učitelka	Lhotka nad Labem	99	80	0	F
+4203	565113	1	2	470	5	Martin	Švarc			42	řidič	Lhotka nad Labem	99	166	0	M
+4203	565113	1	3	902	5	Zdeňka	Šindlerová			47	důchodce	Lhotka nad Labem	99	80	0	F
+4203	565113	1	1	901	6	Jaroslav	Kopejtko			50	operátor	Lhotka nad Labem	99	80	0	M
+4203	565113	1	2	470	6	Martin	Toušek			39	dělník	Lhotka nad Labem	99	80	0	M
+4203	565113	1	3	902	6	Stanislava	Toušková			60	důchodce	Lhotka nad Labem	99	80	0	F
+4203	565113	1	1	901	7	Ladislav	Gabriel			56	důchodce	Lhotka nad Labem	99	80	0	M
+4203	565113	1	2	470	7	Jaroslava	Čapková			69	důchodce	Lhotka nad Labem	99	80	0	F
+4203	565113	1	2	470	8	František	Čubík			62	dělník	Lhotka nad Labem	99	80	0	M
+4203	565113	1	2	470	9	Milan	Veselý			41	dělník	Lhotka nad Labem	99	80	0	M

@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4201	544647	1	1	903	1	Petruše	Zahradníková	F			51	vedoucí pošty	Bynovec	99	80	A
-4201	544647	1	1	903	2	Ladislav	Hruška	M			46	podnikatel	Bynovec	99	80	A
-4201	544647	1	1	903	3	Richard	Svoboda	M			47	podnikatel	Bynovec	99	80	A
-4201	544647	1	1	903	4	Jaroslav	Křenek	M			60	dělník, řidič	Bynovec	99	80	A
-4201	544647	1	1	903	5	Marcela	Trojanová	F			65	elektromechanik	Bynovec	99	80	A
-4201	544647	1	1	903	6	Martin	Pekař	M			40	řidič	Bynovec	99	80	A
-4201	544647	1	1	903	7	Jitka	Hladká	F			45	personalistka mzdová účetní	Bynovec	99	80	A
-4201	544647	1	1	903	8	Michaela	Srbová	F			24	učitelka v MŠ	Bynovec	99	80	A
-4201	544647	1	1	903	9	Stanislav	Steiner	M			20	student	Bynovec	99	80	A
-4201	544647	1	2	901	1	Jaroslav	Kubíček	M	Ing.		66	důchodce	Bynovec	99	80	A
-4201	544647	1	2	901	2	Ladislav	Hajn	M			49	technik	Bynovec	99	80	A
-4201	544647	1	2	901	3	Rostislav	Slánský	M			27	OSVČ	Bynovec	99	80	A
-4201	544647	1	2	901	4	Zdeněk	Fryč	M			29	technik, kormidelník	Bynovec	99	80	A
-4201	544647	1	2	901	5	Hana	Kejzlarová	F			63	důchodce	Bynovec	99	80	A
-4201	544647	1	2	901	6	Marian	Kurus	M			46	technik telekomunikací	Bynovec	99	80	A
-4201	544647	1	2	901	7	Jaroslav	Štefaniák	M			58	technik	Bynovec	99	80	A
-4201	544647	1	2	901	8	Radomír	Kejř	M	Ing.		67	důchodce	Bynovec	99	80	A
-4201	544647	1	2	901	9	Jan	Matějka	M			45	směnový operátor	Bynovec	99	80	A
-4201	544647	1	3	902	1	Zdeněk	Opavský	M			45	OSVČ	Bynovec	99	80	A
-4201	544647	1	3	902	2	Oldřiška	Znamínková	F			49	bankovní úředník	Bynovec	99	80	A
-4201	544647	1	3	902	3	Aleš	Kofroň	M			40	OSVČ	Bynovec	99	80	A
-4201	544647	1	3	902	4	Renata	Fryčová	F			27	manažerka	Bynovec	99	80	A
-4201	544647	1	3	902	5	Tomáš	Kuchyňa	M			49	úklidový pracovník	Bynovec	99	80	A
-4201	544647	1	3	902	6	Bohumil	Rýdl	M			44	OSVČ	Bynovec	99	80	A
-4201	544647	1	3	902	7	Tomáš	Koloc	M			25	skladník	Bynovec	99	80	A
-4201	544647	1	3	902	8	Petr	Štěpnička	M			28	skladník	Bynovec	99	80	A
-4201	544647	1	3	902	9	Stanislav	Zelingr	M			41	technik	Bynovec	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4201	544647	1	1	903	1	Petruše	Zahradníková			51	vedoucí pošty	Bynovec	99	80	A	F
+4201	544647	1	2	901	1	Jaroslav	Kubíček	Ing.		66	důchodce	Bynovec	99	80	A	M
+4201	544647	1	3	902	1	Zdeněk	Opavský			45	OSVČ	Bynovec	99	80	A	M
+4201	544647	1	1	903	2	Ladislav	Hruška			46	podnikatel	Bynovec	99	80	A	M
+4201	544647	1	2	901	2	Ladislav	Hajn			49	technik	Bynovec	99	80	A	M
+4201	544647	1	3	902	2	Oldřiška	Znamínková			49	bankovní úředník	Bynovec	99	80	A	F
+4201	544647	1	1	903	3	Richard	Svoboda			47	podnikatel	Bynovec	99	80	A	M
+4201	544647	1	2	901	3	Rostislav	Slánský			27	OSVČ	Bynovec	99	80	A	M
+4201	544647	1	3	902	3	Aleš	Kofroň			40	OSVČ	Bynovec	99	80	A	M
+4201	544647	1	1	903	4	Jaroslav	Křenek			60	dělník, řidič	Bynovec	99	80	A	M
+4201	544647	1	2	901	4	Zdeněk	Fryč			29	technik, kormidelník	Bynovec	99	80	A	M
+4201	544647	1	3	902	4	Renata	Fryčová			27	manažerka	Bynovec	99	80	A	F
+4201	544647	1	1	903	5	Marcela	Trojanová			65	elektromechanik	Bynovec	99	80	A	F
+4201	544647	1	2	901	5	Hana	Kejzlarová			63	důchodce	Bynovec	99	80	A	F
+4201	544647	1	3	902	5	Tomáš	Kuchyňa			49	úklidový pracovník	Bynovec	99	80	A	M
+4201	544647	1	1	903	6	Martin	Pekař			40	řidič	Bynovec	99	80	A	M
+4201	544647	1	2	901	6	Marian	Kurus			46	technik telekomunikací	Bynovec	99	80	A	M
+4201	544647	1	3	902	6	Bohumil	Rýdl			44	OSVČ	Bynovec	99	80	A	M
+4201	544647	1	1	903	7	Jitka	Hladká			45	personalistka mzdová účetní	Bynovec	99	80	A	F
+4201	544647	1	2	901	7	Jaroslav	Štefaniák			58	technik	Bynovec	99	80	A	M
+4201	544647	1	3	902	7	Tomáš	Koloc			25	skladník	Bynovec	99	80	A	M
+4201	544647	1	1	903	8	Michaela	Srbová			24	učitelka v MŠ	Bynovec	99	80	A	F
+4201	544647	1	2	901	8	Radomír	Kejř	Ing.		67	důchodce	Bynovec	99	80	A	M
+4201	544647	1	3	902	8	Petr	Štěpnička			28	skladník	Bynovec	99	80	A	M
+4201	544647	1	1	903	9	Stanislav	Steiner			20	student	Bynovec	99	80	A	M
+4201	544647	1	2	901	9	Jan	Matějka			45	směnový operátor	Bynovec	99	80	A	M
+4201	544647	1	3	902	9	Stanislav	Zelingr			41	technik	Bynovec	99	80	A	M

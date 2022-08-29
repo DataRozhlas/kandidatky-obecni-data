@@ -1,9 +1,9 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	535401	1	1	804	1	Jaroslav	Korbel	M			21	student	Bošilec	99	80	1
-3101	535401	1	2	806	1	Pavel	Stix	M			46	elektromechanik	Bošilec	99	80	0
-3101	535401	1	3	802	1	František	Drs	M			58	podnikatel	Bošilec	99	80	0
-3101	535401	1	4	801	1	Dagmar	Valešová	F			43	obchodní zástupce	Bošilec	99	80	0
-3101	535401	1	5	803	1	Pavel	Štěcha	M			50	noční hlídač	Bošilec	99	80	0
-3101	535401	1	6	808	1	Monika	Malechová	F			40	podnikatelka	Bošilec	99	80	0
-3101	535401	1	7	807	1	Dana	Valešová	F			32	referent odbytu	Bošilec	99	80	0
-3101	535401	1	8	805	1	Josef	Kozel	M			36	řezník	Bošilec	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	535401	1	1	804	1	Jaroslav	Korbel			21	student	Bošilec	99	80	1	M
+3101	535401	1	2	806	1	Pavel	Stix			46	elektromechanik	Bošilec	99	80	0	M
+3101	535401	1	3	802	1	František	Drs			58	podnikatel	Bošilec	99	80	0	M
+3101	535401	1	4	801	1	Dagmar	Valešová			43	obchodní zástupce	Bošilec	99	80	0	F
+3101	535401	1	5	803	1	Pavel	Štěcha			50	noční hlídač	Bošilec	99	80	0	M
+3101	535401	1	6	808	1	Monika	Malechová			40	podnikatelka	Bošilec	99	80	0	F
+3101	535401	1	7	807	1	Dana	Valešová			32	referent odbytu	Bošilec	99	80	0	F
+3101	535401	1	8	805	1	Josef	Kozel			36	řezník	Bošilec	99	80	0	M

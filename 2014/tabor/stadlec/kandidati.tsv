@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3107	553140	1	1	470	1	Milan	Kelich	M	Ing.		44	starosta městyse Stádlec	Stádlec	99	166	0
-3107	553140	1	1	470	2	Pavel	Doubek	M	Ing.		34	jednatel společnosti	Slavňovice	99	80	0
-3107	553140	1	1	470	3	Jiří	Süsmilich	M			41	automechanik	Stádlec	99	80	0
-3107	553140	1	1	470	4	Miluše	Némethová	F			62	důchodkyně	Stádlec	99	80	0
-3107	553140	1	1	470	5	Jana	Nová	F	Bc.		42	zdravotní sestra	Křída	99	80	0
-3107	553140	1	1	470	6	Eva	Švadlenová	F			59	terapeutka	Stádlec	99	80	0
-3107	553140	1	1	470	7	Roman	Buchcar	M			41	státní zaměstnanec	Stádlec	99	80	0
-3107	553140	1	1	470	8	Petr	Fuka	M	Ing.		32	OSVČ	Stádlec	99	80	0
-3107	553140	1	1	470	9	Patrik	Andráš	M			22	finanční poradce	Stádlec	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3107	553140	1	1	470	1	Milan	Kelich	Ing.		44	starosta městyse Stádlec	Stádlec	99	166	0	M
+3107	553140	1	1	470	2	Pavel	Doubek	Ing.		34	jednatel společnosti	Slavňovice	99	80	0	M
+3107	553140	1	1	470	3	Jiří	Süsmilich			41	automechanik	Stádlec	99	80	0	M
+3107	553140	1	1	470	4	Miluše	Némethová			62	důchodkyně	Stádlec	99	80	0	F
+3107	553140	1	1	470	5	Jana	Nová	Bc.		42	zdravotní sestra	Křída	99	80	0	F
+3107	553140	1	1	470	6	Eva	Švadlenová			59	terapeutka	Stádlec	99	80	0	F
+3107	553140	1	1	470	7	Roman	Buchcar			41	státní zaměstnanec	Stádlec	99	80	0	M
+3107	553140	1	1	470	8	Petr	Fuka	Ing.		32	OSVČ	Stádlec	99	80	0	M
+3107	553140	1	1	470	9	Patrik	Andráš			22	finanční poradce	Stádlec	99	80	0	M

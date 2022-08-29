@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	571610	1	1	901	1	Václav	Pravda	M	Ing.		69	důchodce	Kočí	99	80	0
-5301	571610	1	1	901	2	Otakar	Krušina	M			57	zámečník	Kočí	99	80	0
-5301	571610	1	1	901	3	Pavel	Dostál	M			48	řidič nákladní autodopravy	Kočí	99	80	0
-5301	571610	1	1	901	4	Miroslav	Pavlík	M			60	elektrotechnik	Kočí	99	80	0
-5301	571610	1	1	901	5	Jana	Perničková	F			65	důchodkyně	Kočí	99	80	0
-5301	571610	1	1	901	6	Jaroslav	Hladík	M			28	stavební technik	Kočí	99	80	0
-5301	571610	1	1	901	7	Marcel	Havránek	M			23	stavební technik	Kočí	99	80	0
-5301	571610	1	2	905	1	Jana	Brőcklová	F			49	účetní	Kočí	99	80	0
-5301	571610	1	2	905	2	Pavel	Pavlas	M			29	soukromý podnikatel	Kočí	99	80	0
-5301	571610	1	2	905	3	Petr	Brunclík	M			42	soukromý podnikatel	Kočí	99	80	0
-5301	571610	1	2	905	4	Jaroslava	Škarydová	F			48	mzdová účetní	Kočí	99	80	0
-5301	571610	1	2	905	5	Martina	Paulusová	F			44	zdravotní sestra	Kočí	99	80	0
-5301	571610	1	2	905	6	Dana	Pavlasová	F			58	soukromá podnikatelka	Kočí	99	80	0
-5301	571610	1	2	905	7	Václav	Kopecký	M	Ing.		60	správce IT	Kočí	99	80	0
-5301	571610	1	2	905	8	Josef	Zdražil	M			25	pokladník	Kočí	99	80	0
-5301	571610	1	3	904	1	Iveta	Mrázková	F	Bc.	DiS.	48	výhradní pojišťovací agent Kooperativa, a.s.	Kočí	99	80	0
-5301	571610	1	3	904	2	Kateřina	Krátká	F	Bc.		23	studentka	Kočí	99	80	0
-5301	571610	1	3	904	3	Tomáš	Brunclík	M			38	OSVČ	Kočí	99	80	0
-5301	571610	1	3	904	4	Roman	Pavlas	M			29	kuchař	Kočí	99	80	0
-5301	571610	1	3	904	5	Lucie	Hnátová	F			37	vedoucí vychovatelka ZŠ Dr. J. Malíka	Kočí	99	80	0
-5301	571610	1	3	904	6	Marie	Horáková	F	Mgr.		58	učitelka	Kočí	99	80	0
-5301	571610	1	3	904	7	Pavel	Tetřev	M			47	vedoucí směny	Kočí	99	80	0
-5301	571610	1	4	902	1	Vladimír	Dostál	M			57	soustružník	Kočí	99	80	0
-5301	571610	1	4	902	2	Jan	Bakeš	M			52	ostraha	Kočí	99	80	0
-5301	571610	1	4	902	3	Michal	Mánik	M			28	dělník	Kočí	99	80	0
-5301	571610	1	4	902	4	Liběna	Kopecká	F			57	pojišťovací poradce	Kočí	99	80	0
-5301	571610	1	4	902	5	Renata	Fantlová	F			45	ředitelka	Kočí	99	80	0
-5301	571610	1	4	902	6	Jiří	Urválek	M			39	soukromý podnikatel	Kočí	99	80	0
-5301	571610	1	4	902	7	Jaroslav	Kacafírek	M			30	truhlář	Kočí	99	80	0
-5301	571610	1	5	903	1	Jiří	Šeda	M	Ing.		31	konstruktér	Kočí	99	80	0
-5301	571610	1	5	903	2	Luděk	Štěpánek	M			45	řidič	Kočí	99	80	0
-5301	571610	1	5	903	3	Petra	Zmeková	F			34	ošetřovatelka	Kočí	99	80	0
-5301	571610	1	5	903	4	Štefan	Ďuriš	M			63	důchodce	Kočí	99	80	0
-5301	571610	1	5	903	5	Jaroslav	Dalecký	M			40	řidič	Kočí	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	571610	1	1	901	1	Václav	Pravda	Ing.		69	důchodce	Kočí	99	80	0	M
+5301	571610	1	2	905	1	Jana	Brőcklová			49	účetní	Kočí	99	80	0	F
+5301	571610	1	3	904	1	Iveta	Mrázková	Bc.	DiS.	48	výhradní pojišťovací agent Kooperativa, a.s.	Kočí	99	80	0	F
+5301	571610	1	4	902	1	Vladimír	Dostál			57	soustružník	Kočí	99	80	0	M
+5301	571610	1	5	903	1	Jiří	Šeda	Ing.		31	konstruktér	Kočí	99	80	0	M
+5301	571610	1	1	901	2	Otakar	Krušina			57	zámečník	Kočí	99	80	0	M
+5301	571610	1	2	905	2	Pavel	Pavlas			29	soukromý podnikatel	Kočí	99	80	0	M
+5301	571610	1	3	904	2	Kateřina	Krátká	Bc.		23	studentka	Kočí	99	80	0	F
+5301	571610	1	4	902	2	Jan	Bakeš			52	ostraha	Kočí	99	80	0	M
+5301	571610	1	5	903	2	Luděk	Štěpánek			45	řidič	Kočí	99	80	0	M
+5301	571610	1	1	901	3	Pavel	Dostál			48	řidič nákladní autodopravy	Kočí	99	80	0	M
+5301	571610	1	2	905	3	Petr	Brunclík			42	soukromý podnikatel	Kočí	99	80	0	M
+5301	571610	1	3	904	3	Tomáš	Brunclík			38	OSVČ	Kočí	99	80	0	M
+5301	571610	1	4	902	3	Michal	Mánik			28	dělník	Kočí	99	80	0	M
+5301	571610	1	5	903	3	Petra	Zmeková			34	ošetřovatelka	Kočí	99	80	0	F
+5301	571610	1	1	901	4	Miroslav	Pavlík			60	elektrotechnik	Kočí	99	80	0	M
+5301	571610	1	2	905	4	Jaroslava	Škarydová			48	mzdová účetní	Kočí	99	80	0	F
+5301	571610	1	3	904	4	Roman	Pavlas			29	kuchař	Kočí	99	80	0	M
+5301	571610	1	4	902	4	Liběna	Kopecká			57	pojišťovací poradce	Kočí	99	80	0	F
+5301	571610	1	5	903	4	Štefan	Ďuriš			63	důchodce	Kočí	99	80	0	M
+5301	571610	1	1	901	5	Jana	Perničková			65	důchodkyně	Kočí	99	80	0	F
+5301	571610	1	2	905	5	Martina	Paulusová			44	zdravotní sestra	Kočí	99	80	0	F
+5301	571610	1	3	904	5	Lucie	Hnátová			37	vedoucí vychovatelka ZŠ Dr. J. Malíka	Kočí	99	80	0	F
+5301	571610	1	4	902	5	Renata	Fantlová			45	ředitelka	Kočí	99	80	0	F
+5301	571610	1	5	903	5	Jaroslav	Dalecký			40	řidič	Kočí	99	80	0	M
+5301	571610	1	1	901	6	Jaroslav	Hladík			28	stavební technik	Kočí	99	80	0	M
+5301	571610	1	2	905	6	Dana	Pavlasová			58	soukromá podnikatelka	Kočí	99	80	0	F
+5301	571610	1	3	904	6	Marie	Horáková	Mgr.		58	učitelka	Kočí	99	80	0	F
+5301	571610	1	4	902	6	Jiří	Urválek			39	soukromý podnikatel	Kočí	99	80	0	M
+5301	571610	1	1	901	7	Marcel	Havránek			23	stavební technik	Kočí	99	80	0	M
+5301	571610	1	2	905	7	Václav	Kopecký	Ing.		60	správce IT	Kočí	99	80	0	M
+5301	571610	1	3	904	7	Pavel	Tetřev			47	vedoucí směny	Kočí	99	80	0	M
+5301	571610	1	4	902	7	Jaroslav	Kacafírek			30	truhlář	Kočí	99	80	0	M
+5301	571610	1	2	905	8	Josef	Zdražil			25	pokladník	Kočí	99	80	0	M

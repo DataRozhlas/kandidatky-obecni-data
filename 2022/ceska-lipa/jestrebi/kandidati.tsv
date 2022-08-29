@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5101	561665	1	1	901	1	Karel	Schreiner	M	Ing.		55	starosta Jestřebí	Jestřebí	99	80	A
-5101	561665	1	1	901	2	Milan	Martínek	M			63	logistik, místostarosta Jestřebí	Jestřebí	99	80	A
-5101	561665	1	1	901	3	Lucie	Červenková	F	Mgr.		43	učitelka	Jestřebí	99	80	A
-5101	561665	1	1	901	4	Vlasta	Kellnerová	F			63	důchodkyně	Újezd	99	80	A
-5101	561665	1	1	901	5	Rudolf	Barták	M			69	důchodce	Jestřebí	99	80	A
-5101	561665	1	1	901	6	Josef	Najman	M			54	podnikatel	Jestřebí	99	80	A
-5101	561665	1	1	901	7	Martin	Říbek	M			30	controlling financí	Jestřebí	99	80	A
-5101	561665	1	1	901	8	Jiří	Sýkora	M			47	elektrikář	Jestřebí	99	80	A
-5101	561665	1	1	901	9	Daniela	Haštabová	F			72	důchodkyně	Jestřebí	99	80	A
-5101	561665	1	2	902	1	Libor	Gabriel	M			36	OSVČ	Pavlovice	99	80	A
-5101	561665	1	2	902	2	Gustav	Sűssner	M			57	vedoucí výroby	Jestřebí	99	80	A
-5101	561665	1	2	902	3	Petr	Vošvrda	M			55	zedník	Jestřebí	99	80	A
-5101	561665	1	2	902	4	Jakub	Trnečka	M			28	jeřábník	Jestřebí	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5101	561665	1	1	901	1	Karel	Schreiner	Ing.		55	starosta Jestřebí	Jestřebí	99	80	A	M
+5101	561665	1	2	902	1	Libor	Gabriel			36	OSVČ	Pavlovice	99	80	A	M
+5101	561665	1	1	901	2	Milan	Martínek			63	logistik, místostarosta Jestřebí	Jestřebí	99	80	A	M
+5101	561665	1	2	902	2	Gustav	Sűssner			57	vedoucí výroby	Jestřebí	99	80	A	M
+5101	561665	1	1	901	3	Lucie	Červenková	Mgr.		43	učitelka	Jestřebí	99	80	A	F
+5101	561665	1	2	902	3	Petr	Vošvrda			55	zedník	Jestřebí	99	80	A	M
+5101	561665	1	1	901	4	Vlasta	Kellnerová			63	důchodkyně	Újezd	99	80	A	F
+5101	561665	1	2	902	4	Jakub	Trnečka			28	jeřábník	Jestřebí	99	80	A	M
+5101	561665	1	1	901	5	Rudolf	Barták			69	důchodce	Jestřebí	99	80	A	M
+5101	561665	1	1	901	6	Josef	Najman			54	podnikatel	Jestřebí	99	80	A	M
+5101	561665	1	1	901	7	Martin	Říbek			30	controlling financí	Jestřebí	99	80	A	M
+5101	561665	1	1	901	8	Jiří	Sýkora			47	elektrikář	Jestřebí	99	80	A	M
+5101	561665	1	1	901	9	Daniela	Haštabová			72	důchodkyně	Jestřebí	99	80	A	F

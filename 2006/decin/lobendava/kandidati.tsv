@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4201	545708	1	1	801	1	Martin	Malý	M			32	soukromý podnikatel	Severní	99	80	0
-4201	545708	1	2	902	1	Ivana	Galíková	F			47	státní zaměstnanec	Lobendava	99	80	0
-4201	545708	1	2	902	2	Lenka	Zobačová	F			49	v domácnosti	Lobendava	99	80	0
-4201	545708	1	2	902	3	Josef	Galík	M			46	podnikatel	Lobendava	99	80	0
-4201	545708	1	2	902	4	Zdeněk	Fučík	M			46	nezaměstnaný	Lobendava	99	80	0
-4201	545708	1	3	901	1	Antonín	Herout	M			51	soukr.podnikatel	Severní	99	80	0
-4201	545708	1	3	901	2	Zdeněk	Cvrček	M			48	traktorista	Severní	99	80	0
-4201	545708	1	3	901	3	Lenka	Hausdorfová	F			43	soukr.podnikatelka	Lobendava	99	80	0
-4201	545708	1	3	901	4	Jakub	Ungr	M			21	dělník	Lobendava	99	80	0
-4201	545708	1	3	901	5	Josef	Cvrček	M			46	traktorista	Lobendava	99	80	0
-4201	545708	1	3	901	6	Milan	Stingl	M			26	dělník	Lobendava	99	80	0
-4201	545708	1	3	901	7	Josef	Ešner	M			58	dělník	Lobendava	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4201	545708	1	1	801	1	Martin	Malý			32	soukromý podnikatel	Severní	99	80	0	M
+4201	545708	1	2	902	1	Ivana	Galíková			47	státní zaměstnanec	Lobendava	99	80	0	F
+4201	545708	1	3	901	1	Antonín	Herout			51	soukr.podnikatel	Severní	99	80	0	M
+4201	545708	1	2	902	2	Lenka	Zobačová			49	v domácnosti	Lobendava	99	80	0	F
+4201	545708	1	3	901	2	Zdeněk	Cvrček			48	traktorista	Severní	99	80	0	M
+4201	545708	1	2	902	3	Josef	Galík			46	podnikatel	Lobendava	99	80	0	M
+4201	545708	1	3	901	3	Lenka	Hausdorfová			43	soukr.podnikatelka	Lobendava	99	80	0	F
+4201	545708	1	2	902	4	Zdeněk	Fučík			46	nezaměstnaný	Lobendava	99	80	0	M
+4201	545708	1	3	901	4	Jakub	Ungr			21	dělník	Lobendava	99	80	0	M
+4201	545708	1	3	901	5	Josef	Cvrček			46	traktorista	Lobendava	99	80	0	M
+4201	545708	1	3	901	6	Milan	Stingl			26	dělník	Lobendava	99	80	0	M
+4201	545708	1	3	901	7	Josef	Ešner			58	dělník	Lobendava	99	80	0	M

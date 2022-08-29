@@ -1,40 +1,40 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	541478	1	1	902	1	Zdeňka	Macháčková	F			47	podnikatelka	Zvole	99	80	0
-7105	541478	1	1	902	2	Jarmila	Nesétová	F			50	dělnice	Zvole	99	80	0
-7105	541478	1	1	902	3	Milan	Holý	M	Ing.		54	ekonomicko-odborný pracovník	Zvole	99	80	0
-7105	541478	1	1	902	4	Miroslav	Šafář	M			53	dělník	Zvole	99	80	0
-7105	541478	1	1	902	5	Dana	Skřivánková	F			35	podnikatelka	Zvole	99	80	0
-7105	541478	1	1	902	6	Otto	Rossipal	M			62	důchodce	Zvole	99	80	0
-7105	541478	1	1	902	7	Libor	Dušek	M			36	zaměstnanec	Zvole	99	80	0
-7105	541478	1	2	903	1	Jana	Šoustalová	F	Ing.		45	podnikatel	Zvole	99	80	0
-7105	541478	1	2	903	2	Josef	Najman	M	Ing.		56	ředitel podniku	Zvole	99	80	0
-7105	541478	1	2	903	3	Miloš	Spurný	M	Ing.		45	vedoucí manažer	Zvole	99	80	0
-7105	541478	1	2	903	4	Jan	Hányš	M			57	mistr	Zvole	99	80	0
-7105	541478	1	2	903	5	Luděk	Bastl	M			40	pracovník ŽV	Zvole	99	80	0
-7105	541478	1	2	903	6	Pavel	Chmelař	M			29	provozní zámečník	Zvole	99	80	0
-7105	541478	1	2	903	7	Lenka	Krušová	F			46	úřednice	Zvole	99	80	0
-7105	541478	1	2	903	8	Marie	Plháková	F			56	důchodce	Zvole	99	80	0
-7105	541478	1	2	903	9	Jan	Nimerfroh	M			62	důchodce	Zvole	99	80	0
-7105	541478	1	3	83	1	Marie	Hlochová	F			51	ved. stravovny	Zvole	83	83	0
-7105	541478	1	3	83	2	Miloslav	Závodný	M	RNDr.		53	odborný pracovník VŠ	Zvole	99	83	0
-7105	541478	1	3	83	3	Daniela	Portyšová	F			60	důchodkyně	Zvole	83	83	0
-7105	541478	1	3	83	4	Vojtěch	Lachnit	M	Ing.		56	úředník	Zvole	99	83	0
-7105	541478	1	3	83	5	Jaroslava	Jakešová	F			28	M.D.	Zvole	99	83	0
-7105	541478	1	3	83	6	Kateřina	Balcárková	F			32	operátorka	Zvole	99	83	0
-7105	541478	1	3	83	7	Miloš	Balcárek	M			31	technik	Zvole	99	83	0
-7105	541478	1	4	1	1	Vladimír	Klimeš	M			59	živnostník	Zvole	99	1	0
-7105	541478	1	4	1	2	Miroslav	Petřík	M	Ing.		50	učitel	Zvole	99	1	0
-7105	541478	1	4	1	3	Věra	Hašová	F			42	učitelka odborného výcviku	Zvole	99	1	0
-7105	541478	1	4	1	4	Jan	Vymětal	M			33	sanitář	Zvole	99	1	0
-7105	541478	1	4	1	5	Zdeňka	Chmelařová	F			30	mateřská dovolená	Zvole	99	1	0
-7105	541478	1	4	1	6	Marie	Bednaříková	F			51	dělnice	Zvole	1	1	0
-7105	541478	1	4	1	7	Jitka	Rotterová	F			38	ošetřovatelka dojnic	Zvole	99	1	0
-7105	541478	1	5	901	1	Zdeněk	Skřivánek	M			39	podnikatel	Zvole	99	80	0
-7105	541478	1	5	901	2	Radek	Kól	M			44	učitel	Zvole	99	80	0
-7105	541478	1	5	901	3	Vladimír	Fojt	M			46	mistr	Zvole	99	80	0
-7105	541478	1	5	901	4	Rudolf	Ospálek	M			41	dělník	Zvole	99	80	0
-7105	541478	1	5	901	5	Jan	Skřivánek	M			36	rozvodný	Zvole	99	80	0
-7105	541478	1	5	901	6	Pavel	Žanda	M			31	traktorista	Zvole	99	80	0
-7105	541478	1	5	901	7	Petr	Dvořák	M			30	dělník	Zvole	99	80	0
-7105	541478	1	5	901	8	Antonín	Dvorský	M			39	obr. kovů	Zvole	99	80	0
-7105	541478	1	5	901	9	Věra	Ospálková	F			39	dělnice	Zvole	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	541478	1	1	902	1	Zdeňka	Macháčková			47	podnikatelka	Zvole	99	80	0	F
+7105	541478	1	2	903	1	Jana	Šoustalová	Ing.		45	podnikatel	Zvole	99	80	0	F
+7105	541478	1	3	83	1	Marie	Hlochová			51	ved. stravovny	Zvole	83	83	0	F
+7105	541478	1	4	1	1	Vladimír	Klimeš			59	živnostník	Zvole	99	1	0	M
+7105	541478	1	5	901	1	Zdeněk	Skřivánek			39	podnikatel	Zvole	99	80	0	M
+7105	541478	1	1	902	2	Jarmila	Nesétová			50	dělnice	Zvole	99	80	0	F
+7105	541478	1	2	903	2	Josef	Najman	Ing.		56	ředitel podniku	Zvole	99	80	0	M
+7105	541478	1	3	83	2	Miloslav	Závodný	RNDr.		53	odborný pracovník VŠ	Zvole	99	83	0	M
+7105	541478	1	4	1	2	Miroslav	Petřík	Ing.		50	učitel	Zvole	99	1	0	M
+7105	541478	1	5	901	2	Radek	Kól			44	učitel	Zvole	99	80	0	M
+7105	541478	1	1	902	3	Milan	Holý	Ing.		54	ekonomicko-odborný pracovník	Zvole	99	80	0	M
+7105	541478	1	2	903	3	Miloš	Spurný	Ing.		45	vedoucí manažer	Zvole	99	80	0	M
+7105	541478	1	3	83	3	Daniela	Portyšová			60	důchodkyně	Zvole	83	83	0	F
+7105	541478	1	4	1	3	Věra	Hašová			42	učitelka odborného výcviku	Zvole	99	1	0	F
+7105	541478	1	5	901	3	Vladimír	Fojt			46	mistr	Zvole	99	80	0	M
+7105	541478	1	1	902	4	Miroslav	Šafář			53	dělník	Zvole	99	80	0	M
+7105	541478	1	2	903	4	Jan	Hányš			57	mistr	Zvole	99	80	0	M
+7105	541478	1	3	83	4	Vojtěch	Lachnit	Ing.		56	úředník	Zvole	99	83	0	M
+7105	541478	1	4	1	4	Jan	Vymětal			33	sanitář	Zvole	99	1	0	M
+7105	541478	1	5	901	4	Rudolf	Ospálek			41	dělník	Zvole	99	80	0	M
+7105	541478	1	1	902	5	Dana	Skřivánková			35	podnikatelka	Zvole	99	80	0	F
+7105	541478	1	2	903	5	Luděk	Bastl			40	pracovník ŽV	Zvole	99	80	0	M
+7105	541478	1	3	83	5	Jaroslava	Jakešová			28	M.D.	Zvole	99	83	0	F
+7105	541478	1	4	1	5	Zdeňka	Chmelařová			30	mateřská dovolená	Zvole	99	1	0	F
+7105	541478	1	5	901	5	Jan	Skřivánek			36	rozvodný	Zvole	99	80	0	M
+7105	541478	1	1	902	6	Otto	Rossipal			62	důchodce	Zvole	99	80	0	M
+7105	541478	1	2	903	6	Pavel	Chmelař			29	provozní zámečník	Zvole	99	80	0	M
+7105	541478	1	3	83	6	Kateřina	Balcárková			32	operátorka	Zvole	99	83	0	F
+7105	541478	1	4	1	6	Marie	Bednaříková			51	dělnice	Zvole	1	1	0	F
+7105	541478	1	5	901	6	Pavel	Žanda			31	traktorista	Zvole	99	80	0	M
+7105	541478	1	1	902	7	Libor	Dušek			36	zaměstnanec	Zvole	99	80	0	M
+7105	541478	1	2	903	7	Lenka	Krušová			46	úřednice	Zvole	99	80	0	F
+7105	541478	1	3	83	7	Miloš	Balcárek			31	technik	Zvole	99	83	0	M
+7105	541478	1	4	1	7	Jitka	Rotterová			38	ošetřovatelka dojnic	Zvole	99	1	0	F
+7105	541478	1	5	901	7	Petr	Dvořák			30	dělník	Zvole	99	80	0	M
+7105	541478	1	2	903	8	Marie	Plháková			56	důchodce	Zvole	99	80	0	F
+7105	541478	1	5	901	8	Antonín	Dvorský			39	obr. kovů	Zvole	99	80	0	M
+7105	541478	1	2	903	9	Jan	Nimerfroh			62	důchodce	Zvole	99	80	0	M
+7105	541478	1	5	901	9	Věra	Ospálková			39	dělnice	Zvole	99	80	0	F

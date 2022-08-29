@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4202	563480	1	1	901	1	Stanislav	Pachmann	M			36	řidič	Všestudy	99	80	A
-4202	563480	1	1	901	2	Jiří	Kejř	M			52	podnikatel	Všestudy	99	80	A
-4202	563480	1	1	901	3	Helena	Pištěková	F	Mgr.		55	učitelka ZŠ	Všestudy	99	80	A
-4202	563480	1	1	901	4	Zdeněk	Řehoř	M			40	technik	Všestudy	99	80	A
-4202	563480	1	1	901	5	Vladimír	Kopečný	M			70	důchodce	Všestudy	99	80	A
-4202	563480	1	1	901	6	Zdeněk	Žák	M			43	stavební dělník	Všestudy	99	80	A
-4202	563480	1	1	901	7	Petr	Vojík	M			49	zámečník	Všestudy	99	80	A
-4202	563480	1	2	2	1	Miloslav	Čermák	M			44	podnikatel	Všestudy	99	2	A
-4202	563480	1	2	2	2	Tereza	Matlochová	F			28	zdravotnický záchranář	Všestudy	99	2	A
-4202	563480	1	2	2	3	Pavel	Podmanický	M			55	stavební technik	Všestudy	2	2	A
-4202	563480	1	2	2	4	Jiří	Szybakowski	M			39	podnikatel	Všestudy	99	2	A
-4202	563480	1	2	2	5	Monika	Bláhová	F	Mgr.		48	učitelka	Všestudy	99	2	A
-4202	563480	1	2	2	6	Věra	Slezáková	F	Mgr.		72	učitelka	Všestudy	99	2	A
-4202	563480	1	2	2	7	Hana	Hrošková	F			50	účetní	Všestudy	99	2	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4202	563480	1	1	901	1	Stanislav	Pachmann			36	řidič	Všestudy	99	80	A	M
+4202	563480	1	2	2	1	Miloslav	Čermák			44	podnikatel	Všestudy	99	2	A	M
+4202	563480	1	1	901	2	Jiří	Kejř			52	podnikatel	Všestudy	99	80	A	M
+4202	563480	1	2	2	2	Tereza	Matlochová			28	zdravotnický záchranář	Všestudy	99	2	A	F
+4202	563480	1	1	901	3	Helena	Pištěková	Mgr.		55	učitelka ZŠ	Všestudy	99	80	A	F
+4202	563480	1	2	2	3	Pavel	Podmanický			55	stavební technik	Všestudy	2	2	A	M
+4202	563480	1	1	901	4	Zdeněk	Řehoř			40	technik	Všestudy	99	80	A	M
+4202	563480	1	2	2	4	Jiří	Szybakowski			39	podnikatel	Všestudy	99	2	A	M
+4202	563480	1	1	901	5	Vladimír	Kopečný			70	důchodce	Všestudy	99	80	A	M
+4202	563480	1	2	2	5	Monika	Bláhová	Mgr.		48	učitelka	Všestudy	99	2	A	F
+4202	563480	1	1	901	6	Zdeněk	Žák			43	stavební dělník	Všestudy	99	80	A	M
+4202	563480	1	2	2	6	Věra	Slezáková	Mgr.		72	učitelka	Všestudy	99	2	A	F
+4202	563480	1	1	901	7	Petr	Vojík			49	zámečník	Všestudy	99	80	A	M
+4202	563480	1	2	2	7	Hana	Hrošková			50	účetní	Všestudy	99	2	A	F

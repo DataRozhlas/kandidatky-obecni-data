@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	596396	1	1	901	1	Miroslav	Vokoun	M			51	dělník	Pavlov	47	80	0
-6105	596396	1	1	901	2	Jaroslav	Doležal	M			52	řidič	Pavlov	99	80	0
-6105	596396	1	1	901	3	Jiří	Kadlec	M			41	soukromý podnikatel	Pavlov	99	80	0
-6105	596396	1	1	901	4	Hana	Bradáčová	F			33	v domácnosti	Pavlov	99	80	0
-6105	596396	1	1	901	5	Josef	Toman	M			38	truhlář	Pavlov	99	80	0
-6105	596396	1	1	901	6	Marie	Jurečková	F			49	prodavačka	Pavlov	99	80	0
-6105	596396	1	1	901	7	Luboš	Vytlačil	M			38	traktorista	Pavlov	99	80	0
-6105	596396	1	1	901	8	Hana	Dvořáková	F			44	účetní	Pavlov	99	80	0
-6105	596396	1	1	901	9	Jiří	Chlubna	M			39	elektrikář	Pavlov	99	80	0
-6105	596396	1	2	1	1	Jindřich	Doležal	M	Ing.		34	obchodní zástupce	Pavlov	1	1	0
-6105	596396	1	2	1	2	Antonín	Havlíček	M			57	řidič	Pavlov	99	1	0
-6105	596396	1	2	1	3	Bohuslav	Chmelař	M			43	klempíř	Pavlov	99	1	0
-6105	596396	1	2	1	4	Jana	Kujínková	F			42	veterinární asistentka	Pavlov	1	1	0
-6105	596396	1	2	1	5	Miroslav	Doležal	M			56	elektromontér	Pavlov	99	1	0
-6105	596396	1	2	1	6	Radek	Bartoš	M			29	živnostník	Pavlov	99	1	0
-6105	596396	1	2	1	7	Ondřej	Doležal	M			24	student	Pavlov	1	1	0
-6105	596396	1	2	1	8	Veronika	Bartošová	F	Ing.		34	úředník	Pavlov	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	596396	1	1	901	1	Miroslav	Vokoun			51	dělník	Pavlov	47	80	0	M
+6105	596396	1	2	1	1	Jindřich	Doležal	Ing.		34	obchodní zástupce	Pavlov	1	1	0	M
+6105	596396	1	1	901	2	Jaroslav	Doležal			52	řidič	Pavlov	99	80	0	M
+6105	596396	1	2	1	2	Antonín	Havlíček			57	řidič	Pavlov	99	1	0	M
+6105	596396	1	1	901	3	Jiří	Kadlec			41	soukromý podnikatel	Pavlov	99	80	0	M
+6105	596396	1	2	1	3	Bohuslav	Chmelař			43	klempíř	Pavlov	99	1	0	M
+6105	596396	1	1	901	4	Hana	Bradáčová			33	v domácnosti	Pavlov	99	80	0	F
+6105	596396	1	2	1	4	Jana	Kujínková			42	veterinární asistentka	Pavlov	1	1	0	F
+6105	596396	1	1	901	5	Josef	Toman			38	truhlář	Pavlov	99	80	0	M
+6105	596396	1	2	1	5	Miroslav	Doležal			56	elektromontér	Pavlov	99	1	0	M
+6105	596396	1	1	901	6	Marie	Jurečková			49	prodavačka	Pavlov	99	80	0	F
+6105	596396	1	2	1	6	Radek	Bartoš			29	živnostník	Pavlov	99	1	0	M
+6105	596396	1	1	901	7	Luboš	Vytlačil			38	traktorista	Pavlov	99	80	0	M
+6105	596396	1	2	1	7	Ondřej	Doležal			24	student	Pavlov	1	1	0	M
+6105	596396	1	1	901	8	Hana	Dvořáková			44	účetní	Pavlov	99	80	0	F
+6105	596396	1	2	1	8	Veronika	Bartošová	Ing.		34	úředník	Pavlov	99	1	0	F
+6105	596396	1	1	901	9	Jiří	Chlubna			39	elektrikář	Pavlov	99	80	0	M

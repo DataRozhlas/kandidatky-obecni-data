@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	571288	1	1	901	1	Pavel	Přecechtěl	M			51	projektový specialista	Zahořany	99	80	A
-2110	571288	1	1	901	2	Petr	Kučera	M			45	dispečer	Zahořany	99	80	A
-2110	571288	1	1	901	3	Tomáš	Cmíral	M	Ing.		42	manažer	Zahořany	99	80	A
-2110	571288	1	1	901	4	Roman	Švestka	M	Mgr.	MBA	45	podnikatel	Zahořany	99	80	A
-2110	571288	1	1	901	5	Jiří	Šichtař	M	doc. Ing.	Ph.D.	39	manažer	Zahořany	99	80	A
-2110	571288	1	1	901	6	Jitka	Barlová	F	PhDr.	Ph.D.	44	speciální pedagog	Zahořany	99	80	A
-2110	571288	1	1	901	7	Matěj	Barla	M	Ing. arch.		46	architekt	Zahořany	99	80	A
-2110	571288	1	1	901	8	Daniel	Březina	M	Ing.		45	projektový specialista	Zahořany	99	80	A
-2110	571288	1	2	902	1	Roman	Mikulášek	M			59	zastupitel	Zahořany	99	80	A
-2110	571288	1	2	902	2	Jaroslava	Svitálková	F			62	důchodkyně	Zahořany	99	80	A
-2110	571288	1	2	902	3	Tomáš	Jalůvka	M			27	technik	Zahořany	99	80	A
-2110	571288	1	2	902	4	Luboš	Král	M			27	technik	Zahořany	99	80	A
-2110	571288	1	2	902	5	František	Strnad	M			44	logistik	Zahořany	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	571288	1	1	901	1	Pavel	Přecechtěl			51	projektový specialista	Zahořany	99	80	A	M
+2110	571288	1	2	902	1	Roman	Mikulášek			59	zastupitel	Zahořany	99	80	A	M
+2110	571288	1	1	901	2	Petr	Kučera			45	dispečer	Zahořany	99	80	A	M
+2110	571288	1	2	902	2	Jaroslava	Svitálková			62	důchodkyně	Zahořany	99	80	A	F
+2110	571288	1	1	901	3	Tomáš	Cmíral	Ing.		42	manažer	Zahořany	99	80	A	M
+2110	571288	1	2	902	3	Tomáš	Jalůvka			27	technik	Zahořany	99	80	A	M
+2110	571288	1	1	901	4	Roman	Švestka	Mgr.	MBA	45	podnikatel	Zahořany	99	80	A	M
+2110	571288	1	2	902	4	Luboš	Král			27	technik	Zahořany	99	80	A	M
+2110	571288	1	1	901	5	Jiří	Šichtař	doc. Ing.	Ph.D.	39	manažer	Zahořany	99	80	A	M
+2110	571288	1	2	902	5	František	Strnad			44	logistik	Zahořany	99	80	A	M
+2110	571288	1	1	901	6	Jitka	Barlová	PhDr.	Ph.D.	44	speciální pedagog	Zahořany	99	80	A	F
+2110	571288	1	1	901	7	Matěj	Barla	Ing. arch.		46	architekt	Zahořany	99	80	A	M
+2110	571288	1	1	901	8	Daniel	Březina	Ing.		45	projektový specialista	Zahořany	99	80	A	M

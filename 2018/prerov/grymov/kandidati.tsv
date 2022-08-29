@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7104	569194	1	1	902	1	Ladislav	Kuča	M	Ing.		66	ekonom	Grymov	99	80	A
-7104	569194	1	1	902	2	Ladislav	Vitoslavský	M	Ing.		59	soukromý zemědělec	Grymov	99	80	A
-7104	569194	1	1	902	3	Petr	Kučera	M			43	prodejce cyklistických potřeb	Grymov	99	80	A
-7104	569194	1	1	902	4	Stanislav	Kadleček	M			60	dozorce výhybek	Grymov	99	80	A
-7104	569194	1	1	902	5	Pavel	Ministr	M			49	řidič	Grymov	99	80	A
-7104	569194	1	1	902	6	Tomáš	Janota	M			35	IT technik	Grymov	99	80	A
-7104	569194	1	2	901	1	Lenka	Zbytovská	F	Mgr.		29	advokát	Grymov	99	80	A
-7104	569194	1	2	901	2	Ladislav	Ptáček	M	Ing.		51	živnostník	Grymov	99	80	A
-7104	569194	1	2	901	3	Magda	Holá	F			62	technický pracovník	Grymov	99	80	A
-7104	569194	1	2	901	4	Evžen	Sova	M			32	policista	Grymov	99	80	A
-7104	569194	1	2	901	5	Marek	Zemánek	M			44	pracovník údržby	Grymov	99	80	A
-7104	569194	1	2	901	6	Jana	Martinková	F	Ing.		33	manažer kvality	Grymov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7104	569194	1	1	902	1	Ladislav	Kuča	Ing.		66	ekonom	Grymov	99	80	A	M
+7104	569194	1	2	901	1	Lenka	Zbytovská	Mgr.		29	advokát	Grymov	99	80	A	F
+7104	569194	1	1	902	2	Ladislav	Vitoslavský	Ing.		59	soukromý zemědělec	Grymov	99	80	A	M
+7104	569194	1	2	901	2	Ladislav	Ptáček	Ing.		51	živnostník	Grymov	99	80	A	M
+7104	569194	1	1	902	3	Petr	Kučera			43	prodejce cyklistických potřeb	Grymov	99	80	A	M
+7104	569194	1	2	901	3	Magda	Holá			62	technický pracovník	Grymov	99	80	A	F
+7104	569194	1	1	902	4	Stanislav	Kadleček			60	dozorce výhybek	Grymov	99	80	A	M
+7104	569194	1	2	901	4	Evžen	Sova			32	policista	Grymov	99	80	A	M
+7104	569194	1	1	902	5	Pavel	Ministr			49	řidič	Grymov	99	80	A	M
+7104	569194	1	2	901	5	Marek	Zemánek			44	pracovník údržby	Grymov	99	80	A	M
+7104	569194	1	1	902	6	Tomáš	Janota			35	IT technik	Grymov	99	80	A	M
+7104	569194	1	2	901	6	Jana	Martinková	Ing.		33	manažer kvality	Grymov	99	80	A	F

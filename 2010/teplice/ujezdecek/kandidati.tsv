@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4206	567850	1	1	47	1	Jitka	Hanousková	F			58	politický pracovník	Újezdeček	47	47	0
-4206	567850	1	1	47	2	Evžen	Dlask	M			53	živnostník	Újezdeček	99	47	0
-4206	567850	1	1	47	3	Karel	Krejčík	M			44	technik	Újezdeček	99	47	0
-4206	567850	1	1	47	4	Václav	Kohlmistr	M			58	dělník	Újezdeček	99	47	0
-4206	567850	1	1	47	5	Josef	Mark	M			40	zámečník	Újezdeček	99	47	0
-4206	567850	1	1	47	6	Antonín	Šlechta	M			64	důchodce	Újezdeček	47	47	0
-4206	567850	1	1	47	7	Petr	Hanousek	M			58	zedník	Újezdeček	47	47	0
-4206	567850	1	2	137	1	Vladimír	Pergler	M	Ing.		26	projekt manažer	Újezdeček	99	137	0
-4206	567850	1	2	137	2	Pavlína	Fišerová	F			31	prodavačka	Újezdeček	99	137	0
-4206	567850	1	2	137	3	Zuzana	Odvárková	F			38	podnikatel	Újezdeček	99	137	0
-4206	567850	1	2	137	4	Karel	Šebesta	M	Mgr.		44	manažer	Újezdeček	99	137	0
-4206	567850	1	2	137	5	Jarmila	Jeníčková	F			36	prodavačka	Újezdeček	99	137	0
-4206	567850	1	2	137	6	Marie	Vecková	F			56	technolog	Újezdeček	99	137	0
-4206	567850	1	2	137	7	Lucie	Kedjuchová	F			23	studentka	Újezdeček	99	137	0
-4206	567850	1	3	901	1	Petr	Pokorný	M			60	starosta	Újezdeček	99	80	0
-4206	567850	1	3	901	2	Vladimír	Lhotský	M			57	projektant	Újezdeček	99	80	0
-4206	567850	1	3	901	3	Ladislav	Trojáček	M			63	elektromechanik	Újezdeček	99	80	0
-4206	567850	1	3	901	4	Pavel	Hejlik	M			41	dělník	Újezdeček	99	80	0
-4206	567850	1	3	901	5	Jiří	Chára	M			38	podnikatel	Újezdeček	99	80	0
-4206	567850	1	3	901	6	Radek	Březina	M			35	dělník	Újezdeček	99	80	0
-4206	567850	1	3	901	7	Antonín	Koudelka	M	Ing.		43	podnikatel	Újezdeček	99	80	0
-4206	567850	1	4	7	1	Josef	Žampach	M			52	místostarosta	Újezdeček	7	7	0
-4206	567850	1	4	7	2	Milan	Horák	M			67	technik	Újezdeček	99	7	0
-4206	567850	1	4	7	3	Tomáš	Tapušík	M			36	živnostník	Újezdeček	99	7	0
-4206	567850	1	4	7	4	Luděk	Němeček	M			35	automechanik	Újezdeček	99	7	0
-4206	567850	1	4	7	5	Petr	Štark	M	Bc.		35	konstruktér	Újezdeček	99	7	0
-4206	567850	1	4	7	6	Martin	Štambera	M			45	sklář	Újezdeček	99	7	0
-4206	567850	1	4	7	7	Hana	Rulfová	F			50	dělnice	Újezdeček	99	7	0
-4206	567850	1	4	7	8	Lucie	Křenovská	F			32	živnostník	Újezdeček	99	7	0
-4206	567850	1	4	7	9	Martin	Ferstel	M			37	zámečník	Újezdeček	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4206	567850	1	1	47	1	Jitka	Hanousková			58	politický pracovník	Újezdeček	47	47	0	F
+4206	567850	1	2	137	1	Vladimír	Pergler	Ing.		26	projekt manažer	Újezdeček	99	137	0	M
+4206	567850	1	3	901	1	Petr	Pokorný			60	starosta	Újezdeček	99	80	0	M
+4206	567850	1	4	7	1	Josef	Žampach			52	místostarosta	Újezdeček	7	7	0	M
+4206	567850	1	1	47	2	Evžen	Dlask			53	živnostník	Újezdeček	99	47	0	M
+4206	567850	1	2	137	2	Pavlína	Fišerová			31	prodavačka	Újezdeček	99	137	0	F
+4206	567850	1	3	901	2	Vladimír	Lhotský			57	projektant	Újezdeček	99	80	0	M
+4206	567850	1	4	7	2	Milan	Horák			67	technik	Újezdeček	99	7	0	M
+4206	567850	1	1	47	3	Karel	Krejčík			44	technik	Újezdeček	99	47	0	M
+4206	567850	1	2	137	3	Zuzana	Odvárková			38	podnikatel	Újezdeček	99	137	0	F
+4206	567850	1	3	901	3	Ladislav	Trojáček			63	elektromechanik	Újezdeček	99	80	0	M
+4206	567850	1	4	7	3	Tomáš	Tapušík			36	živnostník	Újezdeček	99	7	0	M
+4206	567850	1	1	47	4	Václav	Kohlmistr			58	dělník	Újezdeček	99	47	0	M
+4206	567850	1	2	137	4	Karel	Šebesta	Mgr.		44	manažer	Újezdeček	99	137	0	M
+4206	567850	1	3	901	4	Pavel	Hejlik			41	dělník	Újezdeček	99	80	0	M
+4206	567850	1	4	7	4	Luděk	Němeček			35	automechanik	Újezdeček	99	7	0	M
+4206	567850	1	1	47	5	Josef	Mark			40	zámečník	Újezdeček	99	47	0	M
+4206	567850	1	2	137	5	Jarmila	Jeníčková			36	prodavačka	Újezdeček	99	137	0	F
+4206	567850	1	3	901	5	Jiří	Chára			38	podnikatel	Újezdeček	99	80	0	M
+4206	567850	1	4	7	5	Petr	Štark	Bc.		35	konstruktér	Újezdeček	99	7	0	M
+4206	567850	1	1	47	6	Antonín	Šlechta			64	důchodce	Újezdeček	47	47	0	M
+4206	567850	1	2	137	6	Marie	Vecková			56	technolog	Újezdeček	99	137	0	F
+4206	567850	1	3	901	6	Radek	Březina			35	dělník	Újezdeček	99	80	0	M
+4206	567850	1	4	7	6	Martin	Štambera			45	sklář	Újezdeček	99	7	0	M
+4206	567850	1	1	47	7	Petr	Hanousek			58	zedník	Újezdeček	47	47	0	M
+4206	567850	1	2	137	7	Lucie	Kedjuchová			23	studentka	Újezdeček	99	137	0	F
+4206	567850	1	3	901	7	Antonín	Koudelka	Ing.		43	podnikatel	Újezdeček	99	80	0	M
+4206	567850	1	4	7	7	Hana	Rulfová			50	dělnice	Újezdeček	99	7	0	F
+4206	567850	1	4	7	8	Lucie	Křenovská			32	živnostník	Újezdeček	99	7	0	F
+4206	567850	1	4	7	9	Martin	Ferstel			37	zámečník	Újezdeček	99	7	0	M

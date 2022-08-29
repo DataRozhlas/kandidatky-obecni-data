@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	530824	1	1	902	1	Jana	Baráková	F	Ing.		37	ekonom (rodičovská dovolená)	Velenov	99	80	A
-6201	530824	1	1	902	2	Jakub	Komárek	M	Ing.		37	OSVČ	Velenov	99	80	A
-6201	530824	1	1	902	3	Petr	Celý	M			36	kontrola kvality	Velenov	99	80	A
-6201	530824	1	1	902	4	Monika	Celá	F			38	operátor výroby (rodičovská dovolená)	Velenov	99	80	A
-6201	530824	1	1	902	5	Jakub	Veselý	M			28	řidič z povolání	Velenov	99	80	A
-6201	530824	1	1	902	6	Veronika Viktorie	Vaščíková	F		DiS.	41	průvodce	Velenov	99	80	A
-6201	530824	1	1	902	7	Marek	Ošlejšek	M			27	dělník	Velenov	99	80	A
-6201	530824	1	2	901	1	Jan	Havelka	M			43	technolog ČSO	Velenov	99	80	A
-6201	530824	1	2	901	2	David	Johanides	M	Ing.		46	programátor	Velenov	99	80	A
-6201	530824	1	2	901	3	Martina	Slaná	F			45	vedoucí prodejny	Velenov	99	80	A
-6201	530824	1	2	901	4	Antonín	Krejčí	M			47	mechanik	Velenov	99	80	A
-6201	530824	1	2	901	5	Ondřej	Kratěna	M			35	OSVČ	Velenov	99	80	A
-6201	530824	1	2	901	6	Martin	Petružálek	M			32	OSVČ	Velenov	99	80	A
-6201	530824	1	2	901	7	Zdeněk	Ševčík	M			35	OSVČ	Velenov	99	80	A
-6201	530824	1	2	901	8	Martin	Maršoun	M			45	technik	Velenov	99	80	A
-6201	530824	1	2	901	9	Pavel	Konečný	M			48	strojník	Velenov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	530824	1	1	902	1	Jana	Baráková	Ing.		37	ekonom (rodičovská dovolená)	Velenov	99	80	A	F
+6201	530824	1	2	901	1	Jan	Havelka			43	technolog ČSO	Velenov	99	80	A	M
+6201	530824	1	1	902	2	Jakub	Komárek	Ing.		37	OSVČ	Velenov	99	80	A	M
+6201	530824	1	2	901	2	David	Johanides	Ing.		46	programátor	Velenov	99	80	A	M
+6201	530824	1	1	902	3	Petr	Celý			36	kontrola kvality	Velenov	99	80	A	M
+6201	530824	1	2	901	3	Martina	Slaná			45	vedoucí prodejny	Velenov	99	80	A	F
+6201	530824	1	1	902	4	Monika	Celá			38	operátor výroby (rodičovská dovolená)	Velenov	99	80	A	F
+6201	530824	1	2	901	4	Antonín	Krejčí			47	mechanik	Velenov	99	80	A	M
+6201	530824	1	1	902	5	Jakub	Veselý			28	řidič z povolání	Velenov	99	80	A	M
+6201	530824	1	2	901	5	Ondřej	Kratěna			35	OSVČ	Velenov	99	80	A	M
+6201	530824	1	1	902	6	Veronika Viktorie	Vaščíková		DiS.	41	průvodce	Velenov	99	80	A	F
+6201	530824	1	2	901	6	Martin	Petružálek			32	OSVČ	Velenov	99	80	A	M
+6201	530824	1	1	902	7	Marek	Ošlejšek			27	dělník	Velenov	99	80	A	M
+6201	530824	1	2	901	7	Zdeněk	Ševčík			35	OSVČ	Velenov	99	80	A	M
+6201	530824	1	2	901	8	Martin	Maršoun			45	technik	Velenov	99	80	A	M
+6201	530824	1	2	901	9	Pavel	Konečný			48	strojník	Velenov	99	80	A	M

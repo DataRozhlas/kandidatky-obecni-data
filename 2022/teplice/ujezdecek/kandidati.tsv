@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4206	567850	1	1	47	1	Zuzana	Štembergová	F	Bc.		48	bankéř	Újezdeček	99	47	A
-4206	567850	1	1	47	2	Magdalena	Walterová	F			47	technik	Újezdeček	99	47	A
-4206	567850	1	1	47	3	Miroslav	Reiner	M			51	zámečník	Újezdeček	99	47	A
-4206	567850	1	1	47	4	Jitka	Hanousková	F			70	politický pracovník	Újezdeček	47	47	A
-4206	567850	1	1	47	5	Evžen	Dlask	M			65	údržbář v důchodu	Újezdeček	99	47	A
-4206	567850	1	1	47	6	Antonín	Šlechta	M			76	technik v důchodu	Újezdeček	47	47	A
-4206	567850	1	1	47	7	Jan	Březina	M			58	řidič	Újezdeček	99	47	A
-4206	567850	1	2	7	1	Josef	Žampach	M			64	důchodce	Újezdeček	7	7	A
-4206	567850	1	2	7	2	Petr	Štark	M	Bc.		47	projektant	Újezdeček	99	7	A
-4206	567850	1	2	7	3	Pavel	Hejlik	M			53	dělník	Újezdeček	99	7	A
-4206	567850	1	2	7	4	Lucie	Hejliková	F			35	číšnice	Újezdeček	99	7	A
-4206	567850	1	2	7	5	Martin	Veselý	M			36	dělník	Újezdeček	99	7	A
-4206	567850	1	2	7	6	Vlasta	Marková	F			45	pojišťovací zprostředkovatel	Újezdeček	99	7	A
-4206	567850	1	2	7	7	Miroslav	Kozel	M			64	důchodce	Újezdeček	99	7	A
-4206	567850	1	3	901	1	Květoslav	Koutník	M			69	starosta obce	Újezdeček	99	80	A
-4206	567850	1	3	901	2	Pavlína	Fišerová	F			43	místostarostka obce	Újezdeček	99	80	A
-4206	567850	1	3	901	3	Stanislav	Molnár	M			48	dispečer	Újezdeček	99	80	A
-4206	567850	1	3	901	4	Lucie	Volnarová	F	Mgr.		35	učitelka ZŠ	Újezdeček	99	80	A
-4206	567850	1	3	901	5	Jindřich	Kalda	M			59	OSVČ	Újezdeček	99	80	A
-4206	567850	1	3	901	6	Renata	Ferstelová	F	Ing.		48	analytik	Újezdeček	99	80	A
-4206	567850	1	3	901	7	Ladislav	Bis	M			70	důchodce	Újezdeček	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4206	567850	1	1	47	1	Zuzana	Štembergová	Bc.		48	bankéř	Újezdeček	99	47	A	F
+4206	567850	1	2	7	1	Josef	Žampach			64	důchodce	Újezdeček	7	7	A	M
+4206	567850	1	3	901	1	Květoslav	Koutník			69	starosta obce	Újezdeček	99	80	A	M
+4206	567850	1	1	47	2	Magdalena	Walterová			47	technik	Újezdeček	99	47	A	F
+4206	567850	1	2	7	2	Petr	Štark	Bc.		47	projektant	Újezdeček	99	7	A	M
+4206	567850	1	3	901	2	Pavlína	Fišerová			43	místostarostka obce	Újezdeček	99	80	A	F
+4206	567850	1	1	47	3	Miroslav	Reiner			51	zámečník	Újezdeček	99	47	A	M
+4206	567850	1	2	7	3	Pavel	Hejlik			53	dělník	Újezdeček	99	7	A	M
+4206	567850	1	3	901	3	Stanislav	Molnár			48	dispečer	Újezdeček	99	80	A	M
+4206	567850	1	1	47	4	Jitka	Hanousková			70	politický pracovník	Újezdeček	47	47	A	F
+4206	567850	1	2	7	4	Lucie	Hejliková			35	číšnice	Újezdeček	99	7	A	F
+4206	567850	1	3	901	4	Lucie	Volnarová	Mgr.		35	učitelka ZŠ	Újezdeček	99	80	A	F
+4206	567850	1	1	47	5	Evžen	Dlask			65	údržbář v důchodu	Újezdeček	99	47	A	M
+4206	567850	1	2	7	5	Martin	Veselý			36	dělník	Újezdeček	99	7	A	M
+4206	567850	1	3	901	5	Jindřich	Kalda			59	OSVČ	Újezdeček	99	80	A	M
+4206	567850	1	1	47	6	Antonín	Šlechta			76	technik v důchodu	Újezdeček	47	47	A	M
+4206	567850	1	2	7	6	Vlasta	Marková			45	pojišťovací zprostředkovatel	Újezdeček	99	7	A	F
+4206	567850	1	3	901	6	Renata	Ferstelová	Ing.		48	analytik	Újezdeček	99	80	A	F
+4206	567850	1	1	47	7	Jan	Březina			58	řidič	Újezdeček	99	47	A	M
+4206	567850	1	2	7	7	Miroslav	Kozel			64	důchodce	Újezdeček	99	7	A	M
+4206	567850	1	3	901	7	Ladislav	Bis			70	důchodce	Újezdeček	99	80	A	M

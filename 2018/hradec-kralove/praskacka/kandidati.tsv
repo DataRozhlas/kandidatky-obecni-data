@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	570656	1	1	801	1	Pavel	Fidrmuc	M	Ing.		43	vedoucí automobilního oddělení Policie HK	Praskačka	99	80	A
-5201	570656	1	2	807	1	Jitka	Nováková	F			64	důchodce	Praskačka	99	80	A
-5201	570656	1	3	808	1	Pavel	Veselý	M	Ing.		57	ředitel zeměděl. podniku	Sedlice	99	80	A
-5201	570656	1	4	804	1	Radek	Vosátka	M			42	soukromý podnikatel	Praskačka	99	80	A
-5201	570656	1	5	811	1	Kateřina	Koberová	F	Bc.		35	mateřská dovolená	Vlčkovice	99	80	A
-5201	570656	1	6	813	1	Petr	Černohlávek	M			51	obsluha velínu a specialista provozu zauhlování	Žižkovec	99	80	A
-5201	570656	1	7	805	1	Miroslav	Vít	M	Ing.		47	OSVČ	Praskačka	99	80	A
-5201	570656	1	8	803	1	Jaroslav	Věcek	M	Ing.		47	vedoucí oddělení vývoje softwarových aplikací	Praskačka	99	80	A
-5201	570656	1	9	809	1	Jaroslav	Malý	M	Ing.		67	důchodce	Praskačka	99	80	A
-5201	570656	1	10	810	1	Pavel	Capek	M	Ing.		42	Policie ČR	Sedlice	99	80	A
-5201	570656	1	11	812	1	Luboš	Řehounek	M	Ing.		43	technik-výpočtář	Praskačka	99	80	A
-5201	570656	1	12	814	1	Martin	Kubec	M			53	soukromý zemědělec	Vlčkovice	99	80	A
-5201	570656	1	13	802	1	Ilona	Kučerová	F	Ing.		47	prodejní a marketingový manažer	Praskačka	99	80	A
-5201	570656	1	14	806	1	Monika	Vítová	F			41	fakturace, logistika	Krásnice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	570656	1	1	801	1	Pavel	Fidrmuc	Ing.		43	vedoucí automobilního oddělení Policie HK	Praskačka	99	80	A	M
+5201	570656	1	2	807	1	Jitka	Nováková			64	důchodce	Praskačka	99	80	A	F
+5201	570656	1	3	808	1	Pavel	Veselý	Ing.		57	ředitel zeměděl. podniku	Sedlice	99	80	A	M
+5201	570656	1	4	804	1	Radek	Vosátka			42	soukromý podnikatel	Praskačka	99	80	A	M
+5201	570656	1	5	811	1	Kateřina	Koberová	Bc.		35	mateřská dovolená	Vlčkovice	99	80	A	F
+5201	570656	1	6	813	1	Petr	Černohlávek			51	obsluha velínu a specialista provozu zauhlování	Žižkovec	99	80	A	M
+5201	570656	1	7	805	1	Miroslav	Vít	Ing.		47	OSVČ	Praskačka	99	80	A	M
+5201	570656	1	8	803	1	Jaroslav	Věcek	Ing.		47	vedoucí oddělení vývoje softwarových aplikací	Praskačka	99	80	A	M
+5201	570656	1	9	809	1	Jaroslav	Malý	Ing.		67	důchodce	Praskačka	99	80	A	M
+5201	570656	1	10	810	1	Pavel	Capek	Ing.		42	Policie ČR	Sedlice	99	80	A	M
+5201	570656	1	11	812	1	Luboš	Řehounek	Ing.		43	technik-výpočtář	Praskačka	99	80	A	M
+5201	570656	1	12	814	1	Martin	Kubec			53	soukromý zemědělec	Vlčkovice	99	80	A	M
+5201	570656	1	13	802	1	Ilona	Kučerová	Ing.		47	prodejní a marketingový manažer	Praskačka	99	80	A	F
+5201	570656	1	14	806	1	Monika	Vítová			41	fakturace, logistika	Krásnice	99	80	A	F

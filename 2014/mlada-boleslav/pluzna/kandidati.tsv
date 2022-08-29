@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2107	565580	1	1	902	1	Jan	Rejzek	M			43	hasič	Plužná	99	80	0
-2107	565580	1	1	902	2	Petr	Umáčený	M			45	automechanik	Plužná	99	80	0
-2107	565580	1	1	902	3	Lubomír	Blecha	M			43	dělník	Plužná	99	80	0
-2107	565580	1	1	902	4	Kamila	Mensingerová	F			34	průmyslový logistik	Plužná	99	80	0
-2107	565580	1	1	902	5	Martin	Šimon	M			45	soukromý podnikatel	Plužná	99	80	0
-2107	565580	1	1	902	6	Pavel	Řezáč	M			46	soukromý podnikatel	Plužná	99	80	0
-2107	565580	1	2	901	1	Ivan	Hríb	M			46	vývojový pracovník	Plužná	99	80	0
-2107	565580	1	2	901	2	Radek	Hromčík	M			46	referent	Plužná	99	80	0
-2107	565580	1	2	901	3	Kateřina	Macounová	F			35	administrativní pracovnice	Plužná	99	80	0
-2107	565580	1	2	901	4	Jiří	Pešout	M	Ing.		52	manažer	Plužná	99	80	0
-2107	565580	1	2	901	5	Zdeněk	Dlouhý	M			34	konstruktér	Plužná	99	80	0
-2107	565580	1	2	901	6	Miloslav	Mensinger	M	Ing.		40	koordinátor	Plužná	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2107	565580	1	1	902	1	Jan	Rejzek			43	hasič	Plužná	99	80	0	M
+2107	565580	1	2	901	1	Ivan	Hríb			46	vývojový pracovník	Plužná	99	80	0	M
+2107	565580	1	1	902	2	Petr	Umáčený			45	automechanik	Plužná	99	80	0	M
+2107	565580	1	2	901	2	Radek	Hromčík			46	referent	Plužná	99	80	0	M
+2107	565580	1	1	902	3	Lubomír	Blecha			43	dělník	Plužná	99	80	0	M
+2107	565580	1	2	901	3	Kateřina	Macounová			35	administrativní pracovnice	Plužná	99	80	0	F
+2107	565580	1	1	902	4	Kamila	Mensingerová			34	průmyslový logistik	Plužná	99	80	0	F
+2107	565580	1	2	901	4	Jiří	Pešout	Ing.		52	manažer	Plužná	99	80	0	M
+2107	565580	1	1	902	5	Martin	Šimon			45	soukromý podnikatel	Plužná	99	80	0	M
+2107	565580	1	2	901	5	Zdeněk	Dlouhý			34	konstruktér	Plužná	99	80	0	M
+2107	565580	1	1	902	6	Pavel	Řezáč			46	soukromý podnikatel	Plužná	99	80	0	M
+2107	565580	1	2	901	6	Miloslav	Mensinger	Ing.		40	koordinátor	Plužná	99	80	0	M

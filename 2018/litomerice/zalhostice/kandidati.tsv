@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	565946	1	1	427	1	Jan	Hamerník	M			37	elektrikář	Žalhostice	99	143	A
-4203	565946	1	1	427	2	Jan	Waldhauser	M			36	manager vzdělávání	Žalhostice	99	80	A
-4203	565946	1	1	427	3	Petr	Tichý	M	Ing.		51	OSVČ	Žalhostice	99	80	A
-4203	565946	1	1	427	4	Václav	Lipš	M			55	OSVČ	Žalhostice	99	80	A
-4203	565946	1	1	427	5	Jaroslav	Bartoš	M			44	OSVČ	Žalhostice	99	80	A
-4203	565946	1	1	427	6	Marie	Nevečeřalová	F			61	učitelka odb. výcviku	Žalhostice	47	80	A
-4203	565946	1	1	427	7	Lubomír	Pánik	M	JUDr.		69	OSVČ	Žalhostice	99	80	A
-4203	565946	1	1	427	8	Zdena	Štýbrová	F			64	administrativní pracovnice	Žalhostice	99	80	A
-4203	565946	1	1	427	9	Michaela	Feisnerová	F			50	prodavačka	Žalhostice	99	80	A
-4203	565946	1	2	470	1	Zdeněk	Javorek	M			37	signalista	Žalhostice	99	80	A
-4203	565946	1	2	470	2	Tomáš	Prokopec	M			60	OSVČ	Žalhostice	99	80	A
-4203	565946	1	2	470	3	Lukáš	Pelcl	M			39	školník	Žalhostice	99	80	A
-4203	565946	1	2	470	4	Alena	Vacková	F			62	důchodce	Žalhostice	99	166	A
-4203	565946	1	2	470	5	Václav	Rotter	M			35	programátor	Žalhostice	5	80	A
-4203	565946	1	2	470	6	Petra	Rotterová	F	Ing.		36	OSVČ	Žalhostice	99	80	A
-4203	565946	1	2	470	7	Jan	Mansfeld	M			42	vrchní mistr SŽDC	Žalhostice	99	80	A
-4203	565946	1	2	470	8	Josef	Sičák	M			42	řidič	Žalhostice	99	80	A
-4203	565946	1	2	470	9	Radek	Veselý	M			37	OSVČ	Žalhostice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	565946	1	1	427	1	Jan	Hamerník			37	elektrikář	Žalhostice	99	143	A	M
+4203	565946	1	2	470	1	Zdeněk	Javorek			37	signalista	Žalhostice	99	80	A	M
+4203	565946	1	1	427	2	Jan	Waldhauser			36	manager vzdělávání	Žalhostice	99	80	A	M
+4203	565946	1	2	470	2	Tomáš	Prokopec			60	OSVČ	Žalhostice	99	80	A	M
+4203	565946	1	1	427	3	Petr	Tichý	Ing.		51	OSVČ	Žalhostice	99	80	A	M
+4203	565946	1	2	470	3	Lukáš	Pelcl			39	školník	Žalhostice	99	80	A	M
+4203	565946	1	1	427	4	Václav	Lipš			55	OSVČ	Žalhostice	99	80	A	M
+4203	565946	1	2	470	4	Alena	Vacková			62	důchodce	Žalhostice	99	166	A	F
+4203	565946	1	1	427	5	Jaroslav	Bartoš			44	OSVČ	Žalhostice	99	80	A	M
+4203	565946	1	2	470	5	Václav	Rotter			35	programátor	Žalhostice	5	80	A	M
+4203	565946	1	1	427	6	Marie	Nevečeřalová			61	učitelka odb. výcviku	Žalhostice	47	80	A	F
+4203	565946	1	2	470	6	Petra	Rotterová	Ing.		36	OSVČ	Žalhostice	99	80	A	F
+4203	565946	1	1	427	7	Lubomír	Pánik	JUDr.		69	OSVČ	Žalhostice	99	80	A	M
+4203	565946	1	2	470	7	Jan	Mansfeld			42	vrchní mistr SŽDC	Žalhostice	99	80	A	M
+4203	565946	1	1	427	8	Zdena	Štýbrová			64	administrativní pracovnice	Žalhostice	99	80	A	F
+4203	565946	1	2	470	8	Josef	Sičák			42	řidič	Žalhostice	99	80	A	M
+4203	565946	1	1	427	9	Michaela	Feisnerová			50	prodavačka	Žalhostice	99	80	A	F
+4203	565946	1	2	470	9	Radek	Veselý			37	OSVČ	Žalhostice	99	80	A	M

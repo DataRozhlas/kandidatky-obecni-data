@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579050	1	1	902	1	Jan	Lebloch	M			31	správce Rýchorské boudy	Bernartice	99	80	0
-5205	579050	1	1	902	2	Hynek	Schierl	M			38	OSVČ	Bernartice	99	80	0
-5205	579050	1	1	902	3	Jan	Jaško	M			53	OSVČ	Bernartice	99	80	0
-5205	579050	1	1	902	4	Gabriela	Schmidtová	F			42	účetní	Bernartice	99	80	0
-5205	579050	1	1	902	5	Petr	Šrejber	M			37	technolog	Bernartice	99	80	0
-5205	579050	1	1	902	6	Markéta	Dvořáková	F			33	elektromechanička	Bernartice	99	80	0
-5205	579050	1	1	902	7	Tomáš	Popek	M			35	řezník	Bernartice	99	80	0
-5205	579050	1	1	902	8	Petr	Novák	M			34	OSVČ	Bernartice	99	80	0
-5205	579050	1	1	902	9	Ivan	Kulich	M			48	policie ČR	Bernartice	99	80	0
-5205	579050	1	1	902	10	Jaroslava	Libnarová	F			56	OSVČ	Bernartice	99	80	0
-5205	579050	1	1	902	11	Jiří	Kulda	M			37	díl.technolog	Bernartice	99	80	0
-5205	579050	1	1	902	12	Martin	Dvořák	M			38	elektromechanik	Bernartice	99	80	0
-5205	579050	1	1	902	13	Andrea	Václavíková	F			33	na m.d.	Bernartice	99	80	0
-5205	579050	1	1	902	14	Simona	Pušková	F			36	na m.d.	Bernartice	99	80	0
-5205	579050	1	1	902	15	Josef	Schmidt	M			46	OSVČ	Bernartice	99	80	0
-5205	579050	1	2	901	1	Václav	Schreier	M	Bc.		42	starosta obce	Bernartice	99	80	0
-5205	579050	1	2	901	2	Jitka	Knapová	F	Mgr.		42	učitelka	Bernartice	99	80	0
-5205	579050	1	2	901	3	Radek	Lanč	M	Ing.		41	vedoucí závodu	Bernartice	99	80	0
-5205	579050	1	2	901	4	Radek	Hojný	M	Bc.		37	místostarosta obce	Bernartice	99	80	0
-5205	579050	1	2	901	5	Jan	Zuzánek	M	Ing.		36	soukromý zemědělec	Bernartice	99	80	0
-5205	579050	1	2	901	6	Iveta	Grundová	F			44	zdravotní sestra	Bernartice	99	80	0
-5205	579050	1	2	901	7	Milan	Cvik	M			43	státní zaměstnanec	Bernartice	99	80	0
-5205	579050	1	2	901	8	Pavel	Hamák	M	Mgr.		45	podnikatel	Bernartice	99	80	0
-5205	579050	1	2	901	9	Zdeňka	Nováková	F			35	kurátorka pro mládež	Bernartice	99	80	0
-5205	579050	1	2	901	10	Drahoslava	Križanová	F	PaedDr.		59	učitelka	Bernartice	99	80	0
-5205	579050	1	2	901	11	Petr	Ficker	M			48	správce sportovního areálu	Bernartice	99	80	0
-5205	579050	1	2	901	12	Vlastimil	Málek	M	Mgr.		33	ředitel muzea	Bernartice	99	80	0
-5205	579050	1	2	901	13	Jiří	Kučera	M	JUDr.		51	podnikatel	Bernartice	99	80	0
-5205	579050	1	2	901	14	Pavel	Troch	M			35	technolog	Bernartice	99	80	0
-5205	579050	1	2	901	15	Evžen	Jančuk	M			49	živnostník	Bernartice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579050	1	1	902	1	Jan	Lebloch			31	správce Rýchorské boudy	Bernartice	99	80	0	M
+5205	579050	1	2	901	1	Václav	Schreier	Bc.		42	starosta obce	Bernartice	99	80	0	M
+5205	579050	1	1	902	2	Hynek	Schierl			38	OSVČ	Bernartice	99	80	0	M
+5205	579050	1	2	901	2	Jitka	Knapová	Mgr.		42	učitelka	Bernartice	99	80	0	F
+5205	579050	1	1	902	3	Jan	Jaško			53	OSVČ	Bernartice	99	80	0	M
+5205	579050	1	2	901	3	Radek	Lanč	Ing.		41	vedoucí závodu	Bernartice	99	80	0	M
+5205	579050	1	1	902	4	Gabriela	Schmidtová			42	účetní	Bernartice	99	80	0	F
+5205	579050	1	2	901	4	Radek	Hojný	Bc.		37	místostarosta obce	Bernartice	99	80	0	M
+5205	579050	1	1	902	5	Petr	Šrejber			37	technolog	Bernartice	99	80	0	M
+5205	579050	1	2	901	5	Jan	Zuzánek	Ing.		36	soukromý zemědělec	Bernartice	99	80	0	M
+5205	579050	1	1	902	6	Markéta	Dvořáková			33	elektromechanička	Bernartice	99	80	0	F
+5205	579050	1	2	901	6	Iveta	Grundová			44	zdravotní sestra	Bernartice	99	80	0	F
+5205	579050	1	1	902	7	Tomáš	Popek			35	řezník	Bernartice	99	80	0	M
+5205	579050	1	2	901	7	Milan	Cvik			43	státní zaměstnanec	Bernartice	99	80	0	M
+5205	579050	1	1	902	8	Petr	Novák			34	OSVČ	Bernartice	99	80	0	M
+5205	579050	1	2	901	8	Pavel	Hamák	Mgr.		45	podnikatel	Bernartice	99	80	0	M
+5205	579050	1	1	902	9	Ivan	Kulich			48	policie ČR	Bernartice	99	80	0	M
+5205	579050	1	2	901	9	Zdeňka	Nováková			35	kurátorka pro mládež	Bernartice	99	80	0	F
+5205	579050	1	1	902	10	Jaroslava	Libnarová			56	OSVČ	Bernartice	99	80	0	F
+5205	579050	1	2	901	10	Drahoslava	Križanová	PaedDr.		59	učitelka	Bernartice	99	80	0	F
+5205	579050	1	1	902	11	Jiří	Kulda			37	díl.technolog	Bernartice	99	80	0	M
+5205	579050	1	2	901	11	Petr	Ficker			48	správce sportovního areálu	Bernartice	99	80	0	M
+5205	579050	1	1	902	12	Martin	Dvořák			38	elektromechanik	Bernartice	99	80	0	M
+5205	579050	1	2	901	12	Vlastimil	Málek	Mgr.		33	ředitel muzea	Bernartice	99	80	0	M
+5205	579050	1	1	902	13	Andrea	Václavíková			33	na m.d.	Bernartice	99	80	0	F
+5205	579050	1	2	901	13	Jiří	Kučera	JUDr.		51	podnikatel	Bernartice	99	80	0	M
+5205	579050	1	1	902	14	Simona	Pušková			36	na m.d.	Bernartice	99	80	0	F
+5205	579050	1	2	901	14	Pavel	Troch			35	technolog	Bernartice	99	80	0	M
+5205	579050	1	1	902	15	Josef	Schmidt			46	OSVČ	Bernartice	99	80	0	M
+5205	579050	1	2	901	15	Evžen	Jančuk			49	živnostník	Bernartice	99	80	0	M

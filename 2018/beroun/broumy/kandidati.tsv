@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2102	531081	1	1	901	1	Petr	Jirka	M			55	technik	Broumy	99	80	A
-2102	531081	1	1	901	2	Václav	Štochl	M			60	hasič	Broumy	99	80	A
-2102	531081	1	1	901	3	Tomáš	Rosenbaum	M			33	truhlář	Broumy	99	80	A
-2102	531081	1	1	901	4	Milena	Kohoutová	F			50	živnostník	Broumy	99	80	A
-2102	531081	1	1	901	5	Mirko	Vlach	M			63	důchodce	Broumy	99	80	A
-2102	531081	1	1	901	6	Ladislav	Pexa	M			55	živnostník	Broumy	99	80	A
-2102	531081	1	1	901	7	František	Pergler	M			62	vedoucí výroby	Broumy	99	80	A
-2102	531081	1	2	801	1	Stanislav	Müller	M			41	OSVČ-org. vzdělávacích projektů v oboru stavebn.	Broumy	99	80	A
-2102	531081	1	3	902	1	Petr	Ubry	M	Ing.		53	státní zaměstnanec	Broumy	99	80	A
-2102	531081	1	3	902	2	Karel	Císař	M			49	nástrojař	Broumy	99	80	A
-2102	531081	1	3	902	3	Roman	Kodet	M			48	profesionální hasič	Broumy	99	80	A
-2102	531081	1	3	902	4	Marcela	Závorová	F	Ing.		29	admin. pracovnice	Broumy	99	80	A
-2102	531081	1	3	902	5	Renata	Belanská	F	Ing.		54	zdrav. laborantka	Broumy	99	80	A
-2102	531081	1	3	902	6	David	Fuxa	M			27	podnikatel zeměděl.	Broumy	99	80	A
-2102	531081	1	3	902	7	Jindřich	Eger	M	Ing.		64	podnikatel obchod	Broumy	99	80	A
-2102	531081	1	3	902	8	Veronika	Tvrdá	F		DiS.	25	zaměstnanec	Broumy	99	80	A
-2102	531081	1	3	902	9	Daniel	Doležal	M	PhDr.		43	psycholog	Broumy	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2102	531081	1	1	901	1	Petr	Jirka			55	technik	Broumy	99	80	A	M
+2102	531081	1	2	801	1	Stanislav	Müller			41	OSVČ-org. vzdělávacích projektů v oboru stavebn.	Broumy	99	80	A	M
+2102	531081	1	3	902	1	Petr	Ubry	Ing.		53	státní zaměstnanec	Broumy	99	80	A	M
+2102	531081	1	1	901	2	Václav	Štochl			60	hasič	Broumy	99	80	A	M
+2102	531081	1	3	902	2	Karel	Císař			49	nástrojař	Broumy	99	80	A	M
+2102	531081	1	1	901	3	Tomáš	Rosenbaum			33	truhlář	Broumy	99	80	A	M
+2102	531081	1	3	902	3	Roman	Kodet			48	profesionální hasič	Broumy	99	80	A	M
+2102	531081	1	1	901	4	Milena	Kohoutová			50	živnostník	Broumy	99	80	A	F
+2102	531081	1	3	902	4	Marcela	Závorová	Ing.		29	admin. pracovnice	Broumy	99	80	A	F
+2102	531081	1	1	901	5	Mirko	Vlach			63	důchodce	Broumy	99	80	A	M
+2102	531081	1	3	902	5	Renata	Belanská	Ing.		54	zdrav. laborantka	Broumy	99	80	A	F
+2102	531081	1	1	901	6	Ladislav	Pexa			55	živnostník	Broumy	99	80	A	M
+2102	531081	1	3	902	6	David	Fuxa			27	podnikatel zeměděl.	Broumy	99	80	A	M
+2102	531081	1	1	901	7	František	Pergler			62	vedoucí výroby	Broumy	99	80	A	M
+2102	531081	1	3	902	7	Jindřich	Eger	Ing.		64	podnikatel obchod	Broumy	99	80	A	M
+2102	531081	1	3	902	8	Veronika	Tvrdá		DiS.	25	zaměstnanec	Broumy	99	80	A	F
+2102	531081	1	3	902	9	Daniel	Doležal	PhDr.		43	psycholog	Broumy	99	80	A	M

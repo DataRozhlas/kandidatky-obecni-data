@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5103	564427	1	1	144	1	Jaroslav	Wiesner	M	Bc.		49	OSVČ	Jiříčkov	99	144	0
-5103	564427	1	1	144	2	Aleš	Hauzer	M	Ing.		34	regionální manažer	Hoření Paseky	144	144	0
-5103	564427	1	1	144	3	Stanislav	Holub	M			62	OSVČ	Jiříčkov	99	144	0
-5103	564427	1	1	144	4	Jiří	Svoboda	M			39	OSVČ	Světlá pod Ještědem	99	144	0
-5103	564427	1	1	144	5	Eva	Hunčovská	F			27	kuchařka	Jiříčkov	99	144	0
-5103	564427	1	1	144	6	Hana	Šrytrová	F			32	poštovní úřednice	Jiříčkov	99	144	0
-5103	564427	1	1	144	7	Jaroslav	Rozkovec	M			34	dělník	Jiříčkov	99	144	0
-5103	564427	1	1	144	8	Luboš	Hauzer	M	Ing.		42	manažer	Hoření Paseky	99	144	0
-5103	564427	1	2	902	1	Pavel	Glaser	M			32	mistr	Světlá pod Ještědem	99	80	0
-5103	564427	1	2	902	2	Michal	Sluka	M			26	technik	Rozstání	99	80	0
-5103	564427	1	2	902	3	Jan	Třešňák	M			33	policista	Světlá pod Ještědem	99	80	0
-5103	564427	1	3	903	1	Jana	Heršálková	F			64	důchodce	Hoření Paseky	99	80	0
-5103	564427	1	3	903	2	Vít	Prokop	M			42	technolog	Dolení Paseky	99	80	0
-5103	564427	1	3	903	3	Petr	Bulíř	M			60	servisní technik	Světlá pod Ještědem	99	80	0
-5103	564427	1	3	903	4	Oldřich	Mindl	M			36	technik kvality	Hodky	99	80	0
-5103	564427	1	3	903	5	Dana	Wiesnerová	F			46	zdravotní sestra	Jiříčkov	99	80	0
-5103	564427	1	3	903	6	Petr	Dušák	M			36	obchodní ředitel	Rozstání	99	80	0
-5103	564427	1	3	903	7	Jiří	Havelka	M			57	veterinární technik	Hodky	99	80	0
-5103	564427	1	4	901	1	Tomáš	Sluka	M	Ing.		52	starosta	Světlá pod Ještědem	99	80	0
-5103	564427	1	4	901	2	Petr	Kolomazník	M	Ing.		45	úředník	Rozstání	99	80	0
-5103	564427	1	4	901	3	Renata	Pluhařová	F	Mgr.		45	ředitelka ZŠ	Jiříčkov	99	80	0
-5103	564427	1	4	901	4	Milan	Kořínek	M			38	projektant	Rozstání	99	80	0
-5103	564427	1	4	901	5	Alena	Vanerová	F			54	vedoucí stravování	Rozstání	99	80	0
-5103	564427	1	4	901	6	Tomáš	Polcar	M			41	obchodní cestující	Světlá pod Ještědem	99	80	0
-5103	564427	1	4	901	7	Soňa	Čermáková	F			50	knihovnice	Rozstání	99	80	0
-5103	564427	1	4	901	8	Tomáš	Bulíř	M			31	hasič	Dolení Paseky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5103	564427	1	1	144	1	Jaroslav	Wiesner	Bc.		49	OSVČ	Jiříčkov	99	144	0	M
+5103	564427	1	2	902	1	Pavel	Glaser			32	mistr	Světlá pod Ještědem	99	80	0	M
+5103	564427	1	3	903	1	Jana	Heršálková			64	důchodce	Hoření Paseky	99	80	0	F
+5103	564427	1	4	901	1	Tomáš	Sluka	Ing.		52	starosta	Světlá pod Ještědem	99	80	0	M
+5103	564427	1	1	144	2	Aleš	Hauzer	Ing.		34	regionální manažer	Hoření Paseky	144	144	0	M
+5103	564427	1	2	902	2	Michal	Sluka			26	technik	Rozstání	99	80	0	M
+5103	564427	1	3	903	2	Vít	Prokop			42	technolog	Dolení Paseky	99	80	0	M
+5103	564427	1	4	901	2	Petr	Kolomazník	Ing.		45	úředník	Rozstání	99	80	0	M
+5103	564427	1	1	144	3	Stanislav	Holub			62	OSVČ	Jiříčkov	99	144	0	M
+5103	564427	1	2	902	3	Jan	Třešňák			33	policista	Světlá pod Ještědem	99	80	0	M
+5103	564427	1	3	903	3	Petr	Bulíř			60	servisní technik	Světlá pod Ještědem	99	80	0	M
+5103	564427	1	4	901	3	Renata	Pluhařová	Mgr.		45	ředitelka ZŠ	Jiříčkov	99	80	0	F
+5103	564427	1	1	144	4	Jiří	Svoboda			39	OSVČ	Světlá pod Ještědem	99	144	0	M
+5103	564427	1	3	903	4	Oldřich	Mindl			36	technik kvality	Hodky	99	80	0	M
+5103	564427	1	4	901	4	Milan	Kořínek			38	projektant	Rozstání	99	80	0	M
+5103	564427	1	1	144	5	Eva	Hunčovská			27	kuchařka	Jiříčkov	99	144	0	F
+5103	564427	1	3	903	5	Dana	Wiesnerová			46	zdravotní sestra	Jiříčkov	99	80	0	F
+5103	564427	1	4	901	5	Alena	Vanerová			54	vedoucí stravování	Rozstání	99	80	0	F
+5103	564427	1	1	144	6	Hana	Šrytrová			32	poštovní úřednice	Jiříčkov	99	144	0	F
+5103	564427	1	3	903	6	Petr	Dušák			36	obchodní ředitel	Rozstání	99	80	0	M
+5103	564427	1	4	901	6	Tomáš	Polcar			41	obchodní cestující	Světlá pod Ještědem	99	80	0	M
+5103	564427	1	1	144	7	Jaroslav	Rozkovec			34	dělník	Jiříčkov	99	144	0	M
+5103	564427	1	3	903	7	Jiří	Havelka			57	veterinární technik	Hodky	99	80	0	M
+5103	564427	1	4	901	7	Soňa	Čermáková			50	knihovnice	Rozstání	99	80	0	F
+5103	564427	1	1	144	8	Luboš	Hauzer	Ing.		42	manažer	Hoření Paseky	99	144	0	M
+5103	564427	1	4	901	8	Tomáš	Bulíř			31	hasič	Dolení Paseky	99	80	0	M

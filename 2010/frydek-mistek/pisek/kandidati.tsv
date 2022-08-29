@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8102	512028	1	1	901	1	Oldřich	Rathouský	M			60	starosta	Písek	99	80	0
-8102	512028	1	1	901	2	Miroslav	Vymazal	M			49	vedoucí nástrojárny	Písek	99	80	0
-8102	512028	1	1	901	3	Jaromír	Macoszek	M			50	mechanik TŽ	Písek	99	80	0
-8102	512028	1	1	901	4	Ludmila	Burdková	F			53	učitelka	Písek	99	80	0
-8102	512028	1	1	901	5	Karel	Sikora	M			53	podnikatel	Písek	99	80	0
-8102	512028	1	1	901	6	Jan	Motyka	M			63	důchodce	Písek	99	80	0
-8102	512028	1	1	901	7	Věra	Groušlová	F			46	vedoucí pošty	Písek	99	80	0
-8102	512028	1	1	901	8	Vladislav	Kobielusz	M			54	důchodce	Písek	99	80	0
-8102	512028	1	1	901	9	Adam	Roženek	M			54	důchodce	Písek	99	80	0
-8102	512028	1	2	1	1	Jan	Bojko	M	Ing.		42	vedoucí provozu	Písek	99	1	0
-8102	512028	1	2	1	2	Vladislav	Jakubik	M	Ing.		58	technik	Písek	99	1	0
-8102	512028	1	2	1	3	Vladislav	Zogata	M			56	soukromý podnikatel	Písek	1	1	0
-8102	512028	1	2	1	4	Josef	Szkandera	M			56	soustružník	Písek	1	1	0
-8102	512028	1	2	1	5	Stanislav	Kapsia	M			40	hutník - operátor	Písek	1	1	0
-8102	512028	1	2	1	6	Petr	Mucha	M			30	technik	Písek	99	1	0
-8102	512028	1	2	1	7	Miroslav	Waclawek	M			40	strážník	Písek	99	1	0
-8102	512028	1	2	1	8	Josef	Szotkowski	M			64	důchodce	Písek	99	1	0
-8102	512028	1	2	1	9	Petr	Krzyžanek	M			44	strojník	Písek	99	1	0
-8102	512028	1	3	7	1	Antonín	Martynek	M			58	strojník, zaměstnanec TŽ	Písek	7	7	0
-8102	512028	1	3	7	2	Petr	Cieslar	M			46	vedoucí stavební skupiny	Písek	99	7	0
-8102	512028	1	3	7	3	Lenka	Martynková	F			36	ekonomka, zaměstnanec TŽ	Písek	7	7	0
-8102	512028	1	3	7	4	Jan	Kobielusz	M			67	důchodce	Písek	7	7	0
-8102	512028	1	3	7	5	Alena	Čmielová	F			51	vedoucí prodejny	Písek	7	7	0
-8102	512028	1	3	7	6	Dana	Nowaková	F			42	mzdová účetní u stavební firmy	Písek	7	7	0
-8102	512028	1	3	7	7	Eduard	Byrtus	M			71	důchodce	Písek	7	7	0
-8102	512028	1	3	7	8	Anna	Andělová	F			58	důchodkyně	Písek	7	7	0
-8102	512028	1	3	7	9	Libor	Martynek	M			41	celní deklarant	Písek	7	7	0
-8102	512028	1	4	72	1	Olga	Jakubiková	F			55	důchodkyně/emerytka	Písek	99	72	0
-8102	512028	1	4	72	2	Jiří	Heczko	M			49	vedoucí technických služeb	Písek	99	72	0
-8102	512028	1	4	72	3	Karel	Skupień	M			45	soukromý zemědělec/rolnik	Písek	99	72	0
-8102	512028	1	4	72	4	Jan	Bocek	M			59	technik	Písek	99	72	0
-8102	512028	1	4	72	5	Alois	Woclawek	M			51	jeřábník/dźwigowy	Písek	99	72	0
-8102	512028	1	4	72	6	Stanislav	Kurek	M			28	živnostník/przedsiębiorca	Písek	99	72	0
-8102	512028	1	4	72	7	Jana	Puczoková	F			34	mateř. dov./urlop macierzyński	Písek	99	72	0
-8102	512028	1	4	72	8	Karel	Michalik	M			57	ved. STK/szef diagnostyki	Písek	72	72	0
-8102	512028	1	4	72	9	Rudolf	Szmek	M			56	elektrikář/elektryk	Písek	99	72	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8102	512028	1	1	901	1	Oldřich	Rathouský			60	starosta	Písek	99	80	0	M
+8102	512028	1	2	1	1	Jan	Bojko	Ing.		42	vedoucí provozu	Písek	99	1	0	M
+8102	512028	1	3	7	1	Antonín	Martynek			58	strojník, zaměstnanec TŽ	Písek	7	7	0	M
+8102	512028	1	4	72	1	Olga	Jakubiková			55	důchodkyně/emerytka	Písek	99	72	0	F
+8102	512028	1	1	901	2	Miroslav	Vymazal			49	vedoucí nástrojárny	Písek	99	80	0	M
+8102	512028	1	2	1	2	Vladislav	Jakubik	Ing.		58	technik	Písek	99	1	0	M
+8102	512028	1	3	7	2	Petr	Cieslar			46	vedoucí stavební skupiny	Písek	99	7	0	M
+8102	512028	1	4	72	2	Jiří	Heczko			49	vedoucí technických služeb	Písek	99	72	0	M
+8102	512028	1	1	901	3	Jaromír	Macoszek			50	mechanik TŽ	Písek	99	80	0	M
+8102	512028	1	2	1	3	Vladislav	Zogata			56	soukromý podnikatel	Písek	1	1	0	M
+8102	512028	1	3	7	3	Lenka	Martynková			36	ekonomka, zaměstnanec TŽ	Písek	7	7	0	F
+8102	512028	1	4	72	3	Karel	Skupień			45	soukromý zemědělec/rolnik	Písek	99	72	0	M
+8102	512028	1	1	901	4	Ludmila	Burdková			53	učitelka	Písek	99	80	0	F
+8102	512028	1	2	1	4	Josef	Szkandera			56	soustružník	Písek	1	1	0	M
+8102	512028	1	3	7	4	Jan	Kobielusz			67	důchodce	Písek	7	7	0	M
+8102	512028	1	4	72	4	Jan	Bocek			59	technik	Písek	99	72	0	M
+8102	512028	1	1	901	5	Karel	Sikora			53	podnikatel	Písek	99	80	0	M
+8102	512028	1	2	1	5	Stanislav	Kapsia			40	hutník - operátor	Písek	1	1	0	M
+8102	512028	1	3	7	5	Alena	Čmielová			51	vedoucí prodejny	Písek	7	7	0	F
+8102	512028	1	4	72	5	Alois	Woclawek			51	jeřábník/dźwigowy	Písek	99	72	0	M
+8102	512028	1	1	901	6	Jan	Motyka			63	důchodce	Písek	99	80	0	M
+8102	512028	1	2	1	6	Petr	Mucha			30	technik	Písek	99	1	0	M
+8102	512028	1	3	7	6	Dana	Nowaková			42	mzdová účetní u stavební firmy	Písek	7	7	0	F
+8102	512028	1	4	72	6	Stanislav	Kurek			28	živnostník/przedsiębiorca	Písek	99	72	0	M
+8102	512028	1	1	901	7	Věra	Groušlová			46	vedoucí pošty	Písek	99	80	0	F
+8102	512028	1	2	1	7	Miroslav	Waclawek			40	strážník	Písek	99	1	0	M
+8102	512028	1	3	7	7	Eduard	Byrtus			71	důchodce	Písek	7	7	0	M
+8102	512028	1	4	72	7	Jana	Puczoková			34	mateř. dov./urlop macierzyński	Písek	99	72	0	F
+8102	512028	1	1	901	8	Vladislav	Kobielusz			54	důchodce	Písek	99	80	0	M
+8102	512028	1	2	1	8	Josef	Szotkowski			64	důchodce	Písek	99	1	0	M
+8102	512028	1	3	7	8	Anna	Andělová			58	důchodkyně	Písek	7	7	0	F
+8102	512028	1	4	72	8	Karel	Michalik			57	ved. STK/szef diagnostyki	Písek	72	72	0	M
+8102	512028	1	1	901	9	Adam	Roženek			54	důchodce	Písek	99	80	0	M
+8102	512028	1	2	1	9	Petr	Krzyžanek			44	strojník	Písek	99	1	0	M
+8102	512028	1	3	7	9	Libor	Martynek			41	celní deklarant	Písek	7	7	0	M
+8102	512028	1	4	72	9	Rudolf	Szmek			56	elektrikář/elektryk	Písek	99	72	0	M

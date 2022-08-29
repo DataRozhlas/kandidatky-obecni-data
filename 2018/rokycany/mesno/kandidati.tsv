@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3206	579084	1	1	902	1	Karel	Otýs	M	Ing.		52	lektor	Mešno	99	80	A
-3206	579084	1	1	902	2	Kateřina	Bláhová	F			41	referentka	Mešno	99	80	A
-3206	579084	1	1	902	3	Radka	Musilová	F	Bc.		40	mateřská dovolená	Mešno	99	80	A
-3206	579084	1	1	902	4	Jan	Bláha	M	Mgr.		40	vedoucí IT	Mešno	99	80	A
-3206	579084	1	1	902	5	Marie	Bartoníčková	F			67	asistentka lektora	Mešno	99	80	A
-3206	579084	1	1	902	6	Jan	Otýs	M			26	student	Mešno	99	80	A
-3206	579084	1	1	902	7	Alena	Poděbradská	F			35	výrobce obalů	Mešno	99	80	A
-3206	579084	1	2	901	1	Josef	Brůha	M			55	konstruktér	Mešno	99	80	A
-3206	579084	1	2	901	2	Pavlína	Brůhová	F			49	dělnice	Mešno	99	80	A
-3206	579084	1	2	901	3	Šimon	Petr	M			28	projektant	Mešno	99	80	A
-3206	579084	1	2	901	4	Stanislav	Pouska	M			39	dělník	Mešno	99	80	A
-3206	579084	1	2	901	5	Radek	Jelínek	M			53	invalidní důchodce	Mešno	99	80	A
-3206	579084	1	2	901	6	Vladimír	Petr	M			61	OSVČ	Mešno	99	80	A
-3206	579084	1	2	901	7	Jindřich	Pouska	M			70	důchodce	Mešno	99	80	A
-3206	579084	1	2	901	8	Václav	Čubr	M			64	důchodce	Mešno	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3206	579084	1	1	902	1	Karel	Otýs	Ing.		52	lektor	Mešno	99	80	A	M
+3206	579084	1	2	901	1	Josef	Brůha			55	konstruktér	Mešno	99	80	A	M
+3206	579084	1	1	902	2	Kateřina	Bláhová			41	referentka	Mešno	99	80	A	F
+3206	579084	1	2	901	2	Pavlína	Brůhová			49	dělnice	Mešno	99	80	A	F
+3206	579084	1	1	902	3	Radka	Musilová	Bc.		40	mateřská dovolená	Mešno	99	80	A	F
+3206	579084	1	2	901	3	Šimon	Petr			28	projektant	Mešno	99	80	A	M
+3206	579084	1	1	902	4	Jan	Bláha	Mgr.		40	vedoucí IT	Mešno	99	80	A	M
+3206	579084	1	2	901	4	Stanislav	Pouska			39	dělník	Mešno	99	80	A	M
+3206	579084	1	1	902	5	Marie	Bartoníčková			67	asistentka lektora	Mešno	99	80	A	F
+3206	579084	1	2	901	5	Radek	Jelínek			53	invalidní důchodce	Mešno	99	80	A	M
+3206	579084	1	1	902	6	Jan	Otýs			26	student	Mešno	99	80	A	M
+3206	579084	1	2	901	6	Vladimír	Petr			61	OSVČ	Mešno	99	80	A	M
+3206	579084	1	1	902	7	Alena	Poděbradská			35	výrobce obalů	Mešno	99	80	A	F
+3206	579084	1	2	901	7	Jindřich	Pouska			70	důchodce	Mešno	99	80	A	M
+3206	579084	1	2	901	8	Václav	Čubr			64	důchodce	Mešno	99	80	A	M

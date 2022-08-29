@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5104	577146	1	1	901	1	Tomáš	Lehký	M	JUDr.		69	zaměstnanec	Bohuslav	99	80	A
-5104	577146	1	1	901	2	Pavel	Stuchlík	M			55	zaměstnanec	Hnanice	99	80	A
-5104	577146	1	1	901	3	Ivana	Valentová	F			52	zaměstnanec	Bohuslav	99	80	A
-5104	577146	1	1	901	4	Jarmila	Paříková	F			62	důchodkyně	Borek	99	80	A
-5104	577146	1	1	901	5	Jiří	Vagenknecht	M			41	zaměstnanec	Rokytnice	99	80	A
-5104	577146	1	1	901	6	Radomíra	Sehnalová	F	Ing.		59	podnikatel	Hnanice	99	80	A
-5104	577146	1	1	901	7	Michal	Butor	M			39	zaměstnanec	Hnanice	99	80	A
-5104	577146	1	1	901	8	Miloslav	Maier	M			59	zaměstnanec	Hnanice	99	80	A
-5104	577146	1	1	901	9	Milena	Butorová	F			49	zaměstnanec	Hnanice	99	80	A
-5104	577146	1	2	903	1	Aleš	Vaníček	M			45	technik	Doubravice	99	80	A
-5104	577146	1	2	903	2	Michal	Najman	M			30	referent	Doubravice	99	80	A
-5104	577146	1	2	903	3	Jakub	Lhoták	M			24	dělník	Doubravice	99	80	A
-5104	577146	1	2	903	4	Monika	Hlubůčková	F			42	OSVČ	Krčkovice	99	80	A
-5104	577146	1	2	903	5	Romana	Cvrčková	F	Ing.		38	zootechnik	Doubravice	99	80	A
-5104	577146	1	2	903	6	Robert	Zima	M			44	šéfkuchař	Hrubá Skála	99	80	A
-5104	577146	1	2	903	7	Jiří	Koželuh	M			73	důchodce	Hrubá Skála	99	80	A
-5104	577146	1	2	903	8	Martin	Kohoutek	M			21	dělník	Doubravice	99	80	A
-5104	577146	1	2	903	9	Ladislav	Pršala	M			69	důchodce	Hrubá Skála	99	80	A
-5104	577146	1	3	902	1	Karel	Bugno	M			43	strojník	Doubravice	99	80	A
-5104	577146	1	3	902	2	Daniela	Vaníčková	F			48	prodavačka	Doubravice	99	80	A
-5104	577146	1	3	902	3	Miroslava	Hlubučková	F			45	učitelka mateřské školy	Hrubá Skála	99	80	A
-5104	577146	1	3	902	4	Jan	Holubec	M			53	obchodní zástupce	Hnanice	99	80	A
-5104	577146	1	3	902	5	Tomáš	Bugno	M			49	oblastní ředitel	Doubravice	99	80	A
-5104	577146	1	3	902	6	Jitka	Šimková	F			44	starostka	Hnanice	99	80	A
-5104	577146	1	3	902	7	Jaroslav	Špína	M			47	živnostník	Borek	99	80	A
-5104	577146	1	3	902	8	Vladimír	Řípa	M	JUDr.		64	důchodce	Krčkovice	99	80	A
-5104	577146	1	3	902	9	Jitka	Pospíchalová	F	Mgr.		46	lektorka angličtiny	Doubravice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5104	577146	1	1	901	1	Tomáš	Lehký	JUDr.		69	zaměstnanec	Bohuslav	99	80	A	M
+5104	577146	1	2	903	1	Aleš	Vaníček			45	technik	Doubravice	99	80	A	M
+5104	577146	1	3	902	1	Karel	Bugno			43	strojník	Doubravice	99	80	A	M
+5104	577146	1	1	901	2	Pavel	Stuchlík			55	zaměstnanec	Hnanice	99	80	A	M
+5104	577146	1	2	903	2	Michal	Najman			30	referent	Doubravice	99	80	A	M
+5104	577146	1	3	902	2	Daniela	Vaníčková			48	prodavačka	Doubravice	99	80	A	F
+5104	577146	1	1	901	3	Ivana	Valentová			52	zaměstnanec	Bohuslav	99	80	A	F
+5104	577146	1	2	903	3	Jakub	Lhoták			24	dělník	Doubravice	99	80	A	M
+5104	577146	1	3	902	3	Miroslava	Hlubučková			45	učitelka mateřské školy	Hrubá Skála	99	80	A	F
+5104	577146	1	1	901	4	Jarmila	Paříková			62	důchodkyně	Borek	99	80	A	F
+5104	577146	1	2	903	4	Monika	Hlubůčková			42	OSVČ	Krčkovice	99	80	A	F
+5104	577146	1	3	902	4	Jan	Holubec			53	obchodní zástupce	Hnanice	99	80	A	M
+5104	577146	1	1	901	5	Jiří	Vagenknecht			41	zaměstnanec	Rokytnice	99	80	A	M
+5104	577146	1	2	903	5	Romana	Cvrčková	Ing.		38	zootechnik	Doubravice	99	80	A	F
+5104	577146	1	3	902	5	Tomáš	Bugno			49	oblastní ředitel	Doubravice	99	80	A	M
+5104	577146	1	1	901	6	Radomíra	Sehnalová	Ing.		59	podnikatel	Hnanice	99	80	A	F
+5104	577146	1	2	903	6	Robert	Zima			44	šéfkuchař	Hrubá Skála	99	80	A	M
+5104	577146	1	3	902	6	Jitka	Šimková			44	starostka	Hnanice	99	80	A	F
+5104	577146	1	1	901	7	Michal	Butor			39	zaměstnanec	Hnanice	99	80	A	M
+5104	577146	1	2	903	7	Jiří	Koželuh			73	důchodce	Hrubá Skála	99	80	A	M
+5104	577146	1	3	902	7	Jaroslav	Špína			47	živnostník	Borek	99	80	A	M
+5104	577146	1	1	901	8	Miloslav	Maier			59	zaměstnanec	Hnanice	99	80	A	M
+5104	577146	1	2	903	8	Martin	Kohoutek			21	dělník	Doubravice	99	80	A	M
+5104	577146	1	3	902	8	Vladimír	Řípa	JUDr.		64	důchodce	Krčkovice	99	80	A	M
+5104	577146	1	1	901	9	Milena	Butorová			49	zaměstnanec	Hnanice	99	80	A	F
+5104	577146	1	2	903	9	Ladislav	Pršala			69	důchodce	Hrubá Skála	99	80	A	M
+5104	577146	1	3	902	9	Jitka	Pospíchalová	Mgr.		46	lektorka angličtiny	Doubravice	99	80	A	F

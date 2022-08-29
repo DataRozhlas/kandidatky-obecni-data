@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	535885	1	1	901	1	Václav	Adamec	M			34	projektový manažer	Hoštejn	99	80	A
-7105	535885	1	1	901	2	Arťom	Suchý	M			42	projektant	Hoštejn	99	80	A
-7105	535885	1	1	901	3	Tereza	Suchá	F			30	investiční referent	Hoštejn	99	80	A
-7105	535885	1	1	901	4	Milena	Kreutzová	F			51	vedoucí kontroly	Hoštejn	99	80	A
-7105	535885	1	1	901	5	Radek	Navrátil	M			55	strojvedoucí	Hoštejn	99	80	A
-7105	535885	1	1	901	6	Hana	Majtnerová	F			38	učitelka MŠ	Hoštejn	99	80	A
-7105	535885	1	1	901	7	Dagmar	Kovaříková	F			42	fyzioterapeut	Hoštejn	99	80	A
-7105	535885	1	1	901	8	František	Stejskal	M			59	zedník	Hoštejn	99	80	A
-7105	535885	1	1	901	9	Miloslav	Tomášek	M			27	zaměstnanec obce	Hoštejn	99	80	A
-7105	535885	1	2	1	1	Veronika	Rohlíková	F	Mgr.		35	na mateřské dovolené	Hoštejn	99	1	A
-7105	535885	1	2	1	2	Kateřina	Suchá				42	pedagog	Hoštejn	99	1	A
-7105	535885	1	2	1	3	Josef	Hampl	M			44	pracovník Charity Zábřeh	Hoštejn	99	1	A
-7105	535885	1	2	1	4	Hana	Fingerová	F			54	asistentka pedagoga	Hoštejn	99	1	A
-7105	535885	1	2	1	5	Petr	Šipka	M			39	elektrikář	Hoštejn	99	1	A
-7105	535885	1	2	1	6	Alena	Mikolajková	F			63	dělnice	Hoštejn	1	1	A
-7105	535885	1	2	1	7	Aleš	Šmehlík	M			48	dělník	Hoštejn	99	1	A
-7105	535885	1	2	1	8	František	Doubrava	M			53	řidič	Hoštejn	99	1	A
-7105	535885	1	2	1	9	Hana	Drozdová	F			58	administrativní pracovnice	Hoštejn	99	1	A
-7105	535885	1	3	902	1	Martin	Heger	M	Ing.		50	manažer dopravy	Hoštejn	99	80	A
-7105	535885	1	3	902	2	Daniel	Moravec	M			42	obchodní manažer	Hoštejn	99	80	A
-7105	535885	1	3	902	3	Anna	Diblíková	F			50	optik	Hoštejn	99	80	A
-7105	535885	1	3	902	4	Jan	Kunčar	M			49	revírník	Hoštejn	99	80	A
-7105	535885	1	3	902	5	Radek	Finger	M			55	dělník	Hoštejn	99	80	A
-7105	535885	1	3	902	6	Jiří	Chytka	M			49	mistr údržby	Hoštejn	99	80	A
-7105	535885	1	3	902	7	Veronika	Justová	F			41	manažer prodejny	Hoštejn	99	80	A
-7105	535885	1	3	902	8	Jan	Tinka	M			27	servisní technik	Hoštejn	99	80	A
-7105	535885	1	3	902	9	Hana	Moravcová	F			61	správce DPS	Hoštejn	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	535885	1	1	901	1	Václav	Adamec			34	projektový manažer	Hoštejn	99	80	A	M
+7105	535885	1	2	1	1	Veronika	Rohlíková	Mgr.		35	na mateřské dovolené	Hoštejn	99	1	A	F
+7105	535885	1	3	902	1	Martin	Heger	Ing.		50	manažer dopravy	Hoštejn	99	80	A	M
+7105	535885	1	1	901	2	Arťom	Suchý			42	projektant	Hoštejn	99	80	A	M
+7105	535885	1	2	1	2	Kateřina	Suchá			42	pedagog	Hoštejn	99	1	A	
+7105	535885	1	3	902	2	Daniel	Moravec			42	obchodní manažer	Hoštejn	99	80	A	M
+7105	535885	1	1	901	3	Tereza	Suchá			30	investiční referent	Hoštejn	99	80	A	F
+7105	535885	1	2	1	3	Josef	Hampl			44	pracovník Charity Zábřeh	Hoštejn	99	1	A	M
+7105	535885	1	3	902	3	Anna	Diblíková			50	optik	Hoštejn	99	80	A	F
+7105	535885	1	1	901	4	Milena	Kreutzová			51	vedoucí kontroly	Hoštejn	99	80	A	F
+7105	535885	1	2	1	4	Hana	Fingerová			54	asistentka pedagoga	Hoštejn	99	1	A	F
+7105	535885	1	3	902	4	Jan	Kunčar			49	revírník	Hoštejn	99	80	A	M
+7105	535885	1	1	901	5	Radek	Navrátil			55	strojvedoucí	Hoštejn	99	80	A	M
+7105	535885	1	2	1	5	Petr	Šipka			39	elektrikář	Hoštejn	99	1	A	M
+7105	535885	1	3	902	5	Radek	Finger			55	dělník	Hoštejn	99	80	A	M
+7105	535885	1	1	901	6	Hana	Majtnerová			38	učitelka MŠ	Hoštejn	99	80	A	F
+7105	535885	1	2	1	6	Alena	Mikolajková			63	dělnice	Hoštejn	1	1	A	F
+7105	535885	1	3	902	6	Jiří	Chytka			49	mistr údržby	Hoštejn	99	80	A	M
+7105	535885	1	1	901	7	Dagmar	Kovaříková			42	fyzioterapeut	Hoštejn	99	80	A	F
+7105	535885	1	2	1	7	Aleš	Šmehlík			48	dělník	Hoštejn	99	1	A	M
+7105	535885	1	3	902	7	Veronika	Justová			41	manažer prodejny	Hoštejn	99	80	A	F
+7105	535885	1	1	901	8	František	Stejskal			59	zedník	Hoštejn	99	80	A	M
+7105	535885	1	2	1	8	František	Doubrava			53	řidič	Hoštejn	99	1	A	M
+7105	535885	1	3	902	8	Jan	Tinka			27	servisní technik	Hoštejn	99	80	A	M
+7105	535885	1	1	901	9	Miloslav	Tomášek			27	zaměstnanec obce	Hoštejn	99	80	A	M
+7105	535885	1	2	1	9	Hana	Drozdová			58	administrativní pracovnice	Hoštejn	99	1	A	F
+7105	535885	1	3	902	9	Hana	Moravcová			61	správce DPS	Hoštejn	99	80	A	F

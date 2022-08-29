@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2102	531839	1	1	53	1	Stanislava Ludmila	Syrovátková	F			54	účetní obce	Tetín	99	53	0
-2102	531839	1	1	53	2	Stanislava	Hahnová Šedinová	F			55	pokladní ČD	Tetín	99	53	0
-2102	531839	1	1	53	3	Jaromír	Krátký	M			59	podnikatel	Tetín	99	53	0
-2102	531839	1	1	53	4	Jindřich	Šafra	M			48	podnikatel	Tetín	99	53	0
-2102	531839	1	1	53	5	Josef	Nosek	M			33	podnikatel	Tetín	99	53	0
-2102	531839	1	1	53	6	Jitka	Drlíková	F			47	úřednice ČSÚ	Tetín	99	53	0
-2102	531839	1	2	901	1	Pavel	Hejna	M			61	nezaměstnaný	Tetín	99	80	0
-2102	531839	1	2	901	2	Josef	Nosek	M			64	důchodce	Tetín	99	80	0
-2102	531839	1	2	901	3	Nataša	Závorová	F			55	účetní	Tetín	99	80	0
-2102	531839	1	2	901	4	Jiří	Šinkner	M			50	technický pracovník	Tetín	99	80	0
-2102	531839	1	2	901	5	Ivan	Smetana	M			44	technik	Tetín	99	80	0
-2102	531839	1	2	901	6	Daniel	Pecka	M			33	OSVČ	Tetín	99	80	0
-2102	531839	1	2	901	7	Jitka	Kulhavá	F	Mgr.		48	ředitelka ZŠ Tetín	Tetín	99	80	0
-2102	531839	1	2	901	8	Ladislava	Malířová	F	Mgr.		42	ředitelka MŠ	Tetín	99	80	0
-2102	531839	1	2	901	9	Josef	Fořt	M			33	stavební zámečník	Tetín	99	80	0
-2102	531839	1	3	902	1	Matthew Vaclav	Duras	M			43	zemědělec	Tetín	99	80	0
-2102	531839	1	3	902	2	Martin	Machulka	M	Ing.		34	projektant	Tetín	99	80	0
-2102	531839	1	3	902	3	Michal	Hejna	M	Ing.		32	geolog	Tetín	99	80	0
-2102	531839	1	3	902	4	Martin	Krtek	M	Ing.		29	ekonom	Tetín	99	80	0
-2102	531839	1	3	902	5	Jiří	Pinkas	M			33	technolog	Tetín	99	80	0
-2102	531839	1	3	902	6	Barbora	Hrdličková	F	Bc.		23	student ekonomie	Tetín	99	80	0
-2102	531839	1	3	902	7	Martin	Novák	M			41	elektrotechnik	Tetín	99	80	0
-2102	531839	1	3	902	8	Jiří	Červenka	M			59	technik informač. technologií	Tetín	99	80	0
-2102	531839	1	3	902	9	Libor	Burian	M			48	revizní technik plyn.zařízení	Tetín	99	80	0
-2102	531839	1	4	47	1	Ladislav	Veselý	M			68	důchodce	Tetín	99	47	0
-2102	531839	1	4	47	2	Ladislav	Pecka	M			54	dělník	Tetín	99	47	0
-2102	531839	1	4	47	3	Vítězslav	Šabatka	M			32	dělník	Tetín	47	47	0
-2102	531839	1	5	7	1	Lenka	Šmídová	F	Mgr.		53	ředitelka úřadu práce	Beroun - Město	7	7	0
-2102	531839	1	5	7	2	Lenka	Knotková	F			30	asistentka ředitele SMP Praha	Beroun - Centrum	7	7	0
-2102	531839	1	5	7	3	Dagmar	Vaněrková	F			57	OSVČ	Tetín	99	7	0
-2102	531839	1	5	7	4	Ivana	Pecková	F			48	recepční hotelu	Tetín	99	7	0
-2102	531839	1	5	7	5	Ivana	Svobodová	F			45	OSVČ	Tetín	99	7	0
-2102	531839	1	5	7	6	Ivana	Burešová	F			29	rodičovská dovolená	Tetín	99	7	0
-2102	531839	1	5	7	7	Jiří	Freudenfeld	M			38	řidič	Tetín	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2102	531839	1	1	53	1	Stanislava Ludmila	Syrovátková			54	účetní obce	Tetín	99	53	0	F
+2102	531839	1	2	901	1	Pavel	Hejna			61	nezaměstnaný	Tetín	99	80	0	M
+2102	531839	1	3	902	1	Matthew Vaclav	Duras			43	zemědělec	Tetín	99	80	0	M
+2102	531839	1	4	47	1	Ladislav	Veselý			68	důchodce	Tetín	99	47	0	M
+2102	531839	1	5	7	1	Lenka	Šmídová	Mgr.		53	ředitelka úřadu práce	Beroun - Město	7	7	0	F
+2102	531839	1	1	53	2	Stanislava	Hahnová Šedinová			55	pokladní ČD	Tetín	99	53	0	F
+2102	531839	1	2	901	2	Josef	Nosek			64	důchodce	Tetín	99	80	0	M
+2102	531839	1	3	902	2	Martin	Machulka	Ing.		34	projektant	Tetín	99	80	0	M
+2102	531839	1	4	47	2	Ladislav	Pecka			54	dělník	Tetín	99	47	0	M
+2102	531839	1	5	7	2	Lenka	Knotková			30	asistentka ředitele SMP Praha	Beroun - Centrum	7	7	0	F
+2102	531839	1	1	53	3	Jaromír	Krátký			59	podnikatel	Tetín	99	53	0	M
+2102	531839	1	2	901	3	Nataša	Závorová			55	účetní	Tetín	99	80	0	F
+2102	531839	1	3	902	3	Michal	Hejna	Ing.		32	geolog	Tetín	99	80	0	M
+2102	531839	1	4	47	3	Vítězslav	Šabatka			32	dělník	Tetín	47	47	0	M
+2102	531839	1	5	7	3	Dagmar	Vaněrková			57	OSVČ	Tetín	99	7	0	F
+2102	531839	1	1	53	4	Jindřich	Šafra			48	podnikatel	Tetín	99	53	0	M
+2102	531839	1	2	901	4	Jiří	Šinkner			50	technický pracovník	Tetín	99	80	0	M
+2102	531839	1	3	902	4	Martin	Krtek	Ing.		29	ekonom	Tetín	99	80	0	M
+2102	531839	1	5	7	4	Ivana	Pecková			48	recepční hotelu	Tetín	99	7	0	F
+2102	531839	1	1	53	5	Josef	Nosek			33	podnikatel	Tetín	99	53	0	M
+2102	531839	1	2	901	5	Ivan	Smetana			44	technik	Tetín	99	80	0	M
+2102	531839	1	3	902	5	Jiří	Pinkas			33	technolog	Tetín	99	80	0	M
+2102	531839	1	5	7	5	Ivana	Svobodová			45	OSVČ	Tetín	99	7	0	F
+2102	531839	1	1	53	6	Jitka	Drlíková			47	úřednice ČSÚ	Tetín	99	53	0	F
+2102	531839	1	2	901	6	Daniel	Pecka			33	OSVČ	Tetín	99	80	0	M
+2102	531839	1	3	902	6	Barbora	Hrdličková	Bc.		23	student ekonomie	Tetín	99	80	0	F
+2102	531839	1	5	7	6	Ivana	Burešová			29	rodičovská dovolená	Tetín	99	7	0	F
+2102	531839	1	2	901	7	Jitka	Kulhavá	Mgr.		48	ředitelka ZŠ Tetín	Tetín	99	80	0	F
+2102	531839	1	3	902	7	Martin	Novák			41	elektrotechnik	Tetín	99	80	0	M
+2102	531839	1	5	7	7	Jiří	Freudenfeld			38	řidič	Tetín	99	7	0	M
+2102	531839	1	2	901	8	Ladislava	Malířová	Mgr.		42	ředitelka MŠ	Tetín	99	80	0	F
+2102	531839	1	3	902	8	Jiří	Červenka			59	technik informač. technologií	Tetín	99	80	0	M
+2102	531839	1	2	901	9	Josef	Fořt			33	stavební zámečník	Tetín	99	80	0	M
+2102	531839	1	3	902	9	Libor	Burian			48	revizní technik plyn.zařízení	Tetín	99	80	0	M

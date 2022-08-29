@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6204	584339	1	1	901	1	Pavel	Václavík	M			30	automechanik	Borkovany	99	80	0
-6204	584339	1	1	901	2	Viktor	Čiháček	M			33	produkt. manažer	Borkovany	99	80	0
-6204	584339	1	1	901	3	Miroslav	Černý	M			36	živnostník	Borkovany	99	80	0
-6204	584339	1	1	901	4	Kamil	Král	M			29	živnostník	Borkovany	99	80	0
-6204	584339	1	1	901	5	Radek	Matějka	M			37	řidič	Borkovany	99	80	0
-6204	584339	1	1	901	6	Antonín	Geršl	M			56	důchodce	Borkovany	99	80	0
-6204	584339	1	1	901	7	Dagmar	Koppová	F			25	mateřská dovolená	Borkovany	99	80	0
-6204	584339	1	1	901	8	Jan	Kraus	M			20	student	Borkovany	99	80	0
-6204	584339	1	1	901	9	Alena	Ryšavá	F			22	porodní asistentka	Borkovany	99	80	0
-6204	584339	1	2	166	1	Radek	Valenta	M	Mgr.		40	podnikatel	Borkovany	99	166	0
-6204	584339	1	2	166	2	Zdeněk	Šebesta	M	Ing.		51	technik	Borkovany	99	166	0
-6204	584339	1	2	166	3	Jaroslav	Bedřich	M			38	podnikatel	Borkovany	99	166	0
-6204	584339	1	2	166	4	Josef	Čiháček	M			53	řidič	Borkovany	99	166	0
-6204	584339	1	2	166	5	Dagmar	Strejčková	F	JUDr.		54	právnička	Borkovany	99	166	0
-6204	584339	1	2	166	6	Jiří	Petlák	M			55	podnikatel	Borkovany	99	166	0
-6204	584339	1	2	166	7	Vilém	Podbřecký	M			36	technik	Borkovany	99	166	0
-6204	584339	1	2	166	8	Daniel	Rous	M			36	technik	Borkovany	99	166	0
-6204	584339	1	2	166	9	Vlastimil	Urban	M			47	technik	Borkovany	99	166	0
-6204	584339	1	3	1	1	Josef	Novák	M			55	revizní technik	Borkovany	1	1	0
-6204	584339	1	3	1	2	Alena	Ryšavá	F			45	dietní sestra	Borkovany	1	1	0
-6204	584339	1	3	1	3	Petr	Bedřich	M			36	nákupčí	Borkovany	99	1	0
-6204	584339	1	3	1	4	Aleš	Poláček	M	Bc.		27	učitel	Borkovany	99	1	0
-6204	584339	1	3	1	5	Václav	Suchánek	M			27	podnikatel	Borkovany	99	1	0
-6204	584339	1	3	1	6	Tomáš	Vrána	M			34	podnikatel	Borkovany	99	1	0
-6204	584339	1	3	1	7	Vlastimil	Bedřich	M			44	zámečník	Borkovany	99	1	0
-6204	584339	1	3	1	8	Jaroslav	Jakubec	M			26	obchodní zástupce	Borkovany	99	1	0
-6204	584339	1	3	1	9	Antonín	Margold	M			60	podnikatel	Borkovany	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6204	584339	1	1	901	1	Pavel	Václavík			30	automechanik	Borkovany	99	80	0	M
+6204	584339	1	2	166	1	Radek	Valenta	Mgr.		40	podnikatel	Borkovany	99	166	0	M
+6204	584339	1	3	1	1	Josef	Novák			55	revizní technik	Borkovany	1	1	0	M
+6204	584339	1	1	901	2	Viktor	Čiháček			33	produkt. manažer	Borkovany	99	80	0	M
+6204	584339	1	2	166	2	Zdeněk	Šebesta	Ing.		51	technik	Borkovany	99	166	0	M
+6204	584339	1	3	1	2	Alena	Ryšavá			45	dietní sestra	Borkovany	1	1	0	F
+6204	584339	1	1	901	3	Miroslav	Černý			36	živnostník	Borkovany	99	80	0	M
+6204	584339	1	2	166	3	Jaroslav	Bedřich			38	podnikatel	Borkovany	99	166	0	M
+6204	584339	1	3	1	3	Petr	Bedřich			36	nákupčí	Borkovany	99	1	0	M
+6204	584339	1	1	901	4	Kamil	Král			29	živnostník	Borkovany	99	80	0	M
+6204	584339	1	2	166	4	Josef	Čiháček			53	řidič	Borkovany	99	166	0	M
+6204	584339	1	3	1	4	Aleš	Poláček	Bc.		27	učitel	Borkovany	99	1	0	M
+6204	584339	1	1	901	5	Radek	Matějka			37	řidič	Borkovany	99	80	0	M
+6204	584339	1	2	166	5	Dagmar	Strejčková	JUDr.		54	právnička	Borkovany	99	166	0	F
+6204	584339	1	3	1	5	Václav	Suchánek			27	podnikatel	Borkovany	99	1	0	M
+6204	584339	1	1	901	6	Antonín	Geršl			56	důchodce	Borkovany	99	80	0	M
+6204	584339	1	2	166	6	Jiří	Petlák			55	podnikatel	Borkovany	99	166	0	M
+6204	584339	1	3	1	6	Tomáš	Vrána			34	podnikatel	Borkovany	99	1	0	M
+6204	584339	1	1	901	7	Dagmar	Koppová			25	mateřská dovolená	Borkovany	99	80	0	F
+6204	584339	1	2	166	7	Vilém	Podbřecký			36	technik	Borkovany	99	166	0	M
+6204	584339	1	3	1	7	Vlastimil	Bedřich			44	zámečník	Borkovany	99	1	0	M
+6204	584339	1	1	901	8	Jan	Kraus			20	student	Borkovany	99	80	0	M
+6204	584339	1	2	166	8	Daniel	Rous			36	technik	Borkovany	99	166	0	M
+6204	584339	1	3	1	8	Jaroslav	Jakubec			26	obchodní zástupce	Borkovany	99	1	0	M
+6204	584339	1	1	901	9	Alena	Ryšavá			22	porodní asistentka	Borkovany	99	80	0	F
+6204	584339	1	2	166	9	Vlastimil	Urban			47	technik	Borkovany	99	166	0	M
+6204	584339	1	3	1	9	Antonín	Margold			60	podnikatel	Borkovany	99	1	0	M

@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2105	534358	1	1	901	1	Jiří	Vorlíček	M			51	technický manažer	Rataje nad Sázavou	99	80	A
-2105	534358	1	1	901	2	Stanislava	Mašková	F			49	OSVČ účetní	Rataje nad Sázavou	99	80	A
-2105	534358	1	1	901	3	Pavel	Štika	M			40	lesník	Rataje nad Sázavou	99	80	A
-2105	534358	1	2	166	1	Luboš	Kubát	M	Ing.		54	starosta	Rataje nad Sázavou	99	166	A
-2105	534358	1	2	166	2	Martin	Vyhnánek	M			42	elektromechanik	Rataje nad Sázavou	99	166	A
-2105	534358	1	2	166	3	Radek	Mašek	M	Ing.		46	technik	Mirošovice	99	166	A
-2105	534358	1	2	166	4	Jaroslava	Kantová	F			54	operátor	Rataje nad Sázavou	99	166	A
-2105	534358	1	2	166	5	Jaroslav	Hroch	M	MVDr.		66	veterinář	Rataje nad Sázavou	99	166	A
-2105	534358	1	2	166	6	Jana	Leblová	F	Mgr.		55	pedagog	Rataje nad Sázavou	99	166	A
-2105	534358	1	2	166	7	Petr	Veselý	M			32	technik	Rataje nad Sázavou	99	166	A
-2105	534358	1	2	166	8	Věra	Doubravová	F			49	průvodce	Rataje nad Sázavou	99	166	A
-2105	534358	1	2	166	9	Michal	Zahradníček	M			34	řidič	Mirošovice	99	166	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2105	534358	1	1	901	1	Jiří	Vorlíček			51	technický manažer	Rataje nad Sázavou	99	80	A	M
+2105	534358	1	2	166	1	Luboš	Kubát	Ing.		54	starosta	Rataje nad Sázavou	99	166	A	M
+2105	534358	1	1	901	2	Stanislava	Mašková			49	OSVČ účetní	Rataje nad Sázavou	99	80	A	F
+2105	534358	1	2	166	2	Martin	Vyhnánek			42	elektromechanik	Rataje nad Sázavou	99	166	A	M
+2105	534358	1	1	901	3	Pavel	Štika			40	lesník	Rataje nad Sázavou	99	80	A	M
+2105	534358	1	2	166	3	Radek	Mašek	Ing.		46	technik	Mirošovice	99	166	A	M
+2105	534358	1	2	166	4	Jaroslava	Kantová			54	operátor	Rataje nad Sázavou	99	166	A	F
+2105	534358	1	2	166	5	Jaroslav	Hroch	MVDr.		66	veterinář	Rataje nad Sázavou	99	166	A	M
+2105	534358	1	2	166	6	Jana	Leblová	Mgr.		55	pedagog	Rataje nad Sázavou	99	166	A	F
+2105	534358	1	2	166	7	Petr	Veselý			32	technik	Rataje nad Sázavou	99	166	A	M
+2105	534358	1	2	166	8	Věra	Doubravová			49	průvodce	Rataje nad Sázavou	99	166	A	F
+2105	534358	1	2	166	9	Michal	Zahradníček			34	řidič	Mirošovice	99	166	A	M

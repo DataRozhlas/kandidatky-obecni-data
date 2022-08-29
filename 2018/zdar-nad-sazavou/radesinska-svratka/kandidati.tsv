@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	596531	1	1	7	1	Jiří	Zavřel	M			60	elektrikář	Radešínská Svratka	99	7	A
-6105	596531	1	1	7	2	Libor	Skryja	M	Mgr.		52	učitel	Radešínská Svratka	7	7	A
-6105	596531	1	1	7	3	Leoš	Mahel	M			39	technik	Radešínská Svratka	99	7	A
-6105	596531	1	1	7	4	Hana	Polcarová	F	Bc.		35	obchodní zástupce	Radešínská Svratka	99	7	A
-6105	596531	1	1	7	5	Josef	Novák	M			62	učitel	Radešínská Svratka	99	7	A
-6105	596531	1	1	7	6	Ivana	Binková	F			46	účetní	Radešínská Svratka	99	7	A
-6105	596531	1	1	7	7	Pavel	Smetana	M			53	brusič skla	Radešínská Svratka	99	7	A
-6105	596531	1	1	7	8	Josef	Čejka	M			49	tesař	Radešínská Svratka	99	7	A
-6105	596531	1	1	7	9	Stanislav	Rolinek	M			55	dělník	Radešínská Svratka	99	7	A
-6105	596531	1	1	7	10	Miroslav	Mahel	M			60	OSVČ	Radešínská Svratka	99	7	A
-6105	596531	1	1	7	11	Jan	Smolík	M			51	dělník	Radešínská Svratka	99	7	A
-6105	596531	1	2	1	1	Jiří	Trávníček	M			26	vedoucí služeb	Radešínská Svratka	99	1	A
-6105	596531	1	2	1	2	Tomáš	Sobotka	M			35	OSVČ	Radešínská Svratka	99	1	A
-6105	596531	1	2	1	3	Tomáš	Strachoň	M			35	OSVČ	Radešínská Svratka	99	1	A
-6105	596531	1	2	1	4	Josef	Vařejka	M			40	OSVČ	Radešínská Svratka	99	1	A
-6105	596531	1	2	1	5	Lukáš	Havránek	M			37	policista	Radešínská Svratka	99	1	A
-6105	596531	1	2	1	6	Ladislav	Mička	M			40	prodavač	Radešínská Svratka	99	1	A
-6105	596531	1	2	1	7	Zdeněk	Sobotka	M			37	OSVČ	Radešínská Svratka	99	1	A
-6105	596531	1	2	1	8	Jaroslav	Mahel	M			41	OSVČ	Radešínská Svratka	99	1	A
-6105	596531	1	2	1	9	Klára	Křížová	F	Mgr.		27	učitelka	Radešínská Svratka	99	1	A
-6105	596531	1	2	1	10	Stanislav	Mahel	M			41	nástrojař	Radešínská Svratka	99	1	A
-6105	596531	1	2	1	11	Jan	Rohrer	M			40	seřizovač	Radešínská Svratka	99	1	A
-6105	596531	1	3	802	1	Miroslav	Bárta	M			48	technik	Radešínská Svratka	99	80	A
-6105	596531	1	4	801	1	Luděk	Homola	M			52	ekonom	Radešínská Svratka	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	596531	1	1	7	1	Jiří	Zavřel			60	elektrikář	Radešínská Svratka	99	7	A	M
+6105	596531	1	2	1	1	Jiří	Trávníček			26	vedoucí služeb	Radešínská Svratka	99	1	A	M
+6105	596531	1	3	802	1	Miroslav	Bárta			48	technik	Radešínská Svratka	99	80	A	M
+6105	596531	1	4	801	1	Luděk	Homola			52	ekonom	Radešínská Svratka	99	80	A	M
+6105	596531	1	1	7	2	Libor	Skryja	Mgr.		52	učitel	Radešínská Svratka	7	7	A	M
+6105	596531	1	2	1	2	Tomáš	Sobotka			35	OSVČ	Radešínská Svratka	99	1	A	M
+6105	596531	1	1	7	3	Leoš	Mahel			39	technik	Radešínská Svratka	99	7	A	M
+6105	596531	1	2	1	3	Tomáš	Strachoň			35	OSVČ	Radešínská Svratka	99	1	A	M
+6105	596531	1	1	7	4	Hana	Polcarová	Bc.		35	obchodní zástupce	Radešínská Svratka	99	7	A	F
+6105	596531	1	2	1	4	Josef	Vařejka			40	OSVČ	Radešínská Svratka	99	1	A	M
+6105	596531	1	1	7	5	Josef	Novák			62	učitel	Radešínská Svratka	99	7	A	M
+6105	596531	1	2	1	5	Lukáš	Havránek			37	policista	Radešínská Svratka	99	1	A	M
+6105	596531	1	1	7	6	Ivana	Binková			46	účetní	Radešínská Svratka	99	7	A	F
+6105	596531	1	2	1	6	Ladislav	Mička			40	prodavač	Radešínská Svratka	99	1	A	M
+6105	596531	1	1	7	7	Pavel	Smetana			53	brusič skla	Radešínská Svratka	99	7	A	M
+6105	596531	1	2	1	7	Zdeněk	Sobotka			37	OSVČ	Radešínská Svratka	99	1	A	M
+6105	596531	1	1	7	8	Josef	Čejka			49	tesař	Radešínská Svratka	99	7	A	M
+6105	596531	1	2	1	8	Jaroslav	Mahel			41	OSVČ	Radešínská Svratka	99	1	A	M
+6105	596531	1	1	7	9	Stanislav	Rolinek			55	dělník	Radešínská Svratka	99	7	A	M
+6105	596531	1	2	1	9	Klára	Křížová	Mgr.		27	učitelka	Radešínská Svratka	99	1	A	F
+6105	596531	1	1	7	10	Miroslav	Mahel			60	OSVČ	Radešínská Svratka	99	7	A	M
+6105	596531	1	2	1	10	Stanislav	Mahel			41	nástrojař	Radešínská Svratka	99	1	A	M
+6105	596531	1	1	7	11	Jan	Smolík			51	dělník	Radešínská Svratka	99	7	A	M
+6105	596531	1	2	1	11	Jan	Rohrer			40	seřizovač	Radešínská Svratka	99	1	A	M

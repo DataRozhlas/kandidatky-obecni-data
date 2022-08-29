@@ -1,39 +1,39 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	594555	1	1	7	1	Jindřich	Biskup	M			60	důchodce	Olbramkostel	99	7	0
-6207	594555	1	1	7	2	Pavel	Ondrůj	M			33	podnikatel	Olbramkostel	99	7	0
-6207	594555	1	1	7	3	Miloslav	Kašpar	M			37	vedoucí pošty	Olbramkostel	99	7	0
-6207	594555	1	1	7	4	Kristina	Štulhoferová	F			27	mateřská dovolená	Olbramkostel	99	7	0
-6207	594555	1	1	7	5	Helena	Vítková	F			64	důchodkyně	Olbramkostel	99	7	0
-6207	594555	1	1	7	6	Jiřina	Podolská	F			50	dělník	Olbramkostel	99	7	0
-6207	594555	1	1	7	7	Radovan	Nasadil	M	Bc.		38	státní zaměstnanec	Olbramkostel	99	7	0
-6207	594555	1	2	1	1	Oto	Paul	M			47	podnikatel	Olbramkostel	1	1	0
-6207	594555	1	2	1	2	Yvona	Pavelková	F			35	úřednice	Olbramkostel	99	1	0
-6207	594555	1	2	1	3	Petr	König	M			34	elektrotechnik	Olbramkostel	99	1	0
-6207	594555	1	2	1	4	Kamil	Pavelka	M			35	podnikatel	Olbramkostel	99	1	0
-6207	594555	1	2	1	5	Jiří	Paul	M			33	vinař	Olbramkostel	1	1	0
-6207	594555	1	2	1	6	Oto	Paul	M			71	důchodce	Olbramkostel	1	1	0
-6207	594555	1	2	1	7	Anna	Přibilová	F			70	důchodkyně	Olbramkostel	1	1	0
-6207	594555	1	3	83	1	Jan	Sára	M			48	živnostník	Olbramkostel	99	83	0
-6207	594555	1	3	83	2	Jindřich	Biskup	M			34	pracovník sociální služby	Olbramkostel	99	83	0
-6207	594555	1	3	83	3	Miloš	Vlček	M			52	podnikatel	Olbramkostel	99	83	0
-6207	594555	1	3	83	4	Miroslav	Doležal	M			47	kuchař	Olbramkostel	99	83	0
-6207	594555	1	3	83	5	Jarmila	Rašková	F	Ing.		37	administrativní pracovnice	Olbramkostel	99	83	0
-6207	594555	1	3	83	6	Jaromír	Sára	M			51	dělník	Olbramkostel	99	83	0
-6207	594555	1	3	83	7	Jan	Sára	M			25	student	Olbramkostel	99	83	0
-6207	594555	1	4	166	1	Antonín	Šrámek	M			70	důchodce	Olbramkostel	99	166	0
-6207	594555	1	4	166	2	Josef	Veselý	M			47	elektrikář	Olbramkostel	99	166	0
-6207	594555	1	4	166	3	Pavel	Veselý	M			46	zámečník	Olbramkostel	99	166	0
-6207	594555	1	4	166	4	Robert	Haindl	M			33	státní zaměstnanec	Olbramkostel	99	166	0
-6207	594555	1	4	166	5	Ladislav	Piegl	M			48	seřizovač	Olbramkostel	99	166	0
-6207	594555	1	4	166	6	Daniela	Dvořáková	F			49	pracovnice živočišné výroby	Olbramkostel	99	166	0
-6207	594555	1	4	166	7	Irena	Jakešová	F			56	dělník	Olbramkostel	99	166	0
-6207	594555	1	5	47	1	Jindřich	Dvořák	M			45	obchodní manažer	Olbramkostel	99	47	0
-6207	594555	1	5	47	2	Miloslav	Kozel	M			57	vedoucí agentury	Olbramkostel	47	47	0
-6207	594555	1	5	47	3	David	Frühauf	M			36	zedník	Olbramkostel	99	47	0
-6207	594555	1	5	47	4	Milan	Antalík	M			53	manažer	Olbramkostel	99	47	0
-6207	594555	1	5	47	5	Jiřina	Schneiderová	F			41	v domácnosti	Olbramkostel	99	47	0
-6207	594555	1	5	47	6	Jiřina	Rossiwalová	F			56	dojička	Olbramkostel	47	47	0
-6207	594555	1	5	47	7	Josef	Němec	M			59	krmič	Olbramkostel	47	47	0
-6207	594555	1	6	901	1	Petr	Hlaváček	M	Bc.		42	státní zaměstnanec	Olbramkostel	99	80	0
-6207	594555	1	6	901	2	Josef	Spáčal	M			40	soukromý podnikatel	Olbramkostel	99	80	0
-6207	594555	1	6	901	3	Pavel	Toman	M			46	truhlář	Olbramkostel	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	594555	1	1	7	1	Jindřich	Biskup			60	důchodce	Olbramkostel	99	7	0	M
+6207	594555	1	2	1	1	Oto	Paul			47	podnikatel	Olbramkostel	1	1	0	M
+6207	594555	1	3	83	1	Jan	Sára			48	živnostník	Olbramkostel	99	83	0	M
+6207	594555	1	4	166	1	Antonín	Šrámek			70	důchodce	Olbramkostel	99	166	0	M
+6207	594555	1	5	47	1	Jindřich	Dvořák			45	obchodní manažer	Olbramkostel	99	47	0	M
+6207	594555	1	6	901	1	Petr	Hlaváček	Bc.		42	státní zaměstnanec	Olbramkostel	99	80	0	M
+6207	594555	1	1	7	2	Pavel	Ondrůj			33	podnikatel	Olbramkostel	99	7	0	M
+6207	594555	1	2	1	2	Yvona	Pavelková			35	úřednice	Olbramkostel	99	1	0	F
+6207	594555	1	3	83	2	Jindřich	Biskup			34	pracovník sociální služby	Olbramkostel	99	83	0	M
+6207	594555	1	4	166	2	Josef	Veselý			47	elektrikář	Olbramkostel	99	166	0	M
+6207	594555	1	5	47	2	Miloslav	Kozel			57	vedoucí agentury	Olbramkostel	47	47	0	M
+6207	594555	1	6	901	2	Josef	Spáčal			40	soukromý podnikatel	Olbramkostel	99	80	0	M
+6207	594555	1	1	7	3	Miloslav	Kašpar			37	vedoucí pošty	Olbramkostel	99	7	0	M
+6207	594555	1	2	1	3	Petr	König			34	elektrotechnik	Olbramkostel	99	1	0	M
+6207	594555	1	3	83	3	Miloš	Vlček			52	podnikatel	Olbramkostel	99	83	0	M
+6207	594555	1	4	166	3	Pavel	Veselý			46	zámečník	Olbramkostel	99	166	0	M
+6207	594555	1	5	47	3	David	Frühauf			36	zedník	Olbramkostel	99	47	0	M
+6207	594555	1	6	901	3	Pavel	Toman			46	truhlář	Olbramkostel	99	80	0	M
+6207	594555	1	1	7	4	Kristina	Štulhoferová			27	mateřská dovolená	Olbramkostel	99	7	0	F
+6207	594555	1	2	1	4	Kamil	Pavelka			35	podnikatel	Olbramkostel	99	1	0	M
+6207	594555	1	3	83	4	Miroslav	Doležal			47	kuchař	Olbramkostel	99	83	0	M
+6207	594555	1	4	166	4	Robert	Haindl			33	státní zaměstnanec	Olbramkostel	99	166	0	M
+6207	594555	1	5	47	4	Milan	Antalík			53	manažer	Olbramkostel	99	47	0	M
+6207	594555	1	1	7	5	Helena	Vítková			64	důchodkyně	Olbramkostel	99	7	0	F
+6207	594555	1	2	1	5	Jiří	Paul			33	vinař	Olbramkostel	1	1	0	M
+6207	594555	1	3	83	5	Jarmila	Rašková	Ing.		37	administrativní pracovnice	Olbramkostel	99	83	0	F
+6207	594555	1	4	166	5	Ladislav	Piegl			48	seřizovač	Olbramkostel	99	166	0	M
+6207	594555	1	5	47	5	Jiřina	Schneiderová			41	v domácnosti	Olbramkostel	99	47	0	F
+6207	594555	1	1	7	6	Jiřina	Podolská			50	dělník	Olbramkostel	99	7	0	F
+6207	594555	1	2	1	6	Oto	Paul			71	důchodce	Olbramkostel	1	1	0	M
+6207	594555	1	3	83	6	Jaromír	Sára			51	dělník	Olbramkostel	99	83	0	M
+6207	594555	1	4	166	6	Daniela	Dvořáková			49	pracovnice živočišné výroby	Olbramkostel	99	166	0	F
+6207	594555	1	5	47	6	Jiřina	Rossiwalová			56	dojička	Olbramkostel	47	47	0	F
+6207	594555	1	1	7	7	Radovan	Nasadil	Bc.		38	státní zaměstnanec	Olbramkostel	99	7	0	M
+6207	594555	1	2	1	7	Anna	Přibilová			70	důchodkyně	Olbramkostel	1	1	0	F
+6207	594555	1	3	83	7	Jan	Sára			25	student	Olbramkostel	99	83	0	M
+6207	594555	1	4	166	7	Irena	Jakešová			56	dělník	Olbramkostel	99	166	0	F
+6207	594555	1	5	47	7	Josef	Němec			59	krmič	Olbramkostel	47	47	0	M

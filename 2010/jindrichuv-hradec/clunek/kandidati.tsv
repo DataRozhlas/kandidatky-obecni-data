@@ -1,20 +1,20 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	561703	1	1	902	1	Jaroslav	Filsak	M			41	podnikatel	Člunek	99	80	0
-3103	561703	1	1	902	2	Milan	Růžička	M			41	servisní technik	Člunek	99	80	0
-3103	561703	1	1	902	3	Miroslav	Pospíchal	M			49	správce budov	Člunek	99	80	0
-3103	561703	1	1	902	4	Pavel	Strnad	M			35	podnikatel	Člunek	99	80	0
-3103	561703	1	1	902	5	Michal	Kotyza	M			28	rybářský technik	Kunějov	99	80	0
-3103	561703	1	1	902	6	Libor	Hynek	M			34	technik	Člunek	99	80	0
-3103	561703	1	1	902	7	Petr	Strnad	M			37	podnikatel	Člunek	99	80	0
-3103	561703	1	1	902	8	Jiří	Laudát	M			41	státní zaměstnanec	Člunek	99	80	0
-3103	561703	1	1	902	9	Miroslav	Dvořák	M			43	podnikatel	Člunek	99	80	0
-3103	561703	1	2	901	1	Zdeněk	Plachý	M			57	starosta obce	Lomy	99	80	0
-3103	561703	1	2	901	2	Leoš	Janotka	M			34	podnikatel	Lomy	99	80	0
-3103	561703	1	2	901	3	Milena	Lubinová	F	Ing.		44	terénní inspektor	Člunek	99	80	0
-3103	561703	1	2	901	4	Pavel	Kubánek	M			49	státní zaměstnanec	Lomy	99	80	0
-3103	561703	1	2	901	5	Jarmila	Hudečková	F			57	důchodce	Kunějov	99	80	0
-3103	561703	1	2	901	6	Ladislav	Bureš	M			51	údržbář	Člunek	99	80	0
-3103	561703	1	2	901	7	Jiří	Růžička	M			38	řezník	Kunějov	99	80	0
-3103	561703	1	2	901	8	Miroslav	Mitas	M			38	podnikatel	Člunek	99	80	0
-3103	561703	1	2	901	9	Drahoslav	Kolman	M			40	podnikatel	Člunek	99	80	0
-3103	561703	1	3	801	1	Jindřich	Zmrhal	M			43	technik v oboru klimat. zaříz.	Kunějov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	561703	1	1	902	1	Jaroslav	Filsak			41	podnikatel	Člunek	99	80	0	M
+3103	561703	1	2	901	1	Zdeněk	Plachý			57	starosta obce	Lomy	99	80	0	M
+3103	561703	1	3	801	1	Jindřich	Zmrhal			43	technik v oboru klimat. zaříz.	Kunějov	99	80	0	M
+3103	561703	1	1	902	2	Milan	Růžička			41	servisní technik	Člunek	99	80	0	M
+3103	561703	1	2	901	2	Leoš	Janotka			34	podnikatel	Lomy	99	80	0	M
+3103	561703	1	1	902	3	Miroslav	Pospíchal			49	správce budov	Člunek	99	80	0	M
+3103	561703	1	2	901	3	Milena	Lubinová	Ing.		44	terénní inspektor	Člunek	99	80	0	F
+3103	561703	1	1	902	4	Pavel	Strnad			35	podnikatel	Člunek	99	80	0	M
+3103	561703	1	2	901	4	Pavel	Kubánek			49	státní zaměstnanec	Lomy	99	80	0	M
+3103	561703	1	1	902	5	Michal	Kotyza			28	rybářský technik	Kunějov	99	80	0	M
+3103	561703	1	2	901	5	Jarmila	Hudečková			57	důchodce	Kunějov	99	80	0	F
+3103	561703	1	1	902	6	Libor	Hynek			34	technik	Člunek	99	80	0	M
+3103	561703	1	2	901	6	Ladislav	Bureš			51	údržbář	Člunek	99	80	0	M
+3103	561703	1	1	902	7	Petr	Strnad			37	podnikatel	Člunek	99	80	0	M
+3103	561703	1	2	901	7	Jiří	Růžička			38	řezník	Kunějov	99	80	0	M
+3103	561703	1	1	902	8	Jiří	Laudát			41	státní zaměstnanec	Člunek	99	80	0	M
+3103	561703	1	2	901	8	Miroslav	Mitas			38	podnikatel	Člunek	99	80	0	M
+3103	561703	1	1	902	9	Miroslav	Dvořák			43	podnikatel	Člunek	99	80	0	M
+3103	561703	1	2	901	9	Drahoslav	Kolman			40	podnikatel	Člunek	99	80	0	M

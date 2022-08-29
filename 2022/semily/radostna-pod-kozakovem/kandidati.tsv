@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5104	577430	1	1	802	1	Olga	Kudrnáčová	F	Ing.		68	důchodkyně	Kozákov	99	80	A
-5104	577430	1	2	801	1	Jaroslav	Šimon	M	Bc.		32	obchodní zástupce	Lestkov	99	80	A
-5104	577430	1	3	803	1	Zdeněk	Brožek	M	Ing.		65	důchodce	Volavec	99	80	A
-5104	577430	1	4	810	1	Michael	Novák	M			49	zaměstnanec ČEZ Distribuce a. s.	Lestkov	99	80	A
-5104	577430	1	5	805	1	Jan	Šťastný	M			52	živnostník	Lestkov	99	80	A
-5104	577430	1	6	809	1	Milena	Kašová	F	Mgr.		51	učitelka	Lestkov	99	80	A
-5104	577430	1	7	812	1	Leona	Adamičková	F	PharmDr.		46	vedoucí lékárník	Kozákov	99	80	A
-5104	577430	1	8	804	1	Jan	König	M		DiS.	43	živnostník	Lestkov	99	80	A
-5104	577430	1	9	813	1	Radek	Svoboda	M			44	řidič	Volavec	99	80	A
-5104	577430	1	10	808	1	Markéta	Mužíčková	F			33	živnostník	Lestkov	99	80	A
-5104	577430	1	11	806	1	Jiří	Šírek	M			66	důchodce	Volavec	99	80	A
-5104	577430	1	12	811	1	Miroslava	Knoblochová	F			64	důchodkyně	Lestkov	99	80	A
-5104	577430	1	13	807	1	Josef	Prokůpek	M			58	živnostník	Lestkov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5104	577430	1	1	802	1	Olga	Kudrnáčová	Ing.		68	důchodkyně	Kozákov	99	80	A	F
+5104	577430	1	2	801	1	Jaroslav	Šimon	Bc.		32	obchodní zástupce	Lestkov	99	80	A	M
+5104	577430	1	3	803	1	Zdeněk	Brožek	Ing.		65	důchodce	Volavec	99	80	A	M
+5104	577430	1	4	810	1	Michael	Novák			49	zaměstnanec ČEZ Distribuce a. s.	Lestkov	99	80	A	M
+5104	577430	1	5	805	1	Jan	Šťastný			52	živnostník	Lestkov	99	80	A	M
+5104	577430	1	6	809	1	Milena	Kašová	Mgr.		51	učitelka	Lestkov	99	80	A	F
+5104	577430	1	7	812	1	Leona	Adamičková	PharmDr.		46	vedoucí lékárník	Kozákov	99	80	A	F
+5104	577430	1	8	804	1	Jan	König		DiS.	43	živnostník	Lestkov	99	80	A	M
+5104	577430	1	9	813	1	Radek	Svoboda			44	řidič	Volavec	99	80	A	M
+5104	577430	1	10	808	1	Markéta	Mužíčková			33	živnostník	Lestkov	99	80	A	F
+5104	577430	1	11	806	1	Jiří	Šírek			66	důchodce	Volavec	99	80	A	M
+5104	577430	1	12	811	1	Miroslava	Knoblochová			64	důchodkyně	Lestkov	99	80	A	F
+5104	577430	1	13	807	1	Josef	Prokůpek			58	živnostník	Lestkov	99	80	A	M

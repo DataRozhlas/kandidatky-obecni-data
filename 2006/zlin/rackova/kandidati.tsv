@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7204	585670	1	1	1	1	Jan	Potůček	M			52	revizní technik el. zařízení	Racková	1	1	0
-7204	585670	1	1	1	2	Josef	Hrančík	M	Ing.		42	stavební inženýr	Racková	1	1	0
-7204	585670	1	1	1	3	Marcela	Paštěková	F			37	účetní	Racková	99	1	0
-7204	585670	1	1	1	4	Oldřich	Novotný	M			65	překladatel	Racková	99	1	0
-7204	585670	1	1	1	5	Bronislava	Řiháčková	F			43	tech. - administr. pracovnice	Racková	99	1	0
-7204	585670	1	1	1	6	Antonín	Žůrek	M			48	automechanik	Racková	1	1	0
-7204	585670	1	1	1	7	Petr	Klhůfek	M			40	manažer FC Tescoma Zlín	Racková	99	1	0
-7204	585670	1	1	1	8	Jana	Jurášková	F			29	výtvarnice	Racková	99	1	0
-7204	585670	1	1	1	9	Václav	Křižan	M			31	truhlář	Racková	99	1	0
-7204	585670	1	1	1	10	Eva	Smetanová	F	Bc.		24	studentka	Racková	99	1	0
-7204	585670	1	1	1	11	Karel	Klimek	M			25	programátor	Racková	99	1	0
-7204	585670	1	1	1	12	Josef	Doležel	M			37	vedoucí kovovýroby	Racková	99	1	0
-7204	585670	1	1	1	13	Josef	Adamík	M			38	traktorista	Racková	1	1	0
-7204	585670	1	1	1	14	Petr	Jurák	M			60	dělník	Racková	99	1	0
-7204	585670	1	1	1	15	Vladimír	Polášek	M			71	důchodce	Racková	1	1	0
-7204	585670	1	2	901	1	Josef	Gába	M	Ing.		55	strojní inženýr	Racková	99	80	0
-7204	585670	1	2	901	2	Jaroslav	Kaňa	M	Ing.		26	inženýr automatizace	Racková	99	80	0
-7204	585670	1	2	901	3	Jaroslav	Cholasta	M			38	elektrikář	Racková	99	80	0
-7204	585670	1	2	901	4	Milan	Liška	M			35	strážník	Racková	99	80	0
-7204	585670	1	2	901	5	Aleš	Urban	M			32	dispečer	Racková	99	80	0
-7204	585670	1	2	901	6	Miroslav	Bača	M			62	zámečník	Racková	99	80	0
-7204	585670	1	2	901	7	Karel	Matuška	M			31	karosář	Racková	99	80	0
-7204	585670	1	2	901	8	Stanislav	Vajda	M			31	řidič	Racková	99	80	0
-7204	585670	1	2	901	9	Milan	Vajda	M			34	zámečník	Racková	99	80	0
-7204	585670	1	2	901	10	Václav	Zívalík	M			34	vedoucí výroby	Racková	99	80	0
-7204	585670	1	2	901	11	Renata	Vlčková	F			23	účetní	Racková	99	80	0
-7204	585670	1	2	901	12	Stanislav	Michaliga	M			54	soustružník	Racková	99	80	0
-7204	585670	1	2	901	13	Jiří	Doležel	M			42	stolař	Racková	99	80	0
-7204	585670	1	2	901	14	Josef	Knap	M			52	dělník	Racková	99	80	0
-7204	585670	1	2	901	15	Alena	Juráňová	F			45	účetní	Racková	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7204	585670	1	1	1	1	Jan	Potůček			52	revizní technik el. zařízení	Racková	1	1	0	M
+7204	585670	1	2	901	1	Josef	Gába	Ing.		55	strojní inženýr	Racková	99	80	0	M
+7204	585670	1	1	1	2	Josef	Hrančík	Ing.		42	stavební inženýr	Racková	1	1	0	M
+7204	585670	1	2	901	2	Jaroslav	Kaňa	Ing.		26	inženýr automatizace	Racková	99	80	0	M
+7204	585670	1	1	1	3	Marcela	Paštěková			37	účetní	Racková	99	1	0	F
+7204	585670	1	2	901	3	Jaroslav	Cholasta			38	elektrikář	Racková	99	80	0	M
+7204	585670	1	1	1	4	Oldřich	Novotný			65	překladatel	Racková	99	1	0	M
+7204	585670	1	2	901	4	Milan	Liška			35	strážník	Racková	99	80	0	M
+7204	585670	1	1	1	5	Bronislava	Řiháčková			43	tech. - administr. pracovnice	Racková	99	1	0	F
+7204	585670	1	2	901	5	Aleš	Urban			32	dispečer	Racková	99	80	0	M
+7204	585670	1	1	1	6	Antonín	Žůrek			48	automechanik	Racková	1	1	0	M
+7204	585670	1	2	901	6	Miroslav	Bača			62	zámečník	Racková	99	80	0	M
+7204	585670	1	1	1	7	Petr	Klhůfek			40	manažer FC Tescoma Zlín	Racková	99	1	0	M
+7204	585670	1	2	901	7	Karel	Matuška			31	karosář	Racková	99	80	0	M
+7204	585670	1	1	1	8	Jana	Jurášková			29	výtvarnice	Racková	99	1	0	F
+7204	585670	1	2	901	8	Stanislav	Vajda			31	řidič	Racková	99	80	0	M
+7204	585670	1	1	1	9	Václav	Křižan			31	truhlář	Racková	99	1	0	M
+7204	585670	1	2	901	9	Milan	Vajda			34	zámečník	Racková	99	80	0	M
+7204	585670	1	1	1	10	Eva	Smetanová	Bc.		24	studentka	Racková	99	1	0	F
+7204	585670	1	2	901	10	Václav	Zívalík			34	vedoucí výroby	Racková	99	80	0	M
+7204	585670	1	1	1	11	Karel	Klimek			25	programátor	Racková	99	1	0	M
+7204	585670	1	2	901	11	Renata	Vlčková			23	účetní	Racková	99	80	0	F
+7204	585670	1	1	1	12	Josef	Doležel			37	vedoucí kovovýroby	Racková	99	1	0	M
+7204	585670	1	2	901	12	Stanislav	Michaliga			54	soustružník	Racková	99	80	0	M
+7204	585670	1	1	1	13	Josef	Adamík			38	traktorista	Racková	1	1	0	M
+7204	585670	1	2	901	13	Jiří	Doležel			42	stolař	Racková	99	80	0	M
+7204	585670	1	1	1	14	Petr	Jurák			60	dělník	Racková	99	1	0	M
+7204	585670	1	2	901	14	Josef	Knap			52	dělník	Racková	99	80	0	M
+7204	585670	1	1	1	15	Vladimír	Polášek			71	důchodce	Racková	1	1	0	M
+7204	585670	1	2	901	15	Alena	Juráňová			45	účetní	Racková	99	80	0	F

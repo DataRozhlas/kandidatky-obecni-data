@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3204	558605	1	1	901	1	Vlastimil	Vrátník	M			52	technik	Ždírec	99	80	0
-3204	558605	1	1	901	2	Darina	Kaslová	F			30	v domácnosti	Myť	99	80	0
-3204	558605	1	1	901	3	Jaroslav	Nygrýn	M			58	operátor výroby	Žďár	99	80	0
-3204	558605	1	1	901	4	Miroslav	Synáč	M			59	mechanik	Ždírec	99	80	0
-3204	558605	1	1	901	5	Radek	Synáč	M			39	inženýr železniční dopravy	Smederov	99	80	0
-3204	558605	1	1	901	6	Jana	Loudová	F			45	finanční poradce	Myť	99	80	0
-3204	558605	1	1	901	7	Věra	Růžičková	F	Bc.		38	úřednice	Žďár	99	80	0
-3204	558605	1	1	901	8	Dalibor	Kuba	M			55	vozový dispečer	Smederov	99	80	0
-3204	558605	1	1	901	9	Václav	Šlajs	M			64	důchodce	Žďár	99	80	0
-3204	558605	1	2	902	1	Bohuslav	Vrátník	M	Bc.		53	státní zaměstnanec	Ždírec	99	80	0
-3204	558605	1	2	902	2	Ladislav	Vrátník	M			55	řidič	Myť	99	80	0
-3204	558605	1	2	902	3	Václav	Řežábek	M			52	živnostník	Ždírec	99	80	0
-3204	558605	1	2	902	4	Luboš	Mráz	M			46	vedoucí střediska	Smederov	99	80	0
-3204	558605	1	2	902	5	Jiří	Jakoubek	M	Ing.		39	pilot LAA	Žďár	99	80	0
-3204	558605	1	2	902	6	Jan	Havel	M			42	dispečer ČEZ	Ždírec	99	80	0
-3204	558605	1	2	902	7	Miroslav	Krňoul	M			32	obsluha CNC strojů	Ždírec	99	80	0
-3204	558605	1	2	902	8	Petra	Řežábková	F			25	studentka	Smederov	99	80	0
-3204	558605	1	2	902	9	Anna	Vítková	F			61	důchodkyně	Ždírec	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3204	558605	1	1	901	1	Vlastimil	Vrátník			52	technik	Ždírec	99	80	0	M
+3204	558605	1	2	902	1	Bohuslav	Vrátník	Bc.		53	státní zaměstnanec	Ždírec	99	80	0	M
+3204	558605	1	1	901	2	Darina	Kaslová			30	v domácnosti	Myť	99	80	0	F
+3204	558605	1	2	902	2	Ladislav	Vrátník			55	řidič	Myť	99	80	0	M
+3204	558605	1	1	901	3	Jaroslav	Nygrýn			58	operátor výroby	Žďár	99	80	0	M
+3204	558605	1	2	902	3	Václav	Řežábek			52	živnostník	Ždírec	99	80	0	M
+3204	558605	1	1	901	4	Miroslav	Synáč			59	mechanik	Ždírec	99	80	0	M
+3204	558605	1	2	902	4	Luboš	Mráz			46	vedoucí střediska	Smederov	99	80	0	M
+3204	558605	1	1	901	5	Radek	Synáč			39	inženýr železniční dopravy	Smederov	99	80	0	M
+3204	558605	1	2	902	5	Jiří	Jakoubek	Ing.		39	pilot LAA	Žďár	99	80	0	M
+3204	558605	1	1	901	6	Jana	Loudová			45	finanční poradce	Myť	99	80	0	F
+3204	558605	1	2	902	6	Jan	Havel			42	dispečer ČEZ	Ždírec	99	80	0	M
+3204	558605	1	1	901	7	Věra	Růžičková	Bc.		38	úřednice	Žďár	99	80	0	F
+3204	558605	1	2	902	7	Miroslav	Krňoul			32	obsluha CNC strojů	Ždírec	99	80	0	M
+3204	558605	1	1	901	8	Dalibor	Kuba			55	vozový dispečer	Smederov	99	80	0	M
+3204	558605	1	2	902	8	Petra	Řežábková			25	studentka	Smederov	99	80	0	F
+3204	558605	1	1	901	9	Václav	Šlajs			64	důchodce	Žďár	99	80	0	M
+3204	558605	1	2	902	9	Anna	Vítková			61	důchodkyně	Ždírec	99	80	0	F

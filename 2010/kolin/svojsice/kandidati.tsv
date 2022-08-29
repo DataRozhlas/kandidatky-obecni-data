@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2104	533726	1	1	47	1	Lucie	Myslivečková	F			23	cukrářka	Svojšice	47	47	0
-2104	533726	1	1	47	2	Jozef	Ondrkál	M			38	kuchař	Svojšice	47	47	0
-2104	533726	1	1	47	3	Martin	Šudy	M			26	zedník	Svojšice	99	47	0
-2104	533726	1	1	47	4	Robert	Maxian	M			34	zedník	Bošice	47	47	0
-2104	533726	1	1	47	5	Marie	Bednářová	F			27	servírka	Bošice	47	47	0
-2104	533726	1	1	47	6	Jaroslav	Šedivý	M			56	zahradník	Svojšice	47	47	0
-2104	533726	1	1	47	7	Roman	Ondrkál	M			36	elektromontér	Bošice	47	47	0
-2104	533726	1	2	901	1	Josef	Lanc	M			52	starosta obce	Svojšice	99	80	0
-2104	533726	1	2	901	2	Lubomír	Šmejkal	M			50	bezpečnostní pracovník	Svojšice	99	80	0
-2104	533726	1	2	901	3	Alena	Pazderková	F			49	hospodářka	Svojšice	99	80	0
-2104	533726	1	2	901	4	Radek	Havlina	M			39	manipulační dělník	Bošice	99	80	0
-2104	533726	1	2	901	5	Karel	Kubelka	M	Ing.		36	soukromý zemědělec	Svojšice	99	80	0
-2104	533726	1	2	901	6	Karel	Bouma	M			48	personální mistr	Svojšice	99	80	0
-2104	533726	1	2	901	7	Michaela	Kündelová	F			31	prodavačka	Nová Ves III.	99	80	0
-2104	533726	1	2	901	8	Hana	Šmejkalová	F			42	sociální pracovnice	Svojšice	99	80	0
-2104	533726	1	2	901	9	Luděk	Folkman	M			47	chemik-operátor	Bošice	99	80	0
-2104	533726	1	3	7	1	Josef	Polesný	M			47	technik	Svojšice	99	7	1
-2104	533726	1	3	7	2	Jaroslav	Frýda	M			38	státní zaměstnanec	Bošice	99	7	0
-2104	533726	1	3	7	3	Petr	Semerád	M			32	soukromý podnikatel	Svojšice	99	7	0
-2104	533726	1	3	7	4	Lenka	Olejarčíková	F			40	pracovník sociální péče	Svojšice	99	7	0
-2104	533726	1	3	7	5	Petr	Černý	M			43	stavbyvedoucí	Svojšice	99	7	0
-2104	533726	1	3	7	6	Pavlína	Hrstková	F			41	vychovatelka	Svojšice	99	7	0
-2104	533726	1	3	7	7	Jiří	Kündel	M			30	řidič opravář	Nová Ves III.	99	7	0
-2104	533726	1	3	7	8	David	Vašků	M			32	soukromý podnikatel	Svojšice	99	7	0
-2104	533726	1	3	7	9	Josef	Ebr	M	Ing.		44	prokurista	Svojšice	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2104	533726	1	1	47	1	Lucie	Myslivečková			23	cukrářka	Svojšice	47	47	0	F
+2104	533726	1	2	901	1	Josef	Lanc			52	starosta obce	Svojšice	99	80	0	M
+2104	533726	1	3	7	1	Josef	Polesný			47	technik	Svojšice	99	7	1	M
+2104	533726	1	1	47	2	Jozef	Ondrkál			38	kuchař	Svojšice	47	47	0	M
+2104	533726	1	2	901	2	Lubomír	Šmejkal			50	bezpečnostní pracovník	Svojšice	99	80	0	M
+2104	533726	1	3	7	2	Jaroslav	Frýda			38	státní zaměstnanec	Bošice	99	7	0	M
+2104	533726	1	1	47	3	Martin	Šudy			26	zedník	Svojšice	99	47	0	M
+2104	533726	1	2	901	3	Alena	Pazderková			49	hospodářka	Svojšice	99	80	0	F
+2104	533726	1	3	7	3	Petr	Semerád			32	soukromý podnikatel	Svojšice	99	7	0	M
+2104	533726	1	1	47	4	Robert	Maxian			34	zedník	Bošice	47	47	0	M
+2104	533726	1	2	901	4	Radek	Havlina			39	manipulační dělník	Bošice	99	80	0	M
+2104	533726	1	3	7	4	Lenka	Olejarčíková			40	pracovník sociální péče	Svojšice	99	7	0	F
+2104	533726	1	1	47	5	Marie	Bednářová			27	servírka	Bošice	47	47	0	F
+2104	533726	1	2	901	5	Karel	Kubelka	Ing.		36	soukromý zemědělec	Svojšice	99	80	0	M
+2104	533726	1	3	7	5	Petr	Černý			43	stavbyvedoucí	Svojšice	99	7	0	M
+2104	533726	1	1	47	6	Jaroslav	Šedivý			56	zahradník	Svojšice	47	47	0	M
+2104	533726	1	2	901	6	Karel	Bouma			48	personální mistr	Svojšice	99	80	0	M
+2104	533726	1	3	7	6	Pavlína	Hrstková			41	vychovatelka	Svojšice	99	7	0	F
+2104	533726	1	1	47	7	Roman	Ondrkál			36	elektromontér	Bošice	47	47	0	M
+2104	533726	1	2	901	7	Michaela	Kündelová			31	prodavačka	Nová Ves III.	99	80	0	F
+2104	533726	1	3	7	7	Jiří	Kündel			30	řidič opravář	Nová Ves III.	99	7	0	M
+2104	533726	1	2	901	8	Hana	Šmejkalová			42	sociální pracovnice	Svojšice	99	80	0	F
+2104	533726	1	3	7	8	David	Vašků			32	soukromý podnikatel	Svojšice	99	7	0	M
+2104	533726	1	2	901	9	Luděk	Folkman			47	chemik-operátor	Bošice	99	80	0	M
+2104	533726	1	3	7	9	Josef	Ebr	Ing.		44	prokurista	Svojšice	99	7	0	M

@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7201	588563	1	1	902	1	Pavel	Husařík	M			59	starosta	Jarohněvice	99	80	0
-7201	588563	1	1	902	2	Lenka	Haboňová	F			48	vedoucí provozovny	Jarohněvice	99	80	0
-7201	588563	1	1	902	3	Jan	Husařík	M			35	servisní technik	Jarohněvice	99	80	0
-7201	588563	1	1	902	4	Marian	Sedlář	M	Ing.		50	obchodník	Jarohněvice	99	80	0
-7201	588563	1	1	902	5	Miroslav	Novotný	M			54	instalatér	Jarohněvice	99	80	0
-7201	588563	1	1	902	6	Michal	Guzej	M			53	řidič	Jarohněvice	99	80	0
-7201	588563	1	1	902	7	Alois	Sedlář	M			41	technik-elektro	Jarohněvice	99	80	0
-7201	588563	1	2	901	1	Lumír	Zakravač	M	Ing.		41	výkonný ředitel	Jarohněvice	99	80	0
-7201	588563	1	2	901	2	Eliška	Kostková	F			51	ošetřovatelka	Jarohněvice	99	80	0
-7201	588563	1	2	901	3	Oto	Pejcha	M			42	podnikatel	Jarohněvice	99	80	0
-7201	588563	1	2	901	4	Alena	Konečná	F	Ing.		46	účetní	Jarohněvice	99	80	0
-7201	588563	1	2	901	5	Petr	Šamánek	M			37	technik	Jarohněvice	99	80	0
-7201	588563	1	2	901	6	Jitka	Vápeníková	F			54	zdravotní sestra	Jarohněvice	99	80	0
-7201	588563	1	2	901	7	Luboš	Tomaštík	M			24	podnikatel	Jarohněvice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7201	588563	1	1	902	1	Pavel	Husařík			59	starosta	Jarohněvice	99	80	0	M
+7201	588563	1	2	901	1	Lumír	Zakravač	Ing.		41	výkonný ředitel	Jarohněvice	99	80	0	M
+7201	588563	1	1	902	2	Lenka	Haboňová			48	vedoucí provozovny	Jarohněvice	99	80	0	F
+7201	588563	1	2	901	2	Eliška	Kostková			51	ošetřovatelka	Jarohněvice	99	80	0	F
+7201	588563	1	1	902	3	Jan	Husařík			35	servisní technik	Jarohněvice	99	80	0	M
+7201	588563	1	2	901	3	Oto	Pejcha			42	podnikatel	Jarohněvice	99	80	0	M
+7201	588563	1	1	902	4	Marian	Sedlář	Ing.		50	obchodník	Jarohněvice	99	80	0	M
+7201	588563	1	2	901	4	Alena	Konečná	Ing.		46	účetní	Jarohněvice	99	80	0	F
+7201	588563	1	1	902	5	Miroslav	Novotný			54	instalatér	Jarohněvice	99	80	0	M
+7201	588563	1	2	901	5	Petr	Šamánek			37	technik	Jarohněvice	99	80	0	M
+7201	588563	1	1	902	6	Michal	Guzej			53	řidič	Jarohněvice	99	80	0	M
+7201	588563	1	2	901	6	Jitka	Vápeníková			54	zdravotní sestra	Jarohněvice	99	80	0	F
+7201	588563	1	1	902	7	Alois	Sedlář			41	technik-elektro	Jarohněvice	99	80	0	M
+7201	588563	1	2	901	7	Luboš	Tomaštík			24	podnikatel	Jarohněvice	99	80	0	M

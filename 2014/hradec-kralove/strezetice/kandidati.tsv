@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	570966	1	1	902	1	Libuše	Čapková	F			49	účetní	Střezetice	99	80	0
-5201	570966	1	1	902	2	František	Kolovratník	M			40	pracovník bezpečnostní agentury	Dlouhé Dvory	99	80	0
-5201	570966	1	1	902	3	Jan	Petráček	M			36	technik, OSVČ	Střezetice	99	80	0
-5201	570966	1	1	902	4	Luboš	Dolanský	M			35	živnostník	Střezetice	99	80	0
-5201	570966	1	1	902	5	Jana	Stránská	F			55	zdravotní sestra	Střezetice	99	80	0
-5201	570966	1	1	902	6	Miluše	Hopjanová	F			42	ošetřovatelka dojnic	Dlouhé Dvory	99	80	0
-5201	570966	1	2	901	1	Radim	Slánek	M			42	státní zaměstnanec	Střezetice	99	80	0
-5201	570966	1	2	901	2	Ilona	Bramborová	F			53	administrativní pracovnice	Střezetice	99	80	0
-5201	570966	1	2	901	3	Karel	Smeck	M			66	důchodce	Dlouhé Dvory	99	80	0
-5201	570966	1	2	901	4	Jiří	Hrdinka	M			60	důchodce	Střezetice	99	80	0
-5201	570966	1	2	901	5	Jitka	Ruhlová	F			51	nezaměstnaná	Dlouhé Dvory	99	80	0
-5201	570966	1	2	901	6	Tomáš	Endler	M			36	vedoucí montáže	Střezetice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	570966	1	1	902	1	Libuše	Čapková			49	účetní	Střezetice	99	80	0	F
+5201	570966	1	2	901	1	Radim	Slánek			42	státní zaměstnanec	Střezetice	99	80	0	M
+5201	570966	1	1	902	2	František	Kolovratník			40	pracovník bezpečnostní agentury	Dlouhé Dvory	99	80	0	M
+5201	570966	1	2	901	2	Ilona	Bramborová			53	administrativní pracovnice	Střezetice	99	80	0	F
+5201	570966	1	1	902	3	Jan	Petráček			36	technik, OSVČ	Střezetice	99	80	0	M
+5201	570966	1	2	901	3	Karel	Smeck			66	důchodce	Dlouhé Dvory	99	80	0	M
+5201	570966	1	1	902	4	Luboš	Dolanský			35	živnostník	Střezetice	99	80	0	M
+5201	570966	1	2	901	4	Jiří	Hrdinka			60	důchodce	Střezetice	99	80	0	M
+5201	570966	1	1	902	5	Jana	Stránská			55	zdravotní sestra	Střezetice	99	80	0	F
+5201	570966	1	2	901	5	Jitka	Ruhlová			51	nezaměstnaná	Dlouhé Dvory	99	80	0	F
+5201	570966	1	1	902	6	Miluše	Hopjanová			42	ošetřovatelka dojnic	Dlouhé Dvory	99	80	0	F
+5201	570966	1	2	901	6	Tomáš	Endler			36	vedoucí montáže	Střezetice	99	80	0	M

@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	551805	1	1	902	1	Jaroslav	Kovář	M			58	zedník	Horní Životice	99	80	0
-8101	551805	1	1	902	2	Kamil	Zákoutský	M			39	řezník	Horní Životice	99	80	0
-8101	551805	1	1	902	3	Josef	Krpec	M			40	zam.Policie ČR	Horní Životice	99	80	0
-8101	551805	1	1	902	4	Jiří	Červenka	M			49	technik	Horní Životice	99	80	0
-8101	551805	1	1	902	5	Josef	Bernát	M			34	zedník	Horní Životice	99	80	0
-8101	551805	1	1	902	6	Pavel	Fojtík	M			44	podnikatel	Horní Životice	99	80	0
-8101	551805	1	1	902	7	Michal	Těžký	M			28	referent státní správy	Horní Životice	99	80	0
-8101	551805	1	1	902	8	Pavla	Červenková	F			39	zdravotní sestra	Horní Životice	99	80	0
-8101	551805	1	1	902	9	Edita	Brežáková	F			32	strojník	Horní Životice	99	80	0
-8101	551805	1	2	901	1	Miroslav	Pavelek	M	Ing.		57	úředník	Horní Životice	99	80	0
-8101	551805	1	2	901	2	Milan	Svoboda	M			64	důchodce	Horní Životice	99	80	0
-8101	551805	1	2	901	3	Josef	Kopka	M			62	důchodce	Horní Životice	99	80	1
-8101	551805	1	2	901	4	Jiří	Bambas	M			56	OSVČ	Horní Životice	99	80	0
-8101	551805	1	2	901	5	Jan	Foldyna	M			35	svářeč	Horní Životice	99	80	0
-8101	551805	1	2	901	6	Antonie	Kaňoková	F			53	jemný mechanik	Horní Životice	99	80	0
-8101	551805	1	2	901	7	Leopold	Cichoň	M			59	OSVČ	Horní Životice	99	80	0
-8101	551805	1	2	901	8	Jozef	Beláň	M			68	důchodce	Horní Životice	99	80	0
-8101	551805	1	2	901	9	Miroslav	Huňa	M			50	důchodce	Horní Životice	99	80	0
-8101	551805	1	3	47	1	Pavel	Bičánek	M			52	obchodní zástupce	Horní Životice	47	47	0
-8101	551805	1	3	47	2	Alois	Krumpholc	M	Ing.		54	učitel	Horní Životice	99	47	0
-8101	551805	1	3	47	3	Jana	Krajčírová	F			53	částečný inv. důchodce	Horní Životice	47	47	0
-8101	551805	1	3	47	4	Jaromír	Rymel	M			61	učitel	Horní Životice	99	47	0
-8101	551805	1	3	47	5	Marcela	Brhelová	F			49	THP	Horní Životice	99	47	0
-8101	551805	1	3	47	6	Nela	Navrátilová	F			38	OSVČ	Horní Životice	99	47	0
-8101	551805	1	3	47	7	Danuše	Seidlová	F			62	důchodce	Horní Životice	99	47	0
-8101	551805	1	3	47	8	Jiřina	Machalová	F			65	důchodce	Horní Životice	47	47	0
-8101	551805	1	3	47	9	Danuše	Maralíková	F			67	důchodce	Horní Životice	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	551805	1	1	902	1	Jaroslav	Kovář			58	zedník	Horní Životice	99	80	0	M
+8101	551805	1	2	901	1	Miroslav	Pavelek	Ing.		57	úředník	Horní Životice	99	80	0	M
+8101	551805	1	3	47	1	Pavel	Bičánek			52	obchodní zástupce	Horní Životice	47	47	0	M
+8101	551805	1	1	902	2	Kamil	Zákoutský			39	řezník	Horní Životice	99	80	0	M
+8101	551805	1	2	901	2	Milan	Svoboda			64	důchodce	Horní Životice	99	80	0	M
+8101	551805	1	3	47	2	Alois	Krumpholc	Ing.		54	učitel	Horní Životice	99	47	0	M
+8101	551805	1	1	902	3	Josef	Krpec			40	zam.Policie ČR	Horní Životice	99	80	0	M
+8101	551805	1	2	901	3	Josef	Kopka			62	důchodce	Horní Životice	99	80	1	M
+8101	551805	1	3	47	3	Jana	Krajčírová			53	částečný inv. důchodce	Horní Životice	47	47	0	F
+8101	551805	1	1	902	4	Jiří	Červenka			49	technik	Horní Životice	99	80	0	M
+8101	551805	1	2	901	4	Jiří	Bambas			56	OSVČ	Horní Životice	99	80	0	M
+8101	551805	1	3	47	4	Jaromír	Rymel			61	učitel	Horní Životice	99	47	0	M
+8101	551805	1	1	902	5	Josef	Bernát			34	zedník	Horní Životice	99	80	0	M
+8101	551805	1	2	901	5	Jan	Foldyna			35	svářeč	Horní Životice	99	80	0	M
+8101	551805	1	3	47	5	Marcela	Brhelová			49	THP	Horní Životice	99	47	0	F
+8101	551805	1	1	902	6	Pavel	Fojtík			44	podnikatel	Horní Životice	99	80	0	M
+8101	551805	1	2	901	6	Antonie	Kaňoková			53	jemný mechanik	Horní Životice	99	80	0	F
+8101	551805	1	3	47	6	Nela	Navrátilová			38	OSVČ	Horní Životice	99	47	0	F
+8101	551805	1	1	902	7	Michal	Těžký			28	referent státní správy	Horní Životice	99	80	0	M
+8101	551805	1	2	901	7	Leopold	Cichoň			59	OSVČ	Horní Životice	99	80	0	M
+8101	551805	1	3	47	7	Danuše	Seidlová			62	důchodce	Horní Životice	99	47	0	F
+8101	551805	1	1	902	8	Pavla	Červenková			39	zdravotní sestra	Horní Životice	99	80	0	F
+8101	551805	1	2	901	8	Jozef	Beláň			68	důchodce	Horní Životice	99	80	0	M
+8101	551805	1	3	47	8	Jiřina	Machalová			65	důchodce	Horní Životice	47	47	0	F
+8101	551805	1	1	902	9	Edita	Brežáková			32	strojník	Horní Životice	99	80	0	F
+8101	551805	1	2	901	9	Miroslav	Huňa			50	důchodce	Horní Životice	99	80	0	M
+8101	551805	1	3	47	9	Danuše	Maralíková			67	důchodce	Horní Životice	47	47	0	F

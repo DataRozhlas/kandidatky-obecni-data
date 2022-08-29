@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5103	563994	1	1	902	1	Marek	Kratochvíl	M			48	starosta obce	Dolní Řasnice	99	80	A
-5103	563994	1	1	902	2	Rostislav	Riedl	M			27	technolog	Dolní Řasnice	99	80	A
-5103	563994	1	1	902	3	Petr	Sivák	M			28	seřizovač	Dolní Řasnice	99	80	A
-5103	563994	1	1	902	4	Ivana	Šimičková	F			38	mzdová účetní	Dolní Řasnice	99	80	A
-5103	563994	1	1	902	5	Zuzana	Kahanová	F			38	učitelka	Dolní Řasnice	99	80	A
-5103	563994	1	1	902	6	Tomáš	Kahan	M			48	ředitel neziskové organizace	Dolní Řasnice	99	80	A
-5103	563994	1	1	902	7	Pavel	Sochor	M			35	zedník	Dolní Řasnice	99	80	A
-5103	563994	1	1	902	8	Michal	Kovačík	M			29	montážní dělník	Dolní Řasnice	99	80	A
-5103	563994	1	1	902	9	Marek	Bíma	M			49	zámečník	Dolní Řasnice	99	80	A
-5103	563994	1	2	901	1	Marcela	Kolenkárová	F			47	mistrová výroby	Dolní Řasnice	99	80	A
-5103	563994	1	2	901	2	Petra	Luftová	F			45	zdravotní sestra	Dolní Řasnice	99	80	A
-5103	563994	1	2	901	3	Dagmar	Pešková	F			49	pečovatelka	Dolní Řasnice	99	80	A
-5103	563994	1	2	901	4	Ludmila	Siváková	F			41	invalidní důchodkyně	Dolní Řasnice	99	80	A
-5103	563994	1	2	901	5	Silvie	Stříbrná	F			45	prodavačka	Dolní Řasnice	99	80	A
-5103	563994	1	2	901	6	Zdeňka	Svobodová	F			66	OSVČ	Dolní Řasnice	99	80	A
-5103	563994	1	2	901	7	Miroslava	Turková	F			57	pečovatelka	Dolní Řasnice	99	80	A
-5103	563994	1	2	901	8	Marie	Resselová	F			65	důchodkyně	Dolní Řasnice	99	80	A
-5103	563994	1	2	901	9	Kateřina	Bímová	F			46	dělnice	Dolní Řasnice	99	80	A
-5103	563994	1	3	903	1	Lydie	Burešová	F			49	referentka	Dolní Řasnice	99	80	A
-5103	563994	1	3	903	2	David	Domián	M			32	strojní údržbář	Dolní Řasnice	99	80	A
-5103	563994	1	3	903	3	Tomáš	Kán	M			34	dělník výroby	Dolní Řasnice	99	80	A
-5103	563994	1	3	903	4	Luboš	Bažant	M			63	důchodce	Dolní Řasnice	99	80	A
-5103	563994	1	3	903	5	Stanislav	Smižík	M			28	programátor a operátor CNC strojů	Dolní Řasnice	99	80	A
-5103	563994	1	3	903	6	Milan	Horáček	M			48	mistr seřizovačů	Dolní Řasnice	99	80	A
-5103	563994	1	3	903	7	Ladislav	Zikmund	M			34	profesionální řidič	Dolní Řasnice	99	80	A
-5103	563994	1	3	903	8	Roman	Kolenkár	M			51	manipulant	Dolní Řasnice	99	80	A
-5103	563994	1	3	903	9	Zdeněk	Pulchart	M			35	manipulant	Dolní Řasnice	99	80	A
-5103	563994	1	4	904	1	Vlastimil	Bartoš	M			44	OSVČ	Dolní Řasnice	99	80	A
-5103	563994	1	4	904	2	Josef	Brezovák	M			57	inspektor vězeňské služby	Dolní Řasnice	99	80	A
-5103	563994	1	4	904	3	Pavel	Neumaier	M			39	dozorce vězeňské služby	Dolní Řasnice	99	80	A
-5103	563994	1	4	904	4	Jan	Masopust	M			43	OSVČ	Dolní Řasnice	99	80	A
-5103	563994	1	4	904	5	Martina	Sedlická	F			40	provozní	Dolní Řasnice	99	80	A
-5103	563994	1	4	904	6	Martin	Malý	M			44	mistr výrobního úseku	Dolní Řasnice	99	80	A
-5103	563994	1	4	904	7	Petra	Neumaierová	F			32	kuchařka	Dolní Řasnice	99	80	A
-5103	563994	1	4	904	8	Jan	Bartoš	M			22	strážný vězeňské služby	Dolní Řasnice	99	80	A
-5103	563994	1	4	904	9	Josef	Lelek	M			25	návěstní technik	Dolní Řasnice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5103	563994	1	1	902	1	Marek	Kratochvíl			48	starosta obce	Dolní Řasnice	99	80	A	M
+5103	563994	1	2	901	1	Marcela	Kolenkárová			47	mistrová výroby	Dolní Řasnice	99	80	A	F
+5103	563994	1	3	903	1	Lydie	Burešová			49	referentka	Dolní Řasnice	99	80	A	F
+5103	563994	1	4	904	1	Vlastimil	Bartoš			44	OSVČ	Dolní Řasnice	99	80	A	M
+5103	563994	1	1	902	2	Rostislav	Riedl			27	technolog	Dolní Řasnice	99	80	A	M
+5103	563994	1	2	901	2	Petra	Luftová			45	zdravotní sestra	Dolní Řasnice	99	80	A	F
+5103	563994	1	3	903	2	David	Domián			32	strojní údržbář	Dolní Řasnice	99	80	A	M
+5103	563994	1	4	904	2	Josef	Brezovák			57	inspektor vězeňské služby	Dolní Řasnice	99	80	A	M
+5103	563994	1	1	902	3	Petr	Sivák			28	seřizovač	Dolní Řasnice	99	80	A	M
+5103	563994	1	2	901	3	Dagmar	Pešková			49	pečovatelka	Dolní Řasnice	99	80	A	F
+5103	563994	1	3	903	3	Tomáš	Kán			34	dělník výroby	Dolní Řasnice	99	80	A	M
+5103	563994	1	4	904	3	Pavel	Neumaier			39	dozorce vězeňské služby	Dolní Řasnice	99	80	A	M
+5103	563994	1	1	902	4	Ivana	Šimičková			38	mzdová účetní	Dolní Řasnice	99	80	A	F
+5103	563994	1	2	901	4	Ludmila	Siváková			41	invalidní důchodkyně	Dolní Řasnice	99	80	A	F
+5103	563994	1	3	903	4	Luboš	Bažant			63	důchodce	Dolní Řasnice	99	80	A	M
+5103	563994	1	4	904	4	Jan	Masopust			43	OSVČ	Dolní Řasnice	99	80	A	M
+5103	563994	1	1	902	5	Zuzana	Kahanová			38	učitelka	Dolní Řasnice	99	80	A	F
+5103	563994	1	2	901	5	Silvie	Stříbrná			45	prodavačka	Dolní Řasnice	99	80	A	F
+5103	563994	1	3	903	5	Stanislav	Smižík			28	programátor a operátor CNC strojů	Dolní Řasnice	99	80	A	M
+5103	563994	1	4	904	5	Martina	Sedlická			40	provozní	Dolní Řasnice	99	80	A	F
+5103	563994	1	1	902	6	Tomáš	Kahan			48	ředitel neziskové organizace	Dolní Řasnice	99	80	A	M
+5103	563994	1	2	901	6	Zdeňka	Svobodová			66	OSVČ	Dolní Řasnice	99	80	A	F
+5103	563994	1	3	903	6	Milan	Horáček			48	mistr seřizovačů	Dolní Řasnice	99	80	A	M
+5103	563994	1	4	904	6	Martin	Malý			44	mistr výrobního úseku	Dolní Řasnice	99	80	A	M
+5103	563994	1	1	902	7	Pavel	Sochor			35	zedník	Dolní Řasnice	99	80	A	M
+5103	563994	1	2	901	7	Miroslava	Turková			57	pečovatelka	Dolní Řasnice	99	80	A	F
+5103	563994	1	3	903	7	Ladislav	Zikmund			34	profesionální řidič	Dolní Řasnice	99	80	A	M
+5103	563994	1	4	904	7	Petra	Neumaierová			32	kuchařka	Dolní Řasnice	99	80	A	F
+5103	563994	1	1	902	8	Michal	Kovačík			29	montážní dělník	Dolní Řasnice	99	80	A	M
+5103	563994	1	2	901	8	Marie	Resselová			65	důchodkyně	Dolní Řasnice	99	80	A	F
+5103	563994	1	3	903	8	Roman	Kolenkár			51	manipulant	Dolní Řasnice	99	80	A	M
+5103	563994	1	4	904	8	Jan	Bartoš			22	strážný vězeňské služby	Dolní Řasnice	99	80	A	M
+5103	563994	1	1	902	9	Marek	Bíma			49	zámečník	Dolní Řasnice	99	80	A	M
+5103	563994	1	2	901	9	Kateřina	Bímová			46	dělnice	Dolní Řasnice	99	80	A	F
+5103	563994	1	3	903	9	Zdeněk	Pulchart			35	manipulant	Dolní Řasnice	99	80	A	M
+5103	563994	1	4	904	9	Josef	Lelek			25	návěstní technik	Dolní Řasnice	99	80	A	M

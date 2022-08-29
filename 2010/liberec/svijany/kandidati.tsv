@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5103	564443	1	1	903	1	Miroslav	Lauryn	M			58	OSVČ	Svijany	99	80	0
-5103	564443	1	1	903	2	Miroslav	Zenker	M	Ing.		64	OSVČ	Svijany	99	80	0
-5103	564443	1	1	903	3	Jiří	Ťukal	M			22	traktorista	Svijany	99	80	0
-5103	564443	1	1	903	4	Iveta	Střihavková	F			42	dělnice	Svijany	99	80	0
-5103	564443	1	1	903	5	Miloslav	Bulíř	M			54	invalidní důchodce	Svijany	99	80	0
-5103	564443	1	1	903	6	Milena	Chleborádová	F			57	kuchařka	Svijany	99	80	0
-5103	564443	1	1	903	7	Luboš	Koďousek	M			46	t.č. nezaměstnaný	Svijany	99	80	0
-5103	564443	1	1	903	8	Eva	Dítětová	F			40	t.č. nezaměstnaná	Svijany	99	80	0
-5103	564443	1	1	903	9	František	Jedlička	M			59	OSVČ	Svijany	99	80	0
-5103	564443	1	2	901	1	Josef	Žďárský	M			56	technik	Svijany	99	80	0
-5103	564443	1	2	901	2	Jiří	Linka	M			59	technik	Svijany	99	80	0
-5103	564443	1	2	901	3	Věra	Sichrovská	F			26	odborný referent	Svijany	99	80	0
-5103	564443	1	2	901	4	Josef	Koutný	M			57	podnikatel	Svijany	99	80	0
-5103	564443	1	2	901	5	Eva	Vinterová	F			38	vychovatelka	Svijany	99	80	0
-5103	564443	1	2	901	6	Ilona	Repiská	F			57	důchodkyně	Svijany	99	80	0
-5103	564443	1	2	901	7	Anna	Zaplatílková	F			61	důchodkyně	Svijany	99	80	0
-5103	564443	1	2	901	8	Lukáš	Kozelka	M			33	podnikatel	Svijany	99	80	0
-5103	564443	1	3	902	1	Petr	Lelek	M			63	starosta	Svijany	99	80	0
-5103	564443	1	3	902	2	Tomáš	Stojanovski	M			33	OSVČ	Svijany	99	80	0
-5103	564443	1	3	902	3	Šárka	Kalferstová	F			43	admin. pracovnice - účetní	Svijany	99	80	0
-5103	564443	1	3	902	4	Eva	Uhlířová	F			32	na mateřské dovolené	Svijany	99	80	0
-5103	564443	1	3	902	5	Lucie	Laurynová	F			28	na mateřské dovolené	Svijany	99	80	0
-5103	564443	1	3	902	6	Stanislav	Sichrovský	M			58	řidič	Svijany	99	80	0
-5103	564443	1	3	902	7	Petra	Adamová	F			38	admin. pracovnice	Svijany	99	80	0
-5103	564443	1	3	902	8	Stanislav	Dvořák	M			33	OSVČ	Svijany	99	80	0
-5103	564443	1	3	902	9	František	Horák	M			69	důchodce	Svijany	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5103	564443	1	1	903	1	Miroslav	Lauryn			58	OSVČ	Svijany	99	80	0	M
+5103	564443	1	2	901	1	Josef	Žďárský			56	technik	Svijany	99	80	0	M
+5103	564443	1	3	902	1	Petr	Lelek			63	starosta	Svijany	99	80	0	M
+5103	564443	1	1	903	2	Miroslav	Zenker	Ing.		64	OSVČ	Svijany	99	80	0	M
+5103	564443	1	2	901	2	Jiří	Linka			59	technik	Svijany	99	80	0	M
+5103	564443	1	3	902	2	Tomáš	Stojanovski			33	OSVČ	Svijany	99	80	0	M
+5103	564443	1	1	903	3	Jiří	Ťukal			22	traktorista	Svijany	99	80	0	M
+5103	564443	1	2	901	3	Věra	Sichrovská			26	odborný referent	Svijany	99	80	0	F
+5103	564443	1	3	902	3	Šárka	Kalferstová			43	admin. pracovnice - účetní	Svijany	99	80	0	F
+5103	564443	1	1	903	4	Iveta	Střihavková			42	dělnice	Svijany	99	80	0	F
+5103	564443	1	2	901	4	Josef	Koutný			57	podnikatel	Svijany	99	80	0	M
+5103	564443	1	3	902	4	Eva	Uhlířová			32	na mateřské dovolené	Svijany	99	80	0	F
+5103	564443	1	1	903	5	Miloslav	Bulíř			54	invalidní důchodce	Svijany	99	80	0	M
+5103	564443	1	2	901	5	Eva	Vinterová			38	vychovatelka	Svijany	99	80	0	F
+5103	564443	1	3	902	5	Lucie	Laurynová			28	na mateřské dovolené	Svijany	99	80	0	F
+5103	564443	1	1	903	6	Milena	Chleborádová			57	kuchařka	Svijany	99	80	0	F
+5103	564443	1	2	901	6	Ilona	Repiská			57	důchodkyně	Svijany	99	80	0	F
+5103	564443	1	3	902	6	Stanislav	Sichrovský			58	řidič	Svijany	99	80	0	M
+5103	564443	1	1	903	7	Luboš	Koďousek			46	t.č. nezaměstnaný	Svijany	99	80	0	M
+5103	564443	1	2	901	7	Anna	Zaplatílková			61	důchodkyně	Svijany	99	80	0	F
+5103	564443	1	3	902	7	Petra	Adamová			38	admin. pracovnice	Svijany	99	80	0	F
+5103	564443	1	1	903	8	Eva	Dítětová			40	t.č. nezaměstnaná	Svijany	99	80	0	F
+5103	564443	1	2	901	8	Lukáš	Kozelka			33	podnikatel	Svijany	99	80	0	M
+5103	564443	1	3	902	8	Stanislav	Dvořák			33	OSVČ	Svijany	99	80	0	M
+5103	564443	1	1	903	9	František	Jedlička			59	OSVČ	Svijany	99	80	0	M
+5103	564443	1	3	902	9	František	Horák			69	důchodce	Svijany	99	80	0	M

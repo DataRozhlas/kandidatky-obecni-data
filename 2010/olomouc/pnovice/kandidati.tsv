@@ -1,30 +1,30 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	552160	1	1	801	1	Radovan	Štábl	M			41	technik	Pňovice	99	80	0
-7102	552160	1	2	1	1	František	Čunderle	M			50	dělník	Pňovice	99	1	0
-7102	552160	1	2	1	2	Martin	Neplech	M			33	policista	Pňovice	99	1	0
-7102	552160	1	2	1	3	Radomír	Chabičovský	M			59	OSVČ	Pňovice	1	1	0
-7102	552160	1	2	1	4	Jana	Neplechová	F			28	v domácnosti	Pňovice	99	1	0
-7102	552160	1	2	1	5	Marek	Kvapil	M			27	student	Pňovice	99	1	0
-7102	552160	1	2	1	6	Marie	Téglová	F			61	důchodkyně	Pňovice	99	1	0
-7102	552160	1	2	1	7	Lenka	Dominiková	F			35	v domácnosti	Pňovice	99	1	0
-7102	552160	1	2	1	8	Dobromila	Chabičovská	F			62	důchodkyně	Pňovice	99	1	0
-7102	552160	1	2	1	9	Barbora	Popelářová	F			23	zubní sestra	Pňovice	99	1	0
-7102	552160	1	3	47	1	Pavel	Bajer	M			60	technik	Pňovice	47	47	0
-7102	552160	1	3	47	2	Hana	Koutná	F			48	technik	Pňovice	99	47	0
-7102	552160	1	3	47	3	František	Pec	M			42	zootechnik	Pňovice	99	47	0
-7102	552160	1	3	47	4	František	Chabičovský	M	Mgr.		56	učitel	Pňovice	99	47	0
-7102	552160	1	3	47	5	Miroslav	Trochta	M			51	podnikatel	Pňovice	47	47	0
-7102	552160	1	3	47	6	Milena	Nováková	F			63	důchodkyně	Pňovice	47	47	0
-7102	552160	1	3	47	7	Ludmila	Janíková	F			68	důchodkyně	Pňovice	47	47	0
-7102	552160	1	3	47	8	Josef	Šimčík	M	Ing.		65	důchodce	Pňovice	99	47	0
-7102	552160	1	3	47	9	Pavel	Bajer	M			37	řidič	Pňovice	99	47	0
-7102	552160	1	4	137	1	Marek	Maceják	M			40	technik	Pňovice	137	137	0
-7102	552160	1	5	7	1	Jan	Vrba	M			39	lesní technik	Pňovice	99	7	0
-7102	552160	1	5	7	2	Luboš	Čunderle	M			42	pracovník THP	Pňovice	7	7	0
-7102	552160	1	5	7	3	Ludmila	Zavadilová	F	Mgr.		60	starostka obce	Pňovice	99	7	0
-7102	552160	1	5	7	4	Věra	Studená	F			49	laborantka	Pňovice	99	7	0
-7102	552160	1	5	7	5	Jaroslav	Kupec	M			44	státní zaměstnanec	Pňovice	99	7	0
-7102	552160	1	5	7	6	Jana	Holínková	F			40	mzdová účetní	Pňovice	99	7	0
-7102	552160	1	5	7	7	Radomír	Šmoldas	M	Ing. Ph.D.		37	ředitel divize	Pňovice	99	7	0
-7102	552160	1	5	7	8	Radim	Jurka	M			36	bankovní poradce	Pňovice	99	7	0
-7102	552160	1	5	7	9	David	Křižan	M			33	administrativní pracovník	Pňovice	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	552160	1	1	801	1	Radovan	Štábl			41	technik	Pňovice	99	80	0	M
+7102	552160	1	2	1	1	František	Čunderle			50	dělník	Pňovice	99	1	0	M
+7102	552160	1	3	47	1	Pavel	Bajer			60	technik	Pňovice	47	47	0	M
+7102	552160	1	4	137	1	Marek	Maceják			40	technik	Pňovice	137	137	0	M
+7102	552160	1	5	7	1	Jan	Vrba			39	lesní technik	Pňovice	99	7	0	M
+7102	552160	1	2	1	2	Martin	Neplech			33	policista	Pňovice	99	1	0	M
+7102	552160	1	3	47	2	Hana	Koutná			48	technik	Pňovice	99	47	0	F
+7102	552160	1	5	7	2	Luboš	Čunderle			42	pracovník THP	Pňovice	7	7	0	M
+7102	552160	1	2	1	3	Radomír	Chabičovský			59	OSVČ	Pňovice	1	1	0	M
+7102	552160	1	3	47	3	František	Pec			42	zootechnik	Pňovice	99	47	0	M
+7102	552160	1	5	7	3	Ludmila	Zavadilová	Mgr.		60	starostka obce	Pňovice	99	7	0	F
+7102	552160	1	2	1	4	Jana	Neplechová			28	v domácnosti	Pňovice	99	1	0	F
+7102	552160	1	3	47	4	František	Chabičovský	Mgr.		56	učitel	Pňovice	99	47	0	M
+7102	552160	1	5	7	4	Věra	Studená			49	laborantka	Pňovice	99	7	0	F
+7102	552160	1	2	1	5	Marek	Kvapil			27	student	Pňovice	99	1	0	M
+7102	552160	1	3	47	5	Miroslav	Trochta			51	podnikatel	Pňovice	47	47	0	M
+7102	552160	1	5	7	5	Jaroslav	Kupec			44	státní zaměstnanec	Pňovice	99	7	0	M
+7102	552160	1	2	1	6	Marie	Téglová			61	důchodkyně	Pňovice	99	1	0	F
+7102	552160	1	3	47	6	Milena	Nováková			63	důchodkyně	Pňovice	47	47	0	F
+7102	552160	1	5	7	6	Jana	Holínková			40	mzdová účetní	Pňovice	99	7	0	F
+7102	552160	1	2	1	7	Lenka	Dominiková			35	v domácnosti	Pňovice	99	1	0	F
+7102	552160	1	3	47	7	Ludmila	Janíková			68	důchodkyně	Pňovice	47	47	0	F
+7102	552160	1	5	7	7	Radomír	Šmoldas	Ing. Ph.D.		37	ředitel divize	Pňovice	99	7	0	M
+7102	552160	1	2	1	8	Dobromila	Chabičovská			62	důchodkyně	Pňovice	99	1	0	F
+7102	552160	1	3	47	8	Josef	Šimčík	Ing.		65	důchodce	Pňovice	99	47	0	M
+7102	552160	1	5	7	8	Radim	Jurka			36	bankovní poradce	Pňovice	99	7	0	M
+7102	552160	1	2	1	9	Barbora	Popelářová			23	zubní sestra	Pňovice	99	1	0	F
+7102	552160	1	3	47	9	Pavel	Bajer			37	řidič	Pňovice	99	47	0	M
+7102	552160	1	5	7	9	David	Křižan			33	administrativní pracovník	Pňovice	99	7	0	M

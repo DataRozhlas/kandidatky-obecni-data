@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	591661	1	1	809	1	Robert	Bureš	M	Ing.		44	OSVČ	Senorady	99	80	A
-6203	591661	1	2	803	1	Tomáš	Jurka	M			34	živnostník	Senorady	99	80	A
-6203	591661	1	3	802	1	Dagmar	Frolcová	F	Mgr.		41	statutární zástupkyně ředitele školy	Senorady	99	80	A
-6203	591661	1	4	805	1	Roman	Bureš	M			43	OSVČ	Senorady	99	80	A
-6203	591661	1	5	804	1	Jiřina	Zelníčková	F			71	důchodce	Senorady	99	80	A
-6203	591661	1	6	806	1	Aleš	Malý	M			36	IT specialista	Senorady	99	80	A
-6203	591661	1	7	808	1	Michaela	Pařilová	F	Ing.		39	mateřská dovolená	Senorady	99	80	A
-6203	591661	1	8	811	1	Pavel	Vaníček	M			63	OSVČ	Senorady	99	80	A
-6203	591661	1	9	812	1	Martin	Došek	M	Ing.		39	soukromý podnikatel	Senorady	99	80	A
-6203	591661	1	10	355	1	Oldřich	Krištof	M	Bc.		52	vedoucí strážník, policista	Senorady	99	1	A
-6203	591661	1	10	355	2	Kamil	Hošek	M			34	vedoucí bioplynové stanice	Senorady	99	80	A
-6203	591661	1	10	355	3	Michaela	Šindelková	F			36	OSVČ	Senorady	99	1	A
-6203	591661	1	10	355	4	Eva	Koníčková	F			58	zdravotní sestra	Senorady	99	1	A
-6203	591661	1	10	355	5	Lenka	Grunská	F			29	technik měřící laboratoře	Senorady	99	1	A
-6203	591661	1	10	355	6	Lenka	Hošková	F			31	administrativní pracovnice	Senorady	99	1	A
-6203	591661	1	10	355	7	Jarmila	Došková	F			61	důchodkyně	Senorady	1	1	A
-6203	591661	1	10	355	8	Gabriel	Kopeček	M			75	samostatně hospodařící zemědělec v důchodu	Senorady	99	1	A
-6203	591661	1	10	355	9	Josef	Hypr	M			69	samostatně hospodařící zemědělec	Senorady	99	1	A
-6203	591661	1	11	810	1	Anna	Chaloupková	F			60	důchodce	Senorady	99	80	A
-6203	591661	1	12	801	1	Dana	Prušková	F			38	zdravotní sestra	Senorady	99	80	A
-6203	591661	1	13	807	1	Karel	Hobík	M			54	OSVČ	Senorady	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	591661	1	1	809	1	Robert	Bureš	Ing.		44	OSVČ	Senorady	99	80	A	M
+6203	591661	1	2	803	1	Tomáš	Jurka			34	živnostník	Senorady	99	80	A	M
+6203	591661	1	3	802	1	Dagmar	Frolcová	Mgr.		41	statutární zástupkyně ředitele školy	Senorady	99	80	A	F
+6203	591661	1	4	805	1	Roman	Bureš			43	OSVČ	Senorady	99	80	A	M
+6203	591661	1	5	804	1	Jiřina	Zelníčková			71	důchodce	Senorady	99	80	A	F
+6203	591661	1	6	806	1	Aleš	Malý			36	IT specialista	Senorady	99	80	A	M
+6203	591661	1	7	808	1	Michaela	Pařilová	Ing.		39	mateřská dovolená	Senorady	99	80	A	F
+6203	591661	1	8	811	1	Pavel	Vaníček			63	OSVČ	Senorady	99	80	A	M
+6203	591661	1	9	812	1	Martin	Došek	Ing.		39	soukromý podnikatel	Senorady	99	80	A	M
+6203	591661	1	10	355	1	Oldřich	Krištof	Bc.		52	vedoucí strážník, policista	Senorady	99	1	A	M
+6203	591661	1	11	810	1	Anna	Chaloupková			60	důchodce	Senorady	99	80	A	F
+6203	591661	1	12	801	1	Dana	Prušková			38	zdravotní sestra	Senorady	99	80	A	F
+6203	591661	1	13	807	1	Karel	Hobík			54	OSVČ	Senorady	99	80	A	M
+6203	591661	1	10	355	2	Kamil	Hošek			34	vedoucí bioplynové stanice	Senorady	99	80	A	M
+6203	591661	1	10	355	3	Michaela	Šindelková			36	OSVČ	Senorady	99	1	A	F
+6203	591661	1	10	355	4	Eva	Koníčková			58	zdravotní sestra	Senorady	99	1	A	F
+6203	591661	1	10	355	5	Lenka	Grunská			29	technik měřící laboratoře	Senorady	99	1	A	F
+6203	591661	1	10	355	6	Lenka	Hošková			31	administrativní pracovnice	Senorady	99	1	A	F
+6203	591661	1	10	355	7	Jarmila	Došková			61	důchodkyně	Senorady	1	1	A	F
+6203	591661	1	10	355	8	Gabriel	Kopeček			75	samostatně hospodařící zemědělec v důchodu	Senorady	99	1	A	M
+6203	591661	1	10	355	9	Josef	Hypr			69	samostatně hospodařící zemědělec	Senorady	99	1	A	M

@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	549525	1	1	903	1	Radek	Brejcha	M			38	projektový specialista	Králova Lhota	99	80	A
-3104	549525	1	1	903	2	Petr	Truhlář	M			45	strojní mechanik	Králova Lhota	99	80	A
-3104	549525	1	1	903	3	Petr	Valíček	M			40	OSVČ - dřevovýroba	Laziště	99	80	A
-3104	549525	1	1	903	4	Olga	Ziglerová	F	Ing.		36	OSVČ - maloobchod	Králova Lhota	99	80	A
-3104	549525	1	1	903	5	František	Korytář	M			24	OSVČ - soukromý zemědělec	Králova Lhota	99	80	A
-3104	549525	1	1	903	6	Jiří	Herman	M			27	OSVČ - zedník	Králova Lhota	99	80	A
-3104	549525	1	1	903	7	Michal	Musil	M			41	specialista letového provozu	Králova Lhota	99	80	A
-3104	549525	1	2	901	1	Josef	Mašek	M			55	starosta	Králova Lhota	99	80	A
-3104	549525	1	2	901	2	Tomáš	Kudela	M			40	asistent logistiky	Králova Lhota	99	80	A
-3104	549525	1	2	901	3	Karel	Šácha	M			44	učitel	Laziště	99	80	A
-3104	549525	1	2	901	4	Zdeněk	Cígner	M			41	soukromý zemědělec	Laziště	99	80	A
-3104	549525	1	2	901	5	Jana	Jelínková	F			53	učitelka	Králova Lhota	99	80	A
-3104	549525	1	2	901	6	Miroslav	Pešek	M			59	důchodce	Laziště	99	80	A
-3104	549525	1	2	901	7	Jaroslav	Hlavín	M			52	prodavač	Králova Lhota	99	80	A
-3104	549525	1	2	901	8	František	Lojík	M			63	důchodce	Králova Lhota	99	80	A
-3104	549525	1	3	902	1	Jiří	Herman	M			47	AGPI - údržbář	Králova Lhota	99	80	A
-3104	549525	1	3	902	2	Miloslav	Mikeš	M			49	OSVČ	Králova Lhota	99	80	A
-3104	549525	1	3	902	3	Martina	Polívková	F	Mgr.		38	učitelka	Králova Lhota	99	80	A
-3104	549525	1	3	902	4	Lenka	Linhartová	F			42	lesní správa - ošetřovatelka	Králova Lhota	99	80	A
-3104	549525	1	3	902	5	Aleš	Polívka	M			44	technolog	Králova Lhota	99	80	A
-3104	549525	1	3	902	6	Miroslav	Klika	M			68	důchodce	Králova Lhota	99	80	A
-3104	549525	1	3	902	7	Pavel	Kotmel	M			25	operátor lesních strojů	Laziště	99	80	A
-3104	549525	1	3	902	8	Marie	Kotmelová	F	Bc.	DiS.	26	zdravotní sestra	Laziště	99	80	A
-3104	549525	1	3	902	9	Ondřej	Jelínek	M			62	kuchař	Králova Lhota	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	549525	1	1	903	1	Radek	Brejcha			38	projektový specialista	Králova Lhota	99	80	A	M
+3104	549525	1	2	901	1	Josef	Mašek			55	starosta	Králova Lhota	99	80	A	M
+3104	549525	1	3	902	1	Jiří	Herman			47	AGPI - údržbář	Králova Lhota	99	80	A	M
+3104	549525	1	1	903	2	Petr	Truhlář			45	strojní mechanik	Králova Lhota	99	80	A	M
+3104	549525	1	2	901	2	Tomáš	Kudela			40	asistent logistiky	Králova Lhota	99	80	A	M
+3104	549525	1	3	902	2	Miloslav	Mikeš			49	OSVČ	Králova Lhota	99	80	A	M
+3104	549525	1	1	903	3	Petr	Valíček			40	OSVČ - dřevovýroba	Laziště	99	80	A	M
+3104	549525	1	2	901	3	Karel	Šácha			44	učitel	Laziště	99	80	A	M
+3104	549525	1	3	902	3	Martina	Polívková	Mgr.		38	učitelka	Králova Lhota	99	80	A	F
+3104	549525	1	1	903	4	Olga	Ziglerová	Ing.		36	OSVČ - maloobchod	Králova Lhota	99	80	A	F
+3104	549525	1	2	901	4	Zdeněk	Cígner			41	soukromý zemědělec	Laziště	99	80	A	M
+3104	549525	1	3	902	4	Lenka	Linhartová			42	lesní správa - ošetřovatelka	Králova Lhota	99	80	A	F
+3104	549525	1	1	903	5	František	Korytář			24	OSVČ - soukromý zemědělec	Králova Lhota	99	80	A	M
+3104	549525	1	2	901	5	Jana	Jelínková			53	učitelka	Králova Lhota	99	80	A	F
+3104	549525	1	3	902	5	Aleš	Polívka			44	technolog	Králova Lhota	99	80	A	M
+3104	549525	1	1	903	6	Jiří	Herman			27	OSVČ - zedník	Králova Lhota	99	80	A	M
+3104	549525	1	2	901	6	Miroslav	Pešek			59	důchodce	Laziště	99	80	A	M
+3104	549525	1	3	902	6	Miroslav	Klika			68	důchodce	Králova Lhota	99	80	A	M
+3104	549525	1	1	903	7	Michal	Musil			41	specialista letového provozu	Králova Lhota	99	80	A	M
+3104	549525	1	2	901	7	Jaroslav	Hlavín			52	prodavač	Králova Lhota	99	80	A	M
+3104	549525	1	3	902	7	Pavel	Kotmel			25	operátor lesních strojů	Laziště	99	80	A	M
+3104	549525	1	2	901	8	František	Lojík			63	důchodce	Králova Lhota	99	80	A	M
+3104	549525	1	3	902	8	Marie	Kotmelová	Bc.	DiS.	26	zdravotní sestra	Laziště	99	80	A	F
+3104	549525	1	3	902	9	Ondřej	Jelínek			62	kuchař	Králova Lhota	99	80	A	M

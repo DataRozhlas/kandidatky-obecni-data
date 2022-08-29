@@ -1,9 +1,9 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4201	545899	1	1	901	1	Vladimír	Fišer	M	Ing.		56	soukromý podnikatel	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	1	901	2	Jan	Saska	M	Ing.		53	manažer	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	1	901	3	Jaroslav	Velebný	M			60	invalidní důchodce	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	1	901	4	Věra	Loosová	F			53	soukromý podnikatel	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	1	901	5	Libor	Bzura	M			37	manažer	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	1	901	6	Miroslav	Dvořák	M			57	soukromý podnikatel	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	1	901	7	Pavlína	Škachová	F			26	úřednice	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	2	801	1	Tomislav	Rak	M			31	technik údržby telekom.sítí	Františkov nad Ploučnicí	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4201	545899	1	1	901	1	Vladimír	Fišer	Ing.		56	soukromý podnikatel	Františkov nad Ploučnicí	99	80	0	M
+4201	545899	1	2	801	1	Tomislav	Rak			31	technik údržby telekom.sítí	Františkov nad Ploučnicí	99	80	0	M
+4201	545899	1	1	901	2	Jan	Saska	Ing.		53	manažer	Františkov nad Ploučnicí	99	80	0	M
+4201	545899	1	1	901	3	Jaroslav	Velebný			60	invalidní důchodce	Františkov nad Ploučnicí	99	80	0	M
+4201	545899	1	1	901	4	Věra	Loosová			53	soukromý podnikatel	Františkov nad Ploučnicí	99	80	0	F
+4201	545899	1	1	901	5	Libor	Bzura			37	manažer	Františkov nad Ploučnicí	99	80	0	M
+4201	545899	1	1	901	6	Miroslav	Dvořák			57	soukromý podnikatel	Františkov nad Ploučnicí	99	80	0	M
+4201	545899	1	1	901	7	Pavlína	Škachová			26	úřednice	Františkov nad Ploučnicí	99	80	0	F

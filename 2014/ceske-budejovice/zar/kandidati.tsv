@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	545376	1	1	902	1	Zdeněk	Kunágl	M			30	seřizovač	Žár	99	80	0
-3101	545376	1	1	902	2	František	Lavička	M			30	OSVČ	Žár	99	80	0
-3101	545376	1	1	902	3	František	Ševčík	M	Ing.		59	ředitel akciové společnosti	Žár	99	80	0
-3101	545376	1	1	902	4	Karel	Štora	M			43	mistr seřizovač	Žár	99	80	0
-3101	545376	1	1	902	5	František	Lavička	M			53	OSVČ	Žár	99	80	0
-3101	545376	1	1	902	6	Aleš	Jirsa	M			41	technik	Žár	99	80	0
-3101	545376	1	1	902	7	Jiří	Šnejd	M			43	OSVČ	Žár	99	80	0
-3101	545376	1	2	901	1	Miloš	Pecháček	M	Ing.		58	starosta	Žár	99	80	0
-3101	545376	1	2	901	2	Karel	Bazal	M	Mgr.		39	technik ČL	Žár	99	80	0
-3101	545376	1	2	901	3	Ladislav	Tůma	M			65	poj. makléř	Žumberk	99	80	0
-3101	545376	1	2	901	4	František	Horelica	M			66	důchodce	Žár	99	80	0
-3101	545376	1	2	901	5	Jiří	Tácha	M			51	mechanik	Žár	99	80	0
-3101	545376	1	2	901	6	Roman	Josefík	M			44	kastelán	Žumberk	99	80	0
-3101	545376	1	2	901	7	Marie	Strachotová	F	Bc.		46	soc. pracovnice	Žár	99	80	0
-3101	545376	1	2	901	8	Vít	Barabáš	M	Bc.		28	student	Žár	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	545376	1	1	902	1	Zdeněk	Kunágl			30	seřizovač	Žár	99	80	0	M
+3101	545376	1	2	901	1	Miloš	Pecháček	Ing.		58	starosta	Žár	99	80	0	M
+3101	545376	1	1	902	2	František	Lavička			30	OSVČ	Žár	99	80	0	M
+3101	545376	1	2	901	2	Karel	Bazal	Mgr.		39	technik ČL	Žár	99	80	0	M
+3101	545376	1	1	902	3	František	Ševčík	Ing.		59	ředitel akciové společnosti	Žár	99	80	0	M
+3101	545376	1	2	901	3	Ladislav	Tůma			65	poj. makléř	Žumberk	99	80	0	M
+3101	545376	1	1	902	4	Karel	Štora			43	mistr seřizovač	Žár	99	80	0	M
+3101	545376	1	2	901	4	František	Horelica			66	důchodce	Žár	99	80	0	M
+3101	545376	1	1	902	5	František	Lavička			53	OSVČ	Žár	99	80	0	M
+3101	545376	1	2	901	5	Jiří	Tácha			51	mechanik	Žár	99	80	0	M
+3101	545376	1	1	902	6	Aleš	Jirsa			41	technik	Žár	99	80	0	M
+3101	545376	1	2	901	6	Roman	Josefík			44	kastelán	Žumberk	99	80	0	M
+3101	545376	1	1	902	7	Jiří	Šnejd			43	OSVČ	Žár	99	80	0	M
+3101	545376	1	2	901	7	Marie	Strachotová	Bc.		46	soc. pracovnice	Žár	99	80	0	F
+3101	545376	1	2	901	8	Vít	Barabáš	Bc.		28	student	Žár	99	80	0	M

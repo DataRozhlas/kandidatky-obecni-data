@@ -1,38 +1,38 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5203	574376	1	1	801	1	Rudolf	Kunta	M			70	důchodce	Rasošky	99	80	0
-5203	574376	1	2	902	1	Jiří	Kotland	M	Ing.		28	auditor-kontrolor	Rasošky	99	80	0
-5203	574376	1	2	902	2	Martina	Krystová	F			32	obchodní zástupce	Rasošky	99	80	0
-5203	574376	1	2	902	3	Pavel	Hak	M			31	zámečník	Rasošky	99	80	0
-5203	574376	1	2	902	4	Miroslava	Slavíčková	F			26	ekonom	Rasošky	99	80	0
-5203	574376	1	2	902	5	Jana	Izáková	F			30	bankovní úředník	Rasošky	99	80	0
-5203	574376	1	2	902	6	Ludmila	Berkovcová	F			33	v domácnosti	Rasošky	99	80	0
-5203	574376	1	2	902	7	Gabriela	Rejchrtová	F			35	účetní	Dolní Ples	99	80	0
-5203	574376	1	3	901	1	Zdeněk	Bardon	M			45	manager	Rasošky	99	80	0
-5203	574376	1	3	901	2	Pavla	Házová	F	Ing.		35	stavební inženýr	Rasošky	99	80	0
-5203	574376	1	3	901	3	Stanislava	Marelová	F			37	zdravotní sestra	Dolní  Ples	99	80	0
-5203	574376	1	3	901	4	Oldřich	Rezek	M			43	zedník	Rasošky	99	80	0
-5203	574376	1	3	901	5	Jaromír	Tázler	M			37	automechanik	Rasošky	99	80	0
-5203	574376	1	3	901	6	Jiřina	Pokorná	F			69	důchodce	Rasošky	99	80	0
-5203	574376	1	3	901	7	Miluška	Švorcová	F			57	rentgenová laborantka	Rasošky	99	80	0
-5203	574376	1	3	901	8	Božena	Štěpánová	F			59	důchodce	Rasošky	99	80	0
-5203	574376	1	3	901	9	Ivana	Bardonová	F			43	účetní	Rasošky	99	80	0
-5203	574376	1	4	905	1	Miroslav	Slezák	M			51	zedník	Rasošky	99	80	0
-5203	574376	1	4	905	2	Hana	Kadlecová	F			51	státní zaměstnanec	Rasošky	99	80	0
-5203	574376	1	4	905	3	Milena	Jonešová	F			41	učitelka MŠ	Rasošky	99	80	0
-5203	574376	1	4	905	4	Iveta	Zachařová	F			35	kuchařka	Rasošky	99	80	0
-5203	574376	1	4	905	5	Václav	Prokeš	M			59	dělník	Rasošky	99	80	0
-5203	574376	1	4	905	6	Denisa	Součková	F			32	zahradnice	Rasošky	99	80	0
-5203	574376	1	4	905	7	Roman	Baše	M			34	dělník	Rasošky	99	80	0
-5203	574376	1	4	905	8	Radek	Fišar	M			29	dělník	Rasošky	99	80	0
-5203	574376	1	5	903	1	Josef	Slezák	M			48	mistr stavební výroby	Rasošky	99	80	0
-5203	574376	1	5	903	2	Zdeňka	Kuncová	F			39	prodavačka	Rasošky	99	80	0
-5203	574376	1	5	903	3	Petr	Souček	M			32	mistr výroby	Rasošky	99	80	0
-5203	574376	1	5	903	4	Imrich	Mrázik	M			45	dělník	Rasošky	99	80	0
-5203	574376	1	6	904	1	Vladimír	Hynek	M			51	řidič	Rasošky	99	80	0
-5203	574376	1	6	904	2	Miloš	Exnar	M			59	technik	Rasošky	99	80	0
-5203	574376	1	6	904	3	Zbyněk	Trutnovský	M			44	občanský zaměstnanec	Rasošky	99	80	0
-5203	574376	1	6	904	4	Aleš	Vlk	M			35	brašnář	Rasošky	99	80	0
-5203	574376	1	6	904	5	Vladimír	Fišar	M			32	instalatér	Rasošky	99	80	0
-5203	574376	1	6	904	6	Robert	Koprda	M			37	podnikatel	Rasošky	99	80	0
-5203	574376	1	6	904	7	Simona	Holínská	F			18	kadeřnice	Rasošky	99	80	0
-5203	574376	1	7	802	1	Stanislava	Klemensová	F			51	podnikatelka	Rasošky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5203	574376	1	1	801	1	Rudolf	Kunta			70	důchodce	Rasošky	99	80	0	M
+5203	574376	1	2	902	1	Jiří	Kotland	Ing.		28	auditor-kontrolor	Rasošky	99	80	0	M
+5203	574376	1	3	901	1	Zdeněk	Bardon			45	manager	Rasošky	99	80	0	M
+5203	574376	1	4	905	1	Miroslav	Slezák			51	zedník	Rasošky	99	80	0	M
+5203	574376	1	5	903	1	Josef	Slezák			48	mistr stavební výroby	Rasošky	99	80	0	M
+5203	574376	1	6	904	1	Vladimír	Hynek			51	řidič	Rasošky	99	80	0	M
+5203	574376	1	7	802	1	Stanislava	Klemensová			51	podnikatelka	Rasošky	99	80	0	F
+5203	574376	1	2	902	2	Martina	Krystová			32	obchodní zástupce	Rasošky	99	80	0	F
+5203	574376	1	3	901	2	Pavla	Házová	Ing.		35	stavební inženýr	Rasošky	99	80	0	F
+5203	574376	1	4	905	2	Hana	Kadlecová			51	státní zaměstnanec	Rasošky	99	80	0	F
+5203	574376	1	5	903	2	Zdeňka	Kuncová			39	prodavačka	Rasošky	99	80	0	F
+5203	574376	1	6	904	2	Miloš	Exnar			59	technik	Rasošky	99	80	0	M
+5203	574376	1	2	902	3	Pavel	Hak			31	zámečník	Rasošky	99	80	0	M
+5203	574376	1	3	901	3	Stanislava	Marelová			37	zdravotní sestra	Dolní  Ples	99	80	0	F
+5203	574376	1	4	905	3	Milena	Jonešová			41	učitelka MŠ	Rasošky	99	80	0	F
+5203	574376	1	5	903	3	Petr	Souček			32	mistr výroby	Rasošky	99	80	0	M
+5203	574376	1	6	904	3	Zbyněk	Trutnovský			44	občanský zaměstnanec	Rasošky	99	80	0	M
+5203	574376	1	2	902	4	Miroslava	Slavíčková			26	ekonom	Rasošky	99	80	0	F
+5203	574376	1	3	901	4	Oldřich	Rezek			43	zedník	Rasošky	99	80	0	M
+5203	574376	1	4	905	4	Iveta	Zachařová			35	kuchařka	Rasošky	99	80	0	F
+5203	574376	1	5	903	4	Imrich	Mrázik			45	dělník	Rasošky	99	80	0	M
+5203	574376	1	6	904	4	Aleš	Vlk			35	brašnář	Rasošky	99	80	0	M
+5203	574376	1	2	902	5	Jana	Izáková			30	bankovní úředník	Rasošky	99	80	0	F
+5203	574376	1	3	901	5	Jaromír	Tázler			37	automechanik	Rasošky	99	80	0	M
+5203	574376	1	4	905	5	Václav	Prokeš			59	dělník	Rasošky	99	80	0	M
+5203	574376	1	6	904	5	Vladimír	Fišar			32	instalatér	Rasošky	99	80	0	M
+5203	574376	1	2	902	6	Ludmila	Berkovcová			33	v domácnosti	Rasošky	99	80	0	F
+5203	574376	1	3	901	6	Jiřina	Pokorná			69	důchodce	Rasošky	99	80	0	F
+5203	574376	1	4	905	6	Denisa	Součková			32	zahradnice	Rasošky	99	80	0	F
+5203	574376	1	6	904	6	Robert	Koprda			37	podnikatel	Rasošky	99	80	0	M
+5203	574376	1	2	902	7	Gabriela	Rejchrtová			35	účetní	Dolní Ples	99	80	0	F
+5203	574376	1	3	901	7	Miluška	Švorcová			57	rentgenová laborantka	Rasošky	99	80	0	F
+5203	574376	1	4	905	7	Roman	Baše			34	dělník	Rasošky	99	80	0	M
+5203	574376	1	6	904	7	Simona	Holínská			18	kadeřnice	Rasošky	99	80	0	F
+5203	574376	1	3	901	8	Božena	Štěpánová			59	důchodce	Rasošky	99	80	0	F
+5203	574376	1	4	905	8	Radek	Fišar			29	dělník	Rasošky	99	80	0	M
+5203	574376	1	3	901	9	Ivana	Bardonová			43	účetní	Rasošky	99	80	0	F

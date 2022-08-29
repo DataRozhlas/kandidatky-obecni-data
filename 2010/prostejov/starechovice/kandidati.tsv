@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	590053	1	1	801	1	Pavlína	Menšíková	F			41	administrativní pracovnice	Stařechovice	99	80	0
-7103	590053	1	2	901	1	Zdeňka	Crhonková	F			65	starostka	Stařechovice	99	80	0
-7103	590053	1	2	901	2	Hana	Řezníčková	F			45	nezaměstnaná	Stařechovice	99	80	0
-7103	590053	1	2	901	3	František	Vychodil	M	Ing.		66	důchodce	Stařechovice	99	80	0
-7103	590053	1	2	901	4	Vojtěch	Všetička	M	Ing.		61	důchodce	Stařechovice	99	80	0
-7103	590053	1	2	901	5	Libuše	Egermajerová	F			65	důchodce	Stařechovice-Služín	99	80	0
-7103	590053	1	2	901	6	Svatopluk	Žitný	M			56	mistr výroby	Stařechovice	99	80	0
-7103	590053	1	3	902	1	Miroslav	Vyroubal	M			64	důchodce	Stařechovice	99	80	0
-7103	590053	1	3	902	2	Radek	Janeček	M			32	mistr výroby	Stařechovice	99	80	0
-7103	590053	1	3	902	3	Pavel	Lipička	M			57	provozní zámečník	Stařechovice	99	80	0
-7103	590053	1	3	902	4	Michal	Šťastný	M			33	skladník	Stařechovice-Služín	99	80	0
-7103	590053	1	3	902	5	Jan	Tichý	M	Ing.		42	podnikatel	Stařechovice-Služín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	590053	1	1	801	1	Pavlína	Menšíková			41	administrativní pracovnice	Stařechovice	99	80	0	F
+7103	590053	1	2	901	1	Zdeňka	Crhonková			65	starostka	Stařechovice	99	80	0	F
+7103	590053	1	3	902	1	Miroslav	Vyroubal			64	důchodce	Stařechovice	99	80	0	M
+7103	590053	1	2	901	2	Hana	Řezníčková			45	nezaměstnaná	Stařechovice	99	80	0	F
+7103	590053	1	3	902	2	Radek	Janeček			32	mistr výroby	Stařechovice	99	80	0	M
+7103	590053	1	2	901	3	František	Vychodil	Ing.		66	důchodce	Stařechovice	99	80	0	M
+7103	590053	1	3	902	3	Pavel	Lipička			57	provozní zámečník	Stařechovice	99	80	0	M
+7103	590053	1	2	901	4	Vojtěch	Všetička	Ing.		61	důchodce	Stařechovice	99	80	0	M
+7103	590053	1	3	902	4	Michal	Šťastný			33	skladník	Stařechovice-Služín	99	80	0	M
+7103	590053	1	2	901	5	Libuše	Egermajerová			65	důchodce	Stařechovice-Služín	99	80	0	F
+7103	590053	1	3	902	5	Jan	Tichý	Ing.		42	podnikatel	Stařechovice-Služín	99	80	0	M
+7103	590053	1	2	901	6	Svatopluk	Žitný			56	mistr výroby	Stařechovice	99	80	0	M

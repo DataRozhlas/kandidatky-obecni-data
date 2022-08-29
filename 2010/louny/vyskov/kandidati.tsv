@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4204	566951	1	1	47	1	Josef	Zahradník	M			25	skladník-THP	Výškov	47	47	0
-4204	566951	1	1	47	2	Marie	Fidlerová	F			56	prodavačka	Výškov	99	47	0
-4204	566951	1	1	47	3	Josef	Čada	M			59	řidič	Počerady	99	47	0
-4204	566951	1	1	47	4	Lukáš	Parma	M			24	klempíř	Výškov	99	47	0
-4204	566951	1	1	47	5	Michaela	Šounová	F			23	telefonní operátorka	Výškov	99	47	0
-4204	566951	1	1	47	6	Lukáš	Demeter	M			19	zedník	Výškov	99	47	0
-4204	566951	1	2	901	1	Josef	Chalupný	M			46	soukromě hosp.rolník	Výškov	99	80	0
-4204	566951	1	2	901	2	Marie	Bombalová	F			60	důchodce	Počerady	99	80	0
-4204	566951	1	2	901	3	Vladimír	Ira	M			60	elektromontér	Výškov	99	80	0
-4204	566951	1	2	901	4	František	Ševčík	M			46	podnikatel	Výškov	99	80	0
-4204	566951	1	2	901	5	Petr	Bidovský	M			52	montér-šamotář	Počerady	99	80	0
-4204	566951	1	2	901	6	Jaroslav	Topinka	M			63	důchodce	Výškov	99	80	0
-4204	566951	1	2	901	7	Dáša	Pištínková	F			56	důchodce	Počerady	99	80	0
-4204	566951	1	2	901	8	Jiří	Samuel	M			34	státní zaměstnanec	Výškov	99	80	0
-4204	566951	1	2	901	9	Alexander	Rozsa	M			44	technik	Výškov	99	80	0
-4204	566951	1	3	902	1	Lubomil	Lekeš	M			54	mistr výroby	Výškov	99	80	0
-4204	566951	1	3	902	2	Karel	Valenta	M			41	podnikatel	Výškov	99	80	0
-4204	566951	1	3	902	3	Milan	Patera	M			41	obchodník	Výškov	99	80	0
-4204	566951	1	3	902	4	Lubomír	Musil	M			45	elektrotechnik	Výškov	99	80	0
-4204	566951	1	3	902	5	Jan	Pour	M	ing.		51	podnikatel	Výškov	99	80	0
-4204	566951	1	3	902	6	Vladislav	Musil	M			49	mistr výroby	Výškov	99	80	0
-4204	566951	1	3	902	7	Petr	Donner	M			55	technik	Výškov	99	80	0
-4204	566951	1	3	902	8	Zdeněk	Pihrt	M			48	manažer	Výškov	99	80	0
-4204	566951	1	3	902	9	Jakub	Baláš	M			20	student	Výškov	99	80	0
-4204	566951	1	4	903	1	Martin	Vápeník	M			32	technik	Výškov	99	80	0
-4204	566951	1	4	903	2	Miloš	Müller	M	Ing.		39	podnikatel, soudní znalec	Výškov	99	80	0
-4204	566951	1	4	903	3	Miroslav	Štiller	M			57	důchodce	Počerady	99	80	0
-4204	566951	1	4	903	4	Miloslav	Liška	M			57	obchodní referent	Výškov	99	80	0
-4204	566951	1	4	903	5	František	Korytár	M			32	hasič	Výškov	99	80	0
-4204	566951	1	4	903	6	David	Doležal	M			36	policista	Počerady	99	80	0
-4204	566951	1	4	903	7	Miroslav	Kočka	M			36	obchodní zástupce	Výškov	99	80	0
-4204	566951	1	4	903	8	Miloslav	Fišer	M			60	řidič, skladník	Výškov	99	80	0
-4204	566951	1	4	903	9	Jitka	Gogolová	F			36	uklízečka	Výškov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4204	566951	1	1	47	1	Josef	Zahradník			25	skladník-THP	Výškov	47	47	0	M
+4204	566951	1	2	901	1	Josef	Chalupný			46	soukromě hosp.rolník	Výškov	99	80	0	M
+4204	566951	1	3	902	1	Lubomil	Lekeš			54	mistr výroby	Výškov	99	80	0	M
+4204	566951	1	4	903	1	Martin	Vápeník			32	technik	Výškov	99	80	0	M
+4204	566951	1	1	47	2	Marie	Fidlerová			56	prodavačka	Výškov	99	47	0	F
+4204	566951	1	2	901	2	Marie	Bombalová			60	důchodce	Počerady	99	80	0	F
+4204	566951	1	3	902	2	Karel	Valenta			41	podnikatel	Výškov	99	80	0	M
+4204	566951	1	4	903	2	Miloš	Müller	Ing.		39	podnikatel, soudní znalec	Výškov	99	80	0	M
+4204	566951	1	1	47	3	Josef	Čada			59	řidič	Počerady	99	47	0	M
+4204	566951	1	2	901	3	Vladimír	Ira			60	elektromontér	Výškov	99	80	0	M
+4204	566951	1	3	902	3	Milan	Patera			41	obchodník	Výškov	99	80	0	M
+4204	566951	1	4	903	3	Miroslav	Štiller			57	důchodce	Počerady	99	80	0	M
+4204	566951	1	1	47	4	Lukáš	Parma			24	klempíř	Výškov	99	47	0	M
+4204	566951	1	2	901	4	František	Ševčík			46	podnikatel	Výškov	99	80	0	M
+4204	566951	1	3	902	4	Lubomír	Musil			45	elektrotechnik	Výškov	99	80	0	M
+4204	566951	1	4	903	4	Miloslav	Liška			57	obchodní referent	Výškov	99	80	0	M
+4204	566951	1	1	47	5	Michaela	Šounová			23	telefonní operátorka	Výškov	99	47	0	F
+4204	566951	1	2	901	5	Petr	Bidovský			52	montér-šamotář	Počerady	99	80	0	M
+4204	566951	1	3	902	5	Jan	Pour	ing.		51	podnikatel	Výškov	99	80	0	M
+4204	566951	1	4	903	5	František	Korytár			32	hasič	Výškov	99	80	0	M
+4204	566951	1	1	47	6	Lukáš	Demeter			19	zedník	Výškov	99	47	0	M
+4204	566951	1	2	901	6	Jaroslav	Topinka			63	důchodce	Výškov	99	80	0	M
+4204	566951	1	3	902	6	Vladislav	Musil			49	mistr výroby	Výškov	99	80	0	M
+4204	566951	1	4	903	6	David	Doležal			36	policista	Počerady	99	80	0	M
+4204	566951	1	2	901	7	Dáša	Pištínková			56	důchodce	Počerady	99	80	0	F
+4204	566951	1	3	902	7	Petr	Donner			55	technik	Výškov	99	80	0	M
+4204	566951	1	4	903	7	Miroslav	Kočka			36	obchodní zástupce	Výškov	99	80	0	M
+4204	566951	1	2	901	8	Jiří	Samuel			34	státní zaměstnanec	Výškov	99	80	0	M
+4204	566951	1	3	902	8	Zdeněk	Pihrt			48	manažer	Výškov	99	80	0	M
+4204	566951	1	4	903	8	Miloslav	Fišer			60	řidič, skladník	Výškov	99	80	0	M
+4204	566951	1	2	901	9	Alexander	Rozsa			44	technik	Výškov	99	80	0	M
+4204	566951	1	3	902	9	Jakub	Baláš			20	student	Výškov	99	80	0	M
+4204	566951	1	4	903	9	Jitka	Gogolová			36	uklízečka	Výškov	99	80	0	F

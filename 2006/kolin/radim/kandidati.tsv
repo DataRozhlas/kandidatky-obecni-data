@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2104	533629	1	1	901	1	Jiří	Bitrman	M			54	starosta	Radim	99	80	0
-2104	533629	1	1	901	2	Martin	Sýkora	M			34	státní zaměstnanec	Radim	99	80	0
-2104	533629	1	1	901	3	Karel	Mrázek	M			41	obchodní zástupce	Radim	99	80	0
-2104	533629	1	1	901	4	Petra	Jirková	F	Mgr.		40	ředitelka ZŠ	Radim	99	80	0
-2104	533629	1	1	901	5	Karel	Vaníček	M			42	soukromý podnikatel	Radim	99	80	0
-2104	533629	1	1	901	6	Samuel	Pavlík	M			52	dělník	Radim	99	80	0
-2104	533629	1	1	901	7	Jiří	Koděra	M	Ing.		42	manager	Radim	99	80	0
-2104	533629	1	1	901	8	Jaroslava	Machatová	F			43	vedoucí směny	Radim	99	80	0
-2104	533629	1	1	901	9	Jaroslav	Petrák	M			35	státní zaměstnanec	Radim	99	80	0
-2104	533629	1	2	5	1	Jan	Palas	M			35	živnostník	Radim	99	5	0
-2104	533629	1	2	5	2	František	Šmerha	M			36	živnostník	Radim	99	5	0
-2104	533629	1	2	5	3	Jiří	Fuksa	M			58	dělník	Radim	99	5	0
-2104	533629	1	2	5	4	Lubomír	Peták	M			53	pojišťovací agent	Radim	99	5	0
-2104	533629	1	3	387	1	Jaroslav	Mašín	M			69	nástrojař	Radim	47	47	0
-2104	533629	1	3	387	2	František	Švarc	M			54	technik	Radim	47	47	0
-2104	533629	1	3	387	3	Zdeněk	Novotný	M			55	kalič	Radim	99	47	0
-2104	533629	1	3	387	4	Jana	Tučková	F			42	elektromechanik	Radim	47	47	0
-2104	533629	1	3	387	5	Jiří	Jetenský	M			52	technik	Radim	99	47	0
-2104	533629	1	3	387	6	Miloš	Bedrna	M			53	řidič	Radim	99	80	0
-2104	533629	1	3	387	7	Stanislava	Vyskočilová	F			68	účetní	Radim	47	47	0
-2104	533629	1	3	387	8	Jaroslav	Roub	M			53	nástrojař	Radim	99	47	0
-2104	533629	1	3	387	9	Pavel	Břichnáč	M			42	elektromechanik	Radim	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2104	533629	1	1	901	1	Jiří	Bitrman			54	starosta	Radim	99	80	0	M
+2104	533629	1	2	5	1	Jan	Palas			35	živnostník	Radim	99	5	0	M
+2104	533629	1	3	387	1	Jaroslav	Mašín			69	nástrojař	Radim	47	47	0	M
+2104	533629	1	1	901	2	Martin	Sýkora			34	státní zaměstnanec	Radim	99	80	0	M
+2104	533629	1	2	5	2	František	Šmerha			36	živnostník	Radim	99	5	0	M
+2104	533629	1	3	387	2	František	Švarc			54	technik	Radim	47	47	0	M
+2104	533629	1	1	901	3	Karel	Mrázek			41	obchodní zástupce	Radim	99	80	0	M
+2104	533629	1	2	5	3	Jiří	Fuksa			58	dělník	Radim	99	5	0	M
+2104	533629	1	3	387	3	Zdeněk	Novotný			55	kalič	Radim	99	47	0	M
+2104	533629	1	1	901	4	Petra	Jirková	Mgr.		40	ředitelka ZŠ	Radim	99	80	0	F
+2104	533629	1	2	5	4	Lubomír	Peták			53	pojišťovací agent	Radim	99	5	0	M
+2104	533629	1	3	387	4	Jana	Tučková			42	elektromechanik	Radim	47	47	0	F
+2104	533629	1	1	901	5	Karel	Vaníček			42	soukromý podnikatel	Radim	99	80	0	M
+2104	533629	1	3	387	5	Jiří	Jetenský			52	technik	Radim	99	47	0	M
+2104	533629	1	1	901	6	Samuel	Pavlík			52	dělník	Radim	99	80	0	M
+2104	533629	1	3	387	6	Miloš	Bedrna			53	řidič	Radim	99	80	0	M
+2104	533629	1	1	901	7	Jiří	Koděra	Ing.		42	manager	Radim	99	80	0	M
+2104	533629	1	3	387	7	Stanislava	Vyskočilová			68	účetní	Radim	47	47	0	F
+2104	533629	1	1	901	8	Jaroslava	Machatová			43	vedoucí směny	Radim	99	80	0	F
+2104	533629	1	3	387	8	Jaroslav	Roub			53	nástrojař	Radim	99	47	0	M
+2104	533629	1	1	901	9	Jaroslav	Petrák			35	státní zaměstnanec	Radim	99	80	0	M
+2104	533629	1	3	387	9	Pavel	Břichnáč			42	elektromechanik	Radim	99	47	0	M

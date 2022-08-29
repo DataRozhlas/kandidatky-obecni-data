@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7104	512982	1	1	902	1	Dalibor	Šefčík	M	Ing.		45	podnikatel	Citov	99	80	0
-7104	512982	1	1	902	2	Jaromír	Oščádal	M			55	technik	Citov	99	80	0
-7104	512982	1	1	902	3	Patrik	Kopeček	M			36	podnikatel	Citov	99	80	0
-7104	512982	1	1	902	4	Jitka	Kučerová	F	Ing.		39	manažer informatiky	Citov	99	80	0
-7104	512982	1	1	902	5	Michal	Šneidr	M			31	zámečník	Citov	99	80	0
-7104	512982	1	1	902	6	Pavel	Zachara	M			36	automechanik	Citov	99	80	0
-7104	512982	1	1	902	7	Magda	Štukheilová	F	Mgr.		44	učitelka	Citov	99	80	0
-7104	512982	1	1	902	8	Alena	Zábranská	F			41	zdravotní laborantka	Citov	99	80	0
-7104	512982	1	1	902	9	Marie	Nesvadbová	F			48	prodavačka	Citov	99	80	0
-7104	512982	1	2	1	1	Veronika	Kozlová	F	BcA.		41	ředitelka mateřské školy	Citov	99	1	0
-7104	512982	1	2	1	2	Blanka	Netopilová	F			43	zdravotní sestra	Citov	1	1	0
-7104	512982	1	2	1	3	Vít	Navrátil	M	Bc.		26	provozní technik v les. hosp.	Citov	99	1	0
-7104	512982	1	2	1	4	Bohumil	Vrána	M			55	jednatel společnosti	Citov	99	1	0
-7104	512982	1	2	1	5	Michaela	Přikrylová	F			46	expedient	Citov	99	1	0
-7104	512982	1	2	1	6	Zdeněk	Říha	M	Ing.		48	konzultant pro dotace z EU	Citov	99	1	0
-7104	512982	1	2	1	7	Pavla	Palásková	F			41	dětská sestra	Citov	99	1	0
-7104	512982	1	2	1	8	Jitka	Roubalová	F			23	studentka	Citov	99	1	0
-7104	512982	1	2	1	9	Lukáš	Zaoral	M			22	zámečník	Citov	99	1	0
-7104	512982	1	3	901	1	Jaromír	Otáhal	M			50	starosta	Citov	99	80	0
-7104	512982	1	3	901	2	Anna	Němcová	F	Ing.		40	ekonom	Citov	99	80	0
-7104	512982	1	3	901	3	Petr	Lavrinčík	M			46	podnikatel	Citov	99	80	0
-7104	512982	1	3	901	4	Jaroslav	Medek	M			44	podnikatel	Citov	99	80	0
-7104	512982	1	3	901	5	Josef	Zavadil	M			59	řidič	Citov	99	80	0
-7104	512982	1	3	901	6	Miroslav	Rubáč	M			34	obchodní zástupce	Citov	99	80	0
-7104	512982	1	3	901	7	Jaroslav	Roubal	M			49	strojvedoucí	Citov	99	80	0
-7104	512982	1	3	901	8	Josef	Šlanhof	M			36	podnikatel	Citov	99	80	0
-7104	512982	1	3	901	9	Lenka	Karasová	F		DiS.	32	účetní	Citov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7104	512982	1	1	902	1	Dalibor	Šefčík	Ing.		45	podnikatel	Citov	99	80	0	M
+7104	512982	1	2	1	1	Veronika	Kozlová	BcA.		41	ředitelka mateřské školy	Citov	99	1	0	F
+7104	512982	1	3	901	1	Jaromír	Otáhal			50	starosta	Citov	99	80	0	M
+7104	512982	1	1	902	2	Jaromír	Oščádal			55	technik	Citov	99	80	0	M
+7104	512982	1	2	1	2	Blanka	Netopilová			43	zdravotní sestra	Citov	1	1	0	F
+7104	512982	1	3	901	2	Anna	Němcová	Ing.		40	ekonom	Citov	99	80	0	F
+7104	512982	1	1	902	3	Patrik	Kopeček			36	podnikatel	Citov	99	80	0	M
+7104	512982	1	2	1	3	Vít	Navrátil	Bc.		26	provozní technik v les. hosp.	Citov	99	1	0	M
+7104	512982	1	3	901	3	Petr	Lavrinčík			46	podnikatel	Citov	99	80	0	M
+7104	512982	1	1	902	4	Jitka	Kučerová	Ing.		39	manažer informatiky	Citov	99	80	0	F
+7104	512982	1	2	1	4	Bohumil	Vrána			55	jednatel společnosti	Citov	99	1	0	M
+7104	512982	1	3	901	4	Jaroslav	Medek			44	podnikatel	Citov	99	80	0	M
+7104	512982	1	1	902	5	Michal	Šneidr			31	zámečník	Citov	99	80	0	M
+7104	512982	1	2	1	5	Michaela	Přikrylová			46	expedient	Citov	99	1	0	F
+7104	512982	1	3	901	5	Josef	Zavadil			59	řidič	Citov	99	80	0	M
+7104	512982	1	1	902	6	Pavel	Zachara			36	automechanik	Citov	99	80	0	M
+7104	512982	1	2	1	6	Zdeněk	Říha	Ing.		48	konzultant pro dotace z EU	Citov	99	1	0	M
+7104	512982	1	3	901	6	Miroslav	Rubáč			34	obchodní zástupce	Citov	99	80	0	M
+7104	512982	1	1	902	7	Magda	Štukheilová	Mgr.		44	učitelka	Citov	99	80	0	F
+7104	512982	1	2	1	7	Pavla	Palásková			41	dětská sestra	Citov	99	1	0	F
+7104	512982	1	3	901	7	Jaroslav	Roubal			49	strojvedoucí	Citov	99	80	0	M
+7104	512982	1	1	902	8	Alena	Zábranská			41	zdravotní laborantka	Citov	99	80	0	F
+7104	512982	1	2	1	8	Jitka	Roubalová			23	studentka	Citov	99	1	0	F
+7104	512982	1	3	901	8	Josef	Šlanhof			36	podnikatel	Citov	99	80	0	M
+7104	512982	1	1	902	9	Marie	Nesvadbová			48	prodavačka	Citov	99	80	0	F
+7104	512982	1	2	1	9	Lukáš	Zaoral			22	zámečník	Citov	99	1	0	M
+7104	512982	1	3	901	9	Lenka	Karasová		DiS.	32	účetní	Citov	99	80	0	F

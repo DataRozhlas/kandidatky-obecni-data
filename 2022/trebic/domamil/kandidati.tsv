@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6104	590568	1	1	902	1	Petra	Ferdanová	F	Mgr.		45	učitelka	Domamil	99	80	A
-6104	590568	1	1	902	2	Monika	Hanusová	F			36	OSVČ	Domamil	99	80	A
-6104	590568	1	1	902	3	Karla	Roušalová	F			30	asistentka pedagoga	Domamil	99	80	A
-6104	590568	1	1	902	4	Gabriela	Střeláková	F			77	spisovatelka	Domamil	99	80	A
-6104	590568	1	1	902	5	Leoš	Kopec	M	Ing.		58	bezpečnostní manager	Domamil	99	80	A
-6104	590568	1	1	902	6	Luboš	Roušal	M			31	mistr výroby	Domamil	99	80	A
-6104	590568	1	1	902	7	Aneta	Dvořáková	F			36	vychovatelka	Domamil	99	80	A
-6104	590568	1	1	902	8	Marie	Svobodová	F			45	asistentka pedagoga	Domamil	99	80	A
-6104	590568	1	2	901	1	Lukáš	Kisela	M			40	project manager	Domamil	99	80	A
-6104	590568	1	2	901	2	Pavel	Polenda	M			34	servisní mechanik	Domamil	99	80	A
-6104	590568	1	2	901	3	Marie	Šabatková	F			57	dělnice	Domamil	99	80	A
-6104	590568	1	2	901	4	Tomáš	Soukup	M			27	vedoucí týmu ANG	Domamil	99	80	A
-6104	590568	1	2	901	5	Otto	Mareček	M			70	důchodce	Domamil	99	80	A
-6104	590568	1	2	901	6	Václav	Špinka	M			70	důchodce	Domamil	99	80	A
-6104	590568	1	2	901	7	Jan	Růžička	M			28	provozní elektrikář	Domamil	99	80	A
-6104	590568	1	2	901	8	Petr	Jurka	M			53	řidič	Domamil	99	80	A
-6104	590568	1	2	901	9	Pavel	Sláma	M			46	OSVČ	Domamil	99	80	A
-6104	590568	1	3	1	1	Oldřich	Břinek	M			67	důchodce	Domamil	1	1	A
-6104	590568	1	3	1	2	Radka	Veselá	F			34	fakturantka	Domamil	99	1	A
-6104	590568	1	3	1	3	Ondřej	Klimeš	M			28	ošetřovatel zvířat	Domamil	99	1	A
-6104	590568	1	3	1	4	Zdenka	Slámová	F			72	důchodkyně	Domamil	99	1	A
-6104	590568	1	3	1	5	Milan	Bláha	M			39	ošetřovatel zvířat	Domamil	99	1	A
-6104	590568	1	3	1	6	Jiří	Schlanger	M			71	OSVČ poradenství	Domamil	99	1	A
-6104	590568	1	3	1	7	Markéta	Bauerová	F			46	ošetřovatelka zvířat	Domamil	99	1	A
-6104	590568	1	3	1	8	Zbyněk	Burian	M			49	OSVČ	Domamil	99	1	A
-6104	590568	1	3	1	9	František	Břinek	M			61	tesař	Domamil	99	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6104	590568	1	1	902	1	Petra	Ferdanová	Mgr.		45	učitelka	Domamil	99	80	A	F
+6104	590568	1	2	901	1	Lukáš	Kisela			40	project manager	Domamil	99	80	A	M
+6104	590568	1	3	1	1	Oldřich	Břinek			67	důchodce	Domamil	1	1	A	M
+6104	590568	1	1	902	2	Monika	Hanusová			36	OSVČ	Domamil	99	80	A	F
+6104	590568	1	2	901	2	Pavel	Polenda			34	servisní mechanik	Domamil	99	80	A	M
+6104	590568	1	3	1	2	Radka	Veselá			34	fakturantka	Domamil	99	1	A	F
+6104	590568	1	1	902	3	Karla	Roušalová			30	asistentka pedagoga	Domamil	99	80	A	F
+6104	590568	1	2	901	3	Marie	Šabatková			57	dělnice	Domamil	99	80	A	F
+6104	590568	1	3	1	3	Ondřej	Klimeš			28	ošetřovatel zvířat	Domamil	99	1	A	M
+6104	590568	1	1	902	4	Gabriela	Střeláková			77	spisovatelka	Domamil	99	80	A	F
+6104	590568	1	2	901	4	Tomáš	Soukup			27	vedoucí týmu ANG	Domamil	99	80	A	M
+6104	590568	1	3	1	4	Zdenka	Slámová			72	důchodkyně	Domamil	99	1	A	F
+6104	590568	1	1	902	5	Leoš	Kopec	Ing.		58	bezpečnostní manager	Domamil	99	80	A	M
+6104	590568	1	2	901	5	Otto	Mareček			70	důchodce	Domamil	99	80	A	M
+6104	590568	1	3	1	5	Milan	Bláha			39	ošetřovatel zvířat	Domamil	99	1	A	M
+6104	590568	1	1	902	6	Luboš	Roušal			31	mistr výroby	Domamil	99	80	A	M
+6104	590568	1	2	901	6	Václav	Špinka			70	důchodce	Domamil	99	80	A	M
+6104	590568	1	3	1	6	Jiří	Schlanger			71	OSVČ poradenství	Domamil	99	1	A	M
+6104	590568	1	1	902	7	Aneta	Dvořáková			36	vychovatelka	Domamil	99	80	A	F
+6104	590568	1	2	901	7	Jan	Růžička			28	provozní elektrikář	Domamil	99	80	A	M
+6104	590568	1	3	1	7	Markéta	Bauerová			46	ošetřovatelka zvířat	Domamil	99	1	A	F
+6104	590568	1	1	902	8	Marie	Svobodová			45	asistentka pedagoga	Domamil	99	80	A	F
+6104	590568	1	2	901	8	Petr	Jurka			53	řidič	Domamil	99	80	A	M
+6104	590568	1	3	1	8	Zbyněk	Burian			49	OSVČ	Domamil	99	1	A	M
+6104	590568	1	2	901	9	Pavel	Sláma			46	OSVČ	Domamil	99	80	A	M
+6104	590568	1	3	1	9	František	Břinek			61	tesař	Domamil	99	1	A	M

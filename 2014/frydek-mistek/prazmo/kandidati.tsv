@@ -1,39 +1,39 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8102	568813	1	1	1	1	Jindřich	Vymětalík	M	Ing.		56	finanční poradce	Pražmo	99	1	0
-8102	568813	1	1	1	2	Břetislav	Zbořil	M			59	elektrikář	Pražmo	99	1	0
-8102	568813	1	1	1	3	Karel	Fišer	M			52	elektromechanik	Pražmo	99	1	0
-8102	568813	1	1	1	4	Monika	Čajková	F		DiS.	43	finanční poradce	Pražmo	99	1	0
-8102	568813	1	1	1	5	Jana	Drastichová	F			38	konstruktérka	Pražmo	99	1	0
-8102	568813	1	1	1	6	Stanislav	Popelka	M			39	technik	Pražmo	99	1	0
-8102	568813	1	1	1	7	Josef	Uher	M			52	zámečník	Pražmo	99	1	0
-8102	568813	1	1	1	8	Jiřina	Šigutová	F			66	důchodkyně	Pražmo	1	1	0
-8102	568813	1	1	1	9	Antonín	Žižka	M			71	důchodce	Pražmo	99	1	0
-8102	568813	1	2	901	1	Michaela	Honešová	F	Mgr.		42	učitelka na střední škole	Pražmo	99	80	0
-8102	568813	1	2	901	2	Petr	Jerglík	M			43	mechanik lesní a zahradní techniky	Pražmo	99	80	0
-8102	568813	1	2	901	3	Kristýna	Felcmanová	F	Mgr.		31	učitelka na základní škole	Pražmo	99	80	0
-8102	568813	1	2	901	4	Bohuslav	Brantal	M			46	živnostník	Pražmo	99	80	0
-8102	568813	1	2	901	5	Lukáš	Najdek	M			25	technik - požární bezpečnost	Pražmo	99	80	0
-8102	568813	1	2	901	6	Radek	Blahuta	M			38	elektrikář	Pražmo	99	80	0
-8102	568813	1	2	901	7	Jaromír	Panáč	M			48	hutník	Pražmo	99	80	0
-8102	568813	1	2	901	8	Lucie	Žilinská	F			27	kadeřnice	Pražmo	99	80	0
-8102	568813	1	2	901	9	Martin	Žilinský	M			26	elektrikář	Pražmo	99	80	0
-8102	568813	1	3	7	1	Jan	Pýcha	M	Ing.	MBA	55	manager	Pražmo	7	7	0
-8102	568813	1	3	7	2	Petr	Honeš	M	Ing.		46	státní zaměstnanec	Pražmo	99	7	0
-8102	568813	1	3	7	3	Zdeněk	Skotnica	M			54	operátor výrobní linky	Pražmo	99	7	0
-8102	568813	1	3	7	4	Jan	Krejčí	M	Ing.		26	ekonom	Pražmo	99	7	0
-8102	568813	1	3	7	5	Miroslav	Kotásek	M			51	zámečník	Pražmo	99	7	0
-8102	568813	1	3	7	6	Pavel	Foldyna	M			40	OSVČ	Pražmo	99	7	0
-8102	568813	1	3	7	7	Jarmila	Žižková	F			44	vedoucí školní jídelny	Pražmo	99	7	0
-8102	568813	1	3	7	8	Tomáš	Pýcha	M	Bc.		27	státní zaměstnanec	Pražmo	99	7	0
-8102	568813	1	4	47	1	Bartoloměj	Dorda	M			64	důchodce	Pražmo	47	47	0
-8102	568813	1	4	47	2	Otomar	Král	M	Ing.		60	technický pracovník	Pražmo	99	47	0
-8102	568813	1	4	47	3	Hana	Frydrychová	F			64	péče o osobu blízkou	Pražmo	99	47	0
-8102	568813	1	5	902	1	Marek	Kaniok	M		DiS.	37	starosta obce	Pražmo	99	80	0
-8102	568813	1	5	902	2	Otakar	Ošťádál	M			34	stolař	Pražmo	99	80	0
-8102	568813	1	5	902	3	Olga	Muroňová	F			60	důchodce	Pražmo	99	80	0
-8102	568813	1	5	902	4	Martin	Kaňa	M			43	vedoucí pracovník	Pražmo	99	80	0
-8102	568813	1	5	902	5	Martin	Platoš	M			50	operátor	Pražmo	99	80	0
-8102	568813	1	5	902	6	Jarmila	Vroblová	F			43	nezaměstnaná	Pražmo	99	80	0
-8102	568813	1	5	902	7	Markéta	Benová	F			25	servírka	Pražmo	99	80	0
-8102	568813	1	5	902	8	David	Foldyna	M			32	programátor	Pražmo	99	80	0
-8102	568813	1	5	902	9	Petr	Pavlas	M			40	živnostník	Pražmo	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8102	568813	1	1	1	1	Jindřich	Vymětalík	Ing.		56	finanční poradce	Pražmo	99	1	0	M
+8102	568813	1	2	901	1	Michaela	Honešová	Mgr.		42	učitelka na střední škole	Pražmo	99	80	0	F
+8102	568813	1	3	7	1	Jan	Pýcha	Ing.	MBA	55	manager	Pražmo	7	7	0	M
+8102	568813	1	4	47	1	Bartoloměj	Dorda			64	důchodce	Pražmo	47	47	0	M
+8102	568813	1	5	902	1	Marek	Kaniok		DiS.	37	starosta obce	Pražmo	99	80	0	M
+8102	568813	1	1	1	2	Břetislav	Zbořil			59	elektrikář	Pražmo	99	1	0	M
+8102	568813	1	2	901	2	Petr	Jerglík			43	mechanik lesní a zahradní techniky	Pražmo	99	80	0	M
+8102	568813	1	3	7	2	Petr	Honeš	Ing.		46	státní zaměstnanec	Pražmo	99	7	0	M
+8102	568813	1	4	47	2	Otomar	Král	Ing.		60	technický pracovník	Pražmo	99	47	0	M
+8102	568813	1	5	902	2	Otakar	Ošťádál			34	stolař	Pražmo	99	80	0	M
+8102	568813	1	1	1	3	Karel	Fišer			52	elektromechanik	Pražmo	99	1	0	M
+8102	568813	1	2	901	3	Kristýna	Felcmanová	Mgr.		31	učitelka na základní škole	Pražmo	99	80	0	F
+8102	568813	1	3	7	3	Zdeněk	Skotnica			54	operátor výrobní linky	Pražmo	99	7	0	M
+8102	568813	1	4	47	3	Hana	Frydrychová			64	péče o osobu blízkou	Pražmo	99	47	0	F
+8102	568813	1	5	902	3	Olga	Muroňová			60	důchodce	Pražmo	99	80	0	F
+8102	568813	1	1	1	4	Monika	Čajková		DiS.	43	finanční poradce	Pražmo	99	1	0	F
+8102	568813	1	2	901	4	Bohuslav	Brantal			46	živnostník	Pražmo	99	80	0	M
+8102	568813	1	3	7	4	Jan	Krejčí	Ing.		26	ekonom	Pražmo	99	7	0	M
+8102	568813	1	5	902	4	Martin	Kaňa			43	vedoucí pracovník	Pražmo	99	80	0	M
+8102	568813	1	1	1	5	Jana	Drastichová			38	konstruktérka	Pražmo	99	1	0	F
+8102	568813	1	2	901	5	Lukáš	Najdek			25	technik - požární bezpečnost	Pražmo	99	80	0	M
+8102	568813	1	3	7	5	Miroslav	Kotásek			51	zámečník	Pražmo	99	7	0	M
+8102	568813	1	5	902	5	Martin	Platoš			50	operátor	Pražmo	99	80	0	M
+8102	568813	1	1	1	6	Stanislav	Popelka			39	technik	Pražmo	99	1	0	M
+8102	568813	1	2	901	6	Radek	Blahuta			38	elektrikář	Pražmo	99	80	0	M
+8102	568813	1	3	7	6	Pavel	Foldyna			40	OSVČ	Pražmo	99	7	0	M
+8102	568813	1	5	902	6	Jarmila	Vroblová			43	nezaměstnaná	Pražmo	99	80	0	F
+8102	568813	1	1	1	7	Josef	Uher			52	zámečník	Pražmo	99	1	0	M
+8102	568813	1	2	901	7	Jaromír	Panáč			48	hutník	Pražmo	99	80	0	M
+8102	568813	1	3	7	7	Jarmila	Žižková			44	vedoucí školní jídelny	Pražmo	99	7	0	F
+8102	568813	1	5	902	7	Markéta	Benová			25	servírka	Pražmo	99	80	0	F
+8102	568813	1	1	1	8	Jiřina	Šigutová			66	důchodkyně	Pražmo	1	1	0	F
+8102	568813	1	2	901	8	Lucie	Žilinská			27	kadeřnice	Pražmo	99	80	0	F
+8102	568813	1	3	7	8	Tomáš	Pýcha	Bc.		27	státní zaměstnanec	Pražmo	99	7	0	M
+8102	568813	1	5	902	8	David	Foldyna			32	programátor	Pražmo	99	80	0	M
+8102	568813	1	1	1	9	Antonín	Žižka			71	důchodce	Pražmo	99	1	0	M
+8102	568813	1	2	901	9	Martin	Žilinský			26	elektrikář	Pražmo	99	80	0	M
+8102	568813	1	5	902	9	Petr	Pavlas			40	živnostník	Pražmo	99	80	0	M

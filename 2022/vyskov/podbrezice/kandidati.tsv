@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	550795	1	1	901	1	Milan	Julínek	M			42	technik BPS	Podbřežice	99	80	A
-6206	550795	1	1	901	2	Matěj	Reich	M			31	kuchař	Podbřežice	99	80	A
-6206	550795	1	1	901	3	Helena	Chládková	F			56	účetní	Podbřežice	1245	80	A
-6206	550795	1	1	901	4	Vladimír	Stupka	M			45	řidič	Podbřežice	99	80	A
-6206	550795	1	1	901	5	Drahomíra	Reitmannová	F			53	prodavačka	Podbřežice	99	80	A
-6206	550795	1	1	901	6	Marie	Richterová	F	Ing.		63	důchodce	Podbřežice	99	80	A
-6206	550795	1	2	902	1	Radovan	Brtník	M	Mgr.		35	starosta obce, vedoucí pracovník	Podbřežice	99	80	A
-6206	550795	1	2	902	2	Aleš	Trávník	M			46	THP pracovník	Podbřežice	99	80	A
-6206	550795	1	2	902	3	Andrea	Wolfová	F	Mgr. et Mgr.	DiS.	34	pedagogický pracovník, kronikářka	Podbřežice	99	80	A
-6206	550795	1	2	902	4	Pavla	Grénová	F			34	všeobecná sestra	Podbřežice	99	80	A
-6206	550795	1	2	902	5	Michal	Zouhar	M			46	řidič, strojník	Podbřežice	99	80	A
-6206	550795	1	2	902	6	Renáta	Fajmanová	F			53	technická pracovnice obce	Podbřežice	99	80	A
-6206	550795	1	2	902	7	Vojtěch	Jílek	M			41	instalatér, topenář	Podbřežice	99	80	A
-6206	550795	1	2	902	8	Eva	Šenkyříková	F			40	OSVČ	Podbřežice	99	80	A
-6206	550795	1	2	902	9	Lukáš	Brtník	M			32	vedoucí pracovník	Podbřežice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	550795	1	1	901	1	Milan	Julínek			42	technik BPS	Podbřežice	99	80	A	M
+6206	550795	1	2	902	1	Radovan	Brtník	Mgr.		35	starosta obce, vedoucí pracovník	Podbřežice	99	80	A	M
+6206	550795	1	1	901	2	Matěj	Reich			31	kuchař	Podbřežice	99	80	A	M
+6206	550795	1	2	902	2	Aleš	Trávník			46	THP pracovník	Podbřežice	99	80	A	M
+6206	550795	1	1	901	3	Helena	Chládková			56	účetní	Podbřežice	1245	80	A	F
+6206	550795	1	2	902	3	Andrea	Wolfová	Mgr. et Mgr.	DiS.	34	pedagogický pracovník, kronikářka	Podbřežice	99	80	A	F
+6206	550795	1	1	901	4	Vladimír	Stupka			45	řidič	Podbřežice	99	80	A	M
+6206	550795	1	2	902	4	Pavla	Grénová			34	všeobecná sestra	Podbřežice	99	80	A	F
+6206	550795	1	1	901	5	Drahomíra	Reitmannová			53	prodavačka	Podbřežice	99	80	A	F
+6206	550795	1	2	902	5	Michal	Zouhar			46	řidič, strojník	Podbřežice	99	80	A	M
+6206	550795	1	1	901	6	Marie	Richterová	Ing.		63	důchodce	Podbřežice	99	80	A	F
+6206	550795	1	2	902	6	Renáta	Fajmanová			53	technická pracovnice obce	Podbřežice	99	80	A	F
+6206	550795	1	2	902	7	Vojtěch	Jílek			41	instalatér, topenář	Podbřežice	99	80	A	M
+6206	550795	1	2	902	8	Eva	Šenkyříková			40	OSVČ	Podbřežice	99	80	A	F
+6206	550795	1	2	902	9	Lukáš	Brtník			32	vedoucí pracovník	Podbřežice	99	80	A	M

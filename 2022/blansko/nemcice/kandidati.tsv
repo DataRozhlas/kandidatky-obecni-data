@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	582085	1	1	387	1	Josef	Dvořáček	M			35	kooperátor výroby	Němčice	99	80	A
-6201	582085	1	1	387	2	Pavel	Krátký	M			51	stavební dělník	Němčice	99	80	A
-6201	582085	1	1	387	3	Antonín	Fidler	M	Mgr.		68	učitel	Němčice	47	47	A
-6201	582085	1	1	387	4	Josef	Štoudek	M			70	senior	Němčice	47	47	A
-6201	582085	1	1	387	5	Vítězslav	Fidler	M			31	seřizovač CNC strojů	Němčice	99	80	A
-6201	582085	1	1	387	6	Miroslav	Novotný	M			71	senior	Němčice	47	47	A
-6201	582085	1	1	387	7	Zdeněk	Prokop	M			62	dělník	Němčice	47	47	A
-6201	582085	1	2	901	1	Lukáš	Šebela	M	Ing.		38	inspektor	Němčice	99	80	A
-6201	582085	1	2	901	2	Šárka	Marková	F	Ing.		40	obchodní referent	Němčice	99	80	A
-6201	582085	1	2	901	3	Petr	Přikryl	M	Mgr.		34	designer	Němčice	99	80	A
-6201	582085	1	2	901	4	Roman	Klíč	M	Bc.		35	operátor laseru	Němčice	99	80	A
-6201	582085	1	2	901	5	Eliška	Prokopová	F	Mgr.		30	rodičovská dovolená	Němčice	1	80	A
-6201	582085	1	2	901	6	Marie	Skotáková	F			59	účetní	Němčice	1	80	A
-6201	582085	1	2	901	7	Tomáš	Grulich	M			35	zaměstnanec obce	Němčice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	582085	1	1	387	1	Josef	Dvořáček			35	kooperátor výroby	Němčice	99	80	A	M
+6201	582085	1	2	901	1	Lukáš	Šebela	Ing.		38	inspektor	Němčice	99	80	A	M
+6201	582085	1	1	387	2	Pavel	Krátký			51	stavební dělník	Němčice	99	80	A	M
+6201	582085	1	2	901	2	Šárka	Marková	Ing.		40	obchodní referent	Němčice	99	80	A	F
+6201	582085	1	1	387	3	Antonín	Fidler	Mgr.		68	učitel	Němčice	47	47	A	M
+6201	582085	1	2	901	3	Petr	Přikryl	Mgr.		34	designer	Němčice	99	80	A	M
+6201	582085	1	1	387	4	Josef	Štoudek			70	senior	Němčice	47	47	A	M
+6201	582085	1	2	901	4	Roman	Klíč	Bc.		35	operátor laseru	Němčice	99	80	A	M
+6201	582085	1	1	387	5	Vítězslav	Fidler			31	seřizovač CNC strojů	Němčice	99	80	A	M
+6201	582085	1	2	901	5	Eliška	Prokopová	Mgr.		30	rodičovská dovolená	Němčice	1	80	A	F
+6201	582085	1	1	387	6	Miroslav	Novotný			71	senior	Němčice	47	47	A	M
+6201	582085	1	2	901	6	Marie	Skotáková			59	účetní	Němčice	1	80	A	F
+6201	582085	1	1	387	7	Zdeněk	Prokop			62	dělník	Němčice	47	47	A	M
+6201	582085	1	2	901	7	Tomáš	Grulich			35	zaměstnanec obce	Němčice	99	80	A	M

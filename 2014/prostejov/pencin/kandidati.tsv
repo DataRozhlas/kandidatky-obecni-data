@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589870	1	1	901	1	Ladislav	Popelář	M			45	dřevomodelář	Pěnčín	99	80	0
-7103	589870	1	1	901	2	Martin	Bartoš	M			26	strojní technik	Pěnčín	99	80	0
-7103	589870	1	1	901	3	Viktor	Kopečný	M			46	zemědělský pracovník	Pěnčín	99	80	0
-7103	589870	1	1	901	4	Jiří	Jašek	M			46	strojní mechanik	Pěnčín	99	80	0
-7103	589870	1	1	901	5	Jaroslav	Soukup	M			50	elektrotechnik	Pěnčín	99	80	0
-7103	589870	1	1	901	6	Radek	Fojtek	M			27	voják	Pěnčín	99	80	0
-7103	589870	1	1	901	7	Rostislav	Bartoněk	M			45	strojní zámečník	Pěnčín	99	80	0
-7103	589870	1	1	901	8	Pavel	Pospíšil	M		DiS.	29	projektant	Pěnčín	99	80	0
-7103	589870	1	1	901	9	Hana	Zbořilová	F			46	prodavačka	Pěnčín	99	80	0
-7103	589870	1	2	1	1	Petr	Řezníček	M			50	servisní technik	Pěnčín	99	1	0
-7103	589870	1	2	1	2	Pavel	Tichý	M			39	automechanik	Pěnčín	99	1	0
-7103	589870	1	2	1	3	Petr	Tichý	M	Ing. Mgr.		45	vedoucí výroby	Pěnčín	1	1	0
-7103	589870	1	2	1	4	Pavel	Urban	M	Ing.		36	KEY ACCOUNT MANAGER	Pěnčín	99	1	0
-7103	589870	1	2	1	5	Petr	Sláma	M	Ing.		38	konstruktér	Pěnčín	99	1	0
-7103	589870	1	2	1	6	Jaroslav	Vašek	M			29	operátor CNC strojů	Pěnčín	99	1	0
-7103	589870	1	2	1	7	František	Štafa	M			52	zámečník	Pěnčín	1	1	0
-7103	589870	1	2	1	8	Slavomír	Konečný	M			39	pracovník v potravinářském průmyslu	Pěnčín	99	1	0
-7103	589870	1	2	1	9	Petr	Řezníček	M			25	řidič	Pěnčín	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589870	1	1	901	1	Ladislav	Popelář			45	dřevomodelář	Pěnčín	99	80	0	M
+7103	589870	1	2	1	1	Petr	Řezníček			50	servisní technik	Pěnčín	99	1	0	M
+7103	589870	1	1	901	2	Martin	Bartoš			26	strojní technik	Pěnčín	99	80	0	M
+7103	589870	1	2	1	2	Pavel	Tichý			39	automechanik	Pěnčín	99	1	0	M
+7103	589870	1	1	901	3	Viktor	Kopečný			46	zemědělský pracovník	Pěnčín	99	80	0	M
+7103	589870	1	2	1	3	Petr	Tichý	Ing. Mgr.		45	vedoucí výroby	Pěnčín	1	1	0	M
+7103	589870	1	1	901	4	Jiří	Jašek			46	strojní mechanik	Pěnčín	99	80	0	M
+7103	589870	1	2	1	4	Pavel	Urban	Ing.		36	KEY ACCOUNT MANAGER	Pěnčín	99	1	0	M
+7103	589870	1	1	901	5	Jaroslav	Soukup			50	elektrotechnik	Pěnčín	99	80	0	M
+7103	589870	1	2	1	5	Petr	Sláma	Ing.		38	konstruktér	Pěnčín	99	1	0	M
+7103	589870	1	1	901	6	Radek	Fojtek			27	voják	Pěnčín	99	80	0	M
+7103	589870	1	2	1	6	Jaroslav	Vašek			29	operátor CNC strojů	Pěnčín	99	1	0	M
+7103	589870	1	1	901	7	Rostislav	Bartoněk			45	strojní zámečník	Pěnčín	99	80	0	M
+7103	589870	1	2	1	7	František	Štafa			52	zámečník	Pěnčín	1	1	0	M
+7103	589870	1	1	901	8	Pavel	Pospíšil		DiS.	29	projektant	Pěnčín	99	80	0	M
+7103	589870	1	2	1	8	Slavomír	Konečný			39	pracovník v potravinářském průmyslu	Pěnčín	99	1	0	M
+7103	589870	1	1	901	9	Hana	Zbořilová			46	prodavačka	Pěnčín	99	80	0	F
+7103	589870	1	2	1	9	Petr	Řezníček			25	řidič	Pěnčín	99	1	0	M

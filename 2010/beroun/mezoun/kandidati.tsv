@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2102	531537	1	1	904	1	Josef	Mezulián	M			50	živnostník	Mezouň	99	80	0
-2102	531537	1	1	904	2	Karel	Valtr	M			61	řidič	Mezouň	99	80	0
-2102	531537	1	1	904	3	Pavel	Zykán	M			35	řidič	Mezouň	99	80	0
-2102	531537	1	2	53	1	Miroslav	Hrubý	M	Ing.		65	důchodce	Mezouň	99	53	0
-2102	531537	1	2	53	2	Zdeňka	Kubásková	F			60	důchodce	Mezouň	99	53	0
-2102	531537	1	2	53	3	Ivan	Ouřadník	M			49	podnikatel	Mezouň	99	53	0
-2102	531537	1	2	53	4	Miroslav	Vojta	M			32	řidič	Mezouň	99	53	0
-2102	531537	1	2	53	5	Josef	Kopáček	M			60	zemědělec	Mezouň	99	53	0
-2102	531537	1	2	53	6	Václav	Hrubý	M	Ing.	CSc.	63	odborný pracovník	Mezouň	53	53	0
-2102	531537	1	2	53	7	Veronika	McMahon	F			30	výtvarnice	Mezouň	99	53	0
-2102	531537	1	3	903	1	Libor	Valenta	M			54	podnikatel	Mezouň	99	80	0
-2102	531537	1	3	903	2	Richard	Majer	M			49	mechanik stavebních strojů	Mezouň	99	80	0
-2102	531537	1	3	903	3	Zdeněk	Krška	M			53	podnikatel	Mezouň	99	80	0
-2102	531537	1	4	901	1	František	Kopta	M			60	provozní elektromontér	Mezouň	99	80	0
-2102	531537	1	4	901	2	Jan	Štětka	M			36	revizní technik	Mezouň	99	80	0
-2102	531537	1	4	901	3	Radek	Novotný	M			39	zedník	Mezouň	99	80	0
-2102	531537	1	5	902	1	Hana	Kailová	F			44	dětská sestra	Mezouň	99	80	0
-2102	531537	1	5	902	2	Miroslava	Pilařová	F			43	učitelka MŠ	Mezouň	99	80	0
-2102	531537	1	5	902	3	Alena	Bartáková	F			50	vedoucí kuchařka	Mezouň	99	80	0
-2102	531537	1	5	902	4	Hana	Braunová	F			54	technik	Mezouň	99	80	0
-2102	531537	1	5	902	5	Kristýna	Veselá	F		DiS.	24	bankovní úřednice	Mezouň	99	80	0
-2102	531537	1	6	803	1	Daniel	Franke	M	Ing.		27	technický a výzkumný pracovník	Mezouň	99	80	0
-2102	531537	1	7	905	1	Jan	Škeřík	M	Mgr.		39	advokát	Mezouň	99	80	0
-2102	531537	1	7	905	2	Martin	Kokrda	M			39	živnostník	Mezouň	99	80	0
-2102	531537	1	7	905	3	Peter	Škoda	M	Ing.		40	manažer	Mezouň	99	80	0
-2102	531537	1	7	905	4	Jiří	Hrdlička	M			39	živnostník	Mezouň	99	80	0
-2102	531537	1	7	905	5	František	Chaloupka	M	Doc. MUDr.	CSc.	66	lékař	Mezouň	99	80	0
-2102	531537	1	7	905	6	Milan	Mrtýnek	M			41	ředitel	Mezouň	99	80	0
-2102	531537	1	7	905	7	Olga	Melzochová	F	Ing.		54	živnostník	Mezouň	99	80	0
-2102	531537	1	7	905	8	Blanka	Ondrascheková	F	Ing.		46	ředitelka	Mezouň	99	80	0
-2102	531537	1	7	905	9	Michal	Vorlíček	M			36	živnostník	Mezouň	99	80	0
-2102	531537	1	8	801	1	Karel	Jelínek	M			52	mechanizátor	Mezouň	99	80	0
-2102	531537	1	9	802	1	Vladimír	Holovský	M			48	živnostník	Mezouň	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2102	531537	1	1	904	1	Josef	Mezulián			50	živnostník	Mezouň	99	80	0	M
+2102	531537	1	2	53	1	Miroslav	Hrubý	Ing.		65	důchodce	Mezouň	99	53	0	M
+2102	531537	1	3	903	1	Libor	Valenta			54	podnikatel	Mezouň	99	80	0	M
+2102	531537	1	4	901	1	František	Kopta			60	provozní elektromontér	Mezouň	99	80	0	M
+2102	531537	1	5	902	1	Hana	Kailová			44	dětská sestra	Mezouň	99	80	0	F
+2102	531537	1	6	803	1	Daniel	Franke	Ing.		27	technický a výzkumný pracovník	Mezouň	99	80	0	M
+2102	531537	1	7	905	1	Jan	Škeřík	Mgr.		39	advokát	Mezouň	99	80	0	M
+2102	531537	1	8	801	1	Karel	Jelínek			52	mechanizátor	Mezouň	99	80	0	M
+2102	531537	1	9	802	1	Vladimír	Holovský			48	živnostník	Mezouň	99	80	0	M
+2102	531537	1	1	904	2	Karel	Valtr			61	řidič	Mezouň	99	80	0	M
+2102	531537	1	2	53	2	Zdeňka	Kubásková			60	důchodce	Mezouň	99	53	0	F
+2102	531537	1	3	903	2	Richard	Majer			49	mechanik stavebních strojů	Mezouň	99	80	0	M
+2102	531537	1	4	901	2	Jan	Štětka			36	revizní technik	Mezouň	99	80	0	M
+2102	531537	1	5	902	2	Miroslava	Pilařová			43	učitelka MŠ	Mezouň	99	80	0	F
+2102	531537	1	7	905	2	Martin	Kokrda			39	živnostník	Mezouň	99	80	0	M
+2102	531537	1	1	904	3	Pavel	Zykán			35	řidič	Mezouň	99	80	0	M
+2102	531537	1	2	53	3	Ivan	Ouřadník			49	podnikatel	Mezouň	99	53	0	M
+2102	531537	1	3	903	3	Zdeněk	Krška			53	podnikatel	Mezouň	99	80	0	M
+2102	531537	1	4	901	3	Radek	Novotný			39	zedník	Mezouň	99	80	0	M
+2102	531537	1	5	902	3	Alena	Bartáková			50	vedoucí kuchařka	Mezouň	99	80	0	F
+2102	531537	1	7	905	3	Peter	Škoda	Ing.		40	manažer	Mezouň	99	80	0	M
+2102	531537	1	2	53	4	Miroslav	Vojta			32	řidič	Mezouň	99	53	0	M
+2102	531537	1	5	902	4	Hana	Braunová			54	technik	Mezouň	99	80	0	F
+2102	531537	1	7	905	4	Jiří	Hrdlička			39	živnostník	Mezouň	99	80	0	M
+2102	531537	1	2	53	5	Josef	Kopáček			60	zemědělec	Mezouň	99	53	0	M
+2102	531537	1	5	902	5	Kristýna	Veselá		DiS.	24	bankovní úřednice	Mezouň	99	80	0	F
+2102	531537	1	7	905	5	František	Chaloupka	Doc. MUDr.	CSc.	66	lékař	Mezouň	99	80	0	M
+2102	531537	1	2	53	6	Václav	Hrubý	Ing.	CSc.	63	odborný pracovník	Mezouň	53	53	0	M
+2102	531537	1	7	905	6	Milan	Mrtýnek			41	ředitel	Mezouň	99	80	0	M
+2102	531537	1	2	53	7	Veronika	McMahon			30	výtvarnice	Mezouň	99	53	0	F
+2102	531537	1	7	905	7	Olga	Melzochová	Ing.		54	živnostník	Mezouň	99	80	0	F
+2102	531537	1	7	905	8	Blanka	Ondrascheková	Ing.		46	ředitelka	Mezouň	99	80	0	F
+2102	531537	1	7	905	9	Michal	Vorlíček			36	živnostník	Mezouň	99	80	0	M

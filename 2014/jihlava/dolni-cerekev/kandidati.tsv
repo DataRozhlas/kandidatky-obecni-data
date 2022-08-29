@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6102	587044	1	1	901	1	Ludmila	Fučíková	F			57	zdravotní sestra	Nový Svět	99	80	0
-6102	587044	1	1	901	2	Eva	Sovová	F	MUDr.		60	lékařka hygienické stanice	Dolní Cerekev	99	80	0
-6102	587044	1	1	901	3	Petra	Nováčková	F	Mgr.		33	manažerka centrálního nákupu	Dolní Cerekev	99	80	0
-6102	587044	1	1	901	4	Alena	Slavingerová	F	Ing.		62	důchodkyně	Dolní Cerekev	99	80	0
-6102	587044	1	1	901	5	Jiří	Nováček	M	Mgr.		46	státní zaměstnanec	Dolní Cerekev	99	80	0
-6102	587044	1	1	901	6	Hana	Kněžínková	F			61	důchodkyně	Nový Svět	99	80	0
-6102	587044	1	1	901	7	Monika	Šindelářová	F	Ing.		40	vedoucí oddělení hospodářské správy	Dolní Cerekev	99	80	0
-6102	587044	1	1	901	8	Jan	Konývka	M			34	hospodářský projektový nákupčí	Nový Svět	99	80	0
-6102	587044	1	1	901	9	Lenka	Němcová	F			37	zdravotní sestra	Nový Svět	99	80	0
-6102	587044	1	1	901	10	Stanislava	Drštičková	F			57	důchodkyně	Dolní Cerekev	99	80	0
-6102	587044	1	1	901	11	Jarmila	Kratochvílová	F	Ing.		39	účetní	Dolní Cerekev	99	80	0
-6102	587044	1	2	129	1	Zdeněk	Jirsa	M			61	starosta	Dolní Cerekev	129	129	0
-6102	587044	1	2	129	2	Zdeněk	Veselý	M	Mgr.		44	středoškolský učitel	Dolní Cerekev	99	129	0
-6102	587044	1	2	129	3	Zdeněk	Dvořák	M	Ing.		31	státní zaměstnanec	Dolní Cerekev	99	129	0
-6102	587044	1	2	129	4	Marie	Rodová	F			54	státní zaměstnanec	Dolní Cerekev	99	129	0
-6102	587044	1	2	129	5	Alena	Houčková	F			37	podnikatel	Spělov	99	129	0
-6102	587044	1	2	129	6	Roman	Musil	M			54	podnikatel	Nový Svět	99	129	0
-6102	587044	1	2	129	7	Jaroslav	Štefl	M	Ing.		56	zootechnik	Spělov	99	129	0
-6102	587044	1	2	129	8	Jaroslav	Vláčil	M	Ing.		65	důchodce	Dolní Cerekev	99	129	0
-6102	587044	1	2	129	9	Pavel	Juráček	M			37	kontrolor	Dolní Cerekev	99	129	0
-6102	587044	1	2	129	10	Lubomír	Dratnál	M			47	hasič z povolání	Dolní Cerekev	99	129	0
-6102	587044	1	2	129	11	Petr	Koníř	M			32	podnikatel	Dolní Cerekev	99	129	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6102	587044	1	1	901	1	Ludmila	Fučíková			57	zdravotní sestra	Nový Svět	99	80	0	F
+6102	587044	1	2	129	1	Zdeněk	Jirsa			61	starosta	Dolní Cerekev	129	129	0	M
+6102	587044	1	1	901	2	Eva	Sovová	MUDr.		60	lékařka hygienické stanice	Dolní Cerekev	99	80	0	F
+6102	587044	1	2	129	2	Zdeněk	Veselý	Mgr.		44	středoškolský učitel	Dolní Cerekev	99	129	0	M
+6102	587044	1	1	901	3	Petra	Nováčková	Mgr.		33	manažerka centrálního nákupu	Dolní Cerekev	99	80	0	F
+6102	587044	1	2	129	3	Zdeněk	Dvořák	Ing.		31	státní zaměstnanec	Dolní Cerekev	99	129	0	M
+6102	587044	1	1	901	4	Alena	Slavingerová	Ing.		62	důchodkyně	Dolní Cerekev	99	80	0	F
+6102	587044	1	2	129	4	Marie	Rodová			54	státní zaměstnanec	Dolní Cerekev	99	129	0	F
+6102	587044	1	1	901	5	Jiří	Nováček	Mgr.		46	státní zaměstnanec	Dolní Cerekev	99	80	0	M
+6102	587044	1	2	129	5	Alena	Houčková			37	podnikatel	Spělov	99	129	0	F
+6102	587044	1	1	901	6	Hana	Kněžínková			61	důchodkyně	Nový Svět	99	80	0	F
+6102	587044	1	2	129	6	Roman	Musil			54	podnikatel	Nový Svět	99	129	0	M
+6102	587044	1	1	901	7	Monika	Šindelářová	Ing.		40	vedoucí oddělení hospodářské správy	Dolní Cerekev	99	80	0	F
+6102	587044	1	2	129	7	Jaroslav	Štefl	Ing.		56	zootechnik	Spělov	99	129	0	M
+6102	587044	1	1	901	8	Jan	Konývka			34	hospodářský projektový nákupčí	Nový Svět	99	80	0	M
+6102	587044	1	2	129	8	Jaroslav	Vláčil	Ing.		65	důchodce	Dolní Cerekev	99	129	0	M
+6102	587044	1	1	901	9	Lenka	Němcová			37	zdravotní sestra	Nový Svět	99	80	0	F
+6102	587044	1	2	129	9	Pavel	Juráček			37	kontrolor	Dolní Cerekev	99	129	0	M
+6102	587044	1	1	901	10	Stanislava	Drštičková			57	důchodkyně	Dolní Cerekev	99	80	0	F
+6102	587044	1	2	129	10	Lubomír	Dratnál			47	hasič z povolání	Dolní Cerekev	99	129	0	M
+6102	587044	1	1	901	11	Jarmila	Kratochvílová	Ing.		39	účetní	Dolní Cerekev	99	80	0	F
+6102	587044	1	2	129	11	Petr	Koníř			32	podnikatel	Dolní Cerekev	99	129	0	M

@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5302	575399	1	1	355	1	Bohumil	Křivka	M	Ing.		63	OSVČ	Moravany	1	1	A
-5302	575399	1	1	355	2	Iva	Červená	F	Mgr.		37	učitelka	Turov	99	1	A
-5302	575399	1	1	355	3	Ondřej	Mikulecký	M			35	technolog	Moravany	99	1	A
-5302	575399	1	1	355	4	Eva	Vavřiníková	F	MUDr.		26	dětská lékařka	Moravany	99	1	A
-5302	575399	1	1	355	5	Milan	Karásek	M			44	výpravčí	Moravany	99	80	A
-5302	575399	1	1	355	6	Dana	Rybová	F			54	telefonní operátorka	Moravany	99	1	A
-5302	575399	1	1	355	7	Libor	Brom	M			59	OSVČ	Moravany	99	1	A
-5302	575399	1	1	355	8	Petra	Pospíšilová	F	Bc.		29	fyzioterapeut	Moravany	99	1	A
-5302	575399	1	1	355	9	Stanislav	Novák	M	Ing.		38	strojař	Moravany	99	1	A
-5302	575399	1	1	355	10	Hana	Aulická	F			56	dělnice	Platěnice	99	1	A
-5302	575399	1	1	355	11	Stanislav	Zavoral	M			24	student lékařské fakulty	Moravany	99	1	A
-5302	575399	1	1	355	12	Marta	Horodyská	F			62	důchodkyně	Moravany	1	1	A
-5302	575399	1	1	355	13	Petra	Dostálová	F			40	školnice MŠ	Moravany	99	1	A
-5302	575399	1	1	355	14	Jaroslav	Cach	M			55	montér	Moravany	99	1	A
-5302	575399	1	1	355	15	Jana	Holušová	F			49	kuchařka	Moravany	99	1	A
-5302	575399	1	2	7	1	Václav	Roček	M			66	starosta obce Moravany	Moravany	7	7	A
-5302	575399	1	2	7	2	Lada	Louženská	F	Mgr.		55	zástupkyně ředitelky ZŠ	Moravany	99	7	A
-5302	575399	1	2	7	3	Zdeňka	Venclová	F			50	jednatelka firmy	Platěnice	99	7	A
-5302	575399	1	2	7	4	Milan	Kříž	M	Ing.		38	policista - vedoucí pracovník	Moravany	99	7	A
-5302	575399	1	2	7	5	Michal	Kulhánek	M	Ing.		41	programátor	Moravany	99	7	A
-5302	575399	1	2	7	6	Milan	Faltys	M			48	technik	Moravany	99	7	A
-5302	575399	1	2	7	7	Jiří	Sychra	M			54	pojistník majetku	Čeradice	99	7	A
-5302	575399	1	2	7	8	Ilona	Jiroutová	F			41	zaměstnanec reklamního oddělení	Moravanský	99	7	A
-5302	575399	1	2	7	9	Jan	Kozáček	M			58	mistr odborného výcviku	Turov	99	7	A
-5302	575399	1	2	7	10	Miroslava	Hájková	F			44	správce sportovní haly	Moravany	99	7	A
-5302	575399	1	2	7	11	Jan	Šejnoha	M			26	skladník	Platěnice	99	7	A
-5302	575399	1	2	7	12	Jaroslav	Mandys	M			61	živnostník	Platěnice	7	7	A
-5302	575399	1	2	7	13	Miloš	Pýcha	M			58	elektromechanik	Platěnice	7	7	A
-5302	575399	1	2	7	14	Ludmila	Faltysová	F			46	zdravotnice	Moravany	99	7	A
-5302	575399	1	2	7	15	Petr	Voldán	M			43	poštovní doručovatel	Moravanský	99	7	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5302	575399	1	1	355	1	Bohumil	Křivka	Ing.		63	OSVČ	Moravany	1	1	A	M
+5302	575399	1	2	7	1	Václav	Roček			66	starosta obce Moravany	Moravany	7	7	A	M
+5302	575399	1	1	355	2	Iva	Červená	Mgr.		37	učitelka	Turov	99	1	A	F
+5302	575399	1	2	7	2	Lada	Louženská	Mgr.		55	zástupkyně ředitelky ZŠ	Moravany	99	7	A	F
+5302	575399	1	1	355	3	Ondřej	Mikulecký			35	technolog	Moravany	99	1	A	M
+5302	575399	1	2	7	3	Zdeňka	Venclová			50	jednatelka firmy	Platěnice	99	7	A	F
+5302	575399	1	1	355	4	Eva	Vavřiníková	MUDr.		26	dětská lékařka	Moravany	99	1	A	F
+5302	575399	1	2	7	4	Milan	Kříž	Ing.		38	policista - vedoucí pracovník	Moravany	99	7	A	M
+5302	575399	1	1	355	5	Milan	Karásek			44	výpravčí	Moravany	99	80	A	M
+5302	575399	1	2	7	5	Michal	Kulhánek	Ing.		41	programátor	Moravany	99	7	A	M
+5302	575399	1	1	355	6	Dana	Rybová			54	telefonní operátorka	Moravany	99	1	A	F
+5302	575399	1	2	7	6	Milan	Faltys			48	technik	Moravany	99	7	A	M
+5302	575399	1	1	355	7	Libor	Brom			59	OSVČ	Moravany	99	1	A	M
+5302	575399	1	2	7	7	Jiří	Sychra			54	pojistník majetku	Čeradice	99	7	A	M
+5302	575399	1	1	355	8	Petra	Pospíšilová	Bc.		29	fyzioterapeut	Moravany	99	1	A	F
+5302	575399	1	2	7	8	Ilona	Jiroutová			41	zaměstnanec reklamního oddělení	Moravanský	99	7	A	F
+5302	575399	1	1	355	9	Stanislav	Novák	Ing.		38	strojař	Moravany	99	1	A	M
+5302	575399	1	2	7	9	Jan	Kozáček			58	mistr odborného výcviku	Turov	99	7	A	M
+5302	575399	1	1	355	10	Hana	Aulická			56	dělnice	Platěnice	99	1	A	F
+5302	575399	1	2	7	10	Miroslava	Hájková			44	správce sportovní haly	Moravany	99	7	A	F
+5302	575399	1	1	355	11	Stanislav	Zavoral			24	student lékařské fakulty	Moravany	99	1	A	M
+5302	575399	1	2	7	11	Jan	Šejnoha			26	skladník	Platěnice	99	7	A	M
+5302	575399	1	1	355	12	Marta	Horodyská			62	důchodkyně	Moravany	1	1	A	F
+5302	575399	1	2	7	12	Jaroslav	Mandys			61	živnostník	Platěnice	7	7	A	M
+5302	575399	1	1	355	13	Petra	Dostálová			40	školnice MŠ	Moravany	99	1	A	F
+5302	575399	1	2	7	13	Miloš	Pýcha			58	elektromechanik	Platěnice	7	7	A	M
+5302	575399	1	1	355	14	Jaroslav	Cach			55	montér	Moravany	99	1	A	M
+5302	575399	1	2	7	14	Ludmila	Faltysová			46	zdravotnice	Moravany	99	7	A	F
+5302	575399	1	1	355	15	Jana	Holušová			49	kuchařka	Moravany	99	1	A	F
+5302	575399	1	2	7	15	Petr	Voldán			43	poštovní doručovatel	Moravanský	99	7	A	M

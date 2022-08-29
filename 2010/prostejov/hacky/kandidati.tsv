@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	549967	1	1	714	1	Jaroslav	Petrů	M			51	invalidní důchodce	Hačky	99	714	0
-7103	549967	1	1	714	2	Martin	Drapl	M			33	OSVČ-zámečník	Hačky	99	714	0
-7103	549967	1	1	714	3	Kamil	Chmelík	M			24	software developer	Hačky	714	714	0
-7103	549967	1	2	901	1	Miroslav	Žitek	M			39	svářeč	Hačky	99	80	0
-7103	549967	1	2	901	2	Zbyněk	Vychodil	M			46	technik	Hačky	99	80	0
-7103	549967	1	2	901	3	Miroslav	Jedlička	M			35	elektromechanik	Hačky	99	80	0
-7103	549967	1	3	902	1	Josef	Vychodil	M			46	stolář	Hačky	99	80	0
-7103	549967	1	3	902	2	Eva	Mačkalová	F			47	servírka	Hačky	99	80	0
-7103	549967	1	3	902	3	Miroslav	Mačkal	M			55	invalidní důchodce	Hačky	99	80	0
-7103	549967	1	3	902	4	Jiří	Šmoldas	M			49	seřizovač	Hačky	99	80	0
-7103	549967	1	3	902	5	Pavel	Žváček	M			47	invalidní důchodce	Hačky	99	80	1
-7103	549967	1	3	902	6	Michal	Boček	M			26	programátor	Hačky	99	80	0
-7103	549967	1	4	1	1	Josef	Vychodil	M			57	technik	Hačky	1	1	0
-7103	549967	1	4	1	2	Ladislav	Zajíček	M			43	lesní dělník	Hačky	99	1	0
-7103	549967	1	4	1	3	Jiří	Havlíček	M	MVDr.		39	veterinář	Hačky	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	549967	1	1	714	1	Jaroslav	Petrů			51	invalidní důchodce	Hačky	99	714	0	M
+7103	549967	1	2	901	1	Miroslav	Žitek			39	svářeč	Hačky	99	80	0	M
+7103	549967	1	3	902	1	Josef	Vychodil			46	stolář	Hačky	99	80	0	M
+7103	549967	1	4	1	1	Josef	Vychodil			57	technik	Hačky	1	1	0	M
+7103	549967	1	1	714	2	Martin	Drapl			33	OSVČ-zámečník	Hačky	99	714	0	M
+7103	549967	1	2	901	2	Zbyněk	Vychodil			46	technik	Hačky	99	80	0	M
+7103	549967	1	3	902	2	Eva	Mačkalová			47	servírka	Hačky	99	80	0	F
+7103	549967	1	4	1	2	Ladislav	Zajíček			43	lesní dělník	Hačky	99	1	0	M
+7103	549967	1	1	714	3	Kamil	Chmelík			24	software developer	Hačky	714	714	0	M
+7103	549967	1	2	901	3	Miroslav	Jedlička			35	elektromechanik	Hačky	99	80	0	M
+7103	549967	1	3	902	3	Miroslav	Mačkal			55	invalidní důchodce	Hačky	99	80	0	M
+7103	549967	1	4	1	3	Jiří	Havlíček	MVDr.		39	veterinář	Hačky	99	1	0	M
+7103	549967	1	3	902	4	Jiří	Šmoldas			49	seřizovač	Hačky	99	80	0	M
+7103	549967	1	3	902	5	Pavel	Žváček			47	invalidní důchodce	Hačky	99	80	1	M
+7103	549967	1	3	902	6	Michal	Boček			26	programátor	Hačky	99	80	0	M

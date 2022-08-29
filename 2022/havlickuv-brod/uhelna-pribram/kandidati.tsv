@@ -1,30 +1,30 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	569640	1	1	47	1	Matouš	Dubina	M			38	dělník	Uhelná Příbram	47	47	A
-6101	569640	1	1	47	2	Zdeňka	Dubinová	F			42	dělnice	Uhelná Příbram	47	47	A
-6101	569640	1	1	47	3	Jan	Šimůnek	M			18	student	Uhelná Příbram	99	47	A
-6101	569640	1	2	901	1	Václav	Jarolím	M			44	starosta městyse	Uhelná Příbram	99	80	A
-6101	569640	1	2	901	2	Miroslav	Kruml	M			54	strojník	Uhelná Příbram	99	80	A
-6101	569640	1	2	901	3	Blanka	Pešková	F			52	zdravotní sestra	Pukšice	99	80	A
-6101	569640	1	2	901	4	Milada	Běláková	F			58	vychovatelka	Uhelná Příbram	99	80	A
-6101	569640	1	2	901	5	Josef	Průša	M			56	řidič	Petrovice u Uhelné Příbramě	99	80	A
-6101	569640	1	2	901	6	Jiří	Mendl	M			45	řidič	Jarošov	99	80	A
-6101	569640	1	2	901	7	Petra	Šmídová	F	MUDr.		42	lékařka	Uhelná Příbram	99	80	A
-6101	569640	1	2	901	8	Milan	Dobrovolný	M			54	řidič	Pukšice	99	80	A
-6101	569640	1	3	903	1	Zdenek	Piskač	M			51	montér vodovodů	Uhelná Příbram	99	80	A
-6101	569640	1	3	903	2	František	Dvořák	M			47	OSVČ	Uhelná Příbram	99	80	A
-6101	569640	1	3	903	3	Ondřej	Hospodka	M			34	řidič	Uhelná Příbram	99	80	A
-6101	569640	1	3	903	4	Filip	Pálka	M			41	dělník	Uhelná Příbram	99	80	A
-6101	569640	1	3	903	5	Filip	Vaněk	M			25	elektrikář	Uhelná Příbram	99	80	A
-6101	569640	1	3	903	6	Luboš	Smutný	M			63	OSVČ	Uhelná Příbram	99	80	A
-6101	569640	1	3	903	7	Ondřej	Nesládek	M			29	vedoucí půjčovny	Uhelná Příbram	99	80	A
-6101	569640	1	3	903	8	Zuzana	Pátková	F			35	zdravotní sestra	Uhelná Příbram	99	80	A
-6101	569640	1	3	903	9	Radka	Šťastná	F			34	pracovnice sociální péče	Uhelná Příbram	99	80	A
-6101	569640	1	4	902	1	Eva	Boháčová	F			46	účetní	Uhelná Příbram	99	80	A
-6101	569640	1	4	902	2	Viktor	Smutný	M			47	živnostník	Uhelná Příbram	99	80	A
-6101	569640	1	4	902	3	Radek	Horák	M			51	řidič	Pukšice	99	80	A
-6101	569640	1	4	902	4	Radek	Řípa	M			53	řemeslník	Petrovice u Uhelné Příbramě	99	80	A
-6101	569640	1	4	902	5	Daniel	Šrámek	M			24	montér vodovodů	Uhelná Příbram	99	80	A
-6101	569640	1	4	902	6	Zbyněk	Pospíchal	M			27	obchodní zástupce	Uhelná Příbram	99	80	A
-6101	569640	1	4	902	7	Martin	Plašil	M			38	technik kvality	Jarošov	99	80	A
-6101	569640	1	4	902	8	Jan	Bláha	M			37	technik CNC	Pukšice	99	80	A
-6101	569640	1	4	902	9	Tomáš	Urban	M			41	strojník	Jarošov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	569640	1	1	47	1	Matouš	Dubina			38	dělník	Uhelná Příbram	47	47	A	M
+6101	569640	1	2	901	1	Václav	Jarolím			44	starosta městyse	Uhelná Příbram	99	80	A	M
+6101	569640	1	3	903	1	Zdenek	Piskač			51	montér vodovodů	Uhelná Příbram	99	80	A	M
+6101	569640	1	4	902	1	Eva	Boháčová			46	účetní	Uhelná Příbram	99	80	A	F
+6101	569640	1	1	47	2	Zdeňka	Dubinová			42	dělnice	Uhelná Příbram	47	47	A	F
+6101	569640	1	2	901	2	Miroslav	Kruml			54	strojník	Uhelná Příbram	99	80	A	M
+6101	569640	1	3	903	2	František	Dvořák			47	OSVČ	Uhelná Příbram	99	80	A	M
+6101	569640	1	4	902	2	Viktor	Smutný			47	živnostník	Uhelná Příbram	99	80	A	M
+6101	569640	1	1	47	3	Jan	Šimůnek			18	student	Uhelná Příbram	99	47	A	M
+6101	569640	1	2	901	3	Blanka	Pešková			52	zdravotní sestra	Pukšice	99	80	A	F
+6101	569640	1	3	903	3	Ondřej	Hospodka			34	řidič	Uhelná Příbram	99	80	A	M
+6101	569640	1	4	902	3	Radek	Horák			51	řidič	Pukšice	99	80	A	M
+6101	569640	1	2	901	4	Milada	Běláková			58	vychovatelka	Uhelná Příbram	99	80	A	F
+6101	569640	1	3	903	4	Filip	Pálka			41	dělník	Uhelná Příbram	99	80	A	M
+6101	569640	1	4	902	4	Radek	Řípa			53	řemeslník	Petrovice u Uhelné Příbramě	99	80	A	M
+6101	569640	1	2	901	5	Josef	Průša			56	řidič	Petrovice u Uhelné Příbramě	99	80	A	M
+6101	569640	1	3	903	5	Filip	Vaněk			25	elektrikář	Uhelná Příbram	99	80	A	M
+6101	569640	1	4	902	5	Daniel	Šrámek			24	montér vodovodů	Uhelná Příbram	99	80	A	M
+6101	569640	1	2	901	6	Jiří	Mendl			45	řidič	Jarošov	99	80	A	M
+6101	569640	1	3	903	6	Luboš	Smutný			63	OSVČ	Uhelná Příbram	99	80	A	M
+6101	569640	1	4	902	6	Zbyněk	Pospíchal			27	obchodní zástupce	Uhelná Příbram	99	80	A	M
+6101	569640	1	2	901	7	Petra	Šmídová	MUDr.		42	lékařka	Uhelná Příbram	99	80	A	F
+6101	569640	1	3	903	7	Ondřej	Nesládek			29	vedoucí půjčovny	Uhelná Příbram	99	80	A	M
+6101	569640	1	4	902	7	Martin	Plašil			38	technik kvality	Jarošov	99	80	A	M
+6101	569640	1	2	901	8	Milan	Dobrovolný			54	řidič	Pukšice	99	80	A	M
+6101	569640	1	3	903	8	Zuzana	Pátková			35	zdravotní sestra	Uhelná Příbram	99	80	A	F
+6101	569640	1	4	902	8	Jan	Bláha			37	technik CNC	Pukšice	99	80	A	M
+6101	569640	1	3	903	9	Radka	Šťastná			34	pracovnice sociální péče	Uhelná Příbram	99	80	A	F
+6101	569640	1	4	902	9	Tomáš	Urban			41	strojník	Jarošov	99	80	A	M

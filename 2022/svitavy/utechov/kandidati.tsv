@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	572624	1	1	901	1	Josef	Haas	M			50	jednatel společnosti	Útěchov	99	80	A
-5303	572624	1	1	901	2	Václav	Schramm	M	Ing.		64	důchodce	Útěchov	99	80	A
-5303	572624	1	1	901	3	Lenka	Jurůjová	F			50	kvalitářka	Útěchov	99	80	A
-5303	572624	1	1	901	4	Pavel	Bílek	M			59	obchodní zástupce	Útěchov	99	80	A
-5303	572624	1	1	901	5	David	Rusňák	M	Ing.		40	ředitel výroby	Útěchov	99	80	A
-5303	572624	1	1	901	6	Michal	Prokop	M			47	OSVČ	Útěchov	99	80	A
-5303	572624	1	1	901	7	René	Peškar	M			48	OSVČ	Útěchov	99	80	A
-5303	572624	1	1	901	8	Josef	Prokeš	M			55	obchodní zástupce	Útěchov	99	80	A
-5303	572624	1	2	1479	1	Ladislav	Šafr	M			68	podnikatel	Útěchov	7	80	A
-5303	572624	1	2	1479	2	Milan	Horňák	M	Ing.		60	důchodce	Útěchov	99	80	A
-5303	572624	1	2	1479	3	Petr	Bambušek	M	Ing.		51	podnikatel	Útěchov	99	80	A
-5303	572624	1	2	1479	4	Vladimír	Bureš	M	Ing.		68	technik	Útěchov	99	80	A
-5303	572624	1	2	1479	5	František	Zeman	M	Mgr. Bc.		40	zástupce ředitele ZŠ	Útěchov	1	80	A
-5303	572624	1	2	1479	6	Jiří	Pokorný	M			54	dělník	Útěchov	99	80	A
-5303	572624	1	2	1479	7	Gabriela	Stupková	F			47	podnikatelka	Útěchov	7	80	A
-5303	572624	1	3	902	1	Radim	Jurůj	M	Ing. Bc.		49	policista ve výslužbě	Útěchov	99	80	A
-5303	572624	1	3	902	2	Luboš	Kligl	M			48	manager	Útěchov	99	80	A
-5303	572624	1	3	902	3	Lucie	Radová	F			33	OSVČ	Útěchov	99	80	A
-5303	572624	1	3	902	4	Ludmila	Říhová Zezulová	F	Mgr.	DiS.	44	tisková mluvčí CÚ pro Pardubický kraj	Útěchov	99	80	A
-5303	572624	1	3	902	5	Jiří	Řežábek	M			38	OSVČ	Útěchov	99	80	A
-5303	572624	1	3	902	6	Petr	Schlögl	M			37	IT specialista	Útěchov	99	80	A
-5303	572624	1	3	902	7	Jan	Hotárek	M			37	revizní technik elektro	Útěchov	99	80	A
-5303	572624	1	3	902	8	Martin	Friedl	M			41	technik	Útěchov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	572624	1	1	901	1	Josef	Haas			50	jednatel společnosti	Útěchov	99	80	A	M
+5303	572624	1	2	1479	1	Ladislav	Šafr			68	podnikatel	Útěchov	7	80	A	M
+5303	572624	1	3	902	1	Radim	Jurůj	Ing. Bc.		49	policista ve výslužbě	Útěchov	99	80	A	M
+5303	572624	1	1	901	2	Václav	Schramm	Ing.		64	důchodce	Útěchov	99	80	A	M
+5303	572624	1	2	1479	2	Milan	Horňák	Ing.		60	důchodce	Útěchov	99	80	A	M
+5303	572624	1	3	902	2	Luboš	Kligl			48	manager	Útěchov	99	80	A	M
+5303	572624	1	1	901	3	Lenka	Jurůjová			50	kvalitářka	Útěchov	99	80	A	F
+5303	572624	1	2	1479	3	Petr	Bambušek	Ing.		51	podnikatel	Útěchov	99	80	A	M
+5303	572624	1	3	902	3	Lucie	Radová			33	OSVČ	Útěchov	99	80	A	F
+5303	572624	1	1	901	4	Pavel	Bílek			59	obchodní zástupce	Útěchov	99	80	A	M
+5303	572624	1	2	1479	4	Vladimír	Bureš	Ing.		68	technik	Útěchov	99	80	A	M
+5303	572624	1	3	902	4	Ludmila	Říhová Zezulová	Mgr.	DiS.	44	tisková mluvčí CÚ pro Pardubický kraj	Útěchov	99	80	A	F
+5303	572624	1	1	901	5	David	Rusňák	Ing.		40	ředitel výroby	Útěchov	99	80	A	M
+5303	572624	1	2	1479	5	František	Zeman	Mgr. Bc.		40	zástupce ředitele ZŠ	Útěchov	1	80	A	M
+5303	572624	1	3	902	5	Jiří	Řežábek			38	OSVČ	Útěchov	99	80	A	M
+5303	572624	1	1	901	6	Michal	Prokop			47	OSVČ	Útěchov	99	80	A	M
+5303	572624	1	2	1479	6	Jiří	Pokorný			54	dělník	Útěchov	99	80	A	M
+5303	572624	1	3	902	6	Petr	Schlögl			37	IT specialista	Útěchov	99	80	A	M
+5303	572624	1	1	901	7	René	Peškar			48	OSVČ	Útěchov	99	80	A	M
+5303	572624	1	2	1479	7	Gabriela	Stupková			47	podnikatelka	Útěchov	7	80	A	F
+5303	572624	1	3	902	7	Jan	Hotárek			37	revizní technik elektro	Útěchov	99	80	A	M
+5303	572624	1	1	901	8	Josef	Prokeš			55	obchodní zástupce	Útěchov	99	80	A	M
+5303	572624	1	3	902	8	Martin	Friedl			41	technik	Útěchov	99	80	A	M

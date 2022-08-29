@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2106	535061	1	1	901	1	Josef	Maincl	M	Ing.		72	důchodce	Nebužely	99	80	0
-2106	535061	1	1	901	2	Václav	Protiva	M	Ing.		49	příslušník Policie ČR	Nebužely	99	80	0
-2106	535061	1	1	901	3	Věra	Řezníčková	F	Ing.		59	OSVČ	Nebužely	99	80	0
-2106	535061	1	1	901	4	Jitka	Pokorná	F			44	prodavačka	Nebužely	99	80	0
-2106	535061	1	1	901	5	Jan	Hron	M			36	seřizovač	Nebužely	99	80	0
-2106	535061	1	1	901	6	Josef	Švestka	M			52	OSVČ	Nebužely	99	80	0
-2106	535061	1	1	901	7	Antonín	Šípek	M			47	mechanik, opravář	Nebužely	99	80	0
-2106	535061	1	2	904	1	Petra	Jáchymstálová	F	Ing.		49	ekonomka	Nebužely	99	80	0
-2106	535061	1	2	904	2	Pavel	Novák	M			31	servisní technik	Nebužely	99	80	0
-2106	535061	1	2	904	3	Jiřina	Dvořáková	F			41	zdravotní sestra	Nebužely	99	80	0
-2106	535061	1	2	904	4	Lenka	Zárybnická	F	Ing.		48	ředitelka školy	Nebužely	99	80	0
-2106	535061	1	2	904	5	Tomáš	Janda	M	Ing.		34	pracovník výzkumu	Nebužely	99	80	0
-2106	535061	1	2	904	6	Václav	Podráský	M			44	zedník	Nebužely	99	80	0
-2106	535061	1	3	902	1	Jan	Čermák	M	Ing.		65	starosta obce	Nebužely	99	80	0
-2106	535061	1	3	902	2	Věra	Podráská	F			21	studentka VŠ polytechnické	Nebužely	99	80	0
-2106	535061	1	3	902	3	Milan	Chodúr	M			43	příslušník policie ČR	Nebužely	99	80	0
-2106	535061	1	3	902	4	Václav	Legner	M			36	mechanik opravář strojů a zařízení	Nebužely	99	80	0
-2106	535061	1	3	902	5	Martin	Slánský	M			28	příslušník policie ČR	Nebužely	99	80	0
-2106	535061	1	3	902	6	Šárka	Jandová	F			39	učitelka mateřské školy	Nebužely	99	80	0
-2106	535061	1	3	902	7	Zdeněk	Novák	M			55	OSVČ	Nebužely	99	80	0
-2106	535061	1	4	903	1	Zbyněk	Goldberger	M			53	technik	Nebužely	99	80	0
-2106	535061	1	4	903	2	Jana	Liscová	F	Bc.		40	příslušnice Policie ČR	Nebužely	99	80	0
-2106	535061	1	4	903	3	Marcel	Fousek	M			45	pracovník OÚ	Nebužely	99	80	0
-2106	535061	1	4	903	4	Zdeněk	Jiran	M			68	důchodce	Nebužely	99	80	0
-2106	535061	1	4	903	5	Božena	Frydrychová	F			54	prodavačka	Nebužely	99	80	0
-2106	535061	1	4	903	6	Jiří	Solař	M			48	technik	Nebužely	99	80	0
-2106	535061	1	4	903	7	Karel	Kamínek	M			58	řidič autobusu	Nebužely	99	80	0
-2106	535061	1	5	905	1	Eva	Šestáková	F	Ing.		65	důchodkyně	Nebužely	99	80	0
-2106	535061	1	5	905	2	Miroslava	Havlíková	F			44	zdravotní sestra	Nebužely	99	80	0
-2106	535061	1	5	905	3	Jan	Kinzl	M			34	bezpečnostní pracovník Letiště V. Havla Praha	Nebužely	99	80	0
-2106	535061	1	5	905	4	David	Bátěk	M			49	podnikatel	Nebužely	99	80	0
-2106	535061	1	5	905	5	Galina	Čermáková	F	Mgr.		56	právnička	Nebužely	99	80	0
-2106	535061	1	5	905	6	Jakub	Havránek	M			32	příslušník policie ČR	Nebužely	99	80	0
-2106	535061	1	5	905	7	Zdeněk	Frydrych	M			50	kontrolní pracovník	Nebužely	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2106	535061	1	1	901	1	Josef	Maincl	Ing.		72	důchodce	Nebužely	99	80	0	M
+2106	535061	1	2	904	1	Petra	Jáchymstálová	Ing.		49	ekonomka	Nebužely	99	80	0	F
+2106	535061	1	3	902	1	Jan	Čermák	Ing.		65	starosta obce	Nebužely	99	80	0	M
+2106	535061	1	4	903	1	Zbyněk	Goldberger			53	technik	Nebužely	99	80	0	M
+2106	535061	1	5	905	1	Eva	Šestáková	Ing.		65	důchodkyně	Nebužely	99	80	0	F
+2106	535061	1	1	901	2	Václav	Protiva	Ing.		49	příslušník Policie ČR	Nebužely	99	80	0	M
+2106	535061	1	2	904	2	Pavel	Novák			31	servisní technik	Nebužely	99	80	0	M
+2106	535061	1	3	902	2	Věra	Podráská			21	studentka VŠ polytechnické	Nebužely	99	80	0	F
+2106	535061	1	4	903	2	Jana	Liscová	Bc.		40	příslušnice Policie ČR	Nebužely	99	80	0	F
+2106	535061	1	5	905	2	Miroslava	Havlíková			44	zdravotní sestra	Nebužely	99	80	0	F
+2106	535061	1	1	901	3	Věra	Řezníčková	Ing.		59	OSVČ	Nebužely	99	80	0	F
+2106	535061	1	2	904	3	Jiřina	Dvořáková			41	zdravotní sestra	Nebužely	99	80	0	F
+2106	535061	1	3	902	3	Milan	Chodúr			43	příslušník policie ČR	Nebužely	99	80	0	M
+2106	535061	1	4	903	3	Marcel	Fousek			45	pracovník OÚ	Nebužely	99	80	0	M
+2106	535061	1	5	905	3	Jan	Kinzl			34	bezpečnostní pracovník Letiště V. Havla Praha	Nebužely	99	80	0	M
+2106	535061	1	1	901	4	Jitka	Pokorná			44	prodavačka	Nebužely	99	80	0	F
+2106	535061	1	2	904	4	Lenka	Zárybnická	Ing.		48	ředitelka školy	Nebužely	99	80	0	F
+2106	535061	1	3	902	4	Václav	Legner			36	mechanik opravář strojů a zařízení	Nebužely	99	80	0	M
+2106	535061	1	4	903	4	Zdeněk	Jiran			68	důchodce	Nebužely	99	80	0	M
+2106	535061	1	5	905	4	David	Bátěk			49	podnikatel	Nebužely	99	80	0	M
+2106	535061	1	1	901	5	Jan	Hron			36	seřizovač	Nebužely	99	80	0	M
+2106	535061	1	2	904	5	Tomáš	Janda	Ing.		34	pracovník výzkumu	Nebužely	99	80	0	M
+2106	535061	1	3	902	5	Martin	Slánský			28	příslušník policie ČR	Nebužely	99	80	0	M
+2106	535061	1	4	903	5	Božena	Frydrychová			54	prodavačka	Nebužely	99	80	0	F
+2106	535061	1	5	905	5	Galina	Čermáková	Mgr.		56	právnička	Nebužely	99	80	0	F
+2106	535061	1	1	901	6	Josef	Švestka			52	OSVČ	Nebužely	99	80	0	M
+2106	535061	1	2	904	6	Václav	Podráský			44	zedník	Nebužely	99	80	0	M
+2106	535061	1	3	902	6	Šárka	Jandová			39	učitelka mateřské školy	Nebužely	99	80	0	F
+2106	535061	1	4	903	6	Jiří	Solař			48	technik	Nebužely	99	80	0	M
+2106	535061	1	5	905	6	Jakub	Havránek			32	příslušník policie ČR	Nebužely	99	80	0	M
+2106	535061	1	1	901	7	Antonín	Šípek			47	mechanik, opravář	Nebužely	99	80	0	M
+2106	535061	1	3	902	7	Zdeněk	Novák			55	OSVČ	Nebužely	99	80	0	M
+2106	535061	1	4	903	7	Karel	Kamínek			58	řidič autobusu	Nebužely	99	80	0	M
+2106	535061	1	5	905	7	Zdeněk	Frydrych			50	kontrolní pracovník	Nebužely	99	80	0	M

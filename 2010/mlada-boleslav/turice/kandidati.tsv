@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2107	570982	1	1	801	1	Petra	Kolářová	F			30	zdravotní sestra	Tuřice	7	80	0
-2107	570982	1	2	804	1	Helena	Bažantová	F	Ing.		32	samostatná projektantka	Sobětuchy	99	80	0
-2107	570982	1	3	802	1	Václav	Král	M			70	důchodce	Tuřice	99	80	0
-2107	570982	1	4	808	1	Iveta	Němečková	F			45	soukromý podnikatel	Tuřice	99	80	0
-2107	570982	1	5	809	1	Štěpán	Pohl	M	Ing.		56	stavební inženýr	Sobětuchy	99	80	0
-2107	570982	1	6	806	1	Pavel	Jarosil	M			66	důchodce	Tuřice	99	80	0
-2107	570982	1	7	805	1	Libuše	Zseböková	F			61	důchodce	Tuřice	99	80	0
-2107	570982	1	8	803	1	Jiří	Jůza	M			47	automechanik	Tuřice	99	80	0
-2107	570982	1	9	807	1	Věra	Pařízková	F			48	cukrářka	Tuřice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2107	570982	1	1	801	1	Petra	Kolářová			30	zdravotní sestra	Tuřice	7	80	0	F
+2107	570982	1	2	804	1	Helena	Bažantová	Ing.		32	samostatná projektantka	Sobětuchy	99	80	0	F
+2107	570982	1	3	802	1	Václav	Král			70	důchodce	Tuřice	99	80	0	M
+2107	570982	1	4	808	1	Iveta	Němečková			45	soukromý podnikatel	Tuřice	99	80	0	F
+2107	570982	1	5	809	1	Štěpán	Pohl	Ing.		56	stavební inženýr	Sobětuchy	99	80	0	M
+2107	570982	1	6	806	1	Pavel	Jarosil			66	důchodce	Tuřice	99	80	0	M
+2107	570982	1	7	805	1	Libuše	Zseböková			61	důchodce	Tuřice	99	80	0	F
+2107	570982	1	8	803	1	Jiří	Jůza			47	automechanik	Tuřice	99	80	0	M
+2107	570982	1	9	807	1	Věra	Pařízková			48	cukrářka	Tuřice	99	80	0	F

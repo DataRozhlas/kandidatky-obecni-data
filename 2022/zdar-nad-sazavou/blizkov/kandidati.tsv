@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	595250	1	1	1	1	Ondřej	Zeman	M			30	mechanik	Blízkov	1	1	A
-6105	595250	1	1	1	2	Petra	Fraňková	F			40	účetní	Blízkov	99	1	A
-6105	595250	1	1	1	3	Luboš	Oulehla	M			42	operátor	Blízkov	99	1	A
-6105	595250	1	1	1	4	Stanislav	Bradáč	M			43	truhlář	Blízkov	99	1	A
-6105	595250	1	1	1	5	Eva	Rozmarinová	F	Mgr.		50	vychovatelka	Blízkov	99	1	A
-6105	595250	1	1	1	6	Ludmila	Chlubnová	F			44	učitelka	Blízkov	99	1	A
-6105	595250	1	1	1	7	Jitka	Králová	F			50	prodavačka	Blízkov	99	1	A
-6105	595250	1	1	1	8	Václav	Puža	M			76	důchodce	Blízkov	99	1	A
-6105	595250	1	1	1	9	Ladislav	Puža	M			47	soustružník	Blízkov	99	1	A
-6105	595250	1	2	901	1	Zdeněk	Král	M			51	truhlář	Blízkov	99	80	A
-6105	595250	1	2	901	2	Stanislav	Blažek	M			53	seřizovač	Blízkov	99	80	A
-6105	595250	1	2	901	3	Ludmila	Sýkorová	F			51	skladník	Blízkov	99	80	A
-6105	595250	1	2	901	4	Stanislav	Oulehla	M		DiS.	43	reklamační technik	Blízkov	99	80	A
-6105	595250	1	2	901	5	Antonín	Kolouch	M			57	technik	Blízkov	99	80	A
-6105	595250	1	2	901	6	Pavel	Klíma	M			44	automechanik	Blízkov	99	80	A
-6105	595250	1	2	901	7	Luboš	Kučera	M			56	seřizovač	Blízkov	99	80	A
-6105	595250	1	2	901	8	František	Pokorný	M			65	důchodce	Blízkov	99	80	A
-6105	595250	1	2	901	9	Jitka	Bublánová	F			41	referent nákupu	Blízkov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	595250	1	1	1	1	Ondřej	Zeman			30	mechanik	Blízkov	1	1	A	M
+6105	595250	1	2	901	1	Zdeněk	Král			51	truhlář	Blízkov	99	80	A	M
+6105	595250	1	1	1	2	Petra	Fraňková			40	účetní	Blízkov	99	1	A	F
+6105	595250	1	2	901	2	Stanislav	Blažek			53	seřizovač	Blízkov	99	80	A	M
+6105	595250	1	1	1	3	Luboš	Oulehla			42	operátor	Blízkov	99	1	A	M
+6105	595250	1	2	901	3	Ludmila	Sýkorová			51	skladník	Blízkov	99	80	A	F
+6105	595250	1	1	1	4	Stanislav	Bradáč			43	truhlář	Blízkov	99	1	A	M
+6105	595250	1	2	901	4	Stanislav	Oulehla		DiS.	43	reklamační technik	Blízkov	99	80	A	M
+6105	595250	1	1	1	5	Eva	Rozmarinová	Mgr.		50	vychovatelka	Blízkov	99	1	A	F
+6105	595250	1	2	901	5	Antonín	Kolouch			57	technik	Blízkov	99	80	A	M
+6105	595250	1	1	1	6	Ludmila	Chlubnová			44	učitelka	Blízkov	99	1	A	F
+6105	595250	1	2	901	6	Pavel	Klíma			44	automechanik	Blízkov	99	80	A	M
+6105	595250	1	1	1	7	Jitka	Králová			50	prodavačka	Blízkov	99	1	A	F
+6105	595250	1	2	901	7	Luboš	Kučera			56	seřizovač	Blízkov	99	80	A	M
+6105	595250	1	1	1	8	Václav	Puža			76	důchodce	Blízkov	99	1	A	M
+6105	595250	1	2	901	8	František	Pokorný			65	důchodce	Blízkov	99	80	A	M
+6105	595250	1	1	1	9	Ladislav	Puža			47	soustružník	Blízkov	99	1	A	M
+6105	595250	1	2	901	9	Jitka	Bublánová			41	referent nákupu	Blízkov	99	80	A	F

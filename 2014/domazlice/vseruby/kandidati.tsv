@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	554456	1	1	470	1	Václav	Bernard	M			38	podnikatel	Všeruby	99	166	0
-3201	554456	1	1	470	2	Břetislav	Halama	M			45	lesník	Brůdek	99	80	0
-3201	554456	1	1	470	3	Zdeněk	Musil	M	Ing.		50	policista	Všeruby	99	80	0
-3201	554456	1	1	470	4	Renata	Reifová	F	Mgr.		45	ředitelka ZŠ	Všeruby	99	80	0
-3201	554456	1	1	470	5	Jiří	Beran	M			31	hasič	Všeruby	99	80	0
-3201	554456	1	1	470	6	Jaroslav	Petrželka	M			55	podnikatel	Brůdek	99	80	0
-3201	554456	1	1	470	7	Libor	März	M			35	dělník	Hyršov	99	166	0
-3201	554456	1	1	470	8	Martina	Pejsarová	F			42	pokojská	Hájek	99	80	0
-3201	554456	1	1	470	9	Karel	Rakovec	M			37	dělník	Chalupy	99	166	0
-3201	554456	1	1	470	10	Martin	Mařák	M			37	vedoucí provozu	Všeruby	99	166	0
-3201	554456	1	1	470	11	Jana	Grebáčová	F			52	žena v domácnosti	Maxov	99	80	0
-3201	554456	1	1	470	12	Jan	Herrmann	M			56	řidič ČSAD	Všeruby	99	80	0
-3201	554456	1	1	470	13	Ludmila	Rousová	F	Ing.		65	starostka	Všeruby	99	166	0
-3201	554456	1	1	470	14	Jana	Šupová	F			64	důchodkyně	Všeruby	99	166	0
-3201	554456	1	1	470	15	Vladimír	Baudyš	M			42	podnikatel	Hájek	99	166	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	554456	1	1	470	1	Václav	Bernard			38	podnikatel	Všeruby	99	166	0	M
+3201	554456	1	1	470	2	Břetislav	Halama			45	lesník	Brůdek	99	80	0	M
+3201	554456	1	1	470	3	Zdeněk	Musil	Ing.		50	policista	Všeruby	99	80	0	M
+3201	554456	1	1	470	4	Renata	Reifová	Mgr.		45	ředitelka ZŠ	Všeruby	99	80	0	F
+3201	554456	1	1	470	5	Jiří	Beran			31	hasič	Všeruby	99	80	0	M
+3201	554456	1	1	470	6	Jaroslav	Petrželka			55	podnikatel	Brůdek	99	80	0	M
+3201	554456	1	1	470	7	Libor	März			35	dělník	Hyršov	99	166	0	M
+3201	554456	1	1	470	8	Martina	Pejsarová			42	pokojská	Hájek	99	80	0	F
+3201	554456	1	1	470	9	Karel	Rakovec			37	dělník	Chalupy	99	166	0	M
+3201	554456	1	1	470	10	Martin	Mařák			37	vedoucí provozu	Všeruby	99	166	0	M
+3201	554456	1	1	470	11	Jana	Grebáčová			52	žena v domácnosti	Maxov	99	80	0	F
+3201	554456	1	1	470	12	Jan	Herrmann			56	řidič ČSAD	Všeruby	99	80	0	M
+3201	554456	1	1	470	13	Ludmila	Rousová	Ing.		65	starostka	Všeruby	99	166	0	F
+3201	554456	1	1	470	14	Jana	Šupová			64	důchodkyně	Všeruby	99	166	0	F
+3201	554456	1	1	470	15	Vladimír	Baudyš			42	podnikatel	Hájek	99	166	0	M

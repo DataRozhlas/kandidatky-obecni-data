@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2104	513423	1	1	470	1	Miloš	Flanderka	M			54	elektromechanik	Pašinka	99	166	0
-2104	513423	1	1	470	2	Josef	Malý	M			61	zámečník	Pašinka	99	166	0
-2104	513423	1	1	470	3	Vladimíra	Krupičková	F			48	administrativní pracovnice	Pašinka	99	166	0
-2104	513423	1	1	470	4	Karel	Čábela	M	Mgr.		59	učitel	Pašinka	99	166	0
-2104	513423	1	1	470	5	Stanislav	Valenta	M			49	podnikatel	Pašinka	99	166	0
-2104	513423	1	1	470	6	Hana	Žaludová	F	Mgr.		46	hlavní účetní	Pašinka	99	166	0
-2104	513423	1	1	470	7	Růžena	Svobodová	F			54	vedoucí odbytu	Pašinka	99	166	0
-2104	513423	1	1	470	8	Aleš	Janda	M			31	řidič - technik	Pašinka	99	80	0
-2104	513423	1	1	470	9	Vladimír	Pilát	M			62	důchodce	Pašinka	99	166	0
-2104	513423	1	2	53	1	Miroslav	Hula	M			36	projektant plyn.,vod. a kan.	Pašinka	53	53	0
-2104	513423	1	2	53	2	Vladimír	Herman	M			46	inspektor	Pašinka	99	53	0
-2104	513423	1	2	53	3	Šárka	Válová	F			41	obchodní ředitelka	Pašinka	99	53	0
-2104	513423	1	2	53	4	Vilém	Löwe	M			44	podnikatel	Pašinka	99	53	0
-2104	513423	1	2	53	5	Anděla	Pařezová	F			27	účetní	Pašinka	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2104	513423	1	1	470	1	Miloš	Flanderka			54	elektromechanik	Pašinka	99	166	0	M
+2104	513423	1	2	53	1	Miroslav	Hula			36	projektant plyn.,vod. a kan.	Pašinka	53	53	0	M
+2104	513423	1	1	470	2	Josef	Malý			61	zámečník	Pašinka	99	166	0	M
+2104	513423	1	2	53	2	Vladimír	Herman			46	inspektor	Pašinka	99	53	0	M
+2104	513423	1	1	470	3	Vladimíra	Krupičková			48	administrativní pracovnice	Pašinka	99	166	0	F
+2104	513423	1	2	53	3	Šárka	Válová			41	obchodní ředitelka	Pašinka	99	53	0	F
+2104	513423	1	1	470	4	Karel	Čábela	Mgr.		59	učitel	Pašinka	99	166	0	M
+2104	513423	1	2	53	4	Vilém	Löwe			44	podnikatel	Pašinka	99	53	0	M
+2104	513423	1	1	470	5	Stanislav	Valenta			49	podnikatel	Pašinka	99	166	0	M
+2104	513423	1	2	53	5	Anděla	Pařezová			27	účetní	Pašinka	99	53	0	F
+2104	513423	1	1	470	6	Hana	Žaludová	Mgr.		46	hlavní účetní	Pašinka	99	166	0	F
+2104	513423	1	1	470	7	Růžena	Svobodová			54	vedoucí odbytu	Pašinka	99	166	0	F
+2104	513423	1	1	470	8	Aleš	Janda			31	řidič - technik	Pašinka	99	80	0	M
+2104	513423	1	1	470	9	Vladimír	Pilát			62	důchodce	Pašinka	99	166	0	M

@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3206	560235	1	1	901	1	Pavel	Rybař	M			46	OSVČ	Veselá	99	80	A
-3206	560235	1	1	901	2	Milan	Větrovec	M	Mgr.		48	státní zaměstnanec	Veselá	99	80	A
-3206	560235	1	1	901	3	Tomáš	Pezlar	M			48	OSVČ	Veselá	99	80	A
-3206	560235	1	1	901	4	Koloman	Kanyicska	M			38	projekt manažer	Veselá	99	80	A
-3206	560235	1	1	901	5	Luboš	Rybař	M			61	OSVČ	Veselá	99	80	A
-3206	560235	1	1	901	6	Jiří	Poborský	M			46	prodejce automobilů	Veselá	99	80	A
-3206	560235	1	2	902	1	Vlastimil	Ungr	M			50	invalidní důchodce	Veselá	99	80	A
-3206	560235	1	2	902	2	Pavel	Planeta	M			52	zámečník	Veselá	99	80	A
-3206	560235	1	2	902	3	Vít	Ungr	M			22	zámečník	Veselá	99	80	A
-3206	560235	1	2	902	4	Filip	Kejval	M			21	vysokoškolák	Veselá	99	80	A
-3206	560235	1	2	902	5	Pavel	Planeta	M			27	skladník	Veselá	99	80	A
-3206	560235	1	2	902	6	Veronika	Ungrová	F			18	středoškolačka	Veselá	99	80	A
-3206	560235	1	2	902	7	Martin	Matura	M			34	OSVČ	Veselá	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3206	560235	1	1	901	1	Pavel	Rybař			46	OSVČ	Veselá	99	80	A	M
+3206	560235	1	2	902	1	Vlastimil	Ungr			50	invalidní důchodce	Veselá	99	80	A	M
+3206	560235	1	1	901	2	Milan	Větrovec	Mgr.		48	státní zaměstnanec	Veselá	99	80	A	M
+3206	560235	1	2	902	2	Pavel	Planeta			52	zámečník	Veselá	99	80	A	M
+3206	560235	1	1	901	3	Tomáš	Pezlar			48	OSVČ	Veselá	99	80	A	M
+3206	560235	1	2	902	3	Vít	Ungr			22	zámečník	Veselá	99	80	A	M
+3206	560235	1	1	901	4	Koloman	Kanyicska			38	projekt manažer	Veselá	99	80	A	M
+3206	560235	1	2	902	4	Filip	Kejval			21	vysokoškolák	Veselá	99	80	A	M
+3206	560235	1	1	901	5	Luboš	Rybař			61	OSVČ	Veselá	99	80	A	M
+3206	560235	1	2	902	5	Pavel	Planeta			27	skladník	Veselá	99	80	A	M
+3206	560235	1	1	901	6	Jiří	Poborský			46	prodejce automobilů	Veselá	99	80	A	M
+3206	560235	1	2	902	6	Veronika	Ungrová			18	středoškolačka	Veselá	99	80	A	F
+3206	560235	1	2	902	7	Martin	Matura			34	OSVČ	Veselá	99	80	A	M

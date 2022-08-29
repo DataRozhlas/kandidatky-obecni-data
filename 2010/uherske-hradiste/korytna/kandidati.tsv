@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7202	592285	1	1	1	1	Ladislav	Klon	M	Ing.		32	zootechnik	Korytná	99	1	0
-7202	592285	1	1	1	2	Josef	Janča	M			57	učitel SOU	Korytná	99	1	0
-7202	592285	1	1	1	3	Petra	Píšková	F	Mgr.		33	učitelka 1. stupně ZŠ	Korytná	99	1	0
-7202	592285	1	1	1	4	Karel	Stojaspal	M	Ing.		63	důchodce	Korytná	1	1	0
-7202	592285	1	1	1	5	Dagmar	Navláčilová	F			48	OSVČ	Korytná	99	1	0
-7202	592285	1	1	1	6	Yvona	Nováková	F			41	vedoucí pošty	Korytná	99	1	0
-7202	592285	1	1	1	7	Pavel	Popelka	M			64	důchodce	Korytná	99	1	0
-7202	592285	1	1	1	8	Eva	Matuchová	F			21	učitelka MŠ	Korytná	99	1	0
-7202	592285	1	1	1	9	Štěpán	Tomanec	M			54	invalidní důchodce	Korytná	99	1	0
-7202	592285	1	2	901	1	Patrik	Persona	M	Mgr.		25	exekutorský koncipient	Korytná	99	80	0
-7202	592285	1	2	901	2	Jakub	Vacula	M			24	student	Korytná	99	80	0
-7202	592285	1	2	901	3	Jaroslava	Málková	F			50	učitelka	Korytná	99	80	0
-7202	592285	1	2	901	4	Karel	Mléčka	M			27	obchodní zástupce	Korytná	99	80	0
-7202	592285	1	2	901	5	Andrea	Baumannová	F			44	obchodní ředitel	Korytná	99	80	0
-7202	592285	1	2	901	6	Karel	Doležálek	M	Ing.		43	vedoucí technického oddělení	Korytná	99	80	0
-7202	592285	1	2	901	7	Igor	Bublík	M	Bc.		24	student	Korytná	99	80	0
-7202	592285	1	2	901	8	Pavel	Mrázek	M			34	OSVČ	Korytná	99	80	0
-7202	592285	1	2	901	9	Ladislav	Vacula	M			54	OSVČ	Korytná	99	80	0
-7202	592285	1	3	166	1	Vladimír	Janča	M			47	starosta obce	Korytná	99	166	0
-7202	592285	1	3	166	2	Josef	Blaha	M			39	jednatel společnosti	Korytná	99	166	0
-7202	592285	1	3	166	3	Josef	Janča	M			58	soukromý podnikatel	Korytná	99	166	0
-7202	592285	1	3	166	4	Helena	Chýlová	F			45	předseda Sdr. Dr. Stivara	Korytná	99	166	0
-7202	592285	1	3	166	5	Pavel	Špaček	M			47	soukromý podnikatel	Korytná	99	166	0
-7202	592285	1	3	166	6	Věra	Miklasová	F	RNDr.		57	učitelka	Korytná	99	166	0
-7202	592285	1	3	166	7	Martin	Štecher	M			34	referent správy majetku	Korytná	99	166	0
-7202	592285	1	3	166	8	Petra	Borýsková	F			38	bankovní úřednice	Korytná	99	166	0
-7202	592285	1	3	166	9	Miroslav	Janča	M	MVDr.		60	veterinární lékař	Korytná	99	166	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7202	592285	1	1	1	1	Ladislav	Klon	Ing.		32	zootechnik	Korytná	99	1	0	M
+7202	592285	1	2	901	1	Patrik	Persona	Mgr.		25	exekutorský koncipient	Korytná	99	80	0	M
+7202	592285	1	3	166	1	Vladimír	Janča			47	starosta obce	Korytná	99	166	0	M
+7202	592285	1	1	1	2	Josef	Janča			57	učitel SOU	Korytná	99	1	0	M
+7202	592285	1	2	901	2	Jakub	Vacula			24	student	Korytná	99	80	0	M
+7202	592285	1	3	166	2	Josef	Blaha			39	jednatel společnosti	Korytná	99	166	0	M
+7202	592285	1	1	1	3	Petra	Píšková	Mgr.		33	učitelka 1. stupně ZŠ	Korytná	99	1	0	F
+7202	592285	1	2	901	3	Jaroslava	Málková			50	učitelka	Korytná	99	80	0	F
+7202	592285	1	3	166	3	Josef	Janča			58	soukromý podnikatel	Korytná	99	166	0	M
+7202	592285	1	1	1	4	Karel	Stojaspal	Ing.		63	důchodce	Korytná	1	1	0	M
+7202	592285	1	2	901	4	Karel	Mléčka			27	obchodní zástupce	Korytná	99	80	0	M
+7202	592285	1	3	166	4	Helena	Chýlová			45	předseda Sdr. Dr. Stivara	Korytná	99	166	0	F
+7202	592285	1	1	1	5	Dagmar	Navláčilová			48	OSVČ	Korytná	99	1	0	F
+7202	592285	1	2	901	5	Andrea	Baumannová			44	obchodní ředitel	Korytná	99	80	0	F
+7202	592285	1	3	166	5	Pavel	Špaček			47	soukromý podnikatel	Korytná	99	166	0	M
+7202	592285	1	1	1	6	Yvona	Nováková			41	vedoucí pošty	Korytná	99	1	0	F
+7202	592285	1	2	901	6	Karel	Doležálek	Ing.		43	vedoucí technického oddělení	Korytná	99	80	0	M
+7202	592285	1	3	166	6	Věra	Miklasová	RNDr.		57	učitelka	Korytná	99	166	0	F
+7202	592285	1	1	1	7	Pavel	Popelka			64	důchodce	Korytná	99	1	0	M
+7202	592285	1	2	901	7	Igor	Bublík	Bc.		24	student	Korytná	99	80	0	M
+7202	592285	1	3	166	7	Martin	Štecher			34	referent správy majetku	Korytná	99	166	0	M
+7202	592285	1	1	1	8	Eva	Matuchová			21	učitelka MŠ	Korytná	99	1	0	F
+7202	592285	1	2	901	8	Pavel	Mrázek			34	OSVČ	Korytná	99	80	0	M
+7202	592285	1	3	166	8	Petra	Borýsková			38	bankovní úřednice	Korytná	99	166	0	F
+7202	592285	1	1	1	9	Štěpán	Tomanec			54	invalidní důchodce	Korytná	99	1	0	M
+7202	592285	1	2	901	9	Ladislav	Vacula			54	OSVČ	Korytná	99	80	0	M
+7202	592285	1	3	166	9	Miroslav	Janča	MVDr.		60	veterinární lékař	Korytná	99	166	0	M

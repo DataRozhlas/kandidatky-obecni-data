@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	580163	1	1	903	1	Petr	Vrzal	M			47	soukromý podnikatel	Dolní Morava	99	80	A
-5304	580163	1	1	903	2	Josef	Klimeš	M			56	soukromý podnikatel	Velká Morava	99	80	A
-5304	580163	1	1	903	3	Vratislav	Krobot	M			49	soukromý podnikatel	Velká Morava	99	80	A
-5304	580163	1	1	903	4	Michal	Stránský	M			31	technik	Dolní Morava	99	80	A
-5304	580163	1	1	903	5	Petra	Bednářová	F	Bc.	DiS.	33	soukromý podnikatel	Velká Morava	99	80	A
-5304	580163	1	1	903	6	Simona	Válková	F			20	student	Velká Morava	99	80	A
-5304	580163	1	1	903	7	Robert	Látal	M			49	soukromý podnikatel	Velká Morava	99	80	A
-5304	580163	1	2	902	1	Richard	Novák	M	Ing. arch.		37	starosta, architekt	Velká Morava	99	80	A
-5304	580163	1	2	902	2	Karel	Adamec	M			44	technik	Velká Morava	99	80	A
-5304	580163	1	2	902	3	Lucie	Krupičková	F			47	OSVČ, školnice MŠ	Dolní Morava	99	80	A
-5304	580163	1	2	902	4	Jaroslav	Míka	M			47	lesní dělník	Dolní Morava	99	80	A
-5304	580163	1	2	902	5	Radek	Vrábel	M			48	OSVČ	Dolní Morava	99	80	A
-5304	580163	1	2	902	6	Edita	Novotná	F			37	referentka	Velká Morava	99	80	A
-5304	580163	1	2	902	7	Irena	Tykvová	F			46	účetní	Velká Morava	99	80	A
-5304	580163	1	2	902	8	Vladimír	Vyskočil	M			58	revírník	Horní Morava	99	80	A
-5304	580163	1	2	902	9	Ladislav	Bednář	M			61	revírník	Velká Morava	99	80	A
-5304	580163	1	3	901	1	Gabriela	Papijáková	F			40	vedoucí prodejny	Velká Morava	99	80	A
-5304	580163	1	3	901	2	Rostislav	Král	M			47	hasič	Velká Morava	99	80	A
-5304	580163	1	3	901	3	Josef	Tykva	M			50	účetní	Velká Morava	99	80	A
-5304	580163	1	3	901	4	Daniel	Doleček	M			28	soukromý podnikatel	Dolní Morava	99	80	A
-5304	580163	1	3	901	5	Ladislav	Janočko	M			69	soukromý podnikatel	Velká Morava	99	80	A
-5304	580163	1	3	901	6	Radek	Adamec	M			49	údržbář	Velká Morava	99	80	A
-5304	580163	1	3	901	7	Martin	Král	M			45	soukromý podnikatel	Velká Morava	99	80	A
-5304	580163	1	3	901	8	Jan	Válek	M			47	mechanik	Velká Morava	99	80	A
-5304	580163	1	3	901	9	Vladimír	Petržela	M			66	soukromý podnikatel	Velká Morava	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	580163	1	1	903	1	Petr	Vrzal			47	soukromý podnikatel	Dolní Morava	99	80	A	M
+5304	580163	1	2	902	1	Richard	Novák	Ing. arch.		37	starosta, architekt	Velká Morava	99	80	A	M
+5304	580163	1	3	901	1	Gabriela	Papijáková			40	vedoucí prodejny	Velká Morava	99	80	A	F
+5304	580163	1	1	903	2	Josef	Klimeš			56	soukromý podnikatel	Velká Morava	99	80	A	M
+5304	580163	1	2	902	2	Karel	Adamec			44	technik	Velká Morava	99	80	A	M
+5304	580163	1	3	901	2	Rostislav	Král			47	hasič	Velká Morava	99	80	A	M
+5304	580163	1	1	903	3	Vratislav	Krobot			49	soukromý podnikatel	Velká Morava	99	80	A	M
+5304	580163	1	2	902	3	Lucie	Krupičková			47	OSVČ, školnice MŠ	Dolní Morava	99	80	A	F
+5304	580163	1	3	901	3	Josef	Tykva			50	účetní	Velká Morava	99	80	A	M
+5304	580163	1	1	903	4	Michal	Stránský			31	technik	Dolní Morava	99	80	A	M
+5304	580163	1	2	902	4	Jaroslav	Míka			47	lesní dělník	Dolní Morava	99	80	A	M
+5304	580163	1	3	901	4	Daniel	Doleček			28	soukromý podnikatel	Dolní Morava	99	80	A	M
+5304	580163	1	1	903	5	Petra	Bednářová	Bc.	DiS.	33	soukromý podnikatel	Velká Morava	99	80	A	F
+5304	580163	1	2	902	5	Radek	Vrábel			48	OSVČ	Dolní Morava	99	80	A	M
+5304	580163	1	3	901	5	Ladislav	Janočko			69	soukromý podnikatel	Velká Morava	99	80	A	M
+5304	580163	1	1	903	6	Simona	Válková			20	student	Velká Morava	99	80	A	F
+5304	580163	1	2	902	6	Edita	Novotná			37	referentka	Velká Morava	99	80	A	F
+5304	580163	1	3	901	6	Radek	Adamec			49	údržbář	Velká Morava	99	80	A	M
+5304	580163	1	1	903	7	Robert	Látal			49	soukromý podnikatel	Velká Morava	99	80	A	M
+5304	580163	1	2	902	7	Irena	Tykvová			46	účetní	Velká Morava	99	80	A	F
+5304	580163	1	3	901	7	Martin	Král			45	soukromý podnikatel	Velká Morava	99	80	A	M
+5304	580163	1	2	902	8	Vladimír	Vyskočil			58	revírník	Horní Morava	99	80	A	M
+5304	580163	1	3	901	8	Jan	Válek			47	mechanik	Velká Morava	99	80	A	M
+5304	580163	1	2	902	9	Ladislav	Bednář			61	revírník	Velká Morava	99	80	A	M
+5304	580163	1	3	901	9	Vladimír	Petržela			66	soukromý podnikatel	Velká Morava	99	80	A	M

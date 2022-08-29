@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	578681	1	1	901	1	Milan	Andrlík	M	Ing.		37	zaměstnanec UHÚL Brandýs nad Labem	Rozhraní	99	80	0
-5303	578681	1	1	901	2	Josef	Hájek	M			31	OSVČ	Rozhraní	99	80	0
-5303	578681	1	1	901	3	Jana	Zimová	F			49	administrativní pracovnice-účetní	Rozhraní	99	80	0
-5303	578681	1	1	901	4	Hanuš	Vondál	M			39	OSVČ	Rozhraní	99	80	0
-5303	578681	1	1	901	5	Miroslav	Jež	M			39	konstruktér	Rozhraní	99	80	0
-5303	578681	1	1	901	6	Tomáš	Hlaváček	M			32	OSVČ	Rozhraní	99	80	0
-5303	578681	1	1	901	7	Ladislav	Kopecký	M			55	zaměstnanec obce	Rozhraní	99	80	0
-5303	578681	1	1	901	8	Michal	Petrasz	M			34	řidič	Rozhraní	99	80	0
-5303	578681	1	1	901	9	Lenka	Rosenkranzová	F			38	zdravotní sestra	Rozhraní	99	80	0
-5303	578681	1	2	166	1	Martin	Jelínek	M			40	obchodní zástupce	Rozhraní	7	166	0
-5303	578681	1	2	166	2	Zuzana	Kašparová	F		DiS.	33	manažer prodeje	Rozhraní	99	166	0
-5303	578681	1	2	166	3	Martin	Báča	M			44	dělník	Rozhraní	99	166	0
-5303	578681	1	2	166	4	Jana	Havránková	F			42	účetní	Rozhraní	99	166	0
-5303	578681	1	2	166	5	Oldřich	Dittrich	M			61	zaměstnanec	Rozhraní	99	166	0
-5303	578681	1	2	166	6	Simona	Etzlerová	F			39	referent zahraničního obchodu	Rozhraní	99	166	0
-5303	578681	1	2	166	7	Tomáš	Prudil	M			29	programátor CNC strojů	Rozhraní	99	166	0
-5303	578681	1	2	166	8	Lucie	Kučerová	F	Mgr.		30	nezaměstnaná	Rozhraní	99	166	0
-5303	578681	1	2	166	9	Stanislav	Bárta	M			47	seřizovač	Rozhraní	99	166	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	578681	1	1	901	1	Milan	Andrlík	Ing.		37	zaměstnanec UHÚL Brandýs nad Labem	Rozhraní	99	80	0	M
+5303	578681	1	2	166	1	Martin	Jelínek			40	obchodní zástupce	Rozhraní	7	166	0	M
+5303	578681	1	1	901	2	Josef	Hájek			31	OSVČ	Rozhraní	99	80	0	M
+5303	578681	1	2	166	2	Zuzana	Kašparová		DiS.	33	manažer prodeje	Rozhraní	99	166	0	F
+5303	578681	1	1	901	3	Jana	Zimová			49	administrativní pracovnice-účetní	Rozhraní	99	80	0	F
+5303	578681	1	2	166	3	Martin	Báča			44	dělník	Rozhraní	99	166	0	M
+5303	578681	1	1	901	4	Hanuš	Vondál			39	OSVČ	Rozhraní	99	80	0	M
+5303	578681	1	2	166	4	Jana	Havránková			42	účetní	Rozhraní	99	166	0	F
+5303	578681	1	1	901	5	Miroslav	Jež			39	konstruktér	Rozhraní	99	80	0	M
+5303	578681	1	2	166	5	Oldřich	Dittrich			61	zaměstnanec	Rozhraní	99	166	0	M
+5303	578681	1	1	901	6	Tomáš	Hlaváček			32	OSVČ	Rozhraní	99	80	0	M
+5303	578681	1	2	166	6	Simona	Etzlerová			39	referent zahraničního obchodu	Rozhraní	99	166	0	F
+5303	578681	1	1	901	7	Ladislav	Kopecký			55	zaměstnanec obce	Rozhraní	99	80	0	M
+5303	578681	1	2	166	7	Tomáš	Prudil			29	programátor CNC strojů	Rozhraní	99	166	0	M
+5303	578681	1	1	901	8	Michal	Petrasz			34	řidič	Rozhraní	99	80	0	M
+5303	578681	1	2	166	8	Lucie	Kučerová	Mgr.		30	nezaměstnaná	Rozhraní	99	166	0	F
+5303	578681	1	1	901	9	Lenka	Rosenkranzová			38	zdravotní sestra	Rozhraní	99	80	0	F
+5303	578681	1	2	166	9	Stanislav	Bárta			47	seřizovač	Rozhraní	99	166	0	M

@@ -1,9 +1,9 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5302	575101	1	1	802	1	Pavel	Křinka	M			47	zaměstnanec	Seník	99	80	A
-5302	575101	1	2	803	1	Václav	Zikán	M			45	OSVČ	Jankovice	99	80	A
-5302	575101	1	3	805	1	Petr	Hammerlindl	M	Mgr.		55	psycholog	Jankovice	99	80	A
-5302	575101	1	4	801	1	Lenka	Jarolímová	F			39	účetní	Kozašice	99	80	A
-5302	575101	1	5	804	1	Václav	Svoboda	M			68	důchodce	Seník	99	80	A
-5302	575101	1	6	806	1	Martin	Staněk	M			48	podnikatel	Jankovice	99	80	A
-5302	575101	1	7	808	1	Miroslava	Čuchalová	F			40	na mateřské dovolené	Kozašice	99	80	A
-5302	575101	1	8	807	1	Jiřina	Kotyzová	F			38	soukromý zemědělec	Kozašice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5302	575101	1	1	802	1	Pavel	Křinka			47	zaměstnanec	Seník	99	80	A	M
+5302	575101	1	2	803	1	Václav	Zikán			45	OSVČ	Jankovice	99	80	A	M
+5302	575101	1	3	805	1	Petr	Hammerlindl	Mgr.		55	psycholog	Jankovice	99	80	A	M
+5302	575101	1	4	801	1	Lenka	Jarolímová			39	účetní	Kozašice	99	80	A	F
+5302	575101	1	5	804	1	Václav	Svoboda			68	důchodce	Seník	99	80	A	M
+5302	575101	1	6	806	1	Martin	Staněk			48	podnikatel	Jankovice	99	80	A	M
+5302	575101	1	7	808	1	Miroslava	Čuchalová			40	na mateřské dovolené	Kozašice	99	80	A	F
+5302	575101	1	8	807	1	Jiřina	Kotyzová			38	soukromý zemědělec	Kozašice	99	80	A	F

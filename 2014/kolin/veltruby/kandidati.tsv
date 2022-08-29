@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2104	533858	1	1	387	1	Oldřich	Vacek	M			68	traktorista	Veltruby	47	47	0
-2104	533858	1	1	387	2	Jiří	Sklenář	M			67	dispečer	Veltruby	99	47	0
-2104	533858	1	1	387	3	Jiří	Vávra	M			58	technik	Veltruby	99	47	0
-2104	533858	1	1	387	4	Jiří	Vlk	M			67	seřizovač	Veltruby	47	47	0
-2104	533858	1	1	387	5	Jindřich	Liška	M			43	bagrista	Veltruby	99	47	0
-2104	533858	1	1	387	6	Ondřej	Hrdlička	M			35	programátor NC strojů	Hradišťko I	99	47	0
-2104	533858	1	1	387	7	Irena	Malá	F			38	kuchařka	Hradišťko I	99	47	0
-2104	533858	1	1	387	8	Vít	Matouš	M			47	chemik	Veltruby	99	47	0
-2104	533858	1	1	387	9	Jiří	Balaš	M			49	mistr strojní výroby	Veltruby	99	47	0
-2104	533858	1	1	387	10	Helena	Hoppová	F			64	úřednice	Veltruby	99	47	0
-2104	533858	1	1	387	11	Jiří	Syrový	M			31	revizní technik	Veltruby	99	47	0
-2104	533858	1	2	1	1	Jiří	Hůla	M	Ing.		59	programátor	Hradišťko I	99	1	0
-2104	533858	1	2	1	2	Jan	Fischer	M	Ing.	CSc.	50	vysokoškolský učitel	Veltruby	99	1	0
-2104	533858	1	2	1	3	Vratislav	Franc	M			63	vahař	Hradišťko I	99	1	0
-2104	533858	1	2	1	4	Jan	Kmoch	M			36	podnikatel	Hradišťko I	99	1	0
-2104	533858	1	2	1	5	Ladislav	Frančík	M			65	elektromontér	Veltruby	99	1	0
-2104	533858	1	2	1	6	Jiří	Mašín	M	Ing.		49	podnikatel	Veltruby	99	1	0
-2104	533858	1	2	1	7	Miroslava	Havlinová	F			54	na ÚP	Veltruby	99	1	0
-2104	533858	1	2	1	8	Lukáš	Franc	M			38	podnikatel	Hradišťko I	99	1	0
-2104	533858	1	2	1	9	Milan	Kyncl	M			54	vedoucí výroby	Hradišťko I	99	1	0
-2104	533858	1	2	1	10	Markéta	Fischerová	F	MUDr.		44	zubní lékařka	Veltruby	99	1	0
-2104	533858	1	2	1	11	Marie	Sixtová	F			52	referent ČP	Veltruby	99	1	0
-2104	533858	1	3	470	1	Ivan	Kašpar	M	Ing.		67	starosta	Veltruby	99	166	0
-2104	533858	1	3	470	2	Petr	Herčík	M			56	vedoucí provozu	Veltruby	99	80	0
-2104	533858	1	3	470	3	Romana	Špinková	F			37	dělnice	Hradišťko I	99	80	0
-2104	533858	1	3	470	4	Michal	Hradecký	M			38	instalatér	Veltruby	99	80	0
-2104	533858	1	3	470	5	Vladimír	Foltýn	M			58	technik	Hradišťko I	99	80	0
-2104	533858	1	3	470	6	Jiří	Skohoutil	M			40	policejní inspektor	Veltruby	99	80	0
-2104	533858	1	3	470	7	Kamila	Čechová	F			41	ekonomka	Veltruby	99	80	0
-2104	533858	1	3	470	8	Radek	Stehlík	M			28	elektrotechnik	Hradišťko I	99	80	0
-2104	533858	1	3	470	9	Josef	Kadeřábek	M			30	živnostník	Veltruby	99	80	0
-2104	533858	1	3	470	10	Vladimír	Hradecký	M			62	instalatér	Veltruby	99	80	0
-2104	533858	1	3	470	11	Petr	Hrdlička	M			62	technik	Hradišťko I	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2104	533858	1	1	387	1	Oldřich	Vacek			68	traktorista	Veltruby	47	47	0	M
+2104	533858	1	2	1	1	Jiří	Hůla	Ing.		59	programátor	Hradišťko I	99	1	0	M
+2104	533858	1	3	470	1	Ivan	Kašpar	Ing.		67	starosta	Veltruby	99	166	0	M
+2104	533858	1	1	387	2	Jiří	Sklenář			67	dispečer	Veltruby	99	47	0	M
+2104	533858	1	2	1	2	Jan	Fischer	Ing.	CSc.	50	vysokoškolský učitel	Veltruby	99	1	0	M
+2104	533858	1	3	470	2	Petr	Herčík			56	vedoucí provozu	Veltruby	99	80	0	M
+2104	533858	1	1	387	3	Jiří	Vávra			58	technik	Veltruby	99	47	0	M
+2104	533858	1	2	1	3	Vratislav	Franc			63	vahař	Hradišťko I	99	1	0	M
+2104	533858	1	3	470	3	Romana	Špinková			37	dělnice	Hradišťko I	99	80	0	F
+2104	533858	1	1	387	4	Jiří	Vlk			67	seřizovač	Veltruby	47	47	0	M
+2104	533858	1	2	1	4	Jan	Kmoch			36	podnikatel	Hradišťko I	99	1	0	M
+2104	533858	1	3	470	4	Michal	Hradecký			38	instalatér	Veltruby	99	80	0	M
+2104	533858	1	1	387	5	Jindřich	Liška			43	bagrista	Veltruby	99	47	0	M
+2104	533858	1	2	1	5	Ladislav	Frančík			65	elektromontér	Veltruby	99	1	0	M
+2104	533858	1	3	470	5	Vladimír	Foltýn			58	technik	Hradišťko I	99	80	0	M
+2104	533858	1	1	387	6	Ondřej	Hrdlička			35	programátor NC strojů	Hradišťko I	99	47	0	M
+2104	533858	1	2	1	6	Jiří	Mašín	Ing.		49	podnikatel	Veltruby	99	1	0	M
+2104	533858	1	3	470	6	Jiří	Skohoutil			40	policejní inspektor	Veltruby	99	80	0	M
+2104	533858	1	1	387	7	Irena	Malá			38	kuchařka	Hradišťko I	99	47	0	F
+2104	533858	1	2	1	7	Miroslava	Havlinová			54	na ÚP	Veltruby	99	1	0	F
+2104	533858	1	3	470	7	Kamila	Čechová			41	ekonomka	Veltruby	99	80	0	F
+2104	533858	1	1	387	8	Vít	Matouš			47	chemik	Veltruby	99	47	0	M
+2104	533858	1	2	1	8	Lukáš	Franc			38	podnikatel	Hradišťko I	99	1	0	M
+2104	533858	1	3	470	8	Radek	Stehlík			28	elektrotechnik	Hradišťko I	99	80	0	M
+2104	533858	1	1	387	9	Jiří	Balaš			49	mistr strojní výroby	Veltruby	99	47	0	M
+2104	533858	1	2	1	9	Milan	Kyncl			54	vedoucí výroby	Hradišťko I	99	1	0	M
+2104	533858	1	3	470	9	Josef	Kadeřábek			30	živnostník	Veltruby	99	80	0	M
+2104	533858	1	1	387	10	Helena	Hoppová			64	úřednice	Veltruby	99	47	0	F
+2104	533858	1	2	1	10	Markéta	Fischerová	MUDr.		44	zubní lékařka	Veltruby	99	1	0	F
+2104	533858	1	3	470	10	Vladimír	Hradecký			62	instalatér	Veltruby	99	80	0	M
+2104	533858	1	1	387	11	Jiří	Syrový			31	revizní technik	Veltruby	99	47	0	M
+2104	533858	1	2	1	11	Marie	Sixtová			52	referent ČP	Veltruby	99	1	0	F
+2104	533858	1	3	470	11	Petr	Hrdlička			62	technik	Hradišťko I	99	80	0	M

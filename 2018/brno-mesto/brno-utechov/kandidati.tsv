@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6202	551431	1	1	463	1	Zdeněk	Drahoš	M	PhDr.		58	náměstek generálního ředitele	Brno-Útěchov	99	80	A
-6202	551431	1	1	463	2	Miroslava	Meluzínová	F			67	důchodkyně	Brno-Útěchov	99	80	A
-6202	551431	1	1	463	3	Luděk	Zahradníček	M	RNDr.		72	důchodce	Brno-Útěchov	99	80	A
-6202	551431	1	1	463	4	Miroslav	Turek	M	JUDr.		67	důchodce	Brno-Útěchov	99	80	A
-6202	551431	1	1	463	5	Zdeněk	Bureš	M	Ing. arch.		57	architekt, projektant	Brno-Útěchov	99	80	A
-6202	551431	1	1	463	6	Petr	Vošahlík	M			67	umělecký cizelér	Brno-Útěchov	99	80	A
-6202	551431	1	1	463	7	Jiří	Janota	M	Ing.		43	ředitel stavební firmy	Brno-Útěchov	99	80	A
-6202	551431	1	1	463	8	Martina	Knapová Drahošová	F	Mgr.		28	právnička	Brno-Útěchov	99	80	A
-6202	551431	1	2	53	1	Šárka	Cechová	F	JUDr.		37	právnička	Brno-Útěchov	53	53	A
-6202	551431	1	2	53	2	Jaroslav	Trojan	M			52	key account manager	Brno-Útěchov	53	53	A
-6202	551431	1	2	53	3	Alice	Schmidtová	F	MVDr.		56	manažerka	Brno-Útěchov	99	53	A
-6202	551431	1	2	53	4	Alice	Tobiášová	F	Bc.		42	ředitelka nadačního fondu	Brno-Útěchov	99	53	A
-6202	551431	1	2	53	5	Michal	Bugner	M			38	podnikatel	Brno-Útěchov	99	53	A
-6202	551431	1	2	53	6	Michaela	Zálešáková Nováčková	F	Ing.		34	ekonomka	Brno-Útěchov	99	53	A
-6202	551431	1	2	53	7	Adam	Pohanka	M	Bc.		32	ředitel společnosti	Brno-Útěchov	53	53	A
-6202	551431	1	3	355	1	František	Novák	M	Mgr.		57	vedoucí prodeje	Brno-Útěchov	99	1	A
-6202	551431	1	3	355	2	Klára	Pelánková	F	Mgr.		43	pedagog	Brno-Útěchov	99	1	A
-6202	551431	1	3	355	3	Eduard	Nejezchleb	M	Ing.		39	ředitel společnosti	Brno-Útěchov	99	1	A
-6202	551431	1	3	355	4	Hana	Kubíčková	F			43	odborný referent	Brno-Útěchov	99	1	A
-6202	551431	1	3	355	5	Vlastimil	Konečný	M	Ing.		58	správa nemovitostí	Brno-Útěchov	99	1	A
-6202	551431	1	3	355	6	Iveta	Sedláčková	F			44	autodoprava	Brno-Útěchov	99	1	A
-6202	551431	1	3	355	7	Klára	Burešová	F			20	studentka VUT	Brno-Útěchov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6202	551431	1	1	463	1	Zdeněk	Drahoš	PhDr.		58	náměstek generálního ředitele	Brno-Útěchov	99	80	A	M
+6202	551431	1	2	53	1	Šárka	Cechová	JUDr.		37	právnička	Brno-Útěchov	53	53	A	F
+6202	551431	1	3	355	1	František	Novák	Mgr.		57	vedoucí prodeje	Brno-Útěchov	99	1	A	M
+6202	551431	1	1	463	2	Miroslava	Meluzínová			67	důchodkyně	Brno-Útěchov	99	80	A	F
+6202	551431	1	2	53	2	Jaroslav	Trojan			52	key account manager	Brno-Útěchov	53	53	A	M
+6202	551431	1	3	355	2	Klára	Pelánková	Mgr.		43	pedagog	Brno-Útěchov	99	1	A	F
+6202	551431	1	1	463	3	Luděk	Zahradníček	RNDr.		72	důchodce	Brno-Útěchov	99	80	A	M
+6202	551431	1	2	53	3	Alice	Schmidtová	MVDr.		56	manažerka	Brno-Útěchov	99	53	A	F
+6202	551431	1	3	355	3	Eduard	Nejezchleb	Ing.		39	ředitel společnosti	Brno-Útěchov	99	1	A	M
+6202	551431	1	1	463	4	Miroslav	Turek	JUDr.		67	důchodce	Brno-Útěchov	99	80	A	M
+6202	551431	1	2	53	4	Alice	Tobiášová	Bc.		42	ředitelka nadačního fondu	Brno-Útěchov	99	53	A	F
+6202	551431	1	3	355	4	Hana	Kubíčková			43	odborný referent	Brno-Útěchov	99	1	A	F
+6202	551431	1	1	463	5	Zdeněk	Bureš	Ing. arch.		57	architekt, projektant	Brno-Útěchov	99	80	A	M
+6202	551431	1	2	53	5	Michal	Bugner			38	podnikatel	Brno-Útěchov	99	53	A	M
+6202	551431	1	3	355	5	Vlastimil	Konečný	Ing.		58	správa nemovitostí	Brno-Útěchov	99	1	A	M
+6202	551431	1	1	463	6	Petr	Vošahlík			67	umělecký cizelér	Brno-Útěchov	99	80	A	M
+6202	551431	1	2	53	6	Michaela	Zálešáková Nováčková	Ing.		34	ekonomka	Brno-Útěchov	99	53	A	F
+6202	551431	1	3	355	6	Iveta	Sedláčková			44	autodoprava	Brno-Útěchov	99	1	A	F
+6202	551431	1	1	463	7	Jiří	Janota	Ing.		43	ředitel stavební firmy	Brno-Útěchov	99	80	A	M
+6202	551431	1	2	53	7	Adam	Pohanka	Bc.		32	ředitel společnosti	Brno-Útěchov	53	53	A	M
+6202	551431	1	3	355	7	Klára	Burešová			20	studentka VUT	Brno-Útěchov	99	80	A	F
+6202	551431	1	1	463	8	Martina	Knapová Drahošová	Mgr.		28	právnička	Brno-Útěchov	99	80	A	F

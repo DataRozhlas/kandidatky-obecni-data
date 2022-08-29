@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	571083	1	1	903	1	Luboš	Schovánek	M			48	elektromechanik	Janovice	99	80	A
-5201	571083	1	1	903	2	Milan	Schovánek	M			46	OSVČ	Janovice	99	80	A
-5201	571083	1	1	903	3	Vlastimil	Boudyš	M			68	důchodce	Janovice	99	80	A
-5201	571083	1	1	903	4	Jiří	Ondráček	M			44	správce budov	Janovice	99	80	A
-5201	571083	1	1	903	5	Eva	Kahounová	F			56	všeobecná sestra	Janovice	99	80	A
-5201	571083	1	1	903	6	Zdeněk	Janovec	M			65	důchodce	Janovice	99	80	A
-5201	571083	1	1	903	7	Antonín	Ondráček	M			83	důchodce	Janovice	99	80	A
-5201	571083	1	1	903	8	Ivana	Janovcová	F			57	obsluha čerpací stanice	Janovice	99	80	A
-5201	571083	1	1	903	9	Eva	Kopánková	F			42	administrativní pracovnice	Janovice	99	80	A
-5201	571083	1	2	902	1	Štěpán	Kratochvíl	M			28	zedník - obkladač	Kozojídky	99	80	A
-5201	571083	1	2	902	2	Jan	Jelínek	M			29	instalatér	Kozojídky	99	80	A
-5201	571083	1	2	902	3	Lucie	Mikulková	F			33	učitelka	Kozojídky	99	80	A
-5201	571083	1	2	902	4	Jiří	Mocek	M			48	lakař	Kozojídky	99	80	A
-5201	571083	1	2	902	5	Luděk	Kohout	M			35	technik měření	Kozojídky	99	80	A
-5201	571083	1	2	902	6	Terezie	Jezdinská	F			42	invalidní důchodce	Kozojídky	99	80	A
-5201	571083	1	2	902	7	Bohuslav	Vršťala	M			65	důchodce	Kozojídky	99	80	A
-5201	571083	1	2	902	8	Roman	Navara	M			59	pracovník centra zábavy	Kozojídky	99	80	A
-5201	571083	1	2	902	9	Jiří	Zechovský	M			54	krmivář	Kozojídky	99	80	A
-5201	571083	1	3	901	1	Štěpánka	Holmanová	F	Ing.		54	ředitelka sociálních služeb	Vinary	99	80	A
-5201	571083	1	3	901	2	Pavel	Špinka	M			51	mechanizátor	Vinary	99	80	A
-5201	571083	1	3	901	3	Jiří	Štoček	M			47	řezník	Vinary	99	80	A
-5201	571083	1	3	901	4	Romana	Jablonovská Filipová	F			46	jeřábnice	Vinary	99	80	A
-5201	571083	1	3	901	5	Aleš	Záveský	M			47	traktorista	Vinary	99	80	A
-5201	571083	1	3	901	6	Jan	Vojtěch	M			29	traktorista	Vinary	99	80	A
-5201	571083	1	3	901	7	Miroslav	Píša	M	Bc.		42	vedoucí výroby	Vinary	99	80	A
-5201	571083	1	3	901	8	Milan	Kučera	M			40	jednatel firmy	Vinary	99	80	A
-5201	571083	1	3	901	9	Radka	Vojtěchová	F			51	ekonom	Vinary	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	571083	1	1	903	1	Luboš	Schovánek			48	elektromechanik	Janovice	99	80	A	M
+5201	571083	1	2	902	1	Štěpán	Kratochvíl			28	zedník - obkladač	Kozojídky	99	80	A	M
+5201	571083	1	3	901	1	Štěpánka	Holmanová	Ing.		54	ředitelka sociálních služeb	Vinary	99	80	A	F
+5201	571083	1	1	903	2	Milan	Schovánek			46	OSVČ	Janovice	99	80	A	M
+5201	571083	1	2	902	2	Jan	Jelínek			29	instalatér	Kozojídky	99	80	A	M
+5201	571083	1	3	901	2	Pavel	Špinka			51	mechanizátor	Vinary	99	80	A	M
+5201	571083	1	1	903	3	Vlastimil	Boudyš			68	důchodce	Janovice	99	80	A	M
+5201	571083	1	2	902	3	Lucie	Mikulková			33	učitelka	Kozojídky	99	80	A	F
+5201	571083	1	3	901	3	Jiří	Štoček			47	řezník	Vinary	99	80	A	M
+5201	571083	1	1	903	4	Jiří	Ondráček			44	správce budov	Janovice	99	80	A	M
+5201	571083	1	2	902	4	Jiří	Mocek			48	lakař	Kozojídky	99	80	A	M
+5201	571083	1	3	901	4	Romana	Jablonovská Filipová			46	jeřábnice	Vinary	99	80	A	F
+5201	571083	1	1	903	5	Eva	Kahounová			56	všeobecná sestra	Janovice	99	80	A	F
+5201	571083	1	2	902	5	Luděk	Kohout			35	technik měření	Kozojídky	99	80	A	M
+5201	571083	1	3	901	5	Aleš	Záveský			47	traktorista	Vinary	99	80	A	M
+5201	571083	1	1	903	6	Zdeněk	Janovec			65	důchodce	Janovice	99	80	A	M
+5201	571083	1	2	902	6	Terezie	Jezdinská			42	invalidní důchodce	Kozojídky	99	80	A	F
+5201	571083	1	3	901	6	Jan	Vojtěch			29	traktorista	Vinary	99	80	A	M
+5201	571083	1	1	903	7	Antonín	Ondráček			83	důchodce	Janovice	99	80	A	M
+5201	571083	1	2	902	7	Bohuslav	Vršťala			65	důchodce	Kozojídky	99	80	A	M
+5201	571083	1	3	901	7	Miroslav	Píša	Bc.		42	vedoucí výroby	Vinary	99	80	A	M
+5201	571083	1	1	903	8	Ivana	Janovcová			57	obsluha čerpací stanice	Janovice	99	80	A	F
+5201	571083	1	2	902	8	Roman	Navara			59	pracovník centra zábavy	Kozojídky	99	80	A	M
+5201	571083	1	3	901	8	Milan	Kučera			40	jednatel firmy	Vinary	99	80	A	M
+5201	571083	1	1	903	9	Eva	Kopánková			42	administrativní pracovnice	Janovice	99	80	A	F
+5201	571083	1	2	902	9	Jiří	Zechovský			54	krmivář	Kozojídky	99	80	A	M
+5201	571083	1	3	901	9	Radka	Vojtěchová			51	ekonom	Vinary	99	80	A	F

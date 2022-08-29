@@ -1,36 +1,36 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8104	568562	1	1	47	1	Emilie	Doubková	F			63	důchodce	Heřmanice u Oder	47	47	A
-8104	568562	1	1	47	2	Miroslava	Michálková Šálková	F	Mgr.		42	podnikatelka	Heřmanice u Oder	99	47	A
-8104	568562	1	1	47	3	Bohuslava	Škutová	F			39	dělnice	Véska	99	47	A
-8104	568562	1	1	47	4	Marcela	Švábíková	F			44	dělnice	Heřmanice u Oder	99	47	A
-8104	568562	1	1	47	5	Žaneta	Vašková	F			41	prodavačka	Heřmanice u Oder	99	47	A
-8104	568562	1	2	903	1	Radek	Bosák	M			45	svářeč	Véska	99	80	A
-8104	568562	1	2	903	2	Jana	Zimmerová	F			42	pedagog	Véska	99	80	A
-8104	568562	1	2	903	3	Alena	Vašková	F	MUDr.		65	zubní lékař	Véska	99	80	A
-8104	568562	1	2	903	4	Jaroslav	Bosák	M			46	svářeč	Véska	99	80	A
-8104	568562	1	2	903	5	Václav	Marteček	M			23	svářeč	Véska	99	80	A
-8104	568562	1	2	903	6	Dominik	Bosák	M			22	THP	Véska	99	80	A
-8104	568562	1	2	903	7	Radek	Bosák	M			21	THP	Véska	99	80	A
-8104	568562	1	3	1	1	Vendula	Jarošová	F	Mgr.		38	starostka obce	Heřmanice u Oder	1	1	A
-8104	568562	1	3	1	2	Pavel	Křenek	M			43	automechanik	Heřmanice u Oder	99	1	A
-8104	568562	1	3	1	3	Martin	Biskup	M			42	vedoucí prodejny	Heřmanice u Oder	1	1	A
-8104	568562	1	3	1	4	Iveta	Vyvlečková	F			42	poštovní doručovatelka	Heřmanice u Oder	99	1	A
-8104	568562	1	3	1	5	Marcela	Křížová	F			43	obsluha CNC strojů	Heřmanice u Oder	99	1	A
-8104	568562	1	3	1	6	Linda	Trčková	F			27	asistentka ředitele	Heřmanice u Oder	99	1	A
-8104	568562	1	3	1	7	Dominik	Šíma	M			36	operátor CNC strojů	Heřmanice u Oder	99	1	A
-8104	568562	1	3	1	8	Jan	Špunda	M			38	vedoucí technického provozu	Heřmanice u Oder	99	1	A
-8104	568562	1	3	1	9	Markéta	Biskupová	F	Mgr.		31	všeobecná zdravotní sestra	Heřmanice u Oder	99	1	A
-8104	568562	1	4	902	1	Václav	Šíma	M	Ing.		32	konstruktér	Heřmanice u Oder	99	80	A
-8104	568562	1	4	902	2	David	Ptáček	M			25	svářeč	Heřmanice u Oder	99	80	A
-8104	568562	1	4	902	3	Jiří	Jurdič	M			22	student	Heřmanice u Oder	99	80	A
-8104	568562	1	4	902	4	Michal	Trčka	M			32	obsluha CNC	Heřmanice u Oder	99	80	A
-8104	568562	1	4	902	5	Karel	Ptáček	M			41	OSVČ	Heřmanice u Oder	99	80	A
-8104	568562	1	4	902	6	Jiří	Švábík	M			19	traktorista-opravář	Heřmanice u Oder	99	80	A
-8104	568562	1	4	902	7	Josef	Mazare	M			19	student	Heřmanice u Oder	99	80	A
-8104	568562	1	5	901	1	František	Válek	M			51	soukromý zemědělec	Heřmanice u Oder	99	80	A
-8104	568562	1	5	901	2	Stanislav	Ptáček	M			51	OSVČ	Heřmanice u Oder	99	80	A
-8104	568562	1	5	901	3	Antonín	Fegler	M			28	elektrikář	Heřmanice u Oder	99	80	A
-8104	568562	1	5	901	4	Petr	Sumega	M			42	soukromý zemědělec	Heřmanice u Oder	99	80	A
-8104	568562	1	5	901	5	Josef	Beck	M			50	OSVČ	Heřmanice u Oder	99	80	A
-8104	568562	1	5	901	6	Petra	Mazare	F			40	dělnice	Heřmanice u Oder	99	80	A
-8104	568562	1	5	901	7	Jiří	Jurdič	M			48	řidič	Heřmanice u Oder	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8104	568562	1	1	47	1	Emilie	Doubková			63	důchodce	Heřmanice u Oder	47	47	A	F
+8104	568562	1	2	903	1	Radek	Bosák			45	svářeč	Véska	99	80	A	M
+8104	568562	1	3	1	1	Vendula	Jarošová	Mgr.		38	starostka obce	Heřmanice u Oder	1	1	A	F
+8104	568562	1	4	902	1	Václav	Šíma	Ing.		32	konstruktér	Heřmanice u Oder	99	80	A	M
+8104	568562	1	5	901	1	František	Válek			51	soukromý zemědělec	Heřmanice u Oder	99	80	A	M
+8104	568562	1	1	47	2	Miroslava	Michálková Šálková	Mgr.		42	podnikatelka	Heřmanice u Oder	99	47	A	F
+8104	568562	1	2	903	2	Jana	Zimmerová			42	pedagog	Véska	99	80	A	F
+8104	568562	1	3	1	2	Pavel	Křenek			43	automechanik	Heřmanice u Oder	99	1	A	M
+8104	568562	1	4	902	2	David	Ptáček			25	svářeč	Heřmanice u Oder	99	80	A	M
+8104	568562	1	5	901	2	Stanislav	Ptáček			51	OSVČ	Heřmanice u Oder	99	80	A	M
+8104	568562	1	1	47	3	Bohuslava	Škutová			39	dělnice	Véska	99	47	A	F
+8104	568562	1	2	903	3	Alena	Vašková	MUDr.		65	zubní lékař	Véska	99	80	A	F
+8104	568562	1	3	1	3	Martin	Biskup			42	vedoucí prodejny	Heřmanice u Oder	1	1	A	M
+8104	568562	1	4	902	3	Jiří	Jurdič			22	student	Heřmanice u Oder	99	80	A	M
+8104	568562	1	5	901	3	Antonín	Fegler			28	elektrikář	Heřmanice u Oder	99	80	A	M
+8104	568562	1	1	47	4	Marcela	Švábíková			44	dělnice	Heřmanice u Oder	99	47	A	F
+8104	568562	1	2	903	4	Jaroslav	Bosák			46	svářeč	Véska	99	80	A	M
+8104	568562	1	3	1	4	Iveta	Vyvlečková			42	poštovní doručovatelka	Heřmanice u Oder	99	1	A	F
+8104	568562	1	4	902	4	Michal	Trčka			32	obsluha CNC	Heřmanice u Oder	99	80	A	M
+8104	568562	1	5	901	4	Petr	Sumega			42	soukromý zemědělec	Heřmanice u Oder	99	80	A	M
+8104	568562	1	1	47	5	Žaneta	Vašková			41	prodavačka	Heřmanice u Oder	99	47	A	F
+8104	568562	1	2	903	5	Václav	Marteček			23	svářeč	Véska	99	80	A	M
+8104	568562	1	3	1	5	Marcela	Křížová			43	obsluha CNC strojů	Heřmanice u Oder	99	1	A	F
+8104	568562	1	4	902	5	Karel	Ptáček			41	OSVČ	Heřmanice u Oder	99	80	A	M
+8104	568562	1	5	901	5	Josef	Beck			50	OSVČ	Heřmanice u Oder	99	80	A	M
+8104	568562	1	2	903	6	Dominik	Bosák			22	THP	Véska	99	80	A	M
+8104	568562	1	3	1	6	Linda	Trčková			27	asistentka ředitele	Heřmanice u Oder	99	1	A	F
+8104	568562	1	4	902	6	Jiří	Švábík			19	traktorista-opravář	Heřmanice u Oder	99	80	A	M
+8104	568562	1	5	901	6	Petra	Mazare			40	dělnice	Heřmanice u Oder	99	80	A	F
+8104	568562	1	2	903	7	Radek	Bosák			21	THP	Véska	99	80	A	M
+8104	568562	1	3	1	7	Dominik	Šíma			36	operátor CNC strojů	Heřmanice u Oder	99	1	A	M
+8104	568562	1	4	902	7	Josef	Mazare			19	student	Heřmanice u Oder	99	80	A	M
+8104	568562	1	5	901	7	Jiří	Jurdič			48	řidič	Heřmanice u Oder	99	80	A	M
+8104	568562	1	3	1	8	Jan	Špunda			38	vedoucí technického provozu	Heřmanice u Oder	99	1	A	M
+8104	568562	1	3	1	9	Markéta	Biskupová	Mgr.		31	všeobecná zdravotní sestra	Heřmanice u Oder	99	1	A	F

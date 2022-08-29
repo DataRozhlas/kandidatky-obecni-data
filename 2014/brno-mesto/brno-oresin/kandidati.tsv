@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6202	551422	1	1	7	1	Jiří	Havíř	M	Ing.		73	důchodce	Brno-Ořešín	7	7	0
-6202	551422	1	1	7	2	Vít	Suchý	M	MVDr.		62	důchodce	Brno-Ořešín	99	7	0
-6202	551422	1	1	7	3	Stanislav	Král	M			70	důchodce	Brno-Ořešín	99	7	0
-6202	551422	1	1	7	4	Jindřich	Zimmermann	M			36	podnikatel	Brno-Ořešín	7	7	0
-6202	551422	1	1	7	5	Miloš	Kučera	M			44	obchodní zástupce	Brno-Ořešín	99	7	0
-6202	551422	1	1	7	6	Jiří	Břenek	M			65	důchodce	Brno-Ořešín	7	7	0
-6202	551422	1	1	7	7	Miloslav	Hrnčíř	M			68	důchodce	Brno-Ořešín	7	7	0
-6202	551422	1	2	470	1	Jan	Levíček	M	Mgr.		45	starosta, projektový manažer	Brno-Ořešín	99	166	0
-6202	551422	1	2	470	2	Stanislav	Piják	M			63	důchodce, zastupitel městské části	Brno-Ořešín	99	80	0
-6202	551422	1	2	470	3	Zdeněk	Vávra	M			51	kuchař, zastupitel městské části	Brno-Ořešín	99	80	0
-6202	551422	1	2	470	4	Leoš	Kozohorský	M	Bc.		22	student, hospodář sboru dobrovolných hasičů	Brno-Ořešín	99	80	0
-6202	551422	1	2	470	5	František	Foret	M	Ing.	CSc.	57	vědecký pracovník	Brno-Ořešín	99	80	0
-6202	551422	1	2	470	6	Gabriela	Peringerová	F			39	šéfredaktorka novin	Brno-Ořešín	99	80	0
-6202	551422	1	2	470	7	Josef	Stodůlka	M			56	soukromý zemědělec	Brno-Ořešín	99	80	0
-6202	551422	1	2	470	8	Pavel	Vacek-Veselý	M	Ing.		54	podnikatel	Brno-Ořešín	99	80	0
-6202	551422	1	3	5	1	Mojmír	Vlašín	M	RNDr.		59	ekolog, vysokoškolský pedagog	Brno-Ořešín	99	5	0
-6202	551422	1	3	5	2	Naděžda	Johanisová	F	RNDr.	Ph.D.	58	vysokoškolská pedagožka	Brno-Ořešín	5	5	0
-6202	551422	1	3	5	3	Jiří	Havíř	M			47	podnikatel	Brno-Ořešín	99	5	0
-6202	551422	1	3	5	4	Libuše	Pazderková	F	Bc.		53	technik	Brno-Ořešín	99	5	0
-6202	551422	1	3	5	5	Stanislav	Rejman	M	Ing.		55	softwarový specialista	Brno-Ořešín	99	5	0
-6202	551422	1	3	5	6	Milena	Pišlová	F			62	důchodkyně	Brno-Ořešín	99	5	0
-6202	551422	1	3	5	7	Vladimír	Kaprál	M	MUDr.		56	lékař	Brno-Ořešín	99	5	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6202	551422	1	1	7	1	Jiří	Havíř	Ing.		73	důchodce	Brno-Ořešín	7	7	0	M
+6202	551422	1	2	470	1	Jan	Levíček	Mgr.		45	starosta, projektový manažer	Brno-Ořešín	99	166	0	M
+6202	551422	1	3	5	1	Mojmír	Vlašín	RNDr.		59	ekolog, vysokoškolský pedagog	Brno-Ořešín	99	5	0	M
+6202	551422	1	1	7	2	Vít	Suchý	MVDr.		62	důchodce	Brno-Ořešín	99	7	0	M
+6202	551422	1	2	470	2	Stanislav	Piják			63	důchodce, zastupitel městské části	Brno-Ořešín	99	80	0	M
+6202	551422	1	3	5	2	Naděžda	Johanisová	RNDr.	Ph.D.	58	vysokoškolská pedagožka	Brno-Ořešín	5	5	0	F
+6202	551422	1	1	7	3	Stanislav	Král			70	důchodce	Brno-Ořešín	99	7	0	M
+6202	551422	1	2	470	3	Zdeněk	Vávra			51	kuchař, zastupitel městské části	Brno-Ořešín	99	80	0	M
+6202	551422	1	3	5	3	Jiří	Havíř			47	podnikatel	Brno-Ořešín	99	5	0	M
+6202	551422	1	1	7	4	Jindřich	Zimmermann			36	podnikatel	Brno-Ořešín	7	7	0	M
+6202	551422	1	2	470	4	Leoš	Kozohorský	Bc.		22	student, hospodář sboru dobrovolných hasičů	Brno-Ořešín	99	80	0	M
+6202	551422	1	3	5	4	Libuše	Pazderková	Bc.		53	technik	Brno-Ořešín	99	5	0	F
+6202	551422	1	1	7	5	Miloš	Kučera			44	obchodní zástupce	Brno-Ořešín	99	7	0	M
+6202	551422	1	2	470	5	František	Foret	Ing.	CSc.	57	vědecký pracovník	Brno-Ořešín	99	80	0	M
+6202	551422	1	3	5	5	Stanislav	Rejman	Ing.		55	softwarový specialista	Brno-Ořešín	99	5	0	M
+6202	551422	1	1	7	6	Jiří	Břenek			65	důchodce	Brno-Ořešín	7	7	0	M
+6202	551422	1	2	470	6	Gabriela	Peringerová			39	šéfredaktorka novin	Brno-Ořešín	99	80	0	F
+6202	551422	1	3	5	6	Milena	Pišlová			62	důchodkyně	Brno-Ořešín	99	5	0	F
+6202	551422	1	1	7	7	Miloslav	Hrnčíř			68	důchodce	Brno-Ořešín	7	7	0	M
+6202	551422	1	2	470	7	Josef	Stodůlka			56	soukromý zemědělec	Brno-Ořešín	99	80	0	M
+6202	551422	1	3	5	7	Vladimír	Kaprál	MUDr.		56	lékař	Brno-Ořešín	99	5	0	M
+6202	551422	1	2	470	8	Pavel	Vacek-Veselý	Ing.		54	podnikatel	Brno-Ořešín	99	80	0	M

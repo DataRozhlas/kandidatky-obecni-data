@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6103	547778	1	1	53	1	Dušan	Obranec	M			49	místostarosta	Červená Řečice	99	53	A
-6103	547778	1	1	53	2	Ivan	Dvořák	M			63	pojišťovací poradce	Červená Řečice	99	53	A
-6103	547778	1	1	53	3	Pavel	Pekárek	M			46	vedoucí servisu - Agrostroj Pelhřimov	Červená Řečice	99	53	A
-6103	547778	1	1	53	4	Pavel	Štekl	M	Ing.		62	soukromý zemědělec	Červená Řečice	99	53	A
-6103	547778	1	1	53	5	Karel	Hovorka	M			38	manažer prodeje	Červená Řečice	99	53	A
-6103	547778	1	1	53	6	Michal	Bezstarosta	M	Bc.	Dipl. Um.	45	zástupce ředitele ZUŠ Pelhřimov	Červená Řečice	99	53	A
-6103	547778	1	1	53	7	Lukáš	Ardolf	M			44	obchodní zástupce	Milotičky	99	53	A
-6103	547778	1	1	53	8	Bronislav	Beran	M			48	vedoucí svařovny - Agrostroj Pelhřimov	Červená Řečice	99	53	A
-6103	547778	1	1	53	9	Václav	Makovec	M	Mgr.		38	právník	Červená Řečice	99	53	A
-6103	547778	1	1	53	10	Jan	Chuchel	M			32	soukromý zemědělec	Popelištná	99	53	A
-6103	547778	1	1	53	11	Tomáš	Obranec	M			26	živnostník	Červená Řečice	99	53	A
-6103	547778	1	1	53	12	Pavel	Němec	M			43	mechanik	Červená Řečice	99	53	A
-6103	547778	1	1	53	13	Václav	Jilek	M			62	živnostník	Červená Řečice	99	53	A
-6103	547778	1	1	53	14	Karel	Radina	M			58	logistik	Červená Řečice	99	53	A
-6103	547778	1	1	53	15	Jan	Chuchel	M			61	soukromý zemědělec	Popelištná	99	53	A
-6103	547778	1	2	1114	1	Pavel	Poulíček	M			61	zaměstnanec SU - České Budějovice	Červená Řečice	1114	1114	A
-6103	547778	1	2	1114	2	Patrik	Krbec	M			44	montážní dělník	Červená Řečice	1114	1114	A
-6103	547778	1	2	1114	3	Jana	Poulíčková	F			75	pracovník výroby uzenin	Červená Řečice	99	1114	A
-6103	547778	1	3	129	1	Zdeňka	Bečková	F			63	starostka	Zmišovice	99	129	A
-6103	547778	1	3	129	2	Miroslav	Straka	M			49	mistr nástrojárny	Červená Řečice	99	129	A
-6103	547778	1	3	129	3	Zdeněk	Bečka	M	Ing.		39	obchodní ředitel	Zmišovice	99	129	A
-6103	547778	1	3	129	4	Jaroslava	Novotná	F	Mgr.		60	učitelka	Těchoraz	99	129	A
-6103	547778	1	3	129	5	Hana	Vlková	F	Ing.		61	vedoucí útvaru řízení jakosti	Červená Řečice	99	129	A
-6103	547778	1	3	129	6	Marcela	Davidová	F			53	úřednice správy hřbitova	Červená Řečice	99	129	A
-6103	547778	1	3	129	7	Lucie	Kudrnová	F			38	cukrářka	Popelištná	99	129	A
-6103	547778	1	3	129	8	Vlasta	Pavelková	F			64	důchodce	Červená Řečice	99	129	A
-6103	547778	1	3	129	9	Ludmila	Černovská	F			68	důchodce	Červená Řečice	99	129	A
-6103	547778	1	3	129	10	Jana	Buchtová	F			56	prodejce	Červená Řečice	99	129	A
-6103	547778	1	3	129	11	Petr	Šiman	M			41	OSVČ	Červená Řečice	99	129	A
-6103	547778	1	3	129	12	Jaroslav	Kaňka	M			37	lesník	Červená Řečice	99	129	A
-6103	547778	1	3	129	13	Lukáš	Vonderka	M			35	dispečer MKD	Červená Řečice	99	129	A
-6103	547778	1	3	129	14	Michaela	Křížová	F	Bc.		40	zdravotní sestra	Červená Řečice	99	129	A
-6103	547778	1	3	129	15	Marta	Hypšová	F	Mgr.		34	učitelka	Červená Řečice	99	129	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6103	547778	1	1	53	1	Dušan	Obranec			49	místostarosta	Červená Řečice	99	53	A	M
+6103	547778	1	2	1114	1	Pavel	Poulíček			61	zaměstnanec SU - České Budějovice	Červená Řečice	1114	1114	A	M
+6103	547778	1	3	129	1	Zdeňka	Bečková			63	starostka	Zmišovice	99	129	A	F
+6103	547778	1	1	53	2	Ivan	Dvořák			63	pojišťovací poradce	Červená Řečice	99	53	A	M
+6103	547778	1	2	1114	2	Patrik	Krbec			44	montážní dělník	Červená Řečice	1114	1114	A	M
+6103	547778	1	3	129	2	Miroslav	Straka			49	mistr nástrojárny	Červená Řečice	99	129	A	M
+6103	547778	1	1	53	3	Pavel	Pekárek			46	vedoucí servisu - Agrostroj Pelhřimov	Červená Řečice	99	53	A	M
+6103	547778	1	2	1114	3	Jana	Poulíčková			75	pracovník výroby uzenin	Červená Řečice	99	1114	A	F
+6103	547778	1	3	129	3	Zdeněk	Bečka	Ing.		39	obchodní ředitel	Zmišovice	99	129	A	M
+6103	547778	1	1	53	4	Pavel	Štekl	Ing.		62	soukromý zemědělec	Červená Řečice	99	53	A	M
+6103	547778	1	3	129	4	Jaroslava	Novotná	Mgr.		60	učitelka	Těchoraz	99	129	A	F
+6103	547778	1	1	53	5	Karel	Hovorka			38	manažer prodeje	Červená Řečice	99	53	A	M
+6103	547778	1	3	129	5	Hana	Vlková	Ing.		61	vedoucí útvaru řízení jakosti	Červená Řečice	99	129	A	F
+6103	547778	1	1	53	6	Michal	Bezstarosta	Bc.	Dipl. Um.	45	zástupce ředitele ZUŠ Pelhřimov	Červená Řečice	99	53	A	M
+6103	547778	1	3	129	6	Marcela	Davidová			53	úřednice správy hřbitova	Červená Řečice	99	129	A	F
+6103	547778	1	1	53	7	Lukáš	Ardolf			44	obchodní zástupce	Milotičky	99	53	A	M
+6103	547778	1	3	129	7	Lucie	Kudrnová			38	cukrářka	Popelištná	99	129	A	F
+6103	547778	1	1	53	8	Bronislav	Beran			48	vedoucí svařovny - Agrostroj Pelhřimov	Červená Řečice	99	53	A	M
+6103	547778	1	3	129	8	Vlasta	Pavelková			64	důchodce	Červená Řečice	99	129	A	F
+6103	547778	1	1	53	9	Václav	Makovec	Mgr.		38	právník	Červená Řečice	99	53	A	M
+6103	547778	1	3	129	9	Ludmila	Černovská			68	důchodce	Červená Řečice	99	129	A	F
+6103	547778	1	1	53	10	Jan	Chuchel			32	soukromý zemědělec	Popelištná	99	53	A	M
+6103	547778	1	3	129	10	Jana	Buchtová			56	prodejce	Červená Řečice	99	129	A	F
+6103	547778	1	1	53	11	Tomáš	Obranec			26	živnostník	Červená Řečice	99	53	A	M
+6103	547778	1	3	129	11	Petr	Šiman			41	OSVČ	Červená Řečice	99	129	A	M
+6103	547778	1	1	53	12	Pavel	Němec			43	mechanik	Červená Řečice	99	53	A	M
+6103	547778	1	3	129	12	Jaroslav	Kaňka			37	lesník	Červená Řečice	99	129	A	M
+6103	547778	1	1	53	13	Václav	Jilek			62	živnostník	Červená Řečice	99	53	A	M
+6103	547778	1	3	129	13	Lukáš	Vonderka			35	dispečer MKD	Červená Řečice	99	129	A	M
+6103	547778	1	1	53	14	Karel	Radina			58	logistik	Červená Řečice	99	53	A	M
+6103	547778	1	3	129	14	Michaela	Křížová	Bc.		40	zdravotní sestra	Červená Řečice	99	129	A	F
+6103	547778	1	1	53	15	Jan	Chuchel			61	soukromý zemědělec	Popelištná	99	53	A	M
+6103	547778	1	3	129	15	Marta	Hypšová	Mgr.		34	učitelka	Červená Řečice	99	129	A	F

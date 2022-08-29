@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	596833	1	1	802	1	Petr	Tomášek	M	Ing.		31	OSVČ	Sulkovec	99	80	0
-6105	596833	1	2	1	1	Jiří	Jílek	M			47	podnikatel	Sulkovec	99	1	0
-6105	596833	1	2	1	2	Jarmila	Šimková	F			54	dělnice	Sulkovec	99	1	0
-6105	596833	1	2	1	3	Marie	Jandlová	F			56	dělnice	Sulkovec	99	1	0
-6105	596833	1	2	1	4	Pavel	Jílek	M	Ing.		51	zemědělec	Sulkovec	99	1	0
-6105	596833	1	2	1	5	Jaroslav	Krčil	M			55	státní zaměstnanec	Sulkovec	99	1	0
-6105	596833	1	2	1	6	Pavel	Schaffer	M			51	zemědělec	Sulkovec	99	1	0
-6105	596833	1	3	801	1	Michal	Budig	M	Mgr.		31	učitel	Sulkovec	99	80	0
-6105	596833	1	4	901	1	Věra	Bělehradová	F			28	mateřská dovolená	Polom	99	80	0
-6105	596833	1	4	901	2	Miloslav	Vala	M			59	řidič SÚS	Polom	99	80	0
-6105	596833	1	4	901	3	Pavel	Dobrovský	M			41	strojní zámečník	Polom	99	80	0
-6105	596833	1	4	901	4	Věra	Ambrožová	F			53	dělnice	Polom	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	596833	1	1	802	1	Petr	Tomášek	Ing.		31	OSVČ	Sulkovec	99	80	0	M
+6105	596833	1	2	1	1	Jiří	Jílek			47	podnikatel	Sulkovec	99	1	0	M
+6105	596833	1	3	801	1	Michal	Budig	Mgr.		31	učitel	Sulkovec	99	80	0	M
+6105	596833	1	4	901	1	Věra	Bělehradová			28	mateřská dovolená	Polom	99	80	0	F
+6105	596833	1	2	1	2	Jarmila	Šimková			54	dělnice	Sulkovec	99	1	0	F
+6105	596833	1	4	901	2	Miloslav	Vala			59	řidič SÚS	Polom	99	80	0	M
+6105	596833	1	2	1	3	Marie	Jandlová			56	dělnice	Sulkovec	99	1	0	F
+6105	596833	1	4	901	3	Pavel	Dobrovský			41	strojní zámečník	Polom	99	80	0	M
+6105	596833	1	2	1	4	Pavel	Jílek	Ing.		51	zemědělec	Sulkovec	99	1	0	M
+6105	596833	1	4	901	4	Věra	Ambrožová			53	dělnice	Polom	99	80	0	F
+6105	596833	1	2	1	5	Jaroslav	Krčil			55	státní zaměstnanec	Sulkovec	99	1	0	M
+6105	596833	1	2	1	6	Pavel	Schaffer			51	zemědělec	Sulkovec	99	1	0	M

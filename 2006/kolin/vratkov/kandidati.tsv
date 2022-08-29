@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2104	564826	1	1	901	1	Petr	Košař	M	MVDr.		42	veterinář	Vrátkov	99	80	0
-2104	564826	1	1	901	2	Václav	Pažout	M	Ing.		39	stavební technik	Vrátkov	99	80	0
-2104	564826	1	1	901	3	Monika	Benešovská	F			44	účetní	Vrátkov	99	80	0
-2104	564826	1	1	901	4	Eva	Mulicová	F			50	v domácnosti	Vrátkov	99	80	0
-2104	564826	1	1	901	5	Dana	Susová	F			54	soukromý podnikatel	Vrátkov	99	80	0
-2104	564826	1	1	901	6	Miroslava	Černá	F			53	expedientka	Vrátkov	99	80	0
-2104	564826	1	1	901	7	Zdeněk	Sklenář	M			26	vedoucí prodejny	Vrátkov	99	80	0
-2104	564826	1	1	901	8	Magda	Kalitová	F			48	hospodářka	Vrátkov	99	80	0
-2104	564826	1	2	902	1	Luděk	Kratochvíl	M			47	traktorista	Vrátkov	99	80	0
-2104	564826	1	2	902	2	Jaroslava	Krutská	F			45	diplomovaný terapeut	Vrátkov	99	80	0
-2104	564826	1	2	902	3	Jiří	Rišlink	M			28	servisní technik	Vrátkov	99	80	0
-2104	564826	1	2	902	4	Jaroslava	Francová	F			37	úřednice	Vrátkov	99	80	0
-2104	564826	1	2	902	5	Jana	Cedlová	F	Ing.		62	důchodkyně	Vrátkov	99	80	0
-2104	564826	1	2	902	6	Radek	Rozmbach	M			34	soukromý podnikatel	Vrátkov	99	80	0
-2104	564826	1	2	902	7	Aleš	Doležal	M			31	zámečník	Vrátkov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2104	564826	1	1	901	1	Petr	Košař	MVDr.		42	veterinář	Vrátkov	99	80	0	M
+2104	564826	1	2	902	1	Luděk	Kratochvíl			47	traktorista	Vrátkov	99	80	0	M
+2104	564826	1	1	901	2	Václav	Pažout	Ing.		39	stavební technik	Vrátkov	99	80	0	M
+2104	564826	1	2	902	2	Jaroslava	Krutská			45	diplomovaný terapeut	Vrátkov	99	80	0	F
+2104	564826	1	1	901	3	Monika	Benešovská			44	účetní	Vrátkov	99	80	0	F
+2104	564826	1	2	902	3	Jiří	Rišlink			28	servisní technik	Vrátkov	99	80	0	M
+2104	564826	1	1	901	4	Eva	Mulicová			50	v domácnosti	Vrátkov	99	80	0	F
+2104	564826	1	2	902	4	Jaroslava	Francová			37	úřednice	Vrátkov	99	80	0	F
+2104	564826	1	1	901	5	Dana	Susová			54	soukromý podnikatel	Vrátkov	99	80	0	F
+2104	564826	1	2	902	5	Jana	Cedlová	Ing.		62	důchodkyně	Vrátkov	99	80	0	F
+2104	564826	1	1	901	6	Miroslava	Černá			53	expedientka	Vrátkov	99	80	0	F
+2104	564826	1	2	902	6	Radek	Rozmbach			34	soukromý podnikatel	Vrátkov	99	80	0	M
+2104	564826	1	1	901	7	Zdeněk	Sklenář			26	vedoucí prodejny	Vrátkov	99	80	0	M
+2104	564826	1	2	902	7	Aleš	Doležal			31	zámečník	Vrátkov	99	80	0	M
+2104	564826	1	1	901	8	Magda	Kalitová			48	hospodářka	Vrátkov	99	80	0	F

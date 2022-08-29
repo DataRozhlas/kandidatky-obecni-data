@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6104	591866	1	1	902	1	Josef	Bárta	M			51	vedoucí obchodu	Třebenice	99	80	A
-6104	591866	1	1	902	2	Jan	Novák	M	Mgr.		29	specialista řízení radiačních rizik	Třebenice	99	80	A
-6104	591866	1	1	902	3	Jaroslav	Fučík	M			53	technik	Třebenice	99	80	A
-6104	591866	1	1	902	4	Denisa	Bártová	F	Bc.		23	referent	Třebenice	99	80	A
-6104	591866	1	1	902	5	Ladislav	Svoboda	M	Bc.		46	zdravotník	Třebenice	99	80	A
-6104	591866	1	1	902	6	Petra	Blažková	F			32	recepční hotelu	Třebenice	99	80	A
-6104	591866	1	2	901	1	Petr	Novák	M			52	OSVČ	Třebenice	99	80	A
-6104	591866	1	2	901	2	Jindřich	Sobotka	M	Ing.	Ph.D.	34	odborný asistent VUT	Třebenice	99	80	A
-6104	591866	1	2	901	3	Jiří	Paseka	M			54	manager	Plešice	99	80	A
-6104	591866	1	2	901	4	Vlastimil	Fiala	M			56	OSVČ	Třebenice	99	80	A
-6104	591866	1	2	901	5	Pavel	Vrbka	M			48	ředitel firmy	Třebenice	99	80	A
-6104	591866	1	2	901	6	Vladan	Blažek	M			39	technik	Třebenice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6104	591866	1	1	902	1	Josef	Bárta			51	vedoucí obchodu	Třebenice	99	80	A	M
+6104	591866	1	2	901	1	Petr	Novák			52	OSVČ	Třebenice	99	80	A	M
+6104	591866	1	1	902	2	Jan	Novák	Mgr.		29	specialista řízení radiačních rizik	Třebenice	99	80	A	M
+6104	591866	1	2	901	2	Jindřich	Sobotka	Ing.	Ph.D.	34	odborný asistent VUT	Třebenice	99	80	A	M
+6104	591866	1	1	902	3	Jaroslav	Fučík			53	technik	Třebenice	99	80	A	M
+6104	591866	1	2	901	3	Jiří	Paseka			54	manager	Plešice	99	80	A	M
+6104	591866	1	1	902	4	Denisa	Bártová	Bc.		23	referent	Třebenice	99	80	A	F
+6104	591866	1	2	901	4	Vlastimil	Fiala			56	OSVČ	Třebenice	99	80	A	M
+6104	591866	1	1	902	5	Ladislav	Svoboda	Bc.		46	zdravotník	Třebenice	99	80	A	M
+6104	591866	1	2	901	5	Pavel	Vrbka			48	ředitel firmy	Třebenice	99	80	A	M
+6104	591866	1	1	902	6	Petra	Blažková			32	recepční hotelu	Třebenice	99	80	A	F
+6104	591866	1	2	901	6	Vladan	Blažek			39	technik	Třebenice	99	80	A	M

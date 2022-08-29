@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	544744	1	1	904	1	Jiří	Ježek	M	Ing.		53	soukromý zemědělec	Spolí	99	80	0
-3101	544744	1	1	904	2	Pavel	Leyer	M			51	mechanik	Spolí	99	80	0
-3101	544744	1	1	904	3	Martin	Ježek	M			21	student	Spolí	99	80	0
-3101	544744	1	1	904	4	Jan	Čada	M			54	technik	Spolí	99	80	0
-3101	544744	1	1	904	5	František	Brož	M	Ing.		31	státní zaměstnanec	Spolí	99	80	0
-3101	544744	1	1	904	6	Václav	Vlášek	M			57	zedník	Spolí	99	80	0
-3101	544744	1	2	901	1	Zdeněk	Koukal	M			50	dělník	Slavošovice	99	80	0
-3101	544744	1	2	901	2	Josef	Adamík	M			50	manažer	Slavošovice	99	80	0
-3101	544744	1	2	901	3	Svatopluk	Pluskal	M			60	dělník	Slavošovice	99	80	0
-3101	544744	1	2	901	4	Karel	Kouba	M			24	dělník	Slavošovice	99	80	0
-3101	544744	1	2	901	5	Josef	Adamík	M			20	dělník	Slavošovice	99	80	0
-3101	544744	1	2	901	6	Jindřiška	Koukalová	F			48	dělnice	Slavošovice	99	80	0
-3101	544744	1	2	901	7	Petr	Kouba	M			21	dělník	Slavošovice	99	80	0
-3101	544744	1	2	901	8	Cyril	Onderka	M			23	dělník	Slavošovice	99	80	0
-3101	544744	1	2	901	9	Zdeněk	Koukal	M			30	dělník	Slavošovice	99	80	0
-3101	544744	1	3	902	1	Václav	Ludvík	M			60	starosta	Spolí	99	80	0
-3101	544744	1	3	902	2	Pavel	Bláha	M			48	podnikatel	Libín	99	80	0
-3101	544744	1	3	902	3	Josef	Candra	M			41	opravář	Libín	99	80	0
-3101	544744	1	3	902	4	Josef	Jáchim	M			27	traktorista	Libín	99	80	0
-3101	544744	1	3	902	5	Miroslav	Matuška	M	Ing.		29	ekonom	Libín	99	80	0
-3101	544744	1	3	902	6	Jan	Pavlík	M			53	zedník	Libín	99	80	0
-3101	544744	1	3	902	7	František	Kubíček	M			35	traktorista	Libín	99	80	0
-3101	544744	1	3	902	8	Jiří	Trousil	M			37	podnikatel	Libín	99	80	0
-3101	544744	1	4	903	1	Marie	Smetanová	F			53	administrativní pracovnice	Slavošovice	99	80	0
-3101	544744	1	4	903	2	Jan	Koranda	M			58	soukromý zemědělec	Spolí	99	80	0
-3101	544744	1	4	903	3	Aleš	Černák	M			26	podnikatel	Libín	99	80	0
-3101	544744	1	4	903	4	Karel	Nemrava	M			29	skladník	Slavošovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	544744	1	1	904	1	Jiří	Ježek	Ing.		53	soukromý zemědělec	Spolí	99	80	0	M
+3101	544744	1	2	901	1	Zdeněk	Koukal			50	dělník	Slavošovice	99	80	0	M
+3101	544744	1	3	902	1	Václav	Ludvík			60	starosta	Spolí	99	80	0	M
+3101	544744	1	4	903	1	Marie	Smetanová			53	administrativní pracovnice	Slavošovice	99	80	0	F
+3101	544744	1	1	904	2	Pavel	Leyer			51	mechanik	Spolí	99	80	0	M
+3101	544744	1	2	901	2	Josef	Adamík			50	manažer	Slavošovice	99	80	0	M
+3101	544744	1	3	902	2	Pavel	Bláha			48	podnikatel	Libín	99	80	0	M
+3101	544744	1	4	903	2	Jan	Koranda			58	soukromý zemědělec	Spolí	99	80	0	M
+3101	544744	1	1	904	3	Martin	Ježek			21	student	Spolí	99	80	0	M
+3101	544744	1	2	901	3	Svatopluk	Pluskal			60	dělník	Slavošovice	99	80	0	M
+3101	544744	1	3	902	3	Josef	Candra			41	opravář	Libín	99	80	0	M
+3101	544744	1	4	903	3	Aleš	Černák			26	podnikatel	Libín	99	80	0	M
+3101	544744	1	1	904	4	Jan	Čada			54	technik	Spolí	99	80	0	M
+3101	544744	1	2	901	4	Karel	Kouba			24	dělník	Slavošovice	99	80	0	M
+3101	544744	1	3	902	4	Josef	Jáchim			27	traktorista	Libín	99	80	0	M
+3101	544744	1	4	903	4	Karel	Nemrava			29	skladník	Slavošovice	99	80	0	M
+3101	544744	1	1	904	5	František	Brož	Ing.		31	státní zaměstnanec	Spolí	99	80	0	M
+3101	544744	1	2	901	5	Josef	Adamík			20	dělník	Slavošovice	99	80	0	M
+3101	544744	1	3	902	5	Miroslav	Matuška	Ing.		29	ekonom	Libín	99	80	0	M
+3101	544744	1	1	904	6	Václav	Vlášek			57	zedník	Spolí	99	80	0	M
+3101	544744	1	2	901	6	Jindřiška	Koukalová			48	dělnice	Slavošovice	99	80	0	F
+3101	544744	1	3	902	6	Jan	Pavlík			53	zedník	Libín	99	80	0	M
+3101	544744	1	2	901	7	Petr	Kouba			21	dělník	Slavošovice	99	80	0	M
+3101	544744	1	3	902	7	František	Kubíček			35	traktorista	Libín	99	80	0	M
+3101	544744	1	2	901	8	Cyril	Onderka			23	dělník	Slavošovice	99	80	0	M
+3101	544744	1	3	902	8	Jiří	Trousil			37	podnikatel	Libín	99	80	0	M
+3101	544744	1	2	901	9	Zdeněk	Koukal			30	dělník	Slavošovice	99	80	0	M

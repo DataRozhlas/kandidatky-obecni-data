@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	554898	1	1	901	1	Martin	Souček	M	Ing.		31	vysokoškolský učitel	Rostěnice	99	80	0
-6206	554898	1	1	901	2	Věra	Čechová	F			39	kadeřnice	Rostěnice	99	80	0
-6206	554898	1	1	901	3	Jiří	Žiška	M	Ing.		27	informatik	Zvonovice	99	80	0
-6206	554898	1	1	901	4	Petr	Smejkal	M			38	obsluha CNC strojů	Zvonovice	99	80	0
-6206	554898	1	1	901	5	Miroslav	Staněk	M			34	obsluha CNC strojů	Zvonovice	99	80	0
-6206	554898	1	1	901	6	Marie	Novotná	F			41	zdravotní sestra	Zvonovice	99	80	0
-6206	554898	1	1	901	7	Lubomír	Pejchal	M			60	prodavač	Rostěnice	99	80	0
-6206	554898	1	2	53	1	Roman	Petřík	M			35	automechanik	Zvonovice	99	53	0
-6206	554898	1	2	53	2	Jiří	Marák	M	Ing.		46	rolník	Zvonovice	53	53	0
-6206	554898	1	2	53	3	Gabriela	Ryšánková	F			31	vážná	Zvonovice	99	53	0
-6206	554898	1	2	53	4	Jiří	Moucha	M			47	celní deklarant	Rostěnice	53	53	0
-6206	554898	1	2	53	5	Vlastimil	Doležel	M			42	svářeč	Rostěnice	99	53	0
-6206	554898	1	2	53	6	Oldřich	Lozrt	M			54	živnostník	Rostěnice	99	53	0
-6206	554898	1	2	53	7	Jan	Moucha	M			40	technik	Rostěnice	53	53	0
-6206	554898	1	3	1	1	Marie	Slavíková	F			51	starostka	Rostěnice	1	1	0
-6206	554898	1	3	1	2	Karel	Bajczar	M			32	zedník	Rostěnice	99	1	0
-6206	554898	1	3	1	3	Olga	Vojcíková	F			53	školnice	Rostěnice	1	1	0
-6206	554898	1	3	1	4	Gabriela	Petlachová	F			32	administrativní pracovnice	Zvonovice	1	1	0
-6206	554898	1	3	1	5	Jiří	Janda	M	Ing.		28	vysokoškolský pedagog	Rostěnice	99	1	0
-6206	554898	1	3	1	6	Naděžda	Vágnerová	F			51	dělnice	Rostěnice	1	1	0
-6206	554898	1	3	1	7	Jarmila	Stuchlíková	F			56	důchodkyně	Zvonovice	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	554898	1	1	901	1	Martin	Souček	Ing.		31	vysokoškolský učitel	Rostěnice	99	80	0	M
+6206	554898	1	2	53	1	Roman	Petřík			35	automechanik	Zvonovice	99	53	0	M
+6206	554898	1	3	1	1	Marie	Slavíková			51	starostka	Rostěnice	1	1	0	F
+6206	554898	1	1	901	2	Věra	Čechová			39	kadeřnice	Rostěnice	99	80	0	F
+6206	554898	1	2	53	2	Jiří	Marák	Ing.		46	rolník	Zvonovice	53	53	0	M
+6206	554898	1	3	1	2	Karel	Bajczar			32	zedník	Rostěnice	99	1	0	M
+6206	554898	1	1	901	3	Jiří	Žiška	Ing.		27	informatik	Zvonovice	99	80	0	M
+6206	554898	1	2	53	3	Gabriela	Ryšánková			31	vážná	Zvonovice	99	53	0	F
+6206	554898	1	3	1	3	Olga	Vojcíková			53	školnice	Rostěnice	1	1	0	F
+6206	554898	1	1	901	4	Petr	Smejkal			38	obsluha CNC strojů	Zvonovice	99	80	0	M
+6206	554898	1	2	53	4	Jiří	Moucha			47	celní deklarant	Rostěnice	53	53	0	M
+6206	554898	1	3	1	4	Gabriela	Petlachová			32	administrativní pracovnice	Zvonovice	1	1	0	F
+6206	554898	1	1	901	5	Miroslav	Staněk			34	obsluha CNC strojů	Zvonovice	99	80	0	M
+6206	554898	1	2	53	5	Vlastimil	Doležel			42	svářeč	Rostěnice	99	53	0	M
+6206	554898	1	3	1	5	Jiří	Janda	Ing.		28	vysokoškolský pedagog	Rostěnice	99	1	0	M
+6206	554898	1	1	901	6	Marie	Novotná			41	zdravotní sestra	Zvonovice	99	80	0	F
+6206	554898	1	2	53	6	Oldřich	Lozrt			54	živnostník	Rostěnice	99	53	0	M
+6206	554898	1	3	1	6	Naděžda	Vágnerová			51	dělnice	Rostěnice	1	1	0	F
+6206	554898	1	1	901	7	Lubomír	Pejchal			60	prodavač	Rostěnice	99	80	0	M
+6206	554898	1	2	53	7	Jan	Moucha			40	technik	Rostěnice	53	53	0	M
+6206	554898	1	3	1	7	Jarmila	Stuchlíková			56	důchodkyně	Zvonovice	99	1	0	F

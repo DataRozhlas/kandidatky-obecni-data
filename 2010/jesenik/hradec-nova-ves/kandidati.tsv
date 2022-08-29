@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7101	553301	1	1	53	1	Pavel	Stejskal	M			40	starosta obce	Hradec-Nová Ves	53	53	0
-7101	553301	1	1	53	2	Jana	Vaníčková	F			63	místostarostka obce	Hradec-Nová Ves	53	53	0
-7101	553301	1	1	53	3	Miroslav	Šoltys	M			28	zástupce vedoucího	Hradec-Nová Ves	53	53	0
-7101	553301	1	1	53	4	Ivana	Foitová	F			54	zástupce vedoucí	Hradec-Nová Ves	99	53	0
-7101	553301	1	1	53	5	Radek	Šula	M			44	řidič	Hradec-Nová Ves	99	53	0
-7101	553301	1	1	53	6	Radomír	Mádr	M			49	podnikatel	Hradec-Nová Ves	99	53	0
-7101	553301	1	1	53	7	Radek	Laňka	M			29	provozní elektrikář	Hradec-Nová Ves	99	53	0
-7101	553301	1	2	901	1	Tomáš	Baier	M			27	mistr	Hradec-Nová Ves	99	80	0
-7101	553301	1	2	901	2	Zdeněk	Přecechtěl	M			64	podnikatel	Hradec-Nová Ves	99	80	0
-7101	553301	1	2	901	3	Jiří	Hacura	M			51	místostarosta	Hradec-Nová Ves	99	80	0
-7101	553301	1	2	901	4	Pavel	Mrnůštík	M	Ing.		47	technik	Hradec-Nová Ves	99	80	0
-7101	553301	1	2	901	5	Leona	Štěrbová	F			34	prodavačka	Hradec-Nová Ves	99	80	0
-7101	553301	1	2	901	6	Evelyna	Vozábalová	F			55	státní zaměstnanec	Hradec-Nová Ves	99	80	0
-7101	553301	1	2	901	7	Gabriela	Morongová	F			30	prodavačka	Hradec-Nová Ves	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7101	553301	1	1	53	1	Pavel	Stejskal			40	starosta obce	Hradec-Nová Ves	53	53	0	M
+7101	553301	1	2	901	1	Tomáš	Baier			27	mistr	Hradec-Nová Ves	99	80	0	M
+7101	553301	1	1	53	2	Jana	Vaníčková			63	místostarostka obce	Hradec-Nová Ves	53	53	0	F
+7101	553301	1	2	901	2	Zdeněk	Přecechtěl			64	podnikatel	Hradec-Nová Ves	99	80	0	M
+7101	553301	1	1	53	3	Miroslav	Šoltys			28	zástupce vedoucího	Hradec-Nová Ves	53	53	0	M
+7101	553301	1	2	901	3	Jiří	Hacura			51	místostarosta	Hradec-Nová Ves	99	80	0	M
+7101	553301	1	1	53	4	Ivana	Foitová			54	zástupce vedoucí	Hradec-Nová Ves	99	53	0	F
+7101	553301	1	2	901	4	Pavel	Mrnůštík	Ing.		47	technik	Hradec-Nová Ves	99	80	0	M
+7101	553301	1	1	53	5	Radek	Šula			44	řidič	Hradec-Nová Ves	99	53	0	M
+7101	553301	1	2	901	5	Leona	Štěrbová			34	prodavačka	Hradec-Nová Ves	99	80	0	F
+7101	553301	1	1	53	6	Radomír	Mádr			49	podnikatel	Hradec-Nová Ves	99	53	0	M
+7101	553301	1	2	901	6	Evelyna	Vozábalová			55	státní zaměstnanec	Hradec-Nová Ves	99	80	0	F
+7101	553301	1	1	53	7	Radek	Laňka			29	provozní elektrikář	Hradec-Nová Ves	99	53	0	M
+7101	553301	1	2	901	7	Gabriela	Morongová			30	prodavačka	Hradec-Nová Ves	99	80	0	F

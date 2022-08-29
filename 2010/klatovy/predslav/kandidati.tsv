@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3202	557005	1	1	902	1	Václav	Blahouš	M	Ing.		51	agronom	Předslav	99	80	0
-3202	557005	1	1	902	2	Luboš	Šilhavý	M			32	zootechnik	Němčice	99	80	0
-3202	557005	1	1	902	3	Václav	Kraus	M			56	zootechnik	Petrovičky	99	80	0
-3202	557005	1	1	902	4	Zdeněk	Ujčík	M			62	důchodce	Měcholupy	99	80	0
-3202	557005	1	2	901	1	Petr	Šindelář	M			38	starosta	Němčice	99	80	0
-3202	557005	1	2	901	2	Luboš	Rašpl	M			45	soukromý podnikatel	Předslav	99	80	0
-3202	557005	1	2	901	3	Václav	Vlasák	M			34	soukromý podnikatel	Makov	99	80	0
-3202	557005	1	2	901	4	Jaroslav	Kreuzer	M			41	soukromý podnikatel	Předslav	99	80	0
-3202	557005	1	2	901	5	Anna	Vlasáková	F			55	vedoucí učitelka	Měcholupy	99	80	0
-3202	557005	1	2	901	6	Vladimír	Rašpl	M			60	údržbář	Měcholupy	99	80	0
-3202	557005	1	2	901	7	Richard	Fleisig	M			37	elektromontér	Předslav	99	80	0
-3202	557005	1	2	901	8	Josef	Šůs	M			66	důchodce	Makov	99	80	0
-3202	557005	1	2	901	9	Jan	Rada	M			32	technik	Němčice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3202	557005	1	1	902	1	Václav	Blahouš	Ing.		51	agronom	Předslav	99	80	0	M
+3202	557005	1	2	901	1	Petr	Šindelář			38	starosta	Němčice	99	80	0	M
+3202	557005	1	1	902	2	Luboš	Šilhavý			32	zootechnik	Němčice	99	80	0	M
+3202	557005	1	2	901	2	Luboš	Rašpl			45	soukromý podnikatel	Předslav	99	80	0	M
+3202	557005	1	1	902	3	Václav	Kraus			56	zootechnik	Petrovičky	99	80	0	M
+3202	557005	1	2	901	3	Václav	Vlasák			34	soukromý podnikatel	Makov	99	80	0	M
+3202	557005	1	1	902	4	Zdeněk	Ujčík			62	důchodce	Měcholupy	99	80	0	M
+3202	557005	1	2	901	4	Jaroslav	Kreuzer			41	soukromý podnikatel	Předslav	99	80	0	M
+3202	557005	1	2	901	5	Anna	Vlasáková			55	vedoucí učitelka	Měcholupy	99	80	0	F
+3202	557005	1	2	901	6	Vladimír	Rašpl			60	údržbář	Měcholupy	99	80	0	M
+3202	557005	1	2	901	7	Richard	Fleisig			37	elektromontér	Předslav	99	80	0	M
+3202	557005	1	2	901	8	Josef	Šůs			66	důchodce	Makov	99	80	0	M
+3202	557005	1	2	901	9	Jan	Rada			32	technik	Němčice	99	80	0	M

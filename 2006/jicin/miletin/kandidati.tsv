@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5202	573175	1	1	1	1	Nataša	Navrátilová	F			56	důchodkyně	Miletín	1	1	0
-5202	573175	1	1	1	2	Jan	Jirsák	M			37	dělník	Miletín	99	1	0
-5202	573175	1	1	1	3	Jaroslav	Zajíc	M			37	revizní technik	Miletín	99	1	0
-5202	573175	1	2	902	1	Ladislav	Hejna	M			54	úředník - stav. technik	Miletín	99	80	0
-5202	573175	1	2	902	2	Petra	Voňková	F			40	soukr. podnikatelka	Miletín	99	80	0
-5202	573175	1	2	902	3	Ondřej	Jurenka	M			27	prac. obchodního oddělení	Miletín	99	80	0
-5202	573175	1	2	902	4	Radka	Medlíková	F			31	zdravotní sestra	Miletín	99	80	0
-5202	573175	1	2	902	5	Michal	Hlaváček	M	MUDr.		41	soukr. lékař	Miletín	53	80	0
-5202	573175	1	2	902	6	Dobromila	Konvičková	F	Mgr.		54	učitelka ZŠ	Miletín	99	80	0
-5202	573175	1	2	902	7	Jiří	Leplt	M	Mgr. Bc.		45	státní zaměstnanec	Miletín	99	80	0
-5202	573175	1	2	902	8	Oto	Holan	M			43	soukr. podnikatel	Miletín	99	80	0
-5202	573175	1	2	902	9	Pavel	Vojtěch	M			42	soukromník	Miletín	99	80	0
-5202	573175	1	2	902	10	Jaroslav	Zdeněk	M			36	mistr výroby	Miletín	99	80	0
-5202	573175	1	2	902	11	František	Černý	M			52	dělník	Miletín	99	80	0
-5202	573175	1	3	901	1	Miroslav	Nosek	M	Bc.		37	místostarosta obce Miletín	Miletín	99	80	0
-5202	573175	1	3	901	2	Lenka	Samková	F			45	bankovní úřednice ČS a.s., HK	Miletín	99	80	0
-5202	573175	1	3	901	3	Ondřej	Machačka	M	Bc.		28	vedoucí autodopravy Perpet HK	Miletín	99	80	0
-5202	573175	1	3	901	4	Zdeněk	Filounek	M			51	dělník S.A.M. Holding Miletín	Miletín	99	80	0
-5202	573175	1	3	901	5	Miloš	Poláček	M			45	školník ZŠ K.J. Erbena Miletín	Miletín	99	80	0
-5202	573175	1	3	901	6	Tomáš	Kožíšek	M	Ing.		28	konstruktér APPLUS A.T. Hořice	Miletín	99	80	0
-5202	573175	1	3	901	7	Vlastimil	Hak	M	Ing.		35	jednatel firmy P.H. trubičky	Miletín	99	80	0
-5202	573175	1	3	901	8	Tomáš	Hlavatý	M			24	strážný firmy Fénix	Miletín	99	80	0
-5202	573175	1	3	901	9	Stanislava	Hlaváčková	F	Mgr.		51	zástupkyně ředitele ZŠ	Miletín	99	80	0
-5202	573175	1	3	901	10	Jaroslav	Trnovský	M			54	dělník SÚS Jičín, stř. Hořice	Miletín	99	80	0
-5202	573175	1	3	901	11	Jan	Kučera	M			32	policista - Policie ČR	Miletín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5202	573175	1	1	1	1	Nataša	Navrátilová			56	důchodkyně	Miletín	1	1	0	F
+5202	573175	1	2	902	1	Ladislav	Hejna			54	úředník - stav. technik	Miletín	99	80	0	M
+5202	573175	1	3	901	1	Miroslav	Nosek	Bc.		37	místostarosta obce Miletín	Miletín	99	80	0	M
+5202	573175	1	1	1	2	Jan	Jirsák			37	dělník	Miletín	99	1	0	M
+5202	573175	1	2	902	2	Petra	Voňková			40	soukr. podnikatelka	Miletín	99	80	0	F
+5202	573175	1	3	901	2	Lenka	Samková			45	bankovní úřednice ČS a.s., HK	Miletín	99	80	0	F
+5202	573175	1	1	1	3	Jaroslav	Zajíc			37	revizní technik	Miletín	99	1	0	M
+5202	573175	1	2	902	3	Ondřej	Jurenka			27	prac. obchodního oddělení	Miletín	99	80	0	M
+5202	573175	1	3	901	3	Ondřej	Machačka	Bc.		28	vedoucí autodopravy Perpet HK	Miletín	99	80	0	M
+5202	573175	1	2	902	4	Radka	Medlíková			31	zdravotní sestra	Miletín	99	80	0	F
+5202	573175	1	3	901	4	Zdeněk	Filounek			51	dělník S.A.M. Holding Miletín	Miletín	99	80	0	M
+5202	573175	1	2	902	5	Michal	Hlaváček	MUDr.		41	soukr. lékař	Miletín	53	80	0	M
+5202	573175	1	3	901	5	Miloš	Poláček			45	školník ZŠ K.J. Erbena Miletín	Miletín	99	80	0	M
+5202	573175	1	2	902	6	Dobromila	Konvičková	Mgr.		54	učitelka ZŠ	Miletín	99	80	0	F
+5202	573175	1	3	901	6	Tomáš	Kožíšek	Ing.		28	konstruktér APPLUS A.T. Hořice	Miletín	99	80	0	M
+5202	573175	1	2	902	7	Jiří	Leplt	Mgr. Bc.		45	státní zaměstnanec	Miletín	99	80	0	M
+5202	573175	1	3	901	7	Vlastimil	Hak	Ing.		35	jednatel firmy P.H. trubičky	Miletín	99	80	0	M
+5202	573175	1	2	902	8	Oto	Holan			43	soukr. podnikatel	Miletín	99	80	0	M
+5202	573175	1	3	901	8	Tomáš	Hlavatý			24	strážný firmy Fénix	Miletín	99	80	0	M
+5202	573175	1	2	902	9	Pavel	Vojtěch			42	soukromník	Miletín	99	80	0	M
+5202	573175	1	3	901	9	Stanislava	Hlaváčková	Mgr.		51	zástupkyně ředitele ZŠ	Miletín	99	80	0	F
+5202	573175	1	2	902	10	Jaroslav	Zdeněk			36	mistr výroby	Miletín	99	80	0	M
+5202	573175	1	3	901	10	Jaroslav	Trnovský			54	dělník SÚS Jičín, stř. Hořice	Miletín	99	80	0	M
+5202	573175	1	2	902	11	František	Černý			52	dělník	Miletín	99	80	0	M
+5202	573175	1	3	901	11	Jan	Kučera			32	policista - Policie ČR	Miletín	99	80	0	M

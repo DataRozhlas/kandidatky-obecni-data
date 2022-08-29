@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7202	592641	1	1	1	1	Miloš	Beníček	M	Ing.		41	obchodní manažer	Suchá Loz	1	1	0
-7202	592641	1	1	1	2	Stanislav	Guryča	M			52	zaměstnanec ZAS Nivnice	Suchá Loz	1	1	0
-7202	592641	1	1	1	3	Martin	Machalík	M			30	servisní technik	Suchá Loz	99	1	0
-7202	592641	1	1	1	4	Anna	Adamcová	F			42	učitelka ZŠ	Suchá Loz	99	1	0
-7202	592641	1	1	1	5	Petr	Mahdal	M			28	soukromý stolář	Suchá Loz	99	1	0
-7202	592641	1	1	1	6	Karel	Borýsek	M			39	soukromý zedník	Suchá Loz	99	1	0
-7202	592641	1	1	1	7	Milan	Bobčík	M			30	klempíř	Suchá Loz	99	1	0
-7202	592641	1	1	1	8	Pavla	Beníčková	F			35	na mateřské dovolené	Suchá Loz	99	1	0
-7202	592641	1	1	1	9	Josef	Velecký	M			53	soukromý zemědělec	Suchá Loz	1	1	0
-7202	592641	1	2	449	1	Zdeněk	Velecký	M			46	místostarosta obce	Suchá Loz	99	129	0
-7202	592641	1	2	449	2	Dušan	Bujáček	M			31	živnostník - pokrývač	Suchá Loz	99	80	0
-7202	592641	1	2	449	3	Irena	Baná	F			29	pracovnice katastrálního úřadu	Suchá Loz	99	80	0
-7202	592641	1	2	449	4	Zdeněk	Mahdal	M			43	živnostník-elektromontér	Suchá Loz	99	80	0
-7202	592641	1	2	449	5	Ludmila	Špačková	F	Ing.		45	daňová poradkyně	Suchá Loz	99	80	0
-7202	592641	1	2	449	6	Pavel	Horňák	M			41	soukromý podnikatel	Suchá Loz	99	80	0
-7202	592641	1	2	449	7	Marie	Zajdová	F			48	uklízečka	Suchá Loz	99	80	0
-7202	592641	1	2	449	8	Vlastimil	Kunovský	M			38	živnostník-instalatér,topenář	Suchá Loz	99	80	0
-7202	592641	1	2	449	9	Marie	Maliňáková	F			27	na rodičovské dovolené	Suchá Loz	99	80	0
-7202	592641	1	3	470	1	Petr	Gazdík	M	Mgr.		32	starosta obce	Suchá Loz	166	166	0
-7202	592641	1	3	470	2	Jitka	Gazdíková	F	MUDr.		38	praktický lékař	Suchá Loz	99	80	0
-7202	592641	1	3	470	3	Václav	Bujáček	M	Bc.		23	telekomunikační technik	Suchá Loz	99	80	0
-7202	592641	1	3	470	4	Martina	Horňáková	F			33	učitelka mateřské školy	Suchá Loz	99	80	0
-7202	592641	1	3	470	5	Rostislav	Beníček	M	Bc.		31	vedoucí podnikové údržby	Suchá Loz	99	80	0
-7202	592641	1	3	470	6	Marie	Horňáková	F			49	pracovnice sociálních služeb	Suchá Loz	99	80	0
-7202	592641	1	3	470	7	Josef	Čubík	M			31	živnostník-čalouník	Suchá Loz	99	80	0
-7202	592641	1	3	470	8	Jiří	Gregovský	M			28	příslušník policie ČR	Suchá Loz	99	80	0
-7202	592641	1	3	470	9	Jiří	Piše	M			43	nástrojář	Suchá Loz	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7202	592641	1	1	1	1	Miloš	Beníček	Ing.		41	obchodní manažer	Suchá Loz	1	1	0	M
+7202	592641	1	2	449	1	Zdeněk	Velecký			46	místostarosta obce	Suchá Loz	99	129	0	M
+7202	592641	1	3	470	1	Petr	Gazdík	Mgr.		32	starosta obce	Suchá Loz	166	166	0	M
+7202	592641	1	1	1	2	Stanislav	Guryča			52	zaměstnanec ZAS Nivnice	Suchá Loz	1	1	0	M
+7202	592641	1	2	449	2	Dušan	Bujáček			31	živnostník - pokrývač	Suchá Loz	99	80	0	M
+7202	592641	1	3	470	2	Jitka	Gazdíková	MUDr.		38	praktický lékař	Suchá Loz	99	80	0	F
+7202	592641	1	1	1	3	Martin	Machalík			30	servisní technik	Suchá Loz	99	1	0	M
+7202	592641	1	2	449	3	Irena	Baná			29	pracovnice katastrálního úřadu	Suchá Loz	99	80	0	F
+7202	592641	1	3	470	3	Václav	Bujáček	Bc.		23	telekomunikační technik	Suchá Loz	99	80	0	M
+7202	592641	1	1	1	4	Anna	Adamcová			42	učitelka ZŠ	Suchá Loz	99	1	0	F
+7202	592641	1	2	449	4	Zdeněk	Mahdal			43	živnostník-elektromontér	Suchá Loz	99	80	0	M
+7202	592641	1	3	470	4	Martina	Horňáková			33	učitelka mateřské školy	Suchá Loz	99	80	0	F
+7202	592641	1	1	1	5	Petr	Mahdal			28	soukromý stolář	Suchá Loz	99	1	0	M
+7202	592641	1	2	449	5	Ludmila	Špačková	Ing.		45	daňová poradkyně	Suchá Loz	99	80	0	F
+7202	592641	1	3	470	5	Rostislav	Beníček	Bc.		31	vedoucí podnikové údržby	Suchá Loz	99	80	0	M
+7202	592641	1	1	1	6	Karel	Borýsek			39	soukromý zedník	Suchá Loz	99	1	0	M
+7202	592641	1	2	449	6	Pavel	Horňák			41	soukromý podnikatel	Suchá Loz	99	80	0	M
+7202	592641	1	3	470	6	Marie	Horňáková			49	pracovnice sociálních služeb	Suchá Loz	99	80	0	F
+7202	592641	1	1	1	7	Milan	Bobčík			30	klempíř	Suchá Loz	99	1	0	M
+7202	592641	1	2	449	7	Marie	Zajdová			48	uklízečka	Suchá Loz	99	80	0	F
+7202	592641	1	3	470	7	Josef	Čubík			31	živnostník-čalouník	Suchá Loz	99	80	0	M
+7202	592641	1	1	1	8	Pavla	Beníčková			35	na mateřské dovolené	Suchá Loz	99	1	0	F
+7202	592641	1	2	449	8	Vlastimil	Kunovský			38	živnostník-instalatér,topenář	Suchá Loz	99	80	0	M
+7202	592641	1	3	470	8	Jiří	Gregovský			28	příslušník policie ČR	Suchá Loz	99	80	0	M
+7202	592641	1	1	1	9	Josef	Velecký			53	soukromý zemědělec	Suchá Loz	1	1	0	M
+7202	592641	1	2	449	9	Marie	Maliňáková			27	na rodičovské dovolené	Suchá Loz	99	80	0	F
+7202	592641	1	3	470	9	Jiří	Piše			43	nástrojář	Suchá Loz	99	80	0	M

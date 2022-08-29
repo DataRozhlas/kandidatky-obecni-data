@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	564753	1	1	902	1	Milan	Stalmacher	M	Ing. Bc.		48	manažer	Doksany	99	80	A
-4203	564753	1	1	902	2	Martina	Čmuchálková	F			42	asistentka prodeje	Doksany	99	80	A
-4203	564753	1	1	902	3	Michal	Hrbáč	M	Bc.		39	policista	Doksany	99	80	A
-4203	564753	1	1	902	4	Pavla	Neumannová	F			55	vedoucí odd. výstup. kontroly	Doksany	99	80	A
-4203	564753	1	1	902	5	Ladislav	Moravec	M			31	obchodní zástupce	Doksany	99	80	A
-4203	564753	1	1	902	6	Radek	Hodík	M			34	technik	Doksany	99	80	A
-4203	564753	1	1	902	7	Klára	Podzimková	F			31	projektová manažerka	Doksany	99	80	A
-4203	564753	1	2	901	1	Jaroslav	Joska	M			46	OSVČ	Doksany	99	80	A
-4203	564753	1	2	901	2	Michal	Kopecký	M			50	technik	Doksany	99	80	A
-4203	564753	1	2	901	3	Jan	Hellich	M			45	OSVČ	Doksany	99	80	A
-4203	564753	1	2	901	4	Tomáš	Hubač	M			45	hasič	Doksany	99	80	A
-4203	564753	1	2	901	5	Jan	Gaper	M			42	řidič	Doksany	99	80	A
-4203	564753	1	2	901	6	Petr	Kodar	M			48	stavební dělník	Doksany	99	80	A
-4203	564753	1	2	901	7	Petr	Matoušek	M			35	vedoucí prodeje	Doksany	99	80	A
-4203	564753	1	2	901	8	Milan	Husák	M			57	prodejce	Doksany	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	564753	1	1	902	1	Milan	Stalmacher	Ing. Bc.		48	manažer	Doksany	99	80	A	M
+4203	564753	1	2	901	1	Jaroslav	Joska			46	OSVČ	Doksany	99	80	A	M
+4203	564753	1	1	902	2	Martina	Čmuchálková			42	asistentka prodeje	Doksany	99	80	A	F
+4203	564753	1	2	901	2	Michal	Kopecký			50	technik	Doksany	99	80	A	M
+4203	564753	1	1	902	3	Michal	Hrbáč	Bc.		39	policista	Doksany	99	80	A	M
+4203	564753	1	2	901	3	Jan	Hellich			45	OSVČ	Doksany	99	80	A	M
+4203	564753	1	1	902	4	Pavla	Neumannová			55	vedoucí odd. výstup. kontroly	Doksany	99	80	A	F
+4203	564753	1	2	901	4	Tomáš	Hubač			45	hasič	Doksany	99	80	A	M
+4203	564753	1	1	902	5	Ladislav	Moravec			31	obchodní zástupce	Doksany	99	80	A	M
+4203	564753	1	2	901	5	Jan	Gaper			42	řidič	Doksany	99	80	A	M
+4203	564753	1	1	902	6	Radek	Hodík			34	technik	Doksany	99	80	A	M
+4203	564753	1	2	901	6	Petr	Kodar			48	stavební dělník	Doksany	99	80	A	M
+4203	564753	1	1	902	7	Klára	Podzimková			31	projektová manažerka	Doksany	99	80	A	F
+4203	564753	1	2	901	7	Petr	Matoušek			35	vedoucí prodeje	Doksany	99	80	A	M
+4203	564753	1	2	901	8	Milan	Husák			57	prodejce	Doksany	99	80	A	M

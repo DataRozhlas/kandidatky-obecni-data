@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589713	1	1	163	1	Monika	Zbudilová	F	Mgr.		57	ředitelka MŠ	Malé Hradisko	99	163	A
-7103	589713	1	1	163	2	Martin	Kleiner	M	Ing.		54	jednatel společnosti	Malé Hradisko	99	163	A
-7103	589713	1	1	163	3	Marcela	Matoušková	F			41	obchodní zástupce	Malé Hradisko	99	163	A
-7103	589713	1	1	163	4	Josef	Švec	M			47	OSVČ	Malé Hradisko	99	163	A
-7103	589713	1	1	163	5	Robert	Salva	M			52	stavbyvedoucí	Malé Hradisko	99	163	A
-7103	589713	1	1	163	6	Zdeněk	Janko	M			64	senior	Malé Hradisko	99	163	A
-7103	589713	1	1	163	7	Martin	Kejík	M			43	servisní technik	Malé Hradisko	99	163	A
-7103	589713	1	2	901	1	Pavel	Procházka	M	Bc.		50	ekonom	Malé Hradisko	99	80	A
-7103	589713	1	2	901	2	Alena	Rusová	F	Bc.		54	asistentka prodeje	Malé Hradisko	99	80	A
-7103	589713	1	2	901	3	Bohumír	Křupka	M			47	mistr dopravních staveb	Malé Hradisko	99	80	A
-7103	589713	1	2	901	4	Vladimír	Svoboda	M			49	externí poradce BOZP	Malé Hradisko	99	80	A
-7103	589713	1	2	901	5	Adam	Komínek	M	Ing.		26	strojní inženýr	Malé Hradisko	99	80	A
-7103	589713	1	2	901	6	Zdeněk	Pospíšil	M			30	referent controllingu	Malé Hradisko	99	80	A
-7103	589713	1	2	901	7	Petr	Dokoupil	M			52	elektrikář	Malé Hradisko	99	80	A
-7103	589713	1	2	901	8	Lenka	Sekaninová	F			36	provozovatelka maloobchodu	Malé Hradisko	99	80	A
-7103	589713	1	2	901	9	Jiří	Tříska	M			56	instalatér	Malé Hradisko	99	80	A
-7103	589713	1	3	463	1	Marian	Fiedler	M			50	starosta obce	Malé Hradisko	99	80	A
-7103	589713	1	3	463	2	Lucie	Pospíšilová	F	Ing.		41	asistentka advokátní kanceláře	Malé Hradisko	99	80	A
-7103	589713	1	3	463	3	Daniel	Mudroch	M			50	ředitel divize	Malé Hradisko	99	80	A
-7103	589713	1	3	463	4	Vojmír	Křupka	M	Mgr.		69	senior	Malé Hradisko	99	80	A
-7103	589713	1	3	463	5	Radomír	Štindl	M			45	řidič	Malé Hradisko	99	80	A
-7103	589713	1	3	463	6	Radka	Švecová	F			47	správce budov	Malé Hradisko	99	80	A
-7103	589713	1	3	463	7	František	Procházka	M			72	senior	Malé Hradisko	99	80	A
-7103	589713	1	3	463	8	Pavel	Vyskočil	M			48	mistr výroby	Malé Hradisko	99	80	A
-7103	589713	1	3	463	9	Vladimíra	Voráčková	F			54	rozpočtářka	Okluky	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589713	1	1	163	1	Monika	Zbudilová	Mgr.		57	ředitelka MŠ	Malé Hradisko	99	163	A	F
+7103	589713	1	2	901	1	Pavel	Procházka	Bc.		50	ekonom	Malé Hradisko	99	80	A	M
+7103	589713	1	3	463	1	Marian	Fiedler			50	starosta obce	Malé Hradisko	99	80	A	M
+7103	589713	1	1	163	2	Martin	Kleiner	Ing.		54	jednatel společnosti	Malé Hradisko	99	163	A	M
+7103	589713	1	2	901	2	Alena	Rusová	Bc.		54	asistentka prodeje	Malé Hradisko	99	80	A	F
+7103	589713	1	3	463	2	Lucie	Pospíšilová	Ing.		41	asistentka advokátní kanceláře	Malé Hradisko	99	80	A	F
+7103	589713	1	1	163	3	Marcela	Matoušková			41	obchodní zástupce	Malé Hradisko	99	163	A	F
+7103	589713	1	2	901	3	Bohumír	Křupka			47	mistr dopravních staveb	Malé Hradisko	99	80	A	M
+7103	589713	1	3	463	3	Daniel	Mudroch			50	ředitel divize	Malé Hradisko	99	80	A	M
+7103	589713	1	1	163	4	Josef	Švec			47	OSVČ	Malé Hradisko	99	163	A	M
+7103	589713	1	2	901	4	Vladimír	Svoboda			49	externí poradce BOZP	Malé Hradisko	99	80	A	M
+7103	589713	1	3	463	4	Vojmír	Křupka	Mgr.		69	senior	Malé Hradisko	99	80	A	M
+7103	589713	1	1	163	5	Robert	Salva			52	stavbyvedoucí	Malé Hradisko	99	163	A	M
+7103	589713	1	2	901	5	Adam	Komínek	Ing.		26	strojní inženýr	Malé Hradisko	99	80	A	M
+7103	589713	1	3	463	5	Radomír	Štindl			45	řidič	Malé Hradisko	99	80	A	M
+7103	589713	1	1	163	6	Zdeněk	Janko			64	senior	Malé Hradisko	99	163	A	M
+7103	589713	1	2	901	6	Zdeněk	Pospíšil			30	referent controllingu	Malé Hradisko	99	80	A	M
+7103	589713	1	3	463	6	Radka	Švecová			47	správce budov	Malé Hradisko	99	80	A	F
+7103	589713	1	1	163	7	Martin	Kejík			43	servisní technik	Malé Hradisko	99	163	A	M
+7103	589713	1	2	901	7	Petr	Dokoupil			52	elektrikář	Malé Hradisko	99	80	A	M
+7103	589713	1	3	463	7	František	Procházka			72	senior	Malé Hradisko	99	80	A	M
+7103	589713	1	2	901	8	Lenka	Sekaninová			36	provozovatelka maloobchodu	Malé Hradisko	99	80	A	F
+7103	589713	1	3	463	8	Pavel	Vyskočil			48	mistr výroby	Malé Hradisko	99	80	A	M
+7103	589713	1	2	901	9	Jiří	Tříska			56	instalatér	Malé Hradisko	99	80	A	M
+7103	589713	1	3	463	9	Vladimíra	Voráčková			54	rozpočtářka	Okluky	99	80	A	F

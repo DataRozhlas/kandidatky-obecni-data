@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	548243	1	1	901	1	Marcel	Pašek	M			58	jednatel	Horní Paseka	99	80	0
-6101	548243	1	1	901	2	Zdeněk	Chlád	M			50	řidič	Horní Paseka	99	80	0
-6101	548243	1	1	901	3	Radek	Beneš	M			29	osazovač kamene	Horní Paseka	99	80	0
-6101	548243	1	1	901	4	Marie	Časarová	F			44	prodavačka	Horní Paseka	99	80	0
-6101	548243	1	1	901	5	Milan	Časar	M			48	údržbář	Horní Paseka	99	80	0
-6101	548243	1	1	901	6	Josef	Blažek	M			71	důchodce	Horní Paseka	99	80	0
-6101	548243	1	1	901	7	Marie	Kobosová	F			49	živnostnice	Horní Paseka	99	80	0
-6101	548243	1	2	902	1	Jan	Jindra	M			43	mistr v kamenické výrobě	Horní Paseka	99	80	0
-6101	548243	1	2	902	2	Jiří	Peroutka	M			39	podnikatel v dopravě	Horní Paseka	99	80	0
-6101	548243	1	2	902	3	Pavel	Hrubý	M			48	brusič skla - hladinář	Horní Paseka	99	80	0
-6101	548243	1	2	902	4	Jaroslav	Prokop	M			53	soukromý zemědělec	Horní Paseka	99	80	0
-6101	548243	1	2	902	5	Josef	Sukdolák	M			58	poštovní doručovatel	Horní Paseka	99	80	0
-6101	548243	1	2	902	6	Jiří	Doležal	M			64	důchodce	Horní Paseka	99	80	0
-6101	548243	1	2	902	7	Zdeněk	Vrána	M			70	důchodce	Horní Paseka	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	548243	1	1	901	1	Marcel	Pašek			58	jednatel	Horní Paseka	99	80	0	M
+6101	548243	1	2	902	1	Jan	Jindra			43	mistr v kamenické výrobě	Horní Paseka	99	80	0	M
+6101	548243	1	1	901	2	Zdeněk	Chlád			50	řidič	Horní Paseka	99	80	0	M
+6101	548243	1	2	902	2	Jiří	Peroutka			39	podnikatel v dopravě	Horní Paseka	99	80	0	M
+6101	548243	1	1	901	3	Radek	Beneš			29	osazovač kamene	Horní Paseka	99	80	0	M
+6101	548243	1	2	902	3	Pavel	Hrubý			48	brusič skla - hladinář	Horní Paseka	99	80	0	M
+6101	548243	1	1	901	4	Marie	Časarová			44	prodavačka	Horní Paseka	99	80	0	F
+6101	548243	1	2	902	4	Jaroslav	Prokop			53	soukromý zemědělec	Horní Paseka	99	80	0	M
+6101	548243	1	1	901	5	Milan	Časar			48	údržbář	Horní Paseka	99	80	0	M
+6101	548243	1	2	902	5	Josef	Sukdolák			58	poštovní doručovatel	Horní Paseka	99	80	0	M
+6101	548243	1	1	901	6	Josef	Blažek			71	důchodce	Horní Paseka	99	80	0	M
+6101	548243	1	2	902	6	Jiří	Doležal			64	důchodce	Horní Paseka	99	80	0	M
+6101	548243	1	1	901	7	Marie	Kobosová			49	živnostnice	Horní Paseka	99	80	0	F
+6101	548243	1	2	902	7	Zdeněk	Vrána			70	důchodce	Horní Paseka	99	80	0	M

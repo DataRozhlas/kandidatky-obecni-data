@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6102	588156	1	1	901	1	Marcela	Zelená	F			55	účetní	Vílanec	99	80	A
-6102	588156	1	1	901	2	Zdeňka	Příplatová	F			61	daňový poradce	Vílanec	99	80	A
-6102	588156	1	1	901	3	Tomáš	Havran	M			40	advokát	Vílanec	99	80	A
-6102	588156	1	1	901	4	Lenka	Maršánová	F			55	montážní dělnice	Vílanec	99	80	A
-6102	588156	1	1	901	5	Hana	Sommerová	F			37	obsluha gastro	Vílanec	99	80	A
-6102	588156	1	1	901	6	Jaroslav	Zach	M			49	seřizovač	Vílanec	99	80	A
-6102	588156	1	1	901	7	Petra	Sommerová	F			31	mateřská dovolená	Vílanec	99	80	A
-6102	588156	1	1	901	8	Miluše	Hávová	F			52	pracovnice v gastro	Loučky	99	80	A
-6102	588156	1	1	901	9	Markéta	Pípová	F			31	prodavačka	Vílanec	99	80	A
-6102	588156	1	2	902	1	Lenka	Pernová	F			42	zdravotní sestra	Vílanec	99	80	A
-6102	588156	1	2	902	2	Klára	Novická	F			36	administrativní pracovnice	Vílanec	99	80	A
-6102	588156	1	2	902	3	Tomáš	Pelán	M			50	řidič	Vílanec	99	80	A
-6102	588156	1	2	902	4	Lenka	Danková	F			43	referentka veřejných zakázek	Loučky	99	80	A
-6102	588156	1	2	902	5	Michal	Šmíd	M	Ing.		31	metalurik	Vílanec	99	80	A
-6102	588156	1	2	902	6	Josef	Koreš	M			51	OSVČ	Vílanec	99	80	A
-6102	588156	1	2	902	7	Michal	Koukal	M			37	servisní technik	Vílanec	99	80	A
-6102	588156	1	2	902	8	Šárka	Jiřišťová	F			37	psychologický terapeut, tč. MD	Loučky	99	80	A
-6102	588156	1	2	902	9	Ondřej	Beníček	M			36	OSVČ	Vílanec	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6102	588156	1	1	901	1	Marcela	Zelená			55	účetní	Vílanec	99	80	A	F
+6102	588156	1	2	902	1	Lenka	Pernová			42	zdravotní sestra	Vílanec	99	80	A	F
+6102	588156	1	1	901	2	Zdeňka	Příplatová			61	daňový poradce	Vílanec	99	80	A	F
+6102	588156	1	2	902	2	Klára	Novická			36	administrativní pracovnice	Vílanec	99	80	A	F
+6102	588156	1	1	901	3	Tomáš	Havran			40	advokát	Vílanec	99	80	A	M
+6102	588156	1	2	902	3	Tomáš	Pelán			50	řidič	Vílanec	99	80	A	M
+6102	588156	1	1	901	4	Lenka	Maršánová			55	montážní dělnice	Vílanec	99	80	A	F
+6102	588156	1	2	902	4	Lenka	Danková			43	referentka veřejných zakázek	Loučky	99	80	A	F
+6102	588156	1	1	901	5	Hana	Sommerová			37	obsluha gastro	Vílanec	99	80	A	F
+6102	588156	1	2	902	5	Michal	Šmíd	Ing.		31	metalurik	Vílanec	99	80	A	M
+6102	588156	1	1	901	6	Jaroslav	Zach			49	seřizovač	Vílanec	99	80	A	M
+6102	588156	1	2	902	6	Josef	Koreš			51	OSVČ	Vílanec	99	80	A	M
+6102	588156	1	1	901	7	Petra	Sommerová			31	mateřská dovolená	Vílanec	99	80	A	F
+6102	588156	1	2	902	7	Michal	Koukal			37	servisní technik	Vílanec	99	80	A	M
+6102	588156	1	1	901	8	Miluše	Hávová			52	pracovnice v gastro	Loučky	99	80	A	F
+6102	588156	1	2	902	8	Šárka	Jiřišťová			37	psychologický terapeut, tč. MD	Loučky	99	80	A	F
+6102	588156	1	1	901	9	Markéta	Pípová			31	prodavačka	Vílanec	99	80	A	F
+6102	588156	1	2	902	9	Ondřej	Beníček			36	OSVČ	Vílanec	99	80	A	M

@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	549754	1	1	902	1	Ludvík	Staller	M	Ing.		68	důchodce	Podolsko	99	80	0
-3104	549754	1	1	902	2	Ivana	Růžičková	F			40	pomocná kuchařka	Podolí I	99	80	0
-3104	549754	1	1	902	3	Josef	Komárek	M			45	živnostník	Podolí I	99	80	0
-3104	549754	1	1	902	4	Jan	Jakovec	M			46	řidič	Podolí I	99	80	0
-3104	549754	1	1	902	5	Miroslav	Hrneček	M			50	údržbář nástrojů	Podolí I	99	80	0
-3104	549754	1	1	902	6	Petr	Lohnický	M			43	živnostník	Podolí I	99	80	0
-3104	549754	1	2	901	1	Vladislav	Michal	M			34	starosta obce	Podolí I	99	80	0
-3104	549754	1	2	901	2	Renata	Caltová	F			40	komunální dělnice	Podolí I	99	80	0
-3104	549754	1	2	901	3	Miloš	Novák	M	Ing.		69	důchodce	Podolí I	99	80	0
-3104	549754	1	2	901	4	Michaela	Hrnečková	F			19	studentka	Podolí I	99	80	0
-3104	549754	1	2	901	5	Milan	Vlček	M			43	státní zaměstnanec	Rastory	99	80	0
-3104	549754	1	2	901	6	Milada	Jiroušková	F			57	učitelka	Podolí I	99	80	0
-3104	549754	1	2	901	7	Inka	Opavová	F			30	na mateřské dovolené	Podolí I	99	80	0
-3104	549754	1	2	901	8	Eva	Pletková	F	Ing.		39	podnikatelka	Podolí I	99	80	0
-3104	549754	1	2	901	9	Josef	Petřík	M			52	zemědělec	Podolí I	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	549754	1	1	902	1	Ludvík	Staller	Ing.		68	důchodce	Podolsko	99	80	0	M
+3104	549754	1	2	901	1	Vladislav	Michal			34	starosta obce	Podolí I	99	80	0	M
+3104	549754	1	1	902	2	Ivana	Růžičková			40	pomocná kuchařka	Podolí I	99	80	0	F
+3104	549754	1	2	901	2	Renata	Caltová			40	komunální dělnice	Podolí I	99	80	0	F
+3104	549754	1	1	902	3	Josef	Komárek			45	živnostník	Podolí I	99	80	0	M
+3104	549754	1	2	901	3	Miloš	Novák	Ing.		69	důchodce	Podolí I	99	80	0	M
+3104	549754	1	1	902	4	Jan	Jakovec			46	řidič	Podolí I	99	80	0	M
+3104	549754	1	2	901	4	Michaela	Hrnečková			19	studentka	Podolí I	99	80	0	F
+3104	549754	1	1	902	5	Miroslav	Hrneček			50	údržbář nástrojů	Podolí I	99	80	0	M
+3104	549754	1	2	901	5	Milan	Vlček			43	státní zaměstnanec	Rastory	99	80	0	M
+3104	549754	1	1	902	6	Petr	Lohnický			43	živnostník	Podolí I	99	80	0	M
+3104	549754	1	2	901	6	Milada	Jiroušková			57	učitelka	Podolí I	99	80	0	F
+3104	549754	1	2	901	7	Inka	Opavová			30	na mateřské dovolené	Podolí I	99	80	0	F
+3104	549754	1	2	901	8	Eva	Pletková	Ing.		39	podnikatelka	Podolí I	99	80	0	F
+3104	549754	1	2	901	9	Josef	Petřík			52	zemědělec	Podolí I	99	80	0	M

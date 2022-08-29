@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	581151	1	1	902	1	Oldřich	Koblížek	M			48	projektant	Vraclav	99	80	0
-5304	581151	1	1	902	2	Miloš	Tuček	M			51	projektant	Vraclav	99	80	0
-5304	581151	1	1	902	3	Jiří	Táborský	M			54	zedník	Sedlec	99	80	0
-5304	581151	1	1	902	4	Ladislav	Novák	M	Ing.		56	ředitel	Vraclav	99	80	0
-5304	581151	1	1	902	5	Jaromír	Matura	M			49	podnikatel	Vraclav	99	80	0
-5304	581151	1	1	902	6	Leona	Ochodnická	F			36	podnikatelka	Vraclav	99	80	0
-5304	581151	1	1	902	7	Miroslav	Zeman	M			48	strojní zámečník	Sedlec	99	80	0
-5304	581151	1	1	902	8	Luboš	Sháněl	M			30	vedoucí TPV	Vraclav	99	80	0
-5304	581151	1	1	902	9	Milan	Stündl	M			48	obráběč kovů	Sedlec	99	80	0
-5304	581151	1	1	902	10	Pavel	Kovačka	M			56	podnikatel	Vraclav	99	80	0
-5304	581151	1	1	902	11	Pavel	Volák	M			46	podnikatel	Vraclav	99	80	0
-5304	581151	1	1	902	12	Jan	Zerzán	M			37	nástrojař	Vraclav	99	80	0
-5304	581151	1	1	902	13	Petr	Veselý	M			31	technik	Vraclav	99	80	0
-5304	581151	1	1	902	14	Jana	Brýdlová	F			30	daňový poradce	Vraclav	99	80	0
-5304	581151	1	1	902	15	Martin	Soušek	M			38	řidič RZS	Vraclav	99	80	0
-5304	581151	1	2	901	1	Věra	Dvořáková	F			34	soukromě hospodařící rolník	Vraclav-Sedlec	99	80	0
-5304	581151	1	2	901	2	Libor	Klement	M	PhDr.		31	ředitel ZŠ a MŠ	Vraclav	99	80	0
-5304	581151	1	2	901	3	Pavel	Osinek	M			34	samostatný technik	Vraclav	99	80	0
-5304	581151	1	2	901	4	Miroslav	Čihák	M	Ing.		33	zkušební technik	Vraclav-Svatý Mikuláš	99	80	0
-5304	581151	1	2	901	5	Petra	Klasovitá	F			32	pracovník v kultuře	Vraclav	99	80	0
-5304	581151	1	2	901	6	Bořivoj	Pitra	M			50	stavební technik	Vraclav-Sedlec	99	80	0
-5304	581151	1	2	901	7	Milan	Plocek	M			32	technolog	Vraclav	99	80	0
-5304	581151	1	2	901	8	Ľubica	Zemková	F	Mgr.		49	podnikatelka	Vraclav	99	80	0
-5304	581151	1	2	901	9	Pavel	Štursa	M			30	zootechnik	Vraclav	99	80	0
-5304	581151	1	2	901	10	Jan	Bartoš	M			42	soukromý podnikatel	Vraclav-Svatý Mikuláš	99	80	0
-5304	581151	1	2	901	11	Jan	Pospíšil	M			44	soukromý podnikatel	Vraclav	53	80	0
-5304	581151	1	2	901	12	Stanislav	Horníček	M			41	obchodní zástupce	Vraclav	99	80	0
-5304	581151	1	2	901	13	Jana	Heřmanová	F			59	důchodkyně	Vraclav-Svatý Mikuláš	99	80	0
-5304	581151	1	2	901	14	Josef	Schejbal	M			59	důchodce	Vraclav	99	80	0
-5304	581151	1	2	901	15	Jaroslav	Meissner	M			37	traktorista	Vraclav-Sedlec	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	581151	1	1	902	1	Oldřich	Koblížek			48	projektant	Vraclav	99	80	0	M
+5304	581151	1	2	901	1	Věra	Dvořáková			34	soukromě hospodařící rolník	Vraclav-Sedlec	99	80	0	F
+5304	581151	1	1	902	2	Miloš	Tuček			51	projektant	Vraclav	99	80	0	M
+5304	581151	1	2	901	2	Libor	Klement	PhDr.		31	ředitel ZŠ a MŠ	Vraclav	99	80	0	M
+5304	581151	1	1	902	3	Jiří	Táborský			54	zedník	Sedlec	99	80	0	M
+5304	581151	1	2	901	3	Pavel	Osinek			34	samostatný technik	Vraclav	99	80	0	M
+5304	581151	1	1	902	4	Ladislav	Novák	Ing.		56	ředitel	Vraclav	99	80	0	M
+5304	581151	1	2	901	4	Miroslav	Čihák	Ing.		33	zkušební technik	Vraclav-Svatý Mikuláš	99	80	0	M
+5304	581151	1	1	902	5	Jaromír	Matura			49	podnikatel	Vraclav	99	80	0	M
+5304	581151	1	2	901	5	Petra	Klasovitá			32	pracovník v kultuře	Vraclav	99	80	0	F
+5304	581151	1	1	902	6	Leona	Ochodnická			36	podnikatelka	Vraclav	99	80	0	F
+5304	581151	1	2	901	6	Bořivoj	Pitra			50	stavební technik	Vraclav-Sedlec	99	80	0	M
+5304	581151	1	1	902	7	Miroslav	Zeman			48	strojní zámečník	Sedlec	99	80	0	M
+5304	581151	1	2	901	7	Milan	Plocek			32	technolog	Vraclav	99	80	0	M
+5304	581151	1	1	902	8	Luboš	Sháněl			30	vedoucí TPV	Vraclav	99	80	0	M
+5304	581151	1	2	901	8	Ľubica	Zemková	Mgr.		49	podnikatelka	Vraclav	99	80	0	F
+5304	581151	1	1	902	9	Milan	Stündl			48	obráběč kovů	Sedlec	99	80	0	M
+5304	581151	1	2	901	9	Pavel	Štursa			30	zootechnik	Vraclav	99	80	0	M
+5304	581151	1	1	902	10	Pavel	Kovačka			56	podnikatel	Vraclav	99	80	0	M
+5304	581151	1	2	901	10	Jan	Bartoš			42	soukromý podnikatel	Vraclav-Svatý Mikuláš	99	80	0	M
+5304	581151	1	1	902	11	Pavel	Volák			46	podnikatel	Vraclav	99	80	0	M
+5304	581151	1	2	901	11	Jan	Pospíšil			44	soukromý podnikatel	Vraclav	53	80	0	M
+5304	581151	1	1	902	12	Jan	Zerzán			37	nástrojař	Vraclav	99	80	0	M
+5304	581151	1	2	901	12	Stanislav	Horníček			41	obchodní zástupce	Vraclav	99	80	0	M
+5304	581151	1	1	902	13	Petr	Veselý			31	technik	Vraclav	99	80	0	M
+5304	581151	1	2	901	13	Jana	Heřmanová			59	důchodkyně	Vraclav-Svatý Mikuláš	99	80	0	F
+5304	581151	1	1	902	14	Jana	Brýdlová			30	daňový poradce	Vraclav	99	80	0	F
+5304	581151	1	2	901	14	Josef	Schejbal			59	důchodce	Vraclav	99	80	0	M
+5304	581151	1	1	902	15	Martin	Soušek			38	řidič RZS	Vraclav	99	80	0	M
+5304	581151	1	2	901	15	Jaroslav	Meissner			37	traktorista	Vraclav-Sedlec	99	80	0	M

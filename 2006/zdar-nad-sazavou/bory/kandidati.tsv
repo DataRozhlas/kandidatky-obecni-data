@@ -1,38 +1,38 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	595641	1	1	1	1	Josef	Březka	M			41	starosta	Horní Bory	1	1	0
-6105	595641	1	1	1	2	Milan	Špaček	M			54	dělník	Dolní Bory	1	1	0
-6105	595641	1	1	1	3	Jan	Kostečka	M			56	dělník	Dolní Bory	1	1	0
-6105	595641	1	1	1	4	Antonín	Novotný	M			39	opravář-řidič	Dolní Bory	99	1	0
-6105	595641	1	1	1	5	Petr	Viliš	M			32	stolař	Horní Bory	99	1	0
-6105	595641	1	1	1	6	Pavla	Lysáková	F	Mgr.		30	mateřská dovolená	Cyrilov	99	1	0
-6105	595641	1	1	1	7	Radek	Holoubek	M			36	soukromý podnikatel	Horní Bory	99	1	0
-6105	595641	1	1	1	8	Růžena	Marková	F	MVDr.		49	učitelka	Dolní Bory	99	1	0
-6105	595641	1	1	1	9	Bohuslava	Pokorná	F			37	skladnice	Horní Bory	99	1	0
-6105	595641	1	1	1	10	Vladimír	Kříž	M			45	skladník	Dolní Bory	1	1	0
-6105	595641	1	1	1	11	Vladimír	Krejčí	M			43	likvidátor škod Čes.poj.	Dolní Bory	99	1	0
-6105	595641	1	1	1	12	Vítězslav	Kostečka	M			54	dělník	Dolní Bory	1	1	0
-6105	595641	1	1	1	13	Jiří	Kaštan	M			45	technolog	Horní Bory	1	1	0
-6105	595641	1	1	1	14	Roman	Kříž	M			37	skladník	Dolní Bory	1	1	0
-6105	595641	1	1	1	15	Vladimír	Kříž	M			21	student	Dolní Bory	1	1	0
-6105	595641	1	2	7	1	Josef	Fňukal	M			37	mistr	Horní Bory	7	7	0
-6105	595641	1	2	7	2	Pavel	Holánek	M			43	automechanik	Horní Bory	7	7	0
-6105	595641	1	2	7	3	Ludmila	Zikmundová	F			46	učitelka	Dolní Bory	99	7	0
-6105	595641	1	2	7	4	František	Eliáš	M	Mgr.		35	ředitel ZŠ	Horní Bory	99	7	0
-6105	595641	1	2	7	5	Jana	Zikmundová	F			45	učitelka	Dolní Bory	99	7	0
-6105	595641	1	2	7	6	Milan	Dvořák	M			56	důchodce	Horní Bory	99	7	0
-6105	595641	1	2	7	7	Jan	Zikmund	M			36	dělník	Dolní Bory	99	7	0
-6105	595641	1	2	7	8	Antonín	Novotný	M			51	předák	Cyrilov	7	7	0
-6105	595641	1	2	7	9	Milan	Dvořák	M			42	skladník	Cyrilov	99	7	0
-6105	595641	1	2	7	10	Jitka	Dvořáková	F			37	nezaměstnaná	Cyrilov	99	7	0
-6105	595641	1	2	7	11	Zuzana	Novotná	F			23	nezaměstnaná	Cyrilov	99	7	0
-6105	595641	1	2	7	12	Antonín	Novotný	M			27	nezaměstnaný	Cyrilov	99	7	0
-6105	595641	1	2	7	13	Martin	Novotný	M			23	živnostník	Cyrilov	99	7	0
-6105	595641	1	3	47	1	Pavel	Březka	M			53	dělník	Cyrilov	99	47	0
-6105	595641	1	3	47	2	Jiří	Kotačka	M			51	drob.podnikatel	Dolní Bory	99	47	0
-6105	595641	1	3	47	3	Blanka	Křížová	F			48	administr.pracovník	Dolní Bory	99	47	0
-6105	595641	1	3	47	4	Lenka	Novotná	F			40	zdravotní sestra	Dolní Bory	99	47	0
-6105	595641	1	3	47	5	Vlastimil	Dvořák	M			55	dělník-elektrikář	Horní Bory	99	47	0
-6105	595641	1	3	47	6	Jan	Jakubec	M			25	kuchař	Horní Bory	99	47	0
-6105	595641	1	3	47	7	František	Dufek	M			41	drob.podnikatel	Horní Bory	99	47	0
-6105	595641	1	3	47	8	Eliška	Tomanová	F			42	dělnice	Dolní Bory	99	47	0
-6105	595641	1	3	47	9	Stanislav	Ochrana	M			72	důchodce	Horní Bory	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	595641	1	1	1	1	Josef	Březka			41	starosta	Horní Bory	1	1	0	M
+6105	595641	1	2	7	1	Josef	Fňukal			37	mistr	Horní Bory	7	7	0	M
+6105	595641	1	3	47	1	Pavel	Březka			53	dělník	Cyrilov	99	47	0	M
+6105	595641	1	1	1	2	Milan	Špaček			54	dělník	Dolní Bory	1	1	0	M
+6105	595641	1	2	7	2	Pavel	Holánek			43	automechanik	Horní Bory	7	7	0	M
+6105	595641	1	3	47	2	Jiří	Kotačka			51	drob.podnikatel	Dolní Bory	99	47	0	M
+6105	595641	1	1	1	3	Jan	Kostečka			56	dělník	Dolní Bory	1	1	0	M
+6105	595641	1	2	7	3	Ludmila	Zikmundová			46	učitelka	Dolní Bory	99	7	0	F
+6105	595641	1	3	47	3	Blanka	Křížová			48	administr.pracovník	Dolní Bory	99	47	0	F
+6105	595641	1	1	1	4	Antonín	Novotný			39	opravář-řidič	Dolní Bory	99	1	0	M
+6105	595641	1	2	7	4	František	Eliáš	Mgr.		35	ředitel ZŠ	Horní Bory	99	7	0	M
+6105	595641	1	3	47	4	Lenka	Novotná			40	zdravotní sestra	Dolní Bory	99	47	0	F
+6105	595641	1	1	1	5	Petr	Viliš			32	stolař	Horní Bory	99	1	0	M
+6105	595641	1	2	7	5	Jana	Zikmundová			45	učitelka	Dolní Bory	99	7	0	F
+6105	595641	1	3	47	5	Vlastimil	Dvořák			55	dělník-elektrikář	Horní Bory	99	47	0	M
+6105	595641	1	1	1	6	Pavla	Lysáková	Mgr.		30	mateřská dovolená	Cyrilov	99	1	0	F
+6105	595641	1	2	7	6	Milan	Dvořák			56	důchodce	Horní Bory	99	7	0	M
+6105	595641	1	3	47	6	Jan	Jakubec			25	kuchař	Horní Bory	99	47	0	M
+6105	595641	1	1	1	7	Radek	Holoubek			36	soukromý podnikatel	Horní Bory	99	1	0	M
+6105	595641	1	2	7	7	Jan	Zikmund			36	dělník	Dolní Bory	99	7	0	M
+6105	595641	1	3	47	7	František	Dufek			41	drob.podnikatel	Horní Bory	99	47	0	M
+6105	595641	1	1	1	8	Růžena	Marková	MVDr.		49	učitelka	Dolní Bory	99	1	0	F
+6105	595641	1	2	7	8	Antonín	Novotný			51	předák	Cyrilov	7	7	0	M
+6105	595641	1	3	47	8	Eliška	Tomanová			42	dělnice	Dolní Bory	99	47	0	F
+6105	595641	1	1	1	9	Bohuslava	Pokorná			37	skladnice	Horní Bory	99	1	0	F
+6105	595641	1	2	7	9	Milan	Dvořák			42	skladník	Cyrilov	99	7	0	M
+6105	595641	1	3	47	9	Stanislav	Ochrana			72	důchodce	Horní Bory	47	47	0	M
+6105	595641	1	1	1	10	Vladimír	Kříž			45	skladník	Dolní Bory	1	1	0	M
+6105	595641	1	2	7	10	Jitka	Dvořáková			37	nezaměstnaná	Cyrilov	99	7	0	F
+6105	595641	1	1	1	11	Vladimír	Krejčí			43	likvidátor škod Čes.poj.	Dolní Bory	99	1	0	M
+6105	595641	1	2	7	11	Zuzana	Novotná			23	nezaměstnaná	Cyrilov	99	7	0	F
+6105	595641	1	1	1	12	Vítězslav	Kostečka			54	dělník	Dolní Bory	1	1	0	M
+6105	595641	1	2	7	12	Antonín	Novotný			27	nezaměstnaný	Cyrilov	99	7	0	M
+6105	595641	1	1	1	13	Jiří	Kaštan			45	technolog	Horní Bory	1	1	0	M
+6105	595641	1	2	7	13	Martin	Novotný			23	živnostník	Cyrilov	99	7	0	M
+6105	595641	1	1	1	14	Roman	Kříž			37	skladník	Dolní Bory	1	1	0	M
+6105	595641	1	1	1	15	Vladimír	Kříž			21	student	Dolní Bory	1	1	0	M

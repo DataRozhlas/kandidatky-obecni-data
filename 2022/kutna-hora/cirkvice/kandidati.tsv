@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2105	533998	1	1	1411	1	Jitka	Málková	F	Ing.		61	OSVČ	Církvice	99	80	A
-2105	533998	1	1	1411	2	Tomáš	Jelínek	M			48	dispečer Správy železnic	Jakub	99	80	A
-2105	533998	1	1	1411	3	Marcela	Batelková	F	Mgr.	DiS.	41	zdravotní sestra	Církvice	99	80	A
-2105	533998	1	1	1411	4	Zdeněk	Spurný	M			52	stavbyvedoucí	Církvice	99	80	A
-2105	533998	1	1	1411	5	Karolína	Solovov	F			29	odborná referentka	Církvice	99	80	A
-2105	533998	1	1	1411	6	Miroslav	Hák	M			38	manipulátor v dopravě	Jakub	99	80	A
-2105	533998	1	1	1411	7	Kristýna	Olexová	F	Bc.		27	politoložka	Církvice	99	80	A
-2105	533998	1	1	1411	8	Jiřina	Morawská	F			41	operátorka ve výrobě	Jakub	99	80	A
-2105	533998	1	1	1411	9	Petr	Doležal	M			51	administrátor ICT	Jakub	99	80	A
-2105	533998	1	2	7	1	Jiří	Volenec	M			60	starosta	Církvice	7	7	A
-2105	533998	1	2	7	2	Zdeněk	Skřivánek	M			59	stavební technik	Církvice	99	7	A
-2105	533998	1	2	7	3	Ludmila	Hrušková	F	Mgr.		43	ředitelka ZŠ Církvice	Jakub	99	7	A
-2105	533998	1	2	7	4	Jiří	Volenec	M		DiS.	36	podnikatel	Církvice	7	7	A
-2105	533998	1	2	7	5	Marie	Procházková	F			51	administrativní pracovnice	Církvice	99	7	A
-2105	533998	1	2	7	6	Alena	Kostincová	F	Bc.		62	učitelka MŠ Církvice	Jakub	99	7	A
-2105	533998	1	2	7	7	Petr	Dušek	M			56	hasič - velitel	Církvice	99	7	A
-2105	533998	1	2	7	8	Gabriela	Vondrysová	F			47	mzdová účetní	Jakub	99	7	A
-2105	533998	1	2	7	9	Petra	Grulichová	F			43	asistentka pedagoga	Církvice	99	7	A
-2105	533998	1	3	53	1	Marcel	Bilinkiewicz	M	Ing.		56	inženýr kvality	Jakub	53	53	A
-2105	533998	1	3	53	2	Karel	Uhlíř	M			63	stavební technik	Jakub	53	53	A
-2105	533998	1	3	53	3	Josef	Kůrka	M			51	referent stavebního úřadu	Církvice	99	53	A
-2105	533998	1	3	53	4	Petr	Uher	M		DiS.	50	obchodní ředitel	Jakub	99	53	A
-2105	533998	1	3	53	5	Miroslava	Malimánková	F	Ing.		42	účetní, daňový poradce	Církvice	99	53	A
-2105	533998	1	3	53	6	Lenka	Kvízová	F	Mgr.		66	důchodkyně	Jakub	99	53	A
-2105	533998	1	3	53	7	Jaroslav	Hruška	M			64	důchodce	Jakub	99	53	A
-2105	533998	1	3	53	8	Rudolf	Viktora	M			65	důchodce	Církvice	99	53	A
-2105	533998	1	3	53	9	Marie	Kůtová	F			63	důchodce	Jakub	99	53	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2105	533998	1	1	1411	1	Jitka	Málková	Ing.		61	OSVČ	Církvice	99	80	A	F
+2105	533998	1	2	7	1	Jiří	Volenec			60	starosta	Církvice	7	7	A	M
+2105	533998	1	3	53	1	Marcel	Bilinkiewicz	Ing.		56	inženýr kvality	Jakub	53	53	A	M
+2105	533998	1	1	1411	2	Tomáš	Jelínek			48	dispečer Správy železnic	Jakub	99	80	A	M
+2105	533998	1	2	7	2	Zdeněk	Skřivánek			59	stavební technik	Církvice	99	7	A	M
+2105	533998	1	3	53	2	Karel	Uhlíř			63	stavební technik	Jakub	53	53	A	M
+2105	533998	1	1	1411	3	Marcela	Batelková	Mgr.	DiS.	41	zdravotní sestra	Církvice	99	80	A	F
+2105	533998	1	2	7	3	Ludmila	Hrušková	Mgr.		43	ředitelka ZŠ Církvice	Jakub	99	7	A	F
+2105	533998	1	3	53	3	Josef	Kůrka			51	referent stavebního úřadu	Církvice	99	53	A	M
+2105	533998	1	1	1411	4	Zdeněk	Spurný			52	stavbyvedoucí	Církvice	99	80	A	M
+2105	533998	1	2	7	4	Jiří	Volenec		DiS.	36	podnikatel	Církvice	7	7	A	M
+2105	533998	1	3	53	4	Petr	Uher		DiS.	50	obchodní ředitel	Jakub	99	53	A	M
+2105	533998	1	1	1411	5	Karolína	Solovov			29	odborná referentka	Církvice	99	80	A	F
+2105	533998	1	2	7	5	Marie	Procházková			51	administrativní pracovnice	Církvice	99	7	A	F
+2105	533998	1	3	53	5	Miroslava	Malimánková	Ing.		42	účetní, daňový poradce	Církvice	99	53	A	F
+2105	533998	1	1	1411	6	Miroslav	Hák			38	manipulátor v dopravě	Jakub	99	80	A	M
+2105	533998	1	2	7	6	Alena	Kostincová	Bc.		62	učitelka MŠ Církvice	Jakub	99	7	A	F
+2105	533998	1	3	53	6	Lenka	Kvízová	Mgr.		66	důchodkyně	Jakub	99	53	A	F
+2105	533998	1	1	1411	7	Kristýna	Olexová	Bc.		27	politoložka	Církvice	99	80	A	F
+2105	533998	1	2	7	7	Petr	Dušek			56	hasič - velitel	Církvice	99	7	A	M
+2105	533998	1	3	53	7	Jaroslav	Hruška			64	důchodce	Jakub	99	53	A	M
+2105	533998	1	1	1411	8	Jiřina	Morawská			41	operátorka ve výrobě	Jakub	99	80	A	F
+2105	533998	1	2	7	8	Gabriela	Vondrysová			47	mzdová účetní	Jakub	99	7	A	F
+2105	533998	1	3	53	8	Rudolf	Viktora			65	důchodce	Církvice	99	53	A	M
+2105	533998	1	1	1411	9	Petr	Doležal			51	administrátor ICT	Jakub	99	80	A	M
+2105	533998	1	2	7	9	Petra	Grulichová			43	asistentka pedagoga	Církvice	99	7	A	F
+2105	533998	1	3	53	9	Marie	Kůtová			63	důchodce	Jakub	99	53	A	F

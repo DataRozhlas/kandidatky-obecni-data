@@ -1,40 +1,40 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3105	550558	1	1	1	1	Jaroslav	Fleišman	M			28	stavební technik	Štítkov	99	1	0
-3105	550558	1	1	1	2	Jana	Alešová	F			49	veterinární technička	Trhonín	99	1	0
-3105	550558	1	1	1	3	Jitka	Fleišmanová	F			46	knihařka	Štítkov	99	1	0
-3105	550558	1	1	1	4	Lenka	Fleišmanová	F	Mgr.		26	učitelka	Štítkov	99	1	0
-3105	550558	1	1	1	5	Helena	Krejsová	F			51	kuchařka	Štítkov	99	1	0
-3105	550558	1	1	1	6	Miloslava	Roučová	F			42	kadeřnice	Svatá Maří	99	1	0
-3105	550558	1	1	1	7	Miloslav	Sládek	M			63	důchodce	Svatá Maří	99	1	0
-3105	550558	1	1	1	8	Miroslav	Zátka	M			22	stavební technik	Svatá Maří	99	1	0
-3105	550558	1	1	1	9	Ladislav	Böhm	M			38	truhlář	Svatá Maří	99	1	0
-3105	550558	1	2	901	1	Stanislav	Skalický	M			50	zedník	Svatá Maří	99	80	0
-3105	550558	1	2	901	2	Augustin	Pokorný	M			60	ředitel	Svatá Maří	99	80	0
-3105	550558	1	2	901	3	Jaroslav	Lešek	M			55	podnikatel	Svatá Maří	99	80	0
-3105	550558	1	2	901	4	Tomáš	Markytán	M			57	soukromý zemědělec	Štítkov	99	80	0
-3105	550558	1	2	901	5	Miroslav	Zátka	M			39	zedník	Svatá Maří	99	80	0
-3105	550558	1	2	901	6	František	Bostl	M			37	celník	Štítkov	99	80	0
-3105	550558	1	2	901	7	Petr	Mistr	M			35	podnikatel	Trhonín	99	80	0
-3105	550558	1	2	901	8	Milan	Horelica	M			38	tesař	Svatá Maří	99	80	0
-3105	550558	1	2	901	9	Vojtěch	Topka	M			40	truhlář	Svatá Maří	99	80	0
-3105	550558	1	3	904	1	Lenka	Křížová	F			39	vedoucí školní jídelny	Štítkov	99	80	0
-3105	550558	1	3	904	2	Růžena	Smíšková	F			44	invalidní důchodkyně	Štítkov	99	80	0
-3105	550558	1	3	904	3	Ivana	Velková	F			48	pečovatelka	Štítkov	99	80	0
-3105	550558	1	3	904	4	Václav	Janda	M			43	instalatér	Štítkov	99	80	0
-3105	550558	1	3	904	5	František	Krejsa	M	Ing.		54	technický pracovník	Štítkov	99	80	0
-3105	550558	1	3	904	6	Josef	Kříž	M			45	truhlář	Štítkov	99	80	0
-3105	550558	1	3	904	7	Jan	Nový	M			38	automechanik	Štítkov	99	80	0
-3105	550558	1	3	904	8	Ladislav	Velek	M			53	vrátný	Štítkov	99	80	0
-3105	550558	1	3	904	9	František	Scherer	M			62	starosta	Štítkov	99	80	0
-3105	550558	1	4	903	1	Pavel	Vyskočil	M	Ing.		30	projektant	Svatá Maří	99	80	0
-3105	550558	1	4	903	2	František	Linha	M			39	skladník	Trhonín	99	80	0
-3105	550558	1	4	903	3	Lenka	Vyskočilová	F			25	vedoucí skladu	Svatá Maří	99	80	0
-3105	550558	1	4	903	4	Josef	Časta	M			51	truhlář	Svatá Maří	99	80	0
-3105	550558	1	4	903	5	Miroslav	Kovář	M			45	údržbář	Svatá Maří	99	80	0
-3105	550558	1	4	903	6	Milan	Vondrášek	M			34	zedník	Svatá Maří	99	80	0
-3105	550558	1	4	903	7	Libor	Michalec	M			29	zedník	Svatá Maří	99	80	0
-3105	550558	1	4	903	8	František	Novák	M			29	řezník	Svatá Maří	99	80	0
-3105	550558	1	5	902	1	Iveta	Jandová	F			36	pečovatelka	Svatá Maří	99	80	0
-3105	550558	1	5	902	2	Hedvika	Machová	F			47	učitelka MŠ	Svatá Maří	99	80	0
-3105	550558	1	5	902	3	Jana	Chvalová	F			43	švadlena	Svatá Maří	99	80	0
-3105	550558	1	5	902	4	Milada	Šafránková	F			43	podnikatelka	Svatá Maří	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3105	550558	1	1	1	1	Jaroslav	Fleišman			28	stavební technik	Štítkov	99	1	0	M
+3105	550558	1	2	901	1	Stanislav	Skalický			50	zedník	Svatá Maří	99	80	0	M
+3105	550558	1	3	904	1	Lenka	Křížová			39	vedoucí školní jídelny	Štítkov	99	80	0	F
+3105	550558	1	4	903	1	Pavel	Vyskočil	Ing.		30	projektant	Svatá Maří	99	80	0	M
+3105	550558	1	5	902	1	Iveta	Jandová			36	pečovatelka	Svatá Maří	99	80	0	F
+3105	550558	1	1	1	2	Jana	Alešová			49	veterinární technička	Trhonín	99	1	0	F
+3105	550558	1	2	901	2	Augustin	Pokorný			60	ředitel	Svatá Maří	99	80	0	M
+3105	550558	1	3	904	2	Růžena	Smíšková			44	invalidní důchodkyně	Štítkov	99	80	0	F
+3105	550558	1	4	903	2	František	Linha			39	skladník	Trhonín	99	80	0	M
+3105	550558	1	5	902	2	Hedvika	Machová			47	učitelka MŠ	Svatá Maří	99	80	0	F
+3105	550558	1	1	1	3	Jitka	Fleišmanová			46	knihařka	Štítkov	99	1	0	F
+3105	550558	1	2	901	3	Jaroslav	Lešek			55	podnikatel	Svatá Maří	99	80	0	M
+3105	550558	1	3	904	3	Ivana	Velková			48	pečovatelka	Štítkov	99	80	0	F
+3105	550558	1	4	903	3	Lenka	Vyskočilová			25	vedoucí skladu	Svatá Maří	99	80	0	F
+3105	550558	1	5	902	3	Jana	Chvalová			43	švadlena	Svatá Maří	99	80	0	F
+3105	550558	1	1	1	4	Lenka	Fleišmanová	Mgr.		26	učitelka	Štítkov	99	1	0	F
+3105	550558	1	2	901	4	Tomáš	Markytán			57	soukromý zemědělec	Štítkov	99	80	0	M
+3105	550558	1	3	904	4	Václav	Janda			43	instalatér	Štítkov	99	80	0	M
+3105	550558	1	4	903	4	Josef	Časta			51	truhlář	Svatá Maří	99	80	0	M
+3105	550558	1	5	902	4	Milada	Šafránková			43	podnikatelka	Svatá Maří	99	80	0	F
+3105	550558	1	1	1	5	Helena	Krejsová			51	kuchařka	Štítkov	99	1	0	F
+3105	550558	1	2	901	5	Miroslav	Zátka			39	zedník	Svatá Maří	99	80	0	M
+3105	550558	1	3	904	5	František	Krejsa	Ing.		54	technický pracovník	Štítkov	99	80	0	M
+3105	550558	1	4	903	5	Miroslav	Kovář			45	údržbář	Svatá Maří	99	80	0	M
+3105	550558	1	1	1	6	Miloslava	Roučová			42	kadeřnice	Svatá Maří	99	1	0	F
+3105	550558	1	2	901	6	František	Bostl			37	celník	Štítkov	99	80	0	M
+3105	550558	1	3	904	6	Josef	Kříž			45	truhlář	Štítkov	99	80	0	M
+3105	550558	1	4	903	6	Milan	Vondrášek			34	zedník	Svatá Maří	99	80	0	M
+3105	550558	1	1	1	7	Miloslav	Sládek			63	důchodce	Svatá Maří	99	1	0	M
+3105	550558	1	2	901	7	Petr	Mistr			35	podnikatel	Trhonín	99	80	0	M
+3105	550558	1	3	904	7	Jan	Nový			38	automechanik	Štítkov	99	80	0	M
+3105	550558	1	4	903	7	Libor	Michalec			29	zedník	Svatá Maří	99	80	0	M
+3105	550558	1	1	1	8	Miroslav	Zátka			22	stavební technik	Svatá Maří	99	1	0	M
+3105	550558	1	2	901	8	Milan	Horelica			38	tesař	Svatá Maří	99	80	0	M
+3105	550558	1	3	904	8	Ladislav	Velek			53	vrátný	Štítkov	99	80	0	M
+3105	550558	1	4	903	8	František	Novák			29	řezník	Svatá Maří	99	80	0	M
+3105	550558	1	1	1	9	Ladislav	Böhm			38	truhlář	Svatá Maří	99	1	0	M
+3105	550558	1	2	901	9	Vojtěch	Topka			40	truhlář	Svatá Maří	99	80	0	M
+3105	550558	1	3	904	9	František	Scherer			62	starosta	Štítkov	99	80	0	M

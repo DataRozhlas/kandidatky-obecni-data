@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6204	585025	1	1	53	1	Pavel	Pekař	M	Ing.		40	starosta obce	Vlasatice	99	53	0
-6204	585025	1	1	53	2	Petr	Veselý	M			40	živnostník	Vlasatice	53	53	0
-6204	585025	1	1	53	3	Petr	Skalák	M			36	živnostník	Vlasatice	99	53	0
-6204	585025	1	1	53	4	Hana	Studeníková	F			41	účetní	Vlasatice	99	53	0
-6204	585025	1	1	53	5	Zbyněk	Hroudný	M			24	automechanik	Vlasatice	99	53	0
-6204	585025	1	1	53	6	Jiří	Studeník	M			48	živnostník	Vlasatice	53	53	0
-6204	585025	1	1	53	7	Pavel	Procházka	M			29	živnostník	Vlasatice	99	53	0
-6204	585025	1	2	47	1	Eva	Hubáčková	F			60	důchodce	Vlasatice	47	47	0
-6204	585025	1	2	47	2	Lubomír	Kret	M			34	zaměstnanec	Vlasatice	99	47	0
-6204	585025	1	2	47	3	Zdeněk	Bém	M			45	zaměstnanec	Vlasatice	99	47	0
-6204	585025	1	2	47	4	Ivana	Malečková	F			35	zaměstnanec	Vlasatice	99	47	0
-6204	585025	1	2	47	5	Bohumil	Špaček	M			64	důchodce	Vlasatice	47	47	0
-6204	585025	1	2	47	6	Vratislav	Palášek	M			73	důchodce	Vlasatice	47	47	0
-6204	585025	1	2	47	7	Marcel	Bojo	M			44	zaměstnanec	Vlasatice	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6204	585025	1	1	53	1	Pavel	Pekař	Ing.		40	starosta obce	Vlasatice	99	53	0	M
+6204	585025	1	2	47	1	Eva	Hubáčková			60	důchodce	Vlasatice	47	47	0	F
+6204	585025	1	1	53	2	Petr	Veselý			40	živnostník	Vlasatice	53	53	0	M
+6204	585025	1	2	47	2	Lubomír	Kret			34	zaměstnanec	Vlasatice	99	47	0	M
+6204	585025	1	1	53	3	Petr	Skalák			36	živnostník	Vlasatice	99	53	0	M
+6204	585025	1	2	47	3	Zdeněk	Bém			45	zaměstnanec	Vlasatice	99	47	0	M
+6204	585025	1	1	53	4	Hana	Studeníková			41	účetní	Vlasatice	99	53	0	F
+6204	585025	1	2	47	4	Ivana	Malečková			35	zaměstnanec	Vlasatice	99	47	0	F
+6204	585025	1	1	53	5	Zbyněk	Hroudný			24	automechanik	Vlasatice	99	53	0	M
+6204	585025	1	2	47	5	Bohumil	Špaček			64	důchodce	Vlasatice	47	47	0	M
+6204	585025	1	1	53	6	Jiří	Studeník			48	živnostník	Vlasatice	53	53	0	M
+6204	585025	1	2	47	6	Vratislav	Palášek			73	důchodce	Vlasatice	47	47	0	M
+6204	585025	1	1	53	7	Pavel	Procházka			29	živnostník	Vlasatice	99	53	0	M
+6204	585025	1	2	47	7	Marcel	Bojo			44	zaměstnanec	Vlasatice	99	47	0	M

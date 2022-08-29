@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	541966	1	1	802	1	Lenka	Mačejová	F			21	studentka VŠ	Krupá	99	80	0
-2112	541966	1	2	801	1	Miroslav	Ton	M			55	řidič autobusu Anexia	Krupá	99	80	0
-2112	541966	1	3	901	1	Jiří	Klátil	M			61	zaměstnanec státní správy	Krupá	47	80	0
-2112	541966	1	3	901	2	Pavel	Ledvinka	M	Ing.		66	důchodce	Krupá	99	80	0
-2112	541966	1	3	901	3	Jindřich	Mrázek	M	Ing.		41	specialista IT	Krupá	99	80	0
-2112	541966	1	3	901	4	Marcela	Mrzenová	F	Mgr.		49	ředitelka ZŠ	Krupá	99	80	0
-2112	541966	1	3	901	5	Libuše	Mikešová	F			66	důchodkyně	Krupá	99	80	0
-2112	541966	1	3	901	6	Josef	Miksa	M			42	dělník	Krupá	99	80	0
-2112	541966	1	3	901	7	Radislav	Ryvola	M			52	automechanik	Krupá	99	80	0
-2112	541966	1	3	901	8	Václav	Ryvola	M			54	vedoucí provozovny	Krupá	99	80	0
-2112	541966	1	3	901	9	Radoslav	Fořtík	M			65	důchodce	Krupá	99	80	0
-2112	541966	1	4	902	1	Karel	Vlček	M			38	skladník	Krupá	99	80	0
-2112	541966	1	4	902	2	Pavel	Miksa	M			35	řidič,skladník	Krupá	99	80	0
-2112	541966	1	4	902	3	Radek	Svoboda	M			37	seřizovač	Krupá	99	80	0
-2112	541966	1	4	902	4	Matěj	Bauer	M			33	ředitel bankovní pobočky	Krupá	99	80	0
-2112	541966	1	4	902	5	Pavlína	Hurdová	F	Ing.		31	učitelka	Krupá	99	80	0
-2112	541966	1	4	902	6	Antonín	Kubínek	M			24	opravář os.aut	Krupá	99	80	0
-2112	541966	1	4	902	7	Jana	Kubíková	F			45	dětská sestra	Krupá	99	80	0
-2112	541966	1	4	902	8	Zdeněk	Hauner	M			32	OSVČ	Krupá	99	80	0
-2112	541966	1	4	902	9	Martin	Kubík	M			37	kontrolor kvality	Krupá	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	541966	1	1	802	1	Lenka	Mačejová			21	studentka VŠ	Krupá	99	80	0	F
+2112	541966	1	2	801	1	Miroslav	Ton			55	řidič autobusu Anexia	Krupá	99	80	0	M
+2112	541966	1	3	901	1	Jiří	Klátil			61	zaměstnanec státní správy	Krupá	47	80	0	M
+2112	541966	1	4	902	1	Karel	Vlček			38	skladník	Krupá	99	80	0	M
+2112	541966	1	3	901	2	Pavel	Ledvinka	Ing.		66	důchodce	Krupá	99	80	0	M
+2112	541966	1	4	902	2	Pavel	Miksa			35	řidič,skladník	Krupá	99	80	0	M
+2112	541966	1	3	901	3	Jindřich	Mrázek	Ing.		41	specialista IT	Krupá	99	80	0	M
+2112	541966	1	4	902	3	Radek	Svoboda			37	seřizovač	Krupá	99	80	0	M
+2112	541966	1	3	901	4	Marcela	Mrzenová	Mgr.		49	ředitelka ZŠ	Krupá	99	80	0	F
+2112	541966	1	4	902	4	Matěj	Bauer			33	ředitel bankovní pobočky	Krupá	99	80	0	M
+2112	541966	1	3	901	5	Libuše	Mikešová			66	důchodkyně	Krupá	99	80	0	F
+2112	541966	1	4	902	5	Pavlína	Hurdová	Ing.		31	učitelka	Krupá	99	80	0	F
+2112	541966	1	3	901	6	Josef	Miksa			42	dělník	Krupá	99	80	0	M
+2112	541966	1	4	902	6	Antonín	Kubínek			24	opravář os.aut	Krupá	99	80	0	M
+2112	541966	1	3	901	7	Radislav	Ryvola			52	automechanik	Krupá	99	80	0	M
+2112	541966	1	4	902	7	Jana	Kubíková			45	dětská sestra	Krupá	99	80	0	F
+2112	541966	1	3	901	8	Václav	Ryvola			54	vedoucí provozovny	Krupá	99	80	0	M
+2112	541966	1	4	902	8	Zdeněk	Hauner			32	OSVČ	Krupá	99	80	0	M
+2112	541966	1	3	901	9	Radoslav	Fořtík			65	důchodce	Krupá	99	80	0	M
+2112	541966	1	4	902	9	Martin	Kubík			37	kontrolor kvality	Krupá	99	80	0	M

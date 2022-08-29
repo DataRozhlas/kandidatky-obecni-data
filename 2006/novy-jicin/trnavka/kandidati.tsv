@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8104	569755	1	1	47	1	Vladimír	Sklenák	M			55	elektromechanik	Trnávka	47	47	0
-8104	569755	1	1	47	2	Pavel	Vintrocha	M			42	dělník	Trnávka	47	47	0
-8104	569755	1	1	47	3	Josef	Polášek	M			45	zedník	Trnávka	47	47	0
-8104	569755	1	1	47	4	Vladislav	Němec	M			57	technický pracovník	Trnávka	47	47	0
-8104	569755	1	1	47	5	Ivo	Neuwirt	M	Mgr.		78	důchodce	Trnávka	47	47	0
-8104	569755	1	1	47	6	Pavel	Vintrocha	M			66	důchodce	Trnávka	47	47	0
-8104	569755	1	1	47	7	Jaroslav	Caga	M			63	důchodce	Trnávka	99	47	0
-8104	569755	1	1	47	8	Lumír	Šimečka	M			57	elektrikář	Trnávka	99	47	0
-8104	569755	1	2	901	1	Božena	Londinová	F			45	starostka obce	Trnávka	99	80	0
-8104	569755	1	2	901	2	Karel	Merta	M	Ing.		54	technik	Trnávka	99	80	0
-8104	569755	1	2	901	3	Oldřich	Brus	M	Ing.		51	technik	Trnávka	99	80	0
-8104	569755	1	2	901	4	Miroslav	Světlík	M	Mgr.		48	učitel	Trnávka	99	80	0
-8104	569755	1	2	901	5	Radislav	Horkel	M	Ing.		42	technik	Trnávka	99	80	0
-8104	569755	1	2	901	6	Martin	Šimečka	M	Ing.		37	podnikatel	Trnávka	99	80	0
-8104	569755	1	2	901	7	Marie	Pařenicová	F	Mgr.		49	učitelka	Trnávka	99	80	0
-8104	569755	1	2	901	8	Martin	Hýl	M	Ing.		41	ekonom	Trnávka	99	80	0
-8104	569755	1	2	901	9	Miroslav	Brus	M	Ing.		48	technik	Trnávka	99	80	0
-8104	569755	1	2	901	10	Josef	Šindel	M			56	řidič	Trnávka	99	80	0
-8104	569755	1	2	901	11	Jaromír	Novák	M			61	důchodce	Trnávka	99	80	0
-8104	569755	1	2	901	12	Josef	Strakoš	M			59	elektromechanik	Trnávka	99	80	0
-8104	569755	1	2	901	13	Jaroslav	Rejlek	M			29	svářeč	Trnávka	99	80	0
-8104	569755	1	2	901	14	Ivana	Vidličková	F	Mgr.		44	učitelka	Trnávka	99	80	0
-8104	569755	1	2	901	15	Hana	Londinová	F			43	podnikatelka	Trnávka	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8104	569755	1	1	47	1	Vladimír	Sklenák			55	elektromechanik	Trnávka	47	47	0	M
+8104	569755	1	2	901	1	Božena	Londinová			45	starostka obce	Trnávka	99	80	0	F
+8104	569755	1	1	47	2	Pavel	Vintrocha			42	dělník	Trnávka	47	47	0	M
+8104	569755	1	2	901	2	Karel	Merta	Ing.		54	technik	Trnávka	99	80	0	M
+8104	569755	1	1	47	3	Josef	Polášek			45	zedník	Trnávka	47	47	0	M
+8104	569755	1	2	901	3	Oldřich	Brus	Ing.		51	technik	Trnávka	99	80	0	M
+8104	569755	1	1	47	4	Vladislav	Němec			57	technický pracovník	Trnávka	47	47	0	M
+8104	569755	1	2	901	4	Miroslav	Světlík	Mgr.		48	učitel	Trnávka	99	80	0	M
+8104	569755	1	1	47	5	Ivo	Neuwirt	Mgr.		78	důchodce	Trnávka	47	47	0	M
+8104	569755	1	2	901	5	Radislav	Horkel	Ing.		42	technik	Trnávka	99	80	0	M
+8104	569755	1	1	47	6	Pavel	Vintrocha			66	důchodce	Trnávka	47	47	0	M
+8104	569755	1	2	901	6	Martin	Šimečka	Ing.		37	podnikatel	Trnávka	99	80	0	M
+8104	569755	1	1	47	7	Jaroslav	Caga			63	důchodce	Trnávka	99	47	0	M
+8104	569755	1	2	901	7	Marie	Pařenicová	Mgr.		49	učitelka	Trnávka	99	80	0	F
+8104	569755	1	1	47	8	Lumír	Šimečka			57	elektrikář	Trnávka	99	47	0	M
+8104	569755	1	2	901	8	Martin	Hýl	Ing.		41	ekonom	Trnávka	99	80	0	M
+8104	569755	1	2	901	9	Miroslav	Brus	Ing.		48	technik	Trnávka	99	80	0	M
+8104	569755	1	2	901	10	Josef	Šindel			56	řidič	Trnávka	99	80	0	M
+8104	569755	1	2	901	11	Jaromír	Novák			61	důchodce	Trnávka	99	80	0	M
+8104	569755	1	2	901	12	Josef	Strakoš			59	elektromechanik	Trnávka	99	80	0	M
+8104	569755	1	2	901	13	Jaroslav	Rejlek			29	svářeč	Trnávka	99	80	0	M
+8104	569755	1	2	901	14	Ivana	Vidličková	Mgr.		44	učitelka	Trnávka	99	80	0	F
+8104	569755	1	2	901	15	Hana	Londinová			43	podnikatelka	Trnávka	99	80	0	F

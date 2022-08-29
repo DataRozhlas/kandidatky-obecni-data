@@ -1,9 +1,9 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	571016	1	1	807	1	Jan	Štancl	M			20	student	Šaplava	99	80	A
-5201	571016	1	2	803	1	Michal	Habich	M			49	výpravčí	Šaplava	99	80	A
-5201	571016	1	3	805	1	Dana	Fučíková	F			60	účetní	Šaplava	99	80	A
-5201	571016	1	4	804	1	František	Šafka	M			73	důchodce	Šaplava	99	80	A
-5201	571016	1	5	801	1	Viktor	Wiesner	M	Ing.		64	důchodce	Šaplava	99	80	A
-5201	571016	1	6	802	1	Ivana	Čiperová	F			54	úřednice	Šaplava	99	80	A
-5201	571016	1	7	806	1	Jana	Štanclová	F			56	učitelka MŠ	Šaplava	99	80	A
-5201	571016	1	8	808	1	Vojtěch	Rychetník	M			22	učitel	Šaplava	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	571016	1	1	807	1	Jan	Štancl			20	student	Šaplava	99	80	A	M
+5201	571016	1	2	803	1	Michal	Habich			49	výpravčí	Šaplava	99	80	A	M
+5201	571016	1	3	805	1	Dana	Fučíková			60	účetní	Šaplava	99	80	A	F
+5201	571016	1	4	804	1	František	Šafka			73	důchodce	Šaplava	99	80	A	M
+5201	571016	1	5	801	1	Viktor	Wiesner	Ing.		64	důchodce	Šaplava	99	80	A	M
+5201	571016	1	6	802	1	Ivana	Čiperová			54	úřednice	Šaplava	99	80	A	F
+5201	571016	1	7	806	1	Jana	Štanclová			56	učitelka MŠ	Šaplava	99	80	A	F
+5201	571016	1	8	808	1	Vojtěch	Rychetník			22	učitel	Šaplava	99	80	A	M

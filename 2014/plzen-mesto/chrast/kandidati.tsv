@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3203	558966	1	1	903	1	Jiří	Hrstka	M	Mgr. et Mgr.		34	projektový manažer	Chrást	7	80	0
-3203	558966	1	1	903	2	Antonín	Bórik	M	JUDr.		63	důchodce	Chrást	99	80	0
-3203	558966	1	1	903	3	Tomáš	Kala	M	Ing.		32	IT specialista	Chrást	99	80	0
-3203	558966	1	1	903	4	Dana	Dražská	F			50	OSVČ	Chrást	99	80	0
-3203	558966	1	1	903	5	Josef	Choc	M			41	vedoucí pracovník	Chrást	99	80	0
-3203	558966	1	1	903	6	Miroslav	Hampl	M	Mgr.		43	hasič	Chrást	99	80	0
-3203	558966	1	1	903	7	Dagmar	Kalová	F			32	účetní	Chrást	99	80	0
-3203	558966	1	1	903	8	Vladimír	Fencl	M			57	OSVČ	Chrást	99	80	0
-3203	558966	1	1	903	9	Taťána	Smutná	F	Ing.	DiS.	29	projektant požárně-bezpečnostních řešení	Chrást	99	80	0
-3203	558966	1	1	903	10	Michal	Bórik	M	Ing.		39	hasič	Chrást	99	80	0
-3203	558966	1	1	903	11	Rostislav	Šašek	M			36	OSVČ	Chrást	99	80	0
-3203	558966	1	2	902	1	Jitka	Sochorová	F	Mgr.		55	ředitelka střední školy	Chrást	99	80	0
-3203	558966	1	2	902	2	Zdeněk	Vejstrk	M			55	nástrojař	Chrást	99	80	0
-3203	558966	1	2	902	3	Jitka	Havlánová	F	Mgr.		44	odborná učitelka	Chrást	99	80	0
-3203	558966	1	2	902	4	Jan	Jung	M			64	důchodce	Chrást	5	80	0
-3203	558966	1	2	902	5	Jiří	Krásný	M			39	montér	Chrást	99	80	0
-3203	558966	1	2	902	6	Josef	Netrval	M			66	důchodce	Chrást	99	80	0
-3203	558966	1	2	902	7	Luděk	Míšek	M		MgA.	37	akademický pracovník ZČU	Chrást	99	80	0
-3203	558966	1	2	902	8	Bohuslav	Čečák	M			64	dispečer	Chrást	99	80	0
-3203	558966	1	2	902	9	Jana	Mikolášková	F			53	operátor	Chrást	99	80	0
-3203	558966	1	2	902	10	Jiří	Körner	M			74	důchodce	Chrást	99	80	0
-3203	558966	1	2	902	11	Jiří	Škarda	M			34	barman, číšník, kuchař	Chrást	5	80	0
-3203	558966	1	3	901	1	Ladislav	Bohuslav	M			51	starosta	Chrást	99	80	0
-3203	558966	1	3	901	2	Lenka	Boudová	F			33	fin.analytik na RD (rodičovská dovolená)	Chrást	99	80	0
-3203	558966	1	3	901	3	Michal	Mráz	M	Ing.		50	manažer	Chrást	99	80	0
-3203	558966	1	3	901	4	Antonín	Kmoníček	M			43	invalidní důchodce	Chrást	99	80	0
-3203	558966	1	3	901	5	Vladislav	Beran	M			73	podnikatel	Chrást	99	80	0
-3203	558966	1	3	901	6	Petra	Bednářová	F	Mgr.		45	ředitelka obecně prospěšné společnosti	Chrást	7	80	0
-3203	558966	1	3	901	7	Lubomír	Kopecký	M			34	obchodní zástupce	Chrást	99	80	0
-3203	558966	1	3	901	8	Lukáš	Krisman	M			50	podnikatel	Chrást	99	80	0
-3203	558966	1	3	901	9	Jana	Tymlová	F			35	účetní	Chrást	99	80	0
-3203	558966	1	3	901	10	Jitka	Čechurová	F	Bc.		42	obchodní manažer	Chrást	99	80	0
-3203	558966	1	3	901	11	Zbyněk	Blaheta	M			55	prodavač	Chrást	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3203	558966	1	1	903	1	Jiří	Hrstka	Mgr. et Mgr.		34	projektový manažer	Chrást	7	80	0	M
+3203	558966	1	2	902	1	Jitka	Sochorová	Mgr.		55	ředitelka střední školy	Chrást	99	80	0	F
+3203	558966	1	3	901	1	Ladislav	Bohuslav			51	starosta	Chrást	99	80	0	M
+3203	558966	1	1	903	2	Antonín	Bórik	JUDr.		63	důchodce	Chrást	99	80	0	M
+3203	558966	1	2	902	2	Zdeněk	Vejstrk			55	nástrojař	Chrást	99	80	0	M
+3203	558966	1	3	901	2	Lenka	Boudová			33	fin.analytik na RD (rodičovská dovolená)	Chrást	99	80	0	F
+3203	558966	1	1	903	3	Tomáš	Kala	Ing.		32	IT specialista	Chrást	99	80	0	M
+3203	558966	1	2	902	3	Jitka	Havlánová	Mgr.		44	odborná učitelka	Chrást	99	80	0	F
+3203	558966	1	3	901	3	Michal	Mráz	Ing.		50	manažer	Chrást	99	80	0	M
+3203	558966	1	1	903	4	Dana	Dražská			50	OSVČ	Chrást	99	80	0	F
+3203	558966	1	2	902	4	Jan	Jung			64	důchodce	Chrást	5	80	0	M
+3203	558966	1	3	901	4	Antonín	Kmoníček			43	invalidní důchodce	Chrást	99	80	0	M
+3203	558966	1	1	903	5	Josef	Choc			41	vedoucí pracovník	Chrást	99	80	0	M
+3203	558966	1	2	902	5	Jiří	Krásný			39	montér	Chrást	99	80	0	M
+3203	558966	1	3	901	5	Vladislav	Beran			73	podnikatel	Chrást	99	80	0	M
+3203	558966	1	1	903	6	Miroslav	Hampl	Mgr.		43	hasič	Chrást	99	80	0	M
+3203	558966	1	2	902	6	Josef	Netrval			66	důchodce	Chrást	99	80	0	M
+3203	558966	1	3	901	6	Petra	Bednářová	Mgr.		45	ředitelka obecně prospěšné společnosti	Chrást	7	80	0	F
+3203	558966	1	1	903	7	Dagmar	Kalová			32	účetní	Chrást	99	80	0	F
+3203	558966	1	2	902	7	Luděk	Míšek		MgA.	37	akademický pracovník ZČU	Chrást	99	80	0	M
+3203	558966	1	3	901	7	Lubomír	Kopecký			34	obchodní zástupce	Chrást	99	80	0	M
+3203	558966	1	1	903	8	Vladimír	Fencl			57	OSVČ	Chrást	99	80	0	M
+3203	558966	1	2	902	8	Bohuslav	Čečák			64	dispečer	Chrást	99	80	0	M
+3203	558966	1	3	901	8	Lukáš	Krisman			50	podnikatel	Chrást	99	80	0	M
+3203	558966	1	1	903	9	Taťána	Smutná	Ing.	DiS.	29	projektant požárně-bezpečnostních řešení	Chrást	99	80	0	F
+3203	558966	1	2	902	9	Jana	Mikolášková			53	operátor	Chrást	99	80	0	F
+3203	558966	1	3	901	9	Jana	Tymlová			35	účetní	Chrást	99	80	0	F
+3203	558966	1	1	903	10	Michal	Bórik	Ing.		39	hasič	Chrást	99	80	0	M
+3203	558966	1	2	902	10	Jiří	Körner			74	důchodce	Chrást	99	80	0	M
+3203	558966	1	3	901	10	Jitka	Čechurová	Bc.		42	obchodní manažer	Chrást	99	80	0	F
+3203	558966	1	1	903	11	Rostislav	Šašek			36	OSVČ	Chrást	99	80	0	M
+3203	558966	1	2	902	11	Jiří	Škarda			34	barman, číšník, kuchař	Chrást	5	80	0	M
+3203	558966	1	3	901	11	Zbyněk	Blaheta			55	prodavač	Chrást	99	80	0	M

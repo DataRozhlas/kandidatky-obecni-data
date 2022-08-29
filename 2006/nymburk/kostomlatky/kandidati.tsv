@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2108	529630	1	1	901	1	Bohuslav	Kubín	M	Ing.		44	podnikatel	Kostomlátky	99	80	0
-2108	529630	1	1	901	2	Martin	Král	M			30	automechanik	Kostomlátky	99	80	0
-2108	529630	1	1	901	3	Miroslava	Hlavičková	F			49	pečovatelka	Kostomlátky	99	80	0
-2108	529630	1	1	901	4	Eva	Bidziliová	F			49	učitelka MŠ	Kostomlátky	99	80	0
-2108	529630	1	1	901	5	Vladimír	Vlasák	M			51	podnikatel	Kostomlátky	99	80	0
-2108	529630	1	1	901	6	Vlastimil	Kopecký	M			30	dělník	Kostomlátky	99	80	0
-2108	529630	1	2	902	1	Pavel	Kolář	M			36	podnikatel	Doubrava	99	80	0
-2108	529630	1	2	902	2	Martin	Janata	M			35	dělník	Doubrava	99	80	0
-2108	529630	1	2	902	3	Miroslav	Jára	M			32	podnikatel	Doubrava	99	80	0
-2108	529630	1	2	902	4	František	Vrabec	M			68	důchodce	Kostomlátky	99	80	0
-2108	529630	1	2	902	5	Bohuslav	Homolka	M			62	důchodce	Kostomlátky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2108	529630	1	1	901	1	Bohuslav	Kubín	Ing.		44	podnikatel	Kostomlátky	99	80	0	M
+2108	529630	1	2	902	1	Pavel	Kolář			36	podnikatel	Doubrava	99	80	0	M
+2108	529630	1	1	901	2	Martin	Král			30	automechanik	Kostomlátky	99	80	0	M
+2108	529630	1	2	902	2	Martin	Janata			35	dělník	Doubrava	99	80	0	M
+2108	529630	1	1	901	3	Miroslava	Hlavičková			49	pečovatelka	Kostomlátky	99	80	0	F
+2108	529630	1	2	902	3	Miroslav	Jára			32	podnikatel	Doubrava	99	80	0	M
+2108	529630	1	1	901	4	Eva	Bidziliová			49	učitelka MŠ	Kostomlátky	99	80	0	F
+2108	529630	1	2	902	4	František	Vrabec			68	důchodce	Kostomlátky	99	80	0	M
+2108	529630	1	1	901	5	Vladimír	Vlasák			51	podnikatel	Kostomlátky	99	80	0	M
+2108	529630	1	2	902	5	Bohuslav	Homolka			62	důchodce	Kostomlátky	99	80	0	M
+2108	529630	1	1	901	6	Vlastimil	Kopecký			30	dělník	Kostomlátky	99	80	0	M

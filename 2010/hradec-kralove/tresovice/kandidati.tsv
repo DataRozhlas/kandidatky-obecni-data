@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	571059	1	1	809	1	Pavel	Mrkvička	M			42	archivář	Třesovice	99	80	0
-5201	571059	1	2	803	1	Radoslav	Krajc	M			33	řidič	Třesovice	99	80	0
-5201	571059	1	3	808	1	Václav	Ryba	M			60	důchodce	Třesovice	99	80	0
-5201	571059	1	4	806	1	Bohuslav	Vejnar	M			60	invalidní důchodce	Třesovice	99	80	0
-5201	571059	1	5	805	1	Josef	Klepl	M			43	živnostník	Třesovice	99	80	0
-5201	571059	1	6	810	1	Ludmila	Valášková	F			47	administrativní pracovnice	Třesovice	99	80	0
-5201	571059	1	7	812	1	Zlata	Bělinová	F			54	dispečer	Třesovice	99	80	0
-5201	571059	1	8	801	1	Karel	Bednář	M			47	řidič	Třesovice	99	80	0
-5201	571059	1	9	802	1	Zuzana	Jahelková	F	Ing.		46	vedoucí ekonomického oddělení	Třesovice	99	80	0
-5201	571059	1	10	804	1	Martin	Košťál	M			28	servisní technik	Třesovice	99	80	0
-5201	571059	1	11	807	1	Zdeněk	Hríň	M			31	grafik	Třesovice	99	80	0
-5201	571059	1	12	811	1	Miroslav	Anton	M			57	zkušební technik	Třesovice	99	80	0
-5201	571059	1	13	901	1	Jiří	Žoček	M			36	manažer	Popovice	99	80	0
-5201	571059	1	13	901	2	Petr	Bláha	M			28	stavební technik	Popovice	99	80	0
-5201	571059	1	13	901	3	Karel	Zvoníček	M	Ing.		29	úředník	Popovice	99	80	0
-5201	571059	1	13	901	4	Miloslav	Vodička	M			67	bagrista	Popovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	571059	1	1	809	1	Pavel	Mrkvička			42	archivář	Třesovice	99	80	0	M
+5201	571059	1	2	803	1	Radoslav	Krajc			33	řidič	Třesovice	99	80	0	M
+5201	571059	1	3	808	1	Václav	Ryba			60	důchodce	Třesovice	99	80	0	M
+5201	571059	1	4	806	1	Bohuslav	Vejnar			60	invalidní důchodce	Třesovice	99	80	0	M
+5201	571059	1	5	805	1	Josef	Klepl			43	živnostník	Třesovice	99	80	0	M
+5201	571059	1	6	810	1	Ludmila	Valášková			47	administrativní pracovnice	Třesovice	99	80	0	F
+5201	571059	1	7	812	1	Zlata	Bělinová			54	dispečer	Třesovice	99	80	0	F
+5201	571059	1	8	801	1	Karel	Bednář			47	řidič	Třesovice	99	80	0	M
+5201	571059	1	9	802	1	Zuzana	Jahelková	Ing.		46	vedoucí ekonomického oddělení	Třesovice	99	80	0	F
+5201	571059	1	10	804	1	Martin	Košťál			28	servisní technik	Třesovice	99	80	0	M
+5201	571059	1	11	807	1	Zdeněk	Hríň			31	grafik	Třesovice	99	80	0	M
+5201	571059	1	12	811	1	Miroslav	Anton			57	zkušební technik	Třesovice	99	80	0	M
+5201	571059	1	13	901	1	Jiří	Žoček			36	manažer	Popovice	99	80	0	M
+5201	571059	1	13	901	2	Petr	Bláha			28	stavební technik	Popovice	99	80	0	M
+5201	571059	1	13	901	3	Karel	Zvoníček	Ing.		29	úředník	Popovice	99	80	0	M
+5201	571059	1	13	901	4	Miloslav	Vodička			67	bagrista	Popovice	99	80	0	M

@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	594393	1	1	901	1	Lubomír	Mála	M	JUDr.		57	důchodce	Lukov	99	80	0
-6207	594393	1	1	901	2	Antonín	Plaček	M			49	důchodce	Lukov	99	80	0
-6207	594393	1	1	901	3	Stanislav	Šula	M	Ing.		68	důchodce	Lukov	99	80	0
-6207	594393	1	1	901	4	Marek	Langer	M			32	dělník	Lukov	99	80	0
-6207	594393	1	1	901	5	Miroslava	Moučková	F	RSDr.		61	důchodce	Lukov	99	80	0
-6207	594393	1	1	901	6	Vlasta	Chladilová	F			67	důchodce	Lukov	99	80	0
-6207	594393	1	1	901	7	Ludmila	Urbanová	F			60	důchodce	Lukov	99	80	0
-6207	594393	1	1	901	8	Eva	Kliková	F			33	nezaměstnaná	Lukov	99	80	0
-6207	594393	1	1	901	9	Vladimíra	Hochová	F			32	zdravotní sestra	Lukov	99	80	0
-6207	594393	1	2	902	1	David	Slezák	M	Ing.		39	ředitel společnosti	Lukov	99	80	0
-6207	594393	1	2	902	2	Libor	Doležal	M			33	podnikatel	Lukov	99	80	0
-6207	594393	1	2	902	3	Josef	Tesařík	M			30	podnikatel	Lukov	99	80	0
-6207	594393	1	2	902	4	Jakub	Krejčí	M			20	traktorista	Lukov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	594393	1	1	901	1	Lubomír	Mála	JUDr.		57	důchodce	Lukov	99	80	0	M
+6207	594393	1	2	902	1	David	Slezák	Ing.		39	ředitel společnosti	Lukov	99	80	0	M
+6207	594393	1	1	901	2	Antonín	Plaček			49	důchodce	Lukov	99	80	0	M
+6207	594393	1	2	902	2	Libor	Doležal			33	podnikatel	Lukov	99	80	0	M
+6207	594393	1	1	901	3	Stanislav	Šula	Ing.		68	důchodce	Lukov	99	80	0	M
+6207	594393	1	2	902	3	Josef	Tesařík			30	podnikatel	Lukov	99	80	0	M
+6207	594393	1	1	901	4	Marek	Langer			32	dělník	Lukov	99	80	0	M
+6207	594393	1	2	902	4	Jakub	Krejčí			20	traktorista	Lukov	99	80	0	M
+6207	594393	1	1	901	5	Miroslava	Moučková	RSDr.		61	důchodce	Lukov	99	80	0	F
+6207	594393	1	1	901	6	Vlasta	Chladilová			67	důchodce	Lukov	99	80	0	F
+6207	594393	1	1	901	7	Ludmila	Urbanová			60	důchodce	Lukov	99	80	0	F
+6207	594393	1	1	901	8	Eva	Kliková			33	nezaměstnaná	Lukov	99	80	0	F
+6207	594393	1	1	901	9	Vladimíra	Hochová			32	zdravotní sestra	Lukov	99	80	0	F

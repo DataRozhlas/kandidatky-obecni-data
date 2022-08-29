@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	538680	1	1	53	1	Martin	Zaradička	M	Mgr.		45	podnikatel	Pyšely	53	53	0
-2101	538680	1	1	53	2	Tomáš	Hlinka	M	Ing.		51	ředitel divize	Pyšely	99	53	0
-2101	538680	1	1	53	3	Bohumil	Gondík	M			67	důchodce	Pyšely	99	53	0
-2101	538680	1	1	53	4	Pavel	Šiňor	M			46	živnostník	Pyšely	99	53	0
-2101	538680	1	1	53	5	Martin	Křížek	M			32	finanční ředitel	Pyšely	99	53	0
-2101	538680	1	1	53	6	Milan	Kulhavý	M			36	servisní technik	Pyšely	99	53	0
-2101	538680	1	1	53	7	Karel	Kulovaný	M			62	důchodce	Pyšely	99	53	0
-2101	538680	1	1	53	8	Miroslav	Linhart	M			50	elektromechanik	Pyšely	99	53	0
-2101	538680	1	1	53	9	Lenka	Černá	F			35	živnostník	Pyšely	99	53	0
-2101	538680	1	2	902	1	Lucie	Barešová	F	JUDr.		38	právnička	Pyšely	99	80	0
-2101	538680	1	2	902	2	Tomáš	Havlíček	M	RNDr.	Ph. D.	43	vysokoškolský učitel	Pyšely	99	80	0
-2101	538680	1	2	902	3	Petr	Walder	M	Ing.		36	marketingový specialista	Kovářovice	99	80	0
-2101	538680	1	2	902	4	Jindra	Marešová	F	Bc.		27	manažerka neziskové organizace	Pyšely	5	80	0
-2101	538680	1	2	902	5	Jan	Olmr	M	Ing.		28	stavbyvedoucí	Pyšely	99	80	0
-2101	538680	1	2	902	6	Markéta	Krausová	F	Mgr.		33	manažerka v nadaci	Pyšely	99	80	0
-2101	538680	1	2	902	7	Kateřina	Holubářová	F			35	manažerka v reklamní agentuře	Zaječice	99	80	0
-2101	538680	1	2	902	8	Martin	Tiefenbach	M	Bc.		40	komisař policie ČR	Pyšely	99	80	0
-2101	538680	1	2	902	9	Marie	Kolářová	F			47	výtvarnice, malířka	Pyšely	99	80	0
-2101	538680	1	3	901	1	Ivo	Vnouček	M			52	údržbář	Pyšely	99	80	0
-2101	538680	1	3	901	2	Dušan	Kostrhoun	M			35	nástrojař	Pyšely	99	80	0
-2101	538680	1	3	901	3	Zlata	Bártíková	F			31	uklízečka	Pyšely	99	80	0
-2101	538680	1	3	901	4	Antonín	Slavík	M			53	stavbyvedoucí	Pyšely	99	80	0
-2101	538680	1	3	901	5	Petr	Havelka	M			28	montér	Pyšely	99	80	0
-2101	538680	1	3	901	6	Miloslav	Zoubek	M			38	přijímací technik	Pyšely	99	80	0
-2101	538680	1	3	901	7	Ivana	Sládková	F			43	sekretářka	Pyšely	99	80	0
-2101	538680	1	3	901	8	Michal	Heřman	M			26	elektromechanik	Pyšely	99	80	0
-2101	538680	1	3	901	9	Michal	Vašourek	M			29	konstruktér	Pyšely	99	80	0
-2101	538680	1	4	166	1	Stanislav	Vosický	M			56	starosta	Pyšely	99	166	0
-2101	538680	1	4	166	2	Dana	Drábová	F	Ing.	Ph.D.	49	státní úředník	Pyšely	99	166	0
-2101	538680	1	4	166	3	Marian	Klásek	M	Ing.		36	ekonom	Kovářovice	721	166	0
-2101	538680	1	4	166	4	Jaroslav	Chalupa	M			54	živnostník	Pyšely	99	166	0
-2101	538680	1	4	166	5	Iva	Niklesová	F	Mgr.		48	učitelka	Pyšely	99	166	0
-2101	538680	1	4	166	6	Jan	Nádvorník	M			45	soukromý podnikatel	Borová Lhota	99	166	0
-2101	538680	1	4	166	7	Richard	Ošmyk	M			40	instalatér	Pyšely	99	166	0
-2101	538680	1	4	166	8	Miloslav	Tříska	M			70	soukromý podnikatel	Pyšely	99	166	0
-2101	538680	1	4	166	9	Jan	Pavlík	M	JUDr.		70	právník	Pyšely	99	166	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	538680	1	1	53	1	Martin	Zaradička	Mgr.		45	podnikatel	Pyšely	53	53	0	M
+2101	538680	1	2	902	1	Lucie	Barešová	JUDr.		38	právnička	Pyšely	99	80	0	F
+2101	538680	1	3	901	1	Ivo	Vnouček			52	údržbář	Pyšely	99	80	0	M
+2101	538680	1	4	166	1	Stanislav	Vosický			56	starosta	Pyšely	99	166	0	M
+2101	538680	1	1	53	2	Tomáš	Hlinka	Ing.		51	ředitel divize	Pyšely	99	53	0	M
+2101	538680	1	2	902	2	Tomáš	Havlíček	RNDr.	Ph. D.	43	vysokoškolský učitel	Pyšely	99	80	0	M
+2101	538680	1	3	901	2	Dušan	Kostrhoun			35	nástrojař	Pyšely	99	80	0	M
+2101	538680	1	4	166	2	Dana	Drábová	Ing.	Ph.D.	49	státní úředník	Pyšely	99	166	0	F
+2101	538680	1	1	53	3	Bohumil	Gondík			67	důchodce	Pyšely	99	53	0	M
+2101	538680	1	2	902	3	Petr	Walder	Ing.		36	marketingový specialista	Kovářovice	99	80	0	M
+2101	538680	1	3	901	3	Zlata	Bártíková			31	uklízečka	Pyšely	99	80	0	F
+2101	538680	1	4	166	3	Marian	Klásek	Ing.		36	ekonom	Kovářovice	721	166	0	M
+2101	538680	1	1	53	4	Pavel	Šiňor			46	živnostník	Pyšely	99	53	0	M
+2101	538680	1	2	902	4	Jindra	Marešová	Bc.		27	manažerka neziskové organizace	Pyšely	5	80	0	F
+2101	538680	1	3	901	4	Antonín	Slavík			53	stavbyvedoucí	Pyšely	99	80	0	M
+2101	538680	1	4	166	4	Jaroslav	Chalupa			54	živnostník	Pyšely	99	166	0	M
+2101	538680	1	1	53	5	Martin	Křížek			32	finanční ředitel	Pyšely	99	53	0	M
+2101	538680	1	2	902	5	Jan	Olmr	Ing.		28	stavbyvedoucí	Pyšely	99	80	0	M
+2101	538680	1	3	901	5	Petr	Havelka			28	montér	Pyšely	99	80	0	M
+2101	538680	1	4	166	5	Iva	Niklesová	Mgr.		48	učitelka	Pyšely	99	166	0	F
+2101	538680	1	1	53	6	Milan	Kulhavý			36	servisní technik	Pyšely	99	53	0	M
+2101	538680	1	2	902	6	Markéta	Krausová	Mgr.		33	manažerka v nadaci	Pyšely	99	80	0	F
+2101	538680	1	3	901	6	Miloslav	Zoubek			38	přijímací technik	Pyšely	99	80	0	M
+2101	538680	1	4	166	6	Jan	Nádvorník			45	soukromý podnikatel	Borová Lhota	99	166	0	M
+2101	538680	1	1	53	7	Karel	Kulovaný			62	důchodce	Pyšely	99	53	0	M
+2101	538680	1	2	902	7	Kateřina	Holubářová			35	manažerka v reklamní agentuře	Zaječice	99	80	0	F
+2101	538680	1	3	901	7	Ivana	Sládková			43	sekretářka	Pyšely	99	80	0	F
+2101	538680	1	4	166	7	Richard	Ošmyk			40	instalatér	Pyšely	99	166	0	M
+2101	538680	1	1	53	8	Miroslav	Linhart			50	elektromechanik	Pyšely	99	53	0	M
+2101	538680	1	2	902	8	Martin	Tiefenbach	Bc.		40	komisař policie ČR	Pyšely	99	80	0	M
+2101	538680	1	3	901	8	Michal	Heřman			26	elektromechanik	Pyšely	99	80	0	M
+2101	538680	1	4	166	8	Miloslav	Tříska			70	soukromý podnikatel	Pyšely	99	166	0	M
+2101	538680	1	1	53	9	Lenka	Černá			35	živnostník	Pyšely	99	53	0	F
+2101	538680	1	2	902	9	Marie	Kolářová			47	výtvarnice, malířka	Pyšely	99	80	0	F
+2101	538680	1	3	901	9	Michal	Vašourek			29	konstruktér	Pyšely	99	80	0	M
+2101	538680	1	4	166	9	Jan	Pavlík	JUDr.		70	právník	Pyšely	99	166	0	M

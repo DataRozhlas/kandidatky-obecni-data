@@ -1,33 +1,33 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	581828	1	1	158	1	František	Novotný	M			56	ved. dopravy	Křtiny	99	158	0
-6201	581828	1	1	158	2	Emil	Pásek	M	Mgr.		64	důchodce	Křtiny	99	158	0
-6201	581828	1	1	158	3	Miroslav	Urbánek	M			64	důchodce	Křtiny	99	158	0
-6201	581828	1	1	158	4	Jiří	Pinďák	M	Ing.		53	ekonom	Křtiny	99	158	0
-6201	581828	1	1	158	5	Přemysl	Horek	M	Ing.	CSc.	63	výzkumný pracovník	Křtiny	99	158	0
-6201	581828	1	1	158	6	Svatava	Drápelová	F			34	kosmetička	Křtiny	99	158	0
-6201	581828	1	1	158	7	Petr	Švenda	M	RNDr.		53	programátor	Křtiny	99	158	0
-6201	581828	1	1	158	8	Jan	Waidhofer	M	Ing.		56	ved. oddělení	Křtiny	99	158	0
-6201	581828	1	1	158	9	Pavel	Kovář	M	Ing.		65	důchodce	Křtiny	99	158	0
-6201	581828	1	2	53	1	Jiří	Sedlák	M	Ing.		72	důchodce	Křtiny	53	53	0
-6201	581828	1	2	53	2	Vít	Opletal	M	Ing.		49	podnikatel	Křtiny	99	53	0
-6201	581828	1	2	53	3	Věra	Ettlová	F	Ing.		53	odborný referent	Křtiny	99	53	0
-6201	581828	1	2	53	4	Stanislav	Klíma	M			39	vedoucí střediska	Křtiny	53	53	0
-6201	581828	1	2	53	5	Vítězslav	Crhonek	M	Bc.		29	programátor	Křtiny	99	53	0
-6201	581828	1	2	53	6	Boris	Adámek	M	RNDr.		47	učitel	Křtiny	53	53	0
-6201	581828	1	2	53	7	Vítězslav	Crhonek	M			51	zámečník	Křtiny	53	53	0
-6201	581828	1	2	53	8	Marek	Rada	M	Mgr.		35	sociální pracovník	Křtiny	99	53	0
-6201	581828	1	2	53	9	Luboš	Zdráhal	M			47	obchodní manažer	Křtiny	99	53	0
-6201	581828	1	3	47	1	Rostislav	Boháček	M	Ing.		64	důchodce	Křtiny	47	47	0
-6201	581828	1	3	47	2	Radek	Boháček	M			26	lesní dělník	Křtiny	47	47	0
-6201	581828	1	3	47	3	Anna	Kalincová	F			62	zdravotní sestra	Křtiny	47	47	0
-6201	581828	1	3	47	4	Rostislav	Boháček	M			39	lesní dělník	Křtiny	47	47	0
-6201	581828	1	3	47	5	Otakar	Rada	M	Ing.	CSc.	65	důchodce	Křtiny	99	47	0
-6201	581828	1	4	1	1	Danuše	Bednářová	F			47	ekonom	Křtiny	1	1	0
-6201	581828	1	4	1	2	Jiří	Učeň	M			62	státní zaměstnanec	Křtiny	1	1	0
-6201	581828	1	4	1	3	Rostislav	Ševčík	M			54	domovník	Křtiny	1	1	0
-6201	581828	1	4	1	4	Jiří	Učeň	M			38	technický pracovník	Křtiny	99	1	0
-6201	581828	1	4	1	5	František	Meluzín	M			48	podnikatel	Křtiny	99	1	0
-6201	581828	1	4	1	6	Marie	Ševčíková	F			22	studentka	Křtiny	1	1	0
-6201	581828	1	4	1	7	Radek	Brzobohatý	M			37	živnostník	Křtiny	99	1	0
-6201	581828	1	4	1	8	Radim	Špatinka	M			31	radiolog	Křtiny	99	1	0
-6201	581828	1	4	1	9	Pavel	Vandas	M			36	vedoucí správy	Křtiny	721	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	581828	1	1	158	1	František	Novotný			56	ved. dopravy	Křtiny	99	158	0	M
+6201	581828	1	2	53	1	Jiří	Sedlák	Ing.		72	důchodce	Křtiny	53	53	0	M
+6201	581828	1	3	47	1	Rostislav	Boháček	Ing.		64	důchodce	Křtiny	47	47	0	M
+6201	581828	1	4	1	1	Danuše	Bednářová			47	ekonom	Křtiny	1	1	0	F
+6201	581828	1	1	158	2	Emil	Pásek	Mgr.		64	důchodce	Křtiny	99	158	0	M
+6201	581828	1	2	53	2	Vít	Opletal	Ing.		49	podnikatel	Křtiny	99	53	0	M
+6201	581828	1	3	47	2	Radek	Boháček			26	lesní dělník	Křtiny	47	47	0	M
+6201	581828	1	4	1	2	Jiří	Učeň			62	státní zaměstnanec	Křtiny	1	1	0	M
+6201	581828	1	1	158	3	Miroslav	Urbánek			64	důchodce	Křtiny	99	158	0	M
+6201	581828	1	2	53	3	Věra	Ettlová	Ing.		53	odborný referent	Křtiny	99	53	0	F
+6201	581828	1	3	47	3	Anna	Kalincová			62	zdravotní sestra	Křtiny	47	47	0	F
+6201	581828	1	4	1	3	Rostislav	Ševčík			54	domovník	Křtiny	1	1	0	M
+6201	581828	1	1	158	4	Jiří	Pinďák	Ing.		53	ekonom	Křtiny	99	158	0	M
+6201	581828	1	2	53	4	Stanislav	Klíma			39	vedoucí střediska	Křtiny	53	53	0	M
+6201	581828	1	3	47	4	Rostislav	Boháček			39	lesní dělník	Křtiny	47	47	0	M
+6201	581828	1	4	1	4	Jiří	Učeň			38	technický pracovník	Křtiny	99	1	0	M
+6201	581828	1	1	158	5	Přemysl	Horek	Ing.	CSc.	63	výzkumný pracovník	Křtiny	99	158	0	M
+6201	581828	1	2	53	5	Vítězslav	Crhonek	Bc.		29	programátor	Křtiny	99	53	0	M
+6201	581828	1	3	47	5	Otakar	Rada	Ing.	CSc.	65	důchodce	Křtiny	99	47	0	M
+6201	581828	1	4	1	5	František	Meluzín			48	podnikatel	Křtiny	99	1	0	M
+6201	581828	1	1	158	6	Svatava	Drápelová			34	kosmetička	Křtiny	99	158	0	F
+6201	581828	1	2	53	6	Boris	Adámek	RNDr.		47	učitel	Křtiny	53	53	0	M
+6201	581828	1	4	1	6	Marie	Ševčíková			22	studentka	Křtiny	1	1	0	F
+6201	581828	1	1	158	7	Petr	Švenda	RNDr.		53	programátor	Křtiny	99	158	0	M
+6201	581828	1	2	53	7	Vítězslav	Crhonek			51	zámečník	Křtiny	53	53	0	M
+6201	581828	1	4	1	7	Radek	Brzobohatý			37	živnostník	Křtiny	99	1	0	M
+6201	581828	1	1	158	8	Jan	Waidhofer	Ing.		56	ved. oddělení	Křtiny	99	158	0	M
+6201	581828	1	2	53	8	Marek	Rada	Mgr.		35	sociální pracovník	Křtiny	99	53	0	M
+6201	581828	1	4	1	8	Radim	Špatinka			31	radiolog	Křtiny	99	1	0	M
+6201	581828	1	1	158	9	Pavel	Kovář	Ing.		65	důchodce	Křtiny	99	158	0	M
+6201	581828	1	2	53	9	Luboš	Zdráhal			47	obchodní manažer	Křtiny	99	53	0	M
+6201	581828	1	4	1	9	Pavel	Vandas			36	vedoucí správy	Křtiny	721	1	0	M

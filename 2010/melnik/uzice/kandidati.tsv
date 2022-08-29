@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2106	535257	1	1	901	1	Jaroslava	Zamastilová	F			39	mistrová	Úžice	99	80	0
-2106	535257	1	1	901	2	Karel	Veselý	M			29	zkušební technik	Úžice	99	80	0
-2106	535257	1	1	901	3	Tomáš	Procházka	M			26	strojní mechanik	Úžice	99	80	0
-2106	535257	1	1	901	4	Jaroslav	Kocourek	M			28	kontrolor	Úžice	99	80	0
-2106	535257	1	1	901	5	Petr	Chabada	M			50	podnikatel	Úžice	99	80	0
-2106	535257	1	1	901	6	Zdeněk	Špičák	M			32	podnikatel	Úžice	99	80	0
-2106	535257	1	1	901	7	Martin	Chmelík	M			33	podnikatel	Úžice	99	80	0
-2106	535257	1	1	901	8	Jiří	Šafra	M			35	operátor	Úžice	99	80	0
-2106	535257	1	1	901	9	Jiří	Klvan	M			47	servisní technik	Úžice	99	80	0
-2106	535257	1	2	47	1	Zdeňka	Veselá	F			57	technik	Úžice	47	47	0
-2106	535257	1	2	47	2	Josef	Beneš	M			61	technik	Úžice	47	47	0
-2106	535257	1	2	47	3	Stanislav	Příhoda	M			68	technik	Úžice	99	47	0
-2106	535257	1	2	47	4	Marcela	Beránková	F	Mgr.		65	právnička	Úžice	99	47	0
-2106	535257	1	2	47	5	Júlia	Vágnerová	F			56	dělnice	Netřeba	99	47	0
-2106	535257	1	2	47	6	Venuše	Bílková	F			59	dělnice	Úžice	47	47	0
-2106	535257	1	2	47	7	Lubomír	Remenec	M			56	člen ostrahy	Kopeč	99	47	0
-2106	535257	1	2	47	8	Karel	Zíka	M			62	důchodce	Úžice	99	47	0
-2106	535257	1	2	47	9	Miroslava	Benešová	F	Ing.		52	ekonom	Úžice	99	47	0
-2106	535257	1	3	53	1	David	Hrdlička	M			35	starosta obce Úžice	Úžice	99	53	0
-2106	535257	1	3	53	2	Petr	Tichý	M			43	soukromý podnikatel	Úžice	99	53	0
-2106	535257	1	3	53	3	Pavel	Pokorný	M			43	soukromý podnikatel	Úžice	99	53	0
-2106	535257	1	3	53	4	Jan	Richter	M			46	soukromý podnikatel	Úžice	99	53	0
-2106	535257	1	3	53	5	Iva	Dědková	F			31	zdravotní sestra	Úžice	99	53	0
-2106	535257	1	3	53	6	Lukáš	Pešl	M			31	manažer obchodu	Úžice	99	53	0
-2106	535257	1	3	53	7	Tomáš	Libich	M			24	student	Úžice	99	53	0
-2106	535257	1	3	53	8	Daniel	Beránek	M			35	bankovní konzultant	Úžice	99	53	0
-2106	535257	1	3	53	9	Daniel	Vysloužil	M	Mgr.		36	ředitel základní školy	Kopeč	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2106	535257	1	1	901	1	Jaroslava	Zamastilová			39	mistrová	Úžice	99	80	0	F
+2106	535257	1	2	47	1	Zdeňka	Veselá			57	technik	Úžice	47	47	0	F
+2106	535257	1	3	53	1	David	Hrdlička			35	starosta obce Úžice	Úžice	99	53	0	M
+2106	535257	1	1	901	2	Karel	Veselý			29	zkušební technik	Úžice	99	80	0	M
+2106	535257	1	2	47	2	Josef	Beneš			61	technik	Úžice	47	47	0	M
+2106	535257	1	3	53	2	Petr	Tichý			43	soukromý podnikatel	Úžice	99	53	0	M
+2106	535257	1	1	901	3	Tomáš	Procházka			26	strojní mechanik	Úžice	99	80	0	M
+2106	535257	1	2	47	3	Stanislav	Příhoda			68	technik	Úžice	99	47	0	M
+2106	535257	1	3	53	3	Pavel	Pokorný			43	soukromý podnikatel	Úžice	99	53	0	M
+2106	535257	1	1	901	4	Jaroslav	Kocourek			28	kontrolor	Úžice	99	80	0	M
+2106	535257	1	2	47	4	Marcela	Beránková	Mgr.		65	právnička	Úžice	99	47	0	F
+2106	535257	1	3	53	4	Jan	Richter			46	soukromý podnikatel	Úžice	99	53	0	M
+2106	535257	1	1	901	5	Petr	Chabada			50	podnikatel	Úžice	99	80	0	M
+2106	535257	1	2	47	5	Júlia	Vágnerová			56	dělnice	Netřeba	99	47	0	F
+2106	535257	1	3	53	5	Iva	Dědková			31	zdravotní sestra	Úžice	99	53	0	F
+2106	535257	1	1	901	6	Zdeněk	Špičák			32	podnikatel	Úžice	99	80	0	M
+2106	535257	1	2	47	6	Venuše	Bílková			59	dělnice	Úžice	47	47	0	F
+2106	535257	1	3	53	6	Lukáš	Pešl			31	manažer obchodu	Úžice	99	53	0	M
+2106	535257	1	1	901	7	Martin	Chmelík			33	podnikatel	Úžice	99	80	0	M
+2106	535257	1	2	47	7	Lubomír	Remenec			56	člen ostrahy	Kopeč	99	47	0	M
+2106	535257	1	3	53	7	Tomáš	Libich			24	student	Úžice	99	53	0	M
+2106	535257	1	1	901	8	Jiří	Šafra			35	operátor	Úžice	99	80	0	M
+2106	535257	1	2	47	8	Karel	Zíka			62	důchodce	Úžice	99	47	0	M
+2106	535257	1	3	53	8	Daniel	Beránek			35	bankovní konzultant	Úžice	99	53	0	M
+2106	535257	1	1	901	9	Jiří	Klvan			47	servisní technik	Úžice	99	80	0	M
+2106	535257	1	2	47	9	Miroslava	Benešová	Ing.		52	ekonom	Úžice	99	47	0	F
+2106	535257	1	3	53	9	Daniel	Vysloužil	Mgr.		36	ředitel základní školy	Kopeč	99	53	0	M

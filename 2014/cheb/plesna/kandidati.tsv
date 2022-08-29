@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4101	554740	1	1	47	1	Bedřich	Koumar	M			73	důchodce	Plesná	47	47	0
-4101	554740	1	1	47	2	Karel	Bláha	M			59	státní zaměstnanec	Lomnička	99	47	0
-4101	554740	1	1	47	3	Josef	Maier	M			54	OSVČ	Plesná	99	47	0
-4101	554740	1	1	47	4	Jana	Fúričková	F			53	vychovatelka	Plesná	47	47	0
-4101	554740	1	1	47	5	Tomáš	Lokinga	M			44	technik	Lomnička	99	47	0
-4101	554740	1	1	47	6	Jan	Sadovský	M			66	technik	Plesná	99	47	0
-4101	554740	1	1	47	7	Jiří	Koprušťák	M			60	strojník	Plesná	99	47	0
-4101	554740	1	1	47	8	Jaroslava	Peltrámová	F			66	sekretářka	Plesná	47	47	0
-4101	554740	1	1	47	9	Stanislav	Macek	M			65	důchodce	Plesná	47	47	0
-4101	554740	1	2	901	1	Petr	Schaller	M			41	starosta města	Plesná	721	80	0
-4101	554740	1	2	901	2	Alena	Jelínková	F	Mgr.		46	učitelka	Plesná	99	80	0
-4101	554740	1	2	901	3	Kristýna	Dusová	F			25	administrativní pracovník	Plesná	99	80	0
-4101	554740	1	2	901	4	Michal	Helwin	M			36	vedoucí provozu	Plesná	99	80	0
-4101	554740	1	2	901	5	Barbora	Lekešová	F			21	student	Plesná	99	80	0
-4101	554740	1	2	901	6	Alena	Skalická	F			61	OSVČ	Plesná	99	80	0
-4101	554740	1	2	901	7	Václav	Bláha	M			48	mistr výroby	Plesná	99	80	0
-4101	554740	1	2	901	8	Aleš	Peltrám	M			39	soukromý dopravce	Plesná	99	80	0
-4101	554740	1	2	901	9	Blažena	Lvová	F			63	učitelka	Plesná	99	80	0
-4101	554740	1	3	483	1	Josef	Kvasnička	M	JUDr.		64	podnikatel	Plesná	724	724	0
-4101	554740	1	3	483	2	David	Bláha	M			28	manažer obchodu	Plesná	99	80	0
-4101	554740	1	3	483	3	Štefan	Liguš	M			52	vedoucí výroby	Plesná	724	724	0
-4101	554740	1	3	483	4	Anna	Nedvědová	F			59	účetní	Plesná	724	724	0
-4101	554740	1	3	483	5	Josef	Dirbák	M			58	podnikatel	Plesná	99	80	0
-4101	554740	1	3	483	6	Miloš	Kastl	M			42	nástrojař	Plesná	99	80	0
-4101	554740	1	3	483	7	Radek	Nedoma	M			38	podnikatel	Plesná	99	80	0
-4101	554740	1	3	483	8	František	Šibal	M			53	nástrojař	Plesná	99	80	0
-4101	554740	1	3	483	9	Jana	Banutová	F			66	důchodkyně	Plesná	99	80	0
-4101	554740	1	4	7	1	Václav	Mleziva	M			47	místostarosta, manažer	Plesná	7	7	0
-4101	554740	1	4	7	2	Richard	Kejmar	M			32	prof. hasič	Plesná	7	7	0
-4101	554740	1	4	7	3	Martin	Drápal	M			37	pojišťovací makléř	Plesná	7	7	0
-4101	554740	1	4	7	4	Milan	Bílek	M			31	prof. hasič	Plesná	7	7	0
-4101	554740	1	4	7	5	Ladislav	Mašek	M			38	dělník	Plesná	7	7	0
-4101	554740	1	4	7	6	Michal	Kejmar	M			28	dělník	Plesná	7	7	0
-4101	554740	1	4	7	7	Věra	Vaňousová	F			54	učitelka	Plesná	7	7	0
-4101	554740	1	4	7	8	Zdeněk	Blecha	M			58	školník	Plesná	7	7	0
-4101	554740	1	4	7	9	Marek	Kováč	M			21	dělník	Plesná	7	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4101	554740	1	1	47	1	Bedřich	Koumar			73	důchodce	Plesná	47	47	0	M
+4101	554740	1	2	901	1	Petr	Schaller			41	starosta města	Plesná	721	80	0	M
+4101	554740	1	3	483	1	Josef	Kvasnička	JUDr.		64	podnikatel	Plesná	724	724	0	M
+4101	554740	1	4	7	1	Václav	Mleziva			47	místostarosta, manažer	Plesná	7	7	0	M
+4101	554740	1	1	47	2	Karel	Bláha			59	státní zaměstnanec	Lomnička	99	47	0	M
+4101	554740	1	2	901	2	Alena	Jelínková	Mgr.		46	učitelka	Plesná	99	80	0	F
+4101	554740	1	3	483	2	David	Bláha			28	manažer obchodu	Plesná	99	80	0	M
+4101	554740	1	4	7	2	Richard	Kejmar			32	prof. hasič	Plesná	7	7	0	M
+4101	554740	1	1	47	3	Josef	Maier			54	OSVČ	Plesná	99	47	0	M
+4101	554740	1	2	901	3	Kristýna	Dusová			25	administrativní pracovník	Plesná	99	80	0	F
+4101	554740	1	3	483	3	Štefan	Liguš			52	vedoucí výroby	Plesná	724	724	0	M
+4101	554740	1	4	7	3	Martin	Drápal			37	pojišťovací makléř	Plesná	7	7	0	M
+4101	554740	1	1	47	4	Jana	Fúričková			53	vychovatelka	Plesná	47	47	0	F
+4101	554740	1	2	901	4	Michal	Helwin			36	vedoucí provozu	Plesná	99	80	0	M
+4101	554740	1	3	483	4	Anna	Nedvědová			59	účetní	Plesná	724	724	0	F
+4101	554740	1	4	7	4	Milan	Bílek			31	prof. hasič	Plesná	7	7	0	M
+4101	554740	1	1	47	5	Tomáš	Lokinga			44	technik	Lomnička	99	47	0	M
+4101	554740	1	2	901	5	Barbora	Lekešová			21	student	Plesná	99	80	0	F
+4101	554740	1	3	483	5	Josef	Dirbák			58	podnikatel	Plesná	99	80	0	M
+4101	554740	1	4	7	5	Ladislav	Mašek			38	dělník	Plesná	7	7	0	M
+4101	554740	1	1	47	6	Jan	Sadovský			66	technik	Plesná	99	47	0	M
+4101	554740	1	2	901	6	Alena	Skalická			61	OSVČ	Plesná	99	80	0	F
+4101	554740	1	3	483	6	Miloš	Kastl			42	nástrojař	Plesná	99	80	0	M
+4101	554740	1	4	7	6	Michal	Kejmar			28	dělník	Plesná	7	7	0	M
+4101	554740	1	1	47	7	Jiří	Koprušťák			60	strojník	Plesná	99	47	0	M
+4101	554740	1	2	901	7	Václav	Bláha			48	mistr výroby	Plesná	99	80	0	M
+4101	554740	1	3	483	7	Radek	Nedoma			38	podnikatel	Plesná	99	80	0	M
+4101	554740	1	4	7	7	Věra	Vaňousová			54	učitelka	Plesná	7	7	0	F
+4101	554740	1	1	47	8	Jaroslava	Peltrámová			66	sekretářka	Plesná	47	47	0	F
+4101	554740	1	2	901	8	Aleš	Peltrám			39	soukromý dopravce	Plesná	99	80	0	M
+4101	554740	1	3	483	8	František	Šibal			53	nástrojař	Plesná	99	80	0	M
+4101	554740	1	4	7	8	Zdeněk	Blecha			58	školník	Plesná	7	7	0	M
+4101	554740	1	1	47	9	Stanislav	Macek			65	důchodce	Plesná	47	47	0	M
+4101	554740	1	2	901	9	Blažena	Lvová			63	učitelka	Plesná	99	80	0	F
+4101	554740	1	3	483	9	Jana	Banutová			66	důchodkyně	Plesná	99	80	0	F
+4101	554740	1	4	7	9	Marek	Kováč			21	dělník	Plesná	7	7	0	M

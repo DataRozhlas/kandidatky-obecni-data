@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579041	1	1	902	1	Josef	Pich	M			39	OSVČ	Batňovice	99	80	A
-5205	579041	1	1	902	2	Miloš	Hemala	M			54	OSVČ	Batňovice	99	80	A
-5205	579041	1	1	902	3	Petr	Hejna	M			57	OSVČ	Batňovice	99	80	A
-5205	579041	1	1	902	4	Hana	Bryknarová	F			46	projektová manažerka	Batňovice	99	80	A
-5205	579041	1	1	902	5	Jana	Hladíková	F	Bc.	DiS.	38	mateřská dovolená	Batňovice	99	80	A
-5205	579041	1	1	902	6	Jan	Čvančara	M			35	OSVČ	Batňovice	99	80	A
-5205	579041	1	1	902	7	Jan	Jarouš	M			38	OSVČ	Batňovice	99	80	A
-5205	579041	1	1	902	8	Aleš	Bartoníček	M	Ing.		28	učitel	Batňovice	99	80	A
-5205	579041	1	1	902	9	Milan	Souček	M	Ing.		50	finanční ředitel	Batňovice	99	80	A
-5205	579041	1	2	1	1	Petr	Horák	M			47	starosta obce	Batňovice	99	1	A
-5205	579041	1	2	1	2	Miloslav	Šrejber	M			49	logistik	Batňovice	99	1	A
-5205	579041	1	2	1	3	Pavel	Melichar	M	Bc.		51	zástupce ředitele	Batňovice	1	1	A
-5205	579041	1	2	1	4	Klára	Malichyna Peterková	F	MDDr.		31	stomatoložka	Batňovice	99	1	A
-5205	579041	1	2	1	5	Marta	Winterová	F	Ing.		39	referentka MěÚ	Batňovice	1	1	A
-5205	579041	1	2	1	6	Tomáš	Hubený	M			39	řidič	Batňovice	99	1	A
-5205	579041	1	2	1	7	Štěpánka	Vojteková	F		DiS.	49	úřednice OSSZ	Batňovice	99	1	A
-5205	579041	1	2	1	8	Jan	Pásler	M			45	obchodní ředitel	Batňovice	99	1	A
-5205	579041	1	2	1	9	Jana	Řezníčková	F			66	v důchodu	Batňovice	1	1	A
-5205	579041	1	3	903	1	Viktor	Pavel	M	Bc.		41	vychovatel VSČR	Batňovice	99	80	A
-5205	579041	1	3	903	2	Petr	Pekárek	M	Ing.		32	vedoucí oddělení ochrany lesa, ČIŽP	Batňovice	99	80	A
-5205	579041	1	3	903	3	Roman	Hebelka	M			48	OSVČ	Batňovice	99	80	A
-5205	579041	1	3	903	4	Bohdana	Janovská	F	Mgr.		46	učitelka ZŠ	Batňovice	99	80	A
-5205	579041	1	3	903	5	Břetislav	Novák	M	MVDr.		66	OSVČ	Batňovice	99	80	A
-5205	579041	1	3	903	6	Miroslav	Košťálek	M			67	důchodce	Batňovice	99	80	A
-5205	579041	1	3	903	7	Václav	Kult	M			47	podnikatel	Batňovice	99	80	A
-5205	579041	1	3	903	8	Michal	Vaněček	M			46	manažer obchodní společnosti	Batňovice	99	80	A
-5205	579041	1	3	903	9	Michal	Tesař	M			53	vedoucí provozu	Batňovice	99	80	A
-5205	579041	1	4	901	1	Jan	Sedláček	M			55	podnikatel	Batňovice	99	80	A
-5205	579041	1	4	901	2	Lenka	Ducháčová	F			49	administrativní pracovnice	Batňovice	99	80	A
-5205	579041	1	4	901	3	Tomáš	Seňko	M			34	policista	Batňovice	99	80	A
-5205	579041	1	4	901	4	Michal	Kříž	M			49	podnikatel	Batňovice	99	80	A
-5205	579041	1	4	901	5	Zdeňka	Dušičková	F			44	přepážková pracovnice pošty	Batňovice	99	80	A
-5205	579041	1	4	901	6	Tomáš	Hoření	M			39	podnikatel	Batňovice	99	80	A
-5205	579041	1	4	901	7	Jaroslav	Najman	M			68	podnikatel	Batňovice	99	80	A
-5205	579041	1	4	901	8	Jan	Tošovský	M			60	řidič SÚS	Batňovice	99	80	A
-5205	579041	1	4	901	9	Květoslava	Prouzová	F			51	přepážková pracovnice pošty	Batňovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579041	1	1	902	1	Josef	Pich			39	OSVČ	Batňovice	99	80	A	M
+5205	579041	1	2	1	1	Petr	Horák			47	starosta obce	Batňovice	99	1	A	M
+5205	579041	1	3	903	1	Viktor	Pavel	Bc.		41	vychovatel VSČR	Batňovice	99	80	A	M
+5205	579041	1	4	901	1	Jan	Sedláček			55	podnikatel	Batňovice	99	80	A	M
+5205	579041	1	1	902	2	Miloš	Hemala			54	OSVČ	Batňovice	99	80	A	M
+5205	579041	1	2	1	2	Miloslav	Šrejber			49	logistik	Batňovice	99	1	A	M
+5205	579041	1	3	903	2	Petr	Pekárek	Ing.		32	vedoucí oddělení ochrany lesa, ČIŽP	Batňovice	99	80	A	M
+5205	579041	1	4	901	2	Lenka	Ducháčová			49	administrativní pracovnice	Batňovice	99	80	A	F
+5205	579041	1	1	902	3	Petr	Hejna			57	OSVČ	Batňovice	99	80	A	M
+5205	579041	1	2	1	3	Pavel	Melichar	Bc.		51	zástupce ředitele	Batňovice	1	1	A	M
+5205	579041	1	3	903	3	Roman	Hebelka			48	OSVČ	Batňovice	99	80	A	M
+5205	579041	1	4	901	3	Tomáš	Seňko			34	policista	Batňovice	99	80	A	M
+5205	579041	1	1	902	4	Hana	Bryknarová			46	projektová manažerka	Batňovice	99	80	A	F
+5205	579041	1	2	1	4	Klára	Malichyna Peterková	MDDr.		31	stomatoložka	Batňovice	99	1	A	F
+5205	579041	1	3	903	4	Bohdana	Janovská	Mgr.		46	učitelka ZŠ	Batňovice	99	80	A	F
+5205	579041	1	4	901	4	Michal	Kříž			49	podnikatel	Batňovice	99	80	A	M
+5205	579041	1	1	902	5	Jana	Hladíková	Bc.	DiS.	38	mateřská dovolená	Batňovice	99	80	A	F
+5205	579041	1	2	1	5	Marta	Winterová	Ing.		39	referentka MěÚ	Batňovice	1	1	A	F
+5205	579041	1	3	903	5	Břetislav	Novák	MVDr.		66	OSVČ	Batňovice	99	80	A	M
+5205	579041	1	4	901	5	Zdeňka	Dušičková			44	přepážková pracovnice pošty	Batňovice	99	80	A	F
+5205	579041	1	1	902	6	Jan	Čvančara			35	OSVČ	Batňovice	99	80	A	M
+5205	579041	1	2	1	6	Tomáš	Hubený			39	řidič	Batňovice	99	1	A	M
+5205	579041	1	3	903	6	Miroslav	Košťálek			67	důchodce	Batňovice	99	80	A	M
+5205	579041	1	4	901	6	Tomáš	Hoření			39	podnikatel	Batňovice	99	80	A	M
+5205	579041	1	1	902	7	Jan	Jarouš			38	OSVČ	Batňovice	99	80	A	M
+5205	579041	1	2	1	7	Štěpánka	Vojteková		DiS.	49	úřednice OSSZ	Batňovice	99	1	A	F
+5205	579041	1	3	903	7	Václav	Kult			47	podnikatel	Batňovice	99	80	A	M
+5205	579041	1	4	901	7	Jaroslav	Najman			68	podnikatel	Batňovice	99	80	A	M
+5205	579041	1	1	902	8	Aleš	Bartoníček	Ing.		28	učitel	Batňovice	99	80	A	M
+5205	579041	1	2	1	8	Jan	Pásler			45	obchodní ředitel	Batňovice	99	1	A	M
+5205	579041	1	3	903	8	Michal	Vaněček			46	manažer obchodní společnosti	Batňovice	99	80	A	M
+5205	579041	1	4	901	8	Jan	Tošovský			60	řidič SÚS	Batňovice	99	80	A	M
+5205	579041	1	1	902	9	Milan	Souček	Ing.		50	finanční ředitel	Batňovice	99	80	A	M
+5205	579041	1	2	1	9	Jana	Řezníčková			66	v důchodu	Batňovice	1	1	A	F
+5205	579041	1	3	903	9	Michal	Tesař			53	vedoucí provozu	Batňovice	99	80	A	M
+5205	579041	1	4	901	9	Květoslava	Prouzová			51	přepážková pracovnice pošty	Batňovice	99	80	A	F

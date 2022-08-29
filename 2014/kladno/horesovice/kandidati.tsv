@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	532321	1	1	901	1	Stanislav	RUBEŠ	M			43	soukromý podnikatel	Hořešovice	99	80	0
-2103	532321	1	1	901	2	Martin	ŠŤÁVA	M			37	stavební technik	Hořešovice	99	80	0
-2103	532321	1	1	901	3	Anna	ŠTĚPÁNKOVÁ	F			43	opatrovnice	Hořešovice	99	80	0
-2103	532321	1	1	901	4	Jitka	MALÁ	F			35	administrativní pracovnice	Hořešovice	99	80	0
-2103	532321	1	1	901	5	Lukáš	HADRIKA	M			25	nezaměstnaný	Hořešovice	99	80	0
-2103	532321	1	1	901	6	Hugo	FORSTER	M			44	soukromý zemědělec	Hořešovice	99	80	0
-2103	532321	1	2	902	1	Stanislav	ŠTROS	M	Ing.		56	vedoucí firmy	Hořešovice	99	80	0
-2103	532321	1	2	902	2	Venuše	SNOPOVÁ	F			53	ředitelka ŠJ	Hořešovice	99	80	0
-2103	532321	1	2	902	3	Jana	PERLÍKOVÁ	F			50	mzdová účetní	Hořešovice	99	80	0
-2103	532321	1	2	902	4	Radka	VOJTĚCHOVÁ	F		DiS.	40	technik	Hořešovice	99	80	0
-2103	532321	1	2	902	5	Jana	HADRIKOVÁ	F	Ing.		46	OSVČ	Hořešovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	532321	1	1	901	1	Stanislav	RUBEŠ			43	soukromý podnikatel	Hořešovice	99	80	0	M
+2103	532321	1	2	902	1	Stanislav	ŠTROS	Ing.		56	vedoucí firmy	Hořešovice	99	80	0	M
+2103	532321	1	1	901	2	Martin	ŠŤÁVA			37	stavební technik	Hořešovice	99	80	0	M
+2103	532321	1	2	902	2	Venuše	SNOPOVÁ			53	ředitelka ŠJ	Hořešovice	99	80	0	F
+2103	532321	1	1	901	3	Anna	ŠTĚPÁNKOVÁ			43	opatrovnice	Hořešovice	99	80	0	F
+2103	532321	1	2	902	3	Jana	PERLÍKOVÁ			50	mzdová účetní	Hořešovice	99	80	0	F
+2103	532321	1	1	901	4	Jitka	MALÁ			35	administrativní pracovnice	Hořešovice	99	80	0	F
+2103	532321	1	2	902	4	Radka	VOJTĚCHOVÁ		DiS.	40	technik	Hořešovice	99	80	0	F
+2103	532321	1	1	901	5	Lukáš	HADRIKA			25	nezaměstnaný	Hořešovice	99	80	0	M
+2103	532321	1	2	902	5	Jana	HADRIKOVÁ	Ing.		46	OSVČ	Hořešovice	99	80	0	F
+2103	532321	1	1	901	6	Hugo	FORSTER			44	soukromý zemědělec	Hořešovice	99	80	0	M

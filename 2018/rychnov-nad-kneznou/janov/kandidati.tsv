@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5204	576328	1	1	901	1	Václav	Dyntar	M	Ing.		50	stavbyvedoucí	Janov	99	80	A
-5204	576328	1	1	901	2	Vlasta	Chaloupková	F			41	částečný invalidní důchod	Janov	99	80	A
-5204	576328	1	1	901	3	Terezie	Dembinská	F	Ing.		36	mateřská dovolená	Janov	99	80	A
-5204	576328	1	1	901	4	Jan	Martinek	M			59	technik živoč. výroby	Tis	99	80	A
-5204	576328	1	1	901	5	Roman	Dyntar	M			47	dělník	Janov	99	80	A
-5204	576328	1	1	901	6	Drahomíra	Hartmanová	F			63	důchodkyně	Janov	99	80	A
-5204	576328	1	1	901	7	Vilma	Kneisslová Khomová	F			62	důchodkyně	Janov	99	80	A
-5204	576328	1	1	901	8	Kateřina	Doubravová	F			42	dělnice	Janov	99	80	A
-5204	576328	1	1	901	9	Kamil	Lelek	M	Bc.		40	policista	Tis	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5204	576328	1	1	901	1	Václav	Dyntar	Ing.		50	stavbyvedoucí	Janov	99	80	A	M
+5204	576328	1	1	901	2	Vlasta	Chaloupková			41	částečný invalidní důchod	Janov	99	80	A	F
+5204	576328	1	1	901	3	Terezie	Dembinská	Ing.		36	mateřská dovolená	Janov	99	80	A	F
+5204	576328	1	1	901	4	Jan	Martinek			59	technik živoč. výroby	Tis	99	80	A	M
+5204	576328	1	1	901	5	Roman	Dyntar			47	dělník	Janov	99	80	A	M
+5204	576328	1	1	901	6	Drahomíra	Hartmanová			63	důchodkyně	Janov	99	80	A	F
+5204	576328	1	1	901	7	Vilma	Kneisslová Khomová			62	důchodkyně	Janov	99	80	A	F
+5204	576328	1	1	901	8	Kateřina	Doubravová			42	dělnice	Janov	99	80	A	F
+5204	576328	1	1	901	9	Kamil	Lelek	Bc.		40	policista	Tis	99	80	A	M

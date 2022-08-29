@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5103	564231	1	1	901	1	Roman	Slezák	M			47	starosta	Mníšek	99	80	0
-5103	564231	1	1	901	2	Kamila	Drobná	F			44	zdravotní sestra	Mníšek	99	80	0
-5103	564231	1	1	901	3	Gisela	Škodová	F			65	místostarostka	Mníšek	99	80	0
-5103	564231	1	1	901	4	Hana	Pavlíková	F			57	vedoucí pošty	Mníšek	99	80	0
-5103	564231	1	1	901	5	Hana	Čepičková	F	Bc.		39	zdravotní sestra	Mníšek	99	80	0
-5103	564231	1	1	901	6	Kurt	Effenberger	M			74	důchodce	Mníšek	99	80	0
-5103	564231	1	1	901	7	Vladimír	Vacek	M			68	důchodce	Fojtka	99	80	0
-5103	564231	1	1	901	8	Richard	Lukáš	M	MUDr.		61	lékař - chirurg	Fojtka	99	80	0
-5103	564231	1	1	901	9	Jaroslav	Mejstřík	M	Ing.		40	podnikatel	Fojtka	53	80	0
-5103	564231	1	2	47	1	Miroslava	Loudová	F			26	účetní a daňová poradkyně	Mníšek	99	47	0
-5103	564231	1	2	47	2	Veronika	Švandová	F			31	mateřská dovolená	Mníšek	99	47	0
-5103	564231	1	2	47	3	Monika	Haasová	F			72	ekonomka	Mníšek	47	47	0
-5103	564231	1	2	47	4	Růžena	Korcová	F			61	dělnice	Mníšek	47	47	0
-5103	564231	1	2	47	5	Hana	Hajflerová	F			60	důchodkyně	Mníšek	47	47	0
-5103	564231	1	2	47	6	Edita	Denkeová	F			78	důchodkyně	Mníšek	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5103	564231	1	1	901	1	Roman	Slezák			47	starosta	Mníšek	99	80	0	M
+5103	564231	1	2	47	1	Miroslava	Loudová			26	účetní a daňová poradkyně	Mníšek	99	47	0	F
+5103	564231	1	1	901	2	Kamila	Drobná			44	zdravotní sestra	Mníšek	99	80	0	F
+5103	564231	1	2	47	2	Veronika	Švandová			31	mateřská dovolená	Mníšek	99	47	0	F
+5103	564231	1	1	901	3	Gisela	Škodová			65	místostarostka	Mníšek	99	80	0	F
+5103	564231	1	2	47	3	Monika	Haasová			72	ekonomka	Mníšek	47	47	0	F
+5103	564231	1	1	901	4	Hana	Pavlíková			57	vedoucí pošty	Mníšek	99	80	0	F
+5103	564231	1	2	47	4	Růžena	Korcová			61	dělnice	Mníšek	47	47	0	F
+5103	564231	1	1	901	5	Hana	Čepičková	Bc.		39	zdravotní sestra	Mníšek	99	80	0	F
+5103	564231	1	2	47	5	Hana	Hajflerová			60	důchodkyně	Mníšek	47	47	0	F
+5103	564231	1	1	901	6	Kurt	Effenberger			74	důchodce	Mníšek	99	80	0	M
+5103	564231	1	2	47	6	Edita	Denkeová			78	důchodkyně	Mníšek	47	47	0	F
+5103	564231	1	1	901	7	Vladimír	Vacek			68	důchodce	Fojtka	99	80	0	M
+5103	564231	1	1	901	8	Richard	Lukáš	MUDr.		61	lékař - chirurg	Fojtka	99	80	0	M
+5103	564231	1	1	901	9	Jaroslav	Mejstřík	Ing.		40	podnikatel	Fojtka	53	80	0	M

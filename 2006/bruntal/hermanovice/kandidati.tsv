@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	597325	1	1	1	1	Jan	Tomalský	M			55	starosta	Heřmanovice	99	1	0
-8101	597325	1	1	1	2	Mária	Skopalíková	F	Ing.		52	účetní	Heřmanovice	99	1	0
-8101	597325	1	1	1	3	Hynek	Sekanina	M	RNDr.		55	pedagog	Heřmanovice	99	1	0
-8101	597325	1	1	1	4	Libor	Petřík	M	Ing.		42	lesník	Heřmanovice	99	1	0
-8101	597325	1	1	1	5	Robert	Sütto	M			52	zedník - profilář	Heřmanovice	99	1	0
-8101	597325	1	1	1	6	Jana	Cilečková	F			54	živnostník	Heřmanovice	99	1	0
-8101	597325	1	1	1	7	Šárka	Labajová	F			35	veterinární laborant	Heřmanovice	99	1	0
-8101	597325	1	2	47	1	Ivan	Drimaj	M			62	důchodce	Heřmanovice	47	47	0
-8101	597325	1	2	47	2	Jiří	Zivčák	M			30	zedník	Heřmanovice	47	47	0
-8101	597325	1	2	47	3	Zdeněk	Navrátil	M			33	zedník	Heřmanovice	47	47	0
-8101	597325	1	2	47	4	Josef	Beneš	M			56	traktorista	Heřmanovice	47	47	0
-8101	597325	1	2	47	5	Anežka	Benešová	F			54	v domácnosti	Heřmanovice	47	47	0
-8101	597325	1	2	47	6	Zdeněk	Navrátil	M			56	báňský úpravář	Heřmanovice	47	47	0
-8101	597325	1	2	47	7	Milena	Kroupová	F			53	podnikatelka	Heřmanovice	47	47	0
-8101	597325	1	3	901	1	Josef	Kubinec	M			58	elektrikář	Heřmanovice	99	80	0
-8101	597325	1	3	901	2	Helena	Ledvinková	F			54	učitelka ZŠ	Heřmanovice	99	80	0
-8101	597325	1	3	901	3	Jan	Kertis	M			55	vedoucí údržby	Heřmanovice	99	80	0
-8101	597325	1	3	901	4	Marie	Hrušková	F			36	dělnice	Heřmanovice	99	80	0
-8101	597325	1	3	901	5	Jan	Albert	M			43	Policie ČR	Heřmanovice	99	80	0
-8101	597325	1	3	901	6	Petr	Kováč	M	Bc.		23	student VŠ	Heřmanovice	99	80	0
-8101	597325	1	3	901	7	Renáta	Kubincová	F			23	studentka VŠ	Heřmanovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	597325	1	1	1	1	Jan	Tomalský			55	starosta	Heřmanovice	99	1	0	M
+8101	597325	1	2	47	1	Ivan	Drimaj			62	důchodce	Heřmanovice	47	47	0	M
+8101	597325	1	3	901	1	Josef	Kubinec			58	elektrikář	Heřmanovice	99	80	0	M
+8101	597325	1	1	1	2	Mária	Skopalíková	Ing.		52	účetní	Heřmanovice	99	1	0	F
+8101	597325	1	2	47	2	Jiří	Zivčák			30	zedník	Heřmanovice	47	47	0	M
+8101	597325	1	3	901	2	Helena	Ledvinková			54	učitelka ZŠ	Heřmanovice	99	80	0	F
+8101	597325	1	1	1	3	Hynek	Sekanina	RNDr.		55	pedagog	Heřmanovice	99	1	0	M
+8101	597325	1	2	47	3	Zdeněk	Navrátil			33	zedník	Heřmanovice	47	47	0	M
+8101	597325	1	3	901	3	Jan	Kertis			55	vedoucí údržby	Heřmanovice	99	80	0	M
+8101	597325	1	1	1	4	Libor	Petřík	Ing.		42	lesník	Heřmanovice	99	1	0	M
+8101	597325	1	2	47	4	Josef	Beneš			56	traktorista	Heřmanovice	47	47	0	M
+8101	597325	1	3	901	4	Marie	Hrušková			36	dělnice	Heřmanovice	99	80	0	F
+8101	597325	1	1	1	5	Robert	Sütto			52	zedník - profilář	Heřmanovice	99	1	0	M
+8101	597325	1	2	47	5	Anežka	Benešová			54	v domácnosti	Heřmanovice	47	47	0	F
+8101	597325	1	3	901	5	Jan	Albert			43	Policie ČR	Heřmanovice	99	80	0	M
+8101	597325	1	1	1	6	Jana	Cilečková			54	živnostník	Heřmanovice	99	1	0	F
+8101	597325	1	2	47	6	Zdeněk	Navrátil			56	báňský úpravář	Heřmanovice	47	47	0	M
+8101	597325	1	3	901	6	Petr	Kováč	Bc.		23	student VŠ	Heřmanovice	99	80	0	M
+8101	597325	1	1	1	7	Šárka	Labajová			35	veterinární laborant	Heřmanovice	99	1	0	F
+8101	597325	1	2	47	7	Milena	Kroupová			53	podnikatelka	Heřmanovice	47	47	0	F
+8101	597325	1	3	901	7	Renáta	Kubincová			23	studentka VŠ	Heřmanovice	99	80	0	F

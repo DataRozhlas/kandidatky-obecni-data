@@ -1,32 +1,32 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	540234	1	1	902	1	Milan	Žváček	M			36	technik	Lukavice	99	80	A
-7105	540234	1	1	902	2	Šárka	Purová	F			36	mistrová	Vlachov	99	80	A
-7105	540234	1	1	902	3	Kateřina	Groharová	F			36	plánovačka výroby	Lukavice	99	80	A
-7105	540234	1	1	902	4	Jitka	Tillová	F			64	ekonom	Lukavice	99	80	A
-7105	540234	1	1	902	5	Ota	Focher	M			55	opravář	Slavoňov	99	80	A
-7105	540234	1	1	902	6	Jiří	Pur	M			32	kontrolor	Lukavice	99	80	A
-7105	540234	1	1	902	7	Jiří	Vašíček	M			34	živnostník	Lukavice	99	80	A
-7105	540234	1	1	902	8	Jana	Pulkertová	F			36	administrativní pracovník	Vlachov	99	80	A
-7105	540234	1	1	902	9	Miroslav	Bača	M			42	dělník	Slavoňov	99	80	A
-7105	540234	1	1	902	10	Milada	Žváčková	F			61	důchodce	Lukavice	99	80	A
-7105	540234	1	1	902	11	Jiří	Jarmar	M			33	operátor CNC	Lukavice	99	80	A
-7105	540234	1	1	902	12	Jan	Hajtmar	M			67	důchodce	Lukavice	99	80	A
-7105	540234	1	1	902	13	Milan	Šebesta	M			45	manipulant	Slavoňov	99	80	A
-7105	540234	1	1	902	14	Anna	Hegrová	F	Bc.		31	zdravotní sestra	Lukavice	99	80	A
-7105	540234	1	1	902	15	Jan	Chmelař	M			36	řidič	Lukavice	99	80	A
-7105	540234	1	2	901	1	Vladimír	Velický	M	Ing.		53	starosta obce	Lukavice	99	80	A
-7105	540234	1	2	901	2	Kateřina	Obšilová	F			44	učitelka MŠ	Slavoňov	99	80	A
-7105	540234	1	2	901	3	Petra	Smičková	F			44	vedoucí logistiky	Vlachov	99	80	A
-7105	540234	1	2	901	4	Viktor	Till	M	Bc.		38	technik prodeje	Lukavice	99	80	A
-7105	540234	1	2	901	5	Jiří	Hampl	M			56	obráběč kovů	Lukavice	1	80	A
-7105	540234	1	2	901	6	Libor	Dřevický	M			43	technolog	Slavoňov	99	80	A
-7105	540234	1	2	901	7	Lucie	Strnadová	F			34	OSVČ	Lukavice	99	80	A
-7105	540234	1	2	901	8	Marek	Wilhelm	M			49	státní zaměstnanec	Vlachov	99	80	A
-7105	540234	1	2	901	9	Petr	Odstrčil	M			49	agronom	Lukavice	99	80	A
-7105	540234	1	2	901	10	Roman	Šafář	M			28	vedoucí papírny	Lukavice	99	80	A
-7105	540234	1	2	901	11	Aleš	Theimer	M			32	vězeňská služba	Slavoňov	99	80	A
-7105	540234	1	2	901	12	Tomáš	Prucek	M			30	dílenský mistr	Lukavice	99	80	A
-7105	540234	1	2	901	13	Petr	Linhart	M			46	OSVČ	Lukavice	99	80	A
-7105	540234	1	2	901	14	Vladimír	Dušek	M			49	učitel odborného výcviku	Lukavice	99	80	A
-7105	540234	1	2	901	15	Daniela	Žáková	F			45	účetní	Slavoňov	99	80	A
-7105	540234	1	3	801	1	Vladimír	Doubrava	M			48	OSVČ	Vlachov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	540234	1	1	902	1	Milan	Žváček			36	technik	Lukavice	99	80	A	M
+7105	540234	1	2	901	1	Vladimír	Velický	Ing.		53	starosta obce	Lukavice	99	80	A	M
+7105	540234	1	3	801	1	Vladimír	Doubrava			48	OSVČ	Vlachov	99	80	A	M
+7105	540234	1	1	902	2	Šárka	Purová			36	mistrová	Vlachov	99	80	A	F
+7105	540234	1	2	901	2	Kateřina	Obšilová			44	učitelka MŠ	Slavoňov	99	80	A	F
+7105	540234	1	1	902	3	Kateřina	Groharová			36	plánovačka výroby	Lukavice	99	80	A	F
+7105	540234	1	2	901	3	Petra	Smičková			44	vedoucí logistiky	Vlachov	99	80	A	F
+7105	540234	1	1	902	4	Jitka	Tillová			64	ekonom	Lukavice	99	80	A	F
+7105	540234	1	2	901	4	Viktor	Till	Bc.		38	technik prodeje	Lukavice	99	80	A	M
+7105	540234	1	1	902	5	Ota	Focher			55	opravář	Slavoňov	99	80	A	M
+7105	540234	1	2	901	5	Jiří	Hampl			56	obráběč kovů	Lukavice	1	80	A	M
+7105	540234	1	1	902	6	Jiří	Pur			32	kontrolor	Lukavice	99	80	A	M
+7105	540234	1	2	901	6	Libor	Dřevický			43	technolog	Slavoňov	99	80	A	M
+7105	540234	1	1	902	7	Jiří	Vašíček			34	živnostník	Lukavice	99	80	A	M
+7105	540234	1	2	901	7	Lucie	Strnadová			34	OSVČ	Lukavice	99	80	A	F
+7105	540234	1	1	902	8	Jana	Pulkertová			36	administrativní pracovník	Vlachov	99	80	A	F
+7105	540234	1	2	901	8	Marek	Wilhelm			49	státní zaměstnanec	Vlachov	99	80	A	M
+7105	540234	1	1	902	9	Miroslav	Bača			42	dělník	Slavoňov	99	80	A	M
+7105	540234	1	2	901	9	Petr	Odstrčil			49	agronom	Lukavice	99	80	A	M
+7105	540234	1	1	902	10	Milada	Žváčková			61	důchodce	Lukavice	99	80	A	F
+7105	540234	1	2	901	10	Roman	Šafář			28	vedoucí papírny	Lukavice	99	80	A	M
+7105	540234	1	1	902	11	Jiří	Jarmar			33	operátor CNC	Lukavice	99	80	A	M
+7105	540234	1	2	901	11	Aleš	Theimer			32	vězeňská služba	Slavoňov	99	80	A	M
+7105	540234	1	1	902	12	Jan	Hajtmar			67	důchodce	Lukavice	99	80	A	M
+7105	540234	1	2	901	12	Tomáš	Prucek			30	dílenský mistr	Lukavice	99	80	A	M
+7105	540234	1	1	902	13	Milan	Šebesta			45	manipulant	Slavoňov	99	80	A	M
+7105	540234	1	2	901	13	Petr	Linhart			46	OSVČ	Lukavice	99	80	A	M
+7105	540234	1	1	902	14	Anna	Hegrová	Bc.		31	zdravotní sestra	Lukavice	99	80	A	F
+7105	540234	1	2	901	14	Vladimír	Dušek			49	učitel odborného výcviku	Lukavice	99	80	A	M
+7105	540234	1	1	902	15	Jan	Chmelař			36	řidič	Lukavice	99	80	A	M
+7105	540234	1	2	901	15	Daniela	Žáková			45	účetní	Slavoňov	99	80	A	F

@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	582450	1	1	901	1	Lenka	Šikulová	F		DiS.	41	účetní	Synalov	99	80	A
-6203	582450	1	1	901	2	Jiří	Pospíšil	M			44	vedoucí údržby	Synalov	99	80	A
-6203	582450	1	1	901	3	Viliam	Šprtka	M	Ing.		65	automechanik	Synalov	99	80	A
-6203	582450	1	1	901	4	Eliška	Vecheta	F			45	referentka	Synalov	99	80	A
-6203	582450	1	1	901	5	Lucie	Šprtková	F			35	prodavačka	Synalov	99	80	A
-6203	582450	1	1	901	6	Libor	Šindelka	M			35	svářeč	Synalov	99	80	A
-6203	582450	1	1	901	7	Vítězslav	Fiala	M	Ing.		58	technik	Synalov	99	80	A
-6203	582450	1	2	1	1	Michal	Škvařil	M	Ing.		56	živnostník	Synalov	1	1	A
-6203	582450	1	2	1	2	Martin	Šprtka	M			39	živnostník	Synalov	99	1	A
-6203	582450	1	2	1	3	Stanislav	Škvařil	M			21	truhlář	Synalov	99	1	A
-6203	582450	1	2	1	4	Martin	Bednařík	M	MgA.		44	živnostník	Synalov	99	1	A
-6203	582450	1	2	1	5	Anežka	Bednaříková	F	Mgr.		37	učitelka	Synalov	99	1	A
-6203	582450	1	2	1	6	Karel	Psotka	M			61	dělník	Synalov	99	1	A
-6203	582450	1	2	1	7	Marie	Škvařilová	F	Ing.		56	účetní	Synalov	1	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	582450	1	1	901	1	Lenka	Šikulová		DiS.	41	účetní	Synalov	99	80	A	F
+6203	582450	1	2	1	1	Michal	Škvařil	Ing.		56	živnostník	Synalov	1	1	A	M
+6203	582450	1	1	901	2	Jiří	Pospíšil			44	vedoucí údržby	Synalov	99	80	A	M
+6203	582450	1	2	1	2	Martin	Šprtka			39	živnostník	Synalov	99	1	A	M
+6203	582450	1	1	901	3	Viliam	Šprtka	Ing.		65	automechanik	Synalov	99	80	A	M
+6203	582450	1	2	1	3	Stanislav	Škvařil			21	truhlář	Synalov	99	1	A	M
+6203	582450	1	1	901	4	Eliška	Vecheta			45	referentka	Synalov	99	80	A	F
+6203	582450	1	2	1	4	Martin	Bednařík	MgA.		44	živnostník	Synalov	99	1	A	M
+6203	582450	1	1	901	5	Lucie	Šprtková			35	prodavačka	Synalov	99	80	A	F
+6203	582450	1	2	1	5	Anežka	Bednaříková	Mgr.		37	učitelka	Synalov	99	1	A	F
+6203	582450	1	1	901	6	Libor	Šindelka			35	svářeč	Synalov	99	80	A	M
+6203	582450	1	2	1	6	Karel	Psotka			61	dělník	Synalov	99	1	A	M
+6203	582450	1	1	901	7	Vítězslav	Fiala	Ing.		58	technik	Synalov	99	80	A	M
+6203	582450	1	2	1	7	Marie	Škvařilová	Ing.		56	účetní	Synalov	1	1	A	F

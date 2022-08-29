@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6205	586030	1	1	47	1	Antonín	Hrbotický	M			54	technik	Archlebov	99	47	0
-6205	586030	1	1	47	2	Kateřina	Mívaltová	F			43	prodavačka	Archlebov	99	47	0
-6205	586030	1	1	47	3	Magda	Bátorová	F			32	na mateřské dovolené	Archlebov	99	47	0
-6205	586030	1	1	47	4	František	Fila	M			50	nezaměstnaný	Archlebov	47	47	0
-6205	586030	1	1	47	5	Jan	Müller	M			55	pracovník ostrahy	Archlebov	99	47	0
-6205	586030	1	1	47	6	Oldřiška	Zemanová	F			57	důchodkyně	Archlebov	99	47	0
-6205	586030	1	1	47	7	Jindřich	Buchlovský	M			59	invalidní důchodce	Archlebov	47	47	0
-6205	586030	1	1	47	8	Zdeněk	Poláček	M			56	inspektor jakosti	Archlebov	99	47	0
-6205	586030	1	1	47	9	Milan	Sedláček	M			42	řidič	Archlebov	47	47	0
-6205	586030	1	2	1	1	Zdeněk	Hasala	M			60	THP	Archlebov	1	1	0
-6205	586030	1	2	1	2	Jan	Buchlovský	M			39	městská policie	Archlebov	1	1	0
-6205	586030	1	2	1	3	Karel	Dubný	M			60	ekonom	Archlebov	1	1	0
-6205	586030	1	2	1	4	Stanislav	Moštěk	M			53	soukromý podnikatel	Archlebov	1	1	0
-6205	586030	1	2	1	5	Marcela	Buchlovská	F			33	poštovní doručovatelka	Archlebov	1	1	0
-6205	586030	1	2	1	6	Jaroslav	Závodný	M			54	důchodce	Archlebov	1	1	0
-6205	586030	1	2	1	7	Jaroslav	Gamba	M			55	důchodce	Archlebov	1	1	0
-6205	586030	1	2	1	8	Václav	Luža	M			44	soukromý podnikatel	Archlebov	1	1	0
-6205	586030	1	2	1	9	Vladimír	Buchlovský	M			59	částeč. důchodce	Archlebov	1	1	0
-6205	586030	1	3	901	1	Stanislav	Koutný	M			45	brusič	Archlebov	99	80	0
-6205	586030	1	3	901	2	Pavel	Machálek	M			50	zemědělec	Archlebov	99	80	0
-6205	586030	1	3	901	3	Ondřej	Stupka	M			25	instalatér	Archlebov	99	80	0
-6205	586030	1	3	901	4	Robert	Novoměstský	M	Ing.		25	ekonom	Archlebov	99	80	0
-6205	586030	1	3	901	5	Roman	Hegr	M			26	stolař	Archlebov	99	80	0
-6205	586030	1	3	901	6	Aleš	Strmiska	M			22	obsluha CNC	Archlebov	99	80	0
-6205	586030	1	3	901	7	Jakub	Vrbík	M			19	student	Archlebov	99	80	0
-6205	586030	1	3	901	8	David	Doležel	M	Ing.		27	manažer	Archlebov	99	80	0
-6205	586030	1	3	901	9	Pavel	Strmiska	M	Bc.		24	student	Archlebov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6205	586030	1	1	47	1	Antonín	Hrbotický			54	technik	Archlebov	99	47	0	M
+6205	586030	1	2	1	1	Zdeněk	Hasala			60	THP	Archlebov	1	1	0	M
+6205	586030	1	3	901	1	Stanislav	Koutný			45	brusič	Archlebov	99	80	0	M
+6205	586030	1	1	47	2	Kateřina	Mívaltová			43	prodavačka	Archlebov	99	47	0	F
+6205	586030	1	2	1	2	Jan	Buchlovský			39	městská policie	Archlebov	1	1	0	M
+6205	586030	1	3	901	2	Pavel	Machálek			50	zemědělec	Archlebov	99	80	0	M
+6205	586030	1	1	47	3	Magda	Bátorová			32	na mateřské dovolené	Archlebov	99	47	0	F
+6205	586030	1	2	1	3	Karel	Dubný			60	ekonom	Archlebov	1	1	0	M
+6205	586030	1	3	901	3	Ondřej	Stupka			25	instalatér	Archlebov	99	80	0	M
+6205	586030	1	1	47	4	František	Fila			50	nezaměstnaný	Archlebov	47	47	0	M
+6205	586030	1	2	1	4	Stanislav	Moštěk			53	soukromý podnikatel	Archlebov	1	1	0	M
+6205	586030	1	3	901	4	Robert	Novoměstský	Ing.		25	ekonom	Archlebov	99	80	0	M
+6205	586030	1	1	47	5	Jan	Müller			55	pracovník ostrahy	Archlebov	99	47	0	M
+6205	586030	1	2	1	5	Marcela	Buchlovská			33	poštovní doručovatelka	Archlebov	1	1	0	F
+6205	586030	1	3	901	5	Roman	Hegr			26	stolař	Archlebov	99	80	0	M
+6205	586030	1	1	47	6	Oldřiška	Zemanová			57	důchodkyně	Archlebov	99	47	0	F
+6205	586030	1	2	1	6	Jaroslav	Závodný			54	důchodce	Archlebov	1	1	0	M
+6205	586030	1	3	901	6	Aleš	Strmiska			22	obsluha CNC	Archlebov	99	80	0	M
+6205	586030	1	1	47	7	Jindřich	Buchlovský			59	invalidní důchodce	Archlebov	47	47	0	M
+6205	586030	1	2	1	7	Jaroslav	Gamba			55	důchodce	Archlebov	1	1	0	M
+6205	586030	1	3	901	7	Jakub	Vrbík			19	student	Archlebov	99	80	0	M
+6205	586030	1	1	47	8	Zdeněk	Poláček			56	inspektor jakosti	Archlebov	99	47	0	M
+6205	586030	1	2	1	8	Václav	Luža			44	soukromý podnikatel	Archlebov	1	1	0	M
+6205	586030	1	3	901	8	David	Doležel	Ing.		27	manažer	Archlebov	99	80	0	M
+6205	586030	1	1	47	9	Milan	Sedláček			42	řidič	Archlebov	47	47	0	M
+6205	586030	1	2	1	9	Vladimír	Buchlovský			59	částeč. důchodce	Archlebov	1	1	0	M
+6205	586030	1	3	901	9	Pavel	Strmiska	Bc.		24	student	Archlebov	99	80	0	M

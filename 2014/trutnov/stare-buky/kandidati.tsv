@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579661	1	1	53	1	Dagmar	Houserová	F			46	farmaceutický asistent	Horní Staré Buky	99	53	0
-5205	579661	1	1	53	2	Pavel	Adam	M			45	elektrikář	Prostřední Staré Buky	99	53	0
-5205	579661	1	1	53	3	Alois	Havrda	M			65	důchodce, geometr	Prostřední Staré Buky	99	53	0
-5205	579661	1	1	53	4	Andrea	Brajkovičová	F	Ing. Bc.		45	účetní - ekonom	Horní Staré Buky	99	53	0
-5205	579661	1	1	53	5	Zdeněk	Fikejz	M			63	živnostník	Horní Staré Buky	99	53	0
-5205	579661	1	1	53	6	Radek	Procházka	M			41	přední dělník	Horní Staré Buky	99	53	0
-5205	579661	1	1	53	7	Lenka	Mollingrová	F			57	expedient	Prostřední Staré Buky	99	53	0
-5205	579661	1	1	53	8	Karel	Auerswald	M			62	strojvedoucí	Prostřední Staré Buky	99	53	0
-5205	579661	1	2	768	1	Pavel	Korec	M			30	řidič	Horní Staré Buky	99	768	0
-5205	579661	1	2	768	2	Šimon	Vincour	M			28	administrativní pracovník	Horní Staré Buky	99	768	0
-5205	579661	1	2	768	3	Jan	Kafka	M			58	středoškolský učitel	Prostřední Staré Buky	99	768	0
-5205	579661	1	2	768	4	Emil	Dubaj	M			62	učitel	Prostřední Staré Buky	99	768	0
-5205	579661	1	2	768	5	Jaroslava	Zolmanová	F			42	invalidní důchodce	Prostřední Staré Buky	99	768	0
-5205	579661	1	2	768	6	Miluška	Čišecká	F			62	OSVČ	Prostřední Staré Buky	99	768	0
-5205	579661	1	2	768	7	Alena	Baxová	F			52	účetní	Horní Staré Buky	99	768	0
-5205	579661	1	3	166	1	Jiří	Bischof	M			71	starosta	Prostřední Staré Buky	99	166	0
-5205	579661	1	3	166	2	Markéta	Cimbotová	F			35	státní zaměstnanec	Prostřední Staré Buky	99	166	0
-5205	579661	1	3	166	3	Miloslav	Horn	M			57	soukromý podnikatel	Horní Staré Buky	99	166	0
-5205	579661	1	3	166	4	Anna	Daliborová	F			34	kuchařka	Prostřední Staré Buky	99	166	0
-5205	579661	1	3	166	5	Jan	Mejvald	M			33	IT technik	Prostřední Staré Buky	99	166	0
-5205	579661	1	3	166	6	Olga	Nováčková	F			33	dělnice	Prostřední Staré Buky	99	166	0
-5205	579661	1	3	166	7	Ladislav	Šprinc	M			47	dělník	Prostřední Staré Buky	99	166	0
-5205	579661	1	3	166	8	Václav	Červený	M			61	soukromý podnikatel	Dolní Staré Buky	99	166	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579661	1	1	53	1	Dagmar	Houserová			46	farmaceutický asistent	Horní Staré Buky	99	53	0	F
+5205	579661	1	2	768	1	Pavel	Korec			30	řidič	Horní Staré Buky	99	768	0	M
+5205	579661	1	3	166	1	Jiří	Bischof			71	starosta	Prostřední Staré Buky	99	166	0	M
+5205	579661	1	1	53	2	Pavel	Adam			45	elektrikář	Prostřední Staré Buky	99	53	0	M
+5205	579661	1	2	768	2	Šimon	Vincour			28	administrativní pracovník	Horní Staré Buky	99	768	0	M
+5205	579661	1	3	166	2	Markéta	Cimbotová			35	státní zaměstnanec	Prostřední Staré Buky	99	166	0	F
+5205	579661	1	1	53	3	Alois	Havrda			65	důchodce, geometr	Prostřední Staré Buky	99	53	0	M
+5205	579661	1	2	768	3	Jan	Kafka			58	středoškolský učitel	Prostřední Staré Buky	99	768	0	M
+5205	579661	1	3	166	3	Miloslav	Horn			57	soukromý podnikatel	Horní Staré Buky	99	166	0	M
+5205	579661	1	1	53	4	Andrea	Brajkovičová	Ing. Bc.		45	účetní - ekonom	Horní Staré Buky	99	53	0	F
+5205	579661	1	2	768	4	Emil	Dubaj			62	učitel	Prostřední Staré Buky	99	768	0	M
+5205	579661	1	3	166	4	Anna	Daliborová			34	kuchařka	Prostřední Staré Buky	99	166	0	F
+5205	579661	1	1	53	5	Zdeněk	Fikejz			63	živnostník	Horní Staré Buky	99	53	0	M
+5205	579661	1	2	768	5	Jaroslava	Zolmanová			42	invalidní důchodce	Prostřední Staré Buky	99	768	0	F
+5205	579661	1	3	166	5	Jan	Mejvald			33	IT technik	Prostřední Staré Buky	99	166	0	M
+5205	579661	1	1	53	6	Radek	Procházka			41	přední dělník	Horní Staré Buky	99	53	0	M
+5205	579661	1	2	768	6	Miluška	Čišecká			62	OSVČ	Prostřední Staré Buky	99	768	0	F
+5205	579661	1	3	166	6	Olga	Nováčková			33	dělnice	Prostřední Staré Buky	99	166	0	F
+5205	579661	1	1	53	7	Lenka	Mollingrová			57	expedient	Prostřední Staré Buky	99	53	0	F
+5205	579661	1	2	768	7	Alena	Baxová			52	účetní	Horní Staré Buky	99	768	0	F
+5205	579661	1	3	166	7	Ladislav	Šprinc			47	dělník	Prostřední Staré Buky	99	166	0	M
+5205	579661	1	1	53	8	Karel	Auerswald			62	strojvedoucí	Prostřední Staré Buky	99	53	0	M
+5205	579661	1	3	166	8	Václav	Červený			61	soukromý podnikatel	Dolní Staré Buky	99	166	0	M

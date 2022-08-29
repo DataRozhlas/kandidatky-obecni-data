@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3204	558559	1	1	470	1	Petr	Mašek	M	Mgr. Bc.	MBA, LL.M.	44	státní zaměstnanec	Vrčeň	99	166	A
-3204	558559	1	1	470	2	Tomáš	Chouň	M			41	stavební a investiční technik	Vrčeň	99	80	A
-3204	558559	1	1	470	3	Eva	Beránková	F			62	učitelka	Vrčeň	99	80	A
-3204	558559	1	1	470	4	Jiří	Strolený	M			65	důchodce	Vrčeň	99	80	A
-3204	558559	1	1	470	5	Michal	Šůs	M			39	silomistr	Vrčeň	99	80	A
-3204	558559	1	1	470	6	Martin	Strolený	M			37	zámečník	Vrčeň	99	80	A
-3204	558559	1	1	470	7	Vratislav	Chodora	M			65	důchodce	Vrčeň	99	80	A
-3204	558559	1	1	470	8	Jakub	Běloch	M			27	obsluha pracovních strojů	Vrčeň	99	80	A
-3204	558559	1	1	470	9	Petr	Vajskébr	M			45	pracovník údržby	Vrčeň	99	80	A
-3204	558559	1	2	901	1	Vratislav	Chodora	M	Ing.		37	úředník samosprávy	Vrčeň	99	80	A
-3204	558559	1	2	901	2	Libor	Jirků	M	Ing.		35	projektant	Vrčeň	99	80	A
-3204	558559	1	2	901	3	Gabriela	Křelovcová	F	Ing.		38	technik	Vrčeň	99	80	A
-3204	558559	1	2	901	4	Marcela	Nováková	F			48	poštovní úřednice	Vrčeň	99	80	A
-3204	558559	1	2	901	5	Lenka	Roušalová	F	Mgr.		42	fyzioterapeutka	Vrčeň	99	80	A
-3204	558559	1	2	901	6	Johana	Sýkorová	F			25	učitelka	Vrčeň	99	80	A
-3204	558559	1	2	901	7	Václava	Chodorová	F			43	administrativní pracovnice	Vrčeň	99	80	A
-3204	558559	1	3	902	1	Petr	Marek	M			44	vězeňská služba	Vrčeň	99	80	A
-3204	558559	1	3	902	2	Pavla	Hurychová	F			41	key account manager	Vrčeň	99	80	A
-3204	558559	1	3	902	3	Pavel	Velíšek	M			23	živnostník	Vrčeň	99	80	A
-3204	558559	1	3	902	4	Michaela	Marková	F			18	studentka gymnázia	Vrčeň	99	80	A
-3204	558559	1	3	902	5	Jaroslav	Navrátil	M			54	invalidní důchodce	Vrčeň	99	80	A
-3204	558559	1	3	902	6	Josef	Hrachovec	M			36	automechanik	Vrčeň	99	80	A
-3204	558559	1	3	902	7	Jana	Schafferová	F			48	administrativní pracovnice	Vrčeň	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3204	558559	1	1	470	1	Petr	Mašek	Mgr. Bc.	MBA, LL.M.	44	státní zaměstnanec	Vrčeň	99	166	A	M
+3204	558559	1	2	901	1	Vratislav	Chodora	Ing.		37	úředník samosprávy	Vrčeň	99	80	A	M
+3204	558559	1	3	902	1	Petr	Marek			44	vězeňská služba	Vrčeň	99	80	A	M
+3204	558559	1	1	470	2	Tomáš	Chouň			41	stavební a investiční technik	Vrčeň	99	80	A	M
+3204	558559	1	2	901	2	Libor	Jirků	Ing.		35	projektant	Vrčeň	99	80	A	M
+3204	558559	1	3	902	2	Pavla	Hurychová			41	key account manager	Vrčeň	99	80	A	F
+3204	558559	1	1	470	3	Eva	Beránková			62	učitelka	Vrčeň	99	80	A	F
+3204	558559	1	2	901	3	Gabriela	Křelovcová	Ing.		38	technik	Vrčeň	99	80	A	F
+3204	558559	1	3	902	3	Pavel	Velíšek			23	živnostník	Vrčeň	99	80	A	M
+3204	558559	1	1	470	4	Jiří	Strolený			65	důchodce	Vrčeň	99	80	A	M
+3204	558559	1	2	901	4	Marcela	Nováková			48	poštovní úřednice	Vrčeň	99	80	A	F
+3204	558559	1	3	902	4	Michaela	Marková			18	studentka gymnázia	Vrčeň	99	80	A	F
+3204	558559	1	1	470	5	Michal	Šůs			39	silomistr	Vrčeň	99	80	A	M
+3204	558559	1	2	901	5	Lenka	Roušalová	Mgr.		42	fyzioterapeutka	Vrčeň	99	80	A	F
+3204	558559	1	3	902	5	Jaroslav	Navrátil			54	invalidní důchodce	Vrčeň	99	80	A	M
+3204	558559	1	1	470	6	Martin	Strolený			37	zámečník	Vrčeň	99	80	A	M
+3204	558559	1	2	901	6	Johana	Sýkorová			25	učitelka	Vrčeň	99	80	A	F
+3204	558559	1	3	902	6	Josef	Hrachovec			36	automechanik	Vrčeň	99	80	A	M
+3204	558559	1	1	470	7	Vratislav	Chodora			65	důchodce	Vrčeň	99	80	A	M
+3204	558559	1	2	901	7	Václava	Chodorová			43	administrativní pracovnice	Vrčeň	99	80	A	F
+3204	558559	1	3	902	7	Jana	Schafferová			48	administrativní pracovnice	Vrčeň	99	80	A	F
+3204	558559	1	1	470	8	Jakub	Běloch			27	obsluha pracovních strojů	Vrčeň	99	80	A	M
+3204	558559	1	1	470	9	Petr	Vajskébr			45	pracovník údržby	Vrčeň	99	80	A	M

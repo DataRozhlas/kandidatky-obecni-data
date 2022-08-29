@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	593851	1	1	903	1	Petr	Auer	M	Ing.		44	technik	Citonice	99	80	A
-6207	593851	1	1	903	2	Petr	Popelka	M	Ing.		51	obchodní zástupce	Citonice	99	80	A
-6207	593851	1	1	903	3	Dana	Oujezdská	F			55	učitelka MŠ	Citonice	99	80	A
-6207	593851	1	1	903	4	Karel	Koťa	M			44	prodejce finančních služeb	Citonice	99	80	A
-6207	593851	1	1	903	5	František	Molík	M	Ing.		64	starosta	Citonice	99	80	A
-6207	593851	1	1	903	6	Martin	Kabilka	M			35	OSVČ	Citonice	99	80	A
-6207	593851	1	1	903	7	Vlasta	Smrčková	F			41	prodavačka	Citonice	99	80	A
-6207	593851	1	1	903	8	Jan	Popelka	M			23	stavební technik	Citonice	99	80	A
-6207	593851	1	1	903	9	Luboš	Klempa	M			58	servisní technik	Citonice	99	80	A
-6207	593851	1	2	902	1	Jana	Kaniová	F			51	finanční controller	Citonice	99	80	A
-6207	593851	1	2	902	2	Marie	Hanáková	F			67	důchodce	Citonice	99	80	A
-6207	593851	1	2	902	3	Irena	Růžičková	F	Mgr.		50	referent	Citonice	99	80	A
-6207	593851	1	2	902	4	Anna	Kabilková	F			67	důchodce	Citonice	99	80	A
-6207	593851	1	2	902	5	Dita	Chmelířová	F			45	účetní	Citonice	99	80	A
-6207	593851	1	2	902	6	Iveta	Janoušková	F			50	školnice	Citonice	99	80	A
-6207	593851	1	2	902	7	Bohuslava	Tauferová	F	Ing.		63	důchodce	Citonice	99	80	A
-6207	593851	1	2	902	8	Iveta	Havlíková Lovecká	F			53	asistent pedagoga	Citonice	99	80	A
-6207	593851	1	2	902	9	Helena	Nekvasilová	F			67	důchodce	Citonice	99	80	A
-6207	593851	1	3	901	1	Alois	Hodulík	M			53	zedník	Citonice	99	80	A
-6207	593851	1	3	901	2	Jiří	Procházka	M	Ing.		69	důchodce	Citonice	99	80	A
-6207	593851	1	3	901	3	Miloš	Götz	M			39	vedoucí pojišťovny	Citonice	99	80	A
-6207	593851	1	3	901	4	Pavel	Hlávka	M			44	technik	Citonice	99	80	A
-6207	593851	1	3	901	5	Zdeněk	Klempa	M			42	zedník	Citonice	99	80	A
-6207	593851	1	3	901	6	Martin	Turek	M			38	učitel SOU	Citonice	99	80	A
-6207	593851	1	3	901	7	Josef	Lovecký	M			58	obchodní zástupce	Citonice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	593851	1	1	903	1	Petr	Auer	Ing.		44	technik	Citonice	99	80	A	M
+6207	593851	1	2	902	1	Jana	Kaniová			51	finanční controller	Citonice	99	80	A	F
+6207	593851	1	3	901	1	Alois	Hodulík			53	zedník	Citonice	99	80	A	M
+6207	593851	1	1	903	2	Petr	Popelka	Ing.		51	obchodní zástupce	Citonice	99	80	A	M
+6207	593851	1	2	902	2	Marie	Hanáková			67	důchodce	Citonice	99	80	A	F
+6207	593851	1	3	901	2	Jiří	Procházka	Ing.		69	důchodce	Citonice	99	80	A	M
+6207	593851	1	1	903	3	Dana	Oujezdská			55	učitelka MŠ	Citonice	99	80	A	F
+6207	593851	1	2	902	3	Irena	Růžičková	Mgr.		50	referent	Citonice	99	80	A	F
+6207	593851	1	3	901	3	Miloš	Götz			39	vedoucí pojišťovny	Citonice	99	80	A	M
+6207	593851	1	1	903	4	Karel	Koťa			44	prodejce finančních služeb	Citonice	99	80	A	M
+6207	593851	1	2	902	4	Anna	Kabilková			67	důchodce	Citonice	99	80	A	F
+6207	593851	1	3	901	4	Pavel	Hlávka			44	technik	Citonice	99	80	A	M
+6207	593851	1	1	903	5	František	Molík	Ing.		64	starosta	Citonice	99	80	A	M
+6207	593851	1	2	902	5	Dita	Chmelířová			45	účetní	Citonice	99	80	A	F
+6207	593851	1	3	901	5	Zdeněk	Klempa			42	zedník	Citonice	99	80	A	M
+6207	593851	1	1	903	6	Martin	Kabilka			35	OSVČ	Citonice	99	80	A	M
+6207	593851	1	2	902	6	Iveta	Janoušková			50	školnice	Citonice	99	80	A	F
+6207	593851	1	3	901	6	Martin	Turek			38	učitel SOU	Citonice	99	80	A	M
+6207	593851	1	1	903	7	Vlasta	Smrčková			41	prodavačka	Citonice	99	80	A	F
+6207	593851	1	2	902	7	Bohuslava	Tauferová	Ing.		63	důchodce	Citonice	99	80	A	F
+6207	593851	1	3	901	7	Josef	Lovecký			58	obchodní zástupce	Citonice	99	80	A	M
+6207	593851	1	1	903	8	Jan	Popelka			23	stavební technik	Citonice	99	80	A	M
+6207	593851	1	2	902	8	Iveta	Havlíková Lovecká			53	asistent pedagoga	Citonice	99	80	A	F
+6207	593851	1	1	903	9	Luboš	Klempa			58	servisní technik	Citonice	99	80	A	M
+6207	593851	1	2	902	9	Helena	Nekvasilová			67	důchodce	Citonice	99	80	A	F

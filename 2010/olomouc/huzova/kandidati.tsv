@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	597414	1	1	901	1	Edita	Baráková	F			31	administrativní pracovník	Huzová	99	80	0
-7102	597414	1	1	901	2	Stanislav	Černý	M			26	skladník, fotograf	Huzová	5	80	0
-7102	597414	1	1	901	3	Jan	Bezděda	M			31	zámečník	Huzová	99	80	0
-7102	597414	1	1	901	4	Karel	Marek	M	Bc.		22	student	Huzová	99	80	0
-7102	597414	1	1	901	5	Eva	Martišková	F			25	OSVČ	Huzová	99	80	0
-7102	597414	1	1	901	6	Margot	Chudá	F			31	operátorka	Huzová	99	80	0
-7102	597414	1	1	901	7	Blanka	Poláčková	F			45	nezaměstnaná	Huzová	99	80	0
-7102	597414	1	1	901	8	David	Křižanič	M			27	skladník	Arnoltice	99	80	0
-7102	597414	1	1	901	9	Silvie	Králová	F			33	nezaměstnaná	Huzová	99	80	0
-7102	597414	1	2	904	1	Milan	Zehnal	M			53	starosta obce	Huzová	99	80	0
-7102	597414	1	2	904	2	Ivo	Koláček	M	Ing.		42	lesní technik	Huzová	99	80	0
-7102	597414	1	2	904	3	Dáša	Vosyková	F			45	učitelka MŠ	Huzová	99	80	0
-7102	597414	1	2	904	4	Pavel	Zehnal	M			41	OSVČ	Huzová	99	80	0
-7102	597414	1	2	904	5	Jaroslav	Motan	M			33	řidič ZZS	Huzová	99	80	0
-7102	597414	1	2	904	6	Martin	Beran	M			31	řidič	Huzová	99	80	0
-7102	597414	1	2	904	7	Marcela	Bakošová	F			44	dělnice	Huzová	99	80	0
-7102	597414	1	2	904	8	Petra	Fábryová	F			24	OSVČ	Huzová	99	80	1
-7102	597414	1	2	904	9	Jaroslav	Bakoš	M			40	stavební dělník	Huzová	99	80	0
-7102	597414	1	3	903	1	Marie	Berková	F			29	mechanizátor	Arnoltice	99	80	0
-7102	597414	1	3	903	2	Vladimíra	Šišková	F			34	účetní	Arnoltice	99	80	0
-7102	597414	1	3	903	3	Pavlína	Dembická	F			41	nezaměstnaná	Arnoltice	99	80	0
-7102	597414	1	3	903	4	Irena	Štefanová	F			19	dělnice	Arnoltice	99	80	0
-7102	597414	1	3	903	5	Libor	Križanič	M			26	truhlář	Arnoltice	99	80	0
-7102	597414	1	3	903	6	Marta	Chudá	F			37	švadlena	Arnoltice	99	80	0
-7102	597414	1	3	903	7	Vladimír	Balász	M			41	traktorista	Arnoltice	99	80	0
-7102	597414	1	3	903	8	Iveta	Balászová	F			41	man. dělník	Arnoltice	99	80	0
-7102	597414	1	3	903	9	Viera	Činčurová	F			49	man. dělník	Huzová	99	80	0
-7102	597414	1	4	902	1	Lubomír	Štefaňák	M	Ing.		49	živnostník	Huzová	99	80	0
-7102	597414	1	4	902	2	Iva	Poláčková	F			57	důchodkyně	Huzová	99	80	0
-7102	597414	1	4	902	3	Jiří	Pevner	M			54	živnostník	Huzová	99	80	0
-7102	597414	1	4	902	4	Pavel	Husák	M			58	strojník	Huzová	99	80	0
-7102	597414	1	4	902	5	Rozálie	Križaničová	F			53	doručovatelka	Arnoltice	99	80	0
-7102	597414	1	4	902	6	Vladimír	Marek	M			54	řidič	Huzová	99	80	0
-7102	597414	1	4	902	7	Jana	Vráblíková	F			39	prodavačka	Huzová	99	80	0
-7102	597414	1	4	902	8	Antonín	Sosík	M			67	důchodce	Huzová	99	80	0
-7102	597414	1	4	902	9	Irena	Štefanová	F			38	doručovatelka	Arnoltice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	597414	1	1	901	1	Edita	Baráková			31	administrativní pracovník	Huzová	99	80	0	F
+7102	597414	1	2	904	1	Milan	Zehnal			53	starosta obce	Huzová	99	80	0	M
+7102	597414	1	3	903	1	Marie	Berková			29	mechanizátor	Arnoltice	99	80	0	F
+7102	597414	1	4	902	1	Lubomír	Štefaňák	Ing.		49	živnostník	Huzová	99	80	0	M
+7102	597414	1	1	901	2	Stanislav	Černý			26	skladník, fotograf	Huzová	5	80	0	M
+7102	597414	1	2	904	2	Ivo	Koláček	Ing.		42	lesní technik	Huzová	99	80	0	M
+7102	597414	1	3	903	2	Vladimíra	Šišková			34	účetní	Arnoltice	99	80	0	F
+7102	597414	1	4	902	2	Iva	Poláčková			57	důchodkyně	Huzová	99	80	0	F
+7102	597414	1	1	901	3	Jan	Bezděda			31	zámečník	Huzová	99	80	0	M
+7102	597414	1	2	904	3	Dáša	Vosyková			45	učitelka MŠ	Huzová	99	80	0	F
+7102	597414	1	3	903	3	Pavlína	Dembická			41	nezaměstnaná	Arnoltice	99	80	0	F
+7102	597414	1	4	902	3	Jiří	Pevner			54	živnostník	Huzová	99	80	0	M
+7102	597414	1	1	901	4	Karel	Marek	Bc.		22	student	Huzová	99	80	0	M
+7102	597414	1	2	904	4	Pavel	Zehnal			41	OSVČ	Huzová	99	80	0	M
+7102	597414	1	3	903	4	Irena	Štefanová			19	dělnice	Arnoltice	99	80	0	F
+7102	597414	1	4	902	4	Pavel	Husák			58	strojník	Huzová	99	80	0	M
+7102	597414	1	1	901	5	Eva	Martišková			25	OSVČ	Huzová	99	80	0	F
+7102	597414	1	2	904	5	Jaroslav	Motan			33	řidič ZZS	Huzová	99	80	0	M
+7102	597414	1	3	903	5	Libor	Križanič			26	truhlář	Arnoltice	99	80	0	M
+7102	597414	1	4	902	5	Rozálie	Križaničová			53	doručovatelka	Arnoltice	99	80	0	F
+7102	597414	1	1	901	6	Margot	Chudá			31	operátorka	Huzová	99	80	0	F
+7102	597414	1	2	904	6	Martin	Beran			31	řidič	Huzová	99	80	0	M
+7102	597414	1	3	903	6	Marta	Chudá			37	švadlena	Arnoltice	99	80	0	F
+7102	597414	1	4	902	6	Vladimír	Marek			54	řidič	Huzová	99	80	0	M
+7102	597414	1	1	901	7	Blanka	Poláčková			45	nezaměstnaná	Huzová	99	80	0	F
+7102	597414	1	2	904	7	Marcela	Bakošová			44	dělnice	Huzová	99	80	0	F
+7102	597414	1	3	903	7	Vladimír	Balász			41	traktorista	Arnoltice	99	80	0	M
+7102	597414	1	4	902	7	Jana	Vráblíková			39	prodavačka	Huzová	99	80	0	F
+7102	597414	1	1	901	8	David	Křižanič			27	skladník	Arnoltice	99	80	0	M
+7102	597414	1	2	904	8	Petra	Fábryová			24	OSVČ	Huzová	99	80	1	F
+7102	597414	1	3	903	8	Iveta	Balászová			41	man. dělník	Arnoltice	99	80	0	F
+7102	597414	1	4	902	8	Antonín	Sosík			67	důchodce	Huzová	99	80	0	M
+7102	597414	1	1	901	9	Silvie	Králová			33	nezaměstnaná	Huzová	99	80	0	F
+7102	597414	1	2	904	9	Jaroslav	Bakoš			40	stavební dělník	Huzová	99	80	0	M
+7102	597414	1	3	903	9	Viera	Činčurová			49	man. dělník	Huzová	99	80	0	F
+7102	597414	1	4	902	9	Irena	Štefanová			38	doručovatelka	Arnoltice	99	80	0	F

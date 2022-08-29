@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2102	531545	1	1	902	1	Tomáš	Žáček	M	Ing.		28	obchodní zástupce	Mořina	99	80	0
-2102	531545	1	1	902	2	Petr	Hájek	M	Ing.		39	konzultant databázových řešení	Mořina	99	80	0
-2102	531545	1	1	902	3	Jitka	Hájková	F	Ing.		39	manažer IT procesů	Mořina	99	80	0
-2102	531545	1	1	902	4	Ján	Marcinko	M			55	státní zaměstnanec	Mořina	99	80	0
-2102	531545	1	1	902	5	Jaromír	Šiman	M	Mgr.		32	hasič	Mořina	99	80	0
-2102	531545	1	1	902	6	Marek	Látal	M	Mgr.		39	právník	Mořina	99	80	0
-2102	531545	1	1	902	7	Vladimír	Šída	M	Ing.		36	IT konzultant	Mořina	99	80	0
-2102	531545	1	1	902	8	Lukáš	Doupal	M			37	IT manažer	Mořina	99	80	0
-2102	531545	1	1	902	9	Jan	Jiroušek	M	Mgr.		44	projektový manažer	Mořina	99	80	0
-2102	531545	1	1	902	10	Mark	Montgomery	M			41	obchodní zástupce	Mořina	99	80	0
-2102	531545	1	1	902	11	Zuzana	Fonioková	F			38	konzultant	Mořina	99	80	0
-2102	531545	1	2	901	1	Petr	Moucha	M			34	technicko hospodářský pracovník	Mořina	99	80	0
-2102	531545	1	2	901	2	Magda	Hnátková	F			39	učitelka ZŠ	Trněný Újezd	99	80	0
-2102	531545	1	2	901	3	Karel	Fous	M			46	technicko hospodářský pracovník	Mořina	99	80	0
-2102	531545	1	2	901	4	Vojtěch	Štička	M			46	starosta	Dolní Roblín	99	80	0
-2102	531545	1	2	901	5	Jana	Francová	F	Ing.		29	mateřská dovolená	Mořina	99	80	0
-2102	531545	1	2	901	6	Jaromír	Nedbal	M			31	řidič	Trněný Újezd	99	80	0
-2102	531545	1	2	901	7	Dagmar	Sodomková	F	Ing.		51	specialista v oboru telekomunikací	Mořina	99	80	0
-2102	531545	1	2	901	8	Martin	Hašek	M			28	IT specialista	Mořina	99	80	0
-2102	531545	1	2	901	9	Pavel	Sahulka	M			51	technicko hospodářský pracovník	Mořina	99	80	0
-2102	531545	1	2	901	10	Miroslav	Janík	M			43	truhlář	Mořina	99	80	0
-2102	531545	1	2	901	11	Zdeňka	Francová	F	Ing.		57	technicko hospodářský pracovník	Mořina	99	80	0
-2102	531545	1	3	768	1	Josef	Bořík	M			39	řidič	Mořina	99	768	0
-2102	531545	1	3	768	2	Jiřina	Tafatová	F	Mgr.		44	ředitel ZŠ a MŠ	Mořina	99	768	0
-2102	531545	1	3	768	3	Stanislav	Kešner	M			64	důchodce	Mořina	99	768	0
-2102	531545	1	3	768	4	David	Barchánek	M			37	manažer	Zbuzany	99	768	0
-2102	531545	1	3	768	5	Tomáš	Řezníček	M	Mgr.		45	speciální pedagog	Mořina	99	768	0
-2102	531545	1	3	768	6	Jarmila	Wolfová	F	Bc.		41	úřednice	Mořina	99	768	0
-2102	531545	1	3	768	7	František	Bedlivý	M	Ing.		71	důchodce	Mořina	99	768	0
-2102	531545	1	3	768	8	Karel	Landa	M	Mgr.		44	obchodní zástupce	Mořina	99	768	0
-2102	531545	1	3	768	9	Pavel	Leták	M			56	technik VS	Mořina	99	768	0
-2102	531545	1	3	768	10	Štěpánka	Boříková	F			38	kuchařka	Mořina	99	768	0
-2102	531545	1	3	768	11	Michael	Čapek	M			37	OSVČ	Mořina	99	768	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2102	531545	1	1	902	1	Tomáš	Žáček	Ing.		28	obchodní zástupce	Mořina	99	80	0	M
+2102	531545	1	2	901	1	Petr	Moucha			34	technicko hospodářský pracovník	Mořina	99	80	0	M
+2102	531545	1	3	768	1	Josef	Bořík			39	řidič	Mořina	99	768	0	M
+2102	531545	1	1	902	2	Petr	Hájek	Ing.		39	konzultant databázových řešení	Mořina	99	80	0	M
+2102	531545	1	2	901	2	Magda	Hnátková			39	učitelka ZŠ	Trněný Újezd	99	80	0	F
+2102	531545	1	3	768	2	Jiřina	Tafatová	Mgr.		44	ředitel ZŠ a MŠ	Mořina	99	768	0	F
+2102	531545	1	1	902	3	Jitka	Hájková	Ing.		39	manažer IT procesů	Mořina	99	80	0	F
+2102	531545	1	2	901	3	Karel	Fous			46	technicko hospodářský pracovník	Mořina	99	80	0	M
+2102	531545	1	3	768	3	Stanislav	Kešner			64	důchodce	Mořina	99	768	0	M
+2102	531545	1	1	902	4	Ján	Marcinko			55	státní zaměstnanec	Mořina	99	80	0	M
+2102	531545	1	2	901	4	Vojtěch	Štička			46	starosta	Dolní Roblín	99	80	0	M
+2102	531545	1	3	768	4	David	Barchánek			37	manažer	Zbuzany	99	768	0	M
+2102	531545	1	1	902	5	Jaromír	Šiman	Mgr.		32	hasič	Mořina	99	80	0	M
+2102	531545	1	2	901	5	Jana	Francová	Ing.		29	mateřská dovolená	Mořina	99	80	0	F
+2102	531545	1	3	768	5	Tomáš	Řezníček	Mgr.		45	speciální pedagog	Mořina	99	768	0	M
+2102	531545	1	1	902	6	Marek	Látal	Mgr.		39	právník	Mořina	99	80	0	M
+2102	531545	1	2	901	6	Jaromír	Nedbal			31	řidič	Trněný Újezd	99	80	0	M
+2102	531545	1	3	768	6	Jarmila	Wolfová	Bc.		41	úřednice	Mořina	99	768	0	F
+2102	531545	1	1	902	7	Vladimír	Šída	Ing.		36	IT konzultant	Mořina	99	80	0	M
+2102	531545	1	2	901	7	Dagmar	Sodomková	Ing.		51	specialista v oboru telekomunikací	Mořina	99	80	0	F
+2102	531545	1	3	768	7	František	Bedlivý	Ing.		71	důchodce	Mořina	99	768	0	M
+2102	531545	1	1	902	8	Lukáš	Doupal			37	IT manažer	Mořina	99	80	0	M
+2102	531545	1	2	901	8	Martin	Hašek			28	IT specialista	Mořina	99	80	0	M
+2102	531545	1	3	768	8	Karel	Landa	Mgr.		44	obchodní zástupce	Mořina	99	768	0	M
+2102	531545	1	1	902	9	Jan	Jiroušek	Mgr.		44	projektový manažer	Mořina	99	80	0	M
+2102	531545	1	2	901	9	Pavel	Sahulka			51	technicko hospodářský pracovník	Mořina	99	80	0	M
+2102	531545	1	3	768	9	Pavel	Leták			56	technik VS	Mořina	99	768	0	M
+2102	531545	1	1	902	10	Mark	Montgomery			41	obchodní zástupce	Mořina	99	80	0	M
+2102	531545	1	2	901	10	Miroslav	Janík			43	truhlář	Mořina	99	80	0	M
+2102	531545	1	3	768	10	Štěpánka	Boříková			38	kuchařka	Mořina	99	768	0	F
+2102	531545	1	1	902	11	Zuzana	Fonioková			38	konzultant	Mořina	99	80	0	F
+2102	531545	1	2	901	11	Zdeňka	Francová	Ing.		57	technicko hospodářský pracovník	Mořina	99	80	0	F
+2102	531545	1	3	768	11	Michael	Čapek			37	OSVČ	Mořina	99	768	0	M

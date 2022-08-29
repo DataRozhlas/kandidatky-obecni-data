@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3105	550426	1	1	902	1	Václav	Bárta	M			36	technik	Jáma	99	80	0
-3105	550426	1	1	902	2	Jiří	Šnajdr	M			58	opravář	Ratiborova Lhota	99	80	0
-3105	550426	1	1	902	3	Václav	Mráz	M	Ing.		50	ředitel	Jáma	99	80	0
-3105	550426	1	1	902	4	Miroslav	Novák	M			67	důchodce	Klenovice	99	80	0
-3105	550426	1	1	902	5	Dana	Jounová	F			34	v domácnosti	Mičovice	99	80	0
-3105	550426	1	1	902	6	Jiří	Jungbauer	M			42	traktorista	Mičovice	99	80	0
-3105	550426	1	1	902	7	Tomáš	Štrobl	M			37	traktorista	Jáma	99	80	0
-3105	550426	1	1	902	8	Jiří	Vágner	M			57	zootechnik	Mičovice	99	80	0
-3105	550426	1	1	902	9	Miroslav	Rajtmajer	M			43	dělník	Klenovice	99	80	0
-3105	550426	1	2	901	1	František	Zámečník	M			57	starosta obce	Mičovice	99	80	0
-3105	550426	1	2	901	2	Jiří	Holeček	M			66	důchodce	Mičovice	99	80	0
-3105	550426	1	2	901	3	Josef	Vincik	M			53	opravář	Mičovice	99	80	0
-3105	550426	1	2	901	4	Marie	Schwingerová	F			53	krmička	Jáma	99	80	0
-3105	550426	1	2	901	5	Radek	Pintr	M			37	podnikatel	Mičovice	99	80	0
-3105	550426	1	2	901	6	Luboš	Bárta	M			35	tesař	Mičovice	99	80	0
-3105	550426	1	2	901	7	David	Fessl	M			27	technik	Ratiborova Lhota	99	80	0
-3105	550426	1	2	901	8	Petr	Filip	M			22	podnikatel	Mičovice	99	80	0
-3105	550426	1	2	901	9	Václav	Kneifl	M			55	zedník	Jáma	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3105	550426	1	1	902	1	Václav	Bárta			36	technik	Jáma	99	80	0	M
+3105	550426	1	2	901	1	František	Zámečník			57	starosta obce	Mičovice	99	80	0	M
+3105	550426	1	1	902	2	Jiří	Šnajdr			58	opravář	Ratiborova Lhota	99	80	0	M
+3105	550426	1	2	901	2	Jiří	Holeček			66	důchodce	Mičovice	99	80	0	M
+3105	550426	1	1	902	3	Václav	Mráz	Ing.		50	ředitel	Jáma	99	80	0	M
+3105	550426	1	2	901	3	Josef	Vincik			53	opravář	Mičovice	99	80	0	M
+3105	550426	1	1	902	4	Miroslav	Novák			67	důchodce	Klenovice	99	80	0	M
+3105	550426	1	2	901	4	Marie	Schwingerová			53	krmička	Jáma	99	80	0	F
+3105	550426	1	1	902	5	Dana	Jounová			34	v domácnosti	Mičovice	99	80	0	F
+3105	550426	1	2	901	5	Radek	Pintr			37	podnikatel	Mičovice	99	80	0	M
+3105	550426	1	1	902	6	Jiří	Jungbauer			42	traktorista	Mičovice	99	80	0	M
+3105	550426	1	2	901	6	Luboš	Bárta			35	tesař	Mičovice	99	80	0	M
+3105	550426	1	1	902	7	Tomáš	Štrobl			37	traktorista	Jáma	99	80	0	M
+3105	550426	1	2	901	7	David	Fessl			27	technik	Ratiborova Lhota	99	80	0	M
+3105	550426	1	1	902	8	Jiří	Vágner			57	zootechnik	Mičovice	99	80	0	M
+3105	550426	1	2	901	8	Petr	Filip			22	podnikatel	Mičovice	99	80	0	M
+3105	550426	1	1	902	9	Miroslav	Rajtmajer			43	dělník	Klenovice	99	80	0	M
+3105	550426	1	2	901	9	Václav	Kneifl			55	zedník	Jáma	99	80	0	M

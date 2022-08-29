@@ -1,30 +1,30 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2108	537632	1	1	903	1	Iveta	Zikmundová	F			40	finanční poradce	Pátek	99	80	0
-2108	537632	1	1	903	2	Jindřich	Hněvsa	M			41	elektrikář	Pátek	99	80	0
-2108	537632	1	1	903	3	Miroslav	Kadlec	M			41	obchodní zástupce	Pátek	99	80	0
-2108	537632	1	1	903	4	Jiří	Vaněk	M			36	řidič	Pátek	99	80	0
-2108	537632	1	1	903	5	Pavel	Zvolský	M			35	truhlář	Pátek	99	80	0
-2108	537632	1	1	903	6	Miloš	Vančura	M			25	student	Pátek	99	80	0
-2108	537632	1	1	903	7	Jiří	Kohoutek	M			25	OSVČ	Pátek	99	80	0
-2108	537632	1	2	902	1	Petr	Peřina	M			51	automechanik	Pátek	99	80	0
-2108	537632	1	2	902	2	Jiří	Geissler	M			41	OSVČ	Pátek	99	80	0
-2108	537632	1	2	902	3	Ivan	Herčík	M			48	OSVČ	Pátek	99	80	0
-2108	537632	1	2	902	4	Jindřich	Týma	M			38	OSVČ	Pátek	99	80	0
-2108	537632	1	2	902	5	Josef	Stiska	M			44	skladník	Pátek	99	80	0
-2108	537632	1	2	902	6	Milan	Sobota	M			52	strojvedoucí	Pátek	99	80	0
-2108	537632	1	2	902	7	Jindřich	Hofman	M			50	OSVČ	Pátek	99	80	0
-2108	537632	1	3	901	1	Vlastimil	Fadrhonc	M			43	podnikatel	Pátek	99	80	0
-2108	537632	1	3	901	2	Jiří	Janoch	M	Ing.		49	podnikatel	Pátek	99	80	0
-2108	537632	1	3	901	3	Milan	Volejník st.	M			57	zámečník - automechanik	Pátek	99	80	0
-2108	537632	1	3	901	4	Jana	Janochová	F	Ing.		26	studující	Pátek	99	80	0
-2108	537632	1	3	901	5	Milan	Volejník ml.	M			35	podnikatel	Pátek	99	80	0
-2108	537632	1	3	901	6	Luboš	Vaněk	M			39	podnikatel	Pátek	99	80	0
-2108	537632	1	3	901	7	Ivanka	Fadrhoncová	F			57	kuchařka	Pátek	99	80	0
-2108	537632	1	3	901	8	Vratislav	Müller	M			79	důchodce	Pátek	99	80	0
-2108	537632	1	4	53	1	Jiří	Bulušek	M			28	technik	Pátek	99	53	0
-2108	537632	1	4	53	2	Jiří	Janeba	M	Ing.		35	programátor	Pátek	53	53	0
-2108	537632	1	4	53	3	Iveta	Procházková	F			39	skladník	Pátek	99	53	0
-2108	537632	1	4	53	4	Jaroslav	Pražák	M			67	důchodce	Pátek	99	53	0
-2108	537632	1	4	53	5	Bohuslav	Kroupa	M			48	technik	Pátek	53	53	0
-2108	537632	1	4	53	6	Adam	Martinec	M			30	truhlář	Pátek	99	53	0
-2108	537632	1	4	53	7	Marcela	Miarková	F			51	účetní	Pátek	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2108	537632	1	1	903	1	Iveta	Zikmundová			40	finanční poradce	Pátek	99	80	0	F
+2108	537632	1	2	902	1	Petr	Peřina			51	automechanik	Pátek	99	80	0	M
+2108	537632	1	3	901	1	Vlastimil	Fadrhonc			43	podnikatel	Pátek	99	80	0	M
+2108	537632	1	4	53	1	Jiří	Bulušek			28	technik	Pátek	99	53	0	M
+2108	537632	1	1	903	2	Jindřich	Hněvsa			41	elektrikář	Pátek	99	80	0	M
+2108	537632	1	2	902	2	Jiří	Geissler			41	OSVČ	Pátek	99	80	0	M
+2108	537632	1	3	901	2	Jiří	Janoch	Ing.		49	podnikatel	Pátek	99	80	0	M
+2108	537632	1	4	53	2	Jiří	Janeba	Ing.		35	programátor	Pátek	53	53	0	M
+2108	537632	1	1	903	3	Miroslav	Kadlec			41	obchodní zástupce	Pátek	99	80	0	M
+2108	537632	1	2	902	3	Ivan	Herčík			48	OSVČ	Pátek	99	80	0	M
+2108	537632	1	3	901	3	Milan	Volejník st.			57	zámečník - automechanik	Pátek	99	80	0	M
+2108	537632	1	4	53	3	Iveta	Procházková			39	skladník	Pátek	99	53	0	F
+2108	537632	1	1	903	4	Jiří	Vaněk			36	řidič	Pátek	99	80	0	M
+2108	537632	1	2	902	4	Jindřich	Týma			38	OSVČ	Pátek	99	80	0	M
+2108	537632	1	3	901	4	Jana	Janochová	Ing.		26	studující	Pátek	99	80	0	F
+2108	537632	1	4	53	4	Jaroslav	Pražák			67	důchodce	Pátek	99	53	0	M
+2108	537632	1	1	903	5	Pavel	Zvolský			35	truhlář	Pátek	99	80	0	M
+2108	537632	1	2	902	5	Josef	Stiska			44	skladník	Pátek	99	80	0	M
+2108	537632	1	3	901	5	Milan	Volejník ml.			35	podnikatel	Pátek	99	80	0	M
+2108	537632	1	4	53	5	Bohuslav	Kroupa			48	technik	Pátek	53	53	0	M
+2108	537632	1	1	903	6	Miloš	Vančura			25	student	Pátek	99	80	0	M
+2108	537632	1	2	902	6	Milan	Sobota			52	strojvedoucí	Pátek	99	80	0	M
+2108	537632	1	3	901	6	Luboš	Vaněk			39	podnikatel	Pátek	99	80	0	M
+2108	537632	1	4	53	6	Adam	Martinec			30	truhlář	Pátek	99	53	0	M
+2108	537632	1	1	903	7	Jiří	Kohoutek			25	OSVČ	Pátek	99	80	0	M
+2108	537632	1	2	902	7	Jindřich	Hofman			50	OSVČ	Pátek	99	80	0	M
+2108	537632	1	3	901	7	Ivanka	Fadrhoncová			57	kuchařka	Pátek	99	80	0	F
+2108	537632	1	4	53	7	Marcela	Miarková			51	účetní	Pátek	99	53	0	F
+2108	537632	1	3	901	8	Vratislav	Müller			79	důchodce	Pátek	99	80	0	M

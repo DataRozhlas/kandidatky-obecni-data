@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	535826	1	1	387	1	Jaroslav	Hanus	M			60	obchodní referent	Adamov	47	47	0
-3101	535826	1	1	387	2	Ivana	Strnadová	F			53	odborný referent	Adamov	99	47	0
-3101	535826	1	1	387	3	Karel	Rukavička	M			39	technik	Adamov	99	47	0
-3101	535826	1	1	387	4	Božena	Laurová	F			60	úřednice	Adamov	99	47	0
-3101	535826	1	2	902	1	Petr	Schicker	M			47	provozní technik	Adamov	99	80	0
-3101	535826	1	2	902	2	Kamila	Lukschová	F			45	ředitelka MŠ	Adamov	99	80	0
-3101	535826	1	2	902	3	Bohuslav	Bohdal	M	Mgr.		57	středoškolský učitel	Adamov	99	80	0
-3101	535826	1	2	902	4	Václav	Kadoun	M	Ing.		36	programátor	Adamov	99	80	0
-3101	535826	1	2	902	5	Martin	Proško	M			43	podnikatel	Adamov	99	80	0
-3101	535826	1	2	902	6	Ivo	Novotný	M	Mgr.		37	technik	Adamov	99	80	0
-3101	535826	1	2	902	7	Jaroslav	Klabouch	M			45	podnikatel	Adamov	99	80	0
-3101	535826	1	2	902	8	Jiří	Bér	M			55	kovoobráběč	Adamov	99	80	0
-3101	535826	1	2	902	9	Zdeňka	Matochová	F			36	na mateřské dovolené	Adamov	99	80	0
-3101	535826	1	3	901	1	Petr	Steinbauer	M	Ing.		46	podnikatel	Adamov	99	80	0
-3101	535826	1	3	901	2	Václav	Herda	M			47	obchodní zástupce	Adamov	99	80	0
-3101	535826	1	3	901	3	Milan	Slaba	M			58	strojvedoucí	Adamov	99	80	0
-3101	535826	1	3	901	4	Václava	Novotná	F			29	na mateřské dovolené	Adamov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	535826	1	1	387	1	Jaroslav	Hanus			60	obchodní referent	Adamov	47	47	0	M
+3101	535826	1	2	902	1	Petr	Schicker			47	provozní technik	Adamov	99	80	0	M
+3101	535826	1	3	901	1	Petr	Steinbauer	Ing.		46	podnikatel	Adamov	99	80	0	M
+3101	535826	1	1	387	2	Ivana	Strnadová			53	odborný referent	Adamov	99	47	0	F
+3101	535826	1	2	902	2	Kamila	Lukschová			45	ředitelka MŠ	Adamov	99	80	0	F
+3101	535826	1	3	901	2	Václav	Herda			47	obchodní zástupce	Adamov	99	80	0	M
+3101	535826	1	1	387	3	Karel	Rukavička			39	technik	Adamov	99	47	0	M
+3101	535826	1	2	902	3	Bohuslav	Bohdal	Mgr.		57	středoškolský učitel	Adamov	99	80	0	M
+3101	535826	1	3	901	3	Milan	Slaba			58	strojvedoucí	Adamov	99	80	0	M
+3101	535826	1	1	387	4	Božena	Laurová			60	úřednice	Adamov	99	47	0	F
+3101	535826	1	2	902	4	Václav	Kadoun	Ing.		36	programátor	Adamov	99	80	0	M
+3101	535826	1	3	901	4	Václava	Novotná			29	na mateřské dovolené	Adamov	99	80	0	F
+3101	535826	1	2	902	5	Martin	Proško			43	podnikatel	Adamov	99	80	0	M
+3101	535826	1	2	902	6	Ivo	Novotný	Mgr.		37	technik	Adamov	99	80	0	M
+3101	535826	1	2	902	7	Jaroslav	Klabouch			45	podnikatel	Adamov	99	80	0	M
+3101	535826	1	2	902	8	Jiří	Bér			55	kovoobráběč	Adamov	99	80	0	M
+3101	535826	1	2	902	9	Zdeňka	Matochová			36	na mateřské dovolené	Adamov	99	80	0	F

@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3204	557838	1	1	901	1	Daniel	Koláček	M			42	expedient, místostarosta	Chotěšov	99	80	A
-3204	557838	1	1	901	2	Pavel	Malina	M			40	vychovatel v CPTS Zbůch	Chotěšov	99	80	A
-3204	557838	1	1	901	3	Michaela	Zahradníková	F			44	referent	Chotěšov	99	80	A
-3204	557838	1	1	901	4	Pavel	Svítil	M			54	mechanik	Mantov	99	80	A
-3204	557838	1	1	901	5	Luděk	Rosenberger	M			43	dispečer MKD, starosta	Chotěšov	99	80	A
-3204	557838	1	1	901	6	Nikola	Konopíková	F	Bc.		24	studentka	Chotěšov	99	80	A
-3204	557838	1	1	901	7	Zdeněk	Šuster	M	Bc.		24	učitel	Chotěšov	99	80	A
-3204	557838	1	1	901	8	Michaela	Wilhelmová	F		DiS.	42	asistentka CSS Stod	Chotěšov	99	80	A
-3204	557838	1	1	901	9	Martin	Wizovský	M			31	obsluha CNC strojů	Chotěšov	99	80	A
-3204	557838	1	1	901	10	Zuzana	Šimanová	F			34	mateřská dovolená	Chotěšov	99	80	A
-3204	557838	1	1	901	11	Filip	Hrubý	M	Bc.		43	projektový pracovník, ředitel NO	Chotěšov	99	80	A
-3204	557838	1	1	901	12	Lucie	Křenková	F			24	studentka	Chotěšov	99	80	A
-3204	557838	1	1	901	13	Zbyněk	Hönig	M			40	technik audiovizuální tvorby	Chotěšov	99	80	A
-3204	557838	1	1	901	14	Daniel	Rydz	M			47	technik	Chotěšov	99	80	A
-3204	557838	1	1	901	15	Pavla	Bednářová	F			45	přední dělnice	Chotěšov	99	80	A
-3204	557838	1	2	389	1	Alois	Čech	M			54	správce majetku v energetice	Chotěšov	53	53	A
-3204	557838	1	2	389	2	Přemysl	Lukáš	M			37	obchodní zástupce	Mantov	99	80	A
-3204	557838	1	2	389	3	Kateřina	Volrábová	F			34	OSVČ	Mantov	99	80	A
-3204	557838	1	2	389	4	Kamil	Lukáš	M	Bc.		44	úředník	Chotěšov	99	80	A
-3204	557838	1	2	389	5	Petr	Bulín	M			47	podnikatel	Chotěšov	99	80	A
-3204	557838	1	2	389	6	Lenka	Čechová	F			45	lektorka a ředitelka HR oddělení	Chotěšov	99	80	A
-3204	557838	1	2	389	7	Jan	Bureš	M	Ing.		40	paleontolog ZČM v Plzni, soukromý zemědělec	Mantov	99	80	A
-3204	557838	1	2	389	8	Renata	Divíšková	F	Mgr.		52	podnikatelka	Chotěšov	99	80	A
-3204	557838	1	2	389	9	Václav	Celer	M			58	elektronavíječ	Chotěšov	99	80	A
-3204	557838	1	2	389	10	Lubor	Šimek	M	Ing.		49	projektant-statik	Chotěšov	99	80	A
-3204	557838	1	2	389	11	Daniel	Hacker	M			41	vedoucí oddělení	Chotěšov	99	80	A
-3204	557838	1	2	389	12	Vladimír	Divíšek	M			53	operátor CNC	Chotěšov	99	80	A
-3204	557838	1	2	389	13	Josef	Pokorný	M			61	důchodce	Mantov	99	80	A
-3204	557838	1	2	389	14	Jaroslava	Mathesová	F			70	důchodce	Chotěšov	53	53	A
-3204	557838	1	2	389	15	Ota	Wizovský	M	Ing.		65	důchodce	Mantov	53	53	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3204	557838	1	1	901	1	Daniel	Koláček			42	expedient, místostarosta	Chotěšov	99	80	A	M
+3204	557838	1	2	389	1	Alois	Čech			54	správce majetku v energetice	Chotěšov	53	53	A	M
+3204	557838	1	1	901	2	Pavel	Malina			40	vychovatel v CPTS Zbůch	Chotěšov	99	80	A	M
+3204	557838	1	2	389	2	Přemysl	Lukáš			37	obchodní zástupce	Mantov	99	80	A	M
+3204	557838	1	1	901	3	Michaela	Zahradníková			44	referent	Chotěšov	99	80	A	F
+3204	557838	1	2	389	3	Kateřina	Volrábová			34	OSVČ	Mantov	99	80	A	F
+3204	557838	1	1	901	4	Pavel	Svítil			54	mechanik	Mantov	99	80	A	M
+3204	557838	1	2	389	4	Kamil	Lukáš	Bc.		44	úředník	Chotěšov	99	80	A	M
+3204	557838	1	1	901	5	Luděk	Rosenberger			43	dispečer MKD, starosta	Chotěšov	99	80	A	M
+3204	557838	1	2	389	5	Petr	Bulín			47	podnikatel	Chotěšov	99	80	A	M
+3204	557838	1	1	901	6	Nikola	Konopíková	Bc.		24	studentka	Chotěšov	99	80	A	F
+3204	557838	1	2	389	6	Lenka	Čechová			45	lektorka a ředitelka HR oddělení	Chotěšov	99	80	A	F
+3204	557838	1	1	901	7	Zdeněk	Šuster	Bc.		24	učitel	Chotěšov	99	80	A	M
+3204	557838	1	2	389	7	Jan	Bureš	Ing.		40	paleontolog ZČM v Plzni, soukromý zemědělec	Mantov	99	80	A	M
+3204	557838	1	1	901	8	Michaela	Wilhelmová		DiS.	42	asistentka CSS Stod	Chotěšov	99	80	A	F
+3204	557838	1	2	389	8	Renata	Divíšková	Mgr.		52	podnikatelka	Chotěšov	99	80	A	F
+3204	557838	1	1	901	9	Martin	Wizovský			31	obsluha CNC strojů	Chotěšov	99	80	A	M
+3204	557838	1	2	389	9	Václav	Celer			58	elektronavíječ	Chotěšov	99	80	A	M
+3204	557838	1	1	901	10	Zuzana	Šimanová			34	mateřská dovolená	Chotěšov	99	80	A	F
+3204	557838	1	2	389	10	Lubor	Šimek	Ing.		49	projektant-statik	Chotěšov	99	80	A	M
+3204	557838	1	1	901	11	Filip	Hrubý	Bc.		43	projektový pracovník, ředitel NO	Chotěšov	99	80	A	M
+3204	557838	1	2	389	11	Daniel	Hacker			41	vedoucí oddělení	Chotěšov	99	80	A	M
+3204	557838	1	1	901	12	Lucie	Křenková			24	studentka	Chotěšov	99	80	A	F
+3204	557838	1	2	389	12	Vladimír	Divíšek			53	operátor CNC	Chotěšov	99	80	A	M
+3204	557838	1	1	901	13	Zbyněk	Hönig			40	technik audiovizuální tvorby	Chotěšov	99	80	A	M
+3204	557838	1	2	389	13	Josef	Pokorný			61	důchodce	Mantov	99	80	A	M
+3204	557838	1	1	901	14	Daniel	Rydz			47	technik	Chotěšov	99	80	A	M
+3204	557838	1	2	389	14	Jaroslava	Mathesová			70	důchodce	Chotěšov	53	53	A	F
+3204	557838	1	1	901	15	Pavla	Bednářová			45	přední dělnice	Chotěšov	99	80	A	F
+3204	557838	1	2	389	15	Ota	Wizovský	Ing.		65	důchodce	Mantov	53	53	A	M

@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	549959	1	1	902	1	Jan	Uhlíř	M	Ing.		45	podnikatel	Ubušínek	99	80	0
-6105	549959	1	1	902	2	Ivan	Jílek	M			35	řidič	Ubušínek	99	80	0
-6105	549959	1	1	902	3	Jaroslav	Jílek	M			40	traktorista	Ubušínek	99	80	0
-6105	549959	1	1	902	4	Milan	Gregor	M			44	řidič	Ubušínek	99	80	0
-6105	549959	1	1	902	5	Milan	Coufal	M			36	podnikatel	Ubušínek	99	80	0
-6105	549959	1	1	902	6	Radmila	Řehůřková	F			36	vzorkařka	Ubušínek	99	80	0
-6105	549959	1	2	901	1	Vlastimil	Husák	M			54	podnikatel	Ubušínek	99	80	0
-6105	549959	1	2	901	2	Zdeněk	Tomšů	M			42	technik	Ubušínek	99	80	0
-6105	549959	1	2	901	3	Josef	Just	M			44	stolař	Ubušínek	99	80	0
-6105	549959	1	2	901	4	Radek	Gregor	M	Ing.		41	technik	Ubušínek	99	80	0
-6105	549959	1	2	901	5	František	Jindra	M			45	traktorista	Ubušínek	99	80	0
-6105	549959	1	2	901	6	Vladimír	Kadlec	M			51	řidič	Ubušínek	99	80	0
-6105	549959	1	2	901	7	Soňa	Gregorová	F			36	prodavačka	Ubušínek	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	549959	1	1	902	1	Jan	Uhlíř	Ing.		45	podnikatel	Ubušínek	99	80	0	M
+6105	549959	1	2	901	1	Vlastimil	Husák			54	podnikatel	Ubušínek	99	80	0	M
+6105	549959	1	1	902	2	Ivan	Jílek			35	řidič	Ubušínek	99	80	0	M
+6105	549959	1	2	901	2	Zdeněk	Tomšů			42	technik	Ubušínek	99	80	0	M
+6105	549959	1	1	902	3	Jaroslav	Jílek			40	traktorista	Ubušínek	99	80	0	M
+6105	549959	1	2	901	3	Josef	Just			44	stolař	Ubušínek	99	80	0	M
+6105	549959	1	1	902	4	Milan	Gregor			44	řidič	Ubušínek	99	80	0	M
+6105	549959	1	2	901	4	Radek	Gregor	Ing.		41	technik	Ubušínek	99	80	0	M
+6105	549959	1	1	902	5	Milan	Coufal			36	podnikatel	Ubušínek	99	80	0	M
+6105	549959	1	2	901	5	František	Jindra			45	traktorista	Ubušínek	99	80	0	M
+6105	549959	1	1	902	6	Radmila	Řehůřková			36	vzorkařka	Ubušínek	99	80	0	F
+6105	549959	1	2	901	6	Vladimír	Kadlec			51	řidič	Ubušínek	99	80	0	M
+6105	549959	1	2	901	7	Soňa	Gregorová			36	prodavačka	Ubušínek	99	80	0	F

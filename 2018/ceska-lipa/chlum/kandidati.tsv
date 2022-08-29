@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5101	561614	1	1	703	1	Josef	Vítek	M			61	starosta, soukromý podnikatel	Chlum	703	703	A
-5101	561614	1	1	703	2	Veronika	Žáková	F	Mgr.		46	učitelka	Chlum	99	703	A
-5101	561614	1	1	703	3	Milan	Čerňanský	M			65	soukromý podnikatel	Drchlava	99	703	A
-5101	561614	1	1	703	4	Miloslav	Špic	M			51	dělník	Drchlava	99	703	A
-5101	561614	1	1	703	5	Ondřej	Suchánek	M	Ing.		36	OSVČ	Chlum	99	703	A
-5101	561614	1	1	703	6	Kateřina	Tlapáková Šofrová	F			40	OSVČ	Chlum	99	703	A
-5101	561614	1	1	703	7	Jiří	Hejna	M			56	hlídací služba	Chlum	99	703	A
-5101	561614	1	2	901	1	Dana	Slováková	F			39	účetní, OSVČ	Chlum	99	80	A
-5101	561614	1	2	901	2	Michaela	Gajdošová	F			39	policistka	Chlum	99	80	A
-5101	561614	1	2	901	3	Roman	Benda	M			42	seřizovač	Chlum	99	80	A
-5101	561614	1	2	901	4	Pavel	Chramosta	M			70	důchodce	Chlum	99	80	A
-5101	561614	1	2	901	5	Jaroslav	Štefka	M			37	logistik, OSVČ	Chlum	99	80	A
-5101	561614	1	2	901	6	Ladislav	Jirák	M			62	řidič	Chlum	99	80	A
-5101	561614	1	2	901	7	Petr	Hrach	M			72	důchodce	Chlum	99	80	A
-5101	561614	1	2	901	8	Petr	Hejna	M			27	operátor výroby	Chlum	99	80	N
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5101	561614	1	1	703	1	Josef	Vítek			61	starosta, soukromý podnikatel	Chlum	703	703	A	M
+5101	561614	1	2	901	1	Dana	Slováková			39	účetní, OSVČ	Chlum	99	80	A	F
+5101	561614	1	1	703	2	Veronika	Žáková	Mgr.		46	učitelka	Chlum	99	703	A	F
+5101	561614	1	2	901	2	Michaela	Gajdošová			39	policistka	Chlum	99	80	A	F
+5101	561614	1	1	703	3	Milan	Čerňanský			65	soukromý podnikatel	Drchlava	99	703	A	M
+5101	561614	1	2	901	3	Roman	Benda			42	seřizovač	Chlum	99	80	A	M
+5101	561614	1	1	703	4	Miloslav	Špic			51	dělník	Drchlava	99	703	A	M
+5101	561614	1	2	901	4	Pavel	Chramosta			70	důchodce	Chlum	99	80	A	M
+5101	561614	1	1	703	5	Ondřej	Suchánek	Ing.		36	OSVČ	Chlum	99	703	A	M
+5101	561614	1	2	901	5	Jaroslav	Štefka			37	logistik, OSVČ	Chlum	99	80	A	M
+5101	561614	1	1	703	6	Kateřina	Tlapáková Šofrová			40	OSVČ	Chlum	99	703	A	F
+5101	561614	1	2	901	6	Ladislav	Jirák			62	řidič	Chlum	99	80	A	M
+5101	561614	1	1	703	7	Jiří	Hejna			56	hlídací služba	Chlum	99	703	A	M
+5101	561614	1	2	901	7	Petr	Hrach			72	důchodce	Chlum	99	80	A	M
+5101	561614	1	2	901	8	Petr	Hejna			27	operátor výroby	Chlum	99	80	N	M

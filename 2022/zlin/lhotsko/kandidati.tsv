@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7204	549550	1	1	902	1	Hana	Geržová	F	BcA.		42	učitelka ZUŠ	Lhotsko	99	80	A
-7204	549550	1	1	902	2	Jiří	Friedl	M	Ing.		57	učitel ZŠ	Lhotsko	99	80	A
-7204	549550	1	1	902	3	Kateřina	Procházková (Žaludková)	F			29	trezorantka	Lhotsko	99	80	A
-7204	549550	1	1	902	4	Richard	Grác	M			50	operátor výroby	Lhotsko	99	80	A
-7204	549550	1	1	902	5	Monika	Macíková	F			50	dělnice	Lhotsko	99	80	A
-7204	549550	1	1	902	6	Kamila	Randýsková	F	Ing.		45	administrativa	Lhotsko	99	80	A
-7204	549550	1	2	901	1	Jaroslav	Hába	M			40	voják	Lhotsko	99	80	A
-7204	549550	1	2	901	2	Martina	Šafránková	F	Bc.	DiS.	34	zdravotní sestra	Lhotsko	99	80	A
-7204	549550	1	2	901	3	Jiří	Zrník	M			48	dělník	Lhotsko	99	80	A
-7204	549550	1	2	901	4	Adéla	Pechalová	F	Bc.		27	HR analyst	Lhotsko	99	80	A
-7204	549550	1	2	901	5	Petr	Křižka	M			50	prodavač	Lhotsko	99	80	A
-7204	549550	1	2	901	6	Jitka	Dolinová	F			55	zdravotní sestra	Lhotsko	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7204	549550	1	1	902	1	Hana	Geržová	BcA.		42	učitelka ZUŠ	Lhotsko	99	80	A	F
+7204	549550	1	2	901	1	Jaroslav	Hába			40	voják	Lhotsko	99	80	A	M
+7204	549550	1	1	902	2	Jiří	Friedl	Ing.		57	učitel ZŠ	Lhotsko	99	80	A	M
+7204	549550	1	2	901	2	Martina	Šafránková	Bc.	DiS.	34	zdravotní sestra	Lhotsko	99	80	A	F
+7204	549550	1	1	902	3	Kateřina	Procházková (Žaludková)			29	trezorantka	Lhotsko	99	80	A	F
+7204	549550	1	2	901	3	Jiří	Zrník			48	dělník	Lhotsko	99	80	A	M
+7204	549550	1	1	902	4	Richard	Grác			50	operátor výroby	Lhotsko	99	80	A	M
+7204	549550	1	2	901	4	Adéla	Pechalová	Bc.		27	HR analyst	Lhotsko	99	80	A	F
+7204	549550	1	1	902	5	Monika	Macíková			50	dělnice	Lhotsko	99	80	A	F
+7204	549550	1	2	901	5	Petr	Křižka			50	prodavač	Lhotsko	99	80	A	M
+7204	549550	1	1	902	6	Kamila	Randýsková	Ing.		45	administrativa	Lhotsko	99	80	A	F
+7204	549550	1	2	901	6	Jitka	Dolinová			55	zdravotní sestra	Lhotsko	99	80	A	F

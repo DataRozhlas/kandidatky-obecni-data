@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4204	566233	1	1	47	1	Bohuslav	Knor	M			63	důchodce	Chlumčany	99	47	0
-4204	566233	1	1	47	2	Zdeněk	Švarc	M			53	řidič	Chlumčany	99	47	0
-4204	566233	1	1	47	3	Miluše	Petrlíková	F			53	zdravotní sestra	Vlčí	99	47	0
-4204	566233	1	1	47	4	Vladimír	Bláha	M			58	dělník	Vlčí	99	47	0
-4204	566233	1	1	47	5	Antonín	Srkal	M			70	důchodce	Vlčí	99	47	0
-4204	566233	1	2	901	1	Jarmila	Nechanická	F			58	podnikatelka	Chlumčany	99	80	0
-4204	566233	1	2	901	2	Vladimír	Nič	M			62	důchodce	Chlumčany	99	80	0
-4204	566233	1	2	901	3	Milan	Kučera	M			57	seřizovač	Chlumčany	99	80	0
-4204	566233	1	2	901	4	Miroslav	Kratochvíl	M			33	podnikatel	Vlčí	99	80	0
-4204	566233	1	2	901	5	Miroslav	Tůma	M	Ing.		45	ekonom	Chlumčany	99	80	0
-4204	566233	1	2	901	6	Jiří	Procházka	M	Ing.		42	ředitel příspěvkové organizace	Chlumčany	99	80	0
-4204	566233	1	2	901	7	Karel	Chramosta	M			42	podnikatel	Chlumčany	99	80	0
-4204	566233	1	2	901	8	Jiří	Unger	M	MUDr.		44	lékař	Chlumčany	99	80	0
-4204	566233	1	3	470	1	Zdeněk	Topič	M	Ing.		56	osoba samostatně výděl.činná	Chlumčany	99	166	0
-4204	566233	1	3	470	2	Milan	Zof	M			54	osoba samostatně výděl.činná	Chlumčany	99	166	0
-4204	566233	1	3	470	3	Eva	Jarošová	F			67	účetní	Vlčí	99	166	0
-4204	566233	1	3	470	4	Jaroslava	Brožová	F	Mgr.		53	učitelka	Chlumčany	99	166	0
-4204	566233	1	3	470	5	Miloš	Verner	M			35	stavební technik	Vlčí	99	166	0
-4204	566233	1	3	470	6	Miroslav	Sejval	M			58	technik	Vlčí	99	80	0
-4204	566233	1	3	470	7	Vladimír	Procházka	M			50	dělník	Chlumčany	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4204	566233	1	1	47	1	Bohuslav	Knor			63	důchodce	Chlumčany	99	47	0	M
+4204	566233	1	2	901	1	Jarmila	Nechanická			58	podnikatelka	Chlumčany	99	80	0	F
+4204	566233	1	3	470	1	Zdeněk	Topič	Ing.		56	osoba samostatně výděl.činná	Chlumčany	99	166	0	M
+4204	566233	1	1	47	2	Zdeněk	Švarc			53	řidič	Chlumčany	99	47	0	M
+4204	566233	1	2	901	2	Vladimír	Nič			62	důchodce	Chlumčany	99	80	0	M
+4204	566233	1	3	470	2	Milan	Zof			54	osoba samostatně výděl.činná	Chlumčany	99	166	0	M
+4204	566233	1	1	47	3	Miluše	Petrlíková			53	zdravotní sestra	Vlčí	99	47	0	F
+4204	566233	1	2	901	3	Milan	Kučera			57	seřizovač	Chlumčany	99	80	0	M
+4204	566233	1	3	470	3	Eva	Jarošová			67	účetní	Vlčí	99	166	0	F
+4204	566233	1	1	47	4	Vladimír	Bláha			58	dělník	Vlčí	99	47	0	M
+4204	566233	1	2	901	4	Miroslav	Kratochvíl			33	podnikatel	Vlčí	99	80	0	M
+4204	566233	1	3	470	4	Jaroslava	Brožová	Mgr.		53	učitelka	Chlumčany	99	166	0	F
+4204	566233	1	1	47	5	Antonín	Srkal			70	důchodce	Vlčí	99	47	0	M
+4204	566233	1	2	901	5	Miroslav	Tůma	Ing.		45	ekonom	Chlumčany	99	80	0	M
+4204	566233	1	3	470	5	Miloš	Verner			35	stavební technik	Vlčí	99	166	0	M
+4204	566233	1	2	901	6	Jiří	Procházka	Ing.		42	ředitel příspěvkové organizace	Chlumčany	99	80	0	M
+4204	566233	1	3	470	6	Miroslav	Sejval			58	technik	Vlčí	99	80	0	M
+4204	566233	1	2	901	7	Karel	Chramosta			42	podnikatel	Chlumčany	99	80	0	M
+4204	566233	1	3	470	7	Vladimír	Procházka			50	dělník	Chlumčany	99	80	0	M
+4204	566233	1	2	901	8	Jiří	Unger	MUDr.		44	lékař	Chlumčany	99	80	0	M

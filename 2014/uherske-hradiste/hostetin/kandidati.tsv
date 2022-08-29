@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7202	550736	1	1	1	1	Jaroslav	Boleček	M			43	řidič	Hostětín	99	1	0
-7202	550736	1	1	1	2	Stanislava	Starobová	F			53	kadeřnice	Hostětín	99	1	0
-7202	550736	1	1	1	3	Jarmila	Studeníková	F	Mgr.		27	sociální pracovnice	Hostětín	99	1	0
-7202	550736	1	2	53	1	Robert	Janota	M	Ing.		49	starosta	Hostětín	53	53	0
-7202	550736	1	2	53	2	Milan	Smolka	M			38	živnostník	Hostětín	53	53	0
-7202	550736	1	2	53	3	Pavel	Hamšík	M			28	frézař-operátor CNC	Hostětín	53	53	0
-7202	550736	1	2	53	4	Marcela	Miklová	F			45	prodavačka	Hostětín	99	53	0
-7202	550736	1	2	53	5	Radomír	Durďák	M			22	student	Hostětín	53	53	0
-7202	550736	1	3	901	1	Naděžda	Hamšíková	F			49	místostarostka	Hostětín	99	80	0
-7202	550736	1	3	901	2	František	Bartoš	M			48	řidič	Hostětín	99	80	0
-7202	550736	1	3	901	3	Petr	Janůj	M			37	automechanik	Hostětín	99	80	0
-7202	550736	1	3	901	4	Jiří	Harvanec	M			34	strojař	Hostětín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7202	550736	1	1	1	1	Jaroslav	Boleček			43	řidič	Hostětín	99	1	0	M
+7202	550736	1	2	53	1	Robert	Janota	Ing.		49	starosta	Hostětín	53	53	0	M
+7202	550736	1	3	901	1	Naděžda	Hamšíková			49	místostarostka	Hostětín	99	80	0	F
+7202	550736	1	1	1	2	Stanislava	Starobová			53	kadeřnice	Hostětín	99	1	0	F
+7202	550736	1	2	53	2	Milan	Smolka			38	živnostník	Hostětín	53	53	0	M
+7202	550736	1	3	901	2	František	Bartoš			48	řidič	Hostětín	99	80	0	M
+7202	550736	1	1	1	3	Jarmila	Studeníková	Mgr.		27	sociální pracovnice	Hostětín	99	1	0	F
+7202	550736	1	2	53	3	Pavel	Hamšík			28	frézař-operátor CNC	Hostětín	53	53	0	M
+7202	550736	1	3	901	3	Petr	Janůj			37	automechanik	Hostětín	99	80	0	M
+7202	550736	1	2	53	4	Marcela	Miklová			45	prodavačka	Hostětín	99	53	0	F
+7202	550736	1	3	901	4	Jiří	Harvanec			34	strojař	Hostětín	99	80	0	M
+7202	550736	1	2	53	5	Radomír	Durďák			22	student	Hostětín	53	53	0	M

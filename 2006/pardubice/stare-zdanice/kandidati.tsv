@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5302	575721	1	1	902	1	Iveta	Pokorná	F			44	účetní	Staré Ždánice	99	80	0
-5302	575721	1	1	902	2	Ladislav	Štěpánek	M	Ing.		59	ředitel AG	Staré Ždánice	99	80	0
-5302	575721	1	1	902	3	Jan	Zetek	M			34	státní zaměstnanec	Staré Ždánice	99	80	0
-5302	575721	1	1	902	4	Milan	Ansorge	M			37	zámečník	Staré Ždánice	99	80	0
-5302	575721	1	1	902	5	Jaroslav	Hyhlík	M			53	technik	Staré Ždánice	99	80	0
-5302	575721	1	1	902	6	Miloš	Burda	M			39	technik	Staré Ždánice	99	80	0
-5302	575721	1	1	902	7	Miloslav	Kohoutek	M			54	technik	Staré Ždánice	99	80	0
-5302	575721	1	1	902	8	Michala	Kněžourová	F	Ing.		25	odb. referent	Staré Ždánice	99	80	0
-5302	575721	1	1	902	9	Vlastimil	Zvěřina	M			53	svářeč	Staré Ždánice	99	80	0
-5302	575721	1	2	901	1	Jiří	Dalecký	M			34	obchodní zástupce	Staré Ždánice	99	80	0
-5302	575721	1	2	901	2	Dušan	Šeps	M	Ing.		37	podnikatel	Staré Ždánice	99	80	0
-5302	575721	1	2	901	3	Milan	Juriček	M			39	podnikatel	Staré Ždánice	99	80	0
-5302	575721	1	2	901	4	Petra	Štumrová	F			33	skladnice	Staré Ždánice	99	80	0
-5302	575721	1	2	901	5	Marcel	Skalský	M			33	obchodní zástupce	Staré Ždánice	99	80	0
-5302	575721	1	2	901	6	Josef	Holub	M			46	řidič	Staré Ždánice	99	80	0
-5302	575721	1	2	901	7	Milan	Šanda	M			31	podnikatel	Staré Ždánice	99	80	0
-5302	575721	1	2	901	8	Petra	Petříčková	F			30	na mateřské dovolené	Staré Ždánice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5302	575721	1	1	902	1	Iveta	Pokorná			44	účetní	Staré Ždánice	99	80	0	F
+5302	575721	1	2	901	1	Jiří	Dalecký			34	obchodní zástupce	Staré Ždánice	99	80	0	M
+5302	575721	1	1	902	2	Ladislav	Štěpánek	Ing.		59	ředitel AG	Staré Ždánice	99	80	0	M
+5302	575721	1	2	901	2	Dušan	Šeps	Ing.		37	podnikatel	Staré Ždánice	99	80	0	M
+5302	575721	1	1	902	3	Jan	Zetek			34	státní zaměstnanec	Staré Ždánice	99	80	0	M
+5302	575721	1	2	901	3	Milan	Juriček			39	podnikatel	Staré Ždánice	99	80	0	M
+5302	575721	1	1	902	4	Milan	Ansorge			37	zámečník	Staré Ždánice	99	80	0	M
+5302	575721	1	2	901	4	Petra	Štumrová			33	skladnice	Staré Ždánice	99	80	0	F
+5302	575721	1	1	902	5	Jaroslav	Hyhlík			53	technik	Staré Ždánice	99	80	0	M
+5302	575721	1	2	901	5	Marcel	Skalský			33	obchodní zástupce	Staré Ždánice	99	80	0	M
+5302	575721	1	1	902	6	Miloš	Burda			39	technik	Staré Ždánice	99	80	0	M
+5302	575721	1	2	901	6	Josef	Holub			46	řidič	Staré Ždánice	99	80	0	M
+5302	575721	1	1	902	7	Miloslav	Kohoutek			54	technik	Staré Ždánice	99	80	0	M
+5302	575721	1	2	901	7	Milan	Šanda			31	podnikatel	Staré Ždánice	99	80	0	M
+5302	575721	1	1	902	8	Michala	Kněžourová	Ing.		25	odb. referent	Staré Ždánice	99	80	0	F
+5302	575721	1	2	901	8	Petra	Petříčková			30	na mateřské dovolené	Staré Ždánice	99	80	0	F
+5302	575721	1	1	902	9	Vlastimil	Zvěřina			53	svářeč	Staré Ždánice	99	80	0	M

@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6204	584916	1	1	1	1	Bohumil	Bohatý	M			53	starosta	Strachotín	99	1	0
-6204	584916	1	1	1	2	Pavel	Matýšek	M			54	dělník	Strachotín	99	1	0
-6204	584916	1	1	1	3	Josef	Knápek	M	Ing.		46	OSVČ	Strachotín	99	1	0
-6204	584916	1	1	1	4	Stanislav	Velecký	M			45	OSVČ	Strachotín	99	1	0
-6204	584916	1	1	1	5	Jan	Přibyl	M			42	rybář	Strachotín	99	1	0
-6204	584916	1	1	1	6	Martina	Janků	F			32	poštovní doručovatelka	Strachotín	99	1	0
-6204	584916	1	1	1	7	František	Sobotka	M			66	důchodce	Strachotín	1	1	0
-6204	584916	1	2	47	1	Lenka	Šedivá	F			34	zaměstnanec	Strachotín	99	47	0
-6204	584916	1	2	47	2	Václav	Franc	M			50	podnikatel	Strachotín	47	47	0
-6204	584916	1	2	47	3	Jiří	Staněk	M			59	důchodce	Strachotín	99	47	0
-6204	584916	1	2	47	4	Miroslav	Ráček	M			43	podnikatel	Strachotín	47	47	0
-6204	584916	1	2	47	5	František	Gutman	M			55	podnikatel	Strachotín	99	47	0
-6204	584916	1	2	47	6	Danuše	Benešovská	F			35	THP	Strachotín	99	47	0
-6204	584916	1	2	47	7	František	Stehlík	M			61	THP	Strachotín	47	47	0
-6204	584916	1	3	901	1	Jaroslava	Mikáčová	F			37	administrativní pracovnice	Strachotín	99	80	0
-6204	584916	1	3	901	2	Ivan	Murín	M			40	technik	Strachotín	99	80	0
-6204	584916	1	3	901	3	Iva	Maderová	F	Mgr.		40	učitelka	Strachotín	99	80	0
-6204	584916	1	3	901	4	Libor	Knápek	M			36	dělník	Strachotín	99	80	0
-6204	584916	1	3	901	5	Pavel	Křivák	M			40	obchodní zástupce	Strachotín	99	80	0
-6204	584916	1	3	901	6	Kateřina	Minaříková	F			39	ředitelka	Strachotín	99	80	0
-6204	584916	1	3	901	7	Zdeněk	Pospíchal	M	Ing.		40	projektant	Strachotín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6204	584916	1	1	1	1	Bohumil	Bohatý			53	starosta	Strachotín	99	1	0	M
+6204	584916	1	2	47	1	Lenka	Šedivá			34	zaměstnanec	Strachotín	99	47	0	F
+6204	584916	1	3	901	1	Jaroslava	Mikáčová			37	administrativní pracovnice	Strachotín	99	80	0	F
+6204	584916	1	1	1	2	Pavel	Matýšek			54	dělník	Strachotín	99	1	0	M
+6204	584916	1	2	47	2	Václav	Franc			50	podnikatel	Strachotín	47	47	0	M
+6204	584916	1	3	901	2	Ivan	Murín			40	technik	Strachotín	99	80	0	M
+6204	584916	1	1	1	3	Josef	Knápek	Ing.		46	OSVČ	Strachotín	99	1	0	M
+6204	584916	1	2	47	3	Jiří	Staněk			59	důchodce	Strachotín	99	47	0	M
+6204	584916	1	3	901	3	Iva	Maderová	Mgr.		40	učitelka	Strachotín	99	80	0	F
+6204	584916	1	1	1	4	Stanislav	Velecký			45	OSVČ	Strachotín	99	1	0	M
+6204	584916	1	2	47	4	Miroslav	Ráček			43	podnikatel	Strachotín	47	47	0	M
+6204	584916	1	3	901	4	Libor	Knápek			36	dělník	Strachotín	99	80	0	M
+6204	584916	1	1	1	5	Jan	Přibyl			42	rybář	Strachotín	99	1	0	M
+6204	584916	1	2	47	5	František	Gutman			55	podnikatel	Strachotín	99	47	0	M
+6204	584916	1	3	901	5	Pavel	Křivák			40	obchodní zástupce	Strachotín	99	80	0	M
+6204	584916	1	1	1	6	Martina	Janků			32	poštovní doručovatelka	Strachotín	99	1	0	F
+6204	584916	1	2	47	6	Danuše	Benešovská			35	THP	Strachotín	99	47	0	F
+6204	584916	1	3	901	6	Kateřina	Minaříková			39	ředitelka	Strachotín	99	80	0	F
+6204	584916	1	1	1	7	František	Sobotka			66	důchodce	Strachotín	1	1	0	M
+6204	584916	1	2	47	7	František	Stehlík			61	THP	Strachotín	47	47	0	M
+6204	584916	1	3	901	7	Zdeněk	Pospíchal	Ing.		40	projektant	Strachotín	99	80	0	M

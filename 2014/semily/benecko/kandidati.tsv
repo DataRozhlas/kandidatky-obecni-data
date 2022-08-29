@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5104	576981	1	1	901	1	Martin	Pohořalý	M			44	OSVČ	Dolní Štěpanice	99	80	0
-5104	576981	1	1	901	2	Kamil	Tomáš	M			42	zámečník	Dolní Štěpanice	99	80	0
-5104	576981	1	1	901	3	Jiří	Hervert	M			37	OSVČ	Benecko	99	80	0
-5104	576981	1	1	901	4	Pavel	Šochovský	M			50	OSVČ	Benecko	99	80	0
-5104	576981	1	1	901	5	Michal	Hamáček	M			39	OSVČ	Horní Štěpanice	99	80	0
-5104	576981	1	1	901	6	Dana	Honců	F	Ing.		24	zahradník-krajinář	Horní Štěpanice	99	80	0
-5104	576981	1	1	901	7	Miroslav	Janata	M			52	invalidní důchodce	Benecko	99	80	0
-5104	576981	1	1	901	8	Radek	Hanuš	M			38	OSVČ	Benecko	99	80	0
-5104	576981	1	1	901	9	Miloslav	Urbanec	M			67	důchodce	Benecko	99	80	0
-5104	576981	1	1	901	10	Miroslav	Urbanec	M			35	OSVČ	Benecko	99	80	0
-5104	576981	1	2	1	1	Jaroslav	Mejsnar	M	Ing.		53	OSVČ	Benecko	99	1	0
-5104	576981	1	2	1	2	Tomáš	Petrák	M			42	OSVČ	Dolní Štěpanice	99	1	0
-5104	576981	1	2	1	3	Jan	Urbanec	M			51	technik	Zákoutí	99	1	0
-5104	576981	1	2	1	4	Stanislav	Klimenta	M			51	OSVČ	Mrklov	99	1	0
-5104	576981	1	2	1	5	Radka	Braunová	F	Mgr.		40	právník	Benecko	99	1	0
-5104	576981	1	2	1	6	Marek	Hendrych	M			44	správce	Horní Štěpanice	99	1	0
-5104	576981	1	2	1	7	Veronika	Machová	F	Mgr.		25	analytik	Mrklov	99	1	0
-5104	576981	1	2	1	8	Monika	Janatová	F			49	účetní	Benecko	99	1	0
-5104	576981	1	2	1	9	Zdeněk	Jebavý	M			46	technik	Horní Štěpanice	99	1	0
-5104	576981	1	2	1	10	Miroslav	Zelinka	M			35	dělník	Mrklov	99	1	0
-5104	576981	1	2	1	11	Daniel	Bušta	M			44	OSVČ	Benecko	99	1	0
-5104	576981	1	2	1	12	Miloš	Gerstner	M	MVDr.		68	důchodce	Benecko	1	1	0
-5104	576981	1	2	1	13	Petr	Pacholík	M	Ing.		47	technik	Benecko	99	1	0
-5104	576981	1	2	1	14	Jaromír	Petrák	M			53	OSVČ	Dolní Štěpanice	1	1	0
-5104	576981	1	2	1	15	Eva	Roubalová	F			47	dělnice	Horní Štěpanice	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5104	576981	1	1	901	1	Martin	Pohořalý			44	OSVČ	Dolní Štěpanice	99	80	0	M
+5104	576981	1	2	1	1	Jaroslav	Mejsnar	Ing.		53	OSVČ	Benecko	99	1	0	M
+5104	576981	1	1	901	2	Kamil	Tomáš			42	zámečník	Dolní Štěpanice	99	80	0	M
+5104	576981	1	2	1	2	Tomáš	Petrák			42	OSVČ	Dolní Štěpanice	99	1	0	M
+5104	576981	1	1	901	3	Jiří	Hervert			37	OSVČ	Benecko	99	80	0	M
+5104	576981	1	2	1	3	Jan	Urbanec			51	technik	Zákoutí	99	1	0	M
+5104	576981	1	1	901	4	Pavel	Šochovský			50	OSVČ	Benecko	99	80	0	M
+5104	576981	1	2	1	4	Stanislav	Klimenta			51	OSVČ	Mrklov	99	1	0	M
+5104	576981	1	1	901	5	Michal	Hamáček			39	OSVČ	Horní Štěpanice	99	80	0	M
+5104	576981	1	2	1	5	Radka	Braunová	Mgr.		40	právník	Benecko	99	1	0	F
+5104	576981	1	1	901	6	Dana	Honců	Ing.		24	zahradník-krajinář	Horní Štěpanice	99	80	0	F
+5104	576981	1	2	1	6	Marek	Hendrych			44	správce	Horní Štěpanice	99	1	0	M
+5104	576981	1	1	901	7	Miroslav	Janata			52	invalidní důchodce	Benecko	99	80	0	M
+5104	576981	1	2	1	7	Veronika	Machová	Mgr.		25	analytik	Mrklov	99	1	0	F
+5104	576981	1	1	901	8	Radek	Hanuš			38	OSVČ	Benecko	99	80	0	M
+5104	576981	1	2	1	8	Monika	Janatová			49	účetní	Benecko	99	1	0	F
+5104	576981	1	1	901	9	Miloslav	Urbanec			67	důchodce	Benecko	99	80	0	M
+5104	576981	1	2	1	9	Zdeněk	Jebavý			46	technik	Horní Štěpanice	99	1	0	M
+5104	576981	1	1	901	10	Miroslav	Urbanec			35	OSVČ	Benecko	99	80	0	M
+5104	576981	1	2	1	10	Miroslav	Zelinka			35	dělník	Mrklov	99	1	0	M
+5104	576981	1	2	1	11	Daniel	Bušta			44	OSVČ	Benecko	99	1	0	M
+5104	576981	1	2	1	12	Miloš	Gerstner	MVDr.		68	důchodce	Benecko	1	1	0	M
+5104	576981	1	2	1	13	Petr	Pacholík	Ing.		47	technik	Benecko	99	1	0	M
+5104	576981	1	2	1	14	Jaromír	Petrák			53	OSVČ	Dolní Štěpanice	1	1	0	M
+5104	576981	1	2	1	15	Eva	Roubalová			47	dělnice	Horní Štěpanice	99	1	0	F

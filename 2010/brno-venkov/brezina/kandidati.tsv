@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	581429	1	1	721	1	Zbyněk	Severa	M	Bc.		39	ekonomický poradce	Březina	99	721	0
-6203	581429	1	1	721	2	Šárka	Severová	F		BA	25	obchodní manažer	Březina	99	721	0
-6203	581429	1	2	802	1	Pavel	Kachlík	M			53	zemědělský inženýr	Březina	99	80	0
-6203	581429	1	3	805	1	Zdeněk	Maša	M			61	bývalý starosta	Březina	99	80	0
-6203	581429	1	4	806	1	Jiří	Polák	M	Ing.		61	zemědělec	Březina	99	80	0
-6203	581429	1	5	808	1	Zbyněk	Trávníček	M			40	živnostník	Březina	99	80	0
-6203	581429	1	6	803	1	Ivo	Kozel	M			46	podnikatel	Březina	99	80	0
-6203	581429	1	7	804	1	Zbyněk	Křivánek	M			43	výkonný ředitel	Březina	99	80	0
-6203	581429	1	8	801	1	Lucie	Potůčková	F			29	kuchař,číšník	Březina	99	80	0
-6203	581429	1	9	807	1	Soňa	Čermáková	F			61	výtvarnice	Březina	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	581429	1	1	721	1	Zbyněk	Severa	Bc.		39	ekonomický poradce	Březina	99	721	0	M
+6203	581429	1	2	802	1	Pavel	Kachlík			53	zemědělský inženýr	Březina	99	80	0	M
+6203	581429	1	3	805	1	Zdeněk	Maša			61	bývalý starosta	Březina	99	80	0	M
+6203	581429	1	4	806	1	Jiří	Polák	Ing.		61	zemědělec	Březina	99	80	0	M
+6203	581429	1	5	808	1	Zbyněk	Trávníček			40	živnostník	Březina	99	80	0	M
+6203	581429	1	6	803	1	Ivo	Kozel			46	podnikatel	Březina	99	80	0	M
+6203	581429	1	7	804	1	Zbyněk	Křivánek			43	výkonný ředitel	Březina	99	80	0	M
+6203	581429	1	8	801	1	Lucie	Potůčková			29	kuchař,číšník	Březina	99	80	0	F
+6203	581429	1	9	807	1	Soňa	Čermáková			61	výtvarnice	Březina	99	80	0	F
+6203	581429	1	1	721	2	Šárka	Severová		BA	25	obchodní manažer	Březina	99	721	0	F

@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5302	575437	1	1	901	1	Josef	Vodrážka	M	Mgr.		47	starosta	Ostřešany	99	80	0
-5302	575437	1	1	901	2	Jitka	Bobková	F			49	referent	Ostřešany	99	80	0
-5302	575437	1	1	901	3	Ivan	Beran	M			43	izolatér	Ostřešany	99	80	0
-5302	575437	1	1	901	4	Václav	Sauer	M			63	důchodce	Ostřešany	99	80	0
-5302	575437	1	1	901	5	Kamil	Bobek	M			43	mechanik	Ostřešany	99	80	0
-5302	575437	1	1	901	6	Oldřich	Drábek	M			50	technik	Ostřešany	99	80	0
-5302	575437	1	1	901	7	Miroslav	Hoferica	M			29	makléř	Ostřešany	99	80	0
-5302	575437	1	1	901	8	Pavel	Hrdlička	M	Ing.		56	technik řídících systémů	Ostřešany	99	80	0
-5302	575437	1	1	901	9	Naděžda	Dvořáková	F	MUDr.		49	praktická lékařka	Ostřešany	99	80	0
-5302	575437	1	1	901	10	Bohuslav	Kolman	M	Ing.		52	soukromý podnikatel	Ostřešany	99	80	0
-5302	575437	1	1	901	11	Lukáš	Houdek	M	Ing.		42	státní zaměstnanec	Ostřešany	99	80	0
-5302	575437	1	1	901	12	Jozef	Koprivňanský	M			48	soukromý podnikatel	Ostřešany	99	80	0
-5302	575437	1	1	901	13	Silvie	Havlíčková	F			35	referentka	Ostřešany	99	80	0
-5302	575437	1	1	901	14	Jiří	Čaban	M			50	soukromý podnikatel	Ostřešany	99	80	0
-5302	575437	1	1	901	15	Jitka	Ročeňová	F			44	grafička	Ostřešany	99	80	0
-5302	575437	1	2	47	1	Vavřinec	Fülle	M			61	důchodce	Ostřešany	47	47	0
-5302	575437	1	2	47	2	Petr	Svoboda	M	Ing.		59	ekonom	Ostřešany	99	47	0
-5302	575437	1	2	47	3	Oldřich	Zelinka	M			55	dělník	Ostřešany	99	47	0
-5302	575437	1	2	47	4	Jaroslava	Pechmannová	F			58	důchodkyně	Ostřešany	99	47	0
-5302	575437	1	2	47	5	Jan	Strouha	M			42	soukromý podnikatel	Ostřešany	99	47	0
-5302	575437	1	2	47	6	František	Kušička	M			51	řidič	Ostřešany	99	47	0
-5302	575437	1	2	47	7	Vladimír	Pajtina	M			57	skladník	Ostřešany	99	47	0
-5302	575437	1	2	47	8	Jana	Burešová	F			55	účetní	Ostřešany	99	47	0
-5302	575437	1	2	47	9	Milan	Růžička	M			52	skladník	Ostřešany	99	47	0
-5302	575437	1	2	47	10	Kristýna	Erösová	F			33	prodavačka	Ostřešany	47	47	0
-5302	575437	1	2	47	11	Ladislav	Paulus	M			60	traktorista	Ostřešany	99	47	0
-5302	575437	1	2	47	12	Josef	Cenygr	M			61	důchodce	Ostřešany	99	47	0
-5302	575437	1	2	47	13	Daniel	Fülle	M			19	traktorista	Ostřešany	99	47	0
-5302	575437	1	2	47	14	Helena	Hodásová	F			63	důchodkyně	Ostřešany	47	47	0
-5302	575437	1	2	47	15	Jana	Procházková	F			58	důchodkyně	Ostřešany	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5302	575437	1	1	901	1	Josef	Vodrážka	Mgr.		47	starosta	Ostřešany	99	80	0	M
+5302	575437	1	2	47	1	Vavřinec	Fülle			61	důchodce	Ostřešany	47	47	0	M
+5302	575437	1	1	901	2	Jitka	Bobková			49	referent	Ostřešany	99	80	0	F
+5302	575437	1	2	47	2	Petr	Svoboda	Ing.		59	ekonom	Ostřešany	99	47	0	M
+5302	575437	1	1	901	3	Ivan	Beran			43	izolatér	Ostřešany	99	80	0	M
+5302	575437	1	2	47	3	Oldřich	Zelinka			55	dělník	Ostřešany	99	47	0	M
+5302	575437	1	1	901	4	Václav	Sauer			63	důchodce	Ostřešany	99	80	0	M
+5302	575437	1	2	47	4	Jaroslava	Pechmannová			58	důchodkyně	Ostřešany	99	47	0	F
+5302	575437	1	1	901	5	Kamil	Bobek			43	mechanik	Ostřešany	99	80	0	M
+5302	575437	1	2	47	5	Jan	Strouha			42	soukromý podnikatel	Ostřešany	99	47	0	M
+5302	575437	1	1	901	6	Oldřich	Drábek			50	technik	Ostřešany	99	80	0	M
+5302	575437	1	2	47	6	František	Kušička			51	řidič	Ostřešany	99	47	0	M
+5302	575437	1	1	901	7	Miroslav	Hoferica			29	makléř	Ostřešany	99	80	0	M
+5302	575437	1	2	47	7	Vladimír	Pajtina			57	skladník	Ostřešany	99	47	0	M
+5302	575437	1	1	901	8	Pavel	Hrdlička	Ing.		56	technik řídících systémů	Ostřešany	99	80	0	M
+5302	575437	1	2	47	8	Jana	Burešová			55	účetní	Ostřešany	99	47	0	F
+5302	575437	1	1	901	9	Naděžda	Dvořáková	MUDr.		49	praktická lékařka	Ostřešany	99	80	0	F
+5302	575437	1	2	47	9	Milan	Růžička			52	skladník	Ostřešany	99	47	0	M
+5302	575437	1	1	901	10	Bohuslav	Kolman	Ing.		52	soukromý podnikatel	Ostřešany	99	80	0	M
+5302	575437	1	2	47	10	Kristýna	Erösová			33	prodavačka	Ostřešany	47	47	0	F
+5302	575437	1	1	901	11	Lukáš	Houdek	Ing.		42	státní zaměstnanec	Ostřešany	99	80	0	M
+5302	575437	1	2	47	11	Ladislav	Paulus			60	traktorista	Ostřešany	99	47	0	M
+5302	575437	1	1	901	12	Jozef	Koprivňanský			48	soukromý podnikatel	Ostřešany	99	80	0	M
+5302	575437	1	2	47	12	Josef	Cenygr			61	důchodce	Ostřešany	99	47	0	M
+5302	575437	1	1	901	13	Silvie	Havlíčková			35	referentka	Ostřešany	99	80	0	F
+5302	575437	1	2	47	13	Daniel	Fülle			19	traktorista	Ostřešany	99	47	0	M
+5302	575437	1	1	901	14	Jiří	Čaban			50	soukromý podnikatel	Ostřešany	99	80	0	M
+5302	575437	1	2	47	14	Helena	Hodásová			63	důchodkyně	Ostřešany	47	47	0	F
+5302	575437	1	1	901	15	Jitka	Ročeňová			44	grafička	Ostřešany	99	80	0	F
+5302	575437	1	2	47	15	Jana	Procházková			58	důchodkyně	Ostřešany	99	47	0	F

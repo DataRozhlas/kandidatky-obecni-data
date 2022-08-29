@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	571245	1	1	768	1	Karel	Krulík	M			65	jednatel a majitel firmy	Bylany	768	768	A
-5301	571245	1	1	768	2	Robert	Marx	M	Bc.		49	vedoucí oddělení	Bylany	99	768	A
-5301	571245	1	1	768	3	Jaroslav	Saidl	M			55	OSVČ	Bylany	99	768	A
-5301	571245	1	1	768	4	Roman	Hyhlík	M			46	OSVČ	Bylany	99	768	A
-5301	571245	1	1	768	5	Martin	Málek	M			39	vedoucí prodejny	Bylany	99	768	A
-5301	571245	1	1	768	6	Blanka	Plívová	F			47	pracovnice kvality	Bylany	99	768	A
-5301	571245	1	1	768	7	Martina	Adámková	F			40	administrativní pracovnice	Bylany	99	768	A
-5301	571245	1	2	901	1	Michal	Šuba	M			40	obchodní zástupce	Bylany	99	80	A
-5301	571245	1	2	901	2	Vít	Bureš	M	Ing.		44	OSVČ	Bylany	99	80	A
-5301	571245	1	2	901	3	Tomáš	Hrubý	M			45	elektrikář	Bylany	99	80	A
-5301	571245	1	2	901	4	Miroslav	Bartas	M	Ing.		36	vedoucí oddělení smluvních servisů	Bylany	99	80	A
-5301	571245	1	2	901	5	František	Hrachovina	M			40	OSVČ	Bylany	99	80	A
-5301	571245	1	2	901	6	Lenka	Bušinová	F			37	specialista pro zákaznický servis	Bylany	99	80	A
-5301	571245	1	2	901	7	Antonín	Vavřík	M			59	dělník	Bylany	99	80	A
-5301	571245	1	2	901	8	Lucie	Rigo	F	Bc.		29	mateřská dovolená	Bylany	99	80	A
-5301	571245	1	2	901	9	Jan	Šmíd	M	Ing.		58	agronom	Bylany	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	571245	1	1	768	1	Karel	Krulík			65	jednatel a majitel firmy	Bylany	768	768	A	M
+5301	571245	1	2	901	1	Michal	Šuba			40	obchodní zástupce	Bylany	99	80	A	M
+5301	571245	1	1	768	2	Robert	Marx	Bc.		49	vedoucí oddělení	Bylany	99	768	A	M
+5301	571245	1	2	901	2	Vít	Bureš	Ing.		44	OSVČ	Bylany	99	80	A	M
+5301	571245	1	1	768	3	Jaroslav	Saidl			55	OSVČ	Bylany	99	768	A	M
+5301	571245	1	2	901	3	Tomáš	Hrubý			45	elektrikář	Bylany	99	80	A	M
+5301	571245	1	1	768	4	Roman	Hyhlík			46	OSVČ	Bylany	99	768	A	M
+5301	571245	1	2	901	4	Miroslav	Bartas	Ing.		36	vedoucí oddělení smluvních servisů	Bylany	99	80	A	M
+5301	571245	1	1	768	5	Martin	Málek			39	vedoucí prodejny	Bylany	99	768	A	M
+5301	571245	1	2	901	5	František	Hrachovina			40	OSVČ	Bylany	99	80	A	M
+5301	571245	1	1	768	6	Blanka	Plívová			47	pracovnice kvality	Bylany	99	768	A	F
+5301	571245	1	2	901	6	Lenka	Bušinová			37	specialista pro zákaznický servis	Bylany	99	80	A	F
+5301	571245	1	1	768	7	Martina	Adámková			40	administrativní pracovnice	Bylany	99	768	A	F
+5301	571245	1	2	901	7	Antonín	Vavřík			59	dělník	Bylany	99	80	A	M
+5301	571245	1	2	901	8	Lucie	Rigo	Bc.		29	mateřská dovolená	Bylany	99	80	A	F
+5301	571245	1	2	901	9	Jan	Šmíd	Ing.		58	agronom	Bylany	99	80	A	M

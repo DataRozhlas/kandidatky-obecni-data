@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	530701	1	1	901	1	Jiří	Klimeš	M			47	výpravčí ČD	Střezimíř	99	80	0
-2101	530701	1	1	901	2	Pavel	Pavlík	M	Ing.		51	vedoucí polesí	Střezimíř	99	80	0
-2101	530701	1	1	901	3	Ivan	Mindl	M			50	vedoucí skladu	Střezimíř	99	80	0
-2101	530701	1	1	901	4	Romana	Jiráková	F			34	operátor technologie	Střezimíř	99	80	0
-2101	530701	1	1	901	5	Jaroslava	Pohanová	F	Ing.		51	soukromá podnikatelka	Střezimíř	99	80	0
-2101	530701	1	1	901	6	Vlastimil	Ploc	M			32	soukromý podnikatel	Střezimíř-Dolní Dobřejov	99	80	0
-2101	530701	1	1	901	7	Libor	Šimák	M			31	technolog	Střezimíř	99	80	0
-2101	530701	1	1	901	8	Josef	Petrásek	M			74	důchodce	Střezimíř	99	80	0
-2101	530701	1	1	901	9	Josef	Nygrýn	M			55	soukromý podnikatel	Střezimíř	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	530701	1	1	901	1	Jiří	Klimeš			47	výpravčí ČD	Střezimíř	99	80	0	M
+2101	530701	1	1	901	2	Pavel	Pavlík	Ing.		51	vedoucí polesí	Střezimíř	99	80	0	M
+2101	530701	1	1	901	3	Ivan	Mindl			50	vedoucí skladu	Střezimíř	99	80	0	M
+2101	530701	1	1	901	4	Romana	Jiráková			34	operátor technologie	Střezimíř	99	80	0	F
+2101	530701	1	1	901	5	Jaroslava	Pohanová	Ing.		51	soukromá podnikatelka	Střezimíř	99	80	0	F
+2101	530701	1	1	901	6	Vlastimil	Ploc			32	soukromý podnikatel	Střezimíř-Dolní Dobřejov	99	80	0	M
+2101	530701	1	1	901	7	Libor	Šimák			31	technolog	Střezimíř	99	80	0	M
+2101	530701	1	1	901	8	Josef	Petrásek			74	důchodce	Střezimíř	99	80	0	M
+2101	530701	1	1	901	9	Josef	Nygrýn			55	soukromý podnikatel	Střezimíř	99	80	0	M

@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3206	559962	1	1	802	1	Jan	Mudra	M	Bc.		41	produktový manažer zemědělské techniky	Líšná	99	80	A
-3206	559962	1	2	801	1	Jan	Dolejší	M			60	technolog	Líšná	99	80	A
-3206	559962	1	3	901	1	Radek	Kovanda	M		DiS.	37	vedoucí dílenského provozu	Líšná	99	80	A
-3206	559962	1	3	901	2	Přemysl	Mudra	M			51	traktorista - opravář	Líšná	99	80	A
-3206	559962	1	3	901	3	Pavel	Bělohlávek	M			51	konstruktér	Líšná	99	80	A
-3206	559962	1	3	901	4	Jana	Hurtová	F			58	obráběčka kovů	Líšná	99	80	A
-3206	559962	1	3	901	5	Tomáš	Valenta	M			32	traktorista - opravář	Líšná	99	80	A
-3206	559962	1	3	901	6	Petra	Boubínová	F	Ing.		32	rodičovská dovolená	Líšná	99	80	A
-3206	559962	1	3	901	7	Ondřej	Švehla	M			27	OSVČ	Líšná	99	80	A
-3206	559962	1	4	803	1	Roland	Vančó	M			43	architekt	Líšná	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3206	559962	1	1	802	1	Jan	Mudra	Bc.		41	produktový manažer zemědělské techniky	Líšná	99	80	A	M
+3206	559962	1	2	801	1	Jan	Dolejší			60	technolog	Líšná	99	80	A	M
+3206	559962	1	3	901	1	Radek	Kovanda		DiS.	37	vedoucí dílenského provozu	Líšná	99	80	A	M
+3206	559962	1	4	803	1	Roland	Vančó			43	architekt	Líšná	99	80	A	M
+3206	559962	1	3	901	2	Přemysl	Mudra			51	traktorista - opravář	Líšná	99	80	A	M
+3206	559962	1	3	901	3	Pavel	Bělohlávek			51	konstruktér	Líšná	99	80	A	M
+3206	559962	1	3	901	4	Jana	Hurtová			58	obráběčka kovů	Líšná	99	80	A	F
+3206	559962	1	3	901	5	Tomáš	Valenta			32	traktorista - opravář	Líšná	99	80	A	M
+3206	559962	1	3	901	6	Petra	Boubínová	Ing.		32	rodičovská dovolená	Líšná	99	80	A	F
+3206	559962	1	3	901	7	Ondřej	Švehla			27	OSVČ	Líšná	99	80	A	M

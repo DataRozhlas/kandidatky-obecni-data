@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7104	552844	1	1	901	1	Antonín	Folter	M			50	opravář	Olšovec	99	80	0
-7104	552844	1	1	901	2	Pavel	Stupárek	M	Ing.		58	podnikatel	Olšovec	99	80	0
-7104	552844	1	1	901	3	Karel	Bezděk	M			49	podnikatel	Olšovec	99	80	0
-7104	552844	1	1	901	4	Miroslava	Navrátilová	F			51	doručovatelka	Olšovec	99	80	0
-7104	552844	1	1	901	5	Petr	Pavelka	M	Ing.		45	podnikatel	Olšovec	99	80	0
-7104	552844	1	1	901	6	Jiří	Králík	M			42	servisní technik	Olšovec	99	80	0
-7104	552844	1	1	901	7	Karel	Rudolf	M			58	podnikatel	Olšovec	99	80	0
-7104	552844	1	1	901	8	Zdeněk	Prachař	M	MUDr.		68	soukromý lékař	Boňkov	99	80	0
-7104	552844	1	1	901	9	Lubomír	Šulc	M			40	frézař	Olšovec	99	80	0
-7104	552844	1	2	903	1	Michal	Navrátil	M			31	zámečník	Olšovec	99	80	0
-7104	552844	1	2	903	2	Pavla	Bezděková	F			40	admin. prac.	Olšovec	99	80	0
-7104	552844	1	2	903	3	Radek	Staněk	M			41	živnostník	Olšovec	99	80	0
-7104	552844	1	2	903	4	Martin	Kahánek	M			28	živnostník	Olšovec	99	80	0
-7104	552844	1	2	903	5	Markéta	Kaniecká	F			35	asistentka	Olšovec	99	80	0
-7104	552844	1	2	903	6	Petra	Staňková	F			29	dělnice	Olšovec	99	80	0
-7104	552844	1	2	903	7	Hana	Králíková	F			29	obchodní zástupce	Olšovec	99	80	0
-7104	552844	1	2	903	8	Bohuslav	Enenkl	M			44	stolař	Olšovec	99	80	0
-7104	552844	1	2	903	9	Lucie	Kanisová	F			30	referent	Olšovec	99	80	0
-7104	552844	1	3	902	1	Kamil	Dreiseitel	M	Bc.		39	policista	Olšovec	99	80	0
-7104	552844	1	3	902	2	Jiřina	Pavelková	F	Ing.		51	ekonom	Olšovec	99	80	0
-7104	552844	1	3	902	3	Monika	Juráňová	F			41	OSVČ	Olšovec	99	80	0
-7104	552844	1	3	902	4	Hana	Stupárková	F			42	administrativní pracovnice	Olšovec	99	80	0
-7104	552844	1	3	902	5	Přemysl	Frieb	M			50	technik	Boňkov	99	80	0
-7104	552844	1	3	902	6	Světla	Lukačková	F	Bc.		38	speciální pedagog	Olšovec	99	80	0
-7104	552844	1	3	902	7	Martina	Holasová	F	Mgr.		46	učitelka	Olšovec	99	80	0
-7104	552844	1	3	902	8	Pavel	Šatánek	M			48	řidič	Olšovec	99	80	0
-7104	552844	1	3	902	9	Monika	Králová	F	Bc.		39	administrativní pracovnice	Olšovec	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7104	552844	1	1	901	1	Antonín	Folter			50	opravář	Olšovec	99	80	0	M
+7104	552844	1	2	903	1	Michal	Navrátil			31	zámečník	Olšovec	99	80	0	M
+7104	552844	1	3	902	1	Kamil	Dreiseitel	Bc.		39	policista	Olšovec	99	80	0	M
+7104	552844	1	1	901	2	Pavel	Stupárek	Ing.		58	podnikatel	Olšovec	99	80	0	M
+7104	552844	1	2	903	2	Pavla	Bezděková			40	admin. prac.	Olšovec	99	80	0	F
+7104	552844	1	3	902	2	Jiřina	Pavelková	Ing.		51	ekonom	Olšovec	99	80	0	F
+7104	552844	1	1	901	3	Karel	Bezděk			49	podnikatel	Olšovec	99	80	0	M
+7104	552844	1	2	903	3	Radek	Staněk			41	živnostník	Olšovec	99	80	0	M
+7104	552844	1	3	902	3	Monika	Juráňová			41	OSVČ	Olšovec	99	80	0	F
+7104	552844	1	1	901	4	Miroslava	Navrátilová			51	doručovatelka	Olšovec	99	80	0	F
+7104	552844	1	2	903	4	Martin	Kahánek			28	živnostník	Olšovec	99	80	0	M
+7104	552844	1	3	902	4	Hana	Stupárková			42	administrativní pracovnice	Olšovec	99	80	0	F
+7104	552844	1	1	901	5	Petr	Pavelka	Ing.		45	podnikatel	Olšovec	99	80	0	M
+7104	552844	1	2	903	5	Markéta	Kaniecká			35	asistentka	Olšovec	99	80	0	F
+7104	552844	1	3	902	5	Přemysl	Frieb			50	technik	Boňkov	99	80	0	M
+7104	552844	1	1	901	6	Jiří	Králík			42	servisní technik	Olšovec	99	80	0	M
+7104	552844	1	2	903	6	Petra	Staňková			29	dělnice	Olšovec	99	80	0	F
+7104	552844	1	3	902	6	Světla	Lukačková	Bc.		38	speciální pedagog	Olšovec	99	80	0	F
+7104	552844	1	1	901	7	Karel	Rudolf			58	podnikatel	Olšovec	99	80	0	M
+7104	552844	1	2	903	7	Hana	Králíková			29	obchodní zástupce	Olšovec	99	80	0	F
+7104	552844	1	3	902	7	Martina	Holasová	Mgr.		46	učitelka	Olšovec	99	80	0	F
+7104	552844	1	1	901	8	Zdeněk	Prachař	MUDr.		68	soukromý lékař	Boňkov	99	80	0	M
+7104	552844	1	2	903	8	Bohuslav	Enenkl			44	stolař	Olšovec	99	80	0	M
+7104	552844	1	3	902	8	Pavel	Šatánek			48	řidič	Olšovec	99	80	0	M
+7104	552844	1	1	901	9	Lubomír	Šulc			40	frézař	Olšovec	99	80	0	M
+7104	552844	1	2	903	9	Lucie	Kanisová			30	referent	Olšovec	99	80	0	F
+7104	552844	1	3	902	9	Monika	Králová	Bc.		39	administrativní pracovnice	Olšovec	99	80	0	F

@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	542105	1	1	166	1	Jiří	Loskot	M			62	starosta	Mšec	166	166	A
-2112	542105	1	1	166	2	Tomáš	Rosenbaum	M		DiS.	37	technik	Mšec	99	166	A
-2112	542105	1	1	166	3	Jiří	Šuma	M			62	podnikatel	Mšec	99	166	A
-2112	542105	1	1	166	4	Aleš	Nezbeda	M			43	podnikatel	Mšec	99	166	A
-2112	542105	1	1	166	5	Jiří	Šuma	M			34	podnikatel	Mšec	99	166	A
-2112	542105	1	1	166	6	Jiří	Kapek	M			58	podnikatel	Mšec	99	166	A
-2112	542105	1	1	166	7	Petra	Urbanová	F			33	podnikatelka	Mšec	99	166	A
-2112	542105	1	1	166	8	Markéta	Simandlová	F			39	kuchařka	Mšec	99	166	A
-2112	542105	1	1	166	9	Alena	Švecová	F			58	vedoucí učitelka	Mšec	99	166	A
-2112	542105	1	2	902	1	Karel	Beckl	M			61	práce v zemědělství	Mšec	47	80	A
-2112	542105	1	2	902	2	Petr	Toman	M			46	OSVČ - obkladač	Mšec	99	80	A
-2112	542105	1	2	902	3	Lenka	Vosátková	F			56	učitelka	Mšec	99	80	A
-2112	542105	1	2	902	4	Monika	Novotná	F			36	ruční výroba sýrů	Mšec	99	80	A
-2112	542105	1	2	902	5	Michaela	Dokládalová	F			34	účetní	Mšec	99	80	A
-2112	542105	1	2	902	6	Michal	Měchura	M			36	rybářský technik	Mšec	99	80	A
-2112	542105	1	2	902	7	Jiřina	Zítková	F			57	důchodce	Mšec	99	80	A
-2112	542105	1	2	902	8	Pavlína	Heroldová	F			48	úřednice	Mšec	99	80	A
-2112	542105	1	2	902	9	Lenka	Varmužová	F			35	osobní bankéřka	Mšec	99	80	A
-2112	542105	1	3	903	1	Mani	Soule	M			53	vedoucí logistiky	Mšec	99	80	A
-2112	542105	1	3	903	2	Pavel	Saska	M			41	technik	Mšec	99	80	A
-2112	542105	1	3	903	3	Marek	Tichý	M			33	dozorčí stanice metra	Mšec	99	80	A
-2112	542105	1	3	903	4	Marcela	Malošová	F			40	elektromechanik	Mšec	99	80	A
-2112	542105	1	3	903	5	Vladimír	Ponka	M			52	OSVČ	Mšec	99	80	A
-2112	542105	1	3	903	6	Josef	Purkrábek	M			70	důchodce	Mšec	99	80	A
-2112	542105	1	3	903	7	Tereza	Matějovská	F			32	OSVČ	Mšec	99	80	A
-2112	542105	1	3	903	8	Miroslav	Dipolt	M			48	tiskař	Mšec	99	80	A
-2112	542105	1	3	903	9	Milada	Soule	F			46	pedagogický pracovník	Mšec	99	80	A
-2112	542105	1	4	901	1	Libuše	Bestajovská	F			57	technik odboru správy majetku	Mšec	99	80	A
-2112	542105	1	4	901	2	Milan	Prokop	M			56	OSVČ	Mšec	99	80	A
-2112	542105	1	4	901	3	Tomáš	Jílek	M			46	obchodník	Mšec	99	80	A
-2112	542105	1	4	901	4	Petr	Neužil	M			56	skladník	Mšec	99	80	A
-2112	542105	1	4	901	5	Václav	Klíma	M			51	nástrojař	Mšec	99	80	A
-2112	542105	1	4	901	6	Lenka	Hnízdilová	F		DiS.	32	administrativní pracovnice	Mšec	99	80	A
-2112	542105	1	4	901	7	Vladimír	Libich	M			58	OSVČ	Mšec	99	80	A
-2112	542105	1	4	901	8	Šárka	Klevetová	F			45	zdravotní sestra	Mšec	99	80	A
-2112	542105	1	4	901	9	Aleš	Eisenstein	M			41	OSVČ	Mšec	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	542105	1	1	166	1	Jiří	Loskot			62	starosta	Mšec	166	166	A	M
+2112	542105	1	2	902	1	Karel	Beckl			61	práce v zemědělství	Mšec	47	80	A	M
+2112	542105	1	3	903	1	Mani	Soule			53	vedoucí logistiky	Mšec	99	80	A	M
+2112	542105	1	4	901	1	Libuše	Bestajovská			57	technik odboru správy majetku	Mšec	99	80	A	F
+2112	542105	1	1	166	2	Tomáš	Rosenbaum		DiS.	37	technik	Mšec	99	166	A	M
+2112	542105	1	2	902	2	Petr	Toman			46	OSVČ - obkladač	Mšec	99	80	A	M
+2112	542105	1	3	903	2	Pavel	Saska			41	technik	Mšec	99	80	A	M
+2112	542105	1	4	901	2	Milan	Prokop			56	OSVČ	Mšec	99	80	A	M
+2112	542105	1	1	166	3	Jiří	Šuma			62	podnikatel	Mšec	99	166	A	M
+2112	542105	1	2	902	3	Lenka	Vosátková			56	učitelka	Mšec	99	80	A	F
+2112	542105	1	3	903	3	Marek	Tichý			33	dozorčí stanice metra	Mšec	99	80	A	M
+2112	542105	1	4	901	3	Tomáš	Jílek			46	obchodník	Mšec	99	80	A	M
+2112	542105	1	1	166	4	Aleš	Nezbeda			43	podnikatel	Mšec	99	166	A	M
+2112	542105	1	2	902	4	Monika	Novotná			36	ruční výroba sýrů	Mšec	99	80	A	F
+2112	542105	1	3	903	4	Marcela	Malošová			40	elektromechanik	Mšec	99	80	A	F
+2112	542105	1	4	901	4	Petr	Neužil			56	skladník	Mšec	99	80	A	M
+2112	542105	1	1	166	5	Jiří	Šuma			34	podnikatel	Mšec	99	166	A	M
+2112	542105	1	2	902	5	Michaela	Dokládalová			34	účetní	Mšec	99	80	A	F
+2112	542105	1	3	903	5	Vladimír	Ponka			52	OSVČ	Mšec	99	80	A	M
+2112	542105	1	4	901	5	Václav	Klíma			51	nástrojař	Mšec	99	80	A	M
+2112	542105	1	1	166	6	Jiří	Kapek			58	podnikatel	Mšec	99	166	A	M
+2112	542105	1	2	902	6	Michal	Měchura			36	rybářský technik	Mšec	99	80	A	M
+2112	542105	1	3	903	6	Josef	Purkrábek			70	důchodce	Mšec	99	80	A	M
+2112	542105	1	4	901	6	Lenka	Hnízdilová		DiS.	32	administrativní pracovnice	Mšec	99	80	A	F
+2112	542105	1	1	166	7	Petra	Urbanová			33	podnikatelka	Mšec	99	166	A	F
+2112	542105	1	2	902	7	Jiřina	Zítková			57	důchodce	Mšec	99	80	A	F
+2112	542105	1	3	903	7	Tereza	Matějovská			32	OSVČ	Mšec	99	80	A	F
+2112	542105	1	4	901	7	Vladimír	Libich			58	OSVČ	Mšec	99	80	A	M
+2112	542105	1	1	166	8	Markéta	Simandlová			39	kuchařka	Mšec	99	166	A	F
+2112	542105	1	2	902	8	Pavlína	Heroldová			48	úřednice	Mšec	99	80	A	F
+2112	542105	1	3	903	8	Miroslav	Dipolt			48	tiskař	Mšec	99	80	A	M
+2112	542105	1	4	901	8	Šárka	Klevetová			45	zdravotní sestra	Mšec	99	80	A	F
+2112	542105	1	1	166	9	Alena	Švecová			58	vedoucí učitelka	Mšec	99	166	A	F
+2112	542105	1	2	902	9	Lenka	Varmužová			35	osobní bankéřka	Mšec	99	80	A	F
+2112	542105	1	3	903	9	Milada	Soule			46	pedagogický pracovník	Mšec	99	80	A	F
+2112	542105	1	4	901	9	Aleš	Eisenstein			41	OSVČ	Mšec	99	80	A	M

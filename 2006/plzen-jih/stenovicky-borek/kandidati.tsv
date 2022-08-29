@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3204	539741	1	1	7	1	Pavel	Pech	M			33	technický úředník	Štěnovický Borek - Nebílovský Borek	99	7	0
-3204	539741	1	1	7	2	Ladislav	Kovařík	M			64	živnostník	Štěnovický Borek - Nebílovský Borek	7	7	0
-3204	539741	1	1	7	3	Jaroslav	Fremr	M			32	živnostník	Štěnovický Borek - Nebílovský Borek	99	7	0
-3204	539741	1	1	7	4	Jan	Albl	M			45	elektromontér	Štěnovický Borek - Nebílovský Borek	99	7	0
-3204	539741	1	1	7	5	Jan	Miškovič	M			30	obchodní zástupce	Štěnovický Borek - Nebílovský Borek	99	7	0
-3204	539741	1	1	7	6	Jan	Krňoul	M			47	soukromý zemědělec	Štěnovický Borek - Nebílovský Borek	99	7	0
-3204	539741	1	1	7	7	Jana	Bastlová	F			63	důchodce	Štěnovický Borek - Nebílovský Borek	99	7	0
-3204	539741	1	1	7	8	Naďa	Bittenglová	F			47	živnostník	Štěnovický Borek	99	7	0
-3204	539741	1	1	7	9	Václav	Švábek	M			65	důchodce	Štěnovický Borek	7	7	0
-3204	539741	1	2	901	1	Jindřich	Terč	M			50	řidič	Štěnovický Borek	99	80	0
-3204	539741	1	2	901	2	Lucie	Straková	F	Mgr.		32	mateřská dovolená	Štěnovický Borek - Nebílovský Borek	99	80	0
-3204	539741	1	2	901	3	Ladislav	Vícha	M			65	důchodce	Štěnovický Borek - Nebílovský Borek	99	80	0
-3204	539741	1	2	901	4	Petr	Vladyka	M			32	obchodní referent	Štěnovický Borek - Nebílovský Borek	99	80	0
-3204	539741	1	2	901	5	Jana	Jánská	F			40	soukromá podnikatelka	Štěnovický Borek - Nebílovský Borek	99	80	0
-3204	539741	1	2	901	6	Radek	Jirák	M			24	administrativní pracovník	Štěnovický Borek	99	80	0
-3204	539741	1	2	901	7	Vlasta	Vlčková	F			25	studentka	Štěnovický Borek	99	80	0
-3204	539741	1	3	449	1	Jiří	Vojta	M			60	důchodce	Štěnovický Borek - Nebílovský Borek	99	80	0
-3204	539741	1	3	449	2	Libor	Kryč	M			38	soukromý podnikatel	Štěnovický Borek - Nebílovský Borek	99	80	0
-3204	539741	1	3	449	3	Jiří	Polívka	M			43	řidič	Štěnovický Borek	99	80	0
-3204	539741	1	3	449	4	Petr	Hajšman	M			49	ostraha	Štěnovický Borek	99	80	0
-3204	539741	1	3	449	5	Vlastimil	Černý	M			44	soukromý podnikatel	Štěnovický Borek - Nebílovský Borek	99	80	0
-3204	539741	1	3	449	6	Zdeněk	Albl	M			59	automechanik	Štěnovický Borek	99	80	0
-3204	539741	1	3	449	7	Zdeněk	Albl	M			34	Policie ČR	Štěnovický Borek	99	80	0
-3204	539741	1	3	449	8	Zdeněk	Albl	M			61	soukromý podnikatel	Štěnovický Borek	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3204	539741	1	1	7	1	Pavel	Pech			33	technický úředník	Štěnovický Borek - Nebílovský Borek	99	7	0	M
+3204	539741	1	2	901	1	Jindřich	Terč			50	řidič	Štěnovický Borek	99	80	0	M
+3204	539741	1	3	449	1	Jiří	Vojta			60	důchodce	Štěnovický Borek - Nebílovský Borek	99	80	0	M
+3204	539741	1	1	7	2	Ladislav	Kovařík			64	živnostník	Štěnovický Borek - Nebílovský Borek	7	7	0	M
+3204	539741	1	2	901	2	Lucie	Straková	Mgr.		32	mateřská dovolená	Štěnovický Borek - Nebílovský Borek	99	80	0	F
+3204	539741	1	3	449	2	Libor	Kryč			38	soukromý podnikatel	Štěnovický Borek - Nebílovský Borek	99	80	0	M
+3204	539741	1	1	7	3	Jaroslav	Fremr			32	živnostník	Štěnovický Borek - Nebílovský Borek	99	7	0	M
+3204	539741	1	2	901	3	Ladislav	Vícha			65	důchodce	Štěnovický Borek - Nebílovský Borek	99	80	0	M
+3204	539741	1	3	449	3	Jiří	Polívka			43	řidič	Štěnovický Borek	99	80	0	M
+3204	539741	1	1	7	4	Jan	Albl			45	elektromontér	Štěnovický Borek - Nebílovský Borek	99	7	0	M
+3204	539741	1	2	901	4	Petr	Vladyka			32	obchodní referent	Štěnovický Borek - Nebílovský Borek	99	80	0	M
+3204	539741	1	3	449	4	Petr	Hajšman			49	ostraha	Štěnovický Borek	99	80	0	M
+3204	539741	1	1	7	5	Jan	Miškovič			30	obchodní zástupce	Štěnovický Borek - Nebílovský Borek	99	7	0	M
+3204	539741	1	2	901	5	Jana	Jánská			40	soukromá podnikatelka	Štěnovický Borek - Nebílovský Borek	99	80	0	F
+3204	539741	1	3	449	5	Vlastimil	Černý			44	soukromý podnikatel	Štěnovický Borek - Nebílovský Borek	99	80	0	M
+3204	539741	1	1	7	6	Jan	Krňoul			47	soukromý zemědělec	Štěnovický Borek - Nebílovský Borek	99	7	0	M
+3204	539741	1	2	901	6	Radek	Jirák			24	administrativní pracovník	Štěnovický Borek	99	80	0	M
+3204	539741	1	3	449	6	Zdeněk	Albl			59	automechanik	Štěnovický Borek	99	80	0	M
+3204	539741	1	1	7	7	Jana	Bastlová			63	důchodce	Štěnovický Borek - Nebílovský Borek	99	7	0	F
+3204	539741	1	2	901	7	Vlasta	Vlčková			25	studentka	Štěnovický Borek	99	80	0	F
+3204	539741	1	3	449	7	Zdeněk	Albl			34	Policie ČR	Štěnovický Borek	99	80	0	M
+3204	539741	1	1	7	8	Naďa	Bittenglová			47	živnostník	Štěnovický Borek	99	7	0	F
+3204	539741	1	3	449	8	Zdeněk	Albl			61	soukromý podnikatel	Štěnovický Borek	99	80	0	M
+3204	539741	1	1	7	9	Václav	Švábek			65	důchodce	Štěnovický Borek	7	7	0	M

@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	512974	1	1	470	1	Karel	Krupa	M			64	starosta	Bělá	99	166	A
-8105	512974	1	1	470	2	Václav	Malík	M			46	technik	Bělá	99	166	A
-8105	512974	1	1	470	3	Matyáš	Pavlíček	M	Ing.		26	vedoucí zahradnických realizací	Bělá	99	166	A
-8105	512974	1	1	470	4	Marie	Hillová	F	Bc.		30	v domácnosti	Bělá	99	166	A
-8105	512974	1	1	470	5	Martin	Papšík	M			31	zedník	Bělá	99	166	A
-8105	512974	1	1	470	6	Ivana	Matějková	F	Mgr.		51	ředitelka ZŠ a MŠ Bělá	Bělá	99	166	A
-8105	512974	1	1	470	7	Hana	Dombková	F	Bc.		31	radiologický asistent	Bělá	99	166	A
-8105	512974	1	1	470	8	Jiří	Duda	M			45	směnový mistr	Bělá	99	166	A
-8105	512974	1	1	470	9	Marek	Jäger	M			28	automechanik	Bělá	99	166	A
-8105	512974	1	1	470	10	Václav	Steffek	M			47	elektrikář	Bělá	99	166	A
-8105	512974	1	1	470	11	Jindřich	Mžik	M			57	zámečník	Bělá	99	80	A
-8105	512974	1	2	901	1	Jindřich	Samuhel	M	Bc.		42	výkonný ředitel	Bělá	99	80	A
-8105	512974	1	2	901	2	Jiří	Klíšť	M	Bc.		28	projektový manažer	Bělá	99	80	A
-8105	512974	1	2	901	3	Arnošt	Svoboda	M	MgA.		39	umělec pedagog	Bělá	99	80	A
-8105	512974	1	2	901	4	Stanislav	Hafera	M			35	OSVČ	Bělá	99	80	A
-8105	512974	1	2	901	5	Andrea	Bizoňová	F			22	studentka	Bělá	99	80	A
-8105	512974	1	2	901	6	Rudolf	Dombek	M			61	stolař	Bělá	99	80	A
-8105	512974	1	2	901	7	Jaromír	Plaček	M			52	vedoucí výroby	Bělá	99	80	A
-8105	512974	1	2	901	8	Vladimír	Gajda	M			54	OSVČ	Bělá	99	80	A
-8105	512974	1	2	901	9	Patrik	Vybrančík	M			25	OSVČ	Bělá	99	80	A
-8105	512974	1	2	901	10	Alois	Kubík	M			62	instalatér	Bělá	99	80	A
-8105	512974	1	2	901	11	Radim	Stoček	M			45	OSVČ	Bělá	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	512974	1	1	470	1	Karel	Krupa			64	starosta	Bělá	99	166	A	M
+8105	512974	1	2	901	1	Jindřich	Samuhel	Bc.		42	výkonný ředitel	Bělá	99	80	A	M
+8105	512974	1	1	470	2	Václav	Malík			46	technik	Bělá	99	166	A	M
+8105	512974	1	2	901	2	Jiří	Klíšť	Bc.		28	projektový manažer	Bělá	99	80	A	M
+8105	512974	1	1	470	3	Matyáš	Pavlíček	Ing.		26	vedoucí zahradnických realizací	Bělá	99	166	A	M
+8105	512974	1	2	901	3	Arnošt	Svoboda	MgA.		39	umělec pedagog	Bělá	99	80	A	M
+8105	512974	1	1	470	4	Marie	Hillová	Bc.		30	v domácnosti	Bělá	99	166	A	F
+8105	512974	1	2	901	4	Stanislav	Hafera			35	OSVČ	Bělá	99	80	A	M
+8105	512974	1	1	470	5	Martin	Papšík			31	zedník	Bělá	99	166	A	M
+8105	512974	1	2	901	5	Andrea	Bizoňová			22	studentka	Bělá	99	80	A	F
+8105	512974	1	1	470	6	Ivana	Matějková	Mgr.		51	ředitelka ZŠ a MŠ Bělá	Bělá	99	166	A	F
+8105	512974	1	2	901	6	Rudolf	Dombek			61	stolař	Bělá	99	80	A	M
+8105	512974	1	1	470	7	Hana	Dombková	Bc.		31	radiologický asistent	Bělá	99	166	A	F
+8105	512974	1	2	901	7	Jaromír	Plaček			52	vedoucí výroby	Bělá	99	80	A	M
+8105	512974	1	1	470	8	Jiří	Duda			45	směnový mistr	Bělá	99	166	A	M
+8105	512974	1	2	901	8	Vladimír	Gajda			54	OSVČ	Bělá	99	80	A	M
+8105	512974	1	1	470	9	Marek	Jäger			28	automechanik	Bělá	99	166	A	M
+8105	512974	1	2	901	9	Patrik	Vybrančík			25	OSVČ	Bělá	99	80	A	M
+8105	512974	1	1	470	10	Václav	Steffek			47	elektrikář	Bělá	99	166	A	M
+8105	512974	1	2	901	10	Alois	Kubík			62	instalatér	Bělá	99	80	A	M
+8105	512974	1	1	470	11	Jindřich	Mžik			57	zámečník	Bělá	99	80	A	M
+8105	512974	1	2	901	11	Radim	Stoček			45	OSVČ	Bělá	99	80	A	M

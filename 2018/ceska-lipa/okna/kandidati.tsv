@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5101	561886	1	1	902	1	Eva	Müllerová	F			61	starostka	Okna	99	80	A
-5101	561886	1	1	902	2	Hana	Uhlířová	F			56	účetní	Okna	99	80	A
-5101	561886	1	1	902	3	Michal	Grolmus	M			48	truhlář	Okna	99	80	A
-5101	561886	1	1	902	4	Karel	Holan	M			44	řidič	Okna	99	80	A
-5101	561886	1	1	902	5	Libor	Henc	M			50	operátor logistiky	Okna	99	80	A
-5101	561886	1	1	902	6	Ivana	Horčíková	F			57	hospodářka školy	Okna	99	80	A
-5101	561886	1	1	902	7	Lukáš	Zeman	M			33	nástrojář	Okna	99	80	A
-5101	561886	1	1	902	8	Adriána	Kopecká	F			47	pěstounka na dobu přechodnou	Okna	99	80	A
-5101	561886	1	1	902	9	Stanislava	Schmidtová	F			71	důchodce	Okna	99	80	A
-5101	561886	1	2	802	1	Stanislav	Havlín	M			67	důchodce	Okna	99	80	A
-5101	561886	1	3	801	1	Vladimír	Hroch	M			64	důchodce	Okna	99	80	A
-5101	561886	1	4	901	1	Dalibor	Tvrdek	M	Ing.		42	technik	Okna	99	80	A
-5101	561886	1	4	901	2	Jaroslav	Jareš	M			42	projektový manažer	Okna	99	80	A
-5101	561886	1	4	901	3	Veronika	Weberová	F			34	OSVČ	Okna	99	80	A
-5101	561886	1	4	901	4	Květoslava	Doubková	F			44	školní asistentka	Okna	99	80	A
-5101	561886	1	4	901	5	Marta	Formánková	F			59	účetní	Okna	99	80	A
-5101	561886	1	4	901	6	Ladislava	Ortová	F			62	důchodkyně	Okna	99	80	A
-5101	561886	1	4	901	7	Milan	Škreko	M			62	OSVČ	Okna	99	80	A
-5101	561886	1	4	901	8	Petr	Fridrich	M			59	OSVČ	Okna	99	80	A
-5101	561886	1	4	901	9	Jaroslav	Pek	M			46	OSVČ	Okna	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5101	561886	1	1	902	1	Eva	Müllerová			61	starostka	Okna	99	80	A	F
+5101	561886	1	2	802	1	Stanislav	Havlín			67	důchodce	Okna	99	80	A	M
+5101	561886	1	3	801	1	Vladimír	Hroch			64	důchodce	Okna	99	80	A	M
+5101	561886	1	4	901	1	Dalibor	Tvrdek	Ing.		42	technik	Okna	99	80	A	M
+5101	561886	1	1	902	2	Hana	Uhlířová			56	účetní	Okna	99	80	A	F
+5101	561886	1	4	901	2	Jaroslav	Jareš			42	projektový manažer	Okna	99	80	A	M
+5101	561886	1	1	902	3	Michal	Grolmus			48	truhlář	Okna	99	80	A	M
+5101	561886	1	4	901	3	Veronika	Weberová			34	OSVČ	Okna	99	80	A	F
+5101	561886	1	1	902	4	Karel	Holan			44	řidič	Okna	99	80	A	M
+5101	561886	1	4	901	4	Květoslava	Doubková			44	školní asistentka	Okna	99	80	A	F
+5101	561886	1	1	902	5	Libor	Henc			50	operátor logistiky	Okna	99	80	A	M
+5101	561886	1	4	901	5	Marta	Formánková			59	účetní	Okna	99	80	A	F
+5101	561886	1	1	902	6	Ivana	Horčíková			57	hospodářka školy	Okna	99	80	A	F
+5101	561886	1	4	901	6	Ladislava	Ortová			62	důchodkyně	Okna	99	80	A	F
+5101	561886	1	1	902	7	Lukáš	Zeman			33	nástrojář	Okna	99	80	A	M
+5101	561886	1	4	901	7	Milan	Škreko			62	OSVČ	Okna	99	80	A	M
+5101	561886	1	1	902	8	Adriána	Kopecká			47	pěstounka na dobu přechodnou	Okna	99	80	A	F
+5101	561886	1	4	901	8	Petr	Fridrich			59	OSVČ	Okna	99	80	A	M
+5101	561886	1	1	902	9	Stanislava	Schmidtová			71	důchodce	Okna	99	80	A	F
+5101	561886	1	4	901	9	Jaroslav	Pek			46	OSVČ	Okna	99	80	A	M

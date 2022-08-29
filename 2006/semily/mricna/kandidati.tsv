@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5104	577332	1	1	901	1	Jiří	Lešák	M			53	traktorista	Mříčná	99	80	0
-5104	577332	1	1	901	2	Ladislav	Hofman	M			48	mistr odborného výcviku	Mříčná	99	80	0
-5104	577332	1	1	901	3	David	Zapadlo	M			32	soustružník	Mříčná	99	80	0
-5104	577332	1	1	901	4	Štěpánka	Vybíralová	F			32	úřednice	Mříčná	99	80	0
-5104	577332	1	1	901	5	Jana	Kohoutová	F			28	t. č. na mateřské dovolené	Mříčná	99	80	0
-5104	577332	1	1	901	6	Petr	Sedláček	M			30	bagrista	Mříčná	99	80	0
-5104	577332	1	1	901	7	Miroslav	Křapka	M			44	servisní technik	Mříčná	99	80	0
-5104	577332	1	1	901	8	Eva	Svobodová	F			24	plavčice	Mříčná	99	80	0
-5104	577332	1	1	901	9	Ladislav	Jerie	M			34	traktorista	Mříčná	99	80	0
-5104	577332	1	2	1	1	Drahomír	Rutrle	M			59	starosta	Mříčná	1	1	0
-5104	577332	1	2	1	2	Eva	Spanilá	F			45	učitelka MŠ	Mříčná	1	1	0
-5104	577332	1	2	1	3	Miloslav	Jaroš	M			41	řidič	Mříčná	99	1	0
-5104	577332	1	2	1	4	Martin	Spanilý	M			25	referent	Mříčná	99	1	0
-5104	577332	1	2	1	5	Romana	Křapková	F			35	dělnice	Mříčná	99	1	0
-5104	577332	1	2	1	6	Jan	Kohout	M			26	technik	Mříčná	99	1	0
-5104	577332	1	2	1	7	Jana	Maděrová	F			59	důchodce	Mříčná	1	1	0
-5104	577332	1	3	7	1	Jiří	Erben	M			29	kontrolor jakosti	Mříčná	7	7	0
-5104	577332	1	4	902	1	Jana	Holcová	F			36	úřednice	Mříčná	99	80	0
-5104	577332	1	4	902	2	Stanislav	Holubec	M			51	strojvedoucí	Mříčná	99	80	0
-5104	577332	1	4	902	3	Ladislav	Sedláček	M			55	soustružník	Mříčná	99	80	0
-5104	577332	1	4	902	4	Jiří	Holec	M			37	řidič	Mříčná	99	80	0
-5104	577332	1	4	902	5	Petr	Hejral	M			34	řidič	Mříčná	99	80	0
-5104	577332	1	4	902	6	Miloš	Šmíd	M			44	podnikatel	Mříčná	99	80	0
-5104	577332	1	4	902	7	Jaroslav	Spanilý	M			56	zaměstnanec	Mříčná	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5104	577332	1	1	901	1	Jiří	Lešák			53	traktorista	Mříčná	99	80	0	M
+5104	577332	1	2	1	1	Drahomír	Rutrle			59	starosta	Mříčná	1	1	0	M
+5104	577332	1	3	7	1	Jiří	Erben			29	kontrolor jakosti	Mříčná	7	7	0	M
+5104	577332	1	4	902	1	Jana	Holcová			36	úřednice	Mříčná	99	80	0	F
+5104	577332	1	1	901	2	Ladislav	Hofman			48	mistr odborného výcviku	Mříčná	99	80	0	M
+5104	577332	1	2	1	2	Eva	Spanilá			45	učitelka MŠ	Mříčná	1	1	0	F
+5104	577332	1	4	902	2	Stanislav	Holubec			51	strojvedoucí	Mříčná	99	80	0	M
+5104	577332	1	1	901	3	David	Zapadlo			32	soustružník	Mříčná	99	80	0	M
+5104	577332	1	2	1	3	Miloslav	Jaroš			41	řidič	Mříčná	99	1	0	M
+5104	577332	1	4	902	3	Ladislav	Sedláček			55	soustružník	Mříčná	99	80	0	M
+5104	577332	1	1	901	4	Štěpánka	Vybíralová			32	úřednice	Mříčná	99	80	0	F
+5104	577332	1	2	1	4	Martin	Spanilý			25	referent	Mříčná	99	1	0	M
+5104	577332	1	4	902	4	Jiří	Holec			37	řidič	Mříčná	99	80	0	M
+5104	577332	1	1	901	5	Jana	Kohoutová			28	t. č. na mateřské dovolené	Mříčná	99	80	0	F
+5104	577332	1	2	1	5	Romana	Křapková			35	dělnice	Mříčná	99	1	0	F
+5104	577332	1	4	902	5	Petr	Hejral			34	řidič	Mříčná	99	80	0	M
+5104	577332	1	1	901	6	Petr	Sedláček			30	bagrista	Mříčná	99	80	0	M
+5104	577332	1	2	1	6	Jan	Kohout			26	technik	Mříčná	99	1	0	M
+5104	577332	1	4	902	6	Miloš	Šmíd			44	podnikatel	Mříčná	99	80	0	M
+5104	577332	1	1	901	7	Miroslav	Křapka			44	servisní technik	Mříčná	99	80	0	M
+5104	577332	1	2	1	7	Jana	Maděrová			59	důchodce	Mříčná	1	1	0	F
+5104	577332	1	4	902	7	Jaroslav	Spanilý			56	zaměstnanec	Mříčná	99	80	0	M
+5104	577332	1	1	901	8	Eva	Svobodová			24	plavčice	Mříčná	99	80	0	F
+5104	577332	1	1	901	9	Ladislav	Jerie			34	traktorista	Mříčná	99	80	0	M

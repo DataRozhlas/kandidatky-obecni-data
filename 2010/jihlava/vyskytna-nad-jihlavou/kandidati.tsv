@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6102	588172	1	1	902	1	Petr	Böhm	M			36	podnikatel	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	1	902	2	Radim	Pivnička	M			35	podnikatel	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	1	902	3	Václav	Vacek	M			33	dělník	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	1	902	4	Pavel	Palán	M			58	elektrikář	Jiřín	99	80	0
-6102	588172	1	1	902	5	Ladislava	Vránová	F			38	referent státní správy	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	1	902	6	Jana	Ottová	F			31	mateřská dovolená	Hlávkov	99	80	0
-6102	588172	1	1	902	7	Jaromír	Vacek	M			47	obráběč kovů	Rounek	99	80	0
-6102	588172	1	1	902	8	Petr	Páša	M			47	podnikatel	Jiřín	99	80	0
-6102	588172	1	1	902	9	Jaroslav	Řičánek	M			41	stavební inženýr	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	1	902	10	Hana	Provázková	F			47	učitelka ZŠ	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	1	902	11	Věra	Kochová	F			37	podnikatelka	Rounek	99	80	0
-6102	588172	1	1	902	12	Josef	Rytych	M			37	technik PC	Hlávkov	99	80	0
-6102	588172	1	1	902	13	Martin	Hlava	M			32	dezertář	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	1	902	14	Jiří	Vítek	M			40	provozní elektrikář	Jiřín	99	80	0
-6102	588172	1	1	902	15	Miroslav	Kubát	M			50	invalidní důchodce	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	2	901	1	Evžen	Marek	M	Ing.		52	podnikatel	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	2	901	2	Jiří	Čermák	M	Ing.		42	manažer	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	2	901	3	Ivana	Svobodová	F	Bc.		53	personalistka	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	2	901	4	Zdeňka	Matýšková	F	Mgr.		40	učitelka	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	2	901	5	Renáta	Dundáčková	F	Bc.		40	státní úředník	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	2	901	6	Darina	Čermáková	F	Mgr.		39	HR manager, na MD	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	2	901	7	Marek	Pokorný	M			31	programátor-analytik	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	2	901	8	Tomáš	Vácha	M	Ing.		40	soukromý zemědělec	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	2	901	9	Pavlína	Váchová	F			66	úřednice	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	2	901	10	Lubomír	Jonáš	M	Ing.		47	projektant	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	2	901	11	Petr	Dundáček	M			47	technik	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	2	901	12	Bohuslav	Svoboda	M			61	důchodce	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	2	901	13	Olga	Chudobová	F			61	průvodkyně	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	2	901	14	Olga	Marková	F			49	obchodní zástupce	Vyskytná nad Jihlavou	99	80	0
-6102	588172	1	2	901	15	Libuše	Doležálková	F			52	domovník	Vyskytná nad Jihlavou	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6102	588172	1	1	902	1	Petr	Böhm			36	podnikatel	Vyskytná nad Jihlavou	99	80	0	M
+6102	588172	1	2	901	1	Evžen	Marek	Ing.		52	podnikatel	Vyskytná nad Jihlavou	99	80	0	M
+6102	588172	1	1	902	2	Radim	Pivnička			35	podnikatel	Vyskytná nad Jihlavou	99	80	0	M
+6102	588172	1	2	901	2	Jiří	Čermák	Ing.		42	manažer	Vyskytná nad Jihlavou	99	80	0	M
+6102	588172	1	1	902	3	Václav	Vacek			33	dělník	Vyskytná nad Jihlavou	99	80	0	M
+6102	588172	1	2	901	3	Ivana	Svobodová	Bc.		53	personalistka	Vyskytná nad Jihlavou	99	80	0	F
+6102	588172	1	1	902	4	Pavel	Palán			58	elektrikář	Jiřín	99	80	0	M
+6102	588172	1	2	901	4	Zdeňka	Matýšková	Mgr.		40	učitelka	Vyskytná nad Jihlavou	99	80	0	F
+6102	588172	1	1	902	5	Ladislava	Vránová			38	referent státní správy	Vyskytná nad Jihlavou	99	80	0	F
+6102	588172	1	2	901	5	Renáta	Dundáčková	Bc.		40	státní úředník	Vyskytná nad Jihlavou	99	80	0	F
+6102	588172	1	1	902	6	Jana	Ottová			31	mateřská dovolená	Hlávkov	99	80	0	F
+6102	588172	1	2	901	6	Darina	Čermáková	Mgr.		39	HR manager, na MD	Vyskytná nad Jihlavou	99	80	0	F
+6102	588172	1	1	902	7	Jaromír	Vacek			47	obráběč kovů	Rounek	99	80	0	M
+6102	588172	1	2	901	7	Marek	Pokorný			31	programátor-analytik	Vyskytná nad Jihlavou	99	80	0	M
+6102	588172	1	1	902	8	Petr	Páša			47	podnikatel	Jiřín	99	80	0	M
+6102	588172	1	2	901	8	Tomáš	Vácha	Ing.		40	soukromý zemědělec	Vyskytná nad Jihlavou	99	80	0	M
+6102	588172	1	1	902	9	Jaroslav	Řičánek			41	stavební inženýr	Vyskytná nad Jihlavou	99	80	0	M
+6102	588172	1	2	901	9	Pavlína	Váchová			66	úřednice	Vyskytná nad Jihlavou	99	80	0	F
+6102	588172	1	1	902	10	Hana	Provázková			47	učitelka ZŠ	Vyskytná nad Jihlavou	99	80	0	F
+6102	588172	1	2	901	10	Lubomír	Jonáš	Ing.		47	projektant	Vyskytná nad Jihlavou	99	80	0	M
+6102	588172	1	1	902	11	Věra	Kochová			37	podnikatelka	Rounek	99	80	0	F
+6102	588172	1	2	901	11	Petr	Dundáček			47	technik	Vyskytná nad Jihlavou	99	80	0	M
+6102	588172	1	1	902	12	Josef	Rytych			37	technik PC	Hlávkov	99	80	0	M
+6102	588172	1	2	901	12	Bohuslav	Svoboda			61	důchodce	Vyskytná nad Jihlavou	99	80	0	M
+6102	588172	1	1	902	13	Martin	Hlava			32	dezertář	Vyskytná nad Jihlavou	99	80	0	M
+6102	588172	1	2	901	13	Olga	Chudobová			61	průvodkyně	Vyskytná nad Jihlavou	99	80	0	F
+6102	588172	1	1	902	14	Jiří	Vítek			40	provozní elektrikář	Jiřín	99	80	0	M
+6102	588172	1	2	901	14	Olga	Marková			49	obchodní zástupce	Vyskytná nad Jihlavou	99	80	0	F
+6102	588172	1	1	902	15	Miroslav	Kubát			50	invalidní důchodce	Vyskytná nad Jihlavou	99	80	0	M
+6102	588172	1	2	901	15	Libuše	Doležálková			52	domovník	Vyskytná nad Jihlavou	99	80	0	F

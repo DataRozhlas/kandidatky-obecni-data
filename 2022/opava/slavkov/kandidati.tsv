@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	510289	1	1	901	1	Rostislav	Musila	M	Mgr.		45	starosta	Slavkov	99	80	A
-8105	510289	1	1	901	2	Petr	Glabazňa	M			50	živnostník	Slavkov	99	80	A
-8105	510289	1	1	901	3	Eva	Starečková	F	Mgr.		53	ředitelka ZŠ	Slavkov	99	80	A
-8105	510289	1	1	901	4	Eva	Kvarčáková	F			56	účetní	Slavkov	99	80	A
-8105	510289	1	1	901	5	Vladimír	Chovanec	M			72	důchodce	Slavkov	99	80	A
-8105	510289	1	1	901	6	Michal	Gavenda	M			42	podnikatel	Slavkov	99	80	A
-8105	510289	1	1	901	7	Martina	Trojančíková	F	Mgr.		42	učitelka	Slavkov	99	80	A
-8105	510289	1	1	901	8	Miroslav	Rožnovský	M			52	elektromontér	Slavkov	99	80	A
-8105	510289	1	1	901	9	Monika	Hanelová	F	Ing.		38	hlavní účetní	Slavkov	99	80	A
-8105	510289	1	1	901	10	Roman	Bruss	M	Ing.		44	podnikatel	Slavkov	99	80	A
-8105	510289	1	1	901	11	Andrea	Hlávková	F	Bc.		51	ekonomka	Slavkov	99	80	A
-8105	510289	1	1	901	12	Lukáš	Prejda	M			34	procesní inženýr	Slavkov	99	80	A
-8105	510289	1	1	901	13	Michal	Prusek	M	Bc.		28	produktový manažer	Slavkov	99	80	A
-8105	510289	1	1	901	14	Jiří	Gebauer	M	MUDr.		46	lékař	Slavkov	99	80	A
-8105	510289	1	1	901	15	Jiří	Knopp	M			59	údržbář	Slavkov	99	80	A
-8105	510289	1	2	1	1	Ladislav	Kubín	M	Ing.		66	místostarosta	Slavkov	99	1	A
-8105	510289	1	2	1	2	Kristýna	Weissová	F	Mgr.		31	právník	Slavkov	99	1	A
-8105	510289	1	2	1	3	Petr	Valík	M	Ing.		51	IT administrátor	Slavkov	1	1	A
-8105	510289	1	2	1	4	Anna	Maleňáková	F	Mgr.	Ph.D.	37	mateřská dovolená	Slavkov	99	1	A
-8105	510289	1	2	1	5	Jakub	Štýbar	M			37	vychovatel na ZŠ	Slavkov	99	1	A
-8105	510289	1	2	1	6	Lenka	Bittnerová	F	Bc.		51	OSVČ	Slavkov	99	1	A
-8105	510289	1	2	1	7	Pavel	Kubín	M			23	student VŠ	Slavkov	99	1	A
-8105	510289	1	2	1	8	Martina	Ružinská	F			51	pracovnice sociálních služeb	Slavkov	99	1	A
-8105	510289	1	2	1	9	Jiří	Doležálek	M	Ing.		38	software developer	Slavkov	99	1	A
-8105	510289	1	2	1	10	Lucie	Kosterová	F	Bc.		22	studentka VŠ	Slavkov	99	1	A
-8105	510289	1	2	1	11	Adam	Šašek	M			34	OSVČ	Slavkov	99	1	A
-8105	510289	1	2	1	12	Eva	Čechová	F	Ing.		34	mateřská dovolená	Slavkov	1	1	A
-8105	510289	1	2	1	13	Jakub	Láznička	M			19	student SŠ	Slavkov	1	1	A
-8105	510289	1	2	1	14	Zuzana	Stojakovič	F			41	ředitelka ŠJ	Slavkov	99	1	A
-8105	510289	1	2	1	15	Ondřej	Kostera	M			18	student SŠ	Slavkov	99	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	510289	1	1	901	1	Rostislav	Musila	Mgr.		45	starosta	Slavkov	99	80	A	M
+8105	510289	1	2	1	1	Ladislav	Kubín	Ing.		66	místostarosta	Slavkov	99	1	A	M
+8105	510289	1	1	901	2	Petr	Glabazňa			50	živnostník	Slavkov	99	80	A	M
+8105	510289	1	2	1	2	Kristýna	Weissová	Mgr.		31	právník	Slavkov	99	1	A	F
+8105	510289	1	1	901	3	Eva	Starečková	Mgr.		53	ředitelka ZŠ	Slavkov	99	80	A	F
+8105	510289	1	2	1	3	Petr	Valík	Ing.		51	IT administrátor	Slavkov	1	1	A	M
+8105	510289	1	1	901	4	Eva	Kvarčáková			56	účetní	Slavkov	99	80	A	F
+8105	510289	1	2	1	4	Anna	Maleňáková	Mgr.	Ph.D.	37	mateřská dovolená	Slavkov	99	1	A	F
+8105	510289	1	1	901	5	Vladimír	Chovanec			72	důchodce	Slavkov	99	80	A	M
+8105	510289	1	2	1	5	Jakub	Štýbar			37	vychovatel na ZŠ	Slavkov	99	1	A	M
+8105	510289	1	1	901	6	Michal	Gavenda			42	podnikatel	Slavkov	99	80	A	M
+8105	510289	1	2	1	6	Lenka	Bittnerová	Bc.		51	OSVČ	Slavkov	99	1	A	F
+8105	510289	1	1	901	7	Martina	Trojančíková	Mgr.		42	učitelka	Slavkov	99	80	A	F
+8105	510289	1	2	1	7	Pavel	Kubín			23	student VŠ	Slavkov	99	1	A	M
+8105	510289	1	1	901	8	Miroslav	Rožnovský			52	elektromontér	Slavkov	99	80	A	M
+8105	510289	1	2	1	8	Martina	Ružinská			51	pracovnice sociálních služeb	Slavkov	99	1	A	F
+8105	510289	1	1	901	9	Monika	Hanelová	Ing.		38	hlavní účetní	Slavkov	99	80	A	F
+8105	510289	1	2	1	9	Jiří	Doležálek	Ing.		38	software developer	Slavkov	99	1	A	M
+8105	510289	1	1	901	10	Roman	Bruss	Ing.		44	podnikatel	Slavkov	99	80	A	M
+8105	510289	1	2	1	10	Lucie	Kosterová	Bc.		22	studentka VŠ	Slavkov	99	1	A	F
+8105	510289	1	1	901	11	Andrea	Hlávková	Bc.		51	ekonomka	Slavkov	99	80	A	F
+8105	510289	1	2	1	11	Adam	Šašek			34	OSVČ	Slavkov	99	1	A	M
+8105	510289	1	1	901	12	Lukáš	Prejda			34	procesní inženýr	Slavkov	99	80	A	M
+8105	510289	1	2	1	12	Eva	Čechová	Ing.		34	mateřská dovolená	Slavkov	1	1	A	F
+8105	510289	1	1	901	13	Michal	Prusek	Bc.		28	produktový manažer	Slavkov	99	80	A	M
+8105	510289	1	2	1	13	Jakub	Láznička			19	student SŠ	Slavkov	1	1	A	M
+8105	510289	1	1	901	14	Jiří	Gebauer	MUDr.		46	lékař	Slavkov	99	80	A	M
+8105	510289	1	2	1	14	Zuzana	Stojakovič			41	ředitelka ŠJ	Slavkov	99	1	A	F
+8105	510289	1	1	901	15	Jiří	Knopp			59	údržbář	Slavkov	99	80	A	M
+8105	510289	1	2	1	15	Ondřej	Kostera			18	student SŠ	Slavkov	99	1	A	M

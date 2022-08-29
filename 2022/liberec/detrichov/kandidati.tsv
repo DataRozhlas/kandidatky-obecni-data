@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5103	546607	1	1	901	1	Martina	Kohoutová	F			51	starostka	Dětřichov	99	80	A
-5103	546607	1	1	901	2	Zdeněk	Brelka	M			53	technik	Dětřichov	99	80	A
-5103	546607	1	1	901	3	Renata	Kostřicová	F			51	administrativní pracovnice	Dětřichov	99	80	A
-5103	546607	1	1	901	4	Jaroslav	Brunclík	M			61	logistik	Dětřichov	99	80	A
-5103	546607	1	1	901	5	Daniela	Loudová	F			56	zdravotnická záchranářka	Dětřichov	99	80	A
-5103	546607	1	1	901	6	Martin	Patrman	M			29	řidič specialista	Dětřichov	99	80	A
-5103	546607	1	1	901	7	Milan	Chmelař	M			49	seřizovač a obsluha CNC strojů	Dětřichov	99	80	A
-5103	546607	1	1	901	8	Michaela	Karešová	F			36	asistentka pedagoga	Dětřichov	99	80	A
-5103	546607	1	1	901	9	Lukáš	Hanšpach	M			34	policista	Dětřichov	99	80	A
-5103	546607	1	1	901	10	Michal	Macháček	M			38	kominík	Dětřichov	99	80	A
-5103	546607	1	1	901	11	Stanislav	Vacek	M			47	technik	Dětřichov	99	80	A
-5103	546607	1	2	902	1	Vít	Polák	M			58	OSVČ	Dětřichov	99	80	A
-5103	546607	1	2	902	2	Jana	Tarabová	F			55	administrativní pracovnice	Dětřichov	99	80	A
-5103	546607	1	2	902	3	Stanislav	Šťasný	M			56	vedoucí ostrahy	Dětřichov	99	80	A
-5103	546607	1	2	902	4	Jaromír	Pavlíček	M			59	údržbář	Dětřichov	99	80	A
-5103	546607	1	2	902	5	Eva	Diblíčková	F			54	administrativní pracovnice	Dětřichov	99	80	A
-5103	546607	1	2	902	6	Ondřej	Tomášek	M			42	seřizovač	Dětřichov	99	80	A
-5103	546607	1	2	902	7	Markéta	Hlaváčová	F	Ing.		26	odborný sociální pracovník	Dětřichov	99	80	A
-5103	546607	1	2	902	8	Petr	Stříbrný	M			47	vedoucí logistického centra	Dětřichov	99	80	A
-5103	546607	1	2	902	9	Antonín	Cimpl	M			47	operátor	Dětřichov	99	80	A
-5103	546607	1	2	902	10	Stanislav	Chromik	M			51	operátor	Dětřichov	99	80	A
-5103	546607	1	2	902	11	Pavlína	Křelinová	F			45	disponent	Dětřichov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5103	546607	1	1	901	1	Martina	Kohoutová			51	starostka	Dětřichov	99	80	A	F
+5103	546607	1	2	902	1	Vít	Polák			58	OSVČ	Dětřichov	99	80	A	M
+5103	546607	1	1	901	2	Zdeněk	Brelka			53	technik	Dětřichov	99	80	A	M
+5103	546607	1	2	902	2	Jana	Tarabová			55	administrativní pracovnice	Dětřichov	99	80	A	F
+5103	546607	1	1	901	3	Renata	Kostřicová			51	administrativní pracovnice	Dětřichov	99	80	A	F
+5103	546607	1	2	902	3	Stanislav	Šťasný			56	vedoucí ostrahy	Dětřichov	99	80	A	M
+5103	546607	1	1	901	4	Jaroslav	Brunclík			61	logistik	Dětřichov	99	80	A	M
+5103	546607	1	2	902	4	Jaromír	Pavlíček			59	údržbář	Dětřichov	99	80	A	M
+5103	546607	1	1	901	5	Daniela	Loudová			56	zdravotnická záchranářka	Dětřichov	99	80	A	F
+5103	546607	1	2	902	5	Eva	Diblíčková			54	administrativní pracovnice	Dětřichov	99	80	A	F
+5103	546607	1	1	901	6	Martin	Patrman			29	řidič specialista	Dětřichov	99	80	A	M
+5103	546607	1	2	902	6	Ondřej	Tomášek			42	seřizovač	Dětřichov	99	80	A	M
+5103	546607	1	1	901	7	Milan	Chmelař			49	seřizovač a obsluha CNC strojů	Dětřichov	99	80	A	M
+5103	546607	1	2	902	7	Markéta	Hlaváčová	Ing.		26	odborný sociální pracovník	Dětřichov	99	80	A	F
+5103	546607	1	1	901	8	Michaela	Karešová			36	asistentka pedagoga	Dětřichov	99	80	A	F
+5103	546607	1	2	902	8	Petr	Stříbrný			47	vedoucí logistického centra	Dětřichov	99	80	A	M
+5103	546607	1	1	901	9	Lukáš	Hanšpach			34	policista	Dětřichov	99	80	A	M
+5103	546607	1	2	902	9	Antonín	Cimpl			47	operátor	Dětřichov	99	80	A	M
+5103	546607	1	1	901	10	Michal	Macháček			38	kominík	Dětřichov	99	80	A	M
+5103	546607	1	2	902	10	Stanislav	Chromik			51	operátor	Dětřichov	99	80	A	M
+5103	546607	1	1	901	11	Stanislav	Vacek			47	technik	Dětřichov	99	80	A	M
+5103	546607	1	2	902	11	Pavlína	Křelinová			45	disponent	Dětřichov	99	80	A	F

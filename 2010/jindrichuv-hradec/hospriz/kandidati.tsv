@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	546402	1	1	903	1	Rudolf	Nowak	M			45	příslušník PČR	Hospříz	99	80	0
-3103	546402	1	1	903	2	Jaroslav	Šefčík	M			47	elektromechanik	Hospříz	99	80	0
-3103	546402	1	1	903	3	Růžena	Kloučková	F			28	zdravotní sestra	Hospříz	99	80	0
-3103	546402	1	1	903	4	Zdeněk	Dobeš	M			39	živnostník	Hospříz	99	80	0
-3103	546402	1	1	903	5	Magdalena	Kocarová	F			34	administrativní pracovnice	Hospříz	99	80	0
-3103	546402	1	1	903	6	Jiří	Hajna	M			30	zámečník	Hospříz	99	80	0
-3103	546402	1	1	903	7	Miloslav	Tvrdý	M			52	traktorista	Hrutkov	99	80	0
-3103	546402	1	1	903	8	Eva	Holakovská	F			45	podnikatelka	Hospříz	99	80	0
-3103	546402	1	1	903	9	Tomáš	Čeloud	M			23	truhlář	Hospříz	99	80	0
-3103	546402	1	2	901	1	Václav	Novák	M	Ing.		61	starosta	Hospříz	99	80	0
-3103	546402	1	2	901	2	Jan	Čoudek	M			57	technik	Hospříz	99	80	0
-3103	546402	1	2	901	3	Jiří	Skalník	M			40	řidič	Hospříz	99	80	0
-3103	546402	1	2	901	4	Dana	Masařová	F			52	zdravotní sestra	Hospříz	99	80	0
-3103	546402	1	2	901	5	František	Šamal	M			60	řezník	Hospříz	99	80	0
-3103	546402	1	2	901	6	Vlasta	Šístková	F			51	dělnice	Hospříz	99	80	0
-3103	546402	1	2	901	7	Ivan	Šrámek	M			41	řidič	Hospříz	99	80	0
-3103	546402	1	2	901	8	Jaroslav	Jirků	M			42	technik	Hospříz	99	80	0
-3103	546402	1	2	901	9	Stanislav	Procházka	M			54	traktorista opravář	Hospříz	99	80	0
-3103	546402	1	3	902	1	Martin	Míka	M			27	technik	Hospříz	99	80	0
-3103	546402	1	3	902	2	Jaroslav	Černý	M			35	rybář	Hospříz	99	80	0
-3103	546402	1	3	902	3	Aleš	Novák	M			27	technik	Hospříz	99	80	0
-3103	546402	1	3	902	4	Radek	Kubrický	M			32	státní zaměstnanec PČR	Hospříz	99	80	0
-3103	546402	1	3	902	5	Pavel	Vaňha	M			27	stavbyvedoucí	Hospříz	99	80	0
-3103	546402	1	3	902	6	Michal	Navara	M			35	tesař	Hospříz	99	80	0
-3103	546402	1	3	902	7	Marek	Chatrný	M			28	strojník	Hospříz	99	80	0
-3103	546402	1	3	902	8	Martin	Novák	M			35	opravář - technik	Hospříz	99	80	0
-3103	546402	1	3	902	9	David	Veselý	M			35	stavební dělník	Hospříz	99	80	0
-3103	546402	1	4	47	1	Bohumil	Holakovský	M			61	důchodce	Hospříz	47	47	0
-3103	546402	1	4	47	2	Jiří	Michálek	M			54	řidič	Hospříz	99	47	0
-3103	546402	1	4	47	3	Jaroslava	Rážová	F			40	ředitelka ZŠ	Hospříz	99	47	0
-3103	546402	1	4	47	4	Jaroslav	Kocar	M			63	podnikatel	Hospříz	99	47	0
-3103	546402	1	4	47	5	Jaroslav	Babický	M			35	stavební dělník	Hospříz	47	47	0
-3103	546402	1	4	47	6	Jitka	Nováková	F			32	na mateřské dovolené	Hospříz	99	47	0
-3103	546402	1	4	47	7	Vladimír	Čeloud	M			46	automechanik	Hospříz	99	47	0
-3103	546402	1	4	47	8	Jan	Babický	M			32	zedník	Hospříz	99	47	0
-3103	546402	1	4	47	9	Ivana	Holakovská	F			28	dělnice	Hospříz	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	546402	1	1	903	1	Rudolf	Nowak			45	příslušník PČR	Hospříz	99	80	0	M
+3103	546402	1	2	901	1	Václav	Novák	Ing.		61	starosta	Hospříz	99	80	0	M
+3103	546402	1	3	902	1	Martin	Míka			27	technik	Hospříz	99	80	0	M
+3103	546402	1	4	47	1	Bohumil	Holakovský			61	důchodce	Hospříz	47	47	0	M
+3103	546402	1	1	903	2	Jaroslav	Šefčík			47	elektromechanik	Hospříz	99	80	0	M
+3103	546402	1	2	901	2	Jan	Čoudek			57	technik	Hospříz	99	80	0	M
+3103	546402	1	3	902	2	Jaroslav	Černý			35	rybář	Hospříz	99	80	0	M
+3103	546402	1	4	47	2	Jiří	Michálek			54	řidič	Hospříz	99	47	0	M
+3103	546402	1	1	903	3	Růžena	Kloučková			28	zdravotní sestra	Hospříz	99	80	0	F
+3103	546402	1	2	901	3	Jiří	Skalník			40	řidič	Hospříz	99	80	0	M
+3103	546402	1	3	902	3	Aleš	Novák			27	technik	Hospříz	99	80	0	M
+3103	546402	1	4	47	3	Jaroslava	Rážová			40	ředitelka ZŠ	Hospříz	99	47	0	F
+3103	546402	1	1	903	4	Zdeněk	Dobeš			39	živnostník	Hospříz	99	80	0	M
+3103	546402	1	2	901	4	Dana	Masařová			52	zdravotní sestra	Hospříz	99	80	0	F
+3103	546402	1	3	902	4	Radek	Kubrický			32	státní zaměstnanec PČR	Hospříz	99	80	0	M
+3103	546402	1	4	47	4	Jaroslav	Kocar			63	podnikatel	Hospříz	99	47	0	M
+3103	546402	1	1	903	5	Magdalena	Kocarová			34	administrativní pracovnice	Hospříz	99	80	0	F
+3103	546402	1	2	901	5	František	Šamal			60	řezník	Hospříz	99	80	0	M
+3103	546402	1	3	902	5	Pavel	Vaňha			27	stavbyvedoucí	Hospříz	99	80	0	M
+3103	546402	1	4	47	5	Jaroslav	Babický			35	stavební dělník	Hospříz	47	47	0	M
+3103	546402	1	1	903	6	Jiří	Hajna			30	zámečník	Hospříz	99	80	0	M
+3103	546402	1	2	901	6	Vlasta	Šístková			51	dělnice	Hospříz	99	80	0	F
+3103	546402	1	3	902	6	Michal	Navara			35	tesař	Hospříz	99	80	0	M
+3103	546402	1	4	47	6	Jitka	Nováková			32	na mateřské dovolené	Hospříz	99	47	0	F
+3103	546402	1	1	903	7	Miloslav	Tvrdý			52	traktorista	Hrutkov	99	80	0	M
+3103	546402	1	2	901	7	Ivan	Šrámek			41	řidič	Hospříz	99	80	0	M
+3103	546402	1	3	902	7	Marek	Chatrný			28	strojník	Hospříz	99	80	0	M
+3103	546402	1	4	47	7	Vladimír	Čeloud			46	automechanik	Hospříz	99	47	0	M
+3103	546402	1	1	903	8	Eva	Holakovská			45	podnikatelka	Hospříz	99	80	0	F
+3103	546402	1	2	901	8	Jaroslav	Jirků			42	technik	Hospříz	99	80	0	M
+3103	546402	1	3	902	8	Martin	Novák			35	opravář - technik	Hospříz	99	80	0	M
+3103	546402	1	4	47	8	Jan	Babický			32	zedník	Hospříz	99	47	0	M
+3103	546402	1	1	903	9	Tomáš	Čeloud			23	truhlář	Hospříz	99	80	0	M
+3103	546402	1	2	901	9	Stanislav	Procházka			54	traktorista opravář	Hospříz	99	80	0	M
+3103	546402	1	3	902	9	David	Veselý			35	stavební dělník	Hospříz	99	80	0	M
+3103	546402	1	4	47	9	Ivana	Holakovská			28	dělnice	Hospříz	99	47	0	F

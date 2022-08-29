@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	542181	1	1	902	1	Petr	Doubrava	M	Ing.		65	důchodce	Nový Dům	99	80	0
-2112	542181	1	1	902	2	Pavla	Hlavsová	F	ThLic.		36	teoložka, učitelka	Nový Dům	99	80	0
-2112	542181	1	1	902	3	Milan	Pospíšil	M			53	asistent stavbyvedoucího	Nový Dům	99	80	0
-2112	542181	1	1	902	4	Radka	Drexlerová	F			36	učitelka ZUŠ	Nový Dům	99	80	0
-2112	542181	1	1	902	5	Martin	Růžička	M			41	elektromechanik	Nový Dům	99	80	0
-2112	542181	1	1	902	6	Monika	Valchová	F			29	mateřská dovolená	Nový Dům	99	80	0
-2112	542181	1	2	901	1	Vilém	Tschuschner	M			66	důchodce	Nový Dům	99	80	0
-2112	542181	1	2	901	2	Jaromír	Tatýrek	M			54	soukromý zemědělec	Nový Dům	99	80	0
-2112	542181	1	2	901	3	Lada	Razímová	F			38	učitelka	Nový Dům	99	80	0
-2112	542181	1	2	901	4	Zdeněk	Čada	M			48	soukr.zemědělec	Nový Dům	99	80	0
-2112	542181	1	2	901	5	Jiří	Rabiška	M			57	řidič	Nový Dům	99	80	0
-2112	542181	1	2	901	6	Josef	Dvořák	M			60	učitel	Nový Dům	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	542181	1	1	902	1	Petr	Doubrava	Ing.		65	důchodce	Nový Dům	99	80	0	M
+2112	542181	1	2	901	1	Vilém	Tschuschner			66	důchodce	Nový Dům	99	80	0	M
+2112	542181	1	1	902	2	Pavla	Hlavsová	ThLic.		36	teoložka, učitelka	Nový Dům	99	80	0	F
+2112	542181	1	2	901	2	Jaromír	Tatýrek			54	soukromý zemědělec	Nový Dům	99	80	0	M
+2112	542181	1	1	902	3	Milan	Pospíšil			53	asistent stavbyvedoucího	Nový Dům	99	80	0	M
+2112	542181	1	2	901	3	Lada	Razímová			38	učitelka	Nový Dům	99	80	0	F
+2112	542181	1	1	902	4	Radka	Drexlerová			36	učitelka ZUŠ	Nový Dům	99	80	0	F
+2112	542181	1	2	901	4	Zdeněk	Čada			48	soukr.zemědělec	Nový Dům	99	80	0	M
+2112	542181	1	1	902	5	Martin	Růžička			41	elektromechanik	Nový Dům	99	80	0	M
+2112	542181	1	2	901	5	Jiří	Rabiška			57	řidič	Nový Dům	99	80	0	M
+2112	542181	1	1	902	6	Monika	Valchová			29	mateřská dovolená	Nový Dům	99	80	0	F
+2112	542181	1	2	901	6	Josef	Dvořák			60	učitel	Nový Dům	99	80	0	M

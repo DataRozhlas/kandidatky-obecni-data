@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	533009	1	1	7	1	Václav	LADER	M			45	údržbář	Uhy	99	7	A
-2103	533009	1	1	7	2	Martin	PODSKALSKÝ	M			31	údržbář	Uhy	99	7	A
-2103	533009	1	1	7	3	Zdeňka	CHUDERÁKOVÁ	F			32	prodavačka	Uhy	7	7	A
-2103	533009	1	1	7	4	Jaroslav	CHUDERÁK	M			30	řidič	Uhy	7	7	A
-2103	533009	1	1	7	5	Marek	FUNDÁK	M			25	dělník	Uhy	99	7	A
-2103	533009	1	1	7	6	Jana	LINCOVÁ	F			44	OSVČ	Uhy	99	7	A
-2103	533009	1	1	7	7	Jaroslav	CHUDERÁK	M			56	řidič	Uhy	7	7	A
-2103	533009	1	2	901	1	Václav	DOBROVOLNÝ	M			36	manager	Uhy	99	80	A
-2103	533009	1	2	901	2	Vladimír	ŠIMRAL	M			57	řidič	Uhy	99	80	A
-2103	533009	1	2	901	3	Milan	DOBROVOLNÝ	M			50	soukromý zemědělec	Uhy	99	80	A
-2103	533009	1	2	901	4	Zdeněk	DRBOHLAV	M			43	podnikatel	Uhy	99	80	A
-2103	533009	1	2	901	5	Martin	VALER	M			31	obchodní referent	Uhy	99	80	A
-2103	533009	1	2	901	6	Radim	FUNDÁK	M			25	dělník	Uhy	99	80	A
-2103	533009	1	2	901	7	Petr	ZOLTÁN	M			40	prodejce interiových dveří	Uhy	99	80	A
-2103	533009	1	2	901	8	Marek	BAKALÁŘ	M			21	operátor skladu	Uhy	99	80	A
-2103	533009	1	2	901	9	Vladimír	BRHEL	M			43	dělník	Uhy	99	80	A
-2103	533009	1	3	902	1	Blanka	VAIGELTOVÁ	F	JUDr.		57	personalistka	Uhy	99	80	A
-2103	533009	1	3	902	2	Božena	CHUDERÁKOVÁ	F			53	pomocná kuchařka	Uhy	99	80	A
-2103	533009	1	3	902	3	Veronika	CHUDERÁKOVÁ	F			32	koncipientka	Uhy	99	80	A
-2103	533009	1	3	902	4	Dana	LEJNAROVÁ	F			35	mateřská dovolená	Uhy	99	80	A
-2103	533009	1	3	902	5	Šárka	SRBOVÁ	F			24	asistentka	Uhy	99	80	A
-2103	533009	1	3	902	6	Alena	ŠEBKOVÁ	F			41	pedagogický pracovník - asistent pedagoga	Uhy	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	533009	1	1	7	1	Václav	LADER			45	údržbář	Uhy	99	7	A	M
+2103	533009	1	2	901	1	Václav	DOBROVOLNÝ			36	manager	Uhy	99	80	A	M
+2103	533009	1	3	902	1	Blanka	VAIGELTOVÁ	JUDr.		57	personalistka	Uhy	99	80	A	F
+2103	533009	1	1	7	2	Martin	PODSKALSKÝ			31	údržbář	Uhy	99	7	A	M
+2103	533009	1	2	901	2	Vladimír	ŠIMRAL			57	řidič	Uhy	99	80	A	M
+2103	533009	1	3	902	2	Božena	CHUDERÁKOVÁ			53	pomocná kuchařka	Uhy	99	80	A	F
+2103	533009	1	1	7	3	Zdeňka	CHUDERÁKOVÁ			32	prodavačka	Uhy	7	7	A	F
+2103	533009	1	2	901	3	Milan	DOBROVOLNÝ			50	soukromý zemědělec	Uhy	99	80	A	M
+2103	533009	1	3	902	3	Veronika	CHUDERÁKOVÁ			32	koncipientka	Uhy	99	80	A	F
+2103	533009	1	1	7	4	Jaroslav	CHUDERÁK			30	řidič	Uhy	7	7	A	M
+2103	533009	1	2	901	4	Zdeněk	DRBOHLAV			43	podnikatel	Uhy	99	80	A	M
+2103	533009	1	3	902	4	Dana	LEJNAROVÁ			35	mateřská dovolená	Uhy	99	80	A	F
+2103	533009	1	1	7	5	Marek	FUNDÁK			25	dělník	Uhy	99	7	A	M
+2103	533009	1	2	901	5	Martin	VALER			31	obchodní referent	Uhy	99	80	A	M
+2103	533009	1	3	902	5	Šárka	SRBOVÁ			24	asistentka	Uhy	99	80	A	F
+2103	533009	1	1	7	6	Jana	LINCOVÁ			44	OSVČ	Uhy	99	7	A	F
+2103	533009	1	2	901	6	Radim	FUNDÁK			25	dělník	Uhy	99	80	A	M
+2103	533009	1	3	902	6	Alena	ŠEBKOVÁ			41	pedagogický pracovník - asistent pedagoga	Uhy	99	80	A	F
+2103	533009	1	1	7	7	Jaroslav	CHUDERÁK			56	řidič	Uhy	7	7	A	M
+2103	533009	1	2	901	7	Petr	ZOLTÁN			40	prodejce interiových dveří	Uhy	99	80	A	M
+2103	533009	1	2	901	8	Marek	BAKALÁŘ			21	operátor skladu	Uhy	99	80	A	M
+2103	533009	1	2	901	9	Vladimír	BRHEL			43	dělník	Uhy	99	80	A	M

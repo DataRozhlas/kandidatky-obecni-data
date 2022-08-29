@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	533149	1	1	902	1	Vladislava	EVANOVÁ	F			46	podnikatelka	Žilina	99	80	0
-2103	533149	1	1	902	2	Radka	KRATOCHVÍLOVÁ	F	Mgr.		36	učitelka	Žilina	99	80	0
-2103	533149	1	1	902	3	Pavel	ADAM	M			42	technik	Žilina	99	80	0
-2103	533149	1	1	902	4	Radka	OLIČOVÁ	F			28	zdravotní sestra (mateř.dov.)	Žilina	99	80	0
-2103	533149	1	1	902	5	Libor	ŠÍMA	M			44	vedoucí střediska	Žilina	99	80	0
-2103	533149	1	1	902	6	Renata	ŠÍMOVÁ	F			39	podnikatelka	Žilina	99	80	0
-2103	533149	1	1	902	7	Ivo	MIKOLÁŠEK	M			39	manager	Žilina	99	80	0
-2103	533149	1	1	902	8	Jana	KLEINMONDOVÁ	F			41	podnikatelka	Žilina	99	80	0
-2103	533149	1	1	902	9	Pavel	VOSTŘÁK	M			32	podnikatel	Žilina	99	80	0
-2103	533149	1	2	901	1	Jaroslav	ČERNÝ	M	Ing. arch.		56	architekt	Žilina	99	80	0
-2103	533149	1	2	901	2	Jan	ŠVEC	M	Ing.		35	informatik	Žilina	99	80	0
-2103	533149	1	2	901	3	Miroslav	DAVID	M			68	důchodce	Žilina	99	80	0
-2103	533149	1	2	901	4	Jaroslava	JELÍNKOVÁ	F			44	úřednice	Žilina	99	80	0
-2103	533149	1	2	901	5	Renata	HAMOUZOVÁ	F			50	podnikatelka	Žilina	99	80	0
-2103	533149	1	2	901	6	Jan	KLÍČ	M	Ing.		46	informatik	Žilina	99	80	0
-2103	533149	1	2	901	7	Miloslav	HAŠEK	M			35	podnikatel	Žilina	99	80	0
-2103	533149	1	2	901	8	Lenka	ZDEŇKOVÁ	F	Ing.		47	úřednice	Žilina	99	80	0
-2103	533149	1	2	901	9	Antonín	NOVOTNÝ	M			33	hasič	Žilina	99	80	0
-2103	533149	1	3	47	1	Vladimír	SKOUPÝ	M	Mgr.		58	technik	Žilina	99	47	0
-2103	533149	1	3	47	2	Martin	KRATOCHVÍL	M			38	státní zaměstnanec	Žilina	99	47	0
-2103	533149	1	3	47	3	Jiří	MOŠNIČKA	M			56	důchodce	Žilina	99	47	0
-2103	533149	1	3	47	4	Jaroslav	DOUŠA	M			61	důchodce	Žilina	47	47	0
-2103	533149	1	3	47	5	Hana	JANÁČKOVÁ	F			69	důchodce	Žilina	99	47	0
-2103	533149	1	3	47	6	Eva	ŠVEJCAROVÁ	F			71	důchodce	Žilina	47	47	0
-2103	533149	1	3	47	7	Miroslav	VELC	M			62	důchodce	Žilina	47	47	0
-2103	533149	1	3	47	8	Eva	ŠÍMOVÁ	F			71	důchodce	Žilina	47	47	0
-2103	533149	1	3	47	9	Otakar	KUCHYNKA	M			80	důchodce	Žilina	47	47	0
-2103	533149	1	4	903	1	Stanislav	BERAN	M	JUDr.		53	právník	Žilina	99	80	0
-2103	533149	1	4	903	2	Marie	ADAMOVÁ	F			73	důchodce	Žilina	99	80	0
-2103	533149	1	4	903	3	David	OLIČ	M			33	řidič	Žilina	7	80	0
-2103	533149	1	4	903	4	Miloslav	ŠEBEK	M			48	řidič	Žilina	99	80	0
-2103	533149	1	4	903	5	Radek	ŠÍMA	M			33	vakuový technik	Žilina	99	80	0
-2103	533149	1	4	903	6	Pavel	JANOUŠ	M			63	důchodce	Žilina	99	80	0
-2103	533149	1	4	903	7	David	STIELER	M			22	hokejista	Žilina	99	80	0
-2103	533149	1	4	903	8	Pavel	ROUS	M	Ing.		43	informatik	Žilina	99	80	0
-2103	533149	1	4	903	9	Vladimír	ŠTĚRBA	M			46	obchodní manager	Žilina	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	533149	1	1	902	1	Vladislava	EVANOVÁ			46	podnikatelka	Žilina	99	80	0	F
+2103	533149	1	2	901	1	Jaroslav	ČERNÝ	Ing. arch.		56	architekt	Žilina	99	80	0	M
+2103	533149	1	3	47	1	Vladimír	SKOUPÝ	Mgr.		58	technik	Žilina	99	47	0	M
+2103	533149	1	4	903	1	Stanislav	BERAN	JUDr.		53	právník	Žilina	99	80	0	M
+2103	533149	1	1	902	2	Radka	KRATOCHVÍLOVÁ	Mgr.		36	učitelka	Žilina	99	80	0	F
+2103	533149	1	2	901	2	Jan	ŠVEC	Ing.		35	informatik	Žilina	99	80	0	M
+2103	533149	1	3	47	2	Martin	KRATOCHVÍL			38	státní zaměstnanec	Žilina	99	47	0	M
+2103	533149	1	4	903	2	Marie	ADAMOVÁ			73	důchodce	Žilina	99	80	0	F
+2103	533149	1	1	902	3	Pavel	ADAM			42	technik	Žilina	99	80	0	M
+2103	533149	1	2	901	3	Miroslav	DAVID			68	důchodce	Žilina	99	80	0	M
+2103	533149	1	3	47	3	Jiří	MOŠNIČKA			56	důchodce	Žilina	99	47	0	M
+2103	533149	1	4	903	3	David	OLIČ			33	řidič	Žilina	7	80	0	M
+2103	533149	1	1	902	4	Radka	OLIČOVÁ			28	zdravotní sestra (mateř.dov.)	Žilina	99	80	0	F
+2103	533149	1	2	901	4	Jaroslava	JELÍNKOVÁ			44	úřednice	Žilina	99	80	0	F
+2103	533149	1	3	47	4	Jaroslav	DOUŠA			61	důchodce	Žilina	47	47	0	M
+2103	533149	1	4	903	4	Miloslav	ŠEBEK			48	řidič	Žilina	99	80	0	M
+2103	533149	1	1	902	5	Libor	ŠÍMA			44	vedoucí střediska	Žilina	99	80	0	M
+2103	533149	1	2	901	5	Renata	HAMOUZOVÁ			50	podnikatelka	Žilina	99	80	0	F
+2103	533149	1	3	47	5	Hana	JANÁČKOVÁ			69	důchodce	Žilina	99	47	0	F
+2103	533149	1	4	903	5	Radek	ŠÍMA			33	vakuový technik	Žilina	99	80	0	M
+2103	533149	1	1	902	6	Renata	ŠÍMOVÁ			39	podnikatelka	Žilina	99	80	0	F
+2103	533149	1	2	901	6	Jan	KLÍČ	Ing.		46	informatik	Žilina	99	80	0	M
+2103	533149	1	3	47	6	Eva	ŠVEJCAROVÁ			71	důchodce	Žilina	47	47	0	F
+2103	533149	1	4	903	6	Pavel	JANOUŠ			63	důchodce	Žilina	99	80	0	M
+2103	533149	1	1	902	7	Ivo	MIKOLÁŠEK			39	manager	Žilina	99	80	0	M
+2103	533149	1	2	901	7	Miloslav	HAŠEK			35	podnikatel	Žilina	99	80	0	M
+2103	533149	1	3	47	7	Miroslav	VELC			62	důchodce	Žilina	47	47	0	M
+2103	533149	1	4	903	7	David	STIELER			22	hokejista	Žilina	99	80	0	M
+2103	533149	1	1	902	8	Jana	KLEINMONDOVÁ			41	podnikatelka	Žilina	99	80	0	F
+2103	533149	1	2	901	8	Lenka	ZDEŇKOVÁ	Ing.		47	úřednice	Žilina	99	80	0	F
+2103	533149	1	3	47	8	Eva	ŠÍMOVÁ			71	důchodce	Žilina	47	47	0	F
+2103	533149	1	4	903	8	Pavel	ROUS	Ing.		43	informatik	Žilina	99	80	0	M
+2103	533149	1	1	902	9	Pavel	VOSTŘÁK			32	podnikatel	Žilina	99	80	0	M
+2103	533149	1	2	901	9	Antonín	NOVOTNÝ			33	hasič	Žilina	99	80	0	M
+2103	533149	1	3	47	9	Otakar	KUCHYNKA			80	důchodce	Žilina	47	47	0	M
+2103	533149	1	4	903	9	Vladimír	ŠTĚRBA			46	obchodní manager	Žilina	99	80	0	M

@@ -1,38 +1,38 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579157	1	1	903	1	Jaroslava	Vanclová	F			47	podnikatelka	Slemeno	99	80	0
-5205	579157	1	1	903	2	Miroslav	Marek	M			52	pracovník v kovovýrobě	Dolní Kalná	99	80	0
-5205	579157	1	1	903	3	Veronika	Hromátková	F			27	podnikatelka	Dolní Kalná	99	80	0
-5205	579157	1	1	903	4	Petr	Cerman	M			53	montážní dělník	Dolní Kalná	99	80	0
-5205	579157	1	1	903	5	Michal	Najman	M			24	logistik	Dolní Kalná	99	80	0
-5205	579157	1	1	903	6	Kateřina	Dresslerová	F			26	podnikatelka	Dolní Kalná	99	80	0
-5205	579157	1	1	903	7	Petr	Matucha	M			35	seřizovač	Dolní Kalná	99	80	0
-5205	579157	1	1	903	8	Filip	Vancl	M			45	grafik	Slemeno	99	80	0
-5205	579157	1	1	903	9	Tomáš	Novák	M	Ing.		31	ekonom	Slemeno	99	80	0
-5205	579157	1	2	905	1	Jiří	Drahoňovský	M			56	strojvedoucí	Dolní Kalná	99	80	0
-5205	579157	1	2	905	2	Miroslav	Fejt	M	Bc.		42	sportovní instruktor	Dolní Kalná	99	80	0
-5205	579157	1	2	905	3	Eva	Fejtová	F			34	nezaměstnaná	Dolní Kalná	99	80	0
-5205	579157	1	2	905	4	Zbyněk	Novák	M			37	dělník	Dolní Kalná	99	80	0
-5205	579157	1	2	905	5	Jiří	Dachovský	M			35	elektromontér	Dolní Kalná	99	80	0
-5205	579157	1	3	901	1	Michal	Mašek	M			35	automechanik	Dolní Kalná	99	80	0
-5205	579157	1	3	901	2	Zdeněk	Kalenský	M			37	pracovník logistiky	Dolní Kalná	99	80	0
-5205	579157	1	3	901	3	Jiří	Jarý	M			51	distributor autodílů	Dolní Kalná	99	80	0
-5205	579157	1	3	901	4	Roman	Zapadlo	M			36	technik Škoda Auto a.s.	Dolní Kalná	99	80	0
-5205	579157	1	3	901	5	Roman	Vávra	M			35	provozní zámečník	Dolní Kalná	99	80	0
-5205	579157	1	3	901	6	Jiří	Stránský	M			30	mechanik - opravář	Slemeno	99	80	0
-5205	579157	1	3	901	7	Pavel	Máslo	M			42	traktorista	Dolní Kalná	99	80	0
-5205	579157	1	3	901	8	Jana	Lukešová	F			45	skladnice	Dolní Kalná	99	80	0
-5205	579157	1	3	901	9	Jitka	Grindlerová	F			24	podpora SAP	Dolní Kalná	99	80	0
-5205	579157	1	4	902	1	Tomáš	Navrátil	M			40	živnostník - truhlář	Slemeno	99	80	0
-5205	579157	1	4	902	2	Milena	Koritenská	F	Mgr.		55	ředitelka ZŠ Dolní Kalná	Dolní Kalná	99	80	0
-5205	579157	1	4	902	3	Tomáš	Hruška	M			50	stavbyvedoucí	Dolní Kalná	99	80	0
-5205	579157	1	4	902	4	David	Sobotka	M			28	manažer realizací	Slemeno	99	80	0
-5205	579157	1	4	902	5	Vlastimil	Klůz	M			42	technik	Dolní Kalná	99	80	0
-5205	579157	1	4	902	6	Zdeněk	Tauchman	M			38	podnikatel	Dolní Kalná	99	80	0
-5205	579157	1	4	902	7	Martin	Ryšálek	M			35	zedník	Dolní Kalná	99	80	0
-5205	579157	1	4	902	8	Miloslav	Nosek	M			35	stavební truhlář	Dolní Kalná	99	80	0
-5205	579157	1	4	902	9	Miroslav	Zaplatílek	M			37	podnikatel	Dolní Kalná	99	80	0
-5205	579157	1	5	904	1	Stanislav	Kalenský	M			41	podnikatel	Dolní Kalná	99	80	0
-5205	579157	1	5	904	2	Radek	Dobrovodský	M			34	vedoucí SAS Vrchlabí	Dolní Kalná	99	80	0
-5205	579157	1	5	904	3	Vlastimil	Kovář	M			46	zaměstnanec	Dolní Kalná	99	80	0
-5205	579157	1	5	904	4	Milan	Sedlák	M			49	podnikatel	Dolní Kalná	99	80	0
-5205	579157	1	5	904	5	Petr	Pistorius	M			46	podnikatel	Dolní Kalná	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579157	1	1	903	1	Jaroslava	Vanclová			47	podnikatelka	Slemeno	99	80	0	F
+5205	579157	1	2	905	1	Jiří	Drahoňovský			56	strojvedoucí	Dolní Kalná	99	80	0	M
+5205	579157	1	3	901	1	Michal	Mašek			35	automechanik	Dolní Kalná	99	80	0	M
+5205	579157	1	4	902	1	Tomáš	Navrátil			40	živnostník - truhlář	Slemeno	99	80	0	M
+5205	579157	1	5	904	1	Stanislav	Kalenský			41	podnikatel	Dolní Kalná	99	80	0	M
+5205	579157	1	1	903	2	Miroslav	Marek			52	pracovník v kovovýrobě	Dolní Kalná	99	80	0	M
+5205	579157	1	2	905	2	Miroslav	Fejt	Bc.		42	sportovní instruktor	Dolní Kalná	99	80	0	M
+5205	579157	1	3	901	2	Zdeněk	Kalenský			37	pracovník logistiky	Dolní Kalná	99	80	0	M
+5205	579157	1	4	902	2	Milena	Koritenská	Mgr.		55	ředitelka ZŠ Dolní Kalná	Dolní Kalná	99	80	0	F
+5205	579157	1	5	904	2	Radek	Dobrovodský			34	vedoucí SAS Vrchlabí	Dolní Kalná	99	80	0	M
+5205	579157	1	1	903	3	Veronika	Hromátková			27	podnikatelka	Dolní Kalná	99	80	0	F
+5205	579157	1	2	905	3	Eva	Fejtová			34	nezaměstnaná	Dolní Kalná	99	80	0	F
+5205	579157	1	3	901	3	Jiří	Jarý			51	distributor autodílů	Dolní Kalná	99	80	0	M
+5205	579157	1	4	902	3	Tomáš	Hruška			50	stavbyvedoucí	Dolní Kalná	99	80	0	M
+5205	579157	1	5	904	3	Vlastimil	Kovář			46	zaměstnanec	Dolní Kalná	99	80	0	M
+5205	579157	1	1	903	4	Petr	Cerman			53	montážní dělník	Dolní Kalná	99	80	0	M
+5205	579157	1	2	905	4	Zbyněk	Novák			37	dělník	Dolní Kalná	99	80	0	M
+5205	579157	1	3	901	4	Roman	Zapadlo			36	technik Škoda Auto a.s.	Dolní Kalná	99	80	0	M
+5205	579157	1	4	902	4	David	Sobotka			28	manažer realizací	Slemeno	99	80	0	M
+5205	579157	1	5	904	4	Milan	Sedlák			49	podnikatel	Dolní Kalná	99	80	0	M
+5205	579157	1	1	903	5	Michal	Najman			24	logistik	Dolní Kalná	99	80	0	M
+5205	579157	1	2	905	5	Jiří	Dachovský			35	elektromontér	Dolní Kalná	99	80	0	M
+5205	579157	1	3	901	5	Roman	Vávra			35	provozní zámečník	Dolní Kalná	99	80	0	M
+5205	579157	1	4	902	5	Vlastimil	Klůz			42	technik	Dolní Kalná	99	80	0	M
+5205	579157	1	5	904	5	Petr	Pistorius			46	podnikatel	Dolní Kalná	99	80	0	M
+5205	579157	1	1	903	6	Kateřina	Dresslerová			26	podnikatelka	Dolní Kalná	99	80	0	F
+5205	579157	1	3	901	6	Jiří	Stránský			30	mechanik - opravář	Slemeno	99	80	0	M
+5205	579157	1	4	902	6	Zdeněk	Tauchman			38	podnikatel	Dolní Kalná	99	80	0	M
+5205	579157	1	1	903	7	Petr	Matucha			35	seřizovač	Dolní Kalná	99	80	0	M
+5205	579157	1	3	901	7	Pavel	Máslo			42	traktorista	Dolní Kalná	99	80	0	M
+5205	579157	1	4	902	7	Martin	Ryšálek			35	zedník	Dolní Kalná	99	80	0	M
+5205	579157	1	1	903	8	Filip	Vancl			45	grafik	Slemeno	99	80	0	M
+5205	579157	1	3	901	8	Jana	Lukešová			45	skladnice	Dolní Kalná	99	80	0	F
+5205	579157	1	4	902	8	Miloslav	Nosek			35	stavební truhlář	Dolní Kalná	99	80	0	M
+5205	579157	1	1	903	9	Tomáš	Novák	Ing.		31	ekonom	Slemeno	99	80	0	M
+5205	579157	1	3	901	9	Jitka	Grindlerová			24	podpora SAP	Dolní Kalná	99	80	0	F
+5205	579157	1	4	902	9	Miroslav	Zaplatílek			37	podnikatel	Dolní Kalná	99	80	0	M

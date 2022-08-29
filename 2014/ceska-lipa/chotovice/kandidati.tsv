@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5101	561622	1	1	901	1	Bohumil	Mráček	M			42	starosta	Chotovice	99	80	0
-5101	561622	1	1	901	2	Dana	Šimánková	F			60	důchodkyně	Chotovice	99	80	0
-5101	561622	1	1	901	3	Ota	Pour	M			53	OSVČ	Chotovice	99	80	0
-5101	561622	1	1	901	4	Václav	Horyna	M			36	zámečník	Chotovice	99	80	0
-5101	561622	1	1	901	5	Zuzana	Mráčková	F			27	MD	Chotovice	99	80	0
-5101	561622	1	1	901	6	Petr	Vrba	M			41	šéfredaktor	Chotovice	99	80	0
-5101	561622	1	1	901	7	Michal	Jankuj	M			37	mistr údržby	Chotovice	99	80	0
-5101	561622	1	1	901	8	Milan	Tichý	M			41	OSVČ	Chotovice	99	80	0
-5101	561622	1	1	901	9	Zdeňka	Hošnová	F			62	důchodkyně	Chotovice	99	80	0
-5101	561622	1	2	112	1	Štěpánka	Pechová	F			40	dělnice	Chotovice	99	112	0
-5101	561622	1	2	112	2	Josef	Kočí	M			37	hasič	Chotovice	99	112	0
-5101	561622	1	2	112	3	Hana	Matulová	F			41	účetní	Chotovice	99	112	0
-5101	561622	1	2	112	4	Martin	Kočí	M			41	hasič	Chotovice	99	112	0
-5101	561622	1	2	112	5	Helena	Kočová	F			38	dělnice	Chotovice	99	112	0
-5101	561622	1	2	112	6	Miroslav	Petrák	M			50	nezaměstnaný	Chotovice	99	112	0
-5101	561622	1	2	112	7	Petra	Kočová	F			34	mateřská dovolená	Chotovice	99	112	0
-5101	561622	1	2	112	8	Zdeněk	Petrák	M			69	důchodce	Chotovice	99	112	0
-5101	561622	1	2	112	9	Martin	Šimkovič	M			35	automechanik	Chotovice	99	112	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5101	561622	1	1	901	1	Bohumil	Mráček			42	starosta	Chotovice	99	80	0	M
+5101	561622	1	2	112	1	Štěpánka	Pechová			40	dělnice	Chotovice	99	112	0	F
+5101	561622	1	1	901	2	Dana	Šimánková			60	důchodkyně	Chotovice	99	80	0	F
+5101	561622	1	2	112	2	Josef	Kočí			37	hasič	Chotovice	99	112	0	M
+5101	561622	1	1	901	3	Ota	Pour			53	OSVČ	Chotovice	99	80	0	M
+5101	561622	1	2	112	3	Hana	Matulová			41	účetní	Chotovice	99	112	0	F
+5101	561622	1	1	901	4	Václav	Horyna			36	zámečník	Chotovice	99	80	0	M
+5101	561622	1	2	112	4	Martin	Kočí			41	hasič	Chotovice	99	112	0	M
+5101	561622	1	1	901	5	Zuzana	Mráčková			27	MD	Chotovice	99	80	0	F
+5101	561622	1	2	112	5	Helena	Kočová			38	dělnice	Chotovice	99	112	0	F
+5101	561622	1	1	901	6	Petr	Vrba			41	šéfredaktor	Chotovice	99	80	0	M
+5101	561622	1	2	112	6	Miroslav	Petrák			50	nezaměstnaný	Chotovice	99	112	0	M
+5101	561622	1	1	901	7	Michal	Jankuj			37	mistr údržby	Chotovice	99	80	0	M
+5101	561622	1	2	112	7	Petra	Kočová			34	mateřská dovolená	Chotovice	99	112	0	F
+5101	561622	1	1	901	8	Milan	Tichý			41	OSVČ	Chotovice	99	80	0	M
+5101	561622	1	2	112	8	Zdeněk	Petrák			69	důchodce	Chotovice	99	112	0	M
+5101	561622	1	1	901	9	Zdeňka	Hošnová			62	důchodkyně	Chotovice	99	80	0	F
+5101	561622	1	2	112	9	Martin	Šimkovič			35	automechanik	Chotovice	99	112	0	M

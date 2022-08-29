@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5103	530433	1	1	902	1	Miloslav	Šejna	M			40	projektový manažer	Kunratice	99	80	A
-5103	530433	1	1	902	2	Martin	Klečka	M	Mgr.		50	státní zaměstnanec	Kunratice	99	80	A
-5103	530433	1	1	902	3	Kateřina	Kutílková	F			41	kvalitářka	Kunratice	99	80	A
-5103	530433	1	1	902	4	Pavel	Herman	M			57	státní zaměstnanec	Kunratice	99	80	A
-5103	530433	1	1	902	5	Jiří	Kříž	M	Ing.		69	OSVČ	Kunratice	99	80	A
-5103	530433	1	1	902	6	Miloš	Farský	M			52	obráběč kovů	Kunratice	99	80	A
-5103	530433	1	1	902	7	Jana	Runkasová	F	Mgr.		51	pedagogická pracovnice	Kunratice	99	80	A
-5103	530433	1	1	902	8	Martina	Vilhelmová	F			30	floristka	Kunratice	99	80	A
-5103	530433	1	1	902	9	Veronika	Špínová	F			43	vychovatelka v dětském domově	Kunratice	99	80	A
-5103	530433	1	2	901	1	Milan	Götz	M			39	starosta obce	Kunratice	99	80	A
-5103	530433	1	2	901	2	Jiřina	Lukášová	F			43	poštovní doručovatelka České pošty	Kunratice	99	80	A
-5103	530433	1	2	901	3	Milan	Franc	M			44	mistr ve společnosti Správy železnic	Kunratice	99	80	A
-5103	530433	1	2	901	4	Miroslav	Liška	M			47	osoba samostatně výdělečně činná	Kunratice	99	80	A
-5103	530433	1	2	901	5	Luděk	Pažout	M			51	řidič zdravotnické dopravní služby	Kunratice	99	80	A
-5103	530433	1	2	901	6	Josef	Harant	M			34	osoba samostatně výdělečně činná	Kunratice	99	80	A
-5103	530433	1	2	901	7	Matěj	Horák	M			38	projektový manažer	Kunratice	99	80	A
-5103	530433	1	2	901	8	Ladislava	Lišková	F			45	osoba samostatně výdělečně činná	Kunratice	99	80	A
-5103	530433	1	2	901	9	Josef	Novák	M			40	zaměstnanec vodárenské společnosti	Kunratice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5103	530433	1	1	902	1	Miloslav	Šejna			40	projektový manažer	Kunratice	99	80	A	M
+5103	530433	1	2	901	1	Milan	Götz			39	starosta obce	Kunratice	99	80	A	M
+5103	530433	1	1	902	2	Martin	Klečka	Mgr.		50	státní zaměstnanec	Kunratice	99	80	A	M
+5103	530433	1	2	901	2	Jiřina	Lukášová			43	poštovní doručovatelka České pošty	Kunratice	99	80	A	F
+5103	530433	1	1	902	3	Kateřina	Kutílková			41	kvalitářka	Kunratice	99	80	A	F
+5103	530433	1	2	901	3	Milan	Franc			44	mistr ve společnosti Správy železnic	Kunratice	99	80	A	M
+5103	530433	1	1	902	4	Pavel	Herman			57	státní zaměstnanec	Kunratice	99	80	A	M
+5103	530433	1	2	901	4	Miroslav	Liška			47	osoba samostatně výdělečně činná	Kunratice	99	80	A	M
+5103	530433	1	1	902	5	Jiří	Kříž	Ing.		69	OSVČ	Kunratice	99	80	A	M
+5103	530433	1	2	901	5	Luděk	Pažout			51	řidič zdravotnické dopravní služby	Kunratice	99	80	A	M
+5103	530433	1	1	902	6	Miloš	Farský			52	obráběč kovů	Kunratice	99	80	A	M
+5103	530433	1	2	901	6	Josef	Harant			34	osoba samostatně výdělečně činná	Kunratice	99	80	A	M
+5103	530433	1	1	902	7	Jana	Runkasová	Mgr.		51	pedagogická pracovnice	Kunratice	99	80	A	F
+5103	530433	1	2	901	7	Matěj	Horák			38	projektový manažer	Kunratice	99	80	A	M
+5103	530433	1	1	902	8	Martina	Vilhelmová			30	floristka	Kunratice	99	80	A	F
+5103	530433	1	2	901	8	Ladislava	Lišková			45	osoba samostatně výdělečně činná	Kunratice	99	80	A	F
+5103	530433	1	1	902	9	Veronika	Špínová			43	vychovatelka v dětském domově	Kunratice	99	80	A	F
+5103	530433	1	2	901	9	Josef	Novák			40	zaměstnanec vodárenské společnosti	Kunratice	99	80	A	M

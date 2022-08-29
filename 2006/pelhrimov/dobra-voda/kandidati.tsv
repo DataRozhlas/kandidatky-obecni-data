@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6103	561932	1	1	901	1	Zdeněk	Smrčka	M			44	správce budov	Dobrá Voda	99	80	0
-6103	561932	1	1	901	2	Jaromír	Mezera	M			50	technik	Letny	99	80	0
-6103	561932	1	1	901	3	Miloslav	Vodrážka	M			44	dělník	Dobrá Voda	99	80	0
-6103	561932	1	1	901	4	Milan	Bláha	M			35	dělník	Dobrá Voda	99	80	0
-6103	561932	1	1	901	5	Pavel	Matějů	M			31	soukromý podnikatel	Dobrá Voda	99	80	0
-6103	561932	1	1	901	6	Petr	Pazderka	M			36	zaměstnanec ČD	Dobrá Voda	99	80	0
-6103	561932	1	1	901	7	Lenka	Bláhová	F			31	vedoucí obchodu	Dobrá Voda	99	80	0
-6103	561932	1	1	901	8	Jan	Prokeš	M			42	soukromý podnikatel	Dobrá Voda	99	80	0
-6103	561932	1	1	901	9	Jiří	Rozkošný	M			30	dělník	Dobrá Voda	99	80	0
-6103	561932	1	2	902	1	Jan	Čekal	M	Ing.		42	úředník	Dobrá Voda	99	80	0
-6103	561932	1	2	902	2	Anna	Hadravová	F	Ing.		39	účetní	Rohovka	99	80	0
-6103	561932	1	2	902	3	Hana	Masopustová	F	Ing.		39	administrativní pracovnice	Rohovka	99	80	0
-6103	561932	1	2	902	4	Pavel	Směták	M			42	dělník	Rohovka	99	80	0
-6103	561932	1	2	902	5	Jaroslav	Šimpach	M			44	soukromý podnikatel	Rohovka	99	80	0
-6103	561932	1	2	902	6	Radim	Hadrava	M			43	soukromý podnikatel	Rohovka	99	80	0
-6103	561932	1	2	902	7	Zdeňka	Smětáková	F			35	administrativní pracovnice	Rohovka	99	80	0
-6103	561932	1	2	902	8	Jaroslava	Šimpachová	F			39	administrativní pracovnice	Rohovka	99	80	0
-6103	561932	1	2	902	9	Václav	Masopust	M			43	technik	Rohovka	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6103	561932	1	1	901	1	Zdeněk	Smrčka			44	správce budov	Dobrá Voda	99	80	0	M
+6103	561932	1	2	902	1	Jan	Čekal	Ing.		42	úředník	Dobrá Voda	99	80	0	M
+6103	561932	1	1	901	2	Jaromír	Mezera			50	technik	Letny	99	80	0	M
+6103	561932	1	2	902	2	Anna	Hadravová	Ing.		39	účetní	Rohovka	99	80	0	F
+6103	561932	1	1	901	3	Miloslav	Vodrážka			44	dělník	Dobrá Voda	99	80	0	M
+6103	561932	1	2	902	3	Hana	Masopustová	Ing.		39	administrativní pracovnice	Rohovka	99	80	0	F
+6103	561932	1	1	901	4	Milan	Bláha			35	dělník	Dobrá Voda	99	80	0	M
+6103	561932	1	2	902	4	Pavel	Směták			42	dělník	Rohovka	99	80	0	M
+6103	561932	1	1	901	5	Pavel	Matějů			31	soukromý podnikatel	Dobrá Voda	99	80	0	M
+6103	561932	1	2	902	5	Jaroslav	Šimpach			44	soukromý podnikatel	Rohovka	99	80	0	M
+6103	561932	1	1	901	6	Petr	Pazderka			36	zaměstnanec ČD	Dobrá Voda	99	80	0	M
+6103	561932	1	2	902	6	Radim	Hadrava			43	soukromý podnikatel	Rohovka	99	80	0	M
+6103	561932	1	1	901	7	Lenka	Bláhová			31	vedoucí obchodu	Dobrá Voda	99	80	0	F
+6103	561932	1	2	902	7	Zdeňka	Smětáková			35	administrativní pracovnice	Rohovka	99	80	0	F
+6103	561932	1	1	901	8	Jan	Prokeš			42	soukromý podnikatel	Dobrá Voda	99	80	0	M
+6103	561932	1	2	902	8	Jaroslava	Šimpachová			39	administrativní pracovnice	Rohovka	99	80	0	F
+6103	561932	1	1	901	9	Jiří	Rozkošný			30	dělník	Dobrá Voda	99	80	0	M
+6103	561932	1	2	902	9	Václav	Masopust			43	technik	Rohovka	99	80	0	M

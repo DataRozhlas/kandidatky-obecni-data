@@ -1,8 +1,8 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	569208	1	1	901	1	Zdeněk	Zvolánek	M			54	technolog	Olešenka	99	80	A
-6101	569208	1	1	901	2	Martin	Holcman	M			51	řidič	Olešenka	99	80	A
-6101	569208	1	1	901	3	Vít	Dvorský	M	Ing.		39	projektant	Olešenka	99	80	A
-6101	569208	1	1	901	4	Lenka	Omesová	F			45	švadlena	Olešenka	99	80	A
-6101	569208	1	1	901	5	Martin	Sikora	M			44	obsluha CNC	Olešenka	99	80	A
-6101	569208	1	1	901	6	Jan	Pernička	M			46	inv. důchodce	Olešenka	99	80	A
-6101	569208	1	1	901	7	Pavel	Čejka	M			56	jednatel	Olešenka	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	569208	1	1	901	1	Zdeněk	Zvolánek			54	technolog	Olešenka	99	80	A	M
+6101	569208	1	1	901	2	Martin	Holcman			51	řidič	Olešenka	99	80	A	M
+6101	569208	1	1	901	3	Vít	Dvorský	Ing.		39	projektant	Olešenka	99	80	A	M
+6101	569208	1	1	901	4	Lenka	Omesová			45	švadlena	Olešenka	99	80	A	F
+6101	569208	1	1	901	5	Martin	Sikora			44	obsluha CNC	Olešenka	99	80	A	M
+6101	569208	1	1	901	6	Jan	Pernička			46	inv. důchodce	Olešenka	99	80	A	M
+6101	569208	1	1	901	7	Pavel	Čejka			56	jednatel	Olešenka	99	80	A	M

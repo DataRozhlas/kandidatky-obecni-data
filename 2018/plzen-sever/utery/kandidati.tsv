@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3205	559571	1	1	902	1	Václav	Konstantinovič	M			56	starosta	Olešovice	99	80	A
-3205	559571	1	1	902	2	Zdeňka	Koutská	F			45	asistentka ředitele	Úterý	99	80	A
-3205	559571	1	1	902	3	Markéta	Peštová	F	Ing.		40	tendering manager - Aftermarket	Olešovice	99	80	A
-3205	559571	1	1	902	4	Martin	Podracký	M			40	OSVČ	Úterý	99	80	A
-3205	559571	1	1	902	5	Robert	Lopuszynski	M			43	vodárenský technik	Vidžín	99	80	A
-3205	559571	1	1	902	6	Vlastimil	Pešula	M			45	voják z povolání	Úterý	99	80	A
-3205	559571	1	1	902	7	Jaroslava	Rabadová	F			42	dělnice	Úterý	99	80	A
-3205	559571	1	1	902	8	Jaroslav	Kepl	M			58	učitel	Vidžín	99	80	A
-3205	559571	1	1	902	9	Václav	Havlík	M			48	vodárenský technik	Úterý	99	80	A
-3205	559571	1	2	901	1	Zdeněk	Škarda	M			50	poříčný	Úterý	99	80	A
-3205	559571	1	2	901	2	Jiří	Koutný	M			40	podnikatel	Úterý	99	80	A
-3205	559571	1	2	901	3	Viktor	Koutný	M			38	technik	Olešovice	99	80	A
-3205	559571	1	2	901	4	Eva	Honzíková	F			25	prodejce vozů	Olešovice	99	80	A
-3205	559571	1	2	901	5	Jan	Rabada	M			29	tesař	Úterý	99	80	A
-3205	559571	1	2	901	6	Ondřej	Musil	M			29	výtahář	Úterý	99	80	A
-3205	559571	1	2	901	7	Josef	Kabeláč	M			33	technik	Úterý	99	80	A
-3205	559571	1	2	901	8	Milan	Marek	M			42	dělník	Úterý	99	80	A
-3205	559571	1	2	901	9	Pavel	Bernard	M	Mgr.		60	podnikatel	Úterý	99	80	A
-3205	559571	1	3	903	1	Tomáš	Kaiser	M	prof.		46	vysokoškolský učitel	Úterý	99	80	A
-3205	559571	1	3	903	2	Jan	Dražský Florian	M			34	manažer neziskové organizace	Úterý	99	80	A
-3205	559571	1	3	903	3	Linda Blanche	Leffová	F			62	překladatelka	Úterý	99	80	A
-3205	559571	1	3	903	4	Stanislava	Tučková	F			54	OSVČ	Olešovice	99	80	A
-3205	559571	1	3	903	5	Miroslav	Svoboda ml.	M	Ing.		27	elektrotechnik	Vidžín	99	80	A
-3205	559571	1	3	903	6	Marie	Kaiserová	F			19	studentka	Úterý	99	80	A
-3205	559571	1	3	903	7	Miroslava	Derková	F	Ing.		74	majitelka penzionu	Úterý	99	80	A
-3205	559571	1	3	903	8	Kamila	Kozáková	F			48	kulturní referentka	Úterý	99	80	A
-3205	559571	1	3	903	9	Nataša	Modrá	F			69	důchodkyně	Úterý	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3205	559571	1	1	902	1	Václav	Konstantinovič			56	starosta	Olešovice	99	80	A	M
+3205	559571	1	2	901	1	Zdeněk	Škarda			50	poříčný	Úterý	99	80	A	M
+3205	559571	1	3	903	1	Tomáš	Kaiser	prof.		46	vysokoškolský učitel	Úterý	99	80	A	M
+3205	559571	1	1	902	2	Zdeňka	Koutská			45	asistentka ředitele	Úterý	99	80	A	F
+3205	559571	1	2	901	2	Jiří	Koutný			40	podnikatel	Úterý	99	80	A	M
+3205	559571	1	3	903	2	Jan	Dražský Florian			34	manažer neziskové organizace	Úterý	99	80	A	M
+3205	559571	1	1	902	3	Markéta	Peštová	Ing.		40	tendering manager - Aftermarket	Olešovice	99	80	A	F
+3205	559571	1	2	901	3	Viktor	Koutný			38	technik	Olešovice	99	80	A	M
+3205	559571	1	3	903	3	Linda Blanche	Leffová			62	překladatelka	Úterý	99	80	A	F
+3205	559571	1	1	902	4	Martin	Podracký			40	OSVČ	Úterý	99	80	A	M
+3205	559571	1	2	901	4	Eva	Honzíková			25	prodejce vozů	Olešovice	99	80	A	F
+3205	559571	1	3	903	4	Stanislava	Tučková			54	OSVČ	Olešovice	99	80	A	F
+3205	559571	1	1	902	5	Robert	Lopuszynski			43	vodárenský technik	Vidžín	99	80	A	M
+3205	559571	1	2	901	5	Jan	Rabada			29	tesař	Úterý	99	80	A	M
+3205	559571	1	3	903	5	Miroslav	Svoboda ml.	Ing.		27	elektrotechnik	Vidžín	99	80	A	M
+3205	559571	1	1	902	6	Vlastimil	Pešula			45	voják z povolání	Úterý	99	80	A	M
+3205	559571	1	2	901	6	Ondřej	Musil			29	výtahář	Úterý	99	80	A	M
+3205	559571	1	3	903	6	Marie	Kaiserová			19	studentka	Úterý	99	80	A	F
+3205	559571	1	1	902	7	Jaroslava	Rabadová			42	dělnice	Úterý	99	80	A	F
+3205	559571	1	2	901	7	Josef	Kabeláč			33	technik	Úterý	99	80	A	M
+3205	559571	1	3	903	7	Miroslava	Derková	Ing.		74	majitelka penzionu	Úterý	99	80	A	F
+3205	559571	1	1	902	8	Jaroslav	Kepl			58	učitel	Vidžín	99	80	A	M
+3205	559571	1	2	901	8	Milan	Marek			42	dělník	Úterý	99	80	A	M
+3205	559571	1	3	903	8	Kamila	Kozáková			48	kulturní referentka	Úterý	99	80	A	F
+3205	559571	1	1	902	9	Václav	Havlík			48	vodárenský technik	Úterý	99	80	A	M
+3205	559571	1	2	901	9	Pavel	Bernard	Mgr.		60	podnikatel	Úterý	99	80	A	M
+3205	559571	1	3	903	9	Nataša	Modrá			69	důchodkyně	Úterý	99	80	A	F

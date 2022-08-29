@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	594091	1	1	1	1	Miloslav	Reiter	M			55	technik-mechanizátor	Horní Dunajovice	1	1	A
-6207	594091	1	1	1	2	Michal	Fránek	M	Mgr.		30	právník	Horní Dunajovice	99	1	A
-6207	594091	1	1	1	3	Radka	Rytířová	F			48	účetní	Horní Dunajovice	1	1	A
-6207	594091	1	1	1	4	Libor	Fiala	M			55	vinař	Horní Dunajovice	99	1	A
-6207	594091	1	1	1	5	Michal	Reiter	M	Bc.		24	student	Horní Dunajovice	99	1	A
-6207	594091	1	1	1	6	Zdeněk	Březina	M			28	servisní technik	Horní Dunajovice	99	1	A
-6207	594091	1	1	1	7	Jitka	Kuchaříková	F			47	kuchařka	Horní Dunajovice	99	1	A
-6207	594091	1	1	1	8	Tomáš	Jelínek	M			25	student	Horní Dunajovice	99	1	A
-6207	594091	1	1	1	9	Marie	Reiterová	F	Ing.		58	referent státní správy	Horní Dunajovice	1	1	A
-6207	594091	1	2	7	1	Barbora	Plotzerová	F			41	mateřská dovolená	Horní Dunajovice	99	7	A
-6207	594091	1	2	7	2	Jan	Vlček	M			31	stavbyvedoucí	Horní Dunajovice	7	7	A
-6207	594091	1	2	7	3	Pavel	Špalek	M	Bc.		30	strojní technik	Horní Dunajovice	7	7	A
-6207	594091	1	2	7	4	Jiří	Svoboda	M			63	podnikatel	Horní Dunajovice	99	7	A
-6207	594091	1	3	901	1	Josef	Bazal	M			50	podnikatel	Horní Dunajovice	99	80	A
-6207	594091	1	3	901	2	Denisa	Bartesová	F	Bc.		27	vychovatelka	Horní Dunajovice	99	80	A
-6207	594091	1	3	901	3	Jiří	Fiala	M			43	zaměstnanec ve státní správě	Horní Dunajovice	99	80	A
-6207	594091	1	3	901	4	Leoš	Jakubec	M	Ing.		30	vedoucí vinic	Horní Dunajovice	99	80	A
-6207	594091	1	3	901	5	Ondřej	Havelka	M			25	pracovník ve výrobě	Horní Dunajovice	99	80	A
-6207	594091	1	3	901	6	Adolf	Kelča	M			27	záchranář	Horní Dunajovice	99	80	A
-6207	594091	1	3	901	7	Marek	Líbal	M			41	podnikatel	Horní Dunajovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	594091	1	1	1	1	Miloslav	Reiter			55	technik-mechanizátor	Horní Dunajovice	1	1	A	M
+6207	594091	1	2	7	1	Barbora	Plotzerová			41	mateřská dovolená	Horní Dunajovice	99	7	A	F
+6207	594091	1	3	901	1	Josef	Bazal			50	podnikatel	Horní Dunajovice	99	80	A	M
+6207	594091	1	1	1	2	Michal	Fránek	Mgr.		30	právník	Horní Dunajovice	99	1	A	M
+6207	594091	1	2	7	2	Jan	Vlček			31	stavbyvedoucí	Horní Dunajovice	7	7	A	M
+6207	594091	1	3	901	2	Denisa	Bartesová	Bc.		27	vychovatelka	Horní Dunajovice	99	80	A	F
+6207	594091	1	1	1	3	Radka	Rytířová			48	účetní	Horní Dunajovice	1	1	A	F
+6207	594091	1	2	7	3	Pavel	Špalek	Bc.		30	strojní technik	Horní Dunajovice	7	7	A	M
+6207	594091	1	3	901	3	Jiří	Fiala			43	zaměstnanec ve státní správě	Horní Dunajovice	99	80	A	M
+6207	594091	1	1	1	4	Libor	Fiala			55	vinař	Horní Dunajovice	99	1	A	M
+6207	594091	1	2	7	4	Jiří	Svoboda			63	podnikatel	Horní Dunajovice	99	7	A	M
+6207	594091	1	3	901	4	Leoš	Jakubec	Ing.		30	vedoucí vinic	Horní Dunajovice	99	80	A	M
+6207	594091	1	1	1	5	Michal	Reiter	Bc.		24	student	Horní Dunajovice	99	1	A	M
+6207	594091	1	3	901	5	Ondřej	Havelka			25	pracovník ve výrobě	Horní Dunajovice	99	80	A	M
+6207	594091	1	1	1	6	Zdeněk	Březina			28	servisní technik	Horní Dunajovice	99	1	A	M
+6207	594091	1	3	901	6	Adolf	Kelča			27	záchranář	Horní Dunajovice	99	80	A	M
+6207	594091	1	1	1	7	Jitka	Kuchaříková			47	kuchařka	Horní Dunajovice	99	1	A	F
+6207	594091	1	3	901	7	Marek	Líbal			41	podnikatel	Horní Dunajovice	99	80	A	M
+6207	594091	1	1	1	8	Tomáš	Jelínek			25	student	Horní Dunajovice	99	1	A	M
+6207	594091	1	1	1	9	Marie	Reiterová	Ing.		58	referent státní správy	Horní Dunajovice	1	1	A	F

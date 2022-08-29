@@ -1,8 +1,8 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4102	538019	1	1	802	1	Milena	Částková	F	Mgr.		58	učitelka	Rájec	99	80	0
-4102	538019	1	2	803	1	Hana	Kováčová	F			34	prodavačka	Rájec	99	80	0
-4102	538019	1	3	805	1	Jana	Průšová	F			50	dělnice	Rájec	99	80	0
-4102	538019	1	4	806	1	Edwin	Trapp	M			44	informatik	Černava	99	80	0
-4102	538019	1	5	804	1	Zuzana	Šťastná	F			41	úřednice	Rájec	99	80	0
-4102	538019	1	6	807	1	Josef	Krouza	M	Ing.		49	technik	Černava	99	80	0
-4102	538019	1	7	801	1	Lenka	Bauerová	F			34	dělnice	Rájec	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4102	538019	1	1	802	1	Milena	Částková	Mgr.		58	učitelka	Rájec	99	80	0	F
+4102	538019	1	2	803	1	Hana	Kováčová			34	prodavačka	Rájec	99	80	0	F
+4102	538019	1	3	805	1	Jana	Průšová			50	dělnice	Rájec	99	80	0	F
+4102	538019	1	4	806	1	Edwin	Trapp			44	informatik	Černava	99	80	0	M
+4102	538019	1	5	804	1	Zuzana	Šťastná			41	úřednice	Rájec	99	80	0	F
+4102	538019	1	6	807	1	Josef	Krouza	Ing.		49	technik	Černava	99	80	0	M
+4102	538019	1	7	801	1	Lenka	Bauerová			34	dělnice	Rájec	99	80	0	F

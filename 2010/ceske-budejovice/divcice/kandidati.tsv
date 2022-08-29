@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	544361	1	1	137	1	Eva	Komrsková	F			54	účetní	Dubenec	99	137	0
-3101	544361	1	1	137	2	Ludmila	Augustinová	F			45	podnikatelka - kadeřnice	Zbudov	99	137	0
-3101	544361	1	1	137	3	Alena	Trčová	F			33	administrativní pracovnice	Dubenec	99	137	0
-3101	544361	1	1	137	4	Ivana	Vyžrálková	F			35	prodavačka	Dívčice	99	137	0
-3101	544361	1	1	137	5	Martin	Voves	M			34	řidič	Dubenec	99	137	0
-3101	544361	1	1	137	6	Jaroslav	Janda	M			31	vedoucí technik	Dubenec	99	137	0
-3101	544361	1	1	137	7	Jiří	Sukdol	M			33	řidič	Novosedly	99	137	0
-3101	544361	1	1	137	8	Jonáš	Moser	M			27	technik	Dubenec	99	137	0
-3101	544361	1	1	137	9	Václav	Plojhar	M			64	opravář	Zbudov	99	137	0
-3101	544361	1	2	47	1	Zdeněk	Jůsko	M			64	důchodce	Dívčice	99	47	0
-3101	544361	1	2	47	2	Marian	Albrecht	M			32	automechanik	Novosedly	47	47	0
-3101	544361	1	2	47	3	Jaroslava	Tellingerová	F			64	důchodce	Dívčice	99	47	0
-3101	544361	1	2	47	4	Jiří	Suhdol	M			57	technik	Dívčice	47	47	0
-3101	544361	1	2	47	5	Jiří	Pekař	M			67	dělník	Dubenec	47	47	0
-3101	544361	1	2	47	6	Drahomír	Bezpalec	M			53	zemědělec	Novosedly	99	47	0
-3101	544361	1	2	47	7	Lucie	Kabelková	F			32	prodavačka	Dívčice	99	47	0
-3101	544361	1	2	47	8	Václav	Dědič	M			70	důchodce	Dívčice	99	47	0
-3101	544361	1	2	47	9	Václav	Zima	M			61	důchodce	Česká Lhota	47	47	0
-3101	544361	1	3	1	1	Radek	Livečka	M			30	obchodní manažer	Novosedly	99	1	0
-3101	544361	1	3	1	2	Václav	Horký	M			31	soukromý zemědělec	Dubenec	99	1	0
-3101	544361	1	3	1	3	Petr	Žák	M			42	majitel restaurace	Zbudov	99	1	0
-3101	544361	1	3	1	4	Miroslav	Stulík	M			32	živnostník - opravář strojů	Novosedly	99	1	0
-3101	544361	1	3	1	5	Vlastimil	Kryštůfek	M			36	výpravčí	Česká Lhota	99	1	0
-3101	544361	1	3	1	6	Václava	Frydrychová	F			44	poštovní úřednice	Dívčice	99	1	0
-3101	544361	1	3	1	7	František	Kroupa	M			38	elektrotechnik	Dívčice	99	1	0
-3101	544361	1	3	1	8	Blažena	Koupalová	F			57	skladnice	Zbudov	99	1	0
-3101	544361	1	3	1	9	Josef	Voves	M			63	důchodce	Dubenec	99	1	0
-3101	544361	1	4	7	1	Milada	Pokorná	F			57	účetní	Dívčice	99	7	0
-3101	544361	1	4	7	2	Blanka	Irová	F			47	účetní	Zbudov	99	7	0
-3101	544361	1	4	7	3	Lenka	Kurážová	F			29	úřednice	Zbudov	99	7	0
-3101	544361	1	4	7	4	Zdeněk	Vítovec	M			57	stavební technik	Zbudov	99	7	0
-3101	544361	1	4	7	5	Dagmar	Vacková	F			32	úřednice	Dívčice	99	7	0
-3101	544361	1	4	7	6	Zuzana	Podolková Urbanová	F			35	bez zaměstnání	Česká Lhota	99	7	0
-3101	544361	1	4	7	7	Václav	Hanousek	M			69	důchodce	Dubenec	99	7	0
-3101	544361	1	4	7	8	Václav	Böhm	M			55	truhlář	Dívčice	99	7	0
-3101	544361	1	4	7	9	Libuše	Hlaváčová	F			45	úřednice	Zbudov	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	544361	1	1	137	1	Eva	Komrsková			54	účetní	Dubenec	99	137	0	F
+3101	544361	1	2	47	1	Zdeněk	Jůsko			64	důchodce	Dívčice	99	47	0	M
+3101	544361	1	3	1	1	Radek	Livečka			30	obchodní manažer	Novosedly	99	1	0	M
+3101	544361	1	4	7	1	Milada	Pokorná			57	účetní	Dívčice	99	7	0	F
+3101	544361	1	1	137	2	Ludmila	Augustinová			45	podnikatelka - kadeřnice	Zbudov	99	137	0	F
+3101	544361	1	2	47	2	Marian	Albrecht			32	automechanik	Novosedly	47	47	0	M
+3101	544361	1	3	1	2	Václav	Horký			31	soukromý zemědělec	Dubenec	99	1	0	M
+3101	544361	1	4	7	2	Blanka	Irová			47	účetní	Zbudov	99	7	0	F
+3101	544361	1	1	137	3	Alena	Trčová			33	administrativní pracovnice	Dubenec	99	137	0	F
+3101	544361	1	2	47	3	Jaroslava	Tellingerová			64	důchodce	Dívčice	99	47	0	F
+3101	544361	1	3	1	3	Petr	Žák			42	majitel restaurace	Zbudov	99	1	0	M
+3101	544361	1	4	7	3	Lenka	Kurážová			29	úřednice	Zbudov	99	7	0	F
+3101	544361	1	1	137	4	Ivana	Vyžrálková			35	prodavačka	Dívčice	99	137	0	F
+3101	544361	1	2	47	4	Jiří	Suhdol			57	technik	Dívčice	47	47	0	M
+3101	544361	1	3	1	4	Miroslav	Stulík			32	živnostník - opravář strojů	Novosedly	99	1	0	M
+3101	544361	1	4	7	4	Zdeněk	Vítovec			57	stavební technik	Zbudov	99	7	0	M
+3101	544361	1	1	137	5	Martin	Voves			34	řidič	Dubenec	99	137	0	M
+3101	544361	1	2	47	5	Jiří	Pekař			67	dělník	Dubenec	47	47	0	M
+3101	544361	1	3	1	5	Vlastimil	Kryštůfek			36	výpravčí	Česká Lhota	99	1	0	M
+3101	544361	1	4	7	5	Dagmar	Vacková			32	úřednice	Dívčice	99	7	0	F
+3101	544361	1	1	137	6	Jaroslav	Janda			31	vedoucí technik	Dubenec	99	137	0	M
+3101	544361	1	2	47	6	Drahomír	Bezpalec			53	zemědělec	Novosedly	99	47	0	M
+3101	544361	1	3	1	6	Václava	Frydrychová			44	poštovní úřednice	Dívčice	99	1	0	F
+3101	544361	1	4	7	6	Zuzana	Podolková Urbanová			35	bez zaměstnání	Česká Lhota	99	7	0	F
+3101	544361	1	1	137	7	Jiří	Sukdol			33	řidič	Novosedly	99	137	0	M
+3101	544361	1	2	47	7	Lucie	Kabelková			32	prodavačka	Dívčice	99	47	0	F
+3101	544361	1	3	1	7	František	Kroupa			38	elektrotechnik	Dívčice	99	1	0	M
+3101	544361	1	4	7	7	Václav	Hanousek			69	důchodce	Dubenec	99	7	0	M
+3101	544361	1	1	137	8	Jonáš	Moser			27	technik	Dubenec	99	137	0	M
+3101	544361	1	2	47	8	Václav	Dědič			70	důchodce	Dívčice	99	47	0	M
+3101	544361	1	3	1	8	Blažena	Koupalová			57	skladnice	Zbudov	99	1	0	F
+3101	544361	1	4	7	8	Václav	Böhm			55	truhlář	Dívčice	99	7	0	M
+3101	544361	1	1	137	9	Václav	Plojhar			64	opravář	Zbudov	99	137	0	M
+3101	544361	1	2	47	9	Václav	Zima			61	důchodce	Česká Lhota	47	47	0	M
+3101	544361	1	3	1	9	Josef	Voves			63	důchodce	Dubenec	99	1	0	M
+3101	544361	1	4	7	9	Libuše	Hlaváčová			45	úřednice	Zbudov	99	7	0	F

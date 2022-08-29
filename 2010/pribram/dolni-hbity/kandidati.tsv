@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	540129	1	1	802	1	Tereza	Kaurin	F	Bc.		24	asistentka prodeje	Nepřejov	99	80	0
-2111	540129	1	2	47	1	Josef	Dědina	M			56	řidič	Dolní Hbity	47	47	0
-2111	540129	1	2	47	2	Stanislav	Sezima	M			63	dělník	Dolní Hbity	47	47	0
-2111	540129	1	2	47	3	Alena	Kášová	F			49	administrativní pracovnice	Dolní Hbity	99	47	0
-2111	540129	1	2	47	4	Marie	Němečková	F			44	dělnice	Dolní Hbity	99	47	0
-2111	540129	1	2	47	5	Lenka	Volfová	F			43	vedoucí školní jídelny	Dolní Hbity	99	47	0
-2111	540129	1	2	47	6	Vladimír	Ptáček	M			66	soustružník	Luhy	47	47	0
-2111	540129	1	2	47	7	Jiří	Buchal	M			65	důchodce	Kaliště	47	47	0
-2111	540129	1	3	801	1	Vladimír	Hájek	M			42	referent	Dolní Hbity	99	80	0
-2111	540129	1	4	901	1	Jan	Michálek	M	Ing.		44	starosta	Dolní Hbity	99	80	0
-2111	540129	1	4	901	2	Vladimír	Mandík	M			55	OSVČ	Jelence	99	80	0
-2111	540129	1	4	901	3	Vladimíra	Pražáková	F			41	učitelka MŠ	Luhy	99	80	0
-2111	540129	1	4	901	4	Václav	Sládek	M	Bc.		26	státní zaměstnanec	Káciň	99	80	0
-2111	540129	1	4	901	5	Vladimír	Rampas	M	Mgr.		35	státní zaměstnanec	Nepřejov	99	80	0
-2111	540129	1	4	901	6	Markéta	Samcová	F	Ing.		32	projektová manažerka	Dolní Hbity	99	80	0
-2111	540129	1	4	901	7	Martin	Lantora	M			37	podnikatel	Jelence	99	80	0
-2111	540129	1	4	901	8	Václav	Hlinovský	M			30	podnikatel	Luhy	99	80	0
-2111	540129	1	4	901	9	Václav	Kofroň	M			46	vedoucí prodeje	Dolní Hbity	99	80	0
-2111	540129	1	4	901	10	Hana	Sádlová	F	Mgr.		53	učitelka	Jelence	99	80	0
-2111	540129	1	4	901	11	Jiří	Bejček	M			53	podnikatel	Luhy	99	80	0
-2111	540129	1	4	901	12	Václava	Molcová	F			38	na mateřské dovolené	Třtí	99	80	0
-2111	540129	1	4	901	13	Milan	Spilka	M			47	podnikatel	Dolní Hbity	99	80	0
-2111	540129	1	4	901	14	Marie	Pilíková	F	PhDr.		39	speciální pedagog	Dolní Hbity	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	540129	1	1	802	1	Tereza	Kaurin	Bc.		24	asistentka prodeje	Nepřejov	99	80	0	F
+2111	540129	1	2	47	1	Josef	Dědina			56	řidič	Dolní Hbity	47	47	0	M
+2111	540129	1	3	801	1	Vladimír	Hájek			42	referent	Dolní Hbity	99	80	0	M
+2111	540129	1	4	901	1	Jan	Michálek	Ing.		44	starosta	Dolní Hbity	99	80	0	M
+2111	540129	1	2	47	2	Stanislav	Sezima			63	dělník	Dolní Hbity	47	47	0	M
+2111	540129	1	4	901	2	Vladimír	Mandík			55	OSVČ	Jelence	99	80	0	M
+2111	540129	1	2	47	3	Alena	Kášová			49	administrativní pracovnice	Dolní Hbity	99	47	0	F
+2111	540129	1	4	901	3	Vladimíra	Pražáková			41	učitelka MŠ	Luhy	99	80	0	F
+2111	540129	1	2	47	4	Marie	Němečková			44	dělnice	Dolní Hbity	99	47	0	F
+2111	540129	1	4	901	4	Václav	Sládek	Bc.		26	státní zaměstnanec	Káciň	99	80	0	M
+2111	540129	1	2	47	5	Lenka	Volfová			43	vedoucí školní jídelny	Dolní Hbity	99	47	0	F
+2111	540129	1	4	901	5	Vladimír	Rampas	Mgr.		35	státní zaměstnanec	Nepřejov	99	80	0	M
+2111	540129	1	2	47	6	Vladimír	Ptáček			66	soustružník	Luhy	47	47	0	M
+2111	540129	1	4	901	6	Markéta	Samcová	Ing.		32	projektová manažerka	Dolní Hbity	99	80	0	F
+2111	540129	1	2	47	7	Jiří	Buchal			65	důchodce	Kaliště	47	47	0	M
+2111	540129	1	4	901	7	Martin	Lantora			37	podnikatel	Jelence	99	80	0	M
+2111	540129	1	4	901	8	Václav	Hlinovský			30	podnikatel	Luhy	99	80	0	M
+2111	540129	1	4	901	9	Václav	Kofroň			46	vedoucí prodeje	Dolní Hbity	99	80	0	M
+2111	540129	1	4	901	10	Hana	Sádlová	Mgr.		53	učitelka	Jelence	99	80	0	F
+2111	540129	1	4	901	11	Jiří	Bejček			53	podnikatel	Luhy	99	80	0	M
+2111	540129	1	4	901	12	Václava	Molcová			38	na mateřské dovolené	Třtí	99	80	0	F
+2111	540129	1	4	901	13	Milan	Spilka			47	podnikatel	Dolní Hbity	99	80	0	M
+2111	540129	1	4	901	14	Marie	Pilíková	PhDr.		39	speciální pedagog	Dolní Hbity	99	80	0	F

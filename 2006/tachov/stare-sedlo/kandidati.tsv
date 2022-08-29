@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3207	561193	1	1	901	1	Jiří	Novotný	M			59	starosta	Staré Sedlo	99	80	0
-3207	561193	1	1	901	2	Jaroslava	Hodanová	F			53	poštmistr	Darmyšl	99	80	0
-3207	561193	1	1	901	3	Stanislav	Barhoň	M			59	podnikatel	Racov	99	80	0
-3207	561193	1	1	901	4	Miroslav	Šilboch	M			33	zástupce mistra	Staré Sedlo	99	80	0
-3207	561193	1	1	901	5	Josef	Bureš	M			36	řidič	Staré Sedlo	99	80	0
-3207	561193	1	1	901	6	František	Ptáčník	M			48	mistr	Racov	99	80	0
-3207	561193	1	1	901	7	Miroslava	Hrachovcová	F			27	podnikatelka	Darmyšl	99	80	0
-3207	561193	1	2	903	1	František	Zdeněk	M			63	důchodce	Darmyšl	99	80	0
-3207	561193	1	2	903	2	Karel	Podolka	M			61	dělník	Staré Sedlo	99	80	0
-3207	561193	1	2	903	3	Miroslav	Cihlář	M			33	podnikatel	Staré Sedlo	99	80	0
-3207	561193	1	2	903	4	Josef	Náprava	M			44	podnikatel	Staré Sedlo	99	80	0
-3207	561193	1	2	903	5	Václav	Bureš	M			38	podnikatel	Staré Sedlo	99	80	0
-3207	561193	1	2	903	6	Jiří	Beneš	M			56	dělník	Staré Sedlo	99	80	0
-3207	561193	1	2	903	7	Josef	Veřtat	M			48	dělník	Racov	99	80	0
-3207	561193	1	2	903	8	Jiřina	Barhoňová	F			21	dělnice	Staré Sedlo	99	80	0
-3207	561193	1	2	903	9	Jaroslav	Červený	M			53	podnikatel	Darmyšl	99	80	0
-3207	561193	1	3	902	1	Jana	Svobodová	F			35	administrativní pracovnice	Darmyšl	99	80	0
-3207	561193	1	3	902	2	Vladimír	Roth	M			32	řidič	Racov	99	80	0
-3207	561193	1	3	902	3	Jiří	Černý	M			30	automechanik	Staré Sedlo	99	80	0
-3207	561193	1	3	902	4	Jana	Tokarová	F			41	dělnice	Staré Sedlo	99	80	0
-3207	561193	1	3	902	5	Stanislav	Hegedüš	M			31	technicko hospodářský prac.	Racov	99	80	0
-3207	561193	1	3	902	6	Martin	Stehlík	M			33	řidič	Staré Sedlo	99	80	0
-3207	561193	1	3	902	7	Jiří	Komárek	M			28	dělník	Racov	99	80	0
-3207	561193	1	3	902	8	Jaroslav	Barhoň	M			26	státní zaměstnanec	Racov	99	80	0
-3207	561193	1	3	902	9	Květuše	Červená	F			49	účetní	Darmyšl	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3207	561193	1	1	901	1	Jiří	Novotný			59	starosta	Staré Sedlo	99	80	0	M
+3207	561193	1	2	903	1	František	Zdeněk			63	důchodce	Darmyšl	99	80	0	M
+3207	561193	1	3	902	1	Jana	Svobodová			35	administrativní pracovnice	Darmyšl	99	80	0	F
+3207	561193	1	1	901	2	Jaroslava	Hodanová			53	poštmistr	Darmyšl	99	80	0	F
+3207	561193	1	2	903	2	Karel	Podolka			61	dělník	Staré Sedlo	99	80	0	M
+3207	561193	1	3	902	2	Vladimír	Roth			32	řidič	Racov	99	80	0	M
+3207	561193	1	1	901	3	Stanislav	Barhoň			59	podnikatel	Racov	99	80	0	M
+3207	561193	1	2	903	3	Miroslav	Cihlář			33	podnikatel	Staré Sedlo	99	80	0	M
+3207	561193	1	3	902	3	Jiří	Černý			30	automechanik	Staré Sedlo	99	80	0	M
+3207	561193	1	1	901	4	Miroslav	Šilboch			33	zástupce mistra	Staré Sedlo	99	80	0	M
+3207	561193	1	2	903	4	Josef	Náprava			44	podnikatel	Staré Sedlo	99	80	0	M
+3207	561193	1	3	902	4	Jana	Tokarová			41	dělnice	Staré Sedlo	99	80	0	F
+3207	561193	1	1	901	5	Josef	Bureš			36	řidič	Staré Sedlo	99	80	0	M
+3207	561193	1	2	903	5	Václav	Bureš			38	podnikatel	Staré Sedlo	99	80	0	M
+3207	561193	1	3	902	5	Stanislav	Hegedüš			31	technicko hospodářský prac.	Racov	99	80	0	M
+3207	561193	1	1	901	6	František	Ptáčník			48	mistr	Racov	99	80	0	M
+3207	561193	1	2	903	6	Jiří	Beneš			56	dělník	Staré Sedlo	99	80	0	M
+3207	561193	1	3	902	6	Martin	Stehlík			33	řidič	Staré Sedlo	99	80	0	M
+3207	561193	1	1	901	7	Miroslava	Hrachovcová			27	podnikatelka	Darmyšl	99	80	0	F
+3207	561193	1	2	903	7	Josef	Veřtat			48	dělník	Racov	99	80	0	M
+3207	561193	1	3	902	7	Jiří	Komárek			28	dělník	Racov	99	80	0	M
+3207	561193	1	2	903	8	Jiřina	Barhoňová			21	dělnice	Staré Sedlo	99	80	0	F
+3207	561193	1	3	902	8	Jaroslav	Barhoň			26	státní zaměstnanec	Racov	99	80	0	M
+3207	561193	1	2	903	9	Jaroslav	Červený			53	podnikatel	Darmyšl	99	80	0	M
+3207	561193	1	3	902	9	Květuše	Červená			49	účetní	Darmyšl	99	80	0	F

@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	539490	1	1	902	1	Monika	Kocourková	F	JUDr. Mgr.		55	advokátka	Měchenice	99	80	A
-2110	539490	1	1	902	2	Lucie	Hrušková	F			49	OSVČ	Měchenice	99	80	A
-2110	539490	1	1	902	3	Marek	Kurka	M	Ing.		45	daňový poradce	Měchenice	99	80	A
-2110	539490	1	1	902	4	Dominika	Doležalová	F			55	OSVČ	Měchenice	99	80	A
-2110	539490	1	1	902	5	Karel	Toužil	M			71	důchodce	Měchenice	99	80	A
-2110	539490	1	1	902	6	Blanka	Lipšanská	F			64	důchodce	Měchenice	99	80	A
-2110	539490	1	1	902	7	Miloslav	Tichý	M	Ing.		47	ekonom	Měchenice	99	80	A
-2110	539490	1	2	801	1	Pavel	Hudák	M			36	manažer zakázek	Měchenice	99	80	A
-2110	539490	1	3	901	1	Aleš	Matoušek	M	Ing.	Ph.D.	45	vedoucí pracovník	Měchenice	99	80	A
-2110	539490	1	3	901	2	Michaela	Udutová	F			36	provozní manažerka, účetní	Měchenice	99	80	A
-2110	539490	1	3	901	3	Michal	Kraus	M	Ing.	MBA	42	podnikatel, IT ředitel	Měchenice	99	80	A
-2110	539490	1	3	901	4	Tomáš	Hampl	M	Ing.		48	manažer	Měchenice	99	80	A
-2110	539490	1	3	901	5	Jaroslav	Skala	M			46	ředitel	Měchenice	99	80	A
-2110	539490	1	3	901	6	Lucie	Motlíková	F	Mgr.		50	advokátka	Měchenice	99	80	A
-2110	539490	1	3	901	7	Andrea	Kovaříková	F		DiS.	38	produkční	Měchenice	99	80	A
-2110	539490	1	3	901	8	Kateřina	Humpová	F	Ing.		29	ekolog	Měchenice	99	80	A
-2110	539490	1	3	901	9	František	Šustr	M	Mgr.		41	advokát	Měchenice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	539490	1	1	902	1	Monika	Kocourková	JUDr. Mgr.		55	advokátka	Měchenice	99	80	A	F
+2110	539490	1	2	801	1	Pavel	Hudák			36	manažer zakázek	Měchenice	99	80	A	M
+2110	539490	1	3	901	1	Aleš	Matoušek	Ing.	Ph.D.	45	vedoucí pracovník	Měchenice	99	80	A	M
+2110	539490	1	1	902	2	Lucie	Hrušková			49	OSVČ	Měchenice	99	80	A	F
+2110	539490	1	3	901	2	Michaela	Udutová			36	provozní manažerka, účetní	Měchenice	99	80	A	F
+2110	539490	1	1	902	3	Marek	Kurka	Ing.		45	daňový poradce	Měchenice	99	80	A	M
+2110	539490	1	3	901	3	Michal	Kraus	Ing.	MBA	42	podnikatel, IT ředitel	Měchenice	99	80	A	M
+2110	539490	1	1	902	4	Dominika	Doležalová			55	OSVČ	Měchenice	99	80	A	F
+2110	539490	1	3	901	4	Tomáš	Hampl	Ing.		48	manažer	Měchenice	99	80	A	M
+2110	539490	1	1	902	5	Karel	Toužil			71	důchodce	Měchenice	99	80	A	M
+2110	539490	1	3	901	5	Jaroslav	Skala			46	ředitel	Měchenice	99	80	A	M
+2110	539490	1	1	902	6	Blanka	Lipšanská			64	důchodce	Měchenice	99	80	A	F
+2110	539490	1	3	901	6	Lucie	Motlíková	Mgr.		50	advokátka	Měchenice	99	80	A	F
+2110	539490	1	1	902	7	Miloslav	Tichý	Ing.		47	ekonom	Měchenice	99	80	A	M
+2110	539490	1	3	901	7	Andrea	Kovaříková		DiS.	38	produkční	Měchenice	99	80	A	F
+2110	539490	1	3	901	8	Kateřina	Humpová	Ing.		29	ekolog	Měchenice	99	80	A	F
+2110	539490	1	3	901	9	František	Šustr	Mgr.		41	advokát	Měchenice	99	80	A	M

@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	565482	1	1	901	1	Jaromír	Maleček	M	Ing.		42	podnikatel	Račice	99	80	0
-4203	565482	1	1	901	2	Libuše	Šimralová	F			49	podnikatelka	Račice	99	80	0
-4203	565482	1	1	901	3	Jaroslava	Arazimová	F			42	vedoucí oddělení DDM	Račice	99	80	0
-4203	565482	1	1	901	4	Luboš	Arazim	M			41	koordinátor SSC	Račice	99	80	0
-4203	565482	1	1	901	5	Roman	Šimánek	M			41	vedoucí skladového hosp.	Račice	99	80	0
-4203	565482	1	1	901	6	Josef	Patka	M			35	strážník MP	Račice	99	80	0
-4203	565482	1	1	901	7	Petr	Procházka	M	Mgr.		46	trenér kanoistů	Račice	99	80	0
-4203	565482	1	1	901	8	Iveta	Tomková	F			44	fotograf	Račice	99	80	0
-4203	565482	1	2	902	1	Lenka	Nováková	F			34	v domácnosti	Račice	99	80	0
-4203	565482	1	2	902	2	Jitka	Švandová	F			33	v domácnosti	Račice	99	80	0
-4203	565482	1	2	902	3	Ivo	Novák	M			33	živnostník	Račice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	565482	1	1	901	1	Jaromír	Maleček	Ing.		42	podnikatel	Račice	99	80	0	M
+4203	565482	1	2	902	1	Lenka	Nováková			34	v domácnosti	Račice	99	80	0	F
+4203	565482	1	1	901	2	Libuše	Šimralová			49	podnikatelka	Račice	99	80	0	F
+4203	565482	1	2	902	2	Jitka	Švandová			33	v domácnosti	Račice	99	80	0	F
+4203	565482	1	1	901	3	Jaroslava	Arazimová			42	vedoucí oddělení DDM	Račice	99	80	0	F
+4203	565482	1	2	902	3	Ivo	Novák			33	živnostník	Račice	99	80	0	M
+4203	565482	1	1	901	4	Luboš	Arazim			41	koordinátor SSC	Račice	99	80	0	M
+4203	565482	1	1	901	5	Roman	Šimánek			41	vedoucí skladového hosp.	Račice	99	80	0	M
+4203	565482	1	1	901	6	Josef	Patka			35	strážník MP	Račice	99	80	0	M
+4203	565482	1	1	901	7	Petr	Procházka	Mgr.		46	trenér kanoistů	Račice	99	80	0	M
+4203	565482	1	1	901	8	Iveta	Tomková			44	fotograf	Račice	99	80	0	F

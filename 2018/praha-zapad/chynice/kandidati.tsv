@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	513431	1	1	902	1	Ondřej	Moravec	M			42	podnikatel	Chýnice	99	80	A
-2110	513431	1	1	902	2	Michaela	Čížková	F			43	zdravotní sestra	Chýnice	99	80	A
-2110	513431	1	1	902	3	Michaela	Spěváková	F			40	pedagog, podnikatelka	Chýnice	99	80	A
-2110	513431	1	1	902	4	Ema	Vávrová	F	MUDr.		40	lékařka	Chýnice	99	80	A
-2110	513431	1	1	902	5	Tomáš	Šátek	M			43	skladník	Chýnice	99	80	A
-2110	513431	1	1	902	6	Kateřina	Zemanová	F		DiS.	38	prodavačka	Chýnice	99	80	A
-2110	513431	1	1	902	7	Jaroslav	Tyle	M	Ing.		48	dopravní inženýr	Chýnice	99	80	A
-2110	513431	1	1	902	8	Milan	Šlapanský	M			51	podnikatel	Chýnice	99	80	A
-2110	513431	1	1	902	9	Vendula	Zádová	F			41	administrativní pracovnice ČSSZ	Chýnice	99	80	A
-2110	513431	1	2	470	1	Pavel	Toman	M			69	OSVČ	Chýnice	166	166	A
-2110	513431	1	2	470	2	Irena	Holmanová	F			57	manažerka	Chýnice	99	166	A
-2110	513431	1	2	470	3	Petra	Veselá	F			43	sanitární pracovnice	Chýnice	99	166	A
-2110	513431	1	2	470	4	David	Černý	M			34	podnikatel	Chýnice	99	166	A
-2110	513431	1	2	470	5	Karel	Gahlert	M			66	OSVČ	Chýnice	99	166	A
-2110	513431	1	2	470	6	Helena	Troupová	F	Mgr.		66	důchodkyně	Chýnice	99	80	A
-2110	513431	1	2	470	7	Jiří	Trojáček	M	Ing.		54	ekonom	Chýnice	99	80	A
-2110	513431	1	2	470	8	David	Pospíšil	M	Ing.		38	IT manažer	Chýnice	99	80	A
-2110	513431	1	3	901	1	Petr	Krejnik	M			59	OSVČ	Chýnice	99	80	A
-2110	513431	1	3	901	2	Michaela	Hudečková	F			34	podnikatel	Chýnice	99	80	A
-2110	513431	1	3	901	3	Ladislav	Hnát	M	Ing.		82	důchodce	Chýnice	99	80	A
-2110	513431	1	3	901	4	Josef	Štička	M			71	OSVČ	Chýnice	99	80	A
-2110	513431	1	3	901	5	Petr	Přívozník	M			56	podnikatel	Chýnice	99	80	A
-2110	513431	1	3	901	6	Kateřina	Staňková	F			36	dispečer	Chýnice	99	80	A
-2110	513431	1	3	901	7	Oldřich	Smolík	M			56	podnikatel	Chýnice	99	80	A
-2110	513431	1	3	901	8	Jaroslav	Kopecký	M	Ing.		68	manažer	Chýnice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	513431	1	1	902	1	Ondřej	Moravec			42	podnikatel	Chýnice	99	80	A	M
+2110	513431	1	2	470	1	Pavel	Toman			69	OSVČ	Chýnice	166	166	A	M
+2110	513431	1	3	901	1	Petr	Krejnik			59	OSVČ	Chýnice	99	80	A	M
+2110	513431	1	1	902	2	Michaela	Čížková			43	zdravotní sestra	Chýnice	99	80	A	F
+2110	513431	1	2	470	2	Irena	Holmanová			57	manažerka	Chýnice	99	166	A	F
+2110	513431	1	3	901	2	Michaela	Hudečková			34	podnikatel	Chýnice	99	80	A	F
+2110	513431	1	1	902	3	Michaela	Spěváková			40	pedagog, podnikatelka	Chýnice	99	80	A	F
+2110	513431	1	2	470	3	Petra	Veselá			43	sanitární pracovnice	Chýnice	99	166	A	F
+2110	513431	1	3	901	3	Ladislav	Hnát	Ing.		82	důchodce	Chýnice	99	80	A	M
+2110	513431	1	1	902	4	Ema	Vávrová	MUDr.		40	lékařka	Chýnice	99	80	A	F
+2110	513431	1	2	470	4	David	Černý			34	podnikatel	Chýnice	99	166	A	M
+2110	513431	1	3	901	4	Josef	Štička			71	OSVČ	Chýnice	99	80	A	M
+2110	513431	1	1	902	5	Tomáš	Šátek			43	skladník	Chýnice	99	80	A	M
+2110	513431	1	2	470	5	Karel	Gahlert			66	OSVČ	Chýnice	99	166	A	M
+2110	513431	1	3	901	5	Petr	Přívozník			56	podnikatel	Chýnice	99	80	A	M
+2110	513431	1	1	902	6	Kateřina	Zemanová		DiS.	38	prodavačka	Chýnice	99	80	A	F
+2110	513431	1	2	470	6	Helena	Troupová	Mgr.		66	důchodkyně	Chýnice	99	80	A	F
+2110	513431	1	3	901	6	Kateřina	Staňková			36	dispečer	Chýnice	99	80	A	F
+2110	513431	1	1	902	7	Jaroslav	Tyle	Ing.		48	dopravní inženýr	Chýnice	99	80	A	M
+2110	513431	1	2	470	7	Jiří	Trojáček	Ing.		54	ekonom	Chýnice	99	80	A	M
+2110	513431	1	3	901	7	Oldřich	Smolík			56	podnikatel	Chýnice	99	80	A	M
+2110	513431	1	1	902	8	Milan	Šlapanský			51	podnikatel	Chýnice	99	80	A	M
+2110	513431	1	2	470	8	David	Pospíšil	Ing.		38	IT manažer	Chýnice	99	80	A	M
+2110	513431	1	3	901	8	Jaroslav	Kopecký	Ing.		68	manažer	Chýnice	99	80	A	M
+2110	513431	1	1	902	9	Vendula	Zádová			41	administrativní pracovnice ČSSZ	Chýnice	99	80	A	F

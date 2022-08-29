@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4206	567523	1	1	7	1	Vít	Janouškovec	M			32	vedoucí provozu	Háj u Duchcova	7	7	0
-4206	567523	1	1	7	2	Miroslav	Smutný	M			73	podnikatel	Háj u Duchcova	7	7	0
-4206	567523	1	1	7	3	Jiří	Kubrycht	M			33	nezaměstnaný	Háj u Duchcova	7	7	0
-4206	567523	1	1	7	4	Erika	Makovičková	F			68	důchodkyně	Domaslavice	99	7	0
-4206	567523	1	1	7	5	Radek	Čurda	M			43	manažer	Háj u Duchcova	99	7	0
-4206	567523	1	1	7	6	Soňa	Janouškovcová	F			29	podnikatelka	Háj u Duchcova	7	7	0
-4206	567523	1	1	7	7	Petr	Plodr	M			42	zámečník	Domaslavice	7	7	0
-4206	567523	1	1	7	8	Táňa	Strnadová	F			64	důchodkyně	Háj u Duchcova	99	7	0
-4206	567523	1	1	7	9	Václav	Kníže	M			63	důchodce	Háj u Duchcova	99	7	0
-4206	567523	1	2	166	1	Karel	Drašner	M			56	starosta	Háj u Duchcova	99	166	0
-4206	567523	1	2	166	2	Irena	Pipišková	F			49	podnikatelka	Háj u Duchcova	99	166	0
-4206	567523	1	2	166	3	Václav	Kříž	M			58	údržbář	Háj u Duchcova	99	166	0
-4206	567523	1	2	166	4	Václav	Břečka	M			63	důchodce	Domaslavice	99	166	0
-4206	567523	1	2	166	5	Václav	Moldavčuk	M			42	operátor	Háj u Duchcova	99	166	0
-4206	567523	1	2	166	6	Jan	Urbanczyk	M			54	podnikatel	Háj u Duchcova	99	166	0
-4206	567523	1	2	166	7	Jiří	Fujan	M			36	podnikatel	Háj u Duchcova	99	166	0
-4206	567523	1	2	166	8	Ivana	Hrdinová	F			41	zdravotní sestra	Háj u Duchcova	99	166	0
-4206	567523	1	2	166	9	Petr	Bobek	M			36	technik	Háj u Duchcova	99	166	0
-4206	567523	1	3	901	1	Štefan	Sedlár	M			55	OSVČ	Háj u Duchcova	99	80	0
-4206	567523	1	3	901	2	Roman	Kubrycht	M			31	instalatér - topenář	Háj u Duchcova	99	80	0
-4206	567523	1	3	901	3	Jaroslav	Štorkán	M			37	OSVČ	Háj u Duchcova	99	80	0
-4206	567523	1	3	901	4	Anna	Přibylová	F			66	důchodce	Háj u Duchcova	99	80	0
-4206	567523	1	3	901	5	Tomáš	Jarolím	M			35	státní zaměstnanec	Háj u Duchcova	99	80	0
-4206	567523	1	3	901	6	Radek	Bělohradský	M			38	servisní technik	Háj u Duchcova	99	80	0
-4206	567523	1	3	901	7	Jarmila	Prášilová	F			35	administrativní pracovnice	Háj u Duchcova	99	80	0
-4206	567523	1	3	901	8	Jiří	Chládek	M			44	signalista ČD	Háj u Duchcova	99	80	0
-4206	567523	1	3	901	9	Jan	Havlátko	M			60	OSVČ	Háj u Duchcova	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4206	567523	1	1	7	1	Vít	Janouškovec			32	vedoucí provozu	Háj u Duchcova	7	7	0	M
+4206	567523	1	2	166	1	Karel	Drašner			56	starosta	Háj u Duchcova	99	166	0	M
+4206	567523	1	3	901	1	Štefan	Sedlár			55	OSVČ	Háj u Duchcova	99	80	0	M
+4206	567523	1	1	7	2	Miroslav	Smutný			73	podnikatel	Háj u Duchcova	7	7	0	M
+4206	567523	1	2	166	2	Irena	Pipišková			49	podnikatelka	Háj u Duchcova	99	166	0	F
+4206	567523	1	3	901	2	Roman	Kubrycht			31	instalatér - topenář	Háj u Duchcova	99	80	0	M
+4206	567523	1	1	7	3	Jiří	Kubrycht			33	nezaměstnaný	Háj u Duchcova	7	7	0	M
+4206	567523	1	2	166	3	Václav	Kříž			58	údržbář	Háj u Duchcova	99	166	0	M
+4206	567523	1	3	901	3	Jaroslav	Štorkán			37	OSVČ	Háj u Duchcova	99	80	0	M
+4206	567523	1	1	7	4	Erika	Makovičková			68	důchodkyně	Domaslavice	99	7	0	F
+4206	567523	1	2	166	4	Václav	Břečka			63	důchodce	Domaslavice	99	166	0	M
+4206	567523	1	3	901	4	Anna	Přibylová			66	důchodce	Háj u Duchcova	99	80	0	F
+4206	567523	1	1	7	5	Radek	Čurda			43	manažer	Háj u Duchcova	99	7	0	M
+4206	567523	1	2	166	5	Václav	Moldavčuk			42	operátor	Háj u Duchcova	99	166	0	M
+4206	567523	1	3	901	5	Tomáš	Jarolím			35	státní zaměstnanec	Háj u Duchcova	99	80	0	M
+4206	567523	1	1	7	6	Soňa	Janouškovcová			29	podnikatelka	Háj u Duchcova	7	7	0	F
+4206	567523	1	2	166	6	Jan	Urbanczyk			54	podnikatel	Háj u Duchcova	99	166	0	M
+4206	567523	1	3	901	6	Radek	Bělohradský			38	servisní technik	Háj u Duchcova	99	80	0	M
+4206	567523	1	1	7	7	Petr	Plodr			42	zámečník	Domaslavice	7	7	0	M
+4206	567523	1	2	166	7	Jiří	Fujan			36	podnikatel	Háj u Duchcova	99	166	0	M
+4206	567523	1	3	901	7	Jarmila	Prášilová			35	administrativní pracovnice	Háj u Duchcova	99	80	0	F
+4206	567523	1	1	7	8	Táňa	Strnadová			64	důchodkyně	Háj u Duchcova	99	7	0	F
+4206	567523	1	2	166	8	Ivana	Hrdinová			41	zdravotní sestra	Háj u Duchcova	99	166	0	F
+4206	567523	1	3	901	8	Jiří	Chládek			44	signalista ČD	Háj u Duchcova	99	80	0	M
+4206	567523	1	1	7	9	Václav	Kníže			63	důchodce	Háj u Duchcova	99	7	0	M
+4206	567523	1	2	166	9	Petr	Bobek			36	technik	Háj u Duchcova	99	166	0	M
+4206	567523	1	3	901	9	Jan	Havlátko			60	OSVČ	Háj u Duchcova	99	80	0	M

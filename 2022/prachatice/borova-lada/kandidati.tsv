@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3105	545902	1	1	901	1	Jana	Hrazánková	F	Ing.		51	starostka	Borová Lada	99	80	A
-3105	545902	1	1	901	2	Václav	Beneš	M			38	oblastní zástupce	Borová Lada	99	80	A
-3105	545902	1	1	901	3	Lenka	Václavíková	F			29	pracovník IC	Borová Lada	99	80	A
-3105	545902	1	1	901	4	Tereza	Hovorková	F			27	mateřská dovolená	Borová Lada	99	80	A
-3105	545902	1	1	901	5	Jaroslav	Hušek	M			62	lanovkář	Borová Lada	99	80	A
-3105	545902	1	1	901	6	Tomáš	Strakoš	M			30	kuchař	Borová Lada	99	80	A
-3105	545902	1	1	901	7	Stanislav	Pomahač	M			77	důchodce	Borová Lada	99	80	A
-3105	545902	1	2	902	1	Václav	Hovorka	M			49	OSVČ	Borová Lada	99	80	A
-3105	545902	1	2	902	2	Miroslav	Petráň	M	Bc.		42	Policie ČR	Borová Lada	99	80	A
-3105	545902	1	2	902	3	Robert	Kudýn	M			51	montér	Borová Lada	99	80	A
-3105	545902	1	2	902	4	Pavlína	Horejšová	F			25	mateřská dovolená	Borová Lada	99	80	A
-3105	545902	1	2	902	5	Zbyněk	Janči	M			47	referent RL a PDV	Borová Lada	99	80	A
-3105	545902	1	2	902	6	Ivana	Juříková	F			47	lesní dělnice	Borová Lada	99	80	A
-3105	545902	1	2	902	7	Ladislav	Miko	M			37	OSVČ	Borová Lada	99	80	A
-3105	545902	1	3	903	1	Radek	Venta	M			47	OSVČ	Borová Lada	99	80	A
-3105	545902	1	3	903	2	Ivo	Hrazánek	M	Ing.		51	lesník	Borová Lada	99	80	A
-3105	545902	1	3	903	3	Jan	Miko	M			31	nezaměstnaný	Borová Lada	99	80	A
-3105	545902	1	3	903	4	Helena	Marcínová	F			30	asistent pedagoga	Borová Lada	99	80	A
-3105	545902	1	3	903	5	Pavlína	Hovorková	F			47	školnice	Borová Lada	99	80	A
-3105	545902	1	3	903	6	Petr	Štefaník	M	Ing.		49	lesník	Borová Lada	99	80	A
-3105	545902	1	3	903	7	Aleš	Strakoš	M			57	údržbář	Borová Lada	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3105	545902	1	1	901	1	Jana	Hrazánková	Ing.		51	starostka	Borová Lada	99	80	A	F
+3105	545902	1	2	902	1	Václav	Hovorka			49	OSVČ	Borová Lada	99	80	A	M
+3105	545902	1	3	903	1	Radek	Venta			47	OSVČ	Borová Lada	99	80	A	M
+3105	545902	1	1	901	2	Václav	Beneš			38	oblastní zástupce	Borová Lada	99	80	A	M
+3105	545902	1	2	902	2	Miroslav	Petráň	Bc.		42	Policie ČR	Borová Lada	99	80	A	M
+3105	545902	1	3	903	2	Ivo	Hrazánek	Ing.		51	lesník	Borová Lada	99	80	A	M
+3105	545902	1	1	901	3	Lenka	Václavíková			29	pracovník IC	Borová Lada	99	80	A	F
+3105	545902	1	2	902	3	Robert	Kudýn			51	montér	Borová Lada	99	80	A	M
+3105	545902	1	3	903	3	Jan	Miko			31	nezaměstnaný	Borová Lada	99	80	A	M
+3105	545902	1	1	901	4	Tereza	Hovorková			27	mateřská dovolená	Borová Lada	99	80	A	F
+3105	545902	1	2	902	4	Pavlína	Horejšová			25	mateřská dovolená	Borová Lada	99	80	A	F
+3105	545902	1	3	903	4	Helena	Marcínová			30	asistent pedagoga	Borová Lada	99	80	A	F
+3105	545902	1	1	901	5	Jaroslav	Hušek			62	lanovkář	Borová Lada	99	80	A	M
+3105	545902	1	2	902	5	Zbyněk	Janči			47	referent RL a PDV	Borová Lada	99	80	A	M
+3105	545902	1	3	903	5	Pavlína	Hovorková			47	školnice	Borová Lada	99	80	A	F
+3105	545902	1	1	901	6	Tomáš	Strakoš			30	kuchař	Borová Lada	99	80	A	M
+3105	545902	1	2	902	6	Ivana	Juříková			47	lesní dělnice	Borová Lada	99	80	A	F
+3105	545902	1	3	903	6	Petr	Štefaník	Ing.		49	lesník	Borová Lada	99	80	A	M
+3105	545902	1	1	901	7	Stanislav	Pomahač			77	důchodce	Borová Lada	99	80	A	M
+3105	545902	1	2	902	7	Ladislav	Miko			37	OSVČ	Borová Lada	99	80	A	M
+3105	545902	1	3	903	7	Aleš	Strakoš			57	údržbář	Borová Lada	99	80	A	M

@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3207	561185	1	1	47	1	Milan	Kašpar	M			58	strážník Městské policie	Staré Sedliště	47	47	0
-3207	561185	1	1	47	2	Jaroslav	Kotlan	M			41	dělník	Staré Sedliště	99	47	0
-3207	561185	1	1	47	3	Zdeněk	Maňo	M			52	mistr výroby	Staré Sedliště	47	47	0
-3207	561185	1	1	47	4	Dagmar	Esserová	F			53	učitelka	Nové Sedliště	47	47	0
-3207	561185	1	1	47	5	František	Žalud	M			58	dělník	Staré Sedliště	99	47	0
-3207	561185	1	1	47	6	Zdeněk	Nistor	M			40	invalidní důchodce	Staré Sedliště	99	47	0
-3207	561185	1	1	47	7	Pavel	Viterna	M			56	podnikatel	Staré Sedliště	47	47	0
-3207	561185	1	1	47	8	Růžena	Hurychová	F			65	důchodce	Labuť	47	47	0
-3207	561185	1	1	47	9	Šimon	Dulovec	M			59	dělník	Labuť	99	47	0
-3207	561185	1	2	1	1	Stanislava	Fojtíčková	F	Ing.		47	starostka obce	Staré Sedliště	1	1	0
-3207	561185	1	2	1	2	Jiří	Vacek	M			35	profesionální hasič	Staré Sedliště	99	1	0
-3207	561185	1	2	1	3	Václav	Pecháček	M			34	řidič	Staré Sedliště	99	1	0
-3207	561185	1	2	1	4	Vladimír	Mergl	M			33	mistr výroby	Staré Sedliště	99	1	0
-3207	561185	1	2	1	5	Olga	Vomáčková	F			39	vedoucí pošty	Staré Sedliště	99	1	0
-3207	561185	1	2	1	6	Jiří	Ulahel	M			45	podnikatel	Staré Sedliště	99	1	0
-3207	561185	1	2	1	7	Dita	Stöhrová	F			40	masérka	Úšava	99	1	0
-3207	561185	1	2	1	8	Pavla	Kamarýtová	F			42	prodavačka	Staré Sedliště	99	1	0
-3207	561185	1	2	1	9	Jaroslav	Peterka	M	Ing.		27	průmyslový inženýr	Labuť	99	1	0
-3207	561185	1	3	901	1	Jitka	Valíčková	F	Mgr.		47	učitelka ZŠ	Staré Sedliště	99	80	0
-3207	561185	1	3	901	2	Karel	Šulan	M			31	servisní mechanik	Nové Sedliště	99	80	0
-3207	561185	1	3	901	3	Josef	Svoboda	M			58	přísl. hasič. záchran.sboru ČR	Staré Sedliště	99	80	0
-3207	561185	1	3	901	4	Michaela	Dvořáková	F			29	referentka	Staré Sedliště	99	80	0
-3207	561185	1	3	901	5	Monika	Vernerová	F			37	skladová operátorka	Labuť	99	80	0
-3207	561185	1	3	901	6	Roman	Dvořák	M			41	dělník	Staré Sedliště	99	80	0
-3207	561185	1	3	901	7	Miloš	Jíleček	M	Mgr.		51	ředitel ZŠ	Úšava	99	80	0
-3207	561185	1	3	901	8	Václav	Tolar	M	Ing.		65	důchodce	Úšava	99	80	0
-3207	561185	1	3	901	9	Oldřich	Benda	M	Mgr.		46	učitel ZŠ	Staré Sedliště	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3207	561185	1	1	47	1	Milan	Kašpar			58	strážník Městské policie	Staré Sedliště	47	47	0	M
+3207	561185	1	2	1	1	Stanislava	Fojtíčková	Ing.		47	starostka obce	Staré Sedliště	1	1	0	F
+3207	561185	1	3	901	1	Jitka	Valíčková	Mgr.		47	učitelka ZŠ	Staré Sedliště	99	80	0	F
+3207	561185	1	1	47	2	Jaroslav	Kotlan			41	dělník	Staré Sedliště	99	47	0	M
+3207	561185	1	2	1	2	Jiří	Vacek			35	profesionální hasič	Staré Sedliště	99	1	0	M
+3207	561185	1	3	901	2	Karel	Šulan			31	servisní mechanik	Nové Sedliště	99	80	0	M
+3207	561185	1	1	47	3	Zdeněk	Maňo			52	mistr výroby	Staré Sedliště	47	47	0	M
+3207	561185	1	2	1	3	Václav	Pecháček			34	řidič	Staré Sedliště	99	1	0	M
+3207	561185	1	3	901	3	Josef	Svoboda			58	přísl. hasič. záchran.sboru ČR	Staré Sedliště	99	80	0	M
+3207	561185	1	1	47	4	Dagmar	Esserová			53	učitelka	Nové Sedliště	47	47	0	F
+3207	561185	1	2	1	4	Vladimír	Mergl			33	mistr výroby	Staré Sedliště	99	1	0	M
+3207	561185	1	3	901	4	Michaela	Dvořáková			29	referentka	Staré Sedliště	99	80	0	F
+3207	561185	1	1	47	5	František	Žalud			58	dělník	Staré Sedliště	99	47	0	M
+3207	561185	1	2	1	5	Olga	Vomáčková			39	vedoucí pošty	Staré Sedliště	99	1	0	F
+3207	561185	1	3	901	5	Monika	Vernerová			37	skladová operátorka	Labuť	99	80	0	F
+3207	561185	1	1	47	6	Zdeněk	Nistor			40	invalidní důchodce	Staré Sedliště	99	47	0	M
+3207	561185	1	2	1	6	Jiří	Ulahel			45	podnikatel	Staré Sedliště	99	1	0	M
+3207	561185	1	3	901	6	Roman	Dvořák			41	dělník	Staré Sedliště	99	80	0	M
+3207	561185	1	1	47	7	Pavel	Viterna			56	podnikatel	Staré Sedliště	47	47	0	M
+3207	561185	1	2	1	7	Dita	Stöhrová			40	masérka	Úšava	99	1	0	F
+3207	561185	1	3	901	7	Miloš	Jíleček	Mgr.		51	ředitel ZŠ	Úšava	99	80	0	M
+3207	561185	1	1	47	8	Růžena	Hurychová			65	důchodce	Labuť	47	47	0	F
+3207	561185	1	2	1	8	Pavla	Kamarýtová			42	prodavačka	Staré Sedliště	99	1	0	F
+3207	561185	1	3	901	8	Václav	Tolar	Ing.		65	důchodce	Úšava	99	80	0	M
+3207	561185	1	1	47	9	Šimon	Dulovec			59	dělník	Labuť	99	47	0	M
+3207	561185	1	2	1	9	Jaroslav	Peterka	Ing.		27	průmyslový inženýr	Labuť	99	1	0	M
+3207	561185	1	3	901	9	Oldřich	Benda	Mgr.		46	učitel ZŠ	Staré Sedliště	99	80	0	M

@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6205	586285	1	1	1	1	Jan	Falešník	M			27	malíř	Kozojídky	99	1	0
-6205	586285	1	1	1	2	Jarmila	Jurčeková	F			52	zdravotní sestra	Kozojídky	99	1	0
-6205	586285	1	1	1	3	Roman	Mach	M			45	obráběč kovů	Kozojídky	1	1	0
-6205	586285	1	1	1	4	Marie	Šrahůlková	F			39	švadlena	Kozojídky	99	1	0
-6205	586285	1	1	1	5	Josef	Šrahůlek	M			48	mistr v kovovýrobě	Kozojídky	99	1	0
-6205	586285	1	1	1	6	Marie	Janíčková	F			42	prodavačka	Kozojídky	99	1	0
-6205	586285	1	1	1	7	Miroslav	Skalka	M	Ing.		24	student	Kozojídky	99	1	0
-6205	586285	1	1	1	8	Jaroslav	Kusalík	M			32	lektor počítačové gramatiky	Kozojídky	99	1	0
-6205	586285	1	1	1	9	Josef	Štěpka	M			58	mechanik	Kozojídky	99	1	0
-6205	586285	1	2	902	1	Otakar	Březina	M	Bc.		40	vedoucí	Kozojídky	99	80	0
-6205	586285	1	2	902	2	Zdeněk	Jurček	M	Ing.		28	referent	Kozojídky	99	80	0
-6205	586285	1	2	902	3	Irena	Šrahůlková	F			34	ředitelka	Kozojídky	99	80	0
-6205	586285	1	2	902	4	Jiří	Ducháč	M	Ing.		51	projektant	Kozojídky	99	80	0
-6205	586285	1	2	902	5	Veronika	Solaříková	F			26	dělnice	Kozojídky	99	80	0
-6205	586285	1	2	902	6	Štěpán	Hlahůlek	M			51	řidič	Kozojídky	99	80	0
-6205	586285	1	2	902	7	Tomáš	Ocetek	M			30	dělník	Kozojídky	99	80	0
-6205	586285	1	2	902	8	Viktor	Kolůch	M			46	manager	Kozojídky	99	80	0
-6205	586285	1	2	902	9	Josef	Pavlica	M			59	dělník	Kozojídky	99	80	0
-6205	586285	1	3	901	1	Antonín	Smetka	M	Ing.		60	ekonom	Kozojídky	99	80	0
-6205	586285	1	3	901	2	Zdenka	Grombířová	F			41	účetní	Kozojídky	99	80	0
-6205	586285	1	3	901	3	Josef	Lacek	M			41	celník	Kozojídky	99	80	0
-6205	586285	1	3	901	4	Jiří	Dula	M			36	inv.důchodce	Kozojídky	53	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6205	586285	1	1	1	1	Jan	Falešník			27	malíř	Kozojídky	99	1	0	M
+6205	586285	1	2	902	1	Otakar	Březina	Bc.		40	vedoucí	Kozojídky	99	80	0	M
+6205	586285	1	3	901	1	Antonín	Smetka	Ing.		60	ekonom	Kozojídky	99	80	0	M
+6205	586285	1	1	1	2	Jarmila	Jurčeková			52	zdravotní sestra	Kozojídky	99	1	0	F
+6205	586285	1	2	902	2	Zdeněk	Jurček	Ing.		28	referent	Kozojídky	99	80	0	M
+6205	586285	1	3	901	2	Zdenka	Grombířová			41	účetní	Kozojídky	99	80	0	F
+6205	586285	1	1	1	3	Roman	Mach			45	obráběč kovů	Kozojídky	1	1	0	M
+6205	586285	1	2	902	3	Irena	Šrahůlková			34	ředitelka	Kozojídky	99	80	0	F
+6205	586285	1	3	901	3	Josef	Lacek			41	celník	Kozojídky	99	80	0	M
+6205	586285	1	1	1	4	Marie	Šrahůlková			39	švadlena	Kozojídky	99	1	0	F
+6205	586285	1	2	902	4	Jiří	Ducháč	Ing.		51	projektant	Kozojídky	99	80	0	M
+6205	586285	1	3	901	4	Jiří	Dula			36	inv.důchodce	Kozojídky	53	80	0	M
+6205	586285	1	1	1	5	Josef	Šrahůlek			48	mistr v kovovýrobě	Kozojídky	99	1	0	M
+6205	586285	1	2	902	5	Veronika	Solaříková			26	dělnice	Kozojídky	99	80	0	F
+6205	586285	1	1	1	6	Marie	Janíčková			42	prodavačka	Kozojídky	99	1	0	F
+6205	586285	1	2	902	6	Štěpán	Hlahůlek			51	řidič	Kozojídky	99	80	0	M
+6205	586285	1	1	1	7	Miroslav	Skalka	Ing.		24	student	Kozojídky	99	1	0	M
+6205	586285	1	2	902	7	Tomáš	Ocetek			30	dělník	Kozojídky	99	80	0	M
+6205	586285	1	1	1	8	Jaroslav	Kusalík			32	lektor počítačové gramatiky	Kozojídky	99	1	0	M
+6205	586285	1	2	902	8	Viktor	Kolůch			46	manager	Kozojídky	99	80	0	M
+6205	586285	1	1	1	9	Josef	Štěpka			58	mechanik	Kozojídky	99	1	0	M
+6205	586285	1	2	902	9	Josef	Pavlica			59	dělník	Kozojídky	99	80	0	M

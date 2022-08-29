@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6204	584339	1	1	1	1	Aleš	Poláček	M	Mgr.		39	učitel OV	Borkovany	99	1	A
-6204	584339	1	1	1	2	Josef	Novák	M			67	důchodce	Borkovany	1	1	A
-6204	584339	1	1	1	3	Václav	Suchánek	M			39	skladník	Borkovany	99	1	A
-6204	584339	1	1	1	4	Lukáš	Matějka	M			28	technik	Borkovany	99	1	A
-6204	584339	1	1	1	5	Andrea	Tarodiová	F			21	studentka VOŠ	Borkovany	99	1	A
-6204	584339	1	1	1	6	Marie	Ben Ouirane	F			47	bankovní úřednice	Borkovany	99	1	A
-6204	584339	1	1	1	7	Patrik	Milota	M			20	student	Borkovany	99	1	A
-6204	584339	1	1	1	8	Roman	Tichý	M			36	CNC operátor	Borkovany	99	1	A
-6204	584339	1	1	1	9	Vlastimil	Bedřich	M			56	zámečník	Borkovany	99	1	A
-6204	584339	1	2	166	1	Radek	Valenta	M	Mgr.		52	starosta	Borkovany	99	166	A
-6204	584339	1	2	166	2	Daniel	Rous	M			48	produktový specialista	Borkovany	99	166	A
-6204	584339	1	2	166	3	Jan	Kozman	M	Bc.		32	manažer	Borkovany	99	166	A
-6204	584339	1	2	166	4	Jiří	Petlák	M			67	OSVČ	Borkovany	99	166	A
-6204	584339	1	2	166	5	Josef	Čiháček	M			65	technik	Borkovany	99	166	A
-6204	584339	1	2	166	6	Vlastimil	Urban	M			59	pracovník strojní údržby	Borkovany	99	166	A
-6204	584339	1	2	166	7	Jaroslav	Bedřich	M			50	OSVČ	Borkovany	99	166	A
-6204	584339	1	2	166	8	Zdeněk	Šebesta	M	Ing.		63	vedoucí STK	Borkovany	99	166	A
-6204	584339	1	2	166	9	Marek	Topolář	M	Ing.		28	OSVČ	Borkovany	99	166	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6204	584339	1	1	1	1	Aleš	Poláček	Mgr.		39	učitel OV	Borkovany	99	1	A	M
+6204	584339	1	2	166	1	Radek	Valenta	Mgr.		52	starosta	Borkovany	99	166	A	M
+6204	584339	1	1	1	2	Josef	Novák			67	důchodce	Borkovany	1	1	A	M
+6204	584339	1	2	166	2	Daniel	Rous			48	produktový specialista	Borkovany	99	166	A	M
+6204	584339	1	1	1	3	Václav	Suchánek			39	skladník	Borkovany	99	1	A	M
+6204	584339	1	2	166	3	Jan	Kozman	Bc.		32	manažer	Borkovany	99	166	A	M
+6204	584339	1	1	1	4	Lukáš	Matějka			28	technik	Borkovany	99	1	A	M
+6204	584339	1	2	166	4	Jiří	Petlák			67	OSVČ	Borkovany	99	166	A	M
+6204	584339	1	1	1	5	Andrea	Tarodiová			21	studentka VOŠ	Borkovany	99	1	A	F
+6204	584339	1	2	166	5	Josef	Čiháček			65	technik	Borkovany	99	166	A	M
+6204	584339	1	1	1	6	Marie	Ben Ouirane			47	bankovní úřednice	Borkovany	99	1	A	F
+6204	584339	1	2	166	6	Vlastimil	Urban			59	pracovník strojní údržby	Borkovany	99	166	A	M
+6204	584339	1	1	1	7	Patrik	Milota			20	student	Borkovany	99	1	A	M
+6204	584339	1	2	166	7	Jaroslav	Bedřich			50	OSVČ	Borkovany	99	166	A	M
+6204	584339	1	1	1	8	Roman	Tichý			36	CNC operátor	Borkovany	99	1	A	M
+6204	584339	1	2	166	8	Zdeněk	Šebesta	Ing.		63	vedoucí STK	Borkovany	99	166	A	M
+6204	584339	1	1	1	9	Vlastimil	Bedřich			56	zámečník	Borkovany	99	1	A	M
+6204	584339	1	2	166	9	Marek	Topolář	Ing.		28	OSVČ	Borkovany	99	166	A	M

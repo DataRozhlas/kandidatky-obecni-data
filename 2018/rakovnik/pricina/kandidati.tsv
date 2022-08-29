@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	542253	1	1	902	1	Monika	Kubičková	F			42	prodavačka	Příčina	99	80	A
-2112	542253	1	1	902	2	Martina	Vorlová	F	Mgr.		46	učitelka	Příčina	99	80	A
-2112	542253	1	1	902	3	Zdeněk	Vorel	M			47	zedník	Příčina	99	80	A
-2112	542253	1	1	902	4	Hana	Jarošová	F	Mgr.		49	fyzioterapeut	Příčina	99	80	A
-2112	542253	1	1	902	5	František	Horn	M			68	důchodce	Příčina	99	80	A
-2112	542253	1	1	902	6	Jana	Procházková	F			43	pracovnice v sociálních službách	Příčina	99	80	A
-2112	542253	1	1	902	7	Lucie	Opatová	F			25	mateřská dovolená	Příčina	99	80	A
-2112	542253	1	1	902	8	Miroslav	Beneš	M			64	důchodce	Příčina	99	80	A
-2112	542253	1	1	902	9	Zdeněk	Beneš	M			61	invalidní důchodce	Příčina	99	80	A
-2112	542253	1	2	901	1	Tomáš	Kubička	M			31	policista	Příčina	99	80	A
-2112	542253	1	2	901	2	Petr	Krupička	M			50	řidič	Příčina	99	80	A
-2112	542253	1	2	901	3	Miroslav	Kos	M			46	mistr ve výrobě	Příčina	99	80	A
-2112	542253	1	2	901	4	Martin	Tittelbach	M			37	traktorista	Příčina	99	80	A
-2112	542253	1	2	901	5	David	Vorel	M			25	policista	Příčina	99	80	A
-2112	542253	1	2	901	6	Dominik	Procházka	M			25	OSVČ	Příčina	99	80	A
-2112	542253	1	2	901	7	Tomáš	Franče	M			31	strojník	Příčina	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	542253	1	1	902	1	Monika	Kubičková			42	prodavačka	Příčina	99	80	A	F
+2112	542253	1	2	901	1	Tomáš	Kubička			31	policista	Příčina	99	80	A	M
+2112	542253	1	1	902	2	Martina	Vorlová	Mgr.		46	učitelka	Příčina	99	80	A	F
+2112	542253	1	2	901	2	Petr	Krupička			50	řidič	Příčina	99	80	A	M
+2112	542253	1	1	902	3	Zdeněk	Vorel			47	zedník	Příčina	99	80	A	M
+2112	542253	1	2	901	3	Miroslav	Kos			46	mistr ve výrobě	Příčina	99	80	A	M
+2112	542253	1	1	902	4	Hana	Jarošová	Mgr.		49	fyzioterapeut	Příčina	99	80	A	F
+2112	542253	1	2	901	4	Martin	Tittelbach			37	traktorista	Příčina	99	80	A	M
+2112	542253	1	1	902	5	František	Horn			68	důchodce	Příčina	99	80	A	M
+2112	542253	1	2	901	5	David	Vorel			25	policista	Příčina	99	80	A	M
+2112	542253	1	1	902	6	Jana	Procházková			43	pracovnice v sociálních službách	Příčina	99	80	A	F
+2112	542253	1	2	901	6	Dominik	Procházka			25	OSVČ	Příčina	99	80	A	M
+2112	542253	1	1	902	7	Lucie	Opatová			25	mateřská dovolená	Příčina	99	80	A	F
+2112	542253	1	2	901	7	Tomáš	Franče			31	strojník	Příčina	99	80	A	M
+2112	542253	1	1	902	8	Miroslav	Beneš			64	důchodce	Příčina	99	80	A	M
+2112	542253	1	1	902	9	Zdeněk	Beneš			61	invalidní důchodce	Příčina	99	80	A	M

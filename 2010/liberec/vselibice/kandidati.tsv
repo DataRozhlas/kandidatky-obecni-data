@@ -1,40 +1,40 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5103	564532	1	1	901	1	Václav	Růta	M			31	jednatel TES Č.Dub s.r.o.	Březová	99	80	0
-5103	564532	1	1	901	2	Martina	Šámalová	F			32	asistentka	Březová	99	80	0
-5103	564532	1	1	901	3	Soňa	Vanderová	F			48	lisařka	Březová	99	80	0
-5103	564532	1	1	901	4	Alena	Štemprochová	F			23	na mateřské dovolené	Březová	99	80	0
-5103	564532	1	1	901	5	Radek	Ludvík	M			32	vedoucí nástrojárny	Březová	99	80	0
-5103	564532	1	1	901	6	Jiří	Havlík	M			23	směnový mistr	Březová	99	80	0
-5103	564532	1	1	901	7	Jiří	Porš	M			65	důchodce	Březová	99	80	0
-5103	564532	1	1	901	8	Jaroslav	Šámal	M			36	vedoucí výroby	Březová	99	80	0
-5103	564532	1	1	901	9	Václav	Růta	M			61	podnikatel	Březová	99	80	0
-5103	564532	1	2	902	1	Jitka	Rybářová	F			44	terénní sestra	Nesvačily	99	80	0
-5103	564532	1	2	902	2	Lenka	Čechová	F			30	dělnice	Přibyslavice	99	80	0
-5103	564532	1	2	902	3	Petr	Nejedlo	M			38	provozní zámečník	Vrtky	99	80	0
-5103	564532	1	2	902	4	Ladislav	Brož	M			54	dělník	Benešovice	99	80	0
-5103	564532	1	2	902	5	Milena	Krejčíková	F			68	důchodkyně	Chlístov	99	80	0
-5103	564532	1	2	902	6	Irena	Koštejnová	F			38	dělnice	Vrtky	99	80	0
-5103	564532	1	2	902	7	Jiří	Sameš	M	Ing.		51	předseda představenstva	Roveň	99	80	0
-5103	564532	1	2	902	8	Marek	Jáč	M	Bc.		23	student	Malčice	99	80	0
-5103	564532	1	2	902	9	Eliška	Sládková	F			60	důchodkyně	Vrtky	99	80	0
-5103	564532	1	2	902	10	Marie	Crháková	F			55	dělnice	Vrtky	99	80	0
-5103	564532	1	2	902	11	Michaela	Vébrová	F			31	prodejce	Malčice	99	80	0
-5103	564532	1	2	902	12	Miluše	Laurynová	F			80	důchodkyně	Nesvačily	99	80	0
-5103	564532	1	2	902	13	Hubert	Kovář	M			51	revizní technik	Vrtky	99	80	0
-5103	564532	1	2	902	14	Anežka	Kolomazníková	F			78	důchodkyně	Vrtky	99	80	0
-5103	564532	1	2	902	15	Jaroslava	Kovářová	F			49	prodavačka	Vrtky	99	80	0
-5103	564532	1	3	903	1	Jaroslav	Čermák	M			59	starosta	Všelibice	99	80	0
-5103	564532	1	3	903	2	Miloš	Müller	M			62	důchodce	Všelibice	99	80	0
-5103	564532	1	3	903	3	Zdeněk	Česák	M			51	strojník zemních strojů	Všelibice	99	80	0
-5103	564532	1	3	903	4	Zdeněk	Lebeda	M			45	neutralizér	Roveň	99	80	0
-5103	564532	1	3	903	5	Denisa	Jandusová	F			43	státní zaměstnanec	Roveň	99	80	0
-5103	564532	1	3	903	6	Martina	Sluková	F	Bc.		34	učitelka MŠ	Všelibice	99	80	0
-5103	564532	1	3	903	7	Josef	Želechovský	M			43	stavitel	Všelibice	99	80	0
-5103	564532	1	3	903	8	Josef	Sadílek	M			39	odborný hospodář	Všelibice	99	80	0
-5103	564532	1	3	903	9	Filip	Kolomazník	M			41	IT analytik	Budíkov	99	80	0
-5103	564532	1	3	903	10	Jiří	Růta	M			58	řidič - opravář	Budíkov	99	80	0
-5103	564532	1	3	903	11	Milan	Tvrzník	M	Mgr.		53	učitel	Všelibice	99	80	0
-5103	564532	1	3	903	12	Bohuslav	Rybář	M	Ing.		59	technik	Budíkov	99	80	0
-5103	564532	1	3	903	13	Zdeněk	Holaj	M			62	důchodce	Roveň	99	80	0
-5103	564532	1	3	903	14	Michal	Česák	M			23	provozní elektrikář	Všelibice	99	80	0
-5103	564532	1	3	903	15	Dalibor	Binter	M			46	státní zaměstnanec	Všelibice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5103	564532	1	1	901	1	Václav	Růta			31	jednatel TES Č.Dub s.r.o.	Březová	99	80	0	M
+5103	564532	1	2	902	1	Jitka	Rybářová			44	terénní sestra	Nesvačily	99	80	0	F
+5103	564532	1	3	903	1	Jaroslav	Čermák			59	starosta	Všelibice	99	80	0	M
+5103	564532	1	1	901	2	Martina	Šámalová			32	asistentka	Březová	99	80	0	F
+5103	564532	1	2	902	2	Lenka	Čechová			30	dělnice	Přibyslavice	99	80	0	F
+5103	564532	1	3	903	2	Miloš	Müller			62	důchodce	Všelibice	99	80	0	M
+5103	564532	1	1	901	3	Soňa	Vanderová			48	lisařka	Březová	99	80	0	F
+5103	564532	1	2	902	3	Petr	Nejedlo			38	provozní zámečník	Vrtky	99	80	0	M
+5103	564532	1	3	903	3	Zdeněk	Česák			51	strojník zemních strojů	Všelibice	99	80	0	M
+5103	564532	1	1	901	4	Alena	Štemprochová			23	na mateřské dovolené	Březová	99	80	0	F
+5103	564532	1	2	902	4	Ladislav	Brož			54	dělník	Benešovice	99	80	0	M
+5103	564532	1	3	903	4	Zdeněk	Lebeda			45	neutralizér	Roveň	99	80	0	M
+5103	564532	1	1	901	5	Radek	Ludvík			32	vedoucí nástrojárny	Březová	99	80	0	M
+5103	564532	1	2	902	5	Milena	Krejčíková			68	důchodkyně	Chlístov	99	80	0	F
+5103	564532	1	3	903	5	Denisa	Jandusová			43	státní zaměstnanec	Roveň	99	80	0	F
+5103	564532	1	1	901	6	Jiří	Havlík			23	směnový mistr	Březová	99	80	0	M
+5103	564532	1	2	902	6	Irena	Koštejnová			38	dělnice	Vrtky	99	80	0	F
+5103	564532	1	3	903	6	Martina	Sluková	Bc.		34	učitelka MŠ	Všelibice	99	80	0	F
+5103	564532	1	1	901	7	Jiří	Porš			65	důchodce	Březová	99	80	0	M
+5103	564532	1	2	902	7	Jiří	Sameš	Ing.		51	předseda představenstva	Roveň	99	80	0	M
+5103	564532	1	3	903	7	Josef	Želechovský			43	stavitel	Všelibice	99	80	0	M
+5103	564532	1	1	901	8	Jaroslav	Šámal			36	vedoucí výroby	Březová	99	80	0	M
+5103	564532	1	2	902	8	Marek	Jáč	Bc.		23	student	Malčice	99	80	0	M
+5103	564532	1	3	903	8	Josef	Sadílek			39	odborný hospodář	Všelibice	99	80	0	M
+5103	564532	1	1	901	9	Václav	Růta			61	podnikatel	Březová	99	80	0	M
+5103	564532	1	2	902	9	Eliška	Sládková			60	důchodkyně	Vrtky	99	80	0	F
+5103	564532	1	3	903	9	Filip	Kolomazník			41	IT analytik	Budíkov	99	80	0	M
+5103	564532	1	2	902	10	Marie	Crháková			55	dělnice	Vrtky	99	80	0	F
+5103	564532	1	3	903	10	Jiří	Růta			58	řidič - opravář	Budíkov	99	80	0	M
+5103	564532	1	2	902	11	Michaela	Vébrová			31	prodejce	Malčice	99	80	0	F
+5103	564532	1	3	903	11	Milan	Tvrzník	Mgr.		53	učitel	Všelibice	99	80	0	M
+5103	564532	1	2	902	12	Miluše	Laurynová			80	důchodkyně	Nesvačily	99	80	0	F
+5103	564532	1	3	903	12	Bohuslav	Rybář	Ing.		59	technik	Budíkov	99	80	0	M
+5103	564532	1	2	902	13	Hubert	Kovář			51	revizní technik	Vrtky	99	80	0	M
+5103	564532	1	3	903	13	Zdeněk	Holaj			62	důchodce	Roveň	99	80	0	M
+5103	564532	1	2	902	14	Anežka	Kolomazníková			78	důchodkyně	Vrtky	99	80	0	F
+5103	564532	1	3	903	14	Michal	Česák			23	provozní elektrikář	Všelibice	99	80	0	M
+5103	564532	1	2	902	15	Jaroslava	Kovářová			49	prodavačka	Vrtky	99	80	0	F
+5103	564532	1	3	903	15	Dalibor	Binter			46	státní zaměstnanec	Všelibice	99	80	0	M

@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2105	531014	1	1	801	1	Václava	Langrová	F	Ing.		25	úřednice	Vodranty	99	80	0
-2105	531014	1	2	901	1	Dana	Fofoňková	F			27	vedoucí	Vodranty	99	80	0
-2105	531014	1	2	901	2	Jaroslav	Krčmář	M			47	instalatér	Vodranty	99	80	0
-2105	531014	1	2	901	3	Vlastimila	Krumlová	F			48	učitelka v  MŠ	Vodranty	99	80	0
-2105	531014	1	2	901	4	Tomáš	Kalina	M			30	prodejce	Vodranty	99	80	0
-2105	531014	1	2	901	5	Milada	Hillmannová	F			47	pekařka	Vodranty	99	80	0
-2105	531014	1	3	902	1	Ilona	Vavřičková	F			30	procesní inženýr	Vodranty	99	80	0
-2105	531014	1	3	902	2	Radek	Šťastný	M			40	svářeč	Vodranty	99	80	0
-2105	531014	1	3	902	3	Zdeněk	Polák	M			33	zámečník	Vodranty	99	80	0
-2105	531014	1	3	902	4	Miloslav	Vavřička	M			58	technik	Vodranty	99	80	0
-2105	531014	1	3	902	5	Milan	Paták	M			59	důchodce	Vodranty	99	80	0
-2105	531014	1	3	902	6	Milan	Paták	M			34	mistr	Vodranty	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2105	531014	1	1	801	1	Václava	Langrová	Ing.		25	úřednice	Vodranty	99	80	0	F
+2105	531014	1	2	901	1	Dana	Fofoňková			27	vedoucí	Vodranty	99	80	0	F
+2105	531014	1	3	902	1	Ilona	Vavřičková			30	procesní inženýr	Vodranty	99	80	0	F
+2105	531014	1	2	901	2	Jaroslav	Krčmář			47	instalatér	Vodranty	99	80	0	M
+2105	531014	1	3	902	2	Radek	Šťastný			40	svářeč	Vodranty	99	80	0	M
+2105	531014	1	2	901	3	Vlastimila	Krumlová			48	učitelka v  MŠ	Vodranty	99	80	0	F
+2105	531014	1	3	902	3	Zdeněk	Polák			33	zámečník	Vodranty	99	80	0	M
+2105	531014	1	2	901	4	Tomáš	Kalina			30	prodejce	Vodranty	99	80	0	M
+2105	531014	1	3	902	4	Miloslav	Vavřička			58	technik	Vodranty	99	80	0	M
+2105	531014	1	2	901	5	Milada	Hillmannová			47	pekařka	Vodranty	99	80	0	F
+2105	531014	1	3	902	5	Milan	Paták			59	důchodce	Vodranty	99	80	0	M
+2105	531014	1	3	902	6	Milan	Paták			34	mistr	Vodranty	99	80	0	M

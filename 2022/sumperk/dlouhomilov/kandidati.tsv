@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	533688	1	1	902	1	Miroslava	Losová	F			49	referent	Dlouhomilov	99	80	A
-7105	533688	1	1	902	2	Jana	Hrubá	F			74	důchodkyně	Dlouhomilov	99	80	A
-7105	533688	1	1	902	3	Tomáš	Nosek	M			44	OSVČ	Dlouhomilov	99	80	A
-7105	533688	1	1	902	4	Romana	Kretschmerová	F			31	vedoucí pošty	Dlouhomilov	99	80	A
-7105	533688	1	2	901	1	Jiří	Štelc	M			54	vedoucí lesní společnosti	Benkov	99	80	A
-7105	533688	1	2	901	2	Josef	Bubeník	M	Ing.		73	výzkumný pracovník	Dlouhomilov	99	80	A
-7105	533688	1	2	901	3	Lenka	Vlčková	F	Mgr.		45	úřednice	Dlouhomilov	99	80	A
-7105	533688	1	2	901	4	Lenka	Šafářová	F			45	účetní	Dlouhomilov	99	80	A
-7105	533688	1	2	901	5	Jindra	Hvižďová	F			45	ekonom	Dlouhomilov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	533688	1	1	902	1	Miroslava	Losová			49	referent	Dlouhomilov	99	80	A	F
+7105	533688	1	2	901	1	Jiří	Štelc			54	vedoucí lesní společnosti	Benkov	99	80	A	M
+7105	533688	1	1	902	2	Jana	Hrubá			74	důchodkyně	Dlouhomilov	99	80	A	F
+7105	533688	1	2	901	2	Josef	Bubeník	Ing.		73	výzkumný pracovník	Dlouhomilov	99	80	A	M
+7105	533688	1	1	902	3	Tomáš	Nosek			44	OSVČ	Dlouhomilov	99	80	A	M
+7105	533688	1	2	901	3	Lenka	Vlčková	Mgr.		45	úřednice	Dlouhomilov	99	80	A	F
+7105	533688	1	1	902	4	Romana	Kretschmerová			31	vedoucí pošty	Dlouhomilov	99	80	A	F
+7105	533688	1	2	901	4	Lenka	Šafářová			45	účetní	Dlouhomilov	99	80	A	F
+7105	533688	1	2	901	5	Jindra	Hvižďová			45	ekonom	Dlouhomilov	99	80	A	F

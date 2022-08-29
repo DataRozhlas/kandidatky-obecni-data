@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	535842	1	1	805	1	Jan	Krčín	M			57	dělník	Mokrý Lom	99	80	0
-3101	535842	1	2	802	1	Martin	Ehrlich	M	Ing.		39	správce ICT	Mokrý Lom	99	80	0
-3101	535842	1	3	810	1	Václav	Vaclík	M			26	OSVČ	Mokrý Lom	99	80	0
-3101	535842	1	4	803	1	Jan	Zeman	M			24	obchodní manažer	Mokrý Lom	99	80	0
-3101	535842	1	5	806	1	Petr	Dychtl	M			34	brusič	Mokrý Lom	99	80	0
-3101	535842	1	6	809	1	Jaroslav	Kursa	M	MUDr.		44	lékař	Polžov	99	80	0
-3101	535842	1	7	801	1	Václav	Mojžíš	M			65	důchodce	Mokrý Lom	47	80	0
-3101	535842	1	8	804	1	Miroslav	Ančinec	M			62	v důchodu	Mokrý Lom	99	80	0
-3101	535842	1	9	807	1	Josef	Tybitancl	M	Ing.		61	hydrogeolog	Mokrý Lom	99	80	0
-3101	535842	1	10	808	1	Dušana	Brehovská Grofová	F			38	zástupce vedoucí	Mokrý Lom	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	535842	1	1	805	1	Jan	Krčín			57	dělník	Mokrý Lom	99	80	0	M
+3101	535842	1	2	802	1	Martin	Ehrlich	Ing.		39	správce ICT	Mokrý Lom	99	80	0	M
+3101	535842	1	3	810	1	Václav	Vaclík			26	OSVČ	Mokrý Lom	99	80	0	M
+3101	535842	1	4	803	1	Jan	Zeman			24	obchodní manažer	Mokrý Lom	99	80	0	M
+3101	535842	1	5	806	1	Petr	Dychtl			34	brusič	Mokrý Lom	99	80	0	M
+3101	535842	1	6	809	1	Jaroslav	Kursa	MUDr.		44	lékař	Polžov	99	80	0	M
+3101	535842	1	7	801	1	Václav	Mojžíš			65	důchodce	Mokrý Lom	47	80	0	M
+3101	535842	1	8	804	1	Miroslav	Ančinec			62	v důchodu	Mokrý Lom	99	80	0	M
+3101	535842	1	9	807	1	Josef	Tybitancl	Ing.		61	hydrogeolog	Mokrý Lom	99	80	0	M
+3101	535842	1	10	808	1	Dušana	Brehovská Grofová			38	zástupce vedoucí	Mokrý Lom	99	80	0	F

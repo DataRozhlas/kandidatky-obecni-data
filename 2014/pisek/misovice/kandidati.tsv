@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	549606	1	1	902	1	Vladimír	Čelakovský	M	Bc.		42	policista	Svučice	99	80	0
-3104	549606	1	1	902	2	Pavel	Vlasák	M			29	soukromý podnikatel	Draheničky	99	80	0
-3104	549606	1	1	902	3	Taťána	Fousová	F			42	cukrářka	Slavkovice	99	80	0
-3104	549606	1	1	902	4	Libor	Mařík	M			43	truhlář	Svučice	99	80	0
-3104	549606	1	1	902	5	Karel	Šrámek	M			71	důchodce	Mišovice	99	80	0
-3104	549606	1	1	902	6	Pavel	Dušek	M			24	soukromý zemědělec	Svučice	99	80	0
-3104	549606	1	1	902	7	Petr	Rutta	M	Ing.		31	technik rostlinné výroby	Slavkovice	99	80	0
-3104	549606	1	2	7	1	Bohumil	Volf	M			69	strážný u Bezpečnostní agentury	Mišovice	99	7	0
-3104	549606	1	2	7	2	Pavel	Závěšický	M			32	pracovník v zemědělství	Svučice	99	7	0
-3104	549606	1	2	7	3	Jiří	Kuděj	M			57	voják ve výslužbě	Pohoří	99	7	0
-3104	549606	1	2	7	4	Josef	Svoboda	M			59	tesař - truhlář	Pohoří	99	7	0
-3104	549606	1	2	7	5	Ivana	Linhartová	F			39	pletařka	Slavkovice	99	7	0
-3104	549606	1	2	7	6	Václav	Kolpek	M			68	opravář zemědělských strojů	Slavkovice	99	7	0
-3104	549606	1	2	7	7	Emília	Petrenková	F			67	konstruktérka v důchodu	Draheničky	99	7	0
-3104	549606	1	3	903	1	Marie	Žižková	F			67	důchodkyně	Mišovice	99	80	0
-3104	549606	1	3	903	2	Vlasta	Panýrková	F			56	prodavačka	Slavkovice	99	80	0
-3104	549606	1	3	903	3	Pavlína	Koubová	F			21	dělnice	Mišovice	99	80	0
-3104	549606	1	3	903	4	Markéta	Váňová	F			34	dělnice	Mišovice	99	80	0
-3104	549606	1	3	903	5	Veronika	Klysáková	F			27	dělnice	Svučice	99	80	0
-3104	549606	1	3	903	6	Přemysl	Horák	M			37	dělník	Svučice	99	80	0
-3104	549606	1	3	903	7	Petr	L'ol'o	M			59	dělník	Slavkovice	99	80	0
-3104	549606	1	4	901	1	Růžena	Blížilová	F			54	referent	Pohoří	99	80	0
-3104	549606	1	4	901	2	Jan	Mrvík	M			70	podnikatel	Draheničky	99	80	0
-3104	549606	1	4	901	3	Stanislav	Stoklasa	M	Bc.		38	policista	Pohoří	99	80	0
-3104	549606	1	4	901	4	Marie	Váchová	F			67	ekonomka	Mišovice	99	80	0
-3104	549606	1	4	901	5	Jaroslava	Rozhoňová	F			58	dělnice	Pohoří	99	80	0
-3104	549606	1	4	901	6	Jaroslava	Vejvodová	F			47	dělnice	Mišovice	99	80	0
-3104	549606	1	4	901	7	Milan	Jiruš	M			46	dělník	Slavkovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	549606	1	1	902	1	Vladimír	Čelakovský	Bc.		42	policista	Svučice	99	80	0	M
+3104	549606	1	2	7	1	Bohumil	Volf			69	strážný u Bezpečnostní agentury	Mišovice	99	7	0	M
+3104	549606	1	3	903	1	Marie	Žižková			67	důchodkyně	Mišovice	99	80	0	F
+3104	549606	1	4	901	1	Růžena	Blížilová			54	referent	Pohoří	99	80	0	F
+3104	549606	1	1	902	2	Pavel	Vlasák			29	soukromý podnikatel	Draheničky	99	80	0	M
+3104	549606	1	2	7	2	Pavel	Závěšický			32	pracovník v zemědělství	Svučice	99	7	0	M
+3104	549606	1	3	903	2	Vlasta	Panýrková			56	prodavačka	Slavkovice	99	80	0	F
+3104	549606	1	4	901	2	Jan	Mrvík			70	podnikatel	Draheničky	99	80	0	M
+3104	549606	1	1	902	3	Taťána	Fousová			42	cukrářka	Slavkovice	99	80	0	F
+3104	549606	1	2	7	3	Jiří	Kuděj			57	voják ve výslužbě	Pohoří	99	7	0	M
+3104	549606	1	3	903	3	Pavlína	Koubová			21	dělnice	Mišovice	99	80	0	F
+3104	549606	1	4	901	3	Stanislav	Stoklasa	Bc.		38	policista	Pohoří	99	80	0	M
+3104	549606	1	1	902	4	Libor	Mařík			43	truhlář	Svučice	99	80	0	M
+3104	549606	1	2	7	4	Josef	Svoboda			59	tesař - truhlář	Pohoří	99	7	0	M
+3104	549606	1	3	903	4	Markéta	Váňová			34	dělnice	Mišovice	99	80	0	F
+3104	549606	1	4	901	4	Marie	Váchová			67	ekonomka	Mišovice	99	80	0	F
+3104	549606	1	1	902	5	Karel	Šrámek			71	důchodce	Mišovice	99	80	0	M
+3104	549606	1	2	7	5	Ivana	Linhartová			39	pletařka	Slavkovice	99	7	0	F
+3104	549606	1	3	903	5	Veronika	Klysáková			27	dělnice	Svučice	99	80	0	F
+3104	549606	1	4	901	5	Jaroslava	Rozhoňová			58	dělnice	Pohoří	99	80	0	F
+3104	549606	1	1	902	6	Pavel	Dušek			24	soukromý zemědělec	Svučice	99	80	0	M
+3104	549606	1	2	7	6	Václav	Kolpek			68	opravář zemědělských strojů	Slavkovice	99	7	0	M
+3104	549606	1	3	903	6	Přemysl	Horák			37	dělník	Svučice	99	80	0	M
+3104	549606	1	4	901	6	Jaroslava	Vejvodová			47	dělnice	Mišovice	99	80	0	F
+3104	549606	1	1	902	7	Petr	Rutta	Ing.		31	technik rostlinné výroby	Slavkovice	99	80	0	M
+3104	549606	1	2	7	7	Emília	Petrenková			67	konstruktérka v důchodu	Draheničky	99	7	0	F
+3104	549606	1	3	903	7	Petr	L'ol'o			59	dělník	Slavkovice	99	80	0	M
+3104	549606	1	4	901	7	Milan	Jiruš			46	dělník	Slavkovice	99	80	0	M

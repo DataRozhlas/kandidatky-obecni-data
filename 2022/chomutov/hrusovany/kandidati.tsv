@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4202	563072	1	1	903	1	Martina	Kačírková	F			49	zástupkyně vedoucího prodejny	Hrušovany	99	80	A
-4202	563072	1	1	903	2	Eliška	Jiránek	F	Mgr.		28	lektorka	Hrušovany	99	80	A
-4202	563072	1	1	903	3	Zdeněk	Krotký	M			40	elektrikář v provozu	Hrušovany	99	80	A
-4202	563072	1	1	903	4	Petr	Jiránek	M			30	řidič	Hrušovany	99	80	A
-4202	563072	1	1	903	5	Helena	Svobodová	F			67	laborantka	Hrušovany	99	80	A
-4202	563072	1	1	903	6	Ivan	Hylský	M			44	operátor v provozu	Hrušovany	99	80	A
-4202	563072	1	1	903	7	David	Svoboda	M			23	truhlář	Hrušovany	99	80	A
-4202	563072	1	2	902	1	Jiří	Miklovič	M			53	zástupce vedoucího	Hrušovany	99	80	A
-4202	563072	1	2	902	2	Marcel	Miklovič	M			42	živnostník	Hrušovany	99	80	A
-4202	563072	1	2	902	3	Pavel	Lička	M			37	inženýr železniční dopravy	Hrušovany	99	80	A
-4202	563072	1	2	902	4	Gabriela	Miklovičová	F			50	kuchařka v MŠ	Hrušovany	99	80	A
-4202	563072	1	2	902	5	Milan	Jarisch	M			58	zámečník	Hrušovany	99	80	A
-4202	563072	1	2	902	6	Karel	Miklovič	M			33	invalidní důchodce	Hrušovany	99	80	A
-4202	563072	1	2	902	7	Denisa	Zmeškalová	F			30	personalistka	Hrušovany	99	80	A
-4202	563072	1	3	47	1	Jana	Hrušíková	F			57	ředitelka MŠ	Hrušovany	99	47	A
-4202	563072	1	3	47	2	Michal	Füleky	M	Mgr.		52	ředitel akciové společnosti	Vysočany	99	47	A
-4202	563072	1	3	47	3	René	Kukačka	M			31	údržbář	Hrušovany	99	47	A
-4202	563072	1	3	47	4	Vladimír	Vartáš	M			61	traktorista	Hrušovany	99	47	A
-4202	563072	1	3	47	5	Ludvík	Miklovič	M			64	obsluha zařízení	Hrušovany	99	47	A
-4202	563072	1	3	47	6	Štěpánka	Šlichtová	F			19	studentka	Lažany	99	47	A
-4202	563072	1	3	47	7	Eva	Baarová	F			61	důchodkyně	Hrušovany	99	47	A
-4202	563072	1	4	901	1	Petr	Šmíd	M	Ing.		57	starosta obce Hrušovany	Hrušovany	99	80	A
-4202	563072	1	4	901	2	Dana	Kukačková	F			52	administrativní pracovník	Hrušovany	99	80	A
-4202	563072	1	4	901	3	Pavlína	Krulišová	F			49	administrativní pracovník	Hrušovany	99	80	A
-4202	563072	1	4	901	4	Drahomila	Kramplová	F			70	veterinární asistent	Hrušovany	99	80	A
-4202	563072	1	4	901	5	Jiřina	Šlichtová	F			73	důchodce	Lažany	99	80	A
-4202	563072	1	4	901	6	Hana	Grunclová	F			50	zdravotní sestra	Hrušovany	99	80	A
-4202	563072	1	4	901	7	Radek	Zmeškal	M			52	údržbář	Hrušovany	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4202	563072	1	1	903	1	Martina	Kačírková			49	zástupkyně vedoucího prodejny	Hrušovany	99	80	A	F
+4202	563072	1	2	902	1	Jiří	Miklovič			53	zástupce vedoucího	Hrušovany	99	80	A	M
+4202	563072	1	3	47	1	Jana	Hrušíková			57	ředitelka MŠ	Hrušovany	99	47	A	F
+4202	563072	1	4	901	1	Petr	Šmíd	Ing.		57	starosta obce Hrušovany	Hrušovany	99	80	A	M
+4202	563072	1	1	903	2	Eliška	Jiránek	Mgr.		28	lektorka	Hrušovany	99	80	A	F
+4202	563072	1	2	902	2	Marcel	Miklovič			42	živnostník	Hrušovany	99	80	A	M
+4202	563072	1	3	47	2	Michal	Füleky	Mgr.		52	ředitel akciové společnosti	Vysočany	99	47	A	M
+4202	563072	1	4	901	2	Dana	Kukačková			52	administrativní pracovník	Hrušovany	99	80	A	F
+4202	563072	1	1	903	3	Zdeněk	Krotký			40	elektrikář v provozu	Hrušovany	99	80	A	M
+4202	563072	1	2	902	3	Pavel	Lička			37	inženýr železniční dopravy	Hrušovany	99	80	A	M
+4202	563072	1	3	47	3	René	Kukačka			31	údržbář	Hrušovany	99	47	A	M
+4202	563072	1	4	901	3	Pavlína	Krulišová			49	administrativní pracovník	Hrušovany	99	80	A	F
+4202	563072	1	1	903	4	Petr	Jiránek			30	řidič	Hrušovany	99	80	A	M
+4202	563072	1	2	902	4	Gabriela	Miklovičová			50	kuchařka v MŠ	Hrušovany	99	80	A	F
+4202	563072	1	3	47	4	Vladimír	Vartáš			61	traktorista	Hrušovany	99	47	A	M
+4202	563072	1	4	901	4	Drahomila	Kramplová			70	veterinární asistent	Hrušovany	99	80	A	F
+4202	563072	1	1	903	5	Helena	Svobodová			67	laborantka	Hrušovany	99	80	A	F
+4202	563072	1	2	902	5	Milan	Jarisch			58	zámečník	Hrušovany	99	80	A	M
+4202	563072	1	3	47	5	Ludvík	Miklovič			64	obsluha zařízení	Hrušovany	99	47	A	M
+4202	563072	1	4	901	5	Jiřina	Šlichtová			73	důchodce	Lažany	99	80	A	F
+4202	563072	1	1	903	6	Ivan	Hylský			44	operátor v provozu	Hrušovany	99	80	A	M
+4202	563072	1	2	902	6	Karel	Miklovič			33	invalidní důchodce	Hrušovany	99	80	A	M
+4202	563072	1	3	47	6	Štěpánka	Šlichtová			19	studentka	Lažany	99	47	A	F
+4202	563072	1	4	901	6	Hana	Grunclová			50	zdravotní sestra	Hrušovany	99	80	A	F
+4202	563072	1	1	903	7	David	Svoboda			23	truhlář	Hrušovany	99	80	A	M
+4202	563072	1	2	902	7	Denisa	Zmeškalová			30	personalistka	Hrušovany	99	80	A	F
+4202	563072	1	3	47	7	Eva	Baarová			61	důchodkyně	Hrušovany	99	47	A	F
+4202	563072	1	4	901	7	Radek	Zmeškal			52	údržbář	Hrušovany	99	80	A	M

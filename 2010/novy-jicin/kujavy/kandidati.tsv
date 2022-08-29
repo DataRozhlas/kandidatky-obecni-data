@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8104	555312	1	1	904	1	Miroslav	Štekl	M			32	zemědělec	Kujavy	99	80	0
-8104	555312	1	1	904	2	Jiří	Štekl	M			30	servisní technik	Kujavy	99	80	0
-8104	555312	1	1	904	3	Martin	Trčka	M			34	zámečník	Kujavy	99	80	0
-8104	555312	1	2	902	1	Jiří	Pospíšil	M			47	vedoucí výroby	Kujavy	99	80	0
-8104	555312	1	2	902	2	Oldřich	Gebauer	M			36	obsluha CNC stroje	Kujavy	99	80	0
-8104	555312	1	2	902	3	Pavel	Bajgar	M			27	svářeč	Kujavy	99	80	0
-8104	555312	1	3	901	1	Petra	Vojkůvková	F			32	starostka	Kujavy	99	80	0
-8104	555312	1	3	901	2	Petra	Mrovcová	F	MUDr.		31	zubní lékařka	Kujavy	99	80	0
-8104	555312	1	3	901	3	Markéta	Berková	F	Ing.		34	laborantka	Kujavy	99	80	0
-8104	555312	1	3	901	4	Jiří	Zajíček	M			38	podnikatel	Kujavy	99	80	0
-8104	555312	1	3	901	5	Ivana	Krejčířová	F			29	mateřská dovolená	Kujavy	99	80	0
-8104	555312	1	3	901	6	Zdeněk	Pavlík	M			32	podnikatel	Kujavy	99	80	0
-8104	555312	1	3	901	7	Jaromír	Beránek	M			38	programátor	Kujavy	99	80	0
-8104	555312	1	3	901	8	Antonín	Šlosar	M	Ing.		58	invalidní důchodce	Kujavy	99	80	0
-8104	555312	1	4	903	1	Alois	Tomeček	M			54	dělník	Kujavy	99	80	0
-8104	555312	1	4	903	2	Hana	Málková	F			39	prodavačka	Kujavy	99	80	0
-8104	555312	1	5	905	1	Markéta	Gebauerová	F			32	referent	Kujavy	99	80	0
-8104	555312	1	5	905	2	Radomíra	Tomečková	F			54	THP pracovník	Kujavy	99	80	0
-8104	555312	1	5	905	3	Andrea	Návratová	F			37	prodavačka	Kujavy	99	80	0
-8104	555312	1	5	905	4	Milan	Jochman	M			46	lakýrník	Kujavy	99	80	0
-8104	555312	1	5	905	5	Dušan	Šimečka	M			55	skladník	Kujavy	721	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8104	555312	1	1	904	1	Miroslav	Štekl			32	zemědělec	Kujavy	99	80	0	M
+8104	555312	1	2	902	1	Jiří	Pospíšil			47	vedoucí výroby	Kujavy	99	80	0	M
+8104	555312	1	3	901	1	Petra	Vojkůvková			32	starostka	Kujavy	99	80	0	F
+8104	555312	1	4	903	1	Alois	Tomeček			54	dělník	Kujavy	99	80	0	M
+8104	555312	1	5	905	1	Markéta	Gebauerová			32	referent	Kujavy	99	80	0	F
+8104	555312	1	1	904	2	Jiří	Štekl			30	servisní technik	Kujavy	99	80	0	M
+8104	555312	1	2	902	2	Oldřich	Gebauer			36	obsluha CNC stroje	Kujavy	99	80	0	M
+8104	555312	1	3	901	2	Petra	Mrovcová	MUDr.		31	zubní lékařka	Kujavy	99	80	0	F
+8104	555312	1	4	903	2	Hana	Málková			39	prodavačka	Kujavy	99	80	0	F
+8104	555312	1	5	905	2	Radomíra	Tomečková			54	THP pracovník	Kujavy	99	80	0	F
+8104	555312	1	1	904	3	Martin	Trčka			34	zámečník	Kujavy	99	80	0	M
+8104	555312	1	2	902	3	Pavel	Bajgar			27	svářeč	Kujavy	99	80	0	M
+8104	555312	1	3	901	3	Markéta	Berková	Ing.		34	laborantka	Kujavy	99	80	0	F
+8104	555312	1	5	905	3	Andrea	Návratová			37	prodavačka	Kujavy	99	80	0	F
+8104	555312	1	3	901	4	Jiří	Zajíček			38	podnikatel	Kujavy	99	80	0	M
+8104	555312	1	5	905	4	Milan	Jochman			46	lakýrník	Kujavy	99	80	0	M
+8104	555312	1	3	901	5	Ivana	Krejčířová			29	mateřská dovolená	Kujavy	99	80	0	F
+8104	555312	1	5	905	5	Dušan	Šimečka			55	skladník	Kujavy	721	80	0	M
+8104	555312	1	3	901	6	Zdeněk	Pavlík			32	podnikatel	Kujavy	99	80	0	M
+8104	555312	1	3	901	7	Jaromír	Beránek			38	programátor	Kujavy	99	80	0	M
+8104	555312	1	3	901	8	Antonín	Šlosar	Ing.		58	invalidní důchodce	Kujavy	99	80	0	M

@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4201	545899	1	1	902	1	Martina	Sýkorová	F			44	uklízečka	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	1	902	2	Renata	Kuchařová	F			40	zdr. sestra	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	1	902	3	Lucie	Štorková	F			35	zdr. sestra	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	1	902	4	Jitka	Cestrová	F			45	uklízečka	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	1	902	5	Kateřina	Horušická	F			41	dělník	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	1	902	6	Daniela	Sýkorová	F			23	prodavačka	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	1	902	7	Danuše	Škachová	F			52	uklizeč veřej.prostranství	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	2	901	1	Libor	Bzura	M			45	manažer	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	2	901	2	Miroslav	Kofroň	M			39	podnikatel	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	2	901	3	Lucie	Honzátková	F			32	mateřská dovolená	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	2	901	4	Tomislav	Rak	M			39	technik	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	2	901	5	Josef	Major	M			35	stavbyvedoucí	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	2	901	6	Petr	Havelka	M			51	strojník	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	2	901	7	Aleš	Werner	M			38	řidič	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	3	903	1	Václav	Lohniský	M			48	truhlář	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	3	903	2	Bohumila	Škachová	F			56	všeobecná účetní	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	3	903	3	Tomáš	Řezníček	M			35	soukromý podnikatel	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	3	903	4	Vratislav	Škoda	M			40	pokrývač - klempíř	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	3	903	5	Věra	Loosová	F			61	důchodce	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	3	903	6	Martin	Manžel	M			43	soukromý podnikatel	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	3	903	7	Jiří	Chodora	M			38	vedoucí prodejny	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	3	903	8	Josef	Lutr	M			56	zámečník	Františkov nad Ploučnicí	99	80	0
-4201	545899	1	3	903	9	Jiří	Kuchař	M			32	soukromý podnikatel	Františkov nad Ploučnicí	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4201	545899	1	1	902	1	Martina	Sýkorová			44	uklízečka	Františkov nad Ploučnicí	99	80	0	F
+4201	545899	1	2	901	1	Libor	Bzura			45	manažer	Františkov nad Ploučnicí	99	80	0	M
+4201	545899	1	3	903	1	Václav	Lohniský			48	truhlář	Františkov nad Ploučnicí	99	80	0	M
+4201	545899	1	1	902	2	Renata	Kuchařová			40	zdr. sestra	Františkov nad Ploučnicí	99	80	0	F
+4201	545899	1	2	901	2	Miroslav	Kofroň			39	podnikatel	Františkov nad Ploučnicí	99	80	0	M
+4201	545899	1	3	903	2	Bohumila	Škachová			56	všeobecná účetní	Františkov nad Ploučnicí	99	80	0	F
+4201	545899	1	1	902	3	Lucie	Štorková			35	zdr. sestra	Františkov nad Ploučnicí	99	80	0	F
+4201	545899	1	2	901	3	Lucie	Honzátková			32	mateřská dovolená	Františkov nad Ploučnicí	99	80	0	F
+4201	545899	1	3	903	3	Tomáš	Řezníček			35	soukromý podnikatel	Františkov nad Ploučnicí	99	80	0	M
+4201	545899	1	1	902	4	Jitka	Cestrová			45	uklízečka	Františkov nad Ploučnicí	99	80	0	F
+4201	545899	1	2	901	4	Tomislav	Rak			39	technik	Františkov nad Ploučnicí	99	80	0	M
+4201	545899	1	3	903	4	Vratislav	Škoda			40	pokrývač - klempíř	Františkov nad Ploučnicí	99	80	0	M
+4201	545899	1	1	902	5	Kateřina	Horušická			41	dělník	Františkov nad Ploučnicí	99	80	0	F
+4201	545899	1	2	901	5	Josef	Major			35	stavbyvedoucí	Františkov nad Ploučnicí	99	80	0	M
+4201	545899	1	3	903	5	Věra	Loosová			61	důchodce	Františkov nad Ploučnicí	99	80	0	F
+4201	545899	1	1	902	6	Daniela	Sýkorová			23	prodavačka	Františkov nad Ploučnicí	99	80	0	F
+4201	545899	1	2	901	6	Petr	Havelka			51	strojník	Františkov nad Ploučnicí	99	80	0	M
+4201	545899	1	3	903	6	Martin	Manžel			43	soukromý podnikatel	Františkov nad Ploučnicí	99	80	0	M
+4201	545899	1	1	902	7	Danuše	Škachová			52	uklizeč veřej.prostranství	Františkov nad Ploučnicí	99	80	0	F
+4201	545899	1	2	901	7	Aleš	Werner			38	řidič	Františkov nad Ploučnicí	99	80	0	M
+4201	545899	1	3	903	7	Jiří	Chodora			38	vedoucí prodejny	Františkov nad Ploučnicí	99	80	0	M
+4201	545899	1	3	903	8	Josef	Lutr			56	zámečník	Františkov nad Ploučnicí	99	80	0	M
+4201	545899	1	3	903	9	Jiří	Kuchař			32	soukromý podnikatel	Františkov nad Ploučnicí	99	80	0	M

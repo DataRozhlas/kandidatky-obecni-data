@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5104	577685	1	1	801	1	Petr	Matuška	M			34	řidič	Vyskeř	99	80	0
-5104	577685	1	2	802	1	Martin	Hrnčíř	M			38	fin. poradce	Vyskeř	714	80	0
-5104	577685	1	3	803	1	Roman	Malík	M			31	číšník	Vyskeř	99	80	0
-5104	577685	1	4	901	1	Lucie	Hájková	F	Ing.		29	procesní analytik	Vyskeř	99	80	0
-5104	577685	1	4	901	2	Jiří	Karmazin	M			48	živnostník	Vyskeř	99	80	0
-5104	577685	1	4	901	3	Jiří	Jirman	M			40	technik	Vyskeř	99	80	0
-5104	577685	1	4	901	4	Dana	Libenská	F	Ing.		47	projektant	Vyskeř	99	80	0
-5104	577685	1	4	901	5	Jiří	Holý	M	Bc.		33	obchodní zástupce	Skalany	99	80	0
-5104	577685	1	4	901	6	Miluše	Bémová	F	Ing.		37	výpravčí ČD	Vyskeř	99	80	0
-5104	577685	1	4	901	7	Filip	Stárek	M	Mgr.		44	vedoucí TJ	Lažany	99	80	0
-5104	577685	1	4	901	8	Slavomír	Konvalinka	M			37	OSVČ	Vyskeř	99	80	0
-5104	577685	1	4	901	9	Marek	Průcha	M	MUDr.		36	lékař	Vyskeř	99	80	0
-5104	577685	1	5	902	1	Doubravka	Fišerová	F	Mgr.		31	OSVČ	Mladostov	99	80	0
-5104	577685	1	5	902	2	František	Šimek	M			49	vedoucí provozu SČVK	Vyskeř	99	80	0
-5104	577685	1	5	902	3	Miluše	Zemánková	F	MVDr.		42	OSVČ	Vyskeř	99	80	0
-5104	577685	1	5	902	4	Jana	Kozáková	F	Mgr.		59	důchodkyně	Vyskeř	99	80	0
-5104	577685	1	5	902	5	Jan	Kozák	M			30	metodik SFŽP	Vyskeř	99	80	0
-5104	577685	1	5	902	6	Markéta	Kovářová	F			42	zlatnice	Vyskeř	99	80	0
-5104	577685	1	5	902	7	Rostislav	Vocásek	M			44	OSVČ	Lažany	99	80	0
-5104	577685	1	5	902	8	Jaroslav	Obročník	M			63	důchodce	Skalany	99	80	0
-5104	577685	1	5	902	9	Jiří	Hájek	M			65	důchodce	Vyskeř	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5104	577685	1	1	801	1	Petr	Matuška			34	řidič	Vyskeř	99	80	0	M
+5104	577685	1	2	802	1	Martin	Hrnčíř			38	fin. poradce	Vyskeř	714	80	0	M
+5104	577685	1	3	803	1	Roman	Malík			31	číšník	Vyskeř	99	80	0	M
+5104	577685	1	4	901	1	Lucie	Hájková	Ing.		29	procesní analytik	Vyskeř	99	80	0	F
+5104	577685	1	5	902	1	Doubravka	Fišerová	Mgr.		31	OSVČ	Mladostov	99	80	0	F
+5104	577685	1	4	901	2	Jiří	Karmazin			48	živnostník	Vyskeř	99	80	0	M
+5104	577685	1	5	902	2	František	Šimek			49	vedoucí provozu SČVK	Vyskeř	99	80	0	M
+5104	577685	1	4	901	3	Jiří	Jirman			40	technik	Vyskeř	99	80	0	M
+5104	577685	1	5	902	3	Miluše	Zemánková	MVDr.		42	OSVČ	Vyskeř	99	80	0	F
+5104	577685	1	4	901	4	Dana	Libenská	Ing.		47	projektant	Vyskeř	99	80	0	F
+5104	577685	1	5	902	4	Jana	Kozáková	Mgr.		59	důchodkyně	Vyskeř	99	80	0	F
+5104	577685	1	4	901	5	Jiří	Holý	Bc.		33	obchodní zástupce	Skalany	99	80	0	M
+5104	577685	1	5	902	5	Jan	Kozák			30	metodik SFŽP	Vyskeř	99	80	0	M
+5104	577685	1	4	901	6	Miluše	Bémová	Ing.		37	výpravčí ČD	Vyskeř	99	80	0	F
+5104	577685	1	5	902	6	Markéta	Kovářová			42	zlatnice	Vyskeř	99	80	0	F
+5104	577685	1	4	901	7	Filip	Stárek	Mgr.		44	vedoucí TJ	Lažany	99	80	0	M
+5104	577685	1	5	902	7	Rostislav	Vocásek			44	OSVČ	Lažany	99	80	0	M
+5104	577685	1	4	901	8	Slavomír	Konvalinka			37	OSVČ	Vyskeř	99	80	0	M
+5104	577685	1	5	902	8	Jaroslav	Obročník			63	důchodce	Skalany	99	80	0	M
+5104	577685	1	4	901	9	Marek	Průcha	MUDr.		36	lékař	Vyskeř	99	80	0	M
+5104	577685	1	5	902	9	Jiří	Hájek			65	důchodce	Vyskeř	99	80	0	M

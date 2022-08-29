@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	555240	1	1	7	1	Jan	Smola	M			40	starosta	Semanín	99	7	0
-5304	555240	1	1	7	2	Bohumír	Janisch	M			31	kontrolor jakosti	Semanín	99	7	0
-5304	555240	1	1	7	3	Petr	Jandera	M			45	živnostník	Semanín	99	7	0
-5304	555240	1	1	7	4	Miroslav	Báchor	M	Mgr.		28	učitel	Semanín	99	7	0
-5304	555240	1	1	7	5	Jan	Smola	M			63	důchodce	Semanín	99	7	0
-5304	555240	1	1	7	6	Jaroslava	Rybková	F			46	referent pohledávek	Semanín	99	7	0
-5304	555240	1	1	7	7	Zdeňka	Kozáková	F			72	důchodce	Semanín	7	7	0
-5304	555240	1	2	901	1	Miroslav	Kovář	M			42	řidič	Semanín	99	80	0
-5304	555240	1	2	901	2	Radka	Šenberková	F			30	rodičovská dovolená	Semanín	99	80	0
-5304	555240	1	2	901	3	Jana	Herynková	F			40	učitelka v mateřské škole	Semanín	99	80	0
-5304	555240	1	2	901	4	Vladimír	Štarman	M			31	elektromechanik	Semanín	99	80	0
-5304	555240	1	2	901	5	Anna	Bednárová	F			42	systémový specialista	Semanín	99	80	0
-5304	555240	1	2	901	6	Bohuslav	Sokol	M			33	vedoucí údržby	Semanín	99	80	0
-5304	555240	1	2	901	7	Vladimír	Herynek	M			34	údržbář	Semanín	99	80	0
-5304	555240	1	3	47	1	Čestmír	Horáček	M			53	agronom	Semanín	47	47	0
-5304	555240	1	3	47	2	František	Miko	M			46	dělník	Semanín	99	47	0
-5304	555240	1	3	47	3	Iveta	Barbořáková	F			39	invalidní důchodkyně	Semanín	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	555240	1	1	7	1	Jan	Smola			40	starosta	Semanín	99	7	0	M
+5304	555240	1	2	901	1	Miroslav	Kovář			42	řidič	Semanín	99	80	0	M
+5304	555240	1	3	47	1	Čestmír	Horáček			53	agronom	Semanín	47	47	0	M
+5304	555240	1	1	7	2	Bohumír	Janisch			31	kontrolor jakosti	Semanín	99	7	0	M
+5304	555240	1	2	901	2	Radka	Šenberková			30	rodičovská dovolená	Semanín	99	80	0	F
+5304	555240	1	3	47	2	František	Miko			46	dělník	Semanín	99	47	0	M
+5304	555240	1	1	7	3	Petr	Jandera			45	živnostník	Semanín	99	7	0	M
+5304	555240	1	2	901	3	Jana	Herynková			40	učitelka v mateřské škole	Semanín	99	80	0	F
+5304	555240	1	3	47	3	Iveta	Barbořáková			39	invalidní důchodkyně	Semanín	99	47	0	F
+5304	555240	1	1	7	4	Miroslav	Báchor	Mgr.		28	učitel	Semanín	99	7	0	M
+5304	555240	1	2	901	4	Vladimír	Štarman			31	elektromechanik	Semanín	99	80	0	M
+5304	555240	1	1	7	5	Jan	Smola			63	důchodce	Semanín	99	7	0	M
+5304	555240	1	2	901	5	Anna	Bednárová			42	systémový specialista	Semanín	99	80	0	F
+5304	555240	1	1	7	6	Jaroslava	Rybková			46	referent pohledávek	Semanín	99	7	0	F
+5304	555240	1	2	901	6	Bohuslav	Sokol			33	vedoucí údržby	Semanín	99	80	0	M
+5304	555240	1	1	7	7	Zdeňka	Kozáková			72	důchodce	Semanín	7	7	0	F
+5304	555240	1	2	901	7	Vladimír	Herynek			34	údržbář	Semanín	99	80	0	M

@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3207	561207	1	1	47	1	Oldřich	Hloušek	M			60	starosta obce	Stráž	99	47	0
-3207	561207	1	1	47	2	Jitka	Ježková	F			37	vedoucí střediska	Stráž	99	47	0
-3207	561207	1	1	47	3	Karel	Gabriel	M			54	výpravčí ČD	Stráž	99	47	0
-3207	561207	1	1	47	4	Radek	Radoš	M			28	soustružník	Bernartice	99	47	0
-3207	561207	1	1	47	5	Jan	Bachroň	M			56	zemědělský dělník	Stráž	99	47	0
-3207	561207	1	1	47	6	Jiřina	Nohová	F			50	dělnice	Stráž	99	47	0
-3207	561207	1	1	47	7	Vladimír	Bolek	M			45	lesní dělník	Strachovice	99	47	0
-3207	561207	1	1	47	8	Dušan	Polefka	M			61	důchodce	Stráž	99	47	0
-3207	561207	1	1	47	9	Miroslav	Tichý	M			48	vedoucí pracovník - Agroservis	Stráž	99	47	0
-3207	561207	1	2	1	1	Antonín	Stupka	M			53	samostatný odborný referent	Stráž	99	1	0
-3207	561207	1	2	1	2	František	Hlas	M			72	důchodce	Stráž	99	1	0
-3207	561207	1	2	1	3	Šárka	Dostálová	F			57	v domácnosti	Stráž	99	1	0
-3207	561207	1	2	1	4	Zdeňka	Smolová	F			61	důchodce	Dehetná	99	1	0
-3207	561207	1	2	1	5	Jiří	Havrda	M			34	údržbář	Stráž	99	1	0
-3207	561207	1	2	1	6	Miloslava	Fišerová	F			40	šička	Stráž	99	1	0
-3207	561207	1	2	1	7	Jaroslava	Bejdáková	F			54	kovodělnice	Stráž	99	1	0
-3207	561207	1	2	1	8	Marie	Marčanová	F			70	důchodkyně	Stráž	99	1	0
-3207	561207	1	2	1	9	Ludmila	Váchalová	F			70	důchodkyně	Stráž	1	1	0
-3207	561207	1	3	902	1	Věra	Koktová	F			55	kuchařka	Borek	99	80	0
-3207	561207	1	3	902	2	Marcela	Veselá	F			35	expeditorka	Stráž	99	80	0
-3207	561207	1	3	902	3	Milada	Vašíčková	F			47	vedoucí prodejny	Valcha	99	80	0
-3207	561207	1	3	902	4	Hana	Martincová	F			33	dělnice	Bonětice	99	80	0
-3207	561207	1	3	902	5	Igor	Hofmann	M			40	skladník	Stráž	99	80	0
-3207	561207	1	3	902	6	Bohumír	Šejba	M			47	mistr	Stráž	99	80	0
-3207	561207	1	3	902	7	Jan	Svoboda	M			39	kuchař	Strachovice	99	80	0
-3207	561207	1	3	902	8	Karel	Rada	M			58	správce	Stráž	99	80	0
-3207	561207	1	3	902	9	Petr	Bareš	M			31	elektrikář	Stráž	99	80	0
-3207	561207	1	4	901	1	Karel	Fišpera	M			44	policista	Bernartice	99	80	0
-3207	561207	1	4	901	2	Mikuláš	Timura	M			45	energetik	Bonětice	99	80	0
-3207	561207	1	4	901	3	Pavel	Radoš	M			47	dělník	Stráž	99	80	0
-3207	561207	1	4	901	4	Václav	Pinta	M			31	hasič	Bernartice	99	80	0
-3207	561207	1	4	901	5	Petra	Karnoldová	F			32	vedoucí výroby	Bernartice	99	80	0
-3207	561207	1	4	901	6	Jan	Petrášek	M			55	invalidní důchodce	Bonětičky	99	80	0
-3207	561207	1	4	901	7	Ladislav	Květ	M			32	odborný lesní hospodář	Stráž	99	80	0
-3207	561207	1	4	901	8	Štěpán	Soulek	M			57	technik	Strachovice	99	80	0
-3207	561207	1	4	901	9	Pavel	Klinka	M			39	mistr provozu	Bernartice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3207	561207	1	1	47	1	Oldřich	Hloušek			60	starosta obce	Stráž	99	47	0	M
+3207	561207	1	2	1	1	Antonín	Stupka			53	samostatný odborný referent	Stráž	99	1	0	M
+3207	561207	1	3	902	1	Věra	Koktová			55	kuchařka	Borek	99	80	0	F
+3207	561207	1	4	901	1	Karel	Fišpera			44	policista	Bernartice	99	80	0	M
+3207	561207	1	1	47	2	Jitka	Ježková			37	vedoucí střediska	Stráž	99	47	0	F
+3207	561207	1	2	1	2	František	Hlas			72	důchodce	Stráž	99	1	0	M
+3207	561207	1	3	902	2	Marcela	Veselá			35	expeditorka	Stráž	99	80	0	F
+3207	561207	1	4	901	2	Mikuláš	Timura			45	energetik	Bonětice	99	80	0	M
+3207	561207	1	1	47	3	Karel	Gabriel			54	výpravčí ČD	Stráž	99	47	0	M
+3207	561207	1	2	1	3	Šárka	Dostálová			57	v domácnosti	Stráž	99	1	0	F
+3207	561207	1	3	902	3	Milada	Vašíčková			47	vedoucí prodejny	Valcha	99	80	0	F
+3207	561207	1	4	901	3	Pavel	Radoš			47	dělník	Stráž	99	80	0	M
+3207	561207	1	1	47	4	Radek	Radoš			28	soustružník	Bernartice	99	47	0	M
+3207	561207	1	2	1	4	Zdeňka	Smolová			61	důchodce	Dehetná	99	1	0	F
+3207	561207	1	3	902	4	Hana	Martincová			33	dělnice	Bonětice	99	80	0	F
+3207	561207	1	4	901	4	Václav	Pinta			31	hasič	Bernartice	99	80	0	M
+3207	561207	1	1	47	5	Jan	Bachroň			56	zemědělský dělník	Stráž	99	47	0	M
+3207	561207	1	2	1	5	Jiří	Havrda			34	údržbář	Stráž	99	1	0	M
+3207	561207	1	3	902	5	Igor	Hofmann			40	skladník	Stráž	99	80	0	M
+3207	561207	1	4	901	5	Petra	Karnoldová			32	vedoucí výroby	Bernartice	99	80	0	F
+3207	561207	1	1	47	6	Jiřina	Nohová			50	dělnice	Stráž	99	47	0	F
+3207	561207	1	2	1	6	Miloslava	Fišerová			40	šička	Stráž	99	1	0	F
+3207	561207	1	3	902	6	Bohumír	Šejba			47	mistr	Stráž	99	80	0	M
+3207	561207	1	4	901	6	Jan	Petrášek			55	invalidní důchodce	Bonětičky	99	80	0	M
+3207	561207	1	1	47	7	Vladimír	Bolek			45	lesní dělník	Strachovice	99	47	0	M
+3207	561207	1	2	1	7	Jaroslava	Bejdáková			54	kovodělnice	Stráž	99	1	0	F
+3207	561207	1	3	902	7	Jan	Svoboda			39	kuchař	Strachovice	99	80	0	M
+3207	561207	1	4	901	7	Ladislav	Květ			32	odborný lesní hospodář	Stráž	99	80	0	M
+3207	561207	1	1	47	8	Dušan	Polefka			61	důchodce	Stráž	99	47	0	M
+3207	561207	1	2	1	8	Marie	Marčanová			70	důchodkyně	Stráž	99	1	0	F
+3207	561207	1	3	902	8	Karel	Rada			58	správce	Stráž	99	80	0	M
+3207	561207	1	4	901	8	Štěpán	Soulek			57	technik	Strachovice	99	80	0	M
+3207	561207	1	1	47	9	Miroslav	Tichý			48	vedoucí pracovník - Agroservis	Stráž	99	47	0	M
+3207	561207	1	2	1	9	Ludmila	Váchalová			70	důchodkyně	Stráž	1	1	0	F
+3207	561207	1	3	902	9	Petr	Bareš			31	elektrikář	Stráž	99	80	0	M
+3207	561207	1	4	901	9	Pavel	Klinka			39	mistr provozu	Bernartice	99	80	0	M

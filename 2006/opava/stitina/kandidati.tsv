@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	510491	1	1	47	1	Jana	Hynarová	F	Ing.		39	ekonomka	Štítina	99	47	0
-8105	510491	1	1	47	2	Jan	Hájek	M			53	státní zaměstnanec	Štítina	99	47	0
-8105	510491	1	1	47	3	Vladimír	Benda	M			47	mistr	Štítina	99	47	0
-8105	510491	1	1	47	4	Petr	Haluzík	M			44	soukromý podnikatel	Štítina	99	47	0
-8105	510491	1	1	47	5	Jiřina	Kříbková	F			48	personalistka	Štítina	99	47	0
-8105	510491	1	1	47	6	Luděk	Schweidler	M			30	soukromý podnikatel	Štítina	99	47	0
-8105	510491	1	1	47	7	Ivana	Rostková	F	Ing.		26	vysokoškolská učitelka	Štítina	99	47	0
-8105	510491	1	1	47	8	Karel	Ulrich	M			44	stavbyvedoucí	Štítina	99	47	0
-8105	510491	1	1	47	9	Pavel	Glosmann	M			52	mistr	Štítina	99	47	0
-8105	510491	1	2	1	1	Lenka	Rybářová	F			36	farmaceutická asistentka	Štítina	1	1	0
-8105	510491	1	2	1	2	Zdeněk	Šimeček	M			59	podnikatel	Štítina	99	1	0
-8105	510491	1	2	1	3	Jaroslav	Hubinka	M			50	technik	Štítina	99	1	0
-8105	510491	1	2	1	4	Martin	Pawlorek	M			27	vedoucí stavební činnosti	Štítina	99	1	0
-8105	510491	1	2	1	5	Kateřina	Šimečková	F	MUDr.		28	lékařka	Štítina	99	1	0
-8105	510491	1	2	1	6	Milena	Věntusová	F			59	důchodkyně	Štítina	99	1	0
-8105	510491	1	2	1	7	Věrka	Kotásková	F			59	důchodkyně	Štítina	99	1	0
-8105	510491	1	2	1	8	Anna	Kaštovská	F			59	důchodkyně	Štítina	99	1	0
-8105	510491	1	2	1	9	Petra	Grafová	F			32	prodavačka	Štítina	99	1	0
-8105	510491	1	3	901	1	Štěpán	Koník	M			52	starosta obce	Štítina	99	80	0
-8105	510491	1	3	901	2	Erich	Kaluža	M			48	agronom	Štítina	99	80	0
-8105	510491	1	3	901	3	Zbyněk	Skyba	M	Ing.		49	technik	Štítina	99	80	0
-8105	510491	1	3	901	4	Martin	Paroulek	M			45	podnikatel	Štítina	99	80	0
-8105	510491	1	3	901	5	Tomáš	Stoklasa	M			33	státní zaměstnanec	Štítina	99	80	0
-8105	510491	1	3	901	6	Alois	Brada	M	Ing.		59	podnikatel	Štítina	99	80	0
-8105	510491	1	3	901	7	Jiří	Bortel	M			32	instalatér	Štítina	99	80	0
-8105	510491	1	3	901	8	Vladislav	Kania	M	Ing.		60	technik	Štítina	99	80	0
-8105	510491	1	3	901	9	Lada	Horáková	F	Ing.		30	učitelka	Štítina	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	510491	1	1	47	1	Jana	Hynarová	Ing.		39	ekonomka	Štítina	99	47	0	F
+8105	510491	1	2	1	1	Lenka	Rybářová			36	farmaceutická asistentka	Štítina	1	1	0	F
+8105	510491	1	3	901	1	Štěpán	Koník			52	starosta obce	Štítina	99	80	0	M
+8105	510491	1	1	47	2	Jan	Hájek			53	státní zaměstnanec	Štítina	99	47	0	M
+8105	510491	1	2	1	2	Zdeněk	Šimeček			59	podnikatel	Štítina	99	1	0	M
+8105	510491	1	3	901	2	Erich	Kaluža			48	agronom	Štítina	99	80	0	M
+8105	510491	1	1	47	3	Vladimír	Benda			47	mistr	Štítina	99	47	0	M
+8105	510491	1	2	1	3	Jaroslav	Hubinka			50	technik	Štítina	99	1	0	M
+8105	510491	1	3	901	3	Zbyněk	Skyba	Ing.		49	technik	Štítina	99	80	0	M
+8105	510491	1	1	47	4	Petr	Haluzík			44	soukromý podnikatel	Štítina	99	47	0	M
+8105	510491	1	2	1	4	Martin	Pawlorek			27	vedoucí stavební činnosti	Štítina	99	1	0	M
+8105	510491	1	3	901	4	Martin	Paroulek			45	podnikatel	Štítina	99	80	0	M
+8105	510491	1	1	47	5	Jiřina	Kříbková			48	personalistka	Štítina	99	47	0	F
+8105	510491	1	2	1	5	Kateřina	Šimečková	MUDr.		28	lékařka	Štítina	99	1	0	F
+8105	510491	1	3	901	5	Tomáš	Stoklasa			33	státní zaměstnanec	Štítina	99	80	0	M
+8105	510491	1	1	47	6	Luděk	Schweidler			30	soukromý podnikatel	Štítina	99	47	0	M
+8105	510491	1	2	1	6	Milena	Věntusová			59	důchodkyně	Štítina	99	1	0	F
+8105	510491	1	3	901	6	Alois	Brada	Ing.		59	podnikatel	Štítina	99	80	0	M
+8105	510491	1	1	47	7	Ivana	Rostková	Ing.		26	vysokoškolská učitelka	Štítina	99	47	0	F
+8105	510491	1	2	1	7	Věrka	Kotásková			59	důchodkyně	Štítina	99	1	0	F
+8105	510491	1	3	901	7	Jiří	Bortel			32	instalatér	Štítina	99	80	0	M
+8105	510491	1	1	47	8	Karel	Ulrich			44	stavbyvedoucí	Štítina	99	47	0	M
+8105	510491	1	2	1	8	Anna	Kaštovská			59	důchodkyně	Štítina	99	1	0	F
+8105	510491	1	3	901	8	Vladislav	Kania	Ing.		60	technik	Štítina	99	80	0	M
+8105	510491	1	1	47	9	Pavel	Glosmann			52	mistr	Štítina	99	47	0	M
+8105	510491	1	2	1	9	Petra	Grafová			32	prodavačka	Štítina	99	1	0	F
+8105	510491	1	3	901	9	Lada	Horáková	Ing.		30	učitelka	Štítina	99	80	0	F

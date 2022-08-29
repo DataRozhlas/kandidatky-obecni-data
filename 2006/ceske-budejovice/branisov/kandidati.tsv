@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	551490	1	1	902	1	Josef	Melena	M			46	státní zaměstnanec	Branišov	99	80	0
-3101	551490	1	1	902	2	Eva	Návarová	F	Ing.		56	administrativní pracovnice	Branišov	99	80	0
-3101	551490	1	1	902	3	Petr	Kovařík	M			42	technik	Branišov	99	80	0
-3101	551490	1	1	902	4	Marie	Hrabětová	F			52	obchodní referentka	Branišov	99	80	0
-3101	551490	1	1	902	5	Josef	Hodianek	M			37	elektromechanik	Branišov	99	80	0
-3101	551490	1	1	902	6	Marie	Lošková	F			35	laborantka	Branišov	99	80	0
-3101	551490	1	1	902	7	Marie	Návarová	F			58	ekonomka	Branišov	99	80	0
-3101	551490	1	1	902	8	Petra	Kovaříková	F			40	živnostník	Branišov	99	80	0
-3101	551490	1	2	903	1	Milan	Šafář	M			48	podnikatel	Branišov	99	80	0
-3101	551490	1	2	903	2	Jaroslav	Kaňka ml.	M			27	řidič	Branišov	99	80	0
-3101	551490	1	2	903	3	Bohuslav	Mášl	M			53	manager	Branišov	99	80	0
-3101	551490	1	2	903	4	Pavlína	Dobrovská	F			41	soc. prac.	Branišov	99	80	0
-3101	551490	1	2	903	5	Radomír	Thaler	M			50	OSVČ	Branišov	99	80	0
-3101	551490	1	2	903	6	Jan	Vachta	M			26	právník	Branišov	99	80	0
-3101	551490	1	2	903	7	Vlastimil	Šedivý	M			42	ved. mrazíren	Branišov	99	80	0
-3101	551490	1	2	903	8	Jiří	Honner	M			40	podnikatel	Branišov	99	80	0
-3101	551490	1	3	901	1	Jiří	Matlas	M			28	správce počítačové sítě	Branišov	99	80	0
-3101	551490	1	3	901	2	Andrea	Hanušová	F	Ing.		30	referent státní správy	Branišov	99	80	0
-3101	551490	1	3	901	3	Jan	Kaňka	M			39	pekař	Branišov	99	80	0
-3101	551490	1	3	901	4	Eva	Bartůňková	F			31	mateřská dovolená	Branišov	99	80	0
-3101	551490	1	3	901	5	Hana	Matlasová	F	Mgr.		25	studentka	Branišov	99	80	0
-3101	551490	1	3	901	6	Jana	Kaňková	F			34	mateřská dovolená	Branišov	99	80	0
-3101	551490	1	3	901	7	Irena	Miklová	F			40	obchodní zástupce	Branišov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	551490	1	1	902	1	Josef	Melena			46	státní zaměstnanec	Branišov	99	80	0	M
+3101	551490	1	2	903	1	Milan	Šafář			48	podnikatel	Branišov	99	80	0	M
+3101	551490	1	3	901	1	Jiří	Matlas			28	správce počítačové sítě	Branišov	99	80	0	M
+3101	551490	1	1	902	2	Eva	Návarová	Ing.		56	administrativní pracovnice	Branišov	99	80	0	F
+3101	551490	1	2	903	2	Jaroslav	Kaňka ml.			27	řidič	Branišov	99	80	0	M
+3101	551490	1	3	901	2	Andrea	Hanušová	Ing.		30	referent státní správy	Branišov	99	80	0	F
+3101	551490	1	1	902	3	Petr	Kovařík			42	technik	Branišov	99	80	0	M
+3101	551490	1	2	903	3	Bohuslav	Mášl			53	manager	Branišov	99	80	0	M
+3101	551490	1	3	901	3	Jan	Kaňka			39	pekař	Branišov	99	80	0	M
+3101	551490	1	1	902	4	Marie	Hrabětová			52	obchodní referentka	Branišov	99	80	0	F
+3101	551490	1	2	903	4	Pavlína	Dobrovská			41	soc. prac.	Branišov	99	80	0	F
+3101	551490	1	3	901	4	Eva	Bartůňková			31	mateřská dovolená	Branišov	99	80	0	F
+3101	551490	1	1	902	5	Josef	Hodianek			37	elektromechanik	Branišov	99	80	0	M
+3101	551490	1	2	903	5	Radomír	Thaler			50	OSVČ	Branišov	99	80	0	M
+3101	551490	1	3	901	5	Hana	Matlasová	Mgr.		25	studentka	Branišov	99	80	0	F
+3101	551490	1	1	902	6	Marie	Lošková			35	laborantka	Branišov	99	80	0	F
+3101	551490	1	2	903	6	Jan	Vachta			26	právník	Branišov	99	80	0	M
+3101	551490	1	3	901	6	Jana	Kaňková			34	mateřská dovolená	Branišov	99	80	0	F
+3101	551490	1	1	902	7	Marie	Návarová			58	ekonomka	Branišov	99	80	0	F
+3101	551490	1	2	903	7	Vlastimil	Šedivý			42	ved. mrazíren	Branišov	99	80	0	M
+3101	551490	1	3	901	7	Irena	Miklová			40	obchodní zástupce	Branišov	99	80	0	F
+3101	551490	1	1	902	8	Petra	Kovaříková			40	živnostník	Branišov	99	80	0	F
+3101	551490	1	2	903	8	Jiří	Honner			40	podnikatel	Branišov	99	80	0	M

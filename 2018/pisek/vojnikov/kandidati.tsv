@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	562289	1	1	901	1	Jiří	Hrneček	M			56	OSVČ	Držov	99	80	A
-3104	562289	1	1	901	2	Václav	Sloup	M			76	důchodce	Louka	99	80	A
-3104	562289	1	1	901	3	Marcela	Velíšková	F			65	důchodce	Vojníkov	99	80	A
-3104	562289	1	1	901	4	Miroslava	Buzková	F			46	nezaměstnaná	Držov	99	80	A
-3104	562289	1	1	901	5	Rudolf	Varhan	M			69	důchodce	Vojníkov	99	80	A
-3104	562289	1	2	902	1	Ivana	Soukupová	F	Mgr.		28	mateřská dovolená	Louka	99	80	A
-3104	562289	1	2	902	2	Václav	Soukup	M			40	soukromý zemědělec	Louka	99	80	A
-3104	562289	1	2	902	3	Jiří	Plachý	M			42	řidič	Louka	99	80	A
-3104	562289	1	2	902	4	Lukáš	Bogola	M			25	servisní technik	Louka	99	80	A
-3104	562289	1	2	902	5	Josef	Soukup	M			49	řidič	Vojníkov	99	80	A
-3104	562289	1	2	902	6	Marie	Müllerová	F			66	důchodkyně	Držov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	562289	1	1	901	1	Jiří	Hrneček			56	OSVČ	Držov	99	80	A	M
+3104	562289	1	2	902	1	Ivana	Soukupová	Mgr.		28	mateřská dovolená	Louka	99	80	A	F
+3104	562289	1	1	901	2	Václav	Sloup			76	důchodce	Louka	99	80	A	M
+3104	562289	1	2	902	2	Václav	Soukup			40	soukromý zemědělec	Louka	99	80	A	M
+3104	562289	1	1	901	3	Marcela	Velíšková			65	důchodce	Vojníkov	99	80	A	F
+3104	562289	1	2	902	3	Jiří	Plachý			42	řidič	Louka	99	80	A	M
+3104	562289	1	1	901	4	Miroslava	Buzková			46	nezaměstnaná	Držov	99	80	A	F
+3104	562289	1	2	902	4	Lukáš	Bogola			25	servisní technik	Louka	99	80	A	M
+3104	562289	1	1	901	5	Rudolf	Varhan			69	důchodce	Vojníkov	99	80	A	M
+3104	562289	1	2	902	5	Josef	Soukup			49	řidič	Vojníkov	99	80	A	M
+3104	562289	1	2	902	6	Marie	Müllerová			66	důchodkyně	Držov	99	80	A	F

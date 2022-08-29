@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	553191	1	1	901	1	Pavlína	Kurková	F			43	servírka	Vikantice	99	80	0
-7105	553191	1	1	901	2	Miroslav	Kročil	M	Ing.		60	důchodce	Vikantice	99	80	0
-7105	553191	1	1	901	3	Filip	Juríček	M			23	noční hlídač	Vikantice	99	80	0
-7105	553191	1	1	901	4	Radim	Kurek	M			24	dělník	Vikantice	99	80	0
-7105	553191	1	1	901	5	Františka	Kratochvílová	F			70	důchodkyně	Vikantice	99	80	0
-7105	553191	1	1	901	6	Ladislav	Koňař	M			65	důchodce	Vikantice	99	80	0
-7105	553191	1	1	901	7	Tomáš	Koudelka	M			27	montér	Vikantice	99	80	0
-7105	553191	1	2	166	1	Martin	Schwan	M			27	OSVČ	Vikantice	99	166	0
-7105	553191	1	2	166	2	David	Balaj	M			31	OSVČ	Vikantice	99	166	0
-7105	553191	1	2	166	3	Josef	Schwan	M			55	nezaměstnaný	Vikantice	99	166	0
-7105	553191	1	2	166	4	František	Schwan	M			52	zaměstnanec	Vikantice	99	166	0
-7105	553191	1	2	166	5	Štefan	Galčík	M			44	OSVČ	Vikantice	99	166	0
-7105	553191	1	2	166	6	Rostislav	Nosek	M			28	zaměstnanec	Vikantice	99	166	0
-7105	553191	1	2	166	7	Antonín	Koudelka	M			31	zaměstnanec	Vikantice	99	166	0
-7105	553191	1	2	166	8	Roman	Balaj	M			21	zaměstnanec	Vikantice	99	166	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	553191	1	1	901	1	Pavlína	Kurková			43	servírka	Vikantice	99	80	0	F
+7105	553191	1	2	166	1	Martin	Schwan			27	OSVČ	Vikantice	99	166	0	M
+7105	553191	1	1	901	2	Miroslav	Kročil	Ing.		60	důchodce	Vikantice	99	80	0	M
+7105	553191	1	2	166	2	David	Balaj			31	OSVČ	Vikantice	99	166	0	M
+7105	553191	1	1	901	3	Filip	Juríček			23	noční hlídač	Vikantice	99	80	0	M
+7105	553191	1	2	166	3	Josef	Schwan			55	nezaměstnaný	Vikantice	99	166	0	M
+7105	553191	1	1	901	4	Radim	Kurek			24	dělník	Vikantice	99	80	0	M
+7105	553191	1	2	166	4	František	Schwan			52	zaměstnanec	Vikantice	99	166	0	M
+7105	553191	1	1	901	5	Františka	Kratochvílová			70	důchodkyně	Vikantice	99	80	0	F
+7105	553191	1	2	166	5	Štefan	Galčík			44	OSVČ	Vikantice	99	166	0	M
+7105	553191	1	1	901	6	Ladislav	Koňař			65	důchodce	Vikantice	99	80	0	M
+7105	553191	1	2	166	6	Rostislav	Nosek			28	zaměstnanec	Vikantice	99	166	0	M
+7105	553191	1	1	901	7	Tomáš	Koudelka			27	montér	Vikantice	99	80	0	M
+7105	553191	1	2	166	7	Antonín	Koudelka			31	zaměstnanec	Vikantice	99	166	0	M
+7105	553191	1	2	166	8	Roman	Balaj			21	zaměstnanec	Vikantice	99	166	0	M

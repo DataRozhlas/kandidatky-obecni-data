@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	571253	1	1	902	1	Miloš	Tomek	M	Bc.		58	technik	Ctětín	99	80	A
-5301	571253	1	1	902	2	Jiří	Bakeš	M			63	důchodce	Ctětín	99	80	A
-5301	571253	1	1	902	3	Oldřich	Šustr	M			58	řidič	Ctětín	99	80	A
-5301	571253	1	1	902	4	Jaroslav	Šveláň	M			59	důchodce	Bratroňov	99	80	A
-5301	571253	1	1	902	5	Martin	Mukařovský	M			49	státní zaměstnanec	Bratroňov	99	80	A
-5301	571253	1	1	902	6	Petr	Chvojka	M			59	řidič	Ctětín	99	80	A
-5301	571253	1	1	902	7	Josef	Švejda	M			62	OSVČ	Ctětín	99	80	A
-5301	571253	1	1	902	8	Iveta	Růžičková	F			45	THP	Vranov	99	80	A
-5301	571253	1	1	902	9	Lukáš	Procházka	M	Bc.		29	technik	Bratroňov	99	80	A
-5301	571253	1	2	901	1	Petr	Záplata	M			56	kameník	Ctětín	99	80	A
-5301	571253	1	2	901	2	Jiří	Horník	M			43	brusič kovu	Ctětín	99	80	A
-5301	571253	1	2	901	3	Blanka	Malinová	F			49	šička	Ctětín	99	80	A
-5301	571253	1	2	901	4	František	Pilař	M			72	důchodce	Ctětín	99	80	A
-5301	571253	1	2	901	5	Josef	Malina	M			53	řidič z povolání	Ctětín	99	80	A
-5301	571253	1	2	901	6	Vladimír	Novák	M			51	řidič	Vranov	99	80	A
-5301	571253	1	2	901	7	Jaroslav	Holub	M			52	obecní zaměstnanec	Vranov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	571253	1	1	902	1	Miloš	Tomek	Bc.		58	technik	Ctětín	99	80	A	M
+5301	571253	1	2	901	1	Petr	Záplata			56	kameník	Ctětín	99	80	A	M
+5301	571253	1	1	902	2	Jiří	Bakeš			63	důchodce	Ctětín	99	80	A	M
+5301	571253	1	2	901	2	Jiří	Horník			43	brusič kovu	Ctětín	99	80	A	M
+5301	571253	1	1	902	3	Oldřich	Šustr			58	řidič	Ctětín	99	80	A	M
+5301	571253	1	2	901	3	Blanka	Malinová			49	šička	Ctětín	99	80	A	F
+5301	571253	1	1	902	4	Jaroslav	Šveláň			59	důchodce	Bratroňov	99	80	A	M
+5301	571253	1	2	901	4	František	Pilař			72	důchodce	Ctětín	99	80	A	M
+5301	571253	1	1	902	5	Martin	Mukařovský			49	státní zaměstnanec	Bratroňov	99	80	A	M
+5301	571253	1	2	901	5	Josef	Malina			53	řidič z povolání	Ctětín	99	80	A	M
+5301	571253	1	1	902	6	Petr	Chvojka			59	řidič	Ctětín	99	80	A	M
+5301	571253	1	2	901	6	Vladimír	Novák			51	řidič	Vranov	99	80	A	M
+5301	571253	1	1	902	7	Josef	Švejda			62	OSVČ	Ctětín	99	80	A	M
+5301	571253	1	2	901	7	Jaroslav	Holub			52	obecní zaměstnanec	Vranov	99	80	A	M
+5301	571253	1	1	902	8	Iveta	Růžičková			45	THP	Vranov	99	80	A	F
+5301	571253	1	1	902	9	Lukáš	Procházka	Bc.		29	technik	Bratroňov	99	80	A	M

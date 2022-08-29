@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	582441	1	1	902	1	Jaroslav	Zoubek	M			60	starosta	Svitávka	99	80	A
-6201	582441	1	1	902	2	Miroslava	Holasová	F			49	ekonom	Svitávka	99	80	A
-6201	582441	1	1	902	3	Radek	Jokeš	M			53	optik	Svitávka	99	80	A
-6201	582441	1	1	902	4	Petr	Pochylý	M			46	manažer prodeje a technická podpora	Svitávka	768	80	A
-6201	582441	1	1	902	5	Blanka	Richterová	F	Ing.		57	obchodní ředitelka	Svitávka	99	80	A
-6201	582441	1	1	902	6	Ondřej	Matějů	M			44	OSVČ	Svitávka	99	80	A
-6201	582441	1	1	902	7	Radoslav	Hruda	M			66	důchodce	Svitávka	47	80	A
-6201	582441	1	1	902	8	Milan	Kraváček	M			41	OSVČ	Svitávka	99	80	A
-6201	582441	1	1	902	9	Hana	Loskotová	F	JUDr.		70	právník	Svitávka	99	80	A
-6201	582441	1	1	902	10	Petr	Dvořák	M			46	podnikatel	Sasina	99	80	A
-6201	582441	1	1	902	11	Roman	Bednář	M			49	podnikatel	Svitávka	99	80	A
-6201	582441	1	1	902	12	Darina	Stloukalová	F		DiS.	33	knihovnice	Svitávka	99	80	A
-6201	582441	1	1	902	13	Josef	Borek	M			39	řidič	Svitávka	99	80	A
-6201	582441	1	1	902	14	Milada	Raušová	F			36	zdravotní sestra	Svitávka	99	80	A
-6201	582441	1	1	902	15	Petr	Hudský	M			63	důchodce	Svitávka	99	80	A
-6201	582441	1	2	901	1	František	Plaček	M	Mgr.		40	zástupce ředitele gymnázia	Svitávka	1	80	A
-6201	582441	1	2	901	2	Ondřej	Antl	M	Ing.		32	lesní inženýr	Svitávka	99	80	A
-6201	582441	1	2	901	3	Tomáš	Šacher	M			47	mistr	Svitávka	1	80	A
-6201	582441	1	2	901	4	Vlastimil	Janík	M			47	IT technik	Sasina	99	80	A
-6201	582441	1	2	901	5	Miloš	Randula	M	Mgr.		68	učitel	Svitávka	99	80	A
-6201	582441	1	2	901	6	Jiří	Bireš	M	Bc.		35	IT specialista	Svitávka	99	80	A
-6201	582441	1	2	901	7	Dagmar	Matějů	F		DiS.	40	referentka v IT firmě	Svitávka	99	80	A
-6201	582441	1	2	901	8	Martin	Bureš	M	Mgr.		33	právník, koncipient	Svitávka	1	80	A
-6201	582441	1	2	901	9	Radek	Horák	M			52	seřizovač	Svitávka	99	80	A
-6201	582441	1	2	901	10	Patricie	Heinrichová	F	Ing.	Ph.D.	38	vědecký pracovník v oboru fyzikální chemie	Svitávka	99	80	A
-6201	582441	1	2	901	11	Karel	Novák	M	Ing.		41	likvidátor pojistných událostí	Svitávka	99	80	A
-6201	582441	1	2	901	12	Dana	Hrdová	F			65	učitelka MŠ v.v.	Svitávka	99	80	A
-6201	582441	1	2	901	13	Radim	Novák	M	Ing.		37	projektant-statik	Svitávka	99	80	A
-6201	582441	1	2	901	14	Marie	Pavlů	F		DiS.	40	zdravotní sestra	Svitávka	1	80	A
-6201	582441	1	2	901	15	Marek	Műller	M			44	skladník	Sasina	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	582441	1	1	902	1	Jaroslav	Zoubek			60	starosta	Svitávka	99	80	A	M
+6201	582441	1	2	901	1	František	Plaček	Mgr.		40	zástupce ředitele gymnázia	Svitávka	1	80	A	M
+6201	582441	1	1	902	2	Miroslava	Holasová			49	ekonom	Svitávka	99	80	A	F
+6201	582441	1	2	901	2	Ondřej	Antl	Ing.		32	lesní inženýr	Svitávka	99	80	A	M
+6201	582441	1	1	902	3	Radek	Jokeš			53	optik	Svitávka	99	80	A	M
+6201	582441	1	2	901	3	Tomáš	Šacher			47	mistr	Svitávka	1	80	A	M
+6201	582441	1	1	902	4	Petr	Pochylý			46	manažer prodeje a technická podpora	Svitávka	768	80	A	M
+6201	582441	1	2	901	4	Vlastimil	Janík			47	IT technik	Sasina	99	80	A	M
+6201	582441	1	1	902	5	Blanka	Richterová	Ing.		57	obchodní ředitelka	Svitávka	99	80	A	F
+6201	582441	1	2	901	5	Miloš	Randula	Mgr.		68	učitel	Svitávka	99	80	A	M
+6201	582441	1	1	902	6	Ondřej	Matějů			44	OSVČ	Svitávka	99	80	A	M
+6201	582441	1	2	901	6	Jiří	Bireš	Bc.		35	IT specialista	Svitávka	99	80	A	M
+6201	582441	1	1	902	7	Radoslav	Hruda			66	důchodce	Svitávka	47	80	A	M
+6201	582441	1	2	901	7	Dagmar	Matějů		DiS.	40	referentka v IT firmě	Svitávka	99	80	A	F
+6201	582441	1	1	902	8	Milan	Kraváček			41	OSVČ	Svitávka	99	80	A	M
+6201	582441	1	2	901	8	Martin	Bureš	Mgr.		33	právník, koncipient	Svitávka	1	80	A	M
+6201	582441	1	1	902	9	Hana	Loskotová	JUDr.		70	právník	Svitávka	99	80	A	F
+6201	582441	1	2	901	9	Radek	Horák			52	seřizovač	Svitávka	99	80	A	M
+6201	582441	1	1	902	10	Petr	Dvořák			46	podnikatel	Sasina	99	80	A	M
+6201	582441	1	2	901	10	Patricie	Heinrichová	Ing.	Ph.D.	38	vědecký pracovník v oboru fyzikální chemie	Svitávka	99	80	A	F
+6201	582441	1	1	902	11	Roman	Bednář			49	podnikatel	Svitávka	99	80	A	M
+6201	582441	1	2	901	11	Karel	Novák	Ing.		41	likvidátor pojistných událostí	Svitávka	99	80	A	M
+6201	582441	1	1	902	12	Darina	Stloukalová		DiS.	33	knihovnice	Svitávka	99	80	A	F
+6201	582441	1	2	901	12	Dana	Hrdová			65	učitelka MŠ v.v.	Svitávka	99	80	A	F
+6201	582441	1	1	902	13	Josef	Borek			39	řidič	Svitávka	99	80	A	M
+6201	582441	1	2	901	13	Radim	Novák	Ing.		37	projektant-statik	Svitávka	99	80	A	M
+6201	582441	1	1	902	14	Milada	Raušová			36	zdravotní sestra	Svitávka	99	80	A	F
+6201	582441	1	2	901	14	Marie	Pavlů		DiS.	40	zdravotní sestra	Svitávka	1	80	A	F
+6201	582441	1	1	902	15	Petr	Hudský			63	důchodce	Svitávka	99	80	A	M
+6201	582441	1	2	901	15	Marek	Műller			44	skladník	Sasina	99	80	A	M

@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2102	531120	1	1	903	1	Milada	Kučerová	F			61	důchodce	Bzová	99	80	0
-2102	531120	1	1	903	2	Jiří	Svoboda	M			50	zámečník	Bzová	99	80	0
-2102	531120	1	1	903	3	Eva	Pánková	F			59	důchodce	Bzová	99	80	0
-2102	531120	1	1	903	4	Pavel	Vokáč	M			44	soukr.podnikatel	Bzová	99	80	0
-2102	531120	1	1	903	5	Jana	Špotová	F			57	prodavačka	Bzová	99	80	0
-2102	531120	1	1	903	6	Miroslav	Cajthaml	M			33	zámečník	Bzová	99	80	0
-2102	531120	1	1	903	7	Miluše	Vokáčová	F			55	úřednice	Bzová	99	80	0
-2102	531120	1	1	903	8	Marie	Honická	F			58	důchodce	Bzová	99	80	0
-2102	531120	1	1	903	9	Zdeňka	Pavlisová	F			49	úřednice	Bzová	99	80	0
-2102	531120	1	2	902	1	Zdeněk	Kapoun	M			41	výrobní technik	Bzová	99	80	0
-2102	531120	1	2	902	2	Petr	Vokáč	M			30	podnikatel	Bzová	99	80	0
-2102	531120	1	2	902	3	Pavel	Sojka	M			57	soukromý podnikatel	Bzová	99	80	0
-2102	531120	1	2	902	4	Dušan	Vokáč	M			27	podnikatel	Bzová	99	80	0
-2102	531120	1	2	902	5	Klára	Nekutová	F			35	úřednice	Bzová	99	80	0
-2102	531120	1	2	902	6	Alena	Přibylová	F			31	dělnice	Bzová	99	80	0
-2102	531120	1	2	902	7	Josef	Přibyl	M			34	dělník	Bzová	99	80	0
-2102	531120	1	2	902	8	Renáta	Kušková	F			34	dělnice	Bzová	99	80	0
-2102	531120	1	2	902	9	Vladimír	Kuška	M			60	důchodce	Bzová	99	80	0
-2102	531120	1	3	901	1	Václava	Flaišmanová	F			33	učitelka	Bzová	99	80	0
-2102	531120	1	3	901	2	Jaromír	Kunc	M			43	úředník	Bzová	99	80	0
-2102	531120	1	3	901	3	Jaroslav	Vlček	M			51	podnikatel	Bzová	99	80	0
-2102	531120	1	3	901	4	Jaroslav	Albl	M			63	důchodce	Bzová	99	80	0
-2102	531120	1	3	901	5	Martin	Mencl	M			33	dělník	Bzová	99	80	0
-2102	531120	1	3	901	6	Dana	Lichterová	F			43	dělnice	Bzová	99	80	0
-2102	531120	1	3	901	7	Petr	Münzberger	M			36	důchodce	Bzová	99	80	0
-2102	531120	1	3	901	8	Jiří	Spousta	M			36	podnikatel	Bzová	99	80	0
-2102	531120	1	3	901	9	Jiří	Přibyl	M			32	dělník	Bzová	99	80	0
-2102	531120	1	4	393	1	Vojtěch	Vaněk	M			63	důchodce	Bzová	74	74	0
-2102	531120	1	4	393	2	Květoslava	Pavlisová	F			37	úřednice	Bzová	99	80	0
-2102	531120	1	4	393	3	Luděk	Malec	M			25	automechanik	Bzová	99	80	0
-2102	531120	1	4	393	4	Miroslav	Loněk	M			27	truhlář	Bzová	99	80	0
-2102	531120	1	4	393	5	Jan	Spousta	M			39	řidič	Bzová	99	80	0
-2102	531120	1	4	393	6	Hana	Vokáčová	F			50	zdravotní sestra	Bzová	99	80	0
-2102	531120	1	4	393	7	Eva	Vokáčová	F			35	úřednice	Bzová	99	80	0
-2102	531120	1	4	393	8	Petr	Vinš	M			37	podnikatel	Bzová	99	80	0
-2102	531120	1	4	393	9	Zdeňka	Hesová	F			68	důchodce	Bzová	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2102	531120	1	1	903	1	Milada	Kučerová			61	důchodce	Bzová	99	80	0	F
+2102	531120	1	2	902	1	Zdeněk	Kapoun			41	výrobní technik	Bzová	99	80	0	M
+2102	531120	1	3	901	1	Václava	Flaišmanová			33	učitelka	Bzová	99	80	0	F
+2102	531120	1	4	393	1	Vojtěch	Vaněk			63	důchodce	Bzová	74	74	0	M
+2102	531120	1	1	903	2	Jiří	Svoboda			50	zámečník	Bzová	99	80	0	M
+2102	531120	1	2	902	2	Petr	Vokáč			30	podnikatel	Bzová	99	80	0	M
+2102	531120	1	3	901	2	Jaromír	Kunc			43	úředník	Bzová	99	80	0	M
+2102	531120	1	4	393	2	Květoslava	Pavlisová			37	úřednice	Bzová	99	80	0	F
+2102	531120	1	1	903	3	Eva	Pánková			59	důchodce	Bzová	99	80	0	F
+2102	531120	1	2	902	3	Pavel	Sojka			57	soukromý podnikatel	Bzová	99	80	0	M
+2102	531120	1	3	901	3	Jaroslav	Vlček			51	podnikatel	Bzová	99	80	0	M
+2102	531120	1	4	393	3	Luděk	Malec			25	automechanik	Bzová	99	80	0	M
+2102	531120	1	1	903	4	Pavel	Vokáč			44	soukr.podnikatel	Bzová	99	80	0	M
+2102	531120	1	2	902	4	Dušan	Vokáč			27	podnikatel	Bzová	99	80	0	M
+2102	531120	1	3	901	4	Jaroslav	Albl			63	důchodce	Bzová	99	80	0	M
+2102	531120	1	4	393	4	Miroslav	Loněk			27	truhlář	Bzová	99	80	0	M
+2102	531120	1	1	903	5	Jana	Špotová			57	prodavačka	Bzová	99	80	0	F
+2102	531120	1	2	902	5	Klára	Nekutová			35	úřednice	Bzová	99	80	0	F
+2102	531120	1	3	901	5	Martin	Mencl			33	dělník	Bzová	99	80	0	M
+2102	531120	1	4	393	5	Jan	Spousta			39	řidič	Bzová	99	80	0	M
+2102	531120	1	1	903	6	Miroslav	Cajthaml			33	zámečník	Bzová	99	80	0	M
+2102	531120	1	2	902	6	Alena	Přibylová			31	dělnice	Bzová	99	80	0	F
+2102	531120	1	3	901	6	Dana	Lichterová			43	dělnice	Bzová	99	80	0	F
+2102	531120	1	4	393	6	Hana	Vokáčová			50	zdravotní sestra	Bzová	99	80	0	F
+2102	531120	1	1	903	7	Miluše	Vokáčová			55	úřednice	Bzová	99	80	0	F
+2102	531120	1	2	902	7	Josef	Přibyl			34	dělník	Bzová	99	80	0	M
+2102	531120	1	3	901	7	Petr	Münzberger			36	důchodce	Bzová	99	80	0	M
+2102	531120	1	4	393	7	Eva	Vokáčová			35	úřednice	Bzová	99	80	0	F
+2102	531120	1	1	903	8	Marie	Honická			58	důchodce	Bzová	99	80	0	F
+2102	531120	1	2	902	8	Renáta	Kušková			34	dělnice	Bzová	99	80	0	F
+2102	531120	1	3	901	8	Jiří	Spousta			36	podnikatel	Bzová	99	80	0	M
+2102	531120	1	4	393	8	Petr	Vinš			37	podnikatel	Bzová	99	80	0	M
+2102	531120	1	1	903	9	Zdeňka	Pavlisová			49	úřednice	Bzová	99	80	0	F
+2102	531120	1	2	902	9	Vladimír	Kuška			60	důchodce	Bzová	99	80	0	M
+2102	531120	1	3	901	9	Jiří	Přibyl			32	dělník	Bzová	99	80	0	M
+2102	531120	1	4	393	9	Zdeňka	Hesová			68	důchodce	Bzová	99	80	0	F

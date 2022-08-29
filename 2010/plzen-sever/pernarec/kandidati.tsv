@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3205	559334	1	1	902	1	Zdeněk	Janota	M			45	řidič	Pernarec	99	80	0
-3205	559334	1	1	902	2	Vlastimil	Hlavatý	M	Ing.		44	vedoucí konstruktér	Pernarec	99	80	0
-3205	559334	1	1	902	3	Pavel	Anděl	M			32	živnostník	Krukanice	99	80	0
-3205	559334	1	1	902	4	Jindřiška	Koncevičová	F			43	úřednice	Pernarec	99	80	0
-3205	559334	1	1	902	5	Josef	Hubač	M			48	dělník	Pernarec	99	80	0
-3205	559334	1	1	902	6	Jaroslav	Vanžura	M			38	elektromontér	Pernarec	99	80	0
-3205	559334	1	1	902	7	Irena	Dvořáková	F			39	vedoucí výroby	Pernarec	99	80	0
-3205	559334	1	1	902	8	Tomáš	Krátký	M			39	dělník	Pernarec	99	80	0
-3205	559334	1	1	902	9	František	Košan	M			58	obkladač	Pernarec	99	80	0
-3205	559334	1	2	901	1	Leopold	Pikal	M			56	technik	Březí	99	80	0
-3205	559334	1	2	901	2	Bedřich	Wunderlich Vorlíček	M			59	důchodce	Pernarec	99	80	0
-3205	559334	1	2	901	3	Pavel	Brožík	M			44	technik	Pernarec	99	80	0
-3205	559334	1	2	901	4	František	Pešl	M			56	důchodce	Pernarec	99	80	0
-3205	559334	1	2	901	5	Marta	Kollerová	F	Mgr.		33	projektový manažer	Březí	99	80	0
-3205	559334	1	2	901	6	Vlastimil	Pekar	M			53	traktorista	Krukanice	99	80	0
-3205	559334	1	2	901	7	Jana	Kurcová	F			56	kuchařka	Pernarec	99	80	0
-3205	559334	1	2	901	8	Miloš	Lomička	M			43	dělník	Skupeč	99	80	0
-3205	559334	1	2	901	9	František	Tvrzický	M			42	podnikatel	Pernarec	99	80	0
-3205	559334	1	3	903	1	Milada	Baurová	F	Mgr.		33	učitelka	Pernarec	99	80	0
-3205	559334	1	3	903	2	Karel	Kurc	M			53	podnikatel	Pernarec	99	80	0
-3205	559334	1	3	903	3	Eva	Vítovcová	F	Mgr.		33	učitelka	Pernarec	99	80	0
-3205	559334	1	3	903	4	Pavel	Janoušek	M			33	vedoucí oddělení	Skupeč	99	80	0
-3205	559334	1	3	903	5	Emilie	Košanová	F			49	školnice	Skupeč	99	80	0
-3205	559334	1	3	903	6	Peter	Pacák	M			35	dělník	Pernarec	99	80	0
-3205	559334	1	3	903	7	Jiří	Novotný	M			41	dělník	Krukanice	99	80	0
-3205	559334	1	3	903	8	Stanislava	Válková	F			44	skladová manipulantka	Pernarec	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3205	559334	1	1	902	1	Zdeněk	Janota			45	řidič	Pernarec	99	80	0	M
+3205	559334	1	2	901	1	Leopold	Pikal			56	technik	Březí	99	80	0	M
+3205	559334	1	3	903	1	Milada	Baurová	Mgr.		33	učitelka	Pernarec	99	80	0	F
+3205	559334	1	1	902	2	Vlastimil	Hlavatý	Ing.		44	vedoucí konstruktér	Pernarec	99	80	0	M
+3205	559334	1	2	901	2	Bedřich	Wunderlich Vorlíček			59	důchodce	Pernarec	99	80	0	M
+3205	559334	1	3	903	2	Karel	Kurc			53	podnikatel	Pernarec	99	80	0	M
+3205	559334	1	1	902	3	Pavel	Anděl			32	živnostník	Krukanice	99	80	0	M
+3205	559334	1	2	901	3	Pavel	Brožík			44	technik	Pernarec	99	80	0	M
+3205	559334	1	3	903	3	Eva	Vítovcová	Mgr.		33	učitelka	Pernarec	99	80	0	F
+3205	559334	1	1	902	4	Jindřiška	Koncevičová			43	úřednice	Pernarec	99	80	0	F
+3205	559334	1	2	901	4	František	Pešl			56	důchodce	Pernarec	99	80	0	M
+3205	559334	1	3	903	4	Pavel	Janoušek			33	vedoucí oddělení	Skupeč	99	80	0	M
+3205	559334	1	1	902	5	Josef	Hubač			48	dělník	Pernarec	99	80	0	M
+3205	559334	1	2	901	5	Marta	Kollerová	Mgr.		33	projektový manažer	Březí	99	80	0	F
+3205	559334	1	3	903	5	Emilie	Košanová			49	školnice	Skupeč	99	80	0	F
+3205	559334	1	1	902	6	Jaroslav	Vanžura			38	elektromontér	Pernarec	99	80	0	M
+3205	559334	1	2	901	6	Vlastimil	Pekar			53	traktorista	Krukanice	99	80	0	M
+3205	559334	1	3	903	6	Peter	Pacák			35	dělník	Pernarec	99	80	0	M
+3205	559334	1	1	902	7	Irena	Dvořáková			39	vedoucí výroby	Pernarec	99	80	0	F
+3205	559334	1	2	901	7	Jana	Kurcová			56	kuchařka	Pernarec	99	80	0	F
+3205	559334	1	3	903	7	Jiří	Novotný			41	dělník	Krukanice	99	80	0	M
+3205	559334	1	1	902	8	Tomáš	Krátký			39	dělník	Pernarec	99	80	0	M
+3205	559334	1	2	901	8	Miloš	Lomička			43	dělník	Skupeč	99	80	0	M
+3205	559334	1	3	903	8	Stanislava	Válková			44	skladová manipulantka	Pernarec	99	80	0	F
+3205	559334	1	1	902	9	František	Košan			58	obkladač	Pernarec	99	80	0	M
+3205	559334	1	2	901	9	František	Tvrzický			42	podnikatel	Pernarec	99	80	0	M

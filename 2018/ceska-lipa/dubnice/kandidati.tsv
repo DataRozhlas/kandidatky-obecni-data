@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5101	561541	1	1	47	1	Petr	Zemenčík	M	Bc.		43	zaměstnanec Vězeňské služby ČR	Dubnice	99	47	A
-5101	561541	1	1	47	2	Ivana	Krotilová	F			34	dělnice	Dubnice	99	47	A
-5101	561541	1	1	47	3	David	Fiala	M			36	seřizovač	Dubnice	99	47	A
-5101	561541	1	1	47	4	Vladimír	Opolský	M			50	báňský záchranář	Dubnice	99	47	A
-5101	561541	1	1	47	5	Vlasta	Vítková	F			44	technik	Dubnice	99	47	A
-5101	561541	1	1	47	6	Zdeněk	Flieger	M			46	elektrikář	Dubnice	99	47	A
-5101	561541	1	1	47	7	Petr	Kratochvíl	M			46	elektrikář	Dubnice	47	47	A
-5101	561541	1	1	47	8	Radek	Rejf	M			52	dělník	Dubnice	99	47	A
-5101	561541	1	1	47	9	Libor	Lukeš	M			52	řidič	Dubnice	99	47	A
-5101	561541	1	2	901	1	Jarmila	Čmugrová	F	Mgr.		45	starostka	Dubnice	99	80	A
-5101	561541	1	2	901	2	Ladislav	Neumann	M	Ing.		61	zemědělec	Dubnice	99	80	A
-5101	561541	1	2	901	3	Luboš	Plešinger	M			47	vyšetřovatel kriminální policie	Dubnice	99	80	A
-5101	561541	1	2	901	4	Marie	Dvořáková	F			55	vedoucí pošty	Dubnice	99	80	A
-5101	561541	1	2	901	5	Luděk	Závodský	M			49	seřizovač	Dubnice	99	80	A
-5101	561541	1	2	901	6	Adam	Klimša	M	Mgr. Bc.		41	učitel odborných předmětů	Dubnice	99	80	A
-5101	561541	1	2	901	7	Josef	Lainer	M			44	odborný vychovatel	Dubnice	99	80	A
-5101	561541	1	2	901	8	Dita	Vránová	F			40	referent odboru výstavby	Dubnice	99	80	A
-5101	561541	1	2	901	9	Filip	Adam	M			38	řidič	Dubnice	99	80	A
-5101	561541	1	3	7	1	Petr	Štěrba	M			66	důchodce	Dubnice	7	7	A
-5101	561541	1	3	7	2	Vladimír	Vrána	M			45	obsluha CNC strojů	Dubnice	99	7	A
-5101	561541	1	3	7	3	Václav	Mencl	M			55	provozní technik	Dubnice	99	7	A
-5101	561541	1	3	7	4	Jaromír	Pešek	M	Ing.		57	investiční technik	Dubnice	99	7	A
-5101	561541	1	3	7	5	Vladimír	Müller	M			51	báňský úpravář	Dubnice	99	7	A
-5101	561541	1	3	7	6	Petra	Horváthová	F		DiS.	38	administrativní pracovnice	Dubnice	99	7	A
-5101	561541	1	3	7	7	Václav	Kočka	M			42	prodejce	Dubnice	99	7	A
-5101	561541	1	3	7	8	Kateřina	Kočková	F			41	manipulantka	Dubnice	99	7	A
-5101	561541	1	3	7	9	Zoja	Hájková	F			56	obsluha čerpací stanice	Dubnice	99	7	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5101	561541	1	1	47	1	Petr	Zemenčík	Bc.		43	zaměstnanec Vězeňské služby ČR	Dubnice	99	47	A	M
+5101	561541	1	2	901	1	Jarmila	Čmugrová	Mgr.		45	starostka	Dubnice	99	80	A	F
+5101	561541	1	3	7	1	Petr	Štěrba			66	důchodce	Dubnice	7	7	A	M
+5101	561541	1	1	47	2	Ivana	Krotilová			34	dělnice	Dubnice	99	47	A	F
+5101	561541	1	2	901	2	Ladislav	Neumann	Ing.		61	zemědělec	Dubnice	99	80	A	M
+5101	561541	1	3	7	2	Vladimír	Vrána			45	obsluha CNC strojů	Dubnice	99	7	A	M
+5101	561541	1	1	47	3	David	Fiala			36	seřizovač	Dubnice	99	47	A	M
+5101	561541	1	2	901	3	Luboš	Plešinger			47	vyšetřovatel kriminální policie	Dubnice	99	80	A	M
+5101	561541	1	3	7	3	Václav	Mencl			55	provozní technik	Dubnice	99	7	A	M
+5101	561541	1	1	47	4	Vladimír	Opolský			50	báňský záchranář	Dubnice	99	47	A	M
+5101	561541	1	2	901	4	Marie	Dvořáková			55	vedoucí pošty	Dubnice	99	80	A	F
+5101	561541	1	3	7	4	Jaromír	Pešek	Ing.		57	investiční technik	Dubnice	99	7	A	M
+5101	561541	1	1	47	5	Vlasta	Vítková			44	technik	Dubnice	99	47	A	F
+5101	561541	1	2	901	5	Luděk	Závodský			49	seřizovač	Dubnice	99	80	A	M
+5101	561541	1	3	7	5	Vladimír	Müller			51	báňský úpravář	Dubnice	99	7	A	M
+5101	561541	1	1	47	6	Zdeněk	Flieger			46	elektrikář	Dubnice	99	47	A	M
+5101	561541	1	2	901	6	Adam	Klimša	Mgr. Bc.		41	učitel odborných předmětů	Dubnice	99	80	A	M
+5101	561541	1	3	7	6	Petra	Horváthová		DiS.	38	administrativní pracovnice	Dubnice	99	7	A	F
+5101	561541	1	1	47	7	Petr	Kratochvíl			46	elektrikář	Dubnice	47	47	A	M
+5101	561541	1	2	901	7	Josef	Lainer			44	odborný vychovatel	Dubnice	99	80	A	M
+5101	561541	1	3	7	7	Václav	Kočka			42	prodejce	Dubnice	99	7	A	M
+5101	561541	1	1	47	8	Radek	Rejf			52	dělník	Dubnice	99	47	A	M
+5101	561541	1	2	901	8	Dita	Vránová			40	referent odboru výstavby	Dubnice	99	80	A	F
+5101	561541	1	3	7	8	Kateřina	Kočková			41	manipulantka	Dubnice	99	7	A	F
+5101	561541	1	1	47	9	Libor	Lukeš			52	řidič	Dubnice	99	47	A	M
+5101	561541	1	2	901	9	Filip	Adam			38	řidič	Dubnice	99	80	A	M
+5101	561541	1	3	7	9	Zoja	Hájková			56	obsluha čerpací stanice	Dubnice	99	7	A	F

@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2104	533882	1	1	904	1	Hana	Prchalová	F			39	asistentka	Volárna	99	80	0
-2104	533882	1	1	904	2	Olga	Hartmanová	F			34	nezaměstnaná	Volárna	99	80	0
-2104	533882	1	1	904	3	Václav	Suchý	M			64	důchodce	Volárna	99	80	0
-2104	533882	1	1	904	4	Dana	Bayerová	F			39	nezaměstnaná	Volárna	99	80	0
-2104	533882	1	1	904	5	Romana	Švandová	F			37	mateřská dovolená	Volárna	99	80	0
-2104	533882	1	1	904	6	Monika	Boumová	F			35	kontrolor	Volárna	99	80	0
-2104	533882	1	1	904	7	Gabriela	Plačková	F			38	mateřská dovolená	Volárna	99	80	0
-2104	533882	1	2	903	1	Hana	Tučková	F			54	skladová operátorka	Volárna	99	80	0
-2104	533882	1	2	903	2	Eva	Venturová	F			51	administrativní pracovnice	Volárna	99	80	0
-2104	533882	1	2	903	3	Věra	Beranová	F			42	transportní specialista	Volárna	99	80	0
-2104	533882	1	2	903	4	Radka	Zajíčková	F			41	nezaměstnaná	Volárna	99	80	0
-2104	533882	1	2	903	5	Lenka	Kasardová	F			49	střihačka	Volárna	99	80	0
-2104	533882	1	2	903	6	Jana	Šálková	F			49	prodavačka	Volárna	99	80	0
-2104	533882	1	2	903	7	Václav	Tuček	M			57	bezpečnostní pracovník	Volárna	99	80	0
-2104	533882	1	2	903	8	Martina	Makarová	F			42	montážní dělník	Volárna	99	80	0
-2104	533882	1	3	901	1	Jaroslav	Kubeš	M	Ing. Bc.		36	stavební projektant	Volárna	99	80	0
-2104	533882	1	3	901	2	Oldřich	Kohoutek	M			55	učitel	Volárna	99	80	0
-2104	533882	1	3	901	3	Aleš	Hůla	M	Ing.		39	ICT analyst	Volárna	99	80	0
-2104	533882	1	3	901	4	Miloš	Plaček	M			39	zámečník	Volárna	99	80	0
-2104	533882	1	3	901	5	Zbyněk	Orban	M			29	CNC programátor	Volárna	99	80	0
-2104	533882	1	3	901	6	Radek	Pelikán	M			37	nástrojař	Volárna	99	80	0
-2104	533882	1	3	901	7	Irena	Janebová	F			42	účetní	Volárna	99	80	0
-2104	533882	1	4	902	1	Rostislav	Mácha	M			65	důchodce	Volárna	99	80	0
-2104	533882	1	4	902	2	Marie	Svobodová	F			64	důchodkyně	Volárna	99	80	0
-2104	533882	1	4	902	3	Jaroslav	Pelikán	M			59	mistr	Volárna	99	80	0
-2104	533882	1	4	902	4	Petr	Joska	M			59	důchodce	Volárna	99	80	0
-2104	533882	1	4	902	5	Petr	Orban	M			60	elektrikář	Volárna	99	80	0
-2104	533882	1	4	902	6	Šárka	Holatková	F	Bc.		37	vedoucí střediska	Volárna	99	80	0
-2104	533882	1	4	902	7	Pavel	Jakubál	M			54	strojník	Volárna	99	80	0
-2104	533882	1	4	902	8	Břetislav	Ventura	M			54	vedoucí střediska	Volárna	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2104	533882	1	1	904	1	Hana	Prchalová			39	asistentka	Volárna	99	80	0	F
+2104	533882	1	2	903	1	Hana	Tučková			54	skladová operátorka	Volárna	99	80	0	F
+2104	533882	1	3	901	1	Jaroslav	Kubeš	Ing. Bc.		36	stavební projektant	Volárna	99	80	0	M
+2104	533882	1	4	902	1	Rostislav	Mácha			65	důchodce	Volárna	99	80	0	M
+2104	533882	1	1	904	2	Olga	Hartmanová			34	nezaměstnaná	Volárna	99	80	0	F
+2104	533882	1	2	903	2	Eva	Venturová			51	administrativní pracovnice	Volárna	99	80	0	F
+2104	533882	1	3	901	2	Oldřich	Kohoutek			55	učitel	Volárna	99	80	0	M
+2104	533882	1	4	902	2	Marie	Svobodová			64	důchodkyně	Volárna	99	80	0	F
+2104	533882	1	1	904	3	Václav	Suchý			64	důchodce	Volárna	99	80	0	M
+2104	533882	1	2	903	3	Věra	Beranová			42	transportní specialista	Volárna	99	80	0	F
+2104	533882	1	3	901	3	Aleš	Hůla	Ing.		39	ICT analyst	Volárna	99	80	0	M
+2104	533882	1	4	902	3	Jaroslav	Pelikán			59	mistr	Volárna	99	80	0	M
+2104	533882	1	1	904	4	Dana	Bayerová			39	nezaměstnaná	Volárna	99	80	0	F
+2104	533882	1	2	903	4	Radka	Zajíčková			41	nezaměstnaná	Volárna	99	80	0	F
+2104	533882	1	3	901	4	Miloš	Plaček			39	zámečník	Volárna	99	80	0	M
+2104	533882	1	4	902	4	Petr	Joska			59	důchodce	Volárna	99	80	0	M
+2104	533882	1	1	904	5	Romana	Švandová			37	mateřská dovolená	Volárna	99	80	0	F
+2104	533882	1	2	903	5	Lenka	Kasardová			49	střihačka	Volárna	99	80	0	F
+2104	533882	1	3	901	5	Zbyněk	Orban			29	CNC programátor	Volárna	99	80	0	M
+2104	533882	1	4	902	5	Petr	Orban			60	elektrikář	Volárna	99	80	0	M
+2104	533882	1	1	904	6	Monika	Boumová			35	kontrolor	Volárna	99	80	0	F
+2104	533882	1	2	903	6	Jana	Šálková			49	prodavačka	Volárna	99	80	0	F
+2104	533882	1	3	901	6	Radek	Pelikán			37	nástrojař	Volárna	99	80	0	M
+2104	533882	1	4	902	6	Šárka	Holatková	Bc.		37	vedoucí střediska	Volárna	99	80	0	F
+2104	533882	1	1	904	7	Gabriela	Plačková			38	mateřská dovolená	Volárna	99	80	0	F
+2104	533882	1	2	903	7	Václav	Tuček			57	bezpečnostní pracovník	Volárna	99	80	0	M
+2104	533882	1	3	901	7	Irena	Janebová			42	účetní	Volárna	99	80	0	F
+2104	533882	1	4	902	7	Pavel	Jakubál			54	strojník	Volárna	99	80	0	M
+2104	533882	1	2	903	8	Martina	Makarová			42	montážní dělník	Volárna	99	80	0	F
+2104	533882	1	4	902	8	Břetislav	Ventura			54	vedoucí střediska	Volárna	99	80	0	M

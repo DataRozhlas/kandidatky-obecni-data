@@ -1,36 +1,36 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	582476	1	1	47	1	Jiří	Hrazdíra	M			51	dělník	Šebrov	47	47	0
-6201	582476	1	1	47	2	Zbyněk	Bartoš	M			41	seřizovač	Šebrov	99	47	0
-6201	582476	1	1	47	3	Jan	Matal	M	RSDr.		62	důchodce	Šebrov	47	47	0
-6201	582476	1	1	47	4	Lenka	Jonášová	F			59	důchodkyně	Šebrov	99	47	0
-6201	582476	1	1	47	5	Petr	Trtílek	M			42	technik	Šebrov	99	47	0
-6201	582476	1	1	47	6	Radka	Ullmannová	F			44	dělnice	Šebrov	99	47	0
-6201	582476	1	1	47	7	Oldřich	Vajbar	M			69	důchodce	Šebrov	47	47	0
-6201	582476	1	1	47	8	Jiří	Ševčík	M			55	nezaměstnaný	Svatá Kateřina	99	47	0
-6201	582476	1	1	47	9	Josef	Němec	M			68	důchodce	Šebrov	47	47	0
-6201	582476	1	2	801	1	Jiří	Vaněk	M	Mgr.		37	státní zaměstnanec	Šebrov-Kateřina	99	80	0
-6201	582476	1	3	901	1	Miloslav	Mrázek	M			53	technik	Svatá Kateřina	99	80	0
-6201	582476	1	3	901	2	Jan	Dražka	M			22	student	Šebrov	99	80	0
-6201	582476	1	3	901	3	Lenka	Komárková	F			44	podnikatelka	Svatá Kateřina	99	80	0
-6201	582476	1	3	901	4	Martina	Trnková	F	Ing.		32	projektová manažerka	Šebrov	99	80	0
-6201	582476	1	3	901	5	Luděk	Rychtar	M			36	ředitel reklamní agentury	Šebrov	99	80	0
-6201	582476	1	3	901	6	Gabriela	Králová	F		DiS.	34	oděvní návrhářka	Šebrov	99	80	0
-6201	582476	1	3	901	7	Jan	Branda	M	Ing.		31	produktový manažer	Svatá Kateřina	99	80	0
-6201	582476	1	4	53	1	Jiří	Šrámek	M			45	vedoucí výroby	Šebrov-Kateřina	53	53	0
-6201	582476	1	4	53	2	Radek	Helán	M			41	vedoucí skladu	Šebrov-Kateřina	53	53	0
-6201	582476	1	4	53	3	Markéta	Tlapáková	F	Ing.		36	členka představenstva a.s.	Šebrov-Kateřina	53	53	0
-6201	582476	1	4	53	4	David	Skoupý	M	Ing.		39	stavební technik	Šebrov-Kateřina	99	53	0
-6201	582476	1	4	53	5	Iveta	Čičatková	F	Ing.		43	státní zaměstnanec	Šebrov-Kateřina	99	53	0
-6201	582476	1	4	53	6	Michal	Altrichter	M	Ing.		40	podnikatel	Šebrov-Kateřina	99	53	0
-6201	582476	1	4	53	7	Pavel	Tomášek	M			43	podnikatel	Šebrov-Kateřina	99	53	0
-6201	582476	1	4	53	8	Milan	Štěpánek	M			40	strojní mechanik	Šebrov-Kateřina	99	53	0
-6201	582476	1	4	53	9	Pavel	Tlapák	M	Mgr.		38	člen představenstva a.s.	Šebrov-Kateřina	53	53	0
-6201	582476	1	5	1	1	Jiří	Nechvíle	M			62	starosta obce	Šebrov	1	1	0
-6201	582476	1	5	1	2	František	Kopřiva	M	RNDr.		62	podnikatel	Šebrov	99	1	0
-6201	582476	1	5	1	3	Jana	Klozová	F	Mgr.		42	ředitelka ZŠ a MŠ	Šebrov	99	1	0
-6201	582476	1	5	1	4	Lenka	Skotáková	F	Ing.		46	školní inspektorka	Svatá Kateřina	99	1	0
-6201	582476	1	5	1	5	Vladimír	Závodník	M			43	elektromechanik	Šebrov	99	1	0
-6201	582476	1	5	1	6	Libor	Nechvátal	M			37	manažer prodeje	Šebrov	99	1	0
-6201	582476	1	5	1	7	David	Šindelář	M			36	podnikatel	Svatá Kateřina	99	1	0
-6201	582476	1	5	1	8	Kateřina	Filoušová	F	Ing.		41	servisní poradce	Šebrov	99	1	0
-6201	582476	1	5	1	9	Ludmila	Straková	F			72	v důchodu	Šebrov	1	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	582476	1	1	47	1	Jiří	Hrazdíra			51	dělník	Šebrov	47	47	0	M
+6201	582476	1	2	801	1	Jiří	Vaněk	Mgr.		37	státní zaměstnanec	Šebrov-Kateřina	99	80	0	M
+6201	582476	1	3	901	1	Miloslav	Mrázek			53	technik	Svatá Kateřina	99	80	0	M
+6201	582476	1	4	53	1	Jiří	Šrámek			45	vedoucí výroby	Šebrov-Kateřina	53	53	0	M
+6201	582476	1	5	1	1	Jiří	Nechvíle			62	starosta obce	Šebrov	1	1	0	M
+6201	582476	1	1	47	2	Zbyněk	Bartoš			41	seřizovač	Šebrov	99	47	0	M
+6201	582476	1	3	901	2	Jan	Dražka			22	student	Šebrov	99	80	0	M
+6201	582476	1	4	53	2	Radek	Helán			41	vedoucí skladu	Šebrov-Kateřina	53	53	0	M
+6201	582476	1	5	1	2	František	Kopřiva	RNDr.		62	podnikatel	Šebrov	99	1	0	M
+6201	582476	1	1	47	3	Jan	Matal	RSDr.		62	důchodce	Šebrov	47	47	0	M
+6201	582476	1	3	901	3	Lenka	Komárková			44	podnikatelka	Svatá Kateřina	99	80	0	F
+6201	582476	1	4	53	3	Markéta	Tlapáková	Ing.		36	členka představenstva a.s.	Šebrov-Kateřina	53	53	0	F
+6201	582476	1	5	1	3	Jana	Klozová	Mgr.		42	ředitelka ZŠ a MŠ	Šebrov	99	1	0	F
+6201	582476	1	1	47	4	Lenka	Jonášová			59	důchodkyně	Šebrov	99	47	0	F
+6201	582476	1	3	901	4	Martina	Trnková	Ing.		32	projektová manažerka	Šebrov	99	80	0	F
+6201	582476	1	4	53	4	David	Skoupý	Ing.		39	stavební technik	Šebrov-Kateřina	99	53	0	M
+6201	582476	1	5	1	4	Lenka	Skotáková	Ing.		46	školní inspektorka	Svatá Kateřina	99	1	0	F
+6201	582476	1	1	47	5	Petr	Trtílek			42	technik	Šebrov	99	47	0	M
+6201	582476	1	3	901	5	Luděk	Rychtar			36	ředitel reklamní agentury	Šebrov	99	80	0	M
+6201	582476	1	4	53	5	Iveta	Čičatková	Ing.		43	státní zaměstnanec	Šebrov-Kateřina	99	53	0	F
+6201	582476	1	5	1	5	Vladimír	Závodník			43	elektromechanik	Šebrov	99	1	0	M
+6201	582476	1	1	47	6	Radka	Ullmannová			44	dělnice	Šebrov	99	47	0	F
+6201	582476	1	3	901	6	Gabriela	Králová		DiS.	34	oděvní návrhářka	Šebrov	99	80	0	F
+6201	582476	1	4	53	6	Michal	Altrichter	Ing.		40	podnikatel	Šebrov-Kateřina	99	53	0	M
+6201	582476	1	5	1	6	Libor	Nechvátal			37	manažer prodeje	Šebrov	99	1	0	M
+6201	582476	1	1	47	7	Oldřich	Vajbar			69	důchodce	Šebrov	47	47	0	M
+6201	582476	1	3	901	7	Jan	Branda	Ing.		31	produktový manažer	Svatá Kateřina	99	80	0	M
+6201	582476	1	4	53	7	Pavel	Tomášek			43	podnikatel	Šebrov-Kateřina	99	53	0	M
+6201	582476	1	5	1	7	David	Šindelář			36	podnikatel	Svatá Kateřina	99	1	0	M
+6201	582476	1	1	47	8	Jiří	Ševčík			55	nezaměstnaný	Svatá Kateřina	99	47	0	M
+6201	582476	1	4	53	8	Milan	Štěpánek			40	strojní mechanik	Šebrov-Kateřina	99	53	0	M
+6201	582476	1	5	1	8	Kateřina	Filoušová	Ing.		41	servisní poradce	Šebrov	99	1	0	F
+6201	582476	1	1	47	9	Josef	Němec			68	důchodce	Šebrov	47	47	0	M
+6201	582476	1	4	53	9	Pavel	Tlapák	Mgr.		38	člen představenstva a.s.	Šebrov-Kateřina	53	53	0	M
+6201	582476	1	5	1	9	Ludmila	Straková			72	v důchodu	Šebrov	1	1	0	F

@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7101	557218	1	1	901	1	Jan	Hendrych	M			47	podnikatel	Kobylá nad Vidnavkou	99	80	0
-7101	557218	1	1	901	2	Petr	Šagát	M			48	ostraha	Kobylá nad Vidnavkou	99	80	0
-7101	557218	1	1	901	3	Jaromír	Vlček	M			51	údržbář	Kobylá nad Vidnavkou	99	80	0
-7101	557218	1	1	901	4	Jiří	Janičata	M			36	vychovatel	Kobylá nad Vidnavkou	99	80	0
-7101	557218	1	1	901	5	Rudolf	Palička	M			38	dělník	Kobylá nad Vidnavkou	99	80	0
-7101	557218	1	1	901	6	Jiří	Sloup	M			47	podnikatel	Kobylá nad Vidnavkou	99	80	0
-7101	557218	1	1	901	7	Karel	Hřebačka	M			23	dělník	Kobylá nad Vidnavkou	99	80	0
-7101	557218	1	1	901	8	Pavel	Bachroň	M			39	prodavač	Kobylá nad Vidnavkou	99	80	0
-7101	557218	1	1	901	9	Silvie	Slováková	F			33	pečovatelka	Kobylá nad Vidnavkou	99	80	0
-7101	557218	1	2	1	1	Zdeňka	Herzigová	F			39	zdravotnice	Kobylá nad Vidnavkou	99	1	0
-7101	557218	1	2	1	2	Jaromír	Slaný	M			55	řidič	Kobylá nad Vidnavkou	99	1	0
-7101	557218	1	2	1	3	Alena	Máčalová	F			37	pánská krejčí	Kobylá nad Vidnavkou	99	1	0
-7101	557218	1	2	1	4	Marie	Nitscheová	F			61	důchodkyně	Kobylá nad Vidnavkou	99	1	0
-7101	557218	1	2	1	5	Ivana	Sloupová	F			21	OSVČ	Kobylá nad Vidnavkou	99	1	0
-7101	557218	1	2	1	6	Jan	Herzig	M			42	operátor	Kobylá nad Vidnavkou	99	1	0
-7101	557218	1	2	1	7	Viliam	Toth	M			58	OSVČ	Kobylá nad Vidnavkou	99	1	0
-7101	557218	1	2	1	8	Radek	Toth	M			33	OSVČ	Kobylá nad Vidnavkou	99	1	0
-7101	557218	1	2	1	9	Petra	Oprchalová	F			30	nezaměstnaná	Kobylá nad Vidnavkou	99	1	0
-7101	557218	1	3	902	1	Zuzana	Jochmannová	F			37	starostka obce	Kobylá nad Vidnavkou	99	80	0
-7101	557218	1	3	902	2	Ludvík	Krajíček	M			54	soukr. podnikatel	Kobylá nad Vidnavkou	99	80	0
-7101	557218	1	3	902	3	Bronislav	Grigoriadis	M			42	zedník	Kobylá nad Vidnavkou	99	80	0
-7101	557218	1	3	902	4	Petr	Rybárik	M			44	zedník	Kobylá nad Vidnavkou	99	80	0
-7101	557218	1	3	902	5	Lenka	Pastyříková	F			32	administr. pracovnice	Kobylá nad Vidnavkou	99	80	0
-7101	557218	1	3	902	6	Alexandra	Ponížilová	F			44	úřednice	Kobylá nad Vidnavkou	99	80	0
-7101	557218	1	3	902	7	Pavlína	Bachroňová	F			37	zdravotní sestra	Kobylá nad Vidnavkou	99	80	0
-7101	557218	1	3	902	8	Růžena	Bošková	F			56	zdravotní sestra	Kobylá nad Vidnavkou	99	80	0
-7101	557218	1	3	902	9	Jarmila	Zeleňáková	F			40	vychovatelka	Kobylá nad Vidnavkou	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7101	557218	1	1	901	1	Jan	Hendrych			47	podnikatel	Kobylá nad Vidnavkou	99	80	0	M
+7101	557218	1	2	1	1	Zdeňka	Herzigová			39	zdravotnice	Kobylá nad Vidnavkou	99	1	0	F
+7101	557218	1	3	902	1	Zuzana	Jochmannová			37	starostka obce	Kobylá nad Vidnavkou	99	80	0	F
+7101	557218	1	1	901	2	Petr	Šagát			48	ostraha	Kobylá nad Vidnavkou	99	80	0	M
+7101	557218	1	2	1	2	Jaromír	Slaný			55	řidič	Kobylá nad Vidnavkou	99	1	0	M
+7101	557218	1	3	902	2	Ludvík	Krajíček			54	soukr. podnikatel	Kobylá nad Vidnavkou	99	80	0	M
+7101	557218	1	1	901	3	Jaromír	Vlček			51	údržbář	Kobylá nad Vidnavkou	99	80	0	M
+7101	557218	1	2	1	3	Alena	Máčalová			37	pánská krejčí	Kobylá nad Vidnavkou	99	1	0	F
+7101	557218	1	3	902	3	Bronislav	Grigoriadis			42	zedník	Kobylá nad Vidnavkou	99	80	0	M
+7101	557218	1	1	901	4	Jiří	Janičata			36	vychovatel	Kobylá nad Vidnavkou	99	80	0	M
+7101	557218	1	2	1	4	Marie	Nitscheová			61	důchodkyně	Kobylá nad Vidnavkou	99	1	0	F
+7101	557218	1	3	902	4	Petr	Rybárik			44	zedník	Kobylá nad Vidnavkou	99	80	0	M
+7101	557218	1	1	901	5	Rudolf	Palička			38	dělník	Kobylá nad Vidnavkou	99	80	0	M
+7101	557218	1	2	1	5	Ivana	Sloupová			21	OSVČ	Kobylá nad Vidnavkou	99	1	0	F
+7101	557218	1	3	902	5	Lenka	Pastyříková			32	administr. pracovnice	Kobylá nad Vidnavkou	99	80	0	F
+7101	557218	1	1	901	6	Jiří	Sloup			47	podnikatel	Kobylá nad Vidnavkou	99	80	0	M
+7101	557218	1	2	1	6	Jan	Herzig			42	operátor	Kobylá nad Vidnavkou	99	1	0	M
+7101	557218	1	3	902	6	Alexandra	Ponížilová			44	úřednice	Kobylá nad Vidnavkou	99	80	0	F
+7101	557218	1	1	901	7	Karel	Hřebačka			23	dělník	Kobylá nad Vidnavkou	99	80	0	M
+7101	557218	1	2	1	7	Viliam	Toth			58	OSVČ	Kobylá nad Vidnavkou	99	1	0	M
+7101	557218	1	3	902	7	Pavlína	Bachroňová			37	zdravotní sestra	Kobylá nad Vidnavkou	99	80	0	F
+7101	557218	1	1	901	8	Pavel	Bachroň			39	prodavač	Kobylá nad Vidnavkou	99	80	0	M
+7101	557218	1	2	1	8	Radek	Toth			33	OSVČ	Kobylá nad Vidnavkou	99	1	0	M
+7101	557218	1	3	902	8	Růžena	Bošková			56	zdravotní sestra	Kobylá nad Vidnavkou	99	80	0	F
+7101	557218	1	1	901	9	Silvie	Slováková			33	pečovatelka	Kobylá nad Vidnavkou	99	80	0	F
+7101	557218	1	2	1	9	Petra	Oprchalová			30	nezaměstnaná	Kobylá nad Vidnavkou	99	1	0	F
+7101	557218	1	3	902	9	Jarmila	Zeleňáková			40	vychovatelka	Kobylá nad Vidnavkou	99	80	0	F

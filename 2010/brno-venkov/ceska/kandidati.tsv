@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	582921	1	1	902	1	Blanka	Chalupníková	F	Ing.	Ph.D.	35	letecký meteorolog	Česká	99	80	0
-6203	582921	1	1	902	2	Julie	Kamanová	F	Ing.		35	ekonom	Česká	99	80	0
-6203	582921	1	1	902	3	Zdeněk	Žák	M			42	podnikatel	Česká	99	80	0
-6203	582921	1	1	902	4	Eva	Janáčková	F	Mgr.		59	v domácnosti	Česká	99	80	0
-6203	582921	1	1	902	5	Bohuslav	Sláma	M			38	mistr obrobny	Česká	99	80	0
-6203	582921	1	1	902	6	Jitka	Novotná	F			34	podnikatelka	Česká	99	80	0
-6203	582921	1	1	902	7	Ilona	Štouračová	F	Ing.		49	v domácnosti	Česká	99	80	0
-6203	582921	1	1	902	8	Markéta	Chalupníková	F	Mgr.		30	středoškolský pedagog	Česká	99	80	0
-6203	582921	1	1	902	9	Vilém	Pavelka	M	Ing.		67	v důchodu	Česká	99	80	0
-6203	582921	1	2	901	1	Jana	Chiniová	F	Ing.		50	projektant	Česká	99	80	0
-6203	582921	1	2	901	2	Vladimír	Tichý	M	Ing.		37	projekt manažer	Česká	99	80	0
-6203	582921	1	2	901	3	Lenka	Mičánková	F			41	hospodářka	Česká	99	80	0
-6203	582921	1	2	901	4	David	Tasler	M	Ing.arch.		39	architekt	Česká	99	80	0
-6203	582921	1	2	901	5	Milan	Pavelka	M			32	ekonomický pracovník	Česká	99	80	0
-6203	582921	1	2	901	6	David	Klimša	M	Ing.		39	technik	Česká	99	80	0
-6203	582921	1	2	901	7	Iva	Šlachtová	F			36	radiologický laborant	Česká	99	80	0
-6203	582921	1	2	901	8	Barbora	Kábrtová	F			30	soukromý podnikatel	Česká	99	80	0
-6203	582921	1	2	901	9	Miloslav	Baumann	M			49	soukromý podnikatel	Česká	99	80	0
-6203	582921	1	3	53	1	Jindřich	Petlach	M			48	ředitel společnosti	Česká	53	53	0
-6203	582921	1	3	53	2	Milan	Golas	M	JUDr.		51	advokát	Česká	53	53	0
-6203	582921	1	3	53	3	Karel	Šlechta	M			58	geodet	Česká	53	53	0
-6203	582921	1	3	53	4	Miroslav	Barvínek	M	Ing.		50	jednatel společnosti	Česká	53	53	0
-6203	582921	1	3	53	5	Marcela	Pfeiferová	F			63	živnostník	Česká	53	53	0
-6203	582921	1	3	53	6	Michal	Tichý	M			46	živnostník	Česká	53	53	0
-6203	582921	1	3	53	7	Yvette	Pazderková	F			27	administrativní pracovník	Česká	53	53	0
-6203	582921	1	3	53	8	Libuše	Crhová	F			40	obchodní referent	Česká	53	53	0
-6203	582921	1	3	53	9	Josef	Záruba	M			47	živnostník	Česká	53	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	582921	1	1	902	1	Blanka	Chalupníková	Ing.	Ph.D.	35	letecký meteorolog	Česká	99	80	0	F
+6203	582921	1	2	901	1	Jana	Chiniová	Ing.		50	projektant	Česká	99	80	0	F
+6203	582921	1	3	53	1	Jindřich	Petlach			48	ředitel společnosti	Česká	53	53	0	M
+6203	582921	1	1	902	2	Julie	Kamanová	Ing.		35	ekonom	Česká	99	80	0	F
+6203	582921	1	2	901	2	Vladimír	Tichý	Ing.		37	projekt manažer	Česká	99	80	0	M
+6203	582921	1	3	53	2	Milan	Golas	JUDr.		51	advokát	Česká	53	53	0	M
+6203	582921	1	1	902	3	Zdeněk	Žák			42	podnikatel	Česká	99	80	0	M
+6203	582921	1	2	901	3	Lenka	Mičánková			41	hospodářka	Česká	99	80	0	F
+6203	582921	1	3	53	3	Karel	Šlechta			58	geodet	Česká	53	53	0	M
+6203	582921	1	1	902	4	Eva	Janáčková	Mgr.		59	v domácnosti	Česká	99	80	0	F
+6203	582921	1	2	901	4	David	Tasler	Ing.arch.		39	architekt	Česká	99	80	0	M
+6203	582921	1	3	53	4	Miroslav	Barvínek	Ing.		50	jednatel společnosti	Česká	53	53	0	M
+6203	582921	1	1	902	5	Bohuslav	Sláma			38	mistr obrobny	Česká	99	80	0	M
+6203	582921	1	2	901	5	Milan	Pavelka			32	ekonomický pracovník	Česká	99	80	0	M
+6203	582921	1	3	53	5	Marcela	Pfeiferová			63	živnostník	Česká	53	53	0	F
+6203	582921	1	1	902	6	Jitka	Novotná			34	podnikatelka	Česká	99	80	0	F
+6203	582921	1	2	901	6	David	Klimša	Ing.		39	technik	Česká	99	80	0	M
+6203	582921	1	3	53	6	Michal	Tichý			46	živnostník	Česká	53	53	0	M
+6203	582921	1	1	902	7	Ilona	Štouračová	Ing.		49	v domácnosti	Česká	99	80	0	F
+6203	582921	1	2	901	7	Iva	Šlachtová			36	radiologický laborant	Česká	99	80	0	F
+6203	582921	1	3	53	7	Yvette	Pazderková			27	administrativní pracovník	Česká	53	53	0	F
+6203	582921	1	1	902	8	Markéta	Chalupníková	Mgr.		30	středoškolský pedagog	Česká	99	80	0	F
+6203	582921	1	2	901	8	Barbora	Kábrtová			30	soukromý podnikatel	Česká	99	80	0	F
+6203	582921	1	3	53	8	Libuše	Crhová			40	obchodní referent	Česká	53	53	0	F
+6203	582921	1	1	902	9	Vilém	Pavelka	Ing.		67	v důchodu	Česká	99	80	0	M
+6203	582921	1	2	901	9	Miloslav	Baumann			49	soukromý podnikatel	Česká	99	80	0	M
+6203	582921	1	3	53	9	Josef	Záruba			47	živnostník	Česká	53	53	0	M

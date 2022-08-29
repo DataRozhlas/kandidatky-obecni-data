@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	552071	1	1	1	1	Zdenek	Hubáček	M			49	elektrikář	Dubčany	1	1	0
-7102	552071	1	1	1	2	Alois	Obšel	M			45	frézař	Dubčany	1	1	0
-7102	552071	1	1	1	3	Marcela	Sekaninová	F			34	zdravotní sestra	Dubčany	99	1	0
-7102	552071	1	1	1	4	Jiřina	Novotná	F			60	důchodce	Dubčany	1	1	0
-7102	552071	1	1	1	5	Jitka	Sekaninová	F			27	zdravotní sestra	Dubčany	1	1	0
-7102	552071	1	1	1	6	Karel	Krikel	M			29	soukromý zemědělec	Dubčany	99	1	0
-7102	552071	1	1	1	7	Marie	Krikelová	F			49	soukromý zemědělec	Dubčany	1	1	0
-7102	552071	1	2	801	1	Hana	Sládková	F			32	realitní makléř	Dubčany	99	80	0
-7102	552071	1	3	901	1	Bohumil	Květoň	M			27	projektant	Dubčany	99	80	0
-7102	552071	1	3	901	2	Karel	Stejskal	M	Bc.		27	manager	Dubčany	99	80	0
-7102	552071	1	3	901	3	Ludvík	Navrátil	M			24	student VŠ	Dubčany	99	80	0
-7102	552071	1	3	901	4	Ludmila	Zdřálková	F			18	student	Dubčany	99	80	0
-7102	552071	1	3	901	5	Roman	Mačák	M	Ing.		30	policie ČR	Dubčany	99	80	0
-7102	552071	1	3	901	6	Andrea	Alexová	F			29	zdravotní sestra	Dubčany	99	80	0
-7102	552071	1	3	901	7	Radomír	Grepl	M			28	technik dopravy	Dubčany	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	552071	1	1	1	1	Zdenek	Hubáček			49	elektrikář	Dubčany	1	1	0	M
+7102	552071	1	2	801	1	Hana	Sládková			32	realitní makléř	Dubčany	99	80	0	F
+7102	552071	1	3	901	1	Bohumil	Květoň			27	projektant	Dubčany	99	80	0	M
+7102	552071	1	1	1	2	Alois	Obšel			45	frézař	Dubčany	1	1	0	M
+7102	552071	1	3	901	2	Karel	Stejskal	Bc.		27	manager	Dubčany	99	80	0	M
+7102	552071	1	1	1	3	Marcela	Sekaninová			34	zdravotní sestra	Dubčany	99	1	0	F
+7102	552071	1	3	901	3	Ludvík	Navrátil			24	student VŠ	Dubčany	99	80	0	M
+7102	552071	1	1	1	4	Jiřina	Novotná			60	důchodce	Dubčany	1	1	0	F
+7102	552071	1	3	901	4	Ludmila	Zdřálková			18	student	Dubčany	99	80	0	F
+7102	552071	1	1	1	5	Jitka	Sekaninová			27	zdravotní sestra	Dubčany	1	1	0	F
+7102	552071	1	3	901	5	Roman	Mačák	Ing.		30	policie ČR	Dubčany	99	80	0	M
+7102	552071	1	1	1	6	Karel	Krikel			29	soukromý zemědělec	Dubčany	99	1	0	M
+7102	552071	1	3	901	6	Andrea	Alexová			29	zdravotní sestra	Dubčany	99	80	0	F
+7102	552071	1	1	1	7	Marie	Krikelová			49	soukromý zemědělec	Dubčany	1	1	0	F
+7102	552071	1	3	901	7	Radomír	Grepl			28	technik dopravy	Dubčany	99	80	0	M

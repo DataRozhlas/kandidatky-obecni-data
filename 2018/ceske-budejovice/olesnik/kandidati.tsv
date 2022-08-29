@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	544892	1	1	902	1	Milan	Kotýnek st.	M	Ing.		53	soukromý podnikatel	Olešník	99	80	A
-3101	544892	1	1	902	2	František	Mádl	M			47	servisní technik	Olešník	99	80	A
-3101	544892	1	1	902	3	Vladimír	Zibura	M	Mgr.		37	učitel ZŠ	Olešník	99	80	A
-3101	544892	1	1	902	4	Milan	Kotýnek ml.	M	Ing.		32	vedoucí ve vývoji	Olešník	99	80	A
-3101	544892	1	1	902	5	Jiří	Liška	M			37	živnostník	Olešník	99	80	A
-3101	544892	1	1	902	6	Dana	Kuboušková	F			57	učitelka MŠ	Olešník	99	80	A
-3101	544892	1	1	902	7	Jindřich	Vavroch	M			38	dělník	Olešník	99	80	A
-3101	544892	1	1	902	8	Pavel	Joza	M			45	živnostník	Chlumec	99	80	A
-3101	544892	1	1	902	9	Tomáš	Ježek	M			38	řidič	Olešník	99	80	A
-3101	544892	1	2	901	1	Jaroslav	Pavlica	M	JUDr.		68	právník	Olešník	99	80	A
-3101	544892	1	2	901	2	Zdeňka	Hucková	F	Mgr.		50	ředitelka ZŠ-MŠ	Olešník	99	80	A
-3101	544892	1	2	901	3	Bohuslava	Žáková	F			62	inval. důchodkyně	Chlumec	99	80	A
-3101	544892	1	2	901	4	Jan	Pártl	M	Ing.		65	důchodce	Nová Ves	99	80	A
-3101	544892	1	2	901	5	Jana	Peterková	F			63	důchodkyně	Olešník	99	80	A
-3101	544892	1	2	901	6	Jana	Jílková	F			40	rodičovská dovolená	Olešník	99	80	A
-3101	544892	1	2	901	7	Lucie	Kalousová	F			31	servírka	Olešník	99	80	A
-3101	544892	1	2	901	8	Marcela	Štumbauerová	F			42	prodavačka	Nová Ves	99	80	A
-3101	544892	1	2	901	9	Josef	Pomije	M	Ing.		60	OSVČ	Olešník	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	544892	1	1	902	1	Milan	Kotýnek st.	Ing.		53	soukromý podnikatel	Olešník	99	80	A	M
+3101	544892	1	2	901	1	Jaroslav	Pavlica	JUDr.		68	právník	Olešník	99	80	A	M
+3101	544892	1	1	902	2	František	Mádl			47	servisní technik	Olešník	99	80	A	M
+3101	544892	1	2	901	2	Zdeňka	Hucková	Mgr.		50	ředitelka ZŠ-MŠ	Olešník	99	80	A	F
+3101	544892	1	1	902	3	Vladimír	Zibura	Mgr.		37	učitel ZŠ	Olešník	99	80	A	M
+3101	544892	1	2	901	3	Bohuslava	Žáková			62	inval. důchodkyně	Chlumec	99	80	A	F
+3101	544892	1	1	902	4	Milan	Kotýnek ml.	Ing.		32	vedoucí ve vývoji	Olešník	99	80	A	M
+3101	544892	1	2	901	4	Jan	Pártl	Ing.		65	důchodce	Nová Ves	99	80	A	M
+3101	544892	1	1	902	5	Jiří	Liška			37	živnostník	Olešník	99	80	A	M
+3101	544892	1	2	901	5	Jana	Peterková			63	důchodkyně	Olešník	99	80	A	F
+3101	544892	1	1	902	6	Dana	Kuboušková			57	učitelka MŠ	Olešník	99	80	A	F
+3101	544892	1	2	901	6	Jana	Jílková			40	rodičovská dovolená	Olešník	99	80	A	F
+3101	544892	1	1	902	7	Jindřich	Vavroch			38	dělník	Olešník	99	80	A	M
+3101	544892	1	2	901	7	Lucie	Kalousová			31	servírka	Olešník	99	80	A	F
+3101	544892	1	1	902	8	Pavel	Joza			45	živnostník	Chlumec	99	80	A	M
+3101	544892	1	2	901	8	Marcela	Štumbauerová			42	prodavačka	Nová Ves	99	80	A	F
+3101	544892	1	1	902	9	Tomáš	Ježek			38	řidič	Olešník	99	80	A	M
+3101	544892	1	2	901	9	Josef	Pomije	Ing.		60	OSVČ	Olešník	99	80	A	M

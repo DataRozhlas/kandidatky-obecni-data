@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	505030	1	1	902	1	Jiří	Křičenský	M			53	technik	Dolní Bezděkov	99	80	A
-5301	505030	1	1	902	2	Tomáš	Vávra	M			51	podnikatel	Dolní Bezděkov	99	80	A
-5301	505030	1	1	902	3	Lenka	Dvořáková	F	Ing.		34	konstruktér	Dolní Bezděkov	99	80	A
-5301	505030	1	1	902	4	Věra	Nováková	F			51	kuchařka	Dolní Bezděkov	99	80	A
-5301	505030	1	1	902	5	Lenka	Slavíková	F	Mgr.		42	učitelka	Dolní Bezděkov	99	80	A
-5301	505030	1	1	902	6	Aleš	Plíšek	M			53	OSVČ	Dolní Bezděkov	99	80	A
-5301	505030	1	1	902	7	Hana	Theuerová	F			36	učitelka	Dolní Bezděkov	99	80	A
-5301	505030	1	1	902	8	Barbora	Marvanová	F			26	školnice	Dolní Bezděkov	99	80	A
-5301	505030	1	1	902	9	Bohumila	Vávrová	F			49	kuchařka	Dolní Bezděkov	99	80	A
-5301	505030	1	2	901	1	Petr	Červinka	M			45	vedoucí provozu	Dolní Bezděkov	99	80	A
-5301	505030	1	2	901	2	Jiří	Linhart	M			45	zámečník	Dolní Bezděkov	99	80	A
-5301	505030	1	2	901	3	Lenka	Drábková	F			55	uklízečka	Dolní Bezděkov	99	80	A
-5301	505030	1	2	901	4	Jakub	Šulc	M			35	OSVČ	Dolní Bezděkov	99	80	A
-5301	505030	1	2	901	5	Pavlína	Štumpfová	F			36	hospodářský ekonom	Dolní Bezděkov	99	80	A
-5301	505030	1	2	901	6	Radka	Krátká	F			31	mateřská dovolená	Dolní Bezděkov	99	80	A
-5301	505030	1	2	901	7	Václav	Starý	M			37	řidič	Dolní Bezděkov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	505030	1	1	902	1	Jiří	Křičenský			53	technik	Dolní Bezděkov	99	80	A	M
+5301	505030	1	2	901	1	Petr	Červinka			45	vedoucí provozu	Dolní Bezděkov	99	80	A	M
+5301	505030	1	1	902	2	Tomáš	Vávra			51	podnikatel	Dolní Bezděkov	99	80	A	M
+5301	505030	1	2	901	2	Jiří	Linhart			45	zámečník	Dolní Bezděkov	99	80	A	M
+5301	505030	1	1	902	3	Lenka	Dvořáková	Ing.		34	konstruktér	Dolní Bezděkov	99	80	A	F
+5301	505030	1	2	901	3	Lenka	Drábková			55	uklízečka	Dolní Bezděkov	99	80	A	F
+5301	505030	1	1	902	4	Věra	Nováková			51	kuchařka	Dolní Bezděkov	99	80	A	F
+5301	505030	1	2	901	4	Jakub	Šulc			35	OSVČ	Dolní Bezděkov	99	80	A	M
+5301	505030	1	1	902	5	Lenka	Slavíková	Mgr.		42	učitelka	Dolní Bezděkov	99	80	A	F
+5301	505030	1	2	901	5	Pavlína	Štumpfová			36	hospodářský ekonom	Dolní Bezděkov	99	80	A	F
+5301	505030	1	1	902	6	Aleš	Plíšek			53	OSVČ	Dolní Bezděkov	99	80	A	M
+5301	505030	1	2	901	6	Radka	Krátká			31	mateřská dovolená	Dolní Bezděkov	99	80	A	F
+5301	505030	1	1	902	7	Hana	Theuerová			36	učitelka	Dolní Bezděkov	99	80	A	F
+5301	505030	1	2	901	7	Václav	Starý			37	řidič	Dolní Bezděkov	99	80	A	M
+5301	505030	1	1	902	8	Barbora	Marvanová			26	školnice	Dolní Bezděkov	99	80	A	F
+5301	505030	1	1	902	9	Bohumila	Vávrová			49	kuchařka	Dolní Bezděkov	99	80	A	F

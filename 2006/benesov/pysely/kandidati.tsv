@@ -1,32 +1,32 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	538680	1	1	129	1	Stanislav	Vosický	M			52	starosta	Pyšely	99	129	0
-2101	538680	1	1	129	2	Dana	Drábová	F	Ing.Ph.D.		45	státní úředník	Pyšely	99	129	0
-2101	538680	1	1	129	3	Richard	Ošmyk	M			36	instalatér	Pyšely	99	129	0
-2101	538680	1	1	129	4	Jan	Pavlík	M	JUDr.		66	tajemník OÚ	Pyšely	99	129	0
-2101	538680	1	1	129	5	Pavel	Vašourek	M			47	strojvedoucí ČD	Pyšely	99	129	0
-2101	538680	1	1	129	6	Jan	Truhlář	M			27	podnikatel	Pyšely	99	129	0
-2101	538680	1	1	129	7	Hana	Platilová	F			40	úřednice	Pyšely-Borová Lhota	99	129	0
-2101	538680	1	1	129	8	Václav	Vitanovský	M			64	úředník	Pyšely	99	129	0
-2101	538680	1	1	129	9	Bohumila	Nádvorníková	F			66	důchodce	Pyšely-Borová Lhota	99	129	0
-2101	538680	1	2	901	1	Martin	Kolář	M			45	strojvedoucí ČD	Pyšely	99	80	0
-2101	538680	1	2	901	2	Tomáš	Havlíček	M	RNDr.	Ph.D.	39	vysokoškolský učitel	Pyšely	99	80	0
-2101	538680	1	2	901	3	Helena	Gmuzdková	F			49	obchodní zástupce	Pyšely-Zaječice	99	80	0
-2101	538680	1	2	901	4	Lucie	Barešová	F	JUDr.		34	právník	Pyšely	99	80	0
-2101	538680	1	2	901	5	Martin	Tiefenbach	M			36	komisař policie ČR	Pyšely	99	80	0
-2101	538680	1	3	902	1	Pavel	Smutný	M			48	jednatel	Pyšely	99	80	0
-2101	538680	1	3	902	2	Jana	Prchlíková	F			49	ekonomická pracovnice	Pyšely	99	80	0
-2101	538680	1	3	902	3	Dušan	Kostrhoun	M			31	nástrojař	Pyšely	99	80	0
-2101	538680	1	3	902	4	Ivo	Vnouček	M			48	údržbář	Pyšely	99	80	0
-2101	538680	1	3	902	5	Michal	Vašourek	M			25	signalista ČD	Pyšely	99	80	0
-2101	538680	1	3	902	6	Ivana	Sládková	F			39	mateřská dovolená	Pyšely	99	80	0
-2101	538680	1	3	902	7	Jaroslav	Heřman	M			28	řidič	Pyšely-Nová Ves	99	80	0
-2101	538680	1	3	902	8	Petr	Havelka	M			24	montér	Pyšely	99	80	0
-2101	538680	1	3	902	9	Lukáš	Bártík	M			27	lakýrník	Pyšely	99	80	0
-2101	538680	1	4	53	1	Jiří	Lenker	M	Ing.		68	technik	Pyšely	53	53	0
-2101	538680	1	4	53	2	Bohumil	Gondík	M			63	důchodce	Pyšely	99	53	0
-2101	538680	1	4	53	3	Martin	Zaradička	M			41	podnikatel	Pyšely	99	53	0
-2101	538680	1	4	53	4	Zdeněk	Hruška	M			31	státní zaměstnanec	Pyšely-Zaječice	99	53	0
-2101	538680	1	4	53	5	Jaroslav	Fanfrlík	M			32	datový analytik	Pyšely	99	53	0
-2101	538680	1	4	53	6	Marie	Debefová	F			57	hospodářský správce	Pyšely	99	53	0
-2101	538680	1	4	53	7	Jan	Spálený	M			63	hudebník	Pyšely	99	53	0
-2101	538680	1	4	53	8	František	Ošmyk	M			66	důchodce	Pyšely	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	538680	1	1	129	1	Stanislav	Vosický			52	starosta	Pyšely	99	129	0	M
+2101	538680	1	2	901	1	Martin	Kolář			45	strojvedoucí ČD	Pyšely	99	80	0	M
+2101	538680	1	3	902	1	Pavel	Smutný			48	jednatel	Pyšely	99	80	0	M
+2101	538680	1	4	53	1	Jiří	Lenker	Ing.		68	technik	Pyšely	53	53	0	M
+2101	538680	1	1	129	2	Dana	Drábová	Ing.Ph.D.		45	státní úředník	Pyšely	99	129	0	F
+2101	538680	1	2	901	2	Tomáš	Havlíček	RNDr.	Ph.D.	39	vysokoškolský učitel	Pyšely	99	80	0	M
+2101	538680	1	3	902	2	Jana	Prchlíková			49	ekonomická pracovnice	Pyšely	99	80	0	F
+2101	538680	1	4	53	2	Bohumil	Gondík			63	důchodce	Pyšely	99	53	0	M
+2101	538680	1	1	129	3	Richard	Ošmyk			36	instalatér	Pyšely	99	129	0	M
+2101	538680	1	2	901	3	Helena	Gmuzdková			49	obchodní zástupce	Pyšely-Zaječice	99	80	0	F
+2101	538680	1	3	902	3	Dušan	Kostrhoun			31	nástrojař	Pyšely	99	80	0	M
+2101	538680	1	4	53	3	Martin	Zaradička			41	podnikatel	Pyšely	99	53	0	M
+2101	538680	1	1	129	4	Jan	Pavlík	JUDr.		66	tajemník OÚ	Pyšely	99	129	0	M
+2101	538680	1	2	901	4	Lucie	Barešová	JUDr.		34	právník	Pyšely	99	80	0	F
+2101	538680	1	3	902	4	Ivo	Vnouček			48	údržbář	Pyšely	99	80	0	M
+2101	538680	1	4	53	4	Zdeněk	Hruška			31	státní zaměstnanec	Pyšely-Zaječice	99	53	0	M
+2101	538680	1	1	129	5	Pavel	Vašourek			47	strojvedoucí ČD	Pyšely	99	129	0	M
+2101	538680	1	2	901	5	Martin	Tiefenbach			36	komisař policie ČR	Pyšely	99	80	0	M
+2101	538680	1	3	902	5	Michal	Vašourek			25	signalista ČD	Pyšely	99	80	0	M
+2101	538680	1	4	53	5	Jaroslav	Fanfrlík			32	datový analytik	Pyšely	99	53	0	M
+2101	538680	1	1	129	6	Jan	Truhlář			27	podnikatel	Pyšely	99	129	0	M
+2101	538680	1	3	902	6	Ivana	Sládková			39	mateřská dovolená	Pyšely	99	80	0	F
+2101	538680	1	4	53	6	Marie	Debefová			57	hospodářský správce	Pyšely	99	53	0	F
+2101	538680	1	1	129	7	Hana	Platilová			40	úřednice	Pyšely-Borová Lhota	99	129	0	F
+2101	538680	1	3	902	7	Jaroslav	Heřman			28	řidič	Pyšely-Nová Ves	99	80	0	M
+2101	538680	1	4	53	7	Jan	Spálený			63	hudebník	Pyšely	99	53	0	M
+2101	538680	1	1	129	8	Václav	Vitanovský			64	úředník	Pyšely	99	129	0	M
+2101	538680	1	3	902	8	Petr	Havelka			24	montér	Pyšely	99	80	0	M
+2101	538680	1	4	53	8	František	Ošmyk			66	důchodce	Pyšely	99	53	0	M
+2101	538680	1	1	129	9	Bohumila	Nádvorníková			66	důchodce	Pyšely-Borová Lhota	99	129	0	F
+2101	538680	1	3	902	9	Lukáš	Bártík			27	lakýrník	Pyšely	99	80	0	M

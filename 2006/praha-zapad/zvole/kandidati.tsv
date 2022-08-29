@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	539902	1	1	901	1	Marie	Figelová	F	Ing.		43	finanční manažer	Zvole	99	80	0
-2110	539902	1	1	901	2	Jaroslav	Šafránek	M	Ing.	CSc.	68	vědecký pracovník	Zvole	99	80	0
-2110	539902	1	1	901	3	Miloslav	Petříček	M			54	soukromý zemědělec	Hlásná Třebáň	99	80	0
-2110	539902	1	1	901	4	František	Mrkus	M	Ing.		39	státní zaměstnanec	Zvole	99	80	0
-2110	539902	1	1	901	5	Věra	Nesá	F			56	soukromý podnikatel	Zvole	99	80	0
-2110	539902	1	1	901	6	Pavla	Zelingrová	F			42	soukromý podnikatel	Zvole	99	80	0
-2110	539902	1	1	901	7	Josef	Šebek	M			52	soukromý podnikatel	Zvole	99	80	0
-2110	539902	1	1	901	8	Tomáš	Hájek	M	Ing.		42	finanční poradce	Zvole	99	80	0
-2110	539902	1	1	901	9	Petr	Šerák	M	Ing.		48	ekonom	Zvole	99	80	0
-2110	539902	1	1	901	10	Alena	Součková	F			33	soukromý podnikatel	Zvole	99	80	0
-2110	539902	1	1	901	11	Karel	Lešetický	M			64	soukromý podnikatel	Černíky	99	80	0
-2110	539902	1	1	901	12	Petr	Semecký	M			39	soukromý podnikatel	Zvole	99	80	0
-2110	539902	1	1	901	13	Marcela	Sasková	F			31	učitelka MŠ	Zvole	99	80	0
-2110	539902	1	1	901	14	Šárka	Vrbová	F			32	ošetřovatelka dětí	Zvole	99	80	0
-2110	539902	1	1	901	15	Helena	Bechyňová	F			50	zdravotní sestra	Zvole	99	80	0
-2110	539902	1	2	902	1	Karel	Suk	M			55	soukromý podnikatel	Zvole	99	80	0
-2110	539902	1	2	902	2	Karel	Trefil	M			50	soukromý podnikatel	Zvole	99	80	0
-2110	539902	1	2	902	3	Vladimír	Tolar	M			36	šéfkuchař	Zvole	99	80	0
-2110	539902	1	2	902	4	Ivo	Šmelhaus	M	Ing.		41	vědecký pracovník	Zvole	99	80	0
-2110	539902	1	3	53	1	František	Králíček	M	Ing.		65	výkonný ředitel tiskárny	Zvole	53	53	0
-2110	539902	1	3	53	2	Miroslav	Stoklasa	M	Ing.		40	soukromý podnikatel	Zvole	53	53	0
-2110	539902	1	3	53	3	Hana	Šiplerová	F			46	obchodně ekonomický pracovník	Zvole	53	53	0
-2110	539902	1	3	53	4	Luboš	Hrachovec	M			31	hasič	Zvole	99	53	0
-2110	539902	1	3	53	5	Václav	Jež	M	Ing.		50	soukromý podnikatel	Zvole	99	53	0
-2110	539902	1	3	53	6	Marcel	Pudich	M	Ing.		38	obchodní manažer	Zvole	99	53	0
-2110	539902	1	3	53	7	Jaroslava	Hrubá	F			54	soukromá podnikatelka	Černíky	99	53	0
-2110	539902	1	3	53	8	Jana	Probstová	F	Mgr.		38	právnička	Zvole	99	53	0
-2110	539902	1	3	53	9	Marek	Novák	M			29	soukromý podnikatel	Praha 6	99	53	0
-2110	539902	1	3	53	10	Eva	Lövenhöferová	F	Ing.		35	interiérový designér	Zvole	99	53	0
-2110	539902	1	3	53	11	Katarína	Hánělová	F	MUDr.		32	lékařka	Zvole	99	53	0
-2110	539902	1	3	53	12	Blanka	Cirkovská	F			58	důchodce	Zvole	99	53	0
-2110	539902	1	3	53	13	Vladimír	Fornůsek	M	Ing.		38	manažer společnosti	Zvole	99	53	0
-2110	539902	1	3	53	14	Pavel	Koudelka	M	Ing.		47	stavební technik	Zvole	99	53	0
-2110	539902	1	3	53	15	Lubomír	Duda	M	Ing.		55	technicko obchodní pracovník	Zvole	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	539902	1	1	901	1	Marie	Figelová	Ing.		43	finanční manažer	Zvole	99	80	0	F
+2110	539902	1	2	902	1	Karel	Suk			55	soukromý podnikatel	Zvole	99	80	0	M
+2110	539902	1	3	53	1	František	Králíček	Ing.		65	výkonný ředitel tiskárny	Zvole	53	53	0	M
+2110	539902	1	1	901	2	Jaroslav	Šafránek	Ing.	CSc.	68	vědecký pracovník	Zvole	99	80	0	M
+2110	539902	1	2	902	2	Karel	Trefil			50	soukromý podnikatel	Zvole	99	80	0	M
+2110	539902	1	3	53	2	Miroslav	Stoklasa	Ing.		40	soukromý podnikatel	Zvole	53	53	0	M
+2110	539902	1	1	901	3	Miloslav	Petříček			54	soukromý zemědělec	Hlásná Třebáň	99	80	0	M
+2110	539902	1	2	902	3	Vladimír	Tolar			36	šéfkuchař	Zvole	99	80	0	M
+2110	539902	1	3	53	3	Hana	Šiplerová			46	obchodně ekonomický pracovník	Zvole	53	53	0	F
+2110	539902	1	1	901	4	František	Mrkus	Ing.		39	státní zaměstnanec	Zvole	99	80	0	M
+2110	539902	1	2	902	4	Ivo	Šmelhaus	Ing.		41	vědecký pracovník	Zvole	99	80	0	M
+2110	539902	1	3	53	4	Luboš	Hrachovec			31	hasič	Zvole	99	53	0	M
+2110	539902	1	1	901	5	Věra	Nesá			56	soukromý podnikatel	Zvole	99	80	0	F
+2110	539902	1	3	53	5	Václav	Jež	Ing.		50	soukromý podnikatel	Zvole	99	53	0	M
+2110	539902	1	1	901	6	Pavla	Zelingrová			42	soukromý podnikatel	Zvole	99	80	0	F
+2110	539902	1	3	53	6	Marcel	Pudich	Ing.		38	obchodní manažer	Zvole	99	53	0	M
+2110	539902	1	1	901	7	Josef	Šebek			52	soukromý podnikatel	Zvole	99	80	0	M
+2110	539902	1	3	53	7	Jaroslava	Hrubá			54	soukromá podnikatelka	Černíky	99	53	0	F
+2110	539902	1	1	901	8	Tomáš	Hájek	Ing.		42	finanční poradce	Zvole	99	80	0	M
+2110	539902	1	3	53	8	Jana	Probstová	Mgr.		38	právnička	Zvole	99	53	0	F
+2110	539902	1	1	901	9	Petr	Šerák	Ing.		48	ekonom	Zvole	99	80	0	M
+2110	539902	1	3	53	9	Marek	Novák			29	soukromý podnikatel	Praha 6	99	53	0	M
+2110	539902	1	1	901	10	Alena	Součková			33	soukromý podnikatel	Zvole	99	80	0	F
+2110	539902	1	3	53	10	Eva	Lövenhöferová	Ing.		35	interiérový designér	Zvole	99	53	0	F
+2110	539902	1	1	901	11	Karel	Lešetický			64	soukromý podnikatel	Černíky	99	80	0	M
+2110	539902	1	3	53	11	Katarína	Hánělová	MUDr.		32	lékařka	Zvole	99	53	0	F
+2110	539902	1	1	901	12	Petr	Semecký			39	soukromý podnikatel	Zvole	99	80	0	M
+2110	539902	1	3	53	12	Blanka	Cirkovská			58	důchodce	Zvole	99	53	0	F
+2110	539902	1	1	901	13	Marcela	Sasková			31	učitelka MŠ	Zvole	99	80	0	F
+2110	539902	1	3	53	13	Vladimír	Fornůsek	Ing.		38	manažer společnosti	Zvole	99	53	0	M
+2110	539902	1	1	901	14	Šárka	Vrbová			32	ošetřovatelka dětí	Zvole	99	80	0	F
+2110	539902	1	3	53	14	Pavel	Koudelka	Ing.		47	stavební technik	Zvole	99	53	0	M
+2110	539902	1	1	901	15	Helena	Bechyňová			50	zdravotní sestra	Zvole	99	80	0	F
+2110	539902	1	3	53	15	Lubomír	Duda	Ing.		55	technicko obchodní pracovník	Zvole	99	53	0	M

@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	594130	1	1	902	1	František	Treger	M			50	starosta	Hrabětice	99	80	A
-6207	594130	1	1	902	2	Alexander	Lavička	M			32	místostarosta, OSVČ	Hrabětice	99	80	A
-6207	594130	1	1	902	3	Iveta	Haasová	F	Ing.		51	zdravotní sestra, OSVČ	Hrabětice	99	80	A
-6207	594130	1	1	902	4	Bronislav	Dukát	M			47	operátor výrobní linky	Hrabětice	99	80	A
-6207	594130	1	1	902	5	Renata	Bártová	F	Ing.		39	účetní	Hrabětice	99	80	A
-6207	594130	1	1	902	6	Vladislav	Bárta	M			45	strojník	Hrabětice	99	80	A
-6207	594130	1	1	902	7	Pavel	Miklas	M			28	elektrikář	Hrabětice	99	80	A
-6207	594130	1	1	902	8	Filip	Treger	M			30	OSVČ	Hrabětice	99	80	A
-6207	594130	1	1	902	9	Pavel	Rožňovák	M			59	zedník	Hrabětice	99	80	A
-6207	594130	1	1	902	10	Ludmila	Ševčíková	F			33	kadeřnice	Hrabětice	99	80	A
-6207	594130	1	1	902	11	Karel	Duda	M			73	důchodce	Hrabětice	99	80	A
-6207	594130	1	2	901	1	Martin	Fodor	M	Ing.		37	obchodní referent	Hrabětice	99	80	A
-6207	594130	1	2	901	2	Martin	Konvalina	M			52	výpravčí	Hrabětice	99	80	A
-6207	594130	1	2	901	3	Ladislav	Čavinský	M			50	OSVČ	Hrabětice	99	80	A
-6207	594130	1	2	901	4	Dušan	Náhoda	M			53	opravář zemědělských strojů	Hrabětice	99	80	A
-6207	594130	1	2	901	5	Josef	Wolf	M	Mgr.	Dis.	46	učitel ZŠ	Hrabětice	99	80	A
-6207	594130	1	2	901	6	Miroslav	Sýkora	M			24	OSVČ	Hrabětice	99	80	A
-6207	594130	1	2	901	7	Eliška	Náhodová	F	Bc.		23	studentka	Hrabětice	99	80	A
-6207	594130	1	2	901	8	Martin	Ingerle	M			47	technik	Hrabětice	99	80	A
-6207	594130	1	2	901	9	Igor	Hanák	M			47	elektrikář	Hrabětice	99	80	A
-6207	594130	1	2	901	10	Roman	Zedník	M			58	OSVČ	Hrabětice	99	80	A
-6207	594130	1	2	901	11	Edita	Wolfová	F	Mgr.		44	učitelka ZŠ	Hrabětice	99	80	A
-6207	594130	1	3	47	1	Miroslav	Ondřej	M			72	důchodce	Hrabětice	47	47	A
-6207	594130	1	3	47	2	Monika	Janásová	F			41	diplomovaná zdravotní sestra	Hrabětice	99	47	A
-6207	594130	1	3	47	3	Václav	Hrůza	M			64	důchodce	Hrabětice	47	47	A
-6207	594130	1	3	47	4	Petr	Čermák	M			52	elektrikář	Hrabětice	99	47	A
-6207	594130	1	3	47	5	Rostislav	Špaček	M			50	strážník městské policie	Hrabětice	47	47	A
-6207	594130	1	3	47	6	Milan	Pavlík	M			66	důchodce	Hrabětice	47	47	A
-6207	594130	1	3	47	7	František	Ležák	M			45	mistr výroby LAC	Hrabětice	99	47	A
-6207	594130	1	3	47	8	Jan	Špaček	M			26	obsluha čerpací stanice	Hrabětice	99	47	A
-6207	594130	1	3	47	9	Antonín	Hél	M			53	dělník LAC	Hrabětice	99	47	A
-6207	594130	1	3	47	10	Jaroslava	Petrovská	F			82	důchodkyně	Hrabětice	47	47	A
-6207	594130	1	3	47	11	Vladimír	Hrobár	M			69	důchodce	Hrabětice	99	47	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	594130	1	1	902	1	František	Treger			50	starosta	Hrabětice	99	80	A	M
+6207	594130	1	2	901	1	Martin	Fodor	Ing.		37	obchodní referent	Hrabětice	99	80	A	M
+6207	594130	1	3	47	1	Miroslav	Ondřej			72	důchodce	Hrabětice	47	47	A	M
+6207	594130	1	1	902	2	Alexander	Lavička			32	místostarosta, OSVČ	Hrabětice	99	80	A	M
+6207	594130	1	2	901	2	Martin	Konvalina			52	výpravčí	Hrabětice	99	80	A	M
+6207	594130	1	3	47	2	Monika	Janásová			41	diplomovaná zdravotní sestra	Hrabětice	99	47	A	F
+6207	594130	1	1	902	3	Iveta	Haasová	Ing.		51	zdravotní sestra, OSVČ	Hrabětice	99	80	A	F
+6207	594130	1	2	901	3	Ladislav	Čavinský			50	OSVČ	Hrabětice	99	80	A	M
+6207	594130	1	3	47	3	Václav	Hrůza			64	důchodce	Hrabětice	47	47	A	M
+6207	594130	1	1	902	4	Bronislav	Dukát			47	operátor výrobní linky	Hrabětice	99	80	A	M
+6207	594130	1	2	901	4	Dušan	Náhoda			53	opravář zemědělských strojů	Hrabětice	99	80	A	M
+6207	594130	1	3	47	4	Petr	Čermák			52	elektrikář	Hrabětice	99	47	A	M
+6207	594130	1	1	902	5	Renata	Bártová	Ing.		39	účetní	Hrabětice	99	80	A	F
+6207	594130	1	2	901	5	Josef	Wolf	Mgr.	Dis.	46	učitel ZŠ	Hrabětice	99	80	A	M
+6207	594130	1	3	47	5	Rostislav	Špaček			50	strážník městské policie	Hrabětice	47	47	A	M
+6207	594130	1	1	902	6	Vladislav	Bárta			45	strojník	Hrabětice	99	80	A	M
+6207	594130	1	2	901	6	Miroslav	Sýkora			24	OSVČ	Hrabětice	99	80	A	M
+6207	594130	1	3	47	6	Milan	Pavlík			66	důchodce	Hrabětice	47	47	A	M
+6207	594130	1	1	902	7	Pavel	Miklas			28	elektrikář	Hrabětice	99	80	A	M
+6207	594130	1	2	901	7	Eliška	Náhodová	Bc.		23	studentka	Hrabětice	99	80	A	F
+6207	594130	1	3	47	7	František	Ležák			45	mistr výroby LAC	Hrabětice	99	47	A	M
+6207	594130	1	1	902	8	Filip	Treger			30	OSVČ	Hrabětice	99	80	A	M
+6207	594130	1	2	901	8	Martin	Ingerle			47	technik	Hrabětice	99	80	A	M
+6207	594130	1	3	47	8	Jan	Špaček			26	obsluha čerpací stanice	Hrabětice	99	47	A	M
+6207	594130	1	1	902	9	Pavel	Rožňovák			59	zedník	Hrabětice	99	80	A	M
+6207	594130	1	2	901	9	Igor	Hanák			47	elektrikář	Hrabětice	99	80	A	M
+6207	594130	1	3	47	9	Antonín	Hél			53	dělník LAC	Hrabětice	99	47	A	M
+6207	594130	1	1	902	10	Ludmila	Ševčíková			33	kadeřnice	Hrabětice	99	80	A	F
+6207	594130	1	2	901	10	Roman	Zedník			58	OSVČ	Hrabětice	99	80	A	M
+6207	594130	1	3	47	10	Jaroslava	Petrovská			82	důchodkyně	Hrabětice	47	47	A	F
+6207	594130	1	1	902	11	Karel	Duda			73	důchodce	Hrabětice	99	80	A	M
+6207	594130	1	2	901	11	Edita	Wolfová	Mgr.		44	učitelka ZŠ	Hrabětice	99	80	A	F
+6207	594130	1	3	47	11	Vladimír	Hrobár			69	důchodce	Hrabětice	99	47	A	M

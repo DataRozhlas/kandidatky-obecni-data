@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	570397	1	1	902	1	Vít	Vaníček	M			47	státní úředník	Měník	99	80	A
-5201	570397	1	1	902	2	Lukáš	Kamínský	M		DiS.	44	vedoucí výroby	Měník	99	80	A
-5201	570397	1	1	902	3	Jiří	Nosek	M	Ing.		51	stavbyvedoucí	Měník	99	80	A
-5201	570397	1	1	902	4	Petr	Semerád	M	Ing.		68	důchodce	Měník	99	80	A
-5201	570397	1	1	902	5	Martin	Sedláček	M			35	obchodní manažer	Měník	99	80	A
-5201	570397	1	1	902	6	David	Bendák	M	Ing.		42	OSVČ	Měník	99	80	A
-5201	570397	1	1	902	7	Miloslav	Holman	M			48	OSVČ	Měník	99	80	A
-5201	570397	1	1	902	8	Lenka	Bradnová	F	Ing.		40	OSVČ	Měník	99	80	A
-5201	570397	1	1	902	9	Adéla	Stránská	F			28	úřednice	Měník	99	80	A
-5201	570397	1	2	903	1	František	Hejčl	M			59	údržbář	Barchůvek	99	80	A
-5201	570397	1	2	903	2	Jana	Hynková	F			52	dispečerka	Barchůvek	99	80	A
-5201	570397	1	2	903	3	Ladislava	Haltufová	F			54	úřednice	Barchůvek	99	80	A
-5201	570397	1	2	903	4	Renata	Karásková	F	Bc.		50	účetní	Barchůvek	99	80	A
-5201	570397	1	2	903	5	Radek	Šebela	M			46	vedoucí provozu	Barchůvek	99	80	A
-5201	570397	1	2	903	6	Jiří	Kurka	M			67	důchodce	Barchůvek	99	80	A
-5201	570397	1	2	903	7	Petr	Vondryska	M			69	důchodce	Barchůvek	99	80	A
-5201	570397	1	2	903	8	Petr	Žďárský	M			32	specialista skladu	Barchůvek	99	80	A
-5201	570397	1	2	903	9	Luboš	Haltuf	M			59	úředník	Barchůvek	99	80	A
-5201	570397	1	3	904	1	Alena	Dvořáková	F	Bc.		47	státní úřednice	Barchůvek	99	80	A
-5201	570397	1	3	904	2	Martin	Volejník	M			54	OSVČ	Barchůvek	99	80	A
-5201	570397	1	3	904	3	Stefanie	Smutková	F			27	teamleader	Barchůvek	99	80	A
-5201	570397	1	3	904	4	Martin	Glaser	M			53	OSVČ	Barchůvek	99	80	A
-5201	570397	1	3	904	5	Ondřej	Hron	M		DiS.	36	vedoucí dílny	Barchůvek	99	80	A
-5201	570397	1	3	904	6	Petra	Šolínová	F	Mgr.		44	zdravotní sestra	Barchůvek	99	80	A
-5201	570397	1	3	904	7	Nikola	Kovačíková	F			33	zdravotní sestra	Barchůvek	99	80	A
-5201	570397	1	3	904	8	Františka	Smutková	F			55	vedoucí účtárny	Barchůvek	99	80	A
-5201	570397	1	3	904	9	Vlastimil	Dvořák	M			50	truhlář	Barchůvek	99	80	A
-5201	570397	1	4	901	1	Petr	Jiroutek	M			49	technik	Bydžovská Lhotka	99	80	A
-5201	570397	1	4	901	2	Tomáš	Fišera	M	Ing.		25	studující	Bydžovská Lhotka	99	80	A
-5201	570397	1	4	901	3	Hynek	Hladík	M	Ing.		65	OSVČ	Bydžovská Lhotka	99	80	A
-5201	570397	1	4	901	4	Jan	Fišera	M			23	dělník	Bydžovská Lhotka	99	80	A
-5201	570397	1	4	901	5	Tomáš	Suchánek	M			23	dělník	Bydžovská Lhotka	99	80	A
-5201	570397	1	4	901	6	Lukáš	Gottwald	M			36	živnostník	Bydžovská Lhotka	99	80	A
-5201	570397	1	4	901	7	Petr	Škultéty	M			44	dělník	Bydžovská Lhotka	99	80	A
-5201	570397	1	4	901	8	Radek	Novotný	M			22	dělník	Bydžovská Lhotka	99	80	A
-5201	570397	1	4	901	9	Markéta	Suchánková	F			23	dělnice	Bydžovská Lhotka	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	570397	1	1	902	1	Vít	Vaníček			47	státní úředník	Měník	99	80	A	M
+5201	570397	1	2	903	1	František	Hejčl			59	údržbář	Barchůvek	99	80	A	M
+5201	570397	1	3	904	1	Alena	Dvořáková	Bc.		47	státní úřednice	Barchůvek	99	80	A	F
+5201	570397	1	4	901	1	Petr	Jiroutek			49	technik	Bydžovská Lhotka	99	80	A	M
+5201	570397	1	1	902	2	Lukáš	Kamínský		DiS.	44	vedoucí výroby	Měník	99	80	A	M
+5201	570397	1	2	903	2	Jana	Hynková			52	dispečerka	Barchůvek	99	80	A	F
+5201	570397	1	3	904	2	Martin	Volejník			54	OSVČ	Barchůvek	99	80	A	M
+5201	570397	1	4	901	2	Tomáš	Fišera	Ing.		25	studující	Bydžovská Lhotka	99	80	A	M
+5201	570397	1	1	902	3	Jiří	Nosek	Ing.		51	stavbyvedoucí	Měník	99	80	A	M
+5201	570397	1	2	903	3	Ladislava	Haltufová			54	úřednice	Barchůvek	99	80	A	F
+5201	570397	1	3	904	3	Stefanie	Smutková			27	teamleader	Barchůvek	99	80	A	F
+5201	570397	1	4	901	3	Hynek	Hladík	Ing.		65	OSVČ	Bydžovská Lhotka	99	80	A	M
+5201	570397	1	1	902	4	Petr	Semerád	Ing.		68	důchodce	Měník	99	80	A	M
+5201	570397	1	2	903	4	Renata	Karásková	Bc.		50	účetní	Barchůvek	99	80	A	F
+5201	570397	1	3	904	4	Martin	Glaser			53	OSVČ	Barchůvek	99	80	A	M
+5201	570397	1	4	901	4	Jan	Fišera			23	dělník	Bydžovská Lhotka	99	80	A	M
+5201	570397	1	1	902	5	Martin	Sedláček			35	obchodní manažer	Měník	99	80	A	M
+5201	570397	1	2	903	5	Radek	Šebela			46	vedoucí provozu	Barchůvek	99	80	A	M
+5201	570397	1	3	904	5	Ondřej	Hron		DiS.	36	vedoucí dílny	Barchůvek	99	80	A	M
+5201	570397	1	4	901	5	Tomáš	Suchánek			23	dělník	Bydžovská Lhotka	99	80	A	M
+5201	570397	1	1	902	6	David	Bendák	Ing.		42	OSVČ	Měník	99	80	A	M
+5201	570397	1	2	903	6	Jiří	Kurka			67	důchodce	Barchůvek	99	80	A	M
+5201	570397	1	3	904	6	Petra	Šolínová	Mgr.		44	zdravotní sestra	Barchůvek	99	80	A	F
+5201	570397	1	4	901	6	Lukáš	Gottwald			36	živnostník	Bydžovská Lhotka	99	80	A	M
+5201	570397	1	1	902	7	Miloslav	Holman			48	OSVČ	Měník	99	80	A	M
+5201	570397	1	2	903	7	Petr	Vondryska			69	důchodce	Barchůvek	99	80	A	M
+5201	570397	1	3	904	7	Nikola	Kovačíková			33	zdravotní sestra	Barchůvek	99	80	A	F
+5201	570397	1	4	901	7	Petr	Škultéty			44	dělník	Bydžovská Lhotka	99	80	A	M
+5201	570397	1	1	902	8	Lenka	Bradnová	Ing.		40	OSVČ	Měník	99	80	A	F
+5201	570397	1	2	903	8	Petr	Žďárský			32	specialista skladu	Barchůvek	99	80	A	M
+5201	570397	1	3	904	8	Františka	Smutková			55	vedoucí účtárny	Barchůvek	99	80	A	F
+5201	570397	1	4	901	8	Radek	Novotný			22	dělník	Bydžovská Lhotka	99	80	A	M
+5201	570397	1	1	902	9	Adéla	Stránská			28	úřednice	Měník	99	80	A	F
+5201	570397	1	2	903	9	Luboš	Haltuf			59	úředník	Barchůvek	99	80	A	M
+5201	570397	1	3	904	9	Vlastimil	Dvořák			50	truhlář	Barchůvek	99	80	A	M
+5201	570397	1	4	901	9	Markéta	Suchánková			23	dělnice	Bydžovská Lhotka	99	80	A	F

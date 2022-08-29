@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3107	552283	1	1	901	1	Stanislav	Flígr	M			47	technik provozu	Dražice	99	80	0
-3107	552283	1	1	901	2	Lubomír	Smažík	M			37	soukromý podnikatel	Dražice	99	80	0
-3107	552283	1	1	901	3	Zdeněk	Krátký	M	Mgr.		47	sekretář	Dražice	99	80	0
-3107	552283	1	1	901	4	Jaroslava	Mičíková	F	Mgr.		65	důchodkyně	Dražice	99	80	0
-3107	552283	1	1	901	5	Lubomír	Kolář	M			48	státní zaměstnanec	Dražice	99	80	0
-3107	552283	1	1	901	6	Dana	Růžičková	F	Mgr.		37	právnička	Dražice	99	80	0
-3107	552283	1	1	901	7	Josef	Pavlík	M			43	řidič	Dražice	99	80	0
-3107	552283	1	1	901	8	Jan	Kuldan	M	Ing.		54	soukromý podnikatel	Dražice	99	80	0
-3107	552283	1	1	901	9	Martin	Svoboda	M			23	programátor	Dražice	99	80	0
-3107	552283	1	2	129	1	Ladislav	Lev	M			36	vedoucí projektů	Dražice	99	129	0
-3107	552283	1	2	129	2	Jaroslav	Průcha	M	Ing.		55	starosta	Dražice	99	129	0
-3107	552283	1	2	129	3	Stanislav	Mrázek	M	Ing.		47	úředník	Dražice	99	129	0
-3107	552283	1	2	129	4	František	Kotšmíd	M	Ing.		43	státní zaměstnanec	Dražice	99	129	0
-3107	552283	1	2	129	5	Jiří	Barbořík	M			39	soukromý podnikatel	Dražice	99	129	0
-3107	552283	1	2	129	6	Romana	Heřmánková	F			33	administrativní pracovnice	Dražice	99	129	0
-3107	552283	1	2	129	7	Jaroslav	Průcha	M			25	státní zaměstnanec	Dražice	99	129	0
-3107	552283	1	2	129	8	Petr	Smíšek	M			27	automechanik	Dražice	99	129	0
-3107	552283	1	2	129	9	Jaroslav	Vačlena	M			49	soukromý podnikatel	Dražice	99	129	0
-3107	552283	1	3	902	1	František	Mácha	M			59	technický pracovník	Dražice	99	80	0
-3107	552283	1	3	902	2	Ivan	Mynařík	M			47	státní zaměstnanec	Dražice	99	80	0
-3107	552283	1	3	902	3	Jaroslav	Soldát	M			37	vedoucí dopravní firmy	Dražice	99	80	0
-3107	552283	1	3	902	4	Stanislav	Kos	M			52	soukromý podnikatel	Dražice	99	80	0
-3107	552283	1	3	902	5	Jaroslav	Chvál	M			57	skladník	Dražice	99	80	0
-3107	552283	1	3	902	6	Václav	Stuchlík	M			23	student	Dražice	99	80	0
-3107	552283	1	3	902	7	Miroslav	Chval	M			30	revizní technik	Dražice	99	80	0
-3107	552283	1	3	902	8	Miroslav	Kadlec	M			40	instalatér	Dražice	99	80	0
-3107	552283	1	3	902	9	Bohuslav	Knotek	M			40	opravář zemědělských strojů	Dražice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3107	552283	1	1	901	1	Stanislav	Flígr			47	technik provozu	Dražice	99	80	0	M
+3107	552283	1	2	129	1	Ladislav	Lev			36	vedoucí projektů	Dražice	99	129	0	M
+3107	552283	1	3	902	1	František	Mácha			59	technický pracovník	Dražice	99	80	0	M
+3107	552283	1	1	901	2	Lubomír	Smažík			37	soukromý podnikatel	Dražice	99	80	0	M
+3107	552283	1	2	129	2	Jaroslav	Průcha	Ing.		55	starosta	Dražice	99	129	0	M
+3107	552283	1	3	902	2	Ivan	Mynařík			47	státní zaměstnanec	Dražice	99	80	0	M
+3107	552283	1	1	901	3	Zdeněk	Krátký	Mgr.		47	sekretář	Dražice	99	80	0	M
+3107	552283	1	2	129	3	Stanislav	Mrázek	Ing.		47	úředník	Dražice	99	129	0	M
+3107	552283	1	3	902	3	Jaroslav	Soldát			37	vedoucí dopravní firmy	Dražice	99	80	0	M
+3107	552283	1	1	901	4	Jaroslava	Mičíková	Mgr.		65	důchodkyně	Dražice	99	80	0	F
+3107	552283	1	2	129	4	František	Kotšmíd	Ing.		43	státní zaměstnanec	Dražice	99	129	0	M
+3107	552283	1	3	902	4	Stanislav	Kos			52	soukromý podnikatel	Dražice	99	80	0	M
+3107	552283	1	1	901	5	Lubomír	Kolář			48	státní zaměstnanec	Dražice	99	80	0	M
+3107	552283	1	2	129	5	Jiří	Barbořík			39	soukromý podnikatel	Dražice	99	129	0	M
+3107	552283	1	3	902	5	Jaroslav	Chvál			57	skladník	Dražice	99	80	0	M
+3107	552283	1	1	901	6	Dana	Růžičková	Mgr.		37	právnička	Dražice	99	80	0	F
+3107	552283	1	2	129	6	Romana	Heřmánková			33	administrativní pracovnice	Dražice	99	129	0	F
+3107	552283	1	3	902	6	Václav	Stuchlík			23	student	Dražice	99	80	0	M
+3107	552283	1	1	901	7	Josef	Pavlík			43	řidič	Dražice	99	80	0	M
+3107	552283	1	2	129	7	Jaroslav	Průcha			25	státní zaměstnanec	Dražice	99	129	0	M
+3107	552283	1	3	902	7	Miroslav	Chval			30	revizní technik	Dražice	99	80	0	M
+3107	552283	1	1	901	8	Jan	Kuldan	Ing.		54	soukromý podnikatel	Dražice	99	80	0	M
+3107	552283	1	2	129	8	Petr	Smíšek			27	automechanik	Dražice	99	129	0	M
+3107	552283	1	3	902	8	Miroslav	Kadlec			40	instalatér	Dražice	99	80	0	M
+3107	552283	1	1	901	9	Martin	Svoboda			23	programátor	Dražice	99	80	0	M
+3107	552283	1	2	129	9	Jaroslav	Vačlena			49	soukromý podnikatel	Dražice	99	129	0	M
+3107	552283	1	3	902	9	Bohuslav	Knotek			40	opravář zemědělských strojů	Dražice	99	80	0	M

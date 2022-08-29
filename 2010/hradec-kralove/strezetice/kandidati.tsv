@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	570966	1	1	901	1	Jan	Petráček	M			32	technik	Střezetice	99	80	0
-5201	570966	1	1	901	2	Libuše	Čapková	F			45	účetní	Střezetice	99	80	0
-5201	570966	1	1	901	3	Lenka	Jadrná	F			36	administrativní pracovnice	Střezetice	99	80	0
-5201	570966	1	1	901	4	Pavel	Smeck	M			33	regionální manažer	Dlouhé Dvory	99	80	0
-5201	570966	1	1	901	5	Radim	Slánek	M			38	státní zaměstnanec	Střezetice	99	80	0
-5201	570966	1	1	901	6	Josef	Gavčík	M			65	důchodce	Dlouhé Dvory	99	80	0
-5201	570966	1	1	901	7	Vladimíra	Šecová	F			58	důchodce	Střezetice	99	80	0
-5201	570966	1	2	902	1	Hana	Pražáková	F			49	pokojská	Střezetice	99	80	0
-5201	570966	1	2	902	2	Ilona	Bramborová	F			50	administrativní pracovnice	Střezetice	99	80	0
-5201	570966	1	2	902	3	Zdeňka	Skálová	F			60	důchodce	Střezetice	99	80	0
-5201	570966	1	2	902	4	Nataša	Kubišová	F			56	důchodce	Střezetice	99	80	0
-5201	570966	1	2	902	5	Stanislav	Bednář	M			45	technik	Střezetice	99	80	0
-5201	570966	1	2	902	6	František	Kolovratník	M			36	invalidní důchodce	Dlouhé Dvory	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	570966	1	1	901	1	Jan	Petráček			32	technik	Střezetice	99	80	0	M
+5201	570966	1	2	902	1	Hana	Pražáková			49	pokojská	Střezetice	99	80	0	F
+5201	570966	1	1	901	2	Libuše	Čapková			45	účetní	Střezetice	99	80	0	F
+5201	570966	1	2	902	2	Ilona	Bramborová			50	administrativní pracovnice	Střezetice	99	80	0	F
+5201	570966	1	1	901	3	Lenka	Jadrná			36	administrativní pracovnice	Střezetice	99	80	0	F
+5201	570966	1	2	902	3	Zdeňka	Skálová			60	důchodce	Střezetice	99	80	0	F
+5201	570966	1	1	901	4	Pavel	Smeck			33	regionální manažer	Dlouhé Dvory	99	80	0	M
+5201	570966	1	2	902	4	Nataša	Kubišová			56	důchodce	Střezetice	99	80	0	F
+5201	570966	1	1	901	5	Radim	Slánek			38	státní zaměstnanec	Střezetice	99	80	0	M
+5201	570966	1	2	902	5	Stanislav	Bednář			45	technik	Střezetice	99	80	0	M
+5201	570966	1	1	901	6	Josef	Gavčík			65	důchodce	Dlouhé Dvory	99	80	0	M
+5201	570966	1	2	902	6	František	Kolovratník			36	invalidní důchodce	Dlouhé Dvory	99	80	0	M
+5201	570966	1	1	901	7	Vladimíra	Šecová			58	důchodce	Střezetice	99	80	0	F

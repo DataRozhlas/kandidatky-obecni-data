@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589799	1	1	170	1	Vladislav	Godla	M			52	invalidní důchodce	Obědkovice	170	170	0
-7103	589799	1	1	170	2	Růžena	Hanková	F			43	nezaměstnaná	Obědkovice	170	170	0
-7103	589799	1	1	170	3	Vlasta	Godlová	F			32	mateřská dovolená	Obědkovice	170	170	0
-7103	589799	1	1	170	4	Roman	Soldán	M			30	dělník	Obědkovice	170	170	0
-7103	589799	1	1	170	5	Robert	Gábor	M			31	dělník	Obědkovice	170	170	0
-7103	589799	1	1	170	6	Michal	Bílek	M			24	dělník	Obědkovice	170	170	0
-7103	589799	1	1	170	7	Magda	Hangurbadžová	F			28	nezaměstnaná	Obědkovice	170	170	0
-7103	589799	1	2	53	1	Jaroslav	Skalička	M			56	podnikatel	Obědkovice	53	53	0
-7103	589799	1	2	53	2	Jaroslav	Budík	M			36	stolař	Obědkovice	99	53	0
-7103	589799	1	2	53	3	Jaroslav	Skalička	M	Mgr.		30	psycholog	Obědkovice	99	53	0
-7103	589799	1	2	53	4	Zdenka	Janečková	F			57	prodavačka	Obědkovice	99	53	0
-7103	589799	1	2	53	5	Irena	Fládrová	F			36	administrativní pracovnice	Obědkovice	99	53	0
-7103	589799	1	2	53	6	František	Vymlátil	M			38	zedník	Obědkovice	99	53	0
-7103	589799	1	2	53	7	František	Kovalovský	M			63	soustružník	Obědkovice	99	53	0
-7103	589799	1	3	901	1	František	Chlud	M			55	starosta obce	Obědkovice	99	80	0
-7103	589799	1	3	901	2	Ladislav	Hanák	M	Mgr.		64	právník	Obědkovice	99	80	0
-7103	589799	1	3	901	3	Jiří	Zapletal	M			56	nezaměstnaný	Obědkovice	99	80	0
-7103	589799	1	3	901	4	Rostislav	Němec	M			36	osoba sam. výdělečně činná	Obědkovice	99	80	0
-7103	589799	1	3	901	5	Štěpánka	Sotorníková	F			58	vrátná	Obědkovice	99	80	0
-7103	589799	1	3	901	6	Miroslav	Kolečkář	M	Ing.		42	předseda ZD	Obědkovice	99	80	0
-7103	589799	1	3	901	7	Libuše	Plevová	F	Ing.		50	pracovník MěÚ Prostějov	Obědkovice	99	80	0
-7103	589799	1	4	801	1	František	Hošek	M	Ing.		55	OSVČ	Obědkovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589799	1	1	170	1	Vladislav	Godla			52	invalidní důchodce	Obědkovice	170	170	0	M
+7103	589799	1	2	53	1	Jaroslav	Skalička			56	podnikatel	Obědkovice	53	53	0	M
+7103	589799	1	3	901	1	František	Chlud			55	starosta obce	Obědkovice	99	80	0	M
+7103	589799	1	4	801	1	František	Hošek	Ing.		55	OSVČ	Obědkovice	99	80	0	M
+7103	589799	1	1	170	2	Růžena	Hanková			43	nezaměstnaná	Obědkovice	170	170	0	F
+7103	589799	1	2	53	2	Jaroslav	Budík			36	stolař	Obědkovice	99	53	0	M
+7103	589799	1	3	901	2	Ladislav	Hanák	Mgr.		64	právník	Obědkovice	99	80	0	M
+7103	589799	1	1	170	3	Vlasta	Godlová			32	mateřská dovolená	Obědkovice	170	170	0	F
+7103	589799	1	2	53	3	Jaroslav	Skalička	Mgr.		30	psycholog	Obědkovice	99	53	0	M
+7103	589799	1	3	901	3	Jiří	Zapletal			56	nezaměstnaný	Obědkovice	99	80	0	M
+7103	589799	1	1	170	4	Roman	Soldán			30	dělník	Obědkovice	170	170	0	M
+7103	589799	1	2	53	4	Zdenka	Janečková			57	prodavačka	Obědkovice	99	53	0	F
+7103	589799	1	3	901	4	Rostislav	Němec			36	osoba sam. výdělečně činná	Obědkovice	99	80	0	M
+7103	589799	1	1	170	5	Robert	Gábor			31	dělník	Obědkovice	170	170	0	M
+7103	589799	1	2	53	5	Irena	Fládrová			36	administrativní pracovnice	Obědkovice	99	53	0	F
+7103	589799	1	3	901	5	Štěpánka	Sotorníková			58	vrátná	Obědkovice	99	80	0	F
+7103	589799	1	1	170	6	Michal	Bílek			24	dělník	Obědkovice	170	170	0	M
+7103	589799	1	2	53	6	František	Vymlátil			38	zedník	Obědkovice	99	53	0	M
+7103	589799	1	3	901	6	Miroslav	Kolečkář	Ing.		42	předseda ZD	Obědkovice	99	80	0	M
+7103	589799	1	1	170	7	Magda	Hangurbadžová			28	nezaměstnaná	Obědkovice	170	170	0	F
+7103	589799	1	2	53	7	František	Kovalovský			63	soustružník	Obědkovice	99	53	0	M
+7103	589799	1	3	901	7	Libuše	Plevová	Ing.		50	pracovník MěÚ Prostějov	Obědkovice	99	80	0	F

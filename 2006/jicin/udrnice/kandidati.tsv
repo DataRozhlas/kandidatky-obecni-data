@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5202	573663	1	1	1	1	František	Dlouhý	M			60	důchodce	Bílsko	99	1	0
-5202	573663	1	1	1	2	Jitka	Podzimková	F			48	elektromechanik	Bílsko	99	1	0
-5202	573663	1	1	1	3	Jan	Kubín	M			48	technik	Bílsko	99	1	0
-5202	573663	1	1	1	4	Marie	Kubínová	F			23	studentka	Bílsko	99	1	0
-5202	573663	1	1	1	5	Marie	Frýbová	F			68	důchodkyně	Bílsko	1	1	0
-5202	573663	1	1	1	6	Hana	Kubínová	F			49	pečovatelka	Bílsko	1	1	0
-5202	573663	1	1	1	7	Lucie	Kubínová	F			21	studentka	Bílsko	99	1	0
-5202	573663	1	2	901	1	Vladimír	Voleník	M			48	technik	Údrnice	99	80	0
-5202	573663	1	2	901	2	Jindřiška	Janečková	F			59	důchodce	Údrnice	99	80	0
-5202	573663	1	2	901	3	Miloslav	Havelka	M			63	důchodce	Údrnice	99	80	0
-5202	573663	1	2	901	4	Emil	Pekárek	M			45	servisní technik	Údrnice	99	80	0
-5202	573663	1	2	901	5	Helena	Jirsáková	F			49	skladnice	Údrnice	99	80	0
-5202	573663	1	2	901	6	Miroslav	Čížek	M	Ing.		67	důchodce	Únětice	99	80	0
-5202	573663	1	2	901	7	Marie	Dousková	F			58	důchodce	Bílsko	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5202	573663	1	1	1	1	František	Dlouhý			60	důchodce	Bílsko	99	1	0	M
+5202	573663	1	2	901	1	Vladimír	Voleník			48	technik	Údrnice	99	80	0	M
+5202	573663	1	1	1	2	Jitka	Podzimková			48	elektromechanik	Bílsko	99	1	0	F
+5202	573663	1	2	901	2	Jindřiška	Janečková			59	důchodce	Údrnice	99	80	0	F
+5202	573663	1	1	1	3	Jan	Kubín			48	technik	Bílsko	99	1	0	M
+5202	573663	1	2	901	3	Miloslav	Havelka			63	důchodce	Údrnice	99	80	0	M
+5202	573663	1	1	1	4	Marie	Kubínová			23	studentka	Bílsko	99	1	0	F
+5202	573663	1	2	901	4	Emil	Pekárek			45	servisní technik	Údrnice	99	80	0	M
+5202	573663	1	1	1	5	Marie	Frýbová			68	důchodkyně	Bílsko	1	1	0	F
+5202	573663	1	2	901	5	Helena	Jirsáková			49	skladnice	Údrnice	99	80	0	F
+5202	573663	1	1	1	6	Hana	Kubínová			49	pečovatelka	Bílsko	1	1	0	F
+5202	573663	1	2	901	6	Miroslav	Čížek	Ing.		67	důchodce	Únětice	99	80	0	M
+5202	573663	1	1	1	7	Lucie	Kubínová			21	studentka	Bílsko	99	1	0	F
+5202	573663	1	2	901	7	Marie	Dousková			58	důchodce	Bílsko	99	80	0	F

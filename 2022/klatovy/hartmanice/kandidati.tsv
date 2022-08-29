@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3202	556181	1	1	901	1	Pavel	Valdman	M			54	starosta města	Dolejší Těšov	99	80	A
-3202	556181	1	1	901	2	Pavel	Kojzar	M			48	lesník	Hartmanice	99	80	A
-3202	556181	1	1	901	3	Miroslav	Bachroň	M			55	státní zaměstnanec ve výslužbě	Světlá	99	80	A
-3202	556181	1	1	901	4	Pavla	Burešová	F			46	vedoucí prodejny	Hartmanice	99	80	A
-3202	556181	1	1	901	5	František	Kojzar	M			29	strážník městské policie	Hartmanice	99	80	A
-3202	556181	1	1	901	6	Vladimír	Hrach	M			49	soukromý zemědělec	Vlastějov	99	80	A
-3202	556181	1	1	901	7	Veronika	Hájková	F			35	mateřská dovolená	Kundratice	99	80	A
-3202	556181	1	1	901	8	Jan	Mička	M			57	dělník	Hartmanice	99	80	A
-3202	556181	1	1	901	9	Pavel	Diviš	M			56	řidič	Loučová	99	80	A
-3202	556181	1	1	901	10	Lukáš	Reim	M			39	skladník	Hartmanice	99	80	A
-3202	556181	1	1	901	11	Miroslav	Kojzar	M			27	dělník	Hartmanice	99	80	A
-3202	556181	1	1	901	12	Václav	Pícha	M	Bc.		26	profesionální hasič	Hartmanice	99	80	A
-3202	556181	1	1	901	13	Veronika	Balintová	F			44	pokojská	Hartmanice	99	80	A
-3202	556181	1	1	901	14	Michal	Kroupa	M			36	OSVČ	Světlá	99	80	A
-3202	556181	1	1	901	15	Jiří	Jedlička	M	MUDr.		81	lékař	Hořejší Těšov	99	80	A
-3202	556181	1	2	902	1	Tomáš	Beránek	M	Ing.		32	OSVČ	Hartmanice	99	80	A
-3202	556181	1	2	902	2	Michal	Kadeřábek	M			45	zedník	Hartmanice	99	80	A
-3202	556181	1	2	902	3	Aleš	Niederle	M	Ing.		29	ředitel divize lesnictví	Hartmanice	99	80	A
-3202	556181	1	2	902	4	Petra	Kreisová	F			53	správce restaurace	Dolejší Těšov	99	80	A
-3202	556181	1	2	902	5	Božena	Šponiarová	F			48	kuchařka	Hartmanice	99	80	A
-3202	556181	1	2	902	6	Stanislav	Štěpánek	M			34	policista	Hartmanice	99	80	A
-3202	556181	1	2	902	7	Hana	Kretíková	F			47	pokojská	Malý Radkov	99	80	A
-3202	556181	1	2	902	8	Jan	Pojar	M	Bc.		36	manažer obchodu	Chlum	99	80	A
-3202	556181	1	2	902	9	Dana	Valuchová	F			39	účetní	Palvinov	99	80	A
-3202	556181	1	2	902	10	Jiří	Bubela	M			24	elektrikář	Kundratice	99	80	A
-3202	556181	1	2	902	11	Ivana	Košárková	F			45	dělník	Hořejší Krušec	99	80	A
-3202	556181	1	2	902	12	Jakub	Diviš	M			34	profesionální hasič	Hartmanice	99	80	A
-3202	556181	1	2	902	13	Jiřina	Kopelentová	F			62	kuchařka	Dolejší Těšov	99	80	A
-3202	556181	1	2	902	14	Daniel	Krčmář	M			45	OSVČ	Hartmanice	99	80	A
-3202	556181	1	2	902	15	Diana	Kreisová	F			24	studentka	Dolejší Těšov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3202	556181	1	1	901	1	Pavel	Valdman			54	starosta města	Dolejší Těšov	99	80	A	M
+3202	556181	1	2	902	1	Tomáš	Beránek	Ing.		32	OSVČ	Hartmanice	99	80	A	M
+3202	556181	1	1	901	2	Pavel	Kojzar			48	lesník	Hartmanice	99	80	A	M
+3202	556181	1	2	902	2	Michal	Kadeřábek			45	zedník	Hartmanice	99	80	A	M
+3202	556181	1	1	901	3	Miroslav	Bachroň			55	státní zaměstnanec ve výslužbě	Světlá	99	80	A	M
+3202	556181	1	2	902	3	Aleš	Niederle	Ing.		29	ředitel divize lesnictví	Hartmanice	99	80	A	M
+3202	556181	1	1	901	4	Pavla	Burešová			46	vedoucí prodejny	Hartmanice	99	80	A	F
+3202	556181	1	2	902	4	Petra	Kreisová			53	správce restaurace	Dolejší Těšov	99	80	A	F
+3202	556181	1	1	901	5	František	Kojzar			29	strážník městské policie	Hartmanice	99	80	A	M
+3202	556181	1	2	902	5	Božena	Šponiarová			48	kuchařka	Hartmanice	99	80	A	F
+3202	556181	1	1	901	6	Vladimír	Hrach			49	soukromý zemědělec	Vlastějov	99	80	A	M
+3202	556181	1	2	902	6	Stanislav	Štěpánek			34	policista	Hartmanice	99	80	A	M
+3202	556181	1	1	901	7	Veronika	Hájková			35	mateřská dovolená	Kundratice	99	80	A	F
+3202	556181	1	2	902	7	Hana	Kretíková			47	pokojská	Malý Radkov	99	80	A	F
+3202	556181	1	1	901	8	Jan	Mička			57	dělník	Hartmanice	99	80	A	M
+3202	556181	1	2	902	8	Jan	Pojar	Bc.		36	manažer obchodu	Chlum	99	80	A	M
+3202	556181	1	1	901	9	Pavel	Diviš			56	řidič	Loučová	99	80	A	M
+3202	556181	1	2	902	9	Dana	Valuchová			39	účetní	Palvinov	99	80	A	F
+3202	556181	1	1	901	10	Lukáš	Reim			39	skladník	Hartmanice	99	80	A	M
+3202	556181	1	2	902	10	Jiří	Bubela			24	elektrikář	Kundratice	99	80	A	M
+3202	556181	1	1	901	11	Miroslav	Kojzar			27	dělník	Hartmanice	99	80	A	M
+3202	556181	1	2	902	11	Ivana	Košárková			45	dělník	Hořejší Krušec	99	80	A	F
+3202	556181	1	1	901	12	Václav	Pícha	Bc.		26	profesionální hasič	Hartmanice	99	80	A	M
+3202	556181	1	2	902	12	Jakub	Diviš			34	profesionální hasič	Hartmanice	99	80	A	M
+3202	556181	1	1	901	13	Veronika	Balintová			44	pokojská	Hartmanice	99	80	A	F
+3202	556181	1	2	902	13	Jiřina	Kopelentová			62	kuchařka	Dolejší Těšov	99	80	A	F
+3202	556181	1	1	901	14	Michal	Kroupa			36	OSVČ	Světlá	99	80	A	M
+3202	556181	1	2	902	14	Daniel	Krčmář			45	OSVČ	Hartmanice	99	80	A	M
+3202	556181	1	1	901	15	Jiří	Jedlička	MUDr.		81	lékař	Hořejší Těšov	99	80	A	M
+3202	556181	1	2	902	15	Diana	Kreisová			24	studentka	Dolejší Těšov	99	80	A	F

@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	570800	1	1	901	1	Bohuslav	Řičař	M	Ing.		50	projektant	Skalice-Skalička	99	80	0
-5201	570800	1	1	901	2	Miroslav	Stehno	M	Ing.		50	projektant	Skalice	99	80	0
-5201	570800	1	1	901	3	Václav	Kutík	M	Ing.		63	zemědělský inženýr - důchodce	Skalice	99	80	0
-5201	570800	1	1	901	4	Jiří	Šrámek	M			39	podnikatel	Hradec Králové	99	80	0
-5201	570800	1	1	901	5	Aleš	Houser	M			51	OSVČ	Skalice-Skalička	99	80	0
-5201	570800	1	1	901	6	Robert	Seidl	M			41	OSVČ	Skalice	99	80	0
-5201	570800	1	2	902	1	Eva	Ornstová	F			55	OSVČ	Skalice	99	80	0
-5201	570800	1	2	902	2	Milan	Karpíšek	M			42	projektant	Skalice-Skalička	99	80	0
-5201	570800	1	2	902	3	Pavel	Holeček	M	Ing.		27	projektant	Skalice	99	80	0
-5201	570800	1	2	902	4	Zdeňka	Klimešová	F			51	knihkupec	Skalice-Skalička	99	80	0
-5201	570800	1	2	902	5	Jiřina	Bělohoubková	F			55	OSVČ	Skalice	99	80	0
-5201	570800	1	2	902	6	Jiří	Propilek	M			55	skladník	Skalice-Číbuz	99	80	0
-5201	570800	1	2	902	7	František	Mlateček	M			60	nezaměstnaný	Skalice	99	80	0
-5201	570800	1	3	801	1	Jaroslav	Škop	M			65	stavební technik	Skalice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	570800	1	1	901	1	Bohuslav	Řičař	Ing.		50	projektant	Skalice-Skalička	99	80	0	M
+5201	570800	1	2	902	1	Eva	Ornstová			55	OSVČ	Skalice	99	80	0	F
+5201	570800	1	3	801	1	Jaroslav	Škop			65	stavební technik	Skalice	99	80	0	M
+5201	570800	1	1	901	2	Miroslav	Stehno	Ing.		50	projektant	Skalice	99	80	0	M
+5201	570800	1	2	902	2	Milan	Karpíšek			42	projektant	Skalice-Skalička	99	80	0	M
+5201	570800	1	1	901	3	Václav	Kutík	Ing.		63	zemědělský inženýr - důchodce	Skalice	99	80	0	M
+5201	570800	1	2	902	3	Pavel	Holeček	Ing.		27	projektant	Skalice	99	80	0	M
+5201	570800	1	1	901	4	Jiří	Šrámek			39	podnikatel	Hradec Králové	99	80	0	M
+5201	570800	1	2	902	4	Zdeňka	Klimešová			51	knihkupec	Skalice-Skalička	99	80	0	F
+5201	570800	1	1	901	5	Aleš	Houser			51	OSVČ	Skalice-Skalička	99	80	0	M
+5201	570800	1	2	902	5	Jiřina	Bělohoubková			55	OSVČ	Skalice	99	80	0	F
+5201	570800	1	1	901	6	Robert	Seidl			41	OSVČ	Skalice	99	80	0	M
+5201	570800	1	2	902	6	Jiří	Propilek			55	skladník	Skalice-Číbuz	99	80	0	M
+5201	570800	1	2	902	7	František	Mlateček			60	nezaměstnaný	Skalice	99	80	0	M

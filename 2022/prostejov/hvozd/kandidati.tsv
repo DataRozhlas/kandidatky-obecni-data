@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589560	1	1	1	1	Josef	Zapletal	M			33	technik rozvoden	Hvozd	99	1	A
-7103	589560	1	1	1	2	Josef	Bušina	M			39	automechanik	Vojtěchov	99	1	A
-7103	589560	1	1	1	3	Michaela	Dostálová	F			44	prodavačka	Hvozd	99	1	A
-7103	589560	1	1	1	4	Lukáš	Zapletal	M			27	programátor CNC	Hvozd	99	1	A
-7103	589560	1	1	1	5	Jiří	Jakubjanec	M			20	student	Vojtěchov	99	1	A
-7103	589560	1	1	1	6	Milan	Matoušek	M			46	grafik	Hvozd	99	1	A
-7103	589560	1	1	1	7	Josef	Zapletal	M			63	učitel	Hvozd	1	1	A
-7103	589560	1	2	901	1	Josef	Šmíd	M	Ing.		58	starosta	Hvozd	99	80	A
-7103	589560	1	2	901	2	Michal	Kubálek	M	Mgr.		36	člen HZS	Hvozd	99	80	A
-7103	589560	1	2	901	3	Pavel	Papaj	M			52	traktorista	Vojtěchov	99	80	A
-7103	589560	1	2	901	4	Petr	Vyroubal	M			53	mistr ve výrobě	Hvozd	99	80	A
-7103	589560	1	2	901	5	Marek	Muzikant	M			37	obráběč kovů	Klužínek	99	80	A
-7103	589560	1	2	901	6	Tomáš	Kubálek	M			33	stavební technik	Hvozd	99	80	A
-7103	589560	1	2	901	7	Jitka	Vilímková	F	Mgr.		38	učitelka	Vojtěchov	99	80	A
-7103	589560	1	2	901	8	Petra	Bílá	F	Ing.		35	geodetka	Hvozd	99	80	A
-7103	589560	1	2	901	9	František	Grulich	M			54	lesní dělník	Hvozd	99	80	A
-7103	589560	1	2	901	10	Rudolf	Bednář	M			60	živnostník	Hvozd	99	80	A
-7103	589560	1	2	901	11	Miroslav	Švec	M			42	cestář	Hvozd	99	80	A
-7103	589560	1	2	901	12	Ladislav	Bílek	M			51	automechanik	Vojtěchov	99	80	A
-7103	589560	1	2	901	13	Karel	Polák	M	Ing.	Ph.D.	43	předseda představenstva	Klužínek	99	80	A
-7103	589560	1	2	901	14	Jan	Vilímek	M	Ing.		40	specialista IT	Vojtěchov	99	80	A
-7103	589560	1	2	901	15	Marta	Šmídová	F	Ing.		28	asistentka jednatele	Hvozd	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589560	1	1	1	1	Josef	Zapletal			33	technik rozvoden	Hvozd	99	1	A	M
+7103	589560	1	2	901	1	Josef	Šmíd	Ing.		58	starosta	Hvozd	99	80	A	M
+7103	589560	1	1	1	2	Josef	Bušina			39	automechanik	Vojtěchov	99	1	A	M
+7103	589560	1	2	901	2	Michal	Kubálek	Mgr.		36	člen HZS	Hvozd	99	80	A	M
+7103	589560	1	1	1	3	Michaela	Dostálová			44	prodavačka	Hvozd	99	1	A	F
+7103	589560	1	2	901	3	Pavel	Papaj			52	traktorista	Vojtěchov	99	80	A	M
+7103	589560	1	1	1	4	Lukáš	Zapletal			27	programátor CNC	Hvozd	99	1	A	M
+7103	589560	1	2	901	4	Petr	Vyroubal			53	mistr ve výrobě	Hvozd	99	80	A	M
+7103	589560	1	1	1	5	Jiří	Jakubjanec			20	student	Vojtěchov	99	1	A	M
+7103	589560	1	2	901	5	Marek	Muzikant			37	obráběč kovů	Klužínek	99	80	A	M
+7103	589560	1	1	1	6	Milan	Matoušek			46	grafik	Hvozd	99	1	A	M
+7103	589560	1	2	901	6	Tomáš	Kubálek			33	stavební technik	Hvozd	99	80	A	M
+7103	589560	1	1	1	7	Josef	Zapletal			63	učitel	Hvozd	1	1	A	M
+7103	589560	1	2	901	7	Jitka	Vilímková	Mgr.		38	učitelka	Vojtěchov	99	80	A	F
+7103	589560	1	2	901	8	Petra	Bílá	Ing.		35	geodetka	Hvozd	99	80	A	F
+7103	589560	1	2	901	9	František	Grulich			54	lesní dělník	Hvozd	99	80	A	M
+7103	589560	1	2	901	10	Rudolf	Bednář			60	živnostník	Hvozd	99	80	A	M
+7103	589560	1	2	901	11	Miroslav	Švec			42	cestář	Hvozd	99	80	A	M
+7103	589560	1	2	901	12	Ladislav	Bílek			51	automechanik	Vojtěchov	99	80	A	M
+7103	589560	1	2	901	13	Karel	Polák	Ing.	Ph.D.	43	předseda představenstva	Klužínek	99	80	A	M
+7103	589560	1	2	901	14	Jan	Vilímek	Ing.		40	specialista IT	Vojtěchov	99	80	A	M
+7103	589560	1	2	901	15	Marta	Šmídová	Ing.		28	asistentka jednatele	Hvozd	99	80	A	F

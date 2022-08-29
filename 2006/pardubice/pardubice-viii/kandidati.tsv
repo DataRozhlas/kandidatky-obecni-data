@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5302	575020	1	1	339	1	Šárka	Dvořáková	F			42	účetní	Hostovice	99	181	0
-5302	575020	1	1	339	2	Miluše	Jiroutová	F			34	administrativní pracovnice	Hostovice	99	181	0
-5302	575020	1	1	339	3	Eva	Kučerová	F			45	obchodní referentka	Hostovice	99	181	0
-5302	575020	1	1	339	4	Tomáš	Douda	M			39	zedník	Hostovice	99	1	0
-5302	575020	1	1	339	5	Lukáš	Votruba	M			34	agronom	Hostovice	99	181	0
-5302	575020	1	1	339	6	Jiří	Borovec	M			41	tesař	Hostovice	99	181	0
-5302	575020	1	1	339	7	Miroslav	Piskáček	M			39	zemědělec	Hostovice	99	181	0
-5302	575020	1	1	339	8	Pavel	Johanides	M			60	řidič	Hostovice	99	1	0
-5302	575020	1	1	339	9	Soňa	Mrázková	F			60	vedoucí kuchařka	Hostovice	99	181	0
-5302	575020	1	2	901	1	Zuzana	Vasková	F			30	hlavní účetní	Hostovice	99	80	0
-5302	575020	1	2	901	2	Marcela	Řeháková	F			38	zaměstnanec pojišťovny	Hostovice	99	80	0
-5302	575020	1	2	901	3	Josef	Jirout	M			34	pojišťovací poradce	Hostovice	99	80	0
-5302	575020	1	2	901	4	Tomáš	Urbánek	M			37	podnikatel	Hostovice	99	80	0
-5302	575020	1	2	901	5	Michal	Vaško	M			33	údržbář	Hostovice	99	80	0
-5302	575020	1	2	901	6	Rostislav	Minár	M			38	řidič	Hostovice	99	80	0
-5302	575020	1	2	901	7	Jiří	Kučera	M			24	soukromý zemědělec	Hostovice	99	80	0
-5302	575020	1	2	901	8	Martina	Říhová	F			33	pracovník MŠ	Hostovice	99	80	0
-5302	575020	1	2	901	9	Lukáš	Kouřílek	M			22	kuchař	Hostovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5302	575020	1	1	339	1	Šárka	Dvořáková			42	účetní	Hostovice	99	181	0	F
+5302	575020	1	2	901	1	Zuzana	Vasková			30	hlavní účetní	Hostovice	99	80	0	F
+5302	575020	1	1	339	2	Miluše	Jiroutová			34	administrativní pracovnice	Hostovice	99	181	0	F
+5302	575020	1	2	901	2	Marcela	Řeháková			38	zaměstnanec pojišťovny	Hostovice	99	80	0	F
+5302	575020	1	1	339	3	Eva	Kučerová			45	obchodní referentka	Hostovice	99	181	0	F
+5302	575020	1	2	901	3	Josef	Jirout			34	pojišťovací poradce	Hostovice	99	80	0	M
+5302	575020	1	1	339	4	Tomáš	Douda			39	zedník	Hostovice	99	1	0	M
+5302	575020	1	2	901	4	Tomáš	Urbánek			37	podnikatel	Hostovice	99	80	0	M
+5302	575020	1	1	339	5	Lukáš	Votruba			34	agronom	Hostovice	99	181	0	M
+5302	575020	1	2	901	5	Michal	Vaško			33	údržbář	Hostovice	99	80	0	M
+5302	575020	1	1	339	6	Jiří	Borovec			41	tesař	Hostovice	99	181	0	M
+5302	575020	1	2	901	6	Rostislav	Minár			38	řidič	Hostovice	99	80	0	M
+5302	575020	1	1	339	7	Miroslav	Piskáček			39	zemědělec	Hostovice	99	181	0	M
+5302	575020	1	2	901	7	Jiří	Kučera			24	soukromý zemědělec	Hostovice	99	80	0	M
+5302	575020	1	1	339	8	Pavel	Johanides			60	řidič	Hostovice	99	1	0	M
+5302	575020	1	2	901	8	Martina	Říhová			33	pracovník MŠ	Hostovice	99	80	0	F
+5302	575020	1	1	339	9	Soňa	Mrázková			60	vedoucí kuchařka	Hostovice	99	181	0	F
+5302	575020	1	2	901	9	Lukáš	Kouřílek			22	kuchař	Hostovice	99	80	0	M

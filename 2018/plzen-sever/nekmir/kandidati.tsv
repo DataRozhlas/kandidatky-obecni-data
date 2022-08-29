@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3205	559270	1	1	902	1	Josef	Urbánek	M	Ing.		56	vedoucí laboratoře HZS	Nekmíř	99	80	A
-3205	559270	1	1	902	2	Petr	Homola	M	Bc.		37	vedoucí oddělení SŽDC	Nekmíř	99	80	A
-3205	559270	1	1	902	3	Josef	Urbánek	M	Ing.		32	projektant	Nekmíř	99	80	A
-3205	559270	1	1	902	4	Vladimír	Šoul	M			44	OSVČ	Nekmíř	99	80	A
-3205	559270	1	1	902	5	Milan	Loukota	M			61	řidič	Nekmíř	99	80	A
-3205	559270	1	1	902	6	Petr	Štál	M	Bc.		31	asistent prodeje	Nekmíř	99	80	A
-3205	559270	1	1	902	7	Veronika	Štajerová	F	Bc.		28	fyzioterapeut	Nekmíř	99	80	A
-3205	559270	1	1	902	8	Barbora	Hinnerová	F		BA	24	OSVČ	Nekmíř	99	80	A
-3205	559270	1	2	903	1	Josef	Pangrác	M			67	důchodce	Nekmíř	99	80	A
-3205	559270	1	2	903	2	Lukáš	Koudela	M	Ing.	Ph.D.	31	vývojový technik	Nekmíř	99	80	A
-3205	559270	1	2	903	3	Pavel	Pašek	M			54	servisní technik	Nekmíř	99	80	A
-3205	559270	1	2	903	4	Jan	Hanzlík	M			30	servisní technik	Nekmíř	99	80	A
-3205	559270	1	2	903	5	Jindřich	Tyc	M			54	podnikatel	Nekmíř	99	80	A
-3205	559270	1	2	903	6	René	Hladík	M			46	řidič	Nekmíř	99	80	A
-3205	559270	1	2	903	7	Tomáš	Loukota	M			32	obchodník	Nekmíř	99	80	A
-3205	559270	1	2	903	8	Marek	Dobrý	M			44	technik	Nekmíř	99	80	A
-3205	559270	1	3	904	1	Jaroslav	Mandous	M			50	OSVČ	Nekmíř	99	80	A
-3205	559270	1	3	904	2	Jana	Hyrátová	F			56	úřednice	Nekmíř	99	80	A
-3205	559270	1	3	904	3	Eva	Benešová	F	Mgr.		53	učitelka	Nekmíř	99	80	A
-3205	559270	1	3	904	4	Martin	Kapr	M	Mgr.		39	státní zaměstnanec	Nekmíř	99	80	A
-3205	559270	1	3	904	5	Libuše	Kindlová	F			34	rodičovská dovolená	Nekmíř	99	80	A
-3205	559270	1	3	904	6	Eva	Brabcová	F			41	úřednice	Nekmíř	99	80	A
-3205	559270	1	3	904	7	David	Macho	M	Ing.		34	projektant	Nekmíř	99	80	A
-3205	559270	1	3	904	8	Jiří	Todt	M			61	technik	Nekmíř	99	80	A
-3205	559270	1	3	904	9	Zdeněk	Klesnil	M	Ing.		66	důchodce	Nekmíř	99	80	A
-3205	559270	1	4	901	1	Martin	Dífko	M			38	dělník	Lhotka	99	80	A
-3205	559270	1	4	901	2	Jaroslav	Osáhlo	M			40	řidič	Lhotka	99	80	A
-3205	559270	1	4	901	3	František	Kratochvíl	M			62	důchodce	Lhotka	99	80	A
-3205	559270	1	4	901	4	Vladimír	Tyr	M			63	důchodce	Lhotka	99	80	A
-3205	559270	1	4	901	5	Zdeněk	Hora	M			68	důchodce	Lhotka	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3205	559270	1	1	902	1	Josef	Urbánek	Ing.		56	vedoucí laboratoře HZS	Nekmíř	99	80	A	M
+3205	559270	1	2	903	1	Josef	Pangrác			67	důchodce	Nekmíř	99	80	A	M
+3205	559270	1	3	904	1	Jaroslav	Mandous			50	OSVČ	Nekmíř	99	80	A	M
+3205	559270	1	4	901	1	Martin	Dífko			38	dělník	Lhotka	99	80	A	M
+3205	559270	1	1	902	2	Petr	Homola	Bc.		37	vedoucí oddělení SŽDC	Nekmíř	99	80	A	M
+3205	559270	1	2	903	2	Lukáš	Koudela	Ing.	Ph.D.	31	vývojový technik	Nekmíř	99	80	A	M
+3205	559270	1	3	904	2	Jana	Hyrátová			56	úřednice	Nekmíř	99	80	A	F
+3205	559270	1	4	901	2	Jaroslav	Osáhlo			40	řidič	Lhotka	99	80	A	M
+3205	559270	1	1	902	3	Josef	Urbánek	Ing.		32	projektant	Nekmíř	99	80	A	M
+3205	559270	1	2	903	3	Pavel	Pašek			54	servisní technik	Nekmíř	99	80	A	M
+3205	559270	1	3	904	3	Eva	Benešová	Mgr.		53	učitelka	Nekmíř	99	80	A	F
+3205	559270	1	4	901	3	František	Kratochvíl			62	důchodce	Lhotka	99	80	A	M
+3205	559270	1	1	902	4	Vladimír	Šoul			44	OSVČ	Nekmíř	99	80	A	M
+3205	559270	1	2	903	4	Jan	Hanzlík			30	servisní technik	Nekmíř	99	80	A	M
+3205	559270	1	3	904	4	Martin	Kapr	Mgr.		39	státní zaměstnanec	Nekmíř	99	80	A	M
+3205	559270	1	4	901	4	Vladimír	Tyr			63	důchodce	Lhotka	99	80	A	M
+3205	559270	1	1	902	5	Milan	Loukota			61	řidič	Nekmíř	99	80	A	M
+3205	559270	1	2	903	5	Jindřich	Tyc			54	podnikatel	Nekmíř	99	80	A	M
+3205	559270	1	3	904	5	Libuše	Kindlová			34	rodičovská dovolená	Nekmíř	99	80	A	F
+3205	559270	1	4	901	5	Zdeněk	Hora			68	důchodce	Lhotka	99	80	A	M
+3205	559270	1	1	902	6	Petr	Štál	Bc.		31	asistent prodeje	Nekmíř	99	80	A	M
+3205	559270	1	2	903	6	René	Hladík			46	řidič	Nekmíř	99	80	A	M
+3205	559270	1	3	904	6	Eva	Brabcová			41	úřednice	Nekmíř	99	80	A	F
+3205	559270	1	1	902	7	Veronika	Štajerová	Bc.		28	fyzioterapeut	Nekmíř	99	80	A	F
+3205	559270	1	2	903	7	Tomáš	Loukota			32	obchodník	Nekmíř	99	80	A	M
+3205	559270	1	3	904	7	David	Macho	Ing.		34	projektant	Nekmíř	99	80	A	M
+3205	559270	1	1	902	8	Barbora	Hinnerová		BA	24	OSVČ	Nekmíř	99	80	A	F
+3205	559270	1	2	903	8	Marek	Dobrý			44	technik	Nekmíř	99	80	A	M
+3205	559270	1	3	904	8	Jiří	Todt			61	technik	Nekmíř	99	80	A	M
+3205	559270	1	3	904	9	Zdeněk	Klesnil	Ing.		66	důchodce	Nekmíř	99	80	A	M

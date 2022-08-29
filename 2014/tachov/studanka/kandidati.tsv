@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3207	561223	1	1	901	1	Alexandr	Hepfel	M			52	vedoucí pracovník	Studánka	99	80	0
-3207	561223	1	1	901	2	Václav	Janča	M			58	důchodce	Studánka	99	80	0
-3207	561223	1	1	901	3	Jaroslava	Šenovská	F			34	referentka	Studánka	99	80	0
-3207	561223	1	1	901	4	Zdeněk	Žižka	M			60	diplomovaný zdravotník	Studánka	99	80	0
-3207	561223	1	1	901	5	Vladimíra	Honzíková	F	Bc.		37	sociální pracovnice	Studánka	99	80	0
-3207	561223	1	1	901	6	Věra	Voronová	F			56	přepážková pracovnice	Studánka	99	80	0
-3207	561223	1	1	901	7	Milan	Dvořák	M			38	řidič	Studánka	99	80	0
-3207	561223	1	1	901	8	Marie	Langová	F			61	správce daní	Studánka	99	80	0
-3207	561223	1	1	901	9	Jitka	Honzíková	F			51	operátorka	Studánka	99	80	0
-3207	561223	1	2	470	1	Hubert	Mazánek	M			56	OSVČ	Studánka	99	166	0
-3207	561223	1	2	470	2	Dušan	Raba	M			49	OSVČ	Studánka	99	80	0
-3207	561223	1	2	470	3	Jan	Matouš	M			35	nákupčí dříví	Studánka	99	80	0
-3207	561223	1	2	470	4	Michal	Horáček	M			31	THP - manažer kvality	Studánka	99	80	0
-3207	561223	1	2	470	5	Michaela	Košťálová	F			41	expedient	Studánka	99	80	0
-3207	561223	1	2	470	6	Jaromír	Lipchavský	M			44	lesní operátor	Studánka	99	80	0
-3207	561223	1	2	470	7	Libor	Novotný	M			51	OSVČ	Studánka	99	80	0
-3207	561223	1	3	7	1	Irena	Zapletalová	F			42	starostka	Studánka	99	7	0
-3207	561223	1	3	7	2	Miloš	Mráz	M			51	jednatel společnosti	Studánka	99	7	0
-3207	561223	1	3	7	3	Richard	Volka	M			69	důchodce	Studánka	99	7	0
-3207	561223	1	3	7	4	Vladimír	Mojžíš	M			33	vedoucí nákupního oddělení	Studánka	99	7	0
-3207	561223	1	3	7	5	Jana	Lipchavská	F			46	administrativní pracovník	Studánka	99	7	0
-3207	561223	1	3	7	6	Jan	Prášek	M			65	důchodce	Studánka	7	7	0
-3207	561223	1	3	7	7	Josef	Lipchavský	M			42	logistik skladu	Studánka	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3207	561223	1	1	901	1	Alexandr	Hepfel			52	vedoucí pracovník	Studánka	99	80	0	M
+3207	561223	1	2	470	1	Hubert	Mazánek			56	OSVČ	Studánka	99	166	0	M
+3207	561223	1	3	7	1	Irena	Zapletalová			42	starostka	Studánka	99	7	0	F
+3207	561223	1	1	901	2	Václav	Janča			58	důchodce	Studánka	99	80	0	M
+3207	561223	1	2	470	2	Dušan	Raba			49	OSVČ	Studánka	99	80	0	M
+3207	561223	1	3	7	2	Miloš	Mráz			51	jednatel společnosti	Studánka	99	7	0	M
+3207	561223	1	1	901	3	Jaroslava	Šenovská			34	referentka	Studánka	99	80	0	F
+3207	561223	1	2	470	3	Jan	Matouš			35	nákupčí dříví	Studánka	99	80	0	M
+3207	561223	1	3	7	3	Richard	Volka			69	důchodce	Studánka	99	7	0	M
+3207	561223	1	1	901	4	Zdeněk	Žižka			60	diplomovaný zdravotník	Studánka	99	80	0	M
+3207	561223	1	2	470	4	Michal	Horáček			31	THP - manažer kvality	Studánka	99	80	0	M
+3207	561223	1	3	7	4	Vladimír	Mojžíš			33	vedoucí nákupního oddělení	Studánka	99	7	0	M
+3207	561223	1	1	901	5	Vladimíra	Honzíková	Bc.		37	sociální pracovnice	Studánka	99	80	0	F
+3207	561223	1	2	470	5	Michaela	Košťálová			41	expedient	Studánka	99	80	0	F
+3207	561223	1	3	7	5	Jana	Lipchavská			46	administrativní pracovník	Studánka	99	7	0	F
+3207	561223	1	1	901	6	Věra	Voronová			56	přepážková pracovnice	Studánka	99	80	0	F
+3207	561223	1	2	470	6	Jaromír	Lipchavský			44	lesní operátor	Studánka	99	80	0	M
+3207	561223	1	3	7	6	Jan	Prášek			65	důchodce	Studánka	7	7	0	M
+3207	561223	1	1	901	7	Milan	Dvořák			38	řidič	Studánka	99	80	0	M
+3207	561223	1	2	470	7	Libor	Novotný			51	OSVČ	Studánka	99	80	0	M
+3207	561223	1	3	7	7	Josef	Lipchavský			42	logistik skladu	Studánka	99	7	0	M
+3207	561223	1	1	901	8	Marie	Langová			61	správce daní	Studánka	99	80	0	F
+3207	561223	1	1	901	9	Jitka	Honzíková			51	operátorka	Studánka	99	80	0	F

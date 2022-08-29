@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6102	586897	1	1	901	1	Eva	Bendová	F			46	OSVČ	Bítovčice	99	80	0
-6102	586897	1	1	901	2	Petr	Buš	M			48	konstruktér	Bítovčice	99	80	0
-6102	586897	1	1	901	3	Monika	Kostková	F	MUDr.		41	zubní lékařka	Bítovčice	99	80	0
-6102	586897	1	1	901	4	Josef	Kremláček	M			68	důchodce	Bítovčice	99	80	0
-6102	586897	1	1	901	5	Vlastimil	Majtán	M			32	skladník	Bítovčice	99	80	0
-6102	586897	1	1	901	6	Pavlína	Palečková	F			49	OSVČ	Bítovčice	99	80	0
-6102	586897	1	1	901	7	Jaromír	Šaroun	M	Ing.		53	poradce	Bítovčice	99	80	0
-6102	586897	1	2	1	1	Jiří	Hron	M			28	dělník	Bítovčice	99	1	0
-6102	586897	1	2	1	2	Martin	Dvořáček	M			38	konstruktér	Bítovčice	1	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6102	586897	1	1	901	1	Eva	Bendová			46	OSVČ	Bítovčice	99	80	0	F
+6102	586897	1	2	1	1	Jiří	Hron			28	dělník	Bítovčice	99	1	0	M
+6102	586897	1	1	901	2	Petr	Buš			48	konstruktér	Bítovčice	99	80	0	M
+6102	586897	1	2	1	2	Martin	Dvořáček			38	konstruktér	Bítovčice	1	1	0	M
+6102	586897	1	1	901	3	Monika	Kostková	MUDr.		41	zubní lékařka	Bítovčice	99	80	0	F
+6102	586897	1	1	901	4	Josef	Kremláček			68	důchodce	Bítovčice	99	80	0	M
+6102	586897	1	1	901	5	Vlastimil	Majtán			32	skladník	Bítovčice	99	80	0	M
+6102	586897	1	1	901	6	Pavlína	Palečková			49	OSVČ	Bítovčice	99	80	0	F
+6102	586897	1	1	901	7	Jaromír	Šaroun	Ing.		53	poradce	Bítovčice	99	80	0	M

@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589730	1	1	902	1	Zdeněk	Zatloukal	M			65	OSVČ	Mostkovice	99	80	A
-7103	589730	1	1	902	2	Karel	Karkan	M	Ing.		73	důchodce	Mostkovice	99	80	A
-7103	589730	1	1	902	3	Jaroslav	Karafiát	M			45	prodavač	Mostkovice	99	80	A
-7103	589730	1	1	902	4	Alena	Trnečková	F	Ing.		42	OSVČ	Mostkovice	99	80	A
-7103	589730	1	1	902	5	Václav	Dadák	M			40	dělník	Mostkovice	99	80	A
-7103	589730	1	1	902	6	Vincenc	Kaštyl	M			74	OSVČ	Mostkovice	99	80	A
-7103	589730	1	1	902	7	Andrea	Uličná	F			42	prodavačka	Mostkovice	99	80	A
-7103	589730	1	1	902	8	Ivana	Dočkalová	F	MgA.		47	OSVČ	Mostkovice	99	80	A
-7103	589730	1	1	902	9	Věra	Povýšilová	F			43	asistent pedagoga	Mostkovice	99	80	A
-7103	589730	1	1	902	10	Milan	Zatloukal	M			65	důchodce	Mostkovice	99	80	A
-7103	589730	1	1	902	11	Tomáš	Peňák	M			32	řidič	Mostkovice	99	80	A
-7103	589730	1	2	210	1	Jan	Růžička	M			46	obchodní zástupce	Mostkovice	1	1	A
-7103	589730	1	2	210	2	Veronika	Dadáková	F	Ing.		41	manažer pobočky banky	Mostkovice	99	1	A
-7103	589730	1	2	210	3	Petr	Dostálek	M	Ing.		53	jednatel společnosti	Mostkovice	99	1	A
-7103	589730	1	2	210	4	Petr	Kolařík	M			58	manažer společnosti	Mostkovice	53	53	A
-7103	589730	1	2	210	5	Jiří	Hanák	M			44	podnikatel	Mostkovice	99	1	A
-7103	589730	1	2	210	6	Ludvík	Benýšek	M			72	důchodce	Mostkovice	1	1	A
-7103	589730	1	2	210	7	Simona	Zapletalová	F	Mgr.		44	ředitelka ZŠ Plumlov	Mostkovice	99	1	A
-7103	589730	1	2	210	8	Marta	Dostálková	F			50	podnikatelka	Mostkovice	99	1	A
-7103	589730	1	2	210	9	Josef	Ondroušek	M			74	důchodce	Mostkovice	99	1	A
-7103	589730	1	2	210	10	Vladimír	Buriánek	M	Ing.		52	technik	Mostkovice	99	1	A
-7103	589730	1	2	210	11	Alena	Konšelová	F	Ing.		46	učitelka	Mostkovice	99	1	A
-7103	589730	1	3	901	1	Jaroslav	Peška	M			62	starosta obce	Mostkovice	99	80	A
-7103	589730	1	3	901	2	Dagmar	Vojtíšková	F	Ing.		56	OSVČ	Mostkovice	99	80	A
-7103	589730	1	3	901	3	Jitka	Vánská	F	Ing.		52	ekonom	Mostkovice	99	80	A
-7103	589730	1	3	901	4	Petra	Navrátilová	F	Mgr.		35	učitelka	Mostkovice	99	80	A
-7103	589730	1	3	901	5	Marek	Jančík	M			47	OSVČ	Mostkovice	99	80	A
-7103	589730	1	3	901	6	Danuše	Srnečková	F	Mgr.		61	učitelka	Mostkovice	99	80	A
-7103	589730	1	3	901	7	František	Cigr	M			48	OSVČ	Mostkovice	99	80	A
-7103	589730	1	3	901	8	Jana	Petrásková	F	Mgr.		44	speciální pedagog	Mostkovice	99	80	A
-7103	589730	1	3	901	9	Pavel	Borovec	M			49	OSVČ	Mostkovice	99	80	A
-7103	589730	1	3	901	10	Ladislav	Krátký	M			61	OSVČ	Mostkovice	99	80	A
-7103	589730	1	3	901	11	Stanislav	Ševčík	M	Mgr.		47	vedoucí vývojový pracovník	Mostkovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589730	1	1	902	1	Zdeněk	Zatloukal			65	OSVČ	Mostkovice	99	80	A	M
+7103	589730	1	2	210	1	Jan	Růžička			46	obchodní zástupce	Mostkovice	1	1	A	M
+7103	589730	1	3	901	1	Jaroslav	Peška			62	starosta obce	Mostkovice	99	80	A	M
+7103	589730	1	1	902	2	Karel	Karkan	Ing.		73	důchodce	Mostkovice	99	80	A	M
+7103	589730	1	2	210	2	Veronika	Dadáková	Ing.		41	manažer pobočky banky	Mostkovice	99	1	A	F
+7103	589730	1	3	901	2	Dagmar	Vojtíšková	Ing.		56	OSVČ	Mostkovice	99	80	A	F
+7103	589730	1	1	902	3	Jaroslav	Karafiát			45	prodavač	Mostkovice	99	80	A	M
+7103	589730	1	2	210	3	Petr	Dostálek	Ing.		53	jednatel společnosti	Mostkovice	99	1	A	M
+7103	589730	1	3	901	3	Jitka	Vánská	Ing.		52	ekonom	Mostkovice	99	80	A	F
+7103	589730	1	1	902	4	Alena	Trnečková	Ing.		42	OSVČ	Mostkovice	99	80	A	F
+7103	589730	1	2	210	4	Petr	Kolařík			58	manažer společnosti	Mostkovice	53	53	A	M
+7103	589730	1	3	901	4	Petra	Navrátilová	Mgr.		35	učitelka	Mostkovice	99	80	A	F
+7103	589730	1	1	902	5	Václav	Dadák			40	dělník	Mostkovice	99	80	A	M
+7103	589730	1	2	210	5	Jiří	Hanák			44	podnikatel	Mostkovice	99	1	A	M
+7103	589730	1	3	901	5	Marek	Jančík			47	OSVČ	Mostkovice	99	80	A	M
+7103	589730	1	1	902	6	Vincenc	Kaštyl			74	OSVČ	Mostkovice	99	80	A	M
+7103	589730	1	2	210	6	Ludvík	Benýšek			72	důchodce	Mostkovice	1	1	A	M
+7103	589730	1	3	901	6	Danuše	Srnečková	Mgr.		61	učitelka	Mostkovice	99	80	A	F
+7103	589730	1	1	902	7	Andrea	Uličná			42	prodavačka	Mostkovice	99	80	A	F
+7103	589730	1	2	210	7	Simona	Zapletalová	Mgr.		44	ředitelka ZŠ Plumlov	Mostkovice	99	1	A	F
+7103	589730	1	3	901	7	František	Cigr			48	OSVČ	Mostkovice	99	80	A	M
+7103	589730	1	1	902	8	Ivana	Dočkalová	MgA.		47	OSVČ	Mostkovice	99	80	A	F
+7103	589730	1	2	210	8	Marta	Dostálková			50	podnikatelka	Mostkovice	99	1	A	F
+7103	589730	1	3	901	8	Jana	Petrásková	Mgr.		44	speciální pedagog	Mostkovice	99	80	A	F
+7103	589730	1	1	902	9	Věra	Povýšilová			43	asistent pedagoga	Mostkovice	99	80	A	F
+7103	589730	1	2	210	9	Josef	Ondroušek			74	důchodce	Mostkovice	99	1	A	M
+7103	589730	1	3	901	9	Pavel	Borovec			49	OSVČ	Mostkovice	99	80	A	M
+7103	589730	1	1	902	10	Milan	Zatloukal			65	důchodce	Mostkovice	99	80	A	M
+7103	589730	1	2	210	10	Vladimír	Buriánek	Ing.		52	technik	Mostkovice	99	1	A	M
+7103	589730	1	3	901	10	Ladislav	Krátký			61	OSVČ	Mostkovice	99	80	A	M
+7103	589730	1	1	902	11	Tomáš	Peňák			32	řidič	Mostkovice	99	80	A	M
+7103	589730	1	2	210	11	Alena	Konšelová	Ing.		46	učitelka	Mostkovice	99	1	A	F
+7103	589730	1	3	901	11	Stanislav	Ševčík	Mgr.		47	vedoucí vývojový pracovník	Mostkovice	99	80	A	M

@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	532509	1	1	902	1	Jaroslav	Dědič	M			43	podnikatel	Šetějovice	99	80	0
-2101	532509	1	1	902	2	František	Prokop	M			48	truhlář	Šetějovice	99	80	0
-2101	532509	1	1	902	3	Jaroslav	Dědič	M			69	důchodce	Šetějovice	99	80	0
-2101	532509	1	1	902	4	Milan	Štecher	M			39	dělník	Šetějovice	99	80	0
-2101	532509	1	1	902	5	Terezia	Jarošová	F			64	důchodce	Šetějovice	99	80	0
-2101	532509	1	2	901	1	Milan	Jelínek	M			42	podnikatel	Dolní Rápotice	99	80	0
-2101	532509	1	2	901	2	Danuše	Vošická	F			46	učitelka	Dolní Rápotice	99	80	0
-2101	532509	1	2	901	3	Petr	Kaštálek	M			31	technik	Dolní Rápotice	99	80	0
-2101	532509	1	2	901	4	Josef	Kalous	M	Bc.		57	státní zaměstnanec ve výslužbě	Dolní Rápotice	99	80	0
-2101	532509	1	2	901	5	Vít	Kaštálek	M			25	dělník	Dolní Rápotice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	532509	1	1	902	1	Jaroslav	Dědič			43	podnikatel	Šetějovice	99	80	0	M
+2101	532509	1	2	901	1	Milan	Jelínek			42	podnikatel	Dolní Rápotice	99	80	0	M
+2101	532509	1	1	902	2	František	Prokop			48	truhlář	Šetějovice	99	80	0	M
+2101	532509	1	2	901	2	Danuše	Vošická			46	učitelka	Dolní Rápotice	99	80	0	F
+2101	532509	1	1	902	3	Jaroslav	Dědič			69	důchodce	Šetějovice	99	80	0	M
+2101	532509	1	2	901	3	Petr	Kaštálek			31	technik	Dolní Rápotice	99	80	0	M
+2101	532509	1	1	902	4	Milan	Štecher			39	dělník	Šetějovice	99	80	0	M
+2101	532509	1	2	901	4	Josef	Kalous	Bc.		57	státní zaměstnanec ve výslužbě	Dolní Rápotice	99	80	0	M
+2101	532509	1	1	902	5	Terezia	Jarošová			64	důchodce	Šetějovice	99	80	0	F
+2101	532509	1	2	901	5	Vít	Kaštálek			25	dělník	Dolní Rápotice	99	80	0	M

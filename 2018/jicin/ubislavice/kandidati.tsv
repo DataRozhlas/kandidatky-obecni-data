@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5202	573655	1	1	902	1	Miloš	Urban	M			58	starosta obce	Štěpanice	99	80	A
-5202	573655	1	1	902	2	Petr	Vágenknecht	M			46	nástrojař	Úbislavice	99	80	A
-5202	573655	1	1	902	3	Jakub	Zlámal	M			45	seřizovač CNC	Stav	99	80	A
-5202	573655	1	1	902	4	Roman	Vít	M			41	střelmistr	Úbislavice	99	80	A
-5202	573655	1	1	902	5	Ivan	Plachý	M	Mgr.		50	učitel	Úbislavice	99	80	A
-5202	573655	1	1	902	6	Jaroslav	Hejtman	M			48	logistik	Zboží	99	80	A
-5202	573655	1	1	902	7	Jaroslav	Militký	M			45	elektrikář	Stav	99	80	A
-5202	573655	1	2	901	1	Milan	Samler	M	Ing.		48	technolog	Úbislavice	99	80	A
-5202	573655	1	2	901	2	Josef	Tauchman	M			45	vedoucí odstřelu	Úbislavice	99	80	A
-5202	573655	1	2	901	3	Josef	Knap	M			54	mistr kovovýroby	Úbislavice	99	80	A
-5202	573655	1	2	901	4	Jiří	Brendl	M			58	autoelektrikář	Zboží	99	80	A
-5202	573655	1	2	901	5	Pavel Václav	Chrtek	M			44	zootechnik	Štěpanice	99	80	A
-5202	573655	1	2	901	6	Zuzana	Králová	F	MgA.		32	designérka	Chloumek	99	80	A
-5202	573655	1	2	901	7	Jaroslav	Král	M			28	traktorista	Úbislavice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5202	573655	1	1	902	1	Miloš	Urban			58	starosta obce	Štěpanice	99	80	A	M
+5202	573655	1	2	901	1	Milan	Samler	Ing.		48	technolog	Úbislavice	99	80	A	M
+5202	573655	1	1	902	2	Petr	Vágenknecht			46	nástrojař	Úbislavice	99	80	A	M
+5202	573655	1	2	901	2	Josef	Tauchman			45	vedoucí odstřelu	Úbislavice	99	80	A	M
+5202	573655	1	1	902	3	Jakub	Zlámal			45	seřizovač CNC	Stav	99	80	A	M
+5202	573655	1	2	901	3	Josef	Knap			54	mistr kovovýroby	Úbislavice	99	80	A	M
+5202	573655	1	1	902	4	Roman	Vít			41	střelmistr	Úbislavice	99	80	A	M
+5202	573655	1	2	901	4	Jiří	Brendl			58	autoelektrikář	Zboží	99	80	A	M
+5202	573655	1	1	902	5	Ivan	Plachý	Mgr.		50	učitel	Úbislavice	99	80	A	M
+5202	573655	1	2	901	5	Pavel Václav	Chrtek			44	zootechnik	Štěpanice	99	80	A	M
+5202	573655	1	1	902	6	Jaroslav	Hejtman			48	logistik	Zboží	99	80	A	M
+5202	573655	1	2	901	6	Zuzana	Králová	MgA.		32	designérka	Chloumek	99	80	A	F
+5202	573655	1	1	902	7	Jaroslav	Militký			45	elektrikář	Stav	99	80	A	M
+5202	573655	1	2	901	7	Jaroslav	Král			28	traktorista	Úbislavice	99	80	A	M

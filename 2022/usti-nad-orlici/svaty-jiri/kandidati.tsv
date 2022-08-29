@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	580708	1	1	901	1	Miloslav	Kubát	M			52	mechanik ČD	Svatý Jiří	99	80	A
-5304	580708	1	1	901	2	Stanislava	Fišerová	F	Ing.		48	auditorka	Svatý Jiří	99	80	A
-5304	580708	1	1	901	3	Daniel	Fišer	M			28	nákupčí	Svatý Jiří	99	80	A
-5304	580708	1	1	901	4	Hana	Martincová	F			56	učitelka MŠ	Svatý Jiří	99	80	A
-5304	580708	1	1	901	5	Jiří	Paukert	M			47	technik ZOD	Svatý Jiří	99	80	A
-5304	580708	1	1	901	6	Pavel	Plch	M			46	řidič	Svatý Jiří	99	80	A
-5304	580708	1	1	901	7	Josef	Oliva	M			44	hasič	Svatý Jiří	99	80	A
-5304	580708	1	1	901	8	Vanda	Vyleťalová	F		DiS.	30	sociální pracovnice	Svatý Jiří	99	80	A
-5304	580708	1	1	901	9	Eva	Teplá	F			59	vedoucí vychovatelka	Sítiny	99	80	A
-5304	580708	1	2	902	1	František	Dostál	M		MBA	49	podnikatel	Loučky	99	80	A
-5304	580708	1	2	902	2	Adam	Pavlišta	M			49	obchodní zástupce	Loučky	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	580708	1	1	901	1	Miloslav	Kubát			52	mechanik ČD	Svatý Jiří	99	80	A	M
+5304	580708	1	2	902	1	František	Dostál		MBA	49	podnikatel	Loučky	99	80	A	M
+5304	580708	1	1	901	2	Stanislava	Fišerová	Ing.		48	auditorka	Svatý Jiří	99	80	A	F
+5304	580708	1	2	902	2	Adam	Pavlišta			49	obchodní zástupce	Loučky	99	80	A	M
+5304	580708	1	1	901	3	Daniel	Fišer			28	nákupčí	Svatý Jiří	99	80	A	M
+5304	580708	1	1	901	4	Hana	Martincová			56	učitelka MŠ	Svatý Jiří	99	80	A	F
+5304	580708	1	1	901	5	Jiří	Paukert			47	technik ZOD	Svatý Jiří	99	80	A	M
+5304	580708	1	1	901	6	Pavel	Plch			46	řidič	Svatý Jiří	99	80	A	M
+5304	580708	1	1	901	7	Josef	Oliva			44	hasič	Svatý Jiří	99	80	A	M
+5304	580708	1	1	901	8	Vanda	Vyleťalová		DiS.	30	sociální pracovnice	Svatý Jiří	99	80	A	F
+5304	580708	1	1	901	9	Eva	Teplá			59	vedoucí vychovatelka	Sítiny	99	80	A	F

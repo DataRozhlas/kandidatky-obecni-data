@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2105	534340	1	1	901	1	Karel	Sezemský	M			35	podnikatel	Netušil	99	80	0
-2105	534340	1	1	901	2	Josef	Červený	M			44	dělník	Netušil	99	80	0
-2105	534340	1	1	901	3	Kateřina	Šmejdová	F	Mgr.		39	učitelka	Netušil	99	80	0
-2105	534340	1	1	901	4	Jan	Janeček	M			54	opravář	Rašovice	99	80	0
-2105	534340	1	1	901	5	Martina	Muchová	F		DiS.	30	studentka	Rašovice	99	80	0
-2105	534340	1	1	901	6	Marcela	Nováková	F			25	kuchařka	Netušil	99	80	0
-2105	534340	1	2	902	1	Lubomír	Nešpor	M			41	bankovní úředník	Mančice	99	80	0
-2105	534340	1	2	902	2	Pavlína	Zouplnová	F			34	podnikatelka	Mančice	99	80	0
-2105	534340	1	3	903	1	Zbyšek	Šaněk	M	Ing.		46	podnikatel	Jindice	99	80	0
-2105	534340	1	3	903	2	Antonín	Miškovský	M			62	podnikatel	Jindice	99	80	0
-2105	534340	1	3	903	3	Milan	Sejkora	M	Ing.		56	technik	Jindice	99	80	0
-2105	534340	1	3	903	4	Pavel	Fanta	M			35	hasič	Jindice	99	80	0
-2105	534340	1	3	903	5	Václav	Kodeš	M			57	dělník	Jindice	99	80	0
-2105	534340	1	3	903	6	Pavel	Kudrna	M	Ing.		64	důchodce	Jindice	99	80	0
-2105	534340	1	3	903	7	Ladislav	Horváth	M			38	podnikatel	Jindice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2105	534340	1	1	901	1	Karel	Sezemský			35	podnikatel	Netušil	99	80	0	M
+2105	534340	1	2	902	1	Lubomír	Nešpor			41	bankovní úředník	Mančice	99	80	0	M
+2105	534340	1	3	903	1	Zbyšek	Šaněk	Ing.		46	podnikatel	Jindice	99	80	0	M
+2105	534340	1	1	901	2	Josef	Červený			44	dělník	Netušil	99	80	0	M
+2105	534340	1	2	902	2	Pavlína	Zouplnová			34	podnikatelka	Mančice	99	80	0	F
+2105	534340	1	3	903	2	Antonín	Miškovský			62	podnikatel	Jindice	99	80	0	M
+2105	534340	1	1	901	3	Kateřina	Šmejdová	Mgr.		39	učitelka	Netušil	99	80	0	F
+2105	534340	1	3	903	3	Milan	Sejkora	Ing.		56	technik	Jindice	99	80	0	M
+2105	534340	1	1	901	4	Jan	Janeček			54	opravář	Rašovice	99	80	0	M
+2105	534340	1	3	903	4	Pavel	Fanta			35	hasič	Jindice	99	80	0	M
+2105	534340	1	1	901	5	Martina	Muchová		DiS.	30	studentka	Rašovice	99	80	0	F
+2105	534340	1	3	903	5	Václav	Kodeš			57	dělník	Jindice	99	80	0	M
+2105	534340	1	1	901	6	Marcela	Nováková			25	kuchařka	Netušil	99	80	0	F
+2105	534340	1	3	903	6	Pavel	Kudrna	Ing.		64	důchodce	Jindice	99	80	0	M
+2105	534340	1	3	903	7	Ladislav	Horváth			38	podnikatel	Jindice	99	80	0	M

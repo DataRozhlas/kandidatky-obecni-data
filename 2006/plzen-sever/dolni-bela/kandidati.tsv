@@ -1,9 +1,9 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3205	558796	1	1	1	1	Ladislav	Randa	M			60	cestmistr	Dolní Bělá	1	1	0
-3205	558796	1	2	901	1	Tomáš	Křiklán	M	MUDr.		51	lékař	Dolní Bělá	99	80	0
-3205	558796	1	2	901	2	Bohumír	Nový	M	Ing.		43	samostatný konstruktér	Dolní Bělá	99	80	0
-3205	558796	1	2	901	3	Miloslav	Roček	M			55	provozní elektrikář	Dolní Bělá	99	80	0
-3205	558796	1	2	901	4	Jaromír	Šafr	M			44	soukromý podnikatel	Dolní Bělá	99	80	0
-3205	558796	1	2	901	5	Jana	Čásová	F			39	administrativní pracovnice	Dolní Bělá	99	80	0
-3205	558796	1	2	901	6	Jiří	Kupka	M			33	živnostník	Dolní Bělá	99	80	0
-3205	558796	1	2	901	7	Marek	Kupka	M			38	obchodní zástupce	Dolní Bělá	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3205	558796	1	1	1	1	Ladislav	Randa			60	cestmistr	Dolní Bělá	1	1	0	M
+3205	558796	1	2	901	1	Tomáš	Křiklán	MUDr.		51	lékař	Dolní Bělá	99	80	0	M
+3205	558796	1	2	901	2	Bohumír	Nový	Ing.		43	samostatný konstruktér	Dolní Bělá	99	80	0	M
+3205	558796	1	2	901	3	Miloslav	Roček			55	provozní elektrikář	Dolní Bělá	99	80	0	M
+3205	558796	1	2	901	4	Jaromír	Šafr			44	soukromý podnikatel	Dolní Bělá	99	80	0	M
+3205	558796	1	2	901	5	Jana	Čásová			39	administrativní pracovnice	Dolní Bělá	99	80	0	F
+3205	558796	1	2	901	6	Jiří	Kupka			33	živnostník	Dolní Bělá	99	80	0	M
+3205	558796	1	2	901	7	Marek	Kupka			38	obchodní zástupce	Dolní Bělá	99	80	0	M

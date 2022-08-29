@@ -1,7 +1,7 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	569241	1	1	901	1	Roman	Krecl	M	Mgr.		40	státní zaměstnanec	Pavlov	99	80	0
-6101	569241	1	1	901	2	Josef	Pavelka	M	Ing.		54	administrátor	Pavlov	99	80	0
-6101	569241	1	1	901	3	Roman	Svoboda	M	Ing.		30	agronom	Pavlov	99	80	0
-6101	569241	1	1	901	4	Václava	Tvrdíková	F			54	důchodce	Pavlov	99	80	0
-6101	569241	1	1	901	5	Jaroslava	Jindřichovská	F			52	farmaceutický laborant	Pavlov	99	80	0
-6101	569241	1	1	901	6	Ladislav	Jahoda	M	Ing.		59	stavební inženýr	Pavlov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	569241	1	1	901	1	Roman	Krecl	Mgr.		40	státní zaměstnanec	Pavlov	99	80	0	M
+6101	569241	1	1	901	2	Josef	Pavelka	Ing.		54	administrátor	Pavlov	99	80	0	M
+6101	569241	1	1	901	3	Roman	Svoboda	Ing.		30	agronom	Pavlov	99	80	0	M
+6101	569241	1	1	901	4	Václava	Tvrdíková			54	důchodce	Pavlov	99	80	0	F
+6101	569241	1	1	901	5	Jaroslava	Jindřichovská			52	farmaceutický laborant	Pavlov	99	80	0	F
+6101	569241	1	1	901	6	Ladislav	Jahoda	Ing.		59	stavební inženýr	Pavlov	99	80	0	M

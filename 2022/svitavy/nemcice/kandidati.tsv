@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	580694	1	1	1305	1	Vladimír	Vrbický	M			47	majitel stavební firmy	Němčice	1114	1114	A
-5303	580694	1	1	1305	2	Veronika	Šaradínová	F			34	administrativní pracovnice	Němčice	99	80	A
-5303	580694	1	1	1305	3	Pavol	Jašňák	M			38	technolog kovovýroby	Zhoř	714	1114	A
-5303	580694	1	1	1305	4	Radomír	Jasanský	M			44	revizní technik	Němčice	99	80	A
-5303	580694	1	1	1305	5	Karel	Rambousek	M			45	kuchař	Němčice	99	80	A
-5303	580694	1	1	1305	6	Daniel	Šaradín	M			37	manažer řízení výroby	Němčice	99	80	A
-5303	580694	1	1	1305	7	Jitka	Štěpánová	F			35	administrativní pracovnice	Němčice	99	80	A
-5303	580694	1	1	1305	8	Jaroslav	Ryba	M			51	obchodní manažer	Němčice	99	80	A
-5303	580694	1	2	902	1	Josef	Racek	M	Ing.		57	starosta	Němčice	99	80	A
-5303	580694	1	2	902	2	Josef	Karlík	M			50	soukromý zemědělec	Němčice	99	80	A
-5303	580694	1	2	902	3	Olga	Miklová	F	Ing.		42	ekonomka	Němčice	99	80	A
-5303	580694	1	2	902	4	Václav	Štarman	M			72	důchodce	Člupek	99	80	A
-5303	580694	1	2	902	5	Jiří	Sainer	M			53	elektrotechnik	Němčice	99	80	A
-5303	580694	1	2	902	6	Luboš	Soukup	M			64	vychovatel	Němčice	99	80	A
-5303	580694	1	2	902	7	Milan	Jasanský	M			57	dělník	Němčice	99	80	A
-5303	580694	1	2	902	8	Barbora	Doubková	F			28	zdravotní sestra	Němčice	99	80	A
-5303	580694	1	2	902	9	František	Kladiva	M			54	manažer	Člupek	99	80	A
-5303	580694	1	3	901	1	Vladimír	Pavliš	M	Ing.		56	technik	Němčice	99	80	A
-5303	580694	1	3	901	2	Stanislav	Tkadleček	M			44	THP	Němčice	99	80	A
-5303	580694	1	3	901	3	Eva	Juščáková	F	Mgr.		50	učitelka	Němčice	99	80	A
-5303	580694	1	3	901	4	Vítězslav	Stránský	M			53	elektromechanik	Člupek	99	80	A
-5303	580694	1	3	901	5	Tomáš	Mikl	M	Ing.		44	technolog	Němčice	99	80	A
-5303	580694	1	3	901	6	Hana	Mikulecká	F			42	šička	Zhoř	99	80	A
-5303	580694	1	3	901	7	Jan	Stránský	M	Bc.		46	informatik	Němčice	99	80	A
-5303	580694	1	3	901	8	Jan	Veselý	M			33	opravář	Němčice	99	80	A
-5303	580694	1	3	901	9	Martin	Mikl	M			48	servisní technik	Člupek	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	580694	1	1	1305	1	Vladimír	Vrbický			47	majitel stavební firmy	Němčice	1114	1114	A	M
+5303	580694	1	2	902	1	Josef	Racek	Ing.		57	starosta	Němčice	99	80	A	M
+5303	580694	1	3	901	1	Vladimír	Pavliš	Ing.		56	technik	Němčice	99	80	A	M
+5303	580694	1	1	1305	2	Veronika	Šaradínová			34	administrativní pracovnice	Němčice	99	80	A	F
+5303	580694	1	2	902	2	Josef	Karlík			50	soukromý zemědělec	Němčice	99	80	A	M
+5303	580694	1	3	901	2	Stanislav	Tkadleček			44	THP	Němčice	99	80	A	M
+5303	580694	1	1	1305	3	Pavol	Jašňák			38	technolog kovovýroby	Zhoř	714	1114	A	M
+5303	580694	1	2	902	3	Olga	Miklová	Ing.		42	ekonomka	Němčice	99	80	A	F
+5303	580694	1	3	901	3	Eva	Juščáková	Mgr.		50	učitelka	Němčice	99	80	A	F
+5303	580694	1	1	1305	4	Radomír	Jasanský			44	revizní technik	Němčice	99	80	A	M
+5303	580694	1	2	902	4	Václav	Štarman			72	důchodce	Člupek	99	80	A	M
+5303	580694	1	3	901	4	Vítězslav	Stránský			53	elektromechanik	Člupek	99	80	A	M
+5303	580694	1	1	1305	5	Karel	Rambousek			45	kuchař	Němčice	99	80	A	M
+5303	580694	1	2	902	5	Jiří	Sainer			53	elektrotechnik	Němčice	99	80	A	M
+5303	580694	1	3	901	5	Tomáš	Mikl	Ing.		44	technolog	Němčice	99	80	A	M
+5303	580694	1	1	1305	6	Daniel	Šaradín			37	manažer řízení výroby	Němčice	99	80	A	M
+5303	580694	1	2	902	6	Luboš	Soukup			64	vychovatel	Němčice	99	80	A	M
+5303	580694	1	3	901	6	Hana	Mikulecká			42	šička	Zhoř	99	80	A	F
+5303	580694	1	1	1305	7	Jitka	Štěpánová			35	administrativní pracovnice	Němčice	99	80	A	F
+5303	580694	1	2	902	7	Milan	Jasanský			57	dělník	Němčice	99	80	A	M
+5303	580694	1	3	901	7	Jan	Stránský	Bc.		46	informatik	Němčice	99	80	A	M
+5303	580694	1	1	1305	8	Jaroslav	Ryba			51	obchodní manažer	Němčice	99	80	A	M
+5303	580694	1	2	902	8	Barbora	Doubková			28	zdravotní sestra	Němčice	99	80	A	F
+5303	580694	1	3	901	8	Jan	Veselý			33	opravář	Němčice	99	80	A	M
+5303	580694	1	2	902	9	František	Kladiva			54	manažer	Člupek	99	80	A	M
+5303	580694	1	3	901	9	Martin	Mikl			48	servisní technik	Člupek	99	80	A	M

@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	504785	1	1	1	1	Oldřich	Kolek	M			69	důchodce	Paseka	99	1	0
-7102	504785	1	1	1	2	Břetislav	Bolard	M	MUDr.		31	lékař	Paseka	99	1	0
-7102	504785	1	1	1	3	Rostislav	Orság	M			34	podnikatel	Paseka	99	1	0
-7102	504785	1	1	1	4	Václav	Lolek	M			46	podnikatel	Paseka	1	1	0
-7102	504785	1	1	1	5	Jiří	Králík	M			60	řidič	Paseka	1	1	0
-7102	504785	1	1	1	6	Josef	Cimbálník	M			57	strojvedoucí	Paseka	1	1	0
-7102	504785	1	1	1	7	Marie	Korotwitschková	F			29	zdravotní sestra	Paseka	99	1	0
-7102	504785	1	1	1	8	Antonín	Černoch	M			52	lesní dělník	Paseka	1	1	0
-7102	504785	1	1	1	9	Josef	Januš	M			61	důchodce	Paseka	1	1	0
-7102	504785	1	1	1	10	Tomáš	Králík	M			29	podnikatel	Paseka	99	1	0
-7102	504785	1	1	1	11	Josef	Fajt	M	Bc.		33	referent	Paseka	99	1	0
-7102	504785	1	1	1	12	Jaroslav	Trhlík	M			35	zedník	Paseka	99	1	0
-7102	504785	1	1	1	13	Zdeněk	Matějíček	M			53	invalidní důchodce	Paseka	99	1	0
-7102	504785	1	1	1	14	Karel	Králík	M			46	zámečník	Paseka	1	1	0
-7102	504785	1	1	1	15	Vojtěch	Jehlář	M			70	důchodce	Paseka	99	1	0
-7102	504785	1	2	901	1	Jiří	Blažek	M			54	starosta obce Paseka	Paseka	99	80	0
-7102	504785	1	2	901	2	Bohuslav	Pecina	M			50	soukromý podnikatel	Paseka	99	80	0
-7102	504785	1	2	901	3	Růžena	Čejková	F			49	hlavní účetní	Paseka	99	80	0
-7102	504785	1	2	901	4	Vladimír	Špitt	M			52	technik	Paseka	99	80	0
-7102	504785	1	2	901	5	Josef	Kolář	M			47	svářeč	Paseka	99	80	0
-7102	504785	1	2	901	6	Jana	Mišáková	F			39	personalistka	Paseka	99	80	0
-7102	504785	1	2	901	7	Jiří	Skácelík	M	Ing.		53	učitel	Paseka	99	80	0
-7102	504785	1	2	901	8	Jitka	Chudá	F			44	účetní	Paseka	99	80	0
-7102	504785	1	2	901	9	Dagmar	Kocurková	F			41	asistentka v ZŠ	Paseka	99	80	0
-7102	504785	1	2	901	10	Jiří	Hluchenko	M			43	zahradník	Paseka	99	80	0
-7102	504785	1	2	901	11	Marta	Mikšíková	F			33	sociální pracovnice	Paseka	99	80	0
-7102	504785	1	2	901	12	Michal	Šinglovič	M	Ing.		40	technik	Paseka	99	80	0
-7102	504785	1	2	901	13	Jan	Richter	M			46	technik	Pasecký Žleb	99	80	0
-7102	504785	1	2	901	14	Naděžda	Popelková	F			34	pomocná pracovnice v MŠ	Paseka	99	80	0
-7102	504785	1	2	901	15	Jiří	Kučera	M			27	účetní	Paseka	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	504785	1	1	1	1	Oldřich	Kolek			69	důchodce	Paseka	99	1	0	M
+7102	504785	1	2	901	1	Jiří	Blažek			54	starosta obce Paseka	Paseka	99	80	0	M
+7102	504785	1	1	1	2	Břetislav	Bolard	MUDr.		31	lékař	Paseka	99	1	0	M
+7102	504785	1	2	901	2	Bohuslav	Pecina			50	soukromý podnikatel	Paseka	99	80	0	M
+7102	504785	1	1	1	3	Rostislav	Orság			34	podnikatel	Paseka	99	1	0	M
+7102	504785	1	2	901	3	Růžena	Čejková			49	hlavní účetní	Paseka	99	80	0	F
+7102	504785	1	1	1	4	Václav	Lolek			46	podnikatel	Paseka	1	1	0	M
+7102	504785	1	2	901	4	Vladimír	Špitt			52	technik	Paseka	99	80	0	M
+7102	504785	1	1	1	5	Jiří	Králík			60	řidič	Paseka	1	1	0	M
+7102	504785	1	2	901	5	Josef	Kolář			47	svářeč	Paseka	99	80	0	M
+7102	504785	1	1	1	6	Josef	Cimbálník			57	strojvedoucí	Paseka	1	1	0	M
+7102	504785	1	2	901	6	Jana	Mišáková			39	personalistka	Paseka	99	80	0	F
+7102	504785	1	1	1	7	Marie	Korotwitschková			29	zdravotní sestra	Paseka	99	1	0	F
+7102	504785	1	2	901	7	Jiří	Skácelík	Ing.		53	učitel	Paseka	99	80	0	M
+7102	504785	1	1	1	8	Antonín	Černoch			52	lesní dělník	Paseka	1	1	0	M
+7102	504785	1	2	901	8	Jitka	Chudá			44	účetní	Paseka	99	80	0	F
+7102	504785	1	1	1	9	Josef	Januš			61	důchodce	Paseka	1	1	0	M
+7102	504785	1	2	901	9	Dagmar	Kocurková			41	asistentka v ZŠ	Paseka	99	80	0	F
+7102	504785	1	1	1	10	Tomáš	Králík			29	podnikatel	Paseka	99	1	0	M
+7102	504785	1	2	901	10	Jiří	Hluchenko			43	zahradník	Paseka	99	80	0	M
+7102	504785	1	1	1	11	Josef	Fajt	Bc.		33	referent	Paseka	99	1	0	M
+7102	504785	1	2	901	11	Marta	Mikšíková			33	sociální pracovnice	Paseka	99	80	0	F
+7102	504785	1	1	1	12	Jaroslav	Trhlík			35	zedník	Paseka	99	1	0	M
+7102	504785	1	2	901	12	Michal	Šinglovič	Ing.		40	technik	Paseka	99	80	0	M
+7102	504785	1	1	1	13	Zdeněk	Matějíček			53	invalidní důchodce	Paseka	99	1	0	M
+7102	504785	1	2	901	13	Jan	Richter			46	technik	Pasecký Žleb	99	80	0	M
+7102	504785	1	1	1	14	Karel	Králík			46	zámečník	Paseka	1	1	0	M
+7102	504785	1	2	901	14	Naděžda	Popelková			34	pomocná pracovnice v MŠ	Paseka	99	80	0	F
+7102	504785	1	1	1	15	Vojtěch	Jehlář			70	důchodce	Paseka	99	1	0	M
+7102	504785	1	2	901	15	Jiří	Kučera			27	účetní	Paseka	99	80	0	M

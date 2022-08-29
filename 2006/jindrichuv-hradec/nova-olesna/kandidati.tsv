@@ -1,7 +1,7 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	562734	1	1	901	1	Lenka	Hynková	F			32	na mateřské dovolené	Nová Olešná	99	80	0
-3103	562734	1	1	901	2	Karel	Kešner	M			65	důchodce	Nová Olešná	99	80	0
-3103	562734	1	1	901	3	Rosemarie	Kosová	F			60	důchodce	Nová Olešná	99	80	0
-3103	562734	1	1	901	4	Ladislav	Skuhra	M			60	důchodce	Nová Olešná	99	80	0
-3103	562734	1	1	901	5	Magdalena	Přibylová	F			26	zdravotní sestra	Nová Olešná	99	80	0
-3103	562734	1	2	7	1	Jana	Semotánová	F			55	dělnice	Nová Olešná	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	562734	1	1	901	1	Lenka	Hynková			32	na mateřské dovolené	Nová Olešná	99	80	0	F
+3103	562734	1	2	7	1	Jana	Semotánová			55	dělnice	Nová Olešná	99	7	0	F
+3103	562734	1	1	901	2	Karel	Kešner			65	důchodce	Nová Olešná	99	80	0	M
+3103	562734	1	1	901	3	Rosemarie	Kosová			60	důchodce	Nová Olešná	99	80	0	F
+3103	562734	1	1	901	4	Ladislav	Skuhra			60	důchodce	Nová Olešná	99	80	0	M
+3103	562734	1	1	901	5	Magdalena	Přibylová			26	zdravotní sestra	Nová Olešná	99	80	0	F

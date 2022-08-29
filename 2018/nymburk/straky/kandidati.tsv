@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2108	537853	1	1	355	1	Marek	Houska	M	Mgr.		43	policista	Straky	99	80	A
-2108	537853	1	1	355	2	Marcela	Duková	F	Mgr.		51	hlavní účetní	Straky	99	80	A
-2108	537853	1	1	355	3	Lenka	Zvěřinová	F			60	důchodkyně	Straky	99	80	A
-2108	537853	1	1	355	4	Milan	Pažout	M			64	podnikatel	Straky	99	80	A
-2108	537853	1	1	355	5	Jiří	Novák	M			44	zemědělský technik	Straky	99	80	A
-2108	537853	1	1	355	6	Václav	Zvěřina	M			61	skladník	Straky	99	80	A
-2108	537853	1	1	355	7	Ludmila	Homolová	F			70	důchodkyně	Straky	1	1	A
-2108	537853	1	1	355	8	Lucie	Stuchlíková	F			35	OSVČ	Straky	99	80	A
-2108	537853	1	1	355	9	Jiří	Hodač	M			46	dělník	Straky	99	80	A
-2108	537853	1	1	355	10	Tomáš	Kříž	M			26	karosář	Straky	99	80	A
-2108	537853	1	1	355	11	Petr	Homola	M	Ing.		39	manager	Straky	99	80	A
-2108	537853	1	2	901	1	Josef	Šťastný	M			70	podnikatel	Straky	99	80	A
-2108	537853	1	2	901	2	Zdeňka	Vecková	F			64	důchodkyně	Straky	99	80	A
-2108	537853	1	2	901	3	Jaromír	Škoda	M			53	logistik	Straky	99	80	A
-2108	537853	1	2	901	4	Radek	Jeremiáš	M			47	mechanik-opravář	Straky	99	80	A
-2108	537853	1	2	901	5	Eva	Kadeřábková	F			44	kontrolor	Straky	99	80	A
-2108	537853	1	2	901	6	Josef	Šťastný	M	Ing.		42	podnikatel	Straky	99	80	A
-2108	537853	1	2	901	7	Hana	Růžičková	F			65	účetní	Straky	99	80	A
-2108	537853	1	2	901	8	Radek	Vinkler	M			42	OSVČ	Straky	99	80	A
-2108	537853	1	2	901	9	Jana	Radová	F			46	prodavačka	Straky	99	80	A
-2108	537853	1	2	901	10	Eva	Cirmonová	F			55	inval. důchodkyně	Straky	99	80	A
-2108	537853	1	2	901	11	Jana	Vítková	F			40	administr. pracovnice	Straky	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2108	537853	1	1	355	1	Marek	Houska	Mgr.		43	policista	Straky	99	80	A	M
+2108	537853	1	2	901	1	Josef	Šťastný			70	podnikatel	Straky	99	80	A	M
+2108	537853	1	1	355	2	Marcela	Duková	Mgr.		51	hlavní účetní	Straky	99	80	A	F
+2108	537853	1	2	901	2	Zdeňka	Vecková			64	důchodkyně	Straky	99	80	A	F
+2108	537853	1	1	355	3	Lenka	Zvěřinová			60	důchodkyně	Straky	99	80	A	F
+2108	537853	1	2	901	3	Jaromír	Škoda			53	logistik	Straky	99	80	A	M
+2108	537853	1	1	355	4	Milan	Pažout			64	podnikatel	Straky	99	80	A	M
+2108	537853	1	2	901	4	Radek	Jeremiáš			47	mechanik-opravář	Straky	99	80	A	M
+2108	537853	1	1	355	5	Jiří	Novák			44	zemědělský technik	Straky	99	80	A	M
+2108	537853	1	2	901	5	Eva	Kadeřábková			44	kontrolor	Straky	99	80	A	F
+2108	537853	1	1	355	6	Václav	Zvěřina			61	skladník	Straky	99	80	A	M
+2108	537853	1	2	901	6	Josef	Šťastný	Ing.		42	podnikatel	Straky	99	80	A	M
+2108	537853	1	1	355	7	Ludmila	Homolová			70	důchodkyně	Straky	1	1	A	F
+2108	537853	1	2	901	7	Hana	Růžičková			65	účetní	Straky	99	80	A	F
+2108	537853	1	1	355	8	Lucie	Stuchlíková			35	OSVČ	Straky	99	80	A	F
+2108	537853	1	2	901	8	Radek	Vinkler			42	OSVČ	Straky	99	80	A	M
+2108	537853	1	1	355	9	Jiří	Hodač			46	dělník	Straky	99	80	A	M
+2108	537853	1	2	901	9	Jana	Radová			46	prodavačka	Straky	99	80	A	F
+2108	537853	1	1	355	10	Tomáš	Kříž			26	karosář	Straky	99	80	A	M
+2108	537853	1	2	901	10	Eva	Cirmonová			55	inval. důchodkyně	Straky	99	80	A	F
+2108	537853	1	1	355	11	Petr	Homola	Ing.		39	manager	Straky	99	80	A	M
+2108	537853	1	2	901	11	Jana	Vítková			40	administr. pracovnice	Straky	99	80	A	F

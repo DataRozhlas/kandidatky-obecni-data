@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4206	567647	1	1	901	1	Alena	Matějková	F			42	stavební technik	Lahošt	99	80	0
-4206	567647	1	1	901	2	Milan	Fábera	M	Ing.		53	technik	Lahošt	99	80	0
-4206	567647	1	1	901	3	Martina	Nováková	F	Mgr.		31	učitelka	Lahošt	99	80	0
-4206	567647	1	1	901	4	Jan	Haľko	M			45	elektromontér	Lahošt	99	80	0
-4206	567647	1	1	901	5	Milan	Horváth	M			45	automechanik	Lahošt	99	80	0
-4206	567647	1	1	901	6	Emil	Sadílek	M			41	elektromontér	Lahošt	99	80	0
-4206	567647	1	1	901	7	Miroslav	Pavlík	M			52	horizontkář	Lahošt	99	80	0
-4206	567647	1	1	901	8	Jan	Tomiš	M			47	podnikatel	Lahošt	99	80	0
-4206	567647	1	1	901	9	Jiří	Zatloukal	M			48	řidič	Lahošt	99	80	0
-4206	567647	1	2	47	1	Jan	König	M			39	technik	Lahošt	99	47	0
-4206	567647	1	2	47	2	Věra	Nováková	F			54	dělnice	Lahošt	99	47	0
-4206	567647	1	2	47	3	Bedřich	Mudra	M			39	dělník	Lahošt	99	47	0
-4206	567647	1	2	47	4	Ivan	Šebesta	M			69	důchodce	Lahošt	47	47	0
-4206	567647	1	2	47	5	Josef	Kreidl	M			52	dělník	Lahošt	47	47	0
-4206	567647	1	2	47	6	Jana	Šebestová	F			63	důchodkyně	Lahošt	99	47	0
-4206	567647	1	3	7	1	Hana	Ditrichová	F			42	obchodní zástupce	Lahošt	99	7	0
-4206	567647	1	3	7	2	Dagmar	Žbánková	F	Mgr.		46	profesorka gymnázia	Lahošt	99	7	0
-4206	567647	1	3	7	3	Petr	Zahradník	M	Ing.		37	ekonom	Lahošt	99	7	0
-4206	567647	1	3	7	4	Markéta	Vaněčková	F			33	klientský poradce ČSOB	Lahošt	99	7	0
-4206	567647	1	3	7	5	Lucie	Plochová	F			23	studentka práv	Lahošt	99	7	0
-4206	567647	1	3	7	6	Helena	Srbová	F			49	hlavní účetní	Lahošt	99	7	0
-4206	567647	1	3	7	7	Olga	Bělohlávková	F			62	důchodce	Lahošt	99	7	0
-4206	567647	1	3	7	8	Robert	Choura	M			66	důchodce	Lahošt	99	7	0
-4206	567647	1	3	7	9	František	Kožíšek	M			59	vrátný	Lahošt	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4206	567647	1	1	901	1	Alena	Matějková			42	stavební technik	Lahošt	99	80	0	F
+4206	567647	1	2	47	1	Jan	König			39	technik	Lahošt	99	47	0	M
+4206	567647	1	3	7	1	Hana	Ditrichová			42	obchodní zástupce	Lahošt	99	7	0	F
+4206	567647	1	1	901	2	Milan	Fábera	Ing.		53	technik	Lahošt	99	80	0	M
+4206	567647	1	2	47	2	Věra	Nováková			54	dělnice	Lahošt	99	47	0	F
+4206	567647	1	3	7	2	Dagmar	Žbánková	Mgr.		46	profesorka gymnázia	Lahošt	99	7	0	F
+4206	567647	1	1	901	3	Martina	Nováková	Mgr.		31	učitelka	Lahošt	99	80	0	F
+4206	567647	1	2	47	3	Bedřich	Mudra			39	dělník	Lahošt	99	47	0	M
+4206	567647	1	3	7	3	Petr	Zahradník	Ing.		37	ekonom	Lahošt	99	7	0	M
+4206	567647	1	1	901	4	Jan	Haľko			45	elektromontér	Lahošt	99	80	0	M
+4206	567647	1	2	47	4	Ivan	Šebesta			69	důchodce	Lahošt	47	47	0	M
+4206	567647	1	3	7	4	Markéta	Vaněčková			33	klientský poradce ČSOB	Lahošt	99	7	0	F
+4206	567647	1	1	901	5	Milan	Horváth			45	automechanik	Lahošt	99	80	0	M
+4206	567647	1	2	47	5	Josef	Kreidl			52	dělník	Lahošt	47	47	0	M
+4206	567647	1	3	7	5	Lucie	Plochová			23	studentka práv	Lahošt	99	7	0	F
+4206	567647	1	1	901	6	Emil	Sadílek			41	elektromontér	Lahošt	99	80	0	M
+4206	567647	1	2	47	6	Jana	Šebestová			63	důchodkyně	Lahošt	99	47	0	F
+4206	567647	1	3	7	6	Helena	Srbová			49	hlavní účetní	Lahošt	99	7	0	F
+4206	567647	1	1	901	7	Miroslav	Pavlík			52	horizontkář	Lahošt	99	80	0	M
+4206	567647	1	3	7	7	Olga	Bělohlávková			62	důchodce	Lahošt	99	7	0	F
+4206	567647	1	1	901	8	Jan	Tomiš			47	podnikatel	Lahošt	99	80	0	M
+4206	567647	1	3	7	8	Robert	Choura			66	důchodce	Lahošt	99	7	0	M
+4206	567647	1	1	901	9	Jiří	Zatloukal			48	řidič	Lahošt	99	80	0	M
+4206	567647	1	3	7	9	František	Kožíšek			59	vrátný	Lahošt	99	7	0	M

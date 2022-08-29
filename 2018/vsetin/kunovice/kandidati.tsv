@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7203	543021	1	1	721	1	Josef	Haša	M	Ing.		38	starosta obce	Kunovice	721	721	A
-7203	543021	1	1	721	2	Radek	Hruška	M	Ing.		41	manažer	Kunovice	99	721	A
-7203	543021	1	1	721	3	Josef	Kuna	M			56	soukromý zemědělec	Kunovice	99	721	A
-7203	543021	1	1	721	4	Tomáš	Kuběja	M			45	stolař	Kunovice	99	721	A
-7203	543021	1	1	721	5	Hana	Králová	F	Bc.		25	výživový specialista	Kunovice	99	721	A
-7203	543021	1	1	721	6	Bronislav	Wiesner	M			43	živnostník	Kunovice	99	721	A
-7203	543021	1	1	721	7	Jiří	Blažek	M			54	skladník	Kunovice	99	721	A
-7203	543021	1	1	721	8	Miroslav	Vlk	M			58	živnostník	Kunovice	99	721	A
-7203	543021	1	1	721	9	Jiří	Hubáček	M			46	řidič	Kunovice	99	721	A
-7203	543021	1	2	901	1	Josef	Hruška	M	Ing.		62	ekonom	Kunovice	99	80	A
-7203	543021	1	2	901	2	Pavel	Mareček	M			46	prodavač	Kunovice	99	80	A
-7203	543021	1	2	901	3	Tomáš	Gába	M			30	strojírenský dispečer	Kunovice	99	80	A
-7203	543021	1	2	901	4	Jitka	Gábová	F			50	dělnice	Kunovice	99	80	A
-7203	543021	1	2	901	5	Josef	Sehnal	M	MUDr.		52	praktický lékař	Kunovice	99	80	A
-7203	543021	1	2	901	6	Josef	Wiesner	M			68	senior	Kunovice	99	80	A
-7203	543021	1	2	901	7	Stanislav	Černoch	M			30	dělník	Kunovice	99	80	A
-7203	543021	1	2	901	8	Martin	Jiříček	M			30	traktorista	Kunovice	99	80	A
-7203	543021	1	2	901	9	Petr	Hruška	M			20	student	Kunovice	99	80	A
-7203	543021	1	3	902	1	Jiří	Herman	M			35	OSVČ truhlář	Kunovice	99	80	A
-7203	543021	1	3	902	2	Martin	Hlavica	M			40	OSVČ podlahář	Kunovice	99	80	A
-7203	543021	1	3	902	3	Petr	Dohnal	M			48	truhlář	Kunovice	99	80	A
-7203	543021	1	3	902	4	Václav	Hruška	M			45	strojař	Kunovice	99	80	A
-7203	543021	1	3	902	5	Petr	Nenutil	M			41	OSVČ zámečník	Kunovice	99	80	A
-7203	543021	1	3	902	6	Bohuslav	Machačík	M			54	OSVČ elektrikář	Kunovice	99	80	A
-7203	543021	1	3	902	7	Milan	Číhal	M			33	stavbyvedoucí	Kunovice	99	80	A
-7203	543021	1	3	902	8	Josef	Kuběja	M			18	student	Kunovice	99	80	A
-7203	543021	1	3	902	9	Vladislav	Škařupa	M			41	péče o osobu blízkou	Kunovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7203	543021	1	1	721	1	Josef	Haša	Ing.		38	starosta obce	Kunovice	721	721	A	M
+7203	543021	1	2	901	1	Josef	Hruška	Ing.		62	ekonom	Kunovice	99	80	A	M
+7203	543021	1	3	902	1	Jiří	Herman			35	OSVČ truhlář	Kunovice	99	80	A	M
+7203	543021	1	1	721	2	Radek	Hruška	Ing.		41	manažer	Kunovice	99	721	A	M
+7203	543021	1	2	901	2	Pavel	Mareček			46	prodavač	Kunovice	99	80	A	M
+7203	543021	1	3	902	2	Martin	Hlavica			40	OSVČ podlahář	Kunovice	99	80	A	M
+7203	543021	1	1	721	3	Josef	Kuna			56	soukromý zemědělec	Kunovice	99	721	A	M
+7203	543021	1	2	901	3	Tomáš	Gába			30	strojírenský dispečer	Kunovice	99	80	A	M
+7203	543021	1	3	902	3	Petr	Dohnal			48	truhlář	Kunovice	99	80	A	M
+7203	543021	1	1	721	4	Tomáš	Kuběja			45	stolař	Kunovice	99	721	A	M
+7203	543021	1	2	901	4	Jitka	Gábová			50	dělnice	Kunovice	99	80	A	F
+7203	543021	1	3	902	4	Václav	Hruška			45	strojař	Kunovice	99	80	A	M
+7203	543021	1	1	721	5	Hana	Králová	Bc.		25	výživový specialista	Kunovice	99	721	A	F
+7203	543021	1	2	901	5	Josef	Sehnal	MUDr.		52	praktický lékař	Kunovice	99	80	A	M
+7203	543021	1	3	902	5	Petr	Nenutil			41	OSVČ zámečník	Kunovice	99	80	A	M
+7203	543021	1	1	721	6	Bronislav	Wiesner			43	živnostník	Kunovice	99	721	A	M
+7203	543021	1	2	901	6	Josef	Wiesner			68	senior	Kunovice	99	80	A	M
+7203	543021	1	3	902	6	Bohuslav	Machačík			54	OSVČ elektrikář	Kunovice	99	80	A	M
+7203	543021	1	1	721	7	Jiří	Blažek			54	skladník	Kunovice	99	721	A	M
+7203	543021	1	2	901	7	Stanislav	Černoch			30	dělník	Kunovice	99	80	A	M
+7203	543021	1	3	902	7	Milan	Číhal			33	stavbyvedoucí	Kunovice	99	80	A	M
+7203	543021	1	1	721	8	Miroslav	Vlk			58	živnostník	Kunovice	99	721	A	M
+7203	543021	1	2	901	8	Martin	Jiříček			30	traktorista	Kunovice	99	80	A	M
+7203	543021	1	3	902	8	Josef	Kuběja			18	student	Kunovice	99	80	A	M
+7203	543021	1	1	721	9	Jiří	Hubáček			46	řidič	Kunovice	99	721	A	M
+7203	543021	1	2	901	9	Petr	Hruška			20	student	Kunovice	99	80	A	M
+7203	543021	1	3	902	9	Vladislav	Škařupa			41	péče o osobu blízkou	Kunovice	99	80	A	M

@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2106	535133	1	1	53	1	Jitka	Zimová	F			49	starostka obce	Obříství-Semilkovice	99	53	0
-2106	535133	1	1	53	2	Renata	Šulcová	F			36	místostarostka obce	Obříství	99	53	0
-2106	535133	1	1	53	3	Milan	Štěpánek	M			55	podnikatel	Obříství	99	53	0
-2106	535133	1	1	53	4	Jiří	Holzmann	M			44	invalidní důchodce	Obříství	99	53	0
-2106	535133	1	1	53	5	Lidmila	Krcháková	F			70	důchodkyně	Obříství	99	53	0
-2106	535133	1	1	53	6	Petr	Rudišar	M			42	elektrikář	Obříství	99	53	0
-2106	535133	1	1	53	7	Lukáš	Vacek	M			33	podnikatel	Obříství	99	53	0
-2106	535133	1	1	53	8	Pavel	Juklíček	M			36	obchodní zástupce	Obříství	99	53	0
-2106	535133	1	1	53	9	Vladimír	Plocek	M			50	podnikatel	Obříství	99	53	0
-2106	535133	1	1	53	10	Libuše	Verbířová	F			36	v domácnosti	Obříství	99	53	0
-2106	535133	1	1	53	11	Martin	Satýnek	M			63	podnikatel	Obříství	53	53	0
-2106	535133	1	2	47	1	Marie	Pelcová	F			58	dělnice	Obříství	99	47	0
-2106	535133	1	2	47	2	Vladimíra	Benešová	F			32	technolog	Obříství	99	47	0
-2106	535133	1	2	47	3	Drahoslav	Hyka	M			58	pilot	Obříství	47	47	0
-2106	535133	1	2	47	4	Vladimír	Korbel	M			29	řidič	Obříství	99	47	0
-2106	535133	1	2	47	5	Pavlína	Hyková	F			26	administrativní pracovnice	Obříství	99	47	0
-2106	535133	1	2	47	6	Martin	Šál	M			27	podnikatel	Obříství	99	47	0
-2106	535133	1	2	47	7	Miluše	Janíčková	F			59	dělnice	Obříství	99	47	0
-2106	535133	1	2	47	8	Zdeněk	Krumpholc	M			55	elektrotechnik	Obříství	47	47	0
-2106	535133	1	2	47	9	Vlasta	Manová	F			62	dělnice	Obříství	47	47	0
-2106	535133	1	2	47	10	Milan	Pelúch	M			54	dělník	Obříství	47	47	0
-2106	535133	1	2	47	11	Vladimír	Beneš	M			61	soukromý zemědělec	Obříství	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2106	535133	1	1	53	1	Jitka	Zimová			49	starostka obce	Obříství-Semilkovice	99	53	0	F
+2106	535133	1	2	47	1	Marie	Pelcová			58	dělnice	Obříství	99	47	0	F
+2106	535133	1	1	53	2	Renata	Šulcová			36	místostarostka obce	Obříství	99	53	0	F
+2106	535133	1	2	47	2	Vladimíra	Benešová			32	technolog	Obříství	99	47	0	F
+2106	535133	1	1	53	3	Milan	Štěpánek			55	podnikatel	Obříství	99	53	0	M
+2106	535133	1	2	47	3	Drahoslav	Hyka			58	pilot	Obříství	47	47	0	M
+2106	535133	1	1	53	4	Jiří	Holzmann			44	invalidní důchodce	Obříství	99	53	0	M
+2106	535133	1	2	47	4	Vladimír	Korbel			29	řidič	Obříství	99	47	0	M
+2106	535133	1	1	53	5	Lidmila	Krcháková			70	důchodkyně	Obříství	99	53	0	F
+2106	535133	1	2	47	5	Pavlína	Hyková			26	administrativní pracovnice	Obříství	99	47	0	F
+2106	535133	1	1	53	6	Petr	Rudišar			42	elektrikář	Obříství	99	53	0	M
+2106	535133	1	2	47	6	Martin	Šál			27	podnikatel	Obříství	99	47	0	M
+2106	535133	1	1	53	7	Lukáš	Vacek			33	podnikatel	Obříství	99	53	0	M
+2106	535133	1	2	47	7	Miluše	Janíčková			59	dělnice	Obříství	99	47	0	F
+2106	535133	1	1	53	8	Pavel	Juklíček			36	obchodní zástupce	Obříství	99	53	0	M
+2106	535133	1	2	47	8	Zdeněk	Krumpholc			55	elektrotechnik	Obříství	47	47	0	M
+2106	535133	1	1	53	9	Vladimír	Plocek			50	podnikatel	Obříství	99	53	0	M
+2106	535133	1	2	47	9	Vlasta	Manová			62	dělnice	Obříství	47	47	0	F
+2106	535133	1	1	53	10	Libuše	Verbířová			36	v domácnosti	Obříství	99	53	0	F
+2106	535133	1	2	47	10	Milan	Pelúch			54	dělník	Obříství	47	47	0	M
+2106	535133	1	1	53	11	Martin	Satýnek			63	podnikatel	Obříství	53	53	0	M
+2106	535133	1	2	47	11	Vladimír	Beneš			61	soukromý zemědělec	Obříství	47	47	0	M

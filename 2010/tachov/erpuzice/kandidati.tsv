@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3207	560855	1	1	902	1	Václav	Uhlíř	M			36	starosta	Erpužice	99	80	0
-3207	560855	1	1	902	2	Drahomíra	Václavová	F	Mgr.		44	učitelka	Malovice	99	80	0
-3207	560855	1	1	902	3	Alena	Masopustová	F			36	rozpočtářka	Erpužice	99	80	0
-3207	560855	1	1	902	4	Jaroslava	Krügerová	F			38	podnikatelka	Erpužice	99	80	0
-3207	560855	1	1	902	5	Radka	Šámalová	F			22	studentka	Erpužice	99	80	0
-3207	560855	1	1	902	6	Jiří	Růžička	M	Ing.		25	technik	Erpužice	99	80	0
-3207	560855	1	1	902	7	Milan	Masopust	M			34	dělník - řidič	Erpužice	99	80	0
-3207	560855	1	2	901	1	Josef	Palacký	M			38	automechanik	Malovice	99	80	0
-3207	560855	1	2	901	2	Miloslav	Stuchlík	M			56	důchodce	Malovice	99	80	0
-3207	560855	1	2	901	3	Bohumír	Veselý	M			47	státní zaměstnanec	Malovice	99	80	0
-3207	560855	1	2	901	4	Václav	Vintr	M			62	důchodce	Erpužice	99	80	0
-3207	560855	1	2	901	5	Václav	Londa	M			48	mechanik	Erpužice	99	80	0
-3207	560855	1	2	901	6	Zdeněk	Karel	M			49	mechanik	Erpužice	99	80	0
-3207	560855	1	2	901	7	Josef	Štekl	M			51	malíř	Erpužice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3207	560855	1	1	902	1	Václav	Uhlíř			36	starosta	Erpužice	99	80	0	M
+3207	560855	1	2	901	1	Josef	Palacký			38	automechanik	Malovice	99	80	0	M
+3207	560855	1	1	902	2	Drahomíra	Václavová	Mgr.		44	učitelka	Malovice	99	80	0	F
+3207	560855	1	2	901	2	Miloslav	Stuchlík			56	důchodce	Malovice	99	80	0	M
+3207	560855	1	1	902	3	Alena	Masopustová			36	rozpočtářka	Erpužice	99	80	0	F
+3207	560855	1	2	901	3	Bohumír	Veselý			47	státní zaměstnanec	Malovice	99	80	0	M
+3207	560855	1	1	902	4	Jaroslava	Krügerová			38	podnikatelka	Erpužice	99	80	0	F
+3207	560855	1	2	901	4	Václav	Vintr			62	důchodce	Erpužice	99	80	0	M
+3207	560855	1	1	902	5	Radka	Šámalová			22	studentka	Erpužice	99	80	0	F
+3207	560855	1	2	901	5	Václav	Londa			48	mechanik	Erpužice	99	80	0	M
+3207	560855	1	1	902	6	Jiří	Růžička	Ing.		25	technik	Erpužice	99	80	0	M
+3207	560855	1	2	901	6	Zdeněk	Karel			49	mechanik	Erpužice	99	80	0	M
+3207	560855	1	1	902	7	Milan	Masopust			34	dělník - řidič	Erpužice	99	80	0	M
+3207	560855	1	2	901	7	Josef	Štekl			51	malíř	Erpužice	99	80	0	M

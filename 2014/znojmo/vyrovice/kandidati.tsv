@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	595136	1	1	801	1	Radek	Gregor	M			51	živnostník elektrikář	Výrovice	99	80	0
-6207	595136	1	2	803	1	Karel	Mucha	M	Ing.		49	podnikatel	Výrovice	99	80	0
-6207	595136	1	3	721	1	Pavel	Vlček	M			39	vedoucí dopravy a mechanizace	Výrovice	721	721	0
-6207	595136	1	3	721	2	Ladislav	Brunclík	M			46	zootechnik	Výrovice	99	721	0
-6207	595136	1	3	721	3	Emanuel	Vlček	M			48	stavbyvedoucí	Výrovice	99	721	0
-6207	595136	1	3	721	4	Jana	Vlčková	F			43	zdravotní sestra	Výrovice	99	721	0
-6207	595136	1	3	721	5	Petr	Neubauer	M			41	OSVČ	Výrovice	99	721	0
-6207	595136	1	3	721	6	Lukáš	Kuřitka	M			22	student	Výrovice	99	721	0
-6207	595136	1	3	721	7	Denisa	Kopřivová	F			36	lékařka	Výrovice	99	721	0
-6207	595136	1	3	721	8	Jaromír	Vlček	M			37	údržbář	Výrovice	99	721	0
-6207	595136	1	3	721	9	Pavel	Hrdlička	M			46	technik	Výrovice	99	721	0
-6207	595136	1	4	802	1	Drahomíra	Melánová	F			37	OSVČ	Výrovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	595136	1	1	801	1	Radek	Gregor			51	živnostník elektrikář	Výrovice	99	80	0	M
+6207	595136	1	2	803	1	Karel	Mucha	Ing.		49	podnikatel	Výrovice	99	80	0	M
+6207	595136	1	3	721	1	Pavel	Vlček			39	vedoucí dopravy a mechanizace	Výrovice	721	721	0	M
+6207	595136	1	4	802	1	Drahomíra	Melánová			37	OSVČ	Výrovice	99	80	0	F
+6207	595136	1	3	721	2	Ladislav	Brunclík			46	zootechnik	Výrovice	99	721	0	M
+6207	595136	1	3	721	3	Emanuel	Vlček			48	stavbyvedoucí	Výrovice	99	721	0	M
+6207	595136	1	3	721	4	Jana	Vlčková			43	zdravotní sestra	Výrovice	99	721	0	F
+6207	595136	1	3	721	5	Petr	Neubauer			41	OSVČ	Výrovice	99	721	0	M
+6207	595136	1	3	721	6	Lukáš	Kuřitka			22	student	Výrovice	99	721	0	M
+6207	595136	1	3	721	7	Denisa	Kopřivová			36	lékařka	Výrovice	99	721	0	F
+6207	595136	1	3	721	8	Jaromír	Vlček			37	údržbář	Výrovice	99	721	0	M
+6207	595136	1	3	721	9	Pavel	Hrdlička			46	technik	Výrovice	99	721	0	M

@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	529931	1	1	901	1	Miroslav	Matuška	M			56	starosta	Krasovice	99	80	0
-2101	529931	1	1	901	2	Pavel	Procházka	M	Ing.		50	technik	Kondrac	99	80	0
-2101	529931	1	1	901	3	Josef	Šanda	M			38	tesař	Kondrac	99	80	0
-2101	529931	1	1	901	4	Jiří	Janouš	M			34	majitel společnosti	Kondrac	99	80	0
-2101	529931	1	1	901	5	Lukáš	Matoušek	M			27	řezník-uzenář	Kondrac	99	80	0
-2101	529931	1	1	901	6	Daniela	Hrdličková	F			41	kadeřnice	Kondrac	99	80	0
-2101	529931	1	1	901	7	Zdeněk	Kuklík ml.	M			31	živnostník	Dub	99	80	0
-2101	529931	1	1	901	8	Lubomír	Zvára	M			35	podnikatel	Kondrac	99	80	0
-2101	529931	1	1	901	9	Zdeněk	Kuklík st.	M			52	podnikatel	Dub	99	80	0
-2101	529931	1	2	902	1	Jiří	Procházka	M	Ing.		52	jednatel společnosti	Kondrac	99	80	0
-2101	529931	1	2	902	2	Eva	Macešková	F	Ing.		36	vedoucí provozovny	Krasovice	99	80	0
-2101	529931	1	2	902	3	Jiří	Vobořil	M			33	mechanik strojů	Kondrac	99	80	0
-2101	529931	1	2	902	4	Zdeněk	Matějovič	M			37	řidič	Kondrac	99	80	0
-2101	529931	1	2	902	5	Jan	Matuška	M	Mgr. Bc.		33	konzultant UPC	Kondrac	99	80	0
-2101	529931	1	2	902	6	Jiří	Kocura	M			37	klempíř	Dub	99	80	0
-2101	529931	1	2	902	7	Jiří	Buchta	M			46	mistr ve výrobě	Kondrac	99	80	0
-2101	529931	1	2	902	8	Miroslav	Šanda	M			44	výpravčí	Kondrac	99	80	0
-2101	529931	1	2	902	9	Karel	Jirásek	M			40	podnikatel	Kondrac	99	80	0
-2101	529931	1	3	7	1	Josef	Burda	M			37	technik správy budov	Kondrac	7	7	0
-2101	529931	1	3	7	2	Martin	Zelingr	M			43	truhlář	Kondrac	99	7	0
-2101	529931	1	3	7	3	David	Lizák	M			35	řidič autobusu	Kondrac	7	7	0
-2101	529931	1	3	7	4	Jiří	Nepraš	M			42	zaměstnanec ostrahy	Dub	99	7	0
-2101	529931	1	3	7	5	Jaroslav	Douba	M			49	truhlář	Kondrac	7	7	0
-2101	529931	1	3	7	6	Josef	Nepraš	M			42	automechanik	Dub	7	7	0
-2101	529931	1	3	7	7	Josef	Štětina	M			36	obsluha CNC	Dub	7	7	0
-2101	529931	1	3	7	8	Miloš	Kaprálek	M			41	obchodní zástupce	Kondrac	99	7	0
-2101	529931	1	3	7	9	Karel	Čech	M			69	důchodce	Kondrac	7	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	529931	1	1	901	1	Miroslav	Matuška			56	starosta	Krasovice	99	80	0	M
+2101	529931	1	2	902	1	Jiří	Procházka	Ing.		52	jednatel společnosti	Kondrac	99	80	0	M
+2101	529931	1	3	7	1	Josef	Burda			37	technik správy budov	Kondrac	7	7	0	M
+2101	529931	1	1	901	2	Pavel	Procházka	Ing.		50	technik	Kondrac	99	80	0	M
+2101	529931	1	2	902	2	Eva	Macešková	Ing.		36	vedoucí provozovny	Krasovice	99	80	0	F
+2101	529931	1	3	7	2	Martin	Zelingr			43	truhlář	Kondrac	99	7	0	M
+2101	529931	1	1	901	3	Josef	Šanda			38	tesař	Kondrac	99	80	0	M
+2101	529931	1	2	902	3	Jiří	Vobořil			33	mechanik strojů	Kondrac	99	80	0	M
+2101	529931	1	3	7	3	David	Lizák			35	řidič autobusu	Kondrac	7	7	0	M
+2101	529931	1	1	901	4	Jiří	Janouš			34	majitel společnosti	Kondrac	99	80	0	M
+2101	529931	1	2	902	4	Zdeněk	Matějovič			37	řidič	Kondrac	99	80	0	M
+2101	529931	1	3	7	4	Jiří	Nepraš			42	zaměstnanec ostrahy	Dub	99	7	0	M
+2101	529931	1	1	901	5	Lukáš	Matoušek			27	řezník-uzenář	Kondrac	99	80	0	M
+2101	529931	1	2	902	5	Jan	Matuška	Mgr. Bc.		33	konzultant UPC	Kondrac	99	80	0	M
+2101	529931	1	3	7	5	Jaroslav	Douba			49	truhlář	Kondrac	7	7	0	M
+2101	529931	1	1	901	6	Daniela	Hrdličková			41	kadeřnice	Kondrac	99	80	0	F
+2101	529931	1	2	902	6	Jiří	Kocura			37	klempíř	Dub	99	80	0	M
+2101	529931	1	3	7	6	Josef	Nepraš			42	automechanik	Dub	7	7	0	M
+2101	529931	1	1	901	7	Zdeněk	Kuklík ml.			31	živnostník	Dub	99	80	0	M
+2101	529931	1	2	902	7	Jiří	Buchta			46	mistr ve výrobě	Kondrac	99	80	0	M
+2101	529931	1	3	7	7	Josef	Štětina			36	obsluha CNC	Dub	7	7	0	M
+2101	529931	1	1	901	8	Lubomír	Zvára			35	podnikatel	Kondrac	99	80	0	M
+2101	529931	1	2	902	8	Miroslav	Šanda			44	výpravčí	Kondrac	99	80	0	M
+2101	529931	1	3	7	8	Miloš	Kaprálek			41	obchodní zástupce	Kondrac	99	7	0	M
+2101	529931	1	1	901	9	Zdeněk	Kuklík st.			52	podnikatel	Dub	99	80	0	M
+2101	529931	1	2	902	9	Karel	Jirásek			40	podnikatel	Kondrac	99	80	0	M
+2101	529931	1	3	7	9	Karel	Čech			69	důchodce	Kondrac	7	7	0	M

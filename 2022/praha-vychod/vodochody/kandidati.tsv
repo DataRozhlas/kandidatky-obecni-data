@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2109	539015	1	1	901	1	Josef	Veselý	M			52	starosta - údržbář	Vodochody	99	80	A
-2109	539015	1	1	901	2	Petr	Lomnický	M	Ing.		44	projektant	Vodochody	99	80	A
-2109	539015	1	1	901	3	Tomáš	Holák	M	Ing.		36	vedoucí kontroly	Hoštice	99	80	A
-2109	539015	1	1	901	4	Lenka	Finková	F			31	obchodní zástupkyně	Hoštice	99	80	A
-2109	539015	1	1	901	5	Vojtěch	Kinkor	M	Bc.		32	podnikatel	Vodochody	99	80	A
-2109	539015	1	1	901	6	Simona	Pfeffer	F			39	účetní	Hoštice	99	80	A
-2109	539015	1	1	901	7	Jan	Veselý	M			36	řidič - mechanik	Vodochody	99	80	A
-2109	539015	1	1	901	8	Tomáš	Paračka	M			39	letecký mechanik	Vodochody	99	80	A
-2109	539015	1	1	901	9	Anna	Kinkorová	F	MUDr.		62	lékařka	Vodochody	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2109	539015	1	1	901	1	Josef	Veselý			52	starosta - údržbář	Vodochody	99	80	A	M
+2109	539015	1	1	901	2	Petr	Lomnický	Ing.		44	projektant	Vodochody	99	80	A	M
+2109	539015	1	1	901	3	Tomáš	Holák	Ing.		36	vedoucí kontroly	Hoštice	99	80	A	M
+2109	539015	1	1	901	4	Lenka	Finková			31	obchodní zástupkyně	Hoštice	99	80	A	F
+2109	539015	1	1	901	5	Vojtěch	Kinkor	Bc.		32	podnikatel	Vodochody	99	80	A	M
+2109	539015	1	1	901	6	Simona	Pfeffer			39	účetní	Hoštice	99	80	A	F
+2109	539015	1	1	901	7	Jan	Veselý			36	řidič - mechanik	Vodochody	99	80	A	M
+2109	539015	1	1	901	8	Tomáš	Paračka			39	letecký mechanik	Vodochody	99	80	A	M
+2109	539015	1	1	901	9	Anna	Kinkorová	MUDr.		62	lékařka	Vodochody	99	80	A	F

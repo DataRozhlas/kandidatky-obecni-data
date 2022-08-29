@@ -1,33 +1,33 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7204	585548	1	1	137	1	Irena	Strnadová	F	Ing.		43	zootechnička	Nedašova Lhota	99	137	0
-7204	585548	1	1	137	2	Renata	Zichová	F			34	zdravotní sestra	Nedašova Lhota	99	137	0
-7204	585548	1	1	137	3	Kateřina	Kostková	F			33	obchodní manažerka	Nedašova Lhota	99	137	0
-7204	585548	1	1	137	4	Mária	Kuviková	F			36	dělnice	Nedašova Lhota	99	137	0
-7204	585548	1	1	137	5	Miroslava	Rajníková	F			35	poštovní úřednice	Nedašova Lhota	99	137	0
-7204	585548	1	1	137	6	Mirka	Vaňková	F			35	referentka	Nedašova Lhota	99	137	0
-7204	585548	1	1	137	7	Iva	Mičudová	F			36	zootechnička	Nedašova Lhota	99	137	0
-7204	585548	1	2	901	1	Josef	Juřica	M			49	montér	Nedašova Lhota	99	80	0
-7204	585548	1	2	901	2	Miroslav	Fojtík	M			38	soukromý zemědělec	Nedašova Lhota	99	80	0
-7204	585548	1	2	901	3	František	Pacík	M			41	soukromý podnikatel	Nedašova Lhota	99	80	0
-7204	585548	1	2	901	4	Jiří	Holba	M			48	soukromý podnikatel	Nedašova Lhota	99	80	0
-7204	585548	1	2	901	5	Renata	Chovancová	F			37	dělník	Nedašova Lhota	99	80	0
-7204	585548	1	2	901	6	Jiří	Bůbela	M			49	soukromý podnikatel	Nedašova Lhota	99	80	0
-7204	585548	1	2	901	7	Vojtěch	Kostka	M			46	spojový technik	Nedašova Lhota	99	80	0
-7204	585548	1	2	901	8	Pavel	Fojtík	M			38	soukromý podnikatel	Nedašova Lhota	99	80	0
-7204	585548	1	2	901	9	Zdeněk	Solař	M			56	soukromý podnikatel	Nedašova Lhota	99	80	0
-7204	585548	1	3	1	1	Jarmila	Janíčková	F	Bc.		38	sociální pracovnice	Nedašova Lhota	99	1	0
-7204	585548	1	3	1	2	Ivan	Podešť	M			50	elektromontér	Nedašova Lhota	1	1	0
-7204	585548	1	3	1	3	Robert	Strnad	M			41	řidič	Nedašova Lhota	1	1	0
-7204	585548	1	3	1	4	Antonín	Fojtík	M			52	řidič	Nedašova Lhota	1	1	0
-7204	585548	1	3	1	5	Gabriela	Vaňková	F			34	asistentka učitele	Nedašova Lhota	99	1	0
-7204	585548	1	3	1	6	Jana	Dořáková	F			45	knihovnice	Nedašova Lhota	1	1	0
-7204	585548	1	3	1	7	Anežka	Pagáčová	F			61	seniorka	Nedašova Lhota	1	1	0
-7204	585548	1	4	181	1	Pavel	Fojtík	M			43	automechanik	Nedašova Lhota	99	181	0
-7204	585548	1	4	181	2	Jaroslav	Kostka	M			34	OSVČ	Nedašova Lhota	99	181	0
-7204	585548	1	4	181	3	Josef	Kostka	M			48	OSVČ	Nedašova Lhota	99	181	0
-7204	585548	1	4	181	4	Josef	Pagáč	M			41	operátor lesních strojů	Nedašova Lhota	99	181	0
-7204	585548	1	4	181	5	Robert	Vaněk	M			41	zedník	Nedašova Lhota	99	181	0
-7204	585548	1	4	181	6	Josef	Macháč	M			21	umělecký truhlář	Nedašova Lhota	99	181	0
-7204	585548	1	4	181	7	Tomáš	Zvonek	M			22	veterinární asistent	Nedašova Lhota	99	181	0
-7204	585548	1	4	181	8	Lubomír	Vaněk	M			49	mistr odborného výcviku	Nedašova Lhota	99	181	0
-7204	585548	1	4	181	9	Josef	Bartošák	M			22	tesař	Nedašova Lhota	99	181	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7204	585548	1	1	137	1	Irena	Strnadová	Ing.		43	zootechnička	Nedašova Lhota	99	137	0	F
+7204	585548	1	2	901	1	Josef	Juřica			49	montér	Nedašova Lhota	99	80	0	M
+7204	585548	1	3	1	1	Jarmila	Janíčková	Bc.		38	sociální pracovnice	Nedašova Lhota	99	1	0	F
+7204	585548	1	4	181	1	Pavel	Fojtík			43	automechanik	Nedašova Lhota	99	181	0	M
+7204	585548	1	1	137	2	Renata	Zichová			34	zdravotní sestra	Nedašova Lhota	99	137	0	F
+7204	585548	1	2	901	2	Miroslav	Fojtík			38	soukromý zemědělec	Nedašova Lhota	99	80	0	M
+7204	585548	1	3	1	2	Ivan	Podešť			50	elektromontér	Nedašova Lhota	1	1	0	M
+7204	585548	1	4	181	2	Jaroslav	Kostka			34	OSVČ	Nedašova Lhota	99	181	0	M
+7204	585548	1	1	137	3	Kateřina	Kostková			33	obchodní manažerka	Nedašova Lhota	99	137	0	F
+7204	585548	1	2	901	3	František	Pacík			41	soukromý podnikatel	Nedašova Lhota	99	80	0	M
+7204	585548	1	3	1	3	Robert	Strnad			41	řidič	Nedašova Lhota	1	1	0	M
+7204	585548	1	4	181	3	Josef	Kostka			48	OSVČ	Nedašova Lhota	99	181	0	M
+7204	585548	1	1	137	4	Mária	Kuviková			36	dělnice	Nedašova Lhota	99	137	0	F
+7204	585548	1	2	901	4	Jiří	Holba			48	soukromý podnikatel	Nedašova Lhota	99	80	0	M
+7204	585548	1	3	1	4	Antonín	Fojtík			52	řidič	Nedašova Lhota	1	1	0	M
+7204	585548	1	4	181	4	Josef	Pagáč			41	operátor lesních strojů	Nedašova Lhota	99	181	0	M
+7204	585548	1	1	137	5	Miroslava	Rajníková			35	poštovní úřednice	Nedašova Lhota	99	137	0	F
+7204	585548	1	2	901	5	Renata	Chovancová			37	dělník	Nedašova Lhota	99	80	0	F
+7204	585548	1	3	1	5	Gabriela	Vaňková			34	asistentka učitele	Nedašova Lhota	99	1	0	F
+7204	585548	1	4	181	5	Robert	Vaněk			41	zedník	Nedašova Lhota	99	181	0	M
+7204	585548	1	1	137	6	Mirka	Vaňková			35	referentka	Nedašova Lhota	99	137	0	F
+7204	585548	1	2	901	6	Jiří	Bůbela			49	soukromý podnikatel	Nedašova Lhota	99	80	0	M
+7204	585548	1	3	1	6	Jana	Dořáková			45	knihovnice	Nedašova Lhota	1	1	0	F
+7204	585548	1	4	181	6	Josef	Macháč			21	umělecký truhlář	Nedašova Lhota	99	181	0	M
+7204	585548	1	1	137	7	Iva	Mičudová			36	zootechnička	Nedašova Lhota	99	137	0	F
+7204	585548	1	2	901	7	Vojtěch	Kostka			46	spojový technik	Nedašova Lhota	99	80	0	M
+7204	585548	1	3	1	7	Anežka	Pagáčová			61	seniorka	Nedašova Lhota	1	1	0	F
+7204	585548	1	4	181	7	Tomáš	Zvonek			22	veterinární asistent	Nedašova Lhota	99	181	0	M
+7204	585548	1	2	901	8	Pavel	Fojtík			38	soukromý podnikatel	Nedašova Lhota	99	80	0	M
+7204	585548	1	4	181	8	Lubomír	Vaněk			49	mistr odborného výcviku	Nedašova Lhota	99	181	0	M
+7204	585548	1	2	901	9	Zdeněk	Solař			56	soukromý podnikatel	Nedašova Lhota	99	80	0	M
+7204	585548	1	4	181	9	Josef	Bartošák			22	tesař	Nedašova Lhota	99	181	0	M

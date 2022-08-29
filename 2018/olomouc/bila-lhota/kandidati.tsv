@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	500623	1	1	902	1	Jan	Balcárek	M			57	starosta	Hrabí	99	80	A
-7102	500623	1	1	902	2	Jaroslav	Žitný	M			37	hasič	Řimice	99	80	A
-7102	500623	1	1	902	3	Stanislav	Huličný	M			53	soukromý podnikatel	Bílá Lhota	99	80	A
-7102	500623	1	1	902	4	Petr	Člupný	M	Mgr.		49	technik	Řimice	99	80	A
-7102	500623	1	1	902	5	Alena	Sedlářová	F			63	důchodce	Řimice	99	80	A
-7102	500623	1	1	902	6	Jan	Dolák	M			61	bezpečnostní pracovník	Pateřín	99	80	A
-7102	500623	1	1	902	7	Gabriela	Solovská	F	Ing. et Ing.		28	finanční ředitelka	Řimice	99	80	A
-7102	500623	1	1	902	8	Josef	Dvořák	M			56	školník	Červená Lhota	99	80	A
-7102	500623	1	1	902	9	Miroslav	Tyrk	M			37	tavič	Červená Lhota	99	80	A
-7102	500623	1	1	902	10	Miroslav	Sedlář	M			39	vývojář softwarů	Červená Lhota	99	80	A
-7102	500623	1	1	902	11	Marie	Krbcová	F			44	soukromá podnikatelka	Hrabí	99	80	A
-7102	500623	1	1	902	12	Jan	Hošek	M			54	kovář, opravář	Hrabí	99	80	A
-7102	500623	1	1	902	13	Ivana	Oprštěná	F	Mgr.		41	lékárnice	Řimice	99	80	A
-7102	500623	1	1	902	14	Zuzana	Baďurová	F	Mgr.		54	soukromá podnikatelka	Pateřín	99	80	A
-7102	500623	1	1	902	15	Petr	Podsedník	M	Ing.		62	učitel	Pateřín	99	80	A
-7102	500623	1	2	901	1	Petr	Kučmín	M			45	soukromý podnikatel	Měník	99	80	A
-7102	500623	1	2	901	2	Ondřej	Hanuš	M			37	projektant	Hrabí	99	80	A
-7102	500623	1	2	901	3	Jan	Laštůvka	M			31	výrobní inženýr	Měník	99	80	A
-7102	500623	1	2	901	4	Martin	Wywial	M			36	autorizovaný technik	Měník	99	80	A
-7102	500623	1	2	901	5	Martin	Semian	M			47	skladník	Bílá Lhota	99	80	A
-7102	500623	1	2	901	6	Jitka	Dvořáková	F	Mgr.		55	učitelka	Červená Lhota	99	80	A
-7102	500623	1	2	901	7	Jana	Csiková	F	Ing.		57	učitelka	Pateřín	99	80	A
-7102	500623	1	2	901	8	Helena	Šmoldasová	F			44	laborant	Bílá Lhota	99	80	A
-7102	500623	1	2	901	9	Vojtěch	Moťka	M			33	soukromý podnikatel	Bílá Lhota	99	80	A
-7102	500623	1	2	901	10	Jiří	Balcárek	M	Ing.	Ph.D.	34	soukromý podnikatel	Hrabí	99	80	A
-7102	500623	1	2	901	11	Rostislav	Slouka	M			46	řidič	Hrabí	99	80	A
-7102	500623	1	2	901	12	Jaroslav	Michal ml.	M			33	provozní zámečník	Měník	99	80	A
-7102	500623	1	2	901	13	Jaroslav	Baďura	M	Mgr.		55	soukromý podnikatel	Pateřín	99	80	A
-7102	500623	1	2	901	14	Pavel	Sedlář	M			42	svářeč-zámečník	Řimice	99	80	A
-7102	500623	1	2	901	15	Jaroslav	Vlček	M			50	soukromý podnikatel	Řimice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	500623	1	1	902	1	Jan	Balcárek			57	starosta	Hrabí	99	80	A	M
+7102	500623	1	2	901	1	Petr	Kučmín			45	soukromý podnikatel	Měník	99	80	A	M
+7102	500623	1	1	902	2	Jaroslav	Žitný			37	hasič	Řimice	99	80	A	M
+7102	500623	1	2	901	2	Ondřej	Hanuš			37	projektant	Hrabí	99	80	A	M
+7102	500623	1	1	902	3	Stanislav	Huličný			53	soukromý podnikatel	Bílá Lhota	99	80	A	M
+7102	500623	1	2	901	3	Jan	Laštůvka			31	výrobní inženýr	Měník	99	80	A	M
+7102	500623	1	1	902	4	Petr	Člupný	Mgr.		49	technik	Řimice	99	80	A	M
+7102	500623	1	2	901	4	Martin	Wywial			36	autorizovaný technik	Měník	99	80	A	M
+7102	500623	1	1	902	5	Alena	Sedlářová			63	důchodce	Řimice	99	80	A	F
+7102	500623	1	2	901	5	Martin	Semian			47	skladník	Bílá Lhota	99	80	A	M
+7102	500623	1	1	902	6	Jan	Dolák			61	bezpečnostní pracovník	Pateřín	99	80	A	M
+7102	500623	1	2	901	6	Jitka	Dvořáková	Mgr.		55	učitelka	Červená Lhota	99	80	A	F
+7102	500623	1	1	902	7	Gabriela	Solovská	Ing. et Ing.		28	finanční ředitelka	Řimice	99	80	A	F
+7102	500623	1	2	901	7	Jana	Csiková	Ing.		57	učitelka	Pateřín	99	80	A	F
+7102	500623	1	1	902	8	Josef	Dvořák			56	školník	Červená Lhota	99	80	A	M
+7102	500623	1	2	901	8	Helena	Šmoldasová			44	laborant	Bílá Lhota	99	80	A	F
+7102	500623	1	1	902	9	Miroslav	Tyrk			37	tavič	Červená Lhota	99	80	A	M
+7102	500623	1	2	901	9	Vojtěch	Moťka			33	soukromý podnikatel	Bílá Lhota	99	80	A	M
+7102	500623	1	1	902	10	Miroslav	Sedlář			39	vývojář softwarů	Červená Lhota	99	80	A	M
+7102	500623	1	2	901	10	Jiří	Balcárek	Ing.	Ph.D.	34	soukromý podnikatel	Hrabí	99	80	A	M
+7102	500623	1	1	902	11	Marie	Krbcová			44	soukromá podnikatelka	Hrabí	99	80	A	F
+7102	500623	1	2	901	11	Rostislav	Slouka			46	řidič	Hrabí	99	80	A	M
+7102	500623	1	1	902	12	Jan	Hošek			54	kovář, opravář	Hrabí	99	80	A	M
+7102	500623	1	2	901	12	Jaroslav	Michal ml.			33	provozní zámečník	Měník	99	80	A	M
+7102	500623	1	1	902	13	Ivana	Oprštěná	Mgr.		41	lékárnice	Řimice	99	80	A	F
+7102	500623	1	2	901	13	Jaroslav	Baďura	Mgr.		55	soukromý podnikatel	Pateřín	99	80	A	M
+7102	500623	1	1	902	14	Zuzana	Baďurová	Mgr.		54	soukromá podnikatelka	Pateřín	99	80	A	F
+7102	500623	1	2	901	14	Pavel	Sedlář			42	svářeč-zámečník	Řimice	99	80	A	M
+7102	500623	1	1	902	15	Petr	Podsedník	Ing.		62	učitel	Pateřín	99	80	A	M
+7102	500623	1	2	901	15	Jaroslav	Vlček			50	soukromý podnikatel	Řimice	99	80	A	M

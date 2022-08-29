@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	597210	1	1	47	1	Rostislav	Vrobel	M			59	technik	Brantice	99	47	0
-8101	597210	1	1	47	2	Stanislav	Koláček	M			63	živnostník	Brantice	99	47	0
-8101	597210	1	1	47	3	Stanislav	Kocourek	M			61	technik	Brantice	99	47	0
-8101	597210	1	1	47	4	Ludmila	Střížová	F			57	úřednice	Radim	99	47	0
-8101	597210	1	1	47	5	Miroslav	Juříček	M			58	živnostník	Brantice	99	47	0
-8101	597210	1	1	47	6	Petra	Pedacková	F			23	úřednice	Radim	99	47	0
-8101	597210	1	1	47	7	Lenka	Gojová	F	MUDr.		57	lékařka	Brantice	99	47	0
-8101	597210	1	1	47	8	Eva	Mádrová	F			58	čalounice	Brantice	99	47	0
-8101	597210	1	1	47	9	Radek	Vrba	M			47	živnostník	Brantice	99	47	0
-8101	597210	1	2	901	1	Dalibor	Jančík	M			47	signalista	Brantice	99	80	0
-8101	597210	1	2	901	2	Libor	Valenta	M			43	revírník	Radim	99	80	0
-8101	597210	1	2	901	3	Jaroslava	Navrátilová	F			52	uklízečka	Brantice	99	80	0
-8101	597210	1	2	901	4	František	Fojtík	M	Mgr.		35	vedoucí odboru sociálního	Brantice	99	80	0
-8101	597210	1	2	901	5	Martin	Suchánek	M	Bc.		24	student	Radim	99	80	0
-8101	597210	1	2	901	6	Romana	Orlová	F			39	mateřská dovolená	Brantice	99	80	0
-8101	597210	1	2	901	7	Stanislav	Pavlan	M			54	provozní mistr	Brantice	99	80	0
-8101	597210	1	2	901	8	Jindřich	Kaděrka	M			51	OSVČ	Brantice	99	80	0
-8101	597210	1	2	901	9	Vladimír	Lubina	M			47	provozní elektrikář	Brantice	99	80	0
-8101	597210	1	3	129	1	Vladimír	Dofek	M			52	technik a místostarosta obce	Brantice	99	129	0
-8101	597210	1	3	129	2	Vlastimil	Machů	M	Ing.		67	ekonom a starosta obce	Brantice	129	129	0
-8101	597210	1	3	129	3	Zdeněk	Ryšánek	M			60	elektrikář	Brantice	99	129	0
-8101	597210	1	3	129	4	Jozef	Gašparik	M			53	sanitář	Radim	99	129	0
-8101	597210	1	3	129	5	Jana	Berková	F			69	pedagogický pracovník	Brantice	99	129	0
-8101	597210	1	3	129	6	Jaroslava	Hadaščoková	F			63	pedagogický pracovník	Brantice	99	129	0
-8101	597210	1	3	129	7	Terezie	Štechová	F			33	vedoucí pošty	Brantice	99	129	0
-8101	597210	1	3	129	8	Miroslav	Zajíc	M			38	živnostník	Brantice	99	129	0
-8101	597210	1	3	129	9	Vojtěch	Puškar	M			57	živnostník	Brantice	99	129	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	597210	1	1	47	1	Rostislav	Vrobel			59	technik	Brantice	99	47	0	M
+8101	597210	1	2	901	1	Dalibor	Jančík			47	signalista	Brantice	99	80	0	M
+8101	597210	1	3	129	1	Vladimír	Dofek			52	technik a místostarosta obce	Brantice	99	129	0	M
+8101	597210	1	1	47	2	Stanislav	Koláček			63	živnostník	Brantice	99	47	0	M
+8101	597210	1	2	901	2	Libor	Valenta			43	revírník	Radim	99	80	0	M
+8101	597210	1	3	129	2	Vlastimil	Machů	Ing.		67	ekonom a starosta obce	Brantice	129	129	0	M
+8101	597210	1	1	47	3	Stanislav	Kocourek			61	technik	Brantice	99	47	0	M
+8101	597210	1	2	901	3	Jaroslava	Navrátilová			52	uklízečka	Brantice	99	80	0	F
+8101	597210	1	3	129	3	Zdeněk	Ryšánek			60	elektrikář	Brantice	99	129	0	M
+8101	597210	1	1	47	4	Ludmila	Střížová			57	úřednice	Radim	99	47	0	F
+8101	597210	1	2	901	4	František	Fojtík	Mgr.		35	vedoucí odboru sociálního	Brantice	99	80	0	M
+8101	597210	1	3	129	4	Jozef	Gašparik			53	sanitář	Radim	99	129	0	M
+8101	597210	1	1	47	5	Miroslav	Juříček			58	živnostník	Brantice	99	47	0	M
+8101	597210	1	2	901	5	Martin	Suchánek	Bc.		24	student	Radim	99	80	0	M
+8101	597210	1	3	129	5	Jana	Berková			69	pedagogický pracovník	Brantice	99	129	0	F
+8101	597210	1	1	47	6	Petra	Pedacková			23	úřednice	Radim	99	47	0	F
+8101	597210	1	2	901	6	Romana	Orlová			39	mateřská dovolená	Brantice	99	80	0	F
+8101	597210	1	3	129	6	Jaroslava	Hadaščoková			63	pedagogický pracovník	Brantice	99	129	0	F
+8101	597210	1	1	47	7	Lenka	Gojová	MUDr.		57	lékařka	Brantice	99	47	0	F
+8101	597210	1	2	901	7	Stanislav	Pavlan			54	provozní mistr	Brantice	99	80	0	M
+8101	597210	1	3	129	7	Terezie	Štechová			33	vedoucí pošty	Brantice	99	129	0	F
+8101	597210	1	1	47	8	Eva	Mádrová			58	čalounice	Brantice	99	47	0	F
+8101	597210	1	2	901	8	Jindřich	Kaděrka			51	OSVČ	Brantice	99	80	0	M
+8101	597210	1	3	129	8	Miroslav	Zajíc			38	živnostník	Brantice	99	129	0	M
+8101	597210	1	1	47	9	Radek	Vrba			47	živnostník	Brantice	99	47	0	M
+8101	597210	1	2	901	9	Vladimír	Lubina			47	provozní elektrikář	Brantice	99	80	0	M
+8101	597210	1	3	129	9	Vojtěch	Puškar			57	živnostník	Brantice	99	129	0	M

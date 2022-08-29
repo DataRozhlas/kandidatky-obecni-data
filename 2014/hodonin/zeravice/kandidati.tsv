@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6205	586820	1	1	901	1	Dušan	Petřvalský	M			32	ID, student	Žeravice	99	80	0
-6205	586820	1	1	901	2	Roman	Glos	M			29	automechanik	Žeravice	99	80	0
-6205	586820	1	1	901	3	Martin	Pohanka	M	Ing.		26	HZS JMK	Žeravice	99	80	0
-6205	586820	1	1	901	4	Olga	Škodíková	F			36	OSVČ	Žeravice	99	80	0
-6205	586820	1	1	901	5	Evžen	Němec	M	Bc.		40	manažer	Žeravice	99	80	0
-6205	586820	1	1	901	6	Martin	Polínek	M			34	zástupce vedoucího	Žeravice	99	80	0
-6205	586820	1	1	901	7	Lubomír	Hradil	M			39	elektromontér	Žeravice	99	80	0
-6205	586820	1	1	901	8	Pavel	Škrábal	M	Ing.		45	programátor	Žeravice	99	80	0
-6205	586820	1	1	901	9	Petr	Žůrek	M			41	OSVČ	Žeravice	99	80	0
-6205	586820	1	2	1	1	Stanislav	Pres	M	Ing.		48	zemědělský inženýr, starosta obce	Žeravice	99	1	0
-6205	586820	1	2	1	2	Ladislav	Žůrek	M			56	OSVČ	Žeravice	1	1	0
-6205	586820	1	2	1	3	Ivona	Soukupová	F	Bc.		23	studentka VŠ	Žeravice	99	1	0
-6205	586820	1	2	1	4	Ivana	Žůrková	F			21	studentka	Žeravice	99	1	0
-6205	586820	1	2	1	5	Martin	Žůrek	M	Bc.		30	elektrotechnik	Žeravice	99	1	0
-6205	586820	1	2	1	6	Marie	Menšíková	F			45	obchodní referentka	Žeravice	99	1	0
-6205	586820	1	2	1	7	Jana	Žůrková	F			42	uklízečka	Žeravice	99	1	0
-6205	586820	1	2	1	8	Igor	Krejčiřík	M			38	elektrotechnik	Žeravice	99	1	0
-6205	586820	1	2	1	9	Antonín	Pohanka	M			40	truhlář	Žeravice	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6205	586820	1	1	901	1	Dušan	Petřvalský			32	ID, student	Žeravice	99	80	0	M
+6205	586820	1	2	1	1	Stanislav	Pres	Ing.		48	zemědělský inženýr, starosta obce	Žeravice	99	1	0	M
+6205	586820	1	1	901	2	Roman	Glos			29	automechanik	Žeravice	99	80	0	M
+6205	586820	1	2	1	2	Ladislav	Žůrek			56	OSVČ	Žeravice	1	1	0	M
+6205	586820	1	1	901	3	Martin	Pohanka	Ing.		26	HZS JMK	Žeravice	99	80	0	M
+6205	586820	1	2	1	3	Ivona	Soukupová	Bc.		23	studentka VŠ	Žeravice	99	1	0	F
+6205	586820	1	1	901	4	Olga	Škodíková			36	OSVČ	Žeravice	99	80	0	F
+6205	586820	1	2	1	4	Ivana	Žůrková			21	studentka	Žeravice	99	1	0	F
+6205	586820	1	1	901	5	Evžen	Němec	Bc.		40	manažer	Žeravice	99	80	0	M
+6205	586820	1	2	1	5	Martin	Žůrek	Bc.		30	elektrotechnik	Žeravice	99	1	0	M
+6205	586820	1	1	901	6	Martin	Polínek			34	zástupce vedoucího	Žeravice	99	80	0	M
+6205	586820	1	2	1	6	Marie	Menšíková			45	obchodní referentka	Žeravice	99	1	0	F
+6205	586820	1	1	901	7	Lubomír	Hradil			39	elektromontér	Žeravice	99	80	0	M
+6205	586820	1	2	1	7	Jana	Žůrková			42	uklízečka	Žeravice	99	1	0	F
+6205	586820	1	1	901	8	Pavel	Škrábal	Ing.		45	programátor	Žeravice	99	80	0	M
+6205	586820	1	2	1	8	Igor	Krejčiřík			38	elektrotechnik	Žeravice	99	1	0	M
+6205	586820	1	1	901	9	Petr	Žůrek			41	OSVČ	Žeravice	99	80	0	M
+6205	586820	1	2	1	9	Antonín	Pohanka			40	truhlář	Žeravice	99	1	0	M

@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3202	556815	1	1	901	1	Karel	Vaněk	M			52	celník	Pohorsko	99	80	A
-3202	556815	1	1	901	2	Jana	Wudy	F			57	živnostník	Nezdice na Šumavě	99	80	A
-3202	556815	1	1	901	3	Luboš	Sechter	M			27	technik STK	Nezdice na Šumavě	99	80	A
-3202	556815	1	1	901	4	Jiří	Přinda	M			52	živnostník	Ostružno	99	80	A
-3202	556815	1	1	901	5	Vladimír	Niebauer	M			45	obráběč kovů	Nezdice na Šumavě	99	80	A
-3202	556815	1	1	901	6	Daniel	Foltýn	M			44	živnostník	Nezdice na Šumavě	99	80	A
-3202	556815	1	1	901	7	Martina	Waldmannová	F			48	účetní, ekonom	Nezdice na Šumavě	99	80	A
-3202	556815	1	1	901	8	Vít	Hofštädter	M			44	živnostník	Nezdice na Šumavě	99	80	A
-3202	556815	1	1	901	9	Vladimír	Šachl	M			74	důchodce	Nezdice na Šumavě	99	80	A
-3202	556815	1	2	902	1	Marie	Mráčková	F			61	starostka obce	Ostružno	99	80	A
-3202	556815	1	2	902	2	Zdeněk	Hoffmann	M	Bc.		51	OSVČ	Ostružno	99	80	A
-3202	556815	1	2	902	3	Václav	Švarc	M			48	obecní hajný	Ostružno	99	80	A
-3202	556815	1	2	902	4	Ladislav	Polata	M	JUDr.		80	právník	Nezdice na Šumavě	99	80	A
-3202	556815	1	2	902	5	Irena	Jochman	F			42	kuchařka	Ostružno	99	80	A
-3202	556815	1	2	902	6	Lucie	Vinická	F			43	vedoucí prodejny	Nezdice na Šumavě	99	80	A
-3202	556815	1	2	902	7	Jiřina	Bečvářová	F			71	důchodkyně	Nezdice na Šumavě	99	80	A
-3202	556815	1	2	902	8	Václav	Jung	M			37	řidič	Pohorsko	99	80	A
-3202	556815	1	2	902	9	Zdeňka	Dvořáková	F			65	důchodkyně	Nezdice na Šumavě	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3202	556815	1	1	901	1	Karel	Vaněk			52	celník	Pohorsko	99	80	A	M
+3202	556815	1	2	902	1	Marie	Mráčková			61	starostka obce	Ostružno	99	80	A	F
+3202	556815	1	1	901	2	Jana	Wudy			57	živnostník	Nezdice na Šumavě	99	80	A	F
+3202	556815	1	2	902	2	Zdeněk	Hoffmann	Bc.		51	OSVČ	Ostružno	99	80	A	M
+3202	556815	1	1	901	3	Luboš	Sechter			27	technik STK	Nezdice na Šumavě	99	80	A	M
+3202	556815	1	2	902	3	Václav	Švarc			48	obecní hajný	Ostružno	99	80	A	M
+3202	556815	1	1	901	4	Jiří	Přinda			52	živnostník	Ostružno	99	80	A	M
+3202	556815	1	2	902	4	Ladislav	Polata	JUDr.		80	právník	Nezdice na Šumavě	99	80	A	M
+3202	556815	1	1	901	5	Vladimír	Niebauer			45	obráběč kovů	Nezdice na Šumavě	99	80	A	M
+3202	556815	1	2	902	5	Irena	Jochman			42	kuchařka	Ostružno	99	80	A	F
+3202	556815	1	1	901	6	Daniel	Foltýn			44	živnostník	Nezdice na Šumavě	99	80	A	M
+3202	556815	1	2	902	6	Lucie	Vinická			43	vedoucí prodejny	Nezdice na Šumavě	99	80	A	F
+3202	556815	1	1	901	7	Martina	Waldmannová			48	účetní, ekonom	Nezdice na Šumavě	99	80	A	F
+3202	556815	1	2	902	7	Jiřina	Bečvářová			71	důchodkyně	Nezdice na Šumavě	99	80	A	F
+3202	556815	1	1	901	8	Vít	Hofštädter			44	živnostník	Nezdice na Šumavě	99	80	A	M
+3202	556815	1	2	902	8	Václav	Jung			37	řidič	Pohorsko	99	80	A	M
+3202	556815	1	1	901	9	Vladimír	Šachl			74	důchodce	Nezdice na Šumavě	99	80	A	M
+3202	556815	1	2	902	9	Zdeňka	Dvořáková			65	důchodkyně	Nezdice na Šumavě	99	80	A	F

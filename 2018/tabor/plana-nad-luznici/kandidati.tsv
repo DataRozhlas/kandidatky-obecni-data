@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3107	552828	1	1	902	1	Jiří	Rangl	M			45	podnikatel	Strkov	99	80	A
-3107	552828	1	1	902	2	Martin	Pobuda	M	Ing.		45	projektant	Strkov	99	80	A
-3107	552828	1	1	902	3	Iveta	Svobodová	F			42	obchodní manažerka	Planá nad Lužnicí	99	80	A
-3107	552828	1	1	902	4	Karel	Žatecký	M			47	zdravotnický záchranář	Planá nad Lužnicí	99	80	A
-3107	552828	1	1	902	5	Dušan	Menšík	M	Bc.		43	manažer výroby	Planá nad Lužnicí	99	80	A
-3107	552828	1	1	902	6	Petr	Boček	M			40	podnikatel	Strkov	99	80	A
-3107	552828	1	1	902	7	Pavel	Jirsa	M			47	obsluha CNC stroje	Planá nad Lužnicí	99	80	A
-3107	552828	1	1	902	8	Jiří	Lukeš	M			45	podnikatel	Planá nad Lužnicí	99	80	A
-3107	552828	1	1	902	9	Helena	Klinderová	F			44	podnikatelka	Planá nad Lužnicí	99	80	A
-3107	552828	1	1	902	10	Petra	Klubalová	F	Mgr.		36	učitelka	Strkov	99	80	A
-3107	552828	1	1	902	11	Roman	Hořejší	M	Ing.		40	obchodní manažer	Planá nad Lužnicí	99	80	A
-3107	552828	1	1	902	12	Vlasta	Szutáková	F			41	návrhář	Planá nad Lužnicí	99	80	A
-3107	552828	1	1	902	13	Iveta	Kůrková	F			44	referent pošty	Strkov	99	80	A
-3107	552828	1	1	902	14	Pavel	Novotný	M	Ing.		39	obchodní zástupce	Planá nad Lužnicí	721	80	A
-3107	552828	1	1	902	15	Zdeněk	Žalud	M	Mgr.	Ph.D.	41	historik, překladatel	Planá nad Lužnicí	99	80	A
-3107	552828	1	2	901	1	Jiří	Šimánek	M	Ing.		61	starosta	Planá nad Lužnicí	99	80	A
-3107	552828	1	2	901	2	Stanislav	Vyhnal	M	Ing.		57	místostarosta	Planá nad Lužnicí	99	80	A
-3107	552828	1	2	901	3	Ladislav	Havlíček	M	Bc.		27	ředitel TSM	Planá nad Lužnicí	99	80	A
-3107	552828	1	2	901	4	Rudolf	Lapín	M			58	správce objektů	Planá nad Lužnicí	99	80	A
-3107	552828	1	2	901	5	Ondřej	Špaček	M			38	OSVČ	Planá nad Lužnicí	99	80	A
-3107	552828	1	2	901	6	Jiří	Broukal	M			38	automechanik	Strkov	99	80	A
-3107	552828	1	2	901	7	Pavel	Hofman	M	Ing.		33	zahradní a krajinářský architekt	Lhota Samoty	99	80	A
-3107	552828	1	2	901	8	Karel	Havlíček	M			26	specializovaný pracovník v pohřebnictví	Planá nad Lužnicí	99	80	A
-3107	552828	1	2	901	9	Jan	Suda	M			40	řidič	Strkov	99	80	A
-3107	552828	1	2	901	10	Radek	Šrůma	M	Ing.		47	ředitel nákladní dopravy	Planá nad Lužnicí	99	80	A
-3107	552828	1	2	901	11	Josef	Drtina	M	Ing.		32	ekonom	Planá nad Lužnicí	99	80	A
-3107	552828	1	2	901	12	Dagmar	Hálová	F			48	OSVČ	Lhota Samoty	99	80	A
-3107	552828	1	2	901	13	Ivana	Svitáková	F			43	prodavačka	Planá nad Lužnicí	99	80	A
-3107	552828	1	2	901	14	Pavel	Grenar	M	Mgr.		53	ředitel školy	Planá nad Lužnicí	99	80	A
-3107	552828	1	2	901	15	Zdeněk	Pavlů	M			53	truhlář	Planá nad Lužnicí	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3107	552828	1	1	902	1	Jiří	Rangl			45	podnikatel	Strkov	99	80	A	M
+3107	552828	1	2	901	1	Jiří	Šimánek	Ing.		61	starosta	Planá nad Lužnicí	99	80	A	M
+3107	552828	1	1	902	2	Martin	Pobuda	Ing.		45	projektant	Strkov	99	80	A	M
+3107	552828	1	2	901	2	Stanislav	Vyhnal	Ing.		57	místostarosta	Planá nad Lužnicí	99	80	A	M
+3107	552828	1	1	902	3	Iveta	Svobodová			42	obchodní manažerka	Planá nad Lužnicí	99	80	A	F
+3107	552828	1	2	901	3	Ladislav	Havlíček	Bc.		27	ředitel TSM	Planá nad Lužnicí	99	80	A	M
+3107	552828	1	1	902	4	Karel	Žatecký			47	zdravotnický záchranář	Planá nad Lužnicí	99	80	A	M
+3107	552828	1	2	901	4	Rudolf	Lapín			58	správce objektů	Planá nad Lužnicí	99	80	A	M
+3107	552828	1	1	902	5	Dušan	Menšík	Bc.		43	manažer výroby	Planá nad Lužnicí	99	80	A	M
+3107	552828	1	2	901	5	Ondřej	Špaček			38	OSVČ	Planá nad Lužnicí	99	80	A	M
+3107	552828	1	1	902	6	Petr	Boček			40	podnikatel	Strkov	99	80	A	M
+3107	552828	1	2	901	6	Jiří	Broukal			38	automechanik	Strkov	99	80	A	M
+3107	552828	1	1	902	7	Pavel	Jirsa			47	obsluha CNC stroje	Planá nad Lužnicí	99	80	A	M
+3107	552828	1	2	901	7	Pavel	Hofman	Ing.		33	zahradní a krajinářský architekt	Lhota Samoty	99	80	A	M
+3107	552828	1	1	902	8	Jiří	Lukeš			45	podnikatel	Planá nad Lužnicí	99	80	A	M
+3107	552828	1	2	901	8	Karel	Havlíček			26	specializovaný pracovník v pohřebnictví	Planá nad Lužnicí	99	80	A	M
+3107	552828	1	1	902	9	Helena	Klinderová			44	podnikatelka	Planá nad Lužnicí	99	80	A	F
+3107	552828	1	2	901	9	Jan	Suda			40	řidič	Strkov	99	80	A	M
+3107	552828	1	1	902	10	Petra	Klubalová	Mgr.		36	učitelka	Strkov	99	80	A	F
+3107	552828	1	2	901	10	Radek	Šrůma	Ing.		47	ředitel nákladní dopravy	Planá nad Lužnicí	99	80	A	M
+3107	552828	1	1	902	11	Roman	Hořejší	Ing.		40	obchodní manažer	Planá nad Lužnicí	99	80	A	M
+3107	552828	1	2	901	11	Josef	Drtina	Ing.		32	ekonom	Planá nad Lužnicí	99	80	A	M
+3107	552828	1	1	902	12	Vlasta	Szutáková			41	návrhář	Planá nad Lužnicí	99	80	A	F
+3107	552828	1	2	901	12	Dagmar	Hálová			48	OSVČ	Lhota Samoty	99	80	A	F
+3107	552828	1	1	902	13	Iveta	Kůrková			44	referent pošty	Strkov	99	80	A	F
+3107	552828	1	2	901	13	Ivana	Svitáková			43	prodavačka	Planá nad Lužnicí	99	80	A	F
+3107	552828	1	1	902	14	Pavel	Novotný	Ing.		39	obchodní zástupce	Planá nad Lužnicí	721	80	A	M
+3107	552828	1	2	901	14	Pavel	Grenar	Mgr.		53	ředitel školy	Planá nad Lužnicí	99	80	A	M
+3107	552828	1	1	902	15	Zdeněk	Žalud	Mgr.	Ph.D.	41	historik, překladatel	Planá nad Lužnicí	99	80	A	M
+3107	552828	1	2	901	15	Zdeněk	Pavlů			53	truhlář	Planá nad Lužnicí	99	80	A	M

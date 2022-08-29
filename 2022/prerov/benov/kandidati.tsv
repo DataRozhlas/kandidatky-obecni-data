@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7104	512281	1	1	902	1	Tomáš	Smékal	M	Ing.		42	OSVČ	Beňov	99	80	A
-7104	512281	1	1	902	2	Jiří	Pavlík	M	Bc.		50	zaměstnanec SŽ, s.o.	Beňov	99	80	A
-7104	512281	1	1	902	3	Štěpán	Habčák	M			41	zaměstnanec SŽ, s.o.	Beňov	99	80	A
-7104	512281	1	1	902	4	Ondřej	Hudík	M	Bc.		32	technik BOZP	Beňov	99	80	A
-7104	512281	1	1	902	5	Jaroslav	Jarmar	M			57	OSVČ	Beňov	99	80	A
-7104	512281	1	1	902	6	Martina	Králová	F			44	asistentka pedagoga	Prusy	99	80	A
-7104	512281	1	1	902	7	Radek	Páleník	M			36	OSVČ	Prusy	99	80	A
-7104	512281	1	1	902	8	Renata	Chromčíková	F			49	asistentka pedagoga	Beňov	99	80	A
-7104	512281	1	1	902	9	Zdeněk	Stojan	M			59	podnikatel	Beňov	99	80	A
-7104	512281	1	2	903	1	Richard	Weis	M	Mgr.		34	právník	Beňov	99	80	A
-7104	512281	1	2	903	2	Jaromír	Klabal	M			32	OSVČ	Beňov	99	80	A
-7104	512281	1	2	903	3	Lukáš	Páleník	M			34	OSVČ	Prusy	99	80	A
-7104	512281	1	2	903	4	Radim	Žákovský	M			35	OSVČ	Prusy	99	80	A
-7104	512281	1	2	903	5	Kamil	Bukva	M			47	řidič	Beňov	99	80	A
-7104	512281	1	2	903	6	Martin	Hrbas	M			47	pracovník infrastruktury Správy železnic	Beňov	99	80	A
-7104	512281	1	2	903	7	Jaroslav	Tomeček	M			47	OSVČ	Beňov	99	80	A
-7104	512281	1	2	903	8	Martin	Marek	M			45	OSVČ	Beňov	99	80	A
-7104	512281	1	2	903	9	Michal	Zubík	M			42	OSVČ	Beňov	99	80	A
-7104	512281	1	3	901	1	Ivo	Pitner	M			63	starosta obce	Beňov	99	80	A
-7104	512281	1	3	901	2	Michal	Zavadil	M		DiS.	44	dispečer	Beňov	99	80	A
-7104	512281	1	3	901	3	Jiří	Ondruška	M			53	zaměstnanec obce	Beňov	99	80	A
-7104	512281	1	3	901	4	Eva	Vyhňáková	F	Mgr.		65	ředitelka ZŠ a MŠ	Beňov	99	80	A
-7104	512281	1	3	901	5	Robert	Habčák	M			42	předák	Prusy	99	80	A
-7104	512281	1	3	901	6	David	Bucher	M			44	invalidní důchodce	Beňov	99	80	A
-7104	512281	1	3	901	7	Jana	Habčáková	F	Mgr.		43	učitelka	Beňov	99	80	A
-7104	512281	1	3	901	8	Marcela	Kubíčková	F			46	OSVČ	Beňov	99	80	A
-7104	512281	1	3	901	9	Tomáš	Janda	M			46	strojník	Beňov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7104	512281	1	1	902	1	Tomáš	Smékal	Ing.		42	OSVČ	Beňov	99	80	A	M
+7104	512281	1	2	903	1	Richard	Weis	Mgr.		34	právník	Beňov	99	80	A	M
+7104	512281	1	3	901	1	Ivo	Pitner			63	starosta obce	Beňov	99	80	A	M
+7104	512281	1	1	902	2	Jiří	Pavlík	Bc.		50	zaměstnanec SŽ, s.o.	Beňov	99	80	A	M
+7104	512281	1	2	903	2	Jaromír	Klabal			32	OSVČ	Beňov	99	80	A	M
+7104	512281	1	3	901	2	Michal	Zavadil		DiS.	44	dispečer	Beňov	99	80	A	M
+7104	512281	1	1	902	3	Štěpán	Habčák			41	zaměstnanec SŽ, s.o.	Beňov	99	80	A	M
+7104	512281	1	2	903	3	Lukáš	Páleník			34	OSVČ	Prusy	99	80	A	M
+7104	512281	1	3	901	3	Jiří	Ondruška			53	zaměstnanec obce	Beňov	99	80	A	M
+7104	512281	1	1	902	4	Ondřej	Hudík	Bc.		32	technik BOZP	Beňov	99	80	A	M
+7104	512281	1	2	903	4	Radim	Žákovský			35	OSVČ	Prusy	99	80	A	M
+7104	512281	1	3	901	4	Eva	Vyhňáková	Mgr.		65	ředitelka ZŠ a MŠ	Beňov	99	80	A	F
+7104	512281	1	1	902	5	Jaroslav	Jarmar			57	OSVČ	Beňov	99	80	A	M
+7104	512281	1	2	903	5	Kamil	Bukva			47	řidič	Beňov	99	80	A	M
+7104	512281	1	3	901	5	Robert	Habčák			42	předák	Prusy	99	80	A	M
+7104	512281	1	1	902	6	Martina	Králová			44	asistentka pedagoga	Prusy	99	80	A	F
+7104	512281	1	2	903	6	Martin	Hrbas			47	pracovník infrastruktury Správy železnic	Beňov	99	80	A	M
+7104	512281	1	3	901	6	David	Bucher			44	invalidní důchodce	Beňov	99	80	A	M
+7104	512281	1	1	902	7	Radek	Páleník			36	OSVČ	Prusy	99	80	A	M
+7104	512281	1	2	903	7	Jaroslav	Tomeček			47	OSVČ	Beňov	99	80	A	M
+7104	512281	1	3	901	7	Jana	Habčáková	Mgr.		43	učitelka	Beňov	99	80	A	F
+7104	512281	1	1	902	8	Renata	Chromčíková			49	asistentka pedagoga	Beňov	99	80	A	F
+7104	512281	1	2	903	8	Martin	Marek			45	OSVČ	Beňov	99	80	A	M
+7104	512281	1	3	901	8	Marcela	Kubíčková			46	OSVČ	Beňov	99	80	A	F
+7104	512281	1	1	902	9	Zdeněk	Stojan			59	podnikatel	Beňov	99	80	A	M
+7104	512281	1	2	903	9	Michal	Zubík			42	OSVČ	Beňov	99	80	A	M
+7104	512281	1	3	901	9	Tomáš	Janda			46	strojník	Beňov	99	80	A	M

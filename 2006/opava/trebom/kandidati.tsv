@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	569101	1	1	904	1	Martin	Ziranka	M	Ing.		25	manažer	Třebom	99	80	0
-8105	569101	1	1	904	2	Bohdana	Egertová	F			35	dělnice	Třebom	99	80	0
-8105	569101	1	1	904	3	Josef	Heitz	M			44	dělník	Třebom	99	80	0
-8105	569101	1	1	904	4	Oto	Havlena	M			51	pojišťovací poradce	Třebom	99	80	0
-8105	569101	1	1	904	5	Vlasta	Dostálová	F			36	dělnice	Třebom	99	80	0
-8105	569101	1	1	904	6	Marie	Ziranková	F			59	podnikatelka	Třebom	99	80	0
-8105	569101	1	1	904	7	Radek	Šesták	M			22	student	Třebom	99	80	0
-8105	569101	1	2	903	1	Jaroslav	Vlk	M			35	valcíř	Třebom	99	80	0
-8105	569101	1	2	903	2	Heřman	Stříbný	M			67	důchodce	Třebom	99	80	0
-8105	569101	1	2	903	3	Petr	Hartmann	M			23	montér	Třebom	99	80	0
-8105	569101	1	2	903	4	Josef	Zámečník	M			44	řidič	Třebom	99	80	0
-8105	569101	1	2	903	5	Pavel	Kati	M			47	dělník	Třebom	99	80	0
-8105	569101	1	2	903	6	Vilém	Neděla	M			28	dělník	Třebom	99	80	0
-8105	569101	1	2	903	7	Renáta	Nedělová	F			28	mateřská dovolená	Třebom	99	80	0
-8105	569101	1	3	901	1	Alois	Radoschowsky	M			62	dělník	Třebom	99	80	0
-8105	569101	1	3	901	2	Marta	Bártová	F			53	podnikatelka	Třebom	99	80	0
-8105	569101	1	3	901	3	Stanislav	Fic	M			49	podnikatel	Třebom	99	80	0
-8105	569101	1	3	901	4	Marcel	Bolacky	M			31	dělník	Třebom	99	80	0
-8105	569101	1	3	901	5	David	Štefek	M			21	dělník	Třebom	99	80	0
-8105	569101	1	3	901	6	Jano	Papaj	M			37	dělník	Třebom	99	80	0
-8105	569101	1	3	901	7	Antonín	Bárta	M			28	dělník	Třebom	99	80	0
-8105	569101	1	4	902	1	Inge	Diatková	F			51	učitelka	Třebom	99	80	0
-8105	569101	1	4	902	2	Vlasta	Kousalová	F			58	skladový operátor	Třebom	99	80	0
-8105	569101	1	4	902	3	Oldřich	Mazánek	M			58	válcíř profilů	Třebom	47	80	0
-8105	569101	1	4	902	4	Danuše	Perďochová	F			48	prodavačka	Třebom	99	80	0
-8105	569101	1	4	902	5	Stanislav	Fic	M			28	zemědělec	Třebom	99	80	0
-8105	569101	1	4	902	6	Krista	Teichmannová	F			41	poštovní úředník	Třebom	99	80	0
-8105	569101	1	4	902	7	Jiří	Menšík	M			50	malíř pokojů	Třebom	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	569101	1	1	904	1	Martin	Ziranka	Ing.		25	manažer	Třebom	99	80	0	M
+8105	569101	1	2	903	1	Jaroslav	Vlk			35	valcíř	Třebom	99	80	0	M
+8105	569101	1	3	901	1	Alois	Radoschowsky			62	dělník	Třebom	99	80	0	M
+8105	569101	1	4	902	1	Inge	Diatková			51	učitelka	Třebom	99	80	0	F
+8105	569101	1	1	904	2	Bohdana	Egertová			35	dělnice	Třebom	99	80	0	F
+8105	569101	1	2	903	2	Heřman	Stříbný			67	důchodce	Třebom	99	80	0	M
+8105	569101	1	3	901	2	Marta	Bártová			53	podnikatelka	Třebom	99	80	0	F
+8105	569101	1	4	902	2	Vlasta	Kousalová			58	skladový operátor	Třebom	99	80	0	F
+8105	569101	1	1	904	3	Josef	Heitz			44	dělník	Třebom	99	80	0	M
+8105	569101	1	2	903	3	Petr	Hartmann			23	montér	Třebom	99	80	0	M
+8105	569101	1	3	901	3	Stanislav	Fic			49	podnikatel	Třebom	99	80	0	M
+8105	569101	1	4	902	3	Oldřich	Mazánek			58	válcíř profilů	Třebom	47	80	0	M
+8105	569101	1	1	904	4	Oto	Havlena			51	pojišťovací poradce	Třebom	99	80	0	M
+8105	569101	1	2	903	4	Josef	Zámečník			44	řidič	Třebom	99	80	0	M
+8105	569101	1	3	901	4	Marcel	Bolacky			31	dělník	Třebom	99	80	0	M
+8105	569101	1	4	902	4	Danuše	Perďochová			48	prodavačka	Třebom	99	80	0	F
+8105	569101	1	1	904	5	Vlasta	Dostálová			36	dělnice	Třebom	99	80	0	F
+8105	569101	1	2	903	5	Pavel	Kati			47	dělník	Třebom	99	80	0	M
+8105	569101	1	3	901	5	David	Štefek			21	dělník	Třebom	99	80	0	M
+8105	569101	1	4	902	5	Stanislav	Fic			28	zemědělec	Třebom	99	80	0	M
+8105	569101	1	1	904	6	Marie	Ziranková			59	podnikatelka	Třebom	99	80	0	F
+8105	569101	1	2	903	6	Vilém	Neděla			28	dělník	Třebom	99	80	0	M
+8105	569101	1	3	901	6	Jano	Papaj			37	dělník	Třebom	99	80	0	M
+8105	569101	1	4	902	6	Krista	Teichmannová			41	poštovní úředník	Třebom	99	80	0	F
+8105	569101	1	1	904	7	Radek	Šesták			22	student	Třebom	99	80	0	M
+8105	569101	1	2	903	7	Renáta	Nedělová			28	mateřská dovolená	Třebom	99	80	0	F
+8105	569101	1	3	901	7	Antonín	Bárta			28	dělník	Třebom	99	80	0	M
+8105	569101	1	4	902	7	Jiří	Menšík			50	malíř pokojů	Třebom	99	80	0	M

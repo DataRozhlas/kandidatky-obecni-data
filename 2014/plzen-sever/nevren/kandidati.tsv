@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3205	559288	1	1	901	1	Štěpánka	Bejčková	F	Ing.		39	ekonomka	Nevřeň	99	80	0
-3205	559288	1	1	901	2	Petr	Holeček	M	Ing.		49	manažer	Nevřeň	99	80	0
-3205	559288	1	1	901	3	Miroslava	Sovová	F			40	úřednice	Nevřeň	99	80	0
-3205	559288	1	1	901	4	Robert	Korsa	M	Ing.		42	policista	Nevřeň	99	80	0
-3205	559288	1	1	901	5	Martin	Melichar	M			51	manažer	Nevřeň	99	80	0
-3205	559288	1	1	901	6	Lenka	Kliková	F			40	úřednice	Nevřeň	99	80	0
-3205	559288	1	1	901	7	Radek	Hanus	M			42	OSVČ	Nevřeň	53	80	0
-3205	559288	1	2	902	1	Michal	Šlajer	M			32	administrativní pracovník	Nevřeň	99	80	0
-3205	559288	1	2	902	2	Pavel	Sova	M			18	student	Nevřeň	99	80	0
-3205	559288	1	2	902	3	František	Čečil	M			46	vedoucí sázkové kanceláře	Nevřeň	99	80	0
-3205	559288	1	2	902	4	Pavel	Sova	M			42	údržbář	Nevřeň	99	80	0
-3205	559288	1	2	902	5	Václav	Rais	M			37	stavbyvedoucí	Nevřeň	53	80	0
-3205	559288	1	2	902	6	Luboš	Kašpar	M	Bc.		45	vedoucí autodopravy	Nevřeň	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3205	559288	1	1	901	1	Štěpánka	Bejčková	Ing.		39	ekonomka	Nevřeň	99	80	0	F
+3205	559288	1	2	902	1	Michal	Šlajer			32	administrativní pracovník	Nevřeň	99	80	0	M
+3205	559288	1	1	901	2	Petr	Holeček	Ing.		49	manažer	Nevřeň	99	80	0	M
+3205	559288	1	2	902	2	Pavel	Sova			18	student	Nevřeň	99	80	0	M
+3205	559288	1	1	901	3	Miroslava	Sovová			40	úřednice	Nevřeň	99	80	0	F
+3205	559288	1	2	902	3	František	Čečil			46	vedoucí sázkové kanceláře	Nevřeň	99	80	0	M
+3205	559288	1	1	901	4	Robert	Korsa	Ing.		42	policista	Nevřeň	99	80	0	M
+3205	559288	1	2	902	4	Pavel	Sova			42	údržbář	Nevřeň	99	80	0	M
+3205	559288	1	1	901	5	Martin	Melichar			51	manažer	Nevřeň	99	80	0	M
+3205	559288	1	2	902	5	Václav	Rais			37	stavbyvedoucí	Nevřeň	53	80	0	M
+3205	559288	1	1	901	6	Lenka	Kliková			40	úřednice	Nevřeň	99	80	0	F
+3205	559288	1	2	902	6	Luboš	Kašpar	Bc.		45	vedoucí autodopravy	Nevřeň	99	80	0	M
+3205	559288	1	1	901	7	Radek	Hanus			42	OSVČ	Nevřeň	53	80	0	M

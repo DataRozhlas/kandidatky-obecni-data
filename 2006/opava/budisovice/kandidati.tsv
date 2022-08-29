@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	568261	1	1	1	1	Jiří	Pchálek	M	Ing.		56	starosta	Budišovice	1	1	0
-8105	568261	1	1	1	2	Miloš	Javorek	M			67	důchodce	Budišovice	99	1	0
-8105	568261	1	1	1	3	Kamil	Neuwerth	M	Ing.		38	stavbyvedoucí	Budišovice	99	1	0
-8105	568261	1	1	1	4	Vojtěch	Novotný	M			59	podnikatel v zemních pracích	Budišovice	99	1	0
-8105	568261	1	1	1	5	Dagmar	Benýšková	F	Ing.		39	asistentka jednatele firmy	Budišovice	99	1	0
-8105	568261	1	1	1	6	Robert	Bena	M			32	mechanik strojů a zařízení	Budišovice	99	1	0
-8105	568261	1	1	1	7	Alois	Juchelka	M			51	soustružník	Budišovice	99	1	0
-8105	568261	1	2	901	1	Zdeněk	Trojek	M			48	náměstek ředitele	Budišovice	99	80	0
-8105	568261	1	2	901	2	Petr	Uvíra	M	Ing.		41	finanční makléř	Budišovice	99	80	0
-8105	568261	1	2	901	3	Jaroslav	Baránek	M	Ing.		58	státní zaměstnanec	Budišovice	99	80	0
-8105	568261	1	2	901	4	Tomáš	Vodička	M	MUDr.		41	zubní lékař	Budišovice	99	80	0
-8105	568261	1	2	901	5	Jan	Holuša	M			49	frézař	Budišovice	99	80	0
-8105	568261	1	2	901	6	Martin	Koch	M	Ing.		48	ředitel	Budišovice	99	80	0
-8105	568261	1	2	901	7	Tomáš	Vilam	M	Ing.		43	vedoucí pobočky	Budišovice	99	80	0
-8105	568261	1	2	901	8	Petr	Gřeš	M	Ing.		40	stavbyvedoucí	Budišovice	99	80	0
-8105	568261	1	2	901	9	Josef	Salga	M			44	invalidní důchodce	Budišovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	568261	1	1	1	1	Jiří	Pchálek	Ing.		56	starosta	Budišovice	1	1	0	M
+8105	568261	1	2	901	1	Zdeněk	Trojek			48	náměstek ředitele	Budišovice	99	80	0	M
+8105	568261	1	1	1	2	Miloš	Javorek			67	důchodce	Budišovice	99	1	0	M
+8105	568261	1	2	901	2	Petr	Uvíra	Ing.		41	finanční makléř	Budišovice	99	80	0	M
+8105	568261	1	1	1	3	Kamil	Neuwerth	Ing.		38	stavbyvedoucí	Budišovice	99	1	0	M
+8105	568261	1	2	901	3	Jaroslav	Baránek	Ing.		58	státní zaměstnanec	Budišovice	99	80	0	M
+8105	568261	1	1	1	4	Vojtěch	Novotný			59	podnikatel v zemních pracích	Budišovice	99	1	0	M
+8105	568261	1	2	901	4	Tomáš	Vodička	MUDr.		41	zubní lékař	Budišovice	99	80	0	M
+8105	568261	1	1	1	5	Dagmar	Benýšková	Ing.		39	asistentka jednatele firmy	Budišovice	99	1	0	F
+8105	568261	1	2	901	5	Jan	Holuša			49	frézař	Budišovice	99	80	0	M
+8105	568261	1	1	1	6	Robert	Bena			32	mechanik strojů a zařízení	Budišovice	99	1	0	M
+8105	568261	1	2	901	6	Martin	Koch	Ing.		48	ředitel	Budišovice	99	80	0	M
+8105	568261	1	1	1	7	Alois	Juchelka			51	soustružník	Budišovice	99	1	0	M
+8105	568261	1	2	901	7	Tomáš	Vilam	Ing.		43	vedoucí pobočky	Budišovice	99	80	0	M
+8105	568261	1	2	901	8	Petr	Gřeš	Ing.		40	stavbyvedoucí	Budišovice	99	80	0	M
+8105	568261	1	2	901	9	Josef	Salga			44	invalidní důchodce	Budišovice	99	80	0	M

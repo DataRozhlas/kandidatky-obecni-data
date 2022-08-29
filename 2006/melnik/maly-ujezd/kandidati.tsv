@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2106	535036	1	1	53	1	Stanislav	Fiala	M			52	podnikatel	Jelenice	53	53	0
-2106	535036	1	1	53	2	Marcel	Krejsa	M			35	podnikatel	Malý Újezd	99	53	0
-2106	535036	1	1	53	3	Tomáš	Majzner	M			36	technik	Vavřineč	99	53	0
-2106	535036	1	1	53	4	Jitka	Slezáková	F	Ing.		39	podnikatelka	Jelenice	99	53	0
-2106	535036	1	1	53	5	Božena	Tichá	F			61	ekonomka	Malý Újezd	53	53	0
-2106	535036	1	1	53	6	Pavel	Vlk	M			39	podnikatel	Vavřineč	53	53	0
-2106	535036	1	1	53	7	Tomáš	Klášterka	M	Ing.		37	IT specialista	Jelenice	99	53	0
-2106	535036	1	1	53	8	Martin	Vodička	M			31	IT specialista	Malý Újezd	99	53	0
-2106	535036	1	1	53	9	Zdeňka	Vostruhová	F			33	prodavačka	Malý Újezd	99	53	0
-2106	535036	1	2	167	1	Antonín	Trnka	M			58	dispečer os.dopravy	Jelenice	99	167	0
-2106	535036	1	2	167	2	Václav	Zubík	M			57	řidič	Malý Újezd	53	167	0
-2106	535036	1	2	167	3	Josef	Štěpánovský	M			52	řidič	Vavřineč	99	167	0
-2106	535036	1	2	167	4	Vladimír	Tomek	M			42	soukr. podnikatel	Jelenice	99	167	0
-2106	535036	1	2	167	5	Josef	Chlumec	M			62	důchodce	Malý Újezd	53	167	0
-2106	535036	1	2	167	6	Eva	Fialová	F			52	invalidní důchodce	Jelenice	53	167	0
-2106	535036	1	2	167	7	Lenka	Pelešková	F			43	dělnice	Vavřineč	99	167	0
-2106	535036	1	2	167	8	Josef	Husák	M			58	řidič	Jelenice	99	167	0
-2106	535036	1	2	167	9	Libor	Procházka	M			47	řidič	Vavřineč	99	167	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2106	535036	1	1	53	1	Stanislav	Fiala			52	podnikatel	Jelenice	53	53	0	M
+2106	535036	1	2	167	1	Antonín	Trnka			58	dispečer os.dopravy	Jelenice	99	167	0	M
+2106	535036	1	1	53	2	Marcel	Krejsa			35	podnikatel	Malý Újezd	99	53	0	M
+2106	535036	1	2	167	2	Václav	Zubík			57	řidič	Malý Újezd	53	167	0	M
+2106	535036	1	1	53	3	Tomáš	Majzner			36	technik	Vavřineč	99	53	0	M
+2106	535036	1	2	167	3	Josef	Štěpánovský			52	řidič	Vavřineč	99	167	0	M
+2106	535036	1	1	53	4	Jitka	Slezáková	Ing.		39	podnikatelka	Jelenice	99	53	0	F
+2106	535036	1	2	167	4	Vladimír	Tomek			42	soukr. podnikatel	Jelenice	99	167	0	M
+2106	535036	1	1	53	5	Božena	Tichá			61	ekonomka	Malý Újezd	53	53	0	F
+2106	535036	1	2	167	5	Josef	Chlumec			62	důchodce	Malý Újezd	53	167	0	M
+2106	535036	1	1	53	6	Pavel	Vlk			39	podnikatel	Vavřineč	53	53	0	M
+2106	535036	1	2	167	6	Eva	Fialová			52	invalidní důchodce	Jelenice	53	167	0	F
+2106	535036	1	1	53	7	Tomáš	Klášterka	Ing.		37	IT specialista	Jelenice	99	53	0	M
+2106	535036	1	2	167	7	Lenka	Pelešková			43	dělnice	Vavřineč	99	167	0	F
+2106	535036	1	1	53	8	Martin	Vodička			31	IT specialista	Malý Újezd	99	53	0	M
+2106	535036	1	2	167	8	Josef	Husák			58	řidič	Jelenice	99	167	0	M
+2106	535036	1	1	53	9	Zdeňka	Vostruhová			33	prodavačka	Malý Újezd	99	53	0	F
+2106	535036	1	2	167	9	Libor	Procházka			47	řidič	Vavřineč	99	167	0	M

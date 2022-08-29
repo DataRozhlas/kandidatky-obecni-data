@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2106	535044	1	1	901	1	Hana	Rašáková	F			46	starostka	Mělnické Vtelno	99	80	0
-2106	535044	1	1	901	2	Miroslav	Stružka	M	Ing.		45	daňový poradce	Mělnické Vtelno	99	80	0
-2106	535044	1	1	901	3	Pavel	Boháč	M	Ing.		33	ředitel stav. spol.	Mělnické Vtelno	99	80	0
-2106	535044	1	1	901	4	Ludmila	Kyselová	F			55	ekonomka	Mělnické Vtelno	99	80	0
-2106	535044	1	1	901	5	Vladislav	Opršal	M	Ing.		30	agronom	Mělnické Vtelno	99	80	0
-2106	535044	1	1	901	6	Martin	Slezák	M			31	nástrojař	Vysoká Libeň	99	80	0
-2106	535044	1	1	901	7	Jan	Vácha	M			45	automechanik	Radouň	99	80	0
-2106	535044	1	1	901	8	Miloš	Poláček	M			50	traktorista	Vysoká Libeň	47	80	0
-2106	535044	1	1	901	9	Jan	Pondělíček	M			30	technický pracovník	Mělnické Vtelno	99	80	0
-2106	535044	1	2	53	1	Ivana	Pavlíková	F			43	účetní	Mělnické Vtelno	99	53	0
-2106	535044	1	2	53	2	Jan	Knobloch	M			39	soukromý zemědělec	Mělnické Vtelno	99	53	0
-2106	535044	1	2	53	3	Luboš	Bohuslav	M			47	strojní zámečník	Radouň	99	53	0
-2106	535044	1	2	53	4	Josef	Videman	M			65	důchodce	Vysoká Libeň	53	53	0
-2106	535044	1	2	53	5	Miroslav	Král	M			33	soukromý podnikatel	Mělnické Vtelno	99	53	0
-2106	535044	1	2	53	6	Jan	Počinek	M			42	soukromý podnikatel	Vysoká Libeň	99	53	0
-2106	535044	1	2	53	7	Petr	Horák	M			44	soukromý podnikatel	Radouň	99	53	0
-2106	535044	1	2	53	8	Petr	Volf	M			41	údržbář	Mělnické Vtelno	99	53	0
-2106	535044	1	2	53	9	Josef	Chramosta	M			53	elektrikář	Mělnické Vtelno	53	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2106	535044	1	1	901	1	Hana	Rašáková			46	starostka	Mělnické Vtelno	99	80	0	F
+2106	535044	1	2	53	1	Ivana	Pavlíková			43	účetní	Mělnické Vtelno	99	53	0	F
+2106	535044	1	1	901	2	Miroslav	Stružka	Ing.		45	daňový poradce	Mělnické Vtelno	99	80	0	M
+2106	535044	1	2	53	2	Jan	Knobloch			39	soukromý zemědělec	Mělnické Vtelno	99	53	0	M
+2106	535044	1	1	901	3	Pavel	Boháč	Ing.		33	ředitel stav. spol.	Mělnické Vtelno	99	80	0	M
+2106	535044	1	2	53	3	Luboš	Bohuslav			47	strojní zámečník	Radouň	99	53	0	M
+2106	535044	1	1	901	4	Ludmila	Kyselová			55	ekonomka	Mělnické Vtelno	99	80	0	F
+2106	535044	1	2	53	4	Josef	Videman			65	důchodce	Vysoká Libeň	53	53	0	M
+2106	535044	1	1	901	5	Vladislav	Opršal	Ing.		30	agronom	Mělnické Vtelno	99	80	0	M
+2106	535044	1	2	53	5	Miroslav	Král			33	soukromý podnikatel	Mělnické Vtelno	99	53	0	M
+2106	535044	1	1	901	6	Martin	Slezák			31	nástrojař	Vysoká Libeň	99	80	0	M
+2106	535044	1	2	53	6	Jan	Počinek			42	soukromý podnikatel	Vysoká Libeň	99	53	0	M
+2106	535044	1	1	901	7	Jan	Vácha			45	automechanik	Radouň	99	80	0	M
+2106	535044	1	2	53	7	Petr	Horák			44	soukromý podnikatel	Radouň	99	53	0	M
+2106	535044	1	1	901	8	Miloš	Poláček			50	traktorista	Vysoká Libeň	47	80	0	M
+2106	535044	1	2	53	8	Petr	Volf			41	údržbář	Mělnické Vtelno	99	53	0	M
+2106	535044	1	1	901	9	Jan	Pondělíček			30	technický pracovník	Mělnické Vtelno	99	80	0	M
+2106	535044	1	2	53	9	Josef	Chramosta			53	elektrikář	Mělnické Vtelno	53	53	0	M

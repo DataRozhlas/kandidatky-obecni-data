@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7101	569453	1	1	47	1	Marie	Chovanová	F			66	důchodce	Velké Kunětice	47	47	0
-7101	569453	1	1	47	2	Pavel	Sobala	M			41	technik	Velké Kunětice	99	47	0
-7101	569453	1	1	47	3	Roman	Varga	M			36	konstruktér	Velké Kunětice	99	47	0
-7101	569453	1	1	47	4	Markéta	Hladká	F			40	učitelka MŠ	Velké Kunětice	99	47	0
-7101	569453	1	1	47	5	Petr	Paščinský	M			46	stolař	Velké Kunětice	99	47	0
-7101	569453	1	1	47	6	Svatopluk	Novotný	M			56	kameník	Velké Kunětice	99	47	0
-7101	569453	1	1	47	7	Pavla	Javorková	F			47	tkadlena	Velké Kunětice	99	47	0
-7101	569453	1	2	902	1	Jaroslav	Gajdoš	M			34	OSVČ	Velké Kunětice	99	80	0
-7101	569453	1	2	902	2	Antonín	Studník	M			51	OSVČ	Velké Kunětice	99	80	0
-7101	569453	1	2	902	3	Veronika	Stehlíková	F			33	MD	Velké Kunětice	99	80	0
-7101	569453	1	2	902	4	Zdenka	Krejsová	F			43	OSVČ	Velké Kunětice	99	80	0
-7101	569453	1	2	902	5	Alois	Popelka	M			41	úředník	Velké Kunětice	99	80	0
-7101	569453	1	2	902	6	Jitka	Prokelová	F			34	dělnice	Velké Kunětice	99	80	0
-7101	569453	1	2	902	7	Emílie	Burďáková	F			38	dělnice	Velké Kunětice	99	80	0
-7101	569453	1	3	901	1	Jiří	Neumann	M			48	automechanik	Velké Kunětice	99	80	0
-7101	569453	1	3	901	2	Sylva	Honelová	F			35	účetní	Velké Kunětice	99	80	0
-7101	569453	1	3	901	3	František	Hladký	M	Bc.		40	vedoucí vychovatel	Velké Kunětice	99	80	0
-7101	569453	1	3	901	4	Stanislav	Poskočil	M			30	státní zaměstnanec	Velké Kunětice	99	80	0
-7101	569453	1	3	901	5	Jarmila	Gálisová	F			54	vedoucí prádelny	Velké Kunětice	99	80	0
-7101	569453	1	3	901	6	Kateřina	Vaňková	F			31	asistent pedagoga	Velké Kunětice	99	80	0
-7101	569453	1	3	901	7	Jiří	Heřmánek	M			23	tesař	Velké Kunětice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7101	569453	1	1	47	1	Marie	Chovanová			66	důchodce	Velké Kunětice	47	47	0	F
+7101	569453	1	2	902	1	Jaroslav	Gajdoš			34	OSVČ	Velké Kunětice	99	80	0	M
+7101	569453	1	3	901	1	Jiří	Neumann			48	automechanik	Velké Kunětice	99	80	0	M
+7101	569453	1	1	47	2	Pavel	Sobala			41	technik	Velké Kunětice	99	47	0	M
+7101	569453	1	2	902	2	Antonín	Studník			51	OSVČ	Velké Kunětice	99	80	0	M
+7101	569453	1	3	901	2	Sylva	Honelová			35	účetní	Velké Kunětice	99	80	0	F
+7101	569453	1	1	47	3	Roman	Varga			36	konstruktér	Velké Kunětice	99	47	0	M
+7101	569453	1	2	902	3	Veronika	Stehlíková			33	MD	Velké Kunětice	99	80	0	F
+7101	569453	1	3	901	3	František	Hladký	Bc.		40	vedoucí vychovatel	Velké Kunětice	99	80	0	M
+7101	569453	1	1	47	4	Markéta	Hladká			40	učitelka MŠ	Velké Kunětice	99	47	0	F
+7101	569453	1	2	902	4	Zdenka	Krejsová			43	OSVČ	Velké Kunětice	99	80	0	F
+7101	569453	1	3	901	4	Stanislav	Poskočil			30	státní zaměstnanec	Velké Kunětice	99	80	0	M
+7101	569453	1	1	47	5	Petr	Paščinský			46	stolař	Velké Kunětice	99	47	0	M
+7101	569453	1	2	902	5	Alois	Popelka			41	úředník	Velké Kunětice	99	80	0	M
+7101	569453	1	3	901	5	Jarmila	Gálisová			54	vedoucí prádelny	Velké Kunětice	99	80	0	F
+7101	569453	1	1	47	6	Svatopluk	Novotný			56	kameník	Velké Kunětice	99	47	0	M
+7101	569453	1	2	902	6	Jitka	Prokelová			34	dělnice	Velké Kunětice	99	80	0	F
+7101	569453	1	3	901	6	Kateřina	Vaňková			31	asistent pedagoga	Velké Kunětice	99	80	0	F
+7101	569453	1	1	47	7	Pavla	Javorková			47	tkadlena	Velké Kunětice	99	47	0	F
+7101	569453	1	2	902	7	Emílie	Burďáková			38	dělnice	Velké Kunětice	99	80	0	F
+7101	569453	1	3	901	7	Jiří	Heřmánek			23	tesař	Velké Kunětice	99	80	0	M

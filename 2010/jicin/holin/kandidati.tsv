@@ -1,41 +1,41 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5202	572900	1	1	902	1	Radomír	Sádlo	M	Ing.		54	zemědělský inženýr	Holín	99	80	0
-5202	572900	1	1	902	2	Alena	Macounová	F	Ing.		44	hlavní účetní	Prachov	99	80	0
-5202	572900	1	1	902	3	Pavel	Hanyš	M			34	servisní technik	Holín	99	80	0
-5202	572900	1	1	902	4	Jaroslav	Taneček	M			43	referent staveb. úřadu	Prachov	99	80	0
-5202	572900	1	1	902	5	Richard	Havránek	M			39	živnostník	Holín	99	80	0
-5202	572900	1	1	902	6	Petr	Lemberk	M			31	truhlář	Holín	99	80	0
-5202	572900	1	1	902	7	František	Jenček	M			37	jednatel společnosti	Holín	99	80	0
-5202	572900	1	1	902	8	Jaroslava	Hakenová	F			52	úřednice	Horní Lochov	99	80	0
-5202	572900	1	1	902	9	Jiří	Veselka	M		MBA	50	hlavní ekonom	Holín	99	80	0
-5202	572900	1	2	903	1	Jitka	Kučerová	F		DiS.	33	referentka expedice	Holín	99	80	0
-5202	572900	1	2	903	2	Jana	Pohnánová Matoušová	F			36	doručovatelka tisku	Holín	99	80	0
-5202	572900	1	2	903	3	Šárka	Tošovská	F			31	na mateřské dovolené	Holín	99	80	0
-5202	572900	1	2	903	4	Radka	Nováková	F			37	podnikatelka	Holín	99	80	0
-5202	572900	1	3	905	1	Jan	Zajíc	M			58	elekrikář	Holín	99	80	0
-5202	572900	1	3	905	2	Josef	Duczynski	M			57	dělník	Holín	99	80	0
-5202	572900	1	3	905	3	Petr	Kříž	M			44	dělník	Holín	99	80	0
-5202	572900	1	3	905	4	Jan	Zajíc ml.	M			28	elektrikář	Holín	99	80	0
-5202	572900	1	3	905	5	Michal	Veselka	M			18	student	Holín	99	80	0
-5202	572900	1	4	904	1	Roman	Haken	M			48	místostarosta obce-živnostník	Holín	99	80	0
-5202	572900	1	4	904	2	Jakub	Skřivánek	M			24	živnostník	Holín	99	80	0
-5202	572900	1	4	904	3	Zdeněk	Lemberk	M			58	živnostník	Holín	99	80	0
-5202	572900	1	4	904	4	Jan	Sumerák	M			54	státní zaměstnanec	Holín	99	80	0
-5202	572900	1	4	904	5	Milan	Hartig	M			30	mistr	Holín	99	80	0
-5202	572900	1	4	904	6	Pavel	Záruba	M			67	důchodce	Holín	99	80	0
-5202	572900	1	5	7	1	Jan	Havelka	M			65	důchodce	Holín	99	7	0
-5202	572900	1	5	7	2	Marie	Opatřilová	F			63	důchodce	Holín	99	7	0
-5202	572900	1	5	7	3	Krista	Holcová	F			67	důchodce	Holín	99	7	0
-5202	572900	1	5	7	4	Jana	Raslová	F	Mgr.		45	OSVČ	Holín	99	7	0
-5202	572900	1	5	7	5	Alena	Špačková	F			57	dělnice	Holín	99	7	0
-5202	572900	1	5	7	6	Ivana	Křížová	F			42	úřednice	Holín	99	7	0
-5202	572900	1	5	7	7	Eva	Tomíčková	F			53	prodavačka	Holín	99	7	0
-5202	572900	1	5	7	8	Lenka	Pelantová	F			53	dělnice	Holín	99	7	0
-5202	572900	1	5	7	9	Andrea	Drahoňovská	F			37	pracovnice soc. služeb	Holín	99	7	0
-5202	572900	1	6	901	1	Karel	Drahoňovský	M			55	starosta	Pařezská Lhota	99	80	0
-5202	572900	1	6	901	2	Jana	Hátlová	F			49	dopravní dispečer	Holín	99	80	0
-5202	572900	1	6	901	3	Slavomír	Mašek	M			44	předák-řidič	Pařezská Lhota	99	80	0
-5202	572900	1	6	901	4	Josef	Trejbal	M			58	dělník	Pařezská Lhota	99	80	0
-5202	572900	1	6	901	5	Jiří	Šimon	M			56	údržbář	Prachov	99	80	0
-5202	572900	1	6	901	6	Alena	Erbanová	F			54	živnostník	Pařezská Lhota	99	80	0
-5202	572900	1	7	801	1	Jiří	Hlaváč	M			29	elektromechanik	Holín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5202	572900	1	1	902	1	Radomír	Sádlo	Ing.		54	zemědělský inženýr	Holín	99	80	0	M
+5202	572900	1	2	903	1	Jitka	Kučerová		DiS.	33	referentka expedice	Holín	99	80	0	F
+5202	572900	1	3	905	1	Jan	Zajíc			58	elekrikář	Holín	99	80	0	M
+5202	572900	1	4	904	1	Roman	Haken			48	místostarosta obce-živnostník	Holín	99	80	0	M
+5202	572900	1	5	7	1	Jan	Havelka			65	důchodce	Holín	99	7	0	M
+5202	572900	1	6	901	1	Karel	Drahoňovský			55	starosta	Pařezská Lhota	99	80	0	M
+5202	572900	1	7	801	1	Jiří	Hlaváč			29	elektromechanik	Holín	99	80	0	M
+5202	572900	1	1	902	2	Alena	Macounová	Ing.		44	hlavní účetní	Prachov	99	80	0	F
+5202	572900	1	2	903	2	Jana	Pohnánová Matoušová			36	doručovatelka tisku	Holín	99	80	0	F
+5202	572900	1	3	905	2	Josef	Duczynski			57	dělník	Holín	99	80	0	M
+5202	572900	1	4	904	2	Jakub	Skřivánek			24	živnostník	Holín	99	80	0	M
+5202	572900	1	5	7	2	Marie	Opatřilová			63	důchodce	Holín	99	7	0	F
+5202	572900	1	6	901	2	Jana	Hátlová			49	dopravní dispečer	Holín	99	80	0	F
+5202	572900	1	1	902	3	Pavel	Hanyš			34	servisní technik	Holín	99	80	0	M
+5202	572900	1	2	903	3	Šárka	Tošovská			31	na mateřské dovolené	Holín	99	80	0	F
+5202	572900	1	3	905	3	Petr	Kříž			44	dělník	Holín	99	80	0	M
+5202	572900	1	4	904	3	Zdeněk	Lemberk			58	živnostník	Holín	99	80	0	M
+5202	572900	1	5	7	3	Krista	Holcová			67	důchodce	Holín	99	7	0	F
+5202	572900	1	6	901	3	Slavomír	Mašek			44	předák-řidič	Pařezská Lhota	99	80	0	M
+5202	572900	1	1	902	4	Jaroslav	Taneček			43	referent staveb. úřadu	Prachov	99	80	0	M
+5202	572900	1	2	903	4	Radka	Nováková			37	podnikatelka	Holín	99	80	0	F
+5202	572900	1	3	905	4	Jan	Zajíc ml.			28	elektrikář	Holín	99	80	0	M
+5202	572900	1	4	904	4	Jan	Sumerák			54	státní zaměstnanec	Holín	99	80	0	M
+5202	572900	1	5	7	4	Jana	Raslová	Mgr.		45	OSVČ	Holín	99	7	0	F
+5202	572900	1	6	901	4	Josef	Trejbal			58	dělník	Pařezská Lhota	99	80	0	M
+5202	572900	1	1	902	5	Richard	Havránek			39	živnostník	Holín	99	80	0	M
+5202	572900	1	3	905	5	Michal	Veselka			18	student	Holín	99	80	0	M
+5202	572900	1	4	904	5	Milan	Hartig			30	mistr	Holín	99	80	0	M
+5202	572900	1	5	7	5	Alena	Špačková			57	dělnice	Holín	99	7	0	F
+5202	572900	1	6	901	5	Jiří	Šimon			56	údržbář	Prachov	99	80	0	M
+5202	572900	1	1	902	6	Petr	Lemberk			31	truhlář	Holín	99	80	0	M
+5202	572900	1	4	904	6	Pavel	Záruba			67	důchodce	Holín	99	80	0	M
+5202	572900	1	5	7	6	Ivana	Křížová			42	úřednice	Holín	99	7	0	F
+5202	572900	1	6	901	6	Alena	Erbanová			54	živnostník	Pařezská Lhota	99	80	0	F
+5202	572900	1	1	902	7	František	Jenček			37	jednatel společnosti	Holín	99	80	0	M
+5202	572900	1	5	7	7	Eva	Tomíčková			53	prodavačka	Holín	99	7	0	F
+5202	572900	1	1	902	8	Jaroslava	Hakenová			52	úřednice	Horní Lochov	99	80	0	F
+5202	572900	1	5	7	8	Lenka	Pelantová			53	dělnice	Holín	99	7	0	F
+5202	572900	1	1	902	9	Jiří	Veselka		MBA	50	hlavní ekonom	Holín	99	80	0	M
+5202	572900	1	5	7	9	Andrea	Drahoňovská			37	pracovnice soc. služeb	Holín	99	7	0	F

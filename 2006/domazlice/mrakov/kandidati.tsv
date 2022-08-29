@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	553981	1	1	1	1	Josef	Janeček	M			51	starosta obce	Mrákov	1	1	0
-3201	553981	1	1	1	2	Jiří	Kupilík	M			51	elektrikář	Mrákov	99	1	0
-3201	553981	1	1	1	3	Marie	Groesslová	F			53	úřednice	Mrákov	99	1	0
-3201	553981	1	1	1	4	Václav	Pivoňka	M			37	úředník	Mrákov	99	1	0
-3201	553981	1	1	1	5	Jan	Steinbach	M			41	traktorista	Mrákov - Starý Klíčov	99	1	0
-3201	553981	1	1	1	6	Vladimír	Duffek	M	Mgr.		41	ředitel ZŠ	Mrákov	99	1	0
-3201	553981	1	1	1	7	Jozef	Pagáč	M			63	důchodce	Mrákov - Starý Klíčov	99	1	0
-3201	553981	1	1	1	8	Václav	Mleziva	M			64	důchodce	Mrákov - Nový Klíčov	99	1	0
-3201	553981	1	1	1	9	Eduard	Bayer	M			51	technik	Mrákov	1	1	0
-3201	553981	1	2	7	1	Jiří	Petrželka	M			59	soukromý podnikatel	Mrákov - Starý Klíčov	99	7	0
-3201	553981	1	2	7	2	Josef	Selner	M			42	technik ZOD Mrákov	Mrákov - Starý Klíčov	99	7	0
-3201	553981	1	2	7	3	Vratislav	Altman	M	Ing.		52	ředitel pobočky ČSOB Domažlice	Mrákov - Starý Klíčov	99	7	0
-3201	553981	1	2	7	4	Josef	Jírovec	M	Ing.		53	technik ZOD Mrákov	Mrákov	99	7	0
-3201	553981	1	2	7	5	Marcela	Skládalová	F			43	sekretářka ZOD Mrákov	Mrákov - Nový Klíčov	99	7	0
-3201	553981	1	2	7	6	Blanka	Mužíková	F			29	učitelka	Mrákov	99	7	0
-3201	553981	1	2	7	7	Václav	Mareš	M			63	důchodce	Smolov	99	7	0
-3201	553981	1	2	7	8	Josef	Vítek	M			47	stojní zámečník	Mrákov - Starý Klíčov	99	7	0
-3201	553981	1	2	7	9	Jaroslav	Turek	M			41	dělník	Mrákov	99	7	0
-3201	553981	1	3	47	1	Jaroslav	Stýskal	M			45	obchodní manažer	Mrákov - Starý Klíčov	47	47	0
-3201	553981	1	3	47	2	Václav	Martínek	M			57	školník	Mrákov - Starý Klíčov	47	47	0
-3201	553981	1	3	47	3	Jiří	Příbek	M			64	důchodce	Mrákov - Starý Klíčov	47	47	0
-3201	553981	1	3	47	4	Jiří	Švajner	M			50	svářeč	Mrákov - Starý Klíčov	47	47	0
-3201	553981	1	3	47	5	Karel	Stauber	M	Ing.		47	technik	Mrákov - Starý Klíčov	99	47	0
-3201	553981	1	4	5	1	Josef	Tumpach	M			30	traktorista	Mrákov - Nový Klíčov	99	5	0
-3201	553981	1	4	5	2	Jana	Konopová	F			20	studentka	Mrákov	99	5	0
-3201	553981	1	4	5	3	Radka	Járová	F			22	studentka	Mrákov	99	5	0
-3201	553981	1	4	5	4	Růžena	Konopová	F			49	zaměstnanec ZOD	Mrákov	99	5	0
-3201	553981	1	4	5	5	Ivana	Tumpachová	F			29	zaměstnanec ZOD	Mrákov - Nový Klíčov	99	5	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	553981	1	1	1	1	Josef	Janeček			51	starosta obce	Mrákov	1	1	0	M
+3201	553981	1	2	7	1	Jiří	Petrželka			59	soukromý podnikatel	Mrákov - Starý Klíčov	99	7	0	M
+3201	553981	1	3	47	1	Jaroslav	Stýskal			45	obchodní manažer	Mrákov - Starý Klíčov	47	47	0	M
+3201	553981	1	4	5	1	Josef	Tumpach			30	traktorista	Mrákov - Nový Klíčov	99	5	0	M
+3201	553981	1	1	1	2	Jiří	Kupilík			51	elektrikář	Mrákov	99	1	0	M
+3201	553981	1	2	7	2	Josef	Selner			42	technik ZOD Mrákov	Mrákov - Starý Klíčov	99	7	0	M
+3201	553981	1	3	47	2	Václav	Martínek			57	školník	Mrákov - Starý Klíčov	47	47	0	M
+3201	553981	1	4	5	2	Jana	Konopová			20	studentka	Mrákov	99	5	0	F
+3201	553981	1	1	1	3	Marie	Groesslová			53	úřednice	Mrákov	99	1	0	F
+3201	553981	1	2	7	3	Vratislav	Altman	Ing.		52	ředitel pobočky ČSOB Domažlice	Mrákov - Starý Klíčov	99	7	0	M
+3201	553981	1	3	47	3	Jiří	Příbek			64	důchodce	Mrákov - Starý Klíčov	47	47	0	M
+3201	553981	1	4	5	3	Radka	Járová			22	studentka	Mrákov	99	5	0	F
+3201	553981	1	1	1	4	Václav	Pivoňka			37	úředník	Mrákov	99	1	0	M
+3201	553981	1	2	7	4	Josef	Jírovec	Ing.		53	technik ZOD Mrákov	Mrákov	99	7	0	M
+3201	553981	1	3	47	4	Jiří	Švajner			50	svářeč	Mrákov - Starý Klíčov	47	47	0	M
+3201	553981	1	4	5	4	Růžena	Konopová			49	zaměstnanec ZOD	Mrákov	99	5	0	F
+3201	553981	1	1	1	5	Jan	Steinbach			41	traktorista	Mrákov - Starý Klíčov	99	1	0	M
+3201	553981	1	2	7	5	Marcela	Skládalová			43	sekretářka ZOD Mrákov	Mrákov - Nový Klíčov	99	7	0	F
+3201	553981	1	3	47	5	Karel	Stauber	Ing.		47	technik	Mrákov - Starý Klíčov	99	47	0	M
+3201	553981	1	4	5	5	Ivana	Tumpachová			29	zaměstnanec ZOD	Mrákov - Nový Klíčov	99	5	0	F
+3201	553981	1	1	1	6	Vladimír	Duffek	Mgr.		41	ředitel ZŠ	Mrákov	99	1	0	M
+3201	553981	1	2	7	6	Blanka	Mužíková			29	učitelka	Mrákov	99	7	0	F
+3201	553981	1	1	1	7	Jozef	Pagáč			63	důchodce	Mrákov - Starý Klíčov	99	1	0	M
+3201	553981	1	2	7	7	Václav	Mareš			63	důchodce	Smolov	99	7	0	M
+3201	553981	1	1	1	8	Václav	Mleziva			64	důchodce	Mrákov - Nový Klíčov	99	1	0	M
+3201	553981	1	2	7	8	Josef	Vítek			47	stojní zámečník	Mrákov - Starý Klíčov	99	7	0	M
+3201	553981	1	1	1	9	Eduard	Bayer			51	technik	Mrákov	1	1	0	M
+3201	553981	1	2	7	9	Jaroslav	Turek			41	dělník	Mrákov	99	7	0	M

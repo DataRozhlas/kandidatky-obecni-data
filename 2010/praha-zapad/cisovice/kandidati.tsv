@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	539155	1	1	901	1	Zuzana	Kuthanová	F			42	starostka	Čisovice	99	80	0
-2110	539155	1	1	901	2	Petr	Mathauser	M			41	podnikatel	Čisovice	99	80	0
-2110	539155	1	1	901	3	Alexandra	Kadičová	F			43	účetní	Bojov	99	80	0
-2110	539155	1	1	901	4	Miroslav	Svoboda	M			39	podnikatel	Bojov	99	80	0
-2110	539155	1	1	901	5	Jana	Říhová	F			53	učitelka	Čisovice	99	80	0
-2110	539155	1	1	901	6	Kamil	Čermák	M			39	podnikatel	Čisovice	99	80	0
-2110	539155	1	2	53	1	Jaroslav	Maršík	M	Ing.		64	ekonomický poradce	Čisovice	53	53	0
-2110	539155	1	2	53	2	Vlastimil	Klainer	M			53	geodet	Bojov	99	53	0
-2110	539155	1	2	53	3	Jiří	Ptáček	M			45	obchodní zástupce	Čisovice	53	53	0
-2110	539155	1	2	53	4	Martin	Jeřábek	M			39	manažer	Čisovice	99	53	0
-2110	539155	1	2	53	5	Vojtěch	Myšák	M			37	podnikatel	Čisovice	53	53	0
-2110	539155	1	2	53	6	Antonín	Kašpar	M	ak. soch.		56	akademický sochař	Čisovice	99	53	0
-2110	539155	1	2	53	7	Michal	Strnad	M			32	specialista IT	Čisovice	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	539155	1	1	901	1	Zuzana	Kuthanová			42	starostka	Čisovice	99	80	0	F
+2110	539155	1	2	53	1	Jaroslav	Maršík	Ing.		64	ekonomický poradce	Čisovice	53	53	0	M
+2110	539155	1	1	901	2	Petr	Mathauser			41	podnikatel	Čisovice	99	80	0	M
+2110	539155	1	2	53	2	Vlastimil	Klainer			53	geodet	Bojov	99	53	0	M
+2110	539155	1	1	901	3	Alexandra	Kadičová			43	účetní	Bojov	99	80	0	F
+2110	539155	1	2	53	3	Jiří	Ptáček			45	obchodní zástupce	Čisovice	53	53	0	M
+2110	539155	1	1	901	4	Miroslav	Svoboda			39	podnikatel	Bojov	99	80	0	M
+2110	539155	1	2	53	4	Martin	Jeřábek			39	manažer	Čisovice	99	53	0	M
+2110	539155	1	1	901	5	Jana	Říhová			53	učitelka	Čisovice	99	80	0	F
+2110	539155	1	2	53	5	Vojtěch	Myšák			37	podnikatel	Čisovice	53	53	0	M
+2110	539155	1	1	901	6	Kamil	Čermák			39	podnikatel	Čisovice	99	80	0	M
+2110	539155	1	2	53	6	Antonín	Kašpar	ak. soch.		56	akademický sochař	Čisovice	99	53	0	M
+2110	539155	1	2	53	7	Michal	Strnad			32	specialista IT	Čisovice	99	53	0	M

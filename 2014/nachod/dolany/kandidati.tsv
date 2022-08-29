@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5203	574015	1	1	901	1	Jiří	Plšek	M			44	starosta	Čáslavky	99	80	0
-5203	574015	1	1	901	2	Jiří	Škvrna	M			64	důchodce	Čáslavky	99	80	0
-5203	574015	1	1	901	3	Veronika	Lemberková	F			38	instruktorka plavání	Dolany	99	80	0
-5203	574015	1	1	901	4	Ladislav	Fügner	M			49	soukromý podnikatel	Svinišťany	99	80	0
-5203	574015	1	1	901	5	Radoslav	Všetečka	M			41	finanční poradce	Krabčice	99	80	0
-5203	574015	1	1	901	6	Karel	Erban	M			61	jednatel společnosti	Sebuč	99	80	0
-5203	574015	1	1	901	7	Pavel	Komora	M			40	ekonom	Dolany	99	80	0
-5203	574015	1	1	901	8	Lukáš	Ludvík	M	Ing.		44	soukromý zemědělec	Dolany	99	80	0
-5203	574015	1	1	901	9	Oliver	Helbich	M			46	strážník MP	Čáslavky	99	80	0
-5203	574015	1	2	768	1	Jiří	Beran	M	Ing.		53	textilní inženýr	Dolany	99	768	0
-5203	574015	1	2	768	2	Jaroslav	Karel	M	Ing.		25	stavební technik	Čáslavky	99	768	0
-5203	574015	1	2	768	3	Josef	Cipra	M	Ing.		28	nákupčí	Svinišťany	99	768	0
-5203	574015	1	2	768	4	Petr	Záliš	M	Mgr.		43	novinář	Dolany	99	768	0
-5203	574015	1	2	768	5	Miloslav	Culek	M	Ing.		66	soukromý podnikatel	Dolany	99	768	0
-5203	574015	1	2	768	6	Jan	Hampl	M			31	soukromý podnikatel	Svinišťany	99	768	0
-5203	574015	1	2	768	7	Renata	Semanišinová	F			50	dělnice	Dolany	99	768	0
-5203	574015	1	2	768	8	Jiří	Berger	M			46	mechanik	Čáslavky	99	768	0
-5203	574015	1	2	768	9	Jan	Borůvka	M			46	státní zaměstnanec	Dolany	768	768	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5203	574015	1	1	901	1	Jiří	Plšek			44	starosta	Čáslavky	99	80	0	M
+5203	574015	1	2	768	1	Jiří	Beran	Ing.		53	textilní inženýr	Dolany	99	768	0	M
+5203	574015	1	1	901	2	Jiří	Škvrna			64	důchodce	Čáslavky	99	80	0	M
+5203	574015	1	2	768	2	Jaroslav	Karel	Ing.		25	stavební technik	Čáslavky	99	768	0	M
+5203	574015	1	1	901	3	Veronika	Lemberková			38	instruktorka plavání	Dolany	99	80	0	F
+5203	574015	1	2	768	3	Josef	Cipra	Ing.		28	nákupčí	Svinišťany	99	768	0	M
+5203	574015	1	1	901	4	Ladislav	Fügner			49	soukromý podnikatel	Svinišťany	99	80	0	M
+5203	574015	1	2	768	4	Petr	Záliš	Mgr.		43	novinář	Dolany	99	768	0	M
+5203	574015	1	1	901	5	Radoslav	Všetečka			41	finanční poradce	Krabčice	99	80	0	M
+5203	574015	1	2	768	5	Miloslav	Culek	Ing.		66	soukromý podnikatel	Dolany	99	768	0	M
+5203	574015	1	1	901	6	Karel	Erban			61	jednatel společnosti	Sebuč	99	80	0	M
+5203	574015	1	2	768	6	Jan	Hampl			31	soukromý podnikatel	Svinišťany	99	768	0	M
+5203	574015	1	1	901	7	Pavel	Komora			40	ekonom	Dolany	99	80	0	M
+5203	574015	1	2	768	7	Renata	Semanišinová			50	dělnice	Dolany	99	768	0	F
+5203	574015	1	1	901	8	Lukáš	Ludvík	Ing.		44	soukromý zemědělec	Dolany	99	80	0	M
+5203	574015	1	2	768	8	Jiří	Berger			46	mechanik	Čáslavky	99	768	0	M
+5203	574015	1	1	901	9	Oliver	Helbich			46	strážník MP	Čáslavky	99	80	0	M
+5203	574015	1	2	768	9	Jan	Borůvka			46	státní zaměstnanec	Dolany	768	768	0	M

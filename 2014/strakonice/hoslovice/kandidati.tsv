@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3106	551104	1	1	901	1	Petra	Grygerová	F	Ing.		38	v domácnosti	Škrobočov	99	80	0
-3106	551104	1	1	901	2	Roman	Kočí	M	Ing.		43	inženýr kvality	Hodějov	99	80	0
-3106	551104	1	1	901	3	Robert	Vavřík	M			45	provozní náměstek	Hodějov	99	80	0
-3106	551104	1	1	901	4	Edita	Sluková	F			37	OSVČ	Hodějov	99	80	0
-3106	551104	1	1	901	5	Bohumil	Kloud	M			60	důchodce	Škrobočov	99	80	0
-3106	551104	1	1	901	6	Miloslav	Pauch	M			38	OSVČ	Hodějov	99	80	0
-3106	551104	1	1	901	7	Richard	Vavřík	M			38	řidič	Hodějov	99	80	0
-3106	551104	1	1	901	8	Vladislav	Nikodem	M			66	důchodce	Hodějov	99	80	0
-3106	551104	1	2	902	1	Petr	Kozjura	M		DiS.	40	výkonný ředitel	Hoslovice	53	80	0
-3106	551104	1	2	902	2	Martin	Hejtmánek	M			31	řidič, obsluha st. strojů	Hoslovice	99	80	0
-3106	551104	1	2	902	3	Milan	Sova	M			49	řidič	Hoslovice	99	80	0
-3106	551104	1	2	902	4	Miroslav	Votík	M			59	starosta	Hoslovice	99	80	0
-3106	551104	1	2	902	5	Terezie	Daňková	F			39	zemědělec	Hoslovice	7	80	0
-3106	551104	1	2	902	6	Jitka	Petříková	F			40	pracovnice expedice	Hoslovice	99	80	0
-3106	551104	1	2	902	7	Jaroslav	Švec	M			58	obráběč kovů	Hoslovice	99	80	0
-3106	551104	1	3	903	1	Radek	Bártík	M		DiS.	34	OSVČ	Hoslovice	99	80	0
-3106	551104	1	3	903	2	Petr	Šenkýř	M			48	jednatel společnosti	Hoslovice	99	80	0
-3106	551104	1	3	903	3	Veronika	Szabová	F			61	důchodkyně	Hoslovice	99	80	0
-3106	551104	1	3	903	4	Oldřich	Šenkýř	M			71	důchodce	Hoslovice	99	80	0
-3106	551104	1	3	903	5	Jaroslav	Vrzal	M			62	důchodce	Hoslovice	99	80	0
-3106	551104	1	3	903	6	Vítězslav	Moc	M			67	důchodce	Hoslovice	99	80	0
-3106	551104	1	3	903	7	Petr	Bártík	M		DiS.	31	THP pracovník	Hoslovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3106	551104	1	1	901	1	Petra	Grygerová	Ing.		38	v domácnosti	Škrobočov	99	80	0	F
+3106	551104	1	2	902	1	Petr	Kozjura		DiS.	40	výkonný ředitel	Hoslovice	53	80	0	M
+3106	551104	1	3	903	1	Radek	Bártík		DiS.	34	OSVČ	Hoslovice	99	80	0	M
+3106	551104	1	1	901	2	Roman	Kočí	Ing.		43	inženýr kvality	Hodějov	99	80	0	M
+3106	551104	1	2	902	2	Martin	Hejtmánek			31	řidič, obsluha st. strojů	Hoslovice	99	80	0	M
+3106	551104	1	3	903	2	Petr	Šenkýř			48	jednatel společnosti	Hoslovice	99	80	0	M
+3106	551104	1	1	901	3	Robert	Vavřík			45	provozní náměstek	Hodějov	99	80	0	M
+3106	551104	1	2	902	3	Milan	Sova			49	řidič	Hoslovice	99	80	0	M
+3106	551104	1	3	903	3	Veronika	Szabová			61	důchodkyně	Hoslovice	99	80	0	F
+3106	551104	1	1	901	4	Edita	Sluková			37	OSVČ	Hodějov	99	80	0	F
+3106	551104	1	2	902	4	Miroslav	Votík			59	starosta	Hoslovice	99	80	0	M
+3106	551104	1	3	903	4	Oldřich	Šenkýř			71	důchodce	Hoslovice	99	80	0	M
+3106	551104	1	1	901	5	Bohumil	Kloud			60	důchodce	Škrobočov	99	80	0	M
+3106	551104	1	2	902	5	Terezie	Daňková			39	zemědělec	Hoslovice	7	80	0	F
+3106	551104	1	3	903	5	Jaroslav	Vrzal			62	důchodce	Hoslovice	99	80	0	M
+3106	551104	1	1	901	6	Miloslav	Pauch			38	OSVČ	Hodějov	99	80	0	M
+3106	551104	1	2	902	6	Jitka	Petříková			40	pracovnice expedice	Hoslovice	99	80	0	F
+3106	551104	1	3	903	6	Vítězslav	Moc			67	důchodce	Hoslovice	99	80	0	M
+3106	551104	1	1	901	7	Richard	Vavřík			38	řidič	Hodějov	99	80	0	M
+3106	551104	1	2	902	7	Jaroslav	Švec			58	obráběč kovů	Hoslovice	99	80	0	M
+3106	551104	1	3	903	7	Petr	Bártík		DiS.	31	THP pracovník	Hoslovice	99	80	0	M
+3106	551104	1	1	901	8	Vladislav	Nikodem			66	důchodce	Hodějov	99	80	0	M

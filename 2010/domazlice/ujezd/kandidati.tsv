@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	554383	1	1	689	1	Jaroslav	Tauer	M			56	dělník	Újezd	99	137	0
-3201	554383	1	1	689	2	Petr	Lipták	M			46	řidič-skladník	Újezd	99	137	0
-3201	554383	1	1	689	3	Blanka	Doksanská	F			34	kuchařka	Petrovice	99	137	0
-3201	554383	1	1	689	4	Václav	Pertl	M			56	kovář	Újezd	99	137	0
-3201	554383	1	1	689	5	Jiří	Řezníček	M			56	soukromý podnikatel	Újezd	99	137	0
-3201	554383	1	1	689	6	Gustav	Zimmer	M			38	zámečník	Petrovice	99	137	0
-3201	554383	1	1	689	7	Bohumil	Ledvina	M			36	dělník	Újezd	99	137	0
-3201	554383	1	1	689	8	Pavel	Schleiss	M			38	soukromý zemědělec	Petrovice	99	137	0
-3201	554383	1	1	689	9	Šárka	Tauerová	F			22	studentka	Újezd	99	137	0
-3201	554383	1	2	901	1	Václav	Kalčík	M			53	starosta obce	Újezd	99	80	0
-3201	554383	1	2	901	2	Miloš	Rada	M			36	řidič	Újezd	99	80	0
-3201	554383	1	2	901	3	Radovan	Plšek	M			40	policista	Újezd	99	80	0
-3201	554383	1	2	901	4	Petr	Duffek	M			34	zemědělec	Petrovice	99	80	0
-3201	554383	1	2	901	5	Pavel	Hána	M			32	autoelektrikář	Petrovice	99	80	0
-3201	554383	1	2	901	6	Jiří	Paidar	M			58	dělník	Újezd	99	80	0
-3201	554383	1	2	901	7	Jan	Veber	M			43	technik	Újezd	99	80	0
-3201	554383	1	2	901	8	Emil	Fiala	M			56	státní zaměstnanec	Újezd	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	554383	1	1	689	1	Jaroslav	Tauer			56	dělník	Újezd	99	137	0	M
+3201	554383	1	2	901	1	Václav	Kalčík			53	starosta obce	Újezd	99	80	0	M
+3201	554383	1	1	689	2	Petr	Lipták			46	řidič-skladník	Újezd	99	137	0	M
+3201	554383	1	2	901	2	Miloš	Rada			36	řidič	Újezd	99	80	0	M
+3201	554383	1	1	689	3	Blanka	Doksanská			34	kuchařka	Petrovice	99	137	0	F
+3201	554383	1	2	901	3	Radovan	Plšek			40	policista	Újezd	99	80	0	M
+3201	554383	1	1	689	4	Václav	Pertl			56	kovář	Újezd	99	137	0	M
+3201	554383	1	2	901	4	Petr	Duffek			34	zemědělec	Petrovice	99	80	0	M
+3201	554383	1	1	689	5	Jiří	Řezníček			56	soukromý podnikatel	Újezd	99	137	0	M
+3201	554383	1	2	901	5	Pavel	Hána			32	autoelektrikář	Petrovice	99	80	0	M
+3201	554383	1	1	689	6	Gustav	Zimmer			38	zámečník	Petrovice	99	137	0	M
+3201	554383	1	2	901	6	Jiří	Paidar			58	dělník	Újezd	99	80	0	M
+3201	554383	1	1	689	7	Bohumil	Ledvina			36	dělník	Újezd	99	137	0	M
+3201	554383	1	2	901	7	Jan	Veber			43	technik	Újezd	99	80	0	M
+3201	554383	1	1	689	8	Pavel	Schleiss			38	soukromý zemědělec	Petrovice	99	137	0	M
+3201	554383	1	2	901	8	Emil	Fiala			56	státní zaměstnanec	Újezd	99	80	0	M
+3201	554383	1	1	689	9	Šárka	Tauerová			22	studentka	Újezd	99	137	0	F

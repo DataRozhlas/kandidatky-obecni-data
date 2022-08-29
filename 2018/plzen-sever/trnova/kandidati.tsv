@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3205	559504	1	1	902	1	Petra	Varvařovská	F			37	hlavní účetní	Trnová	99	80	A
-3205	559504	1	1	902	2	Jana	Merhoutová	F	Ing.		36	ekonom	Trnová	99	80	A
-3205	559504	1	1	902	3	Jan	Vyleťálek	M			63	zámečník	Trnová	99	80	A
-3205	559504	1	1	902	4	Radek	Koudela	M	Bc.		43	podnikatel	Horní Bříza	99	80	A
-3205	559504	1	1	902	5	Eva	Zimová	F	Ing.		53	účetní poradce	Trnová	99	80	A
-3205	559504	1	2	903	1	Jan	Korejčík	M	JUDr.		37	policista	Trnová	99	80	A
-3205	559504	1	2	903	2	Ladislav	Kraus	M			44	stavbyvedoucí	Trnová	99	80	A
-3205	559504	1	2	903	3	Jan	Rieckel	M			31	vedoucí provozu	Trnová	99	80	A
-3205	559504	1	2	903	4	Pavel	Kříž	M	Bc.		32	specialista rozvoje obchodu	Trnová	99	80	A
-3205	559504	1	2	903	5	Jiří	Dolejš	M	Mgr. Ing.		39	bankovní specialista	Trnová	99	80	A
-3205	559504	1	2	903	6	Ludmila	Křížová	F			49	vedoucí účetní	Trnová	99	80	A
-3205	559504	1	2	903	7	Jiří	Vojáček	M			39	policista	Trnová	99	80	A
-3205	559504	1	2	903	8	Jiří	Zelenka	M			50	jednatel realitní kanceláře	Trnová	99	80	A
-3205	559504	1	2	903	9	Jarmila	Vodičková	F			60	ředitelka MŠ	Trnová	99	80	A
-3205	559504	1	3	901	1	Petra	Šumlovová	F	Bc.		44	asistentka ředitele	Trnová	99	80	A
-3205	559504	1	3	901	2	Petr	Jindra	M	Bc.	DiS.	43	sociální pracovník	Trnová	99	80	A
-3205	559504	1	3	901	3	Jiří	Koza	M	MUDr.		48	lékař	Trnová	99	80	A
-3205	559504	1	3	901	4	Tereza	Zimová	F	Ing.		29	stavební projektant	Trnová	99	80	A
-3205	559504	1	3	901	5	Antonín	Šípek	M			51	pracovník skladu	Trnová	99	80	A
-3205	559504	1	3	901	6	Petr	Fišer	M			52	řidič	Trnová	99	80	A
-3205	559504	1	3	901	7	Jitka	Tupá	F			61	úřednice	Trnová	99	80	A
-3205	559504	1	3	901	8	Kateřina	Křížová	F	Bc.		43	učitelka	Trnová	99	80	A
-3205	559504	1	3	901	9	Pavla	Čásová	F			41	prodavačka	Trnová	99	80	A
-3205	559504	1	4	53	1	Josef	Kraus	M	Mgr.		54	učitel ZŠ	Trnová	53	53	A
-3205	559504	1	4	53	2	Jan	Mácha	M	Ing.		57	podnikatel, učitel	Trnová	99	53	A
-3205	559504	1	4	53	3	Petr	Randa	M			52	vedoucí výroby	Trnová	99	53	A
-3205	559504	1	4	53	4	Šárka	Rieckelová	F			51	zdravotní sestra	Trnová	99	53	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3205	559504	1	1	902	1	Petra	Varvařovská			37	hlavní účetní	Trnová	99	80	A	F
+3205	559504	1	2	903	1	Jan	Korejčík	JUDr.		37	policista	Trnová	99	80	A	M
+3205	559504	1	3	901	1	Petra	Šumlovová	Bc.		44	asistentka ředitele	Trnová	99	80	A	F
+3205	559504	1	4	53	1	Josef	Kraus	Mgr.		54	učitel ZŠ	Trnová	53	53	A	M
+3205	559504	1	1	902	2	Jana	Merhoutová	Ing.		36	ekonom	Trnová	99	80	A	F
+3205	559504	1	2	903	2	Ladislav	Kraus			44	stavbyvedoucí	Trnová	99	80	A	M
+3205	559504	1	3	901	2	Petr	Jindra	Bc.	DiS.	43	sociální pracovník	Trnová	99	80	A	M
+3205	559504	1	4	53	2	Jan	Mácha	Ing.		57	podnikatel, učitel	Trnová	99	53	A	M
+3205	559504	1	1	902	3	Jan	Vyleťálek			63	zámečník	Trnová	99	80	A	M
+3205	559504	1	2	903	3	Jan	Rieckel			31	vedoucí provozu	Trnová	99	80	A	M
+3205	559504	1	3	901	3	Jiří	Koza	MUDr.		48	lékař	Trnová	99	80	A	M
+3205	559504	1	4	53	3	Petr	Randa			52	vedoucí výroby	Trnová	99	53	A	M
+3205	559504	1	1	902	4	Radek	Koudela	Bc.		43	podnikatel	Horní Bříza	99	80	A	M
+3205	559504	1	2	903	4	Pavel	Kříž	Bc.		32	specialista rozvoje obchodu	Trnová	99	80	A	M
+3205	559504	1	3	901	4	Tereza	Zimová	Ing.		29	stavební projektant	Trnová	99	80	A	F
+3205	559504	1	4	53	4	Šárka	Rieckelová			51	zdravotní sestra	Trnová	99	53	A	F
+3205	559504	1	1	902	5	Eva	Zimová	Ing.		53	účetní poradce	Trnová	99	80	A	F
+3205	559504	1	2	903	5	Jiří	Dolejš	Mgr. Ing.		39	bankovní specialista	Trnová	99	80	A	M
+3205	559504	1	3	901	5	Antonín	Šípek			51	pracovník skladu	Trnová	99	80	A	M
+3205	559504	1	2	903	6	Ludmila	Křížová			49	vedoucí účetní	Trnová	99	80	A	F
+3205	559504	1	3	901	6	Petr	Fišer			52	řidič	Trnová	99	80	A	M
+3205	559504	1	2	903	7	Jiří	Vojáček			39	policista	Trnová	99	80	A	M
+3205	559504	1	3	901	7	Jitka	Tupá			61	úřednice	Trnová	99	80	A	F
+3205	559504	1	2	903	8	Jiří	Zelenka			50	jednatel realitní kanceláře	Trnová	99	80	A	M
+3205	559504	1	3	901	8	Kateřina	Křížová	Bc.		43	učitelka	Trnová	99	80	A	F
+3205	559504	1	2	903	9	Jarmila	Vodičková			60	ředitelka MŠ	Trnová	99	80	A	F
+3205	559504	1	3	901	9	Pavla	Čásová			41	prodavačka	Trnová	99	80	A	F

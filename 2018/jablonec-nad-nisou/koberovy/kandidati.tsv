@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5102	563641	1	1	901	1	Jaroslav	Cvrček	M			46	živnostník	Koberovy	99	80	A
-5102	563641	1	1	901	2	Roman	Brunclík	M			44	živnostník	Koberovy	99	80	A
-5102	563641	1	1	901	3	Petr	Bína	M			53	živnostník	Koberovy	99	80	A
-5102	563641	1	1	901	4	Vladimíra	Jakouběová	F	PhDr.		62	ředitelka muzea	Vrát	99	80	N
-5102	563641	1	1	901	5	Zdeněk	Pala	M			39	sázkový makléř	Koberovy	99	80	A
-5102	563641	1	1	901	6	Dušan	Habr	M			44	živnostník	Besedice	99	80	A
-5102	563641	1	1	901	7	Martin	Trakal	M			45	seřizovač	Vrát	99	80	A
-5102	563641	1	1	901	8	Josef	Hanzl	M			46	stavební mistr	Koberovy	99	80	A
-5102	563641	1	1	901	9	Lenka	Marková	F			32	mateřská dovolená	Michovka	99	80	A
-5102	563641	1	1	901	10	Michal	Šich	M			32	seřizovač	Koberovy	99	80	A
-5102	563641	1	1	901	11	Jan	Holub	M			49	vedoucí provozu	Koberovy	99	80	A
-5102	563641	1	2	389	1	Jindřich	Kvapil	M			58	starosta obce	Koberovy	53	53	A
-5102	563641	1	2	389	2	Lukáš	Rutkovský	M	Ing.		37	jednatel firmy	Koberovy	99	80	A
-5102	563641	1	2	389	3	Karel	Kořínek	M			48	soukromý zemědělec	Michovka	99	80	A
-5102	563641	1	2	389	4	Bohumil	Paldus	M			49	technik - kvalitář	Vrát	99	80	A
-5102	563641	1	2	389	5	Tomáš	Mašek	M			38	manažer průmyslového inženýrství, starosta SDH	Koberovy	99	80	A
-5102	563641	1	2	389	6	Staša	Kobrlová	F			54	OSVČ-technik PO a BOZP	Koberovy	99	80	A
-5102	563641	1	2	389	7	Jiří	Plíhal	M			59	bankovní poradce	Koberovy	99	80	A
-5102	563641	1	2	389	8	Luděk	Šírek	M	Mgr.		55	jednatel firmy, předseda TJ Sokol Koberovy	Koberovy	99	80	A
-5102	563641	1	2	389	9	Petr	Flégr	M	Mgr.		39	ředitel školy	Koberovy	99	80	A
-5102	563641	1	2	389	10	Jana	Tyrychtrová	F			53	ekonomka, účetní	Koberovy	99	80	A
-5102	563641	1	2	389	11	Pavel	Pospíšil	M			45	inspektor silniční sítě, velitel JPO Koberovy	Koberovy	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5102	563641	1	1	901	1	Jaroslav	Cvrček			46	živnostník	Koberovy	99	80	A	M
+5102	563641	1	2	389	1	Jindřich	Kvapil			58	starosta obce	Koberovy	53	53	A	M
+5102	563641	1	1	901	2	Roman	Brunclík			44	živnostník	Koberovy	99	80	A	M
+5102	563641	1	2	389	2	Lukáš	Rutkovský	Ing.		37	jednatel firmy	Koberovy	99	80	A	M
+5102	563641	1	1	901	3	Petr	Bína			53	živnostník	Koberovy	99	80	A	M
+5102	563641	1	2	389	3	Karel	Kořínek			48	soukromý zemědělec	Michovka	99	80	A	M
+5102	563641	1	1	901	4	Vladimíra	Jakouběová	PhDr.		62	ředitelka muzea	Vrát	99	80	N	F
+5102	563641	1	2	389	4	Bohumil	Paldus			49	technik - kvalitář	Vrát	99	80	A	M
+5102	563641	1	1	901	5	Zdeněk	Pala			39	sázkový makléř	Koberovy	99	80	A	M
+5102	563641	1	2	389	5	Tomáš	Mašek			38	manažer průmyslového inženýrství, starosta SDH	Koberovy	99	80	A	M
+5102	563641	1	1	901	6	Dušan	Habr			44	živnostník	Besedice	99	80	A	M
+5102	563641	1	2	389	6	Staša	Kobrlová			54	OSVČ-technik PO a BOZP	Koberovy	99	80	A	F
+5102	563641	1	1	901	7	Martin	Trakal			45	seřizovač	Vrát	99	80	A	M
+5102	563641	1	2	389	7	Jiří	Plíhal			59	bankovní poradce	Koberovy	99	80	A	M
+5102	563641	1	1	901	8	Josef	Hanzl			46	stavební mistr	Koberovy	99	80	A	M
+5102	563641	1	2	389	8	Luděk	Šírek	Mgr.		55	jednatel firmy, předseda TJ Sokol Koberovy	Koberovy	99	80	A	M
+5102	563641	1	1	901	9	Lenka	Marková			32	mateřská dovolená	Michovka	99	80	A	F
+5102	563641	1	2	389	9	Petr	Flégr	Mgr.		39	ředitel školy	Koberovy	99	80	A	M
+5102	563641	1	1	901	10	Michal	Šich			32	seřizovač	Koberovy	99	80	A	M
+5102	563641	1	2	389	10	Jana	Tyrychtrová			53	ekonomka, účetní	Koberovy	99	80	A	F
+5102	563641	1	1	901	11	Jan	Holub			49	vedoucí provozu	Koberovy	99	80	A	M
+5102	563641	1	2	389	11	Pavel	Pospíšil			45	inspektor silniční sítě, velitel JPO Koberovy	Koberovy	99	80	A	M

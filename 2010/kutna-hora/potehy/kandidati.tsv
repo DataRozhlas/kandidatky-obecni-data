@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2105	534331	1	1	801	1	Zdeněk	Rek	M			59	důchodce	Potěhy	99	80	0
-2105	534331	1	2	901	1	Karel	Novotný	M			49	technik MTZ	Potěhy	99	80	0
-2105	534331	1	2	901	2	Alena	Prchalová	F			50	manažer	Potěhy	99	80	0
-2105	534331	1	2	901	3	Zdeněk	Strašil	M			54	podnikatel	Potěhy	99	80	0
-2105	534331	1	2	901	4	Radim	Šimůnek	M			37	státní zaměstnanec	Potěhy	99	80	0
-2105	534331	1	2	901	5	Stanislava	Šulcová	F			41	kuchařka	Potěhy	99	80	0
-2105	534331	1	2	901	6	Jindřich	Vondráček	M			53	stavbyvedoucí	Potěhy	99	80	0
-2105	534331	1	2	901	7	Stanislav	Čmakal	M			45	řidič	Potěhy	99	80	0
-2105	534331	1	2	901	8	Miloslav	Peroutka	M			52	podnikatel	Potěhy	144	80	0
-2105	534331	1	3	803	1	Miloš	Sixta	M			61	řidič	Potěhy	99	80	0
-2105	534331	1	4	802	1	Ondřej	Sixta	M			34	policista	Potěhy	99	80	0
-2105	534331	1	5	7	1	Jana	Dvořáková	F			56	úřednice	Potěhy	99	7	0
-2105	534331	1	5	7	2	Richard	Vlček	M	Ing.		42	obchodní zástupce	Potěhy	99	7	0
-2105	534331	1	5	7	3	Hana	Zahradníková	F			36	sociální pracovnice	Potěhy	7	7	0
-2105	534331	1	5	7	4	Věra	Řepová	F			28	úřednice	Potěhy	99	7	0
-2105	534331	1	5	7	5	Richard	Vlček	M	Ing.		66	důchodce	Potěhy	99	7	1
-2105	534331	1	5	7	6	Karel	Dvořák	M	Ing.		57	technolog	Potěhy	99	7	0
-2105	534331	1	5	7	7	Jana	Krejčíková	F	Mgr.		46	učitelka	Potěhy	99	7	0
-2105	534331	1	5	7	8	Miroslav	Volný	M	Ing.		48	technik	Potěhy	99	7	0
-2105	534331	1	5	7	9	Lucie	Hájková	F			18	studující	Potěhy	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2105	534331	1	1	801	1	Zdeněk	Rek			59	důchodce	Potěhy	99	80	0	M
+2105	534331	1	2	901	1	Karel	Novotný			49	technik MTZ	Potěhy	99	80	0	M
+2105	534331	1	3	803	1	Miloš	Sixta			61	řidič	Potěhy	99	80	0	M
+2105	534331	1	4	802	1	Ondřej	Sixta			34	policista	Potěhy	99	80	0	M
+2105	534331	1	5	7	1	Jana	Dvořáková			56	úřednice	Potěhy	99	7	0	F
+2105	534331	1	2	901	2	Alena	Prchalová			50	manažer	Potěhy	99	80	0	F
+2105	534331	1	5	7	2	Richard	Vlček	Ing.		42	obchodní zástupce	Potěhy	99	7	0	M
+2105	534331	1	2	901	3	Zdeněk	Strašil			54	podnikatel	Potěhy	99	80	0	M
+2105	534331	1	5	7	3	Hana	Zahradníková			36	sociální pracovnice	Potěhy	7	7	0	F
+2105	534331	1	2	901	4	Radim	Šimůnek			37	státní zaměstnanec	Potěhy	99	80	0	M
+2105	534331	1	5	7	4	Věra	Řepová			28	úřednice	Potěhy	99	7	0	F
+2105	534331	1	2	901	5	Stanislava	Šulcová			41	kuchařka	Potěhy	99	80	0	F
+2105	534331	1	5	7	5	Richard	Vlček	Ing.		66	důchodce	Potěhy	99	7	1	M
+2105	534331	1	2	901	6	Jindřich	Vondráček			53	stavbyvedoucí	Potěhy	99	80	0	M
+2105	534331	1	5	7	6	Karel	Dvořák	Ing.		57	technolog	Potěhy	99	7	0	M
+2105	534331	1	2	901	7	Stanislav	Čmakal			45	řidič	Potěhy	99	80	0	M
+2105	534331	1	5	7	7	Jana	Krejčíková	Mgr.		46	učitelka	Potěhy	99	7	0	F
+2105	534331	1	2	901	8	Miloslav	Peroutka			52	podnikatel	Potěhy	144	80	0	M
+2105	534331	1	5	7	8	Miroslav	Volný	Ing.		48	technik	Potěhy	99	7	0	M
+2105	534331	1	5	7	9	Lucie	Hájková			18	studující	Potěhy	99	7	0	F

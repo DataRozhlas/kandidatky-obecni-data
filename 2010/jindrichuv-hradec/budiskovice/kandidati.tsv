@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	546038	1	1	901	1	Luboš	Soukup	M	MVDr.		52	soukromý veterinární lékař	Budíškovice	99	80	0
-3103	546038	1	1	901	2	Josef	Fedra	M	Ing.		51	agronom	Manešovice	99	80	0
-3103	546038	1	1	901	3	Karel	Marek	M			55	vedoucí oblasti	Budíškovice	99	80	0
-3103	546038	1	1	901	4	František	Šindelář	M			49	hospodář SOU	Budíškovice	99	80	0
-3103	546038	1	1	901	5	Marcela	Fedrová	F			51	účetní	Manešovice	99	80	0
-3103	546038	1	1	901	6	Marie	Tománková	F			48	sociální pracovnice	Budíškovice	99	80	0
-3103	546038	1	1	901	7	Josef	Dohnal	M			38	instalatér	Budíškovice	99	80	0
-3103	546038	1	1	901	8	Radek	Musil	M			37	technik	Budíškovice	99	80	0
-3103	546038	1	1	901	9	Marcela	Tománková	F		DiS.	24	zdravotní sestra	Budíškovice	99	80	0
-3103	546038	1	1	901	10	Zdeňka	Soukupová	F			25	studentka	Budíškovice	99	80	0
-3103	546038	1	1	901	11	Pavel	Musil	M			45	řidič	Budíškovice	99	80	0
-3103	546038	1	2	902	1	Hana	Lederová	F			35	THP	Ostojkovice	99	80	0
-3103	546038	1	2	902	2	Petr	Švarc	M			47	celník	Ostojkovice	99	80	0
-3103	546038	1	2	902	3	Pavel	Táborský	M			41	pokrývač	Ostojkovice	99	80	0
-3103	546038	1	2	902	4	Josef	Ťuk	M			51	řidič	Ostojkovice	99	80	0
-3103	546038	1	2	902	5	Petr	Jirmus	M			41	THP	Ostojkovice	99	80	0
-3103	546038	1	2	902	6	Jan	Dokulil	M			52	zámečník	Ostojkovice	99	80	0
-3103	546038	1	2	902	7	Alois	Králík	M			51	opravář	Ostojkovice	99	80	0
-3103	546038	1	2	902	8	Jan	Stehlík	M			32	THP	Ostojkovice	99	80	0
-3103	546038	1	2	902	9	Světla	Stejskalová	F			56	učitelka	Ostojkovice	99	80	0
-3103	546038	1	2	902	10	Aleš	Stejskal	M			30	řidič	Ostojkovice	99	80	0
-3103	546038	1	2	902	11	Miroslav	Táborský	M			43	zedník	Ostojkovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	546038	1	1	901	1	Luboš	Soukup	MVDr.		52	soukromý veterinární lékař	Budíškovice	99	80	0	M
+3103	546038	1	2	902	1	Hana	Lederová			35	THP	Ostojkovice	99	80	0	F
+3103	546038	1	1	901	2	Josef	Fedra	Ing.		51	agronom	Manešovice	99	80	0	M
+3103	546038	1	2	902	2	Petr	Švarc			47	celník	Ostojkovice	99	80	0	M
+3103	546038	1	1	901	3	Karel	Marek			55	vedoucí oblasti	Budíškovice	99	80	0	M
+3103	546038	1	2	902	3	Pavel	Táborský			41	pokrývač	Ostojkovice	99	80	0	M
+3103	546038	1	1	901	4	František	Šindelář			49	hospodář SOU	Budíškovice	99	80	0	M
+3103	546038	1	2	902	4	Josef	Ťuk			51	řidič	Ostojkovice	99	80	0	M
+3103	546038	1	1	901	5	Marcela	Fedrová			51	účetní	Manešovice	99	80	0	F
+3103	546038	1	2	902	5	Petr	Jirmus			41	THP	Ostojkovice	99	80	0	M
+3103	546038	1	1	901	6	Marie	Tománková			48	sociální pracovnice	Budíškovice	99	80	0	F
+3103	546038	1	2	902	6	Jan	Dokulil			52	zámečník	Ostojkovice	99	80	0	M
+3103	546038	1	1	901	7	Josef	Dohnal			38	instalatér	Budíškovice	99	80	0	M
+3103	546038	1	2	902	7	Alois	Králík			51	opravář	Ostojkovice	99	80	0	M
+3103	546038	1	1	901	8	Radek	Musil			37	technik	Budíškovice	99	80	0	M
+3103	546038	1	2	902	8	Jan	Stehlík			32	THP	Ostojkovice	99	80	0	M
+3103	546038	1	1	901	9	Marcela	Tománková		DiS.	24	zdravotní sestra	Budíškovice	99	80	0	F
+3103	546038	1	2	902	9	Světla	Stejskalová			56	učitelka	Ostojkovice	99	80	0	F
+3103	546038	1	1	901	10	Zdeňka	Soukupová			25	studentka	Budíškovice	99	80	0	F
+3103	546038	1	2	902	10	Aleš	Stejskal			30	řidič	Ostojkovice	99	80	0	M
+3103	546038	1	1	901	11	Pavel	Musil			45	řidič	Budíškovice	99	80	0	M
+3103	546038	1	2	902	11	Miroslav	Táborský			43	zedník	Ostojkovice	99	80	0	M

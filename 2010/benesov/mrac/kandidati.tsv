@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	530204	1	1	53	1	Tomáš	Baťcha	M			31	OSVČ	Mrač	53	53	0
-2101	530204	1	1	53	2	Bohumil	Brejla	M			52	OSVČ	Mrač	53	53	0
-2101	530204	1	1	53	3	Tomáš	Velebil	M			31	likvidátor	Mrač	99	53	0
-2101	530204	1	1	53	4	Anna	Svobodová	F			44	přípravář, kalkulant	Mrač	53	53	0
-2101	530204	1	1	53	5	Lukáš	Pilát	M			25	účetní pohledávkových operací	Mrač	99	53	0
-2101	530204	1	1	53	6	Petr	Mašek	M			25	firemní poradce	Mrač	99	53	0
-2101	530204	1	1	53	7	Miloš	Pilát	M			50	kuchař	Mrač	99	53	0
-2101	530204	1	1	53	8	Milena	Baťchová	F			52	OSVČ	Mrač	53	53	0
-2101	530204	1	1	53	9	Jaroslav	Holubář	M			63	důchodce	Mrač	53	53	0
-2101	530204	1	1	53	10	František	Sýkora	M			70	důchodce	Mrač	99	53	0
-2101	530204	1	1	53	11	Zuzana	Brejlová	F			50	OSVČ	Mrač	53	53	0
-2101	530204	1	2	158	1	František	Zvolský	M			49	starosta obce	Mrač	99	158	0
-2101	530204	1	2	158	2	František	Fiala	M			56	technik dopravy	Mrač	99	158	0
-2101	530204	1	2	158	3	Radek	Dvořák	M	Ing.		34	vedoucí tech.organizace výroby	Mrač	99	158	0
-2101	530204	1	2	158	4	Jiří	Škramlík	M			54	technik ve strojírenství	Mrač	99	158	0
-2101	530204	1	2	158	5	Radek	Dvořák	M			28	technik	Mrač	99	158	0
-2101	530204	1	2	158	6	Vladimír	Hatala	M	Ing.		49	referent MTZ	Mrač	99	158	0
-2101	530204	1	2	158	7	Jana	Černá	F			47	administrativní pracovnice	Mrač	99	158	0
-2101	530204	1	2	158	8	Veronika	Pilařová	F			34	osoba samost. výdělečně činná	Mrač	99	158	0
-2101	530204	1	2	158	9	Jan	Štěpánek	M			32	osoba samost. výdělečně činná	Mrač	99	158	0
-2101	530204	1	2	158	10	Pavel	Škvor	M			31	servisní technik	Mrač	99	158	0
-2101	530204	1	2	158	11	Martin	Pilát	M			42	živnostník	Mrač	99	158	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	530204	1	1	53	1	Tomáš	Baťcha			31	OSVČ	Mrač	53	53	0	M
+2101	530204	1	2	158	1	František	Zvolský			49	starosta obce	Mrač	99	158	0	M
+2101	530204	1	1	53	2	Bohumil	Brejla			52	OSVČ	Mrač	53	53	0	M
+2101	530204	1	2	158	2	František	Fiala			56	technik dopravy	Mrač	99	158	0	M
+2101	530204	1	1	53	3	Tomáš	Velebil			31	likvidátor	Mrač	99	53	0	M
+2101	530204	1	2	158	3	Radek	Dvořák	Ing.		34	vedoucí tech.organizace výroby	Mrač	99	158	0	M
+2101	530204	1	1	53	4	Anna	Svobodová			44	přípravář, kalkulant	Mrač	53	53	0	F
+2101	530204	1	2	158	4	Jiří	Škramlík			54	technik ve strojírenství	Mrač	99	158	0	M
+2101	530204	1	1	53	5	Lukáš	Pilát			25	účetní pohledávkových operací	Mrač	99	53	0	M
+2101	530204	1	2	158	5	Radek	Dvořák			28	technik	Mrač	99	158	0	M
+2101	530204	1	1	53	6	Petr	Mašek			25	firemní poradce	Mrač	99	53	0	M
+2101	530204	1	2	158	6	Vladimír	Hatala	Ing.		49	referent MTZ	Mrač	99	158	0	M
+2101	530204	1	1	53	7	Miloš	Pilát			50	kuchař	Mrač	99	53	0	M
+2101	530204	1	2	158	7	Jana	Černá			47	administrativní pracovnice	Mrač	99	158	0	F
+2101	530204	1	1	53	8	Milena	Baťchová			52	OSVČ	Mrač	53	53	0	F
+2101	530204	1	2	158	8	Veronika	Pilařová			34	osoba samost. výdělečně činná	Mrač	99	158	0	F
+2101	530204	1	1	53	9	Jaroslav	Holubář			63	důchodce	Mrač	53	53	0	M
+2101	530204	1	2	158	9	Jan	Štěpánek			32	osoba samost. výdělečně činná	Mrač	99	158	0	M
+2101	530204	1	1	53	10	František	Sýkora			70	důchodce	Mrač	99	53	0	M
+2101	530204	1	2	158	10	Pavel	Škvor			31	servisní technik	Mrač	99	158	0	M
+2101	530204	1	1	53	11	Zuzana	Brejlová			50	OSVČ	Mrač	53	53	0	F
+2101	530204	1	2	158	11	Martin	Pilát			42	živnostník	Mrač	99	158	0	M

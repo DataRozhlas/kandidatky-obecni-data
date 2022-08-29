@@ -1,33 +1,33 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5302	575721	1	1	902	1	Rudolf	Kolbaba	M			56	OSVČ, hudebník	Staré Ždánice	99	80	0
-5302	575721	1	1	902	2	Zdeněk	Štumr	M			36	OSVČ, elektrikář	Staré Ždánice	99	80	0
-5302	575721	1	1	902	3	Jan	Čihák	M			29	automechanik	Staré Ždánice	99	80	0
-5302	575721	1	1	902	4	Lubomír	Petříček	M			31	servisní technik	Staré Ždánice	99	80	0
-5302	575721	1	1	902	5	Martin	Korunka	M	Ing.		39	ekonom	Staré Ždánice	99	80	0
-5302	575721	1	1	902	6	Miroslav	Zvěřina	M			30	tesař	Staré Ždánice	99	80	0
-5302	575721	1	1	902	7	Roman	Ptáček	M			32	topič	Staré Ždánice	99	80	0
-5302	575721	1	1	902	8	Jiří	Šanda	M			42	zemědělec	Staré Ždánice	99	80	0
-5302	575721	1	1	902	9	Petr	Pošvář	M			40	OSVČ	Staré Ždánice	99	80	0
-5302	575721	1	2	904	1	Jaroslav	Hyhlík	M			61	stavbyvedoucí	Staré Ždánice	99	80	0
-5302	575721	1	2	904	2	Milan	Ansorge	M			45	chemik-strojník vodohopodářských zařízení	Staré Ždánice	99	80	0
-5302	575721	1	2	904	3	Michala	Kněžourová	F	Ing.		33	samostatný  odborný referent	Staré Ždánice	99	80	0
-5302	575721	1	2	904	4	Vladimír	Hájek	M			43	technický pracovník	Staré Ždánice	99	80	0
-5302	575721	1	2	904	5	Roman	Komárek	M			36	manager prodeje	Staré Ždánice	99	80	0
-5302	575721	1	2	904	6	Lucie	Pošvářová	F			37	samostatný odborný referent	Staré Ždánice	99	80	0
-5302	575721	1	2	904	7	Jiří	Malý	M			35	mechanik	Staré Ždánice	99	80	0
-5302	575721	1	3	903	1	Josef	Holub	M			54	řidič	Staré Ždánice	99	80	0
-5302	575721	1	3	903	2	Lenka	Horáková	F	Ing.		36	aplikační konzultant	Staré Ždánice	99	80	0
-5302	575721	1	3	903	3	Pavel	Pátek	M			38	řidič	Staré Ždánice	99	80	0
-5302	575721	1	3	903	4	Ladislav	Štěpánek	M	Ing.		67	ředitel AGD Křičeň	Staré Ždánice	99	80	0
-5302	575721	1	3	903	5	Josef	Štěpánek	M			36	servisní mechanik	Staré Ždánice	99	80	0
-5302	575721	1	3	903	6	Josef	Malý	M			40	mechanik	Staré Ždánice	99	80	0
-5302	575721	1	3	903	7	František	Holický	M			39	řidič	Staré Ždánice	99	80	0
-5302	575721	1	4	901	1	Zuzana	Čiháková	F			56	skladnice	Staré Ždánice	99	80	0
-5302	575721	1	4	901	2	Lenka	Dostálková	F			36	dělnice	Staré Ždánice	99	80	0
-5302	575721	1	4	901	3	Helena	Ptáčková	F	Ing.		31	mateřská dovolená	Staré Ždánice	99	80	0
-5302	575721	1	4	901	4	Alena	Kollmanová	F			62	školnice	Staré Ždánice	99	80	0
-5302	575721	1	4	901	5	Petra	Flégrová	F			35	zdravotní sestra	Staré Ždánice	99	80	0
-5302	575721	1	4	901	6	Hana	Kohoutová	F			49	odborná referentka	Staré Ždánice	99	80	0
-5302	575721	1	4	901	7	Věra	Kohoutková	F			61	mzdová účetní	Staré Ždánice	99	80	0
-5302	575721	1	4	901	8	Ludmila	Holubová	F			55	vedoucí školní jídelny	Staré Ždánice	99	80	0
-5302	575721	1	4	901	9	Iva	Notková	F			42	skladnice	Staré Ždánice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5302	575721	1	1	902	1	Rudolf	Kolbaba			56	OSVČ, hudebník	Staré Ždánice	99	80	0	M
+5302	575721	1	2	904	1	Jaroslav	Hyhlík			61	stavbyvedoucí	Staré Ždánice	99	80	0	M
+5302	575721	1	3	903	1	Josef	Holub			54	řidič	Staré Ždánice	99	80	0	M
+5302	575721	1	4	901	1	Zuzana	Čiháková			56	skladnice	Staré Ždánice	99	80	0	F
+5302	575721	1	1	902	2	Zdeněk	Štumr			36	OSVČ, elektrikář	Staré Ždánice	99	80	0	M
+5302	575721	1	2	904	2	Milan	Ansorge			45	chemik-strojník vodohopodářských zařízení	Staré Ždánice	99	80	0	M
+5302	575721	1	3	903	2	Lenka	Horáková	Ing.		36	aplikační konzultant	Staré Ždánice	99	80	0	F
+5302	575721	1	4	901	2	Lenka	Dostálková			36	dělnice	Staré Ždánice	99	80	0	F
+5302	575721	1	1	902	3	Jan	Čihák			29	automechanik	Staré Ždánice	99	80	0	M
+5302	575721	1	2	904	3	Michala	Kněžourová	Ing.		33	samostatný  odborný referent	Staré Ždánice	99	80	0	F
+5302	575721	1	3	903	3	Pavel	Pátek			38	řidič	Staré Ždánice	99	80	0	M
+5302	575721	1	4	901	3	Helena	Ptáčková	Ing.		31	mateřská dovolená	Staré Ždánice	99	80	0	F
+5302	575721	1	1	902	4	Lubomír	Petříček			31	servisní technik	Staré Ždánice	99	80	0	M
+5302	575721	1	2	904	4	Vladimír	Hájek			43	technický pracovník	Staré Ždánice	99	80	0	M
+5302	575721	1	3	903	4	Ladislav	Štěpánek	Ing.		67	ředitel AGD Křičeň	Staré Ždánice	99	80	0	M
+5302	575721	1	4	901	4	Alena	Kollmanová			62	školnice	Staré Ždánice	99	80	0	F
+5302	575721	1	1	902	5	Martin	Korunka	Ing.		39	ekonom	Staré Ždánice	99	80	0	M
+5302	575721	1	2	904	5	Roman	Komárek			36	manager prodeje	Staré Ždánice	99	80	0	M
+5302	575721	1	3	903	5	Josef	Štěpánek			36	servisní mechanik	Staré Ždánice	99	80	0	M
+5302	575721	1	4	901	5	Petra	Flégrová			35	zdravotní sestra	Staré Ždánice	99	80	0	F
+5302	575721	1	1	902	6	Miroslav	Zvěřina			30	tesař	Staré Ždánice	99	80	0	M
+5302	575721	1	2	904	6	Lucie	Pošvářová			37	samostatný odborný referent	Staré Ždánice	99	80	0	F
+5302	575721	1	3	903	6	Josef	Malý			40	mechanik	Staré Ždánice	99	80	0	M
+5302	575721	1	4	901	6	Hana	Kohoutová			49	odborná referentka	Staré Ždánice	99	80	0	F
+5302	575721	1	1	902	7	Roman	Ptáček			32	topič	Staré Ždánice	99	80	0	M
+5302	575721	1	2	904	7	Jiří	Malý			35	mechanik	Staré Ždánice	99	80	0	M
+5302	575721	1	3	903	7	František	Holický			39	řidič	Staré Ždánice	99	80	0	M
+5302	575721	1	4	901	7	Věra	Kohoutková			61	mzdová účetní	Staré Ždánice	99	80	0	F
+5302	575721	1	1	902	8	Jiří	Šanda			42	zemědělec	Staré Ždánice	99	80	0	M
+5302	575721	1	4	901	8	Ludmila	Holubová			55	vedoucí školní jídelny	Staré Ždánice	99	80	0	F
+5302	575721	1	1	902	9	Petr	Pošvář			40	OSVČ	Staré Ždánice	99	80	0	M
+5302	575721	1	4	901	9	Iva	Notková			42	skladnice	Staré Ždánice	99	80	0	F

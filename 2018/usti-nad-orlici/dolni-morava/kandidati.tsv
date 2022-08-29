@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	580163	1	1	902	1	Ladislav	Janočko	M			65	místostarosta	Velká Morava	99	80	A
-5304	580163	1	1	902	2	Rostislav	Král	M			43	hasič	Velká Morava	99	80	A
-5304	580163	1	1	902	3	Radek	Adamec	M			45	údržbář	Velká Morava	99	80	A
-5304	580163	1	1	902	4	Eva	Cehová	F			49	OSVČ	Velká Morava	99	80	A
-5304	580163	1	1	902	5	Tomáš	Šemro	M			48	dělník	Velká Morava	99	80	A
-5304	580163	1	1	902	6	Jan	Válek	M			43	mechanik	Velká Morava	99	80	A
-5304	580163	1	1	902	7	Vladimír	Petržela	M			62	OSVČ	Velká Morava	99	80	A
-5304	580163	1	1	902	8	Petr	Čermák	M			42	údržbář	Velká Morava	99	80	A
-5304	580163	1	1	902	9	Lukáš	Formánek	M			32	mechanik	Dolní Morava	99	80	A
-5304	580163	1	2	903	1	Petr	Vrzal	M			43	soukromý podnikatel	Dolní Morava	99	80	A
-5304	580163	1	2	903	2	Zdeněk	Stránský	M			52	celník	Dolní Morava	99	80	A
-5304	580163	1	2	903	3	Jiřina	Kholová	F			43	soukromý podnikatel	Dolní Morava	99	80	A
-5304	580163	1	2	903	4	Josef	Klimeš	M			52	soukromý podnikatel	Velká Morava	99	80	A
-5304	580163	1	2	903	5	Libuše	Nováková	F			45	soukromý podnikatel	Velká Morava	99	80	A
-5304	580163	1	2	903	6	Vratislav	Krobot	M			45	soukromý podnikatel	Velká Morava	99	80	A
-5304	580163	1	2	903	7	Robert	Látal	M			45	invalidní důchodce	Velká Morava	99	80	A
-5304	580163	1	3	901	1	Richard	Novák	M	Ing. arch.		33	starosta	Velká Morava	99	80	A
-5304	580163	1	3	901	2	Karel	Adamec	M			40	živnostník	Velká Morava	99	80	A
-5304	580163	1	3	901	3	Lucie	Krupičková	F			43	živnostník	Dolní Morava	99	80	A
-5304	580163	1	3	901	4	Jaroslav	Míka	M			43	lesní dělník	Dolní Morava	99	80	A
-5304	580163	1	3	901	5	Ivana	Grežová	F			41	lesní dělnice	Velká Morava	99	80	A
-5304	580163	1	3	901	6	Radek	Vrábel	M			44	tesař	Dolní Morava	99	80	A
-5304	580163	1	3	901	7	Edita	Novotná	F			33	referentka	Dolní Morava	99	80	A
-5304	580163	1	3	901	8	Ladislav	Bednář	M			57	revírník	Velká Morava	99	80	A
-5304	580163	1	3	901	9	Vladimír	Vyskočil	M			55	revírník	Horní Morava	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	580163	1	1	902	1	Ladislav	Janočko			65	místostarosta	Velká Morava	99	80	A	M
+5304	580163	1	2	903	1	Petr	Vrzal			43	soukromý podnikatel	Dolní Morava	99	80	A	M
+5304	580163	1	3	901	1	Richard	Novák	Ing. arch.		33	starosta	Velká Morava	99	80	A	M
+5304	580163	1	1	902	2	Rostislav	Král			43	hasič	Velká Morava	99	80	A	M
+5304	580163	1	2	903	2	Zdeněk	Stránský			52	celník	Dolní Morava	99	80	A	M
+5304	580163	1	3	901	2	Karel	Adamec			40	živnostník	Velká Morava	99	80	A	M
+5304	580163	1	1	902	3	Radek	Adamec			45	údržbář	Velká Morava	99	80	A	M
+5304	580163	1	2	903	3	Jiřina	Kholová			43	soukromý podnikatel	Dolní Morava	99	80	A	F
+5304	580163	1	3	901	3	Lucie	Krupičková			43	živnostník	Dolní Morava	99	80	A	F
+5304	580163	1	1	902	4	Eva	Cehová			49	OSVČ	Velká Morava	99	80	A	F
+5304	580163	1	2	903	4	Josef	Klimeš			52	soukromý podnikatel	Velká Morava	99	80	A	M
+5304	580163	1	3	901	4	Jaroslav	Míka			43	lesní dělník	Dolní Morava	99	80	A	M
+5304	580163	1	1	902	5	Tomáš	Šemro			48	dělník	Velká Morava	99	80	A	M
+5304	580163	1	2	903	5	Libuše	Nováková			45	soukromý podnikatel	Velká Morava	99	80	A	F
+5304	580163	1	3	901	5	Ivana	Grežová			41	lesní dělnice	Velká Morava	99	80	A	F
+5304	580163	1	1	902	6	Jan	Válek			43	mechanik	Velká Morava	99	80	A	M
+5304	580163	1	2	903	6	Vratislav	Krobot			45	soukromý podnikatel	Velká Morava	99	80	A	M
+5304	580163	1	3	901	6	Radek	Vrábel			44	tesař	Dolní Morava	99	80	A	M
+5304	580163	1	1	902	7	Vladimír	Petržela			62	OSVČ	Velká Morava	99	80	A	M
+5304	580163	1	2	903	7	Robert	Látal			45	invalidní důchodce	Velká Morava	99	80	A	M
+5304	580163	1	3	901	7	Edita	Novotná			33	referentka	Dolní Morava	99	80	A	F
+5304	580163	1	1	902	8	Petr	Čermák			42	údržbář	Velká Morava	99	80	A	M
+5304	580163	1	3	901	8	Ladislav	Bednář			57	revírník	Velká Morava	99	80	A	M
+5304	580163	1	1	902	9	Lukáš	Formánek			32	mechanik	Dolní Morava	99	80	A	M
+5304	580163	1	3	901	9	Vladimír	Vyskočil			55	revírník	Horní Morava	99	80	A	M

@@ -1,36 +1,36 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	539856	1	1	53	1	Radoslav	Schmitt	M			51	stavbyvedoucí	Všenory	53	53	0
-2110	539856	1	1	53	2	Karel	Škába	M	Ing.		56	podnikatel	Všenory	99	53	0
-2110	539856	1	1	53	3	Jiří	Dobruský	M			57	zástupce ředitelky ZŠ	Všenory	53	53	0
-2110	539856	1	1	53	4	Karolina	Stonjeková	F	Mgr.		27	obchodní manažerka	Všenory	53	53	0
-2110	539856	1	1	53	5	Lukáš	Pavel	M	Mgr.		41	hlavní stavbyvedoucí	Všenory	99	53	0
-2110	539856	1	1	53	6	Renata	Pavlíková	F	Mgr.		43	středoškolská učitelka	Všenory	99	53	0
-2110	539856	1	1	53	7	Zbyněk	Macoun	M			48	provozní dispečer	Všenory	99	53	0
-2110	539856	1	1	53	8	Olga	Dvořáková	F	MVDr.		52	veterinární lékařka	Všenory	99	53	0
-2110	539856	1	1	53	9	Jan	Maget	M	Mgr.		67	výtvarník	Všenory	99	53	0
-2110	539856	1	2	364	1	Mikuláš	Kosák	M	MUDr.		30	lékař	Všenory	5	5	0
-2110	539856	1	2	364	2	Kateřina	Samojská	F	Mgr.		40	historička architektury	Všenory	99	80	0
-2110	539856	1	2	364	3	Václav	Götz	M	Ing.		41	projektový manažer	Všenory	5	5	0
-2110	539856	1	2	364	4	Pavel	Nechvíle	M			41	hudebník	Všenory	99	80	0
-2110	539856	1	2	364	5	Renata	Fejfarová	F	RNDr.		47	manažerka	Všenory	99	80	0
-2110	539856	1	2	364	6	Radmila	Oličová	F			41	administrativní pracovnice	Všenory	99	80	0
-2110	539856	1	2	364	7	Václav	Šmilauer	M	Mgr. Ing.	Ph.D.	30	vědeckovýzkumný pracovník	Všenory	99	80	0
-2110	539856	1	2	364	8	Martina	Horská	F	Mgr.		36	lektorka	Všenory	99	80	0
-2110	539856	1	3	901	1	Ladislav	Havrda	M			42	OSVČ	Všenory	99	80	0
-2110	539856	1	3	901	2	Petr	Samek	M	Ing.		41	bankovní manažer	Všenory	99	80	0
-2110	539856	1	3	901	3	Petr	Zedník	M			44	OSVČ	Všenory	99	80	0
-2110	539856	1	3	901	4	Marie	Mráčková	F	Ing.		42	ekonomka	Všenory	99	80	0
-2110	539856	1	3	901	5	Pavlína	Rasochová	F			37	majitelka penzionu	Všenory	99	80	0
-2110	539856	1	3	901	6	Stanislav	Nemrich	M			36	projektant	Všenory	99	80	0
-2110	539856	1	3	901	7	Monika	Semová	F			56	státní úřednice	Všenory	99	80	0
-2110	539856	1	3	901	8	Jaroslav	Blažek	M			42	OSVČ	Všenory	99	80	0
-2110	539856	1	3	901	9	Roman	Janovský	M			44	IT specialista	Všenory	99	80	0
-2110	539856	1	4	470	1	Zdeněk	Seidler	M	Ing.		60	starosta	Všenory	99	166	0
-2110	539856	1	4	470	2	Vladimír	Charvát	M	Ing.		60	zemědělský specialista	Všenory	99	166	0
-2110	539856	1	4	470	3	Svatava	Pajdlová	F	MUDr.		64	lékařka	Všenory	99	166	0
-2110	539856	1	4	470	4	Jan	Chalupecký	M	Ing.		51	produktový specialista	Všenory	99	80	0
-2110	539856	1	4	470	5	Richard	Feglar	M			43	OSVČ	Všenory	99	166	0
-2110	539856	1	4	470	6	Alena	Sahánková	F	Mgr.		57	knihovnice-referentka	Všenory	99	166	0
-2110	539856	1	4	470	7	Pavel	Bacík	M	Ing.		34	technik	Všenory	99	166	0
-2110	539856	1	4	470	8	Zdeněk	Pražský	M	Ing.		60	projektant-statik	Všenory	99	166	0
-2110	539856	1	4	470	9	Jiří	Reif	M	Mgr.		37	manažer prodeje	Všenory	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	539856	1	1	53	1	Radoslav	Schmitt			51	stavbyvedoucí	Všenory	53	53	0	M
+2110	539856	1	2	364	1	Mikuláš	Kosák	MUDr.		30	lékař	Všenory	5	5	0	M
+2110	539856	1	3	901	1	Ladislav	Havrda			42	OSVČ	Všenory	99	80	0	M
+2110	539856	1	4	470	1	Zdeněk	Seidler	Ing.		60	starosta	Všenory	99	166	0	M
+2110	539856	1	1	53	2	Karel	Škába	Ing.		56	podnikatel	Všenory	99	53	0	M
+2110	539856	1	2	364	2	Kateřina	Samojská	Mgr.		40	historička architektury	Všenory	99	80	0	F
+2110	539856	1	3	901	2	Petr	Samek	Ing.		41	bankovní manažer	Všenory	99	80	0	M
+2110	539856	1	4	470	2	Vladimír	Charvát	Ing.		60	zemědělský specialista	Všenory	99	166	0	M
+2110	539856	1	1	53	3	Jiří	Dobruský			57	zástupce ředitelky ZŠ	Všenory	53	53	0	M
+2110	539856	1	2	364	3	Václav	Götz	Ing.		41	projektový manažer	Všenory	5	5	0	M
+2110	539856	1	3	901	3	Petr	Zedník			44	OSVČ	Všenory	99	80	0	M
+2110	539856	1	4	470	3	Svatava	Pajdlová	MUDr.		64	lékařka	Všenory	99	166	0	F
+2110	539856	1	1	53	4	Karolina	Stonjeková	Mgr.		27	obchodní manažerka	Všenory	53	53	0	F
+2110	539856	1	2	364	4	Pavel	Nechvíle			41	hudebník	Všenory	99	80	0	M
+2110	539856	1	3	901	4	Marie	Mráčková	Ing.		42	ekonomka	Všenory	99	80	0	F
+2110	539856	1	4	470	4	Jan	Chalupecký	Ing.		51	produktový specialista	Všenory	99	80	0	M
+2110	539856	1	1	53	5	Lukáš	Pavel	Mgr.		41	hlavní stavbyvedoucí	Všenory	99	53	0	M
+2110	539856	1	2	364	5	Renata	Fejfarová	RNDr.		47	manažerka	Všenory	99	80	0	F
+2110	539856	1	3	901	5	Pavlína	Rasochová			37	majitelka penzionu	Všenory	99	80	0	F
+2110	539856	1	4	470	5	Richard	Feglar			43	OSVČ	Všenory	99	166	0	M
+2110	539856	1	1	53	6	Renata	Pavlíková	Mgr.		43	středoškolská učitelka	Všenory	99	53	0	F
+2110	539856	1	2	364	6	Radmila	Oličová			41	administrativní pracovnice	Všenory	99	80	0	F
+2110	539856	1	3	901	6	Stanislav	Nemrich			36	projektant	Všenory	99	80	0	M
+2110	539856	1	4	470	6	Alena	Sahánková	Mgr.		57	knihovnice-referentka	Všenory	99	166	0	F
+2110	539856	1	1	53	7	Zbyněk	Macoun			48	provozní dispečer	Všenory	99	53	0	M
+2110	539856	1	2	364	7	Václav	Šmilauer	Mgr. Ing.	Ph.D.	30	vědeckovýzkumný pracovník	Všenory	99	80	0	M
+2110	539856	1	3	901	7	Monika	Semová			56	státní úřednice	Všenory	99	80	0	F
+2110	539856	1	4	470	7	Pavel	Bacík	Ing.		34	technik	Všenory	99	166	0	M
+2110	539856	1	1	53	8	Olga	Dvořáková	MVDr.		52	veterinární lékařka	Všenory	99	53	0	F
+2110	539856	1	2	364	8	Martina	Horská	Mgr.		36	lektorka	Všenory	99	80	0	F
+2110	539856	1	3	901	8	Jaroslav	Blažek			42	OSVČ	Všenory	99	80	0	M
+2110	539856	1	4	470	8	Zdeněk	Pražský	Ing.		60	projektant-statik	Všenory	99	166	0	M
+2110	539856	1	1	53	9	Jan	Maget	Mgr.		67	výtvarník	Všenory	99	53	0	M
+2110	539856	1	3	901	9	Roman	Janovský			44	IT specialista	Všenory	99	80	0	M
+2110	539856	1	4	470	9	Jiří	Reif	Mgr.		37	manažer prodeje	Všenory	99	80	0	M

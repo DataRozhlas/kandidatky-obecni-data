@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	577936	1	1	339	1	Josef	Abraham	M	Ing.		57	starosta obce	Cerekvice nad Loučnou	1	1	A
-5303	577936	1	1	339	2	Pavel	Rezek	M	Mgr.		45	učitel ZŠ	Cerekvice nad Loučnou	99	1	A
-5303	577936	1	1	339	3	Eva	Šedová	F			50	účetní	Cerekvice nad Loučnou	99	181	A
-5303	577936	1	1	339	4	Zdeněk	Kysilka	M			35	OSVČ - autodoprava	Cerekvice nad Loučnou	99	181	A
-5303	577936	1	1	339	5	Pavel	Novotný	M	Ing.		41	středoškolský učitel	Cerekvice nad Loučnou	99	181	A
-5303	577936	1	1	339	6	Ludmila	Škrbová	F			62	bývalá učitelka MŠ	Pekla	99	181	A
-5303	577936	1	1	339	7	Petr	Kopecký	M	Ing.		39	ředitel obchodu	Cerekvice nad Loučnou	99	1	A
-5303	577936	1	1	339	8	Jana	Abrahamová	F			35	učitelka MŠ na RD	Cerekvice nad Loučnou	99	181	A
-5303	577936	1	1	339	9	Miroslav	Jůza	M	Bc.		34	pracovník kvality	Cerekvice nad Loučnou	99	181	A
-5303	577936	1	1	339	10	Bohdana	Jůzová	F			46	úřednice soc. úřadu	Cerekvice nad Loučnou	99	181	A
-5303	577936	1	2	901	1	Miroslav	Kusý	M			57	stavební technik	Cerekvice nad Loučnou	99	80	A
-5303	577936	1	2	901	2	Milan	Tesař	M			47	obchodní referent	Pekla	99	80	A
-5303	577936	1	2	901	3	Pavel	Duchoslav	M			41	vedoucí technolog	Cerekvice nad Loučnou	99	80	A
-5303	577936	1	2	901	4	Jiří	Adamský	M			35	rozpočtový technik	Cerekvice nad Loučnou	99	80	A
-5303	577936	1	2	901	5	Petr	Voříšek	M			39	obchodní zástupce	Cerekvice nad Loučnou	99	80	A
-5303	577936	1	2	901	6	Jakub	Tomaš	M			28	OSVČ - autodoprava	Cerekvice nad Loučnou	99	80	A
-5303	577936	1	2	901	7	Oldřiška	Chalupníková	F			54	asist. stř. Cerekvice n/L.	Cerekvice nad Loučnou	99	80	A
-5303	577936	1	2	901	8	Tomáš	Kusý	M	Ing.		26	referent územ. plán.	Cerekvice nad Loučnou	99	80	A
-5303	577936	1	2	901	9	Jakub	Vostrčil	M			26	kontrola kvality	Cerekvice nad Loučnou	99	80	A
-5303	577936	1	2	901	10	Karel	Kovář	M			67	ředitel ZŠ	Cerekvice nad Loučnou	99	80	A
-5303	577936	1	2	901	11	Václav	Pečenka	M			49	OSVČ - stavebnictví	Cerekvice nad Loučnou	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	577936	1	1	339	1	Josef	Abraham	Ing.		57	starosta obce	Cerekvice nad Loučnou	1	1	A	M
+5303	577936	1	2	901	1	Miroslav	Kusý			57	stavební technik	Cerekvice nad Loučnou	99	80	A	M
+5303	577936	1	1	339	2	Pavel	Rezek	Mgr.		45	učitel ZŠ	Cerekvice nad Loučnou	99	1	A	M
+5303	577936	1	2	901	2	Milan	Tesař			47	obchodní referent	Pekla	99	80	A	M
+5303	577936	1	1	339	3	Eva	Šedová			50	účetní	Cerekvice nad Loučnou	99	181	A	F
+5303	577936	1	2	901	3	Pavel	Duchoslav			41	vedoucí technolog	Cerekvice nad Loučnou	99	80	A	M
+5303	577936	1	1	339	4	Zdeněk	Kysilka			35	OSVČ - autodoprava	Cerekvice nad Loučnou	99	181	A	M
+5303	577936	1	2	901	4	Jiří	Adamský			35	rozpočtový technik	Cerekvice nad Loučnou	99	80	A	M
+5303	577936	1	1	339	5	Pavel	Novotný	Ing.		41	středoškolský učitel	Cerekvice nad Loučnou	99	181	A	M
+5303	577936	1	2	901	5	Petr	Voříšek			39	obchodní zástupce	Cerekvice nad Loučnou	99	80	A	M
+5303	577936	1	1	339	6	Ludmila	Škrbová			62	bývalá učitelka MŠ	Pekla	99	181	A	F
+5303	577936	1	2	901	6	Jakub	Tomaš			28	OSVČ - autodoprava	Cerekvice nad Loučnou	99	80	A	M
+5303	577936	1	1	339	7	Petr	Kopecký	Ing.		39	ředitel obchodu	Cerekvice nad Loučnou	99	1	A	M
+5303	577936	1	2	901	7	Oldřiška	Chalupníková			54	asist. stř. Cerekvice n/L.	Cerekvice nad Loučnou	99	80	A	F
+5303	577936	1	1	339	8	Jana	Abrahamová			35	učitelka MŠ na RD	Cerekvice nad Loučnou	99	181	A	F
+5303	577936	1	2	901	8	Tomáš	Kusý	Ing.		26	referent územ. plán.	Cerekvice nad Loučnou	99	80	A	M
+5303	577936	1	1	339	9	Miroslav	Jůza	Bc.		34	pracovník kvality	Cerekvice nad Loučnou	99	181	A	M
+5303	577936	1	2	901	9	Jakub	Vostrčil			26	kontrola kvality	Cerekvice nad Loučnou	99	80	A	M
+5303	577936	1	1	339	10	Bohdana	Jůzová			46	úřednice soc. úřadu	Cerekvice nad Loučnou	99	181	A	F
+5303	577936	1	2	901	10	Karel	Kovář			67	ředitel ZŠ	Cerekvice nad Loučnou	99	80	A	M
+5303	577936	1	2	901	11	Václav	Pečenka			49	OSVČ - stavebnictví	Cerekvice nad Loučnou	99	80	A	M

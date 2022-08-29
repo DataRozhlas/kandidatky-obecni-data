@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	569305	1	1	1	1	Martin	Blaťák	M			37	stolář	Chromeč	1	1	0
-7105	569305	1	1	1	2	Josef	Hojgr	M			53	automechanik	Chromeč	99	1	0
-7105	569305	1	1	1	3	Marie	Čmakalová	F			65	důchodkyně	Chromeč	99	1	0
-7105	569305	1	1	1	4	Jan	Řežucha	M			75	důchodce	Chromeč	1	1	0
-7105	569305	1	1	1	5	Kateřina	Hanáková	F			24	prodavačka	Chromeč	1	1	0
-7105	569305	1	1	1	6	Antonín	Straka	M			68	důchodce	Chromeč	99	1	0
-7105	569305	1	1	1	7	Ivan	Andrle	M			63	důchodce	Chromeč	99	1	0
-7105	569305	1	1	1	8	Anna	Hanáková	F			50	ošetřovatelka	Chromeč	1	1	0
-7105	569305	1	1	1	9	Josef	Hošek	M			56	člen ZOD Bludov	Chromeč	99	1	0
-7105	569305	1	2	5	1	Pavlína	Večeřová	F	Mgr.		25	advokátní koncipientka	Chromeč	5	5	0
-7105	569305	1	2	5	2	Karel	Kubíček	M			27	dispečer výroby	Chromeč	99	5	0
-7105	569305	1	2	5	3	Tatjana	Svobodová	F	Ing.		38	technolog	Chromeč	99	5	0
-7105	569305	1	2	5	4	Pavel	Večeř	M			47	řidič	Chromeč	99	5	0
-7105	569305	1	2	5	5	Jindřich	Hýbl	M			25	technik	Chromeč	99	5	0
-7105	569305	1	2	5	6	Květoslava	Aplová	F			56	důchodce	Chromeč	99	5	0
-7105	569305	1	2	5	7	Věra	Blaťáková	F			35	technolog	Chromeč	99	5	0
-7105	569305	1	2	5	8	Radomil	Řežucha	M			22	student	Chromeč	99	5	0
-7105	569305	1	2	5	9	Kristýna	Mikulová	F	Bc.		22	studentka	Chromeč	99	5	0
-7105	569305	1	3	53	1	František	Brdečka	M	Ing.		47	podnikatel	Chromeč	53	53	0
-7105	569305	1	3	53	2	Jan	Blažek	M			68	technik	Chromeč	157	53	0
-7105	569305	1	3	53	3	Stanislav	Čmakal	M			36	podnikatel	Chromeč	99	53	0
-7105	569305	1	3	53	4	Martin	Flašar	M			27	dispečer	Chromeč	99	53	0
-7105	569305	1	3	53	5	Jana	Vepřková	F			51	personalistka, ekonom	Chromeč	99	53	0
-7105	569305	1	3	53	6	Zdeněk	Mareš	M			44	dělník	Chromeč	99	53	0
-7105	569305	1	3	53	7	Miroslav	Žváček	M			35	podnikatel	Chromeč	99	53	0
-7105	569305	1	3	53	8	František	Janhuba	M			68	důchodce	Chromeč	53	53	0
-7105	569305	1	3	53	9	Emilie	Wagnerová	F			63	důchodce	Chromeč	99	53	0
-7105	569305	1	4	181	1	František	Nezbeda	M	Ing.		59	chemik - technolog	Chromeč	99	181	0
-7105	569305	1	4	181	2	František	Řežucha	M			49	živnostník	Chromeč	99	181	0
-7105	569305	1	4	181	3	Alena	Johnová	F			26	operátorka	Chromeč	99	181	0
-7105	569305	1	4	181	4	Libor	Krňávek	M			32	elektromechanik	Chromeč	99	181	0
-7105	569305	1	4	181	5	Marta	Bartošková	F			39	ekonomický pracovník	Chromeč	99	181	0
-7105	569305	1	4	181	6	Stanislava	Šimová	F	Mgr.		59	vychovatelka	Chromeč	99	181	0
-7105	569305	1	4	181	7	Věra	Janaszová	F			50	účetní	Chromeč	99	181	0
-7105	569305	1	4	181	8	Josef	John	M			45	autodopravce	Chromeč	99	181	0
-7105	569305	1	4	181	9	Josef	Matura	M			64	důchodce	Chromeč	99	181	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	569305	1	1	1	1	Martin	Blaťák			37	stolář	Chromeč	1	1	0	M
+7105	569305	1	2	5	1	Pavlína	Večeřová	Mgr.		25	advokátní koncipientka	Chromeč	5	5	0	F
+7105	569305	1	3	53	1	František	Brdečka	Ing.		47	podnikatel	Chromeč	53	53	0	M
+7105	569305	1	4	181	1	František	Nezbeda	Ing.		59	chemik - technolog	Chromeč	99	181	0	M
+7105	569305	1	1	1	2	Josef	Hojgr			53	automechanik	Chromeč	99	1	0	M
+7105	569305	1	2	5	2	Karel	Kubíček			27	dispečer výroby	Chromeč	99	5	0	M
+7105	569305	1	3	53	2	Jan	Blažek			68	technik	Chromeč	157	53	0	M
+7105	569305	1	4	181	2	František	Řežucha			49	živnostník	Chromeč	99	181	0	M
+7105	569305	1	1	1	3	Marie	Čmakalová			65	důchodkyně	Chromeč	99	1	0	F
+7105	569305	1	2	5	3	Tatjana	Svobodová	Ing.		38	technolog	Chromeč	99	5	0	F
+7105	569305	1	3	53	3	Stanislav	Čmakal			36	podnikatel	Chromeč	99	53	0	M
+7105	569305	1	4	181	3	Alena	Johnová			26	operátorka	Chromeč	99	181	0	F
+7105	569305	1	1	1	4	Jan	Řežucha			75	důchodce	Chromeč	1	1	0	M
+7105	569305	1	2	5	4	Pavel	Večeř			47	řidič	Chromeč	99	5	0	M
+7105	569305	1	3	53	4	Martin	Flašar			27	dispečer	Chromeč	99	53	0	M
+7105	569305	1	4	181	4	Libor	Krňávek			32	elektromechanik	Chromeč	99	181	0	M
+7105	569305	1	1	1	5	Kateřina	Hanáková			24	prodavačka	Chromeč	1	1	0	F
+7105	569305	1	2	5	5	Jindřich	Hýbl			25	technik	Chromeč	99	5	0	M
+7105	569305	1	3	53	5	Jana	Vepřková			51	personalistka, ekonom	Chromeč	99	53	0	F
+7105	569305	1	4	181	5	Marta	Bartošková			39	ekonomický pracovník	Chromeč	99	181	0	F
+7105	569305	1	1	1	6	Antonín	Straka			68	důchodce	Chromeč	99	1	0	M
+7105	569305	1	2	5	6	Květoslava	Aplová			56	důchodce	Chromeč	99	5	0	F
+7105	569305	1	3	53	6	Zdeněk	Mareš			44	dělník	Chromeč	99	53	0	M
+7105	569305	1	4	181	6	Stanislava	Šimová	Mgr.		59	vychovatelka	Chromeč	99	181	0	F
+7105	569305	1	1	1	7	Ivan	Andrle			63	důchodce	Chromeč	99	1	0	M
+7105	569305	1	2	5	7	Věra	Blaťáková			35	technolog	Chromeč	99	5	0	F
+7105	569305	1	3	53	7	Miroslav	Žváček			35	podnikatel	Chromeč	99	53	0	M
+7105	569305	1	4	181	7	Věra	Janaszová			50	účetní	Chromeč	99	181	0	F
+7105	569305	1	1	1	8	Anna	Hanáková			50	ošetřovatelka	Chromeč	1	1	0	F
+7105	569305	1	2	5	8	Radomil	Řežucha			22	student	Chromeč	99	5	0	M
+7105	569305	1	3	53	8	František	Janhuba			68	důchodce	Chromeč	53	53	0	M
+7105	569305	1	4	181	8	Josef	John			45	autodopravce	Chromeč	99	181	0	M
+7105	569305	1	1	1	9	Josef	Hošek			56	člen ZOD Bludov	Chromeč	99	1	0	M
+7105	569305	1	2	5	9	Kristýna	Mikulová	Bc.		22	studentka	Chromeč	99	5	0	F
+7105	569305	1	3	53	9	Emilie	Wagnerová			63	důchodce	Chromeč	99	53	0	F
+7105	569305	1	4	181	9	Josef	Matura			64	důchodce	Chromeč	99	181	0	M

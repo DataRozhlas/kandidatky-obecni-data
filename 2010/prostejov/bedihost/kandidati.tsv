@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589268	1	1	53	1	Luděk	Smýkal	M	Ing.		35	ekonom	Bedihošť	53	53	0
-7103	589268	1	1	53	2	Vladimír	Vláčil	M	Mgr.		61	učitel	Bedihošť	53	53	0
-7103	589268	1	1	53	3	Martin	Schuster	M			35	živnostník	Bedihošť	99	53	0
-7103	589268	1	1	53	4	Miroslav	Prokop	M			46	technik	Bedihošť	99	53	0
-7103	589268	1	1	53	5	Lenka	Jurová	F			36	odborná referentka	Bedihošť	99	53	0
-7103	589268	1	1	53	6	Lukáš	Opavský	M			33	montér	Bedihošť	99	53	0
-7103	589268	1	1	53	7	Drahoslav	Stavěl	M	MUDr.		59	lékař	Bedihošť	53	53	0
-7103	589268	1	1	53	8	František	Cetkovský	M			69	zemědělec	Bedihošť	99	53	0
-7103	589268	1	1	53	9	Nina	Škottová	F	Doc.RNDr.	CSc.	64	vysokoškolský učitel	Bedihošť	53	53	0
-7103	589268	1	2	47	1	Jan	Kratochvil	M			65	pilot	Bedihošť	47	47	0
-7103	589268	1	2	47	2	Jiří	Zips	M			51	řidič	Bedihošť	99	47	0
-7103	589268	1	2	47	3	Jana	Hanzelová	F			54	prodavačka	Bedihošť	47	47	0
-7103	589268	1	2	47	4	Martin	Pospíšil	M			41	technik	Bedihošť	99	47	0
-7103	589268	1	2	47	5	Dagmar	Mórová	F			55	úřednice	Bedihošť	99	47	0
-7103	589268	1	2	47	6	Jakub	Marek	M			37	seřizovač strojů	Bedihošť	99	47	0
-7103	589268	1	2	47	7	Petr	Žůrek	M	Mgr.		58	učitel	Bedihošť	99	47	0
-7103	589268	1	2	47	8	Rudolf	Kolda	M			35	klempíř	Bedihošť	99	47	0
-7103	589268	1	2	47	9	Jarmila	Popelková	F			60	úřednice	Bedihošť	99	47	0
-7103	589268	1	3	7	1	Radek	Koněvalík	M	Ing.		39	řed.společnosti,starosta obce	Bedihošť	7	7	0
-7103	589268	1	3	7	2	Vladimíra	Navrátilová	F			46	vychovatelka	Bedihošť	7	7	0
-7103	589268	1	3	7	3	Jaroslav	Frýbort	M	Ing.		43	soukromý zemědělec	Bedihošť	99	7	0
-7103	589268	1	3	7	4	Tomáš	Holík	M			33	technolog	Bedihošť	99	7	0
-7103	589268	1	3	7	5	Jan	Pospíšil	M			31	fotograf,živnostník	Bedihošť	99	7	0
-7103	589268	1	3	7	6	Jiří	Kouřil	M			36	vedoucí výroby	Bedihošť	99	7	0
-7103	589268	1	3	7	7	Luděk	Přikryl	M			26	prodavač	Bedihošť	7	7	0
-7103	589268	1	3	7	8	Jana	Hanzelová	F			27	prodavačka	Bedihošť	99	7	0
-7103	589268	1	3	7	9	Michal	Jaroš	M			22	student	Bedihošť	99	7	0
-7103	589268	1	4	1	1	Petr	Vysloužil	M	Mgr.Ing.		40	archeolog	Bedihošť	99	1	0
-7103	589268	1	4	1	2	Lenka	Pospíšilová	F			37	invalidní důchodce	Bedihošť	99	1	0
-7103	589268	1	4	1	3	Petr	Frantal	M			55	výpravčí	Bedihošť	1	1	0
-7103	589268	1	4	1	4	Vojtěch	Kuchař	M	Ing.		25	elektrotechnik	Bedihošť	99	1	0
-7103	589268	1	4	1	5	Jiří	Kresta	M			30	barman	Bedihošť	99	1	0
-7103	589268	1	4	1	6	Jaromír	Hnízdil	M			51	podnikatel	Bedihošť	99	1	0
-7103	589268	1	4	1	7	Jaroslava	Frýbortová	F			41	živnostník	Bedihošť	99	1	0
-7103	589268	1	4	1	8	Richard	Vylášek	M			36	servisní technik	Bedihošť	99	1	0
-7103	589268	1	4	1	9	Luděk	Zdráhal	M			41	technik	Bedihošť	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589268	1	1	53	1	Luděk	Smýkal	Ing.		35	ekonom	Bedihošť	53	53	0	M
+7103	589268	1	2	47	1	Jan	Kratochvil			65	pilot	Bedihošť	47	47	0	M
+7103	589268	1	3	7	1	Radek	Koněvalík	Ing.		39	řed.společnosti,starosta obce	Bedihošť	7	7	0	M
+7103	589268	1	4	1	1	Petr	Vysloužil	Mgr.Ing.		40	archeolog	Bedihošť	99	1	0	M
+7103	589268	1	1	53	2	Vladimír	Vláčil	Mgr.		61	učitel	Bedihošť	53	53	0	M
+7103	589268	1	2	47	2	Jiří	Zips			51	řidič	Bedihošť	99	47	0	M
+7103	589268	1	3	7	2	Vladimíra	Navrátilová			46	vychovatelka	Bedihošť	7	7	0	F
+7103	589268	1	4	1	2	Lenka	Pospíšilová			37	invalidní důchodce	Bedihošť	99	1	0	F
+7103	589268	1	1	53	3	Martin	Schuster			35	živnostník	Bedihošť	99	53	0	M
+7103	589268	1	2	47	3	Jana	Hanzelová			54	prodavačka	Bedihošť	47	47	0	F
+7103	589268	1	3	7	3	Jaroslav	Frýbort	Ing.		43	soukromý zemědělec	Bedihošť	99	7	0	M
+7103	589268	1	4	1	3	Petr	Frantal			55	výpravčí	Bedihošť	1	1	0	M
+7103	589268	1	1	53	4	Miroslav	Prokop			46	technik	Bedihošť	99	53	0	M
+7103	589268	1	2	47	4	Martin	Pospíšil			41	technik	Bedihošť	99	47	0	M
+7103	589268	1	3	7	4	Tomáš	Holík			33	technolog	Bedihošť	99	7	0	M
+7103	589268	1	4	1	4	Vojtěch	Kuchař	Ing.		25	elektrotechnik	Bedihošť	99	1	0	M
+7103	589268	1	1	53	5	Lenka	Jurová			36	odborná referentka	Bedihošť	99	53	0	F
+7103	589268	1	2	47	5	Dagmar	Mórová			55	úřednice	Bedihošť	99	47	0	F
+7103	589268	1	3	7	5	Jan	Pospíšil			31	fotograf,živnostník	Bedihošť	99	7	0	M
+7103	589268	1	4	1	5	Jiří	Kresta			30	barman	Bedihošť	99	1	0	M
+7103	589268	1	1	53	6	Lukáš	Opavský			33	montér	Bedihošť	99	53	0	M
+7103	589268	1	2	47	6	Jakub	Marek			37	seřizovač strojů	Bedihošť	99	47	0	M
+7103	589268	1	3	7	6	Jiří	Kouřil			36	vedoucí výroby	Bedihošť	99	7	0	M
+7103	589268	1	4	1	6	Jaromír	Hnízdil			51	podnikatel	Bedihošť	99	1	0	M
+7103	589268	1	1	53	7	Drahoslav	Stavěl	MUDr.		59	lékař	Bedihošť	53	53	0	M
+7103	589268	1	2	47	7	Petr	Žůrek	Mgr.		58	učitel	Bedihošť	99	47	0	M
+7103	589268	1	3	7	7	Luděk	Přikryl			26	prodavač	Bedihošť	7	7	0	M
+7103	589268	1	4	1	7	Jaroslava	Frýbortová			41	živnostník	Bedihošť	99	1	0	F
+7103	589268	1	1	53	8	František	Cetkovský			69	zemědělec	Bedihošť	99	53	0	M
+7103	589268	1	2	47	8	Rudolf	Kolda			35	klempíř	Bedihošť	99	47	0	M
+7103	589268	1	3	7	8	Jana	Hanzelová			27	prodavačka	Bedihošť	99	7	0	F
+7103	589268	1	4	1	8	Richard	Vylášek			36	servisní technik	Bedihošť	99	1	0	M
+7103	589268	1	1	53	9	Nina	Škottová	Doc.RNDr.	CSc.	64	vysokoškolský učitel	Bedihošť	53	53	0	F
+7103	589268	1	2	47	9	Jarmila	Popelková			60	úřednice	Bedihošť	99	47	0	F
+7103	589268	1	3	7	9	Michal	Jaroš			22	student	Bedihošť	99	7	0	M
+7103	589268	1	4	1	9	Luděk	Zdráhal			41	technik	Bedihošť	99	1	0	M

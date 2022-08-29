@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	584142	1	1	901	1	Jitka	Šmídová	F	JUDr.		51	právník	Vojkovice	99	80	A
-6203	584142	1	1	901	2	Miroslava	Floriánová	F	Ing.		43	projektová manažerka	Vojkovice	99	80	A
-6203	584142	1	1	901	3	Marek	Zámečník	M			48	živnostník	Vojkovice	99	80	A
-6203	584142	1	1	901	4	Leoš	Janíček	M			64	OSVČ	Vojkovice	99	80	A
-6203	584142	1	1	901	5	Roman	Dziedzinskyj	M	Ing.		42	IT specialista	Vojkovice	99	80	A
-6203	584142	1	1	901	6	Petr	Kolegar	M	MUDr.		61	dětský lékař	Vojkovice	53	80	A
-6203	584142	1	1	901	7	Lenka	Zámečníková	F			48	učitelka MŠ	Vojkovice	99	80	A
-6203	584142	1	1	901	8	Eliška	Holováčová	F			36	účetní	Vojkovice	99	80	A
-6203	584142	1	1	901	9	Jan	Smejkal	M	Mgr.		47	právník	Vojkovice	99	80	A
-6203	584142	1	1	901	10	Petr	Kolísek	M			45	OSVČ	Vojkovice	99	80	A
-6203	584142	1	1	901	11	Dušan	Tomášek	M	Ing.		47	jednatel společnosti	Vojkovice	99	80	A
-6203	584142	1	1	901	12	Alena	Kleinová	F			50	živnostnice	Vojkovice	99	80	A
-6203	584142	1	1	901	13	Monika	Čupová	F			34	fotografka	Vojkovice	99	80	A
-6203	584142	1	1	901	14	Radek	Toman	M			49	OSVČ	Vojkovice	99	80	A
-6203	584142	1	1	901	15	Marian	Blatný	M			45	OSVČ	Vojkovice	99	80	A
-6203	584142	1	2	902	1	Karel	Klein	M			63	starosta	Vojkovice	99	80	A
-6203	584142	1	2	902	2	Jakub	Wolf	M			23	prodejce	Vojkovice	99	80	A
-6203	584142	1	2	902	3	Jindřich	Toman	M			52	technicko-hospodářský pracovník	Vojkovice	99	80	A
-6203	584142	1	2	902	4	Dagmar	Cigánková	F	Mgr.		58	učitelka základní školy	Vojkovice	99	80	A
-6203	584142	1	2	902	5	Radim	Hanzlík	M			44	manažer	Vojkovice	99	80	A
-6203	584142	1	2	902	6	Jan	Čupa	M			37	programátor	Vojkovice	99	80	A
-6203	584142	1	2	902	7	Denis	Crhan	M			30	manažer	Vojkovice	99	80	A
-6203	584142	1	2	902	8	Martin	Klein	M			38	realitní konzultant	Vojkovice	99	80	A
-6203	584142	1	2	902	9	Marek	Dvořák	M			55	technik	Vojkovice	99	80	A
-6203	584142	1	2	902	10	Veronika	Karasová	F			22	studentka	Vojkovice	99	80	A
-6203	584142	1	2	902	11	Martin	Knoz	M			40	řezník	Vojkovice	99	80	A
-6203	584142	1	2	902	12	Eliška	Hromcová	F			19	studentka	Vojkovice	99	80	A
-6203	584142	1	2	902	13	Zdeněk	Laštuvka	M			49	malíř-natěrač	Vojkovice	99	80	A
-6203	584142	1	2	902	14	Radoslava	Kubátová	F			72	důchodkyně	Vojkovice	99	80	A
-6203	584142	1	2	902	15	Kateřina	Karabcová	F			47	domovnice základní školy	Vojkovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	584142	1	1	901	1	Jitka	Šmídová	JUDr.		51	právník	Vojkovice	99	80	A	F
+6203	584142	1	2	902	1	Karel	Klein			63	starosta	Vojkovice	99	80	A	M
+6203	584142	1	1	901	2	Miroslava	Floriánová	Ing.		43	projektová manažerka	Vojkovice	99	80	A	F
+6203	584142	1	2	902	2	Jakub	Wolf			23	prodejce	Vojkovice	99	80	A	M
+6203	584142	1	1	901	3	Marek	Zámečník			48	živnostník	Vojkovice	99	80	A	M
+6203	584142	1	2	902	3	Jindřich	Toman			52	technicko-hospodářský pracovník	Vojkovice	99	80	A	M
+6203	584142	1	1	901	4	Leoš	Janíček			64	OSVČ	Vojkovice	99	80	A	M
+6203	584142	1	2	902	4	Dagmar	Cigánková	Mgr.		58	učitelka základní školy	Vojkovice	99	80	A	F
+6203	584142	1	1	901	5	Roman	Dziedzinskyj	Ing.		42	IT specialista	Vojkovice	99	80	A	M
+6203	584142	1	2	902	5	Radim	Hanzlík			44	manažer	Vojkovice	99	80	A	M
+6203	584142	1	1	901	6	Petr	Kolegar	MUDr.		61	dětský lékař	Vojkovice	53	80	A	M
+6203	584142	1	2	902	6	Jan	Čupa			37	programátor	Vojkovice	99	80	A	M
+6203	584142	1	1	901	7	Lenka	Zámečníková			48	učitelka MŠ	Vojkovice	99	80	A	F
+6203	584142	1	2	902	7	Denis	Crhan			30	manažer	Vojkovice	99	80	A	M
+6203	584142	1	1	901	8	Eliška	Holováčová			36	účetní	Vojkovice	99	80	A	F
+6203	584142	1	2	902	8	Martin	Klein			38	realitní konzultant	Vojkovice	99	80	A	M
+6203	584142	1	1	901	9	Jan	Smejkal	Mgr.		47	právník	Vojkovice	99	80	A	M
+6203	584142	1	2	902	9	Marek	Dvořák			55	technik	Vojkovice	99	80	A	M
+6203	584142	1	1	901	10	Petr	Kolísek			45	OSVČ	Vojkovice	99	80	A	M
+6203	584142	1	2	902	10	Veronika	Karasová			22	studentka	Vojkovice	99	80	A	F
+6203	584142	1	1	901	11	Dušan	Tomášek	Ing.		47	jednatel společnosti	Vojkovice	99	80	A	M
+6203	584142	1	2	902	11	Martin	Knoz			40	řezník	Vojkovice	99	80	A	M
+6203	584142	1	1	901	12	Alena	Kleinová			50	živnostnice	Vojkovice	99	80	A	F
+6203	584142	1	2	902	12	Eliška	Hromcová			19	studentka	Vojkovice	99	80	A	F
+6203	584142	1	1	901	13	Monika	Čupová			34	fotografka	Vojkovice	99	80	A	F
+6203	584142	1	2	902	13	Zdeněk	Laštuvka			49	malíř-natěrač	Vojkovice	99	80	A	M
+6203	584142	1	1	901	14	Radek	Toman			49	OSVČ	Vojkovice	99	80	A	M
+6203	584142	1	2	902	14	Radoslava	Kubátová			72	důchodkyně	Vojkovice	99	80	A	F
+6203	584142	1	1	901	15	Marian	Blatný			45	OSVČ	Vojkovice	99	80	A	M
+6203	584142	1	2	902	15	Kateřina	Karabcová			47	domovnice základní školy	Vojkovice	99	80	A	F

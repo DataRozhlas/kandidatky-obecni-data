@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	595250	1	1	901	1	Stanislav	Blažek	M			37	dělník	Blízkov	99	80	0
-6105	595250	1	1	901	2	Václav	Půža	M			60	živnostník	Blízkov	99	80	0
-6105	595250	1	1	901	3	Helena	Vlníčková	F			35	terapeutická pracovnice	Blízkov	99	80	0
-6105	595250	1	1	901	4	Antonín	Kolouch	M			41	technik	Blízkov	99	80	0
-6105	595250	1	1	901	5	Hana	Štočková	F		DiS.	22	dětská sestra	Blízkov	99	80	0
-6105	595250	1	1	901	6	Jaromír	Sýkora	M			32	vedoucí výroby	Blízkov	99	80	0
-6105	595250	1	1	901	7	Miroslav	Sedlák	M			32	prodavač	Blízkov	99	80	0
-6105	595250	1	1	901	8	Pavel	Klíma	M			28	dělník	Blízkov	99	80	0
-6105	595250	1	1	901	9	Pavel	Kučera	M			38	dělník	Blízkov	99	80	0
-6105	595250	1	2	1	1	Stanislav	Bradáč	M			50	řidič	Blízkov	1	1	0
-6105	595250	1	2	1	2	František	Štoček	M			54	traktorista	Blízkov	1	1	0
-6105	595250	1	2	1	3	František	Sedlák	M			63	důchodce	Blízkov	1	1	0
-6105	595250	1	2	1	4	Vlasta	Chlubnová	F			45	v domácnosti	Blízkov	1	1	0
-6105	595250	1	2	1	5	Ladislav	Chlubna	M			56	dělník	Blízkov	1	1	0
-6105	595250	1	3	903	1	Ondřej	Kasper	M			33	tiskař	Dědkov	99	80	0
-6105	595250	1	3	903	2	Roman	Hejl	M			28	dělník	Dědkov	99	80	0
-6105	595250	1	3	903	3	Ladislav	Doležal	M			36	soukromý zemědělec	Dědkov	99	80	0
-6105	595250	1	3	903	4	Jaromír	Chmelař	M			46	strojní zámečník	Dědkov	99	80	0
-6105	595250	1	4	902	1	Miroslav	Smejkal	M			51	řidič	Dědkov	99	80	0
-6105	595250	1	4	902	2	Ivo	Nekuda	M			39	řidič	Dědkov	99	80	0
-6105	595250	1	4	902	3	Václav	Sysel	M			32	svářeč	Dědkov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	595250	1	1	901	1	Stanislav	Blažek			37	dělník	Blízkov	99	80	0	M
+6105	595250	1	2	1	1	Stanislav	Bradáč			50	řidič	Blízkov	1	1	0	M
+6105	595250	1	3	903	1	Ondřej	Kasper			33	tiskař	Dědkov	99	80	0	M
+6105	595250	1	4	902	1	Miroslav	Smejkal			51	řidič	Dědkov	99	80	0	M
+6105	595250	1	1	901	2	Václav	Půža			60	živnostník	Blízkov	99	80	0	M
+6105	595250	1	2	1	2	František	Štoček			54	traktorista	Blízkov	1	1	0	M
+6105	595250	1	3	903	2	Roman	Hejl			28	dělník	Dědkov	99	80	0	M
+6105	595250	1	4	902	2	Ivo	Nekuda			39	řidič	Dědkov	99	80	0	M
+6105	595250	1	1	901	3	Helena	Vlníčková			35	terapeutická pracovnice	Blízkov	99	80	0	F
+6105	595250	1	2	1	3	František	Sedlák			63	důchodce	Blízkov	1	1	0	M
+6105	595250	1	3	903	3	Ladislav	Doležal			36	soukromý zemědělec	Dědkov	99	80	0	M
+6105	595250	1	4	902	3	Václav	Sysel			32	svářeč	Dědkov	99	80	0	M
+6105	595250	1	1	901	4	Antonín	Kolouch			41	technik	Blízkov	99	80	0	M
+6105	595250	1	2	1	4	Vlasta	Chlubnová			45	v domácnosti	Blízkov	1	1	0	F
+6105	595250	1	3	903	4	Jaromír	Chmelař			46	strojní zámečník	Dědkov	99	80	0	M
+6105	595250	1	1	901	5	Hana	Štočková		DiS.	22	dětská sestra	Blízkov	99	80	0	F
+6105	595250	1	2	1	5	Ladislav	Chlubna			56	dělník	Blízkov	1	1	0	M
+6105	595250	1	1	901	6	Jaromír	Sýkora			32	vedoucí výroby	Blízkov	99	80	0	M
+6105	595250	1	1	901	7	Miroslav	Sedlák			32	prodavač	Blízkov	99	80	0	M
+6105	595250	1	1	901	8	Pavel	Klíma			28	dělník	Blízkov	99	80	0	M
+6105	595250	1	1	901	9	Pavel	Kučera			38	dělník	Blízkov	99	80	0	M

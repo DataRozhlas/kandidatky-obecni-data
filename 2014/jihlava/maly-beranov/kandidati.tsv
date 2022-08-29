@@ -1,20 +1,20 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6102	587486	1	1	902	1	Luděk	Hůlka	M	Ing.		55	správce sítě	Malý Beranov	99	80	0
-6102	587486	1	1	902	2	Tomáš	Tomica	M	Ing.		35	projektant	Malý Beranov	99	80	0
-6102	587486	1	1	902	3	Pavel	Barták	M	MVDr.	Ph.D.	52	veterinární lékař	Malý Beranov	53	80	0
-6102	587486	1	1	902	4	Milan	Marousek	M			54	manažer	Malý Beranov	99	80	0
-6102	587486	1	1	902	5	Martina	Kráčmarová	F	Ing.		41	stavební inženýr	Malý Beranov	99	80	0
-6102	587486	1	1	902	6	Karel	Šimek	M			62	důchodce	Malý Beranov	99	80	0
-6102	587486	1	1	902	7	Jana	Nevosadová	F			48	účetní	Malý Beranov	99	80	0
-6102	587486	1	1	902	8	Gustav	Cabúk	M	Ing. Mgr.		51	státní zaměstnanec	Malý Beranov	99	80	0
-6102	587486	1	1	902	9	Dana	Juránková	F			60	důchodce	Malý Beranov	99	80	0
-6102	587486	1	2	1	1	Václav	Kodet	M	Bc.		32	ekonom, účetní	Malý Beranov	1	1	0
-6102	587486	1	3	901	1	Martin	Zach	M	Ing.		40	projektový manažer	Malý Beranov	99	80	0
-6102	587486	1	3	901	2	Jan	Kourek	M	Ing.		35	referent státní správy	Malý Beranov	99	80	0
-6102	587486	1	3	901	3	Marcel	Šimek	M		DiS.	34	zdravotnický záchranář	Malý Beranov	99	80	0
-6102	587486	1	3	901	4	Helena	Krčálová	F			37	asistentka jednatele společnosti	Malý Beranov	99	80	0
-6102	587486	1	3	901	5	Zdeněk	Benáček	M			40	truhlář	Malý Beranov	99	80	0
-6102	587486	1	3	901	6	Ladislav	Růžička	M			39	správce majetku	Malý Beranov	99	80	0
-6102	587486	1	3	901	7	Helena	Lacková	F	Ing.		36	zootechnik	Malý Beranov	99	80	0
-6102	587486	1	3	901	8	Radek	Maxa	M			37	nástrojař	Malý Beranov	99	80	0
-6102	587486	1	3	901	9	Karel	Holcman	M			37	technik	Malý Beranov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6102	587486	1	1	902	1	Luděk	Hůlka	Ing.		55	správce sítě	Malý Beranov	99	80	0	M
+6102	587486	1	2	1	1	Václav	Kodet	Bc.		32	ekonom, účetní	Malý Beranov	1	1	0	M
+6102	587486	1	3	901	1	Martin	Zach	Ing.		40	projektový manažer	Malý Beranov	99	80	0	M
+6102	587486	1	1	902	2	Tomáš	Tomica	Ing.		35	projektant	Malý Beranov	99	80	0	M
+6102	587486	1	3	901	2	Jan	Kourek	Ing.		35	referent státní správy	Malý Beranov	99	80	0	M
+6102	587486	1	1	902	3	Pavel	Barták	MVDr.	Ph.D.	52	veterinární lékař	Malý Beranov	53	80	0	M
+6102	587486	1	3	901	3	Marcel	Šimek		DiS.	34	zdravotnický záchranář	Malý Beranov	99	80	0	M
+6102	587486	1	1	902	4	Milan	Marousek			54	manažer	Malý Beranov	99	80	0	M
+6102	587486	1	3	901	4	Helena	Krčálová			37	asistentka jednatele společnosti	Malý Beranov	99	80	0	F
+6102	587486	1	1	902	5	Martina	Kráčmarová	Ing.		41	stavební inženýr	Malý Beranov	99	80	0	F
+6102	587486	1	3	901	5	Zdeněk	Benáček			40	truhlář	Malý Beranov	99	80	0	M
+6102	587486	1	1	902	6	Karel	Šimek			62	důchodce	Malý Beranov	99	80	0	M
+6102	587486	1	3	901	6	Ladislav	Růžička			39	správce majetku	Malý Beranov	99	80	0	M
+6102	587486	1	1	902	7	Jana	Nevosadová			48	účetní	Malý Beranov	99	80	0	F
+6102	587486	1	3	901	7	Helena	Lacková	Ing.		36	zootechnik	Malý Beranov	99	80	0	F
+6102	587486	1	1	902	8	Gustav	Cabúk	Ing. Mgr.		51	státní zaměstnanec	Malý Beranov	99	80	0	M
+6102	587486	1	3	901	8	Radek	Maxa			37	nástrojař	Malý Beranov	99	80	0	M
+6102	587486	1	1	902	9	Dana	Juránková			60	důchodce	Malý Beranov	99	80	0	F
+6102	587486	1	3	901	9	Karel	Holcman			37	technik	Malý Beranov	99	80	0	M

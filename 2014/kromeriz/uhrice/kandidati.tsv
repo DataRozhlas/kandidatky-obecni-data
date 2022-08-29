@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7201	589110	1	1	901	1	Miroslava	Bartošíková	F			53	účetní	Uhřice	99	80	0
-7201	589110	1	1	901	2	Antonín	Ludík	M			34	technik elektro	Uhřice	99	80	0
-7201	589110	1	1	901	3	Danuše	Procházková	F			57	dělnice	Uhřice	99	80	0
-7201	589110	1	1	901	4	Pavlína	Pouperová	F	Bc.		25	administrativní pracovnice	Uhřice	99	80	0
-7201	589110	1	1	901	5	Pavel	Poupera	M			47	dělník	Uhřice	99	80	0
-7201	589110	1	1	901	6	Marie	Maliňáková	F			60	důchodkyně	Uhřice	99	80	0
-7201	589110	1	1	901	7	Vendula	Otrubová	F			37	pracovnice sociálních služeb	Uhřice	99	80	0
-7201	589110	1	2	902	1	Petr	Paldus	M			42	OSVČ	Uhřice	99	80	0
-7201	589110	1	2	902	2	Radim	Červenka	M			22	zdravotní asistent	Uhřice	99	80	0
-7201	589110	1	2	902	3	Martin	Lysek	M			41	technik	Uhřice	99	80	0
-7201	589110	1	2	902	4	Taťána	Hochmannová	F			42	zdravotní sestra	Uhřice	99	80	0
-7201	589110	1	2	902	5	Lucie	Lysková	F			33	koordinátorka	Uhřice	99	80	0
-7201	589110	1	2	902	6	Stanislav	Juřena	M			76	důchodce	Uhřice	99	80	0
-7201	589110	1	2	902	7	Lukáš	Bohuslav	M			25	automechanik	Uhřice	99	80	0
-7201	589110	1	2	902	8	Antonín	Šmehlík	M			59	bezpečnostní služba	Uhřice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7201	589110	1	1	901	1	Miroslava	Bartošíková			53	účetní	Uhřice	99	80	0	F
+7201	589110	1	2	902	1	Petr	Paldus			42	OSVČ	Uhřice	99	80	0	M
+7201	589110	1	1	901	2	Antonín	Ludík			34	technik elektro	Uhřice	99	80	0	M
+7201	589110	1	2	902	2	Radim	Červenka			22	zdravotní asistent	Uhřice	99	80	0	M
+7201	589110	1	1	901	3	Danuše	Procházková			57	dělnice	Uhřice	99	80	0	F
+7201	589110	1	2	902	3	Martin	Lysek			41	technik	Uhřice	99	80	0	M
+7201	589110	1	1	901	4	Pavlína	Pouperová	Bc.		25	administrativní pracovnice	Uhřice	99	80	0	F
+7201	589110	1	2	902	4	Taťána	Hochmannová			42	zdravotní sestra	Uhřice	99	80	0	F
+7201	589110	1	1	901	5	Pavel	Poupera			47	dělník	Uhřice	99	80	0	M
+7201	589110	1	2	902	5	Lucie	Lysková			33	koordinátorka	Uhřice	99	80	0	F
+7201	589110	1	1	901	6	Marie	Maliňáková			60	důchodkyně	Uhřice	99	80	0	F
+7201	589110	1	2	902	6	Stanislav	Juřena			76	důchodce	Uhřice	99	80	0	M
+7201	589110	1	1	901	7	Vendula	Otrubová			37	pracovnice sociálních služeb	Uhřice	99	80	0	F
+7201	589110	1	2	902	7	Lukáš	Bohuslav			25	automechanik	Uhřice	99	80	0	M
+7201	589110	1	2	902	8	Antonín	Šmehlík			59	bezpečnostní služba	Uhřice	99	80	0	M

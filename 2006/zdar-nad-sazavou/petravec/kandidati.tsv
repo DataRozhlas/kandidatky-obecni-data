@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	596418	1	1	158	1	Stanislav	Malec	M			45	obchodní referent	Petráveč	99	158	0
-6105	596418	1	1	158	2	Iveta	Dvořáková	F			38	vedoucí prodejny	Petráveč	99	158	0
-6105	596418	1	1	158	3	Jiří	Kotek	M			33	živnostník	Petráveč	99	158	0
-6105	596418	1	1	158	4	Jana	Malcová	F			35	adm.pracovnice	Petráveč	99	158	0
-6105	596418	1	1	158	5	Milan	Eliáš	M			46	živnostník	Petráveč	99	158	0
-6105	596418	1	1	158	6	Josef	Dohnal	M			72	důchodce	Petráveč	99	158	0
-6105	596418	1	1	158	7	Anna	Eliášová	F			46	účetní	Petráveč	99	158	0
-6105	596418	1	1	158	8	Marie	Rolínová	F			41	PTK LPMV	Petráveč	99	158	0
-6105	596418	1	1	158	9	Petr	Malec	M			20	student	Petráveč	99	158	0
-6105	596418	1	2	804	1	Jiří	Kratochvíl	M			22	autoelektrikář	Petráveč	99	80	0
-6105	596418	1	3	803	1	Josef	Zrůst	M			48	dělník	Petráveč	99	80	0
-6105	596418	1	4	7	1	Miloš	Kratochvíl	M			44	elektromontér	Petráveč	7	7	0
-6105	596418	1	4	7	2	Jiří	Bednář	M			36	instalatér	Petráveč	99	7	0
-6105	596418	1	4	7	3	Jaromír	Balák	M			39	mechanik-opravář	Petráveč	99	7	0
-6105	596418	1	4	7	4	Martin	Chatrný	M			39	technický pracovník	Petráveč	99	7	0
-6105	596418	1	4	7	5	Dana	Kratochvílová	F			43	prodavačka	Petráveč	99	7	0
-6105	596418	1	4	7	6	Vojtěch	Prachař	M			29	invalidní důchodce	Petráveč	99	7	0
-6105	596418	1	4	7	7	Dana	Rolínová	F			42	technická pracovnice	Petráveč	99	7	0
-6105	596418	1	4	7	8	Ludmila	Špačková	F			58	důchodkyně	Petráveč	99	7	0
-6105	596418	1	4	7	9	Tomáš	Homola	M			31	OSVČ	Petráveč	99	7	0
-6105	596418	1	5	802	1	Josef	Zrůst	M	Ing.		25	zaměstnanec VŠ	Petráveč	99	80	0
-6105	596418	1	6	801	1	Zdeněk	Malec	M			37	dělník	Petráveč	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	596418	1	1	158	1	Stanislav	Malec			45	obchodní referent	Petráveč	99	158	0	M
+6105	596418	1	2	804	1	Jiří	Kratochvíl			22	autoelektrikář	Petráveč	99	80	0	M
+6105	596418	1	3	803	1	Josef	Zrůst			48	dělník	Petráveč	99	80	0	M
+6105	596418	1	4	7	1	Miloš	Kratochvíl			44	elektromontér	Petráveč	7	7	0	M
+6105	596418	1	5	802	1	Josef	Zrůst	Ing.		25	zaměstnanec VŠ	Petráveč	99	80	0	M
+6105	596418	1	6	801	1	Zdeněk	Malec			37	dělník	Petráveč	99	80	0	M
+6105	596418	1	1	158	2	Iveta	Dvořáková			38	vedoucí prodejny	Petráveč	99	158	0	F
+6105	596418	1	4	7	2	Jiří	Bednář			36	instalatér	Petráveč	99	7	0	M
+6105	596418	1	1	158	3	Jiří	Kotek			33	živnostník	Petráveč	99	158	0	M
+6105	596418	1	4	7	3	Jaromír	Balák			39	mechanik-opravář	Petráveč	99	7	0	M
+6105	596418	1	1	158	4	Jana	Malcová			35	adm.pracovnice	Petráveč	99	158	0	F
+6105	596418	1	4	7	4	Martin	Chatrný			39	technický pracovník	Petráveč	99	7	0	M
+6105	596418	1	1	158	5	Milan	Eliáš			46	živnostník	Petráveč	99	158	0	M
+6105	596418	1	4	7	5	Dana	Kratochvílová			43	prodavačka	Petráveč	99	7	0	F
+6105	596418	1	1	158	6	Josef	Dohnal			72	důchodce	Petráveč	99	158	0	M
+6105	596418	1	4	7	6	Vojtěch	Prachař			29	invalidní důchodce	Petráveč	99	7	0	M
+6105	596418	1	1	158	7	Anna	Eliášová			46	účetní	Petráveč	99	158	0	F
+6105	596418	1	4	7	7	Dana	Rolínová			42	technická pracovnice	Petráveč	99	7	0	F
+6105	596418	1	1	158	8	Marie	Rolínová			41	PTK LPMV	Petráveč	99	158	0	F
+6105	596418	1	4	7	8	Ludmila	Špačková			58	důchodkyně	Petráveč	99	7	0	F
+6105	596418	1	1	158	9	Petr	Malec			20	student	Petráveč	99	158	0	M
+6105	596418	1	4	7	9	Tomáš	Homola			31	OSVČ	Petráveč	99	7	0	M

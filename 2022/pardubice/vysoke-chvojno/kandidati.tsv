@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5302	576000	1	1	901	1	Jiří	Voborník	M			46	THP v lesnictví	Vysoké Chvojno	99	80	A
-5302	576000	1	1	901	2	Arnošt	Košťál	M			39	OSVČ	Vysoké Chvojno	99	80	A
-5302	576000	1	1	901	3	Anna	Stočková	F	MUDr.		37	lékařka	Vysoké Chvojno	99	80	A
-5302	576000	1	1	901	4	Michal	Jáchim	M	Ing.		46	R&D manažer	Vysoké Chvojno	99	80	A
-5302	576000	1	1	901	5	Tereza	Matějková	F	Ing.		34	mateřská dovolená	Vysoké Chvojno	99	80	A
-5302	576000	1	1	901	6	Aleš	Bačina		Ing.		43	bioanalytik Pardubická nemocnice	Vysoké Chvojno	99	80	A
-5302	576000	1	1	901	7	Ivana	Tesařová	F			54	hospodářka MŠ Bublinka	Vysoké Chvojno	99	80	A
-5302	576000	1	1	901	8	Eliška	Michalcová	F	Bc.		35	OSVČ	Vysoké Chvojno	99	80	A
-5302	576000	1	2	902	1	František	Kamenický	M			57	skladník	Vysoké Chvojno	99	80	A
-5302	576000	1	2	902	2	Martin	Brouček	M			48	OSVČ	Vysoké Chvojno	99	80	A
-5302	576000	1	2	902	3	David	Centner	M			37	řidič	Vysoké Chvojno	99	80	A
-5302	576000	1	2	902	4	Petr	Michalec	M			34	řidič	Vysoké Chvojno	99	80	A
-5302	576000	1	2	902	5	Gregor	Vohralík	M	Ing.		39	úředník	Vysoké Chvojno	99	80	A
-5302	576000	1	2	902	6	David	Hlinčík	M			47	řidič	Vysoké Chvojno	99	80	A
-5302	576000	1	2	902	7	Tomáš	Hušek	M	Ing.		61	obchodní zástupce	Vysoké Chvojno	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5302	576000	1	1	901	1	Jiří	Voborník			46	THP v lesnictví	Vysoké Chvojno	99	80	A	M
+5302	576000	1	2	902	1	František	Kamenický			57	skladník	Vysoké Chvojno	99	80	A	M
+5302	576000	1	1	901	2	Arnošt	Košťál			39	OSVČ	Vysoké Chvojno	99	80	A	M
+5302	576000	1	2	902	2	Martin	Brouček			48	OSVČ	Vysoké Chvojno	99	80	A	M
+5302	576000	1	1	901	3	Anna	Stočková	MUDr.		37	lékařka	Vysoké Chvojno	99	80	A	F
+5302	576000	1	2	902	3	David	Centner			37	řidič	Vysoké Chvojno	99	80	A	M
+5302	576000	1	1	901	4	Michal	Jáchim	Ing.		46	R&D manažer	Vysoké Chvojno	99	80	A	M
+5302	576000	1	2	902	4	Petr	Michalec			34	řidič	Vysoké Chvojno	99	80	A	M
+5302	576000	1	1	901	5	Tereza	Matějková	Ing.		34	mateřská dovolená	Vysoké Chvojno	99	80	A	F
+5302	576000	1	2	902	5	Gregor	Vohralík	Ing.		39	úředník	Vysoké Chvojno	99	80	A	M
+5302	576000	1	1	901	6	Aleš	Bačina	Ing.		43	bioanalytik Pardubická nemocnice	Vysoké Chvojno	99	80	A	
+5302	576000	1	2	902	6	David	Hlinčík			47	řidič	Vysoké Chvojno	99	80	A	M
+5302	576000	1	1	901	7	Ivana	Tesařová			54	hospodářka MŠ Bublinka	Vysoké Chvojno	99	80	A	F
+5302	576000	1	2	902	7	Tomáš	Hušek	Ing.		61	obchodní zástupce	Vysoké Chvojno	99	80	A	M
+5302	576000	1	1	901	8	Eliška	Michalcová	Bc.		35	OSVČ	Vysoké Chvojno	99	80	A	F

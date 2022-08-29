@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5203	574465	1	1	903	1	Rudolf	Pernica	M			52	starosta obce	Stárkov	99	80	0
-5203	574465	1	1	903	2	Zuzana	Vařáková	F	Mgr.		30	profesorka gymnázia	Stárkov	99	80	0
-5203	574465	1	1	903	3	Pavel	Hurdálek	M			41	technik báňské záchr. služby	Stárkov	99	80	0
-5203	574465	1	1	903	4	Karel	Lamka	M			41	státní zaměstnanec	Stárkov	99	80	0
-5203	574465	1	1	903	5	Anna	Bártová	F			55	ved. směny České pošty Náchod	Stárkov	99	80	0
-5203	574465	1	1	903	6	René	Kleprlík	M			36	podnikatel	Stárkov	99	80	0
-5203	574465	1	1	903	7	Martin	Pernica	M			42	živnostník	Stárkov	99	80	0
-5203	574465	1	1	903	8	Jaroslav	Martinec	M			51	učitel odborného výcviku	Stárkov	99	80	0
-5203	574465	1	1	903	9	Michaela	Šolcová	F	Bc.		23	studující	Stárkov	99	80	0
-5203	574465	1	2	902	1	Luboš	Gorgan	M			31	projektant	Stárkov	99	80	0
-5203	574465	1	2	902	2	Pavel	Říha	M			31	knihař	Stárkov	99	80	0
-5203	574465	1	2	902	3	Luděk	Hána	M			31	knihař	Stárkov	99	80	0
-5203	574465	1	2	902	4	Ivan	Šolc	M	Ing.		52	soukromý podnikatel	Horní Dřevíč	99	80	0
-5203	574465	1	2	902	5	Aleš	Hána	M			27	tiskař	Stárkov	99	80	0
-5203	574465	1	2	902	6	Petr	Kylar	M			55	truhlář	Stárkov	99	80	0
-5203	574465	1	2	902	7	Rudolf	Ducháč	M			50	vedoucí výroby	Stárkov	99	80	0
-5203	574465	1	2	902	8	Pavel	Kylar	M			45	vedoucí skladu	Stárkov	99	80	0
-5203	574465	1	2	902	9	Michal	Šolc	M			30	řidič	Stárkov	99	80	0
-5203	574465	1	3	901	1	Alena	Frindtová	F			53	učitelka	Bystré	99	80	0
-5203	574465	1	3	901	2	Blažena	Hofmannová	F	Ing.		50	ekonom	Bystré	99	80	0
-5203	574465	1	3	901	3	Josef	Boštík	M			52	invalidní důchodce	Bystré	99	80	0
-5203	574465	1	3	901	4	Antonín	Fiedler	M			48	řidič	Bystré	99	80	0
-5203	574465	1	3	901	5	Zdeněk	Konečný	M			44	státní zaměstnanec	Bystré	99	80	0
-5203	574465	1	3	901	6	Jana	Fiedlerová	F			46	strážní služba	Bystré	99	80	0
-5203	574465	1	3	901	7	Lenka	Urbaníková	F			34	ošetřovatelka skotu	Bystré	99	80	0
-5203	574465	1	3	901	8	Dagmar	Židová	F			35	prodavačka	Stárkov	99	80	0
-5203	574465	1	3	901	9	Lubomír	Tuček	M			59	invalidní důchodce	Bystré	99	80	0
-5203	574465	1	4	47	1	Petr	Kašpar	M			68	důchodce	Chlívce	47	47	0
-5203	574465	1	4	47	2	Pavel	Frindt	M			54	traktorista	Stárkov	47	47	0
-5203	574465	1	4	47	3	Karel	Císař	M			20	traktorista	Chlívce	47	47	0
-5203	574465	1	4	47	4	Ivan	Pejskar	M			64	důchodce	Stárkov	47	47	0
-5203	574465	1	4	47	5	Věra	Vajsarová	F			51	invalidní důchodce	Stárkov	99	47	0
-5203	574465	1	4	47	6	Rostislav	Urbaník	M			41	mistr	Bystré	99	47	0
-5203	574465	1	4	47	7	Josef	Šrejber	M			48	opravář zem. strojů	Stárkov	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5203	574465	1	1	903	1	Rudolf	Pernica			52	starosta obce	Stárkov	99	80	0	M
+5203	574465	1	2	902	1	Luboš	Gorgan			31	projektant	Stárkov	99	80	0	M
+5203	574465	1	3	901	1	Alena	Frindtová			53	učitelka	Bystré	99	80	0	F
+5203	574465	1	4	47	1	Petr	Kašpar			68	důchodce	Chlívce	47	47	0	M
+5203	574465	1	1	903	2	Zuzana	Vařáková	Mgr.		30	profesorka gymnázia	Stárkov	99	80	0	F
+5203	574465	1	2	902	2	Pavel	Říha			31	knihař	Stárkov	99	80	0	M
+5203	574465	1	3	901	2	Blažena	Hofmannová	Ing.		50	ekonom	Bystré	99	80	0	F
+5203	574465	1	4	47	2	Pavel	Frindt			54	traktorista	Stárkov	47	47	0	M
+5203	574465	1	1	903	3	Pavel	Hurdálek			41	technik báňské záchr. služby	Stárkov	99	80	0	M
+5203	574465	1	2	902	3	Luděk	Hána			31	knihař	Stárkov	99	80	0	M
+5203	574465	1	3	901	3	Josef	Boštík			52	invalidní důchodce	Bystré	99	80	0	M
+5203	574465	1	4	47	3	Karel	Císař			20	traktorista	Chlívce	47	47	0	M
+5203	574465	1	1	903	4	Karel	Lamka			41	státní zaměstnanec	Stárkov	99	80	0	M
+5203	574465	1	2	902	4	Ivan	Šolc	Ing.		52	soukromý podnikatel	Horní Dřevíč	99	80	0	M
+5203	574465	1	3	901	4	Antonín	Fiedler			48	řidič	Bystré	99	80	0	M
+5203	574465	1	4	47	4	Ivan	Pejskar			64	důchodce	Stárkov	47	47	0	M
+5203	574465	1	1	903	5	Anna	Bártová			55	ved. směny České pošty Náchod	Stárkov	99	80	0	F
+5203	574465	1	2	902	5	Aleš	Hána			27	tiskař	Stárkov	99	80	0	M
+5203	574465	1	3	901	5	Zdeněk	Konečný			44	státní zaměstnanec	Bystré	99	80	0	M
+5203	574465	1	4	47	5	Věra	Vajsarová			51	invalidní důchodce	Stárkov	99	47	0	F
+5203	574465	1	1	903	6	René	Kleprlík			36	podnikatel	Stárkov	99	80	0	M
+5203	574465	1	2	902	6	Petr	Kylar			55	truhlář	Stárkov	99	80	0	M
+5203	574465	1	3	901	6	Jana	Fiedlerová			46	strážní služba	Bystré	99	80	0	F
+5203	574465	1	4	47	6	Rostislav	Urbaník			41	mistr	Bystré	99	47	0	M
+5203	574465	1	1	903	7	Martin	Pernica			42	živnostník	Stárkov	99	80	0	M
+5203	574465	1	2	902	7	Rudolf	Ducháč			50	vedoucí výroby	Stárkov	99	80	0	M
+5203	574465	1	3	901	7	Lenka	Urbaníková			34	ošetřovatelka skotu	Bystré	99	80	0	F
+5203	574465	1	4	47	7	Josef	Šrejber			48	opravář zem. strojů	Stárkov	47	47	0	M
+5203	574465	1	1	903	8	Jaroslav	Martinec			51	učitel odborného výcviku	Stárkov	99	80	0	M
+5203	574465	1	2	902	8	Pavel	Kylar			45	vedoucí skladu	Stárkov	99	80	0	M
+5203	574465	1	3	901	8	Dagmar	Židová			35	prodavačka	Stárkov	99	80	0	F
+5203	574465	1	1	903	9	Michaela	Šolcová	Bc.		23	studující	Stárkov	99	80	0	F
+5203	574465	1	2	902	9	Michal	Šolc			30	řidič	Stárkov	99	80	0	M
+5203	574465	1	3	901	9	Lubomír	Tuček			59	invalidní důchodce	Bystré	99	80	0	M

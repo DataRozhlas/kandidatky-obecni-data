@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589799	1	1	902	1	Rostislav	Němec	M			40	živnostník	Obědkovice	99	80	0
-7103	589799	1	1	902	2	Irena	Fládrová	F			40	TH pracovnice	Obědkovice	99	80	0
-7103	589799	1	1	902	3	Jaroslav	Budík	M			40	řidič z povolání	Obědkovice	99	80	0
-7103	589799	1	1	902	4	Růžena	Hanková	F			47	pečovatelka	Obědkovice	99	80	0
-7103	589799	1	1	902	5	Eva	Drbálková	F			29	OSVČ	Obědkovice	99	80	0
-7103	589799	1	1	902	6	Stanislav	Janeček	M			65	důchodce	Obědkovice	99	80	0
-7103	589799	1	1	902	7	Jiřina	Pavlíčková	F			52	administrativní pracovnice	Obědkovice	99	80	0
-7103	589799	1	2	901	1	František	Vysloužil	M			35	zámečník	Obědkovice	99	80	0
-7103	589799	1	2	901	2	Roman	Černý	M			33	řidič	Obědkovice	99	80	0
-7103	589799	1	2	901	3	Radka	Chludová	F			40	administrativní pracovnice	Obědkovice	99	80	0
-7103	589799	1	2	901	4	Tomáš	Opletal	M	Ing.	MBA	31	obchodní ředitel	Obědkovice	99	80	0
-7103	589799	1	2	901	5	Ladislav	Hanák	M	Mgr.		68	OSVČ	Obědkovice	99	80	0
-7103	589799	1	2	901	6	Miroslav	Kolečkář	M	Ing.		46	předseda družstva	Obědkovice	99	80	0
-7103	589799	1	2	901	7	Jiří	Zapletal	M			60	obráběč kovů	Obědkovice	99	80	0
-7103	589799	1	2	901	8	Josef	Koudelný	M	JUDr.		69	důchodce	Obědkovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589799	1	1	902	1	Rostislav	Němec			40	živnostník	Obědkovice	99	80	0	M
+7103	589799	1	2	901	1	František	Vysloužil			35	zámečník	Obědkovice	99	80	0	M
+7103	589799	1	1	902	2	Irena	Fládrová			40	TH pracovnice	Obědkovice	99	80	0	F
+7103	589799	1	2	901	2	Roman	Černý			33	řidič	Obědkovice	99	80	0	M
+7103	589799	1	1	902	3	Jaroslav	Budík			40	řidič z povolání	Obědkovice	99	80	0	M
+7103	589799	1	2	901	3	Radka	Chludová			40	administrativní pracovnice	Obědkovice	99	80	0	F
+7103	589799	1	1	902	4	Růžena	Hanková			47	pečovatelka	Obědkovice	99	80	0	F
+7103	589799	1	2	901	4	Tomáš	Opletal	Ing.	MBA	31	obchodní ředitel	Obědkovice	99	80	0	M
+7103	589799	1	1	902	5	Eva	Drbálková			29	OSVČ	Obědkovice	99	80	0	F
+7103	589799	1	2	901	5	Ladislav	Hanák	Mgr.		68	OSVČ	Obědkovice	99	80	0	M
+7103	589799	1	1	902	6	Stanislav	Janeček			65	důchodce	Obědkovice	99	80	0	M
+7103	589799	1	2	901	6	Miroslav	Kolečkář	Ing.		46	předseda družstva	Obědkovice	99	80	0	M
+7103	589799	1	1	902	7	Jiřina	Pavlíčková			52	administrativní pracovnice	Obědkovice	99	80	0	F
+7103	589799	1	2	901	7	Jiří	Zapletal			60	obráběč kovů	Obědkovice	99	80	0	M
+7103	589799	1	2	901	8	Josef	Koudelný	JUDr.		69	důchodce	Obědkovice	99	80	0	M

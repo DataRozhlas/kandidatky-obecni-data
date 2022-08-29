@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7202	592218	1	1	901	1	Petr	Malenovský	M	Mgr.		41	státní úředník	Huštěnovice	99	80	A
-7202	592218	1	1	901	2	Pavel	Grebeníček	M	Ing.	Ph.D.	39	vysokoškolský učitel-ekonom, zastupitel Zl. kraje	Huštěnovice	768	80	A
-7202	592218	1	1	901	3	Jiří	Silný	M	Mgr.		31	učitel druhého stupně ZŠ	Huštěnovice	768	80	A
-7202	592218	1	1	901	4	Lucie	Kulhavá	F	Ing.		36	projektová koordinátorka	Huštěnovice	99	80	A
-7202	592218	1	1	901	5	Petr	Straka	M	Ing.		31	certifikační pracovník	Huštěnovice	99	80	A
-7202	592218	1	1	901	6	Ester	Maternová	F	Mgr.		37	středoškolská učitelka	Huštěnovice	99	80	A
-7202	592218	1	1	901	7	Petra	Vanderková	F			28	kuchařka, servírka	Huštěnovice	99	80	A
-7202	592218	1	1	901	8	František	Kadlček	M			53	OSVČ poj. zprostředkovatel	Huštěnovice	1114	80	A
-7202	592218	1	1	901	9	Petra	Zubíková	F			47	adm. pracovnice, pěstounka	Huštěnovice	99	80	A
-7202	592218	1	2	1	1	Aleš	Richtr	M			37	starosta obce	Huštěnovice	1	1	A
-7202	592218	1	2	1	2	Vladimíra	Šobáňová	F	Ing. Mgr.		34	učitelka v ZŠ Huštěnovice	Huštěnovice	99	1	A
-7202	592218	1	2	1	3	Jaroslav	Králík	M	Ing.	Ph.D.	38	zemědělec	Huštěnovice	99	1	A
-7202	592218	1	2	1	4	Helena	Štolhoferová	F	Ing.		50	vedoucí stavebního úřadu	Huštěnovice	99	1	A
-7202	592218	1	2	1	5	Josef	Slezák	M	Ing.		65	agronom	Huštěnovice	1	1	A
-7202	592218	1	2	1	6	Edita	Šimová	F			52	účetní	Huštěnovice	1	1	A
-7202	592218	1	2	1	7	Jindřich	Petrucha	M	Ing.	Ph.D.	59	pedagog	Huštěnovice	1	1	A
-7202	592218	1	2	1	8	Zdeněk	Hruboš	M	Ing.	Ph.D.	33	vývojový inženýr	Huštěnovice	99	1	A
-7202	592218	1	2	1	9	Vladimír	Havlík	M			62	kuchař	Huštěnovice	1	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7202	592218	1	1	901	1	Petr	Malenovský	Mgr.		41	státní úředník	Huštěnovice	99	80	A	M
+7202	592218	1	2	1	1	Aleš	Richtr			37	starosta obce	Huštěnovice	1	1	A	M
+7202	592218	1	1	901	2	Pavel	Grebeníček	Ing.	Ph.D.	39	vysokoškolský učitel-ekonom, zastupitel Zl. kraje	Huštěnovice	768	80	A	M
+7202	592218	1	2	1	2	Vladimíra	Šobáňová	Ing. Mgr.		34	učitelka v ZŠ Huštěnovice	Huštěnovice	99	1	A	F
+7202	592218	1	1	901	3	Jiří	Silný	Mgr.		31	učitel druhého stupně ZŠ	Huštěnovice	768	80	A	M
+7202	592218	1	2	1	3	Jaroslav	Králík	Ing.	Ph.D.	38	zemědělec	Huštěnovice	99	1	A	M
+7202	592218	1	1	901	4	Lucie	Kulhavá	Ing.		36	projektová koordinátorka	Huštěnovice	99	80	A	F
+7202	592218	1	2	1	4	Helena	Štolhoferová	Ing.		50	vedoucí stavebního úřadu	Huštěnovice	99	1	A	F
+7202	592218	1	1	901	5	Petr	Straka	Ing.		31	certifikační pracovník	Huštěnovice	99	80	A	M
+7202	592218	1	2	1	5	Josef	Slezák	Ing.		65	agronom	Huštěnovice	1	1	A	M
+7202	592218	1	1	901	6	Ester	Maternová	Mgr.		37	středoškolská učitelka	Huštěnovice	99	80	A	F
+7202	592218	1	2	1	6	Edita	Šimová			52	účetní	Huštěnovice	1	1	A	F
+7202	592218	1	1	901	7	Petra	Vanderková			28	kuchařka, servírka	Huštěnovice	99	80	A	F
+7202	592218	1	2	1	7	Jindřich	Petrucha	Ing.	Ph.D.	59	pedagog	Huštěnovice	1	1	A	M
+7202	592218	1	1	901	8	František	Kadlček			53	OSVČ poj. zprostředkovatel	Huštěnovice	1114	80	A	M
+7202	592218	1	2	1	8	Zdeněk	Hruboš	Ing.	Ph.D.	33	vývojový inženýr	Huštěnovice	99	1	A	M
+7202	592218	1	1	901	9	Petra	Zubíková			47	adm. pracovnice, pěstounka	Huštěnovice	99	80	A	F
+7202	592218	1	2	1	9	Vladimír	Havlík			62	kuchař	Huštěnovice	1	1	A	M

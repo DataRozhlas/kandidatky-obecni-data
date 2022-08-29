@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	546844	1	1	53	1	Filip	Mencl	M	Mgr.		47	učitel	Novosedly nad Nežárkou	99	53	0
-3103	546844	1	1	53	2	Karel	Štěpán	M			32	lesník	Kolence	99	53	0
-3103	546844	1	1	53	3	Jaroslav	Bašta	M			53	podnikatel	Novosedly nad Nežárkou	53	53	0
-3103	546844	1	1	53	4	Vladimír	Lískovec	M			45	traktorista	Mláka	99	53	0
-3103	546844	1	1	53	5	Pavel	Brabec	M			49	elektromechanik	Novosedly nad Nežárkou	99	53	0
-3103	546844	1	1	53	6	Marie	Kotková	F			50	učitelka MŠ	Novosedly nad Nežárkou	99	53	0
-3103	546844	1	1	53	7	Jan	Kubata	M	Ing.		37	stavbyvedoucí	Novosedly nad Nežárkou	99	53	0
-3103	546844	1	1	53	8	Jaroslav	Vacek	M			53	řidič	Novosedly nad Nežárkou	99	53	0
-3103	546844	1	1	53	9	Jiří	Škopek	M	Ing.		49	podnikatel	Novosedly nad Nežárkou	99	53	0
-3103	546844	1	1	53	10	Stanislav	Šmíd	M			24	hasič	Novosedly nad Nežárkou	99	53	0
-3103	546844	1	1	53	11	Ludmila	Maryšková	F			51	poštovní doručovatelka	Kolence	99	53	0
-3103	546844	1	2	7	1	Antonín	Nalezený	M	Ing.		31	soukromý zemědělec	Novosedly nad Nežárkou	99	7	0
-3103	546844	1	2	7	2	Pavel	Průcha	M			39	dělník	Novosedly nad Nežárkou	99	7	0
-3103	546844	1	2	7	3	Miroslava	Havlová	F			38	ekonom	Novosedly nad Nežárkou	99	7	0
-3103	546844	1	2	7	4	František	Janů	M			65	důchodce	Kolence	99	7	0
-3103	546844	1	2	7	5	Zdeněk	Nalezený	M			29	soukromý zemědělec	Novosedly nad Nežárkou	99	7	0
-3103	546844	1	2	7	6	Miroslav	Kříž	M			61	lesní dělník	Mláka	7	7	0
-3103	546844	1	2	7	7	Antonín	Soukup	M	Ing.		60	invalidní důchodce	Novosedly nad Nežárkou	7	7	0
-3103	546844	1	2	7	8	Jana	Tondlová	F			39	fyzioterapeut	Novosedly nad Nežárkou	99	7	0
-3103	546844	1	2	7	9	Ladislav	Šmejkal	M			49	invalidní důchodce	Novosedly nad Nežárkou	99	7	0
-3103	546844	1	2	7	10	Alžběta	Křížová	F			58	soukromý zemědělec	Mláka	99	7	0
-3103	546844	1	2	7	11	Anna	Soukupová	F			55	dělník	Novosedly nad Nežárkou	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	546844	1	1	53	1	Filip	Mencl	Mgr.		47	učitel	Novosedly nad Nežárkou	99	53	0	M
+3103	546844	1	2	7	1	Antonín	Nalezený	Ing.		31	soukromý zemědělec	Novosedly nad Nežárkou	99	7	0	M
+3103	546844	1	1	53	2	Karel	Štěpán			32	lesník	Kolence	99	53	0	M
+3103	546844	1	2	7	2	Pavel	Průcha			39	dělník	Novosedly nad Nežárkou	99	7	0	M
+3103	546844	1	1	53	3	Jaroslav	Bašta			53	podnikatel	Novosedly nad Nežárkou	53	53	0	M
+3103	546844	1	2	7	3	Miroslava	Havlová			38	ekonom	Novosedly nad Nežárkou	99	7	0	F
+3103	546844	1	1	53	4	Vladimír	Lískovec			45	traktorista	Mláka	99	53	0	M
+3103	546844	1	2	7	4	František	Janů			65	důchodce	Kolence	99	7	0	M
+3103	546844	1	1	53	5	Pavel	Brabec			49	elektromechanik	Novosedly nad Nežárkou	99	53	0	M
+3103	546844	1	2	7	5	Zdeněk	Nalezený			29	soukromý zemědělec	Novosedly nad Nežárkou	99	7	0	M
+3103	546844	1	1	53	6	Marie	Kotková			50	učitelka MŠ	Novosedly nad Nežárkou	99	53	0	F
+3103	546844	1	2	7	6	Miroslav	Kříž			61	lesní dělník	Mláka	7	7	0	M
+3103	546844	1	1	53	7	Jan	Kubata	Ing.		37	stavbyvedoucí	Novosedly nad Nežárkou	99	53	0	M
+3103	546844	1	2	7	7	Antonín	Soukup	Ing.		60	invalidní důchodce	Novosedly nad Nežárkou	7	7	0	M
+3103	546844	1	1	53	8	Jaroslav	Vacek			53	řidič	Novosedly nad Nežárkou	99	53	0	M
+3103	546844	1	2	7	8	Jana	Tondlová			39	fyzioterapeut	Novosedly nad Nežárkou	99	7	0	F
+3103	546844	1	1	53	9	Jiří	Škopek	Ing.		49	podnikatel	Novosedly nad Nežárkou	99	53	0	M
+3103	546844	1	2	7	9	Ladislav	Šmejkal			49	invalidní důchodce	Novosedly nad Nežárkou	99	7	0	M
+3103	546844	1	1	53	10	Stanislav	Šmíd			24	hasič	Novosedly nad Nežárkou	99	53	0	M
+3103	546844	1	2	7	10	Alžběta	Křížová			58	soukromý zemědělec	Mláka	99	7	0	F
+3103	546844	1	1	53	11	Ludmila	Maryšková			51	poštovní doručovatelka	Kolence	99	53	0	F
+3103	546844	1	2	7	11	Anna	Soukupová			55	dělník	Novosedly nad Nežárkou	99	7	0	F

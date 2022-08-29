@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8102	552640	1	1	714	1	Jindřich	Liszka	M	Ing.		58	OSVČ	Řeka	714	714	A
-8102	552640	1	1	714	2	Jan	Wlosok	M	Mgr.		37	učitel	Řeka	99	714	A
-8102	552640	1	1	714	3	Petr	Šotkovský	M	Ing.		41	technik MAR	Řeka	99	714	A
-8102	552640	1	1	714	4	Věra	Riedelová	F	Bc.		49	asistent logistiky	Řeka	99	714	A
-8102	552640	1	1	714	5	Veronika	Lapišová	F	Ing. Bc.		35	OSVČ	Řeka	99	714	A
-8102	552640	1	1	714	6	Petra	Šotkovská	F	Ing.		39	projektový manažer	Řeka	99	714	A
-8102	552640	1	1	714	7	Lucia	Wlosoková	F	Mgr.		37	fyzioterapeut	Řeka	99	714	A
-8102	552640	1	1	714	8	Adam	Lokajíček	M	Ing. arch.		34	architekt	Řeka	99	714	A
-8102	552640	1	1	714	9	Lenka	Němcová Bujoková	F		DiS.	47	masér	Řeka	99	714	A
-8102	552640	1	2	901	1	Tomáš	Tomeczek	M			47	místopředseda odboru	Řeka	99	80	A
-8102	552640	1	2	901	2	Jaroslava	Sikorová	F			53	správce rek. objektů	Řeka	99	80	A
-8102	552640	1	2	901	3	Eduard	Muroň	M			49	revizní zámečník	Řeka	99	80	A
-8102	552640	1	2	901	4	Monika	Ciencialová	F			40	koordinátorka kvality	Řeka	99	80	A
-8102	552640	1	2	901	5	Rostislav	Kavulok	M			42	obchodní manažer	Řeka	99	80	A
-8102	552640	1	2	901	6	Erich	Nowak	M			54	technik Linde	Řeka	99	80	A
-8102	552640	1	2	901	7	Vladimír	Švrček	M			39	řidič SS MSK	Řeka	99	80	A
-8102	552640	1	2	901	8	Ivo	Kulnig	M	Ing.		58	ekonom	Řeka	99	80	A
-8102	552640	1	2	901	9	Aneta	Majerčiak	F			35	lékárník	Řeka	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8102	552640	1	1	714	1	Jindřich	Liszka	Ing.		58	OSVČ	Řeka	714	714	A	M
+8102	552640	1	2	901	1	Tomáš	Tomeczek			47	místopředseda odboru	Řeka	99	80	A	M
+8102	552640	1	1	714	2	Jan	Wlosok	Mgr.		37	učitel	Řeka	99	714	A	M
+8102	552640	1	2	901	2	Jaroslava	Sikorová			53	správce rek. objektů	Řeka	99	80	A	F
+8102	552640	1	1	714	3	Petr	Šotkovský	Ing.		41	technik MAR	Řeka	99	714	A	M
+8102	552640	1	2	901	3	Eduard	Muroň			49	revizní zámečník	Řeka	99	80	A	M
+8102	552640	1	1	714	4	Věra	Riedelová	Bc.		49	asistent logistiky	Řeka	99	714	A	F
+8102	552640	1	2	901	4	Monika	Ciencialová			40	koordinátorka kvality	Řeka	99	80	A	F
+8102	552640	1	1	714	5	Veronika	Lapišová	Ing. Bc.		35	OSVČ	Řeka	99	714	A	F
+8102	552640	1	2	901	5	Rostislav	Kavulok			42	obchodní manažer	Řeka	99	80	A	M
+8102	552640	1	1	714	6	Petra	Šotkovská	Ing.		39	projektový manažer	Řeka	99	714	A	F
+8102	552640	1	2	901	6	Erich	Nowak			54	technik Linde	Řeka	99	80	A	M
+8102	552640	1	1	714	7	Lucia	Wlosoková	Mgr.		37	fyzioterapeut	Řeka	99	714	A	F
+8102	552640	1	2	901	7	Vladimír	Švrček			39	řidič SS MSK	Řeka	99	80	A	M
+8102	552640	1	1	714	8	Adam	Lokajíček	Ing. arch.		34	architekt	Řeka	99	714	A	M
+8102	552640	1	2	901	8	Ivo	Kulnig	Ing.		58	ekonom	Řeka	99	80	A	M
+8102	552640	1	1	714	9	Lenka	Němcová Bujoková		DiS.	47	masér	Řeka	99	714	A	F
+8102	552640	1	2	901	9	Aneta	Majerčiak			35	lékárník	Řeka	99	80	A	F

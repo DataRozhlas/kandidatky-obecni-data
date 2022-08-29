@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	565245	1	1	53	1	Stanislav	Filip	M	Bc.		50	podnikatel	Malé Žernoseky	99	53	A
-4203	565245	1	1	53	2	David	Kurucz	M			44	technik	Malé Žernoseky	99	53	A
-4203	565245	1	1	53	3	Jitka	Puravcová	F			42	učitelka	Malé Žernoseky	99	53	A
-4203	565245	1	1	53	4	Jaroslav	Šafránek	M			51	řidič	Malé Žernoseky	99	53	A
-4203	565245	1	1	53	5	Arpád	Gebur	M			45	obchodní zástupce, podnikatel	Malé Žernoseky	99	53	A
-4203	565245	1	1	53	6	Jiří	Rys	M			54	technik dopravního značení, podnikatel	Malé Žernoseky	53	53	A
-4203	565245	1	1	53	7	Martina	Křivohlavá	F			46	skladnice	Malé Žernoseky	99	53	A
-4203	565245	1	1	53	8	Petr	Sozanský	M			52	mistr	Malé Žernoseky	99	53	A
-4203	565245	1	1	53	9	Karel	Gut	M			43	směnový mistr	Malé Žernoseky	99	53	A
-4203	565245	1	1	53	10	Josef	Chmelenský	M			69	důchodce	Malé Žernoseky	99	53	A
-4203	565245	1	1	53	11	Ilona	Zelenková	F			50	pokladní	Malé Žernoseky	99	53	A
-4203	565245	1	1	53	12	Jitka	Hofmanová	F			55	důchodce	Malé Žernoseky	99	53	A
-4203	565245	1	1	53	13	Pavel	Král	M			43	dělník	Malé Žernoseky	99	53	A
-4203	565245	1	1	53	14	Stanislav	Hutter	M			67	důchodce	Malé Žernoseky	99	53	A
-4203	565245	1	1	53	15	Jindřich	Reichl	M			51	podnikatel	Malé Žernoseky	99	53	A
-4203	565245	1	2	470	1	Petr	Liška	M	Ing.		48	starosta, projektant pozemních staveb	Malé Žernoseky	166	166	A
-4203	565245	1	2	470	2	Jiří	Patzl	M			69	místostarosta, důchodce	Malé Žernoseky	99	166	A
-4203	565245	1	2	470	3	Josef	Herčík	M			61	úředník	Malé Žernoseky	99	80	A
-4203	565245	1	2	470	4	Dana	Vyhnálková	F			54	administrativní pracovník	Malé Žernoseky	99	166	A
-4203	565245	1	2	470	5	Marie	Havranová	F	Mgr.		43	učitelka	Malé Žernoseky	99	166	A
-4203	565245	1	2	470	6	Soňa	Bařtipánová	F	JUDr.		35	právník	Malé Žernoseky	99	166	A
-4203	565245	1	2	470	7	Darina	Rychtářová	F			41	osoba samostatně výdělečně činná	Malé Žernoseky	99	80	A
-4203	565245	1	2	470	8	Ivan	Jirásek	M			54	obchodní zástupce	Malé Žernoseky	99	80	A
-4203	565245	1	2	470	9	Radoslav	Baslík	M			47	osoba samostatně výdělečně činná	Malé Žernoseky	99	166	A
-4203	565245	1	2	470	10	Tomáš	Toušek	M	Bc.		40	provozní mistr	Malé Žernoseky	99	80	A
-4203	565245	1	2	470	11	Romana	Dvořáková	F			36	účetní	Malé Žernoseky	99	166	A
-4203	565245	1	2	470	12	Alena	Cestrová	F			57	účetní	Malé Žernoseky	99	166	A
-4203	565245	1	2	470	13	Václav	Mládek	M			76	důchodce	Malé Žernoseky	99	166	A
-4203	565245	1	2	470	14	Květoslav	Kutzler	M			66	bagrista	Malé Žernoseky	99	166	A
-4203	565245	1	2	470	15	Karel	Novotný	M			49	hasič	Malé Žernoseky	99	166	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	565245	1	1	53	1	Stanislav	Filip	Bc.		50	podnikatel	Malé Žernoseky	99	53	A	M
+4203	565245	1	2	470	1	Petr	Liška	Ing.		48	starosta, projektant pozemních staveb	Malé Žernoseky	166	166	A	M
+4203	565245	1	1	53	2	David	Kurucz			44	technik	Malé Žernoseky	99	53	A	M
+4203	565245	1	2	470	2	Jiří	Patzl			69	místostarosta, důchodce	Malé Žernoseky	99	166	A	M
+4203	565245	1	1	53	3	Jitka	Puravcová			42	učitelka	Malé Žernoseky	99	53	A	F
+4203	565245	1	2	470	3	Josef	Herčík			61	úředník	Malé Žernoseky	99	80	A	M
+4203	565245	1	1	53	4	Jaroslav	Šafránek			51	řidič	Malé Žernoseky	99	53	A	M
+4203	565245	1	2	470	4	Dana	Vyhnálková			54	administrativní pracovník	Malé Žernoseky	99	166	A	F
+4203	565245	1	1	53	5	Arpád	Gebur			45	obchodní zástupce, podnikatel	Malé Žernoseky	99	53	A	M
+4203	565245	1	2	470	5	Marie	Havranová	Mgr.		43	učitelka	Malé Žernoseky	99	166	A	F
+4203	565245	1	1	53	6	Jiří	Rys			54	technik dopravního značení, podnikatel	Malé Žernoseky	53	53	A	M
+4203	565245	1	2	470	6	Soňa	Bařtipánová	JUDr.		35	právník	Malé Žernoseky	99	166	A	F
+4203	565245	1	1	53	7	Martina	Křivohlavá			46	skladnice	Malé Žernoseky	99	53	A	F
+4203	565245	1	2	470	7	Darina	Rychtářová			41	osoba samostatně výdělečně činná	Malé Žernoseky	99	80	A	F
+4203	565245	1	1	53	8	Petr	Sozanský			52	mistr	Malé Žernoseky	99	53	A	M
+4203	565245	1	2	470	8	Ivan	Jirásek			54	obchodní zástupce	Malé Žernoseky	99	80	A	M
+4203	565245	1	1	53	9	Karel	Gut			43	směnový mistr	Malé Žernoseky	99	53	A	M
+4203	565245	1	2	470	9	Radoslav	Baslík			47	osoba samostatně výdělečně činná	Malé Žernoseky	99	166	A	M
+4203	565245	1	1	53	10	Josef	Chmelenský			69	důchodce	Malé Žernoseky	99	53	A	M
+4203	565245	1	2	470	10	Tomáš	Toušek	Bc.		40	provozní mistr	Malé Žernoseky	99	80	A	M
+4203	565245	1	1	53	11	Ilona	Zelenková			50	pokladní	Malé Žernoseky	99	53	A	F
+4203	565245	1	2	470	11	Romana	Dvořáková			36	účetní	Malé Žernoseky	99	166	A	F
+4203	565245	1	1	53	12	Jitka	Hofmanová			55	důchodce	Malé Žernoseky	99	53	A	F
+4203	565245	1	2	470	12	Alena	Cestrová			57	účetní	Malé Žernoseky	99	166	A	F
+4203	565245	1	1	53	13	Pavel	Král			43	dělník	Malé Žernoseky	99	53	A	M
+4203	565245	1	2	470	13	Václav	Mládek			76	důchodce	Malé Žernoseky	99	166	A	M
+4203	565245	1	1	53	14	Stanislav	Hutter			67	důchodce	Malé Žernoseky	99	53	A	M
+4203	565245	1	2	470	14	Květoslav	Kutzler			66	bagrista	Malé Žernoseky	99	166	A	M
+4203	565245	1	1	53	15	Jindřich	Reichl			51	podnikatel	Malé Žernoseky	99	53	A	M
+4203	565245	1	2	470	15	Karel	Novotný			49	hasič	Malé Žernoseky	99	166	A	M

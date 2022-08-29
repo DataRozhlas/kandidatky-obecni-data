@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6204	584711	1	1	1	1	Jiří	Vacenovský	M			46	brusič kovů	Nikolčice	1	1	0
-6204	584711	1	1	1	2	Miroslav	Rabovský	M	Ing.		44	ekonom	Nikolčice	99	1	0
-6204	584711	1	1	1	3	Václav	Kosina	M			53	zámečník	Nikolčice	1	1	0
-6204	584711	1	1	1	4	Jiří	Hrabec	M	Ing.		53	osoba samostatně výdělečně činná	Nikolčice	99	1	0
-6204	584711	1	1	1	5	Jitka	Kaňová	F			41	technik	Nikolčice	99	1	0
-6204	584711	1	1	1	6	Jaroslav	Matýšek	M	Ing. Bc.		27	zemědělský inženýr	Nikolčice	99	1	0
-6204	584711	1	1	1	7	Jana	Hrančíková	F			47	účetní	Nikolčice	99	1	0
-6204	584711	1	1	1	8	František	Čapka	M			44	servisní technik	Nikolčice	1	1	0
-6204	584711	1	1	1	9	Jitka	Konečná	F			29	staniční sestra	Nikolčice	1	1	0
-6204	584711	1	1	1	10	Josef	Strouhal	M			51	zootechnik	Nikolčice	99	1	0
-6204	584711	1	1	1	11	Miloslav	Němec	M			52	montážní technik	Nikolčice	99	1	0
-6204	584711	1	1	1	12	Martin	Rabovský	M			52	výpravčí	Nikolčice	99	1	0
-6204	584711	1	1	1	13	Jaroslav	Matýšek	M			53	chovatel hospodářských zvířat	Nikolčice	1	1	0
-6204	584711	1	1	1	14	Zdeněk	Rabovský	M			48	stolař	Nikolčice	99	1	0
-6204	584711	1	1	1	15	Vojtěch	Konečný	M	Ing.		66	důchodce	Nikolčice	1	1	0
-6204	584711	1	2	901	1	Václav	Hlaváček	M	Ing.	CSc.	62	jednatel společnosti	Nikolčice	99	80	0
-6204	584711	1	2	901	2	David	Hrouzek	M			34	obchodní ředitel	Nikolčice	99	80	0
-6204	584711	1	2	901	3	Jana	Šušnová	F			56	vedoucí farmy	Nikolčice	99	80	0
-6204	584711	1	2	901	4	Pavel	Všianský	M			46	jednatel společnosti	Nikolčice	99	80	0
-6204	584711	1	2	901	5	Milan	Pokorný	M			37	obchodní zástupce	Nikolčice	99	80	0
-6204	584711	1	2	901	6	Josef	Strouhal	M			51	jednatel společnosti	Nikolčice	99	80	0
-6204	584711	1	2	901	7	Radomír	Zelinka	M			44	ředitel	Nikolčice	99	80	0
-6204	584711	1	2	901	8	Brigita	Vargová	F	Ing.		36	vedoucí výroby radiofarmak	Nikolčice	99	80	0
-6204	584711	1	2	901	9	Miroslav	Vedra	M			45	vedoucí expedice	Nikolčice	99	80	0
-6204	584711	1	2	901	10	Radka	Májová	F			25	účetní	Nikolčice	99	80	0
-6204	584711	1	2	901	11	Lenka	Hlaváčková	F			38	zdravotní laborantka	Nikolčice	99	80	0
-6204	584711	1	2	901	12	Zdeněk	Prchal	M			35	vedoucí vinic	Nikolčice	99	80	0
-6204	584711	1	2	901	13	Josef	Hrouzek	M	Ing.		64	starosta obce	Nikolčice	99	80	0
-6204	584711	1	2	901	14	Pavel	Urbánek	M			66	důchodce	Nikolčice	99	80	0
-6204	584711	1	2	901	15	Michal	Mnacakanov	M			47	jednatel společnosti	Nikolčice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6204	584711	1	1	1	1	Jiří	Vacenovský			46	brusič kovů	Nikolčice	1	1	0	M
+6204	584711	1	2	901	1	Václav	Hlaváček	Ing.	CSc.	62	jednatel společnosti	Nikolčice	99	80	0	M
+6204	584711	1	1	1	2	Miroslav	Rabovský	Ing.		44	ekonom	Nikolčice	99	1	0	M
+6204	584711	1	2	901	2	David	Hrouzek			34	obchodní ředitel	Nikolčice	99	80	0	M
+6204	584711	1	1	1	3	Václav	Kosina			53	zámečník	Nikolčice	1	1	0	M
+6204	584711	1	2	901	3	Jana	Šušnová			56	vedoucí farmy	Nikolčice	99	80	0	F
+6204	584711	1	1	1	4	Jiří	Hrabec	Ing.		53	osoba samostatně výdělečně činná	Nikolčice	99	1	0	M
+6204	584711	1	2	901	4	Pavel	Všianský			46	jednatel společnosti	Nikolčice	99	80	0	M
+6204	584711	1	1	1	5	Jitka	Kaňová			41	technik	Nikolčice	99	1	0	F
+6204	584711	1	2	901	5	Milan	Pokorný			37	obchodní zástupce	Nikolčice	99	80	0	M
+6204	584711	1	1	1	6	Jaroslav	Matýšek	Ing. Bc.		27	zemědělský inženýr	Nikolčice	99	1	0	M
+6204	584711	1	2	901	6	Josef	Strouhal			51	jednatel společnosti	Nikolčice	99	80	0	M
+6204	584711	1	1	1	7	Jana	Hrančíková			47	účetní	Nikolčice	99	1	0	F
+6204	584711	1	2	901	7	Radomír	Zelinka			44	ředitel	Nikolčice	99	80	0	M
+6204	584711	1	1	1	8	František	Čapka			44	servisní technik	Nikolčice	1	1	0	M
+6204	584711	1	2	901	8	Brigita	Vargová	Ing.		36	vedoucí výroby radiofarmak	Nikolčice	99	80	0	F
+6204	584711	1	1	1	9	Jitka	Konečná			29	staniční sestra	Nikolčice	1	1	0	F
+6204	584711	1	2	901	9	Miroslav	Vedra			45	vedoucí expedice	Nikolčice	99	80	0	M
+6204	584711	1	1	1	10	Josef	Strouhal			51	zootechnik	Nikolčice	99	1	0	M
+6204	584711	1	2	901	10	Radka	Májová			25	účetní	Nikolčice	99	80	0	F
+6204	584711	1	1	1	11	Miloslav	Němec			52	montážní technik	Nikolčice	99	1	0	M
+6204	584711	1	2	901	11	Lenka	Hlaváčková			38	zdravotní laborantka	Nikolčice	99	80	0	F
+6204	584711	1	1	1	12	Martin	Rabovský			52	výpravčí	Nikolčice	99	1	0	M
+6204	584711	1	2	901	12	Zdeněk	Prchal			35	vedoucí vinic	Nikolčice	99	80	0	M
+6204	584711	1	1	1	13	Jaroslav	Matýšek			53	chovatel hospodářských zvířat	Nikolčice	1	1	0	M
+6204	584711	1	2	901	13	Josef	Hrouzek	Ing.		64	starosta obce	Nikolčice	99	80	0	M
+6204	584711	1	1	1	14	Zdeněk	Rabovský			48	stolař	Nikolčice	99	1	0	M
+6204	584711	1	2	901	14	Pavel	Urbánek			66	důchodce	Nikolčice	99	80	0	M
+6204	584711	1	1	1	15	Vojtěch	Konečný	Ing.		66	důchodce	Nikolčice	1	1	0	M
+6204	584711	1	2	901	15	Michal	Mnacakanov			47	jednatel společnosti	Nikolčice	99	80	0	M

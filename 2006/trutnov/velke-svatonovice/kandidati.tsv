@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579785	1	1	901	1	Jarmila	Seidelová	F			60	starostka	Velké Svatoňovice	99	80	0
-5205	579785	1	1	901	2	Petr	Martinec	M			33	předseda ZD	Velké Svatoňovice	99	80	0
-5205	579785	1	1	901	3	Libor	Kult	M	Ing.		51	technik	Velké Svatoňovice	99	80	0
-5205	579785	1	1	901	4	Irena	Šoulová	F			44	ekonomka	Velké Svatoňovice	99	80	0
-5205	579785	1	1	901	5	Radek	Posdiena	M			37	státní zaměstnanec	Velké Svatoňovice	99	80	0
-5205	579785	1	1	901	6	Eduard	Vlček	M			65	lesní technik v důchodu	Velké Svatoňovice	99	80	0
-5205	579785	1	1	901	7	Jaroslav	Novák	M			55	podnikatel	Velké Svatoňovice	99	80	0
-5205	579785	1	1	901	8	Jan	Teichman	M			43	řidič	Velké Svatoňovice	99	80	0
-5205	579785	1	1	901	9	Věra	Jansová	F			48	dělnice	Velké Svatoňovice	99	80	0
-5205	579785	1	2	902	1	Monika	Škápíková	F			35	ředitelka ústavu	Markoušovice	99	80	0
-5205	579785	1	2	902	2	Zdeněk	Štěpán	M	Ing.		44	technik	Markoušovice	99	80	0
-5205	579785	1	2	902	3	Jiří	Kroulík	M			64	důchodce	Markoušovice	99	80	0
-5205	579785	1	2	902	4	Dušan	Frýba	M			30	obchodní zástupce	Markoušovice	99	80	0
-5205	579785	1	2	902	5	Petr	Dolejška	M			30	dělník	Markoušovice	99	80	0
-5205	579785	1	2	902	6	Tomáš	Čurda	M			22	student	Markoušovice	99	80	0
-5205	579785	1	2	902	7	Jaroslav	Kárník	M			53	dělník	Markoušovice	99	80	0
-5205	579785	1	2	902	8	Miroslav	Králík	M			46	dělník	Markoušovice	99	80	0
-5205	579785	1	2	902	9	Olga	Šrollová	F			68	učitelka v důchodu	Markoušovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579785	1	1	901	1	Jarmila	Seidelová			60	starostka	Velké Svatoňovice	99	80	0	F
+5205	579785	1	2	902	1	Monika	Škápíková			35	ředitelka ústavu	Markoušovice	99	80	0	F
+5205	579785	1	1	901	2	Petr	Martinec			33	předseda ZD	Velké Svatoňovice	99	80	0	M
+5205	579785	1	2	902	2	Zdeněk	Štěpán	Ing.		44	technik	Markoušovice	99	80	0	M
+5205	579785	1	1	901	3	Libor	Kult	Ing.		51	technik	Velké Svatoňovice	99	80	0	M
+5205	579785	1	2	902	3	Jiří	Kroulík			64	důchodce	Markoušovice	99	80	0	M
+5205	579785	1	1	901	4	Irena	Šoulová			44	ekonomka	Velké Svatoňovice	99	80	0	F
+5205	579785	1	2	902	4	Dušan	Frýba			30	obchodní zástupce	Markoušovice	99	80	0	M
+5205	579785	1	1	901	5	Radek	Posdiena			37	státní zaměstnanec	Velké Svatoňovice	99	80	0	M
+5205	579785	1	2	902	5	Petr	Dolejška			30	dělník	Markoušovice	99	80	0	M
+5205	579785	1	1	901	6	Eduard	Vlček			65	lesní technik v důchodu	Velké Svatoňovice	99	80	0	M
+5205	579785	1	2	902	6	Tomáš	Čurda			22	student	Markoušovice	99	80	0	M
+5205	579785	1	1	901	7	Jaroslav	Novák			55	podnikatel	Velké Svatoňovice	99	80	0	M
+5205	579785	1	2	902	7	Jaroslav	Kárník			53	dělník	Markoušovice	99	80	0	M
+5205	579785	1	1	901	8	Jan	Teichman			43	řidič	Velké Svatoňovice	99	80	0	M
+5205	579785	1	2	902	8	Miroslav	Králík			46	dělník	Markoušovice	99	80	0	M
+5205	579785	1	1	901	9	Věra	Jansová			48	dělnice	Velké Svatoňovice	99	80	0	F
+5205	579785	1	2	902	9	Olga	Šrollová			68	učitelka v důchodu	Markoušovice	99	80	0	F

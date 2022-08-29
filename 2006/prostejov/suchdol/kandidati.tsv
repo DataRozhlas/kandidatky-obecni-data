@@ -1,38 +1,38 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	590088	1	1	901	1	Jitka	Zahálková	F	Ing. Mgr.		32	ekonom	Suchdol - Labutice	99	80	0
-7103	590088	1	1	901	2	Radek	Fiedler	M	Ing.		34	technik	Suchdol	99	80	0
-7103	590088	1	1	901	3	Ladislav	Ošlejšek	M			59	technik	Suchdol - Jednov	99	80	0
-7103	590088	1	1	901	4	Vladimír	Grepl	M			49	dělník	Suchdol	99	80	0
-7103	590088	1	1	901	5	František	Fiedler	M			32	technik	Suchdol - Labutice	99	80	0
-7103	590088	1	1	901	6	Marie	Snášelová	F			62	důchodkyně	Suchdol - Jednov	99	80	0
-7103	590088	1	1	901	7	Ladislav	Šustr	M			54	technik	Suchdol - Jednov	99	80	0
-7103	590088	1	1	901	8	Pavel	Grepl	M	Ing.		37	konzulent	Suchdol	99	80	0
-7103	590088	1	1	901	9	Zdeněk	Dostál	M			36	dělník	Suchdol	99	80	0
-7103	590088	1	2	801	1	Jan	Pejř	M	Ing.		59	zemědělský inženýr	Suchdol - Labutice	99	80	0
-7103	590088	1	3	1	1	Jaroslav	Šustr	M			59	technik	Suchdol	1	1	0
-7103	590088	1	3	1	2	Antonín	Spáčil	M			44	OSVČ	Suchdol	1	1	0
-7103	590088	1	3	1	3	Pavel	Grepl	M			41	elektromechanik	Labutice	99	1	0
-7103	590088	1	3	1	4	František	Zatloukal	M			51	strážný	Suchdol	1	1	0
-7103	590088	1	3	1	5	František	Jelínek	M			67	důchodce	Suchdol	1	1	0
-7103	590088	1	3	1	6	Josef	Koudelka	M			57	důchodce	Jednov	1	1	0
-7103	590088	1	3	1	7	Josef	Jelínek	M			62	důchodce	Suchdol	99	1	0
-7103	590088	1	3	1	8	Eva	Valentová	F			41	školnice	Jednov	99	1	0
-7103	590088	1	3	1	9	Josef	Zatloukal	M			35	elektromechanik	Suchdol	99	1	0
-7103	590088	1	4	7	1	Josef	Švec	M			51	podnikatel	Suchdol - Jednov	7	7	0
-7103	590088	1	4	7	2	Lenka	Milarová	F			45	ved.učitelka mateřské školy	Suchdol	99	7	0
-7103	590088	1	4	7	3	Miroslav	Šmehlík	M			38	stavební technik	Suchdol - Jednov	7	7	0
-7103	590088	1	4	7	4	Zdenek	Korčák	M			41	elektroúdržbář	Suchdol	7	7	0
-7103	590088	1	4	7	5	Pavel	Franc	M			46	podnikatel	Suchdol - Labutice	99	7	0
-7103	590088	1	4	7	6	Tomáš	Marek	M			31	obráběč kovů	Suchdol - Labutice	99	7	0
-7103	590088	1	4	7	7	Milan	Ošlejšek	M			44	instalatér	Suchdol	99	7	0
-7103	590088	1	4	7	8	Pavla	Greplová	F			22	administrativní pracovnice	Suchdol	99	7	0
-7103	590088	1	4	7	9	Milan	Koudelka	M			53	údržbář	Suchdol - Jednov	7	7	0
-7103	590088	1	5	47	1	Milan	Grepl	M			29	dělník	Suchdol	99	47	0
-7103	590088	1	5	47	2	Zbyněk	Trunda	M			31	dělník	Suchdol	99	47	0
-7103	590088	1	5	47	3	Luděk	Zatloukal	M			30	dělník	Suchdol-Jednov	99	47	0
-7103	590088	1	5	47	4	Hana	Růžičková	F			45	dělnice	Suchdol	99	47	0
-7103	590088	1	5	47	5	Jarmila	Burgetová	F			27	dělnice	Suchdol-Labutice	99	47	0
-7103	590088	1	5	47	6	Josef	Dostál	M			58	dělník	Suchdol	99	47	0
-7103	590088	1	5	47	7	Josef	Vlach	M			57	dělník	Suchdol-Labutice	47	47	0
-7103	590088	1	5	47	8	Jaroslav	Řepík	M			50	dělník	Suchdol-Jednov	99	47	0
-7103	590088	1	5	47	9	Jaroslav	Růžička	M			60	starosta	Suchdol	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	590088	1	1	901	1	Jitka	Zahálková	Ing. Mgr.		32	ekonom	Suchdol - Labutice	99	80	0	F
+7103	590088	1	2	801	1	Jan	Pejř	Ing.		59	zemědělský inženýr	Suchdol - Labutice	99	80	0	M
+7103	590088	1	3	1	1	Jaroslav	Šustr			59	technik	Suchdol	1	1	0	M
+7103	590088	1	4	7	1	Josef	Švec			51	podnikatel	Suchdol - Jednov	7	7	0	M
+7103	590088	1	5	47	1	Milan	Grepl			29	dělník	Suchdol	99	47	0	M
+7103	590088	1	1	901	2	Radek	Fiedler	Ing.		34	technik	Suchdol	99	80	0	M
+7103	590088	1	3	1	2	Antonín	Spáčil			44	OSVČ	Suchdol	1	1	0	M
+7103	590088	1	4	7	2	Lenka	Milarová			45	ved.učitelka mateřské školy	Suchdol	99	7	0	F
+7103	590088	1	5	47	2	Zbyněk	Trunda			31	dělník	Suchdol	99	47	0	M
+7103	590088	1	1	901	3	Ladislav	Ošlejšek			59	technik	Suchdol - Jednov	99	80	0	M
+7103	590088	1	3	1	3	Pavel	Grepl			41	elektromechanik	Labutice	99	1	0	M
+7103	590088	1	4	7	3	Miroslav	Šmehlík			38	stavební technik	Suchdol - Jednov	7	7	0	M
+7103	590088	1	5	47	3	Luděk	Zatloukal			30	dělník	Suchdol-Jednov	99	47	0	M
+7103	590088	1	1	901	4	Vladimír	Grepl			49	dělník	Suchdol	99	80	0	M
+7103	590088	1	3	1	4	František	Zatloukal			51	strážný	Suchdol	1	1	0	M
+7103	590088	1	4	7	4	Zdenek	Korčák			41	elektroúdržbář	Suchdol	7	7	0	M
+7103	590088	1	5	47	4	Hana	Růžičková			45	dělnice	Suchdol	99	47	0	F
+7103	590088	1	1	901	5	František	Fiedler			32	technik	Suchdol - Labutice	99	80	0	M
+7103	590088	1	3	1	5	František	Jelínek			67	důchodce	Suchdol	1	1	0	M
+7103	590088	1	4	7	5	Pavel	Franc			46	podnikatel	Suchdol - Labutice	99	7	0	M
+7103	590088	1	5	47	5	Jarmila	Burgetová			27	dělnice	Suchdol-Labutice	99	47	0	F
+7103	590088	1	1	901	6	Marie	Snášelová			62	důchodkyně	Suchdol - Jednov	99	80	0	F
+7103	590088	1	3	1	6	Josef	Koudelka			57	důchodce	Jednov	1	1	0	M
+7103	590088	1	4	7	6	Tomáš	Marek			31	obráběč kovů	Suchdol - Labutice	99	7	0	M
+7103	590088	1	5	47	6	Josef	Dostál			58	dělník	Suchdol	99	47	0	M
+7103	590088	1	1	901	7	Ladislav	Šustr			54	technik	Suchdol - Jednov	99	80	0	M
+7103	590088	1	3	1	7	Josef	Jelínek			62	důchodce	Suchdol	99	1	0	M
+7103	590088	1	4	7	7	Milan	Ošlejšek			44	instalatér	Suchdol	99	7	0	M
+7103	590088	1	5	47	7	Josef	Vlach			57	dělník	Suchdol-Labutice	47	47	0	M
+7103	590088	1	1	901	8	Pavel	Grepl	Ing.		37	konzulent	Suchdol	99	80	0	M
+7103	590088	1	3	1	8	Eva	Valentová			41	školnice	Jednov	99	1	0	F
+7103	590088	1	4	7	8	Pavla	Greplová			22	administrativní pracovnice	Suchdol	99	7	0	F
+7103	590088	1	5	47	8	Jaroslav	Řepík			50	dělník	Suchdol-Jednov	99	47	0	M
+7103	590088	1	1	901	9	Zdeněk	Dostál			36	dělník	Suchdol	99	80	0	M
+7103	590088	1	3	1	9	Josef	Zatloukal			35	elektromechanik	Suchdol	99	1	0	M
+7103	590088	1	4	7	9	Milan	Koudelka			53	údržbář	Suchdol - Jednov	7	7	0	M
+7103	590088	1	5	47	9	Jaroslav	Růžička			60	starosta	Suchdol	47	47	0	M

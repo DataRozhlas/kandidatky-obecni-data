@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	552411	1	1	1	1	Zuzana	Chodilová	F	Ing.		29	ekonom	Přáslavice	99	1	A
-7102	552411	1	1	1	2	Petr	Rubáček	M			56	čalouník	Přáslavice	99	1	A
-7102	552411	1	1	1	3	Jiří	Tomeček	M			24	účetní	Přáslavice	99	1	A
-7102	552411	1	1	1	4	Karel	Krejčí	M			49	dispečer dopravy	Přáslavice	1	1	A
-7102	552411	1	1	1	5	Ludmila	Doleželová	F			60	účetní	Kocourovec	1	1	A
-7102	552411	1	1	1	6	Čeněk	Poslušný	M			48	strojník	Přáslavice	1	1	A
-7102	552411	1	1	1	7	Libor	Lízal	M			45	OSVČ - hostinská činnost	Přáslavice	99	1	A
-7102	552411	1	1	1	8	Čestmír	Rochovanský	M	Ing.		64	stavební technik	Přáslavice	1	1	A
-7102	552411	1	1	1	9	Klára	Buriánková	F			27	vychovatelka ZŠ	Přáslavice	99	1	A
-7102	552411	1	2	387	1	Václav	Smutný	M			61	bezpečnostní pracovník	Přáslavice	47	47	A
-7102	552411	1	2	387	2	Ivana	Kutrová	F			64	prodavačka	Přáslavice	99	80	A
-7102	552411	1	2	387	3	Alexander	Potoczki	M			34	expedient	Přáslavice	99	80	A
-7102	552411	1	2	387	4	Ivona	Zapletalová	F			51	zdravotní sestra	Přáslavice	99	80	A
-7102	552411	1	2	387	5	Miroslava	Smutná	F			56	ekonomka	Přáslavice	47	47	A
-7102	552411	1	2	387	6	Pavel	Koudelák	M			48	OSVČ	Přáslavice	99	80	A
-7102	552411	1	2	387	7	Markéta	Korčeková	F			41	pokojská	Přáslavice	99	80	A
-7102	552411	1	2	387	8	Vladimír	Ščudla	M			74	důchodce	Přáslavice	47	47	A
-7102	552411	1	2	387	9	Jaroslav	Kolouch	M			60	zahradník	Přáslavice	99	80	A
-7102	552411	1	3	901	1	Ludvík	Chodil	M	Ing.	MBA	57	podnikatel	Přáslavice	99	80	A
-7102	552411	1	3	901	2	Irena	Janková	F	Mgr.		63	důchodce	Přáslavice	99	80	A
-7102	552411	1	3	901	3	Ondřej	Pavlát	M			39	voják z povolání	Přáslavice	99	80	A
-7102	552411	1	3	901	4	Jiří	Bartoněk	M			46	automechanik	Přáslavice	99	80	A
-7102	552411	1	3	901	5	Jana	Rubáčková	F			49	OSVČ	Přáslavice	99	80	A
-7102	552411	1	3	901	6	Roman	Kropáček	M			52	voják z povolání	Přáslavice	99	80	A
-7102	552411	1	3	901	7	David	Matečka	M			44	OSVČ	Přáslavice	99	80	A
-7102	552411	1	3	901	8	František	Beláček	M			71	důchodce	Přáslavice	99	80	A
-7102	552411	1	3	901	9	Milan	Kováčik	M			39	vedoucí servisu	Přáslavice	99	80	A
-7102	552411	1	4	166	1	Jitka	Ivanová	F	Ing.	DiS.	52	starostka	Přáslavice	166	166	A
-7102	552411	1	4	166	2	Miroslava	Tomaštíková	F			60	referentka v penzi	Přáslavice	99	166	A
-7102	552411	1	4	166	3	Dušan	Michalík	M	Bc.		24	student, kronikář obce	Přáslavice	99	166	A
-7102	552411	1	4	166	4	Josef	Jahn	M			35	elektromechanik	Přáslavice	99	166	A
-7102	552411	1	4	166	5	Libuše	Hrošová	F	Bc.		25	studentka, starostka SDH Přáslavice	Přáslavice	99	166	A
-7102	552411	1	4	166	6	Eva	Říhovská	F	Mgr.		45	staniční sestra	Přáslavice	99	166	A
-7102	552411	1	4	166	7	Vladimíra	Drgová	F			49	sekretářka	Přáslavice	99	166	A
-7102	552411	1	4	166	8	Vojtěch	Pazdera	M			53	operátor vakuových pecí	Přáslavice	99	166	A
-7102	552411	1	4	166	9	Milan	Číhalík	M			64	elektromechanik	Přáslavice	99	166	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	552411	1	1	1	1	Zuzana	Chodilová	Ing.		29	ekonom	Přáslavice	99	1	A	F
+7102	552411	1	2	387	1	Václav	Smutný			61	bezpečnostní pracovník	Přáslavice	47	47	A	M
+7102	552411	1	3	901	1	Ludvík	Chodil	Ing.	MBA	57	podnikatel	Přáslavice	99	80	A	M
+7102	552411	1	4	166	1	Jitka	Ivanová	Ing.	DiS.	52	starostka	Přáslavice	166	166	A	F
+7102	552411	1	1	1	2	Petr	Rubáček			56	čalouník	Přáslavice	99	1	A	M
+7102	552411	1	2	387	2	Ivana	Kutrová			64	prodavačka	Přáslavice	99	80	A	F
+7102	552411	1	3	901	2	Irena	Janková	Mgr.		63	důchodce	Přáslavice	99	80	A	F
+7102	552411	1	4	166	2	Miroslava	Tomaštíková			60	referentka v penzi	Přáslavice	99	166	A	F
+7102	552411	1	1	1	3	Jiří	Tomeček			24	účetní	Přáslavice	99	1	A	M
+7102	552411	1	2	387	3	Alexander	Potoczki			34	expedient	Přáslavice	99	80	A	M
+7102	552411	1	3	901	3	Ondřej	Pavlát			39	voják z povolání	Přáslavice	99	80	A	M
+7102	552411	1	4	166	3	Dušan	Michalík	Bc.		24	student, kronikář obce	Přáslavice	99	166	A	M
+7102	552411	1	1	1	4	Karel	Krejčí			49	dispečer dopravy	Přáslavice	1	1	A	M
+7102	552411	1	2	387	4	Ivona	Zapletalová			51	zdravotní sestra	Přáslavice	99	80	A	F
+7102	552411	1	3	901	4	Jiří	Bartoněk			46	automechanik	Přáslavice	99	80	A	M
+7102	552411	1	4	166	4	Josef	Jahn			35	elektromechanik	Přáslavice	99	166	A	M
+7102	552411	1	1	1	5	Ludmila	Doleželová			60	účetní	Kocourovec	1	1	A	F
+7102	552411	1	2	387	5	Miroslava	Smutná			56	ekonomka	Přáslavice	47	47	A	F
+7102	552411	1	3	901	5	Jana	Rubáčková			49	OSVČ	Přáslavice	99	80	A	F
+7102	552411	1	4	166	5	Libuše	Hrošová	Bc.		25	studentka, starostka SDH Přáslavice	Přáslavice	99	166	A	F
+7102	552411	1	1	1	6	Čeněk	Poslušný			48	strojník	Přáslavice	1	1	A	M
+7102	552411	1	2	387	6	Pavel	Koudelák			48	OSVČ	Přáslavice	99	80	A	M
+7102	552411	1	3	901	6	Roman	Kropáček			52	voják z povolání	Přáslavice	99	80	A	M
+7102	552411	1	4	166	6	Eva	Říhovská	Mgr.		45	staniční sestra	Přáslavice	99	166	A	F
+7102	552411	1	1	1	7	Libor	Lízal			45	OSVČ - hostinská činnost	Přáslavice	99	1	A	M
+7102	552411	1	2	387	7	Markéta	Korčeková			41	pokojská	Přáslavice	99	80	A	F
+7102	552411	1	3	901	7	David	Matečka			44	OSVČ	Přáslavice	99	80	A	M
+7102	552411	1	4	166	7	Vladimíra	Drgová			49	sekretářka	Přáslavice	99	166	A	F
+7102	552411	1	1	1	8	Čestmír	Rochovanský	Ing.		64	stavební technik	Přáslavice	1	1	A	M
+7102	552411	1	2	387	8	Vladimír	Ščudla			74	důchodce	Přáslavice	47	47	A	M
+7102	552411	1	3	901	8	František	Beláček			71	důchodce	Přáslavice	99	80	A	M
+7102	552411	1	4	166	8	Vojtěch	Pazdera			53	operátor vakuových pecí	Přáslavice	99	166	A	M
+7102	552411	1	1	1	9	Klára	Buriánková			27	vychovatelka ZŠ	Přáslavice	99	1	A	F
+7102	552411	1	2	387	9	Jaroslav	Kolouch			60	zahradník	Přáslavice	99	80	A	M
+7102	552411	1	3	901	9	Milan	Kováčik			39	vedoucí servisu	Přáslavice	99	80	A	M
+7102	552411	1	4	166	9	Milan	Číhalík			64	elektromechanik	Přáslavice	99	166	A	M

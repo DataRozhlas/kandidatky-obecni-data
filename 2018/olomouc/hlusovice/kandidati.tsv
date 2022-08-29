@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	552020	1	1	901	1	Anna	Kupková	F	Ing. Mgr.		42	firemní ekolog, skaut - zástupce vedoucího oddílu	Hlušovice	99	80	A
-7102	552020	1	1	901	2	Pavel	Adamovský	M	RNDr.	Ph.D.	42	chemik analytik	Hlušovice	99	80	A
-7102	552020	1	1	901	3	Vladimír	Vích	M			39	seřizovač ve strojírenské výrobě	Hlušovice	99	80	A
-7102	552020	1	1	901	4	Lenka	Gillová	F	Mgr.		42	biolog, skaut - družinka Benjamínků	Hlušovice	99	80	A
-7102	552020	1	1	901	5	Helena	Polcrová	F	Mgr.		49	pastorační asistentka	Hlušovice	1	80	A
-7102	552020	1	1	901	6	Juraj	Berzédi	M	Ing.		53	inspektor kvality ve strojírenství	Hlušovice	99	80	A
-7102	552020	1	1	901	7	Jiří	Husička	M			40	obchodní konzultant ve farmacii	Hlušovice	99	80	A
-7102	552020	1	1	901	8	Viktor	Dejmal	M	Mgr.		47	správce informačních a komunikačních technologií	Hlušovice	99	80	A
-7102	552020	1	1	901	9	Jitka	Protivánková	F	Mgr.		37	učitelka	Hlušovice	99	80	A
-7102	552020	1	2	902	1	Jiří	Syslo	M	Mgr.		45	referent bezpečnosti	Hlušovice	99	80	A
-7102	552020	1	2	902	2	Veronika	Zippe	F	Mgr.		40	rodičovská dovolená	Hlušovice	99	80	A
-7102	552020	1	2	902	3	Dominik	Grepl	M			19	student	Hlušovice	99	80	A
-7102	552020	1	2	902	4	Jiří	Seifert	M			48	podnikatel	Hlušovice	99	80	A
-7102	552020	1	2	902	5	Kateryna	Ovčačíková	F			36	zahradnice v zahradnickém centru	Hlušovice	99	80	A
-7102	552020	1	2	902	6	Peter	Páluš	M	Mgr.		39	ředitel internetového portálu GIVT.cz	Hlušovice	99	80	A
-7102	552020	1	2	902	7	Petr	Zbořil	M			39	vedoucí pobočky - automobilový průmysl	Hlušovice	99	80	A
-7102	552020	1	2	902	8	Pavel	Novák	M	Ing.		48	manažer	Hlušovice	99	80	A
-7102	552020	1	2	902	9	Jiří	Polcr	M	Ing.		58	specialista technické infrastruktury	Hlušovice	1	80	A
-7102	552020	1	3	7	1	Jaromír	Malý	M			51	starosta obce	Hlušovice	7	7	A
-7102	552020	1	3	7	2	Sylva	Adamovská	F	RNDr.		41	vedoucí laboratoře	Hlušovice	99	7	A
-7102	552020	1	3	7	3	Urszula	Tyrala	F		DiS.	37	OSVČ	Hlušovice	99	7	A
-7102	552020	1	3	7	4	Patrik	Šuba	M			37	autorizovaný technik, stavbyvedoucí	Hlušovice	7	7	A
-7102	552020	1	3	7	5	Ivona	Urbišová	F	Mgr.		48	ředitelka MŠ	Hlušovice	99	7	A
-7102	552020	1	3	7	6	Kateřina	Slavíčková	F			49	specialista marketingu	Hlušovice	99	7	A
-7102	552020	1	3	7	7	Eva	Jurková	F	Ing.		51	OSVČ	Hlušovice	99	7	A
-7102	552020	1	3	7	8	Miroslava	Jehlářová	F			35	bankovní specialista	Hlušovice	99	7	A
-7102	552020	1	3	7	9	Milan	Skřivánek	M			68	důchodce	Hlušovice	99	7	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	552020	1	1	901	1	Anna	Kupková	Ing. Mgr.		42	firemní ekolog, skaut - zástupce vedoucího oddílu	Hlušovice	99	80	A	F
+7102	552020	1	2	902	1	Jiří	Syslo	Mgr.		45	referent bezpečnosti	Hlušovice	99	80	A	M
+7102	552020	1	3	7	1	Jaromír	Malý			51	starosta obce	Hlušovice	7	7	A	M
+7102	552020	1	1	901	2	Pavel	Adamovský	RNDr.	Ph.D.	42	chemik analytik	Hlušovice	99	80	A	M
+7102	552020	1	2	902	2	Veronika	Zippe	Mgr.		40	rodičovská dovolená	Hlušovice	99	80	A	F
+7102	552020	1	3	7	2	Sylva	Adamovská	RNDr.		41	vedoucí laboratoře	Hlušovice	99	7	A	F
+7102	552020	1	1	901	3	Vladimír	Vích			39	seřizovač ve strojírenské výrobě	Hlušovice	99	80	A	M
+7102	552020	1	2	902	3	Dominik	Grepl			19	student	Hlušovice	99	80	A	M
+7102	552020	1	3	7	3	Urszula	Tyrala		DiS.	37	OSVČ	Hlušovice	99	7	A	F
+7102	552020	1	1	901	4	Lenka	Gillová	Mgr.		42	biolog, skaut - družinka Benjamínků	Hlušovice	99	80	A	F
+7102	552020	1	2	902	4	Jiří	Seifert			48	podnikatel	Hlušovice	99	80	A	M
+7102	552020	1	3	7	4	Patrik	Šuba			37	autorizovaný technik, stavbyvedoucí	Hlušovice	7	7	A	M
+7102	552020	1	1	901	5	Helena	Polcrová	Mgr.		49	pastorační asistentka	Hlušovice	1	80	A	F
+7102	552020	1	2	902	5	Kateryna	Ovčačíková			36	zahradnice v zahradnickém centru	Hlušovice	99	80	A	F
+7102	552020	1	3	7	5	Ivona	Urbišová	Mgr.		48	ředitelka MŠ	Hlušovice	99	7	A	F
+7102	552020	1	1	901	6	Juraj	Berzédi	Ing.		53	inspektor kvality ve strojírenství	Hlušovice	99	80	A	M
+7102	552020	1	2	902	6	Peter	Páluš	Mgr.		39	ředitel internetového portálu GIVT.cz	Hlušovice	99	80	A	M
+7102	552020	1	3	7	6	Kateřina	Slavíčková			49	specialista marketingu	Hlušovice	99	7	A	F
+7102	552020	1	1	901	7	Jiří	Husička			40	obchodní konzultant ve farmacii	Hlušovice	99	80	A	M
+7102	552020	1	2	902	7	Petr	Zbořil			39	vedoucí pobočky - automobilový průmysl	Hlušovice	99	80	A	M
+7102	552020	1	3	7	7	Eva	Jurková	Ing.		51	OSVČ	Hlušovice	99	7	A	F
+7102	552020	1	1	901	8	Viktor	Dejmal	Mgr.		47	správce informačních a komunikačních technologií	Hlušovice	99	80	A	M
+7102	552020	1	2	902	8	Pavel	Novák	Ing.		48	manažer	Hlušovice	99	80	A	M
+7102	552020	1	3	7	8	Miroslava	Jehlářová			35	bankovní specialista	Hlušovice	99	7	A	F
+7102	552020	1	1	901	9	Jitka	Protivánková	Mgr.		37	učitelka	Hlušovice	99	80	A	F
+7102	552020	1	2	902	9	Jiří	Polcr	Ing.		58	specialista technické infrastruktury	Hlušovice	1	80	A	M
+7102	552020	1	3	7	9	Milan	Skřivánek			68	důchodce	Hlušovice	99	7	A	M

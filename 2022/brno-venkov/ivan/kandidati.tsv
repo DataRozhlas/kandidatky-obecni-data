@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	584517	1	1	902	1	Jan	Gebauer	M			28	starosta	Ivaň	99	80	A
-6203	584517	1	1	902	2	Hynek	Holánek	M	Ing.		53	podnikatel	Ivaň	99	80	A
-6203	584517	1	1	902	3	Drahomír	Vondrák	M			51	podnikatel	Ivaň	99	80	A
-6203	584517	1	1	902	4	Lenka	Koubková	F	Mgr.		44	ředitelka	Ivaň	99	80	A
-6203	584517	1	1	902	5	Tomáš	Bartl	M			49	živnostník	Ivaň	99	80	A
-6203	584517	1	1	902	6	Pavel	Zapula	M			51	hrázný	Ivaň	99	80	A
-6203	584517	1	1	902	7	Helena	Graclová	F			54	ekonom	Ivaň	99	80	A
-6203	584517	1	1	902	8	Martin	Rybecký	M	Ing.		46	lesník	Ivaň	99	80	A
-6203	584517	1	1	902	9	Tomáš	Soudek	M	Ing.		44	manažer	Ivaň	99	80	A
-6203	584517	1	2	901	1	Michal	Bradáč	M			30	podnikatel	Ivaň	99	80	A
-6203	584517	1	2	901	2	Petr	Lang	M			54	podnikatel	Ivaň	99	80	A
-6203	584517	1	2	901	3	Hana	Dubšová	F	Ing. Mgr.		38	hygienička	Ivaň	99	80	A
-6203	584517	1	2	901	4	Soňa	Babčanová	F			57	zdravotní laborantka	Ivaň	99	80	A
-6203	584517	1	2	901	5	Pavel	Pekařík	M			37	přijímací technik	Ivaň	99	80	A
-6203	584517	1	2	901	6	Iveta	Celnarová	F			44	zdravotní laborantka	Ivaň	99	80	A
-6203	584517	1	2	901	7	Veronika	Solilová	F	doc. Ing.	Ph.D.	40	akademický pracovník	Ivaň	99	80	A
-6203	584517	1	2	901	8	David	Rohrer	M			30	obráběč kovů	Ivaň	99	80	A
-6203	584517	1	2	901	9	Vladimír	Lízal	M			50	školník	Ivaň	99	80	A
-6203	584517	1	3	903	1	Ilona	Matulová	F			61	důchodce	Ivaň	99	80	A
-6203	584517	1	3	903	2	Lenka	Pařízková	F			42	manager	Ivaň	721	80	A
-6203	584517	1	3	903	3	Pavla	Holzmannová	F			42	datový specialista	Ivaň	99	80	A
-6203	584517	1	3	903	4	Libuše	Fabičovicová	F			58	OSVČ	Ivaň	99	80	A
-6203	584517	1	3	903	5	Hana	Koubková	F			66	zdravotní sestra	Ivaň	99	80	A
-6203	584517	1	3	903	6	Josefa	Čaloudová	F			51	prodavačka	Ivaň	99	80	A
-6203	584517	1	3	903	7	Alena	Kvapilová	F			58	laborantka	Ivaň	99	80	A
-6203	584517	1	3	903	8	Marcela	Nečasová	F			57	účetní	Ivaň	99	80	A
-6203	584517	1	3	903	9	Helena	Pokorná	F			50	domácí péče	Ivaň	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	584517	1	1	902	1	Jan	Gebauer			28	starosta	Ivaň	99	80	A	M
+6203	584517	1	2	901	1	Michal	Bradáč			30	podnikatel	Ivaň	99	80	A	M
+6203	584517	1	3	903	1	Ilona	Matulová			61	důchodce	Ivaň	99	80	A	F
+6203	584517	1	1	902	2	Hynek	Holánek	Ing.		53	podnikatel	Ivaň	99	80	A	M
+6203	584517	1	2	901	2	Petr	Lang			54	podnikatel	Ivaň	99	80	A	M
+6203	584517	1	3	903	2	Lenka	Pařízková			42	manager	Ivaň	721	80	A	F
+6203	584517	1	1	902	3	Drahomír	Vondrák			51	podnikatel	Ivaň	99	80	A	M
+6203	584517	1	2	901	3	Hana	Dubšová	Ing. Mgr.		38	hygienička	Ivaň	99	80	A	F
+6203	584517	1	3	903	3	Pavla	Holzmannová			42	datový specialista	Ivaň	99	80	A	F
+6203	584517	1	1	902	4	Lenka	Koubková	Mgr.		44	ředitelka	Ivaň	99	80	A	F
+6203	584517	1	2	901	4	Soňa	Babčanová			57	zdravotní laborantka	Ivaň	99	80	A	F
+6203	584517	1	3	903	4	Libuše	Fabičovicová			58	OSVČ	Ivaň	99	80	A	F
+6203	584517	1	1	902	5	Tomáš	Bartl			49	živnostník	Ivaň	99	80	A	M
+6203	584517	1	2	901	5	Pavel	Pekařík			37	přijímací technik	Ivaň	99	80	A	M
+6203	584517	1	3	903	5	Hana	Koubková			66	zdravotní sestra	Ivaň	99	80	A	F
+6203	584517	1	1	902	6	Pavel	Zapula			51	hrázný	Ivaň	99	80	A	M
+6203	584517	1	2	901	6	Iveta	Celnarová			44	zdravotní laborantka	Ivaň	99	80	A	F
+6203	584517	1	3	903	6	Josefa	Čaloudová			51	prodavačka	Ivaň	99	80	A	F
+6203	584517	1	1	902	7	Helena	Graclová			54	ekonom	Ivaň	99	80	A	F
+6203	584517	1	2	901	7	Veronika	Solilová	doc. Ing.	Ph.D.	40	akademický pracovník	Ivaň	99	80	A	F
+6203	584517	1	3	903	7	Alena	Kvapilová			58	laborantka	Ivaň	99	80	A	F
+6203	584517	1	1	902	8	Martin	Rybecký	Ing.		46	lesník	Ivaň	99	80	A	M
+6203	584517	1	2	901	8	David	Rohrer			30	obráběč kovů	Ivaň	99	80	A	M
+6203	584517	1	3	903	8	Marcela	Nečasová			57	účetní	Ivaň	99	80	A	F
+6203	584517	1	1	902	9	Tomáš	Soudek	Ing.		44	manažer	Ivaň	99	80	A	M
+6203	584517	1	2	901	9	Vladimír	Lízal			50	školník	Ivaň	99	80	A	M
+6203	584517	1	3	903	9	Helena	Pokorná			50	domácí péče	Ivaň	99	80	A	F

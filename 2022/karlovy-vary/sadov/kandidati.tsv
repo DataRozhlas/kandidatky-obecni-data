@@ -1,30 +1,30 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4102	555533	1	1	1129	1	Eduard	Frisch	M			59	starosta, krajský zastupitel, předseda SNK 1	Sadov	1129	1129	A
-4102	555533	1	1	1129	2	Ladislav	Ludvík	M			54	místostarosta	Sadov	1129	1129	A
-4102	555533	1	1	1129	3	Daniel	Oliva	M			40	vedoucí výroby	Lesov	99	1129	A
-4102	555533	1	1	1129	4	Simona	Hrubá	F			48	specialista obchodní činnosti	Stráň	99	1129	A
-4102	555533	1	1	1129	5	Marek	Frisch	M			37	státní zaměstnanec, zkušební komisař zbraně a střelivo	Lesov	99	1129	A
-4102	555533	1	1	1129	6	Pavel	Drda	M			75	důchodce	Lesov	99	1129	A
-4102	555533	1	1	1129	7	Roman	Dyk	M			52	OSVČ	Lesov	99	1129	A
-4102	555533	1	1	1129	8	Radek	Koch	M			57	opravář výtahů	Sadov	99	1129	A
-4102	555533	1	1	1129	9	Jiří	Nun	M			58	profesionální řidič	Podlesí	99	1129	A
-4102	555533	1	2	901	1	Andrea	Juštíková	F			47	pedagog	Sadov	99	80	A
-4102	555533	1	2	901	2	Miroslav	Dlugoš	M			70	OSVČ	Sadov	99	80	A
-4102	555533	1	2	901	3	Pavel	Kořán	M			50	OSVČ	Bor	99	80	A
-4102	555533	1	2	901	4	Martin	Zábojník	M			43	hlavní stavbyvedoucí	Sadov	99	80	A
-4102	555533	1	2	901	5	Václav	Hroch	M			48	hlavní stavbyvedoucí	Lesov	99	80	A
-4102	555533	1	2	901	6	Karel	Procházka	M			68	důchodce	Bor	99	80	A
-4102	555533	1	2	901	7	Pavel	Levko	M			32	operátor velínu	Sadov	99	80	A
-4102	555533	1	2	901	8	Václava	Kočandrlová	F			57	vedoucí recepce	Sadov	99	80	A
-4102	555533	1	2	901	9	Dita	Janouškovcová	F			46	OSVČ	Sadov	99	80	A
-4102	555533	1	3	1244	1	Bedřich	Šmudla	M			60	manažer	Podlesí	1244	1244	A
-4102	555533	1	3	1244	2	Martin	Kulhan	M			54	podnikatel	Sadov	99	1244	A
-4102	555533	1	3	1244	3	Petra	Zábojníková	F	Mgr.		37	učitelka	Sadov	99	1244	A
-4102	555533	1	3	1244	4	Monika	Ďuricová	F			53	pracovnice v sociálních službách	Lesov	99	1244	A
-4102	555533	1	3	1244	5	Věra	Hájková	F			64	zdravotní sestra	Sadov	99	1244	A
-4102	555533	1	3	1244	6	Petr	Hájek	M			58	řidič	Sadov	99	1244	A
-4102	555533	1	3	1244	7	Jiří	Teterja	M			42	ředitel hotelu	Bor	99	1244	A
-4102	555533	1	3	1244	8	Iveta	Vlčková	F			57	důchodce	Podlesí	99	1244	A
-4102	555533	1	3	1244	9	Václav	Holeček	M			67	OSVČ	Podlesí	99	1244	A
-4102	555533	1	4	47	1	Laci	Levko	M			68	konstruktér elektro	Sadov	47	47	A
-4102	555533	1	4	47	2	Jiří	Korbel	M			66	strojírenský technolog	Lesov	47	47	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4102	555533	1	1	1129	1	Eduard	Frisch			59	starosta, krajský zastupitel, předseda SNK 1	Sadov	1129	1129	A	M
+4102	555533	1	2	901	1	Andrea	Juštíková			47	pedagog	Sadov	99	80	A	F
+4102	555533	1	3	1244	1	Bedřich	Šmudla			60	manažer	Podlesí	1244	1244	A	M
+4102	555533	1	4	47	1	Laci	Levko			68	konstruktér elektro	Sadov	47	47	A	M
+4102	555533	1	1	1129	2	Ladislav	Ludvík			54	místostarosta	Sadov	1129	1129	A	M
+4102	555533	1	2	901	2	Miroslav	Dlugoš			70	OSVČ	Sadov	99	80	A	M
+4102	555533	1	3	1244	2	Martin	Kulhan			54	podnikatel	Sadov	99	1244	A	M
+4102	555533	1	4	47	2	Jiří	Korbel			66	strojírenský technolog	Lesov	47	47	A	M
+4102	555533	1	1	1129	3	Daniel	Oliva			40	vedoucí výroby	Lesov	99	1129	A	M
+4102	555533	1	2	901	3	Pavel	Kořán			50	OSVČ	Bor	99	80	A	M
+4102	555533	1	3	1244	3	Petra	Zábojníková	Mgr.		37	učitelka	Sadov	99	1244	A	F
+4102	555533	1	1	1129	4	Simona	Hrubá			48	specialista obchodní činnosti	Stráň	99	1129	A	F
+4102	555533	1	2	901	4	Martin	Zábojník			43	hlavní stavbyvedoucí	Sadov	99	80	A	M
+4102	555533	1	3	1244	4	Monika	Ďuricová			53	pracovnice v sociálních službách	Lesov	99	1244	A	F
+4102	555533	1	1	1129	5	Marek	Frisch			37	státní zaměstnanec, zkušební komisař zbraně a střelivo	Lesov	99	1129	A	M
+4102	555533	1	2	901	5	Václav	Hroch			48	hlavní stavbyvedoucí	Lesov	99	80	A	M
+4102	555533	1	3	1244	5	Věra	Hájková			64	zdravotní sestra	Sadov	99	1244	A	F
+4102	555533	1	1	1129	6	Pavel	Drda			75	důchodce	Lesov	99	1129	A	M
+4102	555533	1	2	901	6	Karel	Procházka			68	důchodce	Bor	99	80	A	M
+4102	555533	1	3	1244	6	Petr	Hájek			58	řidič	Sadov	99	1244	A	M
+4102	555533	1	1	1129	7	Roman	Dyk			52	OSVČ	Lesov	99	1129	A	M
+4102	555533	1	2	901	7	Pavel	Levko			32	operátor velínu	Sadov	99	80	A	M
+4102	555533	1	3	1244	7	Jiří	Teterja			42	ředitel hotelu	Bor	99	1244	A	M
+4102	555533	1	1	1129	8	Radek	Koch			57	opravář výtahů	Sadov	99	1129	A	M
+4102	555533	1	2	901	8	Václava	Kočandrlová			57	vedoucí recepce	Sadov	99	80	A	F
+4102	555533	1	3	1244	8	Iveta	Vlčková			57	důchodce	Podlesí	99	1244	A	F
+4102	555533	1	1	1129	9	Jiří	Nun			58	profesionální řidič	Podlesí	99	1129	A	M
+4102	555533	1	2	901	9	Dita	Janouškovcová			46	OSVČ	Sadov	99	80	A	F
+4102	555533	1	3	1244	9	Václav	Holeček			67	OSVČ	Podlesí	99	1244	A	M

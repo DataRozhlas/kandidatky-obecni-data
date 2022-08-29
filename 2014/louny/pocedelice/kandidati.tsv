@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4204	566586	1	1	902	1	Eva	Smetanová	F			55	OSVČ	Počedělice	99	80	0
-4204	566586	1	1	902	2	Jiří	Mašanský	M			68	důchodce	Počedělice	99	80	0
-4204	566586	1	1	902	3	Petr	Grunt	M			35	státní zaměstnanec	Volenice	99	80	0
-4204	566586	1	1	902	4	Jindřich	Novotný	M			71	důchodce	Počedělice	99	80	0
-4204	566586	1	1	902	5	Tereza	Sunkovská	F			25	státní zaměstnanec	Počedělice	99	80	0
-4204	566586	1	1	902	6	Dana	Langová	F			48	účetní	Orasice	99	80	0
-4204	566586	1	1	902	7	Lukáš	Forgač	M			28	dělník	Počedělice	99	80	0
-4204	566586	1	2	901	1	Jan	Vacek	M			23	strážník MP Louny	Orasice	99	80	0
-4204	566586	1	2	901	2	Pavel	Petera	M			41	technik	Orasice	764	80	0
-4204	566586	1	2	901	3	Younes	El Frem	M			39	inženýr	Volenice	99	80	0
-4204	566586	1	2	901	4	Vítězslav	Němec	M			31	živnostník	Orasice	99	80	0
-4204	566586	1	2	901	5	Kamila	Peterová	F			36	kuchařka	Orasice	99	80	0
-4204	566586	1	2	901	6	Jindřich	Vacek	M			47	obchodní zástupce	Počedělice	764	80	0
-4204	566586	1	2	901	7	Milena	Nipauerová	F			29	zástupce vedoucí	Orasice	99	80	0
-4204	566586	1	3	903	1	Karel	Lang	M			52	elektromechanik	Orasice	99	80	0
-4204	566586	1	3	903	2	Tomáš	Kraj	M			36	státní zaměstnanec	Počedělice	99	80	0
-4204	566586	1	3	903	3	Petr	Špryngl	M			38	technik	Volenice	99	80	0
-4204	566586	1	3	903	4	Kamil	Smetana	M			33	vedoucí výroby	Počedělice	99	80	0
-4204	566586	1	3	903	5	Václav	Weiss	M			62	OSVČ	Počedělice	99	80	0
-4204	566586	1	3	903	6	Miroslav	Kouřímský	M			47	řidič	Orasice	99	80	0
-4204	566586	1	3	903	7	Jan	Hofmann	M			43	skladník	Počedělice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4204	566586	1	1	902	1	Eva	Smetanová			55	OSVČ	Počedělice	99	80	0	F
+4204	566586	1	2	901	1	Jan	Vacek			23	strážník MP Louny	Orasice	99	80	0	M
+4204	566586	1	3	903	1	Karel	Lang			52	elektromechanik	Orasice	99	80	0	M
+4204	566586	1	1	902	2	Jiří	Mašanský			68	důchodce	Počedělice	99	80	0	M
+4204	566586	1	2	901	2	Pavel	Petera			41	technik	Orasice	764	80	0	M
+4204	566586	1	3	903	2	Tomáš	Kraj			36	státní zaměstnanec	Počedělice	99	80	0	M
+4204	566586	1	1	902	3	Petr	Grunt			35	státní zaměstnanec	Volenice	99	80	0	M
+4204	566586	1	2	901	3	Younes	El Frem			39	inženýr	Volenice	99	80	0	M
+4204	566586	1	3	903	3	Petr	Špryngl			38	technik	Volenice	99	80	0	M
+4204	566586	1	1	902	4	Jindřich	Novotný			71	důchodce	Počedělice	99	80	0	M
+4204	566586	1	2	901	4	Vítězslav	Němec			31	živnostník	Orasice	99	80	0	M
+4204	566586	1	3	903	4	Kamil	Smetana			33	vedoucí výroby	Počedělice	99	80	0	M
+4204	566586	1	1	902	5	Tereza	Sunkovská			25	státní zaměstnanec	Počedělice	99	80	0	F
+4204	566586	1	2	901	5	Kamila	Peterová			36	kuchařka	Orasice	99	80	0	F
+4204	566586	1	3	903	5	Václav	Weiss			62	OSVČ	Počedělice	99	80	0	M
+4204	566586	1	1	902	6	Dana	Langová			48	účetní	Orasice	99	80	0	F
+4204	566586	1	2	901	6	Jindřich	Vacek			47	obchodní zástupce	Počedělice	764	80	0	M
+4204	566586	1	3	903	6	Miroslav	Kouřímský			47	řidič	Orasice	99	80	0	M
+4204	566586	1	1	902	7	Lukáš	Forgač			28	dělník	Počedělice	99	80	0	M
+4204	566586	1	2	901	7	Milena	Nipauerová			29	zástupce vedoucí	Orasice	99	80	0	F
+4204	566586	1	3	903	7	Jan	Hofmann			43	skladník	Počedělice	99	80	0	M

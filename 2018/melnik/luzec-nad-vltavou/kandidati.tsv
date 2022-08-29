@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2106	535028	1	1	53	1	Vladislav	Nápravník	M			60	technik	Lužec nad Vltavou	53	53	A
-2106	535028	1	1	53	2	Miroslav	Kadlec	M	Ing.		32	projektový manažer	Lužec nad Vltavou	99	53	A
-2106	535028	1	1	53	3	Miroslav	Beníšek	M			44	stavbyvedoucí	Lužec nad Vltavou	99	53	A
-2106	535028	1	1	53	4	Tomáš	Fnouček	M			48	ředitel společnosti	Lužec nad Vltavou	99	53	A
-2106	535028	1	1	53	5	Zdeňka	Peroutková	F			70	důchodce	Lužec nad Vltavou	53	53	A
-2106	535028	1	1	53	6	Vojtěch	Hrdlička	M			31	dispečer	Lužec nad Vltavou	99	53	A
-2106	535028	1	1	53	7	Pavla	Kutlíková Peroutková	F			39	mateřská dovolená	Lužec nad Vltavou	99	53	A
-2106	535028	1	1	53	8	Tomáš	Hikl	M			40	údržbář	Lužec nad Vltavou	99	53	A
-2106	535028	1	1	53	9	Hana	Zavázalová	F			48	servírka	Lužec nad Vltavou	99	53	A
-2106	535028	1	1	53	10	Vlastimil	Došek	M			57	podnikatel	Lužec nad Vltavou	53	53	A
-2106	535028	1	1	53	11	Romana	Rollová	F			42	vychovatelka	Lužec nad Vltavou	99	53	A
-2106	535028	1	1	53	12	Jan	Urban	M			51	jednatel společnosti	Lužec nad Vltavou	99	53	A
-2106	535028	1	1	53	13	Richard	Zavázal	M			47	invalidní důchodce	Lužec nad Vltavou	99	53	A
-2106	535028	1	1	53	14	Blanka	Novotná	F			45	mateřská dovolená	Lužec nad Vltavou	99	53	A
-2106	535028	1	1	53	15	Kateřina	Došková	F	Bc.		30	žena v domácnosti	Lužec nad Vltavou	99	53	A
-2106	535028	1	2	901	1	Patrik	Rollo	M			45	starosta	Lužec nad Vltavou	99	80	A
-2106	535028	1	2	901	2	Petr	Kuřátko	M			31	mistr	Lužec nad Vltavou	99	80	A
-2106	535028	1	2	901	3	Jana	Velická	F	Mgr.		47	zástupce ředitele	Lužec nad Vltavou	99	80	A
-2106	535028	1	2	901	4	Jaroslav	Hobík	M			61	živnostník	Chramostek	99	80	A
-2106	535028	1	2	901	5	Pavla	Donaufová	F	Ing. Mgr.		50	účetní	Lužec nad Vltavou	99	80	A
-2106	535028	1	2	901	6	Miroslav	Maštalíř	M			32	hasič	Lužec nad Vltavou	99	80	A
-2106	535028	1	2	901	7	Jan	Tůma	M			35	obchodní zástupce	Lužec nad Vltavou	99	80	A
-2106	535028	1	2	901	8	Jana	Hauptvogelová	F			38	zdravotní sestra	Lužec nad Vltavou	99	80	A
-2106	535028	1	2	901	9	Václav	Hampl	M			55	mechanik	Lužec nad Vltavou	99	80	A
-2106	535028	1	2	901	10	Ondřej	Kladiva	M	Bc.		47	policista	Chramostek	99	80	A
-2106	535028	1	2	901	11	Libor	Svoboda	M			47	živnostník	Lužec nad Vltavou	99	80	A
-2106	535028	1	2	901	12	Adam	Kučera	M			21	student	Lužec nad Vltavou	99	80	A
-2106	535028	1	2	901	13	Drahoslav	Hála	M			43	živnostník	Lužec nad Vltavou	99	80	A
-2106	535028	1	2	901	14	Jiří	Drahota	M			29	vedoucí údržby	Lužec nad Vltavou	99	80	A
-2106	535028	1	2	901	15	Vlastimil	Pavlík	M			62	řidič	Lužec nad Vltavou	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2106	535028	1	1	53	1	Vladislav	Nápravník			60	technik	Lužec nad Vltavou	53	53	A	M
+2106	535028	1	2	901	1	Patrik	Rollo			45	starosta	Lužec nad Vltavou	99	80	A	M
+2106	535028	1	1	53	2	Miroslav	Kadlec	Ing.		32	projektový manažer	Lužec nad Vltavou	99	53	A	M
+2106	535028	1	2	901	2	Petr	Kuřátko			31	mistr	Lužec nad Vltavou	99	80	A	M
+2106	535028	1	1	53	3	Miroslav	Beníšek			44	stavbyvedoucí	Lužec nad Vltavou	99	53	A	M
+2106	535028	1	2	901	3	Jana	Velická	Mgr.		47	zástupce ředitele	Lužec nad Vltavou	99	80	A	F
+2106	535028	1	1	53	4	Tomáš	Fnouček			48	ředitel společnosti	Lužec nad Vltavou	99	53	A	M
+2106	535028	1	2	901	4	Jaroslav	Hobík			61	živnostník	Chramostek	99	80	A	M
+2106	535028	1	1	53	5	Zdeňka	Peroutková			70	důchodce	Lužec nad Vltavou	53	53	A	F
+2106	535028	1	2	901	5	Pavla	Donaufová	Ing. Mgr.		50	účetní	Lužec nad Vltavou	99	80	A	F
+2106	535028	1	1	53	6	Vojtěch	Hrdlička			31	dispečer	Lužec nad Vltavou	99	53	A	M
+2106	535028	1	2	901	6	Miroslav	Maštalíř			32	hasič	Lužec nad Vltavou	99	80	A	M
+2106	535028	1	1	53	7	Pavla	Kutlíková Peroutková			39	mateřská dovolená	Lužec nad Vltavou	99	53	A	F
+2106	535028	1	2	901	7	Jan	Tůma			35	obchodní zástupce	Lužec nad Vltavou	99	80	A	M
+2106	535028	1	1	53	8	Tomáš	Hikl			40	údržbář	Lužec nad Vltavou	99	53	A	M
+2106	535028	1	2	901	8	Jana	Hauptvogelová			38	zdravotní sestra	Lužec nad Vltavou	99	80	A	F
+2106	535028	1	1	53	9	Hana	Zavázalová			48	servírka	Lužec nad Vltavou	99	53	A	F
+2106	535028	1	2	901	9	Václav	Hampl			55	mechanik	Lužec nad Vltavou	99	80	A	M
+2106	535028	1	1	53	10	Vlastimil	Došek			57	podnikatel	Lužec nad Vltavou	53	53	A	M
+2106	535028	1	2	901	10	Ondřej	Kladiva	Bc.		47	policista	Chramostek	99	80	A	M
+2106	535028	1	1	53	11	Romana	Rollová			42	vychovatelka	Lužec nad Vltavou	99	53	A	F
+2106	535028	1	2	901	11	Libor	Svoboda			47	živnostník	Lužec nad Vltavou	99	80	A	M
+2106	535028	1	1	53	12	Jan	Urban			51	jednatel společnosti	Lužec nad Vltavou	99	53	A	M
+2106	535028	1	2	901	12	Adam	Kučera			21	student	Lužec nad Vltavou	99	80	A	M
+2106	535028	1	1	53	13	Richard	Zavázal			47	invalidní důchodce	Lužec nad Vltavou	99	53	A	M
+2106	535028	1	2	901	13	Drahoslav	Hála			43	živnostník	Lužec nad Vltavou	99	80	A	M
+2106	535028	1	1	53	14	Blanka	Novotná			45	mateřská dovolená	Lužec nad Vltavou	99	53	A	F
+2106	535028	1	2	901	14	Jiří	Drahota			29	vedoucí údržby	Lužec nad Vltavou	99	80	A	M
+2106	535028	1	1	53	15	Kateřina	Došková	Bc.		30	žena v domácnosti	Lužec nad Vltavou	99	53	A	F
+2106	535028	1	2	901	15	Vlastimil	Pavlík			62	řidič	Lužec nad Vltavou	99	80	A	M

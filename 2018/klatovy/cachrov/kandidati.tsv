@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3202	555941	1	1	901	1	Josef	Bejvl	M			44	starosta	Chvalšovice	99	80	A
-3202	555941	1	1	901	2	Stanislav	Kolář	M	Ing.		59	technik	Čachrov	99	80	A
-3202	555941	1	1	901	3	Vlastimil	Valeš	M	Ing.		59	úředník	Jesení	99	80	A
-3202	555941	1	1	901	4	Kryštof	Kubát	M			25	OSVČ	Kunkovice	99	80	A
-3202	555941	1	1	901	5	Václav	Bejvl	M	Ing.		69	důchodce	Javorná	99	80	A
-3202	555941	1	1	901	6	Miroslav	Kříž	M			42	OSVČ	Čachrov	99	80	A
-3202	555941	1	1	901	7	Miloslava	Šedlbauerová	F			39	dělnice	Čachrov	99	80	A
-3202	555941	1	1	901	8	Václav	Denk	M			38	OSVČ	Chřepice	99	80	A
-3202	555941	1	1	901	9	Renata	Chroustová	F			42	knihovnice	Kunkovice	99	80	A
-3202	555941	1	2	902	1	Václav	Rendl	M			61	důchodce	Javorná	99	80	A
-3202	555941	1	2	902	2	Josef	Brůha	M			56	OSVČ	Čachrov	99	80	A
-3202	555941	1	2	902	3	Jan	Štulík	M			70	důchodce	Javorná	99	80	A
-3202	555941	1	2	902	4	Zdeňka	Rendlová	F	Ing.	Ph.D.	32	výzkumný a vývojový pracovník	Javorná	99	80	A
-3202	555941	1	2	902	5	Stanislav	Beneš	M			56	zaměstnanec	Březí	99	80	A
-3202	555941	1	2	902	6	Dušan	Šedlbauer	M			38	OSVČ	Chvalšovice	99	80	A
-3202	555941	1	2	902	7	Vojtěch	Kalista	M			46	OSVČ	Kunkovice	99	80	A
-3202	555941	1	2	902	8	Miroslav	Mašek	M			34	zaměstnanec	Kunkovice	99	80	A
-3202	555941	1	2	902	9	Pavel	Pojar	M			57	zaměstnanec	Předvojovice	99	80	A
-3202	555941	1	3	1	1	Julie	Schneedörflerová	F			44	fyzioterapeut	Javorná	99	1	A
-3202	555941	1	3	1	2	Renata	Křenová	F			43	admin. pracovnice	Javorná	99	1	A
-3202	555941	1	3	1	3	Václav	Matějka	M			44	OSVČ	Javorná	99	1	A
-3202	555941	1	3	1	4	Lukáš	Kubín	M			39	kuchař	Javorná	99	1	A
-3202	555941	1	3	1	5	Pavel	Kotál	M			46	operátor výroby	Javorná	99	1	A
-3202	555941	1	3	1	6	Jana	Matějková	F			25	servírka	Javorná	99	1	A
-3202	555941	1	3	1	7	Daniel	Matějka	M			20	student	Javorná	99	1	A
-3202	555941	1	3	1	8	Lenka	Schlosserová	F			49	soukromý zemědělec	Javorná	99	1	A
-3202	555941	1	3	1	9	Karel	Randák	M			69	důchodce	Javorná	99	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3202	555941	1	1	901	1	Josef	Bejvl			44	starosta	Chvalšovice	99	80	A	M
+3202	555941	1	2	902	1	Václav	Rendl			61	důchodce	Javorná	99	80	A	M
+3202	555941	1	3	1	1	Julie	Schneedörflerová			44	fyzioterapeut	Javorná	99	1	A	F
+3202	555941	1	1	901	2	Stanislav	Kolář	Ing.		59	technik	Čachrov	99	80	A	M
+3202	555941	1	2	902	2	Josef	Brůha			56	OSVČ	Čachrov	99	80	A	M
+3202	555941	1	3	1	2	Renata	Křenová			43	admin. pracovnice	Javorná	99	1	A	F
+3202	555941	1	1	901	3	Vlastimil	Valeš	Ing.		59	úředník	Jesení	99	80	A	M
+3202	555941	1	2	902	3	Jan	Štulík			70	důchodce	Javorná	99	80	A	M
+3202	555941	1	3	1	3	Václav	Matějka			44	OSVČ	Javorná	99	1	A	M
+3202	555941	1	1	901	4	Kryštof	Kubát			25	OSVČ	Kunkovice	99	80	A	M
+3202	555941	1	2	902	4	Zdeňka	Rendlová	Ing.	Ph.D.	32	výzkumný a vývojový pracovník	Javorná	99	80	A	F
+3202	555941	1	3	1	4	Lukáš	Kubín			39	kuchař	Javorná	99	1	A	M
+3202	555941	1	1	901	5	Václav	Bejvl	Ing.		69	důchodce	Javorná	99	80	A	M
+3202	555941	1	2	902	5	Stanislav	Beneš			56	zaměstnanec	Březí	99	80	A	M
+3202	555941	1	3	1	5	Pavel	Kotál			46	operátor výroby	Javorná	99	1	A	M
+3202	555941	1	1	901	6	Miroslav	Kříž			42	OSVČ	Čachrov	99	80	A	M
+3202	555941	1	2	902	6	Dušan	Šedlbauer			38	OSVČ	Chvalšovice	99	80	A	M
+3202	555941	1	3	1	6	Jana	Matějková			25	servírka	Javorná	99	1	A	F
+3202	555941	1	1	901	7	Miloslava	Šedlbauerová			39	dělnice	Čachrov	99	80	A	F
+3202	555941	1	2	902	7	Vojtěch	Kalista			46	OSVČ	Kunkovice	99	80	A	M
+3202	555941	1	3	1	7	Daniel	Matějka			20	student	Javorná	99	1	A	M
+3202	555941	1	1	901	8	Václav	Denk			38	OSVČ	Chřepice	99	80	A	M
+3202	555941	1	2	902	8	Miroslav	Mašek			34	zaměstnanec	Kunkovice	99	80	A	M
+3202	555941	1	3	1	8	Lenka	Schlosserová			49	soukromý zemědělec	Javorná	99	1	A	F
+3202	555941	1	1	901	9	Renata	Chroustová			42	knihovnice	Kunkovice	99	80	A	F
+3202	555941	1	2	902	9	Pavel	Pojar			57	zaměstnanec	Předvojovice	99	80	A	M
+3202	555941	1	3	1	9	Karel	Randák			69	důchodce	Javorná	99	1	A	M

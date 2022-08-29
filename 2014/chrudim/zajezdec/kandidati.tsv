@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	547859	1	1	801	1	Luboš	Šejnoha	M			49	řidič	Zájezdec	99	80	0
-5301	547859	1	2	901	1	Václav	Franc	M	Ing.		61	analytik programátor	Zájezdec	99	80	0
-5301	547859	1	2	901	2	Ludmila	Jakoubková	F			43	prodavačka	Zájezdec	99	80	0
-5301	547859	1	2	901	3	Marcel	Kutílek	M			46	vedoucí provozovny	Zájezdec	99	80	0
-5301	547859	1	2	901	4	David	Lžíčař	M			42	technicko hospodářský pracovník	Zájezdec	99	80	0
-5301	547859	1	2	901	5	Aleš	Nedvěd	M	Ing.		48	ekonom	Zájezdec	99	80	0
-5301	547859	1	2	901	6	Hana	Novotná	F			66	důchodce	Zájezdec	99	80	0
-5301	547859	1	2	901	7	Jana	Timko	F			52	knihovnice	Zájezdec	99	80	0
-5301	547859	1	2	901	8	Eva	Koutová	F			27	poštovní doručovatelka	Zájezdec	99	80	0
-5301	547859	1	2	901	9	Ivan	Kozák	M			48	řidič	Zájezdec	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	547859	1	1	801	1	Luboš	Šejnoha			49	řidič	Zájezdec	99	80	0	M
+5301	547859	1	2	901	1	Václav	Franc	Ing.		61	analytik programátor	Zájezdec	99	80	0	M
+5301	547859	1	2	901	2	Ludmila	Jakoubková			43	prodavačka	Zájezdec	99	80	0	F
+5301	547859	1	2	901	3	Marcel	Kutílek			46	vedoucí provozovny	Zájezdec	99	80	0	M
+5301	547859	1	2	901	4	David	Lžíčař			42	technicko hospodářský pracovník	Zájezdec	99	80	0	M
+5301	547859	1	2	901	5	Aleš	Nedvěd	Ing.		48	ekonom	Zájezdec	99	80	0	M
+5301	547859	1	2	901	6	Hana	Novotná			66	důchodce	Zájezdec	99	80	0	F
+5301	547859	1	2	901	7	Jana	Timko			52	knihovnice	Zájezdec	99	80	0	F
+5301	547859	1	2	901	8	Eva	Koutová			27	poštovní doručovatelka	Zájezdec	99	80	0	F
+5301	547859	1	2	901	9	Ivan	Kozák			48	řidič	Zájezdec	99	80	0	M

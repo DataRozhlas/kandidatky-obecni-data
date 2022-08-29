@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4206	567728	1	1	5	1	Michael	Haslinger	M			48	invalidní důchodce	Moldava	99	5	0
-4206	567728	1	1	5	2	Jaroslav	Sečánský	M			42	vedoucí výroby	Moldava	99	5	0
-4206	567728	1	1	5	3	Luboš	Suchý	M			31	automechanik	Moldava	99	5	0
-4206	567728	1	1	5	4	Libuše	Hochmalová	F			58	nezaměstnaná	Moldava	99	5	0
-4206	567728	1	1	5	5	Zdeňka	Teplá	F			51	státní úřednice	Moldava	99	5	0
-4206	567728	1	1	5	6	Vlastimil	Teplý	M			59	důchodce	Moldava	99	5	0
-4206	567728	1	1	5	7	Lieselotte	Grežová	F			70	důchodce	Moldava	99	5	0
-4206	567728	1	1	5	8	Pavel	Grežo	M			52	zemědělec	Moldava	99	5	0
-4206	567728	1	1	5	9	Miloš	Hanuš	M			53	řidič	Moldava	99	5	0
-4206	567728	1	2	901	1	Jaroslav	Pok	M			44	podnikatel	Moldava	99	80	0
-4206	567728	1	2	901	2	Eva	Kardová	F			53	pracovnice infocentra	Moldava	99	80	0
-4206	567728	1	2	901	3	Luboš	Proněk	M			58	podnikatel	Nové Město	99	80	0
-4206	567728	1	2	901	4	Josef	Houdek	M			55	soukromý zemědělec	Moldava	99	80	0
-4206	567728	1	2	901	5	Ivana	Hermannová	F			51	pracovnice pošty	Moldava	99	80	0
-4206	567728	1	2	901	6	Naděžda	Sábová	F			62	důchodkyně	Nové Město	99	80	0
-4206	567728	1	2	901	7	Miroslav	Karda	M			32	barman	Moldava	99	80	0
-4206	567728	1	2	901	8	Lenka	Nováková	F	Ing.		48	OSVČ	Moldava	99	80	0
-4206	567728	1	2	901	9	Vlastimil	Čáp	M			56	obsluha vodárny	Moldava	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4206	567728	1	1	5	1	Michael	Haslinger			48	invalidní důchodce	Moldava	99	5	0	M
+4206	567728	1	2	901	1	Jaroslav	Pok			44	podnikatel	Moldava	99	80	0	M
+4206	567728	1	1	5	2	Jaroslav	Sečánský			42	vedoucí výroby	Moldava	99	5	0	M
+4206	567728	1	2	901	2	Eva	Kardová			53	pracovnice infocentra	Moldava	99	80	0	F
+4206	567728	1	1	5	3	Luboš	Suchý			31	automechanik	Moldava	99	5	0	M
+4206	567728	1	2	901	3	Luboš	Proněk			58	podnikatel	Nové Město	99	80	0	M
+4206	567728	1	1	5	4	Libuše	Hochmalová			58	nezaměstnaná	Moldava	99	5	0	F
+4206	567728	1	2	901	4	Josef	Houdek			55	soukromý zemědělec	Moldava	99	80	0	M
+4206	567728	1	1	5	5	Zdeňka	Teplá			51	státní úřednice	Moldava	99	5	0	F
+4206	567728	1	2	901	5	Ivana	Hermannová			51	pracovnice pošty	Moldava	99	80	0	F
+4206	567728	1	1	5	6	Vlastimil	Teplý			59	důchodce	Moldava	99	5	0	M
+4206	567728	1	2	901	6	Naděžda	Sábová			62	důchodkyně	Nové Město	99	80	0	F
+4206	567728	1	1	5	7	Lieselotte	Grežová			70	důchodce	Moldava	99	5	0	F
+4206	567728	1	2	901	7	Miroslav	Karda			32	barman	Moldava	99	80	0	M
+4206	567728	1	1	5	8	Pavel	Grežo			52	zemědělec	Moldava	99	5	0	M
+4206	567728	1	2	901	8	Lenka	Nováková	Ing.		48	OSVČ	Moldava	99	80	0	F
+4206	567728	1	1	5	9	Miloš	Hanuš			53	řidič	Moldava	99	5	0	M
+4206	567728	1	2	901	9	Vlastimil	Čáp			56	obsluha vodárny	Moldava	99	80	0	M

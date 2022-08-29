@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3105	550604	1	1	901	1	Michaela	Nenadálová	F	Mgr.		34	sociální pracovnice	Tvrzice	99	80	0
-3105	550604	1	1	901	2	Josef	Kašpar	M			35	dispečer	Tvrzice	99	80	0
-3105	550604	1	1	901	3	Jaroslav	Pavelka	M			35	zámečník	Tvrzice	99	80	0
-3105	550604	1	1	901	4	Jiří	Randa	M			35	vedoucí posunu	Tvrzice	99	80	0
-3105	550604	1	1	901	5	Eva	Chroňáková	F			39	telefonická operátorka	Tvrzice	99	80	0
-3105	550604	1	1	901	6	Jiří	Prášek	M			39	OSVČ	Tvrzice	99	80	0
-3105	550604	1	1	901	7	Eva	Šefránková	F			34	cukrářka na MD	Tvrzice	99	80	0
-3105	550604	1	1	901	8	Rudolf	Šperl	M			63	důchodce	Tvrzice	99	80	0
-3105	550604	1	1	901	9	Monika	Randová	F			35	ošetřovatelka nosnic	Tvrzice	99	80	0
-3105	550604	1	2	721	1	Marián	Mikeš	M			43	invalidní důchodce	Tvrzice	99	721	0
-3105	550604	1	2	721	2	Michaela	Hávová	F			40	administrativní pracovník	Tvrzice	99	721	0
-3105	550604	1	2	721	3	Petr	Kamenský	M			42	kuchař	Tvrzice	99	721	0
-3105	550604	1	2	721	4	Patrik	Folíř	M			42	psychoterapeut	Tvrzice	99	721	0
-3105	550604	1	2	721	5	Lucie	Čužnová	F			18	studentka	Tvrzice	99	721	0
-3105	550604	1	2	721	6	Michaela	Nosková	F			37	kuchařka	Tvrzice	99	721	0
-3105	550604	1	2	721	7	Pavel	Řezník	M			35	řidič	Tvrzice	99	721	0
-3105	550604	1	2	721	8	Jan	Kadlec	M			19	řidič	Tvrzice	99	721	0
-3105	550604	1	2	721	9	Jaromír	Háva	M			43	řidič	Tvrzice	99	721	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3105	550604	1	1	901	1	Michaela	Nenadálová	Mgr.		34	sociální pracovnice	Tvrzice	99	80	0	F
+3105	550604	1	2	721	1	Marián	Mikeš			43	invalidní důchodce	Tvrzice	99	721	0	M
+3105	550604	1	1	901	2	Josef	Kašpar			35	dispečer	Tvrzice	99	80	0	M
+3105	550604	1	2	721	2	Michaela	Hávová			40	administrativní pracovník	Tvrzice	99	721	0	F
+3105	550604	1	1	901	3	Jaroslav	Pavelka			35	zámečník	Tvrzice	99	80	0	M
+3105	550604	1	2	721	3	Petr	Kamenský			42	kuchař	Tvrzice	99	721	0	M
+3105	550604	1	1	901	4	Jiří	Randa			35	vedoucí posunu	Tvrzice	99	80	0	M
+3105	550604	1	2	721	4	Patrik	Folíř			42	psychoterapeut	Tvrzice	99	721	0	M
+3105	550604	1	1	901	5	Eva	Chroňáková			39	telefonická operátorka	Tvrzice	99	80	0	F
+3105	550604	1	2	721	5	Lucie	Čužnová			18	studentka	Tvrzice	99	721	0	F
+3105	550604	1	1	901	6	Jiří	Prášek			39	OSVČ	Tvrzice	99	80	0	M
+3105	550604	1	2	721	6	Michaela	Nosková			37	kuchařka	Tvrzice	99	721	0	F
+3105	550604	1	1	901	7	Eva	Šefránková			34	cukrářka na MD	Tvrzice	99	80	0	F
+3105	550604	1	2	721	7	Pavel	Řezník			35	řidič	Tvrzice	99	721	0	M
+3105	550604	1	1	901	8	Rudolf	Šperl			63	důchodce	Tvrzice	99	80	0	M
+3105	550604	1	2	721	8	Jan	Kadlec			19	řidič	Tvrzice	99	721	0	M
+3105	550604	1	1	901	9	Monika	Randová			35	ošetřovatelka nosnic	Tvrzice	99	80	0	F
+3105	550604	1	2	721	9	Jaromír	Háva			43	řidič	Tvrzice	99	721	0	M

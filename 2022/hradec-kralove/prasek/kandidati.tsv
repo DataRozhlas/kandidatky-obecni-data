@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	570648	1	1	901	1	Jaroslav	Myška	M			58	živnostník	Prasek	99	80	A
-5201	570648	1	1	901	2	Luboš	Komůrka	M			57	státní zaměstnanec	Prasek	99	80	A
-5201	570648	1	1	901	3	Monika	Tomášková	F			51	bankovní úřednice	Prasek	99	80	A
-5201	570648	1	1	901	4	Petra	Riesnerová	F			36	učitelka	Prasek	99	80	A
-5201	570648	1	1	901	5	Jarmila	Uhrová	F			56	učitelka	Prasek	99	80	A
-5201	570648	1	1	901	6	Petr	Drábek	M			36	dělník	Prasek	99	80	A
-5201	570648	1	1	901	7	Jiří	Drábek	M			54	dělník	Prasek	99	80	A
-5201	570648	1	1	901	8	Martin	Štayr	M			39	montér	Prasek	99	80	A
-5201	570648	1	1	901	9	Pavel	Khol	M			32	manažer	Prasek	99	80	A
-5201	570648	1	2	903	1	Miroslava	Machová	F	Mgr.		56	středoškolská učitelka	Prasek	99	80	A
-5201	570648	1	2	903	2	Michal	Chlad	M	MUDr.		26	lékař	Prasek	99	80	A
-5201	570648	1	2	903	3	Vítězslav	Fof	M	Ing.		37	programátor	Prasek	99	80	A
-5201	570648	1	2	903	4	Marie	Chladová	F	JUDr.		65	právnička	Prasek	99	80	A
-5201	570648	1	2	903	5	Eva	Svatoňová	F	Mgr.		51	učitelka	Prasek	99	80	A
-5201	570648	1	2	903	6	Ivana	Drábková	F			56	účetní	Prasek	99	80	A
-5201	570648	1	2	903	7	Luděk	Novotný	M			50	nástrojař	Prasek	99	80	A
-5201	570648	1	2	903	8	Petra	Stránská	F	Bc.		56	lektorka	Prasek	99	80	A
-5201	570648	1	2	903	9	Jiří	Stránský	M			59	technik PO	Prasek	99	80	A
-5201	570648	1	3	902	1	Jiří	Magdič	M			46	elektromontér	Prasek	99	80	A
-5201	570648	1	3	902	2	Vojtěch	Vyhleďal	M			30	programátor	Prasek	99	80	A
-5201	570648	1	3	902	3	Kristýna	Štayrová	F			29	právní asistent	Prasek	99	80	A
-5201	570648	1	3	902	4	Svatava	Chlíbková	F			40	asistent pedagoga	Prasek	99	80	A
-5201	570648	1	3	902	5	Jan	Herzog	M			27	montér	Prasek	99	80	A
-5201	570648	1	3	902	6	Libor	Tomášek	M			54	technik	Prasek	99	80	A
-5201	570648	1	3	902	7	Petra	Ludvíková	F			40	administrativní pracovník	Prasek	99	80	A
-5201	570648	1	3	902	8	Lucie	Hladíková	F			38	asistentka účetní	Prasek	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	570648	1	1	901	1	Jaroslav	Myška			58	živnostník	Prasek	99	80	A	M
+5201	570648	1	2	903	1	Miroslava	Machová	Mgr.		56	středoškolská učitelka	Prasek	99	80	A	F
+5201	570648	1	3	902	1	Jiří	Magdič			46	elektromontér	Prasek	99	80	A	M
+5201	570648	1	1	901	2	Luboš	Komůrka			57	státní zaměstnanec	Prasek	99	80	A	M
+5201	570648	1	2	903	2	Michal	Chlad	MUDr.		26	lékař	Prasek	99	80	A	M
+5201	570648	1	3	902	2	Vojtěch	Vyhleďal			30	programátor	Prasek	99	80	A	M
+5201	570648	1	1	901	3	Monika	Tomášková			51	bankovní úřednice	Prasek	99	80	A	F
+5201	570648	1	2	903	3	Vítězslav	Fof	Ing.		37	programátor	Prasek	99	80	A	M
+5201	570648	1	3	902	3	Kristýna	Štayrová			29	právní asistent	Prasek	99	80	A	F
+5201	570648	1	1	901	4	Petra	Riesnerová			36	učitelka	Prasek	99	80	A	F
+5201	570648	1	2	903	4	Marie	Chladová	JUDr.		65	právnička	Prasek	99	80	A	F
+5201	570648	1	3	902	4	Svatava	Chlíbková			40	asistent pedagoga	Prasek	99	80	A	F
+5201	570648	1	1	901	5	Jarmila	Uhrová			56	učitelka	Prasek	99	80	A	F
+5201	570648	1	2	903	5	Eva	Svatoňová	Mgr.		51	učitelka	Prasek	99	80	A	F
+5201	570648	1	3	902	5	Jan	Herzog			27	montér	Prasek	99	80	A	M
+5201	570648	1	1	901	6	Petr	Drábek			36	dělník	Prasek	99	80	A	M
+5201	570648	1	2	903	6	Ivana	Drábková			56	účetní	Prasek	99	80	A	F
+5201	570648	1	3	902	6	Libor	Tomášek			54	technik	Prasek	99	80	A	M
+5201	570648	1	1	901	7	Jiří	Drábek			54	dělník	Prasek	99	80	A	M
+5201	570648	1	2	903	7	Luděk	Novotný			50	nástrojař	Prasek	99	80	A	M
+5201	570648	1	3	902	7	Petra	Ludvíková			40	administrativní pracovník	Prasek	99	80	A	F
+5201	570648	1	1	901	8	Martin	Štayr			39	montér	Prasek	99	80	A	M
+5201	570648	1	2	903	8	Petra	Stránská	Bc.		56	lektorka	Prasek	99	80	A	F
+5201	570648	1	3	902	8	Lucie	Hladíková			38	asistentka účetní	Prasek	99	80	A	F
+5201	570648	1	1	901	9	Pavel	Khol			32	manažer	Prasek	99	80	A	M
+5201	570648	1	2	903	9	Jiří	Stránský			59	technik PO	Prasek	99	80	A	M

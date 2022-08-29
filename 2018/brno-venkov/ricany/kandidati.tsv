@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	583839	1	1	47	1	Pavel	Faustmann	M	Ing.		60	technik	Říčany	99	47	A
-6203	583839	1	1	47	2	Jaroslav	Dolníček	M			44	řidič	Říčany	99	47	A
-6203	583839	1	1	47	3	František	Burian	M			68	důchodce	Říčany	47	47	A
-6203	583839	1	1	47	4	Miroslav	Repka	M			58	frézař	Říčany	99	47	A
-6203	583839	1	1	47	5	Jiří	Semrád	M	Ing.	CSc.	71	důchodce	Říčany	47	47	A
-6203	583839	1	1	47	6	Jana	Šildbergerová	F	JUDr.		61	stát. zaměstnanec	Říčany	99	47	A
-6203	583839	1	1	47	7	Zdeněk	Novák	M			52	dělník	Říčany	99	47	A
-6203	583839	1	1	47	8	Pavel	Dočkal	M			70	důchodce	Říčany	47	47	A
-6203	583839	1	1	47	9	Věra	Dolníčková	F			42	inv. důchodce	Říčany	99	47	A
-6203	583839	1	1	47	10	Miroslav	Hejl	M			60	technik	Říčany	99	47	A
-6203	583839	1	1	47	11	Karel	Vostál	M			75	důchodce	Říčany	47	47	A
-6203	583839	1	1	47	12	Jiřina	Škvařilová	F			55	účetní	Říčany	99	47	A
-6203	583839	1	2	355	1	Jan	Studený	M	Ing.		35	starosta obce	Říčany	1	1	A
-6203	583839	1	2	355	2	Radovan	Křivánek	M	Mgr.		62	ředitel základní školy, místostarosta obce	Říčany	99	80	A
-6203	583839	1	2	355	3	Luděk	Franz	M			53	vedoucí zásobování, zastupitel obce	Říčany	99	1	A
-6203	583839	1	2	355	4	Petra	Vysočanová	F	MUDr.		47	lékařka - kardiolog, zastupitelka obce	Říčany	99	1	A
-6203	583839	1	2	355	5	Karel	Sláma	M			46	řidič, zastupitel obce	Říčany	99	80	A
-6203	583839	1	2	355	6	Petr	Polanský	M			54	živnostník, zastupitel obce	Říčany	99	80	A
-6203	583839	1	2	355	7	Martin	Rolinek	M			37	živnostník, zastupitel obce	Říčany	99	80	A
-6203	583839	1	2	355	8	Antonín	Sláma	M			46	řidič autobusu, zastupitel obce	Říčany	99	1	A
-6203	583839	1	2	355	9	Rostislav	Valeš	M			56	poradce v oblasti zemědělství, zastupitel obce	Říčany	99	80	A
-6203	583839	1	2	355	10	Pavel	Pospíšil	M			41	živnostník - stolař, zastupitel obce	Říčany	99	1	A
-6203	583839	1	2	355	11	Vojtěch	Pluháček	M	Bc.		39	policista, zastupitel obce	Říčany	99	80	A
-6203	583839	1	2	355	12	Josef	Mokren	M	Ing.		53	stavební technik, zastupitel obce	Říčany	99	1	A
-6203	583839	1	2	355	13	Petr	Kříž	M	Mgr.		48	učitel hudby	Říčany	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	583839	1	1	47	1	Pavel	Faustmann	Ing.		60	technik	Říčany	99	47	A	M
+6203	583839	1	2	355	1	Jan	Studený	Ing.		35	starosta obce	Říčany	1	1	A	M
+6203	583839	1	1	47	2	Jaroslav	Dolníček			44	řidič	Říčany	99	47	A	M
+6203	583839	1	2	355	2	Radovan	Křivánek	Mgr.		62	ředitel základní školy, místostarosta obce	Říčany	99	80	A	M
+6203	583839	1	1	47	3	František	Burian			68	důchodce	Říčany	47	47	A	M
+6203	583839	1	2	355	3	Luděk	Franz			53	vedoucí zásobování, zastupitel obce	Říčany	99	1	A	M
+6203	583839	1	1	47	4	Miroslav	Repka			58	frézař	Říčany	99	47	A	M
+6203	583839	1	2	355	4	Petra	Vysočanová	MUDr.		47	lékařka - kardiolog, zastupitelka obce	Říčany	99	1	A	F
+6203	583839	1	1	47	5	Jiří	Semrád	Ing.	CSc.	71	důchodce	Říčany	47	47	A	M
+6203	583839	1	2	355	5	Karel	Sláma			46	řidič, zastupitel obce	Říčany	99	80	A	M
+6203	583839	1	1	47	6	Jana	Šildbergerová	JUDr.		61	stát. zaměstnanec	Říčany	99	47	A	F
+6203	583839	1	2	355	6	Petr	Polanský			54	živnostník, zastupitel obce	Říčany	99	80	A	M
+6203	583839	1	1	47	7	Zdeněk	Novák			52	dělník	Říčany	99	47	A	M
+6203	583839	1	2	355	7	Martin	Rolinek			37	živnostník, zastupitel obce	Říčany	99	80	A	M
+6203	583839	1	1	47	8	Pavel	Dočkal			70	důchodce	Říčany	47	47	A	M
+6203	583839	1	2	355	8	Antonín	Sláma			46	řidič autobusu, zastupitel obce	Říčany	99	1	A	M
+6203	583839	1	1	47	9	Věra	Dolníčková			42	inv. důchodce	Říčany	99	47	A	F
+6203	583839	1	2	355	9	Rostislav	Valeš			56	poradce v oblasti zemědělství, zastupitel obce	Říčany	99	80	A	M
+6203	583839	1	1	47	10	Miroslav	Hejl			60	technik	Říčany	99	47	A	M
+6203	583839	1	2	355	10	Pavel	Pospíšil			41	živnostník - stolař, zastupitel obce	Říčany	99	1	A	M
+6203	583839	1	1	47	11	Karel	Vostál			75	důchodce	Říčany	47	47	A	M
+6203	583839	1	2	355	11	Vojtěch	Pluháček	Bc.		39	policista, zastupitel obce	Říčany	99	80	A	M
+6203	583839	1	1	47	12	Jiřina	Škvařilová			55	účetní	Říčany	99	47	A	F
+6203	583839	1	2	355	12	Josef	Mokren	Ing.		53	stavební technik, zastupitel obce	Říčany	99	1	A	M
+6203	583839	1	2	355	13	Petr	Kříž	Mgr.		48	učitel hudby	Říčany	99	80	A	M

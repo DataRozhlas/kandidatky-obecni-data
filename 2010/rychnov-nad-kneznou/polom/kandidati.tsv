@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5204	548723	1	1	902	1	Antonín	Jakubec	M			62	důchodce	Polom	99	80	0
-5204	548723	1	1	902	2	Miroslav	Kozák	M	Ing.		42	obchodní zástupce	Polom	99	80	0
-5204	548723	1	1	902	3	Martin	Peňáz	M			33	mistr	Polom	99	80	0
-5204	548723	1	1	902	4	Miroslav	Peňáz	M			57	dělník	Polom	99	80	0
-5204	548723	1	1	902	5	Vladislav	Kwasniak	M			46	dělník	Polom	99	80	0
-5204	548723	1	2	901	1	Josef	Šalda	M	Ing.		27	stavbyvedoucí	Polom	99	80	0
-5204	548723	1	2	901	2	Roman	Buben	M			33	OSVČ	Polom	99	80	0
-5204	548723	1	2	901	3	Miroslav	Žaba	M			40	dělník	Polom	99	80	0
-5204	548723	1	2	901	4	Miroslav	Buben	M			32	dělník	Polom	99	80	0
-5204	548723	1	2	901	5	Luboš	Nosek	M			41	obchodně technický poradce	Polom	99	80	0
-5204	548723	1	2	901	6	Jiří	Šalda	M			48	OSVČ	Polom	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5204	548723	1	1	902	1	Antonín	Jakubec			62	důchodce	Polom	99	80	0	M
+5204	548723	1	2	901	1	Josef	Šalda	Ing.		27	stavbyvedoucí	Polom	99	80	0	M
+5204	548723	1	1	902	2	Miroslav	Kozák	Ing.		42	obchodní zástupce	Polom	99	80	0	M
+5204	548723	1	2	901	2	Roman	Buben			33	OSVČ	Polom	99	80	0	M
+5204	548723	1	1	902	3	Martin	Peňáz			33	mistr	Polom	99	80	0	M
+5204	548723	1	2	901	3	Miroslav	Žaba			40	dělník	Polom	99	80	0	M
+5204	548723	1	1	902	4	Miroslav	Peňáz			57	dělník	Polom	99	80	0	M
+5204	548723	1	2	901	4	Miroslav	Buben			32	dělník	Polom	99	80	0	M
+5204	548723	1	1	902	5	Vladislav	Kwasniak			46	dělník	Polom	99	80	0	M
+5204	548723	1	2	901	5	Luboš	Nosek			41	obchodně technický poradce	Polom	99	80	0	M
+5204	548723	1	2	901	6	Jiří	Šalda			48	OSVČ	Polom	99	80	0	M

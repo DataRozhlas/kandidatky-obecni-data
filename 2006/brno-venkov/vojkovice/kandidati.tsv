@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	584142	1	1	53	1	Libor	Mikeštík	M			43	vedoucí výroby	Vojkovice	53	53	0
-6203	584142	1	1	53	2	Petr	Kolegar	M	MUDr.		45	dětský lékař	Vojkovice	99	53	0
-6203	584142	1	1	53	3	Pavel	Špicar	M			34	strojmistr	Vojkovice	99	53	0
-6203	584142	1	1	53	4	Radim	Hanzlík	M			29	obchodní manager	Vojkovice	99	53	0
-6203	584142	1	1	53	5	Richard	Večeřa	M			30	vedoucí řízení jakosti	Vojkovice	99	53	0
-6203	584142	1	1	53	6	Jiří	Šafařík	M	Ing.		31	obchodní zástupce	Vojkovice	99	53	0
-6203	584142	1	1	53	7	Lenka	Zámečníková	F			32	učitelka	Vojkovice	99	53	0
-6203	584142	1	1	53	8	Jarmila	Kresová	F			48	knihovnice	Vojkovice	99	53	0
-6203	584142	1	1	53	9	Marian	Blatný	M			29	automechanik	Vojkovice	99	53	0
-6203	584142	1	1	53	10	Alexandra	Klešíková	F			31	referentka odbytu	Vojkovice	99	53	0
-6203	584142	1	1	53	11	Pavol	Kovarčík	M			36	keramik	Vojkovice	99	53	0
-6203	584142	1	1	53	12	Božena	Kleinová	F	Mgr.		57	důchodce	Vojkovice	53	53	0
-6203	584142	1	1	53	13	Pavel	Klein	M			60	technik	Vojkovice	53	53	0
-6203	584142	1	1	53	14	Marcel	Lupač	M			35	obchodní zástupce	Vojkovice	99	53	0
-6203	584142	1	1	53	15	Pavlína	Mikeštíková	F			21	studující	Vojkovice	99	53	0
-6203	584142	1	2	901	1	Karel	Klein	M			48	soukromý podnikatel	Vojkovice	99	80	0
-6203	584142	1	2	901	2	Jindřich	Toman	M			36	státní zaměstnanec	Vojkovice	99	80	0
-6203	584142	1	2	901	3	Ivan	Pavlík	M	RNDr.		54	ekonom	Vojkovice	99	80	0
-6203	584142	1	2	901	4	Leoš	Janíček	M			48	zvukař	Vojkovice	99	80	0
-6203	584142	1	2	901	5	Zdeněk	Veselý	M			65	důchodce	Vojkovice	99	80	0
-6203	584142	1	2	901	6	Marie	Iránková	F			32	asistentka v lékárně	Vojkovice	99	80	0
-6203	584142	1	2	901	7	Monika	Valášková	F			36	v domácnosti	Vojkovice	99	80	0
-6203	584142	1	2	901	8	Zdeněk	Kryšpín	M			39	soukromý podnikatel	Vojkovice	99	80	0
-6203	584142	1	2	901	9	Jaroslava	Laštůvková	F			31	prodavačka	Vojkovice	99	80	0
-6203	584142	1	2	901	10	Renata	Matějová	F			32	mateřská dovolená	Vojkovice	99	80	0
-6203	584142	1	2	901	11	Jana	Svobodová	F	Ing.		41	úřednice	Vojkovice	99	80	0
-6203	584142	1	2	901	12	Bedřich	Macka	M			48	státní zaměstnanec	Vojkovice	99	80	0
-6203	584142	1	2	901	13	Oldřiška	Veselá	F			42	soukromý podnikatel	Vojkovice	99	80	0
-6203	584142	1	2	901	14	Martin	Vangel	M			32	výrobní ředitel	Vojkovice	99	80	0
-6203	584142	1	2	901	15	Miroslava	Drobílková	F	Ing.		27	projektový manažer	Vojkovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	584142	1	1	53	1	Libor	Mikeštík			43	vedoucí výroby	Vojkovice	53	53	0	M
+6203	584142	1	2	901	1	Karel	Klein			48	soukromý podnikatel	Vojkovice	99	80	0	M
+6203	584142	1	1	53	2	Petr	Kolegar	MUDr.		45	dětský lékař	Vojkovice	99	53	0	M
+6203	584142	1	2	901	2	Jindřich	Toman			36	státní zaměstnanec	Vojkovice	99	80	0	M
+6203	584142	1	1	53	3	Pavel	Špicar			34	strojmistr	Vojkovice	99	53	0	M
+6203	584142	1	2	901	3	Ivan	Pavlík	RNDr.		54	ekonom	Vojkovice	99	80	0	M
+6203	584142	1	1	53	4	Radim	Hanzlík			29	obchodní manager	Vojkovice	99	53	0	M
+6203	584142	1	2	901	4	Leoš	Janíček			48	zvukař	Vojkovice	99	80	0	M
+6203	584142	1	1	53	5	Richard	Večeřa			30	vedoucí řízení jakosti	Vojkovice	99	53	0	M
+6203	584142	1	2	901	5	Zdeněk	Veselý			65	důchodce	Vojkovice	99	80	0	M
+6203	584142	1	1	53	6	Jiří	Šafařík	Ing.		31	obchodní zástupce	Vojkovice	99	53	0	M
+6203	584142	1	2	901	6	Marie	Iránková			32	asistentka v lékárně	Vojkovice	99	80	0	F
+6203	584142	1	1	53	7	Lenka	Zámečníková			32	učitelka	Vojkovice	99	53	0	F
+6203	584142	1	2	901	7	Monika	Valášková			36	v domácnosti	Vojkovice	99	80	0	F
+6203	584142	1	1	53	8	Jarmila	Kresová			48	knihovnice	Vojkovice	99	53	0	F
+6203	584142	1	2	901	8	Zdeněk	Kryšpín			39	soukromý podnikatel	Vojkovice	99	80	0	M
+6203	584142	1	1	53	9	Marian	Blatný			29	automechanik	Vojkovice	99	53	0	M
+6203	584142	1	2	901	9	Jaroslava	Laštůvková			31	prodavačka	Vojkovice	99	80	0	F
+6203	584142	1	1	53	10	Alexandra	Klešíková			31	referentka odbytu	Vojkovice	99	53	0	F
+6203	584142	1	2	901	10	Renata	Matějová			32	mateřská dovolená	Vojkovice	99	80	0	F
+6203	584142	1	1	53	11	Pavol	Kovarčík			36	keramik	Vojkovice	99	53	0	M
+6203	584142	1	2	901	11	Jana	Svobodová	Ing.		41	úřednice	Vojkovice	99	80	0	F
+6203	584142	1	1	53	12	Božena	Kleinová	Mgr.		57	důchodce	Vojkovice	53	53	0	F
+6203	584142	1	2	901	12	Bedřich	Macka			48	státní zaměstnanec	Vojkovice	99	80	0	M
+6203	584142	1	1	53	13	Pavel	Klein			60	technik	Vojkovice	53	53	0	M
+6203	584142	1	2	901	13	Oldřiška	Veselá			42	soukromý podnikatel	Vojkovice	99	80	0	F
+6203	584142	1	1	53	14	Marcel	Lupač			35	obchodní zástupce	Vojkovice	99	53	0	M
+6203	584142	1	2	901	14	Martin	Vangel			32	výrobní ředitel	Vojkovice	99	80	0	M
+6203	584142	1	1	53	15	Pavlína	Mikeštíková			21	studující	Vojkovice	99	53	0	F
+6203	584142	1	2	901	15	Miroslava	Drobílková	Ing.		27	projektový manažer	Vojkovice	99	80	0	F

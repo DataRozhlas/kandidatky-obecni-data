@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4201	562521	1	1	144	1	Radek	Tekeljak	M			40	vedoucí IT	Nová Oleška	99	144	0
-4201	562521	1	1	144	2	Milada	Chmelíková	F			34	finanční poradce	Huntířov	99	144	0
-4201	562521	1	1	144	3	Stanislav	Zahradník	M			46	stavbyvedoucí	Stará Oleška	144	144	0
-4201	562521	1	1	144	4	Rudolf	Čebiš	M			26	podnikatel	Stará Oleška	99	144	0
-4201	562521	1	1	144	5	Martin	Lukeš	M			40	podnikatel	Nová Oleška	99	144	0
-4201	562521	1	1	144	6	Yveta	Hourová	F			42	prodavačka	Huntířov	99	144	0
-4201	562521	1	1	144	7	Rudolf	Nachtman	M			57	podnikatel	Huntířov	99	144	0
-4201	562521	1	1	144	8	Milan	Blažek	M			57	zámečník	Huntířov	99	144	0
-4201	562521	1	1	144	9	Petr	Korpoš	M			24	živnostník	Huntířov	99	144	0
-4201	562521	1	2	902	1	Josef	Záruba	M			61	starosta obce Huntířov	Františkův vrch	99	80	0
-4201	562521	1	2	902	2	Renata	Fajáková	F			40	disponentka dopravy	Stará Oleška	99	80	0
-4201	562521	1	2	902	3	Václav	Kovařič	M			59	důchodce	Nová Oleška	99	80	0
-4201	562521	1	2	902	4	Miroslav	Pova	M			57	podnikatel	Stará Oleška	99	80	0
-4201	562521	1	2	902	5	Josef	Štěrba	M			26	podnikatel	Huntířov	99	80	0
-4201	562521	1	2	902	6	Michal	Polesný	M			48	podnikatel	Stará Oleška	99	80	0
-4201	562521	1	2	902	7	Pavel	Kaftan	M			36	manipulační dělník	Huntířov	99	80	0
-4201	562521	1	2	902	8	Marie	Štrossová	F	Ing.		56	agronomka	Huntířov	99	80	0
-4201	562521	1	2	902	9	Josef	Bohuňovský	M	Ing.		55	obchodní ředitel	Stará Oleška	99	80	0
-4201	562521	1	3	470	1	Miroslav	Němec	M	Ing.		66	ekonom	Huntířov	99	166	0
-4201	562521	1	3	470	2	Miroslav	Ouzký	M	Ing.		39	OSVČ	Huntířov	99	166	0
-4201	562521	1	3	470	3	Josef	Lukeš	M			61	podnikatel	Nová Oleška	99	166	0
-4201	562521	1	3	470	4	Milan	Vrátný	M			32	strojník st.strojů	Stará Oleška	99	166	0
-4201	562521	1	3	470	5	Jan	Mužík	M			38	ekonomický poradce	Huntířov	99	166	0
-4201	562521	1	3	470	6	Richard	Proft	M			35	OSVČ	Huntířov	99	166	0
-4201	562521	1	3	470	7	Jiří	Andrlík	M	Ing.		38	učitel	Huntířov	99	166	0
-4201	562521	1	3	470	8	Vladislav	Dudo	M			44	podnikatel	Huntířov	99	166	0
-4201	562521	1	3	470	9	Marie	Blažková	F			56	referent městského úřadu	Huntířov	99	166	0
-4201	562521	1	4	901	1	Miroslav	Vocetka	M			43	elektrikář	Huntířov	99	80	0
-4201	562521	1	4	901	2	Irena Iva	Lacinová Kolářová	F			49	ředitelka školní jídelny	Stará Oleška	99	80	0
-4201	562521	1	4	901	3	Jaroslav	Grund	M			36	vozmistr	Nová Oleška	99	80	0
-4201	562521	1	4	901	4	Dagmar	Vaňková	F	Mgr.		46	ředitelka DOZP	Huntířov	99	80	0
-4201	562521	1	4	901	5	Bohumír	Váňa	M			63	důchodce	Huntířov	99	80	0
-4201	562521	1	4	901	6	Jaroslava	Schmidt	F			54	v domácnosti	Stará Oleška	99	80	0
-4201	562521	1	4	901	7	Ladislav	Bártek	M			67	důchodce	Stará Oleška	99	80	0
-4201	562521	1	4	901	8	Pavel	Procházka	M			54	podnikatel	Stará Oleška	99	80	0
-4201	562521	1	4	901	9	Jiří	Lacina	M			52	státní zaměstnanec	Stará Oleška	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4201	562521	1	1	144	1	Radek	Tekeljak			40	vedoucí IT	Nová Oleška	99	144	0	M
+4201	562521	1	2	902	1	Josef	Záruba			61	starosta obce Huntířov	Františkův vrch	99	80	0	M
+4201	562521	1	3	470	1	Miroslav	Němec	Ing.		66	ekonom	Huntířov	99	166	0	M
+4201	562521	1	4	901	1	Miroslav	Vocetka			43	elektrikář	Huntířov	99	80	0	M
+4201	562521	1	1	144	2	Milada	Chmelíková			34	finanční poradce	Huntířov	99	144	0	F
+4201	562521	1	2	902	2	Renata	Fajáková			40	disponentka dopravy	Stará Oleška	99	80	0	F
+4201	562521	1	3	470	2	Miroslav	Ouzký	Ing.		39	OSVČ	Huntířov	99	166	0	M
+4201	562521	1	4	901	2	Irena Iva	Lacinová Kolářová			49	ředitelka školní jídelny	Stará Oleška	99	80	0	F
+4201	562521	1	1	144	3	Stanislav	Zahradník			46	stavbyvedoucí	Stará Oleška	144	144	0	M
+4201	562521	1	2	902	3	Václav	Kovařič			59	důchodce	Nová Oleška	99	80	0	M
+4201	562521	1	3	470	3	Josef	Lukeš			61	podnikatel	Nová Oleška	99	166	0	M
+4201	562521	1	4	901	3	Jaroslav	Grund			36	vozmistr	Nová Oleška	99	80	0	M
+4201	562521	1	1	144	4	Rudolf	Čebiš			26	podnikatel	Stará Oleška	99	144	0	M
+4201	562521	1	2	902	4	Miroslav	Pova			57	podnikatel	Stará Oleška	99	80	0	M
+4201	562521	1	3	470	4	Milan	Vrátný			32	strojník st.strojů	Stará Oleška	99	166	0	M
+4201	562521	1	4	901	4	Dagmar	Vaňková	Mgr.		46	ředitelka DOZP	Huntířov	99	80	0	F
+4201	562521	1	1	144	5	Martin	Lukeš			40	podnikatel	Nová Oleška	99	144	0	M
+4201	562521	1	2	902	5	Josef	Štěrba			26	podnikatel	Huntířov	99	80	0	M
+4201	562521	1	3	470	5	Jan	Mužík			38	ekonomický poradce	Huntířov	99	166	0	M
+4201	562521	1	4	901	5	Bohumír	Váňa			63	důchodce	Huntířov	99	80	0	M
+4201	562521	1	1	144	6	Yveta	Hourová			42	prodavačka	Huntířov	99	144	0	F
+4201	562521	1	2	902	6	Michal	Polesný			48	podnikatel	Stará Oleška	99	80	0	M
+4201	562521	1	3	470	6	Richard	Proft			35	OSVČ	Huntířov	99	166	0	M
+4201	562521	1	4	901	6	Jaroslava	Schmidt			54	v domácnosti	Stará Oleška	99	80	0	F
+4201	562521	1	1	144	7	Rudolf	Nachtman			57	podnikatel	Huntířov	99	144	0	M
+4201	562521	1	2	902	7	Pavel	Kaftan			36	manipulační dělník	Huntířov	99	80	0	M
+4201	562521	1	3	470	7	Jiří	Andrlík	Ing.		38	učitel	Huntířov	99	166	0	M
+4201	562521	1	4	901	7	Ladislav	Bártek			67	důchodce	Stará Oleška	99	80	0	M
+4201	562521	1	1	144	8	Milan	Blažek			57	zámečník	Huntířov	99	144	0	M
+4201	562521	1	2	902	8	Marie	Štrossová	Ing.		56	agronomka	Huntířov	99	80	0	F
+4201	562521	1	3	470	8	Vladislav	Dudo			44	podnikatel	Huntířov	99	166	0	M
+4201	562521	1	4	901	8	Pavel	Procházka			54	podnikatel	Stará Oleška	99	80	0	M
+4201	562521	1	1	144	9	Petr	Korpoš			24	živnostník	Huntířov	99	144	0	M
+4201	562521	1	2	902	9	Josef	Bohuňovský	Ing.		55	obchodní ředitel	Stará Oleška	99	80	0	M
+4201	562521	1	3	470	9	Marie	Blažková			56	referent městského úřadu	Huntířov	99	166	0	F
+4201	562521	1	4	901	9	Jiří	Lacina			52	státní zaměstnanec	Stará Oleška	99	80	0	M

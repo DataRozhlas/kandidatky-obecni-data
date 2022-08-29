@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3206	546526	1	1	901	1	Václav	Černý	M	Ing.		63	důchodce	Těškov	99	80	0
-3206	546526	1	1	901	2	Josef	Frűhauf	M	Ing.		59	konzultant	Těškov	99	80	0
-3206	546526	1	1	901	3	Pavel	Veverka	M	Mgr.		73	důchodce	Těškov	47	80	0
-3206	546526	1	1	901	4	Marcela	Bergmanová	F			37	prodavačka	Těškov	99	80	0
-3206	546526	1	1	901	5	Vladimír	Šůcha	M			59	strojní zámečník	Těškov	99	80	0
-3206	546526	1	1	901	6	Pavel	Macák	M			41	podnikatel	Těškov	99	80	0
-3206	546526	1	1	901	7	Zdeněk	Lisý	M			58	podnikatel	Těškov	47	80	0
-3206	546526	1	1	901	8	Karel	Holčapek	M			65	důchodce	Těškov	99	80	0
-3206	546526	1	1	901	9	Zdeněk	Hurt	M			52	traktorista	Těškov	47	80	0
-3206	546526	1	2	902	1	Radek	Tůma	M			36	vedoucí lehké mechaniky	Těškov	99	80	0
-3206	546526	1	2	902	2	František	Vild	M	Bc.		48	technik	Těškov	99	80	0
-3206	546526	1	2	902	3	Petr	Opatrný	M			43	podnikatel	Těškov	99	80	0
-3206	546526	1	2	902	4	Ladislav	Fuchs	M			38	státní zaměstnanec	Těškov	99	80	0
-3206	546526	1	2	902	5	Milan	Dlouhý	M			52	svářeč	Těškov	99	80	0
-3206	546526	1	2	902	6	Václav	Jedlička	M			61	zámečník	Těškov	99	80	0
-3206	546526	1	2	902	7	Jiří	Hrabák	M			33	manager	Těškov	99	80	0
-3206	546526	1	2	902	8	Tomáš	Helcl	M			32	obchodní zástupce	Těškov	99	80	0
-3206	546526	1	2	902	9	Vilouš	Černý	M			71	důchodce	Těškov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3206	546526	1	1	901	1	Václav	Černý	Ing.		63	důchodce	Těškov	99	80	0	M
+3206	546526	1	2	902	1	Radek	Tůma			36	vedoucí lehké mechaniky	Těškov	99	80	0	M
+3206	546526	1	1	901	2	Josef	Frűhauf	Ing.		59	konzultant	Těškov	99	80	0	M
+3206	546526	1	2	902	2	František	Vild	Bc.		48	technik	Těškov	99	80	0	M
+3206	546526	1	1	901	3	Pavel	Veverka	Mgr.		73	důchodce	Těškov	47	80	0	M
+3206	546526	1	2	902	3	Petr	Opatrný			43	podnikatel	Těškov	99	80	0	M
+3206	546526	1	1	901	4	Marcela	Bergmanová			37	prodavačka	Těškov	99	80	0	F
+3206	546526	1	2	902	4	Ladislav	Fuchs			38	státní zaměstnanec	Těškov	99	80	0	M
+3206	546526	1	1	901	5	Vladimír	Šůcha			59	strojní zámečník	Těškov	99	80	0	M
+3206	546526	1	2	902	5	Milan	Dlouhý			52	svářeč	Těškov	99	80	0	M
+3206	546526	1	1	901	6	Pavel	Macák			41	podnikatel	Těškov	99	80	0	M
+3206	546526	1	2	902	6	Václav	Jedlička			61	zámečník	Těškov	99	80	0	M
+3206	546526	1	1	901	7	Zdeněk	Lisý			58	podnikatel	Těškov	47	80	0	M
+3206	546526	1	2	902	7	Jiří	Hrabák			33	manager	Těškov	99	80	0	M
+3206	546526	1	1	901	8	Karel	Holčapek			65	důchodce	Těškov	99	80	0	M
+3206	546526	1	2	902	8	Tomáš	Helcl			32	obchodní zástupce	Těškov	99	80	0	M
+3206	546526	1	1	901	9	Zdeněk	Hurt			52	traktorista	Těškov	47	80	0	M
+3206	546526	1	2	902	9	Vilouš	Černý			71	důchodce	Těškov	99	80	0	M

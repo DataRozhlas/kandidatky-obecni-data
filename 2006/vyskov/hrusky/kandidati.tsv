@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	593079	1	1	7	1	Hanuš	Hudec	M	Ing. arch.		35	architekt	Hrušky	99	7	0
-6206	593079	1	1	7	2	Zdeněk	Dubnický	M			47	podnikatel	Hrušky	99	7	0
-6206	593079	1	1	7	3	Jan	Kauf	M			27	podnikatel	Hrušky	99	7	0
-6206	593079	1	1	7	4	Petr	Košulič	M	Ing.		38	technik výpočetní techniky	Hrušky	99	7	0
-6206	593079	1	1	7	5	Jiří	Šmíd	M			54	výrobní kontrolor	Hrušky	99	7	0
-6206	593079	1	1	7	6	Jan	Cenek	M			29	podnikatel	Hrušky	99	7	0
-6206	593079	1	1	7	7	Jitka	Večeřová	F			45	zdravotní sestra	Hrušky	99	7	0
-6206	593079	1	2	1	1	Petr	Šmerda	M			50	instalatér	Hrušky	99	1	0
-6206	593079	1	2	1	2	Vojtěch	Štefan	M			37	technik	Hrušky	99	1	0
-6206	593079	1	2	1	3	Hana	Holomková	F			51	referentka všeobec.zdr.pojišťo	Hrušky	1	1	0
-6206	593079	1	2	1	4	Helena	Hrabálková	F			51	ekonom	Hrušky	1	1	0
-6206	593079	1	2	1	5	Jindřich	Krejčíř	M			32	strojní mechanik	Hrušky	99	1	0
-6206	593079	1	2	1	6	Josef	Kromer	M			54	dělník	Hrušky	1	1	0
-6206	593079	1	2	1	7	Oldřich	Dočekal	M			59	starosta obce	Hrušky	1	1	0
-6206	593079	1	3	47	1	Miroslav	Fraňo	M			45	mechanizátor	Hrušky	99	47	0
-6206	593079	1	3	47	2	Jiří	Krejčíř ml.	M			32	dělník	Hrušky	99	47	0
-6206	593079	1	3	47	3	Jaroslav	Fuxa	M			54	dělník	Hrušky	47	47	0
-6206	593079	1	3	47	4	Jiří	Krejčíř st.	M			55	dělník	Hrušky	47	47	0
-6206	593079	1	3	47	5	Miroslav	Krejzlík	M			65	řidič	Hrušky	99	47	0
-6206	593079	1	3	47	6	Radoslav	Knesl	M			58	důchodce	Hrušky	99	47	0
-6206	593079	1	3	47	7	František	Jedlička	M			72	důchodce	Hrušky	47	47	0
-6206	593079	1	4	901	1	Ivana	Holoubková	F			49	učitelka	Hrušky	99	80	0
-6206	593079	1	4	901	2	Jaroslava	Randýsková	F			51	účetní	Hrušky	99	80	0
-6206	593079	1	4	901	3	Zdeňka	Halámková	F			31	úřednice	Hrušky	99	80	0
-6206	593079	1	4	901	4	Svatava	Horáčková	F	Ing.		39	technik	Hrušky	99	80	0
-6206	593079	1	4	901	5	Gabriela	Štefanová	F			41	administrativní pracovnice	Hrušky	1	80	0
-6206	593079	1	4	901	6	Alois	Drápal	M			49	strojvedoucí	Hrušky	99	80	0
-6206	593079	1	4	901	7	Jiří	Laichman	M			46	automechanik	Hrušky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	593079	1	1	7	1	Hanuš	Hudec	Ing. arch.		35	architekt	Hrušky	99	7	0	M
+6206	593079	1	2	1	1	Petr	Šmerda			50	instalatér	Hrušky	99	1	0	M
+6206	593079	1	3	47	1	Miroslav	Fraňo			45	mechanizátor	Hrušky	99	47	0	M
+6206	593079	1	4	901	1	Ivana	Holoubková			49	učitelka	Hrušky	99	80	0	F
+6206	593079	1	1	7	2	Zdeněk	Dubnický			47	podnikatel	Hrušky	99	7	0	M
+6206	593079	1	2	1	2	Vojtěch	Štefan			37	technik	Hrušky	99	1	0	M
+6206	593079	1	3	47	2	Jiří	Krejčíř ml.			32	dělník	Hrušky	99	47	0	M
+6206	593079	1	4	901	2	Jaroslava	Randýsková			51	účetní	Hrušky	99	80	0	F
+6206	593079	1	1	7	3	Jan	Kauf			27	podnikatel	Hrušky	99	7	0	M
+6206	593079	1	2	1	3	Hana	Holomková			51	referentka všeobec.zdr.pojišťo	Hrušky	1	1	0	F
+6206	593079	1	3	47	3	Jaroslav	Fuxa			54	dělník	Hrušky	47	47	0	M
+6206	593079	1	4	901	3	Zdeňka	Halámková			31	úřednice	Hrušky	99	80	0	F
+6206	593079	1	1	7	4	Petr	Košulič	Ing.		38	technik výpočetní techniky	Hrušky	99	7	0	M
+6206	593079	1	2	1	4	Helena	Hrabálková			51	ekonom	Hrušky	1	1	0	F
+6206	593079	1	3	47	4	Jiří	Krejčíř st.			55	dělník	Hrušky	47	47	0	M
+6206	593079	1	4	901	4	Svatava	Horáčková	Ing.		39	technik	Hrušky	99	80	0	F
+6206	593079	1	1	7	5	Jiří	Šmíd			54	výrobní kontrolor	Hrušky	99	7	0	M
+6206	593079	1	2	1	5	Jindřich	Krejčíř			32	strojní mechanik	Hrušky	99	1	0	M
+6206	593079	1	3	47	5	Miroslav	Krejzlík			65	řidič	Hrušky	99	47	0	M
+6206	593079	1	4	901	5	Gabriela	Štefanová			41	administrativní pracovnice	Hrušky	1	80	0	F
+6206	593079	1	1	7	6	Jan	Cenek			29	podnikatel	Hrušky	99	7	0	M
+6206	593079	1	2	1	6	Josef	Kromer			54	dělník	Hrušky	1	1	0	M
+6206	593079	1	3	47	6	Radoslav	Knesl			58	důchodce	Hrušky	99	47	0	M
+6206	593079	1	4	901	6	Alois	Drápal			49	strojvedoucí	Hrušky	99	80	0	M
+6206	593079	1	1	7	7	Jitka	Večeřová			45	zdravotní sestra	Hrušky	99	7	0	F
+6206	593079	1	2	1	7	Oldřich	Dočekal			59	starosta obce	Hrušky	1	1	0	M
+6206	593079	1	3	47	7	František	Jedlička			72	důchodce	Hrušky	47	47	0	M
+6206	593079	1	4	901	7	Jiří	Laichman			46	automechanik	Hrušky	99	80	0	M

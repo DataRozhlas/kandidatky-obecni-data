@@ -1,30 +1,30 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	554111	1	1	901	1	Martin	Kopecký	M	Bc.		37	starosta města	Poběžovice	99	80	A
-3201	554111	1	1	901	2	Jakub	Jansa	M	Mgr.		35	pedagog	Šitboř	99	80	A
-3201	554111	1	1	901	3	Petr	Vejvančický	M			39	profesionální hasič	Poběžovice	99	80	A
-3201	554111	1	1	901	4	Pavel	Veselák	M			53	OSVČ	Poběžovice	99	80	A
-3201	554111	1	1	901	5	Karel	Špaček	M	RNDr.	Ph.D.	50	geofyzik, sportovní novinář	Zámělíč	99	80	A
-3201	554111	1	1	901	6	Pavel	Rubáš	M			42	CNC seřizovač	Poběžovice	99	80	A
-3201	554111	1	1	901	7	Zdeňka	Raiserová	F	Ing.	DiS.	36	projektant, pedagog	Poběžovice	99	80	A
-3201	554111	1	1	901	8	Michal	Kliner	M			47	elektrotechnik	Sedlec	99	80	A
-3201	554111	1	1	901	9	Tomáš	Hrda	M			36	CNC seřizovač	Poběžovice	99	80	A
-3201	554111	1	1	901	10	Ladislav	Boček	M			48	vedoucí výroby	Šitboř	99	80	A
-3201	554111	1	1	901	11	Jaroslav	Kukačka	M			42	zámečník	Poběžovice	99	80	A
-3201	554111	1	1	901	12	Jaroslava	Záhořová	F			48	dopravní dispečer	Poběžovice	99	80	A
-3201	554111	1	1	901	13	Tomáš	Krutina	M	Bc.		52	školník	Sedlec	99	80	A
-3201	554111	1	1	901	14	Zbyněk	Prančl	M			45	řidič	Sedlec	99	80	A
-3201	554111	1	1	901	15	Petr	Mužík	M	PhDr.		73	důchodce	Poběžovice	99	80	A
-3201	554111	1	2	902	1	Dominika	Adamcová	F			27	mateřská dovolená	Poběžovice	99	80	A
-3201	554111	1	2	902	2	Petr	Šlegl	M			38	zubní technik	Poběžovice	99	80	A
-3201	554111	1	2	902	3	Zdeněk	Ďuriš	M			35	policista	Poběžovice	99	80	A
-3201	554111	1	2	902	4	Romana	Adamcová	F	Mgr.		48	učitelka základní školy	Poběžovice	99	80	A
-3201	554111	1	2	902	5	Andrea	Sokolová	F			24	učitelka základní školy	Poběžovice	99	80	A
-3201	554111	1	2	902	6	Jiří	Buršík	M	Ing.		34	strojní inženýr - konstruktér	Poběžovice	99	80	A
-3201	554111	1	2	902	7	Josef	Kučera	M	Ing.		47	softwarový inženýr	Poběžovice	99	80	A
-3201	554111	1	2	902	8	Eva	Vondrašová	F	Mgr.		39	referent péče o památky	Poběžovice	99	80	A
-3201	554111	1	2	902	9	Natálie	Pittnerová	F			44	žena v domácnosti	Poběžovice	99	80	A
-3201	554111	1	2	902	10	Jana	Hrušková	F			73	důchodce	Poběžovice	99	80	A
-3201	554111	1	2	902	11	Erika	Stauberová	F	Ing.		29	finanční účetní	Poběžovice	99	80	A
-3201	554111	1	2	902	12	Jaroslav	Tanko	M			47	dělník	Poběžovice	99	80	A
-3201	554111	1	2	902	13	Eva	Pittnerová	F	Ing.		36	OSVČ	Poběžovice	99	80	A
-3201	554111	1	2	902	14	Miroslav	Kabourek	M			55	obsluha čerpací stanice	Šitboř	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	554111	1	1	901	1	Martin	Kopecký	Bc.		37	starosta města	Poběžovice	99	80	A	M
+3201	554111	1	2	902	1	Dominika	Adamcová			27	mateřská dovolená	Poběžovice	99	80	A	F
+3201	554111	1	1	901	2	Jakub	Jansa	Mgr.		35	pedagog	Šitboř	99	80	A	M
+3201	554111	1	2	902	2	Petr	Šlegl			38	zubní technik	Poběžovice	99	80	A	M
+3201	554111	1	1	901	3	Petr	Vejvančický			39	profesionální hasič	Poběžovice	99	80	A	M
+3201	554111	1	2	902	3	Zdeněk	Ďuriš			35	policista	Poběžovice	99	80	A	M
+3201	554111	1	1	901	4	Pavel	Veselák			53	OSVČ	Poběžovice	99	80	A	M
+3201	554111	1	2	902	4	Romana	Adamcová	Mgr.		48	učitelka základní školy	Poběžovice	99	80	A	F
+3201	554111	1	1	901	5	Karel	Špaček	RNDr.	Ph.D.	50	geofyzik, sportovní novinář	Zámělíč	99	80	A	M
+3201	554111	1	2	902	5	Andrea	Sokolová			24	učitelka základní školy	Poběžovice	99	80	A	F
+3201	554111	1	1	901	6	Pavel	Rubáš			42	CNC seřizovač	Poběžovice	99	80	A	M
+3201	554111	1	2	902	6	Jiří	Buršík	Ing.		34	strojní inženýr - konstruktér	Poběžovice	99	80	A	M
+3201	554111	1	1	901	7	Zdeňka	Raiserová	Ing.	DiS.	36	projektant, pedagog	Poběžovice	99	80	A	F
+3201	554111	1	2	902	7	Josef	Kučera	Ing.		47	softwarový inženýr	Poběžovice	99	80	A	M
+3201	554111	1	1	901	8	Michal	Kliner			47	elektrotechnik	Sedlec	99	80	A	M
+3201	554111	1	2	902	8	Eva	Vondrašová	Mgr.		39	referent péče o památky	Poběžovice	99	80	A	F
+3201	554111	1	1	901	9	Tomáš	Hrda			36	CNC seřizovač	Poběžovice	99	80	A	M
+3201	554111	1	2	902	9	Natálie	Pittnerová			44	žena v domácnosti	Poběžovice	99	80	A	F
+3201	554111	1	1	901	10	Ladislav	Boček			48	vedoucí výroby	Šitboř	99	80	A	M
+3201	554111	1	2	902	10	Jana	Hrušková			73	důchodce	Poběžovice	99	80	A	F
+3201	554111	1	1	901	11	Jaroslav	Kukačka			42	zámečník	Poběžovice	99	80	A	M
+3201	554111	1	2	902	11	Erika	Stauberová	Ing.		29	finanční účetní	Poběžovice	99	80	A	F
+3201	554111	1	1	901	12	Jaroslava	Záhořová			48	dopravní dispečer	Poběžovice	99	80	A	F
+3201	554111	1	2	902	12	Jaroslav	Tanko			47	dělník	Poběžovice	99	80	A	M
+3201	554111	1	1	901	13	Tomáš	Krutina	Bc.		52	školník	Sedlec	99	80	A	M
+3201	554111	1	2	902	13	Eva	Pittnerová	Ing.		36	OSVČ	Poběžovice	99	80	A	F
+3201	554111	1	1	901	14	Zbyněk	Prančl			45	řidič	Sedlec	99	80	A	M
+3201	554111	1	2	902	14	Miroslav	Kabourek			55	obsluha čerpací stanice	Šitboř	99	80	A	M
+3201	554111	1	1	901	15	Petr	Mužík	PhDr.		73	důchodce	Poběžovice	99	80	A	M

@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	578801	1	1	901	1	Leoš	Vendolský	M			40	manažer nákupu	Stašov	99	80	0
-5303	578801	1	1	901	2	Josef	Penias	M			55	podnikatel	Stašov	99	80	0
-5303	578801	1	1	901	3	Miroslav	Frodl	M			56	hlavní mechanik	Stašov	99	80	0
-5303	578801	1	1	901	4	Vilemína	Houdková	F			61	důchodce	Stašov	99	80	0
-5303	578801	1	1	901	5	Alena	Vendolská	F	Ing.		37	manažer správních záležitostí	Stašov	99	80	0
-5303	578801	1	1	901	6	Marián	Penias	M			29	projektant	Stašov	99	80	0
-5303	578801	1	1	901	7	Luboš	Popelka	M			53	vedoucí technického úseku	Stašov	99	80	0
-5303	578801	1	1	901	8	Milan	Přídalík	M			38	stavební zámečník	Stašov	99	80	0
-5303	578801	1	1	901	9	Pavlína	Uhrová	F			37	žena v domácnosti	Stašov	99	80	0
-5303	578801	1	2	902	1	Dušan	Frodl	M			31	automechanik	Stašov	99	80	0
-5303	578801	1	2	902	2	Pavel	Gregor	M			41	programátor	Stašov	99	80	0
-5303	578801	1	2	902	3	Petr	Kovařík	M			70	důchodce	Stašov	99	80	0
-5303	578801	1	2	902	4	Anna	Andrlová	F			44	obchodní zástupce	Stašov	99	80	0
-5303	578801	1	2	902	5	Martin	Lukele	M			42	svářeč	Stašov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	578801	1	1	901	1	Leoš	Vendolský			40	manažer nákupu	Stašov	99	80	0	M
+5303	578801	1	2	902	1	Dušan	Frodl			31	automechanik	Stašov	99	80	0	M
+5303	578801	1	1	901	2	Josef	Penias			55	podnikatel	Stašov	99	80	0	M
+5303	578801	1	2	902	2	Pavel	Gregor			41	programátor	Stašov	99	80	0	M
+5303	578801	1	1	901	3	Miroslav	Frodl			56	hlavní mechanik	Stašov	99	80	0	M
+5303	578801	1	2	902	3	Petr	Kovařík			70	důchodce	Stašov	99	80	0	M
+5303	578801	1	1	901	4	Vilemína	Houdková			61	důchodce	Stašov	99	80	0	F
+5303	578801	1	2	902	4	Anna	Andrlová			44	obchodní zástupce	Stašov	99	80	0	F
+5303	578801	1	1	901	5	Alena	Vendolská	Ing.		37	manažer správních záležitostí	Stašov	99	80	0	F
+5303	578801	1	2	902	5	Martin	Lukele			42	svářeč	Stašov	99	80	0	M
+5303	578801	1	1	901	6	Marián	Penias			29	projektant	Stašov	99	80	0	M
+5303	578801	1	1	901	7	Luboš	Popelka			53	vedoucí technického úseku	Stašov	99	80	0	M
+5303	578801	1	1	901	8	Milan	Přídalík			38	stavební zámečník	Stašov	99	80	0	M
+5303	578801	1	1	901	9	Pavlína	Uhrová			37	žena v domácnosti	Stašov	99	80	0	F

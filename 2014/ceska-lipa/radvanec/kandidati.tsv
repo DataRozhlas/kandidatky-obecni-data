@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5101	530387	1	1	902	1	Jaromír	Svoboda	M			50	OSVČ	Radvanec	99	80	0
-5101	530387	1	1	902	2	Pavel	Cyrus	M			32	plánovač	Radvanec	99	80	0
-5101	530387	1	1	902	3	Miloš	Pávek	M			56	stav. technik	Maxov	99	80	0
-5101	530387	1	1	902	4	Ladislav	Hubený	M			37	OSVČ	Radvanec	99	80	0
-5101	530387	1	1	902	5	Renáta	Báčová	F	Ing.		47	účetní	Radvanec	99	80	0
-5101	530387	1	1	902	6	Ilona	Svobodová	F			46	učitelka	Radvanec	99	80	0
-5101	530387	1	2	901	1	Petr	Ullrich	M	Ing.		51	projektový koordinátor	Radvanec	703	80	0
-5101	530387	1	2	901	2	Naďa	Formánková	F			58	účetní	Radvanec	99	80	0
-5101	530387	1	2	901	3	Tomáš	Januš	M			46	ředitel divize	Radvanec	99	80	0
-5101	530387	1	2	901	4	Jan	Hlavina	M			37	živnostník	Radvanec	99	80	0
-5101	530387	1	2	901	5	Vladimír	Matoušek	M			62	důchodce	Radvanec	99	80	0
-5101	530387	1	2	901	6	Jaroslav	Slánský	M			42	stavební dělník	Radvanec	99	80	0
-5101	530387	1	2	901	7	Miloš	Halama	M			32	konstruktér	Radvanec	99	80	0
-5101	530387	1	2	901	8	Eva	Nádvorníková	F			60	důchodkyně	Radvanec	99	80	0
-5101	530387	1	2	901	9	Radek	Matoušek	M			38	svářeč	Radvanec	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5101	530387	1	1	902	1	Jaromír	Svoboda			50	OSVČ	Radvanec	99	80	0	M
+5101	530387	1	2	901	1	Petr	Ullrich	Ing.		51	projektový koordinátor	Radvanec	703	80	0	M
+5101	530387	1	1	902	2	Pavel	Cyrus			32	plánovač	Radvanec	99	80	0	M
+5101	530387	1	2	901	2	Naďa	Formánková			58	účetní	Radvanec	99	80	0	F
+5101	530387	1	1	902	3	Miloš	Pávek			56	stav. technik	Maxov	99	80	0	M
+5101	530387	1	2	901	3	Tomáš	Januš			46	ředitel divize	Radvanec	99	80	0	M
+5101	530387	1	1	902	4	Ladislav	Hubený			37	OSVČ	Radvanec	99	80	0	M
+5101	530387	1	2	901	4	Jan	Hlavina			37	živnostník	Radvanec	99	80	0	M
+5101	530387	1	1	902	5	Renáta	Báčová	Ing.		47	účetní	Radvanec	99	80	0	F
+5101	530387	1	2	901	5	Vladimír	Matoušek			62	důchodce	Radvanec	99	80	0	M
+5101	530387	1	1	902	6	Ilona	Svobodová			46	učitelka	Radvanec	99	80	0	F
+5101	530387	1	2	901	6	Jaroslav	Slánský			42	stavební dělník	Radvanec	99	80	0	M
+5101	530387	1	2	901	7	Miloš	Halama			32	konstruktér	Radvanec	99	80	0	M
+5101	530387	1	2	901	8	Eva	Nádvorníková			60	důchodkyně	Radvanec	99	80	0	F
+5101	530387	1	2	901	9	Radek	Matoušek			38	svářeč	Radvanec	99	80	0	M

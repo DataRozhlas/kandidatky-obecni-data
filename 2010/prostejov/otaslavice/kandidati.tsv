@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589845	1	1	47	1	Pavel	Zapletal	M			53	opravář	Otaslavice	99	47	0
-7103	589845	1	1	47	2	Miroslav	Hohn	M			55	stolář	Otaslavice	99	47	0
-7103	589845	1	1	47	3	Marek	Hohn	M			29	stolář	Otaslavice	99	47	0
-7103	589845	1	1	47	4	Luděk	Pluhař	M			43	soustružník	Otaslavice	47	47	0
-7103	589845	1	1	47	5	Pavel	Hohn	M			22	stolář	Otaslavice	99	47	0
-7103	589845	1	1	47	6	Věra	Řehulková	F			67	důchodce	Otaslavice	99	47	0
-7103	589845	1	1	47	7	Anna	Pluhařová	F			64	důchodce	Otaslavice	99	47	0
-7103	589845	1	1	47	8	Leoš	Ščuka	M			52	OSVČ	Otaslavice	99	47	0
-7103	589845	1	1	47	9	Tomáš	Lorenc	M			43	zedník	Otaslavice	99	47	0
-7103	589845	1	2	470	1	Roman	Palát	M	Ing.		48	zootechnik	Otaslavice	99	166	0
-7103	589845	1	2	470	2	Vladimír	Ambros	M	Ing.		42	OSVČ	Otaslavice	99	80	0
-7103	589845	1	2	470	3	Miloslav	Ježek	M			58	zaměstnanec Vojenských lesů	Otaslavice	99	80	0
-7103	589845	1	2	470	4	Marek	Hýbl	M			39	živnostník	Otaslavice	99	80	0
-7103	589845	1	2	470	5	Veronika	Chovancová	F	Ing.		33	mateřská dovolená	Otaslavice	99	80	0
-7103	589845	1	2	470	6	Jan	Ruszó	M			29	OSVČ	Otaslavice	99	80	0
-7103	589845	1	2	470	7	Marie	Šimšová	F	Ing.		52	bankovní úřednice	Otaslavice	99	80	0
-7103	589845	1	2	470	8	Jaromír	Halouzka	M			55	strojní zámečník	Otaslavice	99	80	0
-7103	589845	1	2	470	9	Jana	Ambrosová	F	MVDr.		30	mateřská dovolená	Otaslavice	99	80	0
-7103	589845	1	3	1	1	Marta	Řehulková	F			51	účetní	Otaslavice	99	1	0
-7103	589845	1	3	1	2	Josef	Kaláb	M	Ing.		36	servisní technik	Otaslavice	99	1	0
-7103	589845	1	3	1	3	Kateřina	Palátová	F	Ing.		48	vedoucí ekonomického oddělení	Otaslavice	99	1	0
-7103	589845	1	3	1	4	Jiří	Lorenc	M			55	vedoucí střediska THP	Otaslavice	99	1	0
-7103	589845	1	3	1	5	Eva	Kabilková	F			40	technik	Otaslavice	99	1	0
-7103	589845	1	3	1	6	Pavel	Sovíček	M			38	OSVČ	Otaslavice	99	1	0
-7103	589845	1	3	1	7	Lenka	Urbášková	F			48	THP	Otaslavice	99	1	0
-7103	589845	1	3	1	8	Vojtěch	Rozsíval	M	Ing.		33	konstruktér	Otaslavice	99	1	0
-7103	589845	1	3	1	9	Pavel	Plachý	M			49	strojvedoucí	Otaslavice	99	1	0
-7103	589845	1	4	53	1	Mojmír	Sokol	M	Ing.		33	jednatel společnosti	Otaslavice	53	53	0
-7103	589845	1	4	53	2	Rostislav	Drnovský	M	Ing.		56	technik	Otaslavice	99	53	0
-7103	589845	1	4	53	3	František	Kopa	M			39	jednatel společnosti	Otaslavice	53	53	0
-7103	589845	1	4	53	4	Vladimír	Leitgeb	M	Ing.		55	vedoucí výroby	Otaslavice	53	53	0
-7103	589845	1	4	53	5	Božena	Bartošová	F	Mgr.		59	právnička	Otaslavice	99	53	0
-7103	589845	1	4	53	6	Karel	Veselý	M			41	automechanik	Otaslavice	99	53	0
-7103	589845	1	4	53	7	Jiří	Nedělník	M			36	soukromý zemědělec	Otaslavice	99	53	0
-7103	589845	1	4	53	8	Pavel	Novák	M			60	jednatel společnosti	Otaslavice	99	53	0
-7103	589845	1	4	53	9	Ctibor	Řehulka	M			36	restauratér	Otaslavice	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589845	1	1	47	1	Pavel	Zapletal			53	opravář	Otaslavice	99	47	0	M
+7103	589845	1	2	470	1	Roman	Palát	Ing.		48	zootechnik	Otaslavice	99	166	0	M
+7103	589845	1	3	1	1	Marta	Řehulková			51	účetní	Otaslavice	99	1	0	F
+7103	589845	1	4	53	1	Mojmír	Sokol	Ing.		33	jednatel společnosti	Otaslavice	53	53	0	M
+7103	589845	1	1	47	2	Miroslav	Hohn			55	stolář	Otaslavice	99	47	0	M
+7103	589845	1	2	470	2	Vladimír	Ambros	Ing.		42	OSVČ	Otaslavice	99	80	0	M
+7103	589845	1	3	1	2	Josef	Kaláb	Ing.		36	servisní technik	Otaslavice	99	1	0	M
+7103	589845	1	4	53	2	Rostislav	Drnovský	Ing.		56	technik	Otaslavice	99	53	0	M
+7103	589845	1	1	47	3	Marek	Hohn			29	stolář	Otaslavice	99	47	0	M
+7103	589845	1	2	470	3	Miloslav	Ježek			58	zaměstnanec Vojenských lesů	Otaslavice	99	80	0	M
+7103	589845	1	3	1	3	Kateřina	Palátová	Ing.		48	vedoucí ekonomického oddělení	Otaslavice	99	1	0	F
+7103	589845	1	4	53	3	František	Kopa			39	jednatel společnosti	Otaslavice	53	53	0	M
+7103	589845	1	1	47	4	Luděk	Pluhař			43	soustružník	Otaslavice	47	47	0	M
+7103	589845	1	2	470	4	Marek	Hýbl			39	živnostník	Otaslavice	99	80	0	M
+7103	589845	1	3	1	4	Jiří	Lorenc			55	vedoucí střediska THP	Otaslavice	99	1	0	M
+7103	589845	1	4	53	4	Vladimír	Leitgeb	Ing.		55	vedoucí výroby	Otaslavice	53	53	0	M
+7103	589845	1	1	47	5	Pavel	Hohn			22	stolář	Otaslavice	99	47	0	M
+7103	589845	1	2	470	5	Veronika	Chovancová	Ing.		33	mateřská dovolená	Otaslavice	99	80	0	F
+7103	589845	1	3	1	5	Eva	Kabilková			40	technik	Otaslavice	99	1	0	F
+7103	589845	1	4	53	5	Božena	Bartošová	Mgr.		59	právnička	Otaslavice	99	53	0	F
+7103	589845	1	1	47	6	Věra	Řehulková			67	důchodce	Otaslavice	99	47	0	F
+7103	589845	1	2	470	6	Jan	Ruszó			29	OSVČ	Otaslavice	99	80	0	M
+7103	589845	1	3	1	6	Pavel	Sovíček			38	OSVČ	Otaslavice	99	1	0	M
+7103	589845	1	4	53	6	Karel	Veselý			41	automechanik	Otaslavice	99	53	0	M
+7103	589845	1	1	47	7	Anna	Pluhařová			64	důchodce	Otaslavice	99	47	0	F
+7103	589845	1	2	470	7	Marie	Šimšová	Ing.		52	bankovní úřednice	Otaslavice	99	80	0	F
+7103	589845	1	3	1	7	Lenka	Urbášková			48	THP	Otaslavice	99	1	0	F
+7103	589845	1	4	53	7	Jiří	Nedělník			36	soukromý zemědělec	Otaslavice	99	53	0	M
+7103	589845	1	1	47	8	Leoš	Ščuka			52	OSVČ	Otaslavice	99	47	0	M
+7103	589845	1	2	470	8	Jaromír	Halouzka			55	strojní zámečník	Otaslavice	99	80	0	M
+7103	589845	1	3	1	8	Vojtěch	Rozsíval	Ing.		33	konstruktér	Otaslavice	99	1	0	M
+7103	589845	1	4	53	8	Pavel	Novák			60	jednatel společnosti	Otaslavice	99	53	0	M
+7103	589845	1	1	47	9	Tomáš	Lorenc			43	zedník	Otaslavice	99	47	0	M
+7103	589845	1	2	470	9	Jana	Ambrosová	MVDr.		30	mateřská dovolená	Otaslavice	99	80	0	F
+7103	589845	1	3	1	9	Pavel	Plachý			49	strojvedoucí	Otaslavice	99	1	0	M
+7103	589845	1	4	53	9	Ctibor	Řehulka			36	restauratér	Otaslavice	99	53	0	M

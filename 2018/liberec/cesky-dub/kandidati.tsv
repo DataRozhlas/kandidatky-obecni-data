@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5103	563960	1	1	389	1	Martin	Bobek	M			46	místostarosta města Český Dub	Český Dub IV	53	53	A
-5103	563960	1	1	389	2	Ivana	Nikulinová	F			68	risk manager v penzi	Kněžičky	99	80	A
-5103	563960	1	1	389	3	Josef	Najman	M			39	technolog	Český Dub III	99	80	A
-5103	563960	1	1	389	4	Zdeněk	Paclt	M	Ing.		61	soukromý podnikatel, zastupitel města Český Dub	Kněžičky	99	80	A
-5103	563960	1	1	389	5	Martin	Bobek	M	Bc.		25	úředník, student VŠ	Český Dub IV	99	80	A
-5103	563960	1	1	389	6	Tomáš	Bína	M			38	technolog	Starý Dub	99	80	A
-5103	563960	1	1	389	7	Dagmar	Křivancová	F			40	koordinátorka logistiky	Český Dub II	99	80	A
-5103	563960	1	1	389	8	Bohuslava	Nevrklová	F	PaedDr.		74	učitelka ZŠ v penzi, soudce přís. Kr. soudu v Lib.	Malý Dub	99	80	A
-5103	563960	1	1	389	9	Roman	Kostelňák	M			41	profesionální hasič	Český Dub II	99	80	A
-5103	563960	1	1	389	10	Aleš	Kabátek	M			47	soukromý podnikatel	Český Dub IV	53	53	A
-5103	563960	1	1	389	11	Marcela	Dostálová	F			54	mzdová účetní	Český Dub IV	99	80	A
-5103	563960	1	1	389	12	Zdeněk	Třešňák	M			31	soukromý podnikatel	Starý Dub	53	53	A
-5103	563960	1	1	389	13	Vladimír	Glaser	M			62	jednatel firmy	Český Dub II	99	80	A
-5103	563960	1	1	389	14	Jan	Perner	M			45	soukromý podnikatel	Český Dub II	99	80	A
-5103	563960	1	1	389	15	Zdeněk	Třešňák	M			58	energetik	Starý Dub	99	80	A
-5103	563960	1	2	901	1	Jiří	Miler	M	PhDr. PaedDr.	Ph.D.	56	starosta města	Český Dub IV	99	80	A
-5103	563960	1	2	901	2	Petr	Jodas	M	Ing.		41	programátor, člen rady města	Český Dub IV	99	80	A
-5103	563960	1	2	901	3	Oldřich	Laufke	M			48	profesionální hasič, člen rady města	Český Dub IV	99	80	A
-5103	563960	1	2	901	4	David	Rubáš	M	Mgr.		39	učitel, vedoucí florbalu, člen rady města	Český Dub IV	99	80	A
-5103	563960	1	2	901	5	Martina	Růžičková	F	Mgr.		43	učitelka základní školy, zastupitelka města	Sobotice	99	80	A
-5103	563960	1	2	901	6	Martin	Ponikelský	M	MUDr.		45	lékař anesteziolog, zastupitel města	Český Dub II	99	80	A
-5103	563960	1	2	901	7	Jaroslava	Vaňková	F			73	starostka hasičů ve Smržově, zastupitelka města	Smržov	99	80	A
-5103	563960	1	2	901	8	Pavel	Rechcígel	M	Ing.		55	soukromý zemědělec, zastupitel města	Český Dub III	99	80	A
-5103	563960	1	2	901	9	Dominik	Rubáš	M	RNDr.		30	učitel, autor regionálních publikací, zast. měst.	Český Dub IV	99	80	A
-5103	563960	1	2	901	10	Ondřej	Fila	M			35	živnostník	Český Dub IV	99	80	A
-5103	563960	1	2	901	11	Michael	Šindelář	M			47	technický pracovník Škoda Auto	Český Dub IV	99	80	A
-5103	563960	1	2	901	12	Tomáš	Pražák	M	Mgr.		44	učitel základní školy	Kněžičky	99	80	A
-5103	563960	1	2	901	13	Ondřej	Zelinka	M	Ing.	Ph.D.	39	vývojář a programátor	Český Dub II	99	80	A
-5103	563960	1	2	901	14	Helena	Rajtrová	F	Bc.		25	studentka - Univerzita Pardubice	Kněžičky	99	80	A
-5103	563960	1	2	901	15	Kateřina	Havelková	F	Mgr.		51	farářka Církve československé husitské	Český Dub IV	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5103	563960	1	1	389	1	Martin	Bobek			46	místostarosta města Český Dub	Český Dub IV	53	53	A	M
+5103	563960	1	2	901	1	Jiří	Miler	PhDr. PaedDr.	Ph.D.	56	starosta města	Český Dub IV	99	80	A	M
+5103	563960	1	1	389	2	Ivana	Nikulinová			68	risk manager v penzi	Kněžičky	99	80	A	F
+5103	563960	1	2	901	2	Petr	Jodas	Ing.		41	programátor, člen rady města	Český Dub IV	99	80	A	M
+5103	563960	1	1	389	3	Josef	Najman			39	technolog	Český Dub III	99	80	A	M
+5103	563960	1	2	901	3	Oldřich	Laufke			48	profesionální hasič, člen rady města	Český Dub IV	99	80	A	M
+5103	563960	1	1	389	4	Zdeněk	Paclt	Ing.		61	soukromý podnikatel, zastupitel města Český Dub	Kněžičky	99	80	A	M
+5103	563960	1	2	901	4	David	Rubáš	Mgr.		39	učitel, vedoucí florbalu, člen rady města	Český Dub IV	99	80	A	M
+5103	563960	1	1	389	5	Martin	Bobek	Bc.		25	úředník, student VŠ	Český Dub IV	99	80	A	M
+5103	563960	1	2	901	5	Martina	Růžičková	Mgr.		43	učitelka základní školy, zastupitelka města	Sobotice	99	80	A	F
+5103	563960	1	1	389	6	Tomáš	Bína			38	technolog	Starý Dub	99	80	A	M
+5103	563960	1	2	901	6	Martin	Ponikelský	MUDr.		45	lékař anesteziolog, zastupitel města	Český Dub II	99	80	A	M
+5103	563960	1	1	389	7	Dagmar	Křivancová			40	koordinátorka logistiky	Český Dub II	99	80	A	F
+5103	563960	1	2	901	7	Jaroslava	Vaňková			73	starostka hasičů ve Smržově, zastupitelka města	Smržov	99	80	A	F
+5103	563960	1	1	389	8	Bohuslava	Nevrklová	PaedDr.		74	učitelka ZŠ v penzi, soudce přís. Kr. soudu v Lib.	Malý Dub	99	80	A	F
+5103	563960	1	2	901	8	Pavel	Rechcígel	Ing.		55	soukromý zemědělec, zastupitel města	Český Dub III	99	80	A	M
+5103	563960	1	1	389	9	Roman	Kostelňák			41	profesionální hasič	Český Dub II	99	80	A	M
+5103	563960	1	2	901	9	Dominik	Rubáš	RNDr.		30	učitel, autor regionálních publikací, zast. měst.	Český Dub IV	99	80	A	M
+5103	563960	1	1	389	10	Aleš	Kabátek			47	soukromý podnikatel	Český Dub IV	53	53	A	M
+5103	563960	1	2	901	10	Ondřej	Fila			35	živnostník	Český Dub IV	99	80	A	M
+5103	563960	1	1	389	11	Marcela	Dostálová			54	mzdová účetní	Český Dub IV	99	80	A	F
+5103	563960	1	2	901	11	Michael	Šindelář			47	technický pracovník Škoda Auto	Český Dub IV	99	80	A	M
+5103	563960	1	1	389	12	Zdeněk	Třešňák			31	soukromý podnikatel	Starý Dub	53	53	A	M
+5103	563960	1	2	901	12	Tomáš	Pražák	Mgr.		44	učitel základní školy	Kněžičky	99	80	A	M
+5103	563960	1	1	389	13	Vladimír	Glaser			62	jednatel firmy	Český Dub II	99	80	A	M
+5103	563960	1	2	901	13	Ondřej	Zelinka	Ing.	Ph.D.	39	vývojář a programátor	Český Dub II	99	80	A	M
+5103	563960	1	1	389	14	Jan	Perner			45	soukromý podnikatel	Český Dub II	99	80	A	M
+5103	563960	1	2	901	14	Helena	Rajtrová	Bc.		25	studentka - Univerzita Pardubice	Kněžičky	99	80	A	F
+5103	563960	1	1	389	15	Zdeněk	Třešňák			58	energetik	Starý Dub	99	80	A	M
+5103	563960	1	2	901	15	Kateřina	Havelková	Mgr.		51	farářka Církve československé husitské	Český Dub IV	99	80	A	F

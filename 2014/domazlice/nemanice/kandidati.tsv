@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	554006	1	1	7	1	Ivan	Bartošek	M			47	starosta	Nemanice	7	7	0
-3201	554006	1	1	7	2	Bohumil	Šmíd	M			44	technik	Nemanice	7	7	0
-3201	554006	1	1	7	3	Josef	Šlajs	M	Ing.		56	OSVČ - daňový poradce	Stará Huť	99	7	0
-3201	554006	1	1	7	4	Zdeňka	Holubová	F			67	důchodce	Nemanice	99	7	0
-3201	554006	1	1	7	5	Věra	Chovanová	F			45	invalidní důchodce	Nemanice	99	7	0
-3201	554006	1	1	7	6	Lenka	Hamacková	F			26	dělnice	Nová Huť	7	7	0
-3201	554006	1	1	7	7	Miloslava	Ondrová	F			39	dělnice	Nemanice	7	7	0
-3201	554006	1	1	7	8	Vladimír	Tecl	M			39	dělník	Nemanice	7	7	0
-3201	554006	1	1	7	9	Marek	Bartošek	M			26	dělník	Nemanice	7	7	0
-3201	554006	1	2	482	1	Jana	Brodská	F			42	vedoucí controllingu	Nemanice	99	715	0
-3201	554006	1	2	482	2	Miroslav	Chovan	M			37	živnostník	Nemanice	99	80	0
-3201	554006	1	2	482	3	Radka	Kuželka Talašová	F	Ing.		28	účetní	Nemanice	99	80	0
-3201	554006	1	2	482	4	František	Kuna	M			57	pracující důchodce	Nemanice	99	80	0
-3201	554006	1	2	482	5	Jana	Franková	F			51	účetní	Nemanice	99	80	0
-3201	554006	1	2	482	6	Štefan	Chovan	M			58	důchodce	Nemanice	99	80	0
-3201	554006	1	2	482	7	Naďa	Kmetíková	F			38	dělnice	Nemanice	99	80	0
-3201	554006	1	2	482	8	Dagmar	Karlová	F			37	dělnice	Nemanice	99	80	0
-3201	554006	1	2	482	9	Marie	Koubová	F			66	důchodkyně	Nemanice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	554006	1	1	7	1	Ivan	Bartošek			47	starosta	Nemanice	7	7	0	M
+3201	554006	1	2	482	1	Jana	Brodská			42	vedoucí controllingu	Nemanice	99	715	0	F
+3201	554006	1	1	7	2	Bohumil	Šmíd			44	technik	Nemanice	7	7	0	M
+3201	554006	1	2	482	2	Miroslav	Chovan			37	živnostník	Nemanice	99	80	0	M
+3201	554006	1	1	7	3	Josef	Šlajs	Ing.		56	OSVČ - daňový poradce	Stará Huť	99	7	0	M
+3201	554006	1	2	482	3	Radka	Kuželka Talašová	Ing.		28	účetní	Nemanice	99	80	0	F
+3201	554006	1	1	7	4	Zdeňka	Holubová			67	důchodce	Nemanice	99	7	0	F
+3201	554006	1	2	482	4	František	Kuna			57	pracující důchodce	Nemanice	99	80	0	M
+3201	554006	1	1	7	5	Věra	Chovanová			45	invalidní důchodce	Nemanice	99	7	0	F
+3201	554006	1	2	482	5	Jana	Franková			51	účetní	Nemanice	99	80	0	F
+3201	554006	1	1	7	6	Lenka	Hamacková			26	dělnice	Nová Huť	7	7	0	F
+3201	554006	1	2	482	6	Štefan	Chovan			58	důchodce	Nemanice	99	80	0	M
+3201	554006	1	1	7	7	Miloslava	Ondrová			39	dělnice	Nemanice	7	7	0	F
+3201	554006	1	2	482	7	Naďa	Kmetíková			38	dělnice	Nemanice	99	80	0	F
+3201	554006	1	1	7	8	Vladimír	Tecl			39	dělník	Nemanice	7	7	0	M
+3201	554006	1	2	482	8	Dagmar	Karlová			37	dělnice	Nemanice	99	80	0	F
+3201	554006	1	1	7	9	Marek	Bartošek			26	dělník	Nemanice	7	7	0	M
+3201	554006	1	2	482	9	Marie	Koubová			66	důchodkyně	Nemanice	99	80	0	F

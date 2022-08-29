@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7201	588971	1	1	1	1	Michael	Vita	M			57	manažer repas centra	Rymice	99	1	A
-7201	588971	1	1	1	2	Petr	Janečka	M	Ing.		45	IT manažer	Rymice	99	1	A
-7201	588971	1	1	1	3	Karolína	Smýkalová	F			27	mateřská dovolená	Rymice	99	1	A
-7201	588971	1	1	1	4	Mojmír	Potůček	M			43	stolař	Rymice	99	1	A
-7201	588971	1	1	1	5	Pavlína	Bílková	F			47	pracovnice Charity Holešov	Rymice	1	1	A
-7201	588971	1	1	1	6	Zdeněk	Machovský	M			34	živnostník, předseda TJ Sokol Rymice	Rymice	99	1	A
-7201	588971	1	1	1	7	Alena	Jurášková	F			35	zdravotní sestra	Rymice	99	1	A
-7201	588971	1	1	1	8	Lenka	Odložilíková	F			37	operátorka výrobní linky Trachea a.s. na mateřské	Rymice	99	1	A
-7201	588971	1	1	1	9	František	Kukla	M	Mgr.		61	meteorolog	Rymice	1	1	A
-7201	588971	1	2	7	1	Martin	Bartík	M	Ing.		50	starosta obce	Rymice	7	7	A
-7201	588971	1	2	7	2	Svatopluk	Procházka	M	Ing.		65	OSVČ	Rymice	99	7	A
-7201	588971	1	2	7	3	Martin	Tabarka	M			35	operátor CNC stroje	Rymice	99	7	A
-7201	588971	1	2	7	4	Pavel	Zakopal	M	Ing.		37	elektro projektant	Rymice	99	7	A
-7201	588971	1	2	7	5	Roman	Plšek	M			42	OSVČ	Rymice	99	7	A
-7201	588971	1	2	7	6	Radka	Dráňová	F	Ing.		40	referentka nákupu a logistiky	Rymice	99	7	A
-7201	588971	1	2	7	7	Michaela	Odložilíková	F			21	studentka	Rymice	99	7	A
-7201	588971	1	2	7	8	Evžen	Horák	M			57	manažer správy majetku	Rymice	99	7	A
-7201	588971	1	2	7	9	Roman	Fuksa	M			39	OSVČ	Rymice	99	7	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7201	588971	1	1	1	1	Michael	Vita			57	manažer repas centra	Rymice	99	1	A	M
+7201	588971	1	2	7	1	Martin	Bartík	Ing.		50	starosta obce	Rymice	7	7	A	M
+7201	588971	1	1	1	2	Petr	Janečka	Ing.		45	IT manažer	Rymice	99	1	A	M
+7201	588971	1	2	7	2	Svatopluk	Procházka	Ing.		65	OSVČ	Rymice	99	7	A	M
+7201	588971	1	1	1	3	Karolína	Smýkalová			27	mateřská dovolená	Rymice	99	1	A	F
+7201	588971	1	2	7	3	Martin	Tabarka			35	operátor CNC stroje	Rymice	99	7	A	M
+7201	588971	1	1	1	4	Mojmír	Potůček			43	stolař	Rymice	99	1	A	M
+7201	588971	1	2	7	4	Pavel	Zakopal	Ing.		37	elektro projektant	Rymice	99	7	A	M
+7201	588971	1	1	1	5	Pavlína	Bílková			47	pracovnice Charity Holešov	Rymice	1	1	A	F
+7201	588971	1	2	7	5	Roman	Plšek			42	OSVČ	Rymice	99	7	A	M
+7201	588971	1	1	1	6	Zdeněk	Machovský			34	živnostník, předseda TJ Sokol Rymice	Rymice	99	1	A	M
+7201	588971	1	2	7	6	Radka	Dráňová	Ing.		40	referentka nákupu a logistiky	Rymice	99	7	A	F
+7201	588971	1	1	1	7	Alena	Jurášková			35	zdravotní sestra	Rymice	99	1	A	F
+7201	588971	1	2	7	7	Michaela	Odložilíková			21	studentka	Rymice	99	7	A	F
+7201	588971	1	1	1	8	Lenka	Odložilíková			37	operátorka výrobní linky Trachea a.s. na mateřské	Rymice	99	1	A	F
+7201	588971	1	2	7	8	Evžen	Horák			57	manažer správy majetku	Rymice	99	7	A	M
+7201	588971	1	1	1	9	František	Kukla	Mgr.		61	meteorolog	Rymice	1	1	A	M
+7201	588971	1	2	7	9	Roman	Fuksa			39	OSVČ	Rymice	99	7	A	M

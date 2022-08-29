@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5204	576107	1	1	1	1	Tomáš	Novotný		Mgr.	DiS.	43	obchodní zástupce	Bílý Újezd	1	1	A
-5204	576107	1	1	1	2	Zdeněk	Kováříček	M	Ing.		45	učitel	Bílý Újezd	99	1	A
-5204	576107	1	1	1	3	David	Michl	M			19	student	Roudné	99	1	A
-5204	576107	1	1	1	4	Roman	Frajvald	M			44	konstruktér	Bílý Újezd	99	1	A
-5204	576107	1	1	1	5	Adam	Červinka	M			19	student	Hroška	99	1	A
-5204	576107	1	1	1	6	Jiří	Jirsa	M			43	automechanik	Roudné	99	1	A
-5204	576107	1	1	1	7	Vladimíra	Bartáková	F			46	administrativní pracovnice	Hroška	99	1	A
-5204	576107	1	1	1	8	Ludmila	Novotná	F	Ing.		36	rodičovská dovolená	Bílý Újezd	99	1	A
-5204	576107	1	1	1	9	Martin	Lacina	M	Ing.		41	konstruktér	Bílý Újezd	99	1	A
-5204	576107	1	1	1	10	Veronika	Frajvaldová	F			35	ošetřovatelka	Bílý Újezd	99	1	A
-5204	576107	1	1	1	11	Lenka	Lacinová	F			38	účetní	Bílý Újezd	99	1	A
-5204	576107	1	2	902	1	Vít	Kovář	M			54	soukromě hospodařící rolník	Bílý Újezd	99	80	A
-5204	576107	1	2	902	2	Pavlína	Horáčková	F			41	učitelka MŠ	Hroška	99	80	A
-5204	576107	1	2	902	3	Václav	Špaček	M			63	automechanik	Masty	99	80	A
-5204	576107	1	2	902	4	Miloš	Červinka	M			46	soukromý podnikatel	Hroška	99	80	A
-5204	576107	1	2	902	5	Simona	Hejhalová	F	Mgr.		57	úřednice	Bílý Újezd	99	80	A
-5204	576107	1	2	902	6	Lukáš	Vencl	M			29	jednatel společnosti	Bílý Újezd	99	80	A
-5204	576107	1	2	902	7	Anna	Šafářová	F	Bc.		38	státní úředník	Roudné	721	80	A
-5204	576107	1	2	902	8	Kamil	Bartoš	M			25	karosář	Bílý Újezd	99	80	A
-5204	576107	1	3	901	1	Michal	Friček	M	Mgr.		40	referent kanceláře hejtmana KÚ KHK	Bílý Újezd	99	80	A
-5204	576107	1	3	901	2	Jindřich	Kubíček	M			46	vedoucí průmyslového provozu	Hroška	99	80	A
-5204	576107	1	3	901	3	Zdeněk	Arnošt	M			64	soukromý podnikatel	Bílý Újezd	99	80	A
-5204	576107	1	3	901	4	Josef	Hanuš	M			54	automechanik	Roudné	99	80	A
-5204	576107	1	3	901	5	Jiří	Jiroud	M			46	dispečer mezinárodní kamionové dopravy	Bílý Újezd	99	80	A
-5204	576107	1	3	901	6	Lenka	Hlavsová	F	Ing.		37	administrativní pracovnice	Bílý Újezd	99	80	A
-5204	576107	1	3	901	7	David	Adamský	M			44	mlynář	Masty	99	80	A
-5204	576107	1	3	901	8	Lukáš	Bejblík	M			35	soukromý podnikatel	Bílý Újezd	99	80	A
-5204	576107	1	3	901	9	Dagmar	Židová	F	Bc.		64	asistent pedagoga, seniorka	Bílý Újezd	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5204	576107	1	1	1	1	Tomáš	Novotný	Mgr.	DiS.	43	obchodní zástupce	Bílý Újezd	1	1	A	
+5204	576107	1	2	902	1	Vít	Kovář			54	soukromě hospodařící rolník	Bílý Újezd	99	80	A	M
+5204	576107	1	3	901	1	Michal	Friček	Mgr.		40	referent kanceláře hejtmana KÚ KHK	Bílý Újezd	99	80	A	M
+5204	576107	1	1	1	2	Zdeněk	Kováříček	Ing.		45	učitel	Bílý Újezd	99	1	A	M
+5204	576107	1	2	902	2	Pavlína	Horáčková			41	učitelka MŠ	Hroška	99	80	A	F
+5204	576107	1	3	901	2	Jindřich	Kubíček			46	vedoucí průmyslového provozu	Hroška	99	80	A	M
+5204	576107	1	1	1	3	David	Michl			19	student	Roudné	99	1	A	M
+5204	576107	1	2	902	3	Václav	Špaček			63	automechanik	Masty	99	80	A	M
+5204	576107	1	3	901	3	Zdeněk	Arnošt			64	soukromý podnikatel	Bílý Újezd	99	80	A	M
+5204	576107	1	1	1	4	Roman	Frajvald			44	konstruktér	Bílý Újezd	99	1	A	M
+5204	576107	1	2	902	4	Miloš	Červinka			46	soukromý podnikatel	Hroška	99	80	A	M
+5204	576107	1	3	901	4	Josef	Hanuš			54	automechanik	Roudné	99	80	A	M
+5204	576107	1	1	1	5	Adam	Červinka			19	student	Hroška	99	1	A	M
+5204	576107	1	2	902	5	Simona	Hejhalová	Mgr.		57	úřednice	Bílý Újezd	99	80	A	F
+5204	576107	1	3	901	5	Jiří	Jiroud			46	dispečer mezinárodní kamionové dopravy	Bílý Újezd	99	80	A	M
+5204	576107	1	1	1	6	Jiří	Jirsa			43	automechanik	Roudné	99	1	A	M
+5204	576107	1	2	902	6	Lukáš	Vencl			29	jednatel společnosti	Bílý Újezd	99	80	A	M
+5204	576107	1	3	901	6	Lenka	Hlavsová	Ing.		37	administrativní pracovnice	Bílý Újezd	99	80	A	F
+5204	576107	1	1	1	7	Vladimíra	Bartáková			46	administrativní pracovnice	Hroška	99	1	A	F
+5204	576107	1	2	902	7	Anna	Šafářová	Bc.		38	státní úředník	Roudné	721	80	A	F
+5204	576107	1	3	901	7	David	Adamský			44	mlynář	Masty	99	80	A	M
+5204	576107	1	1	1	8	Ludmila	Novotná	Ing.		36	rodičovská dovolená	Bílý Újezd	99	1	A	F
+5204	576107	1	2	902	8	Kamil	Bartoš			25	karosář	Bílý Újezd	99	80	A	M
+5204	576107	1	3	901	8	Lukáš	Bejblík			35	soukromý podnikatel	Bílý Újezd	99	80	A	M
+5204	576107	1	1	1	9	Martin	Lacina	Ing.		41	konstruktér	Bílý Újezd	99	1	A	M
+5204	576107	1	3	901	9	Dagmar	Židová	Bc.		64	asistent pedagoga, seniorka	Bílý Újezd	99	80	A	F
+5204	576107	1	1	1	10	Veronika	Frajvaldová			35	ošetřovatelka	Bílý Újezd	99	1	A	F
+5204	576107	1	1	1	11	Lenka	Lacinová			38	účetní	Bílý Újezd	99	1	A	F

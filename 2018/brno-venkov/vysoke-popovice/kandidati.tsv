@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	584177	1	1	768	1	Michal	Krška	M			38	kuchař specialista	Vysoké Popovice	768	768	A
-6203	584177	1	1	768	2	Petr	Adamčík	M	Ing.		41	velitel požární stanice	Vysoké Popovice	99	768	A
-6203	584177	1	1	768	3	Martin	Straka	M			31	hasič	Vysoké Popovice	99	768	A
-6203	584177	1	1	768	4	David	Horák	M			45	vedoucí zásobování	Vysoké Popovice	99	768	A
-6203	584177	1	1	768	5	Klára	Suchá	F	Ing. Bc.	DiS.	32	specialista konstruktér	Vysoké Popovice	99	768	A
-6203	584177	1	1	768	6	Zdeněk	Janecký	M			48	vedoucí spedice	Vysoké Popovice	99	768	A
-6203	584177	1	1	768	7	Radomír	Ingršt	M			36	technik	Vysoké Popovice	99	768	A
-6203	584177	1	1	768	8	Jakub	Posádka	M			20	student	Vysoké Popovice	99	768	A
-6203	584177	1	1	768	9	Jana	Janecká	F			39	administrativní pracovnice	Vysoké Popovice	99	768	A
-6203	584177	1	2	901	1	Jana	Sapíková	F			47	dělnice	Vysoké Popovice	99	80	A
-6203	584177	1	2	901	2	Pavel	Horký	M			52	OSVČ	Vysoké Popovice	99	80	A
-6203	584177	1	2	901	3	Pavel	Kudera	M			56	živnostník	Vysoké Popovice	99	80	A
-6203	584177	1	2	901	4	Vladimír	Frömmel	M			56	instalatér	Vysoké Popovice	99	80	A
-6203	584177	1	2	901	5	Olga	Nosková	F			44	investiční technik města	Vysoké Popovice	99	80	A
-6203	584177	1	2	901	6	Hana	Celá	F			54	státní zaměstnanec	Vysoké Popovice	99	80	A
-6203	584177	1	2	901	7	Ivana	Borková	F			42	zahradnice	Vysoké Popovice	99	80	A
-6203	584177	1	2	901	8	Jitka	Drápelová	F			46	event manager	Vysoké Popovice	99	80	A
-6203	584177	1	2	901	9	Ilona	Valentová	F	Ing.		45	manažer rozvoje města	Vysoké Popovice	99	80	A
-6203	584177	1	3	1	1	Petra	Hanáková	F	Ing.		41	ekonomka	Vysoké Popovice	99	1	A
-6203	584177	1	3	1	2	Josef	Růžička	M			54	technik	Vysoké Popovice	99	1	A
-6203	584177	1	3	1	3	Dalibor	Sapík	M			52	technik	Vysoké Popovice	99	1	A
-6203	584177	1	3	1	4	Jan	Fiala	M			39	elektrikář	Vysoké Popovice	99	1	A
-6203	584177	1	3	1	5	Alena	Blatanová	F	Mgr.		34	učitelka SŠ	Vysoké Popovice	99	1	A
-6203	584177	1	3	1	6	Marcela	Hanáková	F			62	ředitelka MŠ	Vysoké Popovice	1	1	A
-6203	584177	1	3	1	7	Jiří	Pokorný	M			48	stolař	Vysoké Popovice	1	1	A
-6203	584177	1	3	1	8	Tomáš	Kopřiva	M			54	jednatel společnosti	Vysoké Popovice	99	1	A
-6203	584177	1	3	1	9	Pavel	Baroš	M	Ing.		44	vývojový inženýr	Vysoké Popovice	99	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	584177	1	1	768	1	Michal	Krška			38	kuchař specialista	Vysoké Popovice	768	768	A	M
+6203	584177	1	2	901	1	Jana	Sapíková			47	dělnice	Vysoké Popovice	99	80	A	F
+6203	584177	1	3	1	1	Petra	Hanáková	Ing.		41	ekonomka	Vysoké Popovice	99	1	A	F
+6203	584177	1	1	768	2	Petr	Adamčík	Ing.		41	velitel požární stanice	Vysoké Popovice	99	768	A	M
+6203	584177	1	2	901	2	Pavel	Horký			52	OSVČ	Vysoké Popovice	99	80	A	M
+6203	584177	1	3	1	2	Josef	Růžička			54	technik	Vysoké Popovice	99	1	A	M
+6203	584177	1	1	768	3	Martin	Straka			31	hasič	Vysoké Popovice	99	768	A	M
+6203	584177	1	2	901	3	Pavel	Kudera			56	živnostník	Vysoké Popovice	99	80	A	M
+6203	584177	1	3	1	3	Dalibor	Sapík			52	technik	Vysoké Popovice	99	1	A	M
+6203	584177	1	1	768	4	David	Horák			45	vedoucí zásobování	Vysoké Popovice	99	768	A	M
+6203	584177	1	2	901	4	Vladimír	Frömmel			56	instalatér	Vysoké Popovice	99	80	A	M
+6203	584177	1	3	1	4	Jan	Fiala			39	elektrikář	Vysoké Popovice	99	1	A	M
+6203	584177	1	1	768	5	Klára	Suchá	Ing. Bc.	DiS.	32	specialista konstruktér	Vysoké Popovice	99	768	A	F
+6203	584177	1	2	901	5	Olga	Nosková			44	investiční technik města	Vysoké Popovice	99	80	A	F
+6203	584177	1	3	1	5	Alena	Blatanová	Mgr.		34	učitelka SŠ	Vysoké Popovice	99	1	A	F
+6203	584177	1	1	768	6	Zdeněk	Janecký			48	vedoucí spedice	Vysoké Popovice	99	768	A	M
+6203	584177	1	2	901	6	Hana	Celá			54	státní zaměstnanec	Vysoké Popovice	99	80	A	F
+6203	584177	1	3	1	6	Marcela	Hanáková			62	ředitelka MŠ	Vysoké Popovice	1	1	A	F
+6203	584177	1	1	768	7	Radomír	Ingršt			36	technik	Vysoké Popovice	99	768	A	M
+6203	584177	1	2	901	7	Ivana	Borková			42	zahradnice	Vysoké Popovice	99	80	A	F
+6203	584177	1	3	1	7	Jiří	Pokorný			48	stolař	Vysoké Popovice	1	1	A	M
+6203	584177	1	1	768	8	Jakub	Posádka			20	student	Vysoké Popovice	99	768	A	M
+6203	584177	1	2	901	8	Jitka	Drápelová			46	event manager	Vysoké Popovice	99	80	A	F
+6203	584177	1	3	1	8	Tomáš	Kopřiva			54	jednatel společnosti	Vysoké Popovice	99	1	A	M
+6203	584177	1	1	768	9	Jana	Janecká			39	administrativní pracovnice	Vysoké Popovice	99	768	A	F
+6203	584177	1	2	901	9	Ilona	Valentová	Ing.		45	manažer rozvoje města	Vysoké Popovice	99	80	A	F
+6203	584177	1	3	1	9	Pavel	Baroš	Ing.		44	vývojový inženýr	Vysoké Popovice	99	1	A	M

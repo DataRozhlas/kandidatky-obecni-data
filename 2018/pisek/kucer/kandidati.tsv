@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	549541	1	1	901	1	Václav	Šmíd	M			43	OSVČ	Kučeř	99	80	A
-3104	549541	1	1	901	2	Dagmar	Němcová	F			58	OSVČ	Kučeř	99	80	A
-3104	549541	1	1	901	3	Jiří	Krejčí	M			40	elektrikář	Kučeř	99	80	A
-3104	549541	1	1	901	4	Miloslav	Prášek	M			56	dělník	Kučeř	99	80	A
-3104	549541	1	1	901	5	Jiří	Němec	M			63	důchodce	Kučeř	99	80	A
-3104	549541	1	1	901	6	Zdeněk	Řežábek	M			42	hasič	Kučeř	99	80	A
-3104	549541	1	2	902	1	Bohuslav	Bartůněk	M			46	OSVČ	Kučeř	99	80	A
-3104	549541	1	2	902	2	Simona	Šimáková	F	Ing.		38	agronom	Kučeř	99	80	A
-3104	549541	1	2	902	3	Martin	Šmíd	M			44	tesař	Kučeř	99	80	A
-3104	549541	1	2	902	4	Lukáš	Šimák	M			38	OSVČ	Kučeř	99	80	A
-3104	549541	1	2	902	5	Petr	Uhlíř	M			43	obráběč kovů	Kučeř	99	80	A
-3104	549541	1	2	902	6	Marcel	Kovář	M			43	OSVČ	Kučeř	99	80	A
-3104	549541	1	2	902	7	Alena	Vítková	F			38	pracovník odbytu	Kučeř	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	549541	1	1	901	1	Václav	Šmíd			43	OSVČ	Kučeř	99	80	A	M
+3104	549541	1	2	902	1	Bohuslav	Bartůněk			46	OSVČ	Kučeř	99	80	A	M
+3104	549541	1	1	901	2	Dagmar	Němcová			58	OSVČ	Kučeř	99	80	A	F
+3104	549541	1	2	902	2	Simona	Šimáková	Ing.		38	agronom	Kučeř	99	80	A	F
+3104	549541	1	1	901	3	Jiří	Krejčí			40	elektrikář	Kučeř	99	80	A	M
+3104	549541	1	2	902	3	Martin	Šmíd			44	tesař	Kučeř	99	80	A	M
+3104	549541	1	1	901	4	Miloslav	Prášek			56	dělník	Kučeř	99	80	A	M
+3104	549541	1	2	902	4	Lukáš	Šimák			38	OSVČ	Kučeř	99	80	A	M
+3104	549541	1	1	901	5	Jiří	Němec			63	důchodce	Kučeř	99	80	A	M
+3104	549541	1	2	902	5	Petr	Uhlíř			43	obráběč kovů	Kučeř	99	80	A	M
+3104	549541	1	1	901	6	Zdeněk	Řežábek			42	hasič	Kučeř	99	80	A	M
+3104	549541	1	2	902	6	Marcel	Kovář			43	OSVČ	Kučeř	99	80	A	M
+3104	549541	1	2	902	7	Alena	Vítková			38	pracovník odbytu	Kučeř	99	80	A	F

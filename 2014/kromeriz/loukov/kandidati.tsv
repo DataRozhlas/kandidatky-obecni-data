@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7201	588709	1	1	166	1	Antonín	Zlámal	M	Ing.		58	ekonom	Libosváry	99	166	0
-7201	588709	1	1	166	2	Ivo	Šenovský	M			49	strážník městské policie	Loukov	99	166	0
-7201	588709	1	1	166	3	Martin	Rosecký	M			41	čalouník	Loukov	99	166	0
-7201	588709	1	1	166	4	Jana	Olivíková	F			29	manažerka	Loukov	99	166	0
-7201	588709	1	1	166	5	Jarmila	Mikulíková	F	Mgr.		55	ředitelka ZŠ a MŠ	Loukov	99	166	0
-7201	588709	1	1	166	6	Jaroslav	Bělík	M			39	strojník traťových strojů	Loukov	99	166	0
-7201	588709	1	1	166	7	Milan	Novák	M			41	lesník	Loukov	99	166	0
-7201	588709	1	1	166	8	Jiří	Pecháček	M			44	elektrikář	Libosváry	99	166	0
-7201	588709	1	1	166	9	Ivan	Hlavinka	M	Ing.		43	stavební inženýr	Loukov	99	166	0
-7201	588709	1	1	166	10	Marek	Malíř	M			37	elektromechanik a technik TZB	Libosváry	99	166	0
-7201	588709	1	1	166	11	Marek	Šíp	M			42	prodavač	Libosváry	99	166	0
-7201	588709	1	2	901	1	Jaromír	Zábranský	M	Ing.		64	důchodce	Loukov	99	80	0
-7201	588709	1	2	901	2	Richard	Szotkowski	M	Ing.		51	technik	Loukov	99	80	0
-7201	588709	1	2	901	3	Lenka	Zbranková	F		DiS.	25	referent MěÚ	Loukov	99	80	0
-7201	588709	1	2	901	4	Tomáš	Najman	M	Bc.		22	student VŠ	Loukov	99	80	0
-7201	588709	1	2	901	5	Peter	Chaňo	M			45	státní zaměstnanec	Loukov	99	80	0
-7201	588709	1	2	901	6	Miroslav	Novotný	M			30	IT technik	Libosváry	99	80	0
-7201	588709	1	2	901	7	Lucie	Švehlová	F	Bc.		26	student VŠ	Loukov	99	80	0
-7201	588709	1	2	901	8	Pavel	Zbrož	M			30	nástrojař	Loukov	99	80	0
-7201	588709	1	2	901	9	Miroslava	Koutná	F			57	OSVČ	Loukov	99	80	0
-7201	588709	1	2	901	10	Josef	Koutný	M			33	OSVČ	Loukov	99	80	0
-7201	588709	1	2	901	11	Marie	Florecová	F			61	důchodce	Loukov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7201	588709	1	1	166	1	Antonín	Zlámal	Ing.		58	ekonom	Libosváry	99	166	0	M
+7201	588709	1	2	901	1	Jaromír	Zábranský	Ing.		64	důchodce	Loukov	99	80	0	M
+7201	588709	1	1	166	2	Ivo	Šenovský			49	strážník městské policie	Loukov	99	166	0	M
+7201	588709	1	2	901	2	Richard	Szotkowski	Ing.		51	technik	Loukov	99	80	0	M
+7201	588709	1	1	166	3	Martin	Rosecký			41	čalouník	Loukov	99	166	0	M
+7201	588709	1	2	901	3	Lenka	Zbranková		DiS.	25	referent MěÚ	Loukov	99	80	0	F
+7201	588709	1	1	166	4	Jana	Olivíková			29	manažerka	Loukov	99	166	0	F
+7201	588709	1	2	901	4	Tomáš	Najman	Bc.		22	student VŠ	Loukov	99	80	0	M
+7201	588709	1	1	166	5	Jarmila	Mikulíková	Mgr.		55	ředitelka ZŠ a MŠ	Loukov	99	166	0	F
+7201	588709	1	2	901	5	Peter	Chaňo			45	státní zaměstnanec	Loukov	99	80	0	M
+7201	588709	1	1	166	6	Jaroslav	Bělík			39	strojník traťových strojů	Loukov	99	166	0	M
+7201	588709	1	2	901	6	Miroslav	Novotný			30	IT technik	Libosváry	99	80	0	M
+7201	588709	1	1	166	7	Milan	Novák			41	lesník	Loukov	99	166	0	M
+7201	588709	1	2	901	7	Lucie	Švehlová	Bc.		26	student VŠ	Loukov	99	80	0	F
+7201	588709	1	1	166	8	Jiří	Pecháček			44	elektrikář	Libosváry	99	166	0	M
+7201	588709	1	2	901	8	Pavel	Zbrož			30	nástrojař	Loukov	99	80	0	M
+7201	588709	1	1	166	9	Ivan	Hlavinka	Ing.		43	stavební inženýr	Loukov	99	166	0	M
+7201	588709	1	2	901	9	Miroslava	Koutná			57	OSVČ	Loukov	99	80	0	F
+7201	588709	1	1	166	10	Marek	Malíř			37	elektromechanik a technik TZB	Libosváry	99	166	0	M
+7201	588709	1	2	901	10	Josef	Koutný			33	OSVČ	Loukov	99	80	0	M
+7201	588709	1	1	166	11	Marek	Šíp			42	prodavač	Libosváry	99	166	0	M
+7201	588709	1	2	901	11	Marie	Florecová			61	důchodce	Loukov	99	80	0	F

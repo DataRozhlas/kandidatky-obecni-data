@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579505	1	1	902	1	Lubomír	Mocl	M			59	podnikatel	Horní Malá Úpa	99	80	0
-5205	579505	1	1	902	2	Alžběta	Vrůblová	F			33	podnikatelka	Dolní Malá Úpa	99	80	0
-5205	579505	1	1	902	3	Petr	Verner	M	Ing.		35	ředitel hotelu, podnikatel	Dolní Malá Úpa	99	80	0
-5205	579505	1	1	902	4	Jiří	Winter	M			47	podnikatel	Dolní Malá Úpa	99	80	0
-5205	579505	1	1	902	5	David	Kocfelda	M			36	zemědělec	Horní Malá Úpa	99	80	0
-5205	579505	1	1	902	6	Jiří	Vandrovec	M			65	důchodce	Horní Malá Úpa	99	80	0
-5205	579505	1	1	902	7	Jan	Mocl	M			26	údržbář	Horní Malá Úpa	99	80	0
-5205	579505	1	1	902	8	Adéla	Kuldová	F			24	provozní restaurace	Dolní Malá Úpa	99	80	0
-5205	579505	1	1	902	9	Simona	Pailová	F			26	manažerka provozu	Dolní Malá Úpa	99	80	0
-5205	579505	1	2	901	1	Karel	Engliš	M			46	konzultant	Horní Malá Úpa	99	80	0
-5205	579505	1	2	901	2	Pavel	Plíva	M			37	podnikatel	Dolní Malá Úpa	99	80	0
-5205	579505	1	2	901	3	Martin	Kulík	M			46	podnikatel	Dolní Malá Úpa	99	80	0
-5205	579505	1	2	901	4	Josef	Malý	M			77	podnikatel	Dolní Malá Úpa	99	80	0
-5205	579505	1	2	901	5	Hedvika	Čepová	F			48	podnikatel	Horní Malá Úpa	99	80	0
-5205	579505	1	2	901	6	Zuzana	Semerádová Bryndová	F			42	podnikatel	Dolní Malá Úpa	99	80	0
-5205	579505	1	2	901	7	Petr	Kopecký	M			45	podnikatel	Horní Malá Úpa	99	80	0
-5205	579505	1	2	901	8	Nikola	Schimmer	F			24	podnikatel	Horní Malá Úpa	99	80	0
-5205	579505	1	2	901	9	Eva	Havelková	F			43	zdravotní sestra	Dolní Malá Úpa	99	80	0
-5205	579505	1	3	903	1	Martin	Prokop	M			41	lesník	Dolní Malá Úpa	99	80	0
-5205	579505	1	3	903	2	Vratislav	Grešl	M			64	podnikatel	Horní Malá Úpa	99	80	0
-5205	579505	1	3	903	3	Jaroslav	Linhart	M			54	podnikatel	Horní Malá Úpa	99	80	0
-5205	579505	1	3	903	4	Tomáš	Valer	M			38	strážce KRNAP	Dolní Malá Úpa	99	80	0
-5205	579505	1	3	903	5	Pavel	Urban	M			47	lesník	Horní Malá Úpa	99	80	0
-5205	579505	1	3	903	6	Jaroslav	Jirotka	M			37	podnikatel	Horní Malá Úpa	99	80	0
-5205	579505	1	3	903	7	Stanislav	Zmítko	M			49	zaměstnanec	Horní Malá Úpa	99	80	0
-5205	579505	1	3	903	8	Jarmila	Prokopová	F			66	důchodce	Horní Malá Úpa	99	80	0
-5205	579505	1	3	903	9	František	Jeněk	M			69	důchodce	Horní Malá Úpa	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579505	1	1	902	1	Lubomír	Mocl			59	podnikatel	Horní Malá Úpa	99	80	0	M
+5205	579505	1	2	901	1	Karel	Engliš			46	konzultant	Horní Malá Úpa	99	80	0	M
+5205	579505	1	3	903	1	Martin	Prokop			41	lesník	Dolní Malá Úpa	99	80	0	M
+5205	579505	1	1	902	2	Alžběta	Vrůblová			33	podnikatelka	Dolní Malá Úpa	99	80	0	F
+5205	579505	1	2	901	2	Pavel	Plíva			37	podnikatel	Dolní Malá Úpa	99	80	0	M
+5205	579505	1	3	903	2	Vratislav	Grešl			64	podnikatel	Horní Malá Úpa	99	80	0	M
+5205	579505	1	1	902	3	Petr	Verner	Ing.		35	ředitel hotelu, podnikatel	Dolní Malá Úpa	99	80	0	M
+5205	579505	1	2	901	3	Martin	Kulík			46	podnikatel	Dolní Malá Úpa	99	80	0	M
+5205	579505	1	3	903	3	Jaroslav	Linhart			54	podnikatel	Horní Malá Úpa	99	80	0	M
+5205	579505	1	1	902	4	Jiří	Winter			47	podnikatel	Dolní Malá Úpa	99	80	0	M
+5205	579505	1	2	901	4	Josef	Malý			77	podnikatel	Dolní Malá Úpa	99	80	0	M
+5205	579505	1	3	903	4	Tomáš	Valer			38	strážce KRNAP	Dolní Malá Úpa	99	80	0	M
+5205	579505	1	1	902	5	David	Kocfelda			36	zemědělec	Horní Malá Úpa	99	80	0	M
+5205	579505	1	2	901	5	Hedvika	Čepová			48	podnikatel	Horní Malá Úpa	99	80	0	F
+5205	579505	1	3	903	5	Pavel	Urban			47	lesník	Horní Malá Úpa	99	80	0	M
+5205	579505	1	1	902	6	Jiří	Vandrovec			65	důchodce	Horní Malá Úpa	99	80	0	M
+5205	579505	1	2	901	6	Zuzana	Semerádová Bryndová			42	podnikatel	Dolní Malá Úpa	99	80	0	F
+5205	579505	1	3	903	6	Jaroslav	Jirotka			37	podnikatel	Horní Malá Úpa	99	80	0	M
+5205	579505	1	1	902	7	Jan	Mocl			26	údržbář	Horní Malá Úpa	99	80	0	M
+5205	579505	1	2	901	7	Petr	Kopecký			45	podnikatel	Horní Malá Úpa	99	80	0	M
+5205	579505	1	3	903	7	Stanislav	Zmítko			49	zaměstnanec	Horní Malá Úpa	99	80	0	M
+5205	579505	1	1	902	8	Adéla	Kuldová			24	provozní restaurace	Dolní Malá Úpa	99	80	0	F
+5205	579505	1	2	901	8	Nikola	Schimmer			24	podnikatel	Horní Malá Úpa	99	80	0	F
+5205	579505	1	3	903	8	Jarmila	Prokopová			66	důchodce	Horní Malá Úpa	99	80	0	F
+5205	579505	1	1	902	9	Simona	Pailová			26	manažerka provozu	Dolní Malá Úpa	99	80	0	F
+5205	579505	1	2	901	9	Eva	Havelková			43	zdravotní sestra	Dolní Malá Úpa	99	80	0	F
+5205	579505	1	3	903	9	František	Jeněk			69	důchodce	Horní Malá Úpa	99	80	0	M

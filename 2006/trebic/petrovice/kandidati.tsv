@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6104	591360	1	1	47	1	Zdeněk	Jeřábek	M	Ing.		38	projektant	Petrovice	99	47	0
-6104	591360	1	1	47	2	Josef	Mašek	M			71	důchodce	Petrovice	47	47	0
-6104	591360	1	1	47	3	Jana	Solařová	F			33	dělnice	Petrovice	99	47	0
-6104	591360	1	1	47	4	Jan	Kuthan	M	Ing.		43	obchodní zástupce	Petrovice	99	47	0
-6104	591360	1	1	47	5	Luboš	Dokulil	M			59	strojní zámečník	Petrovice	99	47	0
-6104	591360	1	1	47	6	František	Fiala	M			59	strojní zámečník	Petrovice	99	47	0
-6104	591360	1	1	47	7	Petr	Večeřa	M			37	strojník	Petrovice	99	47	0
-6104	591360	1	2	901	1	Petr	Padrnos	M			33	technik	Petrovice	99	80	0
-6104	591360	1	2	901	2	Pavel	Brabec	M			33	podnikatel	Petrovice	99	80	0
-6104	591360	1	2	901	3	Petra	Vyskočilová	F			32	lékárenská laborantka	Petrovice	99	80	0
-6104	591360	1	2	901	4	Jiří	Března	M			40	řidič	Petrovice	99	80	0
-6104	591360	1	2	901	5	Antonín	Krejčí	M			44	obchodní zástupce	Petrovice	99	80	0
-6104	591360	1	2	901	6	Pavlína	Kovářová	F			33	speciální pedagožka	Petrovice	99	80	0
-6104	591360	1	2	901	7	Jaroslav	Noháček	M			29	podnikatel	Petrovice	99	80	0
-6104	591360	1	2	901	8	Eva	Šoustalová	F			52	dělnice	Petrovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6104	591360	1	1	47	1	Zdeněk	Jeřábek	Ing.		38	projektant	Petrovice	99	47	0	M
+6104	591360	1	2	901	1	Petr	Padrnos			33	technik	Petrovice	99	80	0	M
+6104	591360	1	1	47	2	Josef	Mašek			71	důchodce	Petrovice	47	47	0	M
+6104	591360	1	2	901	2	Pavel	Brabec			33	podnikatel	Petrovice	99	80	0	M
+6104	591360	1	1	47	3	Jana	Solařová			33	dělnice	Petrovice	99	47	0	F
+6104	591360	1	2	901	3	Petra	Vyskočilová			32	lékárenská laborantka	Petrovice	99	80	0	F
+6104	591360	1	1	47	4	Jan	Kuthan	Ing.		43	obchodní zástupce	Petrovice	99	47	0	M
+6104	591360	1	2	901	4	Jiří	Března			40	řidič	Petrovice	99	80	0	M
+6104	591360	1	1	47	5	Luboš	Dokulil			59	strojní zámečník	Petrovice	99	47	0	M
+6104	591360	1	2	901	5	Antonín	Krejčí			44	obchodní zástupce	Petrovice	99	80	0	M
+6104	591360	1	1	47	6	František	Fiala			59	strojní zámečník	Petrovice	99	47	0	M
+6104	591360	1	2	901	6	Pavlína	Kovářová			33	speciální pedagožka	Petrovice	99	80	0	F
+6104	591360	1	1	47	7	Petr	Večeřa			37	strojník	Petrovice	99	47	0	M
+6104	591360	1	2	901	7	Jaroslav	Noháček			29	podnikatel	Petrovice	99	80	0	M
+6104	591360	1	2	901	8	Eva	Šoustalová			52	dělnice	Petrovice	99	80	0	F

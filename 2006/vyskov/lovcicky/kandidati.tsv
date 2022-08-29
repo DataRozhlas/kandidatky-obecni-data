@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	593265	1	1	1	1	Pavel	Doležal	M	Ing.		33	technickohospodářský manažer	Lovčičky	1	1	0
-6206	593265	1	1	1	2	David	Lacík	M			30	soukromý podnikatel	Lovčičky	99	1	0
-6206	593265	1	1	1	3	Hana	Burianová	F			51	technickohospodářský pracovník	Lovčičky	99	1	0
-6206	593265	1	1	1	4	Petr	Topolář	M			36	soukromý podnikatel	Lovčičky	99	1	0
-6206	593265	1	1	1	5	Jana	Hudcová	F			48	vychovatelka	Lovčičky	1	1	0
-6206	593265	1	1	1	6	Květoslav	Brtník	M			46	soukromý zemědělec	Lovčičky	1	1	0
-6206	593265	1	1	1	7	Vladimíra	Navrátilová	F			41	technickohospodářský pracovník	Lovčičky	1	1	0
-6206	593265	1	1	1	8	Věra	Žbánková	F			52	soukromý zemědělec	Lovčičky	1	1	0
-6206	593265	1	1	1	9	Josefa	Doležalová	F			57	technickohospodářský pracovník	Lovčičky	1	1	0
-6206	593265	1	2	901	1	Miroslav	Šmíd	M			50	technik	Lovčičky	99	80	0
-6206	593265	1	2	901	2	Jindřich	Svoboda	M	Ing.		45	lesní inženýr	Lovčičky	99	80	0
-6206	593265	1	2	901	3	Lubomír	Němec	M			40	řidič	Lovčičky	99	80	0
-6206	593265	1	2	901	4	Miroslav	Borovička	M			41	technik	Lovčičky	99	80	0
-6206	593265	1	2	901	5	Dana	Turková	F			39	učitelka	Lovčičky	99	80	0
-6206	593265	1	2	901	6	Jaroslav	Šimpera	M			43	elektromechanik	Lovčičky	99	80	0
-6206	593265	1	2	901	7	Zdenka	Huňková	F			57	důchodkyně	Lovčičky	99	80	0
-6206	593265	1	2	901	8	Ivana	Kovaříková	F			52	prodavačka	Lovčičky	99	80	0
-6206	593265	1	2	901	9	Jiří	Pivoda	M			48	dělník	Lovčičky	99	80	0
-6206	593265	1	3	902	1	Vlastimil	Pitron	M			53	soukromý podnikatel	Lovčičky	99	80	0
-6206	593265	1	3	902	2	Vlastimil	Svíba	M			39	soukromý podnikatel	Lovčičky	99	80	0
-6206	593265	1	3	902	3	Luděk	Matyáš	M			21	soukromý podnikatel	Lovčičky	99	80	0
-6206	593265	1	3	902	4	Radek	Tomašík	M			42	soukromý podnikatel	Lovčičky	99	80	0
-6206	593265	1	3	902	5	Josef	Pavlovec	M			55	řidič	Lovčičky	99	80	0
-6206	593265	1	3	902	6	Jaroslav	Voráč	M			50	zedník	Lovčičky	99	80	0
-6206	593265	1	3	902	7	Stanislav	Marek	M			25	zedník	Lovčičky	99	80	0
-6206	593265	1	3	902	8	Jiří	Šťastný	M			49	soukromý podnikatel	Lovčičky	99	80	0
-6206	593265	1	3	902	9	Petr	Král	M			30	údržbář	Lovčičky	99	80	0
-6206	593265	1	4	47	1	Jaroslava	Hrozková	F	Ing.		52	starostka obce	Lovčičky	47	47	0
-6206	593265	1	4	47	2	František	Šebesta	M			62	důchodce	Lovčičky	47	47	0
-6206	593265	1	4	47	3	Pavel	Boček	M			48	obchodní zástupce	Lovčičky	99	47	0
-6206	593265	1	4	47	4	Oldřiška	Pouchlá	F			43	prodavačka	Lovčičky	99	47	0
-6206	593265	1	4	47	5	Jarmila	Kleinová	F			57	informační pracovník	Lovčičky	47	47	0
-6206	593265	1	4	47	6	Štěpánka	Borovičková	F			66	důchodkyně	Lovčičky	47	47	0
-6206	593265	1	4	47	7	Josef	Klein	M			57	technik	Lovčičky	99	47	0
-6206	593265	1	4	47	8	Zdeněk	Gruml	M			75	důchodce	Lovčičky	47	47	0
-6206	593265	1	4	47	9	Božena	Nádeníčková	F			52	podnikatelka	Lovčičky	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	593265	1	1	1	1	Pavel	Doležal	Ing.		33	technickohospodářský manažer	Lovčičky	1	1	0	M
+6206	593265	1	2	901	1	Miroslav	Šmíd			50	technik	Lovčičky	99	80	0	M
+6206	593265	1	3	902	1	Vlastimil	Pitron			53	soukromý podnikatel	Lovčičky	99	80	0	M
+6206	593265	1	4	47	1	Jaroslava	Hrozková	Ing.		52	starostka obce	Lovčičky	47	47	0	F
+6206	593265	1	1	1	2	David	Lacík			30	soukromý podnikatel	Lovčičky	99	1	0	M
+6206	593265	1	2	901	2	Jindřich	Svoboda	Ing.		45	lesní inženýr	Lovčičky	99	80	0	M
+6206	593265	1	3	902	2	Vlastimil	Svíba			39	soukromý podnikatel	Lovčičky	99	80	0	M
+6206	593265	1	4	47	2	František	Šebesta			62	důchodce	Lovčičky	47	47	0	M
+6206	593265	1	1	1	3	Hana	Burianová			51	technickohospodářský pracovník	Lovčičky	99	1	0	F
+6206	593265	1	2	901	3	Lubomír	Němec			40	řidič	Lovčičky	99	80	0	M
+6206	593265	1	3	902	3	Luděk	Matyáš			21	soukromý podnikatel	Lovčičky	99	80	0	M
+6206	593265	1	4	47	3	Pavel	Boček			48	obchodní zástupce	Lovčičky	99	47	0	M
+6206	593265	1	1	1	4	Petr	Topolář			36	soukromý podnikatel	Lovčičky	99	1	0	M
+6206	593265	1	2	901	4	Miroslav	Borovička			41	technik	Lovčičky	99	80	0	M
+6206	593265	1	3	902	4	Radek	Tomašík			42	soukromý podnikatel	Lovčičky	99	80	0	M
+6206	593265	1	4	47	4	Oldřiška	Pouchlá			43	prodavačka	Lovčičky	99	47	0	F
+6206	593265	1	1	1	5	Jana	Hudcová			48	vychovatelka	Lovčičky	1	1	0	F
+6206	593265	1	2	901	5	Dana	Turková			39	učitelka	Lovčičky	99	80	0	F
+6206	593265	1	3	902	5	Josef	Pavlovec			55	řidič	Lovčičky	99	80	0	M
+6206	593265	1	4	47	5	Jarmila	Kleinová			57	informační pracovník	Lovčičky	47	47	0	F
+6206	593265	1	1	1	6	Květoslav	Brtník			46	soukromý zemědělec	Lovčičky	1	1	0	M
+6206	593265	1	2	901	6	Jaroslav	Šimpera			43	elektromechanik	Lovčičky	99	80	0	M
+6206	593265	1	3	902	6	Jaroslav	Voráč			50	zedník	Lovčičky	99	80	0	M
+6206	593265	1	4	47	6	Štěpánka	Borovičková			66	důchodkyně	Lovčičky	47	47	0	F
+6206	593265	1	1	1	7	Vladimíra	Navrátilová			41	technickohospodářský pracovník	Lovčičky	1	1	0	F
+6206	593265	1	2	901	7	Zdenka	Huňková			57	důchodkyně	Lovčičky	99	80	0	F
+6206	593265	1	3	902	7	Stanislav	Marek			25	zedník	Lovčičky	99	80	0	M
+6206	593265	1	4	47	7	Josef	Klein			57	technik	Lovčičky	99	47	0	M
+6206	593265	1	1	1	8	Věra	Žbánková			52	soukromý zemědělec	Lovčičky	1	1	0	F
+6206	593265	1	2	901	8	Ivana	Kovaříková			52	prodavačka	Lovčičky	99	80	0	F
+6206	593265	1	3	902	8	Jiří	Šťastný			49	soukromý podnikatel	Lovčičky	99	80	0	M
+6206	593265	1	4	47	8	Zdeněk	Gruml			75	důchodce	Lovčičky	47	47	0	M
+6206	593265	1	1	1	9	Josefa	Doležalová			57	technickohospodářský pracovník	Lovčičky	1	1	0	F
+6206	593265	1	2	901	9	Jiří	Pivoda			48	dělník	Lovčičky	99	80	0	M
+6206	593265	1	3	902	9	Petr	Král			30	údržbář	Lovčičky	99	80	0	M
+6206	593265	1	4	47	9	Božena	Nádeníčková			52	podnikatelka	Lovčičky	99	47	0	F

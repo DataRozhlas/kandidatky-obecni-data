@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5202	572705	1	1	901	1	Diana	Málková	F	Mgr.		41	učitelka	Boháňka	99	80	0
-5202	572705	1	1	901	2	Josef	Kleandr	M			43	řidič	Boháňka	99	80	0
-5202	572705	1	2	903	1	Zuzana	Jezberová	F			41	ekonom	Chloumek	99	80	0
-5202	572705	1	2	903	2	Pavel	Dufek	M			53	technolog	Chloumek	99	80	0
-5202	572705	1	3	904	1	Milan	Heligr	M			35	soukromý zemědělec	Skála	99	80	0
-5202	572705	1	3	904	2	Miloslav	Korbel	M			38	zaměst. min. vnitra - HZS ČR	Boháňka	99	80	0
-5202	572705	1	3	904	3	Lenka	Vondrová	F			35	mateřská dovolená	Skála	99	80	0
-5202	572705	1	3	904	4	Vlastimil	Teplý	M	Ing.		58	pracovník bezpeč. agentury	Skála	99	80	0
-5202	572705	1	3	904	5	Petra	Fofová	F		DiS.	23	asistentka konstrukce výpočtů	Skála	99	80	0
-5202	572705	1	3	904	6	Tomáš	Heligr	M			33	soukromý zemědělec	Skála	99	80	0
-5202	572705	1	3	904	7	Stanislav	Oubram	M			47	operátor dispečinku	Skála	99	80	0
-5202	572705	1	3	904	8	Luděk	Vlášek	M			37	údržbář - mechanik	Skála	99	80	0
-5202	572705	1	3	904	9	Jaroslav	Dospěva	M			58	dělník	Skála	99	80	0
-5202	572705	1	4	902	1	Pavel	Vlášek	M			47	podnikatel	Votuz	99	80	0
-5202	572705	1	4	902	2	Jan	Tóth	M			36	řidič	Votuz	99	80	0
-5202	572705	1	4	902	3	Petr	Žídek	M			42	zámečník	Votuz	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5202	572705	1	1	901	1	Diana	Málková	Mgr.		41	učitelka	Boháňka	99	80	0	F
+5202	572705	1	2	903	1	Zuzana	Jezberová			41	ekonom	Chloumek	99	80	0	F
+5202	572705	1	3	904	1	Milan	Heligr			35	soukromý zemědělec	Skála	99	80	0	M
+5202	572705	1	4	902	1	Pavel	Vlášek			47	podnikatel	Votuz	99	80	0	M
+5202	572705	1	1	901	2	Josef	Kleandr			43	řidič	Boháňka	99	80	0	M
+5202	572705	1	2	903	2	Pavel	Dufek			53	technolog	Chloumek	99	80	0	M
+5202	572705	1	3	904	2	Miloslav	Korbel			38	zaměst. min. vnitra - HZS ČR	Boháňka	99	80	0	M
+5202	572705	1	4	902	2	Jan	Tóth			36	řidič	Votuz	99	80	0	M
+5202	572705	1	3	904	3	Lenka	Vondrová			35	mateřská dovolená	Skála	99	80	0	F
+5202	572705	1	4	902	3	Petr	Žídek			42	zámečník	Votuz	99	80	0	M
+5202	572705	1	3	904	4	Vlastimil	Teplý	Ing.		58	pracovník bezpeč. agentury	Skála	99	80	0	M
+5202	572705	1	3	904	5	Petra	Fofová		DiS.	23	asistentka konstrukce výpočtů	Skála	99	80	0	F
+5202	572705	1	3	904	6	Tomáš	Heligr			33	soukromý zemědělec	Skála	99	80	0	M
+5202	572705	1	3	904	7	Stanislav	Oubram			47	operátor dispečinku	Skála	99	80	0	M
+5202	572705	1	3	904	8	Luděk	Vlášek			37	údržbář - mechanik	Skála	99	80	0	M
+5202	572705	1	3	904	9	Jaroslav	Dospěva			58	dělník	Skála	99	80	0	M

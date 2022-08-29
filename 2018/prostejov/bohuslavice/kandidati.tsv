@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589292	1	1	901	1	Roman	Jedlička	M	Mgr. Ing.		46	starosta obce	Bohuslavice	99	80	A
-7103	589292	1	1	901	2	Zdeněk	Spurný	M			41	koordinátor skladu	Bohuslavice	99	80	A
-7103	589292	1	1	901	3	Miroslav	Slouka	M			40	OSVČ	Bohuslavice	99	80	A
-7103	589292	1	1	901	4	Josef	Brach	M			40	OSVČ	Bohuslavice	99	80	A
-7103	589292	1	1	901	5	Michal	Kment	M			33	obchodník	Bohuslavice	99	80	A
-7103	589292	1	1	901	6	Jaroslav	Doležal	M			72	OSVČ	Bohuslavice	99	80	A
-7103	589292	1	1	901	7	Eva	Dokoupilová	F			47	redaktorka	Bohuslavice	99	80	A
-7103	589292	1	1	901	8	Pawel Tomasz	Zaczyk	M	Mgr.		36	farář	Bohuslavice	99	80	A
-7103	589292	1	1	901	9	Jiří	Dostál	M			54	OSVČ	Bohuslavice	99	80	A
-7103	589292	1	2	83	1	Radek	Škurek	M			52	zdravotní ošet. FN. Olomouc	Bohuslavice	99	83	A
-7103	589292	1	2	83	2	Petra	Sklenáková	F	Mgr.		31	učitelka ZŠ a MŠ Bohuslavice	Bohuslavice	99	83	A
-7103	589292	1	2	83	3	Jaroslav	Bořil	M			43	zaměstnanec - THP	Bohuslavice	99	83	A
-7103	589292	1	2	83	4	Tomáš	Mikmek	M		DiS.	35	mobil. technik likvi.	Bohuslavice	99	83	A
-7103	589292	1	2	83	5	Ondřej	Janeček	M			32	THP - Sigma Lutín	Bohuslavice	99	83	A
-7103	589292	1	2	83	6	Jiří	Veselý ml.	M			31	tesař - DOPOINVEST	Bohuslavice	99	83	A
-7103	589292	1	2	83	7	Eva	Šišmová	F			37	zdrav. sestra - Char. Konice	Bohuslavice	99	83	A
-7103	589292	1	2	83	8	Jiří	Veselý st.	M			62	důchodce	Bohuslavice	99	83	A
-7103	589292	1	2	83	9	Pavel	Foret	M			55	dispečer	Bohuslavice	83	83	A
-7103	589292	1	3	1	1	Mojmír	Jedlička	M			55	řidič	Bohuslavice	99	1	A
-7103	589292	1	3	1	2	Stanislav	Mikmek	M			64	malíř	Bohuslavice	99	1	A
-7103	589292	1	3	1	3	Anna	Neuerová	F			49	zaměstnanec Charity	Bohuslavice	99	1	A
-7103	589292	1	3	1	4	Josef	Dvořák	M			22	technický pracovník	Bohuslavice	99	1	A
-7103	589292	1	3	1	5	Vlasta	Mazánková	F			54	zaměstnanec Charity	Bohuslavice	99	1	A
-7103	589292	1	3	1	6	Zbyněk	Machain	M			41	pracovník expedice	Bohuslavice	1	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589292	1	1	901	1	Roman	Jedlička	Mgr. Ing.		46	starosta obce	Bohuslavice	99	80	A	M
+7103	589292	1	2	83	1	Radek	Škurek			52	zdravotní ošet. FN. Olomouc	Bohuslavice	99	83	A	M
+7103	589292	1	3	1	1	Mojmír	Jedlička			55	řidič	Bohuslavice	99	1	A	M
+7103	589292	1	1	901	2	Zdeněk	Spurný			41	koordinátor skladu	Bohuslavice	99	80	A	M
+7103	589292	1	2	83	2	Petra	Sklenáková	Mgr.		31	učitelka ZŠ a MŠ Bohuslavice	Bohuslavice	99	83	A	F
+7103	589292	1	3	1	2	Stanislav	Mikmek			64	malíř	Bohuslavice	99	1	A	M
+7103	589292	1	1	901	3	Miroslav	Slouka			40	OSVČ	Bohuslavice	99	80	A	M
+7103	589292	1	2	83	3	Jaroslav	Bořil			43	zaměstnanec - THP	Bohuslavice	99	83	A	M
+7103	589292	1	3	1	3	Anna	Neuerová			49	zaměstnanec Charity	Bohuslavice	99	1	A	F
+7103	589292	1	1	901	4	Josef	Brach			40	OSVČ	Bohuslavice	99	80	A	M
+7103	589292	1	2	83	4	Tomáš	Mikmek		DiS.	35	mobil. technik likvi.	Bohuslavice	99	83	A	M
+7103	589292	1	3	1	4	Josef	Dvořák			22	technický pracovník	Bohuslavice	99	1	A	M
+7103	589292	1	1	901	5	Michal	Kment			33	obchodník	Bohuslavice	99	80	A	M
+7103	589292	1	2	83	5	Ondřej	Janeček			32	THP - Sigma Lutín	Bohuslavice	99	83	A	M
+7103	589292	1	3	1	5	Vlasta	Mazánková			54	zaměstnanec Charity	Bohuslavice	99	1	A	F
+7103	589292	1	1	901	6	Jaroslav	Doležal			72	OSVČ	Bohuslavice	99	80	A	M
+7103	589292	1	2	83	6	Jiří	Veselý ml.			31	tesař - DOPOINVEST	Bohuslavice	99	83	A	M
+7103	589292	1	3	1	6	Zbyněk	Machain			41	pracovník expedice	Bohuslavice	1	1	A	M
+7103	589292	1	1	901	7	Eva	Dokoupilová			47	redaktorka	Bohuslavice	99	80	A	F
+7103	589292	1	2	83	7	Eva	Šišmová			37	zdrav. sestra - Char. Konice	Bohuslavice	99	83	A	F
+7103	589292	1	1	901	8	Pawel Tomasz	Zaczyk	Mgr.		36	farář	Bohuslavice	99	80	A	M
+7103	589292	1	2	83	8	Jiří	Veselý st.			62	důchodce	Bohuslavice	99	83	A	M
+7103	589292	1	1	901	9	Jiří	Dostál			54	OSVČ	Bohuslavice	99	80	A	M
+7103	589292	1	2	83	9	Pavel	Foret			55	dispečer	Bohuslavice	83	83	A	M

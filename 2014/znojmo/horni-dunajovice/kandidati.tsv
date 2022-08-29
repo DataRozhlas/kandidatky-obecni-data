@@ -1,20 +1,20 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	594091	1	1	1	1	Miloslav	Reiter	M			51	mechanizátor	Horní Dunajovice	1	1	0
-6207	594091	1	1	1	2	Zdeněk	Březina	M			50	opravář	Horní Dunajovice	99	1	0
-6207	594091	1	1	1	3	Radka	Rytířová	F			44	úřednice	Horní Dunajovice	1	1	0
-6207	594091	1	1	1	4	Ludmila	Czudková	F			29	rodičovská dovolená	Horní Dunajovice	99	1	0
-6207	594091	1	1	1	5	Pavel	Vlček	M			37	elektrikář	Horní Dunajovice	99	1	0
-6207	594091	1	1	1	6	Martin	Reiter	M	Bc.		22	student	Horní Dunajovice	99	1	0
-6207	594091	1	2	47	1	Ladislav	Březina	M			57	elektromontér	Horní Dunajovice	47	47	0
-6207	594091	1	2	47	2	Jiří	Homolka	M	Ing.		53	OSVČ	Horní Dunajovice	99	47	0
-6207	594091	1	2	47	3	Lenka	Czehovská	F	Mgr.		46	ředitelka ZŠ	Horní Dunajovice	99	47	0
-6207	594091	1	2	47	4	Miloslav	Špalek	M			45	mechanik	Horní Dunajovice	99	47	0
-6207	594091	1	2	47	5	Karel	Vašíček	M	Mgr.		65	učitel	Horní Dunajovice	47	47	0
-6207	594091	1	2	47	6	Hubert	Machovec	M			68	důchodce	Horní Dunajovice	47	47	0
-6207	594091	1	3	7	1	Jan	Vlček	M			27	stavební technik	Horní Dunajovice	7	7	0
-6207	594091	1	3	7	2	Pavel	Špalek	M			26	výrobní technik	Horní Dunajovice	7	7	0
-6207	594091	1	3	7	3	Pavel	Bartes	M			26	živnostník	Horní Dunajovice	7	7	0
-6207	594091	1	3	7	4	Michal	Parýzek	M			26	automechanik	Horní Dunajovice	7	7	0
-6207	594091	1	3	7	5	Barbora	Plotzerová	F			37	ekonomka	Horní Dunajovice	99	7	0
-6207	594091	1	3	7	6	Jana	Cahová	F	Bc.		35	účetní	Horní Dunajovice	99	7	0
-6207	594091	1	3	7	7	Pavel	Gregor	M	Ing.		29	obchodní ředitel	Horní Dunajovice	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	594091	1	1	1	1	Miloslav	Reiter			51	mechanizátor	Horní Dunajovice	1	1	0	M
+6207	594091	1	2	47	1	Ladislav	Březina			57	elektromontér	Horní Dunajovice	47	47	0	M
+6207	594091	1	3	7	1	Jan	Vlček			27	stavební technik	Horní Dunajovice	7	7	0	M
+6207	594091	1	1	1	2	Zdeněk	Březina			50	opravář	Horní Dunajovice	99	1	0	M
+6207	594091	1	2	47	2	Jiří	Homolka	Ing.		53	OSVČ	Horní Dunajovice	99	47	0	M
+6207	594091	1	3	7	2	Pavel	Špalek			26	výrobní technik	Horní Dunajovice	7	7	0	M
+6207	594091	1	1	1	3	Radka	Rytířová			44	úřednice	Horní Dunajovice	1	1	0	F
+6207	594091	1	2	47	3	Lenka	Czehovská	Mgr.		46	ředitelka ZŠ	Horní Dunajovice	99	47	0	F
+6207	594091	1	3	7	3	Pavel	Bartes			26	živnostník	Horní Dunajovice	7	7	0	M
+6207	594091	1	1	1	4	Ludmila	Czudková			29	rodičovská dovolená	Horní Dunajovice	99	1	0	F
+6207	594091	1	2	47	4	Miloslav	Špalek			45	mechanik	Horní Dunajovice	99	47	0	M
+6207	594091	1	3	7	4	Michal	Parýzek			26	automechanik	Horní Dunajovice	7	7	0	M
+6207	594091	1	1	1	5	Pavel	Vlček			37	elektrikář	Horní Dunajovice	99	1	0	M
+6207	594091	1	2	47	5	Karel	Vašíček	Mgr.		65	učitel	Horní Dunajovice	47	47	0	M
+6207	594091	1	3	7	5	Barbora	Plotzerová			37	ekonomka	Horní Dunajovice	99	7	0	F
+6207	594091	1	1	1	6	Martin	Reiter	Bc.		22	student	Horní Dunajovice	99	1	0	M
+6207	594091	1	2	47	6	Hubert	Machovec			68	důchodce	Horní Dunajovice	47	47	0	M
+6207	594091	1	3	7	6	Jana	Cahová	Bc.		35	účetní	Horní Dunajovice	99	7	0	F
+6207	594091	1	3	7	7	Pavel	Gregor	Ing.		29	obchodní ředitel	Horní Dunajovice	99	7	0	M

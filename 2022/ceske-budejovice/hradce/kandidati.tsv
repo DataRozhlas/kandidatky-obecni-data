@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	535460	1	1	902	1	Jan	Veselý	M			50	jednatel	České Budějovice	99	80	A
-3101	535460	1	1	902	2	Monika	Vacková	F			43	učitelka	Hradce	99	80	A
-3101	535460	1	1	902	3	Ivo	Brabec	M			59	mediální poradce	Hradce	99	80	A
-3101	535460	1	1	902	4	Hanka	Švejkarová	F			54	ergoterapeut	Hradce	99	80	A
-3101	535460	1	1	902	5	Marie	Brenkusová	F			71	důchodce	Hradce	99	80	A
-3101	535460	1	1	902	6	Irena	Gebauerová	F			71	důchodce	Hradce	99	80	A
-3101	535460	1	1	902	7	Anna	Šinoglová	F			65	státní úřednice	Hradce	99	80	A
-3101	535460	1	2	901	1	Stanislav	Anderle	M	Ing.		64	projektant	Hradce	99	80	A
-3101	535460	1	2	901	2	Martina	Vojáčková	F			51	ekonomka	Hradce	99	80	A
-3101	535460	1	2	901	3	Alena	Vejskrabová	F			67	důchodkyně	Hradce	99	80	A
-3101	535460	1	2	901	4	Pavel	Honner	M			60	projektant	Hradce	99	80	A
-3101	535460	1	2	901	5	Eliška	Anderlová	F			34	ekonomka	Hradce	99	80	A
-3101	535460	1	2	901	6	Pavla	Blajić	F			69	důchodkyně	Hradce	99	80	A
-3101	535460	1	2	901	7	Lenka	Šonková	F			33	technička	Hradce	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	535460	1	1	902	1	Jan	Veselý			50	jednatel	České Budějovice	99	80	A	M
+3101	535460	1	2	901	1	Stanislav	Anderle	Ing.		64	projektant	Hradce	99	80	A	M
+3101	535460	1	1	902	2	Monika	Vacková			43	učitelka	Hradce	99	80	A	F
+3101	535460	1	2	901	2	Martina	Vojáčková			51	ekonomka	Hradce	99	80	A	F
+3101	535460	1	1	902	3	Ivo	Brabec			59	mediální poradce	Hradce	99	80	A	M
+3101	535460	1	2	901	3	Alena	Vejskrabová			67	důchodkyně	Hradce	99	80	A	F
+3101	535460	1	1	902	4	Hanka	Švejkarová			54	ergoterapeut	Hradce	99	80	A	F
+3101	535460	1	2	901	4	Pavel	Honner			60	projektant	Hradce	99	80	A	M
+3101	535460	1	1	902	5	Marie	Brenkusová			71	důchodce	Hradce	99	80	A	F
+3101	535460	1	2	901	5	Eliška	Anderlová			34	ekonomka	Hradce	99	80	A	F
+3101	535460	1	1	902	6	Irena	Gebauerová			71	důchodce	Hradce	99	80	A	F
+3101	535460	1	2	901	6	Pavla	Blajić			69	důchodkyně	Hradce	99	80	A	F
+3101	535460	1	1	902	7	Anna	Šinoglová			65	státní úřednice	Hradce	99	80	A	F
+3101	535460	1	2	901	7	Lenka	Šonková			33	technička	Hradce	99	80	A	F

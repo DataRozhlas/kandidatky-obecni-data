@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5102	563641	1	1	53	1	Jindřich	Kvapil	M			50	starosta	Koberovy	53	53	0
-5102	563641	1	1	53	2	Jiří	Plíhal	M			51	bankovní úředník	Koberovy	99	53	0
-5102	563641	1	1	53	3	Karel	Kořínek	M			40	soukromý zemědělec	Michovka	99	53	0
-5102	563641	1	1	53	4	Zdeněk	Hoření	M			56	dělník	Vrát	99	53	0
-5102	563641	1	1	53	5	Eva	Šírková	F			43	učitelka MŠ	Koberovy	99	53	0
-5102	563641	1	1	53	6	Vladimír	Rutkovský	M			52	soukromník	Koberovy	99	53	0
-5102	563641	1	1	53	7	Staša	Kobrlová	F			46	OSVČ	Koberovy	99	53	0
-5102	563641	1	1	53	8	Tomáš	Mašek	M			30	vedoucí průmyslového inženýrs.	Chloudov	99	53	0
-5102	563641	1	1	53	9	Milada	Brázdová	F	Ing.		28	vedoucí kvality	Vrát	99	53	0
-5102	563641	1	1	53	10	Josef	Salaba	M			49	revizní technik	Koberovy	99	53	0
-5102	563641	1	1	53	11	Tomáš	Hušek	M			40	brusič	Koberovy	99	53	0
-5102	563641	1	2	901	1	Jaroslav	Cvrček	M			38	živnostník	Koberovy	99	80	0
-5102	563641	1	2	901	2	Pavel	Pospíšil	M			37	dispečer	Koberovy	99	80	0
-5102	563641	1	2	901	3	Jaroslav	Voves	M			26	zahradník	Koberovy	99	80	0
-5102	563641	1	2	901	4	Miroslav	Papež	M			50	montér SČVK	Michovka	99	80	0
-5102	563641	1	2	901	5	Petr	Bína	M			45	živnostník	Koberovy	99	80	0
-5102	563641	1	2	901	6	Radka	Hušková	F			38	vychovatelka ZŠ	Koberovy	99	80	0
-5102	563641	1	2	901	7	Eva	Cvrčková	F			38	účetní	Koberovy	99	80	0
-5102	563641	1	2	901	8	Josef	Hanzl	M			38	stavební mistr	Koberovy	99	80	0
-5102	563641	1	2	901	9	Zdeněk	Pala	M			31	sázkový makléř	Koberovy	99	80	0
-5102	563641	1	2	901	10	Pavel	Havlíček	M			46	vedoucí zásobování	Hamštejn	99	80	0
-5102	563641	1	2	901	11	Iva	Hartlová	F			45	podnikatelka	Besedice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5102	563641	1	1	53	1	Jindřich	Kvapil			50	starosta	Koberovy	53	53	0	M
+5102	563641	1	2	901	1	Jaroslav	Cvrček			38	živnostník	Koberovy	99	80	0	M
+5102	563641	1	1	53	2	Jiří	Plíhal			51	bankovní úředník	Koberovy	99	53	0	M
+5102	563641	1	2	901	2	Pavel	Pospíšil			37	dispečer	Koberovy	99	80	0	M
+5102	563641	1	1	53	3	Karel	Kořínek			40	soukromý zemědělec	Michovka	99	53	0	M
+5102	563641	1	2	901	3	Jaroslav	Voves			26	zahradník	Koberovy	99	80	0	M
+5102	563641	1	1	53	4	Zdeněk	Hoření			56	dělník	Vrát	99	53	0	M
+5102	563641	1	2	901	4	Miroslav	Papež			50	montér SČVK	Michovka	99	80	0	M
+5102	563641	1	1	53	5	Eva	Šírková			43	učitelka MŠ	Koberovy	99	53	0	F
+5102	563641	1	2	901	5	Petr	Bína			45	živnostník	Koberovy	99	80	0	M
+5102	563641	1	1	53	6	Vladimír	Rutkovský			52	soukromník	Koberovy	99	53	0	M
+5102	563641	1	2	901	6	Radka	Hušková			38	vychovatelka ZŠ	Koberovy	99	80	0	F
+5102	563641	1	1	53	7	Staša	Kobrlová			46	OSVČ	Koberovy	99	53	0	F
+5102	563641	1	2	901	7	Eva	Cvrčková			38	účetní	Koberovy	99	80	0	F
+5102	563641	1	1	53	8	Tomáš	Mašek			30	vedoucí průmyslového inženýrs.	Chloudov	99	53	0	M
+5102	563641	1	2	901	8	Josef	Hanzl			38	stavební mistr	Koberovy	99	80	0	M
+5102	563641	1	1	53	9	Milada	Brázdová	Ing.		28	vedoucí kvality	Vrát	99	53	0	F
+5102	563641	1	2	901	9	Zdeněk	Pala			31	sázkový makléř	Koberovy	99	80	0	M
+5102	563641	1	1	53	10	Josef	Salaba			49	revizní technik	Koberovy	99	53	0	M
+5102	563641	1	2	901	10	Pavel	Havlíček			46	vedoucí zásobování	Hamštejn	99	80	0	M
+5102	563641	1	1	53	11	Tomáš	Hušek			40	brusič	Koberovy	99	53	0	M
+5102	563641	1	2	901	11	Iva	Hartlová			45	podnikatelka	Besedice	99	80	0	F

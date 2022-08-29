@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	564923	1	1	1	1	Jaroslava	Kormošová	F			41	prodavačka	Lounky	99	1	0
-4203	564923	1	1	1	2	Drahomíra	Čmejlová	F			52	pracovnice v zemědělství	Chodouny	99	1	0
-4203	564923	1	1	1	3	Veronika	Nachtmanová	F			22	číšnice	Lounky	99	1	0
-4203	564923	1	1	1	4	Daniela	Jonáková	F			51	pracovnice v zemědělství	Chodouny	99	1	0
-4203	564923	1	1	1	5	Jana	Wendelingová	F			20	číšnice	Lounky	99	1	0
-4203	564923	1	1	1	6	Marcela	Šátková	F			51	nezaměstnaná	Chodouny	99	1	1
-4203	564923	1	2	902	1	Alexandr	Šťastný	M			43	podnikatel	Chodouny	99	80	0
-4203	564923	1	2	902	2	Radek	Veselý	M	Ing.		31	ekonom	Chodouny	99	80	0
-4203	564923	1	2	902	3	Radek	Řehák	M			33	vedoucí nákupu	Chodouny	99	80	0
-4203	564923	1	2	902	4	Milan	Kruncl	M			38	zámečník	Lounky	99	80	0
-4203	564923	1	2	902	5	Karel	Kormoš	M			49	zaměstnanec České pošty	Lounky	99	80	0
-4203	564923	1	2	902	6	Petra	Haladová	F			28	operátorka	Lounky	99	80	0
-4203	564923	1	2	902	7	Michal	Šulc	M			32	dělník	Chodouny	99	80	0
-4203	564923	1	2	902	8	Radomil	Daneš	M			51	podnikatel	Chodouny	99	80	0
-4203	564923	1	2	902	9	Vlastimil	Calta	M			50	správce budov	Lounky	99	80	0
-4203	564923	1	3	901	1	Dušan	Řezáč	M			32	soukromý podnikatel	Chodouny	99	80	0
-4203	564923	1	3	901	2	Pavol	Pajonk	M			70	důchodce	Lounky	47	80	0
-4203	564923	1	3	901	3	Jaroslav	Vajgl	M			40	státní zaměstnanec	Chodouny	99	80	0
-4203	564923	1	3	901	4	František	Švarc	M			65	důchodce	Lounky	99	80	0
-4203	564923	1	3	901	5	Michal	Šubrt	M			35	vedoucí dopravy	Lounky	99	80	0
-4203	564923	1	3	901	6	Libor	Zahálka	M			41	opravář	Chodouny	99	80	0
-4203	564923	1	3	901	7	Kamila	Petrželková	F			24	asistentka ředitele	Lounky	99	80	0
-4203	564923	1	3	901	8	Věra	Stuchlá	F			63	důchodce	Lounky	99	80	0
-4203	564923	1	3	901	9	Petr	Tůma	M			44	soukromý podnikatel	Lounky	99	80	0
-4203	564923	1	4	129	1	Marie	Cimrová	F			43	starostka obce	Lounky	99	129	0
-4203	564923	1	4	129	2	Zdeněk	Stuchlý	M			43	soukromý podnikatel	Chodouny	99	129	0
-4203	564923	1	4	129	3	Jaromír	Ondra	M			39	soukromý podnikatel	Lounky	99	129	0
-4203	564923	1	4	129	4	Pavel	Hrabkovský	M			43	soukromý podnikatel	Chodouny	99	129	0
-4203	564923	1	4	129	5	Marie	Poláčková	F			49	účetní	Lounky	99	129	0
-4203	564923	1	4	129	6	Martina	Rivolová	F			41	učitelka mateřské školy	Chodouny	99	129	0
-4203	564923	1	4	129	7	Jana	Krunclová	F			35	vychovatelka základní školy	Lounky	99	129	0
-4203	564923	1	4	129	8	Hana	Vostrovská	F			41	učitelka odborné výchovy	Chodouny	99	129	0
-4203	564923	1	4	129	9	Hana	Jirásková	F			42	učitelka mateřské školy	Lounky	99	129	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	564923	1	1	1	1	Jaroslava	Kormošová			41	prodavačka	Lounky	99	1	0	F
+4203	564923	1	2	902	1	Alexandr	Šťastný			43	podnikatel	Chodouny	99	80	0	M
+4203	564923	1	3	901	1	Dušan	Řezáč			32	soukromý podnikatel	Chodouny	99	80	0	M
+4203	564923	1	4	129	1	Marie	Cimrová			43	starostka obce	Lounky	99	129	0	F
+4203	564923	1	1	1	2	Drahomíra	Čmejlová			52	pracovnice v zemědělství	Chodouny	99	1	0	F
+4203	564923	1	2	902	2	Radek	Veselý	Ing.		31	ekonom	Chodouny	99	80	0	M
+4203	564923	1	3	901	2	Pavol	Pajonk			70	důchodce	Lounky	47	80	0	M
+4203	564923	1	4	129	2	Zdeněk	Stuchlý			43	soukromý podnikatel	Chodouny	99	129	0	M
+4203	564923	1	1	1	3	Veronika	Nachtmanová			22	číšnice	Lounky	99	1	0	F
+4203	564923	1	2	902	3	Radek	Řehák			33	vedoucí nákupu	Chodouny	99	80	0	M
+4203	564923	1	3	901	3	Jaroslav	Vajgl			40	státní zaměstnanec	Chodouny	99	80	0	M
+4203	564923	1	4	129	3	Jaromír	Ondra			39	soukromý podnikatel	Lounky	99	129	0	M
+4203	564923	1	1	1	4	Daniela	Jonáková			51	pracovnice v zemědělství	Chodouny	99	1	0	F
+4203	564923	1	2	902	4	Milan	Kruncl			38	zámečník	Lounky	99	80	0	M
+4203	564923	1	3	901	4	František	Švarc			65	důchodce	Lounky	99	80	0	M
+4203	564923	1	4	129	4	Pavel	Hrabkovský			43	soukromý podnikatel	Chodouny	99	129	0	M
+4203	564923	1	1	1	5	Jana	Wendelingová			20	číšnice	Lounky	99	1	0	F
+4203	564923	1	2	902	5	Karel	Kormoš			49	zaměstnanec České pošty	Lounky	99	80	0	M
+4203	564923	1	3	901	5	Michal	Šubrt			35	vedoucí dopravy	Lounky	99	80	0	M
+4203	564923	1	4	129	5	Marie	Poláčková			49	účetní	Lounky	99	129	0	F
+4203	564923	1	1	1	6	Marcela	Šátková			51	nezaměstnaná	Chodouny	99	1	1	F
+4203	564923	1	2	902	6	Petra	Haladová			28	operátorka	Lounky	99	80	0	F
+4203	564923	1	3	901	6	Libor	Zahálka			41	opravář	Chodouny	99	80	0	M
+4203	564923	1	4	129	6	Martina	Rivolová			41	učitelka mateřské školy	Chodouny	99	129	0	F
+4203	564923	1	2	902	7	Michal	Šulc			32	dělník	Chodouny	99	80	0	M
+4203	564923	1	3	901	7	Kamila	Petrželková			24	asistentka ředitele	Lounky	99	80	0	F
+4203	564923	1	4	129	7	Jana	Krunclová			35	vychovatelka základní školy	Lounky	99	129	0	F
+4203	564923	1	2	902	8	Radomil	Daneš			51	podnikatel	Chodouny	99	80	0	M
+4203	564923	1	3	901	8	Věra	Stuchlá			63	důchodce	Lounky	99	80	0	F
+4203	564923	1	4	129	8	Hana	Vostrovská			41	učitelka odborné výchovy	Chodouny	99	129	0	F
+4203	564923	1	2	902	9	Vlastimil	Calta			50	správce budov	Lounky	99	80	0	M
+4203	564923	1	3	901	9	Petr	Tůma			44	soukromý podnikatel	Lounky	99	80	0	M
+4203	564923	1	4	129	9	Hana	Jirásková			42	učitelka mateřské školy	Lounky	99	129	0	F

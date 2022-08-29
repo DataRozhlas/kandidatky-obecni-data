@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5302	530794	1	1	470	1	Radek	Valenta	M			44	starosta	Trnávka	166	166	A
-5302	530794	1	1	470	2	Marie	Škopková	F	JUDr.		76	důchodce	Trnávka	99	80	A
-5302	530794	1	1	470	3	Robert	Valenta	M			27	produktový technik	Trnávka	99	80	A
-5302	530794	1	1	470	4	Kateřina	Míšková	F			43	mzdová účetní	Trnávka	99	80	A
-5302	530794	1	1	470	5	Vít	Salfický	M			46	elektrikář	Trnávka	99	80	A
-5302	530794	1	1	470	6	Emil	Janda	M			68	důchodce	Trnávka	99	80	A
-5302	530794	1	1	470	7	Radka	Valentová	F			48	referent kvality	Trnávka	99	80	A
-5302	530794	1	2	901	1	Roman	Žičař	M			41	dělník	Trnávka	99	80	A
-5302	530794	1	2	901	2	Libuše	Smolíková	F			64	důchodce	Trnávka	99	80	A
-5302	530794	1	2	901	3	Václava	Likešová	F			47	pracovnice školní jídelny	Trnávka	99	80	A
-5302	530794	1	2	901	4	Pavel	Míča	M			39	řidič	Trnávka	99	80	A
-5302	530794	1	2	901	5	Vendula	Šoltová	F			40	administrativní pracovník	Trnávka	99	80	A
-5302	530794	1	2	901	6	Michal	Šolta	M			39	OSVČ	Trnávka	99	80	A
-5302	530794	1	2	901	7	Miloš	Hübner	M			60	farář ČCE	Trnávka	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5302	530794	1	1	470	1	Radek	Valenta			44	starosta	Trnávka	166	166	A	M
+5302	530794	1	2	901	1	Roman	Žičař			41	dělník	Trnávka	99	80	A	M
+5302	530794	1	1	470	2	Marie	Škopková	JUDr.		76	důchodce	Trnávka	99	80	A	F
+5302	530794	1	2	901	2	Libuše	Smolíková			64	důchodce	Trnávka	99	80	A	F
+5302	530794	1	1	470	3	Robert	Valenta			27	produktový technik	Trnávka	99	80	A	M
+5302	530794	1	2	901	3	Václava	Likešová			47	pracovnice školní jídelny	Trnávka	99	80	A	F
+5302	530794	1	1	470	4	Kateřina	Míšková			43	mzdová účetní	Trnávka	99	80	A	F
+5302	530794	1	2	901	4	Pavel	Míča			39	řidič	Trnávka	99	80	A	M
+5302	530794	1	1	470	5	Vít	Salfický			46	elektrikář	Trnávka	99	80	A	M
+5302	530794	1	2	901	5	Vendula	Šoltová			40	administrativní pracovník	Trnávka	99	80	A	F
+5302	530794	1	1	470	6	Emil	Janda			68	důchodce	Trnávka	99	80	A	M
+5302	530794	1	2	901	6	Michal	Šolta			39	OSVČ	Trnávka	99	80	A	M
+5302	530794	1	1	470	7	Radka	Valentová			48	referent kvality	Trnávka	99	80	A	F
+5302	530794	1	2	901	7	Miloš	Hübner			60	farář ČCE	Trnávka	99	80	A	M

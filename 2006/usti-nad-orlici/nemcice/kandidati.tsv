@@ -1,42 +1,42 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	580694	1	1	901	1	Miroslav	Kadrmas	M			39	obchodní zástupce	Němčice	99	80	0
-5304	580694	1	1	901	2	Luboš	Soukup	M			48	vychovatel	Němčice	99	80	0
-5304	580694	1	1	901	3	Josef	Karlík	M			34	zemědělský podnikatel	Němčice	99	80	0
-5304	580694	1	1	901	4	Olga	Sainerová	F			37	účetní	Němčice	99	80	0
-5304	580694	1	1	901	5	Václav	Pecháček	M			43	dělník	Němčice	99	80	0
-5304	580694	1	1	901	6	Jiří	Dubišar	M			42	invalidní důchodce	Němčice	99	80	0
-5304	580694	1	1	901	7	Jana	Tmějová	F			30	mateřská dovolená	Němčice	99	80	0
-5304	580694	1	1	901	8	František	Veselý	M			24	student VŠ	Němčice	99	80	0
-5304	580694	1	1	901	9	Petr	Stráník	M			42	technik	Člupek	99	80	0
-5304	580694	1	2	903	1	Dana	Urbánková	F	Mgr.		34	učitelka	Němčice	99	80	0
-5304	580694	1	2	903	2	Karel	Rambousek	M			29	kuchař	Němčice	99	80	0
-5304	580694	1	2	903	3	Miroslav	Vytlačil	M			48	řidič	Němčice	99	80	0
-5304	580694	1	2	903	4	Petr	Lněnička	M			34	technolog	Člupek	99	80	0
-5304	580694	1	2	903	5	Radek	Flídr	M			36	podnikatel	Němčice	99	80	0
-5304	580694	1	2	903	6	Martin	Gyömbér	M			26	dělník	Němčice	99	80	0
-5304	580694	1	2	903	7	František	Myška	M			43	dělník	Němčice	99	80	0
-5304	580694	1	2	903	8	Josef	Pokorný	M			42	steward	Němčice	99	80	0
-5304	580694	1	2	903	9	Miroslav	Jasanský	M			44	dělník	Němčice	99	80	0
-5304	580694	1	3	904	1	Ladislav	Jilg	M			57	dělník	Němčice	99	80	0
-5304	580694	1	3	904	2	František	Kladiva	M			38	podnikatel	Člupek	99	80	0
-5304	580694	1	3	904	3	Helena	Karlíková	F	Bc.		30	úřednice	Člupek	99	80	0
-5304	580694	1	3	904	4	Pavla	Miklová	F			54	úřednice	Člupek	99	80	0
-5304	580694	1	3	904	5	Pavel	Kadrmas	M			38	dělník	Člupek	99	80	0
-5304	580694	1	3	904	6	Jindřich	Kovář	M	Ing.		36	učitel	Člupek	99	80	0
-5304	580694	1	3	904	7	Lukáš	Pavliš	M			31	obchodní zástupce	Člupek	99	80	0
-5304	580694	1	3	904	8	Radek	Jasanský	M			56	dělník	Člupek	99	80	0
-5304	580694	1	3	904	9	Jaroslav	Stráník	M			60	důchodce	Člupek	99	80	0
-5304	580694	1	4	905	1	Soňa	Čejková	F			41	zdravotní sestra	Zhoř	99	80	0
-5304	580694	1	4	905	2	Jiří	Jasanský	M			32	dělník	Zhoř	99	80	0
-5304	580694	1	4	905	3	Marie	Kolková	F			54	vedoucí výroby	Zhoř	99	80	0
-5304	580694	1	4	905	4	Iva	Sedláčková	F			52	učitelka	Zhoř	99	80	0
-5304	580694	1	4	905	5	Jaroslav	Zýka	M			72	důchodce	Zhoř	99	80	0
-5304	580694	1	5	902	1	Josef	Racek	M	Ing.		41	starosta	Němčice	99	80	0
-5304	580694	1	5	902	2	Josef	Hynek	M			41	podnikatel	Němčice	99	80	0
-5304	580694	1	5	902	3	Michal	Hošek	M			27	podnikatel	Člupek	99	80	0
-5304	580694	1	5	902	4	Renata	Čermáková	F			28	kadeřnice	Němčice	99	80	0
-5304	580694	1	5	902	5	Jiří	Veselý	M			26	dělník	Němčice	99	80	0
-5304	580694	1	5	902	6	Vladimír	Vrbický	M			31	podnikatel	Němčice	99	80	0
-5304	580694	1	5	902	7	Vladimír	Pavliš	M	Ing.		40	vedoucí služeb	Němčice	99	80	0
-5304	580694	1	5	902	8	Martin	Vytlačil	M			28	obchodní zástupce	Němčice	99	80	0
-5304	580694	1	5	902	9	Václav	Štarman	M			57	elektromechanik	Člupek	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	580694	1	1	901	1	Miroslav	Kadrmas			39	obchodní zástupce	Němčice	99	80	0	M
+5304	580694	1	2	903	1	Dana	Urbánková	Mgr.		34	učitelka	Němčice	99	80	0	F
+5304	580694	1	3	904	1	Ladislav	Jilg			57	dělník	Němčice	99	80	0	M
+5304	580694	1	4	905	1	Soňa	Čejková			41	zdravotní sestra	Zhoř	99	80	0	F
+5304	580694	1	5	902	1	Josef	Racek	Ing.		41	starosta	Němčice	99	80	0	M
+5304	580694	1	1	901	2	Luboš	Soukup			48	vychovatel	Němčice	99	80	0	M
+5304	580694	1	2	903	2	Karel	Rambousek			29	kuchař	Němčice	99	80	0	M
+5304	580694	1	3	904	2	František	Kladiva			38	podnikatel	Člupek	99	80	0	M
+5304	580694	1	4	905	2	Jiří	Jasanský			32	dělník	Zhoř	99	80	0	M
+5304	580694	1	5	902	2	Josef	Hynek			41	podnikatel	Němčice	99	80	0	M
+5304	580694	1	1	901	3	Josef	Karlík			34	zemědělský podnikatel	Němčice	99	80	0	M
+5304	580694	1	2	903	3	Miroslav	Vytlačil			48	řidič	Němčice	99	80	0	M
+5304	580694	1	3	904	3	Helena	Karlíková	Bc.		30	úřednice	Člupek	99	80	0	F
+5304	580694	1	4	905	3	Marie	Kolková			54	vedoucí výroby	Zhoř	99	80	0	F
+5304	580694	1	5	902	3	Michal	Hošek			27	podnikatel	Člupek	99	80	0	M
+5304	580694	1	1	901	4	Olga	Sainerová			37	účetní	Němčice	99	80	0	F
+5304	580694	1	2	903	4	Petr	Lněnička			34	technolog	Člupek	99	80	0	M
+5304	580694	1	3	904	4	Pavla	Miklová			54	úřednice	Člupek	99	80	0	F
+5304	580694	1	4	905	4	Iva	Sedláčková			52	učitelka	Zhoř	99	80	0	F
+5304	580694	1	5	902	4	Renata	Čermáková			28	kadeřnice	Němčice	99	80	0	F
+5304	580694	1	1	901	5	Václav	Pecháček			43	dělník	Němčice	99	80	0	M
+5304	580694	1	2	903	5	Radek	Flídr			36	podnikatel	Němčice	99	80	0	M
+5304	580694	1	3	904	5	Pavel	Kadrmas			38	dělník	Člupek	99	80	0	M
+5304	580694	1	4	905	5	Jaroslav	Zýka			72	důchodce	Zhoř	99	80	0	M
+5304	580694	1	5	902	5	Jiří	Veselý			26	dělník	Němčice	99	80	0	M
+5304	580694	1	1	901	6	Jiří	Dubišar			42	invalidní důchodce	Němčice	99	80	0	M
+5304	580694	1	2	903	6	Martin	Gyömbér			26	dělník	Němčice	99	80	0	M
+5304	580694	1	3	904	6	Jindřich	Kovář	Ing.		36	učitel	Člupek	99	80	0	M
+5304	580694	1	5	902	6	Vladimír	Vrbický			31	podnikatel	Němčice	99	80	0	M
+5304	580694	1	1	901	7	Jana	Tmějová			30	mateřská dovolená	Němčice	99	80	0	F
+5304	580694	1	2	903	7	František	Myška			43	dělník	Němčice	99	80	0	M
+5304	580694	1	3	904	7	Lukáš	Pavliš			31	obchodní zástupce	Člupek	99	80	0	M
+5304	580694	1	5	902	7	Vladimír	Pavliš	Ing.		40	vedoucí služeb	Němčice	99	80	0	M
+5304	580694	1	1	901	8	František	Veselý			24	student VŠ	Němčice	99	80	0	M
+5304	580694	1	2	903	8	Josef	Pokorný			42	steward	Němčice	99	80	0	M
+5304	580694	1	3	904	8	Radek	Jasanský			56	dělník	Člupek	99	80	0	M
+5304	580694	1	5	902	8	Martin	Vytlačil			28	obchodní zástupce	Němčice	99	80	0	M
+5304	580694	1	1	901	9	Petr	Stráník			42	technik	Člupek	99	80	0	M
+5304	580694	1	2	903	9	Miroslav	Jasanský			44	dělník	Němčice	99	80	0	M
+5304	580694	1	3	904	9	Jaroslav	Stráník			60	důchodce	Člupek	99	80	0	M
+5304	580694	1	5	902	9	Václav	Štarman			57	elektromechanik	Člupek	99	80	0	M

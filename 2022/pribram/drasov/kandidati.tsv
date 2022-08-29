@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	540153	1	1	901	1	Zdeněk	Vrátný	M			44	manažer	Skalka	99	80	A
-2111	540153	1	1	901	2	Martin	Vostárek	M	Bc.		33	státní zaměstnanec	Drásov	99	80	A
-2111	540153	1	1	901	3	Ivana	Matějů	F			75	důchodce	Drásov	99	80	A
-2111	540153	1	1	901	4	Libor	Jandera	M			43	živnostník	Drásov	99	80	A
-2111	540153	1	1	901	5	Martin	Chleboun	M			47	specialista letecké dopravy	Skalka	99	80	A
-2111	540153	1	1	901	6	Milan	Muzikář	M			59	agronom	Drásov	99	80	A
-2111	540153	1	1	901	7	Josef	Kratochvíl	M			75	důchodce	Skalka	99	80	A
-2111	540153	1	1	901	8	Jan	Šmíd	M			32	státní zaměstnanec	Skalka	99	80	A
-2111	540153	1	1	901	9	Rostislav	Hlaváček	M			46	produktový specialista	Drásov	99	80	A
-2111	540153	1	2	902	1	Milan	Sladovník	M			55	státní zaměstnanec	Drásov	99	80	A
-2111	540153	1	2	902	2	Ivan	Hochman	M			61	zubní technik	Drásov	99	80	A
-2111	540153	1	2	902	3	Jana	Bejstová	F			52	účetní	Drásov	99	80	A
-2111	540153	1	2	902	4	Petra	Černohorská	F			39	technolog	Drásov	99	80	A
-2111	540153	1	2	902	5	Petr	Řehoř	M			42	státní zaměstnanec	Drásov	99	80	A
-2111	540153	1	2	902	6	Eva	Kuntová	F			51	zubní technik	Drásov	99	80	A
-2111	540153	1	2	902	7	Pavel	Bejsta	M			26	úředník	Drásov	99	80	A
-2111	540153	1	2	902	8	Hana	Pilecká	F			36	státní zaměstnanec	Skalka	99	80	A
-2111	540153	1	2	902	9	Lenka	Hotová	F			56	matrikářka	Drásov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	540153	1	1	901	1	Zdeněk	Vrátný			44	manažer	Skalka	99	80	A	M
+2111	540153	1	2	902	1	Milan	Sladovník			55	státní zaměstnanec	Drásov	99	80	A	M
+2111	540153	1	1	901	2	Martin	Vostárek	Bc.		33	státní zaměstnanec	Drásov	99	80	A	M
+2111	540153	1	2	902	2	Ivan	Hochman			61	zubní technik	Drásov	99	80	A	M
+2111	540153	1	1	901	3	Ivana	Matějů			75	důchodce	Drásov	99	80	A	F
+2111	540153	1	2	902	3	Jana	Bejstová			52	účetní	Drásov	99	80	A	F
+2111	540153	1	1	901	4	Libor	Jandera			43	živnostník	Drásov	99	80	A	M
+2111	540153	1	2	902	4	Petra	Černohorská			39	technolog	Drásov	99	80	A	F
+2111	540153	1	1	901	5	Martin	Chleboun			47	specialista letecké dopravy	Skalka	99	80	A	M
+2111	540153	1	2	902	5	Petr	Řehoř			42	státní zaměstnanec	Drásov	99	80	A	M
+2111	540153	1	1	901	6	Milan	Muzikář			59	agronom	Drásov	99	80	A	M
+2111	540153	1	2	902	6	Eva	Kuntová			51	zubní technik	Drásov	99	80	A	F
+2111	540153	1	1	901	7	Josef	Kratochvíl			75	důchodce	Skalka	99	80	A	M
+2111	540153	1	2	902	7	Pavel	Bejsta			26	úředník	Drásov	99	80	A	M
+2111	540153	1	1	901	8	Jan	Šmíd			32	státní zaměstnanec	Skalka	99	80	A	M
+2111	540153	1	2	902	8	Hana	Pilecká			36	státní zaměstnanec	Skalka	99	80	A	F
+2111	540153	1	1	901	9	Rostislav	Hlaváček			46	produktový specialista	Drásov	99	80	A	M
+2111	540153	1	2	902	9	Lenka	Hotová			56	matrikářka	Drásov	99	80	A	F

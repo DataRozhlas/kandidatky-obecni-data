@@ -1,9 +1,9 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6104	591491	1	1	802	1	Květoslav	Havránek	M			35	příslušník VS ČR	Pucov	99	80	A
-6104	591491	1	2	801	1	Petra	Keferová	F			38	manažer	Pucov	99	80	A
-6104	591491	1	3	803	1	Raimund	Pivoňka	M			33	zkušební technik	Pucov	99	80	A
-6104	591491	1	4	901	1	Galina	Brožková	F	MgA.		46	učitelka	Pucov	99	80	A
-6104	591491	1	4	901	2	Petr	Pavlíček	M		DiS.	40	zdravotnický záchranář	Pucov	7	80	A
-6104	591491	1	4	901	3	Václav	Veselý	M			34	technik STK	Pucov	99	80	A
-6104	591491	1	4	901	4	Petr	Klusák	M			46	voják z povolání	Pucov	99	80	A
-6104	591491	1	4	901	5	Ivana	Dvořáčková	F			42	mateřská dovolená	Pucov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6104	591491	1	1	802	1	Květoslav	Havránek			35	příslušník VS ČR	Pucov	99	80	A	M
+6104	591491	1	2	801	1	Petra	Keferová			38	manažer	Pucov	99	80	A	F
+6104	591491	1	3	803	1	Raimund	Pivoňka			33	zkušební technik	Pucov	99	80	A	M
+6104	591491	1	4	901	1	Galina	Brožková	MgA.		46	učitelka	Pucov	99	80	A	F
+6104	591491	1	4	901	2	Petr	Pavlíček		DiS.	40	zdravotnický záchranář	Pucov	7	80	A	M
+6104	591491	1	4	901	3	Václav	Veselý			34	technik STK	Pucov	99	80	A	M
+6104	591491	1	4	901	4	Petr	Klusák			46	voják z povolání	Pucov	99	80	A	M
+6104	591491	1	4	901	5	Ivana	Dvořáčková			42	mateřská dovolená	Pucov	99	80	A	F

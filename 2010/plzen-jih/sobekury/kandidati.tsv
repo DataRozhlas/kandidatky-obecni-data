@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3204	558346	1	1	902	1	Miroslava	Vítková	F			56	starostka obce	Horušany	99	80	0
-3204	558346	1	1	902	2	Valter	Wawrek	M			39	vedoucí výroby	Horušany	99	80	0
-3204	558346	1	1	902	3	Vlasta	Zralá	F			40	pedagogická pracovnice	Horušany	99	80	0
-3204	558346	1	1	902	4	Roman	Kindl	M			32	technik	Horušany	99	80	0
-3204	558346	1	1	902	5	Stanislava	Kőnigsmarková	F			37	podnikatelka	Horušany	99	80	0
-3204	558346	1	1	902	6	Libor	Štolcpart	M			46	podnikatel	Horušany	99	80	0
-3204	558346	1	1	902	7	Petr	Hranáč	M			55	dělník	Horušany	99	80	0
-3204	558346	1	1	902	8	Josef	Kuneš	M			54	dělník	Horušany	99	80	0
-3204	558346	1	1	902	9	Václav	Konůpek	M			38	technik	Horušany	99	80	0
-3204	558346	1	1	902	10	Vlastimil	Kindl	M			46	řidič	Horušany	99	80	0
-3204	558346	1	1	902	11	Zdeněk	Krs	M			34	podnikatel	Horušany	99	80	0
-3204	558346	1	2	901	1	Zdeněk	Baxa	M	Ing.		50	obchodní zástupce	Soběkury	99	80	0
-3204	558346	1	2	901	2	Marie	Staňková	F			60	důchodce	Soběkury	99	80	0
-3204	558346	1	2	901	3	Vladimír	Regner	M			38	podnikatel	Soběkury	99	80	0
-3204	558346	1	2	901	4	Dušan	Oberdőrfer	M			34	obchodní zástupce	Soběkury	99	80	0
-3204	558346	1	2	901	5	Jiří	Hodan	M			35	soukromý zemědělec	Soběkury	99	80	0
-3204	558346	1	2	901	6	Josef	Voller	M			37	skladník	Soběkury	99	80	0
-3204	558346	1	2	901	7	Alena	Čížková	F			39	pokladní	Soběkury	99	80	0
-3204	558346	1	2	901	8	Jarmila	Turková	F			48	ošetřovatel	Soběkury	47	80	0
-3204	558346	1	2	901	9	Luboš	Kadeřábek	M			45	řidič	Soběkury	99	80	0
-3204	558346	1	2	901	10	Karel	Urbánek	M			39	podnikatel	Soběkury	99	80	0
-3204	558346	1	2	901	11	Vladimír	Strejc	M			53	podnikatel	Soběkury	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3204	558346	1	1	902	1	Miroslava	Vítková			56	starostka obce	Horušany	99	80	0	F
+3204	558346	1	2	901	1	Zdeněk	Baxa	Ing.		50	obchodní zástupce	Soběkury	99	80	0	M
+3204	558346	1	1	902	2	Valter	Wawrek			39	vedoucí výroby	Horušany	99	80	0	M
+3204	558346	1	2	901	2	Marie	Staňková			60	důchodce	Soběkury	99	80	0	F
+3204	558346	1	1	902	3	Vlasta	Zralá			40	pedagogická pracovnice	Horušany	99	80	0	F
+3204	558346	1	2	901	3	Vladimír	Regner			38	podnikatel	Soběkury	99	80	0	M
+3204	558346	1	1	902	4	Roman	Kindl			32	technik	Horušany	99	80	0	M
+3204	558346	1	2	901	4	Dušan	Oberdőrfer			34	obchodní zástupce	Soběkury	99	80	0	M
+3204	558346	1	1	902	5	Stanislava	Kőnigsmarková			37	podnikatelka	Horušany	99	80	0	F
+3204	558346	1	2	901	5	Jiří	Hodan			35	soukromý zemědělec	Soběkury	99	80	0	M
+3204	558346	1	1	902	6	Libor	Štolcpart			46	podnikatel	Horušany	99	80	0	M
+3204	558346	1	2	901	6	Josef	Voller			37	skladník	Soběkury	99	80	0	M
+3204	558346	1	1	902	7	Petr	Hranáč			55	dělník	Horušany	99	80	0	M
+3204	558346	1	2	901	7	Alena	Čížková			39	pokladní	Soběkury	99	80	0	F
+3204	558346	1	1	902	8	Josef	Kuneš			54	dělník	Horušany	99	80	0	M
+3204	558346	1	2	901	8	Jarmila	Turková			48	ošetřovatel	Soběkury	47	80	0	F
+3204	558346	1	1	902	9	Václav	Konůpek			38	technik	Horušany	99	80	0	M
+3204	558346	1	2	901	9	Luboš	Kadeřábek			45	řidič	Soběkury	99	80	0	M
+3204	558346	1	1	902	10	Vlastimil	Kindl			46	řidič	Horušany	99	80	0	M
+3204	558346	1	2	901	10	Karel	Urbánek			39	podnikatel	Soběkury	99	80	0	M
+3204	558346	1	1	902	11	Zdeněk	Krs			34	podnikatel	Horušany	99	80	0	M
+3204	558346	1	2	901	11	Vladimír	Strejc			53	podnikatel	Soběkury	99	80	0	M

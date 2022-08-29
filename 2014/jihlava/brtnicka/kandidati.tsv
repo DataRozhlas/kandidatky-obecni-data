@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6102	590371	1	1	801	1	Jaroslav	Eliáš	M			68	důchodce	Brtnička	99	80	0
-6102	590371	1	2	902	1	Michal	Sobotka	M			27	řidič	Brtnička	99	80	0
-6102	590371	1	2	902	2	Stanislava	Čermáková	F			51	dělník	Brtnička	99	80	0
-6102	590371	1	2	902	3	Martin	Pokorný	M			38	OSVČ	Brtnička	99	80	0
-6102	590371	1	2	902	4	Pavlína	Policarová	F			42	pracovnice na poště	Brtnička	99	80	0
-6102	590371	1	2	902	5	Martin	Jakvid	M			38	šéfkuchař	Brtnička	99	80	0
-6102	590371	1	2	902	6	Josef	Berka	M			41	OSVČ	Brtnička	99	80	0
-6102	590371	1	3	802	1	Václav	Eliáš	M			64	důchodce	Brtnička	99	80	0
-6102	590371	1	4	803	1	Karel	Václavík	M			56	dělník	Brtnička	99	80	0
-6102	590371	1	5	901	1	Miloš	Kalců	M			31	OSVČ	Brtnička	99	80	0
-6102	590371	1	5	901	2	Andrea	Teichmanová	F			23	pracovník úklidu	Brtnička	99	80	0
-6102	590371	1	5	901	3	Lada	Teichmanová	F			20	OSVČ	Brtnička	99	80	0
-6102	590371	1	5	901	4	Jan	Ampapa	M	Ing.		64	důchodce	Brtnička	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6102	590371	1	1	801	1	Jaroslav	Eliáš			68	důchodce	Brtnička	99	80	0	M
+6102	590371	1	2	902	1	Michal	Sobotka			27	řidič	Brtnička	99	80	0	M
+6102	590371	1	3	802	1	Václav	Eliáš			64	důchodce	Brtnička	99	80	0	M
+6102	590371	1	4	803	1	Karel	Václavík			56	dělník	Brtnička	99	80	0	M
+6102	590371	1	5	901	1	Miloš	Kalců			31	OSVČ	Brtnička	99	80	0	M
+6102	590371	1	2	902	2	Stanislava	Čermáková			51	dělník	Brtnička	99	80	0	F
+6102	590371	1	5	901	2	Andrea	Teichmanová			23	pracovník úklidu	Brtnička	99	80	0	F
+6102	590371	1	2	902	3	Martin	Pokorný			38	OSVČ	Brtnička	99	80	0	M
+6102	590371	1	5	901	3	Lada	Teichmanová			20	OSVČ	Brtnička	99	80	0	F
+6102	590371	1	2	902	4	Pavlína	Policarová			42	pracovnice na poště	Brtnička	99	80	0	F
+6102	590371	1	5	901	4	Jan	Ampapa	Ing.		64	důchodce	Brtnička	99	80	0	M
+6102	590371	1	2	902	5	Martin	Jakvid			38	šéfkuchař	Brtnička	99	80	0	M
+6102	590371	1	2	902	6	Josef	Berka			41	OSVČ	Brtnička	99	80	0	M

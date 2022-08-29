@@ -1,41 +1,41 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	541397	1	1	902	1	Zdeněk	Poslušný	M			57	automechanik	Hojšín	99	80	0
-2111	541397	1	1	902	2	Petr	Kabyl	M			55	starosta	Drážkov	99	80	0
-2111	541397	1	1	902	3	Miroslav	Votruba	M			51	technik	Svatý Jan	99	80	0
-2111	541397	1	1	902	4	Věra	Štefanová	F	Ing.		50	vychovatelka	Hrachov	99	80	0
-2111	541397	1	1	902	5	Roman	Procházka	M	Ing.		45	technik	Drážkov	99	80	0
-2111	541397	1	1	902	6	Libuše	Kabylová	F			30	učitelka	Drážkov	99	80	0
-2111	541397	1	1	902	7	Ivan	Skalický	M			46	soukromý podnikatel	Bražná	99	80	0
-2111	541397	1	1	902	8	Gabriela	Falcová	F	Mgr.		44	učitelka	Drážkov	99	80	0
-2111	541397	1	2	801	1	Filip	Wágner	M			19	student	Hrachov	99	80	0
-2111	541397	1	3	1	1	Milan	Kakeš	M	Ing.		44	agronom	Řadovy	99	1	0
-2111	541397	1	3	1	2	Martin	Falc	M			45	vedoucí dílen	Drážkov	99	1	0
-2111	541397	1	3	1	3	Radim	Měchura	M			35	tiskař	Hrachov	1	1	0
-2111	541397	1	3	1	4	Václav	Hrubý	M			35	obchodní zástupce	Bražná	99	1	0
-2111	541397	1	3	1	5	Jitka	Procházková	F			42	sociální pracovník	Drážkov	99	1	0
-2111	541397	1	3	1	6	Miroslava	Švagrová	F			34	laborantka	Brzina	99	1	0
-2111	541397	1	3	1	7	Stanislav	Barhoň	M			39	tiskař	Drážkov	99	1	0
-2111	541397	1	3	1	8	Matěj	Falc	M			18	student	Drážkov	99	1	0
-2111	541397	1	3	1	9	Vladimír	Kohout	M			45	obchodní zástupce	Skrýšov	1	1	0
-2111	541397	1	3	1	10	Jiří	Hájek	M			25	OSVČ	Hrachov	99	1	0
-2111	541397	1	3	1	11	Jiří	Čihák	M			41	řidič	Svatý Jan	1	1	0
-2111	541397	1	4	721	1	Karel	Kloud	M	Ing.		34	soukromý zemědělec	Bražná	99	721	0
-2111	541397	1	4	721	2	Dagmar	Muláčková	F			20	studentka	Bražná	99	721	0
-2111	541397	1	4	721	3	Helena	Kloudová	F	Mgr.		27	fyzioterapeutka	Bražná	99	721	0
-2111	541397	1	4	721	4	Jaroslav	Muláček	M			66	důchodce	Bražná	99	721	0
-2111	541397	1	4	721	5	Marie	Muláčková	F			65	důchodkyně	Bražná	99	721	0
-2111	541397	1	4	721	6	Josef	Pšeničný	M			56	dělník	Bražná	99	721	0
-2111	541397	1	4	721	7	Jáchym	Veverka	M			18	student	Řadovy	99	721	0
-2111	541397	1	4	721	8	Antonín	Kloud	M			88	důchodce	Bražná	99	721	0
-2111	541397	1	4	721	9	Jakub	Skalický	M			18	student	Bražná	99	721	0
-2111	541397	1	4	721	10	Luboš	Krubner	M			26	student	Hrachov	99	721	0
-2111	541397	1	4	721	11	Jaroslav	Muláček	M			44	truhlář	Bražná	99	721	0
-2111	541397	1	5	901	1	Stanislav	Votlučka	M			38	traktorista	Bražná	99	80	0
-2111	541397	1	5	901	2	Vladimír	Kuncl	M	Ing.		54	soukromý zemědělec	Brzina	99	80	0
-2111	541397	1	5	901	3	Zuzana	Strnadová	F			43	kreslířka	Skrýšov	99	80	0
-2111	541397	1	5	901	4	Jiří	Vlásek	M			38	soukromý podnikatel	Hrachov	99	80	0
-2111	541397	1	5	901	5	Josef	Macke	M			42	traktorista	Skrýšov	99	80	0
-2111	541397	1	5	901	6	Vilém	Hodouš	M			36	soukromý podnikatel	Hrachov	99	80	0
-2111	541397	1	5	901	7	Martin	Procházka	M			32	soukromý zemědělec	Skrýšov	99	80	0
-2111	541397	1	5	901	8	Eva	Kabylová	F			52	v domácnosti	Drážkov	99	80	0
-2111	541397	1	5	901	9	Lenka	Soukupová	F			46	úřednice	Hrachov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	541397	1	1	902	1	Zdeněk	Poslušný			57	automechanik	Hojšín	99	80	0	M
+2111	541397	1	2	801	1	Filip	Wágner			19	student	Hrachov	99	80	0	M
+2111	541397	1	3	1	1	Milan	Kakeš	Ing.		44	agronom	Řadovy	99	1	0	M
+2111	541397	1	4	721	1	Karel	Kloud	Ing.		34	soukromý zemědělec	Bražná	99	721	0	M
+2111	541397	1	5	901	1	Stanislav	Votlučka			38	traktorista	Bražná	99	80	0	M
+2111	541397	1	1	902	2	Petr	Kabyl			55	starosta	Drážkov	99	80	0	M
+2111	541397	1	3	1	2	Martin	Falc			45	vedoucí dílen	Drážkov	99	1	0	M
+2111	541397	1	4	721	2	Dagmar	Muláčková			20	studentka	Bražná	99	721	0	F
+2111	541397	1	5	901	2	Vladimír	Kuncl	Ing.		54	soukromý zemědělec	Brzina	99	80	0	M
+2111	541397	1	1	902	3	Miroslav	Votruba			51	technik	Svatý Jan	99	80	0	M
+2111	541397	1	3	1	3	Radim	Měchura			35	tiskař	Hrachov	1	1	0	M
+2111	541397	1	4	721	3	Helena	Kloudová	Mgr.		27	fyzioterapeutka	Bražná	99	721	0	F
+2111	541397	1	5	901	3	Zuzana	Strnadová			43	kreslířka	Skrýšov	99	80	0	F
+2111	541397	1	1	902	4	Věra	Štefanová	Ing.		50	vychovatelka	Hrachov	99	80	0	F
+2111	541397	1	3	1	4	Václav	Hrubý			35	obchodní zástupce	Bražná	99	1	0	M
+2111	541397	1	4	721	4	Jaroslav	Muláček			66	důchodce	Bražná	99	721	0	M
+2111	541397	1	5	901	4	Jiří	Vlásek			38	soukromý podnikatel	Hrachov	99	80	0	M
+2111	541397	1	1	902	5	Roman	Procházka	Ing.		45	technik	Drážkov	99	80	0	M
+2111	541397	1	3	1	5	Jitka	Procházková			42	sociální pracovník	Drážkov	99	1	0	F
+2111	541397	1	4	721	5	Marie	Muláčková			65	důchodkyně	Bražná	99	721	0	F
+2111	541397	1	5	901	5	Josef	Macke			42	traktorista	Skrýšov	99	80	0	M
+2111	541397	1	1	902	6	Libuše	Kabylová			30	učitelka	Drážkov	99	80	0	F
+2111	541397	1	3	1	6	Miroslava	Švagrová			34	laborantka	Brzina	99	1	0	F
+2111	541397	1	4	721	6	Josef	Pšeničný			56	dělník	Bražná	99	721	0	M
+2111	541397	1	5	901	6	Vilém	Hodouš			36	soukromý podnikatel	Hrachov	99	80	0	M
+2111	541397	1	1	902	7	Ivan	Skalický			46	soukromý podnikatel	Bražná	99	80	0	M
+2111	541397	1	3	1	7	Stanislav	Barhoň			39	tiskař	Drážkov	99	1	0	M
+2111	541397	1	4	721	7	Jáchym	Veverka			18	student	Řadovy	99	721	0	M
+2111	541397	1	5	901	7	Martin	Procházka			32	soukromý zemědělec	Skrýšov	99	80	0	M
+2111	541397	1	1	902	8	Gabriela	Falcová	Mgr.		44	učitelka	Drážkov	99	80	0	F
+2111	541397	1	3	1	8	Matěj	Falc			18	student	Drážkov	99	1	0	M
+2111	541397	1	4	721	8	Antonín	Kloud			88	důchodce	Bražná	99	721	0	M
+2111	541397	1	5	901	8	Eva	Kabylová			52	v domácnosti	Drážkov	99	80	0	F
+2111	541397	1	3	1	9	Vladimír	Kohout			45	obchodní zástupce	Skrýšov	1	1	0	M
+2111	541397	1	4	721	9	Jakub	Skalický			18	student	Bražná	99	721	0	M
+2111	541397	1	5	901	9	Lenka	Soukupová			46	úřednice	Hrachov	99	80	0	F
+2111	541397	1	3	1	10	Jiří	Hájek			25	OSVČ	Hrachov	99	1	0	M
+2111	541397	1	4	721	10	Luboš	Krubner			26	student	Hrachov	99	721	0	M
+2111	541397	1	3	1	11	Jiří	Čihák			41	řidič	Svatý Jan	1	1	0	M
+2111	541397	1	4	721	11	Jaroslav	Muláček			44	truhlář	Bražná	99	721	0	M

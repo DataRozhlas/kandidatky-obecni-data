@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2104	533483	1	1	901	1	František	Jirák	M	Ing.		65	důchodce	Libodřice	99	80	A
-2104	533483	1	1	901	2	Jaroslav	Bejlek	M			51	podnikatel	Libodřice	99	80	A
-2104	533483	1	1	901	3	Oldřich	Marek	M			51	technik	Libodřice	99	80	A
-2104	533483	1	1	901	4	Jana	Pohanková	F			51	admin. pracovnice	Libodřice	99	80	A
-2104	533483	1	1	901	5	Václav	Staněk	M			49	technik	Libodřice	99	80	A
-2104	533483	1	1	901	6	Milan	Sládeček	M			46	zaměstnanec	Libodřice	99	80	A
-2104	533483	1	1	901	7	Jaromír	Svoboda	M			56	podnikatel	Libodřice	99	80	A
-2104	533483	1	2	902	1	Pavel	Škopek	M			29	technik lisovny	Libodřice	99	80	A
-2104	533483	1	2	902	2	Adam	Baško	M			29	obchodní zástupce	Libodřice	99	80	A
-2104	533483	1	2	902	3	Martin	Souček	M	Mgr.		34	provozní pensionu	Libodřice	99	80	A
-2104	533483	1	2	902	4	Marek	Hovorka	M			28	IT technik	Libodřice	99	80	A
-2104	533483	1	2	902	5	Václav	Dittrich	M			29	obsluha strojního zařízení	Libodřice	99	80	A
-2104	533483	1	2	902	6	Eliška	Pánková	F			25	OSVČ	Libodřice	99	80	A
-2104	533483	1	2	902	7	Pavel	Petana	M			39	obsluha strojního zařízení	Libodřice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2104	533483	1	1	901	1	František	Jirák	Ing.		65	důchodce	Libodřice	99	80	A	M
+2104	533483	1	2	902	1	Pavel	Škopek			29	technik lisovny	Libodřice	99	80	A	M
+2104	533483	1	1	901	2	Jaroslav	Bejlek			51	podnikatel	Libodřice	99	80	A	M
+2104	533483	1	2	902	2	Adam	Baško			29	obchodní zástupce	Libodřice	99	80	A	M
+2104	533483	1	1	901	3	Oldřich	Marek			51	technik	Libodřice	99	80	A	M
+2104	533483	1	2	902	3	Martin	Souček	Mgr.		34	provozní pensionu	Libodřice	99	80	A	M
+2104	533483	1	1	901	4	Jana	Pohanková			51	admin. pracovnice	Libodřice	99	80	A	F
+2104	533483	1	2	902	4	Marek	Hovorka			28	IT technik	Libodřice	99	80	A	M
+2104	533483	1	1	901	5	Václav	Staněk			49	technik	Libodřice	99	80	A	M
+2104	533483	1	2	902	5	Václav	Dittrich			29	obsluha strojního zařízení	Libodřice	99	80	A	M
+2104	533483	1	1	901	6	Milan	Sládeček			46	zaměstnanec	Libodřice	99	80	A	M
+2104	533483	1	2	902	6	Eliška	Pánková			25	OSVČ	Libodřice	99	80	A	F
+2104	533483	1	1	901	7	Jaromír	Svoboda			56	podnikatel	Libodřice	99	80	A	M
+2104	533483	1	2	902	7	Pavel	Petana			39	obsluha strojního zařízení	Libodřice	99	80	A	M

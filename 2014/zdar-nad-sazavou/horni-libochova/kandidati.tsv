@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	595659	1	1	902	1	Jindřich	Zahálka	M			59	zaměstnanec OÚ	Horní Libochová	99	80	0
-6105	595659	1	1	902	2	Ludvík	Vařeka	M			55	opravář	Horní Libochová	99	80	0
-6105	595659	1	1	902	3	Pavel	Drlíček	M			50	zámečník	Horní Libochová	99	80	0
-6105	595659	1	1	902	4	Jiří	Ambrož	M			36	opravář	Horní Libochová	99	80	0
-6105	595659	1	1	902	5	Antonín	Rőssler	M			41	podnikatel	Horní Libochová	99	80	0
-6105	595659	1	1	902	6	Pavel	Dvořák	M			34	učitel	Horní Libochová	99	80	0
-6105	595659	1	2	901	1	Bohuslav	Remer	M			46	opravář	Horní Libochová	99	80	0
-6105	595659	1	2	901	2	Radek	Vidourek	M			46	OSVČ	Horní Libochová	99	80	0
-6105	595659	1	2	901	3	Michal	Blaheta	M			28	technik IT	Horní Libochová	99	80	0
-6105	595659	1	2	901	4	Jana	Musilová	F			32	cukrářka	Dolní Hlíny	99	80	0
-6105	595659	1	2	901	5	Jana	Burešová	F			42	podnikatelka	Horní Libochová	99	80	0
-6105	595659	1	2	901	6	Václav	Horký	M			50	řidič	Horní Libochová	99	80	0
-6105	595659	1	2	901	7	Oldřich	Vala	M			44	svářeč	Horní Libochová	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	595659	1	1	902	1	Jindřich	Zahálka			59	zaměstnanec OÚ	Horní Libochová	99	80	0	M
+6105	595659	1	2	901	1	Bohuslav	Remer			46	opravář	Horní Libochová	99	80	0	M
+6105	595659	1	1	902	2	Ludvík	Vařeka			55	opravář	Horní Libochová	99	80	0	M
+6105	595659	1	2	901	2	Radek	Vidourek			46	OSVČ	Horní Libochová	99	80	0	M
+6105	595659	1	1	902	3	Pavel	Drlíček			50	zámečník	Horní Libochová	99	80	0	M
+6105	595659	1	2	901	3	Michal	Blaheta			28	technik IT	Horní Libochová	99	80	0	M
+6105	595659	1	1	902	4	Jiří	Ambrož			36	opravář	Horní Libochová	99	80	0	M
+6105	595659	1	2	901	4	Jana	Musilová			32	cukrářka	Dolní Hlíny	99	80	0	F
+6105	595659	1	1	902	5	Antonín	Rőssler			41	podnikatel	Horní Libochová	99	80	0	M
+6105	595659	1	2	901	5	Jana	Burešová			42	podnikatelka	Horní Libochová	99	80	0	F
+6105	595659	1	1	902	6	Pavel	Dvořák			34	učitel	Horní Libochová	99	80	0	M
+6105	595659	1	2	901	6	Václav	Horký			50	řidič	Horní Libochová	99	80	0	M
+6105	595659	1	2	901	7	Oldřich	Vala			44	svářeč	Horní Libochová	99	80	0	M

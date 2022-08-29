@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4201	562513	1	1	902	1	Zdeněk	Pánek	M	JUDr.		67	advokát	Mezná	99	80	0
-4201	562513	1	1	902	2	Jan	Havel	M			69	podnikatel	Hřensko	99	80	0
-4201	562513	1	1	902	3	Robert	Mareš	M	Bc.		51	státní zaměstnanec	Mezná	99	80	0
-4201	562513	1	1	902	4	Roman	Pluháček	M			43	podnikatel	Mezná	99	80	0
-4201	562513	1	1	902	5	Emilie	Vrzalová	F	Mgr.		67	důchodkyně	Hřensko	99	80	0
-4201	562513	1	1	902	6	Štěpánka	Malinová	F			54	realitní makléř	Hřensko	99	80	0
-4201	562513	1	1	902	7	Alena	Tomášková	F	Mgr.		55	ředitelka ZŠ a MŠ	Mezná	99	80	0
-4201	562513	1	1	902	8	Věra	Zárubová	F			60	podnikatelka	Mezná	99	80	0
-4201	562513	1	2	901	1	Stanislav	Křížek	M			61	podnikatel	Hřensko	99	80	0
-4201	562513	1	2	901	2	Alena	Pačáková	F			47	podnikatel	Mezná	99	80	0
-4201	562513	1	2	901	3	Lubomír	Toušek	M			50	podnikatel	Hřensko	99	80	0
-4201	562513	1	2	901	4	Ladislav	Friš	M			44	státní zaměstnanec	Hřensko	99	80	0
-4201	562513	1	2	901	5	Vlasta	Hrušková	F			67	důchodkyně	Hřensko	99	80	0
-4201	562513	1	2	901	6	Vlastimil	Peroutka	M			36	státní zaměstnanec	Hřensko	99	80	0
-4201	562513	1	2	901	7	Vladislava	Buryánková	F			43	podnikatel	Mezná	99	80	0
-4201	562513	1	2	901	8	František	Jiral	M			53	dělník	Hřensko	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4201	562513	1	1	902	1	Zdeněk	Pánek	JUDr.		67	advokát	Mezná	99	80	0	M
+4201	562513	1	2	901	1	Stanislav	Křížek			61	podnikatel	Hřensko	99	80	0	M
+4201	562513	1	1	902	2	Jan	Havel			69	podnikatel	Hřensko	99	80	0	M
+4201	562513	1	2	901	2	Alena	Pačáková			47	podnikatel	Mezná	99	80	0	F
+4201	562513	1	1	902	3	Robert	Mareš	Bc.		51	státní zaměstnanec	Mezná	99	80	0	M
+4201	562513	1	2	901	3	Lubomír	Toušek			50	podnikatel	Hřensko	99	80	0	M
+4201	562513	1	1	902	4	Roman	Pluháček			43	podnikatel	Mezná	99	80	0	M
+4201	562513	1	2	901	4	Ladislav	Friš			44	státní zaměstnanec	Hřensko	99	80	0	M
+4201	562513	1	1	902	5	Emilie	Vrzalová	Mgr.		67	důchodkyně	Hřensko	99	80	0	F
+4201	562513	1	2	901	5	Vlasta	Hrušková			67	důchodkyně	Hřensko	99	80	0	F
+4201	562513	1	1	902	6	Štěpánka	Malinová			54	realitní makléř	Hřensko	99	80	0	F
+4201	562513	1	2	901	6	Vlastimil	Peroutka			36	státní zaměstnanec	Hřensko	99	80	0	M
+4201	562513	1	1	902	7	Alena	Tomášková	Mgr.		55	ředitelka ZŠ a MŠ	Mezná	99	80	0	F
+4201	562513	1	2	901	7	Vladislava	Buryánková			43	podnikatel	Mezná	99	80	0	F
+4201	562513	1	1	902	8	Věra	Zárubová			60	podnikatelka	Mezná	99	80	0	F
+4201	562513	1	2	901	8	František	Jiral			53	dělník	Hřensko	99	80	0	M

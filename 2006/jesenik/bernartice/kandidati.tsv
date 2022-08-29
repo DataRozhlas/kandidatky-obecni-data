@@ -1,36 +1,36 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7101	524891	1	1	53	1	Mojmír	Michálek	M	Ing.		47	starosta obce	Bernartice	53	53	0
-7101	524891	1	1	53	2	Milan	Horáček	M			56	revizní technik	Bernartice	99	53	0
-7101	524891	1	1	53	3	Alois	Chromík	M			52	řezník-uzenář	Bernartice	99	53	0
-7101	524891	1	1	53	4	Jiří	Bečička	M			33	soukromě hospodařící rolník	Buková	99	53	0
-7101	524891	1	1	53	5	Ladislav	Michalík	M			33	živnostník	Bernartice	99	53	0
-7101	524891	1	1	53	6	Bohumila	Ptáčková	F			31	úřednice	Bernartice	99	53	0
-7101	524891	1	1	53	7	Petr	Stolička	M			28	kovář	Bernartice	99	53	0
-7101	524891	1	2	1	1	Jozef	Palovčík	M			42	živnostník	Bernartice	99	1	0
-7101	524891	1	2	1	2	Václav	Mlčák	M			31	varhanář	Bernartice	99	1	0
-7101	524891	1	2	1	3	Libuše	Antalová	F			50	terapeutka	Bernartice	99	1	0
-7101	524891	1	2	1	4	Vlasta	Osmančíková	F			26	učitelka ZŠ	Bernartice	99	1	0
-7101	524891	1	2	1	5	Václava	Valčíková	F			60	zdravotní sestra	Bernartice	99	1	0
-7101	524891	1	2	1	6	Vlasta	Šupolová	F			57	technik	Bernartice	99	1	0
-7101	524891	1	2	1	7	Marie	Michálková	F			48	porodní asistentka	Bernartice	1	1	0
-7101	524891	1	3	47	1	Václav	Stohel	M	Ing.		64	důchodce	Bernartice	47	47	0
-7101	524891	1	3	47	2	Vladimír	Valenta	M			65	důchodce	Bernartice	47	47	0
-7101	524891	1	3	47	3	Libor	Ptáček	M			32	spojový technik	Bernartice	99	47	0
-7101	524891	1	3	47	4	Milan	Maník	M	Ing.		45	technik	Bernartice	99	47	0
-7101	524891	1	3	47	5	Jaroslava	Slúková	F			56	mistrová v OP	Buková	99	47	0
-7101	524891	1	3	47	6	Věra	Vyležíková	F			58	instruktorka Jednoty	Bernartice	99	47	0
-7101	524891	1	3	47	7	Josef	Indruch	M			56	zedník	Bernartice	47	47	0
-7101	524891	1	4	901	1	Marek	Záhorský	M			22	student	Bernartice	99	80	0
-7101	524891	1	4	901	2	Tomáš	Dubovan	M	Bc.		24	student	Bernartice	99	80	0
-7101	524891	1	4	901	3	Libor	Antal	M			24	podnikatel	Bernartice	99	80	0
-7101	524891	1	4	901	4	Josef	Kubala	M			28	podnikatel	Bernartice	99	80	0
-7101	524891	1	4	901	5	Miroslav	Hýbl	M			24	umělecký kovář	Bernartice	99	80	0
-7101	524891	1	4	901	6	Ondrej	Žiga	M			34	opravář zemědělských strojů	Bernartice	99	80	0
-7101	524891	1	4	901	7	Zlata	Palovčíková	F			45	učitelka MŠ	Bernartice	99	80	0
-7101	524891	1	5	7	1	Jaroslav	Záhorský	M	Ing.		47	stavbyvedoucí	Bernartice	7	7	0
-7101	524891	1	5	7	2	Lubomír	Vrtek	M			46	učitel	Bernartice	99	7	0
-7101	524891	1	5	7	3	Jan	Zeleňák	M			36	dělník	Bernartice	99	7	0
-7101	524891	1	5	7	4	Roman	Woš	M			22	opravář zemědělských strojů	Bernartice	99	7	0
-7101	524891	1	5	7	5	Lukáš	Minařík	M			26	automechanik	Bernartice	99	7	0
-7101	524891	1	5	7	6	Miloslav	Křápek	M			37	státní zaměstnanec	Bernartice	99	7	0
-7101	524891	1	5	7	7	Renata	Zeleňáková	F			33	servírka	Bernartice	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7101	524891	1	1	53	1	Mojmír	Michálek	Ing.		47	starosta obce	Bernartice	53	53	0	M
+7101	524891	1	2	1	1	Jozef	Palovčík			42	živnostník	Bernartice	99	1	0	M
+7101	524891	1	3	47	1	Václav	Stohel	Ing.		64	důchodce	Bernartice	47	47	0	M
+7101	524891	1	4	901	1	Marek	Záhorský			22	student	Bernartice	99	80	0	M
+7101	524891	1	5	7	1	Jaroslav	Záhorský	Ing.		47	stavbyvedoucí	Bernartice	7	7	0	M
+7101	524891	1	1	53	2	Milan	Horáček			56	revizní technik	Bernartice	99	53	0	M
+7101	524891	1	2	1	2	Václav	Mlčák			31	varhanář	Bernartice	99	1	0	M
+7101	524891	1	3	47	2	Vladimír	Valenta			65	důchodce	Bernartice	47	47	0	M
+7101	524891	1	4	901	2	Tomáš	Dubovan	Bc.		24	student	Bernartice	99	80	0	M
+7101	524891	1	5	7	2	Lubomír	Vrtek			46	učitel	Bernartice	99	7	0	M
+7101	524891	1	1	53	3	Alois	Chromík			52	řezník-uzenář	Bernartice	99	53	0	M
+7101	524891	1	2	1	3	Libuše	Antalová			50	terapeutka	Bernartice	99	1	0	F
+7101	524891	1	3	47	3	Libor	Ptáček			32	spojový technik	Bernartice	99	47	0	M
+7101	524891	1	4	901	3	Libor	Antal			24	podnikatel	Bernartice	99	80	0	M
+7101	524891	1	5	7	3	Jan	Zeleňák			36	dělník	Bernartice	99	7	0	M
+7101	524891	1	1	53	4	Jiří	Bečička			33	soukromě hospodařící rolník	Buková	99	53	0	M
+7101	524891	1	2	1	4	Vlasta	Osmančíková			26	učitelka ZŠ	Bernartice	99	1	0	F
+7101	524891	1	3	47	4	Milan	Maník	Ing.		45	technik	Bernartice	99	47	0	M
+7101	524891	1	4	901	4	Josef	Kubala			28	podnikatel	Bernartice	99	80	0	M
+7101	524891	1	5	7	4	Roman	Woš			22	opravář zemědělských strojů	Bernartice	99	7	0	M
+7101	524891	1	1	53	5	Ladislav	Michalík			33	živnostník	Bernartice	99	53	0	M
+7101	524891	1	2	1	5	Václava	Valčíková			60	zdravotní sestra	Bernartice	99	1	0	F
+7101	524891	1	3	47	5	Jaroslava	Slúková			56	mistrová v OP	Buková	99	47	0	F
+7101	524891	1	4	901	5	Miroslav	Hýbl			24	umělecký kovář	Bernartice	99	80	0	M
+7101	524891	1	5	7	5	Lukáš	Minařík			26	automechanik	Bernartice	99	7	0	M
+7101	524891	1	1	53	6	Bohumila	Ptáčková			31	úřednice	Bernartice	99	53	0	F
+7101	524891	1	2	1	6	Vlasta	Šupolová			57	technik	Bernartice	99	1	0	F
+7101	524891	1	3	47	6	Věra	Vyležíková			58	instruktorka Jednoty	Bernartice	99	47	0	F
+7101	524891	1	4	901	6	Ondrej	Žiga			34	opravář zemědělských strojů	Bernartice	99	80	0	M
+7101	524891	1	5	7	6	Miloslav	Křápek			37	státní zaměstnanec	Bernartice	99	7	0	M
+7101	524891	1	1	53	7	Petr	Stolička			28	kovář	Bernartice	99	53	0	M
+7101	524891	1	2	1	7	Marie	Michálková			48	porodní asistentka	Bernartice	1	1	0	F
+7101	524891	1	3	47	7	Josef	Indruch			56	zedník	Bernartice	47	47	0	M
+7101	524891	1	4	901	7	Zlata	Palovčíková			45	učitelka MŠ	Bernartice	99	80	0	F
+7101	524891	1	5	7	7	Renata	Zeleňáková			33	servírka	Bernartice	99	7	0	F

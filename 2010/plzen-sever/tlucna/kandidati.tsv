@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3205	559491	1	1	7	1	Stanislav	Volf	M			55	starosta	Tlučná	99	7	0
-3205	559491	1	1	7	2	Václav	Vítek	M	Ing.		56	místostarosta	Tlučná	99	7	0
-3205	559491	1	1	7	3	Pavel	Rádl	M	Ing.		54	ved. program. analytik	Tlučná	99	7	0
-3205	559491	1	1	7	4	Petr	Holub	M	Mgr.		42	ved. spec. komunikace	Tlučná	99	7	0
-3205	559491	1	1	7	5	Pavel	Špirk	M	Bc.		55	bankovní úředník	Tlučná	99	7	0
-3205	559491	1	1	7	6	Jiří	Plaček	M	Mgr.		62	učitel	Tlučná	99	7	0
-3205	559491	1	1	7	7	Pavel	Liška	M	Bc.		45	samostatný investiční technik	Tlučná	99	7	0
-3205	559491	1	1	7	8	Antonín	Pospíšil	M	JUDr.		50	inspektor	Tlučná	99	7	0
-3205	559491	1	1	7	9	Martin	Liška	M			33	hlavní stavbyvedoucí	Tlučná	99	7	0
-3205	559491	1	1	7	10	Jaroslav	Netrval	M			59	konstruktér	Tlučná	99	7	0
-3205	559491	1	1	7	11	Dagmar	Šilhanová	F			51	administrativní pracovnice	Tlučná	99	7	0
-3205	559491	1	1	7	12	Josef	Filip	M			56	údržbář	Tlučná	99	7	0
-3205	559491	1	1	7	13	Karel	Hajšman	M			72	důchodce	Tlučná	99	7	0
-3205	559491	1	1	7	14	Lubomír	Filip	M			70	důchodce	Tlučná	99	7	0
-3205	559491	1	1	7	15	Radka	Radlingerová	F			33	administrativní pracovnice	Tlučná	7	7	0
-3205	559491	1	2	721	1	Lucie	Menclová	F	JUDr.		27	právnička	Tlučná	99	721	0
-3205	559491	1	2	721	2	Petr	Bitengl	M			35	podnikatel	Tlučná	721	721	0
-3205	559491	1	2	721	3	Tomáš	Němec	M			30	vedoucí benzinové pumpy	Tlučná	99	721	0
-3205	559491	1	2	721	4	Václava	Sporková	F			27	vedoucí kultur. servisu Esprit	Tlučná	99	721	0
-3205	559491	1	2	721	5	Jana	Menclová	F	Bc.		60	vedoucí personálního oddělení	Tlučná	99	721	0
-3205	559491	1	2	721	6	Roman	Raab	M			44	podnikatel	Tlučná	99	721	0
-3205	559491	1	2	721	7	Roman	Vrba	M			34	technolog výroby	Tlučná	99	721	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3205	559491	1	1	7	1	Stanislav	Volf			55	starosta	Tlučná	99	7	0	M
+3205	559491	1	2	721	1	Lucie	Menclová	JUDr.		27	právnička	Tlučná	99	721	0	F
+3205	559491	1	1	7	2	Václav	Vítek	Ing.		56	místostarosta	Tlučná	99	7	0	M
+3205	559491	1	2	721	2	Petr	Bitengl			35	podnikatel	Tlučná	721	721	0	M
+3205	559491	1	1	7	3	Pavel	Rádl	Ing.		54	ved. program. analytik	Tlučná	99	7	0	M
+3205	559491	1	2	721	3	Tomáš	Němec			30	vedoucí benzinové pumpy	Tlučná	99	721	0	M
+3205	559491	1	1	7	4	Petr	Holub	Mgr.		42	ved. spec. komunikace	Tlučná	99	7	0	M
+3205	559491	1	2	721	4	Václava	Sporková			27	vedoucí kultur. servisu Esprit	Tlučná	99	721	0	F
+3205	559491	1	1	7	5	Pavel	Špirk	Bc.		55	bankovní úředník	Tlučná	99	7	0	M
+3205	559491	1	2	721	5	Jana	Menclová	Bc.		60	vedoucí personálního oddělení	Tlučná	99	721	0	F
+3205	559491	1	1	7	6	Jiří	Plaček	Mgr.		62	učitel	Tlučná	99	7	0	M
+3205	559491	1	2	721	6	Roman	Raab			44	podnikatel	Tlučná	99	721	0	M
+3205	559491	1	1	7	7	Pavel	Liška	Bc.		45	samostatný investiční technik	Tlučná	99	7	0	M
+3205	559491	1	2	721	7	Roman	Vrba			34	technolog výroby	Tlučná	99	721	0	M
+3205	559491	1	1	7	8	Antonín	Pospíšil	JUDr.		50	inspektor	Tlučná	99	7	0	M
+3205	559491	1	1	7	9	Martin	Liška			33	hlavní stavbyvedoucí	Tlučná	99	7	0	M
+3205	559491	1	1	7	10	Jaroslav	Netrval			59	konstruktér	Tlučná	99	7	0	M
+3205	559491	1	1	7	11	Dagmar	Šilhanová			51	administrativní pracovnice	Tlučná	99	7	0	F
+3205	559491	1	1	7	12	Josef	Filip			56	údržbář	Tlučná	99	7	0	M
+3205	559491	1	1	7	13	Karel	Hajšman			72	důchodce	Tlučná	99	7	0	M
+3205	559491	1	1	7	14	Lubomír	Filip			70	důchodce	Tlučná	99	7	0	M
+3205	559491	1	1	7	15	Radka	Radlingerová			33	administrativní pracovnice	Tlučná	7	7	0	F

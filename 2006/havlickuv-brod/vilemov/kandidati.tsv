@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	569712	1	1	47	1	Jiří	Vaňkovský	M			47	ředitel provozovny	Vilémov	99	47	0
-6101	569712	1	1	47	2	Jana	Machková	F			47	podnikatelka	Vilémov	47	47	0
-6101	569712	1	1	47	3	Josef	Hladík	M			65	důchodce	Vilémov	47	47	0
-6101	569712	1	1	47	4	Vladimír	Dvořák	M			54	elektroúdržbář	Vilémov	47	47	0
-6101	569712	1	1	47	5	Naďa	Moravcová	F			40	podnikatelka	Vilémov	99	47	0
-6101	569712	1	1	47	6	Jiří	Čermák	M			39	servisní technik	Klášter	99	47	0
-6101	569712	1	1	47	7	Josef	Jelínek	M			59	strojní dělník	Vilémov	99	47	0
-6101	569712	1	1	47	8	Marie	Pechová	F			61	důchodkyně	Hostovlice	99	47	0
-6101	569712	1	1	47	9	Marie	Provazníková	F			66	důchodkyně	Vilémov	47	47	0
-6101	569712	1	1	47	10	Vladimíra	Fröhlichová	F			54	prac. v zemědělství	Vilémov	47	47	0
-6101	569712	1	1	47	11	Jiřina	Růžičková	F			64	důchodkyně	Vilémov	99	47	0
-6101	569712	1	2	53	1	Jaroslava	Dvořáková	F			57	starostka	Vilémov	53	53	0
-6101	569712	1	2	53	2	Miloš	Růžička	M	Ing.		45	mechanizátor	Vilémov	99	53	0
-6101	569712	1	2	53	3	Josef	Novotný	M			59	vedoucí stav. sk.	Vilémov	99	53	0
-6101	569712	1	2	53	4	Marie	Cemperová	F			60	důchodkyně	Spytice	53	53	0
-6101	569712	1	2	53	5	Pavlína	Petříčková	F			37	provoz. zaměst.	Klášter	99	53	0
-6101	569712	1	2	53	6	Václav	Dalibor	M			53	brusič skla	Vilémov	99	53	0
-6101	569712	1	2	53	7	Bohumil	Vavruška	M			34	soukr. zemědělec	Vilémov	99	53	0
-6101	569712	1	2	53	8	Lenka	Homolková	F			31	úřednice	Hostovlice	99	53	0
-6101	569712	1	2	53	9	Karel	Kosina	M			64	důchodce	Klášter	53	53	0
-6101	569712	1	2	53	10	Karel	Bureš	M	Ing.		70	důchodce	Klášter	99	53	0
-6101	569712	1	2	53	11	Zdeněk	Cemper	M			36	podnikatel	Spytice	99	53	0
-6101	569712	1	3	901	1	Radim	Krátký	M			38	podnikatel	Vilémov	99	80	0
-6101	569712	1	3	901	2	Lubomír	Sobotka	M	Ing.		41	projektant HÚL	Vilémov	99	80	0
-6101	569712	1	3	901	3	Marie	Suchomelová	F		DiS.	39	inspektorka osiva	Vilémov	99	80	0
-6101	569712	1	3	901	4	Jan	Šťastný	M	MVDr.		47	veterinář	Dálčice	99	80	0
-6101	569712	1	3	901	5	David	Růžička	M			29	vedoucí projekce	Vilémov	99	80	0
-6101	569712	1	3	901	6	Miloslav	Kejval	M			33	státní zaměstnanec	Vilémov	99	80	0
-6101	569712	1	3	901	7	Jan	Beran	M			61	důchodce	Vilémov	99	80	0
-6101	569712	1	3	901	8	Jana	Obrdlíková	F			30	prodavačka	Kláštěr	99	80	0
-6101	569712	1	3	901	9	Iveta	Havlová	F			40	pracovnice v zemědělství	Klášter	99	80	0
-6101	569712	1	3	901	10	Václav	Sekera	M			46	automechanik	Vilémov	99	80	0
-6101	569712	1	3	901	11	Hana	Besmáková	F			28	zdravotní sestra	Klášter	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	569712	1	1	47	1	Jiří	Vaňkovský			47	ředitel provozovny	Vilémov	99	47	0	M
+6101	569712	1	2	53	1	Jaroslava	Dvořáková			57	starostka	Vilémov	53	53	0	F
+6101	569712	1	3	901	1	Radim	Krátký			38	podnikatel	Vilémov	99	80	0	M
+6101	569712	1	1	47	2	Jana	Machková			47	podnikatelka	Vilémov	47	47	0	F
+6101	569712	1	2	53	2	Miloš	Růžička	Ing.		45	mechanizátor	Vilémov	99	53	0	M
+6101	569712	1	3	901	2	Lubomír	Sobotka	Ing.		41	projektant HÚL	Vilémov	99	80	0	M
+6101	569712	1	1	47	3	Josef	Hladík			65	důchodce	Vilémov	47	47	0	M
+6101	569712	1	2	53	3	Josef	Novotný			59	vedoucí stav. sk.	Vilémov	99	53	0	M
+6101	569712	1	3	901	3	Marie	Suchomelová		DiS.	39	inspektorka osiva	Vilémov	99	80	0	F
+6101	569712	1	1	47	4	Vladimír	Dvořák			54	elektroúdržbář	Vilémov	47	47	0	M
+6101	569712	1	2	53	4	Marie	Cemperová			60	důchodkyně	Spytice	53	53	0	F
+6101	569712	1	3	901	4	Jan	Šťastný	MVDr.		47	veterinář	Dálčice	99	80	0	M
+6101	569712	1	1	47	5	Naďa	Moravcová			40	podnikatelka	Vilémov	99	47	0	F
+6101	569712	1	2	53	5	Pavlína	Petříčková			37	provoz. zaměst.	Klášter	99	53	0	F
+6101	569712	1	3	901	5	David	Růžička			29	vedoucí projekce	Vilémov	99	80	0	M
+6101	569712	1	1	47	6	Jiří	Čermák			39	servisní technik	Klášter	99	47	0	M
+6101	569712	1	2	53	6	Václav	Dalibor			53	brusič skla	Vilémov	99	53	0	M
+6101	569712	1	3	901	6	Miloslav	Kejval			33	státní zaměstnanec	Vilémov	99	80	0	M
+6101	569712	1	1	47	7	Josef	Jelínek			59	strojní dělník	Vilémov	99	47	0	M
+6101	569712	1	2	53	7	Bohumil	Vavruška			34	soukr. zemědělec	Vilémov	99	53	0	M
+6101	569712	1	3	901	7	Jan	Beran			61	důchodce	Vilémov	99	80	0	M
+6101	569712	1	1	47	8	Marie	Pechová			61	důchodkyně	Hostovlice	99	47	0	F
+6101	569712	1	2	53	8	Lenka	Homolková			31	úřednice	Hostovlice	99	53	0	F
+6101	569712	1	3	901	8	Jana	Obrdlíková			30	prodavačka	Kláštěr	99	80	0	F
+6101	569712	1	1	47	9	Marie	Provazníková			66	důchodkyně	Vilémov	47	47	0	F
+6101	569712	1	2	53	9	Karel	Kosina			64	důchodce	Klášter	53	53	0	M
+6101	569712	1	3	901	9	Iveta	Havlová			40	pracovnice v zemědělství	Klášter	99	80	0	F
+6101	569712	1	1	47	10	Vladimíra	Fröhlichová			54	prac. v zemědělství	Vilémov	47	47	0	F
+6101	569712	1	2	53	10	Karel	Bureš	Ing.		70	důchodce	Klášter	99	53	0	M
+6101	569712	1	3	901	10	Václav	Sekera			46	automechanik	Vilémov	99	80	0	M
+6101	569712	1	1	47	11	Jiřina	Růžičková			64	důchodkyně	Vilémov	99	47	0	F
+6101	569712	1	2	53	11	Zdeněk	Cemper			36	podnikatel	Spytice	99	53	0	M
+6101	569712	1	3	901	11	Hana	Besmáková			28	zdravotní sestra	Klášter	99	80	0	F

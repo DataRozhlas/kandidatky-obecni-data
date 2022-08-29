@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	569704	1	1	901	1	David	Drahoš	M			36	řidič	Věžnice	99	80	A
-6101	569704	1	1	901	2	Tomáš	Vavroušek	M			33	technolog výroby	Věžnice	99	80	A
-6101	569704	1	1	901	3	Adam	Drahoš	M			30	zaměstnanec MVČR	Věžnice	99	80	A
-6101	569704	1	1	901	4	Tomáš	Havlíček	M			33	zaměstnanec MVČR	Věžnice	99	80	A
-6101	569704	1	1	901	5	Pavel	Zejda	M			64	důchodce	Věžnice	99	80	A
-6101	569704	1	1	901	6	Ondřej	Bachmann	M			29	mistr ve výrobě	Věžnice	99	80	A
-6101	569704	1	1	901	7	Cyril	Kunc	M			28	OSVČ	Věžnice	1	80	A
-6101	569704	1	1	901	8	Kristýna	Perničková	F			23	administrativní pracovnice	Věžnice	99	80	A
-6101	569704	1	1	901	9	Václav	Chalupník	M			33	obchodní zástupce	Věžnice	99	80	A
-6101	569704	1	2	1	1	Josef	Málek	M	Ing. Bc.		53	starosta	Věžnice	1	1	A
-6101	569704	1	2	1	2	Jaroslav	Kunc	M			58	zaměstnanec obecního úřadu, místostarosta	Věžnice	1	1	A
-6101	569704	1	2	1	3	Antonín	Kunc	M	Ing.		54	designer	Věžnice	99	1	A
-6101	569704	1	2	1	4	Vítězslav	Kunc	M	Ing.		30	procesní inženýr	Věžnice	99	1	A
-6101	569704	1	2	1	5	Anna	Chalupníková	F			59	pracovník přepážky - specialista	Věžnice	99	1	A
-6101	569704	1	2	1	6	Radka	Chalupníková	F			36	podnikatelka	Věžnice	99	1	A
-6101	569704	1	2	1	7	Jiří	Procházka	M	Ing.		32	referent nákupu ze státu EU	Věžnice	99	1	A
-6101	569704	1	2	1	8	Miroslav	Valenta	M			44	obsluha výrobní linky	Věžnice	99	1	A
-6101	569704	1	2	1	9	Jan	Kunc	M			60	duchovní katolické církve	Věžnice	99	1	A
-6101	569704	1	3	902	1	Stanislav	Wasserbauer	M	MUDr.		60	lékař, vysokoškolský učitel	Věžnice	99	80	A
-6101	569704	1	3	902	2	Milan	Chalupník	M			40	mistr stavební výroby	Věžnice	99	80	A
-6101	569704	1	3	902	3	Anna	Adamcová	F			60	důchodkyně	Věžnice	99	80	A
-6101	569704	1	3	902	4	Libuše	Drahošová	F			50	fakturantka	Věžnice	99	80	A
-6101	569704	1	3	902	5	Pavel	Mottl	M	Ing.		38	inspektor Velitelství Vojenské policie	Věžnice	99	80	A
-6101	569704	1	3	902	6	Vojtěch	Kunc	M			34	policista	Věžnice	99	80	A
-6101	569704	1	3	902	7	Jaroslav	Procházka	M			34	soukromý podnikatel	Věžnice	99	80	A
-6101	569704	1	3	902	8	Marek	Bořil	M			38	pracovník v zemědělství	Věžnice	99	80	A
-6101	569704	1	3	902	9	Radka	Maštalířová	F			45	učitelka mateřské školy	Věžnice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	569704	1	1	901	1	David	Drahoš			36	řidič	Věžnice	99	80	A	M
+6101	569704	1	2	1	1	Josef	Málek	Ing. Bc.		53	starosta	Věžnice	1	1	A	M
+6101	569704	1	3	902	1	Stanislav	Wasserbauer	MUDr.		60	lékař, vysokoškolský učitel	Věžnice	99	80	A	M
+6101	569704	1	1	901	2	Tomáš	Vavroušek			33	technolog výroby	Věžnice	99	80	A	M
+6101	569704	1	2	1	2	Jaroslav	Kunc			58	zaměstnanec obecního úřadu, místostarosta	Věžnice	1	1	A	M
+6101	569704	1	3	902	2	Milan	Chalupník			40	mistr stavební výroby	Věžnice	99	80	A	M
+6101	569704	1	1	901	3	Adam	Drahoš			30	zaměstnanec MVČR	Věžnice	99	80	A	M
+6101	569704	1	2	1	3	Antonín	Kunc	Ing.		54	designer	Věžnice	99	1	A	M
+6101	569704	1	3	902	3	Anna	Adamcová			60	důchodkyně	Věžnice	99	80	A	F
+6101	569704	1	1	901	4	Tomáš	Havlíček			33	zaměstnanec MVČR	Věžnice	99	80	A	M
+6101	569704	1	2	1	4	Vítězslav	Kunc	Ing.		30	procesní inženýr	Věžnice	99	1	A	M
+6101	569704	1	3	902	4	Libuše	Drahošová			50	fakturantka	Věžnice	99	80	A	F
+6101	569704	1	1	901	5	Pavel	Zejda			64	důchodce	Věžnice	99	80	A	M
+6101	569704	1	2	1	5	Anna	Chalupníková			59	pracovník přepážky - specialista	Věžnice	99	1	A	F
+6101	569704	1	3	902	5	Pavel	Mottl	Ing.		38	inspektor Velitelství Vojenské policie	Věžnice	99	80	A	M
+6101	569704	1	1	901	6	Ondřej	Bachmann			29	mistr ve výrobě	Věžnice	99	80	A	M
+6101	569704	1	2	1	6	Radka	Chalupníková			36	podnikatelka	Věžnice	99	1	A	F
+6101	569704	1	3	902	6	Vojtěch	Kunc			34	policista	Věžnice	99	80	A	M
+6101	569704	1	1	901	7	Cyril	Kunc			28	OSVČ	Věžnice	1	80	A	M
+6101	569704	1	2	1	7	Jiří	Procházka	Ing.		32	referent nákupu ze státu EU	Věžnice	99	1	A	M
+6101	569704	1	3	902	7	Jaroslav	Procházka			34	soukromý podnikatel	Věžnice	99	80	A	M
+6101	569704	1	1	901	8	Kristýna	Perničková			23	administrativní pracovnice	Věžnice	99	80	A	F
+6101	569704	1	2	1	8	Miroslav	Valenta			44	obsluha výrobní linky	Věžnice	99	1	A	M
+6101	569704	1	3	902	8	Marek	Bořil			38	pracovník v zemědělství	Věžnice	99	80	A	M
+6101	569704	1	1	901	9	Václav	Chalupník			33	obchodní zástupce	Věžnice	99	80	A	M
+6101	569704	1	2	1	9	Jan	Kunc			60	duchovní katolické církve	Věžnice	99	1	A	M
+6101	569704	1	3	902	9	Radka	Maštalířová			45	učitelka mateřské školy	Věžnice	99	80	A	F

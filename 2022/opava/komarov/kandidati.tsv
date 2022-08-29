@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	555355	1	1	1	1	Milan	Trulej	M	Mgr. Bc.	LL.M., MBA	45	státní zaměstnanec	Komárov	99	1	A
-8105	555355	1	1	1	2	Karel	Neuwirth	M			52	frézař - programátor CNC strojů	Komárov	99	1	A
-8105	555355	1	1	1	3	Radim	Novák	M			56	mistr	Komárov	99	1	A
-8105	555355	1	1	1	4	Pavel	Nanke	M			60	OSVČ	Komárov	99	1	A
-8105	555355	1	1	1	5	Zuzana	Smolková	F			40	sekretářka v advokátní kanceláři	Komárov	99	1	A
-8105	555355	1	1	1	6	Petr	Matula	M	Mgr.		47	IT specialista	Komárov	99	1	A
-8105	555355	1	1	1	7	Marie	Kostelná	F			65	důchodce	Komárov	99	1	A
-8105	555355	1	1	1	8	Milan	Pchálek	M			74	důchodce	Komárov	1	1	A
-8105	555355	1	1	1	9	Václav	Adamec	M			76	důchodce	Komárov	1	1	A
-8105	555355	1	2	901	1	Lumír	Měch	M	Ing.		55	OSVČ - ekonom	Komárov	1188	80	A
-8105	555355	1	2	901	2	Michal	Kubesa	M	Ing.		40	grafik, tvorba a správa webových stránek	Komárov	99	80	A
-8105	555355	1	2	901	3	Eva	Murová	F	Bc.		59	zástupce ředitele ZŠ a MŠ Komárov	Komárov	99	80	A
-8105	555355	1	2	901	4	Vladimír	Vicherek	M			55	hasič	Komárov	99	80	A
-8105	555355	1	2	901	5	Jiří	Kubesa	M	Bc.		33	chemik - operátor	Komárov	99	80	A
-8105	555355	1	2	901	6	Jiří	Bittner	M	Ing.		39	referent plánování	Komárov	99	80	A
-8105	555355	1	2	901	7	Ludmila	Říčná	F			58	provozní v MŠ	Komárov	99	80	A
-8105	555355	1	2	901	8	Ondřej	Kubica	M	Ing.		34	vedoucí oddělení přípravy staveb	Komárov	99	80	A
-8105	555355	1	2	901	9	Radka	Žůrková	F	MVDr.		39	obchodní zástupce a veterinární lékař	Komárov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	555355	1	1	1	1	Milan	Trulej	Mgr. Bc.	LL.M., MBA	45	státní zaměstnanec	Komárov	99	1	A	M
+8105	555355	1	2	901	1	Lumír	Měch	Ing.		55	OSVČ - ekonom	Komárov	1188	80	A	M
+8105	555355	1	1	1	2	Karel	Neuwirth			52	frézař - programátor CNC strojů	Komárov	99	1	A	M
+8105	555355	1	2	901	2	Michal	Kubesa	Ing.		40	grafik, tvorba a správa webových stránek	Komárov	99	80	A	M
+8105	555355	1	1	1	3	Radim	Novák			56	mistr	Komárov	99	1	A	M
+8105	555355	1	2	901	3	Eva	Murová	Bc.		59	zástupce ředitele ZŠ a MŠ Komárov	Komárov	99	80	A	F
+8105	555355	1	1	1	4	Pavel	Nanke			60	OSVČ	Komárov	99	1	A	M
+8105	555355	1	2	901	4	Vladimír	Vicherek			55	hasič	Komárov	99	80	A	M
+8105	555355	1	1	1	5	Zuzana	Smolková			40	sekretářka v advokátní kanceláři	Komárov	99	1	A	F
+8105	555355	1	2	901	5	Jiří	Kubesa	Bc.		33	chemik - operátor	Komárov	99	80	A	M
+8105	555355	1	1	1	6	Petr	Matula	Mgr.		47	IT specialista	Komárov	99	1	A	M
+8105	555355	1	2	901	6	Jiří	Bittner	Ing.		39	referent plánování	Komárov	99	80	A	M
+8105	555355	1	1	1	7	Marie	Kostelná			65	důchodce	Komárov	99	1	A	F
+8105	555355	1	2	901	7	Ludmila	Říčná			58	provozní v MŠ	Komárov	99	80	A	F
+8105	555355	1	1	1	8	Milan	Pchálek			74	důchodce	Komárov	1	1	A	M
+8105	555355	1	2	901	8	Ondřej	Kubica	Ing.		34	vedoucí oddělení přípravy staveb	Komárov	99	80	A	M
+8105	555355	1	1	1	9	Václav	Adamec			76	důchodce	Komárov	1	1	A	M
+8105	555355	1	2	901	9	Radka	Žůrková	MVDr.		39	obchodní zástupce a veterinární lékař	Komárov	99	80	A	F

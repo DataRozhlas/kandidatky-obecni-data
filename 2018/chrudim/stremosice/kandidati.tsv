@@ -1,8 +1,8 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	572314	1	1	806	1	Petr	Študent	M			42	správce budov	Střemošice	99	80	A
-5301	572314	1	2	807	1	Šárka	Urbanová	F			40	prodavačka	Bílý kůň	99	80	A
-5301	572314	1	3	804	1	Luboš	Novák	M			49	OSVČ - podnikatel, pila	Střemošice	99	80	A
-5301	572314	1	4	805	1	Jan	Prokop	M			59	klempíř - pokrývač	Střemošice	99	80	A
-5301	572314	1	5	801	1	Radek	Janoušek	M	Ing.		43	soukromě hospodařící rolník	Střemošice	99	80	A
-5301	572314	1	6	803	1	Jaroslav	Matěna	M			64	důchodce	Střemošice	99	80	A
-5301	572314	1	7	802	1	Marie	Lexová	F	Mgr.		37	učitelka	Bílý kůň	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	572314	1	1	806	1	Petr	Študent			42	správce budov	Střemošice	99	80	A	M
+5301	572314	1	2	807	1	Šárka	Urbanová			40	prodavačka	Bílý kůň	99	80	A	F
+5301	572314	1	3	804	1	Luboš	Novák			49	OSVČ - podnikatel, pila	Střemošice	99	80	A	M
+5301	572314	1	4	805	1	Jan	Prokop			59	klempíř - pokrývač	Střemošice	99	80	A	M
+5301	572314	1	5	801	1	Radek	Janoušek	Ing.		43	soukromě hospodařící rolník	Střemošice	99	80	A	M
+5301	572314	1	6	803	1	Jaroslav	Matěna			64	důchodce	Střemošice	99	80	A	M
+5301	572314	1	7	802	1	Marie	Lexová	Mgr.		37	učitelka	Bílý kůň	99	80	A	F

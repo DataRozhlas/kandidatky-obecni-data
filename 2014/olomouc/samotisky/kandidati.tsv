@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	547077	1	1	1	1	Pavel	Oslík	M	Ing.		52	konstruktér	Samotišky	1	1	0
-7102	547077	1	1	1	2	Helena	Nováčková	F	Mgr.		48	učitelka	Samotišky	99	1	0
-7102	547077	1	1	1	3	Mojmír	Pěkný	M	Ing.		27	stavbyvedoucí	Samotišky	99	1	0
-7102	547077	1	1	1	4	Michaela	Janýšková	F	Ing.		24	ekonomka	Samotišky	99	1	0
-7102	547077	1	1	1	5	Daniel	Bednařík	M			42	podnikatel	Samotišky	99	1	0
-7102	547077	1	1	1	6	Václav	Krejčí	M	Ing.		30	referent	Samotišky	99	1	0
-7102	547077	1	1	1	7	Miloslav	Utíkal	M	Mgr.		46	správce	Samotišky	99	1	0
-7102	547077	1	1	1	8	Josef	Jašek	M			52	podnikatel	Samotišky	1	1	0
-7102	547077	1	1	1	9	Jindřich	Rudický	M			68	důchodce	Samotišky	99	1	0
-7102	547077	1	2	88	1	Luboš	Gloser	M	Ing.		48	starosta	Samotišky	99	88	0
-7102	547077	1	2	88	2	Danuše	Andrýsková	F			57	technický pracovník	Samotišky	99	88	0
-7102	547077	1	2	88	3	Roman	Zubatý	M	Ing.		43	projektant	Samotišky	99	88	0
-7102	547077	1	2	88	4	Marek	Štěpánek	M			45	podnikatel	Samotišky	99	88	0
-7102	547077	1	2	88	5	Jana	Zaoralová	F			40	geodet	Samotišky	99	88	0
-7102	547077	1	2	88	6	Marta	Daňková	F			39	administrativní pracovnice	Samotišky	99	88	0
-7102	547077	1	2	88	7	Petr	Sýkora	M			49	řidič	Samotišky	99	88	0
-7102	547077	1	2	88	8	Michaela	Fojtů	F	Mgr.		40	učitelka	Samotišky	99	88	0
-7102	547077	1	2	88	9	Karel	Outlý	M	Ing.		45	ředitel společnosti	Samotišky	99	88	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	547077	1	1	1	1	Pavel	Oslík	Ing.		52	konstruktér	Samotišky	1	1	0	M
+7102	547077	1	2	88	1	Luboš	Gloser	Ing.		48	starosta	Samotišky	99	88	0	M
+7102	547077	1	1	1	2	Helena	Nováčková	Mgr.		48	učitelka	Samotišky	99	1	0	F
+7102	547077	1	2	88	2	Danuše	Andrýsková			57	technický pracovník	Samotišky	99	88	0	F
+7102	547077	1	1	1	3	Mojmír	Pěkný	Ing.		27	stavbyvedoucí	Samotišky	99	1	0	M
+7102	547077	1	2	88	3	Roman	Zubatý	Ing.		43	projektant	Samotišky	99	88	0	M
+7102	547077	1	1	1	4	Michaela	Janýšková	Ing.		24	ekonomka	Samotišky	99	1	0	F
+7102	547077	1	2	88	4	Marek	Štěpánek			45	podnikatel	Samotišky	99	88	0	M
+7102	547077	1	1	1	5	Daniel	Bednařík			42	podnikatel	Samotišky	99	1	0	M
+7102	547077	1	2	88	5	Jana	Zaoralová			40	geodet	Samotišky	99	88	0	F
+7102	547077	1	1	1	6	Václav	Krejčí	Ing.		30	referent	Samotišky	99	1	0	M
+7102	547077	1	2	88	6	Marta	Daňková			39	administrativní pracovnice	Samotišky	99	88	0	F
+7102	547077	1	1	1	7	Miloslav	Utíkal	Mgr.		46	správce	Samotišky	99	1	0	M
+7102	547077	1	2	88	7	Petr	Sýkora			49	řidič	Samotišky	99	88	0	M
+7102	547077	1	1	1	8	Josef	Jašek			52	podnikatel	Samotišky	1	1	0	M
+7102	547077	1	2	88	8	Michaela	Fojtů	Mgr.		40	učitelka	Samotišky	99	88	0	F
+7102	547077	1	1	1	9	Jindřich	Rudický			68	důchodce	Samotišky	99	1	0	M
+7102	547077	1	2	88	9	Karel	Outlý	Ing.		45	ředitel společnosti	Samotišky	99	88	0	M

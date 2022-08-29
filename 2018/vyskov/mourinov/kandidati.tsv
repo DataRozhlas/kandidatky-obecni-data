@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	557048	1	1	901	1	Vladislav	Horák	M			49	starosta	Mouřínov	99	80	A
-6206	557048	1	1	901	2	Petr	Dvořák	M	Ing.		44	IT manažer	Mouřínov	99	80	A
-6206	557048	1	1	901	3	Radim	Lánský	M			60	ostraha C.I.D.	Mouřínov	99	80	A
-6206	557048	1	1	901	4	Daniel	Vlk	M	Mgr.	CSc.	48	VŠ učitel	Mouřínov	99	80	A
-6206	557048	1	1	901	5	Vlastimil	Ondráček	M			58	mistr výroby	Mouřínov	99	80	A
-6206	557048	1	1	901	6	Ladislav	Venera	M			41	fyzioterapeut	Mouřínov	99	80	A
-6206	557048	1	1	901	7	Rostislav	Navrátil	M			31	samostatný logistik	Mouřínov	99	80	A
-6206	557048	1	1	901	8	Andrea	Handlířová Rother	F	Bc.		37	dispečer speditér	Mouřínov	99	80	A
-6206	557048	1	1	901	9	Karel	Pospíšil	M			50	stavbyvedoucí	Mouřínov	99	80	A
-6206	557048	1	2	7	1	Martin	Šujan	M	Bc.		46	předseda představenstva	Mouřínov	7	7	A
-6206	557048	1	2	7	2	Jiří	Vencl	M			49	státní zaměstnanec	Mouřínov	7	7	A
-6206	557048	1	2	7	3	Jan	Boháč	M			40	OSVČ	Mouřínov	7	7	A
-6206	557048	1	2	7	4	Jaroslav	Chalabala	M			73	důchodce	Mouřínov	7	7	A
-6206	557048	1	2	7	5	Renata	Goliášová	F	Ing.		25	účetní	Mouřínov	99	7	A
-6206	557048	1	2	7	6	Jitka	Vintrová	F		DiS.	47	učitelka MŠ	Mouřínov	99	7	A
-6206	557048	1	2	7	7	Marcela	Kalivodová	F			43	prodavačka	Mouřínov	99	7	A
-6206	557048	1	2	7	8	Lubomír	Pernica	M			49	operátor výroby	Mouřínov	7	7	A
-6206	557048	1	2	7	9	Petr	Goliáš	M			48	operátor výroby	Mouřínov	99	7	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	557048	1	1	901	1	Vladislav	Horák			49	starosta	Mouřínov	99	80	A	M
+6206	557048	1	2	7	1	Martin	Šujan	Bc.		46	předseda představenstva	Mouřínov	7	7	A	M
+6206	557048	1	1	901	2	Petr	Dvořák	Ing.		44	IT manažer	Mouřínov	99	80	A	M
+6206	557048	1	2	7	2	Jiří	Vencl			49	státní zaměstnanec	Mouřínov	7	7	A	M
+6206	557048	1	1	901	3	Radim	Lánský			60	ostraha C.I.D.	Mouřínov	99	80	A	M
+6206	557048	1	2	7	3	Jan	Boháč			40	OSVČ	Mouřínov	7	7	A	M
+6206	557048	1	1	901	4	Daniel	Vlk	Mgr.	CSc.	48	VŠ učitel	Mouřínov	99	80	A	M
+6206	557048	1	2	7	4	Jaroslav	Chalabala			73	důchodce	Mouřínov	7	7	A	M
+6206	557048	1	1	901	5	Vlastimil	Ondráček			58	mistr výroby	Mouřínov	99	80	A	M
+6206	557048	1	2	7	5	Renata	Goliášová	Ing.		25	účetní	Mouřínov	99	7	A	F
+6206	557048	1	1	901	6	Ladislav	Venera			41	fyzioterapeut	Mouřínov	99	80	A	M
+6206	557048	1	2	7	6	Jitka	Vintrová		DiS.	47	učitelka MŠ	Mouřínov	99	7	A	F
+6206	557048	1	1	901	7	Rostislav	Navrátil			31	samostatný logistik	Mouřínov	99	80	A	M
+6206	557048	1	2	7	7	Marcela	Kalivodová			43	prodavačka	Mouřínov	99	7	A	F
+6206	557048	1	1	901	8	Andrea	Handlířová Rother	Bc.		37	dispečer speditér	Mouřínov	99	80	A	F
+6206	557048	1	2	7	8	Lubomír	Pernica			49	operátor výroby	Mouřínov	7	7	A	M
+6206	557048	1	1	901	9	Karel	Pospíšil			50	stavbyvedoucí	Mouřínov	99	80	A	M
+6206	557048	1	2	7	9	Petr	Goliáš			48	operátor výroby	Mouřínov	99	7	A	M

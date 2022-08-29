@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4101	539554	1	1	801	1	Hana	Pečinková	F			59	důchodkyně	Dobroše	99	80	0
-4101	539554	1	2	901	1	Alžběta	Derahová	F			45	starostka obce Odrava	Odrava	99	80	0
-4101	539554	1	2	901	2	Pavel	Gabriel	M			32	OSVČ	Odrava	99	80	0
-4101	539554	1	2	901	3	Věra	Leonhardtová	F			45	mateřská dovolená	Odrava	99	80	0
-4101	539554	1	2	901	4	Vladimír	Skala	M			37	celník	Potočiště	99	80	0
-4101	539554	1	2	901	5	Hana	Procházková	F			50	úřednice	Mostov	99	80	0
-4101	539554	1	2	901	6	Marie	Pastyříková	F			63	důchodce	Odrava	99	80	0
-4101	539554	1	2	901	7	Jan	Cetkovský	M			33	umělec	Obilná	99	80	0
-4101	539554	1	2	901	8	Ludvík	Kareš	M			39	učitel	Mostov	99	80	0
-4101	539554	1	3	802	1	Petr	Křivánek	M			31	řidič	Potočiště	99	80	0
-4101	539554	1	4	803	1	Pavla	Kolářová	F	Mgr.		50	učitelka	Mostov	99	80	0
-4101	539554	1	5	806	1	František	Benedikt	M			60	technická kontrola	Odrava	47	80	0
-4101	539554	1	6	805	1	Zdeňka	Novotná	F			37	inspektorka ČOI	Mostov	99	80	0
-4101	539554	1	7	804	1	Hana	Křížová	F			56	ekonom	Mostov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4101	539554	1	1	801	1	Hana	Pečinková			59	důchodkyně	Dobroše	99	80	0	F
+4101	539554	1	2	901	1	Alžběta	Derahová			45	starostka obce Odrava	Odrava	99	80	0	F
+4101	539554	1	3	802	1	Petr	Křivánek			31	řidič	Potočiště	99	80	0	M
+4101	539554	1	4	803	1	Pavla	Kolářová	Mgr.		50	učitelka	Mostov	99	80	0	F
+4101	539554	1	5	806	1	František	Benedikt			60	technická kontrola	Odrava	47	80	0	M
+4101	539554	1	6	805	1	Zdeňka	Novotná			37	inspektorka ČOI	Mostov	99	80	0	F
+4101	539554	1	7	804	1	Hana	Křížová			56	ekonom	Mostov	99	80	0	F
+4101	539554	1	2	901	2	Pavel	Gabriel			32	OSVČ	Odrava	99	80	0	M
+4101	539554	1	2	901	3	Věra	Leonhardtová			45	mateřská dovolená	Odrava	99	80	0	F
+4101	539554	1	2	901	4	Vladimír	Skala			37	celník	Potočiště	99	80	0	M
+4101	539554	1	2	901	5	Hana	Procházková			50	úřednice	Mostov	99	80	0	F
+4101	539554	1	2	901	6	Marie	Pastyříková			63	důchodce	Odrava	99	80	0	F
+4101	539554	1	2	901	7	Jan	Cetkovský			33	umělec	Obilná	99	80	0	M
+4101	539554	1	2	901	8	Ludvík	Kareš			39	učitel	Mostov	99	80	0	M

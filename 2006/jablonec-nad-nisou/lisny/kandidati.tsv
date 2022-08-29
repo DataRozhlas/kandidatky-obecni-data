@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5102	563676	1	1	902	1	Hana	Kinská	F			55	dělnice	Líšný II. díl	99	80	0
-5102	563676	1	1	902	2	Jaroslav	Matěcha	M			39	sklářský dělník	Líšný II. díl	99	80	0
-5102	563676	1	1	902	3	Jiří	Mikeš	M	Ing.		49	manažer prodeje	Líšný II. díl	99	80	0
-5102	563676	1	1	902	4	Milena	Kučerová	F			38	prodavačka	Líšný II. díl	99	80	0
-5102	563676	1	1	902	5	Radek	Mlejnek	M			30	obchodní zástupce	Líšný I. díl	99	80	0
-5102	563676	1	1	902	6	Miloslav	Komada	M			39	sklářský dělník	Líšný II. díl	99	80	0
-5102	563676	1	2	901	1	Jaroslav	Salaba	M	Ing.		48	technik	Líšný II.díl	99	80	0
-5102	563676	1	2	901	2	Pavel	Šilhán	M			43	soukromý podnikatel	Líšný II.díl	99	80	0
-5102	563676	1	2	901	3	Karel	Valenta	M	Ing.		55	technik	Líšný II.díl	99	80	0
-5102	563676	1	2	901	4	Pavel	Novotný	M			30	dělník	Líšný II.díl	99	80	0
-5102	563676	1	2	901	5	Barbora	Kovářová	F			32	na mateřské dovolené	Líšný II.díl	99	80	0
-5102	563676	1	2	901	6	Marie	Kujanová	F			45	úřednice	Líšný II.díl	99	80	0
-5102	563676	1	2	901	7	Jana	Šafránková	F			45	dělnice	Líšný II.díl	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5102	563676	1	1	902	1	Hana	Kinská			55	dělnice	Líšný II. díl	99	80	0	F
+5102	563676	1	2	901	1	Jaroslav	Salaba	Ing.		48	technik	Líšný II.díl	99	80	0	M
+5102	563676	1	1	902	2	Jaroslav	Matěcha			39	sklářský dělník	Líšný II. díl	99	80	0	M
+5102	563676	1	2	901	2	Pavel	Šilhán			43	soukromý podnikatel	Líšný II.díl	99	80	0	M
+5102	563676	1	1	902	3	Jiří	Mikeš	Ing.		49	manažer prodeje	Líšný II. díl	99	80	0	M
+5102	563676	1	2	901	3	Karel	Valenta	Ing.		55	technik	Líšný II.díl	99	80	0	M
+5102	563676	1	1	902	4	Milena	Kučerová			38	prodavačka	Líšný II. díl	99	80	0	F
+5102	563676	1	2	901	4	Pavel	Novotný			30	dělník	Líšný II.díl	99	80	0	M
+5102	563676	1	1	902	5	Radek	Mlejnek			30	obchodní zástupce	Líšný I. díl	99	80	0	M
+5102	563676	1	2	901	5	Barbora	Kovářová			32	na mateřské dovolené	Líšný II.díl	99	80	0	F
+5102	563676	1	1	902	6	Miloslav	Komada			39	sklářský dělník	Líšný II. díl	99	80	0	M
+5102	563676	1	2	901	6	Marie	Kujanová			45	úřednice	Líšný II.díl	99	80	0	F
+5102	563676	1	2	901	7	Jana	Šafránková			45	dělnice	Líšný II.díl	99	80	0	F

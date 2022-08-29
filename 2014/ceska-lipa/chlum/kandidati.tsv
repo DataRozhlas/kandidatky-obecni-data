@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5101	561614	1	1	901	1	Dana	Slováková	F			35	účetní, OSVČ	Chlum	99	80	0
-5101	561614	1	1	901	2	Petra	Petriková	F			43	nezaměstnaná	Chlum	99	80	0
-5101	561614	1	1	901	3	Pavel	Žaloudek	M			62	důchodce	Chlum	99	80	0
-5101	561614	1	1	901	4	Pavel	Chramosta	M			66	důchodce	Chlum	99	80	0
-5101	561614	1	1	901	5	Jiřina	Ladrová	F			33	šička	Chlum	99	80	1
-5101	561614	1	1	901	6	Jaroslav	Mendlík	M			37	koordinátor výroby	Chlum	99	80	0
-5101	561614	1	1	901	7	Kateřina	Stejskalová	F			35	údržba zeleně	Chlum	99	80	1
-5101	561614	1	1	901	8	Martin	Benda	M			43	elektrikář	Chlum	99	80	0
-5101	561614	1	2	703	1	Josef	Vítek	M			57	podnikatel	Chlum	703	703	0
-5101	561614	1	2	703	2	Veronika	Žáková	F	Mgr.		42	učitelka	Chlum	99	703	0
-5101	561614	1	2	703	3	Jaroslava	Tomíčková	F			57	podnikatelka	Chlum	99	703	0
-5101	561614	1	2	703	4	Václav	Svoboda	M			66	důchodce	Chlum	99	703	0
-5101	561614	1	2	703	5	Milan	Čerňanský	M			61	podnikatel	Drchlava	99	703	0
-5101	561614	1	2	703	6	Miroslav	Kopúnik	M			65	důchodce	Maršovice	99	703	0
-5101	561614	1	2	703	7	Miloslav	Špic	M			47	dělník	Drchlava	99	703	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5101	561614	1	1	901	1	Dana	Slováková			35	účetní, OSVČ	Chlum	99	80	0	F
+5101	561614	1	2	703	1	Josef	Vítek			57	podnikatel	Chlum	703	703	0	M
+5101	561614	1	1	901	2	Petra	Petriková			43	nezaměstnaná	Chlum	99	80	0	F
+5101	561614	1	2	703	2	Veronika	Žáková	Mgr.		42	učitelka	Chlum	99	703	0	F
+5101	561614	1	1	901	3	Pavel	Žaloudek			62	důchodce	Chlum	99	80	0	M
+5101	561614	1	2	703	3	Jaroslava	Tomíčková			57	podnikatelka	Chlum	99	703	0	F
+5101	561614	1	1	901	4	Pavel	Chramosta			66	důchodce	Chlum	99	80	0	M
+5101	561614	1	2	703	4	Václav	Svoboda			66	důchodce	Chlum	99	703	0	M
+5101	561614	1	1	901	5	Jiřina	Ladrová			33	šička	Chlum	99	80	1	F
+5101	561614	1	2	703	5	Milan	Čerňanský			61	podnikatel	Drchlava	99	703	0	M
+5101	561614	1	1	901	6	Jaroslav	Mendlík			37	koordinátor výroby	Chlum	99	80	0	M
+5101	561614	1	2	703	6	Miroslav	Kopúnik			65	důchodce	Maršovice	99	703	0	M
+5101	561614	1	1	901	7	Kateřina	Stejskalová			35	údržba zeleně	Chlum	99	80	1	F
+5101	561614	1	2	703	7	Miloslav	Špic			47	dělník	Drchlava	99	703	0	M
+5101	561614	1	1	901	8	Martin	Benda			43	elektrikář	Chlum	99	80	0	M

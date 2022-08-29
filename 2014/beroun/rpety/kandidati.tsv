@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2102	531715	1	1	7	1	Pavel	Kysela	M	JUDr.		67	úředník	Rpety	7	7	0
-2102	531715	1	1	7	2	Michal	Hasman	M			32	úředník	Rpety	7	7	0
-2102	531715	1	1	7	3	Zdeněk	Jirouch	M			47	automechanik	Rpety	7	7	0
-2102	531715	1	1	7	4	Vlastimil	Kroužecký	M			31	řidič	Rpety	99	7	0
-2102	531715	1	1	7	5	Roman	Kroužecký	M			28	kuchař	Rpety	99	7	0
-2102	531715	1	2	901	1	Alena	Hasmanová	F			54	úřednice	Rpety	99	80	0
-2102	531715	1	2	901	2	Jan	Vlach	M			63	soukromý podnikatel	Rpety	99	80	0
-2102	531715	1	2	901	3	Zuzana	Hejnalová	F			49	úřednice	Rpety	99	80	0
-2102	531715	1	2	901	4	Monika	Litošová	F			32	soukromá podnikatelka	Rpety	99	80	0
-2102	531715	1	2	901	5	Karel	Chvojka	M			33	elektromontér	Rpety	99	80	0
-2102	531715	1	2	901	6	Marcela	Marešová	F			43	pracovnice sociálně-právní ochrany dětí	Rpety	99	80	0
-2102	531715	1	2	901	7	Věra	Matoušková	F			33	obsluha čerpací stanice	Rpety	99	80	0
-2102	531715	1	2	901	8	Miroslava	Plecitá	F			37	dělnice	Rpety	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2102	531715	1	1	7	1	Pavel	Kysela	JUDr.		67	úředník	Rpety	7	7	0	M
+2102	531715	1	2	901	1	Alena	Hasmanová			54	úřednice	Rpety	99	80	0	F
+2102	531715	1	1	7	2	Michal	Hasman			32	úředník	Rpety	7	7	0	M
+2102	531715	1	2	901	2	Jan	Vlach			63	soukromý podnikatel	Rpety	99	80	0	M
+2102	531715	1	1	7	3	Zdeněk	Jirouch			47	automechanik	Rpety	7	7	0	M
+2102	531715	1	2	901	3	Zuzana	Hejnalová			49	úřednice	Rpety	99	80	0	F
+2102	531715	1	1	7	4	Vlastimil	Kroužecký			31	řidič	Rpety	99	7	0	M
+2102	531715	1	2	901	4	Monika	Litošová			32	soukromá podnikatelka	Rpety	99	80	0	F
+2102	531715	1	1	7	5	Roman	Kroužecký			28	kuchař	Rpety	99	7	0	M
+2102	531715	1	2	901	5	Karel	Chvojka			33	elektromontér	Rpety	99	80	0	M
+2102	531715	1	2	901	6	Marcela	Marešová			43	pracovnice sociálně-právní ochrany dětí	Rpety	99	80	0	F
+2102	531715	1	2	901	7	Věra	Matoušková			33	obsluha čerpací stanice	Rpety	99	80	0	F
+2102	531715	1	2	901	8	Miroslava	Plecitá			37	dělnice	Rpety	99	80	0	F

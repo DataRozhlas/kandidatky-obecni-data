@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6103	598755	1	1	901	1	Ladislav	Bulant	M			58	člen ZD	Putimov	99	80	0
-6103	598755	1	1	901	2	Ludmila	Bumbálková	F			35	MD	Putimov	99	80	0
-6103	598755	1	1	901	3	Jiří	Haberle	M	Ing.		61	vedoucí pracovník	Putimov	99	80	0
-6103	598755	1	1	901	4	Lenka	Marková	F			43	sociální pracovnice	Putimov	99	80	0
-6103	598755	1	1	901	5	Jiří	Pihávek	M			35	řidič	Putimov	99	80	0
-6103	598755	1	1	901	6	Jiří	Sobotka	M			54	soukromý podnikate	Putimov	99	80	0
-6103	598755	1	2	902	1	Jiří	Bartoška	M			47	člen ZD	Putimov	99	80	0
-6103	598755	1	2	902	2	Jaroslav	Haruda	M			69	důchodce	Putimov	99	80	0
-6103	598755	1	2	902	3	Eva	Jonešová	F	Ing.		43	soukromá podnikatelka	Putimov	99	80	0
-6103	598755	1	2	902	4	Pavel	Paclík	M			43	soukromý podnikatel	Putimov	99	80	0
-6103	598755	1	2	902	5	Josef	Pulda	M			41	člen ZD	Putimov	99	80	0
-6103	598755	1	2	902	6	Václav	Semorád	M			53	člen ZD	Putimov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6103	598755	1	1	901	1	Ladislav	Bulant			58	člen ZD	Putimov	99	80	0	M
+6103	598755	1	2	902	1	Jiří	Bartoška			47	člen ZD	Putimov	99	80	0	M
+6103	598755	1	1	901	2	Ludmila	Bumbálková			35	MD	Putimov	99	80	0	F
+6103	598755	1	2	902	2	Jaroslav	Haruda			69	důchodce	Putimov	99	80	0	M
+6103	598755	1	1	901	3	Jiří	Haberle	Ing.		61	vedoucí pracovník	Putimov	99	80	0	M
+6103	598755	1	2	902	3	Eva	Jonešová	Ing.		43	soukromá podnikatelka	Putimov	99	80	0	F
+6103	598755	1	1	901	4	Lenka	Marková			43	sociální pracovnice	Putimov	99	80	0	F
+6103	598755	1	2	902	4	Pavel	Paclík			43	soukromý podnikatel	Putimov	99	80	0	M
+6103	598755	1	1	901	5	Jiří	Pihávek			35	řidič	Putimov	99	80	0	M
+6103	598755	1	2	902	5	Josef	Pulda			41	člen ZD	Putimov	99	80	0	M
+6103	598755	1	1	901	6	Jiří	Sobotka			54	soukromý podnikate	Putimov	99	80	0	M
+6103	598755	1	2	902	6	Václav	Semorád			53	člen ZD	Putimov	99	80	0	M

@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	597881	1	1	901	1	Hana	Karlovská	F	Mgr.		30	učitelka ZŠ	Svobodné Heřmanice	99	80	0
-8101	597881	1	1	901	2	Jana	Lichevníková	F		DiS.	27	administrativní pracovnice	Svobodné Heřmanice	99	80	0
-8101	597881	1	1	901	3	Lenka	Nováková	F			38	administrativní pracovnice	Svobodné Heřmanice	99	80	0
-8101	597881	1	1	901	4	Veronika	Bartussková	F			31	zdravotní sestra	Svobodné Heřmanice	99	80	0
-8101	597881	1	2	143	1	Daniel	Lampa	M			40	údržbář	Svobodné Heřmanice	99	143	0
-8101	597881	1	2	143	2	František	Šíma	M			40	elektrikář	Svobodné Heřmanice	99	143	0
-8101	597881	1	2	143	3	Lenka	Kuželová	F			37	dělnice	Svobodné Heřmanice	99	143	0
-8101	597881	1	3	47	1	Josef	Kuchař	M			77	soukromý podnikatel	Svobodné Heřmanice	47	47	0
-8101	597881	1	3	47	2	Josef	Janek	M			59	soukromý podnikatel	Svobodné Heřmanice	47	47	0
-8101	597881	1	3	47	3	Zbyněk	Opočenský	M			63	důchodce	Svobodné Heřmanice	99	47	0
-8101	597881	1	3	47	4	Antonín	Ulrich	M			54	dělník	Svobodné Heřmanice	99	47	0
-8101	597881	1	3	47	5	Vladimír	Studenský	M			60	dělník	Svobodné Heřmanice	99	47	0
-8101	597881	1	3	47	6	František	Šíma	M			66	důchodce	Svobodné Heřmanice	99	47	0
-8101	597881	1	4	902	1	Jiří	Skladan	M			32	OSVČ	Svobodné Heřmanice	99	80	0
-8101	597881	1	4	902	2	Martin	Juroš	M			28	specialista back office	Svobodné Heřmanice	99	80	0
-8101	597881	1	4	902	3	Milan	Karlovský	M			32	OSVČ	Svobodné Heřmanice	99	80	0
-8101	597881	1	5	470	1	Radomír	Pražák	M			56	starosta obce	Svobodné Heřmanice	99	166	0
-8101	597881	1	5	470	2	Stanislav	Kovář	M			45	řidič autobusu	Svobodné Heřmanice	99	166	0
-8101	597881	1	5	470	3	Jana	Jančurová	F			65	důchodkyně	Svobodné Heřmanice	99	166	0
-8101	597881	1	5	470	4	Stanislav	Libosvárský	M			51	strážník MP	Svobodné Heřmanice	99	166	0
-8101	597881	1	5	470	5	Jiří	Jedlička	M			43	elektrikář	Svobodné Heřmanice	99	166	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	597881	1	1	901	1	Hana	Karlovská	Mgr.		30	učitelka ZŠ	Svobodné Heřmanice	99	80	0	F
+8101	597881	1	2	143	1	Daniel	Lampa			40	údržbář	Svobodné Heřmanice	99	143	0	M
+8101	597881	1	3	47	1	Josef	Kuchař			77	soukromý podnikatel	Svobodné Heřmanice	47	47	0	M
+8101	597881	1	4	902	1	Jiří	Skladan			32	OSVČ	Svobodné Heřmanice	99	80	0	M
+8101	597881	1	5	470	1	Radomír	Pražák			56	starosta obce	Svobodné Heřmanice	99	166	0	M
+8101	597881	1	1	901	2	Jana	Lichevníková		DiS.	27	administrativní pracovnice	Svobodné Heřmanice	99	80	0	F
+8101	597881	1	2	143	2	František	Šíma			40	elektrikář	Svobodné Heřmanice	99	143	0	M
+8101	597881	1	3	47	2	Josef	Janek			59	soukromý podnikatel	Svobodné Heřmanice	47	47	0	M
+8101	597881	1	4	902	2	Martin	Juroš			28	specialista back office	Svobodné Heřmanice	99	80	0	M
+8101	597881	1	5	470	2	Stanislav	Kovář			45	řidič autobusu	Svobodné Heřmanice	99	166	0	M
+8101	597881	1	1	901	3	Lenka	Nováková			38	administrativní pracovnice	Svobodné Heřmanice	99	80	0	F
+8101	597881	1	2	143	3	Lenka	Kuželová			37	dělnice	Svobodné Heřmanice	99	143	0	F
+8101	597881	1	3	47	3	Zbyněk	Opočenský			63	důchodce	Svobodné Heřmanice	99	47	0	M
+8101	597881	1	4	902	3	Milan	Karlovský			32	OSVČ	Svobodné Heřmanice	99	80	0	M
+8101	597881	1	5	470	3	Jana	Jančurová			65	důchodkyně	Svobodné Heřmanice	99	166	0	F
+8101	597881	1	1	901	4	Veronika	Bartussková			31	zdravotní sestra	Svobodné Heřmanice	99	80	0	F
+8101	597881	1	3	47	4	Antonín	Ulrich			54	dělník	Svobodné Heřmanice	99	47	0	M
+8101	597881	1	5	470	4	Stanislav	Libosvárský			51	strážník MP	Svobodné Heřmanice	99	166	0	M
+8101	597881	1	3	47	5	Vladimír	Studenský			60	dělník	Svobodné Heřmanice	99	47	0	M
+8101	597881	1	5	470	5	Jiří	Jedlička			43	elektrikář	Svobodné Heřmanice	99	166	0	M
+8101	597881	1	3	47	6	František	Šíma			66	důchodce	Svobodné Heřmanice	99	47	0	M

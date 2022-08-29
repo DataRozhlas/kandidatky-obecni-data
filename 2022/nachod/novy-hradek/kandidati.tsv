@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5203	574287	1	1	1	1	Pavel	Sobotka	M	Ing.		59	vedoucí infocentra, místostarosta městysu Nový Hrádek	Nový Hrádek	99	1	A
-5203	574287	1	1	1	2	Miloš	Vondřejc	M	Ing.		36	stavební projektant	Nový Hrádek	99	1	A
-5203	574287	1	1	1	3	Lucia	Hrnčířová	F	MUDr.		49	lékařka	Nový Hrádek	99	1	A
-5203	574287	1	1	1	4	Stanislav	Drašnar	M			28	krajský manažer KDU-ČSL, asistent poslance	Nový Hrádek	1	1	A
-5203	574287	1	1	1	5	Jiří	Hlaváček	M	Ing.		55	bankovní poradce	Nový Hrádek	99	1	A
-5203	574287	1	1	1	6	Leoš	Tymel	M	Ing.		44	obchodní manažer	Nový Hrádek	99	1	A
-5203	574287	1	1	1	7	Pavel	Řehulka	M			47	vědecký pracovník	Nový Hrádek	99	1	A
-5203	574287	1	1	1	8	Miloš	Langr	M			54	OSVČ - zlatník	Nový Hrádek	1	1	A
-5203	574287	1	1	1	9	Jiří	Škoda	M			47	pracovník v sociálních službách	Nový Hrádek	99	1	A
-5203	574287	1	1	1	10	Monika	Čermáková	F			45	účetní MŠ Nový Hrádek	Nový Hrádek	99	1	A
-5203	574287	1	1	1	11	Petr	Bohadlo	M			48	řidič	Nový Hrádek	99	1	A
-5203	574287	1	2	901	1	Zdeněk	Drašnar	M	Bc.		57	starosta	Nový Hrádek	99	80	A
-5203	574287	1	2	901	2	Lenka	Dudášková	F	Mgr.		48	ředitelka ZŠ	Nový Hrádek	99	80	A
-5203	574287	1	2	901	3	Jeronym	Holý	M	Ing.		56	programátor	Nový Hrádek	99	80	A
-5203	574287	1	2	901	4	Květoslava	Špreňarová	F			65	důchodce	Nový Hrádek	99	80	A
-5203	574287	1	2	901	5	Martin	Kyselý	M	MDDr.		30	zubní lékař	Nový Hrádek	99	80	A
-5203	574287	1	2	901	6	Radim	Holý	M	Ing.		52	programátor	Nový Hrádek	99	80	A
-5203	574287	1	2	901	7	Marie	Hloušková	F			61	důchodce	Nový Hrádek	99	80	A
-5203	574287	1	2	901	8	Jan	Mach	M			49	technolog	Nový Hrádek	99	80	A
-5203	574287	1	2	901	9	Václav	Suchánek	M			59	řidič autobusu	Nový Hrádek	99	80	A
-5203	574287	1	2	901	10	Martina	Marešová	F			51	účetní	Nový Hrádek	99	80	A
-5203	574287	1	2	901	11	Bohumír	Petr	M			61	pracovník údržby	Nový Hrádek	99	80	A
-5203	574287	1	3	902	1	Pavel	Bachura	M	Mgr.		48	ředitel	Nový Hrádek	99	80	A
-5203	574287	1	3	902	2	Milan	Holinka	M	Ing.		34	programátor	Nový Hrádek	99	80	A
-5203	574287	1	3	902	3	Radek	Světlík	M	Ing.		47	ekonom	Nový Hrádek	99	80	A
-5203	574287	1	3	902	4	Martina	Suchánková	F			48	účetní	Nový Hrádek	99	80	A
-5203	574287	1	3	902	5	Jarmila	Grimová	F			63	důchodce	Nový Hrádek	99	80	A
-5203	574287	1	3	902	6	Pavel	Ježek	M	Ing.		45	stavební projektant	Nový Hrádek	99	80	A
-5203	574287	1	3	902	7	Jan	Kratochvíl	M			35	hasič	Nový Hrádek	99	80	A
-5203	574287	1	3	902	8	Petr	Klein	M			39	strojník	Nový Hrádek	99	80	A
-5203	574287	1	3	902	9	Jana	Fišerová	F	Bc.		28	projektová manažerka	Nový Hrádek	99	80	A
-5203	574287	1	3	902	10	Jan	Vincenc	M			37	specialista informačních technologií	Nový Hrádek	99	80	A
-5203	574287	1	3	902	11	Ivana	Šafránková	F	Bc.		43	asistent pedagoga	Nový Hrádek	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5203	574287	1	1	1	1	Pavel	Sobotka	Ing.		59	vedoucí infocentra, místostarosta městysu Nový Hrádek	Nový Hrádek	99	1	A	M
+5203	574287	1	2	901	1	Zdeněk	Drašnar	Bc.		57	starosta	Nový Hrádek	99	80	A	M
+5203	574287	1	3	902	1	Pavel	Bachura	Mgr.		48	ředitel	Nový Hrádek	99	80	A	M
+5203	574287	1	1	1	2	Miloš	Vondřejc	Ing.		36	stavební projektant	Nový Hrádek	99	1	A	M
+5203	574287	1	2	901	2	Lenka	Dudášková	Mgr.		48	ředitelka ZŠ	Nový Hrádek	99	80	A	F
+5203	574287	1	3	902	2	Milan	Holinka	Ing.		34	programátor	Nový Hrádek	99	80	A	M
+5203	574287	1	1	1	3	Lucia	Hrnčířová	MUDr.		49	lékařka	Nový Hrádek	99	1	A	F
+5203	574287	1	2	901	3	Jeronym	Holý	Ing.		56	programátor	Nový Hrádek	99	80	A	M
+5203	574287	1	3	902	3	Radek	Světlík	Ing.		47	ekonom	Nový Hrádek	99	80	A	M
+5203	574287	1	1	1	4	Stanislav	Drašnar			28	krajský manažer KDU-ČSL, asistent poslance	Nový Hrádek	1	1	A	M
+5203	574287	1	2	901	4	Květoslava	Špreňarová			65	důchodce	Nový Hrádek	99	80	A	F
+5203	574287	1	3	902	4	Martina	Suchánková			48	účetní	Nový Hrádek	99	80	A	F
+5203	574287	1	1	1	5	Jiří	Hlaváček	Ing.		55	bankovní poradce	Nový Hrádek	99	1	A	M
+5203	574287	1	2	901	5	Martin	Kyselý	MDDr.		30	zubní lékař	Nový Hrádek	99	80	A	M
+5203	574287	1	3	902	5	Jarmila	Grimová			63	důchodce	Nový Hrádek	99	80	A	F
+5203	574287	1	1	1	6	Leoš	Tymel	Ing.		44	obchodní manažer	Nový Hrádek	99	1	A	M
+5203	574287	1	2	901	6	Radim	Holý	Ing.		52	programátor	Nový Hrádek	99	80	A	M
+5203	574287	1	3	902	6	Pavel	Ježek	Ing.		45	stavební projektant	Nový Hrádek	99	80	A	M
+5203	574287	1	1	1	7	Pavel	Řehulka			47	vědecký pracovník	Nový Hrádek	99	1	A	M
+5203	574287	1	2	901	7	Marie	Hloušková			61	důchodce	Nový Hrádek	99	80	A	F
+5203	574287	1	3	902	7	Jan	Kratochvíl			35	hasič	Nový Hrádek	99	80	A	M
+5203	574287	1	1	1	8	Miloš	Langr			54	OSVČ - zlatník	Nový Hrádek	1	1	A	M
+5203	574287	1	2	901	8	Jan	Mach			49	technolog	Nový Hrádek	99	80	A	M
+5203	574287	1	3	902	8	Petr	Klein			39	strojník	Nový Hrádek	99	80	A	M
+5203	574287	1	1	1	9	Jiří	Škoda			47	pracovník v sociálních službách	Nový Hrádek	99	1	A	M
+5203	574287	1	2	901	9	Václav	Suchánek			59	řidič autobusu	Nový Hrádek	99	80	A	M
+5203	574287	1	3	902	9	Jana	Fišerová	Bc.		28	projektová manažerka	Nový Hrádek	99	80	A	F
+5203	574287	1	1	1	10	Monika	Čermáková			45	účetní MŠ Nový Hrádek	Nový Hrádek	99	1	A	F
+5203	574287	1	2	901	10	Martina	Marešová			51	účetní	Nový Hrádek	99	80	A	F
+5203	574287	1	3	902	10	Jan	Vincenc			37	specialista informačních technologií	Nový Hrádek	99	80	A	M
+5203	574287	1	1	1	11	Petr	Bohadlo			48	řidič	Nový Hrádek	99	1	A	M
+5203	574287	1	2	901	11	Bohumír	Petr			61	pracovník údržby	Nový Hrádek	99	80	A	M
+5203	574287	1	3	902	11	Ivana	Šafránková	Bc.		43	asistent pedagoga	Nový Hrádek	99	80	A	F

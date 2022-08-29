@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2102	531219	1	1	53	1	František	Chlustina	M			62	důchodce	Hředle	53	53	0
-2102	531219	1	1	53	2	Miroslav	Bejbl	M	Bc.		33	úředník	Hředle	99	53	0
-2102	531219	1	1	53	3	František	Čermák	M			27	dělník	Hředle	99	53	0
-2102	531219	1	1	53	4	Jaroslava	Jirouchová	F			48	úřednice	Hředle	99	53	0
-2102	531219	1	1	53	5	Jitka	Šebestová	F			26	úřednice	Hředle	99	53	0
-2102	531219	1	1	53	6	Naděžda	Šedivá	F			25	úřednice	Hředle	99	53	0
-2102	531219	1	1	53	7	Stanislav	Žihlo	M			28	dělník	Hředle	99	53	0
-2102	531219	1	2	5	1	Hana	Sedláčková	F			55	učitelka	Hředle	5	5	0
-2102	531219	1	2	5	2	Milan	Dvořák	M			18	studující	Hředle	99	5	0
-2102	531219	1	2	5	3	Petr	Sedláček	M			63	operátor	Hředle	99	5	0
-2102	531219	1	2	5	4	Jiří	Stupka	M			18	automechanik	Hředle	99	5	0
-2102	531219	1	2	5	5	František	Kohout	M			60	důchodce	Hředle	99	5	1
-2102	531219	1	2	5	6	Kateřina	Sedláčková	F			25	prodavačka	Hředle	99	5	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2102	531219	1	1	53	1	František	Chlustina			62	důchodce	Hředle	53	53	0	M
+2102	531219	1	2	5	1	Hana	Sedláčková			55	učitelka	Hředle	5	5	0	F
+2102	531219	1	1	53	2	Miroslav	Bejbl	Bc.		33	úředník	Hředle	99	53	0	M
+2102	531219	1	2	5	2	Milan	Dvořák			18	studující	Hředle	99	5	0	M
+2102	531219	1	1	53	3	František	Čermák			27	dělník	Hředle	99	53	0	M
+2102	531219	1	2	5	3	Petr	Sedláček			63	operátor	Hředle	99	5	0	M
+2102	531219	1	1	53	4	Jaroslava	Jirouchová			48	úřednice	Hředle	99	53	0	F
+2102	531219	1	2	5	4	Jiří	Stupka			18	automechanik	Hředle	99	5	0	M
+2102	531219	1	1	53	5	Jitka	Šebestová			26	úřednice	Hředle	99	53	0	F
+2102	531219	1	2	5	5	František	Kohout			60	důchodce	Hředle	99	5	1	M
+2102	531219	1	1	53	6	Naděžda	Šedivá			25	úřednice	Hředle	99	53	0	F
+2102	531219	1	2	5	6	Kateřina	Sedláčková			25	prodavačka	Hředle	99	5	0	F
+2102	531219	1	1	53	7	Stanislav	Žihlo			28	dělník	Hředle	99	53	0	M

@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	571873	1	1	901	1	David	Kosina	M	Bc.		37	obchod. ředitel - zdrav. prostř. pro domácí péči	Morašice	99	80	A
-5301	571873	1	1	901	2	Tomáš	Chrbolka	M			31	stavbyvedoucí dopravních staveb	Janovice	99	80	A
-5301	571873	1	1	901	3	Tomáš	Navrátil	M	Ing.		36	projektant, námořní geodet	Morašice	99	80	A
-5301	571873	1	1	901	4	Petr	Lisý	M			36	podnikatel	Janovice	99	80	A
-5301	571873	1	1	901	5	Pavel	Škodný	M			31	truhlář	Morašice	99	80	A
-5301	571873	1	1	901	6	Milan	Štorek	M	Bc.		40	sociální pracovník	Skupice	99	80	A
-5301	571873	1	1	901	7	Petra	Medunová	F			39	zaměstnanec v bankovním sektoru	Janovice	99	80	A
-5301	571873	1	1	901	8	Petra	Nováková	F			44	účetní	Zbyhněvice	99	80	A
-5301	571873	1	1	901	9	Markéta	Čermáková	F	Bc.		26	student	Morašice	99	80	A
-5301	571873	1	1	901	10	Monika	Čermáková	F	Mgr.		40	úředník magistrátu města Pardubice	Holičky	99	80	A
-5301	571873	1	1	901	11	Jiří	Petrovič	M	Bc.		24	student	Morašice	99	80	A
-5301	571873	1	1	901	12	Veronika	Koubová	F	Mgr.	Ph.D.	40	chemický analytik	Morašice	99	80	A
-5301	571873	1	1	901	13	Patrik	Novák	M			18	student	Janovice	99	80	A
-5301	571873	1	1	901	14	Andrea	Koláčková	F	Ing.		38	poradce v odpadovém hospodářství	Morašice	99	80	A
-5301	571873	1	1	901	15	Miloš	Jožák	M			53	vedoucí odboru investic města Heřmanův Městec	Morašice	99	80	A
-5301	571873	1	2	902	1	Roman	Štěpánek	M			43	starosta obce	Morašice	99	80	A
-5301	571873	1	2	902	2	František	Zita	M	MVDr.		43	veterinář	Morašice	99	80	A
-5301	571873	1	2	902	3	Petr	Borkovec	M	Mgr.		51	OSVČ	Morašice	99	80	A
-5301	571873	1	2	902	4	František	Zita	M	Ing.		68	důchodce	Morašice	99	80	A
-5301	571873	1	2	902	5	Martin	Klimek	M	Ing.		42	vedoucí odboru	Holičky	99	80	A
-5301	571873	1	2	902	6	Josef	Soudek	M			46	strojní zámečník	Zbyhněvice	99	80	A
-5301	571873	1	2	902	7	Lubomír	Hrstka	M			62	řidič	Skupice	99	80	A
-5301	571873	1	2	902	8	Michaela	Doležalová	F			40	interní auditor	Holičky	99	80	A
-5301	571873	1	2	902	9	Luboš	Novotný	M	Bc.		51	technik	Janovice	99	80	A
-5301	571873	1	2	902	10	Aleš	Ježek	M	Ing.	Ph.D.	38	statik	Holičky	99	80	A
-5301	571873	1	2	902	11	Jitka	Žďárská	F			45	pracovník pošty	Morašice	99	80	A
-5301	571873	1	2	902	12	Roman	Janáček	M			42	OSVČ	Zbyhněvice	99	80	A
-5301	571873	1	2	902	13	Martin	Potůček	M			37	technik	Morašice	99	80	A
-5301	571873	1	2	902	14	Rostislav	Petrovič	M			49	elektrikář	Morašice	99	80	A
-5301	571873	1	2	902	15	Jaroslav	Salfický	M			55	vedoucí kuchař	Janovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	571873	1	1	901	1	David	Kosina	Bc.		37	obchod. ředitel - zdrav. prostř. pro domácí péči	Morašice	99	80	A	M
+5301	571873	1	2	902	1	Roman	Štěpánek			43	starosta obce	Morašice	99	80	A	M
+5301	571873	1	1	901	2	Tomáš	Chrbolka			31	stavbyvedoucí dopravních staveb	Janovice	99	80	A	M
+5301	571873	1	2	902	2	František	Zita	MVDr.		43	veterinář	Morašice	99	80	A	M
+5301	571873	1	1	901	3	Tomáš	Navrátil	Ing.		36	projektant, námořní geodet	Morašice	99	80	A	M
+5301	571873	1	2	902	3	Petr	Borkovec	Mgr.		51	OSVČ	Morašice	99	80	A	M
+5301	571873	1	1	901	4	Petr	Lisý			36	podnikatel	Janovice	99	80	A	M
+5301	571873	1	2	902	4	František	Zita	Ing.		68	důchodce	Morašice	99	80	A	M
+5301	571873	1	1	901	5	Pavel	Škodný			31	truhlář	Morašice	99	80	A	M
+5301	571873	1	2	902	5	Martin	Klimek	Ing.		42	vedoucí odboru	Holičky	99	80	A	M
+5301	571873	1	1	901	6	Milan	Štorek	Bc.		40	sociální pracovník	Skupice	99	80	A	M
+5301	571873	1	2	902	6	Josef	Soudek			46	strojní zámečník	Zbyhněvice	99	80	A	M
+5301	571873	1	1	901	7	Petra	Medunová			39	zaměstnanec v bankovním sektoru	Janovice	99	80	A	F
+5301	571873	1	2	902	7	Lubomír	Hrstka			62	řidič	Skupice	99	80	A	M
+5301	571873	1	1	901	8	Petra	Nováková			44	účetní	Zbyhněvice	99	80	A	F
+5301	571873	1	2	902	8	Michaela	Doležalová			40	interní auditor	Holičky	99	80	A	F
+5301	571873	1	1	901	9	Markéta	Čermáková	Bc.		26	student	Morašice	99	80	A	F
+5301	571873	1	2	902	9	Luboš	Novotný	Bc.		51	technik	Janovice	99	80	A	M
+5301	571873	1	1	901	10	Monika	Čermáková	Mgr.		40	úředník magistrátu města Pardubice	Holičky	99	80	A	F
+5301	571873	1	2	902	10	Aleš	Ježek	Ing.	Ph.D.	38	statik	Holičky	99	80	A	M
+5301	571873	1	1	901	11	Jiří	Petrovič	Bc.		24	student	Morašice	99	80	A	M
+5301	571873	1	2	902	11	Jitka	Žďárská			45	pracovník pošty	Morašice	99	80	A	F
+5301	571873	1	1	901	12	Veronika	Koubová	Mgr.	Ph.D.	40	chemický analytik	Morašice	99	80	A	F
+5301	571873	1	2	902	12	Roman	Janáček			42	OSVČ	Zbyhněvice	99	80	A	M
+5301	571873	1	1	901	13	Patrik	Novák			18	student	Janovice	99	80	A	M
+5301	571873	1	2	902	13	Martin	Potůček			37	technik	Morašice	99	80	A	M
+5301	571873	1	1	901	14	Andrea	Koláčková	Ing.		38	poradce v odpadovém hospodářství	Morašice	99	80	A	F
+5301	571873	1	2	902	14	Rostislav	Petrovič			49	elektrikář	Morašice	99	80	A	M
+5301	571873	1	1	901	15	Miloš	Jožák			53	vedoucí odboru investic města Heřmanův Městec	Morašice	99	80	A	M
+5301	571873	1	2	902	15	Jaroslav	Salfický			55	vedoucí kuchař	Janovice	99	80	A	M

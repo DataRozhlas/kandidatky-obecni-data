@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5202	573299	1	1	53	1	Marcela	Stuchlíková	F			33	prodavačka	Pecka	99	53	0
-5202	573299	1	1	53	2	Petr	Seliger	M			65	důchodce	Pecka	53	53	0
-5202	573299	1	1	53	3	František	Wolf	M			66	důchodce	Pecka	99	53	0
-5202	573299	1	2	470	1	Hana	Šterbová	F			45	starostka	Pecka	99	166	0
-5202	573299	1	2	470	2	Jaroslav	Mikulka	M			38	místostarosta	Kal	99	166	0
-5202	573299	1	2	470	3	Věra	Pavlová	F	RNDr.		50	ředitelka základní a mat.školy	Pecka	99	166	0
-5202	573299	1	2	470	4	Zdeněk	Burkert	M	Mgr.		43	středoškolský učitel	Pecka	99	166	0
-5202	573299	1	2	470	5	Michal	Drábek	M	Ing.		38	konstruktér	Pecka	99	166	0
-5202	573299	1	2	470	6	Petr	Doležal	M			42	státní zaměstnanec	Pecka	99	166	0
-5202	573299	1	2	470	7	Dagmar	Zeleňáková	F			40	disponent	Pecka	99	166	0
-5202	573299	1	2	470	8	David	Nosek	M			36	správce informačního systému	Staňkov	99	166	0
-5202	573299	1	2	470	9	Martin	Hylmar	M			33	seřizovač	Kal	99	166	0
-5202	573299	1	2	470	10	Irena	Jirková	F	Ing.		38	obchodník	Pecka	99	166	0
-5202	573299	1	2	470	11	Milena	Kosová	F			50	účetní	Pecka	99	166	0
-5202	573299	1	2	470	12	Josef	Nyč	M			40	seřizovač	Pecka	99	166	0
-5202	573299	1	2	470	13	Šárka	Kodymová	F	Mgr.		36	učitelka	Pecka	99	166	0
-5202	573299	1	2	470	14	Zdeněk	Kalenský	M			51	provozní mistr	Pecka	99	80	0
-5202	573299	1	2	470	15	Marie	Doležalová	F			65	důchodkyně	Pecka	99	80	0
-5202	573299	1	3	129	1	Ladislav	Stuchlík	M	Ing.		31	ved.majet.odboru MÚ Nová Paka	Pecka	99	129	0
-5202	573299	1	3	129	2	Petr	Zahradník	M	Ing.		27	vedoucí skladu	Pecka	99	129	0
-5202	573299	1	3	129	3	Luboš	Stuchlík	M			48	soukromý podnikatel	Vidonice	99	129	0
-5202	573299	1	3	129	4	Josef	Šeps	M			40	podnikatel	Pecka	99	129	0
-5202	573299	1	3	129	5	Štěpánka	Machová	F			36	zdravotní sestra	Bělá u Pecky	99	129	0
-5202	573299	1	3	129	6	František	Pavlíček	M			47	podnikatel	Pecka	99	129	0
-5202	573299	1	3	129	7	Vladislav	Stárek	M	Ing.		46	stavební inženýr	Pecka	99	129	0
-5202	573299	1	3	129	8	Tomáš	Pospíšil	M			34	osoba sam.výdělečně činná	Pecka	99	129	0
-5202	573299	1	3	129	9	Hana	Zachovalová	F	Mgr.		41	manager	Pecka	99	129	0
-5202	573299	1	3	129	10	Pavel	Nezbeda	M			32	podnikatel	Pecka	99	129	0
-5202	573299	1	3	129	11	Jan	Rolf	M			51	podnikatel	Pecka	99	129	0
-5202	573299	1	3	129	12	Libor	Čeřovský	M			29	podnikatel	Staňkov	99	129	0
-5202	573299	1	3	129	13	Vladimír	Šturm	M			55	podnikatel	Pecka	99	129	0
-5202	573299	1	3	129	14	Věra	Žlabová	F			46	kuchařka	Pecka	99	129	0
-5202	573299	1	3	129	15	Radek	Suchánek	M			33	mistr na pile	Bělá u Pecky	99	129	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5202	573299	1	1	53	1	Marcela	Stuchlíková			33	prodavačka	Pecka	99	53	0	F
+5202	573299	1	2	470	1	Hana	Šterbová			45	starostka	Pecka	99	166	0	F
+5202	573299	1	3	129	1	Ladislav	Stuchlík	Ing.		31	ved.majet.odboru MÚ Nová Paka	Pecka	99	129	0	M
+5202	573299	1	1	53	2	Petr	Seliger			65	důchodce	Pecka	53	53	0	M
+5202	573299	1	2	470	2	Jaroslav	Mikulka			38	místostarosta	Kal	99	166	0	M
+5202	573299	1	3	129	2	Petr	Zahradník	Ing.		27	vedoucí skladu	Pecka	99	129	0	M
+5202	573299	1	1	53	3	František	Wolf			66	důchodce	Pecka	99	53	0	M
+5202	573299	1	2	470	3	Věra	Pavlová	RNDr.		50	ředitelka základní a mat.školy	Pecka	99	166	0	F
+5202	573299	1	3	129	3	Luboš	Stuchlík			48	soukromý podnikatel	Vidonice	99	129	0	M
+5202	573299	1	2	470	4	Zdeněk	Burkert	Mgr.		43	středoškolský učitel	Pecka	99	166	0	M
+5202	573299	1	3	129	4	Josef	Šeps			40	podnikatel	Pecka	99	129	0	M
+5202	573299	1	2	470	5	Michal	Drábek	Ing.		38	konstruktér	Pecka	99	166	0	M
+5202	573299	1	3	129	5	Štěpánka	Machová			36	zdravotní sestra	Bělá u Pecky	99	129	0	F
+5202	573299	1	2	470	6	Petr	Doležal			42	státní zaměstnanec	Pecka	99	166	0	M
+5202	573299	1	3	129	6	František	Pavlíček			47	podnikatel	Pecka	99	129	0	M
+5202	573299	1	2	470	7	Dagmar	Zeleňáková			40	disponent	Pecka	99	166	0	F
+5202	573299	1	3	129	7	Vladislav	Stárek	Ing.		46	stavební inženýr	Pecka	99	129	0	M
+5202	573299	1	2	470	8	David	Nosek			36	správce informačního systému	Staňkov	99	166	0	M
+5202	573299	1	3	129	8	Tomáš	Pospíšil			34	osoba sam.výdělečně činná	Pecka	99	129	0	M
+5202	573299	1	2	470	9	Martin	Hylmar			33	seřizovač	Kal	99	166	0	M
+5202	573299	1	3	129	9	Hana	Zachovalová	Mgr.		41	manager	Pecka	99	129	0	F
+5202	573299	1	2	470	10	Irena	Jirková	Ing.		38	obchodník	Pecka	99	166	0	F
+5202	573299	1	3	129	10	Pavel	Nezbeda			32	podnikatel	Pecka	99	129	0	M
+5202	573299	1	2	470	11	Milena	Kosová			50	účetní	Pecka	99	166	0	F
+5202	573299	1	3	129	11	Jan	Rolf			51	podnikatel	Pecka	99	129	0	M
+5202	573299	1	2	470	12	Josef	Nyč			40	seřizovač	Pecka	99	166	0	M
+5202	573299	1	3	129	12	Libor	Čeřovský			29	podnikatel	Staňkov	99	129	0	M
+5202	573299	1	2	470	13	Šárka	Kodymová	Mgr.		36	učitelka	Pecka	99	166	0	F
+5202	573299	1	3	129	13	Vladimír	Šturm			55	podnikatel	Pecka	99	129	0	M
+5202	573299	1	2	470	14	Zdeněk	Kalenský			51	provozní mistr	Pecka	99	80	0	M
+5202	573299	1	3	129	14	Věra	Žlabová			46	kuchařka	Pecka	99	129	0	F
+5202	573299	1	2	470	15	Marie	Doležalová			65	důchodkyně	Pecka	99	80	0	F
+5202	573299	1	3	129	15	Radek	Suchánek			33	mistr na pile	Bělá u Pecky	99	129	0	M

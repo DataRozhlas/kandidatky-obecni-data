@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	535885	1	1	901	1	Jan	Kunčar	M			41	revírník	Hoštejn	99	80	0
-7105	535885	1	1	901	2	Pavel	Drozd	M	MVDr.		55	veterinární lékař	Hoštejn	99	80	0
-7105	535885	1	1	901	3	Lubomír	Navrátil	M			48	finanční poradce	Hoštejn	99	80	0
-7105	535885	1	1	901	4	Martin	Heger	M	Ing.		42	systémový specialista	Hoštejn	99	80	0
-7105	535885	1	1	901	5	Václav	Adamec	M	Ing.		26	projektový manažer	Hoštejn	99	80	0
-7105	535885	1	1	901	6	Josef	Blaháček	M			73	důchodce	Hoštejn	99	80	0
-7105	535885	1	1	901	7	Arťom	Suchý	M	Ing.		34	vedoucí kovovýroby	Hoštejn	99	80	0
-7105	535885	1	1	901	8	Veronika	Justová	F			33	prodavačka	Hoštejn	99	80	0
-7105	535885	1	1	901	9	Hana	Moravcová	F			53	referent MěÚ	Hoštejn	99	80	0
-7105	535885	1	2	902	1	Vladimír	Knápek	M			34	obchodní manažer	Hoštejn	99	80	0
-7105	535885	1	2	902	2	Kamil	Štajgl	M		DiS.	28	podnikatel	Hoštejn	99	80	0
-7105	535885	1	2	902	3	Michal	Knápek	M	Ing.		26	specialista v energetice	Hoštejn	99	80	0
-7105	535885	1	2	902	4	Pavel	Hadraba	M			33	technolog	Hoštejn	99	80	0
-7105	535885	1	2	902	5	Petr	Sojka	M	Ing.		27	mistr lesní výroby	Hoštejn	99	80	0
-7105	535885	1	2	902	6	Zdeněk	Fuglíček	M			26	výpravčí	Hoštejn	99	80	0
-7105	535885	1	2	902	7	Pavla	Hertlová	F			28	referent nákupu	Hoštejn	99	80	0
-7105	535885	1	2	902	8	Monika	Moravcová	F			28	administrativní pracovnice	Hoštejn	99	80	0
-7105	535885	1	2	902	9	Jan	Veigler	M			29	prodejce IT	Hoštejn	99	80	0
-7105	535885	1	3	1	1	Luděk	Diblík	M	Mgr.		47	technický administrátor	Hoštejn	99	1	0
-7105	535885	1	3	1	2	Radek	Finger	M			47	zedník	Hoštejn	99	1	0
-7105	535885	1	3	1	3	Dušan	Rohlík	M	Mgr.A.		38	restaurátor	Hoštejn	99	1	0
-7105	535885	1	3	1	4	Kateřina	Suchá	F	Mgr.		34	pedagožka	Hoštejn	99	1	0
-7105	535885	1	3	1	5	Tomáš	Hampl	M			38	technik	Hoštejn	99	1	0
-7105	535885	1	3	1	6	Alena	Mikolajková	F			55	dělnice	Hoštejn	1	1	0
-7105	535885	1	3	1	7	Věra	Bartoňová	F			39	prodejce CA	Hoštejn	99	1	0
-7105	535885	1	3	1	8	František	Doubrava	M			45	automechanik	Hoštejn	99	1	0
-7105	535885	1	3	1	9	Miroslava	Cikrytová	F			43	operátorka	Hoštejn	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	535885	1	1	901	1	Jan	Kunčar			41	revírník	Hoštejn	99	80	0	M
+7105	535885	1	2	902	1	Vladimír	Knápek			34	obchodní manažer	Hoštejn	99	80	0	M
+7105	535885	1	3	1	1	Luděk	Diblík	Mgr.		47	technický administrátor	Hoštejn	99	1	0	M
+7105	535885	1	1	901	2	Pavel	Drozd	MVDr.		55	veterinární lékař	Hoštejn	99	80	0	M
+7105	535885	1	2	902	2	Kamil	Štajgl		DiS.	28	podnikatel	Hoštejn	99	80	0	M
+7105	535885	1	3	1	2	Radek	Finger			47	zedník	Hoštejn	99	1	0	M
+7105	535885	1	1	901	3	Lubomír	Navrátil			48	finanční poradce	Hoštejn	99	80	0	M
+7105	535885	1	2	902	3	Michal	Knápek	Ing.		26	specialista v energetice	Hoštejn	99	80	0	M
+7105	535885	1	3	1	3	Dušan	Rohlík	Mgr.A.		38	restaurátor	Hoštejn	99	1	0	M
+7105	535885	1	1	901	4	Martin	Heger	Ing.		42	systémový specialista	Hoštejn	99	80	0	M
+7105	535885	1	2	902	4	Pavel	Hadraba			33	technolog	Hoštejn	99	80	0	M
+7105	535885	1	3	1	4	Kateřina	Suchá	Mgr.		34	pedagožka	Hoštejn	99	1	0	F
+7105	535885	1	1	901	5	Václav	Adamec	Ing.		26	projektový manažer	Hoštejn	99	80	0	M
+7105	535885	1	2	902	5	Petr	Sojka	Ing.		27	mistr lesní výroby	Hoštejn	99	80	0	M
+7105	535885	1	3	1	5	Tomáš	Hampl			38	technik	Hoštejn	99	1	0	M
+7105	535885	1	1	901	6	Josef	Blaháček			73	důchodce	Hoštejn	99	80	0	M
+7105	535885	1	2	902	6	Zdeněk	Fuglíček			26	výpravčí	Hoštejn	99	80	0	M
+7105	535885	1	3	1	6	Alena	Mikolajková			55	dělnice	Hoštejn	1	1	0	F
+7105	535885	1	1	901	7	Arťom	Suchý	Ing.		34	vedoucí kovovýroby	Hoštejn	99	80	0	M
+7105	535885	1	2	902	7	Pavla	Hertlová			28	referent nákupu	Hoštejn	99	80	0	F
+7105	535885	1	3	1	7	Věra	Bartoňová			39	prodejce CA	Hoštejn	99	1	0	F
+7105	535885	1	1	901	8	Veronika	Justová			33	prodavačka	Hoštejn	99	80	0	F
+7105	535885	1	2	902	8	Monika	Moravcová			28	administrativní pracovnice	Hoštejn	99	80	0	F
+7105	535885	1	3	1	8	František	Doubrava			45	automechanik	Hoštejn	99	1	0	M
+7105	535885	1	1	901	9	Hana	Moravcová			53	referent MěÚ	Hoštejn	99	80	0	F
+7105	535885	1	2	902	9	Jan	Veigler			29	prodejce IT	Hoštejn	99	80	0	M
+7105	535885	1	3	1	9	Miroslava	Cikrytová			43	operátorka	Hoštejn	99	1	0	F

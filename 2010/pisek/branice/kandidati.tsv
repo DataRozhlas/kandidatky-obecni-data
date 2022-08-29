@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	549304	1	1	1	1	Miroslav	Čáp	M			38	obchodní zástupce	Branice	99	1	0
-3104	549304	1	1	1	2	Petr	Černý	M	Ing.		50	projektant	Branice	99	1	0
-3104	549304	1	1	1	3	Zdeněk	Volf	M			31	obchodní zástupce	Branice	99	1	0
-3104	549304	1	1	1	4	Pavel	Mrkáček	M			26	lodník	Branice	99	1	0
-3104	549304	1	1	1	5	Tereza	Lhotová	F		DiS.	26	OSVČ	Branice	99	1	0
-3104	549304	1	1	1	6	Jana	Zemanová	F			61	důchodce	Branice	99	1	0
-3104	549304	1	1	1	7	Zdeněk	Sádlo	M			63	důchodce	Branice	99	1	0
-3104	549304	1	1	1	8	Zbyněk	Lhota	M			31	OSVČ	Branice	99	1	0
-3104	549304	1	2	47	1	Stanislav	Češka	M			44	starosta	Branice	99	47	0
-3104	549304	1	2	47	2	Ladislav	Kotaška	M			39	řidič	Branice	99	47	0
-3104	549304	1	2	47	3	Miroslav	Pícha	M			50	strojní zámečník	Branice	99	47	0
-3104	549304	1	2	47	4	Anna	Strnadová	F			51	podnikatelka	Branice	99	47	0
-3104	549304	1	2	47	5	František	Novák	M			38	automechanik	Branice	99	47	0
-3104	549304	1	2	47	6	Jiří	Vokurka	M			46	zemědělec	Branice	99	47	0
-3104	549304	1	2	47	7	Vilém	Fink	M	Ing.		55	technik	Branice	99	47	1
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	549304	1	1	1	1	Miroslav	Čáp			38	obchodní zástupce	Branice	99	1	0	M
+3104	549304	1	2	47	1	Stanislav	Češka			44	starosta	Branice	99	47	0	M
+3104	549304	1	1	1	2	Petr	Černý	Ing.		50	projektant	Branice	99	1	0	M
+3104	549304	1	2	47	2	Ladislav	Kotaška			39	řidič	Branice	99	47	0	M
+3104	549304	1	1	1	3	Zdeněk	Volf			31	obchodní zástupce	Branice	99	1	0	M
+3104	549304	1	2	47	3	Miroslav	Pícha			50	strojní zámečník	Branice	99	47	0	M
+3104	549304	1	1	1	4	Pavel	Mrkáček			26	lodník	Branice	99	1	0	M
+3104	549304	1	2	47	4	Anna	Strnadová			51	podnikatelka	Branice	99	47	0	F
+3104	549304	1	1	1	5	Tereza	Lhotová		DiS.	26	OSVČ	Branice	99	1	0	F
+3104	549304	1	2	47	5	František	Novák			38	automechanik	Branice	99	47	0	M
+3104	549304	1	1	1	6	Jana	Zemanová			61	důchodce	Branice	99	1	0	F
+3104	549304	1	2	47	6	Jiří	Vokurka			46	zemědělec	Branice	99	47	0	M
+3104	549304	1	1	1	7	Zdeněk	Sádlo			63	důchodce	Branice	99	1	0	M
+3104	549304	1	2	47	7	Vilém	Fink	Ing.		55	technik	Branice	99	47	1	M
+3104	549304	1	1	1	8	Zbyněk	Lhota			31	OSVČ	Branice	99	1	0	M

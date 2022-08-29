@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	541877	1	1	53	1	Eva	Janotová	F			57	starostka obce	Kněževes	53	53	0
-2112	541877	1	1	53	2	Petr	Bradáč	M	Ing.		53	administrátor IT	Kněževes	53	53	0
-2112	541877	1	1	53	3	Alena	Králičková	F			43	pojišťovací poradce	Kněževes	53	53	0
-2112	541877	1	1	53	4	Václav	Skála	M	PaedDr.		55	školní inspektor	Kněževes	99	53	0
-2112	541877	1	1	53	5	Renata	Picková	F			38	ekonomka	Kněževes	99	53	0
-2112	541877	1	1	53	6	Zdeněk	Jirgl	M			53	živnostník	Kněževes	99	53	0
-2112	541877	1	1	53	7	Zdeněk	Štětka	M			41	živnostník	Kněževes	99	53	0
-2112	541877	1	1	53	8	Jana	Sedláčková	F			49	úřednice	Kněževes	99	53	0
-2112	541877	1	1	53	9	Radek	Šíma	M			35	živnostník	Kněževes	99	53	0
-2112	541877	1	1	53	10	Radek	Gregor	M	Ing.		40	ředitel zemědělského podniku	Kněževes	99	53	0
-2112	541877	1	1	53	11	Luboš	Malafa	M			26	prodejce automobilů	Kněževes	53	53	0
-2112	541877	1	1	53	12	Jiří	Králička	M			45	provozní technik	Kněževes	99	53	0
-2112	541877	1	1	53	13	Zdenka	Malafová	F			47	úřednice	Kněževes	53	53	0
-2112	541877	1	2	47	1	Jan	Plaček	M			37	OSVČ	Kněževes	99	47	0
-2112	541877	1	2	47	2	Kamila	Miksová	F			47	obchodní zástupce	Kněževes	99	47	0
-2112	541877	1	2	47	3	Petr	Pisár	M			34	stavební technik	Kněževes	99	47	0
-2112	541877	1	2	47	4	Bohumila	Urbanová	F			52	invalidní důchodce	Kněževes	99	47	0
-2112	541877	1	2	47	5	Hana	Blechová	F			54	OSVČ	Kněževes	99	47	0
-2112	541877	1	2	47	6	Petra	Pekárnová	F			39	obsluha čerpací stanice	Kněževes	99	47	0
-2112	541877	1	2	47	7	Pavel	Fišer	M			39	strážník MP	Kněževes	99	47	0
-2112	541877	1	2	47	8	Miroslav	Kasan	M			58	OSVČ	Kněževes	47	47	0
-2112	541877	1	2	47	9	Luboš	Čechák	M			22	truhlář	Kněževes	99	47	0
-2112	541877	1	2	47	10	Jan	Vršecký	M			22	student	Kněževes	99	47	0
-2112	541877	1	2	47	11	Milan	Šefara	M			32	obráběč kovů	Kněževes	99	47	0
-2112	541877	1	2	47	12	Anna	Bidrmanová	F			31	invalidní důchodce	Kněževes	99	47	0
-2112	541877	1	2	47	13	Věra	Křivská	F			62	důchodce	Kněževes	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	541877	1	1	53	1	Eva	Janotová			57	starostka obce	Kněževes	53	53	0	F
+2112	541877	1	2	47	1	Jan	Plaček			37	OSVČ	Kněževes	99	47	0	M
+2112	541877	1	1	53	2	Petr	Bradáč	Ing.		53	administrátor IT	Kněževes	53	53	0	M
+2112	541877	1	2	47	2	Kamila	Miksová			47	obchodní zástupce	Kněževes	99	47	0	F
+2112	541877	1	1	53	3	Alena	Králičková			43	pojišťovací poradce	Kněževes	53	53	0	F
+2112	541877	1	2	47	3	Petr	Pisár			34	stavební technik	Kněževes	99	47	0	M
+2112	541877	1	1	53	4	Václav	Skála	PaedDr.		55	školní inspektor	Kněževes	99	53	0	M
+2112	541877	1	2	47	4	Bohumila	Urbanová			52	invalidní důchodce	Kněževes	99	47	0	F
+2112	541877	1	1	53	5	Renata	Picková			38	ekonomka	Kněževes	99	53	0	F
+2112	541877	1	2	47	5	Hana	Blechová			54	OSVČ	Kněževes	99	47	0	F
+2112	541877	1	1	53	6	Zdeněk	Jirgl			53	živnostník	Kněževes	99	53	0	M
+2112	541877	1	2	47	6	Petra	Pekárnová			39	obsluha čerpací stanice	Kněževes	99	47	0	F
+2112	541877	1	1	53	7	Zdeněk	Štětka			41	živnostník	Kněževes	99	53	0	M
+2112	541877	1	2	47	7	Pavel	Fišer			39	strážník MP	Kněževes	99	47	0	M
+2112	541877	1	1	53	8	Jana	Sedláčková			49	úřednice	Kněževes	99	53	0	F
+2112	541877	1	2	47	8	Miroslav	Kasan			58	OSVČ	Kněževes	47	47	0	M
+2112	541877	1	1	53	9	Radek	Šíma			35	živnostník	Kněževes	99	53	0	M
+2112	541877	1	2	47	9	Luboš	Čechák			22	truhlář	Kněževes	99	47	0	M
+2112	541877	1	1	53	10	Radek	Gregor	Ing.		40	ředitel zemědělského podniku	Kněževes	99	53	0	M
+2112	541877	1	2	47	10	Jan	Vršecký			22	student	Kněževes	99	47	0	M
+2112	541877	1	1	53	11	Luboš	Malafa			26	prodejce automobilů	Kněževes	53	53	0	M
+2112	541877	1	2	47	11	Milan	Šefara			32	obráběč kovů	Kněževes	99	47	0	M
+2112	541877	1	1	53	12	Jiří	Králička			45	provozní technik	Kněževes	99	53	0	M
+2112	541877	1	2	47	12	Anna	Bidrmanová			31	invalidní důchodce	Kněževes	99	47	0	F
+2112	541877	1	1	53	13	Zdenka	Malafová			47	úřednice	Kněževes	53	53	0	F
+2112	541877	1	2	47	13	Věra	Křivská			62	důchodce	Kněževes	99	47	0	F

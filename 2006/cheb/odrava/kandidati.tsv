@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4101	539554	1	1	901	1	Marie	Pastyříková	F			59	starostka obce	Odrava	99	80	0
-4101	539554	1	1	901	2	Alžběta	Derahová	F			41	administrativní pracovnice	Odrava	99	80	0
-4101	539554	1	1	901	3	Pavel	Gabriel	M			28	skladník	Odrava	99	80	0
-4101	539554	1	1	901	4	Jan	Cetkovský	M			29	umělec	Odrava	99	80	0
-4101	539554	1	1	901	5	Vladimír	Skala	M			33	celník	Potočiště	99	80	0
-4101	539554	1	1	901	6	Lenka	Podhirnová	F			31	kuchařka	Mostov	99	80	0
-4101	539554	1	1	901	7	Olga	Pýchová	F			45	úřednice	Odrava	99	80	0
-4101	539554	1	1	901	8	Hana	Pěčinková	F			55	v domácnosti	Dobroše	99	80	0
-4101	539554	1	1	901	9	Vlasta	Horvátová	F			40	mateřská dovolená	Odrava	99	80	0
-4101	539554	1	2	7	1	Eva	Derahová	F			63	důchodkyně	Odrava	99	7	0
-4101	539554	1	2	7	2	Věra	Leonhardtová	F			41	podnikatelka	Odrava	99	7	0
-4101	539554	1	2	7	3	František	Benedikt	M			56	zámečník	Odrava	99	7	0
-4101	539554	1	2	7	4	Petr	Kolář	M			49	dělník	Mostov	99	7	0
-4101	539554	1	2	7	5	David	Benko	M			23	mistr - stavař	Obilná	99	7	0
-4101	539554	1	2	7	6	Taťjana	Silovská	F			41	kadeřnice	Obilná	99	7	0
-4101	539554	1	2	7	7	Daniela	Baštürková	F			56	invalidní důchodce	Odrava	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4101	539554	1	1	901	1	Marie	Pastyříková			59	starostka obce	Odrava	99	80	0	F
+4101	539554	1	2	7	1	Eva	Derahová			63	důchodkyně	Odrava	99	7	0	F
+4101	539554	1	1	901	2	Alžběta	Derahová			41	administrativní pracovnice	Odrava	99	80	0	F
+4101	539554	1	2	7	2	Věra	Leonhardtová			41	podnikatelka	Odrava	99	7	0	F
+4101	539554	1	1	901	3	Pavel	Gabriel			28	skladník	Odrava	99	80	0	M
+4101	539554	1	2	7	3	František	Benedikt			56	zámečník	Odrava	99	7	0	M
+4101	539554	1	1	901	4	Jan	Cetkovský			29	umělec	Odrava	99	80	0	M
+4101	539554	1	2	7	4	Petr	Kolář			49	dělník	Mostov	99	7	0	M
+4101	539554	1	1	901	5	Vladimír	Skala			33	celník	Potočiště	99	80	0	M
+4101	539554	1	2	7	5	David	Benko			23	mistr - stavař	Obilná	99	7	0	M
+4101	539554	1	1	901	6	Lenka	Podhirnová			31	kuchařka	Mostov	99	80	0	F
+4101	539554	1	2	7	6	Taťjana	Silovská			41	kadeřnice	Obilná	99	7	0	F
+4101	539554	1	1	901	7	Olga	Pýchová			45	úřednice	Odrava	99	80	0	F
+4101	539554	1	2	7	7	Daniela	Baštürková			56	invalidní důchodce	Odrava	99	7	0	F
+4101	539554	1	1	901	8	Hana	Pěčinková			55	v domácnosti	Dobroše	99	80	0	F
+4101	539554	1	1	901	9	Vlasta	Horvátová			40	mateřská dovolená	Odrava	99	80	0	F

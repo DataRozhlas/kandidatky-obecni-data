@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	552178	1	1	1	1	Arnošt	Vogel	M			50	starosta	Haňovice	1	1	A
-7102	552178	1	1	1	2	Jaromír	Damovský	M			58	zaměstnanec	Kluzov	1	1	A
-7102	552178	1	1	1	3	Veronika	Beranová	F	Ing.		36	hlavní účetní	Haňovice	99	1	A
-7102	552178	1	1	1	4	Martina	Koudelná	F			30	učitelka MŠ	Haňovice	99	1	A
-7102	552178	1	1	1	5	Marie	Valouchová	F			59	OSVČ	Kluzov	99	1	A
-7102	552178	1	1	1	6	Petr	Vočka	M	Ing.		43	informatik - správce IT	Haňovice	99	1	A
-7102	552178	1	1	1	7	Jarmila	Smékalová	F			58	prodavačka	Haňovice	1	1	A
-7102	552178	1	1	1	8	Miroslava	Pokorná	F			47	OSVČ	Haňovice	99	1	A
-7102	552178	1	1	1	9	Libor	Šperlich	M			38	OSVČ	Kluzov	99	1	A
-7102	552178	1	2	181	1	Marek	Ihnát	M	Ing.		37	ekonom výroby	Haňovice	99	181	A
-7102	552178	1	2	181	2	František	Přikryl	M			45	zaměstnanec	Kluzov	99	181	A
-7102	552178	1	2	181	3	Jiří	Přidal	M			33	agronom	Haňovice	99	181	A
-7102	552178	1	2	181	4	Roman	Dolínek	M			38	zaměstnanec	Kluzov	99	181	A
-7102	552178	1	2	181	5	Josef	Kuchař	M			54	zaměstnanec	Haňovice	99	181	A
-7102	552178	1	2	181	6	Karel	Smetana	M			30	ředitel státní příspěvkové organizace	Haňovice	1	181	A
-7102	552178	1	2	181	7	Jan	Koudelný	M			26	zaměstnanec	Haňovice	99	181	A
-7102	552178	1	2	181	8	Miloslav	Špunda	M			67	důchodce	Kluzov	99	181	A
-7102	552178	1	2	181	9	Radek	Kryl	M			43	zaměstnanec	Haňovice	99	181	A
-7102	552178	1	3	901	1	Pavel	Grossmann	M			54	technik	Haňovice	99	80	A
-7102	552178	1	3	901	2	Miloslav	Procháska	M			53	mechanik-seřizovač	Haňovice	99	80	A
-7102	552178	1	3	901	3	Rudolf	Lang	M			63	automechanik	Haňovice	99	80	A
-7102	552178	1	3	901	4	Jaroslav	Kubica	M			62	invalidní důchodce	Haňovice	99	80	A
-7102	552178	1	3	901	5	Martin	Procháska	M			24	student VŠ	Haňovice	99	80	A
-7102	552178	1	3	901	6	Monika	Stodolová	F			30	učitelka	Haňovice	99	80	A
-7102	552178	1	3	901	7	Vladislav	Vodička	M			52	mechanik	Haňovice	99	80	A
-7102	552178	1	3	901	8	Světlana	Bomberová	F			46	účetní	Haňovice	99	80	A
-7102	552178	1	3	901	9	Zdenka	Hrabčíková	F			58	zdravotní sestra	Haňovice	99	80	A
-7102	552178	1	4	801	1	Vlastimil	Přidal	M			62	projektant	Haňovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	552178	1	1	1	1	Arnošt	Vogel			50	starosta	Haňovice	1	1	A	M
+7102	552178	1	2	181	1	Marek	Ihnát	Ing.		37	ekonom výroby	Haňovice	99	181	A	M
+7102	552178	1	3	901	1	Pavel	Grossmann			54	technik	Haňovice	99	80	A	M
+7102	552178	1	4	801	1	Vlastimil	Přidal			62	projektant	Haňovice	99	80	A	M
+7102	552178	1	1	1	2	Jaromír	Damovský			58	zaměstnanec	Kluzov	1	1	A	M
+7102	552178	1	2	181	2	František	Přikryl			45	zaměstnanec	Kluzov	99	181	A	M
+7102	552178	1	3	901	2	Miloslav	Procháska			53	mechanik-seřizovač	Haňovice	99	80	A	M
+7102	552178	1	1	1	3	Veronika	Beranová	Ing.		36	hlavní účetní	Haňovice	99	1	A	F
+7102	552178	1	2	181	3	Jiří	Přidal			33	agronom	Haňovice	99	181	A	M
+7102	552178	1	3	901	3	Rudolf	Lang			63	automechanik	Haňovice	99	80	A	M
+7102	552178	1	1	1	4	Martina	Koudelná			30	učitelka MŠ	Haňovice	99	1	A	F
+7102	552178	1	2	181	4	Roman	Dolínek			38	zaměstnanec	Kluzov	99	181	A	M
+7102	552178	1	3	901	4	Jaroslav	Kubica			62	invalidní důchodce	Haňovice	99	80	A	M
+7102	552178	1	1	1	5	Marie	Valouchová			59	OSVČ	Kluzov	99	1	A	F
+7102	552178	1	2	181	5	Josef	Kuchař			54	zaměstnanec	Haňovice	99	181	A	M
+7102	552178	1	3	901	5	Martin	Procháska			24	student VŠ	Haňovice	99	80	A	M
+7102	552178	1	1	1	6	Petr	Vočka	Ing.		43	informatik - správce IT	Haňovice	99	1	A	M
+7102	552178	1	2	181	6	Karel	Smetana			30	ředitel státní příspěvkové organizace	Haňovice	1	181	A	M
+7102	552178	1	3	901	6	Monika	Stodolová			30	učitelka	Haňovice	99	80	A	F
+7102	552178	1	1	1	7	Jarmila	Smékalová			58	prodavačka	Haňovice	1	1	A	F
+7102	552178	1	2	181	7	Jan	Koudelný			26	zaměstnanec	Haňovice	99	181	A	M
+7102	552178	1	3	901	7	Vladislav	Vodička			52	mechanik	Haňovice	99	80	A	M
+7102	552178	1	1	1	8	Miroslava	Pokorná			47	OSVČ	Haňovice	99	1	A	F
+7102	552178	1	2	181	8	Miloslav	Špunda			67	důchodce	Kluzov	99	181	A	M
+7102	552178	1	3	901	8	Světlana	Bomberová			46	účetní	Haňovice	99	80	A	F
+7102	552178	1	1	1	9	Libor	Šperlich			38	OSVČ	Kluzov	99	1	A	M
+7102	552178	1	2	181	9	Radek	Kryl			43	zaměstnanec	Haňovice	99	181	A	M
+7102	552178	1	3	901	9	Zdenka	Hrabčíková			58	zdravotní sestra	Haňovice	99	80	A	F

@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	590070	1	1	1	1	Jarmila	Stojanová	F			46	THP	Stražisko	99	1	0
-7103	590070	1	1	1	2	Petr	Novák	M			34	oděvní technik	Stražisko	99	1	0
-7103	590070	1	1	1	3	Jitka	Dvořáková	F			34	šička	Stražisko	99	1	0
-7103	590070	1	1	1	4	Jaroslava	Smržová	F			48	farmaceutická laborantka	Stražisko	99	1	0
-7103	590070	1	1	1	5	Ludmila	Greplová	F			58	důchodkyně	Stražisko	99	1	0
-7103	590070	1	1	1	6	Jitka	Peichlová	F			57	důchodkyně	Stražisko	99	1	0
-7103	590070	1	1	1	7	Jiří	Macháček	M			31	řidič	Stražisko	99	1	0
-7103	590070	1	1	1	8	Zdeněk	Dostál	M			69	důchodce	Stražisko	99	1	0
-7103	590070	1	1	1	9	František	Tylšar	M			67	důchodce	Stražisko	99	1	0
-7103	590070	1	2	7	1	Radomír	Krč	M			35	skladník	Stražisko-Růžov	7	7	0
-7103	590070	1	2	7	2	Pavlína	Voglová	F			40	poštovní úřednice	Stražisko	99	7	0
-7103	590070	1	2	7	3	Jaroslav	Čech	M			50	strážní služba	Stražisko	7	7	0
-7103	590070	1	2	7	4	Monika	Grulichová	F			26	skladová účetní	Stražisko-Maleny	99	7	0
-7103	590070	1	2	7	5	Radim	Lukáš	M			28	hasič	Stražisko	99	7	0
-7103	590070	1	2	7	6	Simona	Jarmarová	F			40	OSVČ	Stražisko-Maleny	99	7	0
-7103	590070	1	2	7	7	Marcela	Popelková	F			37	pracovnice školní jídelny	Stražisko-Růžov	99	7	0
-7103	590070	1	3	902	1	Pavel	Černý	M			32	řidič	Stražisko-Maleny	99	80	0
-7103	590070	1	3	902	2	Jiří	Tylšar	M			50	dispečer energetiky	Stražisko-Maleny	99	80	0
-7103	590070	1	3	902	3	Pavel	Kolík	M			57	hasič	Stražisko-Maleny	99	80	0
-7103	590070	1	3	902	4	Martin	Crhonek	M			31	mistr strojní výroby	Stražisko-Růžov	99	80	0
-7103	590070	1	3	902	5	Martin	Doseděl	M			28	osoba samost.výdělečně činná	Stražisko-Růžov	99	80	0
-7103	590070	1	3	902	6	Luboš	Krč	M			32	instalatér	Stražisko-Růžov	99	80	0
-7103	590070	1	3	902	7	Antonín	Navrátil	M			34	mistr dřevařské výroby	Stražisko-Růžov	99	80	0
-7103	590070	1	4	901	1	Jaroslav	Kröner	M			47	starosta obce	Stražisko - Růžov	99	80	0
-7103	590070	1	4	901	2	Jaroslava	Florianová	F			43	v domácnosti	Stražisko - Maleny	99	80	0
-7103	590070	1	4	901	3	Blanka	Lužná	F			39	mistrová	Stražisko - Růžov	99	80	0
-7103	590070	1	4	901	4	Jaroslav	Kralovič	M			58	podnikatel	Stražisko	99	80	0
-7103	590070	1	4	901	5	Stanislav	Motal	M	Ing.		41	technik	Stražisko - Růžov	99	80	0
-7103	590070	1	4	901	6	Jiří	Dohnal	M			37	podnikatel	Stražisko - Maleny	99	80	0
-7103	590070	1	4	901	7	František	Lužný	M			39	automechanik	Stražisko - Růžov	99	80	0
-7103	590070	1	4	901	8	Zbyněk	Grulich	M			38	vlakvedoucí	Stražisko - Růžov	99	80	0
-7103	590070	1	4	901	9	Jiří	Růžička	M			60	stolař	Stražisko	99	80	0
-7103	590070	1	5	47	1	Václav	Nevrla	M			50	státní zaměstnanec	Stražisko-Maleny	99	47	0
-7103	590070	1	5	47	2	Miroslav	Krejčí	M			43	strojvedoucí	Stražisko	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	590070	1	1	1	1	Jarmila	Stojanová			46	THP	Stražisko	99	1	0	F
+7103	590070	1	2	7	1	Radomír	Krč			35	skladník	Stražisko-Růžov	7	7	0	M
+7103	590070	1	3	902	1	Pavel	Černý			32	řidič	Stražisko-Maleny	99	80	0	M
+7103	590070	1	4	901	1	Jaroslav	Kröner			47	starosta obce	Stražisko - Růžov	99	80	0	M
+7103	590070	1	5	47	1	Václav	Nevrla			50	státní zaměstnanec	Stražisko-Maleny	99	47	0	M
+7103	590070	1	1	1	2	Petr	Novák			34	oděvní technik	Stražisko	99	1	0	M
+7103	590070	1	2	7	2	Pavlína	Voglová			40	poštovní úřednice	Stražisko	99	7	0	F
+7103	590070	1	3	902	2	Jiří	Tylšar			50	dispečer energetiky	Stražisko-Maleny	99	80	0	M
+7103	590070	1	4	901	2	Jaroslava	Florianová			43	v domácnosti	Stražisko - Maleny	99	80	0	F
+7103	590070	1	5	47	2	Miroslav	Krejčí			43	strojvedoucí	Stražisko	47	47	0	M
+7103	590070	1	1	1	3	Jitka	Dvořáková			34	šička	Stražisko	99	1	0	F
+7103	590070	1	2	7	3	Jaroslav	Čech			50	strážní služba	Stražisko	7	7	0	M
+7103	590070	1	3	902	3	Pavel	Kolík			57	hasič	Stražisko-Maleny	99	80	0	M
+7103	590070	1	4	901	3	Blanka	Lužná			39	mistrová	Stražisko - Růžov	99	80	0	F
+7103	590070	1	1	1	4	Jaroslava	Smržová			48	farmaceutická laborantka	Stražisko	99	1	0	F
+7103	590070	1	2	7	4	Monika	Grulichová			26	skladová účetní	Stražisko-Maleny	99	7	0	F
+7103	590070	1	3	902	4	Martin	Crhonek			31	mistr strojní výroby	Stražisko-Růžov	99	80	0	M
+7103	590070	1	4	901	4	Jaroslav	Kralovič			58	podnikatel	Stražisko	99	80	0	M
+7103	590070	1	1	1	5	Ludmila	Greplová			58	důchodkyně	Stražisko	99	1	0	F
+7103	590070	1	2	7	5	Radim	Lukáš			28	hasič	Stražisko	99	7	0	M
+7103	590070	1	3	902	5	Martin	Doseděl			28	osoba samost.výdělečně činná	Stražisko-Růžov	99	80	0	M
+7103	590070	1	4	901	5	Stanislav	Motal	Ing.		41	technik	Stražisko - Růžov	99	80	0	M
+7103	590070	1	1	1	6	Jitka	Peichlová			57	důchodkyně	Stražisko	99	1	0	F
+7103	590070	1	2	7	6	Simona	Jarmarová			40	OSVČ	Stražisko-Maleny	99	7	0	F
+7103	590070	1	3	902	6	Luboš	Krč			32	instalatér	Stražisko-Růžov	99	80	0	M
+7103	590070	1	4	901	6	Jiří	Dohnal			37	podnikatel	Stražisko - Maleny	99	80	0	M
+7103	590070	1	1	1	7	Jiří	Macháček			31	řidič	Stražisko	99	1	0	M
+7103	590070	1	2	7	7	Marcela	Popelková			37	pracovnice školní jídelny	Stražisko-Růžov	99	7	0	F
+7103	590070	1	3	902	7	Antonín	Navrátil			34	mistr dřevařské výroby	Stražisko-Růžov	99	80	0	M
+7103	590070	1	4	901	7	František	Lužný			39	automechanik	Stražisko - Růžov	99	80	0	M
+7103	590070	1	1	1	8	Zdeněk	Dostál			69	důchodce	Stražisko	99	1	0	M
+7103	590070	1	4	901	8	Zbyněk	Grulich			38	vlakvedoucí	Stražisko - Růžov	99	80	0	M
+7103	590070	1	1	1	9	František	Tylšar			67	důchodce	Stražisko	99	1	0	M
+7103	590070	1	4	901	9	Jiří	Růžička			60	stolař	Stražisko	99	80	0	M

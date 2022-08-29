@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	548553	1	1	7	1	Jiří	Stehno	M			32	kontrolor modelových zařízení	Slavětín	7	7	0
-6101	548553	1	1	7	2	Jaroslav	Bílek	M			64	obchodní zástupce	Slavětín	99	7	0
-6101	548553	1	1	7	3	Jiří	Cacek	M			46	vedoucí dílny	Slavětín	99	7	0
-6101	548553	1	1	7	4	Martin	Smejkal	M			36	živnostník	Slavětín	99	7	0
-6101	548553	1	1	7	5	Marie	Halamová	F			35	dámská krejčová	Slavětín	99	7	0
-6101	548553	1	1	7	6	Renata	Petruželková	F			20	kadeřnice	Slavětín	99	7	0
-6101	548553	1	2	901	1	Petr	Ondráček	M			35	lesní technik	Slavětín	99	80	0
-6101	548553	1	2	901	2	Marek	Doležel	M			31	SW specialista	Slavětín	99	80	0
-6101	548553	1	2	901	3	Miroslav	Sobotka	M			33	řidič dopravy	Slavětín	99	80	0
-6101	548553	1	2	901	4	Marie	Antlová	F			28	prodavačka	Slavětín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	548553	1	1	7	1	Jiří	Stehno			32	kontrolor modelových zařízení	Slavětín	7	7	0	M
+6101	548553	1	2	901	1	Petr	Ondráček			35	lesní technik	Slavětín	99	80	0	M
+6101	548553	1	1	7	2	Jaroslav	Bílek			64	obchodní zástupce	Slavětín	99	7	0	M
+6101	548553	1	2	901	2	Marek	Doležel			31	SW specialista	Slavětín	99	80	0	M
+6101	548553	1	1	7	3	Jiří	Cacek			46	vedoucí dílny	Slavětín	99	7	0	M
+6101	548553	1	2	901	3	Miroslav	Sobotka			33	řidič dopravy	Slavětín	99	80	0	M
+6101	548553	1	1	7	4	Martin	Smejkal			36	živnostník	Slavětín	99	7	0	M
+6101	548553	1	2	901	4	Marie	Antlová			28	prodavačka	Slavětín	99	80	0	F
+6101	548553	1	1	7	5	Marie	Halamová			35	dámská krejčová	Slavětín	99	7	0	F
+6101	548553	1	1	7	6	Renata	Petruželková			20	kadeřnice	Slavětín	99	7	0	F

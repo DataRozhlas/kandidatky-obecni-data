@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5202	573833	1	1	901	1	Roman	Fanta	M			35	řidič	Hradíšťko	99	80	0
-5202	573833	1	1	901	2	Miloš	Laloušek	M	Ing.		30	konstruktér	Žeretice	99	80	0
-5202	573833	1	1	901	3	Vladimír	Černý	M			51	traktorista	Hradíšťko	99	80	0
-5202	573833	1	1	901	4	Josef	Mazura	M			72	penzista	Vlhošť	99	80	0
-5202	573833	1	1	901	5	Luboš	Zmátlík	M			52	technik	Žeretice	99	80	0
-5202	573833	1	1	901	6	Naděžda	Šimerková	F			61	penzista	Žeretice	99	80	0
-5202	573833	1	1	901	7	Karel	Pacák	M			49	traktorista	Žeretice	99	80	0
-5202	573833	1	1	901	8	Veronika	Pacáková	F			24	účetní	Žeretice	99	80	0
-5202	573833	1	1	901	9	Roman	Palička	M			28	podnikatel	Žeretice	99	80	0
-5202	573833	1	2	902	1	Luboš	Stryal	M			56	řidič	Žeretice	99	80	0
-5202	573833	1	2	902	2	Pavel	Miler	M			37	mechanik	Žeretice	99	80	0
-5202	573833	1	2	902	3	Miloš	Svoboda	M			50	sanitář	Žeretice	99	80	0
-5202	573833	1	2	902	4	Milan	Zemánek	M			47	řidič	Žeretice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5202	573833	1	1	901	1	Roman	Fanta			35	řidič	Hradíšťko	99	80	0	M
+5202	573833	1	2	902	1	Luboš	Stryal			56	řidič	Žeretice	99	80	0	M
+5202	573833	1	1	901	2	Miloš	Laloušek	Ing.		30	konstruktér	Žeretice	99	80	0	M
+5202	573833	1	2	902	2	Pavel	Miler			37	mechanik	Žeretice	99	80	0	M
+5202	573833	1	1	901	3	Vladimír	Černý			51	traktorista	Hradíšťko	99	80	0	M
+5202	573833	1	2	902	3	Miloš	Svoboda			50	sanitář	Žeretice	99	80	0	M
+5202	573833	1	1	901	4	Josef	Mazura			72	penzista	Vlhošť	99	80	0	M
+5202	573833	1	2	902	4	Milan	Zemánek			47	řidič	Žeretice	99	80	0	M
+5202	573833	1	1	901	5	Luboš	Zmátlík			52	technik	Žeretice	99	80	0	M
+5202	573833	1	1	901	6	Naděžda	Šimerková			61	penzista	Žeretice	99	80	0	F
+5202	573833	1	1	901	7	Karel	Pacák			49	traktorista	Žeretice	99	80	0	M
+5202	573833	1	1	901	8	Veronika	Pacáková			24	účetní	Žeretice	99	80	0	F
+5202	573833	1	1	901	9	Roman	Palička			28	podnikatel	Žeretice	99	80	0	M

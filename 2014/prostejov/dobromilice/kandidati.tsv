@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589446	1	1	47	1	Vladimír	Piňos	M	Ing.		60	důchodce	Dobromilice	99	47	0
-7103	589446	1	1	47	2	Eva	Špalková	F			42	účetní	Dobromilice	99	47	0
-7103	589446	1	1	47	3	Jiří	Antoníček	M			45	dělník	Dobromilice	99	47	0
-7103	589446	1	1	47	4	Zdeňka	Mácová	F			42	školnice	Dobromilice	99	47	0
-7103	589446	1	1	47	5	Petr	Špičák	M			37	dělník	Dobromilice	99	47	0
-7103	589446	1	1	47	6	Ladislava	Kosmáková	F			66	důchodce	Dobromilice	99	47	0
-7103	589446	1	1	47	7	Alena	Matoušková	F			72	důchodce	Dobromilice	47	47	0
-7103	589446	1	2	802	1	Hana	Žondrová	F	Ing.		39	stavební inženýr, přípravář staveb	Dobromilice	99	80	0
-7103	589446	1	3	801	1	Zlata	Zajícová	F	Ing.		29	vedoucí pošty	Dobromilice	99	80	0
-7103	589446	1	4	1	1	Pavel	Drnovský	M			49	starosta obce	Dobromilice	99	1	0
-7103	589446	1	4	1	2	Michal	Rudyk	M			44	obsluha kanalizace a ČOV	Dobromilice	99	1	0
-7103	589446	1	4	1	3	Milan	Antoníček	M			29	řidič - mechanik	Dobromilice	99	1	0
-7103	589446	1	4	1	4	Milan	Polášek	M			53	mechanik - řidič	Dobromilice	99	1	0
-7103	589446	1	4	1	5	Petr	Hruda	M			28	automechanik	Dobromilice	99	1	0
-7103	589446	1	4	1	6	Marie	Selucká	F	Mgr.		50	sociální pracovnice	Dobromilice	99	1	0
-7103	589446	1	4	1	7	Karel	Poláček	M			65	senior	Dobromilice	99	1	0
-7103	589446	1	5	721	1	Josef	Špalek	M			62	důchodce	Dobromilice	99	721	0
-7103	589446	1	5	721	2	Pavel	Pazdera	M			38	instalatér	Dobromilice	99	721	0
-7103	589446	1	5	721	3	Pavel	Kumžák	M			41	elektrikář	Dobromilice	99	721	0
-7103	589446	1	5	721	4	Josef	Prusenovský	M	Ing.		39	stavbyvedoucí	Dobromilice	99	721	0
-7103	589446	1	5	721	5	Jaroslav	Jordán	M	Ing.		51	podnikatel	Dobromilice	99	721	0
-7103	589446	1	5	721	6	Lukáš	Hrabal	M			39	podnikatel	Dobromilice	99	721	0
-7103	589446	1	5	721	7	Dana	Coufalová	F			51	OSVČ - kadeřnice	Dobromilice	99	721	0
-7103	589446	1	5	721	8	Stanislav	Mrňka	M	Ing.		54	OSVČ - konzultant ve stavebnictví	Dobromilice	99	721	0
-7103	589446	1	5	721	9	Kateřina	Klapilová	F			31	diplomovaná radiologická laborantka	Dobromilice	99	721	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589446	1	1	47	1	Vladimír	Piňos	Ing.		60	důchodce	Dobromilice	99	47	0	M
+7103	589446	1	2	802	1	Hana	Žondrová	Ing.		39	stavební inženýr, přípravář staveb	Dobromilice	99	80	0	F
+7103	589446	1	3	801	1	Zlata	Zajícová	Ing.		29	vedoucí pošty	Dobromilice	99	80	0	F
+7103	589446	1	4	1	1	Pavel	Drnovský			49	starosta obce	Dobromilice	99	1	0	M
+7103	589446	1	5	721	1	Josef	Špalek			62	důchodce	Dobromilice	99	721	0	M
+7103	589446	1	1	47	2	Eva	Špalková			42	účetní	Dobromilice	99	47	0	F
+7103	589446	1	4	1	2	Michal	Rudyk			44	obsluha kanalizace a ČOV	Dobromilice	99	1	0	M
+7103	589446	1	5	721	2	Pavel	Pazdera			38	instalatér	Dobromilice	99	721	0	M
+7103	589446	1	1	47	3	Jiří	Antoníček			45	dělník	Dobromilice	99	47	0	M
+7103	589446	1	4	1	3	Milan	Antoníček			29	řidič - mechanik	Dobromilice	99	1	0	M
+7103	589446	1	5	721	3	Pavel	Kumžák			41	elektrikář	Dobromilice	99	721	0	M
+7103	589446	1	1	47	4	Zdeňka	Mácová			42	školnice	Dobromilice	99	47	0	F
+7103	589446	1	4	1	4	Milan	Polášek			53	mechanik - řidič	Dobromilice	99	1	0	M
+7103	589446	1	5	721	4	Josef	Prusenovský	Ing.		39	stavbyvedoucí	Dobromilice	99	721	0	M
+7103	589446	1	1	47	5	Petr	Špičák			37	dělník	Dobromilice	99	47	0	M
+7103	589446	1	4	1	5	Petr	Hruda			28	automechanik	Dobromilice	99	1	0	M
+7103	589446	1	5	721	5	Jaroslav	Jordán	Ing.		51	podnikatel	Dobromilice	99	721	0	M
+7103	589446	1	1	47	6	Ladislava	Kosmáková			66	důchodce	Dobromilice	99	47	0	F
+7103	589446	1	4	1	6	Marie	Selucká	Mgr.		50	sociální pracovnice	Dobromilice	99	1	0	F
+7103	589446	1	5	721	6	Lukáš	Hrabal			39	podnikatel	Dobromilice	99	721	0	M
+7103	589446	1	1	47	7	Alena	Matoušková			72	důchodce	Dobromilice	47	47	0	F
+7103	589446	1	4	1	7	Karel	Poláček			65	senior	Dobromilice	99	1	0	M
+7103	589446	1	5	721	7	Dana	Coufalová			51	OSVČ - kadeřnice	Dobromilice	99	721	0	F
+7103	589446	1	5	721	8	Stanislav	Mrňka	Ing.		54	OSVČ - konzultant ve stavebnictví	Dobromilice	99	721	0	M
+7103	589446	1	5	721	9	Kateřina	Klapilová			31	diplomovaná radiologická laborantka	Dobromilice	99	721	0	F

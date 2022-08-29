@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	550132	1	1	7	1	Dana	Křížová	F			45	starostka	Olšany	7	7	0
-6206	550132	1	1	7	2	Arnošt	Ohli	M	Ing.		35	samostatný tech. pracovník	Olšany	7	7	0
-6206	550132	1	1	7	3	Pavel	Jašek	M	Mgr.		51	právník	Olšany	7	7	0
-6206	550132	1	1	7	4	Bohuslav	Tomášek	M			45	řidič	Olšany	7	7	0
-6206	550132	1	1	7	5	Tomáš	Hrdinka	M			57	soukromý zemědělec	Olšany	99	7	0
-6206	550132	1	1	7	6	Zdeňka	Střelcová	F			55	zásobovačka	Olšany	99	7	0
-6206	550132	1	1	7	7	Florián	Kostrbík	M	Ing.		51	ředitel firmy	Olšany	99	7	0
-6206	550132	1	1	7	8	Eva	Modlitbová	F	Ing.		26	zástupce ředitele	Olšany	99	7	0
-6206	550132	1	1	7	9	Žaneta	Tomášková	F	Bc.		35	sociální pedagog	Olšany	99	7	0
-6206	550132	1	2	1	1	Antonín	Bojanovský	M			63	důchodce	Olšany	99	1	0
-6206	550132	1	2	1	2	Tomáš	Valehrach	M			21	automechanik	Olšany	99	1	0
-6206	550132	1	2	1	3	Vít	Kunc	M			23	zámečník	Olšany	99	1	0
-6206	550132	1	2	1	4	Renáta	Rausová	F			42	servírka	Olšany	99	1	0
-6206	550132	1	2	1	5	Pavel	Kunc	M			20	zámečník	Olšany	99	1	0
-6206	550132	1	2	1	6	Oto	Valehrach	M			23	čišník	Olšany	99	1	0
-6206	550132	1	2	1	7	Eva	Kuncová	F			40	v domácnosti	Olšany	1	1	0
-6206	550132	1	2	1	8	Hana	Valehrachová	F			43	prodavačka	Olšany	1	1	0
-6206	550132	1	2	1	9	Dagmar	Spostová	F			42	prodavačka	Olšany	99	1	0
-6206	550132	1	3	47	1	Martin	Dundálek	M			57	invalidní důchodce	Olšany	47	47	0
-6206	550132	1	3	47	2	Antonín	Röss	M			53	dělník	Olšany	47	47	0
-6206	550132	1	3	47	3	Luboš	Hrdinka	M			47	živnostník-instalatér	Olšany	99	47	0
-6206	550132	1	3	47	4	Danuše	Miková	F			56	důchodkyně	Olšany	99	47	0
-6206	550132	1	3	47	5	Ladislav	Vysoudil	M			37	dělník	Olšany	99	47	0
-6206	550132	1	3	47	6	Ladislav	Vysoudil	M			60	důchodce	Olšany	99	47	0
-6206	550132	1	3	47	7	František	Režný	M			57	dělník	Olšany	47	47	0
-6206	550132	1	3	47	8	Anna	Rybníkářová	F			48	dělnice	Olšany	47	47	0
-6206	550132	1	3	47	9	Magda	Balážová	F			28	živnostník	Olšany	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	550132	1	1	7	1	Dana	Křížová			45	starostka	Olšany	7	7	0	F
+6206	550132	1	2	1	1	Antonín	Bojanovský			63	důchodce	Olšany	99	1	0	M
+6206	550132	1	3	47	1	Martin	Dundálek			57	invalidní důchodce	Olšany	47	47	0	M
+6206	550132	1	1	7	2	Arnošt	Ohli	Ing.		35	samostatný tech. pracovník	Olšany	7	7	0	M
+6206	550132	1	2	1	2	Tomáš	Valehrach			21	automechanik	Olšany	99	1	0	M
+6206	550132	1	3	47	2	Antonín	Röss			53	dělník	Olšany	47	47	0	M
+6206	550132	1	1	7	3	Pavel	Jašek	Mgr.		51	právník	Olšany	7	7	0	M
+6206	550132	1	2	1	3	Vít	Kunc			23	zámečník	Olšany	99	1	0	M
+6206	550132	1	3	47	3	Luboš	Hrdinka			47	živnostník-instalatér	Olšany	99	47	0	M
+6206	550132	1	1	7	4	Bohuslav	Tomášek			45	řidič	Olšany	7	7	0	M
+6206	550132	1	2	1	4	Renáta	Rausová			42	servírka	Olšany	99	1	0	F
+6206	550132	1	3	47	4	Danuše	Miková			56	důchodkyně	Olšany	99	47	0	F
+6206	550132	1	1	7	5	Tomáš	Hrdinka			57	soukromý zemědělec	Olšany	99	7	0	M
+6206	550132	1	2	1	5	Pavel	Kunc			20	zámečník	Olšany	99	1	0	M
+6206	550132	1	3	47	5	Ladislav	Vysoudil			37	dělník	Olšany	99	47	0	M
+6206	550132	1	1	7	6	Zdeňka	Střelcová			55	zásobovačka	Olšany	99	7	0	F
+6206	550132	1	2	1	6	Oto	Valehrach			23	čišník	Olšany	99	1	0	M
+6206	550132	1	3	47	6	Ladislav	Vysoudil			60	důchodce	Olšany	99	47	0	M
+6206	550132	1	1	7	7	Florián	Kostrbík	Ing.		51	ředitel firmy	Olšany	99	7	0	M
+6206	550132	1	2	1	7	Eva	Kuncová			40	v domácnosti	Olšany	1	1	0	F
+6206	550132	1	3	47	7	František	Režný			57	dělník	Olšany	47	47	0	M
+6206	550132	1	1	7	8	Eva	Modlitbová	Ing.		26	zástupce ředitele	Olšany	99	7	0	F
+6206	550132	1	2	1	8	Hana	Valehrachová			43	prodavačka	Olšany	1	1	0	F
+6206	550132	1	3	47	8	Anna	Rybníkářová			48	dělnice	Olšany	47	47	0	F
+6206	550132	1	1	7	9	Žaneta	Tomášková	Bc.		35	sociální pedagog	Olšany	99	7	0	F
+6206	550132	1	2	1	9	Dagmar	Spostová			42	prodavačka	Olšany	99	1	0	F
+6206	550132	1	3	47	9	Magda	Balážová			28	živnostník	Olšany	99	47	0	F

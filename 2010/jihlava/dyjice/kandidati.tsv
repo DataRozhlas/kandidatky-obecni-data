@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6102	587109	1	1	902	1	Jiří	Brychta	M			43	podnikatel	Dyjice	99	80	0
-6102	587109	1	1	902	2	Jitka	Klimešová	F			46	účetní	Dyjička	99	80	0
-6102	587109	1	1	902	3	Jaromír	Pavlíček	M			41	podnikatel	Dyjice	99	80	0
-6102	587109	1	1	902	4	Milan	Tušer	M			38	automechanik	Dyjice	99	80	0
-6102	587109	1	1	902	5	František	Kumbár	M			45	traktorista	Dyjice	99	80	0
-6102	587109	1	1	902	6	Ladislav	Lakatos	M			53	seřizovač	Dyjička	99	80	0
-6102	587109	1	1	902	7	Miroslav	Korčák	M			61	důchodce	Dyjice	99	80	0
-6102	587109	1	2	901	1	Milan	Opravil	M	Mgr.		47	ředitel DD	Dyjice	99	80	0
-6102	587109	1	2	901	2	Miloš	Brtník	M			50	soukromý zemědělec	Stranná	99	80	0
-6102	587109	1	2	901	3	Jaroslav	Blecha	M			62	zásobovač	Dolní Dvorce	99	80	0
-6102	587109	1	2	901	4	Josef	Tušer	M			68	důchodce	Dyjice	99	80	0
-6102	587109	1	2	901	5	Jiří	Brychta	M			21	umělecký truhlář	Dyjice	99	80	0
-6102	587109	1	2	901	6	Ludmila	Kumbárová	F			21	student	Dyjice	99	80	0
-6102	587109	1	2	901	7	Jaroslav	Blecha	M	Ing.		34	ekonom	Dolní Dvorce	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6102	587109	1	1	902	1	Jiří	Brychta			43	podnikatel	Dyjice	99	80	0	M
+6102	587109	1	2	901	1	Milan	Opravil	Mgr.		47	ředitel DD	Dyjice	99	80	0	M
+6102	587109	1	1	902	2	Jitka	Klimešová			46	účetní	Dyjička	99	80	0	F
+6102	587109	1	2	901	2	Miloš	Brtník			50	soukromý zemědělec	Stranná	99	80	0	M
+6102	587109	1	1	902	3	Jaromír	Pavlíček			41	podnikatel	Dyjice	99	80	0	M
+6102	587109	1	2	901	3	Jaroslav	Blecha			62	zásobovač	Dolní Dvorce	99	80	0	M
+6102	587109	1	1	902	4	Milan	Tušer			38	automechanik	Dyjice	99	80	0	M
+6102	587109	1	2	901	4	Josef	Tušer			68	důchodce	Dyjice	99	80	0	M
+6102	587109	1	1	902	5	František	Kumbár			45	traktorista	Dyjice	99	80	0	M
+6102	587109	1	2	901	5	Jiří	Brychta			21	umělecký truhlář	Dyjice	99	80	0	M
+6102	587109	1	1	902	6	Ladislav	Lakatos			53	seřizovač	Dyjička	99	80	0	M
+6102	587109	1	2	901	6	Ludmila	Kumbárová			21	student	Dyjice	99	80	0	F
+6102	587109	1	1	902	7	Miroslav	Korčák			61	důchodce	Dyjice	99	80	0	M
+6102	587109	1	2	901	7	Jaroslav	Blecha	Ing.		34	ekonom	Dolní Dvorce	99	80	0	M

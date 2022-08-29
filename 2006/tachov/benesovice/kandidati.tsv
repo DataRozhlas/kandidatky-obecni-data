@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3207	560723	1	1	902	1	Monika	Sotáková	F	Mgr.		35	učitelka	Benešovice	99	80	0
-3207	560723	1	1	902	2	Rostislav	Kamínek	M			64	důchodce	Benešovice	99	80	0
-3207	560723	1	1	902	3	Jiří	Šiler	M			45	řidič	Benešovice	99	80	0
-3207	560723	1	1	902	4	Ladislav	Švýcarský	M			37	kuchař	Benešovice	99	80	0
-3207	560723	1	1	902	5	Monika	Šobrová	F			37	žena v domácnosti	Lom u Stříbra	99	80	0
-3207	560723	1	1	902	6	Jaroslav	Novotný	M			58	důchodce	Lom u Stříbra	99	80	0
-3207	560723	1	1	902	7	Pavel	Šnebergr	M			58	podnikatel	Lom u Stříbra	99	80	0
-3207	560723	1	1	902	8	Milan	Šandorka	M			28	řidič	Benešovice	99	80	0
-3207	560723	1	2	901	1	Miroslav	Janča	M			52	starosta obce	Benešovice	99	80	0
-3207	560723	1	2	901	2	Jaroslav	Krýsl	M			43	dělník	Benešovice	99	80	0
-3207	560723	1	2	901	3	Luboš	Berky	M			34	dělník	Benešovice	99	80	0
-3207	560723	1	2	901	4	Jiří	Matějček	M			61	důchodce	Lom u Stříbra	99	80	0
-3207	560723	1	2	901	5	Martin	Sova	M			37	hasič z povolání	Benešovice	99	80	0
-3207	560723	1	2	901	6	Vladimír	Dvořák	M			40	dělník	Benešovice	99	80	0
-3207	560723	1	2	901	7	František	Němec	M			51	důchodce	Benešovice	99	80	0
-3207	560723	1	2	901	8	Kateřina	Bělohorcová	F			30	technicko-hosp. pracovník	Benešovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3207	560723	1	1	902	1	Monika	Sotáková	Mgr.		35	učitelka	Benešovice	99	80	0	F
+3207	560723	1	2	901	1	Miroslav	Janča			52	starosta obce	Benešovice	99	80	0	M
+3207	560723	1	1	902	2	Rostislav	Kamínek			64	důchodce	Benešovice	99	80	0	M
+3207	560723	1	2	901	2	Jaroslav	Krýsl			43	dělník	Benešovice	99	80	0	M
+3207	560723	1	1	902	3	Jiří	Šiler			45	řidič	Benešovice	99	80	0	M
+3207	560723	1	2	901	3	Luboš	Berky			34	dělník	Benešovice	99	80	0	M
+3207	560723	1	1	902	4	Ladislav	Švýcarský			37	kuchař	Benešovice	99	80	0	M
+3207	560723	1	2	901	4	Jiří	Matějček			61	důchodce	Lom u Stříbra	99	80	0	M
+3207	560723	1	1	902	5	Monika	Šobrová			37	žena v domácnosti	Lom u Stříbra	99	80	0	F
+3207	560723	1	2	901	5	Martin	Sova			37	hasič z povolání	Benešovice	99	80	0	M
+3207	560723	1	1	902	6	Jaroslav	Novotný			58	důchodce	Lom u Stříbra	99	80	0	M
+3207	560723	1	2	901	6	Vladimír	Dvořák			40	dělník	Benešovice	99	80	0	M
+3207	560723	1	1	902	7	Pavel	Šnebergr			58	podnikatel	Lom u Stříbra	99	80	0	M
+3207	560723	1	2	901	7	František	Němec			51	důchodce	Benešovice	99	80	0	M
+3207	560723	1	1	902	8	Milan	Šandorka			28	řidič	Benešovice	99	80	0	M
+3207	560723	1	2	901	8	Kateřina	Bělohorcová			30	technicko-hosp. pracovník	Benešovice	99	80	0	F

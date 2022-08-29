@@ -1,32 +1,32 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	583651	1	1	902	1	František	Maxián	M			46	podnikatel	Popovice	99	80	A
-6203	583651	1	1	902	2	Petr	Havlík	M	Ing.		30	odborný asistent	Popovice	99	80	A
-6203	583651	1	1	902	3	Pavel	Hrdlička	M			61	podnikatel	Popovice	99	80	A
-6203	583651	1	1	902	4	Radek	Svítil	M			47	vedoucí montáží	Popovice	99	80	A
-6203	583651	1	1	902	5	Erik	Schwarz	M	Ing.		49	vedoucí pracovník	Popovice	99	80	A
-6203	583651	1	1	902	6	František	Zigmund	M			60	řidič	Popovice	99	80	A
-6203	583651	1	1	902	7	Michal	Fiala	M			36	vedoucí expedice	Popovice	99	80	A
-6203	583651	1	1	902	8	Kateřina	Kuglerová	F			37	podnikatelka	Popovice	99	80	A
-6203	583651	1	2	901	1	Daniela	Fialová	F	Bc.		36	ekonomka	Popovice	99	80	A
-6203	583651	1	2	901	2	Jaromír	Zajíc	M			41	řidič	Popovice	99	80	A
-6203	583651	1	2	901	3	Michaela	Kubíková	F	Mgr.		36	advokátka	Popovice	99	80	A
-6203	583651	1	2	901	4	Eva	Kroupová	F			43	zdravotní sestra	Popovice	99	80	A
-6203	583651	1	2	901	5	Pavlína	Uhrincová	F			36	zubní technička	Popovice	99	80	A
-6203	583651	1	2	901	6	Marie	Svítilová	F			46	administrativní pracovnice	Popovice	99	80	A
-6203	583651	1	2	901	7	Lucie	Sedmidubská	F			38	mateřská dovolená	Popovice	99	80	A
-6203	583651	1	3	904	1	Eva	Hrudová	F	Mgr. Ing.	Ph.D.	48	VŠ pedagog	Popovice	99	80	A
-6203	583651	1	3	904	2	Blanka	Marušincová	F	Ing.	MSc.	40	řízení mezinárodních projektů	Popovice	99	80	A
-6203	583651	1	3	904	3	Iveta	Kožnárková	F	Mgr.		53	ředitelka kontaktního pracoviště ÚP	Popovice	99	80	A
-6203	583651	1	3	904	4	Róbert	Jankových	M	doc. Ing.	CSc.	60	VŠ pedagog	Popovice	99	80	A
-6203	583651	1	3	904	5	Stanislav	Šurel	M	MUDr.		51	lékař	Popovice	99	80	A
-6203	583651	1	3	904	6	Vavřinec	Paděra	M			75	důchodce	Popovice	99	80	A
-6203	583651	1	3	904	7	Ludmila	Benešová	F			66	důchodce	Popovice	99	80	A
-6203	583651	1	3	904	8	Martina	Horáčková	F			54	hudebnice	Popovice	99	80	A
-6203	583651	1	3	904	9	David	Navrátil	M	Ing.		39	soukromý zemědělec	Popovice	99	80	A
-6203	583651	1	4	903	1	Jiří	Bednář	M	Ing.		56	obchodní manažer	Popovice	99	80	A
-6203	583651	1	4	903	2	Aleš	Knitl	M			51	pracovník logistiky, podnikatel	Popovice	99	80	A
-6203	583651	1	4	903	3	Jiří	Koláček	M	Ing.		39	podnikatel	Popovice	99	80	A
-6203	583651	1	4	903	4	Martin	Pařez	M			42	manažer	Popovice	99	80	A
-6203	583651	1	4	903	5	Jiří	Maxián	M			30	podnikatel	Popovice	99	80	A
-6203	583651	1	4	903	6	Josef	Römer	M			66	důchodce	Popovice	99	80	A
-6203	583651	1	4	903	7	Jakub	Pokorný	M			28	elektrotechnik	Popovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	583651	1	1	902	1	František	Maxián			46	podnikatel	Popovice	99	80	A	M
+6203	583651	1	2	901	1	Daniela	Fialová	Bc.		36	ekonomka	Popovice	99	80	A	F
+6203	583651	1	3	904	1	Eva	Hrudová	Mgr. Ing.	Ph.D.	48	VŠ pedagog	Popovice	99	80	A	F
+6203	583651	1	4	903	1	Jiří	Bednář	Ing.		56	obchodní manažer	Popovice	99	80	A	M
+6203	583651	1	1	902	2	Petr	Havlík	Ing.		30	odborný asistent	Popovice	99	80	A	M
+6203	583651	1	2	901	2	Jaromír	Zajíc			41	řidič	Popovice	99	80	A	M
+6203	583651	1	3	904	2	Blanka	Marušincová	Ing.	MSc.	40	řízení mezinárodních projektů	Popovice	99	80	A	F
+6203	583651	1	4	903	2	Aleš	Knitl			51	pracovník logistiky, podnikatel	Popovice	99	80	A	M
+6203	583651	1	1	902	3	Pavel	Hrdlička			61	podnikatel	Popovice	99	80	A	M
+6203	583651	1	2	901	3	Michaela	Kubíková	Mgr.		36	advokátka	Popovice	99	80	A	F
+6203	583651	1	3	904	3	Iveta	Kožnárková	Mgr.		53	ředitelka kontaktního pracoviště ÚP	Popovice	99	80	A	F
+6203	583651	1	4	903	3	Jiří	Koláček	Ing.		39	podnikatel	Popovice	99	80	A	M
+6203	583651	1	1	902	4	Radek	Svítil			47	vedoucí montáží	Popovice	99	80	A	M
+6203	583651	1	2	901	4	Eva	Kroupová			43	zdravotní sestra	Popovice	99	80	A	F
+6203	583651	1	3	904	4	Róbert	Jankových	doc. Ing.	CSc.	60	VŠ pedagog	Popovice	99	80	A	M
+6203	583651	1	4	903	4	Martin	Pařez			42	manažer	Popovice	99	80	A	M
+6203	583651	1	1	902	5	Erik	Schwarz	Ing.		49	vedoucí pracovník	Popovice	99	80	A	M
+6203	583651	1	2	901	5	Pavlína	Uhrincová			36	zubní technička	Popovice	99	80	A	F
+6203	583651	1	3	904	5	Stanislav	Šurel	MUDr.		51	lékař	Popovice	99	80	A	M
+6203	583651	1	4	903	5	Jiří	Maxián			30	podnikatel	Popovice	99	80	A	M
+6203	583651	1	1	902	6	František	Zigmund			60	řidič	Popovice	99	80	A	M
+6203	583651	1	2	901	6	Marie	Svítilová			46	administrativní pracovnice	Popovice	99	80	A	F
+6203	583651	1	3	904	6	Vavřinec	Paděra			75	důchodce	Popovice	99	80	A	M
+6203	583651	1	4	903	6	Josef	Römer			66	důchodce	Popovice	99	80	A	M
+6203	583651	1	1	902	7	Michal	Fiala			36	vedoucí expedice	Popovice	99	80	A	M
+6203	583651	1	2	901	7	Lucie	Sedmidubská			38	mateřská dovolená	Popovice	99	80	A	F
+6203	583651	1	3	904	7	Ludmila	Benešová			66	důchodce	Popovice	99	80	A	F
+6203	583651	1	4	903	7	Jakub	Pokorný			28	elektrotechnik	Popovice	99	80	A	M
+6203	583651	1	1	902	8	Kateřina	Kuglerová			37	podnikatelka	Popovice	99	80	A	F
+6203	583651	1	3	904	8	Martina	Horáčková			54	hudebnice	Popovice	99	80	A	F
+6203	583651	1	3	904	9	David	Navrátil	Ing.		39	soukromý zemědělec	Popovice	99	80	A	M

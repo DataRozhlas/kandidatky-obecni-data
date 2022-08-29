@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	596566	1	1	902	1	Martina	Sedláková	F	Ing.		31	marketingový specialista	Radostín	99	80	A
-6105	596566	1	1	902	2	Marek	Pospíchal	M	Bc.		31	strážník	Radostín	99	80	A
-6105	596566	1	1	902	3	Jana	Petrů	F			45	administrativní pracovník	Radostín	99	80	A
-6105	596566	1	2	901	1	Ivana	Chromá	F	Mgr.		33	pověřenec pro ochranu os.údajů	Radostín	99	80	A
-6105	596566	1	2	901	2	Roman	Wagner	M			40	řidič	Radostín	99	80	A
-6105	596566	1	2	901	3	Jan	Kulhánek	M			69	důchodce	Radostín	99	80	A
-6105	596566	1	2	901	4	Sylva	Geffroy	F	Mgr.		43	učitelka	Radostín	99	80	A
-6105	596566	1	2	901	5	Josef	Kasal	M			68	důchodce	Radostín	7	80	A
-6105	596566	1	2	901	6	Pavla	Wagnerová	F			39	zdravotní sestra	Radostín	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	596566	1	1	902	1	Martina	Sedláková	Ing.		31	marketingový specialista	Radostín	99	80	A	F
+6105	596566	1	2	901	1	Ivana	Chromá	Mgr.		33	pověřenec pro ochranu os.údajů	Radostín	99	80	A	F
+6105	596566	1	1	902	2	Marek	Pospíchal	Bc.		31	strážník	Radostín	99	80	A	M
+6105	596566	1	2	901	2	Roman	Wagner			40	řidič	Radostín	99	80	A	M
+6105	596566	1	1	902	3	Jana	Petrů			45	administrativní pracovník	Radostín	99	80	A	F
+6105	596566	1	2	901	3	Jan	Kulhánek			69	důchodce	Radostín	99	80	A	M
+6105	596566	1	2	901	4	Sylva	Geffroy	Mgr.		43	učitelka	Radostín	99	80	A	F
+6105	596566	1	2	901	5	Josef	Kasal			68	důchodce	Radostín	7	80	A	M
+6105	596566	1	2	901	6	Pavla	Wagnerová			39	zdravotní sestra	Radostín	99	80	A	F

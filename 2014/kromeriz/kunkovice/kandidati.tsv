@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7201	588628	1	1	901	1	Roman	Novotný	M	Ing.	DiS.,	32	technik	Kunkovice	99	80	0
-7201	588628	1	1	901	2	Marie	Cícerová	F			64	důchodce	Kunkovice	99	80	0
-7201	588628	1	1	901	3	Marie	Pavlíková	F			66	důchodce	Kunkovice	99	80	0
-7201	588628	1	1	901	4	Vlasta	Zubálová	F			59	důchodce	Kunkovice	99	80	0
-7201	588628	1	1	901	5	Pavla	Krausová	F		DiS.,	37	mateřská dovolená	Kunkovice	99	80	0
-7201	588628	1	1	901	6	Otto	Švančara	M			67	důchodce	Kunkovice	99	80	0
-7201	588628	1	1	901	7	Dagmar	Mácová	F			60	důchodce	Kunkovice	99	80	0
-7201	588628	1	2	902	1	Ondřej	Kost	M			30	strojní zámečník	Kunkovice	99	80	0
-7201	588628	1	2	902	2	Tereza	Adamovová	F	Mgr.		28	právník	Kunkovice	99	80	0
-7201	588628	1	2	902	3	Božena	Plichtová	F			60	důchodkyně	Kunkovice	99	80	0
-7201	588628	1	2	902	4	René	Mischek	M			40	živnostník	Kunkovice	99	80	0
-7201	588628	1	2	902	5	Jitka	Grossmannová	F			47	nezaměstnaná	Kunkovice	99	80	0
-7201	588628	1	2	902	6	Sáva	Křižan	M			37	živnostník	Kunkovice	99	80	0
-7201	588628	1	2	902	7	Ivo	Kratochvíl	M			29	architekt	Kunkovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7201	588628	1	1	901	1	Roman	Novotný	Ing.	DiS.,	32	technik	Kunkovice	99	80	0	M
+7201	588628	1	2	902	1	Ondřej	Kost			30	strojní zámečník	Kunkovice	99	80	0	M
+7201	588628	1	1	901	2	Marie	Cícerová			64	důchodce	Kunkovice	99	80	0	F
+7201	588628	1	2	902	2	Tereza	Adamovová	Mgr.		28	právník	Kunkovice	99	80	0	F
+7201	588628	1	1	901	3	Marie	Pavlíková			66	důchodce	Kunkovice	99	80	0	F
+7201	588628	1	2	902	3	Božena	Plichtová			60	důchodkyně	Kunkovice	99	80	0	F
+7201	588628	1	1	901	4	Vlasta	Zubálová			59	důchodce	Kunkovice	99	80	0	F
+7201	588628	1	2	902	4	René	Mischek			40	živnostník	Kunkovice	99	80	0	M
+7201	588628	1	1	901	5	Pavla	Krausová		DiS.,	37	mateřská dovolená	Kunkovice	99	80	0	F
+7201	588628	1	2	902	5	Jitka	Grossmannová			47	nezaměstnaná	Kunkovice	99	80	0	F
+7201	588628	1	1	901	6	Otto	Švančara			67	důchodce	Kunkovice	99	80	0	M
+7201	588628	1	2	902	6	Sáva	Křižan			37	živnostník	Kunkovice	99	80	0	M
+7201	588628	1	1	901	7	Dagmar	Mácová			60	důchodce	Kunkovice	99	80	0	F
+7201	588628	1	2	902	7	Ivo	Kratochvíl			29	architekt	Kunkovice	99	80	0	M

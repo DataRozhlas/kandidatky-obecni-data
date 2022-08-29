@@ -1,38 +1,38 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8102	552569	1	1	53	1	Zbyněk	Prokop	M			56	místostarosta	Staříč	53	53	0
-8102	552569	1	1	53	2	Libor	Alex	M			36	OSVČ	Staříč	99	53	0
-8102	552569	1	1	53	3	Lubomír	Hajný	M	Mgr.		30	OSVČ	Staříč	99	53	0
-8102	552569	1	1	53	4	Zdeňka	Šebestová	F			61	starostka	Staříč	53	53	0
-8102	552569	1	1	53	5	Aleš	Žurovec	M	Mgr.		40	analytik	Staříč	99	53	0
-8102	552569	1	1	53	6	František	Haladej	M	Ing.		61	technik	Staříč	53	53	0
-8102	552569	1	1	53	7	Josef	Volný	M			59	technik	Staříč	99	53	0
-8102	552569	1	1	53	8	Jan	Koška	M	Ing.		43	OSVČ	Staříč	99	53	0
-8102	552569	1	1	53	9	Jan	Golembiovský	M	Ing.		64	důchodce	Staříč	99	53	0
-8102	552569	1	2	7	1	Zdeněk	Volný	M			57	elektrotechnik	Staříč	7	7	0
-8102	552569	1	2	7	2	Pavel	Skalka	M			46	horník	Staříč	7	7	0
-8102	552569	1	2	7	3	Blanka	Pešková	F			45	knihovnice	Staříč	99	7	0
-8102	552569	1	2	7	4	Radek	Urbiš	M			45	elektromechanik	Staříč	99	7	0
-8102	552569	1	2	7	5	Milada	Tobolová	F			52	obchodní zástupce	Staříč	99	7	0
-8102	552569	1	2	7	6	Petr	Sládek	M			53	zámečník	Staříč	99	7	0
-8102	552569	1	2	7	7	Anna	Pokorná	F			41	domovnice KD ve Staříči	Staříč	99	7	0
-8102	552569	1	3	47	1	David	Kolář	M			44	technik	Staříč	99	47	0
-8102	552569	1	3	47	2	Vilma	Gladišová	F			47	účetní	Staříč	99	47	0
-8102	552569	1	3	47	3	Tomáš	Janečka	M			45	technik	Staříč	99	47	0
-8102	552569	1	3	47	4	Zdeněk	Hrabec	M			63	dělník	Staříč	47	47	0
-8102	552569	1	3	47	5	Pavel	Gladiš	M			69	důchodce	Staříč	47	47	0
-8102	552569	1	3	47	6	Libor	Volný	M			61	nezaměst.	Staříč	47	47	0
-8102	552569	1	3	47	7	Blažej	Závodný	M			71	důchodce	Staříč	47	47	0
-8102	552569	1	4	901	1	Libor	Macháček	M	Ing.		44	stavební technik	Staříč	99	80	0
-8102	552569	1	4	901	2	Lenka	Žídková	F			50	učitelka ZŠ	Staříč	99	80	0
-8102	552569	1	4	901	3	Tomáš	Slanina	M			42	řidič	Staříč	99	80	0
-8102	552569	1	4	901	4	Ondřej	Žídek	M	Bc.		28	konzultant el. nákupu	Staříč	99	80	0
-8102	552569	1	4	901	5	Hynek	Berek	M			40	technik	Staříč	99	80	0
-8102	552569	1	5	1	1	Pavel	Volný	M			47	nástrojář	Staříč	1	1	0
-8102	552569	1	5	1	2	Libor	Kravčík	M			62	jednatel s.r.o.	Staříč	1	1	0
-8102	552569	1	5	1	3	Petr	Bittner	M			60	restaurátor	Staříč	1	1	0
-8102	552569	1	5	1	4	Václav	Dvorský	M	Ing.		48	systémový specialista	Staříč	1	1	0
-8102	552569	1	5	1	5	Jan	Bittner	M	MgA.		33	restaurátor	Staříč	99	1	0
-8102	552569	1	5	1	6	Miroslava	Kubalová	F			57	ved.školní jídelny	Staříč	99	1	0
-8102	552569	1	5	1	7	Vojtěch	Konečný	M			63	důchodce	Staříč	99	1	0
-8102	552569	1	5	1	8	Vlasta	Kolčárková	F			55	admin.pracovník	Staříč	1	1	0
-8102	552569	1	5	1	9	Jana	Cenigová	F			55	kuchařka	Staříč	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8102	552569	1	1	53	1	Zbyněk	Prokop			56	místostarosta	Staříč	53	53	0	M
+8102	552569	1	2	7	1	Zdeněk	Volný			57	elektrotechnik	Staříč	7	7	0	M
+8102	552569	1	3	47	1	David	Kolář			44	technik	Staříč	99	47	0	M
+8102	552569	1	4	901	1	Libor	Macháček	Ing.		44	stavební technik	Staříč	99	80	0	M
+8102	552569	1	5	1	1	Pavel	Volný			47	nástrojář	Staříč	1	1	0	M
+8102	552569	1	1	53	2	Libor	Alex			36	OSVČ	Staříč	99	53	0	M
+8102	552569	1	2	7	2	Pavel	Skalka			46	horník	Staříč	7	7	0	M
+8102	552569	1	3	47	2	Vilma	Gladišová			47	účetní	Staříč	99	47	0	F
+8102	552569	1	4	901	2	Lenka	Žídková			50	učitelka ZŠ	Staříč	99	80	0	F
+8102	552569	1	5	1	2	Libor	Kravčík			62	jednatel s.r.o.	Staříč	1	1	0	M
+8102	552569	1	1	53	3	Lubomír	Hajný	Mgr.		30	OSVČ	Staříč	99	53	0	M
+8102	552569	1	2	7	3	Blanka	Pešková			45	knihovnice	Staříč	99	7	0	F
+8102	552569	1	3	47	3	Tomáš	Janečka			45	technik	Staříč	99	47	0	M
+8102	552569	1	4	901	3	Tomáš	Slanina			42	řidič	Staříč	99	80	0	M
+8102	552569	1	5	1	3	Petr	Bittner			60	restaurátor	Staříč	1	1	0	M
+8102	552569	1	1	53	4	Zdeňka	Šebestová			61	starostka	Staříč	53	53	0	F
+8102	552569	1	2	7	4	Radek	Urbiš			45	elektromechanik	Staříč	99	7	0	M
+8102	552569	1	3	47	4	Zdeněk	Hrabec			63	dělník	Staříč	47	47	0	M
+8102	552569	1	4	901	4	Ondřej	Žídek	Bc.		28	konzultant el. nákupu	Staříč	99	80	0	M
+8102	552569	1	5	1	4	Václav	Dvorský	Ing.		48	systémový specialista	Staříč	1	1	0	M
+8102	552569	1	1	53	5	Aleš	Žurovec	Mgr.		40	analytik	Staříč	99	53	0	M
+8102	552569	1	2	7	5	Milada	Tobolová			52	obchodní zástupce	Staříč	99	7	0	F
+8102	552569	1	3	47	5	Pavel	Gladiš			69	důchodce	Staříč	47	47	0	M
+8102	552569	1	4	901	5	Hynek	Berek			40	technik	Staříč	99	80	0	M
+8102	552569	1	5	1	5	Jan	Bittner	MgA.		33	restaurátor	Staříč	99	1	0	M
+8102	552569	1	1	53	6	František	Haladej	Ing.		61	technik	Staříč	53	53	0	M
+8102	552569	1	2	7	6	Petr	Sládek			53	zámečník	Staříč	99	7	0	M
+8102	552569	1	3	47	6	Libor	Volný			61	nezaměst.	Staříč	47	47	0	M
+8102	552569	1	5	1	6	Miroslava	Kubalová			57	ved.školní jídelny	Staříč	99	1	0	F
+8102	552569	1	1	53	7	Josef	Volný			59	technik	Staříč	99	53	0	M
+8102	552569	1	2	7	7	Anna	Pokorná			41	domovnice KD ve Staříči	Staříč	99	7	0	F
+8102	552569	1	3	47	7	Blažej	Závodný			71	důchodce	Staříč	47	47	0	M
+8102	552569	1	5	1	7	Vojtěch	Konečný			63	důchodce	Staříč	99	1	0	M
+8102	552569	1	1	53	8	Jan	Koška	Ing.		43	OSVČ	Staříč	99	53	0	M
+8102	552569	1	5	1	8	Vlasta	Kolčárková			55	admin.pracovník	Staříč	1	1	0	F
+8102	552569	1	1	53	9	Jan	Golembiovský	Ing.		64	důchodce	Staříč	99	53	0	M
+8102	552569	1	5	1	9	Jana	Cenigová			55	kuchařka	Staříč	99	1	0	F

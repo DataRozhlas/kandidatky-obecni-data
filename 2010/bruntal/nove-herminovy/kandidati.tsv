@@ -1,20 +1,20 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	569551	1	1	47	1	Simona	Tomečková	F			41	pomocný admin. pracovník	Nové Heřminovy	99	47	0
-8101	569551	1	1	47	2	Lenka	Matušková	F			40	sanitářka	Nové Heřminovy	99	47	0
-8101	569551	1	1	47	3	Jarmila	Kopíncová	F			47	interní auditor	Nové Heřminovy	99	47	0
-8101	569551	1	1	47	4	Tomáš	Beránek	M			26	student	Nové Heřminovy	99	47	0
-8101	569551	1	1	47	5	Zdeněk	Jaroš	M			65	důchodce	Nové Heřminovy	99	47	0
-8101	569551	1	1	47	6	Elena	Jarombeková	F			59	důchodce	Nové Heřminovy	99	47	0
-8101	569551	1	1	47	7	Kateřina	Květoňová	F			27	mateřská dovolená	Nové Heřminovy	99	47	0
-8101	569551	1	2	901	1	Radek	Sijka	M			49	dělník	Nové Heřminovy	99	80	0
-8101	569551	1	2	901	2	Milena	Hebnarová	F	Mgr.		50	pedagog	Nové Heřminovy	99	80	0
-8101	569551	1	2	901	3	Ludvík	Drobný	M	Ing.		51	vedoucí laborant	Nové Heřminovy	99	80	0
-8101	569551	1	2	901	4	Věra	Daňková	F			50	servírka	Nové Heřminovy	99	80	0
-8101	569551	1	2	901	5	Kateřina	Beránková	F			36	dělnice	Nové Heřminovy	99	80	0
-8101	569551	1	2	901	6	Štefan	Baláž	M			52	živnostník	Nové Heřminovy	99	80	0
-8101	569551	1	2	901	7	Simona	Steigerová	F			38	účetní	Nové Heřminovy	99	80	0
-8101	569551	1	3	902	1	Radovan	Jílka	M	Mgr.		43	pedagog	Nové Heřminovy	99	80	0
-8101	569551	1	3	902	2	Eva	Hečková	F			30	sociální úřednice	Nové Heřminovy	99	80	0
-8101	569551	1	3	902	3	Jiří	Pavelka	M			40	lesník	Nové Heřminovy	99	80	0
-8101	569551	1	3	902	4	Zdenek	Zátopek	M			35	státní zaměstnanec	Nové Heřminovy	99	80	0
-8101	569551	1	3	902	5	Tomáš	Maňák	M			34	živnostník	Nové Heřminovy	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	569551	1	1	47	1	Simona	Tomečková			41	pomocný admin. pracovník	Nové Heřminovy	99	47	0	F
+8101	569551	1	2	901	1	Radek	Sijka			49	dělník	Nové Heřminovy	99	80	0	M
+8101	569551	1	3	902	1	Radovan	Jílka	Mgr.		43	pedagog	Nové Heřminovy	99	80	0	M
+8101	569551	1	1	47	2	Lenka	Matušková			40	sanitářka	Nové Heřminovy	99	47	0	F
+8101	569551	1	2	901	2	Milena	Hebnarová	Mgr.		50	pedagog	Nové Heřminovy	99	80	0	F
+8101	569551	1	3	902	2	Eva	Hečková			30	sociální úřednice	Nové Heřminovy	99	80	0	F
+8101	569551	1	1	47	3	Jarmila	Kopíncová			47	interní auditor	Nové Heřminovy	99	47	0	F
+8101	569551	1	2	901	3	Ludvík	Drobný	Ing.		51	vedoucí laborant	Nové Heřminovy	99	80	0	M
+8101	569551	1	3	902	3	Jiří	Pavelka			40	lesník	Nové Heřminovy	99	80	0	M
+8101	569551	1	1	47	4	Tomáš	Beránek			26	student	Nové Heřminovy	99	47	0	M
+8101	569551	1	2	901	4	Věra	Daňková			50	servírka	Nové Heřminovy	99	80	0	F
+8101	569551	1	3	902	4	Zdenek	Zátopek			35	státní zaměstnanec	Nové Heřminovy	99	80	0	M
+8101	569551	1	1	47	5	Zdeněk	Jaroš			65	důchodce	Nové Heřminovy	99	47	0	M
+8101	569551	1	2	901	5	Kateřina	Beránková			36	dělnice	Nové Heřminovy	99	80	0	F
+8101	569551	1	3	902	5	Tomáš	Maňák			34	živnostník	Nové Heřminovy	99	80	0	M
+8101	569551	1	1	47	6	Elena	Jarombeková			59	důchodce	Nové Heřminovy	99	47	0	F
+8101	569551	1	2	901	6	Štefan	Baláž			52	živnostník	Nové Heřminovy	99	80	0	M
+8101	569551	1	1	47	7	Kateřina	Květoňová			27	mateřská dovolená	Nové Heřminovy	99	47	0	F
+8101	569551	1	2	901	7	Simona	Steigerová			38	účetní	Nové Heřminovy	99	80	0	F

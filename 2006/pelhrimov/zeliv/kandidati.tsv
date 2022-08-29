@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6103	549215	1	1	53	1	Karel	Novák	M	Ing.		57	vedoucí pracovník	Želiv	53	53	0
-6103	549215	1	1	53	2	Zdeněk	Navrátil	M			68	důchodce	Želiv	99	53	0
-6103	549215	1	1	53	3	Josef	Jelínek	M			52	podnikatel	Želiv	53	53	0
-6103	549215	1	1	53	4	Josef	Kubík	M			55	vedoucí pracovník	Želiv	99	53	0
-6103	549215	1	1	53	5	Jaroslav	Baloun	M			56	podnikatel	Želiv	53	53	0
-6103	549215	1	1	53	6	Jindřich	Müller	M			67	důchodce	Želiv	53	53	0
-6103	549215	1	2	1	1	Michael	Líbl	M			28	překladatel	Želiv	1	1	0
-6103	549215	1	2	1	2	Miroslav	Urban	M	Ing.		51	strojní inženýr	Želiv	1	1	0
-6103	549215	1	2	1	3	Miloslav	Veleta	M			59	soukromý zemědělec	Brtná	99	1	0
-6103	549215	1	2	1	4	Jiřina	Krejčová	F			51	podnikatelka v zemědělství	Brtná	99	1	0
-6103	549215	1	2	1	5	Alois	Krupka	M			61	důchodce	Želiv	99	1	0
-6103	549215	1	2	1	6	Petr	Žák	M			28	učitel hudby	Želiv	99	1	0
-6103	549215	1	2	1	7	Rudolf	Říha	M			37	dělník	Želiv	99	1	0
-6103	549215	1	2	1	8	Jana	Brávková	F			36	soukromý zemědělec	Brtná	99	1	0
-6103	549215	1	2	1	9	Marta	Šimáčková	F			35	zdravotní sestra	Želiv	99	1	0
-6103	549215	1	3	129	1	Karel	Chmel	M			51	starosta obce	Želiv	99	129	0
-6103	549215	1	3	129	2	Marie	Dolejšová	F	Mgr.		51	ředitelka ZŠ	Želiv	99	129	0
-6103	549215	1	3	129	3	Václav	Šebesta	M			51	instalatér	Želiv	99	129	0
-6103	549215	1	3	129	4	Pavel	Novák	M			44	technik	Vřesník	99	129	0
-6103	549215	1	3	129	5	Stanislava	Kovářová	F			40	účetní	Želiv	99	129	0
-6103	549215	1	3	129	6	Stanislav	Radina	M			42	soukromý podnikatel	Želiv	99	129	0
-6103	549215	1	3	129	7	Václav	Adamec	M			45	soukromý podnikatel	Želiv	99	129	0
-6103	549215	1	3	129	8	Květa	Kasalová	F			56	ředitelka MŠ	Želiv	99	129	0
-6103	549215	1	3	129	9	Bohuslav	Hypš	M			47	technik	Želiv	99	129	0
-6103	549215	1	4	7	1	Libor	Karásek	M			33	soukromý podnikatel	Želiv	99	7	0
-6103	549215	1	4	7	2	Dana	Nováková	F			43	vychovatelka školní družiny	Želiv	7	7	0
-6103	549215	1	4	7	3	Jiří	Mrťka	M			59	soukromý podnikatel	Bolechov	7	7	0
-6103	549215	1	4	7	4	Iveta	Krejčí	F			34	administrativní pracovnice	Brtná	99	7	0
-6103	549215	1	4	7	5	Vít	Vacek	M			28	vedoucí směny	Bolechov	99	7	0
-6103	549215	1	4	7	6	Margit	Křikavová	F			41	zdravotní sestra	Želiv	99	7	0
-6103	549215	1	4	7	7	Michal	Holub	M			30	mistr výroby	Bolechov	99	7	0
-6103	549215	1	4	7	8	Miroslav	Sochůrek	M			42	dělník	Želiv	7	7	0
-6103	549215	1	4	7	9	Anděla	Tomanová	F			63	důchodkyně	Želiv	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6103	549215	1	1	53	1	Karel	Novák	Ing.		57	vedoucí pracovník	Želiv	53	53	0	M
+6103	549215	1	2	1	1	Michael	Líbl			28	překladatel	Želiv	1	1	0	M
+6103	549215	1	3	129	1	Karel	Chmel			51	starosta obce	Želiv	99	129	0	M
+6103	549215	1	4	7	1	Libor	Karásek			33	soukromý podnikatel	Želiv	99	7	0	M
+6103	549215	1	1	53	2	Zdeněk	Navrátil			68	důchodce	Želiv	99	53	0	M
+6103	549215	1	2	1	2	Miroslav	Urban	Ing.		51	strojní inženýr	Želiv	1	1	0	M
+6103	549215	1	3	129	2	Marie	Dolejšová	Mgr.		51	ředitelka ZŠ	Želiv	99	129	0	F
+6103	549215	1	4	7	2	Dana	Nováková			43	vychovatelka školní družiny	Želiv	7	7	0	F
+6103	549215	1	1	53	3	Josef	Jelínek			52	podnikatel	Želiv	53	53	0	M
+6103	549215	1	2	1	3	Miloslav	Veleta			59	soukromý zemědělec	Brtná	99	1	0	M
+6103	549215	1	3	129	3	Václav	Šebesta			51	instalatér	Želiv	99	129	0	M
+6103	549215	1	4	7	3	Jiří	Mrťka			59	soukromý podnikatel	Bolechov	7	7	0	M
+6103	549215	1	1	53	4	Josef	Kubík			55	vedoucí pracovník	Želiv	99	53	0	M
+6103	549215	1	2	1	4	Jiřina	Krejčová			51	podnikatelka v zemědělství	Brtná	99	1	0	F
+6103	549215	1	3	129	4	Pavel	Novák			44	technik	Vřesník	99	129	0	M
+6103	549215	1	4	7	4	Iveta	Krejčí			34	administrativní pracovnice	Brtná	99	7	0	F
+6103	549215	1	1	53	5	Jaroslav	Baloun			56	podnikatel	Želiv	53	53	0	M
+6103	549215	1	2	1	5	Alois	Krupka			61	důchodce	Želiv	99	1	0	M
+6103	549215	1	3	129	5	Stanislava	Kovářová			40	účetní	Želiv	99	129	0	F
+6103	549215	1	4	7	5	Vít	Vacek			28	vedoucí směny	Bolechov	99	7	0	M
+6103	549215	1	1	53	6	Jindřich	Müller			67	důchodce	Želiv	53	53	0	M
+6103	549215	1	2	1	6	Petr	Žák			28	učitel hudby	Želiv	99	1	0	M
+6103	549215	1	3	129	6	Stanislav	Radina			42	soukromý podnikatel	Želiv	99	129	0	M
+6103	549215	1	4	7	6	Margit	Křikavová			41	zdravotní sestra	Želiv	99	7	0	F
+6103	549215	1	2	1	7	Rudolf	Říha			37	dělník	Želiv	99	1	0	M
+6103	549215	1	3	129	7	Václav	Adamec			45	soukromý podnikatel	Želiv	99	129	0	M
+6103	549215	1	4	7	7	Michal	Holub			30	mistr výroby	Bolechov	99	7	0	M
+6103	549215	1	2	1	8	Jana	Brávková			36	soukromý zemědělec	Brtná	99	1	0	F
+6103	549215	1	3	129	8	Květa	Kasalová			56	ředitelka MŠ	Želiv	99	129	0	F
+6103	549215	1	4	7	8	Miroslav	Sochůrek			42	dělník	Želiv	7	7	0	M
+6103	549215	1	2	1	9	Marta	Šimáčková			35	zdravotní sestra	Želiv	99	1	0	F
+6103	549215	1	3	129	9	Bohuslav	Hypš			47	technik	Želiv	99	129	0	M
+6103	549215	1	4	7	9	Anděla	Tomanová			63	důchodkyně	Želiv	99	7	0	F

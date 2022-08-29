@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	569534	1	1	805	1	Lenka	Žegucová	F			36	finanční poradce	Stříbrné Hory	99	80	0
-6101	569534	1	2	809	1	Bohuslav	Baloun	M			45	elektromechanik	Stříbrné Hory	99	80	0
-6101	569534	1	3	808	1	Bohuslav	Zych	M			44	traťový strojník	Stříbrné Hory	99	80	0
-6101	569534	1	4	803	1	Michal	Smejkal	M			39	traktorista	Stříbrné Hory	99	80	0
-6101	569534	1	5	804	1	Milan	Tomas	M			32	elektromechanik	Stříbrné Hory	99	80	0
-6101	569534	1	6	802	1	Zdeněk	Danielka	M			42	elektromechanik	Stříbrné Hory	99	80	0
-6101	569534	1	7	806	1	Václav	Daniel	M			34	mechanizátor lesní výroby	Stříbrné Hory	99	80	0
-6101	569534	1	8	1	1	Marie	Kolláriková	F	JUDr.		66	důchodce	Stříbrné Hory	99	1	0
-6101	569534	1	8	1	2	Jan	Pazour	M			27	obchodní činnost	Stříbrné Hory	99	1	0
-6101	569534	1	9	801	1	Ondřej	Daniel	M			33	invalidní důchodce	Stříbrné Hory	99	80	0
-6101	569534	1	10	810	1	Jolana	Musilová	F			43	porodní asistentka	Stříbrné Hory	99	80	0
-6101	569534	1	11	807	1	Jiří	Sibera	M			40	technik	Stříbrné Hory	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	569534	1	1	805	1	Lenka	Žegucová			36	finanční poradce	Stříbrné Hory	99	80	0	F
+6101	569534	1	2	809	1	Bohuslav	Baloun			45	elektromechanik	Stříbrné Hory	99	80	0	M
+6101	569534	1	3	808	1	Bohuslav	Zych			44	traťový strojník	Stříbrné Hory	99	80	0	M
+6101	569534	1	4	803	1	Michal	Smejkal			39	traktorista	Stříbrné Hory	99	80	0	M
+6101	569534	1	5	804	1	Milan	Tomas			32	elektromechanik	Stříbrné Hory	99	80	0	M
+6101	569534	1	6	802	1	Zdeněk	Danielka			42	elektromechanik	Stříbrné Hory	99	80	0	M
+6101	569534	1	7	806	1	Václav	Daniel			34	mechanizátor lesní výroby	Stříbrné Hory	99	80	0	M
+6101	569534	1	8	1	1	Marie	Kolláriková	JUDr.		66	důchodce	Stříbrné Hory	99	1	0	F
+6101	569534	1	9	801	1	Ondřej	Daniel			33	invalidní důchodce	Stříbrné Hory	99	80	0	M
+6101	569534	1	10	810	1	Jolana	Musilová			43	porodní asistentka	Stříbrné Hory	99	80	0	F
+6101	569534	1	11	807	1	Jiří	Sibera			40	technik	Stříbrné Hory	99	80	0	M
+6101	569534	1	8	1	2	Jan	Pazour			27	obchodní činnost	Stříbrné Hory	99	1	0	M

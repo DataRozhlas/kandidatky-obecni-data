@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4103	560316	1	1	901	1	Vojtěch	Hanzlík	M			47	THP	Bukovany	53	80	0
-4103	560316	1	1	901	2	Zdeněk	Paulus	M			40	hasič	Bukovany	99	80	0
-4103	560316	1	1	901	3	Andrea	Hudcová	F	Mgr.		25	učitelka	Bukovany	99	80	0
-4103	560316	1	1	901	4	Jindřich	Leško	M			45	řidič	Bukovany	99	80	0
-4103	560316	1	1	901	5	Blanka	Jungerová	F			59	vedoucí provozovny	Bukovany	99	80	0
-4103	560316	1	1	901	6	Radka	Poláková	F			19	student	Bukovany	99	80	0
-4103	560316	1	1	901	7	Vlastimil	Hartmann	M			38	strojník	Bukovany	99	80	0
-4103	560316	1	1	901	8	Petra	Vejmělková	F			19	student	Bukovany	99	80	0
-4103	560316	1	1	901	9	Jindřich	Litoš	M			45	inspektor plyn. zařízení	Bukovany	99	80	0
-4103	560316	1	2	902	1	Rudolf	Hampl	M			63	důchodce	Bukovany	99	80	0
-4103	560316	1	2	902	2	Ivana	Bláhová	F			45	účetní	Bukovany	99	80	0
-4103	560316	1	2	902	3	Jaroslav	Bureš	M			49	dělník	Bukovany	99	80	0
-4103	560316	1	2	902	4	Martin	Severa	M			38	vedoucí výroby	Bukovany	99	80	0
-4103	560316	1	2	902	5	Jiří	Rozsnyaki	M			50	zámečník	Bukovany	99	80	0
-4103	560316	1	2	902	6	Josef	Mráz	M			59	strojník	Bukovany	99	80	0
-4103	560316	1	2	902	7	Helga	Drahotová	F			44	speditérka	Bukovany	99	80	0
-4103	560316	1	2	902	8	Jiří	Šafář	M			44	učitel odb. výcviku	Bukovany	99	80	0
-4103	560316	1	2	902	9	František	Milčinský	M			64	důchodce	Bukovany	99	80	0
-4103	560316	1	3	903	1	Miroslav	Stropek	M			49	starosta obce	Bukovany	99	80	0
-4103	560316	1	3	903	2	Jan	Štebel	M			39	vedoucí prov. střediska	Bukovany	99	80	0
-4103	560316	1	3	903	3	Ladislav	Biernát	M			51	úředník	Bukovany	99	80	0
-4103	560316	1	3	903	4	František	Vacík	M			62	strojník	Bukovany	99	80	0
-4103	560316	1	3	903	5	František	Smrštík	M			57	mistr údržby	Bukovany	99	80	0
-4103	560316	1	3	903	6	Helena	Hloušková	F			43	vedoucí výroby	Bukovany	99	80	0
-4103	560316	1	3	903	7	Květoslava	Žoldánová	F			62	důchodce	Bukovany	99	80	0
-4103	560316	1	3	903	8	Dana	Jiskrová	F			45	administrativní manipulant	Bukovany	99	80	0
-4103	560316	1	3	903	9	Oldřich	Havlík	M			50	elektromontér	Bukovany	99	80	0
-4103	560316	1	4	904	1	Bohumil	Habich	M			53	dělník	Bukovany	99	80	0
-4103	560316	1	4	904	2	Soňa	Horváthová	F			44	dělnice	Bukovany	99	80	0
-4103	560316	1	4	904	3	Daniela	Hromková	F			62	důchodce	Bukovany	99	80	0
-4103	560316	1	4	904	4	Olga	Richterová	F			27	mateřská dovolená	Bukovany	99	80	0
-4103	560316	1	4	904	5	Žaneta	Lippertová	F			25	mateřská dovolená	Bukovany	99	80	0
-4103	560316	1	4	904	6	Helena	Tusinovská	F			48	v domácnosti	Bukovany	99	80	0
-4103	560316	1	4	904	7	Michal	Turťák	M			57	dělník	Bukovany	99	80	0
-4103	560316	1	4	904	8	Andrea	Marhanová	F			26	mateřská dovolená	Bukovany	99	80	0
-4103	560316	1	4	904	9	Miroslav	Horváth	M			45	dělník	Bukovany	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4103	560316	1	1	901	1	Vojtěch	Hanzlík			47	THP	Bukovany	53	80	0	M
+4103	560316	1	2	902	1	Rudolf	Hampl			63	důchodce	Bukovany	99	80	0	M
+4103	560316	1	3	903	1	Miroslav	Stropek			49	starosta obce	Bukovany	99	80	0	M
+4103	560316	1	4	904	1	Bohumil	Habich			53	dělník	Bukovany	99	80	0	M
+4103	560316	1	1	901	2	Zdeněk	Paulus			40	hasič	Bukovany	99	80	0	M
+4103	560316	1	2	902	2	Ivana	Bláhová			45	účetní	Bukovany	99	80	0	F
+4103	560316	1	3	903	2	Jan	Štebel			39	vedoucí prov. střediska	Bukovany	99	80	0	M
+4103	560316	1	4	904	2	Soňa	Horváthová			44	dělnice	Bukovany	99	80	0	F
+4103	560316	1	1	901	3	Andrea	Hudcová	Mgr.		25	učitelka	Bukovany	99	80	0	F
+4103	560316	1	2	902	3	Jaroslav	Bureš			49	dělník	Bukovany	99	80	0	M
+4103	560316	1	3	903	3	Ladislav	Biernát			51	úředník	Bukovany	99	80	0	M
+4103	560316	1	4	904	3	Daniela	Hromková			62	důchodce	Bukovany	99	80	0	F
+4103	560316	1	1	901	4	Jindřich	Leško			45	řidič	Bukovany	99	80	0	M
+4103	560316	1	2	902	4	Martin	Severa			38	vedoucí výroby	Bukovany	99	80	0	M
+4103	560316	1	3	903	4	František	Vacík			62	strojník	Bukovany	99	80	0	M
+4103	560316	1	4	904	4	Olga	Richterová			27	mateřská dovolená	Bukovany	99	80	0	F
+4103	560316	1	1	901	5	Blanka	Jungerová			59	vedoucí provozovny	Bukovany	99	80	0	F
+4103	560316	1	2	902	5	Jiří	Rozsnyaki			50	zámečník	Bukovany	99	80	0	M
+4103	560316	1	3	903	5	František	Smrštík			57	mistr údržby	Bukovany	99	80	0	M
+4103	560316	1	4	904	5	Žaneta	Lippertová			25	mateřská dovolená	Bukovany	99	80	0	F
+4103	560316	1	1	901	6	Radka	Poláková			19	student	Bukovany	99	80	0	F
+4103	560316	1	2	902	6	Josef	Mráz			59	strojník	Bukovany	99	80	0	M
+4103	560316	1	3	903	6	Helena	Hloušková			43	vedoucí výroby	Bukovany	99	80	0	F
+4103	560316	1	4	904	6	Helena	Tusinovská			48	v domácnosti	Bukovany	99	80	0	F
+4103	560316	1	1	901	7	Vlastimil	Hartmann			38	strojník	Bukovany	99	80	0	M
+4103	560316	1	2	902	7	Helga	Drahotová			44	speditérka	Bukovany	99	80	0	F
+4103	560316	1	3	903	7	Květoslava	Žoldánová			62	důchodce	Bukovany	99	80	0	F
+4103	560316	1	4	904	7	Michal	Turťák			57	dělník	Bukovany	99	80	0	M
+4103	560316	1	1	901	8	Petra	Vejmělková			19	student	Bukovany	99	80	0	F
+4103	560316	1	2	902	8	Jiří	Šafář			44	učitel odb. výcviku	Bukovany	99	80	0	M
+4103	560316	1	3	903	8	Dana	Jiskrová			45	administrativní manipulant	Bukovany	99	80	0	F
+4103	560316	1	4	904	8	Andrea	Marhanová			26	mateřská dovolená	Bukovany	99	80	0	F
+4103	560316	1	1	901	9	Jindřich	Litoš			45	inspektor plyn. zařízení	Bukovany	99	80	0	M
+4103	560316	1	2	902	9	František	Milčinský			64	důchodce	Bukovany	99	80	0	M
+4103	560316	1	3	903	9	Oldřich	Havlík			50	elektromontér	Bukovany	99	80	0	M
+4103	560316	1	4	904	9	Miroslav	Horváth			45	dělník	Bukovany	99	80	0	M

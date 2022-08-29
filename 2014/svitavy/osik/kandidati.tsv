@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	578509	1	1	53	1	Jakub	Kovář	M	Ing.		31	technik	Osík	53	53	0
-5303	578509	1	1	53	2	Michal	Zölfl	M	Bc.		38	konzultant IT	Osík	99	53	0
-5303	578509	1	1	53	3	Pavel	Flídr	M			38	OSVČ	Osík	53	53	0
-5303	578509	1	1	53	4	Marie	Šauerová	F			57	vrchní sestra	Osík	99	53	0
-5303	578509	1	1	53	5	Martin	Dvořák	M	Ing.		32	projektový manažer	Osík	53	53	0
-5303	578509	1	1	53	6	Marta	Nováková	F			61	důchodce	Osík	53	53	0
-5303	578509	1	1	53	7	Martin	Zehnálek	M			39	policista	Osík	99	53	0
-5303	578509	1	1	53	8	Marcela	Bártová	F	Mgr.		37	lékárnice	Osík	99	53	0
-5303	578509	1	1	53	9	Václav	Sejkora	M			56	technik	Osík	99	53	0
-5303	578509	1	1	53	10	Josef	Láznička	M			62	OSVČ	Osík	99	53	0
-5303	578509	1	1	53	11	Pavel	Dvořák	M			68	důchodce	Osík	53	53	0
-5303	578509	1	2	47	1	Stanislav	Petraš	M			63	OSVČ	Osík	47	47	0
-5303	578509	1	2	47	2	Milan	Mňuk	M			58	manažer investic Pardubického kraje	Osík	47	47	0
-5303	578509	1	2	47	3	Ludmila	Jeništová	F			68	důchodce	Osík	47	47	0
-5303	578509	1	2	47	4	Miloslav	Částek	M			78	důchodce	Osík	47	47	0
-5303	578509	1	2	47	5	Jarmila	Křenková	F			74	důchodce	Osík	99	47	0
-5303	578509	1	2	47	6	Josef	Driml	M			78	důchodce	Osík	47	47	0
-5303	578509	1	2	47	7	Josef	Tluka	M			66	důchodce	Osík	47	47	0
-5303	578509	1	2	47	8	Dana	Mňuková	F			58	hospodářka stravování ZŠ	Osík	99	47	0
-5303	578509	1	2	47	9	Jaroslava	Tlustá	F			68	důchodce	Osík	47	47	0
-5303	578509	1	2	47	10	Božena	Jirečková	F			65	důchodkyně	Osík	47	47	0
-5303	578509	1	2	47	11	Miluše	Součková	F			62	důchodkyně	Osík	47	47	0
-5303	578509	1	3	339	1	Karel	Rothschein	M	Ing.		54	starosta	Osík	1	1	0
-5303	578509	1	3	339	2	Karel	Kromíchal	M	Ing.		62	zootechnik	Osík	99	181	0
-5303	578509	1	3	339	3	Zdeněk	Vodehnal	M			32	technik	Osík	99	1	0
-5303	578509	1	3	339	4	Karel	Kundera	M	Ing.		51	projektant	Osík	99	1	0
-5303	578509	1	3	339	5	Helena	Vomáčková	F			59	knihovnice	Osík	99	181	0
-5303	578509	1	3	339	6	Jan	Abraham	M			42	operační důstojník	Osík	99	181	0
-5303	578509	1	3	339	7	Petr	Dvořák	M			51	podnikatel	Osík	99	181	0
-5303	578509	1	3	339	8	Libor	Štefl	M			42	umělecký kovář	Osík	99	1	0
-5303	578509	1	3	339	9	Pavel	Vomáčka	M			30	strojní zámečník	Osík	99	181	0
-5303	578509	1	3	339	10	Martin	Vomáčka	M			32	pojišťovací makléř	Osík	99	1	0
-5303	578509	1	3	339	11	Anastazie	Hendrychová	F			63	důchodce	Osík	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	578509	1	1	53	1	Jakub	Kovář	Ing.		31	technik	Osík	53	53	0	M
+5303	578509	1	2	47	1	Stanislav	Petraš			63	OSVČ	Osík	47	47	0	M
+5303	578509	1	3	339	1	Karel	Rothschein	Ing.		54	starosta	Osík	1	1	0	M
+5303	578509	1	1	53	2	Michal	Zölfl	Bc.		38	konzultant IT	Osík	99	53	0	M
+5303	578509	1	2	47	2	Milan	Mňuk			58	manažer investic Pardubického kraje	Osík	47	47	0	M
+5303	578509	1	3	339	2	Karel	Kromíchal	Ing.		62	zootechnik	Osík	99	181	0	M
+5303	578509	1	1	53	3	Pavel	Flídr			38	OSVČ	Osík	53	53	0	M
+5303	578509	1	2	47	3	Ludmila	Jeništová			68	důchodce	Osík	47	47	0	F
+5303	578509	1	3	339	3	Zdeněk	Vodehnal			32	technik	Osík	99	1	0	M
+5303	578509	1	1	53	4	Marie	Šauerová			57	vrchní sestra	Osík	99	53	0	F
+5303	578509	1	2	47	4	Miloslav	Částek			78	důchodce	Osík	47	47	0	M
+5303	578509	1	3	339	4	Karel	Kundera	Ing.		51	projektant	Osík	99	1	0	M
+5303	578509	1	1	53	5	Martin	Dvořák	Ing.		32	projektový manažer	Osík	53	53	0	M
+5303	578509	1	2	47	5	Jarmila	Křenková			74	důchodce	Osík	99	47	0	F
+5303	578509	1	3	339	5	Helena	Vomáčková			59	knihovnice	Osík	99	181	0	F
+5303	578509	1	1	53	6	Marta	Nováková			61	důchodce	Osík	53	53	0	F
+5303	578509	1	2	47	6	Josef	Driml			78	důchodce	Osík	47	47	0	M
+5303	578509	1	3	339	6	Jan	Abraham			42	operační důstojník	Osík	99	181	0	M
+5303	578509	1	1	53	7	Martin	Zehnálek			39	policista	Osík	99	53	0	M
+5303	578509	1	2	47	7	Josef	Tluka			66	důchodce	Osík	47	47	0	M
+5303	578509	1	3	339	7	Petr	Dvořák			51	podnikatel	Osík	99	181	0	M
+5303	578509	1	1	53	8	Marcela	Bártová	Mgr.		37	lékárnice	Osík	99	53	0	F
+5303	578509	1	2	47	8	Dana	Mňuková			58	hospodářka stravování ZŠ	Osík	99	47	0	F
+5303	578509	1	3	339	8	Libor	Štefl			42	umělecký kovář	Osík	99	1	0	M
+5303	578509	1	1	53	9	Václav	Sejkora			56	technik	Osík	99	53	0	M
+5303	578509	1	2	47	9	Jaroslava	Tlustá			68	důchodce	Osík	47	47	0	F
+5303	578509	1	3	339	9	Pavel	Vomáčka			30	strojní zámečník	Osík	99	181	0	M
+5303	578509	1	1	53	10	Josef	Láznička			62	OSVČ	Osík	99	53	0	M
+5303	578509	1	2	47	10	Božena	Jirečková			65	důchodkyně	Osík	47	47	0	F
+5303	578509	1	3	339	10	Martin	Vomáčka			32	pojišťovací makléř	Osík	99	1	0	M
+5303	578509	1	1	53	11	Pavel	Dvořák			68	důchodce	Osík	53	53	0	M
+5303	578509	1	2	47	11	Miluše	Součková			62	důchodkyně	Osík	47	47	0	F
+5303	578509	1	3	339	11	Anastazie	Hendrychová			63	důchodce	Osík	99	1	0	F

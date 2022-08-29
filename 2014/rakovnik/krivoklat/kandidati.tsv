@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	541982	1	1	903	1	Taťána	Friebertová	F			49	pracovnice IVS LČR Křivoklát	Křivoklát	99	80	0
-2112	541982	1	1	903	2	Ilona	Hájková	F	Mgr.		57	učitelka	Křivoklát	99	80	0
-2112	541982	1	1	903	3	Pavel	Friebert	M			48	pracovník odboru investic	Křivoklát	99	80	0
-2112	541982	1	1	903	4	Tomáš	Fuchs	M			28	OSVČ	Křivoklát	99	80	0
-2112	541982	1	1	903	5	Milan	Hauner	M			52	OSVČ	Křivoklát	99	80	0
-2112	541982	1	1	903	6	Ludmila	Fuksová	F			53	zdravotní sestra	Křivoklát	99	80	0
-2112	541982	1	1	903	7	Martin	Čermák	M			25	mechanik	Křivoklát	99	80	0
-2112	541982	1	1	903	8	Martina	Šímová	F			49	uklízečka	Křivoklát	99	80	0
-2112	541982	1	1	903	9	Eva	Růžičková	F			62	důchodkyně	Křivoklát	99	80	0
-2112	541982	1	2	901	1	Milan	Naď	M	Mgr.		59	středoškolský učitel	Křivoklát	99	80	0
-2112	541982	1	2	901	2	Jitka	Rajnišová	F	Mgr.		45	učitelka základní školy	Křivoklát	99	80	0
-2112	541982	1	2	901	3	Libor	Lukáš	M			47	nákupčí	Křivoklát	99	80	0
-2112	541982	1	2	901	4	Libuše	Vokounová	F			41	správce depozitáře	Křivoklát	99	80	0
-2112	541982	1	2	901	5	Martin	Libovický	M			49	ved.učitel odbor.výcviku	Křivoklát	99	80	0
-2112	541982	1	2	901	6	Tomáš	Redl	M	Bc.		37	středoškolský učitel	Křivoklát	99	80	0
-2112	541982	1	2	901	7	Taťána	Drážníková	F	JUDr.		59	bez prac. poměru	Křivoklát	99	80	0
-2112	541982	1	2	901	8	Miroslav	Baňas	M			27	bez prac. poměru	Křivoklát	99	80	0
-2112	541982	1	2	901	9	Petr	Spurný	M			65	důchodce	Křivoklát	99	80	0
-2112	541982	1	3	714	1	Petr	Šanda	M			42	IT specialista	Křivoklát	714	714	0
-2112	541982	1	3	714	2	Eva	Holá	F	Mgr.		44	policistka	Křivoklát	99	714	0
-2112	541982	1	3	714	3	Lukáš	Peterka	M			20	student	Křivoklát	714	714	0
-2112	541982	1	3	714	4	Miroslav	Moravec	M			27	podnikatel	Křivoklát	99	714	0
-2112	541982	1	3	714	5	Lukáš	Helebrant	M			22	student	Křivoklát	99	714	0
-2112	541982	1	3	714	6	Michaela	Lédlová	F	Mgr.		45	učitelka	Křivoklát	99	714	0
-2112	541982	1	3	714	7	Jana	Mouchová	F			43	personální ředitelka	Křivoklát	99	714	0
-2112	541982	1	3	714	8	Martin	Hynek	M			35	policista	Křivoklát	99	714	0
-2112	541982	1	3	714	9	Jiří	Kočárek	M			25	EAS	Křivoklát	99	714	0
-2112	541982	1	4	902	1	Petr	Tříska	M	Mgr.		38	učitel	Křivoklát	99	80	0
-2112	541982	1	4	902	2	Aleš	Pavlík	M			39	restauratér	Křivoklát	99	80	0
-2112	541982	1	4	902	3	Karel	Breník	M			40	technik RS	Křivoklát	99	80	0
-2112	541982	1	4	902	4	Jana	Pochmanová	F			50	účetní	Křivoklát	99	80	0
-2112	541982	1	4	902	5	Pavlína	Vlčková	F	Mgr.		44	učitelka	Křivoklát	99	80	0
-2112	541982	1	4	902	6	Žaneta	Krycnerová	F			30	floristka	Křivoklát	99	80	0
-2112	541982	1	4	902	7	Josef	Pánek	M			49	živnostník	Častonice	99	80	0
-2112	541982	1	4	902	8	Stanislav	Kalabza	M			57	údržbář	Křivoklát	99	80	0
-2112	541982	1	4	902	9	Jiří	Šilhavý	M			46	údržbář	Křivoklát	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	541982	1	1	903	1	Taťána	Friebertová			49	pracovnice IVS LČR Křivoklát	Křivoklát	99	80	0	F
+2112	541982	1	2	901	1	Milan	Naď	Mgr.		59	středoškolský učitel	Křivoklát	99	80	0	M
+2112	541982	1	3	714	1	Petr	Šanda			42	IT specialista	Křivoklát	714	714	0	M
+2112	541982	1	4	902	1	Petr	Tříska	Mgr.		38	učitel	Křivoklát	99	80	0	M
+2112	541982	1	1	903	2	Ilona	Hájková	Mgr.		57	učitelka	Křivoklát	99	80	0	F
+2112	541982	1	2	901	2	Jitka	Rajnišová	Mgr.		45	učitelka základní školy	Křivoklát	99	80	0	F
+2112	541982	1	3	714	2	Eva	Holá	Mgr.		44	policistka	Křivoklát	99	714	0	F
+2112	541982	1	4	902	2	Aleš	Pavlík			39	restauratér	Křivoklát	99	80	0	M
+2112	541982	1	1	903	3	Pavel	Friebert			48	pracovník odboru investic	Křivoklát	99	80	0	M
+2112	541982	1	2	901	3	Libor	Lukáš			47	nákupčí	Křivoklát	99	80	0	M
+2112	541982	1	3	714	3	Lukáš	Peterka			20	student	Křivoklát	714	714	0	M
+2112	541982	1	4	902	3	Karel	Breník			40	technik RS	Křivoklát	99	80	0	M
+2112	541982	1	1	903	4	Tomáš	Fuchs			28	OSVČ	Křivoklát	99	80	0	M
+2112	541982	1	2	901	4	Libuše	Vokounová			41	správce depozitáře	Křivoklát	99	80	0	F
+2112	541982	1	3	714	4	Miroslav	Moravec			27	podnikatel	Křivoklát	99	714	0	M
+2112	541982	1	4	902	4	Jana	Pochmanová			50	účetní	Křivoklát	99	80	0	F
+2112	541982	1	1	903	5	Milan	Hauner			52	OSVČ	Křivoklát	99	80	0	M
+2112	541982	1	2	901	5	Martin	Libovický			49	ved.učitel odbor.výcviku	Křivoklát	99	80	0	M
+2112	541982	1	3	714	5	Lukáš	Helebrant			22	student	Křivoklát	99	714	0	M
+2112	541982	1	4	902	5	Pavlína	Vlčková	Mgr.		44	učitelka	Křivoklát	99	80	0	F
+2112	541982	1	1	903	6	Ludmila	Fuksová			53	zdravotní sestra	Křivoklát	99	80	0	F
+2112	541982	1	2	901	6	Tomáš	Redl	Bc.		37	středoškolský učitel	Křivoklát	99	80	0	M
+2112	541982	1	3	714	6	Michaela	Lédlová	Mgr.		45	učitelka	Křivoklát	99	714	0	F
+2112	541982	1	4	902	6	Žaneta	Krycnerová			30	floristka	Křivoklát	99	80	0	F
+2112	541982	1	1	903	7	Martin	Čermák			25	mechanik	Křivoklát	99	80	0	M
+2112	541982	1	2	901	7	Taťána	Drážníková	JUDr.		59	bez prac. poměru	Křivoklát	99	80	0	F
+2112	541982	1	3	714	7	Jana	Mouchová			43	personální ředitelka	Křivoklát	99	714	0	F
+2112	541982	1	4	902	7	Josef	Pánek			49	živnostník	Častonice	99	80	0	M
+2112	541982	1	1	903	8	Martina	Šímová			49	uklízečka	Křivoklát	99	80	0	F
+2112	541982	1	2	901	8	Miroslav	Baňas			27	bez prac. poměru	Křivoklát	99	80	0	M
+2112	541982	1	3	714	8	Martin	Hynek			35	policista	Křivoklát	99	714	0	M
+2112	541982	1	4	902	8	Stanislav	Kalabza			57	údržbář	Křivoklát	99	80	0	M
+2112	541982	1	1	903	9	Eva	Růžičková			62	důchodkyně	Křivoklát	99	80	0	F
+2112	541982	1	2	901	9	Petr	Spurný			65	důchodce	Křivoklát	99	80	0	M
+2112	541982	1	3	714	9	Jiří	Kočárek			25	EAS	Křivoklát	99	714	0	M
+2112	541982	1	4	902	9	Jiří	Šilhavý			46	údržbář	Křivoklát	99	80	0	M

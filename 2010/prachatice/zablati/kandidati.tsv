@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3105	550680	1	1	901	1	Pavel	Balek	M	Ing.		59	technik	Záblatí	99	80	0
-3105	550680	1	1	901	2	Jiří	Hodina	M			62	technik	Záblatí	99	80	0
-3105	550680	1	1	901	3	Ivana	Dušová	F			43	prodavačka	Záblatí	99	80	0
-3105	550680	1	1	901	4	Zdeněk	Šísl	M			34	dělník	Zvěřenice	99	80	0
-3105	550680	1	1	901	5	Lenka	Krausová	F			36	státní zaměstnanec	Záblatí	99	80	0
-3105	550680	1	1	901	6	Václav	Horelica	M			47	dělník	Záblatí	99	80	0
-3105	550680	1	1	901	7	František	Hodina	M	Ing.		38	technik	Horní Záblatí	99	80	0
-3105	550680	1	1	901	8	Josef	Hlavatý	M			61	důchodce	Záblatí	99	80	0
-3105	550680	1	2	721	1	Vladislav	Klabouch	M	Ing.		49	výrobní ředitel společnosti	Záblatí	99	721	0
-3105	550680	1	2	721	2	Rostislav	Sladký	M	Ing.		61	místostarosta obce	Hlásná Lhota	99	721	0
-3105	550680	1	2	721	3	Miloslav	Binder	M	Ing.		36	vedoucí stavebního střediska	Záblatí	99	721	0
-3105	550680	1	2	721	4	Václav	Kovář	M			36	soukromý zemědělec	Horní Záblatí	99	721	0
-3105	550680	1	2	721	5	Emilie	Vopeláková	F			48	učitelka MŠ	Horní Záblatí	99	721	0
-3105	550680	1	2	721	6	Jan	Korytar	M			37	strojník	Horní Záblatí	99	721	0
-3105	550680	1	2	721	7	Vlastimil	Kovář	M			51	živnostník	Záblatí	721	721	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3105	550680	1	1	901	1	Pavel	Balek	Ing.		59	technik	Záblatí	99	80	0	M
+3105	550680	1	2	721	1	Vladislav	Klabouch	Ing.		49	výrobní ředitel společnosti	Záblatí	99	721	0	M
+3105	550680	1	1	901	2	Jiří	Hodina			62	technik	Záblatí	99	80	0	M
+3105	550680	1	2	721	2	Rostislav	Sladký	Ing.		61	místostarosta obce	Hlásná Lhota	99	721	0	M
+3105	550680	1	1	901	3	Ivana	Dušová			43	prodavačka	Záblatí	99	80	0	F
+3105	550680	1	2	721	3	Miloslav	Binder	Ing.		36	vedoucí stavebního střediska	Záblatí	99	721	0	M
+3105	550680	1	1	901	4	Zdeněk	Šísl			34	dělník	Zvěřenice	99	80	0	M
+3105	550680	1	2	721	4	Václav	Kovář			36	soukromý zemědělec	Horní Záblatí	99	721	0	M
+3105	550680	1	1	901	5	Lenka	Krausová			36	státní zaměstnanec	Záblatí	99	80	0	F
+3105	550680	1	2	721	5	Emilie	Vopeláková			48	učitelka MŠ	Horní Záblatí	99	721	0	F
+3105	550680	1	1	901	6	Václav	Horelica			47	dělník	Záblatí	99	80	0	M
+3105	550680	1	2	721	6	Jan	Korytar			37	strojník	Horní Záblatí	99	721	0	M
+3105	550680	1	1	901	7	František	Hodina	Ing.		38	technik	Horní Záblatí	99	80	0	M
+3105	550680	1	2	721	7	Vlastimil	Kovář			51	živnostník	Záblatí	721	721	0	M
+3105	550680	1	1	901	8	Josef	Hlavatý			61	důchodce	Záblatí	99	80	0	M

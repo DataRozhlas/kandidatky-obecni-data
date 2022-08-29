@@ -1,36 +1,36 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	597317	1	1	53	1	Jan	Božovský	M			46	obchodní zástupce	Dvorce	99	53	0
-8101	597317	1	1	53	2	Jan	Peter	M	Ing.		45	revírník	Dvorce	99	53	0
-8101	597317	1	1	53	3	Monika	Bortlová	F	Mgr.		34	učitelka	Dvorce	99	53	0
-8101	597317	1	1	53	4	Zbyněk	Bureš	M			49	OSVČ	Dvorce	99	53	0
-8101	597317	1	1	53	5	Miroslav	Balaj	M	Ing.		49	OSVČ	Dvorce	53	53	0
-8101	597317	1	1	53	6	Jozef	Krajkovič	M	Ing.		51	technik	Dvorce	99	53	0
-8101	597317	1	1	53	7	Věra	Hanáčková	F	Ing.		42	ekonomka	Dvorce	99	53	0
-8101	597317	1	1	53	8	Vladimír	Kopřiva	M	Ing.		47	technik	Dvorce	99	53	0
-8101	597317	1	1	53	9	Pavel	Kos	M	MUDr.		41	farmaceutický manažer	Dvorce	99	53	0
-8101	597317	1	2	901	1	Josef	Gajdoš	M	Bc.		59	živnostník	Dvorce	99	80	0
-8101	597317	1	2	901	2	Antonín	Hanáček	M	Ing.		46	finanční poradce	Dvorce	99	80	0
-8101	597317	1	2	901	3	Ondřej	Žák	M		DiS.	28	restaurátor	Dvorce	99	80	0
-8101	597317	1	2	901	4	Aleš	Waleczek	M			32	učitel prakt. výchovy	Dvorce	99	80	0
-8101	597317	1	2	901	5	Petr	Kasperlík	M			35	technik	Dvorce	99	80	0
-8101	597317	1	2	901	6	Petr	Novák	M			33	mistr	Dvorce	99	80	0
-8101	597317	1	2	901	7	Miloš	Mintál	M			37	dělník	Dvorce	99	80	0
-8101	597317	1	2	901	8	Eva	Burešová	F			59	důchodkyně	Dvorce	99	80	0
-8101	597317	1	3	47	1	Jiří	Hynek	M			56	nezaměstnaný	Dvorce	99	47	0
-8101	597317	1	3	47	2	Milan	Bambas	M			60	dělník	Dvorce	47	47	0
-8101	597317	1	3	47	3	Zdeňka	Kočí	F			57	ředitelka ZŠ	Dvorce	99	47	0
-8101	597317	1	3	47	4	Jaroslav	Ulrych	M			55	dělník	Dvorce	47	47	0
-8101	597317	1	3	47	5	Zdeněk	Valoušek	M			56	zedník	Dvorce	99	47	0
-8101	597317	1	3	47	6	Josef	Bortl	M			56	invalidní důchodce	Dvorce	47	47	0
-8101	597317	1	3	47	7	Marie	Stupková	F			62	důchodce	Dvorce	47	47	0
-8101	597317	1	3	47	8	Miroslava	Dembická	F			62	důchodce	Dvorce	99	47	0
-8101	597317	1	3	47	9	Jiří	Böhm	M			67	důchodce	Dvorce	47	47	0
-8101	597317	1	4	103	1	Leopold	Klesnil	M			44	OSVČ	Dvorce	99	103	0
-8101	597317	1	4	103	2	Jitka	Krajkovičová	F	Bc.		35	vedoucí úředník	Dvorce	99	103	0
-8101	597317	1	4	103	3	Zdeněk	Keclík	M			49	OSVČ	Dvorce	99	103	0
-8101	597317	1	4	103	4	Olga	Vojáčková	F			55	ekonomka	Dvorce	99	103	0
-8101	597317	1	4	103	5	Jan	Zlámal	M			44	řezník-uzenář	Dvorce	99	103	0
-8101	597317	1	4	103	6	Bronislav	Böhm	M	Ing.		31	stavební a investiční technik	Dvorce	99	103	0
-8101	597317	1	4	103	7	Pavel	Bortl	M			32	technik	Dvorce	99	103	0
-8101	597317	1	4	103	8	Ilona	Kosová	F	Mgr.		41	učitelka	Dvorce	99	103	0
-8101	597317	1	4	103	9	Miroslava	Lazová	F	Mgr.		39	učitelka	Dvorce	99	103	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	597317	1	1	53	1	Jan	Božovský			46	obchodní zástupce	Dvorce	99	53	0	M
+8101	597317	1	2	901	1	Josef	Gajdoš	Bc.		59	živnostník	Dvorce	99	80	0	M
+8101	597317	1	3	47	1	Jiří	Hynek			56	nezaměstnaný	Dvorce	99	47	0	M
+8101	597317	1	4	103	1	Leopold	Klesnil			44	OSVČ	Dvorce	99	103	0	M
+8101	597317	1	1	53	2	Jan	Peter	Ing.		45	revírník	Dvorce	99	53	0	M
+8101	597317	1	2	901	2	Antonín	Hanáček	Ing.		46	finanční poradce	Dvorce	99	80	0	M
+8101	597317	1	3	47	2	Milan	Bambas			60	dělník	Dvorce	47	47	0	M
+8101	597317	1	4	103	2	Jitka	Krajkovičová	Bc.		35	vedoucí úředník	Dvorce	99	103	0	F
+8101	597317	1	1	53	3	Monika	Bortlová	Mgr.		34	učitelka	Dvorce	99	53	0	F
+8101	597317	1	2	901	3	Ondřej	Žák		DiS.	28	restaurátor	Dvorce	99	80	0	M
+8101	597317	1	3	47	3	Zdeňka	Kočí			57	ředitelka ZŠ	Dvorce	99	47	0	F
+8101	597317	1	4	103	3	Zdeněk	Keclík			49	OSVČ	Dvorce	99	103	0	M
+8101	597317	1	1	53	4	Zbyněk	Bureš			49	OSVČ	Dvorce	99	53	0	M
+8101	597317	1	2	901	4	Aleš	Waleczek			32	učitel prakt. výchovy	Dvorce	99	80	0	M
+8101	597317	1	3	47	4	Jaroslav	Ulrych			55	dělník	Dvorce	47	47	0	M
+8101	597317	1	4	103	4	Olga	Vojáčková			55	ekonomka	Dvorce	99	103	0	F
+8101	597317	1	1	53	5	Miroslav	Balaj	Ing.		49	OSVČ	Dvorce	53	53	0	M
+8101	597317	1	2	901	5	Petr	Kasperlík			35	technik	Dvorce	99	80	0	M
+8101	597317	1	3	47	5	Zdeněk	Valoušek			56	zedník	Dvorce	99	47	0	M
+8101	597317	1	4	103	5	Jan	Zlámal			44	řezník-uzenář	Dvorce	99	103	0	M
+8101	597317	1	1	53	6	Jozef	Krajkovič	Ing.		51	technik	Dvorce	99	53	0	M
+8101	597317	1	2	901	6	Petr	Novák			33	mistr	Dvorce	99	80	0	M
+8101	597317	1	3	47	6	Josef	Bortl			56	invalidní důchodce	Dvorce	47	47	0	M
+8101	597317	1	4	103	6	Bronislav	Böhm	Ing.		31	stavební a investiční technik	Dvorce	99	103	0	M
+8101	597317	1	1	53	7	Věra	Hanáčková	Ing.		42	ekonomka	Dvorce	99	53	0	F
+8101	597317	1	2	901	7	Miloš	Mintál			37	dělník	Dvorce	99	80	0	M
+8101	597317	1	3	47	7	Marie	Stupková			62	důchodce	Dvorce	47	47	0	F
+8101	597317	1	4	103	7	Pavel	Bortl			32	technik	Dvorce	99	103	0	M
+8101	597317	1	1	53	8	Vladimír	Kopřiva	Ing.		47	technik	Dvorce	99	53	0	M
+8101	597317	1	2	901	8	Eva	Burešová			59	důchodkyně	Dvorce	99	80	0	F
+8101	597317	1	3	47	8	Miroslava	Dembická			62	důchodce	Dvorce	99	47	0	F
+8101	597317	1	4	103	8	Ilona	Kosová	Mgr.		41	učitelka	Dvorce	99	103	0	F
+8101	597317	1	1	53	9	Pavel	Kos	MUDr.		41	farmaceutický manažer	Dvorce	99	53	0	M
+8101	597317	1	3	47	9	Jiří	Böhm			67	důchodce	Dvorce	47	47	0	M
+8101	597317	1	4	103	9	Miroslava	Lazová	Mgr.		39	učitelka	Dvorce	99	103	0	F

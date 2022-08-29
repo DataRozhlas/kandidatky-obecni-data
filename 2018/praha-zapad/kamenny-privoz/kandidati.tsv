@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	539368	1	1	901	1	Jiří	Patera	M			49	manažer	Kamenný Přívoz	99	80	A
-2110	539368	1	1	901	2	Věra	Weinerová	F			56	produkční	Kamenný Újezdec	99	80	A
-2110	539368	1	1	901	3	Jan	Prokš	M			41	manažer	Kamenný Újezdec	99	80	A
-2110	539368	1	1	901	4	Vlastimil	Svoboda	M			48	pokrývač	Kamenný Přívoz	99	80	A
-2110	539368	1	1	901	5	Irena	Perglová	F			40	vědecká pracovnice	Kamenný Přívoz	99	80	A
-2110	539368	1	1	901	6	Petr	Semecký	M			54	lesník	Kamenný Přívoz	99	80	A
-2110	539368	1	1	901	7	Barbora	Fišerová	F			38	veterinární lékařka	Kamenný Újezdec	99	80	A
-2110	539368	1	1	901	8	Zdislava	Žáková	F			55	sociální pracovnice	Kamenný Přívoz	99	80	A
-2110	539368	1	1	901	9	Kateřina	Langley	F			46	lektorka cizích jazyků	Kamenný Přívoz	99	80	A
-2110	539368	1	1	901	10	Ondřej	Hanuš	M			40	konzultant v oboru informačních technologií	Kamenný Přívoz	99	80	A
-2110	539368	1	1	901	11	Jan	Hervert	M			45	obchodní referent	Kamenný Újezdec	99	80	A
-2110	539368	1	1	901	12	Hana	Bartoňková	F			44	projektová manažerka	Kamenný Přívoz	99	80	A
-2110	539368	1	1	901	13	Jana	Pešková	F			75	státní úřednice	Kamenný Přívoz	99	80	A
-2110	539368	1	1	901	14	Eva	Brýlová	F			50	obchodní referentka	Hostěradice	99	80	A
-2110	539368	1	1	901	15	František	Hrachovec	M			48	vedoucí výroby	Kamenný Přívoz	99	80	A
-2110	539368	1	2	902	1	Prokop	Mašek	M	Ing.		68	starosta obce	Kamenný Přívoz	99	80	A
-2110	539368	1	2	902	2	Radek	Vokál	M	PhDr.		41	státní zaměstnanec	Kamenný Přívoz	99	80	A
-2110	539368	1	2	902	3	Eva	Drahošová	F			40	obchodní referent - t.č. mateřská dovolená	Kamenný Újezdec	99	80	A
-2110	539368	1	2	902	4	Václav	Charvát	M			70	důchodce	Kamenný Újezdec	99	80	A
-2110	539368	1	2	902	5	František	Novotný	M			48	technik	Kamenný Přívoz	99	80	A
-2110	539368	1	2	902	6	Pavel	Bernard	M			63	důchodce	Hostěradice	99	80	A
-2110	539368	1	2	902	7	Božena	Splavcová	F			66	důchodce	Kamenný Újezdec	99	80	A
-2110	539368	1	2	902	8	Zuzana	Jirková	F		DiS.	39	koordinátorka projektů - t.č. mateřská dovolená	Kamenný Přívoz	99	80	A
-2110	539368	1	2	902	9	Konstantin	Navrátil	M			70	důchodce	Kamenný Újezdec	99	80	A
-2110	539368	1	2	902	10	Vladimír	Brabec	M			37	podnikatel	Hostěradice	99	80	A
-2110	539368	1	2	902	11	Oldřich	Blažek	M	Ing.		32	podnikatel	Kamenný Přívoz	99	80	A
-2110	539368	1	2	902	12	Ján	Horňák	M			49	podnikatel	Kamenný Přívoz	99	80	A
-2110	539368	1	2	902	13	Jana	Kozlová	F	Mgr.		47	učitelka	Kamenný Újezdec	99	80	A
-2110	539368	1	2	902	14	Ladislav	Barta	M			55	podnikatel	Kamenný Přívoz	99	80	A
-2110	539368	1	2	902	15	Linda	Mašková	F	Mgr.		35	učitelka	Kamenný Přívoz	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	539368	1	1	901	1	Jiří	Patera			49	manažer	Kamenný Přívoz	99	80	A	M
+2110	539368	1	2	902	1	Prokop	Mašek	Ing.		68	starosta obce	Kamenný Přívoz	99	80	A	M
+2110	539368	1	1	901	2	Věra	Weinerová			56	produkční	Kamenný Újezdec	99	80	A	F
+2110	539368	1	2	902	2	Radek	Vokál	PhDr.		41	státní zaměstnanec	Kamenný Přívoz	99	80	A	M
+2110	539368	1	1	901	3	Jan	Prokš			41	manažer	Kamenný Újezdec	99	80	A	M
+2110	539368	1	2	902	3	Eva	Drahošová			40	obchodní referent - t.č. mateřská dovolená	Kamenný Újezdec	99	80	A	F
+2110	539368	1	1	901	4	Vlastimil	Svoboda			48	pokrývač	Kamenný Přívoz	99	80	A	M
+2110	539368	1	2	902	4	Václav	Charvát			70	důchodce	Kamenný Újezdec	99	80	A	M
+2110	539368	1	1	901	5	Irena	Perglová			40	vědecká pracovnice	Kamenný Přívoz	99	80	A	F
+2110	539368	1	2	902	5	František	Novotný			48	technik	Kamenný Přívoz	99	80	A	M
+2110	539368	1	1	901	6	Petr	Semecký			54	lesník	Kamenný Přívoz	99	80	A	M
+2110	539368	1	2	902	6	Pavel	Bernard			63	důchodce	Hostěradice	99	80	A	M
+2110	539368	1	1	901	7	Barbora	Fišerová			38	veterinární lékařka	Kamenný Újezdec	99	80	A	F
+2110	539368	1	2	902	7	Božena	Splavcová			66	důchodce	Kamenný Újezdec	99	80	A	F
+2110	539368	1	1	901	8	Zdislava	Žáková			55	sociální pracovnice	Kamenný Přívoz	99	80	A	F
+2110	539368	1	2	902	8	Zuzana	Jirková		DiS.	39	koordinátorka projektů - t.č. mateřská dovolená	Kamenný Přívoz	99	80	A	F
+2110	539368	1	1	901	9	Kateřina	Langley			46	lektorka cizích jazyků	Kamenný Přívoz	99	80	A	F
+2110	539368	1	2	902	9	Konstantin	Navrátil			70	důchodce	Kamenný Újezdec	99	80	A	M
+2110	539368	1	1	901	10	Ondřej	Hanuš			40	konzultant v oboru informačních technologií	Kamenný Přívoz	99	80	A	M
+2110	539368	1	2	902	10	Vladimír	Brabec			37	podnikatel	Hostěradice	99	80	A	M
+2110	539368	1	1	901	11	Jan	Hervert			45	obchodní referent	Kamenný Újezdec	99	80	A	M
+2110	539368	1	2	902	11	Oldřich	Blažek	Ing.		32	podnikatel	Kamenný Přívoz	99	80	A	M
+2110	539368	1	1	901	12	Hana	Bartoňková			44	projektová manažerka	Kamenný Přívoz	99	80	A	F
+2110	539368	1	2	902	12	Ján	Horňák			49	podnikatel	Kamenný Přívoz	99	80	A	M
+2110	539368	1	1	901	13	Jana	Pešková			75	státní úřednice	Kamenný Přívoz	99	80	A	F
+2110	539368	1	2	902	13	Jana	Kozlová	Mgr.		47	učitelka	Kamenný Újezdec	99	80	A	F
+2110	539368	1	1	901	14	Eva	Brýlová			50	obchodní referentka	Hostěradice	99	80	A	F
+2110	539368	1	2	902	14	Ladislav	Barta			55	podnikatel	Kamenný Přívoz	99	80	A	M
+2110	539368	1	1	901	15	František	Hrachovec			48	vedoucí výroby	Kamenný Přívoz	99	80	A	M
+2110	539368	1	2	902	15	Linda	Mašková	Mgr.		35	učitelka	Kamenný Přívoz	99	80	A	F

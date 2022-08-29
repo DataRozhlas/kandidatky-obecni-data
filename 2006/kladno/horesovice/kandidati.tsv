@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	532321	1	1	902	1	Jana	PERLÍKOVÁ	F			42	účetní	Hořešovice	99	80	0
-2103	532321	1	1	902	2	Stanislav	ŠTROS	M	Ing.		49	osoba samost.výdělečně činná	Hořešovice	99	80	0
-2103	532321	1	1	902	3	Venuše	SNOPOVÁ	F			45	účetní	Hořešovice	99	80	0
-2103	532321	1	1	902	4	Oldřich	ŠTĚPÁNEK	M	Ing.		46	technolog	Hořešovice	99	80	0
-2103	532321	1	1	902	5	Jaroslava	CIMRMANOVÁ	F			61	osoba samost.výdělečně činná	Hořešovice	99	80	0
-2103	532321	1	2	901	1	Vladimír	ČERMÁK	M			49	živnostník	Hořešovice	99	80	0
-2103	532321	1	2	901	2	Ilona	ŠANTOROVÁ	F			34	švadlena	Hořešovice	99	80	0
-2103	532321	1	2	901	3	Hugo	FORSTER	M			36	soukromý zemědělec	Hořešovice	99	80	0
-2103	532321	1	2	901	4	Stanislav	RUBEŠ	M			36	podnikatel	Hořešovice	99	80	0
-2103	532321	1	2	901	5	Karel	VOHNOUT	M			49	technik	Hořešovice	99	80	0
-2103	532321	1	2	901	6	Jiří	DRAGOUN	M			71	důchodce	Hořešovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	532321	1	1	902	1	Jana	PERLÍKOVÁ			42	účetní	Hořešovice	99	80	0	F
+2103	532321	1	2	901	1	Vladimír	ČERMÁK			49	živnostník	Hořešovice	99	80	0	M
+2103	532321	1	1	902	2	Stanislav	ŠTROS	Ing.		49	osoba samost.výdělečně činná	Hořešovice	99	80	0	M
+2103	532321	1	2	901	2	Ilona	ŠANTOROVÁ			34	švadlena	Hořešovice	99	80	0	F
+2103	532321	1	1	902	3	Venuše	SNOPOVÁ			45	účetní	Hořešovice	99	80	0	F
+2103	532321	1	2	901	3	Hugo	FORSTER			36	soukromý zemědělec	Hořešovice	99	80	0	M
+2103	532321	1	1	902	4	Oldřich	ŠTĚPÁNEK	Ing.		46	technolog	Hořešovice	99	80	0	M
+2103	532321	1	2	901	4	Stanislav	RUBEŠ			36	podnikatel	Hořešovice	99	80	0	M
+2103	532321	1	1	902	5	Jaroslava	CIMRMANOVÁ			61	osoba samost.výdělečně činná	Hořešovice	99	80	0	F
+2103	532321	1	2	901	5	Karel	VOHNOUT			49	technik	Hořešovice	99	80	0	M
+2103	532321	1	2	901	6	Jiří	DRAGOUN			71	důchodce	Hořešovice	99	80	0	M

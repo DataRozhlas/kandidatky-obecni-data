@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3107	552895	1	1	901	1	Petr	Mašek	M			52	starosta	Hrušova Lhota	99	80	A
-3107	552895	1	1	901	2	Michal	Paleček	M	Ing.		34	hasič	Přehořov	99	80	A
-3107	552895	1	1	901	3	Martin	Bartejs	M			34	podnikatel	Přehořov	99	80	A
-3107	552895	1	1	901	4	Marie	Trešlová	F			60	účetní	Přehořov	99	80	A
-3107	552895	1	1	901	5	Jaroslav	Houška	M			58	podnikatel	Přehořov	99	80	A
-3107	552895	1	1	901	6	Petr	Skůpa	M			40	truhlář	Přehořov	99	80	A
-3107	552895	1	1	901	7	Tomáš	Sochor	M			38	ošetřovatel prasat	Kvasejovice	99	80	A
-3107	552895	1	1	901	8	Drahomila	Nenadálová	F			48	kuchařka	Hrušova Lhota	99	80	A
-3107	552895	1	1	901	9	Jan	Marko	M			34	obsluha CNC strojů	Kvasejovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3107	552895	1	1	901	1	Petr	Mašek			52	starosta	Hrušova Lhota	99	80	A	M
+3107	552895	1	1	901	2	Michal	Paleček	Ing.		34	hasič	Přehořov	99	80	A	M
+3107	552895	1	1	901	3	Martin	Bartejs			34	podnikatel	Přehořov	99	80	A	M
+3107	552895	1	1	901	4	Marie	Trešlová			60	účetní	Přehořov	99	80	A	F
+3107	552895	1	1	901	5	Jaroslav	Houška			58	podnikatel	Přehořov	99	80	A	M
+3107	552895	1	1	901	6	Petr	Skůpa			40	truhlář	Přehořov	99	80	A	M
+3107	552895	1	1	901	7	Tomáš	Sochor			38	ošetřovatel prasat	Kvasejovice	99	80	A	M
+3107	552895	1	1	901	8	Drahomila	Nenadálová			48	kuchařka	Hrušova Lhota	99	80	A	F
+3107	552895	1	1	901	9	Jan	Marko			34	obsluha CNC strojů	Kvasejovice	99	80	A	M

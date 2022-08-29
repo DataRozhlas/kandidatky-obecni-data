@@ -1,38 +1,38 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5302	576026	1	1	902	1	Robert	Chutic	M	Ing.		64	stavební inženýr	Zdechovice	99	80	0
-5302	576026	1	1	902	2	Hana	Čeřovská	F	Mgr.		54	učitelka ZŠ	Zdechovice	99	80	0
-5302	576026	1	1	902	3	Bohuslav	Nejerál	M	Ing.		55	elektrotechnický inženýr	Zdechovice	99	80	0
-5302	576026	1	1	902	4	Lev	Matýsek	M			53	technický pracovník	Zdechovice	99	80	0
-5302	576026	1	1	902	5	Lenka	Nováková	F			41	zahradnice	Zdechovice	99	80	0
-5302	576026	1	1	902	6	Jan	Mynář	M			32	voják z povolání	Zdechovice	99	80	0
-5302	576026	1	1	902	7	Sonja	Borovičková	F	Mgr.		69	učitelka ZŠ	Zdechovice	99	80	0
-5302	576026	1	1	902	8	Vladimíra	Nohejlová	F			63	zámečnice	Zdechovice	99	80	0
-5302	576026	1	1	902	9	Hana	Vozábová	F			54	úřednice	Zdechovice	99	80	0
-5302	576026	1	2	801	1	Michal	Rambousek	M			37	hasič	Zdechovice	99	80	0
-5302	576026	1	3	903	1	Michal	Skohoutil	M			38	řidič	Spytovice	99	80	0
-5302	576026	1	3	903	2	Ondřej	Procházka	M			30	OSVČ	Spytovice	99	80	0
-5302	576026	1	3	903	3	Edita	Růžičková	F			42	dělnice	Spytovice	99	80	0
-5302	576026	1	3	903	4	Petr	Kurka	M			42	koordinátor	Spytovice	99	80	0
-5302	576026	1	3	903	5	Milan	Záruba	M			31	truhlář	Spytovice	99	80	0
-5302	576026	1	3	903	6	Petra	Svobodová	F			29	kontrolorka	Spytovice	99	80	0
-5302	576026	1	3	903	7	Kateřina	Kočová	F			23	studentka	Spytovice	99	80	0
-5302	576026	1	3	903	8	Jaroslav	Procházka	M	Mgr.		32	advokát	Spytovice	99	80	0
-5302	576026	1	3	903	9	Jiří	Skohoutil	M			34	statistik	Spytovice	99	80	0
-5302	576026	1	4	904	1	Radomír	Stříška	M			48	technik	Zdechovice	99	80	0
-5302	576026	1	4	904	2	Tomáš	Rondzík	M	BcA.		40	grafik	Zdechovice	99	80	0
-5302	576026	1	4	904	3	Petr	Haas	M			41	technik	Zdechovice	99	80	0
-5302	576026	1	4	904	4	Zuzana	Kopuncová	F			33	vedoucí prodejny	Zdechovice	99	80	0
-5302	576026	1	4	904	5	Oldřiška	Brožková	F			28	servírka	Zdechovice	99	80	0
-5302	576026	1	4	904	6	Pavel	Hála	M			25	automechanik	Zdechovice	99	80	0
-5302	576026	1	4	904	7	Daniel	Mazal	M			22	student VŠ	Zdechovice	99	80	0
-5302	576026	1	4	904	8	Miloš	Sotona	M			49	stavební přípravář	Zdechovice	99	80	0
-5302	576026	1	4	904	9	Radek	Hloušek	M			38	obchodní zástupce	Zdechovice	99	80	0
-5302	576026	1	5	901	1	Vladimír	Dušek	M	Ing.		65	důchodce	Zdechovice	99	80	0
-5302	576026	1	5	901	2	Eva	Koláčná	F			58	účetní	Zdechovice	99	80	0
-5302	576026	1	5	901	3	Petr	Kupka	M			44	technik	Zdechovice	99	80	0
-5302	576026	1	5	901	4	Olena	Smetanová	F			35	kuchařka	Zdechovice	99	80	0
-5302	576026	1	5	901	5	Robert	Forman	M			38	metrolog	Spytovice	99	80	0
-5302	576026	1	5	901	6	Kamil	Kautský	M			36	kuchař	Zdechovice	99	80	0
-5302	576026	1	5	901	7	Kateřina	Marková	F			36	administrativní pracovnice	Zdechovice	99	80	0
-5302	576026	1	5	901	8	Martin	Langstein	M			44	obchodní zástupce	Zdechovice	99	80	0
-5302	576026	1	5	901	9	Vilém	Plocica	M			71	důchodce	Zdechovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5302	576026	1	1	902	1	Robert	Chutic	Ing.		64	stavební inženýr	Zdechovice	99	80	0	M
+5302	576026	1	2	801	1	Michal	Rambousek			37	hasič	Zdechovice	99	80	0	M
+5302	576026	1	3	903	1	Michal	Skohoutil			38	řidič	Spytovice	99	80	0	M
+5302	576026	1	4	904	1	Radomír	Stříška			48	technik	Zdechovice	99	80	0	M
+5302	576026	1	5	901	1	Vladimír	Dušek	Ing.		65	důchodce	Zdechovice	99	80	0	M
+5302	576026	1	1	902	2	Hana	Čeřovská	Mgr.		54	učitelka ZŠ	Zdechovice	99	80	0	F
+5302	576026	1	3	903	2	Ondřej	Procházka			30	OSVČ	Spytovice	99	80	0	M
+5302	576026	1	4	904	2	Tomáš	Rondzík	BcA.		40	grafik	Zdechovice	99	80	0	M
+5302	576026	1	5	901	2	Eva	Koláčná			58	účetní	Zdechovice	99	80	0	F
+5302	576026	1	1	902	3	Bohuslav	Nejerál	Ing.		55	elektrotechnický inženýr	Zdechovice	99	80	0	M
+5302	576026	1	3	903	3	Edita	Růžičková			42	dělnice	Spytovice	99	80	0	F
+5302	576026	1	4	904	3	Petr	Haas			41	technik	Zdechovice	99	80	0	M
+5302	576026	1	5	901	3	Petr	Kupka			44	technik	Zdechovice	99	80	0	M
+5302	576026	1	1	902	4	Lev	Matýsek			53	technický pracovník	Zdechovice	99	80	0	M
+5302	576026	1	3	903	4	Petr	Kurka			42	koordinátor	Spytovice	99	80	0	M
+5302	576026	1	4	904	4	Zuzana	Kopuncová			33	vedoucí prodejny	Zdechovice	99	80	0	F
+5302	576026	1	5	901	4	Olena	Smetanová			35	kuchařka	Zdechovice	99	80	0	F
+5302	576026	1	1	902	5	Lenka	Nováková			41	zahradnice	Zdechovice	99	80	0	F
+5302	576026	1	3	903	5	Milan	Záruba			31	truhlář	Spytovice	99	80	0	M
+5302	576026	1	4	904	5	Oldřiška	Brožková			28	servírka	Zdechovice	99	80	0	F
+5302	576026	1	5	901	5	Robert	Forman			38	metrolog	Spytovice	99	80	0	M
+5302	576026	1	1	902	6	Jan	Mynář			32	voják z povolání	Zdechovice	99	80	0	M
+5302	576026	1	3	903	6	Petra	Svobodová			29	kontrolorka	Spytovice	99	80	0	F
+5302	576026	1	4	904	6	Pavel	Hála			25	automechanik	Zdechovice	99	80	0	M
+5302	576026	1	5	901	6	Kamil	Kautský			36	kuchař	Zdechovice	99	80	0	M
+5302	576026	1	1	902	7	Sonja	Borovičková	Mgr.		69	učitelka ZŠ	Zdechovice	99	80	0	F
+5302	576026	1	3	903	7	Kateřina	Kočová			23	studentka	Spytovice	99	80	0	F
+5302	576026	1	4	904	7	Daniel	Mazal			22	student VŠ	Zdechovice	99	80	0	M
+5302	576026	1	5	901	7	Kateřina	Marková			36	administrativní pracovnice	Zdechovice	99	80	0	F
+5302	576026	1	1	902	8	Vladimíra	Nohejlová			63	zámečnice	Zdechovice	99	80	0	F
+5302	576026	1	3	903	8	Jaroslav	Procházka	Mgr.		32	advokát	Spytovice	99	80	0	M
+5302	576026	1	4	904	8	Miloš	Sotona			49	stavební přípravář	Zdechovice	99	80	0	M
+5302	576026	1	5	901	8	Martin	Langstein			44	obchodní zástupce	Zdechovice	99	80	0	M
+5302	576026	1	1	902	9	Hana	Vozábová			54	úřednice	Zdechovice	99	80	0	F
+5302	576026	1	3	903	9	Jiří	Skohoutil			34	statistik	Spytovice	99	80	0	M
+5302	576026	1	4	904	9	Radek	Hloušek			38	obchodní zástupce	Zdechovice	99	80	0	M
+5302	576026	1	5	901	9	Vilém	Plocica			71	důchodce	Zdechovice	99	80	0	M

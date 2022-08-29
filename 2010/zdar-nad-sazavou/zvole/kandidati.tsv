@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	597155	1	1	901	1	Jan	Vítek	M	Ing.		56	agronom	Zvole	47	80	0
-6105	597155	1	1	901	2	Jaroslav	Večeřa	M			61	elektrikář	Zvole	47	80	0
-6105	597155	1	1	901	3	Hana	Tulisová	F			42	podnikatelka	Zvole	99	80	0
-6105	597155	1	1	901	4	Antonín	Bárta	M			51	dělník	Zvole	99	80	0
-6105	597155	1	1	901	5	Eliška	Cejnková	F			53	zdravotní sestra	Zvole	99	80	0
-6105	597155	1	1	901	6	Miroslav	Málek	M	Ing.		62	agronom	Zvole	99	80	0
-6105	597155	1	1	901	7	Jaroslava	Vondrušková	F			53	dělnice	Zvole	99	80	0
-6105	597155	1	1	901	8	Jiří	Cejnek	M			55	technik	Zvole	99	80	0
-6105	597155	1	1	901	9	Aleš	Zelený	M			29	dělník	Zvole	99	80	0
-6105	597155	1	1	901	10	Jana	Mičínová	F			49	důchodkyně	Zvole	99	80	0
-6105	597155	1	2	1	1	Mojmír	Starý	M			51	starosta obce	Branišov	99	1	0
-6105	597155	1	2	1	2	Vladimír	Jindra	M	Ing.		43	vedoucí char. domova	Zvole	99	1	0
-6105	597155	1	2	1	3	Libuše	Ježová	F			40	zdravotní sestra	Olešínky	99	1	0
-6105	597155	1	2	1	4	Vlastimil	Fendrych	M			53	OSVČ	Zvole	99	1	0
-6105	597155	1	2	1	5	Pavel	Tulis	M			39	OSVČ	Branišov	99	1	0
-6105	597155	1	2	1	6	Andrea	Blažková	F			35	účetní	Zvole	99	1	0
-6105	597155	1	2	1	7	Petr	Nebola	M			35	OSVČ	Olešínky	99	1	0
-6105	597155	1	2	1	8	Josef	Jambor	M			51	OSVČ	Branišov	99	1	0
-6105	597155	1	2	1	9	Petr	Jež	M			37	OSVČ	Branišov	99	1	0
-6105	597155	1	2	1	10	Martin	Špička	M			31	dělník	Olešínky	99	1	0
-6105	597155	1	2	1	11	Josef	Tulis	M			37	OSVČ	Branišov	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	597155	1	1	901	1	Jan	Vítek	Ing.		56	agronom	Zvole	47	80	0	M
+6105	597155	1	2	1	1	Mojmír	Starý			51	starosta obce	Branišov	99	1	0	M
+6105	597155	1	1	901	2	Jaroslav	Večeřa			61	elektrikář	Zvole	47	80	0	M
+6105	597155	1	2	1	2	Vladimír	Jindra	Ing.		43	vedoucí char. domova	Zvole	99	1	0	M
+6105	597155	1	1	901	3	Hana	Tulisová			42	podnikatelka	Zvole	99	80	0	F
+6105	597155	1	2	1	3	Libuše	Ježová			40	zdravotní sestra	Olešínky	99	1	0	F
+6105	597155	1	1	901	4	Antonín	Bárta			51	dělník	Zvole	99	80	0	M
+6105	597155	1	2	1	4	Vlastimil	Fendrych			53	OSVČ	Zvole	99	1	0	M
+6105	597155	1	1	901	5	Eliška	Cejnková			53	zdravotní sestra	Zvole	99	80	0	F
+6105	597155	1	2	1	5	Pavel	Tulis			39	OSVČ	Branišov	99	1	0	M
+6105	597155	1	1	901	6	Miroslav	Málek	Ing.		62	agronom	Zvole	99	80	0	M
+6105	597155	1	2	1	6	Andrea	Blažková			35	účetní	Zvole	99	1	0	F
+6105	597155	1	1	901	7	Jaroslava	Vondrušková			53	dělnice	Zvole	99	80	0	F
+6105	597155	1	2	1	7	Petr	Nebola			35	OSVČ	Olešínky	99	1	0	M
+6105	597155	1	1	901	8	Jiří	Cejnek			55	technik	Zvole	99	80	0	M
+6105	597155	1	2	1	8	Josef	Jambor			51	OSVČ	Branišov	99	1	0	M
+6105	597155	1	1	901	9	Aleš	Zelený			29	dělník	Zvole	99	80	0	M
+6105	597155	1	2	1	9	Petr	Jež			37	OSVČ	Branišov	99	1	0	M
+6105	597155	1	1	901	10	Jana	Mičínová			49	důchodkyně	Zvole	99	80	0	F
+6105	597155	1	2	1	10	Martin	Špička			31	dělník	Olešínky	99	1	0	M
+6105	597155	1	2	1	11	Josef	Tulis			37	OSVČ	Branišov	99	1	0	M

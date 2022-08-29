@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	562254	1	1	902	1	Vít	Procházka	M	Ing.		41	ředitel ZD	Paseky	99	80	A
-3104	562254	1	1	902	2	Stanislav	Rothbauer	M			41	ředitel regionu	Paseky	99	80	A
-3104	562254	1	1	902	3	Petr	Slavík	M			40	obsluha krmného vozu	Paseky	99	80	A
-3104	562254	1	1	902	4	Ludmila	Stropnická	F			45	kuchařka	Paseky	99	80	A
-3104	562254	1	1	902	5	Zdeňka	Matušicová	F			50	zdravotní sestra	Paseky	99	80	A
-3104	562254	1	1	902	6	Jindřich	Pejša	M			61	důchodce	Paseky	99	80	A
-3104	562254	1	2	901	1	Jana	Vaněčková	F	Ing.		41	účetní	Paseky	99	80	A
-3104	562254	1	2	901	2	Vladimír	Vnuk	M			50	stavbyvedoucí	Paseky	99	80	A
-3104	562254	1	2	901	3	Tomáš	Vaněček	M			37	servisní technik	Paseky	99	80	A
-3104	562254	1	2	901	4	Lenka	Kasová	F			27	dělnice v dřevařské výrobě	Paseky	99	80	A
-3104	562254	1	2	901	5	Martina	Kramplová	F			48	vedoucí expedice	Paseky	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	562254	1	1	902	1	Vít	Procházka	Ing.		41	ředitel ZD	Paseky	99	80	A	M
+3104	562254	1	2	901	1	Jana	Vaněčková	Ing.		41	účetní	Paseky	99	80	A	F
+3104	562254	1	1	902	2	Stanislav	Rothbauer			41	ředitel regionu	Paseky	99	80	A	M
+3104	562254	1	2	901	2	Vladimír	Vnuk			50	stavbyvedoucí	Paseky	99	80	A	M
+3104	562254	1	1	902	3	Petr	Slavík			40	obsluha krmného vozu	Paseky	99	80	A	M
+3104	562254	1	2	901	3	Tomáš	Vaněček			37	servisní technik	Paseky	99	80	A	M
+3104	562254	1	1	902	4	Ludmila	Stropnická			45	kuchařka	Paseky	99	80	A	F
+3104	562254	1	2	901	4	Lenka	Kasová			27	dělnice v dřevařské výrobě	Paseky	99	80	A	F
+3104	562254	1	1	902	5	Zdeňka	Matušicová			50	zdravotní sestra	Paseky	99	80	A	F
+3104	562254	1	2	901	5	Martina	Kramplová			48	vedoucí expedice	Paseky	99	80	A	F
+3104	562254	1	1	902	6	Jindřich	Pejša			61	důchodce	Paseky	99	80	A	M

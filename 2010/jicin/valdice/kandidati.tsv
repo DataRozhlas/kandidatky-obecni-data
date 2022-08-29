@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5202	573701	1	1	902	1	Zdeněk	Žurek	M			57	starosta obce	Valdice	99	80	0
-5202	573701	1	1	902	2	Věra	Skrbková	F			53	ředitelka MŠ	Valdice	99	80	0
-5202	573701	1	1	902	3	Tibor	Vojtko	M	PhDr.	PhD.	34	vysokoškolský učitel	Valdice	99	80	0
-5202	573701	1	1	902	4	Václav	Kraus	M			68	důchodce	Valdice	99	80	0
-5202	573701	1	1	902	5	Vladimíra	Vávrová	F			62	důchodce	Valdice	99	80	0
-5202	573701	1	1	902	6	Jiří	Karásek	M			40	státní zaměstnanec	Valdice	99	80	0
-5202	573701	1	1	902	7	Martin	Jirásek	M			37	skladník	Valdice	99	80	0
-5202	573701	1	1	902	8	Monika	Fialová	F			36	administrativní pracovnice	Valdice	99	80	0
-5202	573701	1	1	902	9	Martina	Holubcová	F			30	prodavačka	Valdice	99	80	0
-5202	573701	1	2	901	1	František	Šámal	M			65	důchodce	Valdice	99	80	0
-5202	573701	1	2	901	2	Miloslav	Bret	M			26	učitel,student a podnikatel	Valdice	99	80	0
-5202	573701	1	2	901	3	Radek	Drobný	M			35	elektrikář	Valdice	99	80	0
-5202	573701	1	2	901	4	Martin	Románek	M			34	státní zaměstnanec	Valdice	99	80	0
-5202	573701	1	2	901	5	Michal	Nazarevič	M			36	dělník v chemické výrobě	Valdice	99	80	0
-5202	573701	1	2	901	6	Miloslav	Bret	M			51	montážní dělník	Valdice	99	80	0
-5202	573701	1	2	901	7	Tomáš	Dubský	M			19	student	Valdice	99	80	0
-5202	573701	1	2	901	8	Dominika	Hlavová	F			22	student	Valdice	99	80	0
-5202	573701	1	2	901	9	Jan	Medlík	M			19	student	Valdice	99	80	0
-5202	573701	1	2	901	10	Jana	Neumannová	F			21	soudní zapisovatelka	Valdice	99	80	0
-5202	573701	1	3	903	1	Vladislav	Kraus	M	JUDr.		63	důchodce	Valdice	47	80	0
-5202	573701	1	3	903	2	Jan	Satrapa	M			58	vedoucí veřejné zeleně	Valdice	99	80	0
-5202	573701	1	3	903	3	Josef	Kůtek	M	Ing.		64	učitel	Valdice	99	80	0
-5202	573701	1	3	903	4	Jaroslava	Prchlá	F	Mgr.		57	učitelka	Valdice	99	80	0
-5202	573701	1	3	903	5	Ludmila	Šulcová	F	Ing.		41	zástupce ředitele školy	Valdice	99	80	0
-5202	573701	1	3	903	6	Jana	Drbohlavová	F			42	školnice	Valdice	99	80	0
-5202	573701	1	3	903	7	Alena	Jirutková	F			39	účetní	Valdice	99	80	0
-5202	573701	1	3	903	8	Vratislav	Svoboda	M			48	státní zaměstnanec	Valdice	99	80	0
-5202	573701	1	3	903	9	Vladimír	Švec	M			47	živnostník	Valdice	99	80	0
-5202	573701	1	3	903	10	Pavel	Kristiňák	M			42	vedoucí autoservisu	Valdice	99	80	0
-5202	573701	1	3	903	11	Michal	Franc	M			31	dělník	Valdice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5202	573701	1	1	902	1	Zdeněk	Žurek			57	starosta obce	Valdice	99	80	0	M
+5202	573701	1	2	901	1	František	Šámal			65	důchodce	Valdice	99	80	0	M
+5202	573701	1	3	903	1	Vladislav	Kraus	JUDr.		63	důchodce	Valdice	47	80	0	M
+5202	573701	1	1	902	2	Věra	Skrbková			53	ředitelka MŠ	Valdice	99	80	0	F
+5202	573701	1	2	901	2	Miloslav	Bret			26	učitel,student a podnikatel	Valdice	99	80	0	M
+5202	573701	1	3	903	2	Jan	Satrapa			58	vedoucí veřejné zeleně	Valdice	99	80	0	M
+5202	573701	1	1	902	3	Tibor	Vojtko	PhDr.	PhD.	34	vysokoškolský učitel	Valdice	99	80	0	M
+5202	573701	1	2	901	3	Radek	Drobný			35	elektrikář	Valdice	99	80	0	M
+5202	573701	1	3	903	3	Josef	Kůtek	Ing.		64	učitel	Valdice	99	80	0	M
+5202	573701	1	1	902	4	Václav	Kraus			68	důchodce	Valdice	99	80	0	M
+5202	573701	1	2	901	4	Martin	Románek			34	státní zaměstnanec	Valdice	99	80	0	M
+5202	573701	1	3	903	4	Jaroslava	Prchlá	Mgr.		57	učitelka	Valdice	99	80	0	F
+5202	573701	1	1	902	5	Vladimíra	Vávrová			62	důchodce	Valdice	99	80	0	F
+5202	573701	1	2	901	5	Michal	Nazarevič			36	dělník v chemické výrobě	Valdice	99	80	0	M
+5202	573701	1	3	903	5	Ludmila	Šulcová	Ing.		41	zástupce ředitele školy	Valdice	99	80	0	F
+5202	573701	1	1	902	6	Jiří	Karásek			40	státní zaměstnanec	Valdice	99	80	0	M
+5202	573701	1	2	901	6	Miloslav	Bret			51	montážní dělník	Valdice	99	80	0	M
+5202	573701	1	3	903	6	Jana	Drbohlavová			42	školnice	Valdice	99	80	0	F
+5202	573701	1	1	902	7	Martin	Jirásek			37	skladník	Valdice	99	80	0	M
+5202	573701	1	2	901	7	Tomáš	Dubský			19	student	Valdice	99	80	0	M
+5202	573701	1	3	903	7	Alena	Jirutková			39	účetní	Valdice	99	80	0	F
+5202	573701	1	1	902	8	Monika	Fialová			36	administrativní pracovnice	Valdice	99	80	0	F
+5202	573701	1	2	901	8	Dominika	Hlavová			22	student	Valdice	99	80	0	F
+5202	573701	1	3	903	8	Vratislav	Svoboda			48	státní zaměstnanec	Valdice	99	80	0	M
+5202	573701	1	1	902	9	Martina	Holubcová			30	prodavačka	Valdice	99	80	0	F
+5202	573701	1	2	901	9	Jan	Medlík			19	student	Valdice	99	80	0	M
+5202	573701	1	3	903	9	Vladimír	Švec			47	živnostník	Valdice	99	80	0	M
+5202	573701	1	2	901	10	Jana	Neumannová			21	soudní zapisovatelka	Valdice	99	80	0	F
+5202	573701	1	3	903	10	Pavel	Kristiňák			42	vedoucí autoservisu	Valdice	99	80	0	M
+5202	573701	1	3	903	11	Michal	Franc			31	dělník	Valdice	99	80	0	M

@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	571105	1	1	902	1	Kamil	Králik	M			29	hasič	Výrava	99	80	0
-5201	571105	1	1	902	2	Jana	Medková	F	Mgr. Ing.		51	daňová poradkyně	Výrava	99	80	0
-5201	571105	1	1	902	3	Martina	Steinová	F			37	státní zaměstnanec	Výrava	99	80	0
-5201	571105	1	1	902	4	Jiří	Beznosek	M			28	tesař	Výrava	99	80	0
-5201	571105	1	1	902	5	Pavel	Mazura	M			40	OSVČ	Výrava	99	80	0
-5201	571105	1	1	902	6	Anita	Štenclová	F			47	OSVČ	Výrava	99	80	0
-5201	571105	1	2	801	1	Pavel	Jurčík	M			62	ředitel společnosti	Výrava	99	80	0
-5201	571105	1	3	901	1	Michal	Konečný	M			37	technik	Výrava	99	80	0
-5201	571105	1	3	901	2	Pavel	Vejman	M			41	technik	Výrava	99	80	0
-5201	571105	1	3	901	3	Jitka	Hrubá	F	Mgr.		45	OSVČ	Výrava	99	80	0
-5201	571105	1	3	901	4	Vladimír	Panenka	M			46	zemědělec	Výrava	99	80	0
-5201	571105	1	3	901	5	Jaroslav	Hejcman	M			46	zemědělec	Výrava	99	80	0
-5201	571105	1	3	901	6	Jiří	Hájek	M			33	operátor vodovodní sítě	Výrava	99	80	0
-5201	571105	1	3	901	7	Jana	Hojná	F			37	dispečerka	Výrava	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	571105	1	1	902	1	Kamil	Králik			29	hasič	Výrava	99	80	0	M
+5201	571105	1	2	801	1	Pavel	Jurčík			62	ředitel společnosti	Výrava	99	80	0	M
+5201	571105	1	3	901	1	Michal	Konečný			37	technik	Výrava	99	80	0	M
+5201	571105	1	1	902	2	Jana	Medková	Mgr. Ing.		51	daňová poradkyně	Výrava	99	80	0	F
+5201	571105	1	3	901	2	Pavel	Vejman			41	technik	Výrava	99	80	0	M
+5201	571105	1	1	902	3	Martina	Steinová			37	státní zaměstnanec	Výrava	99	80	0	F
+5201	571105	1	3	901	3	Jitka	Hrubá	Mgr.		45	OSVČ	Výrava	99	80	0	F
+5201	571105	1	1	902	4	Jiří	Beznosek			28	tesař	Výrava	99	80	0	M
+5201	571105	1	3	901	4	Vladimír	Panenka			46	zemědělec	Výrava	99	80	0	M
+5201	571105	1	1	902	5	Pavel	Mazura			40	OSVČ	Výrava	99	80	0	M
+5201	571105	1	3	901	5	Jaroslav	Hejcman			46	zemědělec	Výrava	99	80	0	M
+5201	571105	1	1	902	6	Anita	Štenclová			47	OSVČ	Výrava	99	80	0	F
+5201	571105	1	3	901	6	Jiří	Hájek			33	operátor vodovodní sítě	Výrava	99	80	0	M
+5201	571105	1	3	901	7	Jana	Hojná			37	dispečerka	Výrava	99	80	0	F

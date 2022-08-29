@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8102	511986	1	1	7	1	Oldřich	Gajdušek	M	Ing.		44	revírník	Horní Lomná	7	7	0
-8102	511986	1	1	7	2	Oldřich	Kotala	M			55	místostarosta	Horní Lomná	7	7	0
-8102	511986	1	1	7	3	Vladislav	Czudek	M			34	strojírenský opravář	Horní Lomná	7	7	0
-8102	511986	1	1	7	4	Dana	Brózdová	F			42	v domácnosti	Horní Lomná	99	7	0
-8102	511986	1	1	7	5	Jaroslav	Kajfosz	M			49	strojvedoucí	Horní Lomná	99	7	0
-8102	511986	1	1	7	6	Leona	Mikulová	F			23	úřednice	Horní Lomná	99	7	0
-8102	511986	1	1	7	7	Zbigniew	Kantor	M	Ing.		35	elektroinženýr	Horní Lomná	99	7	0
-8102	511986	1	2	1	1	Petr	Marosz	M			42	referent	Horní Lomná	99	1	0
-8102	511986	1	2	1	2	Antonín	Kohut	M			43	strojvedoucí	Horní Lomná	99	1	0
-8102	511986	1	2	1	3	Marcela	Brozdová	F			36	kuchařka	Horní Lomná	99	1	0
-8102	511986	1	2	1	4	Tomáš	Rucki	M			43	automechanik	Horní Lomná	99	1	0
-8102	511986	1	2	1	5	Jiří	Zimny	M			29	zedník	Horní Lomná	99	1	0
-8102	511986	1	2	1	6	Tomáš	Gruszka	M			33	řidič	Horní Lomná	99	1	0
-8102	511986	1	2	1	7	Antonín	Martynek	M			38	sklář	Horní Lomná	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8102	511986	1	1	7	1	Oldřich	Gajdušek	Ing.		44	revírník	Horní Lomná	7	7	0	M
+8102	511986	1	2	1	1	Petr	Marosz			42	referent	Horní Lomná	99	1	0	M
+8102	511986	1	1	7	2	Oldřich	Kotala			55	místostarosta	Horní Lomná	7	7	0	M
+8102	511986	1	2	1	2	Antonín	Kohut			43	strojvedoucí	Horní Lomná	99	1	0	M
+8102	511986	1	1	7	3	Vladislav	Czudek			34	strojírenský opravář	Horní Lomná	7	7	0	M
+8102	511986	1	2	1	3	Marcela	Brozdová			36	kuchařka	Horní Lomná	99	1	0	F
+8102	511986	1	1	7	4	Dana	Brózdová			42	v domácnosti	Horní Lomná	99	7	0	F
+8102	511986	1	2	1	4	Tomáš	Rucki			43	automechanik	Horní Lomná	99	1	0	M
+8102	511986	1	1	7	5	Jaroslav	Kajfosz			49	strojvedoucí	Horní Lomná	99	7	0	M
+8102	511986	1	2	1	5	Jiří	Zimny			29	zedník	Horní Lomná	99	1	0	M
+8102	511986	1	1	7	6	Leona	Mikulová			23	úřednice	Horní Lomná	99	7	0	F
+8102	511986	1	2	1	6	Tomáš	Gruszka			33	řidič	Horní Lomná	99	1	0	M
+8102	511986	1	1	7	7	Zbigniew	Kantor	Ing.		35	elektroinženýr	Horní Lomná	99	7	0	M
+8102	511986	1	2	1	7	Antonín	Martynek			38	sklář	Horní Lomná	99	1	0	M

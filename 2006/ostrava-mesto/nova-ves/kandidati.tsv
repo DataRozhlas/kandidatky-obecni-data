@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8106	554367	1	1	129	1	Oldřich	Zimmermann	M			62	elektrotechnik	Nová Ves	129	129	0
-8106	554367	1	1	129	2	Eva	Varchoĺáková	F	Mgr.		46	středoškolský učitel	Nová Ves	99	129	0
-8106	554367	1	1	129	3	Zdeněk	Pleva	M			71	stolař	Nová Ves	99	129	0
-8106	554367	1	1	129	4	Zuzana	Mikšaníková	F	Mgr.		35	učitel	Nová Ves	99	129	0
-8106	554367	1	1	129	5	Jaroslav	Kubečka	M			62	zámečník	Nová Ves	99	129	0
-8106	554367	1	1	129	6	Anna	Fialová	F			62	švadlena	Nová Ves	99	129	0
-8106	554367	1	1	129	7	Renáta	Křenková	F			27	prodavačka	Nová Ves	99	129	0
-8106	554367	1	1	129	8	Ivo	Golonka	M			49	elektrotechnik	Nová Ves	99	129	0
-8106	554367	1	1	129	9	Jaroslav	Fajtl	M			26	kovář	Nová Ves	99	129	0
-8106	554367	1	2	7	1	Ivo	Hanzel	M			46	zámečník	Nová Ves	99	7	0
-8106	554367	1	2	7	2	Radomír	Klimčík	M	Ing.		83	technik	Nová Ves	7	7	0
-8106	554367	1	2	7	3	Vilém	Vilkus	M			60	chemik	Nová Ves	99	7	0
-8106	554367	1	2	7	4	Jiřina	Nodarseová	F			54	účetní	Nová Ves	99	7	0
-8106	554367	1	2	7	5	Dušan	Svrčina	M			37	chemik	Nová Ves	99	7	0
-8106	554367	1	2	7	6	Ivo	Holub	M			36	zámečník	Nová Ves	99	7	0
-8106	554367	1	2	7	7	Kateřina	Pařenicová	F			23	student	Nová Ves	99	7	0
-8106	554367	1	2	7	8	Karel	Mišún	M			35	zámečník	Nová Ves	99	7	0
-8106	554367	1	3	53	1	Jana	Kubová	F			56	referent	Nová Ves	53	53	0
-8106	554367	1	3	53	2	Tomáš	Lefner	M			35	velitel	Nová Ves	99	53	0
-8106	554367	1	3	53	3	Ludmila	Hašková	F			68	administrativní pracovnice	Nová Ves	53	53	0
-8106	554367	1	3	53	4	Jaroslava	Rosypálková	F	Ing.		52	podnikatelka	Nová Ves	99	53	0
-8106	554367	1	3	53	5	Vladimír	Bednář	M			46	chemik	Nová Ves	99	53	0
-8106	554367	1	3	53	6	Věra	Lefnerová	F			58	technik	Nová Ves	99	53	0
-8106	554367	1	3	53	7	Zdeněk	Voznička	M			41	živnostník	Nová Ves	99	53	0
-8106	554367	1	3	53	8	Ivana	Marynčáková	F			41	účetní	Nová Ves	99	53	0
-8106	554367	1	3	53	9	Karel	Pleva	M			32	podnikatel	Nová Ves	53	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8106	554367	1	1	129	1	Oldřich	Zimmermann			62	elektrotechnik	Nová Ves	129	129	0	M
+8106	554367	1	2	7	1	Ivo	Hanzel			46	zámečník	Nová Ves	99	7	0	M
+8106	554367	1	3	53	1	Jana	Kubová			56	referent	Nová Ves	53	53	0	F
+8106	554367	1	1	129	2	Eva	Varchoĺáková	Mgr.		46	středoškolský učitel	Nová Ves	99	129	0	F
+8106	554367	1	2	7	2	Radomír	Klimčík	Ing.		83	technik	Nová Ves	7	7	0	M
+8106	554367	1	3	53	2	Tomáš	Lefner			35	velitel	Nová Ves	99	53	0	M
+8106	554367	1	1	129	3	Zdeněk	Pleva			71	stolař	Nová Ves	99	129	0	M
+8106	554367	1	2	7	3	Vilém	Vilkus			60	chemik	Nová Ves	99	7	0	M
+8106	554367	1	3	53	3	Ludmila	Hašková			68	administrativní pracovnice	Nová Ves	53	53	0	F
+8106	554367	1	1	129	4	Zuzana	Mikšaníková	Mgr.		35	učitel	Nová Ves	99	129	0	F
+8106	554367	1	2	7	4	Jiřina	Nodarseová			54	účetní	Nová Ves	99	7	0	F
+8106	554367	1	3	53	4	Jaroslava	Rosypálková	Ing.		52	podnikatelka	Nová Ves	99	53	0	F
+8106	554367	1	1	129	5	Jaroslav	Kubečka			62	zámečník	Nová Ves	99	129	0	M
+8106	554367	1	2	7	5	Dušan	Svrčina			37	chemik	Nová Ves	99	7	0	M
+8106	554367	1	3	53	5	Vladimír	Bednář			46	chemik	Nová Ves	99	53	0	M
+8106	554367	1	1	129	6	Anna	Fialová			62	švadlena	Nová Ves	99	129	0	F
+8106	554367	1	2	7	6	Ivo	Holub			36	zámečník	Nová Ves	99	7	0	M
+8106	554367	1	3	53	6	Věra	Lefnerová			58	technik	Nová Ves	99	53	0	F
+8106	554367	1	1	129	7	Renáta	Křenková			27	prodavačka	Nová Ves	99	129	0	F
+8106	554367	1	2	7	7	Kateřina	Pařenicová			23	student	Nová Ves	99	7	0	F
+8106	554367	1	3	53	7	Zdeněk	Voznička			41	živnostník	Nová Ves	99	53	0	M
+8106	554367	1	1	129	8	Ivo	Golonka			49	elektrotechnik	Nová Ves	99	129	0	M
+8106	554367	1	2	7	8	Karel	Mišún			35	zámečník	Nová Ves	99	7	0	M
+8106	554367	1	3	53	8	Ivana	Marynčáková			41	účetní	Nová Ves	99	53	0	F
+8106	554367	1	1	129	9	Jaroslav	Fajtl			26	kovář	Nová Ves	99	129	0	M
+8106	554367	1	3	53	9	Karel	Pleva			32	podnikatel	Nová Ves	53	53	0	M

@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	582484	1	1	1	1	Lukáš	Zouhar	M	Mgr. Ing.		35	učitel	Šošůvka	99	1	0
-6201	582484	1	1	1	2	Karel	Mikulášek	M			39	elektrikář	Šošůvka	1	1	0
-6201	582484	1	1	1	3	Eliška	Michlíčková	F			41	dělnice	Šošůvka	1	1	0
-6201	582484	1	1	1	4	Josef	Ostrovský	M	Ing.		34	technik	Šošůvka	99	1	0
-6201	582484	1	1	1	5	Karel	Hasoň	M	Mgr.	Ph.D.	37	ředitel školy	Šošůvka	1	1	0
-6201	582484	1	1	1	6	Marta	Krátká	F			51	pánská krejčová	Šošůvka	1	1	0
-6201	582484	1	1	1	7	Miroslav	Štrajt	M			37	montér	Šošůvka	99	1	0
-6201	582484	1	1	1	8	Václav	Zouhar	M			28	řidič	Šošůvka	99	1	0
-6201	582484	1	2	901	1	Stanislav	Šindelka	M			43	starosta obce	Šošůvka	7	80	0
-6201	582484	1	2	901	2	Eva	Zouharová	F			41	osobní bankéř	Šošůvka	99	80	0
-6201	582484	1	2	901	3	Jiří	Obalil	M	Ing.		30	podnikatel	Šošůvka	99	80	0
-6201	582484	1	2	901	4	Věra	Střítecká	F	PhDr.		59	učitelka	Šošůvka	99	80	0
-6201	582484	1	2	901	5	Petr	Sehnal	M	Mgr.		27	učitel	Šošůvka	99	80	0
-6201	582484	1	2	901	6	Jaroslav	Zouhar	M			41	montér	Šošůvka	99	80	0
-6201	582484	1	2	901	7	Ivo	Sedlák	M	Ing.		44	ředitel zahraničního obchodu	Šošůvka	99	80	0
-6201	582484	1	2	901	8	Josef	Mikulášek	M	Ing.		39	obchodní ředitel	Šošůvka	99	80	0
-6201	582484	1	2	901	9	Jan	Hudec	M	Ing.		64	důchodce	Šošůvka	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	582484	1	1	1	1	Lukáš	Zouhar	Mgr. Ing.		35	učitel	Šošůvka	99	1	0	M
+6201	582484	1	2	901	1	Stanislav	Šindelka			43	starosta obce	Šošůvka	7	80	0	M
+6201	582484	1	1	1	2	Karel	Mikulášek			39	elektrikář	Šošůvka	1	1	0	M
+6201	582484	1	2	901	2	Eva	Zouharová			41	osobní bankéř	Šošůvka	99	80	0	F
+6201	582484	1	1	1	3	Eliška	Michlíčková			41	dělnice	Šošůvka	1	1	0	F
+6201	582484	1	2	901	3	Jiří	Obalil	Ing.		30	podnikatel	Šošůvka	99	80	0	M
+6201	582484	1	1	1	4	Josef	Ostrovský	Ing.		34	technik	Šošůvka	99	1	0	M
+6201	582484	1	2	901	4	Věra	Střítecká	PhDr.		59	učitelka	Šošůvka	99	80	0	F
+6201	582484	1	1	1	5	Karel	Hasoň	Mgr.	Ph.D.	37	ředitel školy	Šošůvka	1	1	0	M
+6201	582484	1	2	901	5	Petr	Sehnal	Mgr.		27	učitel	Šošůvka	99	80	0	M
+6201	582484	1	1	1	6	Marta	Krátká			51	pánská krejčová	Šošůvka	1	1	0	F
+6201	582484	1	2	901	6	Jaroslav	Zouhar			41	montér	Šošůvka	99	80	0	M
+6201	582484	1	1	1	7	Miroslav	Štrajt			37	montér	Šošůvka	99	1	0	M
+6201	582484	1	2	901	7	Ivo	Sedlák	Ing.		44	ředitel zahraničního obchodu	Šošůvka	99	80	0	M
+6201	582484	1	1	1	8	Václav	Zouhar			28	řidič	Šošůvka	99	1	0	M
+6201	582484	1	2	901	8	Josef	Mikulášek	Ing.		39	obchodní ředitel	Šošůvka	99	80	0	M
+6201	582484	1	2	901	9	Jan	Hudec	Ing.		64	důchodce	Šošůvka	99	80	0	M

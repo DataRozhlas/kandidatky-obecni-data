@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2106	531936	1	1	901	1	Josef	Honzík	M			40	kuchař	Vidim	99	80	0
-2106	531936	1	1	901	2	Miroslav	Fojtík	M			34	údržbář	Vidim	99	80	0
-2106	531936	1	1	901	3	Zbyněk	Žížala	M			57	zámečník	Vidim	99	80	0
-2106	531936	1	1	901	4	Vratislav	Vondrák	M			43	řidič záchranky	Vidim	99	80	0
-2106	531936	1	1	901	5	Pavel	Hosták	M			40	řidič	Vidim	99	80	0
-2106	531936	1	1	901	6	Martin	Špaček	M			42	strojník-řidič	Vidim	99	80	0
-2106	531936	1	1	901	7	Petr	Nemasta	M			48	soukromý podnikatel	Vidim	99	80	0
-2106	531936	1	2	902	1	Jan	Finferle	M			33	automechanik	Vidim	99	80	0
-2106	531936	1	2	902	2	Michal	Březina	M			25	lešenář	Vidim	99	80	0
-2106	531936	1	2	902	3	Ondřej	Polák	M			20	lešenář	Vidim	99	80	0
-2106	531936	1	2	902	4	Lucie	Kolářová	F			28	uklízečka	Vidim	99	80	0
-2106	531936	1	2	902	5	Nikol	Špačková	F			20	uklízečka	Vidim	99	80	0
-2106	531936	1	2	902	6	Ludmila	Honzíková	F			39	pradlena	Vidim	99	80	0
-2106	531936	1	2	902	7	Petr	Nemasta	M			26	soukromý podnikatel	Vidim	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2106	531936	1	1	901	1	Josef	Honzík			40	kuchař	Vidim	99	80	0	M
+2106	531936	1	2	902	1	Jan	Finferle			33	automechanik	Vidim	99	80	0	M
+2106	531936	1	1	901	2	Miroslav	Fojtík			34	údržbář	Vidim	99	80	0	M
+2106	531936	1	2	902	2	Michal	Březina			25	lešenář	Vidim	99	80	0	M
+2106	531936	1	1	901	3	Zbyněk	Žížala			57	zámečník	Vidim	99	80	0	M
+2106	531936	1	2	902	3	Ondřej	Polák			20	lešenář	Vidim	99	80	0	M
+2106	531936	1	1	901	4	Vratislav	Vondrák			43	řidič záchranky	Vidim	99	80	0	M
+2106	531936	1	2	902	4	Lucie	Kolářová			28	uklízečka	Vidim	99	80	0	F
+2106	531936	1	1	901	5	Pavel	Hosták			40	řidič	Vidim	99	80	0	M
+2106	531936	1	2	902	5	Nikol	Špačková			20	uklízečka	Vidim	99	80	0	F
+2106	531936	1	1	901	6	Martin	Špaček			42	strojník-řidič	Vidim	99	80	0	M
+2106	531936	1	2	902	6	Ludmila	Honzíková			39	pradlena	Vidim	99	80	0	F
+2106	531936	1	1	901	7	Petr	Nemasta			48	soukromý podnikatel	Vidim	99	80	0	M
+2106	531936	1	2	902	7	Petr	Nemasta			26	soukromý podnikatel	Vidim	99	80	0	M

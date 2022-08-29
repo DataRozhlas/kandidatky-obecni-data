@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	544272	1	1	7	1	Šárka	Bušková	F	Ing.		39	OSVČ	Borek	99	7	0
-3101	544272	1	1	7	2	Václav	Götz	M	Mgr.		63	ředitel ZŠ	Borek	7	7	0
-3101	544272	1	2	47	1	Milan	Průdek	M			72	důchodce	Borek	47	47	0
-3101	544272	1	2	47	2	Jaromír	Bíca	M			71	důchodce	Borek	47	47	0
-3101	544272	1	2	47	3	Pavel	Kojan	M	RSDr.		69	důchodce	Borek	47	47	0
-3101	544272	1	2	47	4	Jiří	Punda	M	RSDr.	CSc.	69	důchodce	Borek	47	47	0
-3101	544272	1	2	47	5	František	Michal	M			73	důchodce	Borek	47	47	0
-3101	544272	1	2	47	6	Miloslav	Martenek	M			73	výtvarník	Borek	99	47	0
-3101	544272	1	3	1	1	Václav	Fučík	M			61	starosta obce	Borek	1	1	0
-3101	544272	1	3	1	2	Pavel	Čížek	M	Ing.		50	stavební inženýr	Borek	99	1	0
-3101	544272	1	3	1	3	Pavel	Bláha	M			61	důchodce	Borek	99	1	0
-3101	544272	1	3	1	4	Petr	Mika	M			37	obchodní zástupce	Borek	99	1	0
-3101	544272	1	3	1	5	Jaroslav	Novák	M			37	vedoucí prodeje os. automobilů	Borek	99	1	0
-3101	544272	1	3	1	6	Martin	Horejš	M	Ing.		40	ekonom	Borek	99	1	0
-3101	544272	1	3	1	7	Jaroslav	Litvan	M	Ing.		44	stavební inženýr	Borek	99	1	0
-3101	544272	1	3	1	8	František	Linhart	M			57	podnikatel	Borek	99	1	0
-3101	544272	1	3	1	9	Václav	Kouba	M			58	podnikatel	Borek	99	1	0
-3101	544272	1	3	1	10	Václav	Votruba	M			55	podnikatel	Borek	99	1	0
-3101	544272	1	3	1	11	Pavel	Kantor	M			37	podnikatel	Borek	99	1	0
-3101	544272	1	4	53	1	Petr	Heteša	M	Ing. arch.		47	architekt	Borek	53	53	0
-3101	544272	1	4	53	2	Jaroslava	Kadlčíková	F			44	vedoucí skladu	Borek	53	53	0
-3101	544272	1	4	53	3	Jelena	Hrdinová	F	Mgr.		40	učitelka	Borek	99	53	0
-3101	544272	1	4	53	4	Zdeňka	Pandulová	F	Ing.		49	úřednice	Borek	99	53	0
-3101	544272	1	4	53	5	Jaroslav	Hrubý	M			31	vedoucí servisu	Borek	53	53	0
-3101	544272	1	4	53	6	Miroslav	Kučera	M			41	podnikatel	Borek	99	53	0
-3101	544272	1	4	53	7	Iva	Millerová	F			40	výtvarnice	Borek	99	53	0
-3101	544272	1	4	53	8	Jiří	Wohlmann	M			66	důchodce	Borek	53	53	0
-3101	544272	1	4	53	9	Jaroslav	Bouchal	M	Ing.		43	technik	Borek	53	53	0
-3101	544272	1	4	53	10	Martin	Janíček	M	Ing.		25	konstruktér elektro	Borek	99	53	0
-3101	544272	1	4	53	11	Jan	Přibyl	M			21	konstruktér elektro	Borek	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	544272	1	1	7	1	Šárka	Bušková	Ing.		39	OSVČ	Borek	99	7	0	F
+3101	544272	1	2	47	1	Milan	Průdek			72	důchodce	Borek	47	47	0	M
+3101	544272	1	3	1	1	Václav	Fučík			61	starosta obce	Borek	1	1	0	M
+3101	544272	1	4	53	1	Petr	Heteša	Ing. arch.		47	architekt	Borek	53	53	0	M
+3101	544272	1	1	7	2	Václav	Götz	Mgr.		63	ředitel ZŠ	Borek	7	7	0	M
+3101	544272	1	2	47	2	Jaromír	Bíca			71	důchodce	Borek	47	47	0	M
+3101	544272	1	3	1	2	Pavel	Čížek	Ing.		50	stavební inženýr	Borek	99	1	0	M
+3101	544272	1	4	53	2	Jaroslava	Kadlčíková			44	vedoucí skladu	Borek	53	53	0	F
+3101	544272	1	2	47	3	Pavel	Kojan	RSDr.		69	důchodce	Borek	47	47	0	M
+3101	544272	1	3	1	3	Pavel	Bláha			61	důchodce	Borek	99	1	0	M
+3101	544272	1	4	53	3	Jelena	Hrdinová	Mgr.		40	učitelka	Borek	99	53	0	F
+3101	544272	1	2	47	4	Jiří	Punda	RSDr.	CSc.	69	důchodce	Borek	47	47	0	M
+3101	544272	1	3	1	4	Petr	Mika			37	obchodní zástupce	Borek	99	1	0	M
+3101	544272	1	4	53	4	Zdeňka	Pandulová	Ing.		49	úřednice	Borek	99	53	0	F
+3101	544272	1	2	47	5	František	Michal			73	důchodce	Borek	47	47	0	M
+3101	544272	1	3	1	5	Jaroslav	Novák			37	vedoucí prodeje os. automobilů	Borek	99	1	0	M
+3101	544272	1	4	53	5	Jaroslav	Hrubý			31	vedoucí servisu	Borek	53	53	0	M
+3101	544272	1	2	47	6	Miloslav	Martenek			73	výtvarník	Borek	99	47	0	M
+3101	544272	1	3	1	6	Martin	Horejš	Ing.		40	ekonom	Borek	99	1	0	M
+3101	544272	1	4	53	6	Miroslav	Kučera			41	podnikatel	Borek	99	53	0	M
+3101	544272	1	3	1	7	Jaroslav	Litvan	Ing.		44	stavební inženýr	Borek	99	1	0	M
+3101	544272	1	4	53	7	Iva	Millerová			40	výtvarnice	Borek	99	53	0	F
+3101	544272	1	3	1	8	František	Linhart			57	podnikatel	Borek	99	1	0	M
+3101	544272	1	4	53	8	Jiří	Wohlmann			66	důchodce	Borek	53	53	0	M
+3101	544272	1	3	1	9	Václav	Kouba			58	podnikatel	Borek	99	1	0	M
+3101	544272	1	4	53	9	Jaroslav	Bouchal	Ing.		43	technik	Borek	53	53	0	M
+3101	544272	1	3	1	10	Václav	Votruba			55	podnikatel	Borek	99	1	0	M
+3101	544272	1	4	53	10	Martin	Janíček	Ing.		25	konstruktér elektro	Borek	99	53	0	M
+3101	544272	1	3	1	11	Pavel	Kantor			37	podnikatel	Borek	99	1	0	M
+3101	544272	1	4	53	11	Jan	Přibyl			21	konstruktér elektro	Borek	99	53	0	M

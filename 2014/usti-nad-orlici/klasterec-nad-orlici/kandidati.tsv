@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	580431	1	1	901	1	Lenka	Ševčíková	F			43	účetní, místostarostka obce	Lhotka	99	80	0
-5304	580431	1	1	901	2	Pavel	Michalička	M			33	zootechnik	Klášterec nad Orlicí	99	80	0
-5304	580431	1	1	901	3	Radim	Horňák	M	Mgr.		40	ředitel ZŠ	Zbudov	99	80	0
-5304	580431	1	1	901	4	Karel	Mitvalský	M			32	podnikatel, umělecký kovář	Zbudov	99	80	0
-5304	580431	1	1	901	5	Pavel	Bříza	M	Ing.		37	obchodní zástupce	Lhotka	99	80	0
-5304	580431	1	1	901	6	Miloš	Hofman	M			31	správce počítačové sítě a aplikací	Klášterec nad Orlicí	99	80	0
-5304	580431	1	1	901	7	Jitka	Brůnová	F			44	úřednice	Klášterec nad Orlicí	99	80	0
-5304	580431	1	1	901	8	František	Faltus	M			65	opravář, důchodce	Klášterec nad Orlicí	99	80	0
-5304	580431	1	1	901	9	Olga	Kalášková	F	Mgr.		40	učitelka	Klášterec nad Orlicí	99	80	0
-5304	580431	1	2	902	1	Jindřich	Kalous	M	Ing.		51	ekonom	Klášterec nad Orlicí	99	80	0
-5304	580431	1	2	902	2	Miroslav	Jirčík	M			38	jednatel společnosti	Klášterec nad Orlicí	99	80	0
-5304	580431	1	2	902	3	Jindřich	Holub	M	Mgr.		34	obchodní zástupce	Klášterec nad Orlicí	99	80	0
-5304	580431	1	2	902	4	Jaroslav	Hovad	M			37	podnikatel	Zbudov	99	80	0
-5304	580431	1	2	902	5	František	Toman	M			28	servisní technik	Lhotka	99	80	0
-5304	580431	1	2	902	6	Jitka	Vlková	F			42	obsluha čerpací stanice	Klášterec nad Orlicí	99	80	0
-5304	580431	1	2	902	7	Ondřej	Janeček	M	Bc.		25	vedoucí přípravy výroby	Lhotka	99	80	0
-5304	580431	1	2	902	8	Alena	Brůnová	F			52	účetní	Lhotka	99	80	0
-5304	580431	1	2	902	9	David	Ficner	M			36	analytik	Klášterec nad Orlicí	99	80	0
-5304	580431	1	3	47	1	Zdeněk	Bureš	M			62	starosta obce	Klášterec nad Orlicí	47	47	0
-5304	580431	1	3	47	2	Václav	Štefek	M			59	soukromý podnikatel	Klášterec nad Orlicí	47	47	0
-5304	580431	1	3	47	3	Zdeňka	Juřicová	F			62	důchodce	Zbudov	99	47	0
-5304	580431	1	3	47	4	Tomáš	Koukol	M			32	dělník	Klášterec nad Orlicí	99	47	0
-5304	580431	1	3	47	5	Tomáš	Svoreň	M			30	dělník	Klášterec nad Orlicí	99	47	0
-5304	580431	1	3	47	6	Oldřich	Kalous	M			50	dělník	Klášterec nad Orlicí	47	47	0
-5304	580431	1	3	47	7	Karel	Mlynář	M			68	důchodce	Lhotka	47	47	0
-5304	580431	1	3	47	8	Josef	Koukol	M			58	dělník	Klášterec nad Orlicí	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	580431	1	1	901	1	Lenka	Ševčíková			43	účetní, místostarostka obce	Lhotka	99	80	0	F
+5304	580431	1	2	902	1	Jindřich	Kalous	Ing.		51	ekonom	Klášterec nad Orlicí	99	80	0	M
+5304	580431	1	3	47	1	Zdeněk	Bureš			62	starosta obce	Klášterec nad Orlicí	47	47	0	M
+5304	580431	1	1	901	2	Pavel	Michalička			33	zootechnik	Klášterec nad Orlicí	99	80	0	M
+5304	580431	1	2	902	2	Miroslav	Jirčík			38	jednatel společnosti	Klášterec nad Orlicí	99	80	0	M
+5304	580431	1	3	47	2	Václav	Štefek			59	soukromý podnikatel	Klášterec nad Orlicí	47	47	0	M
+5304	580431	1	1	901	3	Radim	Horňák	Mgr.		40	ředitel ZŠ	Zbudov	99	80	0	M
+5304	580431	1	2	902	3	Jindřich	Holub	Mgr.		34	obchodní zástupce	Klášterec nad Orlicí	99	80	0	M
+5304	580431	1	3	47	3	Zdeňka	Juřicová			62	důchodce	Zbudov	99	47	0	F
+5304	580431	1	1	901	4	Karel	Mitvalský			32	podnikatel, umělecký kovář	Zbudov	99	80	0	M
+5304	580431	1	2	902	4	Jaroslav	Hovad			37	podnikatel	Zbudov	99	80	0	M
+5304	580431	1	3	47	4	Tomáš	Koukol			32	dělník	Klášterec nad Orlicí	99	47	0	M
+5304	580431	1	1	901	5	Pavel	Bříza	Ing.		37	obchodní zástupce	Lhotka	99	80	0	M
+5304	580431	1	2	902	5	František	Toman			28	servisní technik	Lhotka	99	80	0	M
+5304	580431	1	3	47	5	Tomáš	Svoreň			30	dělník	Klášterec nad Orlicí	99	47	0	M
+5304	580431	1	1	901	6	Miloš	Hofman			31	správce počítačové sítě a aplikací	Klášterec nad Orlicí	99	80	0	M
+5304	580431	1	2	902	6	Jitka	Vlková			42	obsluha čerpací stanice	Klášterec nad Orlicí	99	80	0	F
+5304	580431	1	3	47	6	Oldřich	Kalous			50	dělník	Klášterec nad Orlicí	47	47	0	M
+5304	580431	1	1	901	7	Jitka	Brůnová			44	úřednice	Klášterec nad Orlicí	99	80	0	F
+5304	580431	1	2	902	7	Ondřej	Janeček	Bc.		25	vedoucí přípravy výroby	Lhotka	99	80	0	M
+5304	580431	1	3	47	7	Karel	Mlynář			68	důchodce	Lhotka	47	47	0	M
+5304	580431	1	1	901	8	František	Faltus			65	opravář, důchodce	Klášterec nad Orlicí	99	80	0	M
+5304	580431	1	2	902	8	Alena	Brůnová			52	účetní	Lhotka	99	80	0	F
+5304	580431	1	3	47	8	Josef	Koukol			58	dělník	Klášterec nad Orlicí	47	47	0	M
+5304	580431	1	1	901	9	Olga	Kalášková	Mgr.		40	učitelka	Klášterec nad Orlicí	99	80	0	F
+5304	580431	1	2	902	9	David	Ficner			36	analytik	Klášterec nad Orlicí	99	80	0	M

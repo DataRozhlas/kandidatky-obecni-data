@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	580759	1	1	902	1	Josef	Koubík	M	JUDr.		60	advokát	Pastviny	99	80	0
-5304	580759	1	1	902	2	Ladislav	Škůrek	M			38	státní zaměstnanec	Pastviny	99	80	0
-5304	580759	1	1	902	3	Miloslav	Friml	M			50	údržbář	Pastviny	99	80	0
-5304	580759	1	1	902	4	Edeltraud	Janecká	F			66	důchodkyně	Pastviny	99	80	0
-5304	580759	1	1	902	5	Helena	Luxová	F			57	poštovní doručovatelka	Pastviny	99	80	0
-5304	580759	1	1	902	6	Michala	Langrová	F			22	studentka VŠ	Pastviny	99	80	0
-5304	580759	1	1	902	7	Zbyněk	Žák	M			50	OSVČ	Pastviny	99	80	0
-5304	580759	1	2	901	1	Petr	Bouška	M	PaedDr.		51	ředitel ZŠ	Pastviny	99	80	0
-5304	580759	1	2	901	2	Dita	Škůrková	F	Bc.		31	živnostnice	Pastviny	53	80	0
-5304	580759	1	2	901	3	David	Kučírek	M			46	živnostník	Pastviny	53	80	0
-5304	580759	1	2	901	4	Miroslav	Janovec	M			29	živnostník	Pastviny	99	80	0
-5304	580759	1	2	901	5	Zdena	Pauková	F			60	důchodkyně	Pastviny	99	80	0
-5304	580759	1	2	901	6	Lubomír	Zverec	M			40	vedoucí pily	Pastviny	99	80	0
-5304	580759	1	2	901	7	Přemysl	Novotný	M			51	údržbář	Pastviny	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	580759	1	1	902	1	Josef	Koubík	JUDr.		60	advokát	Pastviny	99	80	0	M
+5304	580759	1	2	901	1	Petr	Bouška	PaedDr.		51	ředitel ZŠ	Pastviny	99	80	0	M
+5304	580759	1	1	902	2	Ladislav	Škůrek			38	státní zaměstnanec	Pastviny	99	80	0	M
+5304	580759	1	2	901	2	Dita	Škůrková	Bc.		31	živnostnice	Pastviny	53	80	0	F
+5304	580759	1	1	902	3	Miloslav	Friml			50	údržbář	Pastviny	99	80	0	M
+5304	580759	1	2	901	3	David	Kučírek			46	živnostník	Pastviny	53	80	0	M
+5304	580759	1	1	902	4	Edeltraud	Janecká			66	důchodkyně	Pastviny	99	80	0	F
+5304	580759	1	2	901	4	Miroslav	Janovec			29	živnostník	Pastviny	99	80	0	M
+5304	580759	1	1	902	5	Helena	Luxová			57	poštovní doručovatelka	Pastviny	99	80	0	F
+5304	580759	1	2	901	5	Zdena	Pauková			60	důchodkyně	Pastviny	99	80	0	F
+5304	580759	1	1	902	6	Michala	Langrová			22	studentka VŠ	Pastviny	99	80	0	F
+5304	580759	1	2	901	6	Lubomír	Zverec			40	vedoucí pily	Pastviny	99	80	0	M
+5304	580759	1	1	902	7	Zbyněk	Žák			50	OSVČ	Pastviny	99	80	0	M
+5304	580759	1	2	901	7	Přemysl	Novotný			51	údržbář	Pastviny	99	80	0	M

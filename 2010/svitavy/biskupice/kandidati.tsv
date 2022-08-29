@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	572519	1	1	902	1	Jiří	Nechuta	M	Ing.		35	referent státní správy	Biskupice	99	80	0
-5303	572519	1	1	902	2	Jiří	Finsterle	M			56	FDA Boskovice - strážný	Biskupice	99	80	0
-5303	572519	1	1	902	3	Jiří	Navrátil	M			55	opravář zemědělských strojů	Biskupice	99	80	0
-5303	572519	1	1	902	4	Jiří	Živný	M			55	invalidní důchodce	Biskupice	99	80	0
-5303	572519	1	1	902	5	Bedřich	Pazdírek	M			53	živnostník	Biskupice	99	80	0
-5303	572519	1	1	902	6	Tomáš	Faltýnek	M	Ing.		30	IT specialista	Biskupice	99	80	0
-5303	572519	1	1	902	7	Miroslav	Frumolt	M			58	ADOS dělník	Biskupice	99	80	0
-5303	572519	1	1	902	8	Daniel	Kalita	M			30	řidič	Zálesí	99	80	0
-5303	572519	1	1	902	9	Martin	Vašíček	M			43	řidič	Biskupice	99	80	0
-5303	572519	1	2	901	1	Dalibor	Šebek	M			38	investiční technik	Biskupice	99	80	0
-5303	572519	1	2	901	2	Pavel	Berka	M			42	živnostník	Zálesí	99	80	0
-5303	572519	1	2	901	3	Filip	Procházka	M			31	kooperátor	Biskupice	99	80	0
-5303	572519	1	2	901	4	Vítězslav	Macek	M			43	technik	Biskupice	99	80	0
-5303	572519	1	2	901	5	Pavla	Zatloukalová	F	Ing.		28	personalistka a účetní	Biskupice	99	80	0
-5303	572519	1	2	901	6	Roman	Havlíček	M			42	dělník	Biskupice	99	80	0
-5303	572519	1	2	901	7	Pavel	Holler	M			51	soukromý zemědělec	Zálesí	99	80	0
-5303	572519	1	2	901	8	Zdeněk	Machálek	M	Ing.		27	student	Biskupice	99	80	0
-5303	572519	1	2	901	9	Helena	Neuerová	F			47	zdravotní sestra	Biskupice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	572519	1	1	902	1	Jiří	Nechuta	Ing.		35	referent státní správy	Biskupice	99	80	0	M
+5303	572519	1	2	901	1	Dalibor	Šebek			38	investiční technik	Biskupice	99	80	0	M
+5303	572519	1	1	902	2	Jiří	Finsterle			56	FDA Boskovice - strážný	Biskupice	99	80	0	M
+5303	572519	1	2	901	2	Pavel	Berka			42	živnostník	Zálesí	99	80	0	M
+5303	572519	1	1	902	3	Jiří	Navrátil			55	opravář zemědělských strojů	Biskupice	99	80	0	M
+5303	572519	1	2	901	3	Filip	Procházka			31	kooperátor	Biskupice	99	80	0	M
+5303	572519	1	1	902	4	Jiří	Živný			55	invalidní důchodce	Biskupice	99	80	0	M
+5303	572519	1	2	901	4	Vítězslav	Macek			43	technik	Biskupice	99	80	0	M
+5303	572519	1	1	902	5	Bedřich	Pazdírek			53	živnostník	Biskupice	99	80	0	M
+5303	572519	1	2	901	5	Pavla	Zatloukalová	Ing.		28	personalistka a účetní	Biskupice	99	80	0	F
+5303	572519	1	1	902	6	Tomáš	Faltýnek	Ing.		30	IT specialista	Biskupice	99	80	0	M
+5303	572519	1	2	901	6	Roman	Havlíček			42	dělník	Biskupice	99	80	0	M
+5303	572519	1	1	902	7	Miroslav	Frumolt			58	ADOS dělník	Biskupice	99	80	0	M
+5303	572519	1	2	901	7	Pavel	Holler			51	soukromý zemědělec	Zálesí	99	80	0	M
+5303	572519	1	1	902	8	Daniel	Kalita			30	řidič	Zálesí	99	80	0	M
+5303	572519	1	2	901	8	Zdeněk	Machálek	Ing.		27	student	Biskupice	99	80	0	M
+5303	572519	1	1	902	9	Martin	Vašíček			43	řidič	Biskupice	99	80	0	M
+5303	572519	1	2	901	9	Helena	Neuerová			47	zdravotní sestra	Biskupice	99	80	0	F

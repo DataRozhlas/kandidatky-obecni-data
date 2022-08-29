@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	590142	1	1	1	1	Jana	Rozsívalová	F			45	starostka	Vícov	99	1	0
-7103	590142	1	1	1	2	Jiří	Vítek	M			38	pracovník vstupní kontroly	Vícov	99	1	0
-7103	590142	1	1	1	3	Zdeňka	Dostálová	F			39	asistentka realizací	Vícov	99	1	0
-7103	590142	1	1	1	4	Stanislav	Liška	M			34	mistr elektro	Vícov	99	1	0
-7103	590142	1	1	1	5	František	Kocourek	M	Ing.		48	vedoucí odboru	Vícov	99	1	0
-7103	590142	1	1	1	6	Ladislav	Šperka	M	Ing.		41	manažer výroby	Vícov	99	1	0
-7103	590142	1	1	1	7	Michal	Baránek	M			43	lisař-kalič	Vícov	99	1	0
-7103	590142	1	1	1	8	Josef	Přikryl	M			66	důchodce	Vícov	1	1	0
-7103	590142	1	2	7	1	Radomír	Marek	M			49	zaměstnanec	Vícov	7	7	0
-7103	590142	1	2	7	2	Alois	Sekanina	M			58	zaměstnanec	Vícov	7	7	0
-7103	590142	1	2	7	3	František	Vlach	M			50	OSVČ	Vícov	7	7	0
-7103	590142	1	2	7	4	Jan	Musil	M	MVDr.		32	OSVČ	Vícov	99	7	0
-7103	590142	1	2	7	5	Jaroslav	Trnečka	M			30	zaměstnanec	Vícov	99	7	0
-7103	590142	1	2	7	6	František	Stavný	M	Ing.		68	konzultant	Vícov	99	7	0
-7103	590142	1	2	7	7	Josef	Kopecký	M	Ing.		50	státní zaměstnanec	Vícov	99	7	0
-7103	590142	1	3	901	1	Radim	Luňáček	M	Ing.		28	soukromý podnikatel	Vícov	99	80	0
-7103	590142	1	3	901	2	Tomáš	Vítek	M	Mgr.		38	státní zaměstnanec	Vícov	99	80	0
-7103	590142	1	3	901	3	Aleš	Zatloukal	M			23	rozpočtář staveb	Vícov	99	80	0
-7103	590142	1	3	901	4	Božena	Černá	F	Ing.		42	manažerka v bance	Vícov	99	80	0
-7103	590142	1	3	901	5	Jiří	Růžička	M			36	zedník	Vícov	99	80	0
-7103	590142	1	3	901	6	Ladislava	Pejřová	F	Mgr.		40	učitelka ZŠ	Vícov	99	80	0
-7103	590142	1	3	901	7	Věra	Vejrostová	F			28	mateřská dovolená	Vícov	99	80	0
-7103	590142	1	3	901	8	Jan	Laštůvka	M			18	student	Vícov	99	80	0
-7103	590142	1	3	901	9	Jiří	Procházka	M			40	odborný operátor	Vícov	99	80	0
-7103	590142	1	4	902	1	Luboslav	Ringl	M	Ing.		56	investiční technik	Vícov	99	80	0
-7103	590142	1	4	902	2	David	Pliska	M	Ing.		39	projektant	Vícov	99	80	0
-7103	590142	1	4	902	3	Pavel	Hrůza	M	Ing.		43	IT manager	Vícov	99	80	0
-7103	590142	1	4	902	4	Božena	Musilová	F			63	porodní asistentka	Vícov	99	80	0
-7103	590142	1	4	902	5	Jarmila	Ringlová	F	MUDr.		60	lékařka	Vícov	99	80	0
-7103	590142	1	4	902	6	Veronika	Plisková	F	Ing.		38	ref. státní správy	Vícov	99	80	0
-7103	590142	1	4	902	7	Petr	Trnečka	M			47	strojní zámečník	Vícov	99	80	0
-7103	590142	1	4	902	8	Michaela	Herzigová	F			45	dispečer dopravy	Vícov	99	80	0
-7103	590142	1	4	902	9	Marcel	Tylšar	M			43	strojírenský technik	Vícov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	590142	1	1	1	1	Jana	Rozsívalová			45	starostka	Vícov	99	1	0	F
+7103	590142	1	2	7	1	Radomír	Marek			49	zaměstnanec	Vícov	7	7	0	M
+7103	590142	1	3	901	1	Radim	Luňáček	Ing.		28	soukromý podnikatel	Vícov	99	80	0	M
+7103	590142	1	4	902	1	Luboslav	Ringl	Ing.		56	investiční technik	Vícov	99	80	0	M
+7103	590142	1	1	1	2	Jiří	Vítek			38	pracovník vstupní kontroly	Vícov	99	1	0	M
+7103	590142	1	2	7	2	Alois	Sekanina			58	zaměstnanec	Vícov	7	7	0	M
+7103	590142	1	3	901	2	Tomáš	Vítek	Mgr.		38	státní zaměstnanec	Vícov	99	80	0	M
+7103	590142	1	4	902	2	David	Pliska	Ing.		39	projektant	Vícov	99	80	0	M
+7103	590142	1	1	1	3	Zdeňka	Dostálová			39	asistentka realizací	Vícov	99	1	0	F
+7103	590142	1	2	7	3	František	Vlach			50	OSVČ	Vícov	7	7	0	M
+7103	590142	1	3	901	3	Aleš	Zatloukal			23	rozpočtář staveb	Vícov	99	80	0	M
+7103	590142	1	4	902	3	Pavel	Hrůza	Ing.		43	IT manager	Vícov	99	80	0	M
+7103	590142	1	1	1	4	Stanislav	Liška			34	mistr elektro	Vícov	99	1	0	M
+7103	590142	1	2	7	4	Jan	Musil	MVDr.		32	OSVČ	Vícov	99	7	0	M
+7103	590142	1	3	901	4	Božena	Černá	Ing.		42	manažerka v bance	Vícov	99	80	0	F
+7103	590142	1	4	902	4	Božena	Musilová			63	porodní asistentka	Vícov	99	80	0	F
+7103	590142	1	1	1	5	František	Kocourek	Ing.		48	vedoucí odboru	Vícov	99	1	0	M
+7103	590142	1	2	7	5	Jaroslav	Trnečka			30	zaměstnanec	Vícov	99	7	0	M
+7103	590142	1	3	901	5	Jiří	Růžička			36	zedník	Vícov	99	80	0	M
+7103	590142	1	4	902	5	Jarmila	Ringlová	MUDr.		60	lékařka	Vícov	99	80	0	F
+7103	590142	1	1	1	6	Ladislav	Šperka	Ing.		41	manažer výroby	Vícov	99	1	0	M
+7103	590142	1	2	7	6	František	Stavný	Ing.		68	konzultant	Vícov	99	7	0	M
+7103	590142	1	3	901	6	Ladislava	Pejřová	Mgr.		40	učitelka ZŠ	Vícov	99	80	0	F
+7103	590142	1	4	902	6	Veronika	Plisková	Ing.		38	ref. státní správy	Vícov	99	80	0	F
+7103	590142	1	1	1	7	Michal	Baránek			43	lisař-kalič	Vícov	99	1	0	M
+7103	590142	1	2	7	7	Josef	Kopecký	Ing.		50	státní zaměstnanec	Vícov	99	7	0	M
+7103	590142	1	3	901	7	Věra	Vejrostová			28	mateřská dovolená	Vícov	99	80	0	F
+7103	590142	1	4	902	7	Petr	Trnečka			47	strojní zámečník	Vícov	99	80	0	M
+7103	590142	1	1	1	8	Josef	Přikryl			66	důchodce	Vícov	1	1	0	M
+7103	590142	1	3	901	8	Jan	Laštůvka			18	student	Vícov	99	80	0	M
+7103	590142	1	4	902	8	Michaela	Herzigová			45	dispečer dopravy	Vícov	99	80	0	F
+7103	590142	1	3	901	9	Jiří	Procházka			40	odborný operátor	Vícov	99	80	0	M
+7103	590142	1	4	902	9	Marcel	Tylšar			43	strojírenský technik	Vícov	99	80	0	M

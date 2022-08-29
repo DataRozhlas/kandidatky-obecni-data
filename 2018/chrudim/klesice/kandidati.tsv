@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	573787	1	1	901	1	Vratislav	Černovský	M	Ing.		52	příslušník HZS ČR	Klešice	99	80	A
-5301	573787	1	1	901	2	Milan	Hodek	M			63	důchodce	Klešice	99	80	A
-5301	573787	1	1	901	3	Veronika	Mastíková	F			38	administrativní pracovnice	Klešice	99	80	A
-5301	573787	1	1	901	4	Aleš	Honzíček	M			32	operátor výroby	Klešice	99	80	A
-5301	573787	1	1	901	5	Vladimír	Beran	M			60	OSVČ	Klešice	99	80	A
-5301	573787	1	1	901	6	Martin	Vaníček	M			32	projektant elektro	Klešice	99	80	A
-5301	573787	1	1	901	7	Stanislav	Mastík	M			44	údržbář	Klešice	99	80	A
-5301	573787	1	1	901	8	Vladimír	Kopecký	M			40	OSVČ	Klešice	99	80	A
-5301	573787	1	1	901	9	Dagmar	Šafránková	F			51	OSVČ	Klešice	99	80	A
-5301	573787	1	2	902	1	Marie	Stará	F			68	starostka	Klešice	99	80	A
-5301	573787	1	2	902	2	Luboš	Kosina	M			45	OSVČ	Klešice	99	80	A
-5301	573787	1	2	902	3	Radka	Krádlová	F	Mgr.		46	referent - Univerzita Pardubice	Klešice	99	80	A
-5301	573787	1	2	902	4	Martin	Knický	M			41	podnikatel	Nákle	99	80	A
-5301	573787	1	2	902	5	Zdeněk	Klubrt	M	Mgr.		43	příslušník PČR	Klešice	99	80	A
-5301	573787	1	2	902	6	Martina	Bittmannová	F			46	vedoucí prodejny	Klešice	99	80	A
-5301	573787	1	2	902	7	Jakub	Novák	M	Mgr.		25	tiskový mluvčí Univerzity HK	Klešice	99	80	A
-5301	573787	1	2	902	8	Romana	Svatušková	F			33	kuchařka	Klešice	99	80	A
-5301	573787	1	2	902	9	Michal	Kulhavý	M			39	OSVČ	Klešice	99	80	A
-5301	573787	1	3	903	1	Václav	Štefl	M			64	důchodce	Nákle	99	80	A
-5301	573787	1	3	903	2	Oldřich	Střítežský	M			54	soukromý podnikatel	Klešice	99	80	A
-5301	573787	1	3	903	3	Václav	Řezníček	M			47	soukromý podnikatel	Nákle	99	80	A
-5301	573787	1	3	903	4	Josef	Kutílek	M		DiS.	37	stavbyvedoucí	Klešice	99	80	A
-5301	573787	1	3	903	5	Pavel	Černovský	M			44	soukromý podnikatel	Klešice	99	80	A
-5301	573787	1	3	903	6	Lucie	Horáková	F		DiS.	39	účetní	Nákle	99	80	A
-5301	573787	1	3	903	7	Jiří	Stojka	M			56	instalatér	Klešice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	573787	1	1	901	1	Vratislav	Černovský	Ing.		52	příslušník HZS ČR	Klešice	99	80	A	M
+5301	573787	1	2	902	1	Marie	Stará			68	starostka	Klešice	99	80	A	F
+5301	573787	1	3	903	1	Václav	Štefl			64	důchodce	Nákle	99	80	A	M
+5301	573787	1	1	901	2	Milan	Hodek			63	důchodce	Klešice	99	80	A	M
+5301	573787	1	2	902	2	Luboš	Kosina			45	OSVČ	Klešice	99	80	A	M
+5301	573787	1	3	903	2	Oldřich	Střítežský			54	soukromý podnikatel	Klešice	99	80	A	M
+5301	573787	1	1	901	3	Veronika	Mastíková			38	administrativní pracovnice	Klešice	99	80	A	F
+5301	573787	1	2	902	3	Radka	Krádlová	Mgr.		46	referent - Univerzita Pardubice	Klešice	99	80	A	F
+5301	573787	1	3	903	3	Václav	Řezníček			47	soukromý podnikatel	Nákle	99	80	A	M
+5301	573787	1	1	901	4	Aleš	Honzíček			32	operátor výroby	Klešice	99	80	A	M
+5301	573787	1	2	902	4	Martin	Knický			41	podnikatel	Nákle	99	80	A	M
+5301	573787	1	3	903	4	Josef	Kutílek		DiS.	37	stavbyvedoucí	Klešice	99	80	A	M
+5301	573787	1	1	901	5	Vladimír	Beran			60	OSVČ	Klešice	99	80	A	M
+5301	573787	1	2	902	5	Zdeněk	Klubrt	Mgr.		43	příslušník PČR	Klešice	99	80	A	M
+5301	573787	1	3	903	5	Pavel	Černovský			44	soukromý podnikatel	Klešice	99	80	A	M
+5301	573787	1	1	901	6	Martin	Vaníček			32	projektant elektro	Klešice	99	80	A	M
+5301	573787	1	2	902	6	Martina	Bittmannová			46	vedoucí prodejny	Klešice	99	80	A	F
+5301	573787	1	3	903	6	Lucie	Horáková		DiS.	39	účetní	Nákle	99	80	A	F
+5301	573787	1	1	901	7	Stanislav	Mastík			44	údržbář	Klešice	99	80	A	M
+5301	573787	1	2	902	7	Jakub	Novák	Mgr.		25	tiskový mluvčí Univerzity HK	Klešice	99	80	A	M
+5301	573787	1	3	903	7	Jiří	Stojka			56	instalatér	Klešice	99	80	A	M
+5301	573787	1	1	901	8	Vladimír	Kopecký			40	OSVČ	Klešice	99	80	A	M
+5301	573787	1	2	902	8	Romana	Svatušková			33	kuchařka	Klešice	99	80	A	F
+5301	573787	1	1	901	9	Dagmar	Šafránková			51	OSVČ	Klešice	99	80	A	F
+5301	573787	1	2	902	9	Michal	Kulhavý			39	OSVČ	Klešice	99	80	A	M

@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	571750	1	1	901	1	Jaroslav	Novotný	M			63	podnikatel	Lozice	99	80	0
-5301	571750	1	1	901	2	Jaroslav	Hodek	M	Ing.		72	důchodce	Lozice	99	80	0
-5301	571750	1	1	901	3	Martin	Vesecký	M			37	podnikatel	Lozice	99	80	0
-5301	571750	1	1	901	4	Martin	Pitra	M			36	technik	Lozice	99	80	0
-5301	571750	1	1	901	5	Irena	Ondráčková	F			56	dělnice	Lozice	99	80	0
-5301	571750	1	1	901	6	Miroslav	Honzák	M			53	dělník	Lozice	99	80	0
-5301	571750	1	1	901	7	Bedřich	Loukota	M			53	invalidní důchodce	Lozice	99	80	0
-5301	571750	1	1	901	8	Dagmar	Sotonová	F			30	dělnice	Lozice	99	80	0
-5301	571750	1	1	901	9	Vladimír	Dolanský	M			37	řidič	Lozice	99	80	0
-5301	571750	1	2	902	1	Ludmila	Kociánová	F			46	technik	Lozice	99	80	0
-5301	571750	1	2	902	2	Jiří	Kuchař	M			69	důchodce	Lozice	99	80	0
-5301	571750	1	2	902	3	Blanka	Štrbková	F			36	dělnice	Lozice	99	80	0
-5301	571750	1	2	902	4	Vladimír	Vašina	M			58	strážný	Lozice	99	80	0
-5301	571750	1	2	902	5	Václav	Medek	M	Ing.		38	technik	Lozice	99	80	0
-5301	571750	1	2	902	6	Václav	Štěpánek	M	Ing.		40	technik	Lozice	99	80	0
-5301	571750	1	2	902	7	Marcela	Votroubková	F			31	mateřská dovolená	Lozice	99	80	0
-5301	571750	1	2	902	8	Václav	Stehlík	M			43	technik	Lozice	99	80	0
-5301	571750	1	2	902	9	Miroslav	Dobrkovský	M			42	obkladač	Lozice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	571750	1	1	901	1	Jaroslav	Novotný			63	podnikatel	Lozice	99	80	0	M
+5301	571750	1	2	902	1	Ludmila	Kociánová			46	technik	Lozice	99	80	0	F
+5301	571750	1	1	901	2	Jaroslav	Hodek	Ing.		72	důchodce	Lozice	99	80	0	M
+5301	571750	1	2	902	2	Jiří	Kuchař			69	důchodce	Lozice	99	80	0	M
+5301	571750	1	1	901	3	Martin	Vesecký			37	podnikatel	Lozice	99	80	0	M
+5301	571750	1	2	902	3	Blanka	Štrbková			36	dělnice	Lozice	99	80	0	F
+5301	571750	1	1	901	4	Martin	Pitra			36	technik	Lozice	99	80	0	M
+5301	571750	1	2	902	4	Vladimír	Vašina			58	strážný	Lozice	99	80	0	M
+5301	571750	1	1	901	5	Irena	Ondráčková			56	dělnice	Lozice	99	80	0	F
+5301	571750	1	2	902	5	Václav	Medek	Ing.		38	technik	Lozice	99	80	0	M
+5301	571750	1	1	901	6	Miroslav	Honzák			53	dělník	Lozice	99	80	0	M
+5301	571750	1	2	902	6	Václav	Štěpánek	Ing.		40	technik	Lozice	99	80	0	M
+5301	571750	1	1	901	7	Bedřich	Loukota			53	invalidní důchodce	Lozice	99	80	0	M
+5301	571750	1	2	902	7	Marcela	Votroubková			31	mateřská dovolená	Lozice	99	80	0	F
+5301	571750	1	1	901	8	Dagmar	Sotonová			30	dělnice	Lozice	99	80	0	F
+5301	571750	1	2	902	8	Václav	Stehlík			43	technik	Lozice	99	80	0	M
+5301	571750	1	1	901	9	Vladimír	Dolanský			37	řidič	Lozice	99	80	0	M
+5301	571750	1	2	902	9	Miroslav	Dobrkovský			42	obkladač	Lozice	99	80	0	M

@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	580490	1	1	901	1	Ladislav	Bartoš	M			64	důchodce	Krasíkov	99	80	0
-5304	580490	1	1	901	2	Milan	Doležal	M			55	dělník	Krasíkov	99	80	0
-5304	580490	1	1	901	3	Josef	Knápek	M			63	důchodce	Krasíkov	99	80	0
-5304	580490	1	1	901	4	Zdeněk	Eliáš	M			43	soukromý podnikatel	Krasíkov	99	80	0
-5304	580490	1	1	901	5	Romana	Kučerová	F			35	účetní	Krasíkov	99	80	0
-5304	580490	1	1	901	6	Hana	Navrátilová	F			34	dělnice	Krasíkov	99	80	0
-5304	580490	1	1	901	7	Jiřina	Zbránková	F			58	důchodkyně	Krasíkov	99	80	0
-5304	580490	1	2	902	1	Antonín	Havelka	M	Ing.		58	zemědělský inženýr	Krasíkov	99	80	0
-5304	580490	1	2	902	2	Michal	Doležal	M			33	mechanik ČD	Krasíkov	99	80	0
-5304	580490	1	2	902	3	Jiří	Jelínek	M			43	vedoucí kontroly	Krasíkov	99	80	0
-5304	580490	1	2	902	4	Miroslav	Košárek	M			45	lesní dělník	Krasíkov	99	80	0
-5304	580490	1	2	902	5	Oldřich	Vais	M			47	strojvedoucí ČD	Krasíkov	99	80	0
-5304	580490	1	2	902	6	Kurt	Neugebauer	M			56	mistr tkalcovny	Krasíkov	99	80	0
-5304	580490	1	2	902	7	Jan	Bartášek	M			47	OSVČ	Krasíkov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	580490	1	1	901	1	Ladislav	Bartoš			64	důchodce	Krasíkov	99	80	0	M
+5304	580490	1	2	902	1	Antonín	Havelka	Ing.		58	zemědělský inženýr	Krasíkov	99	80	0	M
+5304	580490	1	1	901	2	Milan	Doležal			55	dělník	Krasíkov	99	80	0	M
+5304	580490	1	2	902	2	Michal	Doležal			33	mechanik ČD	Krasíkov	99	80	0	M
+5304	580490	1	1	901	3	Josef	Knápek			63	důchodce	Krasíkov	99	80	0	M
+5304	580490	1	2	902	3	Jiří	Jelínek			43	vedoucí kontroly	Krasíkov	99	80	0	M
+5304	580490	1	1	901	4	Zdeněk	Eliáš			43	soukromý podnikatel	Krasíkov	99	80	0	M
+5304	580490	1	2	902	4	Miroslav	Košárek			45	lesní dělník	Krasíkov	99	80	0	M
+5304	580490	1	1	901	5	Romana	Kučerová			35	účetní	Krasíkov	99	80	0	F
+5304	580490	1	2	902	5	Oldřich	Vais			47	strojvedoucí ČD	Krasíkov	99	80	0	M
+5304	580490	1	1	901	6	Hana	Navrátilová			34	dělnice	Krasíkov	99	80	0	F
+5304	580490	1	2	902	6	Kurt	Neugebauer			56	mistr tkalcovny	Krasíkov	99	80	0	M
+5304	580490	1	1	901	7	Jiřina	Zbránková			58	důchodkyně	Krasíkov	99	80	0	F
+5304	580490	1	2	902	7	Jan	Bartášek			47	OSVČ	Krasíkov	99	80	0	M

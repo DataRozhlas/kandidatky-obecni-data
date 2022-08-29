@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6104	591548	1	1	166	1	Jan	Benda	M			45	podnikatel	Radkovice u Hrotovic	99	166	0
-6104	591548	1	1	166	2	Milan	Šťastný	M			41	podnikatel	Radkovice u Hrotovic	99	166	0
-6104	591548	1	1	166	3	Bohumil	Horník	M			63	starosta-důchodce	Radkovice u Hrotovic	99	166	0
-6104	591548	1	1	166	4	Roman	Švehla	M			36	řidič	Radkovice u Hrotovic	99	166	0
-6104	591548	1	1	166	5	Monika	Sýkorová Janoušková	F			28	podnikatelka	Radkovice u Hrotovic	99	166	0
-6104	591548	1	1	166	6	Pavel	Hlouch	M			35	technik	Radkovice u Hrotovic	99	166	0
-6104	591548	1	1	166	7	Vladimír	Kočí	M			38	strojník	Radkovice u Hrotovic	99	166	0
-6104	591548	1	1	166	8	Milan	Hlouch	M	Ing.		34	agronom	Radkovice u Hrotovic	99	166	0
-6104	591548	1	1	166	9	Vladimír	Musil	M			33	řidič	Radkovice u Hrotovic	99	166	0
-6104	591548	1	2	47	1	Vlastimil	Vala	M	Ing.	CSc.	53	revírník	Radkovice u Hrotovic	99	47	0
-6104	591548	1	2	47	2	Stanislav	Žákovský	M			47	elektromontér	Radkovice u Hrotovic	47	47	0
-6104	591548	1	2	47	3	Jaroslav	Ambrosek	M			52	řidič	Radkovice u Hrotovic	99	47	0
-6104	591548	1	2	47	4	Raimund	Dobrovolný	M			62	důchodce	Radkovice u Hrotovic	47	47	0
-6104	591548	1	2	47	5	Bohumil	Musil	M			53	pracovník živočišné výroby	Radkovice u Hrotovice	47	47	0
-6104	591548	1	2	47	6	Milan	Kuchařík	M			55	pracovník živočišné výroby	Radkovice u Hrotovic	47	47	0
-6104	591548	1	2	47	7	Milan	Kselík	M			48	spojový mechanik	Radkovice u Hrotovic	47	47	0
-6104	591548	1	2	47	8	Drahomír	Matějek	M			39	řidič	Radkovice u Hrotovic	99	47	0
-6104	591548	1	2	47	9	Miroslav	Lapeš	M			55	účetní	Radkovice u Hrotovic	99	47	0
-6104	591548	1	3	1	1	Jaromír	Pekárek	M			53	opravář	Radkovice u Hrotovic	99	1	0
-6104	591548	1	3	1	2	Petr	Hlouch	M			35	zámečník	Radkovice u Hrotovic	99	1	0
-6104	591548	1	3	1	3	Josef	Vacuška	M			50	soukromý zemědělec	Radkovice u Hrotovic	99	1	0
-6104	591548	1	3	1	4	Jiří	Hlouch	M			46	OSVČ	Radkovice u Hrotovic	1	1	0
-6104	591548	1	3	1	5	Martina	Malá	F			36	OSVČ	Radkovice u Hrotovic	99	1	0
-6104	591548	1	3	1	6	Václav	Štolz	M			36	řidič	Radkovice u Hrotovic	99	1	0
-6104	591548	1	3	1	7	Marian	Čierný	M			35	traktorista	Radkovice u Hrotovic	99	1	0
-6104	591548	1	3	1	8	Antonín	Plíšek	M			31	opravář	Radkovice u Hrotovic	99	1	0
-6104	591548	1	3	1	9	Josef	Vejtasa	M			20	student	Radkovice u Hrotovic	1	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6104	591548	1	1	166	1	Jan	Benda			45	podnikatel	Radkovice u Hrotovic	99	166	0	M
+6104	591548	1	2	47	1	Vlastimil	Vala	Ing.	CSc.	53	revírník	Radkovice u Hrotovic	99	47	0	M
+6104	591548	1	3	1	1	Jaromír	Pekárek			53	opravář	Radkovice u Hrotovic	99	1	0	M
+6104	591548	1	1	166	2	Milan	Šťastný			41	podnikatel	Radkovice u Hrotovic	99	166	0	M
+6104	591548	1	2	47	2	Stanislav	Žákovský			47	elektromontér	Radkovice u Hrotovic	47	47	0	M
+6104	591548	1	3	1	2	Petr	Hlouch			35	zámečník	Radkovice u Hrotovic	99	1	0	M
+6104	591548	1	1	166	3	Bohumil	Horník			63	starosta-důchodce	Radkovice u Hrotovic	99	166	0	M
+6104	591548	1	2	47	3	Jaroslav	Ambrosek			52	řidič	Radkovice u Hrotovic	99	47	0	M
+6104	591548	1	3	1	3	Josef	Vacuška			50	soukromý zemědělec	Radkovice u Hrotovic	99	1	0	M
+6104	591548	1	1	166	4	Roman	Švehla			36	řidič	Radkovice u Hrotovic	99	166	0	M
+6104	591548	1	2	47	4	Raimund	Dobrovolný			62	důchodce	Radkovice u Hrotovic	47	47	0	M
+6104	591548	1	3	1	4	Jiří	Hlouch			46	OSVČ	Radkovice u Hrotovic	1	1	0	M
+6104	591548	1	1	166	5	Monika	Sýkorová Janoušková			28	podnikatelka	Radkovice u Hrotovic	99	166	0	F
+6104	591548	1	2	47	5	Bohumil	Musil			53	pracovník živočišné výroby	Radkovice u Hrotovice	47	47	0	M
+6104	591548	1	3	1	5	Martina	Malá			36	OSVČ	Radkovice u Hrotovic	99	1	0	F
+6104	591548	1	1	166	6	Pavel	Hlouch			35	technik	Radkovice u Hrotovic	99	166	0	M
+6104	591548	1	2	47	6	Milan	Kuchařík			55	pracovník živočišné výroby	Radkovice u Hrotovic	47	47	0	M
+6104	591548	1	3	1	6	Václav	Štolz			36	řidič	Radkovice u Hrotovic	99	1	0	M
+6104	591548	1	1	166	7	Vladimír	Kočí			38	strojník	Radkovice u Hrotovic	99	166	0	M
+6104	591548	1	2	47	7	Milan	Kselík			48	spojový mechanik	Radkovice u Hrotovic	47	47	0	M
+6104	591548	1	3	1	7	Marian	Čierný			35	traktorista	Radkovice u Hrotovic	99	1	0	M
+6104	591548	1	1	166	8	Milan	Hlouch	Ing.		34	agronom	Radkovice u Hrotovic	99	166	0	M
+6104	591548	1	2	47	8	Drahomír	Matějek			39	řidič	Radkovice u Hrotovic	99	47	0	M
+6104	591548	1	3	1	8	Antonín	Plíšek			31	opravář	Radkovice u Hrotovic	99	1	0	M
+6104	591548	1	1	166	9	Vladimír	Musil			33	řidič	Radkovice u Hrotovic	99	166	0	M
+6104	591548	1	2	47	9	Miroslav	Lapeš			55	účetní	Radkovice u Hrotovic	99	47	0	M
+6104	591548	1	3	1	9	Josef	Vejtasa			20	student	Radkovice u Hrotovic	1	1	0	M

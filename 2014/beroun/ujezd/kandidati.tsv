@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2102	531901	1	1	1	1	Ludmila	Jindrová	F			56	vodohospodářka obecního vodovodu	Újezd	1	1	0
-2102	531901	1	1	1	2	Josef	Tauš	M			56	technik zkoušek kvality	Újezd	99	1	0
-2102	531901	1	1	1	3	Vendula	Mlejnská	F			39	administrativní pracovnice	Újezd	99	1	0
-2102	531901	1	1	1	4	Jiří	Jindra	M	Bc.		29	pracovník IT	Újezd	1	1	0
-2102	531901	1	1	1	5	Jan	Tauš	M			23	student právnické fakulty UK Praha	Újezd	99	1	0
-2102	531901	1	1	1	6	Marie	Šebestová	F	Mgr.		37	středoškolská učitelka	Újezd	99	1	0
-2102	531901	1	1	1	7	Martina	Jindrová	F	Ing.		30	ekonomka, t.č. rodičovská dovolená	Újezd	99	1	0
-2102	531901	1	2	901	1	Alena	Frühaufová	F			46	starostka	Újezd	99	80	0
-2102	531901	1	2	901	2	Václav	Štich	M			52	seřizovač	Újezd	99	80	0
-2102	531901	1	2	901	3	Petr	Leksa	M	Ing.		43	voják z povolání	Újezd	99	80	0
-2102	531901	1	2	901	4	Lenka	Kárová	F			40	uklízečka	Újezd	99	80	0
-2102	531901	1	2	901	5	Václav	Huml	M			38	polesný	Újezd	99	80	0
-2102	531901	1	2	901	6	Michal	Štochl	M			31	administrativní pracovník	Újezd	99	80	0
-2102	531901	1	2	901	7	Pavel	Procházka	M			45	vedoucí závodu	Újezd	99	80	0
-2102	531901	1	3	47	1	Jaroslava	Moutelíková	F			69	prodavačka	Újezd	47	47	0
-2102	531901	1	3	47	2	Jitka	Švábová	F			70	dělnice	Újezd	47	47	0
-2102	531901	1	3	47	3	Josef	Pazdera	M			41	dělník	Újezd	99	47	0
-2102	531901	1	3	47	4	Petr	Kučera	M			47	obráběč kovů	Újezd	47	47	0
-2102	531901	1	3	47	5	Marcela	Kučerová	F			21	studentka	Újezd	99	47	0
-2102	531901	1	3	47	6	Jana	Drobílková	F			63	jeřábnice	Újezd	47	47	0
-2102	531901	1	3	47	7	Josef	Jícha	M			84	soustružník	Újezd	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2102	531901	1	1	1	1	Ludmila	Jindrová			56	vodohospodářka obecního vodovodu	Újezd	1	1	0	F
+2102	531901	1	2	901	1	Alena	Frühaufová			46	starostka	Újezd	99	80	0	F
+2102	531901	1	3	47	1	Jaroslava	Moutelíková			69	prodavačka	Újezd	47	47	0	F
+2102	531901	1	1	1	2	Josef	Tauš			56	technik zkoušek kvality	Újezd	99	1	0	M
+2102	531901	1	2	901	2	Václav	Štich			52	seřizovač	Újezd	99	80	0	M
+2102	531901	1	3	47	2	Jitka	Švábová			70	dělnice	Újezd	47	47	0	F
+2102	531901	1	1	1	3	Vendula	Mlejnská			39	administrativní pracovnice	Újezd	99	1	0	F
+2102	531901	1	2	901	3	Petr	Leksa	Ing.		43	voják z povolání	Újezd	99	80	0	M
+2102	531901	1	3	47	3	Josef	Pazdera			41	dělník	Újezd	99	47	0	M
+2102	531901	1	1	1	4	Jiří	Jindra	Bc.		29	pracovník IT	Újezd	1	1	0	M
+2102	531901	1	2	901	4	Lenka	Kárová			40	uklízečka	Újezd	99	80	0	F
+2102	531901	1	3	47	4	Petr	Kučera			47	obráběč kovů	Újezd	47	47	0	M
+2102	531901	1	1	1	5	Jan	Tauš			23	student právnické fakulty UK Praha	Újezd	99	1	0	M
+2102	531901	1	2	901	5	Václav	Huml			38	polesný	Újezd	99	80	0	M
+2102	531901	1	3	47	5	Marcela	Kučerová			21	studentka	Újezd	99	47	0	F
+2102	531901	1	1	1	6	Marie	Šebestová	Mgr.		37	středoškolská učitelka	Újezd	99	1	0	F
+2102	531901	1	2	901	6	Michal	Štochl			31	administrativní pracovník	Újezd	99	80	0	M
+2102	531901	1	3	47	6	Jana	Drobílková			63	jeřábnice	Újezd	47	47	0	F
+2102	531901	1	1	1	7	Martina	Jindrová	Ing.		30	ekonomka, t.č. rodičovská dovolená	Újezd	99	1	0	F
+2102	531901	1	2	901	7	Pavel	Procházka			45	vedoucí závodu	Újezd	99	80	0	M
+2102	531901	1	3	47	7	Josef	Jícha			84	soustružník	Újezd	47	47	0	M

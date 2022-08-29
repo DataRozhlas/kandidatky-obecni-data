@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2102	531952	1	1	805	1	Hana	Hanzlíková	F			42	ředitelka MŠ	Všeradice	99	80	0
-2102	531952	1	2	804	1	Jiří	Ječný	M			40	invalidní důchodce	Všeradice	99	80	0
-2102	531952	1	3	811	1	Václav	Sedláček	M	Ing.		60	referent	Všeradice	99	80	0
-2102	531952	1	4	803	1	Pavel	Brenner	M			35	OSVČ	Všeradice	99	80	0
-2102	531952	1	5	810	1	Roman	Špalek	M			35	OSVČ	Všeradice	99	80	0
-2102	531952	1	6	806	1	Jan	Tarant	M			52	OSVČ	Všeradice	99	80	0
-2102	531952	1	7	809	1	Jiří	Diviš	M			48	státní zaměstnanec	Všeradice	99	80	0
-2102	531952	1	8	807	1	Bohumil	Stibal	M			43	OSVČ	Všeradice	99	80	0
-2102	531952	1	9	812	1	Irena	Šebková	F			32	stavební technik	Všeradice	99	80	0
-2102	531952	1	10	801	1	František	Bakeš	M			56	pracovník hlídací agentury	Všeradice	99	80	0
-2102	531952	1	11	808	1	Antonín	Kácha	M			50	OSVČ	Všeradice	99	80	0
-2102	531952	1	12	802	1	Miroslava	Suchá	F			37	dělnice	Všeradice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2102	531952	1	1	805	1	Hana	Hanzlíková			42	ředitelka MŠ	Všeradice	99	80	0	F
+2102	531952	1	2	804	1	Jiří	Ječný			40	invalidní důchodce	Všeradice	99	80	0	M
+2102	531952	1	3	811	1	Václav	Sedláček	Ing.		60	referent	Všeradice	99	80	0	M
+2102	531952	1	4	803	1	Pavel	Brenner			35	OSVČ	Všeradice	99	80	0	M
+2102	531952	1	5	810	1	Roman	Špalek			35	OSVČ	Všeradice	99	80	0	M
+2102	531952	1	6	806	1	Jan	Tarant			52	OSVČ	Všeradice	99	80	0	M
+2102	531952	1	7	809	1	Jiří	Diviš			48	státní zaměstnanec	Všeradice	99	80	0	M
+2102	531952	1	8	807	1	Bohumil	Stibal			43	OSVČ	Všeradice	99	80	0	M
+2102	531952	1	9	812	1	Irena	Šebková			32	stavební technik	Všeradice	99	80	0	F
+2102	531952	1	10	801	1	František	Bakeš			56	pracovník hlídací agentury	Všeradice	99	80	0	M
+2102	531952	1	11	808	1	Antonín	Kácha			50	OSVČ	Všeradice	99	80	0	M
+2102	531952	1	12	802	1	Miroslava	Suchá			37	dělnice	Všeradice	99	80	0	F

@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	597473	1	1	1010	1	Patrik	Rohel	M			36	podnikatel	Karlova Studánka	99	1010	0
-8101	597473	1	1	1010	2	Ludvík	Zifčák	M			54	manažer, spisovatel - novinář	Karlova Studánka	1010	1010	0
-8101	597473	1	1	1010	3	Ludvík	Zifčák	M			26	hotelový manažer	Karlova Studánka	99	1010	0
-8101	597473	1	1	1010	4	Antonie	Staníková	F			63	podnikatelka	Karlova Studánka	1010	1010	0
-8101	597473	1	1	1010	5	Milena	Zachová	F	Mgr.		58	středoškolská profesorka	Karlova Studánka	99	1010	0
-8101	597473	1	1	1010	6	Pavel	Soušek	M			39	finanční a pojišťovací poradce	Karlova Studánka	1010	1010	0
-8101	597473	1	1	1010	7	Jarmila	Rohelová	F			63	důchodkyně	Karlova Studánka	99	1010	0
-8101	597473	1	2	901	1	Radka	Chudová	F	Bc.		41	Starostka	Karlova Studánka	99	80	0
-8101	597473	1	2	901	2	Pavla	Skrutková	F	Ing.		50	Zaměstnanec ZŠ	Karlova Studánka	1	80	0
-8101	597473	1	2	901	3	Luboš	Novák	M	Ing.		56	Soudní znalec	Karlova Studánka	99	80	0
-8101	597473	1	2	901	4	Radek	Peňáz	M	Ing.		38	Trenér - učitel	Karlova Studánka	99	80	0
-8101	597473	1	2	901	5	Martin	Hamrlík	M			39	OSVČ	Karlova Studánka	99	80	0
-8101	597473	1	2	901	6	Daniel	Hegr	M			23	Obsluha parkoviště	Karlova Studánka	99	80	0
-8101	597473	1	2	901	7	Ondřej	Pipal	M			23	Student	Karlova Studánka	99	80	0
-8101	597473	1	2	901	8	Pavel	Patterman	M			41	Učitel	Karlova Studánka	99	80	0
-8101	597473	1	2	901	9	Ota	Bouzek	M	Ing.		65	Důchodce	Karlova Studánka	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	597473	1	1	1010	1	Patrik	Rohel			36	podnikatel	Karlova Studánka	99	1010	0	M
+8101	597473	1	2	901	1	Radka	Chudová	Bc.		41	Starostka	Karlova Studánka	99	80	0	F
+8101	597473	1	1	1010	2	Ludvík	Zifčák			54	manažer, spisovatel - novinář	Karlova Studánka	1010	1010	0	M
+8101	597473	1	2	901	2	Pavla	Skrutková	Ing.		50	Zaměstnanec ZŠ	Karlova Studánka	1	80	0	F
+8101	597473	1	1	1010	3	Ludvík	Zifčák			26	hotelový manažer	Karlova Studánka	99	1010	0	M
+8101	597473	1	2	901	3	Luboš	Novák	Ing.		56	Soudní znalec	Karlova Studánka	99	80	0	M
+8101	597473	1	1	1010	4	Antonie	Staníková			63	podnikatelka	Karlova Studánka	1010	1010	0	F
+8101	597473	1	2	901	4	Radek	Peňáz	Ing.		38	Trenér - učitel	Karlova Studánka	99	80	0	M
+8101	597473	1	1	1010	5	Milena	Zachová	Mgr.		58	středoškolská profesorka	Karlova Studánka	99	1010	0	F
+8101	597473	1	2	901	5	Martin	Hamrlík			39	OSVČ	Karlova Studánka	99	80	0	M
+8101	597473	1	1	1010	6	Pavel	Soušek			39	finanční a pojišťovací poradce	Karlova Studánka	1010	1010	0	M
+8101	597473	1	2	901	6	Daniel	Hegr			23	Obsluha parkoviště	Karlova Studánka	99	80	0	M
+8101	597473	1	1	1010	7	Jarmila	Rohelová			63	důchodkyně	Karlova Studánka	99	1010	0	F
+8101	597473	1	2	901	7	Ondřej	Pipal			23	Student	Karlova Studánka	99	80	0	M
+8101	597473	1	2	901	8	Pavel	Patterman			41	Učitel	Karlova Studánka	99	80	0	M
+8101	597473	1	2	901	9	Ota	Bouzek	Ing.		65	Důchodce	Karlova Studánka	99	80	0	M

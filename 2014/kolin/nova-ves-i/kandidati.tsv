@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2104	533530	1	1	901	1	Miloslav	Zapletal	M	Ing.		42	soukromý zemědělec	Nová Ves I	99	80	0
-2104	533530	1	1	901	2	Petr	Čech	M			50	stavební technik	Nová Ves I	99	80	0
-2104	533530	1	1	901	3	Jaroslav	Ryšánek	M			42	agronom	Ohrada	99	80	0
-2104	533530	1	1	901	4	Jiří	Vrkota	M			41	stavební technik	Nová Ves I	99	80	0
-2104	533530	1	1	901	5	Josef	Keltner	M			65	důchodce	Nová Ves I	99	80	0
-2104	533530	1	1	901	6	Radka	Hladíková	F			37	účetní	Nová Ves I	99	80	0
-2104	533530	1	1	901	7	Miloslav	Srb	M			70	důchodce	Nová Ves I	99	80	0
-2104	533530	1	1	901	8	Drahomíra	Fořtová	F			38	vedoucí odbytu	Nová Ves I	99	80	0
-2104	533530	1	1	901	9	Milada	Linartová	F			44	zdravotní sestra	Ohrada	99	80	0
-2104	533530	1	1	901	10	Radek	Matějec	M	Ing.		38	hasič	Ohrada	99	80	0
-2104	533530	1	1	901	11	Hana	Vanclová	F	Ing. Mgr.		29	geodet	Ohrada	99	80	0
-2104	533530	1	2	480	1	Alexandr	Hájek	M		DiS.	35	stavbyvedoucí	Ohrada	99	721	0
-2104	533530	1	2	480	2	Peter	Szitás	M	MUDr.		38	lékař - ortoped	Ohrada	99	80	0
-2104	533530	1	2	480	3	Karel	Bodlák	M			51	skladník	Nová Ves I	99	80	0
-2104	533530	1	2	480	4	Aleš	Hejl	M			42	provozovatel Ohradské hospody	Ohrada	99	80	0
-2104	533530	1	2	480	5	Michal	Hanzálek	M			35	podnikatel ve stavebnictví	Ohrada	99	80	0
-2104	533530	1	2	480	6	Alexandr	Hájek	M			62	majitel firmy Halko	Ohrada	99	80	0
-2104	533530	1	2	480	7	Luděk	Pych	M			41	chemik	Ohrada	99	80	0
-2104	533530	1	2	480	8	Jaroslav	Endrle	M	Ing.		54	IT specialista	Ohrada	99	80	0
-2104	533530	1	2	480	9	Iveta	Bodláková	F	Mgr.		47	učitelka ZŠ	Nová Ves I	99	80	0
-2104	533530	1	2	480	10	Tereza	Lisá	F	Mgr.		31	rehabilitační pracovník specialista	Ohrada	99	80	0
-2104	533530	1	2	480	11	Zdeněk	Matoušek	M			54	zemědělec	Ohrada	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2104	533530	1	1	901	1	Miloslav	Zapletal	Ing.		42	soukromý zemědělec	Nová Ves I	99	80	0	M
+2104	533530	1	2	480	1	Alexandr	Hájek		DiS.	35	stavbyvedoucí	Ohrada	99	721	0	M
+2104	533530	1	1	901	2	Petr	Čech			50	stavební technik	Nová Ves I	99	80	0	M
+2104	533530	1	2	480	2	Peter	Szitás	MUDr.		38	lékař - ortoped	Ohrada	99	80	0	M
+2104	533530	1	1	901	3	Jaroslav	Ryšánek			42	agronom	Ohrada	99	80	0	M
+2104	533530	1	2	480	3	Karel	Bodlák			51	skladník	Nová Ves I	99	80	0	M
+2104	533530	1	1	901	4	Jiří	Vrkota			41	stavební technik	Nová Ves I	99	80	0	M
+2104	533530	1	2	480	4	Aleš	Hejl			42	provozovatel Ohradské hospody	Ohrada	99	80	0	M
+2104	533530	1	1	901	5	Josef	Keltner			65	důchodce	Nová Ves I	99	80	0	M
+2104	533530	1	2	480	5	Michal	Hanzálek			35	podnikatel ve stavebnictví	Ohrada	99	80	0	M
+2104	533530	1	1	901	6	Radka	Hladíková			37	účetní	Nová Ves I	99	80	0	F
+2104	533530	1	2	480	6	Alexandr	Hájek			62	majitel firmy Halko	Ohrada	99	80	0	M
+2104	533530	1	1	901	7	Miloslav	Srb			70	důchodce	Nová Ves I	99	80	0	M
+2104	533530	1	2	480	7	Luděk	Pych			41	chemik	Ohrada	99	80	0	M
+2104	533530	1	1	901	8	Drahomíra	Fořtová			38	vedoucí odbytu	Nová Ves I	99	80	0	F
+2104	533530	1	2	480	8	Jaroslav	Endrle	Ing.		54	IT specialista	Ohrada	99	80	0	M
+2104	533530	1	1	901	9	Milada	Linartová			44	zdravotní sestra	Ohrada	99	80	0	F
+2104	533530	1	2	480	9	Iveta	Bodláková	Mgr.		47	učitelka ZŠ	Nová Ves I	99	80	0	F
+2104	533530	1	1	901	10	Radek	Matějec	Ing.		38	hasič	Ohrada	99	80	0	M
+2104	533530	1	2	480	10	Tereza	Lisá	Mgr.		31	rehabilitační pracovník specialista	Ohrada	99	80	0	F
+2104	533530	1	1	901	11	Hana	Vanclová	Ing. Mgr.		29	geodet	Ohrada	99	80	0	F
+2104	533530	1	2	480	11	Zdeněk	Matoušek			54	zemědělec	Ohrada	99	80	0	M

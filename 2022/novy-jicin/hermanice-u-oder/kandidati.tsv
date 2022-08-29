@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8104	568562	1	1	47	1	Emilie	Doubková	F			67	důchodce	Véska	47	47	A
-8104	568562	1	1	47	2	Bohuslava	Škutová	F			43	dělnice	Véska	99	47	A
-8104	568562	1	1	47	3	Žaneta	Vašková	F			45	vedoucí prodejny	Heřmanice u Oder	99	47	A
-8104	568562	1	1	47	4	Lenka	Chromková	F			42	pracovník České pošty	Véska	99	47	A
-8104	568562	1	2	1	1	Vendula	Jarošová	F	Mgr.		42	starostka	Heřmanice u Oder	1	1	A
-8104	568562	1	2	1	2	Pavel	Křenek	M			47	automechanik	Heřmanice u Oder	99	1	A
-8104	568562	1	2	1	3	Iveta	Vyvlečková	F			46	poštovní doručovatelka	Heřmanice u Oder	99	1	A
-8104	568562	1	2	1	4	Jan	Špunda	M			42	vedoucí údržby	Heřmanice u Oder	99	1	A
-8104	568562	1	2	1	5	Martin	Biskup	M		DiS.	46	vedoucí prodejny	Heřmanice u Oder	1	1	A
-8104	568562	1	2	1	6	Dominik	Šíma	M			40	elektrikář	Heřmanice u Oder	99	1	A
-8104	568562	1	2	1	7	Pavla	Baráková	F	Mgr.		32	sociální pracovnice	Heřmanice u Oder	99	1	A
-8104	568562	1	2	1	8	Linda	Trčková	F			30	asistentka ředitele	Heřmanice u Oder	99	1	A
-8104	568562	1	2	1	9	Antonín	Fegler	M			32	elektrotechnik	Heřmanice u Oder	99	1	A
-8104	568562	1	3	901	1	Jakub	Janíček	M	Ing.		33	ředitel dopravy	Heřmanice u Oder	99	80	A
-8104	568562	1	3	901	2	Jiří	Jurdič	M			26	programátor	Heřmanice u Oder	99	80	A
-8104	568562	1	3	901	3	David	Ptáček	M			29	svářeč	Heřmanice u Oder	99	80	A
-8104	568562	1	3	901	4	Patrik	Beck	M			26	zaměstnanec živočišné výroby	Heřmanice u Oder	99	80	A
-8104	568562	1	3	901	5	Petra	Mazare	F			44	dělník	Heřmanice u Oder	99	80	A
-8104	568562	1	3	901	6	Stanislav	Ptáček	M			55	OSVČ	Heřmanice u Oder	99	80	A
-8104	568562	1	3	901	7	Josef	Beck	M			54	OSVČ	Heřmanice u Oder	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8104	568562	1	1	47	1	Emilie	Doubková			67	důchodce	Véska	47	47	A	F
+8104	568562	1	2	1	1	Vendula	Jarošová	Mgr.		42	starostka	Heřmanice u Oder	1	1	A	F
+8104	568562	1	3	901	1	Jakub	Janíček	Ing.		33	ředitel dopravy	Heřmanice u Oder	99	80	A	M
+8104	568562	1	1	47	2	Bohuslava	Škutová			43	dělnice	Véska	99	47	A	F
+8104	568562	1	2	1	2	Pavel	Křenek			47	automechanik	Heřmanice u Oder	99	1	A	M
+8104	568562	1	3	901	2	Jiří	Jurdič			26	programátor	Heřmanice u Oder	99	80	A	M
+8104	568562	1	1	47	3	Žaneta	Vašková			45	vedoucí prodejny	Heřmanice u Oder	99	47	A	F
+8104	568562	1	2	1	3	Iveta	Vyvlečková			46	poštovní doručovatelka	Heřmanice u Oder	99	1	A	F
+8104	568562	1	3	901	3	David	Ptáček			29	svářeč	Heřmanice u Oder	99	80	A	M
+8104	568562	1	1	47	4	Lenka	Chromková			42	pracovník České pošty	Véska	99	47	A	F
+8104	568562	1	2	1	4	Jan	Špunda			42	vedoucí údržby	Heřmanice u Oder	99	1	A	M
+8104	568562	1	3	901	4	Patrik	Beck			26	zaměstnanec živočišné výroby	Heřmanice u Oder	99	80	A	M
+8104	568562	1	2	1	5	Martin	Biskup		DiS.	46	vedoucí prodejny	Heřmanice u Oder	1	1	A	M
+8104	568562	1	3	901	5	Petra	Mazare			44	dělník	Heřmanice u Oder	99	80	A	F
+8104	568562	1	2	1	6	Dominik	Šíma			40	elektrikář	Heřmanice u Oder	99	1	A	M
+8104	568562	1	3	901	6	Stanislav	Ptáček			55	OSVČ	Heřmanice u Oder	99	80	A	M
+8104	568562	1	2	1	7	Pavla	Baráková	Mgr.		32	sociální pracovnice	Heřmanice u Oder	99	1	A	F
+8104	568562	1	3	901	7	Josef	Beck			54	OSVČ	Heřmanice u Oder	99	80	A	M
+8104	568562	1	2	1	8	Linda	Trčková			30	asistentka ředitele	Heřmanice u Oder	99	1	A	F
+8104	568562	1	2	1	9	Antonín	Fegler			32	elektrotechnik	Heřmanice u Oder	99	1	A	M

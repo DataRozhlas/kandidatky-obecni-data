@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	571091	1	1	901	1	Michal	Derner	M	Ing.	MBA	60	starosta, stavební technik	Všestary	1	80	A
-5201	571091	1	1	901	2	Michal	Kovalský	M	MUDr.		47	lékař	Všestary	99	80	A
-5201	571091	1	1	901	3	Tomáš	Kocián	M			51	sádrokartonář	Bříza	99	80	A
-5201	571091	1	1	901	4	Leoš	Válek	M			57	elektromontér	Chlum	99	80	A
-5201	571091	1	1	901	5	Michaela	Chládková	F	Mgr.		32	koordinátorka mikrojeslí, dětské skupiny	Rozběřice	99	80	A
-5201	571091	1	1	901	6	Jiří	Novák	M			28	inzertní poradce	Rosnice	99	80	A
-5201	571091	1	1	901	7	Marika	Čapková Dohnalová	F		DiS.	48	bankovní pracovník	Všestary	99	80	A
-5201	571091	1	1	901	8	Jaroslav	Došel	M			68	zámečník	Všestary	99	80	A
-5201	571091	1	1	901	9	Martin	Hájek	M			58	nákupčí dříví	Chlum	99	80	A
-5201	571091	1	1	901	10	Petr	Šandera	M			60	pracovník technických služeb	Všestary	99	80	A
-5201	571091	1	1	901	11	Pavel	Kačer	M			62	manažer	Rozběřice	99	80	A
-5201	571091	1	1	901	12	Jana	Volfová	F	Mgr.		55	učitelka	Všestary	99	80	A
-5201	571091	1	1	901	13	Ladislava	Rezková	F			61	vedoucí učitelka MŠ	Rozběřice	99	80	A
-5201	571091	1	1	901	14	Renata	Nováková	F	Mgr.		34	asistent pedagoga	Všestary	99	80	A
-5201	571091	1	1	901	15	David	Bělohoubek	M			32	seřizovač CNC strojů	Bříza	99	80	A
-5201	571091	1	2	902	1	Vladimír	Fof	M	Ing.		52	místostarosta	Všestary	99	80	A
-5201	571091	1	2	902	2	Josef	Pešek ml.	M			50	elektromechanik	Rosnice	99	80	A
-5201	571091	1	2	902	3	Stanislav	Novák	M			59	servis elektroniky	Všestary	99	80	A
-5201	571091	1	2	902	4	Šárka	Mlezivová	F	Ing.		43	účetní	Bříza	99	80	A
-5201	571091	1	2	902	5	Monika	Plecháčová	F			31	recepční	Všestary	99	80	A
-5201	571091	1	2	902	6	Miroslav	Pešek ml.	M			24	student	Rosnice	99	80	A
-5201	571091	1	2	902	7	Marek	Netušil	M			38	autoklempíř	Rozběřice	99	80	A
-5201	571091	1	2	902	8	Petr	Klinger	M			54	údržba obce	Všestary	99	80	A
-5201	571091	1	2	902	9	Martin	Kadečka	M			28	údržba obce	Chlum	99	80	A
-5201	571091	1	2	902	10	Martina	Pánková	F			43	účetní	Rosnice	99	80	A
-5201	571091	1	2	902	11	Pavla	Neumannová	F	Ing.		25	administrativa	Všestary	99	80	A
-5201	571091	1	2	902	12	Karolína	Zavadilová	F	Mgr.	DiS.	43	sociální pracovnice / terapeutka	Rosnice	99	80	A
-5201	571091	1	2	902	13	Roman	Neumann	M			51	obráběč	Všestary	99	80	A
-5201	571091	1	2	902	14	Josef	Štefanka	M			65	hostinský v důchodu	Lípa	99	80	A
-5201	571091	1	2	902	15	Jaroslav	Neumann	M			39	technolog	Rosnice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	571091	1	1	901	1	Michal	Derner	Ing.	MBA	60	starosta, stavební technik	Všestary	1	80	A	M
+5201	571091	1	2	902	1	Vladimír	Fof	Ing.		52	místostarosta	Všestary	99	80	A	M
+5201	571091	1	1	901	2	Michal	Kovalský	MUDr.		47	lékař	Všestary	99	80	A	M
+5201	571091	1	2	902	2	Josef	Pešek ml.			50	elektromechanik	Rosnice	99	80	A	M
+5201	571091	1	1	901	3	Tomáš	Kocián			51	sádrokartonář	Bříza	99	80	A	M
+5201	571091	1	2	902	3	Stanislav	Novák			59	servis elektroniky	Všestary	99	80	A	M
+5201	571091	1	1	901	4	Leoš	Válek			57	elektromontér	Chlum	99	80	A	M
+5201	571091	1	2	902	4	Šárka	Mlezivová	Ing.		43	účetní	Bříza	99	80	A	F
+5201	571091	1	1	901	5	Michaela	Chládková	Mgr.		32	koordinátorka mikrojeslí, dětské skupiny	Rozběřice	99	80	A	F
+5201	571091	1	2	902	5	Monika	Plecháčová			31	recepční	Všestary	99	80	A	F
+5201	571091	1	1	901	6	Jiří	Novák			28	inzertní poradce	Rosnice	99	80	A	M
+5201	571091	1	2	902	6	Miroslav	Pešek ml.			24	student	Rosnice	99	80	A	M
+5201	571091	1	1	901	7	Marika	Čapková Dohnalová		DiS.	48	bankovní pracovník	Všestary	99	80	A	F
+5201	571091	1	2	902	7	Marek	Netušil			38	autoklempíř	Rozběřice	99	80	A	M
+5201	571091	1	1	901	8	Jaroslav	Došel			68	zámečník	Všestary	99	80	A	M
+5201	571091	1	2	902	8	Petr	Klinger			54	údržba obce	Všestary	99	80	A	M
+5201	571091	1	1	901	9	Martin	Hájek			58	nákupčí dříví	Chlum	99	80	A	M
+5201	571091	1	2	902	9	Martin	Kadečka			28	údržba obce	Chlum	99	80	A	M
+5201	571091	1	1	901	10	Petr	Šandera			60	pracovník technických služeb	Všestary	99	80	A	M
+5201	571091	1	2	902	10	Martina	Pánková			43	účetní	Rosnice	99	80	A	F
+5201	571091	1	1	901	11	Pavel	Kačer			62	manažer	Rozběřice	99	80	A	M
+5201	571091	1	2	902	11	Pavla	Neumannová	Ing.		25	administrativa	Všestary	99	80	A	F
+5201	571091	1	1	901	12	Jana	Volfová	Mgr.		55	učitelka	Všestary	99	80	A	F
+5201	571091	1	2	902	12	Karolína	Zavadilová	Mgr.	DiS.	43	sociální pracovnice / terapeutka	Rosnice	99	80	A	F
+5201	571091	1	1	901	13	Ladislava	Rezková			61	vedoucí učitelka MŠ	Rozběřice	99	80	A	F
+5201	571091	1	2	902	13	Roman	Neumann			51	obráběč	Všestary	99	80	A	M
+5201	571091	1	1	901	14	Renata	Nováková	Mgr.		34	asistent pedagoga	Všestary	99	80	A	F
+5201	571091	1	2	902	14	Josef	Štefanka			65	hostinský v důchodu	Lípa	99	80	A	M
+5201	571091	1	1	901	15	David	Bělohoubek			32	seřizovač CNC strojů	Bříza	99	80	A	M
+5201	571091	1	2	902	15	Jaroslav	Neumann			39	technolog	Rosnice	99	80	A	M

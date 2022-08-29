@@ -1,38 +1,38 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	583987	1	1	901	1	Jaroslav	Brůža	M			54	vedoucí prodeje	Tetčice	99	80	0
-6203	583987	1	1	901	2	Zdeňka	Koumalová	F			52	v domácnosti	Tetčice	99	80	0
-6203	583987	1	1	901	3	Lubomír	Kaplan	M	Ing.		35	úředník	Tetčice	99	80	0
-6203	583987	1	1	901	4	Jiří	Firon	M			53	zaměstnanec	Tetčice	99	80	0
-6203	583987	1	1	901	5	Přemysl	Pytlík	M			52	podnikatel	Tetčice	99	80	0
-6203	583987	1	1	901	6	Jaroslav	Haška	M			30	podnikatel	Tetčice	99	80	0
-6203	583987	1	1	901	7	Karel	Hnízdil	M			36	zaměstnanec	Tetčice	99	80	0
-6203	583987	1	1	901	8	Luděk	Krejčí	M			34	zaměstnanec	Tetčice	99	80	0
-6203	583987	1	1	901	9	Marie	Crlíková	F			51	podnikatel	Tetčice	99	80	0
-6203	583987	1	2	801	1	Pavel	Vybíral	M	Ing.		52	samostatně vydělečně činný	Tetčice	99	80	0
-6203	583987	1	3	53	1	Miloš	Tejkal	M			57	geodet	Tetčice	99	53	0
-6203	583987	1	3	53	2	Josef	Dvořák	M	Ing.		53	projektant	Tetčice	99	53	0
-6203	583987	1	3	53	3	Josef	Vodička	M			62	starosta	Tetčice	53	53	0
-6203	583987	1	3	53	4	Zdeněk	Staněk	M			54	frézař	Tetčice	53	53	0
-6203	583987	1	3	53	5	Josef	Prokeš	M			59	tesař	Tetčice	53	53	0
-6203	583987	1	3	53	6	Jiří	Dobrovolný	M			66	důchodce	Tetčice	99	53	0
-6203	583987	1	3	53	7	Nevenka	Caesarová	F			62	knihovnice	Tetčice	99	53	0
-6203	583987	1	3	53	8	Jaroslav	Rada	M			41	podnikatel	Tetčice	99	53	0
-6203	583987	1	3	53	9	Jana	Vodičková	F	Mgr.		34	manažer	Tetčice	99	53	0
-6203	583987	1	4	902	1	Tomáš	Langer	M	Ing.		42	manažer	Tetčice	99	80	0
-6203	583987	1	4	902	2	Zdeněk	Oškrdal	M			50	OSVČ	Tetčice	99	80	0
-6203	583987	1	4	902	3	Václav	Tušl	M			42	OSVČ	Tetčice	99	80	0
-6203	583987	1	4	902	4	Jiří	Klimeš	M			55	OSVČ	Tetčice	99	80	0
-6203	583987	1	4	902	5	Pavel	Fukan	M			43	technik	Tetčice	99	80	0
-6203	583987	1	4	902	6	Vladimír	Lapeš	M	Ing.		48	úředník stavebního úřadu	Tetčice	99	80	0
-6203	583987	1	4	902	7	Pavel	Tesař	M			53	OSVČ	Tetčice	99	80	0
-6203	583987	1	4	902	8	Vít	Lupač	M			31	OSVČ	Tetčice	99	80	0
-6203	583987	1	4	902	9	Josef	Crlík	M			56	OSVČ	Tetčice	99	80	0
-6203	583987	1	5	7	1	Slavomír	Široký	M			66	důchodce	Tetčice	7	7	0
-6203	583987	1	5	7	2	Lenka	Vlašínová	F			38	prodavačka	Tetčice	99	7	0
-6203	583987	1	5	7	3	Luboš	Švejda	M			46	podlahář	Tetčice	99	7	0
-6203	583987	1	5	7	4	František	Pokorný	M			60	technik	Tetčice	99	7	0
-6203	583987	1	5	7	5	David	Slaný	M			31	bankovní poradce	Tetčice	99	7	0
-6203	583987	1	5	7	6	Zdeňka	Pelikánová	F			46	vedoucí učitelka MŠ	Tetčice	99	7	0
-6203	583987	1	5	7	7	Zdeněk	Gross	M			39	technik	Tetčice	99	7	0
-6203	583987	1	5	7	8	Zora	Dallagová	F			32	laborantka	Tetčice	99	7	0
-6203	583987	1	5	7	9	Evžen	Tejkal	M			54	invalidní důchodce	Tetčice	7	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	583987	1	1	901	1	Jaroslav	Brůža			54	vedoucí prodeje	Tetčice	99	80	0	M
+6203	583987	1	2	801	1	Pavel	Vybíral	Ing.		52	samostatně vydělečně činný	Tetčice	99	80	0	M
+6203	583987	1	3	53	1	Miloš	Tejkal			57	geodet	Tetčice	99	53	0	M
+6203	583987	1	4	902	1	Tomáš	Langer	Ing.		42	manažer	Tetčice	99	80	0	M
+6203	583987	1	5	7	1	Slavomír	Široký			66	důchodce	Tetčice	7	7	0	M
+6203	583987	1	1	901	2	Zdeňka	Koumalová			52	v domácnosti	Tetčice	99	80	0	F
+6203	583987	1	3	53	2	Josef	Dvořák	Ing.		53	projektant	Tetčice	99	53	0	M
+6203	583987	1	4	902	2	Zdeněk	Oškrdal			50	OSVČ	Tetčice	99	80	0	M
+6203	583987	1	5	7	2	Lenka	Vlašínová			38	prodavačka	Tetčice	99	7	0	F
+6203	583987	1	1	901	3	Lubomír	Kaplan	Ing.		35	úředník	Tetčice	99	80	0	M
+6203	583987	1	3	53	3	Josef	Vodička			62	starosta	Tetčice	53	53	0	M
+6203	583987	1	4	902	3	Václav	Tušl			42	OSVČ	Tetčice	99	80	0	M
+6203	583987	1	5	7	3	Luboš	Švejda			46	podlahář	Tetčice	99	7	0	M
+6203	583987	1	1	901	4	Jiří	Firon			53	zaměstnanec	Tetčice	99	80	0	M
+6203	583987	1	3	53	4	Zdeněk	Staněk			54	frézař	Tetčice	53	53	0	M
+6203	583987	1	4	902	4	Jiří	Klimeš			55	OSVČ	Tetčice	99	80	0	M
+6203	583987	1	5	7	4	František	Pokorný			60	technik	Tetčice	99	7	0	M
+6203	583987	1	1	901	5	Přemysl	Pytlík			52	podnikatel	Tetčice	99	80	0	M
+6203	583987	1	3	53	5	Josef	Prokeš			59	tesař	Tetčice	53	53	0	M
+6203	583987	1	4	902	5	Pavel	Fukan			43	technik	Tetčice	99	80	0	M
+6203	583987	1	5	7	5	David	Slaný			31	bankovní poradce	Tetčice	99	7	0	M
+6203	583987	1	1	901	6	Jaroslav	Haška			30	podnikatel	Tetčice	99	80	0	M
+6203	583987	1	3	53	6	Jiří	Dobrovolný			66	důchodce	Tetčice	99	53	0	M
+6203	583987	1	4	902	6	Vladimír	Lapeš	Ing.		48	úředník stavebního úřadu	Tetčice	99	80	0	M
+6203	583987	1	5	7	6	Zdeňka	Pelikánová			46	vedoucí učitelka MŠ	Tetčice	99	7	0	F
+6203	583987	1	1	901	7	Karel	Hnízdil			36	zaměstnanec	Tetčice	99	80	0	M
+6203	583987	1	3	53	7	Nevenka	Caesarová			62	knihovnice	Tetčice	99	53	0	F
+6203	583987	1	4	902	7	Pavel	Tesař			53	OSVČ	Tetčice	99	80	0	M
+6203	583987	1	5	7	7	Zdeněk	Gross			39	technik	Tetčice	99	7	0	M
+6203	583987	1	1	901	8	Luděk	Krejčí			34	zaměstnanec	Tetčice	99	80	0	M
+6203	583987	1	3	53	8	Jaroslav	Rada			41	podnikatel	Tetčice	99	53	0	M
+6203	583987	1	4	902	8	Vít	Lupač			31	OSVČ	Tetčice	99	80	0	M
+6203	583987	1	5	7	8	Zora	Dallagová			32	laborantka	Tetčice	99	7	0	F
+6203	583987	1	1	901	9	Marie	Crlíková			51	podnikatel	Tetčice	99	80	0	F
+6203	583987	1	3	53	9	Jana	Vodičková	Mgr.		34	manažer	Tetčice	99	53	0	F
+6203	583987	1	4	902	9	Josef	Crlík			56	OSVČ	Tetčice	99	80	0	M
+6203	583987	1	5	7	9	Evžen	Tejkal			54	invalidní důchodce	Tetčice	7	7	0	M

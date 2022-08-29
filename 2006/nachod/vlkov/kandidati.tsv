@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5203	574601	1	1	902	1	Alena	Bartošová	F	Ing.		32	ekonom	Vlkov	99	80	0
-5203	574601	1	1	902	2	Hana	Grohová	F			51	technik	Vlkov	99	80	0
-5203	574601	1	1	902	3	Lukáš	Zajíček	M			31	jednatel	Vlkov	99	80	0
-5203	574601	1	1	902	4	Josef	Malý	M			36	truhlář	Vlkov	99	80	0
-5203	574601	1	1	902	5	Galina	Hynková	F			49	v domácnosti	Vlkov	99	80	0
-5203	574601	1	1	902	6	Roman	Miewald	M			35	pokrývač	Vlkov	99	80	0
-5203	574601	1	1	902	7	Monika	Lupínková	F			31	v domácnosti	Vlkov	99	80	0
-5203	574601	1	1	902	8	Roman	Bača	M			38	zámečník	Vlkov	99	80	0
-5203	574601	1	1	902	9	Jana	Veverková	F			57	důchodkyně	Vlkov	99	80	0
-5203	574601	1	2	901	1	Václav	Bartoš	M			26	soukromý podnikatel	Vlkov	99	80	0
-5203	574601	1	2	901	2	Michal	Košťál	M			27	soukromý podnikatel	Vlkov	99	80	0
-5203	574601	1	2	901	3	Jitka	Grohová	F	Ing.		26	stavební inženýr	Vlkov	99	80	0
-5203	574601	1	2	901	4	Zdeněk	Jandík	M			53	strojní záměčník	Vlkov	99	80	0
-5203	574601	1	2	901	5	Romana	Vávrů	F			35	úřednice	Vlkov	99	80	0
-5203	574601	1	2	901	6	Martin	Felcman	M			30	lisař	Vlkov	99	80	0
-5203	574601	1	2	901	7	Vladimír	Pospíšil	M			30	automechanik	Vlkov	99	80	0
-5203	574601	1	2	901	8	Miroslav	Toušek	M			37	mechanik	Vlkov	99	80	0
-5203	574601	1	2	901	9	Petr	Prokop	M			38	soukromý podnikatel	Vlkov	99	80	0
-5203	574601	1	3	903	1	František	Rezek	M	Ing.		51	technik	Vlkov	99	80	0
-5203	574601	1	3	903	2	Lukáš	Rejmánek	M			30	jednatel	Vlkov	99	80	0
-5203	574601	1	3	903	3	Šárka	Konečná	F			35	administrativní pracovnice	Vlkov	99	80	0
-5203	574601	1	3	903	4	Josef	Januš	M	Ing.		39	řídící pracovník	Vlkov	99	80	0
-5203	574601	1	3	903	5	Jiří	Nepokoj	M			37	prodavač	Vlkov	99	80	0
-5203	574601	1	3	903	6	Petra	Kmoníčková	F			30	informatik	Vlkov	99	80	0
-5203	574601	1	3	903	7	Jiří	Fišera	M			64	důchodce	Vlkov	99	80	0
-5203	574601	1	3	903	8	Helena	Rezková	F			41	redaktorka	Vlkov	99	80	0
-5203	574601	1	3	903	9	Petr	Voslař	M	Ing.		33	stavební technik	Vlkov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5203	574601	1	1	902	1	Alena	Bartošová	Ing.		32	ekonom	Vlkov	99	80	0	F
+5203	574601	1	2	901	1	Václav	Bartoš			26	soukromý podnikatel	Vlkov	99	80	0	M
+5203	574601	1	3	903	1	František	Rezek	Ing.		51	technik	Vlkov	99	80	0	M
+5203	574601	1	1	902	2	Hana	Grohová			51	technik	Vlkov	99	80	0	F
+5203	574601	1	2	901	2	Michal	Košťál			27	soukromý podnikatel	Vlkov	99	80	0	M
+5203	574601	1	3	903	2	Lukáš	Rejmánek			30	jednatel	Vlkov	99	80	0	M
+5203	574601	1	1	902	3	Lukáš	Zajíček			31	jednatel	Vlkov	99	80	0	M
+5203	574601	1	2	901	3	Jitka	Grohová	Ing.		26	stavební inženýr	Vlkov	99	80	0	F
+5203	574601	1	3	903	3	Šárka	Konečná			35	administrativní pracovnice	Vlkov	99	80	0	F
+5203	574601	1	1	902	4	Josef	Malý			36	truhlář	Vlkov	99	80	0	M
+5203	574601	1	2	901	4	Zdeněk	Jandík			53	strojní záměčník	Vlkov	99	80	0	M
+5203	574601	1	3	903	4	Josef	Januš	Ing.		39	řídící pracovník	Vlkov	99	80	0	M
+5203	574601	1	1	902	5	Galina	Hynková			49	v domácnosti	Vlkov	99	80	0	F
+5203	574601	1	2	901	5	Romana	Vávrů			35	úřednice	Vlkov	99	80	0	F
+5203	574601	1	3	903	5	Jiří	Nepokoj			37	prodavač	Vlkov	99	80	0	M
+5203	574601	1	1	902	6	Roman	Miewald			35	pokrývač	Vlkov	99	80	0	M
+5203	574601	1	2	901	6	Martin	Felcman			30	lisař	Vlkov	99	80	0	M
+5203	574601	1	3	903	6	Petra	Kmoníčková			30	informatik	Vlkov	99	80	0	F
+5203	574601	1	1	902	7	Monika	Lupínková			31	v domácnosti	Vlkov	99	80	0	F
+5203	574601	1	2	901	7	Vladimír	Pospíšil			30	automechanik	Vlkov	99	80	0	M
+5203	574601	1	3	903	7	Jiří	Fišera			64	důchodce	Vlkov	99	80	0	M
+5203	574601	1	1	902	8	Roman	Bača			38	zámečník	Vlkov	99	80	0	M
+5203	574601	1	2	901	8	Miroslav	Toušek			37	mechanik	Vlkov	99	80	0	M
+5203	574601	1	3	903	8	Helena	Rezková			41	redaktorka	Vlkov	99	80	0	F
+5203	574601	1	1	902	9	Jana	Veverková			57	důchodkyně	Vlkov	99	80	0	F
+5203	574601	1	2	901	9	Petr	Prokop			38	soukromý podnikatel	Vlkov	99	80	0	M
+5203	574601	1	3	903	9	Petr	Voslař	Ing.		33	stavební technik	Vlkov	99	80	0	M

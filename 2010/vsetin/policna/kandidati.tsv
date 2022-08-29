@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7203	500071	1	1	901	1	Stanislav	Pernický	M	Ing.		59	ekonom	Poličná	99	80	0
-7203	500071	1	1	901	2	Jan	Siner	M			35	podnikatel	Poličná	99	80	0
-7203	500071	1	1	901	3	Radek	Chumchal	M	Ing.		43	manažer prodeje	Poličná	99	80	0
-7203	500071	1	1	901	4	Vojtěch	Bača	M			31	vedoucí prodejny	Poličná	99	80	0
-7203	500071	1	1	901	5	Julie	Hlavenková	F	Mgr.		32	ved.soc.služby	Poličná	99	80	0
-7203	500071	1	1	901	6	Pavel	Pernický	M			40	podnikatel	Poličná	99	80	0
-7203	500071	1	1	901	7	Rostislav	Tvrdý	M			55	elektromechanik	Poličná	99	80	0
-7203	500071	1	1	901	8	Jan	Hradil	M	Ing.		42	podnikatel	Poličná	99	80	0
-7203	500071	1	1	901	9	Ilona	Kristianová	F			50	stavební technik	Poličná	99	80	0
-7203	500071	1	1	901	10	Stanislav	Lysák	M			48	podnikatel	Poličná	99	80	0
-7203	500071	1	1	901	11	Josef	Skýpala	M			63	důchodce	Poličná	99	80	0
-7203	500071	1	1	901	12	Martin	Stolář	M			28	podnikatel	Poličná	99	80	0
-7203	500071	1	1	901	13	Štěpán	Chmelař	M	Ing.		37	inženýr kvality	Poličná	99	80	0
-7203	500071	1	2	902	1	Vladimír	Místecký	M			60	strojvedoucí	Poličná	47	80	0
-7203	500071	1	2	902	2	Josef	Dorčák	M			27	hasič	Poličná	99	80	0
-7203	500071	1	2	902	3	Michal	Nekola	M			31	podnikatel	Poličná	99	80	0
-7203	500071	1	2	902	4	Radek	Pivko	M			22	hasič	Poličná	99	80	0
-7203	500071	1	2	902	5	Michal	Hadaš	M			32	IT technik	Poličná	99	80	0
-7203	500071	1	2	902	6	Hana	Milotová	F			57	zdravotní sestra	Poličná	99	80	0
-7203	500071	1	2	902	7	Rostislav	Šťastný	M			64	důchodce	Poličná	47	80	0
-7203	500071	1	2	902	8	Pavel	Žilinský	M			39	podnikatel	Poličná	99	80	0
-7203	500071	1	2	902	9	Miroslav	Dufka	M			44	elektromechanik	Poličná	99	80	0
-7203	500071	1	2	902	10	Vítězslav	Strnadel	M	Ing.		44	projektant	Poličná	99	80	0
-7203	500071	1	2	902	11	Libuše	Dopiráková	F			57	podnikatelka	Poličná	47	80	0
-7203	500071	1	2	902	12	Pavla	Horáková	F			60	účetní	Poličná	99	80	0
-7203	500071	1	2	902	13	Jiří	Vlček	M			62	důchodce	Poličná	99	80	0
-7203	500071	1	3	801	1	Luděk	Černoch	M			49	OSVČ	Poličná	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7203	500071	1	1	901	1	Stanislav	Pernický	Ing.		59	ekonom	Poličná	99	80	0	M
+7203	500071	1	2	902	1	Vladimír	Místecký			60	strojvedoucí	Poličná	47	80	0	M
+7203	500071	1	3	801	1	Luděk	Černoch			49	OSVČ	Poličná	99	80	0	M
+7203	500071	1	1	901	2	Jan	Siner			35	podnikatel	Poličná	99	80	0	M
+7203	500071	1	2	902	2	Josef	Dorčák			27	hasič	Poličná	99	80	0	M
+7203	500071	1	1	901	3	Radek	Chumchal	Ing.		43	manažer prodeje	Poličná	99	80	0	M
+7203	500071	1	2	902	3	Michal	Nekola			31	podnikatel	Poličná	99	80	0	M
+7203	500071	1	1	901	4	Vojtěch	Bača			31	vedoucí prodejny	Poličná	99	80	0	M
+7203	500071	1	2	902	4	Radek	Pivko			22	hasič	Poličná	99	80	0	M
+7203	500071	1	1	901	5	Julie	Hlavenková	Mgr.		32	ved.soc.služby	Poličná	99	80	0	F
+7203	500071	1	2	902	5	Michal	Hadaš			32	IT technik	Poličná	99	80	0	M
+7203	500071	1	1	901	6	Pavel	Pernický			40	podnikatel	Poličná	99	80	0	M
+7203	500071	1	2	902	6	Hana	Milotová			57	zdravotní sestra	Poličná	99	80	0	F
+7203	500071	1	1	901	7	Rostislav	Tvrdý			55	elektromechanik	Poličná	99	80	0	M
+7203	500071	1	2	902	7	Rostislav	Šťastný			64	důchodce	Poličná	47	80	0	M
+7203	500071	1	1	901	8	Jan	Hradil	Ing.		42	podnikatel	Poličná	99	80	0	M
+7203	500071	1	2	902	8	Pavel	Žilinský			39	podnikatel	Poličná	99	80	0	M
+7203	500071	1	1	901	9	Ilona	Kristianová			50	stavební technik	Poličná	99	80	0	F
+7203	500071	1	2	902	9	Miroslav	Dufka			44	elektromechanik	Poličná	99	80	0	M
+7203	500071	1	1	901	10	Stanislav	Lysák			48	podnikatel	Poličná	99	80	0	M
+7203	500071	1	2	902	10	Vítězslav	Strnadel	Ing.		44	projektant	Poličná	99	80	0	M
+7203	500071	1	1	901	11	Josef	Skýpala			63	důchodce	Poličná	99	80	0	M
+7203	500071	1	2	902	11	Libuše	Dopiráková			57	podnikatelka	Poličná	47	80	0	F
+7203	500071	1	1	901	12	Martin	Stolář			28	podnikatel	Poličná	99	80	0	M
+7203	500071	1	2	902	12	Pavla	Horáková			60	účetní	Poličná	99	80	0	F
+7203	500071	1	1	901	13	Štěpán	Chmelař	Ing.		37	inženýr kvality	Poličná	99	80	0	M
+7203	500071	1	2	902	13	Jiří	Vlček			62	důchodce	Poličná	99	80	0	M

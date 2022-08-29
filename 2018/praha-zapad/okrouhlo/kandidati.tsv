@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	539511	1	1	901	1	Ludvík	Pařízek	M			65	konstruktér	Okrouhlo	99	80	A
-2110	539511	1	1	901	2	Vladimír	Liška	M	Ing.		71	projektant	Zahořany	99	80	A
-2110	539511	1	1	901	3	Radek	Sadílek	M			45	řidič z povolání	Okrouhlo	99	80	A
-2110	539511	1	1	901	4	Martin	Honzík	M			55	elektromechanik	Okrouhlo	99	80	A
-2110	539511	1	1	901	5	Jana	Táborská	F	Ing.		43	učitelka MŠ	Okrouhlo	99	80	A
-2110	539511	1	1	901	6	Jana	Neubergová	F	Ing.		52	referentka	Okrouhlo	99	80	A
-2110	539511	1	1	901	7	Jana	Voláková	F			44	podnikatelka	Zahořany	99	80	A
-2110	539511	1	1	901	8	Pavel	Němec	M			41	podnikatel	Okrouhlo	99	80	A
-2110	539511	1	1	901	9	Stanislav	Hruška	M			62	správce budov	Okrouhlo	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	539511	1	1	901	1	Ludvík	Pařízek			65	konstruktér	Okrouhlo	99	80	A	M
+2110	539511	1	1	901	2	Vladimír	Liška	Ing.		71	projektant	Zahořany	99	80	A	M
+2110	539511	1	1	901	3	Radek	Sadílek			45	řidič z povolání	Okrouhlo	99	80	A	M
+2110	539511	1	1	901	4	Martin	Honzík			55	elektromechanik	Okrouhlo	99	80	A	M
+2110	539511	1	1	901	5	Jana	Táborská	Ing.		43	učitelka MŠ	Okrouhlo	99	80	A	F
+2110	539511	1	1	901	6	Jana	Neubergová	Ing.		52	referentka	Okrouhlo	99	80	A	F
+2110	539511	1	1	901	7	Jana	Voláková			44	podnikatelka	Zahořany	99	80	A	F
+2110	539511	1	1	901	8	Pavel	Němec			41	podnikatel	Okrouhlo	99	80	A	M
+2110	539511	1	1	901	9	Stanislav	Hruška			62	správce budov	Okrouhlo	99	80	A	M

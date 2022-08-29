@@ -1,40 +1,40 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	546143	1	1	902	1	Alois	Adam	M	Ing.		58	starosta	Dešná	99	80	0
-3103	546143	1	1	902	2	Milan	Svoboda	M			42	agronom	Dešná	99	80	0
-3103	546143	1	1	902	3	Jaroslav	Havlík	M			61	obchodní referent	Bělčovice	99	80	0
-3103	546143	1	1	902	4	Naděžda	Račická	F			43	učitelka MŠ	Dešná	99	80	0
-3103	546143	1	1	902	5	Vladimír	Vinklárek	M			59	OSVČ	Plačovice	99	80	0
-3103	546143	1	1	902	6	Josef	Krpoun	M			37	pastorační asistent	Rancířov	99	80	0
-3103	546143	1	1	902	7	Karel	Mařík	M			58	OSVČ	Rancířov	99	80	0
-3103	546143	1	1	902	8	Karel	Dobiáš	M			57	obráběč kovů	Hluboká	99	80	0
-3103	546143	1	1	902	9	Kateřina	Prokopiová	F	Ing.		55	učitelka SOU	Chvalkovice	99	80	0
-3103	546143	1	1	902	10	Jindřich	Olšanský	M			29	elektroúdržbář	Bělčovice	99	80	0
-3103	546143	1	1	902	11	Mirka	Adamová	F	Mgr.		51	ředitelka ZŠ	Dešná	99	80	0
-3103	546143	1	2	7	1	Jaroslav	Dvořák	M			67	úředník	Dešná	99	7	0
-3103	546143	1	2	7	2	Karel	Poláček	M			40	obráběč kovů	Dešná	99	7	0
-3103	546143	1	2	7	3	Antonín	Mrkva	M			37	opravář	Rancířov	99	7	0
-3103	546143	1	2	7	4	Hana	Janáková	F			44	prodavačka	Rancířov	99	7	0
-3103	546143	1	2	7	5	Jan	Petr	M			58	soukromý zemědělec	Chvalkovice	99	7	0
-3103	546143	1	2	7	6	Zdeněk	Havlíček	M			54	strojní zámečník	Dešná	99	7	0
-3103	546143	1	2	7	7	Lukáš	Morong	M			30	dělník potravinářské výroby	Dešná	99	7	0
-3103	546143	1	2	7	8	Alena	Karásková	F			47	kuchař - číšník	Dešná	99	7	0
-3103	546143	1	2	7	9	Roman	Halouzka	M			35	soukromý zemědělec	Bělčovice	99	7	0
-3103	546143	1	2	7	10	Miluše	Krátká	F			58	zdravotní sestra	Dančovice	99	7	0
-3103	546143	1	2	7	11	Petra	Nikrmajerová	F			23	poštovní úřednice	Dešná	99	7	0
-3103	546143	1	3	901	1	Kamil	Havlík	M			34	konstruktér	Bělčovice	99	80	0
-3103	546143	1	3	901	2	Miroslav	Graňák	M			34	OSVČ	Dešná	99	80	0
-3103	546143	1	3	901	3	Michal	Chvátal	M			32	stavební montér	Dešná	99	80	0
-3103	546143	1	3	901	4	Jiří	Šramota	M			53	OSVČ	Dančovice	99	80	0
-3103	546143	1	3	901	5	Tomáš	Makula	M	MUDr.		28	lékař	Dešná	99	80	0
-3103	546143	1	3	901	6	Hynek	Peřina	M			29	THP	Dešná	99	80	0
-3103	546143	1	3	901	7	Martin	Bauer	M			36	ošetřovatel v živočišné výrobě	Chvalkovice	99	80	0
-3103	546143	1	3	901	8	Jiří	Dohn	M			43	stavební dělník	Rancířov	99	80	0
-3103	546143	1	3	901	9	Zdeněk	Poláček	M			62	důchodce	Hluboká	99	80	0
-3103	546143	1	3	901	10	Václav	Krejčí	M			25	THP	Dešná	99	80	0
-3103	546143	1	3	901	11	Martina	Nikrmajerová	F			44	nezaměstnaná	Dešná	99	80	0
-3103	546143	1	4	903	1	Vladimír	König	M			56	osvč	Dešná	99	80	0
-3103	546143	1	4	903	2	Jiří	Skořepa	M			56	osvč	Dešná	99	80	0
-3103	546143	1	4	903	3	Andrea	Kämpfová	F			20	kuchař - číšník	Dančovice	99	80	0
-3103	546143	1	4	903	4	Jan	Dohn	M			39	osvč	Rancířov	99	80	0
-3103	546143	1	4	903	5	Bohumil	Vedral	M			42	dělník	Rancířov	99	80	0
-3103	546143	1	4	903	6	Miroslav	Šindelář	M			58	osvč	Dančovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	546143	1	1	902	1	Alois	Adam	Ing.		58	starosta	Dešná	99	80	0	M
+3103	546143	1	2	7	1	Jaroslav	Dvořák			67	úředník	Dešná	99	7	0	M
+3103	546143	1	3	901	1	Kamil	Havlík			34	konstruktér	Bělčovice	99	80	0	M
+3103	546143	1	4	903	1	Vladimír	König			56	osvč	Dešná	99	80	0	M
+3103	546143	1	1	902	2	Milan	Svoboda			42	agronom	Dešná	99	80	0	M
+3103	546143	1	2	7	2	Karel	Poláček			40	obráběč kovů	Dešná	99	7	0	M
+3103	546143	1	3	901	2	Miroslav	Graňák			34	OSVČ	Dešná	99	80	0	M
+3103	546143	1	4	903	2	Jiří	Skořepa			56	osvč	Dešná	99	80	0	M
+3103	546143	1	1	902	3	Jaroslav	Havlík			61	obchodní referent	Bělčovice	99	80	0	M
+3103	546143	1	2	7	3	Antonín	Mrkva			37	opravář	Rancířov	99	7	0	M
+3103	546143	1	3	901	3	Michal	Chvátal			32	stavební montér	Dešná	99	80	0	M
+3103	546143	1	4	903	3	Andrea	Kämpfová			20	kuchař - číšník	Dančovice	99	80	0	F
+3103	546143	1	1	902	4	Naděžda	Račická			43	učitelka MŠ	Dešná	99	80	0	F
+3103	546143	1	2	7	4	Hana	Janáková			44	prodavačka	Rancířov	99	7	0	F
+3103	546143	1	3	901	4	Jiří	Šramota			53	OSVČ	Dančovice	99	80	0	M
+3103	546143	1	4	903	4	Jan	Dohn			39	osvč	Rancířov	99	80	0	M
+3103	546143	1	1	902	5	Vladimír	Vinklárek			59	OSVČ	Plačovice	99	80	0	M
+3103	546143	1	2	7	5	Jan	Petr			58	soukromý zemědělec	Chvalkovice	99	7	0	M
+3103	546143	1	3	901	5	Tomáš	Makula	MUDr.		28	lékař	Dešná	99	80	0	M
+3103	546143	1	4	903	5	Bohumil	Vedral			42	dělník	Rancířov	99	80	0	M
+3103	546143	1	1	902	6	Josef	Krpoun			37	pastorační asistent	Rancířov	99	80	0	M
+3103	546143	1	2	7	6	Zdeněk	Havlíček			54	strojní zámečník	Dešná	99	7	0	M
+3103	546143	1	3	901	6	Hynek	Peřina			29	THP	Dešná	99	80	0	M
+3103	546143	1	4	903	6	Miroslav	Šindelář			58	osvč	Dančovice	99	80	0	M
+3103	546143	1	1	902	7	Karel	Mařík			58	OSVČ	Rancířov	99	80	0	M
+3103	546143	1	2	7	7	Lukáš	Morong			30	dělník potravinářské výroby	Dešná	99	7	0	M
+3103	546143	1	3	901	7	Martin	Bauer			36	ošetřovatel v živočišné výrobě	Chvalkovice	99	80	0	M
+3103	546143	1	1	902	8	Karel	Dobiáš			57	obráběč kovů	Hluboká	99	80	0	M
+3103	546143	1	2	7	8	Alena	Karásková			47	kuchař - číšník	Dešná	99	7	0	F
+3103	546143	1	3	901	8	Jiří	Dohn			43	stavební dělník	Rancířov	99	80	0	M
+3103	546143	1	1	902	9	Kateřina	Prokopiová	Ing.		55	učitelka SOU	Chvalkovice	99	80	0	F
+3103	546143	1	2	7	9	Roman	Halouzka			35	soukromý zemědělec	Bělčovice	99	7	0	M
+3103	546143	1	3	901	9	Zdeněk	Poláček			62	důchodce	Hluboká	99	80	0	M
+3103	546143	1	1	902	10	Jindřich	Olšanský			29	elektroúdržbář	Bělčovice	99	80	0	M
+3103	546143	1	2	7	10	Miluše	Krátká			58	zdravotní sestra	Dančovice	99	7	0	F
+3103	546143	1	3	901	10	Václav	Krejčí			25	THP	Dešná	99	80	0	M
+3103	546143	1	1	902	11	Mirka	Adamová	Mgr.		51	ředitelka ZŠ	Dešná	99	80	0	F
+3103	546143	1	2	7	11	Petra	Nikrmajerová			23	poštovní úřednice	Dešná	99	7	0	F
+3103	546143	1	3	901	11	Martina	Nikrmajerová			44	nezaměstnaná	Dešná	99	80	0	F

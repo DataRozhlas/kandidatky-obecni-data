@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2108	537756	1	1	901	1	Petr	Kapal	M			41	starosta	Rožďalovice	99	80	A
-2108	537756	1	1	901	2	Viktor	Dobrev	M	Mgr.		42	OSVČ	Rožďalovice	99	80	A
-2108	537756	1	1	901	3	Marcela	Ešnerová	F	Mgr.		41	personalistka	Rožďalovice	99	80	A
-2108	537756	1	1	901	4	Michael	Paroulek	M			42	přípravář	Viničná Lhota	99	80	A
-2108	537756	1	1	901	5	Petr	Pešava	M			47	živnostník	Rožďalovice	99	80	A
-2108	537756	1	1	901	6	Václav	Košťák	M			40	automechanik	Rožďalovice	99	80	A
-2108	537756	1	1	901	7	Veronika	Novotná	F	Mgr.		33	učitelka	Podlužany	99	80	A
-2108	537756	1	1	901	8	Martina	Vlčková	F			49	zdravotní sestra	Rožďalovice	99	80	A
-2108	537756	1	1	901	9	Marek	Žďárský	M	Ing.		45	zahradní inženýr	Hasina	99	80	A
-2108	537756	1	2	7	1	Lukáš	Antoš	M			29	obchodník	Rožďalovice	7	7	A
-2108	537756	1	2	7	2	Petr	Volek	M			58	invalidní důchodce	Rožďalovice	7	7	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2108	537756	1	1	901	1	Petr	Kapal			41	starosta	Rožďalovice	99	80	A	M
+2108	537756	1	2	7	1	Lukáš	Antoš			29	obchodník	Rožďalovice	7	7	A	M
+2108	537756	1	1	901	2	Viktor	Dobrev	Mgr.		42	OSVČ	Rožďalovice	99	80	A	M
+2108	537756	1	2	7	2	Petr	Volek			58	invalidní důchodce	Rožďalovice	7	7	A	M
+2108	537756	1	1	901	3	Marcela	Ešnerová	Mgr.		41	personalistka	Rožďalovice	99	80	A	F
+2108	537756	1	1	901	4	Michael	Paroulek			42	přípravář	Viničná Lhota	99	80	A	M
+2108	537756	1	1	901	5	Petr	Pešava			47	živnostník	Rožďalovice	99	80	A	M
+2108	537756	1	1	901	6	Václav	Košťák			40	automechanik	Rožďalovice	99	80	A	M
+2108	537756	1	1	901	7	Veronika	Novotná	Mgr.		33	učitelka	Podlužany	99	80	A	F
+2108	537756	1	1	901	8	Martina	Vlčková			49	zdravotní sestra	Rožďalovice	99	80	A	F
+2108	537756	1	1	901	9	Marek	Žďárský	Ing.		45	zahradní inženýr	Hasina	99	80	A	M

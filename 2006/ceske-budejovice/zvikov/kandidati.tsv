@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	535591	1	1	1	1	Jan	Novotný	M			74	důchodce	Zvíkov	1	1	0
-3101	535591	1	1	1	2	Josef	Šafář	M			32	technik	Zvíkov	99	1	0
-3101	535591	1	1	1	3	Josef	Květoň	M			51	autolakýrník	Zvíkov	99	1	0
-3101	535591	1	1	1	4	Václav	Kyrian	M			73	důchodce	Zvíkov	99	1	0
-3101	535591	1	1	1	5	Václav	Tůma	M			47	skladník	Zvíkov	99	1	0
-3101	535591	1	1	1	6	Marie	Novotná	F			62	důchodkyně	Zvíkov	1	1	0
-3101	535591	1	1	1	7	Jan	Mareš	M			62	důchodce	Zvíkov	1	1	0
-3101	535591	1	1	1	8	Bohuslav	Matoušek	M			46	traktorista	Zvíkov	99	1	0
-3101	535591	1	1	1	9	Miroslav	Tůma	M			23	seřizovač	Zvíkov	99	1	0
-3101	535591	1	2	901	1	Anna	Konopová	F	Mgr.		47	učitelka	Zvíkov	99	80	0
-3101	535591	1	2	901	2	Jiří	Klimeš	M			39	vedoucí provozu	Zvíkov	99	80	0
-3101	535591	1	2	901	3	František	Pecha	M			37	zámečník	Zvíkov	99	80	0
-3101	535591	1	2	901	4	Josef	Klabouch	M			42	dělník	Zvíkov	99	80	0
-3101	535591	1	2	901	5	Miluše	Makovičková	F			48	obsluha čerpací stanice	Zvíkov	99	80	0
-3101	535591	1	2	901	6	Radomil	Nečesaný	M			48	automechanik	Zvíkov	99	80	0
-3101	535591	1	2	901	7	Lenka	Klimešová	F	Mgr.		35	učitelka	Zvíkov	99	80	0
-3101	535591	1	2	901	8	Petr	Gondek	M	Bc.		23	student	Zvíkov	99	80	0
-3101	535591	1	2	901	9	Petr	Šlosar	M			36	řidič	Zvíkov	99	80	0
-3101	535591	1	3	7	1	Jaroslav	Tájek	M			31	soukromý zemědělec	Zvíkov	99	7	0
-3101	535591	1	3	7	2	Josef	Fiktus	M			36	řidič-skladník	Zvíkov	99	7	0
-3101	535591	1	3	7	3	Marcela	Krchová	F			32	mateřská dovolená	Zvíkov	99	7	0
-3101	535591	1	3	7	4	Milan	Šimánek	M			35	obchodní zástupce	Zvíkov	99	7	0
-3101	535591	1	3	7	5	Miroslav	Novotný	M			38	nákupčí	Zvíkov	99	7	0
-3101	535591	1	3	7	6	Jan	Mareš	M			27	skladník	Zvíkov	99	7	0
-3101	535591	1	3	7	7	Zdeňka	Tájková	F			33	mateřská dovolená	Zvíkov	7	7	0
-3101	535591	1	3	7	8	Dalibor	Krch	M			30	tesař	Zvíkov	99	7	0
-3101	535591	1	3	7	9	Markéta	Bromová	F			28	mateřská dovolená	Zvíkov	99	7	0
-3101	535591	1	4	47	1	Marie	Fišerová	F			41	pokladní	Zvíkov	99	47	0
-3101	535591	1	4	47	2	Marta	Nováková	F			60	důchodce	Zvíkov	99	47	0
-3101	535591	1	4	47	3	Jaroslav	Kadlec	M			60	opravář	Zvíkov	47	47	0
-3101	535591	1	4	47	4	Josef	Klabouch	M			73	důchodce	Zvíkov	47	47	0
-3101	535591	1	4	47	5	Jaroslav	Novotný	M			64	důchodce	Zvíkov	99	47	0
-3101	535591	1	4	47	6	Zdeňka	Kovaříková	F			53	ošetřovatelka dojnic	Zvíkov	99	47	0
-3101	535591	1	4	47	7	Marie	Krchová	F			59	důchodce	Zvíkov	47	47	0
-3101	535591	1	4	47	8	Josef	Takáč	M			68	důchodce	Zvíkov	99	47	0
-3101	535591	1	4	47	9	Karel	Bláha	M			43	elektromechanik	Zvíkov	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	535591	1	1	1	1	Jan	Novotný			74	důchodce	Zvíkov	1	1	0	M
+3101	535591	1	2	901	1	Anna	Konopová	Mgr.		47	učitelka	Zvíkov	99	80	0	F
+3101	535591	1	3	7	1	Jaroslav	Tájek			31	soukromý zemědělec	Zvíkov	99	7	0	M
+3101	535591	1	4	47	1	Marie	Fišerová			41	pokladní	Zvíkov	99	47	0	F
+3101	535591	1	1	1	2	Josef	Šafář			32	technik	Zvíkov	99	1	0	M
+3101	535591	1	2	901	2	Jiří	Klimeš			39	vedoucí provozu	Zvíkov	99	80	0	M
+3101	535591	1	3	7	2	Josef	Fiktus			36	řidič-skladník	Zvíkov	99	7	0	M
+3101	535591	1	4	47	2	Marta	Nováková			60	důchodce	Zvíkov	99	47	0	F
+3101	535591	1	1	1	3	Josef	Květoň			51	autolakýrník	Zvíkov	99	1	0	M
+3101	535591	1	2	901	3	František	Pecha			37	zámečník	Zvíkov	99	80	0	M
+3101	535591	1	3	7	3	Marcela	Krchová			32	mateřská dovolená	Zvíkov	99	7	0	F
+3101	535591	1	4	47	3	Jaroslav	Kadlec			60	opravář	Zvíkov	47	47	0	M
+3101	535591	1	1	1	4	Václav	Kyrian			73	důchodce	Zvíkov	99	1	0	M
+3101	535591	1	2	901	4	Josef	Klabouch			42	dělník	Zvíkov	99	80	0	M
+3101	535591	1	3	7	4	Milan	Šimánek			35	obchodní zástupce	Zvíkov	99	7	0	M
+3101	535591	1	4	47	4	Josef	Klabouch			73	důchodce	Zvíkov	47	47	0	M
+3101	535591	1	1	1	5	Václav	Tůma			47	skladník	Zvíkov	99	1	0	M
+3101	535591	1	2	901	5	Miluše	Makovičková			48	obsluha čerpací stanice	Zvíkov	99	80	0	F
+3101	535591	1	3	7	5	Miroslav	Novotný			38	nákupčí	Zvíkov	99	7	0	M
+3101	535591	1	4	47	5	Jaroslav	Novotný			64	důchodce	Zvíkov	99	47	0	M
+3101	535591	1	1	1	6	Marie	Novotná			62	důchodkyně	Zvíkov	1	1	0	F
+3101	535591	1	2	901	6	Radomil	Nečesaný			48	automechanik	Zvíkov	99	80	0	M
+3101	535591	1	3	7	6	Jan	Mareš			27	skladník	Zvíkov	99	7	0	M
+3101	535591	1	4	47	6	Zdeňka	Kovaříková			53	ošetřovatelka dojnic	Zvíkov	99	47	0	F
+3101	535591	1	1	1	7	Jan	Mareš			62	důchodce	Zvíkov	1	1	0	M
+3101	535591	1	2	901	7	Lenka	Klimešová	Mgr.		35	učitelka	Zvíkov	99	80	0	F
+3101	535591	1	3	7	7	Zdeňka	Tájková			33	mateřská dovolená	Zvíkov	7	7	0	F
+3101	535591	1	4	47	7	Marie	Krchová			59	důchodce	Zvíkov	47	47	0	F
+3101	535591	1	1	1	8	Bohuslav	Matoušek			46	traktorista	Zvíkov	99	1	0	M
+3101	535591	1	2	901	8	Petr	Gondek	Bc.		23	student	Zvíkov	99	80	0	M
+3101	535591	1	3	7	8	Dalibor	Krch			30	tesař	Zvíkov	99	7	0	M
+3101	535591	1	4	47	8	Josef	Takáč			68	důchodce	Zvíkov	99	47	0	M
+3101	535591	1	1	1	9	Miroslav	Tůma			23	seřizovač	Zvíkov	99	1	0	M
+3101	535591	1	2	901	9	Petr	Šlosar			36	řidič	Zvíkov	99	80	0	M
+3101	535591	1	3	7	9	Markéta	Bromová			28	mateřská dovolená	Zvíkov	99	7	0	F
+3101	535591	1	4	47	9	Karel	Bláha			43	elektromechanik	Zvíkov	99	47	0	M

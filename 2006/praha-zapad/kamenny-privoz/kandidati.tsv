@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	539368	1	1	901	1	Konstantin	Navrátil	M			58	starosta	Kamenný Újezdec	99	80	0
-2110	539368	1	1	901	2	Blanka	Mašková	F			52	referentka	Kamenný Přívoz	99	80	0
-2110	539368	1	1	901	3	Karel	Splavec	M			58	podnikatel	Kamenný Újezdec	99	80	0
-2110	539368	1	1	901	4	Pavel	Pála	M	Ing.		52	ředitel pob. prodejního střed.	Hostěradice	99	80	0
-2110	539368	1	1	901	5	Vladislav	Sládek	M			69	důchodce	Hostěradice	99	80	0
-2110	539368	1	1	901	6	Jiří	Vojtěchovský	M			37	podnikatel	Hostěradice	99	80	0
-2110	539368	1	1	901	7	Zuzana	Sýkorová	F			27	odb. prac. Českého ryb. svazu	Kamenný Přívoz	99	80	0
-2110	539368	1	1	901	8	Jan	Kysela	M			60	podnikatel	Kamenný Přívoz	99	80	0
-2110	539368	1	1	901	9	Roman	Kačer	M	Ing.		39	podnikatel	Kamenný Přívoz	99	80	0
-2110	539368	1	1	901	10	Jana	Vysušilová	F			62	důchodce	Kamenný Přívoz	99	80	0
-2110	539368	1	1	901	11	Ludmila	Faltová	F			52	učitelka	Kamenný Přívoz	99	80	0
-2110	539368	1	1	901	12	Václav	Charvát	M			58	důchodce	Kamenný Újezdec	99	80	0
-2110	539368	1	1	901	13	Martin	Slabý	M	Bc.		25	právník	Kamenný Újezdec	99	80	0
-2110	539368	1	1	901	14	Jiřina	Špálová	F			28	obchodní manažer	Kamenný Přívoz	99	80	0
-2110	539368	1	1	901	15	Stanislav	Kozel	M	Ing.		53	vedoucí vývoje Helios	Kamenný Újezdec	99	80	0
-2110	539368	1	2	47	1	Jiří	Hrdlička	M			65	důchodce	Kamenný Újezdec	47	47	0
-2110	539368	1	2	47	2	Eva	Brychtová	F	Mgr.		55	učitelka	Kamenný Přívoz	47	47	0
-2110	539368	1	2	47	3	Miloslava	Sládková	F			67	důchodce	Hostěradice	47	47	0
-2110	539368	1	2	47	4	Věra	Štromajerová	F			52	kuchařka	Kamenný Přívoz	47	47	0
-2110	539368	1	2	47	5	Bohumil	Jirsa	M			72	důchodce	Hostěradice	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	539368	1	1	901	1	Konstantin	Navrátil			58	starosta	Kamenný Újezdec	99	80	0	M
+2110	539368	1	2	47	1	Jiří	Hrdlička			65	důchodce	Kamenný Újezdec	47	47	0	M
+2110	539368	1	1	901	2	Blanka	Mašková			52	referentka	Kamenný Přívoz	99	80	0	F
+2110	539368	1	2	47	2	Eva	Brychtová	Mgr.		55	učitelka	Kamenný Přívoz	47	47	0	F
+2110	539368	1	1	901	3	Karel	Splavec			58	podnikatel	Kamenný Újezdec	99	80	0	M
+2110	539368	1	2	47	3	Miloslava	Sládková			67	důchodce	Hostěradice	47	47	0	F
+2110	539368	1	1	901	4	Pavel	Pála	Ing.		52	ředitel pob. prodejního střed.	Hostěradice	99	80	0	M
+2110	539368	1	2	47	4	Věra	Štromajerová			52	kuchařka	Kamenný Přívoz	47	47	0	F
+2110	539368	1	1	901	5	Vladislav	Sládek			69	důchodce	Hostěradice	99	80	0	M
+2110	539368	1	2	47	5	Bohumil	Jirsa			72	důchodce	Hostěradice	47	47	0	M
+2110	539368	1	1	901	6	Jiří	Vojtěchovský			37	podnikatel	Hostěradice	99	80	0	M
+2110	539368	1	1	901	7	Zuzana	Sýkorová			27	odb. prac. Českého ryb. svazu	Kamenný Přívoz	99	80	0	F
+2110	539368	1	1	901	8	Jan	Kysela			60	podnikatel	Kamenný Přívoz	99	80	0	M
+2110	539368	1	1	901	9	Roman	Kačer	Ing.		39	podnikatel	Kamenný Přívoz	99	80	0	M
+2110	539368	1	1	901	10	Jana	Vysušilová			62	důchodce	Kamenný Přívoz	99	80	0	F
+2110	539368	1	1	901	11	Ludmila	Faltová			52	učitelka	Kamenný Přívoz	99	80	0	F
+2110	539368	1	1	901	12	Václav	Charvát			58	důchodce	Kamenný Újezdec	99	80	0	M
+2110	539368	1	1	901	13	Martin	Slabý	Bc.		25	právník	Kamenný Újezdec	99	80	0	M
+2110	539368	1	1	901	14	Jiřina	Špálová			28	obchodní manažer	Kamenný Přívoz	99	80	0	F
+2110	539368	1	1	901	15	Stanislav	Kozel	Ing.		53	vedoucí vývoje Helios	Kamenný Újezdec	99	80	0	M

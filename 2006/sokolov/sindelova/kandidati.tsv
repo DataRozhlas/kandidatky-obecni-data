@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4103	560677	1	1	7	1	Jan	Hormandl	M			60	důchodce	Krásná Lípa	99	7	0
-4103	560677	1	1	7	2	Pavel	Fiala	M			58	podnikatel	Obora	99	7	0
-4103	560677	1	1	7	3	Drahuše	Trojanová	F			43	ekonomka	Krásná Lípa	99	7	0
-4103	560677	1	1	7	4	Josef	Klepáček	M			56	podnikatel	Obora	99	7	0
-4103	560677	1	1	7	5	Vojtěch	Janát	M			67	podnikatel	Šindelová	99	7	0
-4103	560677	1	1	7	6	Jiří	Karaf	M			51	zámečník	Šindelová	99	7	0
-4103	560677	1	1	7	7	Jaroslav	Hormandl	M			54	invalidní důchodce	Obora	99	7	0
-4103	560677	1	1	7	8	Věra	Kristiánová	F	Mgr.		62	učitelka	Krásná Lípa	99	7	0
-4103	560677	1	1	7	9	Hana	Vajčnerová	F			58	důchodkyně	Šindelová	99	7	0
-4103	560677	1	2	902	1	Ladislav	Svitáček	M			50	dělník	Šindelová	99	80	0
-4103	560677	1	2	902	2	Zdeněk	Fišer	M			48	podnikatel	Šindelová	99	80	0
-4103	560677	1	2	902	3	Jan	Kovařík	M			45	řidič	Šindelová	99	80	0
-4103	560677	1	2	902	4	Lenka	Kaloudová	F			46	učitelka	Šindelová	99	80	0
-4103	560677	1	2	902	5	Zdeněk	Ďásek	M			51	podnikatel	Obora	99	80	0
-4103	560677	1	2	902	6	Radka	Cipovová	F			38	dělnice	Krásná Lípa	99	80	0
-4103	560677	1	2	902	7	Karel	Karbula	M			32	dělník	Šindelová	99	80	0
-4103	560677	1	2	902	8	Pavel	Oudes	M			39	dělník	Šindelová	99	80	0
-4103	560677	1	2	902	9	Dušan	Hřebíček	M			39	dělník	Šindelová	99	80	0
-4103	560677	1	3	901	1	Jana	Svitáčková	F			49	důchodce	Šindelová	99	80	0
-4103	560677	1	3	901	2	Milan	Ventruba	M			36	technik	Šindelová	99	80	0
-4103	560677	1	3	901	3	Lenka	Ventrubová	F			36	referent	Šindelová	99	80	0
-4103	560677	1	3	901	4	Eva	Hřebíčková	F			40	dělnice	Šindelová	99	80	0
-4103	560677	1	3	901	5	Jan	Bouchal	M			53	dělník	Krásná Lípa	99	80	0
-4103	560677	1	3	901	6	Petr	Havelka	M			51	podnikatel	Šindelová	99	80	0
-4103	560677	1	3	901	7	Jiří	Lehotský	M			52	podnikatel	Šindelová	99	80	0
-4103	560677	1	3	901	8	Pavlína	Illková	F			33	dělnice	Šindelová	99	80	0
-4103	560677	1	3	901	9	Anna	Musiejovszká	F			29	mateřská dovolená	Šindelová	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4103	560677	1	1	7	1	Jan	Hormandl			60	důchodce	Krásná Lípa	99	7	0	M
+4103	560677	1	2	902	1	Ladislav	Svitáček			50	dělník	Šindelová	99	80	0	M
+4103	560677	1	3	901	1	Jana	Svitáčková			49	důchodce	Šindelová	99	80	0	F
+4103	560677	1	1	7	2	Pavel	Fiala			58	podnikatel	Obora	99	7	0	M
+4103	560677	1	2	902	2	Zdeněk	Fišer			48	podnikatel	Šindelová	99	80	0	M
+4103	560677	1	3	901	2	Milan	Ventruba			36	technik	Šindelová	99	80	0	M
+4103	560677	1	1	7	3	Drahuše	Trojanová			43	ekonomka	Krásná Lípa	99	7	0	F
+4103	560677	1	2	902	3	Jan	Kovařík			45	řidič	Šindelová	99	80	0	M
+4103	560677	1	3	901	3	Lenka	Ventrubová			36	referent	Šindelová	99	80	0	F
+4103	560677	1	1	7	4	Josef	Klepáček			56	podnikatel	Obora	99	7	0	M
+4103	560677	1	2	902	4	Lenka	Kaloudová			46	učitelka	Šindelová	99	80	0	F
+4103	560677	1	3	901	4	Eva	Hřebíčková			40	dělnice	Šindelová	99	80	0	F
+4103	560677	1	1	7	5	Vojtěch	Janát			67	podnikatel	Šindelová	99	7	0	M
+4103	560677	1	2	902	5	Zdeněk	Ďásek			51	podnikatel	Obora	99	80	0	M
+4103	560677	1	3	901	5	Jan	Bouchal			53	dělník	Krásná Lípa	99	80	0	M
+4103	560677	1	1	7	6	Jiří	Karaf			51	zámečník	Šindelová	99	7	0	M
+4103	560677	1	2	902	6	Radka	Cipovová			38	dělnice	Krásná Lípa	99	80	0	F
+4103	560677	1	3	901	6	Petr	Havelka			51	podnikatel	Šindelová	99	80	0	M
+4103	560677	1	1	7	7	Jaroslav	Hormandl			54	invalidní důchodce	Obora	99	7	0	M
+4103	560677	1	2	902	7	Karel	Karbula			32	dělník	Šindelová	99	80	0	M
+4103	560677	1	3	901	7	Jiří	Lehotský			52	podnikatel	Šindelová	99	80	0	M
+4103	560677	1	1	7	8	Věra	Kristiánová	Mgr.		62	učitelka	Krásná Lípa	99	7	0	F
+4103	560677	1	2	902	8	Pavel	Oudes			39	dělník	Šindelová	99	80	0	M
+4103	560677	1	3	901	8	Pavlína	Illková			33	dělnice	Šindelová	99	80	0	F
+4103	560677	1	1	7	9	Hana	Vajčnerová			58	důchodkyně	Šindelová	99	7	0	F
+4103	560677	1	2	902	9	Dušan	Hřebíček			39	dělník	Šindelová	99	80	0	M
+4103	560677	1	3	901	9	Anna	Musiejovszká			29	mateřská dovolená	Šindelová	99	80	0	F

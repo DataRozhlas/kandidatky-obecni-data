@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	539210	1	1	768	1	Lubomír	Charvát	M	Ing.		42	finanční manager	Lhota	768	768	0
-2110	539210	1	1	768	2	Iva	Opletalová	F	PhDr.		73	sociolog	Dolní Břežany	99	768	0
-2110	539210	1	1	768	3	Přemysl	Koutný	M	Ing.		62	technik	Dolní Břežany	99	768	0
-2110	539210	1	1	768	4	Renáta	Fraňková	F	Mgr.		49	kulturolog	Dolní Břežany	99	768	0
-2110	539210	1	1	768	5	Ivana	Šuranská	F			47	ředitelka mateřské školky	Dolní Břežany	99	768	0
-2110	539210	1	1	768	6	Irena	Šlingrová	F			49	speditér	Dolní Břežany	99	768	0
-2110	539210	1	1	768	7	Petr	Bryk	M			46	řidič	Dolní Břežany	768	768	0
-2110	539210	1	1	768	8	Hana	Kvízová	F	JUDr.		56	OSVČ	Dolní Břežany	99	768	0
-2110	539210	1	1	768	9	Petr	Novák	M			58	úředník	Jarov	99	768	0
-2110	539210	1	1	768	10	Andrea	Maderová	F	Bc.		38	finanční poradce	Dolní Břežany	99	768	0
-2110	539210	1	1	768	11	Zdeňka	Schuhová	F			49	asistentka administrativa	Dolní Břežany	99	768	0
-2110	539210	1	1	768	12	Robert	Vytlačil	M			64	OSVČ	Dolní Břežany	99	768	0
-2110	539210	1	1	768	13	Václav	Renč	M	Ing.		64	manager letecké společnosti	Dolní Břežany	99	768	0
-2110	539210	1	1	768	14	Vratislav	Budař	M	Ing.		47	manager	Lhota	99	768	0
-2110	539210	1	1	768	15	Martin	Šindelář	M			46	automechanik	Lhota	99	768	0
-2110	539210	1	1	768	16	Renáta	Míčaníková	F			46	OSVČ	Dolní Břežany	99	768	0
-2110	539210	1	1	768	17	Markéta	Dipoldová	F			50	OSVČ	Jarov	99	768	0
-2110	539210	1	2	470	1	Věslav	Michalik	M	Ing.	CSc.	51	starosta	Dolní Břežany	166	166	0
-2110	539210	1	2	470	2	Lubomír	Havel	M			56	manažer/telekomunikace	Dolní Břežany	99	166	0
-2110	539210	1	2	470	3	Jana	De Merlier	F	Ing.		36	OSVČ/dotační poradenství	Dolní Břežany	99	166	0
-2110	539210	1	2	470	4	Zdeněk	Kovářík	M	Ing.		59	manažer/zahraniční obchod	Dolní Břežany	99	166	0
-2110	539210	1	2	470	5	Markéta	Mayerová	F	JUDr.		47	svobodné povolání	Dolní Břežany	99	166	0
-2110	539210	1	2	470	6	Petr	Prokop	M	Ing.	CSc., MBA	51	OSVČ/finance	Dolní Břežany	99	166	0
-2110	539210	1	2	470	7	Jitka	Langová	F			44	OSVČ/obchod, služby	Dolní Břežany	99	166	0
-2110	539210	1	2	470	8	Radek	Motyka	M			46	obchodník	Zálepy	99	166	0
-2110	539210	1	2	470	9	Aleša	Jakub	M	Ing.		62	spolumajitel firmy	Dolní Břežany	99	166	0
-2110	539210	1	2	470	10	Jiří	Budil	M			45	soukromý řemeslník	Lhota	99	166	0
-2110	539210	1	2	470	11	Romana	Koubová	F			47	vedoucí provozu v ZŠ	Dolní Břežany	99	166	0
-2110	539210	1	2	470	12	Radka	Mihaličková	F			44	trenérka	Dolní Břežany	99	166	0
-2110	539210	1	2	470	13	Iztok	Toplak	M		MBA	47	realitní makléř	Dolní Břežany	99	166	0
-2110	539210	1	2	470	14	Rudolf	Mičan	M			66	důchodce	Dolní Břežany	99	80	0
-2110	539210	1	2	470	15	Jana	Šimečková	F	Ing.		56	v domácnosti	Dolní Břežany	99	166	0
-2110	539210	1	2	470	16	Ingrid	Hejkalová	F	Mgr.		40	manažer marketingu	Dolní Břežany	99	166	0
-2110	539210	1	2	470	17	Martina	Kršková	F	Bc.		23	studentka	Lhota	99	166	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	539210	1	1	768	1	Lubomír	Charvát	Ing.		42	finanční manager	Lhota	768	768	0	M
+2110	539210	1	2	470	1	Věslav	Michalik	Ing.	CSc.	51	starosta	Dolní Břežany	166	166	0	M
+2110	539210	1	1	768	2	Iva	Opletalová	PhDr.		73	sociolog	Dolní Břežany	99	768	0	F
+2110	539210	1	2	470	2	Lubomír	Havel			56	manažer/telekomunikace	Dolní Břežany	99	166	0	M
+2110	539210	1	1	768	3	Přemysl	Koutný	Ing.		62	technik	Dolní Břežany	99	768	0	M
+2110	539210	1	2	470	3	Jana	De Merlier	Ing.		36	OSVČ/dotační poradenství	Dolní Břežany	99	166	0	F
+2110	539210	1	1	768	4	Renáta	Fraňková	Mgr.		49	kulturolog	Dolní Břežany	99	768	0	F
+2110	539210	1	2	470	4	Zdeněk	Kovářík	Ing.		59	manažer/zahraniční obchod	Dolní Břežany	99	166	0	M
+2110	539210	1	1	768	5	Ivana	Šuranská			47	ředitelka mateřské školky	Dolní Břežany	99	768	0	F
+2110	539210	1	2	470	5	Markéta	Mayerová	JUDr.		47	svobodné povolání	Dolní Břežany	99	166	0	F
+2110	539210	1	1	768	6	Irena	Šlingrová			49	speditér	Dolní Břežany	99	768	0	F
+2110	539210	1	2	470	6	Petr	Prokop	Ing.	CSc., MBA	51	OSVČ/finance	Dolní Břežany	99	166	0	M
+2110	539210	1	1	768	7	Petr	Bryk			46	řidič	Dolní Břežany	768	768	0	M
+2110	539210	1	2	470	7	Jitka	Langová			44	OSVČ/obchod, služby	Dolní Břežany	99	166	0	F
+2110	539210	1	1	768	8	Hana	Kvízová	JUDr.		56	OSVČ	Dolní Břežany	99	768	0	F
+2110	539210	1	2	470	8	Radek	Motyka			46	obchodník	Zálepy	99	166	0	M
+2110	539210	1	1	768	9	Petr	Novák			58	úředník	Jarov	99	768	0	M
+2110	539210	1	2	470	9	Aleša	Jakub	Ing.		62	spolumajitel firmy	Dolní Břežany	99	166	0	M
+2110	539210	1	1	768	10	Andrea	Maderová	Bc.		38	finanční poradce	Dolní Břežany	99	768	0	F
+2110	539210	1	2	470	10	Jiří	Budil			45	soukromý řemeslník	Lhota	99	166	0	M
+2110	539210	1	1	768	11	Zdeňka	Schuhová			49	asistentka administrativa	Dolní Břežany	99	768	0	F
+2110	539210	1	2	470	11	Romana	Koubová			47	vedoucí provozu v ZŠ	Dolní Břežany	99	166	0	F
+2110	539210	1	1	768	12	Robert	Vytlačil			64	OSVČ	Dolní Břežany	99	768	0	M
+2110	539210	1	2	470	12	Radka	Mihaličková			44	trenérka	Dolní Břežany	99	166	0	F
+2110	539210	1	1	768	13	Václav	Renč	Ing.		64	manager letecké společnosti	Dolní Břežany	99	768	0	M
+2110	539210	1	2	470	13	Iztok	Toplak		MBA	47	realitní makléř	Dolní Břežany	99	166	0	M
+2110	539210	1	1	768	14	Vratislav	Budař	Ing.		47	manager	Lhota	99	768	0	M
+2110	539210	1	2	470	14	Rudolf	Mičan			66	důchodce	Dolní Břežany	99	80	0	M
+2110	539210	1	1	768	15	Martin	Šindelář			46	automechanik	Lhota	99	768	0	M
+2110	539210	1	2	470	15	Jana	Šimečková	Ing.		56	v domácnosti	Dolní Břežany	99	166	0	F
+2110	539210	1	1	768	16	Renáta	Míčaníková			46	OSVČ	Dolní Břežany	99	768	0	F
+2110	539210	1	2	470	16	Ingrid	Hejkalová	Mgr.		40	manažer marketingu	Dolní Břežany	99	166	0	F
+2110	539210	1	1	768	17	Markéta	Dipoldová			50	OSVČ	Jarov	99	768	0	F
+2110	539210	1	2	470	17	Martina	Kršková	Bc.		23	studentka	Lhota	99	166	0	F

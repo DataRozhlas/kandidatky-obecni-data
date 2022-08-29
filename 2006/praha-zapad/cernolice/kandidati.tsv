@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	539121	1	1	389	1	Milan	Macela	M	Ing.		58	úředník	Černolice	99	80	0
-2110	539121	1	1	389	2	Antonín	Zdeborský	M			35	živnostník	Černolice	53	53	0
-2110	539121	1	1	389	3	Miloslav	Dlouhý	M			59	zámečník	Černolice	99	80	0
-2110	539121	1	1	389	4	Pavel	Kamberský	M			30	truhlář	Černolice	99	80	0
-2110	539121	1	1	389	5	Miroslav	Zíma	M	Ing.		60	tajemník MěÚ	Černolice	53	53	0
-2110	539121	1	1	389	6	Veronika	Sládková	F			28	živnostník	Černolice	99	80	0
-2110	539121	1	1	389	7	Aleš	Macela	M			28	živnostník	Černolice	99	80	0
-2110	539121	1	1	389	8	Roman	Štěpánek	M			40	vedoucí dopravy	Černolice	53	53	0
-2110	539121	1	2	901	1	Pavel	Schmidt	M			44	manažer	Černolice	99	80	0
-2110	539121	1	2	901	2	Jiří	Michal	M			54	novinář	Černolice	99	80	0
-2110	539121	1	2	901	3	Renata	Štefková	F			34	fyzioterapeut	Černolice	99	80	0
-2110	539121	1	2	901	4	Lenka	Sgalitzerová	F			31	účetní	Černolice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	539121	1	1	389	1	Milan	Macela	Ing.		58	úředník	Černolice	99	80	0	M
+2110	539121	1	2	901	1	Pavel	Schmidt			44	manažer	Černolice	99	80	0	M
+2110	539121	1	1	389	2	Antonín	Zdeborský			35	živnostník	Černolice	53	53	0	M
+2110	539121	1	2	901	2	Jiří	Michal			54	novinář	Černolice	99	80	0	M
+2110	539121	1	1	389	3	Miloslav	Dlouhý			59	zámečník	Černolice	99	80	0	M
+2110	539121	1	2	901	3	Renata	Štefková			34	fyzioterapeut	Černolice	99	80	0	F
+2110	539121	1	1	389	4	Pavel	Kamberský			30	truhlář	Černolice	99	80	0	M
+2110	539121	1	2	901	4	Lenka	Sgalitzerová			31	účetní	Černolice	99	80	0	F
+2110	539121	1	1	389	5	Miroslav	Zíma	Ing.		60	tajemník MěÚ	Černolice	53	53	0	M
+2110	539121	1	1	389	6	Veronika	Sládková			28	živnostník	Černolice	99	80	0	F
+2110	539121	1	1	389	7	Aleš	Macela			28	živnostník	Černolice	99	80	0	M
+2110	539121	1	1	389	8	Roman	Štěpánek			40	vedoucí dopravy	Černolice	53	53	0	M

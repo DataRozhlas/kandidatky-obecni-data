@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7202	592200	1	1	1	1	František	Pochylý	M	Ing.		53	seřizovač	Hradčovice	1	1	0
-7202	592200	1	1	1	2	Tomáš	Hřib	M			33	technolog	Lhotka	99	1	0
-7202	592200	1	1	1	3	Vojtěch	Šrámek	M	Ing.		37	projektant	Hradčovice	99	1	0
-7202	592200	1	1	1	4	Vendula	Daňková	F	Ing.		31	vedoucí sekretariátu ředitele	Lhotka	99	1	0
-7202	592200	1	1	1	5	Josef	Fiksel	M			39	samostatně hospodařící zemědělec	Hradčovice	99	1	0
-7202	592200	1	1	1	6	Kamil	Koníček	M			37	státní zaměstnanec	Lhotka	99	1	0
-7202	592200	1	1	1	7	Jiří	Malina	M	Bc.		30	technolog	Hradčovice	99	1	0
-7202	592200	1	1	1	8	Pavel	Šišák	M	Ing.		53	bytový správce	Lhotka	1	1	0
-7202	592200	1	1	1	9	Stanislav	Duháň	M			57	stavbyvedoucí	Hradčovice	1	1	0
-7202	592200	1	1	1	10	Jiří	Tihelka	M			49	brusič	Hradčovice	1	1	0
-7202	592200	1	1	1	11	Karel	Bartoš	M			55	soukromý podnikatel	Hradčovice	99	1	0
-7202	592200	1	2	901	1	Jan	Popelka	M	Doc. RSDr.	CSc.	61	státní zaměstnanec	Hradčovice	99	80	0
-7202	592200	1	2	901	2	Josef	Hruboš	M	Mgr.		42	učitel	Hradčovice	99	80	0
-7202	592200	1	2	901	3	Radek	Šišák	M			44	prodejní manager	Lhotka	99	80	0
-7202	592200	1	2	901	4	Vladimír	Hlaváč	M			50	řidič	Hradčovice	99	80	0
-7202	592200	1	2	901	5	František	Macek	M	Ing.		44	vedoucí provozu	Hradčovice	99	80	0
-7202	592200	1	2	901	6	Antonín	Ondrůšek	M			34	podnikatel	Hradčovice	99	80	0
-7202	592200	1	2	901	7	Pavel	Moštěk	M	Ing.		32	analytik	Hradčovice	99	80	0
-7202	592200	1	2	901	8	Martin	Čuda	M	Ing.		42	ekonom	Hradčovice	99	80	0
-7202	592200	1	2	901	9	Jan	Weiser	M	Ing.		43	učitel	Hradčovice	99	80	0
-7202	592200	1	2	901	10	Roman	Dočekal	M			27	podnikatel	Lhotka	99	80	0
-7202	592200	1	2	901	11	Luděk	Slunečko	M			44	podnikatel	Hradčovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7202	592200	1	1	1	1	František	Pochylý	Ing.		53	seřizovač	Hradčovice	1	1	0	M
+7202	592200	1	2	901	1	Jan	Popelka	Doc. RSDr.	CSc.	61	státní zaměstnanec	Hradčovice	99	80	0	M
+7202	592200	1	1	1	2	Tomáš	Hřib			33	technolog	Lhotka	99	1	0	M
+7202	592200	1	2	901	2	Josef	Hruboš	Mgr.		42	učitel	Hradčovice	99	80	0	M
+7202	592200	1	1	1	3	Vojtěch	Šrámek	Ing.		37	projektant	Hradčovice	99	1	0	M
+7202	592200	1	2	901	3	Radek	Šišák			44	prodejní manager	Lhotka	99	80	0	M
+7202	592200	1	1	1	4	Vendula	Daňková	Ing.		31	vedoucí sekretariátu ředitele	Lhotka	99	1	0	F
+7202	592200	1	2	901	4	Vladimír	Hlaváč			50	řidič	Hradčovice	99	80	0	M
+7202	592200	1	1	1	5	Josef	Fiksel			39	samostatně hospodařící zemědělec	Hradčovice	99	1	0	M
+7202	592200	1	2	901	5	František	Macek	Ing.		44	vedoucí provozu	Hradčovice	99	80	0	M
+7202	592200	1	1	1	6	Kamil	Koníček			37	státní zaměstnanec	Lhotka	99	1	0	M
+7202	592200	1	2	901	6	Antonín	Ondrůšek			34	podnikatel	Hradčovice	99	80	0	M
+7202	592200	1	1	1	7	Jiří	Malina	Bc.		30	technolog	Hradčovice	99	1	0	M
+7202	592200	1	2	901	7	Pavel	Moštěk	Ing.		32	analytik	Hradčovice	99	80	0	M
+7202	592200	1	1	1	8	Pavel	Šišák	Ing.		53	bytový správce	Lhotka	1	1	0	M
+7202	592200	1	2	901	8	Martin	Čuda	Ing.		42	ekonom	Hradčovice	99	80	0	M
+7202	592200	1	1	1	9	Stanislav	Duháň			57	stavbyvedoucí	Hradčovice	1	1	0	M
+7202	592200	1	2	901	9	Jan	Weiser	Ing.		43	učitel	Hradčovice	99	80	0	M
+7202	592200	1	1	1	10	Jiří	Tihelka			49	brusič	Hradčovice	1	1	0	M
+7202	592200	1	2	901	10	Roman	Dočekal			27	podnikatel	Lhotka	99	80	0	M
+7202	592200	1	1	1	11	Karel	Bartoš			55	soukromý podnikatel	Hradčovice	99	1	0	M
+7202	592200	1	2	901	11	Luděk	Slunečko			44	podnikatel	Hradčovice	99	80	0	M

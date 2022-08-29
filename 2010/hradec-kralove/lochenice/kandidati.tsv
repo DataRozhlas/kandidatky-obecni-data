@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	570311	1	1	901	1	Karol	Kompas	M			61	pracovník samosprávy obce	Lochenice	99	80	0
-5201	570311	1	1	901	2	Jaroslav	Hloušek	M			56	dělník	Lochenice	99	80	0
-5201	570311	1	1	901	3	Jaroslav	Jaroš	M			57	obchodník	Lochenice	99	80	0
-5201	570311	1	1	901	4	Roman	Polák	M	Ing.		36	soukromý zemědělec	Lochenice	99	80	0
-5201	570311	1	1	901	5	Iva	Dvořáková	F			28	asistentka	Lochenice	99	80	0
-5201	570311	1	1	901	6	Miroslav	Lejp	M			50	soukromý podnikatel	Lochenice	99	80	0
-5201	570311	1	2	902	1	Miloš	Nepilý	M			44	nástrojař	Lochenice	53	80	0
-5201	570311	1	2	902	2	Martin	Bouček	M	Mgr.		40	advokát	Lochenice	99	80	0
-5201	570311	1	2	902	3	Ladislava	Hlavatá	F			50	domovnice v MŠ	Lochenice	99	80	0
-5201	570311	1	2	902	4	Jitka	Kulhánková	F	Mgr.		34	referent odboru školství	Lochenice	99	80	0
-5201	570311	1	2	902	5	Vladimír	Klementa	M			50	soukromý podnikatel	Lochenice	99	80	0
-5201	570311	1	2	902	6	Erik	Kompas	M			37	stavbyvedoucí	Lochenice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	570311	1	1	901	1	Karol	Kompas			61	pracovník samosprávy obce	Lochenice	99	80	0	M
+5201	570311	1	2	902	1	Miloš	Nepilý			44	nástrojař	Lochenice	53	80	0	M
+5201	570311	1	1	901	2	Jaroslav	Hloušek			56	dělník	Lochenice	99	80	0	M
+5201	570311	1	2	902	2	Martin	Bouček	Mgr.		40	advokát	Lochenice	99	80	0	M
+5201	570311	1	1	901	3	Jaroslav	Jaroš			57	obchodník	Lochenice	99	80	0	M
+5201	570311	1	2	902	3	Ladislava	Hlavatá			50	domovnice v MŠ	Lochenice	99	80	0	F
+5201	570311	1	1	901	4	Roman	Polák	Ing.		36	soukromý zemědělec	Lochenice	99	80	0	M
+5201	570311	1	2	902	4	Jitka	Kulhánková	Mgr.		34	referent odboru školství	Lochenice	99	80	0	F
+5201	570311	1	1	901	5	Iva	Dvořáková			28	asistentka	Lochenice	99	80	0	F
+5201	570311	1	2	902	5	Vladimír	Klementa			50	soukromý podnikatel	Lochenice	99	80	0	M
+5201	570311	1	1	901	6	Miroslav	Lejp			50	soukromý podnikatel	Lochenice	99	80	0	M
+5201	570311	1	2	902	6	Erik	Kompas			37	stavbyvedoucí	Lochenice	99	80	0	M

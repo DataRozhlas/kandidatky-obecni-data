@@ -1,36 +1,36 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	542334	1	1	901	1	Michal	Drábek	M			29	firemní poradce	Rynholec	99	80	0
-2112	542334	1	1	901	2	Milan	Dvořák	M			37	státní zaměstnanec	Rynholec	99	80	0
-2112	542334	1	1	901	3	Petr	Hamouz	M			38	řídící pracovník	Rynholec	99	80	0
-2112	542334	1	1	901	4	Jiří	Šaroch	M			42	živnostník	Rynholec	99	80	0
-2112	542334	1	1	901	5	Zdeněk	Ledvinka	M			38	dělník	Rynholec	99	80	0
-2112	542334	1	1	901	6	Tomáš	Kešner	M			41	živnostník	Rynholec	99	80	0
-2112	542334	1	1	901	7	Jiří	Maršál	M			32	zedník	Rynholec	99	80	0
-2112	542334	1	1	901	8	Vladimír	Novák	M	MgA.		32	divadelní režisér	Rynholec	99	80	0
-2112	542334	1	1	901	9	Václava	Tichá	F			31	státní zaměstnanec	Rynholec	99	80	0
-2112	542334	1	2	902	1	Zdeněk	Švůger	M	Ing.		59	OSVČ	Rynholec	99	80	0
-2112	542334	1	2	902	2	Pavel	Halada	M	Ing.		45	podnikatel	Rynholec	99	80	0
-2112	542334	1	2	902	3	Jiří	Lucký	M			33	státní zaměstnanec	Rynholec	99	80	0
-2112	542334	1	2	902	4	Pavel	Nedvěd	M			44	řidič	Rynholec	99	80	0
-2112	542334	1	2	902	5	Stanislav	Švadlenka	M			54	OSVČ	Rynholec	99	80	0
-2112	542334	1	2	902	6	Alena	Pokorná	F			31	státní zaměstnanec	Rynholec	99	80	0
-2112	542334	1	2	902	7	Jitka	Frolíková	F	Ing.		34	finanční poradce	Rynholec	99	80	0
-2112	542334	1	2	902	8	Petr	Stádník	M			32	IT administrátor	Rynholec	99	80	0
-2112	542334	1	2	902	9	Jaroslav	Kotouč	M			36	podnikatel	Rynholec	99	80	0
-2112	542334	1	3	903	1	Stanislav	Kočí	M			38	vedoucí výroby	Rynholec	99	80	0
-2112	542334	1	3	903	2	Petr	Springer	M			36	kontrolor	Rynholec	99	80	0
-2112	542334	1	3	903	3	Petr	Macháček	M			32	státní zaměstnanec	Rynholec	99	80	0
-2112	542334	1	3	903	4	Petra	Hlavatá	F			35	mateřská dovolená	Rynholec	99	80	0
-2112	542334	1	3	903	5	Barbora	Zímová	F			32	mateřská dovolená	Rynholec	99	80	0
-2112	542334	1	3	903	6	David	Svojš	M	Ing.		32	technik	Rynholec	99	80	0
-2112	542334	1	3	903	7	Tomáš	Valeš	M			36	kuchař	Rynholec	99	80	0
-2112	542334	1	3	903	8	Jan	Zázvorka	M			36	technik	Rynholec	99	80	0
-2112	542334	1	3	903	9	Jitka	Turnerová	F			48	mateřská dovolená	Rynholec	99	80	0
-2112	542334	1	4	47	1	Jaromír	Dyntar	M			57	technik	Rynholec	99	47	0
-2112	542334	1	4	47	2	Lubomír	Ondrůj	M			50	energetik	Rynholec	99	47	0
-2112	542334	1	4	47	3	Irena	Barochová	F			56	nezaměstnaná	Rynholec	47	47	0
-2112	542334	1	4	47	4	Marie	Šípková	F			64	důchodce	Rynholec	99	47	0
-2112	542334	1	4	47	5	Eva	Milfaitová	F			61	důchodce	Rynholec	99	47	0
-2112	542334	1	4	47	6	Jaroslav	Prokeš	M			53	nezaměstnaný	Rynholec	99	47	0
-2112	542334	1	4	47	7	Jan	Kešner	M			65	důchodce	Rynholec	99	47	0
-2112	542334	1	4	47	8	Monika	Adamcová	F			41	důchodce	Rynholec	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	542334	1	1	901	1	Michal	Drábek			29	firemní poradce	Rynholec	99	80	0	M
+2112	542334	1	2	902	1	Zdeněk	Švůger	Ing.		59	OSVČ	Rynholec	99	80	0	M
+2112	542334	1	3	903	1	Stanislav	Kočí			38	vedoucí výroby	Rynholec	99	80	0	M
+2112	542334	1	4	47	1	Jaromír	Dyntar			57	technik	Rynholec	99	47	0	M
+2112	542334	1	1	901	2	Milan	Dvořák			37	státní zaměstnanec	Rynholec	99	80	0	M
+2112	542334	1	2	902	2	Pavel	Halada	Ing.		45	podnikatel	Rynholec	99	80	0	M
+2112	542334	1	3	903	2	Petr	Springer			36	kontrolor	Rynholec	99	80	0	M
+2112	542334	1	4	47	2	Lubomír	Ondrůj			50	energetik	Rynholec	99	47	0	M
+2112	542334	1	1	901	3	Petr	Hamouz			38	řídící pracovník	Rynholec	99	80	0	M
+2112	542334	1	2	902	3	Jiří	Lucký			33	státní zaměstnanec	Rynholec	99	80	0	M
+2112	542334	1	3	903	3	Petr	Macháček			32	státní zaměstnanec	Rynholec	99	80	0	M
+2112	542334	1	4	47	3	Irena	Barochová			56	nezaměstnaná	Rynholec	47	47	0	F
+2112	542334	1	1	901	4	Jiří	Šaroch			42	živnostník	Rynholec	99	80	0	M
+2112	542334	1	2	902	4	Pavel	Nedvěd			44	řidič	Rynholec	99	80	0	M
+2112	542334	1	3	903	4	Petra	Hlavatá			35	mateřská dovolená	Rynholec	99	80	0	F
+2112	542334	1	4	47	4	Marie	Šípková			64	důchodce	Rynholec	99	47	0	F
+2112	542334	1	1	901	5	Zdeněk	Ledvinka			38	dělník	Rynholec	99	80	0	M
+2112	542334	1	2	902	5	Stanislav	Švadlenka			54	OSVČ	Rynholec	99	80	0	M
+2112	542334	1	3	903	5	Barbora	Zímová			32	mateřská dovolená	Rynholec	99	80	0	F
+2112	542334	1	4	47	5	Eva	Milfaitová			61	důchodce	Rynholec	99	47	0	F
+2112	542334	1	1	901	6	Tomáš	Kešner			41	živnostník	Rynholec	99	80	0	M
+2112	542334	1	2	902	6	Alena	Pokorná			31	státní zaměstnanec	Rynholec	99	80	0	F
+2112	542334	1	3	903	6	David	Svojš	Ing.		32	technik	Rynholec	99	80	0	M
+2112	542334	1	4	47	6	Jaroslav	Prokeš			53	nezaměstnaný	Rynholec	99	47	0	M
+2112	542334	1	1	901	7	Jiří	Maršál			32	zedník	Rynholec	99	80	0	M
+2112	542334	1	2	902	7	Jitka	Frolíková	Ing.		34	finanční poradce	Rynholec	99	80	0	F
+2112	542334	1	3	903	7	Tomáš	Valeš			36	kuchař	Rynholec	99	80	0	M
+2112	542334	1	4	47	7	Jan	Kešner			65	důchodce	Rynholec	99	47	0	M
+2112	542334	1	1	901	8	Vladimír	Novák	MgA.		32	divadelní režisér	Rynholec	99	80	0	M
+2112	542334	1	2	902	8	Petr	Stádník			32	IT administrátor	Rynholec	99	80	0	M
+2112	542334	1	3	903	8	Jan	Zázvorka			36	technik	Rynholec	99	80	0	M
+2112	542334	1	4	47	8	Monika	Adamcová			41	důchodce	Rynholec	99	47	0	F
+2112	542334	1	1	901	9	Václava	Tichá			31	státní zaměstnanec	Rynholec	99	80	0	F
+2112	542334	1	2	902	9	Jaroslav	Kotouč			36	podnikatel	Rynholec	99	80	0	M
+2112	542334	1	3	903	9	Jitka	Turnerová			48	mateřská dovolená	Rynholec	99	80	0	F

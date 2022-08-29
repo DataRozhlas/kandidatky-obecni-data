@@ -1,8 +1,8 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	532096	1	1	901	1	Jiří	Bechyně	M	Ing.		35	projektový manažer	Borovnice	99	80	0
-2101	532096	1	1	901	2	Jiří	Kletečka	M			42	školník	Borovnice	99	80	0
-2101	532096	1	1	901	3	František	Martínek	M	Bc.		42	Policie ČR	Borovnice	99	80	0
-2101	532096	1	1	901	4	Petr	Proschek	M	Mgr.		45	vedoucí filiálky	Borovnice	99	80	0
-2101	532096	1	1	901	5	Lenka	Proschková	F	Mgr. Bc.		46	ředitelka ZŠ	Borovnice	99	80	0
-2101	532096	1	1	901	6	Jan	Růžek	M			23	technik	Borovnice	99	80	0
-2101	532096	1	1	901	7	Josef	Růžek	M	Mgr.		60	učitel	Borovnice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	532096	1	1	901	1	Jiří	Bechyně	Ing.		35	projektový manažer	Borovnice	99	80	0	M
+2101	532096	1	1	901	2	Jiří	Kletečka			42	školník	Borovnice	99	80	0	M
+2101	532096	1	1	901	3	František	Martínek	Bc.		42	Policie ČR	Borovnice	99	80	0	M
+2101	532096	1	1	901	4	Petr	Proschek	Mgr.		45	vedoucí filiálky	Borovnice	99	80	0	M
+2101	532096	1	1	901	5	Lenka	Proschková	Mgr. Bc.		46	ředitelka ZŠ	Borovnice	99	80	0	F
+2101	532096	1	1	901	6	Jan	Růžek			23	technik	Borovnice	99	80	0	M
+2101	532096	1	1	901	7	Josef	Růžek	Mgr.		60	učitel	Borovnice	99	80	0	M

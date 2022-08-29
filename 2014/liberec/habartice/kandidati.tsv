@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5103	564036	1	1	902	1	Lukáš	VOCÁSEK	M	Bc.		24	student	Habartice	99	80	0
-5103	564036	1	1	902	2	Miroslava	PŘENOSILOVÁ	F			38	dělnice	Habartice	99	80	0
-5103	564036	1	1	902	3	Naďa	BERANOVÁ	F			34	mateřská dovolená	Habartice	99	80	0
-5103	564036	1	1	902	4	Milada	MADZIOVÁ	F			58	nezaměstnaná	Habartice	99	80	0
-5103	564036	1	1	902	5	Eva	LEDLOVÁ	F			38	dělnice	Habartice	99	80	0
-5103	564036	1	1	902	6	David	HYNEČEK	M			32	dělník	Habartice	99	80	0
-5103	564036	1	1	902	7	Zdeněk	FRIC	M			39	dřevorubec	Habartice	99	80	0
-5103	564036	1	1	902	8	Jaroslav	KLUMPAR	M			50	dělník	Habartice	99	80	0
-5103	564036	1	1	902	9	Renata	NOVÁKOVÁ	F			42	operátorka výroby	Habartice	99	80	0
-5103	564036	1	2	903	1	Jan	Velzel	M			44	státní zaměstnanec	Habartice	99	80	0
-5103	564036	1	2	903	2	Miroslav	Polák	M			67	důchodce	Habartice	99	80	0
-5103	564036	1	2	903	3	Jiří	Bouček	M			44	dělník	Habartice	7	80	0
-5103	564036	1	2	903	4	Josef	Zavoral	M			33	dělník	Habartice	99	80	0
-5103	564036	1	2	903	5	Jan	Velzel	M			21	student	Habartice	99	80	0
-5103	564036	1	2	903	6	Martin	Sedláček	M			29	dělník	Habartice	99	80	0
-5103	564036	1	2	903	7	Olga	Hradiská	F			53	dělnice	Habartice	99	80	0
-5103	564036	1	2	903	8	Robert	Jedlan	M			38	dělník	Habartice	99	80	0
-5103	564036	1	2	903	9	Vlastimil	Zavoral	M			30	dělník	Habartice	99	80	0
-5103	564036	1	3	901	1	Stanislav	Briestenský	M	Ing. Bc.		55	státní zaměstnanec	Habartice	99	80	0
-5103	564036	1	3	901	2	František	KRYŠPÍN	M			62	starosta	Habartice	703	80	0
-5103	564036	1	3	901	3	Arnošt	BERAN	M			63	celník ve výslužbě	Habartice	99	80	0
-5103	564036	1	3	901	4	Milan	SVOBODA	M			39	dělník	Habartice	99	80	0
-5103	564036	1	3	901	5	Petr	RABIŇÁK	M			46	dělník	Habartice	99	80	0
-5103	564036	1	3	901	6	Miroslav	FEJFAR	M			59	invalidní důchodce	Habartice	99	80	0
-5103	564036	1	3	901	7	Zuzana	BAŘINOVÁ	F			53	učitelka	Habartice	99	80	0
-5103	564036	1	3	901	8	Hana	KRUBNEROVÁ	F			64	důchodkyně	Habartice	99	80	0
-5103	564036	1	3	901	9	Libuše	VELZELOVÁ	F			41	účetní	Habartice	99	80	0
-5103	564036	1	4	904	1	Filip	Demčák	M			35	řidič	Habartice	99	80	0
-5103	564036	1	4	904	2	Petr	Roubal	M			41	nezaměstnaný	Habartice	99	80	0
-5103	564036	1	4	904	3	Pavel	Kupec	M			36	operátor	Habartice	99	80	0
-5103	564036	1	4	904	4	Tomáš	Svoboda	M			33	dělník	Habartice	99	80	0
-5103	564036	1	4	904	5	Marek	Přichystal	M			45	podnikatel	Habartice	99	80	0
-5103	564036	1	4	904	6	Tomáš	Kalinič	M			34	technik	Habartice	99	80	0
-5103	564036	1	4	904	7	Věra	Stříbrná	F			66	důchodkyně	Habartice	99	80	0
-5103	564036	1	4	904	8	Tomáš	Richtr	M			31	celník	Habartice	99	80	0
-5103	564036	1	4	904	9	Zdeněk	Richtr	M			38	směnový kontrolor	Habartice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5103	564036	1	1	902	1	Lukáš	VOCÁSEK	Bc.		24	student	Habartice	99	80	0	M
+5103	564036	1	2	903	1	Jan	Velzel			44	státní zaměstnanec	Habartice	99	80	0	M
+5103	564036	1	3	901	1	Stanislav	Briestenský	Ing. Bc.		55	státní zaměstnanec	Habartice	99	80	0	M
+5103	564036	1	4	904	1	Filip	Demčák			35	řidič	Habartice	99	80	0	M
+5103	564036	1	1	902	2	Miroslava	PŘENOSILOVÁ			38	dělnice	Habartice	99	80	0	F
+5103	564036	1	2	903	2	Miroslav	Polák			67	důchodce	Habartice	99	80	0	M
+5103	564036	1	3	901	2	František	KRYŠPÍN			62	starosta	Habartice	703	80	0	M
+5103	564036	1	4	904	2	Petr	Roubal			41	nezaměstnaný	Habartice	99	80	0	M
+5103	564036	1	1	902	3	Naďa	BERANOVÁ			34	mateřská dovolená	Habartice	99	80	0	F
+5103	564036	1	2	903	3	Jiří	Bouček			44	dělník	Habartice	7	80	0	M
+5103	564036	1	3	901	3	Arnošt	BERAN			63	celník ve výslužbě	Habartice	99	80	0	M
+5103	564036	1	4	904	3	Pavel	Kupec			36	operátor	Habartice	99	80	0	M
+5103	564036	1	1	902	4	Milada	MADZIOVÁ			58	nezaměstnaná	Habartice	99	80	0	F
+5103	564036	1	2	903	4	Josef	Zavoral			33	dělník	Habartice	99	80	0	M
+5103	564036	1	3	901	4	Milan	SVOBODA			39	dělník	Habartice	99	80	0	M
+5103	564036	1	4	904	4	Tomáš	Svoboda			33	dělník	Habartice	99	80	0	M
+5103	564036	1	1	902	5	Eva	LEDLOVÁ			38	dělnice	Habartice	99	80	0	F
+5103	564036	1	2	903	5	Jan	Velzel			21	student	Habartice	99	80	0	M
+5103	564036	1	3	901	5	Petr	RABIŇÁK			46	dělník	Habartice	99	80	0	M
+5103	564036	1	4	904	5	Marek	Přichystal			45	podnikatel	Habartice	99	80	0	M
+5103	564036	1	1	902	6	David	HYNEČEK			32	dělník	Habartice	99	80	0	M
+5103	564036	1	2	903	6	Martin	Sedláček			29	dělník	Habartice	99	80	0	M
+5103	564036	1	3	901	6	Miroslav	FEJFAR			59	invalidní důchodce	Habartice	99	80	0	M
+5103	564036	1	4	904	6	Tomáš	Kalinič			34	technik	Habartice	99	80	0	M
+5103	564036	1	1	902	7	Zdeněk	FRIC			39	dřevorubec	Habartice	99	80	0	M
+5103	564036	1	2	903	7	Olga	Hradiská			53	dělnice	Habartice	99	80	0	F
+5103	564036	1	3	901	7	Zuzana	BAŘINOVÁ			53	učitelka	Habartice	99	80	0	F
+5103	564036	1	4	904	7	Věra	Stříbrná			66	důchodkyně	Habartice	99	80	0	F
+5103	564036	1	1	902	8	Jaroslav	KLUMPAR			50	dělník	Habartice	99	80	0	M
+5103	564036	1	2	903	8	Robert	Jedlan			38	dělník	Habartice	99	80	0	M
+5103	564036	1	3	901	8	Hana	KRUBNEROVÁ			64	důchodkyně	Habartice	99	80	0	F
+5103	564036	1	4	904	8	Tomáš	Richtr			31	celník	Habartice	99	80	0	M
+5103	564036	1	1	902	9	Renata	NOVÁKOVÁ			42	operátorka výroby	Habartice	99	80	0	F
+5103	564036	1	2	903	9	Vlastimil	Zavoral			30	dělník	Habartice	99	80	0	M
+5103	564036	1	3	901	9	Libuše	VELZELOVÁ			41	účetní	Habartice	99	80	0	F
+5103	564036	1	4	904	9	Zdeněk	Richtr			38	směnový kontrolor	Habartice	99	80	0	M

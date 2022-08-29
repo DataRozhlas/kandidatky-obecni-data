@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2102	531308	1	1	902	1	Stanislav	Žáček	M			44	OSVČ	Jivina	99	80	A
-2102	531308	1	1	902	2	František	Radouš	M	Bc.		57	bezpečnostní pracovník	Jivina	99	80	A
-2102	531308	1	1	902	3	Radka	Pospíšilová	F			27	mateřská dovolená	Jivina	99	80	A
-2102	531308	1	1	902	4	Alexej	Kryžanovský	M			37	řidič	Jivina	99	80	A
-2102	531308	1	2	901	1	Václav	Ungr	M	Ing.		40	vedoucí měření a TP	Jivina	99	80	A
-2102	531308	1	2	901	2	Václav	Hrabák	M			38	řidič, účetní, jednatel	Jivina	99	80	A
-2102	531308	1	2	901	3	Luboš	Ungr	M			37	CNC operátor	Jivina	99	80	A
-2102	531308	1	2	901	4	Jiří	Štochl	M			49	svářeč	Jivina	99	80	A
-2102	531308	1	2	901	5	Martin	Sazama	M	Bc.		40	vrchní inspektor PČR KRP-P	Jivina	99	80	A
-2102	531308	1	2	901	6	Lucie	Váchová	F	Mgr.		36	státní úřednice	Jivina	99	80	A
-2102	531308	1	2	901	7	Petr	Purket	M			49	OSVČ - zedník	Jivina	99	80	A
-2102	531308	1	2	901	8	Stanislav	Křížek	M	Ing.		28	agronom	Jivina	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2102	531308	1	1	902	1	Stanislav	Žáček			44	OSVČ	Jivina	99	80	A	M
+2102	531308	1	2	901	1	Václav	Ungr	Ing.		40	vedoucí měření a TP	Jivina	99	80	A	M
+2102	531308	1	1	902	2	František	Radouš	Bc.		57	bezpečnostní pracovník	Jivina	99	80	A	M
+2102	531308	1	2	901	2	Václav	Hrabák			38	řidič, účetní, jednatel	Jivina	99	80	A	M
+2102	531308	1	1	902	3	Radka	Pospíšilová			27	mateřská dovolená	Jivina	99	80	A	F
+2102	531308	1	2	901	3	Luboš	Ungr			37	CNC operátor	Jivina	99	80	A	M
+2102	531308	1	1	902	4	Alexej	Kryžanovský			37	řidič	Jivina	99	80	A	M
+2102	531308	1	2	901	4	Jiří	Štochl			49	svářeč	Jivina	99	80	A	M
+2102	531308	1	2	901	5	Martin	Sazama	Bc.		40	vrchní inspektor PČR KRP-P	Jivina	99	80	A	M
+2102	531308	1	2	901	6	Lucie	Váchová	Mgr.		36	státní úřednice	Jivina	99	80	A	F
+2102	531308	1	2	901	7	Petr	Purket			49	OSVČ - zedník	Jivina	99	80	A	M
+2102	531308	1	2	901	8	Stanislav	Křížek	Ing.		28	agronom	Jivina	99	80	A	M

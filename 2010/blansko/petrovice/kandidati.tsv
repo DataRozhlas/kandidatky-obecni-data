@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	582212	1	1	902	1	Zdeněk	Kakáč	M			42	řidič	Petrovice	99	80	0
-6201	582212	1	1	902	2	Jiří	Hrnčíř	M			32	řidič	Petrovice	99	80	0
-6201	582212	1	1	902	3	Pavel	Manoušek	M			42	operátor CBS	Petrovice	99	80	0
-6201	582212	1	1	902	4	Eva	Součková	F			59	operátorka	Petrovice	99	80	0
-6201	582212	1	1	902	5	Jan	Filouš	M			24	projektant	Petrovice	99	80	0
-6201	582212	1	1	902	6	Zdeněk	Hruška	M			54	řidič	Petrovice	99	80	0
-6201	582212	1	1	902	7	Marek	Kakáč	M			18	student	Petrovice	99	80	0
-6201	582212	1	1	902	8	Dana	Filoušová	F			45	vedoucí prodejny	Petrovice	99	80	0
-6201	582212	1	1	902	9	Petr	Kučera	M			33	technolog	Petrovice	99	80	0
-6201	582212	1	2	901	1	Roman	Skoták	M			24	elektromechanik	Petrovice	99	80	0
-6201	582212	1	2	901	2	Josef	Matuška	M			21	živnostník	Petrovice	99	80	0
-6201	582212	1	2	901	3	Pavel	Vintr	M			21	vysokoškolský student	Petrovice	99	80	0
-6201	582212	1	2	901	4	Vlasta	Hrušková	F			35	nezaměstnaná	Petrovice	99	80	0
-6201	582212	1	2	901	5	Michal	Žižan	M			25	řidič náklad. dopravy	Petrovice	99	80	0
-6201	582212	1	2	901	6	Soňa	Novohradská	F			36	skladnice	Petrovice	99	80	0
-6201	582212	1	2	901	7	Tomáš	Matuška	M			26	technik	Petrovice	99	80	0
-6201	582212	1	2	901	8	Jiří	Vintr	M			20	automechanik	Petrovice	99	80	0
-6201	582212	1	2	901	9	Karel	Kolář	M			30	živnostník	Petrovice	99	80	0
-6201	582212	1	3	144	1	Vladimír	Paulík	M			43	starosta obce	Petrovice	144	144	0
-6201	582212	1	3	144	2	Anna	Dvořáčková	F			50	místostarostka obce	Petrovice	99	144	0
-6201	582212	1	3	144	3	Jaroslav	Vintr	M			46	autobusová doprava	Petrovice	144	144	0
-6201	582212	1	3	144	4	Lenka	Hanáková	F			21	učitelka	Petrovice	99	144	0
-6201	582212	1	3	144	5	Jana	Štoudková	F			35	pracovník MŠ	Petrovice	99	144	0
-6201	582212	1	3	144	6	Josef	Šťastný	M			36	živnostník	Petrovice	99	144	0
-6201	582212	1	3	144	7	Miloš	Nejezchleb	M			36	lesní dělník	Petrovice	99	144	0
-6201	582212	1	3	144	8	Milan	Němec	M			42	servisní technik	Petrovice	99	144	0
-6201	582212	1	3	144	9	Antonín	Šejnost	M			66	zdravotní doprava	Petrovice	99	144	0
-6201	582212	1	4	7	1	Antonín	Filouš	M			46	osoba sam. výdělečně činná	Petrovice	99	7	0
-6201	582212	1	4	7	2	Josef	Souček	M			56	stolař	Petrovice	99	7	0
-6201	582212	1	4	7	3	Lenka	Hrnčířová	F			35	státní zaměstnanec	Petrovice	99	7	0
-6201	582212	1	4	7	4	Martin	Musil	M			29	osoba sam. výdělečně činná	Petrovice	99	7	0
-6201	582212	1	4	7	5	Radislav	Beránek	M			44	osoba sam.výdělečně činná	Petrovice	99	7	0
-6201	582212	1	4	7	6	Leona	Dvořáčková	F			40	projektová manažerka	Petrovice	99	7	0
-6201	582212	1	4	7	7	Jaroslav	Fiala	M			38	řidič	Petrovice	99	7	0
-6201	582212	1	4	7	8	Ivo	Hamerský	M			31	údržbář	Petrovice	99	7	0
-6201	582212	1	4	7	9	Zdenka	Kakáčová	F			40	asistentka advokátní kanceláře	Petrovice	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	582212	1	1	902	1	Zdeněk	Kakáč			42	řidič	Petrovice	99	80	0	M
+6201	582212	1	2	901	1	Roman	Skoták			24	elektromechanik	Petrovice	99	80	0	M
+6201	582212	1	3	144	1	Vladimír	Paulík			43	starosta obce	Petrovice	144	144	0	M
+6201	582212	1	4	7	1	Antonín	Filouš			46	osoba sam. výdělečně činná	Petrovice	99	7	0	M
+6201	582212	1	1	902	2	Jiří	Hrnčíř			32	řidič	Petrovice	99	80	0	M
+6201	582212	1	2	901	2	Josef	Matuška			21	živnostník	Petrovice	99	80	0	M
+6201	582212	1	3	144	2	Anna	Dvořáčková			50	místostarostka obce	Petrovice	99	144	0	F
+6201	582212	1	4	7	2	Josef	Souček			56	stolař	Petrovice	99	7	0	M
+6201	582212	1	1	902	3	Pavel	Manoušek			42	operátor CBS	Petrovice	99	80	0	M
+6201	582212	1	2	901	3	Pavel	Vintr			21	vysokoškolský student	Petrovice	99	80	0	M
+6201	582212	1	3	144	3	Jaroslav	Vintr			46	autobusová doprava	Petrovice	144	144	0	M
+6201	582212	1	4	7	3	Lenka	Hrnčířová			35	státní zaměstnanec	Petrovice	99	7	0	F
+6201	582212	1	1	902	4	Eva	Součková			59	operátorka	Petrovice	99	80	0	F
+6201	582212	1	2	901	4	Vlasta	Hrušková			35	nezaměstnaná	Petrovice	99	80	0	F
+6201	582212	1	3	144	4	Lenka	Hanáková			21	učitelka	Petrovice	99	144	0	F
+6201	582212	1	4	7	4	Martin	Musil			29	osoba sam. výdělečně činná	Petrovice	99	7	0	M
+6201	582212	1	1	902	5	Jan	Filouš			24	projektant	Petrovice	99	80	0	M
+6201	582212	1	2	901	5	Michal	Žižan			25	řidič náklad. dopravy	Petrovice	99	80	0	M
+6201	582212	1	3	144	5	Jana	Štoudková			35	pracovník MŠ	Petrovice	99	144	0	F
+6201	582212	1	4	7	5	Radislav	Beránek			44	osoba sam.výdělečně činná	Petrovice	99	7	0	M
+6201	582212	1	1	902	6	Zdeněk	Hruška			54	řidič	Petrovice	99	80	0	M
+6201	582212	1	2	901	6	Soňa	Novohradská			36	skladnice	Petrovice	99	80	0	F
+6201	582212	1	3	144	6	Josef	Šťastný			36	živnostník	Petrovice	99	144	0	M
+6201	582212	1	4	7	6	Leona	Dvořáčková			40	projektová manažerka	Petrovice	99	7	0	F
+6201	582212	1	1	902	7	Marek	Kakáč			18	student	Petrovice	99	80	0	M
+6201	582212	1	2	901	7	Tomáš	Matuška			26	technik	Petrovice	99	80	0	M
+6201	582212	1	3	144	7	Miloš	Nejezchleb			36	lesní dělník	Petrovice	99	144	0	M
+6201	582212	1	4	7	7	Jaroslav	Fiala			38	řidič	Petrovice	99	7	0	M
+6201	582212	1	1	902	8	Dana	Filoušová			45	vedoucí prodejny	Petrovice	99	80	0	F
+6201	582212	1	2	901	8	Jiří	Vintr			20	automechanik	Petrovice	99	80	0	M
+6201	582212	1	3	144	8	Milan	Němec			42	servisní technik	Petrovice	99	144	0	M
+6201	582212	1	4	7	8	Ivo	Hamerský			31	údržbář	Petrovice	99	7	0	M
+6201	582212	1	1	902	9	Petr	Kučera			33	technolog	Petrovice	99	80	0	M
+6201	582212	1	2	901	9	Karel	Kolář			30	živnostník	Petrovice	99	80	0	M
+6201	582212	1	3	144	9	Antonín	Šejnost			66	zdravotní doprava	Petrovice	99	144	0	M
+6201	582212	1	4	7	9	Zdenka	Kakáčová			40	asistentka advokátní kanceláře	Petrovice	99	7	0	F

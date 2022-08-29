@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	553093	1	1	901	1	Stanislav	Rychta	M			65	důchodce	Hlavnice	99	80	0
-8105	553093	1	1	901	2	Petr	Ondráček	M			62	pracovník v kovovýrobě	Hlavnice	99	80	0
-8105	553093	1	1	901	3	Radka	Matýsková	F			40	pracovnice v živočišné výrobě	Hlavnice	99	80	0
-8105	553093	1	1	901	4	Libor	Kořistka	M			40	obchodní zástupce	Hlavnice	99	80	0
-8105	553093	1	1	901	5	Radovan	Šína	M	Mgr. Ing.		35	informatik	Hlavnice	99	80	0
-8105	553093	1	1	901	6	Milan	Matýsek	M			58	pracovník v kovovýrobě	Hlavnice	99	80	0
-8105	553093	1	1	901	7	Jan	Kavan ml.	M			22	student	Hlavnice	99	80	0
-8105	553093	1	1	901	8	Václav	Kalus ml.	M			28	policista	Hlavnice	99	80	0
-8105	553093	1	1	901	9	Veronika	Jaroňová	F			35	dělnice v dřevovýrobě	Hlavnice	99	80	0
-8105	553093	1	2	902	1	Aleš	Salibor	M	Bc.		40	starosta obce	Hlavnice	99	80	0
-8105	553093	1	2	902	2	Alena	Nezmarová	F			57	podnikatelka	Hlavnice	99	80	0
-8105	553093	1	2	902	3	Hana	Slaninová	F	Mgr.		49	ředitelka ZŠ a MŠ Hlavnice	Hlavnice	99	80	0
-8105	553093	1	2	902	4	Jiří	Haas	M			47	učitel odborného výcviku	Hlavnice	99	80	0
-8105	553093	1	2	902	5	David	Kořínek	M			38	technik PC	Hlavnice	99	80	0
-8105	553093	1	2	902	6	Rudolf	Pavelek	M	Bc.		36	policista	Hlavnice	99	80	0
-8105	553093	1	2	902	7	Pavel	Ondráček	M			34	svářeč	Hlavnice	99	80	0
-8105	553093	1	2	902	8	Petr	Rychta	M			34	řidič	Hlavnice	99	80	0
-8105	553093	1	2	902	9	Josef	Tesař	M			63	důchodce	Hlavnice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	553093	1	1	901	1	Stanislav	Rychta			65	důchodce	Hlavnice	99	80	0	M
+8105	553093	1	2	902	1	Aleš	Salibor	Bc.		40	starosta obce	Hlavnice	99	80	0	M
+8105	553093	1	1	901	2	Petr	Ondráček			62	pracovník v kovovýrobě	Hlavnice	99	80	0	M
+8105	553093	1	2	902	2	Alena	Nezmarová			57	podnikatelka	Hlavnice	99	80	0	F
+8105	553093	1	1	901	3	Radka	Matýsková			40	pracovnice v živočišné výrobě	Hlavnice	99	80	0	F
+8105	553093	1	2	902	3	Hana	Slaninová	Mgr.		49	ředitelka ZŠ a MŠ Hlavnice	Hlavnice	99	80	0	F
+8105	553093	1	1	901	4	Libor	Kořistka			40	obchodní zástupce	Hlavnice	99	80	0	M
+8105	553093	1	2	902	4	Jiří	Haas			47	učitel odborného výcviku	Hlavnice	99	80	0	M
+8105	553093	1	1	901	5	Radovan	Šína	Mgr. Ing.		35	informatik	Hlavnice	99	80	0	M
+8105	553093	1	2	902	5	David	Kořínek			38	technik PC	Hlavnice	99	80	0	M
+8105	553093	1	1	901	6	Milan	Matýsek			58	pracovník v kovovýrobě	Hlavnice	99	80	0	M
+8105	553093	1	2	902	6	Rudolf	Pavelek	Bc.		36	policista	Hlavnice	99	80	0	M
+8105	553093	1	1	901	7	Jan	Kavan ml.			22	student	Hlavnice	99	80	0	M
+8105	553093	1	2	902	7	Pavel	Ondráček			34	svářeč	Hlavnice	99	80	0	M
+8105	553093	1	1	901	8	Václav	Kalus ml.			28	policista	Hlavnice	99	80	0	M
+8105	553093	1	2	902	8	Petr	Rychta			34	řidič	Hlavnice	99	80	0	M
+8105	553093	1	1	901	9	Veronika	Jaroňová			35	dělnice v dřevovýrobě	Hlavnice	99	80	0	F
+8105	553093	1	2	902	9	Josef	Tesař			63	důchodce	Hlavnice	99	80	0	M

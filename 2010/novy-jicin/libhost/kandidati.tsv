@@ -1,40 +1,40 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8104	500046	1	1	903	1	Helena	Šimíčková	F	Ing.		48	úřednice	Libhošť	99	80	0
-8104	500046	1	1	903	2	Martin	Skalík	M			39	OSVČ	Libhošť	99	80	0
-8104	500046	1	1	903	3	Aleš	Hána	M	Ing.		33	konstruktér	Libhošť	99	80	0
-8104	500046	1	1	903	4	Jaroslav	Šimíček	M	Ing.		49	technik	Libhošť	99	80	0
-8104	500046	1	1	903	5	Vít	Škarka	M			29	OSVČ	Libhošť	99	80	0
-8104	500046	1	1	903	6	Roman	Lacina	M			44	jednatel	Libhošť	99	80	0
-8104	500046	1	1	903	7	Petr	Moštěk	M	Ing.		38	technik	Libhošť	99	80	0
-8104	500046	1	1	903	8	Martin	Šenk	M	Ing.		30	technik	Libhošť	99	80	0
-8104	500046	1	1	903	9	Veronika	Blažková	F			36	OSVČ	Libhošť	99	80	0
-8104	500046	1	1	903	10	Petr	Pístecký	M			64	důchodce	Libhošť	1	80	0
-8104	500046	1	2	902	1	Milan	Honeš	M	Ing.		58	důchodce	Libhošť	99	80	0
-8104	500046	1	2	902	2	Petr	Bradáč	M			38	autolakýrník	Libhošť	99	80	0
-8104	500046	1	2	902	3	Dagmar	Michálková	F	Mgr.		52	učitelka ZŠ	Libhošť	99	80	0
-8104	500046	1	2	902	4	Miloslava	Blažková	F			56	prodavačka	Libhošť	99	80	0
-8104	500046	1	2	902	5	Tomáš	Kulčák	M	Ing.		33	hasič instruktor	Libhošť	99	80	0
-8104	500046	1	2	902	6	Jana	Roszková	F	Bc.		24	technik	Libhošť	99	80	0
-8104	500046	1	2	902	7	Milan	Šindler	M			66	technik	Libhošť	99	80	0
-8104	500046	1	2	902	8	Jaromír	Vašíček	M	Ing.		53	technik	Libhošť	99	80	0
-8104	500046	1	2	902	9	Petra	Blažková	F			35	OSVČ	Libhošť	99	80	0
-8104	500046	1	3	47	1	Lubomír	Šimíček	M	Ing.		59	zaměstnanec	Libhošť	47	47	0
-8104	500046	1	3	47	2	Bohuslav	Kolář	M	Ing.		61	ekonom	Libhošť	99	47	0
-8104	500046	1	3	47	3	Alžběta	Rýparová	F			30	mateřská dovolená	Libhošť	99	47	0
-8104	500046	1	3	47	4	Oldřiška	Šimíčková	F			58	zaměstnanec	Libhošť	99	47	0
-8104	500046	1	3	47	5	Ladislav	König	M			61	servisní mechanik	Libhošť	47	47	0
-8104	500046	1	4	901	1	Milan	Frýdl	M			51	živnostník	Libhošť	99	80	0
-8104	500046	1	4	901	2	Martin	Hanzelka	M	Ing.	Ph.D.	37	soudní znalec	Libhošť	99	80	0
-8104	500046	1	4	901	3	Zbyněk	Tomšík	M			35	policista	Libhošť	99	80	0
-8104	500046	1	4	901	4	Bedřiška	Grégrová	F	Mgr.		67	důchodce	Libhošť	99	80	0
-8104	500046	1	4	901	5	Tomáš	Jalůvka	M			40	policista	Libhošť	99	80	0
-8104	500046	1	4	901	6	Hana	Balážová	F			36	výtvarnice	Libhošť	99	80	0
-8104	500046	1	4	901	7	Milan	Dobroňský	M			45	stolař	Libhošť	99	80	0
-8104	500046	1	4	901	8	Radmila	Bolomová	F			39	skladník	Libhošť	99	80	0
-8104	500046	1	4	901	9	Josef	Honeš	M			37	hasič	Libhošť	99	80	0
-8104	500046	1	4	901	10	Antonín	Pustějovský	M			43	živnostník	Libhošť	99	80	0
-8104	500046	1	4	901	11	Milan	Šimíček	M			33	elektromechanik	Libhošť	99	80	0
-8104	500046	1	4	901	12	Radim	Svoboda	M	Bc.		32	živnostník	Libhošť	99	80	0
-8104	500046	1	4	901	13	Jiří	Šumný	M			47	živnostník	Libhošť	99	80	0
-8104	500046	1	4	901	14	Martina	Kletenská	F			33	cukrářka	Libhošť	99	80	0
-8104	500046	1	4	901	15	Lukáš	Bém	M			29	živnostník	Libhošť	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8104	500046	1	1	903	1	Helena	Šimíčková	Ing.		48	úřednice	Libhošť	99	80	0	F
+8104	500046	1	2	902	1	Milan	Honeš	Ing.		58	důchodce	Libhošť	99	80	0	M
+8104	500046	1	3	47	1	Lubomír	Šimíček	Ing.		59	zaměstnanec	Libhošť	47	47	0	M
+8104	500046	1	4	901	1	Milan	Frýdl			51	živnostník	Libhošť	99	80	0	M
+8104	500046	1	1	903	2	Martin	Skalík			39	OSVČ	Libhošť	99	80	0	M
+8104	500046	1	2	902	2	Petr	Bradáč			38	autolakýrník	Libhošť	99	80	0	M
+8104	500046	1	3	47	2	Bohuslav	Kolář	Ing.		61	ekonom	Libhošť	99	47	0	M
+8104	500046	1	4	901	2	Martin	Hanzelka	Ing.	Ph.D.	37	soudní znalec	Libhošť	99	80	0	M
+8104	500046	1	1	903	3	Aleš	Hána	Ing.		33	konstruktér	Libhošť	99	80	0	M
+8104	500046	1	2	902	3	Dagmar	Michálková	Mgr.		52	učitelka ZŠ	Libhošť	99	80	0	F
+8104	500046	1	3	47	3	Alžběta	Rýparová			30	mateřská dovolená	Libhošť	99	47	0	F
+8104	500046	1	4	901	3	Zbyněk	Tomšík			35	policista	Libhošť	99	80	0	M
+8104	500046	1	1	903	4	Jaroslav	Šimíček	Ing.		49	technik	Libhošť	99	80	0	M
+8104	500046	1	2	902	4	Miloslava	Blažková			56	prodavačka	Libhošť	99	80	0	F
+8104	500046	1	3	47	4	Oldřiška	Šimíčková			58	zaměstnanec	Libhošť	99	47	0	F
+8104	500046	1	4	901	4	Bedřiška	Grégrová	Mgr.		67	důchodce	Libhošť	99	80	0	F
+8104	500046	1	1	903	5	Vít	Škarka			29	OSVČ	Libhošť	99	80	0	M
+8104	500046	1	2	902	5	Tomáš	Kulčák	Ing.		33	hasič instruktor	Libhošť	99	80	0	M
+8104	500046	1	3	47	5	Ladislav	König			61	servisní mechanik	Libhošť	47	47	0	M
+8104	500046	1	4	901	5	Tomáš	Jalůvka			40	policista	Libhošť	99	80	0	M
+8104	500046	1	1	903	6	Roman	Lacina			44	jednatel	Libhošť	99	80	0	M
+8104	500046	1	2	902	6	Jana	Roszková	Bc.		24	technik	Libhošť	99	80	0	F
+8104	500046	1	4	901	6	Hana	Balážová			36	výtvarnice	Libhošť	99	80	0	F
+8104	500046	1	1	903	7	Petr	Moštěk	Ing.		38	technik	Libhošť	99	80	0	M
+8104	500046	1	2	902	7	Milan	Šindler			66	technik	Libhošť	99	80	0	M
+8104	500046	1	4	901	7	Milan	Dobroňský			45	stolař	Libhošť	99	80	0	M
+8104	500046	1	1	903	8	Martin	Šenk	Ing.		30	technik	Libhošť	99	80	0	M
+8104	500046	1	2	902	8	Jaromír	Vašíček	Ing.		53	technik	Libhošť	99	80	0	M
+8104	500046	1	4	901	8	Radmila	Bolomová			39	skladník	Libhošť	99	80	0	F
+8104	500046	1	1	903	9	Veronika	Blažková			36	OSVČ	Libhošť	99	80	0	F
+8104	500046	1	2	902	9	Petra	Blažková			35	OSVČ	Libhošť	99	80	0	F
+8104	500046	1	4	901	9	Josef	Honeš			37	hasič	Libhošť	99	80	0	M
+8104	500046	1	1	903	10	Petr	Pístecký			64	důchodce	Libhošť	1	80	0	M
+8104	500046	1	4	901	10	Antonín	Pustějovský			43	živnostník	Libhošť	99	80	0	M
+8104	500046	1	4	901	11	Milan	Šimíček			33	elektromechanik	Libhošť	99	80	0	M
+8104	500046	1	4	901	12	Radim	Svoboda	Bc.		32	živnostník	Libhošť	99	80	0	M
+8104	500046	1	4	901	13	Jiří	Šumný			47	živnostník	Libhošť	99	80	0	M
+8104	500046	1	4	901	14	Martina	Kletenská			33	cukrářka	Libhošť	99	80	0	F
+8104	500046	1	4	901	15	Lukáš	Bém			29	živnostník	Libhošť	99	80	0	M

@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	549878	1	1	901	1	František	Šíp	M	Ing.		44	zemědělec	Smetanova Lhota	99	80	0
-3104	549878	1	1	901	2	Igor	Fousek	M			40	tesař	Smetanova Lhota	99	80	0
-3104	549878	1	1	901	3	Josef	Burda	M	PhDr.		69	důchodce	Smetanova Lhota	99	80	0
-3104	549878	1	1	901	4	Václav	Kouba	M			63	důchodce	Smetanova Lhota	99	80	0
-3104	549878	1	1	901	5	František	Mišík	M			63	důchodce	Smetanova Lhota	99	80	0
-3104	549878	1	1	901	6	Václav	Luzum	M			44	truhlář	Smetanova Lhota	99	80	0
-3104	549878	1	1	901	7	Vladimír	Schoř	M			25	seřizovač	Smetanova Lhota	99	80	0
-3104	549878	1	1	901	8	Zbyněk	Volf	M			33	skladník	Smetanova Lhota	99	80	0
-3104	549878	1	1	901	9	Václav	Kouba	M			43	údržbář	Smetanova Lhota	99	80	0
-3104	549878	1	2	766	1	Martin	Jouja	M			46	podnikatel v zemědělství	Smetanova Lhota	99	766	0
-3104	549878	1	2	766	2	Markéta	Žižková	F			41	ošetřovatelka skotu	Smetanova Lhota	99	766	0
-3104	549878	1	2	766	3	Václav	Ziegler	M			47	vedoucí výroby	Smetanova Lhota	99	766	0
-3104	549878	1	2	766	4	František	Pavlíček	M			34	podnikatel	Smetanova Lhota	99	766	0
-3104	549878	1	2	766	5	Šárka	Pacovská	F			44	pokojská	Smetanova Lhota	99	766	0
-3104	549878	1	2	766	6	Miroslav	Klíma	M			46	údržbář	Smetanova Lhota	99	766	0
-3104	549878	1	2	766	7	Martina	Šindelková	F			39	logistik	Smetanova Lhota	99	766	0
-3104	549878	1	3	166	1	Slavomír	Harbáček	M	Bc.		50	starosta obce	Smetanova Lhota	99	166	0
-3104	549878	1	3	166	2	Ivana	Zieglerová	F	Ing.		44	zástupce ředitele školy	Smetanova Lhota	99	166	0
-3104	549878	1	3	166	3	Václav	Kožený	M			60	pracovní terapeut - správce	Smetanova Lhota	99	166	0
-3104	549878	1	3	166	4	Antonín	Šlapák	M			70	důchodce	Vrábsko	99	166	0
-3104	549878	1	3	166	5	Vlasta	Kožená	F			30	invalidní důchodce	Smetanova Lhota	99	166	0
-3104	549878	1	3	166	6	Alena	Joujová	F			42	učitelka mateřské školy	Smetanova Lhota	99	166	0
-3104	549878	1	3	166	7	Ladislav	Luzum	M			55	technickohospodářský pracovník	Smetanova Lhota	99	166	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	549878	1	1	901	1	František	Šíp	Ing.		44	zemědělec	Smetanova Lhota	99	80	0	M
+3104	549878	1	2	766	1	Martin	Jouja			46	podnikatel v zemědělství	Smetanova Lhota	99	766	0	M
+3104	549878	1	3	166	1	Slavomír	Harbáček	Bc.		50	starosta obce	Smetanova Lhota	99	166	0	M
+3104	549878	1	1	901	2	Igor	Fousek			40	tesař	Smetanova Lhota	99	80	0	M
+3104	549878	1	2	766	2	Markéta	Žižková			41	ošetřovatelka skotu	Smetanova Lhota	99	766	0	F
+3104	549878	1	3	166	2	Ivana	Zieglerová	Ing.		44	zástupce ředitele školy	Smetanova Lhota	99	166	0	F
+3104	549878	1	1	901	3	Josef	Burda	PhDr.		69	důchodce	Smetanova Lhota	99	80	0	M
+3104	549878	1	2	766	3	Václav	Ziegler			47	vedoucí výroby	Smetanova Lhota	99	766	0	M
+3104	549878	1	3	166	3	Václav	Kožený			60	pracovní terapeut - správce	Smetanova Lhota	99	166	0	M
+3104	549878	1	1	901	4	Václav	Kouba			63	důchodce	Smetanova Lhota	99	80	0	M
+3104	549878	1	2	766	4	František	Pavlíček			34	podnikatel	Smetanova Lhota	99	766	0	M
+3104	549878	1	3	166	4	Antonín	Šlapák			70	důchodce	Vrábsko	99	166	0	M
+3104	549878	1	1	901	5	František	Mišík			63	důchodce	Smetanova Lhota	99	80	0	M
+3104	549878	1	2	766	5	Šárka	Pacovská			44	pokojská	Smetanova Lhota	99	766	0	F
+3104	549878	1	3	166	5	Vlasta	Kožená			30	invalidní důchodce	Smetanova Lhota	99	166	0	F
+3104	549878	1	1	901	6	Václav	Luzum			44	truhlář	Smetanova Lhota	99	80	0	M
+3104	549878	1	2	766	6	Miroslav	Klíma			46	údržbář	Smetanova Lhota	99	766	0	M
+3104	549878	1	3	166	6	Alena	Joujová			42	učitelka mateřské školy	Smetanova Lhota	99	166	0	F
+3104	549878	1	1	901	7	Vladimír	Schoř			25	seřizovač	Smetanova Lhota	99	80	0	M
+3104	549878	1	2	766	7	Martina	Šindelková			39	logistik	Smetanova Lhota	99	766	0	F
+3104	549878	1	3	166	7	Ladislav	Luzum			55	technickohospodářský pracovník	Smetanova Lhota	99	166	0	M
+3104	549878	1	1	901	8	Zbyněk	Volf			33	skladník	Smetanova Lhota	99	80	0	M
+3104	549878	1	1	901	9	Václav	Kouba			43	údržbář	Smetanova Lhota	99	80	0	M

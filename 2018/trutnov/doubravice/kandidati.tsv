@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579181	1	1	901	1	Miloš	Valášek	M			59	podnikatel	Doubravice	99	80	A
-5205	579181	1	1	901	2	Karel	Hrdina	M	Ing.		57	podnikatel	Doubravice	99	80	A
-5205	579181	1	1	901	3	Libor	Sedláček	M	Ing.		54	technik	Zálesí	99	80	A
-5205	579181	1	1	901	4	Pavel	Derda	M			66	podnikatel	Velehrádek	99	80	A
-5205	579181	1	1	901	5	Vít	Paula	M			67	důchodce	Doubravice	99	80	A
-5205	579181	1	1	901	6	Pavel	Hlavatý	M	Ing.		30	stavební inženýr	Doubravice	99	80	A
-5205	579181	1	1	901	7	Lucie	Baliharová	F	Mgr.		47	učitelka	Doubravice	99	80	A
-5205	579181	1	1	901	8	Dagmar	Ruščáková	F	Ing.		55	publicistka	Doubravice	99	80	A
-5205	579181	1	1	901	9	Denisa	Hažvová	F	Bc.		33	personalistka	Doubravice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579181	1	1	901	1	Miloš	Valášek			59	podnikatel	Doubravice	99	80	A	M
+5205	579181	1	1	901	2	Karel	Hrdina	Ing.		57	podnikatel	Doubravice	99	80	A	M
+5205	579181	1	1	901	3	Libor	Sedláček	Ing.		54	technik	Zálesí	99	80	A	M
+5205	579181	1	1	901	4	Pavel	Derda			66	podnikatel	Velehrádek	99	80	A	M
+5205	579181	1	1	901	5	Vít	Paula			67	důchodce	Doubravice	99	80	A	M
+5205	579181	1	1	901	6	Pavel	Hlavatý	Ing.		30	stavební inženýr	Doubravice	99	80	A	M
+5205	579181	1	1	901	7	Lucie	Baliharová	Mgr.		47	učitelka	Doubravice	99	80	A	F
+5205	579181	1	1	901	8	Dagmar	Ruščáková	Ing.		55	publicistka	Doubravice	99	80	A	F
+5205	579181	1	1	901	9	Denisa	Hažvová	Bc.		33	personalistka	Doubravice	99	80	A	F

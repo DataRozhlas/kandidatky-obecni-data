@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	532657	1	1	901	1	Antonín	JANČA	M	Ing.		71	důchodce	Malíkovice	99	80	0
-2103	532657	1	1	901	2	Jiřina	DAŇHELOVÁ	F			37	účetní	Hvězda	99	80	0
-2103	532657	1	1	901	3	Monika	KALINOVÁ	F			48	sociální pracovnice	Malíkovice	99	80	0
-2103	532657	1	1	901	4	Karel	BAŠTA	M			33	dělník	Malíkovice	99	80	0
-2103	532657	1	1	901	5	Vlasta	ŠTEŇUKOVÁ	F			37	pokojská	Malíkovice	99	80	0
-2103	532657	1	1	901	6	Dana	KOMOVÁ	F			30	obchodní manažer	Hvězda	99	80	0
-2103	532657	1	1	901	7	Petr	DRAGOUN	M			51	technik	Čanovice	99	80	0
-2103	532657	1	1	901	8	Petr	PATERA	M			35	bezpečnostní manažer	Čanovice	99	80	0
-2103	532657	1	1	901	9	Eliška	WINDISCH	F			63	důchodce	Malíkovice	99	80	0
-2103	532657	1	2	902	1	Marie	VENCOVÁ	F			62	důchodce	Čanovice	99	80	0
-2103	532657	1	2	902	2	Denisa	JANDOVÁ	F			37	marketingový koordinátor t.č.mateřská dovolená	Hvězda	99	80	0
-2103	532657	1	2	902	3	Jaroslav	MITTELBACH	M			43	živnostník v oboru stavebnictví	Malíkovice	99	80	0
-2103	532657	1	2	902	4	Roman	NĚMEC	M			50	živnostník v oboru elektro	Hvězda	99	80	0
-2103	532657	1	2	902	5	Karel	VÁVRA	M			66	živnostník v oboru dopravy	Hvězda	99	80	0
-2103	532657	1	2	902	6	Lucie	SPLAPNIČKOVÁ	F			31	administrativní pracov.	Hvězda	99	80	0
-2103	532657	1	2	902	7	Marie	KALOUSOVÁ	F			70	důchodce	Malíkovice	47	80	0
-2103	532657	1	2	902	8	Pavel	STÝBLO	M			29	řidič	Malíkovice	99	80	0
-2103	532657	1	2	902	9	Radoslav	PONDĚLÍČEK	M			51	mistr sila	Hvězda	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	532657	1	1	901	1	Antonín	JANČA	Ing.		71	důchodce	Malíkovice	99	80	0	M
+2103	532657	1	2	902	1	Marie	VENCOVÁ			62	důchodce	Čanovice	99	80	0	F
+2103	532657	1	1	901	2	Jiřina	DAŇHELOVÁ			37	účetní	Hvězda	99	80	0	F
+2103	532657	1	2	902	2	Denisa	JANDOVÁ			37	marketingový koordinátor t.č.mateřská dovolená	Hvězda	99	80	0	F
+2103	532657	1	1	901	3	Monika	KALINOVÁ			48	sociální pracovnice	Malíkovice	99	80	0	F
+2103	532657	1	2	902	3	Jaroslav	MITTELBACH			43	živnostník v oboru stavebnictví	Malíkovice	99	80	0	M
+2103	532657	1	1	901	4	Karel	BAŠTA			33	dělník	Malíkovice	99	80	0	M
+2103	532657	1	2	902	4	Roman	NĚMEC			50	živnostník v oboru elektro	Hvězda	99	80	0	M
+2103	532657	1	1	901	5	Vlasta	ŠTEŇUKOVÁ			37	pokojská	Malíkovice	99	80	0	F
+2103	532657	1	2	902	5	Karel	VÁVRA			66	živnostník v oboru dopravy	Hvězda	99	80	0	M
+2103	532657	1	1	901	6	Dana	KOMOVÁ			30	obchodní manažer	Hvězda	99	80	0	F
+2103	532657	1	2	902	6	Lucie	SPLAPNIČKOVÁ			31	administrativní pracov.	Hvězda	99	80	0	F
+2103	532657	1	1	901	7	Petr	DRAGOUN			51	technik	Čanovice	99	80	0	M
+2103	532657	1	2	902	7	Marie	KALOUSOVÁ			70	důchodce	Malíkovice	47	80	0	F
+2103	532657	1	1	901	8	Petr	PATERA			35	bezpečnostní manažer	Čanovice	99	80	0	M
+2103	532657	1	2	902	8	Pavel	STÝBLO			29	řidič	Malíkovice	99	80	0	M
+2103	532657	1	1	901	9	Eliška	WINDISCH			63	důchodce	Malíkovice	99	80	0	F
+2103	532657	1	2	902	9	Radoslav	PONDĚLÍČEK			51	mistr sila	Hvězda	99	80	0	M

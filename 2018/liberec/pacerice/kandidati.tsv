@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5103	545953	1	1	902	1	Pavel	Tesař	M	Ing.		35	dopravní inženýr	Husa	99	80	A
-5103	545953	1	1	902	2	Tomáš	Hradecký	M			40	podnikatel	Paceřice	99	80	A
-5103	545953	1	1	902	3	Alena	Coufalová	F			53	OSVČ	Husa	99	80	A
-5103	545953	1	1	902	4	Markéta	Zakouřilová	F	Mgr.		44	učitelka ZŠ	Paceřice	99	80	A
-5103	545953	1	1	902	5	Jana	Chlebnová	F	Mgr.		59	učitelka ZŠ	Paceřice	99	80	A
-5103	545953	1	1	902	6	Milan	Hejl	M			39	zdravotnický záchranář	Paceřice	99	80	A
-5103	545953	1	1	902	7	Jan	Popr	M	Ing.		37	aplikační programátor	Paceřice	99	80	A
-5103	545953	1	2	901	1	Václav	Sodomka	M	Ing.		60	starosta obce	Paceřice	99	80	A
-5103	545953	1	2	901	2	Marie	Křikavová	F			54	učitelka MŠ	Paceřice	99	80	A
-5103	545953	1	2	901	3	Zdeněk	Bažant	M			32	operátor zemědělských strojů	Paceřice	99	80	A
-5103	545953	1	2	901	4	Vlasta	Bulířová	F			41	terénní pečovatelka	Paceřice	99	80	A
-5103	545953	1	2	901	5	Marie	Chlebnová	F			32	zdravotní sestra	Husa	99	80	A
-5103	545953	1	2	901	6	Romana	Brátová	F			41	zdravotní sestra	Paceřice	99	80	A
-5103	545953	1	2	901	7	Michal	Rajnoch	M	Ing.		44	podnikatel	Husa	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5103	545953	1	1	902	1	Pavel	Tesař	Ing.		35	dopravní inženýr	Husa	99	80	A	M
+5103	545953	1	2	901	1	Václav	Sodomka	Ing.		60	starosta obce	Paceřice	99	80	A	M
+5103	545953	1	1	902	2	Tomáš	Hradecký			40	podnikatel	Paceřice	99	80	A	M
+5103	545953	1	2	901	2	Marie	Křikavová			54	učitelka MŠ	Paceřice	99	80	A	F
+5103	545953	1	1	902	3	Alena	Coufalová			53	OSVČ	Husa	99	80	A	F
+5103	545953	1	2	901	3	Zdeněk	Bažant			32	operátor zemědělských strojů	Paceřice	99	80	A	M
+5103	545953	1	1	902	4	Markéta	Zakouřilová	Mgr.		44	učitelka ZŠ	Paceřice	99	80	A	F
+5103	545953	1	2	901	4	Vlasta	Bulířová			41	terénní pečovatelka	Paceřice	99	80	A	F
+5103	545953	1	1	902	5	Jana	Chlebnová	Mgr.		59	učitelka ZŠ	Paceřice	99	80	A	F
+5103	545953	1	2	901	5	Marie	Chlebnová			32	zdravotní sestra	Husa	99	80	A	F
+5103	545953	1	1	902	6	Milan	Hejl			39	zdravotnický záchranář	Paceřice	99	80	A	M
+5103	545953	1	2	901	6	Romana	Brátová			41	zdravotní sestra	Paceřice	99	80	A	F
+5103	545953	1	1	902	7	Jan	Popr	Ing.		37	aplikační programátor	Paceřice	99	80	A	M
+5103	545953	1	2	901	7	Michal	Rajnoch	Ing.		44	podnikatel	Husa	99	80	A	M

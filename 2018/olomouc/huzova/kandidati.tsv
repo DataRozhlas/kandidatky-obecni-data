@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	597414	1	1	903	1	Ivo	Koláček	M	Ing.		50	lesní technik	Huzová	99	80	A
-7102	597414	1	1	903	2	Pavel	Zehnal	M			49	OSVČ	Huzová	99	80	A
-7102	597414	1	1	903	3	Tomáš	Jambor	M			49	manažer	Huzová	99	80	A
-7102	597414	1	1	903	4	Dáša	Vosyková	F			53	učitelka MŠ	Huzová	99	80	A
-7102	597414	1	1	903	5	Marie	Fujáková	F			54	učitelka ZŠ	Huzová	99	80	A
-7102	597414	1	1	903	6	František	Švub	M			61	OSVČ	Huzová	99	80	A
-7102	597414	1	1	903	7	Pavla	Šemetová	F			44	kovodělník	Huzová	99	80	A
-7102	597414	1	2	902	1	Lubomír	Štefaňák	M	Ing.		57	starosta	Huzová	99	80	A
-7102	597414	1	2	902	2	Vladimír	Juříček	M	Ing.		57	státní zaměstnanec	Huzová	99	80	A
-7102	597414	1	2	902	3	Pavel	Husák	M			66	důchodce	Huzová	99	80	A
-7102	597414	1	2	902	4	Vladimír	Berka	M			65	důchodce	Arnoltice	99	80	A
-7102	597414	1	2	902	5	Tomáš	Poláček	M			67	důchodce	Huzová	99	80	A
-7102	597414	1	2	902	6	Vladimír	Marek	M			62	řidič	Huzová	99	80	A
-7102	597414	1	2	902	7	Vratislav	Hoffmann	M			63	důchodce	Huzová	99	80	A
-7102	597414	1	3	901	1	Yvona	Jirušová	F	Ing.		52	místostarostka	Huzová	99	80	A
-7102	597414	1	3	901	2	Margot	Križaničová	F			39	lesní dělnice	Huzová	99	80	A
-7102	597414	1	3	901	3	Nikola	Řičicová	F			27	rodičovská dovolená	Huzová	99	80	A
-7102	597414	1	3	901	4	Pavlína	Dembická	F			49	vychovatelka	Arnoltice	99	80	A
-7102	597414	1	3	901	5	Ondřej	Fuják	M			31	operátor	Huzová	99	80	A
-7102	597414	1	3	901	6	Josef	Sosík	M			53	OSVČ	Huzová	99	80	A
-7102	597414	1	3	901	7	Miroslav	Horák	M			35	OSVČ	Huzová	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	597414	1	1	903	1	Ivo	Koláček	Ing.		50	lesní technik	Huzová	99	80	A	M
+7102	597414	1	2	902	1	Lubomír	Štefaňák	Ing.		57	starosta	Huzová	99	80	A	M
+7102	597414	1	3	901	1	Yvona	Jirušová	Ing.		52	místostarostka	Huzová	99	80	A	F
+7102	597414	1	1	903	2	Pavel	Zehnal			49	OSVČ	Huzová	99	80	A	M
+7102	597414	1	2	902	2	Vladimír	Juříček	Ing.		57	státní zaměstnanec	Huzová	99	80	A	M
+7102	597414	1	3	901	2	Margot	Križaničová			39	lesní dělnice	Huzová	99	80	A	F
+7102	597414	1	1	903	3	Tomáš	Jambor			49	manažer	Huzová	99	80	A	M
+7102	597414	1	2	902	3	Pavel	Husák			66	důchodce	Huzová	99	80	A	M
+7102	597414	1	3	901	3	Nikola	Řičicová			27	rodičovská dovolená	Huzová	99	80	A	F
+7102	597414	1	1	903	4	Dáša	Vosyková			53	učitelka MŠ	Huzová	99	80	A	F
+7102	597414	1	2	902	4	Vladimír	Berka			65	důchodce	Arnoltice	99	80	A	M
+7102	597414	1	3	901	4	Pavlína	Dembická			49	vychovatelka	Arnoltice	99	80	A	F
+7102	597414	1	1	903	5	Marie	Fujáková			54	učitelka ZŠ	Huzová	99	80	A	F
+7102	597414	1	2	902	5	Tomáš	Poláček			67	důchodce	Huzová	99	80	A	M
+7102	597414	1	3	901	5	Ondřej	Fuják			31	operátor	Huzová	99	80	A	M
+7102	597414	1	1	903	6	František	Švub			61	OSVČ	Huzová	99	80	A	M
+7102	597414	1	2	902	6	Vladimír	Marek			62	řidič	Huzová	99	80	A	M
+7102	597414	1	3	901	6	Josef	Sosík			53	OSVČ	Huzová	99	80	A	M
+7102	597414	1	1	903	7	Pavla	Šemetová			44	kovodělník	Huzová	99	80	A	F
+7102	597414	1	2	902	7	Vratislav	Hoffmann			63	důchodce	Huzová	99	80	A	M
+7102	597414	1	3	901	7	Miroslav	Horák			35	OSVČ	Huzová	99	80	A	M

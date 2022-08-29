@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7202	592137	1	1	1	1	Zdeněk	Mikel	M			43	místostarosta	Částkov	99	1	0
-7202	592137	1	1	1	2	Ivan	Zábojník	M			43	OSVČ	Částkov	99	1	0
-7202	592137	1	1	1	3	Roman	Minařík	M			33	manažer staveb	Částkov	99	1	0
-7202	592137	1	1	1	4	Yveta	Sedláčková	F			40	sanitářka	Částkov	99	1	0
-7202	592137	1	1	1	5	Zdeněk	Úředníček	M			47	dělník	Částkov	99	1	0
-7202	592137	1	1	1	6	Karla	Kročilová	F			57	důchodce	Částkov	99	1	0
-7202	592137	1	1	1	7	Vlastimil	Juřík	M			43	OSVČ	Částkov	99	1	0
-7202	592137	1	2	901	1	Pavel	Štěpančík	M			44	technik	Částkov	99	80	0
-7202	592137	1	2	901	2	Martin	Řezníček	M			36	dělník - strojní	Částkov	99	80	0
-7202	592137	1	2	901	3	Pavla	Jančová	F			24	mateřská dovolená	Částkov	99	80	0
-7202	592137	1	2	901	4	Tomáš	Jurák	M			28	dělník - elektro	Částkov	99	80	0
-7202	592137	1	2	901	5	Petra	Zemánková	F	Bc.		23	student - stavebnictví	Částkov	99	80	0
-7202	592137	1	2	901	6	Milan	Kieryk	M			35	podnikatel	Částkov	99	80	0
-7202	592137	1	2	901	7	Radek	Povalač	M			33	podnikatel	Částkov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7202	592137	1	1	1	1	Zdeněk	Mikel			43	místostarosta	Částkov	99	1	0	M
+7202	592137	1	2	901	1	Pavel	Štěpančík			44	technik	Částkov	99	80	0	M
+7202	592137	1	1	1	2	Ivan	Zábojník			43	OSVČ	Částkov	99	1	0	M
+7202	592137	1	2	901	2	Martin	Řezníček			36	dělník - strojní	Částkov	99	80	0	M
+7202	592137	1	1	1	3	Roman	Minařík			33	manažer staveb	Částkov	99	1	0	M
+7202	592137	1	2	901	3	Pavla	Jančová			24	mateřská dovolená	Částkov	99	80	0	F
+7202	592137	1	1	1	4	Yveta	Sedláčková			40	sanitářka	Částkov	99	1	0	F
+7202	592137	1	2	901	4	Tomáš	Jurák			28	dělník - elektro	Částkov	99	80	0	M
+7202	592137	1	1	1	5	Zdeněk	Úředníček			47	dělník	Částkov	99	1	0	M
+7202	592137	1	2	901	5	Petra	Zemánková	Bc.		23	student - stavebnictví	Částkov	99	80	0	F
+7202	592137	1	1	1	6	Karla	Kročilová			57	důchodce	Částkov	99	1	0	F
+7202	592137	1	2	901	6	Milan	Kieryk			35	podnikatel	Částkov	99	80	0	M
+7202	592137	1	1	1	7	Vlastimil	Juřík			43	OSVČ	Částkov	99	1	0	M
+7202	592137	1	2	901	7	Radek	Povalač			33	podnikatel	Částkov	99	80	0	M

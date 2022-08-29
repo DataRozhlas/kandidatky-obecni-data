@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	541877	1	1	47	1	Václav	Bauer	M			59	zemědělský technik	Kněževes	47	47	0
-2112	541877	1	1	47	2	Hana	Plačková	F			56	důchodce	Kněževes	47	47	0
-2112	541877	1	1	47	3	Jan	Plaček	M			33	řidič	Kněževes	99	47	0
-2112	541877	1	1	47	4	Miroslav	Kasan	M			54	podnikatel	Kněževes	47	47	0
-2112	541877	1	1	47	5	Josef	Tvarůžek	M			41	prof. hasič	Kněževes	99	47	0
-2112	541877	1	1	47	6	Kamila	Miksová	F			43	administr.pracovnice	Kněževes	99	47	0
-2112	541877	1	1	47	7	Bohumila	Urbanová	F			48	recepční	Kněževes	99	47	0
-2112	541877	1	1	47	8	Vlasta	Petržilková	F			53	učitelka	Kněževes	99	47	0
-2112	541877	1	1	47	9	Petr	Švolík	M			42	státní zaměstnanec	Kněževes	99	47	0
-2112	541877	1	1	47	10	Marta	Zilcherová	F			31	kuchařka	Kněževes	99	47	0
-2112	541877	1	1	47	11	Stanislav	Hrubý	M			56	zemědělský technik	Kněževes	99	47	0
-2112	541877	1	1	47	12	Miroslav	Majer	M			30	auto-elektrikář	Kněževes	99	47	0
-2112	541877	1	1	47	13	Jana	Sedláčková	F			45	administr.pracovník	Kněževes	99	47	0
-2112	541877	1	2	53	1	Eva	Janotová	F			53	starostka	Kněževes	53	53	0
-2112	541877	1	2	53	2	Petr	Bradáč	M	Ing.		49	syst.administrátor IT	Kněževes	53	53	0
-2112	541877	1	2	53	3	Ivo	Picek	M	Ing.		51	podnikatel	Kněževes	99	53	0
-2112	541877	1	2	53	4	Václav	Skála	M	PaedDr.		51	školní inspektor	Kněževes	99	53	0
-2112	541877	1	2	53	5	Renata	Řeháková	F			34	ekonomka	Kněževes	53	53	0
-2112	541877	1	2	53	6	Zdeněk	Jirgl	M			49	živnostník	Kněževes	99	53	0
-2112	541877	1	2	53	7	Pavel	Fišer	M			35	policista	Kněževes	99	53	0
-2112	541877	1	2	53	8	Hana	Blechová	F			50	švadlena	Kněževes	99	53	0
-2112	541877	1	2	53	9	Renata	Mayerová	F			40	kadeřnice	Kněževes	99	53	0
-2112	541877	1	2	53	10	Zdeněk	Štětka	M			37	živnostník	Kněževes	99	53	0
-2112	541877	1	2	53	11	Ladislava	Fröhlichová	F			58	knihovnice	Kněževes	99	53	0
-2112	541877	1	2	53	12	Zdenka	Malafová	F			43	úřednice	Kněževes	53	53	0
-2112	541877	1	2	53	13	Radek	Šíma	M			31	živnostník	Kněževes	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	541877	1	1	47	1	Václav	Bauer			59	zemědělský technik	Kněževes	47	47	0	M
+2112	541877	1	2	53	1	Eva	Janotová			53	starostka	Kněževes	53	53	0	F
+2112	541877	1	1	47	2	Hana	Plačková			56	důchodce	Kněževes	47	47	0	F
+2112	541877	1	2	53	2	Petr	Bradáč	Ing.		49	syst.administrátor IT	Kněževes	53	53	0	M
+2112	541877	1	1	47	3	Jan	Plaček			33	řidič	Kněževes	99	47	0	M
+2112	541877	1	2	53	3	Ivo	Picek	Ing.		51	podnikatel	Kněževes	99	53	0	M
+2112	541877	1	1	47	4	Miroslav	Kasan			54	podnikatel	Kněževes	47	47	0	M
+2112	541877	1	2	53	4	Václav	Skála	PaedDr.		51	školní inspektor	Kněževes	99	53	0	M
+2112	541877	1	1	47	5	Josef	Tvarůžek			41	prof. hasič	Kněževes	99	47	0	M
+2112	541877	1	2	53	5	Renata	Řeháková			34	ekonomka	Kněževes	53	53	0	F
+2112	541877	1	1	47	6	Kamila	Miksová			43	administr.pracovnice	Kněževes	99	47	0	F
+2112	541877	1	2	53	6	Zdeněk	Jirgl			49	živnostník	Kněževes	99	53	0	M
+2112	541877	1	1	47	7	Bohumila	Urbanová			48	recepční	Kněževes	99	47	0	F
+2112	541877	1	2	53	7	Pavel	Fišer			35	policista	Kněževes	99	53	0	M
+2112	541877	1	1	47	8	Vlasta	Petržilková			53	učitelka	Kněževes	99	47	0	F
+2112	541877	1	2	53	8	Hana	Blechová			50	švadlena	Kněževes	99	53	0	F
+2112	541877	1	1	47	9	Petr	Švolík			42	státní zaměstnanec	Kněževes	99	47	0	M
+2112	541877	1	2	53	9	Renata	Mayerová			40	kadeřnice	Kněževes	99	53	0	F
+2112	541877	1	1	47	10	Marta	Zilcherová			31	kuchařka	Kněževes	99	47	0	F
+2112	541877	1	2	53	10	Zdeněk	Štětka			37	živnostník	Kněževes	99	53	0	M
+2112	541877	1	1	47	11	Stanislav	Hrubý			56	zemědělský technik	Kněževes	99	47	0	M
+2112	541877	1	2	53	11	Ladislava	Fröhlichová			58	knihovnice	Kněževes	99	53	0	F
+2112	541877	1	1	47	12	Miroslav	Majer			30	auto-elektrikář	Kněževes	99	47	0	M
+2112	541877	1	2	53	12	Zdenka	Malafová			43	úřednice	Kněževes	53	53	0	F
+2112	541877	1	1	47	13	Jana	Sedláčková			45	administr.pracovník	Kněževes	99	47	0	F
+2112	541877	1	2	53	13	Radek	Šíma			31	živnostník	Kněževes	99	53	0	M

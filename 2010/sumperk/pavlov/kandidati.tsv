@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	540609	1	1	901	1	Václav	Havlíček	M			39	státní zaměstnanec	Pavlov	99	80	0
-7105	540609	1	1	901	2	Jan	Polách	M	Mgr.		71	učitel	Pavlov	99	80	0
-7105	540609	1	1	901	3	Petr	Mader	M			39	státní zaměstnanec	Pavlov	99	80	0
-7105	540609	1	1	901	4	Viktor	Vykydal	M	Ing.		31	mistr lesní výroby	Pavlov - Veselí	99	80	0
-7105	540609	1	1	901	5	Richard	Prokop	M			31	seřizovač	Pavlov	99	80	0
-7105	540609	1	1	901	6	Jaroslav	Dostál	M			31	dělník	Pavlov	99	80	0
-7105	540609	1	1	901	7	František	Bednář	M			49	podnikatel	Pavlov - Radnice	99	80	0
-7105	540609	1	1	901	8	Josef	Fajt	M			29	mistr	Pavlov	99	80	0
-7105	540609	1	1	901	9	Josef	Vařeka	M			33	klempíř	Pavlov	99	80	0
-7105	540609	1	1	901	10	Veronika	Prokopová	F			29	kreslička - THP	Pavlov	99	80	0
-7105	540609	1	1	901	11	Dušan	Šmirg	M			39	dělník	Pavlov	99	80	0
-7105	540609	1	2	902	1	František	Moťka	M			60	autodopravce	Pavlov	99	80	0
-7105	540609	1	2	902	2	Oldřich	Šnévajs	M			47	kameník	Pavlov	99	80	0
-7105	540609	1	2	902	3	Peter	Kopáčik	M			46	tesař	Pavlov	99	80	0
-7105	540609	1	2	902	4	Iveta	Montágová	F			45	zubní technik	Pavlov	99	80	0
-7105	540609	1	2	902	5	František	Sysel	M			53	dělník	Pavlov	99	80	0
-7105	540609	1	2	902	6	Michal	Göbl	M			38	dělník	Pavlov	99	80	0
-7105	540609	1	2	902	7	Adam	Laštůvka	M			34	řidič	Pavlov	99	80	0
-7105	540609	1	2	902	8	Radek	Zapletal	M			31	dělník	Pavlov	99	80	0
-7105	540609	1	2	902	9	Zdeněk	Rozman	M	Mgr.		33	vychovatel	Pavlov	99	80	0
-7105	540609	1	2	902	10	Jan	Jořenek	M			28	nástrojař	Pavlov	99	80	0
-7105	540609	1	2	902	11	Pavol	Kopáčik	M			46	zedník	Pavlov - Veselí	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	540609	1	1	901	1	Václav	Havlíček			39	státní zaměstnanec	Pavlov	99	80	0	M
+7105	540609	1	2	902	1	František	Moťka			60	autodopravce	Pavlov	99	80	0	M
+7105	540609	1	1	901	2	Jan	Polách	Mgr.		71	učitel	Pavlov	99	80	0	M
+7105	540609	1	2	902	2	Oldřich	Šnévajs			47	kameník	Pavlov	99	80	0	M
+7105	540609	1	1	901	3	Petr	Mader			39	státní zaměstnanec	Pavlov	99	80	0	M
+7105	540609	1	2	902	3	Peter	Kopáčik			46	tesař	Pavlov	99	80	0	M
+7105	540609	1	1	901	4	Viktor	Vykydal	Ing.		31	mistr lesní výroby	Pavlov - Veselí	99	80	0	M
+7105	540609	1	2	902	4	Iveta	Montágová			45	zubní technik	Pavlov	99	80	0	F
+7105	540609	1	1	901	5	Richard	Prokop			31	seřizovač	Pavlov	99	80	0	M
+7105	540609	1	2	902	5	František	Sysel			53	dělník	Pavlov	99	80	0	M
+7105	540609	1	1	901	6	Jaroslav	Dostál			31	dělník	Pavlov	99	80	0	M
+7105	540609	1	2	902	6	Michal	Göbl			38	dělník	Pavlov	99	80	0	M
+7105	540609	1	1	901	7	František	Bednář			49	podnikatel	Pavlov - Radnice	99	80	0	M
+7105	540609	1	2	902	7	Adam	Laštůvka			34	řidič	Pavlov	99	80	0	M
+7105	540609	1	1	901	8	Josef	Fajt			29	mistr	Pavlov	99	80	0	M
+7105	540609	1	2	902	8	Radek	Zapletal			31	dělník	Pavlov	99	80	0	M
+7105	540609	1	1	901	9	Josef	Vařeka			33	klempíř	Pavlov	99	80	0	M
+7105	540609	1	2	902	9	Zdeněk	Rozman	Mgr.		33	vychovatel	Pavlov	99	80	0	M
+7105	540609	1	1	901	10	Veronika	Prokopová			29	kreslička - THP	Pavlov	99	80	0	F
+7105	540609	1	2	902	10	Jan	Jořenek			28	nástrojař	Pavlov	99	80	0	M
+7105	540609	1	1	901	11	Dušan	Šmirg			39	dělník	Pavlov	99	80	0	M
+7105	540609	1	2	902	11	Pavol	Kopáčik			46	zedník	Pavlov - Veselí	99	80	0	M

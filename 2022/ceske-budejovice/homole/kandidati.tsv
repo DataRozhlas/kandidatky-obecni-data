@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	544493	1	1	766	1	Tomáš	Trnka	M	Ing.		40	podnikatel ve stavebnictví	Homole	99	766	A
-3101	544493	1	1	766	2	Olga	Houšková	F	Ing.	Ph.D.	40	ekonomka	Nové Homole	99	766	A
-3101	544493	1	1	766	3	Martin	Sojka	M	Ing.		32	engineering manažer	Homole	99	766	A
-3101	544493	1	1	766	4	Tomáš	Janda	M	Bc.		35	vedoucí nákupu	Nové Homole	99	766	A
-3101	544493	1	1	766	5	Hana	Fraňková	F	Ing.		31	ekonomka	Černý Dub	99	766	A
-3101	544493	1	1	766	6	Ondřej	Dohnal	M	Ing.		37	geodet	Nové Homole	99	766	A
-3101	544493	1	1	766	7	Tereza	Kutová	F	MUDr.		36	lékařka	Nové Homole	99	766	A
-3101	544493	1	1	766	8	Petr	Liška	M	Ing.		45	obchodní ředitel	Nové Homole	99	766	A
-3101	544493	1	1	766	9	Marie	Vojtová	F			59	hospodářskosprávní a ekonomický pracovník	Homole	99	766	A
-3101	544493	1	1	766	10	Zdeněk	Jan	M			38	podnikatel	Nové Homole	99	766	A
-3101	544493	1	1	766	11	Radka	Brunclíková	F			52	majitelka účetní kanceláře	Nové Homole	99	766	A
-3101	544493	1	2	901	1	Jiří	Červák	M			68	důchodce	Nové Homole	99	80	A
-3101	544493	1	2	901	2	Jiří	Holub	M	Ing.		60	úředník	Nové Homole	99	80	A
-3101	544493	1	2	901	3	Jan	Lach	M	Ing.		34	revizní technik	Nové Homole	99	80	A
-3101	544493	1	2	901	4	Michaela	Zídková	F	Ing.		36	podnikatel	Nové Homole	99	80	A
-3101	544493	1	2	901	5	Jaroslav	Holík	M			48	IT technik	Nové Homole	99	80	A
-3101	544493	1	2	901	6	Alena	Lieblová	F			38	administrativní pracovnice	Černý Dub	99	80	A
-3101	544493	1	2	901	7	Juraj	Knapčok	M	Ing.		67	důchodce	Nové Homole	99	80	A
-3101	544493	1	2	901	8	Josef	Fessl	M			51	dělník	Černý Dub	99	80	A
-3101	544493	1	2	901	9	Zdeňka	Škodová	F	Mgr.		54	ekonomka	Nové Homole	99	80	A
-3101	544493	1	2	901	10	Karel	Toman	M			43	mistr	Nové Homole	99	80	A
-3101	544493	1	2	901	11	Luděk	Neubauer	M			67	technik údržby	Nové Homole	99	80	A
-3101	544493	1	3	902	1	Miroslav	Pavlíček	M	Ing.		44	stavební inženýr	Nové Homole	99	80	A
-3101	544493	1	3	902	2	David	Schneider	M			47	technik v energetice	Homole	99	80	A
-3101	544493	1	3	902	3	Josef	Lejsek	M	Ing.		44	obchodní ředitel	Homole	99	80	A
-3101	544493	1	3	902	4	Zdeněk	Fornbaum	M		DiS.	44	projektový manažer	Černý Dub	99	80	A
-3101	544493	1	3	902	5	Jaroslava	Heřmánková	F			60	důchodkyně	Homole	99	80	A
-3101	544493	1	3	902	6	Michal	Babouček	M	Ing.		44	zástupce ředitele	Černý Dub	99	80	A
-3101	544493	1	3	902	7	Libor	Szojka	M	Mgr.		43	vedoucí obchod. oddělení	Nové Homole	99	80	A
-3101	544493	1	3	902	8	Ludmila	Dvořáková	F	MgA.		32	učitelka	Černý Dub	99	80	A
-3101	544493	1	3	902	9	Michal	Majchrák	M	Mgr.	Ph.D.	39	advokát	Černý Dub	99	80	A
-3101	544493	1	3	902	10	Jarmila	Šverclová	F			58	projektantka	Nové Homole	99	80	A
-3101	544493	1	3	902	11	Milan	Ďurica	M			36	obchodní manažer	Nové Homole	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	544493	1	1	766	1	Tomáš	Trnka	Ing.		40	podnikatel ve stavebnictví	Homole	99	766	A	M
+3101	544493	1	2	901	1	Jiří	Červák			68	důchodce	Nové Homole	99	80	A	M
+3101	544493	1	3	902	1	Miroslav	Pavlíček	Ing.		44	stavební inženýr	Nové Homole	99	80	A	M
+3101	544493	1	1	766	2	Olga	Houšková	Ing.	Ph.D.	40	ekonomka	Nové Homole	99	766	A	F
+3101	544493	1	2	901	2	Jiří	Holub	Ing.		60	úředník	Nové Homole	99	80	A	M
+3101	544493	1	3	902	2	David	Schneider			47	technik v energetice	Homole	99	80	A	M
+3101	544493	1	1	766	3	Martin	Sojka	Ing.		32	engineering manažer	Homole	99	766	A	M
+3101	544493	1	2	901	3	Jan	Lach	Ing.		34	revizní technik	Nové Homole	99	80	A	M
+3101	544493	1	3	902	3	Josef	Lejsek	Ing.		44	obchodní ředitel	Homole	99	80	A	M
+3101	544493	1	1	766	4	Tomáš	Janda	Bc.		35	vedoucí nákupu	Nové Homole	99	766	A	M
+3101	544493	1	2	901	4	Michaela	Zídková	Ing.		36	podnikatel	Nové Homole	99	80	A	F
+3101	544493	1	3	902	4	Zdeněk	Fornbaum		DiS.	44	projektový manažer	Černý Dub	99	80	A	M
+3101	544493	1	1	766	5	Hana	Fraňková	Ing.		31	ekonomka	Černý Dub	99	766	A	F
+3101	544493	1	2	901	5	Jaroslav	Holík			48	IT technik	Nové Homole	99	80	A	M
+3101	544493	1	3	902	5	Jaroslava	Heřmánková			60	důchodkyně	Homole	99	80	A	F
+3101	544493	1	1	766	6	Ondřej	Dohnal	Ing.		37	geodet	Nové Homole	99	766	A	M
+3101	544493	1	2	901	6	Alena	Lieblová			38	administrativní pracovnice	Černý Dub	99	80	A	F
+3101	544493	1	3	902	6	Michal	Babouček	Ing.		44	zástupce ředitele	Černý Dub	99	80	A	M
+3101	544493	1	1	766	7	Tereza	Kutová	MUDr.		36	lékařka	Nové Homole	99	766	A	F
+3101	544493	1	2	901	7	Juraj	Knapčok	Ing.		67	důchodce	Nové Homole	99	80	A	M
+3101	544493	1	3	902	7	Libor	Szojka	Mgr.		43	vedoucí obchod. oddělení	Nové Homole	99	80	A	M
+3101	544493	1	1	766	8	Petr	Liška	Ing.		45	obchodní ředitel	Nové Homole	99	766	A	M
+3101	544493	1	2	901	8	Josef	Fessl			51	dělník	Černý Dub	99	80	A	M
+3101	544493	1	3	902	8	Ludmila	Dvořáková	MgA.		32	učitelka	Černý Dub	99	80	A	F
+3101	544493	1	1	766	9	Marie	Vojtová			59	hospodářskosprávní a ekonomický pracovník	Homole	99	766	A	F
+3101	544493	1	2	901	9	Zdeňka	Škodová	Mgr.		54	ekonomka	Nové Homole	99	80	A	F
+3101	544493	1	3	902	9	Michal	Majchrák	Mgr.	Ph.D.	39	advokát	Černý Dub	99	80	A	M
+3101	544493	1	1	766	10	Zdeněk	Jan			38	podnikatel	Nové Homole	99	766	A	M
+3101	544493	1	2	901	10	Karel	Toman			43	mistr	Nové Homole	99	80	A	M
+3101	544493	1	3	902	10	Jarmila	Šverclová			58	projektantka	Nové Homole	99	80	A	F
+3101	544493	1	1	766	11	Radka	Brunclíková			52	majitelka účetní kanceláře	Nové Homole	99	766	A	F
+3101	544493	1	2	901	11	Luděk	Neubauer			67	technik údržby	Nové Homole	99	80	A	M
+3101	544493	1	3	902	11	Milan	Ďurica			36	obchodní manažer	Nové Homole	99	80	A	M

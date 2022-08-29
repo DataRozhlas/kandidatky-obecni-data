@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4204	542555	1	1	902	1	Lenka	Valsová	F			52	administrativní pracovnice	Opočno	99	80	0
-4204	542555	1	1	902	2	Jaroslav	Richter	M			63	důchodce	Opočno	99	80	0
-4204	542555	1	1	902	3	Helena	Fymanová	F			51	učitelka	Opočno	99	80	0
-4204	542555	1	1	902	4	Libuše	Zelenková	F			44	inv. důchodce	Opočno	99	80	0
-4204	542555	1	1	902	5	Pavel	Novotný	M			34	obráběč	Opočno	99	80	0
-4204	542555	1	2	901	1	Jiří	Vohánka	M			39	lesník	Opočno	99	80	0
-4204	542555	1	2	901	2	Marcel	Klouček	M			35	manažer	Opočno	99	80	0
-4204	542555	1	2	901	3	Pavel	Svoboda	M			36	zaměstnanec ČD	Opočno	99	80	0
-4204	542555	1	2	901	4	Václav	Fyman	M			25	operátor	Opočno	99	80	0
-4204	542555	1	2	901	5	Jan	Sládek	M			22	obrábeč	Opočno	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4204	542555	1	1	902	1	Lenka	Valsová			52	administrativní pracovnice	Opočno	99	80	0	F
+4204	542555	1	2	901	1	Jiří	Vohánka			39	lesník	Opočno	99	80	0	M
+4204	542555	1	1	902	2	Jaroslav	Richter			63	důchodce	Opočno	99	80	0	M
+4204	542555	1	2	901	2	Marcel	Klouček			35	manažer	Opočno	99	80	0	M
+4204	542555	1	1	902	3	Helena	Fymanová			51	učitelka	Opočno	99	80	0	F
+4204	542555	1	2	901	3	Pavel	Svoboda			36	zaměstnanec ČD	Opočno	99	80	0	M
+4204	542555	1	1	902	4	Libuše	Zelenková			44	inv. důchodce	Opočno	99	80	0	F
+4204	542555	1	2	901	4	Václav	Fyman			25	operátor	Opočno	99	80	0	M
+4204	542555	1	1	902	5	Pavel	Novotný			34	obráběč	Opočno	99	80	0	M
+4204	542555	1	2	901	5	Jan	Sládek			22	obrábeč	Opočno	99	80	0	M

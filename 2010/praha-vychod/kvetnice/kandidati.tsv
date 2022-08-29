@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2109	564982	1	1	801	1	Stanislav	Plocek	M			57	státní zaměstnanec	Květnice	99	80	0
-2109	564982	1	2	902	1	Jiří	Slavík	M			52	elektromechanik	Květnice	99	80	0
-2109	564982	1	2	902	2	Jiří	Pavlíček	M			57	podnikatel	Květnice	99	80	0
-2109	564982	1	2	902	3	Michal	Famfulík	M			42	podnikatel	Květnice	99	80	0
-2109	564982	1	2	902	4	Josef	Holan	M			66	důchodce	Květnice	99	80	0
-2109	564982	1	2	902	5	Jindřich	Hájek	M			34	elektromechanik	Květnice	99	80	0
-2109	564982	1	2	902	6	Jindřich	Janeje	M			51	důchodce	Květnice	99	80	0
-2109	564982	1	2	902	7	Marta	Kuličová	F			58	podnikatelka	Květnice	99	80	0
-2109	564982	1	3	901	1	Jiří	Prouza	M			56	finanční manažer	Květnice	99	80	0
-2109	564982	1	3	901	2	Markéta	Štrosová	F	Ing.		36	mateřská dovolená	Květnice	99	80	0
-2109	564982	1	3	901	3	Tomáš	Hordějčuk	M			42	rodičovská dovolená	Květnice	99	80	0
-2109	564982	1	3	901	4	Milan	Polívka	M	Ing.	PhD.	38	vysokoškolský specialista	Květnice	99	80	0
-2109	564982	1	3	901	5	Kryštof	Hošek	M			26	studující	Květnice	99	80	0
-2109	564982	1	3	901	6	František	Daniel	M	Ing.		66	soukromý podnikatel	Květnice	99	80	0
-2109	564982	1	3	901	7	Rudolf	Trubba	M			46	collection manažer	Květnice	99	80	0
-2109	564982	1	4	905	1	Jaroslav	Kulič	M			58	podnikatel	Květnice	99	80	0
-2109	564982	1	4	905	2	Pavel	Hlavizňa	M			32	technik	Květnice	99	80	0
-2109	564982	1	4	905	3	Josef	Řezníček	M			65	důchodce	Květnice	99	80	0
-2109	564982	1	4	905	4	Martin	Řezáč	M			29	mechanik	Květnice	99	80	0
-2109	564982	1	4	905	5	Jiří	Slavík	M			24	elektromechanik	Květnice	99	80	0
-2109	564982	1	4	905	6	Ilona	Zdobinská	F			34	v domácnosti	Květnice	99	80	0
-2109	564982	1	4	905	7	Alois	Pokorný	M			59	podnikatel	Květnice	99	80	0
-2109	564982	1	5	904	1	Ladislav	Rathouský	M			60	podnikatel	Květnice	99	80	0
-2109	564982	1	5	904	2	Martin	Průcha	M			35	technik	Květnice	99	80	0
-2109	564982	1	5	904	3	Zuzana	Možná	F		DiS.	35	v domácnosti	Květnice	99	80	0
-2109	564982	1	5	904	4	Ladislav	Král	M			47	podnikatel	Květnice	99	80	0
-2109	564982	1	5	904	5	Václav	Škorpil	M			48	řidič	Květnice	99	80	0
-2109	564982	1	5	904	6	Martin	Křeček	M			34	podnikatel	Květnice	99	80	0
-2109	564982	1	5	904	7	Jaroslav	Smíšek	M			61	podnikatel	Květnice	99	80	0
-2109	564982	1	6	903	1	Ivana	Řezáčová	F			27	v domácnosti	Květnice	99	80	0
-2109	564982	1	6	903	2	Jiří	Pavlíček	M			36	podnikatel	Květnice	99	80	0
-2109	564982	1	6	903	3	Michal	Kulič	M			34	podnikatel	Květnice	99	80	0
-2109	564982	1	6	903	4	Pavel	Holan	M			39	podnikatel	Květnice	99	80	0
-2109	564982	1	6	903	5	Žaneta	Škorpilová	F			21	recepční	Květnice	99	80	0
-2109	564982	1	6	903	6	Václav	Škorpil	M			20	studující	Květnice	99	80	0
-2109	564982	1	6	903	7	Tomáš	Smolík	M			28	řidič	Květnice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2109	564982	1	1	801	1	Stanislav	Plocek			57	státní zaměstnanec	Květnice	99	80	0	M
+2109	564982	1	2	902	1	Jiří	Slavík			52	elektromechanik	Květnice	99	80	0	M
+2109	564982	1	3	901	1	Jiří	Prouza			56	finanční manažer	Květnice	99	80	0	M
+2109	564982	1	4	905	1	Jaroslav	Kulič			58	podnikatel	Květnice	99	80	0	M
+2109	564982	1	5	904	1	Ladislav	Rathouský			60	podnikatel	Květnice	99	80	0	M
+2109	564982	1	6	903	1	Ivana	Řezáčová			27	v domácnosti	Květnice	99	80	0	F
+2109	564982	1	2	902	2	Jiří	Pavlíček			57	podnikatel	Květnice	99	80	0	M
+2109	564982	1	3	901	2	Markéta	Štrosová	Ing.		36	mateřská dovolená	Květnice	99	80	0	F
+2109	564982	1	4	905	2	Pavel	Hlavizňa			32	technik	Květnice	99	80	0	M
+2109	564982	1	5	904	2	Martin	Průcha			35	technik	Květnice	99	80	0	M
+2109	564982	1	6	903	2	Jiří	Pavlíček			36	podnikatel	Květnice	99	80	0	M
+2109	564982	1	2	902	3	Michal	Famfulík			42	podnikatel	Květnice	99	80	0	M
+2109	564982	1	3	901	3	Tomáš	Hordějčuk			42	rodičovská dovolená	Květnice	99	80	0	M
+2109	564982	1	4	905	3	Josef	Řezníček			65	důchodce	Květnice	99	80	0	M
+2109	564982	1	5	904	3	Zuzana	Možná		DiS.	35	v domácnosti	Květnice	99	80	0	F
+2109	564982	1	6	903	3	Michal	Kulič			34	podnikatel	Květnice	99	80	0	M
+2109	564982	1	2	902	4	Josef	Holan			66	důchodce	Květnice	99	80	0	M
+2109	564982	1	3	901	4	Milan	Polívka	Ing.	PhD.	38	vysokoškolský specialista	Květnice	99	80	0	M
+2109	564982	1	4	905	4	Martin	Řezáč			29	mechanik	Květnice	99	80	0	M
+2109	564982	1	5	904	4	Ladislav	Král			47	podnikatel	Květnice	99	80	0	M
+2109	564982	1	6	903	4	Pavel	Holan			39	podnikatel	Květnice	99	80	0	M
+2109	564982	1	2	902	5	Jindřich	Hájek			34	elektromechanik	Květnice	99	80	0	M
+2109	564982	1	3	901	5	Kryštof	Hošek			26	studující	Květnice	99	80	0	M
+2109	564982	1	4	905	5	Jiří	Slavík			24	elektromechanik	Květnice	99	80	0	M
+2109	564982	1	5	904	5	Václav	Škorpil			48	řidič	Květnice	99	80	0	M
+2109	564982	1	6	903	5	Žaneta	Škorpilová			21	recepční	Květnice	99	80	0	F
+2109	564982	1	2	902	6	Jindřich	Janeje			51	důchodce	Květnice	99	80	0	M
+2109	564982	1	3	901	6	František	Daniel	Ing.		66	soukromý podnikatel	Květnice	99	80	0	M
+2109	564982	1	4	905	6	Ilona	Zdobinská			34	v domácnosti	Květnice	99	80	0	F
+2109	564982	1	5	904	6	Martin	Křeček			34	podnikatel	Květnice	99	80	0	M
+2109	564982	1	6	903	6	Václav	Škorpil			20	studující	Květnice	99	80	0	M
+2109	564982	1	2	902	7	Marta	Kuličová			58	podnikatelka	Květnice	99	80	0	F
+2109	564982	1	3	901	7	Rudolf	Trubba			46	collection manažer	Květnice	99	80	0	M
+2109	564982	1	4	905	7	Alois	Pokorný			59	podnikatel	Květnice	99	80	0	M
+2109	564982	1	5	904	7	Jaroslav	Smíšek			61	podnikatel	Květnice	99	80	0	M
+2109	564982	1	6	903	7	Tomáš	Smolík			28	řidič	Květnice	99	80	0	M

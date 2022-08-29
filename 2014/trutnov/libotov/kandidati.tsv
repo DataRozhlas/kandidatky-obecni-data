@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579483	1	1	902	1	Filip	Kraus	M	Mgr. Bc.		29	specialista na geografické informační systémy	Libotov	99	80	0
-5205	579483	1	1	902	2	Vladimír	Švába	M			40	zdravotnický záchranář-operátor	Libotov	99	80	0
-5205	579483	1	1	902	3	Petr	Lebedinský	M			35	truhlář	Libotov	99	80	0
-5205	579483	1	1	902	4	Martin	Hynek	M			38	ošetřovatel skotu	Libotov	99	80	0
-5205	579483	1	1	902	5	Jaroslav	Vít	M			64	důchodce	Libotov	99	80	0
-5205	579483	1	1	902	6	Jan	Hlava	M			20	obsluha CNC stroje	Libotov	99	80	0
-5205	579483	1	1	902	7	Libor	Meduna	M			45	řidič/skladník	Libotov	99	80	0
-5205	579483	1	1	902	8	Miroslav	Lebedinský	M			59	strojní zámečník	Libotov	99	80	0
-5205	579483	1	1	902	9	Ondřej	Sychra	M			26	automechanik	Libotov	99	80	0
-5205	579483	1	2	901	1	Otto	Tasler	M			63	důchodce	Libotov	99	80	0
-5205	579483	1	2	901	2	Milan	Frýba	M	Mgr.		64	důchodce	Libotov	99	80	0
-5205	579483	1	2	901	3	Jaroslav	Kubinec	M			52	řidič	Libotov	99	80	0
-5205	579483	1	2	901	4	Luděk	Hlava	M			47	zemědělský technik	Libotov	99	80	0
-5205	579483	1	2	901	5	Kateřina	Hillermannová	F			38	zdravotní sestra	Libotov	99	80	0
-5205	579483	1	2	901	6	Milan	Řehák	M			56	podnikatel	Libotov	99	80	0
-5205	579483	1	2	901	7	Věra	Černá	F			67	důchodkyně	Libotov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579483	1	1	902	1	Filip	Kraus	Mgr. Bc.		29	specialista na geografické informační systémy	Libotov	99	80	0	M
+5205	579483	1	2	901	1	Otto	Tasler			63	důchodce	Libotov	99	80	0	M
+5205	579483	1	1	902	2	Vladimír	Švába			40	zdravotnický záchranář-operátor	Libotov	99	80	0	M
+5205	579483	1	2	901	2	Milan	Frýba	Mgr.		64	důchodce	Libotov	99	80	0	M
+5205	579483	1	1	902	3	Petr	Lebedinský			35	truhlář	Libotov	99	80	0	M
+5205	579483	1	2	901	3	Jaroslav	Kubinec			52	řidič	Libotov	99	80	0	M
+5205	579483	1	1	902	4	Martin	Hynek			38	ošetřovatel skotu	Libotov	99	80	0	M
+5205	579483	1	2	901	4	Luděk	Hlava			47	zemědělský technik	Libotov	99	80	0	M
+5205	579483	1	1	902	5	Jaroslav	Vít			64	důchodce	Libotov	99	80	0	M
+5205	579483	1	2	901	5	Kateřina	Hillermannová			38	zdravotní sestra	Libotov	99	80	0	F
+5205	579483	1	1	902	6	Jan	Hlava			20	obsluha CNC stroje	Libotov	99	80	0	M
+5205	579483	1	2	901	6	Milan	Řehák			56	podnikatel	Libotov	99	80	0	M
+5205	579483	1	1	902	7	Libor	Meduna			45	řidič/skladník	Libotov	99	80	0	M
+5205	579483	1	2	901	7	Věra	Černá			67	důchodkyně	Libotov	99	80	0	F
+5205	579483	1	1	902	8	Miroslav	Lebedinský			59	strojní zámečník	Libotov	99	80	0	M
+5205	579483	1	1	902	9	Ondřej	Sychra			26	automechanik	Libotov	99	80	0	M

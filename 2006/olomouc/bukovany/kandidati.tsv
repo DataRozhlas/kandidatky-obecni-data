@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	552402	1	1	7	1	Miloslav	Šmída	M	Bc.		34	soukromý podnikatel	Bukovany	7	7	0
-7102	552402	1	1	7	2	Petr	Možíš	M			34	soukromý podnikatel	Bukovany	99	7	0
-7102	552402	1	1	7	3	Pavel	Zedník	M	Ing.		35	soukromý podnikatel	Bukovany	99	7	0
-7102	552402	1	1	7	4	Václav	Bergman	M			32	soukromý podnikatel	Bukovany	99	7	0
-7102	552402	1	1	7	5	Zbyněk	Kasal	M			39	soukromý podnikatel	Bukovany	99	7	0
-7102	552402	1	1	7	6	Miroslav	Stloukal	M	Ing.		48	místopřed.předst.metropol.sítě	Bukovany	99	7	0
-7102	552402	1	1	7	7	Zdeněk	Krumpolc	M			23	student	Bukovany	99	7	0
-7102	552402	1	2	1	1	Pavel	Zeman	M			57	soukromý podnikatel	Bukovany	1	1	0
-7102	552402	1	2	1	2	Drahomír	Kaprál	M			68	důchodce	Bukovany	99	1	0
-7102	552402	1	2	1	3	Tomáš	Zendulka	M			30	soukromý podnikatel	Bukovany	99	1	0
-7102	552402	1	2	1	4	Jan	Machalka	M	Ing.		35	bankovní specialista	Bukovany	99	1	0
-7102	552402	1	2	1	5	Rudolf	Svoboda	M			43	vedoucí servisu	Bukovany	99	1	0
-7102	552402	1	2	1	6	Pavel	Chudík	M			44	mistr tratí	Bukovany	1	1	0
-7102	552402	1	2	1	7	Miloslav	Jedlička	M			44	stavbyvedoucí	Bukovany	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	552402	1	1	7	1	Miloslav	Šmída	Bc.		34	soukromý podnikatel	Bukovany	7	7	0	M
+7102	552402	1	2	1	1	Pavel	Zeman			57	soukromý podnikatel	Bukovany	1	1	0	M
+7102	552402	1	1	7	2	Petr	Možíš			34	soukromý podnikatel	Bukovany	99	7	0	M
+7102	552402	1	2	1	2	Drahomír	Kaprál			68	důchodce	Bukovany	99	1	0	M
+7102	552402	1	1	7	3	Pavel	Zedník	Ing.		35	soukromý podnikatel	Bukovany	99	7	0	M
+7102	552402	1	2	1	3	Tomáš	Zendulka			30	soukromý podnikatel	Bukovany	99	1	0	M
+7102	552402	1	1	7	4	Václav	Bergman			32	soukromý podnikatel	Bukovany	99	7	0	M
+7102	552402	1	2	1	4	Jan	Machalka	Ing.		35	bankovní specialista	Bukovany	99	1	0	M
+7102	552402	1	1	7	5	Zbyněk	Kasal			39	soukromý podnikatel	Bukovany	99	7	0	M
+7102	552402	1	2	1	5	Rudolf	Svoboda			43	vedoucí servisu	Bukovany	99	1	0	M
+7102	552402	1	1	7	6	Miroslav	Stloukal	Ing.		48	místopřed.předst.metropol.sítě	Bukovany	99	7	0	M
+7102	552402	1	2	1	6	Pavel	Chudík			44	mistr tratí	Bukovany	1	1	0	M
+7102	552402	1	1	7	7	Zdeněk	Krumpolc			23	student	Bukovany	99	7	0	M
+7102	552402	1	2	1	7	Miloslav	Jedlička			44	stavbyvedoucí	Bukovany	99	1	0	M

@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	597171	1	1	1	1	Vladimír	Štěpánek	M			53	učitel odborného výcviku	Žďárec	1	1	0
-6203	597171	1	1	1	2	Miroslav	Jašek	M	Ing.		52	učitel	Žďárec	99	1	0
-6203	597171	1	1	1	3	Lubomír	Žmol	M			31	řidič	Žďárec	99	1	0
-6203	597171	1	1	1	4	Jiří	Habán	M			39	dělník	Žďárec	99	1	0
-6203	597171	1	1	1	5	Zdeněk	Jaroš	M			38	elektromontér	Žďárec	99	1	0
-6203	597171	1	1	1	6	Jiří	Sysel	M			33	přednosta železniční stanice	Žďárec	99	1	0
-6203	597171	1	1	1	7	Zdeňka	Burianová	F			34	zootechnička	Žďárec	99	1	0
-6203	597171	1	1	1	8	Milan	Svoboda	M			38	stolař	Žďárec	99	1	0
-6203	597171	1	2	901	1	Jiří	Patloka	M			45	řidič	Žďárec	99	80	0
-6203	597171	1	2	901	2	Jindřich	Mühlhansl	M			30	osoba samost.výdělečně činná	Žďárec	99	80	0
-6203	597171	1	2	901	3	Jiří	Svoboda	M			33	osoba samost.výdělečně činná	Žďárec	99	80	0
-6203	597171	1	2	901	4	Kamil	Baláš	M	Ing.		35	stavbyvedoucí	Žďárec	99	80	0
-6203	597171	1	3	801	1	Luděk	Borkovec	M		DiS.	25	technik podpory řízení podniku	Žďárec	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	597171	1	1	1	1	Vladimír	Štěpánek			53	učitel odborného výcviku	Žďárec	1	1	0	M
+6203	597171	1	2	901	1	Jiří	Patloka			45	řidič	Žďárec	99	80	0	M
+6203	597171	1	3	801	1	Luděk	Borkovec		DiS.	25	technik podpory řízení podniku	Žďárec	99	80	0	M
+6203	597171	1	1	1	2	Miroslav	Jašek	Ing.		52	učitel	Žďárec	99	1	0	M
+6203	597171	1	2	901	2	Jindřich	Mühlhansl			30	osoba samost.výdělečně činná	Žďárec	99	80	0	M
+6203	597171	1	1	1	3	Lubomír	Žmol			31	řidič	Žďárec	99	1	0	M
+6203	597171	1	2	901	3	Jiří	Svoboda			33	osoba samost.výdělečně činná	Žďárec	99	80	0	M
+6203	597171	1	1	1	4	Jiří	Habán			39	dělník	Žďárec	99	1	0	M
+6203	597171	1	2	901	4	Kamil	Baláš	Ing.		35	stavbyvedoucí	Žďárec	99	80	0	M
+6203	597171	1	1	1	5	Zdeněk	Jaroš			38	elektromontér	Žďárec	99	1	0	M
+6203	597171	1	1	1	6	Jiří	Sysel			33	přednosta železniční stanice	Žďárec	99	1	0	M
+6203	597171	1	1	1	7	Zdeňka	Burianová			34	zootechnička	Žďárec	99	1	0	F
+6203	597171	1	1	1	8	Milan	Svoboda			38	stolař	Žďárec	99	1	0	M

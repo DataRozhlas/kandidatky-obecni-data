@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5203	547531	1	1	902	1	Dominik	Hlubuček	M			22	TDMS technik	Hořenice	99	80	A
-5203	547531	1	1	902	2	Věra	Hlubučková	F	Ing.		45	finanční kontrolor	Hořenice	99	80	A
-5203	547531	1	1	902	3	Andrea	Hlubučková	F	Bc.		24	letuška	Hořenice	99	80	A
-5203	547531	1	2	901	1	Stanislav	Volf	M			55	dělník	Hořenice	99	80	A
-5203	547531	1	2	901	2	Stanislav	Šnábl	M			52	technik	Hořenice	99	80	A
-5203	547531	1	2	901	3	Karla	Hofmanová	F			64	důchodce	Hořenice	99	80	A
-5203	547531	1	2	901	4	Pavel	Volf	M			53	OSVČ	Hořenice	99	80	A
-5203	547531	1	2	901	5	Pavel	Freisleben	M			47	OSVČ	Hořenice	99	80	A
-5203	547531	1	2	901	6	Lenka	Emlarová	F	Ing.		32	mateřská dovolená	Hořenice	99	80	A
-5203	547531	1	2	901	7	Vladimír	Havelka	M			41	technik	Hořenice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5203	547531	1	1	902	1	Dominik	Hlubuček			22	TDMS technik	Hořenice	99	80	A	M
+5203	547531	1	2	901	1	Stanislav	Volf			55	dělník	Hořenice	99	80	A	M
+5203	547531	1	1	902	2	Věra	Hlubučková	Ing.		45	finanční kontrolor	Hořenice	99	80	A	F
+5203	547531	1	2	901	2	Stanislav	Šnábl			52	technik	Hořenice	99	80	A	M
+5203	547531	1	1	902	3	Andrea	Hlubučková	Bc.		24	letuška	Hořenice	99	80	A	F
+5203	547531	1	2	901	3	Karla	Hofmanová			64	důchodce	Hořenice	99	80	A	F
+5203	547531	1	2	901	4	Pavel	Volf			53	OSVČ	Hořenice	99	80	A	M
+5203	547531	1	2	901	5	Pavel	Freisleben			47	OSVČ	Hořenice	99	80	A	M
+5203	547531	1	2	901	6	Lenka	Emlarová	Ing.		32	mateřská dovolená	Hořenice	99	80	A	F
+5203	547531	1	2	901	7	Vladimír	Havelka			41	technik	Hořenice	99	80	A	M

@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3105	550116	1	1	901	1	Libor	Vejtasa	M			48	pracovník ve veřejných službách	Bohumilice	99	80	A
-3105	550116	1	1	901	2	Jindřich	Malý	M			37	zdravotnický záchranář	Bohumilice	99	80	A
-3105	550116	1	1	901	3	Zdeněk	Nový	M	Ing.		33	projektant - vodohospodář	Bohumilice	99	80	A
-3105	550116	1	1	901	4	Jana	Pinkeová	F			53	projektant	Bohumilice	99	80	A
-3105	550116	1	1	901	5	Jana	Masáčková	F	Ing.		31	účetní	Bohumilice	99	80	A
-3105	550116	1	1	901	6	Josef	Preněk	M			57	zkušební technik	Bohumilice	99	80	A
-3105	550116	1	1	901	7	Jan	Blahout	M	Ing.		40	státní zaměstnanec	Bohumilice	99	80	A
-3105	550116	1	1	901	8	Pavel	Filip	M			57	úředník	Bohumilice	99	80	A
-3105	550116	1	1	901	9	Božena	Beránková	F			65	důchodce	Bohumilice	1	80	A
-3105	550116	1	2	902	1	Jan	Toman	M			41	OSVČ	Bohumilice	99	80	A
-3105	550116	1	2	902	2	Kateřina	Filipová	F			37	referentka	Bohumilice	99	80	A
-3105	550116	1	2	902	3	Denisa	Kováčová	F			43	vedoucí sběrny sázkových kanceláří	Bohumilice	99	80	A
-3105	550116	1	2	902	4	Michal	Hejtmánek	M			38	obchodní zástupce Kenobi	Bohumilice	99	80	A
-3105	550116	1	2	902	5	Imrich	Kantor	M			36	dělník v SRN	Bohumilice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3105	550116	1	1	901	1	Libor	Vejtasa			48	pracovník ve veřejných službách	Bohumilice	99	80	A	M
+3105	550116	1	2	902	1	Jan	Toman			41	OSVČ	Bohumilice	99	80	A	M
+3105	550116	1	1	901	2	Jindřich	Malý			37	zdravotnický záchranář	Bohumilice	99	80	A	M
+3105	550116	1	2	902	2	Kateřina	Filipová			37	referentka	Bohumilice	99	80	A	F
+3105	550116	1	1	901	3	Zdeněk	Nový	Ing.		33	projektant - vodohospodář	Bohumilice	99	80	A	M
+3105	550116	1	2	902	3	Denisa	Kováčová			43	vedoucí sběrny sázkových kanceláří	Bohumilice	99	80	A	F
+3105	550116	1	1	901	4	Jana	Pinkeová			53	projektant	Bohumilice	99	80	A	F
+3105	550116	1	2	902	4	Michal	Hejtmánek			38	obchodní zástupce Kenobi	Bohumilice	99	80	A	M
+3105	550116	1	1	901	5	Jana	Masáčková	Ing.		31	účetní	Bohumilice	99	80	A	F
+3105	550116	1	2	902	5	Imrich	Kantor			36	dělník v SRN	Bohumilice	99	80	A	M
+3105	550116	1	1	901	6	Josef	Preněk			57	zkušební technik	Bohumilice	99	80	A	M
+3105	550116	1	1	901	7	Jan	Blahout	Ing.		40	státní zaměstnanec	Bohumilice	99	80	A	M
+3105	550116	1	1	901	8	Pavel	Filip			57	úředník	Bohumilice	99	80	A	M
+3105	550116	1	1	901	9	Božena	Beránková			65	důchodce	Bohumilice	1	80	A	F

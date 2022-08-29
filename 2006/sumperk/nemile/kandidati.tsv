@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	553476	1	1	903	1	Radovan	Till	M	Ing.		39	referent MěÚ	Nemile	99	80	0
-7105	553476	1	1	903	2	Lukáš	Habich	M			26	mistr odb. výcviku	Lupěné	99	80	0
-7105	553476	1	1	903	3	Jan	Krňávek	M			59	dělník	Nemile	99	80	0
-7105	553476	1	1	903	4	Tomáš	Opravil	M	Ing.		32	referent MěÚ	Nemile	99	80	0
-7105	553476	1	1	903	5	Bohumil	Barvíř	M			47	živnostník	Lupěné	99	80	0
-7105	553476	1	1	903	6	Luděk	Tempír	M			45	živnostník	Nemile	99	80	0
-7105	553476	1	1	903	7	Jan	Parma	M			51	dělník	Nemile	99	80	0
-7105	553476	1	2	901	1	Jaroslava	Orembová	F	Bc.		31	účetní	Nemile	99	80	0
-7105	553476	1	2	901	2	Martin	Nepožitek	M			41	soustružník	Lupěné	99	80	0
-7105	553476	1	2	901	3	Lenka	Schwabová	F	Bc.		37	učitelka	Nemile	99	80	0
-7105	553476	1	2	901	4	Tomáš	Crhák	M			29	skladník	Nemile	99	80	0
-7105	553476	1	2	901	5	Irena	Mičová	F			27	stavební referent	Nemile	99	80	0
-7105	553476	1	2	901	6	Lukáš	Urban	M			21	studující	Nemile	99	80	0
-7105	553476	1	2	901	7	Emil	Korčák	M			55	dělník	Lupěné	99	80	0
-7105	553476	1	3	1	1	Lubomír	Stryk	M			51	státní zaměstnanec	Nemile	99	1	0
-7105	553476	1	3	1	2	Tomáš	Jílek	M			34	technik	Nemile	99	1	0
-7105	553476	1	3	1	3	Anna	Lukášová	F			52	účetní	Nemile	99	1	0
-7105	553476	1	3	1	4	Marie	Vepřková	F	Mgr.		52	ekonom	Nemile	99	1	0
-7105	553476	1	3	1	5	František	Valenta	M			37	dělník	Nemile	99	1	0
-7105	553476	1	3	1	6	Jitka	Hozíková	F	Mgr.		42	střed. profesor	Nemile	99	1	0
-7105	553476	1	3	1	7	Zdeněk	Vařeka	M			48	podnikatel	Nemile	99	1	0
-7105	553476	1	4	902	1	Vladimír	Hajtmar	M			63	důchodce	Nemile	99	80	0
-7105	553476	1	4	902	2	Stanislav	Gregora	M	Doc. Ing.	Ph.D.	64	docent univerzity	Nemile	99	80	0
-7105	553476	1	4	902	3	Ladislav	Matěj	M			58	invalidní důchodce	Nemile	99	80	0
-7105	553476	1	4	902	4	Petr	Vyhnálek	M			38	administrátor pošty	Nemile	99	80	0
-7105	553476	1	4	902	5	Jan	Sonntag	M			67	důchodce	Lupěné	99	80	0
-7105	553476	1	4	902	6	Eduard	Jírovec	M			59	důchodce	Nemile	99	80	0
-7105	553476	1	4	902	7	Bedřich	Šula	M			58	technický pracovník	Nemile	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	553476	1	1	903	1	Radovan	Till	Ing.		39	referent MěÚ	Nemile	99	80	0	M
+7105	553476	1	2	901	1	Jaroslava	Orembová	Bc.		31	účetní	Nemile	99	80	0	F
+7105	553476	1	3	1	1	Lubomír	Stryk			51	státní zaměstnanec	Nemile	99	1	0	M
+7105	553476	1	4	902	1	Vladimír	Hajtmar			63	důchodce	Nemile	99	80	0	M
+7105	553476	1	1	903	2	Lukáš	Habich			26	mistr odb. výcviku	Lupěné	99	80	0	M
+7105	553476	1	2	901	2	Martin	Nepožitek			41	soustružník	Lupěné	99	80	0	M
+7105	553476	1	3	1	2	Tomáš	Jílek			34	technik	Nemile	99	1	0	M
+7105	553476	1	4	902	2	Stanislav	Gregora	Doc. Ing.	Ph.D.	64	docent univerzity	Nemile	99	80	0	M
+7105	553476	1	1	903	3	Jan	Krňávek			59	dělník	Nemile	99	80	0	M
+7105	553476	1	2	901	3	Lenka	Schwabová	Bc.		37	učitelka	Nemile	99	80	0	F
+7105	553476	1	3	1	3	Anna	Lukášová			52	účetní	Nemile	99	1	0	F
+7105	553476	1	4	902	3	Ladislav	Matěj			58	invalidní důchodce	Nemile	99	80	0	M
+7105	553476	1	1	903	4	Tomáš	Opravil	Ing.		32	referent MěÚ	Nemile	99	80	0	M
+7105	553476	1	2	901	4	Tomáš	Crhák			29	skladník	Nemile	99	80	0	M
+7105	553476	1	3	1	4	Marie	Vepřková	Mgr.		52	ekonom	Nemile	99	1	0	F
+7105	553476	1	4	902	4	Petr	Vyhnálek			38	administrátor pošty	Nemile	99	80	0	M
+7105	553476	1	1	903	5	Bohumil	Barvíř			47	živnostník	Lupěné	99	80	0	M
+7105	553476	1	2	901	5	Irena	Mičová			27	stavební referent	Nemile	99	80	0	F
+7105	553476	1	3	1	5	František	Valenta			37	dělník	Nemile	99	1	0	M
+7105	553476	1	4	902	5	Jan	Sonntag			67	důchodce	Lupěné	99	80	0	M
+7105	553476	1	1	903	6	Luděk	Tempír			45	živnostník	Nemile	99	80	0	M
+7105	553476	1	2	901	6	Lukáš	Urban			21	studující	Nemile	99	80	0	M
+7105	553476	1	3	1	6	Jitka	Hozíková	Mgr.		42	střed. profesor	Nemile	99	1	0	F
+7105	553476	1	4	902	6	Eduard	Jírovec			59	důchodce	Nemile	99	80	0	M
+7105	553476	1	1	903	7	Jan	Parma			51	dělník	Nemile	99	80	0	M
+7105	553476	1	2	901	7	Emil	Korčák			55	dělník	Lupěné	99	80	0	M
+7105	553476	1	3	1	7	Zdeněk	Vařeka			48	podnikatel	Nemile	99	1	0	M
+7105	553476	1	4	902	7	Bedřich	Šula			58	technický pracovník	Nemile	99	80	0	M

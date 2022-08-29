@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	542377	1	1	902	1	Marek	Kundrat	M			32	technik elektro	Nouzov	99	80	A
-2112	542377	1	1	902	2	Jan	Valer	M	Ing.		32	stavební inženýr	Nouzov	99	80	A
-2112	542377	1	1	902	3	Markéta	Bestajovská	F			35	učitelka mateřské školy	Senomaty	99	80	A
-2112	542377	1	1	902	4	Pavel	Chromec	M			34	technik	Senomaty	99	80	A
-2112	542377	1	1	902	5	Jana	Macáková	F	Mgr.		38	učitelka	Senomaty	99	80	A
-2112	542377	1	1	902	6	Kristýna	Kundratová	F	Bc.		30	učitelka	Nouzov	99	80	A
-2112	542377	1	1	902	7	Josef	Zaspal	M			34	servisní technik	Nouzov	99	80	A
-2112	542377	1	1	902	8	Jan	Kindl	M			41	manažer kvality	Nouzov	99	80	A
-2112	542377	1	1	902	9	Aneta	Honzíková	F		DiS.	30	referentka	Senomaty	99	80	A
-2112	542377	1	1	902	10	David	Bouda	M			30	mechanik	Senomaty	99	80	A
-2112	542377	1	1	902	11	Milan	Macháček	M			48	technický pracovník	Senomaty	99	80	A
-2112	542377	1	1	902	12	Eliška	Valerová	F	Mgr.		32	fyzioterapeutka	Nouzov	99	80	A
-2112	542377	1	1	902	13	Jan	Horský	M			28	dozorce	Senomaty	99	80	A
-2112	542377	1	2	901	1	Tomáš	Valer	M	Mgr.		53	starosta městyse	Nouzov	99	80	A
-2112	542377	1	2	901	2	Aleš	Polcar	M			44	obchodní a provozní ředitel	Senomaty	99	80	A
-2112	542377	1	2	901	3	Petr	Sojka	M			52	strážník městské policie	Senomaty	99	80	A
-2112	542377	1	2	901	4	Josef	Bouda	M			50	OSVČ	Senomaty	99	80	A
-2112	542377	1	2	901	5	Antonín	Prokop	M	Ing.		64	OSVČ	Senomaty	99	80	A
-2112	542377	1	2	901	6	Václav	Folda	M			45	SQA, Valeo	Senomaty	99	80	A
-2112	542377	1	2	901	7	Luděk	Fišer	M			45	předseda představenstva ZD Senomaty	Senomaty	99	80	A
-2112	542377	1	2	901	8	Vítězslav	Kühn	M			48	OSVČ	Nouzov	99	80	A
-2112	542377	1	2	901	9	Miroslav	Halló	M	Mgr. Bc.		62	ředitel školy	Hostokryje	99	80	A
-2112	542377	1	2	901	10	František	Tykal	M	Ing.		45	systémový specialista	Hostokryje	99	80	A
-2112	542377	1	2	901	11	Vlastimil	Mesár	M			47	manažer industrializace	Senomaty	99	80	A
-2112	542377	1	2	901	12	Jan	Havel	M			50	OSVČ	Hostokryje	99	80	A
-2112	542377	1	2	901	13	Radek	Filip	M	Ing.		45	výkonný ředitel společnosti	Senomaty	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	542377	1	1	902	1	Marek	Kundrat			32	technik elektro	Nouzov	99	80	A	M
+2112	542377	1	2	901	1	Tomáš	Valer	Mgr.		53	starosta městyse	Nouzov	99	80	A	M
+2112	542377	1	1	902	2	Jan	Valer	Ing.		32	stavební inženýr	Nouzov	99	80	A	M
+2112	542377	1	2	901	2	Aleš	Polcar			44	obchodní a provozní ředitel	Senomaty	99	80	A	M
+2112	542377	1	1	902	3	Markéta	Bestajovská			35	učitelka mateřské školy	Senomaty	99	80	A	F
+2112	542377	1	2	901	3	Petr	Sojka			52	strážník městské policie	Senomaty	99	80	A	M
+2112	542377	1	1	902	4	Pavel	Chromec			34	technik	Senomaty	99	80	A	M
+2112	542377	1	2	901	4	Josef	Bouda			50	OSVČ	Senomaty	99	80	A	M
+2112	542377	1	1	902	5	Jana	Macáková	Mgr.		38	učitelka	Senomaty	99	80	A	F
+2112	542377	1	2	901	5	Antonín	Prokop	Ing.		64	OSVČ	Senomaty	99	80	A	M
+2112	542377	1	1	902	6	Kristýna	Kundratová	Bc.		30	učitelka	Nouzov	99	80	A	F
+2112	542377	1	2	901	6	Václav	Folda			45	SQA, Valeo	Senomaty	99	80	A	M
+2112	542377	1	1	902	7	Josef	Zaspal			34	servisní technik	Nouzov	99	80	A	M
+2112	542377	1	2	901	7	Luděk	Fišer			45	předseda představenstva ZD Senomaty	Senomaty	99	80	A	M
+2112	542377	1	1	902	8	Jan	Kindl			41	manažer kvality	Nouzov	99	80	A	M
+2112	542377	1	2	901	8	Vítězslav	Kühn			48	OSVČ	Nouzov	99	80	A	M
+2112	542377	1	1	902	9	Aneta	Honzíková		DiS.	30	referentka	Senomaty	99	80	A	F
+2112	542377	1	2	901	9	Miroslav	Halló	Mgr. Bc.		62	ředitel školy	Hostokryje	99	80	A	M
+2112	542377	1	1	902	10	David	Bouda			30	mechanik	Senomaty	99	80	A	M
+2112	542377	1	2	901	10	František	Tykal	Ing.		45	systémový specialista	Hostokryje	99	80	A	M
+2112	542377	1	1	902	11	Milan	Macháček			48	technický pracovník	Senomaty	99	80	A	M
+2112	542377	1	2	901	11	Vlastimil	Mesár			47	manažer industrializace	Senomaty	99	80	A	M
+2112	542377	1	1	902	12	Eliška	Valerová	Mgr.		32	fyzioterapeutka	Nouzov	99	80	A	F
+2112	542377	1	2	901	12	Jan	Havel			50	OSVČ	Hostokryje	99	80	A	M
+2112	542377	1	1	902	13	Jan	Horský			28	dozorce	Senomaty	99	80	A	M
+2112	542377	1	2	901	13	Radek	Filip	Ing.		45	výkonný ředitel společnosti	Senomaty	99	80	A	M

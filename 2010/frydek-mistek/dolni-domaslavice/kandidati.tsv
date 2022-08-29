@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8102	598101	1	1	53	1	Jaromíra	Štípková	F	Ing.		46	podnikatelka	Dolní Domaslavice	99	53	0
-8102	598101	1	1	53	2	Jana	Svádová	F	Ing.		38	ekonom	Dolní Domaslavice	99	53	0
-8102	598101	1	1	53	3	Bohumil	Koutník	M	RSDr.		54	řidič	Dolní Domaslavice	99	53	0
-8102	598101	1	1	53	4	Miroslava	Chrobočková	F	Mgr.		50	učitelka	Dolní Domaslavice	99	53	0
-8102	598101	1	1	53	5	Alena	Voráčková	F			50	realitní makléř	Dolní Domaslavice	99	53	0
-8102	598101	1	1	53	6	Radka	Pichová	F			31	pracovnice sociální péče	Dolní Domaslavice	99	53	0
-8102	598101	1	1	53	7	Jaromír	Grześ	M			27	samostatně hospodařící rolník	Dolní Domaslavice	99	53	0
-8102	598101	1	1	53	8	Martin	Adamek	M			39	OSVČ	Dolní Domaslavice	99	53	0
-8102	598101	1	1	53	9	Jiří	Branich	M			48	invalidní důchodce	Dolní Domaslavice	99	53	0
-8102	598101	1	1	53	10	Renáta	Piontková	F			41	OSVČ	Dolní Domaslavice	99	53	0
-8102	598101	1	1	53	11	Jiří	Jurčík	M			53	řidič	Dolní Domaslavice	99	53	0
-8102	598101	1	2	7	1	Květoslava	Kališová	F	Bc.		54	pracovnice ve zdravotnictví	Dolní Domaslavice	99	7	0
-8102	598101	1	2	7	2	Norbert	Pěkník	M	Ing.		36	ekonom	Dolní Domaslavice	7	7	0
-8102	598101	1	2	7	3	Petra	Tomičková	F		DiS.	38	referent státní správy	Dolní Domaslavice	99	7	0
-8102	598101	1	2	7	4	František	Pěkník	M			70	podnikatel	Dolní Domaslavice	99	7	0
-8102	598101	1	2	7	5	Přemysl	Motička	M			25	soukromý zemědělec	Dolní Domaslavice	99	7	0
-8102	598101	1	2	7	6	Milada	Adamková	F			65	administr.pracov.(důchodkyně)	Dolní Domaslavice	99	7	0
-8102	598101	1	2	7	7	Jan	Chrobok	M			54	autokarosář - podnikatel	Dolní Domaslavice	99	7	0
-8102	598101	1	2	7	8	Karel	Skulina	M			62	zámečník (důchodce)	Dolní Domaslavice	99	7	0
-8102	598101	1	2	7	9	Antonín	Skulina	M			36	soustružník	Dolní Domaslavice	99	7	0
-8102	598101	1	2	7	10	Marie	Záškolná	F			57	zdravotní sestra	Dolní Domaslavice	7	7	0
-8102	598101	1	2	7	11	Jan	Slivka	M			45	učitel odborného výcviku	Dolní Domaslavice	99	7	0
-8102	598101	1	3	901	1	Pavel	Postůvka	M			61	elektrotechnik	Dolní Domaslavice	99	80	0
-8102	598101	1	3	901	2	Milan	Junga	M	MUDr.		53	rehabilit. lékař	Dolní Domaslavice	99	80	0
-8102	598101	1	3	901	3	Emil	Buchta	M			53	provoz. ekonom	Dolní Domaslavice	99	80	0
-8102	598101	1	3	901	4	Zbyněk	Bjaček	M			38	elektrotechnik	Dolní Domaslavice	99	80	0
-8102	598101	1	3	901	5	Lenka	Moráňová	F			56	vedoucí kuchyně	Dolní Domaslavice	99	80	0
-8102	598101	1	3	901	6	Jakub	Junga	M			20	student VŠB	Dolní Domaslavice	99	80	0
-8102	598101	1	3	901	7	Jaroslav	Biolek	M			29	obchodní zástupce	Dolní Domaslavice	99	80	0
-8102	598101	1	3	901	8	Eva	Ministrová	F	Bc.		32	dispečer MKD	Dolní Domaslavice	99	80	0
-8102	598101	1	3	901	9	Bohdan	Pasterny	M			34	stolař	Dolní Domaslavice	99	80	0
-8102	598101	1	3	901	10	Miloš	Krupa	M			58	stavební technik	Dolní Domaslavice	99	80	0
-8102	598101	1	3	901	11	Jiří	Pecina	M			52	instalatér	Dolní Domaslavice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8102	598101	1	1	53	1	Jaromíra	Štípková	Ing.		46	podnikatelka	Dolní Domaslavice	99	53	0	F
+8102	598101	1	2	7	1	Květoslava	Kališová	Bc.		54	pracovnice ve zdravotnictví	Dolní Domaslavice	99	7	0	F
+8102	598101	1	3	901	1	Pavel	Postůvka			61	elektrotechnik	Dolní Domaslavice	99	80	0	M
+8102	598101	1	1	53	2	Jana	Svádová	Ing.		38	ekonom	Dolní Domaslavice	99	53	0	F
+8102	598101	1	2	7	2	Norbert	Pěkník	Ing.		36	ekonom	Dolní Domaslavice	7	7	0	M
+8102	598101	1	3	901	2	Milan	Junga	MUDr.		53	rehabilit. lékař	Dolní Domaslavice	99	80	0	M
+8102	598101	1	1	53	3	Bohumil	Koutník	RSDr.		54	řidič	Dolní Domaslavice	99	53	0	M
+8102	598101	1	2	7	3	Petra	Tomičková		DiS.	38	referent státní správy	Dolní Domaslavice	99	7	0	F
+8102	598101	1	3	901	3	Emil	Buchta			53	provoz. ekonom	Dolní Domaslavice	99	80	0	M
+8102	598101	1	1	53	4	Miroslava	Chrobočková	Mgr.		50	učitelka	Dolní Domaslavice	99	53	0	F
+8102	598101	1	2	7	4	František	Pěkník			70	podnikatel	Dolní Domaslavice	99	7	0	M
+8102	598101	1	3	901	4	Zbyněk	Bjaček			38	elektrotechnik	Dolní Domaslavice	99	80	0	M
+8102	598101	1	1	53	5	Alena	Voráčková			50	realitní makléř	Dolní Domaslavice	99	53	0	F
+8102	598101	1	2	7	5	Přemysl	Motička			25	soukromý zemědělec	Dolní Domaslavice	99	7	0	M
+8102	598101	1	3	901	5	Lenka	Moráňová			56	vedoucí kuchyně	Dolní Domaslavice	99	80	0	F
+8102	598101	1	1	53	6	Radka	Pichová			31	pracovnice sociální péče	Dolní Domaslavice	99	53	0	F
+8102	598101	1	2	7	6	Milada	Adamková			65	administr.pracov.(důchodkyně)	Dolní Domaslavice	99	7	0	F
+8102	598101	1	3	901	6	Jakub	Junga			20	student VŠB	Dolní Domaslavice	99	80	0	M
+8102	598101	1	1	53	7	Jaromír	Grześ			27	samostatně hospodařící rolník	Dolní Domaslavice	99	53	0	M
+8102	598101	1	2	7	7	Jan	Chrobok			54	autokarosář - podnikatel	Dolní Domaslavice	99	7	0	M
+8102	598101	1	3	901	7	Jaroslav	Biolek			29	obchodní zástupce	Dolní Domaslavice	99	80	0	M
+8102	598101	1	1	53	8	Martin	Adamek			39	OSVČ	Dolní Domaslavice	99	53	0	M
+8102	598101	1	2	7	8	Karel	Skulina			62	zámečník (důchodce)	Dolní Domaslavice	99	7	0	M
+8102	598101	1	3	901	8	Eva	Ministrová	Bc.		32	dispečer MKD	Dolní Domaslavice	99	80	0	F
+8102	598101	1	1	53	9	Jiří	Branich			48	invalidní důchodce	Dolní Domaslavice	99	53	0	M
+8102	598101	1	2	7	9	Antonín	Skulina			36	soustružník	Dolní Domaslavice	99	7	0	M
+8102	598101	1	3	901	9	Bohdan	Pasterny			34	stolař	Dolní Domaslavice	99	80	0	M
+8102	598101	1	1	53	10	Renáta	Piontková			41	OSVČ	Dolní Domaslavice	99	53	0	F
+8102	598101	1	2	7	10	Marie	Záškolná			57	zdravotní sestra	Dolní Domaslavice	7	7	0	F
+8102	598101	1	3	901	10	Miloš	Krupa			58	stavební technik	Dolní Domaslavice	99	80	0	M
+8102	598101	1	1	53	11	Jiří	Jurčík			53	řidič	Dolní Domaslavice	99	53	0	M
+8102	598101	1	2	7	11	Jan	Slivka			45	učitel odborného výcviku	Dolní Domaslavice	99	7	0	M
+8102	598101	1	3	901	11	Jiří	Pecina			52	instalatér	Dolní Domaslavice	99	80	0	M

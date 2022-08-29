@@ -1,38 +1,38 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2104	533700	1	1	902	1	Věra	Chobotová	F	Ing.		32	odborná referentka	Starý Kolín	99	80	0
-2104	533700	1	1	902	2	Jan	Malý	M			48	obchodní zástupce	Starý Kolín	99	80	0
-2104	533700	1	1	902	3	Zdenka	Veselá	F			38	odborná asistentka	Bašta	99	80	0
-2104	533700	1	1	902	4	Petr	Bertram	M			67	důchodce	Bašta	99	80	0
-2104	533700	1	1	902	5	Dušan	Spitzer	M	MUDr.	Ph.D.	59	lékař specialista	Starý Kolín	99	80	0
-2104	533700	1	1	902	6	Roman	Folberger	M			39	podnikatel	Bašta	99	80	0
-2104	533700	1	1	902	7	Lenka	Holečková	F	Ing.		60	učitelka	Bašta	99	80	0
-2104	533700	1	1	902	8	Vladimír	Rytina	M			42	technik	Starý Kolín	99	80	0
-2104	533700	1	1	902	9	Antonín	Bouška	M			48	dělník	Starý Kolín	99	80	0
-2104	533700	1	1	902	10	Miluše	Musilová	F			36	úřednice	Bašta	99	80	0
-2104	533700	1	1	902	11	Petr	Plaček	M			37	podnikatel	Starý Kolín	99	80	0
-2104	533700	1	1	902	12	Jiří	Ryšávka	M			46	podnikatel	Bašta	99	80	0
-2104	533700	1	1	902	13	Radka	Rýdlová	F			41	podnikatelka	Starý Kolín	99	80	0
-2104	533700	1	2	47	1	Jaroslav	Pudil	M			44	technik	Starý Kolín	47	47	0
-2104	533700	1	2	47	2	Marek	Nechvila	M			35	státní zaměstnanec	Starý Kolín	99	47	0
-2104	533700	1	2	47	3	Jaroslav	Pudil	M			22	student	Starý Kolín	99	47	0
-2104	533700	1	2	47	4	Marie	Stará	F			48	kuchařka	Starý Kolín	47	47	0
-2104	533700	1	2	47	5	Zdeněk	Černohlávek	M			43	dělník	Starý Kolín	47	47	0
-2104	533700	1	2	47	6	Jan	Pudil	M			20	student	Starý Kolín	99	47	0
-2104	533700	1	2	47	7	Petr	Charous	M			65	technik	Starý Kolín	99	47	0
-2104	533700	1	2	47	8	Josef	Volejník	M			69	dělník	Bašta	99	47	0
-2104	533700	1	2	47	9	Jiří	Starý	M			23	dělník	Starý Kolín	99	47	0
-2104	533700	1	2	47	10	Marie	Volejníková	F			63	dělnice	Bašta	99	47	0
-2104	533700	1	2	47	11	Václav	Komůrka	M			56	tesař-stavbyvedoucí	Bašta	47	47	0
-2104	533700	1	3	901	1	Jaroslav	Flegl	M			33	starosta obce	Bašta	53	80	0
-2104	533700	1	3	901	2	Hana	Černá	F			41	účetní	Bašta	99	80	0
-2104	533700	1	3	901	3	Roman	Charvát	M			45	soukromý podnikatel	Bašta	99	80	0
-2104	533700	1	3	901	4	Miloslava	Klejzarová	F	Ing.		51	místostarostka obce	Bašta	99	80	0
-2104	533700	1	3	901	5	Luboš	Železný	M			51	soukromý podnikatel	Starý Kolín	53	80	0
-2104	533700	1	3	901	6	Irena	Pánková	F	Mgr.		26	učitelka ZŠ	Starý Kolín	99	80	0
-2104	533700	1	3	901	7	Jan	Mančal	M	Ing.	CSc.	59	soukromý podnikatel	Starý Kolín	99	80	0
-2104	533700	1	3	901	8	Blanka	Stolarčíková	F			37	soukromá podnikatelka	Starý Kolín	99	80	0
-2104	533700	1	3	901	9	Pavel	Horák	M			33	IT manažer	Bašta	53	80	0
-2104	533700	1	3	901	10	Albína	Vyšatová	F			64	důchodkyně	Starý Kolín	99	80	0
-2104	533700	1	3	901	11	Radek	Baše	M			46	soukromý podnikatel	Starý Kolín	99	80	0
-2104	533700	1	3	901	12	Alena	Kotěrová	F			38	manažerka	Starý Kolín	99	80	0
-2104	533700	1	3	901	13	Petr	Brancuzský	M			34	technik	Bašta	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2104	533700	1	1	902	1	Věra	Chobotová	Ing.		32	odborná referentka	Starý Kolín	99	80	0	F
+2104	533700	1	2	47	1	Jaroslav	Pudil			44	technik	Starý Kolín	47	47	0	M
+2104	533700	1	3	901	1	Jaroslav	Flegl			33	starosta obce	Bašta	53	80	0	M
+2104	533700	1	1	902	2	Jan	Malý			48	obchodní zástupce	Starý Kolín	99	80	0	M
+2104	533700	1	2	47	2	Marek	Nechvila			35	státní zaměstnanec	Starý Kolín	99	47	0	M
+2104	533700	1	3	901	2	Hana	Černá			41	účetní	Bašta	99	80	0	F
+2104	533700	1	1	902	3	Zdenka	Veselá			38	odborná asistentka	Bašta	99	80	0	F
+2104	533700	1	2	47	3	Jaroslav	Pudil			22	student	Starý Kolín	99	47	0	M
+2104	533700	1	3	901	3	Roman	Charvát			45	soukromý podnikatel	Bašta	99	80	0	M
+2104	533700	1	1	902	4	Petr	Bertram			67	důchodce	Bašta	99	80	0	M
+2104	533700	1	2	47	4	Marie	Stará			48	kuchařka	Starý Kolín	47	47	0	F
+2104	533700	1	3	901	4	Miloslava	Klejzarová	Ing.		51	místostarostka obce	Bašta	99	80	0	F
+2104	533700	1	1	902	5	Dušan	Spitzer	MUDr.	Ph.D.	59	lékař specialista	Starý Kolín	99	80	0	M
+2104	533700	1	2	47	5	Zdeněk	Černohlávek			43	dělník	Starý Kolín	47	47	0	M
+2104	533700	1	3	901	5	Luboš	Železný			51	soukromý podnikatel	Starý Kolín	53	80	0	M
+2104	533700	1	1	902	6	Roman	Folberger			39	podnikatel	Bašta	99	80	0	M
+2104	533700	1	2	47	6	Jan	Pudil			20	student	Starý Kolín	99	47	0	M
+2104	533700	1	3	901	6	Irena	Pánková	Mgr.		26	učitelka ZŠ	Starý Kolín	99	80	0	F
+2104	533700	1	1	902	7	Lenka	Holečková	Ing.		60	učitelka	Bašta	99	80	0	F
+2104	533700	1	2	47	7	Petr	Charous			65	technik	Starý Kolín	99	47	0	M
+2104	533700	1	3	901	7	Jan	Mančal	Ing.	CSc.	59	soukromý podnikatel	Starý Kolín	99	80	0	M
+2104	533700	1	1	902	8	Vladimír	Rytina			42	technik	Starý Kolín	99	80	0	M
+2104	533700	1	2	47	8	Josef	Volejník			69	dělník	Bašta	99	47	0	M
+2104	533700	1	3	901	8	Blanka	Stolarčíková			37	soukromá podnikatelka	Starý Kolín	99	80	0	F
+2104	533700	1	1	902	9	Antonín	Bouška			48	dělník	Starý Kolín	99	80	0	M
+2104	533700	1	2	47	9	Jiří	Starý			23	dělník	Starý Kolín	99	47	0	M
+2104	533700	1	3	901	9	Pavel	Horák			33	IT manažer	Bašta	53	80	0	M
+2104	533700	1	1	902	10	Miluše	Musilová			36	úřednice	Bašta	99	80	0	F
+2104	533700	1	2	47	10	Marie	Volejníková			63	dělnice	Bašta	99	47	0	F
+2104	533700	1	3	901	10	Albína	Vyšatová			64	důchodkyně	Starý Kolín	99	80	0	F
+2104	533700	1	1	902	11	Petr	Plaček			37	podnikatel	Starý Kolín	99	80	0	M
+2104	533700	1	2	47	11	Václav	Komůrka			56	tesař-stavbyvedoucí	Bašta	47	47	0	M
+2104	533700	1	3	901	11	Radek	Baše			46	soukromý podnikatel	Starý Kolín	99	80	0	M
+2104	533700	1	1	902	12	Jiří	Ryšávka			46	podnikatel	Bašta	99	80	0	M
+2104	533700	1	3	901	12	Alena	Kotěrová			38	manažerka	Starý Kolín	99	80	0	F
+2104	533700	1	1	902	13	Radka	Rýdlová			41	podnikatelka	Starý Kolín	99	80	0	F
+2104	533700	1	3	901	13	Petr	Brancuzský			34	technik	Bašta	99	80	0	M

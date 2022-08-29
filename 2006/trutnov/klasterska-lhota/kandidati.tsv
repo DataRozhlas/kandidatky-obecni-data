@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579386	1	1	47	1	Ladislav	Mikulec	M			46	technik	Klášterská Lhota	47	47	0
-5205	579386	1	1	47	2	Jan	Kavan	M	Ing.		59	technik	Klášterská Lhota	47	47	0
-5205	579386	1	2	901	1	Bohuslav	Kodym	M			56	elektrikář	Klášterská Lhota	99	80	0
-5205	579386	1	2	901	2	Stanislav	Kobr	M			43	energetik	Klášterská Lhota	99	80	0
-5205	579386	1	2	901	3	Marcel	Brož	M			37	podnikatel	Klášterská Lhota	99	80	0
-5205	579386	1	2	901	4	Martin	Novák	M			41	THP	Klášterská Lhota	99	80	0
-5205	579386	1	2	901	5	Zdeněk	Zub	M			60	důchodce	Klášterská Lhota	99	80	0
-5205	579386	1	2	901	6	Lenka	Krausová	F			44	úřednice	Klášterská Lhota	99	80	0
-5205	579386	1	2	901	7	Ludmila	Pěkná	F			47	servírka	Klášterská Lhota	99	80	0
-5205	579386	1	2	901	8	Marian	Páchník	M	Mgr.		40	učitel	Klášterská Lhota	99	80	0
-5205	579386	1	2	901	9	Jáchym	Novák	M			21	dělník	Klášterská Lhota	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579386	1	1	47	1	Ladislav	Mikulec			46	technik	Klášterská Lhota	47	47	0	M
+5205	579386	1	2	901	1	Bohuslav	Kodym			56	elektrikář	Klášterská Lhota	99	80	0	M
+5205	579386	1	1	47	2	Jan	Kavan	Ing.		59	technik	Klášterská Lhota	47	47	0	M
+5205	579386	1	2	901	2	Stanislav	Kobr			43	energetik	Klášterská Lhota	99	80	0	M
+5205	579386	1	2	901	3	Marcel	Brož			37	podnikatel	Klášterská Lhota	99	80	0	M
+5205	579386	1	2	901	4	Martin	Novák			41	THP	Klášterská Lhota	99	80	0	M
+5205	579386	1	2	901	5	Zdeněk	Zub			60	důchodce	Klášterská Lhota	99	80	0	M
+5205	579386	1	2	901	6	Lenka	Krausová			44	úřednice	Klášterská Lhota	99	80	0	F
+5205	579386	1	2	901	7	Ludmila	Pěkná			47	servírka	Klášterská Lhota	99	80	0	F
+5205	579386	1	2	901	8	Marian	Páchník	Mgr.		40	učitel	Klášterská Lhota	99	80	0	M
+5205	579386	1	2	901	9	Jáchym	Novák			21	dělník	Klášterská Lhota	99	80	0	M

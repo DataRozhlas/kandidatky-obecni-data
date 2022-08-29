@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	583057	1	1	903	1	Radim	Kloza	M	Mgr.		54	hydrogeolog	Hostěnice	99	80	A
-6203	583057	1	1	903	2	Vlastislav	Polák	M			57	soukromý podnikatel	Hostěnice	99	80	A
-6203	583057	1	1	903	3	Vlastimil	Radkovič	M			43	pekař	Hostěnice	99	80	A
-6203	583057	1	1	903	4	Božena	Ferrari	F			66	důchodkyně	Hostěnice	99	80	A
-6203	583057	1	2	901	1	Jiří	Marek	M	Ing. arch.		48	architekt, pedagog	Hostěnice	99	80	A
-6203	583057	1	2	901	2	Jan	Mikulášek	M	Ing. et Ing.		39	manažer, specialista v dopravní firmě	Hostěnice	99	80	A
-6203	583057	1	2	901	3	Jiří	Hájek	M			33	dispečer dopravy	Hostěnice	99	80	A
-6203	583057	1	2	901	4	Jan	Skřivánek	M			39	rozpočtář	Hostěnice	99	80	A
-6203	583057	1	2	901	5	Václav	Novotný	M			47	dispečer dopravy	Hostěnice	99	80	A
-6203	583057	1	2	901	6	Václav	Veselý	M			47	realitní makléř	Hostěnice	99	80	A
-6203	583057	1	2	901	7	Ján	Matiašovic	M	MVDr.	Ph.D.	49	vědecký pracovník	Hostěnice	99	80	A
-6203	583057	1	2	901	8	Dalibor	Veselý	M	Ing.		48	systémový inženýr	Hostěnice	99	80	A
-6203	583057	1	2	901	9	Filip	Gale	M	Bc.		35	strojírenský technolog, cenař	Hostěnice	99	80	A
-6203	583057	1	3	902	1	Eva	Karásková	F	Mgr.		45	socioložka, starostka	Hostěnice	99	80	A
-6203	583057	1	3	902	2	Bedřich	Horný	M	Mgr.		54	finanční ředitel	Hostěnice	99	80	A
-6203	583057	1	3	902	3	Radim	Machula	M	Ing.		41	ředitel ve stavební firmě	Hostěnice	99	80	A
-6203	583057	1	3	902	4	Hana	Polanská	F	Ing.		61	účetní	Hostěnice	99	80	A
-6203	583057	1	3	902	5	Viktor	Unger	M	Ing.		49	statik	Hostěnice	99	80	A
-6203	583057	1	3	902	6	Jiří	Soják	M	Ing. Bc.		40	stavbyvedoucí	Hostěnice	99	80	A
-6203	583057	1	3	902	7	Zuzana	Ryšavá	F	MUDr.		53	lékařka	Hostěnice	99	80	A
-6203	583057	1	4	1	1	Ivana	Kazdová	F			59	knihovnice - vedoucí útvaru	Hostěnice	99	1	A
-6203	583057	1	4	1	2	Václav	Čapka	M	Ing.		57	soukromý zemědělec	Hostěnice	99	1	A
-6203	583057	1	4	1	3	Martin	Šotnar	M	Ing.	Ph.D.	33	asistent na vysoké škole	Hostěnice	99	1	A
-6203	583057	1	4	1	4	Kristýna	Pilch	F	Mgr.		38	nutriční specialista	Hostěnice	99	1	A
-6203	583057	1	4	1	5	Petr	Šotnar	M	Ing.		61	manažerský poradce	Hostěnice	99	1	A
-6203	583057	1	4	1	6	Roman	Patočka	M			48	servisní technik	Hostěnice	99	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	583057	1	1	903	1	Radim	Kloza	Mgr.		54	hydrogeolog	Hostěnice	99	80	A	M
+6203	583057	1	2	901	1	Jiří	Marek	Ing. arch.		48	architekt, pedagog	Hostěnice	99	80	A	M
+6203	583057	1	3	902	1	Eva	Karásková	Mgr.		45	socioložka, starostka	Hostěnice	99	80	A	F
+6203	583057	1	4	1	1	Ivana	Kazdová			59	knihovnice - vedoucí útvaru	Hostěnice	99	1	A	F
+6203	583057	1	1	903	2	Vlastislav	Polák			57	soukromý podnikatel	Hostěnice	99	80	A	M
+6203	583057	1	2	901	2	Jan	Mikulášek	Ing. et Ing.		39	manažer, specialista v dopravní firmě	Hostěnice	99	80	A	M
+6203	583057	1	3	902	2	Bedřich	Horný	Mgr.		54	finanční ředitel	Hostěnice	99	80	A	M
+6203	583057	1	4	1	2	Václav	Čapka	Ing.		57	soukromý zemědělec	Hostěnice	99	1	A	M
+6203	583057	1	1	903	3	Vlastimil	Radkovič			43	pekař	Hostěnice	99	80	A	M
+6203	583057	1	2	901	3	Jiří	Hájek			33	dispečer dopravy	Hostěnice	99	80	A	M
+6203	583057	1	3	902	3	Radim	Machula	Ing.		41	ředitel ve stavební firmě	Hostěnice	99	80	A	M
+6203	583057	1	4	1	3	Martin	Šotnar	Ing.	Ph.D.	33	asistent na vysoké škole	Hostěnice	99	1	A	M
+6203	583057	1	1	903	4	Božena	Ferrari			66	důchodkyně	Hostěnice	99	80	A	F
+6203	583057	1	2	901	4	Jan	Skřivánek			39	rozpočtář	Hostěnice	99	80	A	M
+6203	583057	1	3	902	4	Hana	Polanská	Ing.		61	účetní	Hostěnice	99	80	A	F
+6203	583057	1	4	1	4	Kristýna	Pilch	Mgr.		38	nutriční specialista	Hostěnice	99	1	A	F
+6203	583057	1	2	901	5	Václav	Novotný			47	dispečer dopravy	Hostěnice	99	80	A	M
+6203	583057	1	3	902	5	Viktor	Unger	Ing.		49	statik	Hostěnice	99	80	A	M
+6203	583057	1	4	1	5	Petr	Šotnar	Ing.		61	manažerský poradce	Hostěnice	99	1	A	M
+6203	583057	1	2	901	6	Václav	Veselý			47	realitní makléř	Hostěnice	99	80	A	M
+6203	583057	1	3	902	6	Jiří	Soják	Ing. Bc.		40	stavbyvedoucí	Hostěnice	99	80	A	M
+6203	583057	1	4	1	6	Roman	Patočka			48	servisní technik	Hostěnice	99	1	A	M
+6203	583057	1	2	901	7	Ján	Matiašovic	MVDr.	Ph.D.	49	vědecký pracovník	Hostěnice	99	80	A	M
+6203	583057	1	3	902	7	Zuzana	Ryšavá	MUDr.		53	lékařka	Hostěnice	99	80	A	F
+6203	583057	1	2	901	8	Dalibor	Veselý	Ing.		48	systémový inženýr	Hostěnice	99	80	A	M
+6203	583057	1	2	901	9	Filip	Gale	Bc.		35	strojírenský technolog, cenař	Hostěnice	99	80	A	M

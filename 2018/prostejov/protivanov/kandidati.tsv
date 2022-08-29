@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589926	1	1	181	1	Alois	Kolář	M			57	OSVČ - projektový manažer	Protivanov	99	181	A
-7103	589926	1	1	181	2	Ivo	Rožnovský	M	Ing.		49	technik IT	Protivanov	99	181	A
-7103	589926	1	1	181	3	Zdenka	Kolářová	F	Mgr.	MBA	30	učitelka	Protivanov	99	181	A
-7103	589926	1	1	181	4	Roman	Havelka	M			41	vedoucí údržby	Protivanov	99	181	A
-7103	589926	1	1	181	5	František	Kolář	M			47	technik	Protivanov	99	181	A
-7103	589926	1	1	181	6	Tomáš	Pivoňka	M			38	vedoucí provozu	Protivanov	99	181	A
-7103	589926	1	1	181	7	Hana	Čechová	F			41	výrobní technik	Protivanov	99	181	A
-7103	589926	1	1	181	8	Pavel	Dostál	M			39	mechanik	Protivanov	99	181	A
-7103	589926	1	1	181	9	Jana	Veselá	F	Mgr.		37	učitelka	Protivanov	99	181	A
-7103	589926	1	1	181	10	Jiří	Nejedlý	M			31	dělník	Protivanov	99	181	A
-7103	589926	1	1	181	11	Martina	Šmídová	F			42	zdravotní sestra	Protivanov	99	181	A
-7103	589926	1	2	901	1	Bronislava	Krénarová	F	Bc. Ing.		37	starostka	Protivanov	99	80	A
-7103	589926	1	2	901	2	Jiří	Vybíhal	M			52	technik PZ	Protivanov	99	80	A
-7103	589926	1	2	901	3	Jan	Vybíhal	M			46	zootechnik	Protivanov	99	80	A
-7103	589926	1	2	901	4	Miloslav	Kitner	M	RNDr.	Ph.D.	42	odborný asistent	Protivanov	99	80	A
-7103	589926	1	2	901	5	Michal	Trunda	M	Ing.		40	projektant	Protivanov	99	80	A
-7103	589926	1	2	901	6	Libor	Bílek	M			40	soukromý podnikatel	Protivanov	99	80	A
-7103	589926	1	2	901	7	Josef	Vybíhal	M			32	zaměřovací technik	Protivanov	99	80	A
-7103	589926	1	2	901	8	Jaroslav	Vašíček	M	Mgr.		44	ředitel ZŠ	Protivanov	99	80	A
-7103	589926	1	2	901	9	Jan	Marek	M			40	policista	Protivanov	99	80	A
-7103	589926	1	2	901	10	Jan	Strejc	M			43	vojenský policista	Protivanov	99	80	A
-7103	589926	1	2	901	11	Kateřina	Krátká	F			48	oční optik	Protivanov	99	80	A
-7103	589926	1	3	902	1	Alexandr	Ptáčník	M			46	řidič	Protivanov	99	80	A
-7103	589926	1	3	902	2	Alois	Kolář ml.	M			32	obchodní zástupce	Protivanov	99	80	A
-7103	589926	1	3	902	3	Pavel	Veselý ml.	M	Bc.		32	podnikatel	Protivanov	99	80	A
-7103	589926	1	3	902	4	František	Novotný	M			34	kuchař	Protivanov	99	80	A
-7103	589926	1	3	902	5	Martin	Kolář	M			39	strojník	Protivanov	99	80	A
-7103	589926	1	3	902	6	Martin	Kolísek	M			29	technik údržby	Protivanov	99	80	A
-7103	589926	1	3	902	7	Jiří	Beníšek	M			40	řidič	Protivanov	99	80	A
-7103	589926	1	3	902	8	Petr	Kolář	M			36	IT technik	Protivanov	99	80	A
-7103	589926	1	3	902	9	Pavel	Barák ml.	M			27	podnikatel	Protivanov	99	80	A
-7103	589926	1	3	902	10	Tomáš	Slaný	M			26	zdravotní sestra	Protivanov	99	80	A
-7103	589926	1	3	902	11	Michal	Kopecký	M			43	podnikatel	Protivanov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589926	1	1	181	1	Alois	Kolář			57	OSVČ - projektový manažer	Protivanov	99	181	A	M
+7103	589926	1	2	901	1	Bronislava	Krénarová	Bc. Ing.		37	starostka	Protivanov	99	80	A	F
+7103	589926	1	3	902	1	Alexandr	Ptáčník			46	řidič	Protivanov	99	80	A	M
+7103	589926	1	1	181	2	Ivo	Rožnovský	Ing.		49	technik IT	Protivanov	99	181	A	M
+7103	589926	1	2	901	2	Jiří	Vybíhal			52	technik PZ	Protivanov	99	80	A	M
+7103	589926	1	3	902	2	Alois	Kolář ml.			32	obchodní zástupce	Protivanov	99	80	A	M
+7103	589926	1	1	181	3	Zdenka	Kolářová	Mgr.	MBA	30	učitelka	Protivanov	99	181	A	F
+7103	589926	1	2	901	3	Jan	Vybíhal			46	zootechnik	Protivanov	99	80	A	M
+7103	589926	1	3	902	3	Pavel	Veselý ml.	Bc.		32	podnikatel	Protivanov	99	80	A	M
+7103	589926	1	1	181	4	Roman	Havelka			41	vedoucí údržby	Protivanov	99	181	A	M
+7103	589926	1	2	901	4	Miloslav	Kitner	RNDr.	Ph.D.	42	odborný asistent	Protivanov	99	80	A	M
+7103	589926	1	3	902	4	František	Novotný			34	kuchař	Protivanov	99	80	A	M
+7103	589926	1	1	181	5	František	Kolář			47	technik	Protivanov	99	181	A	M
+7103	589926	1	2	901	5	Michal	Trunda	Ing.		40	projektant	Protivanov	99	80	A	M
+7103	589926	1	3	902	5	Martin	Kolář			39	strojník	Protivanov	99	80	A	M
+7103	589926	1	1	181	6	Tomáš	Pivoňka			38	vedoucí provozu	Protivanov	99	181	A	M
+7103	589926	1	2	901	6	Libor	Bílek			40	soukromý podnikatel	Protivanov	99	80	A	M
+7103	589926	1	3	902	6	Martin	Kolísek			29	technik údržby	Protivanov	99	80	A	M
+7103	589926	1	1	181	7	Hana	Čechová			41	výrobní technik	Protivanov	99	181	A	F
+7103	589926	1	2	901	7	Josef	Vybíhal			32	zaměřovací technik	Protivanov	99	80	A	M
+7103	589926	1	3	902	7	Jiří	Beníšek			40	řidič	Protivanov	99	80	A	M
+7103	589926	1	1	181	8	Pavel	Dostál			39	mechanik	Protivanov	99	181	A	M
+7103	589926	1	2	901	8	Jaroslav	Vašíček	Mgr.		44	ředitel ZŠ	Protivanov	99	80	A	M
+7103	589926	1	3	902	8	Petr	Kolář			36	IT technik	Protivanov	99	80	A	M
+7103	589926	1	1	181	9	Jana	Veselá	Mgr.		37	učitelka	Protivanov	99	181	A	F
+7103	589926	1	2	901	9	Jan	Marek			40	policista	Protivanov	99	80	A	M
+7103	589926	1	3	902	9	Pavel	Barák ml.			27	podnikatel	Protivanov	99	80	A	M
+7103	589926	1	1	181	10	Jiří	Nejedlý			31	dělník	Protivanov	99	181	A	M
+7103	589926	1	2	901	10	Jan	Strejc			43	vojenský policista	Protivanov	99	80	A	M
+7103	589926	1	3	902	10	Tomáš	Slaný			26	zdravotní sestra	Protivanov	99	80	A	M
+7103	589926	1	1	181	11	Martina	Šmídová			42	zdravotní sestra	Protivanov	99	181	A	F
+7103	589926	1	2	901	11	Kateřina	Krátká			48	oční optik	Protivanov	99	80	A	F
+7103	589926	1	3	902	11	Michal	Kopecký			43	podnikatel	Protivanov	99	80	A	M

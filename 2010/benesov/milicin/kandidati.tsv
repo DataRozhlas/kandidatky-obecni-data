@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	530166	1	1	903	1	Eva	Táborská	F	Ing.		56	technik	Nasavrky	99	80	0
-2101	530166	1	1	903	2	František	Trefil	M			45	řidič	Malovice	99	80	0
-2101	530166	1	1	903	3	Jaroslava	Málková	F			55	učitelka	Petrovice	99	80	0
-2101	530166	1	1	903	4	Jaroslav	Trefil	M			35	inv.důchodce	Miličín	99	80	0
-2101	530166	1	1	903	5	Vlastimil	Cikhart	M			38	technik	Petrovice	99	80	0
-2101	530166	1	1	903	6	Miloslava	Toušková	F			59	důchodce	Malovice	99	80	0
-2101	530166	1	1	903	7	Jan	Trefil	M			52	truhlář	Petrovice	99	80	0
-2101	530166	1	1	903	8	Lukáš	Pětník	M			24	řidič	Petrovice	99	80	0
-2101	530166	1	1	903	9	Zdeněk	Hevera	M			45	řidič	Petrovice	99	80	0
-2101	530166	1	2	902	1	Pavel	Pohan	M			54	automechanik	Miličín	99	80	0
-2101	530166	1	2	902	2	Jana	Vaňková	F			51	učitelka v MŠ	Miličín	99	80	0
-2101	530166	1	2	902	3	Ivana	Smrčinová	F			40	účetní	Žibkov	99	80	0
-2101	530166	1	2	902	4	Miloslav	Podzimek	M			51	servisní technik	Miličín	99	80	0
-2101	530166	1	2	902	5	Václav	Karda	M			34	truhlář	Miličín	99	80	0
-2101	530166	1	2	902	6	Dagmar	Muzikářová	F			45	zdravotní sestra	Miličín	99	80	0
-2101	530166	1	2	902	7	Roman	Slabý	M			32	pokrývač	Miličín	99	80	0
-2101	530166	1	2	902	8	Roman	Zoul	M			35	OSVČ	Miličín	99	80	0
-2101	530166	1	2	902	9	Jiří	Fiala	M			45	automechanik	Miličín	99	80	0
-2101	530166	1	3	901	1	Jiří	Zíka	M			57	starosta	Miličín	99	80	0
-2101	530166	1	3	901	2	Jana	Slabá - Janoutová	F	Bc.		34	učitelka na MD	Miličín	99	80	0
-2101	530166	1	3	901	3	Stanislav	Rytíř	M			44	OSVČ	Miličín	99	80	0
-2101	530166	1	3	901	4	Petr	Pechač	M			36	koordinátor skladu	Miličín	99	80	0
-2101	530166	1	3	901	5	Dana	Filipová	F			51	účetní	Miličín	99	80	0
-2101	530166	1	3	901	6	Michal	Kuliš	M			22	truhlář	Miličín	99	80	0
-2101	530166	1	3	901	7	Jan	Štégr	M			52	školník	Miličín	99	80	0
-2101	530166	1	3	901	8	Josef	Dohnal	M			45	údržbář - skladník	Miličín	99	80	0
-2101	530166	1	3	901	9	Zdeněk	Pazdera	M			46	programátor	Miličín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	530166	1	1	903	1	Eva	Táborská	Ing.		56	technik	Nasavrky	99	80	0	F
+2101	530166	1	2	902	1	Pavel	Pohan			54	automechanik	Miličín	99	80	0	M
+2101	530166	1	3	901	1	Jiří	Zíka			57	starosta	Miličín	99	80	0	M
+2101	530166	1	1	903	2	František	Trefil			45	řidič	Malovice	99	80	0	M
+2101	530166	1	2	902	2	Jana	Vaňková			51	učitelka v MŠ	Miličín	99	80	0	F
+2101	530166	1	3	901	2	Jana	Slabá - Janoutová	Bc.		34	učitelka na MD	Miličín	99	80	0	F
+2101	530166	1	1	903	3	Jaroslava	Málková			55	učitelka	Petrovice	99	80	0	F
+2101	530166	1	2	902	3	Ivana	Smrčinová			40	účetní	Žibkov	99	80	0	F
+2101	530166	1	3	901	3	Stanislav	Rytíř			44	OSVČ	Miličín	99	80	0	M
+2101	530166	1	1	903	4	Jaroslav	Trefil			35	inv.důchodce	Miličín	99	80	0	M
+2101	530166	1	2	902	4	Miloslav	Podzimek			51	servisní technik	Miličín	99	80	0	M
+2101	530166	1	3	901	4	Petr	Pechač			36	koordinátor skladu	Miličín	99	80	0	M
+2101	530166	1	1	903	5	Vlastimil	Cikhart			38	technik	Petrovice	99	80	0	M
+2101	530166	1	2	902	5	Václav	Karda			34	truhlář	Miličín	99	80	0	M
+2101	530166	1	3	901	5	Dana	Filipová			51	účetní	Miličín	99	80	0	F
+2101	530166	1	1	903	6	Miloslava	Toušková			59	důchodce	Malovice	99	80	0	F
+2101	530166	1	2	902	6	Dagmar	Muzikářová			45	zdravotní sestra	Miličín	99	80	0	F
+2101	530166	1	3	901	6	Michal	Kuliš			22	truhlář	Miličín	99	80	0	M
+2101	530166	1	1	903	7	Jan	Trefil			52	truhlář	Petrovice	99	80	0	M
+2101	530166	1	2	902	7	Roman	Slabý			32	pokrývač	Miličín	99	80	0	M
+2101	530166	1	3	901	7	Jan	Štégr			52	školník	Miličín	99	80	0	M
+2101	530166	1	1	903	8	Lukáš	Pětník			24	řidič	Petrovice	99	80	0	M
+2101	530166	1	2	902	8	Roman	Zoul			35	OSVČ	Miličín	99	80	0	M
+2101	530166	1	3	901	8	Josef	Dohnal			45	údržbář - skladník	Miličín	99	80	0	M
+2101	530166	1	1	903	9	Zdeněk	Hevera			45	řidič	Petrovice	99	80	0	M
+2101	530166	1	2	902	9	Jiří	Fiala			45	automechanik	Miličín	99	80	0	M
+2101	530166	1	3	901	9	Zdeněk	Pazdera			46	programátor	Miličín	99	80	0	M

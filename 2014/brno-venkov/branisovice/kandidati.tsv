@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	593834	1	1	721	1	Marek	Sovka	M			20	student	Branišovice	721	721	0
-6203	593834	1	1	721	2	Petr	Holátko	M			45	tesař	Branišovice	99	721	0
-6203	593834	1	1	721	3	Václav	Mišun	M			40	nákupčí	Branišovice	99	721	0
-6203	593834	1	1	721	4	Zdeněk	Saleta	M			46	strojní zámečník	Branišovice	99	721	0
-6203	593834	1	1	721	5	Radek	Sovka	M			42	obchodník pro CNC obrábění	Branišovice	99	721	0
-6203	593834	1	1	721	6	Vladimír	Sitar	M			59	vedoucí hospodářské správy	Branišovice	99	721	0
-6203	593834	1	1	721	7	Tadeáš	Rapf	M			21	truhlář	Branišovice	99	721	0
-6203	593834	1	1	721	8	René	Novák	M			38	mistr automatických lisů	Branišovice	99	721	0
-6203	593834	1	1	721	9	Eva	Gavendová	F			57	poštovní úřednice	Branišovice	99	721	0
-6203	593834	1	2	901	1	Jitka	Vaculíková	F			41	starostka obce	Branišovice	99	80	0
-6203	593834	1	2	901	2	Milan	Kříž	M			39	podnikatel	Branišovice	99	80	0
-6203	593834	1	2	901	3	František	Coufal	M	Ing.		42	projektant	Branišovice	99	80	0
-6203	593834	1	2	901	4	Lenka	Fučíková	F	Ing.		37	sekretářka, masérka	Branišovice	99	80	0
-6203	593834	1	2	901	5	Michal	Renner	M			38	vedoucí výroby	Branišovice	99	80	0
-6203	593834	1	2	901	6	Martin	Zezula	M			37	obchodní zástupce	Branišovice	99	80	0
-6203	593834	1	2	901	7	Miroslav	Baláš	M			57	řidič	Branišovice	99	80	0
-6203	593834	1	2	901	8	František	Stejskal	M			43	technický pracovník	Branišovice	99	80	0
-6203	593834	1	2	901	9	Václav	Dufek	M			35	podnikatel	Branišovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	593834	1	1	721	1	Marek	Sovka			20	student	Branišovice	721	721	0	M
+6203	593834	1	2	901	1	Jitka	Vaculíková			41	starostka obce	Branišovice	99	80	0	F
+6203	593834	1	1	721	2	Petr	Holátko			45	tesař	Branišovice	99	721	0	M
+6203	593834	1	2	901	2	Milan	Kříž			39	podnikatel	Branišovice	99	80	0	M
+6203	593834	1	1	721	3	Václav	Mišun			40	nákupčí	Branišovice	99	721	0	M
+6203	593834	1	2	901	3	František	Coufal	Ing.		42	projektant	Branišovice	99	80	0	M
+6203	593834	1	1	721	4	Zdeněk	Saleta			46	strojní zámečník	Branišovice	99	721	0	M
+6203	593834	1	2	901	4	Lenka	Fučíková	Ing.		37	sekretářka, masérka	Branišovice	99	80	0	F
+6203	593834	1	1	721	5	Radek	Sovka			42	obchodník pro CNC obrábění	Branišovice	99	721	0	M
+6203	593834	1	2	901	5	Michal	Renner			38	vedoucí výroby	Branišovice	99	80	0	M
+6203	593834	1	1	721	6	Vladimír	Sitar			59	vedoucí hospodářské správy	Branišovice	99	721	0	M
+6203	593834	1	2	901	6	Martin	Zezula			37	obchodní zástupce	Branišovice	99	80	0	M
+6203	593834	1	1	721	7	Tadeáš	Rapf			21	truhlář	Branišovice	99	721	0	M
+6203	593834	1	2	901	7	Miroslav	Baláš			57	řidič	Branišovice	99	80	0	M
+6203	593834	1	1	721	8	René	Novák			38	mistr automatických lisů	Branišovice	99	721	0	M
+6203	593834	1	2	901	8	František	Stejskal			43	technický pracovník	Branišovice	99	80	0	M
+6203	593834	1	1	721	9	Eva	Gavendová			57	poštovní úřednice	Branišovice	99	721	0	F
+6203	593834	1	2	901	9	Václav	Dufek			35	podnikatel	Branišovice	99	80	0	M

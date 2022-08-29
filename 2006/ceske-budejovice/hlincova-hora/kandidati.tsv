@@ -1,20 +1,20 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	598607	1	1	902	1	Karel	Fousek	M			46	podnikatel	Hlincová Hora	99	80	0
-3101	598607	1	1	902	2	Tomáš	Chumlen	M			25	strojník	Hlincová Hora	99	80	0
-3101	598607	1	1	902	3	Karel	Sonnberger	M			49	strojník	Hlincová Hora	99	80	0
-3101	598607	1	1	902	4	Jan	Havelka	M			49	státní zaměstnanec	Hlincová Hora	99	80	0
-3101	598607	1	1	902	5	Jaroslav	Petrů	M			51	technik	Hlincová Hora	99	80	0
-3101	598607	1	1	902	6	Tomáš	Kroupa	M			36	dispečer MKD	Hlincová Hora	99	80	0
-3101	598607	1	1	902	7	Jiří	Founě	M	Ing.		57	technik	Hlincová Hora	99	80	0
-3101	598607	1	1	902	8	Stanislav	Kohout	M			51	technik	Hlincová Hora	99	80	0
-3101	598607	1	2	903	1	Jiří	Valík	M			33	nezaměstnaný	Hlincová Hora	99	80	0
-3101	598607	1	2	903	2	Vlastislav	Filip	M			31	soukromý zemědělec	Hlincová Hora	53	80	0
-3101	598607	1	3	901	1	Libor	Kaleta	M			45	technik	Hlincová Hora	99	80	0
-3101	598607	1	3	901	2	Zuzana	Strolená	F			48	podnikatelka	Hlincová Hora	99	80	0
-3101	598607	1	3	901	3	Luděk	Bárta	M	Ing.		46	manažer	Hlincová Hora	99	80	0
-3101	598607	1	3	901	4	Jaroslav	Pacholík	M			42	stavební technik	Hlincová Hora	99	80	0
-3101	598607	1	3	901	5	Hynek	Walner	M	Ing.		41	technik	Hlincová Hora	99	80	0
-3101	598607	1	3	901	6	Karel	Kučera	M	Ing.		46	technik	Hlincová Hora	99	80	0
-3101	598607	1	3	901	7	Jiří	Jirka	M	Ing.		52	technik	Hlincová Hora	99	80	0
-3101	598607	1	3	901	8	Marie	Hanusová	F	Mgr.		53	profesorka	Hlincová Hora	99	80	0
-3101	598607	1	3	901	9	Magdaléna	Donátová	F			53	chemická laborantka	Hlincová Hora	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	598607	1	1	902	1	Karel	Fousek			46	podnikatel	Hlincová Hora	99	80	0	M
+3101	598607	1	2	903	1	Jiří	Valík			33	nezaměstnaný	Hlincová Hora	99	80	0	M
+3101	598607	1	3	901	1	Libor	Kaleta			45	technik	Hlincová Hora	99	80	0	M
+3101	598607	1	1	902	2	Tomáš	Chumlen			25	strojník	Hlincová Hora	99	80	0	M
+3101	598607	1	2	903	2	Vlastislav	Filip			31	soukromý zemědělec	Hlincová Hora	53	80	0	M
+3101	598607	1	3	901	2	Zuzana	Strolená			48	podnikatelka	Hlincová Hora	99	80	0	F
+3101	598607	1	1	902	3	Karel	Sonnberger			49	strojník	Hlincová Hora	99	80	0	M
+3101	598607	1	3	901	3	Luděk	Bárta	Ing.		46	manažer	Hlincová Hora	99	80	0	M
+3101	598607	1	1	902	4	Jan	Havelka			49	státní zaměstnanec	Hlincová Hora	99	80	0	M
+3101	598607	1	3	901	4	Jaroslav	Pacholík			42	stavební technik	Hlincová Hora	99	80	0	M
+3101	598607	1	1	902	5	Jaroslav	Petrů			51	technik	Hlincová Hora	99	80	0	M
+3101	598607	1	3	901	5	Hynek	Walner	Ing.		41	technik	Hlincová Hora	99	80	0	M
+3101	598607	1	1	902	6	Tomáš	Kroupa			36	dispečer MKD	Hlincová Hora	99	80	0	M
+3101	598607	1	3	901	6	Karel	Kučera	Ing.		46	technik	Hlincová Hora	99	80	0	M
+3101	598607	1	1	902	7	Jiří	Founě	Ing.		57	technik	Hlincová Hora	99	80	0	M
+3101	598607	1	3	901	7	Jiří	Jirka	Ing.		52	technik	Hlincová Hora	99	80	0	M
+3101	598607	1	1	902	8	Stanislav	Kohout			51	technik	Hlincová Hora	99	80	0	M
+3101	598607	1	3	901	8	Marie	Hanusová	Mgr.		53	profesorka	Hlincová Hora	99	80	0	F
+3101	598607	1	3	901	9	Magdaléna	Donátová			53	chemická laborantka	Hlincová Hora	99	80	0	F

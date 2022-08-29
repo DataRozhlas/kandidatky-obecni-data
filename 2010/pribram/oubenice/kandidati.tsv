@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	541010	1	1	901	1	Josef	Koukolíček	M			55	agronom	Ostrov	99	80	0
-2111	541010	1	1	901	2	Stanislav	Bumba	M			68	důchodce	Ouběnice	99	80	0
-2111	541010	1	1	901	3	Josef	Novotný	M			56	elektromontér	Ouběnice	99	80	0
-2111	541010	1	1	901	4	Zdeněk	Bumba	M			37	mistr provozu	Ouběnice	99	80	0
-2111	541010	1	1	901	5	Rostislav	Švagr	M			37	skladník	Ouběnice	99	80	0
-2111	541010	1	1	901	6	Radka	Šídová	F			44	referentka	Ouběnice	99	80	0
-2111	541010	1	1	901	7	Vladimír	Hořínek	M			33	zabezpečovací technik	Ouběnice	99	80	0
-2111	541010	1	2	902	1	Josef	Novotný	M			55	živnostník	Ouběnice	99	80	0
-2111	541010	1	2	902	2	Martin	Kozohorský	M			35	živnostník	Ouběnice	99	80	0
-2111	541010	1	2	902	3	Stanislav	Kopecký	M			41	živnostník	Ouběnice	99	80	0
-2111	541010	1	2	902	4	Jiří	Vrábík	M			45	živnostník	Ouběnice	99	80	0
-2111	541010	1	2	902	5	František	Hejnal	M			69	podnikatel	Ouběnice	99	80	0
-2111	541010	1	2	902	6	Dana	Hejnalová	F			41	účetní	Ouběnice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	541010	1	1	901	1	Josef	Koukolíček			55	agronom	Ostrov	99	80	0	M
+2111	541010	1	2	902	1	Josef	Novotný			55	živnostník	Ouběnice	99	80	0	M
+2111	541010	1	1	901	2	Stanislav	Bumba			68	důchodce	Ouběnice	99	80	0	M
+2111	541010	1	2	902	2	Martin	Kozohorský			35	živnostník	Ouběnice	99	80	0	M
+2111	541010	1	1	901	3	Josef	Novotný			56	elektromontér	Ouběnice	99	80	0	M
+2111	541010	1	2	902	3	Stanislav	Kopecký			41	živnostník	Ouběnice	99	80	0	M
+2111	541010	1	1	901	4	Zdeněk	Bumba			37	mistr provozu	Ouběnice	99	80	0	M
+2111	541010	1	2	902	4	Jiří	Vrábík			45	živnostník	Ouběnice	99	80	0	M
+2111	541010	1	1	901	5	Rostislav	Švagr			37	skladník	Ouběnice	99	80	0	M
+2111	541010	1	2	902	5	František	Hejnal			69	podnikatel	Ouběnice	99	80	0	M
+2111	541010	1	1	901	6	Radka	Šídová			44	referentka	Ouběnice	99	80	0	F
+2111	541010	1	2	902	6	Dana	Hejnalová			41	účetní	Ouběnice	99	80	0	F
+2111	541010	1	1	901	7	Vladimír	Hořínek			33	zabezpečovací technik	Ouběnice	99	80	0	M

@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	565962	1	1	901	1	Václav	Musil	M			63	nákupčí	Pohořany	99	80	A
-4203	565962	1	1	901	2	Zdeněk	Křehlík	M			44	státní zaměstnanec	Pohořany	99	80	A
-4203	565962	1	1	901	3	Martin	Šinkmajer	M	Ing.		45	technik	Žitenice	99	80	A
-4203	565962	1	1	901	4	Karel	Pangerl	M			46	OSVČ	Skalice	99	80	A
-4203	565962	1	1	901	5	Viktor	Víšek	M			41	technik	Pohořany	99	80	A
-4203	565962	1	1	901	6	Petr	Fišer	M			46	OSVČ	Pohořany	99	80	A
-4203	565962	1	1	901	7	Pavel	Jirák	M			52	OSVČ	Skalice	99	80	A
-4203	565962	1	1	901	8	Radek	Friedrich	M			45	revizní technik	Pohořany	99	80	A
-4203	565962	1	1	901	9	Jindřiška	Štichová	F			47	OSVČ	Pohořany	99	80	A
-4203	565962	1	1	901	10	Petr	Bartyzal	M			48	OSVČ	Pohořany	99	80	A
-4203	565962	1	1	901	11	Pavel	Kmoch	M			37	revizní technik	Pohořany	99	80	A
-4203	565962	1	2	902	1	Hana	Pawlíková	F	Bc.		56	starostka	Žitenice	99	80	A
-4203	565962	1	2	902	2	Zuzana	Kudrnová	F	JUDr.		55	advokátka	Žitenice	99	80	A
-4203	565962	1	2	902	3	Irena	Bursíková	F	Ing.		50	účetní	Pohořany	99	80	A
-4203	565962	1	2	902	4	Josef	Landa	M			56	referent státní správy	Skalice	99	80	A
-4203	565962	1	2	902	5	Jiří	Andrle	M			44	referent státní správy	Žitenice	99	80	A
-4203	565962	1	2	902	6	Erna	Vaňousková	F			51	manažer jakosti	Žitenice	99	80	A
-4203	565962	1	2	902	7	Milan	Pečarka	M			54	stavbyvedoucí	Skalice	99	80	A
-4203	565962	1	2	902	8	František	Marek	M			51	hasič VHJ Travčice	Skalice	99	80	A
-4203	565962	1	2	902	9	Luboš	Štorkán	M			55	živnostník	Žitenice	99	80	A
-4203	565962	1	2	902	10	Lenka	Postlová	F	Mgr.		38	učitelka	Pohořany	99	80	A
-4203	565962	1	2	902	11	Otto	Vrba	M			58	jednatel firmy	Žitenice	99	80	A
-4203	565962	1	3	801	1	Karel	Hercík	M			62	OSVČ	Žitenice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	565962	1	1	901	1	Václav	Musil			63	nákupčí	Pohořany	99	80	A	M
+4203	565962	1	2	902	1	Hana	Pawlíková	Bc.		56	starostka	Žitenice	99	80	A	F
+4203	565962	1	3	801	1	Karel	Hercík			62	OSVČ	Žitenice	99	80	A	M
+4203	565962	1	1	901	2	Zdeněk	Křehlík			44	státní zaměstnanec	Pohořany	99	80	A	M
+4203	565962	1	2	902	2	Zuzana	Kudrnová	JUDr.		55	advokátka	Žitenice	99	80	A	F
+4203	565962	1	1	901	3	Martin	Šinkmajer	Ing.		45	technik	Žitenice	99	80	A	M
+4203	565962	1	2	902	3	Irena	Bursíková	Ing.		50	účetní	Pohořany	99	80	A	F
+4203	565962	1	1	901	4	Karel	Pangerl			46	OSVČ	Skalice	99	80	A	M
+4203	565962	1	2	902	4	Josef	Landa			56	referent státní správy	Skalice	99	80	A	M
+4203	565962	1	1	901	5	Viktor	Víšek			41	technik	Pohořany	99	80	A	M
+4203	565962	1	2	902	5	Jiří	Andrle			44	referent státní správy	Žitenice	99	80	A	M
+4203	565962	1	1	901	6	Petr	Fišer			46	OSVČ	Pohořany	99	80	A	M
+4203	565962	1	2	902	6	Erna	Vaňousková			51	manažer jakosti	Žitenice	99	80	A	F
+4203	565962	1	1	901	7	Pavel	Jirák			52	OSVČ	Skalice	99	80	A	M
+4203	565962	1	2	902	7	Milan	Pečarka			54	stavbyvedoucí	Skalice	99	80	A	M
+4203	565962	1	1	901	8	Radek	Friedrich			45	revizní technik	Pohořany	99	80	A	M
+4203	565962	1	2	902	8	František	Marek			51	hasič VHJ Travčice	Skalice	99	80	A	M
+4203	565962	1	1	901	9	Jindřiška	Štichová			47	OSVČ	Pohořany	99	80	A	F
+4203	565962	1	2	902	9	Luboš	Štorkán			55	živnostník	Žitenice	99	80	A	M
+4203	565962	1	1	901	10	Petr	Bartyzal			48	OSVČ	Pohořany	99	80	A	M
+4203	565962	1	2	902	10	Lenka	Postlová	Mgr.		38	učitelka	Pohořany	99	80	A	F
+4203	565962	1	1	901	11	Pavel	Kmoch			37	revizní technik	Pohořany	99	80	A	M
+4203	565962	1	2	902	11	Otto	Vrba			58	jednatel firmy	Žitenice	99	80	A	M

@@ -1,20 +1,20 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	569551	1	1	901	1	Radovan	Jílka	M			39	pedagog	Nové Heřminovy	99	80	0
-8101	569551	1	1	901	2	Radek	Sijka	M			45	dělník	Nové Heřminovy	99	80	0
-8101	569551	1	1	901	3	Antonín	Maňák	M			54	nezaměstnaný	Nové Heřminovy	99	80	0
-8101	569551	1	1	901	4	Jiří	Pavelka	M			36	technik	Nové Heřminovy	99	80	0
-8101	569551	1	1	901	5	Vladislav	Fiala	M			27	technik	Nové Heřminovy	99	80	0
-8101	569551	1	1	901	6	Ivana	Vrábelová	F			32	dělnice	Nové Heřminovy	99	80	0
-8101	569551	1	1	901	7	Kateřina	Beránková	F			32	dělnice	Nové Heřminovy	99	80	0
-8101	569551	1	2	1	1	Marie	Spáčilová	F			50	inv.důchodce	Nové Heřminovy	99	1	0
-8101	569551	1	2	1	2	Vlasta	Cimbálová	F			54	prodavačka	Nové Heřminovy	99	1	0
-8101	569551	1	2	1	3	Anna	Hubálková	F			60	důchodce	Nové Heřminovy	99	1	0
-8101	569551	1	2	1	4	Marie	Daňková	F			63	důchodce	Nové Heřminovy	99	1	0
-8101	569551	1	2	1	5	Miluše	Achrerová	F			61	důchodce	Nové Heřminovy	99	1	0
-8101	569551	1	2	1	6	Jana	Majtnerová	F			49	skladnice	Nové Heřminovy	99	1	0
-8101	569551	1	2	1	7	Alice	Ručková	F			57	důchodce	Nové Heřminovy	99	1	0
-8101	569551	1	3	47	1	Simona	Tomečková	F			37	v domácnosti	Nové Heřminovy	99	47	0
-8101	569551	1	3	47	2	Elena	Beránková	F			56	důchodce	Nové Heřminovy	99	47	0
-8101	569551	1	3	47	3	Marie	Matušková	F			56	důchodce	Nové Heřminovy	47	47	0
-8101	569551	1	3	47	4	Růžena	Gomolová	F			38	v domácnosti	Nové Heřminovy	99	47	0
-8101	569551	1	3	47	5	Lenka	Matušková	F			36	prodavačka	Nové Heřminovy	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	569551	1	1	901	1	Radovan	Jílka			39	pedagog	Nové Heřminovy	99	80	0	M
+8101	569551	1	2	1	1	Marie	Spáčilová			50	inv.důchodce	Nové Heřminovy	99	1	0	F
+8101	569551	1	3	47	1	Simona	Tomečková			37	v domácnosti	Nové Heřminovy	99	47	0	F
+8101	569551	1	1	901	2	Radek	Sijka			45	dělník	Nové Heřminovy	99	80	0	M
+8101	569551	1	2	1	2	Vlasta	Cimbálová			54	prodavačka	Nové Heřminovy	99	1	0	F
+8101	569551	1	3	47	2	Elena	Beránková			56	důchodce	Nové Heřminovy	99	47	0	F
+8101	569551	1	1	901	3	Antonín	Maňák			54	nezaměstnaný	Nové Heřminovy	99	80	0	M
+8101	569551	1	2	1	3	Anna	Hubálková			60	důchodce	Nové Heřminovy	99	1	0	F
+8101	569551	1	3	47	3	Marie	Matušková			56	důchodce	Nové Heřminovy	47	47	0	F
+8101	569551	1	1	901	4	Jiří	Pavelka			36	technik	Nové Heřminovy	99	80	0	M
+8101	569551	1	2	1	4	Marie	Daňková			63	důchodce	Nové Heřminovy	99	1	0	F
+8101	569551	1	3	47	4	Růžena	Gomolová			38	v domácnosti	Nové Heřminovy	99	47	0	F
+8101	569551	1	1	901	5	Vladislav	Fiala			27	technik	Nové Heřminovy	99	80	0	M
+8101	569551	1	2	1	5	Miluše	Achrerová			61	důchodce	Nové Heřminovy	99	1	0	F
+8101	569551	1	3	47	5	Lenka	Matušková			36	prodavačka	Nové Heřminovy	99	47	0	F
+8101	569551	1	1	901	6	Ivana	Vrábelová			32	dělnice	Nové Heřminovy	99	80	0	F
+8101	569551	1	2	1	6	Jana	Majtnerová			49	skladnice	Nové Heřminovy	99	1	0	F
+8101	569551	1	1	901	7	Kateřina	Beránková			32	dělnice	Nové Heřminovy	99	80	0	F
+8101	569551	1	2	1	7	Alice	Ručková			57	důchodce	Nové Heřminovy	99	1	0	F

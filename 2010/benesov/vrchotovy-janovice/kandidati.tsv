@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	530948	1	1	902	1	Jitka	Kolářová	F			47	státní zaměstnankyně	Vrchotovy Janovice	99	80	0
-2101	530948	1	1	902	2	Jiří	Symůnek	M			35	traktorista	Vrchotovy Janovice	99	80	0
-2101	530948	1	1	902	3	Petr	Zítko	M	MUDr.		62	lékař	Vrchotovy Janovice	99	80	0
-2101	530948	1	1	902	4	Roman	Andres	M	PhDr.		29	učitel	Vrchotovy Janovice	99	80	0
-2101	530948	1	1	902	5	Milena	Drábová	F	Ing.		35	daňová poradkyně	Vrchotovy Janovice	99	80	0
-2101	530948	1	1	902	6	Eva	Černá	F			32	uklízečka	Vrchotovy Janovice	99	80	0
-2101	530948	1	1	902	7	Diana	Finkeová	F	MUDr.		57	stomatoložka	Vrchotovy Janovice	99	80	0
-2101	530948	1	1	902	8	Tereza	Ševčíková	F	MUDr.		31	lékařka	Vrchotovy Janovice	99	80	0
-2101	530948	1	2	901	1	Ivan	Klika	M	Ing.		44	státní zaměstnanec	Vrchotovy Janovice	99	80	0
-2101	530948	1	2	901	2	Vlastimil	Petrášek	M			56	živnostník	Vrchotovy Janovice	99	80	0
-2101	530948	1	2	901	3	Jana	Kněnická	F	Ing.		30	ekonom, t.č. MD	Vrchotovy Janovice	99	80	0
-2101	530948	1	2	901	4	Pavlína	Šmídová	F			39	výjezd.sestra záchranné služby	Vrchotovy Janovice	99	80	0
-2101	530948	1	2	901	5	Ingeborg	Kliková	F	Mgr.		44	učitelka	Vrchotovy Janovice	99	80	0
-2101	530948	1	2	901	6	Jan	Mareš	M	Ing.	Ph.D.	28	vysokoškolský pedagog	Vrchotovy Janovice	99	80	0
-2101	530948	1	2	901	7	Petr	Salavec	M			34	celník	Vrchotovy Janovice	99	80	0
-2101	530948	1	2	901	8	Tomáš	Kočí	M			44	výpravčí	Vrchotovy Janovice	99	80	0
-2101	530948	1	2	901	9	Jitka	Prokopová	F			47	pekařka	Vrchotovy Janovice	99	80	0
-2101	530948	1	2	901	10	Zdeněk	Marvan	M			32	celník	Vrchotovy Janovice	99	80	0
-2101	530948	1	3	7	1	Miroslav	Synek	M	JUDr.		66	starosta městyse zaměstnanec	Vrchotovy Janovice	7	7	0
-2101	530948	1	3	7	2	Josef	Čipera	M			61	podnikatel	Vrchotovy Janovice	7	7	0
-2101	530948	1	3	7	3	Josef	Rohlík	M			71	důchodce	Vrchotovy Janovice	99	7	0
-2101	530948	1	3	7	4	Antonín	Dvořák	M			55	technik	Vrchotovy Janovice	99	7	0
-2101	530948	1	3	7	5	Zdeňka	Mrázková	F			52	tajemnice MěÚ	Vrchotovy Janovice	99	7	0
-2101	530948	1	3	7	6	Bohuslav	Vacek	M	Ing.		36	agronom	Vrchotovy Janovice	99	7	0
-2101	530948	1	3	7	7	Ladislav	Litoš	M			38	geodet	Velká Lhota	99	7	0
-2101	530948	1	3	7	8	Pavel	Jiroušek	M	Ing.		50	úředník	Vrchotovy Janovice	99	7	0
-2101	530948	1	3	7	9	Jana	Hálová	F	Ing.		70	důchodce	Vrchotovy Janovice	99	7	0
-2101	530948	1	3	7	10	Jan	Starosta	M			57	podnikatel	Vrchotovy Janovice	99	7	0
-2101	530948	1	3	7	11	Zdeněk	Šmuch	M			42	podnikatel	Šebáňovice	99	7	0
-2101	530948	1	3	7	12	Jan	Kohoutek	M			52	opravář zemědělských strojů	Vrchotovy Janovice	7	7	0
-2101	530948	1	3	7	13	Petr	Dvořák	M			36	policista	Vrchotovy Janovice	99	7	0
-2101	530948	1	3	7	14	František	Šach	M			52	podnikatel	Vrchotovy Janovice	99	7	0
-2101	530948	1	3	7	15	František	Mrázek	M			61	důchodce	Vrchotovy Janovice	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	530948	1	1	902	1	Jitka	Kolářová			47	státní zaměstnankyně	Vrchotovy Janovice	99	80	0	F
+2101	530948	1	2	901	1	Ivan	Klika	Ing.		44	státní zaměstnanec	Vrchotovy Janovice	99	80	0	M
+2101	530948	1	3	7	1	Miroslav	Synek	JUDr.		66	starosta městyse zaměstnanec	Vrchotovy Janovice	7	7	0	M
+2101	530948	1	1	902	2	Jiří	Symůnek			35	traktorista	Vrchotovy Janovice	99	80	0	M
+2101	530948	1	2	901	2	Vlastimil	Petrášek			56	živnostník	Vrchotovy Janovice	99	80	0	M
+2101	530948	1	3	7	2	Josef	Čipera			61	podnikatel	Vrchotovy Janovice	7	7	0	M
+2101	530948	1	1	902	3	Petr	Zítko	MUDr.		62	lékař	Vrchotovy Janovice	99	80	0	M
+2101	530948	1	2	901	3	Jana	Kněnická	Ing.		30	ekonom, t.č. MD	Vrchotovy Janovice	99	80	0	F
+2101	530948	1	3	7	3	Josef	Rohlík			71	důchodce	Vrchotovy Janovice	99	7	0	M
+2101	530948	1	1	902	4	Roman	Andres	PhDr.		29	učitel	Vrchotovy Janovice	99	80	0	M
+2101	530948	1	2	901	4	Pavlína	Šmídová			39	výjezd.sestra záchranné služby	Vrchotovy Janovice	99	80	0	F
+2101	530948	1	3	7	4	Antonín	Dvořák			55	technik	Vrchotovy Janovice	99	7	0	M
+2101	530948	1	1	902	5	Milena	Drábová	Ing.		35	daňová poradkyně	Vrchotovy Janovice	99	80	0	F
+2101	530948	1	2	901	5	Ingeborg	Kliková	Mgr.		44	učitelka	Vrchotovy Janovice	99	80	0	F
+2101	530948	1	3	7	5	Zdeňka	Mrázková			52	tajemnice MěÚ	Vrchotovy Janovice	99	7	0	F
+2101	530948	1	1	902	6	Eva	Černá			32	uklízečka	Vrchotovy Janovice	99	80	0	F
+2101	530948	1	2	901	6	Jan	Mareš	Ing.	Ph.D.	28	vysokoškolský pedagog	Vrchotovy Janovice	99	80	0	M
+2101	530948	1	3	7	6	Bohuslav	Vacek	Ing.		36	agronom	Vrchotovy Janovice	99	7	0	M
+2101	530948	1	1	902	7	Diana	Finkeová	MUDr.		57	stomatoložka	Vrchotovy Janovice	99	80	0	F
+2101	530948	1	2	901	7	Petr	Salavec			34	celník	Vrchotovy Janovice	99	80	0	M
+2101	530948	1	3	7	7	Ladislav	Litoš			38	geodet	Velká Lhota	99	7	0	M
+2101	530948	1	1	902	8	Tereza	Ševčíková	MUDr.		31	lékařka	Vrchotovy Janovice	99	80	0	F
+2101	530948	1	2	901	8	Tomáš	Kočí			44	výpravčí	Vrchotovy Janovice	99	80	0	M
+2101	530948	1	3	7	8	Pavel	Jiroušek	Ing.		50	úředník	Vrchotovy Janovice	99	7	0	M
+2101	530948	1	2	901	9	Jitka	Prokopová			47	pekařka	Vrchotovy Janovice	99	80	0	F
+2101	530948	1	3	7	9	Jana	Hálová	Ing.		70	důchodce	Vrchotovy Janovice	99	7	0	F
+2101	530948	1	2	901	10	Zdeněk	Marvan			32	celník	Vrchotovy Janovice	99	80	0	M
+2101	530948	1	3	7	10	Jan	Starosta			57	podnikatel	Vrchotovy Janovice	99	7	0	M
+2101	530948	1	3	7	11	Zdeněk	Šmuch			42	podnikatel	Šebáňovice	99	7	0	M
+2101	530948	1	3	7	12	Jan	Kohoutek			52	opravář zemědělských strojů	Vrchotovy Janovice	7	7	0	M
+2101	530948	1	3	7	13	Petr	Dvořák			36	policista	Vrchotovy Janovice	99	7	0	M
+2101	530948	1	3	7	14	František	Šach			52	podnikatel	Vrchotovy Janovice	99	7	0	M
+2101	530948	1	3	7	15	František	Mrázek			61	důchodce	Vrchotovy Janovice	99	7	0	M

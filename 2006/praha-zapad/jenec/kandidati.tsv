@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	539317	1	1	53	1	Rostislav	Mičín	M	Ing.		41	manažer	Jeneč	99	53	0
-2110	539317	1	1	53	2	Gabriela	Šnajdrová	F			40	podnikatelka	Jeneč	99	53	0
-2110	539317	1	1	53	3	Pavel	Burgr	M	Ing.		54	ekonom	Jeneč	53	53	0
-2110	539317	1	1	53	4	Pavel	Bureš	M			35	podnikatel	Jeneč	99	53	0
-2110	539317	1	1	53	5	Magda	Riegrová	F	PhamDr.		49	lékárnice	Jeneč	53	53	0
-2110	539317	1	1	53	6	Miroslav	Kuneš	M			63	živnostník	Jeneč	99	53	0
-2110	539317	1	1	53	7	Helena	Burgrová	F			20	studentka	Jeneč	99	53	0
-2110	539317	1	2	47	1	Zbyněk	Chuman	M			54	konstruktér	Jeneč	47	47	0
-2110	539317	1	2	47	2	Miroslav	Pánek	M			66	stavitel	Jeneč	47	47	0
-2110	539317	1	2	47	3	Zdeňka	Mulíčková	F			73	důchodkyně	Jeneč	47	47	0
-2110	539317	1	2	47	4	Zdeňka	Jungmanová	F			59	úřednice	Jeneč	99	47	0
-2110	539317	1	2	47	5	Bohuslav	Denk	M			61	důchodce	Jeneč	47	47	0
-2110	539317	1	2	47	6	Jaroslava	Vršková	F			60	úřednice	Jeneč	47	47	0
-2110	539317	1	2	47	7	Jaromír	Kuba	M			42	automechanik	Jeneč	99	47	0
-2110	539317	1	2	47	8	Marek	Pastuszek	M			19	student	Jeneč	99	47	0
-2110	539317	1	2	47	9	Věra	Urbanová	F			57	dělnice	Jeneč	47	47	0
-2110	539317	1	3	7	1	Josef	Doudera	M			65	starosta obce	Jeneč	7	7	0
-2110	539317	1	3	7	2	Jaroslav	Pařil	M			64	podnikatel	Jeneč	99	7	0
-2110	539317	1	3	7	3	Miroslav	Jakúbek	M			54	údržbář	Jeneč	7	7	0
-2110	539317	1	3	7	4	Jaroslav	Roček	M			40	technik	Jeneč	99	7	0
-2110	539317	1	3	7	5	Petr	Inneman	M			39	tesař	Jeneč	7	7	0
-2110	539317	1	3	7	6	Dana	Dolejšová	F			42	zdravotní sestra	Jeneč	99	7	0
-2110	539317	1	3	7	7	Jana	Ponkeová	F			62	důchodkyně	Jeneč	99	7	0
-2110	539317	1	3	7	8	Ladislav	Janda	M			48	podnikatel	Jeneč	99	7	0
-2110	539317	1	3	7	9	Ladislav	Šmíd	M			51	spoj. mechanik	Jeneč	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	539317	1	1	53	1	Rostislav	Mičín	Ing.		41	manažer	Jeneč	99	53	0	M
+2110	539317	1	2	47	1	Zbyněk	Chuman			54	konstruktér	Jeneč	47	47	0	M
+2110	539317	1	3	7	1	Josef	Doudera			65	starosta obce	Jeneč	7	7	0	M
+2110	539317	1	1	53	2	Gabriela	Šnajdrová			40	podnikatelka	Jeneč	99	53	0	F
+2110	539317	1	2	47	2	Miroslav	Pánek			66	stavitel	Jeneč	47	47	0	M
+2110	539317	1	3	7	2	Jaroslav	Pařil			64	podnikatel	Jeneč	99	7	0	M
+2110	539317	1	1	53	3	Pavel	Burgr	Ing.		54	ekonom	Jeneč	53	53	0	M
+2110	539317	1	2	47	3	Zdeňka	Mulíčková			73	důchodkyně	Jeneč	47	47	0	F
+2110	539317	1	3	7	3	Miroslav	Jakúbek			54	údržbář	Jeneč	7	7	0	M
+2110	539317	1	1	53	4	Pavel	Bureš			35	podnikatel	Jeneč	99	53	0	M
+2110	539317	1	2	47	4	Zdeňka	Jungmanová			59	úřednice	Jeneč	99	47	0	F
+2110	539317	1	3	7	4	Jaroslav	Roček			40	technik	Jeneč	99	7	0	M
+2110	539317	1	1	53	5	Magda	Riegrová	PhamDr.		49	lékárnice	Jeneč	53	53	0	F
+2110	539317	1	2	47	5	Bohuslav	Denk			61	důchodce	Jeneč	47	47	0	M
+2110	539317	1	3	7	5	Petr	Inneman			39	tesař	Jeneč	7	7	0	M
+2110	539317	1	1	53	6	Miroslav	Kuneš			63	živnostník	Jeneč	99	53	0	M
+2110	539317	1	2	47	6	Jaroslava	Vršková			60	úřednice	Jeneč	47	47	0	F
+2110	539317	1	3	7	6	Dana	Dolejšová			42	zdravotní sestra	Jeneč	99	7	0	F
+2110	539317	1	1	53	7	Helena	Burgrová			20	studentka	Jeneč	99	53	0	F
+2110	539317	1	2	47	7	Jaromír	Kuba			42	automechanik	Jeneč	99	47	0	M
+2110	539317	1	3	7	7	Jana	Ponkeová			62	důchodkyně	Jeneč	99	7	0	F
+2110	539317	1	2	47	8	Marek	Pastuszek			19	student	Jeneč	99	47	0	M
+2110	539317	1	3	7	8	Ladislav	Janda			48	podnikatel	Jeneč	99	7	0	M
+2110	539317	1	2	47	9	Věra	Urbanová			57	dělnice	Jeneč	47	47	0	F
+2110	539317	1	3	7	9	Ladislav	Šmíd			51	spoj. mechanik	Jeneč	99	7	0	M

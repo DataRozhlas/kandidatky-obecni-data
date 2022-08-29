@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	595624	1	1	53	1	Oldřich	Ondráček	M	Ing.		65	důchodce	Hodíškov	53	53	0
-6105	595624	1	1	53	2	Petra	Ondráčková	F			23	administrativní pracovnice	Hodíškov	99	53	0
-6105	595624	1	1	53	3	Milan	Doležal	M			45	mistr	Hodíškov	99	53	0
-6105	595624	1	1	53	4	Stanislav	Košťál	M			71	důchodce	Hodíškov	99	53	0
-6105	595624	1	1	53	5	Irena	Jašková	F			34	oční technik	Hodíškov	99	53	0
-6105	595624	1	2	901	1	Miluše	Šamlová	F			51	OSVČ	Hodíškov	99	80	0
-6105	595624	1	2	901	2	Jiří	Kříž	M			35	montážní dělník	Hodíškov	99	80	0
-6105	595624	1	2	901	3	Josef	Pokorný	M			35	projektant	Hodíškov	99	80	0
-6105	595624	1	2	901	4	Karel	Nevrkla	M			53	invalidní důchodce	Hodíškov	99	80	0
-6105	595624	1	2	901	5	Marta	Peňázová	F			41	vedoucí prodejny	Hodíškov	99	80	0
-6105	595624	1	2	901	6	Libor	Sklenář	M			47	ochranná služba	Hodíškov	99	80	0
-6105	595624	1	3	902	1	Alena	Křížová	F			36	administrativní pracovnice	Hodíškov	99	80	0
-6105	595624	1	3	902	2	Roman	Skoupý	M			36	servisní technik	Hodíškov	99	80	0
-6105	595624	1	3	902	3	Zdeněk	Juda	M			28	konstruktér	Hodíškov	99	80	0
-6105	595624	1	3	902	4	Libor	Chmelík	M			33	OSVČ	Hodíškov	99	80	0
-6105	595624	1	3	902	5	Antonín	Průdek	M			34	řidič	Hodíškov	99	80	0
-6105	595624	1	3	902	6	Lucie	Straková	F			32	pracovnice FÚ	Hodíškov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	595624	1	1	53	1	Oldřich	Ondráček	Ing.		65	důchodce	Hodíškov	53	53	0	M
+6105	595624	1	2	901	1	Miluše	Šamlová			51	OSVČ	Hodíškov	99	80	0	F
+6105	595624	1	3	902	1	Alena	Křížová			36	administrativní pracovnice	Hodíškov	99	80	0	F
+6105	595624	1	1	53	2	Petra	Ondráčková			23	administrativní pracovnice	Hodíškov	99	53	0	F
+6105	595624	1	2	901	2	Jiří	Kříž			35	montážní dělník	Hodíškov	99	80	0	M
+6105	595624	1	3	902	2	Roman	Skoupý			36	servisní technik	Hodíškov	99	80	0	M
+6105	595624	1	1	53	3	Milan	Doležal			45	mistr	Hodíškov	99	53	0	M
+6105	595624	1	2	901	3	Josef	Pokorný			35	projektant	Hodíškov	99	80	0	M
+6105	595624	1	3	902	3	Zdeněk	Juda			28	konstruktér	Hodíškov	99	80	0	M
+6105	595624	1	1	53	4	Stanislav	Košťál			71	důchodce	Hodíškov	99	53	0	M
+6105	595624	1	2	901	4	Karel	Nevrkla			53	invalidní důchodce	Hodíškov	99	80	0	M
+6105	595624	1	3	902	4	Libor	Chmelík			33	OSVČ	Hodíškov	99	80	0	M
+6105	595624	1	1	53	5	Irena	Jašková			34	oční technik	Hodíškov	99	53	0	F
+6105	595624	1	2	901	5	Marta	Peňázová			41	vedoucí prodejny	Hodíškov	99	80	0	F
+6105	595624	1	3	902	5	Antonín	Průdek			34	řidič	Hodíškov	99	80	0	M
+6105	595624	1	2	901	6	Libor	Sklenář			47	ochranná služba	Hodíškov	99	80	0	M
+6105	595624	1	3	902	6	Lucie	Straková			32	pracovnice FÚ	Hodíškov	99	80	0	F

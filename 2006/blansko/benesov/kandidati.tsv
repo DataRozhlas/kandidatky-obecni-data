@@ -1,33 +1,33 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	581330	1	1	901	1	Lukáš	Minx	M			27	dělník	Benešov	99	80	0
-6201	581330	1	1	901	2	Miroslav	Langr	M			35	OSVČ	Benešov	99	80	0
-6201	581330	1	1	901	3	Jan	Koudelka	M			35	jednatel	Benešov	99	80	0
-6201	581330	1	1	901	4	Zdenka	Hebelková	F			33	státní zaměstnanec	Benešov	99	80	0
-6201	581330	1	1	901	5	Eva	Kovářová	F			37	v domácnosti	Benešov	99	80	0
-6201	581330	1	1	901	6	Pavel	Kolář	M			35	pekař	Benešov	99	80	0
-6201	581330	1	1	901	7	Vít	Koudelka	M			20	číšník	Benešov	99	80	0
-6201	581330	1	1	901	8	Jiří	Vaněrek	M			35	státní zaměstnanec	Benešov	99	80	0
-6201	581330	1	1	901	9	Roman	Jíra	M			27	dělník	Benešov	99	80	0
-6201	581330	1	1	901	10	Michal	Kovařík	M			27	řidič	Benešov	99	80	0
-6201	581330	1	1	901	11	Lukáš	Krénar	M			26	dělník	Benešov	99	80	0
-6201	581330	1	1	901	12	Zdeněk	Veselý	M			25	dělník	Benešov	99	80	0
-6201	581330	1	1	901	13	Milan	Khýr	M			33	automechanik	Benešov	99	80	0
-6201	581330	1	1	901	14	Roman	Dvořák	M			42	OSVČ	Benešov	99	80	0
-6201	581330	1	1	901	15	Jiří	Laštůvka	M			32	OSVČ	Benešov	99	80	0
-6201	581330	1	2	47	1	Pavol	Herda	M			45	řidič	Benešov	47	47	0
-6201	581330	1	2	47	2	Dagmar	Hebelková	F			44	kuchařka	Benešov	47	47	0
-6201	581330	1	3	902	1	Antonín	Rus	M			51	starosta	Benešov	47	80	0
-6201	581330	1	3	902	2	Alois	Krénar	M			51	dělník	Benešov	99	80	0
-6201	581330	1	3	902	3	Petr	Kolář	M	Ing.		28	projektant	Benešov	99	80	0
-6201	581330	1	3	902	4	Zdenka	Šínová	F			44	obchodní referent	Benešov	99	80	0
-6201	581330	1	3	902	5	Martin	Hanáček	M	Bc.		30	hasič	Benešov	99	80	0
-6201	581330	1	3	902	6	Jindřich	Kolář	M	Ing.		45	soukromý podnikatel	Benešov	99	80	0
-6201	581330	1	3	902	7	Magdalena	Kolářová	F			43	účetní	Benešov	99	80	0
-6201	581330	1	3	902	8	Ludmila	Abrahámová	F			37	prodavačka	Benešov	99	80	0
-6201	581330	1	3	902	9	Kamil	Koudelka	M			32	pekař	Benešov	99	80	0
-6201	581330	1	3	902	10	Miroslava	Vlachová	F			45	ošetřovatelka	Benešov	99	80	0
-6201	581330	1	3	902	11	Dana	Bezděková	F			44	účetní	Benešov	99	80	0
-6201	581330	1	3	902	12	Leona	Koledová	F			37	učitelka	Benešov	99	80	0
-6201	581330	1	3	902	13	Petr	Svoboda	M			31	dělník	Benešov	99	80	0
-6201	581330	1	3	902	14	Pavel	Henek	M			23	dělník	Benešov	99	80	0
-6201	581330	1	3	902	15	Iveta	Baráková	F			36	dělník	Benešov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	581330	1	1	901	1	Lukáš	Minx			27	dělník	Benešov	99	80	0	M
+6201	581330	1	2	47	1	Pavol	Herda			45	řidič	Benešov	47	47	0	M
+6201	581330	1	3	902	1	Antonín	Rus			51	starosta	Benešov	47	80	0	M
+6201	581330	1	1	901	2	Miroslav	Langr			35	OSVČ	Benešov	99	80	0	M
+6201	581330	1	2	47	2	Dagmar	Hebelková			44	kuchařka	Benešov	47	47	0	F
+6201	581330	1	3	902	2	Alois	Krénar			51	dělník	Benešov	99	80	0	M
+6201	581330	1	1	901	3	Jan	Koudelka			35	jednatel	Benešov	99	80	0	M
+6201	581330	1	3	902	3	Petr	Kolář	Ing.		28	projektant	Benešov	99	80	0	M
+6201	581330	1	1	901	4	Zdenka	Hebelková			33	státní zaměstnanec	Benešov	99	80	0	F
+6201	581330	1	3	902	4	Zdenka	Šínová			44	obchodní referent	Benešov	99	80	0	F
+6201	581330	1	1	901	5	Eva	Kovářová			37	v domácnosti	Benešov	99	80	0	F
+6201	581330	1	3	902	5	Martin	Hanáček	Bc.		30	hasič	Benešov	99	80	0	M
+6201	581330	1	1	901	6	Pavel	Kolář			35	pekař	Benešov	99	80	0	M
+6201	581330	1	3	902	6	Jindřich	Kolář	Ing.		45	soukromý podnikatel	Benešov	99	80	0	M
+6201	581330	1	1	901	7	Vít	Koudelka			20	číšník	Benešov	99	80	0	M
+6201	581330	1	3	902	7	Magdalena	Kolářová			43	účetní	Benešov	99	80	0	F
+6201	581330	1	1	901	8	Jiří	Vaněrek			35	státní zaměstnanec	Benešov	99	80	0	M
+6201	581330	1	3	902	8	Ludmila	Abrahámová			37	prodavačka	Benešov	99	80	0	F
+6201	581330	1	1	901	9	Roman	Jíra			27	dělník	Benešov	99	80	0	M
+6201	581330	1	3	902	9	Kamil	Koudelka			32	pekař	Benešov	99	80	0	M
+6201	581330	1	1	901	10	Michal	Kovařík			27	řidič	Benešov	99	80	0	M
+6201	581330	1	3	902	10	Miroslava	Vlachová			45	ošetřovatelka	Benešov	99	80	0	F
+6201	581330	1	1	901	11	Lukáš	Krénar			26	dělník	Benešov	99	80	0	M
+6201	581330	1	3	902	11	Dana	Bezděková			44	účetní	Benešov	99	80	0	F
+6201	581330	1	1	901	12	Zdeněk	Veselý			25	dělník	Benešov	99	80	0	M
+6201	581330	1	3	902	12	Leona	Koledová			37	učitelka	Benešov	99	80	0	F
+6201	581330	1	1	901	13	Milan	Khýr			33	automechanik	Benešov	99	80	0	M
+6201	581330	1	3	902	13	Petr	Svoboda			31	dělník	Benešov	99	80	0	M
+6201	581330	1	1	901	14	Roman	Dvořák			42	OSVČ	Benešov	99	80	0	M
+6201	581330	1	3	902	14	Pavel	Henek			23	dělník	Benešov	99	80	0	M
+6201	581330	1	1	901	15	Jiří	Laštůvka			32	OSVČ	Benešov	99	80	0	M
+6201	581330	1	3	902	15	Iveta	Baráková			36	dělník	Benešov	99	80	0	F

@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4102	566675	1	1	902	1	Jaroslav	Spoust	M			43	OSVČ	Vrbice	99	80	0
-4102	566675	1	1	902	2	Jiřina	Spoustová	F			40	dělnice	Vrbice	99	80	0
-4102	566675	1	1	902	3	Stanislav	Pavlíček	M			49	nezaměstnaný	Vrbice	99	80	0
-4102	566675	1	1	902	4	Bohumila	Zuzjaková	F			20	nezaměstnaná	Vrbice	99	80	0
-4102	566675	1	1	902	5	Jiřina	Mertlová	F			60	důchodkyně	Vrbice	99	80	0
-4102	566675	1	2	901	1	Jaroslav	Lábr	M			48	traktorista	Vrbice	99	80	0
-4102	566675	1	2	901	2	Pavla	Kozelková	F			36	mateřská dovolená	Skřipová	99	80	0
-4102	566675	1	2	901	3	Helena	Holubová	F			52	dělnice	Bošov	99	80	0
-4102	566675	1	2	901	4	Eva	Kaucká	F			63	důchodce	Vrbice	99	80	0
-4102	566675	1	2	901	5	Anna	Pavlíčková	F			63	důchodce	Vrbice	99	80	0
-4102	566675	1	2	901	6	Ján	Hebert	M			44	OSVČ	Vrbice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4102	566675	1	1	902	1	Jaroslav	Spoust			43	OSVČ	Vrbice	99	80	0	M
+4102	566675	1	2	901	1	Jaroslav	Lábr			48	traktorista	Vrbice	99	80	0	M
+4102	566675	1	1	902	2	Jiřina	Spoustová			40	dělnice	Vrbice	99	80	0	F
+4102	566675	1	2	901	2	Pavla	Kozelková			36	mateřská dovolená	Skřipová	99	80	0	F
+4102	566675	1	1	902	3	Stanislav	Pavlíček			49	nezaměstnaný	Vrbice	99	80	0	M
+4102	566675	1	2	901	3	Helena	Holubová			52	dělnice	Bošov	99	80	0	F
+4102	566675	1	1	902	4	Bohumila	Zuzjaková			20	nezaměstnaná	Vrbice	99	80	0	F
+4102	566675	1	2	901	4	Eva	Kaucká			63	důchodce	Vrbice	99	80	0	F
+4102	566675	1	1	902	5	Jiřina	Mertlová			60	důchodkyně	Vrbice	99	80	0	F
+4102	566675	1	2	901	5	Anna	Pavlíčková			63	důchodce	Vrbice	99	80	0	F
+4102	566675	1	2	901	6	Ján	Hebert			44	OSVČ	Vrbice	99	80	0	M

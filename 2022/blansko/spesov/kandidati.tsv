@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	556963	1	1	902	1	Radim	Šváb	M			47	konstruktér	Spešov	99	80	A
-6201	556963	1	1	902	2	Marek	Man	M			48	tiskař	Spešov	99	80	A
-6201	556963	1	1	902	3	Zuzana	Chlupová	F	Ing.		37	production quality specialist	Spešov	99	80	A
-6201	556963	1	1	902	4	Renata	Lai	F	Bc.		40	lektorka	Spešov	99	80	A
-6201	556963	1	1	902	5	Monika	Švábová	F			43	účetní, administrativní pracovník	Spešov	99	80	A
-6201	556963	1	1	902	6	Jiří	Komárek	M	Ing.		49	konstruktér	Spešov	99	80	A
-6201	556963	1	1	902	7	Vladimír	Chlup	M			38	obchodní zástupce	Spešov	99	80	A
-6201	556963	1	1	902	8	Tereza	Zvejšková	F			19	studentka	Spešov	99	80	A
-6201	556963	1	1	902	9	Tomáš	Kunc	M			34	vedoucí prodejny se sportovním vybavením	Spešov	99	80	A
-6201	556963	1	2	901	1	Dana	Kovaříková Veselá	F	Mgr.		45	medicínský reprezentant	Spešov	99	80	A
-6201	556963	1	2	901	2	Helena	Chlupová	F			58	vychovatelka	Spešov	99	80	A
-6201	556963	1	2	901	3	Kateřina	Zvejšková	F			45	vedoucí služeb	Spešov	99	80	A
-6201	556963	1	2	901	4	Daniela	Chlupová	F	Bc.	DiS.	36	sociální pracovnice	Spešov	99	80	A
-6201	556963	1	2	901	5	Soňa	Jedličková	F			43	administrativní pracovnice	Spešov	99	80	A
-6201	556963	1	2	901	6	Irena	Kocmanová	F			52	dělnice ve výrobě	Spešov	99	80	A
-6201	556963	1	2	901	7	Petra	Hudcová	F			43	administrativní pracovnice	Spešov	99	80	A
-6201	556963	1	2	901	8	Zdenka	Tomanová	F			58	kontrolor přepravních služeb	Spešov	99	80	A
-6201	556963	1	2	901	9	Jarmila	Halasová	F			62	účetní	Spešov	99	80	A
-6201	556963	1	3	470	1	Ivana	Holomková	F	Mgr.		57	starostka obce	Spešov	99	166	A
-6201	556963	1	3	470	2	Martin	Gottwald	M			50	obchodně technický zástupce	Spešov	99	80	A
-6201	556963	1	3	470	3	Renata	Bradáčová	F	Mgr.		45	učitelka	Spešov	99	80	A
-6201	556963	1	3	470	4	Hana	Poděbradská	F	Ing.		32	finanční manažerka	Spešov	99	80	A
-6201	556963	1	3	470	5	Jaroslava	Plhoňová	F			52	účetní	Spešov	99	80	A
-6201	556963	1	3	470	6	Stanislav	Machan	M			47	podnikatel	Spešov	99	80	A
-6201	556963	1	3	470	7	Petr	Kupka	M			50	živnostník	Spešov	99	80	A
-6201	556963	1	3	470	8	Jana	Kakáčová	F	Mgr. et Mgr.		38	ředitelka MŠ	Spešov	99	80	A
-6201	556963	1	3	470	9	Barbora	Havlíčková	F	Mgr.		40	učitelka ZŠ	Spešov	99	80	A
-6201	556963	1	4	903	1	Jan	Chlup	M			34	OSVČ	Spešov	99	80	A
-6201	556963	1	4	903	2	Pavel	Kolínek	M			36	OSVČ	Spešov	99	80	A
-6201	556963	1	4	903	3	Karel	Chlup	M			37	specialista v ENERGETICE	Spešov	99	80	A
-6201	556963	1	4	903	4	Lukáš	Plhoň	M	Ing.		31	bezpečnostní analytik	Spešov	99	80	A
-6201	556963	1	4	903	5	Martin	Hlaváček	M	Ing.		32	technik BOZP a PO	Spešov	99	80	A
-6201	556963	1	4	903	6	Jaroslav	Formánek	M			33	PČR	Spešov	99	80	A
-6201	556963	1	4	903	7	Marek	Mikulášek	M			37	OSVČ	Spešov	99	80	A
-6201	556963	1	4	903	8	Petr	Minář	M	Ing.		36	vedoucí týmu podpory digitalizace v podnikání	Spešov	99	80	A
-6201	556963	1	4	903	9	Jiří	Chlup	M			42	OSVČ	Spešov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	556963	1	1	902	1	Radim	Šváb			47	konstruktér	Spešov	99	80	A	M
+6201	556963	1	2	901	1	Dana	Kovaříková Veselá	Mgr.		45	medicínský reprezentant	Spešov	99	80	A	F
+6201	556963	1	3	470	1	Ivana	Holomková	Mgr.		57	starostka obce	Spešov	99	166	A	F
+6201	556963	1	4	903	1	Jan	Chlup			34	OSVČ	Spešov	99	80	A	M
+6201	556963	1	1	902	2	Marek	Man			48	tiskař	Spešov	99	80	A	M
+6201	556963	1	2	901	2	Helena	Chlupová			58	vychovatelka	Spešov	99	80	A	F
+6201	556963	1	3	470	2	Martin	Gottwald			50	obchodně technický zástupce	Spešov	99	80	A	M
+6201	556963	1	4	903	2	Pavel	Kolínek			36	OSVČ	Spešov	99	80	A	M
+6201	556963	1	1	902	3	Zuzana	Chlupová	Ing.		37	production quality specialist	Spešov	99	80	A	F
+6201	556963	1	2	901	3	Kateřina	Zvejšková			45	vedoucí služeb	Spešov	99	80	A	F
+6201	556963	1	3	470	3	Renata	Bradáčová	Mgr.		45	učitelka	Spešov	99	80	A	F
+6201	556963	1	4	903	3	Karel	Chlup			37	specialista v ENERGETICE	Spešov	99	80	A	M
+6201	556963	1	1	902	4	Renata	Lai	Bc.		40	lektorka	Spešov	99	80	A	F
+6201	556963	1	2	901	4	Daniela	Chlupová	Bc.	DiS.	36	sociální pracovnice	Spešov	99	80	A	F
+6201	556963	1	3	470	4	Hana	Poděbradská	Ing.		32	finanční manažerka	Spešov	99	80	A	F
+6201	556963	1	4	903	4	Lukáš	Plhoň	Ing.		31	bezpečnostní analytik	Spešov	99	80	A	M
+6201	556963	1	1	902	5	Monika	Švábová			43	účetní, administrativní pracovník	Spešov	99	80	A	F
+6201	556963	1	2	901	5	Soňa	Jedličková			43	administrativní pracovnice	Spešov	99	80	A	F
+6201	556963	1	3	470	5	Jaroslava	Plhoňová			52	účetní	Spešov	99	80	A	F
+6201	556963	1	4	903	5	Martin	Hlaváček	Ing.		32	technik BOZP a PO	Spešov	99	80	A	M
+6201	556963	1	1	902	6	Jiří	Komárek	Ing.		49	konstruktér	Spešov	99	80	A	M
+6201	556963	1	2	901	6	Irena	Kocmanová			52	dělnice ve výrobě	Spešov	99	80	A	F
+6201	556963	1	3	470	6	Stanislav	Machan			47	podnikatel	Spešov	99	80	A	M
+6201	556963	1	4	903	6	Jaroslav	Formánek			33	PČR	Spešov	99	80	A	M
+6201	556963	1	1	902	7	Vladimír	Chlup			38	obchodní zástupce	Spešov	99	80	A	M
+6201	556963	1	2	901	7	Petra	Hudcová			43	administrativní pracovnice	Spešov	99	80	A	F
+6201	556963	1	3	470	7	Petr	Kupka			50	živnostník	Spešov	99	80	A	M
+6201	556963	1	4	903	7	Marek	Mikulášek			37	OSVČ	Spešov	99	80	A	M
+6201	556963	1	1	902	8	Tereza	Zvejšková			19	studentka	Spešov	99	80	A	F
+6201	556963	1	2	901	8	Zdenka	Tomanová			58	kontrolor přepravních služeb	Spešov	99	80	A	F
+6201	556963	1	3	470	8	Jana	Kakáčová	Mgr. et Mgr.		38	ředitelka MŠ	Spešov	99	80	A	F
+6201	556963	1	4	903	8	Petr	Minář	Ing.		36	vedoucí týmu podpory digitalizace v podnikání	Spešov	99	80	A	M
+6201	556963	1	1	902	9	Tomáš	Kunc			34	vedoucí prodejny se sportovním vybavením	Spešov	99	80	A	M
+6201	556963	1	2	901	9	Jarmila	Halasová			62	účetní	Spešov	99	80	A	F
+6201	556963	1	3	470	9	Barbora	Havlíčková	Mgr.		40	učitelka ZŠ	Spešov	99	80	A	F
+6201	556963	1	4	903	9	Jiří	Chlup			42	OSVČ	Spešov	99	80	A	M

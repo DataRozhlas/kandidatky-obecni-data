@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4103	560316	1	1	1072	1	Vladimír	Sedlák	M			34	barman	Bukovany	99	156	0
-4103	560316	1	2	902	1	Ladislav	Biernát	M			55	důchodce	Bukovany	99	80	0
-4103	560316	1	2	902	2	Miloslav	Vilím	M	MUDr.		67	důchodce	Bukovany	99	80	0
-4103	560316	1	2	902	3	Darja	Guzaničová	F	Bc.		24	OSVČ	Bukovany	99	80	0
-4103	560316	1	2	902	4	Helena	Ďurišová	F			49	nezaměstnaná	Bukovany	99	80	0
-4103	560316	1	2	902	5	Ivan	Klinko	M			53	podnikatel	Bukovany	99	80	0
-4103	560316	1	2	902	6	Petr	Stejskal	M			50	podnikatel	Bukovany	99	80	0
-4103	560316	1	2	902	7	Jaroslav	Jouza	M			49	dělník	Bukovany	99	80	0
-4103	560316	1	2	902	8	Helena	Hloušková	F	Mgr.		47	jednatelka s.r.o. Wohlfart	Bukovany	99	80	0
-4103	560316	1	2	902	9	Jan	Šumpolec	M			33	dělník	Bukovany	99	80	0
-4103	560316	1	3	901	1	Vojtěch	Hanzlík	M			51	THP	Bukovany	99	80	0
-4103	560316	1	3	901	2	Zdeněk	Paulus	M			44	hasič	Bukovany	99	80	0
-4103	560316	1	3	901	3	Andrea	Csorbová	F	Mgr.		29	učitelka	Bukovany	99	80	0
-4103	560316	1	3	901	4	Jindřich	Litoš	M			49	inspektor plyn. zařízení	Bukovany	99	80	0
-4103	560316	1	3	901	5	Blanka	Jungerová	F			63	vedoucí provozovny	Bukovany	99	80	0
-4103	560316	1	3	901	6	Jiří	Rozsnyaki	M			54	manipulant	Bukovany	99	80	0
-4103	560316	1	3	901	7	František	Vacík	M			66	důchodce	Bukovany	99	80	0
-4103	560316	1	3	901	8	Lenka	Sochorová	F			41	kontrolorka kvality	Bukovany	99	80	0
-4103	560316	1	3	901	9	Jiří	Šafář	M			48	učitel odborného výcviku	Bukovany	99	80	0
-4103	560316	1	4	166	1	Miroslav	Stropek	M			53	starosta obce	Bukovany	166	166	0
-4103	560316	1	4	166	2	Ivana	Bláhová	F			49	účetní	Bukovany	99	166	0
-4103	560316	1	4	166	3	Martin	Severa	M			42	vedoucí výroby	Bukovany	99	166	0
-4103	560316	1	4	166	4	Ladislav	Šedivec	M			30	policista	Bukovany	99	166	0
-4103	560316	1	4	166	5	Jan	Štebel	M			43	jednatel společnosti	Bukovany	99	166	0
-4103	560316	1	4	166	6	Jana	Žáková	F			59	důchodce	Bukovany	99	166	0
-4103	560316	1	4	166	7	Lubomír	Jemelík	M			53	báňský úpravář	Bukovany	99	166	0
-4103	560316	1	4	166	8	Dana	Jiskrová	F			49	adm. manipulant	Bukovany	99	166	0
-4103	560316	1	4	166	9	Zuzana	Buriánová	F			50	OSVČ	Bukovany	99	166	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4103	560316	1	1	1072	1	Vladimír	Sedlák			34	barman	Bukovany	99	156	0	M
+4103	560316	1	2	902	1	Ladislav	Biernát			55	důchodce	Bukovany	99	80	0	M
+4103	560316	1	3	901	1	Vojtěch	Hanzlík			51	THP	Bukovany	99	80	0	M
+4103	560316	1	4	166	1	Miroslav	Stropek			53	starosta obce	Bukovany	166	166	0	M
+4103	560316	1	2	902	2	Miloslav	Vilím	MUDr.		67	důchodce	Bukovany	99	80	0	M
+4103	560316	1	3	901	2	Zdeněk	Paulus			44	hasič	Bukovany	99	80	0	M
+4103	560316	1	4	166	2	Ivana	Bláhová			49	účetní	Bukovany	99	166	0	F
+4103	560316	1	2	902	3	Darja	Guzaničová	Bc.		24	OSVČ	Bukovany	99	80	0	F
+4103	560316	1	3	901	3	Andrea	Csorbová	Mgr.		29	učitelka	Bukovany	99	80	0	F
+4103	560316	1	4	166	3	Martin	Severa			42	vedoucí výroby	Bukovany	99	166	0	M
+4103	560316	1	2	902	4	Helena	Ďurišová			49	nezaměstnaná	Bukovany	99	80	0	F
+4103	560316	1	3	901	4	Jindřich	Litoš			49	inspektor plyn. zařízení	Bukovany	99	80	0	M
+4103	560316	1	4	166	4	Ladislav	Šedivec			30	policista	Bukovany	99	166	0	M
+4103	560316	1	2	902	5	Ivan	Klinko			53	podnikatel	Bukovany	99	80	0	M
+4103	560316	1	3	901	5	Blanka	Jungerová			63	vedoucí provozovny	Bukovany	99	80	0	F
+4103	560316	1	4	166	5	Jan	Štebel			43	jednatel společnosti	Bukovany	99	166	0	M
+4103	560316	1	2	902	6	Petr	Stejskal			50	podnikatel	Bukovany	99	80	0	M
+4103	560316	1	3	901	6	Jiří	Rozsnyaki			54	manipulant	Bukovany	99	80	0	M
+4103	560316	1	4	166	6	Jana	Žáková			59	důchodce	Bukovany	99	166	0	F
+4103	560316	1	2	902	7	Jaroslav	Jouza			49	dělník	Bukovany	99	80	0	M
+4103	560316	1	3	901	7	František	Vacík			66	důchodce	Bukovany	99	80	0	M
+4103	560316	1	4	166	7	Lubomír	Jemelík			53	báňský úpravář	Bukovany	99	166	0	M
+4103	560316	1	2	902	8	Helena	Hloušková	Mgr.		47	jednatelka s.r.o. Wohlfart	Bukovany	99	80	0	F
+4103	560316	1	3	901	8	Lenka	Sochorová			41	kontrolorka kvality	Bukovany	99	80	0	F
+4103	560316	1	4	166	8	Dana	Jiskrová			49	adm. manipulant	Bukovany	99	166	0	F
+4103	560316	1	2	902	9	Jan	Šumpolec			33	dělník	Bukovany	99	80	0	M
+4103	560316	1	3	901	9	Jiří	Šafář			48	učitel odborného výcviku	Bukovany	99	80	0	M
+4103	560316	1	4	166	9	Zuzana	Buriánová			50	OSVČ	Bukovany	99	166	0	F

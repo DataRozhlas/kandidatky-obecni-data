@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	532185	1	1	47	1	Jiří	MUSEL	M	Ing.		60	zemědělský technik	Cvrčovice	47	47	0
-2103	532185	1	1	47	2	Irena	SLAPNIČKOVÁ	F			41	prodavačka	Cvrčovice	99	47	0
-2103	532185	1	1	47	3	Petr	NOSEK	M			64	důchodce	Cvrčovice	47	47	0
-2103	532185	1	1	47	4	Božena	MUSELOVÁ	F			57	vedoucí pošty	Cvrčovice	47	47	0
-2103	532185	1	1	47	5	Milena	BÁČOVÁ	F			57	dělnice	Cvrčovice	47	47	0
-2103	532185	1	1	47	6	František	POKORNÝ	M			53	zedník	Cvrčovice	47	47	0
-2103	532185	1	1	47	7	Eva	TESAŘOVÁ	F			44	prodavačka	Cvrčovice	99	47	0
-2103	532185	1	1	47	8	Věnceslava	KŘTĚNOVÁ	F			58	důchodce	Cvrčovice	99	47	0
-2103	532185	1	1	47	9	Ladislav	NYŠ	M			63	důchodce	Cvrčovice	47	47	0
-2103	532185	1	2	801	1	Jana	LOSOVÁ	F	Mgr.		35	ředitelka společnosti	Cvrčovice	99	80	0
-2103	532185	1	3	804	1	Jaroslav	JANÁK	M			52	zkušební technik	Cvrčovice	99	80	0
-2103	532185	1	4	802	1	Hana	CRUSEOVÁ	F			46	podnikatelka	Cvrčovice	99	80	0
-2103	532185	1	5	803	1	Eliška	KYTKOVÁ	F			58	technik - geodet	Cvrčovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	532185	1	1	47	1	Jiří	MUSEL	Ing.		60	zemědělský technik	Cvrčovice	47	47	0	M
+2103	532185	1	2	801	1	Jana	LOSOVÁ	Mgr.		35	ředitelka společnosti	Cvrčovice	99	80	0	F
+2103	532185	1	3	804	1	Jaroslav	JANÁK			52	zkušební technik	Cvrčovice	99	80	0	M
+2103	532185	1	4	802	1	Hana	CRUSEOVÁ			46	podnikatelka	Cvrčovice	99	80	0	F
+2103	532185	1	5	803	1	Eliška	KYTKOVÁ			58	technik - geodet	Cvrčovice	99	80	0	F
+2103	532185	1	1	47	2	Irena	SLAPNIČKOVÁ			41	prodavačka	Cvrčovice	99	47	0	F
+2103	532185	1	1	47	3	Petr	NOSEK			64	důchodce	Cvrčovice	47	47	0	M
+2103	532185	1	1	47	4	Božena	MUSELOVÁ			57	vedoucí pošty	Cvrčovice	47	47	0	F
+2103	532185	1	1	47	5	Milena	BÁČOVÁ			57	dělnice	Cvrčovice	47	47	0	F
+2103	532185	1	1	47	6	František	POKORNÝ			53	zedník	Cvrčovice	47	47	0	M
+2103	532185	1	1	47	7	Eva	TESAŘOVÁ			44	prodavačka	Cvrčovice	99	47	0	F
+2103	532185	1	1	47	8	Věnceslava	KŘTĚNOVÁ			58	důchodce	Cvrčovice	99	47	0	F
+2103	532185	1	1	47	9	Ladislav	NYŠ			63	důchodce	Cvrčovice	47	47	0	M

@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	547026	1	1	166	1	Radek	Sklenář	M			58	elektromontér	Bystrovany	99	166	A
-7102	547026	1	1	166	2	Pavel	Žádník	M			58	živnostník	Bystrovany	99	166	A
-7102	547026	1	1	166	3	Jitka	Lukášková	F			46	vojačka	Bystrovany	99	166	A
-7102	547026	1	1	166	4	Martin	Sklenář	M			31	živnostník	Bystrovany	99	166	A
-7102	547026	1	1	166	5	Petr	Sklenář	M	Ing.		55	učitel	Bystrovany	99	166	A
-7102	547026	1	1	166	6	Stanislav	Symerský	M			61	elektrikář	Bystrovany	99	166	A
-7102	547026	1	1	166	7	Roman	Künstler	M			58	řidič	Bystrovany	99	166	A
-7102	547026	1	1	166	8	Petr	Dolínek	M			43	živnostník	Bystrovany	99	166	A
-7102	547026	1	1	166	9	Zbyněk	Mossler	M			44	stolař	Bystrovany	99	166	A
-7102	547026	1	2	1	1	Jiří	Hroch	M	Bc.		41	PO technik	Bystrovany	99	1	A
-7102	547026	1	2	1	2	Jaroslava	Kaczorová	F		DiS.	48	sociální pracovník	Bystrovany	99	1	A
-7102	547026	1	2	1	3	Vojtěch	Košťálek	M			64	důchodce	Bystrovany	1	1	A
-7102	547026	1	2	1	4	Jiří	Pleska	M	Bc.		32	skladník	Bystrovany	99	1	A
-7102	547026	1	2	1	5	Jan	Rymeš	M	MVDr.		46	veterinární lékař	Bystrovany	99	1	A
-7102	547026	1	3	901	1	Libor	Žižka	M			48	podnikatel ve stavebnictví	Bystrovany	99	80	A
-7102	547026	1	3	901	2	Sylva	Kaděrková	F	Bc.		48	koordinátor výroby	Bystrovany	99	80	A
-7102	547026	1	3	901	3	Vlastimil	Kramář	M	Mgr.		52	manažer ve zdravotnictví	Bystrovany	99	80	A
-7102	547026	1	3	901	4	Tomáš	Putík	M			50	technický manažer	Bystrovany	99	80	A
-7102	547026	1	3	901	5	Tomáš	Stejskal	M	Ing.		41	ředitel odboru sociálního pojištění OSSZ Olomouc	Bystrovany	99	80	A
-7102	547026	1	3	901	6	Jiří	Rysnar	M	Ing.		36	programátor	Bystrovany	99	80	A
-7102	547026	1	3	901	7	Tomáš	Smékal	M	Ing.		40	disponent v dopravě	Bystrovany	99	80	A
-7102	547026	1	3	901	8	Hana	Vagnerová	F	Ing.		49	ekonom	Bystrovany	99	80	A
-7102	547026	1	3	901	9	Antonín	Bryks	M	PhDr. Mgr.		46	psycholog, certifikovaný průvodce CK	Bystrovany	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	547026	1	1	166	1	Radek	Sklenář			58	elektromontér	Bystrovany	99	166	A	M
+7102	547026	1	2	1	1	Jiří	Hroch	Bc.		41	PO technik	Bystrovany	99	1	A	M
+7102	547026	1	3	901	1	Libor	Žižka			48	podnikatel ve stavebnictví	Bystrovany	99	80	A	M
+7102	547026	1	1	166	2	Pavel	Žádník			58	živnostník	Bystrovany	99	166	A	M
+7102	547026	1	2	1	2	Jaroslava	Kaczorová		DiS.	48	sociální pracovník	Bystrovany	99	1	A	F
+7102	547026	1	3	901	2	Sylva	Kaděrková	Bc.		48	koordinátor výroby	Bystrovany	99	80	A	F
+7102	547026	1	1	166	3	Jitka	Lukášková			46	vojačka	Bystrovany	99	166	A	F
+7102	547026	1	2	1	3	Vojtěch	Košťálek			64	důchodce	Bystrovany	1	1	A	M
+7102	547026	1	3	901	3	Vlastimil	Kramář	Mgr.		52	manažer ve zdravotnictví	Bystrovany	99	80	A	M
+7102	547026	1	1	166	4	Martin	Sklenář			31	živnostník	Bystrovany	99	166	A	M
+7102	547026	1	2	1	4	Jiří	Pleska	Bc.		32	skladník	Bystrovany	99	1	A	M
+7102	547026	1	3	901	4	Tomáš	Putík			50	technický manažer	Bystrovany	99	80	A	M
+7102	547026	1	1	166	5	Petr	Sklenář	Ing.		55	učitel	Bystrovany	99	166	A	M
+7102	547026	1	2	1	5	Jan	Rymeš	MVDr.		46	veterinární lékař	Bystrovany	99	1	A	M
+7102	547026	1	3	901	5	Tomáš	Stejskal	Ing.		41	ředitel odboru sociálního pojištění OSSZ Olomouc	Bystrovany	99	80	A	M
+7102	547026	1	1	166	6	Stanislav	Symerský			61	elektrikář	Bystrovany	99	166	A	M
+7102	547026	1	3	901	6	Jiří	Rysnar	Ing.		36	programátor	Bystrovany	99	80	A	M
+7102	547026	1	1	166	7	Roman	Künstler			58	řidič	Bystrovany	99	166	A	M
+7102	547026	1	3	901	7	Tomáš	Smékal	Ing.		40	disponent v dopravě	Bystrovany	99	80	A	M
+7102	547026	1	1	166	8	Petr	Dolínek			43	živnostník	Bystrovany	99	166	A	M
+7102	547026	1	3	901	8	Hana	Vagnerová	Ing.		49	ekonom	Bystrovany	99	80	A	F
+7102	547026	1	1	166	9	Zbyněk	Mossler			44	stolař	Bystrovany	99	166	A	M
+7102	547026	1	3	901	9	Antonín	Bryks	PhDr. Mgr.		46	psycholog, certifikovaný průvodce CK	Bystrovany	99	80	A	M

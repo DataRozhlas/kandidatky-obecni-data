@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3205	559237	1	1	902	1	Alena	Churavá	F			50	učitelka MŠ	Mladotice	99	80	0
-3205	559237	1	1	902	2	Iveta	Lišková	F			42	vychovatelka	Mladotice	99	80	0
-3205	559237	1	1	902	3	Marcela	Kůsová	F			35	lekárnice	Mladotice	99	80	0
-3205	559237	1	1	902	4	Jaroslava	Široká	F			32	úřednice	Mladotice	99	80	0
-3205	559237	1	1	902	5	Michaela	Hajžmanová	F			30	úřednice	Mladotice	99	80	0
-3205	559237	1	1	902	6	Martina	Havlíková	F			33	účetní	Mladotice	99	80	0
-3205	559237	1	2	724	1	Václav	Šmídl	M			49	agronom	Strážiště	99	724	0
-3205	559237	1	2	724	2	Václav	Šmídl	M			24	technik	Strážiště	99	724	0
-3205	559237	1	2	724	3	Jaroslav	Koubek	M			62	důchodce	Strážiště	99	724	0
-3205	559237	1	2	724	4	Monika	Dubová	F			36	na mateřské dovolené	Černá Hať	99	724	0
-3205	559237	1	2	724	5	Ladislav	Kiml	M			57	technik	Chrašťovice	99	724	0
-3205	559237	1	2	724	6	František	Kučera	M			70	důchodce	Chrašťovice	99	724	0
-3205	559237	1	2	724	7	Václav	Havlík	M			61	dělník	Strážiště	99	724	0
-3205	559237	1	2	724	8	Stanislava	Kouřilová	F			57	důchodce	Černá Hať	99	724	0
-3205	559237	1	2	724	9	Radek	Popovič	M			40	podnikatel	Černá Hať	99	724	0
-3205	559237	1	3	901	1	Zdeněk	Slach	M			57	starosta obce	Mladotice	99	80	0
-3205	559237	1	3	901	2	Josef	Koudele	M			55	mistr	Mladotice	99	80	0
-3205	559237	1	3	901	3	Pavel	Randa	M			56	výrobní náměstek	Mladotice	99	80	0
-3205	559237	1	3	901	4	Pavel	Zeman	M			42	zedník	Mladotice	99	80	0
-3205	559237	1	3	901	5	Vladimír	Brunclík	M			50	řidič	Mladotice	99	80	0
-3205	559237	1	3	901	6	Jiří	Záhrobský	M			49	vedoucí zásobování	Mladotice	99	80	0
-3205	559237	1	3	901	7	Radek	Sajdl	M			40	řidič	Mladotice	99	80	0
-3205	559237	1	3	901	8	Zdeněk	Kučera	M			51	dělník	Mladotice	99	80	0
-3205	559237	1	3	901	9	Václav	Havlík	M			37	dělník	Mladotice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3205	559237	1	1	902	1	Alena	Churavá			50	učitelka MŠ	Mladotice	99	80	0	F
+3205	559237	1	2	724	1	Václav	Šmídl			49	agronom	Strážiště	99	724	0	M
+3205	559237	1	3	901	1	Zdeněk	Slach			57	starosta obce	Mladotice	99	80	0	M
+3205	559237	1	1	902	2	Iveta	Lišková			42	vychovatelka	Mladotice	99	80	0	F
+3205	559237	1	2	724	2	Václav	Šmídl			24	technik	Strážiště	99	724	0	M
+3205	559237	1	3	901	2	Josef	Koudele			55	mistr	Mladotice	99	80	0	M
+3205	559237	1	1	902	3	Marcela	Kůsová			35	lekárnice	Mladotice	99	80	0	F
+3205	559237	1	2	724	3	Jaroslav	Koubek			62	důchodce	Strážiště	99	724	0	M
+3205	559237	1	3	901	3	Pavel	Randa			56	výrobní náměstek	Mladotice	99	80	0	M
+3205	559237	1	1	902	4	Jaroslava	Široká			32	úřednice	Mladotice	99	80	0	F
+3205	559237	1	2	724	4	Monika	Dubová			36	na mateřské dovolené	Černá Hať	99	724	0	F
+3205	559237	1	3	901	4	Pavel	Zeman			42	zedník	Mladotice	99	80	0	M
+3205	559237	1	1	902	5	Michaela	Hajžmanová			30	úřednice	Mladotice	99	80	0	F
+3205	559237	1	2	724	5	Ladislav	Kiml			57	technik	Chrašťovice	99	724	0	M
+3205	559237	1	3	901	5	Vladimír	Brunclík			50	řidič	Mladotice	99	80	0	M
+3205	559237	1	1	902	6	Martina	Havlíková			33	účetní	Mladotice	99	80	0	F
+3205	559237	1	2	724	6	František	Kučera			70	důchodce	Chrašťovice	99	724	0	M
+3205	559237	1	3	901	6	Jiří	Záhrobský			49	vedoucí zásobování	Mladotice	99	80	0	M
+3205	559237	1	2	724	7	Václav	Havlík			61	dělník	Strážiště	99	724	0	M
+3205	559237	1	3	901	7	Radek	Sajdl			40	řidič	Mladotice	99	80	0	M
+3205	559237	1	2	724	8	Stanislava	Kouřilová			57	důchodce	Černá Hať	99	724	0	F
+3205	559237	1	3	901	8	Zdeněk	Kučera			51	dělník	Mladotice	99	80	0	M
+3205	559237	1	2	724	9	Radek	Popovič			40	podnikatel	Černá Hať	99	724	0	M
+3205	559237	1	3	901	9	Václav	Havlík			37	dělník	Mladotice	99	80	0	M

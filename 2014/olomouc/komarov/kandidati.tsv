@@ -1,9 +1,9 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	547123	1	1	802	1	Pavel	Konupka	M			22	výstupní kontrolor	Komárov	99	80	0
-7102	547123	1	2	804	1	Alice	Slavíková	F			32	invalidní důchodce	Komárov	99	80	0
-7102	547123	1	3	803	1	Alena	Charouzová	F	Bc.		45	vedoucí charity	Komárov	99	80	0
-7102	547123	1	4	807	1	Alena	Lebdušková	F			47	úřednice	Komárov	99	80	0
-7102	547123	1	5	801	1	Svatopluk	Vyroubal	M			38	operátor výroby	Komárov	99	80	0
-7102	547123	1	6	806	1	Roman	Kreuziger	M			42	dělník	Komárov	99	80	0
-7102	547123	1	7	805	1	Danuše	Lhotáková	F			64	důchodce	Komárov	99	80	0
-7102	547123	1	8	808	1	Vladislav	Machač	M			66	důchodce	Komárov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	547123	1	1	802	1	Pavel	Konupka			22	výstupní kontrolor	Komárov	99	80	0	M
+7102	547123	1	2	804	1	Alice	Slavíková			32	invalidní důchodce	Komárov	99	80	0	F
+7102	547123	1	3	803	1	Alena	Charouzová	Bc.		45	vedoucí charity	Komárov	99	80	0	F
+7102	547123	1	4	807	1	Alena	Lebdušková			47	úřednice	Komárov	99	80	0	F
+7102	547123	1	5	801	1	Svatopluk	Vyroubal			38	operátor výroby	Komárov	99	80	0	M
+7102	547123	1	6	806	1	Roman	Kreuziger			42	dělník	Komárov	99	80	0	M
+7102	547123	1	7	805	1	Danuše	Lhotáková			64	důchodce	Komárov	99	80	0	F
+7102	547123	1	8	808	1	Vladislav	Machač			66	důchodce	Komárov	99	80	0	M

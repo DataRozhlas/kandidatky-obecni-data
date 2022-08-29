@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	569127	1	1	903	1	Petr	Čermák	M			33	manažer výroby	Modlíkov	99	80	A
-6101	569127	1	1	903	2	Josef	Vacek	M			36	obsluha CNC	Modlíkov	99	80	A
-6101	569127	1	1	903	3	Lenka	Pospíchalová	F			36	OSVČ	Modlíkov	99	80	A
-6101	569127	1	1	903	4	Jan	Pěch	M			33	obsluha linky	Modlíkov	99	80	A
-6101	569127	1	1	903	5	Petr	Neubauer	M			44	podnikatel	Modlíkov	99	80	A
-6101	569127	1	1	903	6	Dana	Pospíchalová	F			63	důchodce	Modlíkov	99	80	A
-6101	569127	1	1	903	7	Petra	Vaníčková	F			37	psycholožka	Modlíkov	99	80	A
-6101	569127	1	2	901	1	Milan	Zvolánek	M			48	obsluha ČOV	Modlíkov	99	80	A
-6101	569127	1	2	901	2	Roman	Šrámek	M			40	vedoucí provozu	Modlíkov	99	80	A
-6101	569127	1	2	901	3	Karel	Kokoška	M			42	reg. manažer	Modlíkov	99	80	A
-6101	569127	1	2	901	4	Dana	Uttendorfská	F			34	administrativní pracovnice	Modlíkov	99	80	A
-6101	569127	1	2	901	5	Martin	Holcman	M			37	OSVČ	Modlíkov	99	80	A
-6101	569127	1	2	901	6	Jaroslav	Bořil	M			43	dělník	Modlíkov	99	80	A
-6101	569127	1	2	901	7	Radim	Záruba	M			44	traktorista	Modlíkov	99	80	A
-6101	569127	1	2	901	8	Lucie	Čapková	F			41	učitelka MŠ	Modlíkov	99	80	A
-6101	569127	1	3	902	1	David	Pospíchal	M			27	3D programátor	Modlíkov	99	80	A
-6101	569127	1	3	902	2	Alois	Kalců	M			66	důchodce	Modlíkov	99	80	A
-6101	569127	1	3	902	3	Miroslav	Štědrý	M			28	mistr provozu	Modlíkov	99	80	A
-6101	569127	1	3	902	4	Martin	Vacek	M			28	3D programátor	Modlíkov	99	80	A
-6101	569127	1	3	902	5	Tomáš	Jeřábek	M			37	řidič z povolání	Modlíkov	99	80	A
-6101	569127	1	3	902	6	Michal	Čermák	M			35	řidič z povolání	Modlíkov	99	80	A
-6101	569127	1	3	902	7	Jiří	Pavlovič	M			58	brusič	Modlíkov	99	80	A
-6101	569127	1	4	5	1	Jakub	Vaníček	M	Mgr.		37	knihkupec, literární historik	Modlíkov	5	5	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	569127	1	1	903	1	Petr	Čermák			33	manažer výroby	Modlíkov	99	80	A	M
+6101	569127	1	2	901	1	Milan	Zvolánek			48	obsluha ČOV	Modlíkov	99	80	A	M
+6101	569127	1	3	902	1	David	Pospíchal			27	3D programátor	Modlíkov	99	80	A	M
+6101	569127	1	4	5	1	Jakub	Vaníček	Mgr.		37	knihkupec, literární historik	Modlíkov	5	5	A	M
+6101	569127	1	1	903	2	Josef	Vacek			36	obsluha CNC	Modlíkov	99	80	A	M
+6101	569127	1	2	901	2	Roman	Šrámek			40	vedoucí provozu	Modlíkov	99	80	A	M
+6101	569127	1	3	902	2	Alois	Kalců			66	důchodce	Modlíkov	99	80	A	M
+6101	569127	1	1	903	3	Lenka	Pospíchalová			36	OSVČ	Modlíkov	99	80	A	F
+6101	569127	1	2	901	3	Karel	Kokoška			42	reg. manažer	Modlíkov	99	80	A	M
+6101	569127	1	3	902	3	Miroslav	Štědrý			28	mistr provozu	Modlíkov	99	80	A	M
+6101	569127	1	1	903	4	Jan	Pěch			33	obsluha linky	Modlíkov	99	80	A	M
+6101	569127	1	2	901	4	Dana	Uttendorfská			34	administrativní pracovnice	Modlíkov	99	80	A	F
+6101	569127	1	3	902	4	Martin	Vacek			28	3D programátor	Modlíkov	99	80	A	M
+6101	569127	1	1	903	5	Petr	Neubauer			44	podnikatel	Modlíkov	99	80	A	M
+6101	569127	1	2	901	5	Martin	Holcman			37	OSVČ	Modlíkov	99	80	A	M
+6101	569127	1	3	902	5	Tomáš	Jeřábek			37	řidič z povolání	Modlíkov	99	80	A	M
+6101	569127	1	1	903	6	Dana	Pospíchalová			63	důchodce	Modlíkov	99	80	A	F
+6101	569127	1	2	901	6	Jaroslav	Bořil			43	dělník	Modlíkov	99	80	A	M
+6101	569127	1	3	902	6	Michal	Čermák			35	řidič z povolání	Modlíkov	99	80	A	M
+6101	569127	1	1	903	7	Petra	Vaníčková			37	psycholožka	Modlíkov	99	80	A	F
+6101	569127	1	2	901	7	Radim	Záruba			44	traktorista	Modlíkov	99	80	A	M
+6101	569127	1	3	902	7	Jiří	Pavlovič			58	brusič	Modlíkov	99	80	A	M
+6101	569127	1	2	901	8	Lucie	Čapková			41	učitelka MŠ	Modlíkov	99	80	A	F

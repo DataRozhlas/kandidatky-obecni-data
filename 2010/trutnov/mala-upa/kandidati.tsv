@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579505	1	1	901	1	Jan	Patzelt	M			42	Starosta obce M.Úpa,podnikatel	Malá Úpa	724	80	0
-5205	579505	1	1	901	2	Martin	Prokop	M			37	Lesní	Malá Úpa	99	80	0
-5205	579505	1	1	901	3	Alice	Hůlková	F	Mgr.		47	Ředitelka ZŠ a MŠ Malá Úpa	Malá Úpa	99	80	0
-5205	579505	1	1	901	4	Vlasta	Urbanová	F			38	Učitelka MŠ Malá Úpa	Malá Úpa	99	80	0
-5205	579505	1	1	901	5	Marta	Žďárská	F			30	Podnikatelka	Malá Úpa	724	80	0
-5205	579505	1	1	901	6	Jiří	Winter	M			43	Podnikatel	Malá Úpa	99	80	0
-5205	579505	1	1	901	7	Jiří	Vandrovec	M			61	Důchodce	Malá Úpa	99	80	0
-5205	579505	1	1	901	8	Lenka	Prokopová	F			33	Vedoucí pošty I-Malá Úpa	Malá Úpa	99	80	0
-5205	579505	1	1	901	9	Marta	Patzeltová	F			40	Podnikatelka	Malá Úpa	99	80	0
-5205	579505	1	2	902	1	Lubomír	Mocl	M			55	podnikatel	Malá Úpa	99	80	0
-5205	579505	1	2	902	2	Robert	Hudrlík	M			42	zaměstnanec obce	Malá Úpa	99	80	0
-5205	579505	1	2	902	3	Jaroslav	Jirotka	M			33	podnikatel	Malá Úpa	99	80	0
-5205	579505	1	2	902	4	Stanislav	Zmítko	M			45	podnikatel	Malá Úpa	99	80	0
-5205	579505	1	2	902	5	David	Kocfelda	M			32	zaměstnanec policie ČR	Malá Úpa	99	80	0
-5205	579505	1	2	902	6	Jan	Mocl	M			22	student	Malá Úpa	99	80	0
-5205	579505	1	2	902	7	Nikola	Schimmer	F			20	student	Malá Úpa	99	80	0
-5205	579505	1	2	902	8	Zdeňka	Jirotková	F			34	podnikatelka	Malá Úpa	99	80	0
-5205	579505	1	2	902	9	Miroslav	Schimmer	M			46	podnikatel	Malá Úpa	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579505	1	1	901	1	Jan	Patzelt			42	Starosta obce M.Úpa,podnikatel	Malá Úpa	724	80	0	M
+5205	579505	1	2	902	1	Lubomír	Mocl			55	podnikatel	Malá Úpa	99	80	0	M
+5205	579505	1	1	901	2	Martin	Prokop			37	Lesní	Malá Úpa	99	80	0	M
+5205	579505	1	2	902	2	Robert	Hudrlík			42	zaměstnanec obce	Malá Úpa	99	80	0	M
+5205	579505	1	1	901	3	Alice	Hůlková	Mgr.		47	Ředitelka ZŠ a MŠ Malá Úpa	Malá Úpa	99	80	0	F
+5205	579505	1	2	902	3	Jaroslav	Jirotka			33	podnikatel	Malá Úpa	99	80	0	M
+5205	579505	1	1	901	4	Vlasta	Urbanová			38	Učitelka MŠ Malá Úpa	Malá Úpa	99	80	0	F
+5205	579505	1	2	902	4	Stanislav	Zmítko			45	podnikatel	Malá Úpa	99	80	0	M
+5205	579505	1	1	901	5	Marta	Žďárská			30	Podnikatelka	Malá Úpa	724	80	0	F
+5205	579505	1	2	902	5	David	Kocfelda			32	zaměstnanec policie ČR	Malá Úpa	99	80	0	M
+5205	579505	1	1	901	6	Jiří	Winter			43	Podnikatel	Malá Úpa	99	80	0	M
+5205	579505	1	2	902	6	Jan	Mocl			22	student	Malá Úpa	99	80	0	M
+5205	579505	1	1	901	7	Jiří	Vandrovec			61	Důchodce	Malá Úpa	99	80	0	M
+5205	579505	1	2	902	7	Nikola	Schimmer			20	student	Malá Úpa	99	80	0	F
+5205	579505	1	1	901	8	Lenka	Prokopová			33	Vedoucí pošty I-Malá Úpa	Malá Úpa	99	80	0	F
+5205	579505	1	2	902	8	Zdeňka	Jirotková			34	podnikatelka	Malá Úpa	99	80	0	F
+5205	579505	1	1	901	9	Marta	Patzeltová			40	Podnikatelka	Malá Úpa	99	80	0	F
+5205	579505	1	2	902	9	Miroslav	Schimmer			46	podnikatel	Malá Úpa	99	80	0	M

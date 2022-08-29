@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	539325	1	1	53	1	Vít	Libovický	M	Ing.		43	starosta	Jesenice	53	53	0
-2110	539325	1	1	53	2	Milan	Partík	M	Mgr.		37	právník	Jesenice	53	53	0
-2110	539325	1	1	53	3	Zdeňka	Pašková	F			44	zastupitel	Jesenice	53	53	0
-2110	539325	1	1	53	4	Pavel	Jiříček	M	Ing.		44	technik	Horní Jirčany	99	53	0
-2110	539325	1	1	53	5	Jaroslav	Vaněček	M			29	zastupitel	Osnice	99	53	0
-2110	539325	1	1	53	6	Romana	Šilová	F	Mgr.		37	zástupce ředitelky ZŠ	Jesenice	99	53	0
-2110	539325	1	1	53	7	Sylva	Marková	F	Ing.		45	účetní poradce	Osnice	99	53	0
-2110	539325	1	1	53	8	Ivan	Martínek	M			42	podnikatel	Osnice	99	53	0
-2110	539325	1	1	53	9	Miroslav	Svoboda	M	Ing.		39	manažer	Jesenice	53	53	0
-2110	539325	1	1	53	10	Ludmila	Repetná	F			40	podnikatelka	Zdiměřice	99	53	0
-2110	539325	1	1	53	11	Stanislav	Brtna	M			46	strojvedoucí	Horní Jirčany	99	53	0
-2110	539325	1	1	53	12	Antonín	Badal	M			36	technik	Jesenice	99	53	0
-2110	539325	1	1	53	13	Bedřich	Štěpánek	M	Ing.		40	manažer	Zdiměřice	99	53	0
-2110	539325	1	1	53	14	Renáta	Čopová	F			31	vychovatelka	Horní Jirčany	99	53	0
-2110	539325	1	1	53	15	Martina	Drtinová	F	RNDr.		40	analytička	Jesenice	99	53	0
-2110	539325	1	1	53	16	Šárka	Fruncová Vlčková	F	Ing.		33	mateřská dovolená	Jesenice	99	53	0
-2110	539325	1	1	53	17	Lenka	Kejvalová	F	MUDr.		37	dětská lékařka	Jesenice	99	53	0
-2110	539325	1	2	901	1	Milan	Zápotocký	M	Ing.		43	stavební inženýr	Jesenice	99	80	0
-2110	539325	1	2	901	2	Zdeněk	Pánek	M	Ing.		28	státní zaměstnanec	Osnice	99	80	0
-2110	539325	1	2	901	3	Eva	Čmelíková	F			42	kosmetička	Jesenice	99	80	0
-2110	539325	1	2	901	4	Luděk	Pavel	M			53	státní zaměstnanec	Jesenice	99	80	0
-2110	539325	1	2	901	5	Viktor	Soós	M	Ing.		38	inženýr ekonomie	Jesenice	99	80	0
-2110	539325	1	2	901	6	Karel	Vala	M	Ing.		36	stavební inženýr	Jesenice	99	80	0
-2110	539325	1	2	901	7	Lenka	Kopecká	F	Ing.		26	obchodní ředitelka	Jesenice	99	80	0
-2110	539325	1	2	901	8	Radek	Janeba	M	Ing.		29	technický inženýr	Jesenice	99	80	0
-2110	539325	1	2	901	9	Miroslav	Kraus	M	Ing.		62	vedoucí hospodářské správy	Jesenice	99	80	0
-2110	539325	1	2	901	10	Zdeněk	Mencl	M			45	stavbyvedoucí	Zdiměřice	99	80	0
-2110	539325	1	2	901	11	Vladimíra	Vojtová	F			42	zdravotní sestra	Jesenice	99	80	0
-2110	539325	1	2	901	12	Věra	Křapáčková	F	Mgr.		38	pedagog	Osnice	99	80	0
-2110	539325	1	2	901	13	Pavel	Krejčí	M	Ing.		42	projektant	Horní Jirčany	99	80	0
-2110	539325	1	2	901	14	Pavel	Pokuta	M	MUDr.		40	lékař	Jesenice	99	80	0
-2110	539325	1	2	901	15	Vladimír	Pravda	M			32	technický vedoucí odstřelů	Osnice	99	80	0
-2110	539325	1	2	901	16	Tomáš	Chramosil	M	Ing.		40	obchodní manažer	Jesenice	99	80	0
-2110	539325	1	2	901	17	Libuše	Kaucká	F			45	poštovní úřednice	Osnice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	539325	1	1	53	1	Vít	Libovický	Ing.		43	starosta	Jesenice	53	53	0	M
+2110	539325	1	2	901	1	Milan	Zápotocký	Ing.		43	stavební inženýr	Jesenice	99	80	0	M
+2110	539325	1	1	53	2	Milan	Partík	Mgr.		37	právník	Jesenice	53	53	0	M
+2110	539325	1	2	901	2	Zdeněk	Pánek	Ing.		28	státní zaměstnanec	Osnice	99	80	0	M
+2110	539325	1	1	53	3	Zdeňka	Pašková			44	zastupitel	Jesenice	53	53	0	F
+2110	539325	1	2	901	3	Eva	Čmelíková			42	kosmetička	Jesenice	99	80	0	F
+2110	539325	1	1	53	4	Pavel	Jiříček	Ing.		44	technik	Horní Jirčany	99	53	0	M
+2110	539325	1	2	901	4	Luděk	Pavel			53	státní zaměstnanec	Jesenice	99	80	0	M
+2110	539325	1	1	53	5	Jaroslav	Vaněček			29	zastupitel	Osnice	99	53	0	M
+2110	539325	1	2	901	5	Viktor	Soós	Ing.		38	inženýr ekonomie	Jesenice	99	80	0	M
+2110	539325	1	1	53	6	Romana	Šilová	Mgr.		37	zástupce ředitelky ZŠ	Jesenice	99	53	0	F
+2110	539325	1	2	901	6	Karel	Vala	Ing.		36	stavební inženýr	Jesenice	99	80	0	M
+2110	539325	1	1	53	7	Sylva	Marková	Ing.		45	účetní poradce	Osnice	99	53	0	F
+2110	539325	1	2	901	7	Lenka	Kopecká	Ing.		26	obchodní ředitelka	Jesenice	99	80	0	F
+2110	539325	1	1	53	8	Ivan	Martínek			42	podnikatel	Osnice	99	53	0	M
+2110	539325	1	2	901	8	Radek	Janeba	Ing.		29	technický inženýr	Jesenice	99	80	0	M
+2110	539325	1	1	53	9	Miroslav	Svoboda	Ing.		39	manažer	Jesenice	53	53	0	M
+2110	539325	1	2	901	9	Miroslav	Kraus	Ing.		62	vedoucí hospodářské správy	Jesenice	99	80	0	M
+2110	539325	1	1	53	10	Ludmila	Repetná			40	podnikatelka	Zdiměřice	99	53	0	F
+2110	539325	1	2	901	10	Zdeněk	Mencl			45	stavbyvedoucí	Zdiměřice	99	80	0	M
+2110	539325	1	1	53	11	Stanislav	Brtna			46	strojvedoucí	Horní Jirčany	99	53	0	M
+2110	539325	1	2	901	11	Vladimíra	Vojtová			42	zdravotní sestra	Jesenice	99	80	0	F
+2110	539325	1	1	53	12	Antonín	Badal			36	technik	Jesenice	99	53	0	M
+2110	539325	1	2	901	12	Věra	Křapáčková	Mgr.		38	pedagog	Osnice	99	80	0	F
+2110	539325	1	1	53	13	Bedřich	Štěpánek	Ing.		40	manažer	Zdiměřice	99	53	0	M
+2110	539325	1	2	901	13	Pavel	Krejčí	Ing.		42	projektant	Horní Jirčany	99	80	0	M
+2110	539325	1	1	53	14	Renáta	Čopová			31	vychovatelka	Horní Jirčany	99	53	0	F
+2110	539325	1	2	901	14	Pavel	Pokuta	MUDr.		40	lékař	Jesenice	99	80	0	M
+2110	539325	1	1	53	15	Martina	Drtinová	RNDr.		40	analytička	Jesenice	99	53	0	F
+2110	539325	1	2	901	15	Vladimír	Pravda			32	technický vedoucí odstřelů	Osnice	99	80	0	M
+2110	539325	1	1	53	16	Šárka	Fruncová Vlčková	Ing.		33	mateřská dovolená	Jesenice	99	53	0	F
+2110	539325	1	2	901	16	Tomáš	Chramosil	Ing.		40	obchodní manažer	Jesenice	99	80	0	M
+2110	539325	1	1	53	17	Lenka	Kejvalová	MUDr.		37	dětská lékařka	Jesenice	99	53	0	F
+2110	539325	1	2	901	17	Libuše	Kaucká			45	poštovní úřednice	Osnice	99	80	0	F

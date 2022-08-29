@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	544744	1	1	903	1	Václav	Ludvík	M			64	starosta	Spolí	99	80	0
-3101	544744	1	1	903	2	Pavel	Leyer	M			55	řidič	Spolí	99	80	0
-3101	544744	1	1	903	3	Jan	Koranda	M			62	soukromý podnikatel	Spolí	99	80	0
-3101	544744	1	1	903	4	Jan	Čada	M			58	technik	Spolí	99	80	0
-3101	544744	1	1	903	5	Martin	Ježek	M			25	soukromý podnikatel	Spolí	99	80	0
-3101	544744	1	1	903	6	Miroslav	Lechner	M			36	řidič	Spolí	99	80	0
-3101	544744	1	1	903	7	Ctibor	Kubeš	M			33	vedoucí prodejny	Spolí	99	80	0
-3101	544744	1	1	903	8	Miroslav	Ježek	M	Ing.		29	stavbyvedoucí	Spolí	99	80	0
-3101	544744	1	2	902	1	Josef	Jáchim	M			31	traktorista	Libín	99	80	0
-3101	544744	1	2	902	2	Josef	Candra	M			45	opravář	Libín	99	80	0
-3101	544744	1	2	902	3	Aleš	Černák	M			30	podnikatel	Libín	99	80	0
-3101	544744	1	2	902	4	Pavel	Bláha	M	Ing.		27	energetik	Libín	99	80	0
-3101	544744	1	2	902	5	Pavel	Sláma	M			46	živnostník	Libín	99	80	0
-3101	544744	1	2	902	6	Josef	Ižof	M			31	učitel	Libín	99	80	0
-3101	544744	1	2	902	7	Miroslav	Číhal	M			24	truhlář	Libín	99	80	0
-3101	544744	1	3	904	1	Dušan	Chvál	M			35	dělník	Slavošovice	99	80	0
-3101	544744	1	3	904	2	Veronika	Pokorná	F			37	podnikatelka	Slavošovice	99	80	0
-3101	544744	1	3	904	3	Zdeněk	Koukal	M			34	dělník	Slavošovice	99	80	0
-3101	544744	1	3	904	4	Michal	Kordina	M			38	podnikatel	Slavošovice	99	80	0
-3101	544744	1	4	901	1	Pavel	Bláha	M			52	podnikatel	Libín	99	80	0
-3101	544744	1	4	901	2	Petr	Jindra	M	Ing.		64	důchodce	Libín	99	80	0
-3101	544744	1	4	901	3	Miroslav	Matuška	M	Ing.		33	manager	Libín	99	80	0
-3101	544744	1	4	901	4	Jiří	Trousil	M			41	živnostník	Libín	99	80	0
-3101	544744	1	4	901	5	Pavel	Bezemek	M			42	živnostník	Libín	99	80	0
-3101	544744	1	4	901	6	Lenka	Jachimová	F			34	bankovní úřednice	Libín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	544744	1	1	903	1	Václav	Ludvík			64	starosta	Spolí	99	80	0	M
+3101	544744	1	2	902	1	Josef	Jáchim			31	traktorista	Libín	99	80	0	M
+3101	544744	1	3	904	1	Dušan	Chvál			35	dělník	Slavošovice	99	80	0	M
+3101	544744	1	4	901	1	Pavel	Bláha			52	podnikatel	Libín	99	80	0	M
+3101	544744	1	1	903	2	Pavel	Leyer			55	řidič	Spolí	99	80	0	M
+3101	544744	1	2	902	2	Josef	Candra			45	opravář	Libín	99	80	0	M
+3101	544744	1	3	904	2	Veronika	Pokorná			37	podnikatelka	Slavošovice	99	80	0	F
+3101	544744	1	4	901	2	Petr	Jindra	Ing.		64	důchodce	Libín	99	80	0	M
+3101	544744	1	1	903	3	Jan	Koranda			62	soukromý podnikatel	Spolí	99	80	0	M
+3101	544744	1	2	902	3	Aleš	Černák			30	podnikatel	Libín	99	80	0	M
+3101	544744	1	3	904	3	Zdeněk	Koukal			34	dělník	Slavošovice	99	80	0	M
+3101	544744	1	4	901	3	Miroslav	Matuška	Ing.		33	manager	Libín	99	80	0	M
+3101	544744	1	1	903	4	Jan	Čada			58	technik	Spolí	99	80	0	M
+3101	544744	1	2	902	4	Pavel	Bláha	Ing.		27	energetik	Libín	99	80	0	M
+3101	544744	1	3	904	4	Michal	Kordina			38	podnikatel	Slavošovice	99	80	0	M
+3101	544744	1	4	901	4	Jiří	Trousil			41	živnostník	Libín	99	80	0	M
+3101	544744	1	1	903	5	Martin	Ježek			25	soukromý podnikatel	Spolí	99	80	0	M
+3101	544744	1	2	902	5	Pavel	Sláma			46	živnostník	Libín	99	80	0	M
+3101	544744	1	4	901	5	Pavel	Bezemek			42	živnostník	Libín	99	80	0	M
+3101	544744	1	1	903	6	Miroslav	Lechner			36	řidič	Spolí	99	80	0	M
+3101	544744	1	2	902	6	Josef	Ižof			31	učitel	Libín	99	80	0	M
+3101	544744	1	4	901	6	Lenka	Jachimová			34	bankovní úřednice	Libín	99	80	0	F
+3101	544744	1	1	903	7	Ctibor	Kubeš			33	vedoucí prodejny	Spolí	99	80	0	M
+3101	544744	1	2	902	7	Miroslav	Číhal			24	truhlář	Libín	99	80	0	M
+3101	544744	1	1	903	8	Miroslav	Ježek	Ing.		29	stavbyvedoucí	Spolí	99	80	0	M

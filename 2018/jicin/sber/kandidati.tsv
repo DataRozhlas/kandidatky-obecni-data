@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5202	573451	1	1	902	1	Michal	Kněz	M	Ing.		39	projektový manažer	Hrobičany	99	80	A
-5202	573451	1	1	902	2	Miroslav	Drozen	M			45	manažer dopravních staveb	Sběř	99	80	A
-5202	573451	1	1	902	3	Ilona	Rančáková	F	Bc.		46	vrchní sestra	Hrobičany	99	80	A
-5202	573451	1	1	902	4	Martin	Rančák	M			43	soukromý podnikatel	Sběř	99	80	A
-5202	573451	1	1	902	5	Miroslav	Hykyš	M			77	důchodce	Velešice	99	80	A
-5202	573451	1	1	902	6	František	Novák	M			60	dělník	Sběř	99	80	A
-5202	573451	1	1	902	7	Hana	Floriánová	F			38	prodavačka	Velešice	99	80	A
-5202	573451	1	2	901	1	Libor	Berný	M			63	matematik	Sběř	99	80	A
-5202	573451	1	2	901	2	Jaroslava	Ferdová	F			44	zdravotní sestra	Sběř	99	80	A
-5202	573451	1	2	901	3	Milan	Jor	M			56	technický pracovník	Sběř	99	80	A
-5202	573451	1	2	901	4	Lukáš	Nezkusil	M			37	státní zaměstnanec	Velešice	99	80	A
-5202	573451	1	2	901	5	Miloslav	Nezkusil	M			43	truhlář	Hrobičany	99	80	A
-5202	573451	1	2	901	6	Jiří	Syruček	M			47	traktorista - opravář	Hrobičany	99	80	A
-5202	573451	1	2	901	7	Roman	Tesař	M			48	traktorista - opravář	Sběř	99	80	A
-5202	573451	1	2	901	8	Lukáš	Vrabec	M			26	zámečník	Sběř	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5202	573451	1	1	902	1	Michal	Kněz	Ing.		39	projektový manažer	Hrobičany	99	80	A	M
+5202	573451	1	2	901	1	Libor	Berný			63	matematik	Sběř	99	80	A	M
+5202	573451	1	1	902	2	Miroslav	Drozen			45	manažer dopravních staveb	Sběř	99	80	A	M
+5202	573451	1	2	901	2	Jaroslava	Ferdová			44	zdravotní sestra	Sběř	99	80	A	F
+5202	573451	1	1	902	3	Ilona	Rančáková	Bc.		46	vrchní sestra	Hrobičany	99	80	A	F
+5202	573451	1	2	901	3	Milan	Jor			56	technický pracovník	Sběř	99	80	A	M
+5202	573451	1	1	902	4	Martin	Rančák			43	soukromý podnikatel	Sběř	99	80	A	M
+5202	573451	1	2	901	4	Lukáš	Nezkusil			37	státní zaměstnanec	Velešice	99	80	A	M
+5202	573451	1	1	902	5	Miroslav	Hykyš			77	důchodce	Velešice	99	80	A	M
+5202	573451	1	2	901	5	Miloslav	Nezkusil			43	truhlář	Hrobičany	99	80	A	M
+5202	573451	1	1	902	6	František	Novák			60	dělník	Sběř	99	80	A	M
+5202	573451	1	2	901	6	Jiří	Syruček			47	traktorista - opravář	Hrobičany	99	80	A	M
+5202	573451	1	1	902	7	Hana	Floriánová			38	prodavačka	Velešice	99	80	A	F
+5202	573451	1	2	901	7	Roman	Tesař			48	traktorista - opravář	Sběř	99	80	A	M
+5202	573451	1	2	901	8	Lukáš	Vrabec			26	zámečník	Sběř	99	80	A	M

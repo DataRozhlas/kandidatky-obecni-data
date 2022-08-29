@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589616	1	1	901	1	Vladimír	Bradík	M			62	instalatér	Klopotovice	99	80	A
-7103	589616	1	1	901	2	Marta	Nesvadbíková	F			44	dělnice	Klopotovice	99	80	A
-7103	589616	1	1	901	3	Roman	Beneš	M	Ing.		50	manažer	Klopotovice	99	80	A
-7103	589616	1	1	901	4	Ivana	Pospišová	F			55	konstruktérka	Klopotovice	99	80	A
-7103	589616	1	1	901	5	Vladimír	Horák	M			47	automechanik	Klopotovice	99	80	A
-7103	589616	1	1	901	6	Jozef	Bukovec	M			59	traktorista	Klopotovice	99	80	A
-7103	589616	1	1	901	7	Marek	Lehký	M			36	zahradník	Klopotovice	99	80	A
-7103	589616	1	1	901	8	Luděk	Mraček	M			53	skladník	Klopotovice	99	80	A
-7103	589616	1	1	901	9	Milan	Kočíř	M			55	řidič	Klopotovice	1	80	A
-7103	589616	1	2	768	1	Jiří	Kroupa	M	Mgr. Ing.		43	OSVČ	Klopotovice	768	768	A
-7103	589616	1	2	768	2	Jarmila	Jurdová	F	Mgr.		41	vedoucí pracovník	Klopotovice	768	768	A
-7103	589616	1	2	768	3	Monika	Pořízková	F			39	výrobní dělnice	Klopotovice	99	768	A
-7103	589616	1	2	768	4	Lenka	Lišková	F			35	učitelka MŠ	Klopotovice	99	768	A
-7103	589616	1	2	768	5	Tomáš	Procházka	M			32	skladník	Klopotovice	99	768	A
-7103	589616	1	2	768	6	Vladimíra	Lehká Bukovcová	F	Mgr.		32	mateřská dovolená	Klopotovice	99	768	A
-7103	589616	1	2	768	7	Tomáš	Mouka	M			39	stavební dělník	Klopotovice	99	768	A
-7103	589616	1	3	47	1	Patrik	Pover	M			24	operátor	Klopotovice	47	47	A
-7103	589616	1	3	47	2	Tomáš	Špaček	M			34	řidič z povolání	Klopotovice	47	47	A
-7103	589616	1	3	47	3	Martin	Nemeček	M			40	řidič z povolání	Klopotovice	47	47	A
-7103	589616	1	3	47	4	Marcela	Mračková	F			50	učitelka MŠ	Klopotovice	99	47	A
-7103	589616	1	3	47	5	Tomáš	Pohlodka	M			21	údržbář vozidel	Klopotovice	99	47	A
-7103	589616	1	3	47	6	Irena	Janíková	F		DiS.	29	technik kvality	Klopotovice	99	47	A
-7103	589616	1	3	47	7	Simona	Pohlodková	F			48	OP Prostějov	Klopotovice	99	47	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589616	1	1	901	1	Vladimír	Bradík			62	instalatér	Klopotovice	99	80	A	M
+7103	589616	1	2	768	1	Jiří	Kroupa	Mgr. Ing.		43	OSVČ	Klopotovice	768	768	A	M
+7103	589616	1	3	47	1	Patrik	Pover			24	operátor	Klopotovice	47	47	A	M
+7103	589616	1	1	901	2	Marta	Nesvadbíková			44	dělnice	Klopotovice	99	80	A	F
+7103	589616	1	2	768	2	Jarmila	Jurdová	Mgr.		41	vedoucí pracovník	Klopotovice	768	768	A	F
+7103	589616	1	3	47	2	Tomáš	Špaček			34	řidič z povolání	Klopotovice	47	47	A	M
+7103	589616	1	1	901	3	Roman	Beneš	Ing.		50	manažer	Klopotovice	99	80	A	M
+7103	589616	1	2	768	3	Monika	Pořízková			39	výrobní dělnice	Klopotovice	99	768	A	F
+7103	589616	1	3	47	3	Martin	Nemeček			40	řidič z povolání	Klopotovice	47	47	A	M
+7103	589616	1	1	901	4	Ivana	Pospišová			55	konstruktérka	Klopotovice	99	80	A	F
+7103	589616	1	2	768	4	Lenka	Lišková			35	učitelka MŠ	Klopotovice	99	768	A	F
+7103	589616	1	3	47	4	Marcela	Mračková			50	učitelka MŠ	Klopotovice	99	47	A	F
+7103	589616	1	1	901	5	Vladimír	Horák			47	automechanik	Klopotovice	99	80	A	M
+7103	589616	1	2	768	5	Tomáš	Procházka			32	skladník	Klopotovice	99	768	A	M
+7103	589616	1	3	47	5	Tomáš	Pohlodka			21	údržbář vozidel	Klopotovice	99	47	A	M
+7103	589616	1	1	901	6	Jozef	Bukovec			59	traktorista	Klopotovice	99	80	A	M
+7103	589616	1	2	768	6	Vladimíra	Lehká Bukovcová	Mgr.		32	mateřská dovolená	Klopotovice	99	768	A	F
+7103	589616	1	3	47	6	Irena	Janíková		DiS.	29	technik kvality	Klopotovice	99	47	A	F
+7103	589616	1	1	901	7	Marek	Lehký			36	zahradník	Klopotovice	99	80	A	M
+7103	589616	1	2	768	7	Tomáš	Mouka			39	stavební dělník	Klopotovice	99	768	A	M
+7103	589616	1	3	47	7	Simona	Pohlodková			48	OP Prostějov	Klopotovice	99	47	A	F
+7103	589616	1	1	901	8	Luděk	Mraček			53	skladník	Klopotovice	99	80	A	M
+7103	589616	1	1	901	9	Milan	Kočíř			55	řidič	Klopotovice	1	80	A	M

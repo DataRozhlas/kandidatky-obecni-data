@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	547018	1	1	1	1	Josef	Gargela	M			51	geodet-technik	Střeň	1	1	0
-7102	547018	1	1	1	2	Marie	Tichá	F			55	OSVČ	Střeň	99	1	0
-7102	547018	1	1	1	3	Marie	Plavnická	F			48	finanční poradce	Střeň	99	1	0
-7102	547018	1	1	1	4	Pavel	Gargela	M			47	stolař	Střeň	1	1	0
-7102	547018	1	1	1	5	Marek	Lenikus	M			32	zámečník	Střeň	99	1	0
-7102	547018	1	1	1	6	Gabriela	Němcová	F			40	prodavačka	Střeň	99	1	0
-7102	547018	1	1	1	7	Pavel	Rotter	M			30	elektrotechnik	Střeň	99	1	0
-7102	547018	1	1	1	8	Eva	Sanislová	F			54	knihařka (inv. důchodce)	Střeň	99	1	0
-7102	547018	1	1	1	9	Ludmila	Blažková	F			61	cukrářka	Střeň	99	1	0
-7102	547018	1	2	7	1	Renata	Churavá	F			40	prodavačka	Střeň	99	7	0
-7102	547018	1	2	7	2	Jiří	Nevima	M	Mgr.	Ph.D.	31	středoškolský učitel	Střeň	99	7	0
-7102	547018	1	2	7	3	Miroslav	Ševčík	M			47	mistr montáží	Střeň	99	7	0
-7102	547018	1	2	7	4	Věroslav	Mach	M	Bc.		46	ředitel řízení jakosti	Střeň	99	7	0
-7102	547018	1	2	7	5	Martina	Navrátilová	F	Mgr.		28	učitelka základní školy	Střeň	99	7	0
-7102	547018	1	2	7	6	Roman	Uvízl	M			38	lodník-svářeč	Střeň	99	7	0
-7102	547018	1	2	7	7	Radek	Fiala	M			43	dělník	Střeň	99	7	0
-7102	547018	1	2	7	8	Dagmar	Holániková	F			37	zdravotní sestra	Střeň	99	7	0
-7102	547018	1	2	7	9	Vratislav	Vyvozil	M			36	dělník	Střeň	99	7	0
-7102	547018	1	3	103	1	Vladimír	Kamínek	M			53	slaboproudý technik	Střeň	99	103	0
-7102	547018	1	3	103	2	Milan	Kučera	M			46	slaboproudý technik	Střeň	99	103	0
-7102	547018	1	3	103	3	Julius	Sanislo	M	Mgr.		54	konstruktér	Střeň	99	103	0
-7102	547018	1	3	103	4	Karel	Weiser	M			47	obráběč kovů	Střeň	99	103	0
-7102	547018	1	3	103	5	Petr	Hůlka	M			41	automechanik	Střeň	99	103	0
-7102	547018	1	3	103	6	Elena	Kuxová	F			36	poštovní úřednice	Střeň	99	103	0
-7102	547018	1	3	103	7	Roman	Pfof	M			41	mechanik opravář kolej.vozidel	Střeň	99	103	0
-7102	547018	1	3	103	8	Jaroslav	Šlégl	M			39	servisní technik	Střeň	99	103	0
-7102	547018	1	3	103	9	Luděk	Veselý	M			38	ošetřovatel exot. zvířat	Střeň	99	103	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	547018	1	1	1	1	Josef	Gargela			51	geodet-technik	Střeň	1	1	0	M
+7102	547018	1	2	7	1	Renata	Churavá			40	prodavačka	Střeň	99	7	0	F
+7102	547018	1	3	103	1	Vladimír	Kamínek			53	slaboproudý technik	Střeň	99	103	0	M
+7102	547018	1	1	1	2	Marie	Tichá			55	OSVČ	Střeň	99	1	0	F
+7102	547018	1	2	7	2	Jiří	Nevima	Mgr.	Ph.D.	31	středoškolský učitel	Střeň	99	7	0	M
+7102	547018	1	3	103	2	Milan	Kučera			46	slaboproudý technik	Střeň	99	103	0	M
+7102	547018	1	1	1	3	Marie	Plavnická			48	finanční poradce	Střeň	99	1	0	F
+7102	547018	1	2	7	3	Miroslav	Ševčík			47	mistr montáží	Střeň	99	7	0	M
+7102	547018	1	3	103	3	Julius	Sanislo	Mgr.		54	konstruktér	Střeň	99	103	0	M
+7102	547018	1	1	1	4	Pavel	Gargela			47	stolař	Střeň	1	1	0	M
+7102	547018	1	2	7	4	Věroslav	Mach	Bc.		46	ředitel řízení jakosti	Střeň	99	7	0	M
+7102	547018	1	3	103	4	Karel	Weiser			47	obráběč kovů	Střeň	99	103	0	M
+7102	547018	1	1	1	5	Marek	Lenikus			32	zámečník	Střeň	99	1	0	M
+7102	547018	1	2	7	5	Martina	Navrátilová	Mgr.		28	učitelka základní školy	Střeň	99	7	0	F
+7102	547018	1	3	103	5	Petr	Hůlka			41	automechanik	Střeň	99	103	0	M
+7102	547018	1	1	1	6	Gabriela	Němcová			40	prodavačka	Střeň	99	1	0	F
+7102	547018	1	2	7	6	Roman	Uvízl			38	lodník-svářeč	Střeň	99	7	0	M
+7102	547018	1	3	103	6	Elena	Kuxová			36	poštovní úřednice	Střeň	99	103	0	F
+7102	547018	1	1	1	7	Pavel	Rotter			30	elektrotechnik	Střeň	99	1	0	M
+7102	547018	1	2	7	7	Radek	Fiala			43	dělník	Střeň	99	7	0	M
+7102	547018	1	3	103	7	Roman	Pfof			41	mechanik opravář kolej.vozidel	Střeň	99	103	0	M
+7102	547018	1	1	1	8	Eva	Sanislová			54	knihařka (inv. důchodce)	Střeň	99	1	0	F
+7102	547018	1	2	7	8	Dagmar	Holániková			37	zdravotní sestra	Střeň	99	7	0	F
+7102	547018	1	3	103	8	Jaroslav	Šlégl			39	servisní technik	Střeň	99	103	0	M
+7102	547018	1	1	1	9	Ludmila	Blažková			61	cukrářka	Střeň	99	1	0	F
+7102	547018	1	2	7	9	Vratislav	Vyvozil			36	dělník	Střeň	99	7	0	M
+7102	547018	1	3	103	9	Luděk	Veselý			38	ošetřovatel exot. zvířat	Střeň	99	103	0	M

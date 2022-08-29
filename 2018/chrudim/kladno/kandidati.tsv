@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	571580	1	1	1	1	Lukáš	Pavliš	M			36	kuchař	Kladno	1	1	A
-5301	571580	1	1	1	2	Jiří	Krátký	M			72	důchodce	Kladno	99	1	A
-5301	571580	1	1	1	3	Alena	Vařejčková	F			62	důchodkyně	Kladno	99	1	A
-5301	571580	1	1	1	4	Helena	Pavlišová	F	Mgr.		40	učitelka ZŠ	Kladno	99	1	A
-5301	571580	1	2	901	1	Eliška	Kernerová	F	JUDr.		67	důchodce	Kladno	99	80	A
-5301	571580	1	2	901	2	Jaroslav	Drahoš	M			61	technik	Kladno	99	80	A
-5301	571580	1	2	901	3	Simona	Vašulínová	F			45	manipulant	Kladno	99	80	A
-5301	571580	1	2	901	4	Eva	Pejchová	F	Mgr.		69	důchodce	Kladno	99	80	A
-5301	571580	1	2	901	5	Zdeněk	Hlavatý	M			69	důchodce	Kladno	99	80	A
-5301	571580	1	2	901	6	Lukáš	Pavlík	M			39	podnikatel	Kladno	99	80	A
-5301	571580	1	2	901	7	Alena	Talacková	F			53	mechanik	Kladno	99	80	A
-5301	571580	1	2	901	8	Dana	Laštůvková	F	Mgr.		36	učitelka	Kladno	99	80	A
-5301	571580	1	2	901	9	Michaela	Líbalová	F		DiS.	31	technik	Kladno	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	571580	1	1	1	1	Lukáš	Pavliš			36	kuchař	Kladno	1	1	A	M
+5301	571580	1	2	901	1	Eliška	Kernerová	JUDr.		67	důchodce	Kladno	99	80	A	F
+5301	571580	1	1	1	2	Jiří	Krátký			72	důchodce	Kladno	99	1	A	M
+5301	571580	1	2	901	2	Jaroslav	Drahoš			61	technik	Kladno	99	80	A	M
+5301	571580	1	1	1	3	Alena	Vařejčková			62	důchodkyně	Kladno	99	1	A	F
+5301	571580	1	2	901	3	Simona	Vašulínová			45	manipulant	Kladno	99	80	A	F
+5301	571580	1	1	1	4	Helena	Pavlišová	Mgr.		40	učitelka ZŠ	Kladno	99	1	A	F
+5301	571580	1	2	901	4	Eva	Pejchová	Mgr.		69	důchodce	Kladno	99	80	A	F
+5301	571580	1	2	901	5	Zdeněk	Hlavatý			69	důchodce	Kladno	99	80	A	M
+5301	571580	1	2	901	6	Lukáš	Pavlík			39	podnikatel	Kladno	99	80	A	M
+5301	571580	1	2	901	7	Alena	Talacková			53	mechanik	Kladno	99	80	A	F
+5301	571580	1	2	901	8	Dana	Laštůvková	Mgr.		36	učitelka	Kladno	99	80	A	F
+5301	571580	1	2	901	9	Michaela	Líbalová		DiS.	31	technik	Kladno	99	80	A	F

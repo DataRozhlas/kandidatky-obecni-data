@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	544612	1	1	901	1	Jan	Jílek	M	Ing.		49	manažer	Holašovice	1229	80	A
-3101	544612	1	1	901	2	Marie	Vaňková	F			54	sekretářka	Jankov	99	80	A
-3101	544612	1	1	901	3	Miroslav	Návara	M	Ing.		57	podnikatel	Jankov	99	80	A
-3101	544612	1	1	901	4	Jaroslava	Moravcová	F			42	podnikatelka	Holašovice	99	80	A
-3101	544612	1	1	901	5	Petr	Svoboda	M	Mgr.	DiS. et DiS.	32	zdravotník - záchranář	Jankov	99	80	A
-3101	544612	1	1	901	6	Milan	Kukla	M			56	celní správa	Jankov	99	80	A
-3101	544612	1	1	901	7	Michal	Sláma	M			43	manažer	Jankov	99	80	A
-3101	544612	1	1	901	8	Jaroslav	Hovorka	M			57	servisní technik	Jankov	99	80	A
-3101	544612	1	1	901	9	Pavel	Moučka	M			59	ostraha objektu	Holašovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	544612	1	1	901	1	Jan	Jílek	Ing.		49	manažer	Holašovice	1229	80	A	M
+3101	544612	1	1	901	2	Marie	Vaňková			54	sekretářka	Jankov	99	80	A	F
+3101	544612	1	1	901	3	Miroslav	Návara	Ing.		57	podnikatel	Jankov	99	80	A	M
+3101	544612	1	1	901	4	Jaroslava	Moravcová			42	podnikatelka	Holašovice	99	80	A	F
+3101	544612	1	1	901	5	Petr	Svoboda	Mgr.	DiS. et DiS.	32	zdravotník - záchranář	Jankov	99	80	A	M
+3101	544612	1	1	901	6	Milan	Kukla			56	celní správa	Jankov	99	80	A	M
+3101	544612	1	1	901	7	Michal	Sláma			43	manažer	Jankov	99	80	A	M
+3101	544612	1	1	901	8	Jaroslav	Hovorka			57	servisní technik	Jankov	99	80	A	M
+3101	544612	1	1	901	9	Pavel	Moučka			59	ostraha objektu	Holašovice	99	80	A	M

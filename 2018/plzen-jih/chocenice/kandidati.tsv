@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3204	557803	1	1	901	1	Radek	Keller	M	JUDr.		48	advokát	Chocenice	99	80	A
-3204	557803	1	1	901	2	Vlastimil	Štětina	M			46	technik	Chocenice	99	80	A
-3204	557803	1	1	901	3	Václav	Tříska	M			42	policista	Chocenice	99	80	A
-3204	557803	1	1	901	4	Jaroslav	Hajšman	M			49	řidič	Chocenice	99	80	A
-3204	557803	1	1	901	5	Eva	Bendová	F			62	důchodce	Chocenice	99	80	A
-3204	557803	1	1	901	6	Jiří	Justýn	M			35	dělník	Chocenice	99	80	A
-3204	557803	1	1	901	7	Petr	Diviš	M			50	řidič	Zhůř	99	80	A
-3204	557803	1	2	902	1	Václav	Diviš	M	Ing.		52	podnikatel	Chocenice	99	80	A
-3204	557803	1	2	902	2	Jaroslav	Matoušek	M	Ing.		38	technik rostlinné výroby	Chocenická Lhota	99	80	A
-3204	557803	1	2	902	3	Miroslav	Štětina	M			49	instalatér	Chocenice	99	80	A
-3204	557803	1	2	902	4	Milan	Urban	M			42	prodejce	Chocenice	99	80	A
-3204	557803	1	2	902	5	Tamara	Kubicová	F			61	důchodce	Chocenice	99	80	A
-3204	557803	1	2	902	6	Marcel	Janoch	M			53	frézař	Kotousov	99	80	A
-3204	557803	1	2	902	7	Jaroslav	Tříska	M			71	důchodce	Kotousov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3204	557803	1	1	901	1	Radek	Keller	JUDr.		48	advokát	Chocenice	99	80	A	M
+3204	557803	1	2	902	1	Václav	Diviš	Ing.		52	podnikatel	Chocenice	99	80	A	M
+3204	557803	1	1	901	2	Vlastimil	Štětina			46	technik	Chocenice	99	80	A	M
+3204	557803	1	2	902	2	Jaroslav	Matoušek	Ing.		38	technik rostlinné výroby	Chocenická Lhota	99	80	A	M
+3204	557803	1	1	901	3	Václav	Tříska			42	policista	Chocenice	99	80	A	M
+3204	557803	1	2	902	3	Miroslav	Štětina			49	instalatér	Chocenice	99	80	A	M
+3204	557803	1	1	901	4	Jaroslav	Hajšman			49	řidič	Chocenice	99	80	A	M
+3204	557803	1	2	902	4	Milan	Urban			42	prodejce	Chocenice	99	80	A	M
+3204	557803	1	1	901	5	Eva	Bendová			62	důchodce	Chocenice	99	80	A	F
+3204	557803	1	2	902	5	Tamara	Kubicová			61	důchodce	Chocenice	99	80	A	F
+3204	557803	1	1	901	6	Jiří	Justýn			35	dělník	Chocenice	99	80	A	M
+3204	557803	1	2	902	6	Marcel	Janoch			53	frézař	Kotousov	99	80	A	M
+3204	557803	1	1	901	7	Petr	Diviš			50	řidič	Zhůř	99	80	A	M
+3204	557803	1	2	902	7	Jaroslav	Tříska			71	důchodce	Kotousov	99	80	A	M

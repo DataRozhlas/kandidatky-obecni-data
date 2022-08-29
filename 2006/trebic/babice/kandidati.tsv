@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6104	590274	1	1	902	1	Petra	Černá	F			30	mateřská dovolená	Babice	99	80	0
-6104	590274	1	1	902	2	Josef	Klimeš	M			46	technik	Babice	99	80	0
-6104	590274	1	1	902	3	Martin	Černý	M			32	dělník	Babice	99	80	0
-6104	590274	1	1	902	4	Miloslav	Vecheta	M			63	důchodce	Babice	47	80	0
-6104	590274	1	1	902	5	Vladimír	Tomek	M			52	dělník	Babice	99	80	0
-6104	590274	1	1	902	6	František	Aipldauer	M			49	státní zaměstnanec	Babice	99	80	0
-6104	590274	1	1	902	7	Josef	Pánek	M			57	dělník	Babice	99	80	0
-6104	590274	1	2	901	1	Helena	Přibilová	F			35	prodavačka	Babice	99	80	0
-6104	590274	1	2	901	2	Ladislav	Nečas	M			27	dělník	Bolíkovice	99	80	0
-6104	590274	1	2	901	3	Jan	Pitour	M			50	vysekávač usní	Bolíkovice	99	80	0
-6104	590274	1	2	901	4	Václav	Přibil	M			37	dělník	Babice	99	80	0
-6104	590274	1	2	901	5	Jana	Pitourová	F			25	zdravotní sestra	Bolíkovice	99	80	0
-6104	590274	1	3	903	1	Zdeněk	Novák	M			39	řidič	Bolíkovice	99	80	0
-6104	590274	1	3	903	2	Věra	Machovcová	F	Ing.		66	důchodkyně	Bolíkovice	99	80	0
-6104	590274	1	3	903	3	Jaromír	Roupec	M			60	důchodce	Bolíkovice	99	80	0
-6104	590274	1	3	903	4	Pavel	Zikmund	M			43	prodavač	Bolíkovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6104	590274	1	1	902	1	Petra	Černá			30	mateřská dovolená	Babice	99	80	0	F
+6104	590274	1	2	901	1	Helena	Přibilová			35	prodavačka	Babice	99	80	0	F
+6104	590274	1	3	903	1	Zdeněk	Novák			39	řidič	Bolíkovice	99	80	0	M
+6104	590274	1	1	902	2	Josef	Klimeš			46	technik	Babice	99	80	0	M
+6104	590274	1	2	901	2	Ladislav	Nečas			27	dělník	Bolíkovice	99	80	0	M
+6104	590274	1	3	903	2	Věra	Machovcová	Ing.		66	důchodkyně	Bolíkovice	99	80	0	F
+6104	590274	1	1	902	3	Martin	Černý			32	dělník	Babice	99	80	0	M
+6104	590274	1	2	901	3	Jan	Pitour			50	vysekávač usní	Bolíkovice	99	80	0	M
+6104	590274	1	3	903	3	Jaromír	Roupec			60	důchodce	Bolíkovice	99	80	0	M
+6104	590274	1	1	902	4	Miloslav	Vecheta			63	důchodce	Babice	47	80	0	M
+6104	590274	1	2	901	4	Václav	Přibil			37	dělník	Babice	99	80	0	M
+6104	590274	1	3	903	4	Pavel	Zikmund			43	prodavač	Bolíkovice	99	80	0	M
+6104	590274	1	1	902	5	Vladimír	Tomek			52	dělník	Babice	99	80	0	M
+6104	590274	1	2	901	5	Jana	Pitourová			25	zdravotní sestra	Bolíkovice	99	80	0	F
+6104	590274	1	1	902	6	František	Aipldauer			49	státní zaměstnanec	Babice	99	80	0	M
+6104	590274	1	1	902	7	Josef	Pánek			57	dělník	Babice	99	80	0	M

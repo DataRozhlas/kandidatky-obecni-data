@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7204	585611	1	1	166	1	Lubomír	Minařík	M			57	Starosta	Podkopná Lhota	99	166	0
-7204	585611	1	1	166	2	Lubomír	Garlík	M			59	Soukromý podnikatel	Podkopná Lhota	99	166	0
-7204	585611	1	1	166	3	Radek	Minařík	M			38	Kuchař	Podkopná Lhota	99	166	0
-7204	585611	1	1	166	4	Josef	Jakuba	M			47	Úředník	Podkopná Lhota	99	166	0
-7204	585611	1	1	166	5	Ivan	Zinrák	M	Ing.		34	Obchodník	Podkopná Lhota	99	166	0
-7204	585611	1	1	166	6	Marcela	Hanulíková	F			39	Učitelka	Podkopná Lhota	99	166	0
-7204	585611	1	1	166	7	Mojmír	Mika	M			32	Soukromý podnikatel	Podkopná Lhota	99	166	0
-7204	585611	1	1	166	8	Jiřina	Ševců	F			51	Dělnice	Podkopná Lhota	99	166	0
-7204	585611	1	1	166	9	František	Mahďák	M			59	Řidič	Podkopná Lhota	99	166	0
-7204	585611	1	2	901	1	Josef	Gargulák	M			36	Malíř	Podkopná Lhota	99	80	0
-7204	585611	1	2	901	2	Josef	Minařík	M			50	Ředitel firmy	Podkopná Lhota	99	80	0
-7204	585611	1	2	901	3	Libor	Bořuta	M			44	Řidič	Podkopná Lhota	99	80	0
-7204	585611	1	2	901	4	Marek	Vyvlečka	M			39	Řidič	Podkopná Lhota	99	80	0
-7204	585611	1	2	901	5	Karel	Malčík	M			63	Zedník	Podkopná Lhota	99	80	0
-7204	585611	1	2	901	6	Martin	Knedla	M			36	Svářeč	Podkopná Lhota	99	80	0
-7204	585611	1	2	901	7	Miroslav	Balůsek	M			65	Důchodce	Podkopná Lhota	99	80	0
-7204	585611	1	2	901	8	Zdeněk	Bořuta	M			39	Technik	Podkopná Lhota	99	80	0
-7204	585611	1	2	901	9	Josef	Vacula	M			48	soukromý podnikatel	Podkopná Lhota	99	80	0
-7204	585611	1	3	47	1	Zdenek	Šlahař	M			60	Technik	Podkopná Lhota	47	47	0
-7204	585611	1	3	47	2	Libor	Baďura	M			45	Živnostník	Podkopná Lhota	99	47	0
-7204	585611	1	3	47	3	Irena	Knedlová	F			47	Účetní	Podkopná Lhota	99	47	0
-7204	585611	1	3	47	4	Marek	Marušák	M			38	Zedník	Podkopná Lhota	99	47	0
-7204	585611	1	3	47	5	Petr	Gába	M			35	Nástrojař	Podkopná Lhota	99	47	0
-7204	585611	1	3	47	6	Leoš	Gerych	M			35	Technolog	Podkopná Lhota	99	47	0
-7204	585611	1	3	47	7	Bohuslav	Vítek	M			51	Dělník	Podkopná Lhota	99	47	0
-7204	585611	1	3	47	8	Jindřich	Malčík	M			38	Malíř	Podkopná Lhota	99	47	0
-7204	585611	1	3	47	9	Stanislav	Čala	M			46	Dělník	Podkopná Lhota	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7204	585611	1	1	166	1	Lubomír	Minařík			57	Starosta	Podkopná Lhota	99	166	0	M
+7204	585611	1	2	901	1	Josef	Gargulák			36	Malíř	Podkopná Lhota	99	80	0	M
+7204	585611	1	3	47	1	Zdenek	Šlahař			60	Technik	Podkopná Lhota	47	47	0	M
+7204	585611	1	1	166	2	Lubomír	Garlík			59	Soukromý podnikatel	Podkopná Lhota	99	166	0	M
+7204	585611	1	2	901	2	Josef	Minařík			50	Ředitel firmy	Podkopná Lhota	99	80	0	M
+7204	585611	1	3	47	2	Libor	Baďura			45	Živnostník	Podkopná Lhota	99	47	0	M
+7204	585611	1	1	166	3	Radek	Minařík			38	Kuchař	Podkopná Lhota	99	166	0	M
+7204	585611	1	2	901	3	Libor	Bořuta			44	Řidič	Podkopná Lhota	99	80	0	M
+7204	585611	1	3	47	3	Irena	Knedlová			47	Účetní	Podkopná Lhota	99	47	0	F
+7204	585611	1	1	166	4	Josef	Jakuba			47	Úředník	Podkopná Lhota	99	166	0	M
+7204	585611	1	2	901	4	Marek	Vyvlečka			39	Řidič	Podkopná Lhota	99	80	0	M
+7204	585611	1	3	47	4	Marek	Marušák			38	Zedník	Podkopná Lhota	99	47	0	M
+7204	585611	1	1	166	5	Ivan	Zinrák	Ing.		34	Obchodník	Podkopná Lhota	99	166	0	M
+7204	585611	1	2	901	5	Karel	Malčík			63	Zedník	Podkopná Lhota	99	80	0	M
+7204	585611	1	3	47	5	Petr	Gába			35	Nástrojař	Podkopná Lhota	99	47	0	M
+7204	585611	1	1	166	6	Marcela	Hanulíková			39	Učitelka	Podkopná Lhota	99	166	0	F
+7204	585611	1	2	901	6	Martin	Knedla			36	Svářeč	Podkopná Lhota	99	80	0	M
+7204	585611	1	3	47	6	Leoš	Gerych			35	Technolog	Podkopná Lhota	99	47	0	M
+7204	585611	1	1	166	7	Mojmír	Mika			32	Soukromý podnikatel	Podkopná Lhota	99	166	0	M
+7204	585611	1	2	901	7	Miroslav	Balůsek			65	Důchodce	Podkopná Lhota	99	80	0	M
+7204	585611	1	3	47	7	Bohuslav	Vítek			51	Dělník	Podkopná Lhota	99	47	0	M
+7204	585611	1	1	166	8	Jiřina	Ševců			51	Dělnice	Podkopná Lhota	99	166	0	F
+7204	585611	1	2	901	8	Zdeněk	Bořuta			39	Technik	Podkopná Lhota	99	80	0	M
+7204	585611	1	3	47	8	Jindřich	Malčík			38	Malíř	Podkopná Lhota	99	47	0	M
+7204	585611	1	1	166	9	František	Mahďák			59	Řidič	Podkopná Lhota	99	166	0	M
+7204	585611	1	2	901	9	Josef	Vacula			48	soukromý podnikatel	Podkopná Lhota	99	80	0	M
+7204	585611	1	3	47	9	Stanislav	Čala			46	Dělník	Podkopná Lhota	99	47	0	M

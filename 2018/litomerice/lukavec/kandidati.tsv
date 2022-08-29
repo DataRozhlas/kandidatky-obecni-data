@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	565237	1	1	902	1	Tomáš	Šenfeldr	M	Ing.		55	OSVČ	Lukavec	99	80	A
-4203	565237	1	1	902	2	Tomáš	Průša	M			36	mistr výroby	Lukavec	99	80	A
-4203	565237	1	1	902	3	Pavla	Beránková	F			64	OSVČ	Lukavec	99	80	A
-4203	565237	1	1	902	4	Pavel	Kamenický	M			55	OSVČ	Lukavec	99	80	A
-4203	565237	1	1	902	5	Michal	Henzl	M			44	dělník výroby	Lukavec	99	80	A
-4203	565237	1	1	902	6	Lukáš	Fabo	M			38	dělník	Lukavec	99	80	A
-4203	565237	1	1	902	7	Ctirad	Udatný	M			49	dispečer-jeřábník	Lukavec	99	80	A
-4203	565237	1	2	901	1	Jaroslav	Ondráček	M			52	výrobní technik	Lukavec	99	80	A
-4203	565237	1	2	901	2	Ludmila	Kamenická	F			53	účetní	Lukavec	99	80	A
-4203	565237	1	2	901	3	Marcela	Zdvořáková	F			52	vedoucí podnikové prodejny	Lukavec	99	80	A
-4203	565237	1	2	901	4	Milan	Hajný	M			33	automechanik	Lukavec	99	80	A
-4203	565237	1	2	901	5	Lukáš	Szulcsán	M			34	seřizovač	Lukavec	99	80	A
-4203	565237	1	2	901	6	Tomáš	Šenfeldr	M	Ing.		29	ekonom	Lukavec	99	80	A
-4203	565237	1	2	901	7	Vladimír	Stahr	M	Ing.		53	stavební technik	Lukavec	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	565237	1	1	902	1	Tomáš	Šenfeldr	Ing.		55	OSVČ	Lukavec	99	80	A	M
+4203	565237	1	2	901	1	Jaroslav	Ondráček			52	výrobní technik	Lukavec	99	80	A	M
+4203	565237	1	1	902	2	Tomáš	Průša			36	mistr výroby	Lukavec	99	80	A	M
+4203	565237	1	2	901	2	Ludmila	Kamenická			53	účetní	Lukavec	99	80	A	F
+4203	565237	1	1	902	3	Pavla	Beránková			64	OSVČ	Lukavec	99	80	A	F
+4203	565237	1	2	901	3	Marcela	Zdvořáková			52	vedoucí podnikové prodejny	Lukavec	99	80	A	F
+4203	565237	1	1	902	4	Pavel	Kamenický			55	OSVČ	Lukavec	99	80	A	M
+4203	565237	1	2	901	4	Milan	Hajný			33	automechanik	Lukavec	99	80	A	M
+4203	565237	1	1	902	5	Michal	Henzl			44	dělník výroby	Lukavec	99	80	A	M
+4203	565237	1	2	901	5	Lukáš	Szulcsán			34	seřizovač	Lukavec	99	80	A	M
+4203	565237	1	1	902	6	Lukáš	Fabo			38	dělník	Lukavec	99	80	A	M
+4203	565237	1	2	901	6	Tomáš	Šenfeldr	Ing.		29	ekonom	Lukavec	99	80	A	M
+4203	565237	1	1	902	7	Ctirad	Udatný			49	dispečer-jeřábník	Lukavec	99	80	A	M
+4203	565237	1	2	901	7	Vladimír	Stahr	Ing.		53	stavební technik	Lukavec	99	80	A	M

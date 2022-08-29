@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4103	538591	1	1	47	1	Anna	Klímová	F			49	starostka obce	Dolní Rychnov	99	47	0
-4103	538591	1	1	47	2	Pavel	Vaněk	M	Ing.		59	technik	Dolní Rychnov	47	47	0
-4103	538591	1	1	47	3	Taťána	Bednářová	F	Ing.	EWE	49	svářecí inženýr	Dolní Rychnov	99	47	0
-4103	538591	1	1	47	4	Petr	Novák	M			39	strojník	Dolní Rychnov	99	47	0
-4103	538591	1	1	47	5	Drahomíra	Vrzalová	F			51	OSVČ	Dolní Rychnov	47	47	0
-4103	538591	1	1	47	6	Kurt	Novák	M			65	důchodce	Dolní Rychnov	47	47	0
-4103	538591	1	1	47	7	Petr	Kácl	M			44	zámečník	Dolní Rychnov	99	47	0
-4103	538591	1	1	47	8	Michal	Milko	M			39	vedoucí výroby	Dolní Rychnov	99	47	0
-4103	538591	1	1	47	9	Anna	Vaňatová	F			63	důchodce	Dolní Rychnov	99	47	0
-4103	538591	1	2	7	1	Zdeněk	Štuka	M			57	OSVČ	Dolní Rychnov	7	7	0
-4103	538591	1	2	7	2	Miluše	Bartoňková	F	Ing.	Ph.D.	40	ředitelka vysoké školy	Dolní Rychnov	99	7	0
-4103	538591	1	2	7	3	Miroslav	Šulc	M			42	pracovník živnostenského úřadu	Dolní Rychnov	99	7	0
-4103	538591	1	2	7	4	Tomáš	Kokoška	M			49	úředník	Dolní Rychnov	99	7	0
-4103	538591	1	2	7	5	Fathi	Hedar	M	MUDr.		45	lékař	Dolní Rychnov	99	7	0
-4103	538591	1	2	7	6	Hana	Kokošková	F			47	úřednice	Dolní Rychnov	99	7	0
-4103	538591	1	2	7	7	Petr	Koněvalík	M			34	hasič	Dolní Rychnov	99	7	0
-4103	538591	1	2	7	8	Michala	Šloncová	F			32	knihovnice	Dolní Rychnov	99	7	0
-4103	538591	1	2	7	9	František	Kříž	M			64	důchodce	Dolní Rychnov	99	7	0
-4103	538591	1	3	801	1	František	Křenek	M			34	voják	Dolní Rychnov	99	80	0
-4103	538591	1	4	802	1	Jiří	Veršecký	M			39	chemik	Dolní Rychnov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4103	538591	1	1	47	1	Anna	Klímová			49	starostka obce	Dolní Rychnov	99	47	0	F
+4103	538591	1	2	7	1	Zdeněk	Štuka			57	OSVČ	Dolní Rychnov	7	7	0	M
+4103	538591	1	3	801	1	František	Křenek			34	voják	Dolní Rychnov	99	80	0	M
+4103	538591	1	4	802	1	Jiří	Veršecký			39	chemik	Dolní Rychnov	99	80	0	M
+4103	538591	1	1	47	2	Pavel	Vaněk	Ing.		59	technik	Dolní Rychnov	47	47	0	M
+4103	538591	1	2	7	2	Miluše	Bartoňková	Ing.	Ph.D.	40	ředitelka vysoké školy	Dolní Rychnov	99	7	0	F
+4103	538591	1	1	47	3	Taťána	Bednářová	Ing.	EWE	49	svářecí inženýr	Dolní Rychnov	99	47	0	F
+4103	538591	1	2	7	3	Miroslav	Šulc			42	pracovník živnostenského úřadu	Dolní Rychnov	99	7	0	M
+4103	538591	1	1	47	4	Petr	Novák			39	strojník	Dolní Rychnov	99	47	0	M
+4103	538591	1	2	7	4	Tomáš	Kokoška			49	úředník	Dolní Rychnov	99	7	0	M
+4103	538591	1	1	47	5	Drahomíra	Vrzalová			51	OSVČ	Dolní Rychnov	47	47	0	F
+4103	538591	1	2	7	5	Fathi	Hedar	MUDr.		45	lékař	Dolní Rychnov	99	7	0	M
+4103	538591	1	1	47	6	Kurt	Novák			65	důchodce	Dolní Rychnov	47	47	0	M
+4103	538591	1	2	7	6	Hana	Kokošková			47	úřednice	Dolní Rychnov	99	7	0	F
+4103	538591	1	1	47	7	Petr	Kácl			44	zámečník	Dolní Rychnov	99	47	0	M
+4103	538591	1	2	7	7	Petr	Koněvalík			34	hasič	Dolní Rychnov	99	7	0	M
+4103	538591	1	1	47	8	Michal	Milko			39	vedoucí výroby	Dolní Rychnov	99	47	0	M
+4103	538591	1	2	7	8	Michala	Šloncová			32	knihovnice	Dolní Rychnov	99	7	0	F
+4103	538591	1	1	47	9	Anna	Vaňatová			63	důchodce	Dolní Rychnov	99	47	0	F
+4103	538591	1	2	7	9	František	Kříž			64	důchodce	Dolní Rychnov	99	7	0	M

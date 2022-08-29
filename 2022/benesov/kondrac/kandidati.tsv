@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	529931	1	1	901	1	Josef	Šanda	M			46	tesař	Kondrac	99	80	A
-2101	529931	1	1	901	2	Pavel	Procházka	M	Ing.		58	výrobní ředitel	Kondrac	99	80	A
-2101	529931	1	1	901	3	Kateřina	Šandová	F	Mgr.		27	manager lékárny	Kondrac	99	80	A
-2101	529931	1	1	901	4	Barbora	Pavlisová	F			36	asistent pedagoga	Vlašim	99	80	A
-2101	529931	1	1	901	5	Pavel	Vobořil	M			36	IT specialista	Kondrac	99	80	A
-2101	529931	1	1	901	6	Pavel	Bobek	M			46	obchodní ředitel	Haratice	99	80	A
-2101	529931	1	1	901	7	Daniela	Hrdličková	F			49	správce ubytovny	Kondrac	99	80	A
-2101	529931	1	1	901	8	Zdeněk	Kuklík	M			39	OSVČ	Dub	99	80	A
-2101	529931	1	1	901	9	Jan	Pohorský	M			31	řidič	Kondrac	99	80	A
-2101	529931	1	2	902	1	Jiří	Procházka	M	Ing.		60	jednatel společnosti	Kondrac	99	80	A
-2101	529931	1	2	902	2	Eva	Macešková	F	Ing.		44	specialista logistiky	Krasovice	99	80	A
-2101	529931	1	2	902	3	Jiří	Vobořil	M			41	vedoucí údržby	Kondrac	99	80	A
-2101	529931	1	2	902	4	Miroslav	Šanda	M			52	výpravčí	Kondrac	99	80	A
-2101	529931	1	2	902	5	Matěj	Černohorský	M	Ing.		38	geodet	Dub	99	80	A
-2101	529931	1	2	902	6	Jana	Havlíková	F	Ing.		37	vedoucí bankovních poradců	Kondrac	99	80	A
-2101	529931	1	2	902	7	Ondřej	Kuklík	M	Ing.		31	OSVČ	Kondrac	99	80	A
-2101	529931	1	2	902	8	Jiří	Buchta	M			54	vedoucí výroby	Kondrac	99	80	A
-2101	529931	1	2	902	9	Jiří	Kocura	M			45	klempíř	Dub	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	529931	1	1	901	1	Josef	Šanda			46	tesař	Kondrac	99	80	A	M
+2101	529931	1	2	902	1	Jiří	Procházka	Ing.		60	jednatel společnosti	Kondrac	99	80	A	M
+2101	529931	1	1	901	2	Pavel	Procházka	Ing.		58	výrobní ředitel	Kondrac	99	80	A	M
+2101	529931	1	2	902	2	Eva	Macešková	Ing.		44	specialista logistiky	Krasovice	99	80	A	F
+2101	529931	1	1	901	3	Kateřina	Šandová	Mgr.		27	manager lékárny	Kondrac	99	80	A	F
+2101	529931	1	2	902	3	Jiří	Vobořil			41	vedoucí údržby	Kondrac	99	80	A	M
+2101	529931	1	1	901	4	Barbora	Pavlisová			36	asistent pedagoga	Vlašim	99	80	A	F
+2101	529931	1	2	902	4	Miroslav	Šanda			52	výpravčí	Kondrac	99	80	A	M
+2101	529931	1	1	901	5	Pavel	Vobořil			36	IT specialista	Kondrac	99	80	A	M
+2101	529931	1	2	902	5	Matěj	Černohorský	Ing.		38	geodet	Dub	99	80	A	M
+2101	529931	1	1	901	6	Pavel	Bobek			46	obchodní ředitel	Haratice	99	80	A	M
+2101	529931	1	2	902	6	Jana	Havlíková	Ing.		37	vedoucí bankovních poradců	Kondrac	99	80	A	F
+2101	529931	1	1	901	7	Daniela	Hrdličková			49	správce ubytovny	Kondrac	99	80	A	F
+2101	529931	1	2	902	7	Ondřej	Kuklík	Ing.		31	OSVČ	Kondrac	99	80	A	M
+2101	529931	1	1	901	8	Zdeněk	Kuklík			39	OSVČ	Dub	99	80	A	M
+2101	529931	1	2	902	8	Jiří	Buchta			54	vedoucí výroby	Kondrac	99	80	A	M
+2101	529931	1	1	901	9	Jan	Pohorský			31	řidič	Kondrac	99	80	A	M
+2101	529931	1	2	902	9	Jiří	Kocura			45	klempíř	Dub	99	80	A	M

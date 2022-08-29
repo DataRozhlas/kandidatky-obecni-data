@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579432	1	1	901	1	Jiří	Vancl	M	Ing.		66	technik	Horní Lánov	99	80	0
-5205	579432	1	1	901	2	Josef	Kalenský	M	Ing.		52	podnikatel	Prostřední Lánov	99	80	0
-5205	579432	1	1	901	3	Bedřich	Kovář	M			67	v důchodu	Prostřední Lánov	99	80	0
-5205	579432	1	1	901	4	Milan	Kuřík	M			51	bankovní úředník	Prostřední Lánov	99	80	0
-5205	579432	1	1	901	5	Milena	Knapíková Kavánová	F			54	účetní	Prostřední Lánov	99	80	0
-5205	579432	1	1	901	6	Rudolf	Schliegsbir	M			58	podnikatel	Prostřední Lánov	99	80	0
-5205	579432	1	1	901	7	Dana	Jakubcová	F			53	učitelka	Prostřední Lánov	99	80	0
-5205	579432	1	1	901	8	Lenka	Vocásková	F			46	zaměstnanec základní školy	Horní Lánov	99	80	0
-5205	579432	1	1	901	9	Miroslav	Šafařík	M			48	nástrojař	Horní Lánov	99	80	0
-5205	579432	1	1	901	10	Michal	Janků	M	Ing.		28	referent zaměstnanosti	Prostřední Lánov	99	80	0
-5205	579432	1	1	901	11	Milan	Půlpán	M	Mgr.		39	učitel	Prostřední Lánov	99	80	0
-5205	579432	1	1	901	12	Jaromír	Chvála	M			70	revizní technik	Horní Lánov	99	80	0
-5205	579432	1	1	901	13	Vladimír	Máslo	M	Ing.		55	operátor výr. linky	Prostřední Lánov	99	80	0
-5205	579432	1	1	901	14	Josef	Brádler	M			35	řidič	Horní Lánov	99	80	0
-5205	579432	1	1	901	15	Radek	Hejral	M	Ing.		36	konstruktér	Prostřední Lánov	99	80	0
-5205	579432	1	2	902	1	Jaroslav	Šedivý	M			58	řidič	Horní Lánov	99	80	0
-5205	579432	1	2	902	2	Karel	Capoušek	M			43	elektrotechnik	Horní Lánov	99	80	0
-5205	579432	1	2	902	3	Miroslav	Foubík	M			42	OSVČ	Horní Lánov	99	80	0
-5205	579432	1	2	902	4	Ladislava	Šedivá	F			55	ekonom	Horní Lánov	99	80	0
-5205	579432	1	2	902	5	Martin	Tauš	M			45	vedoucí provozu	Horní Lánov	99	80	0
-5205	579432	1	2	902	6	Jiří	Kapeš	M			66	důchodce	Horní Lánov	99	80	0
-5205	579432	1	2	902	7	Jiří	Šaroun	M			53	OSVČ	Lánov	99	80	0
-5205	579432	1	2	902	8	Petr	Jandík	M			36	elektrikář	Horní Lánov	99	80	0
-5205	579432	1	2	902	9	Milan	Hörnich	M			44	prodavač	Lánov	99	80	0
-5205	579432	1	2	902	10	Jiří	Šedivý	M			32	OSVČ	Horní Lánov	99	80	0
-5205	579432	1	2	902	11	Jiří	Hartig	M			45	OSVČ	Horní Lánov	99	80	0
-5205	579432	1	2	902	12	Jaroslav	Lukášek	M			38	dělník	Horní Lánov	99	80	0
-5205	579432	1	2	902	13	Josef	Brádler	M			59	OSVČ	Horní Lánov	99	80	0
-5205	579432	1	2	902	14	Vojtěch	Suchý	M			27	dělník	Horní Lánov	99	80	0
-5205	579432	1	2	902	15	Veronika	Suchá	F			24	zdravotnice	Horní Lánov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579432	1	1	901	1	Jiří	Vancl	Ing.		66	technik	Horní Lánov	99	80	0	M
+5205	579432	1	2	902	1	Jaroslav	Šedivý			58	řidič	Horní Lánov	99	80	0	M
+5205	579432	1	1	901	2	Josef	Kalenský	Ing.		52	podnikatel	Prostřední Lánov	99	80	0	M
+5205	579432	1	2	902	2	Karel	Capoušek			43	elektrotechnik	Horní Lánov	99	80	0	M
+5205	579432	1	1	901	3	Bedřich	Kovář			67	v důchodu	Prostřední Lánov	99	80	0	M
+5205	579432	1	2	902	3	Miroslav	Foubík			42	OSVČ	Horní Lánov	99	80	0	M
+5205	579432	1	1	901	4	Milan	Kuřík			51	bankovní úředník	Prostřední Lánov	99	80	0	M
+5205	579432	1	2	902	4	Ladislava	Šedivá			55	ekonom	Horní Lánov	99	80	0	F
+5205	579432	1	1	901	5	Milena	Knapíková Kavánová			54	účetní	Prostřední Lánov	99	80	0	F
+5205	579432	1	2	902	5	Martin	Tauš			45	vedoucí provozu	Horní Lánov	99	80	0	M
+5205	579432	1	1	901	6	Rudolf	Schliegsbir			58	podnikatel	Prostřední Lánov	99	80	0	M
+5205	579432	1	2	902	6	Jiří	Kapeš			66	důchodce	Horní Lánov	99	80	0	M
+5205	579432	1	1	901	7	Dana	Jakubcová			53	učitelka	Prostřední Lánov	99	80	0	F
+5205	579432	1	2	902	7	Jiří	Šaroun			53	OSVČ	Lánov	99	80	0	M
+5205	579432	1	1	901	8	Lenka	Vocásková			46	zaměstnanec základní školy	Horní Lánov	99	80	0	F
+5205	579432	1	2	902	8	Petr	Jandík			36	elektrikář	Horní Lánov	99	80	0	M
+5205	579432	1	1	901	9	Miroslav	Šafařík			48	nástrojař	Horní Lánov	99	80	0	M
+5205	579432	1	2	902	9	Milan	Hörnich			44	prodavač	Lánov	99	80	0	M
+5205	579432	1	1	901	10	Michal	Janků	Ing.		28	referent zaměstnanosti	Prostřední Lánov	99	80	0	M
+5205	579432	1	2	902	10	Jiří	Šedivý			32	OSVČ	Horní Lánov	99	80	0	M
+5205	579432	1	1	901	11	Milan	Půlpán	Mgr.		39	učitel	Prostřední Lánov	99	80	0	M
+5205	579432	1	2	902	11	Jiří	Hartig			45	OSVČ	Horní Lánov	99	80	0	M
+5205	579432	1	1	901	12	Jaromír	Chvála			70	revizní technik	Horní Lánov	99	80	0	M
+5205	579432	1	2	902	12	Jaroslav	Lukášek			38	dělník	Horní Lánov	99	80	0	M
+5205	579432	1	1	901	13	Vladimír	Máslo	Ing.		55	operátor výr. linky	Prostřední Lánov	99	80	0	M
+5205	579432	1	2	902	13	Josef	Brádler			59	OSVČ	Horní Lánov	99	80	0	M
+5205	579432	1	1	901	14	Josef	Brádler			35	řidič	Horní Lánov	99	80	0	M
+5205	579432	1	2	902	14	Vojtěch	Suchý			27	dělník	Horní Lánov	99	80	0	M
+5205	579432	1	1	901	15	Radek	Hejral	Ing.		36	konstruktér	Prostřední Lánov	99	80	0	M
+5205	579432	1	2	902	15	Veronika	Suchá			24	zdravotnice	Horní Lánov	99	80	0	F

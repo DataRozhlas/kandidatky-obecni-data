@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3105	550205	1	1	1	1	Jiří	Fastner	M			52	starosta	Horní Vltavice	99	1	0
-3105	550205	1	1	1	2	Aleš	Karas	M	Ing.		41	podnikatel	Horní Vltavice	99	1	0
-3105	550205	1	1	1	3	Jaromír	Kříž	M			32	podnikatel	Horní Vltavice	99	1	0
-3105	550205	1	1	1	4	Vlasta	Sombatiová	F			41	obsluha čerpací stanice	Horní Vltavice	99	1	0
-3105	550205	1	1	1	5	Jaroslav	Pulkrábek	M			42	ředitel MěKS	Horní Vltavice	99	1	0
-3105	550205	1	1	1	6	Milena	Jančušová	F			40	důchodce	Horní Vltavice	99	1	0
-3105	550205	1	1	1	7	Helena	Bízková	F			25	učitelka	Račí	99	1	0
-3105	550205	1	1	1	8	František	Pokorný	M			39	řidič	Horní Vltavice	99	1	0
-3105	550205	1	1	1	9	Marie	Dojčarová	F			40	obsluha čerpací stanice	Horní Vltavice	99	1	0
-3105	550205	1	2	181	1	Pavel	Mášl	M			42	podnikatel	Horní Vltavice	99	181	0
-3105	550205	1	2	181	2	Bohuslav	Čermák	M			48	podnikatel	Horní Vltavice	99	181	0
-3105	550205	1	2	181	3	Miloslava	Kucková	F			49	podnikatelka	Horní Vltavice	99	181	0
-3105	550205	1	2	181	4	Michaela	Voldřichová	F			32	prodavačka	Horní Vltavice	99	181	0
-3105	550205	1	2	181	5	Irena	Šindelářová	F			33	prodavačka	Horní Vltavice	99	181	0
-3105	550205	1	2	181	6	Jan	Krnák	M			25	dělník	Horní Vltavice	99	181	0
-3105	550205	1	2	181	7	Zdeněk	Hödl	M			50	dělník	Horní Vltavice	99	181	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3105	550205	1	1	1	1	Jiří	Fastner			52	starosta	Horní Vltavice	99	1	0	M
+3105	550205	1	2	181	1	Pavel	Mášl			42	podnikatel	Horní Vltavice	99	181	0	M
+3105	550205	1	1	1	2	Aleš	Karas	Ing.		41	podnikatel	Horní Vltavice	99	1	0	M
+3105	550205	1	2	181	2	Bohuslav	Čermák			48	podnikatel	Horní Vltavice	99	181	0	M
+3105	550205	1	1	1	3	Jaromír	Kříž			32	podnikatel	Horní Vltavice	99	1	0	M
+3105	550205	1	2	181	3	Miloslava	Kucková			49	podnikatelka	Horní Vltavice	99	181	0	F
+3105	550205	1	1	1	4	Vlasta	Sombatiová			41	obsluha čerpací stanice	Horní Vltavice	99	1	0	F
+3105	550205	1	2	181	4	Michaela	Voldřichová			32	prodavačka	Horní Vltavice	99	181	0	F
+3105	550205	1	1	1	5	Jaroslav	Pulkrábek			42	ředitel MěKS	Horní Vltavice	99	1	0	M
+3105	550205	1	2	181	5	Irena	Šindelářová			33	prodavačka	Horní Vltavice	99	181	0	F
+3105	550205	1	1	1	6	Milena	Jančušová			40	důchodce	Horní Vltavice	99	1	0	F
+3105	550205	1	2	181	6	Jan	Krnák			25	dělník	Horní Vltavice	99	181	0	M
+3105	550205	1	1	1	7	Helena	Bízková			25	učitelka	Račí	99	1	0	F
+3105	550205	1	2	181	7	Zdeněk	Hödl			50	dělník	Horní Vltavice	99	181	0	M
+3105	550205	1	1	1	8	František	Pokorný			39	řidič	Horní Vltavice	99	1	0	M
+3105	550205	1	1	1	9	Marie	Dojčarová			40	obsluha čerpací stanice	Horní Vltavice	99	1	0	F

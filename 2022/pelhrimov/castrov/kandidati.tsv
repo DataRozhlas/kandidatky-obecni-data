@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6103	547719	1	1	902	1	Radek	Švácha	M			51	elektromechanik	Častrov	99	80	A
-6103	547719	1	1	902	2	Miroslav	Červenka	M	Ing.		41	OSVČ	Častrov	99	80	A
-6103	547719	1	1	902	3	Ondřej	Pána	M	MVDr.		35	veterinární lékař	Častrov	99	80	A
-6103	547719	1	1	902	4	Radek	Mareš	M			46	jednatel společnosti	Častrov	99	80	A
-6103	547719	1	1	902	5	Miroslav	Fojt	M	Ing.		29	obchodní zástupce	Pelec	99	80	A
-6103	547719	1	1	902	6	Pavla	Vránková	F	Mgr.		37	státní zaměstnanec	Ctiboř	99	80	A
-6103	547719	1	1	902	7	Petr	Brýna	M			30	mechanizátor	Metánov	99	80	A
-6103	547719	1	1	902	8	Jiří	Mikolášek	M			34	řidič	Jakubín	99	80	A
-6103	547719	1	1	902	9	Milada	Červenková	F			66	důchodce	Metánov	99	80	A
-6103	547719	1	1	902	10	Vlastimil	Zikmund	M			41	OSVČ	Častrov	99	80	A
-6103	547719	1	1	902	11	Jiří	Švanda	M	Ing.		39	správce městských lesů	Častrov	99	80	A
-6103	547719	1	2	901	1	Radek	Novotný	M	Ing.	Ph.D.	46	vědecký pracovník	Častrov	99	80	A
-6103	547719	1	2	901	2	Jana	Stachová	F	PhDr.	Ph.D.	46	socioložka	Ctiboř	99	80	A
-6103	547719	1	2	901	3	Vladimír	Šimeček	M	Ing.		48	jednatel společnosti Stará hasičárna s.r.o.	Častrov	99	80	A
-6103	547719	1	2	901	4	Marek	Jirsa	M	Bc.		22	hasič	Častrov	99	80	A
-6103	547719	1	2	901	5	Tomáš	Pechek	M			31	dělník v kovovýrobě	Pelec	99	80	A
-6103	547719	1	2	901	6	František	Novák	M			37	energetik	Ctiboř	99	80	A
-6103	547719	1	2	901	7	Zuzana	Matoušková	F	Ing.		41	projektantka	Častrov	99	80	A
-6103	547719	1	2	901	8	Jitka	Marešová	F	Mgr.		44	učitelka	Jakubín	99	80	A
-6103	547719	1	2	901	9	Jan	Šipkovský	M			37	zedník	Perky	99	80	A
-6103	547719	1	2	901	10	Ladislav	Kněžínek	M			37	kontrolor kvality	Častrov	99	80	A
-6103	547719	1	2	901	11	Stanislav	Dědič	M			63	podnikatel	Častrov	99	80	A
-6103	547719	1	3	801	1	Jiří	Havlíček	M		DiS.	44	vedoucí DZS, místostarosta	Častrov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6103	547719	1	1	902	1	Radek	Švácha			51	elektromechanik	Častrov	99	80	A	M
+6103	547719	1	2	901	1	Radek	Novotný	Ing.	Ph.D.	46	vědecký pracovník	Častrov	99	80	A	M
+6103	547719	1	3	801	1	Jiří	Havlíček		DiS.	44	vedoucí DZS, místostarosta	Častrov	99	80	A	M
+6103	547719	1	1	902	2	Miroslav	Červenka	Ing.		41	OSVČ	Častrov	99	80	A	M
+6103	547719	1	2	901	2	Jana	Stachová	PhDr.	Ph.D.	46	socioložka	Ctiboř	99	80	A	F
+6103	547719	1	1	902	3	Ondřej	Pána	MVDr.		35	veterinární lékař	Častrov	99	80	A	M
+6103	547719	1	2	901	3	Vladimír	Šimeček	Ing.		48	jednatel společnosti Stará hasičárna s.r.o.	Častrov	99	80	A	M
+6103	547719	1	1	902	4	Radek	Mareš			46	jednatel společnosti	Častrov	99	80	A	M
+6103	547719	1	2	901	4	Marek	Jirsa	Bc.		22	hasič	Častrov	99	80	A	M
+6103	547719	1	1	902	5	Miroslav	Fojt	Ing.		29	obchodní zástupce	Pelec	99	80	A	M
+6103	547719	1	2	901	5	Tomáš	Pechek			31	dělník v kovovýrobě	Pelec	99	80	A	M
+6103	547719	1	1	902	6	Pavla	Vránková	Mgr.		37	státní zaměstnanec	Ctiboř	99	80	A	F
+6103	547719	1	2	901	6	František	Novák			37	energetik	Ctiboř	99	80	A	M
+6103	547719	1	1	902	7	Petr	Brýna			30	mechanizátor	Metánov	99	80	A	M
+6103	547719	1	2	901	7	Zuzana	Matoušková	Ing.		41	projektantka	Častrov	99	80	A	F
+6103	547719	1	1	902	8	Jiří	Mikolášek			34	řidič	Jakubín	99	80	A	M
+6103	547719	1	2	901	8	Jitka	Marešová	Mgr.		44	učitelka	Jakubín	99	80	A	F
+6103	547719	1	1	902	9	Milada	Červenková			66	důchodce	Metánov	99	80	A	F
+6103	547719	1	2	901	9	Jan	Šipkovský			37	zedník	Perky	99	80	A	M
+6103	547719	1	1	902	10	Vlastimil	Zikmund			41	OSVČ	Častrov	99	80	A	M
+6103	547719	1	2	901	10	Ladislav	Kněžínek			37	kontrolor kvality	Častrov	99	80	A	M
+6103	547719	1	1	902	11	Jiří	Švanda	Ing.		39	správce městských lesů	Častrov	99	80	A	M
+6103	547719	1	2	901	11	Stanislav	Dědič			63	podnikatel	Častrov	99	80	A	M

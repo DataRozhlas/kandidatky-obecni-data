@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	572390	1	1	901	1	Iva	Dostálová	F	Ing.		39	ekonom, účetní	Trhová Kamenice	99	80	0
-5301	572390	1	1	901	2	Lukáš	Menc	M	Ing.		35	manažer divize Industrie VČ	Trhová Kamenice	99	80	0
-5301	572390	1	1	901	3	Hana	Měkotová	F			45	vedoucí prodejny COOP-TUTTY	Trhová Kamenice	99	80	0
-5301	572390	1	1	901	4	Radek	Osmík	M			44	strojvedoucí ČD	Trhová Kamenice	99	80	0
-5301	572390	1	1	901	5	Petr	Makovský	M			44	zaměstnanec Městyse Trh. Kam.	Trhová Kamenice	99	80	0
-5301	572390	1	1	901	6	Luboš	Rejholec	M			41	řidič autobusu	Trhová Kamenice	99	80	0
-5301	572390	1	1	901	7	Ladislav	Kavalír	M			49	manažer zakázek Progress	Trhová Kamenice	99	80	0
-5301	572390	1	2	47	1	Oldřich	Pilný	M			65	důchodce	Trhová Kamenice	47	47	0
-5301	572390	1	2	47	2	Jaroslav	Šibal	M	Mgr.		69	ředitel školy v.v.	Trhová Kamenice	99	47	0
-5301	572390	1	2	47	3	Luděk	Šafář	M			60	dělník	Trhová Kamenice	47	47	0
-5301	572390	1	2	47	4	Leoš	Sobotka	M			49	montér	Trhová Kamenice	99	47	0
-5301	572390	1	2	47	5	Jiří	Meloun	M			72	důchodce	Trhová Kamenice	47	47	0
-5301	572390	1	2	47	6	Růžena	Secká	F			42	vedoucí provozovny	Trhová Kamenice	99	47	0
-5301	572390	1	2	47	7	Jana	Tajovská	F			59	důchodce	Trhová Kamenice	47	47	0
-5301	572390	1	2	47	8	Věra	Gráfová	F			54	průvodce	Trhová Kamenice	99	47	0
-5301	572390	1	2	47	9	František	Boháč	M			56	instalatér	Zubří	99	47	0
-5301	572390	1	3	166	1	Pavel	Kábele	M			42	starosta	Trhová Kamenice	99	166	0
-5301	572390	1	3	166	2	Miroslava	Zdražilová	F			45	ekonomka	Trhová Kamenice	99	166	0
-5301	572390	1	3	166	3	Milan	Linhart	M			36	soukromý podnikatel	Trhová Kamenice-Rohozná	99	166	0
-5301	572390	1	3	166	4	Věra	Pilařová	F			47	vedoucí pošty	Trhová Kamenice	99	166	0
-5301	572390	1	3	166	5	Josef	Jelínek	M			54	malíř	Trhová Kamenice	99	166	0
-5301	572390	1	3	166	6	Zdeňka	Janovská	F	MUDr.		49	zubní lékařka	Trhová Kamenice-Kameničky	99	166	0
-5301	572390	1	3	166	7	Kateřina	Kábelová	F			33	mateřská dovolená	Trhová Kamenice	99	166	0
-5301	572390	1	3	166	8	Hynek	Odvárka	M			37	řidič	Trhová Kamenice	99	166	0
-5301	572390	1	3	166	9	Pavel	Žaloudek	M			51	montér	Trhová Kamenice	99	166	0
-5301	572390	1	4	801	1	Josef	Janotka	M	Ing.		47	manažer obchodní společnosti	Trhová Kamenice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	572390	1	1	901	1	Iva	Dostálová	Ing.		39	ekonom, účetní	Trhová Kamenice	99	80	0	F
+5301	572390	1	2	47	1	Oldřich	Pilný			65	důchodce	Trhová Kamenice	47	47	0	M
+5301	572390	1	3	166	1	Pavel	Kábele			42	starosta	Trhová Kamenice	99	166	0	M
+5301	572390	1	4	801	1	Josef	Janotka	Ing.		47	manažer obchodní společnosti	Trhová Kamenice	99	80	0	M
+5301	572390	1	1	901	2	Lukáš	Menc	Ing.		35	manažer divize Industrie VČ	Trhová Kamenice	99	80	0	M
+5301	572390	1	2	47	2	Jaroslav	Šibal	Mgr.		69	ředitel školy v.v.	Trhová Kamenice	99	47	0	M
+5301	572390	1	3	166	2	Miroslava	Zdražilová			45	ekonomka	Trhová Kamenice	99	166	0	F
+5301	572390	1	1	901	3	Hana	Měkotová			45	vedoucí prodejny COOP-TUTTY	Trhová Kamenice	99	80	0	F
+5301	572390	1	2	47	3	Luděk	Šafář			60	dělník	Trhová Kamenice	47	47	0	M
+5301	572390	1	3	166	3	Milan	Linhart			36	soukromý podnikatel	Trhová Kamenice-Rohozná	99	166	0	M
+5301	572390	1	1	901	4	Radek	Osmík			44	strojvedoucí ČD	Trhová Kamenice	99	80	0	M
+5301	572390	1	2	47	4	Leoš	Sobotka			49	montér	Trhová Kamenice	99	47	0	M
+5301	572390	1	3	166	4	Věra	Pilařová			47	vedoucí pošty	Trhová Kamenice	99	166	0	F
+5301	572390	1	1	901	5	Petr	Makovský			44	zaměstnanec Městyse Trh. Kam.	Trhová Kamenice	99	80	0	M
+5301	572390	1	2	47	5	Jiří	Meloun			72	důchodce	Trhová Kamenice	47	47	0	M
+5301	572390	1	3	166	5	Josef	Jelínek			54	malíř	Trhová Kamenice	99	166	0	M
+5301	572390	1	1	901	6	Luboš	Rejholec			41	řidič autobusu	Trhová Kamenice	99	80	0	M
+5301	572390	1	2	47	6	Růžena	Secká			42	vedoucí provozovny	Trhová Kamenice	99	47	0	F
+5301	572390	1	3	166	6	Zdeňka	Janovská	MUDr.		49	zubní lékařka	Trhová Kamenice-Kameničky	99	166	0	F
+5301	572390	1	1	901	7	Ladislav	Kavalír			49	manažer zakázek Progress	Trhová Kamenice	99	80	0	M
+5301	572390	1	2	47	7	Jana	Tajovská			59	důchodce	Trhová Kamenice	47	47	0	F
+5301	572390	1	3	166	7	Kateřina	Kábelová			33	mateřská dovolená	Trhová Kamenice	99	166	0	F
+5301	572390	1	2	47	8	Věra	Gráfová			54	průvodce	Trhová Kamenice	99	47	0	F
+5301	572390	1	3	166	8	Hynek	Odvárka			37	řidič	Trhová Kamenice	99	166	0	M
+5301	572390	1	2	47	9	František	Boháč			56	instalatér	Zubří	99	47	0	M
+5301	572390	1	3	166	9	Pavel	Žaloudek			51	montér	Trhová Kamenice	99	166	0	M

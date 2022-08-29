@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	532983	1	1	53	1	Karel	BURDA	M	Ing.		70	starosta	Tuchlovice	53	53	0
-2103	532983	1	1	53	2	Marie	POSPÍŠILOVÁ	F			63	zástupce starosty	Tuchlovice	99	53	0
-2103	532983	1	1	53	3	Stanislav	BERÁNEK	M			46	podnikatel	Tuchlovice	53	53	0
-2103	532983	1	1	53	4	Anna	ČESKÁ	F			60	účetní	Tuchlovice	99	53	0
-2103	532983	1	1	53	5	Stanislav	ŠULC	M	Ing.		45	manažer	Tuchlovice	99	53	0
-2103	532983	1	1	53	6	Marie	LUKÁŠOVÁ	F	Mgr.		66	důchodkyně	Tuchlovice	53	53	0
-2103	532983	1	1	53	7	Marie	ZÝKOVÁ	F			66	důchodkyně	Srby	53	53	0
-2103	532983	1	1	53	8	Petr	KARVÁNEK	M			40	podnikatel	Tuchlovice	99	53	0
-2103	532983	1	1	53	9	Vendula	JEŽILOVÁ	F			37	účetní	Srby	53	53	0
-2103	532983	1	1	53	10	František	KRÁL	M			61	technik - specialista	Tuchlovice	99	53	0
-2103	532983	1	1	53	11	Václav	STANĚK	M			62	soukromý zemědělec	Tuchlovice	53	53	0
-2103	532983	1	1	53	12	Ondřej	PILNÝ	M	Ing.		51	analytik	Tuchlovice	99	53	0
-2103	532983	1	1	53	13	Václav	HLAVNIČKA	M			42	podnikatel	Tuchlovice	53	53	0
-2103	532983	1	1	53	14	Miluše	BÁRTLOVÁ	F			53	podnikatelka	Tuchlovice	99	53	0
-2103	532983	1	1	53	15	Stanislava	FROLÍKOVÁ	F			64	důchodkyně	Tuchlovice	53	53	0
-2103	532983	1	2	47	1	Alena	ŠTÁFKOVÁ	F			62	důchodce	Srby	47	47	0
-2103	532983	1	2	47	2	Stanislav	FOJT	M	Ing.		63	podnikatel	Srby	47	47	0
-2103	532983	1	2	47	3	Luboš	HANZLÍK	M			44	dělník	Srby	99	47	0
-2103	532983	1	2	47	4	Vladimír	ČUŘÍK	M	Ing.		71	důchodce	Tuchlovice	47	47	0
-2103	532983	1	2	47	5	Antonín	DRYJÁK	M			50	dělník	Tuchlovice	99	47	0
-2103	532983	1	2	47	6	Vladimír	DOUŠA	M			60	důchodce	Tuchlovice	99	47	0
-2103	532983	1	2	47	7	Miluše	ENDERŠTOVÁ	F			68	důchodce	Tuchlovice	47	47	0
-2103	532983	1	2	47	8	František	FROLÍK	M			66	důchodce	Srby	47	47	0
-2103	532983	1	2	47	9	Alena	PASTEJŘÍKOVÁ	F			52	dělnice	Tuchlovice	99	47	0
-2103	532983	1	2	47	10	Martina	HATINOVÁ	F			66	důchodce	Srby	47	47	0
-2103	532983	1	2	47	11	Petr	ČERNOCH	M			54	dělník	Tuchlovice	99	47	0
-2103	532983	1	2	47	12	Ladislav	KLOS	M			53	dělník	Srby	47	47	0
-2103	532983	1	2	47	13	Zdeněk	ŠLAUF	M			52	dispečer	Srby	47	47	0
-2103	532983	1	2	47	14	Marie	TÁBORSKÁ	F			67	důchodce	Srby	47	47	0
-2103	532983	1	2	47	15	Jaroslav	ŠŤASTNÝ	M			57	dělník	Srby	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	532983	1	1	53	1	Karel	BURDA	Ing.		70	starosta	Tuchlovice	53	53	0	M
+2103	532983	1	2	47	1	Alena	ŠTÁFKOVÁ			62	důchodce	Srby	47	47	0	F
+2103	532983	1	1	53	2	Marie	POSPÍŠILOVÁ			63	zástupce starosty	Tuchlovice	99	53	0	F
+2103	532983	1	2	47	2	Stanislav	FOJT	Ing.		63	podnikatel	Srby	47	47	0	M
+2103	532983	1	1	53	3	Stanislav	BERÁNEK			46	podnikatel	Tuchlovice	53	53	0	M
+2103	532983	1	2	47	3	Luboš	HANZLÍK			44	dělník	Srby	99	47	0	M
+2103	532983	1	1	53	4	Anna	ČESKÁ			60	účetní	Tuchlovice	99	53	0	F
+2103	532983	1	2	47	4	Vladimír	ČUŘÍK	Ing.		71	důchodce	Tuchlovice	47	47	0	M
+2103	532983	1	1	53	5	Stanislav	ŠULC	Ing.		45	manažer	Tuchlovice	99	53	0	M
+2103	532983	1	2	47	5	Antonín	DRYJÁK			50	dělník	Tuchlovice	99	47	0	M
+2103	532983	1	1	53	6	Marie	LUKÁŠOVÁ	Mgr.		66	důchodkyně	Tuchlovice	53	53	0	F
+2103	532983	1	2	47	6	Vladimír	DOUŠA			60	důchodce	Tuchlovice	99	47	0	M
+2103	532983	1	1	53	7	Marie	ZÝKOVÁ			66	důchodkyně	Srby	53	53	0	F
+2103	532983	1	2	47	7	Miluše	ENDERŠTOVÁ			68	důchodce	Tuchlovice	47	47	0	F
+2103	532983	1	1	53	8	Petr	KARVÁNEK			40	podnikatel	Tuchlovice	99	53	0	M
+2103	532983	1	2	47	8	František	FROLÍK			66	důchodce	Srby	47	47	0	M
+2103	532983	1	1	53	9	Vendula	JEŽILOVÁ			37	účetní	Srby	53	53	0	F
+2103	532983	1	2	47	9	Alena	PASTEJŘÍKOVÁ			52	dělnice	Tuchlovice	99	47	0	F
+2103	532983	1	1	53	10	František	KRÁL			61	technik - specialista	Tuchlovice	99	53	0	M
+2103	532983	1	2	47	10	Martina	HATINOVÁ			66	důchodce	Srby	47	47	0	F
+2103	532983	1	1	53	11	Václav	STANĚK			62	soukromý zemědělec	Tuchlovice	53	53	0	M
+2103	532983	1	2	47	11	Petr	ČERNOCH			54	dělník	Tuchlovice	99	47	0	M
+2103	532983	1	1	53	12	Ondřej	PILNÝ	Ing.		51	analytik	Tuchlovice	99	53	0	M
+2103	532983	1	2	47	12	Ladislav	KLOS			53	dělník	Srby	47	47	0	M
+2103	532983	1	1	53	13	Václav	HLAVNIČKA			42	podnikatel	Tuchlovice	53	53	0	M
+2103	532983	1	2	47	13	Zdeněk	ŠLAUF			52	dispečer	Srby	47	47	0	M
+2103	532983	1	1	53	14	Miluše	BÁRTLOVÁ			53	podnikatelka	Tuchlovice	99	53	0	F
+2103	532983	1	2	47	14	Marie	TÁBORSKÁ			67	důchodce	Srby	47	47	0	F
+2103	532983	1	1	53	15	Stanislava	FROLÍKOVÁ			64	důchodkyně	Tuchlovice	53	53	0	F
+2103	532983	1	2	47	15	Jaroslav	ŠŤASTNÝ			57	dělník	Srby	47	47	0	M

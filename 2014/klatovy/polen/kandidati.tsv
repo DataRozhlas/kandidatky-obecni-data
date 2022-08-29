@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3202	541788	1	1	387	1	Jiří	Šmídl	M			63	důchodce	Poleň	47	47	0
-3202	541788	1	1	387	2	Dagmar	Palečková	F			52	soukromý podnikatel	Poleňka	99	80	0
-3202	541788	1	1	387	3	Josef	Sika	M			40	elektrikář	Poleň	99	80	0
-3202	541788	1	1	387	4	Stanislav	Adam	M			46	zedník	Poleňka	99	80	0
-3202	541788	1	1	387	5	Tomáš	Kott	M	Ing.	Ph.D.	38	vědecký pracovník	Pušperk	99	80	0
-3202	541788	1	1	387	6	Vladislav	Červeňák	M			43	zedník	Mlýnec	99	80	0
-3202	541788	1	1	387	7	Radek	Janda	M			36	soukromý zemědělec	Zdeslav	99	80	0
-3202	541788	1	1	387	8	Pavel	Pinkava	M			58	invalidní důchodce	Poleň	99	80	0
-3202	541788	1	1	387	9	Erik	Kohn	M			27	řidič	Mlýnec	99	80	0
-3202	541788	1	2	901	1	Václav	Šavel	M	Ing.	Ph.D.	38	technický ředitel	Poleň	99	80	0
-3202	541788	1	2	901	2	Radek	Lidinský	M	Ing.		45	elektronik	Poleň	99	80	0
-3202	541788	1	2	901	3	Jaroslava	Sedláčková	F	Mgr.		52	učitelka	Poleň	99	80	0
-3202	541788	1	2	901	4	František	Franta	M			59	předseda představenstva	Poleň	99	80	0
-3202	541788	1	2	901	5	Libor	Fazekaš	M			35	autoklempíř	Poleň	99	80	0
-3202	541788	1	2	901	6	Václav	Majer	M			53	dělník	Poleňka	99	80	0
-3202	541788	1	2	901	7	Vendula	Baláková	F			40	dělnice	Poleň	99	80	0
-3202	541788	1	2	901	8	Radovan	Studený	M			48	technik	Poleň	99	80	0
-3202	541788	1	2	901	9	Jaroslav	Hnojský	M			64	důchodce	Zdeslav	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3202	541788	1	1	387	1	Jiří	Šmídl			63	důchodce	Poleň	47	47	0	M
+3202	541788	1	2	901	1	Václav	Šavel	Ing.	Ph.D.	38	technický ředitel	Poleň	99	80	0	M
+3202	541788	1	1	387	2	Dagmar	Palečková			52	soukromý podnikatel	Poleňka	99	80	0	F
+3202	541788	1	2	901	2	Radek	Lidinský	Ing.		45	elektronik	Poleň	99	80	0	M
+3202	541788	1	1	387	3	Josef	Sika			40	elektrikář	Poleň	99	80	0	M
+3202	541788	1	2	901	3	Jaroslava	Sedláčková	Mgr.		52	učitelka	Poleň	99	80	0	F
+3202	541788	1	1	387	4	Stanislav	Adam			46	zedník	Poleňka	99	80	0	M
+3202	541788	1	2	901	4	František	Franta			59	předseda představenstva	Poleň	99	80	0	M
+3202	541788	1	1	387	5	Tomáš	Kott	Ing.	Ph.D.	38	vědecký pracovník	Pušperk	99	80	0	M
+3202	541788	1	2	901	5	Libor	Fazekaš			35	autoklempíř	Poleň	99	80	0	M
+3202	541788	1	1	387	6	Vladislav	Červeňák			43	zedník	Mlýnec	99	80	0	M
+3202	541788	1	2	901	6	Václav	Majer			53	dělník	Poleňka	99	80	0	M
+3202	541788	1	1	387	7	Radek	Janda			36	soukromý zemědělec	Zdeslav	99	80	0	M
+3202	541788	1	2	901	7	Vendula	Baláková			40	dělnice	Poleň	99	80	0	F
+3202	541788	1	1	387	8	Pavel	Pinkava			58	invalidní důchodce	Poleň	99	80	0	M
+3202	541788	1	2	901	8	Radovan	Studený			48	technik	Poleň	99	80	0	M
+3202	541788	1	1	387	9	Erik	Kohn			27	řidič	Mlýnec	99	80	0	M
+3202	541788	1	2	901	9	Jaroslav	Hnojský			64	důchodce	Zdeslav	99	80	0	M

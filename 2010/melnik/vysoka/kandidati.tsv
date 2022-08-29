@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2106	535338	1	1	902	1	Marie	Zítková	F			57	řidič-záchranář, koor.projektů	Strážnice	99	80	0
-2106	535338	1	1	902	2	Josef	Hořejší	M			50	soukromý podnikatel	Střednice	99	80	0
-2106	535338	1	1	902	3	Jan	Kos	M			33	hasič	Střednice	99	80	0
-2106	535338	1	1	902	4	Roman	Kos	M			42	soukromý podnikatel	Střednice	99	80	0
-2106	535338	1	1	902	5	Eva	Hubená	F			54	laborantka	Chodeč	99	80	0
-2106	535338	1	1	902	6	Jaroslav	Říha	M			42	automechanik	Střednice	99	80	0
-2106	535338	1	1	902	7	Martin	Dušek	M			41	automechanik	Vysoká	99	80	0
-2106	535338	1	1	902	8	Jiří	Kořínek	M			30	soukromý podnikatel	Chodeč	99	80	0
-2106	535338	1	1	902	9	Jana	Honcová	F			34	administrativní pracovnice	Bosyně	99	80	0
-2106	535338	1	2	901	1	Elena	Maryšková	F	Ing.		57	úřednice	Střednice	99	80	0
-2106	535338	1	2	901	2	Pavel	Kučera	M	Ing.	CSc.	62	podnikatel	Střednice	99	80	0
-2106	535338	1	2	901	3	Věra	Roučková	F			48	učitelka	Vysoká	99	80	0
-2106	535338	1	2	901	4	Martin	Purš	M	Bc.		37	obchodní ředitel	Střednice	99	80	0
-2106	535338	1	2	901	5	Marie	Bímová	F	Bc.		33	kronikářka	Vysoká	99	80	0
-2106	535338	1	2	901	6	Václav	Šťastný	M			31	umělecký kovář	Vysoká	99	80	0
-2106	535338	1	2	901	7	Jiří	Beránek	M		DiS.	34	vedoucí provozu	Bosyně	99	80	0
-2106	535338	1	2	901	8	Miloslav	Brázda	M			47	elektromontér	Chodeč	99	80	0
-2106	535338	1	2	901	9	Jana	Švarcová	F			54	zdravotní sestra	Strážnice	99	80	0
-2106	535338	1	3	903	1	Bořivoj	Štolba	M			41	úředník	Bosyně	99	80	0
-2106	535338	1	3	903	2	Václav	Fidrant	M	Ing.		52	podnikatel	Vysoká	99	80	0
-2106	535338	1	3	903	3	Jiří	Marvánek	M			33	podnikatel	Střednice	99	80	0
-2106	535338	1	3	903	4	Miroslav	Rous	M			47	strojní zámečník	Vysoká	99	80	0
-2106	535338	1	3	903	5	Václav	Dvořák	M	Bc.		28	student	Strážnice	99	80	0
-2106	535338	1	3	903	6	Romana	Břehovská	F			45	prodavačka	Střednice	99	80	0
-2106	535338	1	3	903	7	Vladimír	Datel	M			34	prodejce jízdních kol	Vysoká	99	80	0
-2106	535338	1	3	903	8	Jiří	Vít	M			57	technik-údržbář	Bosyně	99	80	0
-2106	535338	1	3	903	9	Petr	Mička	M			29	prodavač elektro	Střednice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2106	535338	1	1	902	1	Marie	Zítková			57	řidič-záchranář, koor.projektů	Strážnice	99	80	0	F
+2106	535338	1	2	901	1	Elena	Maryšková	Ing.		57	úřednice	Střednice	99	80	0	F
+2106	535338	1	3	903	1	Bořivoj	Štolba			41	úředník	Bosyně	99	80	0	M
+2106	535338	1	1	902	2	Josef	Hořejší			50	soukromý podnikatel	Střednice	99	80	0	M
+2106	535338	1	2	901	2	Pavel	Kučera	Ing.	CSc.	62	podnikatel	Střednice	99	80	0	M
+2106	535338	1	3	903	2	Václav	Fidrant	Ing.		52	podnikatel	Vysoká	99	80	0	M
+2106	535338	1	1	902	3	Jan	Kos			33	hasič	Střednice	99	80	0	M
+2106	535338	1	2	901	3	Věra	Roučková			48	učitelka	Vysoká	99	80	0	F
+2106	535338	1	3	903	3	Jiří	Marvánek			33	podnikatel	Střednice	99	80	0	M
+2106	535338	1	1	902	4	Roman	Kos			42	soukromý podnikatel	Střednice	99	80	0	M
+2106	535338	1	2	901	4	Martin	Purš	Bc.		37	obchodní ředitel	Střednice	99	80	0	M
+2106	535338	1	3	903	4	Miroslav	Rous			47	strojní zámečník	Vysoká	99	80	0	M
+2106	535338	1	1	902	5	Eva	Hubená			54	laborantka	Chodeč	99	80	0	F
+2106	535338	1	2	901	5	Marie	Bímová	Bc.		33	kronikářka	Vysoká	99	80	0	F
+2106	535338	1	3	903	5	Václav	Dvořák	Bc.		28	student	Strážnice	99	80	0	M
+2106	535338	1	1	902	6	Jaroslav	Říha			42	automechanik	Střednice	99	80	0	M
+2106	535338	1	2	901	6	Václav	Šťastný			31	umělecký kovář	Vysoká	99	80	0	M
+2106	535338	1	3	903	6	Romana	Břehovská			45	prodavačka	Střednice	99	80	0	F
+2106	535338	1	1	902	7	Martin	Dušek			41	automechanik	Vysoká	99	80	0	M
+2106	535338	1	2	901	7	Jiří	Beránek		DiS.	34	vedoucí provozu	Bosyně	99	80	0	M
+2106	535338	1	3	903	7	Vladimír	Datel			34	prodejce jízdních kol	Vysoká	99	80	0	M
+2106	535338	1	1	902	8	Jiří	Kořínek			30	soukromý podnikatel	Chodeč	99	80	0	M
+2106	535338	1	2	901	8	Miloslav	Brázda			47	elektromontér	Chodeč	99	80	0	M
+2106	535338	1	3	903	8	Jiří	Vít			57	technik-údržbář	Bosyně	99	80	0	M
+2106	535338	1	1	902	9	Jana	Honcová			34	administrativní pracovnice	Bosyně	99	80	0	F
+2106	535338	1	2	901	9	Jana	Švarcová			54	zdravotní sestra	Strážnice	99	80	0	F
+2106	535338	1	3	903	9	Petr	Mička			29	prodavač elektro	Střednice	99	80	0	M

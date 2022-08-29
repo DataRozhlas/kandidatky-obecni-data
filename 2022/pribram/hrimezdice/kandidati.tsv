@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	540285	1	1	901	1	Jiří	Dragoun	M	Ing.		62	technik	Vestec	99	80	A
-2111	540285	1	1	901	2	Marie	Junková	F			48	místostarostka obce	Hřiměždice	99	80	A
-2111	540285	1	1	901	3	Josef	Vacek	M			62	podnikatel	Hřiměždice	99	80	A
-2111	540285	1	1	901	4	Jan	Sedláček	M			39	soukromý zemědělec	Háje	99	80	A
-2111	540285	1	1	901	5	Jakub	Spilka	M			36	hasič	Hřiměždice	99	80	A
-2111	540285	1	1	901	6	Petr	Drobný	M			25	prodavač	Hřiměždice	99	80	A
-2111	540285	1	1	901	7	Patrik	Junek	M			25	technik	Hřiměždice	99	80	A
-2111	540285	1	1	901	8	Kateřina	Hovorková	F			21	nezaměstnaná	Vestec	99	80	A
-2111	540285	1	1	901	9	Pavel	Chvátal	M			46	živnostník	Hřiměždice	99	80	A
-2111	540285	1	2	902	1	Jiří	Novák	M			52	stavbyvedoucí	Hřiměždice	99	80	A
-2111	540285	1	2	902	2	Martin	Pinkas	M			51	podnikatel	Hřiměždice	99	80	A
-2111	540285	1	2	902	3	Miroslav	Červinka	M			52	automechanik	Hřiměždice	99	80	A
-2111	540285	1	2	902	4	Tomáš	Matějka	M			27	vývojář HW	Hřiměždice	99	80	A
-2111	540285	1	2	902	5	Michal	Černý	M			44	řidič	Hřiměždice	99	80	A
-2111	540285	1	2	902	6	Pavel	Černý	M			30	živnostník	Hřiměždice	99	80	A
-2111	540285	1	2	902	7	Josef	Baštář	M			47	obchodní zástupce	Hřiměždice	99	80	A
-2111	540285	1	2	902	8	Jindřich	Černý	M			41	projektový manažer	Hřiměždice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	540285	1	1	901	1	Jiří	Dragoun	Ing.		62	technik	Vestec	99	80	A	M
+2111	540285	1	2	902	1	Jiří	Novák			52	stavbyvedoucí	Hřiměždice	99	80	A	M
+2111	540285	1	1	901	2	Marie	Junková			48	místostarostka obce	Hřiměždice	99	80	A	F
+2111	540285	1	2	902	2	Martin	Pinkas			51	podnikatel	Hřiměždice	99	80	A	M
+2111	540285	1	1	901	3	Josef	Vacek			62	podnikatel	Hřiměždice	99	80	A	M
+2111	540285	1	2	902	3	Miroslav	Červinka			52	automechanik	Hřiměždice	99	80	A	M
+2111	540285	1	1	901	4	Jan	Sedláček			39	soukromý zemědělec	Háje	99	80	A	M
+2111	540285	1	2	902	4	Tomáš	Matějka			27	vývojář HW	Hřiměždice	99	80	A	M
+2111	540285	1	1	901	5	Jakub	Spilka			36	hasič	Hřiměždice	99	80	A	M
+2111	540285	1	2	902	5	Michal	Černý			44	řidič	Hřiměždice	99	80	A	M
+2111	540285	1	1	901	6	Petr	Drobný			25	prodavač	Hřiměždice	99	80	A	M
+2111	540285	1	2	902	6	Pavel	Černý			30	živnostník	Hřiměždice	99	80	A	M
+2111	540285	1	1	901	7	Patrik	Junek			25	technik	Hřiměždice	99	80	A	M
+2111	540285	1	2	902	7	Josef	Baštář			47	obchodní zástupce	Hřiměždice	99	80	A	M
+2111	540285	1	1	901	8	Kateřina	Hovorková			21	nezaměstnaná	Vestec	99	80	A	F
+2111	540285	1	2	902	8	Jindřich	Černý			41	projektový manažer	Hřiměždice	99	80	A	M
+2111	540285	1	1	901	9	Pavel	Chvátal			46	živnostník	Hřiměždice	99	80	A	M

@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3102	545660	1	1	801	1	Vladimír	Kotva	M			74	důchodce	Omlenička	99	80	A
-3102	545660	1	2	901	1	Karel	Holub	M			63	starosta	Omlenička	99	80	A
-3102	545660	1	2	901	2	Petr	Drayer	M			43	státní zaměstnanec	Omlenička	99	80	A
-3102	545660	1	2	901	3	Martin	Novák	M			42	živnostník	Omlenička	99	80	A
-3102	545660	1	2	901	4	Jaroslav	Vaněk	M			45	ředitel	Omlenička	99	80	A
-3102	545660	1	2	901	5	Zdeněk	Novák	M			40	živnostník	Omlenička	99	80	A
-3102	545660	1	2	901	6	Pavel	Outrata	M			21	stavbyvedoucí	Výnězda	99	80	A
-3102	545660	1	2	901	7	Pavel	Petr	M			61	ředitel ZŠ	Omlenička	99	80	A
-3102	545660	1	2	901	8	Marie	Turnhöferová	F	Bc.		32	účetní	Omlenice	99	80	A
-3102	545660	1	2	901	9	Tereza	Holubová	F			27	recepční	Omlenička	99	80	A
-3102	545660	1	2	901	10	Lenka	Vojtová	F			42	poštovní doručovatelka	Výnězda	99	80	A
-3102	545660	1	2	901	11	Bohuslav	Zárybnický	M			40	soukromý zemědělec	Omlenička	99	80	A
-3102	545660	1	3	7	1	Josef	Schallenberger	M			59	svářeč	Omlenička	7	7	A
-3102	545660	1	3	7	2	František	Holemý	M			48	OSVČ	Omlenička	99	7	A
-3102	545660	1	3	7	3	Filip	Musil	M			26	projektant	Omlenička	99	7	A
-3102	545660	1	3	7	4	Roman	Mikeš	M			39	strojník stavebních strojů	Výnězda	99	7	A
-3102	545660	1	3	7	5	Jarmila	Burgerová	F			45	účetní	Omlenička	99	7	A
-3102	545660	1	3	7	6	Jana	Vojíková	F	JUDr.		57	OSVČ	Omlenička	99	7	A
-3102	545660	1	3	7	7	Rostislav	Codl	M			47	svářeč	Omlenička	99	7	A
-3102	545660	1	3	7	8	Zdeněk	Janošec	M			43	řezník	Blažkov	99	7	A
-3102	545660	1	3	7	9	Jakub	Ottenschläger	M			21	student	Stradov	99	7	A
-3102	545660	1	3	7	10	Miroslav	Svoboda	M			61	řidič kamionové dopravy	Omlenička	99	7	A
-3102	545660	1	3	7	11	Jana	Šťastná	F			57	dělnice	Blažkov	99	7	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3102	545660	1	1	801	1	Vladimír	Kotva			74	důchodce	Omlenička	99	80	A	M
+3102	545660	1	2	901	1	Karel	Holub			63	starosta	Omlenička	99	80	A	M
+3102	545660	1	3	7	1	Josef	Schallenberger			59	svářeč	Omlenička	7	7	A	M
+3102	545660	1	2	901	2	Petr	Drayer			43	státní zaměstnanec	Omlenička	99	80	A	M
+3102	545660	1	3	7	2	František	Holemý			48	OSVČ	Omlenička	99	7	A	M
+3102	545660	1	2	901	3	Martin	Novák			42	živnostník	Omlenička	99	80	A	M
+3102	545660	1	3	7	3	Filip	Musil			26	projektant	Omlenička	99	7	A	M
+3102	545660	1	2	901	4	Jaroslav	Vaněk			45	ředitel	Omlenička	99	80	A	M
+3102	545660	1	3	7	4	Roman	Mikeš			39	strojník stavebních strojů	Výnězda	99	7	A	M
+3102	545660	1	2	901	5	Zdeněk	Novák			40	živnostník	Omlenička	99	80	A	M
+3102	545660	1	3	7	5	Jarmila	Burgerová			45	účetní	Omlenička	99	7	A	F
+3102	545660	1	2	901	6	Pavel	Outrata			21	stavbyvedoucí	Výnězda	99	80	A	M
+3102	545660	1	3	7	6	Jana	Vojíková	JUDr.		57	OSVČ	Omlenička	99	7	A	F
+3102	545660	1	2	901	7	Pavel	Petr			61	ředitel ZŠ	Omlenička	99	80	A	M
+3102	545660	1	3	7	7	Rostislav	Codl			47	svářeč	Omlenička	99	7	A	M
+3102	545660	1	2	901	8	Marie	Turnhöferová	Bc.		32	účetní	Omlenice	99	80	A	F
+3102	545660	1	3	7	8	Zdeněk	Janošec			43	řezník	Blažkov	99	7	A	M
+3102	545660	1	2	901	9	Tereza	Holubová			27	recepční	Omlenička	99	80	A	F
+3102	545660	1	3	7	9	Jakub	Ottenschläger			21	student	Stradov	99	7	A	M
+3102	545660	1	2	901	10	Lenka	Vojtová			42	poštovní doručovatelka	Výnězda	99	80	A	F
+3102	545660	1	3	7	10	Miroslav	Svoboda			61	řidič kamionové dopravy	Omlenička	99	7	A	M
+3102	545660	1	2	901	11	Bohuslav	Zárybnický			40	soukromý zemědělec	Omlenička	99	80	A	M
+3102	545660	1	3	7	11	Jana	Šťastná			57	dělnice	Blažkov	99	7	A	F

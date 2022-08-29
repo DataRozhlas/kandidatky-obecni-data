@@ -1,20 +1,20 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2106	534749	1	1	902	1	Jiří	Matějka	M			59	důchodce	Čečelice	99	80	0
-2106	534749	1	1	902	2	Bohuslav	Růžička	M			62	důchodce	Čečelice	99	80	0
-2106	534749	1	1	902	3	Jaroslav	Svoboda	M			60	důchodce	Čečelice	99	80	0
-2106	534749	1	1	902	4	Josef	Pokorný	M			54	soukromý zemědělec	Čečelice	99	80	0
-2106	534749	1	1	902	5	Pavel	Taclík	M			43	skladník	Čečelice	99	80	0
-2106	534749	1	1	902	6	Alena	Reslová	F			47	švadlena	Čečelice	99	80	0
-2106	534749	1	1	902	7	Oldřich	Nepraš	M			41	traktorista	Čečelice	99	80	0
-2106	534749	1	1	902	8	Tomáš	Bartůněk	M			28	podlahář	Čečelice	99	80	0
-2106	534749	1	1	902	9	Petr	Hrubý	M			37	profesionální hasič	Čečelice	99	80	0
-2106	534749	1	2	901	1	Josef	Zeman	M			44	starosta	Čečelice	99	80	0
-2106	534749	1	2	901	2	Vladislava	Černohlávková	F			42	zdravotní sestra	Čečelice	99	80	0
-2106	534749	1	2	901	3	Hana	Paličková	F			56	učitelka	Čečelice	99	80	0
-2106	534749	1	2	901	4	Damír	Škarnitzl	M			37	chemik	Čečelice	99	80	0
-2106	534749	1	2	901	5	Pavel	Palička	M			35	vedoucí expedice	Čečelice	99	80	0
-2106	534749	1	2	901	6	Josef	Palička	M			57	skladník	Čečelice	99	80	0
-2106	534749	1	2	901	7	Jiří	Konečný	M	Ing.		45	státní zaměstnanec	Čečelice	99	80	0
-2106	534749	1	2	901	8	Jindra	Svatošová	F			43	v domácnosti	Čečelice	99	80	0
-2106	534749	1	2	901	9	Jan	Votrubec	M			20	projektant	Čečelice	99	80	0
-2106	534749	1	3	801	1	Josef	Majzler	M			61	zaměstnanec ČD	Čečelice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2106	534749	1	1	902	1	Jiří	Matějka			59	důchodce	Čečelice	99	80	0	M
+2106	534749	1	2	901	1	Josef	Zeman			44	starosta	Čečelice	99	80	0	M
+2106	534749	1	3	801	1	Josef	Majzler			61	zaměstnanec ČD	Čečelice	99	80	0	M
+2106	534749	1	1	902	2	Bohuslav	Růžička			62	důchodce	Čečelice	99	80	0	M
+2106	534749	1	2	901	2	Vladislava	Černohlávková			42	zdravotní sestra	Čečelice	99	80	0	F
+2106	534749	1	1	902	3	Jaroslav	Svoboda			60	důchodce	Čečelice	99	80	0	M
+2106	534749	1	2	901	3	Hana	Paličková			56	učitelka	Čečelice	99	80	0	F
+2106	534749	1	1	902	4	Josef	Pokorný			54	soukromý zemědělec	Čečelice	99	80	0	M
+2106	534749	1	2	901	4	Damír	Škarnitzl			37	chemik	Čečelice	99	80	0	M
+2106	534749	1	1	902	5	Pavel	Taclík			43	skladník	Čečelice	99	80	0	M
+2106	534749	1	2	901	5	Pavel	Palička			35	vedoucí expedice	Čečelice	99	80	0	M
+2106	534749	1	1	902	6	Alena	Reslová			47	švadlena	Čečelice	99	80	0	F
+2106	534749	1	2	901	6	Josef	Palička			57	skladník	Čečelice	99	80	0	M
+2106	534749	1	1	902	7	Oldřich	Nepraš			41	traktorista	Čečelice	99	80	0	M
+2106	534749	1	2	901	7	Jiří	Konečný	Ing.		45	státní zaměstnanec	Čečelice	99	80	0	M
+2106	534749	1	1	902	8	Tomáš	Bartůněk			28	podlahář	Čečelice	99	80	0	M
+2106	534749	1	2	901	8	Jindra	Svatošová			43	v domácnosti	Čečelice	99	80	0	F
+2106	534749	1	1	902	9	Petr	Hrubý			37	profesionální hasič	Čečelice	99	80	0	M
+2106	534749	1	2	901	9	Jan	Votrubec			20	projektant	Čečelice	99	80	0	M

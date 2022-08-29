@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4201	545783	1	1	449	1	Martin	Forró	M			32	starosta	Dobrná	99	80	0
-4201	545783	1	1	449	2	Pavel	Landsman	M			38	podnikatel	Dobrná	99	80	0
-4201	545783	1	1	449	3	Eva	Kolibová	F			50	podnikatelka	Dobrná	99	80	0
-4201	545783	1	1	449	4	Helena	Forróvá	F			54	kuchařka	Dobrná	99	80	0
-4201	545783	1	1	449	5	Naděžda	Vocetková	F			49	dělnice	Dobrná	99	80	0
-4201	545783	1	1	449	6	Eva	Bimonová	F			53	dělnice	Brložec	99	80	0
-4201	545783	1	1	449	7	Jaroslava	Pospíchalová	F			43	podnikatelka	Dobrná	99	80	0
-4201	545783	1	1	449	8	Petr	Vocetka	M			24	řidič	Dobrná	99	80	0
-4201	545783	1	1	449	9	Karolína	Brožová	F			56	školnice	Dobrná	99	80	0
-4201	545783	1	2	901	1	Libuše	Šrámková	F			44	THP	Dobrná	99	80	0
-4201	545783	1	2	901	2	Josef	Čech	M			47	živnostník	Dobrná	99	80	0
-4201	545783	1	2	901	3	Aleš	Liška	M			38	elektrikář	Dobrná	99	80	0
-4201	545783	1	2	901	4	Eva	Milfaitová	F			49	dispečerka	Dobrná	99	80	0
-4201	545783	1	2	901	5	Karel	Bošek	M			59	strojvedoucí	Dobrná	99	80	0
-4201	545783	1	2	901	6	Stanislava	Šťástková	F			40	zdravotní sestra	Dobrná	99	80	0
-4201	545783	1	2	901	7	Veronika	Štrosová	F			35	nezaměstnaná	Brložec	99	80	0
-4201	545783	1	2	901	8	Václav	Tobiáš	M			55	instalatér	Dobrná	99	80	0
-4201	545783	1	2	901	9	Jan	Tauchman	M			52	živnostník	Dobrná	99	80	0
-4201	545783	1	3	902	1	Pavel	Dupač	M			43	dělník obce Dobrná	Dobrná	99	80	0
-4201	545783	1	3	902	2	Václav	Frič	M			55	soukromý zemědělec	Dobrná	99	80	0
-4201	545783	1	3	902	3	Marta	Provazníková	F			42	podnikatelka	Brložec	99	80	0
-4201	545783	1	3	902	4	Antonín	Komorous	M			38	řidič	Dobrná	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4201	545783	1	1	449	1	Martin	Forró			32	starosta	Dobrná	99	80	0	M
+4201	545783	1	2	901	1	Libuše	Šrámková			44	THP	Dobrná	99	80	0	F
+4201	545783	1	3	902	1	Pavel	Dupač			43	dělník obce Dobrná	Dobrná	99	80	0	M
+4201	545783	1	1	449	2	Pavel	Landsman			38	podnikatel	Dobrná	99	80	0	M
+4201	545783	1	2	901	2	Josef	Čech			47	živnostník	Dobrná	99	80	0	M
+4201	545783	1	3	902	2	Václav	Frič			55	soukromý zemědělec	Dobrná	99	80	0	M
+4201	545783	1	1	449	3	Eva	Kolibová			50	podnikatelka	Dobrná	99	80	0	F
+4201	545783	1	2	901	3	Aleš	Liška			38	elektrikář	Dobrná	99	80	0	M
+4201	545783	1	3	902	3	Marta	Provazníková			42	podnikatelka	Brložec	99	80	0	F
+4201	545783	1	1	449	4	Helena	Forróvá			54	kuchařka	Dobrná	99	80	0	F
+4201	545783	1	2	901	4	Eva	Milfaitová			49	dispečerka	Dobrná	99	80	0	F
+4201	545783	1	3	902	4	Antonín	Komorous			38	řidič	Dobrná	99	80	0	M
+4201	545783	1	1	449	5	Naděžda	Vocetková			49	dělnice	Dobrná	99	80	0	F
+4201	545783	1	2	901	5	Karel	Bošek			59	strojvedoucí	Dobrná	99	80	0	M
+4201	545783	1	1	449	6	Eva	Bimonová			53	dělnice	Brložec	99	80	0	F
+4201	545783	1	2	901	6	Stanislava	Šťástková			40	zdravotní sestra	Dobrná	99	80	0	F
+4201	545783	1	1	449	7	Jaroslava	Pospíchalová			43	podnikatelka	Dobrná	99	80	0	F
+4201	545783	1	2	901	7	Veronika	Štrosová			35	nezaměstnaná	Brložec	99	80	0	F
+4201	545783	1	1	449	8	Petr	Vocetka			24	řidič	Dobrná	99	80	0	M
+4201	545783	1	2	901	8	Václav	Tobiáš			55	instalatér	Dobrná	99	80	0	M
+4201	545783	1	1	449	9	Karolína	Brožová			56	školnice	Dobrná	99	80	0	F
+4201	545783	1	2	901	9	Jan	Tauchman			52	živnostník	Dobrná	99	80	0	M

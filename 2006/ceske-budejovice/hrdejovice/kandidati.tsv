@@ -1,39 +1,39 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	544558	1	1	7	1	Jiří	Válek	M	Ing.		42	ekonom	Hrdějovice	7	7	0
-3101	544558	1	1	7	2	Jiří	Severa	M	Ing.		47	předseda družstva	Hrdějovice	99	7	0
-3101	544558	1	1	7	3	Čestmír	Kodada	M			36	technický prac.	Hrdějovice	99	7	0
-3101	544558	1	1	7	4	Pavel	Mašek	M			22	voják z povolání	Hrdějovice	99	7	0
-3101	544558	1	1	7	5	Lukáš	Kadoun	M			23	student	Hrdějovice	99	7	0
-3101	544558	1	1	7	6	Petr	Arbet	M			45	zootechnik	Hrdějovice	7	7	0
-3101	544558	1	1	7	7	Josef	Trávníček	M			77	důchodce	Hrdějovice	99	7	0
-3101	544558	1	2	5	1	Ivan	Venclík	M	RNDr.		70	důchodce	Hrdějovice	5	5	0
-3101	544558	1	2	5	2	Drahomíra	Venclíková	F	Mgr.		61	v domácnosti	Hrdějovice	5	5	0
-3101	544558	1	3	1	1	Jan	Černoch	M			70	starosta obce	Hrdějovice	99	1	0
-3101	544558	1	3	1	2	Josef	Eliáš	M			44	podnikatel	Hrdějovice	99	1	0
-3101	544558	1	3	1	3	Vít	Waldhauser	M	MUDr.		50	lékař	Hrdějovice	1	1	0
-3101	544558	1	3	1	4	František	Rachač	M	Ing.		44	geolog	Hrdějovice	99	1	0
-3101	544558	1	3	1	5	Jaroslav	Janda	M	Ing.		49	jednatel společnosti	Hrdějovice	99	1	0
-3101	544558	1	3	1	6	Karel	Novák	M	Ing.		62	důchodce	Hrdějovice	1	1	0
-3101	544558	1	3	1	7	Irena	Hellerová	F			47	zdravotní sestra	Hrdějovice	99	1	0
-3101	544558	1	4	901	1	Jana	Lepičová	F			47	OSVČ	Hrdějovice	99	80	0
-3101	544558	1	4	901	2	Jan	Suchan	M			48	stavbyvedoucí	Hrdějovice	99	80	0
-3101	544558	1	4	901	3	František	Hamberger	M			52	zásobovač	Hrdějovice	99	80	0
-3101	544558	1	4	901	4	Jiří	Fajtl	M			28	trenér profesního jednání	Hrdějovice	99	80	0
-3101	544558	1	4	901	5	Vladimír	Ira	M			46	zástupce ředitele	Hrdějovice	99	80	0
-3101	544558	1	4	901	6	František	Rehanzl	M			29	servisní technik	Hrdějovice	99	80	0
-3101	544558	1	4	901	7	František	Holomel	M			53	servisní technik	Hrdějovice	99	80	0
-3101	544558	1	4	901	8	Ladislava	Heřmanová	F			54	učitelka	Hrdějovice	99	80	0
-3101	544558	1	4	901	9	Radek	Rehanzl	M			31	řidič-pošt.doručovatel	Hrdějovice	99	80	0
-3101	544558	1	4	901	10	Lenka	Suchanová	F			21	studentka	Hrdějovice	99	80	0
-3101	544558	1	4	901	11	Miroslav	Šnorek	M			44	údržbář	Hrdějovice	99	80	0
-3101	544558	1	5	902	1	František	Bürger	M	Ing.		48	podnikatel	Hrdějovice	99	80	0
-3101	544558	1	5	902	2	Milan	Štěpka	M			52	podnikatel	Hrdějovice	99	80	0
-3101	544558	1	5	902	3	Marie	Kučerová	F	Ing.		46	technik	Hrdějovice	99	80	0
-3101	544558	1	5	902	4	Jana	Tůmová	F			62	důchodce	Hrdějovice	99	80	0
-3101	544558	1	5	902	5	Martin	Šulista	M			31	seřizovač	Opatovice	99	80	0
-3101	544558	1	5	902	6	Jan	Cimbulka	M			44	podnikatel	Hrdějovice	99	80	0
-3101	544558	1	5	902	7	Milan	Kápl	M			42	státní zaměstnanec	Hrdějovice	99	80	0
-3101	544558	1	5	902	8	Karel	Peterka	M			58	podnikatel	Hrdějovice	99	80	0
-3101	544558	1	5	902	9	Miloš	Lepič	M	Ing.		46	manažer dopravy	Hrdějovice	99	80	0
-3101	544558	1	5	902	10	Václav	Kučera	M			60	traktorista	Opatovice	99	80	0
-3101	544558	1	5	902	11	Vladislava	Pechoušová	F			37	podnikatelka	Hrdějovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	544558	1	1	7	1	Jiří	Válek	Ing.		42	ekonom	Hrdějovice	7	7	0	M
+3101	544558	1	2	5	1	Ivan	Venclík	RNDr.		70	důchodce	Hrdějovice	5	5	0	M
+3101	544558	1	3	1	1	Jan	Černoch			70	starosta obce	Hrdějovice	99	1	0	M
+3101	544558	1	4	901	1	Jana	Lepičová			47	OSVČ	Hrdějovice	99	80	0	F
+3101	544558	1	5	902	1	František	Bürger	Ing.		48	podnikatel	Hrdějovice	99	80	0	M
+3101	544558	1	1	7	2	Jiří	Severa	Ing.		47	předseda družstva	Hrdějovice	99	7	0	M
+3101	544558	1	2	5	2	Drahomíra	Venclíková	Mgr.		61	v domácnosti	Hrdějovice	5	5	0	F
+3101	544558	1	3	1	2	Josef	Eliáš			44	podnikatel	Hrdějovice	99	1	0	M
+3101	544558	1	4	901	2	Jan	Suchan			48	stavbyvedoucí	Hrdějovice	99	80	0	M
+3101	544558	1	5	902	2	Milan	Štěpka			52	podnikatel	Hrdějovice	99	80	0	M
+3101	544558	1	1	7	3	Čestmír	Kodada			36	technický prac.	Hrdějovice	99	7	0	M
+3101	544558	1	3	1	3	Vít	Waldhauser	MUDr.		50	lékař	Hrdějovice	1	1	0	M
+3101	544558	1	4	901	3	František	Hamberger			52	zásobovač	Hrdějovice	99	80	0	M
+3101	544558	1	5	902	3	Marie	Kučerová	Ing.		46	technik	Hrdějovice	99	80	0	F
+3101	544558	1	1	7	4	Pavel	Mašek			22	voják z povolání	Hrdějovice	99	7	0	M
+3101	544558	1	3	1	4	František	Rachač	Ing.		44	geolog	Hrdějovice	99	1	0	M
+3101	544558	1	4	901	4	Jiří	Fajtl			28	trenér profesního jednání	Hrdějovice	99	80	0	M
+3101	544558	1	5	902	4	Jana	Tůmová			62	důchodce	Hrdějovice	99	80	0	F
+3101	544558	1	1	7	5	Lukáš	Kadoun			23	student	Hrdějovice	99	7	0	M
+3101	544558	1	3	1	5	Jaroslav	Janda	Ing.		49	jednatel společnosti	Hrdějovice	99	1	0	M
+3101	544558	1	4	901	5	Vladimír	Ira			46	zástupce ředitele	Hrdějovice	99	80	0	M
+3101	544558	1	5	902	5	Martin	Šulista			31	seřizovač	Opatovice	99	80	0	M
+3101	544558	1	1	7	6	Petr	Arbet			45	zootechnik	Hrdějovice	7	7	0	M
+3101	544558	1	3	1	6	Karel	Novák	Ing.		62	důchodce	Hrdějovice	1	1	0	M
+3101	544558	1	4	901	6	František	Rehanzl			29	servisní technik	Hrdějovice	99	80	0	M
+3101	544558	1	5	902	6	Jan	Cimbulka			44	podnikatel	Hrdějovice	99	80	0	M
+3101	544558	1	1	7	7	Josef	Trávníček			77	důchodce	Hrdějovice	99	7	0	M
+3101	544558	1	3	1	7	Irena	Hellerová			47	zdravotní sestra	Hrdějovice	99	1	0	F
+3101	544558	1	4	901	7	František	Holomel			53	servisní technik	Hrdějovice	99	80	0	M
+3101	544558	1	5	902	7	Milan	Kápl			42	státní zaměstnanec	Hrdějovice	99	80	0	M
+3101	544558	1	4	901	8	Ladislava	Heřmanová			54	učitelka	Hrdějovice	99	80	0	F
+3101	544558	1	5	902	8	Karel	Peterka			58	podnikatel	Hrdějovice	99	80	0	M
+3101	544558	1	4	901	9	Radek	Rehanzl			31	řidič-pošt.doručovatel	Hrdějovice	99	80	0	M
+3101	544558	1	5	902	9	Miloš	Lepič	Ing.		46	manažer dopravy	Hrdějovice	99	80	0	M
+3101	544558	1	4	901	10	Lenka	Suchanová			21	studentka	Hrdějovice	99	80	0	F
+3101	544558	1	5	902	10	Václav	Kučera			60	traktorista	Opatovice	99	80	0	M
+3101	544558	1	4	901	11	Miroslav	Šnorek			44	údržbář	Hrdějovice	99	80	0	M
+3101	544558	1	5	902	11	Vladislava	Pechoušová			37	podnikatelka	Hrdějovice	99	80	0	F

@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3106	551635	1	1	488	1	Jiří	Hůla	M	Mgr.		56	pedagog	Úlehle	99	80	0
-3106	551635	1	1	488	2	Petr	Vittek	M	Bc.		23	student	Předslavice	144	144	0
-3106	551635	1	1	488	3	Lenka	Šrotová	F	Mgr.		39	pojišťovací zprostředkovatel	Předslavice	99	80	0
-3106	551635	1	1	488	4	Jana	Matuská	F			42	dělnice	Úlehle	99	80	0
-3106	551635	1	1	488	5	Petr	Frnoch	M			35	zedník	Předslavice	99	80	0
-3106	551635	1	1	488	6	Pavel	Heřman	M			41	truhlář	Úlehle	99	80	0
-3106	551635	1	1	488	7	Pavel	Maroušek	M			31	zedník	Předslavice	99	80	0
-3106	551635	1	1	488	8	Lenka	Jablečníková	F		DiS.	43	zdravotní sestra	Úlehle	99	80	0
-3106	551635	1	1	488	9	Stanislav	Šrot	M	Ing. arch.		40	architekt	Předslavice	99	80	0
-3106	551635	1	2	901	1	Miroslav	Šafránek	M	Ing.		49	ředitel	Marčovice	99	80	0
-3106	551635	1	2	901	2	Pavel	Kudrle	M			55	mechanizátor	Předslavice	99	80	0
-3106	551635	1	2	901	3	Jana	Chvostová	F	Ing.		37	zootechnik	Kakovice	99	80	0
-3106	551635	1	2	901	4	Václav	Hubr	M			43	soukromý podnikatel	Všechlapy	99	80	0
-3106	551635	1	2	901	5	Marek	Šejna	M			39	řidič	Úlehle	99	80	0
-3106	551635	1	2	901	6	Vladimír	Komrska	M			36	státní zaměstnanec	Marčovice	99	80	0
-3106	551635	1	2	901	7	Tomáš	Kudrle	M			30	elektrikář	Předslavice	99	80	0
-3106	551635	1	2	901	8	Ladislav	Šašek	M			31	truhlář	Úlehle	99	80	0
-3106	551635	1	2	901	9	Václav	Boška	M			39	řidič - opravář	Předslavice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3106	551635	1	1	488	1	Jiří	Hůla	Mgr.		56	pedagog	Úlehle	99	80	0	M
+3106	551635	1	2	901	1	Miroslav	Šafránek	Ing.		49	ředitel	Marčovice	99	80	0	M
+3106	551635	1	1	488	2	Petr	Vittek	Bc.		23	student	Předslavice	144	144	0	M
+3106	551635	1	2	901	2	Pavel	Kudrle			55	mechanizátor	Předslavice	99	80	0	M
+3106	551635	1	1	488	3	Lenka	Šrotová	Mgr.		39	pojišťovací zprostředkovatel	Předslavice	99	80	0	F
+3106	551635	1	2	901	3	Jana	Chvostová	Ing.		37	zootechnik	Kakovice	99	80	0	F
+3106	551635	1	1	488	4	Jana	Matuská			42	dělnice	Úlehle	99	80	0	F
+3106	551635	1	2	901	4	Václav	Hubr			43	soukromý podnikatel	Všechlapy	99	80	0	M
+3106	551635	1	1	488	5	Petr	Frnoch			35	zedník	Předslavice	99	80	0	M
+3106	551635	1	2	901	5	Marek	Šejna			39	řidič	Úlehle	99	80	0	M
+3106	551635	1	1	488	6	Pavel	Heřman			41	truhlář	Úlehle	99	80	0	M
+3106	551635	1	2	901	6	Vladimír	Komrska			36	státní zaměstnanec	Marčovice	99	80	0	M
+3106	551635	1	1	488	7	Pavel	Maroušek			31	zedník	Předslavice	99	80	0	M
+3106	551635	1	2	901	7	Tomáš	Kudrle			30	elektrikář	Předslavice	99	80	0	M
+3106	551635	1	1	488	8	Lenka	Jablečníková		DiS.	43	zdravotní sestra	Úlehle	99	80	0	F
+3106	551635	1	2	901	8	Ladislav	Šašek			31	truhlář	Úlehle	99	80	0	M
+3106	551635	1	1	488	9	Stanislav	Šrot	Ing. arch.		40	architekt	Předslavice	99	80	0	M
+3106	551635	1	2	901	9	Václav	Boška			39	řidič - opravář	Předslavice	99	80	0	M

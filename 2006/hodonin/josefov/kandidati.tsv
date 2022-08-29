@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6205	586234	1	1	901	1	Lubomír	Marčík	M			46	stolař	Josefov	99	80	0
-6205	586234	1	1	901	2	Ivan	Janošek	M			40	prodavač	Josefov	99	80	0
-6205	586234	1	1	901	3	Václav	Tománek	M			37	OSVČ	Josefov	99	80	0
-6205	586234	1	1	901	4	Leoš	Prčík	M			37	zámečník	Josefov	99	80	0
-6205	586234	1	1	901	5	Roman	Šeďa	M			34	automechanik	Josefov	99	80	0
-6205	586234	1	1	901	6	Martina	Zapletalová	F			38	OSVČ	Josefov	99	80	0
-6205	586234	1	1	901	7	Jana	Prčíková	F			40	referentka	Josefov	99	80	0
-6205	586234	1	2	1	1	Přemysl	Růžička	M			42	technický ředitel	Josefov	1	1	0
-6205	586234	1	2	1	2	Vojtěch	Pospíšil	M			30	technik	Josefov	1	1	0
-6205	586234	1	2	1	3	Viktor	Machač	M			41	informatik	Josefov	99	1	0
-6205	586234	1	2	1	4	Emil	Vnenčák	M			28	řidič	Josefov	99	1	0
-6205	586234	1	2	1	5	Miroslav	Hradil	M			65	důchodce	Josefov	1	1	0
-6205	586234	1	2	1	6	Lenka	Rebendová	F			37	úřednice	Josefov	99	1	0
-6205	586234	1	2	1	7	Tomáš	Salajka	M	Ing.		32	komisař požární ochrany	Josefov	99	1	0
-6205	586234	1	2	1	8	Pavla	Rampáčková	F			33	úřednice	Josefov	99	1	0
-6205	586234	1	2	1	9	Josef	Petráš	M			33	elektromechanik	Josefov	99	1	0
-6205	586234	1	3	902	1	Jan	Netík	M			56	strojvedoucí	Josefov	99	80	0
-6205	586234	1	3	902	2	Stanislav	Pavka	M			52	starosta obce	Josefov	99	80	0
-6205	586234	1	3	902	3	Josef	Bílek	M			43	soukromý zemědělec	Josefov	99	80	0
-6205	586234	1	3	902	4	Antonín	Šupa	M			33	dělník	Josefov	99	80	0
-6205	586234	1	3	902	5	Jitka	Typltová	F	Mgr. Ing.		35	v domácnosti	Josefov	99	80	0
-6205	586234	1	3	902	6	Petr	Nesvadba	M			45	dělník	Josefov	99	80	0
-6205	586234	1	3	902	7	Růžena	Hasilová	F			52	dělnice	Josefov	99	80	0
-6205	586234	1	3	902	8	Milan	Netík	M			32	dělník	Josefov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6205	586234	1	1	901	1	Lubomír	Marčík			46	stolař	Josefov	99	80	0	M
+6205	586234	1	2	1	1	Přemysl	Růžička			42	technický ředitel	Josefov	1	1	0	M
+6205	586234	1	3	902	1	Jan	Netík			56	strojvedoucí	Josefov	99	80	0	M
+6205	586234	1	1	901	2	Ivan	Janošek			40	prodavač	Josefov	99	80	0	M
+6205	586234	1	2	1	2	Vojtěch	Pospíšil			30	technik	Josefov	1	1	0	M
+6205	586234	1	3	902	2	Stanislav	Pavka			52	starosta obce	Josefov	99	80	0	M
+6205	586234	1	1	901	3	Václav	Tománek			37	OSVČ	Josefov	99	80	0	M
+6205	586234	1	2	1	3	Viktor	Machač			41	informatik	Josefov	99	1	0	M
+6205	586234	1	3	902	3	Josef	Bílek			43	soukromý zemědělec	Josefov	99	80	0	M
+6205	586234	1	1	901	4	Leoš	Prčík			37	zámečník	Josefov	99	80	0	M
+6205	586234	1	2	1	4	Emil	Vnenčák			28	řidič	Josefov	99	1	0	M
+6205	586234	1	3	902	4	Antonín	Šupa			33	dělník	Josefov	99	80	0	M
+6205	586234	1	1	901	5	Roman	Šeďa			34	automechanik	Josefov	99	80	0	M
+6205	586234	1	2	1	5	Miroslav	Hradil			65	důchodce	Josefov	1	1	0	M
+6205	586234	1	3	902	5	Jitka	Typltová	Mgr. Ing.		35	v domácnosti	Josefov	99	80	0	F
+6205	586234	1	1	901	6	Martina	Zapletalová			38	OSVČ	Josefov	99	80	0	F
+6205	586234	1	2	1	6	Lenka	Rebendová			37	úřednice	Josefov	99	1	0	F
+6205	586234	1	3	902	6	Petr	Nesvadba			45	dělník	Josefov	99	80	0	M
+6205	586234	1	1	901	7	Jana	Prčíková			40	referentka	Josefov	99	80	0	F
+6205	586234	1	2	1	7	Tomáš	Salajka	Ing.		32	komisař požární ochrany	Josefov	99	1	0	M
+6205	586234	1	3	902	7	Růžena	Hasilová			52	dělnice	Josefov	99	80	0	F
+6205	586234	1	2	1	8	Pavla	Rampáčková			33	úřednice	Josefov	99	1	0	F
+6205	586234	1	3	902	8	Milan	Netík			32	dělník	Josefov	99	80	0	M
+6205	586234	1	2	1	9	Josef	Petráš			33	elektromechanik	Josefov	99	1	0	M

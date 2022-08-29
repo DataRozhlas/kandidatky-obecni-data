@@ -1,38 +1,38 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5203	574554	1	1	901	1	Zdeněk	Šedivec	M			39	soukromý podnikatel	Velichovky	99	80	A
-5203	574554	1	1	901	2	Luděk	Kunc	M			46	OSVČ	Velichovky	99	80	A
-5203	574554	1	1	901	3	Jiří	Lebedinský	M			36	vedoucí kvality	Velichovky	99	80	A
-5203	574554	1	1	901	4	Václav	Moník	M			63	OSVČ	Velichovky	99	80	A
-5203	574554	1	1	901	5	Milan	Kukal	M			34	servisní technik	Velichovky	99	80	A
-5203	574554	1	1	901	6	Jiří	Filip	M			35	OSVČ	Velichovky	99	80	A
-5203	574554	1	1	901	7	Ivona	Šubrtová	F	Mgr.		27	učitelka ZŠ	Velichovky	99	80	A
-5203	574554	1	1	901	8	Milan	Klos	M	Ing.		29	inženýr kvality	Velichovky	99	80	A
-5203	574554	1	1	901	9	Kateřina	Jelínková	F			32	vedoucí prodejny O2	Hustířany	99	80	A
-5203	574554	1	1	901	10	Roman	Bláha	M	Bc.		39	IT/UX Designer	Velichovky	99	80	A
-5203	574554	1	1	901	11	Jan	Petira ml.	M			42	cukrář	Velichovky	99	80	A
-5203	574554	1	1	901	12	Jana	Kubešová	F			49	účetní	Velichovky	99	80	A
-5203	574554	1	1	901	13	Antonín	Korityák	M	Ing.		49	technik	Velichovky	99	80	A
-5203	574554	1	2	903	1	Vladimír	Jaroš	M			58	seřizovač CNC obráběcích strojů	Hustířany	99	80	A
-5203	574554	1	2	903	2	Luboš	Stradiot	M			40	řidič	Velichovky	99	80	A
-5203	574554	1	2	903	3	Monika	Novotná	F			38	vedoucí pěstitelského centra	Hustířany	99	80	A
-5203	574554	1	2	903	4	Svatava	Hojná	F			54	personalistka	Velichovky	99	80	A
-5203	574554	1	2	903	5	Eva	Rejchrtová	F	Ing.	Ph.D.	35	manager jakosti	Hustířany	99	80	A
-5203	574554	1	2	903	6	Petra	Jelínková	F			43	zdravotní sestra	Hustířany	99	80	A
-5203	574554	1	2	903	7	Josef	Filip	M			46	obráběč CNC	Velichovky	99	80	A
-5203	574554	1	2	903	8	Zdenka	Pultarová	F	Mgr.		35	zdravotní sestra	Hustířany	99	80	A
-5203	574554	1	2	903	9	Tereza	Mílová	F	Ing.		32	plánovačka výroby	Hustířany	99	80	A
-5203	574554	1	2	903	10	Jana	Tulaková	F			34	policistka	Velichovky	99	80	A
-5203	574554	1	2	903	11	Martina	Rudelová	F			42	knihařka	Hustířany	99	80	A
-5203	574554	1	2	903	12	Jiřina	Pultarová	F			61	THP	Hustířany	99	80	A
-5203	574554	1	2	903	13	Petr	Michek	M			49	seřizovač CNC obráběcích strojů	Hustířany	99	80	A
-5203	574554	1	3	902	1	Dalibor	Sova	M	Ing.		32	IT specialista	Velichovky	99	80	A
-5203	574554	1	3	902	2	Tomáš	Dohnanský	M	Ing.		48	lesní inženýr	Velichovky	99	80	A
-5203	574554	1	3	902	3	Josef	Karel	M			72	starosta	Velichovky	99	80	A
-5203	574554	1	3	902	4	Dalibor	Vopřada	M			56	technik	Velichovky	99	80	A
-5203	574554	1	3	902	5	Marek	Verner	M			44	technik	Velichovky	99	80	A
-5203	574554	1	3	902	6	Pavla	Vejrová	F	Bc.		25	učitelka mateřské školy	Velichovky	99	80	A
-5203	574554	1	3	902	7	Petr	Dvořák	M			42	operátor výroby	Velichovky	99	80	A
-5203	574554	1	3	902	8	Barbora	Rejchertová	F			39	administrativní pracovník	Velichovky	99	80	A
-5203	574554	1	3	902	9	Martin	Novotný	M			28	montér	Velichovky	99	80	A
-5203	574554	1	3	902	10	Irena	Fikejzová	F			49	referent majetkové správy	Velichovky	99	80	A
-5203	574554	1	3	902	11	Radim	Šubrt	M			48	technik	Velichovky	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5203	574554	1	1	901	1	Zdeněk	Šedivec			39	soukromý podnikatel	Velichovky	99	80	A	M
+5203	574554	1	2	903	1	Vladimír	Jaroš			58	seřizovač CNC obráběcích strojů	Hustířany	99	80	A	M
+5203	574554	1	3	902	1	Dalibor	Sova	Ing.		32	IT specialista	Velichovky	99	80	A	M
+5203	574554	1	1	901	2	Luděk	Kunc			46	OSVČ	Velichovky	99	80	A	M
+5203	574554	1	2	903	2	Luboš	Stradiot			40	řidič	Velichovky	99	80	A	M
+5203	574554	1	3	902	2	Tomáš	Dohnanský	Ing.		48	lesní inženýr	Velichovky	99	80	A	M
+5203	574554	1	1	901	3	Jiří	Lebedinský			36	vedoucí kvality	Velichovky	99	80	A	M
+5203	574554	1	2	903	3	Monika	Novotná			38	vedoucí pěstitelského centra	Hustířany	99	80	A	F
+5203	574554	1	3	902	3	Josef	Karel			72	starosta	Velichovky	99	80	A	M
+5203	574554	1	1	901	4	Václav	Moník			63	OSVČ	Velichovky	99	80	A	M
+5203	574554	1	2	903	4	Svatava	Hojná			54	personalistka	Velichovky	99	80	A	F
+5203	574554	1	3	902	4	Dalibor	Vopřada			56	technik	Velichovky	99	80	A	M
+5203	574554	1	1	901	5	Milan	Kukal			34	servisní technik	Velichovky	99	80	A	M
+5203	574554	1	2	903	5	Eva	Rejchrtová	Ing.	Ph.D.	35	manager jakosti	Hustířany	99	80	A	F
+5203	574554	1	3	902	5	Marek	Verner			44	technik	Velichovky	99	80	A	M
+5203	574554	1	1	901	6	Jiří	Filip			35	OSVČ	Velichovky	99	80	A	M
+5203	574554	1	2	903	6	Petra	Jelínková			43	zdravotní sestra	Hustířany	99	80	A	F
+5203	574554	1	3	902	6	Pavla	Vejrová	Bc.		25	učitelka mateřské školy	Velichovky	99	80	A	F
+5203	574554	1	1	901	7	Ivona	Šubrtová	Mgr.		27	učitelka ZŠ	Velichovky	99	80	A	F
+5203	574554	1	2	903	7	Josef	Filip			46	obráběč CNC	Velichovky	99	80	A	M
+5203	574554	1	3	902	7	Petr	Dvořák			42	operátor výroby	Velichovky	99	80	A	M
+5203	574554	1	1	901	8	Milan	Klos	Ing.		29	inženýr kvality	Velichovky	99	80	A	M
+5203	574554	1	2	903	8	Zdenka	Pultarová	Mgr.		35	zdravotní sestra	Hustířany	99	80	A	F
+5203	574554	1	3	902	8	Barbora	Rejchertová			39	administrativní pracovník	Velichovky	99	80	A	F
+5203	574554	1	1	901	9	Kateřina	Jelínková			32	vedoucí prodejny O2	Hustířany	99	80	A	F
+5203	574554	1	2	903	9	Tereza	Mílová	Ing.		32	plánovačka výroby	Hustířany	99	80	A	F
+5203	574554	1	3	902	9	Martin	Novotný			28	montér	Velichovky	99	80	A	M
+5203	574554	1	1	901	10	Roman	Bláha	Bc.		39	IT/UX Designer	Velichovky	99	80	A	M
+5203	574554	1	2	903	10	Jana	Tulaková			34	policistka	Velichovky	99	80	A	F
+5203	574554	1	3	902	10	Irena	Fikejzová			49	referent majetkové správy	Velichovky	99	80	A	F
+5203	574554	1	1	901	11	Jan	Petira ml.			42	cukrář	Velichovky	99	80	A	M
+5203	574554	1	2	903	11	Martina	Rudelová			42	knihařka	Hustířany	99	80	A	F
+5203	574554	1	3	902	11	Radim	Šubrt			48	technik	Velichovky	99	80	A	M
+5203	574554	1	1	901	12	Jana	Kubešová			49	účetní	Velichovky	99	80	A	F
+5203	574554	1	2	903	12	Jiřina	Pultarová			61	THP	Hustířany	99	80	A	F
+5203	574554	1	1	901	13	Antonín	Korityák	Ing.		49	technik	Velichovky	99	80	A	M
+5203	574554	1	2	903	13	Petr	Michek			49	seřizovač CNC obráběcích strojů	Hustířany	99	80	A	M

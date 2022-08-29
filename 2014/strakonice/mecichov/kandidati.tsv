@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3106	551392	1	1	47	1	Milan	Klečka	M			50	OSVČ	Mečichov	47	47	0
-3106	551392	1	1	47	2	Václav	Bašta	M			54	řidič	Mečichov	99	47	0
-3106	551392	1	1	47	3	Evžen	Novák	M			40	nástrojař	Mečichov	99	47	0
-3106	551392	1	1	47	4	Hana	Klečková	F			45	zdravotní sestra	Mečichov	99	47	0
-3106	551392	1	1	47	5	Karel	Šána	M			60	dělník	Mečichov	99	47	0
-3106	551392	1	1	47	6	Alena	Šánová	F			63	důchodkyně	Mečichov	99	47	0
-3106	551392	1	1	47	7	Pavel	Holubička	M			43	dělník	Mečichov	99	47	0
-3106	551392	1	2	901	1	Josef	Sýkora	M			41	informatik	Mečichov	99	80	0
-3106	551392	1	2	901	2	Pavel	Klečka	M			33	manažer prodeje	Mečichov	99	80	0
-3106	551392	1	2	901	3	Tomáš	Klečka	M	Mgr.		33	právník	Mečichov	99	80	0
-3106	551392	1	2	901	4	Jaroslav	Plechatý	M			30	produktový manažer	Mečichov	99	80	0
-3106	551392	1	2	901	5	Marcela	Cibulková	F			41	podnikatelka	Mečichov	99	80	0
-3106	551392	1	2	901	6	Václav	Valenta	M			46	živnostník	Mečichov	99	80	0
-3106	551392	1	2	901	7	František	Mašek	M			29	řidič	Mečichov	99	80	0
-3106	551392	1	2	901	8	Pavel	Kopečný	M			24	technik	Mečichov	99	80	0
-3106	551392	1	2	901	9	Karla	Hokrová	F			40	prodavačka	Mečichov	99	80	0
-3106	551392	1	3	902	1	Petr	Hrba	M			48	skladník	Mečichov	99	80	0
-3106	551392	1	3	902	2	Josef	Křivanec	M			40	OSVČ	Mečichov	99	80	0
-3106	551392	1	3	902	3	Josef	Kadaně	M			60	automechanik	Mečichov	99	80	0
-3106	551392	1	3	902	4	Miroslav	Kadaně	M			33	automechanik	Mečichov	99	80	0
-3106	551392	1	3	902	5	Petr	Slanec	M			45	truhlář	Mečichov	99	80	0
-3106	551392	1	3	902	6	Vojtěch	Malý	M			49	řidič	Mečichov	99	80	0
-3106	551392	1	4	470	1	Petr	Finěk	M	Bc.		42	pojišťovací poradce	Mečichov	99	166	0
-3106	551392	1	4	470	2	František	Polan	M			57	zedník	Mečichov	99	80	0
-3106	551392	1	4	470	3	Pavlína	Plechatá	F			27	administrativní pracovnice	Mečichov	99	80	0
-3106	551392	1	4	470	4	Karel	Zach	M			58	řidič	Mečichov	99	80	0
-3106	551392	1	4	470	5	Josef	Lávička	M			28	prodejce	Mečichov	99	80	0
-3106	551392	1	4	470	6	Martin	Zach	M			34	dělník	Mečichov	99	80	0
-3106	551392	1	4	470	7	Miloslav	Slavík	M			46	obráběč kovů	Mečichov	99	80	0
-3106	551392	1	4	470	8	Pavel	Slanec	M			44	řidič	Mečichov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3106	551392	1	1	47	1	Milan	Klečka			50	OSVČ	Mečichov	47	47	0	M
+3106	551392	1	2	901	1	Josef	Sýkora			41	informatik	Mečichov	99	80	0	M
+3106	551392	1	3	902	1	Petr	Hrba			48	skladník	Mečichov	99	80	0	M
+3106	551392	1	4	470	1	Petr	Finěk	Bc.		42	pojišťovací poradce	Mečichov	99	166	0	M
+3106	551392	1	1	47	2	Václav	Bašta			54	řidič	Mečichov	99	47	0	M
+3106	551392	1	2	901	2	Pavel	Klečka			33	manažer prodeje	Mečichov	99	80	0	M
+3106	551392	1	3	902	2	Josef	Křivanec			40	OSVČ	Mečichov	99	80	0	M
+3106	551392	1	4	470	2	František	Polan			57	zedník	Mečichov	99	80	0	M
+3106	551392	1	1	47	3	Evžen	Novák			40	nástrojař	Mečichov	99	47	0	M
+3106	551392	1	2	901	3	Tomáš	Klečka	Mgr.		33	právník	Mečichov	99	80	0	M
+3106	551392	1	3	902	3	Josef	Kadaně			60	automechanik	Mečichov	99	80	0	M
+3106	551392	1	4	470	3	Pavlína	Plechatá			27	administrativní pracovnice	Mečichov	99	80	0	F
+3106	551392	1	1	47	4	Hana	Klečková			45	zdravotní sestra	Mečichov	99	47	0	F
+3106	551392	1	2	901	4	Jaroslav	Plechatý			30	produktový manažer	Mečichov	99	80	0	M
+3106	551392	1	3	902	4	Miroslav	Kadaně			33	automechanik	Mečichov	99	80	0	M
+3106	551392	1	4	470	4	Karel	Zach			58	řidič	Mečichov	99	80	0	M
+3106	551392	1	1	47	5	Karel	Šána			60	dělník	Mečichov	99	47	0	M
+3106	551392	1	2	901	5	Marcela	Cibulková			41	podnikatelka	Mečichov	99	80	0	F
+3106	551392	1	3	902	5	Petr	Slanec			45	truhlář	Mečichov	99	80	0	M
+3106	551392	1	4	470	5	Josef	Lávička			28	prodejce	Mečichov	99	80	0	M
+3106	551392	1	1	47	6	Alena	Šánová			63	důchodkyně	Mečichov	99	47	0	F
+3106	551392	1	2	901	6	Václav	Valenta			46	živnostník	Mečichov	99	80	0	M
+3106	551392	1	3	902	6	Vojtěch	Malý			49	řidič	Mečichov	99	80	0	M
+3106	551392	1	4	470	6	Martin	Zach			34	dělník	Mečichov	99	80	0	M
+3106	551392	1	1	47	7	Pavel	Holubička			43	dělník	Mečichov	99	47	0	M
+3106	551392	1	2	901	7	František	Mašek			29	řidič	Mečichov	99	80	0	M
+3106	551392	1	4	470	7	Miloslav	Slavík			46	obráběč kovů	Mečichov	99	80	0	M
+3106	551392	1	2	901	8	Pavel	Kopečný			24	technik	Mečichov	99	80	0	M
+3106	551392	1	4	470	8	Pavel	Slanec			44	řidič	Mečichov	99	80	0	M
+3106	551392	1	2	901	9	Karla	Hokrová			40	prodavačka	Mečichov	99	80	0	F

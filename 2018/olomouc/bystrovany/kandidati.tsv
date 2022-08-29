@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	547026	1	1	166	1	Radek	Sklenář	M			54	elektromontér	Bystrovany	99	166	A
-7102	547026	1	1	166	2	Matěj	Smětal	M			25	živnostník	Bystrovany	99	166	A
-7102	547026	1	1	166	3	Martin	Sklenář	M			27	živnostník	Bystrovany	99	166	A
-7102	547026	1	1	166	4	Pavel	Žádník	M			54	autoelektrikář	Bystrovany	99	166	A
-7102	547026	1	1	166	5	Roman	Künstler	M			54	řidič	Bystrovany	99	166	A
-7102	547026	1	1	166	6	Jiří	Kroupa	M			45	elektrikář	Bystrovany	99	166	A
-7102	547026	1	1	166	7	Zbyněk	Mossler	M			40	stolař	Bystrovany	99	166	A
-7102	547026	1	1	166	8	Petr	Dolínek	M			39	živnostník	Bystrovany	99	166	A
-7102	547026	1	1	166	9	Stanislav	Symerský	M			57	živnostník	Bystrovany	99	166	A
-7102	547026	1	2	901	1	Tomáš	Smékal	M	Ing.		36	manažer v dopravě	Bystrovany	99	80	A
-7102	547026	1	2	901	2	Antonín	Bryks	M	PhDr.		42	psycholog	Bystrovany	99	80	A
-7102	547026	1	2	901	3	Richard	Janalík	M	Bc.		44	obchodní ředitel výrobní společnosti	Bystrovany	99	80	A
-7102	547026	1	2	901	4	Štefan	Mareništiak	M			38	stavební dělník	Bystrovany	99	80	A
-7102	547026	1	2	901	5	Ondřej	Račanský	M			26	konstruktér	Bystrovany	99	80	A
-7102	547026	1	2	901	6	Pavel	Tichý	M			41	živnostník	Bystrovany	99	80	A
-7102	547026	1	2	901	7	Jarmila	Dolínková	F			70	důchodce	Bystrovany	99	80	A
-7102	547026	1	2	901	8	Jiří	Rysnar	M	Ing.		32	programátor	Bystrovany	99	80	A
-7102	547026	1	2	901	9	Hana	Vagnerová	F	Ing.		45	starostka obce	Bystrovany	99	80	A
-7102	547026	1	3	1	1	Jan	Košťálek	M			35	jednatel	Bystrovany	99	1	A
-7102	547026	1	3	1	2	Radim	Černín	M			54	hudebník	Bystrovany	99	1	A
-7102	547026	1	3	1	3	Lubomír	Pazdera	M			38	projektant	Bystrovany	99	1	A
-7102	547026	1	3	1	4	Marie	Plesková	F			61	důchodce	Bystrovany	1	1	A
-7102	547026	1	3	1	5	Jiří	Kroupa	M	Ing.		47	podnikatel	Bystrovany	99	1	A
-7102	547026	1	3	1	6	Jiří	Pleska	M	Bc.		28	skladový vedoucí	Bystrovany	99	1	A
-7102	547026	1	3	1	7	Alena	Bělovská	F			48	personalista	Bystrovany	99	1	A
-7102	547026	1	3	1	8	Ludmila	Koudeláková	F	Mgr.	Ph.D.	39	učitelka	Bystrovany	99	1	A
-7102	547026	1	3	1	9	Jiří	Hroch	M			37	bezpečnostní technik	Bystrovany	99	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	547026	1	1	166	1	Radek	Sklenář			54	elektromontér	Bystrovany	99	166	A	M
+7102	547026	1	2	901	1	Tomáš	Smékal	Ing.		36	manažer v dopravě	Bystrovany	99	80	A	M
+7102	547026	1	3	1	1	Jan	Košťálek			35	jednatel	Bystrovany	99	1	A	M
+7102	547026	1	1	166	2	Matěj	Smětal			25	živnostník	Bystrovany	99	166	A	M
+7102	547026	1	2	901	2	Antonín	Bryks	PhDr.		42	psycholog	Bystrovany	99	80	A	M
+7102	547026	1	3	1	2	Radim	Černín			54	hudebník	Bystrovany	99	1	A	M
+7102	547026	1	1	166	3	Martin	Sklenář			27	živnostník	Bystrovany	99	166	A	M
+7102	547026	1	2	901	3	Richard	Janalík	Bc.		44	obchodní ředitel výrobní společnosti	Bystrovany	99	80	A	M
+7102	547026	1	3	1	3	Lubomír	Pazdera			38	projektant	Bystrovany	99	1	A	M
+7102	547026	1	1	166	4	Pavel	Žádník			54	autoelektrikář	Bystrovany	99	166	A	M
+7102	547026	1	2	901	4	Štefan	Mareništiak			38	stavební dělník	Bystrovany	99	80	A	M
+7102	547026	1	3	1	4	Marie	Plesková			61	důchodce	Bystrovany	1	1	A	F
+7102	547026	1	1	166	5	Roman	Künstler			54	řidič	Bystrovany	99	166	A	M
+7102	547026	1	2	901	5	Ondřej	Račanský			26	konstruktér	Bystrovany	99	80	A	M
+7102	547026	1	3	1	5	Jiří	Kroupa	Ing.		47	podnikatel	Bystrovany	99	1	A	M
+7102	547026	1	1	166	6	Jiří	Kroupa			45	elektrikář	Bystrovany	99	166	A	M
+7102	547026	1	2	901	6	Pavel	Tichý			41	živnostník	Bystrovany	99	80	A	M
+7102	547026	1	3	1	6	Jiří	Pleska	Bc.		28	skladový vedoucí	Bystrovany	99	1	A	M
+7102	547026	1	1	166	7	Zbyněk	Mossler			40	stolař	Bystrovany	99	166	A	M
+7102	547026	1	2	901	7	Jarmila	Dolínková			70	důchodce	Bystrovany	99	80	A	F
+7102	547026	1	3	1	7	Alena	Bělovská			48	personalista	Bystrovany	99	1	A	F
+7102	547026	1	1	166	8	Petr	Dolínek			39	živnostník	Bystrovany	99	166	A	M
+7102	547026	1	2	901	8	Jiří	Rysnar	Ing.		32	programátor	Bystrovany	99	80	A	M
+7102	547026	1	3	1	8	Ludmila	Koudeláková	Mgr.	Ph.D.	39	učitelka	Bystrovany	99	1	A	F
+7102	547026	1	1	166	9	Stanislav	Symerský			57	živnostník	Bystrovany	99	166	A	M
+7102	547026	1	2	901	9	Hana	Vagnerová	Ing.		45	starostka obce	Bystrovany	99	80	A	F
+7102	547026	1	3	1	9	Jiří	Hroch			37	bezpečnostní technik	Bystrovany	99	1	A	M

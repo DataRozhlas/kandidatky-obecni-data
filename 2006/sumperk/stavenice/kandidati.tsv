@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	570281	1	1	803	1	Michal	Zamrzla	M			25	prodavač	Stavenice	99	80	0
-7105	570281	1	2	804	1	Michaela	Šemberová	F			30	dělnice	Stavenice	99	80	0
-7105	570281	1	3	801	1	Antonín	Jílek	M			35	nezaměstnaný	Stavenice	99	80	0
-7105	570281	1	4	7	1	Radek	Bittner	M	Ing.		39	logistik	Stavenice	7	7	0
-7105	570281	1	4	7	2	Jana	Rosecká	F			45	dělník	Stavenice	99	7	0
-7105	570281	1	4	7	3	Kamil	Kašík	M			24	obchodní zástupce	Stavenice	99	7	0
-7105	570281	1	4	7	4	Jana	Zahradníčková	F			25	dělník	Stavenice	99	7	0
-7105	570281	1	4	7	5	Jaroslav	Rosecký	M			24	výrobní specialista	Stavenice	99	7	0
-7105	570281	1	5	802	1	Roman	Mucha	M			36	dělník	Stavenice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	570281	1	1	803	1	Michal	Zamrzla			25	prodavač	Stavenice	99	80	0	M
+7105	570281	1	2	804	1	Michaela	Šemberová			30	dělnice	Stavenice	99	80	0	F
+7105	570281	1	3	801	1	Antonín	Jílek			35	nezaměstnaný	Stavenice	99	80	0	M
+7105	570281	1	4	7	1	Radek	Bittner	Ing.		39	logistik	Stavenice	7	7	0	M
+7105	570281	1	5	802	1	Roman	Mucha			36	dělník	Stavenice	99	80	0	M
+7105	570281	1	4	7	2	Jana	Rosecká			45	dělník	Stavenice	99	7	0	F
+7105	570281	1	4	7	3	Kamil	Kašík			24	obchodní zástupce	Stavenice	99	7	0	M
+7105	570281	1	4	7	4	Jana	Zahradníčková			25	dělník	Stavenice	99	7	0	F
+7105	570281	1	4	7	5	Jaroslav	Rosecký			24	výrobní specialista	Stavenice	99	7	0	M

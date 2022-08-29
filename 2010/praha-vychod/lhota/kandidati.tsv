@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2109	534986	1	1	903	1	Pavel	Dvořák	M	Ing.		32	Konstruktér	Lhota	99	80	0
-2109	534986	1	1	903	2	Pavlína	Krkavcová	F			33	Účetní	Lhota	99	80	0
-2109	534986	1	1	903	3	Jan	Jakub	M			27	Grafik	Lhota	99	80	0
-2109	534986	1	1	903	4	Jiří	Kolínský	M			32	Obchodní zástupce	Lhota	99	80	0
-2109	534986	1	1	903	5	Jaroslav	Krkavec	M			22	Odborný poradce	Lhota	99	80	0
-2109	534986	1	1	903	6	Pavel	Tirner	M			38	Podnikatel	Lhota	99	80	0
-2109	534986	1	1	903	7	Josef	Novotný	M			37	Podnikatel	Lhota	99	80	0
-2109	534986	1	2	901	1	Jan	Krkavec	M			63	starosta obce	Lhota	99	80	0
-2109	534986	1	2	901	2	Petr	Bayer	M			34	vedoucí expedice	Lhota	99	80	0
-2109	534986	1	2	901	3	Radka	Kratochvílová	F	Bc.	DiS.	29	podnikatelka	Lhota	99	80	0
-2109	534986	1	2	901	4	Václav	Slezák	M	Mgr.		58	ředitel obch. společnosti	Lhota	99	80	0
-2109	534986	1	2	901	5	František	Klíma	M			35	soukr. hosp. rolník	Lhota	99	80	0
-2109	534986	1	2	901	6	Růžena	Rejšková	F			50	učitelka MŠ	Lhota	99	80	0
-2109	534986	1	2	901	7	Marie	Nyklíčková	F			55	úřednice	Lhota	99	80	0
-2109	534986	1	2	901	8	Jiří	Ďásek	M			66	důchodce	Lhota	99	80	0
-2109	534986	1	2	901	9	František	Koudelka	M			39	zámečník	Lhota	99	80	0
-2109	534986	1	3	902	1	Alena	Kopejsková	F			46	soukr.hosp.rolník	Lhota	99	80	0
-2109	534986	1	3	902	2	Renata	Prokešová	F	Bc.		36	metodik ošetř. péče	Lhota	99	80	0
-2109	534986	1	3	902	3	Marie	Marková	F	Mgr.		62	učitelka ZŠ	Lhota	99	80	0
-2109	534986	1	3	902	4	Markéta	Klímová	F			33	sekretářka	Lhota	99	80	0
-2109	534986	1	3	902	5	Tomáš	Brzobohatý	M			25	podnikatel	Lhota	99	80	0
-2109	534986	1	3	902	6	Andrea	Malíková	F			37	finační účetní	Lhota	99	80	0
-2109	534986	1	3	902	7	Ivana	Kolínská	F	Ing.		32	výzkumný pracovník	Lhota	99	80	0
-2109	534986	1	3	902	8	Josef	Štěpán	M	Ing.		46	soukr. hosp. rolník	Lhota	99	80	0
-2109	534986	1	3	902	9	František	Uřidil	M			45	nástrojař	Lhota	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2109	534986	1	1	903	1	Pavel	Dvořák	Ing.		32	Konstruktér	Lhota	99	80	0	M
+2109	534986	1	2	901	1	Jan	Krkavec			63	starosta obce	Lhota	99	80	0	M
+2109	534986	1	3	902	1	Alena	Kopejsková			46	soukr.hosp.rolník	Lhota	99	80	0	F
+2109	534986	1	1	903	2	Pavlína	Krkavcová			33	Účetní	Lhota	99	80	0	F
+2109	534986	1	2	901	2	Petr	Bayer			34	vedoucí expedice	Lhota	99	80	0	M
+2109	534986	1	3	902	2	Renata	Prokešová	Bc.		36	metodik ošetř. péče	Lhota	99	80	0	F
+2109	534986	1	1	903	3	Jan	Jakub			27	Grafik	Lhota	99	80	0	M
+2109	534986	1	2	901	3	Radka	Kratochvílová	Bc.	DiS.	29	podnikatelka	Lhota	99	80	0	F
+2109	534986	1	3	902	3	Marie	Marková	Mgr.		62	učitelka ZŠ	Lhota	99	80	0	F
+2109	534986	1	1	903	4	Jiří	Kolínský			32	Obchodní zástupce	Lhota	99	80	0	M
+2109	534986	1	2	901	4	Václav	Slezák	Mgr.		58	ředitel obch. společnosti	Lhota	99	80	0	M
+2109	534986	1	3	902	4	Markéta	Klímová			33	sekretářka	Lhota	99	80	0	F
+2109	534986	1	1	903	5	Jaroslav	Krkavec			22	Odborný poradce	Lhota	99	80	0	M
+2109	534986	1	2	901	5	František	Klíma			35	soukr. hosp. rolník	Lhota	99	80	0	M
+2109	534986	1	3	902	5	Tomáš	Brzobohatý			25	podnikatel	Lhota	99	80	0	M
+2109	534986	1	1	903	6	Pavel	Tirner			38	Podnikatel	Lhota	99	80	0	M
+2109	534986	1	2	901	6	Růžena	Rejšková			50	učitelka MŠ	Lhota	99	80	0	F
+2109	534986	1	3	902	6	Andrea	Malíková			37	finační účetní	Lhota	99	80	0	F
+2109	534986	1	1	903	7	Josef	Novotný			37	Podnikatel	Lhota	99	80	0	M
+2109	534986	1	2	901	7	Marie	Nyklíčková			55	úřednice	Lhota	99	80	0	F
+2109	534986	1	3	902	7	Ivana	Kolínská	Ing.		32	výzkumný pracovník	Lhota	99	80	0	F
+2109	534986	1	2	901	8	Jiří	Ďásek			66	důchodce	Lhota	99	80	0	M
+2109	534986	1	3	902	8	Josef	Štěpán	Ing.		46	soukr. hosp. rolník	Lhota	99	80	0	M
+2109	534986	1	2	901	9	František	Koudelka			39	zámečník	Lhota	99	80	0	M
+2109	534986	1	3	902	9	František	Uřidil			45	nástrojař	Lhota	99	80	0	M

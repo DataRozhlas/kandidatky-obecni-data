@@ -1,20 +1,20 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4202	546518	1	1	901	1	Robert	Janča	M			38	marketingový manager	Háj	99	80	0
-4202	546518	1	1	901	2	Jiří	Kodera	M			64	OSVČ	Háj	99	80	0
-4202	546518	1	1	901	3	Michala	Tučková	F			24	operátorka ubytovacího systému	Háj	99	80	0
-4202	546518	1	1	901	4	Roman	Žák	M			46	jednatel společnosti	Háj	99	80	0
-4202	546518	1	1	901	5	Jaroslava	Grossmannová	F			64	podnikatelka	Háj	99	80	0
-4202	546518	1	1	901	6	Ondřej	Vojtěch	M	Mgr.		39	jednatel společnosti	Háj	53	80	0
-4202	546518	1	1	901	7	Martin	Píša	M			48	jednatel společnosti	Háj	99	80	0
-4202	546518	1	2	803	1	Rostislav	Velek	M	Ing.		45	starosta	Loučná	99	80	0
-4202	546518	1	3	801	1	Petr	Freiberg	M			57	letecký mechanik	Háj	99	80	0
-4202	546518	1	4	902	1	Jana	Műllerová	F	Mgr.		31	učitelka	Loučná	99	80	0
-4202	546518	1	4	902	2	Petr	Műller	M			32	technik	Loučná	99	80	0
-4202	546518	1	4	902	3	Tomáš	Ferenc	M	Ing.		30	stavební projektant	Loučná	99	80	0
-4202	546518	1	4	902	4	Lucie	Kysilková	F			31	kuchařka	Loučná	99	80	0
-4202	546518	1	4	902	5	Petr	Fila	M			36	invalidní důchodce	Loučná	99	80	0
-4202	546518	1	4	902	6	Jindřich	Fabián	M	Mgr.		70	důchodce	Háj	99	80	0
-4202	546518	1	4	902	7	Pavel	Zelenka	M			65	důchodce	Loučná	99	80	0
-4202	546518	1	5	804	1	Vladimír	Elznic	M			64	podnikatel	Loučná	99	80	0
-4202	546518	1	6	802	1	Jan	Švábík	M			36	podnikatel	Loučná	99	80	0
-4202	546518	1	7	805	1	Hana	Svěnčíková	F			59	skladnice	Háj	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4202	546518	1	1	901	1	Robert	Janča			38	marketingový manager	Háj	99	80	0	M
+4202	546518	1	2	803	1	Rostislav	Velek	Ing.		45	starosta	Loučná	99	80	0	M
+4202	546518	1	3	801	1	Petr	Freiberg			57	letecký mechanik	Háj	99	80	0	M
+4202	546518	1	4	902	1	Jana	Műllerová	Mgr.		31	učitelka	Loučná	99	80	0	F
+4202	546518	1	5	804	1	Vladimír	Elznic			64	podnikatel	Loučná	99	80	0	M
+4202	546518	1	6	802	1	Jan	Švábík			36	podnikatel	Loučná	99	80	0	M
+4202	546518	1	7	805	1	Hana	Svěnčíková			59	skladnice	Háj	99	80	0	F
+4202	546518	1	1	901	2	Jiří	Kodera			64	OSVČ	Háj	99	80	0	M
+4202	546518	1	4	902	2	Petr	Műller			32	technik	Loučná	99	80	0	M
+4202	546518	1	1	901	3	Michala	Tučková			24	operátorka ubytovacího systému	Háj	99	80	0	F
+4202	546518	1	4	902	3	Tomáš	Ferenc	Ing.		30	stavební projektant	Loučná	99	80	0	M
+4202	546518	1	1	901	4	Roman	Žák			46	jednatel společnosti	Háj	99	80	0	M
+4202	546518	1	4	902	4	Lucie	Kysilková			31	kuchařka	Loučná	99	80	0	F
+4202	546518	1	1	901	5	Jaroslava	Grossmannová			64	podnikatelka	Háj	99	80	0	F
+4202	546518	1	4	902	5	Petr	Fila			36	invalidní důchodce	Loučná	99	80	0	M
+4202	546518	1	1	901	6	Ondřej	Vojtěch	Mgr.		39	jednatel společnosti	Háj	53	80	0	M
+4202	546518	1	4	902	6	Jindřich	Fabián	Mgr.		70	důchodce	Háj	99	80	0	M
+4202	546518	1	1	901	7	Martin	Píša			48	jednatel společnosti	Háj	99	80	0	M
+4202	546518	1	4	902	7	Pavel	Zelenka			65	důchodce	Loučná	99	80	0	M

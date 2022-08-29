@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	584843	1	1	902	1	Miroslav	Effenberger	M	Ing.	DiS.	39	starosta obce	Přibice	99	80	A
-6203	584843	1	1	902	2	Petr	Kuchyňka	M			55	správce ČOV, zastupitel	Přibice	99	80	A
-6203	584843	1	1	902	3	Jiří	Netolický	M	Mgr.		28	státní zaměstnanec, zastupitel	Přibice	99	80	A
-6203	584843	1	1	902	4	Jiří	Prokeš	M			42	osoba samostatně výdělečně činná	Přibice	99	80	A
-6203	584843	1	1	902	5	Vít	Uchytil	M			48	osoba samostatně výdělečně činná	Přibice	99	80	A
-6203	584843	1	1	902	6	Václav	Valášek	M			57	osoba samostatně výdělečně činná	Přibice	99	80	A
-6203	584843	1	1	902	7	Ilona	Ruinerová	F			48	účetní	Přibice	99	80	A
-6203	584843	1	1	902	8	Jozef	Beňuš	M	Ing.		54	manažer zahraničního obchodu	Přibice	99	80	A
-6203	584843	1	1	902	9	Eva	Oblezarová	F			42	administrativní pracovnice	Přibice	99	80	A
-6203	584843	1	2	901	1	Vladimír	Koneček	M	Ing.		69	místostarosta obce	Přibice	99	80	A
-6203	584843	1	2	901	2	Michal	Gaga	M			60	technolog	Přibice	99	80	A
-6203	584843	1	2	901	3	Věra	Ficková	F			35	vedoucí pošty	Přibice	99	80	A
-6203	584843	1	2	901	4	Stanislav	Šopf	M	Bc.		40	informatik	Přibice	99	80	A
-6203	584843	1	2	901	5	Václav	Procházka	M	Ing.		45	vedoucí odboru	Přibice	99	80	A
-6203	584843	1	2	901	6	Luboš	Synek	M			52	mistr výroby	Přibice	99	80	A
-6203	584843	1	2	901	7	Pavel	Rech	M			48	strojník	Přibice	99	80	A
-6203	584843	1	2	901	8	Stanislav	Nasadil	M			68	dokumentarista	Přibice	99	80	A
-6203	584843	1	2	901	9	Eduard	Straka	M			75	důchodce	Přibice	99	80	A
-6203	584843	1	3	1	1	Jan	Boček	M	Ing.		46	objektový a technický poradce	Přibice	1	1	A
-6203	584843	1	3	1	2	Ondřej	Malinovský	M	Ing.		32	manažer investic v energetice	Přibice	99	1	A
-6203	584843	1	3	1	3	Gabriela	Motyčáková	F	Bc.		43	zdravotní sestra	Přibice	99	1	A
-6203	584843	1	3	1	4	Stanislava	Košková	F	Ing.		43	vedoucí laboratoře	Přibice	99	1	A
-6203	584843	1	3	1	5	Marek	Lang	M	Mgr.	Ph.D.	30	vysokoškolský učitel	Přibice	1	1	A
-6203	584843	1	3	1	6	Ivo	Procházka	M			56	svářeč	Přibice	1	1	A
-6203	584843	1	3	1	7	Jana	Janíčková	F			55	kuchařka	Přibice	1	1	A
-6203	584843	1	3	1	8	Václav	Smolík	M	Bc.	DiS.	39	státní zaměstnanec	Přibice	99	1	A
-6203	584843	1	3	1	9	Ludmila	Varmužková	F			68	důchodce	Přibice	1	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	584843	1	1	902	1	Miroslav	Effenberger	Ing.	DiS.	39	starosta obce	Přibice	99	80	A	M
+6203	584843	1	2	901	1	Vladimír	Koneček	Ing.		69	místostarosta obce	Přibice	99	80	A	M
+6203	584843	1	3	1	1	Jan	Boček	Ing.		46	objektový a technický poradce	Přibice	1	1	A	M
+6203	584843	1	1	902	2	Petr	Kuchyňka			55	správce ČOV, zastupitel	Přibice	99	80	A	M
+6203	584843	1	2	901	2	Michal	Gaga			60	technolog	Přibice	99	80	A	M
+6203	584843	1	3	1	2	Ondřej	Malinovský	Ing.		32	manažer investic v energetice	Přibice	99	1	A	M
+6203	584843	1	1	902	3	Jiří	Netolický	Mgr.		28	státní zaměstnanec, zastupitel	Přibice	99	80	A	M
+6203	584843	1	2	901	3	Věra	Ficková			35	vedoucí pošty	Přibice	99	80	A	F
+6203	584843	1	3	1	3	Gabriela	Motyčáková	Bc.		43	zdravotní sestra	Přibice	99	1	A	F
+6203	584843	1	1	902	4	Jiří	Prokeš			42	osoba samostatně výdělečně činná	Přibice	99	80	A	M
+6203	584843	1	2	901	4	Stanislav	Šopf	Bc.		40	informatik	Přibice	99	80	A	M
+6203	584843	1	3	1	4	Stanislava	Košková	Ing.		43	vedoucí laboratoře	Přibice	99	1	A	F
+6203	584843	1	1	902	5	Vít	Uchytil			48	osoba samostatně výdělečně činná	Přibice	99	80	A	M
+6203	584843	1	2	901	5	Václav	Procházka	Ing.		45	vedoucí odboru	Přibice	99	80	A	M
+6203	584843	1	3	1	5	Marek	Lang	Mgr.	Ph.D.	30	vysokoškolský učitel	Přibice	1	1	A	M
+6203	584843	1	1	902	6	Václav	Valášek			57	osoba samostatně výdělečně činná	Přibice	99	80	A	M
+6203	584843	1	2	901	6	Luboš	Synek			52	mistr výroby	Přibice	99	80	A	M
+6203	584843	1	3	1	6	Ivo	Procházka			56	svářeč	Přibice	1	1	A	M
+6203	584843	1	1	902	7	Ilona	Ruinerová			48	účetní	Přibice	99	80	A	F
+6203	584843	1	2	901	7	Pavel	Rech			48	strojník	Přibice	99	80	A	M
+6203	584843	1	3	1	7	Jana	Janíčková			55	kuchařka	Přibice	1	1	A	F
+6203	584843	1	1	902	8	Jozef	Beňuš	Ing.		54	manažer zahraničního obchodu	Přibice	99	80	A	M
+6203	584843	1	2	901	8	Stanislav	Nasadil			68	dokumentarista	Přibice	99	80	A	M
+6203	584843	1	3	1	8	Václav	Smolík	Bc.	DiS.	39	státní zaměstnanec	Přibice	99	1	A	M
+6203	584843	1	1	902	9	Eva	Oblezarová			42	administrativní pracovnice	Přibice	99	80	A	F
+6203	584843	1	2	901	9	Eduard	Straka			75	důchodce	Přibice	99	80	A	M
+6203	584843	1	3	1	9	Ludmila	Varmužková			68	důchodce	Přibice	1	1	A	F

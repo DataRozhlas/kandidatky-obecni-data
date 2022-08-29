@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8104	568422	1	1	901	1	Miroslav	Chudják	M			54	starosta	Velké Albrechtice	99	80	A
-8104	568422	1	1	901	2	Petr	Drastich	M			50	živnostník	Velké Albrechtice	99	80	A
-8104	568422	1	1	901	3	Tomáš	Babor	M	Ing. arch.		31	architekt	Velké Albrechtice	99	80	A
-8104	568422	1	1	901	4	Lenka	Rakosová	F			56	účetní	Velké Albrechtice	99	80	A
-8104	568422	1	1	901	5	Stanislav	Horák	M	Ing.		28	konstruktér	Velké Albrechtice	99	80	A
-8104	568422	1	1	901	6	Marcel	Svačina	M			34	automechanik	Velké Albrechtice	99	80	A
-8104	568422	1	1	901	7	Zuzana	Dolínková	F			23	operátor	Velké Albrechtice	99	80	A
-8104	568422	1	1	901	8	Martin	Vidlák	M			23	technolog	Velké Albrechtice	99	80	A
-8104	568422	1	1	901	9	Milan	Longin	M			54	kuchař	Velké Albrechtice	99	80	A
-8104	568422	1	1	901	10	Tomáš	Langer	M			34	mistr výroby	Velké Albrechtice	99	80	A
-8104	568422	1	1	901	11	Eva	Winklerová	F			70	důchodce	Velké Albrechtice	99	80	A
-8104	568422	1	1	901	12	Martin	Jermář	M	Mgr.		44	učitel	Velké Albrechtice	99	80	A
-8104	568422	1	1	901	13	Martin	Klimša	M			46	živnostník	Velké Albrechtice	99	80	A
-8104	568422	1	1	901	14	Alena	Ščuková	F	Mgr.		49	ředitelka ZŠ	Velké Albrechtice	99	80	A
-8104	568422	1	1	901	15	Markéta	Macháčková	F	Bc.		47	optometristka	Velké Albrechtice	99	80	A
-8104	568422	1	2	902	1	Čestmír	Klein	M			55	automechanik	Velké Albrechtice	99	80	A
-8104	568422	1	2	902	2	Eva	Hurníková	F			59	dispečerka	Velké Albrechtice	99	80	A
-8104	568422	1	2	902	3	Simona	Hrdličková	F	Ing.		43	účetní	Velké Albrechtice	99	80	A
-8104	568422	1	2	902	4	Petr	Dostál	M			50	mistr	Velké Albrechtice	99	80	A
-8104	568422	1	2	902	5	Iveta	Hubená	F	Mgr.		57	učitelka	Velké Albrechtice	99	80	A
-8104	568422	1	2	902	6	Libor	Rataj	M			59	OSVČ	Velké Albrechtice	99	80	A
-8104	568422	1	2	902	7	Roman	Gardoň	M			51	řidič záchranář	Velké Albrechtice	99	80	A
-8104	568422	1	2	902	8	Antonín	Miškech	M	Ing.		58	zaměstnanec ministerstva vnitra ve výslužbě	Velké Albrechtice	99	80	A
-8104	568422	1	2	902	9	Josef	Kremzer	M			43	podnikatel	Velké Albrechtice	99	80	A
-8104	568422	1	2	902	10	Tomáš	Nikel	M			36	mistr	Velké Albrechtice	99	80	A
-8104	568422	1	2	902	11	Vlastimil	Hurník	M			58	zámečník	Velké Albrechtice	99	80	A
-8104	568422	1	2	902	12	Jaromír	Klein	M			56	zámečník	Velké Albrechtice	99	80	A
-8104	568422	1	2	902	13	Oldřich	Kubíček	M			54	mistr	Velké Albrechtice	99	80	A
-8104	568422	1	2	902	14	Pavel	Marec	M			57	manager kvality	Velké Albrechtice	99	80	A
-8104	568422	1	2	902	15	Pavel	Klein	M			59	řidič	Velké Albrechtice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8104	568422	1	1	901	1	Miroslav	Chudják			54	starosta	Velké Albrechtice	99	80	A	M
+8104	568422	1	2	902	1	Čestmír	Klein			55	automechanik	Velké Albrechtice	99	80	A	M
+8104	568422	1	1	901	2	Petr	Drastich			50	živnostník	Velké Albrechtice	99	80	A	M
+8104	568422	1	2	902	2	Eva	Hurníková			59	dispečerka	Velké Albrechtice	99	80	A	F
+8104	568422	1	1	901	3	Tomáš	Babor	Ing. arch.		31	architekt	Velké Albrechtice	99	80	A	M
+8104	568422	1	2	902	3	Simona	Hrdličková	Ing.		43	účetní	Velké Albrechtice	99	80	A	F
+8104	568422	1	1	901	4	Lenka	Rakosová			56	účetní	Velké Albrechtice	99	80	A	F
+8104	568422	1	2	902	4	Petr	Dostál			50	mistr	Velké Albrechtice	99	80	A	M
+8104	568422	1	1	901	5	Stanislav	Horák	Ing.		28	konstruktér	Velké Albrechtice	99	80	A	M
+8104	568422	1	2	902	5	Iveta	Hubená	Mgr.		57	učitelka	Velké Albrechtice	99	80	A	F
+8104	568422	1	1	901	6	Marcel	Svačina			34	automechanik	Velké Albrechtice	99	80	A	M
+8104	568422	1	2	902	6	Libor	Rataj			59	OSVČ	Velké Albrechtice	99	80	A	M
+8104	568422	1	1	901	7	Zuzana	Dolínková			23	operátor	Velké Albrechtice	99	80	A	F
+8104	568422	1	2	902	7	Roman	Gardoň			51	řidič záchranář	Velké Albrechtice	99	80	A	M
+8104	568422	1	1	901	8	Martin	Vidlák			23	technolog	Velké Albrechtice	99	80	A	M
+8104	568422	1	2	902	8	Antonín	Miškech	Ing.		58	zaměstnanec ministerstva vnitra ve výslužbě	Velké Albrechtice	99	80	A	M
+8104	568422	1	1	901	9	Milan	Longin			54	kuchař	Velké Albrechtice	99	80	A	M
+8104	568422	1	2	902	9	Josef	Kremzer			43	podnikatel	Velké Albrechtice	99	80	A	M
+8104	568422	1	1	901	10	Tomáš	Langer			34	mistr výroby	Velké Albrechtice	99	80	A	M
+8104	568422	1	2	902	10	Tomáš	Nikel			36	mistr	Velké Albrechtice	99	80	A	M
+8104	568422	1	1	901	11	Eva	Winklerová			70	důchodce	Velké Albrechtice	99	80	A	F
+8104	568422	1	2	902	11	Vlastimil	Hurník			58	zámečník	Velké Albrechtice	99	80	A	M
+8104	568422	1	1	901	12	Martin	Jermář	Mgr.		44	učitel	Velké Albrechtice	99	80	A	M
+8104	568422	1	2	902	12	Jaromír	Klein			56	zámečník	Velké Albrechtice	99	80	A	M
+8104	568422	1	1	901	13	Martin	Klimša			46	živnostník	Velké Albrechtice	99	80	A	M
+8104	568422	1	2	902	13	Oldřich	Kubíček			54	mistr	Velké Albrechtice	99	80	A	M
+8104	568422	1	1	901	14	Alena	Ščuková	Mgr.		49	ředitelka ZŠ	Velké Albrechtice	99	80	A	F
+8104	568422	1	2	902	14	Pavel	Marec			57	manager kvality	Velké Albrechtice	99	80	A	M
+8104	568422	1	1	901	15	Markéta	Macháčková	Bc.		47	optometristka	Velké Albrechtice	99	80	A	F
+8104	568422	1	2	902	15	Pavel	Klein			59	řidič	Velké Albrechtice	99	80	A	M

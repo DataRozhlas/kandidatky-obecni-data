@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5202	573361	1	1	901	1	Helena	Hrubá	F			47	prodavačka	Soběraz	99	80	0
-5202	573361	1	1	901	2	Jiří	Kapoun	M	Ing.		46	strojní inženýr	Soběraz	99	80	0
-5202	573361	1	1	901	3	Miloš	Pršala	M			82	důchodce	Soběraz	99	80	0
-5202	573361	1	1	901	4	Jindřich	Kohm	M			69	důchodce	Soběraz	99	80	0
-5202	573361	1	1	901	5	Jana	Endrisová	F			70	důchodce	Soběraz	99	80	0
-5202	573361	1	1	901	6	Pavel	Kopecký	M	Ing.		36	zemědělský inženýr	Soběraz	99	80	0
-5202	573361	1	1	901	7	Karla	Thamová	F			55	podnikatelka	Soběraz	99	80	0
-5202	573361	1	2	902	1	Antonín	Hrabec	M			61	ošetřovatel dojnic	Soběraz	99	80	0
-5202	573361	1	2	902	2	Miroslav	Nožička	M			43	silničář-řidič	Soběraz	99	80	0
-5202	573361	1	2	902	3	Daniel	Flamberg	M			38	stavební technik	Soběraz	99	80	0
-5202	573361	1	2	902	4	Jan	Čmelík	M			43	podnikatel	Soběraz	99	80	0
-5202	573361	1	2	902	5	Lukáš	Hubálovský	M		DiS.	30	zástupce ředitele E.S.H&F	Soběraz	99	80	0
-5202	573361	1	2	902	6	Milan	Šimek	M			61	skladník	Soběraz	99	80	0
-5202	573361	1	2	902	7	Petr	Nožička	M			40	inspektor-RWE	Soběraz	99	80	0
-5202	573361	1	2	902	8	Monika	Flambergová	F			36	podnikatelka	Soběraz	99	80	0
-5202	573361	1	2	902	9	Jana	Danišová	F			35	účetní	Soběraz	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5202	573361	1	1	901	1	Helena	Hrubá			47	prodavačka	Soběraz	99	80	0	F
+5202	573361	1	2	902	1	Antonín	Hrabec			61	ošetřovatel dojnic	Soběraz	99	80	0	M
+5202	573361	1	1	901	2	Jiří	Kapoun	Ing.		46	strojní inženýr	Soběraz	99	80	0	M
+5202	573361	1	2	902	2	Miroslav	Nožička			43	silničář-řidič	Soběraz	99	80	0	M
+5202	573361	1	1	901	3	Miloš	Pršala			82	důchodce	Soběraz	99	80	0	M
+5202	573361	1	2	902	3	Daniel	Flamberg			38	stavební technik	Soběraz	99	80	0	M
+5202	573361	1	1	901	4	Jindřich	Kohm			69	důchodce	Soběraz	99	80	0	M
+5202	573361	1	2	902	4	Jan	Čmelík			43	podnikatel	Soběraz	99	80	0	M
+5202	573361	1	1	901	5	Jana	Endrisová			70	důchodce	Soběraz	99	80	0	F
+5202	573361	1	2	902	5	Lukáš	Hubálovský		DiS.	30	zástupce ředitele E.S.H&F	Soběraz	99	80	0	M
+5202	573361	1	1	901	6	Pavel	Kopecký	Ing.		36	zemědělský inženýr	Soběraz	99	80	0	M
+5202	573361	1	2	902	6	Milan	Šimek			61	skladník	Soběraz	99	80	0	M
+5202	573361	1	1	901	7	Karla	Thamová			55	podnikatelka	Soběraz	99	80	0	F
+5202	573361	1	2	902	7	Petr	Nožička			40	inspektor-RWE	Soběraz	99	80	0	M
+5202	573361	1	2	902	8	Monika	Flambergová			36	podnikatelka	Soběraz	99	80	0	F
+5202	573361	1	2	902	9	Jana	Danišová			35	účetní	Soběraz	99	80	0	F

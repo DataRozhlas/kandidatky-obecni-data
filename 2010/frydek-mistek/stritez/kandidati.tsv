@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8102	552674	1	1	47	1	Jiří	Kajzar	M	Ing.		66	důchodce	Střítež	47	47	0
-8102	552674	1	1	47	2	Jan	Herec	M			74	důchodce	Střítež	47	47	0
-8102	552674	1	1	47	3	Měčislav	Kaleta	M	Ing.		62	důchodce	Střítež	47	47	0
-8102	552674	1	1	47	4	Uršula	Rusnoková	F	PhDr.		52	bezpečnostní technik	Střítež	99	47	0
-8102	552674	1	1	47	5	Ludvík	Raszka	M			68	důchodce	Střítež	99	47	0
-8102	552674	1	1	47	6	Adéla	Kapitanovová	F	Mgr.		62	důchodce	Střítež	47	47	0
-8102	552674	1	1	47	7	Danuše	Herecová	F			51	učitelka	Střítež	99	47	0
-8102	552674	1	1	47	8	Oľga	Raszková	F			63	důchodce	Střítež	99	47	0
-8102	552674	1	1	47	9	Stanislav	Bronček	M			49	důchodce	Střítež	99	47	0
-8102	552674	1	2	901	1	Marie	Pyszková	F			51	prodejce PHM	Střítež	99	80	0
-8102	552674	1	2	901	2	Petr	Machálek	M			48	elektromontér	Střítež	99	80	0
-8102	552674	1	2	901	3	Zbygniew	Zahradnik	M	Ing.		44	informatik	Střítež	99	80	0
-8102	552674	1	2	901	4	Milan	Wawrosz	M			39	důlní zaměstnanec	Střítež	99	80	0
-8102	552674	1	2	901	5	Milan	Sikora	M			61	důchodce	Střítež	99	80	0
-8102	552674	1	2	901	6	Roman	Lasota	M			35	elektroúdržbář	Střítež	99	80	0
-8102	552674	1	2	901	7	Stanislav	Niemczyk	M			46	provozní zámečník	Střítež	99	80	0
-8102	552674	1	2	901	8	René	Bonček	M			43	soukromý podnikatel	Střítež	99	80	0
-8102	552674	1	2	901	9	Eduard	Siwy	M			48	truhlář	Střítež	99	80	0
-8102	552674	1	3	7	1	Stanislav	Plekanec	M			60	starosta	Střítež	7	7	0
-8102	552674	1	3	7	2	Miroslav	Fober	M	Ing.		61	důchodce	Střítež	99	7	0
-8102	552674	1	3	7	3	Vladislav	Piecha	M	Ing.		58	ekonom	Střítež	7	7	0
-8102	552674	1	3	7	4	Petr	Jasek	M	Ing.		64	důlní inspektor	Střítež	7	7	0
-8102	552674	1	3	7	5	Jaroslava	Przywarová	F			28	zdravotní laborantka	Střítež	99	7	0
-8102	552674	1	3	7	6	Pavel	Bobek	M			52	podnikatel	Střítež	99	7	0
-8102	552674	1	3	7	7	Miroslav	Košut	M			53	pracovník obce	Střítež	7	7	0
-8102	552674	1	3	7	8	Renáta	Borovská	F			34	podnikatelka	Střítež	7	7	0
-8102	552674	1	3	7	9	Leopold	Zbieg	M			52	energetik	Střítež	7	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8102	552674	1	1	47	1	Jiří	Kajzar	Ing.		66	důchodce	Střítež	47	47	0	M
+8102	552674	1	2	901	1	Marie	Pyszková			51	prodejce PHM	Střítež	99	80	0	F
+8102	552674	1	3	7	1	Stanislav	Plekanec			60	starosta	Střítež	7	7	0	M
+8102	552674	1	1	47	2	Jan	Herec			74	důchodce	Střítež	47	47	0	M
+8102	552674	1	2	901	2	Petr	Machálek			48	elektromontér	Střítež	99	80	0	M
+8102	552674	1	3	7	2	Miroslav	Fober	Ing.		61	důchodce	Střítež	99	7	0	M
+8102	552674	1	1	47	3	Měčislav	Kaleta	Ing.		62	důchodce	Střítež	47	47	0	M
+8102	552674	1	2	901	3	Zbygniew	Zahradnik	Ing.		44	informatik	Střítež	99	80	0	M
+8102	552674	1	3	7	3	Vladislav	Piecha	Ing.		58	ekonom	Střítež	7	7	0	M
+8102	552674	1	1	47	4	Uršula	Rusnoková	PhDr.		52	bezpečnostní technik	Střítež	99	47	0	F
+8102	552674	1	2	901	4	Milan	Wawrosz			39	důlní zaměstnanec	Střítež	99	80	0	M
+8102	552674	1	3	7	4	Petr	Jasek	Ing.		64	důlní inspektor	Střítež	7	7	0	M
+8102	552674	1	1	47	5	Ludvík	Raszka			68	důchodce	Střítež	99	47	0	M
+8102	552674	1	2	901	5	Milan	Sikora			61	důchodce	Střítež	99	80	0	M
+8102	552674	1	3	7	5	Jaroslava	Przywarová			28	zdravotní laborantka	Střítež	99	7	0	F
+8102	552674	1	1	47	6	Adéla	Kapitanovová	Mgr.		62	důchodce	Střítež	47	47	0	F
+8102	552674	1	2	901	6	Roman	Lasota			35	elektroúdržbář	Střítež	99	80	0	M
+8102	552674	1	3	7	6	Pavel	Bobek			52	podnikatel	Střítež	99	7	0	M
+8102	552674	1	1	47	7	Danuše	Herecová			51	učitelka	Střítež	99	47	0	F
+8102	552674	1	2	901	7	Stanislav	Niemczyk			46	provozní zámečník	Střítež	99	80	0	M
+8102	552674	1	3	7	7	Miroslav	Košut			53	pracovník obce	Střítež	7	7	0	M
+8102	552674	1	1	47	8	Oľga	Raszková			63	důchodce	Střítež	99	47	0	F
+8102	552674	1	2	901	8	René	Bonček			43	soukromý podnikatel	Střítež	99	80	0	M
+8102	552674	1	3	7	8	Renáta	Borovská			34	podnikatelka	Střítež	7	7	0	F
+8102	552674	1	1	47	9	Stanislav	Bronček			49	důchodce	Střítež	99	47	0	M
+8102	552674	1	2	901	9	Eduard	Siwy			48	truhlář	Střítež	99	80	0	M
+8102	552674	1	3	7	9	Leopold	Zbieg			52	energetik	Střítež	7	7	0	M

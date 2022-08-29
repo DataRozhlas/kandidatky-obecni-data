@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2109	539058	1	1	53	1	Tomáš	Veigner	M			28	logistik	Zdiby	53	53	0
-2109	539058	1	1	53	2	Pavel	Plechatý	M			38	podnikatel služby	Zdiby	53	53	0
-2109	539058	1	1	53	3	Vladimír	Bartoš	M			54	řidič,dopravce	Zdiby	53	53	0
-2109	539058	1	1	53	4	Milan	Baier	M			30	podnikatel	Praha 8-Libeň	53	53	0
-2109	539058	1	1	53	5	Jana	Plechatá	F			33	mateřská dovolená	Přemyšlení	53	53	0
-2109	539058	1	1	53	6	Lenka	Jánská	F			22	studentka	Zdiby	53	53	0
-2109	539058	1	1	53	7	Andrea	Bartošová	F			20	služby,pohostinství	Zdiby	53	53	0
-2109	539058	1	1	53	8	Petr	Plechatý	M			38	podnikatel,služby	Přemyšlení	53	53	0
-2109	539058	1	1	53	9	Dimitrios	Betos	M			37	zaměstnanec služby	Brandýs nad Labem	53	53	0
-2109	539058	1	1	53	10	Ivana	Plechatá	F			38	účetní	Zdiby	53	53	0
-2109	539058	1	1	53	11	Martin	Rousek	M			36	hokejista,trenér mládeže	Praha 10	53	53	0
-2109	539058	1	2	902	1	Štěpán	Jordanov	M	Ing.		54	podnikatel	Přemyšlení	99	80	0
-2109	539058	1	2	902	2	Zbyněk	Smetana	M	Ing.		46	specialista kvality	Brnky	99	80	0
-2109	539058	1	2	902	3	Luděk	Wachtl	M			35	podnikatel	Zdiby	99	80	0
-2109	539058	1	2	902	4	Petr	Dubský	M	Ing.		43	ref.státní správy a samosprávy	Brnky	99	80	0
-2109	539058	1	2	902	5	Miloš	Krejcar	M	Ing.		53	podnikatel	Zdiby	99	80	0
-2109	539058	1	2	902	6	Radim	Slezák	M	Ing.		33	specialista IT	Přemyšlení	99	80	0
-2109	539058	1	2	902	7	Milan	Sedlák	M	MUDr.		61	lékař-chirurg	Přemyšlení	99	80	0
-2109	539058	1	2	902	8	Jan	Česnek	M			33	specialista IT	Zdiby	99	80	0
-2109	539058	1	2	902	9	Jaromír	Prokop	M	Ing.	MBA	35	úředník	Brnky	99	80	0
-2109	539058	1	2	902	10	Jiří	Neumann	M			65	důchodce	Zdiby	99	80	0
-2109	539058	1	2	902	11	Milan	Kerber	M	Bc.et Bc.	MBA	33	úředník	Přemyšlení	99	80	0
-2109	539058	1	3	901	1	Jan	Tvrdý	M			36	starosta	Veltěž	99	80	0
-2109	539058	1	3	901	2	Zdeněk	Jurkeník	M			40	místostarosta	Veltěž	99	80	0
-2109	539058	1	3	901	3	Jana	Horáková	F	JUDr.		42	právnička	Brnky	99	80	0
-2109	539058	1	3	901	4	Karel	Jurkeník	M	Ing.		28	pověřenec vedení pro jakost	Veltěž	99	80	0
-2109	539058	1	3	901	5	Karel	Zápotocký	M			56	pracovník dopravního podniku	Veltěž	99	80	0
-2109	539058	1	3	901	6	Jana	Hyklová	F			34	referentka zákaznic. servisu	Veltěž	99	80	0
-2109	539058	1	3	901	7	Vladimír	Tocháček	M			35	ředitel společnosti	Zdiby	99	80	0
-2109	539058	1	3	901	8	Hana	Jandovská	F			52	vrchní sestra	Přemyšlení	99	80	0
-2109	539058	1	3	901	9	Marek	Uhl	M			34	vedoucí oddělení	Veltěž	99	80	0
-2109	539058	1	3	901	10	Petra	Pavlíková	F			30	produkční	Veltěž	99	80	0
-2109	539058	1	3	901	11	Ivan	Majer	M			36	živnostník	Veltěž	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2109	539058	1	1	53	1	Tomáš	Veigner			28	logistik	Zdiby	53	53	0	M
+2109	539058	1	2	902	1	Štěpán	Jordanov	Ing.		54	podnikatel	Přemyšlení	99	80	0	M
+2109	539058	1	3	901	1	Jan	Tvrdý			36	starosta	Veltěž	99	80	0	M
+2109	539058	1	1	53	2	Pavel	Plechatý			38	podnikatel služby	Zdiby	53	53	0	M
+2109	539058	1	2	902	2	Zbyněk	Smetana	Ing.		46	specialista kvality	Brnky	99	80	0	M
+2109	539058	1	3	901	2	Zdeněk	Jurkeník			40	místostarosta	Veltěž	99	80	0	M
+2109	539058	1	1	53	3	Vladimír	Bartoš			54	řidič,dopravce	Zdiby	53	53	0	M
+2109	539058	1	2	902	3	Luděk	Wachtl			35	podnikatel	Zdiby	99	80	0	M
+2109	539058	1	3	901	3	Jana	Horáková	JUDr.		42	právnička	Brnky	99	80	0	F
+2109	539058	1	1	53	4	Milan	Baier			30	podnikatel	Praha 8-Libeň	53	53	0	M
+2109	539058	1	2	902	4	Petr	Dubský	Ing.		43	ref.státní správy a samosprávy	Brnky	99	80	0	M
+2109	539058	1	3	901	4	Karel	Jurkeník	Ing.		28	pověřenec vedení pro jakost	Veltěž	99	80	0	M
+2109	539058	1	1	53	5	Jana	Plechatá			33	mateřská dovolená	Přemyšlení	53	53	0	F
+2109	539058	1	2	902	5	Miloš	Krejcar	Ing.		53	podnikatel	Zdiby	99	80	0	M
+2109	539058	1	3	901	5	Karel	Zápotocký			56	pracovník dopravního podniku	Veltěž	99	80	0	M
+2109	539058	1	1	53	6	Lenka	Jánská			22	studentka	Zdiby	53	53	0	F
+2109	539058	1	2	902	6	Radim	Slezák	Ing.		33	specialista IT	Přemyšlení	99	80	0	M
+2109	539058	1	3	901	6	Jana	Hyklová			34	referentka zákaznic. servisu	Veltěž	99	80	0	F
+2109	539058	1	1	53	7	Andrea	Bartošová			20	služby,pohostinství	Zdiby	53	53	0	F
+2109	539058	1	2	902	7	Milan	Sedlák	MUDr.		61	lékař-chirurg	Přemyšlení	99	80	0	M
+2109	539058	1	3	901	7	Vladimír	Tocháček			35	ředitel společnosti	Zdiby	99	80	0	M
+2109	539058	1	1	53	8	Petr	Plechatý			38	podnikatel,služby	Přemyšlení	53	53	0	M
+2109	539058	1	2	902	8	Jan	Česnek			33	specialista IT	Zdiby	99	80	0	M
+2109	539058	1	3	901	8	Hana	Jandovská			52	vrchní sestra	Přemyšlení	99	80	0	F
+2109	539058	1	1	53	9	Dimitrios	Betos			37	zaměstnanec služby	Brandýs nad Labem	53	53	0	M
+2109	539058	1	2	902	9	Jaromír	Prokop	Ing.	MBA	35	úředník	Brnky	99	80	0	M
+2109	539058	1	3	901	9	Marek	Uhl			34	vedoucí oddělení	Veltěž	99	80	0	M
+2109	539058	1	1	53	10	Ivana	Plechatá			38	účetní	Zdiby	53	53	0	F
+2109	539058	1	2	902	10	Jiří	Neumann			65	důchodce	Zdiby	99	80	0	M
+2109	539058	1	3	901	10	Petra	Pavlíková			30	produkční	Veltěž	99	80	0	F
+2109	539058	1	1	53	11	Martin	Rousek			36	hokejista,trenér mládeže	Praha 10	53	53	0	M
+2109	539058	1	2	902	11	Milan	Kerber	Bc.et Bc.	MBA	33	úředník	Přemyšlení	99	80	0	M
+2109	539058	1	3	901	11	Ivan	Majer			36	živnostník	Veltěž	99	80	0	M

@@ -1,33 +1,33 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2109	538809	1	1	801	1	Martin	Hrdlička	M	Ing.		35	podnikatel	Strančice	99	80	0
-2109	538809	1	2	5	1	Petra	Nyklová	F			23	ved. centra pro děti a mládež	Strančice	99	5	0
-2109	538809	1	3	901	1	Jaroslav	Ulrich	M			70	starosta	Strančice	99	80	0
-2109	538809	1	3	901	2	Jan	Slabý	M			63	místostarosta	Všechromy	99	80	0
-2109	538809	1	3	901	3	Eva	Vodičková	F			57	správce domova důchodců	Strančice	99	80	0
-2109	538809	1	3	901	4	Vladimír	Vávra	M	Ing.		52	stevard	Strančice	99	80	0
-2109	538809	1	3	901	5	Iva	Dvořáková	F	Bc.		41	úřednice	Strančice	99	80	0
-2109	538809	1	3	901	6	Ladislav	Král	M			46	technik	Strančice	99	80	0
-2109	538809	1	3	901	7	Jan	Čermín	M			50	automechanik	Strančice	99	80	0
-2109	538809	1	3	901	8	Karel	Řepka	M			34	výtvarník	Strančice	99	80	0
-2109	538809	1	3	901	9	Taťána	Fleková	F			45	vedoucí provozu	Svojšovice	99	80	0
-2109	538809	1	3	901	10	Luboš	Jelínek	M			35	obchodník	Strančice	99	80	0
-2109	538809	1	3	901	11	Jaroslav	Lorenc	M	Ing.		57	stavební inženýr	Strančice	99	80	0
-2109	538809	1	3	901	12	Zdeněk	Vašíček	M			48	hasič	Strančice	99	80	0
-2109	538809	1	3	901	13	Ivana	Fidlerová	F	Ing.		46	učitelka	Všechromy	99	80	0
-2109	538809	1	3	901	14	Stanislav	Dekoj	M	PhDr.		59	psycholog	Otice	99	80	0
-2109	538809	1	3	901	15	Věra	Bednářová	F			49	úřednice	Strančice	99	80	0
-2109	538809	1	4	902	1	Miloslav	Janda	M			52	soukromý zemědělec	Strančice	99	80	0
-2109	538809	1	4	902	2	Jiří	Nedbal	M			27	ovocnář,obch.partner zah.firem	Strančice	99	80	0
-2109	538809	1	4	902	3	Jitka	Žemličková	F	Ing.		57	ekonom	Všechromy	99	80	0
-2109	538809	1	4	902	4	Pavel	Zátorský	M			32	truhlář	Svojšovice	99	80	0
-2109	538809	1	4	902	5	Josef	Janovský	M	Ing.		63	ovocnář	Otice	99	80	0
-2109	538809	1	4	902	6	Pavel	Pecháček	M			30	obchodní zástupce	Sklenka	99	80	0
-2109	538809	1	4	902	7	Pavel	Soukup	M	Ing.		33	stavební inženýr-projektant	Všechromy	99	80	0
-2109	538809	1	4	902	8	Petr	Souček	M			20	truhlář	Kašovice	99	80	0
-2109	538809	1	4	902	9	Miloslav	Miňha	M			37	specialista IT podpory	Strančice	99	80	0
-2109	538809	1	4	902	10	Jiří	Kohout	M	Ing.		33	letecký konstruktér	Svojšovice	99	80	0
-2109	538809	1	4	902	11	Leoš	Tománek	M			24	policejní inspektor	Otice	99	80	1
-2109	538809	1	4	902	12	Martin	Plch	M	Ing.		42	stavební inženýr	Předboř	99	80	0
-2109	538809	1	4	902	13	Zdeněk	Souček	M			22	soukromý zemědělec	Kašovice	99	80	0
-2109	538809	1	4	902	14	Ivan	Burdun	M			57	technik	Všechromy	99	80	0
-2109	538809	1	4	902	15	Miroslav	Šach	M			35	restaurátor	Svojšovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2109	538809	1	1	801	1	Martin	Hrdlička	Ing.		35	podnikatel	Strančice	99	80	0	M
+2109	538809	1	2	5	1	Petra	Nyklová			23	ved. centra pro děti a mládež	Strančice	99	5	0	F
+2109	538809	1	3	901	1	Jaroslav	Ulrich			70	starosta	Strančice	99	80	0	M
+2109	538809	1	4	902	1	Miloslav	Janda			52	soukromý zemědělec	Strančice	99	80	0	M
+2109	538809	1	3	901	2	Jan	Slabý			63	místostarosta	Všechromy	99	80	0	M
+2109	538809	1	4	902	2	Jiří	Nedbal			27	ovocnář,obch.partner zah.firem	Strančice	99	80	0	M
+2109	538809	1	3	901	3	Eva	Vodičková			57	správce domova důchodců	Strančice	99	80	0	F
+2109	538809	1	4	902	3	Jitka	Žemličková	Ing.		57	ekonom	Všechromy	99	80	0	F
+2109	538809	1	3	901	4	Vladimír	Vávra	Ing.		52	stevard	Strančice	99	80	0	M
+2109	538809	1	4	902	4	Pavel	Zátorský			32	truhlář	Svojšovice	99	80	0	M
+2109	538809	1	3	901	5	Iva	Dvořáková	Bc.		41	úřednice	Strančice	99	80	0	F
+2109	538809	1	4	902	5	Josef	Janovský	Ing.		63	ovocnář	Otice	99	80	0	M
+2109	538809	1	3	901	6	Ladislav	Král			46	technik	Strančice	99	80	0	M
+2109	538809	1	4	902	6	Pavel	Pecháček			30	obchodní zástupce	Sklenka	99	80	0	M
+2109	538809	1	3	901	7	Jan	Čermín			50	automechanik	Strančice	99	80	0	M
+2109	538809	1	4	902	7	Pavel	Soukup	Ing.		33	stavební inženýr-projektant	Všechromy	99	80	0	M
+2109	538809	1	3	901	8	Karel	Řepka			34	výtvarník	Strančice	99	80	0	M
+2109	538809	1	4	902	8	Petr	Souček			20	truhlář	Kašovice	99	80	0	M
+2109	538809	1	3	901	9	Taťána	Fleková			45	vedoucí provozu	Svojšovice	99	80	0	F
+2109	538809	1	4	902	9	Miloslav	Miňha			37	specialista IT podpory	Strančice	99	80	0	M
+2109	538809	1	3	901	10	Luboš	Jelínek			35	obchodník	Strančice	99	80	0	M
+2109	538809	1	4	902	10	Jiří	Kohout	Ing.		33	letecký konstruktér	Svojšovice	99	80	0	M
+2109	538809	1	3	901	11	Jaroslav	Lorenc	Ing.		57	stavební inženýr	Strančice	99	80	0	M
+2109	538809	1	4	902	11	Leoš	Tománek			24	policejní inspektor	Otice	99	80	1	M
+2109	538809	1	3	901	12	Zdeněk	Vašíček			48	hasič	Strančice	99	80	0	M
+2109	538809	1	4	902	12	Martin	Plch	Ing.		42	stavební inženýr	Předboř	99	80	0	M
+2109	538809	1	3	901	13	Ivana	Fidlerová	Ing.		46	učitelka	Všechromy	99	80	0	F
+2109	538809	1	4	902	13	Zdeněk	Souček			22	soukromý zemědělec	Kašovice	99	80	0	M
+2109	538809	1	3	901	14	Stanislav	Dekoj	PhDr.		59	psycholog	Otice	99	80	0	M
+2109	538809	1	4	902	14	Ivan	Burdun			57	technik	Všechromy	99	80	0	M
+2109	538809	1	3	901	15	Věra	Bednářová			49	úřednice	Strančice	99	80	0	F
+2109	538809	1	4	902	15	Miroslav	Šach			35	restaurátor	Svojšovice	99	80	0	M

@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2106	538345	1	1	802	1	Jana	Sejpková	F			40	učitelka MŠ	Kojetice	99	80	0
-2106	538345	1	2	801	1	Marie	Suldovská (Melvaldová)	F		DiS.	30	Mateřská dovolená	Kojetice	99	80	0
-2106	538345	1	3	901	1	Věra	Richtermocová	F			55	starostka	Kojetice	99	80	0
-2106	538345	1	3	901	2	Martin	Skalický	M	Bc.		36	informatik	Kojetice	99	80	0
-2106	538345	1	3	901	3	Zdeněk	Hledík	M	Ing.		60	úředník	Kojetice	99	80	0
-2106	538345	1	3	901	4	Věra	Čížková	F			64	důchodce	Kojetice	99	80	0
-2106	538345	1	3	901	5	Daniela	Strnadová	F			57	technik	Kojetice	99	80	0
-2106	538345	1	3	901	6	Jaroslava	Maláková	F			57	administrativní pracovnice	Kojetice	99	80	0
-2106	538345	1	3	901	7	Jan	Truhlařík	M			41	automechanik	Kojetice	99	80	0
-2106	538345	1	3	901	8	Roman	Mičian	M	Ing.		39	manažer v zahradnické firmě	Kojetice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2106	538345	1	1	802	1	Jana	Sejpková			40	učitelka MŠ	Kojetice	99	80	0	F
+2106	538345	1	2	801	1	Marie	Suldovská (Melvaldová)		DiS.	30	Mateřská dovolená	Kojetice	99	80	0	F
+2106	538345	1	3	901	1	Věra	Richtermocová			55	starostka	Kojetice	99	80	0	F
+2106	538345	1	3	901	2	Martin	Skalický	Bc.		36	informatik	Kojetice	99	80	0	M
+2106	538345	1	3	901	3	Zdeněk	Hledík	Ing.		60	úředník	Kojetice	99	80	0	M
+2106	538345	1	3	901	4	Věra	Čížková			64	důchodce	Kojetice	99	80	0	F
+2106	538345	1	3	901	5	Daniela	Strnadová			57	technik	Kojetice	99	80	0	F
+2106	538345	1	3	901	6	Jaroslava	Maláková			57	administrativní pracovnice	Kojetice	99	80	0	F
+2106	538345	1	3	901	7	Jan	Truhlařík			41	automechanik	Kojetice	99	80	0	M
+2106	538345	1	3	901	8	Roman	Mičian	Ing.		39	manažer v zahradnické firmě	Kojetice	99	80	0	M

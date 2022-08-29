@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	597571	1	1	901	1	František	Tománek	M			51	starosta obce	Liptaň	99	80	0
-8101	597571	1	1	901	2	Milan	Žídek	M			50	dělník	Liptaň - Bučávka	99	80	0
-8101	597571	1	1	901	3	Romana	Chrenšťová	F			34	soukromá podnikatelka	Liptaň	99	80	0
-8101	597571	1	1	901	4	Radek	Kocián	M			37	řidič autobusu	Liptaň	99	80	0
-8101	597571	1	1	901	5	Karla	Trautenbergerová	F			28	referentka SÚ, MěÚ	Liptaň	99	80	0
-8101	597571	1	1	901	6	Karel	Dudek	M			36	dělník	Liptaň	99	80	0
-8101	597571	1	1	901	7	Anna	Horáková	F			31	referentka logistiky	Liptaň - Bučávka	99	80	0
-8101	597571	1	1	901	8	Petr	Chrenšť	M			39	soukromý podnikatel	Liptaň	99	80	0
-8101	597571	1	1	901	9	Květoslav	Koudelka	M			50	dělník	Liptaň	99	80	0
-8101	597571	1	2	1	1	Miroslav	Farník	M			65	podnikatel	Liptaň	99	1	0
-8101	597571	1	2	1	2	Hana	Němcová	F			55	kuchařka MŠ	Liptaň	99	1	0
-8101	597571	1	2	1	3	Josef	Řezníček	M			36	zámečník	Liptaň	99	1	0
-8101	597571	1	2	1	4	Ivana	Šebestová	F			42	dělnice	Liptaň	99	1	0
-8101	597571	1	2	1	5	Milan	Průša	M			46	dělník	Liptaň	99	1	0
-8101	597571	1	2	1	6	Lenka	Řezníčková	F			37	zdravotní sestra	Liptaň	99	1	0
-8101	597571	1	2	1	7	Danuška	Škulavíková	F			59	dělnice	Liptaň - Bučávka	99	1	0
-8101	597571	1	2	1	8	Jarmila	Průšová	F			44	dělnice	Liptaň	99	1	0
-8101	597571	1	2	1	9	Iveta	Kolářová	F			42	instrumentářka	Liptaň	99	1	0
-8101	597571	1	3	47	1	Růžena	Sakalová	F			50	státní zaměstnankyně	Liptaň	99	47	0
-8101	597571	1	3	47	2	František	Honajzer	M			66	důchodce	Liptaň	47	47	0
-8101	597571	1	3	47	3	Emilie	Frgalová	F			56	důchodce	Liptaň - Horní Povelice	99	47	0
-8101	597571	1	3	47	4	Ilona	Němcová	F			63	důchodce	Liptaň	47	47	0
-8101	597571	1	3	47	5	Barbora	Suchá	F			26	bez prac.poměru	Liptaň	99	47	0
-8101	597571	1	3	47	6	Jitka	Sčensná	F			28	mat.dovolená	Liptaň	99	47	0
-8101	597571	1	3	47	7	Leoš	Němec	M			33	dělník	Liptaň	99	47	0
-8101	597571	1	3	47	8	Jan	Čonka	M			64	důchodce	Liptaň	47	47	0
-8101	597571	1	3	47	9	Milada	Wichlendová	F			63	důchodce	Liptaň	99	47	0
-8101	597571	1	4	7	1	Rostislav	Fof	M			54	důchodce	Liptaň - Horní Povelice	99	7	0
-8101	597571	1	4	7	2	František	Němec	M			56	živnostník	Liptaň	99	7	0
-8101	597571	1	4	7	3	Vladimír	Stuchlík	M			58	živnostník	Liptaň	99	7	0
-8101	597571	1	4	7	4	Jaroslav	Kamenický	M			45	zaměstnanec v sociál. službách	Liptaň	99	7	0
-8101	597571	1	4	7	5	Miroslav	Veselý	M			54	soukromý zemědělec	Liptaň	99	7	0
-8101	597571	1	4	7	6	Luboš	Průša	M			41	soukromý zemědělec	Liptaň	99	7	0
-8101	597571	1	4	7	7	Miroslav	Farník	M			43	zásobovač	Liptaň	99	7	0
-8101	597571	1	4	7	8	Danuše	Kolnerová	F			50	číšnice	Liptaň	99	7	0
-8101	597571	1	4	7	9	Jaromír	Vlach	M			36	důchodce	Liptaň - Horní Povelice	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	597571	1	1	901	1	František	Tománek			51	starosta obce	Liptaň	99	80	0	M
+8101	597571	1	2	1	1	Miroslav	Farník			65	podnikatel	Liptaň	99	1	0	M
+8101	597571	1	3	47	1	Růžena	Sakalová			50	státní zaměstnankyně	Liptaň	99	47	0	F
+8101	597571	1	4	7	1	Rostislav	Fof			54	důchodce	Liptaň - Horní Povelice	99	7	0	M
+8101	597571	1	1	901	2	Milan	Žídek			50	dělník	Liptaň - Bučávka	99	80	0	M
+8101	597571	1	2	1	2	Hana	Němcová			55	kuchařka MŠ	Liptaň	99	1	0	F
+8101	597571	1	3	47	2	František	Honajzer			66	důchodce	Liptaň	47	47	0	M
+8101	597571	1	4	7	2	František	Němec			56	živnostník	Liptaň	99	7	0	M
+8101	597571	1	1	901	3	Romana	Chrenšťová			34	soukromá podnikatelka	Liptaň	99	80	0	F
+8101	597571	1	2	1	3	Josef	Řezníček			36	zámečník	Liptaň	99	1	0	M
+8101	597571	1	3	47	3	Emilie	Frgalová			56	důchodce	Liptaň - Horní Povelice	99	47	0	F
+8101	597571	1	4	7	3	Vladimír	Stuchlík			58	živnostník	Liptaň	99	7	0	M
+8101	597571	1	1	901	4	Radek	Kocián			37	řidič autobusu	Liptaň	99	80	0	M
+8101	597571	1	2	1	4	Ivana	Šebestová			42	dělnice	Liptaň	99	1	0	F
+8101	597571	1	3	47	4	Ilona	Němcová			63	důchodce	Liptaň	47	47	0	F
+8101	597571	1	4	7	4	Jaroslav	Kamenický			45	zaměstnanec v sociál. službách	Liptaň	99	7	0	M
+8101	597571	1	1	901	5	Karla	Trautenbergerová			28	referentka SÚ, MěÚ	Liptaň	99	80	0	F
+8101	597571	1	2	1	5	Milan	Průša			46	dělník	Liptaň	99	1	0	M
+8101	597571	1	3	47	5	Barbora	Suchá			26	bez prac.poměru	Liptaň	99	47	0	F
+8101	597571	1	4	7	5	Miroslav	Veselý			54	soukromý zemědělec	Liptaň	99	7	0	M
+8101	597571	1	1	901	6	Karel	Dudek			36	dělník	Liptaň	99	80	0	M
+8101	597571	1	2	1	6	Lenka	Řezníčková			37	zdravotní sestra	Liptaň	99	1	0	F
+8101	597571	1	3	47	6	Jitka	Sčensná			28	mat.dovolená	Liptaň	99	47	0	F
+8101	597571	1	4	7	6	Luboš	Průša			41	soukromý zemědělec	Liptaň	99	7	0	M
+8101	597571	1	1	901	7	Anna	Horáková			31	referentka logistiky	Liptaň - Bučávka	99	80	0	F
+8101	597571	1	2	1	7	Danuška	Škulavíková			59	dělnice	Liptaň - Bučávka	99	1	0	F
+8101	597571	1	3	47	7	Leoš	Němec			33	dělník	Liptaň	99	47	0	M
+8101	597571	1	4	7	7	Miroslav	Farník			43	zásobovač	Liptaň	99	7	0	M
+8101	597571	1	1	901	8	Petr	Chrenšť			39	soukromý podnikatel	Liptaň	99	80	0	M
+8101	597571	1	2	1	8	Jarmila	Průšová			44	dělnice	Liptaň	99	1	0	F
+8101	597571	1	3	47	8	Jan	Čonka			64	důchodce	Liptaň	47	47	0	M
+8101	597571	1	4	7	8	Danuše	Kolnerová			50	číšnice	Liptaň	99	7	0	F
+8101	597571	1	1	901	9	Květoslav	Koudelka			50	dělník	Liptaň	99	80	0	M
+8101	597571	1	2	1	9	Iveta	Kolářová			42	instrumentářka	Liptaň	99	1	0	F
+8101	597571	1	3	47	9	Milada	Wichlendová			63	důchodce	Liptaň	99	47	0	F
+8101	597571	1	4	7	9	Jaromír	Vlach			36	důchodce	Liptaň - Horní Povelice	99	7	0	M

@@ -1,40 +1,40 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	542377	1	1	901	1	Tomáš	Valer	M	Mgr.		45	starosta městyse	Nouzov	99	80	0
-2112	542377	1	1	901	2	Petr	Kořínek	M			37	kontrolor skladů	Senomaty	99	80	0
-2112	542377	1	1	901	3	Miluše	Palkosková	F			50	školnice	Hostokryje	99	80	0
-2112	542377	1	1	901	4	Daniel	Klaban	M	Ing.		42	podnikatel ve strojírenství	Senomaty	99	80	0
-2112	542377	1	1	901	5	Antonín	Prokop	M	Ing.		56	podnikatel v zemědělství	Senomaty	99	80	0
-2112	542377	1	1	901	6	Vítězslav	Kűhn	M			40	instalatér	Nouzov	99	80	0
-2112	542377	1	1	901	7	Petr	Sojka	M			44	zaměstnanec magistrátu hl.města Prahy	Senomaty	99	80	0
-2112	542377	1	1	901	8	Miroslav	Halló	M	Mgr.Bc.		54	ředitel školy	Hostokryje	99	80	0
-2112	542377	1	1	901	9	Josef	Bouda	M			42	zámečník	Senomaty	99	80	0
-2112	542377	1	1	901	10	Petr	Titlbach	M			36	operátor logistiky	Senomaty	99	80	0
-2112	542377	1	1	901	11	Aleš	Polcar	M			36	obchodní manažer	Senomaty	99	80	0
-2112	542377	1	1	901	12	Jan	Horský	M			21	kuchař	Senomaty	99	80	0
-2112	542377	1	1	901	13	Radka	Valová	F			40	pracovnice cestovní kanceláře	Senomaty	99	80	0
-2112	542377	1	2	7	1	Luděk	Fišer	M	Ing.		37	předseda představenstva zemědělského družstva	Senomaty	7	7	0
-2112	542377	1	2	7	2	Ladislav	Engelthaler	M			61	invalidní důchodce	Senomaty	7	7	0
-2112	542377	1	2	7	3	Petr	Kochleffl	M			41	OSVČ, truhlář	Senomaty	7	7	0
-2112	542377	1	2	7	4	Miroslav	Bezstarosta	M			52	vedoucí Stavebního podniku	Senomaty	7	7	0
-2112	542377	1	2	7	5	Dagmar	Havlíková	F			61	důchodce	Senomaty	7	7	0
-2112	542377	1	2	7	6	Petr	Moláček	M			34	barman,obsluha kasina	Nouzov	7	7	0
-2112	542377	1	2	7	7	František	Bindík	M	JUDr.		57	OSVČ	Hostokryje	7	7	0
-2112	542377	1	2	7	8	Hana	Sahulková	F			56	invalidní důchodce	Senomaty	7	7	0
-2112	542377	1	2	7	9	Petra	Prášilová	F			47	servírka	Nouzov	7	7	0
-2112	542377	1	2	7	10	Jiří	Havlík	M			64	důchodce	Senomaty	7	7	0
-2112	542377	1	2	7	11	Bronislav	Lajbl	M	Ing.		38	auditor	Senomaty	99	7	0
-2112	542377	1	2	7	12	Alena	Suttnerová	F			59	účetní	Senomaty	99	7	0
-2112	542377	1	2	7	13	Bohuslav	Vávra	M			61	traktorista	Hostokryje	99	7	0
-2112	542377	1	3	53	1	Aleš	Šabada	M	Mgr.		44	OSVČ	Senomaty	53	53	0
-2112	542377	1	3	53	2	Simona	Habásková	F	Ing.		37	referent zahraničního obchodu	Senomaty	53	53	0
-2112	542377	1	3	53	3	Pavel	Doubek	M			48	OSVČ	Senomaty	99	53	0
-2112	542377	1	3	53	4	Miroslav	Polcar	M			64	OSVČ	Rakovník II.	99	53	0
-2112	542377	1	3	53	5	Zdeněk	Palkoska	M			62	zedník	Senomaty	99	53	0
-2112	542377	1	3	53	6	Radek	Vávra	M			44	OSVČ	Senomaty	99	53	0
-2112	542377	1	3	53	7	Rostislav	Polánek	M			50	OSVČ	Senomaty	99	53	0
-2112	542377	1	3	53	8	Veronika	Habásková	F	Bc.		33	referent	Senomaty	53	53	0
-2112	542377	1	3	53	9	Martina	Trešlová	F	Mgr.		38	učitelka	Senomaty	99	53	0
-2112	542377	1	3	53	10	Radka	Bezstarostová	F	Mgr.		28	učitelka	Senomaty	99	53	0
-2112	542377	1	3	53	11	Richard	Engelthaler	M			34	zahradník	Senomaty	99	53	0
-2112	542377	1	3	53	12	Jana	Liprtová	F			62	důchodce	Senomaty	53	53	0
-2112	542377	1	3	53	13	Jiří	Topinka	M			29	OSVČ	Senomaty	53	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	542377	1	1	901	1	Tomáš	Valer	Mgr.		45	starosta městyse	Nouzov	99	80	0	M
+2112	542377	1	2	7	1	Luděk	Fišer	Ing.		37	předseda představenstva zemědělského družstva	Senomaty	7	7	0	M
+2112	542377	1	3	53	1	Aleš	Šabada	Mgr.		44	OSVČ	Senomaty	53	53	0	M
+2112	542377	1	1	901	2	Petr	Kořínek			37	kontrolor skladů	Senomaty	99	80	0	M
+2112	542377	1	2	7	2	Ladislav	Engelthaler			61	invalidní důchodce	Senomaty	7	7	0	M
+2112	542377	1	3	53	2	Simona	Habásková	Ing.		37	referent zahraničního obchodu	Senomaty	53	53	0	F
+2112	542377	1	1	901	3	Miluše	Palkosková			50	školnice	Hostokryje	99	80	0	F
+2112	542377	1	2	7	3	Petr	Kochleffl			41	OSVČ, truhlář	Senomaty	7	7	0	M
+2112	542377	1	3	53	3	Pavel	Doubek			48	OSVČ	Senomaty	99	53	0	M
+2112	542377	1	1	901	4	Daniel	Klaban	Ing.		42	podnikatel ve strojírenství	Senomaty	99	80	0	M
+2112	542377	1	2	7	4	Miroslav	Bezstarosta			52	vedoucí Stavebního podniku	Senomaty	7	7	0	M
+2112	542377	1	3	53	4	Miroslav	Polcar			64	OSVČ	Rakovník II.	99	53	0	M
+2112	542377	1	1	901	5	Antonín	Prokop	Ing.		56	podnikatel v zemědělství	Senomaty	99	80	0	M
+2112	542377	1	2	7	5	Dagmar	Havlíková			61	důchodce	Senomaty	7	7	0	F
+2112	542377	1	3	53	5	Zdeněk	Palkoska			62	zedník	Senomaty	99	53	0	M
+2112	542377	1	1	901	6	Vítězslav	Kűhn			40	instalatér	Nouzov	99	80	0	M
+2112	542377	1	2	7	6	Petr	Moláček			34	barman,obsluha kasina	Nouzov	7	7	0	M
+2112	542377	1	3	53	6	Radek	Vávra			44	OSVČ	Senomaty	99	53	0	M
+2112	542377	1	1	901	7	Petr	Sojka			44	zaměstnanec magistrátu hl.města Prahy	Senomaty	99	80	0	M
+2112	542377	1	2	7	7	František	Bindík	JUDr.		57	OSVČ	Hostokryje	7	7	0	M
+2112	542377	1	3	53	7	Rostislav	Polánek			50	OSVČ	Senomaty	99	53	0	M
+2112	542377	1	1	901	8	Miroslav	Halló	Mgr.Bc.		54	ředitel školy	Hostokryje	99	80	0	M
+2112	542377	1	2	7	8	Hana	Sahulková			56	invalidní důchodce	Senomaty	7	7	0	F
+2112	542377	1	3	53	8	Veronika	Habásková	Bc.		33	referent	Senomaty	53	53	0	F
+2112	542377	1	1	901	9	Josef	Bouda			42	zámečník	Senomaty	99	80	0	M
+2112	542377	1	2	7	9	Petra	Prášilová			47	servírka	Nouzov	7	7	0	F
+2112	542377	1	3	53	9	Martina	Trešlová	Mgr.		38	učitelka	Senomaty	99	53	0	F
+2112	542377	1	1	901	10	Petr	Titlbach			36	operátor logistiky	Senomaty	99	80	0	M
+2112	542377	1	2	7	10	Jiří	Havlík			64	důchodce	Senomaty	7	7	0	M
+2112	542377	1	3	53	10	Radka	Bezstarostová	Mgr.		28	učitelka	Senomaty	99	53	0	F
+2112	542377	1	1	901	11	Aleš	Polcar			36	obchodní manažer	Senomaty	99	80	0	M
+2112	542377	1	2	7	11	Bronislav	Lajbl	Ing.		38	auditor	Senomaty	99	7	0	M
+2112	542377	1	3	53	11	Richard	Engelthaler			34	zahradník	Senomaty	99	53	0	M
+2112	542377	1	1	901	12	Jan	Horský			21	kuchař	Senomaty	99	80	0	M
+2112	542377	1	2	7	12	Alena	Suttnerová			59	účetní	Senomaty	99	7	0	F
+2112	542377	1	3	53	12	Jana	Liprtová			62	důchodce	Senomaty	53	53	0	F
+2112	542377	1	1	901	13	Radka	Valová			40	pracovnice cestovní kanceláře	Senomaty	99	80	0	F
+2112	542377	1	2	7	13	Bohuslav	Vávra			61	traktorista	Hostokryje	99	7	0	M
+2112	542377	1	3	53	13	Jiří	Topinka			29	OSVČ	Senomaty	53	53	0	M

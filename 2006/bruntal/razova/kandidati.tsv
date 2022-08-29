@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	597724	1	1	1	1	Luděk	Šujan	M			45	dělník	Razová	99	1	0
-8101	597724	1	1	1	2	Martin	Pavelka	M			33	soukromý zemědělec	Razová	99	1	0
-8101	597724	1	1	1	3	Stanislava	Talčíková	F			46	učitelka	Razová	1	1	0
-8101	597724	1	1	1	4	Josef	Lezna	M			33	soukromý podnikatel	Razová	99	1	0
-8101	597724	1	1	1	5	Vlastimil	Lezna	M			45	soukromý podnikatel	Razová	99	1	0
-8101	597724	1	1	1	6	Jiří	Roller	M			32	řidič	Razová	1	1	0
-8101	597724	1	1	1	7	Jan	Mecner	M			47	realitní makléř	Razová	99	1	0
-8101	597724	1	1	1	8	Eva	Melčáková	F			33	účetní	Razová	99	1	0
-8101	597724	1	1	1	9	Roman	Fořt	M			35	soukromý podnikatel	Razová	99	1	0
-8101	597724	1	2	901	1	Rostislav	Sikora	M			41	podnikatel	Razová	99	80	0
-8101	597724	1	2	901	2	Jiřina	Šujanová	F			40	nezaměstnaná	Razová	99	80	0
-8101	597724	1	2	901	3	Zdeňka	Vlachynská	F			46	prodavačka	Razová	99	80	0
-8101	597724	1	2	901	4	Pavel	Daníšek	M			34	podnikatel	Razová	99	80	0
-8101	597724	1	2	901	5	Michaela	Kadlčíková	F			25	dělnice	Razová	99	80	0
-8101	597724	1	2	901	6	Jitřenka	Adamcová	F			53	podnikatelka	Razová	99	80	0
-8101	597724	1	2	901	7	Lucie	Konečná	F			28	mateřská dovolená	Razová	99	80	0
-8101	597724	1	2	901	8	Václav	Bártek	M	Ing.		63	důchodce	Razová	99	80	0
-8101	597724	1	2	901	9	Klára	Vlachynská	F			23	dělnice	Razová	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	597724	1	1	1	1	Luděk	Šujan			45	dělník	Razová	99	1	0	M
+8101	597724	1	2	901	1	Rostislav	Sikora			41	podnikatel	Razová	99	80	0	M
+8101	597724	1	1	1	2	Martin	Pavelka			33	soukromý zemědělec	Razová	99	1	0	M
+8101	597724	1	2	901	2	Jiřina	Šujanová			40	nezaměstnaná	Razová	99	80	0	F
+8101	597724	1	1	1	3	Stanislava	Talčíková			46	učitelka	Razová	1	1	0	F
+8101	597724	1	2	901	3	Zdeňka	Vlachynská			46	prodavačka	Razová	99	80	0	F
+8101	597724	1	1	1	4	Josef	Lezna			33	soukromý podnikatel	Razová	99	1	0	M
+8101	597724	1	2	901	4	Pavel	Daníšek			34	podnikatel	Razová	99	80	0	M
+8101	597724	1	1	1	5	Vlastimil	Lezna			45	soukromý podnikatel	Razová	99	1	0	M
+8101	597724	1	2	901	5	Michaela	Kadlčíková			25	dělnice	Razová	99	80	0	F
+8101	597724	1	1	1	6	Jiří	Roller			32	řidič	Razová	1	1	0	M
+8101	597724	1	2	901	6	Jitřenka	Adamcová			53	podnikatelka	Razová	99	80	0	F
+8101	597724	1	1	1	7	Jan	Mecner			47	realitní makléř	Razová	99	1	0	M
+8101	597724	1	2	901	7	Lucie	Konečná			28	mateřská dovolená	Razová	99	80	0	F
+8101	597724	1	1	1	8	Eva	Melčáková			33	účetní	Razová	99	1	0	F
+8101	597724	1	2	901	8	Václav	Bártek	Ing.		63	důchodce	Razová	99	80	0	M
+8101	597724	1	1	1	9	Roman	Fořt			35	soukromý podnikatel	Razová	99	1	0	M
+8101	597724	1	2	901	9	Klára	Vlachynská			23	dělnice	Razová	99	80	0	F

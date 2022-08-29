@@ -1,36 +1,36 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	581071	1	1	7	1	Dušan	Stolarik	M			28	inženýr železniční dopravy	Třebovice	7	7	0
-5304	581071	1	1	7	2	Gabriela	Pávková	F			32	zootechnik	Třebovice	99	7	0
-5304	581071	1	1	7	3	Magda	Pagáčová	F			55	referent	Třebovice	99	7	0
-5304	581071	1	1	7	4	Jindřich	Ryšina	M			39	svářeč	Třebovice	99	7	0
-5304	581071	1	1	7	5	Markéta	Fajtová	F			28	lisař	Třebovice	99	7	0
-5304	581071	1	1	7	6	Pavel	Šofronič	M			39	strojník	Třebovice	99	7	0
-5304	581071	1	1	7	7	Marie	Dolečková	F	Ing.		64	důchodce	Třebovice	99	7	0
-5304	581071	1	1	7	8	Zdena	Křížová	F			60	důchodce	Třebovice	99	7	0
-5304	581071	1	1	7	9	Miluše	Kroutilová	F			67	důchodce	Třebovice	99	7	0
-5304	581071	1	2	901	1	Miroslav	Dejdar	M			33	podnikatel	Třebovice	99	80	0
-5304	581071	1	2	901	2	Miloslav	Řehoř	M			39	podnikatel	Třebovice	99	80	0
-5304	581071	1	2	901	3	Libor	Gremlica	M			32	státní zaměstnanec	Třebovice	99	80	0
-5304	581071	1	2	901	4	Pavel	Bartoň	M			43	projektant	Třebovice	99	80	0
-5304	581071	1	2	901	5	Petr	Mach	M			36	mistr	Třebovice	99	80	0
-5304	581071	1	2	901	6	Milan	Gremlica	M			30	zaměstnanec	Třebovice	99	80	0
-5304	581071	1	2	901	7	Luboš	Dejdar	M			28	elektromontér	Třebovice	99	80	0
-5304	581071	1	2	901	8	Ludmila	Peňázová	F			44	školnice	Třebovice	99	80	0
-5304	581071	1	2	901	9	Miloš	Kovář	M			23	zaměstnanec	Třebovice	99	80	0
-5304	581071	1	3	47	1	Naděžda	Fejlová	F			50	ekonom	Třebovice	99	47	0
-5304	581071	1	3	47	2	Karel	Vágner	M			59	živnostník	Třebovice	99	47	0
-5304	581071	1	3	47	3	Bohumír	Jansa	M			66	důchodce	Třebovice	99	47	0
-5304	581071	1	3	47	4	Lenka	Spurná	F			35	skladnice	Třebovice	99	47	0
-5304	581071	1	3	47	5	Dana	Snášelová	F			37	v domácnosti	Třebovice	99	47	0
-5304	581071	1	3	47	6	Martina	Krebsová	F			29	prodavačka	Třebovice	99	47	0
-5304	581071	1	3	47	7	Martin	Vintr	M			27	dělník	Třebovice	99	47	0
-5304	581071	1	3	47	8	Jiřina	Lehká	F			71	důchodce	Třebovice	47	47	0
-5304	581071	1	3	47	9	Jaroslava	Bartolšicová	F			56	důchodce	Třebovice	47	47	0
-5304	581071	1	4	902	1	Marek	Hejč	M			28	nezaměstnaný	Třebovice	99	80	0
-5304	581071	1	4	902	2	Jiří	Lachman	M			40	vedoucí pracovník	Třebovice	99	80	0
-5304	581071	1	4	902	3	Milan	Hejč	M			60	důchodce	Třebovice	99	80	0
-5304	581071	1	4	902	4	Tomáš	Pavlík	M			33	hasič - strojník	Třebovice	99	80	0
-5304	581071	1	4	902	5	Lenka	Kašparová	F			39	doručovatelka	Třebovice	99	80	0
-5304	581071	1	4	902	6	Zdeňka	Pleskotová	F			35	prodavačka	Třebovice	99	80	0
-5304	581071	1	4	902	7	Andrea	Ryšavá	F			29	lisařka	Třebovice	99	80	0
-5304	581071	1	4	902	8	Jaroslav	Chudoba	M			56	svářeč	Třebovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	581071	1	1	7	1	Dušan	Stolarik			28	inženýr železniční dopravy	Třebovice	7	7	0	M
+5304	581071	1	2	901	1	Miroslav	Dejdar			33	podnikatel	Třebovice	99	80	0	M
+5304	581071	1	3	47	1	Naděžda	Fejlová			50	ekonom	Třebovice	99	47	0	F
+5304	581071	1	4	902	1	Marek	Hejč			28	nezaměstnaný	Třebovice	99	80	0	M
+5304	581071	1	1	7	2	Gabriela	Pávková			32	zootechnik	Třebovice	99	7	0	F
+5304	581071	1	2	901	2	Miloslav	Řehoř			39	podnikatel	Třebovice	99	80	0	M
+5304	581071	1	3	47	2	Karel	Vágner			59	živnostník	Třebovice	99	47	0	M
+5304	581071	1	4	902	2	Jiří	Lachman			40	vedoucí pracovník	Třebovice	99	80	0	M
+5304	581071	1	1	7	3	Magda	Pagáčová			55	referent	Třebovice	99	7	0	F
+5304	581071	1	2	901	3	Libor	Gremlica			32	státní zaměstnanec	Třebovice	99	80	0	M
+5304	581071	1	3	47	3	Bohumír	Jansa			66	důchodce	Třebovice	99	47	0	M
+5304	581071	1	4	902	3	Milan	Hejč			60	důchodce	Třebovice	99	80	0	M
+5304	581071	1	1	7	4	Jindřich	Ryšina			39	svářeč	Třebovice	99	7	0	M
+5304	581071	1	2	901	4	Pavel	Bartoň			43	projektant	Třebovice	99	80	0	M
+5304	581071	1	3	47	4	Lenka	Spurná			35	skladnice	Třebovice	99	47	0	F
+5304	581071	1	4	902	4	Tomáš	Pavlík			33	hasič - strojník	Třebovice	99	80	0	M
+5304	581071	1	1	7	5	Markéta	Fajtová			28	lisař	Třebovice	99	7	0	F
+5304	581071	1	2	901	5	Petr	Mach			36	mistr	Třebovice	99	80	0	M
+5304	581071	1	3	47	5	Dana	Snášelová			37	v domácnosti	Třebovice	99	47	0	F
+5304	581071	1	4	902	5	Lenka	Kašparová			39	doručovatelka	Třebovice	99	80	0	F
+5304	581071	1	1	7	6	Pavel	Šofronič			39	strojník	Třebovice	99	7	0	M
+5304	581071	1	2	901	6	Milan	Gremlica			30	zaměstnanec	Třebovice	99	80	0	M
+5304	581071	1	3	47	6	Martina	Krebsová			29	prodavačka	Třebovice	99	47	0	F
+5304	581071	1	4	902	6	Zdeňka	Pleskotová			35	prodavačka	Třebovice	99	80	0	F
+5304	581071	1	1	7	7	Marie	Dolečková	Ing.		64	důchodce	Třebovice	99	7	0	F
+5304	581071	1	2	901	7	Luboš	Dejdar			28	elektromontér	Třebovice	99	80	0	M
+5304	581071	1	3	47	7	Martin	Vintr			27	dělník	Třebovice	99	47	0	M
+5304	581071	1	4	902	7	Andrea	Ryšavá			29	lisařka	Třebovice	99	80	0	F
+5304	581071	1	1	7	8	Zdena	Křížová			60	důchodce	Třebovice	99	7	0	F
+5304	581071	1	2	901	8	Ludmila	Peňázová			44	školnice	Třebovice	99	80	0	F
+5304	581071	1	3	47	8	Jiřina	Lehká			71	důchodce	Třebovice	47	47	0	F
+5304	581071	1	4	902	8	Jaroslav	Chudoba			56	svářeč	Třebovice	99	80	0	M
+5304	581071	1	1	7	9	Miluše	Kroutilová			67	důchodce	Třebovice	99	7	0	F
+5304	581071	1	2	901	9	Miloš	Kovář			23	zaměstnanec	Třebovice	99	80	0	M
+5304	581071	1	3	47	9	Jaroslava	Bartolšicová			56	důchodce	Třebovice	47	47	0	F

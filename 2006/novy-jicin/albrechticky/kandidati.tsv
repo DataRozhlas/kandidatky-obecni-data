@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8104	568741	1	1	901	1	Jiří	Cedidlo	M			29	účetní-ekonom	Albrechtičky	99	80	0
-8104	568741	1	1	901	2	Jiří	Tomášek	M			53	dělník	Albrechtičky	99	80	0
-8104	568741	1	1	901	3	Zdeněk	Šnajdar	M			67	důchodce	Albrechtičky	99	80	0
-8104	568741	1	1	901	4	Jarmila	Hadová	F			64	důchodkyně	Albrechtičky	99	80	0
-8104	568741	1	1	901	5	Marie	Solárová	F	doc.RNDr.	Ph.D.	56	vysokoškolská učitelka	Albrechtičky	99	80	0
-8104	568741	1	1	901	6	Jana	Drabíková	F			44	dělnice	Albrechtičky	99	80	0
-8104	568741	1	1	901	7	Dušan	Dybal	M			38	dělník	Albrechtičky	99	80	0
-8104	568741	1	1	901	8	Libuše	Genzerová	F		DiS.	28	všeobecná zdravotní sestra	Albrechtičky	99	80	0
-8104	568741	1	1	901	9	Jaroslav	Huvar	M	Ing.		75	důchodce	Albrechtičky	99	80	0
-8104	568741	1	2	902	1	Miloslav	Čegan	M	Ing.		48	starosta obce	Albrechtičky	99	80	0
-8104	568741	1	2	902	2	Zdeněk	Urban	M	Ing.		52	podnikatel - projektant	Albrechtičky	99	80	0
-8104	568741	1	2	902	3	Věra	Huvarová	F	Mgr.		36	učitelka ZŠ	Albrechtičky	99	80	0
-8104	568741	1	2	902	4	Jan	Seifert	M			55	hlavní stavbyvedoucí	Albrechtičky	99	80	0
-8104	568741	1	2	902	5	Irena	Marcolová	F			54	rehabilitační pracovnice	Albrechtičky	99	80	0
-8104	568741	1	2	902	6	Josef	Geryk	M			54	laborant - vzorkař	Albrechtičky	99	80	0
-8104	568741	1	2	902	7	Bedřich	Drda	M			38	nezaměstnaný	Albrechtičky	99	80	0
-8104	568741	1	2	902	8	Miroslav	Myška	M			55	vedoucí provozu	Albrechtičky	99	80	0
-8104	568741	1	2	902	9	František	Tripský	M	Ing.		39	analytik - programátor	Albrechtičky	99	80	0
-8104	568741	1	3	1	1	Petr	Dostál	M	Ing.		29	agronom	Albrechtičky	99	1	0
-8104	568741	1	3	1	2	Martina	Kilnarová	F			27	zdravotní sestra	Albrechtičky	99	1	0
-8104	568741	1	3	1	3	Milan	Myška	M	Mgr.		27	učitel	Albrechtičky	99	1	0
-8104	568741	1	3	1	4	Mojmír	Demel	M	Ing.		34	technolog	Albrechtičky	99	1	0
-8104	568741	1	3	1	5	Radek	Machala	M	Ing.		23	lesní inženýr	Albrechtičky	99	1	0
-8104	568741	1	3	1	6	Jana	Dostálová	F			27	úřednice	Albrechtičky	99	1	0
-8104	568741	1	3	1	7	Jana	Kalocsányiová	F	Ing.		41	asistentka	Albrechtičky	99	1	0
-8104	568741	1	3	1	8	Ludmila	Staňková	F			42	výpravčí	Albrechtičky	1	1	0
-8104	568741	1	3	1	9	Stanislav	Myška	M			53	dělník	Albrechtičky	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8104	568741	1	1	901	1	Jiří	Cedidlo			29	účetní-ekonom	Albrechtičky	99	80	0	M
+8104	568741	1	2	902	1	Miloslav	Čegan	Ing.		48	starosta obce	Albrechtičky	99	80	0	M
+8104	568741	1	3	1	1	Petr	Dostál	Ing.		29	agronom	Albrechtičky	99	1	0	M
+8104	568741	1	1	901	2	Jiří	Tomášek			53	dělník	Albrechtičky	99	80	0	M
+8104	568741	1	2	902	2	Zdeněk	Urban	Ing.		52	podnikatel - projektant	Albrechtičky	99	80	0	M
+8104	568741	1	3	1	2	Martina	Kilnarová			27	zdravotní sestra	Albrechtičky	99	1	0	F
+8104	568741	1	1	901	3	Zdeněk	Šnajdar			67	důchodce	Albrechtičky	99	80	0	M
+8104	568741	1	2	902	3	Věra	Huvarová	Mgr.		36	učitelka ZŠ	Albrechtičky	99	80	0	F
+8104	568741	1	3	1	3	Milan	Myška	Mgr.		27	učitel	Albrechtičky	99	1	0	M
+8104	568741	1	1	901	4	Jarmila	Hadová			64	důchodkyně	Albrechtičky	99	80	0	F
+8104	568741	1	2	902	4	Jan	Seifert			55	hlavní stavbyvedoucí	Albrechtičky	99	80	0	M
+8104	568741	1	3	1	4	Mojmír	Demel	Ing.		34	technolog	Albrechtičky	99	1	0	M
+8104	568741	1	1	901	5	Marie	Solárová	doc.RNDr.	Ph.D.	56	vysokoškolská učitelka	Albrechtičky	99	80	0	F
+8104	568741	1	2	902	5	Irena	Marcolová			54	rehabilitační pracovnice	Albrechtičky	99	80	0	F
+8104	568741	1	3	1	5	Radek	Machala	Ing.		23	lesní inženýr	Albrechtičky	99	1	0	M
+8104	568741	1	1	901	6	Jana	Drabíková			44	dělnice	Albrechtičky	99	80	0	F
+8104	568741	1	2	902	6	Josef	Geryk			54	laborant - vzorkař	Albrechtičky	99	80	0	M
+8104	568741	1	3	1	6	Jana	Dostálová			27	úřednice	Albrechtičky	99	1	0	F
+8104	568741	1	1	901	7	Dušan	Dybal			38	dělník	Albrechtičky	99	80	0	M
+8104	568741	1	2	902	7	Bedřich	Drda			38	nezaměstnaný	Albrechtičky	99	80	0	M
+8104	568741	1	3	1	7	Jana	Kalocsányiová	Ing.		41	asistentka	Albrechtičky	99	1	0	F
+8104	568741	1	1	901	8	Libuše	Genzerová		DiS.	28	všeobecná zdravotní sestra	Albrechtičky	99	80	0	F
+8104	568741	1	2	902	8	Miroslav	Myška			55	vedoucí provozu	Albrechtičky	99	80	0	M
+8104	568741	1	3	1	8	Ludmila	Staňková			42	výpravčí	Albrechtičky	1	1	0	F
+8104	568741	1	1	901	9	Jaroslav	Huvar	Ing.		75	důchodce	Albrechtičky	99	80	0	M
+8104	568741	1	2	902	9	František	Tripský	Ing.		39	analytik - programátor	Albrechtičky	99	80	0	M
+8104	568741	1	3	1	9	Stanislav	Myška			53	dělník	Albrechtičky	99	1	0	M

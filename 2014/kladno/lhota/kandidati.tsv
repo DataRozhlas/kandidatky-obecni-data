@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	513041	1	1	470	1	Věra	NEDVĚDOVÁ	F			33	místostarostka	Lhota	99	166	0
-2103	513041	1	1	470	2	Alice	JURKOVÁ	F	Ing.		38	ekonom	Lhota	99	80	0
-2103	513041	1	1	470	3	Luboš	JIRÁSEK	M	Ing.		59	jednatel firmy	Lhota	99	80	0
-2103	513041	1	1	470	4	Marie	PRCHALOVÁ	F	RNDr.	Ph.D.	35	vědec	Lhota	99	80	0
-2103	513041	1	1	470	5	Veronika	MANTLÍKOVÁ	F	Ing.		29	mateřská dovolená	Lhota	99	80	0
-2103	513041	1	1	470	6	Kateřina	CHUDOBOVÁ	F	Ing.		37	ekonom	Lhota	99	80	0
-2103	513041	1	1	470	7	Jana	LEDVINKOVÁ	F			37	státní zaměstnanec	Lhota	99	80	0
-2103	513041	1	1	470	8	Luboš	MACH	M			49	informatik	Lhota	99	80	0
-2103	513041	1	1	470	9	Jan	ANDĚL	M			40	skladník	Lhota	99	80	0
-2103	513041	1	2	901	1	Jan	KOHOUT	M			34	státní zaměstnanec	Lhota	99	80	0
-2103	513041	1	2	901	2	Radka	JANOUŠOVÁ	F	Mgr.		36	učitelka základní školy	Lhota	99	80	0
-2103	513041	1	2	901	3	Jan	KOST	M			37	OSVČ	Lhota	99	80	0
-2103	513041	1	2	901	4	Ivana	KUČEROVÁ	F	Mgr.		25	učitelka základní školy	Lhota	99	80	0
-2103	513041	1	2	901	5	Robert	HORÁČEK	M			48	manažer	Lhota	99	80	0
-2103	513041	1	2	901	6	Martin	HAMOUZ	M			40	OSVČ	Lhota	99	80	0
-2103	513041	1	2	901	7	Jiří	ŠNOBL	M			56	technik	Lhota	99	80	0
-2103	513041	1	2	901	8	Věra	OLIČOVÁ	F			45	krejčová	Lhota	99	80	0
-2103	513041	1	2	901	9	Dušan	ČURDA	M			30	OSVČ	Lhota	99	80	0
-2103	513041	1	3	53	1	Miloslav	PODDANÝ	M			45	OSVČ	Lhota	53	53	0
-2103	513041	1	3	53	2	Alena	KOHOUTOVÁ	F			33	technik	Lhota	99	53	0
-2103	513041	1	3	53	3	Tomáš	LUHAN	M			64	OSVČ	Lhota	99	53	0
-2103	513041	1	3	53	4	Rudolf	SELICHAR	M			59	OSVČ	Lhota	53	53	0
-2103	513041	1	3	53	5	Vladimír Václav	VAŠÍČEK	M			64	důchodce	Lhota	99	53	0
-2103	513041	1	3	53	6	Martin	DOSTÁL	M			37	OSVČ	Lhota	99	53	0
-2103	513041	1	3	53	7	Dušan	NOVÁK	M			40	státní zaměstnanec	Lhota	99	53	0
-2103	513041	1	3	53	8	Jaromír	ČERMÁK	M			54	státní zaměstnanec	Lhota	99	53	0
-2103	513041	1	3	53	9	Hana	MEJZROVÁ	F			67	důchodce	Lhota	99	53	0
-2103	513041	1	4	47	1	Jarmila	RYSKOVÁ	F			65	důchodce	Lhota	47	47	0
-2103	513041	1	4	47	2	Jana	MACHULKOVÁ	F			71	důchodce	Lhota	99	47	0
-2103	513041	1	4	47	3	Antonín	DVOŘÁK	M			64	podnikatel	Lhota	99	47	0
-2103	513041	1	4	47	4	Jana	HASALOVÁ	F			55	nezaměstnaná	Lhota	99	47	0
-2103	513041	1	4	47	5	Zdeněk	ŠNOBL	M			81	důchodce	Lhota	99	47	0
-2103	513041	1	4	47	6	František	ŠVEJCAR	M			80	důchodce	Lhota	99	47	0
-2103	513041	1	4	47	7	Jindřiška	MACHOVÁ	F			84	důchodce	Lhota	99	47	0
-2103	513041	1	4	47	8	Jaroslava	DUBCOVÁ	F			87	důchodce	Lhota	99	47	0
-2103	513041	1	4	47	9	Hana	MELENOVÁ	F			77	důchodce	Lhota	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	513041	1	1	470	1	Věra	NEDVĚDOVÁ			33	místostarostka	Lhota	99	166	0	F
+2103	513041	1	2	901	1	Jan	KOHOUT			34	státní zaměstnanec	Lhota	99	80	0	M
+2103	513041	1	3	53	1	Miloslav	PODDANÝ			45	OSVČ	Lhota	53	53	0	M
+2103	513041	1	4	47	1	Jarmila	RYSKOVÁ			65	důchodce	Lhota	47	47	0	F
+2103	513041	1	1	470	2	Alice	JURKOVÁ	Ing.		38	ekonom	Lhota	99	80	0	F
+2103	513041	1	2	901	2	Radka	JANOUŠOVÁ	Mgr.		36	učitelka základní školy	Lhota	99	80	0	F
+2103	513041	1	3	53	2	Alena	KOHOUTOVÁ			33	technik	Lhota	99	53	0	F
+2103	513041	1	4	47	2	Jana	MACHULKOVÁ			71	důchodce	Lhota	99	47	0	F
+2103	513041	1	1	470	3	Luboš	JIRÁSEK	Ing.		59	jednatel firmy	Lhota	99	80	0	M
+2103	513041	1	2	901	3	Jan	KOST			37	OSVČ	Lhota	99	80	0	M
+2103	513041	1	3	53	3	Tomáš	LUHAN			64	OSVČ	Lhota	99	53	0	M
+2103	513041	1	4	47	3	Antonín	DVOŘÁK			64	podnikatel	Lhota	99	47	0	M
+2103	513041	1	1	470	4	Marie	PRCHALOVÁ	RNDr.	Ph.D.	35	vědec	Lhota	99	80	0	F
+2103	513041	1	2	901	4	Ivana	KUČEROVÁ	Mgr.		25	učitelka základní školy	Lhota	99	80	0	F
+2103	513041	1	3	53	4	Rudolf	SELICHAR			59	OSVČ	Lhota	53	53	0	M
+2103	513041	1	4	47	4	Jana	HASALOVÁ			55	nezaměstnaná	Lhota	99	47	0	F
+2103	513041	1	1	470	5	Veronika	MANTLÍKOVÁ	Ing.		29	mateřská dovolená	Lhota	99	80	0	F
+2103	513041	1	2	901	5	Robert	HORÁČEK			48	manažer	Lhota	99	80	0	M
+2103	513041	1	3	53	5	Vladimír Václav	VAŠÍČEK			64	důchodce	Lhota	99	53	0	M
+2103	513041	1	4	47	5	Zdeněk	ŠNOBL			81	důchodce	Lhota	99	47	0	M
+2103	513041	1	1	470	6	Kateřina	CHUDOBOVÁ	Ing.		37	ekonom	Lhota	99	80	0	F
+2103	513041	1	2	901	6	Martin	HAMOUZ			40	OSVČ	Lhota	99	80	0	M
+2103	513041	1	3	53	6	Martin	DOSTÁL			37	OSVČ	Lhota	99	53	0	M
+2103	513041	1	4	47	6	František	ŠVEJCAR			80	důchodce	Lhota	99	47	0	M
+2103	513041	1	1	470	7	Jana	LEDVINKOVÁ			37	státní zaměstnanec	Lhota	99	80	0	F
+2103	513041	1	2	901	7	Jiří	ŠNOBL			56	technik	Lhota	99	80	0	M
+2103	513041	1	3	53	7	Dušan	NOVÁK			40	státní zaměstnanec	Lhota	99	53	0	M
+2103	513041	1	4	47	7	Jindřiška	MACHOVÁ			84	důchodce	Lhota	99	47	0	F
+2103	513041	1	1	470	8	Luboš	MACH			49	informatik	Lhota	99	80	0	M
+2103	513041	1	2	901	8	Věra	OLIČOVÁ			45	krejčová	Lhota	99	80	0	F
+2103	513041	1	3	53	8	Jaromír	ČERMÁK			54	státní zaměstnanec	Lhota	99	53	0	M
+2103	513041	1	4	47	8	Jaroslava	DUBCOVÁ			87	důchodce	Lhota	99	47	0	F
+2103	513041	1	1	470	9	Jan	ANDĚL			40	skladník	Lhota	99	80	0	M
+2103	513041	1	2	901	9	Dušan	ČURDA			30	OSVČ	Lhota	99	80	0	M
+2103	513041	1	3	53	9	Hana	MEJZROVÁ			67	důchodce	Lhota	99	53	0	F
+2103	513041	1	4	47	9	Hana	MELENOVÁ			77	důchodce	Lhota	99	47	0	F

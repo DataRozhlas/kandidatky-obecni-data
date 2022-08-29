@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	546801	1	1	901	1	Karel	Dvořák	M			56	starosta města	Nová Včelnice	99	80	A
-3103	546801	1	1	901	2	Jana	Maříková	F			47	lékárnice	Nová Včelnice	99	80	A
-3103	546801	1	1	901	3	Jaroslav	Kašša	M			42	elektromontér	Nová Včelnice	99	80	A
-3103	546801	1	1	901	4	Alena	Bočková	F			43	dětská sestra	Nová Včelnice	99	80	A
-3103	546801	1	1	901	5	Miroslav	Zikmund	M			33	učitel ZŠ	Nová Včelnice	99	80	A
-3103	546801	1	1	901	6	Alena	Vanišová	F			58	učitelka MŠ	Nová Včelnice	99	80	A
-3103	546801	1	1	901	7	Tomáš	Hrubec	M			44	IT specialista	Nová Včelnice	99	80	A
-3103	546801	1	1	901	8	Štěpán	Staněk	M			25	stavební technik	Nová Včelnice	99	80	A
-3103	546801	1	1	901	9	Tomáš	Míchal	M			39	obchodní zástupce	Nová Včelnice	99	80	A
-3103	546801	1	1	901	10	Barbora	Pechková	F			47	podnikatelka	Nová Včelnice	99	80	A
-3103	546801	1	1	901	11	Klára	Kaňovská	F			26	obsluha ČP	Nová Včelnice	99	80	A
-3103	546801	1	2	231	1	Pavel	Poslušný	M			43	jednatel společnosti	Nová Včelnice	99	47	A
-3103	546801	1	2	231	2	Ivan	Pospíšil	M			69	energetik	Nová Včelnice	99	7	A
-3103	546801	1	2	231	3	Zdeněk	Brus	M			65	technik	Nová Včelnice	47	47	A
-3103	546801	1	2	231	4	Karel	Mileret	M			60	dělník	Nová Včelnice	99	7	A
-3103	546801	1	2	231	5	Lukáš	Miklík	M			35	řidič	Nová Včelnice	47	47	A
-3103	546801	1	2	231	6	Radek	Vopravil	M			38	montážní dělník	Nová Včelnice	47	47	A
-3103	546801	1	2	231	7	Pavel	Biernat	M			49	správce budov	Nová Včelnice	99	47	A
-3103	546801	1	2	231	8	Radomír	Kupka	M			36	chemik	Nová Včelnice	47	47	A
-3103	546801	1	2	231	9	Zdeněk	Beran	M			68	strážný	Nová Včelnice	47	47	A
-3103	546801	1	2	231	10	Marie	Tymová	F			74	dělnice	Nová Včelnice	47	47	A
-3103	546801	1	2	231	11	Pavel	Molák	M			71	člen strážní služby	Nová Včelnice	47	47	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	546801	1	1	901	1	Karel	Dvořák			56	starosta města	Nová Včelnice	99	80	A	M
+3103	546801	1	2	231	1	Pavel	Poslušný			43	jednatel společnosti	Nová Včelnice	99	47	A	M
+3103	546801	1	1	901	2	Jana	Maříková			47	lékárnice	Nová Včelnice	99	80	A	F
+3103	546801	1	2	231	2	Ivan	Pospíšil			69	energetik	Nová Včelnice	99	7	A	M
+3103	546801	1	1	901	3	Jaroslav	Kašša			42	elektromontér	Nová Včelnice	99	80	A	M
+3103	546801	1	2	231	3	Zdeněk	Brus			65	technik	Nová Včelnice	47	47	A	M
+3103	546801	1	1	901	4	Alena	Bočková			43	dětská sestra	Nová Včelnice	99	80	A	F
+3103	546801	1	2	231	4	Karel	Mileret			60	dělník	Nová Včelnice	99	7	A	M
+3103	546801	1	1	901	5	Miroslav	Zikmund			33	učitel ZŠ	Nová Včelnice	99	80	A	M
+3103	546801	1	2	231	5	Lukáš	Miklík			35	řidič	Nová Včelnice	47	47	A	M
+3103	546801	1	1	901	6	Alena	Vanišová			58	učitelka MŠ	Nová Včelnice	99	80	A	F
+3103	546801	1	2	231	6	Radek	Vopravil			38	montážní dělník	Nová Včelnice	47	47	A	M
+3103	546801	1	1	901	7	Tomáš	Hrubec			44	IT specialista	Nová Včelnice	99	80	A	M
+3103	546801	1	2	231	7	Pavel	Biernat			49	správce budov	Nová Včelnice	99	47	A	M
+3103	546801	1	1	901	8	Štěpán	Staněk			25	stavební technik	Nová Včelnice	99	80	A	M
+3103	546801	1	2	231	8	Radomír	Kupka			36	chemik	Nová Včelnice	47	47	A	M
+3103	546801	1	1	901	9	Tomáš	Míchal			39	obchodní zástupce	Nová Včelnice	99	80	A	M
+3103	546801	1	2	231	9	Zdeněk	Beran			68	strážný	Nová Včelnice	47	47	A	M
+3103	546801	1	1	901	10	Barbora	Pechková			47	podnikatelka	Nová Včelnice	99	80	A	F
+3103	546801	1	2	231	10	Marie	Tymová			74	dělnice	Nová Včelnice	47	47	A	F
+3103	546801	1	1	901	11	Klára	Kaňovská			26	obsluha ČP	Nová Včelnice	99	80	A	F
+3103	546801	1	2	231	11	Pavel	Molák			71	člen strážní služby	Nová Včelnice	47	47	A	M

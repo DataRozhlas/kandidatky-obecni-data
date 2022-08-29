@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4103	538396	1	1	902	1	František	Pešek	M			61	soukromý podnikatel	Šabina	53	80	A
-4103	538396	1	1	902	2	Soňa	Pisárová	F			46	vedoucí soudní kanceláře	Šabina	99	80	A
-4103	538396	1	1	902	3	Jiří	Tuček	M			61	vedoucí prodejny	Šabina	53	80	A
-4103	538396	1	1	902	4	Jitka	Pastrňáková	F			61	důchodkyně	Šabina	99	80	A
-4103	538396	1	1	902	5	Karel	Braha	M			62	elektromechanik	Šabina	99	80	A
-4103	538396	1	1	902	6	Vladislav	Slivoně	M			54	elektromontér	Šabina	99	80	A
-4103	538396	1	1	902	7	Hana	Košnarová	F	Mgr.		60	učitelka ZŠ	Šabina	99	80	A
-4103	538396	1	1	902	8	Lenka	Németová	F	Bc.		56	fyzioterapeutka	Šabina	99	80	A
-4103	538396	1	1	902	9	Richard	Hejlek	M	Bc.		43	technik	Šabina	99	80	A
-4103	538396	1	2	901	1	Pavel	Pešek	M			43	technický pracovník, SUAS	Šabina	99	80	A
-4103	538396	1	2	901	2	Bedřich	Líbal	M	Ing.		65	důchodce	Šabina	99	80	A
-4103	538396	1	2	901	3	Martin	Lenomar	M			51	živnostník	Šabina	99	80	A
-4103	538396	1	2	901	4	Jiřina	Hrudková	F			55	účetní	Šabina	99	80	A
-4103	538396	1	2	901	5	Jitka	Lorenzová	F			45	vedoucí prodejny	Šabina	99	80	A
-4103	538396	1	2	901	6	Pavel	Holeček	M			69	důchodce	Šabina	99	80	A
-4103	538396	1	2	901	7	Jan	Bína	M			63	důchodce, elektromechanik	Šabina	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4103	538396	1	1	902	1	František	Pešek			61	soukromý podnikatel	Šabina	53	80	A	M
+4103	538396	1	2	901	1	Pavel	Pešek			43	technický pracovník, SUAS	Šabina	99	80	A	M
+4103	538396	1	1	902	2	Soňa	Pisárová			46	vedoucí soudní kanceláře	Šabina	99	80	A	F
+4103	538396	1	2	901	2	Bedřich	Líbal	Ing.		65	důchodce	Šabina	99	80	A	M
+4103	538396	1	1	902	3	Jiří	Tuček			61	vedoucí prodejny	Šabina	53	80	A	M
+4103	538396	1	2	901	3	Martin	Lenomar			51	živnostník	Šabina	99	80	A	M
+4103	538396	1	1	902	4	Jitka	Pastrňáková			61	důchodkyně	Šabina	99	80	A	F
+4103	538396	1	2	901	4	Jiřina	Hrudková			55	účetní	Šabina	99	80	A	F
+4103	538396	1	1	902	5	Karel	Braha			62	elektromechanik	Šabina	99	80	A	M
+4103	538396	1	2	901	5	Jitka	Lorenzová			45	vedoucí prodejny	Šabina	99	80	A	F
+4103	538396	1	1	902	6	Vladislav	Slivoně			54	elektromontér	Šabina	99	80	A	M
+4103	538396	1	2	901	6	Pavel	Holeček			69	důchodce	Šabina	99	80	A	M
+4103	538396	1	1	902	7	Hana	Košnarová	Mgr.		60	učitelka ZŠ	Šabina	99	80	A	F
+4103	538396	1	2	901	7	Jan	Bína			63	důchodce, elektromechanik	Šabina	99	80	A	M
+4103	538396	1	1	902	8	Lenka	Németová	Bc.		56	fyzioterapeutka	Šabina	99	80	A	F
+4103	538396	1	1	902	9	Richard	Hejlek	Bc.		43	technik	Šabina	99	80	A	M

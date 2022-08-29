@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	552151	1	1	901	1	Tomáš	Spurný	M			57	starosta obce	Skrbeň	99	80	0
-7102	552151	1	1	901	2	Markéta	Gabrlíková	F	Ing.		39	projektant	Skrbeň	99	80	0
-7102	552151	1	1	901	3	Pavel	Bačík	M	Ing.		46	ředitel společnosti	Skrbeň	99	80	0
-7102	552151	1	1	901	4	Jan	Žižlavský	M	Ing.		43	bankovní manažer	Skrbeň	99	80	0
-7102	552151	1	1	901	5	Viktor	Čehovský	M	Ing. arch.		40	architekt	Skrbeň	99	80	0
-7102	552151	1	1	901	6	Jakub	Wittka	M	Ing.		24	osoba samostatně výdělečně činná	Skrbeň	99	80	0
-7102	552151	1	1	901	7	Miroslav	Štanga	M			37	osoba samostatně výdělečně činná	Skrbeň	99	80	0
-7102	552151	1	1	901	8	Zdeňka	Protivánková	F			36	účetní	Skrbeň	99	80	0
-7102	552151	1	1	901	9	Josef	Zlámal	M			52	osoba samostatně výdělečně činná	Skrbeň	99	80	0
-7102	552151	1	2	902	1	Jaroslav	Jureček	M			64	důchodce	Skrbeň	99	80	0
-7102	552151	1	2	902	2	Jan	Koleňák	M			40	řidič	Skrbeň	99	80	0
-7102	552151	1	2	902	3	Vratislav	Obšel	M			48	frézař CNC	Skrbeň	99	80	0
-7102	552151	1	2	902	4	Kamil	Jureček	M			38	elektromontér	Skrbeň	99	80	0
-7102	552151	1	2	902	5	Ladislav	Zlámal	M			40	servisní technik	Skrbeň	99	80	0
-7102	552151	1	2	902	6	Lubomír	Dopita	M			29	autoelektrikář	Skrbeň	99	80	0
-7102	552151	1	2	902	7	Ivana	Berková	F			48	dělnice	Skrbeň	99	80	0
-7102	552151	1	2	902	8	Jaromír	Bludský	M			31	klempíř	Skrbeň	99	80	0
-7102	552151	1	2	902	9	Zdeňka	Musálková	F			42	biochemik	Skrbeň	99	80	0
-7102	552151	1	3	47	1	Marta	Studená	F			70	důchodkyně	Skrbeň	99	47	0
-7102	552151	1	3	47	2	Josef	Absolon	M			69	důchodce	Skrbeň	99	47	0
-7102	552151	1	3	47	3	Vladimír	Bodlák	M			61	strojvedoucí ČD	Skrbeň	99	47	0
-7102	552151	1	3	47	4	Věra	Vrobelová	F	Mgr.		58	učitelka	Skrbeň	99	47	0
-7102	552151	1	3	47	5	Jiří	Berka	M			64	důchodce	Skrbeň	99	47	0
-7102	552151	1	3	47	6	Miroslav	Veselík	M			60	technik	Skrbeň	99	47	0
-7102	552151	1	3	47	7	Jiří	Vinkler	M			63	důchodce	Skrbeň	99	47	0
-7102	552151	1	3	47	8	Marie	Brokešová	F			60	důchodkyně	Skrbeň	99	47	0
-7102	552151	1	3	47	9	Ludmila	Dopitová	F			74	důchodkyně	Skrbeň	99	47	0
-7102	552151	1	4	210	1	Stanislav	Vaďura	M	Bc.		45	manažer obchodu	Skrbeň	53	53	0
-7102	552151	1	4	210	2	Josef	Fiala	M			37	strojní operátor	Skrbeň	1	1	0
-7102	552151	1	4	210	3	Helena	Plachá	F			39	asistentka primátora statut. města Olomouc	Skrbeň	53	53	0
-7102	552151	1	4	210	4	Ondřej	Fiala	M	Ing.		57	referent odb. dopravy Krajského úřadu Olomouc	Skrbeň	1	1	0
-7102	552151	1	4	210	5	Rudolf	Penc	M			46	směnový inženýr v energetice	Skrbeň	99	53	0
-7102	552151	1	4	210	6	Gabriel	Andrýsek	M			63	důchodce	Skrbeň	99	1	0
-7102	552151	1	4	210	7	Jiřina	Izáková	F			45	sanitářka	Skrbeň	99	53	0
-7102	552151	1	4	210	8	Marek	Fiala	M			30	projektant	Skrbeň	99	1	0
-7102	552151	1	4	210	9	Antonín	Trubačík	M			51	majitel autodopravy	Skrbeň	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	552151	1	1	901	1	Tomáš	Spurný			57	starosta obce	Skrbeň	99	80	0	M
+7102	552151	1	2	902	1	Jaroslav	Jureček			64	důchodce	Skrbeň	99	80	0	M
+7102	552151	1	3	47	1	Marta	Studená			70	důchodkyně	Skrbeň	99	47	0	F
+7102	552151	1	4	210	1	Stanislav	Vaďura	Bc.		45	manažer obchodu	Skrbeň	53	53	0	M
+7102	552151	1	1	901	2	Markéta	Gabrlíková	Ing.		39	projektant	Skrbeň	99	80	0	F
+7102	552151	1	2	902	2	Jan	Koleňák			40	řidič	Skrbeň	99	80	0	M
+7102	552151	1	3	47	2	Josef	Absolon			69	důchodce	Skrbeň	99	47	0	M
+7102	552151	1	4	210	2	Josef	Fiala			37	strojní operátor	Skrbeň	1	1	0	M
+7102	552151	1	1	901	3	Pavel	Bačík	Ing.		46	ředitel společnosti	Skrbeň	99	80	0	M
+7102	552151	1	2	902	3	Vratislav	Obšel			48	frézař CNC	Skrbeň	99	80	0	M
+7102	552151	1	3	47	3	Vladimír	Bodlák			61	strojvedoucí ČD	Skrbeň	99	47	0	M
+7102	552151	1	4	210	3	Helena	Plachá			39	asistentka primátora statut. města Olomouc	Skrbeň	53	53	0	F
+7102	552151	1	1	901	4	Jan	Žižlavský	Ing.		43	bankovní manažer	Skrbeň	99	80	0	M
+7102	552151	1	2	902	4	Kamil	Jureček			38	elektromontér	Skrbeň	99	80	0	M
+7102	552151	1	3	47	4	Věra	Vrobelová	Mgr.		58	učitelka	Skrbeň	99	47	0	F
+7102	552151	1	4	210	4	Ondřej	Fiala	Ing.		57	referent odb. dopravy Krajského úřadu Olomouc	Skrbeň	1	1	0	M
+7102	552151	1	1	901	5	Viktor	Čehovský	Ing. arch.		40	architekt	Skrbeň	99	80	0	M
+7102	552151	1	2	902	5	Ladislav	Zlámal			40	servisní technik	Skrbeň	99	80	0	M
+7102	552151	1	3	47	5	Jiří	Berka			64	důchodce	Skrbeň	99	47	0	M
+7102	552151	1	4	210	5	Rudolf	Penc			46	směnový inženýr v energetice	Skrbeň	99	53	0	M
+7102	552151	1	1	901	6	Jakub	Wittka	Ing.		24	osoba samostatně výdělečně činná	Skrbeň	99	80	0	M
+7102	552151	1	2	902	6	Lubomír	Dopita			29	autoelektrikář	Skrbeň	99	80	0	M
+7102	552151	1	3	47	6	Miroslav	Veselík			60	technik	Skrbeň	99	47	0	M
+7102	552151	1	4	210	6	Gabriel	Andrýsek			63	důchodce	Skrbeň	99	1	0	M
+7102	552151	1	1	901	7	Miroslav	Štanga			37	osoba samostatně výdělečně činná	Skrbeň	99	80	0	M
+7102	552151	1	2	902	7	Ivana	Berková			48	dělnice	Skrbeň	99	80	0	F
+7102	552151	1	3	47	7	Jiří	Vinkler			63	důchodce	Skrbeň	99	47	0	M
+7102	552151	1	4	210	7	Jiřina	Izáková			45	sanitářka	Skrbeň	99	53	0	F
+7102	552151	1	1	901	8	Zdeňka	Protivánková			36	účetní	Skrbeň	99	80	0	F
+7102	552151	1	2	902	8	Jaromír	Bludský			31	klempíř	Skrbeň	99	80	0	M
+7102	552151	1	3	47	8	Marie	Brokešová			60	důchodkyně	Skrbeň	99	47	0	F
+7102	552151	1	4	210	8	Marek	Fiala			30	projektant	Skrbeň	99	1	0	M
+7102	552151	1	1	901	9	Josef	Zlámal			52	osoba samostatně výdělečně činná	Skrbeň	99	80	0	M
+7102	552151	1	2	902	9	Zdeňka	Musálková			42	biochemik	Skrbeň	99	80	0	F
+7102	552151	1	3	47	9	Ludmila	Dopitová			74	důchodkyně	Skrbeň	99	47	0	F
+7102	552151	1	4	210	9	Antonín	Trubačík			51	majitel autodopravy	Skrbeň	99	53	0	M

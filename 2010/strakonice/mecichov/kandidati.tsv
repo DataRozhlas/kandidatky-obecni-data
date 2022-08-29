@@ -1,20 +1,20 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3106	551392	1	1	901	1	Josef	Sýkora	M			38	informatik	Mečichov	99	80	0
-3106	551392	1	1	901	2	Pavel	Klečka	M			29	obchodník	Mečichov	99	80	0
-3106	551392	1	1	901	3	Tomáš	Klečka	M			29	právník	Mečichov	99	80	0
-3106	551392	1	1	901	4	Jaroslav	Plechatý	M			26	obchodník	Mečichov	99	80	0
-3106	551392	1	1	901	5	Vladimír	Helcl	M			21	mechanik	Mečichov	99	80	0
-3106	551392	1	1	901	6	Pavlína	Plechatá	F			23	pojišťovací agent	Mečichov	99	80	0
-3106	551392	1	1	901	7	Jana	Klečková	F			27	krejčová	Mečichov	99	80	0
-3106	551392	1	2	166	1	Petr	Finěk	M			38	pojišťovací poradce	Mečichov	99	166	0
-3106	551392	1	2	166	2	František	Polan st.	M			53	zedník	Mečichov	99	166	0
-3106	551392	1	2	166	3	Petra	Kuchtová	F			41	účetní	Mečichov	99	166	0
-3106	551392	1	2	166	4	František	Polan ml.	M			29	student	Mečichov	99	166	0
-3106	551392	1	2	166	5	Miroslav	Balek	M			35	dělník	Mečichov	99	166	0
-3106	551392	1	2	166	6	Karel	Zach	M			54	řidič	Mečichov	99	166	0
-3106	551392	1	3	1	1	Hana	Beranová	F			57	vedoucí pošty	Mečichov	99	1	0
-3106	551392	1	3	1	2	Václav	Bašta	M			50	traktorista	Mečichov	99	1	0
-3106	551392	1	3	1	3	Alena	Šánová	F			59	důchodkyně	Mečichov	99	1	0
-3106	551392	1	3	1	4	Vojtěch	Boháč	M			64	důchodce	Mečichov	99	1	0
-3106	551392	1	4	47	1	Milan	Klečka	M			46	OSVČ	Mečichov	47	47	0
-3106	551392	1	4	47	2	Hana	Klečková	F			41	zdravotní sestra	Mečichov	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3106	551392	1	1	901	1	Josef	Sýkora			38	informatik	Mečichov	99	80	0	M
+3106	551392	1	2	166	1	Petr	Finěk			38	pojišťovací poradce	Mečichov	99	166	0	M
+3106	551392	1	3	1	1	Hana	Beranová			57	vedoucí pošty	Mečichov	99	1	0	F
+3106	551392	1	4	47	1	Milan	Klečka			46	OSVČ	Mečichov	47	47	0	M
+3106	551392	1	1	901	2	Pavel	Klečka			29	obchodník	Mečichov	99	80	0	M
+3106	551392	1	2	166	2	František	Polan st.			53	zedník	Mečichov	99	166	0	M
+3106	551392	1	3	1	2	Václav	Bašta			50	traktorista	Mečichov	99	1	0	M
+3106	551392	1	4	47	2	Hana	Klečková			41	zdravotní sestra	Mečichov	99	47	0	F
+3106	551392	1	1	901	3	Tomáš	Klečka			29	právník	Mečichov	99	80	0	M
+3106	551392	1	2	166	3	Petra	Kuchtová			41	účetní	Mečichov	99	166	0	F
+3106	551392	1	3	1	3	Alena	Šánová			59	důchodkyně	Mečichov	99	1	0	F
+3106	551392	1	1	901	4	Jaroslav	Plechatý			26	obchodník	Mečichov	99	80	0	M
+3106	551392	1	2	166	4	František	Polan ml.			29	student	Mečichov	99	166	0	M
+3106	551392	1	3	1	4	Vojtěch	Boháč			64	důchodce	Mečichov	99	1	0	M
+3106	551392	1	1	901	5	Vladimír	Helcl			21	mechanik	Mečichov	99	80	0	M
+3106	551392	1	2	166	5	Miroslav	Balek			35	dělník	Mečichov	99	166	0	M
+3106	551392	1	1	901	6	Pavlína	Plechatá			23	pojišťovací agent	Mečichov	99	80	0	F
+3106	551392	1	2	166	6	Karel	Zach			54	řidič	Mečichov	99	166	0	M
+3106	551392	1	1	901	7	Jana	Klečková			27	krejčová	Mečichov	99	80	0	F

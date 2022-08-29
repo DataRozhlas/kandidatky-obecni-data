@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	562386	1	1	903	1	Oldřich	Němec	M			34	autoklempíř	Hamr	99	80	0
-3103	562386	1	1	903	2	Petr	Urbánek	M			52	vedoucí směny	Hamr	99	80	0
-3103	562386	1	1	903	3	Jiřina	Stellnerová	F			56	pečovatelka o blízkou osobu	Hamr	99	80	0
-3103	562386	1	1	903	4	Marcela	Hauserová	F	Bc.		39	soukromá podnikatelka	Hamr	99	80	0
-3103	562386	1	1	903	5	Milan	Tesař	M			45	policista	Hamr	99	80	0
-3103	562386	1	1	903	6	Alena	Novotná	F			44	dělnice	Hamr	99	80	0
-3103	562386	1	1	903	7	Helena	Měkutová	F			43	zahradnice	Hamr	99	80	0
-3103	562386	1	2	902	1	Pavel	Dohnal	M			36	řidič z povolání	Hamr	99	80	0
-3103	562386	1	2	902	2	Ladislav	Černoch	M	Bc.		35	policista Policie ČR	Hamr	99	80	0
-3103	562386	1	2	902	3	Jiří	Čapek	M	Ing.		44	úředník	Hamr	99	80	0
-3103	562386	1	2	902	4	Renata	Buštová	F			36	dělnice	Hamr	99	80	0
-3103	562386	1	2	902	5	Antonín	Jecha	M			37	řidič z povolání	Hamr	99	80	0
-3103	562386	1	2	902	6	Jan	Šílený	M			31	kuchař	Hamr	99	80	0
-3103	562386	1	2	902	7	Monika	Svatonská	F			38	finanční poradce	Hamr	99	80	0
-3103	562386	1	3	901	1	Zdeňka	Jílková	F			52	technik	Hamr	99	80	0
-3103	562386	1	3	901	2	Zdeněk	Cvrček	M			54	technik	Hamr	99	80	0
-3103	562386	1	3	901	3	František	Frantík	M			67	důchodce	Hamr	99	80	0
-3103	562386	1	3	901	4	Willibald	Lex	M			67	důchodce	Hamr	99	80	0
-3103	562386	1	3	901	5	Rudolf	Dvořák	M			45	soustružník	Hamr	99	80	0
-3103	562386	1	3	901	6	Vladimír	Jílek	M			60	důchodce	Hamr	99	80	0
-3103	562386	1	3	901	7	Karel	Holický	M			50	technik	Hamr	99	80	0
-3103	562386	1	3	901	8	Zdeňka	Pitrmanová	F			60	důchodkyně	Hamr	99	80	0
-3103	562386	1	3	901	9	Karel	Cepák	M			68	důchodce	Hamr	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	562386	1	1	903	1	Oldřich	Němec			34	autoklempíř	Hamr	99	80	0	M
+3103	562386	1	2	902	1	Pavel	Dohnal			36	řidič z povolání	Hamr	99	80	0	M
+3103	562386	1	3	901	1	Zdeňka	Jílková			52	technik	Hamr	99	80	0	F
+3103	562386	1	1	903	2	Petr	Urbánek			52	vedoucí směny	Hamr	99	80	0	M
+3103	562386	1	2	902	2	Ladislav	Černoch	Bc.		35	policista Policie ČR	Hamr	99	80	0	M
+3103	562386	1	3	901	2	Zdeněk	Cvrček			54	technik	Hamr	99	80	0	M
+3103	562386	1	1	903	3	Jiřina	Stellnerová			56	pečovatelka o blízkou osobu	Hamr	99	80	0	F
+3103	562386	1	2	902	3	Jiří	Čapek	Ing.		44	úředník	Hamr	99	80	0	M
+3103	562386	1	3	901	3	František	Frantík			67	důchodce	Hamr	99	80	0	M
+3103	562386	1	1	903	4	Marcela	Hauserová	Bc.		39	soukromá podnikatelka	Hamr	99	80	0	F
+3103	562386	1	2	902	4	Renata	Buštová			36	dělnice	Hamr	99	80	0	F
+3103	562386	1	3	901	4	Willibald	Lex			67	důchodce	Hamr	99	80	0	M
+3103	562386	1	1	903	5	Milan	Tesař			45	policista	Hamr	99	80	0	M
+3103	562386	1	2	902	5	Antonín	Jecha			37	řidič z povolání	Hamr	99	80	0	M
+3103	562386	1	3	901	5	Rudolf	Dvořák			45	soustružník	Hamr	99	80	0	M
+3103	562386	1	1	903	6	Alena	Novotná			44	dělnice	Hamr	99	80	0	F
+3103	562386	1	2	902	6	Jan	Šílený			31	kuchař	Hamr	99	80	0	M
+3103	562386	1	3	901	6	Vladimír	Jílek			60	důchodce	Hamr	99	80	0	M
+3103	562386	1	1	903	7	Helena	Měkutová			43	zahradnice	Hamr	99	80	0	F
+3103	562386	1	2	902	7	Monika	Svatonská			38	finanční poradce	Hamr	99	80	0	F
+3103	562386	1	3	901	7	Karel	Holický			50	technik	Hamr	99	80	0	M
+3103	562386	1	3	901	8	Zdeňka	Pitrmanová			60	důchodkyně	Hamr	99	80	0	F
+3103	562386	1	3	901	9	Karel	Cepák			68	důchodce	Hamr	99	80	0	M

@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	550175	1	1	902	1	Kateřina	Ševčíková	F		DiS.	33	starostka obce Podomí	Podomí	99	80	0
-6206	550175	1	1	902	2	Marie	Horáková	F	Mgr.		29	finanční ředitelka Hnutí DUHA	Podomí	99	80	0
-6206	550175	1	1	902	3	Miroslav	Piňos	M			38	OSVČ	Podomí	99	80	0
-6206	550175	1	1	902	4	Jiří	Koudelka	M			56	svářeč	Podomí	99	80	0
-6206	550175	1	1	902	5	Ondřej	Šimek	M			21	student	Podomí	99	80	0
-6206	550175	1	1	902	6	Zdeňka	Sotolářová	F			63	důchodce	Podomí	99	80	0
-6206	550175	1	1	902	7	Barbora	Bodnárová	F	Ing.		43	účetní, personalistka	Podomí	99	80	0
-6206	550175	1	1	902	8	Karel	Gregor	M	PaedDr.		63	důchodce	Podomí	99	80	0
-6206	550175	1	1	902	9	Petr	Zouhar	M	Ing.		28	programátor	Podomí	99	80	0
-6206	550175	1	2	7	1	Jan	Šebela	M			59	starobní důchodce	Podomí	7	7	0
-6206	550175	1	2	7	2	Igor	Bohuslav	M	Ing.		47	technický pracovník	Podomí	99	7	0
-6206	550175	1	2	7	3	Lukáš	Kummer	M			21	student	Podomí	99	7	0
-6206	550175	1	2	7	4	Libor	Šimek	M			46	strojní specialista	Podomí	99	7	0
-6206	550175	1	2	7	5	Milan	Keprt	M			60	vedoucí výroby	Podomí	99	7	0
-6206	550175	1	2	7	6	Zbyněk	Gryc	M			33	OSVČ	Podomí	99	7	0
-6206	550175	1	3	901	1	Radim	Šebela	M			38	THP	Podomí	99	80	0
-6206	550175	1	3	901	2	Martina	Studnařová	F	Ing.		29	THP	Podomí	99	80	0
-6206	550175	1	3	901	3	Luděk	Křetínský	M			48	strážník	Podomí	99	80	0
-6206	550175	1	3	901	4	David	Přikryl	M			30	dělník	Podomí	99	80	0
-6206	550175	1	3	901	5	Luboš	Šimeček	M			44	technik	Podomí	99	80	0
-6206	550175	1	3	901	6	Jan	Polanka	M			38	OSVČ	Podomí	99	80	0
-6206	550175	1	3	901	7	Pavel	Tesař	M			29	automechanik	Podomí	99	80	0
-6206	550175	1	3	901	8	Miroslav	Spáčil	M			33	OSVČ	Podomí	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	550175	1	1	902	1	Kateřina	Ševčíková		DiS.	33	starostka obce Podomí	Podomí	99	80	0	F
+6206	550175	1	2	7	1	Jan	Šebela			59	starobní důchodce	Podomí	7	7	0	M
+6206	550175	1	3	901	1	Radim	Šebela			38	THP	Podomí	99	80	0	M
+6206	550175	1	1	902	2	Marie	Horáková	Mgr.		29	finanční ředitelka Hnutí DUHA	Podomí	99	80	0	F
+6206	550175	1	2	7	2	Igor	Bohuslav	Ing.		47	technický pracovník	Podomí	99	7	0	M
+6206	550175	1	3	901	2	Martina	Studnařová	Ing.		29	THP	Podomí	99	80	0	F
+6206	550175	1	1	902	3	Miroslav	Piňos			38	OSVČ	Podomí	99	80	0	M
+6206	550175	1	2	7	3	Lukáš	Kummer			21	student	Podomí	99	7	0	M
+6206	550175	1	3	901	3	Luděk	Křetínský			48	strážník	Podomí	99	80	0	M
+6206	550175	1	1	902	4	Jiří	Koudelka			56	svářeč	Podomí	99	80	0	M
+6206	550175	1	2	7	4	Libor	Šimek			46	strojní specialista	Podomí	99	7	0	M
+6206	550175	1	3	901	4	David	Přikryl			30	dělník	Podomí	99	80	0	M
+6206	550175	1	1	902	5	Ondřej	Šimek			21	student	Podomí	99	80	0	M
+6206	550175	1	2	7	5	Milan	Keprt			60	vedoucí výroby	Podomí	99	7	0	M
+6206	550175	1	3	901	5	Luboš	Šimeček			44	technik	Podomí	99	80	0	M
+6206	550175	1	1	902	6	Zdeňka	Sotolářová			63	důchodce	Podomí	99	80	0	F
+6206	550175	1	2	7	6	Zbyněk	Gryc			33	OSVČ	Podomí	99	7	0	M
+6206	550175	1	3	901	6	Jan	Polanka			38	OSVČ	Podomí	99	80	0	M
+6206	550175	1	1	902	7	Barbora	Bodnárová	Ing.		43	účetní, personalistka	Podomí	99	80	0	F
+6206	550175	1	3	901	7	Pavel	Tesař			29	automechanik	Podomí	99	80	0	M
+6206	550175	1	1	902	8	Karel	Gregor	PaedDr.		63	důchodce	Podomí	99	80	0	M
+6206	550175	1	3	901	8	Miroslav	Spáčil			33	OSVČ	Podomí	99	80	0	M
+6206	550175	1	1	902	9	Petr	Zouhar	Ing.		28	programátor	Podomí	99	80	0	M

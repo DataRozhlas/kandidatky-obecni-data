@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5104	577073	1	1	7	1	Miroslav	Jakubů	M	Mgr.		35	učitel ZŠ	Loukov	99	7	0
-5104	577073	1	1	7	2	Václav	Skalský	M			40	elektrikář	Loukov	99	7	0
-5104	577073	1	1	7	3	Jitka	Honců	F	Mgr.		33	učitelka ZŠ	Rybnice	99	7	0
-5104	577073	1	2	902	1	Jaroslav	Štěpán	M	Ing.		46	vývojový pracovník	Háje nad Jizerou	99	80	0
-5104	577073	1	2	902	2	Jaroslav	Křapka	M	Ing.		46	projektant	Rybnice	99	80	0
-5104	577073	1	2	902	3	Věra	Lampová	F			46	státní zaměstnanec	Dolní Sytová	99	80	0
-5104	577073	1	2	902	4	Miloš	Vyhlídko	M			53	soukromý podnikatel	Dolní Sytová	99	80	0
-5104	577073	1	2	902	5	Luděk	Bartoš	M			48	logistik	Háje nad Jizerou	99	80	0
-5104	577073	1	2	902	6	Josef	Hajský	M			39	soukromý zemědělec	Rybnice	99	80	0
-5104	577073	1	2	902	7	Brigita	Štefanová	F			34	účetní	Loukov	99	80	0
-5104	577073	1	2	902	8	Miloslav	Miksánek	M	Ing.		46	státní zaměstnanec	Loukov	99	80	0
-5104	577073	1	3	901	1	Josef	Šedivý	M			35	policista	Dolní Sytová	99	80	0
-5104	577073	1	3	901	2	Martin	Dumek	M			31	soukromý podnikatel	Dolní Sytová	99	80	0
-5104	577073	1	3	901	3	Ladislav	Brož	M			37	míchač barev	Dolní Sytová	99	80	0
-5104	577073	1	3	901	4	Zbyněk	Novotka	M			46	soukromý podnikatel	Loukov	99	80	0
-5104	577073	1	3	901	5	Miroslav	Novotný	M			29	řidič	Dolní Sytová	99	80	0
-5104	577073	1	3	901	6	Vítězslav	Martinec	M			26	referent	Dolní Sytová	99	80	0
-5104	577073	1	4	903	1	Radek	Pikora	M			31	podnikatel	Rybnice	99	80	0
-5104	577073	1	4	903	2	Eliška	Malečková	F	Mgr.		36	učitelka	Rybnice	99	80	0
-5104	577073	1	4	903	3	Václav	Maleček	M			39	instalatér	Rybnice	99	80	0
-5104	577073	1	4	903	4	Milan	Krejčí	M			35	směnový mistr	Rybnice	99	80	0
-5104	577073	1	4	903	5	Josef	Friček	M			56	zaměst. f. GERL	Rybnice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5104	577073	1	1	7	1	Miroslav	Jakubů	Mgr.		35	učitel ZŠ	Loukov	99	7	0	M
+5104	577073	1	2	902	1	Jaroslav	Štěpán	Ing.		46	vývojový pracovník	Háje nad Jizerou	99	80	0	M
+5104	577073	1	3	901	1	Josef	Šedivý			35	policista	Dolní Sytová	99	80	0	M
+5104	577073	1	4	903	1	Radek	Pikora			31	podnikatel	Rybnice	99	80	0	M
+5104	577073	1	1	7	2	Václav	Skalský			40	elektrikář	Loukov	99	7	0	M
+5104	577073	1	2	902	2	Jaroslav	Křapka	Ing.		46	projektant	Rybnice	99	80	0	M
+5104	577073	1	3	901	2	Martin	Dumek			31	soukromý podnikatel	Dolní Sytová	99	80	0	M
+5104	577073	1	4	903	2	Eliška	Malečková	Mgr.		36	učitelka	Rybnice	99	80	0	F
+5104	577073	1	1	7	3	Jitka	Honců	Mgr.		33	učitelka ZŠ	Rybnice	99	7	0	F
+5104	577073	1	2	902	3	Věra	Lampová			46	státní zaměstnanec	Dolní Sytová	99	80	0	F
+5104	577073	1	3	901	3	Ladislav	Brož			37	míchač barev	Dolní Sytová	99	80	0	M
+5104	577073	1	4	903	3	Václav	Maleček			39	instalatér	Rybnice	99	80	0	M
+5104	577073	1	2	902	4	Miloš	Vyhlídko			53	soukromý podnikatel	Dolní Sytová	99	80	0	M
+5104	577073	1	3	901	4	Zbyněk	Novotka			46	soukromý podnikatel	Loukov	99	80	0	M
+5104	577073	1	4	903	4	Milan	Krejčí			35	směnový mistr	Rybnice	99	80	0	M
+5104	577073	1	2	902	5	Luděk	Bartoš			48	logistik	Háje nad Jizerou	99	80	0	M
+5104	577073	1	3	901	5	Miroslav	Novotný			29	řidič	Dolní Sytová	99	80	0	M
+5104	577073	1	4	903	5	Josef	Friček			56	zaměst. f. GERL	Rybnice	99	80	0	M
+5104	577073	1	2	902	6	Josef	Hajský			39	soukromý zemědělec	Rybnice	99	80	0	M
+5104	577073	1	3	901	6	Vítězslav	Martinec			26	referent	Dolní Sytová	99	80	0	M
+5104	577073	1	2	902	7	Brigita	Štefanová			34	účetní	Loukov	99	80	0	F
+5104	577073	1	2	902	8	Miloslav	Miksánek	Ing.		46	státní zaměstnanec	Loukov	99	80	0	M

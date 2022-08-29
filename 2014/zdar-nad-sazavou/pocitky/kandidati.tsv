@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	596442	1	1	902	1	Miloslava	Podloucká	F			55	manažerka	Počítky	99	80	0
-6105	596442	1	1	902	2	Milena	Jirčíková	F			54	podnikatelka	Počítky	99	80	0
-6105	596442	1	1	902	3	Petr	Hájek	M			42	obchodní zástupce	Počítky	99	80	0
-6105	596442	1	1	902	4	Lukáš	Sláma	M	Ing.		26	metrolog	Počítky	99	80	0
-6105	596442	1	1	902	5	František	Peňáz	M			41	OSVČ	Počítky	99	80	0
-6105	596442	1	1	902	6	Bohumír	Filip	M			34	řidič	Počítky	99	80	0
-6105	596442	1	1	902	7	František	Šustr	M			37	ředitel závodu	Počítky	99	80	0
-6105	596442	1	1	902	8	Vladimíra	Kubová	F			35	operátorka	Počítky	99	80	0
-6105	596442	1	2	903	1	Iveta	Leskourová	F	Ing.		38	OSVČ	Počítky	99	80	0
-6105	596442	1	2	903	2	Petr	Hošek	M			35	hasič	Počítky	99	80	0
-6105	596442	1	2	903	3	Marcela	Slámová	F	Mgr.		32	učitelka ZŠ	Počítky	99	80	0
-6105	596442	1	2	903	4	Bohuslav	Brychta	M			33	opravář strojů	Počítky	99	80	0
-6105	596442	1	2	903	5	Veronika	Vášová	F			35	floristka	Počítky	99	80	0
-6105	596442	1	2	903	6	Drahoslav	Novák	M			37	zahradník	Počítky	99	80	0
-6105	596442	1	2	903	7	Edita	Hájková	F			41	OSVČ	Počítky	99	80	0
-6105	596442	1	3	901	1	Milan	Daďourek	M	Mgr.		39	OSVČ	Počítky	99	80	0
-6105	596442	1	3	901	2	Jana	Padalíková	F			34	dispečer výroby	Počítky	99	80	0
-6105	596442	1	3	901	3	Hana	Žáková	F			46	ekonomka	Počítky	99	80	0
-6105	596442	1	3	901	4	Pavel	Topinka	M			39	řidič	Počítky	99	80	0
-6105	596442	1	3	901	5	Tereza	Vonešová	F			34	mateřská dovolená	Počítky	99	80	0
-6105	596442	1	3	901	6	Miroslav	Hájek	M			46	montér	Počítky	99	80	0
-6105	596442	1	3	901	7	Milan	Vrbíček	M	Ing.		46	stavbyvedoucí	Počítky	99	80	0
-6105	596442	1	3	901	8	Karel	Kotovic	M			37	technik	Počítky	99	80	0
-6105	596442	1	3	901	9	Marie	Pohanková	F			53	obchodní zástupce	Počítky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	596442	1	1	902	1	Miloslava	Podloucká			55	manažerka	Počítky	99	80	0	F
+6105	596442	1	2	903	1	Iveta	Leskourová	Ing.		38	OSVČ	Počítky	99	80	0	F
+6105	596442	1	3	901	1	Milan	Daďourek	Mgr.		39	OSVČ	Počítky	99	80	0	M
+6105	596442	1	1	902	2	Milena	Jirčíková			54	podnikatelka	Počítky	99	80	0	F
+6105	596442	1	2	903	2	Petr	Hošek			35	hasič	Počítky	99	80	0	M
+6105	596442	1	3	901	2	Jana	Padalíková			34	dispečer výroby	Počítky	99	80	0	F
+6105	596442	1	1	902	3	Petr	Hájek			42	obchodní zástupce	Počítky	99	80	0	M
+6105	596442	1	2	903	3	Marcela	Slámová	Mgr.		32	učitelka ZŠ	Počítky	99	80	0	F
+6105	596442	1	3	901	3	Hana	Žáková			46	ekonomka	Počítky	99	80	0	F
+6105	596442	1	1	902	4	Lukáš	Sláma	Ing.		26	metrolog	Počítky	99	80	0	M
+6105	596442	1	2	903	4	Bohuslav	Brychta			33	opravář strojů	Počítky	99	80	0	M
+6105	596442	1	3	901	4	Pavel	Topinka			39	řidič	Počítky	99	80	0	M
+6105	596442	1	1	902	5	František	Peňáz			41	OSVČ	Počítky	99	80	0	M
+6105	596442	1	2	903	5	Veronika	Vášová			35	floristka	Počítky	99	80	0	F
+6105	596442	1	3	901	5	Tereza	Vonešová			34	mateřská dovolená	Počítky	99	80	0	F
+6105	596442	1	1	902	6	Bohumír	Filip			34	řidič	Počítky	99	80	0	M
+6105	596442	1	2	903	6	Drahoslav	Novák			37	zahradník	Počítky	99	80	0	M
+6105	596442	1	3	901	6	Miroslav	Hájek			46	montér	Počítky	99	80	0	M
+6105	596442	1	1	902	7	František	Šustr			37	ředitel závodu	Počítky	99	80	0	M
+6105	596442	1	2	903	7	Edita	Hájková			41	OSVČ	Počítky	99	80	0	F
+6105	596442	1	3	901	7	Milan	Vrbíček	Ing.		46	stavbyvedoucí	Počítky	99	80	0	M
+6105	596442	1	1	902	8	Vladimíra	Kubová			35	operátorka	Počítky	99	80	0	F
+6105	596442	1	3	901	8	Karel	Kotovic			37	technik	Počítky	99	80	0	M
+6105	596442	1	3	901	9	Marie	Pohanková			53	obchodní zástupce	Počítky	99	80	0	F

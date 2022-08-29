@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579602	1	1	47	1	Jiří	Bachtík	M			40	země. technik	Prosečné	99	47	0
-5205	579602	1	1	47	2	Jaroslav	Máslo	M			65	důchod.	Prosečné	47	47	0
-5205	579602	1	1	47	3	Miroslav	Patzelt	M			40	dělník	Prosečné	99	47	0
-5205	579602	1	1	47	4	Miroslav	Štefan	M			50	podnik.	Prosečné	99	47	0
-5205	579602	1	1	47	5	Ladislav	Beneš	M	RSDr.		62	dělník	Prosečné	47	47	0
-5205	579602	1	1	47	6	Ivo	Hnátek	M			49	dělník	Prosečné	99	47	0
-5205	579602	1	1	47	7	Karel	Leder	M			56	dělník	Prosečné	99	47	0
-5205	579602	1	1	47	8	Josef	Máslo	M			64	dělník	Prosečné	47	47	0
-5205	579602	1	1	47	9	Dana	Zawadská	F			72	učitel.	Prosečné	47	47	0
-5205	579602	1	2	53	1	Karel	Resl	M	Ing.		58	technik	Prosečné	99	53	0
-5205	579602	1	2	53	2	Jaroslav	Máslo	M	Ing.		38	projektant	Prosečné	99	53	0
-5205	579602	1	2	53	3	Petr	Kopčil	M			48	podnikatel	Prosečné	99	53	0
-5205	579602	1	2	53	4	Josef	Stránský	M			47	zaměstnanec	Prosečné	99	53	0
-5205	579602	1	2	53	5	Václav	Horák	M	Mgr. Ing.	Ph.D.	31	zaměstnanec KRNAPu	Prosečné	99	53	0
-5205	579602	1	2	53	6	Luboš	Rolf	M			42	obráběč kovů	Prosečné	99	53	0
-5205	579602	1	2	53	7	Petra	Tomanicová	F	Bc.		30	v domácnosti	Prosečné	99	53	0
-5205	579602	1	2	53	8	Bohumil	Stránský	M			54	autolakýrník	Prosečné	99	53	0
-5205	579602	1	2	53	9	Gabriela	Samková	F			30	v domácnosti	Prosečné	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579602	1	1	47	1	Jiří	Bachtík			40	země. technik	Prosečné	99	47	0	M
+5205	579602	1	2	53	1	Karel	Resl	Ing.		58	technik	Prosečné	99	53	0	M
+5205	579602	1	1	47	2	Jaroslav	Máslo			65	důchod.	Prosečné	47	47	0	M
+5205	579602	1	2	53	2	Jaroslav	Máslo	Ing.		38	projektant	Prosečné	99	53	0	M
+5205	579602	1	1	47	3	Miroslav	Patzelt			40	dělník	Prosečné	99	47	0	M
+5205	579602	1	2	53	3	Petr	Kopčil			48	podnikatel	Prosečné	99	53	0	M
+5205	579602	1	1	47	4	Miroslav	Štefan			50	podnik.	Prosečné	99	47	0	M
+5205	579602	1	2	53	4	Josef	Stránský			47	zaměstnanec	Prosečné	99	53	0	M
+5205	579602	1	1	47	5	Ladislav	Beneš	RSDr.		62	dělník	Prosečné	47	47	0	M
+5205	579602	1	2	53	5	Václav	Horák	Mgr. Ing.	Ph.D.	31	zaměstnanec KRNAPu	Prosečné	99	53	0	M
+5205	579602	1	1	47	6	Ivo	Hnátek			49	dělník	Prosečné	99	47	0	M
+5205	579602	1	2	53	6	Luboš	Rolf			42	obráběč kovů	Prosečné	99	53	0	M
+5205	579602	1	1	47	7	Karel	Leder			56	dělník	Prosečné	99	47	0	M
+5205	579602	1	2	53	7	Petra	Tomanicová	Bc.		30	v domácnosti	Prosečné	99	53	0	F
+5205	579602	1	1	47	8	Josef	Máslo			64	dělník	Prosečné	47	47	0	M
+5205	579602	1	2	53	8	Bohumil	Stránský			54	autolakýrník	Prosečné	99	53	0	M
+5205	579602	1	1	47	9	Dana	Zawadská			72	učitel.	Prosečné	47	47	0	F
+5205	579602	1	2	53	9	Gabriela	Samková			30	v domácnosti	Prosečné	99	53	0	F

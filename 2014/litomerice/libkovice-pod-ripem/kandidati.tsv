@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	565148	1	1	902	1	František	Feix	M	MVDr.		48	státní zaměstnanec	Libkovice pod Řípem	99	80	0
-4203	565148	1	1	902	2	Luboš	Šťastný	M			53	hasič	Libkovice pod Řípem	99	80	0
-4203	565148	1	1	902	3	Miroslav	Hrstka	M			56	technik	Libkovice pod Řípem	99	80	0
-4203	565148	1	1	902	4	Jan	Šindelář	M			35	soukromý zemědělec	Libkovice pod Řípem	99	80	0
-4203	565148	1	1	902	5	Jiří	Pětník	M			55	správce budov	Libkovice pod Řípem	99	80	0
-4203	565148	1	1	902	6	Ludmila	Jančařová	F			57	poštovní doručovatelka	Libkovice pod Řípem	99	80	0
-4203	565148	1	1	902	7	Romana	Šťástková	F			36	poštovní úřednice	Libkovice pod Řípem	99	80	0
-4203	565148	1	1	902	8	Marcela	Křížková	F			60	starob. důchodce	Libkovice pod Řípem	99	80	0
-4203	565148	1	1	902	9	Monika	Krejčí	F			35	obchodní zástupce	Libkovice pod Řípem	99	80	0
-4203	565148	1	2	901	1	Milan	Týc	M			42	řidič	Libkovice pod Řípem	99	80	0
-4203	565148	1	2	901	2	Karel	Šťástka	M			37	hasič	Libkovice pod Řípem	99	80	0
-4203	565148	1	2	901	3	David	Houba	M			33	živnostník	Libkovice pod Řípem	99	80	0
-4203	565148	1	2	901	4	Petr	Tuhý	M			66	důchodce	Libkovice pod Řípem	99	80	0
-4203	565148	1	2	901	5	Petra	Černíková	F			39	živnostník	Libkovice pod Řípem	99	80	0
-4203	565148	1	2	901	6	Irena	Křížová	F			41	manažerka logistiky	Libkovice pod Řípem	99	80	0
-4203	565148	1	2	901	7	Zdenka	Helclová	F			56	administrativní pracovnice	Libkovice pod Řípem	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	565148	1	1	902	1	František	Feix	MVDr.		48	státní zaměstnanec	Libkovice pod Řípem	99	80	0	M
+4203	565148	1	2	901	1	Milan	Týc			42	řidič	Libkovice pod Řípem	99	80	0	M
+4203	565148	1	1	902	2	Luboš	Šťastný			53	hasič	Libkovice pod Řípem	99	80	0	M
+4203	565148	1	2	901	2	Karel	Šťástka			37	hasič	Libkovice pod Řípem	99	80	0	M
+4203	565148	1	1	902	3	Miroslav	Hrstka			56	technik	Libkovice pod Řípem	99	80	0	M
+4203	565148	1	2	901	3	David	Houba			33	živnostník	Libkovice pod Řípem	99	80	0	M
+4203	565148	1	1	902	4	Jan	Šindelář			35	soukromý zemědělec	Libkovice pod Řípem	99	80	0	M
+4203	565148	1	2	901	4	Petr	Tuhý			66	důchodce	Libkovice pod Řípem	99	80	0	M
+4203	565148	1	1	902	5	Jiří	Pětník			55	správce budov	Libkovice pod Řípem	99	80	0	M
+4203	565148	1	2	901	5	Petra	Černíková			39	živnostník	Libkovice pod Řípem	99	80	0	F
+4203	565148	1	1	902	6	Ludmila	Jančařová			57	poštovní doručovatelka	Libkovice pod Řípem	99	80	0	F
+4203	565148	1	2	901	6	Irena	Křížová			41	manažerka logistiky	Libkovice pod Řípem	99	80	0	F
+4203	565148	1	1	902	7	Romana	Šťástková			36	poštovní úřednice	Libkovice pod Řípem	99	80	0	F
+4203	565148	1	2	901	7	Zdenka	Helclová			56	administrativní pracovnice	Libkovice pod Řípem	99	80	0	F
+4203	565148	1	1	902	8	Marcela	Křížková			60	starob. důchodce	Libkovice pod Řípem	99	80	0	F
+4203	565148	1	1	902	9	Monika	Krejčí			35	obchodní zástupce	Libkovice pod Řípem	99	80	0	F

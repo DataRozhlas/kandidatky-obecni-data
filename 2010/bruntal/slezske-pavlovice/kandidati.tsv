@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	551881	1	1	901	1	Kristýna	Badurová	F			46	inv. důchodce	Slezské Pavlovice	99	80	0
-8101	551881	1	1	901	2	Petra	Tilkeridisová	F			34	bez zaměstnání	Slezské Pavlovice	99	80	0
-8101	551881	1	1	901	3	Božena	Tomčalová	F			58	důchodce	Slezské Pavlovice	99	80	0
-8101	551881	1	1	901	4	Radka	Dylová	F			35	mateřská dovolená	Slezské Pavlovice	99	80	0
-8101	551881	1	1	901	5	Irena	Paťavová	F			49	bez zaměstnání	Slezské Pavlovice	99	80	0
-8101	551881	1	2	902	1	Vlasta	Badurová	F			60	důchodce	Slezské Pavlovice	99	80	0
-8101	551881	1	2	902	2	Pavel	Bebčák	M			60	inv. důchodce	Slezské Pavlovice	99	80	0
-8101	551881	1	2	902	3	Emílie	Demlová	F			50	střihačka	Slezské Pavlovice	99	80	0
-8101	551881	1	2	902	4	Věra	Rejdová	F			36	pánská krejčí	Slezské Pavlovice	99	80	0
-8101	551881	1	2	902	5	Jiřina	Lysková	F			53	inv. důchodce	Slezské Pavlovice	99	80	0
-8101	551881	1	3	903	1	Přemysl	Drozd	M			31	grafik	Slezské Pavlovice	99	80	0
-8101	551881	1	3	903	2	Lenka	Drozdová	F	Bc.		30	tlumočnice	Slezské Pavlovice	99	80	0
-8101	551881	1	3	903	3	Pavel	Rejda	M			31	řidič	Slezské Pavlovice	99	80	0
-8101	551881	1	3	903	4	Pavel	Müller	M			30	zemědělec	Slezské Pavlovice	99	80	0
-8101	551881	1	3	903	5	Josef	Meca	M			62	důchodce	Slezské Pavlovice	99	80	0
-8101	551881	1	4	801	1	Miroslava	Rygelová	F			31	dělnice	Slezské Pavlovice	99	80	0
-8101	551881	1	5	47	1	Jaroslav	Šimáček	M			67	důchodce	Slezské Pavlovice	47	47	0
-8101	551881	1	5	47	2	Miroslav	Podhradský	M			48	dělník	Slezské Pavlovice	47	47	0
-8101	551881	1	5	47	3	Josef	Bezděda	M			33	dělník	Slezské Pavlovice	99	47	0
-8101	551881	1	5	47	4	Janka	Hajduková	F			61	důchodkyně	Slezské Pavlovice	99	47	0
-8101	551881	1	5	47	5	Zdeněk	Lapuník	M			69	důchodce	Slezské Pavlovice	47	47	0
-8101	551881	1	6	1	1	Eduard	Műller	M			24	student	Slezské Pavlovice	1	1	0
-8101	551881	1	6	1	2	Radoslav	Badura	M			44	podnikatel	Slezské Pavlovice	99	1	0
-8101	551881	1	6	1	3	Františka	Klechová	F			67	důchodce	Slezské Pavlovice	1	1	0
-8101	551881	1	6	1	4	Jiří	Bebčák	M			49	dělník	Slezské Pavlovice	99	1	0
-8101	551881	1	6	1	5	Jiřina	Janošcová	F			48	nezaměstnaná	Slezské Pavlovice	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	551881	1	1	901	1	Kristýna	Badurová			46	inv. důchodce	Slezské Pavlovice	99	80	0	F
+8101	551881	1	2	902	1	Vlasta	Badurová			60	důchodce	Slezské Pavlovice	99	80	0	F
+8101	551881	1	3	903	1	Přemysl	Drozd			31	grafik	Slezské Pavlovice	99	80	0	M
+8101	551881	1	4	801	1	Miroslava	Rygelová			31	dělnice	Slezské Pavlovice	99	80	0	F
+8101	551881	1	5	47	1	Jaroslav	Šimáček			67	důchodce	Slezské Pavlovice	47	47	0	M
+8101	551881	1	6	1	1	Eduard	Műller			24	student	Slezské Pavlovice	1	1	0	M
+8101	551881	1	1	901	2	Petra	Tilkeridisová			34	bez zaměstnání	Slezské Pavlovice	99	80	0	F
+8101	551881	1	2	902	2	Pavel	Bebčák			60	inv. důchodce	Slezské Pavlovice	99	80	0	M
+8101	551881	1	3	903	2	Lenka	Drozdová	Bc.		30	tlumočnice	Slezské Pavlovice	99	80	0	F
+8101	551881	1	5	47	2	Miroslav	Podhradský			48	dělník	Slezské Pavlovice	47	47	0	M
+8101	551881	1	6	1	2	Radoslav	Badura			44	podnikatel	Slezské Pavlovice	99	1	0	M
+8101	551881	1	1	901	3	Božena	Tomčalová			58	důchodce	Slezské Pavlovice	99	80	0	F
+8101	551881	1	2	902	3	Emílie	Demlová			50	střihačka	Slezské Pavlovice	99	80	0	F
+8101	551881	1	3	903	3	Pavel	Rejda			31	řidič	Slezské Pavlovice	99	80	0	M
+8101	551881	1	5	47	3	Josef	Bezděda			33	dělník	Slezské Pavlovice	99	47	0	M
+8101	551881	1	6	1	3	Františka	Klechová			67	důchodce	Slezské Pavlovice	1	1	0	F
+8101	551881	1	1	901	4	Radka	Dylová			35	mateřská dovolená	Slezské Pavlovice	99	80	0	F
+8101	551881	1	2	902	4	Věra	Rejdová			36	pánská krejčí	Slezské Pavlovice	99	80	0	F
+8101	551881	1	3	903	4	Pavel	Müller			30	zemědělec	Slezské Pavlovice	99	80	0	M
+8101	551881	1	5	47	4	Janka	Hajduková			61	důchodkyně	Slezské Pavlovice	99	47	0	F
+8101	551881	1	6	1	4	Jiří	Bebčák			49	dělník	Slezské Pavlovice	99	1	0	M
+8101	551881	1	1	901	5	Irena	Paťavová			49	bez zaměstnání	Slezské Pavlovice	99	80	0	F
+8101	551881	1	2	902	5	Jiřina	Lysková			53	inv. důchodce	Slezské Pavlovice	99	80	0	F
+8101	551881	1	3	903	5	Josef	Meca			62	důchodce	Slezské Pavlovice	99	80	0	M
+8101	551881	1	5	47	5	Zdeněk	Lapuník			69	důchodce	Slezské Pavlovice	47	47	0	M
+8101	551881	1	6	1	5	Jiřina	Janošcová			48	nezaměstnaná	Slezské Pavlovice	99	1	0	F

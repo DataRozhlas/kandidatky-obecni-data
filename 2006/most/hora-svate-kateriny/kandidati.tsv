@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4205	567167	1	1	129	1	Eva	Horáková	F			39	starostka	Hora Svaté Kateřiny	129	129	0
-4205	567167	1	1	129	2	Otto	Šec	M			54	soukromý podnikatel	Hora Svaté Kateřiny	129	129	0
-4205	567167	1	1	129	3	Roman	Gröbl	M			33	školník	Hora Svaté Kateřiny	99	129	0
-4205	567167	1	1	129	4	Petr	Pakosta	M			39	celník	Hora Svaté Kateřiny	129	129	0
-4205	567167	1	1	129	5	Jan	Turzó	M			52	učitel	Hora Svaté Kateřiny	99	129	0
-4205	567167	1	1	129	6	Zdeněk	Jeřábek	M			49	nezaměstnaný	Hora Svaté Kateřiny	99	129	0
-4205	567167	1	1	129	7	Jiří	Sejval	M			32	soukromý podnikatel	Hora Svaté Kateřiny	99	129	0
-4205	567167	1	1	129	8	Helmut	Schmieder	M			56	soukromý podnikatel	Hora Svaté Kateřiny	129	129	0
-4205	567167	1	1	129	9	Ladislav	Kuzebauch	M			28	obchodní vedoucí	Hora Svaté Kateřiny	129	129	0
-4205	567167	1	2	901	1	Lubomír	Šlapka	M			41	ředitel Domu humanity	Hora Svaté Kateřiny	99	80	0
-4205	567167	1	2	901	2	Pavel	Šabek	M			54	provozní zámečník	Hora Svaté Kateřiny	99	80	0
-4205	567167	1	2	901	3	Miloslava	Bendová	F	Ing.arch.		52	architektka	Hora Svaté Kateřiny	99	80	0
-4205	567167	1	2	901	4	Radek	Řehoř	M			33	servisní mechanik	Hora Svaté Kateřiny	99	80	0
-4205	567167	1	2	901	5	Anna	Sirotková	F			47	v domácnosti	Hora Svaté Kateřiny	99	80	0
-4205	567167	1	2	901	6	Luboš	Útrata	M			32	zástupce mistra	Hora Svaté Kateřiny	99	80	0
-4205	567167	1	2	901	7	Emília	Šabková	F			48	poštmistrně	Hora Svaté Kateřiny	99	80	0
-4205	567167	1	2	901	8	Martina	Lohaczová	F			37	v domácnosti	Hora Svaté Kateřiny	99	80	0
-4205	567167	1	2	901	9	Jaroslav	Nodes	M			52	soukromý podnikatel	Hora Svaté Kateřiny	47	80	0
-4205	567167	1	3	5	1	Petr	Pakosta	M			68	soukromý zemědělec	Hora Svaté Kateřiny	99	5	0
-4205	567167	1	3	5	2	Milan	Mahušek	M			47	soukromý zemědělec	Rudolice v Horách	99	5	0
-4205	567167	1	3	5	3	Karel	Horák	M	Ing.		40	technik	Hora Svaté Kateřiny	99	5	0
-4205	567167	1	3	5	4	Ota	Rajs	M	Ing.		62	důchodce	Hora Svaté Kateřiny	99	5	0
-4205	567167	1	3	5	5	Martin	Schmieder	M			35	řidič	Hora Svaté Kateřiny	99	5	0
-4205	567167	1	3	5	6	Karel	Stawiarz	M	Ing.		35	bankovní úředník	Hora Svaté Kateřiny	99	5	0
-4205	567167	1	3	5	7	Jaroslav	Leipelt	M			42	údržbář bytů	Hora Svaté Kateřiny	99	5	0
-4205	567167	1	3	5	8	Bohumil	Huml	M			53	zaměstnanec	Hora Svaté Kateřiny	99	5	0
-4205	567167	1	3	5	9	Radovan	Sviták	M			34	podnikatel	Hora Svaté Kateřiny	99	5	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4205	567167	1	1	129	1	Eva	Horáková			39	starostka	Hora Svaté Kateřiny	129	129	0	F
+4205	567167	1	2	901	1	Lubomír	Šlapka			41	ředitel Domu humanity	Hora Svaté Kateřiny	99	80	0	M
+4205	567167	1	3	5	1	Petr	Pakosta			68	soukromý zemědělec	Hora Svaté Kateřiny	99	5	0	M
+4205	567167	1	1	129	2	Otto	Šec			54	soukromý podnikatel	Hora Svaté Kateřiny	129	129	0	M
+4205	567167	1	2	901	2	Pavel	Šabek			54	provozní zámečník	Hora Svaté Kateřiny	99	80	0	M
+4205	567167	1	3	5	2	Milan	Mahušek			47	soukromý zemědělec	Rudolice v Horách	99	5	0	M
+4205	567167	1	1	129	3	Roman	Gröbl			33	školník	Hora Svaté Kateřiny	99	129	0	M
+4205	567167	1	2	901	3	Miloslava	Bendová	Ing.arch.		52	architektka	Hora Svaté Kateřiny	99	80	0	F
+4205	567167	1	3	5	3	Karel	Horák	Ing.		40	technik	Hora Svaté Kateřiny	99	5	0	M
+4205	567167	1	1	129	4	Petr	Pakosta			39	celník	Hora Svaté Kateřiny	129	129	0	M
+4205	567167	1	2	901	4	Radek	Řehoř			33	servisní mechanik	Hora Svaté Kateřiny	99	80	0	M
+4205	567167	1	3	5	4	Ota	Rajs	Ing.		62	důchodce	Hora Svaté Kateřiny	99	5	0	M
+4205	567167	1	1	129	5	Jan	Turzó			52	učitel	Hora Svaté Kateřiny	99	129	0	M
+4205	567167	1	2	901	5	Anna	Sirotková			47	v domácnosti	Hora Svaté Kateřiny	99	80	0	F
+4205	567167	1	3	5	5	Martin	Schmieder			35	řidič	Hora Svaté Kateřiny	99	5	0	M
+4205	567167	1	1	129	6	Zdeněk	Jeřábek			49	nezaměstnaný	Hora Svaté Kateřiny	99	129	0	M
+4205	567167	1	2	901	6	Luboš	Útrata			32	zástupce mistra	Hora Svaté Kateřiny	99	80	0	M
+4205	567167	1	3	5	6	Karel	Stawiarz	Ing.		35	bankovní úředník	Hora Svaté Kateřiny	99	5	0	M
+4205	567167	1	1	129	7	Jiří	Sejval			32	soukromý podnikatel	Hora Svaté Kateřiny	99	129	0	M
+4205	567167	1	2	901	7	Emília	Šabková			48	poštmistrně	Hora Svaté Kateřiny	99	80	0	F
+4205	567167	1	3	5	7	Jaroslav	Leipelt			42	údržbář bytů	Hora Svaté Kateřiny	99	5	0	M
+4205	567167	1	1	129	8	Helmut	Schmieder			56	soukromý podnikatel	Hora Svaté Kateřiny	129	129	0	M
+4205	567167	1	2	901	8	Martina	Lohaczová			37	v domácnosti	Hora Svaté Kateřiny	99	80	0	F
+4205	567167	1	3	5	8	Bohumil	Huml			53	zaměstnanec	Hora Svaté Kateřiny	99	5	0	M
+4205	567167	1	1	129	9	Ladislav	Kuzebauch			28	obchodní vedoucí	Hora Svaté Kateřiny	129	129	0	M
+4205	567167	1	2	901	9	Jaroslav	Nodes			52	soukromý podnikatel	Hora Svaté Kateřiny	47	80	0	M
+4205	567167	1	3	5	9	Radovan	Sviták			34	podnikatel	Hora Svaté Kateřiny	99	5	0	M

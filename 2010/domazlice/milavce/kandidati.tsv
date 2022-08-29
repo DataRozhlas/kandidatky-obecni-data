@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	553948	1	1	1	1	Václav	Janovec	M			47	OSVČ	Milavče	1	1	0
-3201	553948	1	1	1	2	Bohumila	Bilíková	F			57	zdravotní sestra	Milavče	1	1	0
-3201	553948	1	1	1	3	Václav	Krčma	M			65	důchodce	Božkovy	1	1	0
-3201	553948	1	1	1	4	Hana	Braunová	F			44	státní úředník	Milavče	99	1	0
-3201	553948	1	1	1	5	Jiří	Blacký	M			39	OSVČ	Milavče	99	1	0
-3201	553948	1	1	1	6	Kateřina	Sporerová	F			38	servírka	Milavče	99	1	0
-3201	553948	1	1	1	7	Jan	Královec	M			25	vysokoškolský student	Milavče	99	1	0
-3201	553948	1	1	1	8	Jaruška	Němcová	F			57	účetní	Milavče	1	1	0
-3201	553948	1	1	1	9	Petr	Steinberger	M			38	zootechnik	Božkovy	1	1	0
-3201	553948	1	1	1	10	Pavel	Královec	M			46	traktorista	Milavče	99	1	0
-3201	553948	1	1	1	11	Ludmila	Zieglerová	F			46	mistrová odborného výcviku	Milavče	99	1	0
-3201	553948	1	2	901	1	Jan	Sazama	M	Mgr.		70	důchodce	Milavče	99	80	0
-3201	553948	1	2	901	2	Vojtěch	Weber	M			49	jednatel společnosti	Milavče	99	80	0
-3201	553948	1	2	901	3	Václav	Hejtman	M			57	řidič	Radonice	99	80	0
-3201	553948	1	2	901	4	Vladimír	Osička	M			55	zámečník	Milavče	99	80	0
-3201	553948	1	2	901	5	Zdeněk	Peroutka	M			41	státní zaměstnanec	Milavče	99	80	0
-3201	553948	1	2	901	6	Marie	Kernerová	F			52	montážní pracovník	Milavče	99	80	0
-3201	553948	1	2	901	7	Václav	Němec	M			42	řidič-OSVČ	Milavče	99	80	0
-3201	553948	1	2	901	8	Václav	Bor	M			47	truhlář-OSVČ	Milavče	99	80	0
-3201	553948	1	2	901	9	Josef	Pivoňka	M			52	dělník	Milavče	99	80	0
-3201	553948	1	2	901	10	Zdeněk	Forst	M			37	vedoucí dílny	Radonice	99	80	0
-3201	553948	1	2	901	11	Pavel	Kaše	M			22	elektrikář	Radonice	99	80	0
-3201	553948	1	3	7	1	Eva	Wypiorová	F			63	zdravotní sestra	Radonice	99	7	0
-3201	553948	1	3	7	2	Simona	Vroblová Váchalová	F	Bc.		29	mateřská dovolená	Milavče	7	7	0
-3201	553948	1	3	7	3	Ladislav	Váchal	M			31	SHR	Milavče	99	7	0
-3201	553948	1	3	7	4	Miroslava	Deckerová	F			33	mateřská dovolená	Radonice	99	7	0
-3201	553948	1	3	7	5	Martin	Šot	M			31	zedník	Milavče	99	7	0
-3201	553948	1	3	7	6	Pavel	Vondrovic	M			29	elektromechanik	Milavče	99	7	0
-3201	553948	1	3	7	7	Petr	Sazama	M			24	elektrotechnik	Radonice	99	7	0
-3201	553948	1	3	7	8	Barbora	Zíková	F			28	mateřská dovolená	Milavče	99	7	0
-3201	553948	1	3	7	9	Zdeněk	Kolář	M			36	elektromontér	Milavče	99	7	0
-3201	553948	1	3	7	10	Pavel	Decker	M			37	OSVČ	Radonice	99	7	0
-3201	553948	1	3	7	11	Petra	Sedláčková	F			22	mateřská dovolená	Milavče	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	553948	1	1	1	1	Václav	Janovec			47	OSVČ	Milavče	1	1	0	M
+3201	553948	1	2	901	1	Jan	Sazama	Mgr.		70	důchodce	Milavče	99	80	0	M
+3201	553948	1	3	7	1	Eva	Wypiorová			63	zdravotní sestra	Radonice	99	7	0	F
+3201	553948	1	1	1	2	Bohumila	Bilíková			57	zdravotní sestra	Milavče	1	1	0	F
+3201	553948	1	2	901	2	Vojtěch	Weber			49	jednatel společnosti	Milavče	99	80	0	M
+3201	553948	1	3	7	2	Simona	Vroblová Váchalová	Bc.		29	mateřská dovolená	Milavče	7	7	0	F
+3201	553948	1	1	1	3	Václav	Krčma			65	důchodce	Božkovy	1	1	0	M
+3201	553948	1	2	901	3	Václav	Hejtman			57	řidič	Radonice	99	80	0	M
+3201	553948	1	3	7	3	Ladislav	Váchal			31	SHR	Milavče	99	7	0	M
+3201	553948	1	1	1	4	Hana	Braunová			44	státní úředník	Milavče	99	1	0	F
+3201	553948	1	2	901	4	Vladimír	Osička			55	zámečník	Milavče	99	80	0	M
+3201	553948	1	3	7	4	Miroslava	Deckerová			33	mateřská dovolená	Radonice	99	7	0	F
+3201	553948	1	1	1	5	Jiří	Blacký			39	OSVČ	Milavče	99	1	0	M
+3201	553948	1	2	901	5	Zdeněk	Peroutka			41	státní zaměstnanec	Milavče	99	80	0	M
+3201	553948	1	3	7	5	Martin	Šot			31	zedník	Milavče	99	7	0	M
+3201	553948	1	1	1	6	Kateřina	Sporerová			38	servírka	Milavče	99	1	0	F
+3201	553948	1	2	901	6	Marie	Kernerová			52	montážní pracovník	Milavče	99	80	0	F
+3201	553948	1	3	7	6	Pavel	Vondrovic			29	elektromechanik	Milavče	99	7	0	M
+3201	553948	1	1	1	7	Jan	Královec			25	vysokoškolský student	Milavče	99	1	0	M
+3201	553948	1	2	901	7	Václav	Němec			42	řidič-OSVČ	Milavče	99	80	0	M
+3201	553948	1	3	7	7	Petr	Sazama			24	elektrotechnik	Radonice	99	7	0	M
+3201	553948	1	1	1	8	Jaruška	Němcová			57	účetní	Milavče	1	1	0	F
+3201	553948	1	2	901	8	Václav	Bor			47	truhlář-OSVČ	Milavče	99	80	0	M
+3201	553948	1	3	7	8	Barbora	Zíková			28	mateřská dovolená	Milavče	99	7	0	F
+3201	553948	1	1	1	9	Petr	Steinberger			38	zootechnik	Božkovy	1	1	0	M
+3201	553948	1	2	901	9	Josef	Pivoňka			52	dělník	Milavče	99	80	0	M
+3201	553948	1	3	7	9	Zdeněk	Kolář			36	elektromontér	Milavče	99	7	0	M
+3201	553948	1	1	1	10	Pavel	Královec			46	traktorista	Milavče	99	1	0	M
+3201	553948	1	2	901	10	Zdeněk	Forst			37	vedoucí dílny	Radonice	99	80	0	M
+3201	553948	1	3	7	10	Pavel	Decker			37	OSVČ	Radonice	99	7	0	M
+3201	553948	1	1	1	11	Ludmila	Zieglerová			46	mistrová odborného výcviku	Milavče	99	1	0	F
+3201	553948	1	2	901	11	Pavel	Kaše			22	elektrikář	Radonice	99	80	0	M
+3201	553948	1	3	7	11	Petra	Sedláčková			22	mateřská dovolená	Milavče	99	7	0	F

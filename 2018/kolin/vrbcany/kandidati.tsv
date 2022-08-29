@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2104	533891	1	1	47	1	Jiří	Urban	M	Bc.		48	ministerský rada	Vrbčany	47	47	A
-2104	533891	1	1	47	2	Evžen	Koller	M			58	úředník	Vrbčany	769	47	A
-2104	533891	1	1	47	3	Jiří	Babák	M			41	řidič	Vrbčany	47	47	A
-2104	533891	1	1	47	4	Hubert	Dlabač	M			38	hasič	Vrbčany	769	47	A
-2104	533891	1	1	47	5	Josef	Bucek	M	Ing.		69	hydrolog	Vrbčany	47	47	A
-2104	533891	1	1	47	6	Zuzana	Dlabačová	F			39	veterinární laborantka	Vrbčany	99	47	A
-2104	533891	1	2	901	1	Šárka	Jelínková	F	Ing. Mgr.		38	interní auditor	Vrbčany	99	80	A
-2104	533891	1	2	901	2	Miroslav	Kuchař	M			42	řidič	Vrbčany	99	80	A
-2104	533891	1	2	901	3	Ondřej	Horák	M			40	OSVČ	Vrbčany	99	80	A
-2104	533891	1	2	901	4	Nikola	Nedvědová	F			20	operátorka	Vrbčany	99	80	A
-2104	533891	1	2	901	5	Jan	Andrašik	M			27	řidič	Vrbčany	99	80	A
-2104	533891	1	2	901	6	Jan	Novák	M	Ing.	Ph.D.	40	jednatel	Vrbčany	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2104	533891	1	1	47	1	Jiří	Urban	Bc.		48	ministerský rada	Vrbčany	47	47	A	M
+2104	533891	1	2	901	1	Šárka	Jelínková	Ing. Mgr.		38	interní auditor	Vrbčany	99	80	A	F
+2104	533891	1	1	47	2	Evžen	Koller			58	úředník	Vrbčany	769	47	A	M
+2104	533891	1	2	901	2	Miroslav	Kuchař			42	řidič	Vrbčany	99	80	A	M
+2104	533891	1	1	47	3	Jiří	Babák			41	řidič	Vrbčany	47	47	A	M
+2104	533891	1	2	901	3	Ondřej	Horák			40	OSVČ	Vrbčany	99	80	A	M
+2104	533891	1	1	47	4	Hubert	Dlabač			38	hasič	Vrbčany	769	47	A	M
+2104	533891	1	2	901	4	Nikola	Nedvědová			20	operátorka	Vrbčany	99	80	A	F
+2104	533891	1	1	47	5	Josef	Bucek	Ing.		69	hydrolog	Vrbčany	47	47	A	M
+2104	533891	1	2	901	5	Jan	Andrašik			27	řidič	Vrbčany	99	80	A	M
+2104	533891	1	1	47	6	Zuzana	Dlabačová			39	veterinární laborantka	Vrbčany	99	47	A	F
+2104	533891	1	2	901	6	Jan	Novák	Ing.	Ph.D.	40	jednatel	Vrbčany	99	80	A	M

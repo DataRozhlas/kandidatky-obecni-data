@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	542610	1	1	901	1	František	Korbel	M			56	technik	Zbečno	99	80	0
-2112	542610	1	1	901	2	Josef	Doksanský	M	Ing.		45	stavbyvedoucí	Újezd nad Zbečnem	99	80	0
-2112	542610	1	1	901	3	Zbyněk	Voříšek	M			47	řidič	Zbečno	99	80	0
-2112	542610	1	1	901	4	Karel	Doubek	M			60	mistr	Újezd nad Zbečnem	99	80	0
-2112	542610	1	1	901	5	Vlastimil	Jaroš	M			55	truhlář	Újezd nad Zbečnem	99	80	0
-2112	542610	1	1	901	6	Ota	Beneš	M			48	zedník	Zbečno	99	80	0
-2112	542610	1	1	901	7	Ivana	Ježková	F			34	prodavačka	Újezd nad Zbečnem	99	80	0
-2112	542610	1	2	902	1	Stanislav	Dryják	M	Ing.		57	vedouci střediska	Zbečno	99	80	0
-2112	542610	1	2	902	2	Vlasta	Todorovová	F			47	živnostník	Újezd nad Zbečnem	99	80	0
-2112	542610	1	2	902	3	Blanka	Dvořáková	F			46	úřednice	Zbečno	99	80	0
-2112	542610	1	2	902	4	Monika	Sklouzová	F			41	huťmistr	Újezd nad Zbečnem	99	80	0
-2112	542610	1	2	902	5	Jiří	Loskot	M			34	dělník	Zbečno	99	80	0
-2112	542610	1	2	902	6	Hana	Beranová	F			44	pečovatelka	Újezd nad Zbečnem	99	80	0
-2112	542610	1	2	902	7	Hana	Malá	F			39	poštovní doručovatelka	Zbečno	99	80	0
-2112	542610	1	2	902	8	Jaroslav	Bureš	M			35	živnostník	Újezd nad Zbečnem	99	80	0
-2112	542610	1	2	902	9	Václav	Černý	M			54	strojvedoucí	Zbečno	99	80	0
-2112	542610	1	3	53	1	Helena	Kosová	F	Ing.		41	podnikatelka	Zbečno	99	53	0
-2112	542610	1	3	53	2	Václav	Frolík	M			42	podnikatel	Zbečno	99	53	0
-2112	542610	1	3	53	3	František	Babička	M			53	elektromontér	Zbečno	99	53	0
-2112	542610	1	3	53	4	Ivana	Medová	F			29	podnikatelka	Zbečno	99	53	0
-2112	542610	1	3	53	5	Ludvík	Matějka	M			35	podnikatel	Zbečno	99	53	0
-2112	542610	1	3	53	6	Aleš	Burian	M			36	podnikatel	Zbečno	99	53	0
-2112	542610	1	3	53	7	Karel	Moravec	M			40	podnikatel	Zbečno	99	53	0
-2112	542610	1	3	53	8	Lucie	Housarová	F			38	učitelka	Zbečno	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	542610	1	1	901	1	František	Korbel			56	technik	Zbečno	99	80	0	M
+2112	542610	1	2	902	1	Stanislav	Dryják	Ing.		57	vedouci střediska	Zbečno	99	80	0	M
+2112	542610	1	3	53	1	Helena	Kosová	Ing.		41	podnikatelka	Zbečno	99	53	0	F
+2112	542610	1	1	901	2	Josef	Doksanský	Ing.		45	stavbyvedoucí	Újezd nad Zbečnem	99	80	0	M
+2112	542610	1	2	902	2	Vlasta	Todorovová			47	živnostník	Újezd nad Zbečnem	99	80	0	F
+2112	542610	1	3	53	2	Václav	Frolík			42	podnikatel	Zbečno	99	53	0	M
+2112	542610	1	1	901	3	Zbyněk	Voříšek			47	řidič	Zbečno	99	80	0	M
+2112	542610	1	2	902	3	Blanka	Dvořáková			46	úřednice	Zbečno	99	80	0	F
+2112	542610	1	3	53	3	František	Babička			53	elektromontér	Zbečno	99	53	0	M
+2112	542610	1	1	901	4	Karel	Doubek			60	mistr	Újezd nad Zbečnem	99	80	0	M
+2112	542610	1	2	902	4	Monika	Sklouzová			41	huťmistr	Újezd nad Zbečnem	99	80	0	F
+2112	542610	1	3	53	4	Ivana	Medová			29	podnikatelka	Zbečno	99	53	0	F
+2112	542610	1	1	901	5	Vlastimil	Jaroš			55	truhlář	Újezd nad Zbečnem	99	80	0	M
+2112	542610	1	2	902	5	Jiří	Loskot			34	dělník	Zbečno	99	80	0	M
+2112	542610	1	3	53	5	Ludvík	Matějka			35	podnikatel	Zbečno	99	53	0	M
+2112	542610	1	1	901	6	Ota	Beneš			48	zedník	Zbečno	99	80	0	M
+2112	542610	1	2	902	6	Hana	Beranová			44	pečovatelka	Újezd nad Zbečnem	99	80	0	F
+2112	542610	1	3	53	6	Aleš	Burian			36	podnikatel	Zbečno	99	53	0	M
+2112	542610	1	1	901	7	Ivana	Ježková			34	prodavačka	Újezd nad Zbečnem	99	80	0	F
+2112	542610	1	2	902	7	Hana	Malá			39	poštovní doručovatelka	Zbečno	99	80	0	F
+2112	542610	1	3	53	7	Karel	Moravec			40	podnikatel	Zbečno	99	53	0	M
+2112	542610	1	2	902	8	Jaroslav	Bureš			35	živnostník	Újezd nad Zbečnem	99	80	0	M
+2112	542610	1	3	53	8	Lucie	Housarová			38	učitelka	Zbečno	99	53	0	F
+2112	542610	1	2	902	9	Václav	Černý			54	strojvedoucí	Zbečno	99	80	0	M

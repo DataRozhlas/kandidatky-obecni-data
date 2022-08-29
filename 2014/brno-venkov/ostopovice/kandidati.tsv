@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	583596	1	1	53	1	Marek	Vrbka	M			53	živnostník	Ostopovice	53	53	0
-6203	583596	1	1	53	2	Václav	Starý	M			40	dopravní inženýr	Ostopovice	53	53	0
-6203	583596	1	1	53	3	Lukáš	Hanák	M			31	podnikatel	Ostopovice	53	53	0
-6203	583596	1	1	53	4	Aleš	Kulhánek	M			40	živnostník	Ostopovice	53	53	0
-6203	583596	1	1	53	5	Milada	Davidová	F			64	pracující důchodce	Ostopovice	53	53	0
-6203	583596	1	1	53	6	Magda	Vrbková	F			45	v domácnosti	Ostopovice	53	53	0
-6203	583596	1	1	53	7	Milan	Žilka	M			51	živnostník	Ostopovice	53	53	0
-6203	583596	1	1	53	8	Simona	Žilková	F			51	živnostník	Ostopovice	53	53	0
-6203	583596	1	2	364	1	Jan	Symon	M	MgA.		38	starosta	Ostopovice	99	5	0
-6203	583596	1	2	364	2	Jan	Kubíček	M			58	majitel stolárny	Ostopovice	99	80	0
-6203	583596	1	2	364	3	Petr	Vlach	M	Ing.		49	ředitel prodeje	Ostopovice	99	80	0
-6203	583596	1	2	364	4	Ladislav	Polcar	M	Ing.		53	technický náměstek	Ostopovice	99	80	0
-6203	583596	1	2	364	5	Boris	Canov	M	Ing. arch.		38	projektant	Ostopovice	99	80	0
-6203	583596	1	2	364	6	Pavel	Papajoanu	M	Ing.		58	ekonom	Ostopovice	99	80	0
-6203	583596	1	2	364	7	Ondřej	Tomašovič	M			38	vedoucí pobočky	Ostopovice	99	80	0
-6203	583596	1	2	364	8	David	Šmídek	M	Ing.		39	obchodní zástupce	Ostopovice	99	80	0
-6203	583596	1	2	364	9	Jan	Kubíček	M			26	příslušník Vězeňské služby ČR	Ostopovice	99	80	0
-6203	583596	1	2	364	10	Luboš	Dobšík	M			42	technik	Ostopovice	99	80	0
-6203	583596	1	2	364	11	Petr	Šuman	M	Ing. arch.		41	architekt	Ostopovice	99	80	0
-6203	583596	1	2	364	12	Petr	Polcar	M	Ing.		27	specialista prodeje	Ostopovice	99	80	0
-6203	583596	1	2	364	13	Petr	Martinů	M	Mgr.		47	právník	Ostopovice	99	80	0
-6203	583596	1	2	364	14	Petr	Řehořka	M	Ing. arch.		47	architekt	Ostopovice	99	80	0
-6203	583596	1	2	364	15	Milena	Dejlová	F			64	důchodkyně	Ostopovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	583596	1	1	53	1	Marek	Vrbka			53	živnostník	Ostopovice	53	53	0	M
+6203	583596	1	2	364	1	Jan	Symon	MgA.		38	starosta	Ostopovice	99	5	0	M
+6203	583596	1	1	53	2	Václav	Starý			40	dopravní inženýr	Ostopovice	53	53	0	M
+6203	583596	1	2	364	2	Jan	Kubíček			58	majitel stolárny	Ostopovice	99	80	0	M
+6203	583596	1	1	53	3	Lukáš	Hanák			31	podnikatel	Ostopovice	53	53	0	M
+6203	583596	1	2	364	3	Petr	Vlach	Ing.		49	ředitel prodeje	Ostopovice	99	80	0	M
+6203	583596	1	1	53	4	Aleš	Kulhánek			40	živnostník	Ostopovice	53	53	0	M
+6203	583596	1	2	364	4	Ladislav	Polcar	Ing.		53	technický náměstek	Ostopovice	99	80	0	M
+6203	583596	1	1	53	5	Milada	Davidová			64	pracující důchodce	Ostopovice	53	53	0	F
+6203	583596	1	2	364	5	Boris	Canov	Ing. arch.		38	projektant	Ostopovice	99	80	0	M
+6203	583596	1	1	53	6	Magda	Vrbková			45	v domácnosti	Ostopovice	53	53	0	F
+6203	583596	1	2	364	6	Pavel	Papajoanu	Ing.		58	ekonom	Ostopovice	99	80	0	M
+6203	583596	1	1	53	7	Milan	Žilka			51	živnostník	Ostopovice	53	53	0	M
+6203	583596	1	2	364	7	Ondřej	Tomašovič			38	vedoucí pobočky	Ostopovice	99	80	0	M
+6203	583596	1	1	53	8	Simona	Žilková			51	živnostník	Ostopovice	53	53	0	F
+6203	583596	1	2	364	8	David	Šmídek	Ing.		39	obchodní zástupce	Ostopovice	99	80	0	M
+6203	583596	1	2	364	9	Jan	Kubíček			26	příslušník Vězeňské služby ČR	Ostopovice	99	80	0	M
+6203	583596	1	2	364	10	Luboš	Dobšík			42	technik	Ostopovice	99	80	0	M
+6203	583596	1	2	364	11	Petr	Šuman	Ing. arch.		41	architekt	Ostopovice	99	80	0	M
+6203	583596	1	2	364	12	Petr	Polcar	Ing.		27	specialista prodeje	Ostopovice	99	80	0	M
+6203	583596	1	2	364	13	Petr	Martinů	Mgr.		47	právník	Ostopovice	99	80	0	M
+6203	583596	1	2	364	14	Petr	Řehořka	Ing. arch.		47	architekt	Ostopovice	99	80	0	M
+6203	583596	1	2	364	15	Milena	Dejlová			64	důchodkyně	Ostopovice	99	80	0	F

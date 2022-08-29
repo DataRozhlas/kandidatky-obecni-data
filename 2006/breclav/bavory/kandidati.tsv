@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6204	584304	1	1	47	1	Eliška	Těšinská	F			58	školní inspektorka	Bavory	99	47	0
-6204	584304	1	1	47	2	Petr	Hroudný	M			49	dělník	Bavory	99	47	0
-6204	584304	1	1	47	3	Marie	Kaššová	F			56	technik	Bavory	99	47	0
-6204	584304	1	1	47	4	Jiří	Badalík	M			51	řidič	Bavory	99	47	0
-6204	584304	1	1	47	5	Valentina	Hanáková	F			49	dělnice	Bavory	99	47	0
-6204	584304	1	1	47	6	Ivan	Šimek	M			60	dělník	Bavory	47	47	0
-6204	584304	1	2	901	1	Petr	Žluva	M	Ing.		33	starosta obce	Bavory	53	80	0
-6204	584304	1	2	901	2	Anna	Václavková	F			54	účetní	Bavory	99	80	0
-6204	584304	1	2	901	3	Emil	Bursík	M	Ing.		48	daňový poradce	Bavory	99	80	0
-6204	584304	1	2	901	4	Roman	Studénka	M			30	podnikatel	Bavory	99	80	0
-6204	584304	1	2	901	5	Martina	Peřinová	F			36	technická pracovnice	Bavory	99	80	0
-6204	584304	1	2	901	6	Roman	Hubáček	M			30	skladník	Bavory	99	80	0
-6204	584304	1	2	901	7	Martin	Hodulák	M			26	skladník	Bavory	99	80	0
-6204	584304	1	2	901	8	Michal	Hubáček	M			28	provozní hotelu	Bavory	99	80	0
-6204	584304	1	2	901	9	Jan	Kvěch	M			34	zámečník	Bavory	99	80	0
-6204	584304	1	3	1	1	Anežka	Pončíková	F			51	dělnice	Bavory	99	1	0
-6204	584304	1	3	1	2	Renata	Holcová	F			30	vychovatelka	Bavory	99	1	0
-6204	584304	1	3	1	3	Marie	Holcová	F			53	účetní	Bavory	99	1	0
-6204	584304	1	3	1	4	Michaela	Šťastná	F			34	účetní	Bavory	99	1	0
-6204	584304	1	3	1	5	Antonín	Martinka	M			69	důchodce	Bavory	99	1	0
-6204	584304	1	3	1	6	Helena	Holcová	F			29	vedoucí výroby	Bavory	99	1	0
-6204	584304	1	3	1	7	Kateřina	Poňuchálková	F			29	pracovnice montáže	Bavory	99	1	0
-6204	584304	1	3	1	8	Lucie	Langová	F			28	pracovnice montáže	Bavory	99	1	0
-6204	584304	1	3	1	9	Ferdinand	Kurtin	M			64	důchodce	Bavory	1	1	0
-6204	584304	1	4	902	1	Jan	Dvořák	M			48	truhlář	Bavory	99	80	0
-6204	584304	1	4	902	2	Libuše	Obrdlíková	F			60	důchodkyně	Bavory	99	80	0
-6204	584304	1	4	902	3	Hana	Koňaříková	F			49	státní zaměstnankyně	Bavory	99	80	0
-6204	584304	1	4	902	4	Markéta	Holcová	F			33	soukromá podnikatelka	Bavory	53	80	0
-6204	584304	1	4	902	5	Ladislav	Holec	M			31	soukromý zemědělec	Bavory	99	80	0
-6204	584304	1	4	902	6	Marie	Holcová	F			52	dělnice	Bavory	53	80	0
-6204	584304	1	4	902	7	Kamil	Novotný	M			27	skladník	Bavory	99	80	0
-6204	584304	1	4	902	8	Filip	Poňuchálek	M			21	student VŠ	Bavory	99	80	0
-6204	584304	1	4	902	9	Tomáš	Malinka	M			25	čalouník	Bavory	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6204	584304	1	1	47	1	Eliška	Těšinská			58	školní inspektorka	Bavory	99	47	0	F
+6204	584304	1	2	901	1	Petr	Žluva	Ing.		33	starosta obce	Bavory	53	80	0	M
+6204	584304	1	3	1	1	Anežka	Pončíková			51	dělnice	Bavory	99	1	0	F
+6204	584304	1	4	902	1	Jan	Dvořák			48	truhlář	Bavory	99	80	0	M
+6204	584304	1	1	47	2	Petr	Hroudný			49	dělník	Bavory	99	47	0	M
+6204	584304	1	2	901	2	Anna	Václavková			54	účetní	Bavory	99	80	0	F
+6204	584304	1	3	1	2	Renata	Holcová			30	vychovatelka	Bavory	99	1	0	F
+6204	584304	1	4	902	2	Libuše	Obrdlíková			60	důchodkyně	Bavory	99	80	0	F
+6204	584304	1	1	47	3	Marie	Kaššová			56	technik	Bavory	99	47	0	F
+6204	584304	1	2	901	3	Emil	Bursík	Ing.		48	daňový poradce	Bavory	99	80	0	M
+6204	584304	1	3	1	3	Marie	Holcová			53	účetní	Bavory	99	1	0	F
+6204	584304	1	4	902	3	Hana	Koňaříková			49	státní zaměstnankyně	Bavory	99	80	0	F
+6204	584304	1	1	47	4	Jiří	Badalík			51	řidič	Bavory	99	47	0	M
+6204	584304	1	2	901	4	Roman	Studénka			30	podnikatel	Bavory	99	80	0	M
+6204	584304	1	3	1	4	Michaela	Šťastná			34	účetní	Bavory	99	1	0	F
+6204	584304	1	4	902	4	Markéta	Holcová			33	soukromá podnikatelka	Bavory	53	80	0	F
+6204	584304	1	1	47	5	Valentina	Hanáková			49	dělnice	Bavory	99	47	0	F
+6204	584304	1	2	901	5	Martina	Peřinová			36	technická pracovnice	Bavory	99	80	0	F
+6204	584304	1	3	1	5	Antonín	Martinka			69	důchodce	Bavory	99	1	0	M
+6204	584304	1	4	902	5	Ladislav	Holec			31	soukromý zemědělec	Bavory	99	80	0	M
+6204	584304	1	1	47	6	Ivan	Šimek			60	dělník	Bavory	47	47	0	M
+6204	584304	1	2	901	6	Roman	Hubáček			30	skladník	Bavory	99	80	0	M
+6204	584304	1	3	1	6	Helena	Holcová			29	vedoucí výroby	Bavory	99	1	0	F
+6204	584304	1	4	902	6	Marie	Holcová			52	dělnice	Bavory	53	80	0	F
+6204	584304	1	2	901	7	Martin	Hodulák			26	skladník	Bavory	99	80	0	M
+6204	584304	1	3	1	7	Kateřina	Poňuchálková			29	pracovnice montáže	Bavory	99	1	0	F
+6204	584304	1	4	902	7	Kamil	Novotný			27	skladník	Bavory	99	80	0	M
+6204	584304	1	2	901	8	Michal	Hubáček			28	provozní hotelu	Bavory	99	80	0	M
+6204	584304	1	3	1	8	Lucie	Langová			28	pracovnice montáže	Bavory	99	1	0	F
+6204	584304	1	4	902	8	Filip	Poňuchálek			21	student VŠ	Bavory	99	80	0	M
+6204	584304	1	2	901	9	Jan	Kvěch			34	zámečník	Bavory	99	80	0	M
+6204	584304	1	3	1	9	Ferdinand	Kurtin			64	důchodce	Bavory	1	1	0	M
+6204	584304	1	4	902	9	Tomáš	Malinka			25	čalouník	Bavory	99	80	0	M

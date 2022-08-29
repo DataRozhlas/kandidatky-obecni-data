@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	571300	1	1	901	1	Marie	Pražáková	F			51	obchodní zástupce	Dědová	99	80	0
-5301	571300	1	1	901	2	Josef	Nekvinda	M			38	vedoucí výroby	Dědová	99	80	0
-5301	571300	1	1	901	3	Jiří	Paseka	M			40	řidič	Dědová	99	80	0
-5301	571300	1	1	901	4	Petra	Čejková	F			32	dělnice	Dědová	99	80	0
-5301	571300	1	1	901	5	Jana	Balková	F	Bc.		24	studentka	Dědová	99	80	0
-5301	571300	1	1	901	6	Miloslav	Zavřel	M			30	dělník	Dědová	99	80	0
-5301	571300	1	1	901	7	Marek	Valla	M			28	obchodní zástupce	Dědová	99	80	0
-5301	571300	1	2	47	1	Milan	Legr	M			36	dělník	Dědová	99	47	0
-5301	571300	1	2	47	2	Robert	Mikuláš	M			31	dělník	Dědová	99	47	0
-5301	571300	1	2	47	3	Miloslava	Janková	F			39	prodavačka	Dědová	99	47	0
-5301	571300	1	2	47	4	Ladislav	Marek	M			37	dělník	Dědová	99	47	0
-5301	571300	1	2	47	5	Věra	Urbánková	F			53	dělnice	Dědová	47	47	0
-5301	571300	1	2	47	6	Bohumil	Vtípil	M			55	dělník	Dědová	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	571300	1	1	901	1	Marie	Pražáková			51	obchodní zástupce	Dědová	99	80	0	F
+5301	571300	1	2	47	1	Milan	Legr			36	dělník	Dědová	99	47	0	M
+5301	571300	1	1	901	2	Josef	Nekvinda			38	vedoucí výroby	Dědová	99	80	0	M
+5301	571300	1	2	47	2	Robert	Mikuláš			31	dělník	Dědová	99	47	0	M
+5301	571300	1	1	901	3	Jiří	Paseka			40	řidič	Dědová	99	80	0	M
+5301	571300	1	2	47	3	Miloslava	Janková			39	prodavačka	Dědová	99	47	0	F
+5301	571300	1	1	901	4	Petra	Čejková			32	dělnice	Dědová	99	80	0	F
+5301	571300	1	2	47	4	Ladislav	Marek			37	dělník	Dědová	99	47	0	M
+5301	571300	1	1	901	5	Jana	Balková	Bc.		24	studentka	Dědová	99	80	0	F
+5301	571300	1	2	47	5	Věra	Urbánková			53	dělnice	Dědová	47	47	0	F
+5301	571300	1	1	901	6	Miloslav	Zavřel			30	dělník	Dědová	99	80	0	M
+5301	571300	1	2	47	6	Bohumil	Vtípil			55	dělník	Dědová	47	47	0	M
+5301	571300	1	1	901	7	Marek	Valla			28	obchodní zástupce	Dědová	99	80	0	M

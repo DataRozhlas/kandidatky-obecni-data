@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3106	550965	1	1	901	1	Dominik	Petržílka	M	Bc.		25	student	Číčenice	99	80	A
-3106	550965	1	1	901	2	Martin	Ševčík	M	Mgr.		27	hasič	Číčenice	99	80	A
-3106	550965	1	1	901	3	Drahomír	Vítovec	M	Ing.		31	podnikatel	Číčenice	99	80	A
-3106	550965	1	1	901	4	Václav	Brejcha	M			23	rybář	Číčenice	99	80	A
-3106	550965	1	1	901	5	Jan	Štrombach	M			32	živnostník	Číčenice	99	80	A
-3106	550965	1	2	902	1	Renata	Regálová	F			51	starostka obce	Číčenice	99	80	A
-3106	550965	1	2	902	2	Tomáš	Koblenc	M	Mgr.		41	tajemník městského úřadu	Číčenice	99	80	A
-3106	550965	1	2	902	3	Daniel	Veselý	M			47	technik	Číčenice	99	80	A
-3106	550965	1	2	902	4	David	Doktor	M			28	obchodní zástupce	Číčenice	99	80	A
-3106	550965	1	2	902	5	Ondřej	Vítovec	M			29	voják	Číčenice	99	80	A
-3106	550965	1	2	902	6	Petra	Jarešová	F	MUDr.		54	lékařka	Číčenice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3106	550965	1	1	901	1	Dominik	Petržílka	Bc.		25	student	Číčenice	99	80	A	M
+3106	550965	1	2	902	1	Renata	Regálová			51	starostka obce	Číčenice	99	80	A	F
+3106	550965	1	1	901	2	Martin	Ševčík	Mgr.		27	hasič	Číčenice	99	80	A	M
+3106	550965	1	2	902	2	Tomáš	Koblenc	Mgr.		41	tajemník městského úřadu	Číčenice	99	80	A	M
+3106	550965	1	1	901	3	Drahomír	Vítovec	Ing.		31	podnikatel	Číčenice	99	80	A	M
+3106	550965	1	2	902	3	Daniel	Veselý			47	technik	Číčenice	99	80	A	M
+3106	550965	1	1	901	4	Václav	Brejcha			23	rybář	Číčenice	99	80	A	M
+3106	550965	1	2	902	4	David	Doktor			28	obchodní zástupce	Číčenice	99	80	A	M
+3106	550965	1	1	901	5	Jan	Štrombach			32	živnostník	Číčenice	99	80	A	M
+3106	550965	1	2	902	5	Ondřej	Vítovec			29	voják	Číčenice	99	80	A	M
+3106	550965	1	2	902	6	Petra	Jarešová	MUDr.		54	lékařka	Číčenice	99	80	A	F

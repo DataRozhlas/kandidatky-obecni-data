@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4103	560332	1	1	53	1	Stanislav	Forejtek	M	Ing.		56	technik	Dasnice	99	53	0
-4103	560332	1	1	53	2	Ilona	Bílá	F			48	uklízečka	Dasnice	99	53	0
-4103	560332	1	1	53	3	Jan	Žižka	M			54	uch. o práci evid. na ÚP, ČID	Dasnice	99	53	0
-4103	560332	1	1	53	4	Pavel	Forejtek	M			34	technik	Dasnice	99	53	0
-4103	560332	1	1	53	5	Jaroslava	Bečková	F			51	šička	Dasnice	99	53	0
-4103	560332	1	2	7	1	František	Dubec	M			62	starosta	Dasnice	99	7	0
-4103	560332	1	2	7	2	Antonín	Popovič	M			32	dělník	Dasnice	99	7	0
-4103	560332	1	2	7	3	Zdeněk	Svůra	M			44	podnikatel	Dasnice	99	7	0
-4103	560332	1	2	7	4	Růžena	Hartmannová	F			58	důchodce	Dasnice	7	7	0
-4103	560332	1	2	7	5	Antonín	Kugel	M			29	dělník	Dasnice	99	7	0
-4103	560332	1	2	7	6	René	Holý	M			35	dělník	Dasnice	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4103	560332	1	1	53	1	Stanislav	Forejtek	Ing.		56	technik	Dasnice	99	53	0	M
+4103	560332	1	2	7	1	František	Dubec			62	starosta	Dasnice	99	7	0	M
+4103	560332	1	1	53	2	Ilona	Bílá			48	uklízečka	Dasnice	99	53	0	F
+4103	560332	1	2	7	2	Antonín	Popovič			32	dělník	Dasnice	99	7	0	M
+4103	560332	1	1	53	3	Jan	Žižka			54	uch. o práci evid. na ÚP, ČID	Dasnice	99	53	0	M
+4103	560332	1	2	7	3	Zdeněk	Svůra			44	podnikatel	Dasnice	99	7	0	M
+4103	560332	1	1	53	4	Pavel	Forejtek			34	technik	Dasnice	99	53	0	M
+4103	560332	1	2	7	4	Růžena	Hartmannová			58	důchodce	Dasnice	7	7	0	F
+4103	560332	1	1	53	5	Jaroslava	Bečková			51	šička	Dasnice	99	53	0	F
+4103	560332	1	2	7	5	Antonín	Kugel			29	dělník	Dasnice	99	7	0	M
+4103	560332	1	2	7	6	René	Holý			35	dělník	Dasnice	99	7	0	M

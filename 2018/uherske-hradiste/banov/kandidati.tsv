@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7202	592021	1	1	1	1	Zbyněk	Král	M	Mgr.		53	obchodní zástupce	Bánov	1	1	A
-7202	592021	1	1	1	2	Marie	Fremlová	F	Ing.		50	ekonomka	Bánov	1	1	A
-7202	592021	1	1	1	3	Petr	Borák	M	Mgr.		45	programátor	Bánov	99	1	A
-7202	592021	1	1	1	4	Mária	Nováková	F			54	hypoteční specialista	Bánov	99	1	A
-7202	592021	1	1	1	5	Stanislav	Vranka	M	Ing.		51	elektrokonstruktér	Bánov	99	1	A
-7202	592021	1	1	1	6	Luděk	Vavrys	M			49	strojní zámečník	Bánov	99	1	A
-7202	592021	1	1	1	7	Kristýna	Mikulčíková	F	Mgr.		39	středoškolská učitelka	Bánov	99	1	A
-7202	592021	1	1	1	8	Šimon	Král	M	Bc.		24	student	Bánov	99	1	A
-7202	592021	1	1	1	9	Irena	Hauerlandová	F			52	vedoucí pošty	Bánov	99	1	A
-7202	592021	1	1	1	10	Radek	Pavelka	M			42	pekař	Bánov	99	1	A
-7202	592021	1	1	1	11	Petr	Mahdal	M			37	strojní konstruktér	Bánov	99	1	A
-7202	592021	1	2	389	1	Marek	Mahdal	M	Bc.		32	starosta	Bánov	53	53	A
-7202	592021	1	2	389	2	Marian	Čubík	M			55	místostarosta	Bánov	99	80	A
-7202	592021	1	2	389	3	Pavel	Janča	M			35	technický pracovník	Bánov	99	80	A
-7202	592021	1	2	389	4	Ivo	Vystrčil	M	Dr. Ing.	MBA	40	vedoucí jídelny	Bánov	99	80	A
-7202	592021	1	2	389	5	Štěpán	Koníček	M	Ing. arch.		38	architekt	Bánov	99	80	A
-7202	592021	1	2	389	6	Jarmila	Zálešáková	F			68	důchodce	Bánov	99	80	A
-7202	592021	1	2	389	7	Vítězslav	Volný	M		DiS.	38	stavbyvedoucí	Bánov	99	80	A
-7202	592021	1	2	389	8	Kateřina	Nováková	F	Mgr.		42	učitelka	Bánov	99	80	A
-7202	592021	1	2	389	9	Jan	Vaňhara	M			38	automechanik	Bánov	99	80	A
-7202	592021	1	2	389	10	Jiří	Janča	M			43	správce komunikač. a inf. systémů HZS Zl. kraje	Bánov	99	80	A
-7202	592021	1	2	389	11	Lubomír	Chovanec	M			64	důchodce	Bánov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7202	592021	1	1	1	1	Zbyněk	Král	Mgr.		53	obchodní zástupce	Bánov	1	1	A	M
+7202	592021	1	2	389	1	Marek	Mahdal	Bc.		32	starosta	Bánov	53	53	A	M
+7202	592021	1	1	1	2	Marie	Fremlová	Ing.		50	ekonomka	Bánov	1	1	A	F
+7202	592021	1	2	389	2	Marian	Čubík			55	místostarosta	Bánov	99	80	A	M
+7202	592021	1	1	1	3	Petr	Borák	Mgr.		45	programátor	Bánov	99	1	A	M
+7202	592021	1	2	389	3	Pavel	Janča			35	technický pracovník	Bánov	99	80	A	M
+7202	592021	1	1	1	4	Mária	Nováková			54	hypoteční specialista	Bánov	99	1	A	F
+7202	592021	1	2	389	4	Ivo	Vystrčil	Dr. Ing.	MBA	40	vedoucí jídelny	Bánov	99	80	A	M
+7202	592021	1	1	1	5	Stanislav	Vranka	Ing.		51	elektrokonstruktér	Bánov	99	1	A	M
+7202	592021	1	2	389	5	Štěpán	Koníček	Ing. arch.		38	architekt	Bánov	99	80	A	M
+7202	592021	1	1	1	6	Luděk	Vavrys			49	strojní zámečník	Bánov	99	1	A	M
+7202	592021	1	2	389	6	Jarmila	Zálešáková			68	důchodce	Bánov	99	80	A	F
+7202	592021	1	1	1	7	Kristýna	Mikulčíková	Mgr.		39	středoškolská učitelka	Bánov	99	1	A	F
+7202	592021	1	2	389	7	Vítězslav	Volný		DiS.	38	stavbyvedoucí	Bánov	99	80	A	M
+7202	592021	1	1	1	8	Šimon	Král	Bc.		24	student	Bánov	99	1	A	M
+7202	592021	1	2	389	8	Kateřina	Nováková	Mgr.		42	učitelka	Bánov	99	80	A	F
+7202	592021	1	1	1	9	Irena	Hauerlandová			52	vedoucí pošty	Bánov	99	1	A	F
+7202	592021	1	2	389	9	Jan	Vaňhara			38	automechanik	Bánov	99	80	A	M
+7202	592021	1	1	1	10	Radek	Pavelka			42	pekař	Bánov	99	1	A	M
+7202	592021	1	2	389	10	Jiří	Janča			43	správce komunikač. a inf. systémů HZS Zl. kraje	Bánov	99	80	A	M
+7202	592021	1	1	1	11	Petr	Mahdal			37	strojní konstruktér	Bánov	99	1	A	M
+7202	592021	1	2	389	11	Lubomír	Chovanec			64	důchodce	Bánov	99	80	A	M

@@ -1,33 +1,33 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4101	539481	1	1	7	1	Rostislav	Žalák	M	Ing.		55	projektant, úředník	Valy	7	7	0
-4101	539481	1	1	7	2	Lenka	Pocová	F	RNDr.		46	projektový manager	Valy	7	7	0
-4101	539481	1	1	7	3	Drahomíra	Mouchová	F			54	podnikatelka	Valy	99	7	0
-4101	539481	1	1	7	4	Miroslava	Žaláková	F			49	referentka	Valy	99	7	0
-4101	539481	1	1	7	5	Ivana	Szökeová	F			27	zaměstnankyně	Valy	99	7	0
-4101	539481	1	1	7	6	Ján	Gezo	M			63	důchodce	Valy	99	7	0
-4101	539481	1	1	7	7	Eva	Žižková	F			69	důchodkyně	Valy	99	7	0
-4101	539481	1	1	7	8	Pavel	Poc	M	RNDr.		47	poslanec Evropského parlamentu	Valy	7	7	0
-4101	539481	1	2	901	1	Petr	Hrouda	M	Ing.		55	podnikatel	Valy	99	80	0
-4101	539481	1	2	901	2	Tomáš	Podzimek	M			34	číšník	Valy	99	80	0
-4101	539481	1	2	901	3	Quido	Vlk	M			52	manager	Valy	99	80	0
-4101	539481	1	2	901	4	Petr	Filipčík	M			33	podnikatel	Valy	99	80	0
-4101	539481	1	2	901	5	Petr	Matoušek	M			37	výtahář	Valy	99	80	0
-4101	539481	1	2	901	6	Radovan	Barcaba	M			46	podnikatel	Valy	99	80	0
-4101	539481	1	2	901	7	Zuzana	Spurná	F			72	důchodkyně	Valy	99	80	0
-4101	539481	1	2	901	8	Petr	Pavlovic	M			25	podnikatel	Valy	721	80	0
-4101	539481	1	2	901	9	Yvona	Marvalová	F			50	podnikatelka	Valy	99	80	0
-4101	539481	1	3	902	1	Daniel	Nejedlý	M	Mgr.		41	státní zaměstnanec	Valy	99	80	0
-4101	539481	1	3	902	2	Ladislav	Fiala	M			58	OSVČ	Valy	99	80	0
-4101	539481	1	3	902	3	Michal	Mašek	M			32	státní zaměstnanec	Valy	99	80	0
-4101	539481	1	3	902	4	Karel	Tesák	M			40	státní zaměstnanec	Valy	99	80	0
-4101	539481	1	3	902	5	Lubomír	Jirkovský	M			46	OSVČ	Valy	99	80	0
-4101	539481	1	3	902	6	Jana	Jirkovská	F			42	OSVČ	Valy	99	80	0
-4101	539481	1	3	902	7	Roman	Cicák	M			40	zaměstnanec	Valy	99	80	0
-4101	539481	1	4	903	1	Marie	Zítková	F			58	OSVČ	Valy	99	80	0
-4101	539481	1	4	903	2	Tomáš	Votípka	M			27	zaměstnanec	Valy	99	80	0
-4101	539481	1	4	903	3	Vlasta	Hengeričová	F			57	OSVČ	Valy	99	80	0
-4101	539481	1	4	903	4	Miroslav	Rajšl	M			45	státní zaměstnanec	Valy	99	80	0
-4101	539481	1	4	903	5	Emil	Szöke	M			52	zaměstnanec	Valy	99	80	0
-4101	539481	1	4	903	6	Tomáš	Patlejch	M			36	invalidní důchodce	Valy	99	80	0
-4101	539481	1	4	903	7	Eva	Aberlová	F	Ing.		25	zaměstnanec	Valy	99	80	0
-4101	539481	1	4	903	8	Slavomil	Švinger	M	Ing.		77	důchodce	Valy	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4101	539481	1	1	7	1	Rostislav	Žalák	Ing.		55	projektant, úředník	Valy	7	7	0	M
+4101	539481	1	2	901	1	Petr	Hrouda	Ing.		55	podnikatel	Valy	99	80	0	M
+4101	539481	1	3	902	1	Daniel	Nejedlý	Mgr.		41	státní zaměstnanec	Valy	99	80	0	M
+4101	539481	1	4	903	1	Marie	Zítková			58	OSVČ	Valy	99	80	0	F
+4101	539481	1	1	7	2	Lenka	Pocová	RNDr.		46	projektový manager	Valy	7	7	0	F
+4101	539481	1	2	901	2	Tomáš	Podzimek			34	číšník	Valy	99	80	0	M
+4101	539481	1	3	902	2	Ladislav	Fiala			58	OSVČ	Valy	99	80	0	M
+4101	539481	1	4	903	2	Tomáš	Votípka			27	zaměstnanec	Valy	99	80	0	M
+4101	539481	1	1	7	3	Drahomíra	Mouchová			54	podnikatelka	Valy	99	7	0	F
+4101	539481	1	2	901	3	Quido	Vlk			52	manager	Valy	99	80	0	M
+4101	539481	1	3	902	3	Michal	Mašek			32	státní zaměstnanec	Valy	99	80	0	M
+4101	539481	1	4	903	3	Vlasta	Hengeričová			57	OSVČ	Valy	99	80	0	F
+4101	539481	1	1	7	4	Miroslava	Žaláková			49	referentka	Valy	99	7	0	F
+4101	539481	1	2	901	4	Petr	Filipčík			33	podnikatel	Valy	99	80	0	M
+4101	539481	1	3	902	4	Karel	Tesák			40	státní zaměstnanec	Valy	99	80	0	M
+4101	539481	1	4	903	4	Miroslav	Rajšl			45	státní zaměstnanec	Valy	99	80	0	M
+4101	539481	1	1	7	5	Ivana	Szökeová			27	zaměstnankyně	Valy	99	7	0	F
+4101	539481	1	2	901	5	Petr	Matoušek			37	výtahář	Valy	99	80	0	M
+4101	539481	1	3	902	5	Lubomír	Jirkovský			46	OSVČ	Valy	99	80	0	M
+4101	539481	1	4	903	5	Emil	Szöke			52	zaměstnanec	Valy	99	80	0	M
+4101	539481	1	1	7	6	Ján	Gezo			63	důchodce	Valy	99	7	0	M
+4101	539481	1	2	901	6	Radovan	Barcaba			46	podnikatel	Valy	99	80	0	M
+4101	539481	1	3	902	6	Jana	Jirkovská			42	OSVČ	Valy	99	80	0	F
+4101	539481	1	4	903	6	Tomáš	Patlejch			36	invalidní důchodce	Valy	99	80	0	M
+4101	539481	1	1	7	7	Eva	Žižková			69	důchodkyně	Valy	99	7	0	F
+4101	539481	1	2	901	7	Zuzana	Spurná			72	důchodkyně	Valy	99	80	0	F
+4101	539481	1	3	902	7	Roman	Cicák			40	zaměstnanec	Valy	99	80	0	M
+4101	539481	1	4	903	7	Eva	Aberlová	Ing.		25	zaměstnanec	Valy	99	80	0	F
+4101	539481	1	1	7	8	Pavel	Poc	RNDr.		47	poslanec Evropského parlamentu	Valy	7	7	0	M
+4101	539481	1	2	901	8	Petr	Pavlovic			25	podnikatel	Valy	721	80	0	M
+4101	539481	1	4	903	8	Slavomil	Švinger	Ing.		77	důchodce	Valy	99	80	0	M
+4101	539481	1	2	901	9	Yvona	Marvalová			50	podnikatelka	Valy	99	80	0	F

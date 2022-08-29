@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4101	554634	1	1	166	1	Michaela	Pecháčková	F			46	zdravotní sestra	Luby	166	166	A
-4101	554634	1	1	166	2	Petr	Holiš	M			42	prokurista	Luby	99	166	A
-4101	554634	1	1	166	3	Michaela	Kašová	F		DiS.	49	sociální pracovník	Luby	99	166	A
-4101	554634	1	1	166	4	Petr	Šejba	M			45	jednatel společnosti	Luby	99	166	A
-4101	554634	1	1	166	5	Petr	Senaj	M			35	OSVČ	Luby	99	166	A
-4101	554634	1	1	166	6	Josef	Pultr	M			39	OSVČ	Luby	99	166	A
-4101	554634	1	1	166	7	Petr	Rácz	M			47	mistr houslař	Luby	99	166	A
-4101	554634	1	1	166	8	Květuše	Petrovičová	F			45	vedoucí ŠJ	Luby	99	166	A
-4101	554634	1	1	166	9	Hana	Korandová	F			47	administrativní pracovník	Luby	99	166	A
-4101	554634	1	2	1	1	Vladimír	Vorm	M	Ing.		46	starosta města	Luby	99	1	A
-4101	554634	1	2	1	2	Naděžda	Vargová	F	Ing.		39	ředitelka banky	Luby	99	1	A
-4101	554634	1	2	1	3	Petr	Werner	M			49	policista	Luby	99	1	A
-4101	554634	1	2	1	4	Petr	Riedl	M			54	řidič	Luby	99	1	A
-4101	554634	1	2	1	5	Lenka	Senajová	F			36	OSVČ	Luby	99	1	A
-4101	554634	1	2	1	6	Štěpán František	Altman	M	Bc.		28	policista	Luby	99	1	A
-4101	554634	1	2	1	7	Václav	Mašek	M			50	mechanik	Luby	99	1	A
-4101	554634	1	2	1	8	Václav	Merhout	M			54	OSVČ	Luby	99	1	A
-4101	554634	1	2	1	9	Štefan	Plachý	M			43	OSVČ	Luby	99	1	A
-4101	554634	1	3	901	1	Otakar	Mlčoch	M			59	stavební specialista	Luby	99	80	A
-4101	554634	1	3	901	2	Zuzana	Ďurišová	F			53	pěstounka	Luby	99	80	A
-4101	554634	1	3	901	3	Jan	Mičuch	M			29	plavčík	Luby	99	80	A
-4101	554634	1	3	901	4	David	Winkler	M			40	mechanik hudebních nástrojů	Luby	99	80	A
-4101	554634	1	3	901	5	Martin	Sláma	M			28	obráběč kovů	Luby	99	80	A
-4101	554634	1	3	901	6	Karel	Sandner	M			30	administrativní pracovník	Luby	99	80	A
-4101	554634	1	3	901	7	Miroslav	Ondič	M			35	truhlář	Luby	99	80	A
-4101	554634	1	3	901	8	Vojtěch	Ulrych	M			23	student	Luby	99	80	A
-4101	554634	1	3	901	9	Radek	Kuchta	M			50	řidič z povolání	Luby	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4101	554634	1	1	166	1	Michaela	Pecháčková			46	zdravotní sestra	Luby	166	166	A	F
+4101	554634	1	2	1	1	Vladimír	Vorm	Ing.		46	starosta města	Luby	99	1	A	M
+4101	554634	1	3	901	1	Otakar	Mlčoch			59	stavební specialista	Luby	99	80	A	M
+4101	554634	1	1	166	2	Petr	Holiš			42	prokurista	Luby	99	166	A	M
+4101	554634	1	2	1	2	Naděžda	Vargová	Ing.		39	ředitelka banky	Luby	99	1	A	F
+4101	554634	1	3	901	2	Zuzana	Ďurišová			53	pěstounka	Luby	99	80	A	F
+4101	554634	1	1	166	3	Michaela	Kašová		DiS.	49	sociální pracovník	Luby	99	166	A	F
+4101	554634	1	2	1	3	Petr	Werner			49	policista	Luby	99	1	A	M
+4101	554634	1	3	901	3	Jan	Mičuch			29	plavčík	Luby	99	80	A	M
+4101	554634	1	1	166	4	Petr	Šejba			45	jednatel společnosti	Luby	99	166	A	M
+4101	554634	1	2	1	4	Petr	Riedl			54	řidič	Luby	99	1	A	M
+4101	554634	1	3	901	4	David	Winkler			40	mechanik hudebních nástrojů	Luby	99	80	A	M
+4101	554634	1	1	166	5	Petr	Senaj			35	OSVČ	Luby	99	166	A	M
+4101	554634	1	2	1	5	Lenka	Senajová			36	OSVČ	Luby	99	1	A	F
+4101	554634	1	3	901	5	Martin	Sláma			28	obráběč kovů	Luby	99	80	A	M
+4101	554634	1	1	166	6	Josef	Pultr			39	OSVČ	Luby	99	166	A	M
+4101	554634	1	2	1	6	Štěpán František	Altman	Bc.		28	policista	Luby	99	1	A	M
+4101	554634	1	3	901	6	Karel	Sandner			30	administrativní pracovník	Luby	99	80	A	M
+4101	554634	1	1	166	7	Petr	Rácz			47	mistr houslař	Luby	99	166	A	M
+4101	554634	1	2	1	7	Václav	Mašek			50	mechanik	Luby	99	1	A	M
+4101	554634	1	3	901	7	Miroslav	Ondič			35	truhlář	Luby	99	80	A	M
+4101	554634	1	1	166	8	Květuše	Petrovičová			45	vedoucí ŠJ	Luby	99	166	A	F
+4101	554634	1	2	1	8	Václav	Merhout			54	OSVČ	Luby	99	1	A	M
+4101	554634	1	3	901	8	Vojtěch	Ulrych			23	student	Luby	99	80	A	M
+4101	554634	1	1	166	9	Hana	Korandová			47	administrativní pracovník	Luby	99	166	A	F
+4101	554634	1	2	1	9	Štefan	Plachý			43	OSVČ	Luby	99	1	A	M
+4101	554634	1	3	901	9	Radek	Kuchta			50	řidič z povolání	Luby	99	80	A	M

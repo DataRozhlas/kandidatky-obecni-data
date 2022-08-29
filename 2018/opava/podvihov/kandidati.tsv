@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	555401	1	1	1188	1	Zdeněk	Hoza	M			52	ředitel divize	Opava Podvihov	1188	1188	A
-8105	555401	1	1	1188	2	Kamil	Onderka	M			56	jednatel firmy	Opava Komárovské Chaloupky	1188	1188	A
-8105	555401	1	1	1188	3	Radomír	Kubesa	M			35	hasič HZDS - Opava	Opava Podvihov	99	1188	A
-8105	555401	1	1	1188	4	Petr	Graca	M			51	mechanik seřizovač	Opava Podvihov	99	1188	A
-8105	555401	1	1	1188	5	Lukáš	Krčmář	M	Bc.		32	kontrolor BOZP	Opava Komárovské Chaloupky	99	1188	A
-8105	555401	1	1	1188	6	Markéta	Hašová	F			46	referentka	Opava Podvihov	99	1188	A
-8105	555401	1	1	1188	7	Kamila	Benková	F			46	asistentka ředitele	Opava Komárovské Chaloupky	99	1188	A
-8105	555401	1	2	7	1	Jitka	Měchová	F			73	důchodkyně	Podvihov	7	7	A
-8105	555401	1	2	7	2	Lukáš	Václavík	M			48	technik	Podvihov	7	7	A
-8105	555401	1	2	7	3	Miloš	Foltis	M			59	technik	Podvihov	99	7	A
-8105	555401	1	3	901	1	Luboš	Střílka	M			51	podnikový hasič	Podvihov	99	80	A
-8105	555401	1	3	901	2	Veronika	Staňková	F			30	koordinátor kvality	Podvihov	99	80	A
-8105	555401	1	3	901	3	Michal	Hopp	M			30	řezník	Podvihov	99	80	A
-8105	555401	1	3	901	4	Zdeněk	Šindlář	M	Mgr.		68	právník	Podvihov	99	80	A
-8105	555401	1	3	901	5	Dalibor	Cihelka	M			43	provozní montér vodovodů	Podvihov	99	80	A
-8105	555401	1	3	901	6	Jaroslav	Šindelář	M			44	zedník	Podvihov	99	80	A
-8105	555401	1	3	901	7	Ilona	Davídková	F			48	zdravotní sestra	Podvihov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	555401	1	1	1188	1	Zdeněk	Hoza			52	ředitel divize	Opava Podvihov	1188	1188	A	M
+8105	555401	1	2	7	1	Jitka	Měchová			73	důchodkyně	Podvihov	7	7	A	F
+8105	555401	1	3	901	1	Luboš	Střílka			51	podnikový hasič	Podvihov	99	80	A	M
+8105	555401	1	1	1188	2	Kamil	Onderka			56	jednatel firmy	Opava Komárovské Chaloupky	1188	1188	A	M
+8105	555401	1	2	7	2	Lukáš	Václavík			48	technik	Podvihov	7	7	A	M
+8105	555401	1	3	901	2	Veronika	Staňková			30	koordinátor kvality	Podvihov	99	80	A	F
+8105	555401	1	1	1188	3	Radomír	Kubesa			35	hasič HZDS - Opava	Opava Podvihov	99	1188	A	M
+8105	555401	1	2	7	3	Miloš	Foltis			59	technik	Podvihov	99	7	A	M
+8105	555401	1	3	901	3	Michal	Hopp			30	řezník	Podvihov	99	80	A	M
+8105	555401	1	1	1188	4	Petr	Graca			51	mechanik seřizovač	Opava Podvihov	99	1188	A	M
+8105	555401	1	3	901	4	Zdeněk	Šindlář	Mgr.		68	právník	Podvihov	99	80	A	M
+8105	555401	1	1	1188	5	Lukáš	Krčmář	Bc.		32	kontrolor BOZP	Opava Komárovské Chaloupky	99	1188	A	M
+8105	555401	1	3	901	5	Dalibor	Cihelka			43	provozní montér vodovodů	Podvihov	99	80	A	M
+8105	555401	1	1	1188	6	Markéta	Hašová			46	referentka	Opava Podvihov	99	1188	A	F
+8105	555401	1	3	901	6	Jaroslav	Šindelář			44	zedník	Podvihov	99	80	A	M
+8105	555401	1	1	1188	7	Kamila	Benková			46	asistentka ředitele	Opava Komárovské Chaloupky	99	1188	A	F
+8105	555401	1	3	901	7	Ilona	Davídková			48	zdravotní sestra	Podvihov	99	80	A	F

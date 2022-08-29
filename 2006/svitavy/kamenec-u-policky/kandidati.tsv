@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	578207	1	1	1	1	Vendula	Švandová	F			25	ekonomka	Kamenec u Poličky	99	1	0
-5303	578207	1	1	1	2	Petr	Šváb	M			33	technik	Kamenec u Poličky	99	1	0
-5303	578207	1	1	1	3	Vladimír	Andrlík	M			30	číšník	Kamenec u Poličky	99	1	0
-5303	578207	1	1	1	4	Luboš	Kadidlo	M			23	technik	Kamenec u Poličky	99	1	0
-5303	578207	1	1	1	5	Hana	Popelková	F			45	účetní	Kamenec u Poličky	1	1	0
-5303	578207	1	1	1	6	Martin	Šafář	M			31	administrativní zaměstnanec	Kamenec u Poličky	99	1	0
-5303	578207	1	2	901	1	Josef	Jiruše	M			58	starosta  OSH	Kamenec u Poličky	99	80	0
-5303	578207	1	2	901	2	Rudolf	Schauer	M			54	OSVČ	Kamenec u Poličky	99	80	0
-5303	578207	1	2	901	3	Ivana	Štěrbová	F			51	péče o osobu blízkou	Kamenec u Poličky	99	80	0
-5303	578207	1	2	901	4	Jiří	Groulík	M			50	dělník	Kamenec u Poličky	99	80	0
-5303	578207	1	2	901	5	Jiří	Doležal	M			38	programátor	Kamenec u Poličky	99	80	0
-5303	578207	1	3	902	1	Milada	Muffová	F	Ing.		44	ekonom	Kamenec u Poličky	99	80	0
-5303	578207	1	3	902	2	Milan	Pospíšil	M	Ing.		43	informatik	Kamenec u Poličky	99	80	0
-5303	578207	1	3	902	3	Miroslava	Švandová	F			44	asistentka	Kamenec u Poličky	99	80	0
-5303	578207	1	3	902	4	Petra	Dvořáková	F			35	dělnice	Kamenec u Poličky	99	80	0
-5303	578207	1	3	902	5	Miroslav	Augustin	M	Ing.		61	vedoucí praktického vyučování	Kamenec u Poličky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	578207	1	1	1	1	Vendula	Švandová			25	ekonomka	Kamenec u Poličky	99	1	0	F
+5303	578207	1	2	901	1	Josef	Jiruše			58	starosta  OSH	Kamenec u Poličky	99	80	0	M
+5303	578207	1	3	902	1	Milada	Muffová	Ing.		44	ekonom	Kamenec u Poličky	99	80	0	F
+5303	578207	1	1	1	2	Petr	Šváb			33	technik	Kamenec u Poličky	99	1	0	M
+5303	578207	1	2	901	2	Rudolf	Schauer			54	OSVČ	Kamenec u Poličky	99	80	0	M
+5303	578207	1	3	902	2	Milan	Pospíšil	Ing.		43	informatik	Kamenec u Poličky	99	80	0	M
+5303	578207	1	1	1	3	Vladimír	Andrlík			30	číšník	Kamenec u Poličky	99	1	0	M
+5303	578207	1	2	901	3	Ivana	Štěrbová			51	péče o osobu blízkou	Kamenec u Poličky	99	80	0	F
+5303	578207	1	3	902	3	Miroslava	Švandová			44	asistentka	Kamenec u Poličky	99	80	0	F
+5303	578207	1	1	1	4	Luboš	Kadidlo			23	technik	Kamenec u Poličky	99	1	0	M
+5303	578207	1	2	901	4	Jiří	Groulík			50	dělník	Kamenec u Poličky	99	80	0	M
+5303	578207	1	3	902	4	Petra	Dvořáková			35	dělnice	Kamenec u Poličky	99	80	0	F
+5303	578207	1	1	1	5	Hana	Popelková			45	účetní	Kamenec u Poličky	1	1	0	F
+5303	578207	1	2	901	5	Jiří	Doležal			38	programátor	Kamenec u Poličky	99	80	0	M
+5303	578207	1	3	902	5	Miroslav	Augustin	Ing.		61	vedoucí praktického vyučování	Kamenec u Poličky	99	80	0	M
+5303	578207	1	1	1	6	Martin	Šafář			31	administrativní zaměstnanec	Kamenec u Poličky	99	1	0	M

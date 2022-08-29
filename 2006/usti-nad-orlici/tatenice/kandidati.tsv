@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	581046	1	1	7	1	Bohumil	Košťál	M			53	skladník	Tatenice	7	7	0
-5304	581046	1	1	7	2	Josef	Kučera	M			26	student	Tatenice	99	7	0
-5304	581046	1	1	7	3	Milena	Šindelářová	F			41	účetní	Tatenice	99	7	0
-5304	581046	1	1	7	4	Jiří	Kovář	M			23	elektromontér	Tatenice	99	7	0
-5304	581046	1	1	7	5	Antonín	Kučera	M			55	skladník	Tatenice	99	7	0
-5304	581046	1	1	7	6	Petr	Kovář	M			50	mistr	Tatenice	99	7	0
-5304	581046	1	1	7	7	Jiří	Borovec	M			39	elektromontér	Tatenice	99	7	0
-5304	581046	1	1	7	8	René	Špaček	M			33	nezaměstnaný	Tatenice	99	7	0
-5304	581046	1	1	7	9	Jiří	Morávek	M			37	dělník	Tatenice	7	7	1
-5304	581046	1	2	901	1	Vladimír	Žák	M	Mgr.		45	učitel	Tatenice	99	80	0
-5304	581046	1	2	901	2	Jiří	Smrkal	M			35	seřizovač	Tatenice	99	80	0
-5304	581046	1	2	901	3	Eliška	Hrochová	F			49	kosmetička	Tatenice	99	80	0
-5304	581046	1	2	901	4	Vlastimil	Rajbl	M	MUDr.		48	praktický lékař	Tatenice	99	80	0
-5304	581046	1	2	901	5	Petr	Prokop	M	Ing.		50	vedoucí střediska SÚS	Tatenice	99	80	0
-5304	581046	1	2	901	6	Zdeněk	Steidl	M			47	zedník	Tatenice	99	80	0
-5304	581046	1	2	901	7	Ivana	Kollárová	F			41	prodavačka	Tatenice	99	80	0
-5304	581046	1	2	901	8	Luboš	Ploc	M			55	dělník	Tatenice	47	80	0
-5304	581046	1	2	901	9	Vojtěch	Hrubčík	M			32	zedník	Tatenice	99	80	0
-5304	581046	1	3	1	1	Jitka	Šumová	F			55	státní zaměstnanec	Tatenice	99	1	0
-5304	581046	1	3	1	2	Josef	Polák	M	Ing.		57	agronom	Tatenice	1	1	0
-5304	581046	1	3	1	3	Eva	Valentová	F	Mgr.		50	ředitelka ZŠ	Tatenice	99	1	0
-5304	581046	1	3	1	4	Marek	Lehar	M			27	truhlář	Tatenice	99	1	0
-5304	581046	1	3	1	5	František	Thun	M			56	kovář	Tatenice	1	1	0
-5304	581046	1	3	1	6	Jiří	Novotný	M			24	technik RV	Tatenice	99	1	0
-5304	581046	1	3	1	7	Josef	Šandera	M			54	zedník ČD	Tatenice	1	1	0
-5304	581046	1	3	1	8	Josef	Totušek	M			30	automechanik	Tatenice	99	1	0
-5304	581046	1	3	1	9	Jitka	Chládková	F			48	hlídač ZOD	Tatenice	1	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	581046	1	1	7	1	Bohumil	Košťál			53	skladník	Tatenice	7	7	0	M
+5304	581046	1	2	901	1	Vladimír	Žák	Mgr.		45	učitel	Tatenice	99	80	0	M
+5304	581046	1	3	1	1	Jitka	Šumová			55	státní zaměstnanec	Tatenice	99	1	0	F
+5304	581046	1	1	7	2	Josef	Kučera			26	student	Tatenice	99	7	0	M
+5304	581046	1	2	901	2	Jiří	Smrkal			35	seřizovač	Tatenice	99	80	0	M
+5304	581046	1	3	1	2	Josef	Polák	Ing.		57	agronom	Tatenice	1	1	0	M
+5304	581046	1	1	7	3	Milena	Šindelářová			41	účetní	Tatenice	99	7	0	F
+5304	581046	1	2	901	3	Eliška	Hrochová			49	kosmetička	Tatenice	99	80	0	F
+5304	581046	1	3	1	3	Eva	Valentová	Mgr.		50	ředitelka ZŠ	Tatenice	99	1	0	F
+5304	581046	1	1	7	4	Jiří	Kovář			23	elektromontér	Tatenice	99	7	0	M
+5304	581046	1	2	901	4	Vlastimil	Rajbl	MUDr.		48	praktický lékař	Tatenice	99	80	0	M
+5304	581046	1	3	1	4	Marek	Lehar			27	truhlář	Tatenice	99	1	0	M
+5304	581046	1	1	7	5	Antonín	Kučera			55	skladník	Tatenice	99	7	0	M
+5304	581046	1	2	901	5	Petr	Prokop	Ing.		50	vedoucí střediska SÚS	Tatenice	99	80	0	M
+5304	581046	1	3	1	5	František	Thun			56	kovář	Tatenice	1	1	0	M
+5304	581046	1	1	7	6	Petr	Kovář			50	mistr	Tatenice	99	7	0	M
+5304	581046	1	2	901	6	Zdeněk	Steidl			47	zedník	Tatenice	99	80	0	M
+5304	581046	1	3	1	6	Jiří	Novotný			24	technik RV	Tatenice	99	1	0	M
+5304	581046	1	1	7	7	Jiří	Borovec			39	elektromontér	Tatenice	99	7	0	M
+5304	581046	1	2	901	7	Ivana	Kollárová			41	prodavačka	Tatenice	99	80	0	F
+5304	581046	1	3	1	7	Josef	Šandera			54	zedník ČD	Tatenice	1	1	0	M
+5304	581046	1	1	7	8	René	Špaček			33	nezaměstnaný	Tatenice	99	7	0	M
+5304	581046	1	2	901	8	Luboš	Ploc			55	dělník	Tatenice	47	80	0	M
+5304	581046	1	3	1	8	Josef	Totušek			30	automechanik	Tatenice	99	1	0	M
+5304	581046	1	1	7	9	Jiří	Morávek			37	dělník	Tatenice	7	7	1	M
+5304	581046	1	2	901	9	Vojtěch	Hrubčík			32	zedník	Tatenice	99	80	0	M
+5304	581046	1	3	1	9	Jitka	Chládková			48	hlídač ZOD	Tatenice	1	1	0	F

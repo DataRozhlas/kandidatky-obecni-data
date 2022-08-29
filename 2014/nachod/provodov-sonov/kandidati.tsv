@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5203	574350	1	1	355	1	Jana	Čabanová	F			50	v domácnosti	Provodov	1	1	0
-5203	574350	1	1	355	2	Lumír	Andrš	M	Ing.		53	analytik pro energetiku	Šonov u Nového Města nad Metují	99	80	0
-5203	574350	1	1	355	3	Jitka	Pichová	F	Ing.		47	ekonomka	Václavice	99	1	0
-5203	574350	1	1	355	4	Radek	Zítko	M			37	obchodní zástupce	Provodov	99	80	0
-5203	574350	1	1	355	5	Luboš	Pavlíček	M			57	živnostník	Provodov	99	1	0
-5203	574350	1	1	355	6	Květa	Ležovičová	F			61	referent informačního centra	Kleny	99	1	0
-5203	574350	1	1	355	7	Zdeněk	Zelenka	M			53	strojní zámečník	Šonov u Nového Města nad Metují	99	80	0
-5203	574350	1	1	355	8	Vladislava	Knettig	F	Bc.		38	sociální pracovnice	Provodov	99	1	0
-5203	574350	1	1	355	9	Richard	Berger	M			37	dělník	Provodov	99	80	0
-5203	574350	1	1	355	10	Marie	Nyklíčková	F			66	úřednice	Šonov u Nového Města nad Metují	99	1	0
-5203	574350	1	1	355	11	Iveta	Hejčlová	F	Ing.		43	referent nákupu	Šonov u Nového Města nad Metují	99	1	0
-5203	574350	1	1	355	12	Michaela	Bergerová	F			35	skladová operátorka	Provodov	99	80	0
-5203	574350	1	1	355	13	Jan	Janko	M			35	stavební technik	Provodov	99	80	0
-5203	574350	1	1	355	14	Petr	Ruffer	M			47	řidič	Provodov	99	80	0
-5203	574350	1	1	355	15	Michal	Štrof	M			43	autodopravce	Provodov	99	1	0
-5203	574350	1	2	901	1	Josef	Kulek	M	Ing.		53	starosta obce	Šonov u Nového Města nad Metují	99	80	0
-5203	574350	1	2	901	2	Václav	Jiroud	M			48	dělník	Šonov u Nového Města nad Metují	99	80	0
-5203	574350	1	2	901	3	Miroslav	Říha	M			48	živnostník v oboru lesnictví	Šonov u Nového Města nad Metují	99	80	0
-5203	574350	1	2	901	4	David	Ungrád	M			27	kontrolor jakosti	Šonov u Nového Města nad Metují	99	80	0
-5203	574350	1	2	901	5	Radek	Dědek	M			48	montér	Kleny	99	80	0
-5203	574350	1	2	901	6	Jiří	Hejzlar	M			44	soukromý zemědělec	Šonov u Nového Města nad Metují	99	80	0
-5203	574350	1	2	901	7	Lidmila	Špačková	F			63	důchodce	Šonov u Nového Města nad Metují	99	80	0
-5203	574350	1	2	901	8	Jaroslav	Škalda	M			67	důchodce	Šonov u Nového Města nad Metují	99	80	0
-5203	574350	1	2	901	9	Josef	Vondráček	M			62	pracovník technických služeb	Šonov u Nového Města nad Metují	99	80	0
-5203	574350	1	2	901	10	Zdeněk	Čížek	M			63	důchodce	Šonov u Nového Města nad Metují	99	80	0
-5203	574350	1	2	901	11	Jiří	Škoda	M			37	automechanik	Kleny	99	80	0
-5203	574350	1	2	901	12	Radek	Malina	M			40	zámečník, svářeč	Provodov	99	80	0
-5203	574350	1	2	901	13	Jiří	Uždil	M			35	redaktor	Šonov u Nového Města nad Metují	99	80	0
-5203	574350	1	2	901	14	Jaroslav	Hylena	M			71	důchodce	Václavice	99	80	0
-5203	574350	1	2	901	15	Bohumil	Tomek	M			68	důchodce	Šonov u Nového Města nad Metují	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5203	574350	1	1	355	1	Jana	Čabanová			50	v domácnosti	Provodov	1	1	0	F
+5203	574350	1	2	901	1	Josef	Kulek	Ing.		53	starosta obce	Šonov u Nového Města nad Metují	99	80	0	M
+5203	574350	1	1	355	2	Lumír	Andrš	Ing.		53	analytik pro energetiku	Šonov u Nového Města nad Metují	99	80	0	M
+5203	574350	1	2	901	2	Václav	Jiroud			48	dělník	Šonov u Nového Města nad Metují	99	80	0	M
+5203	574350	1	1	355	3	Jitka	Pichová	Ing.		47	ekonomka	Václavice	99	1	0	F
+5203	574350	1	2	901	3	Miroslav	Říha			48	živnostník v oboru lesnictví	Šonov u Nového Města nad Metují	99	80	0	M
+5203	574350	1	1	355	4	Radek	Zítko			37	obchodní zástupce	Provodov	99	80	0	M
+5203	574350	1	2	901	4	David	Ungrád			27	kontrolor jakosti	Šonov u Nového Města nad Metují	99	80	0	M
+5203	574350	1	1	355	5	Luboš	Pavlíček			57	živnostník	Provodov	99	1	0	M
+5203	574350	1	2	901	5	Radek	Dědek			48	montér	Kleny	99	80	0	M
+5203	574350	1	1	355	6	Květa	Ležovičová			61	referent informačního centra	Kleny	99	1	0	F
+5203	574350	1	2	901	6	Jiří	Hejzlar			44	soukromý zemědělec	Šonov u Nového Města nad Metují	99	80	0	M
+5203	574350	1	1	355	7	Zdeněk	Zelenka			53	strojní zámečník	Šonov u Nového Města nad Metují	99	80	0	M
+5203	574350	1	2	901	7	Lidmila	Špačková			63	důchodce	Šonov u Nového Města nad Metují	99	80	0	F
+5203	574350	1	1	355	8	Vladislava	Knettig	Bc.		38	sociální pracovnice	Provodov	99	1	0	F
+5203	574350	1	2	901	8	Jaroslav	Škalda			67	důchodce	Šonov u Nového Města nad Metují	99	80	0	M
+5203	574350	1	1	355	9	Richard	Berger			37	dělník	Provodov	99	80	0	M
+5203	574350	1	2	901	9	Josef	Vondráček			62	pracovník technických služeb	Šonov u Nového Města nad Metují	99	80	0	M
+5203	574350	1	1	355	10	Marie	Nyklíčková			66	úřednice	Šonov u Nového Města nad Metují	99	1	0	F
+5203	574350	1	2	901	10	Zdeněk	Čížek			63	důchodce	Šonov u Nového Města nad Metují	99	80	0	M
+5203	574350	1	1	355	11	Iveta	Hejčlová	Ing.		43	referent nákupu	Šonov u Nového Města nad Metují	99	1	0	F
+5203	574350	1	2	901	11	Jiří	Škoda			37	automechanik	Kleny	99	80	0	M
+5203	574350	1	1	355	12	Michaela	Bergerová			35	skladová operátorka	Provodov	99	80	0	F
+5203	574350	1	2	901	12	Radek	Malina			40	zámečník, svářeč	Provodov	99	80	0	M
+5203	574350	1	1	355	13	Jan	Janko			35	stavební technik	Provodov	99	80	0	M
+5203	574350	1	2	901	13	Jiří	Uždil			35	redaktor	Šonov u Nového Města nad Metují	99	80	0	M
+5203	574350	1	1	355	14	Petr	Ruffer			47	řidič	Provodov	99	80	0	M
+5203	574350	1	2	901	14	Jaroslav	Hylena			71	důchodce	Václavice	99	80	0	M
+5203	574350	1	1	355	15	Michal	Štrof			43	autodopravce	Provodov	99	1	0	M
+5203	574350	1	2	901	15	Bohumil	Tomek			68	důchodce	Šonov u Nového Města nad Metují	99	80	0	M

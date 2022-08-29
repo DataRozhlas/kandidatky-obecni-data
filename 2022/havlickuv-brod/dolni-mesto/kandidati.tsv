@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	568601	1	1	47	1	Václav	Coufal	M			40	skladník	Dolní Město	47	47	A
-6101	568601	1	1	47	2	Marcel	Frolík	M			56	voják ve výslužbě	Dolní Město	99	47	A
-6101	568601	1	1	47	3	Elena	Průšová	F			55	OSVČ ekonom	Dolní Město	99	47	A
-6101	568601	1	1	47	4	Filip	Galek	M			20	student	Dolní Město	99	47	A
-6101	568601	1	1	47	5	Lenka	Mikešová	F			50	poštovní doručovatelka	Dolní Město	99	47	A
-6101	568601	1	1	47	6	Růžena	Moravcová	F			50	domovnice mateřské a základní školy	Dolní Město	99	47	A
-6101	568601	1	1	47	7	Jana	Matoušková	F			49	sociální pracovnice	Dolní Město	99	47	A
-6101	568601	1	1	47	8	Radek	Bruner	M			47	invalidní důchodce	Dolní Město	99	47	A
-6101	568601	1	1	47	9	Pavel	Prchal	M			69	důchodce	Dolní Město	99	47	A
-6101	568601	1	2	1	1	Pavel	Chlád	M			45	starosta obce	Dolní Město	99	1	A
-6101	568601	1	2	1	2	Milan	Beránek	M			47	správce informačních systémů	Dolní Město	99	1	A
-6101	568601	1	2	1	3	Jana	Petráňová	F	Ing.		56	vedoucí oddělení ekologie	Dolní Město	1	1	A
-6101	568601	1	2	1	4	Miroslav	Vápeník	M			59	technik	Dolní Město	99	1	A
-6101	568601	1	2	1	5	Jaroslav	Moravec	M			48	dispečer energetického zařízení	Dolní Město	99	1	A
-6101	568601	1	2	1	6	Jiří	Filip	M	Ing.		46	business analytik	Bystřice	99	1	A
-6101	568601	1	2	1	7	Bedřich	Dušek	M			46	mistr drážních oprav	Dolní Město	99	1	A
-6101	568601	1	2	1	8	Lucie	Nekolová	F	Ing.		28	odborný rada dendrolog	Dolní Město	99	1	A
-6101	568601	1	2	1	9	Pavel	Vebr	M			56	obsluha zemních strojů	Dolní Město	99	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	568601	1	1	47	1	Václav	Coufal			40	skladník	Dolní Město	47	47	A	M
+6101	568601	1	2	1	1	Pavel	Chlád			45	starosta obce	Dolní Město	99	1	A	M
+6101	568601	1	1	47	2	Marcel	Frolík			56	voják ve výslužbě	Dolní Město	99	47	A	M
+6101	568601	1	2	1	2	Milan	Beránek			47	správce informačních systémů	Dolní Město	99	1	A	M
+6101	568601	1	1	47	3	Elena	Průšová			55	OSVČ ekonom	Dolní Město	99	47	A	F
+6101	568601	1	2	1	3	Jana	Petráňová	Ing.		56	vedoucí oddělení ekologie	Dolní Město	1	1	A	F
+6101	568601	1	1	47	4	Filip	Galek			20	student	Dolní Město	99	47	A	M
+6101	568601	1	2	1	4	Miroslav	Vápeník			59	technik	Dolní Město	99	1	A	M
+6101	568601	1	1	47	5	Lenka	Mikešová			50	poštovní doručovatelka	Dolní Město	99	47	A	F
+6101	568601	1	2	1	5	Jaroslav	Moravec			48	dispečer energetického zařízení	Dolní Město	99	1	A	M
+6101	568601	1	1	47	6	Růžena	Moravcová			50	domovnice mateřské a základní školy	Dolní Město	99	47	A	F
+6101	568601	1	2	1	6	Jiří	Filip	Ing.		46	business analytik	Bystřice	99	1	A	M
+6101	568601	1	1	47	7	Jana	Matoušková			49	sociální pracovnice	Dolní Město	99	47	A	F
+6101	568601	1	2	1	7	Bedřich	Dušek			46	mistr drážních oprav	Dolní Město	99	1	A	M
+6101	568601	1	1	47	8	Radek	Bruner			47	invalidní důchodce	Dolní Město	99	47	A	M
+6101	568601	1	2	1	8	Lucie	Nekolová	Ing.		28	odborný rada dendrolog	Dolní Město	99	1	A	F
+6101	568601	1	1	47	9	Pavel	Prchal			69	důchodce	Dolní Město	99	47	A	M
+6101	568601	1	2	1	9	Pavel	Vebr			56	obsluha zemních strojů	Dolní Město	99	1	A	M

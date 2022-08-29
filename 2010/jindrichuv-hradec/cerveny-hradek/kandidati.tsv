@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	509116	1	1	807	1	Kamil	Štěpán	M			35	technik	Červený Hrádek	99	80	0
-3103	509116	1	2	810	1	Radek	Pokorný	M			31	řezník	Červený Hrádek	99	80	0
-3103	509116	1	3	805	1	Petr	Nix	M			29	pokrývač	Červený Hrádek	99	80	0
-3103	509116	1	4	813	1	Marie	Štěpánová	F			46	dělnice	Červený Hrádek	99	80	0
-3103	509116	1	5	811	1	René	Tomšů	M			34	zedník	Červený Hrádek	99	80	0
-3103	509116	1	6	808	1	Františka	Nosková	F			47	prodavačka	Červený Hrádek	99	80	0
-3103	509116	1	7	806	1	Miroslav	Kopřiva	M			37	strojař	Červený Hrádek	99	80	0
-3103	509116	1	8	803	1	Marta	Jordánková	F			43	prodavačka	Červený Hrádek	99	80	0
-3103	509116	1	9	812	1	Zdeněk	Nosek	M			50	místostarosta	Červený Hrádek	99	80	0
-3103	509116	1	10	801	1	Jaroslav	Láník	M			52	řidič	Červený Hrádek	99	80	0
-3103	509116	1	11	804	1	Andrea	Petříčková	F			31	nezaměstnaná	Červený Hrádek	99	80	0
-3103	509116	1	12	802	1	Jiří	Kasáček	M			35	OSVČ	Červený Hrádek	99	80	0
-3103	509116	1	13	809	1	Bohumila	Štěpánová	F			33	zdravotní sestra	Červený Hrádek	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	509116	1	1	807	1	Kamil	Štěpán			35	technik	Červený Hrádek	99	80	0	M
+3103	509116	1	2	810	1	Radek	Pokorný			31	řezník	Červený Hrádek	99	80	0	M
+3103	509116	1	3	805	1	Petr	Nix			29	pokrývač	Červený Hrádek	99	80	0	M
+3103	509116	1	4	813	1	Marie	Štěpánová			46	dělnice	Červený Hrádek	99	80	0	F
+3103	509116	1	5	811	1	René	Tomšů			34	zedník	Červený Hrádek	99	80	0	M
+3103	509116	1	6	808	1	Františka	Nosková			47	prodavačka	Červený Hrádek	99	80	0	F
+3103	509116	1	7	806	1	Miroslav	Kopřiva			37	strojař	Červený Hrádek	99	80	0	M
+3103	509116	1	8	803	1	Marta	Jordánková			43	prodavačka	Červený Hrádek	99	80	0	F
+3103	509116	1	9	812	1	Zdeněk	Nosek			50	místostarosta	Červený Hrádek	99	80	0	M
+3103	509116	1	10	801	1	Jaroslav	Láník			52	řidič	Červený Hrádek	99	80	0	M
+3103	509116	1	11	804	1	Andrea	Petříčková			31	nezaměstnaná	Červený Hrádek	99	80	0	F
+3103	509116	1	12	802	1	Jiří	Kasáček			35	OSVČ	Červený Hrádek	99	80	0	M
+3103	509116	1	13	809	1	Bohumila	Štěpánová			33	zdravotní sestra	Červený Hrádek	99	80	0	F

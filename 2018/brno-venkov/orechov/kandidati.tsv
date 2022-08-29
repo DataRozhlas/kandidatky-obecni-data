@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	583561	1	1	901	1	Josef	Brabenec	M			67	starosta obce Ořechov	Ořechov	99	80	A
-6203	583561	1	1	901	2	Petr	Oliva	M	Mgr.		37	advokát	Ořechov	99	80	A
-6203	583561	1	1	901	3	Pavel	Smištík	M			50	OSVČ	Ořechov	99	80	A
-6203	583561	1	1	901	4	Ivana	Šmídová	F	Mgr.		47	ředitelka ZŠ a MŠ Ořechov	Ořechov	99	80	A
-6203	583561	1	1	901	5	Leoš	Gat	M			50	OSVČ	Ořechov	99	80	A
-6203	583561	1	1	901	6	Jan	Vaněk	M	Bc.		24	student VUT Brno	Ořechov	99	80	A
-6203	583561	1	1	901	7	Roman	Lankaš	M			41	OSVČ	Ořechov	99	80	A
-6203	583561	1	1	901	8	Roman	Vaněk	M	JUDr.	Ph.D.	49	advokát	Ořechov	99	80	A
-6203	583561	1	1	901	9	Miroslav	Florián	M	Ing.	Ph.D.	41	ředitel odboru	Ořechov	99	80	A
-6203	583561	1	2	355	1	Stanislav	Beránek	M	Ing.		58	stavební projektant	Ořechov	99	1	A
-6203	583561	1	2	355	2	Marek	Poledňa	M	Ing.		45	technik	Ořechov	99	1	A
-6203	583561	1	2	355	3	Elena	Komjaty	F	Ing.		45	manažerka evropských projektů MU	Ořechov	99	1	A
-6203	583561	1	2	355	4	Oldřich	Paulíček	M			49	grafik	Ořechov	99	1	A
-6203	583561	1	2	355	5	Jaroslav	Hendrych	M			43	OSVČ	Ořechov	99	1	A
-6203	583561	1	2	355	6	Zdeněk	Čoupek	M			63	instalatér	Ořechov	99	1	A
-6203	583561	1	2	355	7	Josef	Krybus	M			68	důchodce	Ořechov	99	80	A
-6203	583561	1	2	355	8	Petr	Krečmer	M			49	mechanik	Ořechov	99	1	A
-6203	583561	1	2	355	9	Ludmila	Krečmerová	F			71	důchodkyně	Ořechov	1	1	A
-6203	583561	1	3	902	1	Tomáš	Dudík	M			40	místostarosta obce	Ořechov	99	80	A
-6203	583561	1	3	902	2	Radovan	Plšek	M	Mgr.		56	správce	Ořechov	99	80	A
-6203	583561	1	3	902	3	Zdeněk	Worek	M			35	operátor CNC strojů	Ořechov	99	80	A
-6203	583561	1	3	902	4	Jan	Resek	M			31	OSVČ	Ořechov	99	80	A
-6203	583561	1	3	902	5	Pavel	Kubíček	M			53	OSVČ	Ořechov	99	80	A
-6203	583561	1	3	902	6	Alena	Rybníčková	F			38	OSVČ	Ořechov	99	80	A
-6203	583561	1	3	902	7	Martin	Bystričan	M			41	řidič	Ořechov	99	80	A
-6203	583561	1	3	902	8	Tomáš	Salnek	M	Ing.		48	učitel	Ořechov	99	80	A
-6203	583561	1	3	902	9	Lucie	Hadačová	F	Mgr.		41	administrativní pracovník	Ořechov	99	80	A
-6203	583561	1	4	470	1	Michal	Hrazdíra	M			40	jednatel firmy	Ořechov	99	166	A
-6203	583561	1	4	470	2	Jakub	Valový	M			44	obchodní ředitel	Ořechov	99	80	A
-6203	583561	1	4	470	3	Rudolf	Ševčík	M	Mgr.		35	manažer střediska	Ořechov	99	80	A
-6203	583561	1	4	470	4	Josef	Sobotka	M	Ing.		60	jednatel firmy	Ořechov	99	80	A
-6203	583561	1	4	470	5	Vojtěch	Fišer	M	Bc.		26	finanční referent	Ořechov	99	80	A
-6203	583561	1	4	470	6	Vladimír	Konečný	M	Ing.		56	projektový manažer	Ořechov	99	80	A
-6203	583561	1	4	470	7	Jaromír	Mádr	M			65	důchodce	Ořechov	99	80	A
-6203	583561	1	4	470	8	Jan	Šterc	M			58	státní zaměstnanec	Ořechov	99	80	A
-6203	583561	1	4	470	9	Rostislav	Janek	M			67	důchodce	Ořechov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	583561	1	1	901	1	Josef	Brabenec			67	starosta obce Ořechov	Ořechov	99	80	A	M
+6203	583561	1	2	355	1	Stanislav	Beránek	Ing.		58	stavební projektant	Ořechov	99	1	A	M
+6203	583561	1	3	902	1	Tomáš	Dudík			40	místostarosta obce	Ořechov	99	80	A	M
+6203	583561	1	4	470	1	Michal	Hrazdíra			40	jednatel firmy	Ořechov	99	166	A	M
+6203	583561	1	1	901	2	Petr	Oliva	Mgr.		37	advokát	Ořechov	99	80	A	M
+6203	583561	1	2	355	2	Marek	Poledňa	Ing.		45	technik	Ořechov	99	1	A	M
+6203	583561	1	3	902	2	Radovan	Plšek	Mgr.		56	správce	Ořechov	99	80	A	M
+6203	583561	1	4	470	2	Jakub	Valový			44	obchodní ředitel	Ořechov	99	80	A	M
+6203	583561	1	1	901	3	Pavel	Smištík			50	OSVČ	Ořechov	99	80	A	M
+6203	583561	1	2	355	3	Elena	Komjaty	Ing.		45	manažerka evropských projektů MU	Ořechov	99	1	A	F
+6203	583561	1	3	902	3	Zdeněk	Worek			35	operátor CNC strojů	Ořechov	99	80	A	M
+6203	583561	1	4	470	3	Rudolf	Ševčík	Mgr.		35	manažer střediska	Ořechov	99	80	A	M
+6203	583561	1	1	901	4	Ivana	Šmídová	Mgr.		47	ředitelka ZŠ a MŠ Ořechov	Ořechov	99	80	A	F
+6203	583561	1	2	355	4	Oldřich	Paulíček			49	grafik	Ořechov	99	1	A	M
+6203	583561	1	3	902	4	Jan	Resek			31	OSVČ	Ořechov	99	80	A	M
+6203	583561	1	4	470	4	Josef	Sobotka	Ing.		60	jednatel firmy	Ořechov	99	80	A	M
+6203	583561	1	1	901	5	Leoš	Gat			50	OSVČ	Ořechov	99	80	A	M
+6203	583561	1	2	355	5	Jaroslav	Hendrych			43	OSVČ	Ořechov	99	1	A	M
+6203	583561	1	3	902	5	Pavel	Kubíček			53	OSVČ	Ořechov	99	80	A	M
+6203	583561	1	4	470	5	Vojtěch	Fišer	Bc.		26	finanční referent	Ořechov	99	80	A	M
+6203	583561	1	1	901	6	Jan	Vaněk	Bc.		24	student VUT Brno	Ořechov	99	80	A	M
+6203	583561	1	2	355	6	Zdeněk	Čoupek			63	instalatér	Ořechov	99	1	A	M
+6203	583561	1	3	902	6	Alena	Rybníčková			38	OSVČ	Ořechov	99	80	A	F
+6203	583561	1	4	470	6	Vladimír	Konečný	Ing.		56	projektový manažer	Ořechov	99	80	A	M
+6203	583561	1	1	901	7	Roman	Lankaš			41	OSVČ	Ořechov	99	80	A	M
+6203	583561	1	2	355	7	Josef	Krybus			68	důchodce	Ořechov	99	80	A	M
+6203	583561	1	3	902	7	Martin	Bystričan			41	řidič	Ořechov	99	80	A	M
+6203	583561	1	4	470	7	Jaromír	Mádr			65	důchodce	Ořechov	99	80	A	M
+6203	583561	1	1	901	8	Roman	Vaněk	JUDr.	Ph.D.	49	advokát	Ořechov	99	80	A	M
+6203	583561	1	2	355	8	Petr	Krečmer			49	mechanik	Ořechov	99	1	A	M
+6203	583561	1	3	902	8	Tomáš	Salnek	Ing.		48	učitel	Ořechov	99	80	A	M
+6203	583561	1	4	470	8	Jan	Šterc			58	státní zaměstnanec	Ořechov	99	80	A	M
+6203	583561	1	1	901	9	Miroslav	Florián	Ing.	Ph.D.	41	ředitel odboru	Ořechov	99	80	A	M
+6203	583561	1	2	355	9	Ludmila	Krečmerová			71	důchodkyně	Ořechov	1	1	A	F
+6203	583561	1	3	902	9	Lucie	Hadačová	Mgr.		41	administrativní pracovník	Ořechov	99	80	A	F
+6203	583561	1	4	470	9	Rostislav	Janek			67	důchodce	Ořechov	99	80	A	M

@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	544892	1	1	47	1	Jaroslav	Pavlica	M	JUDr.		56	právník	Olešník	47	47	0
-3101	544892	1	1	47	2	Hana	Štabrňáková	F			51	dělnice	Olešník	99	47	0
-3101	544892	1	1	47	3	Pavel	Joza	M			33	podnikatel	Chlumec	99	47	0
-3101	544892	1	1	47	4	Josef	Pomije	M	Ing.		48	podnikatel	Olešník	99	47	0
-3101	544892	1	1	47	5	Vlastimil	Horný	M			53	zemědělec	Olešník	99	47	0
-3101	544892	1	1	47	6	Ivan	Mego	M			48	zemědělec	Olešník	99	47	0
-3101	544892	1	1	47	7	Jaromír	Novák	M			56	truhlář	Olešník	99	47	0
-3101	544892	1	1	47	8	Květuše	Kubečková	F			72	důchodkyně	Olešník	47	47	0
-3101	544892	1	1	47	9	Josef	Trnka	M			56	elektromontér	Olešník	99	47	0
-3101	544892	1	2	53	1	Jana	Píchová	F			52	starostka obce	Olešník	99	53	0
-3101	544892	1	2	53	2	Václav	Havel	M			47	technik	Olešník	99	53	0
-3101	544892	1	2	53	3	Josef	Reitinger	M			37	řidič	Chlumec	99	53	0
-3101	544892	1	2	53	4	Marie	Hájíčková	F			50	zahradnice	Olešník	99	53	0
-3101	544892	1	2	53	5	Václav	Kalous	M			41	mechanik	Olešník	99	53	0
-3101	544892	1	2	53	6	Václav	Dvořák	M			67	důchodce	Olešník	99	53	0
-3101	544892	1	2	53	7	Václav	Svatek	M			47	truhlář	Olešník	99	53	0
-3101	544892	1	2	53	8	Marie	Záveská	F			49	sortimentářka	Chlumec	99	53	0
-3101	544892	1	2	53	9	Helena	Hebíková	F			44	pečovatelka	Nová Ves	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	544892	1	1	47	1	Jaroslav	Pavlica	JUDr.		56	právník	Olešník	47	47	0	M
+3101	544892	1	2	53	1	Jana	Píchová			52	starostka obce	Olešník	99	53	0	F
+3101	544892	1	1	47	2	Hana	Štabrňáková			51	dělnice	Olešník	99	47	0	F
+3101	544892	1	2	53	2	Václav	Havel			47	technik	Olešník	99	53	0	M
+3101	544892	1	1	47	3	Pavel	Joza			33	podnikatel	Chlumec	99	47	0	M
+3101	544892	1	2	53	3	Josef	Reitinger			37	řidič	Chlumec	99	53	0	M
+3101	544892	1	1	47	4	Josef	Pomije	Ing.		48	podnikatel	Olešník	99	47	0	M
+3101	544892	1	2	53	4	Marie	Hájíčková			50	zahradnice	Olešník	99	53	0	F
+3101	544892	1	1	47	5	Vlastimil	Horný			53	zemědělec	Olešník	99	47	0	M
+3101	544892	1	2	53	5	Václav	Kalous			41	mechanik	Olešník	99	53	0	M
+3101	544892	1	1	47	6	Ivan	Mego			48	zemědělec	Olešník	99	47	0	M
+3101	544892	1	2	53	6	Václav	Dvořák			67	důchodce	Olešník	99	53	0	M
+3101	544892	1	1	47	7	Jaromír	Novák			56	truhlář	Olešník	99	47	0	M
+3101	544892	1	2	53	7	Václav	Svatek			47	truhlář	Olešník	99	53	0	M
+3101	544892	1	1	47	8	Květuše	Kubečková			72	důchodkyně	Olešník	47	47	0	F
+3101	544892	1	2	53	8	Marie	Záveská			49	sortimentářka	Chlumec	99	53	0	F
+3101	544892	1	1	47	9	Josef	Trnka			56	elektromontér	Olešník	99	47	0	M
+3101	544892	1	2	53	9	Helena	Hebíková			44	pečovatelka	Nová Ves	99	53	0	F

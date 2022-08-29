@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3205	558770	1	1	901	1	Martin	Liška	M			54	technik	Dobříč	99	80	A
-3205	558770	1	1	901	2	Martin	Žákovec	M	Ing.		50	technický náměstek	Dobříč	99	80	A
-3205	558770	1	1	901	3	Tomáš	Nový	M			45	zedník	Dobříč	99	80	A
-3205	558770	1	1	901	4	Martin	Macháček	M	Ing.		46	ekonom	Dobříč	99	80	A
-3205	558770	1	1	901	5	Jan	Šimandl	M			32	technik	Dobříč	99	80	A
-3205	558770	1	1	901	6	Eva	Lišková	F			45	vedoucí prodejny	Dobříč	99	80	A
-3205	558770	1	1	901	7	Pavel	Zelenka	M			52	tesař	Dobříč	99	80	A
-3205	558770	1	1	901	8	Jiří	Vitouš	M	Ing.		64	správce počítačové sítě	Dobříč	99	80	A
-3205	558770	1	2	902	1	Jindřich	Vávra	M			54	dopravce	Čivice	99	80	A
-3205	558770	1	2	902	2	Václav	Nový	M			33	technik	Čivice	99	80	A
-3205	558770	1	2	902	3	Luboš	Muchna	M		DiS.	41	podnikatel	Čivice	99	80	A
-3205	558770	1	2	902	4	Alena	Skolková	F			68	důchodce	Čivice	99	80	A
-3205	558770	1	2	902	5	Milan	Ryba	M			48	soustružník	Čivice	99	80	A
-3205	558770	1	2	902	6	Nikola	Kalousová	F	Mgr.		29	referent	Čivice	99	80	A
-3205	558770	1	2	902	7	Ivan	Čech	M			38	dělník	Čivice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3205	558770	1	1	901	1	Martin	Liška			54	technik	Dobříč	99	80	A	M
+3205	558770	1	2	902	1	Jindřich	Vávra			54	dopravce	Čivice	99	80	A	M
+3205	558770	1	1	901	2	Martin	Žákovec	Ing.		50	technický náměstek	Dobříč	99	80	A	M
+3205	558770	1	2	902	2	Václav	Nový			33	technik	Čivice	99	80	A	M
+3205	558770	1	1	901	3	Tomáš	Nový			45	zedník	Dobříč	99	80	A	M
+3205	558770	1	2	902	3	Luboš	Muchna		DiS.	41	podnikatel	Čivice	99	80	A	M
+3205	558770	1	1	901	4	Martin	Macháček	Ing.		46	ekonom	Dobříč	99	80	A	M
+3205	558770	1	2	902	4	Alena	Skolková			68	důchodce	Čivice	99	80	A	F
+3205	558770	1	1	901	5	Jan	Šimandl			32	technik	Dobříč	99	80	A	M
+3205	558770	1	2	902	5	Milan	Ryba			48	soustružník	Čivice	99	80	A	M
+3205	558770	1	1	901	6	Eva	Lišková			45	vedoucí prodejny	Dobříč	99	80	A	F
+3205	558770	1	2	902	6	Nikola	Kalousová	Mgr.		29	referent	Čivice	99	80	A	F
+3205	558770	1	1	901	7	Pavel	Zelenka			52	tesař	Dobříč	99	80	A	M
+3205	558770	1	2	902	7	Ivan	Čech			38	dělník	Čivice	99	80	A	M
+3205	558770	1	1	901	8	Jiří	Vitouš	Ing.		64	správce počítačové sítě	Dobříč	99	80	A	M

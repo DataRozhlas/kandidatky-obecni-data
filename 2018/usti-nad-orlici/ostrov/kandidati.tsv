@@ -1,20 +1,20 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	580732	1	1	902	1	Lukáš	Juda	M			26	data operátor, OSVČ	Ostrov	99	80	A
-5304	580732	1	1	902	2	František	Mička	M			41	seřizovač	Ostrov	99	80	A
-5304	580732	1	1	902	3	Miroslav	Richtr	M			52	cestmistr	Ostrov	99	80	A
-5304	580732	1	1	902	4	Martin	Piňos	M			32	plánovač výroby	Ostrov	99	80	A
-5304	580732	1	1	902	5	Jan	Čabák	M			40	truhlář	Ostrov	99	80	A
-5304	580732	1	2	901	1	Marta	Schipplová	F			49	starostka obce Ostrov	Ostrov	99	80	A
-5304	580732	1	2	901	2	Štefan	Kyčmol	M			40	OSVČ	Ostrov	99	80	A
-5304	580732	1	2	901	3	Hana	Hamplová	F	Mgr.		45	učitelka	Ostrov	99	80	A
-5304	580732	1	2	901	4	Martina	Vogelová	F			42	vedoucí skladu	Ostrov	99	80	A
-5304	580732	1	2	901	5	Rostislav	Karlík	M			46	mistr	Ostrov	99	80	A
-5304	580732	1	2	901	6	Lucie	Čuhelová	F			37	dělnice v elektrotechnice	Ostrov	99	80	A
-5304	580732	1	2	901	7	Miloš	Moučka	M			42	řidič	Ostrov	99	80	A
-5304	580732	1	3	1	1	Pavel	Málek	M			62	důchodce	Ostrov	1	1	A
-5304	580732	1	3	1	2	Martin	Klíma	M			39	dělník	Ostrov	99	1	A
-5304	580732	1	3	1	3	Zdeňka	Špinlerová	F			51	administrativní pracovnice	Ostrov	1	1	A
-5304	580732	1	3	1	4	Jarmila	Kněžourová	F			41	zdravotní ošetřovatelka	Ostrov	99	1	A
-5304	580732	1	3	1	5	Magdalena	Vodáková	F			40	kontrolorka	Ostrov	99	1	A
-5304	580732	1	3	1	6	Anežka	Málková	F			23	studentka	Ostrov	99	1	A
-5304	580732	1	3	1	7	David	Kubala	M			33	vedoucí mistr	Ostrov	99	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	580732	1	1	902	1	Lukáš	Juda			26	data operátor, OSVČ	Ostrov	99	80	A	M
+5304	580732	1	2	901	1	Marta	Schipplová			49	starostka obce Ostrov	Ostrov	99	80	A	F
+5304	580732	1	3	1	1	Pavel	Málek			62	důchodce	Ostrov	1	1	A	M
+5304	580732	1	1	902	2	František	Mička			41	seřizovač	Ostrov	99	80	A	M
+5304	580732	1	2	901	2	Štefan	Kyčmol			40	OSVČ	Ostrov	99	80	A	M
+5304	580732	1	3	1	2	Martin	Klíma			39	dělník	Ostrov	99	1	A	M
+5304	580732	1	1	902	3	Miroslav	Richtr			52	cestmistr	Ostrov	99	80	A	M
+5304	580732	1	2	901	3	Hana	Hamplová	Mgr.		45	učitelka	Ostrov	99	80	A	F
+5304	580732	1	3	1	3	Zdeňka	Špinlerová			51	administrativní pracovnice	Ostrov	1	1	A	F
+5304	580732	1	1	902	4	Martin	Piňos			32	plánovač výroby	Ostrov	99	80	A	M
+5304	580732	1	2	901	4	Martina	Vogelová			42	vedoucí skladu	Ostrov	99	80	A	F
+5304	580732	1	3	1	4	Jarmila	Kněžourová			41	zdravotní ošetřovatelka	Ostrov	99	1	A	F
+5304	580732	1	1	902	5	Jan	Čabák			40	truhlář	Ostrov	99	80	A	M
+5304	580732	1	2	901	5	Rostislav	Karlík			46	mistr	Ostrov	99	80	A	M
+5304	580732	1	3	1	5	Magdalena	Vodáková			40	kontrolorka	Ostrov	99	1	A	F
+5304	580732	1	2	901	6	Lucie	Čuhelová			37	dělnice v elektrotechnice	Ostrov	99	80	A	F
+5304	580732	1	3	1	6	Anežka	Málková			23	studentka	Ostrov	99	1	A	F
+5304	580732	1	2	901	7	Miloš	Moučka			42	řidič	Ostrov	99	80	A	M
+5304	580732	1	3	1	7	David	Kubala			33	vedoucí mistr	Ostrov	99	1	A	M

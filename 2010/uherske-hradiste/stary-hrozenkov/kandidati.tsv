@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7202	592609	1	1	802	1	Radovan	Randiak	M	Mgr.		35	ředitel základní školy	Starý Hrozenkov	99	80	0
-7202	592609	1	2	1	1	Milan	Vaculík	M			52	starosta	Starý Hrozenkov	1	1	0
-7202	592609	1	2	1	2	Ján	Gabrhel	M			54	technik	Starý Hrozenkov	99	1	0
-7202	592609	1	2	1	3	Jiří	Lyko	M			43	celník	Starý Hrozenkov	99	1	0
-7202	592609	1	2	1	4	Gabriela	Hamadová	F			41	zdravotní sestra	Starý Hrozenkov	1	1	0
-7202	592609	1	2	1	5	Petr	Michalčík	M			34	živnostník	Starý Hrozenkov	99	1	0
-7202	592609	1	2	1	6	Ladislav	Vaculík	M			34	strojník	Starý Hrozenkov	99	1	0
-7202	592609	1	2	1	7	Marie	Masaříková	F			56	živnostník	Starý Hrozenkov	1	1	0
-7202	592609	1	2	1	8	Marie	Lebánková	F			42	dámská krejčová	Starý Hrozenkov	99	1	0
-7202	592609	1	2	1	9	Jaroslav	Bártek	M			52	celník	Starý Hrozenkov	99	1	0
-7202	592609	1	2	1	10	Radim	Michalčík	M			32	technik	Starý Hrozenkov	1	1	0
-7202	592609	1	2	1	11	Josef	Vaculík	M			62	dělník	Starý Hrozenkov	99	1	0
-7202	592609	1	2	1	12	František	Sura	M			63	důchodce	Starý Hrozenkov	99	1	0
-7202	592609	1	2	1	13	Helena	Lacinová	F			60	důchodce	Starý Hrozenkov	1	1	0
-7202	592609	1	2	1	14	Eliška	Křižková	F			65	důchodce	Starý Hrozenkov	1	1	0
-7202	592609	1	2	1	15	Josef	Machala	M			72	důchodce	Starý Hrozenkov	99	1	0
-7202	592609	1	3	801	1	Vladimír	Mačát	M	Mgr.		46	celník	Starý Hrozenkov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7202	592609	1	1	802	1	Radovan	Randiak	Mgr.		35	ředitel základní školy	Starý Hrozenkov	99	80	0	M
+7202	592609	1	2	1	1	Milan	Vaculík			52	starosta	Starý Hrozenkov	1	1	0	M
+7202	592609	1	3	801	1	Vladimír	Mačát	Mgr.		46	celník	Starý Hrozenkov	99	80	0	M
+7202	592609	1	2	1	2	Ján	Gabrhel			54	technik	Starý Hrozenkov	99	1	0	M
+7202	592609	1	2	1	3	Jiří	Lyko			43	celník	Starý Hrozenkov	99	1	0	M
+7202	592609	1	2	1	4	Gabriela	Hamadová			41	zdravotní sestra	Starý Hrozenkov	1	1	0	F
+7202	592609	1	2	1	5	Petr	Michalčík			34	živnostník	Starý Hrozenkov	99	1	0	M
+7202	592609	1	2	1	6	Ladislav	Vaculík			34	strojník	Starý Hrozenkov	99	1	0	M
+7202	592609	1	2	1	7	Marie	Masaříková			56	živnostník	Starý Hrozenkov	1	1	0	F
+7202	592609	1	2	1	8	Marie	Lebánková			42	dámská krejčová	Starý Hrozenkov	99	1	0	F
+7202	592609	1	2	1	9	Jaroslav	Bártek			52	celník	Starý Hrozenkov	99	1	0	M
+7202	592609	1	2	1	10	Radim	Michalčík			32	technik	Starý Hrozenkov	1	1	0	M
+7202	592609	1	2	1	11	Josef	Vaculík			62	dělník	Starý Hrozenkov	99	1	0	M
+7202	592609	1	2	1	12	František	Sura			63	důchodce	Starý Hrozenkov	99	1	0	M
+7202	592609	1	2	1	13	Helena	Lacinová			60	důchodce	Starý Hrozenkov	1	1	0	F
+7202	592609	1	2	1	14	Eliška	Křižková			65	důchodce	Starý Hrozenkov	1	1	0	F
+7202	592609	1	2	1	15	Josef	Machala			72	důchodce	Starý Hrozenkov	99	1	0	M

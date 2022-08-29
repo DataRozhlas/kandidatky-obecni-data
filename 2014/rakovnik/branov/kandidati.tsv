@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	541672	1	1	901	1	Karel	Sklenička	M	Ing.		39	technický manažer	Branov	99	80	0
-2112	541672	1	1	901	2	Martin	Zikmund	M			30	zást.vedoucího autoservisu	Branov	99	80	0
-2112	541672	1	1	901	3	Petr	Zelenka	M			49	pracovník kovovýroby	Branov	99	80	0
-2112	541672	1	1	901	4	Hana	Rampasová	F			57	manažer obchodu	Branov	99	80	0
-2112	541672	1	1	901	5	Václav	Horn	M			31	pracovník výroby	Branov	99	80	0
-2112	541672	1	1	901	6	Petr	Rampas	M			71	technický poradce v obchodě	Branov	99	80	0
-2112	541672	1	1	901	7	Hana	Jirásková	F			54	vedoucí provozovny	Branov	99	80	0
-2112	541672	1	1	901	8	Marie	Hocká	F	Mgr.		61	právník	Branov	99	80	0
-2112	541672	1	1	901	9	Ladislav	Zikmund	M			64	řidič, důchodce	Branov	99	80	0
-2112	541672	1	2	7	1	František	Štiller	M			69	důchodce	Branov	47	7	0
-2112	541672	1	2	7	2	Josef	Pavlíček	M			41	údržbář	Branov	7	7	0
-2112	541672	1	2	7	3	Miroslav	Varyš	M	JUDr.		70	důchodce	Branov	47	7	0
-2112	541672	1	2	7	4	Jaroslav	Votoupal	M			61	hajný	Branov	47	7	0
-2112	541672	1	2	7	5	Růžena	Krubová	F			67	důchodce	Branov	7	7	0
-2112	541672	1	2	7	6	Karel	Karnold	M			61	důchodce	Branov	7	7	0
-2112	541672	1	2	7	7	Josef	Pokorný	M			31	údržbář	Branov	7	7	0
-2112	541672	1	2	7	8	Lenka	Menclová	F			23	operátorka	Branov	99	7	0
-2112	541672	1	2	7	9	Tomáš	Dubský	M			30	údržbář	Branov	7	7	0
-2112	541672	1	2	7	10	Zlata	Malá	F			39	operátorka	Branov	7	7	0
-2112	541672	1	2	7	11	Jan	Dubský	M			56	obecní zaměstnanec	Branov	7	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	541672	1	1	901	1	Karel	Sklenička	Ing.		39	technický manažer	Branov	99	80	0	M
+2112	541672	1	2	7	1	František	Štiller			69	důchodce	Branov	47	7	0	M
+2112	541672	1	1	901	2	Martin	Zikmund			30	zást.vedoucího autoservisu	Branov	99	80	0	M
+2112	541672	1	2	7	2	Josef	Pavlíček			41	údržbář	Branov	7	7	0	M
+2112	541672	1	1	901	3	Petr	Zelenka			49	pracovník kovovýroby	Branov	99	80	0	M
+2112	541672	1	2	7	3	Miroslav	Varyš	JUDr.		70	důchodce	Branov	47	7	0	M
+2112	541672	1	1	901	4	Hana	Rampasová			57	manažer obchodu	Branov	99	80	0	F
+2112	541672	1	2	7	4	Jaroslav	Votoupal			61	hajný	Branov	47	7	0	M
+2112	541672	1	1	901	5	Václav	Horn			31	pracovník výroby	Branov	99	80	0	M
+2112	541672	1	2	7	5	Růžena	Krubová			67	důchodce	Branov	7	7	0	F
+2112	541672	1	1	901	6	Petr	Rampas			71	technický poradce v obchodě	Branov	99	80	0	M
+2112	541672	1	2	7	6	Karel	Karnold			61	důchodce	Branov	7	7	0	M
+2112	541672	1	1	901	7	Hana	Jirásková			54	vedoucí provozovny	Branov	99	80	0	F
+2112	541672	1	2	7	7	Josef	Pokorný			31	údržbář	Branov	7	7	0	M
+2112	541672	1	1	901	8	Marie	Hocká	Mgr.		61	právník	Branov	99	80	0	F
+2112	541672	1	2	7	8	Lenka	Menclová			23	operátorka	Branov	99	7	0	F
+2112	541672	1	1	901	9	Ladislav	Zikmund			64	řidič, důchodce	Branov	99	80	0	M
+2112	541672	1	2	7	9	Tomáš	Dubský			30	údržbář	Branov	7	7	0	M
+2112	541672	1	2	7	10	Zlata	Malá			39	operátorka	Branov	7	7	0	F
+2112	541672	1	2	7	11	Jan	Dubský			56	obecní zaměstnanec	Branov	7	7	0	M

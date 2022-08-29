@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	582581	1	1	88	1	Zdeněk	Přikryl	M	Ing.		54	OSVČ	Valchov	99	88	0
-6201	582581	1	1	88	2	Ondřej	Přibyl	M	Bc.		43	státní zaměstnanec	Valchov	99	88	0
-6201	582581	1	1	88	3	Věra	Vašíčková	F			53	sanitářka	Valchov	99	88	0
-6201	582581	1	1	88	4	Jiří	Sedlák	M	Ing.		36	ing. kvality	Valchov	99	88	0
-6201	582581	1	1	88	5	Petr	Chlup	M			39	obraběč kovů	Valchov	99	88	0
-6201	582581	1	1	88	6	Petr	Přikryl	M			36	mechanik	Valchov	99	88	0
-6201	582581	1	1	88	7	Irena	Přibylová	F	Bc.		41	sociální pracovnice	Valchov	99	88	0
-6201	582581	1	1	88	8	Pavel	Vašíček	M	Mgr.		25	servisní pracovník	Valchov	99	88	0
-6201	582581	1	1	88	9	Zdeněk	Přibyl	M			55	OSVČ	Valchov	99	88	0
-6201	582581	1	2	901	1	Jindřiška	Brožová	F	Ing.		44	starostka	Valchov	99	80	0
-6201	582581	1	2	901	2	Václav	Hasoň	M			38	operátor dřevařské a nábytkářské výroby	Valchov	99	80	0
-6201	582581	1	2	901	3	Tomáš	Kalik	M			27	obchodní zástupce	Valchov	99	80	0
-6201	582581	1	2	901	4	Miroslav	Šrom	M			36	stavební mistr	Valchov	99	80	0
-6201	582581	1	2	901	5	Tomáš	Fiala	M	Bc.		39	IT specialista	Valchov	99	80	0
-6201	582581	1	2	901	6	Jiří	Vašíček	M			31	OSVČ	Valchov	99	80	0
-6201	582581	1	2	901	7	Petr	Nečas	M			43	řidič sanitky	Valchov	1	80	0
-6201	582581	1	2	901	8	Renata	Kaliková	F			49	zdravotní laborantka	Valchov	99	80	0
-6201	582581	1	2	901	9	Pavel	Ošmera	M	Prof. Ing.	Csc.	68	VŠ učitel	Valchov	768	80	0
-6201	582581	1	3	902	1	Radka	Bezděková	F	Ing.		38	projektová manažerka	Valchov	99	80	0
-6201	582581	1	3	902	2	Petr	Barák	M			26	státní zaměstnanec	Valchov	99	80	0
-6201	582581	1	3	902	3	Pavla	Vítová	F			51	účetní	Valchov	99	80	0
-6201	582581	1	3	902	4	Karel	Vrána	M			41	elektromechanik	Valchov	99	80	0
-6201	582581	1	3	902	5	Stanislav	Veselý	M			41	údržbář	Valchov	99	80	0
-6201	582581	1	3	902	6	Alena	Učňová	F			50	dělnice	Valchov	99	80	0
-6201	582581	1	3	902	7	Jiří	Pavlů	M			46	projektant	Valchov	99	80	0
-6201	582581	1	3	902	8	Jiří	Dokoupil	M	Ing.		53	technik	Valchov	768	80	0
-6201	582581	1	3	902	9	Milan	Fiala	M			27	státní zaměstnanec	Valchov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	582581	1	1	88	1	Zdeněk	Přikryl	Ing.		54	OSVČ	Valchov	99	88	0	M
+6201	582581	1	2	901	1	Jindřiška	Brožová	Ing.		44	starostka	Valchov	99	80	0	F
+6201	582581	1	3	902	1	Radka	Bezděková	Ing.		38	projektová manažerka	Valchov	99	80	0	F
+6201	582581	1	1	88	2	Ondřej	Přibyl	Bc.		43	státní zaměstnanec	Valchov	99	88	0	M
+6201	582581	1	2	901	2	Václav	Hasoň			38	operátor dřevařské a nábytkářské výroby	Valchov	99	80	0	M
+6201	582581	1	3	902	2	Petr	Barák			26	státní zaměstnanec	Valchov	99	80	0	M
+6201	582581	1	1	88	3	Věra	Vašíčková			53	sanitářka	Valchov	99	88	0	F
+6201	582581	1	2	901	3	Tomáš	Kalik			27	obchodní zástupce	Valchov	99	80	0	M
+6201	582581	1	3	902	3	Pavla	Vítová			51	účetní	Valchov	99	80	0	F
+6201	582581	1	1	88	4	Jiří	Sedlák	Ing.		36	ing. kvality	Valchov	99	88	0	M
+6201	582581	1	2	901	4	Miroslav	Šrom			36	stavební mistr	Valchov	99	80	0	M
+6201	582581	1	3	902	4	Karel	Vrána			41	elektromechanik	Valchov	99	80	0	M
+6201	582581	1	1	88	5	Petr	Chlup			39	obraběč kovů	Valchov	99	88	0	M
+6201	582581	1	2	901	5	Tomáš	Fiala	Bc.		39	IT specialista	Valchov	99	80	0	M
+6201	582581	1	3	902	5	Stanislav	Veselý			41	údržbář	Valchov	99	80	0	M
+6201	582581	1	1	88	6	Petr	Přikryl			36	mechanik	Valchov	99	88	0	M
+6201	582581	1	2	901	6	Jiří	Vašíček			31	OSVČ	Valchov	99	80	0	M
+6201	582581	1	3	902	6	Alena	Učňová			50	dělnice	Valchov	99	80	0	F
+6201	582581	1	1	88	7	Irena	Přibylová	Bc.		41	sociální pracovnice	Valchov	99	88	0	F
+6201	582581	1	2	901	7	Petr	Nečas			43	řidič sanitky	Valchov	1	80	0	M
+6201	582581	1	3	902	7	Jiří	Pavlů			46	projektant	Valchov	99	80	0	M
+6201	582581	1	1	88	8	Pavel	Vašíček	Mgr.		25	servisní pracovník	Valchov	99	88	0	M
+6201	582581	1	2	901	8	Renata	Kaliková			49	zdravotní laborantka	Valchov	99	80	0	F
+6201	582581	1	3	902	8	Jiří	Dokoupil	Ing.		53	technik	Valchov	768	80	0	M
+6201	582581	1	1	88	9	Zdeněk	Přibyl			55	OSVČ	Valchov	99	88	0	M
+6201	582581	1	2	901	9	Pavel	Ošmera	Prof. Ing.	Csc.	68	VŠ učitel	Valchov	768	80	0	M
+6201	582581	1	3	902	9	Milan	Fiala			27	státní zaměstnanec	Valchov	99	80	0	M

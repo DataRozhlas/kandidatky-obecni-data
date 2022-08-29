@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7201	549720	1	1	47	1	Miloslav	Peška	M			77	důchodce	Přílepy	47	47	0
-7201	549720	1	1	47	2	Ladislav	Vojtášek	M			54	pracovník bezp. agentury	Přílepy	47	47	0
-7201	549720	1	1	47	3	Jaromír	Olšák	M			60	zámečník	Přílepy	47	47	0
-7201	549720	1	1	47	4	Jana	Vojtášková	F			55	skladový zaměstnanec	Přílepy	99	47	0
-7201	549720	1	1	47	5	Stanislav	Románek	M	Ing.		78	důchodce	Přílepy	47	47	0
-7201	549720	1	1	47	6	Ladislav	Vojtášek	M		Dis.	27	administrativa	Přílepy	47	47	0
-7201	549720	1	1	47	7	Milan	Janalík	M			50	zaměstnanec obce	Přílepy	99	47	0
-7201	549720	1	2	1	1	Rudolf	Solař	M			54	starosta obce	Přílepy	1	1	0
-7201	549720	1	2	1	2	Miroslav	Sovadina	M	Bc.		38	technik	Přílepy	99	1	0
-7201	549720	1	2	1	3	Ludmila	Kopřivová	F			52	asistent notáře	Přílepy	1	1	0
-7201	549720	1	2	1	4	Pavel	Solař	M	Ing.		50	technik	Přílepy	99	1	0
-7201	549720	1	2	1	5	Zuzana	Odstrčilíková	F	Ing.		29	manažer	Přílepy	99	1	0
-7201	549720	1	2	1	6	Rostislav	Kutra	M			37	živnostník	Přílepy	99	1	0
-7201	549720	1	2	1	7	Milada	Hurtíková	F	MUDr.		57	lékařka	Přílepy	99	1	0
-7201	549720	1	3	53	1	Tomáš	Šimčík	M	Ing.		49	auditor,daňový poradce	Přílepy	53	53	0
-7201	549720	1	3	53	2	Zdeněk	Novák	M	JUDr.		59	OSVČ	Přílepy	99	53	0
-7201	549720	1	3	53	3	Jan	Šotola	M	MVDr.		61	jednatel společnosti	Přílepy	99	53	0
-7201	549720	1	3	53	4	Zdeněk	Chudárek	M			39	jednatel společnosti	Přílepy	99	53	0
-7201	549720	1	3	53	5	Helena	Kuchařová	F			67	důchodkyně	Přílepy	99	53	0
-7201	549720	1	3	53	6	Libuše	Smékalová	F			34	dělnice	Přílepy	99	53	0
-7201	549720	1	3	53	7	Růžena	Staňková	F			48	účetní	Přílepy	99	53	0
-7201	549720	1	4	902	1	Zdeněk	Němec	M			70	technik,důchodce	Přílepy	99	80	0
-7201	549720	1	4	902	2	Jindřich	Grygera	M			55	technik	Přílepy	99	80	0
-7201	549720	1	4	902	3	Alice	Kučerová	F	Mgr.		49	ředitelka ZŠ Přílepy	Přílepy	99	80	0
-7201	549720	1	4	902	4	Daniel	Přívara	M			39	Policie ČR	Přílepy	99	80	0
-7201	549720	1	4	902	5	Jan	Kopřiva	M			44	technik	Přílepy	99	80	0
-7201	549720	1	4	902	6	Josef	Hájek	M			67	projektant	Přílepy	99	80	0
-7201	549720	1	4	902	7	Oto	Buchta	M	Mgr.		36	programátor	Přílepy	99	80	0
-7201	549720	1	5	901	1	Ivana	Sehnalová	F	Ing.		30	konzultantka IS - MD	Přílepy	99	80	0
-7201	549720	1	5	901	2	Rostislav	Hradecký	M	Ing.		29	konstruktér	Přílepy	99	80	0
-7201	549720	1	5	901	3	Roman	Sehnal	M			33	řezník a chovatel hosp.zvířat	Přílepy	99	80	0
-7201	549720	1	5	901	4	Milan	Staněk	M			24	skladník	Přílepy	99	80	0
-7201	549720	1	5	901	5	Martina	Závrbská	F			39	ekonom	Přílepy	99	80	0
-7201	549720	1	5	901	6	Ladislav	Šikula	M			26	řidič z povolání	Přílepy	99	80	0
-7201	549720	1	5	901	7	Pavel	Kováč	M			47	policista	Přílepy	99	80	0
-7201	549720	1	5	901	8	Ludmila	Frantíková	F			50	dělnice	Přílepy	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7201	549720	1	1	47	1	Miloslav	Peška			77	důchodce	Přílepy	47	47	0	M
+7201	549720	1	2	1	1	Rudolf	Solař			54	starosta obce	Přílepy	1	1	0	M
+7201	549720	1	3	53	1	Tomáš	Šimčík	Ing.		49	auditor,daňový poradce	Přílepy	53	53	0	M
+7201	549720	1	4	902	1	Zdeněk	Němec			70	technik,důchodce	Přílepy	99	80	0	M
+7201	549720	1	5	901	1	Ivana	Sehnalová	Ing.		30	konzultantka IS - MD	Přílepy	99	80	0	F
+7201	549720	1	1	47	2	Ladislav	Vojtášek			54	pracovník bezp. agentury	Přílepy	47	47	0	M
+7201	549720	1	2	1	2	Miroslav	Sovadina	Bc.		38	technik	Přílepy	99	1	0	M
+7201	549720	1	3	53	2	Zdeněk	Novák	JUDr.		59	OSVČ	Přílepy	99	53	0	M
+7201	549720	1	4	902	2	Jindřich	Grygera			55	technik	Přílepy	99	80	0	M
+7201	549720	1	5	901	2	Rostislav	Hradecký	Ing.		29	konstruktér	Přílepy	99	80	0	M
+7201	549720	1	1	47	3	Jaromír	Olšák			60	zámečník	Přílepy	47	47	0	M
+7201	549720	1	2	1	3	Ludmila	Kopřivová			52	asistent notáře	Přílepy	1	1	0	F
+7201	549720	1	3	53	3	Jan	Šotola	MVDr.		61	jednatel společnosti	Přílepy	99	53	0	M
+7201	549720	1	4	902	3	Alice	Kučerová	Mgr.		49	ředitelka ZŠ Přílepy	Přílepy	99	80	0	F
+7201	549720	1	5	901	3	Roman	Sehnal			33	řezník a chovatel hosp.zvířat	Přílepy	99	80	0	M
+7201	549720	1	1	47	4	Jana	Vojtášková			55	skladový zaměstnanec	Přílepy	99	47	0	F
+7201	549720	1	2	1	4	Pavel	Solař	Ing.		50	technik	Přílepy	99	1	0	M
+7201	549720	1	3	53	4	Zdeněk	Chudárek			39	jednatel společnosti	Přílepy	99	53	0	M
+7201	549720	1	4	902	4	Daniel	Přívara			39	Policie ČR	Přílepy	99	80	0	M
+7201	549720	1	5	901	4	Milan	Staněk			24	skladník	Přílepy	99	80	0	M
+7201	549720	1	1	47	5	Stanislav	Románek	Ing.		78	důchodce	Přílepy	47	47	0	M
+7201	549720	1	2	1	5	Zuzana	Odstrčilíková	Ing.		29	manažer	Přílepy	99	1	0	F
+7201	549720	1	3	53	5	Helena	Kuchařová			67	důchodkyně	Přílepy	99	53	0	F
+7201	549720	1	4	902	5	Jan	Kopřiva			44	technik	Přílepy	99	80	0	M
+7201	549720	1	5	901	5	Martina	Závrbská			39	ekonom	Přílepy	99	80	0	F
+7201	549720	1	1	47	6	Ladislav	Vojtášek		Dis.	27	administrativa	Přílepy	47	47	0	M
+7201	549720	1	2	1	6	Rostislav	Kutra			37	živnostník	Přílepy	99	1	0	M
+7201	549720	1	3	53	6	Libuše	Smékalová			34	dělnice	Přílepy	99	53	0	F
+7201	549720	1	4	902	6	Josef	Hájek			67	projektant	Přílepy	99	80	0	M
+7201	549720	1	5	901	6	Ladislav	Šikula			26	řidič z povolání	Přílepy	99	80	0	M
+7201	549720	1	1	47	7	Milan	Janalík			50	zaměstnanec obce	Přílepy	99	47	0	M
+7201	549720	1	2	1	7	Milada	Hurtíková	MUDr.		57	lékařka	Přílepy	99	1	0	F
+7201	549720	1	3	53	7	Růžena	Staňková			48	účetní	Přílepy	99	53	0	F
+7201	549720	1	4	902	7	Oto	Buchta	Mgr.		36	programátor	Přílepy	99	80	0	M
+7201	549720	1	5	901	7	Pavel	Kováč			47	policista	Přílepy	99	80	0	M
+7201	549720	1	5	901	8	Ludmila	Frantíková			50	dělnice	Přílepy	99	80	0	F

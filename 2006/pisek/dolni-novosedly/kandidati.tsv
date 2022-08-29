@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	562301	1	1	1	1	Josef	Hašek	M			59	zaměstnanec TS	Dolní Novosedly	99	1	0
-3104	562301	1	1	1	2	Blanka	Procházková	F		DiS.	26	účetní	Chrastiny	99	1	0
-3104	562301	1	2	901	1	Zdeněk	Vituj	M			32	soukromý zemědělec	Chrastiny	99	80	0
-3104	562301	1	2	901	2	Vladislav	Komín	M	Ing.		33	programátor	Chrastiny	99	80	0
-3104	562301	1	2	901	3	Martina	Jestřábová	F			34	soukromý zemědělec	Chrastiny	99	80	0
-3104	562301	1	2	901	4	Petr	Husa	M			31	silomistr	Chrastiny	99	80	0
-3104	562301	1	2	901	5	Štěpán	Marek	M			28	živnostník	Chrastiny	99	80	0
-3104	562301	1	2	901	6	Jiří	Skala	M			30	soukromý podnikatel	Dolní Novosedly	99	80	0
-3104	562301	1	3	5	1	Pavel	Pešek	M	Ing.		58	lesní inženýr	Chrastiny	99	5	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	562301	1	1	1	1	Josef	Hašek			59	zaměstnanec TS	Dolní Novosedly	99	1	0	M
+3104	562301	1	2	901	1	Zdeněk	Vituj			32	soukromý zemědělec	Chrastiny	99	80	0	M
+3104	562301	1	3	5	1	Pavel	Pešek	Ing.		58	lesní inženýr	Chrastiny	99	5	0	M
+3104	562301	1	1	1	2	Blanka	Procházková		DiS.	26	účetní	Chrastiny	99	1	0	F
+3104	562301	1	2	901	2	Vladislav	Komín	Ing.		33	programátor	Chrastiny	99	80	0	M
+3104	562301	1	2	901	3	Martina	Jestřábová			34	soukromý zemědělec	Chrastiny	99	80	0	F
+3104	562301	1	2	901	4	Petr	Husa			31	silomistr	Chrastiny	99	80	0	M
+3104	562301	1	2	901	5	Štěpán	Marek			28	živnostník	Chrastiny	99	80	0	M
+3104	562301	1	2	901	6	Jiří	Skala			30	soukromý podnikatel	Dolní Novosedly	99	80	0	M

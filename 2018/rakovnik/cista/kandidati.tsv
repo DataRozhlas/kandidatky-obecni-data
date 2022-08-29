@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	541699	1	1	47	1	Jiří	Votroubek	M			42	obchodní manager	Čistá	99	47	A
-2112	541699	1	1	47	2	Karel	Štětina	M			64	OSVČ	Čistá	47	47	A
-2112	541699	1	1	47	3	Zbyněk	Coufal	M	Ing.		64	OSVČ	Čistá	47	47	A
-2112	541699	1	1	47	4	Libuše	Suchá	F	Bc.		60	důchodkyně	Čistá	47	47	A
-2112	541699	1	1	47	5	Jiří	Průcha	M			54	vedoucí výroby	Čistá	99	47	A
-2112	541699	1	1	47	6	Tomáš	Vopata	M			38	mistr výroby	Čistá	99	47	A
-2112	541699	1	1	47	7	Josef	Nový	M			62	průvodčí	Zdeslav	99	47	A
-2112	541699	1	1	47	8	Martina	Nováková	F			46	vedoucí prodejny	Čistá	99	47	A
-2112	541699	1	1	47	9	Ladislav	Koky	M			59	vedoucí pošty	Čistá	99	47	A
-2112	541699	1	1	47	10	Vlastimila	Štětinová	F			66	důchodkyně	Čistá	99	47	A
-2112	541699	1	1	47	11	Petr	Čech	M			68	důchodce	Čistá	47	47	A
-2112	541699	1	2	901	1	Blanka	Čebišová	F			48	starostka	Čistá	99	80	A
-2112	541699	1	2	901	2	Vlastimil	Schuh	M			46	stárek	Čistá	7	80	A
-2112	541699	1	2	901	3	Kateřina	Lauberová	F	Mgr.		44	učitelka	Čistá	99	80	A
-2112	541699	1	2	901	4	Michal	Pešek	M			43	podnikatel	Čistá	99	80	A
-2112	541699	1	2	901	5	Roman	Votroubek	M			39	vedoucí provozovny	Čistá	99	80	A
-2112	541699	1	2	901	6	Daniel	Váhala	M	Mgr.		43	jáhen	Čistá	99	80	A
-2112	541699	1	2	901	7	Slavěna	Razýmová	F	Mgr.		36	učitelka	Čistá	99	80	A
-2112	541699	1	2	901	8	Michaela	Pešková	F			43	administrativní pracovnice	Zdeslav	99	80	A
-2112	541699	1	2	901	9	Petr	Pirker	M			32	truhlář	Lhota	99	80	A
-2112	541699	1	2	901	10	Miloslav	Valigurčin	M			55	technik	Čistá	99	80	A
-2112	541699	1	2	901	11	Karel	Rohr	M			56	technik	Čistá	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	541699	1	1	47	1	Jiří	Votroubek			42	obchodní manager	Čistá	99	47	A	M
+2112	541699	1	2	901	1	Blanka	Čebišová			48	starostka	Čistá	99	80	A	F
+2112	541699	1	1	47	2	Karel	Štětina			64	OSVČ	Čistá	47	47	A	M
+2112	541699	1	2	901	2	Vlastimil	Schuh			46	stárek	Čistá	7	80	A	M
+2112	541699	1	1	47	3	Zbyněk	Coufal	Ing.		64	OSVČ	Čistá	47	47	A	M
+2112	541699	1	2	901	3	Kateřina	Lauberová	Mgr.		44	učitelka	Čistá	99	80	A	F
+2112	541699	1	1	47	4	Libuše	Suchá	Bc.		60	důchodkyně	Čistá	47	47	A	F
+2112	541699	1	2	901	4	Michal	Pešek			43	podnikatel	Čistá	99	80	A	M
+2112	541699	1	1	47	5	Jiří	Průcha			54	vedoucí výroby	Čistá	99	47	A	M
+2112	541699	1	2	901	5	Roman	Votroubek			39	vedoucí provozovny	Čistá	99	80	A	M
+2112	541699	1	1	47	6	Tomáš	Vopata			38	mistr výroby	Čistá	99	47	A	M
+2112	541699	1	2	901	6	Daniel	Váhala	Mgr.		43	jáhen	Čistá	99	80	A	M
+2112	541699	1	1	47	7	Josef	Nový			62	průvodčí	Zdeslav	99	47	A	M
+2112	541699	1	2	901	7	Slavěna	Razýmová	Mgr.		36	učitelka	Čistá	99	80	A	F
+2112	541699	1	1	47	8	Martina	Nováková			46	vedoucí prodejny	Čistá	99	47	A	F
+2112	541699	1	2	901	8	Michaela	Pešková			43	administrativní pracovnice	Zdeslav	99	80	A	F
+2112	541699	1	1	47	9	Ladislav	Koky			59	vedoucí pošty	Čistá	99	47	A	M
+2112	541699	1	2	901	9	Petr	Pirker			32	truhlář	Lhota	99	80	A	M
+2112	541699	1	1	47	10	Vlastimila	Štětinová			66	důchodkyně	Čistá	99	47	A	F
+2112	541699	1	2	901	10	Miloslav	Valigurčin			55	technik	Čistá	99	80	A	M
+2112	541699	1	1	47	11	Petr	Čech			68	důchodce	Čistá	47	47	A	M
+2112	541699	1	2	901	11	Karel	Rohr			56	technik	Čistá	99	80	A	M

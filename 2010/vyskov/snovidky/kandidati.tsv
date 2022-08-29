@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	593591	1	1	901	1	Petr	Machač	M			42	odborný lesní hospodář	Snovídky	99	80	0
-6206	593591	1	1	901	2	Slavka	Kremzová	F			46	specialista výroby	Snovídky	99	80	0
-6206	593591	1	1	901	3	Petr	Brázda	M			42	truhlář	Snovídky	99	80	0
-6206	593591	1	2	47	1	Václav	Krátký	M			64	stavební technik	Snovídky	99	47	0
-6206	593591	1	2	47	2	Lubomír	Novozámský	M			47	dělník	Snovídky	47	47	0
-6206	593591	1	2	47	3	Jaroslav	Havel	M			61	dozorce depa	Snovídky	47	47	0
-6206	593591	1	2	47	4	René	Zabloudil	M			37	výpravčí	Snovídky	99	47	0
-6206	593591	1	2	47	5	Alena	Zajíčková	F			57	důchodce	Snovídky	99	47	0
-6206	593591	1	2	47	6	Dana	Vysloužilová	F			56	zaměstnanec ČD	Snovídky	99	47	0
-6206	593591	1	2	47	7	Jana	Loučková	F			34	mateřská dovolená	Snovídky	99	47	0
-6206	593591	1	2	47	8	Antonín	Tomeš	M	Ing.		65	strojní inženýr	Snovídky	47	47	0
-6206	593591	1	3	902	1	Miloslav	Masařík	M			39	dělník	Snovídky	99	80	0
-6206	593591	1	3	902	2	Magda	Vaňková	F			45	mateřská dovolená	Snovídky	99	80	0
-6206	593591	1	3	902	3	Pavel	Němeček	M			38	voják z povolání	Snovídky	99	80	0
-6206	593591	1	3	902	4	Ondřej	Loužecký	M			27	osoba samostatně výděl. činná	Snovídky	99	80	0
-6206	593591	1	3	902	5	Tomáš	Zajíček	M			35	elektromontér	Snovídky	99	80	0
-6206	593591	1	3	902	6	Milan	Chini	M			37	dělník	Snovídky	99	80	0
-6206	593591	1	3	902	7	Josef	Straka	M			43	osoba samostatně výděl. činná	Snovídky	99	80	0
-6206	593591	1	3	902	8	Jan	Havel	M			36	dělník	Snovídky	99	80	0
-6206	593591	1	3	902	9	Josef	Zabloudil	M			36	zedník	Snovídky	99	80	0
-6206	593591	1	4	166	1	Jindřich	Voňka	M			50	starosta	Snovídky	99	166	0
-6206	593591	1	4	166	2	Jitka	Častulíková	F			60	důchodce	Snovídky	99	166	0
-6206	593591	1	4	166	3	Josef	Hanák	M			66	podnikatel	Snovídky	99	166	0
-6206	593591	1	4	166	4	Radovan	Pinkava	M			35	podnikatel	Snovídky	99	166	0
-6206	593591	1	4	166	5	Lenka	Mizerová	F			38	nezaměstnaná	Snovídky	99	166	0
-6206	593591	1	4	166	6	Josef	Doupovec	M			38	řidič	Snovídky	99	166	0
-6206	593591	1	4	166	7	Jiří	Trenz	M	Ing.		45	obchodní zástupce	Snovídky	99	166	0
-6206	593591	1	5	7	1	Ladislav	Zelenka	M	Ing.		52	dělník	Snovídky	7	7	0
-6206	593591	1	5	7	2	Marcela	Vodičková	F			34	dělnice	Snovídky	99	7	0
-6206	593591	1	5	7	3	Stanislav	Novotný	M			55	dělník	Snovídky	99	7	0
-6206	593591	1	5	7	4	Miroslav	Vlach	M			61	dělník	Snovídky	99	7	0
-6206	593591	1	6	903	1	Gabriela	Kutilová	F			34	účetní	Snovídky	99	80	0
-6206	593591	1	6	903	2	Jiří	Kremz	M			52	elektromontér	Snovídky	99	80	0
-6206	593591	1	6	903	3	Petra	Mrázková	F			30	mateřská dovolená	Snovídky	99	80	0
-6206	593591	1	6	903	4	Pavel	Masařík	M			63	důchodce	Snovídky	99	80	0
-6206	593591	1	6	903	5	Miroslav	Zapletal	M			59	technik	Snovídky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	593591	1	1	901	1	Petr	Machač			42	odborný lesní hospodář	Snovídky	99	80	0	M
+6206	593591	1	2	47	1	Václav	Krátký			64	stavební technik	Snovídky	99	47	0	M
+6206	593591	1	3	902	1	Miloslav	Masařík			39	dělník	Snovídky	99	80	0	M
+6206	593591	1	4	166	1	Jindřich	Voňka			50	starosta	Snovídky	99	166	0	M
+6206	593591	1	5	7	1	Ladislav	Zelenka	Ing.		52	dělník	Snovídky	7	7	0	M
+6206	593591	1	6	903	1	Gabriela	Kutilová			34	účetní	Snovídky	99	80	0	F
+6206	593591	1	1	901	2	Slavka	Kremzová			46	specialista výroby	Snovídky	99	80	0	F
+6206	593591	1	2	47	2	Lubomír	Novozámský			47	dělník	Snovídky	47	47	0	M
+6206	593591	1	3	902	2	Magda	Vaňková			45	mateřská dovolená	Snovídky	99	80	0	F
+6206	593591	1	4	166	2	Jitka	Častulíková			60	důchodce	Snovídky	99	166	0	F
+6206	593591	1	5	7	2	Marcela	Vodičková			34	dělnice	Snovídky	99	7	0	F
+6206	593591	1	6	903	2	Jiří	Kremz			52	elektromontér	Snovídky	99	80	0	M
+6206	593591	1	1	901	3	Petr	Brázda			42	truhlář	Snovídky	99	80	0	M
+6206	593591	1	2	47	3	Jaroslav	Havel			61	dozorce depa	Snovídky	47	47	0	M
+6206	593591	1	3	902	3	Pavel	Němeček			38	voják z povolání	Snovídky	99	80	0	M
+6206	593591	1	4	166	3	Josef	Hanák			66	podnikatel	Snovídky	99	166	0	M
+6206	593591	1	5	7	3	Stanislav	Novotný			55	dělník	Snovídky	99	7	0	M
+6206	593591	1	6	903	3	Petra	Mrázková			30	mateřská dovolená	Snovídky	99	80	0	F
+6206	593591	1	2	47	4	René	Zabloudil			37	výpravčí	Snovídky	99	47	0	M
+6206	593591	1	3	902	4	Ondřej	Loužecký			27	osoba samostatně výděl. činná	Snovídky	99	80	0	M
+6206	593591	1	4	166	4	Radovan	Pinkava			35	podnikatel	Snovídky	99	166	0	M
+6206	593591	1	5	7	4	Miroslav	Vlach			61	dělník	Snovídky	99	7	0	M
+6206	593591	1	6	903	4	Pavel	Masařík			63	důchodce	Snovídky	99	80	0	M
+6206	593591	1	2	47	5	Alena	Zajíčková			57	důchodce	Snovídky	99	47	0	F
+6206	593591	1	3	902	5	Tomáš	Zajíček			35	elektromontér	Snovídky	99	80	0	M
+6206	593591	1	4	166	5	Lenka	Mizerová			38	nezaměstnaná	Snovídky	99	166	0	F
+6206	593591	1	6	903	5	Miroslav	Zapletal			59	technik	Snovídky	99	80	0	M
+6206	593591	1	2	47	6	Dana	Vysloužilová			56	zaměstnanec ČD	Snovídky	99	47	0	F
+6206	593591	1	3	902	6	Milan	Chini			37	dělník	Snovídky	99	80	0	M
+6206	593591	1	4	166	6	Josef	Doupovec			38	řidič	Snovídky	99	166	0	M
+6206	593591	1	2	47	7	Jana	Loučková			34	mateřská dovolená	Snovídky	99	47	0	F
+6206	593591	1	3	902	7	Josef	Straka			43	osoba samostatně výděl. činná	Snovídky	99	80	0	M
+6206	593591	1	4	166	7	Jiří	Trenz	Ing.		45	obchodní zástupce	Snovídky	99	166	0	M
+6206	593591	1	2	47	8	Antonín	Tomeš	Ing.		65	strojní inženýr	Snovídky	47	47	0	M
+6206	593591	1	3	902	8	Jan	Havel			36	dělník	Snovídky	99	80	0	M
+6206	593591	1	3	902	9	Josef	Zabloudil			36	zedník	Snovídky	99	80	0	M

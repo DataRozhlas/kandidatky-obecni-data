@@ -1,32 +1,32 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6104	591165	1	1	903	1	Lubomír	Baštář	M			35	OSVČ	Mladoňovice	99	80	0
-6104	591165	1	1	903	2	František	Teplý	M			37	dělník	Mladoňovice	99	80	0
-6104	591165	1	1	903	3	Libor	Novák	M			34	operátor ve výrobě	Mladoňovice	99	80	0
-6104	591165	1	1	903	4	Jan	Coufal	M			44	OSVČ	Mladoňovice	99	80	0
-6104	591165	1	2	902	1	Jan	Chloupek	M			38	člen ZD	Mladoňovice	99	80	0
-6104	591165	1	2	902	2	Luboš	John	M			45	dělník	Mladoňovice	99	80	0
-6104	591165	1	2	902	3	Jiří	Daňhel	M			36	člen ZD	Mladoňovice	99	80	0
-6104	591165	1	2	902	4	Pavel	Zvěřina	M			43	dělník	Mladoňovice	99	80	0
-6104	591165	1	2	902	5	Josef	Abrahám	M			49	soukromý podnikatel	Mladoňovice	99	80	0
-6104	591165	1	2	902	6	Jiří	Tobolka	M			45	člen ZD	Mladoňovice	99	80	0
-6104	591165	1	2	902	7	Petr	Benda	M			30	kuchař	Mladoňovice	99	80	0
-6104	591165	1	2	902	8	František	Nekula	M			52	člen ZD	Mladoňovice	99	80	0
-6104	591165	1	2	902	9	Jan	Ježek	M			44	člen ZD	Mladoňovice	99	80	0
-6104	591165	1	3	1	1	Miroslav	Vrbka	M			58	soukromý podnikatel	Mladoňovice	1	1	0
-6104	591165	1	3	1	2	Ladislav	Karásek	M			50	soukromý podnikatel	Mladoňovice	99	1	0
-6104	591165	1	3	1	3	Jiří	Šimka	M			42	dělník	Mladoňovice	1	1	0
-6104	591165	1	3	1	4	Pavel	Jordánek	M			26	truhlář	Mladoňovice	99	1	0
-6104	591165	1	3	1	5	Tomáš	Nekula	M			73	důchodce	Mladoňovice	1	1	0
-6104	591165	1	3	1	6	František	Nehyba	M			48	dělník	Mladoňovice	99	1	0
-6104	591165	1	3	1	7	Stanislav	Matějka	M			69	důchodce	Mladoňovice	1	1	0
-6104	591165	1	3	1	8	Jan	Nekula	M			51	člen ZD	Mladoňovice	99	1	0
-6104	591165	1	3	1	9	Stanislav	John	M			50	člen ZD	Mladoňovice	99	1	0
-6104	591165	1	4	901	1	Jan	Chloupek	M			66	důchodce	Mladoňovice	99	80	0
-6104	591165	1	4	901	2	Miloš	Křivan	M	Ing.		43	technik	Mladoňovice	99	80	0
-6104	591165	1	4	901	3	Jaroslav	Nekula	M	Ing.		38	technik	Mladoňovice	99	80	0
-6104	591165	1	4	901	4	Pavel	Svoboda	M			38	soukromý podnikatel	Mladoňovice	99	80	0
-6104	591165	1	4	901	5	Milan	Máca	M			46	automechanik	Mladoňovice	99	80	0
-6104	591165	1	4	901	6	Ladislav	Daňhel	M			53	člen ZD	Mladoňovice	99	80	0
-6104	591165	1	4	901	7	Vladimír	Nekula	M			59	technik	Mladoňovice	99	80	0
-6104	591165	1	4	901	8	Zdenek	Studený	M			53	dělník	Mladoňovice	99	80	0
-6104	591165	1	4	901	9	Josef	Fučík	M			70	důchodce	Mladoňovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6104	591165	1	1	903	1	Lubomír	Baštář			35	OSVČ	Mladoňovice	99	80	0	M
+6104	591165	1	2	902	1	Jan	Chloupek			38	člen ZD	Mladoňovice	99	80	0	M
+6104	591165	1	3	1	1	Miroslav	Vrbka			58	soukromý podnikatel	Mladoňovice	1	1	0	M
+6104	591165	1	4	901	1	Jan	Chloupek			66	důchodce	Mladoňovice	99	80	0	M
+6104	591165	1	1	903	2	František	Teplý			37	dělník	Mladoňovice	99	80	0	M
+6104	591165	1	2	902	2	Luboš	John			45	dělník	Mladoňovice	99	80	0	M
+6104	591165	1	3	1	2	Ladislav	Karásek			50	soukromý podnikatel	Mladoňovice	99	1	0	M
+6104	591165	1	4	901	2	Miloš	Křivan	Ing.		43	technik	Mladoňovice	99	80	0	M
+6104	591165	1	1	903	3	Libor	Novák			34	operátor ve výrobě	Mladoňovice	99	80	0	M
+6104	591165	1	2	902	3	Jiří	Daňhel			36	člen ZD	Mladoňovice	99	80	0	M
+6104	591165	1	3	1	3	Jiří	Šimka			42	dělník	Mladoňovice	1	1	0	M
+6104	591165	1	4	901	3	Jaroslav	Nekula	Ing.		38	technik	Mladoňovice	99	80	0	M
+6104	591165	1	1	903	4	Jan	Coufal			44	OSVČ	Mladoňovice	99	80	0	M
+6104	591165	1	2	902	4	Pavel	Zvěřina			43	dělník	Mladoňovice	99	80	0	M
+6104	591165	1	3	1	4	Pavel	Jordánek			26	truhlář	Mladoňovice	99	1	0	M
+6104	591165	1	4	901	4	Pavel	Svoboda			38	soukromý podnikatel	Mladoňovice	99	80	0	M
+6104	591165	1	2	902	5	Josef	Abrahám			49	soukromý podnikatel	Mladoňovice	99	80	0	M
+6104	591165	1	3	1	5	Tomáš	Nekula			73	důchodce	Mladoňovice	1	1	0	M
+6104	591165	1	4	901	5	Milan	Máca			46	automechanik	Mladoňovice	99	80	0	M
+6104	591165	1	2	902	6	Jiří	Tobolka			45	člen ZD	Mladoňovice	99	80	0	M
+6104	591165	1	3	1	6	František	Nehyba			48	dělník	Mladoňovice	99	1	0	M
+6104	591165	1	4	901	6	Ladislav	Daňhel			53	člen ZD	Mladoňovice	99	80	0	M
+6104	591165	1	2	902	7	Petr	Benda			30	kuchař	Mladoňovice	99	80	0	M
+6104	591165	1	3	1	7	Stanislav	Matějka			69	důchodce	Mladoňovice	1	1	0	M
+6104	591165	1	4	901	7	Vladimír	Nekula			59	technik	Mladoňovice	99	80	0	M
+6104	591165	1	2	902	8	František	Nekula			52	člen ZD	Mladoňovice	99	80	0	M
+6104	591165	1	3	1	8	Jan	Nekula			51	člen ZD	Mladoňovice	99	1	0	M
+6104	591165	1	4	901	8	Zdenek	Studený			53	dělník	Mladoňovice	99	80	0	M
+6104	591165	1	2	902	9	Jan	Ježek			44	člen ZD	Mladoňovice	99	80	0	M
+6104	591165	1	3	1	9	Stanislav	John			50	člen ZD	Mladoňovice	99	1	0	M
+6104	591165	1	4	901	9	Josef	Fučík			70	důchodce	Mladoňovice	99	80	0	M

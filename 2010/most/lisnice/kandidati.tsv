@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4205	567248	1	1	802	1	Miloslava	Krausová	F			55	Prodavačka	Lišnice	99	80	0
-4205	567248	1	2	801	1	Václav	Korel	M			46	řidič	Lišnice	99	80	0
-4205	567248	1	3	53	1	Petr	Pillár	M			47	starosta	Lišnice	99	53	0
-4205	567248	1	3	53	2	Zdeněk	Hrabák	M	Ing.		62	jednatel společnosti	Lišnice	53	53	0
-4205	567248	1	3	53	3	Alena	Turnovská	F			52	účetní	Lišnice	99	53	0
-4205	567248	1	3	53	4	Karel	Kaliba	M			39	umělecký štukatér	Koporeč	99	53	0
-4205	567248	1	3	53	5	Josef	Laštovka	M			26	dělník	Lišnice	99	53	0
-4205	567248	1	3	53	6	Vladimír	Veselý	M	Ing.		56	učitel	Lišnice	99	53	0
-4205	567248	1	3	53	7	Oldřich	Hájek	M			54	živnostník	Nemilkov	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4205	567248	1	1	802	1	Miloslava	Krausová			55	Prodavačka	Lišnice	99	80	0	F
+4205	567248	1	2	801	1	Václav	Korel			46	řidič	Lišnice	99	80	0	M
+4205	567248	1	3	53	1	Petr	Pillár			47	starosta	Lišnice	99	53	0	M
+4205	567248	1	3	53	2	Zdeněk	Hrabák	Ing.		62	jednatel společnosti	Lišnice	53	53	0	M
+4205	567248	1	3	53	3	Alena	Turnovská			52	účetní	Lišnice	99	53	0	F
+4205	567248	1	3	53	4	Karel	Kaliba			39	umělecký štukatér	Koporeč	99	53	0	M
+4205	567248	1	3	53	5	Josef	Laštovka			26	dělník	Lišnice	99	53	0	M
+4205	567248	1	3	53	6	Vladimír	Veselý	Ing.		56	učitel	Lišnice	99	53	0	M
+4205	567248	1	3	53	7	Oldřich	Hájek			54	živnostník	Nemilkov	99	53	0	M

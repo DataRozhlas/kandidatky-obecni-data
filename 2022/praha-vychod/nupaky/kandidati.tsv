@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2109	564907	1	1	1521	1	Lukáš	Gilík	M			47	obchodní manažer	Nupaky	1232	1232	A
-2109	564907	1	1	1521	2	Václav	Šafránek	M			47	podnikatel	Nupaky	99	80	A
-2109	564907	1	1	1521	3	David	Hošťálek	M			42	regionální manažer	Nupaky	99	80	A
-2109	564907	1	1	1521	4	Miroslav	Průša	M			57	obchodní manažer	Nupaky	99	80	A
-2109	564907	1	1	1521	5	Adrián	Senaj	M			44	podnikatel	Nupaky	99	80	A
-2109	564907	1	1	1521	6	Alena	Kučová	F			31	podnikatel	Nupaky	99	80	A
-2109	564907	1	1	1521	7	Vladimír	Aron	M			50	invalidní důchodce	Nupaky	99	80	A
-2109	564907	1	2	470	1	Václav	Řezáč	M	Ing.		65	soukromý zemědělec, zastupitel obce Nupaky	Nupaky	99	166	A
-2109	564907	1	2	470	2	Kateřina	Málková	F			46	výkonný ředitel obchodní společnosti, zastupitelka obce Nupaky	Nupaky	99	80	A
-2109	564907	1	2	470	3	Tomáš	Tůma	M	Ing.		58	obchodní ředitel	Nupaky	99	80	A
-2109	564907	1	2	470	4	Pavla	Kučerová	F			50	produktový manažer	Nupaky	99	80	A
-2109	564907	1	2	470	5	Marcel	Berger	M			50	vývojář softwaru	Nupaky	99	80	A
-2109	564907	1	2	470	6	Petr	Šindelář	M			48	podnikatel	Nupaky	99	80	A
-2109	564907	1	2	470	7	Matyáš	Olmr	M			30	podnikatel	Nupaky	99	80	A
-2109	564907	1	2	470	8	Lubomíra	Ponížilová Koutová	F	MgA.		45	moderátorka	Nupaky	99	80	A
-2109	564907	1	2	470	9	Patrícia	Baksayová	F			46	manažer prodeje	Nupaky	99	80	A
-2109	564907	1	3	389	1	Jana	Penkalová	F	Ing.		39	referent na městském úřadu	Nupaky	99	53	A
-2109	564907	1	3	389	2	Jiří	Hoffmann	M			53	specialista marketingu	Nupaky	53	53	A
-2109	564907	1	3	389	3	Erika	Vosáhlová	F	Mgr.		48	OSVČ	Nupaky	99	53	A
-2109	564907	1	3	389	4	Monika	Kronovetrová	F			44	analytik	Nupaky	99	53	A
-2109	564907	1	3	389	5	Jan	Penkala	M	Ing.		39	OSVČ	Nupaky	99	53	A
-2109	564907	1	3	389	6	Zdeněk	Šaur	M			40	obchodní a produktový ředitel	Nupaky	99	53	A
-2109	564907	1	3	389	7	Pavel	Kubík	M	Mgr.		41	programátor	Nupaky	99	53	A
-2109	564907	1	3	389	8	Anna	Wimmerová	F	Ing.		40	OSVČ	Nupaky	99	80	A
-2109	564907	1	3	389	9	Petr	Klouda	M			38	prodejce	Nupaky	99	53	A
-2109	564907	1	4	901	1	Markéta	Felsingerová	F	Ing.	MBA	36	ekonom	Nupaky	99	80	A
-2109	564907	1	4	901	2	Josef	Beran	M	Mgr.		40	advokát	Nupaky	99	80	A
-2109	564907	1	4	901	3	Jana	Hynková	F	Ing.		43	státní zaměstnanec	Nupaky	99	80	A
-2109	564907	1	4	901	4	Richard	Pešek	M			31	státní zaměstnanec	Nupaky	99	80	A
-2109	564907	1	4	901	5	Přemysl	Procházka	M			37	státní zaměstnanec	Nupaky	99	80	A
-2109	564907	1	4	901	6	Helena	Šormová	F			35	personalistka	Nupaky	99	80	A
-2109	564907	1	4	901	7	Volodymyr Josypovyč	Pukiš	M			44	technický manažer ve stavebnictví	Nupaky	99	80	A
-2109	564907	1	4	901	8	Aneta	Lyčková	F	Ing.		40	administrativní pracovník v investiční společnosti	Nupaky	99	80	A
-2109	564907	1	4	901	9	Aleš	Slavkovský	M			32	pracovník v automotive	Nupaky	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2109	564907	1	1	1521	1	Lukáš	Gilík			47	obchodní manažer	Nupaky	1232	1232	A	M
+2109	564907	1	2	470	1	Václav	Řezáč	Ing.		65	soukromý zemědělec, zastupitel obce Nupaky	Nupaky	99	166	A	M
+2109	564907	1	3	389	1	Jana	Penkalová	Ing.		39	referent na městském úřadu	Nupaky	99	53	A	F
+2109	564907	1	4	901	1	Markéta	Felsingerová	Ing.	MBA	36	ekonom	Nupaky	99	80	A	F
+2109	564907	1	1	1521	2	Václav	Šafránek			47	podnikatel	Nupaky	99	80	A	M
+2109	564907	1	2	470	2	Kateřina	Málková			46	výkonný ředitel obchodní společnosti, zastupitelka obce Nupaky	Nupaky	99	80	A	F
+2109	564907	1	3	389	2	Jiří	Hoffmann			53	specialista marketingu	Nupaky	53	53	A	M
+2109	564907	1	4	901	2	Josef	Beran	Mgr.		40	advokát	Nupaky	99	80	A	M
+2109	564907	1	1	1521	3	David	Hošťálek			42	regionální manažer	Nupaky	99	80	A	M
+2109	564907	1	2	470	3	Tomáš	Tůma	Ing.		58	obchodní ředitel	Nupaky	99	80	A	M
+2109	564907	1	3	389	3	Erika	Vosáhlová	Mgr.		48	OSVČ	Nupaky	99	53	A	F
+2109	564907	1	4	901	3	Jana	Hynková	Ing.		43	státní zaměstnanec	Nupaky	99	80	A	F
+2109	564907	1	1	1521	4	Miroslav	Průša			57	obchodní manažer	Nupaky	99	80	A	M
+2109	564907	1	2	470	4	Pavla	Kučerová			50	produktový manažer	Nupaky	99	80	A	F
+2109	564907	1	3	389	4	Monika	Kronovetrová			44	analytik	Nupaky	99	53	A	F
+2109	564907	1	4	901	4	Richard	Pešek			31	státní zaměstnanec	Nupaky	99	80	A	M
+2109	564907	1	1	1521	5	Adrián	Senaj			44	podnikatel	Nupaky	99	80	A	M
+2109	564907	1	2	470	5	Marcel	Berger			50	vývojář softwaru	Nupaky	99	80	A	M
+2109	564907	1	3	389	5	Jan	Penkala	Ing.		39	OSVČ	Nupaky	99	53	A	M
+2109	564907	1	4	901	5	Přemysl	Procházka			37	státní zaměstnanec	Nupaky	99	80	A	M
+2109	564907	1	1	1521	6	Alena	Kučová			31	podnikatel	Nupaky	99	80	A	F
+2109	564907	1	2	470	6	Petr	Šindelář			48	podnikatel	Nupaky	99	80	A	M
+2109	564907	1	3	389	6	Zdeněk	Šaur			40	obchodní a produktový ředitel	Nupaky	99	53	A	M
+2109	564907	1	4	901	6	Helena	Šormová			35	personalistka	Nupaky	99	80	A	F
+2109	564907	1	1	1521	7	Vladimír	Aron			50	invalidní důchodce	Nupaky	99	80	A	M
+2109	564907	1	2	470	7	Matyáš	Olmr			30	podnikatel	Nupaky	99	80	A	M
+2109	564907	1	3	389	7	Pavel	Kubík	Mgr.		41	programátor	Nupaky	99	53	A	M
+2109	564907	1	4	901	7	Volodymyr Josypovyč	Pukiš			44	technický manažer ve stavebnictví	Nupaky	99	80	A	M
+2109	564907	1	2	470	8	Lubomíra	Ponížilová Koutová	MgA.		45	moderátorka	Nupaky	99	80	A	F
+2109	564907	1	3	389	8	Anna	Wimmerová	Ing.		40	OSVČ	Nupaky	99	80	A	F
+2109	564907	1	4	901	8	Aneta	Lyčková	Ing.		40	administrativní pracovník v investiční společnosti	Nupaky	99	80	A	F
+2109	564907	1	2	470	9	Patrícia	Baksayová			46	manažer prodeje	Nupaky	99	80	A	F
+2109	564907	1	3	389	9	Petr	Klouda			38	prodejce	Nupaky	99	53	A	M
+2109	564907	1	4	901	9	Aleš	Slavkovský			32	pracovník v automotive	Nupaky	99	80	A	M

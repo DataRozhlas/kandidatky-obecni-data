@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6102	588113	1	1	902	1	Roman	Fürst	M	Ing.		40	státní zaměstnanec	Velký Beranov	99	80	0
-6102	588113	1	1	902	2	Josef	Barák	M	Ing.		63	důchodce	Velký Beranov	99	80	0
-6102	588113	1	1	902	3	Jan	Plevčík	M	JUDr.		62	důchodce	Velký Beranov	99	80	0
-6102	588113	1	1	902	4	Jana	Nevosadová	F			50	podnikatelka	Velký Beranov	721	80	0
-6102	588113	1	1	902	5	Petr	Švoma	M			33	programátor	Velký Beranov	99	80	0
-6102	588113	1	1	902	6	Milan	Benáček	M			34	zámečník	Velký Beranov	99	80	0
-6102	588113	1	1	902	7	Josef	Vrzáček	M			39	hasič	Velký Beranov	99	80	0
-6102	588113	1	1	902	8	Josef	Bělohlávek	M			39	podnikatel	Velký Beranov	99	80	0
-6102	588113	1	1	902	9	Ivan	Dvořák	M			46	podnikatel	Velký Beranov	99	80	0
-6102	588113	1	1	902	10	Petr	Zámek	M			49	instalatér	Velký Beranov	99	80	0
-6102	588113	1	1	902	11	Veronika	Vokounová	F			21	nezaměstnaná	Velký Beranov	99	80	0
-6102	588113	1	1	902	12	Lubomír	Vokoun	M			50	podnikatel	Velký Beranov	99	80	0
-6102	588113	1	1	902	13	František	Horký	M			42	jednatel společnosti	Velký Beranov	99	80	0
-6102	588113	1	1	902	14	Zdeňka	Kansvohlová	F	Ing.		41	dáv. specialista ÚP Jihlava	Velký Beranov	99	80	0
-6102	588113	1	1	902	15	Lenka	Indrová	F			46	úřednice	Velký Beranov	99	80	0
-6102	588113	1	2	901	1	Bohumil	Kříž	M			58	učitel	Velký Beranov	99	80	0
-6102	588113	1	2	901	2	Eduard	Matula	M			44	mistr stavební výroby	Jeclov	99	80	0
-6102	588113	1	2	901	3	Ludvík	Zámek	M			58	řidič	Velký Beranov	99	80	0
-6102	588113	1	2	901	4	Marie	Švengrová	F			52	úřednice	Velký Beranov	99	80	0
-6102	588113	1	2	901	5	Vítězslav	Šlesár	M			37	dělník	Bradlo	99	80	0
-6102	588113	1	2	901	6	Pavel	Maslák	M	Mgr.		38	ředitel HZS ÚO Třebíč	Velký Beranov	99	80	0
-6102	588113	1	2	901	7	Milan	Pulicar	M			38	mistr	Velký Beranov	99	80	0
-6102	588113	1	2	901	8	Petr	Kovařík	M	Mgr.		37	vedoucí laboratoře	Velký Beranov	99	80	0
-6102	588113	1	2	901	9	Bohumil	Drahozal	M			56	technik	Velký Beranov	99	80	0
-6102	588113	1	2	901	10	Lubomír	Komůrka	M			59	podnikatel	Velký Beranov	99	80	0
-6102	588113	1	2	901	11	Zdeněk	Bartušek	M			39	dělník	Velký Beranov	99	80	0
-6102	588113	1	2	901	12	Oldřich	Musil	M	Ing.		61	živnostník	Velký Beranov	99	80	0
-6102	588113	1	2	901	13	Jiří	Ripper	M			50	technický vedoucí	Velký Beranov	99	80	0
-6102	588113	1	2	901	14	Petr	Ullmann	M			65	důchodce	Velký Beranov	99	80	0
-6102	588113	1	2	901	15	Miroslav	Matoušek	M			63	důchodce	Velký Beranov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6102	588113	1	1	902	1	Roman	Fürst	Ing.		40	státní zaměstnanec	Velký Beranov	99	80	0	M
+6102	588113	1	2	901	1	Bohumil	Kříž			58	učitel	Velký Beranov	99	80	0	M
+6102	588113	1	1	902	2	Josef	Barák	Ing.		63	důchodce	Velký Beranov	99	80	0	M
+6102	588113	1	2	901	2	Eduard	Matula			44	mistr stavební výroby	Jeclov	99	80	0	M
+6102	588113	1	1	902	3	Jan	Plevčík	JUDr.		62	důchodce	Velký Beranov	99	80	0	M
+6102	588113	1	2	901	3	Ludvík	Zámek			58	řidič	Velký Beranov	99	80	0	M
+6102	588113	1	1	902	4	Jana	Nevosadová			50	podnikatelka	Velký Beranov	721	80	0	F
+6102	588113	1	2	901	4	Marie	Švengrová			52	úřednice	Velký Beranov	99	80	0	F
+6102	588113	1	1	902	5	Petr	Švoma			33	programátor	Velký Beranov	99	80	0	M
+6102	588113	1	2	901	5	Vítězslav	Šlesár			37	dělník	Bradlo	99	80	0	M
+6102	588113	1	1	902	6	Milan	Benáček			34	zámečník	Velký Beranov	99	80	0	M
+6102	588113	1	2	901	6	Pavel	Maslák	Mgr.		38	ředitel HZS ÚO Třebíč	Velký Beranov	99	80	0	M
+6102	588113	1	1	902	7	Josef	Vrzáček			39	hasič	Velký Beranov	99	80	0	M
+6102	588113	1	2	901	7	Milan	Pulicar			38	mistr	Velký Beranov	99	80	0	M
+6102	588113	1	1	902	8	Josef	Bělohlávek			39	podnikatel	Velký Beranov	99	80	0	M
+6102	588113	1	2	901	8	Petr	Kovařík	Mgr.		37	vedoucí laboratoře	Velký Beranov	99	80	0	M
+6102	588113	1	1	902	9	Ivan	Dvořák			46	podnikatel	Velký Beranov	99	80	0	M
+6102	588113	1	2	901	9	Bohumil	Drahozal			56	technik	Velký Beranov	99	80	0	M
+6102	588113	1	1	902	10	Petr	Zámek			49	instalatér	Velký Beranov	99	80	0	M
+6102	588113	1	2	901	10	Lubomír	Komůrka			59	podnikatel	Velký Beranov	99	80	0	M
+6102	588113	1	1	902	11	Veronika	Vokounová			21	nezaměstnaná	Velký Beranov	99	80	0	F
+6102	588113	1	2	901	11	Zdeněk	Bartušek			39	dělník	Velký Beranov	99	80	0	M
+6102	588113	1	1	902	12	Lubomír	Vokoun			50	podnikatel	Velký Beranov	99	80	0	M
+6102	588113	1	2	901	12	Oldřich	Musil	Ing.		61	živnostník	Velký Beranov	99	80	0	M
+6102	588113	1	1	902	13	František	Horký			42	jednatel společnosti	Velký Beranov	99	80	0	M
+6102	588113	1	2	901	13	Jiří	Ripper			50	technický vedoucí	Velký Beranov	99	80	0	M
+6102	588113	1	1	902	14	Zdeňka	Kansvohlová	Ing.		41	dáv. specialista ÚP Jihlava	Velký Beranov	99	80	0	F
+6102	588113	1	2	901	14	Petr	Ullmann			65	důchodce	Velký Beranov	99	80	0	M
+6102	588113	1	1	902	15	Lenka	Indrová			46	úřednice	Velký Beranov	99	80	0	F
+6102	588113	1	2	901	15	Miroslav	Matoušek			63	důchodce	Velký Beranov	99	80	0	M

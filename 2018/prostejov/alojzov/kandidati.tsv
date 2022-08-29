@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	506761	1	1	903	1	Jaromír	Mazal	M	Ing.		65	důchodce	Alojzov	99	80	A
-7103	506761	1	1	903	2	Eva	Červená	F			52	pracovník VLS	Alojzov	99	80	A
-7103	506761	1	1	903	3	Jaroslav	Dostál	M	Ing.		32	technik	Alojzov	99	80	A
-7103	506761	1	1	903	4	Alena	Heitmarová	F			61	šička	Alojzov	99	80	A
-7103	506761	1	1	903	5	Ivo	Schomek	M			51	údržbář	Alojzov	99	80	A
-7103	506761	1	2	902	1	Miroslav	Grulich	M			62	OSVČ	Alojzov	99	80	A
-7103	506761	1	2	902	2	Zdeněk	Procházka	M			64	starobní důchodce	Alojzov	99	80	A
-7103	506761	1	2	902	3	Julie	Oulehlová	F			36	mateřská dovolená	Alojzov	99	80	A
-7103	506761	1	2	902	4	Vladimír	Jaroš	M			45	zaměstnanec	Alojzov	99	80	A
-7103	506761	1	2	902	5	Alena	Pluhařová	F			58	OSVČ	Alojzov	99	80	A
-7103	506761	1	2	902	6	Milan	Slezák	M			54	zaměstnanec	Alojzov	99	80	A
-7103	506761	1	3	901	1	Jozef	Paníček	M			64	OSVČ	Alojzov	99	80	A
-7103	506761	1	3	901	2	Petra	Omelka	F			31	zaměstnanec	Alojzov	99	80	A
-7103	506761	1	3	901	3	Martin	Samson	M			45	zaměstnanec	Alojzov	99	80	A
-7103	506761	1	3	901	4	Tomáš	Svoboda	M			48	OSVČ	Alojzov	99	80	A
-7103	506761	1	3	901	5	Eva	Žáková	F			22	zaměstnanec	Alojzov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	506761	1	1	903	1	Jaromír	Mazal	Ing.		65	důchodce	Alojzov	99	80	A	M
+7103	506761	1	2	902	1	Miroslav	Grulich			62	OSVČ	Alojzov	99	80	A	M
+7103	506761	1	3	901	1	Jozef	Paníček			64	OSVČ	Alojzov	99	80	A	M
+7103	506761	1	1	903	2	Eva	Červená			52	pracovník VLS	Alojzov	99	80	A	F
+7103	506761	1	2	902	2	Zdeněk	Procházka			64	starobní důchodce	Alojzov	99	80	A	M
+7103	506761	1	3	901	2	Petra	Omelka			31	zaměstnanec	Alojzov	99	80	A	F
+7103	506761	1	1	903	3	Jaroslav	Dostál	Ing.		32	technik	Alojzov	99	80	A	M
+7103	506761	1	2	902	3	Julie	Oulehlová			36	mateřská dovolená	Alojzov	99	80	A	F
+7103	506761	1	3	901	3	Martin	Samson			45	zaměstnanec	Alojzov	99	80	A	M
+7103	506761	1	1	903	4	Alena	Heitmarová			61	šička	Alojzov	99	80	A	F
+7103	506761	1	2	902	4	Vladimír	Jaroš			45	zaměstnanec	Alojzov	99	80	A	M
+7103	506761	1	3	901	4	Tomáš	Svoboda			48	OSVČ	Alojzov	99	80	A	M
+7103	506761	1	1	903	5	Ivo	Schomek			51	údržbář	Alojzov	99	80	A	M
+7103	506761	1	2	902	5	Alena	Pluhařová			58	OSVČ	Alojzov	99	80	A	F
+7103	506761	1	3	901	5	Eva	Žáková			22	zaměstnanec	Alojzov	99	80	A	F
+7103	506761	1	2	902	6	Milan	Slezák			54	zaměstnanec	Alojzov	99	80	A	M

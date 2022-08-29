@@ -1,33 +1,33 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	594083	1	1	166	1	Radim	Jelínek	M			29	vedoucí výrobního úseku	Horní Dubňany	99	166	0
-6207	594083	1	1	166	2	Martina	Jelínková	F			37	mateřská dovolená	Horní Dubňany	99	166	0
-6207	594083	1	1	166	3	Jarmila	Pillařová	F			59	důchodce	Horní Dubňany	99	166	0
-6207	594083	1	1	166	4	Petr	Pillař	M			47	dělník	Horní Dubňany	99	166	0
-6207	594083	1	1	166	5	Miroslav	Pillař	M			19	student	Horní Dubňany	99	166	0
-6207	594083	1	2	137	1	Pavel	Maštalíř	M			55	malíř - natěrač	Horní Dubňany	99	137	0
-6207	594083	1	2	137	2	Jiřina	Smejkalová	F			45	sekretářka	Horní Dubňany	99	137	0
-6207	594083	1	2	137	3	Václav	Kameník	M			43	zámečník	Horní Dubňany	99	137	0
-6207	594083	1	2	137	4	Lydie	Denková	F			43	instruktorka	Horní Dubňany	99	137	0
-6207	594083	1	2	137	5	Hana	Fučíková	F			23	masérka	Horní Dubňany	99	137	0
-6207	594083	1	2	137	6	Pavlína	Jílková	F			32	zahradnice	Horní Dubňany	99	137	0
-6207	594083	1	2	137	7	Jana	Hájková	F			43	uklízečka	Horní Dubňany	99	137	0
-6207	594083	1	2	137	8	Marie	Šmerdová	F			39	prodavačka	Horní Dubňany	99	137	0
-6207	594083	1	2	137	9	Lucie	Chvátalová	F			19	studentka	Horní Dubňany	99	137	0
-6207	594083	1	3	901	1	Karel	Paseka	M			47	truhlář	Horní Dubňany	99	80	0
-6207	594083	1	3	901	2	Zdeněk	Horáček	M			54	strojní zámečník	Horní Dubňany	99	80	0
-6207	594083	1	3	901	3	Jiří	Maštalíř	M			33	zahradník	Horní Dubňany	99	80	0
-6207	594083	1	3	901	4	Pavla	Machátová	F			29	kadeřnice	Horní Dubňany	99	80	0
-6207	594083	1	3	901	5	Miloslava	Holasová	F			59	důchodce	Horní Dubňany	99	80	0
-6207	594083	1	3	901	6	Miroslav	Jelínek	M			49	opravář zemědělských strojů	Horní Dubňany	99	80	0
-6207	594083	1	3	901	7	Jana	Nováčková	F			44	řidič prac.strojů	Horní Dubňany	99	80	0
-6207	594083	1	3	901	8	Zdeňka	Opálková	F			54	truhlářka	Horní Dubňany	99	80	0
-6207	594083	1	3	901	9	Josef	Hrůza	M			39	mechanik - opravář	Horní Dubňany	99	80	0
-6207	594083	1	4	7	1	Jiří	Stanislav	M	Bc.		63	starosta obce	Horní Dubňany	99	7	0
-6207	594083	1	4	7	2	Bořivoj	Chvátal	M			57	zámečník	Horní Dubňany	99	7	0
-6207	594083	1	4	7	3	Josef	Maštalíř	M			42	zámečník	Horní Dubňany	99	7	0
-6207	594083	1	4	7	4	František	Denk	M			42	zámečník	Horní Dubňany	99	7	0
-6207	594083	1	4	7	5	Lubomír	Potůček	M			53	zedník	Horní Dubňany	99	7	0
-6207	594083	1	4	7	6	David	Maštalíř	M			21	truhlář - tesař	Horní Dubňany	99	7	0
-6207	594083	1	4	7	7	Jiří	Tručka	M			31	řezník	Horní Dubňany	99	7	0
-6207	594083	1	4	7	8	Zdeněk	Fučík	M			24	umělecký kovář	Horní Dubňany	99	7	0
-6207	594083	1	4	7	9	Pavel	Votoupal	M			19	student	Horní Dubňany	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	594083	1	1	166	1	Radim	Jelínek			29	vedoucí výrobního úseku	Horní Dubňany	99	166	0	M
+6207	594083	1	2	137	1	Pavel	Maštalíř			55	malíř - natěrač	Horní Dubňany	99	137	0	M
+6207	594083	1	3	901	1	Karel	Paseka			47	truhlář	Horní Dubňany	99	80	0	M
+6207	594083	1	4	7	1	Jiří	Stanislav	Bc.		63	starosta obce	Horní Dubňany	99	7	0	M
+6207	594083	1	1	166	2	Martina	Jelínková			37	mateřská dovolená	Horní Dubňany	99	166	0	F
+6207	594083	1	2	137	2	Jiřina	Smejkalová			45	sekretářka	Horní Dubňany	99	137	0	F
+6207	594083	1	3	901	2	Zdeněk	Horáček			54	strojní zámečník	Horní Dubňany	99	80	0	M
+6207	594083	1	4	7	2	Bořivoj	Chvátal			57	zámečník	Horní Dubňany	99	7	0	M
+6207	594083	1	1	166	3	Jarmila	Pillařová			59	důchodce	Horní Dubňany	99	166	0	F
+6207	594083	1	2	137	3	Václav	Kameník			43	zámečník	Horní Dubňany	99	137	0	M
+6207	594083	1	3	901	3	Jiří	Maštalíř			33	zahradník	Horní Dubňany	99	80	0	M
+6207	594083	1	4	7	3	Josef	Maštalíř			42	zámečník	Horní Dubňany	99	7	0	M
+6207	594083	1	1	166	4	Petr	Pillař			47	dělník	Horní Dubňany	99	166	0	M
+6207	594083	1	2	137	4	Lydie	Denková			43	instruktorka	Horní Dubňany	99	137	0	F
+6207	594083	1	3	901	4	Pavla	Machátová			29	kadeřnice	Horní Dubňany	99	80	0	F
+6207	594083	1	4	7	4	František	Denk			42	zámečník	Horní Dubňany	99	7	0	M
+6207	594083	1	1	166	5	Miroslav	Pillař			19	student	Horní Dubňany	99	166	0	M
+6207	594083	1	2	137	5	Hana	Fučíková			23	masérka	Horní Dubňany	99	137	0	F
+6207	594083	1	3	901	5	Miloslava	Holasová			59	důchodce	Horní Dubňany	99	80	0	F
+6207	594083	1	4	7	5	Lubomír	Potůček			53	zedník	Horní Dubňany	99	7	0	M
+6207	594083	1	2	137	6	Pavlína	Jílková			32	zahradnice	Horní Dubňany	99	137	0	F
+6207	594083	1	3	901	6	Miroslav	Jelínek			49	opravář zemědělských strojů	Horní Dubňany	99	80	0	M
+6207	594083	1	4	7	6	David	Maštalíř			21	truhlář - tesař	Horní Dubňany	99	7	0	M
+6207	594083	1	2	137	7	Jana	Hájková			43	uklízečka	Horní Dubňany	99	137	0	F
+6207	594083	1	3	901	7	Jana	Nováčková			44	řidič prac.strojů	Horní Dubňany	99	80	0	F
+6207	594083	1	4	7	7	Jiří	Tručka			31	řezník	Horní Dubňany	99	7	0	M
+6207	594083	1	2	137	8	Marie	Šmerdová			39	prodavačka	Horní Dubňany	99	137	0	F
+6207	594083	1	3	901	8	Zdeňka	Opálková			54	truhlářka	Horní Dubňany	99	80	0	F
+6207	594083	1	4	7	8	Zdeněk	Fučík			24	umělecký kovář	Horní Dubňany	99	7	0	M
+6207	594083	1	2	137	9	Lucie	Chvátalová			19	studentka	Horní Dubňany	99	137	0	F
+6207	594083	1	3	901	9	Josef	Hrůza			39	mechanik - opravář	Horní Dubňany	99	80	0	M
+6207	594083	1	4	7	9	Pavel	Votoupal			19	student	Horní Dubňany	99	7	0	M

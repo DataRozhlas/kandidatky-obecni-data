@@ -1,32 +1,32 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2108	537781	1	1	53	1	Josef	Pavliš	M	Mgr.		41	učitel	Semice	99	53	A
-2108	537781	1	1	53	2	Vlastislav	Mika	M			46	provozní ředitel	Semice	53	53	A
-2108	537781	1	1	53	3	Pavel	Rytíř	M			47	OSVČ	Semice	99	53	A
-2108	537781	1	1	53	4	Jeronym	Boháček	M	Bc.		41	OSVČ	Semice	53	53	A
-2108	537781	1	2	901	1	Pavla	Langerová	F			50	ekonomka	Semice	99	80	A
-2108	537781	1	2	901	2	Jiřina	Čížková	F	Ing.		51	státní úředník	Semice	99	80	A
-2108	537781	1	2	901	3	Alena	Kudrnová	F	Mgr.		45	technik	Semice	99	80	A
-2108	537781	1	2	901	4	Kateřina	Serbusová	F	Ing.		41	auditor	Semice	99	80	A
-2108	537781	1	2	901	5	Eva	Vernerová	F	Ing.		58	OSVČ	Semice	99	80	A
-2108	537781	1	2	901	6	Ilona	Fikeisová	F			51	prodavačka	Semice	99	80	A
-2108	537781	1	2	901	7	Lucie	Policarová	F			39	vedoucí prodeje	Semice	99	80	A
-2108	537781	1	2	901	8	Adéla	Švarcová	F			21	studentka	Semice	99	80	A
-2108	537781	1	2	901	9	Jana	Břízová	F	Ing.		33	mateřská dovolená	Semice	99	80	A
-2108	537781	1	3	902	1	Tomáš	Čížek	M	Ing.		53	ředitel projekční kanceláře	Semice	99	80	A
-2108	537781	1	3	902	2	Pavel	Švarc	M	Bc.		27	referent zahraničního obchodu	Semice	99	80	A
-2108	537781	1	3	902	3	Josef	Souček	M			50	ředitel zemědělského střediska	Semice	99	80	A
-2108	537781	1	3	902	4	Tereza	Košnářová	F			24	vychovatelka ve školní družině	Semice	99	80	A
-2108	537781	1	3	902	5	Vladimír	Pokorný	M	Mgr.		84	emeritní ředitel školy	Semice	99	80	A
-2108	537781	1	3	902	6	Jan	Procházka	M	Ing.		48	soukromý zemědělec	Semice	99	80	A
-2108	537781	1	3	902	7	Roman	Krovoza	M			46	podnikatel	Semice	99	80	A
-2108	537781	1	3	902	8	Štěpán	Bříza	M			31	technický ředitel	Semice	99	80	A
-2108	537781	1	3	902	9	Martin	Kůrka	M	Ing.		25	student doktorského studia	Semice	99	80	A
-2108	537781	1	4	166	1	František	Novotný	M			69	starosta obce	Semice	99	166	A
-2108	537781	1	4	166	2	Jan	Kraus	M	Bc.		45	státní zaměstnanec	Semice	99	166	A
-2108	537781	1	4	166	3	Miroslava	Součková	F	Mgr.		60	zástupce ředitele ZŠ	Semice	99	166	A
-2108	537781	1	4	166	4	Pavel	Jareš	M	Mgr.		49	ředitel ZŠ	Semice	99	166	A
-2108	537781	1	4	166	5	Petr	Langer	M	Bc.		25	student	Semice	99	166	A
-2108	537781	1	4	166	6	Radek	Bouma	M			31	OSVČ	Semice	99	166	A
-2108	537781	1	4	166	7	Martina	Košnářová	F			47	zdravotní sestra	Semice	99	166	A
-2108	537781	1	4	166	8	Jaroslav	Havránek	M			41	řidič	Semice	99	166	A
-2108	537781	1	4	166	9	Miloš	Ježek	M			34	řidič	Semice	99	166	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2108	537781	1	1	53	1	Josef	Pavliš	Mgr.		41	učitel	Semice	99	53	A	M
+2108	537781	1	2	901	1	Pavla	Langerová			50	ekonomka	Semice	99	80	A	F
+2108	537781	1	3	902	1	Tomáš	Čížek	Ing.		53	ředitel projekční kanceláře	Semice	99	80	A	M
+2108	537781	1	4	166	1	František	Novotný			69	starosta obce	Semice	99	166	A	M
+2108	537781	1	1	53	2	Vlastislav	Mika			46	provozní ředitel	Semice	53	53	A	M
+2108	537781	1	2	901	2	Jiřina	Čížková	Ing.		51	státní úředník	Semice	99	80	A	F
+2108	537781	1	3	902	2	Pavel	Švarc	Bc.		27	referent zahraničního obchodu	Semice	99	80	A	M
+2108	537781	1	4	166	2	Jan	Kraus	Bc.		45	státní zaměstnanec	Semice	99	166	A	M
+2108	537781	1	1	53	3	Pavel	Rytíř			47	OSVČ	Semice	99	53	A	M
+2108	537781	1	2	901	3	Alena	Kudrnová	Mgr.		45	technik	Semice	99	80	A	F
+2108	537781	1	3	902	3	Josef	Souček			50	ředitel zemědělského střediska	Semice	99	80	A	M
+2108	537781	1	4	166	3	Miroslava	Součková	Mgr.		60	zástupce ředitele ZŠ	Semice	99	166	A	F
+2108	537781	1	1	53	4	Jeronym	Boháček	Bc.		41	OSVČ	Semice	53	53	A	M
+2108	537781	1	2	901	4	Kateřina	Serbusová	Ing.		41	auditor	Semice	99	80	A	F
+2108	537781	1	3	902	4	Tereza	Košnářová			24	vychovatelka ve školní družině	Semice	99	80	A	F
+2108	537781	1	4	166	4	Pavel	Jareš	Mgr.		49	ředitel ZŠ	Semice	99	166	A	M
+2108	537781	1	2	901	5	Eva	Vernerová	Ing.		58	OSVČ	Semice	99	80	A	F
+2108	537781	1	3	902	5	Vladimír	Pokorný	Mgr.		84	emeritní ředitel školy	Semice	99	80	A	M
+2108	537781	1	4	166	5	Petr	Langer	Bc.		25	student	Semice	99	166	A	M
+2108	537781	1	2	901	6	Ilona	Fikeisová			51	prodavačka	Semice	99	80	A	F
+2108	537781	1	3	902	6	Jan	Procházka	Ing.		48	soukromý zemědělec	Semice	99	80	A	M
+2108	537781	1	4	166	6	Radek	Bouma			31	OSVČ	Semice	99	166	A	M
+2108	537781	1	2	901	7	Lucie	Policarová			39	vedoucí prodeje	Semice	99	80	A	F
+2108	537781	1	3	902	7	Roman	Krovoza			46	podnikatel	Semice	99	80	A	M
+2108	537781	1	4	166	7	Martina	Košnářová			47	zdravotní sestra	Semice	99	166	A	F
+2108	537781	1	2	901	8	Adéla	Švarcová			21	studentka	Semice	99	80	A	F
+2108	537781	1	3	902	8	Štěpán	Bříza			31	technický ředitel	Semice	99	80	A	M
+2108	537781	1	4	166	8	Jaroslav	Havránek			41	řidič	Semice	99	166	A	M
+2108	537781	1	2	901	9	Jana	Břízová	Ing.		33	mateřská dovolená	Semice	99	80	A	F
+2108	537781	1	3	902	9	Martin	Kůrka	Ing.		25	student doktorského studia	Semice	99	80	A	M
+2108	537781	1	4	166	9	Miloš	Ježek			34	řidič	Semice	99	166	A	M

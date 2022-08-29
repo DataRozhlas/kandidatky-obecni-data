@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579041	1	1	1	1	Vladimíra	Pátková	F			47	starostka	Batňovice	99	1	0
-5205	579041	1	1	1	2	Jan	Hanuš	M			54	technik ČEZ	Batňovice	99	1	0
-5205	579041	1	1	1	3	Jana	Melicharová	F			58	důchodce	Batňovice	1	1	0
-5205	579041	1	1	1	4	Josef	Pich	M			42	soukromý podnikatel	Batňovice	99	1	0
-5205	579041	1	1	1	5	Miloslav	Šrejber	M			33	vedoucí pracovník	Batňovice	99	1	0
-5205	579041	1	1	1	6	Martin	Peterka	M			39	soukromý podnikatel	Batňovice	99	1	0
-5205	579041	1	1	1	7	Jana	Řezníčková	F			50	skladnice	Batňovice	1	1	0
-5205	579041	1	1	1	8	Václav	Kult	M			31	vedoucí provozu	Batňovice	99	1	0
-5205	579041	1	1	1	9	Josef	Řezníček	M			32	soukr.zemědělec	Batňovice	99	1	0
-5205	579041	1	2	53	1	Jaroslav	Rosa	M			61	podnikatel	Batňovice	53	53	0
-5205	579041	1	2	53	2	Zdeněk	Jiroušek	M			48	podnikatel	Batňovice	99	53	0
-5205	579041	1	2	53	3	Milan	Souček	M	Ing.		34	technik	Batňovice	99	53	0
-5205	579041	1	2	53	4	Jiří	Hofman	M			42	údržbář	Batňovice	99	53	0
-5205	579041	1	2	53	5	Libor	Tuček	M	Ing.		41	technolog	Batňovice	53	53	0
-5205	579041	1	2	53	6	Roman	Hebelka	M			32	údržbář	Batňovice	99	53	0
-5205	579041	1	2	53	7	Jaroslav	Kuťák	M			58	strojní zámečník	Batňovice	99	53	0
-5205	579041	1	2	53	8	Mirek	Kult	M			53	nástrojař	Batňovice	99	53	0
-5205	579041	1	2	53	9	Jiří	Janiga	M	Ing.		47	strojník	Batňovice	99	53	0
-5205	579041	1	3	901	1	Jiří	Rudolf	M			38	podnikatel	Batňovice	99	80	0
-5205	579041	1	3	901	2	Aleš	Bartoníček	M	Ing.		53	učitel	Batňovice	99	80	0
-5205	579041	1	3	901	3	Miloslava	Pavlová	F	Mgr.		53	ředitelka ZŠ a MŠ	Batňovice	99	80	0
-5205	579041	1	3	901	4	Martin	Baudyš	M			41	zaměstnanec banky	Batňovice	99	80	0
-5205	579041	1	3	901	5	Stanislav	Petráček	M			44	technik	Batňovice	99	80	0
-5205	579041	1	3	901	6	Petr	Polívka	M			37	údržbář výroby	Batňovice	99	80	0
-5205	579041	1	3	901	7	Vladimír	Urbanec	M			52	podnikatel	Batňovice	99	80	0
-5205	579041	1	3	901	8	Petra	Kultová	F			30	kvalitářka	Batňovice	99	80	0
-5205	579041	1	3	901	9	Jaromír	Žežulka	M			53	svářeč	Batňovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579041	1	1	1	1	Vladimíra	Pátková			47	starostka	Batňovice	99	1	0	F
+5205	579041	1	2	53	1	Jaroslav	Rosa			61	podnikatel	Batňovice	53	53	0	M
+5205	579041	1	3	901	1	Jiří	Rudolf			38	podnikatel	Batňovice	99	80	0	M
+5205	579041	1	1	1	2	Jan	Hanuš			54	technik ČEZ	Batňovice	99	1	0	M
+5205	579041	1	2	53	2	Zdeněk	Jiroušek			48	podnikatel	Batňovice	99	53	0	M
+5205	579041	1	3	901	2	Aleš	Bartoníček	Ing.		53	učitel	Batňovice	99	80	0	M
+5205	579041	1	1	1	3	Jana	Melicharová			58	důchodce	Batňovice	1	1	0	F
+5205	579041	1	2	53	3	Milan	Souček	Ing.		34	technik	Batňovice	99	53	0	M
+5205	579041	1	3	901	3	Miloslava	Pavlová	Mgr.		53	ředitelka ZŠ a MŠ	Batňovice	99	80	0	F
+5205	579041	1	1	1	4	Josef	Pich			42	soukromý podnikatel	Batňovice	99	1	0	M
+5205	579041	1	2	53	4	Jiří	Hofman			42	údržbář	Batňovice	99	53	0	M
+5205	579041	1	3	901	4	Martin	Baudyš			41	zaměstnanec banky	Batňovice	99	80	0	M
+5205	579041	1	1	1	5	Miloslav	Šrejber			33	vedoucí pracovník	Batňovice	99	1	0	M
+5205	579041	1	2	53	5	Libor	Tuček	Ing.		41	technolog	Batňovice	53	53	0	M
+5205	579041	1	3	901	5	Stanislav	Petráček			44	technik	Batňovice	99	80	0	M
+5205	579041	1	1	1	6	Martin	Peterka			39	soukromý podnikatel	Batňovice	99	1	0	M
+5205	579041	1	2	53	6	Roman	Hebelka			32	údržbář	Batňovice	99	53	0	M
+5205	579041	1	3	901	6	Petr	Polívka			37	údržbář výroby	Batňovice	99	80	0	M
+5205	579041	1	1	1	7	Jana	Řezníčková			50	skladnice	Batňovice	1	1	0	F
+5205	579041	1	2	53	7	Jaroslav	Kuťák			58	strojní zámečník	Batňovice	99	53	0	M
+5205	579041	1	3	901	7	Vladimír	Urbanec			52	podnikatel	Batňovice	99	80	0	M
+5205	579041	1	1	1	8	Václav	Kult			31	vedoucí provozu	Batňovice	99	1	0	M
+5205	579041	1	2	53	8	Mirek	Kult			53	nástrojař	Batňovice	99	53	0	M
+5205	579041	1	3	901	8	Petra	Kultová			30	kvalitářka	Batňovice	99	80	0	F
+5205	579041	1	1	1	9	Josef	Řezníček			32	soukr.zemědělec	Batňovice	99	1	0	M
+5205	579041	1	2	53	9	Jiří	Janiga	Ing.		47	strojník	Batňovice	99	53	0	M
+5205	579041	1	3	901	9	Jaromír	Žežulka			53	svářeč	Batňovice	99	80	0	M

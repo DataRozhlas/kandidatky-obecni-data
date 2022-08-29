@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5204	576221	1	1	53	1	Vladimír	Záleský	M	MUDr.		25	lékař	Čestice	53	53	0
-5204	576221	1	1	53	2	Vladimír	Vogel	M			44	podnikatel	Čestice	99	53	0
-5204	576221	1	1	53	3	Zuzana	Hloušková	F			26	referent exportu	Čestice	99	53	0
-5204	576221	1	1	53	4	Vladimír	Mráz	M			26	karosář	Čestice	99	53	0
-5204	576221	1	1	53	5	Jana	Janečková	F			38	prodavačka	Čestice	99	53	0
-5204	576221	1	1	53	6	Vladimír	Záleský	M	Ing.		52	jednatel společnosti	Čestice	53	53	0
-5204	576221	1	1	53	7	Blažena	Němcová	F			49	odborný poradce	Čestice	99	53	0
-5204	576221	1	2	113	1	Petr	Vondráček	M			35	starosta	Čestice	99	113	0
-5204	576221	1	2	113	2	Ludmila	Myšáková	F			49	podnikatelka	Čestice	99	113	0
-5204	576221	1	2	113	3	Zdeněk	Kopecký	M			40	mechanik	Čestice	99	113	0
-5204	576221	1	2	113	4	Luděk	Němec	M			53	projektant	Čestice	99	113	0
-5204	576221	1	2	113	5	Radek	Myšák	M			24	student	Čestice	99	113	0
-5204	576221	1	2	113	6	Petr	Kopecký	M		DiS.	37	státní zaměstnanec	Čestice	99	113	0
-5204	576221	1	2	113	7	Karel	Hloušek	M	Ing.		39	projektant	Čestice	99	113	0
-5204	576221	1	2	113	8	Jiří	Provazník	M			40	pokrývač	Čestice	99	113	0
-5204	576221	1	2	113	9	Irena	Smetanová	F			39	prodavačka	Čestice	99	113	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5204	576221	1	1	53	1	Vladimír	Záleský	MUDr.		25	lékař	Čestice	53	53	0	M
+5204	576221	1	2	113	1	Petr	Vondráček			35	starosta	Čestice	99	113	0	M
+5204	576221	1	1	53	2	Vladimír	Vogel			44	podnikatel	Čestice	99	53	0	M
+5204	576221	1	2	113	2	Ludmila	Myšáková			49	podnikatelka	Čestice	99	113	0	F
+5204	576221	1	1	53	3	Zuzana	Hloušková			26	referent exportu	Čestice	99	53	0	F
+5204	576221	1	2	113	3	Zdeněk	Kopecký			40	mechanik	Čestice	99	113	0	M
+5204	576221	1	1	53	4	Vladimír	Mráz			26	karosář	Čestice	99	53	0	M
+5204	576221	1	2	113	4	Luděk	Němec			53	projektant	Čestice	99	113	0	M
+5204	576221	1	1	53	5	Jana	Janečková			38	prodavačka	Čestice	99	53	0	F
+5204	576221	1	2	113	5	Radek	Myšák			24	student	Čestice	99	113	0	M
+5204	576221	1	1	53	6	Vladimír	Záleský	Ing.		52	jednatel společnosti	Čestice	53	53	0	M
+5204	576221	1	2	113	6	Petr	Kopecký		DiS.	37	státní zaměstnanec	Čestice	99	113	0	M
+5204	576221	1	1	53	7	Blažena	Němcová			49	odborný poradce	Čestice	99	53	0	F
+5204	576221	1	2	113	7	Karel	Hloušek	Ing.		39	projektant	Čestice	99	113	0	M
+5204	576221	1	2	113	8	Jiří	Provazník			40	pokrývač	Čestice	99	113	0	M
+5204	576221	1	2	113	9	Irena	Smetanová			39	prodavačka	Čestice	99	113	0	F

@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2102	531456	1	1	801	1	Jaroslav	Řezáč	M			51	živnostník	Liteň	99	80	0
-2102	531456	1	2	901	1	Miroslav	Horák	M	Ing.		60	starosta	Liteň	99	80	0
-2102	531456	1	2	901	2	Rudolf	Fiřt	M			55	soukromě hospodařící zemědělec	Liteň	99	80	0
-2102	531456	1	2	901	3	Šárka	Marcínová	F			26	manažerka	Liteň	99	80	0
-2102	531456	1	2	901	4	Miroslav	Slanec	M			61	elektrikář	Liteň	99	80	0
-2102	531456	1	2	901	5	Petr	Lebeda	M			41	podnikatel	Liteň	99	80	0
-2102	531456	1	2	901	6	Jarmila	Zemanová	F			60	zdravotní sestra	Leč	99	80	0
-2102	531456	1	3	802	1	Antonín	Lis	M			52	živnostník	Liteň	99	80	0
-2102	531456	1	4	7	1	Jan	Havelka	M			39	autorizovaný technik pro pozemní stavby	Liteň	7	7	0
-2102	531456	1	4	7	2	Vítězslav	Novotný	M			55	strojník, OSVČ	Dolní Vlence	99	7	0
-2102	531456	1	4	7	3	Ladislav	Tůma	M			75	OSVČ	Běleč	99	7	0
-2102	531456	1	4	7	4	Kateřina	Nožinová	F			49	úřednice	Dolní Vlence	99	7	0
-2102	531456	1	4	7	5	Jan	Artl	M			23	elektrikář	Leč	99	7	0
-2102	531456	1	4	7	6	Miloš	Nosek	M			65	OSVČ	Liteň	99	7	0
-2102	531456	1	4	7	7	Katarína	Janáková	F			56	sociální pracovnice	Liteň	99	7	0
-2102	531456	1	4	7	8	Petr	Vyskočil	M			66	důchodce, OSVČ	Liteň	99	7	0
-2102	531456	1	4	7	9	Vít	Gruncl	M			31	řidič, automechanik	Liteň	99	7	0
-2102	531456	1	5	480	1	Filip	Kaštánek	M			44	manažer - automobilový průmysl	Běleč	99	721	0
-2102	531456	1	5	480	2	Jiří	Vodička	M	Ing.		52	inženýr chemie	Liteň	714	80	0
-2102	531456	1	5	480	3	Lukáš	Münzberger	M	Ing.		29	dtp operátor, produkční	Liteň	99	80	0
-2102	531456	1	5	480	4	Miloslav	Kliment	M			42	podnikatel  v oblasti hudebních nástrojů	Liteň	53	80	0
-2102	531456	1	5	480	5	Olga	Beaufortová	F	Ing.		42	ekonom	Liteň	99	80	0
-2102	531456	1	5	480	6	Iveta	Sládková	F			39	účetní	Běleč	99	80	0
-2102	531456	1	5	480	7	Jindřiška	Jelínková	F	RNDr.	Ph.D.	39	úřednice ve státní ochraně přírody	Liteň	99	80	0
-2102	531456	1	5	480	8	Jiří	Hrách	M			28	konstrukční montér	Liteň	99	80	0
-2102	531456	1	5	480	9	Hana	Lukešová	F	Ing.		39	manažer výstavy	Liteň	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2102	531456	1	1	801	1	Jaroslav	Řezáč			51	živnostník	Liteň	99	80	0	M
+2102	531456	1	2	901	1	Miroslav	Horák	Ing.		60	starosta	Liteň	99	80	0	M
+2102	531456	1	3	802	1	Antonín	Lis			52	živnostník	Liteň	99	80	0	M
+2102	531456	1	4	7	1	Jan	Havelka			39	autorizovaný technik pro pozemní stavby	Liteň	7	7	0	M
+2102	531456	1	5	480	1	Filip	Kaštánek			44	manažer - automobilový průmysl	Běleč	99	721	0	M
+2102	531456	1	2	901	2	Rudolf	Fiřt			55	soukromě hospodařící zemědělec	Liteň	99	80	0	M
+2102	531456	1	4	7	2	Vítězslav	Novotný			55	strojník, OSVČ	Dolní Vlence	99	7	0	M
+2102	531456	1	5	480	2	Jiří	Vodička	Ing.		52	inženýr chemie	Liteň	714	80	0	M
+2102	531456	1	2	901	3	Šárka	Marcínová			26	manažerka	Liteň	99	80	0	F
+2102	531456	1	4	7	3	Ladislav	Tůma			75	OSVČ	Běleč	99	7	0	M
+2102	531456	1	5	480	3	Lukáš	Münzberger	Ing.		29	dtp operátor, produkční	Liteň	99	80	0	M
+2102	531456	1	2	901	4	Miroslav	Slanec			61	elektrikář	Liteň	99	80	0	M
+2102	531456	1	4	7	4	Kateřina	Nožinová			49	úřednice	Dolní Vlence	99	7	0	F
+2102	531456	1	5	480	4	Miloslav	Kliment			42	podnikatel  v oblasti hudebních nástrojů	Liteň	53	80	0	M
+2102	531456	1	2	901	5	Petr	Lebeda			41	podnikatel	Liteň	99	80	0	M
+2102	531456	1	4	7	5	Jan	Artl			23	elektrikář	Leč	99	7	0	M
+2102	531456	1	5	480	5	Olga	Beaufortová	Ing.		42	ekonom	Liteň	99	80	0	F
+2102	531456	1	2	901	6	Jarmila	Zemanová			60	zdravotní sestra	Leč	99	80	0	F
+2102	531456	1	4	7	6	Miloš	Nosek			65	OSVČ	Liteň	99	7	0	M
+2102	531456	1	5	480	6	Iveta	Sládková			39	účetní	Běleč	99	80	0	F
+2102	531456	1	4	7	7	Katarína	Janáková			56	sociální pracovnice	Liteň	99	7	0	F
+2102	531456	1	5	480	7	Jindřiška	Jelínková	RNDr.	Ph.D.	39	úřednice ve státní ochraně přírody	Liteň	99	80	0	F
+2102	531456	1	4	7	8	Petr	Vyskočil			66	důchodce, OSVČ	Liteň	99	7	0	M
+2102	531456	1	5	480	8	Jiří	Hrách			28	konstrukční montér	Liteň	99	80	0	M
+2102	531456	1	4	7	9	Vít	Gruncl			31	řidič, automechanik	Liteň	99	7	0	M
+2102	531456	1	5	480	9	Hana	Lukešová	Ing.		39	manažer výstavy	Liteň	99	80	0	F

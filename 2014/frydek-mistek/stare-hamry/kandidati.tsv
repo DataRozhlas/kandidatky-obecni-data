@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8102	598747	1	1	7	1	Eva	Tořová	F	Bc.		51	vedoucí úseku investic	Staré Hamry	7	7	0
-8102	598747	1	1	7	2	Ivo	Faltýnek	M			60	montér	Staré Hamry	7	7	0
-8102	598747	1	1	7	3	Renata	Heráková	F			37	vychovatelka	Staré Hamry	99	7	0
-8102	598747	1	1	7	4	Vlasta	Remešová	F			37	vedoucí provozu	Staré Hamry	99	7	0
-8102	598747	1	1	7	5	Robert	Lang	M	Mgr.		39	fyzioterapeut	Staré Hamry	99	7	0
-8102	598747	1	1	7	6	Andrea	Vandová	F			20	studující	Staré Hamry	99	7	0
-8102	598747	1	1	7	7	Josef	Liška	M			50	zámečník	Staré Hamry	99	7	0
-8102	598747	1	1	7	8	Jiří	Zaoral	M			80	důchodce	Staré Hamry	99	7	0
-8102	598747	1	1	7	9	Karel	Červenka	M			62	podnikatel	Staré Hamry	99	7	0
-8102	598747	1	2	901	1	Rudolf	Franta	M	Ing.		37	revírník	Staré Hamry	99	80	0
-8102	598747	1	2	901	2	Ivo	Franke	M			49	stavební dělník	Staré Hamry	99	80	0
-8102	598747	1	2	901	3	Jan	Filip	M			31	strojař	Staré Hamry	99	80	0
-8102	598747	1	2	901	4	Marian	Nytra	M			36	státní zaměstnanec	Staré Hamry	99	80	0
-8102	598747	1	2	901	5	Jana	Borská	F			23	asistentka	Staré Hamry	99	80	0
-8102	598747	1	2	901	6	Pavel	Greguš	M			36	živnostník	Staré Hamry	99	80	0
-8102	598747	1	2	901	7	Bohuslav	Borský	M			63	důchodce	Staré Hamry	99	80	0
-8102	598747	1	3	801	1	Jan	Klepáč	M			60	důchodce	Staré Hamry	99	80	0
-8102	598747	1	4	802	1	Dagmar	Valášková	F			43	projektová manažerka	Staré Hamry	99	80	0
-8102	598747	1	5	902	1	Petr	Remeš	M			34	živnostník	Staré Hamry	99	80	0
-8102	598747	1	5	902	2	Ivan	Červenka	M			46	barman	Staré Hamry	99	80	0
-8102	598747	1	5	902	3	Jaroslav	Kubala	M			23	profesionální hasič	Staré Hamry	99	80	0
-8102	598747	1	5	902	4	Roman	Veselka	M			39	živnostník	Staré Hamry	99	80	0
-8102	598747	1	5	902	5	Jaromír	Pindur	M			41	technik	Staré Hamry	99	80	0
-8102	598747	1	5	902	6	Radmila	Chovancová	F			34	kontrolor kvality	Staré Hamry	99	80	0
-8102	598747	1	5	902	7	Jan	Kubačák	M			22	živnostník	Staré Hamry	99	80	0
-8102	598747	1	5	902	8	Tomáš	Kubala	M			21	živnostník	Staré Hamry	99	80	0
-8102	598747	1	5	902	9	Jan	Klepáč	M	Ing.		32	profesionální hasič	Staré Hamry	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8102	598747	1	1	7	1	Eva	Tořová	Bc.		51	vedoucí úseku investic	Staré Hamry	7	7	0	F
+8102	598747	1	2	901	1	Rudolf	Franta	Ing.		37	revírník	Staré Hamry	99	80	0	M
+8102	598747	1	3	801	1	Jan	Klepáč			60	důchodce	Staré Hamry	99	80	0	M
+8102	598747	1	4	802	1	Dagmar	Valášková			43	projektová manažerka	Staré Hamry	99	80	0	F
+8102	598747	1	5	902	1	Petr	Remeš			34	živnostník	Staré Hamry	99	80	0	M
+8102	598747	1	1	7	2	Ivo	Faltýnek			60	montér	Staré Hamry	7	7	0	M
+8102	598747	1	2	901	2	Ivo	Franke			49	stavební dělník	Staré Hamry	99	80	0	M
+8102	598747	1	5	902	2	Ivan	Červenka			46	barman	Staré Hamry	99	80	0	M
+8102	598747	1	1	7	3	Renata	Heráková			37	vychovatelka	Staré Hamry	99	7	0	F
+8102	598747	1	2	901	3	Jan	Filip			31	strojař	Staré Hamry	99	80	0	M
+8102	598747	1	5	902	3	Jaroslav	Kubala			23	profesionální hasič	Staré Hamry	99	80	0	M
+8102	598747	1	1	7	4	Vlasta	Remešová			37	vedoucí provozu	Staré Hamry	99	7	0	F
+8102	598747	1	2	901	4	Marian	Nytra			36	státní zaměstnanec	Staré Hamry	99	80	0	M
+8102	598747	1	5	902	4	Roman	Veselka			39	živnostník	Staré Hamry	99	80	0	M
+8102	598747	1	1	7	5	Robert	Lang	Mgr.		39	fyzioterapeut	Staré Hamry	99	7	0	M
+8102	598747	1	2	901	5	Jana	Borská			23	asistentka	Staré Hamry	99	80	0	F
+8102	598747	1	5	902	5	Jaromír	Pindur			41	technik	Staré Hamry	99	80	0	M
+8102	598747	1	1	7	6	Andrea	Vandová			20	studující	Staré Hamry	99	7	0	F
+8102	598747	1	2	901	6	Pavel	Greguš			36	živnostník	Staré Hamry	99	80	0	M
+8102	598747	1	5	902	6	Radmila	Chovancová			34	kontrolor kvality	Staré Hamry	99	80	0	F
+8102	598747	1	1	7	7	Josef	Liška			50	zámečník	Staré Hamry	99	7	0	M
+8102	598747	1	2	901	7	Bohuslav	Borský			63	důchodce	Staré Hamry	99	80	0	M
+8102	598747	1	5	902	7	Jan	Kubačák			22	živnostník	Staré Hamry	99	80	0	M
+8102	598747	1	1	7	8	Jiří	Zaoral			80	důchodce	Staré Hamry	99	7	0	M
+8102	598747	1	5	902	8	Tomáš	Kubala			21	živnostník	Staré Hamry	99	80	0	M
+8102	598747	1	1	7	9	Karel	Červenka			62	podnikatel	Staré Hamry	99	7	0	M
+8102	598747	1	5	902	9	Jan	Klepáč	Ing.		32	profesionální hasič	Staré Hamry	99	80	0	M

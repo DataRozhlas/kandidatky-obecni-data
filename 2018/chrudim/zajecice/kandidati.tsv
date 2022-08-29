@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	572578	1	1	129	1	František	Mihulka	M	Ing.		58	ředitel střední školy	Zaječice	99	129	A
-5301	572578	1	1	129	2	Hana	Novotná	F			61	účetní	Zaječice	99	129	A
-5301	572578	1	1	129	3	Václav	Hromádko	M			41	zámečník	Zaječice	99	129	A
-5301	572578	1	1	129	4	Miroslav	Rohlík	M			52	technik	Zaječice	99	129	A
-5301	572578	1	1	129	5	Lenka	Štefanová	F	MUDr.		43	lékař	Zaječice	99	129	A
-5301	572578	1	1	129	6	Lucie	Švédová	F	Ing.		37	ekonom	Zaječice	99	129	A
-5301	572578	1	1	129	7	Jakub	Matys	M			25	technik	Zaječice	99	129	A
-5301	572578	1	1	129	8	Alena	Blažková	F			55	v domácnosti	Zaječice	99	129	A
-5301	572578	1	1	129	9	Jarmila	Nováková	F			76	důchodce	Zaječice	99	129	A
-5301	572578	1	1	129	10	Zbyněk	Pejcha	M			41	elektrikář	Zaječice	99	129	A
-5301	572578	1	1	129	11	Josef	Širůček	M	Ing.		60	vedoucí OŘK	Zaječice	99	129	A
-5301	572578	1	1	129	12	Hana	Ducháčková	F			63	důchodce	Studená Voda	99	129	A
-5301	572578	1	1	129	13	Stanislava	Michalcová	F			59	kuchařka	Zaječice	99	129	A
-5301	572578	1	1	129	14	Radka	Zindulková	F			46	kadeřnice	Zaječice	99	129	A
-5301	572578	1	1	129	15	Vlasta	Picková	F			68	důchodce	Zaječice	99	129	A
-5301	572578	1	2	768	1	Robert	Pavlačič	M			43	starosta	Zaječice	768	768	A
-5301	572578	1	2	768	2	Vlastimil	Křičenský	M			46	obecní zaměstnanec	Zaječice	99	768	A
-5301	572578	1	2	768	3	Martin	Křivka	M	Bc.		44	OSVČ	Zaječice	99	768	A
-5301	572578	1	2	768	4	Jaroslav	Kulhánek	M			68	OSVČ	Zaječice	99	768	A
-5301	572578	1	2	768	5	Marie	Pelikánová	F			49	vedoucí pracovník	Zaječice	99	768	A
-5301	572578	1	2	768	6	Andrea	Gergelyová	F			34	operátor STK	Zaječice	99	768	A
-5301	572578	1	2	768	7	David	Pavlík	M			35	OSVČ	Zaječice	99	768	A
-5301	572578	1	2	768	8	Aleš	Grohman	M			40	obráběč kovů	Zaječice	99	768	A
-5301	572578	1	2	768	9	Jan	Fousek	M	Bc.		29	příslušník HZS	Zaječice	99	768	A
-5301	572578	1	2	768	10	Dušan	Pejcha	M			40	mechanik	Zaječice	99	768	A
-5301	572578	1	2	768	11	Růžena	Alinčová	F			66	důchodkyně	Zaječice	99	768	A
-5301	572578	1	2	768	12	Hana	Čáslavská	F			37	administrativní pracovník	Zaječice	99	768	A
-5301	572578	1	2	768	13	Jan	Sýs	M			30	obchodní zástupce	Zaječice	99	768	A
-5301	572578	1	2	768	14	Roman	Varga	M			43	technický pracovník	Zaječice	99	768	A
-5301	572578	1	2	768	15	Jaroslav	Trla	M			41	OSVČ	Zaječice	99	768	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	572578	1	1	129	1	František	Mihulka	Ing.		58	ředitel střední školy	Zaječice	99	129	A	M
+5301	572578	1	2	768	1	Robert	Pavlačič			43	starosta	Zaječice	768	768	A	M
+5301	572578	1	1	129	2	Hana	Novotná			61	účetní	Zaječice	99	129	A	F
+5301	572578	1	2	768	2	Vlastimil	Křičenský			46	obecní zaměstnanec	Zaječice	99	768	A	M
+5301	572578	1	1	129	3	Václav	Hromádko			41	zámečník	Zaječice	99	129	A	M
+5301	572578	1	2	768	3	Martin	Křivka	Bc.		44	OSVČ	Zaječice	99	768	A	M
+5301	572578	1	1	129	4	Miroslav	Rohlík			52	technik	Zaječice	99	129	A	M
+5301	572578	1	2	768	4	Jaroslav	Kulhánek			68	OSVČ	Zaječice	99	768	A	M
+5301	572578	1	1	129	5	Lenka	Štefanová	MUDr.		43	lékař	Zaječice	99	129	A	F
+5301	572578	1	2	768	5	Marie	Pelikánová			49	vedoucí pracovník	Zaječice	99	768	A	F
+5301	572578	1	1	129	6	Lucie	Švédová	Ing.		37	ekonom	Zaječice	99	129	A	F
+5301	572578	1	2	768	6	Andrea	Gergelyová			34	operátor STK	Zaječice	99	768	A	F
+5301	572578	1	1	129	7	Jakub	Matys			25	technik	Zaječice	99	129	A	M
+5301	572578	1	2	768	7	David	Pavlík			35	OSVČ	Zaječice	99	768	A	M
+5301	572578	1	1	129	8	Alena	Blažková			55	v domácnosti	Zaječice	99	129	A	F
+5301	572578	1	2	768	8	Aleš	Grohman			40	obráběč kovů	Zaječice	99	768	A	M
+5301	572578	1	1	129	9	Jarmila	Nováková			76	důchodce	Zaječice	99	129	A	F
+5301	572578	1	2	768	9	Jan	Fousek	Bc.		29	příslušník HZS	Zaječice	99	768	A	M
+5301	572578	1	1	129	10	Zbyněk	Pejcha			41	elektrikář	Zaječice	99	129	A	M
+5301	572578	1	2	768	10	Dušan	Pejcha			40	mechanik	Zaječice	99	768	A	M
+5301	572578	1	1	129	11	Josef	Širůček	Ing.		60	vedoucí OŘK	Zaječice	99	129	A	M
+5301	572578	1	2	768	11	Růžena	Alinčová			66	důchodkyně	Zaječice	99	768	A	F
+5301	572578	1	1	129	12	Hana	Ducháčková			63	důchodce	Studená Voda	99	129	A	F
+5301	572578	1	2	768	12	Hana	Čáslavská			37	administrativní pracovník	Zaječice	99	768	A	F
+5301	572578	1	1	129	13	Stanislava	Michalcová			59	kuchařka	Zaječice	99	129	A	F
+5301	572578	1	2	768	13	Jan	Sýs			30	obchodní zástupce	Zaječice	99	768	A	M
+5301	572578	1	1	129	14	Radka	Zindulková			46	kadeřnice	Zaječice	99	129	A	F
+5301	572578	1	2	768	14	Roman	Varga			43	technický pracovník	Zaječice	99	768	A	M
+5301	572578	1	1	129	15	Vlasta	Picková			68	důchodce	Zaječice	99	129	A	F
+5301	572578	1	2	768	15	Jaroslav	Trla			41	OSVČ	Zaječice	99	768	A	M

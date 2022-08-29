@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7104	517585	1	1	903	1	Jaroslav	Ludka	M			43	hasič-velitel družstva	Rakov	99	80	0
-7104	517585	1	1	903	2	Iveta	Vašíčková	F			47	vedoucí školní jídelny	Rakov	99	80	0
-7104	517585	1	1	903	3	Radim	Zlámal	M			37	malíř-natěrač	Rakov	99	80	0
-7104	517585	1	1	903	4	Jaroslav	Cagaš	M			56	OSVČ	Rakov	99	80	0
-7104	517585	1	1	903	5	Miroslav	Horáček	M			36	zedník	Rakov	99	80	0
-7104	517585	1	1	903	6	Dušan	Pecha	M			37	řidič	Rakov	99	80	0
-7104	517585	1	1	903	7	Svatava	Wagnerová	F			43	obchodní manager	Rakov	99	80	0
-7104	517585	1	1	903	8	Libor	Petřík	M			46	zámečník	Rakov	99	80	0
-7104	517585	1	1	903	9	Libor	Pírek	M			44	lakýrník	Rakov	99	80	0
-7104	517585	1	2	902	1	Zdeněk	Růžička	M			42	technik	Rakov	99	80	0
-7104	517585	1	2	902	2	Vojtěch	Skácel	M			43	technik-operátor	Rakov	99	80	0
-7104	517585	1	2	902	3	Jiří	Hošťálek	M			46	řidič	Rakov	99	80	0
-7104	517585	1	2	902	4	Pavlína	Horáčková	F			35	provozní penzionu	Rakov	99	80	0
-7104	517585	1	2	902	5	Jiří	Pala	M	Ing.		27	jednatel společnosti	Rakov	99	80	0
-7104	517585	1	3	901	1	Kateřina	Macháčková	F	Ing.		31	asistentka ředitele	Rakov	99	80	0
-7104	517585	1	3	901	2	Jana	Černocká	F	Mgr.		24	advokátní koncipientka	Rakov	99	80	0
-7104	517585	1	3	901	3	Zdeňka	Vozáková	F			54	zaměstnanec čerpací stanice	Rakov	99	80	0
-7104	517585	1	3	901	4	Martin	Jakubec	M			22	student	Rakov	99	80	0
-7104	517585	1	3	901	5	Jitka	Švehlíková	F			35	administrativní pracovnice	Rakov	99	80	0
-7104	517585	1	3	901	6	Štěpán	Kelar	M			21	dělník	Rakov	99	80	0
-7104	517585	1	3	901	7	Miluše	Pavelčíková	F			49	programátor CNC strojů	Rakov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7104	517585	1	1	903	1	Jaroslav	Ludka			43	hasič-velitel družstva	Rakov	99	80	0	M
+7104	517585	1	2	902	1	Zdeněk	Růžička			42	technik	Rakov	99	80	0	M
+7104	517585	1	3	901	1	Kateřina	Macháčková	Ing.		31	asistentka ředitele	Rakov	99	80	0	F
+7104	517585	1	1	903	2	Iveta	Vašíčková			47	vedoucí školní jídelny	Rakov	99	80	0	F
+7104	517585	1	2	902	2	Vojtěch	Skácel			43	technik-operátor	Rakov	99	80	0	M
+7104	517585	1	3	901	2	Jana	Černocká	Mgr.		24	advokátní koncipientka	Rakov	99	80	0	F
+7104	517585	1	1	903	3	Radim	Zlámal			37	malíř-natěrač	Rakov	99	80	0	M
+7104	517585	1	2	902	3	Jiří	Hošťálek			46	řidič	Rakov	99	80	0	M
+7104	517585	1	3	901	3	Zdeňka	Vozáková			54	zaměstnanec čerpací stanice	Rakov	99	80	0	F
+7104	517585	1	1	903	4	Jaroslav	Cagaš			56	OSVČ	Rakov	99	80	0	M
+7104	517585	1	2	902	4	Pavlína	Horáčková			35	provozní penzionu	Rakov	99	80	0	F
+7104	517585	1	3	901	4	Martin	Jakubec			22	student	Rakov	99	80	0	M
+7104	517585	1	1	903	5	Miroslav	Horáček			36	zedník	Rakov	99	80	0	M
+7104	517585	1	2	902	5	Jiří	Pala	Ing.		27	jednatel společnosti	Rakov	99	80	0	M
+7104	517585	1	3	901	5	Jitka	Švehlíková			35	administrativní pracovnice	Rakov	99	80	0	F
+7104	517585	1	1	903	6	Dušan	Pecha			37	řidič	Rakov	99	80	0	M
+7104	517585	1	3	901	6	Štěpán	Kelar			21	dělník	Rakov	99	80	0	M
+7104	517585	1	1	903	7	Svatava	Wagnerová			43	obchodní manager	Rakov	99	80	0	F
+7104	517585	1	3	901	7	Miluše	Pavelčíková			49	programátor CNC strojů	Rakov	99	80	0	F
+7104	517585	1	1	903	8	Libor	Petřík			46	zámečník	Rakov	99	80	0	M
+7104	517585	1	1	903	9	Libor	Pírek			44	lakýrník	Rakov	99	80	0	M

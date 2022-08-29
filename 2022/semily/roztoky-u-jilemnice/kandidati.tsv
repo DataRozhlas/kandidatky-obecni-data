@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5104	577499	1	1	902	1	Osvald	Süss	M			57	starosta obce	Roztoky u Jilemnice	703	80	A
-5104	577499	1	1	902	2	Jaroslav	Šimůnek	M			57	ředitel společnosti	Roztoky u Jilemnice	99	80	A
-5104	577499	1	1	902	3	Petr	Janovský	M			50	vedoucí střediska	Roztoky u Jilemnice	99	80	A
-5104	577499	1	1	902	4	Lenka	Šolcová	F			50	vedoucí kuchyně	Roztoky u Jilemnice	99	80	A
-5104	577499	1	1	902	5	Radomír	Psota	M			44	podnikatel	Roztoky u Jilemnice	99	80	A
-5104	577499	1	1	902	6	Tomáš	Kebrt	M			37	podnikatel	Roztoky u Jilemnice	99	80	A
-5104	577499	1	1	902	7	Ludmila	Kupkárová	F			52	zaměstnanec Scolarest	Roztoky u Jilemnice	99	80	A
-5104	577499	1	1	902	8	Miroslav	Michálek	M			53	seřizovač strojů	Roztoky u Jilemnice	99	80	A
-5104	577499	1	1	902	9	Simona	Riskovová	F			56	úřednice	Roztoky u Jilemnice	99	80	A
-5104	577499	1	2	901	1	Jiří	Kužel	M	Bc.		37	vedoucí projekčního oddělení	Roztoky u Jilemnice	99	80	A
-5104	577499	1	2	901	2	Markéta	Kebrtová	F	Mgr.		29	rodičovská dovolená	Roztoky u Jilemnice	99	80	A
-5104	577499	1	2	901	3	Pavel	Kysela	M		DiS.	45	vedoucí konstrukčního oddělení	Roztoky u Jilemnice	99	80	A
-5104	577499	1	2	901	4	Dana	Horáčková	F			40	úřednice	Roztoky u Jilemnice	99	80	A
-5104	577499	1	2	901	5	Jakub	Illner	M			38	manažer obchodu	Roztoky u Jilemnice	99	80	A
-5104	577499	1	2	901	6	Kateřina	Zahálková	F	Mgr.		61	ředitelka ZŠ a MŠ	Roztoky u Jilemnice	99	80	A
-5104	577499	1	2	901	7	Zdeněk	Kebrt	M	Ing.		35	projektant	Roztoky u Jilemnice	99	80	A
-5104	577499	1	2	901	8	Monika	Kyselová	F	Mgr.		42	učitelka	Roztoky u Jilemnice	99	80	A
-5104	577499	1	2	901	9	Jakub	Nýdrle	M	Ing.		36	soukromý podnikatel	Roztoky u Jilemnice	99	80	A
-5104	577499	1	3	903	1	David	Kužel	M			48	OSVČ	Roztoky u Jilemnice	99	80	A
-5104	577499	1	3	903	2	Adam	Janovský	M			30	technik, vedoucí servisu	Roztoky u Jilemnice	99	80	A
-5104	577499	1	3	903	3	Jan	Lumenda	M			47	pracovník energetických provozů	Roztoky u Jilemnice	99	80	A
-5104	577499	1	3	903	4	Zdeněk	Horák	M			29	mechanik, montáž jednotek	Roztoky u Jilemnice	99	80	A
-5104	577499	1	3	903	5	Lucie	Krausová	F			28	rodičovská dovolená	Roztoky u Jilemnice	99	80	A
-5104	577499	1	3	903	6	Jaroslav	Grosman	M			51	OSVČ	Roztoky u Jilemnice	99	80	A
-5104	577499	1	3	903	7	David	Kužel	M			21	student	Roztoky u Jilemnice	99	80	A
-5104	577499	1	3	903	8	Michaela	Hnyková	F			46	účetní	Roztoky u Jilemnice	99	80	A
-5104	577499	1	3	903	9	Leoš	Kopáček	M			51	logistik, mistr výroby	Roztoky u Jilemnice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5104	577499	1	1	902	1	Osvald	Süss			57	starosta obce	Roztoky u Jilemnice	703	80	A	M
+5104	577499	1	2	901	1	Jiří	Kužel	Bc.		37	vedoucí projekčního oddělení	Roztoky u Jilemnice	99	80	A	M
+5104	577499	1	3	903	1	David	Kužel			48	OSVČ	Roztoky u Jilemnice	99	80	A	M
+5104	577499	1	1	902	2	Jaroslav	Šimůnek			57	ředitel společnosti	Roztoky u Jilemnice	99	80	A	M
+5104	577499	1	2	901	2	Markéta	Kebrtová	Mgr.		29	rodičovská dovolená	Roztoky u Jilemnice	99	80	A	F
+5104	577499	1	3	903	2	Adam	Janovský			30	technik, vedoucí servisu	Roztoky u Jilemnice	99	80	A	M
+5104	577499	1	1	902	3	Petr	Janovský			50	vedoucí střediska	Roztoky u Jilemnice	99	80	A	M
+5104	577499	1	2	901	3	Pavel	Kysela		DiS.	45	vedoucí konstrukčního oddělení	Roztoky u Jilemnice	99	80	A	M
+5104	577499	1	3	903	3	Jan	Lumenda			47	pracovník energetických provozů	Roztoky u Jilemnice	99	80	A	M
+5104	577499	1	1	902	4	Lenka	Šolcová			50	vedoucí kuchyně	Roztoky u Jilemnice	99	80	A	F
+5104	577499	1	2	901	4	Dana	Horáčková			40	úřednice	Roztoky u Jilemnice	99	80	A	F
+5104	577499	1	3	903	4	Zdeněk	Horák			29	mechanik, montáž jednotek	Roztoky u Jilemnice	99	80	A	M
+5104	577499	1	1	902	5	Radomír	Psota			44	podnikatel	Roztoky u Jilemnice	99	80	A	M
+5104	577499	1	2	901	5	Jakub	Illner			38	manažer obchodu	Roztoky u Jilemnice	99	80	A	M
+5104	577499	1	3	903	5	Lucie	Krausová			28	rodičovská dovolená	Roztoky u Jilemnice	99	80	A	F
+5104	577499	1	1	902	6	Tomáš	Kebrt			37	podnikatel	Roztoky u Jilemnice	99	80	A	M
+5104	577499	1	2	901	6	Kateřina	Zahálková	Mgr.		61	ředitelka ZŠ a MŠ	Roztoky u Jilemnice	99	80	A	F
+5104	577499	1	3	903	6	Jaroslav	Grosman			51	OSVČ	Roztoky u Jilemnice	99	80	A	M
+5104	577499	1	1	902	7	Ludmila	Kupkárová			52	zaměstnanec Scolarest	Roztoky u Jilemnice	99	80	A	F
+5104	577499	1	2	901	7	Zdeněk	Kebrt	Ing.		35	projektant	Roztoky u Jilemnice	99	80	A	M
+5104	577499	1	3	903	7	David	Kužel			21	student	Roztoky u Jilemnice	99	80	A	M
+5104	577499	1	1	902	8	Miroslav	Michálek			53	seřizovač strojů	Roztoky u Jilemnice	99	80	A	M
+5104	577499	1	2	901	8	Monika	Kyselová	Mgr.		42	učitelka	Roztoky u Jilemnice	99	80	A	F
+5104	577499	1	3	903	8	Michaela	Hnyková			46	účetní	Roztoky u Jilemnice	99	80	A	F
+5104	577499	1	1	902	9	Simona	Riskovová			56	úřednice	Roztoky u Jilemnice	99	80	A	F
+5104	577499	1	2	901	9	Jakub	Nýdrle	Ing.		36	soukromý podnikatel	Roztoky u Jilemnice	99	80	A	M
+5104	577499	1	3	903	9	Leoš	Kopáček			51	logistik, mistr výroby	Roztoky u Jilemnice	99	80	A	M

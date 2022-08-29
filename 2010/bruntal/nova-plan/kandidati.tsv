@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	546950	1	1	901	1	Miroslav	Jelen	M	Ing.		53	podnikatel	Nová Pláň	99	80	0
-8101	546950	1	1	901	2	Petr	Zádrapa	M			65	důchodce	Nová Pláň	99	80	0
-8101	546950	1	1	901	3	Petr	Malina	M	Ing.		46	podnikatel	Nová Pláň	99	80	0
-8101	546950	1	1	901	4	Zbyněk	Uhlíř	M	Ing.		35	státní zaměstnanec	Nová Pláň	99	80	0
-8101	546950	1	1	901	5	Ladislav	Kozáček	M	Ing.		45	referent odbytu	Nová Pláň	99	80	0
-8101	546950	1	1	901	6	Karel	Železný	M			38	příslušník HZS	Nová Pláň	99	80	0
-8101	546950	1	1	901	7	Josef	Kristek	M			56	OSVČ	Nová Pláň	99	80	0
-8101	546950	1	1	901	8	Dana	Staňková	F			48	mzdová účetní	Nová Pláň	99	80	0
-8101	546950	1	1	901	9	Pavla	Petrová	F	Mgr.		35	vedoucí pracovník	Nová Pláň	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	546950	1	1	901	1	Miroslav	Jelen	Ing.		53	podnikatel	Nová Pláň	99	80	0	M
+8101	546950	1	1	901	2	Petr	Zádrapa			65	důchodce	Nová Pláň	99	80	0	M
+8101	546950	1	1	901	3	Petr	Malina	Ing.		46	podnikatel	Nová Pláň	99	80	0	M
+8101	546950	1	1	901	4	Zbyněk	Uhlíř	Ing.		35	státní zaměstnanec	Nová Pláň	99	80	0	M
+8101	546950	1	1	901	5	Ladislav	Kozáček	Ing.		45	referent odbytu	Nová Pláň	99	80	0	M
+8101	546950	1	1	901	6	Karel	Železný			38	příslušník HZS	Nová Pláň	99	80	0	M
+8101	546950	1	1	901	7	Josef	Kristek			56	OSVČ	Nová Pláň	99	80	0	M
+8101	546950	1	1	901	8	Dana	Staňková			48	mzdová účetní	Nová Pláň	99	80	0	F
+8101	546950	1	1	901	9	Pavla	Petrová	Mgr.		35	vedoucí pracovník	Nová Pláň	99	80	0	F

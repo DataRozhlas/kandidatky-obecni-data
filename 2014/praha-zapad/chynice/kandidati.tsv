@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	513431	1	1	470	1	Pavel	Toman	M			65	OSVČ	Chýnice	166	166	0
-2110	513431	1	1	470	2	Irena	Holmanová	F			53	manažerka	Chýnice	99	166	0
-2110	513431	1	1	470	3	Karel	Gahlert	M			62	OSVČ	Chýnice	99	166	0
-2110	513431	1	1	470	4	Petra	Veselá	F			39	sanitářka	Chýnice	99	166	0
-2110	513431	1	1	470	5	Petr	Křepelka	M			46	podnikatel	Chýnice	99	166	0
-2110	513431	1	1	470	6	Jiří	Vinš	M			39	technik	Chýnice	99	80	0
-2110	513431	1	1	470	7	Arnošt	Hanzl	M	Ing.		50	manažer	Chýnice	99	80	0
-2110	513431	1	1	470	8	Jaroslav	Kopecký	M	Ing.		64	manažer	Chýnice	99	80	0
-2110	513431	1	2	901	1	Zdeněk	Černý	M			59	obchodní manažer	Chýnice	99	80	0
-2110	513431	1	2	901	2	Miroslava	Grygerová	F	JUDr.		64	důchodce	Chýnice	99	80	0
-2110	513431	1	2	901	3	Jana	Hlaváčová Morysová	F			35	OSVČ	Chýnice	99	80	0
-2110	513431	1	2	901	4	David	Pospíšil	M			34	manažer	Chýnice	99	80	0
-2110	513431	1	2	901	5	Jaroslav	Tyle	M	Ing.		44	manažer v dopravě	Chýnice	99	80	0
-2110	513431	1	2	901	6	Martin	Hoffman	M			39	dopravní dispečer	Chýnice	99	80	0
-2110	513431	1	2	901	7	Tomáš	Šátek	M			39	údržbář - skladník	Chýnice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	513431	1	1	470	1	Pavel	Toman			65	OSVČ	Chýnice	166	166	0	M
+2110	513431	1	2	901	1	Zdeněk	Černý			59	obchodní manažer	Chýnice	99	80	0	M
+2110	513431	1	1	470	2	Irena	Holmanová			53	manažerka	Chýnice	99	166	0	F
+2110	513431	1	2	901	2	Miroslava	Grygerová	JUDr.		64	důchodce	Chýnice	99	80	0	F
+2110	513431	1	1	470	3	Karel	Gahlert			62	OSVČ	Chýnice	99	166	0	M
+2110	513431	1	2	901	3	Jana	Hlaváčová Morysová			35	OSVČ	Chýnice	99	80	0	F
+2110	513431	1	1	470	4	Petra	Veselá			39	sanitářka	Chýnice	99	166	0	F
+2110	513431	1	2	901	4	David	Pospíšil			34	manažer	Chýnice	99	80	0	M
+2110	513431	1	1	470	5	Petr	Křepelka			46	podnikatel	Chýnice	99	166	0	M
+2110	513431	1	2	901	5	Jaroslav	Tyle	Ing.		44	manažer v dopravě	Chýnice	99	80	0	M
+2110	513431	1	1	470	6	Jiří	Vinš			39	technik	Chýnice	99	80	0	M
+2110	513431	1	2	901	6	Martin	Hoffman			39	dopravní dispečer	Chýnice	99	80	0	M
+2110	513431	1	1	470	7	Arnošt	Hanzl	Ing.		50	manažer	Chýnice	99	80	0	M
+2110	513431	1	2	901	7	Tomáš	Šátek			39	údržbář - skladník	Chýnice	99	80	0	M
+2110	513431	1	1	470	8	Jaroslav	Kopecký	Ing.		64	manažer	Chýnice	99	80	0	M

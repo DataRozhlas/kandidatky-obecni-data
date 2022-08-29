@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7203	544906	1	1	7	1	Ivan	Juřica	M	Ing.		53	ekonom	Seninka	7	7	0
-7203	544906	1	1	7	2	Josef	Juřica	M			55	nezaměstnaný	Seninka	7	7	0
-7203	544906	1	1	7	3	Pavel	Bravenec	M			50	živnostník	Seninka	7	7	0
-7203	544906	1	1	7	4	Milan	Hanulík	M			42	řidič	Seninka	99	7	0
-7203	544906	1	1	7	5	Marie	Mrnuštíková	F			53	ekonom	Seninka	99	7	0
-7203	544906	1	1	7	6	Vlastimil	Blažík	M			42	elektromechanik	Seninka	99	7	0
-7203	544906	1	1	7	7	Ondřej	Řezníček	M			28	obchodní zástupce	Seninka	99	7	0
-7203	544906	1	2	470	1	Marie	Řezníčková	F			60	starostka	Seninka	99	166	0
-7203	544906	1	2	470	2	Kateřina	Zukalová	F			43	zootechnik	Seninka	5	80	0
-7203	544906	1	2	470	3	Michal	Zeťák	M			33	tesař	Seninka	99	166	0
-7203	544906	1	2	470	4	Milada	Holečková	F	Ing.		54	ekonom	Seninka	99	166	0
-7203	544906	1	2	470	5	Miloslav	Ondráček	M			42	správce počítačové sítě	Seninka	99	166	0
-7203	544906	1	2	470	6	Eva	Polčáková	F			39	prodavačka	Seninka	99	80	0
-7203	544906	1	2	470	7	Jiří	Chrástecký	M			37	elektromechanik	Seninka	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7203	544906	1	1	7	1	Ivan	Juřica	Ing.		53	ekonom	Seninka	7	7	0	M
+7203	544906	1	2	470	1	Marie	Řezníčková			60	starostka	Seninka	99	166	0	F
+7203	544906	1	1	7	2	Josef	Juřica			55	nezaměstnaný	Seninka	7	7	0	M
+7203	544906	1	2	470	2	Kateřina	Zukalová			43	zootechnik	Seninka	5	80	0	F
+7203	544906	1	1	7	3	Pavel	Bravenec			50	živnostník	Seninka	7	7	0	M
+7203	544906	1	2	470	3	Michal	Zeťák			33	tesař	Seninka	99	166	0	M
+7203	544906	1	1	7	4	Milan	Hanulík			42	řidič	Seninka	99	7	0	M
+7203	544906	1	2	470	4	Milada	Holečková	Ing.		54	ekonom	Seninka	99	166	0	F
+7203	544906	1	1	7	5	Marie	Mrnuštíková			53	ekonom	Seninka	99	7	0	F
+7203	544906	1	2	470	5	Miloslav	Ondráček			42	správce počítačové sítě	Seninka	99	166	0	M
+7203	544906	1	1	7	6	Vlastimil	Blažík			42	elektromechanik	Seninka	99	7	0	M
+7203	544906	1	2	470	6	Eva	Polčáková			39	prodavačka	Seninka	99	80	0	F
+7203	544906	1	1	7	7	Ondřej	Řezníček			28	obchodní zástupce	Seninka	99	7	0	M
+7203	544906	1	2	470	7	Jiří	Chrástecký			37	elektromechanik	Seninka	99	80	0	M

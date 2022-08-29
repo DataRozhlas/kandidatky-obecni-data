@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4205	567221	1	1	808	1	Eduard	Vodrážka	M			59	podnikatel	Korozluky	99	80	0
-4205	567221	1	2	807	1	Zdeněk	Nový	M			50	podnikatel	Korozluky	99	80	0
-4205	567221	1	3	801	1	Vlastimil	Jíša	M	Ing.		47	ředitel závodu	Korozluky	99	80	0
-4205	567221	1	4	810	1	Milan	Fanta	M			51	bezpečnostní pracovník	Korozluky	99	80	0
-4205	567221	1	5	802	1	Eva	Jíšová	F	Ing.		47	obchodní zástupce	Korozluky	53	80	0
-4205	567221	1	6	812	1	Marie	Nová	F			47	podnikatelka	Korozluky	99	80	0
-4205	567221	1	7	809	1	Anna	Vodrážková	F			54	podnikatel	Korozluky	99	80	0
-4205	567221	1	8	901	1	Karel	Paťava	M			32	řidič	Sedlec	99	80	0
-4205	567221	1	8	901	2	Jaroslav	Murarik	M			45	strojník	Sedlec	99	80	0
-4205	567221	1	8	901	3	Miloslav	Kočí	M			33	řidič	Korozluky	99	80	0
-4205	567221	1	8	901	4	Klára	Paťavová	F			33	nezaměstnaná	Sedlec	99	80	0
-4205	567221	1	8	901	5	Dagmar	Chmelová	F			22	poštovní doručovatelka	Korozluky	99	80	0
-4205	567221	1	8	901	6	Petr	Bíba	M			36	učitel autoškoly	Korozluky	99	80	0
-4205	567221	1	8	901	7	Antonín	Kočí	M			44	podnikatel	Sedlec	99	80	0
-4205	567221	1	8	901	8	Tomáš	Dočekal	M			23	dělník	Sedlec	99	80	0
-4205	567221	1	8	901	9	David	Dočekal	M			18	student	Sedlec	99	80	0
-4205	567221	1	9	811	1	Irena	Fantová	F			51	vedoucí stravování ŠJ	Korozluky	99	80	0
-4205	567221	1	10	806	1	František	Kalita	M			41	podnikatel	Korozluky	99	80	0
-4205	567221	1	11	804	1	Stanislav	Vomasta	M			33	zámečník	Korozluky	99	80	0
-4205	567221	1	12	803	1	Luboš	Luňáček	M			42	podnikatel	Korozluky	99	80	0
-4205	567221	1	13	805	1	Dimitrij	Sklenka	M			53	řidič MHD	Korozluky	47	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4205	567221	1	1	808	1	Eduard	Vodrážka			59	podnikatel	Korozluky	99	80	0	M
+4205	567221	1	2	807	1	Zdeněk	Nový			50	podnikatel	Korozluky	99	80	0	M
+4205	567221	1	3	801	1	Vlastimil	Jíša	Ing.		47	ředitel závodu	Korozluky	99	80	0	M
+4205	567221	1	4	810	1	Milan	Fanta			51	bezpečnostní pracovník	Korozluky	99	80	0	M
+4205	567221	1	5	802	1	Eva	Jíšová	Ing.		47	obchodní zástupce	Korozluky	53	80	0	F
+4205	567221	1	6	812	1	Marie	Nová			47	podnikatelka	Korozluky	99	80	0	F
+4205	567221	1	7	809	1	Anna	Vodrážková			54	podnikatel	Korozluky	99	80	0	F
+4205	567221	1	8	901	1	Karel	Paťava			32	řidič	Sedlec	99	80	0	M
+4205	567221	1	9	811	1	Irena	Fantová			51	vedoucí stravování ŠJ	Korozluky	99	80	0	F
+4205	567221	1	10	806	1	František	Kalita			41	podnikatel	Korozluky	99	80	0	M
+4205	567221	1	11	804	1	Stanislav	Vomasta			33	zámečník	Korozluky	99	80	0	M
+4205	567221	1	12	803	1	Luboš	Luňáček			42	podnikatel	Korozluky	99	80	0	M
+4205	567221	1	13	805	1	Dimitrij	Sklenka			53	řidič MHD	Korozluky	47	80	0	M
+4205	567221	1	8	901	2	Jaroslav	Murarik			45	strojník	Sedlec	99	80	0	M
+4205	567221	1	8	901	3	Miloslav	Kočí			33	řidič	Korozluky	99	80	0	M
+4205	567221	1	8	901	4	Klára	Paťavová			33	nezaměstnaná	Sedlec	99	80	0	F
+4205	567221	1	8	901	5	Dagmar	Chmelová			22	poštovní doručovatelka	Korozluky	99	80	0	F
+4205	567221	1	8	901	6	Petr	Bíba			36	učitel autoškoly	Korozluky	99	80	0	M
+4205	567221	1	8	901	7	Antonín	Kočí			44	podnikatel	Sedlec	99	80	0	M
+4205	567221	1	8	901	8	Tomáš	Dočekal			23	dělník	Sedlec	99	80	0	M
+4205	567221	1	8	901	9	David	Dočekal			18	student	Sedlec	99	80	0	M

@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7201	588849	1	1	1	1	Miroslav	Hrnčiřík	M			41	živnostník	Pornice	99	1	0
-7201	588849	1	1	1	2	Stanislav	Zdražil	M			34	živnostník	Pačlavice	99	1	0
-7201	588849	1	1	1	3	Eva	Vdolečková	F			32	kuchařka	Pačlavice	99	1	0
-7201	588849	1	1	1	4	Vladimír	Keršner	M	Ing.	Ph.D.	36	manažer	Pačlavice	99	1	0
-7201	588849	1	1	1	5	Milan	Havelka	M			27	elektromontér	Pačlavice	99	1	0
-7201	588849	1	1	1	6	Marcela	Kuchtíková	F			41	zdravotní sestra	Lhota u Pačlavic	99	1	0
-7201	588849	1	1	1	7	Pavlína	Staňková	F			35	účetní	Pačlavice	99	1	0
-7201	588849	1	1	1	8	Stanislav	Dobeš	M			37	dělník	Pačlavice	99	1	0
-7201	588849	1	1	1	9	Eva	Štěpánová	F	Ing.		33	mateřská dovolená	Pornice	99	1	0
-7201	588849	1	1	1	10	Zdeňka	Petřeková	F			43	prodavačka	Pačlavice	99	1	0
-7201	588849	1	1	1	11	Jan	Legátek	M			70	důchodce	Lhota u Pačlavic	1	1	0
-7201	588849	1	2	901	1	Pavel	Čech	M			34	seřizovač CNC strojů	Pačlavice	99	80	0
-7201	588849	1	2	901	2	Jiří	Soldán	M			38	zedník	Pačlavice	99	80	0
-7201	588849	1	2	901	3	Olga	Dopitová	F			45	sociální pracovnice	Pornice	99	80	0
-7201	588849	1	2	901	4	Pavel	Trávníček	M	Ing.		59	jednatel	Pačlavice	99	80	0
-7201	588849	1	2	901	5	František	Vincenec	M			45	technik - vedoucí střediska	Lhota u Pačlavic	99	80	0
-7201	588849	1	2	901	6	Martin	Dopita	M			29	obsluha NC strojů	Pornice	99	80	0
-7201	588849	1	2	901	7	František	Přibylík	M			48	nástrojař	Pačlavice	99	80	0
-7201	588849	1	2	901	8	Marta	Soukeníková	F			43	pracovník sociální péče	Pačlavice	99	80	0
-7201	588849	1	2	901	9	Petr	Valouch	M			32	opravář	Pornice	99	80	0
-7201	588849	1	2	901	10	Pavla	Soviarová	F			40	účetní	Lhota u Pačlavic	99	80	0
-7201	588849	1	2	901	11	Bronislav	Mich	M			40	učitel ZŠ	Lhota u Pačlavic	99	80	0
-7201	588849	1	3	7	1	Jitka	Kyasová	F	Mgr.		42	učitelka	Pačlavice	99	7	0
-7201	588849	1	3	7	2	Marie	Knéblová	F			48	ekonomka	Pornice	99	7	0
-7201	588849	1	3	7	3	František	Vincenec	M			69	důchodce	Lhota u Pačlavic	99	7	0
-7201	588849	1	3	7	4	Zdeněk	Ptáček	M			46	soustružník	Pornice	99	7	0
-7201	588849	1	3	7	5	Stanislav	Skýva	M			57	podnikatel	Pornice	99	7	0
-7201	588849	1	3	7	6	Jolana	Smažinková	F			42	mzdová účetní	Lhota u Pačlavic	99	7	0
-7201	588849	1	3	7	7	Libor	Adam	M			39	opravář zemědělských strojů	Pačlavice	99	7	0
-7201	588849	1	3	7	8	Karel	Novák	M			59	starosta obce	Pačlavice	7	7	0
-7201	588849	1	3	7	9	Ludvík	Navrátil	M			57	mechanizátor	Lhota u Pačlavic	99	7	0
-7201	588849	1	3	7	10	Zdeněk	Trávníček	M			52	soustružník	Pačlavice	7	7	0
-7201	588849	1	3	7	11	Radislav	Trávníček	M			47	opravář zemědělských strojů	Pačlavice	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7201	588849	1	1	1	1	Miroslav	Hrnčiřík			41	živnostník	Pornice	99	1	0	M
+7201	588849	1	2	901	1	Pavel	Čech			34	seřizovač CNC strojů	Pačlavice	99	80	0	M
+7201	588849	1	3	7	1	Jitka	Kyasová	Mgr.		42	učitelka	Pačlavice	99	7	0	F
+7201	588849	1	1	1	2	Stanislav	Zdražil			34	živnostník	Pačlavice	99	1	0	M
+7201	588849	1	2	901	2	Jiří	Soldán			38	zedník	Pačlavice	99	80	0	M
+7201	588849	1	3	7	2	Marie	Knéblová			48	ekonomka	Pornice	99	7	0	F
+7201	588849	1	1	1	3	Eva	Vdolečková			32	kuchařka	Pačlavice	99	1	0	F
+7201	588849	1	2	901	3	Olga	Dopitová			45	sociální pracovnice	Pornice	99	80	0	F
+7201	588849	1	3	7	3	František	Vincenec			69	důchodce	Lhota u Pačlavic	99	7	0	M
+7201	588849	1	1	1	4	Vladimír	Keršner	Ing.	Ph.D.	36	manažer	Pačlavice	99	1	0	M
+7201	588849	1	2	901	4	Pavel	Trávníček	Ing.		59	jednatel	Pačlavice	99	80	0	M
+7201	588849	1	3	7	4	Zdeněk	Ptáček			46	soustružník	Pornice	99	7	0	M
+7201	588849	1	1	1	5	Milan	Havelka			27	elektromontér	Pačlavice	99	1	0	M
+7201	588849	1	2	901	5	František	Vincenec			45	technik - vedoucí střediska	Lhota u Pačlavic	99	80	0	M
+7201	588849	1	3	7	5	Stanislav	Skýva			57	podnikatel	Pornice	99	7	0	M
+7201	588849	1	1	1	6	Marcela	Kuchtíková			41	zdravotní sestra	Lhota u Pačlavic	99	1	0	F
+7201	588849	1	2	901	6	Martin	Dopita			29	obsluha NC strojů	Pornice	99	80	0	M
+7201	588849	1	3	7	6	Jolana	Smažinková			42	mzdová účetní	Lhota u Pačlavic	99	7	0	F
+7201	588849	1	1	1	7	Pavlína	Staňková			35	účetní	Pačlavice	99	1	0	F
+7201	588849	1	2	901	7	František	Přibylík			48	nástrojař	Pačlavice	99	80	0	M
+7201	588849	1	3	7	7	Libor	Adam			39	opravář zemědělských strojů	Pačlavice	99	7	0	M
+7201	588849	1	1	1	8	Stanislav	Dobeš			37	dělník	Pačlavice	99	1	0	M
+7201	588849	1	2	901	8	Marta	Soukeníková			43	pracovník sociální péče	Pačlavice	99	80	0	F
+7201	588849	1	3	7	8	Karel	Novák			59	starosta obce	Pačlavice	7	7	0	M
+7201	588849	1	1	1	9	Eva	Štěpánová	Ing.		33	mateřská dovolená	Pornice	99	1	0	F
+7201	588849	1	2	901	9	Petr	Valouch			32	opravář	Pornice	99	80	0	M
+7201	588849	1	3	7	9	Ludvík	Navrátil			57	mechanizátor	Lhota u Pačlavic	99	7	0	M
+7201	588849	1	1	1	10	Zdeňka	Petřeková			43	prodavačka	Pačlavice	99	1	0	F
+7201	588849	1	2	901	10	Pavla	Soviarová			40	účetní	Lhota u Pačlavic	99	80	0	F
+7201	588849	1	3	7	10	Zdeněk	Trávníček			52	soustružník	Pačlavice	7	7	0	M
+7201	588849	1	1	1	11	Jan	Legátek			70	důchodce	Lhota u Pačlavic	1	1	0	M
+7201	588849	1	2	901	11	Bronislav	Mich			40	učitel ZŠ	Lhota u Pačlavic	99	80	0	M
+7201	588849	1	3	7	11	Radislav	Trávníček			47	opravář zemědělských strojů	Pačlavice	99	7	0	M

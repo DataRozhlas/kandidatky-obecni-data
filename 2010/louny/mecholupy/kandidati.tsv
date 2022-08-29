@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4204	566454	1	1	47	1	Václav	Vohanka	M			59	vedoucí provozu jatek	Měcholupy	99	47	0
-4204	566454	1	1	47	2	Oldřich	Ledvina	M			56	podnikatel	Měcholupy	99	47	0
-4204	566454	1	1	47	3	Jan	Hála	M			63	zedník	Želeč	99	47	0
-4204	566454	1	1	47	4	Jana	Procházková	F			48	zdravotní sestra	Měcholupy	99	47	0
-4204	566454	1	1	47	5	Jaroslav	Skopec	M			69	důchodce	Měcholupy	99	47	0
-4204	566454	1	1	47	6	Vojtěch	Macák	M			69	důchodce	Velká Černoc	99	47	0
-4204	566454	1	2	902	1	Václav	Hanzal	M			36	podnikatel	Želeč	99	80	0
-4204	566454	1	2	902	2	Martin	Fiala	M			39	podnikatel	Želeč	99	80	0
-4204	566454	1	2	902	3	Martin	Brdička	M			19	student	Želeč	99	80	0
-4204	566454	1	2	902	4	Martin	Pleyner	M			35	podnikatel	Měcholupy	99	80	0
-4204	566454	1	2	902	5	Zdeňka	Šliková	F			51	technik	Velká Černoc	99	80	0
-4204	566454	1	2	902	6	Václav	Durek	M			35	technik	Měcholupy	99	80	0
-4204	566454	1	2	902	7	Kamil	Hajný	M			37	úředník	Želeč	99	80	0
-4204	566454	1	2	902	8	Klára	Cíglová	F			41	učitelka	Měcholupy	99	80	0
-4204	566454	1	2	902	9	Pavel	Tomovič	M			41	technik	Želeč	99	80	0
-4204	566454	1	3	901	1	Doris	Černíková	F		DiS.	55	starostka	Měcholupy	99	80	0
-4204	566454	1	3	901	2	Růžena	Mottlová	F	MUDr.		62	lékařka	Měcholupy	99	80	0
-4204	566454	1	3	901	3	Miroslav	Čakvári	M			37	dělník	Měcholupy	99	80	0
-4204	566454	1	3	901	4	Radomír	Holan	M			39	podnikatel	Velká Černoc	99	80	0
-4204	566454	1	3	901	5	Boris	Košťák	M	Ing.		65	podnikatel	Měcholupy	99	80	0
-4204	566454	1	3	901	6	Luboš	Podroužek	M			43	dělník	Želeč	99	80	0
-4204	566454	1	3	901	7	Danuše	Rampasová	F			38	účetní	Měcholupy	99	80	0
-4204	566454	1	3	901	8	Luboš	Krátký	M			33	skladník	Měcholupy	99	80	0
-4204	566454	1	3	901	9	Jaroslava	Hovorková	F	Ing.		58	zástupce ředitele SOU	Velká Černoc	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4204	566454	1	1	47	1	Václav	Vohanka			59	vedoucí provozu jatek	Měcholupy	99	47	0	M
+4204	566454	1	2	902	1	Václav	Hanzal			36	podnikatel	Želeč	99	80	0	M
+4204	566454	1	3	901	1	Doris	Černíková		DiS.	55	starostka	Měcholupy	99	80	0	F
+4204	566454	1	1	47	2	Oldřich	Ledvina			56	podnikatel	Měcholupy	99	47	0	M
+4204	566454	1	2	902	2	Martin	Fiala			39	podnikatel	Želeč	99	80	0	M
+4204	566454	1	3	901	2	Růžena	Mottlová	MUDr.		62	lékařka	Měcholupy	99	80	0	F
+4204	566454	1	1	47	3	Jan	Hála			63	zedník	Želeč	99	47	0	M
+4204	566454	1	2	902	3	Martin	Brdička			19	student	Želeč	99	80	0	M
+4204	566454	1	3	901	3	Miroslav	Čakvári			37	dělník	Měcholupy	99	80	0	M
+4204	566454	1	1	47	4	Jana	Procházková			48	zdravotní sestra	Měcholupy	99	47	0	F
+4204	566454	1	2	902	4	Martin	Pleyner			35	podnikatel	Měcholupy	99	80	0	M
+4204	566454	1	3	901	4	Radomír	Holan			39	podnikatel	Velká Černoc	99	80	0	M
+4204	566454	1	1	47	5	Jaroslav	Skopec			69	důchodce	Měcholupy	99	47	0	M
+4204	566454	1	2	902	5	Zdeňka	Šliková			51	technik	Velká Černoc	99	80	0	F
+4204	566454	1	3	901	5	Boris	Košťák	Ing.		65	podnikatel	Měcholupy	99	80	0	M
+4204	566454	1	1	47	6	Vojtěch	Macák			69	důchodce	Velká Černoc	99	47	0	M
+4204	566454	1	2	902	6	Václav	Durek			35	technik	Měcholupy	99	80	0	M
+4204	566454	1	3	901	6	Luboš	Podroužek			43	dělník	Želeč	99	80	0	M
+4204	566454	1	2	902	7	Kamil	Hajný			37	úředník	Želeč	99	80	0	M
+4204	566454	1	3	901	7	Danuše	Rampasová			38	účetní	Měcholupy	99	80	0	F
+4204	566454	1	2	902	8	Klára	Cíglová			41	učitelka	Měcholupy	99	80	0	F
+4204	566454	1	3	901	8	Luboš	Krátký			33	skladník	Měcholupy	99	80	0	M
+4204	566454	1	2	902	9	Pavel	Tomovič			41	technik	Želeč	99	80	0	M
+4204	566454	1	3	901	9	Jaroslava	Hovorková	Ing.		58	zástupce ředitele SOU	Velká Černoc	99	80	0	F

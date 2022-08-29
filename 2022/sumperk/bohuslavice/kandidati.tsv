@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	525880	1	1	901	1	Luboš	Vlček	M	Bc.		39	specialista GIS	Bohuslavice	99	80	A
-7105	525880	1	1	901	2	Květoslav	Linhart	M	Mgr.		45	učitel	Bohuslavice	99	80	A
-7105	525880	1	1	901	3	Martin	Kutal	M			45	IT technik	Bohuslavice	99	80	A
-7105	525880	1	1	901	4	Eva	Nimrichterová	F	Ing.		49	daňový poradce	Bohuslavice	99	80	A
-7105	525880	1	1	901	5	Lukáš	Verner	M			31	konstruktér dřevostaveb	Bohuslavice	99	80	A
-7105	525880	1	1	901	6	Pavel	Müller	M			43	mistr ve výrobě	Bohuslavice	99	80	A
-7105	525880	1	1	901	7	Josef	Kutal	M			39	státní zaměstnanec	Bohuslavice	99	80	A
-7105	525880	1	1	901	8	Josef	Krmela	M			48	řidič	Bohuslavice	99	80	A
-7105	525880	1	1	901	9	Jan	Čulík	M			34	kontrolor kvality	Bohuslavice	99	80	A
-7105	525880	1	2	902	1	Tomáš	Kuchařík	M			38	OSVČ	Bohuslavice	99	80	A
-7105	525880	1	2	902	2	Karel	Drlík	M	Ing.		43	konstruktér	Bohuslavice	99	80	A
-7105	525880	1	2	902	3	Josef	Šebesta	M			34	dělník v elektrotechnice	Bohuslavice	99	80	A
-7105	525880	1	2	902	4	Petr	Krump	M			53	jednatel společnosti	Bohuslavice	99	80	A
-7105	525880	1	2	902	5	Petr	Zapletal	M			40	elektrotechnik	Bohuslavice	99	80	A
-7105	525880	1	2	902	6	Veronika	Vernerová	F	Ing.		35	rodičovská dovolená	Bohuslavice	99	80	A
-7105	525880	1	2	902	7	Pavla	Pohořelská	F	Ing.		35	rodičovská dovolená	Bohuslavice	99	80	A
-7105	525880	1	2	902	8	Jana	Vašíčková	F			45	plánovačka výroby	Bohuslavice	99	80	A
-7105	525880	1	2	902	9	Jaroslav	Kadlec	M			40	stolař	Bohuslavice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	525880	1	1	901	1	Luboš	Vlček	Bc.		39	specialista GIS	Bohuslavice	99	80	A	M
+7105	525880	1	2	902	1	Tomáš	Kuchařík			38	OSVČ	Bohuslavice	99	80	A	M
+7105	525880	1	1	901	2	Květoslav	Linhart	Mgr.		45	učitel	Bohuslavice	99	80	A	M
+7105	525880	1	2	902	2	Karel	Drlík	Ing.		43	konstruktér	Bohuslavice	99	80	A	M
+7105	525880	1	1	901	3	Martin	Kutal			45	IT technik	Bohuslavice	99	80	A	M
+7105	525880	1	2	902	3	Josef	Šebesta			34	dělník v elektrotechnice	Bohuslavice	99	80	A	M
+7105	525880	1	1	901	4	Eva	Nimrichterová	Ing.		49	daňový poradce	Bohuslavice	99	80	A	F
+7105	525880	1	2	902	4	Petr	Krump			53	jednatel společnosti	Bohuslavice	99	80	A	M
+7105	525880	1	1	901	5	Lukáš	Verner			31	konstruktér dřevostaveb	Bohuslavice	99	80	A	M
+7105	525880	1	2	902	5	Petr	Zapletal			40	elektrotechnik	Bohuslavice	99	80	A	M
+7105	525880	1	1	901	6	Pavel	Müller			43	mistr ve výrobě	Bohuslavice	99	80	A	M
+7105	525880	1	2	902	6	Veronika	Vernerová	Ing.		35	rodičovská dovolená	Bohuslavice	99	80	A	F
+7105	525880	1	1	901	7	Josef	Kutal			39	státní zaměstnanec	Bohuslavice	99	80	A	M
+7105	525880	1	2	902	7	Pavla	Pohořelská	Ing.		35	rodičovská dovolená	Bohuslavice	99	80	A	F
+7105	525880	1	1	901	8	Josef	Krmela			48	řidič	Bohuslavice	99	80	A	M
+7105	525880	1	2	902	8	Jana	Vašíčková			45	plánovačka výroby	Bohuslavice	99	80	A	F
+7105	525880	1	1	901	9	Jan	Čulík			34	kontrolor kvality	Bohuslavice	99	80	A	M
+7105	525880	1	2	902	9	Jaroslav	Kadlec			40	stolař	Bohuslavice	99	80	A	M

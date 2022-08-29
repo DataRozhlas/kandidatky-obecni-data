@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	553212	1	1	901	1	Jan	Kubíček	M			61	OSVČ	Janoušov	99	80	A
-7105	553212	1	1	901	2	Michal	Kubíček	M			49	obchodní zástupce	Janoušov	99	80	A
-7105	553212	1	1	901	3	František	Kubíček	M			61	ošetřovatel skotu	Janoušov	99	80	A
-7105	553212	1	1	901	4	Alena	Voglová	F			61	důchodce	Janoušov	99	80	A
-7105	553212	1	1	901	5	Jan	Diviš	M			61	invalidní důchodce	Janoušov	99	80	A
-7105	553212	1	1	901	6	Michal	Petr	M			38	Policie ČR	Janoušov	99	80	A
-7105	553212	1	1	901	7	Pavel	Žerníček	M			46	OSVČ	Janoušov	99	80	A
-7105	553212	1	2	53	1	Monika	Růžičková	F			46	pracovnice v zemědělství	Janoušov	99	53	A
-7105	553212	1	2	53	2	Libuše	Bajorková	F			71	důchodkyně	Janoušov	99	53	A
-7105	553212	1	2	53	3	Jan	Kubíček	M	Ing.		74	důchodce	Janoušov	53	53	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	553212	1	1	901	1	Jan	Kubíček			61	OSVČ	Janoušov	99	80	A	M
+7105	553212	1	2	53	1	Monika	Růžičková			46	pracovnice v zemědělství	Janoušov	99	53	A	F
+7105	553212	1	1	901	2	Michal	Kubíček			49	obchodní zástupce	Janoušov	99	80	A	M
+7105	553212	1	2	53	2	Libuše	Bajorková			71	důchodkyně	Janoušov	99	53	A	F
+7105	553212	1	1	901	3	František	Kubíček			61	ošetřovatel skotu	Janoušov	99	80	A	M
+7105	553212	1	2	53	3	Jan	Kubíček	Ing.		74	důchodce	Janoušov	53	53	A	M
+7105	553212	1	1	901	4	Alena	Voglová			61	důchodce	Janoušov	99	80	A	F
+7105	553212	1	1	901	5	Jan	Diviš			61	invalidní důchodce	Janoušov	99	80	A	M
+7105	553212	1	1	901	6	Michal	Petr			38	Policie ČR	Janoušov	99	80	A	M
+7105	553212	1	1	901	7	Pavel	Žerníček			46	OSVČ	Janoušov	99	80	A	M

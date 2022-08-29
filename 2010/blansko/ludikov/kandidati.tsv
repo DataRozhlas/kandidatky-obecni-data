@@ -1,9 +1,9 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	531006	1	1	1	1	František	Veselý	M	Ing.		37	THP	Ludíkov	1	1	0
-6201	531006	1	1	1	2	Petr	Šindelka	M			36	OSVČ	Ludíkov	99	1	0
-6201	531006	1	1	1	3	Hana	Veselá	F	Mgr.		25	učitelka ZŠ	Ludíkov	99	1	0
-6201	531006	1	1	1	4	Pavel	Šindelka	M			35	OSVČ	Ludíkov	99	1	0
-6201	531006	1	1	1	5	Kamil	Veselý	M			35	OSVČ	Ludíkov	99	1	0
-6201	531006	1	1	1	6	Jan	Trnečka	M			35	technik	Ludíkov	99	1	0
-6201	531006	1	1	1	7	Tomáš	Zedník	M			31	dělník	Ludíkov	99	1	0
-6201	531006	1	2	801	1	Jaroslav	Hošek	M			54	mistr	Ludíkov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	531006	1	1	1	1	František	Veselý	Ing.		37	THP	Ludíkov	1	1	0	M
+6201	531006	1	2	801	1	Jaroslav	Hošek			54	mistr	Ludíkov	99	80	0	M
+6201	531006	1	1	1	2	Petr	Šindelka			36	OSVČ	Ludíkov	99	1	0	M
+6201	531006	1	1	1	3	Hana	Veselá	Mgr.		25	učitelka ZŠ	Ludíkov	99	1	0	F
+6201	531006	1	1	1	4	Pavel	Šindelka			35	OSVČ	Ludíkov	99	1	0	M
+6201	531006	1	1	1	5	Kamil	Veselý			35	OSVČ	Ludíkov	99	1	0	M
+6201	531006	1	1	1	6	Jan	Trnečka			35	technik	Ludíkov	99	1	0	M
+6201	531006	1	1	1	7	Tomáš	Zedník			31	dělník	Ludíkov	99	1	0	M

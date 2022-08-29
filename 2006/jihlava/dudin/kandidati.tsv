@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6102	587087	1	1	901	1	Dana	Štěpánová	F			52	podnikatelka	Dudín	99	80	0
-6102	587087	1	1	901	2	Eva	Nováková	F			40	nezaměstnaná	Dudín	99	80	0
-6102	587087	1	1	901	3	Miroslav	Novák	M			61	lesní dělník	Dudín	99	80	0
-6102	587087	1	1	901	4	Petr	Neckař	M			31	dělník	Dudín	99	80	0
-6102	587087	1	1	901	5	Petr	Král	M			30	invalidní důchodce	Dudín	99	80	0
-6102	587087	1	1	901	6	Petr	Duba	M			30	referent kvality	Dudín	99	80	0
-6102	587087	1	1	901	7	Vladimír	Dolejš	M			23	prodavač	Dudín	99	80	0
-6102	587087	1	2	902	1	Danuše	Rodová	F			61	důchodkyně	Dudín	99	80	0
-6102	587087	1	2	902	2	Pavel	Oháňka	M			39	kuchař	Dudín	99	80	0
-6102	587087	1	2	902	3	Zdeněk	Fujko	M			47	hlíd.služ.	Dudín	99	80	0
-6102	587087	1	2	902	4	Jan	Vácha	M			43	invalidní důchodce	Dudín	99	80	0
-6102	587087	1	2	902	5	Rostislav	Ott	M			25	zedník	Dudín	99	80	0
-6102	587087	1	2	902	6	Jana	Váchová	F			61	důchodkyně	Dudín	99	80	0
-6102	587087	1	2	902	7	Hana	Dolejšová	F			42	v domácnosti	Dudín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6102	587087	1	1	901	1	Dana	Štěpánová			52	podnikatelka	Dudín	99	80	0	F
+6102	587087	1	2	902	1	Danuše	Rodová			61	důchodkyně	Dudín	99	80	0	F
+6102	587087	1	1	901	2	Eva	Nováková			40	nezaměstnaná	Dudín	99	80	0	F
+6102	587087	1	2	902	2	Pavel	Oháňka			39	kuchař	Dudín	99	80	0	M
+6102	587087	1	1	901	3	Miroslav	Novák			61	lesní dělník	Dudín	99	80	0	M
+6102	587087	1	2	902	3	Zdeněk	Fujko			47	hlíd.služ.	Dudín	99	80	0	M
+6102	587087	1	1	901	4	Petr	Neckař			31	dělník	Dudín	99	80	0	M
+6102	587087	1	2	902	4	Jan	Vácha			43	invalidní důchodce	Dudín	99	80	0	M
+6102	587087	1	1	901	5	Petr	Král			30	invalidní důchodce	Dudín	99	80	0	M
+6102	587087	1	2	902	5	Rostislav	Ott			25	zedník	Dudín	99	80	0	M
+6102	587087	1	1	901	6	Petr	Duba			30	referent kvality	Dudín	99	80	0	M
+6102	587087	1	2	902	6	Jana	Váchová			61	důchodkyně	Dudín	99	80	0	F
+6102	587087	1	1	901	7	Vladimír	Dolejš			23	prodavač	Dudín	99	80	0	M
+6102	587087	1	2	902	7	Hana	Dolejšová			42	v domácnosti	Dudín	99	80	0	F

@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	551490	1	1	901	1	Petra	Voborská	F	Ing.		35	administrativní pracovník	Branišov	99	80	A
-3101	551490	1	1	901	2	Zdeněk	Farkač	M			66	důchodce	Branišov	99	80	A
-3101	551490	1	1	901	3	Kateřina	Regendová	F	SCS. Lic.		43	pečující o osobu blízkou, mediální konzultant	Branišov	1	80	A
-3101	551490	1	1	901	4	Štěpán	Vališ	M			44	revizní technik	Branišov	99	80	A
-3101	551490	1	1	901	5	Lucie	Vachtová	F		BBS	40	účetní	Branišov	99	80	A
-3101	551490	1	1	901	6	Petr	Kovařík	M			58	geodet	Branišov	99	80	A
-3101	551490	1	1	901	7	Radek	Latka	M			46	zedník	Branišov	99	80	A
-3101	551490	1	1	901	8	Kateřina	Janíková	F			48	Policie ČR	Branišov	99	80	A
-3101	551490	1	1	901	9	Jiří	Benda	M	Ing.		39	software developer	Branišov	99	80	A
-3101	551490	1	2	902	1	Radomír	Thaler	M			66	ředitel - CENTRUM REPRODUKČNÍ MEDICÍNY Sanatorium ART	Branišov	99	80	A
-3101	551490	1	2	902	2	Jiřina	Nohavová	F			63	vedoucí - FINANCOVÁNÍ A SPRÁVA POHLEDÁVEK HOCHTIEF	Branišov	99	80	A
-3101	551490	1	2	902	3	Bohuslav	Mášl	M	Ing.		69	ředitel - BROKER TEAM	Branišov	99	80	A
-3101	551490	1	2	902	4	Jan	Kaňka	M			55	pekař - PENAM	Branišov	99	80	A
-3101	551490	1	2	902	5	Pavel	Foltan	M	RNDr.	Ph.D.	41	ředitel - i2l Research Europe	Branišov	99	80	A
-3101	551490	1	2	902	6	Marek	Drahokoupil	M			46	koordinátor realizačních činností	Branišov	99	80	A
-3101	551490	1	2	902	7	Eva	Honnerová	F			57	zdravotní sestra - Nemocnice České Budějovice	Branišov	99	80	A
-3101	551490	1	2	902	8	Miroslava	Jůzová	F	Mgr.		37	speciální pedagog - MŠ, ZŠ a PrŠ České Budějovice	Branišov	99	80	A
-3101	551490	1	2	902	9	Martin	Kerekanič	M	MUDr.		31	lékař neurochirurg - Nemocnice České Budějovice	Branišov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	551490	1	1	901	1	Petra	Voborská	Ing.		35	administrativní pracovník	Branišov	99	80	A	F
+3101	551490	1	2	902	1	Radomír	Thaler			66	ředitel - CENTRUM REPRODUKČNÍ MEDICÍNY Sanatorium ART	Branišov	99	80	A	M
+3101	551490	1	1	901	2	Zdeněk	Farkač			66	důchodce	Branišov	99	80	A	M
+3101	551490	1	2	902	2	Jiřina	Nohavová			63	vedoucí - FINANCOVÁNÍ A SPRÁVA POHLEDÁVEK HOCHTIEF	Branišov	99	80	A	F
+3101	551490	1	1	901	3	Kateřina	Regendová	SCS. Lic.		43	pečující o osobu blízkou, mediální konzultant	Branišov	1	80	A	F
+3101	551490	1	2	902	3	Bohuslav	Mášl	Ing.		69	ředitel - BROKER TEAM	Branišov	99	80	A	M
+3101	551490	1	1	901	4	Štěpán	Vališ			44	revizní technik	Branišov	99	80	A	M
+3101	551490	1	2	902	4	Jan	Kaňka			55	pekař - PENAM	Branišov	99	80	A	M
+3101	551490	1	1	901	5	Lucie	Vachtová		BBS	40	účetní	Branišov	99	80	A	F
+3101	551490	1	2	902	5	Pavel	Foltan	RNDr.	Ph.D.	41	ředitel - i2l Research Europe	Branišov	99	80	A	M
+3101	551490	1	1	901	6	Petr	Kovařík			58	geodet	Branišov	99	80	A	M
+3101	551490	1	2	902	6	Marek	Drahokoupil			46	koordinátor realizačních činností	Branišov	99	80	A	M
+3101	551490	1	1	901	7	Radek	Latka			46	zedník	Branišov	99	80	A	M
+3101	551490	1	2	902	7	Eva	Honnerová			57	zdravotní sestra - Nemocnice České Budějovice	Branišov	99	80	A	F
+3101	551490	1	1	901	8	Kateřina	Janíková			48	Policie ČR	Branišov	99	80	A	F
+3101	551490	1	2	902	8	Miroslava	Jůzová	Mgr.		37	speciální pedagog - MŠ, ZŠ a PrŠ České Budějovice	Branišov	99	80	A	F
+3101	551490	1	1	901	9	Jiří	Benda	Ing.		39	software developer	Branišov	99	80	A	M
+3101	551490	1	2	902	9	Martin	Kerekanič	MUDr.		31	lékař neurochirurg - Nemocnice České Budějovice	Branišov	99	80	A	M

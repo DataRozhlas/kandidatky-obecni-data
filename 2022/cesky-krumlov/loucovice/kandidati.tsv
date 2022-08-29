@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3102	545601	1	1	903	1	Jan	Kubík	M	Ing.		43	starosta obce	Loučovice	768	80	A
-3102	545601	1	1	903	2	Eduard	Benc	M	MUDr.		37	lékař	Loučovice	99	80	A
-3102	545601	1	1	903	3	Stanislav	Hackl	M			57	OSVČ	Loučovice	99	80	A
-3102	545601	1	1	903	4	Petr	Procházka	M			52	OSVČ	Loučovice	99	80	A
-3102	545601	1	1	903	5	František	Fazekas	M			33	kameraman - produkční	Loučovice	99	80	A
-3102	545601	1	1	903	6	Josef	Gondek	M			47	OSVČ	Loučovice	99	80	A
-3102	545601	1	1	903	7	Jana	Pařílková	F			38	kuchařka	Loučovice	99	80	A
-3102	545601	1	1	903	8	Lucie	Bencová	F	MUDr.		35	lékařka	Loučovice	99	80	A
-3102	545601	1	1	903	9	František	Zimmermann	M	Ing.		74	OSVČ	Loučovice	99	80	A
-3102	545601	1	1	903	10	Jana	Loudová	F			42	obsluha ČS	Loučovice	99	80	A
-3102	545601	1	1	903	11	Marie	Bencová	F	MUDr.		68	lékařka	Loučovice	99	80	A
-3102	545601	1	2	901	1	Petr	Štěpánek	M			42	mistr technických služeb	Loučovice	99	80	A
-3102	545601	1	2	901	2	Petr	Galazka	M			28	pracovník technických služeb	Loučovice	99	80	A
-3102	545601	1	2	901	3	Bedřich	Konečný	M			37	IT technik	Loučovice	99	80	A
-3102	545601	1	2	901	4	Libor	Růžek	M			34	OSVČ	Loučovice	99	80	A
-3102	545601	1	2	901	5	Jan	Straka	M			46	pracovník technických služeb	Loučovice	99	80	A
-3102	545601	1	2	901	6	Marian	Levai	M			47	profesionální řidič	Loučovice	99	80	A
-3102	545601	1	2	901	7	Lubomír	Jirka	M			57	vedoucí provozu	Loučovice	99	80	A
-3102	545601	1	2	901	8	Jaroslav	Štich	M			42	pracovník technických služeb	Loučovice	99	80	A
-3102	545601	1	2	901	9	Richard	Bejdák	M			24	kuchař	Loučovice	99	80	A
-3102	545601	1	2	901	10	Marie	Hurdová	F			40	stavební asistent - technik	Loučovice	99	80	A
-3102	545601	1	2	901	11	Josef	Toth	M			49	OSVČ	Loučovice	99	80	A
-3102	545601	1	3	902	1	Pavla	Vachová	F	Mgr.		42	vedoucí pracovník pečovatelské služby	Loučovice	99	80	A
-3102	545601	1	3	902	2	Kateřina	Berná	F	Mgr. Bc.		36	fyzioterapeutka	Loučovice	99	80	A
-3102	545601	1	3	902	3	Zuzana	Mikešová	F	Mgr.		69	účetní	Loučovice	47	80	A
-3102	545601	1	3	902	4	Anna	Vaňková	F			70	OSVČ	Loučovice	99	80	A
-3102	545601	1	3	902	5	Jitka	Žižková	F			57	referent státní správy	Loučovice	99	80	A
-3102	545601	1	3	902	6	Pavlína	Bigasová	F	Mgr.		56	pedagog	Loučovice	99	80	A
-3102	545601	1	3	902	7	Jan	Žižka	M			58	vedoucí pracovník	Loučovice	99	80	A
-3102	545601	1	3	902	8	Luboš	Novotný	M			65	důchodce	Loučovice	99	80	A
-3102	545601	1	3	902	9	Jaromír	Mikeš	M			73	OSVČ	Loučovice	47	80	A
-3102	545601	1	3	902	10	Lukáš	Vaněk	M			47	OSVČ	Loučovice	99	80	A
-3102	545601	1	3	902	11	Alena	Ehlová	F			60	skladnice	Loučovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3102	545601	1	1	903	1	Jan	Kubík	Ing.		43	starosta obce	Loučovice	768	80	A	M
+3102	545601	1	2	901	1	Petr	Štěpánek			42	mistr technických služeb	Loučovice	99	80	A	M
+3102	545601	1	3	902	1	Pavla	Vachová	Mgr.		42	vedoucí pracovník pečovatelské služby	Loučovice	99	80	A	F
+3102	545601	1	1	903	2	Eduard	Benc	MUDr.		37	lékař	Loučovice	99	80	A	M
+3102	545601	1	2	901	2	Petr	Galazka			28	pracovník technických služeb	Loučovice	99	80	A	M
+3102	545601	1	3	902	2	Kateřina	Berná	Mgr. Bc.		36	fyzioterapeutka	Loučovice	99	80	A	F
+3102	545601	1	1	903	3	Stanislav	Hackl			57	OSVČ	Loučovice	99	80	A	M
+3102	545601	1	2	901	3	Bedřich	Konečný			37	IT technik	Loučovice	99	80	A	M
+3102	545601	1	3	902	3	Zuzana	Mikešová	Mgr.		69	účetní	Loučovice	47	80	A	F
+3102	545601	1	1	903	4	Petr	Procházka			52	OSVČ	Loučovice	99	80	A	M
+3102	545601	1	2	901	4	Libor	Růžek			34	OSVČ	Loučovice	99	80	A	M
+3102	545601	1	3	902	4	Anna	Vaňková			70	OSVČ	Loučovice	99	80	A	F
+3102	545601	1	1	903	5	František	Fazekas			33	kameraman - produkční	Loučovice	99	80	A	M
+3102	545601	1	2	901	5	Jan	Straka			46	pracovník technických služeb	Loučovice	99	80	A	M
+3102	545601	1	3	902	5	Jitka	Žižková			57	referent státní správy	Loučovice	99	80	A	F
+3102	545601	1	1	903	6	Josef	Gondek			47	OSVČ	Loučovice	99	80	A	M
+3102	545601	1	2	901	6	Marian	Levai			47	profesionální řidič	Loučovice	99	80	A	M
+3102	545601	1	3	902	6	Pavlína	Bigasová	Mgr.		56	pedagog	Loučovice	99	80	A	F
+3102	545601	1	1	903	7	Jana	Pařílková			38	kuchařka	Loučovice	99	80	A	F
+3102	545601	1	2	901	7	Lubomír	Jirka			57	vedoucí provozu	Loučovice	99	80	A	M
+3102	545601	1	3	902	7	Jan	Žižka			58	vedoucí pracovník	Loučovice	99	80	A	M
+3102	545601	1	1	903	8	Lucie	Bencová	MUDr.		35	lékařka	Loučovice	99	80	A	F
+3102	545601	1	2	901	8	Jaroslav	Štich			42	pracovník technických služeb	Loučovice	99	80	A	M
+3102	545601	1	3	902	8	Luboš	Novotný			65	důchodce	Loučovice	99	80	A	M
+3102	545601	1	1	903	9	František	Zimmermann	Ing.		74	OSVČ	Loučovice	99	80	A	M
+3102	545601	1	2	901	9	Richard	Bejdák			24	kuchař	Loučovice	99	80	A	M
+3102	545601	1	3	902	9	Jaromír	Mikeš			73	OSVČ	Loučovice	47	80	A	M
+3102	545601	1	1	903	10	Jana	Loudová			42	obsluha ČS	Loučovice	99	80	A	F
+3102	545601	1	2	901	10	Marie	Hurdová			40	stavební asistent - technik	Loučovice	99	80	A	F
+3102	545601	1	3	902	10	Lukáš	Vaněk			47	OSVČ	Loučovice	99	80	A	M
+3102	545601	1	1	903	11	Marie	Bencová	MUDr.		68	lékařka	Loučovice	99	80	A	F
+3102	545601	1	2	901	11	Josef	Toth			49	OSVČ	Loučovice	99	80	A	M
+3102	545601	1	3	902	11	Alena	Ehlová			60	skladnice	Loučovice	99	80	A	F

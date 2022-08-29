@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	552011	1	1	802	1	David	Streck	M		DiS.	28	podnikatel	Štarnov	99	80	0
-7102	552011	1	2	53	1	Daniela	Dvorská	F	RNDr.		43	ředitelka Zdravotního ústavu	Štarnov	99	53	0
-7102	552011	1	2	53	2	Jiří	Langer	M	Ing.		47	technický pracovník	Štarnov	99	53	0
-7102	552011	1	2	53	3	Irena	Tiefenbachová	F			26	referentka OŽP MěÚ Uničov	Štarnov	99	53	0
-7102	552011	1	3	801	1	Ladislav	Streck	M		DiS.	26	programátor	Štarnov	99	80	0
-7102	552011	1	4	901	1	Stanislav	Nykl	M	Ing.		45	místostarosta	Štarnov	99	80	0
-7102	552011	1	4	901	2	Jitka	Zuzaňáková	F	Ing.		64	důchodkyně	Štarnov	99	80	0
-7102	552011	1	4	901	3	Jiří	Husák	M	Mgr.		39	ředitel základní školy	Štarnov	99	80	0
-7102	552011	1	4	901	4	Anna	Korandová	F			49	soukr. podnikatelka-aranžérka	Štarnov	99	80	0
-7102	552011	1	4	901	5	Jana	Mikudíková	F			50	úřednice státní správy	Štarnov	99	80	0
-7102	552011	1	4	901	6	Bronislav	Římský	M			39	geodet	Štarnov	99	80	0
-7102	552011	1	4	901	7	Jiří	Hudec	M	Ing.		48	soukromý podnikatel	Štarnov	99	80	0
-7102	552011	1	4	901	8	Iveta	Volfová	F			36	administrativní pracovnice	Štarnov	99	80	0
-7102	552011	1	5	1	1	Jiří	Martinů	M	MUDr.		51	lékař	Štarnov	1	1	0
-7102	552011	1	5	1	2	Jana	Veselská	F			43	prodavačka	Štarnov	99	1	0
-7102	552011	1	5	1	3	Jaroslav	Zuzaňák	M	Ing.		65	důchodce	Štarnov	99	1	0
-7102	552011	1	5	1	4	Lenka	Bartošková	F			21	učitelka MŠ	Štarnov	99	1	0
-7102	552011	1	5	1	5	Drahomíra	Boštíková	F			44	dělnice	Štarnov	1	1	0
-7102	552011	1	5	1	6	Lucie	Šperlíková	F	Mgr.		24	mateřská dovolená	Štarnov	99	1	0
-7102	552011	1	5	1	7	Jitka	Drozdová	F			44	administrativní pracovnice	Štarnov	99	1	0
-7102	552011	1	5	1	8	Pavel	Derka	M			26	dělník	Štarnov	99	1	0
-7102	552011	1	5	1	9	Jiří	Boštík	M			21	student	Štarnov	99	1	0
-7102	552011	1	5	1	10	Ludmila	Veselská	F			45	cukrovinkářka	Štarnov	1	1	0
-7102	552011	1	5	1	11	Marie	Viesnerová	F			57	důchodkyně	Štarnov	99	1	0
-7102	552011	1	5	1	12	Anna	Kasalická	F			58	uklízečka	Štarnov	1	1	0
-7102	552011	1	5	1	13	Metoděj	Gaja	M			83	důchodce	Štarnov	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	552011	1	1	802	1	David	Streck		DiS.	28	podnikatel	Štarnov	99	80	0	M
+7102	552011	1	2	53	1	Daniela	Dvorská	RNDr.		43	ředitelka Zdravotního ústavu	Štarnov	99	53	0	F
+7102	552011	1	3	801	1	Ladislav	Streck		DiS.	26	programátor	Štarnov	99	80	0	M
+7102	552011	1	4	901	1	Stanislav	Nykl	Ing.		45	místostarosta	Štarnov	99	80	0	M
+7102	552011	1	5	1	1	Jiří	Martinů	MUDr.		51	lékař	Štarnov	1	1	0	M
+7102	552011	1	2	53	2	Jiří	Langer	Ing.		47	technický pracovník	Štarnov	99	53	0	M
+7102	552011	1	4	901	2	Jitka	Zuzaňáková	Ing.		64	důchodkyně	Štarnov	99	80	0	F
+7102	552011	1	5	1	2	Jana	Veselská			43	prodavačka	Štarnov	99	1	0	F
+7102	552011	1	2	53	3	Irena	Tiefenbachová			26	referentka OŽP MěÚ Uničov	Štarnov	99	53	0	F
+7102	552011	1	4	901	3	Jiří	Husák	Mgr.		39	ředitel základní školy	Štarnov	99	80	0	M
+7102	552011	1	5	1	3	Jaroslav	Zuzaňák	Ing.		65	důchodce	Štarnov	99	1	0	M
+7102	552011	1	4	901	4	Anna	Korandová			49	soukr. podnikatelka-aranžérka	Štarnov	99	80	0	F
+7102	552011	1	5	1	4	Lenka	Bartošková			21	učitelka MŠ	Štarnov	99	1	0	F
+7102	552011	1	4	901	5	Jana	Mikudíková			50	úřednice státní správy	Štarnov	99	80	0	F
+7102	552011	1	5	1	5	Drahomíra	Boštíková			44	dělnice	Štarnov	1	1	0	F
+7102	552011	1	4	901	6	Bronislav	Římský			39	geodet	Štarnov	99	80	0	M
+7102	552011	1	5	1	6	Lucie	Šperlíková	Mgr.		24	mateřská dovolená	Štarnov	99	1	0	F
+7102	552011	1	4	901	7	Jiří	Hudec	Ing.		48	soukromý podnikatel	Štarnov	99	80	0	M
+7102	552011	1	5	1	7	Jitka	Drozdová			44	administrativní pracovnice	Štarnov	99	1	0	F
+7102	552011	1	4	901	8	Iveta	Volfová			36	administrativní pracovnice	Štarnov	99	80	0	F
+7102	552011	1	5	1	8	Pavel	Derka			26	dělník	Štarnov	99	1	0	M
+7102	552011	1	5	1	9	Jiří	Boštík			21	student	Štarnov	99	1	0	M
+7102	552011	1	5	1	10	Ludmila	Veselská			45	cukrovinkářka	Štarnov	1	1	0	F
+7102	552011	1	5	1	11	Marie	Viesnerová			57	důchodkyně	Štarnov	99	1	0	F
+7102	552011	1	5	1	12	Anna	Kasalická			58	uklízečka	Štarnov	1	1	0	F
+7102	552011	1	5	1	13	Metoděj	Gaja			83	důchodce	Štarnov	99	1	0	M

@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	554201	1	1	482	1	František	Svoboda	M			55	seřizovač	Semněvice	99	715	A
-3201	554201	1	1	482	2	Vendula	Schirová	F			48	invalidní důchodce, dříve dělnice v tesárně	Semněvice	99	80	A
-3201	554201	1	1	482	3	Barbora	Schirová	F			24	na mateřské dovolené, dělnice v elektrotechnice	Semněvice	99	80	A
-3201	554201	1	2	901	1	Josef	Hálek	M			72	důchodce	Šlovice	99	80	A
-3201	554201	1	2	901	2	Milan	Pepo	M			55	OBZP	Semněvice	99	80	A
-3201	554201	1	2	901	3	Lenka	Vořechovská	F			48	referentka	Pocinovice	99	80	A
-3201	554201	1	2	901	4	Veronika	Nováková	F	Bc.		31	logistka	Semněvice	99	80	A
-3201	554201	1	2	901	5	Luboš	Hajs	M			41	dělník	Semněvice	99	80	A
-3201	554201	1	2	901	6	Václav	Tureček	M			36	OSVČ	Pocinovice	99	80	A
-3201	554201	1	2	901	7	Magda	Pflugová	F	Bc.	DiS.	30	mateřská dovolená	Semněvice	99	80	A
-3201	554201	1	2	901	8	Andrea	Pachovská	F			33	administrativní pracovnice	Šlovice	99	80	A
-3201	554201	1	2	901	9	Tomáš	Jílek	M			28	OSVČ	Semněvice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	554201	1	1	482	1	František	Svoboda			55	seřizovač	Semněvice	99	715	A	M
+3201	554201	1	2	901	1	Josef	Hálek			72	důchodce	Šlovice	99	80	A	M
+3201	554201	1	1	482	2	Vendula	Schirová			48	invalidní důchodce, dříve dělnice v tesárně	Semněvice	99	80	A	F
+3201	554201	1	2	901	2	Milan	Pepo			55	OBZP	Semněvice	99	80	A	M
+3201	554201	1	1	482	3	Barbora	Schirová			24	na mateřské dovolené, dělnice v elektrotechnice	Semněvice	99	80	A	F
+3201	554201	1	2	901	3	Lenka	Vořechovská			48	referentka	Pocinovice	99	80	A	F
+3201	554201	1	2	901	4	Veronika	Nováková	Bc.		31	logistka	Semněvice	99	80	A	F
+3201	554201	1	2	901	5	Luboš	Hajs			41	dělník	Semněvice	99	80	A	M
+3201	554201	1	2	901	6	Václav	Tureček			36	OSVČ	Pocinovice	99	80	A	M
+3201	554201	1	2	901	7	Magda	Pflugová	Bc.	DiS.	30	mateřská dovolená	Semněvice	99	80	A	F
+3201	554201	1	2	901	8	Andrea	Pachovská			33	administrativní pracovnice	Šlovice	99	80	A	F
+3201	554201	1	2	901	9	Tomáš	Jílek			28	OSVČ	Semněvice	99	80	A	M

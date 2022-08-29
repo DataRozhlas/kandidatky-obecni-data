@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2105	534242	1	1	901	1	Aleš	Němec	M			48	OSVČ	Nové Dvory	99	80	A
-2105	534242	1	1	901	2	Pavel	Vaško	M	Mgr.		40	učitel	Nové Dvory	99	80	A
-2105	534242	1	1	901	3	Monika	Dastychová	F			25	vychovatelka	Nové Dvory	99	80	A
-2105	534242	1	1	901	4	Jiří	Žíla	M	Ing.		35	OSVČ	Nové Dvory	99	80	A
-2105	534242	1	1	901	5	Lenka	Najjar	F			37	rodičovská dovolená	Nové Dvory	99	80	A
-2105	534242	1	1	901	6	Dalibor	Mierva	M	Mgr.		63	technik BOZP a PO	Nové Dvory	99	80	A
-2105	534242	1	1	901	7	Pavel	Král	M			47	OSVČ	Nové Dvory	99	80	A
-2105	534242	1	1	901	8	Jana	Sadílková	F	PharmDr.		44	lékárník	Nové Dvory	99	80	A
-2105	534242	1	1	901	9	Tomáš	Hubal	M			49	OSVČ	Nové Dvory	99	80	A
-2105	534242	1	2	903	1	Vanda	Vöröšová	F			56	starostka	Nové Dvory	99	80	A
-2105	534242	1	2	903	2	Milota	Skolil	M			68	podnikatel	Nové Dvory	99	80	A
-2105	534242	1	2	903	3	Tomáš	Račák	M			49	náměstek ředitele	Nové Dvory	99	80	A
-2105	534242	1	2	903	4	Olga	Vaňková	F		DiS.	36	zdravotní sestra	Nové Dvory	99	80	A
-2105	534242	1	2	903	5	Jaroslav	Uher	M			55	stavbyvedoucí	Nové Dvory	99	80	A
-2105	534242	1	2	903	6	Dalibor	Hlavatý	M			45	OSVČ	Nové Dvory	99	80	A
-2105	534242	1	2	903	7	Ladislav	Fujko	M			54	OSVČ	Nové Dvory	99	80	A
-2105	534242	1	2	903	8	Miloslav	Rak	M			67	důchodce	Nové Dvory	99	80	A
-2105	534242	1	2	903	9	Jaroslav	Sochůrek	M			68	důchodce	Nové Dvory	99	80	A
-2105	534242	1	3	902	1	Jan	Dušek	M			33	řidič - skladník	Nové Dvory	99	80	A
-2105	534242	1	3	902	2	Martin	Fiala	M			55	automechanik	Nové Dvory	99	80	A
-2105	534242	1	3	902	3	Kateřina	Pavlíková	F			48	dělnice	Nové Dvory	47	80	A
-2105	534242	1	3	902	4	Jaroslav	Dušek	M			58	koordinátor výroby a kooperací	Nové Dvory	99	80	A
-2105	534242	1	3	902	5	Petr	Bucifal	M			28	OSVČ	Nové Dvory	99	80	A
-2105	534242	1	3	902	6	Dana	Veberová	F			34	učitelka	Nové Dvory	99	80	A
-2105	534242	1	3	902	7	Eva	Procházková	F			61	učitelka MŠ	Nové Dvory	47	80	A
-2105	534242	1	3	902	8	Zdeněk	Vřešťál	M			66	hudebník	Nové Dvory	99	80	A
-2105	534242	1	3	902	9	Jan	Vízner	M			21	číšník	Nové Dvory	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2105	534242	1	1	901	1	Aleš	Němec			48	OSVČ	Nové Dvory	99	80	A	M
+2105	534242	1	2	903	1	Vanda	Vöröšová			56	starostka	Nové Dvory	99	80	A	F
+2105	534242	1	3	902	1	Jan	Dušek			33	řidič - skladník	Nové Dvory	99	80	A	M
+2105	534242	1	1	901	2	Pavel	Vaško	Mgr.		40	učitel	Nové Dvory	99	80	A	M
+2105	534242	1	2	903	2	Milota	Skolil			68	podnikatel	Nové Dvory	99	80	A	M
+2105	534242	1	3	902	2	Martin	Fiala			55	automechanik	Nové Dvory	99	80	A	M
+2105	534242	1	1	901	3	Monika	Dastychová			25	vychovatelka	Nové Dvory	99	80	A	F
+2105	534242	1	2	903	3	Tomáš	Račák			49	náměstek ředitele	Nové Dvory	99	80	A	M
+2105	534242	1	3	902	3	Kateřina	Pavlíková			48	dělnice	Nové Dvory	47	80	A	F
+2105	534242	1	1	901	4	Jiří	Žíla	Ing.		35	OSVČ	Nové Dvory	99	80	A	M
+2105	534242	1	2	903	4	Olga	Vaňková		DiS.	36	zdravotní sestra	Nové Dvory	99	80	A	F
+2105	534242	1	3	902	4	Jaroslav	Dušek			58	koordinátor výroby a kooperací	Nové Dvory	99	80	A	M
+2105	534242	1	1	901	5	Lenka	Najjar			37	rodičovská dovolená	Nové Dvory	99	80	A	F
+2105	534242	1	2	903	5	Jaroslav	Uher			55	stavbyvedoucí	Nové Dvory	99	80	A	M
+2105	534242	1	3	902	5	Petr	Bucifal			28	OSVČ	Nové Dvory	99	80	A	M
+2105	534242	1	1	901	6	Dalibor	Mierva	Mgr.		63	technik BOZP a PO	Nové Dvory	99	80	A	M
+2105	534242	1	2	903	6	Dalibor	Hlavatý			45	OSVČ	Nové Dvory	99	80	A	M
+2105	534242	1	3	902	6	Dana	Veberová			34	učitelka	Nové Dvory	99	80	A	F
+2105	534242	1	1	901	7	Pavel	Král			47	OSVČ	Nové Dvory	99	80	A	M
+2105	534242	1	2	903	7	Ladislav	Fujko			54	OSVČ	Nové Dvory	99	80	A	M
+2105	534242	1	3	902	7	Eva	Procházková			61	učitelka MŠ	Nové Dvory	47	80	A	F
+2105	534242	1	1	901	8	Jana	Sadílková	PharmDr.		44	lékárník	Nové Dvory	99	80	A	F
+2105	534242	1	2	903	8	Miloslav	Rak			67	důchodce	Nové Dvory	99	80	A	M
+2105	534242	1	3	902	8	Zdeněk	Vřešťál			66	hudebník	Nové Dvory	99	80	A	M
+2105	534242	1	1	901	9	Tomáš	Hubal			49	OSVČ	Nové Dvory	99	80	A	M
+2105	534242	1	2	903	9	Jaroslav	Sochůrek			68	důchodce	Nové Dvory	99	80	A	M
+2105	534242	1	3	902	9	Jan	Vízner			21	číšník	Nové Dvory	99	80	A	M

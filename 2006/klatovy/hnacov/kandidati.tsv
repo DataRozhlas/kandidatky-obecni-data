@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3202	542083	1	1	902	1	Anna	Bartůšková	F			60	důchodce	Hnačov	99	80	0
-3202	542083	1	1	902	2	Anna	Vopatová	F			58	důchodce	Hnačov	99	80	0
-3202	542083	1	1	902	3	Karel	Toman	M	Ing.	CSc.	52	starosta	Hnačov	99	80	0
-3202	542083	1	1	902	4	Petr	Kučera	M			40	soukromý zemědělec	Hnačov	99	80	0
-3202	542083	1	1	902	5	Jiří	Šebesta	M			39	OSVČ	Hnačov	99	80	0
-3202	542083	1	1	902	6	Jaroslav	Kroupa	M			35	údržbář	Hnačov	99	80	0
-3202	542083	1	1	902	7	Josef	Sopek	M			33	dělník	Hnačov	99	80	0
-3202	542083	1	2	901	1	Jana	Maxová	F			39	v domácnosti	Hnačov	99	80	0
-3202	542083	1	2	901	2	Martin	Havrda	M			28	dělník	Hnačov	99	80	0
-3202	542083	1	2	901	3	Josef	Balog	M			60	důchodce	Hnačov	99	80	0
-3202	542083	1	2	901	4	Milan	Majer	M			51	OSVČ	Hnačov	99	80	0
-3202	542083	1	2	901	5	Luboš	Suda	M			37	OSVČ	Hnačov	99	80	0
-3202	542083	1	2	901	6	Václav	Suda	M			37	dělník	Hnačov	99	80	0
-3202	542083	1	2	901	7	Pavel	Trnka	M			49	dělník	Hnačov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3202	542083	1	1	902	1	Anna	Bartůšková			60	důchodce	Hnačov	99	80	0	F
+3202	542083	1	2	901	1	Jana	Maxová			39	v domácnosti	Hnačov	99	80	0	F
+3202	542083	1	1	902	2	Anna	Vopatová			58	důchodce	Hnačov	99	80	0	F
+3202	542083	1	2	901	2	Martin	Havrda			28	dělník	Hnačov	99	80	0	M
+3202	542083	1	1	902	3	Karel	Toman	Ing.	CSc.	52	starosta	Hnačov	99	80	0	M
+3202	542083	1	2	901	3	Josef	Balog			60	důchodce	Hnačov	99	80	0	M
+3202	542083	1	1	902	4	Petr	Kučera			40	soukromý zemědělec	Hnačov	99	80	0	M
+3202	542083	1	2	901	4	Milan	Majer			51	OSVČ	Hnačov	99	80	0	M
+3202	542083	1	1	902	5	Jiří	Šebesta			39	OSVČ	Hnačov	99	80	0	M
+3202	542083	1	2	901	5	Luboš	Suda			37	OSVČ	Hnačov	99	80	0	M
+3202	542083	1	1	902	6	Jaroslav	Kroupa			35	údržbář	Hnačov	99	80	0	M
+3202	542083	1	2	901	6	Václav	Suda			37	dělník	Hnačov	99	80	0	M
+3202	542083	1	1	902	7	Josef	Sopek			33	dělník	Hnačov	99	80	0	M
+3202	542083	1	2	901	7	Pavel	Trnka			49	dělník	Hnačov	99	80	0	M

@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4201	562793	1	1	902	1	Bohumil	Dvořáček	M			53	řidič	Rybniště	99	80	0
-4201	562793	1	1	902	2	Roman	Forfera	M	Ing.		32	projektant	Rybniště	99	80	0
-4201	562793	1	1	902	3	Karel	Masopust	M			56	podnikatel	Rybniště	99	80	0
-4201	562793	1	1	902	4	Blanka	Merežková	F			52	speditér	Rybniště	99	80	0
-4201	562793	1	1	902	5	Marcel	Hrubý	M	Mgr.		43	administrátor	Rybniště	99	80	0
-4201	562793	1	1	902	6	Jiřina	Chroustovská	F			55	úřednice	Rybniště	99	80	0
-4201	562793	1	1	902	7	Milan	Dudka	M			48	podnikatel	Rybniště	99	80	0
-4201	562793	1	2	901	1	Jaroslava	Fišerová	F			65	místostarostka obce důchodkyně	Rybniště	99	80	0
-4201	562793	1	2	901	2	Vladimír	Čížek	M			64	důchodce	Rybniště	99	80	0
-4201	562793	1	2	901	3	Roman	Krajzinger	M			41	elektrotechnik	Rybniště	99	80	0
-4201	562793	1	2	901	4	Marcela	Demetérová	F			33	mateřská dovolená	Rybniště	99	80	0
-4201	562793	1	2	901	5	Miroslav	Chlubna	M			59	revírník	Rybniště	99	80	0
-4201	562793	1	2	901	6	Jaroslav	Devátý	M			48	automechanik	Rybniště	99	80	0
-4201	562793	1	2	901	7	Josef	Šuster	M			71	důchodce	Rybniště	99	80	0
-4201	562793	1	3	166	1	František	Ovčáčík	M			61	starosta	Nová Chřibská	99	166	0
-4201	562793	1	3	166	2	Petr	Krajzinger	M			32	živnostník	Rybniště	99	166	0
-4201	562793	1	3	166	3	Josef	Slavík	M			57	živnostník	Rybniště	99	166	0
-4201	562793	1	3	166	4	Alena	Jeřábková	F			61	důchodkyně	Rybniště	99	166	0
-4201	562793	1	3	166	5	Miroslav	Vanžura	M			64	podnikatel	Rybniště	99	166	0
-4201	562793	1	3	166	6	Iveta	Jaklová	F			42	úřednice	Rybniště	99	166	0
-4201	562793	1	3	166	7	Roman	Kalina	M			46	dělník	Rybniště	99	166	0
-4201	562793	1	4	903	1	Blanka	Škvorová	F			42	v domácnosti	Nová Chřibská	99	80	0
-4201	562793	1	4	903	2	Květoslava	Komárková	F			61	důchodce	Nová Chřibská	99	80	0
-4201	562793	1	4	903	3	Václav	Soukup	M			62	důchodce	Nová Chřibská	99	80	0
-4201	562793	1	4	903	4	Luděk	Kříž	M			60	údržbář	Nová Chřibská	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4201	562793	1	1	902	1	Bohumil	Dvořáček			53	řidič	Rybniště	99	80	0	M
+4201	562793	1	2	901	1	Jaroslava	Fišerová			65	místostarostka obce důchodkyně	Rybniště	99	80	0	F
+4201	562793	1	3	166	1	František	Ovčáčík			61	starosta	Nová Chřibská	99	166	0	M
+4201	562793	1	4	903	1	Blanka	Škvorová			42	v domácnosti	Nová Chřibská	99	80	0	F
+4201	562793	1	1	902	2	Roman	Forfera	Ing.		32	projektant	Rybniště	99	80	0	M
+4201	562793	1	2	901	2	Vladimír	Čížek			64	důchodce	Rybniště	99	80	0	M
+4201	562793	1	3	166	2	Petr	Krajzinger			32	živnostník	Rybniště	99	166	0	M
+4201	562793	1	4	903	2	Květoslava	Komárková			61	důchodce	Nová Chřibská	99	80	0	F
+4201	562793	1	1	902	3	Karel	Masopust			56	podnikatel	Rybniště	99	80	0	M
+4201	562793	1	2	901	3	Roman	Krajzinger			41	elektrotechnik	Rybniště	99	80	0	M
+4201	562793	1	3	166	3	Josef	Slavík			57	živnostník	Rybniště	99	166	0	M
+4201	562793	1	4	903	3	Václav	Soukup			62	důchodce	Nová Chřibská	99	80	0	M
+4201	562793	1	1	902	4	Blanka	Merežková			52	speditér	Rybniště	99	80	0	F
+4201	562793	1	2	901	4	Marcela	Demetérová			33	mateřská dovolená	Rybniště	99	80	0	F
+4201	562793	1	3	166	4	Alena	Jeřábková			61	důchodkyně	Rybniště	99	166	0	F
+4201	562793	1	4	903	4	Luděk	Kříž			60	údržbář	Nová Chřibská	99	80	0	M
+4201	562793	1	1	902	5	Marcel	Hrubý	Mgr.		43	administrátor	Rybniště	99	80	0	M
+4201	562793	1	2	901	5	Miroslav	Chlubna			59	revírník	Rybniště	99	80	0	M
+4201	562793	1	3	166	5	Miroslav	Vanžura			64	podnikatel	Rybniště	99	166	0	M
+4201	562793	1	1	902	6	Jiřina	Chroustovská			55	úřednice	Rybniště	99	80	0	F
+4201	562793	1	2	901	6	Jaroslav	Devátý			48	automechanik	Rybniště	99	80	0	M
+4201	562793	1	3	166	6	Iveta	Jaklová			42	úřednice	Rybniště	99	166	0	F
+4201	562793	1	1	902	7	Milan	Dudka			48	podnikatel	Rybniště	99	80	0	M
+4201	562793	1	2	901	7	Josef	Šuster			71	důchodce	Rybniště	99	80	0	M
+4201	562793	1	3	166	7	Roman	Kalina			46	dělník	Rybniště	99	166	0	M

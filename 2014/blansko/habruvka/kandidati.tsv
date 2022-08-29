@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	581569	1	1	7	1	Zdeňka	Opletalová	F			61	zastupitelka	Habrůvka	7	7	0
-6201	581569	1	1	7	2	Zdeněk	Cihlář	M	Ing.		29	vědecký pracovník	Habrůvka	7	7	0
-6201	581569	1	1	7	3	Jiřina	Hloušková	F	Mgr.		49	učitelka hudby	Habrůvka	99	7	0
-6201	581569	1	1	7	4	Eva	Nevímová	F			42	prodavačka	Habrůvka	7	7	0
-6201	581569	1	1	7	5	Šárka	Pešová	F		DiS.	37	radiologický laborant	Habrůvka	99	7	0
-6201	581569	1	1	7	6	Jiří	Cihlář	M			32	elektromechanik	Habrůvka	7	7	0
-6201	581569	1	1	7	7	Zdeněk	Navrátil	M			30	osoba samostatně výdělečně činná	Habrůvka	7	7	0
-6201	581569	1	2	1	1	Karel	Kalandra	M			71	důchodce	Habrůvka	1	1	0
-6201	581569	1	2	1	2	Jan	Knihař	M			34	osoba samostatně výdělečně činná	Habrůvka	99	1	0
-6201	581569	1	2	1	3	Radomír	Šebek	M			57	technik	Habrůvka	99	1	0
-6201	581569	1	2	1	4	Pavel	Bujtar	M			44	osoba samostatně výdělečně činná	Habrůvka	99	1	0
-6201	581569	1	2	1	5	Barbora	Plšková	F			52	poštovní doručovatelka	Habrůvka	99	1	0
-6201	581569	1	2	1	6	Ondřej	Čoupek	M			38	vedoucí	Habrůvka	99	1	0
-6201	581569	1	2	1	7	Zdeněk	Hloušek	M			57	prokurista	Habrůvka	99	1	0
-6201	581569	1	3	53	1	Martin	Šimek	M			33	technik HSV	Habrůvka	53	53	0
-6201	581569	1	3	53	2	Josef	Formánek	M	Ing.		57	technik	Habrůvka	99	53	0
-6201	581569	1	3	53	3	Libor	Vecl	M			49	farma Habrůvka	Habrůvka	53	53	0
-6201	581569	1	3	53	4	Lukáš	Navrátil	M			33	kuchař	Habrůvka	99	53	0
-6201	581569	1	3	53	5	Gabriela	Fišerová	F			37	admin. pracovník	Habrůvka	99	53	0
-6201	581569	1	3	53	6	Libor	Šobáň	M			30	team leader	Habrůvka	99	53	0
-6201	581569	1	3	53	7	Lukáš	Sotolář	M			30	učitel hudby	Habrůvka	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	581569	1	1	7	1	Zdeňka	Opletalová			61	zastupitelka	Habrůvka	7	7	0	F
+6201	581569	1	2	1	1	Karel	Kalandra			71	důchodce	Habrůvka	1	1	0	M
+6201	581569	1	3	53	1	Martin	Šimek			33	technik HSV	Habrůvka	53	53	0	M
+6201	581569	1	1	7	2	Zdeněk	Cihlář	Ing.		29	vědecký pracovník	Habrůvka	7	7	0	M
+6201	581569	1	2	1	2	Jan	Knihař			34	osoba samostatně výdělečně činná	Habrůvka	99	1	0	M
+6201	581569	1	3	53	2	Josef	Formánek	Ing.		57	technik	Habrůvka	99	53	0	M
+6201	581569	1	1	7	3	Jiřina	Hloušková	Mgr.		49	učitelka hudby	Habrůvka	99	7	0	F
+6201	581569	1	2	1	3	Radomír	Šebek			57	technik	Habrůvka	99	1	0	M
+6201	581569	1	3	53	3	Libor	Vecl			49	farma Habrůvka	Habrůvka	53	53	0	M
+6201	581569	1	1	7	4	Eva	Nevímová			42	prodavačka	Habrůvka	7	7	0	F
+6201	581569	1	2	1	4	Pavel	Bujtar			44	osoba samostatně výdělečně činná	Habrůvka	99	1	0	M
+6201	581569	1	3	53	4	Lukáš	Navrátil			33	kuchař	Habrůvka	99	53	0	M
+6201	581569	1	1	7	5	Šárka	Pešová		DiS.	37	radiologický laborant	Habrůvka	99	7	0	F
+6201	581569	1	2	1	5	Barbora	Plšková			52	poštovní doručovatelka	Habrůvka	99	1	0	F
+6201	581569	1	3	53	5	Gabriela	Fišerová			37	admin. pracovník	Habrůvka	99	53	0	F
+6201	581569	1	1	7	6	Jiří	Cihlář			32	elektromechanik	Habrůvka	7	7	0	M
+6201	581569	1	2	1	6	Ondřej	Čoupek			38	vedoucí	Habrůvka	99	1	0	M
+6201	581569	1	3	53	6	Libor	Šobáň			30	team leader	Habrůvka	99	53	0	M
+6201	581569	1	1	7	7	Zdeněk	Navrátil			30	osoba samostatně výdělečně činná	Habrůvka	7	7	0	M
+6201	581569	1	2	1	7	Zdeněk	Hloušek			57	prokurista	Habrůvka	99	1	0	M
+6201	581569	1	3	53	7	Lukáš	Sotolář			30	učitel hudby	Habrůvka	99	53	0	M

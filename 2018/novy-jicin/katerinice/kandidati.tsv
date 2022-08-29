@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8104	568643	1	1	902	1	Ladislav	Konečný	M			66	důchodce	Kateřinice	99	80	A
-8104	568643	1	1	902	2	Libuše	Brožová	F			65	důchodkyně	Kateřinice	99	80	A
-8104	568643	1	1	902	3	Jaroslav	Obsadný	M	Ing.		52	IT technický specialista	Kateřinice	99	80	A
-8104	568643	1	1	902	4	Martin	Havrlant	M	Bc.		44	státní zaměstnanec	Kateřinice	99	80	A
-8104	568643	1	1	902	5	Tomáš	Cága	M			30	řidič	Kateřinice	99	80	A
-8104	568643	1	1	902	6	Monika	Tylečková	F	Ing.		44	OSVČ	Kateřinice	99	80	A
-8104	568643	1	1	902	7	Hana	Krasňanová	F			34	učitelka	Kateřinice	99	80	A
-8104	568643	1	1	902	8	Aleš	Kutáč	M			44	OSVČ	Kateřinice	99	80	A
-8104	568643	1	1	902	9	Věra	Richterová	F			50	nástrojář	Kateřinice	99	80	A
-8104	568643	1	2	901	1	Radek	Novák	M			46	zootechnik	Kateřinice	99	80	A
-8104	568643	1	2	901	2	Leona	Londinová	F	Ing.		46	OSVČ	Kateřinice	99	80	A
-8104	568643	1	2	901	3	Petr	Poloprutský	M			27	OSVČ	Kateřinice	99	80	A
-8104	568643	1	2	901	4	Dalimil	Novobilský	M	Bc.		47	konstruktér	Kateřinice	99	80	A
-8104	568643	1	2	901	5	Jarmila	Vaňková ml.	F	Bc.		31	ekonomický pracovník	Kateřinice	99	80	A
-8104	568643	1	2	901	6	Jiří	Obsadný	M			25	student	Kateřinice	99	80	A
-8104	568643	1	2	901	7	Leona	Nagyová Břežná	F	Bc.		40	sociální pracovník	Kateřinice	99	80	A
-8104	568643	1	2	901	8	Michal	Světlík	M	Bc.		35	informatik	Kateřinice	99	80	A
-8104	568643	1	2	901	9	Radek	Matěj	M			32	SHR	Kateřinice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8104	568643	1	1	902	1	Ladislav	Konečný			66	důchodce	Kateřinice	99	80	A	M
+8104	568643	1	2	901	1	Radek	Novák			46	zootechnik	Kateřinice	99	80	A	M
+8104	568643	1	1	902	2	Libuše	Brožová			65	důchodkyně	Kateřinice	99	80	A	F
+8104	568643	1	2	901	2	Leona	Londinová	Ing.		46	OSVČ	Kateřinice	99	80	A	F
+8104	568643	1	1	902	3	Jaroslav	Obsadný	Ing.		52	IT technický specialista	Kateřinice	99	80	A	M
+8104	568643	1	2	901	3	Petr	Poloprutský			27	OSVČ	Kateřinice	99	80	A	M
+8104	568643	1	1	902	4	Martin	Havrlant	Bc.		44	státní zaměstnanec	Kateřinice	99	80	A	M
+8104	568643	1	2	901	4	Dalimil	Novobilský	Bc.		47	konstruktér	Kateřinice	99	80	A	M
+8104	568643	1	1	902	5	Tomáš	Cága			30	řidič	Kateřinice	99	80	A	M
+8104	568643	1	2	901	5	Jarmila	Vaňková ml.	Bc.		31	ekonomický pracovník	Kateřinice	99	80	A	F
+8104	568643	1	1	902	6	Monika	Tylečková	Ing.		44	OSVČ	Kateřinice	99	80	A	F
+8104	568643	1	2	901	6	Jiří	Obsadný			25	student	Kateřinice	99	80	A	M
+8104	568643	1	1	902	7	Hana	Krasňanová			34	učitelka	Kateřinice	99	80	A	F
+8104	568643	1	2	901	7	Leona	Nagyová Břežná	Bc.		40	sociální pracovník	Kateřinice	99	80	A	F
+8104	568643	1	1	902	8	Aleš	Kutáč			44	OSVČ	Kateřinice	99	80	A	M
+8104	568643	1	2	901	8	Michal	Světlík	Bc.		35	informatik	Kateřinice	99	80	A	M
+8104	568643	1	1	902	9	Věra	Richterová			50	nástrojář	Kateřinice	99	80	A	F
+8104	568643	1	2	901	9	Radek	Matěj			32	SHR	Kateřinice	99	80	A	M

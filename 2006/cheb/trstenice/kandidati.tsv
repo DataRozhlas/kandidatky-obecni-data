@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4101	554855	1	1	47	1	Ivan	Růžička	M			60	důchodce	Horní Ves	47	47	0
-4101	554855	1	1	47	2	Vladislava	Roučková	F			44	prodavačka	Trstěnice	99	47	0
-4101	554855	1	1	47	3	Václav	Hajšman	M			59	invalidní důchodce	Horní Ves	99	47	0
-4101	554855	1	1	47	4	Václav	Rychtář	M			30	dělník	Trstěnice	99	47	0
-4101	554855	1	1	47	5	Eva	Kovačíková	F			31	mateřská dovolená	Horní Ves	99	47	0
-4101	554855	1	1	47	6	Helena	Repíková	F			34	prodavačka	Trstěnice	99	47	0
-4101	554855	1	1	47	7	Věra	Vejpuská	F			42	dělnice	Trstěnice	99	47	0
-4101	554855	1	1	47	8	Marie	Menczerová	F			34	dělnice	Trstěnice	99	47	0
-4101	554855	1	1	47	9	Anna	Macholdová	F			66	důchodkyně	Trstěnice	99	47	0
-4101	554855	1	2	901	1	Karel	König	M			52	starosta obce	Trstěnice	99	80	0
-4101	554855	1	2	901	2	Jaroslav	Zeman	M			55	místopředseda ZD	Trstěnice	99	80	0
-4101	554855	1	2	901	3	František	Hromíř	M			48	soukromý podnikatel	Horní Ves	99	80	0
-4101	554855	1	2	901	4	Jindřich	Rychtář	M			58	zedník	Trstěnice	99	80	0
-4101	554855	1	2	901	5	Miloslav	Konečný	M			53	invalidní důchodce	Horní Ves	99	80	0
-4101	554855	1	2	901	6	Helena	Mazancová	F			38	poštovní doručovatelka	Trstěnice	99	80	0
-4101	554855	1	2	901	7	Lukáš	Zeithaml	M			26	mistr výroby	Trstěnice	99	80	0
-4101	554855	1	2	901	8	Jaroslav	Vorel	M			38	mistr výroby	Trstěnice	99	80	0
-4101	554855	1	2	901	9	Jaroslav	Havlíček	M			65	důchodce	Trstěnice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4101	554855	1	1	47	1	Ivan	Růžička			60	důchodce	Horní Ves	47	47	0	M
+4101	554855	1	2	901	1	Karel	König			52	starosta obce	Trstěnice	99	80	0	M
+4101	554855	1	1	47	2	Vladislava	Roučková			44	prodavačka	Trstěnice	99	47	0	F
+4101	554855	1	2	901	2	Jaroslav	Zeman			55	místopředseda ZD	Trstěnice	99	80	0	M
+4101	554855	1	1	47	3	Václav	Hajšman			59	invalidní důchodce	Horní Ves	99	47	0	M
+4101	554855	1	2	901	3	František	Hromíř			48	soukromý podnikatel	Horní Ves	99	80	0	M
+4101	554855	1	1	47	4	Václav	Rychtář			30	dělník	Trstěnice	99	47	0	M
+4101	554855	1	2	901	4	Jindřich	Rychtář			58	zedník	Trstěnice	99	80	0	M
+4101	554855	1	1	47	5	Eva	Kovačíková			31	mateřská dovolená	Horní Ves	99	47	0	F
+4101	554855	1	2	901	5	Miloslav	Konečný			53	invalidní důchodce	Horní Ves	99	80	0	M
+4101	554855	1	1	47	6	Helena	Repíková			34	prodavačka	Trstěnice	99	47	0	F
+4101	554855	1	2	901	6	Helena	Mazancová			38	poštovní doručovatelka	Trstěnice	99	80	0	F
+4101	554855	1	1	47	7	Věra	Vejpuská			42	dělnice	Trstěnice	99	47	0	F
+4101	554855	1	2	901	7	Lukáš	Zeithaml			26	mistr výroby	Trstěnice	99	80	0	M
+4101	554855	1	1	47	8	Marie	Menczerová			34	dělnice	Trstěnice	99	47	0	F
+4101	554855	1	2	901	8	Jaroslav	Vorel			38	mistr výroby	Trstěnice	99	80	0	M
+4101	554855	1	1	47	9	Anna	Macholdová			66	důchodkyně	Trstěnice	99	47	0	F
+4101	554855	1	2	901	9	Jaroslav	Havlíček			65	důchodce	Trstěnice	99	80	0	M

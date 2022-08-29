@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	569011	1	1	47	1	Lenka	Kotanová	F			56	účetní	Leština u Světlé	47	47	0
-6101	569011	1	1	47	2	Jaroslav	Karel	M			49	podnikatel	Vrbice	47	47	0
-6101	569011	1	1	47	3	Jaroslav	Adamec	M			54	podnikatel	Štěpánov	47	47	0
-6101	569011	1	1	47	4	Miloslav	Kolář	M			56	dělník	Dobrnice	99	47	0
-6101	569011	1	1	47	5	Zdeňka	Aubrechtová	F			55	prodavačka	Leština u Světlé	47	47	0
-6101	569011	1	1	47	6	Jiří	Tvrdík	M			52	traktorista	Dobrnice	47	47	0
-6101	569011	1	1	47	7	Marie	Pajerová	F			55	podnikatelka	Leština u Světlé	47	47	0
-6101	569011	1	1	47	8	Jiří	Tůma	M			67	důchodce	Leština u Světlé	99	47	0
-6101	569011	1	1	47	9	Petr	Čálek	M	Ing.		44	technolog.prac.ČD	Štěpánov	99	47	0
-6101	569011	1	1	47	10	Miloslav	Staněk	M			79	důchodce	Dobrnice	47	47	0
-6101	569011	1	2	801	1	Miroslav	Šulák	M		DiS.	25	ved.zásob.a sklad.hospodářství	Vrbice	99	80	0
-6101	569011	1	3	53	1	Jaromír	Vadinský	M			46	starosta obce	Leština u Světlé	53	53	0
-6101	569011	1	3	53	2	Josef	Semrád	M			60	ředitel společnosti ZOS	Štěpánov	99	53	0
-6101	569011	1	3	53	3	Jiří	Piskač	M			52	vzorkař ve sklářském průmyslu	Leština u Světlé	99	53	0
-6101	569011	1	3	53	4	Pavel	Kolář	M			45	zaměstnanec SÚS kraje Vysočina	Dobrnice	99	53	0
-6101	569011	1	3	53	5	Štěpán	Mercl	M			22	student	Leština u Světlé	99	53	0
-6101	569011	1	3	53	6	Roman	Linek	M			35	soukromý podnikatel	Vrbice	99	53	0
-6101	569011	1	3	53	7	Jana	Suková	F			34	knihovnice	Leština u Světlé	53	53	0
-6101	569011	1	3	53	8	Tomáš	Kritzner	M			36	zaměstnanec ČD	Leština u Světlé	99	53	0
-6101	569011	1	3	53	9	Eva	Jurniková	F			65	důchodce	Štěpánov	99	53	0
-6101	569011	1	3	53	10	Ondřej	Jelínek	M			19	student	Leština u Světlé	99	53	0
-6101	569011	1	3	53	11	Hana	Bláhová	F			47	zaměstnanec ČSSS	Leština u Světlé	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	569011	1	1	47	1	Lenka	Kotanová			56	účetní	Leština u Světlé	47	47	0	F
+6101	569011	1	2	801	1	Miroslav	Šulák		DiS.	25	ved.zásob.a sklad.hospodářství	Vrbice	99	80	0	M
+6101	569011	1	3	53	1	Jaromír	Vadinský			46	starosta obce	Leština u Světlé	53	53	0	M
+6101	569011	1	1	47	2	Jaroslav	Karel			49	podnikatel	Vrbice	47	47	0	M
+6101	569011	1	3	53	2	Josef	Semrád			60	ředitel společnosti ZOS	Štěpánov	99	53	0	M
+6101	569011	1	1	47	3	Jaroslav	Adamec			54	podnikatel	Štěpánov	47	47	0	M
+6101	569011	1	3	53	3	Jiří	Piskač			52	vzorkař ve sklářském průmyslu	Leština u Světlé	99	53	0	M
+6101	569011	1	1	47	4	Miloslav	Kolář			56	dělník	Dobrnice	99	47	0	M
+6101	569011	1	3	53	4	Pavel	Kolář			45	zaměstnanec SÚS kraje Vysočina	Dobrnice	99	53	0	M
+6101	569011	1	1	47	5	Zdeňka	Aubrechtová			55	prodavačka	Leština u Světlé	47	47	0	F
+6101	569011	1	3	53	5	Štěpán	Mercl			22	student	Leština u Světlé	99	53	0	M
+6101	569011	1	1	47	6	Jiří	Tvrdík			52	traktorista	Dobrnice	47	47	0	M
+6101	569011	1	3	53	6	Roman	Linek			35	soukromý podnikatel	Vrbice	99	53	0	M
+6101	569011	1	1	47	7	Marie	Pajerová			55	podnikatelka	Leština u Světlé	47	47	0	F
+6101	569011	1	3	53	7	Jana	Suková			34	knihovnice	Leština u Světlé	53	53	0	F
+6101	569011	1	1	47	8	Jiří	Tůma			67	důchodce	Leština u Světlé	99	47	0	M
+6101	569011	1	3	53	8	Tomáš	Kritzner			36	zaměstnanec ČD	Leština u Světlé	99	53	0	M
+6101	569011	1	1	47	9	Petr	Čálek	Ing.		44	technolog.prac.ČD	Štěpánov	99	47	0	M
+6101	569011	1	3	53	9	Eva	Jurniková			65	důchodce	Štěpánov	99	53	0	F
+6101	569011	1	1	47	10	Miloslav	Staněk			79	důchodce	Dobrnice	47	47	0	M
+6101	569011	1	3	53	10	Ondřej	Jelínek			19	student	Leština u Světlé	99	53	0	M
+6101	569011	1	3	53	11	Hana	Bláhová			47	zaměstnanec ČSSS	Leština u Světlé	99	53	0	F

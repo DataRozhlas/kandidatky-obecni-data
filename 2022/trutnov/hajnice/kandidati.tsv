@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579211	1	1	901	1	Marek	Voženílek	M			33	hasič	Hajnice	99	80	A
-5205	579211	1	1	901	2	Leoš	Patka	M	Mgr.		42	podnikatel	Hajnice	99	80	A
-5205	579211	1	1	901	3	Lucie	Packová	F			49	vedoucí obchodu	Hajnice	99	80	A
-5205	579211	1	1	901	4	Petra	Marková Karásková	F	Ing.		44	učitelka ZŠ	Hajnice	99	80	A
-5205	579211	1	1	901	5	Lucie	Francová	F	Mgr.	DiS.	29	mateřská dovolená	Hajnice	99	80	A
-5205	579211	1	1	901	6	František	Malina	M	Mgr.		53	technik	Výšinka	99	80	A
-5205	579211	1	1	901	7	Karel	Řehák	M			32	OSVČ	Hajnice	99	80	A
-5205	579211	1	1	901	8	Helena	Urbanová	F			51	ekonom rozpočtář	Hajnice	99	80	A
-5205	579211	1	1	901	9	Marek	Téra	M			27	hasič	Hajnice	99	80	A
-5205	579211	1	1	901	10	Petr	Ficker	M			39	hasič	Hajnice	99	80	A
-5205	579211	1	1	901	11	Jana	Siegerová	F			44	mistrová ve výrobě	Hajnice	99	80	A
-5205	579211	1	1	901	12	Roman	Chromý	M			33	seřizovač	Hajnice	99	80	A
-5205	579211	1	1	901	13	Lenka	Prausová	F			48	asistent pedagoga	Hajnice	99	80	A
-5205	579211	1	1	901	14	Jan	Čermák	M	Ing.		40	OSVČ	Horní Žďár	99	80	A
-5205	579211	1	1	901	15	Štěpán	Huťka	M			35	hasič	Hajnice	99	80	A
-5205	579211	1	2	53	1	Petr	Červený	M			68	důchodce, starosta	Hajnice	99	53	A
-5205	579211	1	2	53	2	Tereza	Snopková	F	JUDr.		43	právník, neuvolněná místostarostka	Horní Žďár	99	53	A
-5205	579211	1	2	53	3	Martina	Švorcová	F	Mgr.		54	ředitelka ZŠ a MŠ	Hajnice	99	53	A
-5205	579211	1	2	53	4	Miroslav	Němeček	M			69	důchodce - kronikář obce	Hajnice	99	53	A
-5205	579211	1	2	53	5	Miroslava	Nováková	F	PhDr.		56	učitelka - zástupce ředitele	Hajnice	99	53	A
-5205	579211	1	2	53	6	Petra	Čermáková	F			40	účetní	Horní Žďár	99	53	A
-5205	579211	1	2	53	7	Jiří	Konrád	M	Mgr.		49	státní zaměstnanec	Hajnice	99	53	A
-5205	579211	1	2	53	8	Jitka	Dvořáková	F	Mgr.		46	učitelka	Hajnice	99	53	A
-5205	579211	1	2	53	9	Jaroslav	Kolesnikov	M			45	OSVČ - truhlář	Hajnice	99	53	A
-5205	579211	1	2	53	10	Otomar	Malý	M			64	důchodce	Horní Žďár	99	53	A
-5205	579211	1	2	53	11	Jaroslav	Švorc	M			59	OSVČ - kovovýroba	Hajnice	99	53	A
-5205	579211	1	2	53	12	Petr	Lokvenc	M			43	vedoucí prodejny	Hajnice	99	53	A
-5205	579211	1	2	53	13	Jaroslav	Kroupa	M			48	OSVČ - obchod	Hajnice	99	53	A
-5205	579211	1	2	53	14	Pavla	Fekiačová	F			50	účetní	Výšinka	99	53	A
-5205	579211	1	2	53	15	Markéta	Červená	F			44	dělnice	Hajnice	99	53	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579211	1	1	901	1	Marek	Voženílek			33	hasič	Hajnice	99	80	A	M
+5205	579211	1	2	53	1	Petr	Červený			68	důchodce, starosta	Hajnice	99	53	A	M
+5205	579211	1	1	901	2	Leoš	Patka	Mgr.		42	podnikatel	Hajnice	99	80	A	M
+5205	579211	1	2	53	2	Tereza	Snopková	JUDr.		43	právník, neuvolněná místostarostka	Horní Žďár	99	53	A	F
+5205	579211	1	1	901	3	Lucie	Packová			49	vedoucí obchodu	Hajnice	99	80	A	F
+5205	579211	1	2	53	3	Martina	Švorcová	Mgr.		54	ředitelka ZŠ a MŠ	Hajnice	99	53	A	F
+5205	579211	1	1	901	4	Petra	Marková Karásková	Ing.		44	učitelka ZŠ	Hajnice	99	80	A	F
+5205	579211	1	2	53	4	Miroslav	Němeček			69	důchodce - kronikář obce	Hajnice	99	53	A	M
+5205	579211	1	1	901	5	Lucie	Francová	Mgr.	DiS.	29	mateřská dovolená	Hajnice	99	80	A	F
+5205	579211	1	2	53	5	Miroslava	Nováková	PhDr.		56	učitelka - zástupce ředitele	Hajnice	99	53	A	F
+5205	579211	1	1	901	6	František	Malina	Mgr.		53	technik	Výšinka	99	80	A	M
+5205	579211	1	2	53	6	Petra	Čermáková			40	účetní	Horní Žďár	99	53	A	F
+5205	579211	1	1	901	7	Karel	Řehák			32	OSVČ	Hajnice	99	80	A	M
+5205	579211	1	2	53	7	Jiří	Konrád	Mgr.		49	státní zaměstnanec	Hajnice	99	53	A	M
+5205	579211	1	1	901	8	Helena	Urbanová			51	ekonom rozpočtář	Hajnice	99	80	A	F
+5205	579211	1	2	53	8	Jitka	Dvořáková	Mgr.		46	učitelka	Hajnice	99	53	A	F
+5205	579211	1	1	901	9	Marek	Téra			27	hasič	Hajnice	99	80	A	M
+5205	579211	1	2	53	9	Jaroslav	Kolesnikov			45	OSVČ - truhlář	Hajnice	99	53	A	M
+5205	579211	1	1	901	10	Petr	Ficker			39	hasič	Hajnice	99	80	A	M
+5205	579211	1	2	53	10	Otomar	Malý			64	důchodce	Horní Žďár	99	53	A	M
+5205	579211	1	1	901	11	Jana	Siegerová			44	mistrová ve výrobě	Hajnice	99	80	A	F
+5205	579211	1	2	53	11	Jaroslav	Švorc			59	OSVČ - kovovýroba	Hajnice	99	53	A	M
+5205	579211	1	1	901	12	Roman	Chromý			33	seřizovač	Hajnice	99	80	A	M
+5205	579211	1	2	53	12	Petr	Lokvenc			43	vedoucí prodejny	Hajnice	99	53	A	M
+5205	579211	1	1	901	13	Lenka	Prausová			48	asistent pedagoga	Hajnice	99	80	A	F
+5205	579211	1	2	53	13	Jaroslav	Kroupa			48	OSVČ - obchod	Hajnice	99	53	A	M
+5205	579211	1	1	901	14	Jan	Čermák	Ing.		40	OSVČ	Horní Žďár	99	80	A	M
+5205	579211	1	2	53	14	Pavla	Fekiačová			50	účetní	Výšinka	99	53	A	F
+5205	579211	1	1	901	15	Štěpán	Huťka			35	hasič	Hajnice	99	80	A	M
+5205	579211	1	2	53	15	Markéta	Červená			44	dělnice	Hajnice	99	53	A	F

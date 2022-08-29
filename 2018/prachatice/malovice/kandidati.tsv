@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3105	550418	1	1	902	1	Jan	Rys	M			49	živnostník	Malovice	99	80	A
-3105	550418	1	1	902	2	Jindřich	Vaníček	M	Ing.		56	úředník	Podeřiště	99	80	A
-3105	550418	1	1	902	3	Silvie	Čížková	F	Ing.		37	realitní makléř	Malovice	99	80	A
-3105	550418	1	1	902	4	Pavel	Ivan	M			53	živnostník	Malovičky	99	80	A
-3105	550418	1	1	902	5	Tomáš	Jelínek	M			42	zámečník	Podeřiště	99	80	A
-3105	550418	1	1	902	6	Lucie	Nováková Blábolilová	F			37	poštovní úředník	Malovičky	99	80	A
-3105	550418	1	1	902	7	Lukáš	Profant	M			33	IT specialista	Krtely	99	80	A
-3105	550418	1	1	902	8	Eliška	Petrášková	F			34	státní zaměstnanec	Malovice	99	80	A
-3105	550418	1	1	902	9	Dušan	Brůna	M			47	automechanik	Malovičky	99	80	A
-3105	550418	1	1	902	10	Lukáš	Pícha	M			31	státní zaměstnanec	Krtely	99	80	A
-3105	550418	1	1	902	11	Robert	Staněk	M			38	řidič nákladní dopravy	Podeřiště	99	80	A
-3105	550418	1	2	901	1	Václav	Pasák	M	Ing.		59	starosta obce	Malovičky	99	80	A
-3105	550418	1	2	901	2	Ondřej	Čížek	M	Ing.		37	pedagog	Malovice	99	80	A
-3105	550418	1	2	901	3	Pavel	Kaše	M			37	státní zaměstnanec	Krtely	99	80	A
-3105	550418	1	2	901	4	Vladimír	Kozel	M			45	živnostník	Podeřiště	99	80	A
-3105	550418	1	2	901	5	Ilona	Rysová	F			40	účetní	Malovice	99	80	A
-3105	550418	1	2	901	6	Markéta	Ivanová	F	Bc.		26	vedoucí školní jídelny	Malovičky	99	80	A
-3105	550418	1	2	901	7	Hana	Nováková	F			51	soukromý zemědělec	Krtely	99	80	A
-3105	550418	1	2	901	8	Eva	Slabší	F			30	na mateřské dovolené	Krtely	99	80	A
-3105	550418	1	2	901	9	Marek	Hřebejk	M			42	živnostník	Malovičky	99	80	A
-3105	550418	1	2	901	10	Václav	Plojhar	M			44	majitel restaurace	Podeřiště	99	80	A
-3105	550418	1	2	901	11	Lucie	Kršková	F			33	na mateřské dovolené	Podeřiště	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3105	550418	1	1	902	1	Jan	Rys			49	živnostník	Malovice	99	80	A	M
+3105	550418	1	2	901	1	Václav	Pasák	Ing.		59	starosta obce	Malovičky	99	80	A	M
+3105	550418	1	1	902	2	Jindřich	Vaníček	Ing.		56	úředník	Podeřiště	99	80	A	M
+3105	550418	1	2	901	2	Ondřej	Čížek	Ing.		37	pedagog	Malovice	99	80	A	M
+3105	550418	1	1	902	3	Silvie	Čížková	Ing.		37	realitní makléř	Malovice	99	80	A	F
+3105	550418	1	2	901	3	Pavel	Kaše			37	státní zaměstnanec	Krtely	99	80	A	M
+3105	550418	1	1	902	4	Pavel	Ivan			53	živnostník	Malovičky	99	80	A	M
+3105	550418	1	2	901	4	Vladimír	Kozel			45	živnostník	Podeřiště	99	80	A	M
+3105	550418	1	1	902	5	Tomáš	Jelínek			42	zámečník	Podeřiště	99	80	A	M
+3105	550418	1	2	901	5	Ilona	Rysová			40	účetní	Malovice	99	80	A	F
+3105	550418	1	1	902	6	Lucie	Nováková Blábolilová			37	poštovní úředník	Malovičky	99	80	A	F
+3105	550418	1	2	901	6	Markéta	Ivanová	Bc.		26	vedoucí školní jídelny	Malovičky	99	80	A	F
+3105	550418	1	1	902	7	Lukáš	Profant			33	IT specialista	Krtely	99	80	A	M
+3105	550418	1	2	901	7	Hana	Nováková			51	soukromý zemědělec	Krtely	99	80	A	F
+3105	550418	1	1	902	8	Eliška	Petrášková			34	státní zaměstnanec	Malovice	99	80	A	F
+3105	550418	1	2	901	8	Eva	Slabší			30	na mateřské dovolené	Krtely	99	80	A	F
+3105	550418	1	1	902	9	Dušan	Brůna			47	automechanik	Malovičky	99	80	A	M
+3105	550418	1	2	901	9	Marek	Hřebejk			42	živnostník	Malovičky	99	80	A	M
+3105	550418	1	1	902	10	Lukáš	Pícha			31	státní zaměstnanec	Krtely	99	80	A	M
+3105	550418	1	2	901	10	Václav	Plojhar			44	majitel restaurace	Podeřiště	99	80	A	M
+3105	550418	1	1	902	11	Robert	Staněk			38	řidič nákladní dopravy	Podeřiště	99	80	A	M
+3105	550418	1	2	901	11	Lucie	Kršková			33	na mateřské dovolené	Podeřiště	99	80	A	F

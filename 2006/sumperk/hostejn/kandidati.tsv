@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	535885	1	1	801	1	Zdeněk	Přibil	M			59	důchodce	Hoštejn	99	80	0
-7105	535885	1	2	47	1	Radek	Navrátil	M			39	dělník ČD	Hoštejn	99	47	0
-7105	535885	1	2	47	2	Božena	Knápková	F			59	důchodkyně	Hoštejn	99	47	0
-7105	535885	1	2	47	3	Ladislav	Habiger	M			62	předseda agrodružstva	Hoštejn	99	47	0
-7105	535885	1	2	47	4	Jan	Rýznar	M			51	řidič	Hoštejn	99	47	0
-7105	535885	1	3	1	1	Jan	Veigler	M			56	posunovač ČD	Hoštejn	99	1	0
-7105	535885	1	3	1	2	Anna	Diblíková	F			34	mateřská dovolená	Hoštejn	99	1	0
-7105	535885	1	3	1	3	Bohumil	Sedláček	M			63	důchodce	Hoštejn	99	1	0
-7105	535885	1	3	1	4	Martina	Mikolajková	F			22	studentka	Hoštejn	99	1	0
-7105	535885	1	3	1	5	Zdeněk	Fuglíček	M			44	technik ČD	Hoštejn	99	1	0
-7105	535885	1	3	1	6	Vlasta	Berková	F			64	důchodkyně	Hoštejn	99	1	0
-7105	535885	1	3	1	7	Radek	Finger	M			39	dělník pila Alba	Hoštejn	99	1	0
-7105	535885	1	3	1	8	Hana	Hamplová	F			39	referentka	Hoštejn	99	1	0
-7105	535885	1	3	1	9	Marie	Golasová	F			48	dělnice	Hoštejn	1	1	0
-7105	535885	1	4	901	1	Jan	Kunčar	M			33	revírník	Hoštejn	99	80	0
-7105	535885	1	4	901	2	Pavel	Drozd	M	MVDr.		47	veterinární lékař	Hoštejn	99	80	0
-7105	535885	1	4	901	3	Arťom	Suchý	M			26	rozpočtář	Hoštejn	99	80	0
-7105	535885	1	4	901	4	Jiří	Pchálek	M			42	lesník	Hoštejn	99	80	0
-7105	535885	1	4	901	5	Josef	Blaháček	M			65	důchodce	Hoštejn	99	80	0
-7105	535885	1	4	901	6	František	Hýbl	M			60	elektromontér	Hoštejn	99	80	0
-7105	535885	1	4	901	7	Lubomír	Navrátil	M			40	pojišťovací poradce	Hoštejn	99	80	0
-7105	535885	1	4	901	8	Vladimír	Knápek	M			26	manažer prodeje	Hoštejn	99	80	0
-7105	535885	1	4	901	9	Milena	Kreutzová	F			35	dělnice	Hoštejn	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	535885	1	1	801	1	Zdeněk	Přibil			59	důchodce	Hoštejn	99	80	0	M
+7105	535885	1	2	47	1	Radek	Navrátil			39	dělník ČD	Hoštejn	99	47	0	M
+7105	535885	1	3	1	1	Jan	Veigler			56	posunovač ČD	Hoštejn	99	1	0	M
+7105	535885	1	4	901	1	Jan	Kunčar			33	revírník	Hoštejn	99	80	0	M
+7105	535885	1	2	47	2	Božena	Knápková			59	důchodkyně	Hoštejn	99	47	0	F
+7105	535885	1	3	1	2	Anna	Diblíková			34	mateřská dovolená	Hoštejn	99	1	0	F
+7105	535885	1	4	901	2	Pavel	Drozd	MVDr.		47	veterinární lékař	Hoštejn	99	80	0	M
+7105	535885	1	2	47	3	Ladislav	Habiger			62	předseda agrodružstva	Hoštejn	99	47	0	M
+7105	535885	1	3	1	3	Bohumil	Sedláček			63	důchodce	Hoštejn	99	1	0	M
+7105	535885	1	4	901	3	Arťom	Suchý			26	rozpočtář	Hoštejn	99	80	0	M
+7105	535885	1	2	47	4	Jan	Rýznar			51	řidič	Hoštejn	99	47	0	M
+7105	535885	1	3	1	4	Martina	Mikolajková			22	studentka	Hoštejn	99	1	0	F
+7105	535885	1	4	901	4	Jiří	Pchálek			42	lesník	Hoštejn	99	80	0	M
+7105	535885	1	3	1	5	Zdeněk	Fuglíček			44	technik ČD	Hoštejn	99	1	0	M
+7105	535885	1	4	901	5	Josef	Blaháček			65	důchodce	Hoštejn	99	80	0	M
+7105	535885	1	3	1	6	Vlasta	Berková			64	důchodkyně	Hoštejn	99	1	0	F
+7105	535885	1	4	901	6	František	Hýbl			60	elektromontér	Hoštejn	99	80	0	M
+7105	535885	1	3	1	7	Radek	Finger			39	dělník pila Alba	Hoštejn	99	1	0	M
+7105	535885	1	4	901	7	Lubomír	Navrátil			40	pojišťovací poradce	Hoštejn	99	80	0	M
+7105	535885	1	3	1	8	Hana	Hamplová			39	referentka	Hoštejn	99	1	0	F
+7105	535885	1	4	901	8	Vladimír	Knápek			26	manažer prodeje	Hoštejn	99	80	0	M
+7105	535885	1	3	1	9	Marie	Golasová			48	dělnice	Hoštejn	1	1	0	F
+7105	535885	1	4	901	9	Milena	Kreutzová			35	dělnice	Hoštejn	99	80	0	F

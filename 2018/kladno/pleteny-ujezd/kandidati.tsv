@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	532738	1	1	903	1	Martin	KALENDA	M			39	technický ředitel	Pletený Újezd	99	80	A
-2103	532738	1	1	903	2	Martin	BECK	M	Ing.		49	manažer marketingu a obchodu	Pletený Újezd	99	80	A
-2103	532738	1	1	903	3	Marie	STUCHLÍKOVÁ	F			37	DTP operátor	Pletený Újezd	99	80	A
-2103	532738	1	1	903	4	Tereza	SOUBUSTOVÁ	F	Ing. arch.		28	architekt	Pletený Újezd	99	80	A
-2103	532738	1	1	903	5	Jana	KALENDA HRABÁNKOVÁ	F			39	obchodní ředitel	Pletený Újezd	99	80	A
-2103	532738	1	1	903	6	Marcela	BECKOVÁ	F			48	technik	Pletený Újezd	99	80	A
-2103	532738	1	2	902	1	Libor	ŠICH	M			44	řidič	Pletený Újezd	99	80	A
-2103	532738	1	2	902	2	Martin	BOCKSTEFFEL	M			27	automechanik	Pletený Újezd	99	80	A
-2103	532738	1	2	902	3	Martin	BÍLEK	M			40	zámečník	Pletený Újezd	99	80	A
-2103	532738	1	2	902	4	Petr	CIMBUREK	M			38	grafik	Pletený Újezd	99	80	A
-2103	532738	1	2	902	5	Zdeněk	DUDA	M	Ing.		45	chemik	Pletený Újezd	99	80	A
-2103	532738	1	2	902	6	Jana	BOCKSTEFFELOVÁ	F			29	na mateřské dovolené	Pletený Újezd	99	80	A
-2103	532738	1	2	902	7	Jindřiška	DUDOVÁ	F	Ing.		46	účetní	Pletený Újezd	99	80	A
-2103	532738	1	3	901	1	Jaroslav	KOLBEK	M			62	starosta obce	Pletený Újezd	99	80	A
-2103	532738	1	3	901	2	Ivan	HRUBÝ	M			64	důchodce	Pletený Újezd	99	80	A
-2103	532738	1	3	901	3	Jindřiška	BEROUNOVÁ	F	Mgr.		49	manažerka	Pletený Újezd	99	80	A
-2103	532738	1	3	901	4	Martin	BIEDERMANN	M	Ing.		44	vedoucí provozu	Pletený Újezd	99	80	A
-2103	532738	1	3	901	5	Ivana	DINŽÍKOVÁ	F			48	úřednice	Pletený Újezd	99	80	A
-2103	532738	1	3	901	6	Jaroslav	KOUBA	M			54	podnikatel	Pletený Újezd	99	80	A
-2103	532738	1	3	901	7	Martina	JŮZOVÁ	F	Mgr.		49	ředitelka ZŠ	Pletený Újezd	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	532738	1	1	903	1	Martin	KALENDA			39	technický ředitel	Pletený Újezd	99	80	A	M
+2103	532738	1	2	902	1	Libor	ŠICH			44	řidič	Pletený Újezd	99	80	A	M
+2103	532738	1	3	901	1	Jaroslav	KOLBEK			62	starosta obce	Pletený Újezd	99	80	A	M
+2103	532738	1	1	903	2	Martin	BECK	Ing.		49	manažer marketingu a obchodu	Pletený Újezd	99	80	A	M
+2103	532738	1	2	902	2	Martin	BOCKSTEFFEL			27	automechanik	Pletený Újezd	99	80	A	M
+2103	532738	1	3	901	2	Ivan	HRUBÝ			64	důchodce	Pletený Újezd	99	80	A	M
+2103	532738	1	1	903	3	Marie	STUCHLÍKOVÁ			37	DTP operátor	Pletený Újezd	99	80	A	F
+2103	532738	1	2	902	3	Martin	BÍLEK			40	zámečník	Pletený Újezd	99	80	A	M
+2103	532738	1	3	901	3	Jindřiška	BEROUNOVÁ	Mgr.		49	manažerka	Pletený Újezd	99	80	A	F
+2103	532738	1	1	903	4	Tereza	SOUBUSTOVÁ	Ing. arch.		28	architekt	Pletený Újezd	99	80	A	F
+2103	532738	1	2	902	4	Petr	CIMBUREK			38	grafik	Pletený Újezd	99	80	A	M
+2103	532738	1	3	901	4	Martin	BIEDERMANN	Ing.		44	vedoucí provozu	Pletený Újezd	99	80	A	M
+2103	532738	1	1	903	5	Jana	KALENDA HRABÁNKOVÁ			39	obchodní ředitel	Pletený Újezd	99	80	A	F
+2103	532738	1	2	902	5	Zdeněk	DUDA	Ing.		45	chemik	Pletený Újezd	99	80	A	M
+2103	532738	1	3	901	5	Ivana	DINŽÍKOVÁ			48	úřednice	Pletený Újezd	99	80	A	F
+2103	532738	1	1	903	6	Marcela	BECKOVÁ			48	technik	Pletený Újezd	99	80	A	F
+2103	532738	1	2	902	6	Jana	BOCKSTEFFELOVÁ			29	na mateřské dovolené	Pletený Újezd	99	80	A	F
+2103	532738	1	3	901	6	Jaroslav	KOUBA			54	podnikatel	Pletený Újezd	99	80	A	M
+2103	532738	1	2	902	7	Jindřiška	DUDOVÁ	Ing.		46	účetní	Pletený Újezd	99	80	A	F
+2103	532738	1	3	901	7	Martina	JŮZOVÁ	Mgr.		49	ředitelka ZŠ	Pletený Újezd	99	80	A	F

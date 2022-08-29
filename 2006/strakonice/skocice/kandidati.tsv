@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3106	551741	1	1	1	1	Stanislav	Petrášek	M	Ing.		51	předseda družstva	Skočice	99	1	0
-3106	551741	1	1	1	2	Dagmar	Žílová	F			60	důchodce	Skočice	99	1	0
-3106	551741	1	1	1	3	Milan	Fousek	M			37	řidič	Skočice	99	1	0
-3106	551741	1	1	1	4	Stanislav	Štědronský	M	Ing.		27	zootechnik	Skočice	99	1	0
-3106	551741	1	1	1	5	Jan	Šídlo	M	Ing.		24	technolog	Skočice	99	1	0
-3106	551741	1	1	1	6	Beno	Slávik	M			25	informatik	Skočice	99	1	0
-3106	551741	1	1	1	7	Karel	Křišťan	M			33	soukromý zemědělec	Lidmovice	99	1	0
-3106	551741	1	1	1	8	Radka	Balounová	F			29	na mateřské dovolené	Skočice	99	1	0
-3106	551741	1	1	1	9	Pavel	Baloun	M			32	obchodní zástupce	Skočice	99	1	0
-3106	551741	1	2	901	1	Ladislav	Malec	M			54	mistr	Lidmovice	99	80	0
-3106	551741	1	2	901	2	Josef	Kovářík	M			50	krmič	Lidmovice	99	80	0
-3106	551741	1	2	901	3	Karel	Vojík	M			26	číšník	Lidmovice	99	80	0
-3106	551741	1	2	901	4	Bohuslav	Kapusta	M			48	traktorista	Skočice	99	80	0
-3106	551741	1	2	901	5	Jiří	Vrbský	M			60	zootechnik	Lidmovice	99	80	0
-3106	551741	1	2	901	6	Ladislav	Malec	M			27	prodavač	Lidmovice	99	80	0
-3106	551741	1	2	901	7	Václav	Havlík	M			47	dělník	Skočice	99	80	0
-3106	551741	1	2	901	8	Karel	Šíma	M			71	důchodce	Skočice	99	80	0
-3106	551741	1	2	901	9	Jindřiška	Kejšarová	F			45	dělnice	Lidmovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3106	551741	1	1	1	1	Stanislav	Petrášek	Ing.		51	předseda družstva	Skočice	99	1	0	M
+3106	551741	1	2	901	1	Ladislav	Malec			54	mistr	Lidmovice	99	80	0	M
+3106	551741	1	1	1	2	Dagmar	Žílová			60	důchodce	Skočice	99	1	0	F
+3106	551741	1	2	901	2	Josef	Kovářík			50	krmič	Lidmovice	99	80	0	M
+3106	551741	1	1	1	3	Milan	Fousek			37	řidič	Skočice	99	1	0	M
+3106	551741	1	2	901	3	Karel	Vojík			26	číšník	Lidmovice	99	80	0	M
+3106	551741	1	1	1	4	Stanislav	Štědronský	Ing.		27	zootechnik	Skočice	99	1	0	M
+3106	551741	1	2	901	4	Bohuslav	Kapusta			48	traktorista	Skočice	99	80	0	M
+3106	551741	1	1	1	5	Jan	Šídlo	Ing.		24	technolog	Skočice	99	1	0	M
+3106	551741	1	2	901	5	Jiří	Vrbský			60	zootechnik	Lidmovice	99	80	0	M
+3106	551741	1	1	1	6	Beno	Slávik			25	informatik	Skočice	99	1	0	M
+3106	551741	1	2	901	6	Ladislav	Malec			27	prodavač	Lidmovice	99	80	0	M
+3106	551741	1	1	1	7	Karel	Křišťan			33	soukromý zemědělec	Lidmovice	99	1	0	M
+3106	551741	1	2	901	7	Václav	Havlík			47	dělník	Skočice	99	80	0	M
+3106	551741	1	1	1	8	Radka	Balounová			29	na mateřské dovolené	Skočice	99	1	0	F
+3106	551741	1	2	901	8	Karel	Šíma			71	důchodce	Skočice	99	80	0	M
+3106	551741	1	1	1	9	Pavel	Baloun			32	obchodní zástupce	Skočice	99	1	0	M
+3106	551741	1	2	901	9	Jindřiška	Kejšarová			45	dělnice	Lidmovice	99	80	0	F

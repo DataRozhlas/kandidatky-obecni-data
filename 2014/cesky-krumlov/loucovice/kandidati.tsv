@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3102	545601	1	1	47	1	Rudolf	Greschner	M			67	důchodce	Loučovice	47	47	0
-3102	545601	1	1	47	2	Zuzana	Mikešová	F	Mgr.		61	OSVČ	Loučovice	47	47	0
-3102	545601	1	1	47	3	Josef	Ginzel	M			46	elektrikář	Loučovice	47	47	0
-3102	545601	1	1	47	4	Edita	Janáčková	F			37	prodavačka	Loučovice	99	47	0
-3102	545601	1	1	47	5	Zdeněk	Urban	M			63	důchodce	Loučovice	47	47	0
-3102	545601	1	1	47	6	Jaroslav	Mareš	M			35	OSVČ	Loučovice	99	47	0
-3102	545601	1	1	47	7	Jaromír	Mikeš	M			65	OSVČ	Loučovice	99	47	0
-3102	545601	1	1	47	8	Karel	Rolník	M			69	důchodce	Loučovice	47	47	0
-3102	545601	1	1	47	9	Marie	Krahulcová	F			72	důchodce	Loučovice	47	47	0
-3102	545601	1	1	47	10	Julius	Jarůšek	M			69	důchodce	Loučovice	47	47	0
-3102	545601	1	1	47	11	Jan	Filipčík	M			73	důchodce	Loučovice	47	47	0
-3102	545601	1	2	768	1	Jan	Kubík	M	Ing.		35	vedoucí pracovník	Loučovice	768	768	0
-3102	545601	1	2	768	2	Stanislav	Hackl	M			49	OSVČ	Loučovice	99	768	0
-3102	545601	1	2	768	3	Jana	Grammetbauerová	F			41	mzdová účetní	Loučovice	99	768	0
-3102	545601	1	2	768	4	Anna	Vaňková	F			62	důchodce	Loučovice	99	768	0
-3102	545601	1	2	768	5	Petr	Štěpánek	M			34	vedoucí pracovník	Loučovice	99	768	0
-3102	545601	1	2	768	6	Lubomír	Jirka	M			49	technik	Loučovice	99	768	0
-3102	545601	1	2	768	7	Martina	Hacklová	F			43	vedoucí pracovník	Loučovice	99	768	0
-3102	545601	1	2	768	8	Dana	Svačinová	F			37	administrativní pracovnice	Loučovice	99	768	0
-3102	545601	1	2	768	9	Markéta	Danišová	F			38	pekařka	Loučovice	99	768	0
-3102	545601	1	2	768	10	Ota	Remta	M			50	OSVČ	Loučovice	99	768	0
-3102	545601	1	2	768	11	František	Zimmermann	M	Ing.		66	důchodce	Loučovice	99	768	0
-3102	545601	1	3	901	1	Petr	Procházka	M			44	OSVČ	Loučovice	724	80	0
-3102	545601	1	3	901	2	Miloslav	Hüttner	M			54	technik	Loučovice	99	80	0
-3102	545601	1	3	901	3	Josef	Gondek	M			39	OSVČ	Loučovice	724	80	0
-3102	545601	1	3	901	4	Petr	Kuzba	M			36	OSVČ	Loučovice	724	80	0
-3102	545601	1	3	901	5	Jiří	Hošek	M			35	truhlář	Loučovice	99	80	0
-3102	545601	1	3	901	6	Jaroslav	Suchánek	M			39	OSVČ	Loučovice	99	80	0
-3102	545601	1	3	901	7	Vít	Šeda	M			38	OSVČ	Loučovice	99	80	0
-3102	545601	1	3	901	8	Radim	Štubner	M			37	OSVČ	Loučovice	99	80	0
-3102	545601	1	3	901	9	Šárka	Hüttnerová	F			50	zástupce vedoucího	Loučovice	99	80	0
-3102	545601	1	3	901	10	Miloš	Liška	M			43	technik	Loučovice	99	80	0
-3102	545601	1	3	901	11	František	Postl	M			54	OSVČ	Loučovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3102	545601	1	1	47	1	Rudolf	Greschner			67	důchodce	Loučovice	47	47	0	M
+3102	545601	1	2	768	1	Jan	Kubík	Ing.		35	vedoucí pracovník	Loučovice	768	768	0	M
+3102	545601	1	3	901	1	Petr	Procházka			44	OSVČ	Loučovice	724	80	0	M
+3102	545601	1	1	47	2	Zuzana	Mikešová	Mgr.		61	OSVČ	Loučovice	47	47	0	F
+3102	545601	1	2	768	2	Stanislav	Hackl			49	OSVČ	Loučovice	99	768	0	M
+3102	545601	1	3	901	2	Miloslav	Hüttner			54	technik	Loučovice	99	80	0	M
+3102	545601	1	1	47	3	Josef	Ginzel			46	elektrikář	Loučovice	47	47	0	M
+3102	545601	1	2	768	3	Jana	Grammetbauerová			41	mzdová účetní	Loučovice	99	768	0	F
+3102	545601	1	3	901	3	Josef	Gondek			39	OSVČ	Loučovice	724	80	0	M
+3102	545601	1	1	47	4	Edita	Janáčková			37	prodavačka	Loučovice	99	47	0	F
+3102	545601	1	2	768	4	Anna	Vaňková			62	důchodce	Loučovice	99	768	0	F
+3102	545601	1	3	901	4	Petr	Kuzba			36	OSVČ	Loučovice	724	80	0	M
+3102	545601	1	1	47	5	Zdeněk	Urban			63	důchodce	Loučovice	47	47	0	M
+3102	545601	1	2	768	5	Petr	Štěpánek			34	vedoucí pracovník	Loučovice	99	768	0	M
+3102	545601	1	3	901	5	Jiří	Hošek			35	truhlář	Loučovice	99	80	0	M
+3102	545601	1	1	47	6	Jaroslav	Mareš			35	OSVČ	Loučovice	99	47	0	M
+3102	545601	1	2	768	6	Lubomír	Jirka			49	technik	Loučovice	99	768	0	M
+3102	545601	1	3	901	6	Jaroslav	Suchánek			39	OSVČ	Loučovice	99	80	0	M
+3102	545601	1	1	47	7	Jaromír	Mikeš			65	OSVČ	Loučovice	99	47	0	M
+3102	545601	1	2	768	7	Martina	Hacklová			43	vedoucí pracovník	Loučovice	99	768	0	F
+3102	545601	1	3	901	7	Vít	Šeda			38	OSVČ	Loučovice	99	80	0	M
+3102	545601	1	1	47	8	Karel	Rolník			69	důchodce	Loučovice	47	47	0	M
+3102	545601	1	2	768	8	Dana	Svačinová			37	administrativní pracovnice	Loučovice	99	768	0	F
+3102	545601	1	3	901	8	Radim	Štubner			37	OSVČ	Loučovice	99	80	0	M
+3102	545601	1	1	47	9	Marie	Krahulcová			72	důchodce	Loučovice	47	47	0	F
+3102	545601	1	2	768	9	Markéta	Danišová			38	pekařka	Loučovice	99	768	0	F
+3102	545601	1	3	901	9	Šárka	Hüttnerová			50	zástupce vedoucího	Loučovice	99	80	0	F
+3102	545601	1	1	47	10	Julius	Jarůšek			69	důchodce	Loučovice	47	47	0	M
+3102	545601	1	2	768	10	Ota	Remta			50	OSVČ	Loučovice	99	768	0	M
+3102	545601	1	3	901	10	Miloš	Liška			43	technik	Loučovice	99	80	0	M
+3102	545601	1	1	47	11	Jan	Filipčík			73	důchodce	Loučovice	47	47	0	M
+3102	545601	1	2	768	11	František	Zimmermann	Ing.		66	důchodce	Loučovice	99	768	0	M
+3102	545601	1	3	901	11	František	Postl			54	OSVČ	Loučovice	99	80	0	M

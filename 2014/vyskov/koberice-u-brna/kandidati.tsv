@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	593141	1	1	1	1	Petr	Havránek	M			45	elektrikář	Kobeřice u Brna	1	1	0
-6206	593141	1	1	1	2	Hynek	Spáčil	M	Ing.		36	projektant-statik	Kobeřice u Brna	99	1	0
-6206	593141	1	1	1	3	Jan	Urbanec	M			39	vedoucí správce budov FN u sv. Anny	Kobeřice u Brna	99	1	0
-6206	593141	1	1	1	4	Lenka	Friesová	F			26	sociální pracovnice	Kobeřice u Brna	1	1	0
-6206	593141	1	1	1	5	Jindřich	Gale	M			46	řidič	Kobeřice u Brna	1	1	0
-6206	593141	1	1	1	6	Alena	Hobzová	F			50	prodavačka	Kobeřice u Brna	1	1	0
-6206	593141	1	1	1	7	Roman	Fries	M			23	frézař CNC	Kobeřice u Brna	99	1	0
-6206	593141	1	2	801	1	Milan	Piták	M			55	truhlář	Kobeřice u Brna	99	80	0
-6206	593141	1	3	7	1	Roman	Hanák	M	Bc.		30	předseda finančního výboru JMK	Kobeřice u Brna	7	7	0
-6206	593141	1	3	7	2	Petr	Baják	M	Ing.		42	stavební technik	Kobeřice u Brna	7	7	0
-6206	593141	1	3	7	3	Jaromír	Ondráček	M			42	OSVČ	Kobeřice u Brna	7	7	0
-6206	593141	1	3	7	4	Eva	Rychtecká	F	Mgr.		44	manažerka provozu	Kobeřice u Brna	7	7	0
-6206	593141	1	3	7	5	Gabriela	Dokulilová	F			38	dělnice	Kobeřice u Brna	7	7	0
-6206	593141	1	3	7	6	Martin	Matyáš	M			42	tesař	Kobeřice u Brna	7	7	0
-6206	593141	1	3	7	7	Dagmar	Svobodová	F			42	referentka stavebního úřadu	Kobeřice u Brna	7	7	0
-6206	593141	1	4	802	1	Stanislav	Sedlák	M			44	OSVČ	Kobeřice u Brna	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	593141	1	1	1	1	Petr	Havránek			45	elektrikář	Kobeřice u Brna	1	1	0	M
+6206	593141	1	2	801	1	Milan	Piták			55	truhlář	Kobeřice u Brna	99	80	0	M
+6206	593141	1	3	7	1	Roman	Hanák	Bc.		30	předseda finančního výboru JMK	Kobeřice u Brna	7	7	0	M
+6206	593141	1	4	802	1	Stanislav	Sedlák			44	OSVČ	Kobeřice u Brna	99	80	0	M
+6206	593141	1	1	1	2	Hynek	Spáčil	Ing.		36	projektant-statik	Kobeřice u Brna	99	1	0	M
+6206	593141	1	3	7	2	Petr	Baják	Ing.		42	stavební technik	Kobeřice u Brna	7	7	0	M
+6206	593141	1	1	1	3	Jan	Urbanec			39	vedoucí správce budov FN u sv. Anny	Kobeřice u Brna	99	1	0	M
+6206	593141	1	3	7	3	Jaromír	Ondráček			42	OSVČ	Kobeřice u Brna	7	7	0	M
+6206	593141	1	1	1	4	Lenka	Friesová			26	sociální pracovnice	Kobeřice u Brna	1	1	0	F
+6206	593141	1	3	7	4	Eva	Rychtecká	Mgr.		44	manažerka provozu	Kobeřice u Brna	7	7	0	F
+6206	593141	1	1	1	5	Jindřich	Gale			46	řidič	Kobeřice u Brna	1	1	0	M
+6206	593141	1	3	7	5	Gabriela	Dokulilová			38	dělnice	Kobeřice u Brna	7	7	0	F
+6206	593141	1	1	1	6	Alena	Hobzová			50	prodavačka	Kobeřice u Brna	1	1	0	F
+6206	593141	1	3	7	6	Martin	Matyáš			42	tesař	Kobeřice u Brna	7	7	0	M
+6206	593141	1	1	1	7	Roman	Fries			23	frézař CNC	Kobeřice u Brna	99	1	0	M
+6206	593141	1	3	7	7	Dagmar	Svobodová			42	referentka stavebního úřadu	Kobeřice u Brna	7	7	0	F

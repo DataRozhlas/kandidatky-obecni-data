@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	550191	1	1	901	1	Jaromír	Handl	M	Ing.		49	stavební technik	Uhřice	99	80	0
-6206	550191	1	1	901	2	Libor	Voňka	M			49	řidič	Uhřice	99	80	0
-6206	550191	1	1	901	3	Marcela	Katolická	F			37	živnostník	Uhřice	99	80	0
-6206	550191	1	1	901	4	Boris	Veselý	M			38	letecký mechanik	Uhřice	99	80	0
-6206	550191	1	1	901	5	Martin	Katolický	M			32	živnostník	Uhřice	99	80	0
-6206	550191	1	1	901	6	Milan	Karlík	M			56	traktorista	Uhřice	99	80	0
-6206	550191	1	1	901	7	Petr	Janíček	M			45	dělník	Uhřice	99	80	0
-6206	550191	1	1	901	8	Marie	Puklová	F			56	účetní	Uhřice	99	80	0
-6206	550191	1	2	1	1	Pavel	Nebojsa	M			40	obchodní ředitel	Uhřice	99	1	0
-6206	550191	1	2	1	2	Milan	Láníček	M			53	jednatel firmy	Uhřice	99	1	0
-6206	550191	1	2	1	3	Pavel	Handl	M			52	invalidní důchodce	Uhřice	1	1	0
-6206	550191	1	2	1	4	Josef	Mezuláník	M			66	důchodce	Uhřice	99	1	0
-6206	550191	1	2	1	5	Tomáš	Pokorný	M			26	veřejně prospěšné práce	Uhřice	99	1	0
-6206	550191	1	2	1	6	Miroslava	Kresanová	F			38	mateřská dovolená	Uhřice	99	1	0
-6206	550191	1	2	1	7	Zdeněk	Jeřábek	M			63	strojní zámečník	Uhřice	1	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	550191	1	1	901	1	Jaromír	Handl	Ing.		49	stavební technik	Uhřice	99	80	0	M
+6206	550191	1	2	1	1	Pavel	Nebojsa			40	obchodní ředitel	Uhřice	99	1	0	M
+6206	550191	1	1	901	2	Libor	Voňka			49	řidič	Uhřice	99	80	0	M
+6206	550191	1	2	1	2	Milan	Láníček			53	jednatel firmy	Uhřice	99	1	0	M
+6206	550191	1	1	901	3	Marcela	Katolická			37	živnostník	Uhřice	99	80	0	F
+6206	550191	1	2	1	3	Pavel	Handl			52	invalidní důchodce	Uhřice	1	1	0	M
+6206	550191	1	1	901	4	Boris	Veselý			38	letecký mechanik	Uhřice	99	80	0	M
+6206	550191	1	2	1	4	Josef	Mezuláník			66	důchodce	Uhřice	99	1	0	M
+6206	550191	1	1	901	5	Martin	Katolický			32	živnostník	Uhřice	99	80	0	M
+6206	550191	1	2	1	5	Tomáš	Pokorný			26	veřejně prospěšné práce	Uhřice	99	1	0	M
+6206	550191	1	1	901	6	Milan	Karlík			56	traktorista	Uhřice	99	80	0	M
+6206	550191	1	2	1	6	Miroslava	Kresanová			38	mateřská dovolená	Uhřice	99	1	0	F
+6206	550191	1	1	901	7	Petr	Janíček			45	dělník	Uhřice	99	80	0	M
+6206	550191	1	2	1	7	Zdeněk	Jeřábek			63	strojní zámečník	Uhřice	1	1	0	M
+6206	550191	1	1	901	8	Marie	Puklová			56	účetní	Uhřice	99	80	0	F

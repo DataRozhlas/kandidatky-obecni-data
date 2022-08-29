@@ -1,32 +1,32 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2106	534803	1	1	53	1	Jiří	Klaban	M	Ing.		54	manažer	Vrbno	53	53	0
-2106	534803	1	1	53	2	Petr	Fous	M			46	provozní technik	Hořín	53	53	0
-2106	534803	1	1	53	3	Ondřej	Klaban	M			26	asist. ved. prodeje	Vrbno	53	53	0
-2106	534803	1	1	53	4	Ivo	Brázda	M	Ing.		40	bankovní úředník	Hořín	99	53	0
-2106	534803	1	1	53	5	Marie	Cífková	F			50	administrativní pracovnice	Hořín	99	53	0
-2106	534803	1	1	53	6	Jiří	Pelák	M	Ing.		60	manažer v oblasti ŽP	Hořín	99	53	0
-2106	534803	1	1	53	7	Jaromír	Procházka	M			47	jednatel firmy	Hořín	99	53	0
-2106	534803	1	1	53	8	Jan	Pavlíček	M			43	zámečník	Hořín	99	53	0
-2106	534803	1	1	53	9	Ludvík	Šourek	M			66	důchodce	Vrbno	53	53	0
-2106	534803	1	2	902	1	Ivana	Loužecká	F			46	ved. pracovník výzkumné báze	Hořín	99	80	0
-2106	534803	1	2	902	2	Zuzana	Landsmanová	F			40	učitelka ZŠ	Brozánky	99	80	0
-2106	534803	1	2	902	3	Vladimír	Vítek	M	Ing.		71	důchodce	Brozánky	99	80	0
-2106	534803	1	2	902	4	Renata	Legerová	F			50	vedoucí sběrny surovin	Vrbno	99	80	0
-2106	534803	1	2	902	5	Milan	Rod	M			58	technický pracovník	Hořín	99	80	0
-2106	534803	1	2	902	6	Miluše	Vokálková	F	Mgr.		53	státní úřednice	Brozánky	99	80	0
-2106	534803	1	2	902	7	Štěpán	Javorčík	M			63	důchodce	Hořín	99	80	0
-2106	534803	1	2	902	8	Lenka	Lišková	F			28	na mateřské dovolené	Brozánky	99	80	0
-2106	534803	1	2	902	9	Tomáš	Kratochvíl	M			22	strojník	Brozánky	99	80	0
-2106	534803	1	3	47	1	Petr	Adámek	M	Ing.		63	kontrolor	Brozánky	99	47	0
-2106	534803	1	3	47	2	Jaroslav	Vrba	M			43	podnikatel	Vrbno	99	47	0
-2106	534803	1	3	47	3	František	Šimek	M			65	automechanik	Brozánky	99	47	0
-2106	534803	1	3	47	4	Josef	Soudský	M			64	strojník	Hořín	99	47	0
-2106	534803	1	4	901	1	Jan	Žižka	M	Bc.		39	hasič	Hořín	99	80	0
-2106	534803	1	4	901	2	Martina	Krejsová	F			39	účetní	Brozánky	99	80	0
-2106	534803	1	4	901	3	Antonín	Chvoj	M			57	prodejce	Hořín	99	80	0
-2106	534803	1	4	901	4	Václav	Švec	M			45	elektrikář	Vrbno	99	80	0
-2106	534803	1	4	901	5	Aleš	Donner	M	Ing.		40	manažer	Hořín	99	80	0
-2106	534803	1	4	901	6	Roman	Frýdl	M	Ing.		45	podnikatel	Zelčín	99	80	0
-2106	534803	1	4	901	7	Hana	Šebová	F			46	podnikatel	Hořín	99	80	0
-2106	534803	1	4	901	8	Miroslav	Šeba	M			42	technik	Hořín	99	80	0
-2106	534803	1	4	901	9	Vratislav	Havlíček	M			36	podnikatel	Hořín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2106	534803	1	1	53	1	Jiří	Klaban	Ing.		54	manažer	Vrbno	53	53	0	M
+2106	534803	1	2	902	1	Ivana	Loužecká			46	ved. pracovník výzkumné báze	Hořín	99	80	0	F
+2106	534803	1	3	47	1	Petr	Adámek	Ing.		63	kontrolor	Brozánky	99	47	0	M
+2106	534803	1	4	901	1	Jan	Žižka	Bc.		39	hasič	Hořín	99	80	0	M
+2106	534803	1	1	53	2	Petr	Fous			46	provozní technik	Hořín	53	53	0	M
+2106	534803	1	2	902	2	Zuzana	Landsmanová			40	učitelka ZŠ	Brozánky	99	80	0	F
+2106	534803	1	3	47	2	Jaroslav	Vrba			43	podnikatel	Vrbno	99	47	0	M
+2106	534803	1	4	901	2	Martina	Krejsová			39	účetní	Brozánky	99	80	0	F
+2106	534803	1	1	53	3	Ondřej	Klaban			26	asist. ved. prodeje	Vrbno	53	53	0	M
+2106	534803	1	2	902	3	Vladimír	Vítek	Ing.		71	důchodce	Brozánky	99	80	0	M
+2106	534803	1	3	47	3	František	Šimek			65	automechanik	Brozánky	99	47	0	M
+2106	534803	1	4	901	3	Antonín	Chvoj			57	prodejce	Hořín	99	80	0	M
+2106	534803	1	1	53	4	Ivo	Brázda	Ing.		40	bankovní úředník	Hořín	99	53	0	M
+2106	534803	1	2	902	4	Renata	Legerová			50	vedoucí sběrny surovin	Vrbno	99	80	0	F
+2106	534803	1	3	47	4	Josef	Soudský			64	strojník	Hořín	99	47	0	M
+2106	534803	1	4	901	4	Václav	Švec			45	elektrikář	Vrbno	99	80	0	M
+2106	534803	1	1	53	5	Marie	Cífková			50	administrativní pracovnice	Hořín	99	53	0	F
+2106	534803	1	2	902	5	Milan	Rod			58	technický pracovník	Hořín	99	80	0	M
+2106	534803	1	4	901	5	Aleš	Donner	Ing.		40	manažer	Hořín	99	80	0	M
+2106	534803	1	1	53	6	Jiří	Pelák	Ing.		60	manažer v oblasti ŽP	Hořín	99	53	0	M
+2106	534803	1	2	902	6	Miluše	Vokálková	Mgr.		53	státní úřednice	Brozánky	99	80	0	F
+2106	534803	1	4	901	6	Roman	Frýdl	Ing.		45	podnikatel	Zelčín	99	80	0	M
+2106	534803	1	1	53	7	Jaromír	Procházka			47	jednatel firmy	Hořín	99	53	0	M
+2106	534803	1	2	902	7	Štěpán	Javorčík			63	důchodce	Hořín	99	80	0	M
+2106	534803	1	4	901	7	Hana	Šebová			46	podnikatel	Hořín	99	80	0	F
+2106	534803	1	1	53	8	Jan	Pavlíček			43	zámečník	Hořín	99	53	0	M
+2106	534803	1	2	902	8	Lenka	Lišková			28	na mateřské dovolené	Brozánky	99	80	0	F
+2106	534803	1	4	901	8	Miroslav	Šeba			42	technik	Hořín	99	80	0	M
+2106	534803	1	1	53	9	Ludvík	Šourek			66	důchodce	Vrbno	53	53	0	M
+2106	534803	1	2	902	9	Tomáš	Kratochvíl			22	strojník	Brozánky	99	80	0	M
+2106	534803	1	4	901	9	Vratislav	Havlíček			36	podnikatel	Hořín	99	80	0	M

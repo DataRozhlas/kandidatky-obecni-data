@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	595667	1	1	355	1	Petr	Jurák	M			56	konstruktér	Horní Loučky	1	1	A
-6203	595667	1	1	355	2	Ladislav	Pulkrábek	M			53	úředník	Horní Loučky	99	1	A
-6203	595667	1	1	355	3	Martin	Midrla	M		DiS.	30	IT specialista	Horní Loučky	99	1	A
-6203	595667	1	1	355	4	Hana	Pulkrábková	F			54	referent odboru dopravy	Horní Loučky	99	1	A
-6203	595667	1	1	355	5	Marie	Juráková	F			60	v důchodu	Horní Loučky	1	1	A
-6203	595667	1	1	355	6	Pavel	Pololáník	M			47	elektrotechnik	Horní Loučky	99	1	A
-6203	595667	1	1	355	7	Marie	Halousková	F			63	v důchodu	Horní Loučky	1	1	A
-6203	595667	1	1	355	8	Jan	Pololáník	M			32	dělník	Horní Loučky	99	1	A
-6203	595667	1	1	355	9	František	Mužík	M			61	údržbář	Horní Loučky	99	80	A
-6203	595667	1	2	181	1	Barbora	Dufková	F	Mgr. et Mgr. Bc.		29	speciální pedagog, logoped	Horní Loučky	99	181	A
-6203	595667	1	2	181	2	Zdeněk	Dufek	M			52	OSVČ	Horní Loučky	99	181	A
-6203	595667	1	2	181	3	Jiří	Flodr	M	Ing.		62	OSVČ	Brno-Žebětín	99	181	A
-6203	595667	1	2	181	4	Petr	Pochop	M			39	řidič	Horní Loučky	99	181	A
-6203	595667	1	2	181	5	Martin	Dufek	M			24	autotronik	Horní Loučky	99	181	A
-6203	595667	1	2	181	6	Petr	Jurák	M	Ing.		27	programátor	Horní Loučky	1	181	A
-6203	595667	1	2	181	7	Jaroslav	Stybor	M			51	slévárenský dělník	Horní Loučky	99	181	A
-6203	595667	1	2	181	8	Monika	Borková	F			41	účetní	Horní Loučky	99	181	A
-6203	595667	1	2	181	9	Jitka	Šmídková	F			59	účetní	Horní Loučky	99	181	A
-6203	595667	1	3	901	1	Jana	Pražáková	F	Ing.		34	stavbyvedoucí	Horní Loučky	99	80	A
-6203	595667	1	3	901	2	Martin	Mašek	M	Ing.		29	technik v energetice	Horní Loučky	99	80	A
-6203	595667	1	3	901	3	Jan	Mašek	M			28	zámečník	Horní Loučky	99	80	A
-6203	595667	1	3	901	4	David	Marek	M			41	vedoucí skladu	Horní Loučky	99	80	A
-6203	595667	1	3	901	5	Jan	Pražák	M			59	řidič	Horní Loučky	99	80	A
-6203	595667	1	3	901	6	Miloslav	Steiner	M			59	zedník	Horní Loučky	99	80	A
-6203	595667	1	3	901	7	Aleš	Svoboda	M			34	skladník	Horní Loučky	99	80	A
-6203	595667	1	3	901	8	Bohuslav	Žák	M			42	betonář	Horní Loučky	99	80	A
-6203	595667	1	3	901	9	Michal	Hajda	M			40	skladník	Horní Loučky	99	80	A
-6203	595667	1	4	902	1	Josef	Plevač	M			53	vedoucí střediska	Horní Loučky	99	80	A
-6203	595667	1	4	902	2	Alois	Matýzka	M	Ing.		50	voják z povolání	Horní Loučky	99	80	A
-6203	595667	1	4	902	3	Radomil	Smejkal	M			50	technik	Horní Loučky	99	80	A
-6203	595667	1	4	902	4	Milan	Pochop	M			48	obchodní zástupce	Horní Loučky	99	80	A
-6203	595667	1	4	902	5	Alois	Mojžíš	M			67	důchodce	Horní Loučky	99	80	A
-6203	595667	1	4	902	6	Jaromír	Halouska	M			65	důchodce	Horní Loučky	99	80	A
-6203	595667	1	4	902	7	Miloš	Krejčí	M			61	dělník	Horní Loučky	99	80	A
-6203	595667	1	4	902	8	Miroslav	Duchoslav	M			59	invalidní důchodce	Horní Loučky	99	80	A
-6203	595667	1	4	902	9	Viktor	Pláteník	M			36	řidič	Horní Loučky	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	595667	1	1	355	1	Petr	Jurák			56	konstruktér	Horní Loučky	1	1	A	M
+6203	595667	1	2	181	1	Barbora	Dufková	Mgr. et Mgr. Bc.		29	speciální pedagog, logoped	Horní Loučky	99	181	A	F
+6203	595667	1	3	901	1	Jana	Pražáková	Ing.		34	stavbyvedoucí	Horní Loučky	99	80	A	F
+6203	595667	1	4	902	1	Josef	Plevač			53	vedoucí střediska	Horní Loučky	99	80	A	M
+6203	595667	1	1	355	2	Ladislav	Pulkrábek			53	úředník	Horní Loučky	99	1	A	M
+6203	595667	1	2	181	2	Zdeněk	Dufek			52	OSVČ	Horní Loučky	99	181	A	M
+6203	595667	1	3	901	2	Martin	Mašek	Ing.		29	technik v energetice	Horní Loučky	99	80	A	M
+6203	595667	1	4	902	2	Alois	Matýzka	Ing.		50	voják z povolání	Horní Loučky	99	80	A	M
+6203	595667	1	1	355	3	Martin	Midrla		DiS.	30	IT specialista	Horní Loučky	99	1	A	M
+6203	595667	1	2	181	3	Jiří	Flodr	Ing.		62	OSVČ	Brno-Žebětín	99	181	A	M
+6203	595667	1	3	901	3	Jan	Mašek			28	zámečník	Horní Loučky	99	80	A	M
+6203	595667	1	4	902	3	Radomil	Smejkal			50	technik	Horní Loučky	99	80	A	M
+6203	595667	1	1	355	4	Hana	Pulkrábková			54	referent odboru dopravy	Horní Loučky	99	1	A	F
+6203	595667	1	2	181	4	Petr	Pochop			39	řidič	Horní Loučky	99	181	A	M
+6203	595667	1	3	901	4	David	Marek			41	vedoucí skladu	Horní Loučky	99	80	A	M
+6203	595667	1	4	902	4	Milan	Pochop			48	obchodní zástupce	Horní Loučky	99	80	A	M
+6203	595667	1	1	355	5	Marie	Juráková			60	v důchodu	Horní Loučky	1	1	A	F
+6203	595667	1	2	181	5	Martin	Dufek			24	autotronik	Horní Loučky	99	181	A	M
+6203	595667	1	3	901	5	Jan	Pražák			59	řidič	Horní Loučky	99	80	A	M
+6203	595667	1	4	902	5	Alois	Mojžíš			67	důchodce	Horní Loučky	99	80	A	M
+6203	595667	1	1	355	6	Pavel	Pololáník			47	elektrotechnik	Horní Loučky	99	1	A	M
+6203	595667	1	2	181	6	Petr	Jurák	Ing.		27	programátor	Horní Loučky	1	181	A	M
+6203	595667	1	3	901	6	Miloslav	Steiner			59	zedník	Horní Loučky	99	80	A	M
+6203	595667	1	4	902	6	Jaromír	Halouska			65	důchodce	Horní Loučky	99	80	A	M
+6203	595667	1	1	355	7	Marie	Halousková			63	v důchodu	Horní Loučky	1	1	A	F
+6203	595667	1	2	181	7	Jaroslav	Stybor			51	slévárenský dělník	Horní Loučky	99	181	A	M
+6203	595667	1	3	901	7	Aleš	Svoboda			34	skladník	Horní Loučky	99	80	A	M
+6203	595667	1	4	902	7	Miloš	Krejčí			61	dělník	Horní Loučky	99	80	A	M
+6203	595667	1	1	355	8	Jan	Pololáník			32	dělník	Horní Loučky	99	1	A	M
+6203	595667	1	2	181	8	Monika	Borková			41	účetní	Horní Loučky	99	181	A	F
+6203	595667	1	3	901	8	Bohuslav	Žák			42	betonář	Horní Loučky	99	80	A	M
+6203	595667	1	4	902	8	Miroslav	Duchoslav			59	invalidní důchodce	Horní Loučky	99	80	A	M
+6203	595667	1	1	355	9	František	Mužík			61	údržbář	Horní Loučky	99	80	A	M
+6203	595667	1	2	181	9	Jitka	Šmídková			59	účetní	Horní Loučky	99	181	A	F
+6203	595667	1	3	901	9	Michal	Hajda			40	skladník	Horní Loučky	99	80	A	M
+6203	595667	1	4	902	9	Viktor	Pláteník			36	řidič	Horní Loučky	99	80	A	M

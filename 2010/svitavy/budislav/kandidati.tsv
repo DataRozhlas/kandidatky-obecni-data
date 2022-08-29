@@ -1,30 +1,30 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	577910	1	1	721	1	Jan	Pechanec	M	Ing.		29	technik	Budislav	721	721	0
-5303	577910	1	1	721	2	Luboš	Šplíchal	M			43	zedník	Budislav	99	721	0
-5303	577910	1	1	721	3	Miloš	Rejman	M			38	podnikatel	Budislav	99	721	0
-5303	577910	1	1	721	4	Jiří	Nádvorník	M			41	dělník	Budislav	99	721	0
-5303	577910	1	1	721	5	Josef	Jílek	M			43	živnostník truhlář	Budislav	99	721	0
-5303	577910	1	1	721	6	Miluše	Tmejová	F			45	bankovní úřednice	Budislav	99	721	0
-5303	577910	1	1	721	7	Eva	Kusá	F			40	dělnice v obuvnictví	Budislav	99	721	0
-5303	577910	1	1	721	8	Pavel	Jireček	M			46	živnostník obráběč kovů	Budislav	99	721	0
-5303	577910	1	1	721	9	Věra	Lopourová	F			39	kuchařka	Budislav	99	721	0
-5303	577910	1	2	470	1	Milan	Navrátil	M			49	starosta obce	Budislav	99	166	0
-5303	577910	1	2	470	2	Marek	Bulva	M			34	technik	Budislav	99	80	0
-5303	577910	1	2	470	3	Jiří	Pečinka	M	MVDr.		47	veterinární lékař	Budislav	99	166	0
-5303	577910	1	2	470	4	Štěpán	Heger	M			29	profesionální hasič HZS ČR	Budislav	99	80	0
-5303	577910	1	2	470	5	Anna	Vejrychová	F			51	dělnice	Budislav	99	80	0
-5303	577910	1	2	470	6	Martin	Heger	M			30	profesionální hasič HZS ČR	Budislav	99	80	0
-5303	577910	1	2	470	7	Jaroslav	Háp	M			19	student	Budislav	99	80	0
-5303	577910	1	2	470	8	Zdeněk	Tomášek	M			35	dělník	Budislav	99	80	0
-5303	577910	1	2	470	9	Josef	Voral	M			38	dělník	Budislav	99	80	0
-5303	577910	1	3	53	1	Alena	Bartošová	F			37	obsluha čerpací stanice	Budislav	99	53	0
-5303	577910	1	3	53	2	Jarmila	Soušková	F			47	učitelka	Budislav	99	53	0
-5303	577910	1	3	53	3	Jitka	Nováková	F			38	úřednice	Budislav	99	53	0
-5303	577910	1	3	53	4	Marek	Bárta	M			35	soukromý podnikatel	Budislav	99	53	0
-5303	577910	1	4	181	1	Eva	Stříteská	F	Mgr.		38	ředitelka ZŠ a MŠ Budislav	Budislav	99	181	0
-5303	577910	1	4	181	2	Ivona	Opletalová	F			28	administrativní pracovník	Budislav	99	181	0
-5303	577910	1	4	181	3	Markéta	Kulhavá	F			29	učitelka	Budislav	99	181	0
-5303	577910	1	4	181	4	Jana	Rejmanová	F			35	mateřská dovolená	Budislav	99	181	0
-5303	577910	1	4	181	5	Renata	Pulkrábková	F			25	mateřská dovolená	Budislav	99	181	0
-5303	577910	1	4	181	6	Martin	Rejman	M			32	dělník	Budislav	99	181	0
-5303	577910	1	4	181	7	Iva	Navrátilová	F			23	studentka	Budislav	99	181	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	577910	1	1	721	1	Jan	Pechanec	Ing.		29	technik	Budislav	721	721	0	M
+5303	577910	1	2	470	1	Milan	Navrátil			49	starosta obce	Budislav	99	166	0	M
+5303	577910	1	3	53	1	Alena	Bartošová			37	obsluha čerpací stanice	Budislav	99	53	0	F
+5303	577910	1	4	181	1	Eva	Stříteská	Mgr.		38	ředitelka ZŠ a MŠ Budislav	Budislav	99	181	0	F
+5303	577910	1	1	721	2	Luboš	Šplíchal			43	zedník	Budislav	99	721	0	M
+5303	577910	1	2	470	2	Marek	Bulva			34	technik	Budislav	99	80	0	M
+5303	577910	1	3	53	2	Jarmila	Soušková			47	učitelka	Budislav	99	53	0	F
+5303	577910	1	4	181	2	Ivona	Opletalová			28	administrativní pracovník	Budislav	99	181	0	F
+5303	577910	1	1	721	3	Miloš	Rejman			38	podnikatel	Budislav	99	721	0	M
+5303	577910	1	2	470	3	Jiří	Pečinka	MVDr.		47	veterinární lékař	Budislav	99	166	0	M
+5303	577910	1	3	53	3	Jitka	Nováková			38	úřednice	Budislav	99	53	0	F
+5303	577910	1	4	181	3	Markéta	Kulhavá			29	učitelka	Budislav	99	181	0	F
+5303	577910	1	1	721	4	Jiří	Nádvorník			41	dělník	Budislav	99	721	0	M
+5303	577910	1	2	470	4	Štěpán	Heger			29	profesionální hasič HZS ČR	Budislav	99	80	0	M
+5303	577910	1	3	53	4	Marek	Bárta			35	soukromý podnikatel	Budislav	99	53	0	M
+5303	577910	1	4	181	4	Jana	Rejmanová			35	mateřská dovolená	Budislav	99	181	0	F
+5303	577910	1	1	721	5	Josef	Jílek			43	živnostník truhlář	Budislav	99	721	0	M
+5303	577910	1	2	470	5	Anna	Vejrychová			51	dělnice	Budislav	99	80	0	F
+5303	577910	1	4	181	5	Renata	Pulkrábková			25	mateřská dovolená	Budislav	99	181	0	F
+5303	577910	1	1	721	6	Miluše	Tmejová			45	bankovní úřednice	Budislav	99	721	0	F
+5303	577910	1	2	470	6	Martin	Heger			30	profesionální hasič HZS ČR	Budislav	99	80	0	M
+5303	577910	1	4	181	6	Martin	Rejman			32	dělník	Budislav	99	181	0	M
+5303	577910	1	1	721	7	Eva	Kusá			40	dělnice v obuvnictví	Budislav	99	721	0	F
+5303	577910	1	2	470	7	Jaroslav	Háp			19	student	Budislav	99	80	0	M
+5303	577910	1	4	181	7	Iva	Navrátilová			23	studentka	Budislav	99	181	0	F
+5303	577910	1	1	721	8	Pavel	Jireček			46	živnostník obráběč kovů	Budislav	99	721	0	M
+5303	577910	1	2	470	8	Zdeněk	Tomášek			35	dělník	Budislav	99	80	0	M
+5303	577910	1	1	721	9	Věra	Lopourová			39	kuchařka	Budislav	99	721	0	F
+5303	577910	1	2	470	9	Josef	Voral			38	dělník	Budislav	99	80	0	M

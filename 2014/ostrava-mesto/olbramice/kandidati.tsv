@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8106	554049	1	1	7	1	Drahomíra	Fojtová	F			56	technik	Olbramice	7	7	0
-8106	554049	1	1	7	2	Věra	Schubertová	F			52	sanitář	Olbramice	7	7	0
-8106	554049	1	1	7	3	Marek	Ctibůrek	M			32	elektromechanik	Olbramice	99	7	0
-8106	554049	1	1	7	4	Tereza	Murínová	F	Ing.		28	akademický pracovník	Olbramice	99	7	0
-8106	554049	1	1	7	5	Pavla	Hamplová	F			53	invalidní důchodce	Olbramice	99	7	0
-8106	554049	1	1	7	6	Lenka	Peterková	F			50	účetní	Olbramice	99	7	0
-8106	554049	1	1	7	7	René	Balický	M			52	pracovník ostrahy	Olbramice	99	7	0
-8106	554049	1	1	7	8	Oldřich	Schubert	M			57	údržbář	Olbramice	7	7	0
-8106	554049	1	1	7	9	Arnošt	Czepka	M			70	důchodce	Olbramice	7	7	0
-8106	554049	1	2	1	1	Lumír	Martiník	M			50	OSVČ	Olbramice	99	1	0
-8106	554049	1	2	1	2	Pavel	Hurník	M	Ing.		44	samostatný projektant	Olbramice	99	1	0
-8106	554049	1	2	1	3	Marcel	Cron	M	Ing.		45	geolog	Olbramice	99	1	0
-8106	554049	1	2	1	4	Lukáš	Budzel	M	Ing.		32	výrobní ředitel	Olbramice	99	1	0
-8106	554049	1	2	1	5	David	Kremzer	M	Ing.		39	vedoucí provozu	Olbramice	99	1	0
-8106	554049	1	2	1	6	Jan	Budzel	M			24	stolař	Olbramice	99	1	0
-8106	554049	1	2	1	7	Monika	Gajdová	F			42	v domácnosti	Olbramice	99	1	0
-8106	554049	1	2	1	8	Tomáš	Petráš	M			45	invalidní důchodce	Olbramice	99	1	0
-8106	554049	1	2	1	9	Peter	Bednár	M			44	OSVČ	Olbramice	99	1	0
-8106	554049	1	3	901	1	Ladislav	Bárta	M	Ing.		50	OSVČ	Olbramice	99	80	0
-8106	554049	1	3	901	2	Mária	Bílková	F			52	vedoucí informačního centra	Olbramice	99	80	0
-8106	554049	1	3	901	3	František	Vaněk	M			47	řidič	Olbramice	99	80	0
-8106	554049	1	3	901	4	Jana	Nohlová	F			49	účetní	Olbramice	99	80	0
-8106	554049	1	3	901	5	Hana	Břežná	F	Bc.		42	bankovní úředník	Olbramice	99	80	0
-8106	554049	1	3	901	6	Vladimír	Dedek	M	Mgr.		36	učitel	Olbramice	99	80	0
-8106	554049	1	3	901	7	Petr	Konarský	M			48	předák směnové údržby	Olbramice	99	80	0
-8106	554049	1	3	901	8	Blanka	Vránová	F			47	vedoucí školní jídelny	Olbramice	99	80	0
-8106	554049	1	3	901	9	Svatopluk	Seidler	M			47	zámečník	Olbramice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8106	554049	1	1	7	1	Drahomíra	Fojtová			56	technik	Olbramice	7	7	0	F
+8106	554049	1	2	1	1	Lumír	Martiník			50	OSVČ	Olbramice	99	1	0	M
+8106	554049	1	3	901	1	Ladislav	Bárta	Ing.		50	OSVČ	Olbramice	99	80	0	M
+8106	554049	1	1	7	2	Věra	Schubertová			52	sanitář	Olbramice	7	7	0	F
+8106	554049	1	2	1	2	Pavel	Hurník	Ing.		44	samostatný projektant	Olbramice	99	1	0	M
+8106	554049	1	3	901	2	Mária	Bílková			52	vedoucí informačního centra	Olbramice	99	80	0	F
+8106	554049	1	1	7	3	Marek	Ctibůrek			32	elektromechanik	Olbramice	99	7	0	M
+8106	554049	1	2	1	3	Marcel	Cron	Ing.		45	geolog	Olbramice	99	1	0	M
+8106	554049	1	3	901	3	František	Vaněk			47	řidič	Olbramice	99	80	0	M
+8106	554049	1	1	7	4	Tereza	Murínová	Ing.		28	akademický pracovník	Olbramice	99	7	0	F
+8106	554049	1	2	1	4	Lukáš	Budzel	Ing.		32	výrobní ředitel	Olbramice	99	1	0	M
+8106	554049	1	3	901	4	Jana	Nohlová			49	účetní	Olbramice	99	80	0	F
+8106	554049	1	1	7	5	Pavla	Hamplová			53	invalidní důchodce	Olbramice	99	7	0	F
+8106	554049	1	2	1	5	David	Kremzer	Ing.		39	vedoucí provozu	Olbramice	99	1	0	M
+8106	554049	1	3	901	5	Hana	Břežná	Bc.		42	bankovní úředník	Olbramice	99	80	0	F
+8106	554049	1	1	7	6	Lenka	Peterková			50	účetní	Olbramice	99	7	0	F
+8106	554049	1	2	1	6	Jan	Budzel			24	stolař	Olbramice	99	1	0	M
+8106	554049	1	3	901	6	Vladimír	Dedek	Mgr.		36	učitel	Olbramice	99	80	0	M
+8106	554049	1	1	7	7	René	Balický			52	pracovník ostrahy	Olbramice	99	7	0	M
+8106	554049	1	2	1	7	Monika	Gajdová			42	v domácnosti	Olbramice	99	1	0	F
+8106	554049	1	3	901	7	Petr	Konarský			48	předák směnové údržby	Olbramice	99	80	0	M
+8106	554049	1	1	7	8	Oldřich	Schubert			57	údržbář	Olbramice	7	7	0	M
+8106	554049	1	2	1	8	Tomáš	Petráš			45	invalidní důchodce	Olbramice	99	1	0	M
+8106	554049	1	3	901	8	Blanka	Vránová			47	vedoucí školní jídelny	Olbramice	99	80	0	F
+8106	554049	1	1	7	9	Arnošt	Czepka			70	důchodce	Olbramice	7	7	0	M
+8106	554049	1	2	1	9	Peter	Bednár			44	OSVČ	Olbramice	99	1	0	M
+8106	554049	1	3	901	9	Svatopluk	Seidler			47	zámečník	Olbramice	99	80	0	M

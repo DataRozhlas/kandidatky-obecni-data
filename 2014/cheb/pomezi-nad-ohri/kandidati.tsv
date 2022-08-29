@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4101	538868	1	1	903	1	Radek	Tlačil	M			38	státní zaměstnanec	Pomezí nad Ohří	99	80	0
-4101	538868	1	1	903	2	Martin	Lacina	M			37	jednatel společnosti	Hraničná	99	80	0
-4101	538868	1	1	903	3	Jaroslav	Komárek	M			45	státní zaměstnanec	Hraničná	99	80	0
-4101	538868	1	1	903	4	Silvia	Šuba	F	MUDr.		39	lékařka	Pomezí nad Ohří	99	80	0
-4101	538868	1	1	903	5	Zdeněk	Žalud	M			63	technik	Pomezí nad Ohří	47	80	0
-4101	538868	1	1	903	6	Dagmar	Humlová	F			59	zdravotní sestra	Pomezí nad Ohří	99	80	0
-4101	538868	1	1	903	7	Kamil	Lev	M			41	poradce v oblasti logistiky	Pomezí nad Ohří	99	80	0
-4101	538868	1	1	903	8	Jan	Nekuda	M			30	strážník MP	Hraničná	99	80	0
-4101	538868	1	1	903	9	Lenka	Houtke	F			27	referentka v galerii	Pomezí nad Ohří	99	80	0
-4101	538868	1	2	901	1	Ladislav	Dolhý	M	JUDr.		72	důchodce	Pomezí nad Ohří	99	80	0
-4101	538868	1	2	901	2	Libor	Matička	M	Bc.		51	dozorčí provozu	Pomezí nad Ohří	99	80	0
-4101	538868	1	2	901	3	Zdeněk	Michalík	M			52	řidič	Hraničná	99	80	0
-4101	538868	1	2	901	4	Martin	Rataj	M			37	osoba samostatně výdělečně činná	Hraničná	99	80	0
-4101	538868	1	2	901	5	Jiří	Hájek	M			63	řidič	Hraničná	99	80	0
-4101	538868	1	2	901	6	Pavlína	Pěnčíková	F			33	obsluha čerpací stanice	Hraničná	99	80	0
-4101	538868	1	2	901	7	Štefan	Štinčík	M			63	důchodce	Hraničná	99	80	0
-4101	538868	1	3	902	1	Anna	Houtková	F			54	referent	Pomezí nad Ohří	99	80	0
-4101	538868	1	3	902	2	Martin	Šlechta	M			43	řidič	Pomezí nad Ohří	99	80	0
-4101	538868	1	3	902	3	Ivana	Horňáková	F			39	referent	Hraničná	99	80	0
-4101	538868	1	3	902	4	Vladimír	Čermák	M			52	pracovník soc. služeb	Hraničná	99	80	0
-4101	538868	1	3	902	5	Roman	Slanina	M			52	montér - strojník	Pomezí nad Ohří	99	80	0
-4101	538868	1	3	902	6	Michal	Houtke	M			25	veterinář	Pomezí nad Ohří	99	80	0
-4101	538868	1	3	902	7	Jitka	Kolouchová	F			46	geodet	Pomezí nad Ohří	99	80	0
-4101	538868	1	3	902	8	Michal	Hric	M			60	důchodce	Pomezí nad Ohří	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4101	538868	1	1	903	1	Radek	Tlačil			38	státní zaměstnanec	Pomezí nad Ohří	99	80	0	M
+4101	538868	1	2	901	1	Ladislav	Dolhý	JUDr.		72	důchodce	Pomezí nad Ohří	99	80	0	M
+4101	538868	1	3	902	1	Anna	Houtková			54	referent	Pomezí nad Ohří	99	80	0	F
+4101	538868	1	1	903	2	Martin	Lacina			37	jednatel společnosti	Hraničná	99	80	0	M
+4101	538868	1	2	901	2	Libor	Matička	Bc.		51	dozorčí provozu	Pomezí nad Ohří	99	80	0	M
+4101	538868	1	3	902	2	Martin	Šlechta			43	řidič	Pomezí nad Ohří	99	80	0	M
+4101	538868	1	1	903	3	Jaroslav	Komárek			45	státní zaměstnanec	Hraničná	99	80	0	M
+4101	538868	1	2	901	3	Zdeněk	Michalík			52	řidič	Hraničná	99	80	0	M
+4101	538868	1	3	902	3	Ivana	Horňáková			39	referent	Hraničná	99	80	0	F
+4101	538868	1	1	903	4	Silvia	Šuba	MUDr.		39	lékařka	Pomezí nad Ohří	99	80	0	F
+4101	538868	1	2	901	4	Martin	Rataj			37	osoba samostatně výdělečně činná	Hraničná	99	80	0	M
+4101	538868	1	3	902	4	Vladimír	Čermák			52	pracovník soc. služeb	Hraničná	99	80	0	M
+4101	538868	1	1	903	5	Zdeněk	Žalud			63	technik	Pomezí nad Ohří	47	80	0	M
+4101	538868	1	2	901	5	Jiří	Hájek			63	řidič	Hraničná	99	80	0	M
+4101	538868	1	3	902	5	Roman	Slanina			52	montér - strojník	Pomezí nad Ohří	99	80	0	M
+4101	538868	1	1	903	6	Dagmar	Humlová			59	zdravotní sestra	Pomezí nad Ohří	99	80	0	F
+4101	538868	1	2	901	6	Pavlína	Pěnčíková			33	obsluha čerpací stanice	Hraničná	99	80	0	F
+4101	538868	1	3	902	6	Michal	Houtke			25	veterinář	Pomezí nad Ohří	99	80	0	M
+4101	538868	1	1	903	7	Kamil	Lev			41	poradce v oblasti logistiky	Pomezí nad Ohří	99	80	0	M
+4101	538868	1	2	901	7	Štefan	Štinčík			63	důchodce	Hraničná	99	80	0	M
+4101	538868	1	3	902	7	Jitka	Kolouchová			46	geodet	Pomezí nad Ohří	99	80	0	F
+4101	538868	1	1	903	8	Jan	Nekuda			30	strážník MP	Hraničná	99	80	0	M
+4101	538868	1	3	902	8	Michal	Hric			60	důchodce	Pomezí nad Ohří	99	80	0	M
+4101	538868	1	1	903	9	Lenka	Houtke			27	referentka v galerii	Pomezí nad Ohří	99	80	0	F

@@ -1,32 +1,32 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579637	1	1	1508	1	Martin	Mičola	M	Mgr.		53	učitel	Rtyně v Podkrkonoší	99	1	A
-5205	579637	1	1	1508	2	Antonín	Stanislav	M			37	ředitel domova sociální péče	Rtyně v Podkrkonoší	53	53	A
-5205	579637	1	1	1508	3	Jan	Hartman	M	MUDr.		61	lékař	Rtyně v Podkrkonoší	99	721	A
-5205	579637	1	1	1508	4	Karel	Šafář	M			36	premium bankéř	Rtyně v Podkrkonoší	99	721	A
-5205	579637	1	1	1508	5	Jana	Sehnalová	F			58	knihovnice	Rtyně v Podkrkonoší	1	1	A
-5205	579637	1	1	1508	6	Petr	Garček	M			46	technik	Rtyně v Podkrkonoší	53	53	A
-5205	579637	1	1	1508	7	Josef	Klapal	M	Ing.	MBA	41	obchodní ředitel	Rtyně v Podkrkonoší	99	80	A
-5205	579637	1	1	1508	8	Jiří	Kulda	M			49	podnikatel	Rtyně v Podkrkonoší	1	1	A
-5205	579637	1	1	1508	9	Monika	Kaněrová	F	Ing.		48	sales engineer	Rtyně v Podkrkonoší	1	1	A
-5205	579637	1	1	1508	10	Michal	Menšík	M			44	revizní technik	Rtyně v Podkrkonoší	1	1	A
-5205	579637	1	1	1508	11	Jiří	Drbohlav	M			51	podnikatel	Rtyně v Podkrkonoší	99	721	A
-5205	579637	1	1	1508	12	Lucie	Hejnová	F			34	logistik výroby	Rtyně v Podkrkonoší	99	1	A
-5205	579637	1	1	1508	13	Jan	Hanuš	M	Ing.		48	programátor	Rtyně v Podkrkonoší	1	1	A
-5205	579637	1	1	1508	14	Václav	Pavel	M			47	podnikatel	Rtyně v Podkrkonoší	99	80	A
-5205	579637	1	1	1508	15	Lenka	Kuldová	F	Mgr.		44	učitelka	Rtyně v Podkrkonoší	1	1	A
-5205	579637	1	2	901	1	Stanislav	Řezníček	M	Bc.	DiS.	36	pracovník kvality	Rtyně v Podkrkonoší	99	80	A
-5205	579637	1	2	901	2	Hana	Vondráčková	F	Mgr.		55	ředitelka ZŠ a ZUŠ	Rtyně v Podkrkonoší	99	80	A
-5205	579637	1	2	901	3	Albert	Janko	M			50	podnikatel	Rtyně v Podkrkonoší	99	80	A
-5205	579637	1	2	901	4	Štěpán	Hubálovský	M	prof. RNDr.	Ph.D.	51	akademický pracovník	Rtyně v Podkrkonoší	99	80	A
-5205	579637	1	2	901	5	Veronika	Turková	F	Bc.		36	učitelka tance	Rtyně v Podkrkonoší	99	80	A
-5205	579637	1	2	901	6	František	Pěkný	M			64	jednatel společnosti	Rtyně v Podkrkonoší	99	80	A
-5205	579637	1	2	901	7	Pavel	Fišera	M			52	vedoucí pobočky ČPP a.s.	Rtyně v Podkrkonoší	99	80	A
-5205	579637	1	2	901	8	Lenka	Kašparová	F	Mgr.		38	učitelka	Rtyně v Podkrkonoší	99	80	A
-5205	579637	1	2	901	9	Martin	Žďárský	M			37	vedoucí skladu	Rtyně v Podkrkonoší	99	80	A
-5205	579637	1	2	901	10	Jana	Lelková	F		DiS.	46	sociální pracovník DDTM	Rtyně v Podkrkonoší	99	80	A
-5205	579637	1	2	901	11	Pavel	Blažek	M			51	knihař	Rtyně v Podkrkonoší	99	80	A
-5205	579637	1	2	901	12	Petra	Hájková	F	Mgr.		36	státní zaměstnanec	Rtyně v Podkrkonoší	99	80	A
-5205	579637	1	2	901	13	Michal	Rak	M			23	student	Rtyně v Podkrkonoší	99	80	A
-5205	579637	1	2	901	14	Alexandr	Litko	M			54	podnikatel, včelař	Rtyně v Podkrkonoší	99	80	A
-5205	579637	1	2	901	15	Radek	Kaplan				46	jednatel společnosti	Rtyně v Podkrkonoší	99	80	A
-5205	579637	1	3	801	1	Milan	Romančák	M			69	důchodce	Rtyně v Podkrkonoší	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579637	1	1	1508	1	Martin	Mičola	Mgr.		53	učitel	Rtyně v Podkrkonoší	99	1	A	M
+5205	579637	1	2	901	1	Stanislav	Řezníček	Bc.	DiS.	36	pracovník kvality	Rtyně v Podkrkonoší	99	80	A	M
+5205	579637	1	3	801	1	Milan	Romančák			69	důchodce	Rtyně v Podkrkonoší	99	80	A	M
+5205	579637	1	1	1508	2	Antonín	Stanislav			37	ředitel domova sociální péče	Rtyně v Podkrkonoší	53	53	A	M
+5205	579637	1	2	901	2	Hana	Vondráčková	Mgr.		55	ředitelka ZŠ a ZUŠ	Rtyně v Podkrkonoší	99	80	A	F
+5205	579637	1	1	1508	3	Jan	Hartman	MUDr.		61	lékař	Rtyně v Podkrkonoší	99	721	A	M
+5205	579637	1	2	901	3	Albert	Janko			50	podnikatel	Rtyně v Podkrkonoší	99	80	A	M
+5205	579637	1	1	1508	4	Karel	Šafář			36	premium bankéř	Rtyně v Podkrkonoší	99	721	A	M
+5205	579637	1	2	901	4	Štěpán	Hubálovský	prof. RNDr.	Ph.D.	51	akademický pracovník	Rtyně v Podkrkonoší	99	80	A	M
+5205	579637	1	1	1508	5	Jana	Sehnalová			58	knihovnice	Rtyně v Podkrkonoší	1	1	A	F
+5205	579637	1	2	901	5	Veronika	Turková	Bc.		36	učitelka tance	Rtyně v Podkrkonoší	99	80	A	F
+5205	579637	1	1	1508	6	Petr	Garček			46	technik	Rtyně v Podkrkonoší	53	53	A	M
+5205	579637	1	2	901	6	František	Pěkný			64	jednatel společnosti	Rtyně v Podkrkonoší	99	80	A	M
+5205	579637	1	1	1508	7	Josef	Klapal	Ing.	MBA	41	obchodní ředitel	Rtyně v Podkrkonoší	99	80	A	M
+5205	579637	1	2	901	7	Pavel	Fišera			52	vedoucí pobočky ČPP a.s.	Rtyně v Podkrkonoší	99	80	A	M
+5205	579637	1	1	1508	8	Jiří	Kulda			49	podnikatel	Rtyně v Podkrkonoší	1	1	A	M
+5205	579637	1	2	901	8	Lenka	Kašparová	Mgr.		38	učitelka	Rtyně v Podkrkonoší	99	80	A	F
+5205	579637	1	1	1508	9	Monika	Kaněrová	Ing.		48	sales engineer	Rtyně v Podkrkonoší	1	1	A	F
+5205	579637	1	2	901	9	Martin	Žďárský			37	vedoucí skladu	Rtyně v Podkrkonoší	99	80	A	M
+5205	579637	1	1	1508	10	Michal	Menšík			44	revizní technik	Rtyně v Podkrkonoší	1	1	A	M
+5205	579637	1	2	901	10	Jana	Lelková		DiS.	46	sociální pracovník DDTM	Rtyně v Podkrkonoší	99	80	A	F
+5205	579637	1	1	1508	11	Jiří	Drbohlav			51	podnikatel	Rtyně v Podkrkonoší	99	721	A	M
+5205	579637	1	2	901	11	Pavel	Blažek			51	knihař	Rtyně v Podkrkonoší	99	80	A	M
+5205	579637	1	1	1508	12	Lucie	Hejnová			34	logistik výroby	Rtyně v Podkrkonoší	99	1	A	F
+5205	579637	1	2	901	12	Petra	Hájková	Mgr.		36	státní zaměstnanec	Rtyně v Podkrkonoší	99	80	A	F
+5205	579637	1	1	1508	13	Jan	Hanuš	Ing.		48	programátor	Rtyně v Podkrkonoší	1	1	A	M
+5205	579637	1	2	901	13	Michal	Rak			23	student	Rtyně v Podkrkonoší	99	80	A	M
+5205	579637	1	1	1508	14	Václav	Pavel			47	podnikatel	Rtyně v Podkrkonoší	99	80	A	M
+5205	579637	1	2	901	14	Alexandr	Litko			54	podnikatel, včelař	Rtyně v Podkrkonoší	99	80	A	M
+5205	579637	1	1	1508	15	Lenka	Kuldová	Mgr.		44	učitelka	Rtyně v Podkrkonoší	1	1	A	F
+5205	579637	1	2	901	15	Radek	Kaplan			46	jednatel společnosti	Rtyně v Podkrkonoší	99	80	A	

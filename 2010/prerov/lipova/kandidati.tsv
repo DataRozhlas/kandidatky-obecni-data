@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7104	514772	1	1	47	1	Radomír	Zajíc	M			49	traktorista	Lipová	47	47	0
-7104	514772	1	1	47	2	Radek	Krutil	M			37	soukromý podnikatel	Lipová	99	47	0
-7104	514772	1	1	47	3	Rostislav	Filip	M			39	řidič	Lipová	99	47	0
-7104	514772	1	1	47	4	Pavel	Oliva	M			44	opravář zeměděl. strojů	Lipová	99	47	0
-7104	514772	1	1	47	5	Alena	Maliňáková	F			42	zdravotní sestra	Lipová	99	47	0
-7104	514772	1	1	47	6	Jiří	Václavík	M			64	technik	Lipová	99	47	0
-7104	514772	1	1	47	7	Jiří	Poulíček	M			55	zaměstnanec ČD	Lipová	99	47	0
-7104	514772	1	1	47	8	Jan	Vojta	M			64	zaměstnanec zem. družstva	Lipová	99	47	0
-7104	514772	1	1	47	9	Miroslav	Zmeškal	M			80	mistr	Lipová	47	47	0
-7104	514772	1	2	166	1	Zdeněk	Zámečník	M			48	elektromontér	Lipová	99	166	0
-7104	514772	1	2	166	2	Josef	Pavlík	M			65	důchodce	Lipová	99	166	0
-7104	514772	1	2	166	3	Libor	Symerský	M			44	přípravář	Lipová	99	166	0
-7104	514772	1	2	166	4	Lukáš	Urbánek	M			19	instalatér	Lipová	99	166	0
-7104	514772	1	2	166	5	Vilma	Hašlová	F	Ing.		48	vedoucí výroby	Lipová	99	166	0
-7104	514772	1	2	166	6	Miroslav	Symerský	M			69	důchodce	Lipová	99	166	0
-7104	514772	1	2	166	7	Vlasta	Olivová	F			53	dělnice	Lipová	99	166	0
-7104	514772	1	2	166	8	Stanislav	Zámorský	M			41	inv. důchodce	Lipová	99	166	0
-7104	514772	1	2	166	9	Stanislav	Chytil	M			57	stolař	Lipová	99	166	0
-7104	514772	1	3	1	1	Petr	Navrátil	M			45	řidič autobusu	Lipová	99	1	0
-7104	514772	1	3	1	2	Petr	Hošťálek	M			47	poradce pro výživu zvířat	Lipová	1	1	0
-7104	514772	1	3	1	3	Jana	Krpcová	F			33	prodavačka	Lipová	99	1	0
-7104	514772	1	3	1	4	Ivana	Hošťálková	F	Mgr.		44	učitelka	Lipová	99	1	0
-7104	514772	1	3	1	5	Jaromír	Skýpala	M			52	strojvedoucí ČD	Lipová	99	1	0
-7104	514772	1	3	1	6	Dagmar	Kubíková	F			39	ošetřovatelka	Lipová	99	1	0
-7104	514772	1	3	1	7	Martin	Šebík	M			37	elektromontér	Lipová	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7104	514772	1	1	47	1	Radomír	Zajíc			49	traktorista	Lipová	47	47	0	M
+7104	514772	1	2	166	1	Zdeněk	Zámečník			48	elektromontér	Lipová	99	166	0	M
+7104	514772	1	3	1	1	Petr	Navrátil			45	řidič autobusu	Lipová	99	1	0	M
+7104	514772	1	1	47	2	Radek	Krutil			37	soukromý podnikatel	Lipová	99	47	0	M
+7104	514772	1	2	166	2	Josef	Pavlík			65	důchodce	Lipová	99	166	0	M
+7104	514772	1	3	1	2	Petr	Hošťálek			47	poradce pro výživu zvířat	Lipová	1	1	0	M
+7104	514772	1	1	47	3	Rostislav	Filip			39	řidič	Lipová	99	47	0	M
+7104	514772	1	2	166	3	Libor	Symerský			44	přípravář	Lipová	99	166	0	M
+7104	514772	1	3	1	3	Jana	Krpcová			33	prodavačka	Lipová	99	1	0	F
+7104	514772	1	1	47	4	Pavel	Oliva			44	opravář zeměděl. strojů	Lipová	99	47	0	M
+7104	514772	1	2	166	4	Lukáš	Urbánek			19	instalatér	Lipová	99	166	0	M
+7104	514772	1	3	1	4	Ivana	Hošťálková	Mgr.		44	učitelka	Lipová	99	1	0	F
+7104	514772	1	1	47	5	Alena	Maliňáková			42	zdravotní sestra	Lipová	99	47	0	F
+7104	514772	1	2	166	5	Vilma	Hašlová	Ing.		48	vedoucí výroby	Lipová	99	166	0	F
+7104	514772	1	3	1	5	Jaromír	Skýpala			52	strojvedoucí ČD	Lipová	99	1	0	M
+7104	514772	1	1	47	6	Jiří	Václavík			64	technik	Lipová	99	47	0	M
+7104	514772	1	2	166	6	Miroslav	Symerský			69	důchodce	Lipová	99	166	0	M
+7104	514772	1	3	1	6	Dagmar	Kubíková			39	ošetřovatelka	Lipová	99	1	0	F
+7104	514772	1	1	47	7	Jiří	Poulíček			55	zaměstnanec ČD	Lipová	99	47	0	M
+7104	514772	1	2	166	7	Vlasta	Olivová			53	dělnice	Lipová	99	166	0	F
+7104	514772	1	3	1	7	Martin	Šebík			37	elektromontér	Lipová	99	1	0	M
+7104	514772	1	1	47	8	Jan	Vojta			64	zaměstnanec zem. družstva	Lipová	99	47	0	M
+7104	514772	1	2	166	8	Stanislav	Zámorský			41	inv. důchodce	Lipová	99	166	0	M
+7104	514772	1	1	47	9	Miroslav	Zmeškal			80	mistr	Lipová	47	47	0	M
+7104	514772	1	2	166	9	Stanislav	Chytil			57	stolař	Lipová	99	166	0	M

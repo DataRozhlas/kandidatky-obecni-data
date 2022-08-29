@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3106	551392	1	1	901	1	Josef	Sýkora	M			45	informatik	Mečichov	99	80	A
-3106	551392	1	1	901	2	Pavel	Klečka	M			37	vedoucí obchodu	Mečichov	99	80	A
-3106	551392	1	1	901	3	Tomáš	Klečka	M	Mgr.		37	právník	Mečichov	99	80	A
-3106	551392	1	1	901	4	Libor	Zdychynec	M			43	pracovník zákaznického centra	Mečichov	99	80	A
-3106	551392	1	1	901	5	Jaroslav	Plechatý	M			34	produktový manažer	Mečichov	99	80	A
-3106	551392	1	1	901	6	Václav	Valenta	M			50	živnostník	Mečichov	99	80	A
-3106	551392	1	1	901	7	František	Mašek	M			33	řidič	Mečichov	99	80	A
-3106	551392	1	1	901	8	Petr	Straka	M			33	elektro údržbář	Mečichov	99	80	A
-3106	551392	1	1	901	9	Jakub	Beran	M			27	soukromý zemědělec	Mečichov	99	80	A
-3106	551392	1	2	166	1	Petr	Finěk	M	Bc.		46	ředitel pojišťovny	Mečichov	99	166	A
-3106	551392	1	2	166	2	Pavlína	Plechatá	F			31	OSVČ	Mečichov	99	166	A
-3106	551392	1	2	166	3	František	Polan	M			61	OSVČ	Mečichov	99	166	A
-3106	551392	1	2	166	4	Karla	Hokrová	F			44	OSVČ	Mečichov	99	166	A
-3106	551392	1	2	166	5	Ivana	Fleissigová	F			22	žena na MD	Mečichov	99	166	A
-3106	551392	1	2	166	6	Miloslav	Slavík	M			50	OSVČ	Mečichov	99	166	A
-3106	551392	1	2	166	7	Pavel	Slanec	M			48	řidič	Mečichov	99	166	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3106	551392	1	1	901	1	Josef	Sýkora			45	informatik	Mečichov	99	80	A	M
+3106	551392	1	2	166	1	Petr	Finěk	Bc.		46	ředitel pojišťovny	Mečichov	99	166	A	M
+3106	551392	1	1	901	2	Pavel	Klečka			37	vedoucí obchodu	Mečichov	99	80	A	M
+3106	551392	1	2	166	2	Pavlína	Plechatá			31	OSVČ	Mečichov	99	166	A	F
+3106	551392	1	1	901	3	Tomáš	Klečka	Mgr.		37	právník	Mečichov	99	80	A	M
+3106	551392	1	2	166	3	František	Polan			61	OSVČ	Mečichov	99	166	A	M
+3106	551392	1	1	901	4	Libor	Zdychynec			43	pracovník zákaznického centra	Mečichov	99	80	A	M
+3106	551392	1	2	166	4	Karla	Hokrová			44	OSVČ	Mečichov	99	166	A	F
+3106	551392	1	1	901	5	Jaroslav	Plechatý			34	produktový manažer	Mečichov	99	80	A	M
+3106	551392	1	2	166	5	Ivana	Fleissigová			22	žena na MD	Mečichov	99	166	A	F
+3106	551392	1	1	901	6	Václav	Valenta			50	živnostník	Mečichov	99	80	A	M
+3106	551392	1	2	166	6	Miloslav	Slavík			50	OSVČ	Mečichov	99	166	A	M
+3106	551392	1	1	901	7	František	Mašek			33	řidič	Mečichov	99	80	A	M
+3106	551392	1	2	166	7	Pavel	Slanec			48	řidič	Mečichov	99	166	A	M
+3106	551392	1	1	901	8	Petr	Straka			33	elektro údržbář	Mečichov	99	80	A	M
+3106	551392	1	1	901	9	Jakub	Beran			27	soukromý zemědělec	Mečichov	99	80	A	M

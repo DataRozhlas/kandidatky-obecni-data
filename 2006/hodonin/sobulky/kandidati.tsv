@@ -1,36 +1,36 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6205	586552	1	1	805	1	Pavel	Jandora	M			50	dělník	Sobůlky	99	80	0
-6205	586552	1	2	802	1	Marián	Mořický	M			31	úředník ve státní správě	Sobůlky	99	80	0
-6205	586552	1	3	47	1	Josef	Mareček	M			65	důchodce	Sobůlky	47	47	0
-6205	586552	1	3	47	2	Božena	Polášková	F			55	v domácnosti	Sobůlky	99	47	0
-6205	586552	1	3	47	3	František	Polášek	M			64	důchodce	Sobůlky	99	47	0
-6205	586552	1	3	47	4	Miroslav	Hrbotický	M			59	OSVČ	Sobůlky	47	47	0
-6205	586552	1	3	47	5	Václav	Vrbík	M			64	důchodce	Sobůlky	47	47	0
-6205	586552	1	3	47	6	Jan	Kasan	M			53	klempíř	Sobůlky	47	47	0
-6205	586552	1	3	47	7	Milan	Krahulík	M			54	horník	Sobůlky	99	47	0
-6205	586552	1	3	47	8	Oldřich	Jetelina	M			62	elektrikář	Sobůlky	47	47	0
-6205	586552	1	4	1	1	Josef	Svoboda	M	MUDr.		38	lékař	Sobůlky	99	1	0
-6205	586552	1	4	1	2	Jarmila	Bořecká	F			43	úřednice referent nákupu	Sobůlky	99	1	0
-6205	586552	1	4	1	3	Martin	Půček	M	Mgr.		30	úředník-referent památ.péče	Sobůlky	99	1	0
-6205	586552	1	4	1	4	Vojtěch	Boltnar	M			38	malíř, natěrač	Sobůlky	99	1	0
-6205	586552	1	4	1	5	Jaroslav	Bárta	M	Ing.		53	zemědělský podnikatel	Sobůlky	99	1	0
-6205	586552	1	4	1	6	Jitka	Obrová	F	Bc.	DiS.	47	osobní asist. post.dítěte	Sobůlky	99	1	0
-6205	586552	1	4	1	7	Vladimír	Kalivoda	M			42	tesař	Sobůlky	99	1	0
-6205	586552	1	4	1	8	Jarmila	Matyášová	F			44	vedoucí školní jídelny	Sobůlky	99	1	0
-6205	586552	1	4	1	9	Františka	Marečková	F			60	důchodkyně	Sobůlky	1	1	0
-6205	586552	1	5	803	1	Ludvík	Havlíček	M			57	OSVČ (obchodní zástupce)	Sobůlky	99	80	0
-6205	586552	1	6	801	1	Marie	Valčíková	F			49	úřednice (nezaměstnaná)	Sobůlky	99	80	0
-6205	586552	1	7	808	1	Petr	Koutný	M			36	OSVČ (truhlář)	Sobůlky	99	80	0
-6205	586552	1	8	809	1	Vítězslav	Zeman	M			45	OSVČ (obchodní zástupce)	Sobůlky	99	80	0
-6205	586552	1	9	158	1	František	Svoboda	M	Ing.		38	starosta	Sobůlky	99	158	0
-6205	586552	1	9	158	2	Marta	Maradová	F			62	důchodce	Sobůlky	99	158	0
-6205	586552	1	9	158	3	Ludmila	Kroupová	F			55	sklofoukačka	Sobůlky	99	158	0
-6205	586552	1	9	158	4	Josef	Holeček	M			51	živnostník	Sobůlky	99	158	0
-6205	586552	1	9	158	5	Zdeněk	Pantlík	M			46	podnikatel	Sobůlky	99	158	0
-6205	586552	1	9	158	6	Milan	Krmíček	M	Ing.		42	geodet	Sobůlky	99	158	0
-6205	586552	1	9	158	7	Petra	Dubná	F	Ing.		26	manažer projektů EU	Sobůlky	99	158	0
-6205	586552	1	9	158	8	Radim	Horňák	M			29	podnikatel	Sobůlky	99	158	0
-6205	586552	1	9	158	9	Ivan	Kaleta	M			25	podnikatel	Sobůlky	99	158	0
-6205	586552	1	10	807	1	Milan	Lecián	M			37	výpravčí	Sobůlky	99	80	0
-6205	586552	1	11	806	1	Marie	Kostihová	F			51	úřednice	Sobůlky	99	80	0
-6205	586552	1	12	804	1	Jiří	Pospíšil	M	Ing.		41	OSVČ (pojišťovací makléř)	Sobůlky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6205	586552	1	1	805	1	Pavel	Jandora			50	dělník	Sobůlky	99	80	0	M
+6205	586552	1	2	802	1	Marián	Mořický			31	úředník ve státní správě	Sobůlky	99	80	0	M
+6205	586552	1	3	47	1	Josef	Mareček			65	důchodce	Sobůlky	47	47	0	M
+6205	586552	1	4	1	1	Josef	Svoboda	MUDr.		38	lékař	Sobůlky	99	1	0	M
+6205	586552	1	5	803	1	Ludvík	Havlíček			57	OSVČ (obchodní zástupce)	Sobůlky	99	80	0	M
+6205	586552	1	6	801	1	Marie	Valčíková			49	úřednice (nezaměstnaná)	Sobůlky	99	80	0	F
+6205	586552	1	7	808	1	Petr	Koutný			36	OSVČ (truhlář)	Sobůlky	99	80	0	M
+6205	586552	1	8	809	1	Vítězslav	Zeman			45	OSVČ (obchodní zástupce)	Sobůlky	99	80	0	M
+6205	586552	1	9	158	1	František	Svoboda	Ing.		38	starosta	Sobůlky	99	158	0	M
+6205	586552	1	10	807	1	Milan	Lecián			37	výpravčí	Sobůlky	99	80	0	M
+6205	586552	1	11	806	1	Marie	Kostihová			51	úřednice	Sobůlky	99	80	0	F
+6205	586552	1	12	804	1	Jiří	Pospíšil	Ing.		41	OSVČ (pojišťovací makléř)	Sobůlky	99	80	0	M
+6205	586552	1	3	47	2	Božena	Polášková			55	v domácnosti	Sobůlky	99	47	0	F
+6205	586552	1	4	1	2	Jarmila	Bořecká			43	úřednice referent nákupu	Sobůlky	99	1	0	F
+6205	586552	1	9	158	2	Marta	Maradová			62	důchodce	Sobůlky	99	158	0	F
+6205	586552	1	3	47	3	František	Polášek			64	důchodce	Sobůlky	99	47	0	M
+6205	586552	1	4	1	3	Martin	Půček	Mgr.		30	úředník-referent památ.péče	Sobůlky	99	1	0	M
+6205	586552	1	9	158	3	Ludmila	Kroupová			55	sklofoukačka	Sobůlky	99	158	0	F
+6205	586552	1	3	47	4	Miroslav	Hrbotický			59	OSVČ	Sobůlky	47	47	0	M
+6205	586552	1	4	1	4	Vojtěch	Boltnar			38	malíř, natěrač	Sobůlky	99	1	0	M
+6205	586552	1	9	158	4	Josef	Holeček			51	živnostník	Sobůlky	99	158	0	M
+6205	586552	1	3	47	5	Václav	Vrbík			64	důchodce	Sobůlky	47	47	0	M
+6205	586552	1	4	1	5	Jaroslav	Bárta	Ing.		53	zemědělský podnikatel	Sobůlky	99	1	0	M
+6205	586552	1	9	158	5	Zdeněk	Pantlík			46	podnikatel	Sobůlky	99	158	0	M
+6205	586552	1	3	47	6	Jan	Kasan			53	klempíř	Sobůlky	47	47	0	M
+6205	586552	1	4	1	6	Jitka	Obrová	Bc.	DiS.	47	osobní asist. post.dítěte	Sobůlky	99	1	0	F
+6205	586552	1	9	158	6	Milan	Krmíček	Ing.		42	geodet	Sobůlky	99	158	0	M
+6205	586552	1	3	47	7	Milan	Krahulík			54	horník	Sobůlky	99	47	0	M
+6205	586552	1	4	1	7	Vladimír	Kalivoda			42	tesař	Sobůlky	99	1	0	M
+6205	586552	1	9	158	7	Petra	Dubná	Ing.		26	manažer projektů EU	Sobůlky	99	158	0	F
+6205	586552	1	3	47	8	Oldřich	Jetelina			62	elektrikář	Sobůlky	47	47	0	M
+6205	586552	1	4	1	8	Jarmila	Matyášová			44	vedoucí školní jídelny	Sobůlky	99	1	0	F
+6205	586552	1	9	158	8	Radim	Horňák			29	podnikatel	Sobůlky	99	158	0	M
+6205	586552	1	4	1	9	Františka	Marečková			60	důchodkyně	Sobůlky	1	1	0	F
+6205	586552	1	9	158	9	Ivan	Kaleta			25	podnikatel	Sobůlky	99	158	0	M

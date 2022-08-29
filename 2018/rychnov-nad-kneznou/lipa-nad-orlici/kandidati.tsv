@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5204	576476	1	1	901	1	Monika	Vrátilová	F			40	starostka	Lípa nad Orlicí	99	80	A
-5204	576476	1	1	901	2	Pavel	Bartoš	M			47	karosář	Dlouhá Louka	99	80	A
-5204	576476	1	1	901	3	Radoslav	Koblása	M			43	technický pracovník	Lípa nad Orlicí	99	80	A
-5204	576476	1	1	901	4	Helena	Tichá	F			39	manipulant	Lípa nad Orlicí	99	80	A
-5204	576476	1	1	901	5	Jana	Hromková	F	Mgr.		50	OSVČ	Lípa nad Orlicí	47	80	A
-5204	576476	1	1	901	6	Lenka	Svitanová	F			40	manipulant	Lípa nad Orlicí	99	80	A
-5204	576476	1	1	901	7	Jana	Kapuciánová	F			38	zdravotní sestra	Lípa nad Orlicí	99	80	A
-5204	576476	1	1	901	8	Lukáš	Táborský	M		DiS.	36	vodohospodář	Lípa nad Orlicí	99	80	A
-5204	576476	1	1	901	9	Jiří	Jasanský	M	Ing.		45	ředitel katastrálního pracoviště	Dlouhá Louka	99	80	A
-5204	576476	1	1	901	10	Norbert	Šimon	M			41	OSVČ	Dlouhá Louka	99	80	A
-5204	576476	1	1	901	11	Jiří	Hlava	M			47	OSVČ	Lípa nad Orlicí	99	80	A
-5204	576476	1	2	470	1	Milan	Brzokoupil	M	Ing.		33	OSVČ finanční poradce	Lípa nad Orlicí	99	80	A
-5204	576476	1	2	470	2	Zuzana	Hloušková	F			38	bankéřka	Lípa nad Orlicí	99	80	A
-5204	576476	1	2	470	3	Pavel	Broulík	M			36	státní zaměstnanec Policie ČR	Lípa nad Orlicí	99	80	A
-5204	576476	1	2	470	4	Naděžda	Pamánková	F			39	vedoucí prodejny	Lípa nad Orlicí	166	166	A
-5204	576476	1	2	470	5	Iva	Lingrová	F			53	OSVČ účetní	Lípa nad Orlicí	166	166	A
-5204	576476	1	2	470	6	Jiří	Šíla	M	Ing.		35	telekomunikační technik	Lípa nad Orlicí	166	166	A
-5204	576476	1	2	470	7	Luděk	Doležal	M			34	státní zaměstnanec Lesy ČR	Lípa nad Orlicí	166	166	A
-5204	576476	1	2	470	8	Jaroslav	Neubauer	M			40	státní zaměstnanec Armáda ČR	Lípa nad Orlicí	99	80	A
-5204	576476	1	2	470	9	Martin	Bartoš	M			50	OSVČ	Lípa nad Orlicí	166	166	A
-5204	576476	1	2	470	10	Petr	Pojezdala	M			38	OSVČ	Lípa nad Orlicí	166	166	A
-5204	576476	1	2	470	11	Jan	Charvát	M			68	důchodce	Lípa nad Orlicí	99	166	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5204	576476	1	1	901	1	Monika	Vrátilová			40	starostka	Lípa nad Orlicí	99	80	A	F
+5204	576476	1	2	470	1	Milan	Brzokoupil	Ing.		33	OSVČ finanční poradce	Lípa nad Orlicí	99	80	A	M
+5204	576476	1	1	901	2	Pavel	Bartoš			47	karosář	Dlouhá Louka	99	80	A	M
+5204	576476	1	2	470	2	Zuzana	Hloušková			38	bankéřka	Lípa nad Orlicí	99	80	A	F
+5204	576476	1	1	901	3	Radoslav	Koblása			43	technický pracovník	Lípa nad Orlicí	99	80	A	M
+5204	576476	1	2	470	3	Pavel	Broulík			36	státní zaměstnanec Policie ČR	Lípa nad Orlicí	99	80	A	M
+5204	576476	1	1	901	4	Helena	Tichá			39	manipulant	Lípa nad Orlicí	99	80	A	F
+5204	576476	1	2	470	4	Naděžda	Pamánková			39	vedoucí prodejny	Lípa nad Orlicí	166	166	A	F
+5204	576476	1	1	901	5	Jana	Hromková	Mgr.		50	OSVČ	Lípa nad Orlicí	47	80	A	F
+5204	576476	1	2	470	5	Iva	Lingrová			53	OSVČ účetní	Lípa nad Orlicí	166	166	A	F
+5204	576476	1	1	901	6	Lenka	Svitanová			40	manipulant	Lípa nad Orlicí	99	80	A	F
+5204	576476	1	2	470	6	Jiří	Šíla	Ing.		35	telekomunikační technik	Lípa nad Orlicí	166	166	A	M
+5204	576476	1	1	901	7	Jana	Kapuciánová			38	zdravotní sestra	Lípa nad Orlicí	99	80	A	F
+5204	576476	1	2	470	7	Luděk	Doležal			34	státní zaměstnanec Lesy ČR	Lípa nad Orlicí	166	166	A	M
+5204	576476	1	1	901	8	Lukáš	Táborský		DiS.	36	vodohospodář	Lípa nad Orlicí	99	80	A	M
+5204	576476	1	2	470	8	Jaroslav	Neubauer			40	státní zaměstnanec Armáda ČR	Lípa nad Orlicí	99	80	A	M
+5204	576476	1	1	901	9	Jiří	Jasanský	Ing.		45	ředitel katastrálního pracoviště	Dlouhá Louka	99	80	A	M
+5204	576476	1	2	470	9	Martin	Bartoš			50	OSVČ	Lípa nad Orlicí	166	166	A	M
+5204	576476	1	1	901	10	Norbert	Šimon			41	OSVČ	Dlouhá Louka	99	80	A	M
+5204	576476	1	2	470	10	Petr	Pojezdala			38	OSVČ	Lípa nad Orlicí	166	166	A	M
+5204	576476	1	1	901	11	Jiří	Hlava			47	OSVČ	Lípa nad Orlicí	99	80	A	M
+5204	576476	1	2	470	11	Jan	Charvát			68	důchodce	Lípa nad Orlicí	99	166	A	M

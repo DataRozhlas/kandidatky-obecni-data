@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	553662	1	1	804	1	Miroslav	Mayer	M			67	důchodce	Horní Kamenice	99	80	0
-3201	553662	1	2	806	1	Jitka	Kárníková	F			37	dělnice	Horní Kamenice	99	80	0
-3201	553662	1	3	801	1	Miroslav	Bešta	M			35	soukromý podnikatel	Horní Kamenice	99	80	0
-3201	553662	1	4	901	1	Václav	Štengl	M			41	veter.technik	Horní Kamenice	99	80	0
-3201	553662	1	4	901	2	Michal	Bešta	M			29	optik	Horní Kamenice	99	80	0
-3201	553662	1	4	901	3	Jan	Mařík	M			29	truhlář	Horní Kamenice	99	80	0
-3201	553662	1	4	901	4	Monika	Poslední	F			27	ekonomka	Horní Kamenice	99	80	0
-3201	553662	1	4	901	5	Jan	Kreysa	M			23	student	Horní Kamenice	99	80	0
-3201	553662	1	4	901	6	Pavel	Mařík	M			33	instalatér	Horní Kamenice	99	80	0
-3201	553662	1	5	803	1	Jana	Holubová	F	Mgr.		44	učitelka	Horní Kamenice	99	80	0
-3201	553662	1	6	805	1	Jiří	Vorel	M	Ing. Arch.		49	architekt	Horní Kamenice	99	80	1
-3201	553662	1	7	802	1	Jiří	Herian	M			49	technik	Horní Kamenice	99	80	0
-3201	553662	1	8	902	1	Jan	Mařík	M			53	klempíř	Horní Kamenice	99	80	0
-3201	553662	1	8	902	2	Jaroslav	Šídlo	M			65	zámečník	Horní Kamenice	99	80	0
-3201	553662	1	8	902	3	Jiří	Petráš	M			34	podnikatel	Horní Kamenice	99	80	0
-3201	553662	1	8	902	4	Lada	Tichá	F			43	ekonomka	Horní Kamenice	99	80	0
-3201	553662	1	8	902	5	Jiří	Kindl	M			38	zemědělec	Horní Kamenice	99	80	0
-3201	553662	1	8	902	6	Luboš	Raška	M			43	technik	Horní Kamenice	99	80	0
-3201	553662	1	8	902	7	Oto	Roš	M			73	voják	Horní Kamenice	99	80	0
-3201	553662	1	8	902	8	Václav	Říha	M			55	dělník	Horní Kamenice	99	80	0
-3201	553662	1	8	902	9	Václav	Kreysa	M			49	zemědělec	Horní Kamenice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	553662	1	1	804	1	Miroslav	Mayer			67	důchodce	Horní Kamenice	99	80	0	M
+3201	553662	1	2	806	1	Jitka	Kárníková			37	dělnice	Horní Kamenice	99	80	0	F
+3201	553662	1	3	801	1	Miroslav	Bešta			35	soukromý podnikatel	Horní Kamenice	99	80	0	M
+3201	553662	1	4	901	1	Václav	Štengl			41	veter.technik	Horní Kamenice	99	80	0	M
+3201	553662	1	5	803	1	Jana	Holubová	Mgr.		44	učitelka	Horní Kamenice	99	80	0	F
+3201	553662	1	6	805	1	Jiří	Vorel	Ing. Arch.		49	architekt	Horní Kamenice	99	80	1	M
+3201	553662	1	7	802	1	Jiří	Herian			49	technik	Horní Kamenice	99	80	0	M
+3201	553662	1	8	902	1	Jan	Mařík			53	klempíř	Horní Kamenice	99	80	0	M
+3201	553662	1	4	901	2	Michal	Bešta			29	optik	Horní Kamenice	99	80	0	M
+3201	553662	1	8	902	2	Jaroslav	Šídlo			65	zámečník	Horní Kamenice	99	80	0	M
+3201	553662	1	4	901	3	Jan	Mařík			29	truhlář	Horní Kamenice	99	80	0	M
+3201	553662	1	8	902	3	Jiří	Petráš			34	podnikatel	Horní Kamenice	99	80	0	M
+3201	553662	1	4	901	4	Monika	Poslední			27	ekonomka	Horní Kamenice	99	80	0	F
+3201	553662	1	8	902	4	Lada	Tichá			43	ekonomka	Horní Kamenice	99	80	0	F
+3201	553662	1	4	901	5	Jan	Kreysa			23	student	Horní Kamenice	99	80	0	M
+3201	553662	1	8	902	5	Jiří	Kindl			38	zemědělec	Horní Kamenice	99	80	0	M
+3201	553662	1	4	901	6	Pavel	Mařík			33	instalatér	Horní Kamenice	99	80	0	M
+3201	553662	1	8	902	6	Luboš	Raška			43	technik	Horní Kamenice	99	80	0	M
+3201	553662	1	8	902	7	Oto	Roš			73	voják	Horní Kamenice	99	80	0	M
+3201	553662	1	8	902	8	Václav	Říha			55	dělník	Horní Kamenice	99	80	0	M
+3201	553662	1	8	902	9	Václav	Kreysa			49	zemědělec	Horní Kamenice	99	80	0	M

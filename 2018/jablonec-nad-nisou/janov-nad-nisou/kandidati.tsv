@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5102	563595	1	1	470	1	Adam	Kulich	M	Mgr.		38	učitel	Janov nad Nisou	99	80	A
-5102	563595	1	1	470	2	Jaroslav	Jansa	M			42	OSVČ	Hraničná	99	80	A
-5102	563595	1	1	470	3	Kateřina	Šípalová	F	Mgr.		44	učitelka	Janov nad Nisou	99	80	A
-5102	563595	1	1	470	4	Pavel	Khail	M	Ing.		47	programátor	Janov nad Nisou	99	80	A
-5102	563595	1	1	470	5	Radek	Fejgl	M	MUDr.		43	lékař	Hraničná	99	80	A
-5102	563595	1	1	470	6	Martina	Šoutová	F			43	operátorka výroby	Janov nad Nisou	99	80	A
-5102	563595	1	1	470	7	Milan	Krištof	M			44	vedoucí provozu	Hraničná	99	80	A
-5102	563595	1	1	470	8	Petra	Davidová	F	Mgr.		45	učitelka	Janov nad Nisou	99	80	A
-5102	563595	1	1	470	9	Jaroslav	Škoda	M			52	řidič autobusu	Janov nad Nisou	99	80	A
-5102	563595	1	2	480	1	Marie	Bürgerová	F	Mgr.		52	úřednice	Janov nad Nisou	721	721	A
-5102	563595	1	2	480	2	Vendula	Pospíšilová	F			44	ředitelka Janovské o.p.s.	Janov nad Nisou	99	80	A
-5102	563595	1	2	480	3	Ivo	Šorm	M	Mgr.		31	ředitel maloobchodní prodejny se sportovním zbožím	Hraničná	99	80	A
-5102	563595	1	2	480	4	Jiří	Louda	M	Ing.	Ph.D.	34	projekt. manažer a věd. prac. v obl. ŽP	Janov nad Nisou	99	80	A
-5102	563595	1	2	480	5	Pavla	Jurečková	F			35	manažerka cestovního ruchu	Janov nad Nisou	99	80	A
-5102	563595	1	2	480	6	Soňa	Beyblová	F	Ing.		39	vedoucí technologického oddělení	Janov nad Nisou	99	80	A
-5102	563595	1	2	480	7	Jana	Šnytrová	F	Ing.		65	důchodkyně	Janov nad Nisou	99	80	A
-5102	563595	1	2	480	8	Vladimíra	Vaistauerová	F			38	pastorační asistentka	Loučná nad Nisou	99	80	A
-5102	563595	1	2	480	9	Stanislav	Hladký	M			67	soukromý zemědělec	Janov nad Nisou	99	80	A
-5102	563595	1	3	475	1	Daniel	David	M	Mgr.		47	starosta	Janov nad Nisou	703	703	A
-5102	563595	1	3	475	2	Renata	Mádlová	F			48	zástupce pro školní jídelnu	Hraničná	99	80	A
-5102	563595	1	3	475	3	Pavel	Kittel	M			57	podnikatel	Janov nad Nisou	99	80	A
-5102	563595	1	3	475	4	Michal	Surkov	M			45	elektromechanik	Janov nad Nisou	99	80	A
-5102	563595	1	3	475	5	Pavel	Pěnička	M			51	developer	Janov nad Nisou	99	80	A
-5102	563595	1	3	475	6	Radek	Jelínek	M	Ing.		54	analytik	Loučná nad Nisou	99	80	A
-5102	563595	1	3	475	7	Petra	Macháčková	F	Ing.		45	obchodní zástupce	Loučná nad Nisou	99	80	A
-5102	563595	1	3	475	8	Radek	Nagy	M			44	státní zaměstnanec	Hraničná	99	80	A
-5102	563595	1	3	475	9	Petr	Sodomka	M			37	živnostník	Loučná nad Nisou	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5102	563595	1	1	470	1	Adam	Kulich	Mgr.		38	učitel	Janov nad Nisou	99	80	A	M
+5102	563595	1	2	480	1	Marie	Bürgerová	Mgr.		52	úřednice	Janov nad Nisou	721	721	A	F
+5102	563595	1	3	475	1	Daniel	David	Mgr.		47	starosta	Janov nad Nisou	703	703	A	M
+5102	563595	1	1	470	2	Jaroslav	Jansa			42	OSVČ	Hraničná	99	80	A	M
+5102	563595	1	2	480	2	Vendula	Pospíšilová			44	ředitelka Janovské o.p.s.	Janov nad Nisou	99	80	A	F
+5102	563595	1	3	475	2	Renata	Mádlová			48	zástupce pro školní jídelnu	Hraničná	99	80	A	F
+5102	563595	1	1	470	3	Kateřina	Šípalová	Mgr.		44	učitelka	Janov nad Nisou	99	80	A	F
+5102	563595	1	2	480	3	Ivo	Šorm	Mgr.		31	ředitel maloobchodní prodejny se sportovním zbožím	Hraničná	99	80	A	M
+5102	563595	1	3	475	3	Pavel	Kittel			57	podnikatel	Janov nad Nisou	99	80	A	M
+5102	563595	1	1	470	4	Pavel	Khail	Ing.		47	programátor	Janov nad Nisou	99	80	A	M
+5102	563595	1	2	480	4	Jiří	Louda	Ing.	Ph.D.	34	projekt. manažer a věd. prac. v obl. ŽP	Janov nad Nisou	99	80	A	M
+5102	563595	1	3	475	4	Michal	Surkov			45	elektromechanik	Janov nad Nisou	99	80	A	M
+5102	563595	1	1	470	5	Radek	Fejgl	MUDr.		43	lékař	Hraničná	99	80	A	M
+5102	563595	1	2	480	5	Pavla	Jurečková			35	manažerka cestovního ruchu	Janov nad Nisou	99	80	A	F
+5102	563595	1	3	475	5	Pavel	Pěnička			51	developer	Janov nad Nisou	99	80	A	M
+5102	563595	1	1	470	6	Martina	Šoutová			43	operátorka výroby	Janov nad Nisou	99	80	A	F
+5102	563595	1	2	480	6	Soňa	Beyblová	Ing.		39	vedoucí technologického oddělení	Janov nad Nisou	99	80	A	F
+5102	563595	1	3	475	6	Radek	Jelínek	Ing.		54	analytik	Loučná nad Nisou	99	80	A	M
+5102	563595	1	1	470	7	Milan	Krištof			44	vedoucí provozu	Hraničná	99	80	A	M
+5102	563595	1	2	480	7	Jana	Šnytrová	Ing.		65	důchodkyně	Janov nad Nisou	99	80	A	F
+5102	563595	1	3	475	7	Petra	Macháčková	Ing.		45	obchodní zástupce	Loučná nad Nisou	99	80	A	F
+5102	563595	1	1	470	8	Petra	Davidová	Mgr.		45	učitelka	Janov nad Nisou	99	80	A	F
+5102	563595	1	2	480	8	Vladimíra	Vaistauerová			38	pastorační asistentka	Loučná nad Nisou	99	80	A	F
+5102	563595	1	3	475	8	Radek	Nagy			44	státní zaměstnanec	Hraničná	99	80	A	M
+5102	563595	1	1	470	9	Jaroslav	Škoda			52	řidič autobusu	Janov nad Nisou	99	80	A	M
+5102	563595	1	2	480	9	Stanislav	Hladký			67	soukromý zemědělec	Janov nad Nisou	99	80	A	M
+5102	563595	1	3	475	9	Petr	Sodomka			37	živnostník	Loučná nad Nisou	99	80	A	M

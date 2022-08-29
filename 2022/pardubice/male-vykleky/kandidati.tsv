@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5302	572802	1	1	901	1	František	Hájek	M			52	OSVČ	Malé Výkleky	99	80	A
-5302	572802	1	1	901	2	Robert	Šebek	M			24	operátor dřevařské výroby	Malé Výkleky	99	80	A
-5302	572802	1	1	901	3	Tomáš	Frýd	M			36	automechanik	Malé Výkleky	99	80	A
-5302	572802	1	1	901	4	Martina	Frýdová	F			34	mateřská dovolená	Malé Výkleky	99	80	A
-5302	572802	1	1	901	5	Filip	Firbas	M			25	OSVČ	Malé Výkleky	99	80	A
-5302	572802	1	2	902	1	Martin	Bělský	M			46	OSVČ	Malé Výkleky	99	80	A
-5302	572802	1	2	902	2	Václav	Vaníček	M			66	důchodce	Malé Výkleky	99	80	A
-5302	572802	1	2	902	3	Tomáš	Vendler	M			38	technik	Malé Výkleky	99	80	A
-5302	572802	1	2	902	4	Jaroslava	Smolíková	F			37	obchodní zástupce	Malé Výkleky	99	80	A
-5302	572802	1	2	902	5	Ivana	Levínská	F			34	mateřská dovolená	Malé Výkleky	99	80	A
-5302	572802	1	2	902	6	Jana	Kirkup	F	Bc.		39	mateřská dovolená	Malé Výkleky	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5302	572802	1	1	901	1	František	Hájek			52	OSVČ	Malé Výkleky	99	80	A	M
+5302	572802	1	2	902	1	Martin	Bělský			46	OSVČ	Malé Výkleky	99	80	A	M
+5302	572802	1	1	901	2	Robert	Šebek			24	operátor dřevařské výroby	Malé Výkleky	99	80	A	M
+5302	572802	1	2	902	2	Václav	Vaníček			66	důchodce	Malé Výkleky	99	80	A	M
+5302	572802	1	1	901	3	Tomáš	Frýd			36	automechanik	Malé Výkleky	99	80	A	M
+5302	572802	1	2	902	3	Tomáš	Vendler			38	technik	Malé Výkleky	99	80	A	M
+5302	572802	1	1	901	4	Martina	Frýdová			34	mateřská dovolená	Malé Výkleky	99	80	A	F
+5302	572802	1	2	902	4	Jaroslava	Smolíková			37	obchodní zástupce	Malé Výkleky	99	80	A	F
+5302	572802	1	1	901	5	Filip	Firbas			25	OSVČ	Malé Výkleky	99	80	A	M
+5302	572802	1	2	902	5	Ivana	Levínská			34	mateřská dovolená	Malé Výkleky	99	80	A	F
+5302	572802	1	2	902	6	Jana	Kirkup	Bc.		39	mateřská dovolená	Malé Výkleky	99	80	A	F

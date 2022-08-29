@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3204	558303	1	1	721	1	Marie	Blažková	F			58	úřednice	Řenče	99	721	0
-3204	558303	1	1	721	2	Pavlína	Pytlíková	F	Ing.		37	úřednice	Vodokrty	99	721	0
-3204	558303	1	1	721	3	Zdeněk	Hraběta	M			48	technik	Libákovice	99	721	0
-3204	558303	1	1	721	4	Milan	Bohuš	M			59	úředník	Řenče	99	721	0
-3204	558303	1	1	721	5	Roman	Kalčík	M			41	řidič	Libákovice	99	721	0
-3204	558303	1	1	721	6	Ladislav	Mráz	M			29	jeřábník	Háje	99	721	0
-3204	558303	1	1	721	7	Petr	Kokoška	M			29	řidič	Háje	99	721	0
-3204	558303	1	1	721	8	Martina	Míšková	F	Mgr.		44	ředitelka KKC Přeštice	Vodokrty	99	721	0
-3204	558303	1	1	721	9	Pavel	Zeman	M			48	OSVČ	Řenče	99	721	0
-3204	558303	1	1	721	10	Luděk	Hajžman	M			43	řidič	Osek	99	721	0
-3204	558303	1	1	721	11	Miroslav	Kurej	M			45	kalič, jeřábník, vazač	Osek	99	721	0
-3204	558303	1	2	156	1	František	Pašek	M			36	dělník	Libákovice	156	156	0
-3204	558303	1	3	901	1	Miloslava	Loudová	F			55	starostka	Vodokrty	99	80	0
-3204	558303	1	3	901	2	Irena	Hrabětová	F			52	odborný referent	Libákovice	99	80	0
-3204	558303	1	3	901	3	Pavel	Fořt	M			48	vedoucí střediska	Řenče	99	80	0
-3204	558303	1	3	901	4	Jan	Šrámek	M	Ing.		36	softwarový analytik	Plevňov	99	80	0
-3204	558303	1	3	901	5	Václav	Hrubý	M			59	technik	Háje	99	80	0
-3204	558303	1	3	901	6	Iva	Baumruková	F	Mgr.		30	učitelka	Řenče	99	80	0
-3204	558303	1	3	901	7	Jullien	Herrero	M			31	podnikatel	Libákovice	99	80	0
-3204	558303	1	3	901	8	Josef	Dolanský	M			34	vedoucí střediska	Osek	99	80	0
-3204	558303	1	3	901	9	Luboš	Havlíček	M			51	elektrikář	Vodokrty	99	80	0
-3204	558303	1	3	901	10	Josef	Kastner	M			43	technik	Řenče	99	80	0
-3204	558303	1	3	901	11	Vladimíra	Přibáňová	F			52	kuchařka	Osek	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3204	558303	1	1	721	1	Marie	Blažková			58	úřednice	Řenče	99	721	0	F
+3204	558303	1	2	156	1	František	Pašek			36	dělník	Libákovice	156	156	0	M
+3204	558303	1	3	901	1	Miloslava	Loudová			55	starostka	Vodokrty	99	80	0	F
+3204	558303	1	1	721	2	Pavlína	Pytlíková	Ing.		37	úřednice	Vodokrty	99	721	0	F
+3204	558303	1	3	901	2	Irena	Hrabětová			52	odborný referent	Libákovice	99	80	0	F
+3204	558303	1	1	721	3	Zdeněk	Hraběta			48	technik	Libákovice	99	721	0	M
+3204	558303	1	3	901	3	Pavel	Fořt			48	vedoucí střediska	Řenče	99	80	0	M
+3204	558303	1	1	721	4	Milan	Bohuš			59	úředník	Řenče	99	721	0	M
+3204	558303	1	3	901	4	Jan	Šrámek	Ing.		36	softwarový analytik	Plevňov	99	80	0	M
+3204	558303	1	1	721	5	Roman	Kalčík			41	řidič	Libákovice	99	721	0	M
+3204	558303	1	3	901	5	Václav	Hrubý			59	technik	Háje	99	80	0	M
+3204	558303	1	1	721	6	Ladislav	Mráz			29	jeřábník	Háje	99	721	0	M
+3204	558303	1	3	901	6	Iva	Baumruková	Mgr.		30	učitelka	Řenče	99	80	0	F
+3204	558303	1	1	721	7	Petr	Kokoška			29	řidič	Háje	99	721	0	M
+3204	558303	1	3	901	7	Jullien	Herrero			31	podnikatel	Libákovice	99	80	0	M
+3204	558303	1	1	721	8	Martina	Míšková	Mgr.		44	ředitelka KKC Přeštice	Vodokrty	99	721	0	F
+3204	558303	1	3	901	8	Josef	Dolanský			34	vedoucí střediska	Osek	99	80	0	M
+3204	558303	1	1	721	9	Pavel	Zeman			48	OSVČ	Řenče	99	721	0	M
+3204	558303	1	3	901	9	Luboš	Havlíček			51	elektrikář	Vodokrty	99	80	0	M
+3204	558303	1	1	721	10	Luděk	Hajžman			43	řidič	Osek	99	721	0	M
+3204	558303	1	3	901	10	Josef	Kastner			43	technik	Řenče	99	80	0	M
+3204	558303	1	1	721	11	Miroslav	Kurej			45	kalič, jeřábník, vazač	Osek	99	721	0	M
+3204	558303	1	3	901	11	Vladimíra	Přibáňová			52	kuchařka	Osek	99	80	0	F

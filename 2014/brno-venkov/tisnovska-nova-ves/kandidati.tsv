@@ -1,9 +1,9 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	596892	1	1	803	1	Vladimír	Krézek	M			54	zedník	Tišnovská Nová Ves	99	80	0
-6203	596892	1	2	801	1	Jiří	Jakeš	M			38	podnikatel	Tišnovská Nová Ves	99	80	0
-6203	596892	1	3	802	1	Vladimír	Jakeš	M			37	řidič	Tišnovská Nová Ves	99	80	0
-6203	596892	1	4	804	1	Vladimír	Krézek	M	Ing.		28	IT specialista	Tišnovská Nová Ves	99	80	0
-6203	596892	1	5	805	1	Petra	Jakešová	F	Mgr.		28	odborný asistent na VŠ	Tišnovská Nová Ves	99	80	0
-6203	596892	1	6	1	1	Vladislav	Fic	M	Ing.		51	daňový poradce	Tišnovská Nová Ves	99	1	0
-6203	596892	1	6	1	2	Petr	Janda	M	Ing.		41	technik	Tišnovská Nová Ves	99	1	0
-6203	596892	1	6	1	3	Michaela	Ficová	F	MUDr.		45	lékařka	Tišnovská Nová Ves	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	596892	1	1	803	1	Vladimír	Krézek			54	zedník	Tišnovská Nová Ves	99	80	0	M
+6203	596892	1	2	801	1	Jiří	Jakeš			38	podnikatel	Tišnovská Nová Ves	99	80	0	M
+6203	596892	1	3	802	1	Vladimír	Jakeš			37	řidič	Tišnovská Nová Ves	99	80	0	M
+6203	596892	1	4	804	1	Vladimír	Krézek	Ing.		28	IT specialista	Tišnovská Nová Ves	99	80	0	M
+6203	596892	1	5	805	1	Petra	Jakešová	Mgr.		28	odborný asistent na VŠ	Tišnovská Nová Ves	99	80	0	F
+6203	596892	1	6	1	1	Vladislav	Fic	Ing.		51	daňový poradce	Tišnovská Nová Ves	99	1	0	M
+6203	596892	1	6	1	2	Petr	Janda	Ing.		41	technik	Tišnovská Nová Ves	99	1	0	M
+6203	596892	1	6	1	3	Michaela	Ficová	MUDr.		45	lékařka	Tišnovská Nová Ves	99	1	0	F

@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	555355	1	1	1	1	Karel	Neuwirth	M			48	nástrojář, programátor CNC strojů	Opava - Komárov	99	1	A
-8105	555355	1	1	1	2	Milan	Trulej	M	Mgr. Bc.	LL.M.	41	státní zaměstnanec	Opava - Komárov	99	1	A
-8105	555355	1	1	1	3	Lucie	Stříbná	F			40	farmaceutický operátor	Opava - Komárov	99	1	A
-8105	555355	1	1	1	4	Radim	Novák	M			52	mechanik	Opava - Komárov	99	1	A
-8105	555355	1	1	1	5	Petr	Matula	M	Mgr.		43	IT specialista	Opava - Komárov	99	1	A
-8105	555355	1	1	1	6	Pavel	Nanke	M			56	OSVČ	Opava - Komárov	99	1	A
-8105	555355	1	1	1	7	Milan	Pchálek	M			70	důchodce	Opava - Komárov	1	1	A
-8105	555355	1	1	1	8	Stanislav	Židek	M			58	pracovník v sociálních službách	Opava - Komárov	1	1	A
-8105	555355	1	1	1	9	Zuzana	Smolková	F			36	zapisovatelka Okresního soudu Opava	Opava - Komárov	99	1	A
-8105	555355	1	1	1	10	Anna	Tesárková	F			44	farmaceutický operátor	Opava - Komárov	99	1	A
-8105	555355	1	1	1	11	Václav	Adamec	M			72	důchodce	Opava - Komárov	1	1	A
-8105	555355	1	2	902	1	Jiří	Bittner	M	Ing.		35	logistik výroby	Komárov	99	80	A
-8105	555355	1	2	902	2	Michal	Kubesa	M	Ing.		36	grafik	Komárov	99	80	A
-8105	555355	1	2	902	3	Jaromír	Kartous	M	Ing.		64	důchodce	Komárov	99	80	A
-8105	555355	1	2	902	4	Radim	Dedek	M			42	OSVČ	Komárov	99	80	A
-8105	555355	1	2	902	5	David	Peterek	M			40	programátor	Komárov	99	80	A
-8105	555355	1	2	902	6	Lubomír	Hřivnáč	M	Ing.		59	OSVČ	Komárov	99	80	A
-8105	555355	1	2	902	7	Josef	Strnadel	M			61	strojní zámečník	Komárov	99	80	A
-8105	555355	1	2	902	8	Radka	Žůrková	F	MVDr.		35	rodičovská dovolená	Komárov	99	80	A
-8105	555355	1	2	902	9	Veronika	Měchová	F	Mgr.		31	rodičovská dovolená	Komárov	99	80	A
-8105	555355	1	2	902	10	Tomáš	Klein	M			34	zpracovatel dat	Komárov	99	80	A
-8105	555355	1	2	902	11	Tomáš	Měch	M	Ing.		34	ekonom	Komárov	99	80	A
-8105	555355	1	3	901	1	Lumír	Měch	M	Ing.		51	OSVČ - ekonom	Opava Komárov	1188	80	A
-8105	555355	1	3	901	2	Drahomíra	Kozárková	F	Ing.		58	ekonomka	Opava Komárov	99	80	A
-8105	555355	1	3	901	3	Eva	Murová	F	Bc.		55	zástupce ředitele ZŠ a MŠ Komárov	Opava Komárov	99	80	A
-8105	555355	1	3	901	4	Ludmila	Říčná	F			54	prodavačka	Opava Komárov	99	80	A
-8105	555355	1	3	901	5	Vladimír	Vicherek	M			52	hasič	Opava - Komárov	99	80	A
-8105	555355	1	3	901	6	Jiří	Kubesa	M			29	chemik operátor	Opava Komárov	99	80	A
-8105	555355	1	3	901	7	Tomáš	Divila	M			45	SW Engineer	Opava Komárov	99	80	A
-8105	555355	1	3	901	8	Vladimír	Vícha	M	Ing.		56	OSVČ	Opava Komárov	99	80	A
-8105	555355	1	3	901	9	Petr	Vítek	M			54	manažer	Opava Komárov	99	80	A
-8105	555355	1	3	901	10	Kamil	Adamčík	M	Ing.		45	vedoucí skladu	Opava Komárov	99	80	A
-8105	555355	1	3	901	11	Kamil	Kukelka	M			46	hasič	Opava Komárov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	555355	1	1	1	1	Karel	Neuwirth			48	nástrojář, programátor CNC strojů	Opava - Komárov	99	1	A	M
+8105	555355	1	2	902	1	Jiří	Bittner	Ing.		35	logistik výroby	Komárov	99	80	A	M
+8105	555355	1	3	901	1	Lumír	Měch	Ing.		51	OSVČ - ekonom	Opava Komárov	1188	80	A	M
+8105	555355	1	1	1	2	Milan	Trulej	Mgr. Bc.	LL.M.	41	státní zaměstnanec	Opava - Komárov	99	1	A	M
+8105	555355	1	2	902	2	Michal	Kubesa	Ing.		36	grafik	Komárov	99	80	A	M
+8105	555355	1	3	901	2	Drahomíra	Kozárková	Ing.		58	ekonomka	Opava Komárov	99	80	A	F
+8105	555355	1	1	1	3	Lucie	Stříbná			40	farmaceutický operátor	Opava - Komárov	99	1	A	F
+8105	555355	1	2	902	3	Jaromír	Kartous	Ing.		64	důchodce	Komárov	99	80	A	M
+8105	555355	1	3	901	3	Eva	Murová	Bc.		55	zástupce ředitele ZŠ a MŠ Komárov	Opava Komárov	99	80	A	F
+8105	555355	1	1	1	4	Radim	Novák			52	mechanik	Opava - Komárov	99	1	A	M
+8105	555355	1	2	902	4	Radim	Dedek			42	OSVČ	Komárov	99	80	A	M
+8105	555355	1	3	901	4	Ludmila	Říčná			54	prodavačka	Opava Komárov	99	80	A	F
+8105	555355	1	1	1	5	Petr	Matula	Mgr.		43	IT specialista	Opava - Komárov	99	1	A	M
+8105	555355	1	2	902	5	David	Peterek			40	programátor	Komárov	99	80	A	M
+8105	555355	1	3	901	5	Vladimír	Vicherek			52	hasič	Opava - Komárov	99	80	A	M
+8105	555355	1	1	1	6	Pavel	Nanke			56	OSVČ	Opava - Komárov	99	1	A	M
+8105	555355	1	2	902	6	Lubomír	Hřivnáč	Ing.		59	OSVČ	Komárov	99	80	A	M
+8105	555355	1	3	901	6	Jiří	Kubesa			29	chemik operátor	Opava Komárov	99	80	A	M
+8105	555355	1	1	1	7	Milan	Pchálek			70	důchodce	Opava - Komárov	1	1	A	M
+8105	555355	1	2	902	7	Josef	Strnadel			61	strojní zámečník	Komárov	99	80	A	M
+8105	555355	1	3	901	7	Tomáš	Divila			45	SW Engineer	Opava Komárov	99	80	A	M
+8105	555355	1	1	1	8	Stanislav	Židek			58	pracovník v sociálních službách	Opava - Komárov	1	1	A	M
+8105	555355	1	2	902	8	Radka	Žůrková	MVDr.		35	rodičovská dovolená	Komárov	99	80	A	F
+8105	555355	1	3	901	8	Vladimír	Vícha	Ing.		56	OSVČ	Opava Komárov	99	80	A	M
+8105	555355	1	1	1	9	Zuzana	Smolková			36	zapisovatelka Okresního soudu Opava	Opava - Komárov	99	1	A	F
+8105	555355	1	2	902	9	Veronika	Měchová	Mgr.		31	rodičovská dovolená	Komárov	99	80	A	F
+8105	555355	1	3	901	9	Petr	Vítek			54	manažer	Opava Komárov	99	80	A	M
+8105	555355	1	1	1	10	Anna	Tesárková			44	farmaceutický operátor	Opava - Komárov	99	1	A	F
+8105	555355	1	2	902	10	Tomáš	Klein			34	zpracovatel dat	Komárov	99	80	A	M
+8105	555355	1	3	901	10	Kamil	Adamčík	Ing.		45	vedoucí skladu	Opava Komárov	99	80	A	M
+8105	555355	1	1	1	11	Václav	Adamec			72	důchodce	Opava - Komárov	1	1	A	M
+8105	555355	1	2	902	11	Tomáš	Měch	Ing.		34	ekonom	Komárov	99	80	A	M
+8105	555355	1	3	901	11	Kamil	Kukelka			46	hasič	Opava Komárov	99	80	A	M

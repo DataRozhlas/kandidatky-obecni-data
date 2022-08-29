@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	569658	1	1	901	1	Jaromír	Fiedler	M	Ing.		52	IT obchodní manažer	Úsobí	99	80	A
-6101	569658	1	1	901	2	Petr	Klement	M			34	podnikatel, místostarosta	Úsobí	99	80	A
-6101	569658	1	1	901	3	Božena	Kučerová	F	Mgr.		52	učitelka ZŠ	Úsobí	99	80	A
-6101	569658	1	1	901	4	Tomáš	Pavel	M			35	profesionální hasič	Úsobí	99	80	A
-6101	569658	1	1	901	5	Karel	Šulc	M	Bc.		44	OSVČ - pedagogický pracovník	Chyška	99	80	A
-6101	569658	1	1	901	6	Michal	Geier	M			37	manažer pro klíčové zákazníky v pojišťovnictví	Úsobí	99	80	A
-6101	569658	1	1	901	7	Lukáš	Fiedler	M	Ing.		29	projektant ve stavebnictví	Úsobí	99	80	A
-6101	569658	1	1	901	8	Vít	Jelínek	M			35	technický pracovník obce	Úsobí	99	80	A
-6101	569658	1	1	901	9	Milena	Bílková	F			49	OSVČ - účetní	Úsobí	99	80	A
-6101	569658	1	1	901	10	Tomáš	Honzárek	M		DiS.	30	mistr ve společnosti M-Silnice	Úsobí	99	80	A
-6101	569658	1	1	901	11	Karel	Heřmánek	M	Ing.		65	technik	Úsobí	99	80	A
-6101	569658	1	2	902	1	Jan	Miksa	M			51	řidič	Úsobí	99	80	A
-6101	569658	1	2	902	2	Martina	Mininová	F			42	učitelka mateřské školy	Úsobí	99	80	A
-6101	569658	1	2	902	3	Pavel	Zábrodský	M			57	OSVČ, obchodní zástupce	Chyška	99	80	A
-6101	569658	1	2	902	4	Barbora	Schut	F			33	asistentka generálního reprezentanta	Úsobí	99	80	A
-6101	569658	1	2	902	5	Petr	Šorf	M			48	technolog	Úsobí	99	80	A
-6101	569658	1	2	902	6	Josef	Vácha	M			59	mistr	Úsobí	99	80	A
-6101	569658	1	2	902	7	Ilona	Hebersteinová	F	Ing.		49	účetní	Úsobí	99	80	A
-6101	569658	1	2	902	8	Zdeněk	Koubek	M			35	automechanik	Úsobí	99	80	A
-6101	569658	1	2	902	9	Irena	Váchová	F			47	zdravotní sestra	Úsobí	99	80	A
-6101	569658	1	2	902	10	Kamil	Jančovič	M			39	strojník bagru	Úsobí	99	80	A
-6101	569658	1	2	902	11	Rostislav	Havel	M	PhDr.		38	vedoucí oddělení rozvoje vzdělávání	Úsobí	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	569658	1	1	901	1	Jaromír	Fiedler	Ing.		52	IT obchodní manažer	Úsobí	99	80	A	M
+6101	569658	1	2	902	1	Jan	Miksa			51	řidič	Úsobí	99	80	A	M
+6101	569658	1	1	901	2	Petr	Klement			34	podnikatel, místostarosta	Úsobí	99	80	A	M
+6101	569658	1	2	902	2	Martina	Mininová			42	učitelka mateřské školy	Úsobí	99	80	A	F
+6101	569658	1	1	901	3	Božena	Kučerová	Mgr.		52	učitelka ZŠ	Úsobí	99	80	A	F
+6101	569658	1	2	902	3	Pavel	Zábrodský			57	OSVČ, obchodní zástupce	Chyška	99	80	A	M
+6101	569658	1	1	901	4	Tomáš	Pavel			35	profesionální hasič	Úsobí	99	80	A	M
+6101	569658	1	2	902	4	Barbora	Schut			33	asistentka generálního reprezentanta	Úsobí	99	80	A	F
+6101	569658	1	1	901	5	Karel	Šulc	Bc.		44	OSVČ - pedagogický pracovník	Chyška	99	80	A	M
+6101	569658	1	2	902	5	Petr	Šorf			48	technolog	Úsobí	99	80	A	M
+6101	569658	1	1	901	6	Michal	Geier			37	manažer pro klíčové zákazníky v pojišťovnictví	Úsobí	99	80	A	M
+6101	569658	1	2	902	6	Josef	Vácha			59	mistr	Úsobí	99	80	A	M
+6101	569658	1	1	901	7	Lukáš	Fiedler	Ing.		29	projektant ve stavebnictví	Úsobí	99	80	A	M
+6101	569658	1	2	902	7	Ilona	Hebersteinová	Ing.		49	účetní	Úsobí	99	80	A	F
+6101	569658	1	1	901	8	Vít	Jelínek			35	technický pracovník obce	Úsobí	99	80	A	M
+6101	569658	1	2	902	8	Zdeněk	Koubek			35	automechanik	Úsobí	99	80	A	M
+6101	569658	1	1	901	9	Milena	Bílková			49	OSVČ - účetní	Úsobí	99	80	A	F
+6101	569658	1	2	902	9	Irena	Váchová			47	zdravotní sestra	Úsobí	99	80	A	F
+6101	569658	1	1	901	10	Tomáš	Honzárek		DiS.	30	mistr ve společnosti M-Silnice	Úsobí	99	80	A	M
+6101	569658	1	2	902	10	Kamil	Jančovič			39	strojník bagru	Úsobí	99	80	A	M
+6101	569658	1	1	901	11	Karel	Heřmánek	Ing.		65	technik	Úsobí	99	80	A	M
+6101	569658	1	2	902	11	Rostislav	Havel	PhDr.		38	vedoucí oddělení rozvoje vzdělávání	Úsobí	99	80	A	M

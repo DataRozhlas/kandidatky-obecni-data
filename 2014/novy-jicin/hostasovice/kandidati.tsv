@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8104	568511	1	1	901	1	Kateřina	Dudová	F	Ing.		34	konzultantka v oblasti dotací	Hostašovice	99	80	0
-8104	568511	1	1	901	2	Marta	Riedlová	F			31	referentka obecního úřadu	Hostašovice	99	80	0
-8104	568511	1	1	901	3	Lukáš	Velart	M	Ing.		34	obchodní manažer	Hostašovice	99	80	0
-8104	568511	1	1	901	4	Petr	Vahalík	M			41	elektromontér	Hostašovice	99	80	0
-8104	568511	1	1	901	5	Šárka	Želinská	F			41	prodavačka	Hostašovice	99	80	0
-8104	568511	1	1	901	6	Zdeněk	Vilímek	M			55	stavbyvedoucí	Hostašovice	99	80	0
-8104	568511	1	1	901	7	Jiřina	Machelová	F			62	důchodkyně	Hostašovice	99	80	0
-8104	568511	1	1	901	8	Evžen	Pirek	M	MUDr.		70	důchodce	Hostašovice	99	80	0
-8104	568511	1	1	901	9	Jana	Horáková	F			61	důchodkyně	Hostašovice	99	80	0
-8104	568511	1	2	902	1	Zdeněk	Kelnar	M			46	starosta obce	Hostašovice	99	80	0
-8104	568511	1	2	902	2	Michal	Kotouč	M			39	OSVČ	Hostašovice	99	80	0
-8104	568511	1	2	902	3	Jaroslav	Štec	M			46	OSVČ	Hostašovice	99	80	0
-8104	568511	1	2	902	4	Václav	Šafář	M	Ing.		42	stavební inženýr	Hostašovice	99	80	0
-8104	568511	1	2	902	5	Pavla	Hasalíková	F			34	referent pojišťovny	Hostašovice	99	80	0
-8104	568511	1	2	902	6	Martin	Drda	M			40	vedoucí prodejny	Hostašovice	99	80	0
-8104	568511	1	2	902	7	Zdeněk	Petřkovský	M	JUDr.		62	ředitel družstva	Hostašovice	99	80	0
-8104	568511	1	2	902	8	Vratislav	Vytejček	M	Mgr.		38	metodik	Hostašovice	99	80	0
-8104	568511	1	2	902	9	Zuzana	Davidová	F			32	manažerka prodejny	Hostašovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8104	568511	1	1	901	1	Kateřina	Dudová	Ing.		34	konzultantka v oblasti dotací	Hostašovice	99	80	0	F
+8104	568511	1	2	902	1	Zdeněk	Kelnar			46	starosta obce	Hostašovice	99	80	0	M
+8104	568511	1	1	901	2	Marta	Riedlová			31	referentka obecního úřadu	Hostašovice	99	80	0	F
+8104	568511	1	2	902	2	Michal	Kotouč			39	OSVČ	Hostašovice	99	80	0	M
+8104	568511	1	1	901	3	Lukáš	Velart	Ing.		34	obchodní manažer	Hostašovice	99	80	0	M
+8104	568511	1	2	902	3	Jaroslav	Štec			46	OSVČ	Hostašovice	99	80	0	M
+8104	568511	1	1	901	4	Petr	Vahalík			41	elektromontér	Hostašovice	99	80	0	M
+8104	568511	1	2	902	4	Václav	Šafář	Ing.		42	stavební inženýr	Hostašovice	99	80	0	M
+8104	568511	1	1	901	5	Šárka	Želinská			41	prodavačka	Hostašovice	99	80	0	F
+8104	568511	1	2	902	5	Pavla	Hasalíková			34	referent pojišťovny	Hostašovice	99	80	0	F
+8104	568511	1	1	901	6	Zdeněk	Vilímek			55	stavbyvedoucí	Hostašovice	99	80	0	M
+8104	568511	1	2	902	6	Martin	Drda			40	vedoucí prodejny	Hostašovice	99	80	0	M
+8104	568511	1	1	901	7	Jiřina	Machelová			62	důchodkyně	Hostašovice	99	80	0	F
+8104	568511	1	2	902	7	Zdeněk	Petřkovský	JUDr.		62	ředitel družstva	Hostašovice	99	80	0	M
+8104	568511	1	1	901	8	Evžen	Pirek	MUDr.		70	důchodce	Hostašovice	99	80	0	M
+8104	568511	1	2	902	8	Vratislav	Vytejček	Mgr.		38	metodik	Hostašovice	99	80	0	M
+8104	568511	1	1	901	9	Jana	Horáková			61	důchodkyně	Hostašovice	99	80	0	F
+8104	568511	1	2	902	9	Zuzana	Davidová			32	manažerka prodejny	Hostašovice	99	80	0	F

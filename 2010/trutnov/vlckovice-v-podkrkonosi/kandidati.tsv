@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579831	1	1	470	1	Jindřich	Franc	M			63	důchodce	Vlčkovice v Podkrkonoší	99	166	0
-5205	579831	1	1	470	2	Jaroslav	Otava	M			64	důchodce	Vlčkovice v Podkrkonoší	99	80	0
-5205	579831	1	1	470	3	Karel	Možiš	M			63	podnikatel	Vlčkovice v Podkrkonoší	99	80	0
-5205	579831	1	1	470	4	Bohuslava	Volfová	F			29	administrativní pracovnice	Vlčkovice v Podkrkonoší	99	80	0
-5205	579831	1	1	470	5	Vladimír	Vitebský	M			46	dělník	Vlčkovice v Podkrkonoší	99	80	0
-5205	579831	1	1	470	6	Luděk	Novotný	M			63	důchodce	Vlčkovice v Podkrkonoší	99	80	0
-5205	579831	1	1	470	7	Otto	Roleček	M			51	dělník	Vlčkovice v Podkrkonoší	99	80	0
-5205	579831	1	2	901	1	Jaroslav	Smetana	M			36	dělník	Horní Vlčkovice	99	80	0
-5205	579831	1	2	901	2	Petr	Mertlík	M			38	invalidní důchodce	Horní Vlčkovice	99	80	0
-5205	579831	1	2	901	3	Pavel	Prokop	M			39	technik	Dolní Vlčkovice	99	80	0
-5205	579831	1	2	901	4	Josef	Petrásek	M			32	soukromě hospodařící zemědělec	Dolní Vlčkovice	99	80	0
-5205	579831	1	2	901	5	Lubomír	Schreiber	M			57	dělník	Horní Vlčkovice	99	80	0
-5205	579831	1	2	901	6	Jan	Roleček	M			31	podnikatel	Horní Vlčkovice	99	80	0
-5205	579831	1	2	901	7	Ivana	Hornychová	F			40	obsluha čerpací stanice	Dolní Vlčkovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579831	1	1	470	1	Jindřich	Franc			63	důchodce	Vlčkovice v Podkrkonoší	99	166	0	M
+5205	579831	1	2	901	1	Jaroslav	Smetana			36	dělník	Horní Vlčkovice	99	80	0	M
+5205	579831	1	1	470	2	Jaroslav	Otava			64	důchodce	Vlčkovice v Podkrkonoší	99	80	0	M
+5205	579831	1	2	901	2	Petr	Mertlík			38	invalidní důchodce	Horní Vlčkovice	99	80	0	M
+5205	579831	1	1	470	3	Karel	Možiš			63	podnikatel	Vlčkovice v Podkrkonoší	99	80	0	M
+5205	579831	1	2	901	3	Pavel	Prokop			39	technik	Dolní Vlčkovice	99	80	0	M
+5205	579831	1	1	470	4	Bohuslava	Volfová			29	administrativní pracovnice	Vlčkovice v Podkrkonoší	99	80	0	F
+5205	579831	1	2	901	4	Josef	Petrásek			32	soukromě hospodařící zemědělec	Dolní Vlčkovice	99	80	0	M
+5205	579831	1	1	470	5	Vladimír	Vitebský			46	dělník	Vlčkovice v Podkrkonoší	99	80	0	M
+5205	579831	1	2	901	5	Lubomír	Schreiber			57	dělník	Horní Vlčkovice	99	80	0	M
+5205	579831	1	1	470	6	Luděk	Novotný			63	důchodce	Vlčkovice v Podkrkonoší	99	80	0	M
+5205	579831	1	2	901	6	Jan	Roleček			31	podnikatel	Horní Vlčkovice	99	80	0	M
+5205	579831	1	1	470	7	Otto	Roleček			51	dělník	Vlčkovice v Podkrkonoší	99	80	0	M
+5205	579831	1	2	901	7	Ivana	Hornychová			40	obsluha čerpací stanice	Dolní Vlčkovice	99	80	0	F

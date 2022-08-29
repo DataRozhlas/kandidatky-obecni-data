@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3102	545724	1	1	901	1	Jiří	Štěpánek	M			47	starosta	Přídolí	99	80	0
-3102	545724	1	1	901	2	Josef	Sýkora	M			53	místostarosta	Přídolí	99	80	0
-3102	545724	1	1	901	3	Jiří	Vávra	M			53	podnikatel	Přídolí	99	80	0
-3102	545724	1	1	901	4	Zdeněk	Mráz	M			54	malíř-natěrač	Přídolí	99	80	0
-3102	545724	1	1	901	5	Dana	Hopfingerová	F	Mgr.		57	ředitelka ZŠ	Přídolí	99	80	0
-3102	545724	1	1	901	6	Jan	Vávra	M			30	podnikatel	Přídolí	99	80	0
-3102	545724	1	1	901	7	Roman	Cifreund	M			35	dělník	Přídolí	99	80	0
-3102	545724	1	1	901	8	Irena	Dadučová	F			42	kuchařka	Práčov	99	80	0
-3102	545724	1	1	901	9	Pavel	Mittasch	M			29	technik	Přídolí	99	80	0
-3102	545724	1	1	901	10	Vilém	Nikl	M			36	dělník	Práčov	99	80	0
-3102	545724	1	1	901	11	Jan	Písko	M			28	technik	Přídolí	99	80	0
-3102	545724	1	1	901	12	Ladislav	Sivák	M			43	dělník	Práčov	99	80	0
-3102	545724	1	1	901	13	Jaroslav	Brož	M			37	dělník	Přídolí	99	80	0
-3102	545724	1	1	901	14	Pavel	Mitro	M			47	řidič	Přídolí	99	80	0
-3102	545724	1	1	901	15	Josef	Písko	M			54	dělník	Přídolí	99	80	0
-3102	545724	1	2	902	1	Milan	Bohdal	M			45	dělník	Přídolí	99	80	0
-3102	545724	1	2	902	2	Zdeněk	Macek	M			33	příslušník HZS	Přídolí	99	80	0
-3102	545724	1	2	902	3	Vítězslav	Jílek	M			35	živnostník	Přídolí	99	80	0
-3102	545724	1	2	902	4	Oldřich	Matějíček	M			32	živnostník	Přídolí	99	80	0
-3102	545724	1	2	902	5	Martina	Kamerová	F			36	dělnice	Práčov	99	80	0
-3102	545724	1	2	902	6	Jaroslav	Vlasatý	M			44	stavební technik	Přídolí	99	80	0
-3102	545724	1	2	902	7	František	Jakeš	M			34	výrobní ředitel	Přídolí	99	80	0
-3102	545724	1	2	902	8	Jiří	Haniš	M	Ing.		30	podnikatel	Přídolí	99	80	0
-3102	545724	1	2	902	9	Jan	Valiczek	M			31	podnikatel	Přídolí	99	80	0
-3102	545724	1	2	902	10	Věra	Cábová	F			35	administrativní pracovnice	Přídolí	99	80	0
-3102	545724	1	2	902	11	Jana	Mondeková	F			36	pánská krejčová	Přídolí	99	80	0
-3102	545724	1	2	902	12	Petr	Gondek	M			36	dělník	Přídolí	99	80	0
-3102	545724	1	2	902	13	Milan	Zima	M			38	dělník	Přídolí	99	80	0
-3102	545724	1	2	902	14	Petr	Dobeš	M			29	logistik	Přídolí	99	80	0
-3102	545724	1	2	902	15	Jiří	Komárek	M			29	příslušník AČR	Přídolí	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3102	545724	1	1	901	1	Jiří	Štěpánek			47	starosta	Přídolí	99	80	0	M
+3102	545724	1	2	902	1	Milan	Bohdal			45	dělník	Přídolí	99	80	0	M
+3102	545724	1	1	901	2	Josef	Sýkora			53	místostarosta	Přídolí	99	80	0	M
+3102	545724	1	2	902	2	Zdeněk	Macek			33	příslušník HZS	Přídolí	99	80	0	M
+3102	545724	1	1	901	3	Jiří	Vávra			53	podnikatel	Přídolí	99	80	0	M
+3102	545724	1	2	902	3	Vítězslav	Jílek			35	živnostník	Přídolí	99	80	0	M
+3102	545724	1	1	901	4	Zdeněk	Mráz			54	malíř-natěrač	Přídolí	99	80	0	M
+3102	545724	1	2	902	4	Oldřich	Matějíček			32	živnostník	Přídolí	99	80	0	M
+3102	545724	1	1	901	5	Dana	Hopfingerová	Mgr.		57	ředitelka ZŠ	Přídolí	99	80	0	F
+3102	545724	1	2	902	5	Martina	Kamerová			36	dělnice	Práčov	99	80	0	F
+3102	545724	1	1	901	6	Jan	Vávra			30	podnikatel	Přídolí	99	80	0	M
+3102	545724	1	2	902	6	Jaroslav	Vlasatý			44	stavební technik	Přídolí	99	80	0	M
+3102	545724	1	1	901	7	Roman	Cifreund			35	dělník	Přídolí	99	80	0	M
+3102	545724	1	2	902	7	František	Jakeš			34	výrobní ředitel	Přídolí	99	80	0	M
+3102	545724	1	1	901	8	Irena	Dadučová			42	kuchařka	Práčov	99	80	0	F
+3102	545724	1	2	902	8	Jiří	Haniš	Ing.		30	podnikatel	Přídolí	99	80	0	M
+3102	545724	1	1	901	9	Pavel	Mittasch			29	technik	Přídolí	99	80	0	M
+3102	545724	1	2	902	9	Jan	Valiczek			31	podnikatel	Přídolí	99	80	0	M
+3102	545724	1	1	901	10	Vilém	Nikl			36	dělník	Práčov	99	80	0	M
+3102	545724	1	2	902	10	Věra	Cábová			35	administrativní pracovnice	Přídolí	99	80	0	F
+3102	545724	1	1	901	11	Jan	Písko			28	technik	Přídolí	99	80	0	M
+3102	545724	1	2	902	11	Jana	Mondeková			36	pánská krejčová	Přídolí	99	80	0	F
+3102	545724	1	1	901	12	Ladislav	Sivák			43	dělník	Práčov	99	80	0	M
+3102	545724	1	2	902	12	Petr	Gondek			36	dělník	Přídolí	99	80	0	M
+3102	545724	1	1	901	13	Jaroslav	Brož			37	dělník	Přídolí	99	80	0	M
+3102	545724	1	2	902	13	Milan	Zima			38	dělník	Přídolí	99	80	0	M
+3102	545724	1	1	901	14	Pavel	Mitro			47	řidič	Přídolí	99	80	0	M
+3102	545724	1	2	902	14	Petr	Dobeš			29	logistik	Přídolí	99	80	0	M
+3102	545724	1	1	901	15	Josef	Písko			54	dělník	Přídolí	99	80	0	M
+3102	545724	1	2	902	15	Jiří	Komárek			29	příslušník AČR	Přídolí	99	80	0	M

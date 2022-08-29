@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	539848	1	1	901	1	Dana	Ullwerová	F	Mgr.		67	starostka obce	Vrané nad Vltavou	99	80	A
-2110	539848	1	1	901	2	David	Balling	M			29	referent	Vrané nad Vltavou	99	80	A
-2110	539848	1	1	901	3	Jiří	Krafta	M			62	spolumajitel stavební firmy	Vrané nad Vltavou	99	80	A
-2110	539848	1	1	901	4	Václav	Havlíček	M	Mgr.		59	technik	Vrané nad Vltavou	99	80	A
-2110	539848	1	1	901	5	Ivana	Rážová	F			63	ředitelka mateřské školy	Vrané nad Vltavou	99	80	A
-2110	539848	1	1	901	6	Jiřina	Vašinová	F	Ing.		48	ekonomka	Vrané nad Vltavou	99	80	A
-2110	539848	1	1	901	7	David	Blažek	M			41	profesionální hasič	Vrané nad Vltavou	99	80	A
-2110	539848	1	1	901	8	Jan	Kořínek	M	Ing.	ACCA	32	projektový manažer	Vrané nad Vltavou	99	80	A
-2110	539848	1	1	901	9	Viktor	Janauer	M	Ing.		57	ředitel společnosti	Vrané nad Vltavou	99	80	A
-2110	539848	1	1	901	10	Jana	Nováková	F	Mgr.	MBA	64	náměstkyně FNM	Vrané nad Vltavou	99	80	A
-2110	539848	1	1	901	11	Stanislav	Drábek	M	JUDr.		63	advokát	Vrané nad Vltavou	99	80	A
-2110	539848	1	1	901	12	Bedřich	Kyndl	M	Bc.		28	student VŠ	Vrané nad Vltavou	99	80	A
-2110	539848	1	1	901	13	Barbora	Jahodová	F			50	učitelka mateřské školy	Vrané nad Vltavou	99	80	A
-2110	539848	1	1	901	14	Michaela	Šlocarová	F			28	mateřská dovolená	Vrané nad Vltavou	99	80	A
-2110	539848	1	1	901	15	Eva	Havlíčková	F			71	fyzioterapeutka	Vrané nad Vltavou	99	80	A
-2110	539848	1	2	902	1	Petr	Janeček	M			40	tajemník úřadu městské části Praha-Zbraslav	Vrané nad Vltavou	99	80	A
-2110	539848	1	2	902	2	Jana	Kadlecová	F	Mgr.		39	učitelka ZŠ Vrané nad Vltavou	Vrané nad Vltavou	99	80	A
-2110	539848	1	2	902	3	Jan	Kukla	M	Ing.		39	pilot dopravního letadla	Vrané nad Vltavou	99	80	A
-2110	539848	1	2	902	4	Dagmar	Selicharová	F	Ing.		47	inženýrka pozemních staveb s autorizací	Vrané nad Vltavou	99	80	A
-2110	539848	1	2	902	5	Erik	Löffler	M	Ing.		39	obchodní manažer pro klíčové zákazníky	Vrané nad Vltavou	99	80	A
-2110	539848	1	2	902	6	Jana	Neumanová	F	Mgr.		45	učitelka ZŠ Vrané nad Vltavou, ředitelka neziskové organizace	Vrané nad Vltavou	99	80	A
-2110	539848	1	2	902	7	Pavel	Filip	M			58	soukromý podnikatel, předseda spolku Stará škola, z.s.	Vrané nad Vltavou	99	80	A
-2110	539848	1	2	902	8	Lenka	Rubenstein	F	PhDr.		65	překladatelka/výtvarnice	Vrané nad Vltavou	99	80	A
-2110	539848	1	2	902	9	Jan	Brchel	M	Ing.		39	úvěrový analytik	Vrané nad Vltavou	99	80	A
-2110	539848	1	2	902	10	Lenka	Lodrová	F			40	asistentka pedagoga ZŠ Vrané nad Vltavou	Vrané nad Vltavou	99	80	A
-2110	539848	1	2	902	11	Viktor	Brabec	M	Ing.		43	inženýr pozemních staveb s autorizací	Vrané nad Vltavou	99	80	A
-2110	539848	1	2	902	12	Jaroslava	Havlíčková	F	Mgr.		40	fyzioterapeutka	Vrané nad Vltavou	99	80	A
-2110	539848	1	2	902	13	Jaroslav	Tejnický	M			69	senior, starosta T. J. Sokol Vrané nad Vltavou I.	Vrané nad Vltavou	99	80	A
-2110	539848	1	2	902	14	Miroslava	Elšíková	F			67	seniorka	Vrané nad Vltavou	99	80	A
-2110	539848	1	2	902	15	Anna	Lupienská	F	Ing.		57	finanční manažerka	Vrané nad Vltavou	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	539848	1	1	901	1	Dana	Ullwerová	Mgr.		67	starostka obce	Vrané nad Vltavou	99	80	A	F
+2110	539848	1	2	902	1	Petr	Janeček			40	tajemník úřadu městské části Praha-Zbraslav	Vrané nad Vltavou	99	80	A	M
+2110	539848	1	1	901	2	David	Balling			29	referent	Vrané nad Vltavou	99	80	A	M
+2110	539848	1	2	902	2	Jana	Kadlecová	Mgr.		39	učitelka ZŠ Vrané nad Vltavou	Vrané nad Vltavou	99	80	A	F
+2110	539848	1	1	901	3	Jiří	Krafta			62	spolumajitel stavební firmy	Vrané nad Vltavou	99	80	A	M
+2110	539848	1	2	902	3	Jan	Kukla	Ing.		39	pilot dopravního letadla	Vrané nad Vltavou	99	80	A	M
+2110	539848	1	1	901	4	Václav	Havlíček	Mgr.		59	technik	Vrané nad Vltavou	99	80	A	M
+2110	539848	1	2	902	4	Dagmar	Selicharová	Ing.		47	inženýrka pozemních staveb s autorizací	Vrané nad Vltavou	99	80	A	F
+2110	539848	1	1	901	5	Ivana	Rážová			63	ředitelka mateřské školy	Vrané nad Vltavou	99	80	A	F
+2110	539848	1	2	902	5	Erik	Löffler	Ing.		39	obchodní manažer pro klíčové zákazníky	Vrané nad Vltavou	99	80	A	M
+2110	539848	1	1	901	6	Jiřina	Vašinová	Ing.		48	ekonomka	Vrané nad Vltavou	99	80	A	F
+2110	539848	1	2	902	6	Jana	Neumanová	Mgr.		45	učitelka ZŠ Vrané nad Vltavou, ředitelka neziskové organizace	Vrané nad Vltavou	99	80	A	F
+2110	539848	1	1	901	7	David	Blažek			41	profesionální hasič	Vrané nad Vltavou	99	80	A	M
+2110	539848	1	2	902	7	Pavel	Filip			58	soukromý podnikatel, předseda spolku Stará škola, z.s.	Vrané nad Vltavou	99	80	A	M
+2110	539848	1	1	901	8	Jan	Kořínek	Ing.	ACCA	32	projektový manažer	Vrané nad Vltavou	99	80	A	M
+2110	539848	1	2	902	8	Lenka	Rubenstein	PhDr.		65	překladatelka/výtvarnice	Vrané nad Vltavou	99	80	A	F
+2110	539848	1	1	901	9	Viktor	Janauer	Ing.		57	ředitel společnosti	Vrané nad Vltavou	99	80	A	M
+2110	539848	1	2	902	9	Jan	Brchel	Ing.		39	úvěrový analytik	Vrané nad Vltavou	99	80	A	M
+2110	539848	1	1	901	10	Jana	Nováková	Mgr.	MBA	64	náměstkyně FNM	Vrané nad Vltavou	99	80	A	F
+2110	539848	1	2	902	10	Lenka	Lodrová			40	asistentka pedagoga ZŠ Vrané nad Vltavou	Vrané nad Vltavou	99	80	A	F
+2110	539848	1	1	901	11	Stanislav	Drábek	JUDr.		63	advokát	Vrané nad Vltavou	99	80	A	M
+2110	539848	1	2	902	11	Viktor	Brabec	Ing.		43	inženýr pozemních staveb s autorizací	Vrané nad Vltavou	99	80	A	M
+2110	539848	1	1	901	12	Bedřich	Kyndl	Bc.		28	student VŠ	Vrané nad Vltavou	99	80	A	M
+2110	539848	1	2	902	12	Jaroslava	Havlíčková	Mgr.		40	fyzioterapeutka	Vrané nad Vltavou	99	80	A	F
+2110	539848	1	1	901	13	Barbora	Jahodová			50	učitelka mateřské školy	Vrané nad Vltavou	99	80	A	F
+2110	539848	1	2	902	13	Jaroslav	Tejnický			69	senior, starosta T. J. Sokol Vrané nad Vltavou I.	Vrané nad Vltavou	99	80	A	M
+2110	539848	1	1	901	14	Michaela	Šlocarová			28	mateřská dovolená	Vrané nad Vltavou	99	80	A	F
+2110	539848	1	2	902	14	Miroslava	Elšíková			67	seniorka	Vrané nad Vltavou	99	80	A	F
+2110	539848	1	1	901	15	Eva	Havlíčková			71	fyzioterapeutka	Vrané nad Vltavou	99	80	A	F
+2110	539848	1	2	902	15	Anna	Lupienská	Ing.		57	finanční manažerka	Vrané nad Vltavou	99	80	A	F

@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5204	576191	1	1	901	1	Josef	Bezdíček	M			59	starosta obce	Malá Čermná	99	80	0
-5204	576191	1	1	901	2	David	Joska	M	Mgr.		31	učitel	Malá Čermná	99	80	0
-5204	576191	1	1	901	3	Lenka	Andrlíková	F			47	pokladní	Malá Čermná	99	80	0
-5204	576191	1	1	901	4	Rudolf	Rous	M			42	technik	Číčová	99	80	0
-5204	576191	1	1	901	5	Zdeněk	Hemelík	M			31	elekrikář	Velká Čermná	99	80	0
-5204	576191	1	1	901	6	Ladislav	Novák	M			59	dělník	Velká Čermná	99	80	0
-5204	576191	1	1	901	7	Pavel	Rak	M			38	technik	Malá Čermná	99	80	0
-5204	576191	1	1	901	8	Zdeněk	Tupec	M			55	dělník	Malá Čermná	99	80	0
-5204	576191	1	1	901	9	Jakub	Kuchař	M			21	student	Malá Čermná	99	80	0
-5204	576191	1	1	901	10	Jaroslava	Sejkorová	F	Bc.		34	speciální pedagog	Velká Čermná	99	80	0
-5204	576191	1	1	901	11	Martin	Joska	M			24	soukromý podnikatel	Malá Čermná	99	80	0
-5204	576191	1	1	901	12	Roman	David	M			41	stavební technik	Malá Čermná	99	80	0
-5204	576191	1	1	901	13	Ondřej	Sitka	M			21	učitel	Malá Čermná	99	80	0
-5204	576191	1	1	901	14	Jaroslava	Bouchnerová	F	Mgr.		55	učitelka	Korunka	99	80	0
-5204	576191	1	1	901	15	Jindřich	Synek	M			34	dělník	Velká Čermná	99	80	0
-5204	576191	1	2	47	1	Zdeněk	Loufek	M			27	podnikatel	Velká Čermná	99	47	0
-5204	576191	1	2	47	2	Jana	Schneiderová	F			46	školnice	Velká Čermná	99	47	0
-5204	576191	1	2	47	3	Jaroslav	Provazník	M			27	podnikatel	Malá Čermná	99	47	0
-5204	576191	1	2	47	4	Roman	Kosinka	M			29	podnikatel	Velká Čermná	99	47	0
-5204	576191	1	2	47	5	Pavel	Michajlow	M			37	systémový specialista	Velká Čermná	99	47	0
-5204	576191	1	2	47	6	Jan	Kosinka	M			32	pracovník sociálních služeb	Malá Čermná	99	47	0
-5204	576191	1	2	47	7	Magdalena	Čepková	F			59	důchodce	Malá Čermná	99	47	0
-5204	576191	1	2	47	8	Zbyněk	Bednařík	M			50	údržbář	Velká Čermná	99	47	0
-5204	576191	1	2	47	9	František	Doležal	M			58	dělník	Velká Čermná	47	47	0
-5204	576191	1	2	47	10	Karel	Adamec	M			62	důchodce	Velká Čermná	47	47	0
-5204	576191	1	2	47	11	Jiří	Hloušek	M	Ing.		76	důchodce	Malá Čermná	47	47	0
-5204	576191	1	2	47	12	Bohuslav	Zevel	M	Ing.		75	důchodce	Velká Čermná	99	47	0
-5204	576191	1	2	47	13	Bohuslav	Matějka	M			60	výpravčí	Malá Čermná	47	47	0
-5204	576191	1	2	47	14	Hana	Nyčová	F			66	důchodce	Malá Čermná	99	47	0
-5204	576191	1	2	47	15	Dušan	Longauer	M			72	důchodce	Čičová	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5204	576191	1	1	901	1	Josef	Bezdíček			59	starosta obce	Malá Čermná	99	80	0	M
+5204	576191	1	2	47	1	Zdeněk	Loufek			27	podnikatel	Velká Čermná	99	47	0	M
+5204	576191	1	1	901	2	David	Joska	Mgr.		31	učitel	Malá Čermná	99	80	0	M
+5204	576191	1	2	47	2	Jana	Schneiderová			46	školnice	Velká Čermná	99	47	0	F
+5204	576191	1	1	901	3	Lenka	Andrlíková			47	pokladní	Malá Čermná	99	80	0	F
+5204	576191	1	2	47	3	Jaroslav	Provazník			27	podnikatel	Malá Čermná	99	47	0	M
+5204	576191	1	1	901	4	Rudolf	Rous			42	technik	Číčová	99	80	0	M
+5204	576191	1	2	47	4	Roman	Kosinka			29	podnikatel	Velká Čermná	99	47	0	M
+5204	576191	1	1	901	5	Zdeněk	Hemelík			31	elekrikář	Velká Čermná	99	80	0	M
+5204	576191	1	2	47	5	Pavel	Michajlow			37	systémový specialista	Velká Čermná	99	47	0	M
+5204	576191	1	1	901	6	Ladislav	Novák			59	dělník	Velká Čermná	99	80	0	M
+5204	576191	1	2	47	6	Jan	Kosinka			32	pracovník sociálních služeb	Malá Čermná	99	47	0	M
+5204	576191	1	1	901	7	Pavel	Rak			38	technik	Malá Čermná	99	80	0	M
+5204	576191	1	2	47	7	Magdalena	Čepková			59	důchodce	Malá Čermná	99	47	0	F
+5204	576191	1	1	901	8	Zdeněk	Tupec			55	dělník	Malá Čermná	99	80	0	M
+5204	576191	1	2	47	8	Zbyněk	Bednařík			50	údržbář	Velká Čermná	99	47	0	M
+5204	576191	1	1	901	9	Jakub	Kuchař			21	student	Malá Čermná	99	80	0	M
+5204	576191	1	2	47	9	František	Doležal			58	dělník	Velká Čermná	47	47	0	M
+5204	576191	1	1	901	10	Jaroslava	Sejkorová	Bc.		34	speciální pedagog	Velká Čermná	99	80	0	F
+5204	576191	1	2	47	10	Karel	Adamec			62	důchodce	Velká Čermná	47	47	0	M
+5204	576191	1	1	901	11	Martin	Joska			24	soukromý podnikatel	Malá Čermná	99	80	0	M
+5204	576191	1	2	47	11	Jiří	Hloušek	Ing.		76	důchodce	Malá Čermná	47	47	0	M
+5204	576191	1	1	901	12	Roman	David			41	stavební technik	Malá Čermná	99	80	0	M
+5204	576191	1	2	47	12	Bohuslav	Zevel	Ing.		75	důchodce	Velká Čermná	99	47	0	M
+5204	576191	1	1	901	13	Ondřej	Sitka			21	učitel	Malá Čermná	99	80	0	M
+5204	576191	1	2	47	13	Bohuslav	Matějka			60	výpravčí	Malá Čermná	47	47	0	M
+5204	576191	1	1	901	14	Jaroslava	Bouchnerová	Mgr.		55	učitelka	Korunka	99	80	0	F
+5204	576191	1	2	47	14	Hana	Nyčová			66	důchodce	Malá Čermná	99	47	0	F
+5204	576191	1	1	901	15	Jindřich	Synek			34	dělník	Velká Čermná	99	80	0	M
+5204	576191	1	2	47	15	Dušan	Longauer			72	důchodce	Čičová	47	47	0	M

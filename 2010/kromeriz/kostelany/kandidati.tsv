@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7201	588521	1	1	902	1	Jana	Nešporová	F	Mgr.		63	důchodkyně	Kostelany	99	80	0
-7201	588521	1	1	902	2	Oldřich	Kubíček	M			48	strojvedoucí	Újezdsko	99	80	0
-7201	588521	1	1	902	3	Josef	Císař	M	Ing.		59	úředník	Kostelany	99	80	0
-7201	588521	1	1	902	4	Helena	Bednaříková	F			54	nezaměstnaná	Kostelany	99	80	0
-7201	588521	1	1	902	5	Veronika	Holanová	F			25	obchodní zástupce	Kostelany	99	80	0
-7201	588521	1	1	902	6	Antonín	Chytil	M			25	opravář zem.strojů	Lhotka	99	80	0
-7201	588521	1	1	902	7	Dušan	Galatík	M			44	soukromý podnikatel	Újezdsko	99	80	0
-7201	588521	1	2	901	1	Jan	Petřík	M			53	starosta	Kostelany	99	80	0
-7201	588521	1	2	901	2	Miroslav	Daněk	M			40	servisní technik	Kostelany	99	80	0
-7201	588521	1	2	901	3	Pavel	Dvořáček	M	Ing.		38	ekonom	Kostelany	99	80	0
-7201	588521	1	2	901	4	Jaroslav	Mrhálek	M	Ing.		46	technik-elektro	Kostelany	99	80	0
-7201	588521	1	2	901	5	Roman	Měrka	M			42	automechanik	Lhotka	99	80	0
-7201	588521	1	2	901	6	Ladislav	Javořík	M			42	technik-Barum	Újezdsko	99	80	0
-7201	588521	1	2	901	7	Ivo	Česnek	M			45	invalidní důchodce	Kostelany	99	80	0
-7201	588521	1	2	901	8	Marie	Sedláčková	F			58	podnikatelka	Kostelany	99	80	0
-7201	588521	1	2	901	9	Martina	Konečná	F			36	os.asistentka-soc.péče	Kostelany	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7201	588521	1	1	902	1	Jana	Nešporová	Mgr.		63	důchodkyně	Kostelany	99	80	0	F
+7201	588521	1	2	901	1	Jan	Petřík			53	starosta	Kostelany	99	80	0	M
+7201	588521	1	1	902	2	Oldřich	Kubíček			48	strojvedoucí	Újezdsko	99	80	0	M
+7201	588521	1	2	901	2	Miroslav	Daněk			40	servisní technik	Kostelany	99	80	0	M
+7201	588521	1	1	902	3	Josef	Císař	Ing.		59	úředník	Kostelany	99	80	0	M
+7201	588521	1	2	901	3	Pavel	Dvořáček	Ing.		38	ekonom	Kostelany	99	80	0	M
+7201	588521	1	1	902	4	Helena	Bednaříková			54	nezaměstnaná	Kostelany	99	80	0	F
+7201	588521	1	2	901	4	Jaroslav	Mrhálek	Ing.		46	technik-elektro	Kostelany	99	80	0	M
+7201	588521	1	1	902	5	Veronika	Holanová			25	obchodní zástupce	Kostelany	99	80	0	F
+7201	588521	1	2	901	5	Roman	Měrka			42	automechanik	Lhotka	99	80	0	M
+7201	588521	1	1	902	6	Antonín	Chytil			25	opravář zem.strojů	Lhotka	99	80	0	M
+7201	588521	1	2	901	6	Ladislav	Javořík			42	technik-Barum	Újezdsko	99	80	0	M
+7201	588521	1	1	902	7	Dušan	Galatík			44	soukromý podnikatel	Újezdsko	99	80	0	M
+7201	588521	1	2	901	7	Ivo	Česnek			45	invalidní důchodce	Kostelany	99	80	0	M
+7201	588521	1	2	901	8	Marie	Sedláčková			58	podnikatelka	Kostelany	99	80	0	F
+7201	588521	1	2	901	9	Martina	Konečná			36	os.asistentka-soc.péče	Kostelany	99	80	0	F

@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4204	566349	1	1	7	1	Marek	Polažinec	M			41	pracovník ve službách	Libčeves	7	7	A
-4204	566349	1	1	7	2	Renata	Fraňová	F			46	operátor	Libčeves	7	7	A
-4204	566349	1	1	7	3	Margareta	Marková	F			63	důchodce	Hořenec	7	7	A
-4204	566349	1	1	7	4	Jitka	Marková	F			28	sekretářka	Hořenec	7	7	A
-4204	566349	1	1	7	5	Miroslava	Richtrová	F			60	důchodce	Hnojnice	7	7	A
-4204	566349	1	1	7	6	Jitka	Polažincová	F			28	prodavačka	Hnojnice	7	7	A
-4204	566349	1	1	7	7	Miloslav	Ikráth	M			60	důchodce	Mnichov	7	7	A
-4204	566349	1	1	7	8	Martina	Hrzánová	F			31	operátor	Hnojnice	7	7	A
-4204	566349	1	1	7	9	Kateřina	Johanisová	F			26	studentka	Hořenec	7	7	A
-4204	566349	1	2	901	1	Ivo	Sedlák	M	Ing.		52	pracovník v sociálních službách	Libčeves	99	80	A
-4204	566349	1	2	901	2	František	Dědič	M	Ing.		53	mistr provozu	Libčeves	99	80	A
-4204	566349	1	2	901	3	Lukáš	Hodan	M			30	projektový inženýr	Libčeves	47	80	A
-4204	566349	1	2	901	4	Josef	Bečvář	M			51	řidič - údržbář	Libčeves	99	80	A
-4204	566349	1	2	901	5	Andrea	Lodeová	F			28	provozní	Libčeves	99	80	A
-4204	566349	1	2	901	6	Přemysl	Klíma	M			70	důchodce	Libčeves	99	80	A
-4204	566349	1	2	901	7	Milan	Valenta	M			47	technik	Libčeves	99	80	A
-4204	566349	1	2	901	8	Lucie	Andrašková	F			36	ekonomka	Jablonec	99	80	A
-4204	566349	1	2	901	9	Radek	Novotný	M			49	hasič	Libčeves	99	80	A
-4204	566349	1	3	902	1	Tomáš	Ekrt	M			49	starosta, hasič	Libčeves	99	80	A
-4204	566349	1	3	902	2	Jiří	Bečvář	M			42	živnostník	Libčeves	99	80	A
-4204	566349	1	3	902	3	Jiří	Rudl	M			50	údržbář	Libčeves	99	80	A
-4204	566349	1	3	902	4	Václav	Křivan	M			72	důchodce	Charvatce	99	80	A
-4204	566349	1	3	902	5	Jaroslav	Lode	M			61	řidič	Libčeves	99	80	A
-4204	566349	1	3	902	6	Zdeněk	Sáček	M			34	technik	Libčeves	99	80	A
-4204	566349	1	3	902	7	Michal	Matouš	M			26	živnostník	Libčeves	99	80	A
-4204	566349	1	3	902	8	Blanka	Procházková	F			61	důchodce	Libčeves	99	80	A
-4204	566349	1	3	902	9	Monika	Guthová	F			43	OSVČ	Libčeves	99	80	A
-4204	566349	1	4	903	1	Vladimír	Záborec	M	Ing.		62	soukromý podnikatel	Libčeves	99	80	A
-4204	566349	1	4	903	2	Petr	Lavička	M			59	soukromý podnikatel	Libčeves	99	80	A
-4204	566349	1	4	903	3	Ondřej	Pospíšil	M			39	soukromý podnikatel	Židovice	99	80	A
-4204	566349	1	4	903	4	Helena	Slavíková	F	Ing.		66	soukromý podnikatel	Libčeves	99	80	A
-4204	566349	1	4	903	5	Miroslava	Záborcová	F			33	ekonomka	Libčeves	99	80	A
-4204	566349	1	4	903	6	Eva	Turková	F			71	důchodkyně	Libčeves	99	80	A
-4204	566349	1	4	903	7	Bohumil	Minařík	M			52	soukromý podnikatel	Libčeves	99	80	A
-4204	566349	1	4	903	8	Hynek	Burian	M			35	operátor	Libčeves	99	80	A
-4204	566349	1	4	903	9	Zdeněk	Kaplan	M			48	operátor	Řisuty	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4204	566349	1	1	7	1	Marek	Polažinec			41	pracovník ve službách	Libčeves	7	7	A	M
+4204	566349	1	2	901	1	Ivo	Sedlák	Ing.		52	pracovník v sociálních službách	Libčeves	99	80	A	M
+4204	566349	1	3	902	1	Tomáš	Ekrt			49	starosta, hasič	Libčeves	99	80	A	M
+4204	566349	1	4	903	1	Vladimír	Záborec	Ing.		62	soukromý podnikatel	Libčeves	99	80	A	M
+4204	566349	1	1	7	2	Renata	Fraňová			46	operátor	Libčeves	7	7	A	F
+4204	566349	1	2	901	2	František	Dědič	Ing.		53	mistr provozu	Libčeves	99	80	A	M
+4204	566349	1	3	902	2	Jiří	Bečvář			42	živnostník	Libčeves	99	80	A	M
+4204	566349	1	4	903	2	Petr	Lavička			59	soukromý podnikatel	Libčeves	99	80	A	M
+4204	566349	1	1	7	3	Margareta	Marková			63	důchodce	Hořenec	7	7	A	F
+4204	566349	1	2	901	3	Lukáš	Hodan			30	projektový inženýr	Libčeves	47	80	A	M
+4204	566349	1	3	902	3	Jiří	Rudl			50	údržbář	Libčeves	99	80	A	M
+4204	566349	1	4	903	3	Ondřej	Pospíšil			39	soukromý podnikatel	Židovice	99	80	A	M
+4204	566349	1	1	7	4	Jitka	Marková			28	sekretářka	Hořenec	7	7	A	F
+4204	566349	1	2	901	4	Josef	Bečvář			51	řidič - údržbář	Libčeves	99	80	A	M
+4204	566349	1	3	902	4	Václav	Křivan			72	důchodce	Charvatce	99	80	A	M
+4204	566349	1	4	903	4	Helena	Slavíková	Ing.		66	soukromý podnikatel	Libčeves	99	80	A	F
+4204	566349	1	1	7	5	Miroslava	Richtrová			60	důchodce	Hnojnice	7	7	A	F
+4204	566349	1	2	901	5	Andrea	Lodeová			28	provozní	Libčeves	99	80	A	F
+4204	566349	1	3	902	5	Jaroslav	Lode			61	řidič	Libčeves	99	80	A	M
+4204	566349	1	4	903	5	Miroslava	Záborcová			33	ekonomka	Libčeves	99	80	A	F
+4204	566349	1	1	7	6	Jitka	Polažincová			28	prodavačka	Hnojnice	7	7	A	F
+4204	566349	1	2	901	6	Přemysl	Klíma			70	důchodce	Libčeves	99	80	A	M
+4204	566349	1	3	902	6	Zdeněk	Sáček			34	technik	Libčeves	99	80	A	M
+4204	566349	1	4	903	6	Eva	Turková			71	důchodkyně	Libčeves	99	80	A	F
+4204	566349	1	1	7	7	Miloslav	Ikráth			60	důchodce	Mnichov	7	7	A	M
+4204	566349	1	2	901	7	Milan	Valenta			47	technik	Libčeves	99	80	A	M
+4204	566349	1	3	902	7	Michal	Matouš			26	živnostník	Libčeves	99	80	A	M
+4204	566349	1	4	903	7	Bohumil	Minařík			52	soukromý podnikatel	Libčeves	99	80	A	M
+4204	566349	1	1	7	8	Martina	Hrzánová			31	operátor	Hnojnice	7	7	A	F
+4204	566349	1	2	901	8	Lucie	Andrašková			36	ekonomka	Jablonec	99	80	A	F
+4204	566349	1	3	902	8	Blanka	Procházková			61	důchodce	Libčeves	99	80	A	F
+4204	566349	1	4	903	8	Hynek	Burian			35	operátor	Libčeves	99	80	A	M
+4204	566349	1	1	7	9	Kateřina	Johanisová			26	studentka	Hořenec	7	7	A	F
+4204	566349	1	2	901	9	Radek	Novotný			49	hasič	Libčeves	99	80	A	M
+4204	566349	1	3	902	9	Monika	Guthová			43	OSVČ	Libčeves	99	80	A	F
+4204	566349	1	4	903	9	Zdeněk	Kaplan			48	operátor	Řisuty	99	80	A	M

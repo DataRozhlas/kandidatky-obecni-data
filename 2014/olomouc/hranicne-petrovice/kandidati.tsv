@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	546976	1	1	801	1	Pavla	Kubíčková	F			33	ekonomka	Hraničné Petrovice	99	80	0
-7102	546976	1	2	803	1	Antonín	Palůch, ml.	M			50	invalidní důchodce	Hraničné Petrovice	99	80	0
-7102	546976	1	3	804	1	Lenka	Palůchová	F			26	referent zaměstnanosti	Hraničné Petrovice	99	80	0
-7102	546976	1	4	470	1	Drahomír	Havlík	M			61	zootechnik	Hraničné Petrovice	99	166	0
-7102	546976	1	4	470	2	Zdeněk	Mikš	M			61	agrotechnik	Hraničné Petrovice	99	166	0
-7102	546976	1	4	470	3	Jan	Bábek	M			36	živnostník	Hraničné Petrovice	99	80	0
-7102	546976	1	4	470	4	Dana	Procházková	F			61	důchodce	Hraničné Petrovice	1	80	0
-7102	546976	1	4	470	5	Zuzana	Hodsdon	F			38	zdravotní sestra	Hraničné Petrovice	99	80	0
-7102	546976	1	4	470	6	Květoslav	Schmidt	M			58	živnostník	Hraničné Petrovice	99	80	0
-7102	546976	1	4	470	7	Magda	Bábková Hrochová	F			37	botanik	Hraničné Petrovice	99	80	0
-7102	546976	1	4	470	8	Vladimír	Procházka	M			67	důchodce	Hraničné Petrovice	1	80	0
-7102	546976	1	4	470	9	Marcela	Mikšová	F			32	vedoucí provozu	Hraničné Petrovice	99	80	0
-7102	546976	1	5	805	1	Josef	Chrastina	M			45	řidič	Hraničné Petrovice	99	80	0
-7102	546976	1	6	802	1	Josef	Kouřil	M			36	OSVČ	Hraničné Petrovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	546976	1	1	801	1	Pavla	Kubíčková			33	ekonomka	Hraničné Petrovice	99	80	0	F
+7102	546976	1	2	803	1	Antonín	Palůch, ml.			50	invalidní důchodce	Hraničné Petrovice	99	80	0	M
+7102	546976	1	3	804	1	Lenka	Palůchová			26	referent zaměstnanosti	Hraničné Petrovice	99	80	0	F
+7102	546976	1	4	470	1	Drahomír	Havlík			61	zootechnik	Hraničné Petrovice	99	166	0	M
+7102	546976	1	5	805	1	Josef	Chrastina			45	řidič	Hraničné Petrovice	99	80	0	M
+7102	546976	1	6	802	1	Josef	Kouřil			36	OSVČ	Hraničné Petrovice	99	80	0	M
+7102	546976	1	4	470	2	Zdeněk	Mikš			61	agrotechnik	Hraničné Petrovice	99	166	0	M
+7102	546976	1	4	470	3	Jan	Bábek			36	živnostník	Hraničné Petrovice	99	80	0	M
+7102	546976	1	4	470	4	Dana	Procházková			61	důchodce	Hraničné Petrovice	1	80	0	F
+7102	546976	1	4	470	5	Zuzana	Hodsdon			38	zdravotní sestra	Hraničné Petrovice	99	80	0	F
+7102	546976	1	4	470	6	Květoslav	Schmidt			58	živnostník	Hraničné Petrovice	99	80	0	M
+7102	546976	1	4	470	7	Magda	Bábková Hrochová			37	botanik	Hraničné Petrovice	99	80	0	F
+7102	546976	1	4	470	8	Vladimír	Procházka			67	důchodce	Hraničné Petrovice	1	80	0	M
+7102	546976	1	4	470	9	Marcela	Mikšová			32	vedoucí provozu	Hraničné Petrovice	99	80	0	F

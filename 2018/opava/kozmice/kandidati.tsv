@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	547182	1	1	1	1	Petr	Kozák	M	Ing.		56	starosta	Kozmice	1	1	A
-8105	547182	1	1	1	2	Rita	Malcharková	F			50	dělnice	Kozmice	1	1	A
-8105	547182	1	1	1	3	Fredy	Hilbert	M			51	zámečník	Kozmice	99	1	A
-8105	547182	1	1	1	4	Jiří	Fojtík	M	Ing.		39	ekonom	Kozmice	99	1	A
-8105	547182	1	1	1	5	Jan	Janík	M			54	strojní zámečník	Kozmice	99	1	A
-8105	547182	1	1	1	6	Robert	Osmančík	M			39	jednatel firmy	Kozmice	1	1	A
-8105	547182	1	1	1	7	Silvie	Horejsková	F			39	asistentka výroby	Kozmice	99	1	A
-8105	547182	1	1	1	8	Petr	Dziehel	M			47	OSVČ-elektro	Kozmice	99	1	A
-8105	547182	1	1	1	9	Lukáš	Hanslik	M			47	zámečník	Kozmice	99	1	A
-8105	547182	1	1	1	10	Martin	Kroulík	M	Bc.		43	hasič	Kozmice	99	1	A
-8105	547182	1	1	1	11	Miroslav	Bialas	M			44	soustružník CNC strojů	Kozmice	99	1	A
-8105	547182	1	1	1	12	Jan	Vrchovecký	M			70	důchodce	Kozmice	99	1	A
-8105	547182	1	1	1	13	Marcela	Pchálková	F			41	analytička	Kozmice	1	1	A
-8105	547182	1	1	1	14	Martin	Radošovský	M			30	mistr	Kozmice	99	1	A
-8105	547182	1	1	1	15	Renata	Birteková	F			58	péče o osobu blízkou	Kozmice	1	1	A
-8105	547182	1	2	7	1	Jiří	Rošík	M			56	manažer	Kozmice	7	7	A
-8105	547182	1	2	7	2	Lumír	Sněhota	M		DiS.	41	technik	Kozmice	99	7	A
-8105	547182	1	2	7	3	Tomáš	Gai	M			50	stolař	Kozmice	7	7	A
-8105	547182	1	2	7	4	Patrik	Tichý	M			34	automechanik	Kozmice	99	7	A
-8105	547182	1	2	7	5	Jiří	Hanslik	M			26	student	Kozmice	99	7	A
-8105	547182	1	2	7	6	Leo	Tichý	M			59	karosář	Kozmice	7	7	A
-8105	547182	1	2	7	7	Karel	Dombek	M			34	konstruktér	Kozmice	99	7	A
-8105	547182	1	2	7	8	Lucie	Mazánková	F	Mgr.		36	učitelka	Kozmice	99	7	A
-8105	547182	1	2	7	9	Karel	Gorný	M			58	elektromontér	Kozmice	99	7	A
-8105	547182	1	2	7	10	Petr	Ircing	M			41	VP-ČR	Kozmice	99	7	A
-8105	547182	1	2	7	11	Kamil	Dihel	M	Ing.		27	manažer jakosti	Kozmice	99	7	A
-8105	547182	1	2	7	12	Ivo	Stříbný	M			37	ITE	Kozmice	99	7	A
-8105	547182	1	2	7	13	Jan	Karčmář	M	Ing.		64	místostarosta	Kozmice	7	7	A
-8105	547182	1	2	7	14	Iveta	Jaglařová	F			37	podnikatelka	Kozmice	99	7	A
-8105	547182	1	2	7	15	Lucie	Frick	F			25	studentka	Kozmice	99	7	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	547182	1	1	1	1	Petr	Kozák	Ing.		56	starosta	Kozmice	1	1	A	M
+8105	547182	1	2	7	1	Jiří	Rošík			56	manažer	Kozmice	7	7	A	M
+8105	547182	1	1	1	2	Rita	Malcharková			50	dělnice	Kozmice	1	1	A	F
+8105	547182	1	2	7	2	Lumír	Sněhota		DiS.	41	technik	Kozmice	99	7	A	M
+8105	547182	1	1	1	3	Fredy	Hilbert			51	zámečník	Kozmice	99	1	A	M
+8105	547182	1	2	7	3	Tomáš	Gai			50	stolař	Kozmice	7	7	A	M
+8105	547182	1	1	1	4	Jiří	Fojtík	Ing.		39	ekonom	Kozmice	99	1	A	M
+8105	547182	1	2	7	4	Patrik	Tichý			34	automechanik	Kozmice	99	7	A	M
+8105	547182	1	1	1	5	Jan	Janík			54	strojní zámečník	Kozmice	99	1	A	M
+8105	547182	1	2	7	5	Jiří	Hanslik			26	student	Kozmice	99	7	A	M
+8105	547182	1	1	1	6	Robert	Osmančík			39	jednatel firmy	Kozmice	1	1	A	M
+8105	547182	1	2	7	6	Leo	Tichý			59	karosář	Kozmice	7	7	A	M
+8105	547182	1	1	1	7	Silvie	Horejsková			39	asistentka výroby	Kozmice	99	1	A	F
+8105	547182	1	2	7	7	Karel	Dombek			34	konstruktér	Kozmice	99	7	A	M
+8105	547182	1	1	1	8	Petr	Dziehel			47	OSVČ-elektro	Kozmice	99	1	A	M
+8105	547182	1	2	7	8	Lucie	Mazánková	Mgr.		36	učitelka	Kozmice	99	7	A	F
+8105	547182	1	1	1	9	Lukáš	Hanslik			47	zámečník	Kozmice	99	1	A	M
+8105	547182	1	2	7	9	Karel	Gorný			58	elektromontér	Kozmice	99	7	A	M
+8105	547182	1	1	1	10	Martin	Kroulík	Bc.		43	hasič	Kozmice	99	1	A	M
+8105	547182	1	2	7	10	Petr	Ircing			41	VP-ČR	Kozmice	99	7	A	M
+8105	547182	1	1	1	11	Miroslav	Bialas			44	soustružník CNC strojů	Kozmice	99	1	A	M
+8105	547182	1	2	7	11	Kamil	Dihel	Ing.		27	manažer jakosti	Kozmice	99	7	A	M
+8105	547182	1	1	1	12	Jan	Vrchovecký			70	důchodce	Kozmice	99	1	A	M
+8105	547182	1	2	7	12	Ivo	Stříbný			37	ITE	Kozmice	99	7	A	M
+8105	547182	1	1	1	13	Marcela	Pchálková			41	analytička	Kozmice	1	1	A	F
+8105	547182	1	2	7	13	Jan	Karčmář	Ing.		64	místostarosta	Kozmice	7	7	A	M
+8105	547182	1	1	1	14	Martin	Radošovský			30	mistr	Kozmice	99	1	A	M
+8105	547182	1	2	7	14	Iveta	Jaglařová			37	podnikatelka	Kozmice	99	7	A	F
+8105	547182	1	1	1	15	Renata	Birteková			58	péče o osobu blízkou	Kozmice	1	1	A	F
+8105	547182	1	2	7	15	Lucie	Frick			25	studentka	Kozmice	99	7	A	F

@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2107	566047	1	1	901	1	Jaroslav	Kamínek	M			50	hasič	Košátky	99	80	A
-2107	566047	1	1	901	2	Jiří	Vodička	M			57	technik	Košátky	99	80	A
-2107	566047	1	1	901	3	Markéta	Dubinová	F	Bc.		46	referent	Košátky	99	80	A
-2107	566047	1	1	901	4	Miroslav	Chovanec	M	Ing.		68	ekonom	Košátky	99	80	A
-2107	566047	1	1	901	5	Karel	Salač	M			69	důchodce	Košátky	99	80	A
-2107	566047	1	1	901	6	Naděžda	Vodičková	F	Ing.		54	finanční hospodářka	Košátky	99	80	A
-2107	566047	1	1	901	7	Jitka	Velichová	F	Mgr.		49	vedoucí domácí péče	Košátky	99	80	A
-2107	566047	1	2	903	1	Pavel	Červený	M			38	team leader	Košátky	99	80	A
-2107	566047	1	2	903	2	Leoš	Jelínek	M			62	důchodce	Košátky	99	80	A
-2107	566047	1	2	903	3	Lenka	Vostruhová	F			44	vedoucí výroby	Košátky	99	80	A
-2107	566047	1	2	903	4	Daniel	Otruba	M			44	řidič vzv	Košátky	99	80	A
-2107	566047	1	2	903	5	Anna	Železná	F			39	výrobní dělník	Košátky	99	80	A
-2107	566047	1	2	903	6	Klára	Jakubcová	F			20	mateřská dovolená	Košátky	99	80	A
-2107	566047	1	2	903	7	Martin Jiří	Hrdlička	M			21	student	Košátky	99	80	A
-2107	566047	1	3	904	1	Michal	Kahule	M			43	operátor ve výrobě	Košátky	99	80	A
-2107	566047	1	3	904	2	Tomáš	Horáček	M			66	důchodce	Košátky	99	80	A
-2107	566047	1	3	904	3	František	Pokorný	M			67	důchodce	Košátky	99	80	A
-2107	566047	1	3	904	4	Karel	Salač	M			44	operátor ve výrobě	Košátky	99	80	A
-2107	566047	1	3	904	5	Vladimír	Dubina	M			50	řidič	Košátky	99	80	A
-2107	566047	1	3	904	6	Zdeňka	Skuhrová	F			70	důchodce	Košátky	99	80	A
-2107	566047	1	3	904	7	Miloslava	Benešová	F			65	důchodce	Košátky	99	80	A
-2107	566047	1	4	902	1	Pavel	Kuchař	M			40	technolog	Košátky	99	80	A
-2107	566047	1	4	902	2	Vladimíra	Nováková	F			48	finanční poradce	Košátky	99	80	A
-2107	566047	1	4	902	3	Jitka	Jelínková	F	Bc.		63	zdravotní sestra	Košátky	99	80	A
-2107	566047	1	4	902	4	Zdeňka	Vodičková	F			47	příprava výroby	Košátky	99	80	A
-2107	566047	1	4	902	5	Jiří	Čejka	M			44	vedoucí výroby	Košátky	99	80	A
-2107	566047	1	4	902	6	Petr	Svoboda	M			36	skladník	Košátky	99	80	A
-2107	566047	1	4	902	7	František	Červený	M			72	důchodce	Košátky	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2107	566047	1	1	901	1	Jaroslav	Kamínek			50	hasič	Košátky	99	80	A	M
+2107	566047	1	2	903	1	Pavel	Červený			38	team leader	Košátky	99	80	A	M
+2107	566047	1	3	904	1	Michal	Kahule			43	operátor ve výrobě	Košátky	99	80	A	M
+2107	566047	1	4	902	1	Pavel	Kuchař			40	technolog	Košátky	99	80	A	M
+2107	566047	1	1	901	2	Jiří	Vodička			57	technik	Košátky	99	80	A	M
+2107	566047	1	2	903	2	Leoš	Jelínek			62	důchodce	Košátky	99	80	A	M
+2107	566047	1	3	904	2	Tomáš	Horáček			66	důchodce	Košátky	99	80	A	M
+2107	566047	1	4	902	2	Vladimíra	Nováková			48	finanční poradce	Košátky	99	80	A	F
+2107	566047	1	1	901	3	Markéta	Dubinová	Bc.		46	referent	Košátky	99	80	A	F
+2107	566047	1	2	903	3	Lenka	Vostruhová			44	vedoucí výroby	Košátky	99	80	A	F
+2107	566047	1	3	904	3	František	Pokorný			67	důchodce	Košátky	99	80	A	M
+2107	566047	1	4	902	3	Jitka	Jelínková	Bc.		63	zdravotní sestra	Košátky	99	80	A	F
+2107	566047	1	1	901	4	Miroslav	Chovanec	Ing.		68	ekonom	Košátky	99	80	A	M
+2107	566047	1	2	903	4	Daniel	Otruba			44	řidič vzv	Košátky	99	80	A	M
+2107	566047	1	3	904	4	Karel	Salač			44	operátor ve výrobě	Košátky	99	80	A	M
+2107	566047	1	4	902	4	Zdeňka	Vodičková			47	příprava výroby	Košátky	99	80	A	F
+2107	566047	1	1	901	5	Karel	Salač			69	důchodce	Košátky	99	80	A	M
+2107	566047	1	2	903	5	Anna	Železná			39	výrobní dělník	Košátky	99	80	A	F
+2107	566047	1	3	904	5	Vladimír	Dubina			50	řidič	Košátky	99	80	A	M
+2107	566047	1	4	902	5	Jiří	Čejka			44	vedoucí výroby	Košátky	99	80	A	M
+2107	566047	1	1	901	6	Naděžda	Vodičková	Ing.		54	finanční hospodářka	Košátky	99	80	A	F
+2107	566047	1	2	903	6	Klára	Jakubcová			20	mateřská dovolená	Košátky	99	80	A	F
+2107	566047	1	3	904	6	Zdeňka	Skuhrová			70	důchodce	Košátky	99	80	A	F
+2107	566047	1	4	902	6	Petr	Svoboda			36	skladník	Košátky	99	80	A	M
+2107	566047	1	1	901	7	Jitka	Velichová	Mgr.		49	vedoucí domácí péče	Košátky	99	80	A	F
+2107	566047	1	2	903	7	Martin Jiří	Hrdlička			21	student	Košátky	99	80	A	M
+2107	566047	1	3	904	7	Miloslava	Benešová			65	důchodce	Košátky	99	80	A	F
+2107	566047	1	4	902	7	František	Červený			72	důchodce	Košátky	99	80	A	M

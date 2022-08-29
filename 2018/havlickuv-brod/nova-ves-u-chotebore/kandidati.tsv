@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	569160	1	1	901	1	Andrea	Culková	F			37	mateřská dovolená	Nový Dvůr	99	80	A
-6101	569160	1	1	901	2	Miroslav	Doležán	M			47	zaměstnanec OÚ	Nová Ves u Chotěboře	99	80	A
-6101	569160	1	1	901	3	Jana	Marková	F			36	prodavačka	Nová Ves u Chotěboře	99	80	A
-6101	569160	1	1	901	4	Jiří	Karlík	M			59	OSVČ	Nová Ves u Chotěboře	99	80	A
-6101	569160	1	1	901	5	Martin	Kolář	M			26	řidič	Nová Ves u Chotěboře	99	80	A
-6101	569160	1	1	901	6	Petr	Čapek	M			50	soustružník	Nová Ves u Chotěboře	99	80	A
-6101	569160	1	1	901	7	Jana	Málková	F			42	asistent pedagoga	Nová Ves u Chotěboře	99	80	A
-6101	569160	1	1	901	8	Jiří	Jindra	M			55	elektrotechnik	Nová Ves u Chotěboře	99	80	A
-6101	569160	1	1	901	9	Pavel	Kolář	M			55	údržbář	Nová Ves u Chotěboře	99	80	A
-6101	569160	1	2	7	1	Miloš	Uchytil	M	Ing.		54	starosta obce	Nová Ves u Chotěboře	7	7	A
-6101	569160	1	2	7	2	Jaromír	Filip	M	Ing.	CSc.	66	důchodce	Nová Ves u Chotěboře	99	7	A
-6101	569160	1	2	7	3	Václav	Marek	M	Ing. arch.		53	projektant - architekt	Nová Ves u Chotěboře	99	7	A
-6101	569160	1	2	7	4	Roman	Sadílek	M	Ing.		45	předseda ZD	Nová Ves u Chotěboře	99	7	A
-6101	569160	1	2	7	5	Ludvík	Čermák	M			46	mistr	Nová Ves u Chotěboře	7	7	A
-6101	569160	1	2	7	6	Jiří	Málek	M			46	technik	Nová Ves u Chotěboře	99	7	A
-6101	569160	1	2	7	7	Kamil	Škaryd	M			46	vedoucí obchodního úseku	Nová Ves u Chotěboře	99	7	A
-6101	569160	1	2	7	8	Petr	Kadleček	M			45	obráběč kovů	Nová Ves u Chotěboře	99	7	A
-6101	569160	1	2	7	9	Monika	Čermáková	F			44	administrativní pracovník	Nová Ves u Chotěboře	7	7	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	569160	1	1	901	1	Andrea	Culková			37	mateřská dovolená	Nový Dvůr	99	80	A	F
+6101	569160	1	2	7	1	Miloš	Uchytil	Ing.		54	starosta obce	Nová Ves u Chotěboře	7	7	A	M
+6101	569160	1	1	901	2	Miroslav	Doležán			47	zaměstnanec OÚ	Nová Ves u Chotěboře	99	80	A	M
+6101	569160	1	2	7	2	Jaromír	Filip	Ing.	CSc.	66	důchodce	Nová Ves u Chotěboře	99	7	A	M
+6101	569160	1	1	901	3	Jana	Marková			36	prodavačka	Nová Ves u Chotěboře	99	80	A	F
+6101	569160	1	2	7	3	Václav	Marek	Ing. arch.		53	projektant - architekt	Nová Ves u Chotěboře	99	7	A	M
+6101	569160	1	1	901	4	Jiří	Karlík			59	OSVČ	Nová Ves u Chotěboře	99	80	A	M
+6101	569160	1	2	7	4	Roman	Sadílek	Ing.		45	předseda ZD	Nová Ves u Chotěboře	99	7	A	M
+6101	569160	1	1	901	5	Martin	Kolář			26	řidič	Nová Ves u Chotěboře	99	80	A	M
+6101	569160	1	2	7	5	Ludvík	Čermák			46	mistr	Nová Ves u Chotěboře	7	7	A	M
+6101	569160	1	1	901	6	Petr	Čapek			50	soustružník	Nová Ves u Chotěboře	99	80	A	M
+6101	569160	1	2	7	6	Jiří	Málek			46	technik	Nová Ves u Chotěboře	99	7	A	M
+6101	569160	1	1	901	7	Jana	Málková			42	asistent pedagoga	Nová Ves u Chotěboře	99	80	A	F
+6101	569160	1	2	7	7	Kamil	Škaryd			46	vedoucí obchodního úseku	Nová Ves u Chotěboře	99	7	A	M
+6101	569160	1	1	901	8	Jiří	Jindra			55	elektrotechnik	Nová Ves u Chotěboře	99	80	A	M
+6101	569160	1	2	7	8	Petr	Kadleček			45	obráběč kovů	Nová Ves u Chotěboře	99	7	A	M
+6101	569160	1	1	901	9	Pavel	Kolář			55	údržbář	Nová Ves u Chotěboře	99	80	A	M
+6101	569160	1	2	7	9	Monika	Čermáková			44	administrativní pracovník	Nová Ves u Chotěboře	7	7	A	F

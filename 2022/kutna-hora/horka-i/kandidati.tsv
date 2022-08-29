@@ -1,9 +1,9 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2105	531430	1	1	801	1	Lukáš	Homola	M			43	voják z povolání	Horka I	99	80	A
-2105	531430	1	2	901	1	Jiří	Doubek	M	Ing.		51	systémový inženýr	Horka I	99	80	A
-2105	531430	1	2	901	2	Petr	Loužil	M			50	technik	Svobodná Ves	99	80	A
-2105	531430	1	2	901	3	Soňa	Lejhancová	F	Mgr.		43	státní zaměstnanec	Svobodná Ves	99	80	A
-2105	531430	1	2	901	4	Marcela	Perclová	F			43	admin.pracovnice	Horka I	99	80	A
-2105	531430	1	2	901	5	Jakub	Musílek	M			36	podnikatel	Horka I	99	80	A
-2105	531430	1	2	901	6	Zdeněk	Bíža	M			63	podnikatel	Horka I	99	80	A
-2105	531430	1	2	901	7	Miloš	Musílek	M			52	podnikatel	Svobodná Ves	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2105	531430	1	1	801	1	Lukáš	Homola			43	voják z povolání	Horka I	99	80	A	M
+2105	531430	1	2	901	1	Jiří	Doubek	Ing.		51	systémový inženýr	Horka I	99	80	A	M
+2105	531430	1	2	901	2	Petr	Loužil			50	technik	Svobodná Ves	99	80	A	M
+2105	531430	1	2	901	3	Soňa	Lejhancová	Mgr.		43	státní zaměstnanec	Svobodná Ves	99	80	A	F
+2105	531430	1	2	901	4	Marcela	Perclová			43	admin.pracovnice	Horka I	99	80	A	F
+2105	531430	1	2	901	5	Jakub	Musílek			36	podnikatel	Horka I	99	80	A	M
+2105	531430	1	2	901	6	Zdeněk	Bíža			63	podnikatel	Horka I	99	80	A	M
+2105	531430	1	2	901	7	Miloš	Musílek			52	podnikatel	Svobodná Ves	99	80	A	M

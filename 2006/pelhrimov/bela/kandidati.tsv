@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6103	561126	1	1	901	1	Josef	Kukla	M			44	signalista ČD	Bělá	99	80	0
-6103	561126	1	1	901	2	Patrick	Markes	M			33	dělník	Bělá	99	80	1
-6103	561126	1	1	901	3	Jaroslav	Štěpán	M			63	důchodce	Bělá	99	80	0
-6103	561126	1	1	901	4	Hana	Valková	F			47	v domácnosti	Bělá	99	80	0
-6103	561126	1	2	902	1	Miroslav	Koch	M			29	dělník	Bělá	99	80	0
-6103	561126	1	2	902	2	Dana	Lišková	F			34	prodavačka	Bělá	99	80	0
-6103	561126	1	2	902	3	Zdeněk	Martínek	M			38	dělník	Bělá	99	80	0
-6103	561126	1	2	902	4	Vladimír	Strnad	M			43	klempíř	Bělá	99	80	0
-6103	561126	1	2	902	5	Stanislav	Valek	M			47	dělník	Bělá	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6103	561126	1	1	901	1	Josef	Kukla			44	signalista ČD	Bělá	99	80	0	M
+6103	561126	1	2	902	1	Miroslav	Koch			29	dělník	Bělá	99	80	0	M
+6103	561126	1	1	901	2	Patrick	Markes			33	dělník	Bělá	99	80	1	M
+6103	561126	1	2	902	2	Dana	Lišková			34	prodavačka	Bělá	99	80	0	F
+6103	561126	1	1	901	3	Jaroslav	Štěpán			63	důchodce	Bělá	99	80	0	M
+6103	561126	1	2	902	3	Zdeněk	Martínek			38	dělník	Bělá	99	80	0	M
+6103	561126	1	1	901	4	Hana	Valková			47	v domácnosti	Bělá	99	80	0	F
+6103	561126	1	2	902	4	Vladimír	Strnad			43	klempíř	Bělá	99	80	0	M
+6103	561126	1	2	902	5	Stanislav	Valek			47	dělník	Bělá	99	80	0	M

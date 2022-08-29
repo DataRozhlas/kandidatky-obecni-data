@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	578118	1	1	1	1	Jan	Buben	M			45	dělník	Chotovice	1	1	0
-5303	578118	1	1	1	2	Petr	Vích	M			31	strojní mechanik	Chotovice	99	1	0
-5303	578118	1	1	1	3	Dagmar	Nováková	F			42	rozpočtářka	Chotovice	99	1	0
-5303	578118	1	1	1	4	Pavel	Boštík	M	Ing.		43	Key Account Manager	Chotovice	99	1	0
-5303	578118	1	1	1	5	Karel	Vopařil	M			45	automechanik	Chotovice	99	1	0
-5303	578118	1	1	1	6	Marie	Kudrnová	F	Mgr.		41	nezaměstnaná	Chotovice	99	1	0
-5303	578118	1	1	1	7	Jiří	Sádecký	M			35	podnikatel	Chotovice	99	1	0
-5303	578118	1	1	1	8	Petr	Švec	M			38	podnikatel	Chotovice	99	1	0
-5303	578118	1	1	1	9	Stanislava	Vopařilová	F			67	důchodce	Chotovice	1	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	578118	1	1	1	1	Jan	Buben			45	dělník	Chotovice	1	1	0	M
+5303	578118	1	1	1	2	Petr	Vích			31	strojní mechanik	Chotovice	99	1	0	M
+5303	578118	1	1	1	3	Dagmar	Nováková			42	rozpočtářka	Chotovice	99	1	0	F
+5303	578118	1	1	1	4	Pavel	Boštík	Ing.		43	Key Account Manager	Chotovice	99	1	0	M
+5303	578118	1	1	1	5	Karel	Vopařil			45	automechanik	Chotovice	99	1	0	M
+5303	578118	1	1	1	6	Marie	Kudrnová	Mgr.		41	nezaměstnaná	Chotovice	99	1	0	F
+5303	578118	1	1	1	7	Jiří	Sádecký			35	podnikatel	Chotovice	99	1	0	M
+5303	578118	1	1	1	8	Petr	Švec			38	podnikatel	Chotovice	99	1	0	M
+5303	578118	1	1	1	9	Stanislava	Vopařilová			67	důchodce	Chotovice	1	1	0	F

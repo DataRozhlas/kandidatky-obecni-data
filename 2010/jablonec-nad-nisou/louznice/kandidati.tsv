@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5102	563684	1	1	902	1	Marcel	Pohl	M			39	OSVČ	Loužnice	99	80	0
-5102	563684	1	1	902	2	Jaroslav	Lanc	M	Mgr.		68	důchodce	Loužnice	99	80	0
-5102	563684	1	1	902	3	Miroslav	Kramář	M			41	řidič	Loužnice	99	80	0
-5102	563684	1	1	902	4	Olga	Hrdličková	F			42	pasířka	Loužnice	99	80	0
-5102	563684	1	1	902	5	Radek	Živný	M			34	technolog	Loužnice	99	80	0
-5102	563684	1	1	902	6	Jindřich	Kazda	M			67	důchodce	Loužnice	99	80	0
-5102	563684	1	2	901	1	Petr	Krupka	M			39	technický pracovník	Loužnice	99	80	0
-5102	563684	1	2	901	2	Jaromír	Udatný	M			71	elektrotechnik	Loužnice	99	80	0
-5102	563684	1	2	901	3	Lenka	Pešatová	F			42	učitelka	Loužnice	99	80	0
-5102	563684	1	2	901	4	Vladimír	Sochor	M	Ing.		55	stavební technik	Loužnice	99	80	1
-5102	563684	1	2	901	5	Jana	Matěásková	F			36	odborný poradce	Loužnice	99	80	0
-5102	563684	1	2	901	6	Jaroslava	Hnátková	F			50	učitelka MŠ	Loužnice	99	80	0
-5102	563684	1	2	901	7	Iveta	Blažková	F			43	účetní	Loužnice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5102	563684	1	1	902	1	Marcel	Pohl			39	OSVČ	Loužnice	99	80	0	M
+5102	563684	1	2	901	1	Petr	Krupka			39	technický pracovník	Loužnice	99	80	0	M
+5102	563684	1	1	902	2	Jaroslav	Lanc	Mgr.		68	důchodce	Loužnice	99	80	0	M
+5102	563684	1	2	901	2	Jaromír	Udatný			71	elektrotechnik	Loužnice	99	80	0	M
+5102	563684	1	1	902	3	Miroslav	Kramář			41	řidič	Loužnice	99	80	0	M
+5102	563684	1	2	901	3	Lenka	Pešatová			42	učitelka	Loužnice	99	80	0	F
+5102	563684	1	1	902	4	Olga	Hrdličková			42	pasířka	Loužnice	99	80	0	F
+5102	563684	1	2	901	4	Vladimír	Sochor	Ing.		55	stavební technik	Loužnice	99	80	1	M
+5102	563684	1	1	902	5	Radek	Živný			34	technolog	Loužnice	99	80	0	M
+5102	563684	1	2	901	5	Jana	Matěásková			36	odborný poradce	Loužnice	99	80	0	F
+5102	563684	1	1	902	6	Jindřich	Kazda			67	důchodce	Loužnice	99	80	0	M
+5102	563684	1	2	901	6	Jaroslava	Hnátková			50	učitelka MŠ	Loužnice	99	80	0	F
+5102	563684	1	2	901	7	Iveta	Blažková			43	účetní	Loužnice	99	80	0	F

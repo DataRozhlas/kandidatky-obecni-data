@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	592978	1	1	7	1	Magdaléna	Zavadilová	F			33	referentka	Dětkovice	99	7	0
-6206	592978	1	1	7	2	Jana	Pavlíková	F			34	prodavačka	Dětkovice	99	7	0
-6206	592978	1	1	7	3	Lukáš	Konupka	M			21	student	Dětkovice	99	7	0
-6206	592978	1	1	7	4	Monika	Vaculíková	F			21	účetní	Dětkovice	99	7	0
-6206	592978	1	1	7	5	Pavla	Hrůzová	F			21	studentka	Dětkovice	99	7	0
-6206	592978	1	1	7	6	Zdeněk	Sedláček	M			49	zedník	Dětkovice	99	7	0
-6206	592978	1	1	7	7	Nataša	Gáborová	F			33	podnikatelka	Dětkovice	99	7	0
-6206	592978	1	2	901	1	Dalibor	Kučerňák	M			36	podnikatel	Dětkovice	99	80	0
-6206	592978	1	2	901	2	Ivo	Zacpálek	M			24	skladník	Dětkovice	99	80	0
-6206	592978	1	2	901	3	Miroslav	Obendrauf	M			37	řidič	Dětkovice	99	80	0
-6206	592978	1	2	901	4	Jitka	Hrůzová	F			38	živnostník	Dětkovice	99	80	0
-6206	592978	1	2	901	5	Milan	Vaculík	M			47	živnostník	Dětkovice	99	80	0
-6206	592978	1	2	901	6	Jaroslav	Plšek	M			41	traktorista	Dětkovice	99	80	0
-6206	592978	1	2	901	7	Diana	Přikrylová	F			26	pojišťovací poradce	Dětkovice	99	80	0
-6206	592978	1	3	1	1	Jan	Vrána	M			40	elektromechanik	Dětkovice	99	1	0
-6206	592978	1	3	1	2	Tomáš	Knap	M			42	řidič	Dětkovice	99	1	0
-6206	592978	1	3	1	3	Vladimíra	Michová	F			57	důchodkyně	Dětkovice	99	1	0
-6206	592978	1	3	1	4	Lucie	Vybíralová	F			19	studující	Dětkovice	99	1	0
-6206	592978	1	3	1	5	Antonín	Fiala	M			45	seřizovač	Dětkovice	1	1	0
-6206	592978	1	3	1	6	Marie	Obručová	F			57	důchodkyně	Dětkovice	99	1	0
-6206	592978	1	3	1	7	Františka	Judasová	F			59	důchodkyně	Dětkovice	99	1	0
-6206	592978	1	3	1	8	Lenka	Němcová	F			34	prodavačka	Dětkovice	99	1	0
-6206	592978	1	3	1	9	Anna	Fialová	F			18	studující	Dětkovice	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	592978	1	1	7	1	Magdaléna	Zavadilová			33	referentka	Dětkovice	99	7	0	F
+6206	592978	1	2	901	1	Dalibor	Kučerňák			36	podnikatel	Dětkovice	99	80	0	M
+6206	592978	1	3	1	1	Jan	Vrána			40	elektromechanik	Dětkovice	99	1	0	M
+6206	592978	1	1	7	2	Jana	Pavlíková			34	prodavačka	Dětkovice	99	7	0	F
+6206	592978	1	2	901	2	Ivo	Zacpálek			24	skladník	Dětkovice	99	80	0	M
+6206	592978	1	3	1	2	Tomáš	Knap			42	řidič	Dětkovice	99	1	0	M
+6206	592978	1	1	7	3	Lukáš	Konupka			21	student	Dětkovice	99	7	0	M
+6206	592978	1	2	901	3	Miroslav	Obendrauf			37	řidič	Dětkovice	99	80	0	M
+6206	592978	1	3	1	3	Vladimíra	Michová			57	důchodkyně	Dětkovice	99	1	0	F
+6206	592978	1	1	7	4	Monika	Vaculíková			21	účetní	Dětkovice	99	7	0	F
+6206	592978	1	2	901	4	Jitka	Hrůzová			38	živnostník	Dětkovice	99	80	0	F
+6206	592978	1	3	1	4	Lucie	Vybíralová			19	studující	Dětkovice	99	1	0	F
+6206	592978	1	1	7	5	Pavla	Hrůzová			21	studentka	Dětkovice	99	7	0	F
+6206	592978	1	2	901	5	Milan	Vaculík			47	živnostník	Dětkovice	99	80	0	M
+6206	592978	1	3	1	5	Antonín	Fiala			45	seřizovač	Dětkovice	1	1	0	M
+6206	592978	1	1	7	6	Zdeněk	Sedláček			49	zedník	Dětkovice	99	7	0	M
+6206	592978	1	2	901	6	Jaroslav	Plšek			41	traktorista	Dětkovice	99	80	0	M
+6206	592978	1	3	1	6	Marie	Obručová			57	důchodkyně	Dětkovice	99	1	0	F
+6206	592978	1	1	7	7	Nataša	Gáborová			33	podnikatelka	Dětkovice	99	7	0	F
+6206	592978	1	2	901	7	Diana	Přikrylová			26	pojišťovací poradce	Dětkovice	99	80	0	F
+6206	592978	1	3	1	7	Františka	Judasová			59	důchodkyně	Dětkovice	99	1	0	F
+6206	592978	1	3	1	8	Lenka	Němcová			34	prodavačka	Dětkovice	99	1	0	F
+6206	592978	1	3	1	9	Anna	Fialová			18	studující	Dětkovice	99	1	0	F

@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4202	546071	1	1	903	1	Antonín	Bartoň	M			27	agronom	Račetice	99	80	A
-4202	546071	1	1	903	2	Sylvie	Jarošová	F	Mgr.		33	pedagog	Račetice	99	80	A
-4202	546071	1	1	903	3	Josef	Ryšavý	M	Ing.		36	ředitel NNO	Račetice	99	80	A
-4202	546071	1	1	903	4	Aleš	Kvasnička	M	Bc.		31	policista	Račetice	99	80	A
-4202	546071	1	1	903	5	Radek	Sluníčko	M			39	zámečník	Račetice	99	80	A
-4202	546071	1	1	903	6	Miroslav	Přibík	M			35	nástrojař	Račetice	99	80	A
-4202	546071	1	1	903	7	Jindřich	Fleischman	M			34	vedoucí výroby	Račetice	99	80	A
-4202	546071	1	1	903	8	Radoslav	Polanecký	M			49	vychovatel	Račetice	99	80	A
-4202	546071	1	1	903	9	Petra	Hamáčková	F			36	zdravotní sestra	Račetice	99	80	A
-4202	546071	1	2	901	1	Vlastislav	Hofman	M			59	stavební technik	Račetice	99	80	A
-4202	546071	1	2	901	2	Filip	Pavlíček	M	Bc.		39	IT, správce sítě	Račetice	99	80	A
-4202	546071	1	2	901	3	Dana	Tomanová	F			51	vedoucí prodejny	Račetice	99	80	A
-4202	546071	1	2	901	4	Nikola	Vild	F	Ing.		28	ekonom	Račetice	99	80	A
-4202	546071	1	2	901	5	Jana	Lalíková	F			55	údržba zeleně	Račetice	99	80	A
-4202	546071	1	2	901	6	Jaroslava	Provazníková	F			62	důchodce	Račetice	99	80	A
-4202	546071	1	2	901	7	František	Rieger	M			32	skladník	Račetice	99	80	A
-4202	546071	1	2	901	8	Miroslav	Vild	M			37	strojník	Račetice	99	80	A
-4202	546071	1	2	901	9	Jindra	Rainišová	F			49	dělnice	Račetice	99	80	A
-4202	546071	1	3	785	1	Lenka	Kirchmayrová	F			53	administrativní pracovník, účetní	Račetice	785	785	A
-4202	546071	1	3	785	2	Josef	Brodníček	M			48	předák zámečníků	Račetice	99	785	A
-4202	546071	1	3	785	3	Leoš	Rieger	M			33	jeřábník	Račetice	99	785	A
-4202	546071	1	3	785	4	Bianca	Prokopová	F			29	učitelka v mateřské školce	Račetice	99	785	A
-4202	546071	1	3	785	5	Martina	Černá Novotná	F			48	OSVČ	Račetice	7	785	A
-4202	546071	1	3	785	6	Michal	Prokop	M			41	technik BOZP	Račetice	99	785	A
-4202	546071	1	3	785	7	Petr	Dobrý	M			43	řidič	Račetice	99	785	A
-4202	546071	1	3	785	8	Nikola	Černá	F			19	studentka	Račetice	99	785	A
-4202	546071	1	3	785	9	Josef	Doležal	M			25	operátor senior	Račetice	99	785	A
-4202	546071	1	4	902	1	Jiří	Vavřík	M	Ing.		42	středoškolský pedagog	Račetice	99	80	A
-4202	546071	1	4	902	2	Květoslava	Kašperová	F			46	dělnice	Račetice	99	80	A
-4202	546071	1	4	902	3	Hana	Jenčová	F			45	ředitelka MŠ	Račetice	99	80	A
-4202	546071	1	4	902	4	Pavlína	Valášková	F			47	logistik	Račetice	99	80	A
-4202	546071	1	4	902	5	Martin	Hofman	M			35	stavební technik	Račetice	99	80	A
-4202	546071	1	4	902	6	Jindřich	Martiňák	M			58	chemik	Račetice	99	80	A
-4202	546071	1	4	902	7	Martin	Vavřík	M	Bc.		27	logistik	Račetice	99	80	A
-4202	546071	1	4	902	8	Marek	Vild	M			35	strojník	Račetice	99	80	A
-4202	546071	1	4	902	9	Blanka	Hofmanová	F			43	dělnice	Račetice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4202	546071	1	1	903	1	Antonín	Bartoň			27	agronom	Račetice	99	80	A	M
+4202	546071	1	2	901	1	Vlastislav	Hofman			59	stavební technik	Račetice	99	80	A	M
+4202	546071	1	3	785	1	Lenka	Kirchmayrová			53	administrativní pracovník, účetní	Račetice	785	785	A	F
+4202	546071	1	4	902	1	Jiří	Vavřík	Ing.		42	středoškolský pedagog	Račetice	99	80	A	M
+4202	546071	1	1	903	2	Sylvie	Jarošová	Mgr.		33	pedagog	Račetice	99	80	A	F
+4202	546071	1	2	901	2	Filip	Pavlíček	Bc.		39	IT, správce sítě	Račetice	99	80	A	M
+4202	546071	1	3	785	2	Josef	Brodníček			48	předák zámečníků	Račetice	99	785	A	M
+4202	546071	1	4	902	2	Květoslava	Kašperová			46	dělnice	Račetice	99	80	A	F
+4202	546071	1	1	903	3	Josef	Ryšavý	Ing.		36	ředitel NNO	Račetice	99	80	A	M
+4202	546071	1	2	901	3	Dana	Tomanová			51	vedoucí prodejny	Račetice	99	80	A	F
+4202	546071	1	3	785	3	Leoš	Rieger			33	jeřábník	Račetice	99	785	A	M
+4202	546071	1	4	902	3	Hana	Jenčová			45	ředitelka MŠ	Račetice	99	80	A	F
+4202	546071	1	1	903	4	Aleš	Kvasnička	Bc.		31	policista	Račetice	99	80	A	M
+4202	546071	1	2	901	4	Nikola	Vild	Ing.		28	ekonom	Račetice	99	80	A	F
+4202	546071	1	3	785	4	Bianca	Prokopová			29	učitelka v mateřské školce	Račetice	99	785	A	F
+4202	546071	1	4	902	4	Pavlína	Valášková			47	logistik	Račetice	99	80	A	F
+4202	546071	1	1	903	5	Radek	Sluníčko			39	zámečník	Račetice	99	80	A	M
+4202	546071	1	2	901	5	Jana	Lalíková			55	údržba zeleně	Račetice	99	80	A	F
+4202	546071	1	3	785	5	Martina	Černá Novotná			48	OSVČ	Račetice	7	785	A	F
+4202	546071	1	4	902	5	Martin	Hofman			35	stavební technik	Račetice	99	80	A	M
+4202	546071	1	1	903	6	Miroslav	Přibík			35	nástrojař	Račetice	99	80	A	M
+4202	546071	1	2	901	6	Jaroslava	Provazníková			62	důchodce	Račetice	99	80	A	F
+4202	546071	1	3	785	6	Michal	Prokop			41	technik BOZP	Račetice	99	785	A	M
+4202	546071	1	4	902	6	Jindřich	Martiňák			58	chemik	Račetice	99	80	A	M
+4202	546071	1	1	903	7	Jindřich	Fleischman			34	vedoucí výroby	Račetice	99	80	A	M
+4202	546071	1	2	901	7	František	Rieger			32	skladník	Račetice	99	80	A	M
+4202	546071	1	3	785	7	Petr	Dobrý			43	řidič	Račetice	99	785	A	M
+4202	546071	1	4	902	7	Martin	Vavřík	Bc.		27	logistik	Račetice	99	80	A	M
+4202	546071	1	1	903	8	Radoslav	Polanecký			49	vychovatel	Račetice	99	80	A	M
+4202	546071	1	2	901	8	Miroslav	Vild			37	strojník	Račetice	99	80	A	M
+4202	546071	1	3	785	8	Nikola	Černá			19	studentka	Račetice	99	785	A	F
+4202	546071	1	4	902	8	Marek	Vild			35	strojník	Račetice	99	80	A	M
+4202	546071	1	1	903	9	Petra	Hamáčková			36	zdravotní sestra	Račetice	99	80	A	F
+4202	546071	1	2	901	9	Jindra	Rainišová			49	dělnice	Račetice	99	80	A	F
+4202	546071	1	3	785	9	Josef	Doležal			25	operátor senior	Račetice	99	785	A	M
+4202	546071	1	4	902	9	Blanka	Hofmanová			43	dělnice	Račetice	99	80	A	F

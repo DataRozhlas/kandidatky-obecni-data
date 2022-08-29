@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	546623	1	1	902	1	Karel	Chodil	M			51	úředník	Lásenice	99	80	0
-3103	546623	1	1	902	2	Libor	Kučera	M			37	dělník	Lásenice	99	80	0
-3103	546623	1	1	902	3	Josef	Mlejnek	M			54	invalidní důchodce	Lásenice	99	80	0
-3103	546623	1	1	902	4	Vítězslav	Macho	M			44	vedoucí výroby	Lásenice	99	80	0
-3103	546623	1	1	902	5	Petr	Novák	M			41	dělník	Lásenice	99	80	0
-3103	546623	1	2	7	1	Miloslav	Bláha	M			66	důchodce	Lásenice	99	7	0
-3103	546623	1	2	7	2	František	Pfauser	M			30	elektromontér	Lásenice	99	7	0
-3103	546623	1	2	7	3	Jana	Mlejnková	F			41	vedoucí prodejny	Lásenice	99	7	0
-3103	546623	1	2	7	4	Dušan	Prager	M			32	sanitář	Lásenice	99	7	0
-3103	546623	1	2	7	5	Marie	Chlaňová	F			45	dělnice	Lásenice	99	7	0
-3103	546623	1	2	7	6	František	Prager	M			52	podnikatel	Lásenice	99	7	0
-3103	546623	1	3	901	1	František	Fojt	M	Bc.		32	finanční manažer	Lásenice	99	80	0
-3103	546623	1	3	901	2	Rudolf	Hronza	M			58	bezpečnostní pracovník	Lásenice	99	80	0
-3103	546623	1	3	901	3	Hana	Bočková	F			52	odborná referentka	Lásenice	99	80	0
-3103	546623	1	3	901	4	Eva	Králová	F			63	důchodkyně	Lásenice	99	80	0
-3103	546623	1	3	901	5	Milan	Mašát	M			44	revírník	Lásenice	99	80	0
-3103	546623	1	3	901	6	Robert	Straňák	M			34	dělník	Lásenice	99	80	0
-3103	546623	1	3	901	7	Jan	Brožko	M			32	vedoucí opravárenství	Lásenice	99	80	0
-3103	546623	1	3	901	8	Martin	Čeloud	M			28	dělník	Lásenice	99	80	0
-3103	546623	1	3	901	9	Jitka	Kalvasová	F		BBS	25	poradce	Lásenice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	546623	1	1	902	1	Karel	Chodil			51	úředník	Lásenice	99	80	0	M
+3103	546623	1	2	7	1	Miloslav	Bláha			66	důchodce	Lásenice	99	7	0	M
+3103	546623	1	3	901	1	František	Fojt	Bc.		32	finanční manažer	Lásenice	99	80	0	M
+3103	546623	1	1	902	2	Libor	Kučera			37	dělník	Lásenice	99	80	0	M
+3103	546623	1	2	7	2	František	Pfauser			30	elektromontér	Lásenice	99	7	0	M
+3103	546623	1	3	901	2	Rudolf	Hronza			58	bezpečnostní pracovník	Lásenice	99	80	0	M
+3103	546623	1	1	902	3	Josef	Mlejnek			54	invalidní důchodce	Lásenice	99	80	0	M
+3103	546623	1	2	7	3	Jana	Mlejnková			41	vedoucí prodejny	Lásenice	99	7	0	F
+3103	546623	1	3	901	3	Hana	Bočková			52	odborná referentka	Lásenice	99	80	0	F
+3103	546623	1	1	902	4	Vítězslav	Macho			44	vedoucí výroby	Lásenice	99	80	0	M
+3103	546623	1	2	7	4	Dušan	Prager			32	sanitář	Lásenice	99	7	0	M
+3103	546623	1	3	901	4	Eva	Králová			63	důchodkyně	Lásenice	99	80	0	F
+3103	546623	1	1	902	5	Petr	Novák			41	dělník	Lásenice	99	80	0	M
+3103	546623	1	2	7	5	Marie	Chlaňová			45	dělnice	Lásenice	99	7	0	F
+3103	546623	1	3	901	5	Milan	Mašát			44	revírník	Lásenice	99	80	0	M
+3103	546623	1	2	7	6	František	Prager			52	podnikatel	Lásenice	99	7	0	M
+3103	546623	1	3	901	6	Robert	Straňák			34	dělník	Lásenice	99	80	0	M
+3103	546623	1	3	901	7	Jan	Brožko			32	vedoucí opravárenství	Lásenice	99	80	0	M
+3103	546623	1	3	901	8	Martin	Čeloud			28	dělník	Lásenice	99	80	0	M
+3103	546623	1	3	901	9	Jitka	Kalvasová		BBS	25	poradce	Lásenice	99	80	0	F

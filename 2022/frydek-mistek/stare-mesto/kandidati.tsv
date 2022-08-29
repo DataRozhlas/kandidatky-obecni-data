@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8102	552551	1	1	901	1	Marek	Pohl	M			42	referent přípravy dopravních staveb	Staré Město	99	80	A
-8102	552551	1	1	901	2	Vladislav	Hrabec	M			43	farmář	Staré Město	99	80	A
-8102	552551	1	1	901	3	Petr	Bílek	M	Mgr.		50	pojišťovací poradce	Staré Město	99	80	A
-8102	552551	1	1	901	4	Petr	Gibala	M	Mgr.		46	pedagog	Staré Město	99	80	A
-8102	552551	1	1	901	5	Lada	Čížková	F			52	podnikatelka	Staré Město	99	80	A
-8102	552551	1	1	901	6	Pavlína	Holubová	F	Ing.		39	státní zaměstnanec	Staré Město	99	80	A
-8102	552551	1	1	901	7	Simona	Sivev	F	Bc.		32	pedagog	Staré Město	99	80	A
-8102	552551	1	1	901	8	Radim	Kus	M	Bc.		39	policista	Staré Město	99	80	A
-8102	552551	1	1	901	9	Pavel	Staszko	M	Ing.		43	výjezdový hasič	Staré Město	99	80	A
-8102	552551	1	2	1	1	Petr	Ručka	M			35	řidič	Staré Město	1	1	A
-8102	552551	1	2	1	2	Rostislav	Velička	M			50	soustružník	Staré Město	99	1	A
-8102	552551	1	2	1	3	Libor	Fukala	M			57	dispečer	Staré Město	1	1	A
-8102	552551	1	2	1	4	Lucie	Ručková	F			32	všeobecná sestra	Staré Město	1	1	A
-8102	552551	1	2	1	5	Petr	Šťastník	M			47	obchodní zástupce	Staré Město	1	1	A
-8102	552551	1	2	1	6	Lydie	Fojtíková	F			61	kontrolor	Staré Město	99	1	A
-8102	552551	1	2	1	7	Jarmila	Hučková	F			74	důchodkyně	Staré Město	1	1	A
-8102	552551	1	2	1	8	Miroslav	Přikryl	M			51	projektový manažer	Staré Město	99	1	A
-8102	552551	1	2	1	9	Jakub	Michník	M			36	programátor	Staré Město	99	1	A
-8102	552551	1	3	371	1	Jaromír	Kaňok	M			52	starosta TJ Sokol Staré Město	Staré Město	99	80	A
-8102	552551	1	3	371	2	Marek	Prokeš	M	Ing.		38	elektroprojektant	Staré Město	7	7	A
-8102	552551	1	3	371	3	Jana	Murínová	F	Mgr.		37	mateřská dovolená	Staré Město	99	80	A
-8102	552551	1	3	371	4	Milan	Murín	M			48	manažer prodeje	Staré Město	99	80	A
-8102	552551	1	3	371	5	Jakub	Špok	M			27	OSVČ	Staré Město	99	80	A
-8102	552551	1	3	371	6	Petr	Sabela	M			40	prodejce ve stavebninách	Staré Město	99	80	A
-8102	552551	1	3	371	7	Roman	Sikora	M	Ing. Mgr.	Ph.D.	53	učitel	Staré Město	99	80	A
-8102	552551	1	3	371	8	Lukáš	Hynek	M			36	OSVČ	Staré Město	99	80	A
-8102	552551	1	3	371	9	Vojtěch	Kika	M			22	student	Staré Město	99	80	A
-8102	552551	1	4	902	1	Jiří	Roško	M	Mgr. Bc.		50	starosta obce	Staré Město	99	80	A
-8102	552551	1	4	902	2	Daniel	Maršálek	M	Bc.		45	místostarosta obce - státní zaměstnanec	Staré Město	99	80	A
-8102	552551	1	4	902	3	Konrád	Niesner	M			51	podnikatel	Staré Město	99	80	A
-8102	552551	1	4	902	4	Tomáš	Orság	M			36	podnikatel	Staré Město	99	80	A
-8102	552551	1	4	902	5	Jiří	Sedlář	M			40	projektový manažer	Staré Město	99	80	A
-8102	552551	1	4	902	6	Barbora	Mazurová	F	Mgr.		59	ředitelka ZŠ a MŠ	Staré Město	99	80	A
-8102	552551	1	4	902	7	Martin	Fusek	M	Ing.		43	stavební inženýr - statik	Staré Město	99	80	A
-8102	552551	1	4	902	8	Michal	Ztratil	M	Ing.		49	ředitel OSSZ Ostrava	Staré Město	99	80	A
-8102	552551	1	4	902	9	Věra	Čechová	F			60	důchodce	Staré Město	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8102	552551	1	1	901	1	Marek	Pohl			42	referent přípravy dopravních staveb	Staré Město	99	80	A	M
+8102	552551	1	2	1	1	Petr	Ručka			35	řidič	Staré Město	1	1	A	M
+8102	552551	1	3	371	1	Jaromír	Kaňok			52	starosta TJ Sokol Staré Město	Staré Město	99	80	A	M
+8102	552551	1	4	902	1	Jiří	Roško	Mgr. Bc.		50	starosta obce	Staré Město	99	80	A	M
+8102	552551	1	1	901	2	Vladislav	Hrabec			43	farmář	Staré Město	99	80	A	M
+8102	552551	1	2	1	2	Rostislav	Velička			50	soustružník	Staré Město	99	1	A	M
+8102	552551	1	3	371	2	Marek	Prokeš	Ing.		38	elektroprojektant	Staré Město	7	7	A	M
+8102	552551	1	4	902	2	Daniel	Maršálek	Bc.		45	místostarosta obce - státní zaměstnanec	Staré Město	99	80	A	M
+8102	552551	1	1	901	3	Petr	Bílek	Mgr.		50	pojišťovací poradce	Staré Město	99	80	A	M
+8102	552551	1	2	1	3	Libor	Fukala			57	dispečer	Staré Město	1	1	A	M
+8102	552551	1	3	371	3	Jana	Murínová	Mgr.		37	mateřská dovolená	Staré Město	99	80	A	F
+8102	552551	1	4	902	3	Konrád	Niesner			51	podnikatel	Staré Město	99	80	A	M
+8102	552551	1	1	901	4	Petr	Gibala	Mgr.		46	pedagog	Staré Město	99	80	A	M
+8102	552551	1	2	1	4	Lucie	Ručková			32	všeobecná sestra	Staré Město	1	1	A	F
+8102	552551	1	3	371	4	Milan	Murín			48	manažer prodeje	Staré Město	99	80	A	M
+8102	552551	1	4	902	4	Tomáš	Orság			36	podnikatel	Staré Město	99	80	A	M
+8102	552551	1	1	901	5	Lada	Čížková			52	podnikatelka	Staré Město	99	80	A	F
+8102	552551	1	2	1	5	Petr	Šťastník			47	obchodní zástupce	Staré Město	1	1	A	M
+8102	552551	1	3	371	5	Jakub	Špok			27	OSVČ	Staré Město	99	80	A	M
+8102	552551	1	4	902	5	Jiří	Sedlář			40	projektový manažer	Staré Město	99	80	A	M
+8102	552551	1	1	901	6	Pavlína	Holubová	Ing.		39	státní zaměstnanec	Staré Město	99	80	A	F
+8102	552551	1	2	1	6	Lydie	Fojtíková			61	kontrolor	Staré Město	99	1	A	F
+8102	552551	1	3	371	6	Petr	Sabela			40	prodejce ve stavebninách	Staré Město	99	80	A	M
+8102	552551	1	4	902	6	Barbora	Mazurová	Mgr.		59	ředitelka ZŠ a MŠ	Staré Město	99	80	A	F
+8102	552551	1	1	901	7	Simona	Sivev	Bc.		32	pedagog	Staré Město	99	80	A	F
+8102	552551	1	2	1	7	Jarmila	Hučková			74	důchodkyně	Staré Město	1	1	A	F
+8102	552551	1	3	371	7	Roman	Sikora	Ing. Mgr.	Ph.D.	53	učitel	Staré Město	99	80	A	M
+8102	552551	1	4	902	7	Martin	Fusek	Ing.		43	stavební inženýr - statik	Staré Město	99	80	A	M
+8102	552551	1	1	901	8	Radim	Kus	Bc.		39	policista	Staré Město	99	80	A	M
+8102	552551	1	2	1	8	Miroslav	Přikryl			51	projektový manažer	Staré Město	99	1	A	M
+8102	552551	1	3	371	8	Lukáš	Hynek			36	OSVČ	Staré Město	99	80	A	M
+8102	552551	1	4	902	8	Michal	Ztratil	Ing.		49	ředitel OSSZ Ostrava	Staré Město	99	80	A	M
+8102	552551	1	1	901	9	Pavel	Staszko	Ing.		43	výjezdový hasič	Staré Město	99	80	A	M
+8102	552551	1	2	1	9	Jakub	Michník			36	programátor	Staré Město	99	1	A	M
+8102	552551	1	3	371	9	Vojtěch	Kika			22	student	Staré Město	99	80	A	M
+8102	552551	1	4	902	9	Věra	Čechová			60	důchodce	Staré Město	99	80	A	F

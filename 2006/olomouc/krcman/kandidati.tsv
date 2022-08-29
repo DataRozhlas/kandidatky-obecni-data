@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	552437	1	1	901	1	Petr	Kobliha	M			29	konzultat informač.systémů	Krčmaň	99	80	0
-7102	552437	1	1	901	2	Šárka	Dočkalová	F	Ing.		25	úřednice	Krčmaň	99	80	0
-7102	552437	1	1	901	3	Robert	Stanislav	M			29	technik	Krčmaň	99	80	0
-7102	552437	1	1	901	4	Kristýna	Friedrichová	F			27	na mateřské dovolené	Krčmaň	99	80	0
-7102	552437	1	1	901	5	Miroslav	Suchánek	M	Ing.		28	referent	Krčmaň	99	80	0
-7102	552437	1	1	901	6	Stanislava	Bednaříková	F	Mgr.		29	úřednice	Krčmaň	99	80	0
-7102	552437	1	1	901	7	Lenka	Mašková	F	Mgr.		27	fyzioterapeut	Krčmaň	99	80	0
-7102	552437	1	2	47	1	Zdeněk	Jančo	M	Mgr.		53	učitel ZŠ	Krčmaň	99	47	0
-7102	552437	1	2	47	2	Zdeněk	Jureček	M			44	konstruktér-elektronik	Krčmaň	99	47	0
-7102	552437	1	2	47	3	František	Vymětalík	M			61	důchodce	Krčmaň	47	47	0
-7102	552437	1	2	47	4	Eva	Sztwioroková	F			18	studentka	Krčmaň	99	47	0
-7102	552437	1	2	47	5	František	Stanislav	M			51	mistr odborného výcviku	Krčmaň	99	47	0
-7102	552437	1	2	47	6	Jiří	Friedrich	M			43	elektromontér	Krčmaň	99	47	0
-7102	552437	1	2	47	7	Stanislav	Moudrý	M			55	řidič	Krčmaň	47	47	0
-7102	552437	1	3	88	1	Jiří	Koláček	M			48	technik	Krčmaň	99	88	0
-7102	552437	1	3	88	2	Ladislav	Domes	M			53	technik	Krčmaň	99	88	0
-7102	552437	1	3	88	3	Pavel	Krkoška	M	Ing.		41	technik	Krčmaň	99	88	0
-7102	552437	1	3	88	4	Václav	Strejček	M	Mgr.		33	policista	Krčmaň	99	88	0
-7102	552437	1	3	88	5	Pavel	Chytil	M			55	malíř	Krčmaň	99	88	0
-7102	552437	1	3	88	6	Jan	Motáň	M			38	zámečník	Krčmaň	99	88	0
-7102	552437	1	4	902	1	Zdeněk	Coufal	M			34	zámečník	Krčmaň	99	80	0
-7102	552437	1	4	902	2	Stanislav	Moudrý	M			30	zedník	Krčmaň	99	80	0
-7102	552437	1	4	902	3	Michal	Prchlík	M			29	elektromechanik	Krčmaň	99	80	0
-7102	552437	1	4	902	4	Michal	Zoň	M			37	zedník	Krčmaň	99	80	0
-7102	552437	1	4	902	5	Zdeněk	Moudrý	M			35	pokrývač	Krčmaň	99	80	0
-7102	552437	1	4	902	6	Lumír	Friedrich	M			41	ošetřovatel	Krčmaň	99	80	0
-7102	552437	1	4	902	7	Tomáš	Chrobok	M			27	zedník	Krčmaň	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	552437	1	1	901	1	Petr	Kobliha			29	konzultat informač.systémů	Krčmaň	99	80	0	M
+7102	552437	1	2	47	1	Zdeněk	Jančo	Mgr.		53	učitel ZŠ	Krčmaň	99	47	0	M
+7102	552437	1	3	88	1	Jiří	Koláček			48	technik	Krčmaň	99	88	0	M
+7102	552437	1	4	902	1	Zdeněk	Coufal			34	zámečník	Krčmaň	99	80	0	M
+7102	552437	1	1	901	2	Šárka	Dočkalová	Ing.		25	úřednice	Krčmaň	99	80	0	F
+7102	552437	1	2	47	2	Zdeněk	Jureček			44	konstruktér-elektronik	Krčmaň	99	47	0	M
+7102	552437	1	3	88	2	Ladislav	Domes			53	technik	Krčmaň	99	88	0	M
+7102	552437	1	4	902	2	Stanislav	Moudrý			30	zedník	Krčmaň	99	80	0	M
+7102	552437	1	1	901	3	Robert	Stanislav			29	technik	Krčmaň	99	80	0	M
+7102	552437	1	2	47	3	František	Vymětalík			61	důchodce	Krčmaň	47	47	0	M
+7102	552437	1	3	88	3	Pavel	Krkoška	Ing.		41	technik	Krčmaň	99	88	0	M
+7102	552437	1	4	902	3	Michal	Prchlík			29	elektromechanik	Krčmaň	99	80	0	M
+7102	552437	1	1	901	4	Kristýna	Friedrichová			27	na mateřské dovolené	Krčmaň	99	80	0	F
+7102	552437	1	2	47	4	Eva	Sztwioroková			18	studentka	Krčmaň	99	47	0	F
+7102	552437	1	3	88	4	Václav	Strejček	Mgr.		33	policista	Krčmaň	99	88	0	M
+7102	552437	1	4	902	4	Michal	Zoň			37	zedník	Krčmaň	99	80	0	M
+7102	552437	1	1	901	5	Miroslav	Suchánek	Ing.		28	referent	Krčmaň	99	80	0	M
+7102	552437	1	2	47	5	František	Stanislav			51	mistr odborného výcviku	Krčmaň	99	47	0	M
+7102	552437	1	3	88	5	Pavel	Chytil			55	malíř	Krčmaň	99	88	0	M
+7102	552437	1	4	902	5	Zdeněk	Moudrý			35	pokrývač	Krčmaň	99	80	0	M
+7102	552437	1	1	901	6	Stanislava	Bednaříková	Mgr.		29	úřednice	Krčmaň	99	80	0	F
+7102	552437	1	2	47	6	Jiří	Friedrich			43	elektromontér	Krčmaň	99	47	0	M
+7102	552437	1	3	88	6	Jan	Motáň			38	zámečník	Krčmaň	99	88	0	M
+7102	552437	1	4	902	6	Lumír	Friedrich			41	ošetřovatel	Krčmaň	99	80	0	M
+7102	552437	1	1	901	7	Lenka	Mašková	Mgr.		27	fyzioterapeut	Krčmaň	99	80	0	F
+7102	552437	1	2	47	7	Stanislav	Moudrý			55	řidič	Krčmaň	47	47	0	M
+7102	552437	1	4	902	7	Tomáš	Chrobok			27	zedník	Krčmaň	99	80	0	M

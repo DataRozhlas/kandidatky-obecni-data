@@ -1,36 +1,36 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	582573	1	1	1	1	Miroslava	Strnadová	F			53	zdravotní sestra	Úsobrno	99	1	0
-6201	582573	1	1	1	2	Romanka	Dufková	F	Mgr.		67	učitelka	Úsobrno	99	1	0
-6201	582573	1	1	1	3	Ivana	Smejkalová	F			64	důchodkyně	Úsobrno	99	1	0
-6201	582573	1	1	1	4	Věra	Benešová	F	Ing.		36	zootechnička	Úsobrno	99	1	0
-6201	582573	1	1	1	5	Veronika	Písková	F			23	studentka	Úsobrno	99	1	0
-6201	582573	1	1	1	6	Veronika	Staňková	F			33	učitelka	Úsobrno	99	1	0
-6201	582573	1	1	1	7	Soňa	Smejkalová	F			47	třídička skla	Úsobrno	99	1	0
-6201	582573	1	1	1	8	Hana	Šumberová	F			39	pánská krejčová	Úsobrno	99	1	0
-6201	582573	1	1	1	9	Vladimíra	Komárková	F			42	prodavačka	Úsobrno	99	1	0
-6201	582573	1	2	901	1	Josef	Kopecký	M			65	důchodce	Úsobrno	99	80	0
-6201	582573	1	2	901	2	Jiří	Pořízka	M	Dr.		74	důchodce	Úsobrno	99	80	0
-6201	582573	1	2	901	3	Oldřich	Koudelka	M	RSDr. PhDr.		59	OSVČ	Úsobrno	99	80	0
-6201	582573	1	2	901	4	Ladislav	Palla	M			67	důchodce	Úsobrno	99	80	0
-6201	582573	1	2	901	5	Taťjana	Koudelková	F			59	provozní	Úsobrno	99	80	0
-6201	582573	1	2	901	6	Jaroslav	Balík	M			66	důchodce	Úsobrno	99	80	0
-6201	582573	1	2	901	7	Marie	Kopecká	F			63	důchodce	Úsobrno	99	80	0
-6201	582573	1	2	901	8	Lukáš	Parolek	M			26	OSVČ	Úsobrno	99	80	0
-6201	582573	1	3	129	1	Petr	Komárek	M			27	vedoucí pracovník	Úsobrno	99	129	0
-6201	582573	1	3	129	2	Dušan	Hrouzek	M			41	vedoucí pracovník	Úsobrno	99	129	0
-6201	582573	1	3	129	3	Pavel	Lutera	M	Mgr.		50	učitel	Úsobrno	99	129	0
-6201	582573	1	3	129	4	Jiří	Navrátil	M			39	vedoucí pracovník	Úsobrno	99	129	0
-6201	582573	1	3	129	5	Marie	Komárková	F			47	zdravotní sestra	Úsobrno	99	129	0
-6201	582573	1	3	129	6	Jaroslav	Janda	M			68	důchodce	Úsobrno	99	129	0
-6201	582573	1	3	129	7	Radek	Laštuvka	M			40	podnikatel	Úsobrno	99	129	0
-6201	582573	1	3	129	8	Soňa	Zmeškalová	F			37	referent obchodního oddělení	Úsobrno	99	129	0
-6201	582573	1	3	129	9	Petr	Šmíd	M			40	revírník LČR	Úsobrno	99	129	0
-6201	582573	1	4	902	1	Zdeněk	Mikula	M			40	záchranář	Úsobrno	99	80	0
-6201	582573	1	4	902	2	Oldřich	Krupička	M			73	důchodce	Úsobrno	99	80	0
-6201	582573	1	4	902	3	Martin	Smejkal	M			26	OSVČ	Úsobrno	99	80	0
-6201	582573	1	4	902	4	Leona	Antlová	F			49	vedoucí pošty	Úsobrno	99	80	0
-6201	582573	1	4	902	5	Jiří	Vykydal	M			63	důchodce	Úsobrno	99	80	0
-6201	582573	1	4	902	6	Petr	Staněk	M			38	dělník	Úsobrno	99	80	0
-6201	582573	1	4	902	7	Vlastimil	Lužný	M			29	operátor kmenárny	Úsobrno	99	80	0
-6201	582573	1	4	902	8	Jaroslav	Mackerle	M			43	údržbář	Úsobrno	99	80	0
-6201	582573	1	4	902	9	Tomáš	Lajšner	M			36	OSVČ	Úsobrno	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	582573	1	1	1	1	Miroslava	Strnadová			53	zdravotní sestra	Úsobrno	99	1	0	F
+6201	582573	1	2	901	1	Josef	Kopecký			65	důchodce	Úsobrno	99	80	0	M
+6201	582573	1	3	129	1	Petr	Komárek			27	vedoucí pracovník	Úsobrno	99	129	0	M
+6201	582573	1	4	902	1	Zdeněk	Mikula			40	záchranář	Úsobrno	99	80	0	M
+6201	582573	1	1	1	2	Romanka	Dufková	Mgr.		67	učitelka	Úsobrno	99	1	0	F
+6201	582573	1	2	901	2	Jiří	Pořízka	Dr.		74	důchodce	Úsobrno	99	80	0	M
+6201	582573	1	3	129	2	Dušan	Hrouzek			41	vedoucí pracovník	Úsobrno	99	129	0	M
+6201	582573	1	4	902	2	Oldřich	Krupička			73	důchodce	Úsobrno	99	80	0	M
+6201	582573	1	1	1	3	Ivana	Smejkalová			64	důchodkyně	Úsobrno	99	1	0	F
+6201	582573	1	2	901	3	Oldřich	Koudelka	RSDr. PhDr.		59	OSVČ	Úsobrno	99	80	0	M
+6201	582573	1	3	129	3	Pavel	Lutera	Mgr.		50	učitel	Úsobrno	99	129	0	M
+6201	582573	1	4	902	3	Martin	Smejkal			26	OSVČ	Úsobrno	99	80	0	M
+6201	582573	1	1	1	4	Věra	Benešová	Ing.		36	zootechnička	Úsobrno	99	1	0	F
+6201	582573	1	2	901	4	Ladislav	Palla			67	důchodce	Úsobrno	99	80	0	M
+6201	582573	1	3	129	4	Jiří	Navrátil			39	vedoucí pracovník	Úsobrno	99	129	0	M
+6201	582573	1	4	902	4	Leona	Antlová			49	vedoucí pošty	Úsobrno	99	80	0	F
+6201	582573	1	1	1	5	Veronika	Písková			23	studentka	Úsobrno	99	1	0	F
+6201	582573	1	2	901	5	Taťjana	Koudelková			59	provozní	Úsobrno	99	80	0	F
+6201	582573	1	3	129	5	Marie	Komárková			47	zdravotní sestra	Úsobrno	99	129	0	F
+6201	582573	1	4	902	5	Jiří	Vykydal			63	důchodce	Úsobrno	99	80	0	M
+6201	582573	1	1	1	6	Veronika	Staňková			33	učitelka	Úsobrno	99	1	0	F
+6201	582573	1	2	901	6	Jaroslav	Balík			66	důchodce	Úsobrno	99	80	0	M
+6201	582573	1	3	129	6	Jaroslav	Janda			68	důchodce	Úsobrno	99	129	0	M
+6201	582573	1	4	902	6	Petr	Staněk			38	dělník	Úsobrno	99	80	0	M
+6201	582573	1	1	1	7	Soňa	Smejkalová			47	třídička skla	Úsobrno	99	1	0	F
+6201	582573	1	2	901	7	Marie	Kopecká			63	důchodce	Úsobrno	99	80	0	F
+6201	582573	1	3	129	7	Radek	Laštuvka			40	podnikatel	Úsobrno	99	129	0	M
+6201	582573	1	4	902	7	Vlastimil	Lužný			29	operátor kmenárny	Úsobrno	99	80	0	M
+6201	582573	1	1	1	8	Hana	Šumberová			39	pánská krejčová	Úsobrno	99	1	0	F
+6201	582573	1	2	901	8	Lukáš	Parolek			26	OSVČ	Úsobrno	99	80	0	M
+6201	582573	1	3	129	8	Soňa	Zmeškalová			37	referent obchodního oddělení	Úsobrno	99	129	0	F
+6201	582573	1	4	902	8	Jaroslav	Mackerle			43	údržbář	Úsobrno	99	80	0	M
+6201	582573	1	1	1	9	Vladimíra	Komárková			42	prodavačka	Úsobrno	99	1	0	F
+6201	582573	1	3	129	9	Petr	Šmíd			40	revírník LČR	Úsobrno	99	129	0	M
+6201	582573	1	4	902	9	Tomáš	Lajšner			36	OSVČ	Úsobrno	99	80	0	M

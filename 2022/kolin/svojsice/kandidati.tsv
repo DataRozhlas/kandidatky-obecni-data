@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2104	533726	1	1	902	1	Lubomír	Šmejkal	M			62	podnikatel	Svojšice	99	80	A
-2104	533726	1	1	902	2	Radek	Havlina	M			51	skladník	Bošice	99	80	A
-2104	533726	1	1	902	3	Alena	Pazderková	F			60	vedoucí ŠJ	Svojšice	99	80	A
-2104	533726	1	1	902	4	Jana	Maxianová Tahalová	F			38	vedoucí pošty	Bošice	99	80	A
-2104	533726	1	1	902	5	Miroslav	Tuček	M			30	chemik operátor	Svojšice	99	80	A
-2104	533726	1	1	902	6	Jitka	Bartůňková	F			42	asistentka CHB	Nová Ves III	99	80	A
-2104	533726	1	1	902	7	Michaela	Šmejkalová	F			31	vedoucí ŠJ	Svojšice	99	80	A
-2104	533726	1	2	901	1	Josef	Polesný	M			59	starosta	Svojšice	99	80	A
-2104	533726	1	2	901	2	Petr	Semerád	M			44	soukromý podnikatel	Svojšice	99	80	A
-2104	533726	1	2	901	3	Jaroslav	Frýda	M			50	chemik,operátor	Bošice	99	80	A
-2104	533726	1	2	901	4	Miroslav	Vaněk	M	Ing.		58	technik	Nová Ves III	99	80	A
-2104	533726	1	2	901	5	Josef	Hykman	M			52	soukromý podnikatel	Svojšice	99	80	A
-2104	533726	1	2	901	6	Martin	Vokoun	M			50	soukromý podnikatel	Bošice	99	80	A
-2104	533726	1	2	901	7	Josef	Řezáč	M			41	provozní montér	Svojšice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2104	533726	1	1	902	1	Lubomír	Šmejkal			62	podnikatel	Svojšice	99	80	A	M
+2104	533726	1	2	901	1	Josef	Polesný			59	starosta	Svojšice	99	80	A	M
+2104	533726	1	1	902	2	Radek	Havlina			51	skladník	Bošice	99	80	A	M
+2104	533726	1	2	901	2	Petr	Semerád			44	soukromý podnikatel	Svojšice	99	80	A	M
+2104	533726	1	1	902	3	Alena	Pazderková			60	vedoucí ŠJ	Svojšice	99	80	A	F
+2104	533726	1	2	901	3	Jaroslav	Frýda			50	chemik,operátor	Bošice	99	80	A	M
+2104	533726	1	1	902	4	Jana	Maxianová Tahalová			38	vedoucí pošty	Bošice	99	80	A	F
+2104	533726	1	2	901	4	Miroslav	Vaněk	Ing.		58	technik	Nová Ves III	99	80	A	M
+2104	533726	1	1	902	5	Miroslav	Tuček			30	chemik operátor	Svojšice	99	80	A	M
+2104	533726	1	2	901	5	Josef	Hykman			52	soukromý podnikatel	Svojšice	99	80	A	M
+2104	533726	1	1	902	6	Jitka	Bartůňková			42	asistentka CHB	Nová Ves III	99	80	A	F
+2104	533726	1	2	901	6	Martin	Vokoun			50	soukromý podnikatel	Bošice	99	80	A	M
+2104	533726	1	1	902	7	Michaela	Šmejkalová			31	vedoucí ŠJ	Svojšice	99	80	A	F
+2104	533726	1	2	901	7	Josef	Řezáč			41	provozní montér	Svojšice	99	80	A	M

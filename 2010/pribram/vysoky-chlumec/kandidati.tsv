@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	541591	1	1	901	1	Luboš	Hlaváček	M			43	podnikatel	Vysoký Chlumec	99	80	0
-2111	541591	1	1	901	2	Jindřiška	Pauknerová	F			39	finanční poradkyně	Vysoký Chlumec	99	80	0
-2111	541591	1	1	901	3	Pavel	Kortan	M			51	správce	Vysoký Chlumec	99	80	0
-2111	541591	1	1	901	4	Petr	Tůma	M			35	podnikatel	Vysoký Chlumec	99	80	0
-2111	541591	1	1	901	5	Zdeněk	Slanina	M			46	podnikatel	Vysoký Chlumec	99	80	0
-2111	541591	1	1	901	6	Jan	Kubišta	M			37	ošetřovatel koní	Vysoký Chlumec	99	80	0
-2111	541591	1	1	901	7	Libor	Podlaha	M			27	policista	Vysoký Chlumec	99	80	0
-2111	541591	1	1	901	8	Wilhelm	Wolf	M			41	podnikatel	Vysoký Chlumec	99	80	0
-2111	541591	1	1	901	9	Libor	Nulíček	M			44	podnikatel	Vysoký Chlumec	99	80	0
-2111	541591	1	2	1	1	Pavel	Šmejkal	M			32	truhlář	Hrabří	99	1	0
-2111	541591	1	2	1	2	Markéta	Jarešová	F			29	učitelka, nyní mateř.dov.	Vysoký Chlumec	99	1	0
-2111	541591	1	2	1	3	Šárka	Housková	F	RNDr.		28	učitelka, nyní mateř.dov.	Hrabří	99	1	0
-2111	541591	1	2	1	4	Markéta	Pšeničková	F			28	účetní, nyní mateř.dov.	Hrabří	99	1	0
-2111	541591	1	2	1	5	Pavel	Sirotek	M			42	zootechnik	Hrabří	99	1	0
-2111	541591	1	2	1	6	Tomáš	Rubant	M			30	obráběč kovů	Jezvina	99	1	0
-2111	541591	1	2	1	7	Jan	Pšenička	M			44	montér	Hrabří	99	1	0
-2111	541591	1	2	1	8	Jaroslava	Suchanová	F			37	účetní	Hrabří	99	1	0
-2111	541591	1	2	1	9	Jiří	Hradil	M			37	revizor MHD	Hrabří	99	1	0
-2111	541591	1	3	371	1	Hana	Podlipská	F			53	vedoucí výroby KDS	Hrabří	7	7	0
-2111	541591	1	3	371	2	Michal	Herma	M	Bc.		30	bezpečnostní pracovník	Hradce	99	80	0
-2111	541591	1	3	371	3	Stanislav	Havel	M			33	OSVČ	Vysoký Chlumec	99	80	0
-2111	541591	1	3	371	4	Martin	Zvěřina	M			30	řezník	Vysoký Chlumec	99	80	0
-2111	541591	1	3	371	5	Vladimír	Hřebejk	M			33	mistr výroby	Víska	99	80	0
-2111	541591	1	3	371	6	Jiří	Vlach	M	Ing.		62	obchodní zástupce	Vysoký Chlumec	99	80	0
-2111	541591	1	3	371	7	Martina	Podlipská	F			33	mateřská dovolená	Hrabří	99	80	0
-2111	541591	1	3	371	8	Zdeněk	Zeman	M			32	servisní technik	Vysoký Chlumec	99	80	0
-2111	541591	1	3	371	9	Jan	Herma	M			53	pracovník v zemědělství	Vysoký Chlumec	99	80	0
-2111	541591	1	4	470	1	František	Chlasták	M			58	OSVČ v dopravě	Vysoký Chlumec	99	166	0
-2111	541591	1	4	470	2	Jaroslav	Cihelka	M			58	podnikatel	Vysoký Chlumec	99	166	0
-2111	541591	1	4	470	3	Vladimír	Houska	M			41	stavbyvedoucí	Hrabří	99	166	0
-2111	541591	1	4	470	4	Stanislav	Doležal	M			41	podnikatel	Vápenice	99	166	0
-2111	541591	1	4	470	5	Václav	Ledinský	M			58	dělník	Hrabří	99	166	0
-2111	541591	1	4	470	6	Pavlína	Kožmínová	F			39	administrátor pošt	Vysoký Chlumec	99	166	0
-2111	541591	1	4	470	7	Hana	Svatková	F	Ing.		29	odpovědný redaktor	Víska	99	166	0
-2111	541591	1	4	470	8	Ivana	Slavková	F	Ing. arch.		36	samostatný architekt urbanista	Vysoký Chlumec	99	166	0
-2111	541591	1	4	470	9	Jaroslav	Nevlida	M			29	mechanik pivovaru	Víska	99	166	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	541591	1	1	901	1	Luboš	Hlaváček			43	podnikatel	Vysoký Chlumec	99	80	0	M
+2111	541591	1	2	1	1	Pavel	Šmejkal			32	truhlář	Hrabří	99	1	0	M
+2111	541591	1	3	371	1	Hana	Podlipská			53	vedoucí výroby KDS	Hrabří	7	7	0	F
+2111	541591	1	4	470	1	František	Chlasták			58	OSVČ v dopravě	Vysoký Chlumec	99	166	0	M
+2111	541591	1	1	901	2	Jindřiška	Pauknerová			39	finanční poradkyně	Vysoký Chlumec	99	80	0	F
+2111	541591	1	2	1	2	Markéta	Jarešová			29	učitelka, nyní mateř.dov.	Vysoký Chlumec	99	1	0	F
+2111	541591	1	3	371	2	Michal	Herma	Bc.		30	bezpečnostní pracovník	Hradce	99	80	0	M
+2111	541591	1	4	470	2	Jaroslav	Cihelka			58	podnikatel	Vysoký Chlumec	99	166	0	M
+2111	541591	1	1	901	3	Pavel	Kortan			51	správce	Vysoký Chlumec	99	80	0	M
+2111	541591	1	2	1	3	Šárka	Housková	RNDr.		28	učitelka, nyní mateř.dov.	Hrabří	99	1	0	F
+2111	541591	1	3	371	3	Stanislav	Havel			33	OSVČ	Vysoký Chlumec	99	80	0	M
+2111	541591	1	4	470	3	Vladimír	Houska			41	stavbyvedoucí	Hrabří	99	166	0	M
+2111	541591	1	1	901	4	Petr	Tůma			35	podnikatel	Vysoký Chlumec	99	80	0	M
+2111	541591	1	2	1	4	Markéta	Pšeničková			28	účetní, nyní mateř.dov.	Hrabří	99	1	0	F
+2111	541591	1	3	371	4	Martin	Zvěřina			30	řezník	Vysoký Chlumec	99	80	0	M
+2111	541591	1	4	470	4	Stanislav	Doležal			41	podnikatel	Vápenice	99	166	0	M
+2111	541591	1	1	901	5	Zdeněk	Slanina			46	podnikatel	Vysoký Chlumec	99	80	0	M
+2111	541591	1	2	1	5	Pavel	Sirotek			42	zootechnik	Hrabří	99	1	0	M
+2111	541591	1	3	371	5	Vladimír	Hřebejk			33	mistr výroby	Víska	99	80	0	M
+2111	541591	1	4	470	5	Václav	Ledinský			58	dělník	Hrabří	99	166	0	M
+2111	541591	1	1	901	6	Jan	Kubišta			37	ošetřovatel koní	Vysoký Chlumec	99	80	0	M
+2111	541591	1	2	1	6	Tomáš	Rubant			30	obráběč kovů	Jezvina	99	1	0	M
+2111	541591	1	3	371	6	Jiří	Vlach	Ing.		62	obchodní zástupce	Vysoký Chlumec	99	80	0	M
+2111	541591	1	4	470	6	Pavlína	Kožmínová			39	administrátor pošt	Vysoký Chlumec	99	166	0	F
+2111	541591	1	1	901	7	Libor	Podlaha			27	policista	Vysoký Chlumec	99	80	0	M
+2111	541591	1	2	1	7	Jan	Pšenička			44	montér	Hrabří	99	1	0	M
+2111	541591	1	3	371	7	Martina	Podlipská			33	mateřská dovolená	Hrabří	99	80	0	F
+2111	541591	1	4	470	7	Hana	Svatková	Ing.		29	odpovědný redaktor	Víska	99	166	0	F
+2111	541591	1	1	901	8	Wilhelm	Wolf			41	podnikatel	Vysoký Chlumec	99	80	0	M
+2111	541591	1	2	1	8	Jaroslava	Suchanová			37	účetní	Hrabří	99	1	0	F
+2111	541591	1	3	371	8	Zdeněk	Zeman			32	servisní technik	Vysoký Chlumec	99	80	0	M
+2111	541591	1	4	470	8	Ivana	Slavková	Ing. arch.		36	samostatný architekt urbanista	Vysoký Chlumec	99	166	0	F
+2111	541591	1	1	901	9	Libor	Nulíček			44	podnikatel	Vysoký Chlumec	99	80	0	M
+2111	541591	1	2	1	9	Jiří	Hradil			37	revizor MHD	Hrabří	99	1	0	M
+2111	541591	1	3	371	9	Jan	Herma			53	pracovník v zemědělství	Vysoký Chlumec	99	80	0	M
+2111	541591	1	4	470	9	Jaroslav	Nevlida			29	mechanik pivovaru	Víska	99	166	0	M

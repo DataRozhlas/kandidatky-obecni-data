@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	500852	1	1	902	1	Jiří	Slepica	M	Mgr.		61	místostarosta obce	Bohuňovice	99	80	A
-7102	500852	1	1	902	2	Iveta	Nováková	F	Mgr.		52	učitelka	Bohuňovice	99	80	A
-7102	500852	1	1	902	3	Tomáš	Římský	M			47	programátor	Bohuňovice	99	80	A
-7102	500852	1	1	902	4	Josef	Drška	M	Ing.		58	technik	Bohuňovice	99	80	A
-7102	500852	1	1	902	5	Radka	Zetková	F			47	vedoucí pokladen	Bohuňovice	99	80	A
-7102	500852	1	1	902	6	Jan	Řapek	M			35	údržbář	Bohuňovice	99	80	A
-7102	500852	1	1	902	7	Miroslav	Spáčil	M			45	zámečník	Bohuňovice	99	80	A
-7102	500852	1	1	902	8	Pavel	Siegl	M			69	důchodce	Bohuňovice	99	80	A
-7102	500852	1	1	902	9	Martin	Ocvirk	M			42	technik	Bohuňovice	99	80	A
-7102	500852	1	1	902	10	Hana	Demelová	F			52	pracovnice přenosu dat	Bohuňovice	99	80	A
-7102	500852	1	1	902	11	Pavel	Římský	M			61	živnostník	Bohuňovice	1	80	A
-7102	500852	1	1	902	12	Zbyněk	Cenkl	M			48	účetní	Bohuňovice	99	80	A
-7102	500852	1	1	902	13	Oldřich	Weidinger	M			58	hasič	Bohuňovice	99	80	A
-7102	500852	1	1	902	14	Gustav	Streck	M			64	živnostník	Bohuňovice	99	80	A
-7102	500852	1	1	902	15	Václav	Johanes	M	Ing.		67	živnostník	Bohuňovice	99	80	A
-7102	500852	1	2	901	1	Josef	Fryčák	M	RNDr.		62	starosta obce Bohuňovice	Bohuňovice	99	80	A
-7102	500852	1	2	901	2	Jitka	Stužková	F	Mgr.		48	středoškolský pedagog	Bohuňovice	99	80	A
-7102	500852	1	2	901	3	Miroslava	Müllerová	F	Ing. Mgr.		61	tlumočnice	Bohuňovice	99	80	A
-7102	500852	1	2	901	4	Miroslav	Hampl	M	Ing.		65	ředitel ZD Bohuňovice	Bohuňovice	99	80	A
-7102	500852	1	2	901	5	Radek	Pazdera	M	Ing.		51	vedoucí projektu	Bohuňovice	99	80	A
-7102	500852	1	2	901	6	Danuše	Nevtípilová	F			56	prodavačka	Bohuňovice	99	80	A
-7102	500852	1	2	901	7	Jiří	Kamarád	M			41	podnikatel	Bohuňovice	99	80	A
-7102	500852	1	2	901	8	Jana	Kráčmarová	F	Ing. arch.		41	architekt	Bohuňovice	99	80	A
-7102	500852	1	2	901	9	Jana	Gürtlerová	F	Ing.		55	ekonom	Bohuňovice	99	80	A
-7102	500852	1	2	901	10	Vladimíra	Gadasová	F	Ing.		46	odb. referent životního prostředí	Bohuňovice	99	80	A
-7102	500852	1	2	901	11	Petr	Ambrozek	M			43	podnikatel	Bohuňovice	99	80	A
-7102	500852	1	2	901	12	Kateřina	Mašľárová	F	Mgr.		37	učitelka	Bohuňovice	99	80	A
-7102	500852	1	2	901	13	Petra	Krajčová	F	Ing.		36	stavební inženýr	Bohuňovice	99	80	A
-7102	500852	1	2	901	14	Žaneta	Fryčáková	F	Mgr.		50	ředitelka ZŠ a MŠ Jívová	Bohuňovice	99	80	A
-7102	500852	1	2	901	15	Jana	Matonová	F			58	podnikatelka	Bohuňovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	500852	1	1	902	1	Jiří	Slepica	Mgr.		61	místostarosta obce	Bohuňovice	99	80	A	M
+7102	500852	1	2	901	1	Josef	Fryčák	RNDr.		62	starosta obce Bohuňovice	Bohuňovice	99	80	A	M
+7102	500852	1	1	902	2	Iveta	Nováková	Mgr.		52	učitelka	Bohuňovice	99	80	A	F
+7102	500852	1	2	901	2	Jitka	Stužková	Mgr.		48	středoškolský pedagog	Bohuňovice	99	80	A	F
+7102	500852	1	1	902	3	Tomáš	Římský			47	programátor	Bohuňovice	99	80	A	M
+7102	500852	1	2	901	3	Miroslava	Müllerová	Ing. Mgr.		61	tlumočnice	Bohuňovice	99	80	A	F
+7102	500852	1	1	902	4	Josef	Drška	Ing.		58	technik	Bohuňovice	99	80	A	M
+7102	500852	1	2	901	4	Miroslav	Hampl	Ing.		65	ředitel ZD Bohuňovice	Bohuňovice	99	80	A	M
+7102	500852	1	1	902	5	Radka	Zetková			47	vedoucí pokladen	Bohuňovice	99	80	A	F
+7102	500852	1	2	901	5	Radek	Pazdera	Ing.		51	vedoucí projektu	Bohuňovice	99	80	A	M
+7102	500852	1	1	902	6	Jan	Řapek			35	údržbář	Bohuňovice	99	80	A	M
+7102	500852	1	2	901	6	Danuše	Nevtípilová			56	prodavačka	Bohuňovice	99	80	A	F
+7102	500852	1	1	902	7	Miroslav	Spáčil			45	zámečník	Bohuňovice	99	80	A	M
+7102	500852	1	2	901	7	Jiří	Kamarád			41	podnikatel	Bohuňovice	99	80	A	M
+7102	500852	1	1	902	8	Pavel	Siegl			69	důchodce	Bohuňovice	99	80	A	M
+7102	500852	1	2	901	8	Jana	Kráčmarová	Ing. arch.		41	architekt	Bohuňovice	99	80	A	F
+7102	500852	1	1	902	9	Martin	Ocvirk			42	technik	Bohuňovice	99	80	A	M
+7102	500852	1	2	901	9	Jana	Gürtlerová	Ing.		55	ekonom	Bohuňovice	99	80	A	F
+7102	500852	1	1	902	10	Hana	Demelová			52	pracovnice přenosu dat	Bohuňovice	99	80	A	F
+7102	500852	1	2	901	10	Vladimíra	Gadasová	Ing.		46	odb. referent životního prostředí	Bohuňovice	99	80	A	F
+7102	500852	1	1	902	11	Pavel	Římský			61	živnostník	Bohuňovice	1	80	A	M
+7102	500852	1	2	901	11	Petr	Ambrozek			43	podnikatel	Bohuňovice	99	80	A	M
+7102	500852	1	1	902	12	Zbyněk	Cenkl			48	účetní	Bohuňovice	99	80	A	M
+7102	500852	1	2	901	12	Kateřina	Mašľárová	Mgr.		37	učitelka	Bohuňovice	99	80	A	F
+7102	500852	1	1	902	13	Oldřich	Weidinger			58	hasič	Bohuňovice	99	80	A	M
+7102	500852	1	2	901	13	Petra	Krajčová	Ing.		36	stavební inženýr	Bohuňovice	99	80	A	F
+7102	500852	1	1	902	14	Gustav	Streck			64	živnostník	Bohuňovice	99	80	A	M
+7102	500852	1	2	901	14	Žaneta	Fryčáková	Mgr.		50	ředitelka ZŠ a MŠ Jívová	Bohuňovice	99	80	A	F
+7102	500852	1	1	902	15	Václav	Johanes	Ing.		67	živnostník	Bohuňovice	99	80	A	M
+7102	500852	1	2	901	15	Jana	Matonová			58	podnikatelka	Bohuňovice	99	80	A	F

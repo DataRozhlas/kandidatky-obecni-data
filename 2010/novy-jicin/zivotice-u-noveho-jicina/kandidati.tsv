@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8104	547000	1	1	1	1	Pavel	Hasalík	M			51	starosta	Životice u Nového Jičína	99	1	0
-8104	547000	1	1	1	2	Monika	Hajná	F			38	podnikatel	Životice u Nového Jičína	1	1	0
-8104	547000	1	1	1	3	Radomír	Hlaváček	M			42	živnostník	Životice u Nového Jičína	99	1	0
-8104	547000	1	1	1	4	Markéta	Mřihladová	F			35	učitelka	Životice u Nového Jičína	99	1	0
-8104	547000	1	1	1	5	Iveta	Šugarová	F			47	učitelka	Životice u Nového Jičína	99	1	0
-8104	547000	1	1	1	6	Tomáš	Černoch	M			38	nákupčí	Životice u Nového Jičína	99	1	0
-8104	547000	1	1	1	7	Vlasta	Kroutilová	F			58	úředník	Životice u Nového Jičína	99	1	0
-8104	547000	1	1	1	8	Zdeněk	Novotný	M	Ing.		46	manažer	Životice u Nového Jičína	99	1	0
-8104	547000	1	1	1	9	Josef	Bartoň	M			64	důchodce	Životice u Nového Jičína	1	1	0
-8104	547000	1	2	902	1	Jaroslav	Pítr	M			42	vedoucí provozu	Životice u Nového Jičína	99	80	0
-8104	547000	1	2	902	2	Renata	Maková	F			41	zástupce vedoucího	Životice u Nového Jičína	99	80	0
-8104	547000	1	2	902	3	Martin	Graňák	M			38	automechanik	Životice u Nového Jičína	99	80	0
-8104	547000	1	2	902	4	Oskar	Kunc	M			30	agromechanik	Životice u Nového Jičína	99	80	0
-8104	547000	1	2	902	5	Radek	Žerdík	M			44	OSVČ	Životice u Nového Jičína	99	80	0
-8104	547000	1	2	902	6	Petra	Kubíková	F			25	studentka VŠ	Životice u Nového Jičína	99	80	0
-8104	547000	1	2	902	7	Jiří	Gold	M			29	strážník městské policie	Životice u Nového Jičína	99	80	0
-8104	547000	1	2	902	8	Stanislav	Číp	M			30	OSVČ	Životice u Nového Jičína	99	80	0
-8104	547000	1	2	902	9	Rostislav	Němec	M			57	OSVČ	Životice u Nového Jičína	99	80	0
-8104	547000	1	3	901	1	Petr	Dořičák	M			37	zámečník	Životice u Nového Jičína	99	80	0
-8104	547000	1	3	901	2	Rostislav	Jančálek	M		DiS.	38	policista	Životice u Nového Jičína	99	80	0
-8104	547000	1	3	901	3	Jindřich	Žlebek	M			53	řidič	Životice u Nového Jičína	99	80	0
-8104	547000	1	3	901	4	Pavla	Škorňová	F	Ing.		35	policistka	Životice u Nového Jičína	99	80	0
-8104	547000	1	3	901	5	Eva	Nováková	F	Ing.		35	rodičovská dovolená	Životice u Nového Jičína	99	80	0
-8104	547000	1	3	901	6	Lubomír	Černý	M			37	řidič	Životice u Nového Jičína	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8104	547000	1	1	1	1	Pavel	Hasalík			51	starosta	Životice u Nového Jičína	99	1	0	M
+8104	547000	1	2	902	1	Jaroslav	Pítr			42	vedoucí provozu	Životice u Nového Jičína	99	80	0	M
+8104	547000	1	3	901	1	Petr	Dořičák			37	zámečník	Životice u Nového Jičína	99	80	0	M
+8104	547000	1	1	1	2	Monika	Hajná			38	podnikatel	Životice u Nového Jičína	1	1	0	F
+8104	547000	1	2	902	2	Renata	Maková			41	zástupce vedoucího	Životice u Nového Jičína	99	80	0	F
+8104	547000	1	3	901	2	Rostislav	Jančálek		DiS.	38	policista	Životice u Nového Jičína	99	80	0	M
+8104	547000	1	1	1	3	Radomír	Hlaváček			42	živnostník	Životice u Nového Jičína	99	1	0	M
+8104	547000	1	2	902	3	Martin	Graňák			38	automechanik	Životice u Nového Jičína	99	80	0	M
+8104	547000	1	3	901	3	Jindřich	Žlebek			53	řidič	Životice u Nového Jičína	99	80	0	M
+8104	547000	1	1	1	4	Markéta	Mřihladová			35	učitelka	Životice u Nového Jičína	99	1	0	F
+8104	547000	1	2	902	4	Oskar	Kunc			30	agromechanik	Životice u Nového Jičína	99	80	0	M
+8104	547000	1	3	901	4	Pavla	Škorňová	Ing.		35	policistka	Životice u Nového Jičína	99	80	0	F
+8104	547000	1	1	1	5	Iveta	Šugarová			47	učitelka	Životice u Nového Jičína	99	1	0	F
+8104	547000	1	2	902	5	Radek	Žerdík			44	OSVČ	Životice u Nového Jičína	99	80	0	M
+8104	547000	1	3	901	5	Eva	Nováková	Ing.		35	rodičovská dovolená	Životice u Nového Jičína	99	80	0	F
+8104	547000	1	1	1	6	Tomáš	Černoch			38	nákupčí	Životice u Nového Jičína	99	1	0	M
+8104	547000	1	2	902	6	Petra	Kubíková			25	studentka VŠ	Životice u Nového Jičína	99	80	0	F
+8104	547000	1	3	901	6	Lubomír	Černý			37	řidič	Životice u Nového Jičína	99	80	0	M
+8104	547000	1	1	1	7	Vlasta	Kroutilová			58	úředník	Životice u Nového Jičína	99	1	0	F
+8104	547000	1	2	902	7	Jiří	Gold			29	strážník městské policie	Životice u Nového Jičína	99	80	0	M
+8104	547000	1	1	1	8	Zdeněk	Novotný	Ing.		46	manažer	Životice u Nového Jičína	99	1	0	M
+8104	547000	1	2	902	8	Stanislav	Číp			30	OSVČ	Životice u Nového Jičína	99	80	0	M
+8104	547000	1	1	1	9	Josef	Bartoň			64	důchodce	Životice u Nového Jičína	1	1	0	M
+8104	547000	1	2	902	9	Rostislav	Němec			57	OSVČ	Životice u Nového Jičína	99	80	0	M

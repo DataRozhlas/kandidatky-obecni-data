@@ -1,20 +1,20 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3105	550183	1	1	144	1	Zdeněk	Gaťák	M			55	obchodník	Dub	144	144	0
-3105	550183	1	1	144	2	Milan	Pavlovský	M	Ing.		52	středoškolský učitel	Dub	99	144	0
-3105	550183	1	1	144	3	Miloslav	Hucek	M	Ing.		63	důchodce	Dub	99	144	0
-3105	550183	1	1	144	4	Tereza	Podzimková	F			26	dělnice	Dub	99	144	0
-3105	550183	1	1	144	5	Jana	Gaťáková	F			46	sociální pracovnice	Dub	144	144	0
-3105	550183	1	1	144	6	Milada	Hucková	F			62	důchodkyně	Dub	99	144	0
-3105	550183	1	1	144	7	Lucie	Skopcová	F			28	administrativní pracovnice	Dub	99	144	0
-3105	550183	1	2	47	1	Pavel	Friš	M			22	skladník	Dub	99	47	0
-3105	550183	1	2	47	2	Václav	Lenc	M			48	izolatér	Dub	47	47	0
-3105	550183	1	2	47	3	Věra	Nováková	F			63	důchodce	Dub	47	47	0
-3105	550183	1	3	129	1	Antonín	Řádek	M			68	starosta	Dub	129	129	0
-3105	550183	1	3	129	2	Pavel	Matuška	M			42	ředitel závodu	Dub	99	129	0
-3105	550183	1	3	129	3	Dana	Žílová	F	Mgr.		53	ředitelka ZŠ	Dub	99	129	0
-3105	550183	1	3	129	4	Šárka	Otradovská	F			36	kuchařka	Dub	99	129	0
-3105	550183	1	3	129	5	Lenka	Kuklová	F			31	ped. asistentka	Dubská Lhota	99	129	0
-3105	550183	1	3	129	6	Jaroslav	Hron	M			54	zedník	Dvorec	99	129	0
-3105	550183	1	3	129	7	Václav	Novák	M			31	zedník	Dub	99	129	0
-3105	550183	1	3	129	8	Karel	Novák	M			38	řidič	Dub	99	129	0
-3105	550183	1	3	129	9	Jan	Uher	M			51	řidič	Javornice	99	129	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3105	550183	1	1	144	1	Zdeněk	Gaťák			55	obchodník	Dub	144	144	0	M
+3105	550183	1	2	47	1	Pavel	Friš			22	skladník	Dub	99	47	0	M
+3105	550183	1	3	129	1	Antonín	Řádek			68	starosta	Dub	129	129	0	M
+3105	550183	1	1	144	2	Milan	Pavlovský	Ing.		52	středoškolský učitel	Dub	99	144	0	M
+3105	550183	1	2	47	2	Václav	Lenc			48	izolatér	Dub	47	47	0	M
+3105	550183	1	3	129	2	Pavel	Matuška			42	ředitel závodu	Dub	99	129	0	M
+3105	550183	1	1	144	3	Miloslav	Hucek	Ing.		63	důchodce	Dub	99	144	0	M
+3105	550183	1	2	47	3	Věra	Nováková			63	důchodce	Dub	47	47	0	F
+3105	550183	1	3	129	3	Dana	Žílová	Mgr.		53	ředitelka ZŠ	Dub	99	129	0	F
+3105	550183	1	1	144	4	Tereza	Podzimková			26	dělnice	Dub	99	144	0	F
+3105	550183	1	3	129	4	Šárka	Otradovská			36	kuchařka	Dub	99	129	0	F
+3105	550183	1	1	144	5	Jana	Gaťáková			46	sociální pracovnice	Dub	144	144	0	F
+3105	550183	1	3	129	5	Lenka	Kuklová			31	ped. asistentka	Dubská Lhota	99	129	0	F
+3105	550183	1	1	144	6	Milada	Hucková			62	důchodkyně	Dub	99	144	0	F
+3105	550183	1	3	129	6	Jaroslav	Hron			54	zedník	Dvorec	99	129	0	M
+3105	550183	1	1	144	7	Lucie	Skopcová			28	administrativní pracovnice	Dub	99	144	0	F
+3105	550183	1	3	129	7	Václav	Novák			31	zedník	Dub	99	129	0	M
+3105	550183	1	3	129	8	Karel	Novák			38	řidič	Dub	99	129	0	M
+3105	550183	1	3	129	9	Jan	Uher			51	řidič	Javornice	99	129	0	M

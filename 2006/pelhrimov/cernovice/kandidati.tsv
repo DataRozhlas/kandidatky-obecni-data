@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6103	547760	1	1	1	1	Václav	Pavlas	M			55	vedoucí lihovaru	Černovice	99	1	0
-6103	547760	1	1	1	2	Václav	Pěnka	M			48	OSVČ	Černovice	1	1	0
-6103	547760	1	1	1	3	Petr	Dvořák	M			36	vedoucí skladu	Černovice	99	1	0
-6103	547760	1	1	1	4	Václava	Šenoltová	F			51	knihovnice	Černovice	99	1	0
-6103	547760	1	1	1	5	Jan	Kolář	M	Mgr.		47	lékárník	Černovice	99	1	0
-6103	547760	1	1	1	6	Stanislava	Filipová	F			56	vychovatelka	Černovice	99	1	0
-6103	547760	1	1	1	7	Antonín	Kropáček	M			60	důchodce	Černovice	1	1	0
-6103	547760	1	1	1	8	Josef	Klimeš	M			37	OSVČ	Svatava	99	1	0
-6103	547760	1	1	1	9	Zdeněk	Zíka	M			37	OSVČ	Černovice	99	1	0
-6103	547760	1	2	129	1	Ladislav	Novotný	M	Ing.		50	starosta	Černovice	99	129	0
-6103	547760	1	2	129	2	Luboš	Milichovský	M	Mgr.		46	ředitel ÚSP	Černovice	99	129	0
-6103	547760	1	2	129	3	Radek	Hůlka	M			41	technik	Černovice	99	129	0
-6103	547760	1	2	129	4	Pavel	Krejča	M			63	učitel	Dobešov	99	129	0
-6103	547760	1	2	129	5	Jan	Kodeš	M	Ing.		45	zástupce lesního správce LČR	Černovice	99	129	0
-6103	547760	1	2	129	6	Jaroslav	Řeháček	M	Mgr.		47	učitel	Černovice	99	129	0
-6103	547760	1	2	129	7	Vladislav	Štěfl	M			31	živnostník	Černovice	99	129	0
-6103	547760	1	2	129	8	Ladislav	Svoboda	M			50	technik STK	Černovice	99	129	0
-6103	547760	1	2	129	9	Josef	Pravda	M			54	autodopravce	Černovice	99	129	0
-6103	547760	1	3	53	1	Petr	Kovanda	M	Ing.		48	podnikatel	Černovice	53	53	0
-6103	547760	1	3	53	2	Jiří	Hrubý	M			27	živnostník	Černovice	53	53	0
-6103	547760	1	3	53	3	Marta	Laudátová	F			42	kadeřnice	Černovice	99	53	0
-6103	547760	1	3	53	4	Miloslav	Paďourek	M			47	elektromechanik	Černovice	99	53	0
-6103	547760	1	3	53	5	Jiří	Vondráček	M			34	živnostník	Černovice	99	53	0
-6103	547760	1	3	53	6	Tibor	Virčík	M			45	živnostník	Černovice	99	53	0
-6103	547760	1	3	53	7	Jan	Dundr	M			48	živnostník	Černovice	99	53	0
-6103	547760	1	3	53	8	Marcela	Vránková	F			44	vychovatelka	Černovice	99	53	0
-6103	547760	1	3	53	9	Zdeněk	Bůžek	M			43	živnostník	Svatava	53	53	0
-6103	547760	1	4	7	1	Jan	Novák	M	JUDr.		59	právník, státní zaměstnanec	Černovice	99	7	0
-6103	547760	1	4	7	2	Josef	Dvořák	M	Ing.		54	lesní technik,soukr.podnikatel	Černovice	99	7	0
-6103	547760	1	4	7	3	Libor	Vilímek	M			33	vyšší soudní úředník	Černovice	99	7	0
-6103	547760	1	4	7	4	Jiří	Hůlka	M			60	záchranář,soukr.podnikatel	Černovice	99	7	0
-6103	547760	1	4	7	5	Jaroslav	Zelníček	M	PaedDr.		54	středoškolský učitel	Černovice	99	7	0
-6103	547760	1	4	7	6	Alena	Černá	F			38	vedoucí pošty	Černovice	99	7	0
-6103	547760	1	4	7	7	František	Vaněk	M			35	jednatel Česká pojišťovna	Černovice	99	7	0
-6103	547760	1	4	7	8	Petr	Podskalník	M			58	technik DÚSP	Černovice	99	7	0
-6103	547760	1	4	7	9	Jiří	Pražák	M			67	důchodce	Černovice	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6103	547760	1	1	1	1	Václav	Pavlas			55	vedoucí lihovaru	Černovice	99	1	0	M
+6103	547760	1	2	129	1	Ladislav	Novotný	Ing.		50	starosta	Černovice	99	129	0	M
+6103	547760	1	3	53	1	Petr	Kovanda	Ing.		48	podnikatel	Černovice	53	53	0	M
+6103	547760	1	4	7	1	Jan	Novák	JUDr.		59	právník, státní zaměstnanec	Černovice	99	7	0	M
+6103	547760	1	1	1	2	Václav	Pěnka			48	OSVČ	Černovice	1	1	0	M
+6103	547760	1	2	129	2	Luboš	Milichovský	Mgr.		46	ředitel ÚSP	Černovice	99	129	0	M
+6103	547760	1	3	53	2	Jiří	Hrubý			27	živnostník	Černovice	53	53	0	M
+6103	547760	1	4	7	2	Josef	Dvořák	Ing.		54	lesní technik,soukr.podnikatel	Černovice	99	7	0	M
+6103	547760	1	1	1	3	Petr	Dvořák			36	vedoucí skladu	Černovice	99	1	0	M
+6103	547760	1	2	129	3	Radek	Hůlka			41	technik	Černovice	99	129	0	M
+6103	547760	1	3	53	3	Marta	Laudátová			42	kadeřnice	Černovice	99	53	0	F
+6103	547760	1	4	7	3	Libor	Vilímek			33	vyšší soudní úředník	Černovice	99	7	0	M
+6103	547760	1	1	1	4	Václava	Šenoltová			51	knihovnice	Černovice	99	1	0	F
+6103	547760	1	2	129	4	Pavel	Krejča			63	učitel	Dobešov	99	129	0	M
+6103	547760	1	3	53	4	Miloslav	Paďourek			47	elektromechanik	Černovice	99	53	0	M
+6103	547760	1	4	7	4	Jiří	Hůlka			60	záchranář,soukr.podnikatel	Černovice	99	7	0	M
+6103	547760	1	1	1	5	Jan	Kolář	Mgr.		47	lékárník	Černovice	99	1	0	M
+6103	547760	1	2	129	5	Jan	Kodeš	Ing.		45	zástupce lesního správce LČR	Černovice	99	129	0	M
+6103	547760	1	3	53	5	Jiří	Vondráček			34	živnostník	Černovice	99	53	0	M
+6103	547760	1	4	7	5	Jaroslav	Zelníček	PaedDr.		54	středoškolský učitel	Černovice	99	7	0	M
+6103	547760	1	1	1	6	Stanislava	Filipová			56	vychovatelka	Černovice	99	1	0	F
+6103	547760	1	2	129	6	Jaroslav	Řeháček	Mgr.		47	učitel	Černovice	99	129	0	M
+6103	547760	1	3	53	6	Tibor	Virčík			45	živnostník	Černovice	99	53	0	M
+6103	547760	1	4	7	6	Alena	Černá			38	vedoucí pošty	Černovice	99	7	0	F
+6103	547760	1	1	1	7	Antonín	Kropáček			60	důchodce	Černovice	1	1	0	M
+6103	547760	1	2	129	7	Vladislav	Štěfl			31	živnostník	Černovice	99	129	0	M
+6103	547760	1	3	53	7	Jan	Dundr			48	živnostník	Černovice	99	53	0	M
+6103	547760	1	4	7	7	František	Vaněk			35	jednatel Česká pojišťovna	Černovice	99	7	0	M
+6103	547760	1	1	1	8	Josef	Klimeš			37	OSVČ	Svatava	99	1	0	M
+6103	547760	1	2	129	8	Ladislav	Svoboda			50	technik STK	Černovice	99	129	0	M
+6103	547760	1	3	53	8	Marcela	Vránková			44	vychovatelka	Černovice	99	53	0	F
+6103	547760	1	4	7	8	Petr	Podskalník			58	technik DÚSP	Černovice	99	7	0	M
+6103	547760	1	1	1	9	Zdeněk	Zíka			37	OSVČ	Černovice	99	1	0	M
+6103	547760	1	2	129	9	Josef	Pravda			54	autodopravce	Černovice	99	129	0	M
+6103	547760	1	3	53	9	Zdeněk	Bůžek			43	živnostník	Svatava	53	53	0	M
+6103	547760	1	4	7	9	Jiří	Pražák			67	důchodce	Černovice	99	7	0	M

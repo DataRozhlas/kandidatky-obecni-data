@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2102	531081	1	1	47	1	Vlastimil	Srp	M			63	technik	Broumy	47	47	0
-2102	531081	1	1	47	2	Jiří	Müller	M			64	podnikatel	Broumy	99	47	0
-2102	531081	1	1	47	3	Ladislava	Seidlová	F			62	důchodce	Broumy	47	47	0
-2102	531081	1	1	47	4	Václav	Kadeřábek	M			61	referent	Broumy	47	47	0
-2102	531081	1	1	47	5	Václav	Vlach	M			62	podnikatel	Broumy	99	47	0
-2102	531081	1	1	47	6	Rudolf	Marek	M			70	důchodce	Broumy	99	47	0
-2102	531081	1	1	47	7	Jan	Matěj	M			65	podnikatel	Broumy	99	47	0
-2102	531081	1	1	47	8	Jaroslava	Knotová	F			64	důchodce	Broumy	47	47	0
-2102	531081	1	1	47	9	Jiřina	Šleprová	F			67	důchodce	Broumy	47	47	0
-2102	531081	1	2	901	1	Petr	Ubry	M	Ing.		45	místostarosta, elektrotechnik	Broumy	99	80	0
-2102	531081	1	2	901	2	Renata	Belanská	F	Ing.		46	zdravotní laborant	Broumy	99	80	0
-2102	531081	1	2	901	3	Hana	Pavlíčková	F	Mgr.	DiS.	29	speciální pedagog	Broumy	99	80	0
-2102	531081	1	2	901	4	Jaroslav	Kučera	M	Ing.		60	vedoucí pracovník	Broumy	99	80	0
-2102	531081	1	2	901	5	Hana	Malcová	F	Mgr.		37	asistentka advokáta	Broumy	99	80	0
-2102	531081	1	2	901	6	Jana	Burešová	F			50	kadeřnice	Broumy	99	80	0
-2102	531081	1	2	901	7	Jiří	Čermoch	M			70	starosta, elektrotechnik	Broumy	99	80	0
-2102	531081	1	2	901	8	Pavel	Drab	M			45	pojišťovací makléř	Broumy	99	80	0
-2102	531081	1	2	901	9	Václav	Balvín	M	Mgr.		42	pojišťovací poradce	Broumy	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2102	531081	1	1	47	1	Vlastimil	Srp			63	technik	Broumy	47	47	0	M
+2102	531081	1	2	901	1	Petr	Ubry	Ing.		45	místostarosta, elektrotechnik	Broumy	99	80	0	M
+2102	531081	1	1	47	2	Jiří	Müller			64	podnikatel	Broumy	99	47	0	M
+2102	531081	1	2	901	2	Renata	Belanská	Ing.		46	zdravotní laborant	Broumy	99	80	0	F
+2102	531081	1	1	47	3	Ladislava	Seidlová			62	důchodce	Broumy	47	47	0	F
+2102	531081	1	2	901	3	Hana	Pavlíčková	Mgr.	DiS.	29	speciální pedagog	Broumy	99	80	0	F
+2102	531081	1	1	47	4	Václav	Kadeřábek			61	referent	Broumy	47	47	0	M
+2102	531081	1	2	901	4	Jaroslav	Kučera	Ing.		60	vedoucí pracovník	Broumy	99	80	0	M
+2102	531081	1	1	47	5	Václav	Vlach			62	podnikatel	Broumy	99	47	0	M
+2102	531081	1	2	901	5	Hana	Malcová	Mgr.		37	asistentka advokáta	Broumy	99	80	0	F
+2102	531081	1	1	47	6	Rudolf	Marek			70	důchodce	Broumy	99	47	0	M
+2102	531081	1	2	901	6	Jana	Burešová			50	kadeřnice	Broumy	99	80	0	F
+2102	531081	1	1	47	7	Jan	Matěj			65	podnikatel	Broumy	99	47	0	M
+2102	531081	1	2	901	7	Jiří	Čermoch			70	starosta, elektrotechnik	Broumy	99	80	0	M
+2102	531081	1	1	47	8	Jaroslava	Knotová			64	důchodce	Broumy	47	47	0	F
+2102	531081	1	2	901	8	Pavel	Drab			45	pojišťovací makléř	Broumy	99	80	0	M
+2102	531081	1	1	47	9	Jiřina	Šleprová			67	důchodce	Broumy	47	47	0	F
+2102	531081	1	2	901	9	Václav	Balvín	Mgr.		42	pojišťovací poradce	Broumy	99	80	0	M

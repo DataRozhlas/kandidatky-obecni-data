@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	572446	1	1	47	1	Josef	Bína	M	JUDr.		63	důchodce	Úhřetice	47	47	0
-5301	572446	1	1	47	2	Věra	Doudová	F			67	důchodce	Úhřetice	99	47	0
-5301	572446	1	1	47	3	Miloslava	Dostálová	F			65	důchodce	Úhřetice	99	47	0
-5301	572446	1	1	47	4	Petr	Vodrážka	M			67	důchodce	Úhřetice	47	47	0
-5301	572446	1	1	47	5	Jana	Doležalová	F			43	zaměstnanec	Úhřetice	99	47	0
-5301	572446	1	1	47	6	Věra	Klíčová	F			76	důchodce	Úhřetice	47	47	0
-5301	572446	1	1	47	7	Hana	Jindrová	F			53	část. invalidní důchod.	Úhřetice	99	47	0
-5301	572446	1	1	47	8	Ladislav	Hybner	M	Ing.	CSc.	84	důchodce	Úhřetice	47	47	0
-5301	572446	1	1	47	9	Ota	Sekerka	M			71	důchodce	Úhřetice	99	47	0
-5301	572446	1	2	901	1	Lenka	Pulpitová	F			42	pracovník krajského úřadu	Úhřetice	99	80	0
-5301	572446	1	2	901	2	Pavel	Víšek	M			58	živnostník	Úhřetice	99	80	0
-5301	572446	1	2	901	3	Jaroslav	Kopista	M	Ing.		58	soukromý zemědělec	Úhřetice	99	80	0
-5301	572446	1	2	901	4	Drahomíra	Tlapáková	F			57	kuchařka	Úhřetice	99	80	0
-5301	572446	1	2	901	5	Vítězslav	Němec	M			70	důchodce	Úhřetice	99	80	0
-5301	572446	1	2	901	6	Eva	Baťková	F			45	pracovník krajského úřadu	Úhřetice	99	80	0
-5301	572446	1	2	901	7	Martin	Hypšman	M			34	strojní zámečník	Úhřetice	99	80	0
-5301	572446	1	2	901	8	Roman	Štursa	M			32	živnostník	Úhřetice	99	80	0
-5301	572446	1	2	901	9	Pavel	Smetana	M	Ing.		36	státní zaměstnanec	Úhřetice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	572446	1	1	47	1	Josef	Bína	JUDr.		63	důchodce	Úhřetice	47	47	0	M
+5301	572446	1	2	901	1	Lenka	Pulpitová			42	pracovník krajského úřadu	Úhřetice	99	80	0	F
+5301	572446	1	1	47	2	Věra	Doudová			67	důchodce	Úhřetice	99	47	0	F
+5301	572446	1	2	901	2	Pavel	Víšek			58	živnostník	Úhřetice	99	80	0	M
+5301	572446	1	1	47	3	Miloslava	Dostálová			65	důchodce	Úhřetice	99	47	0	F
+5301	572446	1	2	901	3	Jaroslav	Kopista	Ing.		58	soukromý zemědělec	Úhřetice	99	80	0	M
+5301	572446	1	1	47	4	Petr	Vodrážka			67	důchodce	Úhřetice	47	47	0	M
+5301	572446	1	2	901	4	Drahomíra	Tlapáková			57	kuchařka	Úhřetice	99	80	0	F
+5301	572446	1	1	47	5	Jana	Doležalová			43	zaměstnanec	Úhřetice	99	47	0	F
+5301	572446	1	2	901	5	Vítězslav	Němec			70	důchodce	Úhřetice	99	80	0	M
+5301	572446	1	1	47	6	Věra	Klíčová			76	důchodce	Úhřetice	47	47	0	F
+5301	572446	1	2	901	6	Eva	Baťková			45	pracovník krajského úřadu	Úhřetice	99	80	0	F
+5301	572446	1	1	47	7	Hana	Jindrová			53	část. invalidní důchod.	Úhřetice	99	47	0	F
+5301	572446	1	2	901	7	Martin	Hypšman			34	strojní zámečník	Úhřetice	99	80	0	M
+5301	572446	1	1	47	8	Ladislav	Hybner	Ing.	CSc.	84	důchodce	Úhřetice	47	47	0	M
+5301	572446	1	2	901	8	Roman	Štursa			32	živnostník	Úhřetice	99	80	0	M
+5301	572446	1	1	47	9	Ota	Sekerka			71	důchodce	Úhřetice	99	47	0	M
+5301	572446	1	2	901	9	Pavel	Smetana	Ing.		36	státní zaměstnanec	Úhřetice	99	80	0	M

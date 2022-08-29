@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2109	599221	1	1	901	1	Jaroslav	Richter	M	Ing.		35	vedoucí provozu	Popovičky	99	80	0
-2109	599221	1	1	901	2	Marek	Kubr	M	Ing.		29	stavbyvedoucí	Chomutovice	99	80	0
-2109	599221	1	1	901	3	Miroslava	Formánková	F			39	OSVČ	Popovičky	99	80	0
-2109	599221	1	1	901	4	Renata	Stoklasová	F			34	pradlena	Chomutovice	99	80	0
-2109	599221	1	1	901	5	Petr	Doubek	M	Bc.		26	obchodní a právní asistent, student PrF ZČU	Chomutovice	99	80	0
-2109	599221	1	1	901	6	Jana	Švehlová	F			39	vedoucí fakturace	Chomutovice	99	80	0
-2109	599221	1	1	901	7	Monika	Ševčíková	F			36	hospodářka	Chomutovice	99	80	0
-2109	599221	1	1	901	8	Ivana	Štěpánková	F			36	controller	Chomutovice	99	80	0
-2109	599221	1	1	901	9	Zuzana	Filková	F			38	manažer provozního oddělení	Popovičky	99	80	0
-2109	599221	1	2	902	1	Václav	Škorpil	M			40	produkční	Popovičky	99	80	0
-2109	599221	1	2	902	2	Květa	Malinová	F			54	podnikatelka	Popovičky	99	80	0
-2109	599221	1	2	902	3	Lukáš	Otruba	M	MUDr.		50	lékař	Popovičky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2109	599221	1	1	901	1	Jaroslav	Richter	Ing.		35	vedoucí provozu	Popovičky	99	80	0	M
+2109	599221	1	2	902	1	Václav	Škorpil			40	produkční	Popovičky	99	80	0	M
+2109	599221	1	1	901	2	Marek	Kubr	Ing.		29	stavbyvedoucí	Chomutovice	99	80	0	M
+2109	599221	1	2	902	2	Květa	Malinová			54	podnikatelka	Popovičky	99	80	0	F
+2109	599221	1	1	901	3	Miroslava	Formánková			39	OSVČ	Popovičky	99	80	0	F
+2109	599221	1	2	902	3	Lukáš	Otruba	MUDr.		50	lékař	Popovičky	99	80	0	M
+2109	599221	1	1	901	4	Renata	Stoklasová			34	pradlena	Chomutovice	99	80	0	F
+2109	599221	1	1	901	5	Petr	Doubek	Bc.		26	obchodní a právní asistent, student PrF ZČU	Chomutovice	99	80	0	M
+2109	599221	1	1	901	6	Jana	Švehlová			39	vedoucí fakturace	Chomutovice	99	80	0	F
+2109	599221	1	1	901	7	Monika	Ševčíková			36	hospodářka	Chomutovice	99	80	0	F
+2109	599221	1	1	901	8	Ivana	Štěpánková			36	controller	Chomutovice	99	80	0	F
+2109	599221	1	1	901	9	Zuzana	Filková			38	manažer provozního oddělení	Popovičky	99	80	0	F

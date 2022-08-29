@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2102	531901	1	1	1	1	Ludmila	Jindrová	F			52	vodohospodář	Újezd	1	1	0
-2102	531901	1	1	1	2	Vendula	Mlejnská	F			35	administrativní pracovnice	Újezd	99	1	0
-2102	531901	1	1	1	3	Josef	Tauš	M			52	dělník	Újezd	99	1	0
-2102	531901	1	1	1	4	Jiří	Jindra	M			25	vysokoškolský student	Újezd	1	1	0
-2102	531901	1	1	1	5	Jan	Tauš	M			19	vysokoškolský student	Újezd	99	1	0
-2102	531901	1	1	1	6	Marie	Šebestová	F	Mgr.		33	středoškolský učitel	Újezd	99	1	0
-2102	531901	1	1	1	7	Martina	Jindrová	F	Ing.		26	ekonom	Újezd	99	1	0
-2102	531901	1	2	901	1	Alena	Frühaufová	F			42	starostka	Újezd	99	80	0
-2102	531901	1	2	901	2	Václav	Štich	M			48	seřizovač	Újezd	99	80	0
-2102	531901	1	2	901	3	Pavel	Procházka	M			41	vedoucí závodu	Újezd	99	80	0
-2102	531901	1	2	901	4	Petr	Leksa	M	Ing.		39	voják z povolání	Újezd	99	80	0
-2102	531901	1	2	901	5	Václav	Huml	M			34	polesný	Újezd	99	80	0
-2102	531901	1	2	901	6	Lenka	Kárová	F			36	v domácnosti	Újezd	99	80	0
-2102	531901	1	2	901	7	Zdeněk	Netrh	M			55	důchodce	Újezd	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2102	531901	1	1	1	1	Ludmila	Jindrová			52	vodohospodář	Újezd	1	1	0	F
+2102	531901	1	2	901	1	Alena	Frühaufová			42	starostka	Újezd	99	80	0	F
+2102	531901	1	1	1	2	Vendula	Mlejnská			35	administrativní pracovnice	Újezd	99	1	0	F
+2102	531901	1	2	901	2	Václav	Štich			48	seřizovač	Újezd	99	80	0	M
+2102	531901	1	1	1	3	Josef	Tauš			52	dělník	Újezd	99	1	0	M
+2102	531901	1	2	901	3	Pavel	Procházka			41	vedoucí závodu	Újezd	99	80	0	M
+2102	531901	1	1	1	4	Jiří	Jindra			25	vysokoškolský student	Újezd	1	1	0	M
+2102	531901	1	2	901	4	Petr	Leksa	Ing.		39	voják z povolání	Újezd	99	80	0	M
+2102	531901	1	1	1	5	Jan	Tauš			19	vysokoškolský student	Újezd	99	1	0	M
+2102	531901	1	2	901	5	Václav	Huml			34	polesný	Újezd	99	80	0	M
+2102	531901	1	1	1	6	Marie	Šebestová	Mgr.		33	středoškolský učitel	Újezd	99	1	0	F
+2102	531901	1	2	901	6	Lenka	Kárová			36	v domácnosti	Újezd	99	80	0	F
+2102	531901	1	1	1	7	Martina	Jindrová	Ing.		26	ekonom	Újezd	99	1	0	F
+2102	531901	1	2	901	7	Zdeněk	Netrh			55	důchodce	Újezd	99	80	0	M

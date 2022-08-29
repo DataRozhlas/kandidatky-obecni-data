@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3202	556394	1	1	901	1	Michal	Linhart	M	Mgr.		53	starosta města	Janovice nad Úhlavou	99	80	0
-3202	556394	1	1	901	2	Ladislav	Vyskočil	M	MVDr.		43	veterinární lékař	Spůle	99	80	0
-3202	556394	1	1	901	3	Ingrid	Kasíková	F	Mgr.		52	lékárnice	Janovice nad Úhlavou	99	80	0
-3202	556394	1	1	901	4	Alena	Jandová	F	Mgr.		33	vedoucí zařízení Klokánek	Janovice nad Úhlavou	99	80	0
-3202	556394	1	1	901	5	Libor	Čech	M	Bc.		41	soukromý podnikatel	Janovice nad Úhlavou	99	80	0
-3202	556394	1	1	901	6	Alena	Nosálová	F			49	ředitelka mateřské školy	Janovice nad Úhlavou	99	80	0
-3202	556394	1	1	901	7	Tomáš	Jiřík	M			33	vedoucí dopravy - dispečer	Janovice nad Úhlavou	99	80	0
-3202	556394	1	1	901	8	Jiří	Kopáček	M	Ing.		48	soukromý podnikatel	Janovice nad Úhlavou	99	80	0
-3202	556394	1	1	901	9	František	Kellnhofer	M			54	soukromý podnikatel	Rohozno	99	80	0
-3202	556394	1	2	7	1	Jaroslav	Rožeň	M	Ing.		54	podnikatel	Janovice nad Úhlavou	99	7	0
-3202	556394	1	2	7	2	Eva	Uldrychová	F			52	finanční referent	Ondřejovice	7	7	0
-3202	556394	1	2	7	3	Barbora	Mačugová	F			25	technik	Janovice nad Úhlavou	7	7	0
-3202	556394	1	2	7	4	Irena	Doležalová	F			46	účetní	Janovice nad Úhlavou	99	7	0
-3202	556394	1	2	7	5	Milan	Uldrych	M			30	skladník	Ondřejovice	7	7	0
-3202	556394	1	2	7	6	Milena	Jermanová	F			63	důchodkyně	Vacovy	99	7	0
-3202	556394	1	2	7	7	Veronika	Babková	F			24	manažerka nákupu	Janovice nad Úhlavou	99	7	0
-3202	556394	1	2	7	8	David	Šmolc	M			38	řidič MKD	Janovice nad Úhlavou	99	7	0
-3202	556394	1	2	7	9	Jitka	Vobroučková	F	Bc.		40	prodavačka	Janovice nad Úhlavou	7	7	0
-3202	556394	1	3	47	1	Milan	Taichman	M			65	důchodce	Veselí	47	47	0
-3202	556394	1	3	47	2	Vincent	Tringela	M	Ing.		59	důchodce	Petrovice	99	47	0
-3202	556394	1	3	47	3	Martin	Zdvořák	M			23	řidič	Janovice nad Úhlavou	99	47	0
-3202	556394	1	3	47	4	František	Link	M	Ing.		47	OZ - logista	Janovice nad Úhlavou	99	47	0
-3202	556394	1	3	47	5	Josef	Korčík	M			56	OSVČ - ČID	Spůle	99	47	0
-3202	556394	1	3	47	6	František	Štampach	M			41	OSVČ	Veselí	99	47	0
-3202	556394	1	3	47	7	Helena	Smolarová	F			47	vedoucí pošty	Janovice nad Úhlavou	99	47	0
-3202	556394	1	3	47	8	Marie	Bytelová	F			57	dělnice	Janovice nad Úhlavou	99	47	0
-3202	556394	1	3	47	9	Oldřich	Švaříček	M			76	důchodce	Janovice nad Úhlavou	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3202	556394	1	1	901	1	Michal	Linhart	Mgr.		53	starosta města	Janovice nad Úhlavou	99	80	0	M
+3202	556394	1	2	7	1	Jaroslav	Rožeň	Ing.		54	podnikatel	Janovice nad Úhlavou	99	7	0	M
+3202	556394	1	3	47	1	Milan	Taichman			65	důchodce	Veselí	47	47	0	M
+3202	556394	1	1	901	2	Ladislav	Vyskočil	MVDr.		43	veterinární lékař	Spůle	99	80	0	M
+3202	556394	1	2	7	2	Eva	Uldrychová			52	finanční referent	Ondřejovice	7	7	0	F
+3202	556394	1	3	47	2	Vincent	Tringela	Ing.		59	důchodce	Petrovice	99	47	0	M
+3202	556394	1	1	901	3	Ingrid	Kasíková	Mgr.		52	lékárnice	Janovice nad Úhlavou	99	80	0	F
+3202	556394	1	2	7	3	Barbora	Mačugová			25	technik	Janovice nad Úhlavou	7	7	0	F
+3202	556394	1	3	47	3	Martin	Zdvořák			23	řidič	Janovice nad Úhlavou	99	47	0	M
+3202	556394	1	1	901	4	Alena	Jandová	Mgr.		33	vedoucí zařízení Klokánek	Janovice nad Úhlavou	99	80	0	F
+3202	556394	1	2	7	4	Irena	Doležalová			46	účetní	Janovice nad Úhlavou	99	7	0	F
+3202	556394	1	3	47	4	František	Link	Ing.		47	OZ - logista	Janovice nad Úhlavou	99	47	0	M
+3202	556394	1	1	901	5	Libor	Čech	Bc.		41	soukromý podnikatel	Janovice nad Úhlavou	99	80	0	M
+3202	556394	1	2	7	5	Milan	Uldrych			30	skladník	Ondřejovice	7	7	0	M
+3202	556394	1	3	47	5	Josef	Korčík			56	OSVČ - ČID	Spůle	99	47	0	M
+3202	556394	1	1	901	6	Alena	Nosálová			49	ředitelka mateřské školy	Janovice nad Úhlavou	99	80	0	F
+3202	556394	1	2	7	6	Milena	Jermanová			63	důchodkyně	Vacovy	99	7	0	F
+3202	556394	1	3	47	6	František	Štampach			41	OSVČ	Veselí	99	47	0	M
+3202	556394	1	1	901	7	Tomáš	Jiřík			33	vedoucí dopravy - dispečer	Janovice nad Úhlavou	99	80	0	M
+3202	556394	1	2	7	7	Veronika	Babková			24	manažerka nákupu	Janovice nad Úhlavou	99	7	0	F
+3202	556394	1	3	47	7	Helena	Smolarová			47	vedoucí pošty	Janovice nad Úhlavou	99	47	0	F
+3202	556394	1	1	901	8	Jiří	Kopáček	Ing.		48	soukromý podnikatel	Janovice nad Úhlavou	99	80	0	M
+3202	556394	1	2	7	8	David	Šmolc			38	řidič MKD	Janovice nad Úhlavou	99	7	0	M
+3202	556394	1	3	47	8	Marie	Bytelová			57	dělnice	Janovice nad Úhlavou	99	47	0	F
+3202	556394	1	1	901	9	František	Kellnhofer			54	soukromý podnikatel	Rohozno	99	80	0	M
+3202	556394	1	2	7	9	Jitka	Vobroučková	Bc.		40	prodavačka	Janovice nad Úhlavou	7	7	0	F
+3202	556394	1	3	47	9	Oldřich	Švaříček			76	důchodce	Janovice nad Úhlavou	47	47	0	M

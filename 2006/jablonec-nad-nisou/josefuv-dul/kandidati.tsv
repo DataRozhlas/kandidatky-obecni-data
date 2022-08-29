@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5102	563633	1	1	7	1	Pavel	Petráček	M			31	sklář	Dolní Maxov	7	7	0
-5102	563633	1	1	7	2	Petr	Petráček	M			34	vedoucí zimního střediska	Josefův Důl	99	7	0
-5102	563633	1	1	7	3	Zdeněk	Petržela	M			31	sklář	Antonínov	7	7	0
-5102	563633	1	1	7	4	Jiří	Kalenda	M			50	zámečník	Dolní Maxov	7	7	0
-5102	563633	1	1	7	5	Petra	Slavíková	F			26	prodavačka	Dolní Maxov	99	7	0
-5102	563633	1	1	7	6	Bohumila	Blažejová	F			49	dělnice	Dolní Maxov	7	7	0
-5102	563633	1	1	7	7	Karin	Horecká	F			30	dělnice	Dolní Maxov	99	7	0
-5102	563633	1	1	7	8	Michaela	Seidlová	F			19	studentka	Dolní Maxov	7	7	0
-5102	563633	1	1	7	9	Jaroslava	Zmrzlá	F			65	důchodkyně	Dolní Maxov	99	7	0
-5102	563633	1	2	901	1	Jan	Miksa	M			52	starosta Obce Josefův Důl	Josefův Důl	99	80	0
-5102	563633	1	2	901	2	Karel	Stuchlík	M	MUDr.		41	praktický lékař	Dolní Maxov	99	80	0
-5102	563633	1	2	901	3	Roman	Šťastný	M			47	technik	Josefův Důl	99	80	0
-5102	563633	1	2	901	4	Milena	Darsová	F			48	podnikatelka	Josefův Důl	99	80	0
-5102	563633	1	2	901	5	Miloš	Rydval	M	Ing.		52	podnikatel	Dolní Maxov	99	80	0
-5102	563633	1	2	901	6	Jaromír	Poledňák	M	Ing.		46	podnikatel	Dolní Maxov	99	80	0
-5102	563633	1	2	901	7	Helena	Košteynová	F			56	důchodce	Josefův Důl	99	80	0
-5102	563633	1	2	901	8	Daniel	Hynek	M			35	dělník	Antonínov	99	80	0
-5102	563633	1	2	901	9	Michael	Harmanoš	M			27	technický pracovník	Josefův Důl	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5102	563633	1	1	7	1	Pavel	Petráček			31	sklář	Dolní Maxov	7	7	0	M
+5102	563633	1	2	901	1	Jan	Miksa			52	starosta Obce Josefův Důl	Josefův Důl	99	80	0	M
+5102	563633	1	1	7	2	Petr	Petráček			34	vedoucí zimního střediska	Josefův Důl	99	7	0	M
+5102	563633	1	2	901	2	Karel	Stuchlík	MUDr.		41	praktický lékař	Dolní Maxov	99	80	0	M
+5102	563633	1	1	7	3	Zdeněk	Petržela			31	sklář	Antonínov	7	7	0	M
+5102	563633	1	2	901	3	Roman	Šťastný			47	technik	Josefův Důl	99	80	0	M
+5102	563633	1	1	7	4	Jiří	Kalenda			50	zámečník	Dolní Maxov	7	7	0	M
+5102	563633	1	2	901	4	Milena	Darsová			48	podnikatelka	Josefův Důl	99	80	0	F
+5102	563633	1	1	7	5	Petra	Slavíková			26	prodavačka	Dolní Maxov	99	7	0	F
+5102	563633	1	2	901	5	Miloš	Rydval	Ing.		52	podnikatel	Dolní Maxov	99	80	0	M
+5102	563633	1	1	7	6	Bohumila	Blažejová			49	dělnice	Dolní Maxov	7	7	0	F
+5102	563633	1	2	901	6	Jaromír	Poledňák	Ing.		46	podnikatel	Dolní Maxov	99	80	0	M
+5102	563633	1	1	7	7	Karin	Horecká			30	dělnice	Dolní Maxov	99	7	0	F
+5102	563633	1	2	901	7	Helena	Košteynová			56	důchodce	Josefův Důl	99	80	0	F
+5102	563633	1	1	7	8	Michaela	Seidlová			19	studentka	Dolní Maxov	7	7	0	F
+5102	563633	1	2	901	8	Daniel	Hynek			35	dělník	Antonínov	99	80	0	M
+5102	563633	1	1	7	9	Jaroslava	Zmrzlá			65	důchodkyně	Dolní Maxov	99	7	0	F
+5102	563633	1	2	901	9	Michael	Harmanoš			27	technický pracovník	Josefův Důl	99	80	0	M

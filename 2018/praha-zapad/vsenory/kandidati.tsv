@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	539856	1	1	801	1	Alena	Sahánková	F	Mgr.		65	zajišťování a zprac. odborných informací ve VS	Všenory	99	80	A
-2110	539856	1	2	901	1	Lenka	Nejedlíková	F	Bc.		46	stavební technik	Všenory	99	80	A
-2110	539856	1	2	901	2	Michal	Butovič	M	Bc.		59	kriminalista	Všenory	99	80	A
-2110	539856	1	2	901	3	Tomáš	Švec	M			45	programátor	Všenory	99	80	A
-2110	539856	1	2	901	4	Roman	Štěrba	M	Ing.		56	podnikatel	Všenory	99	80	A
-2110	539856	1	2	901	5	Martin	Mašát	M	Ing.		50	ekonom	Všenory	99	80	A
-2110	539856	1	2	901	6	Michaela	Formánková	F	MUDr.		52	praktický lékař	Všenory	99	80	A
-2110	539856	1	2	901	7	Kateřina	Samojská	F	Mgr.	Ph.D.	48	stavební historik/památkář	Všenory	5	80	A
-2110	539856	1	2	901	8	Helena	Jahelková	F	Mgr.	Ph.D.	39	zoolog	Všenory	99	80	A
-2110	539856	1	2	901	9	Jan	Kahoun	M			51	technik	Všenory	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	539856	1	1	801	1	Alena	Sahánková	Mgr.		65	zajišťování a zprac. odborných informací ve VS	Všenory	99	80	A	F
+2110	539856	1	2	901	1	Lenka	Nejedlíková	Bc.		46	stavební technik	Všenory	99	80	A	F
+2110	539856	1	2	901	2	Michal	Butovič	Bc.		59	kriminalista	Všenory	99	80	A	M
+2110	539856	1	2	901	3	Tomáš	Švec			45	programátor	Všenory	99	80	A	M
+2110	539856	1	2	901	4	Roman	Štěrba	Ing.		56	podnikatel	Všenory	99	80	A	M
+2110	539856	1	2	901	5	Martin	Mašát	Ing.		50	ekonom	Všenory	99	80	A	M
+2110	539856	1	2	901	6	Michaela	Formánková	MUDr.		52	praktický lékař	Všenory	99	80	A	F
+2110	539856	1	2	901	7	Kateřina	Samojská	Mgr.	Ph.D.	48	stavební historik/památkář	Všenory	5	80	A	F
+2110	539856	1	2	901	8	Helena	Jahelková	Mgr.	Ph.D.	39	zoolog	Všenory	99	80	A	F
+2110	539856	1	2	901	9	Jan	Kahoun			51	technik	Všenory	99	80	A	M

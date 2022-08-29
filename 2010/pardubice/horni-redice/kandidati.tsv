@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5302	575011	1	1	166	1	Jiří	Kosel	M	Ing.		55	starosta obce	Horní Ředice	99	166	0
-5302	575011	1	1	166	2	Václav	Bažant	M			59	vedoucí prac. čety	Horní Ředice	99	166	0
-5302	575011	1	1	166	3	Blanka	Černíková	F			32	asistentka děkana UP	Horní Ředice	99	166	0
-5302	575011	1	1	166	4	Aleš	Hlávka	M	MUDr.		35	lékař	Horní Ředice	99	166	0
-5302	575011	1	1	166	5	Josef	Hrdý	M			65	důchodce	Horní Ředice	99	166	0
-5302	575011	1	1	166	6	Ivona	Kopová	F	Ing.		47	podnikatelka	Horní Ředice	99	166	0
-5302	575011	1	1	166	7	Zuzana	Kvapilová	F			33	mateřská dovolená	Horní Ředice	99	166	0
-5302	575011	1	1	166	8	Jaroslav	Lohniský	M	Ing.		35	projektant	Horní Ředice	99	166	0
-5302	575011	1	1	166	9	Pavel	Netušil	M			37	podnikatel	Horní Ředice	99	166	0
-5302	575011	1	1	166	10	Martin	Pícha	M	Ing.		30	agronom	Horní Ředice	99	166	0
-5302	575011	1	1	166	11	Petr	Poledno	M			52	automechanik	Horní Ředice	99	166	0
-5302	575011	1	1	166	12	Ivana	Slabá	F			47	učitelka MŠ	Horní Ředice	99	166	0
-5302	575011	1	1	166	13	Radomír	Theimer	M			41	podnikatel	Horní Ředice	99	166	0
-5302	575011	1	1	166	14	Jiří	Trojan	M			39	soukromý zemědělec	Horní Ředice	99	166	0
-5302	575011	1	1	166	15	Jaromír	Šedivý	M			47	vedoucí výroby	Horní Ředice	99	166	0
-5302	575011	1	2	901	1	Hana	Shánělová	F	Bc.		35	prodavačka	Horní Ředice	99	80	0
-5302	575011	1	2	901	2	Václav	Štěpánek ml.	M			33	vedoucí logistiky	Horní Ředice	99	80	0
-5302	575011	1	2	901	3	Petr	Jelínek	M			47	osoba samostat.výdělečně činná	Horní Ředice	99	80	0
-5302	575011	1	2	901	4	Zdeňka	Košťálová	F	Ing.		40	úřednice magistrátu	Horní Ředice	99	80	0
-5302	575011	1	2	901	5	Tomáš	Pamánek	M			39	obchodní zástupce	Horní Ředice	99	80	0
-5302	575011	1	2	901	6	Miroslav	Petera	M			29	pracovník logistiky	Horní Ředice	99	80	0
-5302	575011	1	2	901	7	David	Kunát	M		dipl. technik	36	manager kvality	Horní Ředice	99	80	0
-5302	575011	1	2	901	8	Pavel	Melč	M			37	osoba samostat.výdělečně činná	Horní Ředice	99	80	0
-5302	575011	1	2	901	9	Miroslav	Hrdý	M			35	osoba samostat.výdělečně činná	Horní Ředice	99	80	0
-5302	575011	1	2	901	10	Jiří	Potůček	M			36	konstruktér	Horní Ředice	99	80	0
-5302	575011	1	2	901	11	Ladislav	Poledno	M			40	osoba samostat.výdělečně činná	Horní Ředice	99	80	0
-5302	575011	1	2	901	12	Zuzana	Morávková	F			35	obchodní zástupce	Horní Ředice	99	80	1
-5302	575011	1	2	901	13	Jiří	Machatý	M	Bc.		23	student	Horní Ředice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5302	575011	1	1	166	1	Jiří	Kosel	Ing.		55	starosta obce	Horní Ředice	99	166	0	M
+5302	575011	1	2	901	1	Hana	Shánělová	Bc.		35	prodavačka	Horní Ředice	99	80	0	F
+5302	575011	1	1	166	2	Václav	Bažant			59	vedoucí prac. čety	Horní Ředice	99	166	0	M
+5302	575011	1	2	901	2	Václav	Štěpánek ml.			33	vedoucí logistiky	Horní Ředice	99	80	0	M
+5302	575011	1	1	166	3	Blanka	Černíková			32	asistentka děkana UP	Horní Ředice	99	166	0	F
+5302	575011	1	2	901	3	Petr	Jelínek			47	osoba samostat.výdělečně činná	Horní Ředice	99	80	0	M
+5302	575011	1	1	166	4	Aleš	Hlávka	MUDr.		35	lékař	Horní Ředice	99	166	0	M
+5302	575011	1	2	901	4	Zdeňka	Košťálová	Ing.		40	úřednice magistrátu	Horní Ředice	99	80	0	F
+5302	575011	1	1	166	5	Josef	Hrdý			65	důchodce	Horní Ředice	99	166	0	M
+5302	575011	1	2	901	5	Tomáš	Pamánek			39	obchodní zástupce	Horní Ředice	99	80	0	M
+5302	575011	1	1	166	6	Ivona	Kopová	Ing.		47	podnikatelka	Horní Ředice	99	166	0	F
+5302	575011	1	2	901	6	Miroslav	Petera			29	pracovník logistiky	Horní Ředice	99	80	0	M
+5302	575011	1	1	166	7	Zuzana	Kvapilová			33	mateřská dovolená	Horní Ředice	99	166	0	F
+5302	575011	1	2	901	7	David	Kunát		dipl. technik	36	manager kvality	Horní Ředice	99	80	0	M
+5302	575011	1	1	166	8	Jaroslav	Lohniský	Ing.		35	projektant	Horní Ředice	99	166	0	M
+5302	575011	1	2	901	8	Pavel	Melč			37	osoba samostat.výdělečně činná	Horní Ředice	99	80	0	M
+5302	575011	1	1	166	9	Pavel	Netušil			37	podnikatel	Horní Ředice	99	166	0	M
+5302	575011	1	2	901	9	Miroslav	Hrdý			35	osoba samostat.výdělečně činná	Horní Ředice	99	80	0	M
+5302	575011	1	1	166	10	Martin	Pícha	Ing.		30	agronom	Horní Ředice	99	166	0	M
+5302	575011	1	2	901	10	Jiří	Potůček			36	konstruktér	Horní Ředice	99	80	0	M
+5302	575011	1	1	166	11	Petr	Poledno			52	automechanik	Horní Ředice	99	166	0	M
+5302	575011	1	2	901	11	Ladislav	Poledno			40	osoba samostat.výdělečně činná	Horní Ředice	99	80	0	M
+5302	575011	1	1	166	12	Ivana	Slabá			47	učitelka MŠ	Horní Ředice	99	166	0	F
+5302	575011	1	2	901	12	Zuzana	Morávková			35	obchodní zástupce	Horní Ředice	99	80	1	F
+5302	575011	1	1	166	13	Radomír	Theimer			41	podnikatel	Horní Ředice	99	166	0	M
+5302	575011	1	2	901	13	Jiří	Machatý	Bc.		23	student	Horní Ředice	99	80	0	M
+5302	575011	1	1	166	14	Jiří	Trojan			39	soukromý zemědělec	Horní Ředice	99	166	0	M
+5302	575011	1	1	166	15	Jaromír	Šedivý			47	vedoucí výroby	Horní Ředice	99	166	0	M

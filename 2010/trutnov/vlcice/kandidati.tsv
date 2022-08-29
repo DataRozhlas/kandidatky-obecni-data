@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579823	1	1	902	1	Milan	Pecen	M			46	úředník	Vlčice	99	80	0
-5205	579823	1	1	902	2	Václav	Pelant	M			54	plně inv.důchodce	Vlčice	99	80	0
-5205	579823	1	1	902	3	Eva	Havrdová	F			37	OSVČ	Vlčice	99	80	0
-5205	579823	1	1	902	4	Bedřich	Mach	M			44	OSVČ	Vlčice	99	80	0
-5205	579823	1	1	902	5	Bořivoj	Trávníček	M			46	lesní technik	Vlčice	99	80	0
-5205	579823	1	1	902	6	Šárka	Kresanová	F			40	fakturantka - pokladní	Vlčice	99	80	0
-5205	579823	1	1	902	7	Tomáš	Cvrček	M			37	OSVČ	Vlčice	99	80	0
-5205	579823	1	1	902	8	Roman	Reil	M	Mgr.		44	ředitel archivu	Vlčice	99	80	0
-5205	579823	1	1	902	9	Dagmar	Nesládková	F			28	úředník	Vlčice	99	80	0
-5205	579823	1	2	47	1	Jan	Horký	M			55	elektromechanik	Vlčice	47	47	0
-5205	579823	1	2	47	2	Jiří	Ondráček	M			55	mechanik seřiz.	Vlčice	47	47	0
-5205	579823	1	2	47	3	Karel	Petr	M			55	opravář	Vlčice	47	47	0
-5205	579823	1	2	47	4	Hana	Machalíková	F			59	elektromechanik	Vlčice	99	47	0
-5205	579823	1	2	47	5	Jan	Horký	M			33	elektromechanik	Vlčice	47	47	0
-5205	579823	1	2	47	6	Miloš	Rozkovec	M			55	důchodce	Vlčice	99	47	0
-5205	579823	1	2	47	7	Pavel	Husa	M			63	důchodce	Vlčice	47	47	0
-5205	579823	1	2	47	8	Pavel	Procházka	M			36	zem. podnikatel	Vlčice	99	47	0
-5205	579823	1	3	901	1	Ladislav	Obst	M			40	řidič / údržbář	Vlčice	99	80	0
-5205	579823	1	3	901	2	Pavla	Ježková	F	Ing.		36	financial controller (nyní RD)	Vlčice	99	80	0
-5205	579823	1	3	901	3	Pavel	Turičík	M	Ing.		42	firemní poradce	Vlčice	99	80	0
-5205	579823	1	3	901	4	Pavlína	Pechanová	F			36	účetní	Vlčice	99	80	0
-5205	579823	1	3	901	5	Jitka	Šafářová	F			48	vedoucí učitelka MŠ,ved.š.jíd.	Vlčice	99	80	0
-5205	579823	1	3	901	6	Jan	Šafář	M		DiS.	26	projektant v obor.stavebnictví	Vlčice	99	80	0
-5205	579823	1	3	901	7	Naděžda	Vlčková	F			37	odborný ekonom (nyní na RD)	Vlčice	99	80	0
-5205	579823	1	3	901	8	Adéla	Obstová	F			18	studentka	Vlčice	99	80	0
-5205	579823	1	3	901	9	Lukáš	Hudík	M			27	řidič / údržbář	Vlčice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579823	1	1	902	1	Milan	Pecen			46	úředník	Vlčice	99	80	0	M
+5205	579823	1	2	47	1	Jan	Horký			55	elektromechanik	Vlčice	47	47	0	M
+5205	579823	1	3	901	1	Ladislav	Obst			40	řidič / údržbář	Vlčice	99	80	0	M
+5205	579823	1	1	902	2	Václav	Pelant			54	plně inv.důchodce	Vlčice	99	80	0	M
+5205	579823	1	2	47	2	Jiří	Ondráček			55	mechanik seřiz.	Vlčice	47	47	0	M
+5205	579823	1	3	901	2	Pavla	Ježková	Ing.		36	financial controller (nyní RD)	Vlčice	99	80	0	F
+5205	579823	1	1	902	3	Eva	Havrdová			37	OSVČ	Vlčice	99	80	0	F
+5205	579823	1	2	47	3	Karel	Petr			55	opravář	Vlčice	47	47	0	M
+5205	579823	1	3	901	3	Pavel	Turičík	Ing.		42	firemní poradce	Vlčice	99	80	0	M
+5205	579823	1	1	902	4	Bedřich	Mach			44	OSVČ	Vlčice	99	80	0	M
+5205	579823	1	2	47	4	Hana	Machalíková			59	elektromechanik	Vlčice	99	47	0	F
+5205	579823	1	3	901	4	Pavlína	Pechanová			36	účetní	Vlčice	99	80	0	F
+5205	579823	1	1	902	5	Bořivoj	Trávníček			46	lesní technik	Vlčice	99	80	0	M
+5205	579823	1	2	47	5	Jan	Horký			33	elektromechanik	Vlčice	47	47	0	M
+5205	579823	1	3	901	5	Jitka	Šafářová			48	vedoucí učitelka MŠ,ved.š.jíd.	Vlčice	99	80	0	F
+5205	579823	1	1	902	6	Šárka	Kresanová			40	fakturantka - pokladní	Vlčice	99	80	0	F
+5205	579823	1	2	47	6	Miloš	Rozkovec			55	důchodce	Vlčice	99	47	0	M
+5205	579823	1	3	901	6	Jan	Šafář		DiS.	26	projektant v obor.stavebnictví	Vlčice	99	80	0	M
+5205	579823	1	1	902	7	Tomáš	Cvrček			37	OSVČ	Vlčice	99	80	0	M
+5205	579823	1	2	47	7	Pavel	Husa			63	důchodce	Vlčice	47	47	0	M
+5205	579823	1	3	901	7	Naděžda	Vlčková			37	odborný ekonom (nyní na RD)	Vlčice	99	80	0	F
+5205	579823	1	1	902	8	Roman	Reil	Mgr.		44	ředitel archivu	Vlčice	99	80	0	M
+5205	579823	1	2	47	8	Pavel	Procházka			36	zem. podnikatel	Vlčice	99	47	0	M
+5205	579823	1	3	901	8	Adéla	Obstová			18	studentka	Vlčice	99	80	0	F
+5205	579823	1	1	902	9	Dagmar	Nesládková			28	úředník	Vlčice	99	80	0	F
+5205	579823	1	3	901	9	Lukáš	Hudík			27	řidič / údržbář	Vlčice	99	80	0	M

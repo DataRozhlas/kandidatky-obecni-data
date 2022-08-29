@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7203	542768	1	1	1	1	Josef	Surý	M	Ing.		54	OSVČ	Hovězí	1	1	0
-7203	542768	1	1	1	2	Michal	Kovář	M	Mgr.		42	správce počítačové sítě	Hovězí	99	1	0
-7203	542768	1	1	1	3	Josef	Jakubkovič	M	Mgr.		42	učitel	Hovězí	1	1	0
-7203	542768	1	1	1	4	Antonín	Putala	M	Ing.		48	úředník KÚ	Hovězí	1	1	0
-7203	542768	1	1	1	5	Aleš	Gnida	M	Mgr.		38	právník	Hovězí	1	1	0
-7203	542768	1	1	1	6	Dominik	Chrástecký	M	Ing.		42	dispečer	Hovězí	1	1	0
-7203	542768	1	1	1	7	Antonie	Kneblová	F			61	důchodce	Hovězí	1	1	0
-7203	542768	1	1	1	8	Zdislava	Chrástecká	F			43	zdravotní sestra	Hovězí	1	1	0
-7203	542768	1	1	1	9	Josef	Mazáč	M	Ing.		64	důchodce	Hovězí	1	1	0
-7203	542768	1	1	1	10	Josef	Borák	M			63	důchodce	Hovězí	1	1	0
-7203	542768	1	1	1	11	Pavel	Fojtů	M			42	seřizovač	Hovězí	1	1	0
-7203	542768	1	1	1	12	Radek	Křenek	M	Bc.		40	manažer	Hovězí	99	1	0
-7203	542768	1	1	1	13	Jana	Štrbačková	F			66	důchodce	Hovězí	1	1	0
-7203	542768	1	1	1	14	Marta	Pončíková	F			58	důchodce	Hovězí	1	1	0
-7203	542768	1	1	1	15	Ondřej	Šrámek	M	Mgr.		34	učitel	Hovězí	99	1	0
-7203	542768	1	2	470	1	Antonín	Koňařík	M			47	starosta obce	Hovězí	99	166	0
-7203	542768	1	2	470	2	Josef	Zvěřina	M	Ing.		48	místostarosta obce	Hovězí	99	80	0
-7203	542768	1	2	470	3	Miroslav	Chmela	M			61	vedoucí provozu vodovodu	Hovězí	99	166	0
-7203	542768	1	2	470	4	Jiří	Pokorný	M	Mgr.		43	ředitel základní školy	Hovězí	99	166	0
-7203	542768	1	2	470	5	Jarmila	Surá	F			52	pečovatelka	Hovězí	99	166	0
-7203	542768	1	2	470	6	Ladislav	Kašpar	M	Ing.		56	vedoucí provozu	Hovězí	99	166	0
-7203	542768	1	2	470	7	Václav	Dvořák	M			62	starobní důchodce	Hovězí	99	166	0
-7203	542768	1	2	470	8	Tomáš	Fila	M			33	frézař	Hovězí	99	166	0
-7203	542768	1	2	470	9	Karel	Potocký	M	Mgr.		66	starobní důchodce	Hovězí	99	166	0
-7203	542768	1	2	470	10	Josef	Hrňa	M			49	podnikatel	Hovězí	99	166	0
-7203	542768	1	2	470	11	Marie	Tkadlecová	F			67	projektantka	Hovězí	99	166	0
-7203	542768	1	2	470	12	Evžen	Táborský	M	Ing.		43	hasič - velitel čety	Hovězí	99	166	0
-7203	542768	1	2	470	13	Jiří	Durmon	M	MVDr.		43	zvěrolékař	Hovězí	99	166	0
-7203	542768	1	2	470	14	Josef	Václavík	M			55	malíř	Hovězí	99	166	0
-7203	542768	1	2	470	15	Josef	Kašpar	M			49	technik STK	Hovězí	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7203	542768	1	1	1	1	Josef	Surý	Ing.		54	OSVČ	Hovězí	1	1	0	M
+7203	542768	1	2	470	1	Antonín	Koňařík			47	starosta obce	Hovězí	99	166	0	M
+7203	542768	1	1	1	2	Michal	Kovář	Mgr.		42	správce počítačové sítě	Hovězí	99	1	0	M
+7203	542768	1	2	470	2	Josef	Zvěřina	Ing.		48	místostarosta obce	Hovězí	99	80	0	M
+7203	542768	1	1	1	3	Josef	Jakubkovič	Mgr.		42	učitel	Hovězí	1	1	0	M
+7203	542768	1	2	470	3	Miroslav	Chmela			61	vedoucí provozu vodovodu	Hovězí	99	166	0	M
+7203	542768	1	1	1	4	Antonín	Putala	Ing.		48	úředník KÚ	Hovězí	1	1	0	M
+7203	542768	1	2	470	4	Jiří	Pokorný	Mgr.		43	ředitel základní školy	Hovězí	99	166	0	M
+7203	542768	1	1	1	5	Aleš	Gnida	Mgr.		38	právník	Hovězí	1	1	0	M
+7203	542768	1	2	470	5	Jarmila	Surá			52	pečovatelka	Hovězí	99	166	0	F
+7203	542768	1	1	1	6	Dominik	Chrástecký	Ing.		42	dispečer	Hovězí	1	1	0	M
+7203	542768	1	2	470	6	Ladislav	Kašpar	Ing.		56	vedoucí provozu	Hovězí	99	166	0	M
+7203	542768	1	1	1	7	Antonie	Kneblová			61	důchodce	Hovězí	1	1	0	F
+7203	542768	1	2	470	7	Václav	Dvořák			62	starobní důchodce	Hovězí	99	166	0	M
+7203	542768	1	1	1	8	Zdislava	Chrástecká			43	zdravotní sestra	Hovězí	1	1	0	F
+7203	542768	1	2	470	8	Tomáš	Fila			33	frézař	Hovězí	99	166	0	M
+7203	542768	1	1	1	9	Josef	Mazáč	Ing.		64	důchodce	Hovězí	1	1	0	M
+7203	542768	1	2	470	9	Karel	Potocký	Mgr.		66	starobní důchodce	Hovězí	99	166	0	M
+7203	542768	1	1	1	10	Josef	Borák			63	důchodce	Hovězí	1	1	0	M
+7203	542768	1	2	470	10	Josef	Hrňa			49	podnikatel	Hovězí	99	166	0	M
+7203	542768	1	1	1	11	Pavel	Fojtů			42	seřizovač	Hovězí	1	1	0	M
+7203	542768	1	2	470	11	Marie	Tkadlecová			67	projektantka	Hovězí	99	166	0	F
+7203	542768	1	1	1	12	Radek	Křenek	Bc.		40	manažer	Hovězí	99	1	0	M
+7203	542768	1	2	470	12	Evžen	Táborský	Ing.		43	hasič - velitel čety	Hovězí	99	166	0	M
+7203	542768	1	1	1	13	Jana	Štrbačková			66	důchodce	Hovězí	1	1	0	F
+7203	542768	1	2	470	13	Jiří	Durmon	MVDr.		43	zvěrolékař	Hovězí	99	166	0	M
+7203	542768	1	1	1	14	Marta	Pončíková			58	důchodce	Hovězí	1	1	0	F
+7203	542768	1	2	470	14	Josef	Václavík			55	malíř	Hovězí	99	166	0	M
+7203	542768	1	1	1	15	Ondřej	Šrámek	Mgr.		34	učitel	Hovězí	99	1	0	M
+7203	542768	1	2	470	15	Josef	Kašpar			49	technik STK	Hovězí	99	80	0	M

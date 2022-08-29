@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7104	523453	1	1	901	1	Markéta	Lesáková	F		DiS.	30	administrátor	Žákovice	99	80	0
-7104	523453	1	1	901	2	Jiřina	Křížková	F			35	pracovník živočišné výroby	Žákovice	99	80	0
-7104	523453	1	1	901	3	Blažena	Jiříčková	F	Mgr.		33	učitelka	Žákovice	99	80	0
-7104	523453	1	1	901	4	Lucie	Hradilíková	F	Mgr.		26	úřednice	Žákovice	99	80	0
-7104	523453	1	1	901	5	Pavla	Zobaníková	F			39	úřednice	Žákovice	99	80	0
-7104	523453	1	1	901	6	Kateřina	Jančíková	F			31	prodavačka	Žákovice	99	80	0
-7104	523453	1	2	902	1	Josef	Mikulík	M			60	invalidní důchodce	Žákovice	99	80	0
-7104	523453	1	2	902	2	Michal	Chlápek	M			39	Soukromý podnikatel	Žákovice	768	80	0
-7104	523453	1	2	902	3	Zdeňka	Hrabalová	F			21	Učitelka MŠ	Žákovice	99	80	0
-7104	523453	1	2	902	4	Anna	Bendová	F			36	administrativní pracovnice	Žákovice	99	80	0
-7104	523453	1	2	902	5	Věra	Pecháčková	F			61	Důchodkyně	Žákovice	99	80	0
-7104	523453	1	3	903	1	Blažena	Matějíčková	F			58	odborný referent	Žákovice	99	80	0
-7104	523453	1	3	903	2	Zdeňka	Lesáková	F			57	nezaměstnaná	Žákovice	99	80	0
-7104	523453	1	3	903	3	Miroslav	Jančík	M			55	údržbář	Žákovice	99	80	0
-7104	523453	1	3	903	4	Miroslav	Křížek	M			38	soukromý zemědělec	Žákovice	99	80	0
-7104	523453	1	3	903	5	Jana	Sigmundová	F			66	důchodce	Žákovice	99	80	0
-7104	523453	1	4	181	1	Zdeněk	Lesák	M			65	důchodce	Žákovice	99	181	0
-7104	523453	1	4	181	2	Daniel	Hradil	M			39	kuchař	Žákovice	99	181	0
-7104	523453	1	4	181	3	Rostislav	Gříšek	M			52	montér ocelových konstrukcí	Žákovice	99	181	0
-7104	523453	1	4	181	4	František	Buchta	M			52	zámečník, svářeč	Žákovice	99	181	0
-7104	523453	1	4	181	5	Martin	Mikulík	M			36	obchodní zástupce	Žákovice	99	181	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7104	523453	1	1	901	1	Markéta	Lesáková		DiS.	30	administrátor	Žákovice	99	80	0	F
+7104	523453	1	2	902	1	Josef	Mikulík			60	invalidní důchodce	Žákovice	99	80	0	M
+7104	523453	1	3	903	1	Blažena	Matějíčková			58	odborný referent	Žákovice	99	80	0	F
+7104	523453	1	4	181	1	Zdeněk	Lesák			65	důchodce	Žákovice	99	181	0	M
+7104	523453	1	1	901	2	Jiřina	Křížková			35	pracovník živočišné výroby	Žákovice	99	80	0	F
+7104	523453	1	2	902	2	Michal	Chlápek			39	Soukromý podnikatel	Žákovice	768	80	0	M
+7104	523453	1	3	903	2	Zdeňka	Lesáková			57	nezaměstnaná	Žákovice	99	80	0	F
+7104	523453	1	4	181	2	Daniel	Hradil			39	kuchař	Žákovice	99	181	0	M
+7104	523453	1	1	901	3	Blažena	Jiříčková	Mgr.		33	učitelka	Žákovice	99	80	0	F
+7104	523453	1	2	902	3	Zdeňka	Hrabalová			21	Učitelka MŠ	Žákovice	99	80	0	F
+7104	523453	1	3	903	3	Miroslav	Jančík			55	údržbář	Žákovice	99	80	0	M
+7104	523453	1	4	181	3	Rostislav	Gříšek			52	montér ocelových konstrukcí	Žákovice	99	181	0	M
+7104	523453	1	1	901	4	Lucie	Hradilíková	Mgr.		26	úřednice	Žákovice	99	80	0	F
+7104	523453	1	2	902	4	Anna	Bendová			36	administrativní pracovnice	Žákovice	99	80	0	F
+7104	523453	1	3	903	4	Miroslav	Křížek			38	soukromý zemědělec	Žákovice	99	80	0	M
+7104	523453	1	4	181	4	František	Buchta			52	zámečník, svářeč	Žákovice	99	181	0	M
+7104	523453	1	1	901	5	Pavla	Zobaníková			39	úřednice	Žákovice	99	80	0	F
+7104	523453	1	2	902	5	Věra	Pecháčková			61	Důchodkyně	Žákovice	99	80	0	F
+7104	523453	1	3	903	5	Jana	Sigmundová			66	důchodce	Žákovice	99	80	0	F
+7104	523453	1	4	181	5	Martin	Mikulík			36	obchodní zástupce	Žákovice	99	181	0	M
+7104	523453	1	1	901	6	Kateřina	Jančíková			31	prodavačka	Žákovice	99	80	0	F

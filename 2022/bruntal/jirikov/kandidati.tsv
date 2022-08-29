@@ -1,38 +1,38 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	597457	1	1	901	1	Michal	Šopík	M			36	skladník	Jiříkov	99	80	A
-8101	597457	1	1	901	2	Kateřina	Kohutová	F			49	prodavač	Jiříkov	99	80	A
-8101	597457	1	1	901	3	Martin	Michalik	M			29	OSVČ	Jiříkov	99	80	A
-8101	597457	1	1	901	4	Zdeněk	Kozub	M			46	OSVČ	Sovinec	99	80	A
-8101	597457	1	1	901	5	Robert	Mareček	M			46	OSVČ	Sovinec	99	80	A
-8101	597457	1	1	901	6	Ester	Valová	F			30	OSVČ	Kněžpole	99	80	A
-8101	597457	1	1	901	7	Tomáš	Štefanec	M			39	OSVČ	Jiříkov	99	80	A
-8101	597457	1	1	901	8	Josef	Hýbl	M			65	důchodce	Sovinec	99	80	A
-8101	597457	1	1	901	9	Bohumil	Hrnčíř	M			72	starosta	Jiříkov	99	80	A
-8101	597457	1	2	902	1	Naděžda	Šedá	F			67	podnikatel	Jiříkov	99	80	A
-8101	597457	1	2	902	2	Štefan	Búš	M			85	důchodce	Křížov	99	80	A
-8101	597457	1	2	902	3	Radim	Šedý	M			45	traktorista	Jiříkov	99	80	A
-8101	597457	1	2	902	4	Jaroslav	Stančík	M			42	zaměstnanec	Kněžpole	99	80	A
-8101	597457	1	2	902	5	Pavel	Janků	M			77	důchodce	Jiříkov	99	80	A
-8101	597457	1	3	904	1	Jaromír	Kubelka	M			40	pracovník v přímé péči	Těchanov	99	80	A
-8101	597457	1	3	904	2	Petr	Michalik	M			25	lesní dělník	Těchanov	99	80	A
-8101	597457	1	3	904	3	František	Michalík	M			31	OSVČ	Jiříkov	99	80	A
-8101	597457	1	3	904	4	Ladislav	Mako	M			39	grafik	Kněžpole	99	80	A
-8101	597457	1	3	904	5	Rudolf	Sedlák	M			52	strojní technik	Těchanov	99	80	A
-8101	597457	1	4	903	1	Barbora	Škrbelová Krátká	F	Ing.		54	kavárnice	Jiříkov	99	80	A
-8101	597457	1	4	903	2	Martin	Zatloukal	M			48	datový analytik	Křížov	99	80	A
-8101	597457	1	4	903	3	Vendula	Havranová	F	Bc.		23	studentka	Jiříkov	99	80	A
-8101	597457	1	4	903	4	Tomáš	Holíček	M			45	pedagog	Sovinec	99	80	A
-8101	597457	1	4	903	5	Petra	Kociánová	F			49	recepční	Křížov	99	80	A
-8101	597457	1	4	903	6	Roman	Šamu	M			46	zdravotní bratr	Křížov	99	80	A
-8101	597457	1	4	903	7	Jana	Flámová	F			50	samostatně hospodařící rolník	Křížov	99	80	A
-8101	597457	1	4	903	8	Jiří	Tomáš	M	Ing.		42	manažer	Jiříkov	99	80	A
-8101	597457	1	4	903	9	Jana	Šínová	F	Ing.		32	operátorka v logistice	Sovinec	99	80	A
-8101	597457	1	5	905	1	Roman	Kvapil	M			55	vedoucí výroby	Jiříkov	99	80	A
-8101	597457	1	5	905	2	Vladimír	Kolář	M			57	údržbář	Sovinec	99	80	A
-8101	597457	1	5	905	3	Kateřina	Fryblíková	F			42	pedagog volného času	Kněžpole	99	80	A
-8101	597457	1	5	905	4	Bohumil	Tihelka	M			44	lesní dělník	Sovinec	99	80	A
-8101	597457	1	5	905	5	Jaroslava	Neumannová	F			63	důchodce	Jiříkov	99	80	A
-8101	597457	1	5	905	6	Adam	Chromý	M			22	dělník	Jiříkov	99	80	A
-8101	597457	1	5	905	7	František	Kolář	M			58	opatrovník	Sovinec	99	80	A
-8101	597457	1	5	905	8	Libuše	Gallasová	F			63	důchodce	Jiříkov	99	80	A
-8101	597457	1	5	905	9	Jan	Kvapil	M	Ing.		33	progr. analytik	Jiříkov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	597457	1	1	901	1	Michal	Šopík			36	skladník	Jiříkov	99	80	A	M
+8101	597457	1	2	902	1	Naděžda	Šedá			67	podnikatel	Jiříkov	99	80	A	F
+8101	597457	1	3	904	1	Jaromír	Kubelka			40	pracovník v přímé péči	Těchanov	99	80	A	M
+8101	597457	1	4	903	1	Barbora	Škrbelová Krátká	Ing.		54	kavárnice	Jiříkov	99	80	A	F
+8101	597457	1	5	905	1	Roman	Kvapil			55	vedoucí výroby	Jiříkov	99	80	A	M
+8101	597457	1	1	901	2	Kateřina	Kohutová			49	prodavač	Jiříkov	99	80	A	F
+8101	597457	1	2	902	2	Štefan	Búš			85	důchodce	Křížov	99	80	A	M
+8101	597457	1	3	904	2	Petr	Michalik			25	lesní dělník	Těchanov	99	80	A	M
+8101	597457	1	4	903	2	Martin	Zatloukal			48	datový analytik	Křížov	99	80	A	M
+8101	597457	1	5	905	2	Vladimír	Kolář			57	údržbář	Sovinec	99	80	A	M
+8101	597457	1	1	901	3	Martin	Michalik			29	OSVČ	Jiříkov	99	80	A	M
+8101	597457	1	2	902	3	Radim	Šedý			45	traktorista	Jiříkov	99	80	A	M
+8101	597457	1	3	904	3	František	Michalík			31	OSVČ	Jiříkov	99	80	A	M
+8101	597457	1	4	903	3	Vendula	Havranová	Bc.		23	studentka	Jiříkov	99	80	A	F
+8101	597457	1	5	905	3	Kateřina	Fryblíková			42	pedagog volného času	Kněžpole	99	80	A	F
+8101	597457	1	1	901	4	Zdeněk	Kozub			46	OSVČ	Sovinec	99	80	A	M
+8101	597457	1	2	902	4	Jaroslav	Stančík			42	zaměstnanec	Kněžpole	99	80	A	M
+8101	597457	1	3	904	4	Ladislav	Mako			39	grafik	Kněžpole	99	80	A	M
+8101	597457	1	4	903	4	Tomáš	Holíček			45	pedagog	Sovinec	99	80	A	M
+8101	597457	1	5	905	4	Bohumil	Tihelka			44	lesní dělník	Sovinec	99	80	A	M
+8101	597457	1	1	901	5	Robert	Mareček			46	OSVČ	Sovinec	99	80	A	M
+8101	597457	1	2	902	5	Pavel	Janků			77	důchodce	Jiříkov	99	80	A	M
+8101	597457	1	3	904	5	Rudolf	Sedlák			52	strojní technik	Těchanov	99	80	A	M
+8101	597457	1	4	903	5	Petra	Kociánová			49	recepční	Křížov	99	80	A	F
+8101	597457	1	5	905	5	Jaroslava	Neumannová			63	důchodce	Jiříkov	99	80	A	F
+8101	597457	1	1	901	6	Ester	Valová			30	OSVČ	Kněžpole	99	80	A	F
+8101	597457	1	4	903	6	Roman	Šamu			46	zdravotní bratr	Křížov	99	80	A	M
+8101	597457	1	5	905	6	Adam	Chromý			22	dělník	Jiříkov	99	80	A	M
+8101	597457	1	1	901	7	Tomáš	Štefanec			39	OSVČ	Jiříkov	99	80	A	M
+8101	597457	1	4	903	7	Jana	Flámová			50	samostatně hospodařící rolník	Křížov	99	80	A	F
+8101	597457	1	5	905	7	František	Kolář			58	opatrovník	Sovinec	99	80	A	M
+8101	597457	1	1	901	8	Josef	Hýbl			65	důchodce	Sovinec	99	80	A	M
+8101	597457	1	4	903	8	Jiří	Tomáš	Ing.		42	manažer	Jiříkov	99	80	A	M
+8101	597457	1	5	905	8	Libuše	Gallasová			63	důchodce	Jiříkov	99	80	A	F
+8101	597457	1	1	901	9	Bohumil	Hrnčíř			72	starosta	Jiříkov	99	80	A	M
+8101	597457	1	4	903	9	Jana	Šínová	Ing.		32	operátorka v logistice	Sovinec	99	80	A	F
+8101	597457	1	5	905	9	Jan	Kvapil	Ing.		33	progr. analytik	Jiříkov	99	80	A	M

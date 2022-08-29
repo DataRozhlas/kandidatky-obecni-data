@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	581909	1	1	903	1	Vlastislav	Hemzal	M			58	soukromý podnikatel	Lažany	99	80	0
-6201	581909	1	1	903	2	Antonín	Strážnický	M	Ing.		45	vedoucí prodeje	Lažany	99	80	0
-6201	581909	1	1	903	3	Bronislav	Čech	M			47	soukromý podnikatel	Lažany	99	80	0
-6201	581909	1	1	903	4	Jaroslav	Janko	M			52	mistr montáží	Lažany	99	80	0
-6201	581909	1	1	903	5	Radek	Musil	M	Ing.		49	vedoucí oddělení prodeje	Lažany	99	80	0
-6201	581909	1	1	903	6	Zbyněk	Bauer	M			41	zubní technik	Lažany	99	80	0
-6201	581909	1	1	903	7	Marcela	Procházková	F			44	staniční sestra Úrazové nemocnice	Lažany	7	80	0
-6201	581909	1	1	903	8	Pavel	Junec	M			27	manažer nákupu a logistiky	Lažany	99	80	0
-6201	581909	1	1	903	9	Renata	Šubrtová	F			29	produktový specialista IT	Lažany	99	80	0
-6201	581909	1	2	902	1	Jiří	Špaček	M			65	revizní technik elektro	Lažany	99	80	0
-6201	581909	1	2	902	2	Jaroslav	Raichl	M	Ing.	MSc	29	Produkt Manager IT	Lažany	99	80	0
-6201	581909	1	2	902	3	Martin	Maděránek	M			45	konstruktér	Lažany	99	80	0
-6201	581909	1	2	902	4	Jiří	Špaček	M			40	OSVČ	Lažany	99	80	0
-6201	581909	1	2	902	5	Martin	Čmel	M			36	stavbyvedoucí	Lažany	99	80	0
-6201	581909	1	2	902	6	Jana	Fillová	F		DiS.	33	Key account manager	Lažany	99	80	0
-6201	581909	1	2	902	7	Jitka	Opálková	F			31	vedoucí prodejny	Lažany	99	80	0
-6201	581909	1	2	902	8	Helena	Svobodová	F			21	student	Lažany	99	80	0
-6201	581909	1	2	902	9	Vladimír	Čudek	M	Ing.	Ph.D.	35	vedoucí konstruktér	Lažany	99	80	0
-6201	581909	1	3	901	1	Zdeněk	Skoupý	M			51	technik údržby	Lažany	99	80	0
-6201	581909	1	3	901	2	Michal	Kubát	M			36	vedoucí prodejny	Lažany	99	80	0
-6201	581909	1	3	901	3	Petr	Málek	M	Mgr.		46	státní zaměstnanec	Lažany	7	80	0
-6201	581909	1	3	901	4	Jitka	Raichlová	F			48	porodní asistentka	Lažany	99	80	0
-6201	581909	1	3	901	5	Tomáš	Uhlíř	M			25	prodavač	Lažany	99	80	0
-6201	581909	1	3	901	6	Kamila	Brichtová	F	Bc.		26	supervizorka	Lažany	99	80	0
-6201	581909	1	3	901	7	Alois	Tynkl	M			44	technik údržby	Lažany	99	80	0
-6201	581909	1	3	901	8	Pavel	Kovář	M			46	OSVČ	Lažany	99	80	0
-6201	581909	1	3	901	9	Ivo	Komárek	M			50	strojní zámečník	Lažany	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	581909	1	1	903	1	Vlastislav	Hemzal			58	soukromý podnikatel	Lažany	99	80	0	M
+6201	581909	1	2	902	1	Jiří	Špaček			65	revizní technik elektro	Lažany	99	80	0	M
+6201	581909	1	3	901	1	Zdeněk	Skoupý			51	technik údržby	Lažany	99	80	0	M
+6201	581909	1	1	903	2	Antonín	Strážnický	Ing.		45	vedoucí prodeje	Lažany	99	80	0	M
+6201	581909	1	2	902	2	Jaroslav	Raichl	Ing.	MSc	29	Produkt Manager IT	Lažany	99	80	0	M
+6201	581909	1	3	901	2	Michal	Kubát			36	vedoucí prodejny	Lažany	99	80	0	M
+6201	581909	1	1	903	3	Bronislav	Čech			47	soukromý podnikatel	Lažany	99	80	0	M
+6201	581909	1	2	902	3	Martin	Maděránek			45	konstruktér	Lažany	99	80	0	M
+6201	581909	1	3	901	3	Petr	Málek	Mgr.		46	státní zaměstnanec	Lažany	7	80	0	M
+6201	581909	1	1	903	4	Jaroslav	Janko			52	mistr montáží	Lažany	99	80	0	M
+6201	581909	1	2	902	4	Jiří	Špaček			40	OSVČ	Lažany	99	80	0	M
+6201	581909	1	3	901	4	Jitka	Raichlová			48	porodní asistentka	Lažany	99	80	0	F
+6201	581909	1	1	903	5	Radek	Musil	Ing.		49	vedoucí oddělení prodeje	Lažany	99	80	0	M
+6201	581909	1	2	902	5	Martin	Čmel			36	stavbyvedoucí	Lažany	99	80	0	M
+6201	581909	1	3	901	5	Tomáš	Uhlíř			25	prodavač	Lažany	99	80	0	M
+6201	581909	1	1	903	6	Zbyněk	Bauer			41	zubní technik	Lažany	99	80	0	M
+6201	581909	1	2	902	6	Jana	Fillová		DiS.	33	Key account manager	Lažany	99	80	0	F
+6201	581909	1	3	901	6	Kamila	Brichtová	Bc.		26	supervizorka	Lažany	99	80	0	F
+6201	581909	1	1	903	7	Marcela	Procházková			44	staniční sestra Úrazové nemocnice	Lažany	7	80	0	F
+6201	581909	1	2	902	7	Jitka	Opálková			31	vedoucí prodejny	Lažany	99	80	0	F
+6201	581909	1	3	901	7	Alois	Tynkl			44	technik údržby	Lažany	99	80	0	M
+6201	581909	1	1	903	8	Pavel	Junec			27	manažer nákupu a logistiky	Lažany	99	80	0	M
+6201	581909	1	2	902	8	Helena	Svobodová			21	student	Lažany	99	80	0	F
+6201	581909	1	3	901	8	Pavel	Kovář			46	OSVČ	Lažany	99	80	0	M
+6201	581909	1	1	903	9	Renata	Šubrtová			29	produktový specialista IT	Lažany	99	80	0	F
+6201	581909	1	2	902	9	Vladimír	Čudek	Ing.	Ph.D.	35	vedoucí konstruktér	Lažany	99	80	0	M
+6201	581909	1	3	901	9	Ivo	Komárek			50	strojní zámečník	Lažany	99	80	0	M

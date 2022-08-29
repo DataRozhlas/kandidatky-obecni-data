@@ -1,20 +1,20 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7202	550736	1	1	53	1	Robert	Janota	M	Ing.		53	starosta	Hostětín	53	53	A
-7202	550736	1	1	53	2	Milan	Smolka	M			42	živnostník	Hostětín	53	53	A
-7202	550736	1	1	53	3	Vojtěch	Lukáš	M	Mgr.		44	pedagog	Hostětín	99	53	A
-7202	550736	1	1	53	4	Naděžda	Hamšíková	F			53	místostarostka	Hostětín	99	53	A
-7202	550736	1	1	53	5	Miroslav	Stejskal	M			34	OSVČ	Hostětín	53	53	A
-7202	550736	1	1	53	6	Alena	Bartošová	F			50	technická pracovnice	Hostětín	99	53	A
-7202	550736	1	2	1	1	Jaroslav	Boleček	M			47	řidič	Hostětín	99	1	A
-7202	550736	1	2	1	2	Daniel	Šenkeřík	M			42	grafik	Hostětín	99	1	A
-7202	550736	1	2	1	3	Monika	Machů	F			42	účetní	Hostětín	99	1	A
-7202	550736	1	2	1	4	Jiří	Harvanec	M			38	nástrojář	Hostětín	99	1	A
-7202	550736	1	2	1	5	Lenka	Šlahorová	F			43	kuchařka	Hostětín	99	1	A
-7202	550736	1	2	1	6	Lucie	Šuráňová	F			36	úřednice	Hostětín	1	1	A
-7202	550736	1	2	1	7	Anna	Turčeková	F			61	kuchařka	Hostětín	1	1	A
-7202	550736	1	3	901	1	Patrik	Janota	M	Bc.		27	pedagogický pracovník	Hostětín	99	80	A
-7202	550736	1	3	901	2	Hedvika	Malcová	F			56	účetní	Hostětín	99	80	A
-7202	550736	1	3	901	3	Petr	Novák	M	Ing.		51	výrobní ředitel	Hostětín	99	80	A
-7202	550736	1	3	901	4	Petra	Kozubíková	F	Bc.		32	recepční	Hostětín	99	80	A
-7202	550736	1	3	901	5	Pavel	Hamšík	M			32	technolog - programátor	Hostětín	99	80	A
-7202	550736	1	3	901	6	Radek	Velík	M			20	instalatér	Hostětín	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7202	550736	1	1	53	1	Robert	Janota	Ing.		53	starosta	Hostětín	53	53	A	M
+7202	550736	1	2	1	1	Jaroslav	Boleček			47	řidič	Hostětín	99	1	A	M
+7202	550736	1	3	901	1	Patrik	Janota	Bc.		27	pedagogický pracovník	Hostětín	99	80	A	M
+7202	550736	1	1	53	2	Milan	Smolka			42	živnostník	Hostětín	53	53	A	M
+7202	550736	1	2	1	2	Daniel	Šenkeřík			42	grafik	Hostětín	99	1	A	M
+7202	550736	1	3	901	2	Hedvika	Malcová			56	účetní	Hostětín	99	80	A	F
+7202	550736	1	1	53	3	Vojtěch	Lukáš	Mgr.		44	pedagog	Hostětín	99	53	A	M
+7202	550736	1	2	1	3	Monika	Machů			42	účetní	Hostětín	99	1	A	F
+7202	550736	1	3	901	3	Petr	Novák	Ing.		51	výrobní ředitel	Hostětín	99	80	A	M
+7202	550736	1	1	53	4	Naděžda	Hamšíková			53	místostarostka	Hostětín	99	53	A	F
+7202	550736	1	2	1	4	Jiří	Harvanec			38	nástrojář	Hostětín	99	1	A	M
+7202	550736	1	3	901	4	Petra	Kozubíková	Bc.		32	recepční	Hostětín	99	80	A	F
+7202	550736	1	1	53	5	Miroslav	Stejskal			34	OSVČ	Hostětín	53	53	A	M
+7202	550736	1	2	1	5	Lenka	Šlahorová			43	kuchařka	Hostětín	99	1	A	F
+7202	550736	1	3	901	5	Pavel	Hamšík			32	technolog - programátor	Hostětín	99	80	A	M
+7202	550736	1	1	53	6	Alena	Bartošová			50	technická pracovnice	Hostětín	99	53	A	F
+7202	550736	1	2	1	6	Lucie	Šuráňová			36	úřednice	Hostětín	1	1	A	F
+7202	550736	1	3	901	6	Radek	Velík			20	instalatér	Hostětín	99	80	A	M
+7202	550736	1	2	1	7	Anna	Turčeková			61	kuchařka	Hostětín	1	1	A	F

@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	597988	1	1	129	1	Salome	Sýkorová	F	Ing.		46	starostka	Loučky	129	129	0
-8101	597988	1	1	129	2	Pavel	Adam	M	MUDr.		40	lékař	Loučky	99	129	0
-8101	597988	1	1	129	3	Jana	Kadlčíková	F	Mgr.		60	učitelka	Loučky	99	129	0
-8101	597988	1	1	129	4	Jiří	Albrecht	M	Ing.		46	geodet	Loučky	99	129	0
-8101	597988	1	1	129	5	Jiří	Štefela	M			41	podnikatel	Zátor	99	129	0
-8101	597988	1	1	129	6	Jiřina	Míčková	F			46	podnikatelka	Loučky	99	129	0
-8101	597988	1	1	129	7	Petr	Gajdoš	M			63	důchodce	Loučky	99	129	0
-8101	597988	1	1	129	8	Petr	Skřivánek	M	Mgr.		50	učitel	Loučky	99	129	0
-8101	597988	1	1	129	9	Anna	Krušinová	F			46	v domácnosti	Zátor	99	129	0
-8101	597988	1	2	88	1	Rudolf	Doričák	M			54	živnostník	Loučky	99	88	0
-8101	597988	1	2	88	2	Václav	Křivák	M			51	elektrikář	Loučky	99	88	0
-8101	597988	1	2	88	3	Pavel	Guňka	M			50	zedník	Loučky	99	88	0
-8101	597988	1	2	88	4	Anna	Hudecová	F			44	agronom	Zátor	99	88	0
-8101	597988	1	2	88	5	Ladislava	Němcová	F			41	v domácnosti	Zátor	99	88	0
-8101	597988	1	2	88	6	Renáta	Kuchtová	F			43	dělnice	Loučky	99	88	0
-8101	597988	1	2	88	7	Růžena	Kořínková	F			51	uklízečka	Loučky	99	88	0
-8101	597988	1	2	88	8	Miroslava	Lantová	F			54	nezaměstnaná	Zátor	99	88	0
-8101	597988	1	2	88	9	Dominik	Belej	M			20	student	Loučky	99	88	0
-8101	597988	1	3	801	1	Miloslav	Ovčáček	M			52	podnikatel	Zátor	99	80	0
-8101	597988	1	4	1	1	Sylvie	Lizoňová	F			56	důchodce	Loučky	99	1	0
-8101	597988	1	4	1	2	Zdeněk	Kadlčík	M	Ing.		61	důchodce	Loučky	99	1	0
-8101	597988	1	4	1	3	Vendula	Štefelová	F			21	student	Zátor	99	1	0
-8101	597988	1	4	1	4	Jakub	Štefela	M			22	student	Zátor	99	1	0
-8101	597988	1	5	47	1	Jiří	Křivák	M			57	instalatér	Zátor	47	47	0
-8101	597988	1	5	47	2	Irena	Blechová	F			36	v domácnosti	Zátor	99	47	0
-8101	597988	1	5	47	3	Petr	Duda	M			37	OSVČ	Loučky	99	47	0
-8101	597988	1	5	47	4	Marie	Rušajová	F			60	důchodce	Zátor	99	47	0
-8101	597988	1	5	47	5	Jozef	Velčický	M			64	důchodce	Zátor	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	597988	1	1	129	1	Salome	Sýkorová	Ing.		46	starostka	Loučky	129	129	0	F
+8101	597988	1	2	88	1	Rudolf	Doričák			54	živnostník	Loučky	99	88	0	M
+8101	597988	1	3	801	1	Miloslav	Ovčáček			52	podnikatel	Zátor	99	80	0	M
+8101	597988	1	4	1	1	Sylvie	Lizoňová			56	důchodce	Loučky	99	1	0	F
+8101	597988	1	5	47	1	Jiří	Křivák			57	instalatér	Zátor	47	47	0	M
+8101	597988	1	1	129	2	Pavel	Adam	MUDr.		40	lékař	Loučky	99	129	0	M
+8101	597988	1	2	88	2	Václav	Křivák			51	elektrikář	Loučky	99	88	0	M
+8101	597988	1	4	1	2	Zdeněk	Kadlčík	Ing.		61	důchodce	Loučky	99	1	0	M
+8101	597988	1	5	47	2	Irena	Blechová			36	v domácnosti	Zátor	99	47	0	F
+8101	597988	1	1	129	3	Jana	Kadlčíková	Mgr.		60	učitelka	Loučky	99	129	0	F
+8101	597988	1	2	88	3	Pavel	Guňka			50	zedník	Loučky	99	88	0	M
+8101	597988	1	4	1	3	Vendula	Štefelová			21	student	Zátor	99	1	0	F
+8101	597988	1	5	47	3	Petr	Duda			37	OSVČ	Loučky	99	47	0	M
+8101	597988	1	1	129	4	Jiří	Albrecht	Ing.		46	geodet	Loučky	99	129	0	M
+8101	597988	1	2	88	4	Anna	Hudecová			44	agronom	Zátor	99	88	0	F
+8101	597988	1	4	1	4	Jakub	Štefela			22	student	Zátor	99	1	0	M
+8101	597988	1	5	47	4	Marie	Rušajová			60	důchodce	Zátor	99	47	0	F
+8101	597988	1	1	129	5	Jiří	Štefela			41	podnikatel	Zátor	99	129	0	M
+8101	597988	1	2	88	5	Ladislava	Němcová			41	v domácnosti	Zátor	99	88	0	F
+8101	597988	1	5	47	5	Jozef	Velčický			64	důchodce	Zátor	47	47	0	M
+8101	597988	1	1	129	6	Jiřina	Míčková			46	podnikatelka	Loučky	99	129	0	F
+8101	597988	1	2	88	6	Renáta	Kuchtová			43	dělnice	Loučky	99	88	0	F
+8101	597988	1	1	129	7	Petr	Gajdoš			63	důchodce	Loučky	99	129	0	M
+8101	597988	1	2	88	7	Růžena	Kořínková			51	uklízečka	Loučky	99	88	0	F
+8101	597988	1	1	129	8	Petr	Skřivánek	Mgr.		50	učitel	Loučky	99	129	0	M
+8101	597988	1	2	88	8	Miroslava	Lantová			54	nezaměstnaná	Zátor	99	88	0	F
+8101	597988	1	1	129	9	Anna	Krušinová			46	v domácnosti	Zátor	99	129	0	F
+8101	597988	1	2	88	9	Dominik	Belej			20	student	Loučky	99	88	0	M

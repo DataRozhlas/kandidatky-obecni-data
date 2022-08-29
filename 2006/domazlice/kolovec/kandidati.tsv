@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	553816	1	1	53	1	Jana	Peclová	F			45	místostarostka obce	Koloveč	99	53	0
-3201	553816	1	1	53	2	Petr	Hájek	M			41	soukromý podnikatel	Koloveč	99	53	0
-3201	553816	1	1	53	3	Zlatuše	Kadlecová	F	Mgr.		40	učitelka	Koloveč	99	53	0
-3201	553816	1	1	53	4	Jan	Čejka	M			45	pekař	Koloveč	99	53	0
-3201	553816	1	1	53	5	Milan	Musil	M			43	podnikatel	Koloveč	99	53	0
-3201	553816	1	1	53	6	Petr	Kamír	M			40	výpravčí	Koloveč	99	53	0
-3201	553816	1	1	53	7	Ludvík	Dolejš	M			55	zaměstnanec obecního úřadu	Koloveč	99	53	0
-3201	553816	1	1	53	8	Milan	Mastný	M	Ing.		45	vedoucí stavební výroby	Koloveč	99	53	0
-3201	553816	1	1	53	9	Milena	Kulhánková	F			55	živnostník	Koloveč - Zichov	99	53	0
-3201	553816	1	2	7	1	Karel	Kobr	M	MVDr.		57	státní veterinář	Koloveč	99	7	0
-3201	553816	1	2	7	2	Eva	Janečková	F	Ing.		60	důchodce	Koloveč - Zichov	99	7	0
-3201	553816	1	2	7	3	Josef	Kaše	M			51	živnostník	Koloveč	99	7	0
-3201	553816	1	2	7	4	Petr	Zoubek	M			33	dělník	Koloveč	99	7	0
-3201	553816	1	2	7	5	Petr	Toupal	M			37	dělník	Koloveč	99	7	0
-3201	553816	1	2	7	6	Václav	Kříž	M			41	technik	Koloveč	99	7	0
-3201	553816	1	2	7	7	Milan	Kolář	M			38	živnostník	Koloveč	99	7	0
-3201	553816	1	2	7	8	Jana	Mrázová	F			39	účetní	Koloveč	99	7	0
-3201	553816	1	2	7	9	Vilém	Frisch	M	Ing.		62	technik	Koloveč	99	7	0
-3201	553816	1	3	1	1	Martin	Volf	M			33	živnostník	Koloveč	99	1	0
-3201	553816	1	3	1	2	Václav	Pergl	M	Ing.		37	ředitel Pozemkového úřadu	Koloveč	99	1	0
-3201	553816	1	3	1	3	Antonín	Pergl	M			34	truhlář	Koloveč	99	1	0
-3201	553816	1	3	1	4	Anna	Čiklová	F	MUDr.		52	praktická lékařka	Koloveč	99	1	0
-3201	553816	1	3	1	5	Ludvík	Kaše	M			52	autoklempíř	Koloveč	99	1	0
-3201	553816	1	3	1	6	Jitka	Gabrielová	F	Mgr.		33	učitelka ZŠ	Koloveč	99	1	0
-3201	553816	1	3	1	7	Miloslav	Diviš	M			31	technik	Koloveč	99	1	0
-3201	553816	1	3	1	8	Petr	Behenský	M			41	zámečník	Koloveč	99	1	0
-3201	553816	1	3	1	9	Alena	Kozová	F			46	kontrolorka	Koloveč	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	553816	1	1	53	1	Jana	Peclová			45	místostarostka obce	Koloveč	99	53	0	F
+3201	553816	1	2	7	1	Karel	Kobr	MVDr.		57	státní veterinář	Koloveč	99	7	0	M
+3201	553816	1	3	1	1	Martin	Volf			33	živnostník	Koloveč	99	1	0	M
+3201	553816	1	1	53	2	Petr	Hájek			41	soukromý podnikatel	Koloveč	99	53	0	M
+3201	553816	1	2	7	2	Eva	Janečková	Ing.		60	důchodce	Koloveč - Zichov	99	7	0	F
+3201	553816	1	3	1	2	Václav	Pergl	Ing.		37	ředitel Pozemkového úřadu	Koloveč	99	1	0	M
+3201	553816	1	1	53	3	Zlatuše	Kadlecová	Mgr.		40	učitelka	Koloveč	99	53	0	F
+3201	553816	1	2	7	3	Josef	Kaše			51	živnostník	Koloveč	99	7	0	M
+3201	553816	1	3	1	3	Antonín	Pergl			34	truhlář	Koloveč	99	1	0	M
+3201	553816	1	1	53	4	Jan	Čejka			45	pekař	Koloveč	99	53	0	M
+3201	553816	1	2	7	4	Petr	Zoubek			33	dělník	Koloveč	99	7	0	M
+3201	553816	1	3	1	4	Anna	Čiklová	MUDr.		52	praktická lékařka	Koloveč	99	1	0	F
+3201	553816	1	1	53	5	Milan	Musil			43	podnikatel	Koloveč	99	53	0	M
+3201	553816	1	2	7	5	Petr	Toupal			37	dělník	Koloveč	99	7	0	M
+3201	553816	1	3	1	5	Ludvík	Kaše			52	autoklempíř	Koloveč	99	1	0	M
+3201	553816	1	1	53	6	Petr	Kamír			40	výpravčí	Koloveč	99	53	0	M
+3201	553816	1	2	7	6	Václav	Kříž			41	technik	Koloveč	99	7	0	M
+3201	553816	1	3	1	6	Jitka	Gabrielová	Mgr.		33	učitelka ZŠ	Koloveč	99	1	0	F
+3201	553816	1	1	53	7	Ludvík	Dolejš			55	zaměstnanec obecního úřadu	Koloveč	99	53	0	M
+3201	553816	1	2	7	7	Milan	Kolář			38	živnostník	Koloveč	99	7	0	M
+3201	553816	1	3	1	7	Miloslav	Diviš			31	technik	Koloveč	99	1	0	M
+3201	553816	1	1	53	8	Milan	Mastný	Ing.		45	vedoucí stavební výroby	Koloveč	99	53	0	M
+3201	553816	1	2	7	8	Jana	Mrázová			39	účetní	Koloveč	99	7	0	F
+3201	553816	1	3	1	8	Petr	Behenský			41	zámečník	Koloveč	99	1	0	M
+3201	553816	1	1	53	9	Milena	Kulhánková			55	živnostník	Koloveč - Zichov	99	53	0	F
+3201	553816	1	2	7	9	Vilém	Frisch	Ing.		62	technik	Koloveč	99	7	0	M
+3201	553816	1	3	1	9	Alena	Kozová			46	kontrolorka	Koloveč	99	1	0	F

@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6205	586471	1	1	1	1	Blanka	Jedovnická	F	Ing.		32	inženýrka oboru rozvoje venkova	Ostrovánky	99	1	A
-6205	586471	1	1	1	2	Pavel	Koutný	M			39	instalatér	Ostrovánky	99	1	A
-6205	586471	1	1	1	3	Veronika	Budská	F		DiS.	36	pedagog	Ostrovánky	99	1	A
-6205	586471	1	1	1	4	Karel	Jedovnický	M			43	řidič, strojník	Ostrovánky	1	1	A
-6205	586471	1	1	1	5	František	Jedovnický	M	Ing.		73	zemědělský inženýr, důchodce	Ostrovánky	1	1	A
-6205	586471	1	2	901	1	Martin	Kožuský	M			37	programátor	Ostrovánky	99	80	A
-6205	586471	1	2	901	2	Jiří	Slepánek	M			59	řidič	Ostrovánky	99	80	A
-6205	586471	1	2	901	3	Jana	Lihanová	F			47	zdravotní sestra	Ostrovánky	99	80	A
-6205	586471	1	2	901	4	Josef	Koutný	M			39	mechanik	Ostrovánky	99	80	A
-6205	586471	1	2	901	5	Libor	Novák	M			44	seřizovač	Ostrovánky	99	80	A
-6205	586471	1	3	47	1	Marie	Závodská	F			43	porodní asistentka	Ostrovánky	99	47	A
-6205	586471	1	3	47	2	Miroslav	Dlouhý	M			44	zdravotní záchranář	Ostrovánky	99	47	A
-6205	586471	1	3	47	3	Jaroslav	Marta	M			55	strojař	Ostrovánky	99	47	A
-6205	586471	1	3	47	4	František	Teplý	M			59	zámečník	Ostrovánky	47	47	A
-6205	586471	1	3	47	5	Milan	Bilíček	M			74	důchodce	Ostrovánky	47	47	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6205	586471	1	1	1	1	Blanka	Jedovnická	Ing.		32	inženýrka oboru rozvoje venkova	Ostrovánky	99	1	A	F
+6205	586471	1	2	901	1	Martin	Kožuský			37	programátor	Ostrovánky	99	80	A	M
+6205	586471	1	3	47	1	Marie	Závodská			43	porodní asistentka	Ostrovánky	99	47	A	F
+6205	586471	1	1	1	2	Pavel	Koutný			39	instalatér	Ostrovánky	99	1	A	M
+6205	586471	1	2	901	2	Jiří	Slepánek			59	řidič	Ostrovánky	99	80	A	M
+6205	586471	1	3	47	2	Miroslav	Dlouhý			44	zdravotní záchranář	Ostrovánky	99	47	A	M
+6205	586471	1	1	1	3	Veronika	Budská		DiS.	36	pedagog	Ostrovánky	99	1	A	F
+6205	586471	1	2	901	3	Jana	Lihanová			47	zdravotní sestra	Ostrovánky	99	80	A	F
+6205	586471	1	3	47	3	Jaroslav	Marta			55	strojař	Ostrovánky	99	47	A	M
+6205	586471	1	1	1	4	Karel	Jedovnický			43	řidič, strojník	Ostrovánky	1	1	A	M
+6205	586471	1	2	901	4	Josef	Koutný			39	mechanik	Ostrovánky	99	80	A	M
+6205	586471	1	3	47	4	František	Teplý			59	zámečník	Ostrovánky	47	47	A	M
+6205	586471	1	1	1	5	František	Jedovnický	Ing.		73	zemědělský inženýr, důchodce	Ostrovánky	1	1	A	M
+6205	586471	1	2	901	5	Libor	Novák			44	seřizovač	Ostrovánky	99	80	A	M
+6205	586471	1	3	47	5	Milan	Bilíček			74	důchodce	Ostrovánky	47	47	A	M

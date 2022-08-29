@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3205	546411	1	1	53	1	David	Tvrdík	M			29	soukromý podnikatel	Úherce 5	99	53	0
-3205	546411	1	1	53	2	Jiří	Tarantík	M			58	invalidní důchodce	Úherce 89	99	53	0
-3205	546411	1	2	902	1	Renata	Karlová	F			32	technik	Úherce 112	99	80	0
-3205	546411	1	2	902	2	Miloslav	Matoušek	M			36	invalidní důchodce	Úherce 23	99	80	0
-3205	546411	1	2	902	3	Anna	Mrázková	F			54	dělník	Úherce 114	99	80	0
-3205	546411	1	2	902	4	Pavel	Bosák	M			41	řidič	Úherce 130	99	80	0
-3205	546411	1	2	902	5	Martin	Pavlíček	M			31	řidič	Úherce 93	99	80	0
-3205	546411	1	2	902	6	Josef	Holý	M			55	dělník	Úherce 112	99	80	0
-3205	546411	1	2	902	7	Vlastimil	Novák	M			33	truhlář	Úherce 97	99	80	0
-3205	546411	1	3	901	1	Miroslav	Píšek	M			44	starosta	Úherce 121	99	80	0
-3205	546411	1	3	901	2	Ivanka	Urbášková	F	Ing.		59	ekonom	Úherce 84	99	80	0
-3205	546411	1	3	901	3	Jaroslav	Holý	M			62	důchodce	Úherce 55	99	80	0
-3205	546411	1	3	901	4	Petr	Stehlík	M			32	zámečník	Úherce 112	99	80	0
-3205	546411	1	3	901	5	Vlastimil	Blažek	M			47	podnikatel	Úherce 117	99	80	0
-3205	546411	1	3	901	6	Jiří	Kudrna	M			33	účetní	Úherce 142	99	80	0
-3205	546411	1	3	901	7	Petr	Veselý	M	Ing.		42	manažer	Úherce 90	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3205	546411	1	1	53	1	David	Tvrdík			29	soukromý podnikatel	Úherce 5	99	53	0	M
+3205	546411	1	2	902	1	Renata	Karlová			32	technik	Úherce 112	99	80	0	F
+3205	546411	1	3	901	1	Miroslav	Píšek			44	starosta	Úherce 121	99	80	0	M
+3205	546411	1	1	53	2	Jiří	Tarantík			58	invalidní důchodce	Úherce 89	99	53	0	M
+3205	546411	1	2	902	2	Miloslav	Matoušek			36	invalidní důchodce	Úherce 23	99	80	0	M
+3205	546411	1	3	901	2	Ivanka	Urbášková	Ing.		59	ekonom	Úherce 84	99	80	0	F
+3205	546411	1	2	902	3	Anna	Mrázková			54	dělník	Úherce 114	99	80	0	F
+3205	546411	1	3	901	3	Jaroslav	Holý			62	důchodce	Úherce 55	99	80	0	M
+3205	546411	1	2	902	4	Pavel	Bosák			41	řidič	Úherce 130	99	80	0	M
+3205	546411	1	3	901	4	Petr	Stehlík			32	zámečník	Úherce 112	99	80	0	M
+3205	546411	1	2	902	5	Martin	Pavlíček			31	řidič	Úherce 93	99	80	0	M
+3205	546411	1	3	901	5	Vlastimil	Blažek			47	podnikatel	Úherce 117	99	80	0	M
+3205	546411	1	2	902	6	Josef	Holý			55	dělník	Úherce 112	99	80	0	M
+3205	546411	1	3	901	6	Jiří	Kudrna			33	účetní	Úherce 142	99	80	0	M
+3205	546411	1	2	902	7	Vlastimil	Novák			33	truhlář	Úherce 97	99	80	0	M
+3205	546411	1	3	901	7	Petr	Veselý	Ing.		42	manažer	Úherce 90	99	80	0	M

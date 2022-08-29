@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3105	550485	1	1	47	1	Věra	Supová	F			65	důchodce	Radhostice	47	47	0
-3105	550485	1	1	47	2	Alois	Uhlík	M			62	důchodce	Radhostice	99	47	0
-3105	550485	1	1	47	3	Václav	Šlemar	M			77	důchodce	Radhostice	47	47	0
-3105	550485	1	1	47	4	Josef	Mikeš	M			68	důchodce	Radhostice	99	47	0
-3105	550485	1	1	47	5	Josef	Herc	M			71	důchodce	Lštění	47	47	0
-3105	550485	1	1	47	6	Ludvík	Toman	M			64	důchodce	Libotyně	47	47	0
-3105	550485	1	1	47	7	Milada	Tomanová	F			64	důchodce	Lštění	99	47	0
-3105	550485	1	2	1	1	Jan	Toman	M			46	soukromý zemědělec	Libotyně	1	1	0
-3105	550485	1	2	1	2	Jaroslava	Nohová	F			61	důchodce	Radhostice	99	1	0
-3105	550485	1	2	1	3	Jan	Kofroň	M			54	soukromý zemědělec	Libotyně	99	1	0
-3105	550485	1	2	1	4	Tomáš	Diblík	M			62	důchodce	Radhostice	99	1	0
-3105	550485	1	2	1	5	Jan	Vondrášek	M			87	důchodce	Radhostice	1	1	0
-3105	550485	1	2	1	6	Monika	Fürstová	F			41	v domácnosti	Lštění	1	1	0
-3105	550485	1	3	901	1	Miroslava	Tomanová	F			44	úřednice	Libotyně	99	80	0
-3105	550485	1	3	901	2	Josef	Hanzal	M			61	důchodce	Radhostice	99	80	0
-3105	550485	1	3	901	3	Jitka	Tomanová	F			37	soukromý zemědělec	Dvorec	99	80	0
-3105	550485	1	3	901	4	Václav	Šlemar	M			50	opravář	Radhostice	99	80	0
-3105	550485	1	3	901	5	Petr	Sova	M			58	elektromechanik	Libotyně	99	80	0
-3105	550485	1	3	901	6	Michal	Mach	M			40	lesní dělník	Lštění	99	80	0
-3105	550485	1	3	901	7	Luděk	Toman	M			33	opravář	Libotyně	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3105	550485	1	1	47	1	Věra	Supová			65	důchodce	Radhostice	47	47	0	F
+3105	550485	1	2	1	1	Jan	Toman			46	soukromý zemědělec	Libotyně	1	1	0	M
+3105	550485	1	3	901	1	Miroslava	Tomanová			44	úřednice	Libotyně	99	80	0	F
+3105	550485	1	1	47	2	Alois	Uhlík			62	důchodce	Radhostice	99	47	0	M
+3105	550485	1	2	1	2	Jaroslava	Nohová			61	důchodce	Radhostice	99	1	0	F
+3105	550485	1	3	901	2	Josef	Hanzal			61	důchodce	Radhostice	99	80	0	M
+3105	550485	1	1	47	3	Václav	Šlemar			77	důchodce	Radhostice	47	47	0	M
+3105	550485	1	2	1	3	Jan	Kofroň			54	soukromý zemědělec	Libotyně	99	1	0	M
+3105	550485	1	3	901	3	Jitka	Tomanová			37	soukromý zemědělec	Dvorec	99	80	0	F
+3105	550485	1	1	47	4	Josef	Mikeš			68	důchodce	Radhostice	99	47	0	M
+3105	550485	1	2	1	4	Tomáš	Diblík			62	důchodce	Radhostice	99	1	0	M
+3105	550485	1	3	901	4	Václav	Šlemar			50	opravář	Radhostice	99	80	0	M
+3105	550485	1	1	47	5	Josef	Herc			71	důchodce	Lštění	47	47	0	M
+3105	550485	1	2	1	5	Jan	Vondrášek			87	důchodce	Radhostice	1	1	0	M
+3105	550485	1	3	901	5	Petr	Sova			58	elektromechanik	Libotyně	99	80	0	M
+3105	550485	1	1	47	6	Ludvík	Toman			64	důchodce	Libotyně	47	47	0	M
+3105	550485	1	2	1	6	Monika	Fürstová			41	v domácnosti	Lštění	1	1	0	F
+3105	550485	1	3	901	6	Michal	Mach			40	lesní dělník	Lštění	99	80	0	M
+3105	550485	1	1	47	7	Milada	Tomanová			64	důchodce	Lštění	99	47	0	F
+3105	550485	1	3	901	7	Luděk	Toman			33	opravář	Libotyně	99	80	0	M

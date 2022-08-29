@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7203	543098	1	1	1	1	Marie	Vlčková	F			51	učitelka MŠ-zastupitel	Lačnov	1	1	0
-7203	543098	1	1	1	2	Marie	Jahodová	F			54	účetní	Lačnov	99	1	0
-7203	543098	1	1	1	3	Monika	Vránová	F	Mgr.		30	učitelka ZŠ	Lačnov	99	1	0
-7203	543098	1	1	1	4	Marie	Trčková	F			44	pastorační asistentka	Lačnov	99	1	0
-7203	543098	1	1	1	5	Vladimíra	Zvonková	F	Mgr.	DiS.	30	sociální pracovnice	Lačnov	99	1	0
-7203	543098	1	1	1	6	Josef	Hrabina	M			43	kovář	Lačnov	1	1	0
-7203	543098	1	1	1	7	Vojtěch	Trčka	M			64	důchodce	Lačnov	99	1	0
-7203	543098	1	1	1	8	Pavel	Jahoda	M			27	mistr výroby	Lačnov	99	1	0
-7203	543098	1	1	1	9	Josef	Masař	M			40	pracovník ostrahy	Lačnov	99	1	0
-7203	543098	1	2	902	1	Oldřich	Pechal	M			40	státní zaměstnanec	Lačnov	99	80	0
-7203	543098	1	2	902	2	Pavel	Dráb	M	Bc.		30	šéfmontér	Lačnov	144	80	0
-7203	543098	1	2	902	3	Marie	Kupčíková	F			41	žena v domácnosti	Lačnov	99	80	0
-7203	543098	1	2	902	4	Iveta	Obadalová	F			40	úřednice	Lačnov	99	80	0
-7203	543098	1	2	902	5	Dušan	Sucháček	M			45	poštovní doručovatel	Lačnov	99	80	0
-7203	543098	1	2	902	6	Miroslav	Jatel	M			27	technik	Lačnov	99	80	0
-7203	543098	1	2	902	7	Jan	Sucháček	M			23	technik CNC strojů	Lačnov	99	80	0
-7203	543098	1	2	902	8	Vlastimil	Sucháček	M	Ing.		26	manažer energetické spol.	Lačnov	99	80	0
-7203	543098	1	2	902	9	Jaroslav	Rumánek	M			38	servisní technik	Lačnov	99	80	0
-7203	543098	1	3	901	1	Rostislav	Zvonek	M	Ing.		41	obchodní ředitel	Lačnov	99	80	0
-7203	543098	1	3	901	2	Vojtěch	Kudela	M			47	údržbář	Lačnov	99	80	0
-7203	543098	1	3	901	3	David	Polách	M			33	obchodní zástupce	Lačnov	99	80	0
-7203	543098	1	3	901	4	Michal	Šerý	M			40	živnostník	Lačnov	99	80	0
-7203	543098	1	3	901	5	Jana	Marečková	F			36	THP pracovník	Lačnov	99	80	0
-7203	543098	1	3	901	6	Vladimíra	Drábová	F	Ing.		25	marketingový specialista	Lačnov	99	80	0
-7203	543098	1	3	901	7	Petr	Vlček	M			41	živnostník	Lačnov	99	80	0
-7203	543098	1	3	901	8	Josef	Šarátek	M			40	živnostník	Lačnov	99	80	0
-7203	543098	1	3	901	9	Jan	Brhel	M	Ing.		25	technik výroby	Lačnov	99	80	0
-7203	543098	1	4	181	1	Miloslav	Vlček	M			52	soukromý podnikatel	Lačnov	99	181	0
-7203	543098	1	4	181	2	František	Brhel	M			48	soukromý podnikatel	Lačnov	99	181	0
-7203	543098	1	4	181	3	Jiří	Vrána	M	Ing.		31	obchodní manažer	Lačnov	99	181	0
-7203	543098	1	4	181	4	Vojtěch	Martinka	M			57	řidič	Lačnov	99	181	0
-7203	543098	1	4	181	5	Ladislav	Sucháček	M			50	dělník	Lačnov	99	181	0
-7203	543098	1	4	181	6	Josef	Šerý	M			38	mistr výroby	Lačnov	99	181	0
-7203	543098	1	4	181	7	Vojtěch	Trčka	M			37	elektromontér	Lačnov	99	181	0
-7203	543098	1	4	181	8	Zdeněk	Palát	M			21	svářeč	Lačnov	99	181	0
-7203	543098	1	4	181	9	Jiří	Sucháček	M			30	technik	Lačnov	99	181	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7203	543098	1	1	1	1	Marie	Vlčková			51	učitelka MŠ-zastupitel	Lačnov	1	1	0	F
+7203	543098	1	2	902	1	Oldřich	Pechal			40	státní zaměstnanec	Lačnov	99	80	0	M
+7203	543098	1	3	901	1	Rostislav	Zvonek	Ing.		41	obchodní ředitel	Lačnov	99	80	0	M
+7203	543098	1	4	181	1	Miloslav	Vlček			52	soukromý podnikatel	Lačnov	99	181	0	M
+7203	543098	1	1	1	2	Marie	Jahodová			54	účetní	Lačnov	99	1	0	F
+7203	543098	1	2	902	2	Pavel	Dráb	Bc.		30	šéfmontér	Lačnov	144	80	0	M
+7203	543098	1	3	901	2	Vojtěch	Kudela			47	údržbář	Lačnov	99	80	0	M
+7203	543098	1	4	181	2	František	Brhel			48	soukromý podnikatel	Lačnov	99	181	0	M
+7203	543098	1	1	1	3	Monika	Vránová	Mgr.		30	učitelka ZŠ	Lačnov	99	1	0	F
+7203	543098	1	2	902	3	Marie	Kupčíková			41	žena v domácnosti	Lačnov	99	80	0	F
+7203	543098	1	3	901	3	David	Polách			33	obchodní zástupce	Lačnov	99	80	0	M
+7203	543098	1	4	181	3	Jiří	Vrána	Ing.		31	obchodní manažer	Lačnov	99	181	0	M
+7203	543098	1	1	1	4	Marie	Trčková			44	pastorační asistentka	Lačnov	99	1	0	F
+7203	543098	1	2	902	4	Iveta	Obadalová			40	úřednice	Lačnov	99	80	0	F
+7203	543098	1	3	901	4	Michal	Šerý			40	živnostník	Lačnov	99	80	0	M
+7203	543098	1	4	181	4	Vojtěch	Martinka			57	řidič	Lačnov	99	181	0	M
+7203	543098	1	1	1	5	Vladimíra	Zvonková	Mgr.	DiS.	30	sociální pracovnice	Lačnov	99	1	0	F
+7203	543098	1	2	902	5	Dušan	Sucháček			45	poštovní doručovatel	Lačnov	99	80	0	M
+7203	543098	1	3	901	5	Jana	Marečková			36	THP pracovník	Lačnov	99	80	0	F
+7203	543098	1	4	181	5	Ladislav	Sucháček			50	dělník	Lačnov	99	181	0	M
+7203	543098	1	1	1	6	Josef	Hrabina			43	kovář	Lačnov	1	1	0	M
+7203	543098	1	2	902	6	Miroslav	Jatel			27	technik	Lačnov	99	80	0	M
+7203	543098	1	3	901	6	Vladimíra	Drábová	Ing.		25	marketingový specialista	Lačnov	99	80	0	F
+7203	543098	1	4	181	6	Josef	Šerý			38	mistr výroby	Lačnov	99	181	0	M
+7203	543098	1	1	1	7	Vojtěch	Trčka			64	důchodce	Lačnov	99	1	0	M
+7203	543098	1	2	902	7	Jan	Sucháček			23	technik CNC strojů	Lačnov	99	80	0	M
+7203	543098	1	3	901	7	Petr	Vlček			41	živnostník	Lačnov	99	80	0	M
+7203	543098	1	4	181	7	Vojtěch	Trčka			37	elektromontér	Lačnov	99	181	0	M
+7203	543098	1	1	1	8	Pavel	Jahoda			27	mistr výroby	Lačnov	99	1	0	M
+7203	543098	1	2	902	8	Vlastimil	Sucháček	Ing.		26	manažer energetické spol.	Lačnov	99	80	0	M
+7203	543098	1	3	901	8	Josef	Šarátek			40	živnostník	Lačnov	99	80	0	M
+7203	543098	1	4	181	8	Zdeněk	Palát			21	svářeč	Lačnov	99	181	0	M
+7203	543098	1	1	1	9	Josef	Masař			40	pracovník ostrahy	Lačnov	99	1	0	M
+7203	543098	1	2	902	9	Jaroslav	Rumánek			38	servisní technik	Lačnov	99	80	0	M
+7203	543098	1	3	901	9	Jan	Brhel	Ing.		25	technik výroby	Lačnov	99	80	0	M
+7203	543098	1	4	181	9	Jiří	Sucháček			30	technik	Lačnov	99	181	0	M

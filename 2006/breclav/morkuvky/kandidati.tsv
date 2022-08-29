@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6204	584681	1	1	47	1	Josef	Kyncl	M			55	důchodce	Morkůvky	99	47	0
-6204	584681	1	1	47	2	Pavel	Dobeš	M			57	podnikatel	Morkůvky	47	47	0
-6204	584681	1	1	47	3	Rostislav	Straka	M			61	důchodce	Morkůvky	99	47	0
-6204	584681	1	1	47	4	Jiří	Bula	M			49	dělník	Morkůvky	99	47	0
-6204	584681	1	1	47	5	Marcela	Adámková	F			45	vedoucí pošty	Morkůvky	99	47	0
-6204	584681	1	1	47	6	Zdeněk	Vymazal	M			56	řidič	Morkůvky	99	47	0
-6204	584681	1	1	47	7	Daniel	Lupač	M			26	řidič	Morkůvky	99	47	0
-6204	584681	1	1	47	8	Vladimír	Bravenec	M			53	zaměstnanec	Morkůvky	99	47	0
-6204	584681	1	1	47	9	Jaroslav	Babáček	M			46	zaměstnanec	Morkůvky	99	47	0
-6204	584681	1	2	7	1	František	Juras	M			48	technický pracovník	Morkůvky	99	7	0
-6204	584681	1	2	7	2	Luděk	Páleník	M	Mgr.		41	učitel	Morkůvky	99	7	0
-6204	584681	1	2	7	3	Jana	Petrášová	F	Mgr.		45	učitelka	Morkůvky	99	7	0
-6204	584681	1	2	7	4	Jiří	Horák	M	Ing.		28	konstruktér	Morkůvky	99	7	0
-6204	584681	1	2	7	5	Šárka	Filásková	F			33	zdravotní sestra	Morkůvky	99	7	0
-6204	584681	1	2	7	6	Jaromír	Kincl	M			49	operátor	Morkůvky	99	7	0
-6204	584681	1	2	7	7	Alena	Partyková	F			41	kuchařka	Morkůvky	99	7	0
-6204	584681	1	2	7	8	Robert	Petráš	M			36	řidič - dopravce	Morkůvky	99	7	0
-6204	584681	1	2	7	9	Jiří	Troubil	M			28	podnikatel	Morkůvky	99	7	0
-6204	584681	1	3	801	1	Jaroslav	Kališ	M	Ing.		49	podnikatel	Morkůvky	99	80	0
-6204	584681	1	4	802	1	Marie	Krhánková	F			69	důchodkyně	Morkůvky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6204	584681	1	1	47	1	Josef	Kyncl			55	důchodce	Morkůvky	99	47	0	M
+6204	584681	1	2	7	1	František	Juras			48	technický pracovník	Morkůvky	99	7	0	M
+6204	584681	1	3	801	1	Jaroslav	Kališ	Ing.		49	podnikatel	Morkůvky	99	80	0	M
+6204	584681	1	4	802	1	Marie	Krhánková			69	důchodkyně	Morkůvky	99	80	0	F
+6204	584681	1	1	47	2	Pavel	Dobeš			57	podnikatel	Morkůvky	47	47	0	M
+6204	584681	1	2	7	2	Luděk	Páleník	Mgr.		41	učitel	Morkůvky	99	7	0	M
+6204	584681	1	1	47	3	Rostislav	Straka			61	důchodce	Morkůvky	99	47	0	M
+6204	584681	1	2	7	3	Jana	Petrášová	Mgr.		45	učitelka	Morkůvky	99	7	0	F
+6204	584681	1	1	47	4	Jiří	Bula			49	dělník	Morkůvky	99	47	0	M
+6204	584681	1	2	7	4	Jiří	Horák	Ing.		28	konstruktér	Morkůvky	99	7	0	M
+6204	584681	1	1	47	5	Marcela	Adámková			45	vedoucí pošty	Morkůvky	99	47	0	F
+6204	584681	1	2	7	5	Šárka	Filásková			33	zdravotní sestra	Morkůvky	99	7	0	F
+6204	584681	1	1	47	6	Zdeněk	Vymazal			56	řidič	Morkůvky	99	47	0	M
+6204	584681	1	2	7	6	Jaromír	Kincl			49	operátor	Morkůvky	99	7	0	M
+6204	584681	1	1	47	7	Daniel	Lupač			26	řidič	Morkůvky	99	47	0	M
+6204	584681	1	2	7	7	Alena	Partyková			41	kuchařka	Morkůvky	99	7	0	F
+6204	584681	1	1	47	8	Vladimír	Bravenec			53	zaměstnanec	Morkůvky	99	47	0	M
+6204	584681	1	2	7	8	Robert	Petráš			36	řidič - dopravce	Morkůvky	99	7	0	M
+6204	584681	1	1	47	9	Jaroslav	Babáček			46	zaměstnanec	Morkůvky	99	47	0	M
+6204	584681	1	2	7	9	Jiří	Troubil			28	podnikatel	Morkůvky	99	7	0	M

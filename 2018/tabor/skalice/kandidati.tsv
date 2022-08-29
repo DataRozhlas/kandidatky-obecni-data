@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3107	553077	1	1	903	1	Tomáš	Bílý	M			47	podnikatel	Radimov	99	80	A
-3107	553077	1	1	903	2	Jan	Kadlec	M			38	prodejce	Radimov	99	80	A
-3107	553077	1	1	903	3	Petra	Korandová	F			41	účetní	Radimov	99	80	A
-3107	553077	1	1	903	4	Nikola	Sagapova	F	Ing.		27	vědecko-výzkumný pracovník	Radimov	99	80	A
-3107	553077	1	1	903	5	Zdeněk	Ziegler	M			55	řidič	Radimov	99	80	A
-3107	553077	1	1	903	6	František	Koranda	M			52	obráběč kovů	Radimov	99	80	A
-3107	553077	1	1	903	7	Kateřina	Korandová	F			27	nezaměstnaná	Radimov	99	80	A
-3107	553077	1	1	903	8	Jiří	Koranda	M			51	OSVČ	Radimov	99	80	A
-3107	553077	1	1	903	9	Barbora	Bílá	F			21	mateřská dovolená	Radimov	99	80	A
-3107	553077	1	2	904	1	Petr	Cícha	M	Ing.		47	starosta	Třebiště	99	80	A
-3107	553077	1	2	904	2	Lukáš	Kubíček	M			37	státní zaměstnanec	Třebiště	99	80	A
-3107	553077	1	2	904	3	Stanislav	Toufar	M			41	zemědělec	Třebiště	99	80	A
-3107	553077	1	2	904	4	Jana	Maninová	F			54	prodavačka	Třebiště	99	80	A
-3107	553077	1	2	904	5	Vladimír	Doležal	M	Ing.		50	státní zaměstnanec	Třebiště	99	80	A
-3107	553077	1	2	904	6	Roman	Šavrda	M			46	OSVČ	Třebiště	99	80	A
-3107	553077	1	2	904	7	Josef	Manina	M			31	obchodní zástupce	Třebiště	99	80	A
-3107	553077	1	2	904	8	Jan	Boháč	M			28	montér strojní	Třebiště	99	80	A
-3107	553077	1	2	904	9	Petra	Boháčová	F			27	mateřská dovolená	Třebiště	99	80	A
-3107	553077	1	3	901	1	Vladimír	Vančata	M	Ing.		57	technik	Skalice	99	80	A
-3107	553077	1	3	901	2	Jana	Veselá	F	Bc.		56	učitelka MŠ	Skalice	99	80	A
-3107	553077	1	3	901	3	Luboš	Kostrba	M			44	kuchař	Skalice	99	80	A
-3107	553077	1	3	901	4	František	Ježek	M			43	seřizovač	Skalice	99	80	A
-3107	553077	1	3	901	5	Lukáš	Klus	M			34	obchodní zástupce	Skalice	99	80	A
-3107	553077	1	3	901	6	Jiřina	Lukešová	F			66	důchodce	Skalice	99	80	A
-3107	553077	1	3	901	7	Michaela	Šmídová	F	Mgr.		33	učitelka	Skalice	99	80	A
-3107	553077	1	3	901	8	Bohuslav	Kovařík	M			43	svářeč	Skalice	99	80	A
-3107	553077	1	3	901	9	Hynek	Másílko	M	Ing.		53	učitel	Skalice	99	80	A
-3107	553077	1	4	902	1	Jiří	Brt	M			63	místostarosta	Rybova Lhota	99	80	A
-3107	553077	1	4	902	2	Martin	Brt	M			27	servisní technik	Rybova Lhota	99	80	A
-3107	553077	1	4	902	3	Milan	Podojil	M			40	policista	Rybova Lhota	99	80	A
-3107	553077	1	4	902	4	Michal	Douda	M			37	OSVČ	Rybova Lhota	99	80	A
-3107	553077	1	4	902	5	Jitka	Šimků	F			54	účetní	Rybova Lhota	99	80	A
-3107	553077	1	4	902	6	Michal	Rejhons	M			32	OSVČ	Rybova Lhota	99	80	A
-3107	553077	1	4	902	7	Jiří	Pour	M			35	projektový manažer	Rybova Lhota	99	80	A
-3107	553077	1	4	902	8	Miroslav	Šimků	M			25	konstruktér	Rybova Lhota	99	80	A
-3107	553077	1	4	902	9	Lada	Suchá	F			30	učitelka MŠ	Rybova Lhota	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3107	553077	1	1	903	1	Tomáš	Bílý			47	podnikatel	Radimov	99	80	A	M
+3107	553077	1	2	904	1	Petr	Cícha	Ing.		47	starosta	Třebiště	99	80	A	M
+3107	553077	1	3	901	1	Vladimír	Vančata	Ing.		57	technik	Skalice	99	80	A	M
+3107	553077	1	4	902	1	Jiří	Brt			63	místostarosta	Rybova Lhota	99	80	A	M
+3107	553077	1	1	903	2	Jan	Kadlec			38	prodejce	Radimov	99	80	A	M
+3107	553077	1	2	904	2	Lukáš	Kubíček			37	státní zaměstnanec	Třebiště	99	80	A	M
+3107	553077	1	3	901	2	Jana	Veselá	Bc.		56	učitelka MŠ	Skalice	99	80	A	F
+3107	553077	1	4	902	2	Martin	Brt			27	servisní technik	Rybova Lhota	99	80	A	M
+3107	553077	1	1	903	3	Petra	Korandová			41	účetní	Radimov	99	80	A	F
+3107	553077	1	2	904	3	Stanislav	Toufar			41	zemědělec	Třebiště	99	80	A	M
+3107	553077	1	3	901	3	Luboš	Kostrba			44	kuchař	Skalice	99	80	A	M
+3107	553077	1	4	902	3	Milan	Podojil			40	policista	Rybova Lhota	99	80	A	M
+3107	553077	1	1	903	4	Nikola	Sagapova	Ing.		27	vědecko-výzkumný pracovník	Radimov	99	80	A	F
+3107	553077	1	2	904	4	Jana	Maninová			54	prodavačka	Třebiště	99	80	A	F
+3107	553077	1	3	901	4	František	Ježek			43	seřizovač	Skalice	99	80	A	M
+3107	553077	1	4	902	4	Michal	Douda			37	OSVČ	Rybova Lhota	99	80	A	M
+3107	553077	1	1	903	5	Zdeněk	Ziegler			55	řidič	Radimov	99	80	A	M
+3107	553077	1	2	904	5	Vladimír	Doležal	Ing.		50	státní zaměstnanec	Třebiště	99	80	A	M
+3107	553077	1	3	901	5	Lukáš	Klus			34	obchodní zástupce	Skalice	99	80	A	M
+3107	553077	1	4	902	5	Jitka	Šimků			54	účetní	Rybova Lhota	99	80	A	F
+3107	553077	1	1	903	6	František	Koranda			52	obráběč kovů	Radimov	99	80	A	M
+3107	553077	1	2	904	6	Roman	Šavrda			46	OSVČ	Třebiště	99	80	A	M
+3107	553077	1	3	901	6	Jiřina	Lukešová			66	důchodce	Skalice	99	80	A	F
+3107	553077	1	4	902	6	Michal	Rejhons			32	OSVČ	Rybova Lhota	99	80	A	M
+3107	553077	1	1	903	7	Kateřina	Korandová			27	nezaměstnaná	Radimov	99	80	A	F
+3107	553077	1	2	904	7	Josef	Manina			31	obchodní zástupce	Třebiště	99	80	A	M
+3107	553077	1	3	901	7	Michaela	Šmídová	Mgr.		33	učitelka	Skalice	99	80	A	F
+3107	553077	1	4	902	7	Jiří	Pour			35	projektový manažer	Rybova Lhota	99	80	A	M
+3107	553077	1	1	903	8	Jiří	Koranda			51	OSVČ	Radimov	99	80	A	M
+3107	553077	1	2	904	8	Jan	Boháč			28	montér strojní	Třebiště	99	80	A	M
+3107	553077	1	3	901	8	Bohuslav	Kovařík			43	svářeč	Skalice	99	80	A	M
+3107	553077	1	4	902	8	Miroslav	Šimků			25	konstruktér	Rybova Lhota	99	80	A	M
+3107	553077	1	1	903	9	Barbora	Bílá			21	mateřská dovolená	Radimov	99	80	A	F
+3107	553077	1	2	904	9	Petra	Boháčová			27	mateřská dovolená	Třebiště	99	80	A	F
+3107	553077	1	3	901	9	Hynek	Másílko	Ing.		53	učitel	Skalice	99	80	A	M
+3107	553077	1	4	902	9	Lada	Suchá			30	učitelka MŠ	Rybova Lhota	99	80	A	F

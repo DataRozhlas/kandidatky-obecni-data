@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	582701	1	1	1	1	Josef	Ovad	M	Bc.		46	starosta obce	Molenburk	1	1	0
-6201	582701	1	1	1	2	Martin	Koupý	M	Mgr.		41	ředitel školy	Housko	99	1	0
-6201	582701	1	1	1	3	Bořivoj	Sekanina	M	Mgr.		43	referent pro rodinnou politiku	Molenburk	1	1	0
-6201	582701	1	1	1	4	Martin	Jelínek	M			33	řidič	Housko	99	1	0
-6201	582701	1	1	1	5	Milan	Vintr	M			49	podnikatel	Molenburk	1	1	0
-6201	582701	1	1	1	6	Eva	Ditrichová	F	Mgr.		30	státní zaměstnanec	Molenburk	99	1	0
-6201	582701	1	1	1	7	Radek	Hejč	M			45	náčelník lanové dráhy	Molenburk	99	1	0
-6201	582701	1	1	1	8	Lenka	Ševčíková	F	Ing.		28	referent státní správy	Housko	99	1	0
-6201	582701	1	1	1	9	Martin	Přibyl	M			41	vedoucí servisu	Molenburk	99	1	0
-6201	582701	1	1	1	10	Gabriela	Kolomazníčková	F			36	vychovatelka	Molenburk	1	1	0
-6201	582701	1	1	1	11	Leopold	Mynařík	M			49	opravář strojů	Molenburk	1	1	0
-6201	582701	1	1	1	12	Václav	Hudec	M			36	vedoucí výroby	Molenburk	1	1	0
-6201	582701	1	1	1	13	Miroslav	Hejč	M			45	dělník	Molenburk	99	1	0
-6201	582701	1	1	1	14	Stanislav	Kala	M			73	důchodce	Molenburk	99	1	0
-6201	582701	1	1	1	15	Ladislav	Ševčík	M			44	technický pracovník	Housko	99	1	0
-6201	582701	1	2	47	1	Marek	Šmíd	M			38	OSVČ	Vysočany, Molenbur	99	47	0
-6201	582701	1	2	47	2	Radek	Horáček	M	Mgr.		43	státní zaměstnanec	Vysočany, Molenburk	99	47	0
-6201	582701	1	2	47	3	Martin	Mynařík	M			33	vedoucí zákaznického servisu	Vysočany, Molenburk	99	47	0
-6201	582701	1	2	47	4	Luděk	Škaroupka	M			59	vedoucí provozu	Vysočany Molenburk	47	47	0
-6201	582701	1	2	47	5	Pavel	Kala	M			49	dělník	Vysočany, Housko	99	47	0
-6201	582701	1	2	47	6	Marie	Keprtová	F			64	důchodkyně	Vysočany, Molenburk	47	47	0
-6201	582701	1	2	47	7	Dušan	Škvařil	M			29	OSVČ	Vysočany, Molenburk	99	47	0
-6201	582701	1	2	47	8	Jaroslav	Hrazdíra	M			62	technik	Vysočany, Housko	47	47	0
-6201	582701	1	2	47	9	Leoš	Sehnal	M	Bc.		36	vedoucí kalibrační linky	Vysočany, Molenburk	99	47	0
-6201	582701	1	2	47	10	Alena	Chlupová	F			33	prodavačka	Vysočany, Molenburk	99	47	0
-6201	582701	1	2	47	11	Bohumír	Kurečka	M	Mgr.		32	kontrolor kvality	Vysočany, Molenburk	99	47	0
-6201	582701	1	2	47	12	Lukáš	Mynařík	M			25	kuchař	Vysočany, Molenburk	99	47	0
-6201	582701	1	2	47	13	Milan	Vondrák	M			34	montážní dělník	Vysočany, Molenburk	99	47	0
-6201	582701	1	2	47	14	Rudolf	Čachotský	M			70	důchodce	Vysočany, Molenburk	99	47	0
-6201	582701	1	2	47	15	Lenka	Pernicová	F	Bc.		50	úřednice	Vysočany, Molenburk	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	582701	1	1	1	1	Josef	Ovad	Bc.		46	starosta obce	Molenburk	1	1	0	M
+6201	582701	1	2	47	1	Marek	Šmíd			38	OSVČ	Vysočany, Molenbur	99	47	0	M
+6201	582701	1	1	1	2	Martin	Koupý	Mgr.		41	ředitel školy	Housko	99	1	0	M
+6201	582701	1	2	47	2	Radek	Horáček	Mgr.		43	státní zaměstnanec	Vysočany, Molenburk	99	47	0	M
+6201	582701	1	1	1	3	Bořivoj	Sekanina	Mgr.		43	referent pro rodinnou politiku	Molenburk	1	1	0	M
+6201	582701	1	2	47	3	Martin	Mynařík			33	vedoucí zákaznického servisu	Vysočany, Molenburk	99	47	0	M
+6201	582701	1	1	1	4	Martin	Jelínek			33	řidič	Housko	99	1	0	M
+6201	582701	1	2	47	4	Luděk	Škaroupka			59	vedoucí provozu	Vysočany Molenburk	47	47	0	M
+6201	582701	1	1	1	5	Milan	Vintr			49	podnikatel	Molenburk	1	1	0	M
+6201	582701	1	2	47	5	Pavel	Kala			49	dělník	Vysočany, Housko	99	47	0	M
+6201	582701	1	1	1	6	Eva	Ditrichová	Mgr.		30	státní zaměstnanec	Molenburk	99	1	0	F
+6201	582701	1	2	47	6	Marie	Keprtová			64	důchodkyně	Vysočany, Molenburk	47	47	0	F
+6201	582701	1	1	1	7	Radek	Hejč			45	náčelník lanové dráhy	Molenburk	99	1	0	M
+6201	582701	1	2	47	7	Dušan	Škvařil			29	OSVČ	Vysočany, Molenburk	99	47	0	M
+6201	582701	1	1	1	8	Lenka	Ševčíková	Ing.		28	referent státní správy	Housko	99	1	0	F
+6201	582701	1	2	47	8	Jaroslav	Hrazdíra			62	technik	Vysočany, Housko	47	47	0	M
+6201	582701	1	1	1	9	Martin	Přibyl			41	vedoucí servisu	Molenburk	99	1	0	M
+6201	582701	1	2	47	9	Leoš	Sehnal	Bc.		36	vedoucí kalibrační linky	Vysočany, Molenburk	99	47	0	M
+6201	582701	1	1	1	10	Gabriela	Kolomazníčková			36	vychovatelka	Molenburk	1	1	0	F
+6201	582701	1	2	47	10	Alena	Chlupová			33	prodavačka	Vysočany, Molenburk	99	47	0	F
+6201	582701	1	1	1	11	Leopold	Mynařík			49	opravář strojů	Molenburk	1	1	0	M
+6201	582701	1	2	47	11	Bohumír	Kurečka	Mgr.		32	kontrolor kvality	Vysočany, Molenburk	99	47	0	M
+6201	582701	1	1	1	12	Václav	Hudec			36	vedoucí výroby	Molenburk	1	1	0	M
+6201	582701	1	2	47	12	Lukáš	Mynařík			25	kuchař	Vysočany, Molenburk	99	47	0	M
+6201	582701	1	1	1	13	Miroslav	Hejč			45	dělník	Molenburk	99	1	0	M
+6201	582701	1	2	47	13	Milan	Vondrák			34	montážní dělník	Vysočany, Molenburk	99	47	0	M
+6201	582701	1	1	1	14	Stanislav	Kala			73	důchodce	Molenburk	99	1	0	M
+6201	582701	1	2	47	14	Rudolf	Čachotský			70	důchodce	Vysočany, Molenburk	99	47	0	M
+6201	582701	1	1	1	15	Ladislav	Ševčík			44	technický pracovník	Housko	99	1	0	M
+6201	582701	1	2	47	15	Lenka	Pernicová	Bc.		50	úřednice	Vysočany, Molenburk	99	47	0	F

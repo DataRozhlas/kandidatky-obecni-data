@@ -1,7 +1,7 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4202	546062	1	1	901	1	Marie	Žovinová	F			57	operátor kontroly	Pesvice	99	80	0
-4202	546062	1	1	901	2	Pavel	Březina	M			44	kontrolní technik	Pesvice	99	80	0
-4202	546062	1	1	901	3	František	Tuhý	M	Ing.		62	technik	Pesvice	99	80	0
-4202	546062	1	1	901	4	Milan	Reiss	M	Ing.		36	správce oper. systému	Pesvice	99	80	0
-4202	546062	1	1	901	5	Ladislava	Hrubešová	F			34	operátor kontroly	Pesvice	99	80	0
-4202	546062	1	1	901	6	Jaroslava	Luksová	F			54	podnikatelka	Pesvice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4202	546062	1	1	901	1	Marie	Žovinová			57	operátor kontroly	Pesvice	99	80	0	F
+4202	546062	1	1	901	2	Pavel	Březina			44	kontrolní technik	Pesvice	99	80	0	M
+4202	546062	1	1	901	3	František	Tuhý	Ing.		62	technik	Pesvice	99	80	0	M
+4202	546062	1	1	901	4	Milan	Reiss	Ing.		36	správce oper. systému	Pesvice	99	80	0	M
+4202	546062	1	1	901	5	Ladislava	Hrubešová			34	operátor kontroly	Pesvice	99	80	0	F
+4202	546062	1	1	901	6	Jaroslava	Luksová			54	podnikatelka	Pesvice	99	80	0	F

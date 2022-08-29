@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	535982	1	1	903	1	Josef	Čurda	M			50	opravář	Kondrač	99	80	0
-3101	535982	1	1	903	2	Jaroslav	Jaroš	M			47	OSVČ	Kamenná	99	80	0
-3101	535982	1	1	903	3	Petr	Kalianko	M			37	automechanik	Kamenná	99	80	0
-3101	535982	1	1	903	4	Jaroslav	Jaroš	M			23	truhlář	Kamenná	99	80	0
-3101	535982	1	1	903	5	Libor	Pavlík	M			38	GPN leštič	Kamenná	99	80	0
-3101	535982	1	1	903	6	Drahomíra	Šnejdová	F			59	důchodce	Kamenná	99	80	0
-3101	535982	1	1	903	7	Vojtěch	Dobusch	M			64	důchodce	Kondrač	99	80	0
-3101	535982	1	1	903	8	Josef	Lavička	M			65	důchodce	Kamenná	99	80	0
-3101	535982	1	1	903	9	Josef	Smolen	M			51	opravář	Kondrač	99	80	0
-3101	535982	1	2	902	1	Karel	Vacula	M			27	OSVČ	Kamenná	99	80	0
-3101	535982	1	2	902	2	Miroslava	Příhodová	F			50	technik	Kamenná	99	80	0
-3101	535982	1	2	902	3	Ludmila	Sýkorová	F			34	dělnice	Kamenná	99	80	0
-3101	535982	1	2	902	4	Marie	Poláková	F	Mgr.		53	učitelka	Kamenná	99	80	0
-3101	535982	1	2	902	5	Josef	Malák	M			52	opravář zem.strojů	Kondrač	99	80	0
-3101	535982	1	2	902	6	Jana	Syrovátková	F			47	prodavačka	Kamenná	99	80	0
-3101	535982	1	2	902	7	Jiřina	Nečasová	F			66	důchodkyně	Kamenná	99	80	0
-3101	535982	1	2	902	8	Bohuslav	Bašta	M			55	OSVČ	Kamenná	99	80	0
-3101	535982	1	2	902	9	Josef	Bašta	M			41	svářeč	Kamenná	99	80	0
-3101	535982	1	3	904	1	Josef	Bašta	M			31	dělník	Kamenná	99	80	0
-3101	535982	1	3	904	2	Josef	Příhoda	M			36	mechanik, opravář	Kamenná	99	80	0
-3101	535982	1	3	904	3	Josef	Nečas	M			47	dělník	Kamenná	99	80	0
-3101	535982	1	3	904	4	Monika	Lavičková	F			22	student	Kamenná	99	80	0
-3101	535982	1	3	904	5	Miroslav	Lenz	M			27	dělník	Kamenná	99	80	0
-3101	535982	1	3	904	6	Pavel	Lavička	M			24	dělník	Kamenná	99	80	0
-3101	535982	1	3	904	7	Jiří	Kunágl	M			34	elektrikář	Kamenná	99	80	0
-3101	535982	1	3	904	8	Michal	Hanzal	M			21	číšník	Kamenná	99	80	0
-3101	535982	1	3	904	9	Svatava	Baštová	F			28	restaurátorka	Kamenná	99	80	0
-3101	535982	1	4	901	1	Marian	Kutlák	M			39	zedník	Kamenná	99	80	0
-3101	535982	1	4	901	2	Ivana	Baštová	F			41	švadlena	Kamenná	99	80	0
-3101	535982	1	4	901	3	Václav	Tůma	M			38	stavební truhlář	Kamenná	99	80	0
-3101	535982	1	4	901	4	Jaroslav	Kunágl	M			38	zedník	Kamenná	99	80	0
-3101	535982	1	4	901	5	Jan	Sýkora	M			34	opr.,mechanizátor zem.strojů	Kamenná	99	80	0
-3101	535982	1	4	901	6	Martin	Řebíček	M			36	soukromý podnikatel	Kamenná	99	80	0
-3101	535982	1	4	901	7	František	Syrovátka	M			51	zámečník	Kamenná	99	80	0
-3101	535982	1	4	901	8	Vendula	Holá	F			29	sekretářka	Kamenná	99	80	0
-3101	535982	1	4	901	9	Vlastimil	Bašta	M			47	OSVČ	Kamenná	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	535982	1	1	903	1	Josef	Čurda			50	opravář	Kondrač	99	80	0	M
+3101	535982	1	2	902	1	Karel	Vacula			27	OSVČ	Kamenná	99	80	0	M
+3101	535982	1	3	904	1	Josef	Bašta			31	dělník	Kamenná	99	80	0	M
+3101	535982	1	4	901	1	Marian	Kutlák			39	zedník	Kamenná	99	80	0	M
+3101	535982	1	1	903	2	Jaroslav	Jaroš			47	OSVČ	Kamenná	99	80	0	M
+3101	535982	1	2	902	2	Miroslava	Příhodová			50	technik	Kamenná	99	80	0	F
+3101	535982	1	3	904	2	Josef	Příhoda			36	mechanik, opravář	Kamenná	99	80	0	M
+3101	535982	1	4	901	2	Ivana	Baštová			41	švadlena	Kamenná	99	80	0	F
+3101	535982	1	1	903	3	Petr	Kalianko			37	automechanik	Kamenná	99	80	0	M
+3101	535982	1	2	902	3	Ludmila	Sýkorová			34	dělnice	Kamenná	99	80	0	F
+3101	535982	1	3	904	3	Josef	Nečas			47	dělník	Kamenná	99	80	0	M
+3101	535982	1	4	901	3	Václav	Tůma			38	stavební truhlář	Kamenná	99	80	0	M
+3101	535982	1	1	903	4	Jaroslav	Jaroš			23	truhlář	Kamenná	99	80	0	M
+3101	535982	1	2	902	4	Marie	Poláková	Mgr.		53	učitelka	Kamenná	99	80	0	F
+3101	535982	1	3	904	4	Monika	Lavičková			22	student	Kamenná	99	80	0	F
+3101	535982	1	4	901	4	Jaroslav	Kunágl			38	zedník	Kamenná	99	80	0	M
+3101	535982	1	1	903	5	Libor	Pavlík			38	GPN leštič	Kamenná	99	80	0	M
+3101	535982	1	2	902	5	Josef	Malák			52	opravář zem.strojů	Kondrač	99	80	0	M
+3101	535982	1	3	904	5	Miroslav	Lenz			27	dělník	Kamenná	99	80	0	M
+3101	535982	1	4	901	5	Jan	Sýkora			34	opr.,mechanizátor zem.strojů	Kamenná	99	80	0	M
+3101	535982	1	1	903	6	Drahomíra	Šnejdová			59	důchodce	Kamenná	99	80	0	F
+3101	535982	1	2	902	6	Jana	Syrovátková			47	prodavačka	Kamenná	99	80	0	F
+3101	535982	1	3	904	6	Pavel	Lavička			24	dělník	Kamenná	99	80	0	M
+3101	535982	1	4	901	6	Martin	Řebíček			36	soukromý podnikatel	Kamenná	99	80	0	M
+3101	535982	1	1	903	7	Vojtěch	Dobusch			64	důchodce	Kondrač	99	80	0	M
+3101	535982	1	2	902	7	Jiřina	Nečasová			66	důchodkyně	Kamenná	99	80	0	F
+3101	535982	1	3	904	7	Jiří	Kunágl			34	elektrikář	Kamenná	99	80	0	M
+3101	535982	1	4	901	7	František	Syrovátka			51	zámečník	Kamenná	99	80	0	M
+3101	535982	1	1	903	8	Josef	Lavička			65	důchodce	Kamenná	99	80	0	M
+3101	535982	1	2	902	8	Bohuslav	Bašta			55	OSVČ	Kamenná	99	80	0	M
+3101	535982	1	3	904	8	Michal	Hanzal			21	číšník	Kamenná	99	80	0	M
+3101	535982	1	4	901	8	Vendula	Holá			29	sekretářka	Kamenná	99	80	0	F
+3101	535982	1	1	903	9	Josef	Smolen			51	opravář	Kondrač	99	80	0	M
+3101	535982	1	2	902	9	Josef	Bašta			41	svářeč	Kamenná	99	80	0	M
+3101	535982	1	3	904	9	Svatava	Baštová			28	restaurátorka	Kamenná	99	80	0	F
+3101	535982	1	4	901	9	Vlastimil	Bašta			47	OSVČ	Kamenná	99	80	0	M

@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3204	558184	1	1	7	1	Josef	Pavelec	M			54	invalidní důchodce	Kotouň	7	7	0
-3204	558184	1	1	7	2	Jaroslav	Julínek	M			34	zedník	Oselce	7	7	0
-3204	558184	1	1	7	3	Eva	Herciková	F			60	důchodce	Kotouň	7	7	0
-3204	558184	1	1	7	4	Karel	Škudrna	M			51	strojvedoucí	Kotouň	99	7	0
-3204	558184	1	1	7	5	Josef	Pavelec	M			22	student	Kotouň	99	7	0
-3204	558184	1	2	801	1	Jan	Klíma	M			23	student	Oselce	99	80	0
-3204	558184	1	3	802	1	Tomáš	Janda	M			26	OSVČ	Oselce	99	80	0
-3204	558184	1	4	901	1	Pavel	Fedák	M			42	OSVČ	Kotouň	99	80	0
-3204	558184	1	4	901	2	Petr	Jára	M			34	elektrikář	Kotouň	99	80	0
-3204	558184	1	4	901	3	Petr	Bláha	M			34	svářeč	Kotouň	99	80	0
-3204	558184	1	4	901	4	Pavel	Pechr	M			33	dělník	Kotouň	99	80	0
-3204	558184	1	4	901	5	Zdeněk	Kabelák	M			43	elektro mechanik	Kotouň	99	80	0
-3204	558184	1	5	902	1	Jiří	Jirka	M			59	řidič	Oselce	99	80	0
-3204	558184	1	5	902	2	Václav	Houlík	M			48	státní zaměstnanec	Oselce	99	80	0
-3204	558184	1	5	902	3	Václav	Bumbička	M	Ing.		56	ředitel střední školy	Nová Ves	99	80	0
-3204	558184	1	5	902	4	Jitka	Chaloupková	F			44	vedoucí jídelny	Oselce	99	80	0
-3204	558184	1	5	902	5	Ivana	Cikánová	F			42	vedoucí pošty	Oselce	99	80	0
-3204	558184	1	5	902	6	David	Červený	M			38	rybářský dělník	Oselce	99	80	0
-3204	558184	1	5	902	7	Josef	Hulač	M			66	důchodce	Oselce	99	80	0
-3204	558184	1	5	902	8	Miloslav	Cikán	M			30	skladník	Oselce	99	80	0
-3204	558184	1	5	902	9	Miroslav	Šantrůček	M			59	dělník	Oselce	99	80	0
-3204	558184	1	6	903	1	Václav	Panuška	M			51	dělník	Oselce	99	80	0
-3204	558184	1	6	903	2	Roman	Koblasa	M			52	kontrolní technik	Oselce	99	80	0
-3204	558184	1	6	903	3	Miloslav	Cikán	M			62	technik VHD	Oselce	99	80	0
-3204	558184	1	6	903	4	Jiří	Strnad	M			44	živnostník	Oselce	99	80	0
-3204	558184	1	6	903	5	Jiří	Marek	M			69	důchodce	Oselce	99	80	0
-3204	558184	1	6	903	6	Pavel	Kadič	M			46	rybářský technik	Oselce	99	80	0
-3204	558184	1	6	903	7	Jan	Houlík	M			23	student	Oselce	99	80	0
-3204	558184	1	6	903	8	Zdeněk	Dovín	M			24	zámečník	Oselce	99	80	0
-3204	558184	1	6	903	9	Pavel	Reindl	M			54	elektrikář	Oselce	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3204	558184	1	1	7	1	Josef	Pavelec			54	invalidní důchodce	Kotouň	7	7	0	M
+3204	558184	1	2	801	1	Jan	Klíma			23	student	Oselce	99	80	0	M
+3204	558184	1	3	802	1	Tomáš	Janda			26	OSVČ	Oselce	99	80	0	M
+3204	558184	1	4	901	1	Pavel	Fedák			42	OSVČ	Kotouň	99	80	0	M
+3204	558184	1	5	902	1	Jiří	Jirka			59	řidič	Oselce	99	80	0	M
+3204	558184	1	6	903	1	Václav	Panuška			51	dělník	Oselce	99	80	0	M
+3204	558184	1	1	7	2	Jaroslav	Julínek			34	zedník	Oselce	7	7	0	M
+3204	558184	1	4	901	2	Petr	Jára			34	elektrikář	Kotouň	99	80	0	M
+3204	558184	1	5	902	2	Václav	Houlík			48	státní zaměstnanec	Oselce	99	80	0	M
+3204	558184	1	6	903	2	Roman	Koblasa			52	kontrolní technik	Oselce	99	80	0	M
+3204	558184	1	1	7	3	Eva	Herciková			60	důchodce	Kotouň	7	7	0	F
+3204	558184	1	4	901	3	Petr	Bláha			34	svářeč	Kotouň	99	80	0	M
+3204	558184	1	5	902	3	Václav	Bumbička	Ing.		56	ředitel střední školy	Nová Ves	99	80	0	M
+3204	558184	1	6	903	3	Miloslav	Cikán			62	technik VHD	Oselce	99	80	0	M
+3204	558184	1	1	7	4	Karel	Škudrna			51	strojvedoucí	Kotouň	99	7	0	M
+3204	558184	1	4	901	4	Pavel	Pechr			33	dělník	Kotouň	99	80	0	M
+3204	558184	1	5	902	4	Jitka	Chaloupková			44	vedoucí jídelny	Oselce	99	80	0	F
+3204	558184	1	6	903	4	Jiří	Strnad			44	živnostník	Oselce	99	80	0	M
+3204	558184	1	1	7	5	Josef	Pavelec			22	student	Kotouň	99	7	0	M
+3204	558184	1	4	901	5	Zdeněk	Kabelák			43	elektro mechanik	Kotouň	99	80	0	M
+3204	558184	1	5	902	5	Ivana	Cikánová			42	vedoucí pošty	Oselce	99	80	0	F
+3204	558184	1	6	903	5	Jiří	Marek			69	důchodce	Oselce	99	80	0	M
+3204	558184	1	5	902	6	David	Červený			38	rybářský dělník	Oselce	99	80	0	M
+3204	558184	1	6	903	6	Pavel	Kadič			46	rybářský technik	Oselce	99	80	0	M
+3204	558184	1	5	902	7	Josef	Hulač			66	důchodce	Oselce	99	80	0	M
+3204	558184	1	6	903	7	Jan	Houlík			23	student	Oselce	99	80	0	M
+3204	558184	1	5	902	8	Miloslav	Cikán			30	skladník	Oselce	99	80	0	M
+3204	558184	1	6	903	8	Zdeněk	Dovín			24	zámečník	Oselce	99	80	0	M
+3204	558184	1	5	902	9	Miroslav	Šantrůček			59	dělník	Oselce	99	80	0	M
+3204	558184	1	6	903	9	Pavel	Reindl			54	elektrikář	Oselce	99	80	0	M

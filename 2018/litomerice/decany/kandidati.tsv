@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	564729	1	1	901	1	Jiří	Týce	M			66	starosta	Solany	99	80	A
-4203	564729	1	1	901	2	Václav	Škraban	M	Ing.		66	důchodce	Děčany	99	80	A
-4203	564729	1	1	901	3	Michal	Gebhart	M	Mgr.		46	ředitel sekce SPÚ	Semeč	99	80	A
-4203	564729	1	1	901	4	Jiří	Kotlář	M			40	vedoucí vychovatel	Solany	99	80	A
-4203	564729	1	1	901	5	Martina	Rulfová	F			39	účetní	Solany	99	80	A
-4203	564729	1	1	901	6	Stanislav	Bláha	M	Ing.		52	policista PČR	Solany	99	80	A
-4203	564729	1	1	901	7	Kateřina	Jarošová	F			31	mateřská dovolená	Děčany	99	80	A
-4203	564729	1	1	901	8	Martina	Kučerová	F			40	uklízečka	Solany	99	80	A
-4203	564729	1	1	901	9	Tomáš	Brožek	M			47	zámečník	Děčany	99	80	A
-4203	564729	1	2	801	1	Vladimír	Kapolka	M			37	administrátor pošt	Děčany	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	564729	1	1	901	1	Jiří	Týce			66	starosta	Solany	99	80	A	M
+4203	564729	1	2	801	1	Vladimír	Kapolka			37	administrátor pošt	Děčany	99	80	A	M
+4203	564729	1	1	901	2	Václav	Škraban	Ing.		66	důchodce	Děčany	99	80	A	M
+4203	564729	1	1	901	3	Michal	Gebhart	Mgr.		46	ředitel sekce SPÚ	Semeč	99	80	A	M
+4203	564729	1	1	901	4	Jiří	Kotlář			40	vedoucí vychovatel	Solany	99	80	A	M
+4203	564729	1	1	901	5	Martina	Rulfová			39	účetní	Solany	99	80	A	F
+4203	564729	1	1	901	6	Stanislav	Bláha	Ing.		52	policista PČR	Solany	99	80	A	M
+4203	564729	1	1	901	7	Kateřina	Jarošová			31	mateřská dovolená	Děčany	99	80	A	F
+4203	564729	1	1	901	8	Martina	Kučerová			40	uklízečka	Solany	99	80	A	F
+4203	564729	1	1	901	9	Tomáš	Brožek			47	zámečník	Děčany	99	80	A	M

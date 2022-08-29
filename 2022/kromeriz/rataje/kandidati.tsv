@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7201	588938	1	1	903	1	Lukáš	Frkal	M	Bc.		38	OSVČ - ve výpočetní technice	Rataje	99	80	A
-7201	588938	1	1	903	2	Petr	Sedláček	M			49	zemědělský dělník	Rataje	99	80	A
-7201	588938	1	1	903	3	Stanislav	Opelík	M			61	dělník obce	Popovice	99	80	A
-7201	588938	1	1	903	4	Zdeněk	Císař	M			59	řidič	Sobělice	99	80	A
-7201	588938	1	1	903	5	Jana	Krupařová	F			42	prodavačka	Rataje	99	80	A
-7201	588938	1	1	903	6	Karel	Rolný	M			40	dělník obce	Rataje	99	80	A
-7201	588938	1	1	903	7	Antonín	Handl	M			43	dělník/řidič taxi	Popovice	99	80	A
-7201	588938	1	1	903	8	Miroslava	Zubálová	F			36	uklizečka v Základní a Mateřské škole	Popovice	99	80	A
-7201	588938	1	1	903	9	Ladislava	Foltýnová	F			65	důchodce	Rataje	99	80	A
-7201	588938	1	2	902	1	Pavel	Opatrný	M	PhDr.		41	učitel na ZŠ	Rataje	99	80	A
-7201	588938	1	2	902	2	Martina	Sedláčková	F			46	sanitářka v lékárně	Rataje	99	80	A
-7201	588938	1	2	902	3	Vladimíra	Jančová	F	Bc.		32	účetní, nyní RD	Rataje	99	80	A
-7201	588938	1	2	902	4	Filip	Sedláček	M			25	OSVČ elektrikář	Rataje	99	80	A
-7201	588938	1	2	902	5	Jiří	Vojtek	M			45	kurýr GLS, OSVČ provozovatel restaurace	Popovice	99	80	A
-7201	588938	1	2	902	6	Vojtěch	Horák	M			40	seřizovač vstřikolisů	Rataje	99	80	A
-7201	588938	1	2	902	7	Pavel	Hlahůlek	M			43	opravář zemědělských strojů	Popovice	99	80	A
-7201	588938	1	2	902	8	David	Pokora	M			40	revizní technik elektro	Sobělice	99	80	A
-7201	588938	1	2	902	9	Pavel	Uhlíř	M			58	elektromontér	Rataje	99	80	A
-7201	588938	1	3	1	1	Hynek	Švásta	M	Ing.		45	živnostník	Popovice	1	1	A
-7201	588938	1	3	1	2	Bohumil	Zikmund	M			33	živnostník	Rataje	99	1	A
-7201	588938	1	3	1	3	Antonín	Říkovský	M			70	starosta obce	Popovice	1	1	A
-7201	588938	1	3	1	4	Oldřich	Ivánek	M			33	stolař	Sobělice	99	1	A
-7201	588938	1	3	1	5	Ondřej	Stojaník	M			43	fotograf	Popovice	99	1	A
-7201	588938	1	3	1	6	Kateřina	Blumensteinová	F			41	kosmetička	Rataje	99	1	A
-7201	588938	1	3	1	7	Pavel	Kováč	M			57	klempíř	Popovice	99	1	A
-7201	588938	1	3	1	8	Andrea	Dyňková	F			49	administrativní pracovnice	Sobělice	99	1	A
-7201	588938	1	3	1	9	Josef	Sedláček	M	Ing.		62	předseda ZOD Rataje	Popovice	1	1	A
-7201	588938	1	4	901	1	Marek	Zezula	M			47	odborný prodejce	Sobělice	99	80	A
-7201	588938	1	4	901	2	Robert	Opravil	M			51	technický pracovník	Sobělice	99	80	A
-7201	588938	1	4	901	3	Martin	Borek	M			50	konstruktér	Popovice	99	80	A
-7201	588938	1	4	901	4	Pavel	Říkovský	M			47	živnostník	Rataje	99	80	A
-7201	588938	1	4	901	5	Karel	Zezula	M			39	odborný prodejce	Popovice	99	80	A
-7201	588938	1	4	901	6	Zdeněk	Gryča	M			34	technik	Popovice	99	80	A
-7201	588938	1	4	901	7	Adam	Zapletal	M	Ing.		27	vedoucí výroby	Sobělice	99	80	A
-7201	588938	1	4	901	8	Zdeněk	Deneš	M	Ing.		45	vedoucí výroby	Popovice	99	80	A
-7201	588938	1	4	901	9	Antonín	Motal	M			63	technik dopravy	Popovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7201	588938	1	1	903	1	Lukáš	Frkal	Bc.		38	OSVČ - ve výpočetní technice	Rataje	99	80	A	M
+7201	588938	1	2	902	1	Pavel	Opatrný	PhDr.		41	učitel na ZŠ	Rataje	99	80	A	M
+7201	588938	1	3	1	1	Hynek	Švásta	Ing.		45	živnostník	Popovice	1	1	A	M
+7201	588938	1	4	901	1	Marek	Zezula			47	odborný prodejce	Sobělice	99	80	A	M
+7201	588938	1	1	903	2	Petr	Sedláček			49	zemědělský dělník	Rataje	99	80	A	M
+7201	588938	1	2	902	2	Martina	Sedláčková			46	sanitářka v lékárně	Rataje	99	80	A	F
+7201	588938	1	3	1	2	Bohumil	Zikmund			33	živnostník	Rataje	99	1	A	M
+7201	588938	1	4	901	2	Robert	Opravil			51	technický pracovník	Sobělice	99	80	A	M
+7201	588938	1	1	903	3	Stanislav	Opelík			61	dělník obce	Popovice	99	80	A	M
+7201	588938	1	2	902	3	Vladimíra	Jančová	Bc.		32	účetní, nyní RD	Rataje	99	80	A	F
+7201	588938	1	3	1	3	Antonín	Říkovský			70	starosta obce	Popovice	1	1	A	M
+7201	588938	1	4	901	3	Martin	Borek			50	konstruktér	Popovice	99	80	A	M
+7201	588938	1	1	903	4	Zdeněk	Císař			59	řidič	Sobělice	99	80	A	M
+7201	588938	1	2	902	4	Filip	Sedláček			25	OSVČ elektrikář	Rataje	99	80	A	M
+7201	588938	1	3	1	4	Oldřich	Ivánek			33	stolař	Sobělice	99	1	A	M
+7201	588938	1	4	901	4	Pavel	Říkovský			47	živnostník	Rataje	99	80	A	M
+7201	588938	1	1	903	5	Jana	Krupařová			42	prodavačka	Rataje	99	80	A	F
+7201	588938	1	2	902	5	Jiří	Vojtek			45	kurýr GLS, OSVČ provozovatel restaurace	Popovice	99	80	A	M
+7201	588938	1	3	1	5	Ondřej	Stojaník			43	fotograf	Popovice	99	1	A	M
+7201	588938	1	4	901	5	Karel	Zezula			39	odborný prodejce	Popovice	99	80	A	M
+7201	588938	1	1	903	6	Karel	Rolný			40	dělník obce	Rataje	99	80	A	M
+7201	588938	1	2	902	6	Vojtěch	Horák			40	seřizovač vstřikolisů	Rataje	99	80	A	M
+7201	588938	1	3	1	6	Kateřina	Blumensteinová			41	kosmetička	Rataje	99	1	A	F
+7201	588938	1	4	901	6	Zdeněk	Gryča			34	technik	Popovice	99	80	A	M
+7201	588938	1	1	903	7	Antonín	Handl			43	dělník/řidič taxi	Popovice	99	80	A	M
+7201	588938	1	2	902	7	Pavel	Hlahůlek			43	opravář zemědělských strojů	Popovice	99	80	A	M
+7201	588938	1	3	1	7	Pavel	Kováč			57	klempíř	Popovice	99	1	A	M
+7201	588938	1	4	901	7	Adam	Zapletal	Ing.		27	vedoucí výroby	Sobělice	99	80	A	M
+7201	588938	1	1	903	8	Miroslava	Zubálová			36	uklizečka v Základní a Mateřské škole	Popovice	99	80	A	F
+7201	588938	1	2	902	8	David	Pokora			40	revizní technik elektro	Sobělice	99	80	A	M
+7201	588938	1	3	1	8	Andrea	Dyňková			49	administrativní pracovnice	Sobělice	99	1	A	F
+7201	588938	1	4	901	8	Zdeněk	Deneš	Ing.		45	vedoucí výroby	Popovice	99	80	A	M
+7201	588938	1	1	903	9	Ladislava	Foltýnová			65	důchodce	Rataje	99	80	A	F
+7201	588938	1	2	902	9	Pavel	Uhlíř			58	elektromontér	Rataje	99	80	A	M
+7201	588938	1	3	1	9	Josef	Sedláček	Ing.		62	předseda ZOD Rataje	Popovice	1	1	A	M
+7201	588938	1	4	901	9	Antonín	Motal			63	technik dopravy	Popovice	99	80	A	M

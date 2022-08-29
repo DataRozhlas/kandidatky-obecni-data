@@ -1,11 +1,11 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	561525	1	1	801	1	Jan	Hřídel	M			47	zemědělský podnikatel	Horosedly	1	80	0
-3104	561525	1	2	721	1	Josef	Jouja	M			55	živnostník	Horosedly	721	721	0
-3104	561525	1	2	721	2	Pavel	Zárybnický	M	Ing.		37	ekonom	Horosedly	721	721	0
-3104	561525	1	2	721	3	Lada	Hašková	F			39	živnostník	Horosedly	99	721	0
-3104	561525	1	2	721	4	Jaroslav	Čížek	M			55	důchodce	Horosedly	99	721	0
-3104	561525	1	2	721	5	Jaroslav	Tlach	M			67	důchodce	Horosedly	99	721	0
-3104	561525	1	2	721	6	Josef	Voříšek	M			57	správce	Horosedly	99	721	0
-3104	561525	1	2	721	7	Anna	Hadačová	F			59	důchodce	Horosedly	99	721	0
-3104	561525	1	2	721	8	Lucie	Joujová	F	Ing.		29	zaměstnanec st.správy	Horosedly	721	721	0
-3104	561525	1	3	802	1	Petr	Obyt	M			29	nezaměstnaný	Horosedly	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	561525	1	1	801	1	Jan	Hřídel			47	zemědělský podnikatel	Horosedly	1	80	0	M
+3104	561525	1	2	721	1	Josef	Jouja			55	živnostník	Horosedly	721	721	0	M
+3104	561525	1	3	802	1	Petr	Obyt			29	nezaměstnaný	Horosedly	99	80	0	M
+3104	561525	1	2	721	2	Pavel	Zárybnický	Ing.		37	ekonom	Horosedly	721	721	0	M
+3104	561525	1	2	721	3	Lada	Hašková			39	živnostník	Horosedly	99	721	0	F
+3104	561525	1	2	721	4	Jaroslav	Čížek			55	důchodce	Horosedly	99	721	0	M
+3104	561525	1	2	721	5	Jaroslav	Tlach			67	důchodce	Horosedly	99	721	0	M
+3104	561525	1	2	721	6	Josef	Voříšek			57	správce	Horosedly	99	721	0	M
+3104	561525	1	2	721	7	Anna	Hadačová			59	důchodce	Horosedly	99	721	0	F
+3104	561525	1	2	721	8	Lucie	Joujová	Ing.		29	zaměstnanec st.správy	Horosedly	721	721	0	F

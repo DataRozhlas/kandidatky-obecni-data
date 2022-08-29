@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4102	554979	1	1	53	1	Jana	Rojovská	F			53	podnikatelka	Abertamy	53	53	0
-4102	554979	1	1	53	2	Antonín	Březina	M			58	podnikatel	Abertamy	53	53	0
-4102	554979	1	1	53	3	Rudolf	Löffler	M			54	podnikatel	Abertamy	53	53	0
-4102	554979	1	1	53	4	Ingrid	Cejpková	F			67	důchodkyně	Abertamy	99	53	0
-4102	554979	1	1	53	5	Ladislav	Tuna	M			47	ředitel	Abertamy	53	53	0
-4102	554979	1	1	53	6	Vladimír	Dvouletý	M			63	podnikatel	Abertamy	53	53	0
-4102	554979	1	1	53	7	Marek	Nesrsta	M			34	geodet	Abertamy	99	53	0
-4102	554979	1	1	53	8	Zuzana	Radostová	F			31	administrativní pracovnice	Abertamy	53	53	0
-4102	554979	1	1	53	9	Walter	Lehrer	M			55	strojník	Abertamy	53	53	0
-4102	554979	1	2	47	1	Jan	Felt	M			58	podnikatel	Abertamy	99	47	0
-4102	554979	1	2	47	2	Petr	Vovsík	M			24	úředník	Abertamy	99	47	0
-4102	554979	1	2	47	3	Radek	Nový	M			32	státní zaměstnanec	Abertamy	99	47	0
-4102	554979	1	2	47	4	Alexandr	Vaníček	M			30	technik	Abertamy	99	47	0
-4102	554979	1	2	47	5	Ginetta	Vaníčková	F			52	kuchařka	Abertamy	99	47	0
-4102	554979	1	3	901	1	Zdeněk	Lakatoš	M			36	státní zaměstnanec	Abertamy	99	80	0
-4102	554979	1	3	901	2	Petr	Gono	M			29	státní zaměstnanec	Hřebečná	99	80	0
-4102	554979	1	3	901	3	Jana	Čečáková	F			41	masérka Lázně Jáchymov	Hřebečná	99	80	0
-4102	554979	1	3	901	4	Josef	Hraško	M			31	automechanik	Abertamy	99	80	0
-4102	554979	1	3	901	5	Václav	Heller	M			57	živnostník	Hřebečná	99	80	0
-4102	554979	1	3	901	6	Miroslav	Rotta	M			32	živnostník	Abertamy	99	80	0
-4102	554979	1	3	901	7	Tomáš	Vejvoda	M			30	státní zaměstnanec	Abertamy	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4102	554979	1	1	53	1	Jana	Rojovská			53	podnikatelka	Abertamy	53	53	0	F
+4102	554979	1	2	47	1	Jan	Felt			58	podnikatel	Abertamy	99	47	0	M
+4102	554979	1	3	901	1	Zdeněk	Lakatoš			36	státní zaměstnanec	Abertamy	99	80	0	M
+4102	554979	1	1	53	2	Antonín	Březina			58	podnikatel	Abertamy	53	53	0	M
+4102	554979	1	2	47	2	Petr	Vovsík			24	úředník	Abertamy	99	47	0	M
+4102	554979	1	3	901	2	Petr	Gono			29	státní zaměstnanec	Hřebečná	99	80	0	M
+4102	554979	1	1	53	3	Rudolf	Löffler			54	podnikatel	Abertamy	53	53	0	M
+4102	554979	1	2	47	3	Radek	Nový			32	státní zaměstnanec	Abertamy	99	47	0	M
+4102	554979	1	3	901	3	Jana	Čečáková			41	masérka Lázně Jáchymov	Hřebečná	99	80	0	F
+4102	554979	1	1	53	4	Ingrid	Cejpková			67	důchodkyně	Abertamy	99	53	0	F
+4102	554979	1	2	47	4	Alexandr	Vaníček			30	technik	Abertamy	99	47	0	M
+4102	554979	1	3	901	4	Josef	Hraško			31	automechanik	Abertamy	99	80	0	M
+4102	554979	1	1	53	5	Ladislav	Tuna			47	ředitel	Abertamy	53	53	0	M
+4102	554979	1	2	47	5	Ginetta	Vaníčková			52	kuchařka	Abertamy	99	47	0	F
+4102	554979	1	3	901	5	Václav	Heller			57	živnostník	Hřebečná	99	80	0	M
+4102	554979	1	1	53	6	Vladimír	Dvouletý			63	podnikatel	Abertamy	53	53	0	M
+4102	554979	1	3	901	6	Miroslav	Rotta			32	živnostník	Abertamy	99	80	0	M
+4102	554979	1	1	53	7	Marek	Nesrsta			34	geodet	Abertamy	99	53	0	M
+4102	554979	1	3	901	7	Tomáš	Vejvoda			30	státní zaměstnanec	Abertamy	99	80	0	M
+4102	554979	1	1	53	8	Zuzana	Radostová			31	administrativní pracovnice	Abertamy	53	53	0	F
+4102	554979	1	1	53	9	Walter	Lehrer			55	strojník	Abertamy	53	53	0	M

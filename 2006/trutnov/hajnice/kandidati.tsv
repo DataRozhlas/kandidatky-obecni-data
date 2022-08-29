@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579211	1	1	47	1	Miroslav	Voženílek	M			62	důchodce	Hajnice	47	47	0
-5205	579211	1	1	47	2	Filip	Buřval	M			27	technik	Horní Žďár	99	47	0
-5205	579211	1	1	47	3	Václav	Valeš	M	Ing.		62	důchodce	Hajnice	99	47	0
-5205	579211	1	1	47	4	Josef	Dresler	M			65	důchodce	Hajnice	99	47	0
-5205	579211	1	1	47	5	Dagmar	Dušková	F			38	dělnice	Horní Žďár	99	47	0
-5205	579211	1	1	47	6	Petr	Ficker	M			23	řidič	Hajnice	99	47	0
-5205	579211	1	1	47	7	Gabriela	Včelišová	F			35	admin. pracovnic	Hajnice	99	47	0
-5205	579211	1	1	47	8	Petr	Semerák	M			33	dělník	Hajnice	99	47	0
-5205	579211	1	1	47	9	Josef	Teplý	M			62	důchodce	Hajnice	99	47	0
-5205	579211	1	1	47	10	Zdena	Kocková	F			54	inv. důchodce	Horní Žďár	47	47	0
-5205	579211	1	1	47	11	Josef	Budínský	M			30	dělník	Hajnice	99	47	0
-5205	579211	1	1	47	12	František	Pýcha	M			30	dělník	Hajnice	99	47	0
-5205	579211	1	1	47	13	David	Langer	M			30	dělník	Hajnice	99	47	0
-5205	579211	1	1	47	14	Jaroslava	Citová	F			55	inv. důchodce	Hajnice	99	47	0
-5205	579211	1	1	47	15	Josef	Hebelka	M			57	inv. důchodce	Hajnice	99	47	0
-5205	579211	1	2	53	1	Petr	Červený	M			52	starosta	Hajnice	99	53	0
-5205	579211	1	2	53	2	Vladimír	Flegl	M			46	živnostník	Hajnice	99	53	0
-5205	579211	1	2	53	3	Robert	Novotný	M			47	živnostník	Hajnice	99	53	0
-5205	579211	1	2	53	4	Lenka	Ficbauerová	F			35	mzdová účetní	Hajnice	99	53	0
-5205	579211	1	2	53	5	Pavla	Fekiačová	F			34	učetní	Horní Žďár	99	53	0
-5205	579211	1	2	53	6	Vilém	Urban	M			39	obchodní zástupce	Hajnice	99	53	0
-5205	579211	1	2	53	7	Pavel	Hrneček	M			58	invalidní důchodce	Hajnice	99	53	0
-5205	579211	1	2	53	8	Vilém	Urban	M			70	důchodce	Hajnice	53	53	0
-5205	579211	1	2	53	9	Markéta	Pýchová	F			24	prac. soc. péče	Horní Žďár	99	53	0
-5205	579211	1	2	53	10	Monika	Kroupová	F			36	dělnice	Hajnice	99	53	0
-5205	579211	1	2	53	11	Otomar	Malý	M			48	živnostník	Horní Žďár	99	53	0
-5205	579211	1	2	53	12	Miroslava	Říčařová	F			52	vedoucí účetní	Hajnice	99	53	0
-5205	579211	1	2	53	13	Petr	Pokorný	M	MVDr.		41	veterinář	Hajnice	99	53	0
-5205	579211	1	2	53	14	Soňa	Férová	F			46	pečovatelka	Hajnice	99	53	0
-5205	579211	1	2	53	15	František	Malina	M			37	technik	Horní Žďár	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579211	1	1	47	1	Miroslav	Voženílek			62	důchodce	Hajnice	47	47	0	M
+5205	579211	1	2	53	1	Petr	Červený			52	starosta	Hajnice	99	53	0	M
+5205	579211	1	1	47	2	Filip	Buřval			27	technik	Horní Žďár	99	47	0	M
+5205	579211	1	2	53	2	Vladimír	Flegl			46	živnostník	Hajnice	99	53	0	M
+5205	579211	1	1	47	3	Václav	Valeš	Ing.		62	důchodce	Hajnice	99	47	0	M
+5205	579211	1	2	53	3	Robert	Novotný			47	živnostník	Hajnice	99	53	0	M
+5205	579211	1	1	47	4	Josef	Dresler			65	důchodce	Hajnice	99	47	0	M
+5205	579211	1	2	53	4	Lenka	Ficbauerová			35	mzdová účetní	Hajnice	99	53	0	F
+5205	579211	1	1	47	5	Dagmar	Dušková			38	dělnice	Horní Žďár	99	47	0	F
+5205	579211	1	2	53	5	Pavla	Fekiačová			34	učetní	Horní Žďár	99	53	0	F
+5205	579211	1	1	47	6	Petr	Ficker			23	řidič	Hajnice	99	47	0	M
+5205	579211	1	2	53	6	Vilém	Urban			39	obchodní zástupce	Hajnice	99	53	0	M
+5205	579211	1	1	47	7	Gabriela	Včelišová			35	admin. pracovnic	Hajnice	99	47	0	F
+5205	579211	1	2	53	7	Pavel	Hrneček			58	invalidní důchodce	Hajnice	99	53	0	M
+5205	579211	1	1	47	8	Petr	Semerák			33	dělník	Hajnice	99	47	0	M
+5205	579211	1	2	53	8	Vilém	Urban			70	důchodce	Hajnice	53	53	0	M
+5205	579211	1	1	47	9	Josef	Teplý			62	důchodce	Hajnice	99	47	0	M
+5205	579211	1	2	53	9	Markéta	Pýchová			24	prac. soc. péče	Horní Žďár	99	53	0	F
+5205	579211	1	1	47	10	Zdena	Kocková			54	inv. důchodce	Horní Žďár	47	47	0	F
+5205	579211	1	2	53	10	Monika	Kroupová			36	dělnice	Hajnice	99	53	0	F
+5205	579211	1	1	47	11	Josef	Budínský			30	dělník	Hajnice	99	47	0	M
+5205	579211	1	2	53	11	Otomar	Malý			48	živnostník	Horní Žďár	99	53	0	M
+5205	579211	1	1	47	12	František	Pýcha			30	dělník	Hajnice	99	47	0	M
+5205	579211	1	2	53	12	Miroslava	Říčařová			52	vedoucí účetní	Hajnice	99	53	0	F
+5205	579211	1	1	47	13	David	Langer			30	dělník	Hajnice	99	47	0	M
+5205	579211	1	2	53	13	Petr	Pokorný	MVDr.		41	veterinář	Hajnice	99	53	0	M
+5205	579211	1	1	47	14	Jaroslava	Citová			55	inv. důchodce	Hajnice	99	47	0	F
+5205	579211	1	2	53	14	Soňa	Férová			46	pečovatelka	Hajnice	99	53	0	F
+5205	579211	1	1	47	15	Josef	Hebelka			57	inv. důchodce	Hajnice	99	47	0	M
+5205	579211	1	2	53	15	František	Malina			37	technik	Horní Žďár	99	53	0	M

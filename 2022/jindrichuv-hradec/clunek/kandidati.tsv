@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	561703	1	1	901	1	Jan	Beránek	M			61	starosta	Člunek	99	80	A
-3103	561703	1	1	901	2	Petr	Sobotka	M			45	sales manager CZ a SK	Člunek	99	80	A
-3103	561703	1	1	901	3	Radek	Paulík	M			48	OSVČ	Lomy	99	80	A
-3103	561703	1	1	901	4	Lenka	Fajmanová		Bc.		43	fakturantka	Kunějov	99	80	A
-3103	561703	1	1	901	5	Miroslav	Pospíchal	M			61	správce budov	Člunek	99	80	A
-3103	561703	1	1	901	6	Radim	Kubánek	M			34	strojník	Lomy	99	80	A
-3103	561703	1	1	901	7	Ondřej	Růžička	M			45	školník	Kunějov	99	80	A
-3103	561703	1	1	901	8	Jaroslav	Filsak	M			53	zaměstnanec OÚ	Člunek	99	80	A
-3103	561703	1	1	901	9	Alena	Klimešová	F			32	zdravotní sestra	Člunek	99	80	A
-3103	561703	1	2	902	1	Simona	Palová	F	Mgr.		35	učitelka SŠ	Kunějov	99	80	A
-3103	561703	1	2	902	2	Miloš	Šťáva	M	Ing.		39	šlechtitel - inseminační technik	Člunek	99	80	A
-3103	561703	1	2	902	3	Petr	Pflug	M	Bc.		50	odborný poradce	Kunějov	99	80	A
-3103	561703	1	2	902	4	Dagmar	Danielová	F			39	administrativní pracovnice	Člunek	99	80	A
-3103	561703	1	2	902	5	Tomáš	Křenek	M			37	řidič	Lomy	99	80	A
-3103	561703	1	2	902	6	Lenka	Skalníková	F			55	servírka	Lomy	99	80	A
-3103	561703	1	2	902	7	Jindřich	Povolný	M			60	OSVČ	Lomy	99	80	A
-3103	561703	1	2	902	8	Lenka	Kočí	F			28	specialista dávek	Lomy	99	80	A
-3103	561703	1	2	902	9	Marie	Zoubková	F	Ing.		57	mzdová účetní	Člunek	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	561703	1	1	901	1	Jan	Beránek			61	starosta	Člunek	99	80	A	M
+3103	561703	1	2	902	1	Simona	Palová	Mgr.		35	učitelka SŠ	Kunějov	99	80	A	F
+3103	561703	1	1	901	2	Petr	Sobotka			45	sales manager CZ a SK	Člunek	99	80	A	M
+3103	561703	1	2	902	2	Miloš	Šťáva	Ing.		39	šlechtitel - inseminační technik	Člunek	99	80	A	M
+3103	561703	1	1	901	3	Radek	Paulík			48	OSVČ	Lomy	99	80	A	M
+3103	561703	1	2	902	3	Petr	Pflug	Bc.		50	odborný poradce	Kunějov	99	80	A	M
+3103	561703	1	1	901	4	Lenka	Fajmanová	Bc.		43	fakturantka	Kunějov	99	80	A	
+3103	561703	1	2	902	4	Dagmar	Danielová			39	administrativní pracovnice	Člunek	99	80	A	F
+3103	561703	1	1	901	5	Miroslav	Pospíchal			61	správce budov	Člunek	99	80	A	M
+3103	561703	1	2	902	5	Tomáš	Křenek			37	řidič	Lomy	99	80	A	M
+3103	561703	1	1	901	6	Radim	Kubánek			34	strojník	Lomy	99	80	A	M
+3103	561703	1	2	902	6	Lenka	Skalníková			55	servírka	Lomy	99	80	A	F
+3103	561703	1	1	901	7	Ondřej	Růžička			45	školník	Kunějov	99	80	A	M
+3103	561703	1	2	902	7	Jindřich	Povolný			60	OSVČ	Lomy	99	80	A	M
+3103	561703	1	1	901	8	Jaroslav	Filsak			53	zaměstnanec OÚ	Člunek	99	80	A	M
+3103	561703	1	2	902	8	Lenka	Kočí			28	specialista dávek	Lomy	99	80	A	F
+3103	561703	1	1	901	9	Alena	Klimešová			32	zdravotní sestra	Člunek	99	80	A	F
+3103	561703	1	2	902	9	Marie	Zoubková	Ing.		57	mzdová účetní	Člunek	99	80	A	F

@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7202	592706	1	1	902	1	Radek	Kotyza	M	Ing.		41	technik	Traplice	99	80	0
-7202	592706	1	1	902	2	Pavel	Chrástek	M			56	mistr	Traplice	99	80	0
-7202	592706	1	1	902	3	Jaroslav	Slavík	M			38	dělník	Traplice	99	80	0
-7202	592706	1	1	902	4	Josef	Balíček	M			63	technik	Traplice	99	80	0
-7202	592706	1	1	902	5	Ladislav	Blecha	M			47	OSVČ	Traplice	99	80	0
-7202	592706	1	1	902	6	Alena	Vávrová	F			46	vedoucí kuchyně	Traplice	99	80	0
-7202	592706	1	1	902	7	Roman	Obdržálek	M			42	kontrolor	Traplice	99	80	0
-7202	592706	1	1	902	8	Pavlína	Vávrová	F			36	mechanik	Traplice	99	80	0
-7202	592706	1	1	902	9	Zdeněk	Chrástek	M			56	mistr	Traplice	99	80	0
-7202	592706	1	1	902	10	Jaroslav	Pelka	M			50	technik	Traplice	99	80	0
-7202	592706	1	1	902	11	Anna	Trávníčková	F			57	uklízečka	Traplice	99	80	0
-7202	592706	1	1	902	12	Radek	Vranka	M			32	stolář	Traplice	99	80	0
-7202	592706	1	1	902	13	Miroslav	Směšný	M	Ing.		55	stavební inženýr	Traplice	99	80	0
-7202	592706	1	1	902	14	Jiří	Vávra	M			30	OSVČ	Traplice	99	80	0
-7202	592706	1	1	902	15	Jan	Čevela	M	Ing.		52	technik	Traplice	99	80	0
-7202	592706	1	2	901	1	Milan	Rozum	M	Ing.		44	starosta obce Traplice	Traplice	99	80	0
-7202	592706	1	2	901	2	Přemysl	Šimoník	M			35	ekonom	Traplice	99	80	0
-7202	592706	1	2	901	3	Petr	Kuneta	M	Ing.		36	vedoucí konstrukce	Traplice	99	80	0
-7202	592706	1	2	901	4	Petr	Ondruch	M	Ing.		43	ekonom	Traplice	99	80	0
-7202	592706	1	2	901	5	Zdeněk	Hrňa	M			47	správce nemovitostí	Traplice	99	80	0
-7202	592706	1	2	901	6	Tomáš	Valer	M	Ing.		30	elektrotechnik	Traplice	99	80	0
-7202	592706	1	2	901	7	Martin	Skopal	M			45	mechanik	Traplice	99	80	0
-7202	592706	1	2	901	8	Gabriela	Fedorová	F	Bc.		34	vedoucí učitelka MŠ	Traplice	99	80	0
-7202	592706	1	2	901	9	Jarmila	Prokešová	F			51	vedoucí prodejny	Traplice	99	80	0
-7202	592706	1	2	901	10	Eva	Haberlandová	F	PaedDr.		57	učitelka ZŠ	Traplice	99	80	0
-7202	592706	1	2	901	11	Jiří	Čevela	M			64	důchodce	Traplice	99	80	0
-7202	592706	1	2	901	12	Radomír	Pekárek	M			43	řidič	Traplice	99	80	0
-7202	592706	1	2	901	13	Antonín	Valer	M			54	technik	Traplice	99	80	0
-7202	592706	1	2	901	14	Jan	Bartoň	M			56	traktorista	Traplice	99	80	0
-7202	592706	1	2	901	15	Karel	Polák	M	Ing.		62	výzkumný pracovník	Traplice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7202	592706	1	1	902	1	Radek	Kotyza	Ing.		41	technik	Traplice	99	80	0	M
+7202	592706	1	2	901	1	Milan	Rozum	Ing.		44	starosta obce Traplice	Traplice	99	80	0	M
+7202	592706	1	1	902	2	Pavel	Chrástek			56	mistr	Traplice	99	80	0	M
+7202	592706	1	2	901	2	Přemysl	Šimoník			35	ekonom	Traplice	99	80	0	M
+7202	592706	1	1	902	3	Jaroslav	Slavík			38	dělník	Traplice	99	80	0	M
+7202	592706	1	2	901	3	Petr	Kuneta	Ing.		36	vedoucí konstrukce	Traplice	99	80	0	M
+7202	592706	1	1	902	4	Josef	Balíček			63	technik	Traplice	99	80	0	M
+7202	592706	1	2	901	4	Petr	Ondruch	Ing.		43	ekonom	Traplice	99	80	0	M
+7202	592706	1	1	902	5	Ladislav	Blecha			47	OSVČ	Traplice	99	80	0	M
+7202	592706	1	2	901	5	Zdeněk	Hrňa			47	správce nemovitostí	Traplice	99	80	0	M
+7202	592706	1	1	902	6	Alena	Vávrová			46	vedoucí kuchyně	Traplice	99	80	0	F
+7202	592706	1	2	901	6	Tomáš	Valer	Ing.		30	elektrotechnik	Traplice	99	80	0	M
+7202	592706	1	1	902	7	Roman	Obdržálek			42	kontrolor	Traplice	99	80	0	M
+7202	592706	1	2	901	7	Martin	Skopal			45	mechanik	Traplice	99	80	0	M
+7202	592706	1	1	902	8	Pavlína	Vávrová			36	mechanik	Traplice	99	80	0	F
+7202	592706	1	2	901	8	Gabriela	Fedorová	Bc.		34	vedoucí učitelka MŠ	Traplice	99	80	0	F
+7202	592706	1	1	902	9	Zdeněk	Chrástek			56	mistr	Traplice	99	80	0	M
+7202	592706	1	2	901	9	Jarmila	Prokešová			51	vedoucí prodejny	Traplice	99	80	0	F
+7202	592706	1	1	902	10	Jaroslav	Pelka			50	technik	Traplice	99	80	0	M
+7202	592706	1	2	901	10	Eva	Haberlandová	PaedDr.		57	učitelka ZŠ	Traplice	99	80	0	F
+7202	592706	1	1	902	11	Anna	Trávníčková			57	uklízečka	Traplice	99	80	0	F
+7202	592706	1	2	901	11	Jiří	Čevela			64	důchodce	Traplice	99	80	0	M
+7202	592706	1	1	902	12	Radek	Vranka			32	stolář	Traplice	99	80	0	M
+7202	592706	1	2	901	12	Radomír	Pekárek			43	řidič	Traplice	99	80	0	M
+7202	592706	1	1	902	13	Miroslav	Směšný	Ing.		55	stavební inženýr	Traplice	99	80	0	M
+7202	592706	1	2	901	13	Antonín	Valer			54	technik	Traplice	99	80	0	M
+7202	592706	1	1	902	14	Jiří	Vávra			30	OSVČ	Traplice	99	80	0	M
+7202	592706	1	2	901	14	Jan	Bartoň			56	traktorista	Traplice	99	80	0	M
+7202	592706	1	1	902	15	Jan	Čevela	Ing.		52	technik	Traplice	99	80	0	M
+7202	592706	1	2	901	15	Karel	Polák	Ing.		62	výzkumný pracovník	Traplice	99	80	0	M

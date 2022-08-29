@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589543	1	1	902	1	Martin	Ševčík	M	Ing.	DiS.	43	invalidní důchodce	Hrubčice	99	80	A
-7103	589543	1	1	902	2	Světlana	Petýrková	F			52	pěstitel zemědělských plodin	Hrubčice	99	80	A
-7103	589543	1	1	902	3	Bořivoj	Skopal	M			64	OSVČ	Hrubčice	99	80	A
-7103	589543	1	1	902	4	Pavla	Mazúrová	F			43	vedoucí prodejny	Hrubčice	99	80	A
-7103	589543	1	1	902	5	Aleš	Bělka	M	Mgr.		59	státní zaměstnanec	Hrubčice	99	80	A
-7103	589543	1	1	902	6	Jaroslav	Tvrdík	M			38	OSVČ	Hrubčice	99	80	A
-7103	589543	1	1	902	7	Petr	Pospíchal	M			44	lesní dělník VLS ČR, s.p.	Hrubčice	99	80	A
-7103	589543	1	2	901	1	Milan	Mlateček	M			45	starosta, skladový operátor	Hrubčice	99	80	A
-7103	589543	1	2	901	2	Helena	Hochová	F	Ing.		53	ekonom	Hrubčice	99	80	A
-7103	589543	1	2	901	3	Roman	Berčák	M	Ing.		26	doktorand	Hrubčice	99	80	A
-7103	589543	1	2	901	4	Jiří	Bluma	M	Ing.		35	projektant dopravního značení	Hrubčice	99	80	A
-7103	589543	1	2	901	5	Anna	Skalková	F			58	školnice	Hrubčice	99	80	A
-7103	589543	1	2	901	6	Tomáš	Mužík	M	Bc.		36	personální ředitel	Hrubčice	99	80	A
-7103	589543	1	2	901	7	Eduard	Lutera	M			44	skladový operátor	Hrubčice	99	80	A
-7103	589543	1	3	1	1	Jaroslav	Drábek	M			54	podnikatel	Hrubčice	99	1	A
-7103	589543	1	3	1	2	Zdeněk	Berčák	M	Ing.		56	ekonom	Hrubčice	1	1	A
-7103	589543	1	3	1	3	Jiří	Zigmund	M	Bc.		34	specialista BOZP a PO	Hrubčice	99	1	A
-7103	589543	1	3	1	4	Luděk	Procházka	M	Ing.		25	stavební technik	Otonovice	99	1	A
-7103	589543	1	3	1	5	Jitka	Janíková	F			25	zdravotní sestra	Hrubčice	99	1	A
-7103	589543	1	3	1	6	Jindra	Gefingová	F			63	důchodkyně	Hrubčice	1	1	A
-7103	589543	1	3	1	7	Přemysl	Lutera	M			55	pracovník v zemědělství	Otonovice	99	1	A
-7103	589543	1	4	53	1	Kamil	Zápeca	M			48	vedoucí pobočky	Hrubčice	53	53	A
-7103	589543	1	4	53	2	Filip	Rothröckel	M	Ing.		40	stavební inženýr	Hrubčice	99	53	A
-7103	589543	1	4	53	3	Miroslav	Popelka	M			40	nákupčí	Hrubčice	99	53	A
-7103	589543	1	4	53	4	Marie	Dokoupilová	F			68	důchodkyně	Hrubčice	53	53	A
-7103	589543	1	4	53	5	Jiří	Zatloukal	M			68	důchodce	Hrubčice	99	53	A
-7103	589543	1	4	53	6	Kateřina	Portešová	F			38	recepční	Hrubčice	99	53	A
-7103	589543	1	4	53	7	Stanislav	Zbořílek	M	Ing.		68	soukromý zemědělec	Hrubčice	53	53	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589543	1	1	902	1	Martin	Ševčík	Ing.	DiS.	43	invalidní důchodce	Hrubčice	99	80	A	M
+7103	589543	1	2	901	1	Milan	Mlateček			45	starosta, skladový operátor	Hrubčice	99	80	A	M
+7103	589543	1	3	1	1	Jaroslav	Drábek			54	podnikatel	Hrubčice	99	1	A	M
+7103	589543	1	4	53	1	Kamil	Zápeca			48	vedoucí pobočky	Hrubčice	53	53	A	M
+7103	589543	1	1	902	2	Světlana	Petýrková			52	pěstitel zemědělských plodin	Hrubčice	99	80	A	F
+7103	589543	1	2	901	2	Helena	Hochová	Ing.		53	ekonom	Hrubčice	99	80	A	F
+7103	589543	1	3	1	2	Zdeněk	Berčák	Ing.		56	ekonom	Hrubčice	1	1	A	M
+7103	589543	1	4	53	2	Filip	Rothröckel	Ing.		40	stavební inženýr	Hrubčice	99	53	A	M
+7103	589543	1	1	902	3	Bořivoj	Skopal			64	OSVČ	Hrubčice	99	80	A	M
+7103	589543	1	2	901	3	Roman	Berčák	Ing.		26	doktorand	Hrubčice	99	80	A	M
+7103	589543	1	3	1	3	Jiří	Zigmund	Bc.		34	specialista BOZP a PO	Hrubčice	99	1	A	M
+7103	589543	1	4	53	3	Miroslav	Popelka			40	nákupčí	Hrubčice	99	53	A	M
+7103	589543	1	1	902	4	Pavla	Mazúrová			43	vedoucí prodejny	Hrubčice	99	80	A	F
+7103	589543	1	2	901	4	Jiří	Bluma	Ing.		35	projektant dopravního značení	Hrubčice	99	80	A	M
+7103	589543	1	3	1	4	Luděk	Procházka	Ing.		25	stavební technik	Otonovice	99	1	A	M
+7103	589543	1	4	53	4	Marie	Dokoupilová			68	důchodkyně	Hrubčice	53	53	A	F
+7103	589543	1	1	902	5	Aleš	Bělka	Mgr.		59	státní zaměstnanec	Hrubčice	99	80	A	M
+7103	589543	1	2	901	5	Anna	Skalková			58	školnice	Hrubčice	99	80	A	F
+7103	589543	1	3	1	5	Jitka	Janíková			25	zdravotní sestra	Hrubčice	99	1	A	F
+7103	589543	1	4	53	5	Jiří	Zatloukal			68	důchodce	Hrubčice	99	53	A	M
+7103	589543	1	1	902	6	Jaroslav	Tvrdík			38	OSVČ	Hrubčice	99	80	A	M
+7103	589543	1	2	901	6	Tomáš	Mužík	Bc.		36	personální ředitel	Hrubčice	99	80	A	M
+7103	589543	1	3	1	6	Jindra	Gefingová			63	důchodkyně	Hrubčice	1	1	A	F
+7103	589543	1	4	53	6	Kateřina	Portešová			38	recepční	Hrubčice	99	53	A	F
+7103	589543	1	1	902	7	Petr	Pospíchal			44	lesní dělník VLS ČR, s.p.	Hrubčice	99	80	A	M
+7103	589543	1	2	901	7	Eduard	Lutera			44	skladový operátor	Hrubčice	99	80	A	M
+7103	589543	1	3	1	7	Přemysl	Lutera			55	pracovník v zemědělství	Otonovice	99	1	A	M
+7103	589543	1	4	53	7	Stanislav	Zbořílek	Ing.		68	soukromý zemědělec	Hrubčice	53	53	A	M

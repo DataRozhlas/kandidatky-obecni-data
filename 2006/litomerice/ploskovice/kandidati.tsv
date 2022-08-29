@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	565393	1	1	902	1	Petr	Zimandl	M			49	vrchní inspektor ČD	Ploskovice	99	80	0
-4203	565393	1	1	902	2	Libuše	Pizúrová	F			41	podnikatelka	Ploskovice	99	80	0
-4203	565393	1	1	902	3	Petr	Hula	M	MUDr.		33	státní zaměstnanec	Vinné	99	80	0
-4203	565393	1	1	902	4	Jaroslava	Kuchařová	F			47	ošetřovatelka	Ploskovice	99	80	0
-4203	565393	1	1	902	5	Arnošt	Minář	M			36	vedoucí pošty	Ploskovice	99	80	0
-4203	565393	1	1	902	6	Alena	Hrnčířová	F			46	lektor AJ	Těchobuzice	99	80	0
-4203	565393	1	1	902	7	Petr	Kohl	M			32	řidič nakladače	Těchobuzice	99	80	0
-4203	565393	1	2	903	1	Miroslav	Čuda	M			62	důchodce	Ploskovice	99	80	0
-4203	565393	1	2	903	2	Jana	Zounová	F			58	důchodce	Ploskovice	99	80	0
-4203	565393	1	2	903	3	Vladimíra	Vojíková	F			48	technik	Maškovice	99	80	0
-4203	565393	1	2	903	4	Milan	Januška	M			32	státní zaměstnanec	Ploskovice	99	80	0
-4203	565393	1	2	903	5	Jana	Toniniová	F	Ing.		28	vedoucí dopravy	Ploskovice	99	80	0
-4203	565393	1	2	903	6	Martin	Valenta	M			37	řidič expedient	Ploskovice	99	80	0
-4203	565393	1	2	903	7	Petr	Sloup	M			39	asistent výrobního manažera	Těchobuzice	99	80	0
-4203	565393	1	3	901	1	Věra	Petrů	F			58	důchodce	Těchobuzice	99	80	0
-4203	565393	1	3	901	2	Aleš	Borský	M	Mgr.		30	lékárník	Ploskovice	99	80	0
-4203	565393	1	3	901	3	Václav	Makrlík	M			65	důchodce	Ploskovice	99	80	0
-4203	565393	1	3	901	4	Václav	Kuchař	M			28	podnikatel	Ploskovice	99	80	0
-4203	565393	1	3	901	5	Milan	Lipš	M			28	podnikatel	Ploskovice	99	80	0
-4203	565393	1	3	901	6	Renata	Foltýnová	F			30	podnikatelka	Maškovice	99	80	0
-4203	565393	1	3	901	7	Vladimír	Kekrt	M			28	řidič - expedient	Těchobuzice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	565393	1	1	902	1	Petr	Zimandl			49	vrchní inspektor ČD	Ploskovice	99	80	0	M
+4203	565393	1	2	903	1	Miroslav	Čuda			62	důchodce	Ploskovice	99	80	0	M
+4203	565393	1	3	901	1	Věra	Petrů			58	důchodce	Těchobuzice	99	80	0	F
+4203	565393	1	1	902	2	Libuše	Pizúrová			41	podnikatelka	Ploskovice	99	80	0	F
+4203	565393	1	2	903	2	Jana	Zounová			58	důchodce	Ploskovice	99	80	0	F
+4203	565393	1	3	901	2	Aleš	Borský	Mgr.		30	lékárník	Ploskovice	99	80	0	M
+4203	565393	1	1	902	3	Petr	Hula	MUDr.		33	státní zaměstnanec	Vinné	99	80	0	M
+4203	565393	1	2	903	3	Vladimíra	Vojíková			48	technik	Maškovice	99	80	0	F
+4203	565393	1	3	901	3	Václav	Makrlík			65	důchodce	Ploskovice	99	80	0	M
+4203	565393	1	1	902	4	Jaroslava	Kuchařová			47	ošetřovatelka	Ploskovice	99	80	0	F
+4203	565393	1	2	903	4	Milan	Januška			32	státní zaměstnanec	Ploskovice	99	80	0	M
+4203	565393	1	3	901	4	Václav	Kuchař			28	podnikatel	Ploskovice	99	80	0	M
+4203	565393	1	1	902	5	Arnošt	Minář			36	vedoucí pošty	Ploskovice	99	80	0	M
+4203	565393	1	2	903	5	Jana	Toniniová	Ing.		28	vedoucí dopravy	Ploskovice	99	80	0	F
+4203	565393	1	3	901	5	Milan	Lipš			28	podnikatel	Ploskovice	99	80	0	M
+4203	565393	1	1	902	6	Alena	Hrnčířová			46	lektor AJ	Těchobuzice	99	80	0	F
+4203	565393	1	2	903	6	Martin	Valenta			37	řidič expedient	Ploskovice	99	80	0	M
+4203	565393	1	3	901	6	Renata	Foltýnová			30	podnikatelka	Maškovice	99	80	0	F
+4203	565393	1	1	902	7	Petr	Kohl			32	řidič nakladače	Těchobuzice	99	80	0	M
+4203	565393	1	2	903	7	Petr	Sloup			39	asistent výrobního manažera	Těchobuzice	99	80	0	M
+4203	565393	1	3	901	7	Vladimír	Kekrt			28	řidič - expedient	Těchobuzice	99	80	0	M

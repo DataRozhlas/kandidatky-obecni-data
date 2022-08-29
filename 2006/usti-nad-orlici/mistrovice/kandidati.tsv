@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	580643	1	1	901	1	Jiří	Doleček	M			56	podnikatel	Mistrovice	99	80	0
-5304	580643	1	1	901	2	Miroslava	Škorvánková	F	Mgr.		32	učitelka ZŠ	Mistrovice	99	80	0
-5304	580643	1	1	901	3	Aleš	Krejčí	M			34	traktorista	Mistrovice	99	80	0
-5304	580643	1	1	901	4	Pavel	Kalousek	M			37	podnikatel	Mistrovice	99	80	0
-5304	580643	1	1	901	5	Jaroslav	Pauk	M			54	stavební technik	Mistrovice	99	80	0
-5304	580643	1	1	901	6	Martin	Bartoníček	M			34	soukromý zemědělec	Mistrovice	99	80	0
-5304	580643	1	1	901	7	Alois	Oškera	M			47	podnikatel	Mistrovice	99	80	0
-5304	580643	1	1	901	8	Miroslav	Mikmek	M			52	elektrikář	Mistrovice	99	80	0
-5304	580643	1	1	901	9	Jiří	Nastoupil	M			48	podnikatel	Mistrovice	99	80	0
-5304	580643	1	1	901	10	Alfred	Kaufmann	M			65	důchodce	Mistrovice	99	80	0
-5304	580643	1	1	901	11	Miloš	Barnat	M			59	mistr zednický	Mistrovice	99	80	0
-5304	580643	1	2	1	1	Karel	Halbrštát	M			50	starosta	Mistrovice	1	1	0
-5304	580643	1	2	1	2	Vlastislav	Kozel	M			51	soukromý podnikatel	Mistrovice	1	1	0
-5304	580643	1	2	1	3	Viktor	Svoboda	M			31	soukromý podnikatel	Mistrovice	99	1	0
-5304	580643	1	2	1	4	Petr	Mařík	M	Dr.Ing.		37	obchodní manager	Mistrovice	99	1	0
-5304	580643	1	2	1	5	Vladimír	Hubálek	M			41	traktorista-opravář	Mistrovice	99	1	0
-5304	580643	1	2	1	6	Jaroslav	Hrdina	M			42	soukromý podnikatel	Mistrovice	99	1	0
-5304	580643	1	2	1	7	Ladislav	Svoboda	M			63	důchodce	Mistrovice	99	1	0
-5304	580643	1	2	1	8	Aleš	Urban	M			30	technik	Mistrovice	99	1	0
-5304	580643	1	2	1	9	Jaroslav	Masopust	M			28	vedoucí závodu VČES a.s.	Mistrovice	99	1	0
-5304	580643	1	2	1	10	Eva	Balášová	F			38	účetní	Mistrovice	99	1	0
-5304	580643	1	2	1	11	Tomáš	Kozel	M			31	podnikatel	Mistrovice	99	1	0
-5304	580643	1	3	902	1	Stanislav	Stejskal	M	Ing.		30	mechanizátor	Mistrovice	99	80	0
-5304	580643	1	3	902	2	Blanka	Blažková	F			37	expedientka	Mistrovice	99	80	0
-5304	580643	1	3	902	3	Libor	Mikula	M	ing.		38	učitel odborných předmětů	Mistrovice	99	80	0
-5304	580643	1	3	902	4	Anna	Chejnovská	F			59	důchodce	Mistrovice	99	80	0
-5304	580643	1	3	902	5	Jaroslav	Čechal	M			45	řidič,opravář	Mistrovice	99	80	0
-5304	580643	1	3	902	6	Pavlína	Balášová	F			34	mateřská dovolená	Mistrovice	99	80	0
-5304	580643	1	3	902	7	Bohumila	Kalousová	F			29	učitelka MŠ	Mistrovice	99	80	0
-5304	580643	1	3	902	8	Věra	Balášová	F			54	mzdová a personální účetní	Mistrovice	47	80	0
-5304	580643	1	3	902	9	Hana	Valentová	F			38	účetní	Mistrovice	99	80	0
-5304	580643	1	3	902	10	Jan	Hubálek	M			27	dělník	Mistrovice	99	80	0
-5304	580643	1	3	902	11	Jan	Novotný	M			53	strojvedoucí	Mistrovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	580643	1	1	901	1	Jiří	Doleček			56	podnikatel	Mistrovice	99	80	0	M
+5304	580643	1	2	1	1	Karel	Halbrštát			50	starosta	Mistrovice	1	1	0	M
+5304	580643	1	3	902	1	Stanislav	Stejskal	Ing.		30	mechanizátor	Mistrovice	99	80	0	M
+5304	580643	1	1	901	2	Miroslava	Škorvánková	Mgr.		32	učitelka ZŠ	Mistrovice	99	80	0	F
+5304	580643	1	2	1	2	Vlastislav	Kozel			51	soukromý podnikatel	Mistrovice	1	1	0	M
+5304	580643	1	3	902	2	Blanka	Blažková			37	expedientka	Mistrovice	99	80	0	F
+5304	580643	1	1	901	3	Aleš	Krejčí			34	traktorista	Mistrovice	99	80	0	M
+5304	580643	1	2	1	3	Viktor	Svoboda			31	soukromý podnikatel	Mistrovice	99	1	0	M
+5304	580643	1	3	902	3	Libor	Mikula	ing.		38	učitel odborných předmětů	Mistrovice	99	80	0	M
+5304	580643	1	1	901	4	Pavel	Kalousek			37	podnikatel	Mistrovice	99	80	0	M
+5304	580643	1	2	1	4	Petr	Mařík	Dr.Ing.		37	obchodní manager	Mistrovice	99	1	0	M
+5304	580643	1	3	902	4	Anna	Chejnovská			59	důchodce	Mistrovice	99	80	0	F
+5304	580643	1	1	901	5	Jaroslav	Pauk			54	stavební technik	Mistrovice	99	80	0	M
+5304	580643	1	2	1	5	Vladimír	Hubálek			41	traktorista-opravář	Mistrovice	99	1	0	M
+5304	580643	1	3	902	5	Jaroslav	Čechal			45	řidič,opravář	Mistrovice	99	80	0	M
+5304	580643	1	1	901	6	Martin	Bartoníček			34	soukromý zemědělec	Mistrovice	99	80	0	M
+5304	580643	1	2	1	6	Jaroslav	Hrdina			42	soukromý podnikatel	Mistrovice	99	1	0	M
+5304	580643	1	3	902	6	Pavlína	Balášová			34	mateřská dovolená	Mistrovice	99	80	0	F
+5304	580643	1	1	901	7	Alois	Oškera			47	podnikatel	Mistrovice	99	80	0	M
+5304	580643	1	2	1	7	Ladislav	Svoboda			63	důchodce	Mistrovice	99	1	0	M
+5304	580643	1	3	902	7	Bohumila	Kalousová			29	učitelka MŠ	Mistrovice	99	80	0	F
+5304	580643	1	1	901	8	Miroslav	Mikmek			52	elektrikář	Mistrovice	99	80	0	M
+5304	580643	1	2	1	8	Aleš	Urban			30	technik	Mistrovice	99	1	0	M
+5304	580643	1	3	902	8	Věra	Balášová			54	mzdová a personální účetní	Mistrovice	47	80	0	F
+5304	580643	1	1	901	9	Jiří	Nastoupil			48	podnikatel	Mistrovice	99	80	0	M
+5304	580643	1	2	1	9	Jaroslav	Masopust			28	vedoucí závodu VČES a.s.	Mistrovice	99	1	0	M
+5304	580643	1	3	902	9	Hana	Valentová			38	účetní	Mistrovice	99	80	0	F
+5304	580643	1	1	901	10	Alfred	Kaufmann			65	důchodce	Mistrovice	99	80	0	M
+5304	580643	1	2	1	10	Eva	Balášová			38	účetní	Mistrovice	99	1	0	F
+5304	580643	1	3	902	10	Jan	Hubálek			27	dělník	Mistrovice	99	80	0	M
+5304	580643	1	1	901	11	Miloš	Barnat			59	mistr zednický	Mistrovice	99	80	0	M
+5304	580643	1	2	1	11	Tomáš	Kozel			31	podnikatel	Mistrovice	99	1	0	M
+5304	580643	1	3	902	11	Jan	Novotný			53	strojvedoucí	Mistrovice	99	80	0	M

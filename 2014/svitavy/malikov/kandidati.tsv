@@ -1,20 +1,20 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	578371	1	1	901	1	Eduard	Zezula	M			68	důchodce	Malíkov	99	80	0
-5303	578371	1	1	901	2	Marie	Vlachová	F			56	pom. kuchařka	Malíkov	99	80	0
-5303	578371	1	1	901	3	František	Šmída	M			55	dělník	Malíkov	99	80	0
-5303	578371	1	1	901	4	Jan	Vlach	M			65	důchodce	Malíkov	99	80	0
-5303	578371	1	1	901	5	Marta	Veselá	F			58	uklízečka	Malíkov	99	80	0
-5303	578371	1	1	901	6	Radka	Slavíčková	F			28	prodavačka	Malíkov	99	80	0
-5303	578371	1	1	901	7	Helena	Pocklanová	F			59	důchodce	Malíkov	99	80	0
-5303	578371	1	1	901	8	Hana	Šmídová	F			27	dělnice	Malíkov	99	80	0
-5303	578371	1	1	901	9	Marcela	Zezulová	F			22	dělnice	Malíkov	99	80	0
-5303	578371	1	2	801	1	Vladimír	Šmída	M			57	důchodce	Malíkov	99	80	0
-5303	578371	1	3	902	1	Zdeněk	Konečný	M			23	automechanik	Malíkov	99	80	0
-5303	578371	1	3	902	2	Paulína	Kohútová	F			39	dělnice	Malíkov	99	80	0
-5303	578371	1	3	902	3	Josef	Kořenovský	M			25	instalatér	Malíkov	99	80	0
-5303	578371	1	3	902	4	Barbora	Václavková	F			40	švadlena	Malíkov	99	80	0
-5303	578371	1	3	902	5	František	Navrátil	M			61	důchodce	Malíkov	99	80	0
-5303	578371	1	3	902	6	Rostislav	Konečný	M			22	stavební dělník	Malíkov	99	80	0
-5303	578371	1	3	902	7	Vlasta	Mužíková	F			40	úřad práce	Malíkov	99	80	1
-5303	578371	1	3	902	8	Antonín	Hofman	M			20	stavební dělník	Malíkov	99	80	0
-5303	578371	1	3	902	9	David	Valsa	M			19	student	Malíkov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	578371	1	1	901	1	Eduard	Zezula			68	důchodce	Malíkov	99	80	0	M
+5303	578371	1	2	801	1	Vladimír	Šmída			57	důchodce	Malíkov	99	80	0	M
+5303	578371	1	3	902	1	Zdeněk	Konečný			23	automechanik	Malíkov	99	80	0	M
+5303	578371	1	1	901	2	Marie	Vlachová			56	pom. kuchařka	Malíkov	99	80	0	F
+5303	578371	1	3	902	2	Paulína	Kohútová			39	dělnice	Malíkov	99	80	0	F
+5303	578371	1	1	901	3	František	Šmída			55	dělník	Malíkov	99	80	0	M
+5303	578371	1	3	902	3	Josef	Kořenovský			25	instalatér	Malíkov	99	80	0	M
+5303	578371	1	1	901	4	Jan	Vlach			65	důchodce	Malíkov	99	80	0	M
+5303	578371	1	3	902	4	Barbora	Václavková			40	švadlena	Malíkov	99	80	0	F
+5303	578371	1	1	901	5	Marta	Veselá			58	uklízečka	Malíkov	99	80	0	F
+5303	578371	1	3	902	5	František	Navrátil			61	důchodce	Malíkov	99	80	0	M
+5303	578371	1	1	901	6	Radka	Slavíčková			28	prodavačka	Malíkov	99	80	0	F
+5303	578371	1	3	902	6	Rostislav	Konečný			22	stavební dělník	Malíkov	99	80	0	M
+5303	578371	1	1	901	7	Helena	Pocklanová			59	důchodce	Malíkov	99	80	0	F
+5303	578371	1	3	902	7	Vlasta	Mužíková			40	úřad práce	Malíkov	99	80	1	F
+5303	578371	1	1	901	8	Hana	Šmídová			27	dělnice	Malíkov	99	80	0	F
+5303	578371	1	3	902	8	Antonín	Hofman			20	stavební dělník	Malíkov	99	80	0	M
+5303	578371	1	1	901	9	Marcela	Zezulová			22	dělnice	Malíkov	99	80	0	F
+5303	578371	1	3	902	9	David	Valsa			19	student	Malíkov	99	80	0	M

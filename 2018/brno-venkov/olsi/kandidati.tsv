@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	596302	1	1	901	1	Martin	Pavlíček	M	Ing.		37	informatik	Klokočí	99	80	A
-6203	596302	1	1	901	2	Jiří	Čepička	M			52	referent nákupu	Litava	99	80	A
-6203	596302	1	1	901	3	Marie	Jandová	F			54	účetní	Klokočí	99	80	A
-6203	596302	1	1	901	4	David	Bednář	M	Bc.		32	stavební projektant	Litava	99	80	A
-6203	596302	1	1	901	5	Kateřina	Bílá	F	Mgr.		43	učitelka	Olší	99	80	A
-6203	596302	1	1	901	6	Michal	Bednář	M	Ing.		37	pracovník chemické laboratoře	Litava	99	80	A
-6203	596302	1	1	901	7	Miloš	Žvátora	M			40	řidič, skladník	Olší	99	80	A
-6203	596302	1	1	901	8	Kateřina	Hanzalová	F	Mgr.		40	výzkumný pracovník	Olší	99	80	A
-6203	596302	1	1	901	9	Pavel	Bednář	M	Ing.		35	metrolog	Olší	99	80	A
-6203	596302	1	2	902	1	Tomáš	Csizmár	M			30	OSVČ	Olší	99	80	A
-6203	596302	1	2	902	2	Jaroslav	Vojta	M			26	OSVČ	Olší	99	80	A
-6203	596302	1	2	902	3	Martin	Hájek	M			23	vedoucí prodejny Tesco	Olší	99	80	A
-6203	596302	1	2	902	4	Miroslav	Vojta	M			21	policista	Olší	99	80	A
-6203	596302	1	2	902	5	Jakub	Mičánek	M			26	kuchař	Olší	99	80	A
-6203	596302	1	2	902	6	Karel	Vojta	M			26	OSVČ	Olší	99	80	A
-6203	596302	1	2	902	7	Radek	Vojta	M			24	OSVČ	Olší	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	596302	1	1	901	1	Martin	Pavlíček	Ing.		37	informatik	Klokočí	99	80	A	M
+6203	596302	1	2	902	1	Tomáš	Csizmár			30	OSVČ	Olší	99	80	A	M
+6203	596302	1	1	901	2	Jiří	Čepička			52	referent nákupu	Litava	99	80	A	M
+6203	596302	1	2	902	2	Jaroslav	Vojta			26	OSVČ	Olší	99	80	A	M
+6203	596302	1	1	901	3	Marie	Jandová			54	účetní	Klokočí	99	80	A	F
+6203	596302	1	2	902	3	Martin	Hájek			23	vedoucí prodejny Tesco	Olší	99	80	A	M
+6203	596302	1	1	901	4	David	Bednář	Bc.		32	stavební projektant	Litava	99	80	A	M
+6203	596302	1	2	902	4	Miroslav	Vojta			21	policista	Olší	99	80	A	M
+6203	596302	1	1	901	5	Kateřina	Bílá	Mgr.		43	učitelka	Olší	99	80	A	F
+6203	596302	1	2	902	5	Jakub	Mičánek			26	kuchař	Olší	99	80	A	M
+6203	596302	1	1	901	6	Michal	Bednář	Ing.		37	pracovník chemické laboratoře	Litava	99	80	A	M
+6203	596302	1	2	902	6	Karel	Vojta			26	OSVČ	Olší	99	80	A	M
+6203	596302	1	1	901	7	Miloš	Žvátora			40	řidič, skladník	Olší	99	80	A	M
+6203	596302	1	2	902	7	Radek	Vojta			24	OSVČ	Olší	99	80	A	M
+6203	596302	1	1	901	8	Kateřina	Hanzalová	Mgr.		40	výzkumný pracovník	Olší	99	80	A	F
+6203	596302	1	1	901	9	Pavel	Bednář	Ing.		35	metrolog	Olší	99	80	A	M

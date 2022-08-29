@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	535648	1	1	902	1	Marek	Prokeš	M			41	živnostník - truhlář	Hůrka	99	80	0
-3101	535648	1	1	902	2	Kateřina	Ašenbrennerová	F			35	arteterapeutka	Hůrka	99	80	0
-3101	535648	1	1	902	3	Jiří	Hošna	M			46	hasič - operační důstojník	Hůrka	99	80	0
-3101	535648	1	1	902	4	Petr	Tvaroh	M			50	živnostník - hrnčíř	Nová Ves	99	80	0
-3101	535648	1	1	902	5	Petr	Kolban	M	Mgr.		26	asistent soudce	Hůrka	99	80	0
-3101	535648	1	1	902	6	Luděk	Šteier	M			36	jednatel společnosti	Nová Ves	99	80	0
-3101	535648	1	1	902	7	František	Vávra	M			42	živnostník - truhlář	Hůrka	99	80	0
-3101	535648	1	1	902	8	Roman	Kolář	M			42	řidič	Nová Ves	99	80	0
-3101	535648	1	1	902	9	Monika	Bauerová	F	Ing.		46	zástupce vedoucího nákupu	Nová Ves	99	80	0
-3101	535648	1	2	901	1	Miroslav	Mládek	M	Ing.		50	starosta	Hůrka	99	80	0
-3101	535648	1	2	901	2	Pavel	Němec	M			44	soukromý podnikatel	Nová Ves	99	80	0
-3101	535648	1	2	901	3	Alena	Veselá	F			56	dětská sestra	Hůrka	99	80	0
-3101	535648	1	2	901	4	Jiří	Šuster	M	Ing.		48	soukromý podnikatel	Hůrka	99	80	0
-3101	535648	1	2	901	5	Vladimír	Vlček	M			53	keramik	Nová Ves	99	80	0
-3101	535648	1	2	901	6	Vladimír	Strejček	M	Ing.		53	konzultant	Nová Ves	99	80	0
-3101	535648	1	2	901	7	Václava	Tesařová	F			43	skladnice	Nová Ves	99	80	0
-3101	535648	1	2	901	8	Milan	Bednář	M			62	finanční poradce	Nová Ves	99	80	0
-3101	535648	1	2	901	9	Jan	Vávra	M			43	řidič	Hůrka	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	535648	1	1	902	1	Marek	Prokeš			41	živnostník - truhlář	Hůrka	99	80	0	M
+3101	535648	1	2	901	1	Miroslav	Mládek	Ing.		50	starosta	Hůrka	99	80	0	M
+3101	535648	1	1	902	2	Kateřina	Ašenbrennerová			35	arteterapeutka	Hůrka	99	80	0	F
+3101	535648	1	2	901	2	Pavel	Němec			44	soukromý podnikatel	Nová Ves	99	80	0	M
+3101	535648	1	1	902	3	Jiří	Hošna			46	hasič - operační důstojník	Hůrka	99	80	0	M
+3101	535648	1	2	901	3	Alena	Veselá			56	dětská sestra	Hůrka	99	80	0	F
+3101	535648	1	1	902	4	Petr	Tvaroh			50	živnostník - hrnčíř	Nová Ves	99	80	0	M
+3101	535648	1	2	901	4	Jiří	Šuster	Ing.		48	soukromý podnikatel	Hůrka	99	80	0	M
+3101	535648	1	1	902	5	Petr	Kolban	Mgr.		26	asistent soudce	Hůrka	99	80	0	M
+3101	535648	1	2	901	5	Vladimír	Vlček			53	keramik	Nová Ves	99	80	0	M
+3101	535648	1	1	902	6	Luděk	Šteier			36	jednatel společnosti	Nová Ves	99	80	0	M
+3101	535648	1	2	901	6	Vladimír	Strejček	Ing.		53	konzultant	Nová Ves	99	80	0	M
+3101	535648	1	1	902	7	František	Vávra			42	živnostník - truhlář	Hůrka	99	80	0	M
+3101	535648	1	2	901	7	Václava	Tesařová			43	skladnice	Nová Ves	99	80	0	F
+3101	535648	1	1	902	8	Roman	Kolář			42	řidič	Nová Ves	99	80	0	M
+3101	535648	1	2	901	8	Milan	Bednář			62	finanční poradce	Nová Ves	99	80	0	M
+3101	535648	1	1	902	9	Monika	Bauerová	Ing.		46	zástupce vedoucího nákupu	Nová Ves	99	80	0	F
+3101	535648	1	2	901	9	Jan	Vávra			43	řidič	Hůrka	99	80	0	M

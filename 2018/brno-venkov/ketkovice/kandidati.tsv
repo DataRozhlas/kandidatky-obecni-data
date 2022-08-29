@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	583201	1	1	47	1	Jiří	Kselík	M	Ing.		61	zemědělský inženýr	Ketkovice	99	47	A
-6203	583201	1	1	47	2	Marie	Karausová	F			44	prodavačka	Ketkovice	99	47	A
-6203	583201	1	1	47	3	Vlastimil	Chadim	M			61	instalatér	Ketkovice	99	47	A
-6203	583201	1	1	47	4	Roman	Bláha	M			47	stavební zámečník	Ketkovice	99	47	A
-6203	583201	1	1	47	5	Marie	Popelková	F			66	důchodce	Ketkovice	99	47	A
-6203	583201	1	1	47	6	Zdeněk	Svoboda	M	Ing.		77	důchodce	Ketkovice	47	47	A
-6203	583201	1	1	47	7	Vladimír	Navrátil	M	Ing.		67	důchodce	Ketkovice	47	47	A
-6203	583201	1	2	901	1	Šárka	Matoušková	F	MVDr.		44	produktová manažerka	Ketkovice	99	80	A
-6203	583201	1	2	901	2	Zdeněk	Ošťádal	M	Bc.		50	operátor reaktorů	Ketkovice	99	80	A
-6203	583201	1	2	901	3	Lenka	Foralová	F	Mgr.		51	učitelka	Ketkovice	99	80	A
-6203	583201	1	2	901	4	Robert	Pevný	M			44	správce sítě	Ketkovice	99	80	A
-6203	583201	1	2	901	5	Petr	Ondrejka	M		DiS.	35	IT technik	Ketkovice	99	80	A
-6203	583201	1	2	901	6	Lucie	Sedláková	F		DiS.	38	OSVČ	Ketkovice	99	80	A
-6203	583201	1	2	901	7	Dušan	Horváth	M			27	seřizovač vstřikovacích strojů	Ketkovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	583201	1	1	47	1	Jiří	Kselík	Ing.		61	zemědělský inženýr	Ketkovice	99	47	A	M
+6203	583201	1	2	901	1	Šárka	Matoušková	MVDr.		44	produktová manažerka	Ketkovice	99	80	A	F
+6203	583201	1	1	47	2	Marie	Karausová			44	prodavačka	Ketkovice	99	47	A	F
+6203	583201	1	2	901	2	Zdeněk	Ošťádal	Bc.		50	operátor reaktorů	Ketkovice	99	80	A	M
+6203	583201	1	1	47	3	Vlastimil	Chadim			61	instalatér	Ketkovice	99	47	A	M
+6203	583201	1	2	901	3	Lenka	Foralová	Mgr.		51	učitelka	Ketkovice	99	80	A	F
+6203	583201	1	1	47	4	Roman	Bláha			47	stavební zámečník	Ketkovice	99	47	A	M
+6203	583201	1	2	901	4	Robert	Pevný			44	správce sítě	Ketkovice	99	80	A	M
+6203	583201	1	1	47	5	Marie	Popelková			66	důchodce	Ketkovice	99	47	A	F
+6203	583201	1	2	901	5	Petr	Ondrejka		DiS.	35	IT technik	Ketkovice	99	80	A	M
+6203	583201	1	1	47	6	Zdeněk	Svoboda	Ing.		77	důchodce	Ketkovice	47	47	A	M
+6203	583201	1	2	901	6	Lucie	Sedláková		DiS.	38	OSVČ	Ketkovice	99	80	A	F
+6203	583201	1	1	47	7	Vladimír	Navrátil	Ing.		67	důchodce	Ketkovice	47	47	A	M
+6203	583201	1	2	901	7	Dušan	Horváth			27	seřizovač vstřikovacích strojů	Ketkovice	99	80	A	M

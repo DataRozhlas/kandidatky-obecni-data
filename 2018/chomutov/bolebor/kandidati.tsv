@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4202	563005	1	1	470	1	Martin	Hájevský	M	Mgr.		51	pedagog - sportovní trenér	Boleboř	99	166	A
-4202	563005	1	1	470	2	Jiří	Šiman	M			41	OSVČ	Orasín	99	166	A
-4202	563005	1	1	470	3	Martina	Jurecová	F			25	příprava staveb	Boleboř	99	80	A
-4202	563005	1	1	470	4	Michal	Novotný	M			35	projektový inženýr	Orasín	99	166	A
-4202	563005	1	1	470	5	Jan	Zábran	M			38	OSVČ	Boleboř	99	166	A
-4202	563005	1	1	470	6	Pavla	Vysoudilová	F	MUDr.		40	lékař	Orasín	99	80	A
-4202	563005	1	1	470	7	Jaroslav	Zouna	M			49	zámečník	Boleboř	99	80	A
-4202	563005	1	1	470	8	Josef	Švancar	M			45	výtvarník	Orasín	99	80	A
-4202	563005	1	1	470	9	Antonín	Herzán	M			47	OSVČ	Svahová	99	166	A
-4202	563005	1	2	903	1	Josef	Kemr	M			50	kontrolor kvality	Boleboř	99	80	A
-4202	563005	1	2	903	2	Vladimír	Bihari	M			32	dělník	Boleboř	99	80	A
-4202	563005	1	2	903	3	Petr	Šmíd	M			39	manažer výroby	Orasín	99	80	A
-4202	563005	1	2	903	4	Jakub	Kopecký	M			23	hasič - strojník	Svahová	99	80	A
-4202	563005	1	2	903	5	Marie	Mráčková	F			26	VPP	Boleboř	99	80	A
-4202	563005	1	2	903	6	Jaroslav	Hrudka	M			32	voják z povolání	Orasín	99	80	A
-4202	563005	1	2	903	7	Věra	Mráčková	F			57	VPP	Boleboř	99	80	A
-4202	563005	1	2	903	8	Antonín	Lejzner	M			63	důchodce	Boleboř	99	80	A
-4202	563005	1	2	903	9	Marek	Braun	M			43	rozpočtář	Boleboř	99	80	A
-4202	563005	1	3	902	1	Lenka	Štefánková	F			24	účetní	Orasín	99	80	A
-4202	563005	1	3	902	2	Renáta	Mihaliková	F			33	provozní vedoucí	Orasín	99	80	A
-4202	563005	1	3	902	3	Jaroslav	Hrudka	M	Ing.		60	OSVČ	Boleboř	99	80	A
-4202	563005	1	3	902	4	Květoslava	Kudláčková	F			65	důchodce	Boleboř	99	80	A
-4202	563005	1	3	902	5	Lucie	Kemrová	F			45	manažer obchodu	Boleboř	99	80	A
-4202	563005	1	3	902	6	Jiří	Richter	M			37	elektrikář	Boleboř	99	80	A
-4202	563005	1	3	902	7	Tomáš	Talacko	M	Ing.		45	vedoucí úseku	Orasín	99	80	A
-4202	563005	1	3	902	8	Margita	Lansdorfová	F			44	vedoucí směny	Boleboř	99	80	A
-4202	563005	1	3	902	9	Jan	Palovčík	M			60	zámečník	Boleboř	99	80	A
-4202	563005	1	4	901	1	Martin	Valeš	M	Ing.		46	technik	Boleboř	99	80	A
-4202	563005	1	4	901	2	Ilona	Malá	F			63	důchodce	Boleboř	99	80	A
-4202	563005	1	4	901	3	Jaromír	Franta	M			51	odborový funkcionář	Boleboř	99	80	A
-4202	563005	1	4	901	4	Stanislava	Bidlasová	F			53	vedoucí učitelka mateřské školy	Boleboř	99	80	A
-4202	563005	1	4	901	5	Anitka	Stiborová	F			74	důchodce	Orasín	99	80	A
-4202	563005	1	4	901	6	Jiří	Janda	M			48	jednatel společnosti	Svahová	99	80	A
-4202	563005	1	4	901	7	Petr	Bidlas	M			61	soukromý podnikatel	Boleboř	99	80	A
-4202	563005	1	4	901	8	Vladimír	Kiklhorn	M			64	důchodce	Svahová	99	80	A
-4202	563005	1	4	901	9	Jan	Meitner	M			56	pedagog	Boleboř	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4202	563005	1	1	470	1	Martin	Hájevský	Mgr.		51	pedagog - sportovní trenér	Boleboř	99	166	A	M
+4202	563005	1	2	903	1	Josef	Kemr			50	kontrolor kvality	Boleboř	99	80	A	M
+4202	563005	1	3	902	1	Lenka	Štefánková			24	účetní	Orasín	99	80	A	F
+4202	563005	1	4	901	1	Martin	Valeš	Ing.		46	technik	Boleboř	99	80	A	M
+4202	563005	1	1	470	2	Jiří	Šiman			41	OSVČ	Orasín	99	166	A	M
+4202	563005	1	2	903	2	Vladimír	Bihari			32	dělník	Boleboř	99	80	A	M
+4202	563005	1	3	902	2	Renáta	Mihaliková			33	provozní vedoucí	Orasín	99	80	A	F
+4202	563005	1	4	901	2	Ilona	Malá			63	důchodce	Boleboř	99	80	A	F
+4202	563005	1	1	470	3	Martina	Jurecová			25	příprava staveb	Boleboř	99	80	A	F
+4202	563005	1	2	903	3	Petr	Šmíd			39	manažer výroby	Orasín	99	80	A	M
+4202	563005	1	3	902	3	Jaroslav	Hrudka	Ing.		60	OSVČ	Boleboř	99	80	A	M
+4202	563005	1	4	901	3	Jaromír	Franta			51	odborový funkcionář	Boleboř	99	80	A	M
+4202	563005	1	1	470	4	Michal	Novotný			35	projektový inženýr	Orasín	99	166	A	M
+4202	563005	1	2	903	4	Jakub	Kopecký			23	hasič - strojník	Svahová	99	80	A	M
+4202	563005	1	3	902	4	Květoslava	Kudláčková			65	důchodce	Boleboř	99	80	A	F
+4202	563005	1	4	901	4	Stanislava	Bidlasová			53	vedoucí učitelka mateřské školy	Boleboř	99	80	A	F
+4202	563005	1	1	470	5	Jan	Zábran			38	OSVČ	Boleboř	99	166	A	M
+4202	563005	1	2	903	5	Marie	Mráčková			26	VPP	Boleboř	99	80	A	F
+4202	563005	1	3	902	5	Lucie	Kemrová			45	manažer obchodu	Boleboř	99	80	A	F
+4202	563005	1	4	901	5	Anitka	Stiborová			74	důchodce	Orasín	99	80	A	F
+4202	563005	1	1	470	6	Pavla	Vysoudilová	MUDr.		40	lékař	Orasín	99	80	A	F
+4202	563005	1	2	903	6	Jaroslav	Hrudka			32	voják z povolání	Orasín	99	80	A	M
+4202	563005	1	3	902	6	Jiří	Richter			37	elektrikář	Boleboř	99	80	A	M
+4202	563005	1	4	901	6	Jiří	Janda			48	jednatel společnosti	Svahová	99	80	A	M
+4202	563005	1	1	470	7	Jaroslav	Zouna			49	zámečník	Boleboř	99	80	A	M
+4202	563005	1	2	903	7	Věra	Mráčková			57	VPP	Boleboř	99	80	A	F
+4202	563005	1	3	902	7	Tomáš	Talacko	Ing.		45	vedoucí úseku	Orasín	99	80	A	M
+4202	563005	1	4	901	7	Petr	Bidlas			61	soukromý podnikatel	Boleboř	99	80	A	M
+4202	563005	1	1	470	8	Josef	Švancar			45	výtvarník	Orasín	99	80	A	M
+4202	563005	1	2	903	8	Antonín	Lejzner			63	důchodce	Boleboř	99	80	A	M
+4202	563005	1	3	902	8	Margita	Lansdorfová			44	vedoucí směny	Boleboř	99	80	A	F
+4202	563005	1	4	901	8	Vladimír	Kiklhorn			64	důchodce	Svahová	99	80	A	M
+4202	563005	1	1	470	9	Antonín	Herzán			47	OSVČ	Svahová	99	166	A	M
+4202	563005	1	2	903	9	Marek	Braun			43	rozpočtář	Boleboř	99	80	A	M
+4202	563005	1	3	902	9	Jan	Palovčík			60	zámečník	Boleboř	99	80	A	M
+4202	563005	1	4	901	9	Jan	Meitner			56	pedagog	Boleboř	99	80	A	M

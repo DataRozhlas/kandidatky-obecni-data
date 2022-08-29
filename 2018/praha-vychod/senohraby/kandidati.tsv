@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2109	538752	1	1	523	1	Jana	Svašková	F	Ing.		42	ekonom	Senohraby	721	721	A
-2109	538752	1	1	523	2	Vladimír	Dvořák	M	PhDr.		44	ekonom	Senohraby	53	53	A
-2109	538752	1	1	523	3	Anna	Voňavková	F			33	manažerka lesní MŠ	Senohraby	99	80	A
-2109	538752	1	1	523	4	Miroslav	Matyska	M	Ing.		63	voják z povolání	Senohraby	99	80	A
-2109	538752	1	1	523	5	Václav	Krebs	M			64	technik	Senohraby	99	80	A
-2109	538752	1	1	523	6	Daniela	Jobertová	F	doc.	Ph.D.	47	vysokoškolský pedagog	Senohraby	99	80	A
-2109	538752	1	1	523	7	Tatiana	Tomková	F			71	lektorka jazyků	Senohraby	99	80	A
-2109	538752	1	1	523	8	Petr	Šťastný	M	Bc.		36	projektant	Senohraby	99	80	A
-2109	538752	1	1	523	9	Anna	Cholevová	F	MUDr.		68	stomatolog	Senohraby	99	80	A
-2109	538752	1	2	901	1	Milan	Kraut	M			64	plynárenský technik	Senohraby	99	80	A
-2109	538752	1	2	901	2	Michal	Bílý	M			42	hasič - operační technik	Senohraby	99	80	A
-2109	538752	1	2	901	3	Jan	Beneš	M			47	hasič - technik chemické služby	Senohraby	99	80	A
-2109	538752	1	2	901	4	Pavel	Saro	M			42	živnostník	Senohraby	99	80	A
-2109	538752	1	2	901	5	Petr	Hanzl	M			41	vedoucí prodeje	Senohraby	99	80	A
-2109	538752	1	2	901	6	Petr	Šrámek	M	MUDr.		36	lékař	Senohraby	99	80	A
-2109	538752	1	2	901	7	Martin	Brož	M			36	strojvedoucí	Senohraby	99	80	A
-2109	538752	1	2	901	8	Petr	Švancar	M			42	stavební technik	Senohraby	99	80	A
-2109	538752	1	2	901	9	Vladimír	Prchlík	M	Ing.		28	konzultant	Senohraby	99	80	A
-2109	538752	1	3	902	1	Radek	Skořepa	M			44	podnikatel	Senohraby	99	80	A
-2109	538752	1	3	902	2	Alexandra	Kloužková	F	doc. Ing.	CSc.	54	vysokoškolský pedagog	Senohraby	99	80	A
-2109	538752	1	3	902	3	Lucie	Pancířová	F	Ing.		37	ekonomka na rodičovské dovolené	Senohraby	99	80	A
-2109	538752	1	3	902	4	Zbyněk	Průša	M			45	podnikatel	Senohraby	99	80	A
-2109	538752	1	3	902	5	František	Čermák	M	JUDr.		64	podnikatel	Senohraby	99	80	A
-2109	538752	1	3	902	6	Dana	Maršíková	F			46	recepční sportovního centra	Senohraby	99	80	A
-2109	538752	1	3	902	7	Michal	Kučaba	M	Ing.		53	podnikatel	Senohraby	99	80	A
-2109	538752	1	3	902	8	Barbora	Anderlová	F	PhDr. Mgr.		42	fyzioterapeut	Senohraby	99	80	A
-2109	538752	1	3	902	9	Martin	Fuksa	M			31	obchodní zástupce	Senohraby	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2109	538752	1	1	523	1	Jana	Svašková	Ing.		42	ekonom	Senohraby	721	721	A	F
+2109	538752	1	2	901	1	Milan	Kraut			64	plynárenský technik	Senohraby	99	80	A	M
+2109	538752	1	3	902	1	Radek	Skořepa			44	podnikatel	Senohraby	99	80	A	M
+2109	538752	1	1	523	2	Vladimír	Dvořák	PhDr.		44	ekonom	Senohraby	53	53	A	M
+2109	538752	1	2	901	2	Michal	Bílý			42	hasič - operační technik	Senohraby	99	80	A	M
+2109	538752	1	3	902	2	Alexandra	Kloužková	doc. Ing.	CSc.	54	vysokoškolský pedagog	Senohraby	99	80	A	F
+2109	538752	1	1	523	3	Anna	Voňavková			33	manažerka lesní MŠ	Senohraby	99	80	A	F
+2109	538752	1	2	901	3	Jan	Beneš			47	hasič - technik chemické služby	Senohraby	99	80	A	M
+2109	538752	1	3	902	3	Lucie	Pancířová	Ing.		37	ekonomka na rodičovské dovolené	Senohraby	99	80	A	F
+2109	538752	1	1	523	4	Miroslav	Matyska	Ing.		63	voják z povolání	Senohraby	99	80	A	M
+2109	538752	1	2	901	4	Pavel	Saro			42	živnostník	Senohraby	99	80	A	M
+2109	538752	1	3	902	4	Zbyněk	Průša			45	podnikatel	Senohraby	99	80	A	M
+2109	538752	1	1	523	5	Václav	Krebs			64	technik	Senohraby	99	80	A	M
+2109	538752	1	2	901	5	Petr	Hanzl			41	vedoucí prodeje	Senohraby	99	80	A	M
+2109	538752	1	3	902	5	František	Čermák	JUDr.		64	podnikatel	Senohraby	99	80	A	M
+2109	538752	1	1	523	6	Daniela	Jobertová	doc.	Ph.D.	47	vysokoškolský pedagog	Senohraby	99	80	A	F
+2109	538752	1	2	901	6	Petr	Šrámek	MUDr.		36	lékař	Senohraby	99	80	A	M
+2109	538752	1	3	902	6	Dana	Maršíková			46	recepční sportovního centra	Senohraby	99	80	A	F
+2109	538752	1	1	523	7	Tatiana	Tomková			71	lektorka jazyků	Senohraby	99	80	A	F
+2109	538752	1	2	901	7	Martin	Brož			36	strojvedoucí	Senohraby	99	80	A	M
+2109	538752	1	3	902	7	Michal	Kučaba	Ing.		53	podnikatel	Senohraby	99	80	A	M
+2109	538752	1	1	523	8	Petr	Šťastný	Bc.		36	projektant	Senohraby	99	80	A	M
+2109	538752	1	2	901	8	Petr	Švancar			42	stavební technik	Senohraby	99	80	A	M
+2109	538752	1	3	902	8	Barbora	Anderlová	PhDr. Mgr.		42	fyzioterapeut	Senohraby	99	80	A	F
+2109	538752	1	1	523	9	Anna	Cholevová	MUDr.		68	stomatolog	Senohraby	99	80	A	F
+2109	538752	1	2	901	9	Vladimír	Prchlík	Ing.		28	konzultant	Senohraby	99	80	A	M
+2109	538752	1	3	902	9	Martin	Fuksa			31	obchodní zástupce	Senohraby	99	80	A	M

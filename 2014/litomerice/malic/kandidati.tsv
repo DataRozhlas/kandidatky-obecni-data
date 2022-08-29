@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	542491	1	1	480	1	Roman	Dráb	M			49	starosta obce	Malíč	721	721	0
-4203	542491	1	1	480	2	Dušan	Smejkal	M			68	důchodce	Malíč	99	721	0
-4203	542491	1	1	480	3	Michal	Pazderka	M			35	technik	Malíč	99	721	0
-4203	542491	1	1	480	4	Milan	Valenta	M			38	soukromý podnikatel	Malíč	99	721	0
-4203	542491	1	1	480	5	Pavel	Pejsar	M	Bc.		45	hasič	Malíč	99	721	0
-4203	542491	1	1	480	6	Tomáš	Kříž	M			35	technik	Malíč	99	80	0
-4203	542491	1	2	901	1	Miroslava	Holemá	F	Mgr.		29	soc. pracovnice	Malíč	99	80	0
-4203	542491	1	2	901	2	Antonín	Svoboda	M			34	mechanik	Malíč	99	80	0
-4203	542491	1	2	901	3	Markéta	Myšková	F	Bc.		30	laborantka	Malíč	99	80	0
-4203	542491	1	2	901	4	Jindřich	Müller	M	Ing.		30	specialista elektro	Malíč	99	80	0
-4203	542491	1	2	901	5	Stanislav	Müller	M	Ing.		28	geodet	Malíč	99	80	0
-4203	542491	1	2	901	6	Gabriela	Ciganiková	F			25	pokladník v bance	Malíč	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	542491	1	1	480	1	Roman	Dráb			49	starosta obce	Malíč	721	721	0	M
+4203	542491	1	2	901	1	Miroslava	Holemá	Mgr.		29	soc. pracovnice	Malíč	99	80	0	F
+4203	542491	1	1	480	2	Dušan	Smejkal			68	důchodce	Malíč	99	721	0	M
+4203	542491	1	2	901	2	Antonín	Svoboda			34	mechanik	Malíč	99	80	0	M
+4203	542491	1	1	480	3	Michal	Pazderka			35	technik	Malíč	99	721	0	M
+4203	542491	1	2	901	3	Markéta	Myšková	Bc.		30	laborantka	Malíč	99	80	0	F
+4203	542491	1	1	480	4	Milan	Valenta			38	soukromý podnikatel	Malíč	99	721	0	M
+4203	542491	1	2	901	4	Jindřich	Müller	Ing.		30	specialista elektro	Malíč	99	80	0	M
+4203	542491	1	1	480	5	Pavel	Pejsar	Bc.		45	hasič	Malíč	99	721	0	M
+4203	542491	1	2	901	5	Stanislav	Müller	Ing.		28	geodet	Malíč	99	80	0	M
+4203	542491	1	1	480	6	Tomáš	Kříž			35	technik	Malíč	99	80	0	M
+4203	542491	1	2	901	6	Gabriela	Ciganiková			25	pokladník v bance	Malíč	99	80	0	F

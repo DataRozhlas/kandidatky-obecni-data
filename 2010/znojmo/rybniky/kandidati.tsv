@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	594750	1	1	470	1	Hana	Kunčáková	F	Ing.		41	starostka obce	Rybníky	99	166	0
-6207	594750	1	1	470	2	Dana	Tichá	F	Ing.		50	účetní	Rybníky	99	166	0
-6207	594750	1	1	470	3	Aleš	Drápal	M	Ing.		29	softwarový konzultant	Rybníky	99	166	0
-6207	594750	1	1	470	4	Jiří	Horák	M			41	údržbář	Rybníky	99	166	0
-6207	594750	1	1	470	5	Josef	Holub	M			50	stavební technik	Rybníky	99	166	0
-6207	594750	1	1	470	6	Antonín	Věžník	M			47	mistr kovovýroby	Rybníky	99	166	0
-6207	594750	1	1	470	7	Zdeněk	Moučka	M			50	technik	Rybníky	99	166	0
-6207	594750	1	1	470	8	František	Jordán	M			63	důchodce	Rybníky	99	166	0
-6207	594750	1	1	470	9	Alfred	Wech	M			40	ředitel	Rybníky	99	80	0
-6207	594750	1	2	901	1	Josef	Krejčí	M			64	důchodce	Rybníky	99	80	0
-6207	594750	1	2	901	2	Libor	Košíček	M	Ing.		59	jednatel společnosti	Rybníky	99	80	0
-6207	594750	1	2	901	3	Jaroslav	Obrlík	M			54	zedník	Rybníky	99	80	0
-6207	594750	1	2	901	4	Stanislav	Vybíral	M			33	pokrývač	Rybníky	99	80	0
-6207	594750	1	2	901	5	Rostislav	Chvátal	M			31	dělník	Rybníky	99	80	0
-6207	594750	1	2	901	6	Pavel	Pistovčák	M			66	důchodce	Rybníky	99	80	0
-6207	594750	1	2	901	7	Daniel	Mazur	M			38	administrativní pracovník	Rybníky	99	80	0
-6207	594750	1	2	901	8	Pavel	Rumian	M			44	zedník	Rybníky	99	80	0
-6207	594750	1	2	901	9	Petr	Lohmer	M			58	důchodce	Rybníky	99	80	0
-6207	594750	1	3	1	1	Josef	Černý	M			53	invalidní důchodce	Rybníky	1	1	0
-6207	594750	1	3	1	2	Dagmar	Pavlišová	F			62	důchodce	Rybníky	99	1	0
-6207	594750	1	3	1	3	Vladan	Košíček	M			32	stolař	Rybníky	99	1	0
-6207	594750	1	3	1	4	Pavel	Sikmund	M			36	řidič	Rybníky	99	1	0
-6207	594750	1	3	1	5	Stanislav	Krška	M	Ing.		60	úředník	Rybníky	99	1	0
-6207	594750	1	3	1	6	Anna	Brabcová	F			61	důchodkyně	Rybníky	99	1	0
-6207	594750	1	3	1	7	Libor	Procházka	M			41	izolatér	Rybníky	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	594750	1	1	470	1	Hana	Kunčáková	Ing.		41	starostka obce	Rybníky	99	166	0	F
+6207	594750	1	2	901	1	Josef	Krejčí			64	důchodce	Rybníky	99	80	0	M
+6207	594750	1	3	1	1	Josef	Černý			53	invalidní důchodce	Rybníky	1	1	0	M
+6207	594750	1	1	470	2	Dana	Tichá	Ing.		50	účetní	Rybníky	99	166	0	F
+6207	594750	1	2	901	2	Libor	Košíček	Ing.		59	jednatel společnosti	Rybníky	99	80	0	M
+6207	594750	1	3	1	2	Dagmar	Pavlišová			62	důchodce	Rybníky	99	1	0	F
+6207	594750	1	1	470	3	Aleš	Drápal	Ing.		29	softwarový konzultant	Rybníky	99	166	0	M
+6207	594750	1	2	901	3	Jaroslav	Obrlík			54	zedník	Rybníky	99	80	0	M
+6207	594750	1	3	1	3	Vladan	Košíček			32	stolař	Rybníky	99	1	0	M
+6207	594750	1	1	470	4	Jiří	Horák			41	údržbář	Rybníky	99	166	0	M
+6207	594750	1	2	901	4	Stanislav	Vybíral			33	pokrývač	Rybníky	99	80	0	M
+6207	594750	1	3	1	4	Pavel	Sikmund			36	řidič	Rybníky	99	1	0	M
+6207	594750	1	1	470	5	Josef	Holub			50	stavební technik	Rybníky	99	166	0	M
+6207	594750	1	2	901	5	Rostislav	Chvátal			31	dělník	Rybníky	99	80	0	M
+6207	594750	1	3	1	5	Stanislav	Krška	Ing.		60	úředník	Rybníky	99	1	0	M
+6207	594750	1	1	470	6	Antonín	Věžník			47	mistr kovovýroby	Rybníky	99	166	0	M
+6207	594750	1	2	901	6	Pavel	Pistovčák			66	důchodce	Rybníky	99	80	0	M
+6207	594750	1	3	1	6	Anna	Brabcová			61	důchodkyně	Rybníky	99	1	0	F
+6207	594750	1	1	470	7	Zdeněk	Moučka			50	technik	Rybníky	99	166	0	M
+6207	594750	1	2	901	7	Daniel	Mazur			38	administrativní pracovník	Rybníky	99	80	0	M
+6207	594750	1	3	1	7	Libor	Procházka			41	izolatér	Rybníky	99	1	0	M
+6207	594750	1	1	470	8	František	Jordán			63	důchodce	Rybníky	99	166	0	M
+6207	594750	1	2	901	8	Pavel	Rumian			44	zedník	Rybníky	99	80	0	M
+6207	594750	1	1	470	9	Alfred	Wech			40	ředitel	Rybníky	99	80	0	M
+6207	594750	1	2	901	9	Petr	Lohmer			58	důchodce	Rybníky	99	80	0	M

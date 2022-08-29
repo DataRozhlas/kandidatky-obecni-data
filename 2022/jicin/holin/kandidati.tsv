@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5202	572900	1	1	901	1	Alena	Macounová	F	Ing.		56	hlavní účetní	Prachov	99	80	A
-5202	572900	1	1	901	2	Jiří	Veselka	M		MBA	62	vedoucí ekon. útvaru	Holín	1	80	A
-5202	572900	1	1	901	3	Jaromír	Drahoňovský	M	Ing.		42	odborný referent	Holín	99	80	A
-5202	572900	1	1	901	4	Pavel	Hanyš	M	Bc.		46	servisní technik	Holín	99	80	A
-5202	572900	1	1	901	5	Václav	Švorc	M			43	ředitel společnosti	Pařezská Lhota	99	80	A
-5202	572900	1	1	901	6	Sylva	Jirsová	F	Ing.		49	manažer kvality	Horní Lochov	99	80	A
-5202	572900	1	1	901	7	Karolína	Smolařová	F	Mgr.		37	pedagogický pracovník	Holín	99	80	A
-5202	572900	1	1	901	8	Andrea	Havelková	F			49	dělnice	Holín	99	80	A
-5202	572900	1	1	901	9	Slavomír	Mašek	M			56	řidič	Pařezská Lhota	99	80	A
-5202	572900	1	2	902	1	František	Kubín	M	Ing. Bc.	DiS.	38	učitel	Holín	99	80	A
-5202	572900	1	2	902	2	Jiří	Kubín	M			47	řidič	Holín	99	80	A
-5202	572900	1	2	902	3	Stanislav	Pleva	M	Ing.		46	učitel	Holín	99	80	A
-5202	572900	1	2	902	4	Zdeněk	Hakl	M			53	zámečník	Horní Lochov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5202	572900	1	1	901	1	Alena	Macounová	Ing.		56	hlavní účetní	Prachov	99	80	A	F
+5202	572900	1	2	902	1	František	Kubín	Ing. Bc.	DiS.	38	učitel	Holín	99	80	A	M
+5202	572900	1	1	901	2	Jiří	Veselka		MBA	62	vedoucí ekon. útvaru	Holín	1	80	A	M
+5202	572900	1	2	902	2	Jiří	Kubín			47	řidič	Holín	99	80	A	M
+5202	572900	1	1	901	3	Jaromír	Drahoňovský	Ing.		42	odborný referent	Holín	99	80	A	M
+5202	572900	1	2	902	3	Stanislav	Pleva	Ing.		46	učitel	Holín	99	80	A	M
+5202	572900	1	1	901	4	Pavel	Hanyš	Bc.		46	servisní technik	Holín	99	80	A	M
+5202	572900	1	2	902	4	Zdeněk	Hakl			53	zámečník	Horní Lochov	99	80	A	M
+5202	572900	1	1	901	5	Václav	Švorc			43	ředitel společnosti	Pařezská Lhota	99	80	A	M
+5202	572900	1	1	901	6	Sylva	Jirsová	Ing.		49	manažer kvality	Horní Lochov	99	80	A	F
+5202	572900	1	1	901	7	Karolína	Smolařová	Mgr.		37	pedagogický pracovník	Holín	99	80	A	F
+5202	572900	1	1	901	8	Andrea	Havelková			49	dělnice	Holín	99	80	A	F
+5202	572900	1	1	901	9	Slavomír	Mašek			56	řidič	Pařezská Lhota	99	80	A	M

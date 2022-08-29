@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	596159	1	1	902	1	Martin	Schenk	M	Ing.		44	podnikatel	Habří	99	80	A
-6105	596159	1	1	902	2	Miroslav	Svoboda	M			50	OSVČ	Habří	99	80	A
-6105	596159	1	1	902	3	Zbyněk	Zelený	M			37	dělník v zemědělské výrobě	Habří	99	80	A
-6105	596159	1	2	901	1	Josef	Havránek	M			59	živnostník	Moravecké Pavlovice	99	80	A
-6105	596159	1	2	901	2	Marie	Buchtová	F			75	důchodce	Habří	99	80	A
-6105	596159	1	2	901	3	Jiří	Vala	M			51	skladník	Moravecké Pavlovice	99	80	A
-6105	596159	1	2	901	4	Jana	Šmídková	F			49	nezaměstnaná	Moravecké Pavlovice	99	80	A
-6105	596159	1	2	901	5	Marie	Havránková	F			44	dojička	Moravecké Pavlovice	99	80	A
-6105	596159	1	2	901	6	Marcela	Lorencová	F	Ing.		51	ředitelka	Moravecké Pavlovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	596159	1	1	902	1	Martin	Schenk	Ing.		44	podnikatel	Habří	99	80	A	M
+6105	596159	1	2	901	1	Josef	Havránek			59	živnostník	Moravecké Pavlovice	99	80	A	M
+6105	596159	1	1	902	2	Miroslav	Svoboda			50	OSVČ	Habří	99	80	A	M
+6105	596159	1	2	901	2	Marie	Buchtová			75	důchodce	Habří	99	80	A	F
+6105	596159	1	1	902	3	Zbyněk	Zelený			37	dělník v zemědělské výrobě	Habří	99	80	A	M
+6105	596159	1	2	901	3	Jiří	Vala			51	skladník	Moravecké Pavlovice	99	80	A	M
+6105	596159	1	2	901	4	Jana	Šmídková			49	nezaměstnaná	Moravecké Pavlovice	99	80	A	F
+6105	596159	1	2	901	5	Marie	Havránková			44	dojička	Moravecké Pavlovice	99	80	A	F
+6105	596159	1	2	901	6	Marcela	Lorencová	Ing.		51	ředitelka	Moravecké Pavlovice	99	80	A	F

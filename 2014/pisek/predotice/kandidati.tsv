@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	509621	1	1	902	1	František	Voldán	M			60	starosta	Třebkov	99	80	0
-3104	509621	1	1	902	2	Pavel	Vainar	M			51	učitel	Vadkovice	99	80	0
-3104	509621	1	1	902	3	František	Klas	M			58	dělník	Kožlí u Čížové	99	80	0
-3104	509621	1	1	902	4	Věra	Maruniaková	F			57	zdravotní sestra	Šamonice	99	80	0
-3104	509621	1	1	902	5	Michal	Slabý	M			40	technik	Malčice	99	80	0
-3104	509621	1	1	902	6	Marie	Kolářová	F			63	důchodce	Křešice	99	80	0
-3104	509621	1	1	902	7	Jaroslav	Dvořák	M			51	dělník	Předotice	99	80	0
-3104	509621	1	1	902	8	Josef	Švec	M			48	dělník	Soběšice	99	80	0
-3104	509621	1	1	902	9	Antonín	Ráček	M			48	řidič	Malčice	99	80	0
-3104	509621	1	2	901	1	Josef	Koubek	M	Ing.		50	specialista pro NIS a GIS	Podolí II	99	80	0
-3104	509621	1	2	901	2	Jiří	Slabý	M			64	důchodce	Předotice	99	80	0
-3104	509621	1	2	901	3	Radek	Němeček	M			44	řidič	Třebkov	99	80	0
-3104	509621	1	2	901	4	Petr	Tomášek	M			43	rybář	Křešice	99	80	0
-3104	509621	1	2	901	5	Růžena	Hachová	F			54	prodavačka	Malčice	99	80	0
-3104	509621	1	2	901	6	Pavel	Švaříček	M			49	živnostník	Kožlí u Čížové	99	80	0
-3104	509621	1	2	901	7	Eva	Lisová	F	Ing.		39	úřednice	Křešice	99	80	0
-3104	509621	1	2	901	8	Pavlína	Větrovská	F			45	dělnice	Podolí II	99	80	0
-3104	509621	1	2	901	9	Jan	Račan	M			41	živnostník	Křešice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	509621	1	1	902	1	František	Voldán			60	starosta	Třebkov	99	80	0	M
+3104	509621	1	2	901	1	Josef	Koubek	Ing.		50	specialista pro NIS a GIS	Podolí II	99	80	0	M
+3104	509621	1	1	902	2	Pavel	Vainar			51	učitel	Vadkovice	99	80	0	M
+3104	509621	1	2	901	2	Jiří	Slabý			64	důchodce	Předotice	99	80	0	M
+3104	509621	1	1	902	3	František	Klas			58	dělník	Kožlí u Čížové	99	80	0	M
+3104	509621	1	2	901	3	Radek	Němeček			44	řidič	Třebkov	99	80	0	M
+3104	509621	1	1	902	4	Věra	Maruniaková			57	zdravotní sestra	Šamonice	99	80	0	F
+3104	509621	1	2	901	4	Petr	Tomášek			43	rybář	Křešice	99	80	0	M
+3104	509621	1	1	902	5	Michal	Slabý			40	technik	Malčice	99	80	0	M
+3104	509621	1	2	901	5	Růžena	Hachová			54	prodavačka	Malčice	99	80	0	F
+3104	509621	1	1	902	6	Marie	Kolářová			63	důchodce	Křešice	99	80	0	F
+3104	509621	1	2	901	6	Pavel	Švaříček			49	živnostník	Kožlí u Čížové	99	80	0	M
+3104	509621	1	1	902	7	Jaroslav	Dvořák			51	dělník	Předotice	99	80	0	M
+3104	509621	1	2	901	7	Eva	Lisová	Ing.		39	úřednice	Křešice	99	80	0	F
+3104	509621	1	1	902	8	Josef	Švec			48	dělník	Soběšice	99	80	0	M
+3104	509621	1	2	901	8	Pavlína	Větrovská			45	dělnice	Podolí II	99	80	0	F
+3104	509621	1	1	902	9	Antonín	Ráček			48	řidič	Malčice	99	80	0	M
+3104	509621	1	2	901	9	Jan	Račan			41	živnostník	Křešice	99	80	0	M

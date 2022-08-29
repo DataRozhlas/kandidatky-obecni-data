@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	597481	1	1	53	1	Zdeněk	Švrček	M	Ing.		58	dřevařský inženýr	Karlovice	53	53	0
-8101	597481	1	1	53	2	Jan	Czasch	M	Ing.		30	lodní kapitán	Zadní Ves	99	53	0
-8101	597481	1	1	53	3	Milan	Glombíček	M			65	důchodce	Zadní Ves	53	53	0
-8101	597481	1	1	53	4	Ivo	Kuja	M			37	elektrotechnik	Karlovice	53	53	0
-8101	597481	1	1	53	5	Werner	Scheffler	M			54	průmyslový specialista	Zadní ves	99	53	0
-8101	597481	1	1	53	6	Eva	Vranešicová	F			51	živnostnice	Zadní Ves	99	53	0
-8101	597481	1	1	53	7	Miluše	Šindelářová	F			37	elektromechanička	Zadní Ves	99	53	0
-8101	597481	1	1	53	8	Alena	Švrčková	F			56	ekonomka	Karlovice	99	53	0
-8101	597481	1	1	53	9	Vladimíra	Kujová	F			35	skladová účetní	Karlovice	99	53	0
-8101	597481	1	2	901	1	Jana	Helekalová	F			46	STAROSTKA	Karlovice	99	80	0
-8101	597481	1	2	901	2	Kateřina	Kočí	F			41	MANAŽERKA NO	Karlovice	99	80	0
-8101	597481	1	2	901	3	Josef	Beránek ml.	M			46	PILAŘ CNC	Karlovice	99	80	0
-8101	597481	1	2	901	4	Iveta	Albrechtová Dučáková	F			38	AKADEMICKÁ MALÍŘKA	Karlovice	99	80	0
-8101	597481	1	2	901	5	Jaroslava	Schefflerová	F			43	UČITELKA	Karlovice	99	80	0
-8101	597481	1	2	901	6	Emílie	Czaschová	F			27	UČITELKA	Karlovice	99	80	0
-8101	597481	1	2	901	7	David	Valach	M			35	MANAŽER	Karlovice	99	80	0
-8101	597481	1	2	901	8	Naděžda	Paňáková	F			38	PODNIKATELKA	Karlovice	99	80	0
-8101	597481	1	2	901	9	Petr	Czasch ml.	M			29	KOVÁŘ	Zadní Ves	99	80	0
-8101	597481	1	3	47	1	Milan	Navrátil	M	JUDr.		61	důchodce	Karlovice	99	47	0
-8101	597481	1	3	47	2	Ludmila	Chvílíčková	F			66	důchodce	Karlovice	47	47	0
-8101	597481	1	3	47	3	Štefan	Piják	M			33	technik	Karlovice	99	47	0
-8101	597481	1	3	47	4	Rostislav	Tuška	M			59	nezaměstnaný	Karlovice	99	47	0
-8101	597481	1	3	47	5	Viktor	Kadlík	M			30	elektrikář	Karlovice	99	47	0
-8101	597481	1	3	47	6	Martin	Černota	M			37	řidič	Karlovice	99	47	0
-8101	597481	1	3	47	7	Václav	Návara	M			39	podnikatel	Karlovice	99	47	0
-8101	597481	1	3	47	8	Miroslava	Sakalová	F			60	důchodce	Karlovice	47	47	0
-8101	597481	1	3	47	9	Karel	Batík	M			52	podnikatel	Zadní Ves	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	597481	1	1	53	1	Zdeněk	Švrček	Ing.		58	dřevařský inženýr	Karlovice	53	53	0	M
+8101	597481	1	2	901	1	Jana	Helekalová			46	STAROSTKA	Karlovice	99	80	0	F
+8101	597481	1	3	47	1	Milan	Navrátil	JUDr.		61	důchodce	Karlovice	99	47	0	M
+8101	597481	1	1	53	2	Jan	Czasch	Ing.		30	lodní kapitán	Zadní Ves	99	53	0	M
+8101	597481	1	2	901	2	Kateřina	Kočí			41	MANAŽERKA NO	Karlovice	99	80	0	F
+8101	597481	1	3	47	2	Ludmila	Chvílíčková			66	důchodce	Karlovice	47	47	0	F
+8101	597481	1	1	53	3	Milan	Glombíček			65	důchodce	Zadní Ves	53	53	0	M
+8101	597481	1	2	901	3	Josef	Beránek ml.			46	PILAŘ CNC	Karlovice	99	80	0	M
+8101	597481	1	3	47	3	Štefan	Piják			33	technik	Karlovice	99	47	0	M
+8101	597481	1	1	53	4	Ivo	Kuja			37	elektrotechnik	Karlovice	53	53	0	M
+8101	597481	1	2	901	4	Iveta	Albrechtová Dučáková			38	AKADEMICKÁ MALÍŘKA	Karlovice	99	80	0	F
+8101	597481	1	3	47	4	Rostislav	Tuška			59	nezaměstnaný	Karlovice	99	47	0	M
+8101	597481	1	1	53	5	Werner	Scheffler			54	průmyslový specialista	Zadní ves	99	53	0	M
+8101	597481	1	2	901	5	Jaroslava	Schefflerová			43	UČITELKA	Karlovice	99	80	0	F
+8101	597481	1	3	47	5	Viktor	Kadlík			30	elektrikář	Karlovice	99	47	0	M
+8101	597481	1	1	53	6	Eva	Vranešicová			51	živnostnice	Zadní Ves	99	53	0	F
+8101	597481	1	2	901	6	Emílie	Czaschová			27	UČITELKA	Karlovice	99	80	0	F
+8101	597481	1	3	47	6	Martin	Černota			37	řidič	Karlovice	99	47	0	M
+8101	597481	1	1	53	7	Miluše	Šindelářová			37	elektromechanička	Zadní Ves	99	53	0	F
+8101	597481	1	2	901	7	David	Valach			35	MANAŽER	Karlovice	99	80	0	M
+8101	597481	1	3	47	7	Václav	Návara			39	podnikatel	Karlovice	99	47	0	M
+8101	597481	1	1	53	8	Alena	Švrčková			56	ekonomka	Karlovice	99	53	0	F
+8101	597481	1	2	901	8	Naděžda	Paňáková			38	PODNIKATELKA	Karlovice	99	80	0	F
+8101	597481	1	3	47	8	Miroslava	Sakalová			60	důchodce	Karlovice	47	47	0	F
+8101	597481	1	1	53	9	Vladimíra	Kujová			35	skladová účetní	Karlovice	99	53	0	F
+8101	597481	1	2	901	9	Petr	Czasch ml.			29	KOVÁŘ	Zadní Ves	99	80	0	M
+8101	597481	1	3	47	9	Karel	Batík			52	podnikatel	Zadní Ves	99	47	0	M

@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	532142	1	1	53	1	Petr	BENDL	M	Ing.		48	poslanec PSP ČR	Dolní Bezděkov	53	53	0
-2103	532142	1	1	53	2	Luboš	KOŘÍNEK	M			46	číšník	Dolní Bezděkov	99	53	0
-2103	532142	1	1	53	3	Zdeněk	PAVLÍČEK	M			53	skladník	Dolní Bezděkov	99	53	0
-2103	532142	1	1	53	4	Jaroslav	KOHOUT	M			24	zemědělec	Bratronice	99	53	0
-2103	532142	1	1	53	5	Michal	ŠVEJCAR	M			36	ředitel	Dolní Bezděkov	99	53	0
-2103	532142	1	1	53	6	Ivana	ČERNÁ	F			52	invalidní důchodce	Dolní Bezděkov	99	53	0
-2103	532142	1	1	53	7	Jaroslav	HORA	M	PhDr.		52	invalidní důchodce	Dolní Bezděkov	1	53	0
-2103	532142	1	1	53	8	Miroslav	NOVÁK	M			62	dělník	Dolní Bezděkov	99	53	0
-2103	532142	1	1	53	9	Tereza	DRÁBOVÁ	F	Bc.		24	student	Dolní Bezděkov	99	53	0
-2103	532142	1	2	387	1	Jaroslav	NEDVĚD	M			64	důchodce	Bratronice	99	80	0
-2103	532142	1	2	387	2	Ondřej	VOTAVA	M			26	revizní technik	Bratronice	99	80	0
-2103	532142	1	2	387	3	Martin	KŘEČAN	M			24	státní zaměstnanec	Bratronice	99	80	0
-2103	532142	1	2	387	4	Petr	LUDVÍK	M			39	zámečník	Bratronice	99	80	0
-2103	532142	1	2	387	5	Zdeněk	JIRÁSEK	M			36	topenář	Bratronice	99	80	0
-2103	532142	1	2	387	6	Zdeněk	SEDLÁČEK	M			70	podnikatel	Bratronice	99	80	0
-2103	532142	1	2	387	7	Ivana	TENKLOVÁ	F			57	školnice	Bratronice	99	80	0
-2103	532142	1	2	387	8	Helena	VALIŠOVÁ	F	Mgr.		72	důchodce	Bratronice	47	47	0
-2103	532142	1	2	387	9	Radoslav	MŰLLER	M	PhDr.		83	důchodce	Bratronice	47	47	0
-2103	532142	1	3	901	1	Miloslava	KNÍŽETOVÁ	F			49	starostka	Bratronice	53	80	0
-2103	532142	1	3	901	2	Eliška	SÝKOROVÁ	F			52	staniční sestra	Bratronice	99	80	0
-2103	532142	1	3	901	3	Josef	PUCHOLT	M	Ing.		34	mateřská dovolená, specialista IT	Bratronice	99	80	0
-2103	532142	1	3	901	4	Jitka	TENKLOVÁ	F	Ing. Bc.		37	ředitelka ZŠ a MŠ	Bratronice	99	80	0
-2103	532142	1	3	901	5	Václav	ŠVEJCAR	M			54	strojník	Bratronice	99	80	0
-2103	532142	1	3	901	6	Libuše	HOLÁ	F			43	úřednice v logistice	Bratronice	99	80	0
-2103	532142	1	3	901	7	Vendula	HOLMANOVÁ	F			26	učitelka	Bratronice	99	80	0
-2103	532142	1	3	901	8	Miroslav	KRÁL	M			35	nákupčí	Bratronice	99	80	0
-2103	532142	1	3	901	9	Šárka	SPOUSTOVÁ	F			39	prodavačka	Bratronice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	532142	1	1	53	1	Petr	BENDL	Ing.		48	poslanec PSP ČR	Dolní Bezděkov	53	53	0	M
+2103	532142	1	2	387	1	Jaroslav	NEDVĚD			64	důchodce	Bratronice	99	80	0	M
+2103	532142	1	3	901	1	Miloslava	KNÍŽETOVÁ			49	starostka	Bratronice	53	80	0	F
+2103	532142	1	1	53	2	Luboš	KOŘÍNEK			46	číšník	Dolní Bezděkov	99	53	0	M
+2103	532142	1	2	387	2	Ondřej	VOTAVA			26	revizní technik	Bratronice	99	80	0	M
+2103	532142	1	3	901	2	Eliška	SÝKOROVÁ			52	staniční sestra	Bratronice	99	80	0	F
+2103	532142	1	1	53	3	Zdeněk	PAVLÍČEK			53	skladník	Dolní Bezděkov	99	53	0	M
+2103	532142	1	2	387	3	Martin	KŘEČAN			24	státní zaměstnanec	Bratronice	99	80	0	M
+2103	532142	1	3	901	3	Josef	PUCHOLT	Ing.		34	mateřská dovolená, specialista IT	Bratronice	99	80	0	M
+2103	532142	1	1	53	4	Jaroslav	KOHOUT			24	zemědělec	Bratronice	99	53	0	M
+2103	532142	1	2	387	4	Petr	LUDVÍK			39	zámečník	Bratronice	99	80	0	M
+2103	532142	1	3	901	4	Jitka	TENKLOVÁ	Ing. Bc.		37	ředitelka ZŠ a MŠ	Bratronice	99	80	0	F
+2103	532142	1	1	53	5	Michal	ŠVEJCAR			36	ředitel	Dolní Bezděkov	99	53	0	M
+2103	532142	1	2	387	5	Zdeněk	JIRÁSEK			36	topenář	Bratronice	99	80	0	M
+2103	532142	1	3	901	5	Václav	ŠVEJCAR			54	strojník	Bratronice	99	80	0	M
+2103	532142	1	1	53	6	Ivana	ČERNÁ			52	invalidní důchodce	Dolní Bezděkov	99	53	0	F
+2103	532142	1	2	387	6	Zdeněk	SEDLÁČEK			70	podnikatel	Bratronice	99	80	0	M
+2103	532142	1	3	901	6	Libuše	HOLÁ			43	úřednice v logistice	Bratronice	99	80	0	F
+2103	532142	1	1	53	7	Jaroslav	HORA	PhDr.		52	invalidní důchodce	Dolní Bezděkov	1	53	0	M
+2103	532142	1	2	387	7	Ivana	TENKLOVÁ			57	školnice	Bratronice	99	80	0	F
+2103	532142	1	3	901	7	Vendula	HOLMANOVÁ			26	učitelka	Bratronice	99	80	0	F
+2103	532142	1	1	53	8	Miroslav	NOVÁK			62	dělník	Dolní Bezděkov	99	53	0	M
+2103	532142	1	2	387	8	Helena	VALIŠOVÁ	Mgr.		72	důchodce	Bratronice	47	47	0	F
+2103	532142	1	3	901	8	Miroslav	KRÁL			35	nákupčí	Bratronice	99	80	0	M
+2103	532142	1	1	53	9	Tereza	DRÁBOVÁ	Bc.		24	student	Dolní Bezděkov	99	53	0	F
+2103	532142	1	2	387	9	Radoslav	MŰLLER	PhDr.		83	důchodce	Bratronice	47	47	0	M
+2103	532142	1	3	901	9	Šárka	SPOUSTOVÁ			39	prodavačka	Bratronice	99	80	0	F

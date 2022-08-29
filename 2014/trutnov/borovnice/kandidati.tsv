@@ -1,9 +1,9 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	579092	1	1	1	1	Josef	Bušak	M	Ing.		43	starosta	Borovnice	1	1	0
-5205	579092	1	1	1	2	Pavel	Votoček	M			49	dělník	Borovnice	1	1	0
-5205	579092	1	1	1	3	Květa	Štilcová	F			68	důchodce	Borovnice	1	1	0
-5205	579092	1	1	1	4	Ondřej	Lejdar	M			25	seřizovač	Borovnice	99	1	0
-5205	579092	1	1	1	5	Miroslav	Pilař	M			59	elektrikář	Borovnice	99	1	0
-5205	579092	1	1	1	6	Karel	Novák	M			67	důchodce	Borovnice	99	1	0
-5205	579092	1	1	1	7	Hana	Votočková	F			55	administrativa	Borovnice	99	1	0
-5205	579092	1	2	801	1	Martin	Kühnel	M			25	číšník	Borovnice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	579092	1	1	1	1	Josef	Bušak	Ing.		43	starosta	Borovnice	1	1	0	M
+5205	579092	1	2	801	1	Martin	Kühnel			25	číšník	Borovnice	99	80	0	M
+5205	579092	1	1	1	2	Pavel	Votoček			49	dělník	Borovnice	1	1	0	M
+5205	579092	1	1	1	3	Květa	Štilcová			68	důchodce	Borovnice	1	1	0	F
+5205	579092	1	1	1	4	Ondřej	Lejdar			25	seřizovač	Borovnice	99	1	0	M
+5205	579092	1	1	1	5	Miroslav	Pilař			59	elektrikář	Borovnice	99	1	0	M
+5205	579092	1	1	1	6	Karel	Novák			67	důchodce	Borovnice	99	1	0	M
+5205	579092	1	1	1	7	Hana	Votočková			55	administrativa	Borovnice	99	1	0	F

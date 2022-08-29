@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	584096	1	1	1	1	Jan	Grolich	M	Mgr.		26	advokátní koncipient	Velatice	99	1	0
-6203	584096	1	1	1	2	Zdeněk	Severa	M			48	živnostník	Velatice	1	1	0
-6203	584096	1	1	1	3	Markéta	Višinková	F	Mgr.		30	právnička	Velatice	99	1	0
-6203	584096	1	1	1	4	Ladislav	Sedlák	M	Bc.	DiS.	25	státní finanční dozor	Velatice	99	1	0
-6203	584096	1	1	1	5	Pavel	Drozd	M	Mgr.		27	softwarový architekt	Velatice	99	1	0
-6203	584096	1	1	1	6	Václav	Pejřil	M			24	obchodní manažer	Velatice	99	1	0
-6203	584096	1	1	1	7	Magdaléna	Lengálová	F			37	ekonomka	Velatice	99	1	0
-6203	584096	1	1	1	8	Hana	Pololáníková	F			42	zdravotní sestra	Velatice	99	1	0
-6203	584096	1	1	1	9	Antonín	Poláček	M			68	důchodce	Velatice	99	1	0
-6203	584096	1	1	1	10	Martin	Kadlec	M		DiS.	29	specialista v oblasti energie	Velatice	1	1	0
-6203	584096	1	1	1	11	Jan	Šenkyřík	M	MUDr.		28	lékař	Velatice	99	1	0
-6203	584096	1	1	1	12	Pavel	Daněk	M			23	student	Velatice	99	1	0
-6203	584096	1	1	1	13	Jan	Grolich	M	Ing.		53	technik	Velatice	99	1	0
-6203	584096	1	1	1	14	Josef	Petlach	M			64	důchodce	Velatice	1	1	0
-6203	584096	1	1	1	15	Jana	Knosová	F			44	prodavačka	Velatice	1	1	0
-6203	584096	1	2	901	1	Markéta	Pejřilová	F			32	rodičovská dovolená	Velatice	99	80	0
-6203	584096	1	2	901	2	Jan	Strejček	M	Ing.	MBA	43	podnikatel	Velatice	99	80	0
-6203	584096	1	2	901	3	Vlastimír	Katolický	M			56	servisní technik has.přístrojů	Velatice	99	80	0
-6203	584096	1	2	901	4	Radoslav	Ulrich	M	Ing.		47	stavební inženýr	Velatice	99	80	0
-6203	584096	1	2	901	5	Petr	Pelikán	M	Mgr.		36	právník	Velatice	721	80	0
-6203	584096	1	2	901	6	Petr	Maincl	M			38	bankovní úředník	Velatice	99	80	0
-6203	584096	1	2	901	7	Pavel	Pejřil	M			32	strojmistr	Velatice	99	80	0
-6203	584096	1	2	901	8	Matěj	Černý	M	Mgr. et. Mgr.		33	psycholog	Velatice	99	80	0
-6203	584096	1	2	901	9	Petr	Košina	M			39	technik laborant	Velatice	99	80	0
-6203	584096	1	2	901	10	Lukáš	Putna	M			33	montér	Velatice	99	80	0
-6203	584096	1	2	901	11	Radek	Katolický	M			27	technik	Velatice	99	80	0
-6203	584096	1	2	901	12	Jiří	Kotulán	M			41	konstruktér	Velatice	99	80	0
-6203	584096	1	2	901	13	Martin	Sedlák	M			25	programátor	Velatice	99	80	0
-6203	584096	1	2	901	14	Marek	Neveselý	M	Ing.		38	technik	Velatice	99	80	0
-6203	584096	1	2	901	15	Květoslav	Urbánek	M			50	strojní zámečník	Velatice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	584096	1	1	1	1	Jan	Grolich	Mgr.		26	advokátní koncipient	Velatice	99	1	0	M
+6203	584096	1	2	901	1	Markéta	Pejřilová			32	rodičovská dovolená	Velatice	99	80	0	F
+6203	584096	1	1	1	2	Zdeněk	Severa			48	živnostník	Velatice	1	1	0	M
+6203	584096	1	2	901	2	Jan	Strejček	Ing.	MBA	43	podnikatel	Velatice	99	80	0	M
+6203	584096	1	1	1	3	Markéta	Višinková	Mgr.		30	právnička	Velatice	99	1	0	F
+6203	584096	1	2	901	3	Vlastimír	Katolický			56	servisní technik has.přístrojů	Velatice	99	80	0	M
+6203	584096	1	1	1	4	Ladislav	Sedlák	Bc.	DiS.	25	státní finanční dozor	Velatice	99	1	0	M
+6203	584096	1	2	901	4	Radoslav	Ulrich	Ing.		47	stavební inženýr	Velatice	99	80	0	M
+6203	584096	1	1	1	5	Pavel	Drozd	Mgr.		27	softwarový architekt	Velatice	99	1	0	M
+6203	584096	1	2	901	5	Petr	Pelikán	Mgr.		36	právník	Velatice	721	80	0	M
+6203	584096	1	1	1	6	Václav	Pejřil			24	obchodní manažer	Velatice	99	1	0	M
+6203	584096	1	2	901	6	Petr	Maincl			38	bankovní úředník	Velatice	99	80	0	M
+6203	584096	1	1	1	7	Magdaléna	Lengálová			37	ekonomka	Velatice	99	1	0	F
+6203	584096	1	2	901	7	Pavel	Pejřil			32	strojmistr	Velatice	99	80	0	M
+6203	584096	1	1	1	8	Hana	Pololáníková			42	zdravotní sestra	Velatice	99	1	0	F
+6203	584096	1	2	901	8	Matěj	Černý	Mgr. et. Mgr.		33	psycholog	Velatice	99	80	0	M
+6203	584096	1	1	1	9	Antonín	Poláček			68	důchodce	Velatice	99	1	0	M
+6203	584096	1	2	901	9	Petr	Košina			39	technik laborant	Velatice	99	80	0	M
+6203	584096	1	1	1	10	Martin	Kadlec		DiS.	29	specialista v oblasti energie	Velatice	1	1	0	M
+6203	584096	1	2	901	10	Lukáš	Putna			33	montér	Velatice	99	80	0	M
+6203	584096	1	1	1	11	Jan	Šenkyřík	MUDr.		28	lékař	Velatice	99	1	0	M
+6203	584096	1	2	901	11	Radek	Katolický			27	technik	Velatice	99	80	0	M
+6203	584096	1	1	1	12	Pavel	Daněk			23	student	Velatice	99	1	0	M
+6203	584096	1	2	901	12	Jiří	Kotulán			41	konstruktér	Velatice	99	80	0	M
+6203	584096	1	1	1	13	Jan	Grolich	Ing.		53	technik	Velatice	99	1	0	M
+6203	584096	1	2	901	13	Martin	Sedlák			25	programátor	Velatice	99	80	0	M
+6203	584096	1	1	1	14	Josef	Petlach			64	důchodce	Velatice	1	1	0	M
+6203	584096	1	2	901	14	Marek	Neveselý	Ing.		38	technik	Velatice	99	80	0	M
+6203	584096	1	1	1	15	Jana	Knosová			44	prodavačka	Velatice	1	1	0	F
+6203	584096	1	2	901	15	Květoslav	Urbánek			50	strojní zámečník	Velatice	99	80	0	M

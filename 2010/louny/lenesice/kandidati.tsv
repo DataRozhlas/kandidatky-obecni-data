@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4204	566322	1	1	53	1	Karel	Nováček	M	Ing.		64	starosta	Lenešice	53	53	0
-4204	566322	1	1	53	2	Pavel	Kratochvíl	M			69	učitel v důchodu	Lenešice	99	53	0
-4204	566322	1	1	53	3	Karel	Dittrich	M			42	soukromý zemědělec	Lenešice	99	53	0
-4204	566322	1	1	53	4	Karolína	Nováčková	F	Bc.	DiS.	30	sociální pracovnice	Lenešice	53	53	0
-4204	566322	1	1	53	5	Miroslav	Holienka	M			36	podnikatel	Lenešice	53	53	0
-4204	566322	1	1	53	6	Václav	Vincík	M			30	živnostník	Lenešice	99	53	0
-4204	566322	1	1	53	7	Petr	Fiřt	M			37	manažer obchodu	Lenešice	99	53	0
-4204	566322	1	1	53	8	Pavel	Vicherek	M	MUDr.		42	lékař, revmatolog	Lenešice	53	53	0
-4204	566322	1	1	53	9	Petra	Ječná	F	RNDr.		69	důchodce	Lenešice	99	53	0
-4204	566322	1	1	53	10	Jiří	Ekrt	M			38	podnikatel	Lenešice	99	53	0
-4204	566322	1	1	53	11	Josef	Procházka	M			63	důchodce	Lenešice	99	53	0
-4204	566322	1	2	901	1	Zdeněk	Beitl	M			57	technik	Lenešice	99	80	0
-4204	566322	1	2	901	2	Jan	András	M	Ing.		56	technik	Lenešice	99	80	0
-4204	566322	1	2	901	3	František	Mašek	M			61	podnikatel	Lenešice	99	80	0
-4204	566322	1	2	901	4	Tomáš	Čáka	M			36	logistik Letiště Praha	Lenešice	99	80	0
-4204	566322	1	2	901	5	Leoš	Procházka	M			40	technik	Lenešice	99	80	0
-4204	566322	1	2	901	6	Jana	Ledvinová	F	Mgr.		49	ředitelka ZŠ	Lenešice	99	80	0
-4204	566322	1	2	901	7	Zdeněk	Plaček	M			36	technik	Lenešice	99	80	0
-4204	566322	1	2	901	8	Jiří	Tomek	M			45	technik	Lenešice	99	80	0
-4204	566322	1	2	901	9	Svatopluk	Čech	M			59	montér el.vedení	Lenešice	99	80	0
-4204	566322	1	2	901	10	Jiří	Bachmann	M			51	podnikatel	Lenešice	99	80	0
-4204	566322	1	2	901	11	Miloslav	Zítka	M			54	technik	Lenešice	99	80	0
-4204	566322	1	3	47	1	Alena	Mádlová	F			52	tajemnice OV KSČM	Lenešice	47	47	0
-4204	566322	1	3	47	2	Hana	Černohlávková	F	Mgr.		52	speciální pedagog	Lenešice	99	47	0
-4204	566322	1	3	47	3	Stanislava	Brhelová	F	Mgr.		53	speciální pedagog	Lenešice	47	47	0
-4204	566322	1	3	47	4	Jiří	Černohlávek	M			49	provozní mechanik	Lenešice	99	47	0
-4204	566322	1	3	47	5	Vladimír	Velechovský	M			68	účetní-ekonom v důchodu	Lenešice	47	47	0
-4204	566322	1	3	47	6	Jana	Sieglová	F			67	účetní v důchodu	Lenešice	47	47	0
-4204	566322	1	3	47	7	Koloman	Rác	M			59	invalidní důchodce	Lenešice	47	47	0
-4204	566322	1	3	47	8	Květa	Müllerová	F			67	důchodkyně	Lenešice	47	47	0
-4204	566322	1	3	47	9	František	Štěpánek	M			75	důchodce	Lenešice	47	47	0
-4204	566322	1	3	47	10	Zdeněk	Kastner	M			73	důchodce	Lenešice	47	47	1
-4204	566322	1	3	47	11	Hana	Štěpánková	F			70	důchodkyně	Lenešice	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4204	566322	1	1	53	1	Karel	Nováček	Ing.		64	starosta	Lenešice	53	53	0	M
+4204	566322	1	2	901	1	Zdeněk	Beitl			57	technik	Lenešice	99	80	0	M
+4204	566322	1	3	47	1	Alena	Mádlová			52	tajemnice OV KSČM	Lenešice	47	47	0	F
+4204	566322	1	1	53	2	Pavel	Kratochvíl			69	učitel v důchodu	Lenešice	99	53	0	M
+4204	566322	1	2	901	2	Jan	András	Ing.		56	technik	Lenešice	99	80	0	M
+4204	566322	1	3	47	2	Hana	Černohlávková	Mgr.		52	speciální pedagog	Lenešice	99	47	0	F
+4204	566322	1	1	53	3	Karel	Dittrich			42	soukromý zemědělec	Lenešice	99	53	0	M
+4204	566322	1	2	901	3	František	Mašek			61	podnikatel	Lenešice	99	80	0	M
+4204	566322	1	3	47	3	Stanislava	Brhelová	Mgr.		53	speciální pedagog	Lenešice	47	47	0	F
+4204	566322	1	1	53	4	Karolína	Nováčková	Bc.	DiS.	30	sociální pracovnice	Lenešice	53	53	0	F
+4204	566322	1	2	901	4	Tomáš	Čáka			36	logistik Letiště Praha	Lenešice	99	80	0	M
+4204	566322	1	3	47	4	Jiří	Černohlávek			49	provozní mechanik	Lenešice	99	47	0	M
+4204	566322	1	1	53	5	Miroslav	Holienka			36	podnikatel	Lenešice	53	53	0	M
+4204	566322	1	2	901	5	Leoš	Procházka			40	technik	Lenešice	99	80	0	M
+4204	566322	1	3	47	5	Vladimír	Velechovský			68	účetní-ekonom v důchodu	Lenešice	47	47	0	M
+4204	566322	1	1	53	6	Václav	Vincík			30	živnostník	Lenešice	99	53	0	M
+4204	566322	1	2	901	6	Jana	Ledvinová	Mgr.		49	ředitelka ZŠ	Lenešice	99	80	0	F
+4204	566322	1	3	47	6	Jana	Sieglová			67	účetní v důchodu	Lenešice	47	47	0	F
+4204	566322	1	1	53	7	Petr	Fiřt			37	manažer obchodu	Lenešice	99	53	0	M
+4204	566322	1	2	901	7	Zdeněk	Plaček			36	technik	Lenešice	99	80	0	M
+4204	566322	1	3	47	7	Koloman	Rác			59	invalidní důchodce	Lenešice	47	47	0	M
+4204	566322	1	1	53	8	Pavel	Vicherek	MUDr.		42	lékař, revmatolog	Lenešice	53	53	0	M
+4204	566322	1	2	901	8	Jiří	Tomek			45	technik	Lenešice	99	80	0	M
+4204	566322	1	3	47	8	Květa	Müllerová			67	důchodkyně	Lenešice	47	47	0	F
+4204	566322	1	1	53	9	Petra	Ječná	RNDr.		69	důchodce	Lenešice	99	53	0	F
+4204	566322	1	2	901	9	Svatopluk	Čech			59	montér el.vedení	Lenešice	99	80	0	M
+4204	566322	1	3	47	9	František	Štěpánek			75	důchodce	Lenešice	47	47	0	M
+4204	566322	1	1	53	10	Jiří	Ekrt			38	podnikatel	Lenešice	99	53	0	M
+4204	566322	1	2	901	10	Jiří	Bachmann			51	podnikatel	Lenešice	99	80	0	M
+4204	566322	1	3	47	10	Zdeněk	Kastner			73	důchodce	Lenešice	47	47	1	M
+4204	566322	1	1	53	11	Josef	Procházka			63	důchodce	Lenešice	99	53	0	M
+4204	566322	1	2	901	11	Miloslav	Zítka			54	technik	Lenešice	99	80	0	M
+4204	566322	1	3	47	11	Hana	Štěpánková			70	důchodkyně	Lenešice	47	47	0	F

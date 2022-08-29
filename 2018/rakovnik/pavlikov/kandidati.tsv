@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	544248	1	1	166	1	Miroslav	Macák	M			54	elektrikář	Pavlíkov	99	166	A
-2112	544248	1	1	166	2	Petr	Kýna	M	Ing.		38	MěÚ Rakovník	Pavlíkov	99	166	A
-2112	544248	1	1	166	3	Michaela	Šarlingrová	F	Ing.		27	referentka	Pavlíkov	99	166	A
-2112	544248	1	1	166	4	Michal	Kotek	M			35	konstruktér	Pavlíkov	99	166	A
-2112	544248	1	1	166	5	Miroslav	Seidl	M			40	OSVČ	Pavlíkov	99	166	A
-2112	544248	1	1	166	6	Petr	Čech	M			53	instalatér, topenář	Pavlíkov	99	166	A
-2112	544248	1	1	166	7	Petr	Hamouz	M			38	dispečer	Pavlíkov	99	166	A
-2112	544248	1	1	166	8	Petr	Pánek	M	Ing.		39	vedoucí kvality	Pavlíkov	99	166	A
-2112	544248	1	1	166	9	Luboš	Gebhart	M			51	OSVČ	Pavlíkov	99	166	A
-2112	544248	1	2	47	1	Petra	Ullrichová	F	Ing.		36	státní zaměstnanec	Skřivaň	99	47	A
-2112	544248	1	2	47	2	Jaroslava	Rollová	F			38	invalidní důchodce	Skřivaň	99	47	A
-2112	544248	1	2	47	3	Jindřich	Vejřík	M			42	řidič	Skřivaň	99	47	A
-2112	544248	1	2	47	4	Zdeněk	Hnízdil	M			39	truhlář	Skřivaň	99	47	A
-2112	544248	1	2	47	5	Jiří	Mach	M			40	OSVČ	Skřivaň	99	47	A
-2112	544248	1	2	47	6	Martin	Ledvinka	M			29	nástrojař	Skřivaň	99	47	A
-2112	544248	1	2	47	7	Olga	Šafránková	F			45	vlakvedoucí osobních vlaků	Skřivaň	99	47	A
-2112	544248	1	2	47	8	Robert	Valouch	M			41	zedník	Skřivaň	99	47	A
-2112	544248	1	2	47	9	Jan	Hůla	M			49	ředitel základní školy	Skřivaň	99	47	A
-2112	544248	1	3	901	1	Ladislav	Tvrz	M			65	důchodce	Chlum	99	80	A
-2112	544248	1	3	901	2	Tomáš	Strnisko	M			51	OSVČ	Ryšín	99	80	A
-2112	544248	1	3	901	3	Jaroslav	Jirásek	M			53	vedoucí obchodního oddělení	Chlum	99	80	A
-2112	544248	1	3	901	4	Petra	Jánská	F			46	konstruktér	Ryšín	99	80	A
-2112	544248	1	3	901	5	Hana	Hettová	F			52	pojišťovací poradce	Chlum	99	80	A
-2112	544248	1	3	901	6	Pavel	Polcar	M			40	vedoucí technologie	Chlum	99	80	A
-2112	544248	1	3	901	7	Ladislav	Tvrz ml.	M			41	vedoucí MTZ	Chlum	99	80	A
-2112	544248	1	3	901	8	Miloslav	Šamonil	M			71	důchodce	Chlum	99	80	A
-2112	544248	1	3	901	9	Jiří	Hlaváček	M			41	OSVČ	Ryšín	99	80	A
-2112	544248	1	4	7	1	Michal	Šarlingr	M			52	technik	Pavlíkov	99	7	A
-2112	544248	1	4	7	2	Aleš	Záblocký	M			47	technik	Pavlíkov	99	7	A
-2112	544248	1	4	7	3	Bronislav	Vávra	M			48	technik	Tytry	99	7	A
-2112	544248	1	4	7	4	Lukáš	Polcar	M			43	přijímací technik	Pavlíkov	99	7	A
-2112	544248	1	4	7	5	Pavel	Hekl	M			45	operátor linky	Pavlíkov	99	7	A
-2112	544248	1	4	7	6	Petra	Zaibertová	F	Ing.		41	vedoucí zákaznického servisu	Pavlíkov	99	7	A
-2112	544248	1	4	7	7	Petr	Vyskočil	M			35	řidič	Pavlíkov	99	7	A
-2112	544248	1	4	7	8	Tomáš	Jirásek	M	Bc.		39	státní zaměstnanec	Pavlíkov	99	7	A
-2112	544248	1	4	7	9	Miroslav	Pánek	M	Ing.		44	soukromý zemědělec	Pavlíkov	99	7	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	544248	1	1	166	1	Miroslav	Macák			54	elektrikář	Pavlíkov	99	166	A	M
+2112	544248	1	2	47	1	Petra	Ullrichová	Ing.		36	státní zaměstnanec	Skřivaň	99	47	A	F
+2112	544248	1	3	901	1	Ladislav	Tvrz			65	důchodce	Chlum	99	80	A	M
+2112	544248	1	4	7	1	Michal	Šarlingr			52	technik	Pavlíkov	99	7	A	M
+2112	544248	1	1	166	2	Petr	Kýna	Ing.		38	MěÚ Rakovník	Pavlíkov	99	166	A	M
+2112	544248	1	2	47	2	Jaroslava	Rollová			38	invalidní důchodce	Skřivaň	99	47	A	F
+2112	544248	1	3	901	2	Tomáš	Strnisko			51	OSVČ	Ryšín	99	80	A	M
+2112	544248	1	4	7	2	Aleš	Záblocký			47	technik	Pavlíkov	99	7	A	M
+2112	544248	1	1	166	3	Michaela	Šarlingrová	Ing.		27	referentka	Pavlíkov	99	166	A	F
+2112	544248	1	2	47	3	Jindřich	Vejřík			42	řidič	Skřivaň	99	47	A	M
+2112	544248	1	3	901	3	Jaroslav	Jirásek			53	vedoucí obchodního oddělení	Chlum	99	80	A	M
+2112	544248	1	4	7	3	Bronislav	Vávra			48	technik	Tytry	99	7	A	M
+2112	544248	1	1	166	4	Michal	Kotek			35	konstruktér	Pavlíkov	99	166	A	M
+2112	544248	1	2	47	4	Zdeněk	Hnízdil			39	truhlář	Skřivaň	99	47	A	M
+2112	544248	1	3	901	4	Petra	Jánská			46	konstruktér	Ryšín	99	80	A	F
+2112	544248	1	4	7	4	Lukáš	Polcar			43	přijímací technik	Pavlíkov	99	7	A	M
+2112	544248	1	1	166	5	Miroslav	Seidl			40	OSVČ	Pavlíkov	99	166	A	M
+2112	544248	1	2	47	5	Jiří	Mach			40	OSVČ	Skřivaň	99	47	A	M
+2112	544248	1	3	901	5	Hana	Hettová			52	pojišťovací poradce	Chlum	99	80	A	F
+2112	544248	1	4	7	5	Pavel	Hekl			45	operátor linky	Pavlíkov	99	7	A	M
+2112	544248	1	1	166	6	Petr	Čech			53	instalatér, topenář	Pavlíkov	99	166	A	M
+2112	544248	1	2	47	6	Martin	Ledvinka			29	nástrojař	Skřivaň	99	47	A	M
+2112	544248	1	3	901	6	Pavel	Polcar			40	vedoucí technologie	Chlum	99	80	A	M
+2112	544248	1	4	7	6	Petra	Zaibertová	Ing.		41	vedoucí zákaznického servisu	Pavlíkov	99	7	A	F
+2112	544248	1	1	166	7	Petr	Hamouz			38	dispečer	Pavlíkov	99	166	A	M
+2112	544248	1	2	47	7	Olga	Šafránková			45	vlakvedoucí osobních vlaků	Skřivaň	99	47	A	F
+2112	544248	1	3	901	7	Ladislav	Tvrz ml.			41	vedoucí MTZ	Chlum	99	80	A	M
+2112	544248	1	4	7	7	Petr	Vyskočil			35	řidič	Pavlíkov	99	7	A	M
+2112	544248	1	1	166	8	Petr	Pánek	Ing.		39	vedoucí kvality	Pavlíkov	99	166	A	M
+2112	544248	1	2	47	8	Robert	Valouch			41	zedník	Skřivaň	99	47	A	M
+2112	544248	1	3	901	8	Miloslav	Šamonil			71	důchodce	Chlum	99	80	A	M
+2112	544248	1	4	7	8	Tomáš	Jirásek	Bc.		39	státní zaměstnanec	Pavlíkov	99	7	A	M
+2112	544248	1	1	166	9	Luboš	Gebhart			51	OSVČ	Pavlíkov	99	166	A	M
+2112	544248	1	2	47	9	Jan	Hůla			49	ředitel základní školy	Skřivaň	99	47	A	M
+2112	544248	1	3	901	9	Jiří	Hlaváček			41	OSVČ	Ryšín	99	80	A	M
+2112	544248	1	4	7	9	Miroslav	Pánek	Ing.		44	soukromý zemědělec	Pavlíkov	99	7	A	M

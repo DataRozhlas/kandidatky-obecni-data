@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	571962	1	1	901	1	Vladimír	Příhoda	M			54	učitel odborné výchovy	Orel	47	80	0
-5301	571962	1	1	901	2	Věroslav	Machač	M			57	úředník	Orel	99	80	0
-5301	571962	1	1	901	3	Květoslava	Mrkvičková	F			61	důchodce	Orel	99	80	0
-5301	571962	1	1	901	4	Hana	Špačková	F			60	úřednice	Orel	99	80	0
-5301	571962	1	1	901	5	Jiří	Záruba	M	Ing.		44	geolog	Orel	99	80	0
-5301	571962	1	1	901	6	František	Horník	M			42	státní zaměstnanec	Orel	99	80	0
-5301	571962	1	1	901	7	Ilona	Brožová	F			37	administrativní pracovnice	Orel	99	80	0
-5301	571962	1	2	902	1	Jiří	Chrbolka	M			39	obchodní zástupce	Orel	99	80	0
-5301	571962	1	2	902	2	Jaroslav	Čechlovský	M			61	dělník	Orel	99	80	0
-5301	571962	1	2	902	3	Ondřej	Ludvík	M			33	informatik	Orel	99	80	0
-5301	571962	1	2	902	4	Jana	Javůrková	F			36	bankovní poradce	Orel	99	80	0
-5301	571962	1	2	902	5	Hana	Janoušková	F			40	administrativní pracovnice	Orel	99	80	0
-5301	571962	1	2	902	6	Petr	Novák	M			43	směnový mistr	Orel	99	80	0
-5301	571962	1	2	902	7	Martin	Havránek	M			43	řidič	Orel	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	571962	1	1	901	1	Vladimír	Příhoda			54	učitel odborné výchovy	Orel	47	80	0	M
+5301	571962	1	2	902	1	Jiří	Chrbolka			39	obchodní zástupce	Orel	99	80	0	M
+5301	571962	1	1	901	2	Věroslav	Machač			57	úředník	Orel	99	80	0	M
+5301	571962	1	2	902	2	Jaroslav	Čechlovský			61	dělník	Orel	99	80	0	M
+5301	571962	1	1	901	3	Květoslava	Mrkvičková			61	důchodce	Orel	99	80	0	F
+5301	571962	1	2	902	3	Ondřej	Ludvík			33	informatik	Orel	99	80	0	M
+5301	571962	1	1	901	4	Hana	Špačková			60	úřednice	Orel	99	80	0	F
+5301	571962	1	2	902	4	Jana	Javůrková			36	bankovní poradce	Orel	99	80	0	F
+5301	571962	1	1	901	5	Jiří	Záruba	Ing.		44	geolog	Orel	99	80	0	M
+5301	571962	1	2	902	5	Hana	Janoušková			40	administrativní pracovnice	Orel	99	80	0	F
+5301	571962	1	1	901	6	František	Horník			42	státní zaměstnanec	Orel	99	80	0	M
+5301	571962	1	2	902	6	Petr	Novák			43	směnový mistr	Orel	99	80	0	M
+5301	571962	1	1	901	7	Ilona	Brožová			37	administrativní pracovnice	Orel	99	80	0	F
+5301	571962	1	2	902	7	Martin	Havránek			43	řidič	Orel	99	80	0	M

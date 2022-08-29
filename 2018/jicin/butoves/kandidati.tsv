@@ -1,7 +1,7 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5202	549282	1	1	480	1	Bob	Šviha	M			42	správce sítě	Butoves	721	721	A
-5202	549282	1	1	480	2	Karel	Formánek	M			48	řidič - automechanik	Butoves	99	80	A
-5202	549282	1	1	480	3	Zbyněk	Jiránek	M	Ing.		57	ekonom	Butoves	99	80	A
-5202	549282	1	1	480	4	Dana	Vohánková	F		DiS.	41	účetní	Butoves	99	80	A
-5202	549282	1	1	480	5	Magdaléna	Neufussová	F	Mgr. Bc.		42	ředitelka ZŠ a MŠ	Butoves	99	80	A
-5202	549282	1	1	480	6	Jitka	Švihová	F			41	správce majetku, účetní	Butoves	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5202	549282	1	1	480	1	Bob	Šviha			42	správce sítě	Butoves	721	721	A	M
+5202	549282	1	1	480	2	Karel	Formánek			48	řidič - automechanik	Butoves	99	80	A	M
+5202	549282	1	1	480	3	Zbyněk	Jiránek	Ing.		57	ekonom	Butoves	99	80	A	M
+5202	549282	1	1	480	4	Dana	Vohánková		DiS.	41	účetní	Butoves	99	80	A	F
+5202	549282	1	1	480	5	Magdaléna	Neufussová	Mgr. Bc.		42	ředitelka ZŠ a MŠ	Butoves	99	80	A	F
+5202	549282	1	1	480	6	Jitka	Švihová			41	správce majetku, účetní	Butoves	99	80	A	F

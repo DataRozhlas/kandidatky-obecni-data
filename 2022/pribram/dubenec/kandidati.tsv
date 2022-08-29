@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	598381	1	1	901	1	Petra	Neubergová	F	Mgr.		44	učitelka	Dubenec	99	80	A
-2111	598381	1	1	901	2	Ladislav	Štipl	M			39	podnikatel	Dubenec	99	80	A
-2111	598381	1	1	901	3	Jakub	Sirotek	M	Ing.		39	manažer	Dubenec	99	80	A
-2111	598381	1	1	901	4	Jitka	Bardoňová	F			55	učitelka	Dubenec	99	80	A
-2111	598381	1	1	901	5	Monika	Burianová	F			55	bankovní úřednice	Dubenec	99	80	A
-2111	598381	1	1	901	6	Pavel	Šindelář	M			42	podnikatel	Dubenec	99	80	A
-2111	598381	1	1	901	7	Zuzana	Černá	F			41	manažerka	Dubenec	99	80	A
-2111	598381	1	1	901	8	Vlastimil	Pikart	M			35	OSVČ	Dubenec	99	80	A
-2111	598381	1	1	901	9	Tereza	Pokorná	F	Ing.		46	manažerka	Dubenec	99	80	A
-2111	598381	1	2	902	1	Jaroslav	Kuba	M			54	programátor PLC	Dubenec	99	80	A
-2111	598381	1	2	902	2	Jan	Vondrášek	M	Bc.		39	státní zaměstnanec	Dubenec	99	80	A
-2111	598381	1	2	902	3	Vladislav	Šimonovský	M			51	elektromechanik	Dubenec	99	80	A
-2111	598381	1	2	902	4	Ivo	Kašpar	M			40	obchodní zástupce	Dubenec	99	80	A
-2111	598381	1	2	902	5	Radek	Svoboda	M			43	elektromontér	Dubenec	99	80	A
-2111	598381	1	2	902	6	Luděk	Sláma	M			49	OSVČ	Dubenec	99	80	A
-2111	598381	1	2	902	7	Petr	Kuba	M			41	elektrotechnik	Dubenec	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	598381	1	1	901	1	Petra	Neubergová	Mgr.		44	učitelka	Dubenec	99	80	A	F
+2111	598381	1	2	902	1	Jaroslav	Kuba			54	programátor PLC	Dubenec	99	80	A	M
+2111	598381	1	1	901	2	Ladislav	Štipl			39	podnikatel	Dubenec	99	80	A	M
+2111	598381	1	2	902	2	Jan	Vondrášek	Bc.		39	státní zaměstnanec	Dubenec	99	80	A	M
+2111	598381	1	1	901	3	Jakub	Sirotek	Ing.		39	manažer	Dubenec	99	80	A	M
+2111	598381	1	2	902	3	Vladislav	Šimonovský			51	elektromechanik	Dubenec	99	80	A	M
+2111	598381	1	1	901	4	Jitka	Bardoňová			55	učitelka	Dubenec	99	80	A	F
+2111	598381	1	2	902	4	Ivo	Kašpar			40	obchodní zástupce	Dubenec	99	80	A	M
+2111	598381	1	1	901	5	Monika	Burianová			55	bankovní úřednice	Dubenec	99	80	A	F
+2111	598381	1	2	902	5	Radek	Svoboda			43	elektromontér	Dubenec	99	80	A	M
+2111	598381	1	1	901	6	Pavel	Šindelář			42	podnikatel	Dubenec	99	80	A	M
+2111	598381	1	2	902	6	Luděk	Sláma			49	OSVČ	Dubenec	99	80	A	M
+2111	598381	1	1	901	7	Zuzana	Černá			41	manažerka	Dubenec	99	80	A	F
+2111	598381	1	2	902	7	Petr	Kuba			41	elektrotechnik	Dubenec	99	80	A	M
+2111	598381	1	1	901	8	Vlastimil	Pikart			35	OSVČ	Dubenec	99	80	A	M
+2111	598381	1	1	901	9	Tereza	Pokorná	Ing.		46	manažerka	Dubenec	99	80	A	F

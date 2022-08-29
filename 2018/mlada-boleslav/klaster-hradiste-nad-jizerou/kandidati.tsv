@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2107	536024	1	1	7	1	Jiří	Navrátil	M			61	starosta	Klášter Hradiště nad Jizerou	7	7	A
-2107	536024	1	1	7	2	Michala	Mydlářová	F			37	OSVČ	Klášter Hradiště nad Jizerou	99	7	A
-2107	536024	1	1	7	3	Tomáš	Voleský	M			37	technik	Klášter Hradiště nad Jizerou	7	7	A
-2107	536024	1	1	7	4	Vladimír	Adamec	M			39	technik	Klášter Hradiště nad Jizerou	7	7	A
-2107	536024	1	1	7	5	Miroslav	Kovář	M			44	logistik	Klášter Hradiště nad Jizerou	99	7	A
-2107	536024	1	1	7	6	Ludmila	Ferklová	F			40	účetní	Klášter Hradiště nad Jizerou	99	7	A
-2107	536024	1	1	7	7	Lenka	Eichlerová	F			43	účetní	Klášter Hradiště nad Jizerou	7	7	A
-2107	536024	1	1	7	8	Slavomír	Novák	M	Mgr.		61	OSVČ	Klášter Hradiště nad Jizerou	7	7	A
-2107	536024	1	1	7	9	Miroslava	Mikešová	F			64	důchodkyně	Klášter Hradiště nad Jizerou	7	7	A
-2107	536024	1	2	901	1	Jiří	Štěrba	M			43	vedoucí pracovník	Klášter Hradiště nad Jizerou	99	80	A
-2107	536024	1	2	901	2	Martin	Rašín	M			45	OSVČ	Klášter Hradiště nad Jizerou	99	80	A
-2107	536024	1	2	901	3	Josef	Šverma	M			48	vedoucí technik	Klášter Hradiště nad Jizerou	99	80	A
-2107	536024	1	2	901	4	Martin	Brdlík	M			47	karosář	Klášter Hradiště nad Jizerou	99	80	A
-2107	536024	1	2	901	5	Jaroslava	Hradiská	F			48	květinářka	Klášter Hradiště nad Jizerou	99	80	A
-2107	536024	1	2	901	6	Vladimír	Taclík	M			61	asistent prevence	Klášter Hradiště nad Jizerou	99	80	A
-2107	536024	1	2	901	7	Radek	Bezkočka	M	Ing.		43	manager dopravy	Klášter Hradiště nad Jizerou	99	80	A
-2107	536024	1	2	901	8	Michael	Laufke	M		DiS.	26	zdravotnický záchranář	Klášter Hradiště nad Jizerou	99	80	A
-2107	536024	1	2	901	9	Josef	Jermář	M	RSDr.		66	OSVČ	Klášter Hradiště nad Jizerou	47	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2107	536024	1	1	7	1	Jiří	Navrátil			61	starosta	Klášter Hradiště nad Jizerou	7	7	A	M
+2107	536024	1	2	901	1	Jiří	Štěrba			43	vedoucí pracovník	Klášter Hradiště nad Jizerou	99	80	A	M
+2107	536024	1	1	7	2	Michala	Mydlářová			37	OSVČ	Klášter Hradiště nad Jizerou	99	7	A	F
+2107	536024	1	2	901	2	Martin	Rašín			45	OSVČ	Klášter Hradiště nad Jizerou	99	80	A	M
+2107	536024	1	1	7	3	Tomáš	Voleský			37	technik	Klášter Hradiště nad Jizerou	7	7	A	M
+2107	536024	1	2	901	3	Josef	Šverma			48	vedoucí technik	Klášter Hradiště nad Jizerou	99	80	A	M
+2107	536024	1	1	7	4	Vladimír	Adamec			39	technik	Klášter Hradiště nad Jizerou	7	7	A	M
+2107	536024	1	2	901	4	Martin	Brdlík			47	karosář	Klášter Hradiště nad Jizerou	99	80	A	M
+2107	536024	1	1	7	5	Miroslav	Kovář			44	logistik	Klášter Hradiště nad Jizerou	99	7	A	M
+2107	536024	1	2	901	5	Jaroslava	Hradiská			48	květinářka	Klášter Hradiště nad Jizerou	99	80	A	F
+2107	536024	1	1	7	6	Ludmila	Ferklová			40	účetní	Klášter Hradiště nad Jizerou	99	7	A	F
+2107	536024	1	2	901	6	Vladimír	Taclík			61	asistent prevence	Klášter Hradiště nad Jizerou	99	80	A	M
+2107	536024	1	1	7	7	Lenka	Eichlerová			43	účetní	Klášter Hradiště nad Jizerou	7	7	A	F
+2107	536024	1	2	901	7	Radek	Bezkočka	Ing.		43	manager dopravy	Klášter Hradiště nad Jizerou	99	80	A	M
+2107	536024	1	1	7	8	Slavomír	Novák	Mgr.		61	OSVČ	Klášter Hradiště nad Jizerou	7	7	A	M
+2107	536024	1	2	901	8	Michael	Laufke		DiS.	26	zdravotnický záchranář	Klášter Hradiště nad Jizerou	99	80	A	M
+2107	536024	1	1	7	9	Miroslava	Mikešová			64	důchodkyně	Klášter Hradiště nad Jizerou	7	7	A	F
+2107	536024	1	2	901	9	Josef	Jermář	RSDr.		66	OSVČ	Klášter Hradiště nad Jizerou	47	80	A	M

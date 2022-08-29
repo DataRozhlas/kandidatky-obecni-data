@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	540323	1	1	904	1	Simona	Hyprová	F			46	zástupce vedoucí marketu	Prostřední Lhota	99	80	A
-2111	540323	1	1	904	2	Jiří	Filgas	M	Ing.		70	důchodce	Prostřední Lhota	99	80	A
-2111	540323	1	1	904	3	Hana	Rosypalová	F	Ing.		55	úřednice	Záborná Lhota	99	80	A
-2111	540323	1	1	904	4	Stanislav	Hrbek	M			50	podnikatel	Chotilsko	99	80	A
-2111	540323	1	1	904	5	Zlata	Hájková	F			57	úřednice	Mokrsko	99	80	A
-2111	540323	1	1	904	6	Zdeněk	Dědina	M			60	údržbář	Sejcká Lhota	99	80	A
-2111	540323	1	1	904	7	Ladislava	Drobílková Kalašová	F			38	pěstounka	Prostřední Lhota	99	80	A
-2111	540323	1	1	904	8	Libuše	Vlachynská	F			56	doručovatelka	Prostřední Lhota	99	80	A
-2111	540323	1	1	904	9	Jiří	Šťástka	M			60	podnikatel	Prostřední Lhota	99	80	A
-2111	540323	1	2	902	1	Vít	Šiška	M			49	podnikatel	Chotilsko	99	80	A
-2111	540323	1	2	902	2	Stanislava	Krejčíková	F			53	vedoucí sociálních služeb	Chotilsko	99	80	A
-2111	540323	1	2	902	3	Jana	Čeledová	F	Mgr.		36	knihovnice	Sejcká Lhota	99	80	A
-2111	540323	1	2	902	4	Radislav	Mašek	M			46	údržbář	Mokrsko	99	80	A
-2111	540323	1	2	902	5	Jaromír	Čeleda	M			66	důchodce	Sejcká Lhota	99	80	A
-2111	540323	1	2	902	6	Václav	Dragoun	M			42	dělník	Křeničná	99	80	A
-2111	540323	1	2	902	7	Martin	Větrovský	M			53	podnikatel	Chotilsko	99	80	A
-2111	540323	1	2	902	8	Štěpán	Tolar	M			46	podnikatel	Živohošť	99	80	A
-2111	540323	1	2	902	9	Dana	Davidová	F			42	podnikatelka	Chotilsko	99	80	A
-2111	540323	1	3	901	1	Jiří	Bendl	M	Ing.		58	jednatel společnosti	Sejcká Lhota	99	80	A
-2111	540323	1	3	901	2	František	Malý	M			45	zemědělský technik	Prostřední Lhota	99	80	A
-2111	540323	1	3	901	3	Tomáš	Hrubý	M			37	obchodní manager	Lipí	99	80	A
-2111	540323	1	3	901	4	Jan	Ondřejka	M			50	úředník	Prostřední Lhota	99	80	A
-2111	540323	1	3	901	5	Martin	Rosypal	M			29	technik	Záborná Lhota	99	80	A
-2111	540323	1	3	901	6	Jan	Moulík	M			54	zemědělský technik	Chotilsko	99	80	A
-2111	540323	1	3	901	7	Jana	Moulíková	F			29	v domácnosti	Chotilsko	99	80	A
-2111	540323	1	3	901	8	Pavel	Tomášek	M			47	správce muzea	Sejcká Lhota	99	80	A
-2111	540323	1	3	901	9	Pavel	Vondrák	M			26	zemědělec, truhlář	Záborná Lhota	99	80	A
-2111	540323	1	4	903	1	Běla	Tobolová	F			47	účetní	Záborná Lhota	99	80	A
-2111	540323	1	4	903	2	Jaroslava	Snopková	F			48	agronomka	Lipí	99	80	A
-2111	540323	1	4	903	3	Lenka	Píšová	F			41	nákupčí	Chotilsko	99	80	A
-2111	540323	1	4	903	4	Pavel	Korecký	M	Ing.		52	podnikatel	Hněvšín	99	80	A
-2111	540323	1	4	903	5	Radek	Válko	M	Ing.		39	IT specialista	Lipí	99	80	A
-2111	540323	1	4	903	6	Jiří	Petřina	M			37	stavební technik	Křeničná	99	80	A
-2111	540323	1	4	903	7	Alena	Mašková	F			57	účetní	Prostřední Lhota	99	80	A
-2111	540323	1	4	903	8	Marie	Větrovská	F			50	účetní	Chotilsko	99	80	A
-2111	540323	1	4	903	9	Naděžda	Janatová	F			69	důchodce	Chotilsko	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	540323	1	1	904	1	Simona	Hyprová			46	zástupce vedoucí marketu	Prostřední Lhota	99	80	A	F
+2111	540323	1	2	902	1	Vít	Šiška			49	podnikatel	Chotilsko	99	80	A	M
+2111	540323	1	3	901	1	Jiří	Bendl	Ing.		58	jednatel společnosti	Sejcká Lhota	99	80	A	M
+2111	540323	1	4	903	1	Běla	Tobolová			47	účetní	Záborná Lhota	99	80	A	F
+2111	540323	1	1	904	2	Jiří	Filgas	Ing.		70	důchodce	Prostřední Lhota	99	80	A	M
+2111	540323	1	2	902	2	Stanislava	Krejčíková			53	vedoucí sociálních služeb	Chotilsko	99	80	A	F
+2111	540323	1	3	901	2	František	Malý			45	zemědělský technik	Prostřední Lhota	99	80	A	M
+2111	540323	1	4	903	2	Jaroslava	Snopková			48	agronomka	Lipí	99	80	A	F
+2111	540323	1	1	904	3	Hana	Rosypalová	Ing.		55	úřednice	Záborná Lhota	99	80	A	F
+2111	540323	1	2	902	3	Jana	Čeledová	Mgr.		36	knihovnice	Sejcká Lhota	99	80	A	F
+2111	540323	1	3	901	3	Tomáš	Hrubý			37	obchodní manager	Lipí	99	80	A	M
+2111	540323	1	4	903	3	Lenka	Píšová			41	nákupčí	Chotilsko	99	80	A	F
+2111	540323	1	1	904	4	Stanislav	Hrbek			50	podnikatel	Chotilsko	99	80	A	M
+2111	540323	1	2	902	4	Radislav	Mašek			46	údržbář	Mokrsko	99	80	A	M
+2111	540323	1	3	901	4	Jan	Ondřejka			50	úředník	Prostřední Lhota	99	80	A	M
+2111	540323	1	4	903	4	Pavel	Korecký	Ing.		52	podnikatel	Hněvšín	99	80	A	M
+2111	540323	1	1	904	5	Zlata	Hájková			57	úřednice	Mokrsko	99	80	A	F
+2111	540323	1	2	902	5	Jaromír	Čeleda			66	důchodce	Sejcká Lhota	99	80	A	M
+2111	540323	1	3	901	5	Martin	Rosypal			29	technik	Záborná Lhota	99	80	A	M
+2111	540323	1	4	903	5	Radek	Válko	Ing.		39	IT specialista	Lipí	99	80	A	M
+2111	540323	1	1	904	6	Zdeněk	Dědina			60	údržbář	Sejcká Lhota	99	80	A	M
+2111	540323	1	2	902	6	Václav	Dragoun			42	dělník	Křeničná	99	80	A	M
+2111	540323	1	3	901	6	Jan	Moulík			54	zemědělský technik	Chotilsko	99	80	A	M
+2111	540323	1	4	903	6	Jiří	Petřina			37	stavební technik	Křeničná	99	80	A	M
+2111	540323	1	1	904	7	Ladislava	Drobílková Kalašová			38	pěstounka	Prostřední Lhota	99	80	A	F
+2111	540323	1	2	902	7	Martin	Větrovský			53	podnikatel	Chotilsko	99	80	A	M
+2111	540323	1	3	901	7	Jana	Moulíková			29	v domácnosti	Chotilsko	99	80	A	F
+2111	540323	1	4	903	7	Alena	Mašková			57	účetní	Prostřední Lhota	99	80	A	F
+2111	540323	1	1	904	8	Libuše	Vlachynská			56	doručovatelka	Prostřední Lhota	99	80	A	F
+2111	540323	1	2	902	8	Štěpán	Tolar			46	podnikatel	Živohošť	99	80	A	M
+2111	540323	1	3	901	8	Pavel	Tomášek			47	správce muzea	Sejcká Lhota	99	80	A	M
+2111	540323	1	4	903	8	Marie	Větrovská			50	účetní	Chotilsko	99	80	A	F
+2111	540323	1	1	904	9	Jiří	Šťástka			60	podnikatel	Prostřední Lhota	99	80	A	M
+2111	540323	1	2	902	9	Dana	Davidová			42	podnikatelka	Chotilsko	99	80	A	F
+2111	540323	1	3	901	9	Pavel	Vondrák			26	zemědělec, truhlář	Záborná Lhota	99	80	A	M
+2111	540323	1	4	903	9	Naděžda	Janatová			69	důchodce	Chotilsko	99	80	A	F

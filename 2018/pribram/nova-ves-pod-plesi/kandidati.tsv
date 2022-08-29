@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	540889	1	1	53	1	Ivan	Kocourek	M	Mgr.		51	živnostník	Nová Ves pod Pleší	99	53	A
-2111	540889	1	1	53	2	Alena	Tůmová	F	Ing.		63	důchodkyně	Nová Ves pod Pleší	53	53	A
-2111	540889	1	1	53	3	Ladislav	Petrák	M			41	trenér mládeže	Nová Ves pod Pleší	53	53	A
-2111	540889	1	1	53	4	Jana	Korbová	F	Mgr.		33	v domácnosti	Nová Ves pod Pleší	99	53	A
-2111	540889	1	1	53	5	Martin	Nekvapil	M			43	živnostník	Nová Ves pod Pleší	53	53	A
-2111	540889	1	1	53	6	Tomáš	Moldřík	M	Mgr.		42	manažer komunikace	Nová Ves pod Pleší	53	53	A
-2111	540889	1	1	53	7	Radek	Červ	M	Ing.		51	živnostník	Nová Ves pod Pleší	53	53	A
-2111	540889	1	1	53	8	Pavel	Rada	M			47	radiologický asistent	Nová Ves pod Pleší	53	53	A
-2111	540889	1	1	53	9	Jiří	Císař	M			64	důchodce	Nová Ves pod Pleší	53	53	A
-2111	540889	1	2	901	1	Jan	Havelka	M	Ing.		51	starosta	Nová Ves pod Pleší	99	80	A
-2111	540889	1	2	901	2	Petr	Šedivý	M			68	mistr technolog	Nová Ves pod Pleší	99	80	A
-2111	540889	1	2	901	3	Josef	Slavík	M			51	hlavní stavbyvedoucí	Nová Ves pod Pleší	99	80	A
-2111	540889	1	2	901	4	Miloslav	Foukner	M			56	OSVČ	Nová Ves pod Pleší	99	80	A
-2111	540889	1	2	901	5	Markéta	Marhoulová	F			49	administrativní pracovnice	Nová Ves pod Pleší	99	80	A
-2111	540889	1	2	901	6	Gabriela	Mišíková	F			36	OSVČ	Nová Ves pod Pleší	99	80	A
-2111	540889	1	2	901	7	Michal	Jedlička	M			33	manažer strategického nákupu	Nová Ves pod Pleší	99	80	A
-2111	540889	1	2	901	8	Jiří	Hájek	M	Mgr.		47	učitel	Nová Ves pod Pleší	99	80	A
-2111	540889	1	2	901	9	Pavel	Řezáč	M	Ing.		75	technik	Nová Ves pod Pleší	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	540889	1	1	53	1	Ivan	Kocourek	Mgr.		51	živnostník	Nová Ves pod Pleší	99	53	A	M
+2111	540889	1	2	901	1	Jan	Havelka	Ing.		51	starosta	Nová Ves pod Pleší	99	80	A	M
+2111	540889	1	1	53	2	Alena	Tůmová	Ing.		63	důchodkyně	Nová Ves pod Pleší	53	53	A	F
+2111	540889	1	2	901	2	Petr	Šedivý			68	mistr technolog	Nová Ves pod Pleší	99	80	A	M
+2111	540889	1	1	53	3	Ladislav	Petrák			41	trenér mládeže	Nová Ves pod Pleší	53	53	A	M
+2111	540889	1	2	901	3	Josef	Slavík			51	hlavní stavbyvedoucí	Nová Ves pod Pleší	99	80	A	M
+2111	540889	1	1	53	4	Jana	Korbová	Mgr.		33	v domácnosti	Nová Ves pod Pleší	99	53	A	F
+2111	540889	1	2	901	4	Miloslav	Foukner			56	OSVČ	Nová Ves pod Pleší	99	80	A	M
+2111	540889	1	1	53	5	Martin	Nekvapil			43	živnostník	Nová Ves pod Pleší	53	53	A	M
+2111	540889	1	2	901	5	Markéta	Marhoulová			49	administrativní pracovnice	Nová Ves pod Pleší	99	80	A	F
+2111	540889	1	1	53	6	Tomáš	Moldřík	Mgr.		42	manažer komunikace	Nová Ves pod Pleší	53	53	A	M
+2111	540889	1	2	901	6	Gabriela	Mišíková			36	OSVČ	Nová Ves pod Pleší	99	80	A	F
+2111	540889	1	1	53	7	Radek	Červ	Ing.		51	živnostník	Nová Ves pod Pleší	53	53	A	M
+2111	540889	1	2	901	7	Michal	Jedlička			33	manažer strategického nákupu	Nová Ves pod Pleší	99	80	A	M
+2111	540889	1	1	53	8	Pavel	Rada			47	radiologický asistent	Nová Ves pod Pleší	53	53	A	M
+2111	540889	1	2	901	8	Jiří	Hájek	Mgr.		47	učitel	Nová Ves pod Pleší	99	80	A	M
+2111	540889	1	1	53	9	Jiří	Císař			64	důchodce	Nová Ves pod Pleší	53	53	A	M
+2111	540889	1	2	901	9	Pavel	Řezáč	Ing.		75	technik	Nová Ves pod Pleší	99	80	A	M

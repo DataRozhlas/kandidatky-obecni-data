@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	597414	1	1	902	1	Yvona	Jirušová	F	Ing.		40	účetní	Huzová	99	80	0
-7102	597414	1	1	902	2	Vladimír	Marek	M			50	řidič	Huzová	99	80	0
-7102	597414	1	1	902	3	Lubomír	Štefaňák	M	Ing.		45	podnikatel	Huzová	99	80	0
-7102	597414	1	1	902	4	Karel	Marek	M			18	student	Huzová	99	80	0
-7102	597414	1	1	902	5	Iva	Poláčková	F			53	asistent výroby	Huzová	99	80	0
-7102	597414	1	1	902	6	Pavel	Husák	M			54	strojník	Huzová	99	80	0
-7102	597414	1	1	902	7	Jana	Vráblíková	F			30	podnikatelka	Huzová	99	80	0
-7102	597414	1	1	902	8	Ljuba	Holocsiová	F			36	servírka	Arnoltice	99	80	0
-7102	597414	1	1	902	9	Josef	Školut	M			53	řidič	Huzová	99	80	0
-7102	597414	1	2	801	1	Yvona	Vláčilová	F			50	ředitelka ZŠ	Huzová	99	80	0
-7102	597414	1	3	1	1	Jarmila	Seidlová	F			54	konzultant	Huzová	99	1	0
-7102	597414	1	3	1	2	Josef	Poláček	M			48	rev.tech.elektr.	Huzová	1	1	0
-7102	597414	1	3	1	3	Tomáš	Poláček	M			55	pokrývač	Huzová	1	1	0
-7102	597414	1	3	1	4	Břetislav	Adamus	M			51	hajný	Huzová	99	1	0
-7102	597414	1	3	1	5	Vladimír	Juříček	M	Ing.		45	technik ž.v.	Huzová	99	1	0
-7102	597414	1	3	1	6	Pavlína	Dembická	F			37	mateřská	Arnoltice	99	1	0
-7102	597414	1	3	1	7	Milan	Štefan	M			54	soukr. podnikatel	Huzová	99	1	0
-7102	597414	1	3	1	8	Renata	Chudá	F			34	účetní o.u.	Huzová	99	1	0
-7102	597414	1	3	1	9	Bronislava	Gregorová	F			42	pracov.v šití	Huzová	99	1	0
-7102	597414	1	4	901	1	Milan	Zehnal	M			49	starosta	Huzová	99	80	0
-7102	597414	1	4	901	2	Ivo	Koláček	M	Ing.		38	lesní technik	Huzová	99	80	0
-7102	597414	1	4	901	3	Dáša	Vosyková	F			41	učitelka MŠ	Huzová	99	80	0
-7102	597414	1	4	901	4	Vladimíra	Šišková	F			30	účetní	Arnoltice	99	80	0
-7102	597414	1	4	901	5	Pavel	Zehnal	M			37	OSVČ	Huzová	99	80	0
-7102	597414	1	4	901	6	Ivana	Biedermannová	F			34	prodavačka	Arnoltice	99	80	0
-7102	597414	1	4	901	7	Petr	Jánský	M	Ing.		56	OSVČ	Huzová	99	80	0
-7102	597414	1	4	901	8	Jaroslav	Bakoš	M			36	stavební dělník	Huzová	99	80	0
-7102	597414	1	4	901	9	Dušan	Mikulec	M			38	OSVČ	Huzová	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	597414	1	1	902	1	Yvona	Jirušová	Ing.		40	účetní	Huzová	99	80	0	F
+7102	597414	1	2	801	1	Yvona	Vláčilová			50	ředitelka ZŠ	Huzová	99	80	0	F
+7102	597414	1	3	1	1	Jarmila	Seidlová			54	konzultant	Huzová	99	1	0	F
+7102	597414	1	4	901	1	Milan	Zehnal			49	starosta	Huzová	99	80	0	M
+7102	597414	1	1	902	2	Vladimír	Marek			50	řidič	Huzová	99	80	0	M
+7102	597414	1	3	1	2	Josef	Poláček			48	rev.tech.elektr.	Huzová	1	1	0	M
+7102	597414	1	4	901	2	Ivo	Koláček	Ing.		38	lesní technik	Huzová	99	80	0	M
+7102	597414	1	1	902	3	Lubomír	Štefaňák	Ing.		45	podnikatel	Huzová	99	80	0	M
+7102	597414	1	3	1	3	Tomáš	Poláček			55	pokrývač	Huzová	1	1	0	M
+7102	597414	1	4	901	3	Dáša	Vosyková			41	učitelka MŠ	Huzová	99	80	0	F
+7102	597414	1	1	902	4	Karel	Marek			18	student	Huzová	99	80	0	M
+7102	597414	1	3	1	4	Břetislav	Adamus			51	hajný	Huzová	99	1	0	M
+7102	597414	1	4	901	4	Vladimíra	Šišková			30	účetní	Arnoltice	99	80	0	F
+7102	597414	1	1	902	5	Iva	Poláčková			53	asistent výroby	Huzová	99	80	0	F
+7102	597414	1	3	1	5	Vladimír	Juříček	Ing.		45	technik ž.v.	Huzová	99	1	0	M
+7102	597414	1	4	901	5	Pavel	Zehnal			37	OSVČ	Huzová	99	80	0	M
+7102	597414	1	1	902	6	Pavel	Husák			54	strojník	Huzová	99	80	0	M
+7102	597414	1	3	1	6	Pavlína	Dembická			37	mateřská	Arnoltice	99	1	0	F
+7102	597414	1	4	901	6	Ivana	Biedermannová			34	prodavačka	Arnoltice	99	80	0	F
+7102	597414	1	1	902	7	Jana	Vráblíková			30	podnikatelka	Huzová	99	80	0	F
+7102	597414	1	3	1	7	Milan	Štefan			54	soukr. podnikatel	Huzová	99	1	0	M
+7102	597414	1	4	901	7	Petr	Jánský	Ing.		56	OSVČ	Huzová	99	80	0	M
+7102	597414	1	1	902	8	Ljuba	Holocsiová			36	servírka	Arnoltice	99	80	0	F
+7102	597414	1	3	1	8	Renata	Chudá			34	účetní o.u.	Huzová	99	1	0	F
+7102	597414	1	4	901	8	Jaroslav	Bakoš			36	stavební dělník	Huzová	99	80	0	M
+7102	597414	1	1	902	9	Josef	Školut			53	řidič	Huzová	99	80	0	M
+7102	597414	1	3	1	9	Bronislava	Gregorová			42	pracov.v šití	Huzová	99	1	0	F
+7102	597414	1	4	901	9	Dušan	Mikulec			38	OSVČ	Huzová	99	80	0	M

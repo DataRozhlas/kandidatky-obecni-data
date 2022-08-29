@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	590185	1	1	901	1	Ivo	Zatloukal	M	Ing.		49	lesní inženýr	Vrbátky	99	80	0
-7103	590185	1	1	901	2	Vladimír	Smička	M			62	podnikatel	Dubany	99	80	0
-7103	590185	1	1	901	3	Petr	Růčka	M	Ing.		39	pojišťovací poradce	Štětovice	721	80	0
-7103	590185	1	1	901	4	František	Konečný	M			56	podnikatel	Vrbátky	99	80	0
-7103	590185	1	1	901	5	Radek	Dokoupil	M			39	obchodní manažer	Vrbátky	721	80	0
-7103	590185	1	1	901	6	Bohumil	Tajovský	M	Ing.		35	zemědělský inženýr	Štětovice	99	80	0
-7103	590185	1	1	901	7	Ludmila	Nakládalová	F			51	úřednice	Dubany	99	80	0
-7103	590185	1	1	901	8	Tomáš	Hrbata	M			35	odborný koordinátor	Dubany	99	80	0
-7103	590185	1	1	901	9	Martin	Šálek	M	Ing.		39	programátor	Vrbátky	99	80	0
-7103	590185	1	1	901	10	Marie	Slamencová	F	Ing.		52	ekonomka	Vrbátky	99	80	0
-7103	590185	1	1	901	11	Pavel	Novotný	M	Ing.		34	vedoucí výroby	Štětovice	99	80	0
-7103	590185	1	1	901	12	Vojtěch	Stoklásek	M			49	elektromontér	Vrbátky	99	80	0
-7103	590185	1	1	901	13	Helena	Zedníčková	F	Mgr.		32	učitelka	Vrbátky	99	80	0
-7103	590185	1	1	901	14	Vlastislav	Dokoupil	M			52	podnikatel	Dubany	99	80	0
-7103	590185	1	1	901	15	Zdeněk	Spurný	M	Ing.		55	chemik	Vrbátky	99	80	0
-7103	590185	1	2	902	1	Petr	Kozel	M	Ing.	CSc.	61	vedoucí auditor	Vrbátky	99	80	0
-7103	590185	1	2	902	2	Vladimír	Dohnal	M	Mgr.		67	důchodce	Dubany	99	80	0
-7103	590185	1	2	902	3	Jitka	Benešová	F			32	státní zaměstnanec	Dubany	99	80	0
-7103	590185	1	2	902	4	Jiří	Voitl	M	RNDr.		57	správce IT	Vrbátky	99	80	0
-7103	590185	1	2	902	5	Pavel	Karásek	M			33	státní zaměstnanec	Dubany	99	80	0
-7103	590185	1	2	902	6	Václav	Němec	M	Mgr.		61	důchodce	Vrbátky	99	80	0
-7103	590185	1	2	902	7	Jiří	Šindler	M			47	bezpečnostní technik	Štětovice	99	80	0
-7103	590185	1	2	902	8	Ondřej	Mádr	M			32	státní zaměstnanec	Dubany	99	80	0
-7103	590185	1	2	902	9	František	Dostál	M			61	důchodce	Dubany	99	80	0
-7103	590185	1	2	902	10	Jan	Marek	M			30	podnikatel	Vrbátky	99	80	0
-7103	590185	1	2	902	11	Lumír	Slezáček	M			30	státní zaměstnanec	Vrbátky	99	80	0
-7103	590185	1	2	902	12	Barbora	Slezáčková	F			24	zdravotní sestra	Vrbátky	99	80	0
-7103	590185	1	2	902	13	Jiří	Štěrba	M			58	strojvedoucí	Dubany	99	80	0
-7103	590185	1	2	902	14	Vlastimil	Olej	M			37	živnostník	Vrbátky	99	80	0
-7103	590185	1	2	902	15	Květoslav	Ambrozek	M			53	řidič	Vrbátky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	590185	1	1	901	1	Ivo	Zatloukal	Ing.		49	lesní inženýr	Vrbátky	99	80	0	M
+7103	590185	1	2	902	1	Petr	Kozel	Ing.	CSc.	61	vedoucí auditor	Vrbátky	99	80	0	M
+7103	590185	1	1	901	2	Vladimír	Smička			62	podnikatel	Dubany	99	80	0	M
+7103	590185	1	2	902	2	Vladimír	Dohnal	Mgr.		67	důchodce	Dubany	99	80	0	M
+7103	590185	1	1	901	3	Petr	Růčka	Ing.		39	pojišťovací poradce	Štětovice	721	80	0	M
+7103	590185	1	2	902	3	Jitka	Benešová			32	státní zaměstnanec	Dubany	99	80	0	F
+7103	590185	1	1	901	4	František	Konečný			56	podnikatel	Vrbátky	99	80	0	M
+7103	590185	1	2	902	4	Jiří	Voitl	RNDr.		57	správce IT	Vrbátky	99	80	0	M
+7103	590185	1	1	901	5	Radek	Dokoupil			39	obchodní manažer	Vrbátky	721	80	0	M
+7103	590185	1	2	902	5	Pavel	Karásek			33	státní zaměstnanec	Dubany	99	80	0	M
+7103	590185	1	1	901	6	Bohumil	Tajovský	Ing.		35	zemědělský inženýr	Štětovice	99	80	0	M
+7103	590185	1	2	902	6	Václav	Němec	Mgr.		61	důchodce	Vrbátky	99	80	0	M
+7103	590185	1	1	901	7	Ludmila	Nakládalová			51	úřednice	Dubany	99	80	0	F
+7103	590185	1	2	902	7	Jiří	Šindler			47	bezpečnostní technik	Štětovice	99	80	0	M
+7103	590185	1	1	901	8	Tomáš	Hrbata			35	odborný koordinátor	Dubany	99	80	0	M
+7103	590185	1	2	902	8	Ondřej	Mádr			32	státní zaměstnanec	Dubany	99	80	0	M
+7103	590185	1	1	901	9	Martin	Šálek	Ing.		39	programátor	Vrbátky	99	80	0	M
+7103	590185	1	2	902	9	František	Dostál			61	důchodce	Dubany	99	80	0	M
+7103	590185	1	1	901	10	Marie	Slamencová	Ing.		52	ekonomka	Vrbátky	99	80	0	F
+7103	590185	1	2	902	10	Jan	Marek			30	podnikatel	Vrbátky	99	80	0	M
+7103	590185	1	1	901	11	Pavel	Novotný	Ing.		34	vedoucí výroby	Štětovice	99	80	0	M
+7103	590185	1	2	902	11	Lumír	Slezáček			30	státní zaměstnanec	Vrbátky	99	80	0	M
+7103	590185	1	1	901	12	Vojtěch	Stoklásek			49	elektromontér	Vrbátky	99	80	0	M
+7103	590185	1	2	902	12	Barbora	Slezáčková			24	zdravotní sestra	Vrbátky	99	80	0	F
+7103	590185	1	1	901	13	Helena	Zedníčková	Mgr.		32	učitelka	Vrbátky	99	80	0	F
+7103	590185	1	2	902	13	Jiří	Štěrba			58	strojvedoucí	Dubany	99	80	0	M
+7103	590185	1	1	901	14	Vlastislav	Dokoupil			52	podnikatel	Dubany	99	80	0	M
+7103	590185	1	2	902	14	Vlastimil	Olej			37	živnostník	Vrbátky	99	80	0	M
+7103	590185	1	1	901	15	Zdeněk	Spurný	Ing.		55	chemik	Vrbátky	99	80	0	M
+7103	590185	1	2	902	15	Květoslav	Ambrozek			53	řidič	Vrbátky	99	80	0	M

@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4206	567582	1	1	901	1	Ivan	Novotný	M			52	technický pracovník	Oldřichov	99	80	0
-4206	567582	1	1	901	2	Libor	Groh	M			50	technik	Jeníkov	99	80	0
-4206	567582	1	1	901	3	Miroslav	Cihelka	M			52	učitel	Oldřichov	99	80	0
-4206	567582	1	1	901	4	Stanislava	Kubajková	F			44	vedoucí pošty	Oldřichov	99	80	0
-4206	567582	1	1	901	5	Václav	Ungr	M			47	podnikatel	Jeníkov	99	80	0
-4206	567582	1	1	901	6	Zdeněk	Holub	M			62	provozní mistr dopravy	Jeníkov	99	80	0
-4206	567582	1	1	901	7	Daniela	Hudáková	F			55	úřednice	Oldřichov	99	80	0
-4206	567582	1	1	901	8	František	Navrátil	M			58	zámečník	Oldřichov	99	80	0
-4206	567582	1	1	901	9	Ladislav	Lacina	M			58	provozní technik	Jeníkov	99	80	0
-4206	567582	1	2	53	1	Martin	Pražák	M			38	THP v inženýrských službách	Oldřichov, Jeníkov	53	53	0
-4206	567582	1	2	53	2	Jiří	Lisý	M			44	policista	Oldřichov	53	53	0
-4206	567582	1	2	53	3	Jiří	Solar	M			35	řidič velkostroje	Oldřichov	99	53	0
-4206	567582	1	2	53	4	Zdeněk	Moravec	M			53	podnikatel	Oldřichov	53	53	0
-4206	567582	1	2	53	5	Petr	Vacek	M	Ing.		42	programátor	Oldřichov	99	53	0
-4206	567582	1	2	53	6	Petr	Duchek	M			38	státní zaměstnanec	Jeníkov	99	53	0
-4206	567582	1	2	53	7	Jan	Bittersmann	M			29	technik	Jeníkov	99	53	0
-4206	567582	1	2	53	8	Martina	Pražáková	F			31	ekonom	Oldřichov, Jeníkov	53	53	0
-4206	567582	1	2	53	9	Jiří	Špalek	M			39	podnikatel	Oldřichov	99	53	0
-4206	567582	1	3	7	1	Ladislava	Hašková	F			41	ekonomka	Oldřichov	99	7	0
-4206	567582	1	3	7	2	Jitka	Vítková	F			47	podnikatelka	Jeníkov	99	7	0
-4206	567582	1	3	7	3	Jaroslav	Dolejší	M			59	učitel	Jeníkov	99	7	0
-4206	567582	1	3	7	4	Karel	Kraner	M			60	elektromechanik	Oldřichov	99	7	0
-4206	567582	1	3	7	5	Jaroslava	Dolejší	F			57	učitelka	Oldřichov	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4206	567582	1	1	901	1	Ivan	Novotný			52	technický pracovník	Oldřichov	99	80	0	M
+4206	567582	1	2	53	1	Martin	Pražák			38	THP v inženýrských službách	Oldřichov, Jeníkov	53	53	0	M
+4206	567582	1	3	7	1	Ladislava	Hašková			41	ekonomka	Oldřichov	99	7	0	F
+4206	567582	1	1	901	2	Libor	Groh			50	technik	Jeníkov	99	80	0	M
+4206	567582	1	2	53	2	Jiří	Lisý			44	policista	Oldřichov	53	53	0	M
+4206	567582	1	3	7	2	Jitka	Vítková			47	podnikatelka	Jeníkov	99	7	0	F
+4206	567582	1	1	901	3	Miroslav	Cihelka			52	učitel	Oldřichov	99	80	0	M
+4206	567582	1	2	53	3	Jiří	Solar			35	řidič velkostroje	Oldřichov	99	53	0	M
+4206	567582	1	3	7	3	Jaroslav	Dolejší			59	učitel	Jeníkov	99	7	0	M
+4206	567582	1	1	901	4	Stanislava	Kubajková			44	vedoucí pošty	Oldřichov	99	80	0	F
+4206	567582	1	2	53	4	Zdeněk	Moravec			53	podnikatel	Oldřichov	53	53	0	M
+4206	567582	1	3	7	4	Karel	Kraner			60	elektromechanik	Oldřichov	99	7	0	M
+4206	567582	1	1	901	5	Václav	Ungr			47	podnikatel	Jeníkov	99	80	0	M
+4206	567582	1	2	53	5	Petr	Vacek	Ing.		42	programátor	Oldřichov	99	53	0	M
+4206	567582	1	3	7	5	Jaroslava	Dolejší			57	učitelka	Oldřichov	99	7	0	F
+4206	567582	1	1	901	6	Zdeněk	Holub			62	provozní mistr dopravy	Jeníkov	99	80	0	M
+4206	567582	1	2	53	6	Petr	Duchek			38	státní zaměstnanec	Jeníkov	99	53	0	M
+4206	567582	1	1	901	7	Daniela	Hudáková			55	úřednice	Oldřichov	99	80	0	F
+4206	567582	1	2	53	7	Jan	Bittersmann			29	technik	Jeníkov	99	53	0	M
+4206	567582	1	1	901	8	František	Navrátil			58	zámečník	Oldřichov	99	80	0	M
+4206	567582	1	2	53	8	Martina	Pražáková			31	ekonom	Oldřichov, Jeníkov	53	53	0	F
+4206	567582	1	1	901	9	Ladislav	Lacina			58	provozní technik	Jeníkov	99	80	0	M
+4206	567582	1	2	53	9	Jiří	Špalek			39	podnikatel	Oldřichov	99	53	0	M

@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	551783	1	1	901	1	Iveta	Kučerová	F			39	zdravotní sestra	Valšov	99	80	0
-8101	551783	1	1	901	2	Jan	Pelánek	M			48	mistr	Valšov	99	80	0
-8101	551783	1	1	901	3	Miroslav	Duhonský	M			48	lesník	Valšov	99	80	0
-8101	551783	1	1	901	4	Zdeněk	Pařízek	M			48	řidič - strojník	Valšov	99	80	0
-8101	551783	1	1	901	5	Vladislav	Marko	M			48	dělník	Valšov	99	80	0
-8101	551783	1	1	901	6	Karel	Braun	M			48	podnikatel	Valšov	99	80	0
-8101	551783	1	1	901	7	Jaroslav	Žák	M			49	řidič	Valšov	99	80	0
-8101	551783	1	2	7	1	Drahomíra	Bučková	F			58	prodavačka	Valšov	7	7	0
-8101	551783	1	2	7	2	Ladislav	Slovák	M			60	dělník	Valšov	7	7	0
-8101	551783	1	2	7	3	Josef	Rudý	M			48	dělník	Valšov	99	7	0
-8101	551783	1	2	7	4	Josef	Tichý	M			34	dělník	Valšov	99	7	0
-8101	551783	1	2	7	5	Jindřich	Ozsvald	M			44	dělník	Valšov	99	7	0
-8101	551783	1	2	7	6	Miroslava	Pavlíková	F			36	servírka	Valšov	99	7	0
-8101	551783	1	2	7	7	Jiří	Fries	M			32	dělník	Valšov	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	551783	1	1	901	1	Iveta	Kučerová			39	zdravotní sestra	Valšov	99	80	0	F
+8101	551783	1	2	7	1	Drahomíra	Bučková			58	prodavačka	Valšov	7	7	0	F
+8101	551783	1	1	901	2	Jan	Pelánek			48	mistr	Valšov	99	80	0	M
+8101	551783	1	2	7	2	Ladislav	Slovák			60	dělník	Valšov	7	7	0	M
+8101	551783	1	1	901	3	Miroslav	Duhonský			48	lesník	Valšov	99	80	0	M
+8101	551783	1	2	7	3	Josef	Rudý			48	dělník	Valšov	99	7	0	M
+8101	551783	1	1	901	4	Zdeněk	Pařízek			48	řidič - strojník	Valšov	99	80	0	M
+8101	551783	1	2	7	4	Josef	Tichý			34	dělník	Valšov	99	7	0	M
+8101	551783	1	1	901	5	Vladislav	Marko			48	dělník	Valšov	99	80	0	M
+8101	551783	1	2	7	5	Jindřich	Ozsvald			44	dělník	Valšov	99	7	0	M
+8101	551783	1	1	901	6	Karel	Braun			48	podnikatel	Valšov	99	80	0	M
+8101	551783	1	2	7	6	Miroslava	Pavlíková			36	servírka	Valšov	99	7	0	F
+8101	551783	1	1	901	7	Jaroslav	Žák			49	řidič	Valšov	99	80	0	M
+8101	551783	1	2	7	7	Jiří	Fries			32	dělník	Valšov	99	7	0	M

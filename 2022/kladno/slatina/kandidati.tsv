@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	532827	1	1	901	1	Pavel	Vosyka	M			49	správce vozového parku	Slatina	99	80	A
-2103	532827	1	1	901	2	Markéta	Pokorná	F			56	provozní zaměstnanec	Slatina	99	80	A
-2103	532827	1	1	901	3	Václav	Frýdek	M			48	bankovní úředník	Slatina	99	80	A
-2103	532827	1	1	901	4	Vladimír	Hampl	M			67	důchodce	Slatina	99	80	A
-2103	532827	1	1	901	5	Martin	Zvoníček	M			40	garant nákupu	Slatina	99	80	A
-2103	532827	1	1	901	6	Petr	Melichar	M			35	vedoucí skladu	Slatina	99	80	A
-2103	532827	1	1	901	7	Václav	Machek	M	Ing.	MBA	51	náměstek ředitele	Slatina	99	80	A
-2103	532827	1	1	901	8	Miroslav	Podrabský	M			40	prodavač	Slatina	99	80	A
-2103	532827	1	1	901	9	Iveta	Křivanová	F			52	vedoucí školní jídelny	Slatina	99	80	A
-2103	532827	1	2	801	1	Tomáš	Plánka	M			37	OSVČ	Slatina	99	80	A
-2103	532827	1	3	802	1	Michal	Gromovský	M	Ing.		57	státní zaměstnanec	Slatina	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	532827	1	1	901	1	Pavel	Vosyka			49	správce vozového parku	Slatina	99	80	A	M
+2103	532827	1	2	801	1	Tomáš	Plánka			37	OSVČ	Slatina	99	80	A	M
+2103	532827	1	3	802	1	Michal	Gromovský	Ing.		57	státní zaměstnanec	Slatina	99	80	A	M
+2103	532827	1	1	901	2	Markéta	Pokorná			56	provozní zaměstnanec	Slatina	99	80	A	F
+2103	532827	1	1	901	3	Václav	Frýdek			48	bankovní úředník	Slatina	99	80	A	M
+2103	532827	1	1	901	4	Vladimír	Hampl			67	důchodce	Slatina	99	80	A	M
+2103	532827	1	1	901	5	Martin	Zvoníček			40	garant nákupu	Slatina	99	80	A	M
+2103	532827	1	1	901	6	Petr	Melichar			35	vedoucí skladu	Slatina	99	80	A	M
+2103	532827	1	1	901	7	Václav	Machek	Ing.	MBA	51	náměstek ředitele	Slatina	99	80	A	M
+2103	532827	1	1	901	8	Miroslav	Podrabský			40	prodavač	Slatina	99	80	A	M
+2103	532827	1	1	901	9	Iveta	Křivanová			52	vedoucí školní jídelny	Slatina	99	80	A	F

@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	582409	1	1	901	1	Pavel	Žilka	M	Ing.		54	mistr výroby	Suchý	99	80	0
-6201	582409	1	1	901	2	Aleš	Zemánek	M			33	OSVČ	Suchý	99	80	0
-6201	582409	1	1	901	3	Vladimír	Ševčík	M			48	skladník	Suchý	99	80	0
-6201	582409	1	1	901	4	Zuzana	Bílková	F			33	kuchařka MŠ	Suchý	99	80	0
-6201	582409	1	1	901	5	Ondřej	Kolář	M			31	dělník	Suchý	99	80	0
-6201	582409	1	1	901	6	Eva	Přikrylová	F			38	nezaměstnaná	Suchý	99	80	0
-6201	582409	1	1	901	7	Pavel	Čížek	M			35	řidič	Suchý	99	80	0
-6201	582409	1	1	901	8	Zdeněk	Bláha	M			35	dělník	Suchý	99	80	0
-6201	582409	1	1	901	9	Martin	Čížek	M			37	nezaměstnaný	Suchý	99	80	0
-6201	582409	1	2	902	1	Eva	Kočvarová	F			31	kadeřnice	Suchý	99	80	0
-6201	582409	1	2	902	2	Jakub	Hlubinka	M	Bc.		23	student	Suchý	99	80	0
-6201	582409	1	2	902	3	Pavla	Vybíhalová	F	Bc.		25	student	Suchý	99	80	0
-6201	582409	1	2	902	4	Dana	Blahová	F			32	úřednice	Suchý	99	80	0
-6201	582409	1	2	902	5	Libor	Sekanina	M			45	dělník	Suchý	99	80	0
-6201	582409	1	3	903	1	Jaroslav	Staněk	M			36	řidič	Suchý	99	80	0
-6201	582409	1	3	903	2	Josef	Sekanina	M		DiS.	27	pedagog	Suchý	99	80	0
-6201	582409	1	3	903	3	Petra	Kočvarová	F		DiS.	35	asistentka ředitele	Suchý	99	80	0
-6201	582409	1	3	903	4	Zdeněk	Ošlejšek	M			37	řidič	Suchý	99	80	0
-6201	582409	1	3	903	5	Martin	Sekanina	M			24	skladník	Suchý	99	80	0
-6201	582409	1	3	903	6	Miloslav	Dosedla	M			42	řidič	Suchý	99	80	0
-6201	582409	1	3	903	7	Petr	Sekanina	M			26	řidič	Suchý	99	80	0
-6201	582409	1	4	904	1	Stanislav	Sekanina	M	Ing.		38	THP	Suchý	99	80	0
-6201	582409	1	4	904	2	Petr	Kočvara	M			44	jednatel společnosti	Suchý	99	80	0
-6201	582409	1	4	904	3	Lukáš	Ošlejšek	M			32	konstruktér	Suchý	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	582409	1	1	901	1	Pavel	Žilka	Ing.		54	mistr výroby	Suchý	99	80	0	M
+6201	582409	1	2	902	1	Eva	Kočvarová			31	kadeřnice	Suchý	99	80	0	F
+6201	582409	1	3	903	1	Jaroslav	Staněk			36	řidič	Suchý	99	80	0	M
+6201	582409	1	4	904	1	Stanislav	Sekanina	Ing.		38	THP	Suchý	99	80	0	M
+6201	582409	1	1	901	2	Aleš	Zemánek			33	OSVČ	Suchý	99	80	0	M
+6201	582409	1	2	902	2	Jakub	Hlubinka	Bc.		23	student	Suchý	99	80	0	M
+6201	582409	1	3	903	2	Josef	Sekanina		DiS.	27	pedagog	Suchý	99	80	0	M
+6201	582409	1	4	904	2	Petr	Kočvara			44	jednatel společnosti	Suchý	99	80	0	M
+6201	582409	1	1	901	3	Vladimír	Ševčík			48	skladník	Suchý	99	80	0	M
+6201	582409	1	2	902	3	Pavla	Vybíhalová	Bc.		25	student	Suchý	99	80	0	F
+6201	582409	1	3	903	3	Petra	Kočvarová		DiS.	35	asistentka ředitele	Suchý	99	80	0	F
+6201	582409	1	4	904	3	Lukáš	Ošlejšek			32	konstruktér	Suchý	99	80	0	M
+6201	582409	1	1	901	4	Zuzana	Bílková			33	kuchařka MŠ	Suchý	99	80	0	F
+6201	582409	1	2	902	4	Dana	Blahová			32	úřednice	Suchý	99	80	0	F
+6201	582409	1	3	903	4	Zdeněk	Ošlejšek			37	řidič	Suchý	99	80	0	M
+6201	582409	1	1	901	5	Ondřej	Kolář			31	dělník	Suchý	99	80	0	M
+6201	582409	1	2	902	5	Libor	Sekanina			45	dělník	Suchý	99	80	0	M
+6201	582409	1	3	903	5	Martin	Sekanina			24	skladník	Suchý	99	80	0	M
+6201	582409	1	1	901	6	Eva	Přikrylová			38	nezaměstnaná	Suchý	99	80	0	F
+6201	582409	1	3	903	6	Miloslav	Dosedla			42	řidič	Suchý	99	80	0	M
+6201	582409	1	1	901	7	Pavel	Čížek			35	řidič	Suchý	99	80	0	M
+6201	582409	1	3	903	7	Petr	Sekanina			26	řidič	Suchý	99	80	0	M
+6201	582409	1	1	901	8	Zdeněk	Bláha			35	dělník	Suchý	99	80	0	M
+6201	582409	1	1	901	9	Martin	Čížek			37	nezaměstnaný	Suchý	99	80	0	M

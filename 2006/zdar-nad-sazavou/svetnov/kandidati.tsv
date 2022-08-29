@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	596841	1	1	53	1	Martina	Němcová	F			40	obchodní zástupce	Světnov	99	53	0
-6105	596841	1	1	53	2	Robert	Sirsch	M	Ing.		35	konstruktér	Světnov	99	53	0
-6105	596841	1	1	53	3	Lenka	Chybová	F			41	zdravotní sestra	Světnov	99	53	0
-6105	596841	1	1	53	4	Jana	Kršková	F			33	doručovatelka tisku	Světnov	99	53	0
-6105	596841	1	1	53	5	Iva	Kybeková	F			33	překladatelka	Světnov	99	53	0
-6105	596841	1	1	53	6	Olga	Popelová	F	Mgr.		31	ekonomka	Světnov	99	53	0
-6105	596841	1	1	53	7	Jiřina	Pospíchalová	F			34	mateřská dovolená	Světnov	99	53	0
-6105	596841	1	1	53	8	Jana	Němcová	F			19	studentka	Světnov	99	53	0
-6105	596841	1	1	53	9	Petr	Tichý	M			36	voják	Světnov	99	53	0
-6105	596841	1	2	7	1	Pavel	Štefan	M			40	strojník	Světnov	99	7	0
-6105	596841	1	2	7	2	Jaromír	Pospíchal	M			35	úředník	Světnov	99	7	0
-6105	596841	1	2	7	3	František	Mička	M			39	horizontkář	Světnov	99	7	0
-6105	596841	1	2	7	4	Martin	Dvořák	M			34	auditor kvality	Světnov	99	7	0
-6105	596841	1	2	7	5	Josef	Pálka	M			31	galvanizér	Světnov	99	7	0
-6105	596841	1	2	7	6	Milan	Nedělka	M			42	nástrojař	Světnov	99	7	0
-6105	596841	1	2	7	7	Luboš	Lojek	M			38	zedník	Světnov	99	7	0
-6105	596841	1	2	7	8	Pavel	Takács	M			23	řezník	Světnov	99	7	0
-6105	596841	1	2	7	9	Jaromír	Popela	M			40	strojní mechanik	Světnov	99	7	0
-6105	596841	1	3	1	1	Marie	Laušmanová	F	Mgr.		35	učitelka	Světnov	99	1	0
-6105	596841	1	3	1	2	Josef	Tlustoš	M			45	OSVČ-řidič	Světnov	99	1	0
-6105	596841	1	3	1	3	Karel	Krčil	M			57	technolog	Světnov	99	1	0
-6105	596841	1	3	1	4	Josef	Nedělka	M			52	nástrojař	Světnov	99	1	0
-6105	596841	1	3	1	5	Věra	Kučková	F			67	učitelka v důchodu	Světnov	99	1	0
-6105	596841	1	3	1	6	Blažena	Tlustošová	F			37	v domácnosti	Světnov	99	1	0
-6105	596841	1	3	1	7	František	Lempera	M			71	důchodce	Světnov	99	1	0
-6105	596841	1	3	1	8	Jan	Laušman	M			38	zahradník	Světnov	99	1	0
-6105	596841	1	3	1	9	Marek	Tlustoš	M			18	student HŠ	Světnov	99	1	0
-6105	596841	1	4	901	1	Josef	Stejskal	M			53	starosta obce	Světnov	99	80	0
-6105	596841	1	4	901	2	Zbyněk	Zlesák	M			42	podnikatel	Světnov	99	80	0
-6105	596841	1	4	901	3	Jaroslav	Sáblík	M	Ing.		59	konstruktér	Světnov	99	80	0
-6105	596841	1	4	901	4	Otakar	Beran	M			29	soukromý zemědělec	Světnov	99	80	0
-6105	596841	1	4	901	5	Antonín	Zich	M			51	konstruktér	Světnov	99	80	0
-6105	596841	1	4	901	6	Roman	Jelínek	M			38	podnikatel	Světnov	99	80	0
-6105	596841	1	4	901	7	Zdeněk	Hansl	M			46	řidič	Světnov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	596841	1	1	53	1	Martina	Němcová			40	obchodní zástupce	Světnov	99	53	0	F
+6105	596841	1	2	7	1	Pavel	Štefan			40	strojník	Světnov	99	7	0	M
+6105	596841	1	3	1	1	Marie	Laušmanová	Mgr.		35	učitelka	Světnov	99	1	0	F
+6105	596841	1	4	901	1	Josef	Stejskal			53	starosta obce	Světnov	99	80	0	M
+6105	596841	1	1	53	2	Robert	Sirsch	Ing.		35	konstruktér	Světnov	99	53	0	M
+6105	596841	1	2	7	2	Jaromír	Pospíchal			35	úředník	Světnov	99	7	0	M
+6105	596841	1	3	1	2	Josef	Tlustoš			45	OSVČ-řidič	Světnov	99	1	0	M
+6105	596841	1	4	901	2	Zbyněk	Zlesák			42	podnikatel	Světnov	99	80	0	M
+6105	596841	1	1	53	3	Lenka	Chybová			41	zdravotní sestra	Světnov	99	53	0	F
+6105	596841	1	2	7	3	František	Mička			39	horizontkář	Světnov	99	7	0	M
+6105	596841	1	3	1	3	Karel	Krčil			57	technolog	Světnov	99	1	0	M
+6105	596841	1	4	901	3	Jaroslav	Sáblík	Ing.		59	konstruktér	Světnov	99	80	0	M
+6105	596841	1	1	53	4	Jana	Kršková			33	doručovatelka tisku	Světnov	99	53	0	F
+6105	596841	1	2	7	4	Martin	Dvořák			34	auditor kvality	Světnov	99	7	0	M
+6105	596841	1	3	1	4	Josef	Nedělka			52	nástrojař	Světnov	99	1	0	M
+6105	596841	1	4	901	4	Otakar	Beran			29	soukromý zemědělec	Světnov	99	80	0	M
+6105	596841	1	1	53	5	Iva	Kybeková			33	překladatelka	Světnov	99	53	0	F
+6105	596841	1	2	7	5	Josef	Pálka			31	galvanizér	Světnov	99	7	0	M
+6105	596841	1	3	1	5	Věra	Kučková			67	učitelka v důchodu	Světnov	99	1	0	F
+6105	596841	1	4	901	5	Antonín	Zich			51	konstruktér	Světnov	99	80	0	M
+6105	596841	1	1	53	6	Olga	Popelová	Mgr.		31	ekonomka	Světnov	99	53	0	F
+6105	596841	1	2	7	6	Milan	Nedělka			42	nástrojař	Světnov	99	7	0	M
+6105	596841	1	3	1	6	Blažena	Tlustošová			37	v domácnosti	Světnov	99	1	0	F
+6105	596841	1	4	901	6	Roman	Jelínek			38	podnikatel	Světnov	99	80	0	M
+6105	596841	1	1	53	7	Jiřina	Pospíchalová			34	mateřská dovolená	Světnov	99	53	0	F
+6105	596841	1	2	7	7	Luboš	Lojek			38	zedník	Světnov	99	7	0	M
+6105	596841	1	3	1	7	František	Lempera			71	důchodce	Světnov	99	1	0	M
+6105	596841	1	4	901	7	Zdeněk	Hansl			46	řidič	Světnov	99	80	0	M
+6105	596841	1	1	53	8	Jana	Němcová			19	studentka	Světnov	99	53	0	F
+6105	596841	1	2	7	8	Pavel	Takács			23	řezník	Světnov	99	7	0	M
+6105	596841	1	3	1	8	Jan	Laušman			38	zahradník	Světnov	99	1	0	M
+6105	596841	1	1	53	9	Petr	Tichý			36	voják	Světnov	99	53	0	M
+6105	596841	1	2	7	9	Jaromír	Popela			40	strojní mechanik	Světnov	99	7	0	M
+6105	596841	1	3	1	9	Marek	Tlustoš			18	student HŠ	Světnov	99	1	0	M

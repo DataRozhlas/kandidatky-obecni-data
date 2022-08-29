@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6201	582328	1	1	1	1	Petr	Zouhar	M	Ing.		32	ekonom	Senetářov	99	1	0
-6201	582328	1	1	1	2	Ladislav	Zouhar	M	Ing.		48	referent	Senetářov	1	1	0
-6201	582328	1	1	1	3	Michal	Zouhar	M	Ing.		25	Ph.D. student	Senetářov	99	1	0
-6201	582328	1	1	1	4	Miroslav	Málek	M			34	vedoucí projektů	Senetářov	1	1	0
-6201	582328	1	1	1	5	Alois	Šebela	M			61	technik	Senetářov	1	1	0
-6201	582328	1	1	1	6	Renata	Musilová	F	Mgr.		29	organizační pracovnice	Senetářov	99	1	0
-6201	582328	1	1	1	7	Pavel	Heger	M	Ing.		34	výzkumný pracovník	Senetářov	99	1	0
-6201	582328	1	1	1	8	Zdeněk	Gross	M			37	konzultant IT	Senetářov	99	1	0
-6201	582328	1	1	1	9	Miroslav	Doležel	M	Mgr.		28	pracovník v sociál. službách	Senetářov	99	1	0
-6201	582328	1	2	158	1	Jana	Sedláková	F			43	OSVČ	Senetářov	99	158	0
-6201	582328	1	2	158	2	Petr	Varga	M			40	konstruktér	Senetářov	99	158	0
-6201	582328	1	2	158	3	Josef	Šíbl	M			48	prac.sociální péče	Senetářov	99	158	0
-6201	582328	1	2	158	4	Jiří	Šebela	M	Ing.		48	THP	Senetářov	99	158	0
-6201	582328	1	2	158	5	Antonín	Zouhar	M			55	referent	Senetářov	99	158	0
-6201	582328	1	2	158	6	Milan	Bábor	M			50	OSVČ	Senetářov	99	158	0
-6201	582328	1	2	158	7	Zdeněk	Hédl	M			59	obráběč kovů	Senetářov	99	158	0
-6201	582328	1	2	158	8	Milan	Musil	M			27	hasič z povolání	Senetářov	99	158	0
-6201	582328	1	2	158	9	Roman	Kyjovský	M			29	OSVČ	Senetářov	99	158	0
-6201	582328	1	3	7	1	Jaroslav	Zukal	M			69	důchodce	Senetářov	7	7	0
-6201	582328	1	3	7	2	Jiří	Pavlíček	M			48	osoba sam.výdělečně činná	Senetářov	7	7	0
-6201	582328	1	3	7	3	Antonín	Doležel	M			59	důchodce	Senetářov	7	7	0
-6201	582328	1	3	7	4	Jarmila	Zukalová	F			68	důchodkyně	Senetářov	7	7	0
-6201	582328	1	3	7	5	Lukáš	Pavlíček	M	Ing.		26	projektant	Senetářov	7	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6201	582328	1	1	1	1	Petr	Zouhar	Ing.		32	ekonom	Senetářov	99	1	0	M
+6201	582328	1	2	158	1	Jana	Sedláková			43	OSVČ	Senetářov	99	158	0	F
+6201	582328	1	3	7	1	Jaroslav	Zukal			69	důchodce	Senetářov	7	7	0	M
+6201	582328	1	1	1	2	Ladislav	Zouhar	Ing.		48	referent	Senetářov	1	1	0	M
+6201	582328	1	2	158	2	Petr	Varga			40	konstruktér	Senetářov	99	158	0	M
+6201	582328	1	3	7	2	Jiří	Pavlíček			48	osoba sam.výdělečně činná	Senetářov	7	7	0	M
+6201	582328	1	1	1	3	Michal	Zouhar	Ing.		25	Ph.D. student	Senetářov	99	1	0	M
+6201	582328	1	2	158	3	Josef	Šíbl			48	prac.sociální péče	Senetářov	99	158	0	M
+6201	582328	1	3	7	3	Antonín	Doležel			59	důchodce	Senetářov	7	7	0	M
+6201	582328	1	1	1	4	Miroslav	Málek			34	vedoucí projektů	Senetářov	1	1	0	M
+6201	582328	1	2	158	4	Jiří	Šebela	Ing.		48	THP	Senetářov	99	158	0	M
+6201	582328	1	3	7	4	Jarmila	Zukalová			68	důchodkyně	Senetářov	7	7	0	F
+6201	582328	1	1	1	5	Alois	Šebela			61	technik	Senetářov	1	1	0	M
+6201	582328	1	2	158	5	Antonín	Zouhar			55	referent	Senetářov	99	158	0	M
+6201	582328	1	3	7	5	Lukáš	Pavlíček	Ing.		26	projektant	Senetářov	7	7	0	M
+6201	582328	1	1	1	6	Renata	Musilová	Mgr.		29	organizační pracovnice	Senetářov	99	1	0	F
+6201	582328	1	2	158	6	Milan	Bábor			50	OSVČ	Senetářov	99	158	0	M
+6201	582328	1	1	1	7	Pavel	Heger	Ing.		34	výzkumný pracovník	Senetářov	99	1	0	M
+6201	582328	1	2	158	7	Zdeněk	Hédl			59	obráběč kovů	Senetářov	99	158	0	M
+6201	582328	1	1	1	8	Zdeněk	Gross			37	konzultant IT	Senetářov	99	1	0	M
+6201	582328	1	2	158	8	Milan	Musil			27	hasič z povolání	Senetářov	99	158	0	M
+6201	582328	1	1	1	9	Miroslav	Doležel	Mgr.		28	pracovník v sociál. službách	Senetářov	99	1	0	M
+6201	582328	1	2	158	9	Roman	Kyjovský			29	OSVČ	Senetářov	99	158	0	M

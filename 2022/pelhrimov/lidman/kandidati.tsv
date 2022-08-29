@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6103	561100	1	1	903	1	Iva	Michaliková	F			37	překladatelka	Praha	99	80	A
-6103	561100	1	1	903	2	Petr	Diviš	M			36	zemědělský inženýr	Lidmaňka	99	80	A
-6103	561100	1	1	903	3	Miroslava	Nadberežná	F			66	důchodkyně	Lidmaň	99	80	A
-6103	561100	1	1	903	4	Eva	Lesnířová	F			58	učitelka	Lidmaň	99	80	A
-6103	561100	1	1	903	5	Radoslava	Karmasinová	F			67	důchodkyně	Lidmaň	99	80	A
-6103	561100	1	2	901	1	Jiří	Chvála	M			46	projektový manažer	Lidmaň	99	80	A
-6103	561100	1	2	901	2	Jana	Chválová	F			44	zubní technik	Lidmaň	99	80	A
-6103	561100	1	2	901	3	Petra	Šmídová	F			46	vedoucí obchodu	Lidmaňka	99	80	A
-6103	561100	1	2	901	4	Lukáš	Baloun	M			32	konstruktér	Lidmaň	99	80	A
-6103	561100	1	2	901	5	Zbyněk	Mikeš	M			64	IT specialista BI-SAP	Lidmaň	99	80	A
-6103	561100	1	2	901	6	Kateřina	Hegrová	F			36	nákupčí	Lidmaňka	99	80	A
-6103	561100	1	2	901	7	Barbora	Havlínová	F	Mgr.		26	učitelka	Lidmaň	99	80	A
-6103	561100	1	2	901	8	Petr	Jonák	M			56	pracovník v sociálních službách	Lidmaň	99	80	A
-6103	561100	1	3	902	1	Tomáš	Hegr	M			42	skladník - logistik	Lidmaň	99	80	A
-6103	561100	1	3	902	2	David	Lazar	M			37	řidič MKD	Lidmaň	99	80	A
-6103	561100	1	3	902	3	Lukáš	Markvart	M			23	servisní technik	Lidmaň	99	80	A
-6103	561100	1	3	902	4	Karel	Havlín	M			26	technik	Lidmaň	99	80	A
-6103	561100	1	3	902	5	Petr	Jonák	M			29	dřevorubec	Lidmaň	99	80	A
-6103	561100	1	3	902	6	Jan	Jirků	M			51	pracovník v údržbě obce	Lidmaň	99	80	A
-6103	561100	1	3	902	7	Jaroslav	Máca	M			50	zahradník	Lidmaňka	99	80	A
-6103	561100	1	3	902	8	Jiří	Zourek	M			54	starosta	Lidmaň	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6103	561100	1	1	903	1	Iva	Michaliková			37	překladatelka	Praha	99	80	A	F
+6103	561100	1	2	901	1	Jiří	Chvála			46	projektový manažer	Lidmaň	99	80	A	M
+6103	561100	1	3	902	1	Tomáš	Hegr			42	skladník - logistik	Lidmaň	99	80	A	M
+6103	561100	1	1	903	2	Petr	Diviš			36	zemědělský inženýr	Lidmaňka	99	80	A	M
+6103	561100	1	2	901	2	Jana	Chválová			44	zubní technik	Lidmaň	99	80	A	F
+6103	561100	1	3	902	2	David	Lazar			37	řidič MKD	Lidmaň	99	80	A	M
+6103	561100	1	1	903	3	Miroslava	Nadberežná			66	důchodkyně	Lidmaň	99	80	A	F
+6103	561100	1	2	901	3	Petra	Šmídová			46	vedoucí obchodu	Lidmaňka	99	80	A	F
+6103	561100	1	3	902	3	Lukáš	Markvart			23	servisní technik	Lidmaň	99	80	A	M
+6103	561100	1	1	903	4	Eva	Lesnířová			58	učitelka	Lidmaň	99	80	A	F
+6103	561100	1	2	901	4	Lukáš	Baloun			32	konstruktér	Lidmaň	99	80	A	M
+6103	561100	1	3	902	4	Karel	Havlín			26	technik	Lidmaň	99	80	A	M
+6103	561100	1	1	903	5	Radoslava	Karmasinová			67	důchodkyně	Lidmaň	99	80	A	F
+6103	561100	1	2	901	5	Zbyněk	Mikeš			64	IT specialista BI-SAP	Lidmaň	99	80	A	M
+6103	561100	1	3	902	5	Petr	Jonák			29	dřevorubec	Lidmaň	99	80	A	M
+6103	561100	1	2	901	6	Kateřina	Hegrová			36	nákupčí	Lidmaňka	99	80	A	F
+6103	561100	1	3	902	6	Jan	Jirků			51	pracovník v údržbě obce	Lidmaň	99	80	A	M
+6103	561100	1	2	901	7	Barbora	Havlínová	Mgr.		26	učitelka	Lidmaň	99	80	A	F
+6103	561100	1	3	902	7	Jaroslav	Máca			50	zahradník	Lidmaňka	99	80	A	M
+6103	561100	1	2	901	8	Petr	Jonák			56	pracovník v sociálních službách	Lidmaň	99	80	A	M
+6103	561100	1	3	902	8	Jiří	Zourek			54	starosta	Lidmaň	99	80	A	M

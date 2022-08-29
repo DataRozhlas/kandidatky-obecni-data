@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3107	552747	1	1	902	1	Jan	Smetana	M			46	OSVČ	Nemyšl	99	80	0
-3107	552747	1	1	902	2	Karel	Nováček	M			35	servisní technik	Nemyšl	99	80	0
-3107	552747	1	1	902	3	Pavel	Krejčí	M			52	OSVČ	Prudice	99	80	0
-3107	552747	1	1	902	4	Pavel	Smetana	M			39	automechanik	Nemyšl	99	80	0
-3107	552747	1	1	902	5	Jiří	Čítek	M			64	důchodce	Dědičky	99	80	0
-3107	552747	1	1	902	6	Jiří	Málek	M			54	dělník	Dědice	99	80	0
-3107	552747	1	2	903	1	Petra	Konopiská	F	Ing.		36	starostka	Dědice	99	80	0
-3107	552747	1	2	903	2	Eva	Jehnětová	F			52	zdravotní sestra	Hoštice	99	80	0
-3107	552747	1	2	903	3	Alena	Smetanová	F			41	manipulantka	Nemyšl	99	80	0
-3107	552747	1	2	903	4	Romana	Pilařová	F			41	vychovatelka	Nemyšl	99	80	0
-3107	552747	1	2	903	5	Jaroslava	Kročáková	F			57	dělnice	Nemyšl	99	80	0
-3107	552747	1	3	906	1	Jaroslav	Stibor	M			37	OSVČ	Hoštice	99	80	0
-3107	552747	1	3	906	2	Tomáš	Zelenka	M			50	technik výroby	Nemyšl	99	80	0
-3107	552747	1	3	906	3	Petr	Brabec	M			42	traktorista	Hoštice	99	80	0
-3107	552747	1	3	906	4	Jiří	Pěknic	M			55	jednatel společnosti	Prudice	99	80	0
-3107	552747	1	3	906	5	Josef	Suja	M			63	OSVČ	Nemyšl	99	80	0
-3107	552747	1	3	906	6	Jana	Kmentová	F			54	OSVČ	Úlehle	99	80	0
-3107	552747	1	4	904	1	Marie	Urbanová	F			53	prodavačka	Prudice	99	80	0
-3107	552747	1	4	904	2	Jana	Ševčíková	F			62	důchodkyně	Prudice	99	80	0
-3107	552747	1	5	901	1	Helena	Knotková	F			37	obchodník	Nemyšl	99	80	0
-3107	552747	1	5	901	2	Jaroslava	Babická	F			34	uklízečka	Hoštice	99	80	0
-3107	552747	1	5	901	3	Zbyněk	Hein	M			38	technik	Dědice	99	80	0
-3107	552747	1	5	901	4	Petr	Stára	M			44	technik	Dědice	99	80	0
-3107	552747	1	5	901	5	Jaroslav	Rezek	M			32	technik	Dědice	99	80	0
-3107	552747	1	6	905	1	Jiří	Pěknic ml.	M			32	projektant	Prudice	99	80	0
-3107	552747	1	6	905	2	Martina	Dolejšová	F			48	účetní	Nemyšl	99	80	0
-3107	552747	1	6	905	3	Jana	Borkovcová	F			65	důchodkyně	Nemyšl	99	80	0
-3107	552747	1	6	905	4	Martin	Bohuslávek	M			42	elektrikář	Záhoříčko	99	80	0
-3107	552747	1	6	905	5	Petr	Hlubocký	M			38	traktorista	Nemyšl	99	80	0
-3107	552747	1	6	905	6	Jaroslav	Kment	M			58	OSVČ	Úlehle	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3107	552747	1	1	902	1	Jan	Smetana			46	OSVČ	Nemyšl	99	80	0	M
+3107	552747	1	2	903	1	Petra	Konopiská	Ing.		36	starostka	Dědice	99	80	0	F
+3107	552747	1	3	906	1	Jaroslav	Stibor			37	OSVČ	Hoštice	99	80	0	M
+3107	552747	1	4	904	1	Marie	Urbanová			53	prodavačka	Prudice	99	80	0	F
+3107	552747	1	5	901	1	Helena	Knotková			37	obchodník	Nemyšl	99	80	0	F
+3107	552747	1	6	905	1	Jiří	Pěknic ml.			32	projektant	Prudice	99	80	0	M
+3107	552747	1	1	902	2	Karel	Nováček			35	servisní technik	Nemyšl	99	80	0	M
+3107	552747	1	2	903	2	Eva	Jehnětová			52	zdravotní sestra	Hoštice	99	80	0	F
+3107	552747	1	3	906	2	Tomáš	Zelenka			50	technik výroby	Nemyšl	99	80	0	M
+3107	552747	1	4	904	2	Jana	Ševčíková			62	důchodkyně	Prudice	99	80	0	F
+3107	552747	1	5	901	2	Jaroslava	Babická			34	uklízečka	Hoštice	99	80	0	F
+3107	552747	1	6	905	2	Martina	Dolejšová			48	účetní	Nemyšl	99	80	0	F
+3107	552747	1	1	902	3	Pavel	Krejčí			52	OSVČ	Prudice	99	80	0	M
+3107	552747	1	2	903	3	Alena	Smetanová			41	manipulantka	Nemyšl	99	80	0	F
+3107	552747	1	3	906	3	Petr	Brabec			42	traktorista	Hoštice	99	80	0	M
+3107	552747	1	5	901	3	Zbyněk	Hein			38	technik	Dědice	99	80	0	M
+3107	552747	1	6	905	3	Jana	Borkovcová			65	důchodkyně	Nemyšl	99	80	0	F
+3107	552747	1	1	902	4	Pavel	Smetana			39	automechanik	Nemyšl	99	80	0	M
+3107	552747	1	2	903	4	Romana	Pilařová			41	vychovatelka	Nemyšl	99	80	0	F
+3107	552747	1	3	906	4	Jiří	Pěknic			55	jednatel společnosti	Prudice	99	80	0	M
+3107	552747	1	5	901	4	Petr	Stára			44	technik	Dědice	99	80	0	M
+3107	552747	1	6	905	4	Martin	Bohuslávek			42	elektrikář	Záhoříčko	99	80	0	M
+3107	552747	1	1	902	5	Jiří	Čítek			64	důchodce	Dědičky	99	80	0	M
+3107	552747	1	2	903	5	Jaroslava	Kročáková			57	dělnice	Nemyšl	99	80	0	F
+3107	552747	1	3	906	5	Josef	Suja			63	OSVČ	Nemyšl	99	80	0	M
+3107	552747	1	5	901	5	Jaroslav	Rezek			32	technik	Dědice	99	80	0	M
+3107	552747	1	6	905	5	Petr	Hlubocký			38	traktorista	Nemyšl	99	80	0	M
+3107	552747	1	1	902	6	Jiří	Málek			54	dělník	Dědice	99	80	0	M
+3107	552747	1	3	906	6	Jana	Kmentová			54	OSVČ	Úlehle	99	80	0	F
+3107	552747	1	6	905	6	Jaroslav	Kment			58	OSVČ	Úlehle	99	80	0	M

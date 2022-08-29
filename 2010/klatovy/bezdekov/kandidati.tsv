@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3202	555801	1	1	901	1	Josef	Červený	M			54	starosta obce	Bezděkov	99	80	0
-3202	555801	1	1	901	2	Zbyněk	Svoboda	M	Ing.		34	zemědělský technik	Bezděkov	99	80	0
-3202	555801	1	1	901	3	Petr	Dolejší	M			55	podnikatel	Koryta	99	80	0
-3202	555801	1	1	901	4	Petr	Jelínek	M			36	manažer	Bezděkov	99	80	0
-3202	555801	1	1	901	5	Xenie	Begerl	F	Mgr.		38	učitelka	Bezděkov	99	80	0
-3202	555801	1	1	901	6	Rudolf	Gavlas	M			59	podnikatel	Bezděkov	99	80	0
-3202	555801	1	1	901	7	Václav	Kubovec	M			59	hajný	Koryta	99	80	0
-3202	555801	1	1	901	8	Petr	Papoušek	M	Mgr.		40	hasič - velitel stanice	Bezděkov	99	80	0
-3202	555801	1	1	901	9	František	Špindler	M			48	zámečník	Bezděkov	99	80	0
-3202	555801	1	1	901	10	Petr	Uldrych	M	Ing.		31	vedoucí výroby	Bezděkov	99	80	0
-3202	555801	1	1	901	11	Věra	Steidlová	F			43	administrativní pracovnice	Bezděkov	99	80	0
-3202	555801	1	1	901	12	Roman	Cibulka	M			41	řidič	Tetětice	99	80	0
-3202	555801	1	1	901	13	Jan	Ježek	M			32	odborný specialista	Bezděkov	99	80	0
-3202	555801	1	1	901	14	Václav	Pavlík	M			32	živnostník	Bezděkov	99	80	0
-3202	555801	1	1	901	15	Pavel	Šabatka	M			32	živnostník	Bezděkov	99	80	0
-3202	555801	1	2	47	1	Šárka	Niklová	F	Mgr.		44	učitelka	Bezděkov	47	47	0
-3202	555801	1	2	47	2	Jiří	Ponocný	M			61	nezaměstnaný	Koryta	47	47	0
-3202	555801	1	2	47	3	Karel	Šidlo	M	Ing.	DiS.	28	technik	Bezděkov	99	47	0
-3202	555801	1	2	47	4	Jana	Švejdová	F			44	referentka	Koryta	99	47	0
-3202	555801	1	2	47	5	Václav	Novák	M			21	obkladač	Bezděkov	99	47	0
-3202	555801	1	2	47	6	Jana	Maurencová	F			50	pomoc. kuchařka	Bezděkov	99	47	0
-3202	555801	1	2	47	7	Věra	Nováková	F			57	v domácnosti	Bezděkov	47	47	0
-3202	555801	1	2	47	8	Jana	Papoušková	F			68	důchodce	Bezděkov	47	47	0
-3202	555801	1	2	47	9	Jiří	Bohatý	M			49	dělník	Bezděkov	47	47	0
-3202	555801	1	2	47	10	Lenka	Grasslová	F			43	dělnice	Koryta	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3202	555801	1	1	901	1	Josef	Červený			54	starosta obce	Bezděkov	99	80	0	M
+3202	555801	1	2	47	1	Šárka	Niklová	Mgr.		44	učitelka	Bezděkov	47	47	0	F
+3202	555801	1	1	901	2	Zbyněk	Svoboda	Ing.		34	zemědělský technik	Bezděkov	99	80	0	M
+3202	555801	1	2	47	2	Jiří	Ponocný			61	nezaměstnaný	Koryta	47	47	0	M
+3202	555801	1	1	901	3	Petr	Dolejší			55	podnikatel	Koryta	99	80	0	M
+3202	555801	1	2	47	3	Karel	Šidlo	Ing.	DiS.	28	technik	Bezděkov	99	47	0	M
+3202	555801	1	1	901	4	Petr	Jelínek			36	manažer	Bezděkov	99	80	0	M
+3202	555801	1	2	47	4	Jana	Švejdová			44	referentka	Koryta	99	47	0	F
+3202	555801	1	1	901	5	Xenie	Begerl	Mgr.		38	učitelka	Bezděkov	99	80	0	F
+3202	555801	1	2	47	5	Václav	Novák			21	obkladač	Bezděkov	99	47	0	M
+3202	555801	1	1	901	6	Rudolf	Gavlas			59	podnikatel	Bezděkov	99	80	0	M
+3202	555801	1	2	47	6	Jana	Maurencová			50	pomoc. kuchařka	Bezděkov	99	47	0	F
+3202	555801	1	1	901	7	Václav	Kubovec			59	hajný	Koryta	99	80	0	M
+3202	555801	1	2	47	7	Věra	Nováková			57	v domácnosti	Bezděkov	47	47	0	F
+3202	555801	1	1	901	8	Petr	Papoušek	Mgr.		40	hasič - velitel stanice	Bezděkov	99	80	0	M
+3202	555801	1	2	47	8	Jana	Papoušková			68	důchodce	Bezděkov	47	47	0	F
+3202	555801	1	1	901	9	František	Špindler			48	zámečník	Bezděkov	99	80	0	M
+3202	555801	1	2	47	9	Jiří	Bohatý			49	dělník	Bezděkov	47	47	0	M
+3202	555801	1	1	901	10	Petr	Uldrych	Ing.		31	vedoucí výroby	Bezděkov	99	80	0	M
+3202	555801	1	2	47	10	Lenka	Grasslová			43	dělnice	Koryta	99	47	0	F
+3202	555801	1	1	901	11	Věra	Steidlová			43	administrativní pracovnice	Bezděkov	99	80	0	F
+3202	555801	1	1	901	12	Roman	Cibulka			41	řidič	Tetětice	99	80	0	M
+3202	555801	1	1	901	13	Jan	Ježek			32	odborný specialista	Bezděkov	99	80	0	M
+3202	555801	1	1	901	14	Václav	Pavlík			32	živnostník	Bezděkov	99	80	0	M
+3202	555801	1	1	901	15	Pavel	Šabatka			32	živnostník	Bezděkov	99	80	0	M

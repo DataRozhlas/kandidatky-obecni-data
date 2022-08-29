@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	542369	1	1	901	1	Eva	Pokorná	F			38	důchodce	Senec	99	80	0
-2112	542369	1	1	901	2	Josef	Kessler	M			62	důchodce	Senec	99	80	0
-2112	542369	1	1	901	3	Jindřiška	Zemanová	F			25	dělnice	Senec	99	80	0
-2112	542369	1	1	901	4	Radmila	Johnová	F			49	statistik	Senec	7	80	0
-2112	542369	1	1	901	5	Václav	Holík	M			51	skladník	Senec	99	80	0
-2112	542369	1	1	901	6	Jakub	Svoboda	M			28	elektrikář	Senec	99	80	0
-2112	542369	1	1	901	7	Jan	Zelenka	M			33	zedník	Senec	99	80	0
-2112	542369	1	2	902	1	Radek	Kadar	M			41	technický pracovník	Senec	99	80	0
-2112	542369	1	2	902	2	Dana	Lajblová	F			54	učitelka MŠ	Senec	99	80	0
-2112	542369	1	2	902	3	Zdeněk	Beneš	M			40	technický pracovník	Senec	99	80	0
-2112	542369	1	2	902	4	Michal	Beneš	M			29	soukromý zemědělec	Senec	99	80	0
-2112	542369	1	2	902	5	Dagmar	Novotná	F			49	vychovatelka ZŠ	Senec	99	80	0
-2112	542369	1	2	902	6	Ladislav	Baur	M			32	servisní technik	Senec	99	80	0
-2112	542369	1	2	902	7	Hana	Hvězdová	F			45	učitelka ZŠ	Senec	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	542369	1	1	901	1	Eva	Pokorná			38	důchodce	Senec	99	80	0	F
+2112	542369	1	2	902	1	Radek	Kadar			41	technický pracovník	Senec	99	80	0	M
+2112	542369	1	1	901	2	Josef	Kessler			62	důchodce	Senec	99	80	0	M
+2112	542369	1	2	902	2	Dana	Lajblová			54	učitelka MŠ	Senec	99	80	0	F
+2112	542369	1	1	901	3	Jindřiška	Zemanová			25	dělnice	Senec	99	80	0	F
+2112	542369	1	2	902	3	Zdeněk	Beneš			40	technický pracovník	Senec	99	80	0	M
+2112	542369	1	1	901	4	Radmila	Johnová			49	statistik	Senec	7	80	0	F
+2112	542369	1	2	902	4	Michal	Beneš			29	soukromý zemědělec	Senec	99	80	0	M
+2112	542369	1	1	901	5	Václav	Holík			51	skladník	Senec	99	80	0	M
+2112	542369	1	2	902	5	Dagmar	Novotná			49	vychovatelka ZŠ	Senec	99	80	0	F
+2112	542369	1	1	901	6	Jakub	Svoboda			28	elektrikář	Senec	99	80	0	M
+2112	542369	1	2	902	6	Ladislav	Baur			32	servisní technik	Senec	99	80	0	M
+2112	542369	1	1	901	7	Jan	Zelenka			33	zedník	Senec	99	80	0	M
+2112	542369	1	2	902	7	Hana	Hvězdová			45	učitelka ZŠ	Senec	99	80	0	F

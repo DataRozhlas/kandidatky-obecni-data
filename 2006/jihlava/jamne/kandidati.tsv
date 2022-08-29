@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6102	587249	1	1	47	1	Jiří	Šoukal	M			31	státní zaměstnanec	Jamné	99	47	0
-6102	587249	1	1	47	2	Miroslav	Záškoda	M			33	dělník	Jamné	99	47	0
-6102	587249	1	1	47	3	Vladimíra	Hrdinová	F			53	úřednice	Jamné	99	47	0
-6102	587249	1	1	47	4	Marie	Špejtková	F			61	důchodce	Jamné	47	47	0
-6102	587249	1	1	47	5	Stanislav	Pavelka	M			49	zedník	Jamné	99	47	0
-6102	587249	1	1	47	6	Karel	Šlechtický	M			66	důchodce	Jamné	47	47	0
-6102	587249	1	1	47	7	Josef	Vomela	M			63	důchodce	Jamné	47	47	0
-6102	587249	1	1	47	8	Věra	Šerá	F			69	důchodce	Jamné	47	47	0
-6102	587249	1	1	47	9	Růžena	Prchalová	F			59	důchodce	Jamné	47	47	0
-6102	587249	1	2	901	1	Aleš	Weselý	M	Ing.		35	technický pracovník	Jamné	99	80	0
-6102	587249	1	2	901	2	Jiří	Pejcha	M	Ing.		31	úředník	Jamné	99	80	0
-6102	587249	1	2	901	3	Pavel	Seknička	M			34	vedoucí skladu	Jamné	99	80	0
-6102	587249	1	2	901	4	Milan	Formáček	M			33	pojišťovací poradce	Jamné	99	80	0
-6102	587249	1	2	901	5	Jiří	Musil	M	MUDr.		50	lékař	Jamné	99	80	0
-6102	587249	1	2	901	6	Vladimír	Tlačbaba	M			45	soukromě hospodařící rolník	Jamné	1	80	0
-6102	587249	1	2	901	7	Luboš	Varhaník	M	Ing.		42	jednatel společnosti	Jamné	99	80	0
-6102	587249	1	2	901	8	Anna	Kubínová	F			46	starostka	Jamné	1	80	0
-6102	587249	1	2	901	9	Richard	Špejtek	M			35	řidič	Jamné	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6102	587249	1	1	47	1	Jiří	Šoukal			31	státní zaměstnanec	Jamné	99	47	0	M
+6102	587249	1	2	901	1	Aleš	Weselý	Ing.		35	technický pracovník	Jamné	99	80	0	M
+6102	587249	1	1	47	2	Miroslav	Záškoda			33	dělník	Jamné	99	47	0	M
+6102	587249	1	2	901	2	Jiří	Pejcha	Ing.		31	úředník	Jamné	99	80	0	M
+6102	587249	1	1	47	3	Vladimíra	Hrdinová			53	úřednice	Jamné	99	47	0	F
+6102	587249	1	2	901	3	Pavel	Seknička			34	vedoucí skladu	Jamné	99	80	0	M
+6102	587249	1	1	47	4	Marie	Špejtková			61	důchodce	Jamné	47	47	0	F
+6102	587249	1	2	901	4	Milan	Formáček			33	pojišťovací poradce	Jamné	99	80	0	M
+6102	587249	1	1	47	5	Stanislav	Pavelka			49	zedník	Jamné	99	47	0	M
+6102	587249	1	2	901	5	Jiří	Musil	MUDr.		50	lékař	Jamné	99	80	0	M
+6102	587249	1	1	47	6	Karel	Šlechtický			66	důchodce	Jamné	47	47	0	M
+6102	587249	1	2	901	6	Vladimír	Tlačbaba			45	soukromě hospodařící rolník	Jamné	1	80	0	M
+6102	587249	1	1	47	7	Josef	Vomela			63	důchodce	Jamné	47	47	0	M
+6102	587249	1	2	901	7	Luboš	Varhaník	Ing.		42	jednatel společnosti	Jamné	99	80	0	M
+6102	587249	1	1	47	8	Věra	Šerá			69	důchodce	Jamné	47	47	0	F
+6102	587249	1	2	901	8	Anna	Kubínová			46	starostka	Jamné	1	80	0	F
+6102	587249	1	1	47	9	Růžena	Prchalová			59	důchodce	Jamné	47	47	0	F
+6102	587249	1	2	901	9	Richard	Špejtek			35	řidič	Jamné	99	80	0	M

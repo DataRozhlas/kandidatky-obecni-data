@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5204	576816	1	1	902	1	Vítězslav	Kapčuk	M			55	starosta obce Synkov-Slemeno	Slemeno	99	80	0
-5204	576816	1	1	902	2	Jaroslav	Štefek	M			39	sekretář Euroregionu Glacensis	Slemeno	99	80	0
-5204	576816	1	1	902	3	Ladislav	Vašátko	M			55	OSVČ	Synkov	99	80	0
-5204	576816	1	1	902	4	Josef	Frýda	M			52	správce automatizační techniky	Synkov	99	80	0
-5204	576816	1	1	902	5	Josef	Šíla	M			49	technik střediska sadů - ovocnář	Synkov	99	80	0
-5204	576816	1	1	902	6	Milan	Štefek	M			46	mechanik	Slemeno	99	80	0
-5204	576816	1	1	902	7	Milan	Veiser	M			50	podnikatel	Synkov	99	80	0
-5204	576816	1	1	902	8	Miroslav	Kalousek	M			26	dělník ve výrobě	Synkov	99	80	0
-5204	576816	1	1	902	9	Alena	Šrámková	F			33	operátor logistiky	Synkov	99	80	0
-5204	576816	1	2	901	1	Stanislav	Mára	M			49	vedoucí provozu TS Rychnov	Slemeno	99	80	0
-5204	576816	1	2	901	2	Miroslav	Říčař	M			43	projektant technologie ŠKODA AUTO	Slemeno	99	80	0
-5204	576816	1	2	901	3	Milan	Koblása	M			50	elektrikář	Synkov	99	80	0
-5204	576816	1	2	901	4	Marie	Šabatová	F			53	pojišťovací zprostředkovatel	Synkov	99	80	0
-5204	576816	1	2	901	5	Martin	Trs	M			43	finanční poradce	Slemeno	99	80	0
-5204	576816	1	2	901	6	Jan	Csibri	M			39	dělník ESAB Vamberk	Slemeno	99	80	0
-5204	576816	1	2	901	7	Michal	Říčař	M			19	automechanik ŠKODA AUTO	Slemeno	99	80	0
-5204	576816	1	2	901	8	Mojmír	Šimeček	M			31	dělník ESAB Vamberk	Synkov	99	80	0
-5204	576816	1	2	901	9	Ludmila	Hoffmanová	F			62	důchodce	Synkov	99	80	0
-5204	576816	1	3	903	1	Jiří	Málek	M			38	zaměstnanec Saint Gobain Constr. Products CZ, a.s.	Synkov	99	80	0
-5204	576816	1	3	903	2	Jiří	Novák	M			33	podnikatel	Synkov	99	80	0
-5204	576816	1	3	903	3	Stanislav	Pantůček	M			30	zaměstnanec Policie ČR	Slemeno	99	80	0
-5204	576816	1	3	903	4	Václav	Plašil	M			62	důchodce	Synkov	99	80	0
-5204	576816	1	3	903	5	Michal	Hanzlíček	M			41	zam. útv. ochr. a bezp.zn. Škoda Auto a.s. Kvasiny	Synkov	99	80	0
-5204	576816	1	3	903	6	Vladimíra	Kopecká	F	Ing.		55	státní zaměstnanec SZPI Hradec Králové	Synkov	99	80	0
-5204	576816	1	3	903	7	Lucie	Ješinová	F			36	pečovatelka Soc.služby města Rychnov n.Kn.	Slemeno	99	80	0
-5204	576816	1	3	903	8	Soňa	Zemanová	F			39	OSVČ	Jedlina	99	80	0
-5204	576816	1	3	903	9	David	Zářecký	M			29	OSVČ	Synkov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5204	576816	1	1	902	1	Vítězslav	Kapčuk			55	starosta obce Synkov-Slemeno	Slemeno	99	80	0	M
+5204	576816	1	2	901	1	Stanislav	Mára			49	vedoucí provozu TS Rychnov	Slemeno	99	80	0	M
+5204	576816	1	3	903	1	Jiří	Málek			38	zaměstnanec Saint Gobain Constr. Products CZ, a.s.	Synkov	99	80	0	M
+5204	576816	1	1	902	2	Jaroslav	Štefek			39	sekretář Euroregionu Glacensis	Slemeno	99	80	0	M
+5204	576816	1	2	901	2	Miroslav	Říčař			43	projektant technologie ŠKODA AUTO	Slemeno	99	80	0	M
+5204	576816	1	3	903	2	Jiří	Novák			33	podnikatel	Synkov	99	80	0	M
+5204	576816	1	1	902	3	Ladislav	Vašátko			55	OSVČ	Synkov	99	80	0	M
+5204	576816	1	2	901	3	Milan	Koblása			50	elektrikář	Synkov	99	80	0	M
+5204	576816	1	3	903	3	Stanislav	Pantůček			30	zaměstnanec Policie ČR	Slemeno	99	80	0	M
+5204	576816	1	1	902	4	Josef	Frýda			52	správce automatizační techniky	Synkov	99	80	0	M
+5204	576816	1	2	901	4	Marie	Šabatová			53	pojišťovací zprostředkovatel	Synkov	99	80	0	F
+5204	576816	1	3	903	4	Václav	Plašil			62	důchodce	Synkov	99	80	0	M
+5204	576816	1	1	902	5	Josef	Šíla			49	technik střediska sadů - ovocnář	Synkov	99	80	0	M
+5204	576816	1	2	901	5	Martin	Trs			43	finanční poradce	Slemeno	99	80	0	M
+5204	576816	1	3	903	5	Michal	Hanzlíček			41	zam. útv. ochr. a bezp.zn. Škoda Auto a.s. Kvasiny	Synkov	99	80	0	M
+5204	576816	1	1	902	6	Milan	Štefek			46	mechanik	Slemeno	99	80	0	M
+5204	576816	1	2	901	6	Jan	Csibri			39	dělník ESAB Vamberk	Slemeno	99	80	0	M
+5204	576816	1	3	903	6	Vladimíra	Kopecká	Ing.		55	státní zaměstnanec SZPI Hradec Králové	Synkov	99	80	0	F
+5204	576816	1	1	902	7	Milan	Veiser			50	podnikatel	Synkov	99	80	0	M
+5204	576816	1	2	901	7	Michal	Říčař			19	automechanik ŠKODA AUTO	Slemeno	99	80	0	M
+5204	576816	1	3	903	7	Lucie	Ješinová			36	pečovatelka Soc.služby města Rychnov n.Kn.	Slemeno	99	80	0	F
+5204	576816	1	1	902	8	Miroslav	Kalousek			26	dělník ve výrobě	Synkov	99	80	0	M
+5204	576816	1	2	901	8	Mojmír	Šimeček			31	dělník ESAB Vamberk	Synkov	99	80	0	M
+5204	576816	1	3	903	8	Soňa	Zemanová			39	OSVČ	Jedlina	99	80	0	F
+5204	576816	1	1	902	9	Alena	Šrámková			33	operátor logistiky	Synkov	99	80	0	F
+5204	576816	1	2	901	9	Ludmila	Hoffmanová			62	důchodce	Synkov	99	80	0	F
+5204	576816	1	3	903	9	David	Zářecký			29	OSVČ	Synkov	99	80	0	M

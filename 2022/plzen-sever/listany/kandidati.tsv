@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3205	559172	1	1	902	1	Jiří	Chovan	M	Mgr.		36	vedoucí stavebního úřadu	Líšťany	99	80	A
-3205	559172	1	1	902	2	Lucie	Kantoříková	F			34	Policie ČR	Třebobuz	99	80	A
-3205	559172	1	1	902	3	Petr	Soukup	M	Ing.		50	manažer IT	Košetice	99	80	A
-3205	559172	1	1	902	4	Jan	Jílek	M	Ing.		44	soukromý zemědělec	Hunčice	99	80	A
-3205	559172	1	1	902	5	Lucie	Hlavinková	F	Bc.		33	zdravotnický záchranář	Líšťany	99	80	A
-3205	559172	1	1	902	6	Zdeněk	Rolko	M			35	kreativní malíř	Líšťany	99	80	A
-3205	559172	1	1	902	7	Jaromír	Boháček	M			38	soukromý zemědělec	Líšťany	99	80	A
-3205	559172	1	1	902	8	Martin	Horváth	M			40	marketingový manažer	Líšťany	99	80	A
-3205	559172	1	1	902	9	Pavla	Dolejšová	F			51	farmaceutický asistent	Líšťany	99	80	A
-3205	559172	1	1	902	10	Edita	Šajtošová	F	Mgr.		48	právník	Luhov	99	80	A
-3205	559172	1	1	902	11	Veronika	Krušková	F			43	prodavačka v potravinách	Líšťany	99	80	A
-3205	559172	1	1	902	12	Pavla	Soukupová	F			43	operátor výroby	Líšťany	99	80	A
-3205	559172	1	1	902	13	Petr	Lipták	M			36	projektový manažer	Líšťany	99	80	A
-3205	559172	1	1	902	14	Michal	Boubín	M			34	svářeč, zámečník	Hunčice	99	80	A
-3205	559172	1	1	902	15	Alena	Frančová	F			39	prodavačka v potravinách	Líšťany	99	80	A
-3205	559172	1	2	901	1	Václav	Huml	M			57	starosta obce Líšťany	Líšťany	99	80	A
-3205	559172	1	2	901	2	Pavel	Randa	M			48	provozní zámečník	Náklov	99	80	A
-3205	559172	1	2	901	3	Ladislav	Tříska	M	PhDr.		59	vědecko výzkumný pracovník	Košetice	99	80	A
-3205	559172	1	2	901	4	Václav	Lang	M			67	důchodce	Lipno	99	80	A
-3205	559172	1	2	901	5	Petr	Havel	M			54	vedoucí provozu	Líšťany	99	80	A
-3205	559172	1	2	901	6	Štefan	Varga	M			38	jednatel společnosti	Líšťany	99	80	A
-3205	559172	1	2	901	7	Zdenka	Hronová	F	Bc.		52	všeobecná sestra	Písek	99	80	A
-3205	559172	1	2	901	8	Radek	Šimandl	M			40	výrobní dělník	Třebobuz	99	80	A
-3205	559172	1	2	901	9	Edita	Čuchorová	F			50	skladnice	Náklov	99	80	A
-3205	559172	1	2	901	10	Jiřina	Stolzová	F	Bc.		54	všeobecná sestra	Hunčice	99	80	A
-3205	559172	1	2	901	11	Josef	Riant	M			72	důchodce	Košetice	99	80	A
-3205	559172	1	2	901	12	Jan	Tříska	M			48	soukromý zemědělec	Luhov	99	80	A
-3205	559172	1	2	901	13	Libuše	Kleisnerová	F			63	důchodce	Luhov	99	80	A
-3205	559172	1	2	901	14	Lada	Bouzková	F			48	zdravotní laborantka	Líšťany	99	80	A
-3205	559172	1	2	901	15	Nataša	Golová	F			64	důchodce	Líšťany	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3205	559172	1	1	902	1	Jiří	Chovan	Mgr.		36	vedoucí stavebního úřadu	Líšťany	99	80	A	M
+3205	559172	1	2	901	1	Václav	Huml			57	starosta obce Líšťany	Líšťany	99	80	A	M
+3205	559172	1	1	902	2	Lucie	Kantoříková			34	Policie ČR	Třebobuz	99	80	A	F
+3205	559172	1	2	901	2	Pavel	Randa			48	provozní zámečník	Náklov	99	80	A	M
+3205	559172	1	1	902	3	Petr	Soukup	Ing.		50	manažer IT	Košetice	99	80	A	M
+3205	559172	1	2	901	3	Ladislav	Tříska	PhDr.		59	vědecko výzkumný pracovník	Košetice	99	80	A	M
+3205	559172	1	1	902	4	Jan	Jílek	Ing.		44	soukromý zemědělec	Hunčice	99	80	A	M
+3205	559172	1	2	901	4	Václav	Lang			67	důchodce	Lipno	99	80	A	M
+3205	559172	1	1	902	5	Lucie	Hlavinková	Bc.		33	zdravotnický záchranář	Líšťany	99	80	A	F
+3205	559172	1	2	901	5	Petr	Havel			54	vedoucí provozu	Líšťany	99	80	A	M
+3205	559172	1	1	902	6	Zdeněk	Rolko			35	kreativní malíř	Líšťany	99	80	A	M
+3205	559172	1	2	901	6	Štefan	Varga			38	jednatel společnosti	Líšťany	99	80	A	M
+3205	559172	1	1	902	7	Jaromír	Boháček			38	soukromý zemědělec	Líšťany	99	80	A	M
+3205	559172	1	2	901	7	Zdenka	Hronová	Bc.		52	všeobecná sestra	Písek	99	80	A	F
+3205	559172	1	1	902	8	Martin	Horváth			40	marketingový manažer	Líšťany	99	80	A	M
+3205	559172	1	2	901	8	Radek	Šimandl			40	výrobní dělník	Třebobuz	99	80	A	M
+3205	559172	1	1	902	9	Pavla	Dolejšová			51	farmaceutický asistent	Líšťany	99	80	A	F
+3205	559172	1	2	901	9	Edita	Čuchorová			50	skladnice	Náklov	99	80	A	F
+3205	559172	1	1	902	10	Edita	Šajtošová	Mgr.		48	právník	Luhov	99	80	A	F
+3205	559172	1	2	901	10	Jiřina	Stolzová	Bc.		54	všeobecná sestra	Hunčice	99	80	A	F
+3205	559172	1	1	902	11	Veronika	Krušková			43	prodavačka v potravinách	Líšťany	99	80	A	F
+3205	559172	1	2	901	11	Josef	Riant			72	důchodce	Košetice	99	80	A	M
+3205	559172	1	1	902	12	Pavla	Soukupová			43	operátor výroby	Líšťany	99	80	A	F
+3205	559172	1	2	901	12	Jan	Tříska			48	soukromý zemědělec	Luhov	99	80	A	M
+3205	559172	1	1	902	13	Petr	Lipták			36	projektový manažer	Líšťany	99	80	A	M
+3205	559172	1	2	901	13	Libuše	Kleisnerová			63	důchodce	Luhov	99	80	A	F
+3205	559172	1	1	902	14	Michal	Boubín			34	svářeč, zámečník	Hunčice	99	80	A	M
+3205	559172	1	2	901	14	Lada	Bouzková			48	zdravotní laborantka	Líšťany	99	80	A	F
+3205	559172	1	1	902	15	Alena	Frančová			39	prodavačka v potravinách	Líšťany	99	80	A	F
+3205	559172	1	2	901	15	Nataša	Golová			64	důchodce	Líšťany	99	80	A	F

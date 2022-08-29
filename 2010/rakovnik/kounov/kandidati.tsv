@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	541907	1	1	902	1	Josef	Dědek	M			36	dělník	Kounov	99	80	0
-2112	541907	1	1	902	2	Petr	Dlouhý	M			48	invalidní důchodce	Kounov	99	80	0
-2112	541907	1	1	902	3	Pavel	Vlček	M			36	dělník	Kounov	99	80	0
-2112	541907	1	1	902	4	Jiří	Zuska	M			45	soukromý podnikatel	Kounov	99	80	0
-2112	541907	1	1	902	5	Martin	Pochman	M			27	dělník	Kounov	99	80	0
-2112	541907	1	1	902	6	Vojtěch	Pitař	M			28	dělník	Kounov	99	80	0
-2112	541907	1	1	902	7	Pavel	Musich	M			50	dělník	Kounov	99	80	0
-2112	541907	1	2	801	1	Renata	Vostrá	F			36	projektový manažer	Kounov	99	80	0
-2112	541907	1	3	901	1	Antonín	Ryska	M	Ing.		51	konstruktér	Kounov	99	80	0
-2112	541907	1	3	901	2	Andrea	Holátková	F			33	vedoucí pošty	Kounov	99	80	0
-2112	541907	1	3	901	3	Josef	Hajný	M			51	zedník	Kounov	99	80	0
-2112	541907	1	3	901	4	Jitka	Porcalová	F			36	zdravotní sestra	Kounov	99	80	0
-2112	541907	1	3	901	5	Pavel	Himmel	M			42	prodavač	Kounov	99	80	0
-2112	541907	1	3	901	6	Václav	Višner	M			56	zedník	Kounov	99	80	0
-2112	541907	1	3	901	7	Radek	Černý	M			31	elektrikář	Kounov	99	80	0
-2112	541907	1	3	901	8	Ladislav	Hes	M			30	obráběč kovů	Kounov	99	80	0
-2112	541907	1	3	901	9	Lenka	Pleierová	F			34	obchodní referentka	Kounov	99	80	0
-2112	541907	1	4	47	1	Dana	Bechynská	F	Ing.		55	státní zaměstnanec	Kounov	99	47	0
-2112	541907	1	4	47	2	Jan	Turšner	M			62	mechanizátor	Kounov	47	47	0
-2112	541907	1	4	47	3	Jan	Libra	M			52	opravář	Kounov	47	47	0
-2112	541907	1	4	47	4	Bohumil	Machač	M			49	státní zaměstnanec	Kounov	99	47	0
-2112	541907	1	4	47	5	Pavel	Kukla	M			43	opravář	Kounov	99	47	0
-2112	541907	1	4	47	6	Jaroslav	Pipek	M			36	dělník	Kounov	99	47	0
-2112	541907	1	4	47	7	Václav	Smola	M			51	dělník	Kounov	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	541907	1	1	902	1	Josef	Dědek			36	dělník	Kounov	99	80	0	M
+2112	541907	1	2	801	1	Renata	Vostrá			36	projektový manažer	Kounov	99	80	0	F
+2112	541907	1	3	901	1	Antonín	Ryska	Ing.		51	konstruktér	Kounov	99	80	0	M
+2112	541907	1	4	47	1	Dana	Bechynská	Ing.		55	státní zaměstnanec	Kounov	99	47	0	F
+2112	541907	1	1	902	2	Petr	Dlouhý			48	invalidní důchodce	Kounov	99	80	0	M
+2112	541907	1	3	901	2	Andrea	Holátková			33	vedoucí pošty	Kounov	99	80	0	F
+2112	541907	1	4	47	2	Jan	Turšner			62	mechanizátor	Kounov	47	47	0	M
+2112	541907	1	1	902	3	Pavel	Vlček			36	dělník	Kounov	99	80	0	M
+2112	541907	1	3	901	3	Josef	Hajný			51	zedník	Kounov	99	80	0	M
+2112	541907	1	4	47	3	Jan	Libra			52	opravář	Kounov	47	47	0	M
+2112	541907	1	1	902	4	Jiří	Zuska			45	soukromý podnikatel	Kounov	99	80	0	M
+2112	541907	1	3	901	4	Jitka	Porcalová			36	zdravotní sestra	Kounov	99	80	0	F
+2112	541907	1	4	47	4	Bohumil	Machač			49	státní zaměstnanec	Kounov	99	47	0	M
+2112	541907	1	1	902	5	Martin	Pochman			27	dělník	Kounov	99	80	0	M
+2112	541907	1	3	901	5	Pavel	Himmel			42	prodavač	Kounov	99	80	0	M
+2112	541907	1	4	47	5	Pavel	Kukla			43	opravář	Kounov	99	47	0	M
+2112	541907	1	1	902	6	Vojtěch	Pitař			28	dělník	Kounov	99	80	0	M
+2112	541907	1	3	901	6	Václav	Višner			56	zedník	Kounov	99	80	0	M
+2112	541907	1	4	47	6	Jaroslav	Pipek			36	dělník	Kounov	99	47	0	M
+2112	541907	1	1	902	7	Pavel	Musich			50	dělník	Kounov	99	80	0	M
+2112	541907	1	3	901	7	Radek	Černý			31	elektrikář	Kounov	99	80	0	M
+2112	541907	1	4	47	7	Václav	Smola			51	dělník	Kounov	99	47	0	M
+2112	541907	1	3	901	8	Ladislav	Hes			30	obráběč kovů	Kounov	99	80	0	M
+2112	541907	1	3	901	9	Lenka	Pleierová			34	obchodní referentka	Kounov	99	80	0	F

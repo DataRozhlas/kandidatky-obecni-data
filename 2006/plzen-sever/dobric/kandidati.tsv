@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3205	558770	1	1	902	1	Jaroslav	Matoušek	M			42	technik	Dobříč	99	80	0
-3205	558770	1	1	902	2	Milan	Šimandl	M			40	automechanik	Dobříč	99	80	0
-3205	558770	1	1	902	3	Václav	Vlk	M			31	automechanik	Dobříč	99	80	0
-3205	558770	1	1	902	4	Dušan	Krofta	M			27	technik	Dobříč	99	80	0
-3205	558770	1	1	902	5	Roman	Slach	M			37	zámečník	Dobříč	99	80	0
-3205	558770	1	2	901	1	Stanislav	Kovář	M			52	technik	Dobříč	99	80	0
-3205	558770	1	2	901	2	Václav	Lomička	M			58	technik	Dobříč	99	80	0
-3205	558770	1	2	901	3	Václav	Schneider	M			52	zedník	Dobříč	99	80	0
-3205	558770	1	2	901	4	Jiří	Vitouš	M	Ing.		48	správce počítačové sítě	Dobříč	99	80	0
-3205	558770	1	2	901	5	Zdeněk	Dyk	M			42	údržbář	Dobříč	99	80	0
-3205	558770	1	2	901	6	Martin	Žákovec	M	Ing.		34	hlavní mechanik	Dobříč	99	80	0
-3205	558770	1	2	901	7	Martin	Liška	M			38	technik-laborant	Dobříč	99	80	0
-3205	558770	1	2	901	8	Ivana	Čechová	F			44	zdravotní sestra	Dobříč	99	80	0
-3205	558770	1	2	901	9	Iva	Slachová	F			35	zdravotní sestra	Dobříč	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3205	558770	1	1	902	1	Jaroslav	Matoušek			42	technik	Dobříč	99	80	0	M
+3205	558770	1	2	901	1	Stanislav	Kovář			52	technik	Dobříč	99	80	0	M
+3205	558770	1	1	902	2	Milan	Šimandl			40	automechanik	Dobříč	99	80	0	M
+3205	558770	1	2	901	2	Václav	Lomička			58	technik	Dobříč	99	80	0	M
+3205	558770	1	1	902	3	Václav	Vlk			31	automechanik	Dobříč	99	80	0	M
+3205	558770	1	2	901	3	Václav	Schneider			52	zedník	Dobříč	99	80	0	M
+3205	558770	1	1	902	4	Dušan	Krofta			27	technik	Dobříč	99	80	0	M
+3205	558770	1	2	901	4	Jiří	Vitouš	Ing.		48	správce počítačové sítě	Dobříč	99	80	0	M
+3205	558770	1	1	902	5	Roman	Slach			37	zámečník	Dobříč	99	80	0	M
+3205	558770	1	2	901	5	Zdeněk	Dyk			42	údržbář	Dobříč	99	80	0	M
+3205	558770	1	2	901	6	Martin	Žákovec	Ing.		34	hlavní mechanik	Dobříč	99	80	0	M
+3205	558770	1	2	901	7	Martin	Liška			38	technik-laborant	Dobříč	99	80	0	M
+3205	558770	1	2	901	8	Ivana	Čechová			44	zdravotní sestra	Dobříč	99	80	0	F
+3205	558770	1	2	901	9	Iva	Slachová			35	zdravotní sestra	Dobříč	99	80	0	F

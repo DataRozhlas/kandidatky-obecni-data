@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	593184	1	1	901	1	Anežka	Neužilová	F	Ing.		64	podnikatel	Kožušice	99	80	A
-6206	593184	1	1	901	2	Kateřina	Bečkovská	F			36	asistent pedagoga	Kožušice	99	80	A
-6206	593184	1	1	901	3	Karel	Vašák	M			52	dělník	Kožušice	99	80	A
-6206	593184	1	1	901	4	Milan	Viktoryn	M			49	opravář	Kožušice	99	80	A
-6206	593184	1	1	901	5	František	Kotolan	M			75	důchodce	Kožušice	99	80	A
-6206	593184	1	1	901	6	Jozef	Vass	M			62	dělník	Kožušice	99	80	A
-6206	593184	1	1	901	7	Karel	Vašák	M			30	dělník	Kožušice	99	80	A
-6206	593184	1	2	902	1	Vojtěch	Kryštof	M	Ing.		66	důchodce	Kožušice	99	80	A
-6206	593184	1	2	902	2	Jiří	Kubáček	M			52	skladník	Kožušice	99	80	A
-6206	593184	1	2	902	3	Jitka	Černá	F			48	účetní	Kožušice	99	80	A
-6206	593184	1	2	902	4	Helena	Formanová	F			50	OSVČ	Kožušice	99	80	A
-6206	593184	1	2	902	5	Rostislav	Zatloukal	M			52	OSVČ	Kožušice	99	80	A
-6206	593184	1	2	902	6	Robin	Forman	M			27	programátor CNC strojů	Kožušice	99	80	A
-6206	593184	1	2	902	7	Kateřina	Černá	F			22	studentka	Kožušice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	593184	1	1	901	1	Anežka	Neužilová	Ing.		64	podnikatel	Kožušice	99	80	A	F
+6206	593184	1	2	902	1	Vojtěch	Kryštof	Ing.		66	důchodce	Kožušice	99	80	A	M
+6206	593184	1	1	901	2	Kateřina	Bečkovská			36	asistent pedagoga	Kožušice	99	80	A	F
+6206	593184	1	2	902	2	Jiří	Kubáček			52	skladník	Kožušice	99	80	A	M
+6206	593184	1	1	901	3	Karel	Vašák			52	dělník	Kožušice	99	80	A	M
+6206	593184	1	2	902	3	Jitka	Černá			48	účetní	Kožušice	99	80	A	F
+6206	593184	1	1	901	4	Milan	Viktoryn			49	opravář	Kožušice	99	80	A	M
+6206	593184	1	2	902	4	Helena	Formanová			50	OSVČ	Kožušice	99	80	A	F
+6206	593184	1	1	901	5	František	Kotolan			75	důchodce	Kožušice	99	80	A	M
+6206	593184	1	2	902	5	Rostislav	Zatloukal			52	OSVČ	Kožušice	99	80	A	M
+6206	593184	1	1	901	6	Jozef	Vass			62	dělník	Kožušice	99	80	A	M
+6206	593184	1	2	902	6	Robin	Forman			27	programátor CNC strojů	Kožušice	99	80	A	M
+6206	593184	1	1	901	7	Karel	Vašák			30	dělník	Kožušice	99	80	A	M
+6206	593184	1	2	902	7	Kateřina	Černá			22	studentka	Kožušice	99	80	A	F

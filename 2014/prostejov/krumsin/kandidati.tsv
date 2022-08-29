@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589667	1	1	1	1	David	Janeček	M	Bc.		28	odborný poradce ve stavebnictví	Krumsín	99	1	0
-7103	589667	1	1	1	2	Martin	Dvořák	M	Ing.		34	geodet	Krumsín	99	1	0
-7103	589667	1	1	1	3	Simona	Vlachová	F			39	referentka expedice	Krumsín	99	1	0
-7103	589667	1	1	1	4	Petr	Janeček	M	RNDr.		41	zástupce ředitele gymnázia	Krumsín	99	1	0
-7103	589667	1	1	1	5	Taťána	Zádrapová	F	Ing.		46	pracovnice kontrolního oddělení krajského úřadu	Krumsín	99	1	0
-7103	589667	1	1	1	6	Jaroslav	Hudeček	M			62	technik	Krumsín	99	1	0
-7103	589667	1	1	1	7	Naděžda	Fidrmucová	F			57	učitelka	Krumsín	99	1	0
-7103	589667	1	1	1	8	Dana	Frélichová	F			50	učitelka	Krumsín	99	1	0
-7103	589667	1	1	1	9	Jaroslav	Fidrmuc	M	Mgr.		56	náměstek ministra	Krumsín	1	1	0
-7103	589667	1	2	901	1	Robert	Pírek	M			48	OSVČ	Krumsín	99	80	0
-7103	589667	1	2	901	2	Karel	Bureš	M	Ing.		34	OSVČ	Krumsín	99	80	0
-7103	589667	1	2	901	3	Petra	Mečířová	F	Ing.		43	OSVČ	Krumsín	99	80	0
-7103	589667	1	2	901	4	Tomáš	Vlach	M			36	mistr v truhlářské výrobě	Krumsín	99	80	0
-7103	589667	1	2	901	5	Karel	Melka	M			44	OSVČ	Krumsín	99	80	0
-7103	589667	1	2	901	6	Jana	Koutná	F			36	prodavačka, rodičovská dovolená	Krumsín	99	80	0
-7103	589667	1	2	901	7	Martina	Pírková	F			43	prodavačka	Krumsín	99	80	0
-7103	589667	1	2	901	8	Josef	Kocourek	M			72	důchodce	Krumsín	99	80	0
-7103	589667	1	2	901	9	Josef	Maier	M			64	důchodce	Krumsín	99	80	0
-7103	589667	1	3	902	1	Jaroslav	Střelák	M	Mgr.		51	starosta obce	Krumsín	99	80	0
-7103	589667	1	3	902	2	Jaromír	Vymazal	M			48	elektrikář	Krumsín	99	80	0
-7103	589667	1	3	902	3	Hana	Hradečná	F			52	ředitelka MŠ	Krumsín	99	80	0
-7103	589667	1	3	902	4	Pavla	Sekaninová	F			43	OSVČ	Krumsín	99	80	0
-7103	589667	1	3	902	5	Jana	Krpcová	F			58	kuchařka	Krumsín	99	80	0
-7103	589667	1	3	902	6	Karel	Vlach	M			41	technolog	Krumsín	99	80	0
-7103	589667	1	3	902	7	Dušan	Mrkva	M	Ing.		52	mistr	Krumsín	99	80	0
-7103	589667	1	3	902	8	Věra	Selucká	F			28	zapisovatelka	Krumsín	99	80	0
-7103	589667	1	3	902	9	Miroslav	Sekanina	M			47	zámečník	Krumsín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589667	1	1	1	1	David	Janeček	Bc.		28	odborný poradce ve stavebnictví	Krumsín	99	1	0	M
+7103	589667	1	2	901	1	Robert	Pírek			48	OSVČ	Krumsín	99	80	0	M
+7103	589667	1	3	902	1	Jaroslav	Střelák	Mgr.		51	starosta obce	Krumsín	99	80	0	M
+7103	589667	1	1	1	2	Martin	Dvořák	Ing.		34	geodet	Krumsín	99	1	0	M
+7103	589667	1	2	901	2	Karel	Bureš	Ing.		34	OSVČ	Krumsín	99	80	0	M
+7103	589667	1	3	902	2	Jaromír	Vymazal			48	elektrikář	Krumsín	99	80	0	M
+7103	589667	1	1	1	3	Simona	Vlachová			39	referentka expedice	Krumsín	99	1	0	F
+7103	589667	1	2	901	3	Petra	Mečířová	Ing.		43	OSVČ	Krumsín	99	80	0	F
+7103	589667	1	3	902	3	Hana	Hradečná			52	ředitelka MŠ	Krumsín	99	80	0	F
+7103	589667	1	1	1	4	Petr	Janeček	RNDr.		41	zástupce ředitele gymnázia	Krumsín	99	1	0	M
+7103	589667	1	2	901	4	Tomáš	Vlach			36	mistr v truhlářské výrobě	Krumsín	99	80	0	M
+7103	589667	1	3	902	4	Pavla	Sekaninová			43	OSVČ	Krumsín	99	80	0	F
+7103	589667	1	1	1	5	Taťána	Zádrapová	Ing.		46	pracovnice kontrolního oddělení krajského úřadu	Krumsín	99	1	0	F
+7103	589667	1	2	901	5	Karel	Melka			44	OSVČ	Krumsín	99	80	0	M
+7103	589667	1	3	902	5	Jana	Krpcová			58	kuchařka	Krumsín	99	80	0	F
+7103	589667	1	1	1	6	Jaroslav	Hudeček			62	technik	Krumsín	99	1	0	M
+7103	589667	1	2	901	6	Jana	Koutná			36	prodavačka, rodičovská dovolená	Krumsín	99	80	0	F
+7103	589667	1	3	902	6	Karel	Vlach			41	technolog	Krumsín	99	80	0	M
+7103	589667	1	1	1	7	Naděžda	Fidrmucová			57	učitelka	Krumsín	99	1	0	F
+7103	589667	1	2	901	7	Martina	Pírková			43	prodavačka	Krumsín	99	80	0	F
+7103	589667	1	3	902	7	Dušan	Mrkva	Ing.		52	mistr	Krumsín	99	80	0	M
+7103	589667	1	1	1	8	Dana	Frélichová			50	učitelka	Krumsín	99	1	0	F
+7103	589667	1	2	901	8	Josef	Kocourek			72	důchodce	Krumsín	99	80	0	M
+7103	589667	1	3	902	8	Věra	Selucká			28	zapisovatelka	Krumsín	99	80	0	F
+7103	589667	1	1	1	9	Jaroslav	Fidrmuc	Mgr.		56	náměstek ministra	Krumsín	1	1	0	M
+7103	589667	1	2	901	9	Josef	Maier			64	důchodce	Krumsín	99	80	0	M
+7103	589667	1	3	902	9	Miroslav	Sekanina			47	zámečník	Krumsín	99	80	0	M

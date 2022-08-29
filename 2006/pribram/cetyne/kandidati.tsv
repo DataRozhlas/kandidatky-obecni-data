@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	564419	1	1	1	1	Marie	Kalová	F			57	důchodce	Cetyně-Hatě	1	1	0
-2111	564419	1	1	1	2	Václav	Řezáč	M			44	živnostník	Cetyně	99	1	0
-2111	564419	1	1	1	3	Ivana	Petříková	F			33	referentka-na MD	Cetyně	99	1	0
-2111	564419	1	1	1	4	Jitka	Diartová	F			37	referentka	Cetyně	99	1	0
-2111	564419	1	1	1	5	Jana	Kroupová	F			42	ošetřovatelka dojnic	Cetyně	99	1	0
-2111	564419	1	1	1	6	Marie	Kloubská	F			57	administrativní pracovnice	Cetyně	99	1	0
-2111	564419	1	1	1	7	Vladimír	Novotný	M			69	důchodce	Cetyně-Hatě	99	1	0
-2111	564419	1	2	47	1	Miroslav	Pospíšil	M			59	důchodce	Cetyně	47	47	0
-2111	564419	1	2	47	2	Miloslav	Mach	M			60	traktorista	Cetyně	47	47	0
-2111	564419	1	2	47	3	Věra	Pospíšilová	F			27	dělnice	Cetyně	99	47	0
-2111	564419	1	2	47	4	Libor	Pospíšil	M			33	traktorista	Cetyně	99	47	0
-2111	564419	1	2	47	5	Pavel	Fiala	M			23	traktorista	Cetyně	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	564419	1	1	1	1	Marie	Kalová			57	důchodce	Cetyně-Hatě	1	1	0	F
+2111	564419	1	2	47	1	Miroslav	Pospíšil			59	důchodce	Cetyně	47	47	0	M
+2111	564419	1	1	1	2	Václav	Řezáč			44	živnostník	Cetyně	99	1	0	M
+2111	564419	1	2	47	2	Miloslav	Mach			60	traktorista	Cetyně	47	47	0	M
+2111	564419	1	1	1	3	Ivana	Petříková			33	referentka-na MD	Cetyně	99	1	0	F
+2111	564419	1	2	47	3	Věra	Pospíšilová			27	dělnice	Cetyně	99	47	0	F
+2111	564419	1	1	1	4	Jitka	Diartová			37	referentka	Cetyně	99	1	0	F
+2111	564419	1	2	47	4	Libor	Pospíšil			33	traktorista	Cetyně	99	47	0	M
+2111	564419	1	1	1	5	Jana	Kroupová			42	ošetřovatelka dojnic	Cetyně	99	1	0	F
+2111	564419	1	2	47	5	Pavel	Fiala			23	traktorista	Cetyně	99	47	0	M
+2111	564419	1	1	1	6	Marie	Kloubská			57	administrativní pracovnice	Cetyně	99	1	0	F
+2111	564419	1	1	1	7	Vladimír	Novotný			69	důchodce	Cetyně-Hatě	99	1	0	M

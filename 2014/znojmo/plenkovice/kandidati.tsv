@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	550051	1	1	1	1	Alois	Vybíral	M	Ing.		62	náměstek ředitele	Plenkovice	1	1	0
-6207	550051	1	1	1	2	Petr	Holcmann	M			40	dělník	Plenkovice	99	1	0
-6207	550051	1	1	1	3	Vladimíra	Poláková	F	Mgr.		31	učitelka	Plenkovice	99	1	0
-6207	550051	1	1	1	4	Bohumír	Klempa	M			44	technik	Plenkovice	99	1	0
-6207	550051	1	1	1	5	Lukáš	Holcmann	M			29	dělník	Plenkovice	99	1	0
-6207	550051	1	1	1	6	Jindřiška	Nevrklová	F	Mgr.		30	učitelka	Plenkovice	99	1	0
-6207	550051	1	1	1	7	Hedvika	Poláková	F			54	dělnice	Plenkovice	99	1	0
-6207	550051	1	1	1	8	Vojtěch	Vybíral	M	Ing.		35	stavbyvedoucí	Plenkovice	99	1	0
-6207	550051	1	2	901	1	Pavel	Polák	M			27	strojvedoucí ČD	Plenkovice	99	80	0
-6207	550051	1	2	901	2	Tomáš	Hellman	M			26	OSVČ	Plenkovice	99	80	0
-6207	550051	1	2	901	3	Boris	Kyněra	M			38	obraběč kovů	Plenkovice	99	80	0
-6207	550051	1	2	901	4	Blanka	Vocilková	F			40	prodavačka	Plenkovice	99	80	0
-6207	550051	1	2	901	5	Kamil	Polák	M			37	čalouník	Plenkovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	550051	1	1	1	1	Alois	Vybíral	Ing.		62	náměstek ředitele	Plenkovice	1	1	0	M
+6207	550051	1	2	901	1	Pavel	Polák			27	strojvedoucí ČD	Plenkovice	99	80	0	M
+6207	550051	1	1	1	2	Petr	Holcmann			40	dělník	Plenkovice	99	1	0	M
+6207	550051	1	2	901	2	Tomáš	Hellman			26	OSVČ	Plenkovice	99	80	0	M
+6207	550051	1	1	1	3	Vladimíra	Poláková	Mgr.		31	učitelka	Plenkovice	99	1	0	F
+6207	550051	1	2	901	3	Boris	Kyněra			38	obraběč kovů	Plenkovice	99	80	0	M
+6207	550051	1	1	1	4	Bohumír	Klempa			44	technik	Plenkovice	99	1	0	M
+6207	550051	1	2	901	4	Blanka	Vocilková			40	prodavačka	Plenkovice	99	80	0	F
+6207	550051	1	1	1	5	Lukáš	Holcmann			29	dělník	Plenkovice	99	1	0	M
+6207	550051	1	2	901	5	Kamil	Polák			37	čalouník	Plenkovice	99	80	0	M
+6207	550051	1	1	1	6	Jindřiška	Nevrklová	Mgr.		30	učitelka	Plenkovice	99	1	0	F
+6207	550051	1	1	1	7	Hedvika	Poláková			54	dělnice	Plenkovice	99	1	0	F
+6207	550051	1	1	1	8	Vojtěch	Vybíral	Ing.		35	stavbyvedoucí	Plenkovice	99	1	0	M

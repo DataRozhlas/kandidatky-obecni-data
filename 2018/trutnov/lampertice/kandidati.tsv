@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	548804	1	1	903	1	Marián	Vondrák	M			45	zaměstnanec Městského úřadu	Lampertice	99	80	A
-5205	548804	1	1	903	2	Ladislav	Brožek	M			49	OSVČ	Lampertice	99	80	A
-5205	548804	1	1	903	3	Miloslav	Jančuk	M			53	OSVČ	Lampertice	99	80	A
-5205	548804	1	1	903	4	Klaudie	Jančuková	F			51	dělnice	Lampertice	99	80	A
-5205	548804	1	1	903	5	Libor	Srbený	M			46	dělník	Lampertice	99	80	A
-5205	548804	1	1	903	6	Petr	Bárta	M			53	dělník	Lampertice	99	80	A
-5205	548804	1	1	903	7	Marek	Jančuk	M			26	dělník	Lampertice	99	80	A
-5205	548804	1	2	902	1	Marek	Bednář	M			46	zaměstnanec	Lampertice	99	80	A
-5205	548804	1	2	902	2	Jaroslav	Hušek	M			51	OSVČ	Lampertice	99	80	A
-5205	548804	1	2	902	3	Jana	Obertová	F			68	důchodce	Lampertice	99	80	A
-5205	548804	1	2	902	4	Miroslav	Gubanec	M			32	zaměstnanec	Lampertice	99	80	A
-5205	548804	1	2	902	5	Marek	Bednář ml.	M			20	zaměstnanec	Lampertice	99	80	A
-5205	548804	1	2	902	6	Marika	Luštincová	F			43	zaměstnanec	Lampertice	99	80	A
-5205	548804	1	2	902	7	Vlastimil	Illner	M			49	zaměstnanec	Lampertice	99	80	A
-5205	548804	1	2	902	8	Blanka	Bednářová	F			49	důchodce	Lampertice	99	80	A
-5205	548804	1	3	901	1	Jiří	Láš	M			47	zaměstnanec	Lampertice	99	80	A
-5205	548804	1	3	901	2	Tomáš	Dlouhý	M			30	OSVČ	Lampertice	99	80	A
-5205	548804	1	3	901	3	Vendula	Švejdarová	F			54	zaměstnanec	Lampertice	99	80	A
-5205	548804	1	3	901	4	Aleš	Rudolf	M			45	zaměstnanec	Lampertice	99	80	A
-5205	548804	1	3	901	5	Jakub	Drábek	M			43	OSVČ	Lampertice	99	80	A
-5205	548804	1	3	901	6	Iveta	Hodasová	F			54	zaměstnanec	Lampertice	99	80	A
-5205	548804	1	3	901	7	Jiří	Vích	M			53	zaměstnanec	Lampertice	99	80	A
-5205	548804	1	3	901	8	Marta	Hradecká	F			37	zaměstnanec	Lampertice	99	80	A
-5205	548804	1	3	901	9	Taťána	Pilná	F			54	zaměstnanec	Lampertice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	548804	1	1	903	1	Marián	Vondrák			45	zaměstnanec Městského úřadu	Lampertice	99	80	A	M
+5205	548804	1	2	902	1	Marek	Bednář			46	zaměstnanec	Lampertice	99	80	A	M
+5205	548804	1	3	901	1	Jiří	Láš			47	zaměstnanec	Lampertice	99	80	A	M
+5205	548804	1	1	903	2	Ladislav	Brožek			49	OSVČ	Lampertice	99	80	A	M
+5205	548804	1	2	902	2	Jaroslav	Hušek			51	OSVČ	Lampertice	99	80	A	M
+5205	548804	1	3	901	2	Tomáš	Dlouhý			30	OSVČ	Lampertice	99	80	A	M
+5205	548804	1	1	903	3	Miloslav	Jančuk			53	OSVČ	Lampertice	99	80	A	M
+5205	548804	1	2	902	3	Jana	Obertová			68	důchodce	Lampertice	99	80	A	F
+5205	548804	1	3	901	3	Vendula	Švejdarová			54	zaměstnanec	Lampertice	99	80	A	F
+5205	548804	1	1	903	4	Klaudie	Jančuková			51	dělnice	Lampertice	99	80	A	F
+5205	548804	1	2	902	4	Miroslav	Gubanec			32	zaměstnanec	Lampertice	99	80	A	M
+5205	548804	1	3	901	4	Aleš	Rudolf			45	zaměstnanec	Lampertice	99	80	A	M
+5205	548804	1	1	903	5	Libor	Srbený			46	dělník	Lampertice	99	80	A	M
+5205	548804	1	2	902	5	Marek	Bednář ml.			20	zaměstnanec	Lampertice	99	80	A	M
+5205	548804	1	3	901	5	Jakub	Drábek			43	OSVČ	Lampertice	99	80	A	M
+5205	548804	1	1	903	6	Petr	Bárta			53	dělník	Lampertice	99	80	A	M
+5205	548804	1	2	902	6	Marika	Luštincová			43	zaměstnanec	Lampertice	99	80	A	F
+5205	548804	1	3	901	6	Iveta	Hodasová			54	zaměstnanec	Lampertice	99	80	A	F
+5205	548804	1	1	903	7	Marek	Jančuk			26	dělník	Lampertice	99	80	A	M
+5205	548804	1	2	902	7	Vlastimil	Illner			49	zaměstnanec	Lampertice	99	80	A	M
+5205	548804	1	3	901	7	Jiří	Vích			53	zaměstnanec	Lampertice	99	80	A	M
+5205	548804	1	2	902	8	Blanka	Bednářová			49	důchodce	Lampertice	99	80	A	F
+5205	548804	1	3	901	8	Marta	Hradecká			37	zaměstnanec	Lampertice	99	80	A	F
+5205	548804	1	3	901	9	Taťána	Pilná			54	zaměstnanec	Lampertice	99	80	A	F

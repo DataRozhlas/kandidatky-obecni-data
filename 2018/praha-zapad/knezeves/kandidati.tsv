@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	539384	1	1	901	1	Stanislav	Kettner	M			73	důchodce	Kněževes	47	80	A
-2110	539384	1	1	901	2	Václava	Vlčková	F	Ing.		61	učitelka	Kněževes	99	80	A
-2110	539384	1	1	901	3	Petr	Dobiáš	M			44	podnikatel	Kněževes	99	80	A
-2110	539384	1	1	901	4	Milan	Červený	M			44	podnikatel	Kněževes	99	80	A
-2110	539384	1	1	901	5	Stanislav	Poklop	M	Ing.		60	úředník	Kněževes	99	80	A
-2110	539384	1	1	901	6	Jan	Drábek	M			30	mechanik	Kněževes	99	80	A
-2110	539384	1	1	901	7	Pavel	Kratochvíl	M			59	řidič	Kněževes	99	80	A
-2110	539384	1	1	901	8	Bohdana	Pavlíková	F			62	prodavačka	Kněževes	99	80	A
-2110	539384	1	1	901	9	Ivana	Roučková	F			54	učitelka	Kněževes	99	80	A
-2110	539384	1	1	901	10	Jakub	Šebesta	M			28	skladník	Kněževes	99	80	A
-2110	539384	1	1	901	11	Ondrej	Dojcsan	M	JUDr.		77	důchodce	Kněževes	99	80	A
-2110	539384	1	1	901	12	Jiří	Kettner	M			41	podnikatel	Kněževes	99	80	A
-2110	539384	1	1	901	13	Alexandr	Valentko	M			53	podnikatel	Kněževes	99	80	A
-2110	539384	1	1	901	14	Robert	Souček	M			55	operátor	Kněževes	99	80	A
-2110	539384	1	1	901	15	Luděk	Černý	M	Mgr.		58	obchodní ředitel	Kněževes	99	80	A
-2110	539384	1	2	389	1	Ondřej	Botka	M			37	zastupitel, podnikatel	Kněževes	53	53	A
-2110	539384	1	2	389	2	Tomáš	Seiner	M			34	zastupitel, manažer v autopůjčovně	Kněževes	53	53	A
-2110	539384	1	2	389	3	Václav	Čefelín	M			55	zastupitel, řidič	Kněževes	99	80	A
-2110	539384	1	2	389	4	Petra	Adamčíková	F	Ing.		35	bankovní specialista	Kněževes	99	80	A
-2110	539384	1	2	389	5	Vladimír	Bareš	M	Ing.		46	zastupitel, manažer v bankovnictví	Kněževes	99	80	A
-2110	539384	1	2	389	6	Pavel	Čermák	M			46	živnostník	Kněževes	99	80	A
-2110	539384	1	2	389	7	Ivana	Plevová	F	Ing.		55	specialista přepravy	Kněževes	99	80	A
-2110	539384	1	2	389	8	Pavel	Dvořák	M			46	živnostník	Kněževes	99	80	A
-2110	539384	1	2	389	9	Vítek	Pejcl	M			40	letecký dispečer	Kněževes	99	80	A
-2110	539384	1	2	389	10	Jana	Preclíková	F	Ing.		41	dispečer mezinárodní přepravy	Kněževes	99	80	A
-2110	539384	1	2	389	11	Alena	Hašplová	F			45	podnikatel	Kněževes	53	53	A
-2110	539384	1	2	389	12	Miroslav	Filikar	M			50	živnostník	Kněževes	99	80	A
-2110	539384	1	2	389	13	Miroslav	Kubr	M			67	důchodce	Kněževes	99	80	A
-2110	539384	1	2	389	14	Bohumil	Trojan	M	Ing.		69	důchodce	Kněževes	99	80	A
-2110	539384	1	2	389	15	Roman	Diviš	M			46	živnostník	Kněževes	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	539384	1	1	901	1	Stanislav	Kettner			73	důchodce	Kněževes	47	80	A	M
+2110	539384	1	2	389	1	Ondřej	Botka			37	zastupitel, podnikatel	Kněževes	53	53	A	M
+2110	539384	1	1	901	2	Václava	Vlčková	Ing.		61	učitelka	Kněževes	99	80	A	F
+2110	539384	1	2	389	2	Tomáš	Seiner			34	zastupitel, manažer v autopůjčovně	Kněževes	53	53	A	M
+2110	539384	1	1	901	3	Petr	Dobiáš			44	podnikatel	Kněževes	99	80	A	M
+2110	539384	1	2	389	3	Václav	Čefelín			55	zastupitel, řidič	Kněževes	99	80	A	M
+2110	539384	1	1	901	4	Milan	Červený			44	podnikatel	Kněževes	99	80	A	M
+2110	539384	1	2	389	4	Petra	Adamčíková	Ing.		35	bankovní specialista	Kněževes	99	80	A	F
+2110	539384	1	1	901	5	Stanislav	Poklop	Ing.		60	úředník	Kněževes	99	80	A	M
+2110	539384	1	2	389	5	Vladimír	Bareš	Ing.		46	zastupitel, manažer v bankovnictví	Kněževes	99	80	A	M
+2110	539384	1	1	901	6	Jan	Drábek			30	mechanik	Kněževes	99	80	A	M
+2110	539384	1	2	389	6	Pavel	Čermák			46	živnostník	Kněževes	99	80	A	M
+2110	539384	1	1	901	7	Pavel	Kratochvíl			59	řidič	Kněževes	99	80	A	M
+2110	539384	1	2	389	7	Ivana	Plevová	Ing.		55	specialista přepravy	Kněževes	99	80	A	F
+2110	539384	1	1	901	8	Bohdana	Pavlíková			62	prodavačka	Kněževes	99	80	A	F
+2110	539384	1	2	389	8	Pavel	Dvořák			46	živnostník	Kněževes	99	80	A	M
+2110	539384	1	1	901	9	Ivana	Roučková			54	učitelka	Kněževes	99	80	A	F
+2110	539384	1	2	389	9	Vítek	Pejcl			40	letecký dispečer	Kněževes	99	80	A	M
+2110	539384	1	1	901	10	Jakub	Šebesta			28	skladník	Kněževes	99	80	A	M
+2110	539384	1	2	389	10	Jana	Preclíková	Ing.		41	dispečer mezinárodní přepravy	Kněževes	99	80	A	F
+2110	539384	1	1	901	11	Ondrej	Dojcsan	JUDr.		77	důchodce	Kněževes	99	80	A	M
+2110	539384	1	2	389	11	Alena	Hašplová			45	podnikatel	Kněževes	53	53	A	F
+2110	539384	1	1	901	12	Jiří	Kettner			41	podnikatel	Kněževes	99	80	A	M
+2110	539384	1	2	389	12	Miroslav	Filikar			50	živnostník	Kněževes	99	80	A	M
+2110	539384	1	1	901	13	Alexandr	Valentko			53	podnikatel	Kněževes	99	80	A	M
+2110	539384	1	2	389	13	Miroslav	Kubr			67	důchodce	Kněževes	99	80	A	M
+2110	539384	1	1	901	14	Robert	Souček			55	operátor	Kněževes	99	80	A	M
+2110	539384	1	2	389	14	Bohumil	Trojan	Ing.		69	důchodce	Kněževes	99	80	A	M
+2110	539384	1	1	901	15	Luděk	Černý	Mgr.		58	obchodní ředitel	Kněževes	99	80	A	M
+2110	539384	1	2	389	15	Roman	Diviš			46	živnostník	Kněževes	99	80	A	M

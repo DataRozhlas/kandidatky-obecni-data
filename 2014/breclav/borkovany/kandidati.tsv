@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6204	584339	1	1	166	1	Radek	Valenta	M	Mgr.		44	starosta	Borkovany	99	166	0
-6204	584339	1	1	166	2	Dagmar	Strejčková	F	JUDr.		58	advokátka	Borkovany	99	166	0
-6204	584339	1	1	166	3	Zdeněk	Šebesta	M	Ing.		55	vedoucí STK	Borkovany	99	166	0
-6204	584339	1	1	166	4	Daniel	Rous	M			40	produktový specialista	Borkovany	99	166	0
-6204	584339	1	1	166	5	Jiří	Petlák	M			59	osoba samostatně výdělečně činná	Borkovany	99	166	0
-6204	584339	1	1	166	6	Jaroslav	Bedřich	M			42	osoba samostatně výdělečně činná	Borkovany	99	166	0
-6204	584339	1	1	166	7	Josef	Čiháček	M			57	technik	Borkovany	99	166	0
-6204	584339	1	1	166	8	Vilém	Podbřecký	M			40	technik zkušebny	Borkovany	99	166	0
-6204	584339	1	1	166	9	Vlastimil	Urban	M			51	pracovník strojní údržby	Borkovany	99	166	0
-6204	584339	1	2	1	1	Josef	Novák	M			59	revizní technik	Borkovany	1	1	0
-6204	584339	1	2	1	2	Aleš	Poláček	M	Mgr.		31	učitel odborného výcviku	Borkovany	99	1	0
-6204	584339	1	2	1	3	Petr	Bedřich	M			40	vedoucí obchodního oddělení	Borkovany	99	1	0
-6204	584339	1	2	1	4	Václav	Suchánek	M			31	skladník	Borkovany	99	1	0
-6204	584339	1	2	1	5	Antonín	Hrabec	M	Ing.		70	osoba samostatně výdělečně činná	Borkovany	1	1	0
-6204	584339	1	2	1	6	Vít	Novák	M			52	dělník	Borkovany	99	1	0
-6204	584339	1	2	1	7	Vlastimil	Bedřich	M			48	zámečník	Borkovany	99	1	0
-6204	584339	1	3	901	1	Pavel	Václavík	M			34	automechanik	Borkovany	99	80	0
-6204	584339	1	3	901	2	Jitka	Rousová	F	Mgr.		37	pedagog	Borkovany	99	80	0
-6204	584339	1	3	901	3	Marie	Měřínská	F			45	kuchařka	Borkovany	99	80	0
-6204	584339	1	3	901	4	Antonín	Geršl	M			60	řidič	Borkovany	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6204	584339	1	1	166	1	Radek	Valenta	Mgr.		44	starosta	Borkovany	99	166	0	M
+6204	584339	1	2	1	1	Josef	Novák			59	revizní technik	Borkovany	1	1	0	M
+6204	584339	1	3	901	1	Pavel	Václavík			34	automechanik	Borkovany	99	80	0	M
+6204	584339	1	1	166	2	Dagmar	Strejčková	JUDr.		58	advokátka	Borkovany	99	166	0	F
+6204	584339	1	2	1	2	Aleš	Poláček	Mgr.		31	učitel odborného výcviku	Borkovany	99	1	0	M
+6204	584339	1	3	901	2	Jitka	Rousová	Mgr.		37	pedagog	Borkovany	99	80	0	F
+6204	584339	1	1	166	3	Zdeněk	Šebesta	Ing.		55	vedoucí STK	Borkovany	99	166	0	M
+6204	584339	1	2	1	3	Petr	Bedřich			40	vedoucí obchodního oddělení	Borkovany	99	1	0	M
+6204	584339	1	3	901	3	Marie	Měřínská			45	kuchařka	Borkovany	99	80	0	F
+6204	584339	1	1	166	4	Daniel	Rous			40	produktový specialista	Borkovany	99	166	0	M
+6204	584339	1	2	1	4	Václav	Suchánek			31	skladník	Borkovany	99	1	0	M
+6204	584339	1	3	901	4	Antonín	Geršl			60	řidič	Borkovany	99	80	0	M
+6204	584339	1	1	166	5	Jiří	Petlák			59	osoba samostatně výdělečně činná	Borkovany	99	166	0	M
+6204	584339	1	2	1	5	Antonín	Hrabec	Ing.		70	osoba samostatně výdělečně činná	Borkovany	1	1	0	M
+6204	584339	1	1	166	6	Jaroslav	Bedřich			42	osoba samostatně výdělečně činná	Borkovany	99	166	0	M
+6204	584339	1	2	1	6	Vít	Novák			52	dělník	Borkovany	99	1	0	M
+6204	584339	1	1	166	7	Josef	Čiháček			57	technik	Borkovany	99	166	0	M
+6204	584339	1	2	1	7	Vlastimil	Bedřich			48	zámečník	Borkovany	99	1	0	M
+6204	584339	1	1	166	8	Vilém	Podbřecký			40	technik zkušebny	Borkovany	99	166	0	M
+6204	584339	1	1	166	9	Vlastimil	Urban			51	pracovník strojní údržby	Borkovany	99	166	0	M

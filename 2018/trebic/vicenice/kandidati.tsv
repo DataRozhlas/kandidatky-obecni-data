@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6104	588342	1	1	804	1	Bohumír	Tekale	M			44	hasič	Vícenice	99	80	A
-6104	588342	1	2	805	1	Tomáš	Chalupa	M			30	řidič	Vícenice	99	80	A
-6104	588342	1	3	806	1	Petr	Kremláček	M			35	traktorista	Vícenice	99	80	A
-6104	588342	1	4	901	1	Vítězslav	Krotký	M	Ing.		43	OSVČ projektant	Vícenice	99	80	A
-6104	588342	1	4	901	2	Dalibor	Vidourek	M			52	zedník	Vícenice	99	80	A
-6104	588342	1	4	901	3	Jiří	Tengeri	M		DiS.	35	skladník	Vícenice	99	80	A
-6104	588342	1	4	901	4	Stanislav	Brada	M	Ing.		29	manažer	Vícenice	99	80	A
-6104	588342	1	4	901	5	Jaroslav	Tengeri	M			28	policista	Vícenice	99	80	A
-6104	588342	1	4	901	6	Ludmila	Roupcová	F			46	uklízečka	Vícenice	99	80	A
-6104	588342	1	4	901	7	Simona	Mejzlíková	F	Bc.		28	asistentka pedagoga	Vícenice	99	80	A
-6104	588342	1	5	803	1	Jaroslav	Bačo	M			46	elektromechanik	Vícenice	99	80	A
-6104	588342	1	6	902	1	Jiří	Svoboda	M			22	student	Vícenice	99	80	A
-6104	588342	1	6	902	2	Roman	Roupec	M			25	živnostník	Vícenice	99	80	A
-6104	588342	1	6	902	3	Martin	Jeleček	M			22	řidič	Vícenice	99	80	A
-6104	588342	1	6	902	4	Monika	Tříletá	F			19	student	Vícenice	99	80	A
-6104	588342	1	6	902	5	Alena	Bačová	F			18	student	Vícenice	99	80	A
-6104	588342	1	6	902	6	Jana	Valíková	F			24	student	Vícenice	99	80	A
-6104	588342	1	6	902	7	Roman	Tříletý	M			22	logistik	Vícenice	99	80	A
-6104	588342	1	6	902	8	Michaela	Svobodová	F			24	student	Vícenice	99	80	A
-6104	588342	1	7	801	1	Jakub	Kalenda	M			31	truhlář	Vícenice	99	80	A
-6104	588342	1	8	802	1	Andrea	Svobodová	F			44	dělnice	Vícenice	99	80	A
-6104	588342	1	9	807	1	Marie	Dvořáková	F			48	účetní	Vícenice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6104	588342	1	1	804	1	Bohumír	Tekale			44	hasič	Vícenice	99	80	A	M
+6104	588342	1	2	805	1	Tomáš	Chalupa			30	řidič	Vícenice	99	80	A	M
+6104	588342	1	3	806	1	Petr	Kremláček			35	traktorista	Vícenice	99	80	A	M
+6104	588342	1	4	901	1	Vítězslav	Krotký	Ing.		43	OSVČ projektant	Vícenice	99	80	A	M
+6104	588342	1	5	803	1	Jaroslav	Bačo			46	elektromechanik	Vícenice	99	80	A	M
+6104	588342	1	6	902	1	Jiří	Svoboda			22	student	Vícenice	99	80	A	M
+6104	588342	1	7	801	1	Jakub	Kalenda			31	truhlář	Vícenice	99	80	A	M
+6104	588342	1	8	802	1	Andrea	Svobodová			44	dělnice	Vícenice	99	80	A	F
+6104	588342	1	9	807	1	Marie	Dvořáková			48	účetní	Vícenice	99	80	A	F
+6104	588342	1	4	901	2	Dalibor	Vidourek			52	zedník	Vícenice	99	80	A	M
+6104	588342	1	6	902	2	Roman	Roupec			25	živnostník	Vícenice	99	80	A	M
+6104	588342	1	4	901	3	Jiří	Tengeri		DiS.	35	skladník	Vícenice	99	80	A	M
+6104	588342	1	6	902	3	Martin	Jeleček			22	řidič	Vícenice	99	80	A	M
+6104	588342	1	4	901	4	Stanislav	Brada	Ing.		29	manažer	Vícenice	99	80	A	M
+6104	588342	1	6	902	4	Monika	Tříletá			19	student	Vícenice	99	80	A	F
+6104	588342	1	4	901	5	Jaroslav	Tengeri			28	policista	Vícenice	99	80	A	M
+6104	588342	1	6	902	5	Alena	Bačová			18	student	Vícenice	99	80	A	F
+6104	588342	1	4	901	6	Ludmila	Roupcová			46	uklízečka	Vícenice	99	80	A	F
+6104	588342	1	6	902	6	Jana	Valíková			24	student	Vícenice	99	80	A	F
+6104	588342	1	4	901	7	Simona	Mejzlíková	Bc.		28	asistentka pedagoga	Vícenice	99	80	A	F
+6104	588342	1	6	902	7	Roman	Tříletý			22	logistik	Vícenice	99	80	A	M
+6104	588342	1	6	902	8	Michaela	Svobodová			24	student	Vícenice	99	80	A	F

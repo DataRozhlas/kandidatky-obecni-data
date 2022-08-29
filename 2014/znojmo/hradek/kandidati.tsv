@@ -1,32 +1,32 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	594148	1	1	1	1	Jaromír	Jakša	M			45	automechanik	Hrádek	99	1	0
-6207	594148	1	1	1	2	Iva	Matochová	F	Bc.		25	kadeřnice, účetnictví a finanční řízení podniku	Hrádek	99	1	0
-6207	594148	1	1	1	3	Josef	Dobrovolný	M			59	podnikatel	Hrádek	1	1	0
-6207	594148	1	1	1	4	Jiří	Matocha	M			50	podnikatel	Hrádek	1	1	0
-6207	594148	1	1	1	5	Miroslav	Šuléř	M			39	dělník	Hrádek	99	1	0
-6207	594148	1	1	1	6	Anna	Purčová	F			57	dělnice	Hrádek	1	1	0
-6207	594148	1	1	1	7	Radka	Šůstková	F			39	dělnice	Hrádek	99	1	0
-6207	594148	1	1	1	8	Jaromír	Horečka	M			44	dělník	Hrádek	99	1	0
-6207	594148	1	1	1	9	Miluše	Brychtová	F			70	důchodce	Hrádek	1	1	1
-6207	594148	1	2	901	1	Ondřej	Kubic	M			45	starosta	Hrádek	99	80	0
-6207	594148	1	2	901	2	Pavla	Stehlíková	F	Ing.		49	OSVČ	Hrádek	99	80	0
-6207	594148	1	2	901	3	Jindřich	Rosa	M	Ing.		27	obchodní zástupce	Hrádek	99	80	0
-6207	594148	1	2	901	4	Robert	Šturala	M	Mgr.		40	státní zaměstnanec	Hrádek	99	80	0
-6207	594148	1	2	901	5	Josef	Choleva	M			45	policista	Hrádek	99	80	0
-6207	594148	1	2	901	6	Oldřich	Skácel	M			49	údržbář	Hrádek	99	80	0
-6207	594148	1	2	901	7	Milan	Třetina	M			52	dělník	Hrádek	99	80	0
-6207	594148	1	2	901	8	Radek	Kubát	M			28	technik	Hrádek	99	80	0
-6207	594148	1	2	901	9	Petr	Bičian	M			43	OSVČ	Hrádek	99	80	0
-6207	594148	1	2	901	10	Miloš	Pěček	M			40	lesník	Hrádek	99	80	0
-6207	594148	1	2	901	11	Anna	Matochová	F			23	mateřská dovolená	Hrádek	99	80	0
-6207	594148	1	3	7	1	Štěpán	Škrabal	M	Ing.		33	zemědělský technik	Hrádek	99	7	0
-6207	594148	1	3	7	2	Jiří	Martinec	M			35	podnikatel	Hrádek	99	7	0
-6207	594148	1	3	7	3	Jana	Štruncová	F	Mgr.		46	učitelka	Hrádek	99	7	0
-6207	594148	1	3	7	4	Jiří	Maurer	M			31	vedoucí provozu	Hrádek	99	7	0
-6207	594148	1	3	7	5	Josef	Hoc	M			57	živnostník	Hrádek	99	7	0
-6207	594148	1	3	7	6	Martin	Sedliačik	M			39	zaměstnanec	Hrádek	99	7	0
-6207	594148	1	3	7	7	Jaroslav	Šuléř	M			41	dělník	Hrádek	99	7	0
-6207	594148	1	3	7	8	Anna	Badinská	F			58	bankovní úřednice	Hrádek	99	7	0
-6207	594148	1	3	7	9	Dušan	Matuška	M			47	podnikatel	Hrádek	99	7	0
-6207	594148	1	3	7	10	Pavel	Konyárik	M			37	dělník	Hrádek	99	7	0
-6207	594148	1	3	7	11	Jan	Stavinoha	M			52	stavební technik	Hrádek	7	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	594148	1	1	1	1	Jaromír	Jakša			45	automechanik	Hrádek	99	1	0	M
+6207	594148	1	2	901	1	Ondřej	Kubic			45	starosta	Hrádek	99	80	0	M
+6207	594148	1	3	7	1	Štěpán	Škrabal	Ing.		33	zemědělský technik	Hrádek	99	7	0	M
+6207	594148	1	1	1	2	Iva	Matochová	Bc.		25	kadeřnice, účetnictví a finanční řízení podniku	Hrádek	99	1	0	F
+6207	594148	1	2	901	2	Pavla	Stehlíková	Ing.		49	OSVČ	Hrádek	99	80	0	F
+6207	594148	1	3	7	2	Jiří	Martinec			35	podnikatel	Hrádek	99	7	0	M
+6207	594148	1	1	1	3	Josef	Dobrovolný			59	podnikatel	Hrádek	1	1	0	M
+6207	594148	1	2	901	3	Jindřich	Rosa	Ing.		27	obchodní zástupce	Hrádek	99	80	0	M
+6207	594148	1	3	7	3	Jana	Štruncová	Mgr.		46	učitelka	Hrádek	99	7	0	F
+6207	594148	1	1	1	4	Jiří	Matocha			50	podnikatel	Hrádek	1	1	0	M
+6207	594148	1	2	901	4	Robert	Šturala	Mgr.		40	státní zaměstnanec	Hrádek	99	80	0	M
+6207	594148	1	3	7	4	Jiří	Maurer			31	vedoucí provozu	Hrádek	99	7	0	M
+6207	594148	1	1	1	5	Miroslav	Šuléř			39	dělník	Hrádek	99	1	0	M
+6207	594148	1	2	901	5	Josef	Choleva			45	policista	Hrádek	99	80	0	M
+6207	594148	1	3	7	5	Josef	Hoc			57	živnostník	Hrádek	99	7	0	M
+6207	594148	1	1	1	6	Anna	Purčová			57	dělnice	Hrádek	1	1	0	F
+6207	594148	1	2	901	6	Oldřich	Skácel			49	údržbář	Hrádek	99	80	0	M
+6207	594148	1	3	7	6	Martin	Sedliačik			39	zaměstnanec	Hrádek	99	7	0	M
+6207	594148	1	1	1	7	Radka	Šůstková			39	dělnice	Hrádek	99	1	0	F
+6207	594148	1	2	901	7	Milan	Třetina			52	dělník	Hrádek	99	80	0	M
+6207	594148	1	3	7	7	Jaroslav	Šuléř			41	dělník	Hrádek	99	7	0	M
+6207	594148	1	1	1	8	Jaromír	Horečka			44	dělník	Hrádek	99	1	0	M
+6207	594148	1	2	901	8	Radek	Kubát			28	technik	Hrádek	99	80	0	M
+6207	594148	1	3	7	8	Anna	Badinská			58	bankovní úřednice	Hrádek	99	7	0	F
+6207	594148	1	1	1	9	Miluše	Brychtová			70	důchodce	Hrádek	1	1	1	F
+6207	594148	1	2	901	9	Petr	Bičian			43	OSVČ	Hrádek	99	80	0	M
+6207	594148	1	3	7	9	Dušan	Matuška			47	podnikatel	Hrádek	99	7	0	M
+6207	594148	1	2	901	10	Miloš	Pěček			40	lesník	Hrádek	99	80	0	M
+6207	594148	1	3	7	10	Pavel	Konyárik			37	dělník	Hrádek	99	7	0	M
+6207	594148	1	2	901	11	Anna	Matochová			23	mateřská dovolená	Hrádek	99	80	0	F
+6207	594148	1	3	7	11	Jan	Stavinoha			52	stavební technik	Hrádek	7	7	0	M

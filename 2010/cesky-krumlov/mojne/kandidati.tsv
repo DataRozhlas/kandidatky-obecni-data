@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3102	598623	1	1	901	1	Jana	Zoufalá	F			42	starostka	Černice	99	80	0
-3102	598623	1	1	901	2	Jan	Šítal	M			43	úředník	Záhorkovice	99	80	0
-3102	598623	1	1	901	3	Václav	Šítal	M			42	soukromý zemědělec	Mojné	99	80	0
-3102	598623	1	1	901	4	Kamila	Krbcová	F	Ing.		33	zootechnička	Mojné	99	80	0
-3102	598623	1	1	901	5	Václav	Biňovský	M			40	obráběč kovů	Mojné	99	80	0
-3102	598623	1	1	901	6	Jan	Homolka	M			26	seřizovač	Mojné	99	80	0
-3102	598623	1	1	901	7	Jan	Koňařík	M			29	montér	Mojné	99	80	0
-3102	598623	1	1	901	8	Václav	Vozábal	M			34	cestmistr	Mojné	99	80	0
-3102	598623	1	1	901	9	Miluše	Homolková	F			31	kuchařka	Mojné	99	80	0
-3102	598623	1	2	902	1	Vojtěch	Pöschel	M			60	důchodce	Mojné	99	80	0
-3102	598623	1	2	902	2	Vojtěch	Šítal	M			51	dělník	Záhorkovice	99	80	0
-3102	598623	1	2	902	3	František	Hintermüller	M			49	dělník	Mojné	99	80	0
-3102	598623	1	2	902	4	Ladislav	Mráček	M			39	dělník	Mojné	99	80	0
-3102	598623	1	2	902	5	Petra	Bínová	F	Ing.		28	úřednice	Mojné	99	80	0
-3102	598623	1	3	1	1	Petr	Vaclík	M			43	státní zaměstnanec	Mojné	99	1	0
-3102	598623	1	3	1	2	Jaroslav	Kostohryz	M			39	strojník	Mojné	99	1	0
-3102	598623	1	3	1	3	Radek	Bína	M			33	stavební technik	Mojné	99	1	0
-3102	598623	1	3	1	4	Michal	Štindl	M			30	soukromý zedník	Mojné	99	1	0
-3102	598623	1	3	1	5	Jiří	Opekar	M			32	řidič z povolání	Mojné	99	1	0
-3102	598623	1	3	1	6	Zdeněk	Vaclík	M	Mgr.		40	učitel	Mojné	99	1	0
-3102	598623	1	3	1	7	Rostislav	Hanzal	M			38	automechanik	Mojné	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3102	598623	1	1	901	1	Jana	Zoufalá			42	starostka	Černice	99	80	0	F
+3102	598623	1	2	902	1	Vojtěch	Pöschel			60	důchodce	Mojné	99	80	0	M
+3102	598623	1	3	1	1	Petr	Vaclík			43	státní zaměstnanec	Mojné	99	1	0	M
+3102	598623	1	1	901	2	Jan	Šítal			43	úředník	Záhorkovice	99	80	0	M
+3102	598623	1	2	902	2	Vojtěch	Šítal			51	dělník	Záhorkovice	99	80	0	M
+3102	598623	1	3	1	2	Jaroslav	Kostohryz			39	strojník	Mojné	99	1	0	M
+3102	598623	1	1	901	3	Václav	Šítal			42	soukromý zemědělec	Mojné	99	80	0	M
+3102	598623	1	2	902	3	František	Hintermüller			49	dělník	Mojné	99	80	0	M
+3102	598623	1	3	1	3	Radek	Bína			33	stavební technik	Mojné	99	1	0	M
+3102	598623	1	1	901	4	Kamila	Krbcová	Ing.		33	zootechnička	Mojné	99	80	0	F
+3102	598623	1	2	902	4	Ladislav	Mráček			39	dělník	Mojné	99	80	0	M
+3102	598623	1	3	1	4	Michal	Štindl			30	soukromý zedník	Mojné	99	1	0	M
+3102	598623	1	1	901	5	Václav	Biňovský			40	obráběč kovů	Mojné	99	80	0	M
+3102	598623	1	2	902	5	Petra	Bínová	Ing.		28	úřednice	Mojné	99	80	0	F
+3102	598623	1	3	1	5	Jiří	Opekar			32	řidič z povolání	Mojné	99	1	0	M
+3102	598623	1	1	901	6	Jan	Homolka			26	seřizovač	Mojné	99	80	0	M
+3102	598623	1	3	1	6	Zdeněk	Vaclík	Mgr.		40	učitel	Mojné	99	1	0	M
+3102	598623	1	1	901	7	Jan	Koňařík			29	montér	Mojné	99	80	0	M
+3102	598623	1	3	1	7	Rostislav	Hanzal			38	automechanik	Mojné	99	1	0	M
+3102	598623	1	1	901	8	Václav	Vozábal			34	cestmistr	Mojné	99	80	0	M
+3102	598623	1	1	901	9	Miluše	Homolková			31	kuchařka	Mojné	99	80	0	F

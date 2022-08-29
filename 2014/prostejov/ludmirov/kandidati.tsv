@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589705	1	1	901	1	Jana	Grézlová	F			54	starostka obce	Ludmírov	99	80	0
-7103	589705	1	1	901	2	Josef	Popelka	M	Ing.		56	projektant	Ospělov	99	80	0
-7103	589705	1	1	901	3	Jan	Zapletal	M	Ing.		29	obchodní zástupce	Dětkovice	99	80	0
-7103	589705	1	1	901	4	Jiří	Šoupal	M			44	stolař	Ponikev	99	80	0
-7103	589705	1	1	901	5	Zdeňka	Žáková	F			57	účetní	Milkov	99	80	0
-7103	589705	1	1	901	6	Marta	Spurná	F	Bc.		44	ředitelka DpS	Ludmírov	99	80	0
-7103	589705	1	1	901	7	Dana	Stuchlíková	F			37	účetní	Ospělov	99	80	0
-7103	589705	1	1	901	8	Pavel	Stražický	M			31	obchodní zástupce	Milkov	99	80	0
-7103	589705	1	1	901	9	Iva	Coufalová	F			44	OSVČ	Ludmírov	99	80	0
-7103	589705	1	1	901	10	Věra	Machačová	F	Ing.		62	OSVČ	Ludmírov	99	80	0
-7103	589705	1	1	901	11	Michal	Nedoma	M			29	školník	Dětkovice	99	80	0
-7103	589705	1	2	902	1	Jan	Kuchař	M			43	živnostník	Dětkovice	99	80	0
-7103	589705	1	2	902	2	Vlasta	Žáková	F			61	živnostník	Ludmírov	99	80	0
-7103	589705	1	2	902	3	Lubomír	Halíř	M			35	truhlář	Ludmírov	99	80	0
-7103	589705	1	2	902	4	Lubomír	Žák	M			37	dělník	Milkov	99	80	0
-7103	589705	1	2	902	5	Miroslav	Pavlíček	M			33	živnostník	Ospělov	99	80	0
-7103	589705	1	2	902	6	Jan	Vysloužil	M			33	technik	Ludmírov	99	80	0
-7103	589705	1	2	902	7	Adriana	Kubešová	F			42	květinářka	Milkov	99	80	0
-7103	589705	1	2	902	8	Petr	Krčmář	M			35	živnostník	Ludmírov	99	80	0
-7103	589705	1	2	902	9	Lubor	Kuba	M			31	řidič	Ponikev	99	80	0
-7103	589705	1	2	902	10	Rudolf	Rada	M			39	prodavač	Milkov	99	80	0
-7103	589705	1	2	902	11	Milan	Dolanský	M			45	živnostník	Ospělov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589705	1	1	901	1	Jana	Grézlová			54	starostka obce	Ludmírov	99	80	0	F
+7103	589705	1	2	902	1	Jan	Kuchař			43	živnostník	Dětkovice	99	80	0	M
+7103	589705	1	1	901	2	Josef	Popelka	Ing.		56	projektant	Ospělov	99	80	0	M
+7103	589705	1	2	902	2	Vlasta	Žáková			61	živnostník	Ludmírov	99	80	0	F
+7103	589705	1	1	901	3	Jan	Zapletal	Ing.		29	obchodní zástupce	Dětkovice	99	80	0	M
+7103	589705	1	2	902	3	Lubomír	Halíř			35	truhlář	Ludmírov	99	80	0	M
+7103	589705	1	1	901	4	Jiří	Šoupal			44	stolař	Ponikev	99	80	0	M
+7103	589705	1	2	902	4	Lubomír	Žák			37	dělník	Milkov	99	80	0	M
+7103	589705	1	1	901	5	Zdeňka	Žáková			57	účetní	Milkov	99	80	0	F
+7103	589705	1	2	902	5	Miroslav	Pavlíček			33	živnostník	Ospělov	99	80	0	M
+7103	589705	1	1	901	6	Marta	Spurná	Bc.		44	ředitelka DpS	Ludmírov	99	80	0	F
+7103	589705	1	2	902	6	Jan	Vysloužil			33	technik	Ludmírov	99	80	0	M
+7103	589705	1	1	901	7	Dana	Stuchlíková			37	účetní	Ospělov	99	80	0	F
+7103	589705	1	2	902	7	Adriana	Kubešová			42	květinářka	Milkov	99	80	0	F
+7103	589705	1	1	901	8	Pavel	Stražický			31	obchodní zástupce	Milkov	99	80	0	M
+7103	589705	1	2	902	8	Petr	Krčmář			35	živnostník	Ludmírov	99	80	0	M
+7103	589705	1	1	901	9	Iva	Coufalová			44	OSVČ	Ludmírov	99	80	0	F
+7103	589705	1	2	902	9	Lubor	Kuba			31	řidič	Ponikev	99	80	0	M
+7103	589705	1	1	901	10	Věra	Machačová	Ing.		62	OSVČ	Ludmírov	99	80	0	F
+7103	589705	1	2	902	10	Rudolf	Rada			39	prodavač	Milkov	99	80	0	M
+7103	589705	1	1	901	11	Michal	Nedoma			29	školník	Dětkovice	99	80	0	M
+7103	589705	1	2	902	11	Milan	Dolanský			45	živnostník	Ospělov	99	80	0	M

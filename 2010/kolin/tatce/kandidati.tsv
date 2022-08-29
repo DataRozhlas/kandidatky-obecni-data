@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2104	537888	1	1	902	1	Petr	Březina	M			40	technik	Tatce	99	80	0
-2104	537888	1	1	902	2	Irena	Filipová	F			35	účetní	Tatce	99	80	0
-2104	537888	1	1	902	3	Soňa	Stražáková	F	Ing.		24	finan. konzultant	Tatce	99	80	0
-2104	537888	1	1	902	4	Miroslava	Vontszemü	F			34	soukr. podnikatel	Tatce	99	80	0
-2104	537888	1	1	902	5	Vlastimil	Váňa	M			54	soukr. zemědělec	Tatce	99	80	0
-2104	537888	1	1	902	6	Tomáš	Palounek	M			46	truhlář	Tatce	99	80	0
-2104	537888	1	1	902	7	Helena	Holovská	F			48	technik	Tatce	99	80	0
-2104	537888	1	1	902	8	Petr	Bašus	M			56	soukr. podnikatel	Tatce	99	80	0
-2104	537888	1	1	902	9	Michaela	Mecerová	F			30	referentka	Tatce	99	80	0
-2104	537888	1	2	901	1	Josef	Flídr	M			56	soukromý podnikatel	Tatce	99	80	0
-2104	537888	1	2	901	2	Kateřina	Sináková	F			28	soukromá podnikatelka	Tatce	99	80	0
-2104	537888	1	2	901	3	Milan	Turecký	M			44	obchodní referent	Tatce	99	80	0
-2104	537888	1	2	901	4	Jana	Bišková	F			34	administrátor	Tatce	99	80	0
-2104	537888	1	2	901	5	Ivana	Hoznauerová	F			39	obchodní referent	Tatce	99	80	0
-2104	537888	1	2	901	6	Petr	Schneider	M			45	řidič	Tatce	99	80	0
-2104	537888	1	2	901	7	Jaroslav	Hoznauer	M			35	zámečník	Tatce	99	80	0
-2104	537888	1	2	901	8	Radka	Pokorná	F			39	poštovní doručovatelka	Tatce	99	80	0
-2104	537888	1	2	901	9	Jiří	Švecký	M			41	soukromý podnikatel	Tatce	99	80	0
-2104	537888	1	3	903	1	Blanka	Řezáčová	F			38	bankovní úřednice	Tatce	99	80	0
-2104	537888	1	3	903	2	František	Nový	M	JUDr.		62	důchodce	Tatce	99	80	0
-2104	537888	1	3	903	3	Kateřina	Čábelková	F			35	vychovatelka ŠD	Tatce	99	80	0
-2104	537888	1	3	903	4	Marie	Březinová	F			35	hlavní účetní	Tatce	99	80	0
-2104	537888	1	3	903	5	Eva	Podoláková	F			33	fyzioterapeutka	Tatce	99	80	0
-2104	537888	1	3	903	6	Petra	Hrušková	F			34	administrativní pracovnice	Tatce	99	80	0
-2104	537888	1	3	903	7	Jana	Novotná	F			24	účetní	Tatce	99	80	0
-2104	537888	1	3	903	8	Jaroslava	Syrůčková	F			57	bankovní úřednice	Tatce	47	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2104	537888	1	1	902	1	Petr	Březina			40	technik	Tatce	99	80	0	M
+2104	537888	1	2	901	1	Josef	Flídr			56	soukromý podnikatel	Tatce	99	80	0	M
+2104	537888	1	3	903	1	Blanka	Řezáčová			38	bankovní úřednice	Tatce	99	80	0	F
+2104	537888	1	1	902	2	Irena	Filipová			35	účetní	Tatce	99	80	0	F
+2104	537888	1	2	901	2	Kateřina	Sináková			28	soukromá podnikatelka	Tatce	99	80	0	F
+2104	537888	1	3	903	2	František	Nový	JUDr.		62	důchodce	Tatce	99	80	0	M
+2104	537888	1	1	902	3	Soňa	Stražáková	Ing.		24	finan. konzultant	Tatce	99	80	0	F
+2104	537888	1	2	901	3	Milan	Turecký			44	obchodní referent	Tatce	99	80	0	M
+2104	537888	1	3	903	3	Kateřina	Čábelková			35	vychovatelka ŠD	Tatce	99	80	0	F
+2104	537888	1	1	902	4	Miroslava	Vontszemü			34	soukr. podnikatel	Tatce	99	80	0	F
+2104	537888	1	2	901	4	Jana	Bišková			34	administrátor	Tatce	99	80	0	F
+2104	537888	1	3	903	4	Marie	Březinová			35	hlavní účetní	Tatce	99	80	0	F
+2104	537888	1	1	902	5	Vlastimil	Váňa			54	soukr. zemědělec	Tatce	99	80	0	M
+2104	537888	1	2	901	5	Ivana	Hoznauerová			39	obchodní referent	Tatce	99	80	0	F
+2104	537888	1	3	903	5	Eva	Podoláková			33	fyzioterapeutka	Tatce	99	80	0	F
+2104	537888	1	1	902	6	Tomáš	Palounek			46	truhlář	Tatce	99	80	0	M
+2104	537888	1	2	901	6	Petr	Schneider			45	řidič	Tatce	99	80	0	M
+2104	537888	1	3	903	6	Petra	Hrušková			34	administrativní pracovnice	Tatce	99	80	0	F
+2104	537888	1	1	902	7	Helena	Holovská			48	technik	Tatce	99	80	0	F
+2104	537888	1	2	901	7	Jaroslav	Hoznauer			35	zámečník	Tatce	99	80	0	M
+2104	537888	1	3	903	7	Jana	Novotná			24	účetní	Tatce	99	80	0	F
+2104	537888	1	1	902	8	Petr	Bašus			56	soukr. podnikatel	Tatce	99	80	0	M
+2104	537888	1	2	901	8	Radka	Pokorná			39	poštovní doručovatelka	Tatce	99	80	0	F
+2104	537888	1	3	903	8	Jaroslava	Syrůčková			57	bankovní úřednice	Tatce	47	80	0	F
+2104	537888	1	1	902	9	Michaela	Mecerová			30	referentka	Tatce	99	80	0	F
+2104	537888	1	2	901	9	Jiří	Švecký			41	soukromý podnikatel	Tatce	99	80	0	M

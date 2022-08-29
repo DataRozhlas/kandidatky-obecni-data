@@ -1,39 +1,39 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	584266	1	1	721	1	Jiří	Kvasnička	M	Ing.		51	starosta	Želešice	99	721	0
-6203	584266	1	1	721	2	Milan	Lapčík	M			50	technicko-hospodářský pracovník	Želešice	99	721	0
-6203	584266	1	1	721	3	Roman	Loutocký	M	Ing.		54	jednatel firmy	Želešice	99	721	0
-6203	584266	1	1	721	4	Josef	Rýpar	M			34	elektro inženýr	Želešice	99	721	0
-6203	584266	1	1	721	5	Eva	Chvalkovská	F			47	ekonom	Želešice	99	721	0
-6203	584266	1	1	721	6	David	Mikolášek	M	Ing.		67	projektant-krajinářský architekt	Želešice	99	721	0
-6203	584266	1	1	721	7	Alena	Pejcharová	F	Mgr.		43	učitelka	Želešice	99	721	0
-6203	584266	1	1	721	8	Vojtěch	Sýkora	M			24	operátor ve výrobě	Želešice	99	721	0
-6203	584266	1	1	721	9	Lucie	Kvasničková	F			19	student	Želešice	99	721	0
-6203	584266	1	1	721	10	Josef	Šeliga	M			66	důchodce	Želešice	99	721	0
-6203	584266	1	1	721	11	Veronika	Dvořáčková	F	Mgr.		36	učitelka MŠ	Želešice	99	721	0
-6203	584266	1	2	768	1	Ilona	Vildová	F	Bc.		36	administrativní pracovník	Želešice	99	768	0
-6203	584266	1	2	768	2	Martin	Pokorný	M	Ing.		39	obchodní manažer	Želešice	768	768	0
-6203	584266	1	2	768	3	Zdeněk	Mička	M	Ing.		38	vedoucí technického úseku	Želešice	99	768	0
-6203	584266	1	2	768	4	Ivan	Riedl	M			50	podnikatel	Želešice	99	768	0
-6203	584266	1	2	768	5	Tomáš	Sláma	M			30	vedoucí týmu IT	Želešice	99	768	0
-6203	584266	1	2	768	6	Eva	Brandejsová	F	Bc.		37	soudní úřednice	Želešice	99	768	0
-6203	584266	1	2	768	7	Lukáš	Skorus	M			35	přejímací technik	Želešice	99	768	0
-6203	584266	1	2	768	8	Zdeněk	Starý	M			31	technik	Želešice	99	768	0
-6203	584266	1	2	768	9	Michaela	Hrdličková	F			22	student	Želešice	99	768	0
-6203	584266	1	2	768	10	Petr	Fridrich	M			30	zemědělec	Želešice	99	768	0
-6203	584266	1	2	768	11	Pavel	Babák	M		DiS.	35	manažer zahraničních veletržních expozic	Želešice	99	768	0
-6203	584266	1	3	901	1	Roman	Veselý	M			44	obchodní manažer	Želešice	99	80	0
-6203	584266	1	3	901	2	Magda	Kvardová	F	Ing.		46	ekonom	Želešice	99	80	0
-6203	584266	1	3	901	3	Jiří	Dohnal	M	Ing.		33	lesní inženýr	Želešice	99	80	0
-6203	584266	1	3	901	4	Jaroslav	Vraňan	M	Ing.		42	stavební inženýr	Želešice	99	80	0
-6203	584266	1	3	901	5	Marek	Tichý	M	Ing. arch.		47	architekt	Želešice	99	80	0
-6203	584266	1	3	901	6	František	Starý	M			38	obchodní referent	Želešice	99	80	0
-6203	584266	1	3	901	7	Tomáš	Koláček	M			40	stavební technik	Želešice	99	80	0
-6203	584266	1	3	901	8	Petr	Hude	M	MUDr.		45	lékař	Želešice	99	80	0
-6203	584266	1	3	901	9	Pavel	Kalvoda	M			51	správce objektu	Želešice	99	80	0
-6203	584266	1	3	901	10	Pavel	Pavlas	M			42	vedoucí výroby	Želešice	99	80	0
-6203	584266	1	3	901	11	Lukáš	Kvarda	M	Bc.		24	student	Želešice	99	80	0
-6203	584266	1	4	483	1	Martin	Boček	M			48	technik	Želešice	724	724	0
-6203	584266	1	4	483	2	Aleš	Vrbka	M			49	soukromý zemědělec	Želešice	99	80	0
-6203	584266	1	4	483	3	Robert	Lekše	M			41	manažer	Želešice	99	80	0
-6203	584266	1	4	483	4	Petra	Lekšová	F			42	realitní makléř	Želešice	99	80	0
-6203	584266	1	4	483	5	Barbora	Kolenčíková	F			28	dělnice	Želešice	724	724	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	584266	1	1	721	1	Jiří	Kvasnička	Ing.		51	starosta	Želešice	99	721	0	M
+6203	584266	1	2	768	1	Ilona	Vildová	Bc.		36	administrativní pracovník	Želešice	99	768	0	F
+6203	584266	1	3	901	1	Roman	Veselý			44	obchodní manažer	Želešice	99	80	0	M
+6203	584266	1	4	483	1	Martin	Boček			48	technik	Želešice	724	724	0	M
+6203	584266	1	1	721	2	Milan	Lapčík			50	technicko-hospodářský pracovník	Želešice	99	721	0	M
+6203	584266	1	2	768	2	Martin	Pokorný	Ing.		39	obchodní manažer	Želešice	768	768	0	M
+6203	584266	1	3	901	2	Magda	Kvardová	Ing.		46	ekonom	Želešice	99	80	0	F
+6203	584266	1	4	483	2	Aleš	Vrbka			49	soukromý zemědělec	Želešice	99	80	0	M
+6203	584266	1	1	721	3	Roman	Loutocký	Ing.		54	jednatel firmy	Želešice	99	721	0	M
+6203	584266	1	2	768	3	Zdeněk	Mička	Ing.		38	vedoucí technického úseku	Želešice	99	768	0	M
+6203	584266	1	3	901	3	Jiří	Dohnal	Ing.		33	lesní inženýr	Želešice	99	80	0	M
+6203	584266	1	4	483	3	Robert	Lekše			41	manažer	Želešice	99	80	0	M
+6203	584266	1	1	721	4	Josef	Rýpar			34	elektro inženýr	Želešice	99	721	0	M
+6203	584266	1	2	768	4	Ivan	Riedl			50	podnikatel	Želešice	99	768	0	M
+6203	584266	1	3	901	4	Jaroslav	Vraňan	Ing.		42	stavební inženýr	Želešice	99	80	0	M
+6203	584266	1	4	483	4	Petra	Lekšová			42	realitní makléř	Želešice	99	80	0	F
+6203	584266	1	1	721	5	Eva	Chvalkovská			47	ekonom	Želešice	99	721	0	F
+6203	584266	1	2	768	5	Tomáš	Sláma			30	vedoucí týmu IT	Želešice	99	768	0	M
+6203	584266	1	3	901	5	Marek	Tichý	Ing. arch.		47	architekt	Želešice	99	80	0	M
+6203	584266	1	4	483	5	Barbora	Kolenčíková			28	dělnice	Želešice	724	724	0	F
+6203	584266	1	1	721	6	David	Mikolášek	Ing.		67	projektant-krajinářský architekt	Želešice	99	721	0	M
+6203	584266	1	2	768	6	Eva	Brandejsová	Bc.		37	soudní úřednice	Želešice	99	768	0	F
+6203	584266	1	3	901	6	František	Starý			38	obchodní referent	Želešice	99	80	0	M
+6203	584266	1	1	721	7	Alena	Pejcharová	Mgr.		43	učitelka	Želešice	99	721	0	F
+6203	584266	1	2	768	7	Lukáš	Skorus			35	přejímací technik	Želešice	99	768	0	M
+6203	584266	1	3	901	7	Tomáš	Koláček			40	stavební technik	Želešice	99	80	0	M
+6203	584266	1	1	721	8	Vojtěch	Sýkora			24	operátor ve výrobě	Želešice	99	721	0	M
+6203	584266	1	2	768	8	Zdeněk	Starý			31	technik	Želešice	99	768	0	M
+6203	584266	1	3	901	8	Petr	Hude	MUDr.		45	lékař	Želešice	99	80	0	M
+6203	584266	1	1	721	9	Lucie	Kvasničková			19	student	Želešice	99	721	0	F
+6203	584266	1	2	768	9	Michaela	Hrdličková			22	student	Želešice	99	768	0	F
+6203	584266	1	3	901	9	Pavel	Kalvoda			51	správce objektu	Želešice	99	80	0	M
+6203	584266	1	1	721	10	Josef	Šeliga			66	důchodce	Želešice	99	721	0	M
+6203	584266	1	2	768	10	Petr	Fridrich			30	zemědělec	Želešice	99	768	0	M
+6203	584266	1	3	901	10	Pavel	Pavlas			42	vedoucí výroby	Želešice	99	80	0	M
+6203	584266	1	1	721	11	Veronika	Dvořáčková	Mgr.		36	učitelka MŠ	Želešice	99	721	0	F
+6203	584266	1	2	768	11	Pavel	Babák		DiS.	35	manažer zahraničních veletržních expozic	Želešice	99	768	0	M
+6203	584266	1	3	901	11	Lukáš	Kvarda	Bc.		24	student	Želešice	99	80	0	M

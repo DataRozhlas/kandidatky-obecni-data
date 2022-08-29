@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3103	546291	1	1	902	1	Jiří	Boček	M	Ing.		70	důchodce	Stajka	99	80	A
-3103	546291	1	1	902	2	Miroslav	Bosák	M			59	autodopravce	Stajka	99	80	A
-3103	546291	1	1	902	3	Miroslav	Pávek	M			56	vedoucí autodopravy	Stajka	99	80	A
-3103	546291	1	1	902	4	Vojtěch	Kaštánek	M			28	hasič	Stajka	99	80	A
-3103	546291	1	1	902	5	Jan	Kubín	M			22	policista	Stajka	99	80	A
-3103	546291	1	1	902	6	Martin	Vlk	M			45	servisní mechanik	Stajka	99	80	A
-3103	546291	1	1	902	7	Jaroslav	Kaštánek	M			31	opravář zemědělských strojů	Stajka	99	80	A
-3103	546291	1	1	902	8	Miroslav	Bosák	M			31	autodopravce	Stajka	99	80	A
-3103	546291	1	1	902	9	Petr	Lepič	M	Bc.		28	vedoucí směny	Stajka	99	80	A
-3103	546291	1	2	901	1	Jiří	Hándl	M			56	stavitel	Hatín	99	80	A
-3103	546291	1	2	901	2	Čestmír	Duchoň	M			50	automechanik	Hatín	99	80	A
-3103	546291	1	2	901	3	Ladislav	Vlk	M			47	zedník	Stajka	99	80	A
-3103	546291	1	2	901	4	Michael	Tichý	M			70	důchodce	Hatín	99	80	A
-3103	546291	1	2	901	5	Radek	Švec	M	Ing.		41	správce IT systémů	Hatín	99	80	A
-3103	546291	1	2	901	6	Václav	Kozel	M			64	vedoucí provozu	Hatín	99	80	A
-3103	546291	1	2	901	7	Jiří	Hándl	M			32	učitel	Hatín	99	80	A
-3103	546291	1	2	901	8	Gabriela	Vlková	F			49	prodavačka	Hatín	99	80	A
-3103	546291	1	2	901	9	Iveta	Bubelová	F			45	pracovnice sociálních služeb	Hatín	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3103	546291	1	1	902	1	Jiří	Boček	Ing.		70	důchodce	Stajka	99	80	A	M
+3103	546291	1	2	901	1	Jiří	Hándl			56	stavitel	Hatín	99	80	A	M
+3103	546291	1	1	902	2	Miroslav	Bosák			59	autodopravce	Stajka	99	80	A	M
+3103	546291	1	2	901	2	Čestmír	Duchoň			50	automechanik	Hatín	99	80	A	M
+3103	546291	1	1	902	3	Miroslav	Pávek			56	vedoucí autodopravy	Stajka	99	80	A	M
+3103	546291	1	2	901	3	Ladislav	Vlk			47	zedník	Stajka	99	80	A	M
+3103	546291	1	1	902	4	Vojtěch	Kaštánek			28	hasič	Stajka	99	80	A	M
+3103	546291	1	2	901	4	Michael	Tichý			70	důchodce	Hatín	99	80	A	M
+3103	546291	1	1	902	5	Jan	Kubín			22	policista	Stajka	99	80	A	M
+3103	546291	1	2	901	5	Radek	Švec	Ing.		41	správce IT systémů	Hatín	99	80	A	M
+3103	546291	1	1	902	6	Martin	Vlk			45	servisní mechanik	Stajka	99	80	A	M
+3103	546291	1	2	901	6	Václav	Kozel			64	vedoucí provozu	Hatín	99	80	A	M
+3103	546291	1	1	902	7	Jaroslav	Kaštánek			31	opravář zemědělských strojů	Stajka	99	80	A	M
+3103	546291	1	2	901	7	Jiří	Hándl			32	učitel	Hatín	99	80	A	M
+3103	546291	1	1	902	8	Miroslav	Bosák			31	autodopravce	Stajka	99	80	A	M
+3103	546291	1	2	901	8	Gabriela	Vlková			49	prodavačka	Hatín	99	80	A	F
+3103	546291	1	1	902	9	Petr	Lepič	Bc.		28	vedoucí směny	Stajka	99	80	A	M
+3103	546291	1	2	901	9	Iveta	Bubelová			45	pracovnice sociálních služeb	Hatín	99	80	A	F

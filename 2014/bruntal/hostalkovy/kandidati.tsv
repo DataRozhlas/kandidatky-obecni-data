@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8101	597392	1	1	901	1	Tomáš	Gronkowiec	M	Ing.		34	starosta obce	Staré Purkartice	99	80	0
-8101	597392	1	1	901	2	Michal	Kostroš	M	Ing.		31	hasič	Hošťálkovy	99	80	0
-8101	597392	1	1	901	3	Petra	Šolcová	F			49	administr. pracovník	Staré Purkartice	99	80	0
-8101	597392	1	1	901	4	Čestmír	Ručka	M			47	technik	Hošťálkovy	99	80	0
-8101	597392	1	1	901	5	Marek	Blahuta	M			32	stolař	Hošťálkovy	99	80	0
-8101	597392	1	1	901	6	Martin	Dias	M			43	živnostník	Hošťálkovy	99	80	0
-8101	597392	1	1	901	7	Nikola	Huňková	F			28	plánovač výroby	Hošťálkovy	99	80	0
-8101	597392	1	1	901	8	Jaroslav	Peter	M			47	živnostník	Vraclávek	99	80	0
-8101	597392	1	2	47	1	Monika	Trávníčková	F	Bc.		36	účetní	Křížová	99	47	0
-8101	597392	1	2	47	2	Oldřich	Hadač	M			59	řidič	Hošťálkovy	99	47	0
-8101	597392	1	2	47	3	Ingrid	Jauernigová	F			33	OSVČ	Křížová	99	47	0
-8101	597392	1	2	47	4	Vladimír	Šebela	M			50	OSVČ	Hošťálkovy	99	47	0
-8101	597392	1	2	47	5	Josef	Kolek	M			28	OSVČ	Hošťálkovy	99	47	0
-8101	597392	1	2	47	6	Lenka	Adamcová	F			46	nezaměstnaná	Vraclávek	99	47	0
-8101	597392	1	2	47	7	Martin	Kelíšek	M			35	řidič	Hošťálkovy	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8101	597392	1	1	901	1	Tomáš	Gronkowiec	Ing.		34	starosta obce	Staré Purkartice	99	80	0	M
+8101	597392	1	2	47	1	Monika	Trávníčková	Bc.		36	účetní	Křížová	99	47	0	F
+8101	597392	1	1	901	2	Michal	Kostroš	Ing.		31	hasič	Hošťálkovy	99	80	0	M
+8101	597392	1	2	47	2	Oldřich	Hadač			59	řidič	Hošťálkovy	99	47	0	M
+8101	597392	1	1	901	3	Petra	Šolcová			49	administr. pracovník	Staré Purkartice	99	80	0	F
+8101	597392	1	2	47	3	Ingrid	Jauernigová			33	OSVČ	Křížová	99	47	0	F
+8101	597392	1	1	901	4	Čestmír	Ručka			47	technik	Hošťálkovy	99	80	0	M
+8101	597392	1	2	47	4	Vladimír	Šebela			50	OSVČ	Hošťálkovy	99	47	0	M
+8101	597392	1	1	901	5	Marek	Blahuta			32	stolař	Hošťálkovy	99	80	0	M
+8101	597392	1	2	47	5	Josef	Kolek			28	OSVČ	Hošťálkovy	99	47	0	M
+8101	597392	1	1	901	6	Martin	Dias			43	živnostník	Hošťálkovy	99	80	0	M
+8101	597392	1	2	47	6	Lenka	Adamcová			46	nezaměstnaná	Vraclávek	99	47	0	F
+8101	597392	1	1	901	7	Nikola	Huňková			28	plánovač výroby	Hošťálkovy	99	80	0	F
+8101	597392	1	2	47	7	Martin	Kelíšek			35	řidič	Hošťálkovy	99	47	0	M
+8101	597392	1	1	901	8	Jaroslav	Peter			47	živnostník	Vraclávek	99	80	0	M

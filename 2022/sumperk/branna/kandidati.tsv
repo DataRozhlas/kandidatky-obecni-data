@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	526169	1	1	901	1	Martin	Alexa	M			29	OSVČ, doktorand VUT	Branná	99	80	A
-7105	526169	1	1	901	2	Tomáš	Tylingr	M			34	OSVČ, HS dobrovolných	Branná	99	80	A
-7105	526169	1	1	901	3	Jakub	Stejskal	M			27	projektant, doktorand ČVUT	Branná	99	80	A
-7105	526169	1	1	901	4	Pavel	Neugebauer	M			30	quality inspector	Branná	99	80	A
-7105	526169	1	1	901	5	Denisa	Stejskalová	F			28	učitelka ZŠ	Branná	99	80	A
-7105	526169	1	1	901	6	David	Friedrich	M			21	student	Branná	99	80	A
-7105	526169	1	1	901	7	Petr	Neugebauer	M			29	seřizovač	Branná	99	80	A
-7105	526169	1	1	901	8	Robert	Friedrich	M			26	student	Branná	99	80	A
-7105	526169	1	1	901	9	Edita	Korytarová	F			25	manažer provozu	Branná	99	80	A
-7105	526169	1	2	902	1	Štěpánka	Řehová	F	Ing.		38	vedoucí sekretariátu	Branná	99	80	A
-7105	526169	1	2	902	2	Martin	Stránský	M			48	pokrývač	Branná	99	80	A
-7105	526169	1	2	902	3	Karel	Bursa	M			39	strojvedoucí	Branná	99	80	A
-7105	526169	1	2	902	4	Pavel	Hunčar	M			50	podnikatel	Branná	99	80	A
-7105	526169	1	2	902	5	Simona	Friedrichová	F			48	provozní penzionu	Branná	99	80	A
-7105	526169	1	2	902	6	Zdeněk	Bureš	M			57	kontrolor	Branná	99	80	A
-7105	526169	1	2	902	7	Tomáš	Suchý	M			47	údržbář	Branná	99	80	A
-7105	526169	1	3	1	1	Miroslav	Skřivánek	M	Ing.		50	starosta obce, farmář	Branná	1	1	A
-7105	526169	1	3	1	2	Dan	Vepřek	M			36	provozní cukrárny	Branná	99	1	A
-7105	526169	1	3	1	3	Filip	Fister	M			19	student, hasič	Branná	99	1	A
-7105	526169	1	3	1	4	Hana	Hunčarová	F			46	zootechnik	Branná	99	1	A
-7105	526169	1	3	1	5	Jiřina	Kozmínová	F			33	technik	Branná	99	1	A
-7105	526169	1	3	1	6	Petra	Tichá	F			31	ošetřovatelka zvířat	Branná	99	1	A
-7105	526169	1	3	1	7	Pavel	Janeček	M			52	cukrář, hasič	Branná	99	1	A
-7105	526169	1	4	903	1	Marcela	Kozáková	F			49	účetní	Branná	99	80	A
-7105	526169	1	4	903	2	Robert	Friedrich	M			53	projektant konstruktér	Branná	99	80	A
-7105	526169	1	4	903	3	Pavel	Řeha	M		DiS.	45	záchranář HS	Branná	99	80	A
-7105	526169	1	4	903	4	Rostislav	Procházka	M			64	podnikatel	Branná	99	80	A
-7105	526169	1	4	903	5	Markéta	Stržínková	F	Mgr.		43	ředitelka Alzheimercentra Zábřeh	Branná	99	80	A
-7105	526169	1	4	903	6	Luboš	Mutňanský	M	Ing. arch.		68	architekt	Branná	99	80	A
-7105	526169	1	4	903	7	Milan	Vlach	M			55	podnikatel	Branná	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	526169	1	1	901	1	Martin	Alexa			29	OSVČ, doktorand VUT	Branná	99	80	A	M
+7105	526169	1	2	902	1	Štěpánka	Řehová	Ing.		38	vedoucí sekretariátu	Branná	99	80	A	F
+7105	526169	1	3	1	1	Miroslav	Skřivánek	Ing.		50	starosta obce, farmář	Branná	1	1	A	M
+7105	526169	1	4	903	1	Marcela	Kozáková			49	účetní	Branná	99	80	A	F
+7105	526169	1	1	901	2	Tomáš	Tylingr			34	OSVČ, HS dobrovolných	Branná	99	80	A	M
+7105	526169	1	2	902	2	Martin	Stránský			48	pokrývač	Branná	99	80	A	M
+7105	526169	1	3	1	2	Dan	Vepřek			36	provozní cukrárny	Branná	99	1	A	M
+7105	526169	1	4	903	2	Robert	Friedrich			53	projektant konstruktér	Branná	99	80	A	M
+7105	526169	1	1	901	3	Jakub	Stejskal			27	projektant, doktorand ČVUT	Branná	99	80	A	M
+7105	526169	1	2	902	3	Karel	Bursa			39	strojvedoucí	Branná	99	80	A	M
+7105	526169	1	3	1	3	Filip	Fister			19	student, hasič	Branná	99	1	A	M
+7105	526169	1	4	903	3	Pavel	Řeha		DiS.	45	záchranář HS	Branná	99	80	A	M
+7105	526169	1	1	901	4	Pavel	Neugebauer			30	quality inspector	Branná	99	80	A	M
+7105	526169	1	2	902	4	Pavel	Hunčar			50	podnikatel	Branná	99	80	A	M
+7105	526169	1	3	1	4	Hana	Hunčarová			46	zootechnik	Branná	99	1	A	F
+7105	526169	1	4	903	4	Rostislav	Procházka			64	podnikatel	Branná	99	80	A	M
+7105	526169	1	1	901	5	Denisa	Stejskalová			28	učitelka ZŠ	Branná	99	80	A	F
+7105	526169	1	2	902	5	Simona	Friedrichová			48	provozní penzionu	Branná	99	80	A	F
+7105	526169	1	3	1	5	Jiřina	Kozmínová			33	technik	Branná	99	1	A	F
+7105	526169	1	4	903	5	Markéta	Stržínková	Mgr.		43	ředitelka Alzheimercentra Zábřeh	Branná	99	80	A	F
+7105	526169	1	1	901	6	David	Friedrich			21	student	Branná	99	80	A	M
+7105	526169	1	2	902	6	Zdeněk	Bureš			57	kontrolor	Branná	99	80	A	M
+7105	526169	1	3	1	6	Petra	Tichá			31	ošetřovatelka zvířat	Branná	99	1	A	F
+7105	526169	1	4	903	6	Luboš	Mutňanský	Ing. arch.		68	architekt	Branná	99	80	A	M
+7105	526169	1	1	901	7	Petr	Neugebauer			29	seřizovač	Branná	99	80	A	M
+7105	526169	1	2	902	7	Tomáš	Suchý			47	údržbář	Branná	99	80	A	M
+7105	526169	1	3	1	7	Pavel	Janeček			52	cukrář, hasič	Branná	99	1	A	M
+7105	526169	1	4	903	7	Milan	Vlach			55	podnikatel	Branná	99	80	A	M
+7105	526169	1	1	901	8	Robert	Friedrich			26	student	Branná	99	80	A	M
+7105	526169	1	1	901	9	Edita	Korytarová			25	manažer provozu	Branná	99	80	A	F

@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	532576	1	1	901	1	Vladimír	Eichler	M	Ing.		58	starosta	Libušín	99	80	A
-2103	532576	1	1	901	2	Jindra	Šmolíková	F	Mgr.		53	místostarostka	Libušín	99	80	A
-2103	532576	1	1	901	3	Věra	Portužáková	F			56	ředitelka mateřské školy	Libušín	99	80	A
-2103	532576	1	1	901	4	Radek	Panenka	M	Ing.		40	pedagog	Libušín	99	80	A
-2103	532576	1	1	901	5	Václav	Došek	M			49	vedoucí oddělení prodeje	Libušín	99	80	A
-2103	532576	1	1	901	6	Marek	Plešner	M			50	OSVČ	Libušín	99	80	A
-2103	532576	1	1	901	7	Daniela	Vlková	F	Ing.		46	OSVČ	Libušín	99	80	A
-2103	532576	1	1	901	8	Zdeněk	Liška	M			45	manager	Libušín	99	80	A
-2103	532576	1	1	901	9	Martin	Krček	M	Ing.	DiS.	40	odborný pracovník ve výzkumu	Libušín	99	80	A
-2103	532576	1	1	901	10	Hana	Ziková	F	MUDr.		42	lékařka	Libušín	99	80	A
-2103	532576	1	1	901	11	Martin	Ježek	M	Ing.		44	finanční ředitel	Libušín	99	80	A
-2103	532576	1	1	901	12	Věra	Navrátilová	F	Ing.		54	projektová manažerka	Libušín	99	80	A
-2103	532576	1	1	901	13	Ondřej	Pikla	M			67	důchodce	Libušín	99	80	A
-2103	532576	1	1	901	14	Martina	Břehová	F			50	administrativní pracovnice	Libušín	99	80	A
-2103	532576	1	1	901	15	Ivana	Klesnilová	F	Ing.		53	státní zaměstnanec	Libušín	99	80	A
-2103	532576	1	2	47	1	Václav	Mrhal	M			42	elektrikář	Libušín	99	47	A
-2103	532576	1	2	47	2	Petr	Kučera	M			59	technik	Libušín	99	47	A
-2103	532576	1	2	47	3	Miloslav	Klauz	M			50	řidič	Libušín	99	47	A
-2103	532576	1	2	47	4	Věra	Brožová	F			68	důchodce	Libušín	99	47	A
-2103	532576	1	2	47	5	Jindřich	Štáfek	M			56	invalidní důchodce	Libušín	99	47	A
-2103	532576	1	2	47	6	Miroslav	Nýdr	M			72	důchodce	Libušín	99	47	A
-2103	532576	1	2	47	7	Václav	Mrhal	M			65	důchodce	Libušín	99	47	A
-2103	532576	1	2	47	8	Sabina	Naušová	F			49	nezaměstnaná	Libušín	99	47	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	532576	1	1	901	1	Vladimír	Eichler	Ing.		58	starosta	Libušín	99	80	A	M
+2103	532576	1	2	47	1	Václav	Mrhal			42	elektrikář	Libušín	99	47	A	M
+2103	532576	1	1	901	2	Jindra	Šmolíková	Mgr.		53	místostarostka	Libušín	99	80	A	F
+2103	532576	1	2	47	2	Petr	Kučera			59	technik	Libušín	99	47	A	M
+2103	532576	1	1	901	3	Věra	Portužáková			56	ředitelka mateřské školy	Libušín	99	80	A	F
+2103	532576	1	2	47	3	Miloslav	Klauz			50	řidič	Libušín	99	47	A	M
+2103	532576	1	1	901	4	Radek	Panenka	Ing.		40	pedagog	Libušín	99	80	A	M
+2103	532576	1	2	47	4	Věra	Brožová			68	důchodce	Libušín	99	47	A	F
+2103	532576	1	1	901	5	Václav	Došek			49	vedoucí oddělení prodeje	Libušín	99	80	A	M
+2103	532576	1	2	47	5	Jindřich	Štáfek			56	invalidní důchodce	Libušín	99	47	A	M
+2103	532576	1	1	901	6	Marek	Plešner			50	OSVČ	Libušín	99	80	A	M
+2103	532576	1	2	47	6	Miroslav	Nýdr			72	důchodce	Libušín	99	47	A	M
+2103	532576	1	1	901	7	Daniela	Vlková	Ing.		46	OSVČ	Libušín	99	80	A	F
+2103	532576	1	2	47	7	Václav	Mrhal			65	důchodce	Libušín	99	47	A	M
+2103	532576	1	1	901	8	Zdeněk	Liška			45	manager	Libušín	99	80	A	M
+2103	532576	1	2	47	8	Sabina	Naušová			49	nezaměstnaná	Libušín	99	47	A	F
+2103	532576	1	1	901	9	Martin	Krček	Ing.	DiS.	40	odborný pracovník ve výzkumu	Libušín	99	80	A	M
+2103	532576	1	1	901	10	Hana	Ziková	MUDr.		42	lékařka	Libušín	99	80	A	F
+2103	532576	1	1	901	11	Martin	Ježek	Ing.		44	finanční ředitel	Libušín	99	80	A	M
+2103	532576	1	1	901	12	Věra	Navrátilová	Ing.		54	projektová manažerka	Libušín	99	80	A	F
+2103	532576	1	1	901	13	Ondřej	Pikla			67	důchodce	Libušín	99	80	A	M
+2103	532576	1	1	901	14	Martina	Břehová			50	administrativní pracovnice	Libušín	99	80	A	F
+2103	532576	1	1	901	15	Ivana	Klesnilová	Ing.		53	státní zaměstnanec	Libušín	99	80	A	F

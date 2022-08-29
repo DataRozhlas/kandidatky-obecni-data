@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3102	545449	1	1	387	1	Bořivoj	Vojče	M			59	starosta obce	Bujanov	47	47	0
-3102	545449	1	1	387	2	Karel	Mašek	M			53	důchodce	Bujanov	99	47	0
-3102	545449	1	1	387	3	Luděk	Detour	M			44	technik expedice	Bujanov	99	47	0
-3102	545449	1	1	387	4	Pavel	Novák	M			33	vedoucí servisních služeb	Bujanov	99	80	0
-3102	545449	1	1	387	5	Helena	Lhotská	F			54	prodavačka	Bujanov	47	47	0
-3102	545449	1	1	387	6	Jiří	Valach	M			59	soukromý zemědělec	Suchdol	99	47	0
-3102	545449	1	1	387	7	Anton	Souček	M			52	operátor lisovny	Bujanov	99	47	0
-3102	545449	1	1	387	8	Vladimír	Beleš	M			25	podnikatel	Suchdol	99	80	0
-3102	545449	1	2	901	1	Jiří	Tomeš	M			54	podnikatel	Bujanov	99	80	0
-3102	545449	1	2	901	2	Vilibald	Vrážek	M			36	podnikatel	Zdíky	99	80	0
-3102	545449	1	2	901	3	Pavel	Koclíř	M			50	dělník	Skoronice	99	80	0
-3102	545449	1	2	901	4	Daniela	Kubásková	F			32	manipulantka	Bujanov	99	80	0
-3102	545449	1	2	901	5	Antonie	Křížová	F			50	účetní	Bujanov	99	80	0
-3102	545449	1	2	901	6	Anna	Sedláčková	F			47	zdravotní sestra	Bujanov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3102	545449	1	1	387	1	Bořivoj	Vojče			59	starosta obce	Bujanov	47	47	0	M
+3102	545449	1	2	901	1	Jiří	Tomeš			54	podnikatel	Bujanov	99	80	0	M
+3102	545449	1	1	387	2	Karel	Mašek			53	důchodce	Bujanov	99	47	0	M
+3102	545449	1	2	901	2	Vilibald	Vrážek			36	podnikatel	Zdíky	99	80	0	M
+3102	545449	1	1	387	3	Luděk	Detour			44	technik expedice	Bujanov	99	47	0	M
+3102	545449	1	2	901	3	Pavel	Koclíř			50	dělník	Skoronice	99	80	0	M
+3102	545449	1	1	387	4	Pavel	Novák			33	vedoucí servisních služeb	Bujanov	99	80	0	M
+3102	545449	1	2	901	4	Daniela	Kubásková			32	manipulantka	Bujanov	99	80	0	F
+3102	545449	1	1	387	5	Helena	Lhotská			54	prodavačka	Bujanov	47	47	0	F
+3102	545449	1	2	901	5	Antonie	Křížová			50	účetní	Bujanov	99	80	0	F
+3102	545449	1	1	387	6	Jiří	Valach			59	soukromý zemědělec	Suchdol	99	47	0	M
+3102	545449	1	2	901	6	Anna	Sedláčková			47	zdravotní sestra	Bujanov	99	80	0	F
+3102	545449	1	1	387	7	Anton	Souček			52	operátor lisovny	Bujanov	99	47	0	M
+3102	545449	1	1	387	8	Vladimír	Beleš			25	podnikatel	Suchdol	99	80	0	M

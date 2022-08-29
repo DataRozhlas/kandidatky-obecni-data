@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	540811	1	1	902	1	Josef	Kaiser	M	Ing.		53	projektant	Nečín	99	80	0
-2111	540811	1	1	902	2	Petr	Moudrý	M			34	podnikatel	Nečín	7	80	0
-2111	540811	1	1	902	3	Jan	Dvořák	M			55	řidič	Žebrák	99	80	0
-2111	540811	1	1	902	4	Milan	Hloušek	M			51	kovář	Nečín	99	80	0
-2111	540811	1	1	902	5	Jiří	Novák	M			41	živnostník	Nečín	99	80	0
-2111	540811	1	1	902	6	Jiří	Boštík	M	Ing.		54	podnikatel	Nečín	99	80	0
-2111	540811	1	1	902	7	Jaroslav	Marhoul	M			48	řidič	Lipiny	99	80	0
-2111	540811	1	1	902	8	Miloš	Minár	M			36	hasič	Nečín	99	80	0
-2111	540811	1	1	902	9	Jana	Kiliánová	F			45	zdravotní sestra	Nečín	99	80	0
-2111	540811	1	1	902	10	Martin	Sklenář	M			41	technik	Nečín	99	80	0
-2111	540811	1	1	902	11	Miloslava	Strnadová	F			48	učitelka MŠ	Nečín	99	80	0
-2111	540811	1	2	901	1	Vladimír	Žebra	M	Ing.		50	lesník	Skalice	99	80	0
-2111	540811	1	2	901	2	David	Půda	M			42	lesník	Bělohrad	99	80	0
-2111	540811	1	2	901	3	Josef	Sobotka	M			47	stavební dělník	Skalice	99	80	0
-2111	540811	1	2	901	4	Irena	Machačová	F			40	dělnice	Skalice	99	80	0
-2111	540811	1	2	901	5	Iveta	Mandíková	F			33	admin.pracovnice	Skalice	99	80	0
-2111	540811	1	2	901	6	Jaroslav	Čech	M			47	zedník	Skalice	99	80	0
-2111	540811	1	2	901	7	Milan	Pinc	M			57	tesař	Skalice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	540811	1	1	902	1	Josef	Kaiser	Ing.		53	projektant	Nečín	99	80	0	M
+2111	540811	1	2	901	1	Vladimír	Žebra	Ing.		50	lesník	Skalice	99	80	0	M
+2111	540811	1	1	902	2	Petr	Moudrý			34	podnikatel	Nečín	7	80	0	M
+2111	540811	1	2	901	2	David	Půda			42	lesník	Bělohrad	99	80	0	M
+2111	540811	1	1	902	3	Jan	Dvořák			55	řidič	Žebrák	99	80	0	M
+2111	540811	1	2	901	3	Josef	Sobotka			47	stavební dělník	Skalice	99	80	0	M
+2111	540811	1	1	902	4	Milan	Hloušek			51	kovář	Nečín	99	80	0	M
+2111	540811	1	2	901	4	Irena	Machačová			40	dělnice	Skalice	99	80	0	F
+2111	540811	1	1	902	5	Jiří	Novák			41	živnostník	Nečín	99	80	0	M
+2111	540811	1	2	901	5	Iveta	Mandíková			33	admin.pracovnice	Skalice	99	80	0	F
+2111	540811	1	1	902	6	Jiří	Boštík	Ing.		54	podnikatel	Nečín	99	80	0	M
+2111	540811	1	2	901	6	Jaroslav	Čech			47	zedník	Skalice	99	80	0	M
+2111	540811	1	1	902	7	Jaroslav	Marhoul			48	řidič	Lipiny	99	80	0	M
+2111	540811	1	2	901	7	Milan	Pinc			57	tesař	Skalice	99	80	0	M
+2111	540811	1	1	902	8	Miloš	Minár			36	hasič	Nečín	99	80	0	M
+2111	540811	1	1	902	9	Jana	Kiliánová			45	zdravotní sestra	Nečín	99	80	0	F
+2111	540811	1	1	902	10	Martin	Sklenář			41	technik	Nečín	99	80	0	M
+2111	540811	1	1	902	11	Miloslava	Strnadová			48	učitelka MŠ	Nečín	99	80	0	F

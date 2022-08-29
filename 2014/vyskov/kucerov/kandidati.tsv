@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	593249	1	1	47	1	Gabriela	Přezvinská	F			35	v domácnosti	Kučerov	99	47	0
-6206	593249	1	1	47	2	David	Vokurka	M			36	OSVČ	Kučerov	99	47	0
-6206	593249	1	1	47	3	Josef	Kehm	M			60	provozní elektromontér	Kučerov	47	47	0
-6206	593249	1	2	901	1	Vlastimil	Bačovský	M			49	živnostník	Kučerov	99	80	0
-6206	593249	1	2	901	2	Jiří	Michlíček	M			47	opravář zemědělské techniky	Kučerov	99	80	0
-6206	593249	1	2	901	3	Petr	Čáp	M			44	živnostník	Kučerov	99	80	0
-6206	593249	1	2	901	4	Milan	Kouřil	M			45	živnostník	Kučerov	99	80	0
-6206	593249	1	2	901	5	Roman	Chvatík	M			49	živnostník	Kučerov	99	80	0
-6206	593249	1	2	901	6	Dagmar	Hůlková	F			51	administrativní pracovnice	Kučerov	99	80	0
-6206	593249	1	2	901	7	Milan	Gryc	M			50	živnostník	Kučerov	99	80	0
-6206	593249	1	2	901	8	Kamil	Jaborník	M	Ing.		48	velitel PS - SLAVKOV HZS JMK	Kučerov	99	80	0
-6206	593249	1	2	901	9	Pavel	Žvátora	M			37	živnostník	Kučerov	99	80	0
-6206	593249	1	3	902	1	Mojmír	Hložek	M			61	servisní technik	Kučerov	99	80	0
-6206	593249	1	3	902	2	Marie	Lokajová	F			34	office koordinátor	Kučerov	99	80	0
-6206	593249	1	3	902	3	Martin	Sommer	M			42	státní zaměstnanec	Kučerov	99	80	0
-6206	593249	1	3	902	4	Hana	Vičarová	F			44	operátor výroby	Kučerov	99	80	0
-6206	593249	1	3	902	5	Štěpán	Hůlka	M			48	obchodní zástupce	Kučerov	99	80	0
-6206	593249	1	3	902	6	Martin	Formánek	M			38	strojník	Kučerov	99	80	0
-6206	593249	1	3	902	7	Pavel	Karabina	M			37	vodárenský technik	Kučerov	99	80	0
-6206	593249	1	3	902	8	Vlastimil	Bačovský	M	Bc.		26	student	Kučerov	99	80	0
-6206	593249	1	3	902	9	Světlana	Formánková	F			35	prodavačka	Kučerov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	593249	1	1	47	1	Gabriela	Přezvinská			35	v domácnosti	Kučerov	99	47	0	F
+6206	593249	1	2	901	1	Vlastimil	Bačovský			49	živnostník	Kučerov	99	80	0	M
+6206	593249	1	3	902	1	Mojmír	Hložek			61	servisní technik	Kučerov	99	80	0	M
+6206	593249	1	1	47	2	David	Vokurka			36	OSVČ	Kučerov	99	47	0	M
+6206	593249	1	2	901	2	Jiří	Michlíček			47	opravář zemědělské techniky	Kučerov	99	80	0	M
+6206	593249	1	3	902	2	Marie	Lokajová			34	office koordinátor	Kučerov	99	80	0	F
+6206	593249	1	1	47	3	Josef	Kehm			60	provozní elektromontér	Kučerov	47	47	0	M
+6206	593249	1	2	901	3	Petr	Čáp			44	živnostník	Kučerov	99	80	0	M
+6206	593249	1	3	902	3	Martin	Sommer			42	státní zaměstnanec	Kučerov	99	80	0	M
+6206	593249	1	2	901	4	Milan	Kouřil			45	živnostník	Kučerov	99	80	0	M
+6206	593249	1	3	902	4	Hana	Vičarová			44	operátor výroby	Kučerov	99	80	0	F
+6206	593249	1	2	901	5	Roman	Chvatík			49	živnostník	Kučerov	99	80	0	M
+6206	593249	1	3	902	5	Štěpán	Hůlka			48	obchodní zástupce	Kučerov	99	80	0	M
+6206	593249	1	2	901	6	Dagmar	Hůlková			51	administrativní pracovnice	Kučerov	99	80	0	F
+6206	593249	1	3	902	6	Martin	Formánek			38	strojník	Kučerov	99	80	0	M
+6206	593249	1	2	901	7	Milan	Gryc			50	živnostník	Kučerov	99	80	0	M
+6206	593249	1	3	902	7	Pavel	Karabina			37	vodárenský technik	Kučerov	99	80	0	M
+6206	593249	1	2	901	8	Kamil	Jaborník	Ing.		48	velitel PS - SLAVKOV HZS JMK	Kučerov	99	80	0	M
+6206	593249	1	3	902	8	Vlastimil	Bačovský	Bc.		26	student	Kučerov	99	80	0	M
+6206	593249	1	2	901	9	Pavel	Žvátora			37	živnostník	Kučerov	99	80	0	M
+6206	593249	1	3	902	9	Světlana	Formánková			35	prodavačka	Kučerov	99	80	0	F

@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2108	537021	1	1	901	1	Iva	Schmidová	F			54	starostka	Velké Výkleky	99	80	A
-2108	537021	1	1	901	2	Martin	Midloch	M			43	řidič	Velké Výkleky	99	80	A
-2108	537021	1	1	901	3	Oldřich	Hochberger	M			59	OSVČ	Běrunice	99	80	A
-2108	537021	1	1	901	4	Josef	Podlaha	M			46	elektromechanik	Běrunice	99	80	A
-2108	537021	1	1	901	5	Petr	Hála	M			31	řidič	Běrunice	99	80	A
-2108	537021	1	1	901	6	Hana	Papežová	F			63	důchodce	Vlkov nad Lesy	99	80	A
-2108	537021	1	1	901	7	Pavel	Ouzký	M			41	řidič	Velké Výkleky	99	80	A
-2108	537021	1	2	902	1	Radek	Černý	M			34	technik	Běrunice	99	80	A
-2108	537021	1	2	902	2	Marta	Kubánková	F	Mgr.		48	učitelka	Běrunice	99	80	A
-2108	537021	1	2	902	3	Anna	Vanžurová	F	Ing.		42	rozpočtářka	Velké Výkleky	99	80	A
-2108	537021	1	2	902	4	Marcel	Doskočil	M	Ing.		66	důchodce	Vlkov nad Lesy	99	80	A
-2108	537021	1	2	902	5	Tomáš	Launa	M			33	vedoucí výroby	Slibovice	99	80	A
-2108	537021	1	2	902	6	Petr	Vojtíšek	M			40	řidič	Velké Výkleky	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2108	537021	1	1	901	1	Iva	Schmidová			54	starostka	Velké Výkleky	99	80	A	F
+2108	537021	1	2	902	1	Radek	Černý			34	technik	Běrunice	99	80	A	M
+2108	537021	1	1	901	2	Martin	Midloch			43	řidič	Velké Výkleky	99	80	A	M
+2108	537021	1	2	902	2	Marta	Kubánková	Mgr.		48	učitelka	Běrunice	99	80	A	F
+2108	537021	1	1	901	3	Oldřich	Hochberger			59	OSVČ	Běrunice	99	80	A	M
+2108	537021	1	2	902	3	Anna	Vanžurová	Ing.		42	rozpočtářka	Velké Výkleky	99	80	A	F
+2108	537021	1	1	901	4	Josef	Podlaha			46	elektromechanik	Běrunice	99	80	A	M
+2108	537021	1	2	902	4	Marcel	Doskočil	Ing.		66	důchodce	Vlkov nad Lesy	99	80	A	M
+2108	537021	1	1	901	5	Petr	Hála			31	řidič	Běrunice	99	80	A	M
+2108	537021	1	2	902	5	Tomáš	Launa			33	vedoucí výroby	Slibovice	99	80	A	M
+2108	537021	1	1	901	6	Hana	Papežová			63	důchodce	Vlkov nad Lesy	99	80	A	F
+2108	537021	1	2	902	6	Petr	Vojtíšek			40	řidič	Velké Výkleky	99	80	A	M
+2108	537021	1	1	901	7	Pavel	Ouzký			41	řidič	Velké Výkleky	99	80	A	M

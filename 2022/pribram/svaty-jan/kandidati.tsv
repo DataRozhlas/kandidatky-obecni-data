@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	541397	1	1	901	1	Filip	Wágner	M	Mgr.		30	vedoucí soc. služeb	Hrachov	99	80	A
-2111	541397	1	1	901	2	Veronika	Kytýrová	F	Bc.		38	zdravotní sestra	Hrachov	99	80	A
-2111	541397	1	1	901	3	Jiří	Kabyl	M		DiS.	38	zdravotní sestra	Drážkov	99	80	A
-2111	541397	1	1	901	4	Zdeňka	Němcová	F			47	záchranář	Hojšín	99	80	A
-2111	541397	1	1	901	5	Radek	Vandělík	M			48	technický pracovník	Skrýšov	99	80	A
-2111	541397	1	1	901	6	Luboš	Čedík	M	Bc.		36	OSVČ	Drážkov	99	80	A
-2111	541397	1	1	901	7	Zuzana	Procházková	F			36	administrativní pracovník	Skrýšov	99	80	A
-2111	541397	1	1	901	8	Petr	Ehrlich	M			32	skladník	Hrachov	99	80	A
-2111	541397	1	1	901	9	Petr	Pražák	M			30	OSVČ	Skrýšov	99	80	A
-2111	541397	1	1	901	10	Jaromír	Bareš	M		DiS.	44	obchodní zástupce	Hrachov	99	80	A
-2111	541397	1	1	901	11	Lenka	Kabylová	F		DiS.	41	zdravotní sestra	Skrýšov	99	80	A
-2111	541397	1	2	1	1	Václav	Hrubý	M			47	starosta	Bražná	1	1	A
-2111	541397	1	2	1	2	Milan	Kakeš	M	Ing.		54	agronom	Řadovy	99	1	A
-2111	541397	1	2	1	3	Martin	Falc	M			57	vedoucí autoservisu	Drážkov	99	1	A
-2111	541397	1	2	1	4	Petr	Kuncl	M			38	farmář	Brzina	99	1	A
-2111	541397	1	2	1	5	Tereza	Vyhlasová	F	Bc.		43	recepční	Drážkov	99	1	A
-2111	541397	1	2	1	6	Jiří	Čihák ml.	M			20	student	Svatý Jan	99	1	A
-2111	541397	1	2	1	7	Václav	Klán	M			37	dozorce vězeňské služby	Hojšín	99	1	A
-2111	541397	1	2	1	8	Lenka	Putíková	F			44	pracovnice pošty	Hrachov	99	1	A
-2111	541397	1	2	1	9	Jiří	Čihák st.	M			53	řidič	Svatý Jan	1	1	A
-2111	541397	1	2	1	10	Václav	Kohout	M			38	policista	Skrýšov	99	1	A
-2111	541397	1	2	1	11	Vladimíra	Sůvová	F			59	záchranářka	Hojšín	99	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	541397	1	1	901	1	Filip	Wágner	Mgr.		30	vedoucí soc. služeb	Hrachov	99	80	A	M
+2111	541397	1	2	1	1	Václav	Hrubý			47	starosta	Bražná	1	1	A	M
+2111	541397	1	1	901	2	Veronika	Kytýrová	Bc.		38	zdravotní sestra	Hrachov	99	80	A	F
+2111	541397	1	2	1	2	Milan	Kakeš	Ing.		54	agronom	Řadovy	99	1	A	M
+2111	541397	1	1	901	3	Jiří	Kabyl		DiS.	38	zdravotní sestra	Drážkov	99	80	A	M
+2111	541397	1	2	1	3	Martin	Falc			57	vedoucí autoservisu	Drážkov	99	1	A	M
+2111	541397	1	1	901	4	Zdeňka	Němcová			47	záchranář	Hojšín	99	80	A	F
+2111	541397	1	2	1	4	Petr	Kuncl			38	farmář	Brzina	99	1	A	M
+2111	541397	1	1	901	5	Radek	Vandělík			48	technický pracovník	Skrýšov	99	80	A	M
+2111	541397	1	2	1	5	Tereza	Vyhlasová	Bc.		43	recepční	Drážkov	99	1	A	F
+2111	541397	1	1	901	6	Luboš	Čedík	Bc.		36	OSVČ	Drážkov	99	80	A	M
+2111	541397	1	2	1	6	Jiří	Čihák ml.			20	student	Svatý Jan	99	1	A	M
+2111	541397	1	1	901	7	Zuzana	Procházková			36	administrativní pracovník	Skrýšov	99	80	A	F
+2111	541397	1	2	1	7	Václav	Klán			37	dozorce vězeňské služby	Hojšín	99	1	A	M
+2111	541397	1	1	901	8	Petr	Ehrlich			32	skladník	Hrachov	99	80	A	M
+2111	541397	1	2	1	8	Lenka	Putíková			44	pracovnice pošty	Hrachov	99	1	A	F
+2111	541397	1	1	901	9	Petr	Pražák			30	OSVČ	Skrýšov	99	80	A	M
+2111	541397	1	2	1	9	Jiří	Čihák st.			53	řidič	Svatý Jan	1	1	A	M
+2111	541397	1	1	901	10	Jaromír	Bareš		DiS.	44	obchodní zástupce	Hrachov	99	80	A	M
+2111	541397	1	2	1	10	Václav	Kohout			38	policista	Skrýšov	99	1	A	M
+2111	541397	1	1	901	11	Lenka	Kabylová		DiS.	41	zdravotní sestra	Skrýšov	99	80	A	F
+2111	541397	1	2	1	11	Vladimíra	Sůvová			59	záchranářka	Hojšín	99	1	A	F

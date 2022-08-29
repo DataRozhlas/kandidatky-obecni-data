@@ -1,39 +1,39 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	549487	1	1	1	1	Jaroslava	Srnková	F			51	zaměstnanec s.firmy	Kestřany	99	1	0
-3104	549487	1	1	1	2	Josef	Kučera	M			48	soukromý podnikatel	Zátaví	99	1	0
-3104	549487	1	1	1	3	Lucie	Štefanová	F	Bc.	DiS.	30	student	Zátaví	99	1	0
-3104	549487	1	1	1	4	Petra	Keclíková	F			26	soukromá podnikatelka	Kestřany	99	1	0
-3104	549487	1	1	1	5	Jiří	Rot	M			42	dělník	Kestřany	99	1	0
-3104	549487	1	1	1	6	Šárka	Málková	F			43	zootechnik	Zátaví	99	1	0
-3104	549487	1	1	1	7	Luboš	Soukup	M			33	soukromý podnikatel	Kestřany	99	1	0
-3104	549487	1	1	1	8	Zdeňka	Képešová	F			55	zdravotní sestra	Kestřany	99	1	0
-3104	549487	1	1	1	9	Jaroslava	Zemanová	F			26	soukromá podnikatelka	Kestřany	99	1	0
-3104	549487	1	1	1	10	Jaroslava	Zobalová	F			72	důchodce	Zátaví	1	1	0
-3104	549487	1	1	1	11	Jana	Ščasná	F			21	dělnice	Kestřany	99	1	0
-3104	549487	1	1	1	12	Jiří	Zobal	M			53	řidič	Zátaví	99	1	0
-3104	549487	1	1	1	13	Marie	Kučerová	F			42	skladnice	Zátaví	99	1	0
-3104	549487	1	1	1	14	Květuše	Kinkorová	F			54	operátorka	Zátaví	99	1	0
-3104	549487	1	1	1	15	Anna	Srnková	F			71	důchodce	Lhota u Kestřan	99	1	0
-3104	549487	1	2	47	1	Miroslava	Hrdličková	F	Ing.		54	ekonomka	Kestřany	47	47	0
-3104	549487	1	2	47	2	Petr	Hubáček	M			43	ředitel ZOD	Kestřany	99	47	0
-3104	549487	1	2	47	3	Václav	Reichl	M			43	zaměstnanec OBI	Kestřany	99	47	0
-3104	549487	1	2	47	4	Stanislav	Kučera	M			62	prodavač	Zátaví	47	47	0
-3104	549487	1	2	47	5	Robert	Cihlář	M			36	dělník	Kestřany	99	47	0
-3104	549487	1	2	47	6	Jiří	Vodička	M			62	podnikatel	Kestřany	99	47	0
-3104	549487	1	2	47	7	Františka	Kučerová	F			63	důchodkyně	Zátaví	47	47	0
-3104	549487	1	2	47	8	Josef	Cihlář	M			62	dělník	Kestřany	47	47	0
-3104	549487	1	3	901	1	Lubomír	Málek	M			47	vedoucí výroby	Zátaví	99	80	0
-3104	549487	1	3	901	2	Václav	Nosek	M			33	obchodní zástupce	Kestřany	99	80	0
-3104	549487	1	3	901	3	Vladimír	Viktora	M	Bc.		46	hasič-technik	Kestřany	99	80	0
-3104	549487	1	3	901	4	Pavel	Drahoš	M	Ing.		45	podnikatel	Kestřany	99	80	0
-3104	549487	1	3	901	5	Jaroslav	Kulanda	M			37	obchodní manažer	Kestřany	99	80	0
-3104	549487	1	3	901	6	Tomáš	Tichava	M			35	elektromechanik	Kestřany	99	80	0
-3104	549487	1	3	901	7	Miroslav	Masner	M			26	obchodní zástupce	Zátaví	99	80	0
-3104	549487	1	3	901	8	Marta	Mošovská	F			36	operátorka kontak.centra	Lhota u Kestřan	99	80	0
-3104	549487	1	3	901	9	Stanislav	Bečvář	M	Ing.		28	doktorand-pedagog	Kestřany	99	80	0
-3104	549487	1	3	901	10	Štěpánka	Roučková	F			38	poštovní doručovatelka	Kestřany	99	80	0
-3104	549487	1	3	901	11	Libuše	Reichlová	F			35	mateřská dovolená	Kestřany	99	80	0
-3104	549487	1	3	901	12	Martin	Lebeda	M			26	stavební dělník	Kestřany	99	80	0
-3104	549487	1	3	901	13	Jaroslava	Zachová	F			34	poštovní doručovatelka	Kestřany	99	80	0
-3104	549487	1	3	901	14	Roman	Pichlík	M	Bc.	DiS.	30	softwarový vývojář	Zátaví	99	80	0
-3104	549487	1	3	901	15	Jan	Marek	M			54	dělník	Zátaví	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	549487	1	1	1	1	Jaroslava	Srnková			51	zaměstnanec s.firmy	Kestřany	99	1	0	F
+3104	549487	1	2	47	1	Miroslava	Hrdličková	Ing.		54	ekonomka	Kestřany	47	47	0	F
+3104	549487	1	3	901	1	Lubomír	Málek			47	vedoucí výroby	Zátaví	99	80	0	M
+3104	549487	1	1	1	2	Josef	Kučera			48	soukromý podnikatel	Zátaví	99	1	0	M
+3104	549487	1	2	47	2	Petr	Hubáček			43	ředitel ZOD	Kestřany	99	47	0	M
+3104	549487	1	3	901	2	Václav	Nosek			33	obchodní zástupce	Kestřany	99	80	0	M
+3104	549487	1	1	1	3	Lucie	Štefanová	Bc.	DiS.	30	student	Zátaví	99	1	0	F
+3104	549487	1	2	47	3	Václav	Reichl			43	zaměstnanec OBI	Kestřany	99	47	0	M
+3104	549487	1	3	901	3	Vladimír	Viktora	Bc.		46	hasič-technik	Kestřany	99	80	0	M
+3104	549487	1	1	1	4	Petra	Keclíková			26	soukromá podnikatelka	Kestřany	99	1	0	F
+3104	549487	1	2	47	4	Stanislav	Kučera			62	prodavač	Zátaví	47	47	0	M
+3104	549487	1	3	901	4	Pavel	Drahoš	Ing.		45	podnikatel	Kestřany	99	80	0	M
+3104	549487	1	1	1	5	Jiří	Rot			42	dělník	Kestřany	99	1	0	M
+3104	549487	1	2	47	5	Robert	Cihlář			36	dělník	Kestřany	99	47	0	M
+3104	549487	1	3	901	5	Jaroslav	Kulanda			37	obchodní manažer	Kestřany	99	80	0	M
+3104	549487	1	1	1	6	Šárka	Málková			43	zootechnik	Zátaví	99	1	0	F
+3104	549487	1	2	47	6	Jiří	Vodička			62	podnikatel	Kestřany	99	47	0	M
+3104	549487	1	3	901	6	Tomáš	Tichava			35	elektromechanik	Kestřany	99	80	0	M
+3104	549487	1	1	1	7	Luboš	Soukup			33	soukromý podnikatel	Kestřany	99	1	0	M
+3104	549487	1	2	47	7	Františka	Kučerová			63	důchodkyně	Zátaví	47	47	0	F
+3104	549487	1	3	901	7	Miroslav	Masner			26	obchodní zástupce	Zátaví	99	80	0	M
+3104	549487	1	1	1	8	Zdeňka	Képešová			55	zdravotní sestra	Kestřany	99	1	0	F
+3104	549487	1	2	47	8	Josef	Cihlář			62	dělník	Kestřany	47	47	0	M
+3104	549487	1	3	901	8	Marta	Mošovská			36	operátorka kontak.centra	Lhota u Kestřan	99	80	0	F
+3104	549487	1	1	1	9	Jaroslava	Zemanová			26	soukromá podnikatelka	Kestřany	99	1	0	F
+3104	549487	1	3	901	9	Stanislav	Bečvář	Ing.		28	doktorand-pedagog	Kestřany	99	80	0	M
+3104	549487	1	1	1	10	Jaroslava	Zobalová			72	důchodce	Zátaví	1	1	0	F
+3104	549487	1	3	901	10	Štěpánka	Roučková			38	poštovní doručovatelka	Kestřany	99	80	0	F
+3104	549487	1	1	1	11	Jana	Ščasná			21	dělnice	Kestřany	99	1	0	F
+3104	549487	1	3	901	11	Libuše	Reichlová			35	mateřská dovolená	Kestřany	99	80	0	F
+3104	549487	1	1	1	12	Jiří	Zobal			53	řidič	Zátaví	99	1	0	M
+3104	549487	1	3	901	12	Martin	Lebeda			26	stavební dělník	Kestřany	99	80	0	M
+3104	549487	1	1	1	13	Marie	Kučerová			42	skladnice	Zátaví	99	1	0	F
+3104	549487	1	3	901	13	Jaroslava	Zachová			34	poštovní doručovatelka	Kestřany	99	80	0	F
+3104	549487	1	1	1	14	Květuše	Kinkorová			54	operátorka	Zátaví	99	1	0	F
+3104	549487	1	3	901	14	Roman	Pichlík	Bc.	DiS.	30	softwarový vývojář	Zátaví	99	80	0	M
+3104	549487	1	1	1	15	Anna	Srnková			71	důchodce	Lhota u Kestřan	99	1	0	F
+3104	549487	1	3	901	15	Jan	Marek			54	dělník	Zátaví	99	80	0	M

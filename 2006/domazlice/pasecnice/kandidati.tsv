@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	554081	1	1	7	1	Zdeněk	Váchal	M			38	technik	Nová Pasečnice	99	7	0
-3201	554081	1	1	7	2	Věra	Čistecká	F			66	důchodce	Nová Pasečnice	99	7	0
-3201	554081	1	1	7	3	Alexandr	Hájek	M			53	lektor	Stará Pasečnice	99	7	0
-3201	554081	1	1	7	4	Matouš	Dufek	M			43	soukromý zemědělec	Stará Pasečnice	99	7	0
-3201	554081	1	1	7	5	Marie	Svobodová	F			41	státní úředník	Nová Pasečnice	99	7	0
-3201	554081	1	1	7	6	Martina	Krejčová	F			39	hlavní účetní	Nová Pasečnice	99	7	0
-3201	554081	1	1	7	7	Hana	Hrušková	F			28	administrativní pracovnice	Stará Pasečnice	99	7	0
-3201	554081	1	2	901	1	Václav	Ticháček	M			56	řidič	Nová Pasečnice	99	80	0
-3201	554081	1	2	901	2	Marta	Lstibůrková	F	Ing.		56	ekologické poradenství	Nová Pasečnice	99	80	0
-3201	554081	1	2	901	3	Milena	Kaufnerová	F			47	invalidní důchodce	Nová Pasečnice	99	80	0
-3201	554081	1	2	901	4	Pavel	Bauer	M			48	mechanik	Stará Pasečnice	99	80	0
-3201	554081	1	2	901	5	Josef	Vítek	M	MVDr.		37	zvěrolékař	Stará Pasečnice	99	80	0
-3201	554081	1	2	901	6	Pavel	Soukup	M			29	řidič	Stará Pasečnice	99	80	0
-3201	554081	1	2	901	7	Jan	Němec	M			52	zámečník	Nová Pasečnice	99	80	0
-3201	554081	1	2	901	8	Jan	Kaufner	M			27	svářeč	Nová Pasečnice	99	80	0
-3201	554081	1	2	901	9	Vendula	Schleissová	F			31	soukromá podnikatelka	Stará Pasečnice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	554081	1	1	7	1	Zdeněk	Váchal			38	technik	Nová Pasečnice	99	7	0	M
+3201	554081	1	2	901	1	Václav	Ticháček			56	řidič	Nová Pasečnice	99	80	0	M
+3201	554081	1	1	7	2	Věra	Čistecká			66	důchodce	Nová Pasečnice	99	7	0	F
+3201	554081	1	2	901	2	Marta	Lstibůrková	Ing.		56	ekologické poradenství	Nová Pasečnice	99	80	0	F
+3201	554081	1	1	7	3	Alexandr	Hájek			53	lektor	Stará Pasečnice	99	7	0	M
+3201	554081	1	2	901	3	Milena	Kaufnerová			47	invalidní důchodce	Nová Pasečnice	99	80	0	F
+3201	554081	1	1	7	4	Matouš	Dufek			43	soukromý zemědělec	Stará Pasečnice	99	7	0	M
+3201	554081	1	2	901	4	Pavel	Bauer			48	mechanik	Stará Pasečnice	99	80	0	M
+3201	554081	1	1	7	5	Marie	Svobodová			41	státní úředník	Nová Pasečnice	99	7	0	F
+3201	554081	1	2	901	5	Josef	Vítek	MVDr.		37	zvěrolékař	Stará Pasečnice	99	80	0	M
+3201	554081	1	1	7	6	Martina	Krejčová			39	hlavní účetní	Nová Pasečnice	99	7	0	F
+3201	554081	1	2	901	6	Pavel	Soukup			29	řidič	Stará Pasečnice	99	80	0	M
+3201	554081	1	1	7	7	Hana	Hrušková			28	administrativní pracovnice	Stará Pasečnice	99	7	0	F
+3201	554081	1	2	901	7	Jan	Němec			52	zámečník	Nová Pasečnice	99	80	0	M
+3201	554081	1	2	901	8	Jan	Kaufner			27	svářeč	Nová Pasečnice	99	80	0	M
+3201	554081	1	2	901	9	Vendula	Schleissová			31	soukromá podnikatelka	Stará Pasečnice	99	80	0	F

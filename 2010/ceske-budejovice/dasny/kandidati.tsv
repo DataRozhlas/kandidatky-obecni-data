@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	535249	1	1	901	1	Ludmila	Kahounová	F	Ing.		50	OSVČ	Dasný	99	80	0
-3101	535249	1	1	901	2	Jaroslav	Michal	M	Ing.		39	pojišťovací poradce	Dasný	99	80	0
-3101	535249	1	1	901	3	Jana	Kubešová	F	Ing.		48	referent	Dasný	99	80	0
-3101	535249	1	1	901	4	Vlastimil	Bárta	M	Ing.		43	OSVČ	Dasný	99	80	0
-3101	535249	1	1	901	5	Karel	Beneš	M			29	policista	Dasný	99	80	0
-3101	535249	1	1	901	6	Petr	Novotný	M	Bc.		36	technik	Dasný	99	80	0
-3101	535249	1	1	901	7	Petr	Liška	M			54	OSVČ	Dasný	99	80	0
-3101	535249	1	1	901	8	Václav	Matouš	M			47	staveb. technik	Dasný	99	80	0
-3101	535249	1	2	137	1	Eva	Vítová	F			53	účetní	Dasný	99	137	0
-3101	535249	1	3	53	1	Vojtěch	Radouch	M			62	soukromý zemědělec	Dasný	53	53	0
-3101	535249	1	3	53	2	Milan	Černý	M			56	OSVČ	Dasný	53	53	0
-3101	535249	1	3	53	3	Helena	Dvořáková	F	PhDr.		50	knihovnice	Dasný	53	53	0
-3101	535249	1	3	53	4	Jan	Luxa	M			33	OSVČ	Dasný	99	53	0
-3101	535249	1	3	53	5	Marta	Cíchová	F			59	důchodce	Dasný	53	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	535249	1	1	901	1	Ludmila	Kahounová	Ing.		50	OSVČ	Dasný	99	80	0	F
+3101	535249	1	2	137	1	Eva	Vítová			53	účetní	Dasný	99	137	0	F
+3101	535249	1	3	53	1	Vojtěch	Radouch			62	soukromý zemědělec	Dasný	53	53	0	M
+3101	535249	1	1	901	2	Jaroslav	Michal	Ing.		39	pojišťovací poradce	Dasný	99	80	0	M
+3101	535249	1	3	53	2	Milan	Černý			56	OSVČ	Dasný	53	53	0	M
+3101	535249	1	1	901	3	Jana	Kubešová	Ing.		48	referent	Dasný	99	80	0	F
+3101	535249	1	3	53	3	Helena	Dvořáková	PhDr.		50	knihovnice	Dasný	53	53	0	F
+3101	535249	1	1	901	4	Vlastimil	Bárta	Ing.		43	OSVČ	Dasný	99	80	0	M
+3101	535249	1	3	53	4	Jan	Luxa			33	OSVČ	Dasný	99	53	0	M
+3101	535249	1	1	901	5	Karel	Beneš			29	policista	Dasný	99	80	0	M
+3101	535249	1	3	53	5	Marta	Cíchová			59	důchodce	Dasný	53	53	0	F
+3101	535249	1	1	901	6	Petr	Novotný	Bc.		36	technik	Dasný	99	80	0	M
+3101	535249	1	1	901	7	Petr	Liška			54	OSVČ	Dasný	99	80	0	M
+3101	535249	1	1	901	8	Václav	Matouš			47	staveb. technik	Dasný	99	80	0	M

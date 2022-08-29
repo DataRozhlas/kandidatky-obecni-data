@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	533050	1	1	901	1	Jiří	PROTIVA	M			57	starosta obce Vinařice	Vinařice	99	80	0
-2103	533050	1	1	901	2	Ivana	LÁNSKÁ	F			64	důchodkyně	Vinařice	99	80	0
-2103	533050	1	1	901	3	Jan	FRONĚK	M			47	zaměstnanec obce Vinařice	Vinařice	99	80	0
-2103	533050	1	1	901	4	Karel	HEJDA	M			40	vedoucí prodejny	Vinařice	99	80	0
-2103	533050	1	1	901	5	Irena	BAŘTIPÁNOVÁ	F			52	radiologický asistent	Vinařice	99	80	0
-2103	533050	1	1	901	6	Jan	ŠAŠEK	M			43	brusič	Vinařice	99	80	0
-2103	533050	1	1	901	7	Petr	NERAD	M			36	OSVČ	Vinařice	99	80	0
-2103	533050	1	1	901	8	Miluše	BELÁNYIOVÁ	F			56	zdravotní sestra	Vinařice	99	80	0
-2103	533050	1	1	901	9	Zdeněk	FREY	M			61	OSVČ	Vinařice	99	80	0
-2103	533050	1	2	902	1	Václav	FEŘTEK	M			47	jednatel firmy	Vinařice	99	80	0
-2103	533050	1	2	902	2	Hana	OSVALDOVÁ	F			38	učitelka	Vinařice	99	80	0
-2103	533050	1	2	902	3	Jaroslav	ZVELEBIL	M			47	OSVČ	Vinařice	99	80	0
-2103	533050	1	2	902	4	Jan	EBERT	M			53	jednatel firmy	Vinařice	99	80	0
-2103	533050	1	2	902	5	Dana	HEJTÍKOVÁ	F	Ing.		53	ekonom	Vinařice	99	80	0
-2103	533050	1	2	902	6	Petr	SUCHÝ	M	Bc.		38	vedoucí stavebního referátu	Vinařice	99	80	0
-2103	533050	1	2	902	7	Ivana	HRANOSTÝLOVÁ	F	MUDr.		57	praktická lékařka	Vinařice	99	80	0
-2103	533050	1	2	902	8	Ludmila	TOMŠÍKOVÁ	F			49	administrativní pracovník	Vinařice	99	80	0
-2103	533050	1	2	902	9	Petr	BÁRTA	M			44	stavbyvedoucí	Vinařice	99	80	0
-2103	533050	1	3	7	1	Pavel	ROLINEC	M			37	vedoucí Hornického skanzenu Mayrau	Vinařice	7	7	0
-2103	533050	1	3	7	2	Zdeňka	BREJCHOVÁ	F	Bc.	DiS.	45	jednatelka firmy	Vinařice	7	7	0
-2103	533050	1	3	7	3	Vladislav	JÍCHA	M			59	předák	Vinařice	7	7	0
-2103	533050	1	3	7	4	Lenka	FOŘTOVÁ	F			45	strojník vodohospodářských zařízení	Vinařice	99	7	0
-2103	533050	1	3	7	5	Robert	MURŇÁK	M			70	důchodce	Vinařice	7	7	0
-2103	533050	1	3	7	6	Miluše	ROLINCOVÁ	F	Bc.		38	asistentka senátora	Vinařice	7	7	0
-2103	533050	1	3	7	7	Kateřina	KRATOCHVÍLOVÁ	F			35	studentka	Vinařice	99	7	0
-2103	533050	1	3	7	8	Miluše	JÍCHOVÁ	F			62	důchodkyně	Vinařice	7	7	0
-2103	533050	1	3	7	9	Denisa	BREJCHOVÁ	F			22	studentka	Vinařice	7	7	0
-2103	533050	1	4	47	1	Václav	SUCHÝ	M			61	důchodce	Vinařice	47	47	0
-2103	533050	1	4	47	2	Miloš	ERLICH	M			70	důchodce	Vinařice	47	47	0
-2103	533050	1	4	47	3	Jana	SCHWARZOVÁ	F			45	pečovatelka	Vinařice	99	47	0
-2103	533050	1	4	47	4	Dagmar	VYSOKÁ	F			67	důchodkyně	Vinařice	99	47	0
-2103	533050	1	4	47	5	Josef	OSVALD	M			64	důchodce	Vinařice	99	47	0
-2103	533050	1	4	47	6	Eva Marie	TOBIÁŠOVÁ	F		DiS.	62	důchodkyně	Vinařice	99	47	0
-2103	533050	1	4	47	7	Miloš	KROPÁČ	M			70	důchodce	Vinařice	99	47	0
-2103	533050	1	4	47	8	Andrea	BABYKOVÁ	F			29	pečovatelka	Vinařice	99	47	0
-2103	533050	1	4	47	9	Václav	KŘÍČEK	M			69	důchodce	Vinařice	99	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	533050	1	1	901	1	Jiří	PROTIVA			57	starosta obce Vinařice	Vinařice	99	80	0	M
+2103	533050	1	2	902	1	Václav	FEŘTEK			47	jednatel firmy	Vinařice	99	80	0	M
+2103	533050	1	3	7	1	Pavel	ROLINEC			37	vedoucí Hornického skanzenu Mayrau	Vinařice	7	7	0	M
+2103	533050	1	4	47	1	Václav	SUCHÝ			61	důchodce	Vinařice	47	47	0	M
+2103	533050	1	1	901	2	Ivana	LÁNSKÁ			64	důchodkyně	Vinařice	99	80	0	F
+2103	533050	1	2	902	2	Hana	OSVALDOVÁ			38	učitelka	Vinařice	99	80	0	F
+2103	533050	1	3	7	2	Zdeňka	BREJCHOVÁ	Bc.	DiS.	45	jednatelka firmy	Vinařice	7	7	0	F
+2103	533050	1	4	47	2	Miloš	ERLICH			70	důchodce	Vinařice	47	47	0	M
+2103	533050	1	1	901	3	Jan	FRONĚK			47	zaměstnanec obce Vinařice	Vinařice	99	80	0	M
+2103	533050	1	2	902	3	Jaroslav	ZVELEBIL			47	OSVČ	Vinařice	99	80	0	M
+2103	533050	1	3	7	3	Vladislav	JÍCHA			59	předák	Vinařice	7	7	0	M
+2103	533050	1	4	47	3	Jana	SCHWARZOVÁ			45	pečovatelka	Vinařice	99	47	0	F
+2103	533050	1	1	901	4	Karel	HEJDA			40	vedoucí prodejny	Vinařice	99	80	0	M
+2103	533050	1	2	902	4	Jan	EBERT			53	jednatel firmy	Vinařice	99	80	0	M
+2103	533050	1	3	7	4	Lenka	FOŘTOVÁ			45	strojník vodohospodářských zařízení	Vinařice	99	7	0	F
+2103	533050	1	4	47	4	Dagmar	VYSOKÁ			67	důchodkyně	Vinařice	99	47	0	F
+2103	533050	1	1	901	5	Irena	BAŘTIPÁNOVÁ			52	radiologický asistent	Vinařice	99	80	0	F
+2103	533050	1	2	902	5	Dana	HEJTÍKOVÁ	Ing.		53	ekonom	Vinařice	99	80	0	F
+2103	533050	1	3	7	5	Robert	MURŇÁK			70	důchodce	Vinařice	7	7	0	M
+2103	533050	1	4	47	5	Josef	OSVALD			64	důchodce	Vinařice	99	47	0	M
+2103	533050	1	1	901	6	Jan	ŠAŠEK			43	brusič	Vinařice	99	80	0	M
+2103	533050	1	2	902	6	Petr	SUCHÝ	Bc.		38	vedoucí stavebního referátu	Vinařice	99	80	0	M
+2103	533050	1	3	7	6	Miluše	ROLINCOVÁ	Bc.		38	asistentka senátora	Vinařice	7	7	0	F
+2103	533050	1	4	47	6	Eva Marie	TOBIÁŠOVÁ		DiS.	62	důchodkyně	Vinařice	99	47	0	F
+2103	533050	1	1	901	7	Petr	NERAD			36	OSVČ	Vinařice	99	80	0	M
+2103	533050	1	2	902	7	Ivana	HRANOSTÝLOVÁ	MUDr.		57	praktická lékařka	Vinařice	99	80	0	F
+2103	533050	1	3	7	7	Kateřina	KRATOCHVÍLOVÁ			35	studentka	Vinařice	99	7	0	F
+2103	533050	1	4	47	7	Miloš	KROPÁČ			70	důchodce	Vinařice	99	47	0	M
+2103	533050	1	1	901	8	Miluše	BELÁNYIOVÁ			56	zdravotní sestra	Vinařice	99	80	0	F
+2103	533050	1	2	902	8	Ludmila	TOMŠÍKOVÁ			49	administrativní pracovník	Vinařice	99	80	0	F
+2103	533050	1	3	7	8	Miluše	JÍCHOVÁ			62	důchodkyně	Vinařice	7	7	0	F
+2103	533050	1	4	47	8	Andrea	BABYKOVÁ			29	pečovatelka	Vinařice	99	47	0	F
+2103	533050	1	1	901	9	Zdeněk	FREY			61	OSVČ	Vinařice	99	80	0	M
+2103	533050	1	2	902	9	Petr	BÁRTA			44	stavbyvedoucí	Vinařice	99	80	0	M
+2103	533050	1	3	7	9	Denisa	BREJCHOVÁ			22	studentka	Vinařice	7	7	0	F
+2103	533050	1	4	47	9	Václav	KŘÍČEK			69	důchodce	Vinařice	99	47	0	M

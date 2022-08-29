@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	530808	1	1	901	1	Tibor	Terbák	M			51	starosta	Královec	99	80	A
-5205	530808	1	1	901	2	Helmut	Anders	M			74	místostarosta	Královec	99	80	A
-5205	530808	1	1	901	3	Jan	Bartoň	M			64	informační technik	Královec	99	80	A
-5205	530808	1	1	901	4	Miroslav	Martinec	M			64	důchodce	Královec	99	80	A
-5205	530808	1	1	901	5	Dagmar	Vodičková	F	Mgr.		64	učitelka	Královec	99	80	A
-5205	530808	1	2	902	1	Zdeněk	Mach	M			48	team leader	Královec	99	80	A
-5205	530808	1	2	902	2	Ladislav	Miščuk	M			39	seřizovač	Královec	99	80	A
-5205	530808	1	2	902	3	Lucie	Zimová	F			46	dělnice	Královec	99	80	A
-5205	530808	1	2	902	4	Vladimír	Martinec	M	Ing.		53	technolog	Královec	99	80	A
-5205	530808	1	2	902	5	Jan	Thér	M	Bc.		25	IT specialista	Královec	99	80	A
-5205	530808	1	2	902	6	Helena	Rajsnerová	F			41	dělnice	Královec	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	530808	1	1	901	1	Tibor	Terbák			51	starosta	Královec	99	80	A	M
+5205	530808	1	2	902	1	Zdeněk	Mach			48	team leader	Královec	99	80	A	M
+5205	530808	1	1	901	2	Helmut	Anders			74	místostarosta	Královec	99	80	A	M
+5205	530808	1	2	902	2	Ladislav	Miščuk			39	seřizovač	Královec	99	80	A	M
+5205	530808	1	1	901	3	Jan	Bartoň			64	informační technik	Královec	99	80	A	M
+5205	530808	1	2	902	3	Lucie	Zimová			46	dělnice	Královec	99	80	A	F
+5205	530808	1	1	901	4	Miroslav	Martinec			64	důchodce	Královec	99	80	A	M
+5205	530808	1	2	902	4	Vladimír	Martinec	Ing.		53	technolog	Královec	99	80	A	M
+5205	530808	1	1	901	5	Dagmar	Vodičková	Mgr.		64	učitelka	Královec	99	80	A	F
+5205	530808	1	2	902	5	Jan	Thér	Bc.		25	IT specialista	Královec	99	80	A	M
+5205	530808	1	2	902	6	Helena	Rajsnerová			41	dělnice	Královec	99	80	A	F

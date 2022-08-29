@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2105	534081	1	1	470	1	Petr	Záruba	M	MVDr.		61	OSVČ	Chabeřice	99	166	A
-2105	534081	1	1	470	2	Roman	Měkota	M			41	OSVČ	Čížov	99	80	A
-2105	534081	1	1	470	3	Vladimíra	Adamová	F			41	OSVČ	Chabeřice	99	80	A
-2105	534081	1	1	470	4	Josef	Edr	M			62	dělník	Chabeřice	99	80	A
-2105	534081	1	1	470	5	Jiří	Petrů	M			61	elektrikář	Chabeřice	99	80	A
-2105	534081	1	1	470	6	Miroslav	Vilimovský	M			58	dělník	Chabeřice	99	80	A
-2105	534081	1	1	470	7	Barbora	Zárubová	F			31	chovatel	Chabeřice	99	80	A
-2105	534081	1	2	901	1	František	Burda	M			55	řidič	Chabeřice	99	80	A
-2105	534081	1	2	901	2	František	Vilimovský	M			65	důchodce	Holšice	99	80	A
-2105	534081	1	2	901	3	Michal	Bělík	M			40	programátor	Chabeřice	99	80	A
-2105	534081	1	2	901	4	Václav	Jasanský	M			38	obchodní zástupce	Čížov	99	80	A
-2105	534081	1	2	901	5	Ivana	Kotrejchová	F			50	prodavačka	Brandýs	99	80	A
-2105	534081	1	2	901	6	Milan	Závorka	M			24	konstruktér	Chabeřice	99	80	A
-2105	534081	1	2	901	7	Jaroslav	Jeništa	M			60	dělník	Holšice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2105	534081	1	1	470	1	Petr	Záruba	MVDr.		61	OSVČ	Chabeřice	99	166	A	M
+2105	534081	1	2	901	1	František	Burda			55	řidič	Chabeřice	99	80	A	M
+2105	534081	1	1	470	2	Roman	Měkota			41	OSVČ	Čížov	99	80	A	M
+2105	534081	1	2	901	2	František	Vilimovský			65	důchodce	Holšice	99	80	A	M
+2105	534081	1	1	470	3	Vladimíra	Adamová			41	OSVČ	Chabeřice	99	80	A	F
+2105	534081	1	2	901	3	Michal	Bělík			40	programátor	Chabeřice	99	80	A	M
+2105	534081	1	1	470	4	Josef	Edr			62	dělník	Chabeřice	99	80	A	M
+2105	534081	1	2	901	4	Václav	Jasanský			38	obchodní zástupce	Čížov	99	80	A	M
+2105	534081	1	1	470	5	Jiří	Petrů			61	elektrikář	Chabeřice	99	80	A	M
+2105	534081	1	2	901	5	Ivana	Kotrejchová			50	prodavačka	Brandýs	99	80	A	F
+2105	534081	1	1	470	6	Miroslav	Vilimovský			58	dělník	Chabeřice	99	80	A	M
+2105	534081	1	2	901	6	Milan	Závorka			24	konstruktér	Chabeřice	99	80	A	M
+2105	534081	1	1	470	7	Barbora	Zárubová			31	chovatel	Chabeřice	99	80	A	F
+2105	534081	1	2	901	7	Jaroslav	Jeništa			60	dělník	Holšice	99	80	A	M

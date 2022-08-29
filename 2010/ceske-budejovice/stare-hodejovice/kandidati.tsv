@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	545074	1	1	721	1	Vladimíra	Čechová	F			37	asistentka poslance	Staré Hodějovice	721	721	0
-3101	545074	1	1	721	2	Martin	Layer	M	Ing.		47	manažer financí a účetnictví	Staré Hodějovice	99	721	0
-3101	545074	1	1	721	3	Alena	Kozojedová	F			46	obchodník	Staré Hodějovice	99	721	0
-3101	545074	1	1	721	4	Pavel	Hušek	M	Ing.		47	soudní odhadce	Staré Hodějovice	99	721	0
-3101	545074	1	1	721	5	Jan	Mottl	M			24	živnostník	Staré Hodějovice	99	721	0
-3101	545074	1	1	721	6	Zdenek	Laur	M			52	specialista údržby zeleně	Staré Hodějovice	99	721	0
-3101	545074	1	1	721	7	Dana	Pilná	F			53	zdravotní sestra	Staré Hodějovice	99	721	0
-3101	545074	1	1	721	8	Šárka	Křivanová	F	Mgr.		46	pedagog	Staré Hodějovice	99	721	0
-3101	545074	1	1	721	9	Miroslav	Čech	M			43	hostinský	Staré Hodějovice	99	721	0
-3101	545074	1	2	53	1	Zdeněk	Blažek	M	Ing.		57	generální ředitel	Staré Hodějovice	53	53	0
-3101	545074	1	2	53	2	Vladimír	Warisch	M	Ing.		51	manažer	Staré Hodějovice	99	53	0
-3101	545074	1	2	53	3	Luděk	Kotek	M			35	technolog	Staré Hodějovice	99	53	0
-3101	545074	1	2	53	4	Jaroslava	Blahníková	F			53	manažerka	Staré Hodějovice	53	53	0
-3101	545074	1	2	53	5	Robert	Krigar	M			45	ředitel	Staré Hodějovice	53	53	0
-3101	545074	1	2	53	6	Zdeněk	Fošum	M			57	podnikatel	Staré Hodějovice	53	53	0
-3101	545074	1	2	53	7	Karel	Novotný	M			49	podnikatel	Staré Hodějovice	99	53	0
-3101	545074	1	2	53	8	Jan	Axman	M	Ing.		49	podnikatel	Staré Hodějovice	99	53	0
-3101	545074	1	2	53	9	Václav	Petřík	M			50	podnikatel	Staré Hodějovice	53	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	545074	1	1	721	1	Vladimíra	Čechová			37	asistentka poslance	Staré Hodějovice	721	721	0	F
+3101	545074	1	2	53	1	Zdeněk	Blažek	Ing.		57	generální ředitel	Staré Hodějovice	53	53	0	M
+3101	545074	1	1	721	2	Martin	Layer	Ing.		47	manažer financí a účetnictví	Staré Hodějovice	99	721	0	M
+3101	545074	1	2	53	2	Vladimír	Warisch	Ing.		51	manažer	Staré Hodějovice	99	53	0	M
+3101	545074	1	1	721	3	Alena	Kozojedová			46	obchodník	Staré Hodějovice	99	721	0	F
+3101	545074	1	2	53	3	Luděk	Kotek			35	technolog	Staré Hodějovice	99	53	0	M
+3101	545074	1	1	721	4	Pavel	Hušek	Ing.		47	soudní odhadce	Staré Hodějovice	99	721	0	M
+3101	545074	1	2	53	4	Jaroslava	Blahníková			53	manažerka	Staré Hodějovice	53	53	0	F
+3101	545074	1	1	721	5	Jan	Mottl			24	živnostník	Staré Hodějovice	99	721	0	M
+3101	545074	1	2	53	5	Robert	Krigar			45	ředitel	Staré Hodějovice	53	53	0	M
+3101	545074	1	1	721	6	Zdenek	Laur			52	specialista údržby zeleně	Staré Hodějovice	99	721	0	M
+3101	545074	1	2	53	6	Zdeněk	Fošum			57	podnikatel	Staré Hodějovice	53	53	0	M
+3101	545074	1	1	721	7	Dana	Pilná			53	zdravotní sestra	Staré Hodějovice	99	721	0	F
+3101	545074	1	2	53	7	Karel	Novotný			49	podnikatel	Staré Hodějovice	99	53	0	M
+3101	545074	1	1	721	8	Šárka	Křivanová	Mgr.		46	pedagog	Staré Hodějovice	99	721	0	F
+3101	545074	1	2	53	8	Jan	Axman	Ing.		49	podnikatel	Staré Hodějovice	99	53	0	M
+3101	545074	1	1	721	9	Miroslav	Čech			43	hostinský	Staré Hodějovice	99	721	0	M
+3101	545074	1	2	53	9	Václav	Petřík			50	podnikatel	Staré Hodějovice	53	53	0	M

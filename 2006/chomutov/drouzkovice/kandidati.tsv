@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4202	563056	1	1	801	1	Rostislav	Vaňous	M			60	dělník	Droužkovice	99	80	0
-4202	563056	1	2	901	1	Milan	Živný	M			58	starosta obce	Droužkovice	99	80	0
-4202	563056	1	2	901	2	Luděk	Nesládek	M			38	elektrikář	Droužkovice	99	80	0
-4202	563056	1	2	901	3	Jan	Okénka	M			44	soukromý podnikatel	Droužkovice	99	80	0
-4202	563056	1	2	901	4	Jiří	Dolejška	M			44	elektrikář	Droužkovice	99	80	0
-4202	563056	1	2	901	5	Eva	Řečínská	F			44	personalistka	Droužkovice	99	80	0
-4202	563056	1	2	901	6	Emil	Campr	M			56	vedoucí opravárenství	Droužkovice	99	80	0
-4202	563056	1	2	901	7	Jiří	Sýkora	M			39	počítačový technik	Droužkovice	99	80	0
-4202	563056	1	3	53	1	Rudolf	Vojtěch	M			54	podnikatel	Droužkovice	53	53	0
-4202	563056	1	3	53	2	Pavel	Milák	M	Bc. Dr.		39	obchodní arbitr	Droužkovice	53	53	0
-4202	563056	1	3	53	3	Marian	Ješko	M			36	podnikatel	Droužkovice	99	53	0
-4202	563056	1	3	53	4	Jaroslav	Šimek	M			48	podnikatel	Droužkovice	99	53	0
-4202	563056	1	3	53	5	Václav	Merhaut	M			34	svářeč	Droužkovice	53	53	0
-4202	563056	1	3	53	6	Jakub	Michalec	M			19	řidič	Droužkovice	53	53	0
-4202	563056	1	3	53	7	František	Gunčaga	M			23	nezaměstnaný	Droužkovice	53	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4202	563056	1	1	801	1	Rostislav	Vaňous			60	dělník	Droužkovice	99	80	0	M
+4202	563056	1	2	901	1	Milan	Živný			58	starosta obce	Droužkovice	99	80	0	M
+4202	563056	1	3	53	1	Rudolf	Vojtěch			54	podnikatel	Droužkovice	53	53	0	M
+4202	563056	1	2	901	2	Luděk	Nesládek			38	elektrikář	Droužkovice	99	80	0	M
+4202	563056	1	3	53	2	Pavel	Milák	Bc. Dr.		39	obchodní arbitr	Droužkovice	53	53	0	M
+4202	563056	1	2	901	3	Jan	Okénka			44	soukromý podnikatel	Droužkovice	99	80	0	M
+4202	563056	1	3	53	3	Marian	Ješko			36	podnikatel	Droužkovice	99	53	0	M
+4202	563056	1	2	901	4	Jiří	Dolejška			44	elektrikář	Droužkovice	99	80	0	M
+4202	563056	1	3	53	4	Jaroslav	Šimek			48	podnikatel	Droužkovice	99	53	0	M
+4202	563056	1	2	901	5	Eva	Řečínská			44	personalistka	Droužkovice	99	80	0	F
+4202	563056	1	3	53	5	Václav	Merhaut			34	svářeč	Droužkovice	53	53	0	M
+4202	563056	1	2	901	6	Emil	Campr			56	vedoucí opravárenství	Droužkovice	99	80	0	M
+4202	563056	1	3	53	6	Jakub	Michalec			19	řidič	Droužkovice	53	53	0	M
+4202	563056	1	2	901	7	Jiří	Sýkora			39	počítačový technik	Droužkovice	99	80	0	M
+4202	563056	1	3	53	7	František	Gunčaga			23	nezaměstnaný	Droužkovice	53	53	0	M

@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6103	549142	1	1	801	1	Jan	Kos	M			58	nezaměstnaný	Vyskytná	99	80	0
-6103	549142	1	2	53	1	Pavel	Borka	M			41	živnostník	Vyskytná	99	53	0
-6103	549142	1	2	53	2	Stanislav	Hunal	M			39	OSVČ	Sedliště	99	53	0
-6103	549142	1	2	53	3	Lukáš	Kubát	M			30	OSVČ	Branišov	99	53	0
-6103	549142	1	2	53	4	Michal	Vondrák	M			23	student	Vyskytná	99	53	0
-6103	549142	1	2	53	5	Tomáš	Budík	M			30	OSVČ	Vyskytná	99	53	0
-6103	549142	1	2	53	6	Marie	Kohoutová	F			51	administrativní pracovnice	Vyskytná	99	53	0
-6103	549142	1	2	53	7	Vojtěch	Litomiský	M			21	řidič	Vyskytná	99	53	0
-6103	549142	1	2	53	8	Anna	Rásochová	F			51	živnostník	Vyskytná	53	53	0
-6103	549142	1	3	901	1	Tomáš	Koch	M			30	úředník	Vyskytná	99	80	0
-6103	549142	1	3	901	2	Pavel	Valenta	M			50	geodet	Vyskytná	99	80	0
-6103	549142	1	3	901	3	Jiří	Sankot	M			41	soukromý podnikatel	Branišov	99	80	0
-6103	549142	1	3	901	4	Petr	Paclík	M			35	soukromý podnikatel	Vyskytná	99	80	0
-6103	549142	1	3	901	5	Jaroslav	Valenta	M			39	zedník	Vyskytná	99	80	0
-6103	549142	1	3	901	6	Zdeněk	Bína	M			44	soukromý podnikatel	Vyskytná	99	80	0
-6103	549142	1	3	901	7	Lenka	Linhartová	F			46	ředitelka ZŠ a MŠ Vyskytná	Vyskytná	99	80	0
-6103	549142	1	3	901	8	Lenka	Štěpánová	F			26	soukromá podnikatelka	Vyskytná	99	80	0
-6103	549142	1	3	901	9	Petr	Blažek	M			39	obchodní zástupce	Vyskytná	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6103	549142	1	1	801	1	Jan	Kos			58	nezaměstnaný	Vyskytná	99	80	0	M
+6103	549142	1	2	53	1	Pavel	Borka			41	živnostník	Vyskytná	99	53	0	M
+6103	549142	1	3	901	1	Tomáš	Koch			30	úředník	Vyskytná	99	80	0	M
+6103	549142	1	2	53	2	Stanislav	Hunal			39	OSVČ	Sedliště	99	53	0	M
+6103	549142	1	3	901	2	Pavel	Valenta			50	geodet	Vyskytná	99	80	0	M
+6103	549142	1	2	53	3	Lukáš	Kubát			30	OSVČ	Branišov	99	53	0	M
+6103	549142	1	3	901	3	Jiří	Sankot			41	soukromý podnikatel	Branišov	99	80	0	M
+6103	549142	1	2	53	4	Michal	Vondrák			23	student	Vyskytná	99	53	0	M
+6103	549142	1	3	901	4	Petr	Paclík			35	soukromý podnikatel	Vyskytná	99	80	0	M
+6103	549142	1	2	53	5	Tomáš	Budík			30	OSVČ	Vyskytná	99	53	0	M
+6103	549142	1	3	901	5	Jaroslav	Valenta			39	zedník	Vyskytná	99	80	0	M
+6103	549142	1	2	53	6	Marie	Kohoutová			51	administrativní pracovnice	Vyskytná	99	53	0	F
+6103	549142	1	3	901	6	Zdeněk	Bína			44	soukromý podnikatel	Vyskytná	99	80	0	M
+6103	549142	1	2	53	7	Vojtěch	Litomiský			21	řidič	Vyskytná	99	53	0	M
+6103	549142	1	3	901	7	Lenka	Linhartová			46	ředitelka ZŠ a MŠ Vyskytná	Vyskytná	99	80	0	F
+6103	549142	1	2	53	8	Anna	Rásochová			51	živnostník	Vyskytná	53	53	0	F
+6103	549142	1	3	901	8	Lenka	Štěpánová			26	soukromá podnikatelka	Vyskytná	99	80	0	F
+6103	549142	1	3	901	9	Petr	Blažek			39	obchodní zástupce	Vyskytná	99	80	0	M

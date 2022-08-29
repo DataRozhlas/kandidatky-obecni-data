@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7104	517534	1	1	1	1	Věra	Gelová	F	Bc.		53	zdravotní sestra	Radslavice	1	1	0
-7104	517534	1	1	1	2	Jiří	Vyňuchal	M			60	zemědělec	Radslavice	99	1	0
-7104	517534	1	1	1	3	Jarmila	Svozílková	F			47	výzkumný pracovník	Radslavice	99	1	0
-7104	517534	1	1	1	4	Stanislav	Lukáš	M			65	důchodce	Radslavice	1	1	0
-7104	517534	1	1	1	5	Ivana	Kotulková	F	Ing.		50	v domácnosti	Radslavice	99	1	0
-7104	517534	1	1	1	6	Petr	Prinz	M	PhDr.		36	vedoucí střediska Samaritán	Radslavice	1	1	0
-7104	517534	1	1	1	7	František	Jiřík	M			54	optik	Radslavice	99	1	0
-7104	517534	1	1	1	8	Veronika	Gelová	F	Bc.		28	fyzioterapeutka	Radslavice	99	1	0
-7104	517534	1	1	1	9	Jana	Složilová	F	Ing.		32	odborný učitel	Radslavice	99	1	0
-7104	517534	1	1	1	10	Antonín	Lukáš	M			68	důchodce	Radslavice	1	1	0
-7104	517534	1	1	1	11	Martin	Mrázek	M			42	elektromechanik	Radslavice	99	1	0
-7104	517534	1	1	1	12	Marie	Dýmalová	F			28	mechanik výpočetní techniky	Radslavice	99	1	0
-7104	517534	1	1	1	13	Pavel	Vybíral	M			54	technik	Radslavice	99	1	0
-7104	517534	1	1	1	14	Barbara	Hoffmannová	F			37	administrativní pracovnice	Radslavice	99	1	0
-7104	517534	1	1	1	15	Václav	Šenk	M			70	důchodce	Radslavice	1	1	0
-7104	517534	1	2	901	1	Jiří	Vyňuchal	M			35	hasič	Radslavice	99	80	0
-7104	517534	1	2	901	2	Josef	Hrdlička	M			27	přípravář výroby	Radslavice	99	80	0
-7104	517534	1	2	901	3	Lucie	Navrátilová	F	Mgr.		26	koncipientka	Radslavice	99	80	0
-7104	517534	1	2	901	4	Marcela	Tichá	F			35	zdravotní sestra	Radslavice	99	80	0
-7104	517534	1	2	901	5	Věra	Haluzíková	F			44	OSVČ	Radslavice	99	80	0
-7104	517534	1	2	901	6	Miroslav	Padalík	M			66	podnikatel	Radslavice	99	80	0
-7104	517534	1	2	901	7	Leoš	Janáček	M	Ing.		39	hasič	Radslavice	99	80	0
-7104	517534	1	2	901	8	Martin	Klar	M			40	zaměstnanec obce	Radslavice	99	80	0
-7104	517534	1	2	901	9	Pavel	Složil	M			44	živnostník	Radslavice	99	80	0
-7104	517534	1	2	901	10	Karel	Červinka	M			41	kontrolor	Radslavice	99	80	0
-7104	517534	1	2	901	11	Zdenka	Steinerová	F			49	živnostník	Radslavice	99	80	0
-7104	517534	1	2	901	12	Dana	Valešová	F			42	prodavačka	Radslavice	99	80	0
-7104	517534	1	2	901	13	Martin	Kudrna	M			39	dřevomodelář	Radslavice	99	80	0
-7104	517534	1	2	901	14	Svatava	Radová	F	Ing.		33	logistik	Radslavice	99	80	0
-7104	517534	1	2	901	15	Petr	Kuban	M			44	obsluha CNC	Radslavice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7104	517534	1	1	1	1	Věra	Gelová	Bc.		53	zdravotní sestra	Radslavice	1	1	0	F
+7104	517534	1	2	901	1	Jiří	Vyňuchal			35	hasič	Radslavice	99	80	0	M
+7104	517534	1	1	1	2	Jiří	Vyňuchal			60	zemědělec	Radslavice	99	1	0	M
+7104	517534	1	2	901	2	Josef	Hrdlička			27	přípravář výroby	Radslavice	99	80	0	M
+7104	517534	1	1	1	3	Jarmila	Svozílková			47	výzkumný pracovník	Radslavice	99	1	0	F
+7104	517534	1	2	901	3	Lucie	Navrátilová	Mgr.		26	koncipientka	Radslavice	99	80	0	F
+7104	517534	1	1	1	4	Stanislav	Lukáš			65	důchodce	Radslavice	1	1	0	M
+7104	517534	1	2	901	4	Marcela	Tichá			35	zdravotní sestra	Radslavice	99	80	0	F
+7104	517534	1	1	1	5	Ivana	Kotulková	Ing.		50	v domácnosti	Radslavice	99	1	0	F
+7104	517534	1	2	901	5	Věra	Haluzíková			44	OSVČ	Radslavice	99	80	0	F
+7104	517534	1	1	1	6	Petr	Prinz	PhDr.		36	vedoucí střediska Samaritán	Radslavice	1	1	0	M
+7104	517534	1	2	901	6	Miroslav	Padalík			66	podnikatel	Radslavice	99	80	0	M
+7104	517534	1	1	1	7	František	Jiřík			54	optik	Radslavice	99	1	0	M
+7104	517534	1	2	901	7	Leoš	Janáček	Ing.		39	hasič	Radslavice	99	80	0	M
+7104	517534	1	1	1	8	Veronika	Gelová	Bc.		28	fyzioterapeutka	Radslavice	99	1	0	F
+7104	517534	1	2	901	8	Martin	Klar			40	zaměstnanec obce	Radslavice	99	80	0	M
+7104	517534	1	1	1	9	Jana	Složilová	Ing.		32	odborný učitel	Radslavice	99	1	0	F
+7104	517534	1	2	901	9	Pavel	Složil			44	živnostník	Radslavice	99	80	0	M
+7104	517534	1	1	1	10	Antonín	Lukáš			68	důchodce	Radslavice	1	1	0	M
+7104	517534	1	2	901	10	Karel	Červinka			41	kontrolor	Radslavice	99	80	0	M
+7104	517534	1	1	1	11	Martin	Mrázek			42	elektromechanik	Radslavice	99	1	0	M
+7104	517534	1	2	901	11	Zdenka	Steinerová			49	živnostník	Radslavice	99	80	0	F
+7104	517534	1	1	1	12	Marie	Dýmalová			28	mechanik výpočetní techniky	Radslavice	99	1	0	F
+7104	517534	1	2	901	12	Dana	Valešová			42	prodavačka	Radslavice	99	80	0	F
+7104	517534	1	1	1	13	Pavel	Vybíral			54	technik	Radslavice	99	1	0	M
+7104	517534	1	2	901	13	Martin	Kudrna			39	dřevomodelář	Radslavice	99	80	0	M
+7104	517534	1	1	1	14	Barbara	Hoffmannová			37	administrativní pracovnice	Radslavice	99	1	0	F
+7104	517534	1	2	901	14	Svatava	Radová	Ing.		33	logistik	Radslavice	99	80	0	F
+7104	517534	1	1	1	15	Václav	Šenk			70	důchodce	Radslavice	1	1	0	M
+7104	517534	1	2	901	15	Petr	Kuban			44	obsluha CNC	Radslavice	99	80	0	M

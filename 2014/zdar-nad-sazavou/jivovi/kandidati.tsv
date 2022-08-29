@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	595802	1	1	902	1	Jana	Horká	F			59	zdravotní sestra	Jívoví	99	80	0
-6105	595802	1	1	902	2	Erika	Ambrožová	F			37	operátor balení	Jívoví	99	80	0
-6105	595802	1	1	902	3	Eliška	Nováková	F			41	asistent pedagoga	Jívoví	99	80	0
-6105	595802	1	1	902	4	Jolana	Požárová	F			35	prodavačka	Jívoví	99	80	0
-6105	595802	1	1	902	5	Věra	Dohnalová	F	Mgr.		26	referentka	Jívoví	99	80	0
-6105	595802	1	1	902	6	Jana	Čechová	F			38	prodavačka	Jívoví	99	80	0
-6105	595802	1	2	901	1	Miloš	Holán	M			48	traktorista	Jívoví	99	80	0
-6105	595802	1	2	901	2	Jindřich	Šroler	M			44	traktorista	Jívoví	99	80	0
-6105	595802	1	2	901	3	Ladislav	Mach	M	Ing.		28	projektant	Jívoví	99	80	0
-6105	595802	1	2	901	4	Jiří	Čech	M			25	programátor CNC	Jívoví	99	80	0
-6105	595802	1	2	901	5	Dušan	Čech	M			41	strojní mechanik	Jívoví	99	80	0
-6105	595802	1	2	901	6	Václav	Novák	M	Ing.		50	OSVČ	Jívoví	99	80	0
-6105	595802	1	2	901	7	Rostislav	Novotný	M			48	OSVČ	Jívoví	99	80	0
-6105	595802	1	2	901	8	Pavla	Ďásková	F	Bc.		23	student	Jívoví	99	80	0
-6105	595802	1	2	901	9	Ludvík	Vala	M			59	řidič	Jívoví	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	595802	1	1	902	1	Jana	Horká			59	zdravotní sestra	Jívoví	99	80	0	F
+6105	595802	1	2	901	1	Miloš	Holán			48	traktorista	Jívoví	99	80	0	M
+6105	595802	1	1	902	2	Erika	Ambrožová			37	operátor balení	Jívoví	99	80	0	F
+6105	595802	1	2	901	2	Jindřich	Šroler			44	traktorista	Jívoví	99	80	0	M
+6105	595802	1	1	902	3	Eliška	Nováková			41	asistent pedagoga	Jívoví	99	80	0	F
+6105	595802	1	2	901	3	Ladislav	Mach	Ing.		28	projektant	Jívoví	99	80	0	M
+6105	595802	1	1	902	4	Jolana	Požárová			35	prodavačka	Jívoví	99	80	0	F
+6105	595802	1	2	901	4	Jiří	Čech			25	programátor CNC	Jívoví	99	80	0	M
+6105	595802	1	1	902	5	Věra	Dohnalová	Mgr.		26	referentka	Jívoví	99	80	0	F
+6105	595802	1	2	901	5	Dušan	Čech			41	strojní mechanik	Jívoví	99	80	0	M
+6105	595802	1	1	902	6	Jana	Čechová			38	prodavačka	Jívoví	99	80	0	F
+6105	595802	1	2	901	6	Václav	Novák	Ing.		50	OSVČ	Jívoví	99	80	0	M
+6105	595802	1	2	901	7	Rostislav	Novotný			48	OSVČ	Jívoví	99	80	0	M
+6105	595802	1	2	901	8	Pavla	Ďásková	Bc.		23	student	Jívoví	99	80	0	F
+6105	595802	1	2	901	9	Ludvík	Vala			59	řidič	Jívoví	99	80	0	M

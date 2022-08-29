@@ -1,29 +1,29 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5103	544477	1	1	47	1	Roman	Kendík	M			60	státní zaměstnanec	Stráž nad Nisou	99	47	0
-5103	544477	1	1	47	2	Václav	Martin	M			45	technik	Stráž nad Nisou	99	47	0
-5103	544477	1	1	47	3	Jaroslav	Kobosil	M	Ing.		62	technik	Stráž nad Nisou	47	47	0
-5103	544477	1	1	47	4	Marie	Šmídová	F			62	zahradnice	Stráž nad Nisou	99	47	0
-5103	544477	1	1	47	5	Stanislava	Kendíková	F			54	státní zaměstnanec	Stráž nad Nisou	99	47	0
-5103	544477	1	1	47	6	Vladimír	Lhota	M			60	zaměstnanec obce	Stráž nad Nisou	99	47	0
-5103	544477	1	1	47	7	Norbert	Scholl	M			62	dělník	Stráž nad Nisou	99	47	0
-5103	544477	1	1	47	8	Zdeňka	Horáková	F			63	dělnice	Stráž nad Nisou	99	47	0
-5103	544477	1	1	47	9	Blanka	Frýbová	F			61	dělnice	Stráž nad Nisou	99	47	0
-5103	544477	1	2	98	1	Josef	Voženílek	M			35	zaměstnanec, angažovaný občan	Stráž nad Nisou	99	98	0
-5103	544477	1	3	7	1	Lukáš	Beneš	M	Ing.		32	podnikatel v oboru telekomun.	Stráž nad Nisou	7	7	0
-5103	544477	1	3	7	2	Dalibor	Polák	M			36	profesionální sportovec	Stráž nad Nisou	99	7	0
-5103	544477	1	3	7	3	Daniela	Kysilková	F			42	podnikatelka v oboru účetnic.	Stráž nad Nisou	99	7	0
-5103	544477	1	3	7	4	Jan	Voříšek	M	Ing.		46	soukromý podnikatel	Stráž nad Nisou	99	7	0
-5103	544477	1	3	7	5	Antonín	Lukáč	M			46	technik	Stráž nad Nisou	7	7	0
-5103	544477	1	3	7	6	Luděk	Kříž	M			64	soudní vykonavatel	Stráž nad Nisou	99	7	0
-5103	544477	1	3	7	7	Jaroslav	Vojtěch	M			55	nezávislý producent	Stráž nad Nisou	99	7	0
-5103	544477	1	3	7	8	Jaroslav	Havlíček	M			26	technik	Stráž nad Nisou	99	7	0
-5103	544477	1	3	7	9	Václav	Radostný	M			33	řidič z povolání	Stráž nad Nisou	99	7	0
-5103	544477	1	4	53	1	Karel	Jäschke	M	Mgr.		46	starosta	Stráž nad Nisou	99	53	0
-5103	544477	1	4	53	2	Jaroslava	Zvolánková	F			53	ředitelka MŠ	Stráž nad Nisou	99	53	0
-5103	544477	1	4	53	3	Bohdan	Kvapil	M			38	profesionální hasič	Stráž nad Nisou	99	53	0
-5103	544477	1	4	53	4	Radim	Koutník	M			37	jednatel společnosti	Stráž nad Nisou	53	53	0
-5103	544477	1	4	53	5	Miroslav	Kračmar	M	Ing.		55	středoškolský učitel	Stráž nad Nisou	99	53	0
-5103	544477	1	4	53	6	Jan	Vysušil	M			47	soukromý podnikatel	Stráž nad Nisou	99	53	0
-5103	544477	1	4	53	7	Josef	Dědek	M	Ing.		76	důchodce	Stráž nad Nisou	99	53	0
-5103	544477	1	4	53	8	Jaroslav	Koloušek	M			61	automechanik	Stráž nad Nisou	99	53	0
-5103	544477	1	4	53	9	Jan	Hlozák	M			51	dělník	Svárov	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5103	544477	1	1	47	1	Roman	Kendík			60	státní zaměstnanec	Stráž nad Nisou	99	47	0	M
+5103	544477	1	2	98	1	Josef	Voženílek			35	zaměstnanec, angažovaný občan	Stráž nad Nisou	99	98	0	M
+5103	544477	1	3	7	1	Lukáš	Beneš	Ing.		32	podnikatel v oboru telekomun.	Stráž nad Nisou	7	7	0	M
+5103	544477	1	4	53	1	Karel	Jäschke	Mgr.		46	starosta	Stráž nad Nisou	99	53	0	M
+5103	544477	1	1	47	2	Václav	Martin			45	technik	Stráž nad Nisou	99	47	0	M
+5103	544477	1	3	7	2	Dalibor	Polák			36	profesionální sportovec	Stráž nad Nisou	99	7	0	M
+5103	544477	1	4	53	2	Jaroslava	Zvolánková			53	ředitelka MŠ	Stráž nad Nisou	99	53	0	F
+5103	544477	1	1	47	3	Jaroslav	Kobosil	Ing.		62	technik	Stráž nad Nisou	47	47	0	M
+5103	544477	1	3	7	3	Daniela	Kysilková			42	podnikatelka v oboru účetnic.	Stráž nad Nisou	99	7	0	F
+5103	544477	1	4	53	3	Bohdan	Kvapil			38	profesionální hasič	Stráž nad Nisou	99	53	0	M
+5103	544477	1	1	47	4	Marie	Šmídová			62	zahradnice	Stráž nad Nisou	99	47	0	F
+5103	544477	1	3	7	4	Jan	Voříšek	Ing.		46	soukromý podnikatel	Stráž nad Nisou	99	7	0	M
+5103	544477	1	4	53	4	Radim	Koutník			37	jednatel společnosti	Stráž nad Nisou	53	53	0	M
+5103	544477	1	1	47	5	Stanislava	Kendíková			54	státní zaměstnanec	Stráž nad Nisou	99	47	0	F
+5103	544477	1	3	7	5	Antonín	Lukáč			46	technik	Stráž nad Nisou	7	7	0	M
+5103	544477	1	4	53	5	Miroslav	Kračmar	Ing.		55	středoškolský učitel	Stráž nad Nisou	99	53	0	M
+5103	544477	1	1	47	6	Vladimír	Lhota			60	zaměstnanec obce	Stráž nad Nisou	99	47	0	M
+5103	544477	1	3	7	6	Luděk	Kříž			64	soudní vykonavatel	Stráž nad Nisou	99	7	0	M
+5103	544477	1	4	53	6	Jan	Vysušil			47	soukromý podnikatel	Stráž nad Nisou	99	53	0	M
+5103	544477	1	1	47	7	Norbert	Scholl			62	dělník	Stráž nad Nisou	99	47	0	M
+5103	544477	1	3	7	7	Jaroslav	Vojtěch			55	nezávislý producent	Stráž nad Nisou	99	7	0	M
+5103	544477	1	4	53	7	Josef	Dědek	Ing.		76	důchodce	Stráž nad Nisou	99	53	0	M
+5103	544477	1	1	47	8	Zdeňka	Horáková			63	dělnice	Stráž nad Nisou	99	47	0	F
+5103	544477	1	3	7	8	Jaroslav	Havlíček			26	technik	Stráž nad Nisou	99	7	0	M
+5103	544477	1	4	53	8	Jaroslav	Koloušek			61	automechanik	Stráž nad Nisou	99	53	0	M
+5103	544477	1	1	47	9	Blanka	Frýbová			61	dělnice	Stráž nad Nisou	99	47	0	F
+5103	544477	1	3	7	9	Václav	Radostný			33	řidič z povolání	Stráž nad Nisou	99	7	0	M
+5103	544477	1	4	53	9	Jan	Hlozák			51	dělník	Svárov	99	53	0	M

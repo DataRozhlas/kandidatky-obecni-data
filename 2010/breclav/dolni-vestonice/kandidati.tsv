@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6204	584436	1	1	901	1	Jan	Votava	M	RNDr.		59	chemik	Dolní Věstonice	99	80	0
-6204	584436	1	1	901	2	Pavel	Svoboda	M	Ing.		56	podnikatel	Dolní Věstonice	99	80	0
-6204	584436	1	1	901	3	Jaromír	Sasínek	M	Ing.		60	podnikatel	Dolní Věstonice	99	80	0
-6204	584436	1	1	901	4	Věra	Benešová	F			48	kuchařka	Dolní Věstonice	99	80	0
-6204	584436	1	1	901	5	Libor	Pavlica	M			41	řidič	Dolní Věstonice	99	80	0
-6204	584436	1	1	901	6	Zdeněk	Merčák	M			52	zaměstnanec	Dolní Věstonice	99	80	0
-6204	584436	1	1	901	7	Ján	Janča	M			26	zedník	Dolní Věstonice	99	80	0
-6204	584436	1	1	901	8	Stanislava	Nedbálková	F			59	místostarostka	Dolní Věstonice	99	80	0
-6204	584436	1	1	901	9	František	Langr	M			40	podnikatel	Dolní Věstonice	99	80	0
-6204	584436	1	2	802	1	Rostislav	Kucej	M			36	živnostník	Dolní Věstonice	99	80	0
-6204	584436	1	3	902	1	Dušan	Padalík	M			53	zaměstnanec	Dolní Věstonice	99	80	0
-6204	584436	1	3	902	2	Jiří	Němeček	M			54	vedoucí investičního oddělení	Dolní Věstonice	99	80	0
-6204	584436	1	3	902	3	Tomáš	Kucej	M			37	státní zaměstnanec	Dolní Věstonice	99	80	0
-6204	584436	1	3	902	4	Jaroslav	Bednařík	M			42	zaměstnanec	Dolní Věstonice	99	80	0
-6204	584436	1	3	902	5	Margita	Kucejová	F			37	provozní	Dolní Věstonice	99	80	0
-6204	584436	1	3	902	6	Dušan	Kalců	M			42	instalatér	Dolní Věstonice	99	80	0
-6204	584436	1	3	902	7	Jana	Mikulášková	F			42	zaměstnanec	Dolní Věstonice	99	80	0
-6204	584436	1	3	902	8	Jaroslav	Gloc	M			49	zaměstnanec	Dolní Věstonice	99	80	0
-6204	584436	1	3	902	9	Jiří	Klanica	M			64	důchodce	Dolní Věstonice	99	80	0
-6204	584436	1	4	801	1	Danuše	Svobodová	F			67	důchodkyně	Dolní Věstonice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6204	584436	1	1	901	1	Jan	Votava	RNDr.		59	chemik	Dolní Věstonice	99	80	0	M
+6204	584436	1	2	802	1	Rostislav	Kucej			36	živnostník	Dolní Věstonice	99	80	0	M
+6204	584436	1	3	902	1	Dušan	Padalík			53	zaměstnanec	Dolní Věstonice	99	80	0	M
+6204	584436	1	4	801	1	Danuše	Svobodová			67	důchodkyně	Dolní Věstonice	99	80	0	F
+6204	584436	1	1	901	2	Pavel	Svoboda	Ing.		56	podnikatel	Dolní Věstonice	99	80	0	M
+6204	584436	1	3	902	2	Jiří	Němeček			54	vedoucí investičního oddělení	Dolní Věstonice	99	80	0	M
+6204	584436	1	1	901	3	Jaromír	Sasínek	Ing.		60	podnikatel	Dolní Věstonice	99	80	0	M
+6204	584436	1	3	902	3	Tomáš	Kucej			37	státní zaměstnanec	Dolní Věstonice	99	80	0	M
+6204	584436	1	1	901	4	Věra	Benešová			48	kuchařka	Dolní Věstonice	99	80	0	F
+6204	584436	1	3	902	4	Jaroslav	Bednařík			42	zaměstnanec	Dolní Věstonice	99	80	0	M
+6204	584436	1	1	901	5	Libor	Pavlica			41	řidič	Dolní Věstonice	99	80	0	M
+6204	584436	1	3	902	5	Margita	Kucejová			37	provozní	Dolní Věstonice	99	80	0	F
+6204	584436	1	1	901	6	Zdeněk	Merčák			52	zaměstnanec	Dolní Věstonice	99	80	0	M
+6204	584436	1	3	902	6	Dušan	Kalců			42	instalatér	Dolní Věstonice	99	80	0	M
+6204	584436	1	1	901	7	Ján	Janča			26	zedník	Dolní Věstonice	99	80	0	M
+6204	584436	1	3	902	7	Jana	Mikulášková			42	zaměstnanec	Dolní Věstonice	99	80	0	F
+6204	584436	1	1	901	8	Stanislava	Nedbálková			59	místostarostka	Dolní Věstonice	99	80	0	F
+6204	584436	1	3	902	8	Jaroslav	Gloc			49	zaměstnanec	Dolní Věstonice	99	80	0	M
+6204	584436	1	1	901	9	František	Langr			40	podnikatel	Dolní Věstonice	99	80	0	M
+6204	584436	1	3	902	9	Jiří	Klanica			64	důchodce	Dolní Věstonice	99	80	0	M

@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5204	576816	1	1	901	1	Stanislav	Pantůček	M	Mgr.		38	Policie ČR	Slemeno	99	80	A
-5204	576816	1	1	901	2	Jaroslav	Štefek	M			47	sekretář Euroregionu Glacensis	Slemeno	99	80	A
-5204	576816	1	1	901	3	Josef	Šíla	M			57	technik, ovocnář	Synkov	99	80	A
-5204	576816	1	1	901	4	Jiří	Málek	M			46	controlling skladu	Synkov	99	80	A
-5204	576816	1	1	901	5	Milan	Koblása	M			58	OSVČ	Synkov	99	80	A
-5204	576816	1	1	901	6	Romana	Šimečková	F	Ing.		37	technolog	Synkov	99	80	A
-5204	576816	1	1	901	7	Michal	Říčař	M			27	technický referent kvality	Slemeno	99	80	A
-5204	576816	1	1	901	8	Jan	Bronek	M			47	řidič, strojník	Synkov	99	80	A
-5204	576816	1	1	901	9	Tomáš	Ruffer	M	Ing.	EFA	38	manažer obchodního týmu	Slemeno	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5204	576816	1	1	901	1	Stanislav	Pantůček	Mgr.		38	Policie ČR	Slemeno	99	80	A	M
+5204	576816	1	1	901	2	Jaroslav	Štefek			47	sekretář Euroregionu Glacensis	Slemeno	99	80	A	M
+5204	576816	1	1	901	3	Josef	Šíla			57	technik, ovocnář	Synkov	99	80	A	M
+5204	576816	1	1	901	4	Jiří	Málek			46	controlling skladu	Synkov	99	80	A	M
+5204	576816	1	1	901	5	Milan	Koblása			58	OSVČ	Synkov	99	80	A	M
+5204	576816	1	1	901	6	Romana	Šimečková	Ing.		37	technolog	Synkov	99	80	A	F
+5204	576816	1	1	901	7	Michal	Říčař			27	technický referent kvality	Slemeno	99	80	A	M
+5204	576816	1	1	901	8	Jan	Bronek			47	řidič, strojník	Synkov	99	80	A	M
+5204	576816	1	1	901	9	Tomáš	Ruffer	Ing.	EFA	38	manažer obchodního týmu	Slemeno	99	80	A	M

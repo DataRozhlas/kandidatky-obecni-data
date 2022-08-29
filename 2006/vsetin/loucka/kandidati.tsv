@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7203	544418	1	1	903	1	Ladislav	Sváček	M			57	RA laborant	Loučka	99	80	0
-7203	544418	1	1	903	2	Josef	Hubáček	M	Ing.		56	OSVČ	Loučka	99	80	0
-7203	544418	1	1	903	3	Tomáš	Hapka	M			32	obchodní manager	Loučka	99	80	0
-7203	544418	1	1	903	4	Pavla	Stříteská	F	Ing.		24	zahradní architekt	Loučka	99	80	0
-7203	544418	1	1	903	5	Aleš	Macháň	M	Mgr.		32	obchodní manager	Loučka	99	80	0
-7203	544418	1	1	903	6	Petr	Hrdina	M			35	OSVČ	Loučka	99	80	0
-7203	544418	1	1	903	7	Radomíra	Černá	F			38	admin.pracovnice	Loučka	99	80	0
-7203	544418	1	1	903	8	Ladislav	Škařupa	M	Ing.		44	obchodní manager	Loučka	99	80	0
-7203	544418	1	1	903	9	Marek	Kundrát	M	Mgr.		32	učitel	Loučka	99	80	0
-7203	544418	1	1	903	10	Hynek	Sovák	M			31	technik	Loučka	99	80	0
-7203	544418	1	1	903	11	Ludmila	Holáňová	F			45	prodavačka	Loučka,Lázy	99	80	0
-7203	544418	1	2	901	1	Vojtěch	Capil	M			55	elektromechanik	Loučka	99	80	0
-7203	544418	1	2	901	2	Libor	Muschalek	M	Ing.		42	vedoucí dopravy	Loučka	99	80	0
-7203	544418	1	2	901	3	Eva	Žůrková	F			43	administrátor	Loučka	99	80	0
-7203	544418	1	2	901	4	Josef	Přaslica	M			46	stavební technik	Loučka	99	80	0
-7203	544418	1	2	901	5	Pavla	Bulinská	F			36	učitelka OV	Loučka	99	80	0
-7203	544418	1	2	901	6	Stanislav	Malý	M			38	strojník	Loučka,Lázy	99	80	0
-7203	544418	1	2	901	7	Libuše	Kurfürstová	F			47	evident	Loučka	99	80	0
-7203	544418	1	2	901	8	Vlastimil	Palouš	M			24	student	Loučka	99	80	0
-7203	544418	1	2	901	9	Petr	Bambušek	M	Ing.		34	učitel	Loučka	99	80	0
-7203	544418	1	2	901	10	Pavel	Minarčík	M			22	technolog	Loučka	99	80	0
-7203	544418	1	2	901	11	Otakar	Mizera	M			63	důchodce	Loučka	99	80	0
-7203	544418	1	3	902	1	Růžena	Ševelová	F			46	účetní	Loučka	99	80	0
-7203	544418	1	3	902	2	Pavel	Čučka	M	Mgr.		43	ředitel školy	Loučka	99	80	0
-7203	544418	1	3	902	3	Ivona	Žídková	F			37	výhybkář	Loučka	99	80	0
-7203	544418	1	3	902	4	Radovan	Žákovský	M			33	dispečer	Loučka	99	80	0
-7203	544418	1	3	902	5	Kateřina	Žilková	F			22	studentka VŠ	Loučka	99	80	0
-7203	544418	1	3	902	6	Josef	Navrátil	M			40	mistr	Loučka	99	80	0
-7203	544418	1	3	902	7	Jiří	Kaděra	M			60	provozní chemik	Loučka	99	80	0
-7203	544418	1	3	902	8	Radim	Bulinský	M			41	technik	Loučka	99	80	0
-7203	544418	1	3	902	9	Martin	Kubín	M	MUDr.		28	zubní lékař	Loučka	99	80	0
-7203	544418	1	3	902	10	Josef	Bambuch	M			47	OSVČ	Loučka	99	80	0
-7203	544418	1	3	902	11	Markéta	Čučková	F			19	studentkaVŠ	Loučka	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7203	544418	1	1	903	1	Ladislav	Sváček			57	RA laborant	Loučka	99	80	0	M
+7203	544418	1	2	901	1	Vojtěch	Capil			55	elektromechanik	Loučka	99	80	0	M
+7203	544418	1	3	902	1	Růžena	Ševelová			46	účetní	Loučka	99	80	0	F
+7203	544418	1	1	903	2	Josef	Hubáček	Ing.		56	OSVČ	Loučka	99	80	0	M
+7203	544418	1	2	901	2	Libor	Muschalek	Ing.		42	vedoucí dopravy	Loučka	99	80	0	M
+7203	544418	1	3	902	2	Pavel	Čučka	Mgr.		43	ředitel školy	Loučka	99	80	0	M
+7203	544418	1	1	903	3	Tomáš	Hapka			32	obchodní manager	Loučka	99	80	0	M
+7203	544418	1	2	901	3	Eva	Žůrková			43	administrátor	Loučka	99	80	0	F
+7203	544418	1	3	902	3	Ivona	Žídková			37	výhybkář	Loučka	99	80	0	F
+7203	544418	1	1	903	4	Pavla	Stříteská	Ing.		24	zahradní architekt	Loučka	99	80	0	F
+7203	544418	1	2	901	4	Josef	Přaslica			46	stavební technik	Loučka	99	80	0	M
+7203	544418	1	3	902	4	Radovan	Žákovský			33	dispečer	Loučka	99	80	0	M
+7203	544418	1	1	903	5	Aleš	Macháň	Mgr.		32	obchodní manager	Loučka	99	80	0	M
+7203	544418	1	2	901	5	Pavla	Bulinská			36	učitelka OV	Loučka	99	80	0	F
+7203	544418	1	3	902	5	Kateřina	Žilková			22	studentka VŠ	Loučka	99	80	0	F
+7203	544418	1	1	903	6	Petr	Hrdina			35	OSVČ	Loučka	99	80	0	M
+7203	544418	1	2	901	6	Stanislav	Malý			38	strojník	Loučka,Lázy	99	80	0	M
+7203	544418	1	3	902	6	Josef	Navrátil			40	mistr	Loučka	99	80	0	M
+7203	544418	1	1	903	7	Radomíra	Černá			38	admin.pracovnice	Loučka	99	80	0	F
+7203	544418	1	2	901	7	Libuše	Kurfürstová			47	evident	Loučka	99	80	0	F
+7203	544418	1	3	902	7	Jiří	Kaděra			60	provozní chemik	Loučka	99	80	0	M
+7203	544418	1	1	903	8	Ladislav	Škařupa	Ing.		44	obchodní manager	Loučka	99	80	0	M
+7203	544418	1	2	901	8	Vlastimil	Palouš			24	student	Loučka	99	80	0	M
+7203	544418	1	3	902	8	Radim	Bulinský			41	technik	Loučka	99	80	0	M
+7203	544418	1	1	903	9	Marek	Kundrát	Mgr.		32	učitel	Loučka	99	80	0	M
+7203	544418	1	2	901	9	Petr	Bambušek	Ing.		34	učitel	Loučka	99	80	0	M
+7203	544418	1	3	902	9	Martin	Kubín	MUDr.		28	zubní lékař	Loučka	99	80	0	M
+7203	544418	1	1	903	10	Hynek	Sovák			31	technik	Loučka	99	80	0	M
+7203	544418	1	2	901	10	Pavel	Minarčík			22	technolog	Loučka	99	80	0	M
+7203	544418	1	3	902	10	Josef	Bambuch			47	OSVČ	Loučka	99	80	0	M
+7203	544418	1	1	903	11	Ludmila	Holáňová			45	prodavačka	Loučka,Lázy	99	80	0	F
+7203	544418	1	2	901	11	Otakar	Mizera			63	důchodce	Loučka	99	80	0	M
+7203	544418	1	3	902	11	Markéta	Čučková			19	studentkaVŠ	Loučka	99	80	0	F

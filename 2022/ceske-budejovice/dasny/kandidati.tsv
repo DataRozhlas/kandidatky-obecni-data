@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3101	535249	1	1	901	1	Ludmila	Kahounová	F	Ing.		62	starostka obce	Dasný	99	80	A
-3101	535249	1	1	901	2	Miroslav	Horejš	M	Bc.		42	zástupce vedoucího	Dasný	99	80	A
-3101	535249	1	1	901	3	Libor	Švehla	M	Ing.		46	programátor	Dasný	99	80	A
-3101	535249	1	1	901	4	Jana	Kubešová	F	Ing.		60	odborný referent	Dasný	99	80	A
-3101	535249	1	1	901	5	Luboš	Kukla	M			50	referent servisního oddělení	Dasný	99	80	A
-3101	535249	1	1	901	6	Václav	Radouch	M			26	student	Dasný	99	80	A
-3101	535249	1	1	901	7	Miroslav	Petrášek	M			52	automechanik	Dasný	99	80	A
-3101	535249	1	1	901	8	Markéta	Imberová	F	Mgr.		39	rodičovská dovolená	Dasný	99	80	A
-3101	535249	1	1	901	9	Jitka	Břehovská	F	Ing.		38	referentka	Dasný	99	80	A
-3101	535249	1	2	53	1	Vojtěch	Radouch	M			74	důchodce	Dasný	53	53	A
-3101	535249	1	2	53	2	Andrea	Chlandová	F	Ing.		29	distribuční logistik	Dasný	99	53	A
-3101	535249	1	2	53	3	Adéla	Hochová	F	Ing.		40	organizační pracovnice	Dasný	99	53	A
-3101	535249	1	2	53	4	Petr	Novotný	M	Ing.		48	oblastní manažer	Dasný	99	53	A
-3101	535249	1	2	53	5	Petr	Liška	M	Bc.		44	manažer	Dasný	99	53	A
-3101	535249	1	2	53	6	Vojtěch	Radouch	M			51	řidič	Dasný	99	53	A
-3101	535249	1	2	53	7	Miluše	Radouchová Maryšková	F	Mgr.		70	důchodce	Dasný	99	53	A
-3101	535249	1	2	53	8	Milan	Hoch	M			43	dispečer	Dasný	99	53	A
-3101	535249	1	2	53	9	Václav	Klimeš	M			49	živnostník	Dasný	99	53	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3101	535249	1	1	901	1	Ludmila	Kahounová	Ing.		62	starostka obce	Dasný	99	80	A	F
+3101	535249	1	2	53	1	Vojtěch	Radouch			74	důchodce	Dasný	53	53	A	M
+3101	535249	1	1	901	2	Miroslav	Horejš	Bc.		42	zástupce vedoucího	Dasný	99	80	A	M
+3101	535249	1	2	53	2	Andrea	Chlandová	Ing.		29	distribuční logistik	Dasný	99	53	A	F
+3101	535249	1	1	901	3	Libor	Švehla	Ing.		46	programátor	Dasný	99	80	A	M
+3101	535249	1	2	53	3	Adéla	Hochová	Ing.		40	organizační pracovnice	Dasný	99	53	A	F
+3101	535249	1	1	901	4	Jana	Kubešová	Ing.		60	odborný referent	Dasný	99	80	A	F
+3101	535249	1	2	53	4	Petr	Novotný	Ing.		48	oblastní manažer	Dasný	99	53	A	M
+3101	535249	1	1	901	5	Luboš	Kukla			50	referent servisního oddělení	Dasný	99	80	A	M
+3101	535249	1	2	53	5	Petr	Liška	Bc.		44	manažer	Dasný	99	53	A	M
+3101	535249	1	1	901	6	Václav	Radouch			26	student	Dasný	99	80	A	M
+3101	535249	1	2	53	6	Vojtěch	Radouch			51	řidič	Dasný	99	53	A	M
+3101	535249	1	1	901	7	Miroslav	Petrášek			52	automechanik	Dasný	99	80	A	M
+3101	535249	1	2	53	7	Miluše	Radouchová Maryšková	Mgr.		70	důchodce	Dasný	99	53	A	F
+3101	535249	1	1	901	8	Markéta	Imberová	Mgr.		39	rodičovská dovolená	Dasný	99	80	A	F
+3101	535249	1	2	53	8	Milan	Hoch			43	dispečer	Dasný	99	53	A	M
+3101	535249	1	1	901	9	Jitka	Břehovská	Ing.		38	referentka	Dasný	99	80	A	F
+3101	535249	1	2	53	9	Václav	Klimeš			49	živnostník	Dasný	99	53	A	M

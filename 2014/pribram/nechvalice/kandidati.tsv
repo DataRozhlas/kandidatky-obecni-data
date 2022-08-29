@@ -1,36 +1,36 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	540846	1	1	1	1	Jiří	Stibor	M			56	automechanik	Huštilář	99	1	0
-2111	540846	1	1	1	2	Josef	Martínek	M			47	zedník	Vratkov	99	1	0
-2111	540846	1	1	1	3	Jiří	Skalický	M			62	podnikatel	Nechvalice	99	1	0
-2111	540846	1	1	1	4	Jiří	Čáp	M			52	automechanik	Ředičky	99	1	0
-2111	540846	1	1	1	5	Jiří	Stibor	M			56	zedník	Ředice	99	1	0
-2111	540846	1	1	1	6	Pavel	Davídek	M			46	svářeč konstrukcí	Setěkovy	99	1	0
-2111	540846	1	2	53	1	Jiří	Hejhal	M			56	starosta obce	Nechvalice	99	53	0
-2111	540846	1	2	53	2	Jan	Pudil	M			53	podnikatel	Březí	99	53	0
-2111	540846	1	2	53	3	Jiří	Barhoň	M			41	tesař	Bratřejov	99	53	0
-2111	540846	1	2	53	4	Josef	Hadáček	M			46	zámečník	Setěkovy	99	53	0
-2111	540846	1	2	53	5	Jiří	Čáp	M	Bc.		26	konstruktér	Ředičky	99	53	0
-2111	540846	1	2	53	6	Pavlína	Nováková	F	Bc.		27	učitelka MŠ	Nechvalice	99	53	0
-2111	540846	1	2	53	7	Petr	Kothera	M			49	zedník	Bratříkovice	99	53	0
-2111	540846	1	2	53	8	Josef	Taboga	M			45	tesař	Vratkov	99	53	0
-2111	540846	1	2	53	9	Tomáš	Burda	M			58	řidič autobusu	Nechvalice	99	53	0
-2111	540846	1	3	901	1	František	Kortánek	M	Ing.		65	jednatel firmy	Dražka	99	80	0
-2111	540846	1	3	901	2	Josef	Konop	M	Ing.		54	vedoucí informatiky	Mokřany	99	80	0
-2111	540846	1	3	901	3	František	Hájek	M			22	studující	Ředice	99	80	0
-2111	540846	1	3	901	4	Veronika	Lípová	F			41	policejní inspektorka	Nechvalice	99	80	0
-2111	540846	1	3	901	5	Jiří	Taks	M			41	podnikatel	Nechvalice	99	80	0
-2111	540846	1	3	901	6	Josef	Stibor	M			19	tesař	Ředice	99	80	0
-2111	540846	1	3	901	7	Miloslav	Zdeněk	M	Ing.		58	jednatel firmy	Bratřejov	99	80	0
-2111	540846	1	3	901	8	Ladislav	Martina	M			36	řidič	Ředice	99	80	0
-2111	540846	1	3	901	9	Roman	Vašák	M			50	řidič	Huštilář	99	80	0
-2111	540846	1	4	902	1	Martin	Sadecký	M			35	výrobce potravin	Libčice	99	80	0
-2111	540846	1	4	902	2	Jiří	Lalák	M			32	truhlář	Nechvalice	99	80	0
-2111	540846	1	4	902	3	Jaroslav	Mašek	M			37	truhlář	Nechvalice	99	80	0
-2111	540846	1	4	902	4	Oldřich	Daněk	M			24	student	Mokřany	99	80	0
-2111	540846	1	4	902	5	Radek	Neužil	M			37	truhlář	Křemenice	99	80	0
-2111	540846	1	4	902	6	Jiří	Šika	M			51	kontrolor	Bratřejov	99	80	0
-2111	540846	1	4	902	7	Josef	Dvořák	M			30	truhlář	Křemenice	99	80	0
-2111	540846	1	5	903	1	Tomáš	Štemberk	M			35	truhlář	Křemenice	99	80	0
-2111	540846	1	5	903	2	Tomáš	Pilík	M		DiS.	31	OSVČ	Nechvalice	99	80	0
-2111	540846	1	5	903	3	Ivana	Peštová	F			38	v domácnosti	Nechvalice	99	80	0
-2111	540846	1	5	903	4	František	Havel	M			52	oblastní vedoucí REWE	Bratřejov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	540846	1	1	1	1	Jiří	Stibor			56	automechanik	Huštilář	99	1	0	M
+2111	540846	1	2	53	1	Jiří	Hejhal			56	starosta obce	Nechvalice	99	53	0	M
+2111	540846	1	3	901	1	František	Kortánek	Ing.		65	jednatel firmy	Dražka	99	80	0	M
+2111	540846	1	4	902	1	Martin	Sadecký			35	výrobce potravin	Libčice	99	80	0	M
+2111	540846	1	5	903	1	Tomáš	Štemberk			35	truhlář	Křemenice	99	80	0	M
+2111	540846	1	1	1	2	Josef	Martínek			47	zedník	Vratkov	99	1	0	M
+2111	540846	1	2	53	2	Jan	Pudil			53	podnikatel	Březí	99	53	0	M
+2111	540846	1	3	901	2	Josef	Konop	Ing.		54	vedoucí informatiky	Mokřany	99	80	0	M
+2111	540846	1	4	902	2	Jiří	Lalák			32	truhlář	Nechvalice	99	80	0	M
+2111	540846	1	5	903	2	Tomáš	Pilík		DiS.	31	OSVČ	Nechvalice	99	80	0	M
+2111	540846	1	1	1	3	Jiří	Skalický			62	podnikatel	Nechvalice	99	1	0	M
+2111	540846	1	2	53	3	Jiří	Barhoň			41	tesař	Bratřejov	99	53	0	M
+2111	540846	1	3	901	3	František	Hájek			22	studující	Ředice	99	80	0	M
+2111	540846	1	4	902	3	Jaroslav	Mašek			37	truhlář	Nechvalice	99	80	0	M
+2111	540846	1	5	903	3	Ivana	Peštová			38	v domácnosti	Nechvalice	99	80	0	F
+2111	540846	1	1	1	4	Jiří	Čáp			52	automechanik	Ředičky	99	1	0	M
+2111	540846	1	2	53	4	Josef	Hadáček			46	zámečník	Setěkovy	99	53	0	M
+2111	540846	1	3	901	4	Veronika	Lípová			41	policejní inspektorka	Nechvalice	99	80	0	F
+2111	540846	1	4	902	4	Oldřich	Daněk			24	student	Mokřany	99	80	0	M
+2111	540846	1	5	903	4	František	Havel			52	oblastní vedoucí REWE	Bratřejov	99	80	0	M
+2111	540846	1	1	1	5	Jiří	Stibor			56	zedník	Ředice	99	1	0	M
+2111	540846	1	2	53	5	Jiří	Čáp	Bc.		26	konstruktér	Ředičky	99	53	0	M
+2111	540846	1	3	901	5	Jiří	Taks			41	podnikatel	Nechvalice	99	80	0	M
+2111	540846	1	4	902	5	Radek	Neužil			37	truhlář	Křemenice	99	80	0	M
+2111	540846	1	1	1	6	Pavel	Davídek			46	svářeč konstrukcí	Setěkovy	99	1	0	M
+2111	540846	1	2	53	6	Pavlína	Nováková	Bc.		27	učitelka MŠ	Nechvalice	99	53	0	F
+2111	540846	1	3	901	6	Josef	Stibor			19	tesař	Ředice	99	80	0	M
+2111	540846	1	4	902	6	Jiří	Šika			51	kontrolor	Bratřejov	99	80	0	M
+2111	540846	1	2	53	7	Petr	Kothera			49	zedník	Bratříkovice	99	53	0	M
+2111	540846	1	3	901	7	Miloslav	Zdeněk	Ing.		58	jednatel firmy	Bratřejov	99	80	0	M
+2111	540846	1	4	902	7	Josef	Dvořák			30	truhlář	Křemenice	99	80	0	M
+2111	540846	1	2	53	8	Josef	Taboga			45	tesař	Vratkov	99	53	0	M
+2111	540846	1	3	901	8	Ladislav	Martina			36	řidič	Ředice	99	80	0	M
+2111	540846	1	2	53	9	Tomáš	Burda			58	řidič autobusu	Nechvalice	99	53	0	M
+2111	540846	1	3	901	9	Roman	Vašák			50	řidič	Huštilář	99	80	0	M

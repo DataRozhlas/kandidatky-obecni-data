@@ -1,27 +1,27 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6103	548456	1	1	802	1	Zdeněk	Rajdlík	M			36	projektant	Chmelná	99	80	0
-6103	548456	1	2	804	1	Adriana	Kottová	F	Mgr.		42	místostarostka	Nová Cerekev	99	80	0
-6103	548456	1	3	807	1	Josef	Hejda	M			63	důchodce	Nová Cerekev	99	80	0
-6103	548456	1	4	815	1	Jindřich	Pelíšek	M	Pharm.Dr.		44	OSVČ	Nová Cerekev	99	80	0
-6103	548456	1	5	817	1	Josef	Přibyl	M	Ing.		43	OSVČ	Chmelná	99	80	0
-6103	548456	1	6	819	1	Jana	Šundová	F			44	OSVČ	Nová Cerekev	99	80	0
-6103	548456	1	7	47	1	František	Pavlát	M			38	ekonom	Nová Cerekev	47	47	0
-6103	548456	1	7	47	2	Antonín	Novák	M			32	živnostník	Proseč-Obořiště	47	47	0
-6103	548456	1	7	47	3	Jana	Matějková	F			42	dělnice	Nová Cerekev	99	47	0
-6103	548456	1	7	47	4	Ferdinand	Zabloudil	M			62	důchodce	Proseč-Obořiště	47	47	0
-6103	548456	1	8	820	1	Josef	Železný	M	Ing.		44	technik	Částkovice	99	80	0
-6103	548456	1	9	810	1	Milan	Kubeš	M			40	ekonom	Nová Cerekev	99	80	0
-6103	548456	1	10	803	1	Josef	Kubiska	M			55	zootechnik	Markvarec	99	80	0
-6103	548456	1	11	813	1	Irena	Macháčková	F			42	vychovatelka	Nová Cerekev	99	80	0
-6103	548456	1	12	821	1	Jana	Svobodová	F	PaedDr.		49	ředitelka  PPP	Nová Cerekev	99	80	0
-6103	548456	1	13	818	1	Karel	Svoboda	M			54	podnikatel	Nová Cerekev	99	80	0
-6103	548456	1	14	822	1	Jaromír	Šimek	M			37	OSVČ	Nová Cerekev	99	80	0
-6103	548456	1	15	814	1	Pavel	Pachta	M			42	OSVČ	Nová Cerekev	99	80	0
-6103	548456	1	16	809	1	Zbyněk	Kopa	M	Ing.		35	konstruktér	Nová Cerekev	99	80	0
-6103	548456	1	17	811	1	Ivan	Linhart	M			40	elektrikář	Nová Cerekev	99	80	0
-6103	548456	1	18	805	1	Milan	Blažek	M			50	starosta	Částkovice	129	80	0
-6103	548456	1	19	812	1	Bohumil	Nápravník	M			52	elektrikář	Nová Cerekev	99	80	0
-6103	548456	1	20	808	1	Lenka	Jurkovská	F			35	účetní	Nová Cerekev	99	80	0
-6103	548456	1	21	816	1	Miroslav	Pikl	M			40	automechanik	Proseč-Obořiště	99	80	0
-6103	548456	1	22	806	1	Václav	Cerhán	M			50	vedoucí výroby	Nová Cerekev	99	80	0
-6103	548456	1	23	801	1	Tomáš	Vévoda	M	Ing.		33	programátor	Stanovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6103	548456	1	1	802	1	Zdeněk	Rajdlík			36	projektant	Chmelná	99	80	0	M
+6103	548456	1	2	804	1	Adriana	Kottová	Mgr.		42	místostarostka	Nová Cerekev	99	80	0	F
+6103	548456	1	3	807	1	Josef	Hejda			63	důchodce	Nová Cerekev	99	80	0	M
+6103	548456	1	4	815	1	Jindřich	Pelíšek	Pharm.Dr.		44	OSVČ	Nová Cerekev	99	80	0	M
+6103	548456	1	5	817	1	Josef	Přibyl	Ing.		43	OSVČ	Chmelná	99	80	0	M
+6103	548456	1	6	819	1	Jana	Šundová			44	OSVČ	Nová Cerekev	99	80	0	F
+6103	548456	1	7	47	1	František	Pavlát			38	ekonom	Nová Cerekev	47	47	0	M
+6103	548456	1	8	820	1	Josef	Železný	Ing.		44	technik	Částkovice	99	80	0	M
+6103	548456	1	9	810	1	Milan	Kubeš			40	ekonom	Nová Cerekev	99	80	0	M
+6103	548456	1	10	803	1	Josef	Kubiska			55	zootechnik	Markvarec	99	80	0	M
+6103	548456	1	11	813	1	Irena	Macháčková			42	vychovatelka	Nová Cerekev	99	80	0	F
+6103	548456	1	12	821	1	Jana	Svobodová	PaedDr.		49	ředitelka  PPP	Nová Cerekev	99	80	0	F
+6103	548456	1	13	818	1	Karel	Svoboda			54	podnikatel	Nová Cerekev	99	80	0	M
+6103	548456	1	14	822	1	Jaromír	Šimek			37	OSVČ	Nová Cerekev	99	80	0	M
+6103	548456	1	15	814	1	Pavel	Pachta			42	OSVČ	Nová Cerekev	99	80	0	M
+6103	548456	1	16	809	1	Zbyněk	Kopa	Ing.		35	konstruktér	Nová Cerekev	99	80	0	M
+6103	548456	1	17	811	1	Ivan	Linhart			40	elektrikář	Nová Cerekev	99	80	0	M
+6103	548456	1	18	805	1	Milan	Blažek			50	starosta	Částkovice	129	80	0	M
+6103	548456	1	19	812	1	Bohumil	Nápravník			52	elektrikář	Nová Cerekev	99	80	0	M
+6103	548456	1	20	808	1	Lenka	Jurkovská			35	účetní	Nová Cerekev	99	80	0	F
+6103	548456	1	21	816	1	Miroslav	Pikl			40	automechanik	Proseč-Obořiště	99	80	0	M
+6103	548456	1	22	806	1	Václav	Cerhán			50	vedoucí výroby	Nová Cerekev	99	80	0	M
+6103	548456	1	23	801	1	Tomáš	Vévoda	Ing.		33	programátor	Stanovice	99	80	0	M
+6103	548456	1	7	47	2	Antonín	Novák			32	živnostník	Proseč-Obořiště	47	47	0	M
+6103	548456	1	7	47	3	Jana	Matějková			42	dělnice	Nová Cerekev	99	47	0	F
+6103	548456	1	7	47	4	Ferdinand	Zabloudil			62	důchodce	Proseč-Obořiště	47	47	0	M

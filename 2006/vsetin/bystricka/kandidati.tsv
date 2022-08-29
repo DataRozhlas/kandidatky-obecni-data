@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7203	541711	1	1	53	1	Zbyněk	Fojtíček	M			43	starosta obce	Bystřička	53	53	0
-7203	541711	1	1	53	2	Miroslav	Bartoň	M	Ing.		43	soudní znalec v oboru staveb.	Bystřička	99	53	0
-7203	541711	1	1	53	3	Jaroslav	Batka	M	Ing.		35	soukr. pod.,lesní hosp. obce	Bystřička	99	53	0
-7203	541711	1	1	53	4	Jiří	Šrámek	M			37	soukr.ekonom. a daňový poradce	Bystřička	99	53	0
-7203	541711	1	1	53	5	Karel	Kovář	M			35	soukromý podnikatel	Bystřička	53	53	0
-7203	541711	1	1	53	6	Petr	Rudolecký	M			32	zaměstnanec soukromé firmy	Bystřička	53	53	0
-7203	541711	1	1	53	7	Martin	Bulla	M			37	obchodní zástupce	Bystřička	99	53	0
-7203	541711	1	1	53	8	Radek	Šimčík	M			32	správce rekreačního střediska	Bystřička	99	53	0
-7203	541711	1	1	53	9	Oldřich	Vaněk	M			54	stavební technik	Bystřička	99	53	0
-7203	541711	1	1	53	10	Dagmar	Piskláková	F			36	účetní	Bystřička	99	53	0
-7203	541711	1	1	53	11	Pavel	Tyralík	M			64	důchodce	Bystřička	53	53	0
-7203	541711	1	2	902	1	Květoslava	Nováková	F			52	podnikatelka	Bystřička	99	80	0
-7203	541711	1	2	902	2	Josef	Bartoň	M	Ing.		37	podnikatel	Bystřička	99	80	0
-7203	541711	1	2	902	3	Pavel	Kotrla	M	Mgr.		32	grafik	Bystřička	99	80	0
-7203	541711	1	2	902	4	František	Žák	M			55	zaměstnanec	Bystřička	99	80	0
-7203	541711	1	2	902	5	Alexandra	Hurtová	F	Ing.arch.		48	zaměstnanec	Bystřička	99	80	0
-7203	541711	1	2	902	6	Miroslav	Žák	M			33	podnikatel	Bystřička	99	80	0
-7203	541711	1	2	902	7	Jiří	Absolon	M			48	podnikatel	Bystřička	99	80	0
-7203	541711	1	2	902	8	Anna	Kotrlová	F			46	soukromý zemědělec	Bystřička	99	80	0
-7203	541711	1	2	902	9	Vladimír	Hlinšťák	M			45	zaměstnanec	Bystřička	99	80	0
-7203	541711	1	2	902	10	Zdeněk	Brázdil	M			53	zaměstnanec	Bystřička	99	80	0
-7203	541711	1	2	902	11	Pavla	Mikešová	F			49	asistentka	Bystřička	99	80	0
-7203	541711	1	3	7	1	Zdeněk	Hurta	M			49	dělník	Bystřička	99	7	0
-7203	541711	1	3	7	2	Rostislav	Sviták	M			38	dělník	Bystřička	99	7	0
-7203	541711	1	4	901	1	Karel	Hurta	M	Ing.		51	projektant	Bystřička	99	80	0
-7203	541711	1	4	901	2	Zdeněk	Peredarjuk	M			45	správce TJ	Bystřička	99	80	0
-7203	541711	1	4	901	3	Miroslav	Kubáč	M			39	obchodní zástupce	Bystřička	99	80	0
-7203	541711	1	4	901	4	Jindřich	Čunek	M			59	soukromý dopravce	Bystřička	99	80	0
-7203	541711	1	4	901	5	Šárka	Plšková	F			36	účetní	Bystřička	99	80	0
-7203	541711	1	4	901	6	Stanislav	Máša	M			64	podnikatel	Bystřička	99	80	0
-7203	541711	1	4	901	7	Vlasta	Peredarjuková	F			50	zaměstnanec	Bystřička	99	80	0
-7203	541711	1	4	901	8	Ivan	Výmola	M			42	řidič	Bystřička	99	80	0
-7203	541711	1	4	901	9	Břetislav	Kutěj	M			40	státní zaměstnanec	Bystřička	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7203	541711	1	1	53	1	Zbyněk	Fojtíček			43	starosta obce	Bystřička	53	53	0	M
+7203	541711	1	2	902	1	Květoslava	Nováková			52	podnikatelka	Bystřička	99	80	0	F
+7203	541711	1	3	7	1	Zdeněk	Hurta			49	dělník	Bystřička	99	7	0	M
+7203	541711	1	4	901	1	Karel	Hurta	Ing.		51	projektant	Bystřička	99	80	0	M
+7203	541711	1	1	53	2	Miroslav	Bartoň	Ing.		43	soudní znalec v oboru staveb.	Bystřička	99	53	0	M
+7203	541711	1	2	902	2	Josef	Bartoň	Ing.		37	podnikatel	Bystřička	99	80	0	M
+7203	541711	1	3	7	2	Rostislav	Sviták			38	dělník	Bystřička	99	7	0	M
+7203	541711	1	4	901	2	Zdeněk	Peredarjuk			45	správce TJ	Bystřička	99	80	0	M
+7203	541711	1	1	53	3	Jaroslav	Batka	Ing.		35	soukr. pod.,lesní hosp. obce	Bystřička	99	53	0	M
+7203	541711	1	2	902	3	Pavel	Kotrla	Mgr.		32	grafik	Bystřička	99	80	0	M
+7203	541711	1	4	901	3	Miroslav	Kubáč			39	obchodní zástupce	Bystřička	99	80	0	M
+7203	541711	1	1	53	4	Jiří	Šrámek			37	soukr.ekonom. a daňový poradce	Bystřička	99	53	0	M
+7203	541711	1	2	902	4	František	Žák			55	zaměstnanec	Bystřička	99	80	0	M
+7203	541711	1	4	901	4	Jindřich	Čunek			59	soukromý dopravce	Bystřička	99	80	0	M
+7203	541711	1	1	53	5	Karel	Kovář			35	soukromý podnikatel	Bystřička	53	53	0	M
+7203	541711	1	2	902	5	Alexandra	Hurtová	Ing.arch.		48	zaměstnanec	Bystřička	99	80	0	F
+7203	541711	1	4	901	5	Šárka	Plšková			36	účetní	Bystřička	99	80	0	F
+7203	541711	1	1	53	6	Petr	Rudolecký			32	zaměstnanec soukromé firmy	Bystřička	53	53	0	M
+7203	541711	1	2	902	6	Miroslav	Žák			33	podnikatel	Bystřička	99	80	0	M
+7203	541711	1	4	901	6	Stanislav	Máša			64	podnikatel	Bystřička	99	80	0	M
+7203	541711	1	1	53	7	Martin	Bulla			37	obchodní zástupce	Bystřička	99	53	0	M
+7203	541711	1	2	902	7	Jiří	Absolon			48	podnikatel	Bystřička	99	80	0	M
+7203	541711	1	4	901	7	Vlasta	Peredarjuková			50	zaměstnanec	Bystřička	99	80	0	F
+7203	541711	1	1	53	8	Radek	Šimčík			32	správce rekreačního střediska	Bystřička	99	53	0	M
+7203	541711	1	2	902	8	Anna	Kotrlová			46	soukromý zemědělec	Bystřička	99	80	0	F
+7203	541711	1	4	901	8	Ivan	Výmola			42	řidič	Bystřička	99	80	0	M
+7203	541711	1	1	53	9	Oldřich	Vaněk			54	stavební technik	Bystřička	99	53	0	M
+7203	541711	1	2	902	9	Vladimír	Hlinšťák			45	zaměstnanec	Bystřička	99	80	0	M
+7203	541711	1	4	901	9	Břetislav	Kutěj			40	státní zaměstnanec	Bystřička	99	80	0	M
+7203	541711	1	1	53	10	Dagmar	Piskláková			36	účetní	Bystřička	99	53	0	F
+7203	541711	1	2	902	10	Zdeněk	Brázdil			53	zaměstnanec	Bystřička	99	80	0	M
+7203	541711	1	1	53	11	Pavel	Tyralík			64	důchodce	Bystřička	53	53	0	M
+7203	541711	1	2	902	11	Pavla	Mikešová			49	asistentka	Bystřička	99	80	0	F

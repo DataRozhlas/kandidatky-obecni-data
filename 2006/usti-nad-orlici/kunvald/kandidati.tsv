@@ -1,39 +1,39 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	580503	1	1	903	1	Josef	Paďour	M	Ing.		46	starosta obce	Kunvald	99	80	0
-5304	580503	1	1	903	2	Roman	Rusz	M	Ing.		34	servis. technik měř. regulace	Kunvald	99	80	0
-5304	580503	1	1	903	3	Petra	Zářecká	F			31	podnikající v zemědělství	Kunvald	99	80	0
-5304	580503	1	1	903	4	Jaroslav	Macháček	M			49	samostatně hospodařící rolník	Kunvald	99	80	0
-5304	580503	1	1	903	5	Eduard	Štumpf	M			26	tesař	Kunvald	99	80	0
-5304	580503	1	1	903	6	Jana	Urbanová	F			44	účetní	Kunvald	99	80	0
-5304	580503	1	1	903	7	Ladislav	Taiber	M			45	OSVČ	Kunvald	99	80	0
-5304	580503	1	1	903	8	Miloš	Kopecký	M	Ing.		44	kvalitář	Kunvald	99	80	0
-5304	580503	1	1	903	9	Jan	Krejsa	M			61	technik	Kunvald	99	80	0
-5304	580503	1	2	901	1	Josef	Vágner	M			43	vedoucí živočišné výroby	Končiny	99	80	0
-5304	580503	1	2	901	2	Miroslava	Celerová	F			36	hlavní účetní	Kunvald	99	80	0
-5304	580503	1	2	901	3	Jan	Kalous	M			30	řidič, traktorista	Kunvald	99	80	0
-5304	580503	1	2	901	4	Jiří	Matějka	M			36	seřizovač	Kunvald	99	80	0
-5304	580503	1	2	901	5	Václav	Michalička	M			49	provozní technik	Kunvald	99	80	0
-5304	580503	1	2	901	6	Tomáš	Bílek	M			23	směnový zootechnik	Končiny	99	80	0
-5304	580503	1	2	901	7	Jiří	Paďour	M			41	chovatel hospodářských zvířat	Kunvald	99	80	0
-5304	580503	1	2	901	8	Petr	Krčmář	M			55	opravář	Kunvald	99	80	0
-5304	580503	1	2	901	9	Lenka	Lakomá	F			30	chovatel hospodářských zvířat	Kunvald	99	80	0
-5304	580503	1	2	901	10	Marta	Tobešová	F			33	chovatel hospodářských zvířat	Končiny	99	80	0
-5304	580503	1	2	901	11	Antonín	Jireš	M			22	traktorista	Končiny	99	80	0
-5304	580503	1	3	1	1	Jaroslava	Tomanová	F			42	zdravotní sestra	Kunvald	1	1	0
-5304	580503	1	3	1	2	Oldřich	Trejtnar	M			43	technik	Kunvald	99	1	0
-5304	580503	1	3	1	3	Pavel	Prause	M			40	nástrojař	Kunvald	99	1	0
-5304	580503	1	3	1	4	Milan	Prause	M			28	nástrojař	Kunvald	99	1	0
-5304	580503	1	3	1	5	Jiří	Müller	M			50	nástrojař	Kunvald	99	1	0
-5304	580503	1	3	1	6	Marie	Dlabková	F			42	ošetřovatelka dojnic	Kunvald	99	1	0
-5304	580503	1	3	1	7	Jaroslav	Flekr	M			41	dělník	Kunvald	1	1	0
-5304	580503	1	3	1	8	Marie	Kalousová	F			57	důchodkyně	Kunvald	1	1	0
-5304	580503	1	3	1	9	Zdeněk	Hájek	M			59	zedník	Kunvald	1	1	0
-5304	580503	1	3	1	10	Marie	Tobešová	F			56	ošetřovatelka dojnic	Končiny	1	1	0
-5304	580503	1	4	902	1	Jiří	Musil	M	Ing.		43	podnikatel ve stavebnictví	Kunvald	99	80	0
-5304	580503	1	4	902	2	Pavel	Friml	M	Ing.		51	státní zaměstnanec	Kunvald	99	80	0
-5304	580503	1	4	902	3	Jiří	Jindra	M			44	vedoucí provozu	Kunvald	99	80	0
-5304	580503	1	4	902	4	Zdenka	Jurčanová	F	Mgr.		51	učitelka	Kunvald	99	80	0
-5304	580503	1	4	902	5	Lukáš	Šejnoha	M			29	stavbyvedoucí	Kunvald	99	80	0
-5304	580503	1	4	902	6	Juraj	Gyén	M			47	obsluha čerpací stanice	Kunvald	99	80	0
-5304	580503	1	4	902	7	Alena	Foglová	F			36	montážní pracovnice	Kunvald	99	80	0
-5304	580503	1	4	902	8	Ludvík	Dlabka	M			45	OSVČ	Kunvald	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	580503	1	1	903	1	Josef	Paďour	Ing.		46	starosta obce	Kunvald	99	80	0	M
+5304	580503	1	2	901	1	Josef	Vágner			43	vedoucí živočišné výroby	Končiny	99	80	0	M
+5304	580503	1	3	1	1	Jaroslava	Tomanová			42	zdravotní sestra	Kunvald	1	1	0	F
+5304	580503	1	4	902	1	Jiří	Musil	Ing.		43	podnikatel ve stavebnictví	Kunvald	99	80	0	M
+5304	580503	1	1	903	2	Roman	Rusz	Ing.		34	servis. technik měř. regulace	Kunvald	99	80	0	M
+5304	580503	1	2	901	2	Miroslava	Celerová			36	hlavní účetní	Kunvald	99	80	0	F
+5304	580503	1	3	1	2	Oldřich	Trejtnar			43	technik	Kunvald	99	1	0	M
+5304	580503	1	4	902	2	Pavel	Friml	Ing.		51	státní zaměstnanec	Kunvald	99	80	0	M
+5304	580503	1	1	903	3	Petra	Zářecká			31	podnikající v zemědělství	Kunvald	99	80	0	F
+5304	580503	1	2	901	3	Jan	Kalous			30	řidič, traktorista	Kunvald	99	80	0	M
+5304	580503	1	3	1	3	Pavel	Prause			40	nástrojař	Kunvald	99	1	0	M
+5304	580503	1	4	902	3	Jiří	Jindra			44	vedoucí provozu	Kunvald	99	80	0	M
+5304	580503	1	1	903	4	Jaroslav	Macháček			49	samostatně hospodařící rolník	Kunvald	99	80	0	M
+5304	580503	1	2	901	4	Jiří	Matějka			36	seřizovač	Kunvald	99	80	0	M
+5304	580503	1	3	1	4	Milan	Prause			28	nástrojař	Kunvald	99	1	0	M
+5304	580503	1	4	902	4	Zdenka	Jurčanová	Mgr.		51	učitelka	Kunvald	99	80	0	F
+5304	580503	1	1	903	5	Eduard	Štumpf			26	tesař	Kunvald	99	80	0	M
+5304	580503	1	2	901	5	Václav	Michalička			49	provozní technik	Kunvald	99	80	0	M
+5304	580503	1	3	1	5	Jiří	Müller			50	nástrojař	Kunvald	99	1	0	M
+5304	580503	1	4	902	5	Lukáš	Šejnoha			29	stavbyvedoucí	Kunvald	99	80	0	M
+5304	580503	1	1	903	6	Jana	Urbanová			44	účetní	Kunvald	99	80	0	F
+5304	580503	1	2	901	6	Tomáš	Bílek			23	směnový zootechnik	Končiny	99	80	0	M
+5304	580503	1	3	1	6	Marie	Dlabková			42	ošetřovatelka dojnic	Kunvald	99	1	0	F
+5304	580503	1	4	902	6	Juraj	Gyén			47	obsluha čerpací stanice	Kunvald	99	80	0	M
+5304	580503	1	1	903	7	Ladislav	Taiber			45	OSVČ	Kunvald	99	80	0	M
+5304	580503	1	2	901	7	Jiří	Paďour			41	chovatel hospodářských zvířat	Kunvald	99	80	0	M
+5304	580503	1	3	1	7	Jaroslav	Flekr			41	dělník	Kunvald	1	1	0	M
+5304	580503	1	4	902	7	Alena	Foglová			36	montážní pracovnice	Kunvald	99	80	0	F
+5304	580503	1	1	903	8	Miloš	Kopecký	Ing.		44	kvalitář	Kunvald	99	80	0	M
+5304	580503	1	2	901	8	Petr	Krčmář			55	opravář	Kunvald	99	80	0	M
+5304	580503	1	3	1	8	Marie	Kalousová			57	důchodkyně	Kunvald	1	1	0	F
+5304	580503	1	4	902	8	Ludvík	Dlabka			45	OSVČ	Kunvald	99	80	0	M
+5304	580503	1	1	903	9	Jan	Krejsa			61	technik	Kunvald	99	80	0	M
+5304	580503	1	2	901	9	Lenka	Lakomá			30	chovatel hospodářských zvířat	Kunvald	99	80	0	F
+5304	580503	1	3	1	9	Zdeněk	Hájek			59	zedník	Kunvald	1	1	0	M
+5304	580503	1	2	901	10	Marta	Tobešová			33	chovatel hospodářských zvířat	Končiny	99	80	0	F
+5304	580503	1	3	1	10	Marie	Tobešová			56	ošetřovatelka dojnic	Končiny	1	1	0	F
+5304	580503	1	2	901	11	Antonín	Jireš			22	traktorista	Končiny	99	80	0	M

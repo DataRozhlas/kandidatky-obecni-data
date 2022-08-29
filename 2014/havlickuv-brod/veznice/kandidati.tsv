@@ -1,36 +1,36 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	569704	1	1	901	1	Anna	Chalupníková	F			55	pracovník přepážky - specialista	Věžnice	99	80	0
-6101	569704	1	1	901	2	Ludmila	Kuncová	F			58	účetní	Věžnice	99	80	0
-6101	569704	1	1	901	3	Barbora	Chalupníková	F	Mgr.		25	sociální pracovník	Věžnice	99	80	0
-6101	569704	1	1	901	4	Jiřina	Kuttelwascherová	F			52	prodavačka	Věžnice	99	80	0
-6101	569704	1	1	901	5	Pavla	Kaňkovská	F			39	dělnice	Věžnice	99	80	0
-6101	569704	1	1	901	6	Eva	Teclová	F			39	prodavačka	Věžnice	99	80	0
-6101	569704	1	1	901	7	Jindřiška	Bachmannová	F			44	montážní dělník	Věžnice	99	80	0
-6101	569704	1	1	901	8	Marie	Valentová	F			61	důchodce	Věžnice	99	80	0
-6101	569704	1	2	903	1	Tomáš	Vavroušek	M			29	seřizovač	Věžnice	99	80	0
-6101	569704	1	2	903	2	Jindřich	Tecl	M			41	skladník	Věžnice	99	80	0
-6101	569704	1	2	903	3	Adam	Drahoš	M			26	hasič	Věžnice	99	80	0
-6101	569704	1	2	903	4	David	Drahoš	M			32	řidič	Věžnice	99	80	0
-6101	569704	1	2	903	5	Kristýna	Teclová	F			19	student	Věžnice	99	80	0
-6101	569704	1	2	903	6	Tomáš	Havlíček	M			29	policista	Věžnice	99	80	0
-6101	569704	1	2	903	7	Josef	Kaňkovský	M			37	dělník	Věžnice	99	80	0
-6101	569704	1	2	903	8	Miloš	Fikejz	M			35	řidič	Věžnice	99	80	0
-6101	569704	1	2	903	9	Hana	Vavroušková	F		DiS.	25	dentální hygienistka	Věžnice	99	80	0
-6101	569704	1	3	1	1	Josef	Málek	M	Ing. Bc.		49	starosta	Věžnice	1	1	0
-6101	569704	1	3	1	2	Jaroslav	Kunc	M			54	opravář	Věžnice	1	1	0
-6101	569704	1	3	1	3	Vítězslav	Kunc	M	Ing.		26	technolog projektant	Věžnice	99	1	0
-6101	569704	1	3	1	4	Jan	Kunc	M			56	jáhen katolické církve	Věžnice	99	1	0
-6101	569704	1	3	1	5	Marie	Štohanzlová	F	Mgr.		54	učitelka ZŠ	Věžnice	99	1	0
-6101	569704	1	3	1	6	Václav	Chalupník	M			29	technický poradce	Věžnice	99	1	0
-6101	569704	1	3	1	7	Michal	Dušek	M			37	OSVČ	Věžnice	99	1	0
-6101	569704	1	3	1	8	Jiří	Procházka	M	Ing.		28	administrativní pracovník	Věžnice	99	1	0
-6101	569704	1	3	1	9	Radka	Chalupníková	F			32	OSVČ	Věžnice	99	1	0
-6101	569704	1	4	902	1	Stanislav	Wasserbauer	M	MUDr.		56	lékař	Věžnice	99	80	0
-6101	569704	1	4	902	2	Milan	Chalupník	M			36	stavební technik	Věžnice	99	80	0
-6101	569704	1	4	902	3	Aleš	Adamec	M			36	soukromý zemědělec	Věžnice	99	80	0
-6101	569704	1	4	902	4	Ivana	Zukalová	F	Ing.		43	interní auditor	Věžnice	99	80	0
-6101	569704	1	4	902	5	Josef	Rosický	M			59	pracovník v zemědělství	Věžnice	99	80	0
-6101	569704	1	4	902	6	Libuše	Drahošová	F			46	fakturantka	Věžnice	99	80	0
-6101	569704	1	4	902	7	Věra	Teclová	F		DiS.	37	učitelka	Věžnice	99	80	0
-6101	569704	1	4	902	8	Zdenka	Malinová	F			34	prodavačka	Věžnice	99	80	0
-6101	569704	1	4	902	9	Milan	Štiegel	M			64	řidič autobusu	Věžnice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	569704	1	1	901	1	Anna	Chalupníková			55	pracovník přepážky - specialista	Věžnice	99	80	0	F
+6101	569704	1	2	903	1	Tomáš	Vavroušek			29	seřizovač	Věžnice	99	80	0	M
+6101	569704	1	3	1	1	Josef	Málek	Ing. Bc.		49	starosta	Věžnice	1	1	0	M
+6101	569704	1	4	902	1	Stanislav	Wasserbauer	MUDr.		56	lékař	Věžnice	99	80	0	M
+6101	569704	1	1	901	2	Ludmila	Kuncová			58	účetní	Věžnice	99	80	0	F
+6101	569704	1	2	903	2	Jindřich	Tecl			41	skladník	Věžnice	99	80	0	M
+6101	569704	1	3	1	2	Jaroslav	Kunc			54	opravář	Věžnice	1	1	0	M
+6101	569704	1	4	902	2	Milan	Chalupník			36	stavební technik	Věžnice	99	80	0	M
+6101	569704	1	1	901	3	Barbora	Chalupníková	Mgr.		25	sociální pracovník	Věžnice	99	80	0	F
+6101	569704	1	2	903	3	Adam	Drahoš			26	hasič	Věžnice	99	80	0	M
+6101	569704	1	3	1	3	Vítězslav	Kunc	Ing.		26	technolog projektant	Věžnice	99	1	0	M
+6101	569704	1	4	902	3	Aleš	Adamec			36	soukromý zemědělec	Věžnice	99	80	0	M
+6101	569704	1	1	901	4	Jiřina	Kuttelwascherová			52	prodavačka	Věžnice	99	80	0	F
+6101	569704	1	2	903	4	David	Drahoš			32	řidič	Věžnice	99	80	0	M
+6101	569704	1	3	1	4	Jan	Kunc			56	jáhen katolické církve	Věžnice	99	1	0	M
+6101	569704	1	4	902	4	Ivana	Zukalová	Ing.		43	interní auditor	Věžnice	99	80	0	F
+6101	569704	1	1	901	5	Pavla	Kaňkovská			39	dělnice	Věžnice	99	80	0	F
+6101	569704	1	2	903	5	Kristýna	Teclová			19	student	Věžnice	99	80	0	F
+6101	569704	1	3	1	5	Marie	Štohanzlová	Mgr.		54	učitelka ZŠ	Věžnice	99	1	0	F
+6101	569704	1	4	902	5	Josef	Rosický			59	pracovník v zemědělství	Věžnice	99	80	0	M
+6101	569704	1	1	901	6	Eva	Teclová			39	prodavačka	Věžnice	99	80	0	F
+6101	569704	1	2	903	6	Tomáš	Havlíček			29	policista	Věžnice	99	80	0	M
+6101	569704	1	3	1	6	Václav	Chalupník			29	technický poradce	Věžnice	99	1	0	M
+6101	569704	1	4	902	6	Libuše	Drahošová			46	fakturantka	Věžnice	99	80	0	F
+6101	569704	1	1	901	7	Jindřiška	Bachmannová			44	montážní dělník	Věžnice	99	80	0	F
+6101	569704	1	2	903	7	Josef	Kaňkovský			37	dělník	Věžnice	99	80	0	M
+6101	569704	1	3	1	7	Michal	Dušek			37	OSVČ	Věžnice	99	1	0	M
+6101	569704	1	4	902	7	Věra	Teclová		DiS.	37	učitelka	Věžnice	99	80	0	F
+6101	569704	1	1	901	8	Marie	Valentová			61	důchodce	Věžnice	99	80	0	F
+6101	569704	1	2	903	8	Miloš	Fikejz			35	řidič	Věžnice	99	80	0	M
+6101	569704	1	3	1	8	Jiří	Procházka	Ing.		28	administrativní pracovník	Věžnice	99	1	0	M
+6101	569704	1	4	902	8	Zdenka	Malinová			34	prodavačka	Věžnice	99	80	0	F
+6101	569704	1	2	903	9	Hana	Vavroušková		DiS.	25	dentální hygienistka	Věžnice	99	80	0	F
+6101	569704	1	3	1	9	Radka	Chalupníková			32	OSVČ	Věžnice	99	1	0	F
+6101	569704	1	4	902	9	Milan	Štiegel			64	řidič autobusu	Věžnice	99	80	0	M

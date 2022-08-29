@@ -1,8 +1,8 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5301	573949	1	1	801	1	Petr	Hušek	M			36	servisní technik	Biskupice	99	80	A
-5301	573949	1	2	47	1	Ladislav	Běhounek	M			72	důchodce	Biskupice	99	47	A
-5301	573949	1	3	1	1	Jaroslav	Miller	M			46	soukromý zemědělec	Biskupice	99	1	A
-5301	573949	1	3	1	2	Jitka	Dinušová	F			41	pracovnice v zemědělství	Biskupice	99	1	A
-5301	573949	1	3	1	3	Aleš	Vašíček	M			42	traktorista	Biskupice	99	1	A
-5301	573949	1	3	1	4	Petr	Dinuš	M			43	elektrotechnik	Biskupice	99	1	A
-5301	573949	1	4	802	1	Ivana	Vašíčková	F			59	švadlena (invalidní důchodce)	Biskupice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5301	573949	1	1	801	1	Petr	Hušek			36	servisní technik	Biskupice	99	80	A	M
+5301	573949	1	2	47	1	Ladislav	Běhounek			72	důchodce	Biskupice	99	47	A	M
+5301	573949	1	3	1	1	Jaroslav	Miller			46	soukromý zemědělec	Biskupice	99	1	A	M
+5301	573949	1	4	802	1	Ivana	Vašíčková			59	švadlena (invalidní důchodce)	Biskupice	99	80	A	F
+5301	573949	1	3	1	2	Jitka	Dinušová			41	pracovnice v zemědělství	Biskupice	99	1	A	F
+5301	573949	1	3	1	3	Aleš	Vašíček			42	traktorista	Biskupice	99	1	A	M
+5301	573949	1	3	1	4	Petr	Dinuš			43	elektrotechnik	Biskupice	99	1	A	M

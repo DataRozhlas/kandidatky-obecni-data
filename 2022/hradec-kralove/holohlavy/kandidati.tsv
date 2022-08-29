@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5201	570028	1	1	901	1	Jan	Hovorka	M			39	zootechnik	Holohlavy	99	80	A
-5201	570028	1	1	901	2	Iveta	Hrochová	F			53	technik	Holohlavy	99	80	A
-5201	570028	1	1	901	3	Josef	Hájek	M	Mgr.		53	státní zaměstnanec	Holohlavy	99	80	A
-5201	570028	1	1	901	4	Ondřej	Brandejs	M			37	technik elektro	Holohlavy	99	80	A
-5201	570028	1	1	901	5	Renáta	Špryňarová	F	Ing.		51	asistentka	Holohlavy	99	80	A
-5201	570028	1	1	901	6	Pavel	Hojdík	M			65	důchodce	Holohlavy	99	80	A
-5201	570028	1	1	901	7	Radislav	Richtera	M			65	technik elektro	Holohlavy	99	80	A
-5201	570028	1	1	901	8	Karel	Jelen	M			46	technik elektro	Holohlavy	99	80	A
-5201	570028	1	1	901	9	Ivan	Kočka	M			53	technik elektro	Holohlavy	99	80	A
-5201	570028	1	1	901	10	Martin	Nasvetr	M			45	šéfkuchař	Holohlavy	99	80	A
-5201	570028	1	1	901	11	Miloš	Malínský	M			66	starosta obce	Holohlavy	99	80	A
-5201	570028	1	2	53	1	František	Rejent	M			68	OSVČ	Holohlavy	53	53	A
-5201	570028	1	2	53	2	Jiří	Škrabka	M	Ing.		58	vedoucí akreditované laboratoře	Holohlavy	99	53	A
-5201	570028	1	2	53	3	Zuzana	Fialová	F			44	OSVČ	Holohlavy	99	53	A
-5201	570028	1	2	53	4	Tomáš	Kračmar	M			45	podnikatel	Holohlavy	99	53	A
-5201	570028	1	2	53	5	Hana	Reuterová	F	Ing.		58	podnikatelka	Holohlavy	99	53	A
-5201	570028	1	2	53	6	Jiří	Matějček	M			42	Kingspan prodejce	Holohlavy	99	53	A
-5201	570028	1	2	53	7	Milan	Dlouhý	M			48	vedoucí autoservisu Trotina auto	Holohlavy	99	53	A
-5201	570028	1	2	53	8	Jan	Zápařka	M			66	důchodce	Holohlavy	99	53	A
-5201	570028	1	2	53	9	Alice	Marková	F			43	učitelka ZŠ	Holohlavy	99	53	A
-5201	570028	1	2	53	10	Jan	Šolc	M			42	OSVČ	Holohlavy	99	53	A
-5201	570028	1	2	53	11	Josef	Sluštík	M			74	důchodce	Holohlavy	99	53	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5201	570028	1	1	901	1	Jan	Hovorka			39	zootechnik	Holohlavy	99	80	A	M
+5201	570028	1	2	53	1	František	Rejent			68	OSVČ	Holohlavy	53	53	A	M
+5201	570028	1	1	901	2	Iveta	Hrochová			53	technik	Holohlavy	99	80	A	F
+5201	570028	1	2	53	2	Jiří	Škrabka	Ing.		58	vedoucí akreditované laboratoře	Holohlavy	99	53	A	M
+5201	570028	1	1	901	3	Josef	Hájek	Mgr.		53	státní zaměstnanec	Holohlavy	99	80	A	M
+5201	570028	1	2	53	3	Zuzana	Fialová			44	OSVČ	Holohlavy	99	53	A	F
+5201	570028	1	1	901	4	Ondřej	Brandejs			37	technik elektro	Holohlavy	99	80	A	M
+5201	570028	1	2	53	4	Tomáš	Kračmar			45	podnikatel	Holohlavy	99	53	A	M
+5201	570028	1	1	901	5	Renáta	Špryňarová	Ing.		51	asistentka	Holohlavy	99	80	A	F
+5201	570028	1	2	53	5	Hana	Reuterová	Ing.		58	podnikatelka	Holohlavy	99	53	A	F
+5201	570028	1	1	901	6	Pavel	Hojdík			65	důchodce	Holohlavy	99	80	A	M
+5201	570028	1	2	53	6	Jiří	Matějček			42	Kingspan prodejce	Holohlavy	99	53	A	M
+5201	570028	1	1	901	7	Radislav	Richtera			65	technik elektro	Holohlavy	99	80	A	M
+5201	570028	1	2	53	7	Milan	Dlouhý			48	vedoucí autoservisu Trotina auto	Holohlavy	99	53	A	M
+5201	570028	1	1	901	8	Karel	Jelen			46	technik elektro	Holohlavy	99	80	A	M
+5201	570028	1	2	53	8	Jan	Zápařka			66	důchodce	Holohlavy	99	53	A	M
+5201	570028	1	1	901	9	Ivan	Kočka			53	technik elektro	Holohlavy	99	80	A	M
+5201	570028	1	2	53	9	Alice	Marková			43	učitelka ZŠ	Holohlavy	99	53	A	F
+5201	570028	1	1	901	10	Martin	Nasvetr			45	šéfkuchař	Holohlavy	99	80	A	M
+5201	570028	1	2	53	10	Jan	Šolc			42	OSVČ	Holohlavy	99	53	A	M
+5201	570028	1	1	901	11	Miloš	Malínský			66	starosta obce	Holohlavy	99	80	A	M
+5201	570028	1	2	53	11	Josef	Sluštík			74	důchodce	Holohlavy	99	53	A	M

@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	509574	1	1	902	1	Jan	Papež	M	Mgr.		51	státní zaměstnanec	Oldřišov	99	80	0
-8105	509574	1	1	902	2	Šárka	Fabiánová	F	MUDr.		33	lékařka	Oldřišov	99	80	0
-8105	509574	1	1	902	3	Antonín	Fabián	M			41	technik	Oldřišov	99	80	0
-8105	509574	1	1	902	4	Karel	Kašparčík	M			53	podnikatel	Oldřišov	99	80	0
-8105	509574	1	1	902	5	Jiří	Miketa	M			28	podnikatel	Oldřišov	99	80	0
-8105	509574	1	1	902	6	Karel	Beneš	M			39	podnikatel	Oldřišov	99	80	0
-8105	509574	1	1	902	7	Zuzana	Krebesová	F			37	podnikatel	Oldřišov	99	80	0
-8105	509574	1	1	902	8	Jana	Kovácsová	F			47	státní zaměstnanec	Oldřišov	99	80	0
-8105	509574	1	1	902	9	Pavla	Svobodová	F	Mgr.		40	středoškolský učitel	Oldřišov	99	80	0
-8105	509574	1	2	901	1	Julius	Jadrný	M			48	stavební technik	Oldřišov	99	80	0
-8105	509574	1	2	901	2	Antonin	Schwacha	M			35	terénní inspektor	Oldřišov	99	80	0
-8105	509574	1	2	901	3	Ervín	Hanke	M	Ing.		44	státní zaměstnanec	Oldřišov	99	80	0
-8105	509574	1	2	901	4	Simona	Drabčíková	F	Mgr.		31	učitelka ZŠ	Oldřišov	99	80	0
-8105	509574	1	2	901	5	Růžena	Kremserová	F			58	starobní důchodce	Oldřišov	99	80	0
-8105	509574	1	2	901	6	Michaela	Wiederová	F			28	učitelka MŠ	Oldřišov	99	80	0
-8105	509574	1	2	901	7	Petr	Toman	M	Ing.		50	technik	Oldřišov	99	80	0
-8105	509574	1	2	901	8	Petr	Czichos	M			45	technik	Oldřišov	99	80	0
-8105	509574	1	2	901	9	Eduard	Svoboda	M	Ing.		40	obchodní ředitel	Oldřišov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	509574	1	1	902	1	Jan	Papež	Mgr.		51	státní zaměstnanec	Oldřišov	99	80	0	M
+8105	509574	1	2	901	1	Julius	Jadrný			48	stavební technik	Oldřišov	99	80	0	M
+8105	509574	1	1	902	2	Šárka	Fabiánová	MUDr.		33	lékařka	Oldřišov	99	80	0	F
+8105	509574	1	2	901	2	Antonin	Schwacha			35	terénní inspektor	Oldřišov	99	80	0	M
+8105	509574	1	1	902	3	Antonín	Fabián			41	technik	Oldřišov	99	80	0	M
+8105	509574	1	2	901	3	Ervín	Hanke	Ing.		44	státní zaměstnanec	Oldřišov	99	80	0	M
+8105	509574	1	1	902	4	Karel	Kašparčík			53	podnikatel	Oldřišov	99	80	0	M
+8105	509574	1	2	901	4	Simona	Drabčíková	Mgr.		31	učitelka ZŠ	Oldřišov	99	80	0	F
+8105	509574	1	1	902	5	Jiří	Miketa			28	podnikatel	Oldřišov	99	80	0	M
+8105	509574	1	2	901	5	Růžena	Kremserová			58	starobní důchodce	Oldřišov	99	80	0	F
+8105	509574	1	1	902	6	Karel	Beneš			39	podnikatel	Oldřišov	99	80	0	M
+8105	509574	1	2	901	6	Michaela	Wiederová			28	učitelka MŠ	Oldřišov	99	80	0	F
+8105	509574	1	1	902	7	Zuzana	Krebesová			37	podnikatel	Oldřišov	99	80	0	F
+8105	509574	1	2	901	7	Petr	Toman	Ing.		50	technik	Oldřišov	99	80	0	M
+8105	509574	1	1	902	8	Jana	Kovácsová			47	státní zaměstnanec	Oldřišov	99	80	0	F
+8105	509574	1	2	901	8	Petr	Czichos			45	technik	Oldřišov	99	80	0	M
+8105	509574	1	1	902	9	Pavla	Svobodová	Mgr.		40	středoškolský učitel	Oldřišov	99	80	0	F
+8105	509574	1	2	901	9	Eduard	Svoboda	Ing.		40	obchodní ředitel	Oldřišov	99	80	0	M

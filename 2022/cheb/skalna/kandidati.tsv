@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4101	554812	1	1	901	1	Rita	Skalová	F	Mgr.		54	starostka	Starý Rybník	99	80	A
-4101	554812	1	1	901	2	Radomil	Gold	M	Ing.		51	místopředseda představenstva	Skalná	99	80	A
-4101	554812	1	1	901	3	Roman	Melničuk	M			47	vedoucí TS	Skalná	99	80	A
-4101	554812	1	1	901	4	Tomáš	Pěček	M			50	účetní	Skalná	99	80	A
-4101	554812	1	1	901	5	Eva	Rothová	F	Bc.		52	učitelka MŠ	Skalná	99	80	A
-4101	554812	1	1	901	6	Štefan	Roth	M			34	montér	Skalná	99	80	A
-4101	554812	1	1	901	7	Jiří	Mesner	M	Ing.		48	učitel	Starý Rybník	99	80	A
-4101	554812	1	1	901	8	Martina	Kirchová	F			42	recepční	Skalná	99	80	A
-4101	554812	1	1	901	9	Michaela	Rybová	F			43	podnikatelka	Skalná	99	80	A
-4101	554812	1	1	901	10	Václav	Kuželka	M			52	správce pramenů	Skalná	99	80	A
-4101	554812	1	1	901	11	František	Cízler	M			43	kuchař	Skalná	99	80	A
-4101	554812	1	1	901	12	Dominik	Pěček	M	Ing.		25	finanční analytik	Skalná	99	80	A
-4101	554812	1	1	901	13	Daniel	Kuželka	M			24	elektrotechnik	Skalná	99	80	A
-4101	554812	1	1	901	14	Radek	Hurta	M			46	mistr údržby	Skalná	99	80	A
-4101	554812	1	1	901	15	Václav	Glazer	M			68	důchodce	Skalná	99	80	A
-4101	554812	1	2	902	1	Jan	Makovec	M	Mgr.		46	mechanik VJ	Skalná	99	80	A
-4101	554812	1	2	902	2	Petr	Lörincz	M			49	provozní technik	Skalná	99	80	A
-4101	554812	1	2	902	3	Jindřich	Novotný	M			44	vedoucí provozu	Skalná	99	80	A
-4101	554812	1	2	902	4	Šárka	Bartková	F	Ing.		44	vedoucí odbytu	Skalná	99	80	A
-4101	554812	1	2	902	5	Jarmila	Zachařová	F	Mgr. et Mgr.		48	státní zaměstnanec	Skalná	99	80	A
-4101	554812	1	2	902	6	Martin	Šebesta	M	Ing.		36	produktový manažer	Skalná	99	80	A
-4101	554812	1	2	902	7	Blanka	Novotná	F	Mgr.		49	učitelka	Starý Rybník	99	80	A
-4101	554812	1	2	902	8	Michaela	Makovcová	F			23	studentka VŠE	Skalná	99	80	A
-4101	554812	1	2	902	9	Václav	Zíka	M	Bc.		41	státní zaměstnanec	Starý Rybník	99	80	A
-4101	554812	1	2	902	10	Zbyněk	Pouzar	M	Ing.		49	OSVČ - podnikatel	Skalná	99	80	A
-4101	554812	1	2	902	11	Jitka	Kuchtová	F			48	vedoucí školní jídelny	Skalná	99	80	A
-4101	554812	1	2	902	12	Martina	Kořistková	F			48	účetní, ekonom	Skalná	99	80	A
-4101	554812	1	2	902	13	Radek	Fúrička	M			35	státní zaměstnanec	Skalná	99	80	A
-4101	554812	1	2	902	14	Karel	Štěpán	M			54	dispečer	Starý Rybník	99	80	A
-4101	554812	1	2	902	15	Jan	Valečka	M	Bc.		39	profesionální hasič	Skalná	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4101	554812	1	1	901	1	Rita	Skalová	Mgr.		54	starostka	Starý Rybník	99	80	A	F
+4101	554812	1	2	902	1	Jan	Makovec	Mgr.		46	mechanik VJ	Skalná	99	80	A	M
+4101	554812	1	1	901	2	Radomil	Gold	Ing.		51	místopředseda představenstva	Skalná	99	80	A	M
+4101	554812	1	2	902	2	Petr	Lörincz			49	provozní technik	Skalná	99	80	A	M
+4101	554812	1	1	901	3	Roman	Melničuk			47	vedoucí TS	Skalná	99	80	A	M
+4101	554812	1	2	902	3	Jindřich	Novotný			44	vedoucí provozu	Skalná	99	80	A	M
+4101	554812	1	1	901	4	Tomáš	Pěček			50	účetní	Skalná	99	80	A	M
+4101	554812	1	2	902	4	Šárka	Bartková	Ing.		44	vedoucí odbytu	Skalná	99	80	A	F
+4101	554812	1	1	901	5	Eva	Rothová	Bc.		52	učitelka MŠ	Skalná	99	80	A	F
+4101	554812	1	2	902	5	Jarmila	Zachařová	Mgr. et Mgr.		48	státní zaměstnanec	Skalná	99	80	A	F
+4101	554812	1	1	901	6	Štefan	Roth			34	montér	Skalná	99	80	A	M
+4101	554812	1	2	902	6	Martin	Šebesta	Ing.		36	produktový manažer	Skalná	99	80	A	M
+4101	554812	1	1	901	7	Jiří	Mesner	Ing.		48	učitel	Starý Rybník	99	80	A	M
+4101	554812	1	2	902	7	Blanka	Novotná	Mgr.		49	učitelka	Starý Rybník	99	80	A	F
+4101	554812	1	1	901	8	Martina	Kirchová			42	recepční	Skalná	99	80	A	F
+4101	554812	1	2	902	8	Michaela	Makovcová			23	studentka VŠE	Skalná	99	80	A	F
+4101	554812	1	1	901	9	Michaela	Rybová			43	podnikatelka	Skalná	99	80	A	F
+4101	554812	1	2	902	9	Václav	Zíka	Bc.		41	státní zaměstnanec	Starý Rybník	99	80	A	M
+4101	554812	1	1	901	10	Václav	Kuželka			52	správce pramenů	Skalná	99	80	A	M
+4101	554812	1	2	902	10	Zbyněk	Pouzar	Ing.		49	OSVČ - podnikatel	Skalná	99	80	A	M
+4101	554812	1	1	901	11	František	Cízler			43	kuchař	Skalná	99	80	A	M
+4101	554812	1	2	902	11	Jitka	Kuchtová			48	vedoucí školní jídelny	Skalná	99	80	A	F
+4101	554812	1	1	901	12	Dominik	Pěček	Ing.		25	finanční analytik	Skalná	99	80	A	M
+4101	554812	1	2	902	12	Martina	Kořistková			48	účetní, ekonom	Skalná	99	80	A	F
+4101	554812	1	1	901	13	Daniel	Kuželka			24	elektrotechnik	Skalná	99	80	A	M
+4101	554812	1	2	902	13	Radek	Fúrička			35	státní zaměstnanec	Skalná	99	80	A	M
+4101	554812	1	1	901	14	Radek	Hurta			46	mistr údržby	Skalná	99	80	A	M
+4101	554812	1	2	902	14	Karel	Štěpán			54	dispečer	Starý Rybník	99	80	A	M
+4101	554812	1	1	901	15	Václav	Glazer			68	důchodce	Skalná	99	80	A	M
+4101	554812	1	2	902	15	Jan	Valečka	Bc.		39	profesionální hasič	Skalná	99	80	A	M

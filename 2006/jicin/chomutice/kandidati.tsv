@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5202	572969	1	1	902	1	Jaroslav	Vondráček	M			58	starosta obce	Chomutice	99	80	0
-5202	572969	1	1	902	2	Josef	Novák	M			62	inv. důchodce	Chomutice - Obora	99	80	0
-5202	572969	1	1	902	3	Jiří	Scháňko	M			46	elektrotechnik	Chomutice	99	80	0
-5202	572969	1	1	902	4	Milan	Šulc	M			42	podnikatel	Chomutice	99	80	0
-5202	572969	1	1	902	5	Antonín	Macháček	M			54	elektrotechnik	Chomutice	99	80	0
-5202	572969	1	1	902	6	Radka	Draštíková	F			31	v domácnosti	Chomutice - Obora	99	80	0
-5202	572969	1	1	902	7	Jiří	Němeček	M			52	truhlář	Chomutice - Chomutičky	99	80	0
-5202	572969	1	1	902	8	René	Coubal	M			49	podnikatel	Chomutice	99	80	0
-5202	572969	1	1	902	9	Miroslav	Horáček	M			50	elektrotechnik	Chomutice	99	80	0
-5202	572969	1	2	47	1	Jaroslav	Novotný	M			63	důchodce	Obora	99	47	0
-5202	572969	1	2	47	2	Daniela	Holubičková	F			57	péče o osobu blízkou	Chomutice	99	47	0
-5202	572969	1	2	47	3	Petr	Huráň	M			54	zootechnik	Chomutice	47	47	0
-5202	572969	1	2	47	4	Jaroslav	Patolán	M			55	dělník	Chomutice	99	47	0
-5202	572969	1	2	47	5	Václav	Kašpar	M	Ing.		66	důchodce	Chomutice	47	47	0
-5202	572969	1	2	47	6	Jaroslav	Splítek	M			72	důchodce	Chomutice	47	47	0
-5202	572969	1	2	47	7	Oldřich	Kozma	M			59	dělník	Obora	99	47	0
-5202	572969	1	2	47	8	Václav	Winklér	M			58	dělník	Obora	99	47	0
-5202	572969	1	2	47	9	Karel	Kalenský	M			60	dělník	Chomutice	47	47	0
-5202	572969	1	3	901	1	Miroslav	Kloutvor	M			59	vedoucí dílen	Chomutice	99	80	0
-5202	572969	1	3	901	2	Zdena	Maťátková	F			49	úřednice	Chomutice - Chomutičky	99	80	0
-5202	572969	1	3	901	3	Miroslav	Vrba	M			40	dělník	Chomutice	99	80	0
-5202	572969	1	3	901	4	Miloš	Jón	M			33	opravář zem. strojů	Chomutice	99	80	0
-5202	572969	1	3	901	5	Monika	Jezberová	F			35	v domácnosti	Chomutice - Chomutičky	99	80	0
-5202	572969	1	3	901	6	Zdeněk	Kindl	M			37	opravář zem. strojů	Chomutice	99	80	0
-5202	572969	1	3	901	7	Monika	Kloutvorová	F			31	asistent prodeje	Chomutice	99	80	0
-5202	572969	1	3	901	8	Šárka	Tázlerová	F			30	asistent prodeje	Chomutice - Chomutičky	99	80	0
-5202	572969	1	3	901	9	Petr	Veselý	M			27	opravář zem. strojů	Chomutice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5202	572969	1	1	902	1	Jaroslav	Vondráček			58	starosta obce	Chomutice	99	80	0	M
+5202	572969	1	2	47	1	Jaroslav	Novotný			63	důchodce	Obora	99	47	0	M
+5202	572969	1	3	901	1	Miroslav	Kloutvor			59	vedoucí dílen	Chomutice	99	80	0	M
+5202	572969	1	1	902	2	Josef	Novák			62	inv. důchodce	Chomutice - Obora	99	80	0	M
+5202	572969	1	2	47	2	Daniela	Holubičková			57	péče o osobu blízkou	Chomutice	99	47	0	F
+5202	572969	1	3	901	2	Zdena	Maťátková			49	úřednice	Chomutice - Chomutičky	99	80	0	F
+5202	572969	1	1	902	3	Jiří	Scháňko			46	elektrotechnik	Chomutice	99	80	0	M
+5202	572969	1	2	47	3	Petr	Huráň			54	zootechnik	Chomutice	47	47	0	M
+5202	572969	1	3	901	3	Miroslav	Vrba			40	dělník	Chomutice	99	80	0	M
+5202	572969	1	1	902	4	Milan	Šulc			42	podnikatel	Chomutice	99	80	0	M
+5202	572969	1	2	47	4	Jaroslav	Patolán			55	dělník	Chomutice	99	47	0	M
+5202	572969	1	3	901	4	Miloš	Jón			33	opravář zem. strojů	Chomutice	99	80	0	M
+5202	572969	1	1	902	5	Antonín	Macháček			54	elektrotechnik	Chomutice	99	80	0	M
+5202	572969	1	2	47	5	Václav	Kašpar	Ing.		66	důchodce	Chomutice	47	47	0	M
+5202	572969	1	3	901	5	Monika	Jezberová			35	v domácnosti	Chomutice - Chomutičky	99	80	0	F
+5202	572969	1	1	902	6	Radka	Draštíková			31	v domácnosti	Chomutice - Obora	99	80	0	F
+5202	572969	1	2	47	6	Jaroslav	Splítek			72	důchodce	Chomutice	47	47	0	M
+5202	572969	1	3	901	6	Zdeněk	Kindl			37	opravář zem. strojů	Chomutice	99	80	0	M
+5202	572969	1	1	902	7	Jiří	Němeček			52	truhlář	Chomutice - Chomutičky	99	80	0	M
+5202	572969	1	2	47	7	Oldřich	Kozma			59	dělník	Obora	99	47	0	M
+5202	572969	1	3	901	7	Monika	Kloutvorová			31	asistent prodeje	Chomutice	99	80	0	F
+5202	572969	1	1	902	8	René	Coubal			49	podnikatel	Chomutice	99	80	0	M
+5202	572969	1	2	47	8	Václav	Winklér			58	dělník	Obora	99	47	0	M
+5202	572969	1	3	901	8	Šárka	Tázlerová			30	asistent prodeje	Chomutice - Chomutičky	99	80	0	F
+5202	572969	1	1	902	9	Miroslav	Horáček			50	elektrotechnik	Chomutice	99	80	0	M
+5202	572969	1	2	47	9	Karel	Kalenský			60	dělník	Chomutice	47	47	0	M
+5202	572969	1	3	901	9	Petr	Veselý			27	opravář zem. strojů	Chomutice	99	80	0	M

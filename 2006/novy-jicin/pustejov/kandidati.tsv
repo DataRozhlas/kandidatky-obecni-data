@@ -1,33 +1,33 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8104	568775	1	1	53	1	Tomáš	Maiwaelder	M	Ing.		35	starosta	Pustějov	53	53	0
-8104	568775	1	1	53	2	Karel	Bednařík	M			42	elektromontér	Pustějov	53	53	0
-8104	568775	1	1	53	3	Viliam	Malek	M	Ing.		52	projektant	Pustějov	99	53	0
-8104	568775	1	1	53	4	Helena	Dubjuková	F			53	porodní asistentka	Pustějov	99	53	0
-8104	568775	1	1	53	5	Miroslava	Caizlová	F			46	ředitelka MŠ	Pustějov	99	53	0
-8104	568775	1	1	53	6	Josef	Švarc	M			30	zámečník	Pustějov	53	53	0
-8104	568775	1	1	53	7	Radmila	Vrzalová	F			40	kuchařka	Pustějov	53	53	0
-8104	568775	1	1	53	8	Jiří	Jařina	M			33	mechanik NC strojů	Pustějov	99	53	0
-8104	568775	1	1	53	9	Jiří	Zindler	M			41	zámečník	Pustějov	53	53	0
-8104	568775	1	2	47	1	Pavel	Pisch	M			42	OSVČ	Pustějov	99	47	0
-8104	568775	1	2	47	2	Ivo	Popp	M			58	důchodce	Pustějov	47	47	0
-8104	568775	1	2	47	3	Lubomír	Dresler	M			64	důchodce	Pustějov	47	47	0
-8104	568775	1	2	47	4	Soňa	Šimečková	F			44	administrativní pracovnice	Pustějov	99	47	0
-8104	568775	1	2	47	5	Petr	Pisch	M			48	dělník	Pustějov	99	47	0
-8104	568775	1	2	47	6	Miroslav	Kratochvíla	M			40	OSVČ	Pustějov	99	47	0
-8104	568775	1	2	47	7	Jaroslav	Smolen	M	Ing.		61	prokurista	Pustějov	47	47	0
-8104	568775	1	2	47	8	Alena	Davidová	F			56	státní zaměstnanec	Pustějov	47	47	0
-8104	568775	1	2	47	9	Bedřich	Popp	M			45	OSVČ	Pustějov	99	47	0
-8104	568775	1	3	902	1	Zdeněk	Bartošek	M	RNDr.		43	ředitel školy	Pustějov	99	80	0
-8104	568775	1	3	902	2	Tomáš	Macháček	M			34	manažer	Pustějov	99	80	0
-8104	568775	1	3	902	3	Miroslava	Martinková	F			40	prodejní manažer	Pustějov	99	80	0
-8104	568775	1	3	902	4	Milan	Šimeček	M	Ing.		48	technik	Pustějov	99	80	0
-8104	568775	1	3	902	5	Yveta	Šimečková	F	Mgr.		48	učitelka	Pustějov	99	80	0
-8104	568775	1	4	901	1	Oldřich	Usvald	M	Ing.		49	projektový manažer	Pustějov	99	80	0
-8104	568775	1	4	901	2	Lukáš	Pravda	M	Ing.		28	aplikační technik	Pustějov	99	80	0
-8104	568775	1	4	901	3	Josef	Horák	M			60	zemědělec	Pustějov	99	80	0
-8104	568775	1	4	901	4	Radovan	Popp	M			33	počítačový technik	Pustějov	99	80	0
-8104	568775	1	4	901	5	Jana	Petrošová	F			44	vedoucí odboru MěÚ	Pustějov	99	80	0
-8104	568775	1	4	901	6	Roman	Šimeček	M			31	zámečník	Pustějov	99	80	0
-8104	568775	1	4	901	7	Evžen	Koždoň	M			41	zemědělec	Pustějov	99	80	0
-8104	568775	1	4	901	8	Lukáš	Bajtek	M			23	elektrotechnik	Pustějov	99	80	0
-8104	568775	1	4	901	9	Pavel	Bartošek	M	Ing.		42	ekonomický poradce	Pustějov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8104	568775	1	1	53	1	Tomáš	Maiwaelder	Ing.		35	starosta	Pustějov	53	53	0	M
+8104	568775	1	2	47	1	Pavel	Pisch			42	OSVČ	Pustějov	99	47	0	M
+8104	568775	1	3	902	1	Zdeněk	Bartošek	RNDr.		43	ředitel školy	Pustějov	99	80	0	M
+8104	568775	1	4	901	1	Oldřich	Usvald	Ing.		49	projektový manažer	Pustějov	99	80	0	M
+8104	568775	1	1	53	2	Karel	Bednařík			42	elektromontér	Pustějov	53	53	0	M
+8104	568775	1	2	47	2	Ivo	Popp			58	důchodce	Pustějov	47	47	0	M
+8104	568775	1	3	902	2	Tomáš	Macháček			34	manažer	Pustějov	99	80	0	M
+8104	568775	1	4	901	2	Lukáš	Pravda	Ing.		28	aplikační technik	Pustějov	99	80	0	M
+8104	568775	1	1	53	3	Viliam	Malek	Ing.		52	projektant	Pustějov	99	53	0	M
+8104	568775	1	2	47	3	Lubomír	Dresler			64	důchodce	Pustějov	47	47	0	M
+8104	568775	1	3	902	3	Miroslava	Martinková			40	prodejní manažer	Pustějov	99	80	0	F
+8104	568775	1	4	901	3	Josef	Horák			60	zemědělec	Pustějov	99	80	0	M
+8104	568775	1	1	53	4	Helena	Dubjuková			53	porodní asistentka	Pustějov	99	53	0	F
+8104	568775	1	2	47	4	Soňa	Šimečková			44	administrativní pracovnice	Pustějov	99	47	0	F
+8104	568775	1	3	902	4	Milan	Šimeček	Ing.		48	technik	Pustějov	99	80	0	M
+8104	568775	1	4	901	4	Radovan	Popp			33	počítačový technik	Pustějov	99	80	0	M
+8104	568775	1	1	53	5	Miroslava	Caizlová			46	ředitelka MŠ	Pustějov	99	53	0	F
+8104	568775	1	2	47	5	Petr	Pisch			48	dělník	Pustějov	99	47	0	M
+8104	568775	1	3	902	5	Yveta	Šimečková	Mgr.		48	učitelka	Pustějov	99	80	0	F
+8104	568775	1	4	901	5	Jana	Petrošová			44	vedoucí odboru MěÚ	Pustějov	99	80	0	F
+8104	568775	1	1	53	6	Josef	Švarc			30	zámečník	Pustějov	53	53	0	M
+8104	568775	1	2	47	6	Miroslav	Kratochvíla			40	OSVČ	Pustějov	99	47	0	M
+8104	568775	1	4	901	6	Roman	Šimeček			31	zámečník	Pustějov	99	80	0	M
+8104	568775	1	1	53	7	Radmila	Vrzalová			40	kuchařka	Pustějov	53	53	0	F
+8104	568775	1	2	47	7	Jaroslav	Smolen	Ing.		61	prokurista	Pustějov	47	47	0	M
+8104	568775	1	4	901	7	Evžen	Koždoň			41	zemědělec	Pustějov	99	80	0	M
+8104	568775	1	1	53	8	Jiří	Jařina			33	mechanik NC strojů	Pustějov	99	53	0	M
+8104	568775	1	2	47	8	Alena	Davidová			56	státní zaměstnanec	Pustějov	47	47	0	F
+8104	568775	1	4	901	8	Lukáš	Bajtek			23	elektrotechnik	Pustějov	99	80	0	M
+8104	568775	1	1	53	9	Jiří	Zindler			41	zámečník	Pustějov	53	53	0	M
+8104	568775	1	2	47	9	Bedřich	Popp			45	OSVČ	Pustějov	99	47	0	M
+8104	568775	1	4	901	9	Pavel	Bartošek	Ing.		42	ekonomický poradce	Pustějov	99	80	0	M

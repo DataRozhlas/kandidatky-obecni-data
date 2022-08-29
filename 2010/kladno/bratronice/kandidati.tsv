@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	532142	1	1	387	1	Jaroslav	NEDVĚD	M			60	letecký mechanik	Bratronice	99	80	0
-2103	532142	1	1	387	2	Petr	LUDVÍK	M			35	instalatér	Bratronice	99	80	0
-2103	532142	1	1	387	3	Zdeněk	JIRÁSEK	M			32	topenář	Bratronice	99	80	0
-2103	532142	1	1	387	4	Zdeněk	SEDLÁČEK	M			66	podnikatel	Bratronice	47	47	0
-2103	532142	1	1	387	5	Barbora	PODDANÁ	F			25	úřednice	Bratronice	99	80	0
-2103	532142	1	1	387	6	Ivana	TENKLOVÁ	F			53	referentka	Bratronice	99	80	0
-2103	532142	1	1	387	7	Helena	VALIŠOVÁ	F	Mgr.		68	důchodkyně	Bratronice	47	47	0
-2103	532142	1	1	387	8	Radoslav	MÜLLER	M	PhDr.		79	důchodce	Bratronice	47	47	0
-2103	532142	1	1	387	9	Milena	VESELSKÁ	F			65	důchodkyně	Bratronice	47	47	0
-2103	532142	1	2	53	1	Miloslava	KNÍŽETOVÁ	F			45	starostka	Bratronice	53	53	0
-2103	532142	1	2	53	2	Jana	VALENTOVÁ	F			49	technik	Bratronice	99	53	0
-2103	532142	1	2	53	3	Václava	LEPIČOVÁ	F			39	v domácnosti	Dolní Bezděkov	99	53	0
-2103	532142	1	2	53	4	Jiří	ČERNÝ	M	Bc.		38	geodet	Bratronice	99	53	0
-2103	532142	1	2	53	5	Zdeňka	KRUMLOVÁ	F			39	v domácnosti	Bratronice	99	53	0
-2103	532142	1	2	53	6	Josef	PUCHOLT	M	Ing.		30	správce sítí - IT	Bratronice	99	53	0
-2103	532142	1	2	53	7	Petr	JELÍNEK	M	MUDr.		42	lékař	Dolní Bezděkov	53	53	0
-2103	532142	1	2	53	8	Jiří	PUCHOLT	M			62	důchodce	Bratronice	99	53	0
-2103	532142	1	2	53	9	Zdeněk	HRABĚ	M			46	podnikatel	Bratronice	53	53	0
-2103	532142	1	3	901	1	Eliška	SÝKOROVÁ	F			48	zdravotní sestra	Bratronice	99	80	0
-2103	532142	1	3	901	2	Jaromír	ROHLA	M			50	technik	Bratronice	99	80	0
-2103	532142	1	3	901	3	Zdeněk	PAVLÍČEK	M			49	skladník	Dolní Bezděkov	99	80	0
-2103	532142	1	3	901	4	František	KUKLA	M			37	voják	Bratronice	99	80	0
-2103	532142	1	3	901	5	Jitka	TENKLOVÁ	F			33	ředitelka školy	Bratronice	99	80	0
-2103	532142	1	3	901	6	Pavlína	KUČEROVÁ	F			25	adm.pracovnice	Bratronice	99	80	0
-2103	532142	1	3	901	7	Václav	ŠVEJCAR	M			50	dělník	Bratronice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	532142	1	1	387	1	Jaroslav	NEDVĚD			60	letecký mechanik	Bratronice	99	80	0	M
+2103	532142	1	2	53	1	Miloslava	KNÍŽETOVÁ			45	starostka	Bratronice	53	53	0	F
+2103	532142	1	3	901	1	Eliška	SÝKOROVÁ			48	zdravotní sestra	Bratronice	99	80	0	F
+2103	532142	1	1	387	2	Petr	LUDVÍK			35	instalatér	Bratronice	99	80	0	M
+2103	532142	1	2	53	2	Jana	VALENTOVÁ			49	technik	Bratronice	99	53	0	F
+2103	532142	1	3	901	2	Jaromír	ROHLA			50	technik	Bratronice	99	80	0	M
+2103	532142	1	1	387	3	Zdeněk	JIRÁSEK			32	topenář	Bratronice	99	80	0	M
+2103	532142	1	2	53	3	Václava	LEPIČOVÁ			39	v domácnosti	Dolní Bezděkov	99	53	0	F
+2103	532142	1	3	901	3	Zdeněk	PAVLÍČEK			49	skladník	Dolní Bezděkov	99	80	0	M
+2103	532142	1	1	387	4	Zdeněk	SEDLÁČEK			66	podnikatel	Bratronice	47	47	0	M
+2103	532142	1	2	53	4	Jiří	ČERNÝ	Bc.		38	geodet	Bratronice	99	53	0	M
+2103	532142	1	3	901	4	František	KUKLA			37	voják	Bratronice	99	80	0	M
+2103	532142	1	1	387	5	Barbora	PODDANÁ			25	úřednice	Bratronice	99	80	0	F
+2103	532142	1	2	53	5	Zdeňka	KRUMLOVÁ			39	v domácnosti	Bratronice	99	53	0	F
+2103	532142	1	3	901	5	Jitka	TENKLOVÁ			33	ředitelka školy	Bratronice	99	80	0	F
+2103	532142	1	1	387	6	Ivana	TENKLOVÁ			53	referentka	Bratronice	99	80	0	F
+2103	532142	1	2	53	6	Josef	PUCHOLT	Ing.		30	správce sítí - IT	Bratronice	99	53	0	M
+2103	532142	1	3	901	6	Pavlína	KUČEROVÁ			25	adm.pracovnice	Bratronice	99	80	0	F
+2103	532142	1	1	387	7	Helena	VALIŠOVÁ	Mgr.		68	důchodkyně	Bratronice	47	47	0	F
+2103	532142	1	2	53	7	Petr	JELÍNEK	MUDr.		42	lékař	Dolní Bezděkov	53	53	0	M
+2103	532142	1	3	901	7	Václav	ŠVEJCAR			50	dělník	Bratronice	99	80	0	M
+2103	532142	1	1	387	8	Radoslav	MÜLLER	PhDr.		79	důchodce	Bratronice	47	47	0	M
+2103	532142	1	2	53	8	Jiří	PUCHOLT			62	důchodce	Bratronice	99	53	0	M
+2103	532142	1	1	387	9	Milena	VESELSKÁ			65	důchodkyně	Bratronice	47	47	0	F
+2103	532142	1	2	53	9	Zdeněk	HRABĚ			46	podnikatel	Bratronice	53	53	0	M

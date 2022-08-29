@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	593061	1	1	901	1	Vlastimil	Provazník	M			48	soustružník kovů	Heroltice	99	80	A
-6206	593061	1	1	901	2	Dana	Štolfová	F	Mgr.		43	zdravotní sestra	Heroltice	99	80	A
-6206	593061	1	1	901	3	Jiří	Štěrba	M			42	vedoucí pyrotechniky	Hoštice	99	80	A
-6206	593061	1	1	901	4	Petr	Provazník	M	Ing.		52	nezaměstnaný	Heroltice	99	80	A
-6206	593061	1	1	901	5	Jan	Hromek	M			29	nezaměstnaný	Heroltice	99	80	A
-6206	593061	1	1	901	6	Petr	Knichal	M			48	instalatér	Hoštice	99	80	A
-6206	593061	1	1	901	7	Antonín	Janeček	M			47	zámečník	Heroltice	1114	80	A
-6206	593061	1	1	901	8	Antonín	Dynka	M	Ing.		67	důchodce	Heroltice	99	80	A
-6206	593061	1	1	901	9	Aneta	Zemanová	F			20	operátorka ve výrobě	Heroltice	99	80	A
-6206	593061	1	2	1	1	Oldřich	Tomášek	M	Ing.		62	projektant - konstruktér	Heroltice	99	1	A
-6206	593061	1	2	1	2	Jan	Knápek	M	Mgr.	Ph.D.	38	manažer kvality	Hoštice	99	1	A
-6206	593061	1	2	1	3	Jaroslav	Knichal	M	Ing.		34	technolog	Hoštice	99	1	A
-6206	593061	1	2	1	4	Petr	Mrkvica	M			36	vedoucí technického střediska	Heroltice	99	1	A
-6206	593061	1	2	1	5	Zdeňka	Mrnuštíková	F			61	bezpečnostní technik	Heroltice	99	1	A
-6206	593061	1	2	1	6	Zdeněk	Kilián	M			44	montážní dělník	Heroltice	99	1	A
-6206	593061	1	2	1	7	Marie	Vlčková	F			35	cukrářka	Hoštice	99	1	A
-6206	593061	1	2	1	8	Marie	Knápková	F	MUDr.		33	dětská lékařka	Hoštice	99	1	A
-6206	593061	1	2	1	9	Ivo	Tomášek	M	Ing.		59	jednatel společnosti	Heroltice	99	1	A
-6206	593061	1	3	902	1	Tomáš	Hlaváček	M	Ing.		35	obchodní zástupce	Heroltice	99	80	A
-6206	593061	1	3	902	2	Jiří	Petržela	M			39	OSVČ	Heroltice	99	80	A
-6206	593061	1	3	902	3	František	Blažek	M			34	IT technik	Heroltice	99	80	A
-6206	593061	1	3	902	4	Josef	Mrnuštík	M			41	řidič	Heroltice	99	80	A
-6206	593061	1	3	902	5	František	Přibylík	M			51	zámečník	Hoštice	99	80	A
-6206	593061	1	3	902	6	Luděk	Kolkop	M			57	OSVČ	Hoštice	99	80	A
-6206	593061	1	3	902	7	Jiří	Petržela	M			62	OSVČ	Heroltice	99	80	A
-6206	593061	1	3	902	8	Jarmil	Štolfa	M			45	operátor CNC	Heroltice	99	80	A
-6206	593061	1	3	902	9	Jiří	Mrnuštík	M			47	mechanik	Heroltice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	593061	1	1	901	1	Vlastimil	Provazník			48	soustružník kovů	Heroltice	99	80	A	M
+6206	593061	1	2	1	1	Oldřich	Tomášek	Ing.		62	projektant - konstruktér	Heroltice	99	1	A	M
+6206	593061	1	3	902	1	Tomáš	Hlaváček	Ing.		35	obchodní zástupce	Heroltice	99	80	A	M
+6206	593061	1	1	901	2	Dana	Štolfová	Mgr.		43	zdravotní sestra	Heroltice	99	80	A	F
+6206	593061	1	2	1	2	Jan	Knápek	Mgr.	Ph.D.	38	manažer kvality	Hoštice	99	1	A	M
+6206	593061	1	3	902	2	Jiří	Petržela			39	OSVČ	Heroltice	99	80	A	M
+6206	593061	1	1	901	3	Jiří	Štěrba			42	vedoucí pyrotechniky	Hoštice	99	80	A	M
+6206	593061	1	2	1	3	Jaroslav	Knichal	Ing.		34	technolog	Hoštice	99	1	A	M
+6206	593061	1	3	902	3	František	Blažek			34	IT technik	Heroltice	99	80	A	M
+6206	593061	1	1	901	4	Petr	Provazník	Ing.		52	nezaměstnaný	Heroltice	99	80	A	M
+6206	593061	1	2	1	4	Petr	Mrkvica			36	vedoucí technického střediska	Heroltice	99	1	A	M
+6206	593061	1	3	902	4	Josef	Mrnuštík			41	řidič	Heroltice	99	80	A	M
+6206	593061	1	1	901	5	Jan	Hromek			29	nezaměstnaný	Heroltice	99	80	A	M
+6206	593061	1	2	1	5	Zdeňka	Mrnuštíková			61	bezpečnostní technik	Heroltice	99	1	A	F
+6206	593061	1	3	902	5	František	Přibylík			51	zámečník	Hoštice	99	80	A	M
+6206	593061	1	1	901	6	Petr	Knichal			48	instalatér	Hoštice	99	80	A	M
+6206	593061	1	2	1	6	Zdeněk	Kilián			44	montážní dělník	Heroltice	99	1	A	M
+6206	593061	1	3	902	6	Luděk	Kolkop			57	OSVČ	Hoštice	99	80	A	M
+6206	593061	1	1	901	7	Antonín	Janeček			47	zámečník	Heroltice	1114	80	A	M
+6206	593061	1	2	1	7	Marie	Vlčková			35	cukrářka	Hoštice	99	1	A	F
+6206	593061	1	3	902	7	Jiří	Petržela			62	OSVČ	Heroltice	99	80	A	M
+6206	593061	1	1	901	8	Antonín	Dynka	Ing.		67	důchodce	Heroltice	99	80	A	M
+6206	593061	1	2	1	8	Marie	Knápková	MUDr.		33	dětská lékařka	Hoštice	99	1	A	F
+6206	593061	1	3	902	8	Jarmil	Štolfa			45	operátor CNC	Heroltice	99	80	A	M
+6206	593061	1	1	901	9	Aneta	Zemanová			20	operátorka ve výrobě	Heroltice	99	80	A	F
+6206	593061	1	2	1	9	Ivo	Tomášek	Ing.		59	jednatel společnosti	Heroltice	99	1	A	M
+6206	593061	1	3	902	9	Jiří	Mrnuštík			47	mechanik	Heroltice	99	80	A	M

@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2111	564222	1	1	901	1	Pavel	Krotký	M			41	svářeč	Nestrašovice	99	80	0
-2111	564222	1	1	901	2	Petra	Kubátová	F			32	účetní	Nestrašovice	99	80	0
-2111	564222	1	1	901	3	Kamil	Vachalovský	M			37	mechanik	Nestrašovice	99	80	0
-2111	564222	1	1	901	4	Jaroslav	Pinta	M			64	důchodce	Nestrašovice	1	80	0
-2111	564222	1	1	901	5	Štefan	Vojtech	M			37	zedník	Nestrašovice	99	80	0
-2111	564222	1	1	901	6	Petr	Švenda	M			40	automechanik	Nestrašovice	99	80	0
-2111	564222	1	1	901	7	Martin	Mach	M			49	invalidní důchodce	Nestrašovice	99	80	0
-2111	564222	1	1	901	8	Karel	Vachalovský	M	Ing. Bc.		39	státní zaměstnanec	Nestrašovice	99	80	0
-2111	564222	1	2	902	1	Stanislava	Brucknerová	F	Mgr.		50	diplomovaná sestra	Nestrašovice	99	80	0
-2111	564222	1	2	902	2	Miroslav	Jirkal	M			73	živnostník	Nestrašovice	99	80	0
-2111	564222	1	2	902	3	Petra	Čížková	F			36	podnikatelka	Nestrašovice	99	80	0
-2111	564222	1	2	902	4	Jiří	Calda	M			67	důchodce	Nestrašovice	99	80	0
-2111	564222	1	2	902	5	Petr	Bruckner	M			25	produktový specialista	Nestrašovice	99	80	0
-2111	564222	1	2	902	6	Josef	Řezáč	M			77	důchodce	Nestrašovice	99	80	0
-2111	564222	1	2	902	7	Václav	Majdl	M			81	důchodce	Nestrašovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2111	564222	1	1	901	1	Pavel	Krotký			41	svářeč	Nestrašovice	99	80	0	M
+2111	564222	1	2	902	1	Stanislava	Brucknerová	Mgr.		50	diplomovaná sestra	Nestrašovice	99	80	0	F
+2111	564222	1	1	901	2	Petra	Kubátová			32	účetní	Nestrašovice	99	80	0	F
+2111	564222	1	2	902	2	Miroslav	Jirkal			73	živnostník	Nestrašovice	99	80	0	M
+2111	564222	1	1	901	3	Kamil	Vachalovský			37	mechanik	Nestrašovice	99	80	0	M
+2111	564222	1	2	902	3	Petra	Čížková			36	podnikatelka	Nestrašovice	99	80	0	F
+2111	564222	1	1	901	4	Jaroslav	Pinta			64	důchodce	Nestrašovice	1	80	0	M
+2111	564222	1	2	902	4	Jiří	Calda			67	důchodce	Nestrašovice	99	80	0	M
+2111	564222	1	1	901	5	Štefan	Vojtech			37	zedník	Nestrašovice	99	80	0	M
+2111	564222	1	2	902	5	Petr	Bruckner			25	produktový specialista	Nestrašovice	99	80	0	M
+2111	564222	1	1	901	6	Petr	Švenda			40	automechanik	Nestrašovice	99	80	0	M
+2111	564222	1	2	902	6	Josef	Řezáč			77	důchodce	Nestrašovice	99	80	0	M
+2111	564222	1	1	901	7	Martin	Mach			49	invalidní důchodce	Nestrašovice	99	80	0	M
+2111	564222	1	2	902	7	Václav	Majdl			81	důchodce	Nestrašovice	99	80	0	M
+2111	564222	1	1	901	8	Karel	Vachalovský	Ing. Bc.		39	státní zaměstnanec	Nestrašovice	99	80	0	M

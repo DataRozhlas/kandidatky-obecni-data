@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3106	551937	1	1	901	1	Jiří	Pýcha	M	Ing.		70	projektant	Uzenice	99	80	A
-3106	551937	1	1	901	2	David	Melichar	M			38	policista	Uzenice	99	80	A
-3106	551937	1	1	901	3	Renata	Marešová	F			58	dělnice	Uzenice	99	80	A
-3106	551937	1	1	901	4	Miroslav	Kučera	M			43	řidič	Uzenice	99	80	A
-3106	551937	1	1	901	5	Petr	Hrubý	M			52	OSVČ	Uzenice	99	80	A
-3106	551937	1	1	901	6	Miroslav	Pýcha	M			59	řidič pracovních strojů	Uzenice	99	80	A
-3106	551937	1	1	901	7	Jaroslav	Mareš	M			60	střelmistr	Uzenice	99	80	A
-3106	551937	1	2	902	1	Bohumír	Kučera	M			63	důchodce	Uzenice	99	80	A
-3106	551937	1	2	902	2	Jaroslav	Štrunc	M			43	IT manažer	Uzenice	99	80	A
-3106	551937	1	2	902	3	Josef	Zemek	M			50	strojvedoucí	Uzenice	99	80	A
-3106	551937	1	2	902	4	Marcela	Štvánová	F			64	důchodkyně	Uzenice	99	80	A
-3106	551937	1	2	902	5	Milan	Sedláček	M			65	důchodce	Uzenice	99	80	A
-3106	551937	1	2	902	6	Dagmar	Malečková	F			51	úřednice	Uzenice	99	80	A
-3106	551937	1	2	902	7	Dana	Zemanová	F			41	operátor ve výrobě	Uzenice	99	80	A
-3106	551937	1	2	902	8	Pavel	Škácha	M			55	řidič	Uzenice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3106	551937	1	1	901	1	Jiří	Pýcha	Ing.		70	projektant	Uzenice	99	80	A	M
+3106	551937	1	2	902	1	Bohumír	Kučera			63	důchodce	Uzenice	99	80	A	M
+3106	551937	1	1	901	2	David	Melichar			38	policista	Uzenice	99	80	A	M
+3106	551937	1	2	902	2	Jaroslav	Štrunc			43	IT manažer	Uzenice	99	80	A	M
+3106	551937	1	1	901	3	Renata	Marešová			58	dělnice	Uzenice	99	80	A	F
+3106	551937	1	2	902	3	Josef	Zemek			50	strojvedoucí	Uzenice	99	80	A	M
+3106	551937	1	1	901	4	Miroslav	Kučera			43	řidič	Uzenice	99	80	A	M
+3106	551937	1	2	902	4	Marcela	Štvánová			64	důchodkyně	Uzenice	99	80	A	F
+3106	551937	1	1	901	5	Petr	Hrubý			52	OSVČ	Uzenice	99	80	A	M
+3106	551937	1	2	902	5	Milan	Sedláček			65	důchodce	Uzenice	99	80	A	M
+3106	551937	1	1	901	6	Miroslav	Pýcha			59	řidič pracovních strojů	Uzenice	99	80	A	M
+3106	551937	1	2	902	6	Dagmar	Malečková			51	úřednice	Uzenice	99	80	A	F
+3106	551937	1	1	901	7	Jaroslav	Mareš			60	střelmistr	Uzenice	99	80	A	M
+3106	551937	1	2	902	7	Dana	Zemanová			41	operátor ve výrobě	Uzenice	99	80	A	F
+3106	551937	1	2	902	8	Pavel	Škácha			55	řidič	Uzenice	99	80	A	M

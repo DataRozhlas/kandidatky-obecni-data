@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4204	566004	1	1	901	1	Tomáš	Adámek	M			43	strojvedoucí SHV	Blatno	99	80	A
-4204	566004	1	1	901	2	David	Kolář	M			43	OSVČ	Blatno	99	80	A
-4204	566004	1	1	901	3	Lukáš	Bechyně	M	Mgr.		27	administrátor	Blatno	99	80	A
-4204	566004	1	1	901	4	Jiří	Pašíkovský	M	Mgr.		34	státní zaměstnanec	Blatno	99	80	A
-4204	566004	1	1	901	5	Veronika	Boudová	F			42	účetní	Blatno	99	80	A
-4204	566004	1	1	901	6	Jakub	Sýkora	M	Bc.		28	IT technik	Blatno	99	80	A
-4204	566004	1	1	901	7	David	Marek	M			44	elektromontér	Malměřice	99	80	A
-4204	566004	1	2	47	1	Václav	Beneš	M			65	starosta obce	Malměřice	47	47	A
-4204	566004	1	2	47	2	Eva	Kolibačová	F			55	místostarostka obce	Blatno	99	47	A
-4204	566004	1	2	47	3	Jaroslava	Pašíkovská	F			56	vedoucí stavebního úřadu	Blatno	99	47	A
-4204	566004	1	2	47	4	Pavel	Sajfrid	M			52	ředitel společnosti s.r.o.	Blatno	99	47	A
-4204	566004	1	2	47	5	Lucie	Benešová	F		DiS.	46	probační a mediační služba ČR	Malměřice	99	47	A
-4204	566004	1	2	47	6	Radmila	Štérová	F	Mgr.		60	středoškolská učitelka	Blatno	99	47	A
-4204	566004	1	2	47	7	Renata	Braunová	F			41	sanitářka	Blatno	99	47	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4204	566004	1	1	901	1	Tomáš	Adámek			43	strojvedoucí SHV	Blatno	99	80	A	M
+4204	566004	1	2	47	1	Václav	Beneš			65	starosta obce	Malměřice	47	47	A	M
+4204	566004	1	1	901	2	David	Kolář			43	OSVČ	Blatno	99	80	A	M
+4204	566004	1	2	47	2	Eva	Kolibačová			55	místostarostka obce	Blatno	99	47	A	F
+4204	566004	1	1	901	3	Lukáš	Bechyně	Mgr.		27	administrátor	Blatno	99	80	A	M
+4204	566004	1	2	47	3	Jaroslava	Pašíkovská			56	vedoucí stavebního úřadu	Blatno	99	47	A	F
+4204	566004	1	1	901	4	Jiří	Pašíkovský	Mgr.		34	státní zaměstnanec	Blatno	99	80	A	M
+4204	566004	1	2	47	4	Pavel	Sajfrid			52	ředitel společnosti s.r.o.	Blatno	99	47	A	M
+4204	566004	1	1	901	5	Veronika	Boudová			42	účetní	Blatno	99	80	A	F
+4204	566004	1	2	47	5	Lucie	Benešová		DiS.	46	probační a mediační služba ČR	Malměřice	99	47	A	F
+4204	566004	1	1	901	6	Jakub	Sýkora	Bc.		28	IT technik	Blatno	99	80	A	M
+4204	566004	1	2	47	6	Radmila	Štérová	Mgr.		60	středoškolská učitelka	Blatno	99	47	A	F
+4204	566004	1	1	901	7	David	Marek			44	elektromontér	Malměřice	99	80	A	M
+4204	566004	1	2	47	7	Renata	Braunová			41	sanitářka	Blatno	99	47	A	F

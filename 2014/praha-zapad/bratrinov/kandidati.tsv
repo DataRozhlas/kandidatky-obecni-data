@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	571199	1	1	902	1	Ladislav	Malčánek	M			54	strojní zámečník	Bratřínov	99	80	0
-2110	571199	1	1	902	2	František	Šťastný	M			46	podnikatel	Bratřínov	99	80	0
-2110	571199	1	1	902	3	Filip	Jankovec	M			41	programátor analytik	Bratřínov	99	80	0
-2110	571199	1	1	902	4	Martina	Bezecná	F	Ing.		34	projektantka	Bratřínov	99	80	0
-2110	571199	1	1	902	5	Monika	Koháková	F			44	kuchařka	Bratřínov	99	80	0
-2110	571199	1	1	902	6	Josef	Panýrek	M			50	opravář zemědělských strojů	Bratřínov	99	80	0
-2110	571199	1	2	901	1	Dagmar	Holková	F			44	asistentka	Bratřínov	99	80	0
-2110	571199	1	2	901	2	Jana	Dufková	F			62	dělnice	Bratřínov	99	80	0
-2110	571199	1	2	901	3	Robert	Juliš	M			45	automechanik	Bratřínov	99	80	0
-2110	571199	1	2	901	4	Iveta	Svobodová	F			19	studentka	Bratřínov	99	80	0
-2110	571199	1	2	901	5	Václav	Šťástka	M			23	automechanik	Bratřínov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	571199	1	1	902	1	Ladislav	Malčánek			54	strojní zámečník	Bratřínov	99	80	0	M
+2110	571199	1	2	901	1	Dagmar	Holková			44	asistentka	Bratřínov	99	80	0	F
+2110	571199	1	1	902	2	František	Šťastný			46	podnikatel	Bratřínov	99	80	0	M
+2110	571199	1	2	901	2	Jana	Dufková			62	dělnice	Bratřínov	99	80	0	F
+2110	571199	1	1	902	3	Filip	Jankovec			41	programátor analytik	Bratřínov	99	80	0	M
+2110	571199	1	2	901	3	Robert	Juliš			45	automechanik	Bratřínov	99	80	0	M
+2110	571199	1	1	902	4	Martina	Bezecná	Ing.		34	projektantka	Bratřínov	99	80	0	F
+2110	571199	1	2	901	4	Iveta	Svobodová			19	studentka	Bratřínov	99	80	0	F
+2110	571199	1	1	902	5	Monika	Koháková			44	kuchařka	Bratřínov	99	80	0	F
+2110	571199	1	2	901	5	Václav	Šťástka			23	automechanik	Bratřínov	99	80	0	M
+2110	571199	1	1	902	6	Josef	Panýrek			50	opravář zemědělských strojů	Bratřínov	99	80	0	M

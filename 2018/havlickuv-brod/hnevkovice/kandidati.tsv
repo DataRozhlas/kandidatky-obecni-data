@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6101	568694	1	1	903	1	Jiří	Šťastný	M			53	OSVČ	Hněvkovice	99	80	A
-6101	568694	1	1	903	2	Petr	Fous	M			44	jednatel firmy	Štičí	99	80	A
-6101	568694	1	1	903	3	Zdeněk	Rajdl	M		DiS.	38	disponent dopravy	Hněvkovice	99	80	A
-6101	568694	1	1	903	4	Roman	Mysliveček	M			32	zemědělec	Chotěměřice	99	80	A
-6101	568694	1	1	903	5	Antonín	Vrána	M			41	OSVČ	Hněvkovice	99	80	A
-6101	568694	1	1	903	6	Lenka	Skalová	F	Mgr.		32	učitelka	Hněvkovice	99	80	A
-6101	568694	1	1	903	7	Petr	Končel	M			33	svářeč	Hněvkovice	99	80	A
-6101	568694	1	1	903	8	Radek	Pajer	M			33	vedoucí výroby	Nová Ves u Dolních Kralovic	99	80	A
-6101	568694	1	1	903	9	Antonín	Pajer	M			53	traktorista	Zahájí	99	80	A
-6101	568694	1	2	901	1	Václav	Šťastný	M			67	starosta obce	Nová Ves u Dolních Kralovic	99	80	A
-6101	568694	1	2	901	2	Josef	Rajdl	M			60	technik	Hněvkovice	99	80	A
-6101	568694	1	2	901	3	Jiří	Fialka	M			63	řidič dálniční údržby	Hněvkovice	99	80	A
-6101	568694	1	2	901	4	Oldřich	Zubec	M			69	OSVČ	Zahájí	99	80	A
-6101	568694	1	2	901	5	Roman	Malý	M			42	voják z povolání	Nová Ves u Dolních Kralovic	99	80	A
-6101	568694	1	2	901	6	Libuše	Veletová	F			47	vedoucí výrobní linky	Hněvkovice	99	80	A
-6101	568694	1	2	901	7	Petr	Tesárek	M			52	dělník dřevovýroby	Zahájí	99	80	A
-6101	568694	1	2	901	8	Michal	Vavrla	M			40	svářeč	Hněvkovice	99	80	A
-6101	568694	1	2	901	9	Jiří	Sechovec	M			42	dispečer - technik	Hněvkovice	99	80	A
-6101	568694	1	3	904	1	Jaroslav	Pajer	M			62	technolog	Hněvkovice	99	80	A
-6101	568694	1	3	904	2	Jan	Veleta	M			71	důchodce	Habrovčice	99	80	A
-6101	568694	1	3	904	3	Roman	Ryšavý	M			44	údržbář	Chotěměřice	99	80	A
-6101	568694	1	3	904	4	Veronika	Veletová	F			28	zubní lékařka	Hněvkovice	99	80	A
-6101	568694	1	3	904	5	František	Toula	M			52	vrtmistr	Hněvkovice	99	80	A
-6101	568694	1	3	904	6	Michaela	Slavětínská	F			43	zásobovač	Zahájí	99	80	A
-6101	568694	1	3	904	7	Miroslav	Pátek	M			35	automechanik	Hněvkovice	99	80	A
-6101	568694	1	3	904	8	Tomáš	Husák	M			41	zámečník	Hněvkovice	99	80	A
-6101	568694	1	3	904	9	Vladislav	Veleta	M			50	obchodní zástupce	Hněvkovice	99	80	A
-6101	568694	1	4	902	1	Jiří	Těšínský	M	RNDr.		63	důchodce	Hněvkovice	99	80	A
-6101	568694	1	4	902	2	Pavel	Pešek	M	Ing.		54	OSVČ	Hněvkovice	99	80	A
-6101	568694	1	4	902	3	Pavel	Sechovec	M			49	zámečník	Hněvkovice	99	80	A
-6101	568694	1	4	902	4	Josef	Váša	M			79	důchodce	Hněvkovice	99	80	A
-6101	568694	1	4	902	5	Jaroslav	Řehák	M	Ing.		49	konstruktér	Nová Ves u Dolních Kralovic	99	80	A
-6101	568694	1	4	902	6	František	Bárta	M			56	soukromý podnikatel	Hněvkovice	99	80	A
-6101	568694	1	4	902	7	Jiří	Olišar	M			47	zámečník	Hněvkovice	99	80	A
-6101	568694	1	4	902	8	Eva	Těšínská	F	Ing.		30	administrativní pracovnice	Hněvkovice	99	80	A
-6101	568694	1	4	902	9	Antonín	Mysliveček	M			58	soukromý zemědělec	Chotěměřice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6101	568694	1	1	903	1	Jiří	Šťastný			53	OSVČ	Hněvkovice	99	80	A	M
+6101	568694	1	2	901	1	Václav	Šťastný			67	starosta obce	Nová Ves u Dolních Kralovic	99	80	A	M
+6101	568694	1	3	904	1	Jaroslav	Pajer			62	technolog	Hněvkovice	99	80	A	M
+6101	568694	1	4	902	1	Jiří	Těšínský	RNDr.		63	důchodce	Hněvkovice	99	80	A	M
+6101	568694	1	1	903	2	Petr	Fous			44	jednatel firmy	Štičí	99	80	A	M
+6101	568694	1	2	901	2	Josef	Rajdl			60	technik	Hněvkovice	99	80	A	M
+6101	568694	1	3	904	2	Jan	Veleta			71	důchodce	Habrovčice	99	80	A	M
+6101	568694	1	4	902	2	Pavel	Pešek	Ing.		54	OSVČ	Hněvkovice	99	80	A	M
+6101	568694	1	1	903	3	Zdeněk	Rajdl		DiS.	38	disponent dopravy	Hněvkovice	99	80	A	M
+6101	568694	1	2	901	3	Jiří	Fialka			63	řidič dálniční údržby	Hněvkovice	99	80	A	M
+6101	568694	1	3	904	3	Roman	Ryšavý			44	údržbář	Chotěměřice	99	80	A	M
+6101	568694	1	4	902	3	Pavel	Sechovec			49	zámečník	Hněvkovice	99	80	A	M
+6101	568694	1	1	903	4	Roman	Mysliveček			32	zemědělec	Chotěměřice	99	80	A	M
+6101	568694	1	2	901	4	Oldřich	Zubec			69	OSVČ	Zahájí	99	80	A	M
+6101	568694	1	3	904	4	Veronika	Veletová			28	zubní lékařka	Hněvkovice	99	80	A	F
+6101	568694	1	4	902	4	Josef	Váša			79	důchodce	Hněvkovice	99	80	A	M
+6101	568694	1	1	903	5	Antonín	Vrána			41	OSVČ	Hněvkovice	99	80	A	M
+6101	568694	1	2	901	5	Roman	Malý			42	voják z povolání	Nová Ves u Dolních Kralovic	99	80	A	M
+6101	568694	1	3	904	5	František	Toula			52	vrtmistr	Hněvkovice	99	80	A	M
+6101	568694	1	4	902	5	Jaroslav	Řehák	Ing.		49	konstruktér	Nová Ves u Dolních Kralovic	99	80	A	M
+6101	568694	1	1	903	6	Lenka	Skalová	Mgr.		32	učitelka	Hněvkovice	99	80	A	F
+6101	568694	1	2	901	6	Libuše	Veletová			47	vedoucí výrobní linky	Hněvkovice	99	80	A	F
+6101	568694	1	3	904	6	Michaela	Slavětínská			43	zásobovač	Zahájí	99	80	A	F
+6101	568694	1	4	902	6	František	Bárta			56	soukromý podnikatel	Hněvkovice	99	80	A	M
+6101	568694	1	1	903	7	Petr	Končel			33	svářeč	Hněvkovice	99	80	A	M
+6101	568694	1	2	901	7	Petr	Tesárek			52	dělník dřevovýroby	Zahájí	99	80	A	M
+6101	568694	1	3	904	7	Miroslav	Pátek			35	automechanik	Hněvkovice	99	80	A	M
+6101	568694	1	4	902	7	Jiří	Olišar			47	zámečník	Hněvkovice	99	80	A	M
+6101	568694	1	1	903	8	Radek	Pajer			33	vedoucí výroby	Nová Ves u Dolních Kralovic	99	80	A	M
+6101	568694	1	2	901	8	Michal	Vavrla			40	svářeč	Hněvkovice	99	80	A	M
+6101	568694	1	3	904	8	Tomáš	Husák			41	zámečník	Hněvkovice	99	80	A	M
+6101	568694	1	4	902	8	Eva	Těšínská	Ing.		30	administrativní pracovnice	Hněvkovice	99	80	A	F
+6101	568694	1	1	903	9	Antonín	Pajer			53	traktorista	Zahájí	99	80	A	M
+6101	568694	1	2	901	9	Jiří	Sechovec			42	dispečer - technik	Hněvkovice	99	80	A	M
+6101	568694	1	3	904	9	Vladislav	Veleta			50	obchodní zástupce	Hněvkovice	99	80	A	M
+6101	568694	1	4	902	9	Antonín	Mysliveček			58	soukromý zemědělec	Chotěměřice	99	80	A	M

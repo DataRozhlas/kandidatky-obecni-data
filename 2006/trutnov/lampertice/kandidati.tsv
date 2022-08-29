@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5205	548804	1	1	901	1	Jaroslav	Rosa	M			48	nástrojař	Lampertice	99	80	0
-5205	548804	1	1	901	2	Přemysl	Lev	M	Ing.	Ph.D.	55	ředitel firmy	Lampertice	99	80	0
-5205	548804	1	1	901	3	Jana	Obertová	F			56	důchodce	Lampertice	99	80	0
-5205	548804	1	1	901	4	Lenka	Havelková	F			35	pomocná kuchařka - D.D.	Lampertice	99	80	0
-5205	548804	1	1	901	5	Stanislav	Hejna	M			56	důchodce	Lampertice	99	80	0
-5205	548804	1	2	903	1	Jaroslav	Drábek	M			53	soukromník	Lampertice	99	80	0
-5205	548804	1	2	903	2	Ladislav	Brožek	M			37	OSVČ	Lampertice	99	80	0
-5205	548804	1	2	903	3	Ludvík	Gartner	M			48	soukromník	Lampertice	99	80	0
-5205	548804	1	2	903	4	Jakub	Drábek	M			30	OSVČ	Lampertice	99	80	0
-5205	548804	1	2	903	5	Jan	Csicso	M			36	OSVČ	Lampertice	99	80	0
-5205	548804	1	2	903	6	Petr	Baumann	M			35	OSVČ	Lampertice	99	80	0
-5205	548804	1	3	902	1	Václav	Koudelka	M			52	podnikatel	Lampertice	99	80	0
-5205	548804	1	3	902	2	Vendulka	Švejdarová	F			42	elektromechanička	Lampertice	99	80	0
-5205	548804	1	3	902	3	Marek	Bednář	M			34	státní zamšstnanec	Lampertice	99	80	0
-5205	548804	1	3	902	4	Jaroslav	Hušek	M			39	podnikatel	Lampertice	99	80	0
-5205	548804	1	3	902	5	Jiří	Láš	M			35	spojový mechanik	Lampertice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5205	548804	1	1	901	1	Jaroslav	Rosa			48	nástrojař	Lampertice	99	80	0	M
+5205	548804	1	2	903	1	Jaroslav	Drábek			53	soukromník	Lampertice	99	80	0	M
+5205	548804	1	3	902	1	Václav	Koudelka			52	podnikatel	Lampertice	99	80	0	M
+5205	548804	1	1	901	2	Přemysl	Lev	Ing.	Ph.D.	55	ředitel firmy	Lampertice	99	80	0	M
+5205	548804	1	2	903	2	Ladislav	Brožek			37	OSVČ	Lampertice	99	80	0	M
+5205	548804	1	3	902	2	Vendulka	Švejdarová			42	elektromechanička	Lampertice	99	80	0	F
+5205	548804	1	1	901	3	Jana	Obertová			56	důchodce	Lampertice	99	80	0	F
+5205	548804	1	2	903	3	Ludvík	Gartner			48	soukromník	Lampertice	99	80	0	M
+5205	548804	1	3	902	3	Marek	Bednář			34	státní zamšstnanec	Lampertice	99	80	0	M
+5205	548804	1	1	901	4	Lenka	Havelková			35	pomocná kuchařka - D.D.	Lampertice	99	80	0	F
+5205	548804	1	2	903	4	Jakub	Drábek			30	OSVČ	Lampertice	99	80	0	M
+5205	548804	1	3	902	4	Jaroslav	Hušek			39	podnikatel	Lampertice	99	80	0	M
+5205	548804	1	1	901	5	Stanislav	Hejna			56	důchodce	Lampertice	99	80	0	M
+5205	548804	1	2	903	5	Jan	Csicso			36	OSVČ	Lampertice	99	80	0	M
+5205	548804	1	3	902	5	Jiří	Láš			35	spojový mechanik	Lampertice	99	80	0	M
+5205	548804	1	2	903	6	Petr	Baumann			35	OSVČ	Lampertice	99	80	0	M

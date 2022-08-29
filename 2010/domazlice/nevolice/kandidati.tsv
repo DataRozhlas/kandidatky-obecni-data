@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3201	554031	1	1	803	1	Miroslav	Horáček	M			53	vedoucí čerp. stanice	Nevolice	99	80	0
-3201	554031	1	2	804	1	Anna	Čadková	F			39	referentka ÚP	Nevolice	99	80	0
-3201	554031	1	3	808	1	Martin	Škuta	M			42	svářeč	Nevolice	99	80	0
-3201	554031	1	4	809	1	Josef	Velek	M			47	ošetřovatel dojnic	Nevolice	99	80	0
-3201	554031	1	5	805	1	Anna	Cichá	F			48	úřednice	Nevolice	99	80	0
-3201	554031	1	6	801	1	Milan	Mleziva	M	Mgr.		45	státní zaměstnanec	Nevolice	99	80	0
-3201	554031	1	7	802	1	Milan	Podestát	M	Ing.		50	OSVČ	Nevolice	99	80	0
-3201	554031	1	8	806	1	Marie	Konášová	F			48	úřednice	Nevolice	99	80	0
-3201	554031	1	9	807	1	Petr	Veruněk	M	Ing.		40	obchodní zástupce	Nevolice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3201	554031	1	1	803	1	Miroslav	Horáček			53	vedoucí čerp. stanice	Nevolice	99	80	0	M
+3201	554031	1	2	804	1	Anna	Čadková			39	referentka ÚP	Nevolice	99	80	0	F
+3201	554031	1	3	808	1	Martin	Škuta			42	svářeč	Nevolice	99	80	0	M
+3201	554031	1	4	809	1	Josef	Velek			47	ošetřovatel dojnic	Nevolice	99	80	0	M
+3201	554031	1	5	805	1	Anna	Cichá			48	úřednice	Nevolice	99	80	0	F
+3201	554031	1	6	801	1	Milan	Mleziva	Mgr.		45	státní zaměstnanec	Nevolice	99	80	0	M
+3201	554031	1	7	802	1	Milan	Podestát	Ing.		50	OSVČ	Nevolice	99	80	0	M
+3201	554031	1	8	806	1	Marie	Konášová			48	úřednice	Nevolice	99	80	0	F
+3201	554031	1	9	807	1	Petr	Veruněk	Ing.		40	obchodní zástupce	Nevolice	99	80	0	M

@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4102	500101	1	1	902	1	Michaela	Vošahlíková	F	Bc.		25	staniční sestra	Bražec	99	80	A
-4102	500101	1	1	902	2	Marie	Kuciaková	F			48	dělnice	Bražec	99	80	A
-4102	500101	1	1	902	3	Milada	Pacherová	F			46	poštovní doručovatelka	Bražec	99	80	A
-4102	500101	1	1	902	4	Pavel	Pacher	M			40	OSVČ	Bražec	99	80	A
-4102	500101	1	1	902	5	Sandra	Fišerová	F			19	studentka	Bražec	99	80	A
-4102	500101	1	1	902	6	Alena	Nováková	F			55	skladnice	Bražec	99	80	A
-4102	500101	1	1	902	7	Karel	Fišer	M			24	řezník	Bražec	99	80	A
-4102	500101	1	2	903	1	Marie	Ambrosová	F			68	starostka obce	Bražec	99	80	A
-4102	500101	1	2	903	2	Jana	Jesínková	F			47	dělnice	Bražec	99	80	A
-4102	500101	1	2	903	3	Petra	Buksová	F			43	úřednice	Bražec	99	80	A
-4102	500101	1	2	903	4	Sandra	Fišer	F			47	dělnice	Bražec	99	80	A
-4102	500101	1	2	903	5	Ján	Adam	M			54	dělník	Bražec	99	80	A
-4102	500101	1	2	903	6	Monika	Jarošová	F			51	OSVČ	Bražec	99	80	A
-4102	500101	1	2	903	7	Ivan	Bohuslav	M			66	důchodce	Bražec	99	80	A
-4102	500101	1	3	901	1	Vladěna	Forgová	F			37	barmanka	Bražec	99	80	A
-4102	500101	1	3	901	2	Vladimír	Pokorný	M			47	dělník	Bražec	99	80	A
-4102	500101	1	3	901	3	Marek	Forgo	M			18	student	Bražec	99	80	A
-4102	500101	1	3	901	4	Lukáš	Prievara	M			20	recepční	Bražec	99	80	A
-4102	500101	1	3	901	5	Marek	Forgo	M			40	dřevorubec	Bražec	99	80	A
-4102	500101	1	3	901	6	Petr	Čurha	M			31	OSVČ	Bražec	99	80	A
-4102	500101	1	3	901	7	David	Kuciak	M			40	řidič	Bražec	99	80	A
-4102	500101	1	4	904	1	Blanka	Prievarová	F			46	lesní mechanizátorka	Bražec	99	80	A
-4102	500101	1	4	904	2	Pavel	Macek	M			39	traktorista	Bražec	99	80	A
-4102	500101	1	4	904	3	Jana	Hujtenová	F			39	mateřská dovolená	Bražec	99	80	A
-4102	500101	1	4	904	4	Miroslava	Lovečková	F			46	sociální pracovnice	Bražec	99	80	A
-4102	500101	1	4	904	5	Zdeňka	Jandlová	F			58	vychovatelka	Bražec	99	80	A
-4102	500101	1	4	904	6	Zdeněk	Granec	M			44	traktorista	Bražec	99	80	A
-4102	500101	1	4	904	7	Lucie	Jandlová	F			25	voják z povolání	Bražec	99	80	A
-4102	500101	1	5	905	1	Petr	Votruba	M			46	místostarosta obce	Bražec	99	80	A
-4102	500101	1	5	905	2	Roman	Jaroš	M			53	lesní	Bražec	99	80	A
-4102	500101	1	5	905	3	Kateřina	Zagidulinová	F			59	dělník	Bražec	99	80	A
-4102	500101	1	5	905	4	Petr	Růžička	M			50	OSVČ	Bražec	99	80	A
-4102	500101	1	5	905	5	Jan	Jesínek	M			26	zaměstnanec ČEZ	Bražec	99	80	A
-4102	500101	1	5	905	6	František	Votruba	M			75	důchodce	Bražec	99	80	A
-4102	500101	1	5	905	7	Igor	Zagidulin	M			64	důchodce	Bražec	99	80	A
-4102	500101	1	5	905	8	Josef	Kupský	M			56	údržbář KKN	Bražec	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4102	500101	1	1	902	1	Michaela	Vošahlíková	Bc.		25	staniční sestra	Bražec	99	80	A	F
+4102	500101	1	2	903	1	Marie	Ambrosová			68	starostka obce	Bražec	99	80	A	F
+4102	500101	1	3	901	1	Vladěna	Forgová			37	barmanka	Bražec	99	80	A	F
+4102	500101	1	4	904	1	Blanka	Prievarová			46	lesní mechanizátorka	Bražec	99	80	A	F
+4102	500101	1	5	905	1	Petr	Votruba			46	místostarosta obce	Bražec	99	80	A	M
+4102	500101	1	1	902	2	Marie	Kuciaková			48	dělnice	Bražec	99	80	A	F
+4102	500101	1	2	903	2	Jana	Jesínková			47	dělnice	Bražec	99	80	A	F
+4102	500101	1	3	901	2	Vladimír	Pokorný			47	dělník	Bražec	99	80	A	M
+4102	500101	1	4	904	2	Pavel	Macek			39	traktorista	Bražec	99	80	A	M
+4102	500101	1	5	905	2	Roman	Jaroš			53	lesní	Bražec	99	80	A	M
+4102	500101	1	1	902	3	Milada	Pacherová			46	poštovní doručovatelka	Bražec	99	80	A	F
+4102	500101	1	2	903	3	Petra	Buksová			43	úřednice	Bražec	99	80	A	F
+4102	500101	1	3	901	3	Marek	Forgo			18	student	Bražec	99	80	A	M
+4102	500101	1	4	904	3	Jana	Hujtenová			39	mateřská dovolená	Bražec	99	80	A	F
+4102	500101	1	5	905	3	Kateřina	Zagidulinová			59	dělník	Bražec	99	80	A	F
+4102	500101	1	1	902	4	Pavel	Pacher			40	OSVČ	Bražec	99	80	A	M
+4102	500101	1	2	903	4	Sandra	Fišer			47	dělnice	Bražec	99	80	A	F
+4102	500101	1	3	901	4	Lukáš	Prievara			20	recepční	Bražec	99	80	A	M
+4102	500101	1	4	904	4	Miroslava	Lovečková			46	sociální pracovnice	Bražec	99	80	A	F
+4102	500101	1	5	905	4	Petr	Růžička			50	OSVČ	Bražec	99	80	A	M
+4102	500101	1	1	902	5	Sandra	Fišerová			19	studentka	Bražec	99	80	A	F
+4102	500101	1	2	903	5	Ján	Adam			54	dělník	Bražec	99	80	A	M
+4102	500101	1	3	901	5	Marek	Forgo			40	dřevorubec	Bražec	99	80	A	M
+4102	500101	1	4	904	5	Zdeňka	Jandlová			58	vychovatelka	Bražec	99	80	A	F
+4102	500101	1	5	905	5	Jan	Jesínek			26	zaměstnanec ČEZ	Bražec	99	80	A	M
+4102	500101	1	1	902	6	Alena	Nováková			55	skladnice	Bražec	99	80	A	F
+4102	500101	1	2	903	6	Monika	Jarošová			51	OSVČ	Bražec	99	80	A	F
+4102	500101	1	3	901	6	Petr	Čurha			31	OSVČ	Bražec	99	80	A	M
+4102	500101	1	4	904	6	Zdeněk	Granec			44	traktorista	Bražec	99	80	A	M
+4102	500101	1	5	905	6	František	Votruba			75	důchodce	Bražec	99	80	A	M
+4102	500101	1	1	902	7	Karel	Fišer			24	řezník	Bražec	99	80	A	M
+4102	500101	1	2	903	7	Ivan	Bohuslav			66	důchodce	Bražec	99	80	A	M
+4102	500101	1	3	901	7	David	Kuciak			40	řidič	Bražec	99	80	A	M
+4102	500101	1	4	904	7	Lucie	Jandlová			25	voják z povolání	Bražec	99	80	A	F
+4102	500101	1	5	905	7	Igor	Zagidulin			64	důchodce	Bražec	99	80	A	M
+4102	500101	1	5	905	8	Josef	Kupský			56	údržbář KKN	Bražec	99	80	A	M

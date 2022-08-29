@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2107	535559	1	1	902	1	Jaromír	Verner	M			51	technik	Brodce	99	80	0
-2107	535559	1	1	902	2	Petr	Veverka	M	Ing.		52	podnikatel	Brodce	99	80	0
-2107	535559	1	1	902	3	Eva	Veselá	F	Ing.		48	účetní	Brodce	99	80	0
-2107	535559	1	1	902	4	Karel	Carda	M			52	podnikatel	Brodce	99	80	0
-2107	535559	1	1	902	5	Lucie	Najmanová Hájková	F		DiS.	36	účetní	Brodce	99	80	0
-2107	535559	1	1	902	6	Miroslav	Palas	M			59	technik	Brodce	99	80	0
-2107	535559	1	1	902	7	Lenka	Kalinová	F			43	technik	Brodce	99	80	0
-2107	535559	1	1	902	8	Gabriela	Kulová	F			44	podnikatelka	Brodce	99	80	0
-2107	535559	1	1	902	9	Ivan	Bartoníček	M			36	řidič	Brodce	99	80	0
-2107	535559	1	2	901	1	Edita	Nová	F			59	starostka	Brodce	99	80	0
-2107	535559	1	2	901	2	Pavel	Keller	M	Ing.		50	stavební inženýr	Brodce	99	80	0
-2107	535559	1	2	901	3	Jaroslav	Trojan	M	Ing.		61	důchodce	Brodce	99	80	0
-2107	535559	1	2	901	4	Přemysl	Dlouhý	M			51	údržbář	Brodce	99	80	0
-2107	535559	1	2	901	5	Petr	Šelepa	M			48	projektant	Brodce	99	80	0
-2107	535559	1	2	901	6	Jan	Černý	M			42	podnikatel	Brodce	99	80	0
-2107	535559	1	2	901	7	Jiří	Kadeřábek	M			32	trenér a instruktor tělovýchovy	Brodce	99	80	0
-2107	535559	1	2	901	8	Petr	Nový	M			35	vedoucí prodeje a autoservisu	Brodce	99	80	0
-2107	535559	1	2	901	9	Miloslav	Vydra	M			75	důchodce	Brodce	99	80	0
-2107	535559	1	3	903	1	Josef	Orlovský	M	Ing.		38	podnikatel	Praha 10	99	80	0
-2107	535559	1	3	903	2	Jakub	Verner	M			28	podnikatel	Brodce	99	80	0
-2107	535559	1	3	903	3	Petr	Košek	M			29	technik	Brodce	99	80	0
-2107	535559	1	3	903	4	Petr	Šulc	M			39	podnikatel	Brodce	99	80	0
-2107	535559	1	3	903	5	Josef	Bartoš	M			49	podnikatel	Brodce	99	80	0
-2107	535559	1	3	903	6	Jaroslav	Černý	M			44	podnikatel	Brodce	99	80	0
-2107	535559	1	3	903	7	Pavel	Písecký	M			33	obchodní zástupce	Brodce	99	80	0
-2107	535559	1	3	903	8	Martin	Hůlka	M			41	technik	Brodce	99	80	0
-2107	535559	1	3	903	9	Martin	Nábělek	M			27	technik	Brodce	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2107	535559	1	1	902	1	Jaromír	Verner			51	technik	Brodce	99	80	0	M
+2107	535559	1	2	901	1	Edita	Nová			59	starostka	Brodce	99	80	0	F
+2107	535559	1	3	903	1	Josef	Orlovský	Ing.		38	podnikatel	Praha 10	99	80	0	M
+2107	535559	1	1	902	2	Petr	Veverka	Ing.		52	podnikatel	Brodce	99	80	0	M
+2107	535559	1	2	901	2	Pavel	Keller	Ing.		50	stavební inženýr	Brodce	99	80	0	M
+2107	535559	1	3	903	2	Jakub	Verner			28	podnikatel	Brodce	99	80	0	M
+2107	535559	1	1	902	3	Eva	Veselá	Ing.		48	účetní	Brodce	99	80	0	F
+2107	535559	1	2	901	3	Jaroslav	Trojan	Ing.		61	důchodce	Brodce	99	80	0	M
+2107	535559	1	3	903	3	Petr	Košek			29	technik	Brodce	99	80	0	M
+2107	535559	1	1	902	4	Karel	Carda			52	podnikatel	Brodce	99	80	0	M
+2107	535559	1	2	901	4	Přemysl	Dlouhý			51	údržbář	Brodce	99	80	0	M
+2107	535559	1	3	903	4	Petr	Šulc			39	podnikatel	Brodce	99	80	0	M
+2107	535559	1	1	902	5	Lucie	Najmanová Hájková		DiS.	36	účetní	Brodce	99	80	0	F
+2107	535559	1	2	901	5	Petr	Šelepa			48	projektant	Brodce	99	80	0	M
+2107	535559	1	3	903	5	Josef	Bartoš			49	podnikatel	Brodce	99	80	0	M
+2107	535559	1	1	902	6	Miroslav	Palas			59	technik	Brodce	99	80	0	M
+2107	535559	1	2	901	6	Jan	Černý			42	podnikatel	Brodce	99	80	0	M
+2107	535559	1	3	903	6	Jaroslav	Černý			44	podnikatel	Brodce	99	80	0	M
+2107	535559	1	1	902	7	Lenka	Kalinová			43	technik	Brodce	99	80	0	F
+2107	535559	1	2	901	7	Jiří	Kadeřábek			32	trenér a instruktor tělovýchovy	Brodce	99	80	0	M
+2107	535559	1	3	903	7	Pavel	Písecký			33	obchodní zástupce	Brodce	99	80	0	M
+2107	535559	1	1	902	8	Gabriela	Kulová			44	podnikatelka	Brodce	99	80	0	F
+2107	535559	1	2	901	8	Petr	Nový			35	vedoucí prodeje a autoservisu	Brodce	99	80	0	M
+2107	535559	1	3	903	8	Martin	Hůlka			41	technik	Brodce	99	80	0	M
+2107	535559	1	1	902	9	Ivan	Bartoníček			36	řidič	Brodce	99	80	0	M
+2107	535559	1	2	901	9	Miloslav	Vydra			75	důchodce	Brodce	99	80	0	M
+2107	535559	1	3	903	9	Martin	Nábělek			27	technik	Brodce	99	80	0	M

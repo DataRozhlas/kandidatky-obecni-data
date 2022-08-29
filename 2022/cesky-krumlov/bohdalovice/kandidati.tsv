@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3102	536253	1	1	901	1	Vladimír	Ebenhöh	M			60	živnostník	Bohdalovice	99	80	A
-3102	536253	1	1	901	2	Dušan	Král	M			48	státní zaměstnanec	Bohdalovice	99	80	A
-3102	536253	1	1	901	3	Kateřina	Kalianková	F			43	učitelka	Svéraz	99	80	A
-3102	536253	1	1	901	4	Nela	Černocká	F			31	zdravotní sestra	Slavkov	99	80	A
-3102	536253	1	1	901	5	Roman	Agorovič	M			50	dělník	Bohdalovice	99	80	A
-3102	536253	1	2	902	1	Josef	Šejda	M			53	starosta obce	Bohdalovice	99	80	A
-3102	536253	1	2	902	2	Richard	Valek	M	Ing.		36	projektant	Suš	99	80	A
-3102	536253	1	2	902	3	Bohuslav	Biňovský	M			51	zedník	Bohdalovice	99	80	A
-3102	536253	1	2	902	4	Petr	Klíma	M			37	stavební dělník	Suš	99	80	A
-3102	536253	1	2	902	5	Martin	Řezáč	M			36	servisní mechanik	Bohdalovice	99	80	A
-3102	536253	1	2	902	6	Naděžda	Šejdová	F	Bc.		48	hlavní účetní	Bohdalovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3102	536253	1	1	901	1	Vladimír	Ebenhöh			60	živnostník	Bohdalovice	99	80	A	M
+3102	536253	1	2	902	1	Josef	Šejda			53	starosta obce	Bohdalovice	99	80	A	M
+3102	536253	1	1	901	2	Dušan	Král			48	státní zaměstnanec	Bohdalovice	99	80	A	M
+3102	536253	1	2	902	2	Richard	Valek	Ing.		36	projektant	Suš	99	80	A	M
+3102	536253	1	1	901	3	Kateřina	Kalianková			43	učitelka	Svéraz	99	80	A	F
+3102	536253	1	2	902	3	Bohuslav	Biňovský			51	zedník	Bohdalovice	99	80	A	M
+3102	536253	1	1	901	4	Nela	Černocká			31	zdravotní sestra	Slavkov	99	80	A	F
+3102	536253	1	2	902	4	Petr	Klíma			37	stavební dělník	Suš	99	80	A	M
+3102	536253	1	1	901	5	Roman	Agorovič			50	dělník	Bohdalovice	99	80	A	M
+3102	536253	1	2	902	5	Martin	Řezáč			36	servisní mechanik	Bohdalovice	99	80	A	M
+3102	536253	1	2	902	6	Naděžda	Šejdová	Bc.		48	hlavní účetní	Bohdalovice	99	80	A	F

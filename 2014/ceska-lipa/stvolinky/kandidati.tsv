@@ -1,33 +1,33 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5101	562114	1	1	721	1	Jiří	Vít	M			41	OSVČ stavebnictví	Stvolínky	721	721	0
-5101	562114	1	1	721	2	Klára	Fleklová	F			35	zdravotní sestra	Stvolínky	99	721	0
-5101	562114	1	1	721	3	Jiří	Šimánek	M			38	skladník	Stvolínky	99	721	0
-5101	562114	1	1	721	4	Petr	Flekl	M			39	prodejní technik	Stvolínky	99	721	0
-5101	562114	1	1	721	5	Lenka	Jahodová	F			36	šička	Stvolínky	99	721	0
-5101	562114	1	1	721	6	Jan	Černý	M			39	skladník	Stvolínky	99	721	0
-5101	562114	1	1	721	7	Jaroslav	Šimonek	M			36	řidič VZV	Stvolínky	99	721	0
-5101	562114	1	2	510	1	Radka	Kolářová	F			34	auditor kvality, dříve úřednice na poště	Stvolínky	99	80	0
-5101	562114	1	2	510	2	Jiří	Římánek	M	Mgr.		56	marketingový manažer, zastupitel obce Stvolínky	Taneček	771	771	0
-5101	562114	1	2	510	3	Pavla	Krátká	F	Bc.	DiS.	35	kurátor pro mládež v odboru sociálních věcí na MěÚ	Stvolínky	99	80	0
-5101	562114	1	2	510	4	Václav	Dobrovolný	M			36	osobní finanční poradce, včelař	Taneček	99	80	0
-5101	562114	1	2	510	5	Jana	Sýkorová	F			59	živnostník - nákup a prodej, dříve vet. technik	Stvolínky	99	80	0
-5101	562114	1	2	510	6	Jana	Dobrovolná Petrofová	F			38	prodavačka v prodejně krmiv pro zvířata	Taneček	99	80	0
-5101	562114	1	2	510	7	Pavlína	Ištoková	F	Ing.		44	metodik IT firmy, dříve bankovní úřednice	Stvolínky	99	80	0
-5101	562114	1	2	510	8	Jan	Mifek	M			40	podnikatel v oborech velkoobchod s kanc. potřebami	Stvolínky	99	80	0
-5101	562114	1	2	510	9	Jaroslav	Šafařík	M			73	důchodce, dříve frézař a zámečník	Stvolínky	99	80	0
-5101	562114	1	3	703	1	Lenka	Fleklová	F			42	OSVČ	Stvolínky	99	703	0
-5101	562114	1	3	703	2	Ludmila	Chalupová	F	Mgr.		54	učitelka	Stvolínky	99	703	0
-5101	562114	1	3	703	3	Tereza	Kočová	F			22	studentka	Stvolínky	99	703	0
-5101	562114	1	3	703	4	Milena	Nováková	F	Ing.		42	OSVČ	Taneček	99	703	0
-5101	562114	1	3	703	5	Vlasta	Fazekašová	F			67	důchodce	Stvolínky	99	703	0
-5101	562114	1	3	703	6	Soňa	Sittová	F	Bc.	DiS.	41	zdravotnictví	Taneček	99	703	0
-5101	562114	1	3	703	7	Milan	Barborka	M			60	OSVČ	Taneček	99	703	0
-5101	562114	1	4	901	1	Miroslav	Kušnerik	M			31	řidič	Stvolínky	99	80	0
-5101	562114	1	4	901	2	Iveta	Stará	F			31	rodičovská dovolená	Stvolínky	99	80	0
-5101	562114	1	4	901	3	Josef	Říha	M			54	svářeč	Stvolínky	99	80	0
-5101	562114	1	4	901	4	Olga	Koukalová	F			54	archivářka	Stvolínky	99	80	0
-5101	562114	1	4	901	5	Olga	Musilová	F			67	důchodce	Stvolínky	99	80	0
-5101	562114	1	4	901	6	Ivana	Říhová	F			46	učitelka	Stvolínky	99	80	0
-5101	562114	1	4	901	7	Miroslav	Kušnerik	M			63	řidič	Stvolínky	99	80	0
-5101	562114	1	4	901	8	Miroslav	Hrníčko	M			53	podnikatel	Stvolínky	99	80	0
-5101	562114	1	4	901	9	Antonín	Pichl	M			55	lakýrník	Stvolínky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5101	562114	1	1	721	1	Jiří	Vít			41	OSVČ stavebnictví	Stvolínky	721	721	0	M
+5101	562114	1	2	510	1	Radka	Kolářová			34	auditor kvality, dříve úřednice na poště	Stvolínky	99	80	0	F
+5101	562114	1	3	703	1	Lenka	Fleklová			42	OSVČ	Stvolínky	99	703	0	F
+5101	562114	1	4	901	1	Miroslav	Kušnerik			31	řidič	Stvolínky	99	80	0	M
+5101	562114	1	1	721	2	Klára	Fleklová			35	zdravotní sestra	Stvolínky	99	721	0	F
+5101	562114	1	2	510	2	Jiří	Římánek	Mgr.		56	marketingový manažer, zastupitel obce Stvolínky	Taneček	771	771	0	M
+5101	562114	1	3	703	2	Ludmila	Chalupová	Mgr.		54	učitelka	Stvolínky	99	703	0	F
+5101	562114	1	4	901	2	Iveta	Stará			31	rodičovská dovolená	Stvolínky	99	80	0	F
+5101	562114	1	1	721	3	Jiří	Šimánek			38	skladník	Stvolínky	99	721	0	M
+5101	562114	1	2	510	3	Pavla	Krátká	Bc.	DiS.	35	kurátor pro mládež v odboru sociálních věcí na MěÚ	Stvolínky	99	80	0	F
+5101	562114	1	3	703	3	Tereza	Kočová			22	studentka	Stvolínky	99	703	0	F
+5101	562114	1	4	901	3	Josef	Říha			54	svářeč	Stvolínky	99	80	0	M
+5101	562114	1	1	721	4	Petr	Flekl			39	prodejní technik	Stvolínky	99	721	0	M
+5101	562114	1	2	510	4	Václav	Dobrovolný			36	osobní finanční poradce, včelař	Taneček	99	80	0	M
+5101	562114	1	3	703	4	Milena	Nováková	Ing.		42	OSVČ	Taneček	99	703	0	F
+5101	562114	1	4	901	4	Olga	Koukalová			54	archivářka	Stvolínky	99	80	0	F
+5101	562114	1	1	721	5	Lenka	Jahodová			36	šička	Stvolínky	99	721	0	F
+5101	562114	1	2	510	5	Jana	Sýkorová			59	živnostník - nákup a prodej, dříve vet. technik	Stvolínky	99	80	0	F
+5101	562114	1	3	703	5	Vlasta	Fazekašová			67	důchodce	Stvolínky	99	703	0	F
+5101	562114	1	4	901	5	Olga	Musilová			67	důchodce	Stvolínky	99	80	0	F
+5101	562114	1	1	721	6	Jan	Černý			39	skladník	Stvolínky	99	721	0	M
+5101	562114	1	2	510	6	Jana	Dobrovolná Petrofová			38	prodavačka v prodejně krmiv pro zvířata	Taneček	99	80	0	F
+5101	562114	1	3	703	6	Soňa	Sittová	Bc.	DiS.	41	zdravotnictví	Taneček	99	703	0	F
+5101	562114	1	4	901	6	Ivana	Říhová			46	učitelka	Stvolínky	99	80	0	F
+5101	562114	1	1	721	7	Jaroslav	Šimonek			36	řidič VZV	Stvolínky	99	721	0	M
+5101	562114	1	2	510	7	Pavlína	Ištoková	Ing.		44	metodik IT firmy, dříve bankovní úřednice	Stvolínky	99	80	0	F
+5101	562114	1	3	703	7	Milan	Barborka			60	OSVČ	Taneček	99	703	0	M
+5101	562114	1	4	901	7	Miroslav	Kušnerik			63	řidič	Stvolínky	99	80	0	M
+5101	562114	1	2	510	8	Jan	Mifek			40	podnikatel v oborech velkoobchod s kanc. potřebami	Stvolínky	99	80	0	M
+5101	562114	1	4	901	8	Miroslav	Hrníčko			53	podnikatel	Stvolínky	99	80	0	M
+5101	562114	1	2	510	9	Jaroslav	Šafařík			73	důchodce, dříve frézař a zámečník	Stvolínky	99	80	0	M
+5101	562114	1	4	901	9	Antonín	Pichl			55	lakýrník	Stvolínky	99	80	0	M

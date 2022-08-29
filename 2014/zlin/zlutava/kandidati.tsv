@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7204	586013	1	1	53	1	Karel	Goiš	M			49	živnostník	Žlutava	53	53	0
-7204	586013	1	1	53	2	Petr	Kozák	M			45	manažer	Žlutava	53	53	0
-7204	586013	1	1	53	3	Marcel	Čevora	M			23	student	Žlutava	99	53	0
-7204	586013	1	1	53	4	Milan	Masaryk	M			50	technik	Žlutava	53	53	0
-7204	586013	1	1	53	5	Pavel	Pecha	M	Ing.		49	úředník	Žlutava	99	53	0
-7204	586013	1	1	53	6	Eva	Masaryková	F			45	OSVČ	Žlutava	53	53	0
-7204	586013	1	1	53	7	Karel	Potočný	M			43	elektrikář	Žlutava	53	53	0
-7204	586013	1	1	53	8	František	Potočný	M			68	důchodce	Žlutava	99	53	0
-7204	586013	1	1	53	9	Alena	Goišová	F			48	účetní	Žlutava	53	53	0
-7204	586013	1	2	47	1	Pavel	Žůrek	M			61	elektrikář	Žlutava	47	47	0
-7204	586013	1	2	47	2	Andrea	Štěpáníková	F			46	zootechnička	Žlutava	99	47	0
-7204	586013	1	2	47	3	Josef	Čejka	M	JUDr.		65	advokát	Žlutava	47	47	0
-7204	586013	1	2	47	4	Marta	Maňasová	F			66	důchodkyně	Žlutava	99	47	0
-7204	586013	1	2	47	5	Vladimír	Mišurec	M			69	podnikatel	Žlutava	99	47	0
-7204	586013	1	2	47	6	Petr	Vojtášek	M			59	dělník	Žlutava	99	47	0
-7204	586013	1	2	47	7	Pavel	Gabryš	M			53	elektrikář	Žlutava	99	47	0
-7204	586013	1	2	47	8	Antonín	Vojtášek	M			68	důchodce	Žlutava	99	47	0
-7204	586013	1	2	47	9	František	Jakša	M			62	dělník	Žlutava	99	47	0
-7204	586013	1	3	901	1	Petr	Mišurec	M	Ing.		42	podnikatel	Žlutava	99	80	0
-7204	586013	1	3	901	2	Kateřina	Kašpárková	F			45	vychovatelka v domově mládeže	Žlutava	99	80	0
-7204	586013	1	3	901	3	Daniel	Fuksa	M			32	řidič	Žlutava	99	80	0
-7204	586013	1	3	901	4	Zdena	Goišová	F			45	OSVČ	Žlutava	99	80	0
-7204	586013	1	3	901	5	Ivana	Lacinová	F			35	OSVČ	Žlutava	99	80	0
-7204	586013	1	3	901	6	František	Dudík	M			43	vedoucí výroby	Žlutava	99	80	0
-7204	586013	1	3	901	7	Zdeněk	Mišurec	M			43	OSVČ	Žlutava	99	80	0
-7204	586013	1	3	901	8	Ferdinand	Sudický	M			52	podnikatel	Žlutava	99	80	0
-7204	586013	1	3	901	9	Tomáš	Gromus	M	Bc.		47	velitel Městské policie	Žlutava	99	80	0
-7204	586013	1	4	7	1	Stanislav	Kolář	M	Ing.		63	starosta	Žlutava	99	7	0
-7204	586013	1	4	7	2	Šárka	Večerková	F			43	administrativní pracovnice	Žlutava	99	7	0
-7204	586013	1	4	7	3	Jarmila	Bilíková	F	PhDr.		50	pedagog	Žlutava	99	7	0
-7204	586013	1	4	7	4	Jiří	Fürst	M			58	dělník-brusič	Žlutava	99	7	0
-7204	586013	1	4	7	5	Miroslav	Mihal	M			59	vedoucí prodejny	Žlutava	99	7	0
-7204	586013	1	4	7	6	Pavel	Horák	M	Mgr.		41	pedagog	Žlutava	99	7	0
-7204	586013	1	4	7	7	Petr	Mertlík	M	Ing.		47	technik	Žlutava	99	7	0
-7204	586013	1	4	7	8	Ivana	Pisková	F			33	mateřská dovolená	Žlutava	99	7	0
-7204	586013	1	4	7	9	Vlastimil	Sovadina	M			23	elektrikář	Žlutava	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7204	586013	1	1	53	1	Karel	Goiš			49	živnostník	Žlutava	53	53	0	M
+7204	586013	1	2	47	1	Pavel	Žůrek			61	elektrikář	Žlutava	47	47	0	M
+7204	586013	1	3	901	1	Petr	Mišurec	Ing.		42	podnikatel	Žlutava	99	80	0	M
+7204	586013	1	4	7	1	Stanislav	Kolář	Ing.		63	starosta	Žlutava	99	7	0	M
+7204	586013	1	1	53	2	Petr	Kozák			45	manažer	Žlutava	53	53	0	M
+7204	586013	1	2	47	2	Andrea	Štěpáníková			46	zootechnička	Žlutava	99	47	0	F
+7204	586013	1	3	901	2	Kateřina	Kašpárková			45	vychovatelka v domově mládeže	Žlutava	99	80	0	F
+7204	586013	1	4	7	2	Šárka	Večerková			43	administrativní pracovnice	Žlutava	99	7	0	F
+7204	586013	1	1	53	3	Marcel	Čevora			23	student	Žlutava	99	53	0	M
+7204	586013	1	2	47	3	Josef	Čejka	JUDr.		65	advokát	Žlutava	47	47	0	M
+7204	586013	1	3	901	3	Daniel	Fuksa			32	řidič	Žlutava	99	80	0	M
+7204	586013	1	4	7	3	Jarmila	Bilíková	PhDr.		50	pedagog	Žlutava	99	7	0	F
+7204	586013	1	1	53	4	Milan	Masaryk			50	technik	Žlutava	53	53	0	M
+7204	586013	1	2	47	4	Marta	Maňasová			66	důchodkyně	Žlutava	99	47	0	F
+7204	586013	1	3	901	4	Zdena	Goišová			45	OSVČ	Žlutava	99	80	0	F
+7204	586013	1	4	7	4	Jiří	Fürst			58	dělník-brusič	Žlutava	99	7	0	M
+7204	586013	1	1	53	5	Pavel	Pecha	Ing.		49	úředník	Žlutava	99	53	0	M
+7204	586013	1	2	47	5	Vladimír	Mišurec			69	podnikatel	Žlutava	99	47	0	M
+7204	586013	1	3	901	5	Ivana	Lacinová			35	OSVČ	Žlutava	99	80	0	F
+7204	586013	1	4	7	5	Miroslav	Mihal			59	vedoucí prodejny	Žlutava	99	7	0	M
+7204	586013	1	1	53	6	Eva	Masaryková			45	OSVČ	Žlutava	53	53	0	F
+7204	586013	1	2	47	6	Petr	Vojtášek			59	dělník	Žlutava	99	47	0	M
+7204	586013	1	3	901	6	František	Dudík			43	vedoucí výroby	Žlutava	99	80	0	M
+7204	586013	1	4	7	6	Pavel	Horák	Mgr.		41	pedagog	Žlutava	99	7	0	M
+7204	586013	1	1	53	7	Karel	Potočný			43	elektrikář	Žlutava	53	53	0	M
+7204	586013	1	2	47	7	Pavel	Gabryš			53	elektrikář	Žlutava	99	47	0	M
+7204	586013	1	3	901	7	Zdeněk	Mišurec			43	OSVČ	Žlutava	99	80	0	M
+7204	586013	1	4	7	7	Petr	Mertlík	Ing.		47	technik	Žlutava	99	7	0	M
+7204	586013	1	1	53	8	František	Potočný			68	důchodce	Žlutava	99	53	0	M
+7204	586013	1	2	47	8	Antonín	Vojtášek			68	důchodce	Žlutava	99	47	0	M
+7204	586013	1	3	901	8	Ferdinand	Sudický			52	podnikatel	Žlutava	99	80	0	M
+7204	586013	1	4	7	8	Ivana	Pisková			33	mateřská dovolená	Žlutava	99	7	0	F
+7204	586013	1	1	53	9	Alena	Goišová			48	účetní	Žlutava	53	53	0	F
+7204	586013	1	2	47	9	František	Jakša			62	dělník	Žlutava	99	47	0	M
+7204	586013	1	3	901	9	Tomáš	Gromus	Bc.		47	velitel Městské policie	Žlutava	99	80	0	M
+7204	586013	1	4	7	9	Vlastimil	Sovadina			23	elektrikář	Žlutava	99	7	0	M

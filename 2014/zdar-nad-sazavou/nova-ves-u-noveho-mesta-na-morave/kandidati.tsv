@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	596221	1	1	1	1	Václav	Pohanka	M			62	starosta obce	Nová Ves u Nového Města na Moravě	1	1	0
-6105	596221	1	1	1	2	Josef	Stehlík	M			56	zedník	Nová Ves u Nového Města na Moravě	1	1	0
-6105	596221	1	1	1	3	Jan	Fuksa	M			53	traktorista	Nová Ves u Nového Města na Moravě	99	1	0
-6105	596221	1	1	1	4	Jan	Nečas	M			50	skladník	Nová Ves u Nového Města na Moravě	99	1	0
-6105	596221	1	1	1	5	Hana	Stará	F			47	dojička	Nová Ves u Nového Města na Moravě	99	1	0
-6105	596221	1	1	1	6	Helena	Tučková	F	Mgr.		41	referent	Nová Ves u Nového Města na Moravě	99	1	0
-6105	596221	1	1	1	7	Ludvík	Polnický	M			40	jednatel firmy	Nová Ves u Nového Města na Moravě	99	1	0
-6105	596221	1	1	1	8	Jan	Polnický	M			36	tesař	Nová Ves u Nového Města na Moravě	99	1	0
-6105	596221	1	1	1	9	Václav	Zdražil	M			32	technik	Nová Ves u Nového Města na Moravě	99	1	0
-6105	596221	1	2	901	1	Roman	Trojan	M	Ing.		39	OSVČ	Nová Ves u Nového Města na Moravě	99	80	0
-6105	596221	1	2	901	2	Josef	Kabrda	M			41	OSVČ	Nová Ves u Nového Města na Moravě	99	80	0
-6105	596221	1	2	901	3	Rudolf	Guhl	M			33	technik výpočetní techniky	Nová Ves u Nového Města na Moravě	99	80	0
-6105	596221	1	2	901	4	Josef	Starý	M			39	vedoucí řízení jakosti	Nová Ves u Nového Města na Moravě	99	80	0
-6105	596221	1	2	901	5	Roman	Kužel	M	Ing.		45	konstruktér	Nová Ves u Nového Města na Moravě	99	80	0
-6105	596221	1	2	901	6	Radka	Šoustarová	F			34	úředník MěÚ-nyní na MD	Nová Ves u Nového Města na Moravě	99	80	0
-6105	596221	1	2	901	7	Michaela	Šanderová	F		DiS.	29	zdravotní sestra	Nová Ves u Nového Města na Moravě	99	80	0
-6105	596221	1	2	901	8	Ivana	Stehlíková	F	Ing.		26	účetní	Nová Ves u Nového Města na Moravě	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	596221	1	1	1	1	Václav	Pohanka			62	starosta obce	Nová Ves u Nového Města na Moravě	1	1	0	M
+6105	596221	1	2	901	1	Roman	Trojan	Ing.		39	OSVČ	Nová Ves u Nového Města na Moravě	99	80	0	M
+6105	596221	1	1	1	2	Josef	Stehlík			56	zedník	Nová Ves u Nového Města na Moravě	1	1	0	M
+6105	596221	1	2	901	2	Josef	Kabrda			41	OSVČ	Nová Ves u Nového Města na Moravě	99	80	0	M
+6105	596221	1	1	1	3	Jan	Fuksa			53	traktorista	Nová Ves u Nového Města na Moravě	99	1	0	M
+6105	596221	1	2	901	3	Rudolf	Guhl			33	technik výpočetní techniky	Nová Ves u Nového Města na Moravě	99	80	0	M
+6105	596221	1	1	1	4	Jan	Nečas			50	skladník	Nová Ves u Nového Města na Moravě	99	1	0	M
+6105	596221	1	2	901	4	Josef	Starý			39	vedoucí řízení jakosti	Nová Ves u Nového Města na Moravě	99	80	0	M
+6105	596221	1	1	1	5	Hana	Stará			47	dojička	Nová Ves u Nového Města na Moravě	99	1	0	F
+6105	596221	1	2	901	5	Roman	Kužel	Ing.		45	konstruktér	Nová Ves u Nového Města na Moravě	99	80	0	M
+6105	596221	1	1	1	6	Helena	Tučková	Mgr.		41	referent	Nová Ves u Nového Města na Moravě	99	1	0	F
+6105	596221	1	2	901	6	Radka	Šoustarová			34	úředník MěÚ-nyní na MD	Nová Ves u Nového Města na Moravě	99	80	0	F
+6105	596221	1	1	1	7	Ludvík	Polnický			40	jednatel firmy	Nová Ves u Nového Města na Moravě	99	1	0	M
+6105	596221	1	2	901	7	Michaela	Šanderová		DiS.	29	zdravotní sestra	Nová Ves u Nového Města na Moravě	99	80	0	F
+6105	596221	1	1	1	8	Jan	Polnický			36	tesař	Nová Ves u Nového Města na Moravě	99	1	0	M
+6105	596221	1	2	901	8	Ivana	Stehlíková	Ing.		26	účetní	Nová Ves u Nového Města na Moravě	99	80	0	F
+6105	596221	1	1	1	9	Václav	Zdražil			32	technik	Nová Ves u Nového Města na Moravě	99	1	0	M

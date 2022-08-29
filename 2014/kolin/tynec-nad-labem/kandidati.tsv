@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2104	533807	1	1	901	1	Dušan	Žmolil	M	Bc.		42	starosta města	Týnec nad Labem	99	80	0
-2104	533807	1	1	901	2	Dušan	Kovanda	M			42	ředitel mlýna	Týnec nad Labem	99	80	0
-2104	533807	1	1	901	3	Václav	Tvrdík	M			42	soukromý podnikatel	Vinařice	99	80	0
-2104	533807	1	1	901	4	Hynek	Radouš	M	Mgr.		39	zástupce ředitele ZŠ	Týnec nad Labem	99	80	0
-2104	533807	1	1	901	5	Zuzana	Hájková	F	Mgr.		50	lékárnice	Týnec nad Labem	99	80	0
-2104	533807	1	1	901	6	Blanka	Douchová	F			42	personalistka	Lžovice	99	80	0
-2104	533807	1	1	901	7	Milan	Pánek	M			42	soukromý podnikatel	Týnec nad Labem	99	80	0
-2104	533807	1	1	901	8	Václav	Drábek	M			45	technik	Týnec nad Labem	99	80	0
-2104	533807	1	1	901	9	Milan	Horák	M			40	kuchař	Týnec nad Labem	99	80	0
-2104	533807	1	1	901	10	David	Cihlář	M			38	projektant	Týnec nad Labem	99	80	0
-2104	533807	1	1	901	11	Hynek	Motl	M			34	soukromý podnikatel	Týnec nad Labem	99	80	0
-2104	533807	1	2	7	1	Jaroslav	Peřinka	M	Ing.		70	důchodce	Lžovice	99	7	0
-2104	533807	1	2	7	2	Václav	Kostelecký	M			63	důchodce	Týnec nad Labem	99	7	0
-2104	533807	1	2	7	3	Josef	Vomáčka	M			65	důchodce	Vinařice	99	7	0
-2104	533807	1	2	7	4	Libor	Kulich	M			47	pracovník povodí Labe	Týnec nad Labem	99	7	0
-2104	533807	1	2	7	5	Taťána	Šrámková	F			50	pracovník v domácnosti	Týnec nad Labem	99	7	0
-2104	533807	1	2	7	6	Jaroslav	Kubíček	M			59	pracovník technických služeb	Vinařice	99	7	0
-2104	533807	1	2	7	7	Iveta	Voslářová	F			46	pracovník v domácnosti	Týnec nad Labem	99	7	0
-2104	533807	1	2	7	8	Lenka	Kučerová	F			49	pracovník ČS	Týnec nad Labem	99	7	0
-2104	533807	1	2	7	9	Dana	Měkotová	F			48	laborantka	Týnec nad Labem	99	7	0
-2104	533807	1	2	7	10	Jindřiška	Vondrášková	F			66	zaměstnanec	Týnec nad Labem	99	7	0
-2104	533807	1	2	7	11	Václav	Šanc	M			69	důchodce	Týnec nad Labem	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2104	533807	1	1	901	1	Dušan	Žmolil	Bc.		42	starosta města	Týnec nad Labem	99	80	0	M
+2104	533807	1	2	7	1	Jaroslav	Peřinka	Ing.		70	důchodce	Lžovice	99	7	0	M
+2104	533807	1	1	901	2	Dušan	Kovanda			42	ředitel mlýna	Týnec nad Labem	99	80	0	M
+2104	533807	1	2	7	2	Václav	Kostelecký			63	důchodce	Týnec nad Labem	99	7	0	M
+2104	533807	1	1	901	3	Václav	Tvrdík			42	soukromý podnikatel	Vinařice	99	80	0	M
+2104	533807	1	2	7	3	Josef	Vomáčka			65	důchodce	Vinařice	99	7	0	M
+2104	533807	1	1	901	4	Hynek	Radouš	Mgr.		39	zástupce ředitele ZŠ	Týnec nad Labem	99	80	0	M
+2104	533807	1	2	7	4	Libor	Kulich			47	pracovník povodí Labe	Týnec nad Labem	99	7	0	M
+2104	533807	1	1	901	5	Zuzana	Hájková	Mgr.		50	lékárnice	Týnec nad Labem	99	80	0	F
+2104	533807	1	2	7	5	Taťána	Šrámková			50	pracovník v domácnosti	Týnec nad Labem	99	7	0	F
+2104	533807	1	1	901	6	Blanka	Douchová			42	personalistka	Lžovice	99	80	0	F
+2104	533807	1	2	7	6	Jaroslav	Kubíček			59	pracovník technických služeb	Vinařice	99	7	0	M
+2104	533807	1	1	901	7	Milan	Pánek			42	soukromý podnikatel	Týnec nad Labem	99	80	0	M
+2104	533807	1	2	7	7	Iveta	Voslářová			46	pracovník v domácnosti	Týnec nad Labem	99	7	0	F
+2104	533807	1	1	901	8	Václav	Drábek			45	technik	Týnec nad Labem	99	80	0	M
+2104	533807	1	2	7	8	Lenka	Kučerová			49	pracovník ČS	Týnec nad Labem	99	7	0	F
+2104	533807	1	1	901	9	Milan	Horák			40	kuchař	Týnec nad Labem	99	80	0	M
+2104	533807	1	2	7	9	Dana	Měkotová			48	laborantka	Týnec nad Labem	99	7	0	F
+2104	533807	1	1	901	10	David	Cihlář			38	projektant	Týnec nad Labem	99	80	0	M
+2104	533807	1	2	7	10	Jindřiška	Vondrášková			66	zaměstnanec	Týnec nad Labem	99	7	0	F
+2104	533807	1	1	901	11	Hynek	Motl			34	soukromý podnikatel	Týnec nad Labem	99	80	0	M
+2104	533807	1	2	7	11	Václav	Šanc			69	důchodce	Týnec nad Labem	99	7	0	M

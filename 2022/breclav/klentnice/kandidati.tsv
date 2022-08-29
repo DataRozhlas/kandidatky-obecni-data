@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6204	584541	1	1	7	1	Monika	Blahová	F			44	starostka obce	Klentnice	99	7	A
-6204	584541	1	1	7	2	Karel	Wasserburger	M	JUDr.		74	důchodce	Klentnice	99	7	A
-6204	584541	1	1	7	3	Miroslav	Křižák	M			52	vedoucí provozu	Klentnice	99	7	A
-6204	584541	1	1	7	4	Dalibor	Borák	M	Ing. arch.		63	architekt	Klentnice	99	7	A
-6204	584541	1	1	7	5	Ivana	Papajová	F			57	ředitelka MŠ	Klentnice	99	7	A
-6204	584541	1	1	7	6	Soňa	Hříbová	F			66	důchodkyně	Klentnice	99	7	A
-6204	584541	1	1	7	7	Vladimír	Pres	M			59	technický pracovník	Klentnice	99	7	A
-6204	584541	1	1	7	8	Jana	Lysoňková	F			70	důchodkyně	Klentnice	99	7	A
-6204	584541	1	1	7	9	Karla	Blahová	F			67	pečovatelka	Klentnice	99	7	A
-6204	584541	1	2	480	1	Marian	Dvořák	M			45	automechanik	Klentnice	99	80	A
-6204	584541	1	2	480	2	Vladimír	Slačík	M			44	vedoucí střediska	Klentnice	99	80	A
-6204	584541	1	2	480	3	Roman	Raszyk	M			47	stavbyvedoucí, vinař	Klentnice	99	80	A
-6204	584541	1	2	480	4	Ilona	Čevelíková	F			45	provozní v ubytovacím zařízení	Klentnice	99	80	A
-6204	584541	1	2	480	5	Romana	Slačíková	F			45	servisní technik	Klentnice	99	80	A
-6204	584541	1	2	480	6	Stanislav	Bláha	M			43	řidič	Klentnice	99	80	A
-6204	584541	1	2	480	7	Robert	Fiala	M			50	údržbář	Klentnice	99	80	A
-6204	584541	1	2	480	8	Marcel	Minařík	M			52	dopravce	Klentnice	99	80	A
-6204	584541	1	2	480	9	Oldřich	Beděra	M			47	vedoucí provozovny, vinař	Klentnice	721	721	A
-6204	584541	1	3	1	1	Roman	Koprivňanský	M	Bc.		52	odborný sociální pracovník	Klentnice	99	1	A
-6204	584541	1	3	1	2	Lucie	Ferbyová	F			43	fakturant asistent	Klentnice	99	1	A
-6204	584541	1	3	1	3	Radovan	Žážo	M	Mgr.		35	služby města Brna	Klentnice	99	1	A
-6204	584541	1	3	1	4	Adam	Minařík	M			23	strážník Městské policie Pohořelice	Klentnice	99	1	A
-6204	584541	1	3	1	5	Roman	Kunc	M			45	podnikatel v gastronomii	Klentnice	99	1	A
-6204	584541	1	3	1	6	Adam	Koprivňanský	M			28	příslušník Vězeňské služby ČR	Klentnice	99	1	A
-6204	584541	1	3	1	7	František	Minařík	M			66	důchodce	Klentnice	99	1	A
-6204	584541	1	3	1	8	Vladislav	Pavlačka	M			75	důchodce	Klentnice	99	1	A
-6204	584541	1	3	1	9	Iveta	Sekaninová	F			50	zaměstnanec Srdce v domě Klentnice	Klentnice	99	1	A
-6204	584541	1	4	470	1	Miroslav	Nikl	M			50	quality managment	Klentnice	99	166	A
-6204	584541	1	4	470	2	Jana	Rapantová	F			49	OSVČ	Klentnice	99	80	A
-6204	584541	1	4	470	3	René	Foltán	M	Ing.		54	ekonom, podnikatel	Klentnice	99	80	A
-6204	584541	1	4	470	4	Luděk	Drápal	M	Ing. et Ing.	MBA	35	geodet	Klentnice	99	80	A
-6204	584541	1	4	470	5	Radek	Bláha	M			30	supervisor výroby	Klentnice	99	80	A
-6204	584541	1	4	470	6	Jaroslav	Srnec	M			35	zaměstnanec Lesy České republiky	Klentnice	99	80	A
-6204	584541	1	4	470	7	Jarmila	Mimochodková	F			78	důchodkyně	Klentnice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6204	584541	1	1	7	1	Monika	Blahová			44	starostka obce	Klentnice	99	7	A	F
+6204	584541	1	2	480	1	Marian	Dvořák			45	automechanik	Klentnice	99	80	A	M
+6204	584541	1	3	1	1	Roman	Koprivňanský	Bc.		52	odborný sociální pracovník	Klentnice	99	1	A	M
+6204	584541	1	4	470	1	Miroslav	Nikl			50	quality managment	Klentnice	99	166	A	M
+6204	584541	1	1	7	2	Karel	Wasserburger	JUDr.		74	důchodce	Klentnice	99	7	A	M
+6204	584541	1	2	480	2	Vladimír	Slačík			44	vedoucí střediska	Klentnice	99	80	A	M
+6204	584541	1	3	1	2	Lucie	Ferbyová			43	fakturant asistent	Klentnice	99	1	A	F
+6204	584541	1	4	470	2	Jana	Rapantová			49	OSVČ	Klentnice	99	80	A	F
+6204	584541	1	1	7	3	Miroslav	Křižák			52	vedoucí provozu	Klentnice	99	7	A	M
+6204	584541	1	2	480	3	Roman	Raszyk			47	stavbyvedoucí, vinař	Klentnice	99	80	A	M
+6204	584541	1	3	1	3	Radovan	Žážo	Mgr.		35	služby města Brna	Klentnice	99	1	A	M
+6204	584541	1	4	470	3	René	Foltán	Ing.		54	ekonom, podnikatel	Klentnice	99	80	A	M
+6204	584541	1	1	7	4	Dalibor	Borák	Ing. arch.		63	architekt	Klentnice	99	7	A	M
+6204	584541	1	2	480	4	Ilona	Čevelíková			45	provozní v ubytovacím zařízení	Klentnice	99	80	A	F
+6204	584541	1	3	1	4	Adam	Minařík			23	strážník Městské policie Pohořelice	Klentnice	99	1	A	M
+6204	584541	1	4	470	4	Luděk	Drápal	Ing. et Ing.	MBA	35	geodet	Klentnice	99	80	A	M
+6204	584541	1	1	7	5	Ivana	Papajová			57	ředitelka MŠ	Klentnice	99	7	A	F
+6204	584541	1	2	480	5	Romana	Slačíková			45	servisní technik	Klentnice	99	80	A	F
+6204	584541	1	3	1	5	Roman	Kunc			45	podnikatel v gastronomii	Klentnice	99	1	A	M
+6204	584541	1	4	470	5	Radek	Bláha			30	supervisor výroby	Klentnice	99	80	A	M
+6204	584541	1	1	7	6	Soňa	Hříbová			66	důchodkyně	Klentnice	99	7	A	F
+6204	584541	1	2	480	6	Stanislav	Bláha			43	řidič	Klentnice	99	80	A	M
+6204	584541	1	3	1	6	Adam	Koprivňanský			28	příslušník Vězeňské služby ČR	Klentnice	99	1	A	M
+6204	584541	1	4	470	6	Jaroslav	Srnec			35	zaměstnanec Lesy České republiky	Klentnice	99	80	A	M
+6204	584541	1	1	7	7	Vladimír	Pres			59	technický pracovník	Klentnice	99	7	A	M
+6204	584541	1	2	480	7	Robert	Fiala			50	údržbář	Klentnice	99	80	A	M
+6204	584541	1	3	1	7	František	Minařík			66	důchodce	Klentnice	99	1	A	M
+6204	584541	1	4	470	7	Jarmila	Mimochodková			78	důchodkyně	Klentnice	99	80	A	F
+6204	584541	1	1	7	8	Jana	Lysoňková			70	důchodkyně	Klentnice	99	7	A	F
+6204	584541	1	2	480	8	Marcel	Minařík			52	dopravce	Klentnice	99	80	A	M
+6204	584541	1	3	1	8	Vladislav	Pavlačka			75	důchodce	Klentnice	99	1	A	M
+6204	584541	1	1	7	9	Karla	Blahová			67	pečovatelka	Klentnice	99	7	A	F
+6204	584541	1	2	480	9	Oldřich	Beděra			47	vedoucí provozovny, vinař	Klentnice	721	721	A	M
+6204	584541	1	3	1	9	Iveta	Sekaninová			50	zaměstnanec Srdce v domě Klentnice	Klentnice	99	1	A	F

@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6206	593591	1	1	7	1	Ladislav	Zelenka	M	Ing.		56	nezaměstnaný	Snovídky	7	7	0
-6206	593591	1	1	7	2	Radim	Vodička	M			43	dělník	Snovídky	99	7	0
-6206	593591	1	1	7	3	Jana	Tihelková	F			42	dělnice	Snovídky	99	7	0
-6206	593591	1	1	7	4	Petr	Mrnka	M			50	nezaměstnaný	Snovídky	99	7	0
-6206	593591	1	2	166	1	Jindřich	Voňka	M			54	dělník	Snovídky	99	166	0
-6206	593591	1	2	166	2	Petr	Paul	M			35	podnikatel	Snovídky	99	166	0
-6206	593591	1	2	166	3	František	Kuchař	M	Ing.		58	manažer	Snovídky	99	166	0
-6206	593591	1	2	166	4	Lenka	Mizerová	F			42	dělník	Snovídky	99	166	0
-6206	593591	1	2	166	5	Josef	Hanák	M			70	podnikatel	Snovídky	99	166	0
-6206	593591	1	2	166	6	Radovan	Pinkava	M			39	podnikatel	Snovídky	99	166	0
-6206	593591	1	2	166	7	Stanislav	Novotný	M			59	důchodce	Snovídky	99	166	0
-6206	593591	1	2	166	8	Radek	Bubeníček	M			36	stavební dělník	Snovídky	99	166	0
-6206	593591	1	2	166	9	Vítězslav	Knesl	M			34	zámečník	Snovídky	99	166	0
-6206	593591	1	3	902	1	Tomáš	Trenz	M			20	student	Snovídky	99	80	0
-6206	593591	1	3	902	2	Dominika	Friessová	F			20	studentka	Snovídky	99	80	0
-6206	593591	1	3	902	3	Marek	Růžička	M			18	student	Snovídky	99	80	0
-6206	593591	1	3	902	4	Tomáš	Hanák	M			20	student	Snovídky	99	80	0
-6206	593591	1	3	902	5	Jolana	Doupovcová	F			20	studentka	Snovídky	99	80	0
-6206	593591	1	3	902	6	Vladimíra	Růžičková	F			20	studentka	Snovídky	99	80	0
-6206	593591	1	4	901	1	Miloslav	Masařík	M			43	starosta	Snovídky	99	80	0
-6206	593591	1	4	901	2	Magda	Vaňková	F			49	vedoucí provozu	Snovídky	99	80	0
-6206	593591	1	4	901	3	Jiří	Kremz	M			56	autoelektrikář	Snovídky	99	80	0
-6206	593591	1	4	901	4	Vladislav	Vystrčil	M			36	podnikatel	Snovídky	99	80	0
-6206	593591	1	4	901	5	Petra	Mrázková	F			34	vedoucí pracovník	Snovídky	99	80	0
-6206	593591	1	4	901	6	Jiří	Loučka	M			36	dělník	Snovídky	99	80	0
-6206	593591	1	4	901	7	Milan	Chini	M			41	dělník	Snovídky	99	80	0
-6206	593591	1	4	901	8	Tomáš	Zajíček	M			39	dělník	Snovídky	99	80	0
-6206	593591	1	4	901	9	Jan	Havel	M			40	dělník	Snovídky	99	80	0
-6206	593591	1	5	47	1	Václav	Krátký	M			68	důchodce	Snovídky	99	47	0
-6206	593591	1	5	47	2	Jaroslav	Havel	M			65	důchodce	Snovídky	47	47	0
-6206	593591	1	5	47	3	Lubomír	Novozámský	M			51	nezaměstnaný	Snovídky	47	47	0
-6206	593591	1	5	47	4	Dana	Vysloužilová	F			60	zaměstnanec ČD	Snovídky	99	47	0
-6206	593591	1	5	47	5	Andrea	Zabloudilová	F			39	úřednice	Snovídky	99	47	0
-6206	593591	1	5	47	6	Antonín	Tomeš	M	Ing.		69	důchodce	Snovídky	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6206	593591	1	1	7	1	Ladislav	Zelenka	Ing.		56	nezaměstnaný	Snovídky	7	7	0	M
+6206	593591	1	2	166	1	Jindřich	Voňka			54	dělník	Snovídky	99	166	0	M
+6206	593591	1	3	902	1	Tomáš	Trenz			20	student	Snovídky	99	80	0	M
+6206	593591	1	4	901	1	Miloslav	Masařík			43	starosta	Snovídky	99	80	0	M
+6206	593591	1	5	47	1	Václav	Krátký			68	důchodce	Snovídky	99	47	0	M
+6206	593591	1	1	7	2	Radim	Vodička			43	dělník	Snovídky	99	7	0	M
+6206	593591	1	2	166	2	Petr	Paul			35	podnikatel	Snovídky	99	166	0	M
+6206	593591	1	3	902	2	Dominika	Friessová			20	studentka	Snovídky	99	80	0	F
+6206	593591	1	4	901	2	Magda	Vaňková			49	vedoucí provozu	Snovídky	99	80	0	F
+6206	593591	1	5	47	2	Jaroslav	Havel			65	důchodce	Snovídky	47	47	0	M
+6206	593591	1	1	7	3	Jana	Tihelková			42	dělnice	Snovídky	99	7	0	F
+6206	593591	1	2	166	3	František	Kuchař	Ing.		58	manažer	Snovídky	99	166	0	M
+6206	593591	1	3	902	3	Marek	Růžička			18	student	Snovídky	99	80	0	M
+6206	593591	1	4	901	3	Jiří	Kremz			56	autoelektrikář	Snovídky	99	80	0	M
+6206	593591	1	5	47	3	Lubomír	Novozámský			51	nezaměstnaný	Snovídky	47	47	0	M
+6206	593591	1	1	7	4	Petr	Mrnka			50	nezaměstnaný	Snovídky	99	7	0	M
+6206	593591	1	2	166	4	Lenka	Mizerová			42	dělník	Snovídky	99	166	0	F
+6206	593591	1	3	902	4	Tomáš	Hanák			20	student	Snovídky	99	80	0	M
+6206	593591	1	4	901	4	Vladislav	Vystrčil			36	podnikatel	Snovídky	99	80	0	M
+6206	593591	1	5	47	4	Dana	Vysloužilová			60	zaměstnanec ČD	Snovídky	99	47	0	F
+6206	593591	1	2	166	5	Josef	Hanák			70	podnikatel	Snovídky	99	166	0	M
+6206	593591	1	3	902	5	Jolana	Doupovcová			20	studentka	Snovídky	99	80	0	F
+6206	593591	1	4	901	5	Petra	Mrázková			34	vedoucí pracovník	Snovídky	99	80	0	F
+6206	593591	1	5	47	5	Andrea	Zabloudilová			39	úřednice	Snovídky	99	47	0	F
+6206	593591	1	2	166	6	Radovan	Pinkava			39	podnikatel	Snovídky	99	166	0	M
+6206	593591	1	3	902	6	Vladimíra	Růžičková			20	studentka	Snovídky	99	80	0	F
+6206	593591	1	4	901	6	Jiří	Loučka			36	dělník	Snovídky	99	80	0	M
+6206	593591	1	5	47	6	Antonín	Tomeš	Ing.		69	důchodce	Snovídky	47	47	0	M
+6206	593591	1	2	166	7	Stanislav	Novotný			59	důchodce	Snovídky	99	166	0	M
+6206	593591	1	4	901	7	Milan	Chini			41	dělník	Snovídky	99	80	0	M
+6206	593591	1	2	166	8	Radek	Bubeníček			36	stavební dělník	Snovídky	99	166	0	M
+6206	593591	1	4	901	8	Tomáš	Zajíček			39	dělník	Snovídky	99	80	0	M
+6206	593591	1	2	166	9	Vítězslav	Knesl			34	zámečník	Snovídky	99	166	0	M
+6206	593591	1	4	901	9	Jan	Havel			40	dělník	Snovídky	99	80	0	M

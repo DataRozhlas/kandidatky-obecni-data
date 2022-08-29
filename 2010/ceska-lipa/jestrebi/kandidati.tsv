@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5101	561665	1	1	903	1	Vlasta	Kellnerová	F			51	prodavačka	Újezd	99	80	0
-5101	561665	1	1	903	2	Petra	Rybková	F			30	podnikatelka	Jestřebí	99	80	0
-5101	561665	1	1	903	3	Milan	Martínek	M			51	logistik	Jestřebí	99	80	0
-5101	561665	1	1	903	4	Marie	Svačinová	F			54	nezaměstnaná	Jestřebí	99	80	0
-5101	561665	1	1	903	5	Jana	Loudátová	F			46	v domácnosti	Jestřebí	99	80	0
-5101	561665	1	1	903	6	Jaroslav	Šimon	M			28	provozní technik	Újezd	99	80	0
-5101	561665	1	1	903	7	Jitka	Bobková	F			52	domovnice	Újezd	99	80	0
-5101	561665	1	1	903	8	Josef	Růžička	M			60	dělník	Újezd	99	80	0
-5101	561665	1	1	903	9	Hana	Holcová	F			59	důchodce	Jestřebí	99	80	0
-5101	561665	1	2	901	1	Rudolf	Barták	M			57	školník	Jestřebí	99	80	0
-5101	561665	1	2	901	2	Karel	Schreiner	M	Ing.		43	učitel	Jestřebí	99	80	0
-5101	561665	1	2	901	3	Marta	Schwarzbachová	F			62	starostka	Jestřebí	99	80	0
-5101	561665	1	2	901	4	Josef	Čuban	M			56	živnostník	Jestřebí	99	80	0
-5101	561665	1	2	901	5	Lubomír	Trnečka	M			54	elektromontér	Jestřebí	99	80	0
-5101	561665	1	2	901	6	Dušan	Zatko	M			35	technický pracovník	Jestřebí	99	80	0
-5101	561665	1	2	901	7	Jakub	Máslo	M	Ing.		26	referent	Pavlovice	99	80	0
-5101	561665	1	2	901	8	Daniela	Haštabová	F			60	úřednice	Jestřebí	99	80	0
-5101	561665	1	2	901	9	Oldřich	Říbek	M			62	důchodce	Jestřebí	99	80	0
-5101	561665	1	3	703	1	Josef	Hisem	M	JUDr.		70	místostarosta	Pavlovice	99	703	0
-5101	561665	1	3	703	2	Jana	Fridrichová	F			49	OSVČ	Jestřebí	99	703	0
-5101	561665	1	3	703	3	Ivo	Franzl	M			51	vedoucí manažér	Jestřebí	99	703	0
-5101	561665	1	3	703	4	Antonín	Lacík	M			61	OSVČ	Újezd	99	703	0
-5101	561665	1	3	703	5	Iva	Máslová	F	Bc.		26	studentka	Pavlovice	99	703	0
-5101	561665	1	3	703	6	Milan	Wolf	M			43	OSVČ	Jestřebí	99	703	0
-5101	561665	1	3	703	7	Anna	Bilaniuková	F			60	důchodce	Jestřebí	99	703	0
-5101	561665	1	3	703	8	Michaela	Broklová	F			34	OSVČ	Pavlovice	99	703	0
-5101	561665	1	3	703	9	Zdena	Hisemová	F			64	důchodce	Pavlovice	99	703	0
-5101	561665	1	4	902	1	Patrik	Pešek	M			33	dělník	Jestřebí	99	80	0
-5101	561665	1	4	902	2	Petr	Švadlenka	M			50	inv. důchodce	Jestřebí	99	80	0
-5101	561665	1	4	902	3	Milada	Volencová	F			46	nezaměstnaná	Jestřebí	99	80	0
-5101	561665	1	4	902	4	Pavel	Kraus	M			57	učitel	Pavlovice	99	80	0
-5101	561665	1	4	902	5	Libuše	Belžanová	F			42	zdravotní sestra	Pavlovice	99	80	0
-5101	561665	1	4	902	6	Vladimíra	Samková	F			63	důchodkyně	Pavlovice	99	80	0
-5101	561665	1	4	902	7	Miloš	Machačka	M			24	vedoucí údržby	Jestřebí	99	80	0
-5101	561665	1	4	902	8	Šárka	Harbichová	F			44	prodavačka	Jestřebí	99	80	0
-5101	561665	1	4	902	9	Petr	Borodin	M			52	OSVČ	Jestřebí	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5101	561665	1	1	903	1	Vlasta	Kellnerová			51	prodavačka	Újezd	99	80	0	F
+5101	561665	1	2	901	1	Rudolf	Barták			57	školník	Jestřebí	99	80	0	M
+5101	561665	1	3	703	1	Josef	Hisem	JUDr.		70	místostarosta	Pavlovice	99	703	0	M
+5101	561665	1	4	902	1	Patrik	Pešek			33	dělník	Jestřebí	99	80	0	M
+5101	561665	1	1	903	2	Petra	Rybková			30	podnikatelka	Jestřebí	99	80	0	F
+5101	561665	1	2	901	2	Karel	Schreiner	Ing.		43	učitel	Jestřebí	99	80	0	M
+5101	561665	1	3	703	2	Jana	Fridrichová			49	OSVČ	Jestřebí	99	703	0	F
+5101	561665	1	4	902	2	Petr	Švadlenka			50	inv. důchodce	Jestřebí	99	80	0	M
+5101	561665	1	1	903	3	Milan	Martínek			51	logistik	Jestřebí	99	80	0	M
+5101	561665	1	2	901	3	Marta	Schwarzbachová			62	starostka	Jestřebí	99	80	0	F
+5101	561665	1	3	703	3	Ivo	Franzl			51	vedoucí manažér	Jestřebí	99	703	0	M
+5101	561665	1	4	902	3	Milada	Volencová			46	nezaměstnaná	Jestřebí	99	80	0	F
+5101	561665	1	1	903	4	Marie	Svačinová			54	nezaměstnaná	Jestřebí	99	80	0	F
+5101	561665	1	2	901	4	Josef	Čuban			56	živnostník	Jestřebí	99	80	0	M
+5101	561665	1	3	703	4	Antonín	Lacík			61	OSVČ	Újezd	99	703	0	M
+5101	561665	1	4	902	4	Pavel	Kraus			57	učitel	Pavlovice	99	80	0	M
+5101	561665	1	1	903	5	Jana	Loudátová			46	v domácnosti	Jestřebí	99	80	0	F
+5101	561665	1	2	901	5	Lubomír	Trnečka			54	elektromontér	Jestřebí	99	80	0	M
+5101	561665	1	3	703	5	Iva	Máslová	Bc.		26	studentka	Pavlovice	99	703	0	F
+5101	561665	1	4	902	5	Libuše	Belžanová			42	zdravotní sestra	Pavlovice	99	80	0	F
+5101	561665	1	1	903	6	Jaroslav	Šimon			28	provozní technik	Újezd	99	80	0	M
+5101	561665	1	2	901	6	Dušan	Zatko			35	technický pracovník	Jestřebí	99	80	0	M
+5101	561665	1	3	703	6	Milan	Wolf			43	OSVČ	Jestřebí	99	703	0	M
+5101	561665	1	4	902	6	Vladimíra	Samková			63	důchodkyně	Pavlovice	99	80	0	F
+5101	561665	1	1	903	7	Jitka	Bobková			52	domovnice	Újezd	99	80	0	F
+5101	561665	1	2	901	7	Jakub	Máslo	Ing.		26	referent	Pavlovice	99	80	0	M
+5101	561665	1	3	703	7	Anna	Bilaniuková			60	důchodce	Jestřebí	99	703	0	F
+5101	561665	1	4	902	7	Miloš	Machačka			24	vedoucí údržby	Jestřebí	99	80	0	M
+5101	561665	1	1	903	8	Josef	Růžička			60	dělník	Újezd	99	80	0	M
+5101	561665	1	2	901	8	Daniela	Haštabová			60	úřednice	Jestřebí	99	80	0	F
+5101	561665	1	3	703	8	Michaela	Broklová			34	OSVČ	Pavlovice	99	703	0	F
+5101	561665	1	4	902	8	Šárka	Harbichová			44	prodavačka	Jestřebí	99	80	0	F
+5101	561665	1	1	903	9	Hana	Holcová			59	důchodce	Jestřebí	99	80	0	F
+5101	561665	1	2	901	9	Oldřich	Říbek			62	důchodce	Jestřebí	99	80	0	M
+5101	561665	1	3	703	9	Zdena	Hisemová			64	důchodce	Pavlovice	99	703	0	F
+5101	561665	1	4	902	9	Petr	Borodin			52	OSVČ	Jestřebí	99	80	0	M

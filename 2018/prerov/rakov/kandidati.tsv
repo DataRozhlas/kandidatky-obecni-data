@@ -1,33 +1,33 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7104	517585	1	1	902	1	František	Kopecký	M	Mgr.		41	manažer	Rakov	99	80	A
-7104	517585	1	1	902	2	Eduard	Tomeček	M			42	průmyslový inženýr - technolog	Rakov	99	80	A
-7104	517585	1	1	902	3	Milada	Kovaříková	F	Ing.		55	účetní	Rakov	99	80	A
-7104	517585	1	1	902	4	Martin	Černocký	M	Ing.		35	vedoucí oddělení krajského úřadu	Rakov	99	80	A
-7104	517585	1	1	902	5	Jiří	Pala	M	Ing.		35	obchodní ředitel	Rakov	99	80	A
-7104	517585	1	1	902	6	Lenka	Kabelíková	F			33	administrativní pracovnice	Rakov	99	80	A
-7104	517585	1	1	902	7	Daniel	Muščík	M			52	lesní technik	Rakov	99	80	A
-7104	517585	1	2	903	1	Vojtěch	Skácel	M			51	OSVČ	Rakov	99	80	A
-7104	517585	1	2	903	2	Marta	Kuličková	F	Ing.		27	všeobecná účetní	Rakov	99	80	A
-7104	517585	1	2	903	3	Roman	Tureček	M			40	manažer výroby	Rakov	99	80	A
-7104	517585	1	2	903	4	Zdeňka	Mizerová	F			37	skladnice	Rakov	99	80	A
-7104	517585	1	2	903	5	Stanislav	Černocký	M	Ing.		59	technik	Rakov	99	80	A
-7104	517585	1	2	903	6	Dagmar	Dostálová	F			34	pracovnice v sociálních službách	Rakov	99	80	A
-7104	517585	1	2	903	7	Naděžda	Petříková	F			51	samostatná účetní	Rakov	99	80	A
-7104	517585	1	2	903	8	Kateřina	Macháčková	F	Ing.		39	administrativní pracovnice	Rakov	99	80	A
-7104	517585	1	2	903	9	Jana	Černocká	F	Mgr.		32	advokátka	Rakov	99	80	A
-7104	517585	1	3	901	1	Zdeněk	Růžička	M			50	vedoucí technického oddělení	Rakov	99	80	A
-7104	517585	1	3	901	2	Jaroslav	Ludka	M			51	hasič	Rakov	99	80	A
-7104	517585	1	3	901	3	Lubomír	Zlámal	M			65	důchodce	Rakov	99	80	A
-7104	517585	1	3	901	4	Karel	Sehnalík	M			44	policista	Rakov	99	80	A
-7104	517585	1	3	901	5	Petr	Frelich	M			44	operátor výroby	Rakov	99	80	A
-7104	517585	1	3	901	6	Dušan	Pecha	M			45	řidič	Rakov	99	80	A
-7104	517585	1	3	901	7	Miroslav	Horáček	M			44	OSVČ	Rakov	99	80	A
-7104	517585	1	3	901	8	Jan	Ludka	M			24	obchodně produktový IT manažer	Rakov	99	80	A
-7104	517585	1	3	901	9	Libor	Pírek	M			52	lakýrník	Rakov	99	80	A
-7104	517585	1	4	768	1	Svatava	Wagnerová	F			51	starostka	Rakov	99	768	A
-7104	517585	1	4	768	2	Jaroslav	Tureček	M			44	OSVČ	Rakov	99	768	A
-7104	517585	1	4	768	3	Žaneta	Jakšíková	F			39	administrativní pracovník	Rakov	99	768	A
-7104	517585	1	4	768	4	Pavlína	Vašíčková	F			24	OSVČ	Rakov	99	768	A
-7104	517585	1	4	768	5	Antonín	Hošťálek	M			48	skladník	Rakov	99	768	A
-7104	517585	1	4	768	6	Pavlína	Horáčková	F			43	provozní penzionu	Rakov	99	768	A
-7104	517585	1	4	768	7	Petr	Král	M	Ing.		24	technik lékařských přístrojů	Rakov	99	768	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7104	517585	1	1	902	1	František	Kopecký	Mgr.		41	manažer	Rakov	99	80	A	M
+7104	517585	1	2	903	1	Vojtěch	Skácel			51	OSVČ	Rakov	99	80	A	M
+7104	517585	1	3	901	1	Zdeněk	Růžička			50	vedoucí technického oddělení	Rakov	99	80	A	M
+7104	517585	1	4	768	1	Svatava	Wagnerová			51	starostka	Rakov	99	768	A	F
+7104	517585	1	1	902	2	Eduard	Tomeček			42	průmyslový inženýr - technolog	Rakov	99	80	A	M
+7104	517585	1	2	903	2	Marta	Kuličková	Ing.		27	všeobecná účetní	Rakov	99	80	A	F
+7104	517585	1	3	901	2	Jaroslav	Ludka			51	hasič	Rakov	99	80	A	M
+7104	517585	1	4	768	2	Jaroslav	Tureček			44	OSVČ	Rakov	99	768	A	M
+7104	517585	1	1	902	3	Milada	Kovaříková	Ing.		55	účetní	Rakov	99	80	A	F
+7104	517585	1	2	903	3	Roman	Tureček			40	manažer výroby	Rakov	99	80	A	M
+7104	517585	1	3	901	3	Lubomír	Zlámal			65	důchodce	Rakov	99	80	A	M
+7104	517585	1	4	768	3	Žaneta	Jakšíková			39	administrativní pracovník	Rakov	99	768	A	F
+7104	517585	1	1	902	4	Martin	Černocký	Ing.		35	vedoucí oddělení krajského úřadu	Rakov	99	80	A	M
+7104	517585	1	2	903	4	Zdeňka	Mizerová			37	skladnice	Rakov	99	80	A	F
+7104	517585	1	3	901	4	Karel	Sehnalík			44	policista	Rakov	99	80	A	M
+7104	517585	1	4	768	4	Pavlína	Vašíčková			24	OSVČ	Rakov	99	768	A	F
+7104	517585	1	1	902	5	Jiří	Pala	Ing.		35	obchodní ředitel	Rakov	99	80	A	M
+7104	517585	1	2	903	5	Stanislav	Černocký	Ing.		59	technik	Rakov	99	80	A	M
+7104	517585	1	3	901	5	Petr	Frelich			44	operátor výroby	Rakov	99	80	A	M
+7104	517585	1	4	768	5	Antonín	Hošťálek			48	skladník	Rakov	99	768	A	M
+7104	517585	1	1	902	6	Lenka	Kabelíková			33	administrativní pracovnice	Rakov	99	80	A	F
+7104	517585	1	2	903	6	Dagmar	Dostálová			34	pracovnice v sociálních službách	Rakov	99	80	A	F
+7104	517585	1	3	901	6	Dušan	Pecha			45	řidič	Rakov	99	80	A	M
+7104	517585	1	4	768	6	Pavlína	Horáčková			43	provozní penzionu	Rakov	99	768	A	F
+7104	517585	1	1	902	7	Daniel	Muščík			52	lesní technik	Rakov	99	80	A	M
+7104	517585	1	2	903	7	Naděžda	Petříková			51	samostatná účetní	Rakov	99	80	A	F
+7104	517585	1	3	901	7	Miroslav	Horáček			44	OSVČ	Rakov	99	80	A	M
+7104	517585	1	4	768	7	Petr	Král	Ing.		24	technik lékařských přístrojů	Rakov	99	768	A	M
+7104	517585	1	2	903	8	Kateřina	Macháčková	Ing.		39	administrativní pracovnice	Rakov	99	80	A	F
+7104	517585	1	3	901	8	Jan	Ludka			24	obchodně produktový IT manažer	Rakov	99	80	A	M
+7104	517585	1	2	903	9	Jana	Černocká	Mgr.		32	advokátka	Rakov	99	80	A	F
+7104	517585	1	3	901	9	Libor	Pírek			52	lakýrník	Rakov	99	80	A	M

@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	595535	1	1	902	1	Tomáš	Starýchfojtů	M			44	údržbář	Dolní Rožínka	99	80	0
-6105	595535	1	1	902	2	Karel	Andrejs	M			57	technik	Dolní Rožínka	99	80	0
-6105	595535	1	1	902	3	Jaroslava	Slaná	F	Mgr.		56	OSVČ	Dolní Rožínka	99	80	0
-6105	595535	1	1	902	4	Libor	Skřivánek	M			51	údržbář	Dolní Rožínka	99	80	0
-6105	595535	1	1	902	5	Petr	Slaný	M	Mgr.		29	podnikatel	Dolní Rožínka	99	80	0
-6105	595535	1	1	902	6	Jaroslava	Sluková	F	Bc.		39	učitelka	Dolní Rožínka	99	80	0
-6105	595535	1	2	47	1	Blažejka	Kuchařová	F			64	důchodce	Dolní Rožínka	47	47	0
-6105	595535	1	2	47	2	Ladislav	Mičánek	M			58	instruktor - COOP	Dolní Rožínka	99	47	0
-6105	595535	1	2	47	3	Karel	Starýchfojtů	M			67	důchodce	Dolní Rožínka	47	47	0
-6105	595535	1	2	47	4	Libor	Štefáček	M			26	dělník	Dolní Rožínka	99	47	0
-6105	595535	1	2	47	5	Radka	Mynářová	F			60	důchodce	Dolní Rožínka	99	47	0
-6105	595535	1	2	47	6	Miroslav	Kuchař	M			45	dělník	Dolní Rožínka	99	47	0
-6105	595535	1	2	47	7	Hubert	Skoumal	M			40	dělník	Dolní Rožínka	99	47	0
-6105	595535	1	2	47	8	Josef	Urban	M			80	důchodce	Dolní Rožínka	47	47	0
-6105	595535	1	2	47	9	Jitka	Vičarová	F			47	vychovatelka školní družiny	Dolní Rožínka	99	47	0
-6105	595535	1	3	901	1	Roman	Vojta	M			38	řidič	Dolní Rožínka	99	80	0
-6105	595535	1	3	901	2	Vlastimil	Skalník	M			31	skladník	Dolní Rožínka	99	80	0
-6105	595535	1	3	901	3	Lenka	Stará	F	Mgr.		30	účetní	Dolní Rožínka	99	80	0
-6105	595535	1	3	901	4	Jana	Romanová	F			45	matrikářka	Dolní Rožínka	99	80	0
-6105	595535	1	3	901	5	Jiří	Skalník	M			32	operátor dozimetrie	Dolní Rožínka	99	80	0
-6105	595535	1	3	901	6	Rudolf	Mazánek	M			42	operátor dozimetrie	Dolní Rožínka	99	80	0
-6105	595535	1	3	901	7	Bohuslav	Beneš	M			60	důchodce	Dolní Rožínka	99	80	0
-6105	595535	1	4	7	1	Zdeněk	Horák	M			59	starosta	Dolní Rožínka	99	7	0
-6105	595535	1	4	7	2	Josef	Adam	M			59	strojník	Horní Rozsíčka	99	7	0
-6105	595535	1	4	7	3	Lubomír	Starý	M	Mgr.		64	programátor	Dolní Rožínka	99	7	0
-6105	595535	1	4	7	4	Petra	Daňková	F			38	podnikatelka	Dolní Rožínka	99	7	0
-6105	595535	1	4	7	5	Miloš	Musil	M			63	důchodce	Dolní Rožínka	99	7	0
-6105	595535	1	4	7	6	Milan	Baláž	M	RNDr.	Ph.D.	45	vysokoškolský učitel	Dolní Rožínka	99	7	0
-6105	595535	1	4	7	7	Jiří	Chocholáč	M			34	báňský úpravář	Horní Rozsíčka	99	7	0
-6105	595535	1	4	7	8	Romana	Klusáková	F	Mgr.		43	učitelka	Dolní Rožínka	99	7	0
-6105	595535	1	4	7	9	David	Gregor	M			36	elektrikář	Dolní Rožínka	99	7	0
-6105	595535	1	4	7	10	Zdeněk	Konček	M			35	řezník	Dolní Rožínka	99	7	0
-6105	595535	1	4	7	11	Jitka	Pročková	F			41	dělnice	Dolní Rožínka	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	595535	1	1	902	1	Tomáš	Starýchfojtů			44	údržbář	Dolní Rožínka	99	80	0	M
+6105	595535	1	2	47	1	Blažejka	Kuchařová			64	důchodce	Dolní Rožínka	47	47	0	F
+6105	595535	1	3	901	1	Roman	Vojta			38	řidič	Dolní Rožínka	99	80	0	M
+6105	595535	1	4	7	1	Zdeněk	Horák			59	starosta	Dolní Rožínka	99	7	0	M
+6105	595535	1	1	902	2	Karel	Andrejs			57	technik	Dolní Rožínka	99	80	0	M
+6105	595535	1	2	47	2	Ladislav	Mičánek			58	instruktor - COOP	Dolní Rožínka	99	47	0	M
+6105	595535	1	3	901	2	Vlastimil	Skalník			31	skladník	Dolní Rožínka	99	80	0	M
+6105	595535	1	4	7	2	Josef	Adam			59	strojník	Horní Rozsíčka	99	7	0	M
+6105	595535	1	1	902	3	Jaroslava	Slaná	Mgr.		56	OSVČ	Dolní Rožínka	99	80	0	F
+6105	595535	1	2	47	3	Karel	Starýchfojtů			67	důchodce	Dolní Rožínka	47	47	0	M
+6105	595535	1	3	901	3	Lenka	Stará	Mgr.		30	účetní	Dolní Rožínka	99	80	0	F
+6105	595535	1	4	7	3	Lubomír	Starý	Mgr.		64	programátor	Dolní Rožínka	99	7	0	M
+6105	595535	1	1	902	4	Libor	Skřivánek			51	údržbář	Dolní Rožínka	99	80	0	M
+6105	595535	1	2	47	4	Libor	Štefáček			26	dělník	Dolní Rožínka	99	47	0	M
+6105	595535	1	3	901	4	Jana	Romanová			45	matrikářka	Dolní Rožínka	99	80	0	F
+6105	595535	1	4	7	4	Petra	Daňková			38	podnikatelka	Dolní Rožínka	99	7	0	F
+6105	595535	1	1	902	5	Petr	Slaný	Mgr.		29	podnikatel	Dolní Rožínka	99	80	0	M
+6105	595535	1	2	47	5	Radka	Mynářová			60	důchodce	Dolní Rožínka	99	47	0	F
+6105	595535	1	3	901	5	Jiří	Skalník			32	operátor dozimetrie	Dolní Rožínka	99	80	0	M
+6105	595535	1	4	7	5	Miloš	Musil			63	důchodce	Dolní Rožínka	99	7	0	M
+6105	595535	1	1	902	6	Jaroslava	Sluková	Bc.		39	učitelka	Dolní Rožínka	99	80	0	F
+6105	595535	1	2	47	6	Miroslav	Kuchař			45	dělník	Dolní Rožínka	99	47	0	M
+6105	595535	1	3	901	6	Rudolf	Mazánek			42	operátor dozimetrie	Dolní Rožínka	99	80	0	M
+6105	595535	1	4	7	6	Milan	Baláž	RNDr.	Ph.D.	45	vysokoškolský učitel	Dolní Rožínka	99	7	0	M
+6105	595535	1	2	47	7	Hubert	Skoumal			40	dělník	Dolní Rožínka	99	47	0	M
+6105	595535	1	3	901	7	Bohuslav	Beneš			60	důchodce	Dolní Rožínka	99	80	0	M
+6105	595535	1	4	7	7	Jiří	Chocholáč			34	báňský úpravář	Horní Rozsíčka	99	7	0	M
+6105	595535	1	2	47	8	Josef	Urban			80	důchodce	Dolní Rožínka	47	47	0	M
+6105	595535	1	4	7	8	Romana	Klusáková	Mgr.		43	učitelka	Dolní Rožínka	99	7	0	F
+6105	595535	1	2	47	9	Jitka	Vičarová			47	vychovatelka školní družiny	Dolní Rožínka	99	47	0	F
+6105	595535	1	4	7	9	David	Gregor			36	elektrikář	Dolní Rožínka	99	7	0	M
+6105	595535	1	4	7	10	Zdeněk	Konček			35	řezník	Dolní Rožínka	99	7	0	M
+6105	595535	1	4	7	11	Jitka	Pročková			41	dělnice	Dolní Rožínka	99	7	0	F

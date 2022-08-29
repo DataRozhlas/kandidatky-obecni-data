@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3202	556505	1	1	901	1	Vlastimil	Rejthar	M	Bc.		35	obchodní manažer	Křenice	99	80	A
-3202	556505	1	1	901	2	Antonín	Wollner	M	Ing.		33	soukromý podnikatel	Přetín	99	80	A
-3202	556505	1	1	901	3	René	Jirmus	M			20	student	Přetín	99	80	A
-3202	556505	1	1	901	4	Daniel	Toman	M			19	student	Kámen	99	80	A
-3202	556505	1	2	902	1	Jana	Vlčková	F			56	účetní	Křenice	99	80	A
-3202	556505	1	2	902	2	Vítězslav	Chval	M			34	podnikatel	Přetín	99	80	A
-3202	556505	1	2	902	3	Jan	Kacíř	M	Mgr.		32	vedoucí obchodního oddělení	Křenice	721	80	A
-3202	556505	1	2	902	4	Josef	Hájek	M			52	podnikatel	Křenice	53	80	A
-3202	556505	1	2	902	5	Jaroslav	Zdvořák	M			51	řidič	Křenice	99	80	A
-3202	556505	1	2	902	6	Hana	Zdvořáková	F			44	osoba pečující o osobu blízkou	Přetín	99	80	A
-3202	556505	1	2	902	7	Michal	Frýba	M			45	živnostník	Křenice	99	80	A
-3202	556505	1	2	902	8	Vlastimil	Škopek	M			42	řidič	Křenice	99	80	A
-3202	556505	1	2	902	9	Jakub	Lösch	M			30	podnikatel	Křenice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3202	556505	1	1	901	1	Vlastimil	Rejthar	Bc.		35	obchodní manažer	Křenice	99	80	A	M
+3202	556505	1	2	902	1	Jana	Vlčková			56	účetní	Křenice	99	80	A	F
+3202	556505	1	1	901	2	Antonín	Wollner	Ing.		33	soukromý podnikatel	Přetín	99	80	A	M
+3202	556505	1	2	902	2	Vítězslav	Chval			34	podnikatel	Přetín	99	80	A	M
+3202	556505	1	1	901	3	René	Jirmus			20	student	Přetín	99	80	A	M
+3202	556505	1	2	902	3	Jan	Kacíř	Mgr.		32	vedoucí obchodního oddělení	Křenice	721	80	A	M
+3202	556505	1	1	901	4	Daniel	Toman			19	student	Kámen	99	80	A	M
+3202	556505	1	2	902	4	Josef	Hájek			52	podnikatel	Křenice	53	80	A	M
+3202	556505	1	2	902	5	Jaroslav	Zdvořák			51	řidič	Křenice	99	80	A	M
+3202	556505	1	2	902	6	Hana	Zdvořáková			44	osoba pečující o osobu blízkou	Přetín	99	80	A	F
+3202	556505	1	2	902	7	Michal	Frýba			45	živnostník	Křenice	99	80	A	M
+3202	556505	1	2	902	8	Vlastimil	Škopek			42	řidič	Křenice	99	80	A	M
+3202	556505	1	2	902	9	Jakub	Lösch			30	podnikatel	Křenice	99	80	A	M

@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8102	598046	1	1	902	1	Pavel	Neděla	M			53	starosta	Bruzovice	99	80	A
-8102	598046	1	1	902	2	Lenka	Ignasová	F			52	vychovatelka	Bruzovice	99	80	A
-8102	598046	1	1	902	3	Tomáš	Kunčický	M			51	strojvedoucí	Bruzovice	99	80	A
-8102	598046	1	1	902	4	Vojtěch	Kozel	M	Ing.		40	projektant	Bruzovice	99	80	A
-8102	598046	1	1	902	5	Aleš	Weissmann	M			44	řidič	Bruzovice	99	80	A
-8102	598046	1	1	902	6	Pavel	Hrabec	M	Ing. Bc.		51	příslušník bezpečnostního sboru ve výslužbě	Bruzovice	99	80	A
-8102	598046	1	1	902	7	Zdeněk	Karásek	M			57	OSVČ	Bruzovice	99	80	A
-8102	598046	1	1	902	8	Dominik	Zubek	M			28	řidič	Bruzovice	99	80	A
-8102	598046	1	1	902	9	Lukáš	Zachník	M			35	programátor CNC	Bruzovice	99	80	A
-8102	598046	1	2	901	1	Zdeňka	Kičmerová	F	Ing.	DiS.	46	auditorka	Bruzovice	99	80	A
-8102	598046	1	2	901	2	Jan	Kubíček	M			38	strojvedoucí	Bruzovice	721	80	A
-8102	598046	1	2	901	3	Lenka	Vaňková	F	Mgr.	DiS.	33	sociální pracovnice	Bruzovice	99	80	A
-8102	598046	1	2	901	4	René	Býma	M			44	jednatel	Bruzovice	99	80	A
-8102	598046	1	2	901	5	Miroslav	Frantes	M	Ing.		44	manažer kvality	Bruzovice	99	80	A
-8102	598046	1	2	901	6	Rostislav	Matusík	M			53	mistr	Bruzovice	99	80	A
-8102	598046	1	2	901	7	Kateřina	Onderková	F			40	operátorka výroby	Bruzovice	99	80	A
-8102	598046	1	2	901	8	Zdeňka	Kordeková	F			49	ošetřovatelka skotu	Bruzovice	99	80	A
-8102	598046	1	2	901	9	Pavla	Kubátková	F	Ing.		49	zástupce firmy	Bruzovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8102	598046	1	1	902	1	Pavel	Neděla			53	starosta	Bruzovice	99	80	A	M
+8102	598046	1	2	901	1	Zdeňka	Kičmerová	Ing.	DiS.	46	auditorka	Bruzovice	99	80	A	F
+8102	598046	1	1	902	2	Lenka	Ignasová			52	vychovatelka	Bruzovice	99	80	A	F
+8102	598046	1	2	901	2	Jan	Kubíček			38	strojvedoucí	Bruzovice	721	80	A	M
+8102	598046	1	1	902	3	Tomáš	Kunčický			51	strojvedoucí	Bruzovice	99	80	A	M
+8102	598046	1	2	901	3	Lenka	Vaňková	Mgr.	DiS.	33	sociální pracovnice	Bruzovice	99	80	A	F
+8102	598046	1	1	902	4	Vojtěch	Kozel	Ing.		40	projektant	Bruzovice	99	80	A	M
+8102	598046	1	2	901	4	René	Býma			44	jednatel	Bruzovice	99	80	A	M
+8102	598046	1	1	902	5	Aleš	Weissmann			44	řidič	Bruzovice	99	80	A	M
+8102	598046	1	2	901	5	Miroslav	Frantes	Ing.		44	manažer kvality	Bruzovice	99	80	A	M
+8102	598046	1	1	902	6	Pavel	Hrabec	Ing. Bc.		51	příslušník bezpečnostního sboru ve výslužbě	Bruzovice	99	80	A	M
+8102	598046	1	2	901	6	Rostislav	Matusík			53	mistr	Bruzovice	99	80	A	M
+8102	598046	1	1	902	7	Zdeněk	Karásek			57	OSVČ	Bruzovice	99	80	A	M
+8102	598046	1	2	901	7	Kateřina	Onderková			40	operátorka výroby	Bruzovice	99	80	A	F
+8102	598046	1	1	902	8	Dominik	Zubek			28	řidič	Bruzovice	99	80	A	M
+8102	598046	1	2	901	8	Zdeňka	Kordeková			49	ošetřovatelka skotu	Bruzovice	99	80	A	F
+8102	598046	1	1	902	9	Lukáš	Zachník			35	programátor CNC	Bruzovice	99	80	A	M
+8102	598046	1	2	901	9	Pavla	Kubátková	Ing.		49	zástupce firmy	Bruzovice	99	80	A	F

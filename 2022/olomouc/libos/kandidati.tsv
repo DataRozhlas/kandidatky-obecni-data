@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	569003	1	1	901	1	Vladimíra	Šedivá	F	Ing.		66	důchodkyně	Liboš	99	80	A
-7102	569003	1	1	901	2	Silvie	Polánková	F			52	jednatelka E-shopu	Liboš	99	80	A
-7102	569003	1	1	901	3	Petr	Hlavík	M			46	stavař	Liboš	99	80	A
-7102	569003	1	1	901	4	Karel	Zvěřina	M			65	důchodce	Liboš	99	80	A
-7102	569003	1	1	901	5	Radek	Mareš	M			36	obchodní manažer	Liboš	99	80	A
-7102	569003	1	1	901	6	Simona	Pospíšilová	F	Mgr.		32	právnička	Liboš	99	80	A
-7102	569003	1	1	901	7	Zdeněk	Dočkal	M	Ing.		60	OSVČ	Liboš	99	80	A
-7102	569003	1	1	901	8	Petra	Čadová	F			48	referentka odbytu	Liboš	99	80	A
-7102	569003	1	1	901	9	Lenka	Bittnerová	F			46	bankovní úřednice	Liboš	99	80	A
-7102	569003	1	2	470	1	Michaela	Navrátilová	F			41	vedoucí provozovny	Liboš	99	166	A
-7102	569003	1	2	470	2	Martin	Kořenek	M			49	podnikatel	Liboš	99	166	A
-7102	569003	1	2	470	3	Jan	David	M			67	starosta	Liboš	99	166	A
-7102	569003	1	2	470	4	Marek	Hopjan	M			48	administrativní pracovník	Liboš	99	166	A
-7102	569003	1	2	470	5	Iva	Krylová	F			44	operátor	Liboš	99	166	A
-7102	569003	1	2	470	6	Marek	Svozil	M			50	operátor	Liboš	99	166	A
-7102	569003	1	2	470	7	Miroslav	Neplech	M			26	strážník MP	Liboš	99	166	A
-7102	569003	1	2	470	8	Veronika	Vychodilová	F	Ing.		34	vedoucí oddělení	Liboš	99	166	A
-7102	569003	1	2	470	9	Petr	Vlček	M			45	OSVČ	Liboš	99	166	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	569003	1	1	901	1	Vladimíra	Šedivá	Ing.		66	důchodkyně	Liboš	99	80	A	F
+7102	569003	1	2	470	1	Michaela	Navrátilová			41	vedoucí provozovny	Liboš	99	166	A	F
+7102	569003	1	1	901	2	Silvie	Polánková			52	jednatelka E-shopu	Liboš	99	80	A	F
+7102	569003	1	2	470	2	Martin	Kořenek			49	podnikatel	Liboš	99	166	A	M
+7102	569003	1	1	901	3	Petr	Hlavík			46	stavař	Liboš	99	80	A	M
+7102	569003	1	2	470	3	Jan	David			67	starosta	Liboš	99	166	A	M
+7102	569003	1	1	901	4	Karel	Zvěřina			65	důchodce	Liboš	99	80	A	M
+7102	569003	1	2	470	4	Marek	Hopjan			48	administrativní pracovník	Liboš	99	166	A	M
+7102	569003	1	1	901	5	Radek	Mareš			36	obchodní manažer	Liboš	99	80	A	M
+7102	569003	1	2	470	5	Iva	Krylová			44	operátor	Liboš	99	166	A	F
+7102	569003	1	1	901	6	Simona	Pospíšilová	Mgr.		32	právnička	Liboš	99	80	A	F
+7102	569003	1	2	470	6	Marek	Svozil			50	operátor	Liboš	99	166	A	M
+7102	569003	1	1	901	7	Zdeněk	Dočkal	Ing.		60	OSVČ	Liboš	99	80	A	M
+7102	569003	1	2	470	7	Miroslav	Neplech			26	strážník MP	Liboš	99	166	A	M
+7102	569003	1	1	901	8	Petra	Čadová			48	referentka odbytu	Liboš	99	80	A	F
+7102	569003	1	2	470	8	Veronika	Vychodilová	Ing.		34	vedoucí oddělení	Liboš	99	166	A	F
+7102	569003	1	1	901	9	Lenka	Bittnerová			46	bankovní úřednice	Liboš	99	80	A	F
+7102	569003	1	2	470	9	Petr	Vlček			45	OSVČ	Liboš	99	166	A	M

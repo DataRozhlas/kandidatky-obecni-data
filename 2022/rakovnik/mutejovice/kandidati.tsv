@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2112	542121	1	1	902	1	Miroslav	Amler	M			59	provozní mistr	Mutějovice	99	80	A
-2112	542121	1	1	902	2	Kateřina	Bláhová	F			51	poštovní doručovatelka	Mutějovice	99	80	A
-2112	542121	1	1	902	3	Tomáš	Roubík	M			30	obchodní zástupce	Mutějovice	99	80	A
-2112	542121	1	1	902	4	Jana	Koláčková	F			59	administrativní pracovnice	Mutějovice	99	80	A
-2112	542121	1	1	902	5	Vladimír	Pleško	M			43	řidič - skladník	Lhota pod Džbánem	99	80	A
-2112	542121	1	1	902	6	Josef	Švamberk	M			48	OSVČ	Mutějovice	99	80	A
-2112	542121	1	1	902	7	Václav	Beránek	M			57	strojvedoucí	Mutějovice	99	80	A
-2112	542121	1	1	902	8	František	Česal	M			30	operátor výroby	Mutějovice	99	80	A
-2112	542121	1	1	902	9	Tomáš	Koucký	M			50	servisní technik	Mutějovice	99	80	A
-2112	542121	1	1	902	10	Martina	Hovorková	F			54	OSVČ	Mutějovice	99	80	A
-2112	542121	1	1	902	11	Eva	Jaššová	F			57	administrativní pracovnice	Lhota pod Džbánem	99	80	A
-2112	542121	1	2	901	1	Martin	Pinka	M			52	starosta obce	Mutějovice	99	80	A
-2112	542121	1	2	901	2	Hana	Čudová	F			49	poštovní doručovatelka	Mutějovice	99	80	A
-2112	542121	1	2	901	3	Veronika	Kestřánová	F			42	administrativní pracovnice	Mutějovice	99	80	A
-2112	542121	1	2	901	4	Eliška	Kafková	F			49	zdravotní sestra	Mutějovice	99	80	A
-2112	542121	1	2	901	5	Eva	Melčová	F			54	zdravotní sestra	Mutějovice	99	80	A
-2112	542121	1	2	901	6	Miloš	Česal	M			59	řidič - údržbář	Mutějovice	99	80	A
-2112	542121	1	2	901	7	Markéta	Hartlová	F			41	redaktorka regionálního tisku	Mutějovice	99	80	A
-2112	542121	1	2	901	8	Roman	Řičica	M			47	řidič - traktorista	Mutějovice	99	80	A
-2112	542121	1	2	901	9	Vojtěch	Beránek	M			33	lékárník	Mutějovice	99	80	A
-2112	542121	1	2	901	10	Jiří	Sadílek	M			69	řidič - údržbář	Lhota pod Džbánem	99	80	A
-2112	542121	1	2	901	11	Ivana	Fenclová	F			26	studentka	Mutějovice	99	80	A
-2112	542121	1	3	47	1	Pavel	Hrbek	M			45	státní zaměstnanec	Mutějovice	99	47	A
-2112	542121	1	3	47	2	Rostislav	Pátek	M			58	invalidní důchodce	Mutějovice	47	47	A
-2112	542121	1	3	47	3	Lenka	Vondráčková	F			50	operátorka	Mutějovice	99	47	A
-2112	542121	1	3	47	4	Pavel	Polák	M			53	obchodní zástupce	Mutějovice	99	47	A
-2112	542121	1	3	47	5	Jiří	Horák	M			71	důchodce	Mutějovice	99	47	A
-2112	542121	1	3	47	6	Bohuslav	Hübsch	M			65	důchodce	Mutějovice	47	47	A
-2112	542121	1	3	47	7	Ludmila	Turanová	F			64	důchodce	Mutějovice	99	47	A
-2112	542121	1	3	47	8	Anna	Difková	F			52	operátorka	Mutějovice	99	47	A
-2112	542121	1	3	47	9	Naděžda	Kuklová	F			54	invalidní důchodce	Mutějovice	99	47	A
-2112	542121	1	3	47	10	Jitka	Šeráková	F			56	invalidní důchodce	Mutějovice	99	47	A
-2112	542121	1	3	47	11	Václava	Klátilová	F			71	důchodce	Mutějovice	47	47	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2112	542121	1	1	902	1	Miroslav	Amler			59	provozní mistr	Mutějovice	99	80	A	M
+2112	542121	1	2	901	1	Martin	Pinka			52	starosta obce	Mutějovice	99	80	A	M
+2112	542121	1	3	47	1	Pavel	Hrbek			45	státní zaměstnanec	Mutějovice	99	47	A	M
+2112	542121	1	1	902	2	Kateřina	Bláhová			51	poštovní doručovatelka	Mutějovice	99	80	A	F
+2112	542121	1	2	901	2	Hana	Čudová			49	poštovní doručovatelka	Mutějovice	99	80	A	F
+2112	542121	1	3	47	2	Rostislav	Pátek			58	invalidní důchodce	Mutějovice	47	47	A	M
+2112	542121	1	1	902	3	Tomáš	Roubík			30	obchodní zástupce	Mutějovice	99	80	A	M
+2112	542121	1	2	901	3	Veronika	Kestřánová			42	administrativní pracovnice	Mutějovice	99	80	A	F
+2112	542121	1	3	47	3	Lenka	Vondráčková			50	operátorka	Mutějovice	99	47	A	F
+2112	542121	1	1	902	4	Jana	Koláčková			59	administrativní pracovnice	Mutějovice	99	80	A	F
+2112	542121	1	2	901	4	Eliška	Kafková			49	zdravotní sestra	Mutějovice	99	80	A	F
+2112	542121	1	3	47	4	Pavel	Polák			53	obchodní zástupce	Mutějovice	99	47	A	M
+2112	542121	1	1	902	5	Vladimír	Pleško			43	řidič - skladník	Lhota pod Džbánem	99	80	A	M
+2112	542121	1	2	901	5	Eva	Melčová			54	zdravotní sestra	Mutějovice	99	80	A	F
+2112	542121	1	3	47	5	Jiří	Horák			71	důchodce	Mutějovice	99	47	A	M
+2112	542121	1	1	902	6	Josef	Švamberk			48	OSVČ	Mutějovice	99	80	A	M
+2112	542121	1	2	901	6	Miloš	Česal			59	řidič - údržbář	Mutějovice	99	80	A	M
+2112	542121	1	3	47	6	Bohuslav	Hübsch			65	důchodce	Mutějovice	47	47	A	M
+2112	542121	1	1	902	7	Václav	Beránek			57	strojvedoucí	Mutějovice	99	80	A	M
+2112	542121	1	2	901	7	Markéta	Hartlová			41	redaktorka regionálního tisku	Mutějovice	99	80	A	F
+2112	542121	1	3	47	7	Ludmila	Turanová			64	důchodce	Mutějovice	99	47	A	F
+2112	542121	1	1	902	8	František	Česal			30	operátor výroby	Mutějovice	99	80	A	M
+2112	542121	1	2	901	8	Roman	Řičica			47	řidič - traktorista	Mutějovice	99	80	A	M
+2112	542121	1	3	47	8	Anna	Difková			52	operátorka	Mutějovice	99	47	A	F
+2112	542121	1	1	902	9	Tomáš	Koucký			50	servisní technik	Mutějovice	99	80	A	M
+2112	542121	1	2	901	9	Vojtěch	Beránek			33	lékárník	Mutějovice	99	80	A	M
+2112	542121	1	3	47	9	Naděžda	Kuklová			54	invalidní důchodce	Mutějovice	99	47	A	F
+2112	542121	1	1	902	10	Martina	Hovorková			54	OSVČ	Mutějovice	99	80	A	F
+2112	542121	1	2	901	10	Jiří	Sadílek			69	řidič - údržbář	Lhota pod Džbánem	99	80	A	M
+2112	542121	1	3	47	10	Jitka	Šeráková			56	invalidní důchodce	Mutějovice	99	47	A	F
+2112	542121	1	1	902	11	Eva	Jaššová			57	administrativní pracovnice	Lhota pod Džbánem	99	80	A	F
+2112	542121	1	2	901	11	Ivana	Fenclová			26	studentka	Mutějovice	99	80	A	F
+2112	542121	1	3	47	11	Václava	Klátilová			71	důchodce	Mutějovice	47	47	A	F

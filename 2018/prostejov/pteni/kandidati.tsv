@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589942	1	1	901	1	Pavel	Šnajdr	M			43	podnikatel	Ptení	99	80	A
-7103	589942	1	1	901	2	Martin	Komárek	M	Ing.		41	vědecký pracovník	Ptení	99	80	A
-7103	589942	1	1	901	3	Pavel	Kejík	M	Ing.		59	ekonom	Ptenský Dvorek	99	80	A
-7103	589942	1	1	901	4	Roman	Kotrla	M	Ing.		37	oblastní genetik	Ptení	99	80	A
-7103	589942	1	1	901	5	Martin	Horák	M			24	student práv	Ptení	721	80	A
-7103	589942	1	1	901	6	Margita	Fajstlová	F			42	krejčová	Ptení	99	80	A
-7103	589942	1	1	901	7	Martin	Musil	M			29	mistr výroby	Ptení	99	80	A
-7103	589942	1	1	901	8	Pavla	Dočkalová	F			39	redaktorka	Ptení	768	80	A
-7103	589942	1	1	901	9	Jiří	Boháč	M			53	podnikatel	Ptení	99	80	A
-7103	589942	1	1	901	10	Drahomíra	Fryčová	F			51	zubní laborantka	Ptení	99	80	A
-7103	589942	1	1	901	11	Zbyněk	Vítek	M			52	školník	Ptení	99	80	A
-7103	589942	1	2	1	1	Pavel	Šmidra	M			49	ekonom, jednatel společnosti	Ptení	99	1	A
-7103	589942	1	2	1	2	Ladislav	Šustr	M	Ing.		39	testovací inženýr	Ptení	99	1	A
-7103	589942	1	2	1	3	Ludmila	Horáková	F	Mgr.		54	ekonomka	Ptení	99	1	A
-7103	589942	1	2	1	4	Helena	Soldánová	F			47	květinářka	Ptení	99	1	A
-7103	589942	1	2	1	5	Ilona	Greplová	F		DiS.	37	na mateřské dovolené	Ptení	99	1	A
-7103	589942	1	2	1	6	Monika	Skulilová	F			44	radiologická asistentka	Ptení	99	1	A
-7103	589942	1	2	1	7	Květoslava	Rybová	F			47	operátor výroby	Ptení	99	1	A
-7103	589942	1	2	1	8	Marie	Stejskalová	F			54	zdravotní sestra	Ptení	99	1	A
-7103	589942	1	2	1	9	Vendula	Musilová	F			26	vedoucí směny - Sportisimo	Ptení	99	1	A
-7103	589942	1	2	1	10	Veronika	Dočkalová	F			38	zdravotní sestra	Ptení	99	1	A
-7103	589942	1	2	1	11	Václav	Dočkal	M			46	živnostník	Ptení	1	1	A
-7103	589942	1	3	902	1	Jiří	Porteš	M			55	starosta obce	Ptenský Dvorek	99	80	A
-7103	589942	1	3	902	2	Roman	Minx	M			42	technik	Ptení	99	80	A
-7103	589942	1	3	902	3	Markéta	Sekaninová	F	Mgr.		29	učitelka	Ptení	99	80	A
-7103	589942	1	3	902	4	Richard	Tříska	M			44	vedoucí technických provozů	Ptení	99	80	A
-7103	589942	1	3	902	5	Josef	Svoboda	M			49	vedoucí prodejny dřev.produktů	Ptenský Dvorek	99	80	A
-7103	589942	1	3	902	6	Miroslav	Peterka	M			35	pracovník ZOD Ptení	Ptení	99	80	A
-7103	589942	1	3	902	7	Tereza	Novotná	F	Ing.		30	dispečer výroby	Ptení	99	80	A
-7103	589942	1	3	902	8	Václav	Přikryl	M			36	voják z povolání	Ptení	99	80	A
-7103	589942	1	3	902	9	Eva	Kloudová	F			59	pracovník sociálních služeb	Ptenský Dvorek	99	80	A
-7103	589942	1	3	902	10	Rostislav	Trochta	M			25	servisní technik	Ptení	99	80	A
-7103	589942	1	3	902	11	Kateřina	Mikšíková	F	Mgr.		45	zástupce ředitele ZŠ	Ptení	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589942	1	1	901	1	Pavel	Šnajdr			43	podnikatel	Ptení	99	80	A	M
+7103	589942	1	2	1	1	Pavel	Šmidra			49	ekonom, jednatel společnosti	Ptení	99	1	A	M
+7103	589942	1	3	902	1	Jiří	Porteš			55	starosta obce	Ptenský Dvorek	99	80	A	M
+7103	589942	1	1	901	2	Martin	Komárek	Ing.		41	vědecký pracovník	Ptení	99	80	A	M
+7103	589942	1	2	1	2	Ladislav	Šustr	Ing.		39	testovací inženýr	Ptení	99	1	A	M
+7103	589942	1	3	902	2	Roman	Minx			42	technik	Ptení	99	80	A	M
+7103	589942	1	1	901	3	Pavel	Kejík	Ing.		59	ekonom	Ptenský Dvorek	99	80	A	M
+7103	589942	1	2	1	3	Ludmila	Horáková	Mgr.		54	ekonomka	Ptení	99	1	A	F
+7103	589942	1	3	902	3	Markéta	Sekaninová	Mgr.		29	učitelka	Ptení	99	80	A	F
+7103	589942	1	1	901	4	Roman	Kotrla	Ing.		37	oblastní genetik	Ptení	99	80	A	M
+7103	589942	1	2	1	4	Helena	Soldánová			47	květinářka	Ptení	99	1	A	F
+7103	589942	1	3	902	4	Richard	Tříska			44	vedoucí technických provozů	Ptení	99	80	A	M
+7103	589942	1	1	901	5	Martin	Horák			24	student práv	Ptení	721	80	A	M
+7103	589942	1	2	1	5	Ilona	Greplová		DiS.	37	na mateřské dovolené	Ptení	99	1	A	F
+7103	589942	1	3	902	5	Josef	Svoboda			49	vedoucí prodejny dřev.produktů	Ptenský Dvorek	99	80	A	M
+7103	589942	1	1	901	6	Margita	Fajstlová			42	krejčová	Ptení	99	80	A	F
+7103	589942	1	2	1	6	Monika	Skulilová			44	radiologická asistentka	Ptení	99	1	A	F
+7103	589942	1	3	902	6	Miroslav	Peterka			35	pracovník ZOD Ptení	Ptení	99	80	A	M
+7103	589942	1	1	901	7	Martin	Musil			29	mistr výroby	Ptení	99	80	A	M
+7103	589942	1	2	1	7	Květoslava	Rybová			47	operátor výroby	Ptení	99	1	A	F
+7103	589942	1	3	902	7	Tereza	Novotná	Ing.		30	dispečer výroby	Ptení	99	80	A	F
+7103	589942	1	1	901	8	Pavla	Dočkalová			39	redaktorka	Ptení	768	80	A	F
+7103	589942	1	2	1	8	Marie	Stejskalová			54	zdravotní sestra	Ptení	99	1	A	F
+7103	589942	1	3	902	8	Václav	Přikryl			36	voják z povolání	Ptení	99	80	A	M
+7103	589942	1	1	901	9	Jiří	Boháč			53	podnikatel	Ptení	99	80	A	M
+7103	589942	1	2	1	9	Vendula	Musilová			26	vedoucí směny - Sportisimo	Ptení	99	1	A	F
+7103	589942	1	3	902	9	Eva	Kloudová			59	pracovník sociálních služeb	Ptenský Dvorek	99	80	A	F
+7103	589942	1	1	901	10	Drahomíra	Fryčová			51	zubní laborantka	Ptení	99	80	A	F
+7103	589942	1	2	1	10	Veronika	Dočkalová			38	zdravotní sestra	Ptení	99	1	A	F
+7103	589942	1	3	902	10	Rostislav	Trochta			25	servisní technik	Ptení	99	80	A	M
+7103	589942	1	1	901	11	Zbyněk	Vítek			52	školník	Ptení	99	80	A	M
+7103	589942	1	2	1	11	Václav	Dočkal			46	živnostník	Ptení	1	1	A	M
+7103	589942	1	3	902	11	Kateřina	Mikšíková	Mgr.		45	zástupce ředitele ZŠ	Ptení	99	80	A	F

@@ -1,30 +1,30 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	549851	1	1	901	1	Pavla	Poláčková	F			36	manažer banky	Skály	99	80	0
-3104	549851	1	1	901	2	Pavel	Janík	M	Ing.		43	ředitel	Skály	99	80	0
-3104	549851	1	1	901	3	Michaela	Matějčková	F			27	zdravotní sestra	Skály	99	80	0
-3104	549851	1	1	901	4	Marie	Viktorová	F			39	referentka	Skály	99	80	0
-3104	549851	1	1	901	5	Pavel	Hanus	M	Ing.		25	státní zaměstnanec	Skály	99	80	0
-3104	549851	1	1	901	6	Jakub	Handschuh	M			28	staniční dozorce	Skály	99	80	0
-3104	549851	1	1	901	7	Pavel	Mlejnek	M			32	řezník	Skály	99	80	0
-3104	549851	1	1	901	8	Václav	Mráz	M			47	živnostník	Skály	99	80	0
-3104	549851	1	1	901	9	Václav	Čech	M			77	důchodce	Skály	99	80	0
-3104	549851	1	2	801	1	Petr	Hanus	M			38	lesník	Skály	99	80	0
-3104	549851	1	3	802	1	Petr	Matějček	M			30	lesník	Skály	99	80	0
-3104	549851	1	4	47	1	Vojtěch	Matouš	M			62	důchodce	Skály	47	47	0
-3104	549851	1	4	47	2	Jiří	Pexídr	M			66	důchodce	Skály	47	47	0
-3104	549851	1	4	47	3	Antonín	Prošek	M			59	důchodce	Skály	47	47	0
-3104	549851	1	4	47	4	Anna	Danielová	F			50	ošetřovatelka dojnic	Skály	99	47	0
-3104	549851	1	4	47	5	Josef	Němeček	M			71	důchodce	Skály	47	47	0
-3104	549851	1	4	47	6	Libuše	Kropáčková	F			64	důchodce	Skály	99	47	0
-3104	549851	1	4	47	7	Jaroslav	Hvězda	M			65	důchodce	Skály	47	47	0
-3104	549851	1	4	47	8	Josef	Kubík	M			64	důchodce	Budičovice	47	47	0
-3104	549851	1	4	47	9	Jaroslav	Marek	M			67	důchodce	Skály	99	47	0
-3104	549851	1	5	902	1	Jitka	Budínová	F			57	starostka obce	Skály	99	80	0
-3104	549851	1	5	902	2	Jaroslav	Babák	M			39	technik ČD	Skály	99	80	0
-3104	549851	1	5	902	3	Jaroslav	Vorel	M			36	dělník	Skály	99	80	0
-3104	549851	1	5	902	4	Milan	Pexídr	M	Ing.		30	technik	Skály	99	80	0
-3104	549851	1	5	902	5	Jaroslav	Kubec	M			58	zedník	Skály	99	80	0
-3104	549851	1	5	902	6	Jiří	Profant	M			23	administrátor pošt	Skály	99	80	0
-3104	549851	1	5	902	7	Naděžda	Votavová	F			55	vychovatelka	Skály	99	80	0
-3104	549851	1	5	902	8	Jaroslav	Vavruška	M			53	dělník	Skály	99	80	0
-3104	549851	1	5	902	9	Šimon	Kortiš	M			58	zaměstnanec obecního úřadu	Skály	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	549851	1	1	901	1	Pavla	Poláčková			36	manažer banky	Skály	99	80	0	F
+3104	549851	1	2	801	1	Petr	Hanus			38	lesník	Skály	99	80	0	M
+3104	549851	1	3	802	1	Petr	Matějček			30	lesník	Skály	99	80	0	M
+3104	549851	1	4	47	1	Vojtěch	Matouš			62	důchodce	Skály	47	47	0	M
+3104	549851	1	5	902	1	Jitka	Budínová			57	starostka obce	Skály	99	80	0	F
+3104	549851	1	1	901	2	Pavel	Janík	Ing.		43	ředitel	Skály	99	80	0	M
+3104	549851	1	4	47	2	Jiří	Pexídr			66	důchodce	Skály	47	47	0	M
+3104	549851	1	5	902	2	Jaroslav	Babák			39	technik ČD	Skály	99	80	0	M
+3104	549851	1	1	901	3	Michaela	Matějčková			27	zdravotní sestra	Skály	99	80	0	F
+3104	549851	1	4	47	3	Antonín	Prošek			59	důchodce	Skály	47	47	0	M
+3104	549851	1	5	902	3	Jaroslav	Vorel			36	dělník	Skály	99	80	0	M
+3104	549851	1	1	901	4	Marie	Viktorová			39	referentka	Skály	99	80	0	F
+3104	549851	1	4	47	4	Anna	Danielová			50	ošetřovatelka dojnic	Skály	99	47	0	F
+3104	549851	1	5	902	4	Milan	Pexídr	Ing.		30	technik	Skály	99	80	0	M
+3104	549851	1	1	901	5	Pavel	Hanus	Ing.		25	státní zaměstnanec	Skály	99	80	0	M
+3104	549851	1	4	47	5	Josef	Němeček			71	důchodce	Skály	47	47	0	M
+3104	549851	1	5	902	5	Jaroslav	Kubec			58	zedník	Skály	99	80	0	M
+3104	549851	1	1	901	6	Jakub	Handschuh			28	staniční dozorce	Skály	99	80	0	M
+3104	549851	1	4	47	6	Libuše	Kropáčková			64	důchodce	Skály	99	47	0	F
+3104	549851	1	5	902	6	Jiří	Profant			23	administrátor pošt	Skály	99	80	0	M
+3104	549851	1	1	901	7	Pavel	Mlejnek			32	řezník	Skály	99	80	0	M
+3104	549851	1	4	47	7	Jaroslav	Hvězda			65	důchodce	Skály	47	47	0	M
+3104	549851	1	5	902	7	Naděžda	Votavová			55	vychovatelka	Skály	99	80	0	F
+3104	549851	1	1	901	8	Václav	Mráz			47	živnostník	Skály	99	80	0	M
+3104	549851	1	4	47	8	Josef	Kubík			64	důchodce	Budičovice	47	47	0	M
+3104	549851	1	5	902	8	Jaroslav	Vavruška			53	dělník	Skály	99	80	0	M
+3104	549851	1	1	901	9	Václav	Čech			77	důchodce	Skály	99	80	0	M
+3104	549851	1	4	47	9	Jaroslav	Marek			67	důchodce	Skály	99	47	0	M
+3104	549851	1	5	902	9	Šimon	Kortiš			58	zaměstnanec obecního úřadu	Skály	99	80	0	M

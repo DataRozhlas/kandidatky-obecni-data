@@ -1,16 +1,16 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	539104	1	1	7	1	Helena	Dufková	F			55	účetní	Bojanovice	99	7	0
-2110	539104	1	1	7	2	František	Sleza	M			60	opravář	Senešnice	99	7	0
-2110	539104	1	1	7	3	Josef	Rákosník	M			63	zem. podnikatel	Malá Lečice	99	7	0
-2110	539104	1	1	7	4	Josef	Malý	M			33	obchod. zástupce	Malá Lečice	99	7	0
-2110	539104	1	1	7	5	Jiří	Bestahovský	M			34	údržbář	Senešnice	99	7	0
-2110	539104	1	1	7	6	Luboš	Punčochář	M			46	dělník	Malá Lečice	99	7	0
-2110	539104	1	1	7	7	Milena	Matysová	F			45	dělnice	Senešnice	99	7	0
-2110	539104	1	2	801	1	Martin	Buňát	M			45	řidič	Bojanovice	99	80	0
-2110	539104	1	3	5	1	Václav	Branný	M	Mgr. Bc.		52	úředník	Bojanovice	5	5	0
-2110	539104	1	3	5	2	Petr	Záhora	M			41	strojník	Bojanovice	5	5	0
-2110	539104	1	3	5	3	Veronika	Hoppová	F		DiS.	24	odborná účetní	Bojanovice	99	5	1
-2110	539104	1	3	5	4	Miroslav	Kasal	M			62	poradce ČP	Bojanovice	99	5	0
-2110	539104	1	3	5	5	Michal	Rys	M			40	řidič-zemědělec	Bojanovice	99	5	0
-2110	539104	1	3	5	6	Jitka	Mrázová	F			35	úřednice	Bojanovice	5	5	0
-2110	539104	1	3	5	7	Jiří	Rada	M			31	IT specialista	Bojanovice	99	5	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	539104	1	1	7	1	Helena	Dufková			55	účetní	Bojanovice	99	7	0	F
+2110	539104	1	2	801	1	Martin	Buňát			45	řidič	Bojanovice	99	80	0	M
+2110	539104	1	3	5	1	Václav	Branný	Mgr. Bc.		52	úředník	Bojanovice	5	5	0	M
+2110	539104	1	1	7	2	František	Sleza			60	opravář	Senešnice	99	7	0	M
+2110	539104	1	3	5	2	Petr	Záhora			41	strojník	Bojanovice	5	5	0	M
+2110	539104	1	1	7	3	Josef	Rákosník			63	zem. podnikatel	Malá Lečice	99	7	0	M
+2110	539104	1	3	5	3	Veronika	Hoppová		DiS.	24	odborná účetní	Bojanovice	99	5	1	F
+2110	539104	1	1	7	4	Josef	Malý			33	obchod. zástupce	Malá Lečice	99	7	0	M
+2110	539104	1	3	5	4	Miroslav	Kasal			62	poradce ČP	Bojanovice	99	5	0	M
+2110	539104	1	1	7	5	Jiří	Bestahovský			34	údržbář	Senešnice	99	7	0	M
+2110	539104	1	3	5	5	Michal	Rys			40	řidič-zemědělec	Bojanovice	99	5	0	M
+2110	539104	1	1	7	6	Luboš	Punčochář			46	dělník	Malá Lečice	99	7	0	M
+2110	539104	1	3	5	6	Jitka	Mrázová			35	úřednice	Bojanovice	5	5	0	F
+2110	539104	1	1	7	7	Milena	Matysová			45	dělnice	Senešnice	99	7	0	F
+2110	539104	1	3	5	7	Jiří	Rada			31	IT specialista	Bojanovice	99	5	0	M

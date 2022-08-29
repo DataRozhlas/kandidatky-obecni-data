@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5104	577677	1	1	901	1	Ivan František	Herbst	M			68	úředník	Ploukonice	99	80	0
-5104	577677	1	1	901	2	Pavel	Marek	M			67	živnostník	Všeň	99	80	0
-5104	577677	1	1	901	3	Kristýna	Brožová	F	Ing.		24	asistentka daň. poradce	Všeň	99	80	0
-5104	577677	1	1	901	4	Petr	Masopust	M			55	stavitel - podnikatel	Ploukonice	99	80	0
-5104	577677	1	1	901	5	Jan	Lachman	M	Ing.	Ph.D.	42	ředitel	Všeň	99	80	0
-5104	577677	1	1	901	6	Petr	Jiránek	M			41	podnikatel	Všeň	99	80	0
-5104	577677	1	1	901	7	Josef	Louda	M			59	technik	Ploukonice	99	80	0
-5104	577677	1	1	901	8	Dobroslava	Hakenová	F	MUDr.		53	praktická lékařka	Všeň	99	80	0
-5104	577677	1	1	901	9	Miroslav	Vávra	M	Mgr.		53	ředitel gymnázia	Všeň	99	80	0
-5104	577677	1	1	901	10	Hana	Hlůžová	F			30	asistentka logistiky	Mokrý	99	80	0
-5104	577677	1	1	901	11	Pavel	Krejčí	M	Bc.		37	ředitel útvaru jakosti	Všeň	99	80	0
-5104	577677	1	1	901	12	Václav	Cymbál	M			33	zámečník	Mokrý	99	80	0
-5104	577677	1	1	901	13	Petr	Bursa	M			33	makléř realitní firmy	Všeň	99	80	0
-5104	577677	1	1	901	14	Václav	Beran	M			62	zámečník	Všeň	99	80	0
-5104	577677	1	1	901	15	Libor	Král	M			36	přestavbář	Všeň	99	80	0
-5104	577677	1	2	902	1	Stanislava	Šťastná	F			34	administrativní pracovnice	Mokrý	99	80	0
-5104	577677	1	2	902	2	Iva	Skupová	F			38	poštovní úřednice	Mokrý	99	80	0
-5104	577677	1	2	902	3	Libuše	Kožená	F			44	účetní	Ploukonice	99	80	0
-5104	577677	1	2	902	4	Zdeněk	Fukárek	M			47	živnostník	Všeň	99	80	0
-5104	577677	1	2	902	5	Renáta	Knížková	F	Mgr.		37	učitelka	Všeň	99	80	0
-5104	577677	1	2	902	6	Radim	Janeček	M	Ing.		57	podnikatel	Všeň	99	80	0
-5104	577677	1	2	902	7	Josef	Ječný	M			23	konstruktér	Všeň	99	80	0
-5104	577677	1	2	902	8	Blanka	Burešová	F	Ing.		32	podnikatelka	Mokrý	99	80	0
-5104	577677	1	2	902	9	Josef	Rouče	M			26	policista	Všeň	99	80	0
-5104	577677	1	2	902	10	Marcela	Kábrtová	F			44	kuchařka	Všeň	99	80	0
-5104	577677	1	2	902	11	Martina	Marková	F	Bc.		34	asistentka	Všeň	99	80	0
-5104	577677	1	2	902	12	David	Marek	M			31	automechanik	Ploukonice	99	80	0
-5104	577677	1	2	902	13	Jan	Klápště	M			39	technik	Mokrý	99	80	0
-5104	577677	1	2	902	14	Angelika	Špetlíková	F			38	prodavačka	Všeň	99	80	0
-5104	577677	1	2	902	15	Vladimír	Chvojka	M			63	důchodce	Mokrý	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5104	577677	1	1	901	1	Ivan František	Herbst			68	úředník	Ploukonice	99	80	0	M
+5104	577677	1	2	902	1	Stanislava	Šťastná			34	administrativní pracovnice	Mokrý	99	80	0	F
+5104	577677	1	1	901	2	Pavel	Marek			67	živnostník	Všeň	99	80	0	M
+5104	577677	1	2	902	2	Iva	Skupová			38	poštovní úřednice	Mokrý	99	80	0	F
+5104	577677	1	1	901	3	Kristýna	Brožová	Ing.		24	asistentka daň. poradce	Všeň	99	80	0	F
+5104	577677	1	2	902	3	Libuše	Kožená			44	účetní	Ploukonice	99	80	0	F
+5104	577677	1	1	901	4	Petr	Masopust			55	stavitel - podnikatel	Ploukonice	99	80	0	M
+5104	577677	1	2	902	4	Zdeněk	Fukárek			47	živnostník	Všeň	99	80	0	M
+5104	577677	1	1	901	5	Jan	Lachman	Ing.	Ph.D.	42	ředitel	Všeň	99	80	0	M
+5104	577677	1	2	902	5	Renáta	Knížková	Mgr.		37	učitelka	Všeň	99	80	0	F
+5104	577677	1	1	901	6	Petr	Jiránek			41	podnikatel	Všeň	99	80	0	M
+5104	577677	1	2	902	6	Radim	Janeček	Ing.		57	podnikatel	Všeň	99	80	0	M
+5104	577677	1	1	901	7	Josef	Louda			59	technik	Ploukonice	99	80	0	M
+5104	577677	1	2	902	7	Josef	Ječný			23	konstruktér	Všeň	99	80	0	M
+5104	577677	1	1	901	8	Dobroslava	Hakenová	MUDr.		53	praktická lékařka	Všeň	99	80	0	F
+5104	577677	1	2	902	8	Blanka	Burešová	Ing.		32	podnikatelka	Mokrý	99	80	0	F
+5104	577677	1	1	901	9	Miroslav	Vávra	Mgr.		53	ředitel gymnázia	Všeň	99	80	0	M
+5104	577677	1	2	902	9	Josef	Rouče			26	policista	Všeň	99	80	0	M
+5104	577677	1	1	901	10	Hana	Hlůžová			30	asistentka logistiky	Mokrý	99	80	0	F
+5104	577677	1	2	902	10	Marcela	Kábrtová			44	kuchařka	Všeň	99	80	0	F
+5104	577677	1	1	901	11	Pavel	Krejčí	Bc.		37	ředitel útvaru jakosti	Všeň	99	80	0	M
+5104	577677	1	2	902	11	Martina	Marková	Bc.		34	asistentka	Všeň	99	80	0	F
+5104	577677	1	1	901	12	Václav	Cymbál			33	zámečník	Mokrý	99	80	0	M
+5104	577677	1	2	902	12	David	Marek			31	automechanik	Ploukonice	99	80	0	M
+5104	577677	1	1	901	13	Petr	Bursa			33	makléř realitní firmy	Všeň	99	80	0	M
+5104	577677	1	2	902	13	Jan	Klápště			39	technik	Mokrý	99	80	0	M
+5104	577677	1	1	901	14	Václav	Beran			62	zámečník	Všeň	99	80	0	M
+5104	577677	1	2	902	14	Angelika	Špetlíková			38	prodavačka	Všeň	99	80	0	F
+5104	577677	1	1	901	15	Libor	Král			36	přestavbář	Všeň	99	80	0	M
+5104	577677	1	2	902	15	Vladimír	Chvojka			63	důchodce	Mokrý	99	80	0	M

@@ -1,34 +1,34 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	564575	1	1	901	1	Michal	Stanislav	M			42	projektant	Bechlín	99	80	A
-4203	564575	1	1	901	2	Jan	Drobný	M	Mgr. Ing.		37	advokát	Předonín	99	80	A
-4203	564575	1	1	901	3	Vladimír	Drobný	M	Ing.	Ph.D.	39	vedoucí odboru ČD	Předonín	99	80	A
-4203	564575	1	1	901	4	Jiří	Medek	M	Ing.		48	obchodní ředitel	Předonín	99	80	A
-4203	564575	1	1	901	5	Jaroslav	Šolc	M			65	soukromě hospodařící rolník	Bechlín	99	80	A
-4203	564575	1	1	901	6	Miroslav	Fořt	M			40	ekolog	Předonín	99	80	A
-4203	564575	1	1	901	7	Tomáš	Bajgl	M			22	student	Bechlín	99	80	A
-4203	564575	1	1	901	8	Michal	Šolc	M			42	vedoucí logistiky	Bechlín	99	80	A
-4203	564575	1	1	901	9	Lenka	Svobodová	F	Ing.		52	specialista informačních technologií	Předonín	99	80	A
-4203	564575	1	1	901	10	Ondřej	Macek	M			19	obchodní zástupce	Bechlín	99	80	A
-4203	564575	1	1	901	11	Věra	Nicková	F			62	důchodce	Bechlín	99	80	A
-4203	564575	1	2	902	1	Zdeňka	Fillerová Studená	F	Mgr.		33	ředitelka školského zařízení, novinářka	Bechlín	99	80	A
-4203	564575	1	2	902	2	Tomáš	Cedrych	M			35	obchodní zástupce	Bechlín	99	80	A
-4203	564575	1	2	902	3	Jitka	Kouřilová	F	Bc.		25	učitelka základní školy	Předonín	99	80	A
-4203	564575	1	2	902	4	Vlastimil	Kotě	M	Ing.		31	inženýr mikroelektroniky	Bechlín	99	80	A
-4203	564575	1	2	902	5	Pavel	Carda	M			40	mechanik elektro	Bechlín	99	80	A
-4203	564575	1	2	902	6	Tomáš	Dvořák	M			32	hasič	Předonín	99	80	A
-4203	564575	1	2	902	7	Martin	Jaroš	M			41	dělník	Bechlín	99	80	A
-4203	564575	1	2	902	8	Zuzana	Králová	F			30	administrativní pracovnice	Předonín	99	80	A
-4203	564575	1	2	902	9	Kateřina	Kubíčková	F	Bc.		32	konzultantka v sociální oblasti	Předonín	99	80	A
-4203	564575	1	2	902	10	Ladislav	Husák	M			31	instalatér	Bechlín	99	80	A
-4203	564575	1	2	902	11	Miroslav	Preibiš	M			36	služby pro automobily	Bechlín	99	80	A
-4203	564575	1	3	7	1	Alexander	Suchý	M			60	starosta	Bechlín	99	7	A
-4203	564575	1	3	7	2	Jaroslav	Vocásek	M			55	elektromontér	Předonín	99	7	A
-4203	564575	1	3	7	3	Jana	Jonáková	F			56	vedoucí účetní	Předonín	99	7	A
-4203	564575	1	3	7	4	Stanislav	Stanislav	M			42	stavební podnikatel	Bechlín	99	7	A
-4203	564575	1	3	7	5	Milan	Fiala	M			49	správce budov	Bechlín	99	7	A
-4203	564575	1	3	7	6	Vladimíra	Müllerová	F			53	referent	Bechlín	99	7	A
-4203	564575	1	3	7	7	Ladislav	Soušek	M	Ing.		71	penzista	Předonín	99	7	A
-4203	564575	1	3	7	8	Stanislav	Špaček	M			38	operátor skladu	Bechlín	99	7	A
-4203	564575	1	3	7	9	Jitka	Balšánková	F			43	obsluha čerpací stanice	Bechlín	99	7	A
-4203	564575	1	3	7	10	Gabriela	Hubená	F			36	vychovatelka	Předonín	99	7	A
-4203	564575	1	3	7	11	Miroslav	Poláček	M			64	penzista	Bechlín	99	7	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	564575	1	1	901	1	Michal	Stanislav			42	projektant	Bechlín	99	80	A	M
+4203	564575	1	2	902	1	Zdeňka	Fillerová Studená	Mgr.		33	ředitelka školského zařízení, novinářka	Bechlín	99	80	A	F
+4203	564575	1	3	7	1	Alexander	Suchý			60	starosta	Bechlín	99	7	A	M
+4203	564575	1	1	901	2	Jan	Drobný	Mgr. Ing.		37	advokát	Předonín	99	80	A	M
+4203	564575	1	2	902	2	Tomáš	Cedrych			35	obchodní zástupce	Bechlín	99	80	A	M
+4203	564575	1	3	7	2	Jaroslav	Vocásek			55	elektromontér	Předonín	99	7	A	M
+4203	564575	1	1	901	3	Vladimír	Drobný	Ing.	Ph.D.	39	vedoucí odboru ČD	Předonín	99	80	A	M
+4203	564575	1	2	902	3	Jitka	Kouřilová	Bc.		25	učitelka základní školy	Předonín	99	80	A	F
+4203	564575	1	3	7	3	Jana	Jonáková			56	vedoucí účetní	Předonín	99	7	A	F
+4203	564575	1	1	901	4	Jiří	Medek	Ing.		48	obchodní ředitel	Předonín	99	80	A	M
+4203	564575	1	2	902	4	Vlastimil	Kotě	Ing.		31	inženýr mikroelektroniky	Bechlín	99	80	A	M
+4203	564575	1	3	7	4	Stanislav	Stanislav			42	stavební podnikatel	Bechlín	99	7	A	M
+4203	564575	1	1	901	5	Jaroslav	Šolc			65	soukromě hospodařící rolník	Bechlín	99	80	A	M
+4203	564575	1	2	902	5	Pavel	Carda			40	mechanik elektro	Bechlín	99	80	A	M
+4203	564575	1	3	7	5	Milan	Fiala			49	správce budov	Bechlín	99	7	A	M
+4203	564575	1	1	901	6	Miroslav	Fořt			40	ekolog	Předonín	99	80	A	M
+4203	564575	1	2	902	6	Tomáš	Dvořák			32	hasič	Předonín	99	80	A	M
+4203	564575	1	3	7	6	Vladimíra	Müllerová			53	referent	Bechlín	99	7	A	F
+4203	564575	1	1	901	7	Tomáš	Bajgl			22	student	Bechlín	99	80	A	M
+4203	564575	1	2	902	7	Martin	Jaroš			41	dělník	Bechlín	99	80	A	M
+4203	564575	1	3	7	7	Ladislav	Soušek	Ing.		71	penzista	Předonín	99	7	A	M
+4203	564575	1	1	901	8	Michal	Šolc			42	vedoucí logistiky	Bechlín	99	80	A	M
+4203	564575	1	2	902	8	Zuzana	Králová			30	administrativní pracovnice	Předonín	99	80	A	F
+4203	564575	1	3	7	8	Stanislav	Špaček			38	operátor skladu	Bechlín	99	7	A	M
+4203	564575	1	1	901	9	Lenka	Svobodová	Ing.		52	specialista informačních technologií	Předonín	99	80	A	F
+4203	564575	1	2	902	9	Kateřina	Kubíčková	Bc.		32	konzultantka v sociální oblasti	Předonín	99	80	A	F
+4203	564575	1	3	7	9	Jitka	Balšánková			43	obsluha čerpací stanice	Bechlín	99	7	A	F
+4203	564575	1	1	901	10	Ondřej	Macek			19	obchodní zástupce	Bechlín	99	80	A	M
+4203	564575	1	2	902	10	Ladislav	Husák			31	instalatér	Bechlín	99	80	A	M
+4203	564575	1	3	7	10	Gabriela	Hubená			36	vychovatelka	Předonín	99	7	A	F
+4203	564575	1	1	901	11	Věra	Nicková			62	důchodce	Bechlín	99	80	A	F
+4203	564575	1	2	902	11	Miroslav	Preibiš			36	služby pro automobily	Bechlín	99	80	A	M
+4203	564575	1	3	7	11	Miroslav	Poláček			64	penzista	Bechlín	99	7	A	M

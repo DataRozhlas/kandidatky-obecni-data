@@ -1,40 +1,40 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2104	533751	1	1	902	1	Lenka	Růžková	F			49	účetní	Třebovle	99	80	0
-2104	533751	1	1	902	2	Josef	Jasanský	M			50	ostraha	Třebovle	99	80	0
-2104	533751	1	1	902	3	Petr	Kučera	M			39	traktorista	Borek	99	80	0
-2104	533751	1	1	902	4	Robert	Starý	M			38	podnikatel	Třebovle	99	80	0
-2104	533751	1	1	902	5	Josef	Kocourek	M			48	řidič	Třebovle	99	80	0
-2104	533751	1	1	902	6	Alice	Černá	F			56	podnikatelka	Třebovle	99	80	0
-2104	533751	1	1	902	7	Kateřina	Vnuková	F			18	studentka	Třebovle	99	80	0
-2104	533751	1	1	902	8	Jana	Kovaříková	F			37	dělnice	Třebovle	99	80	0
-2104	533751	1	1	902	9	Jiří	Trnka	M			34	vězeňská služba ČR	Třebovle	99	80	0
-2104	533751	1	2	904	1	Zdeňka	Kardošová	F			59	vedoucí oddělení OSVČ	Třebovle	99	80	0
-2104	533751	1	2	904	2	Světlana	Mackovíková	F			54	dispečer dopravy	Borek	99	80	0
-2104	533751	1	2	904	3	Zdeněk	Pop	M			30	zámečník	Třebovle	99	80	0
-2104	533751	1	2	904	4	Jiří	Pokorný	M			28	technik	Třebovle	99	80	0
-2104	533751	1	2	904	5	Marek	Rejhon	M			37	řidič	Třebovle	99	80	0
-2104	533751	1	2	904	6	Pavel	Sůva	M			38	zedník	Třebovle	99	80	0
-2104	533751	1	2	904	7	Josef	Hadrbolec	M			65	důchodce	Třebovle	99	80	0
-2104	533751	1	3	387	1	Zdeněk	Pop	M			58	opravář zemědělských strojů	Třebovle	47	47	0
-2104	533751	1	3	387	2	Josef	Vnuk	M			41	řezník	Třebovle	99	47	0
-2104	533751	1	3	387	3	Jan	Rejhon	M			35	zedník	Třebovle	99	47	0
-2104	533751	1	3	387	4	Zdeněk	Mackovík	M			51	vrátný	Borek	99	47	0
-2104	533751	1	3	387	5	Romana	Kolesníková	F			32	švadlena	Třebovle	99	47	0
-2104	533751	1	3	387	6	Naděžda	Bičáková	F			62	důchodkyně	Třebovle	99	47	0
-2104	533751	1	3	387	7	Josef	Kardoš	M			34	technolog	Třebovle	99	47	0
-2104	533751	1	4	901	1	Josef	Bureš	M	Mgr.		32	vedoucí oddělení aplikační podpory	Miškovice	99	80	0
-2104	533751	1	4	901	2	Patrik	Mičech	M			38	soukromý podnikatel	Miškovice	99	80	0
-2104	533751	1	4	901	3	Helena	Kliková	F			36	prodavačka	Miškovice	99	80	0
-2104	533751	1	4	901	4	Jana	Krausová	F			45	mzdová účetní	Miškovice	99	80	0
-2104	533751	1	4	901	5	Lukáš	Richter	M			34	nákupčí provozu	Miškovice	99	80	0
-2104	533751	1	4	901	6	Iveta	Hanelová	F			43	bezpečnostní pracovník	Miškovice	99	80	0
-2104	533751	1	4	901	7	Vladimír	Hykš	M			51	skladník	Miškovice	99	80	0
-2104	533751	1	5	903	1	Martina	Dvořáková	F			42	prodavačka	Třebovle	99	80	0
-2104	533751	1	5	903	2	Marek	Novák	M			39	řidič	Třebovle	99	80	0
-2104	533751	1	5	903	3	Karel	Vacek	M			64	důchodce	Třebovle	99	80	0
-2104	533751	1	5	903	4	Petr	Machka	M			40	elektroinstalatér	Třebovle	99	80	0
-2104	533751	1	5	903	5	Jiří	Jandus	M			39	asfaltér	Třebovle	99	80	0
-2104	533751	1	5	903	6	Jakub	Částka	M			38	řidič	Miškovice	99	80	0
-2104	533751	1	5	903	7	Milada	Rosická	F			80	důchodkyně	Borek	99	80	0
-2104	533751	1	5	903	8	František	Vnuk	M			40	živnostník	Třebovle	99	80	0
-2104	533751	1	5	903	9	Martin	Kirlík	M	Ing.		35	technik - projektant	Třebovle	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2104	533751	1	1	902	1	Lenka	Růžková			49	účetní	Třebovle	99	80	0	F
+2104	533751	1	2	904	1	Zdeňka	Kardošová			59	vedoucí oddělení OSVČ	Třebovle	99	80	0	F
+2104	533751	1	3	387	1	Zdeněk	Pop			58	opravář zemědělských strojů	Třebovle	47	47	0	M
+2104	533751	1	4	901	1	Josef	Bureš	Mgr.		32	vedoucí oddělení aplikační podpory	Miškovice	99	80	0	M
+2104	533751	1	5	903	1	Martina	Dvořáková			42	prodavačka	Třebovle	99	80	0	F
+2104	533751	1	1	902	2	Josef	Jasanský			50	ostraha	Třebovle	99	80	0	M
+2104	533751	1	2	904	2	Světlana	Mackovíková			54	dispečer dopravy	Borek	99	80	0	F
+2104	533751	1	3	387	2	Josef	Vnuk			41	řezník	Třebovle	99	47	0	M
+2104	533751	1	4	901	2	Patrik	Mičech			38	soukromý podnikatel	Miškovice	99	80	0	M
+2104	533751	1	5	903	2	Marek	Novák			39	řidič	Třebovle	99	80	0	M
+2104	533751	1	1	902	3	Petr	Kučera			39	traktorista	Borek	99	80	0	M
+2104	533751	1	2	904	3	Zdeněk	Pop			30	zámečník	Třebovle	99	80	0	M
+2104	533751	1	3	387	3	Jan	Rejhon			35	zedník	Třebovle	99	47	0	M
+2104	533751	1	4	901	3	Helena	Kliková			36	prodavačka	Miškovice	99	80	0	F
+2104	533751	1	5	903	3	Karel	Vacek			64	důchodce	Třebovle	99	80	0	M
+2104	533751	1	1	902	4	Robert	Starý			38	podnikatel	Třebovle	99	80	0	M
+2104	533751	1	2	904	4	Jiří	Pokorný			28	technik	Třebovle	99	80	0	M
+2104	533751	1	3	387	4	Zdeněk	Mackovík			51	vrátný	Borek	99	47	0	M
+2104	533751	1	4	901	4	Jana	Krausová			45	mzdová účetní	Miškovice	99	80	0	F
+2104	533751	1	5	903	4	Petr	Machka			40	elektroinstalatér	Třebovle	99	80	0	M
+2104	533751	1	1	902	5	Josef	Kocourek			48	řidič	Třebovle	99	80	0	M
+2104	533751	1	2	904	5	Marek	Rejhon			37	řidič	Třebovle	99	80	0	M
+2104	533751	1	3	387	5	Romana	Kolesníková			32	švadlena	Třebovle	99	47	0	F
+2104	533751	1	4	901	5	Lukáš	Richter			34	nákupčí provozu	Miškovice	99	80	0	M
+2104	533751	1	5	903	5	Jiří	Jandus			39	asfaltér	Třebovle	99	80	0	M
+2104	533751	1	1	902	6	Alice	Černá			56	podnikatelka	Třebovle	99	80	0	F
+2104	533751	1	2	904	6	Pavel	Sůva			38	zedník	Třebovle	99	80	0	M
+2104	533751	1	3	387	6	Naděžda	Bičáková			62	důchodkyně	Třebovle	99	47	0	F
+2104	533751	1	4	901	6	Iveta	Hanelová			43	bezpečnostní pracovník	Miškovice	99	80	0	F
+2104	533751	1	5	903	6	Jakub	Částka			38	řidič	Miškovice	99	80	0	M
+2104	533751	1	1	902	7	Kateřina	Vnuková			18	studentka	Třebovle	99	80	0	F
+2104	533751	1	2	904	7	Josef	Hadrbolec			65	důchodce	Třebovle	99	80	0	M
+2104	533751	1	3	387	7	Josef	Kardoš			34	technolog	Třebovle	99	47	0	M
+2104	533751	1	4	901	7	Vladimír	Hykš			51	skladník	Miškovice	99	80	0	M
+2104	533751	1	5	903	7	Milada	Rosická			80	důchodkyně	Borek	99	80	0	F
+2104	533751	1	1	902	8	Jana	Kovaříková			37	dělnice	Třebovle	99	80	0	F
+2104	533751	1	5	903	8	František	Vnuk			40	živnostník	Třebovle	99	80	0	M
+2104	533751	1	1	902	9	Jiří	Trnka			34	vězeňská služba ČR	Třebovle	99	80	0	M
+2104	533751	1	5	903	9	Martin	Kirlík	Ing.		35	technik - projektant	Třebovle	99	80	0	M

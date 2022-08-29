@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4205	567353	1	1	901	1	Alois	Macháč	M			45	mistr-výroby	Polerady	99	80	A
-4205	567353	1	1	901	2	Václav	Fiala	M			44	vedoucí provozu	Polerady	99	80	A
-4205	567353	1	1	901	3	Ladislav	Červenka	M			57	provozní zámečník	Polerady	99	80	A
-4205	567353	1	1	901	4	Lukáš	Sladký	M			38	řidič	Polerady	99	80	A
-4205	567353	1	1	901	5	Jiřina	Sýkorová	F			52	vyšší soudní úředník	Polerady	99	80	A
-4205	567353	1	1	901	6	Radek	Mühl	M	Ing.		44	státní zaměstnanec	Polerady	99	80	A
-4205	567353	1	1	901	7	Jana	Ulrichová	F			44	prodavačka	Polerady	99	80	A
-4205	567353	1	2	7	1	Jaroslav	Kunc	M	Ing.		48	státní zaměstnanec	Polerady	7	7	A
-4205	567353	1	2	7	2	Petr	Mayer	M			37	elektrotechnik	Polerady	99	7	A
-4205	567353	1	2	7	3	Monika	Hnátková	F	Ing.		40	státní zaměstnanec	Polerady	99	7	A
-4205	567353	1	2	7	4	Marcela	Poděbradská	F			63	důchodkyně	Polerady	99	7	A
-4205	567353	1	2	7	5	Martin	Kunc	M			26	OSVČ	Polerady	99	7	A
-4205	567353	1	2	7	6	Michal	Pýcha	M			25	obsluha BS	Polerady	99	7	A
-4205	567353	1	2	7	7	Jana	Kuncová	F			44	pracovnice distribučního centra	Polerady	99	7	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4205	567353	1	1	901	1	Alois	Macháč			45	mistr-výroby	Polerady	99	80	A	M
+4205	567353	1	2	7	1	Jaroslav	Kunc	Ing.		48	státní zaměstnanec	Polerady	7	7	A	M
+4205	567353	1	1	901	2	Václav	Fiala			44	vedoucí provozu	Polerady	99	80	A	M
+4205	567353	1	2	7	2	Petr	Mayer			37	elektrotechnik	Polerady	99	7	A	M
+4205	567353	1	1	901	3	Ladislav	Červenka			57	provozní zámečník	Polerady	99	80	A	M
+4205	567353	1	2	7	3	Monika	Hnátková	Ing.		40	státní zaměstnanec	Polerady	99	7	A	F
+4205	567353	1	1	901	4	Lukáš	Sladký			38	řidič	Polerady	99	80	A	M
+4205	567353	1	2	7	4	Marcela	Poděbradská			63	důchodkyně	Polerady	99	7	A	F
+4205	567353	1	1	901	5	Jiřina	Sýkorová			52	vyšší soudní úředník	Polerady	99	80	A	F
+4205	567353	1	2	7	5	Martin	Kunc			26	OSVČ	Polerady	99	7	A	M
+4205	567353	1	1	901	6	Radek	Mühl	Ing.		44	státní zaměstnanec	Polerady	99	80	A	M
+4205	567353	1	2	7	6	Michal	Pýcha			25	obsluha BS	Polerady	99	7	A	M
+4205	567353	1	1	901	7	Jana	Ulrichová			44	prodavačka	Polerady	99	80	A	F
+4205	567353	1	2	7	7	Jana	Kuncová			44	pracovnice distribučního centra	Polerady	99	7	A	F

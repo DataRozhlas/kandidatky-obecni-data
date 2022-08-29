@@ -1,38 +1,38 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	549428	1	1	901	1	Helena	Černá	F	Ing.		32	na mateřské dovolené	Hrejkovice	99	80	0
-3104	549428	1	1	901	2	Roman	Blažek	M			32	technik	Hrejkovice	99	80	0
-3104	549428	1	1	901	3	Bohumil	Ševčík	M			56	stavbyvedoucí	Hrejkovice	99	80	0
-3104	549428	1	1	901	4	František	Komárek	M			45	technik	Hrejkovice	99	80	0
-3104	549428	1	1	901	5	Miloš	Hlavín	M			31	řidič	Hrejkovice	99	80	0
-3104	549428	1	1	901	6	Jaroslav	Bartůněk	M			50	technik	Hrejkovice	99	80	0
-3104	549428	1	1	901	7	Jan	Benda	M			45	elektrikář	Hrejkovice	99	80	0
-3104	549428	1	1	901	8	Tomáš	Buzek	M			30	podnikatel	Hrejkovice	99	80	0
-3104	549428	1	1	901	9	Martin	Volf	M			33	řidič	Hrejkovice	99	80	0
-3104	549428	1	2	902	1	Vladimír	Fiala	M			43	podnikatel	Pechova Lhota	99	80	0
-3104	549428	1	2	902	2	Jaroslav	Matuška	M			50	podnikatel	Pechova Lhota	99	80	0
-3104	549428	1	2	902	3	Zdenek	Hrunek	M			45	zaměstnanec ZD	Pechova Lhota	99	80	0
-3104	549428	1	2	902	4	Tomáš	Pecka	M			20	podnikatel	Pechova Lhota	99	80	0
-3104	549428	1	2	902	5	Martin	Štván	M			25	podnikatel	Pechova Lhota	99	80	0
-3104	549428	1	2	902	6	Jaroslav	Pilík	M			39	podnikatel	Pechova Lhota	99	80	0
-3104	549428	1	2	902	7	Jindřiška	Pilíková	F			36	servírka	Pechova Lhota	99	80	0
-3104	549428	1	3	7	1	Hana	Kašparová	F			51	bankovní úředník	Hrejkovice	7	7	0
-3104	549428	1	3	7	2	Petr	Mareš	M			40	podnikatel	Níkovice	99	7	0
-3104	549428	1	3	7	3	Dana	Volfová	F			44	ošetřovatelka skotu	Pechova Lhota	99	7	0
-3104	549428	1	3	7	4	Jindřich	Hejhal	M			57	zedník	Chlumek	99	7	0
-3104	549428	1	3	7	5	Hana	Žárská	F			61	starostka	Hrejkovice	7	7	0
-3104	549428	1	3	7	6	Marcela	Kotrbová	F			46	manažer pojišťovny	Níkovice	99	7	0
-3104	549428	1	3	7	7	Helena	Matoušková	F			43	úřednice	Chlumek	99	7	0
-3104	549428	1	3	7	8	Ludmila	Koubová	F			42	prodavačka	Hrejkovice	7	7	0
-3104	549428	1	3	7	9	Miroslav	Sedlmajer	M			58	ošetřovatel-AGPI	Hrejkovice	7	7	0
-3104	549428	1	4	1	1	Jaromír	Halíř	M			34	OSVČ	Pechova Lhota	99	1	0
-3104	549428	1	4	1	2	Marie	Třísková	F			44	OSVČ	Pechova Lhota	99	1	0
-3104	549428	1	4	1	3	Jaroslav	Pecka	M			44	dělník	Pechova Lhota	99	1	0
-3104	549428	1	4	1	4	Marie	Hrunková	F			40	ošetřovatelka	Pechova Lhota	99	1	0
-3104	549428	1	4	1	5	Marta	Pešičková	F			76	důchodce	Pechova Lhota	1	1	0
-3104	549428	1	4	1	6	Marie	Matušková	F			77	důchodce	Pechova Lhota	1	1	0
-3104	549428	1	5	53	1	Zdeňka	Procházková	F			50	živnostník	Níkovice	99	53	0
-3104	549428	1	5	53	2	Ludmila	Buzková	F			55	účetní	Hrejkovice	99	53	0
-3104	549428	1	5	53	3	Karel	Čunát	M			36	podnikatel	Hrejkovice	99	53	0
-3104	549428	1	5	53	4	Martin	Černý	M	Ing.		32	programátor	Hrejkovice	99	53	0
-3104	549428	1	5	53	5	Jiří	Komárek	M			43	technik	Hrejkovice	53	53	0
-3104	549428	1	5	53	6	Miloslav	Pešta	M	Ing.		48	jednatel	Níkovice	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	549428	1	1	901	1	Helena	Černá	Ing.		32	na mateřské dovolené	Hrejkovice	99	80	0	F
+3104	549428	1	2	902	1	Vladimír	Fiala			43	podnikatel	Pechova Lhota	99	80	0	M
+3104	549428	1	3	7	1	Hana	Kašparová			51	bankovní úředník	Hrejkovice	7	7	0	F
+3104	549428	1	4	1	1	Jaromír	Halíř			34	OSVČ	Pechova Lhota	99	1	0	M
+3104	549428	1	5	53	1	Zdeňka	Procházková			50	živnostník	Níkovice	99	53	0	F
+3104	549428	1	1	901	2	Roman	Blažek			32	technik	Hrejkovice	99	80	0	M
+3104	549428	1	2	902	2	Jaroslav	Matuška			50	podnikatel	Pechova Lhota	99	80	0	M
+3104	549428	1	3	7	2	Petr	Mareš			40	podnikatel	Níkovice	99	7	0	M
+3104	549428	1	4	1	2	Marie	Třísková			44	OSVČ	Pechova Lhota	99	1	0	F
+3104	549428	1	5	53	2	Ludmila	Buzková			55	účetní	Hrejkovice	99	53	0	F
+3104	549428	1	1	901	3	Bohumil	Ševčík			56	stavbyvedoucí	Hrejkovice	99	80	0	M
+3104	549428	1	2	902	3	Zdenek	Hrunek			45	zaměstnanec ZD	Pechova Lhota	99	80	0	M
+3104	549428	1	3	7	3	Dana	Volfová			44	ošetřovatelka skotu	Pechova Lhota	99	7	0	F
+3104	549428	1	4	1	3	Jaroslav	Pecka			44	dělník	Pechova Lhota	99	1	0	M
+3104	549428	1	5	53	3	Karel	Čunát			36	podnikatel	Hrejkovice	99	53	0	M
+3104	549428	1	1	901	4	František	Komárek			45	technik	Hrejkovice	99	80	0	M
+3104	549428	1	2	902	4	Tomáš	Pecka			20	podnikatel	Pechova Lhota	99	80	0	M
+3104	549428	1	3	7	4	Jindřich	Hejhal			57	zedník	Chlumek	99	7	0	M
+3104	549428	1	4	1	4	Marie	Hrunková			40	ošetřovatelka	Pechova Lhota	99	1	0	F
+3104	549428	1	5	53	4	Martin	Černý	Ing.		32	programátor	Hrejkovice	99	53	0	M
+3104	549428	1	1	901	5	Miloš	Hlavín			31	řidič	Hrejkovice	99	80	0	M
+3104	549428	1	2	902	5	Martin	Štván			25	podnikatel	Pechova Lhota	99	80	0	M
+3104	549428	1	3	7	5	Hana	Žárská			61	starostka	Hrejkovice	7	7	0	F
+3104	549428	1	4	1	5	Marta	Pešičková			76	důchodce	Pechova Lhota	1	1	0	F
+3104	549428	1	5	53	5	Jiří	Komárek			43	technik	Hrejkovice	53	53	0	M
+3104	549428	1	1	901	6	Jaroslav	Bartůněk			50	technik	Hrejkovice	99	80	0	M
+3104	549428	1	2	902	6	Jaroslav	Pilík			39	podnikatel	Pechova Lhota	99	80	0	M
+3104	549428	1	3	7	6	Marcela	Kotrbová			46	manažer pojišťovny	Níkovice	99	7	0	F
+3104	549428	1	4	1	6	Marie	Matušková			77	důchodce	Pechova Lhota	1	1	0	F
+3104	549428	1	5	53	6	Miloslav	Pešta	Ing.		48	jednatel	Níkovice	99	53	0	M
+3104	549428	1	1	901	7	Jan	Benda			45	elektrikář	Hrejkovice	99	80	0	M
+3104	549428	1	2	902	7	Jindřiška	Pilíková			36	servírka	Pechova Lhota	99	80	0	F
+3104	549428	1	3	7	7	Helena	Matoušková			43	úřednice	Chlumek	99	7	0	F
+3104	549428	1	1	901	8	Tomáš	Buzek			30	podnikatel	Hrejkovice	99	80	0	M
+3104	549428	1	3	7	8	Ludmila	Koubová			42	prodavačka	Hrejkovice	7	7	0	F
+3104	549428	1	1	901	9	Martin	Volf			33	řidič	Hrejkovice	99	80	0	M
+3104	549428	1	3	7	9	Miroslav	Sedlmajer			58	ošetřovatel-AGPI	Hrejkovice	7	7	0	M

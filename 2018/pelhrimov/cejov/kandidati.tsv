@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6103	547735	1	1	7	1	Jana	Neuberová	F	Bc.		47	ředitelka MŠ	Čejov	7	7	A
-6103	547735	1	1	7	2	Tomáš	Okrouhlický	M			34	OSVČ	Čejov	99	7	A
-6103	547735	1	1	7	3	Ludmila	Krupičková	F			49	vedoucí prodejny	Čejov	99	7	A
-6103	547735	1	1	7	4	Andrea	Svobodová	F	Ing.	Ph.D.	41	výzkumný pracovník, členka akademie zem. věd	Čejov	99	7	A
-6103	547735	1	1	7	5	Miroslav	Šlechta	M			42	expedient	Čejov	99	7	A
-6103	547735	1	1	7	6	Jiří	Krpálek	M			43	dozorčí provozu	Čejov	99	7	A
-6103	547735	1	1	7	7	Jaroslava	Koudelková	F			60	prodavačka	Čejov	99	7	A
-6103	547735	1	1	7	8	Ilona	Alenková	F			45	kuchařka	Čejov	99	7	A
-6103	547735	1	1	7	9	Jitka	Štefánková	F			61	operátorka	Čejov	99	7	A
-6103	547735	1	2	47	1	Josef	Svoboda	M	Ing.		40	lesní technik	Čejov	47	47	A
-6103	547735	1	2	47	2	Jaroslav	Neuber	M			61	OSVČ	Čejov	47	47	A
-6103	547735	1	2	47	3	Radek	Moravec	M			42	technik	Čejov	99	47	A
-6103	547735	1	2	47	4	Martina	Beranová	F	Ing.		39	mateřská dovolená	Čejov	99	47	A
-6103	547735	1	2	47	5	Věra	Turková	F			57	výrobní mistrová	Čejov	99	47	A
-6103	547735	1	2	47	6	Vendula	Doležálková	F			32	zdravotní sestra	Čejov	99	47	A
-6103	547735	1	2	47	7	Lubomír	Jirák	M			64	důchodce	Čejov	47	47	A
-6103	547735	1	2	47	8	Bohuslav	Kubát	M			66	důchodce	Čejov	47	47	A
-6103	547735	1	2	47	9	Jana	Maršíková	F			68	důchodkyně	Čejov	47	47	A
-6103	547735	1	3	901	1	Jiří	Ježek	M	Bc.		47	starosta obce	Čejov	99	80	A
-6103	547735	1	3	901	2	Tomáš	Doležal	M			44	soukromý podnikatel	Čejov	99	80	A
-6103	547735	1	3	901	3	Stanislav	Svoboda	M			42	soukromý podnikatel	Čejov	99	80	A
-6103	547735	1	3	901	4	Jaromír	Prokop	M	Ing.		66	důchodce	Čejov	99	80	A
-6103	547735	1	3	901	5	Anna	Svobodová	F	MVDr.		31	mateřská dovolená	Čejov	99	80	A
-6103	547735	1	3	901	6	Hana	Jiráková	F			62	důchodce	Čejov	99	80	A
-6103	547735	1	3	901	7	Jan	Maršík	M			59	řidič	Čejov	99	80	A
-6103	547735	1	3	901	8	Jiří	Kubát	M	Ing.		36	konstruktér	Čejov	99	80	A
-6103	547735	1	3	901	9	Markéta	Havlová	F			40	učitelka - vychovatelka	Čejov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6103	547735	1	1	7	1	Jana	Neuberová	Bc.		47	ředitelka MŠ	Čejov	7	7	A	F
+6103	547735	1	2	47	1	Josef	Svoboda	Ing.		40	lesní technik	Čejov	47	47	A	M
+6103	547735	1	3	901	1	Jiří	Ježek	Bc.		47	starosta obce	Čejov	99	80	A	M
+6103	547735	1	1	7	2	Tomáš	Okrouhlický			34	OSVČ	Čejov	99	7	A	M
+6103	547735	1	2	47	2	Jaroslav	Neuber			61	OSVČ	Čejov	47	47	A	M
+6103	547735	1	3	901	2	Tomáš	Doležal			44	soukromý podnikatel	Čejov	99	80	A	M
+6103	547735	1	1	7	3	Ludmila	Krupičková			49	vedoucí prodejny	Čejov	99	7	A	F
+6103	547735	1	2	47	3	Radek	Moravec			42	technik	Čejov	99	47	A	M
+6103	547735	1	3	901	3	Stanislav	Svoboda			42	soukromý podnikatel	Čejov	99	80	A	M
+6103	547735	1	1	7	4	Andrea	Svobodová	Ing.	Ph.D.	41	výzkumný pracovník, členka akademie zem. věd	Čejov	99	7	A	F
+6103	547735	1	2	47	4	Martina	Beranová	Ing.		39	mateřská dovolená	Čejov	99	47	A	F
+6103	547735	1	3	901	4	Jaromír	Prokop	Ing.		66	důchodce	Čejov	99	80	A	M
+6103	547735	1	1	7	5	Miroslav	Šlechta			42	expedient	Čejov	99	7	A	M
+6103	547735	1	2	47	5	Věra	Turková			57	výrobní mistrová	Čejov	99	47	A	F
+6103	547735	1	3	901	5	Anna	Svobodová	MVDr.		31	mateřská dovolená	Čejov	99	80	A	F
+6103	547735	1	1	7	6	Jiří	Krpálek			43	dozorčí provozu	Čejov	99	7	A	M
+6103	547735	1	2	47	6	Vendula	Doležálková			32	zdravotní sestra	Čejov	99	47	A	F
+6103	547735	1	3	901	6	Hana	Jiráková			62	důchodce	Čejov	99	80	A	F
+6103	547735	1	1	7	7	Jaroslava	Koudelková			60	prodavačka	Čejov	99	7	A	F
+6103	547735	1	2	47	7	Lubomír	Jirák			64	důchodce	Čejov	47	47	A	M
+6103	547735	1	3	901	7	Jan	Maršík			59	řidič	Čejov	99	80	A	M
+6103	547735	1	1	7	8	Ilona	Alenková			45	kuchařka	Čejov	99	7	A	F
+6103	547735	1	2	47	8	Bohuslav	Kubát			66	důchodce	Čejov	47	47	A	M
+6103	547735	1	3	901	8	Jiří	Kubát	Ing.		36	konstruktér	Čejov	99	80	A	M
+6103	547735	1	1	7	9	Jitka	Štefánková			61	operátorka	Čejov	99	7	A	F
+6103	547735	1	2	47	9	Jana	Maršíková			68	důchodkyně	Čejov	47	47	A	F
+6103	547735	1	3	901	9	Markéta	Havlová			40	učitelka - vychovatelka	Čejov	99	80	A	F

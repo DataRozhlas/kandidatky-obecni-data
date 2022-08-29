@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7102	568872	1	1	1	1	Jarmila	Kowalczuková	F			35	starostka obce	Charváty	99	1	A
-7102	568872	1	1	1	2	Jiří	Uhlíř	M	Ing.		43	ředitel Flora Olomouc	Drahlov	99	1	A
-7102	568872	1	1	1	3	Marie	Prokešová	F			37	pokladní	Charváty	99	1	A
-7102	568872	1	1	1	4	Marek	Gregůrek	M			44	podnikatel v oboru stavebnictví	Drahlov	99	1	A
-7102	568872	1	1	1	5	Linda	Minxová	F	Mgr.		38	učitelka základní školy	Čertoryje	99	1	A
-7102	568872	1	1	1	6	Petr	Fiala	M	Ing.		24	referent veřej. zakázek	Charváty	99	1	A
-7102	568872	1	1	1	7	Radek	Fňukal	M			25	voják z povolání	Drahlov	99	1	A
-7102	568872	1	1	1	8	Jana	Hájková	F			53	vedoucí školní jídelny	Charváty	99	1	A
-7102	568872	1	1	1	9	Břetislav	Přecechtěl	M			57	lesní dělník	Drahlov	99	1	A
-7102	568872	1	2	166	1	Jan	Karola	M			51	řidič	Charváty	99	166	A
-7102	568872	1	2	166	2	Jan	Vrba	M	Bc.		44	státní zaměstnanec	Drahlov	99	166	A
-7102	568872	1	2	166	3	Tereza	Študentová	F	MDDr.		31	zubní lékařka	Čertoryje	99	166	A
-7102	568872	1	2	166	4	Yveta	Hejlová	F			52	OSVČ	Charváty	99	166	A
-7102	568872	1	2	166	5	Petr	Skopal	M	Ing.		50	projektant	Charváty	99	166	A
-7102	568872	1	2	166	6	Zdeněk	Dostál	M			61	technik	Drahlov	99	166	A
-7102	568872	1	2	166	7	František	Navrátil	M			51	prodejce motocyklů	Čertoryje	99	166	A
-7102	568872	1	2	166	8	Pavel	Vacek	M			56	technik	Drahlov	99	166	A
-7102	568872	1	2	166	9	Hana	Líňová	F	Mgr.		32	advokátka	Čertoryje	99	166	A
-7102	568872	1	3	1201	1	Josef	Fink	M			29	OSVČ	Charváty	1201	1201	A
-7102	568872	1	3	1201	2	Jiří	Rubačík	M			43	OSVČ	Charváty	1201	1201	A
-7102	568872	1	3	1201	3	Jiří	Smejkal	M			69	OSVČ	Charváty	1201	1201	A
-7102	568872	1	3	1201	4	Josef	Fink	M			55	OSVČ	Charváty	1201	1201	A
-7102	568872	1	3	1201	5	Pavel	Vacek	M			26	OSVČ	Drahlov	1201	1201	A
-7102	568872	1	3	1201	6	Monika	Procházková	F			49	koordinátor	Dubany	1201	1201	A
-7102	568872	1	3	1201	7	Antonín	Hájek	M			69	OSVČ	Dubany	1201	1201	A
-7102	568872	1	3	1201	8	Karolína	Jeřábková	F			19	OSVČ	Charváty	1201	1201	A
-7102	568872	1	3	1201	9	David	Janeček	M			40	OSVČ	Charváty	1201	1201	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7102	568872	1	1	1	1	Jarmila	Kowalczuková			35	starostka obce	Charváty	99	1	A	F
+7102	568872	1	2	166	1	Jan	Karola			51	řidič	Charváty	99	166	A	M
+7102	568872	1	3	1201	1	Josef	Fink			29	OSVČ	Charváty	1201	1201	A	M
+7102	568872	1	1	1	2	Jiří	Uhlíř	Ing.		43	ředitel Flora Olomouc	Drahlov	99	1	A	M
+7102	568872	1	2	166	2	Jan	Vrba	Bc.		44	státní zaměstnanec	Drahlov	99	166	A	M
+7102	568872	1	3	1201	2	Jiří	Rubačík			43	OSVČ	Charváty	1201	1201	A	M
+7102	568872	1	1	1	3	Marie	Prokešová			37	pokladní	Charváty	99	1	A	F
+7102	568872	1	2	166	3	Tereza	Študentová	MDDr.		31	zubní lékařka	Čertoryje	99	166	A	F
+7102	568872	1	3	1201	3	Jiří	Smejkal			69	OSVČ	Charváty	1201	1201	A	M
+7102	568872	1	1	1	4	Marek	Gregůrek			44	podnikatel v oboru stavebnictví	Drahlov	99	1	A	M
+7102	568872	1	2	166	4	Yveta	Hejlová			52	OSVČ	Charváty	99	166	A	F
+7102	568872	1	3	1201	4	Josef	Fink			55	OSVČ	Charváty	1201	1201	A	M
+7102	568872	1	1	1	5	Linda	Minxová	Mgr.		38	učitelka základní školy	Čertoryje	99	1	A	F
+7102	568872	1	2	166	5	Petr	Skopal	Ing.		50	projektant	Charváty	99	166	A	M
+7102	568872	1	3	1201	5	Pavel	Vacek			26	OSVČ	Drahlov	1201	1201	A	M
+7102	568872	1	1	1	6	Petr	Fiala	Ing.		24	referent veřej. zakázek	Charváty	99	1	A	M
+7102	568872	1	2	166	6	Zdeněk	Dostál			61	technik	Drahlov	99	166	A	M
+7102	568872	1	3	1201	6	Monika	Procházková			49	koordinátor	Dubany	1201	1201	A	F
+7102	568872	1	1	1	7	Radek	Fňukal			25	voják z povolání	Drahlov	99	1	A	M
+7102	568872	1	2	166	7	František	Navrátil			51	prodejce motocyklů	Čertoryje	99	166	A	M
+7102	568872	1	3	1201	7	Antonín	Hájek			69	OSVČ	Dubany	1201	1201	A	M
+7102	568872	1	1	1	8	Jana	Hájková			53	vedoucí školní jídelny	Charváty	99	1	A	F
+7102	568872	1	2	166	8	Pavel	Vacek			56	technik	Drahlov	99	166	A	M
+7102	568872	1	3	1201	8	Karolína	Jeřábková			19	OSVČ	Charváty	1201	1201	A	F
+7102	568872	1	1	1	9	Břetislav	Přecechtěl			57	lesní dělník	Drahlov	99	1	A	M
+7102	568872	1	2	166	9	Hana	Líňová	Mgr.		32	advokátka	Čertoryje	99	166	A	F
+7102	568872	1	3	1201	9	David	Janeček			40	OSVČ	Charváty	1201	1201	A	M

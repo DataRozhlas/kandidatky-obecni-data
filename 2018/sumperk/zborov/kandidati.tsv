@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7105	570338	1	1	902	1	Miroslav	Jurásek	M	Ing.		57	technik	Zborov	99	80	A
-7105	570338	1	1	902	2	Pavel	Halenčák	M			41	technolog	Zborov	99	80	A
-7105	570338	1	1	902	3	Petr	Kubíček	M			43	dělník	Zborov	99	80	A
-7105	570338	1	1	902	4	Jiří	Ptáček	M			53	operátor CNC strojů	Zborov	99	80	A
-7105	570338	1	1	902	5	Marcel	Kubata	M			29	automechanik	Zborov	99	80	A
-7105	570338	1	1	902	6	Josef	Šanovec	M			41	vedoucí výroby	Zborov	99	80	A
-7105	570338	1	2	901	1	Blanka	Šanovcová	F		DiS.	34	účetní	Zborov	99	80	A
-7105	570338	1	2	901	2	Jaroslav	Vaněk	M			44	dělník	Zborov	99	80	A
-7105	570338	1	2	901	3	Jiří	Švéda	M			42	OSVČ	Zborov	99	80	A
-7105	570338	1	2	901	4	Lucie	Rýznarová	F	Mgr.		31	rodičovská dovolená	Zborov	99	80	A
-7105	570338	1	2	901	5	Martin	Vincourek	M			38	dělník	Zborov	99	80	A
-7105	570338	1	2	901	6	Michal	Skřivánek	M			31	dělník	Zborov	99	80	A
-7105	570338	1	3	1	1	Petr	Rýznar	M	Ing.		40	konstruktér	Zborov	99	1	A
-7105	570338	1	3	1	2	Zdenka	Šanovcová	F			28	rodičovská dovolená	Zborov	99	1	A
-7105	570338	1	3	1	3	Iva	Kunčarová	F			54	nezaměstnaná	Zborov	99	1	A
-7105	570338	1	3	1	4	Renata	Rýznarová	F			42	pracovnice v sociálních službách	Zborov	99	1	A
-7105	570338	1	3	1	5	Rostislav	Vaníček	M			40	operátor ve zpracování papíru	Zborov	99	1	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7105	570338	1	1	902	1	Miroslav	Jurásek	Ing.		57	technik	Zborov	99	80	A	M
+7105	570338	1	2	901	1	Blanka	Šanovcová		DiS.	34	účetní	Zborov	99	80	A	F
+7105	570338	1	3	1	1	Petr	Rýznar	Ing.		40	konstruktér	Zborov	99	1	A	M
+7105	570338	1	1	902	2	Pavel	Halenčák			41	technolog	Zborov	99	80	A	M
+7105	570338	1	2	901	2	Jaroslav	Vaněk			44	dělník	Zborov	99	80	A	M
+7105	570338	1	3	1	2	Zdenka	Šanovcová			28	rodičovská dovolená	Zborov	99	1	A	F
+7105	570338	1	1	902	3	Petr	Kubíček			43	dělník	Zborov	99	80	A	M
+7105	570338	1	2	901	3	Jiří	Švéda			42	OSVČ	Zborov	99	80	A	M
+7105	570338	1	3	1	3	Iva	Kunčarová			54	nezaměstnaná	Zborov	99	1	A	F
+7105	570338	1	1	902	4	Jiří	Ptáček			53	operátor CNC strojů	Zborov	99	80	A	M
+7105	570338	1	2	901	4	Lucie	Rýznarová	Mgr.		31	rodičovská dovolená	Zborov	99	80	A	F
+7105	570338	1	3	1	4	Renata	Rýznarová			42	pracovnice v sociálních službách	Zborov	99	1	A	F
+7105	570338	1	1	902	5	Marcel	Kubata			29	automechanik	Zborov	99	80	A	M
+7105	570338	1	2	901	5	Martin	Vincourek			38	dělník	Zborov	99	80	A	M
+7105	570338	1	3	1	5	Rostislav	Vaníček			40	operátor ve zpracování papíru	Zborov	99	1	A	M
+7105	570338	1	1	902	6	Josef	Šanovec			41	vedoucí výroby	Zborov	99	80	A	M
+7105	570338	1	2	901	6	Michal	Skřivánek			31	dělník	Zborov	99	80	A	M

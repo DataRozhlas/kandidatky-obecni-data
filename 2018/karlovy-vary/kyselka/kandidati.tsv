@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4102	555347	1	1	1129	1	Aleš	Labík	M			46	starosta	Radošov	99	1129	A
-4102	555347	1	1	1129	2	Lenka	Lasáková	F			44	porodní asistentka	Radošov	99	1129	A
-4102	555347	1	1	1129	3	Vladimír	Zicha	M	Mgr.		51	učitel	Radošov	99	1129	A
-4102	555347	1	1	1129	4	Ivan	Němec	M	Mgr.		63	programátor výroby	Radošov	99	1129	A
-4102	555347	1	1	1129	5	Tomáš	Petrilák	M			44	specialista provozu sítě	Radošov	99	1129	A
-4102	555347	1	1	1129	6	Martin	Usler	M			43	automechanik	Radošov	99	1129	A
-4102	555347	1	1	1129	7	Dagmar	Jahičová	F			51	vedoucí skladu	Radošov	99	1129	A
-4102	555347	1	1	1129	8	Jana	Jakabová	F	Mgr.		38	učitelka	Radošov	99	1129	A
-4102	555347	1	1	1129	9	Jiří	Plass	M			52	vedoucí zámečnické dílny	Radošov	99	1129	A
-4102	555347	1	2	901	1	Blanka	Kilhofová	F	Ing.		45	vedoucí oddělení v provozu na České poště	Radošov	99	80	A
-4102	555347	1	2	901	2	Věra	Czingelová	F			50	obchodní zástupce	Radošov	99	80	A
-4102	555347	1	2	901	3	Marcela	Šejvlová	F			44	vedoucí přímé péče v DOZP Radošov	Nová Kyselka	99	80	A
-4102	555347	1	2	901	4	Eva	Jarošová	F			58	invalidní důchodce	Radošov	99	80	A
-4102	555347	1	2	901	5	Jana	Čečrlová	F			44	poštovní doručovatelka	Radošov	99	80	A
-4102	555347	1	2	901	6	Blanka	Čečrlová	F			64	státní úřednice	Radošov	99	80	A
-4102	555347	1	2	901	7	Karel	Kanický	M			70	důchodce	Radošov	99	80	A
-4102	555347	1	2	901	8	František	Mžik	M			48	OSVČ	Radošov	99	80	A
-4102	555347	1	2	901	9	Jáchym	Kilhof	M			48	řidič	Radošov	99	80	A
-4102	555347	1	3	902	1	Karel	Kanický	M			45	OSVČ	Radošov	99	80	A
-4102	555347	1	3	902	2	Miloš	Ztratil	M			60	OSVČ	Radošov	99	80	A
-4102	555347	1	3	902	3	Pavel	Czingel	M			49	policista	Radošov	99	80	A
-4102	555347	1	3	902	4	Radek	Čada	M			43	údržbář	Radošov	99	80	A
-4102	555347	1	3	902	5	Roman	Mžik	M			40	elektrikář	Radošov	99	80	A
-4102	555347	1	3	902	6	Hana	Ztratilová	F			36	OSVČ	Radošov	99	80	A
-4102	555347	1	3	902	7	Monika	Hanáková	F			37	dělnice	Radošov	99	80	A
-4102	555347	1	3	902	8	Ilona	Ďurianová	F			41	kuchařka	Radošov	99	80	A
-4102	555347	1	3	902	9	Miroslav	Šipla	M			18	student	Radošov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4102	555347	1	1	1129	1	Aleš	Labík			46	starosta	Radošov	99	1129	A	M
+4102	555347	1	2	901	1	Blanka	Kilhofová	Ing.		45	vedoucí oddělení v provozu na České poště	Radošov	99	80	A	F
+4102	555347	1	3	902	1	Karel	Kanický			45	OSVČ	Radošov	99	80	A	M
+4102	555347	1	1	1129	2	Lenka	Lasáková			44	porodní asistentka	Radošov	99	1129	A	F
+4102	555347	1	2	901	2	Věra	Czingelová			50	obchodní zástupce	Radošov	99	80	A	F
+4102	555347	1	3	902	2	Miloš	Ztratil			60	OSVČ	Radošov	99	80	A	M
+4102	555347	1	1	1129	3	Vladimír	Zicha	Mgr.		51	učitel	Radošov	99	1129	A	M
+4102	555347	1	2	901	3	Marcela	Šejvlová			44	vedoucí přímé péče v DOZP Radošov	Nová Kyselka	99	80	A	F
+4102	555347	1	3	902	3	Pavel	Czingel			49	policista	Radošov	99	80	A	M
+4102	555347	1	1	1129	4	Ivan	Němec	Mgr.		63	programátor výroby	Radošov	99	1129	A	M
+4102	555347	1	2	901	4	Eva	Jarošová			58	invalidní důchodce	Radošov	99	80	A	F
+4102	555347	1	3	902	4	Radek	Čada			43	údržbář	Radošov	99	80	A	M
+4102	555347	1	1	1129	5	Tomáš	Petrilák			44	specialista provozu sítě	Radošov	99	1129	A	M
+4102	555347	1	2	901	5	Jana	Čečrlová			44	poštovní doručovatelka	Radošov	99	80	A	F
+4102	555347	1	3	902	5	Roman	Mžik			40	elektrikář	Radošov	99	80	A	M
+4102	555347	1	1	1129	6	Martin	Usler			43	automechanik	Radošov	99	1129	A	M
+4102	555347	1	2	901	6	Blanka	Čečrlová			64	státní úřednice	Radošov	99	80	A	F
+4102	555347	1	3	902	6	Hana	Ztratilová			36	OSVČ	Radošov	99	80	A	F
+4102	555347	1	1	1129	7	Dagmar	Jahičová			51	vedoucí skladu	Radošov	99	1129	A	F
+4102	555347	1	2	901	7	Karel	Kanický			70	důchodce	Radošov	99	80	A	M
+4102	555347	1	3	902	7	Monika	Hanáková			37	dělnice	Radošov	99	80	A	F
+4102	555347	1	1	1129	8	Jana	Jakabová	Mgr.		38	učitelka	Radošov	99	1129	A	F
+4102	555347	1	2	901	8	František	Mžik			48	OSVČ	Radošov	99	80	A	M
+4102	555347	1	3	902	8	Ilona	Ďurianová			41	kuchařka	Radošov	99	80	A	F
+4102	555347	1	1	1129	9	Jiří	Plass			52	vedoucí zámečnické dílny	Radošov	99	1129	A	M
+4102	555347	1	2	901	9	Jáchym	Kilhof			48	řidič	Radošov	99	80	A	M
+4102	555347	1	3	902	9	Miroslav	Šipla			18	student	Radošov	99	80	A	M

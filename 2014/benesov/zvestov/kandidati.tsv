@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	531049	1	1	809	1	Jan	Štícha	M			31	servisní koordinátor	Libouň	99	80	0
-2101	531049	1	2	804	1	Karel	Novotný	M			56	soustružník	Libouň	99	80	0
-2101	531049	1	3	901	1	Miroslav	Šimon	M			35	technik	Zvěstov	99	80	0
-2101	531049	1	3	901	2	Karel	Borkovec	M			39	truhlář	Libouň	99	80	0
-2101	531049	1	4	810	1	Iveta	Daňková	F			45	vedoucí podniku	Roudný	99	80	0
-2101	531049	1	5	806	1	Blanka	Volková	F			40	bankovní referent	Zvěstov	99	80	0
-2101	531049	1	6	801	1	Karel	Babický	M			46	skladník	Zvěstov	99	80	0
-2101	531049	1	7	808	1	Josef	Daněk	M			45	pracovník ICSS Odlochovice	Libouň	99	80	0
-2101	531049	1	8	805	1	Luboš	Račanský	M	Bc.		29	softwarový inženýr	Zvěstov	99	80	0
-2101	531049	1	9	802	1	Drahomíra	Beránková	F			41	kontrolor	Zvěstov	99	80	0
-2101	531049	1	10	811	1	Jan	Žák	M			68	důchodce	Ondřejovec	99	80	0
-2101	531049	1	11	807	1	Aleš	Svatoš	M			32	automechanik	Zvěstov	99	80	0
-2101	531049	1	12	803	1	Marie	Kottová	F			45	v domácnosti	Libouň	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	531049	1	1	809	1	Jan	Štícha			31	servisní koordinátor	Libouň	99	80	0	M
+2101	531049	1	2	804	1	Karel	Novotný			56	soustružník	Libouň	99	80	0	M
+2101	531049	1	3	901	1	Miroslav	Šimon			35	technik	Zvěstov	99	80	0	M
+2101	531049	1	4	810	1	Iveta	Daňková			45	vedoucí podniku	Roudný	99	80	0	F
+2101	531049	1	5	806	1	Blanka	Volková			40	bankovní referent	Zvěstov	99	80	0	F
+2101	531049	1	6	801	1	Karel	Babický			46	skladník	Zvěstov	99	80	0	M
+2101	531049	1	7	808	1	Josef	Daněk			45	pracovník ICSS Odlochovice	Libouň	99	80	0	M
+2101	531049	1	8	805	1	Luboš	Račanský	Bc.		29	softwarový inženýr	Zvěstov	99	80	0	M
+2101	531049	1	9	802	1	Drahomíra	Beránková			41	kontrolor	Zvěstov	99	80	0	F
+2101	531049	1	10	811	1	Jan	Žák			68	důchodce	Ondřejovec	99	80	0	M
+2101	531049	1	11	807	1	Aleš	Svatoš			32	automechanik	Zvěstov	99	80	0	M
+2101	531049	1	12	803	1	Marie	Kottová			45	v domácnosti	Libouň	99	80	0	F
+2101	531049	1	3	901	2	Karel	Borkovec			39	truhlář	Libouň	99	80	0	M

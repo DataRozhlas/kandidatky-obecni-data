@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3106	551741	1	1	902	1	Beno	Slávik	M			29	referent státní správy	Skočice	53	80	0
-3106	551741	1	1	902	2	Karel	Křišťan	M			37	dopravce	Lidmovice	99	80	0
-3106	551741	1	1	902	3	Marek	Peška	M	Ing.		27	truhlář	Lidmovice	99	80	0
-3106	551741	1	1	902	4	Jitka	Ceplechová	F			29	účetní	Skočice	99	80	0
-3106	551741	1	1	902	5	Martin	Šoul	M			36	podnikatel	Lidmovice	99	80	0
-3106	551741	1	1	902	6	Václav	Kolesa	M			40	podnikatel	Skočice	99	80	0
-3106	551741	1	1	902	7	Lukáš	Janda	M			29	podnikatel	Skočice	99	80	0
-3106	551741	1	1	902	8	Luděk	Fousek	M			39	technik	Skočice	99	80	0
-3106	551741	1	1	902	9	Miroslav	Vácha	M			65	důchodce	Skočice	99	80	0
-3106	551741	1	2	901	1	Ladislav	Malec	M			58	ošetřovatel	Lidmovice	99	80	0
-3106	551741	1	2	901	2	Josef	Kovářík	M			54	krmič	Lidmovice	99	80	0
-3106	551741	1	2	901	3	Jana	Kiewegová	F			27	nezaměstnaná	Lidmovice	99	80	0
-3106	551741	1	2	901	4	Petr	Malec	M			22	strážník městské policie	Lidmovice	99	80	0
-3106	551741	1	2	901	5	Karel	Vojík	M			30	číšník	Lidmovice	99	80	0
-3106	551741	1	2	901	6	Bohuslav	Kapusta	M			52	traktorista	Skočice	99	80	0
-3106	551741	1	2	901	7	Karel	Šíma	M			75	důchodce	Skočice	99	80	0
-3106	551741	1	3	1	1	Jan	Šídlo	M	Ing.		28	technolog	Skočice	99	1	0
-3106	551741	1	3	1	2	Milan	Fousek	M			41	mechanizátor	Skočice	99	1	0
-3106	551741	1	3	1	3	Dagmar	Žílová	F			64	důchodkyně	Skočice	99	1	0
-3106	551741	1	3	1	4	Jiří	Hasil	M	Ing.		54	technik	Lidmovice	99	1	0
-3106	551741	1	3	1	5	Václav	Havlík	M			51	dělník	Skočice	99	1	0
-3106	551741	1	3	1	6	Jaroslav	Šídlo	M	Ing.		61	zaměstnanec státní správy	Skočice	1	1	0
-3106	551741	1	3	1	7	Marie	Kapustová	F			58	účetní	Skočice	99	1	0
-3106	551741	1	3	1	8	Radka	Balounová	F			33	fyzioterapeutka	Skočice	99	1	0
-3106	551741	1	3	1	9	Pavel	Baloun	M			36	obchodní zástupce	Skočice	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3106	551741	1	1	902	1	Beno	Slávik			29	referent státní správy	Skočice	53	80	0	M
+3106	551741	1	2	901	1	Ladislav	Malec			58	ošetřovatel	Lidmovice	99	80	0	M
+3106	551741	1	3	1	1	Jan	Šídlo	Ing.		28	technolog	Skočice	99	1	0	M
+3106	551741	1	1	902	2	Karel	Křišťan			37	dopravce	Lidmovice	99	80	0	M
+3106	551741	1	2	901	2	Josef	Kovářík			54	krmič	Lidmovice	99	80	0	M
+3106	551741	1	3	1	2	Milan	Fousek			41	mechanizátor	Skočice	99	1	0	M
+3106	551741	1	1	902	3	Marek	Peška	Ing.		27	truhlář	Lidmovice	99	80	0	M
+3106	551741	1	2	901	3	Jana	Kiewegová			27	nezaměstnaná	Lidmovice	99	80	0	F
+3106	551741	1	3	1	3	Dagmar	Žílová			64	důchodkyně	Skočice	99	1	0	F
+3106	551741	1	1	902	4	Jitka	Ceplechová			29	účetní	Skočice	99	80	0	F
+3106	551741	1	2	901	4	Petr	Malec			22	strážník městské policie	Lidmovice	99	80	0	M
+3106	551741	1	3	1	4	Jiří	Hasil	Ing.		54	technik	Lidmovice	99	1	0	M
+3106	551741	1	1	902	5	Martin	Šoul			36	podnikatel	Lidmovice	99	80	0	M
+3106	551741	1	2	901	5	Karel	Vojík			30	číšník	Lidmovice	99	80	0	M
+3106	551741	1	3	1	5	Václav	Havlík			51	dělník	Skočice	99	1	0	M
+3106	551741	1	1	902	6	Václav	Kolesa			40	podnikatel	Skočice	99	80	0	M
+3106	551741	1	2	901	6	Bohuslav	Kapusta			52	traktorista	Skočice	99	80	0	M
+3106	551741	1	3	1	6	Jaroslav	Šídlo	Ing.		61	zaměstnanec státní správy	Skočice	1	1	0	M
+3106	551741	1	1	902	7	Lukáš	Janda			29	podnikatel	Skočice	99	80	0	M
+3106	551741	1	2	901	7	Karel	Šíma			75	důchodce	Skočice	99	80	0	M
+3106	551741	1	3	1	7	Marie	Kapustová			58	účetní	Skočice	99	1	0	F
+3106	551741	1	1	902	8	Luděk	Fousek			39	technik	Skočice	99	80	0	M
+3106	551741	1	3	1	8	Radka	Balounová			33	fyzioterapeutka	Skočice	99	1	0	F
+3106	551741	1	1	902	9	Miroslav	Vácha			65	důchodce	Skočice	99	80	0	M
+3106	551741	1	3	1	9	Pavel	Baloun			36	obchodní zástupce	Skočice	99	1	0	M

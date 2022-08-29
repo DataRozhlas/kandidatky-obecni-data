@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4103	538396	1	1	53	1	František	Pešek	M			49	živnostník	Šabina	53	53	0
-4103	538396	1	1	53	2	Radim	Adamec	M	Ing.		30	úředník	Šabina	53	53	0
-4103	538396	1	1	53	3	Jiří	Tuček	M			49	vedoucí prodejny	Šabina	53	53	0
-4103	538396	1	1	53	4	Ivan	Kudrfalec	M			60	důchodce	Šabina	53	53	0
-4103	538396	1	1	53	5	Zdeňka	Fraňková	F	MUDr.		41	lékařka	Šabina	53	53	0
-4103	538396	1	1	53	6	Štefan	Pisár	M			55	zaměstnanec firmy	Šabina	53	53	0
-4103	538396	1	1	53	7	Roman	Franěk	M			46	živnostník	Šabina	53	53	0
-4103	538396	1	1	53	8	Petr	Sýkora	M			40	vedoucí provozovny	Šabina	99	53	0
-4103	538396	1	1	53	9	Jitka	Pastrňáková	F			49	účetní	Šabina	99	53	0
-4103	538396	1	2	801	1	Jan	Bína	M			51	elektromechanik	Šabina	99	80	0
-4103	538396	1	3	901	1	Bohumila	Budínová	F			54	prac. v kultuře	Šabina	99	80	0
-4103	538396	1	3	901	2	Soňa	Pisárová	F			34	admin. pracovnice	Šabina	99	80	0
-4103	538396	1	3	901	3	Karel	Braha	M			50	mechanik	Šabina	99	80	0
-4103	538396	1	3	901	4	Ladislav	Häckl	M			27	elektrikář	Šabina	99	80	0
-4103	538396	1	3	901	5	Romana	Hošková	F			41	učitelka MŠ	Šabina	99	80	0
-4103	538396	1	3	901	6	Eduard	Seidl	M			39	strojník	Šabina	99	80	0
-4103	538396	1	3	901	7	Eva	Novotná	F			35	referentka	Šabina	99	80	0
-4103	538396	1	3	901	8	Vítězslav	Novák	M			19	student	Šabina	99	80	0
-4103	538396	1	4	902	1	Pavel	Pešek	M			59	technik	Šabina	99	80	0
-4103	538396	1	4	902	2	Bedřich	Líbal	M	Ing.		53	analytik	Šabina	99	80	0
-4103	538396	1	4	902	3	Valent	Škotta	M			59	vlakvedoucí	Šabina	99	80	0
-4103	538396	1	4	902	4	Jiřina	Hrudková	F			43	účetní	Šabina	99	80	0
-4103	538396	1	4	902	5	Eva	Burdová	F			42	obchodní referent	Šabina	99	80	0
-4103	538396	1	4	902	6	Eva	Temňáková	F	Bc.		33	ekonom	Šabina	99	80	0
-4103	538396	1	4	902	7	Martin	Lenomar	M			39	mistr	Šabina	99	80	0
-4103	538396	1	4	902	8	Jan	Rigo	M			49	dělník	Šabina	99	80	0
-4103	538396	1	4	902	9	Václav	Beneš	M			62	důchodce	Šabina	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4103	538396	1	1	53	1	František	Pešek			49	živnostník	Šabina	53	53	0	M
+4103	538396	1	2	801	1	Jan	Bína			51	elektromechanik	Šabina	99	80	0	M
+4103	538396	1	3	901	1	Bohumila	Budínová			54	prac. v kultuře	Šabina	99	80	0	F
+4103	538396	1	4	902	1	Pavel	Pešek			59	technik	Šabina	99	80	0	M
+4103	538396	1	1	53	2	Radim	Adamec	Ing.		30	úředník	Šabina	53	53	0	M
+4103	538396	1	3	901	2	Soňa	Pisárová			34	admin. pracovnice	Šabina	99	80	0	F
+4103	538396	1	4	902	2	Bedřich	Líbal	Ing.		53	analytik	Šabina	99	80	0	M
+4103	538396	1	1	53	3	Jiří	Tuček			49	vedoucí prodejny	Šabina	53	53	0	M
+4103	538396	1	3	901	3	Karel	Braha			50	mechanik	Šabina	99	80	0	M
+4103	538396	1	4	902	3	Valent	Škotta			59	vlakvedoucí	Šabina	99	80	0	M
+4103	538396	1	1	53	4	Ivan	Kudrfalec			60	důchodce	Šabina	53	53	0	M
+4103	538396	1	3	901	4	Ladislav	Häckl			27	elektrikář	Šabina	99	80	0	M
+4103	538396	1	4	902	4	Jiřina	Hrudková			43	účetní	Šabina	99	80	0	F
+4103	538396	1	1	53	5	Zdeňka	Fraňková	MUDr.		41	lékařka	Šabina	53	53	0	F
+4103	538396	1	3	901	5	Romana	Hošková			41	učitelka MŠ	Šabina	99	80	0	F
+4103	538396	1	4	902	5	Eva	Burdová			42	obchodní referent	Šabina	99	80	0	F
+4103	538396	1	1	53	6	Štefan	Pisár			55	zaměstnanec firmy	Šabina	53	53	0	M
+4103	538396	1	3	901	6	Eduard	Seidl			39	strojník	Šabina	99	80	0	M
+4103	538396	1	4	902	6	Eva	Temňáková	Bc.		33	ekonom	Šabina	99	80	0	F
+4103	538396	1	1	53	7	Roman	Franěk			46	živnostník	Šabina	53	53	0	M
+4103	538396	1	3	901	7	Eva	Novotná			35	referentka	Šabina	99	80	0	F
+4103	538396	1	4	902	7	Martin	Lenomar			39	mistr	Šabina	99	80	0	M
+4103	538396	1	1	53	8	Petr	Sýkora			40	vedoucí provozovny	Šabina	99	53	0	M
+4103	538396	1	3	901	8	Vítězslav	Novák			19	student	Šabina	99	80	0	M
+4103	538396	1	4	902	8	Jan	Rigo			49	dělník	Šabina	99	80	0	M
+4103	538396	1	1	53	9	Jitka	Pastrňáková			49	účetní	Šabina	99	53	0	F
+4103	538396	1	4	902	9	Václav	Beneš			62	důchodce	Šabina	99	80	0	M

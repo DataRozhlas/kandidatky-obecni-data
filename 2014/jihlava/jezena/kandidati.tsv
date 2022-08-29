@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6102	587281	1	1	804	1	Michal	Juřík	M	Ing.		53	příslušník Policie České republiky	Ježená	99	80	0
-6102	587281	1	2	802	1	Peter	Sidimák	M			49	truhlář	Ježená	99	80	0
-6102	587281	1	3	901	1	Petr	Červinka	M	Bc.		51	technik bezpečnosti práce	Ježená	99	80	0
-6102	587281	1	3	901	2	František	Knoflíček	M			53	elektrikář	Ježená	99	80	0
-6102	587281	1	3	901	3	Pavel	Seemann	M			50	dělník	Ježená	99	80	0
-6102	587281	1	3	901	4	Libor	Povolný	M			39	dělník	Ježená	99	80	0
-6102	587281	1	3	901	5	Bohumila	Urbanová	F			51	učitelka	Ježená	99	80	0
-6102	587281	1	3	901	6	Jiří	Sekava	M			49	osoba samostatně výdělečně činná	Ježená	99	80	0
-6102	587281	1	4	803	1	Libor	Pokorný	M			40	technik	Ježená	99	80	0
-6102	587281	1	5	805	1	Roman	Komůrka	M			44	ošetřovatel	Ježená	99	80	0
-6102	587281	1	6	801	1	Marcela	Šťastná	F			38	ošetřovatelka	Ježená	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6102	587281	1	1	804	1	Michal	Juřík	Ing.		53	příslušník Policie České republiky	Ježená	99	80	0	M
+6102	587281	1	2	802	1	Peter	Sidimák			49	truhlář	Ježená	99	80	0	M
+6102	587281	1	3	901	1	Petr	Červinka	Bc.		51	technik bezpečnosti práce	Ježená	99	80	0	M
+6102	587281	1	4	803	1	Libor	Pokorný			40	technik	Ježená	99	80	0	M
+6102	587281	1	5	805	1	Roman	Komůrka			44	ošetřovatel	Ježená	99	80	0	M
+6102	587281	1	6	801	1	Marcela	Šťastná			38	ošetřovatelka	Ježená	99	80	0	F
+6102	587281	1	3	901	2	František	Knoflíček			53	elektrikář	Ježená	99	80	0	M
+6102	587281	1	3	901	3	Pavel	Seemann			50	dělník	Ježená	99	80	0	M
+6102	587281	1	3	901	4	Libor	Povolný			39	dělník	Ježená	99	80	0	M
+6102	587281	1	3	901	5	Bohumila	Urbanová			51	učitelka	Ježená	99	80	0	F
+6102	587281	1	3	901	6	Jiří	Sekava			49	osoba samostatně výdělečně činná	Ježená	99	80	0	M

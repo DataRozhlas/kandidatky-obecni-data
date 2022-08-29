@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5104	577154	1	1	901	1	Jaroslav	Dostrašil	M			57	řidič	Komárov	99	80	A
-5104	577154	1	1	901	2	Martin	Ráž	M			34	dispečer	Chuchelna	99	80	A
-5104	577154	1	1	901	3	David	Hošek	M	Ing.		27	energetik	Chuchelna	99	80	A
-5104	577154	1	1	901	4	Miroslav	Holub	M	MUDr.		65	lékař	Chuchelna	99	80	A
-5104	577154	1	1	901	5	Veronika	Hajná	F			40	šička	Chuchelna	99	80	A
-5104	577154	1	1	901	6	Petr	Coufal	M			43	závodní lomu	Lhota	99	80	A
-5104	577154	1	1	901	7	Marcela	Koucká	F			53	učitelka MŠ	Chuchelna	99	80	A
-5104	577154	1	1	901	8	Ivo	Vrabec	M			59	OSVČ	Chuchelna	99	80	A
-5104	577154	1	1	901	9	Eva	Peštová	F	Bc.		38	úřednice na MD	Chuchelna	99	80	A
-5104	577154	1	1	901	10	Michal	Strnad	M	Ing.		31	OSVČ	Chuchelna	99	80	A
-5104	577154	1	1	901	11	Aleš	Posledník	M			34	referent na úřadu práce	Lhota	99	80	A
-5104	577154	1	1	901	12	Tomáš	Makovička	M			41	policista	Chuchelna	99	80	A
-5104	577154	1	1	901	13	Iveta	Bílková	F			54	skladnice	Chuchelna	99	80	A
-5104	577154	1	1	901	14	Jiří	Řehák	M			49	technik	Lhota	99	80	A
-5104	577154	1	1	901	15	Jan	Wohlmuth	M	Ing.		41	ředitel - ŘSD, správa Liberec	Chuchelna	99	80	A
-5104	577154	1	2	902	1	Tomáš	Šimek	M	Ing.		51	starosta obce	Chuchelna	99	80	A
-5104	577154	1	2	902	2	Jiří	Machačný	M			44	technolog	Lhota	99	80	A
-5104	577154	1	2	902	3	Lenka	Soukupová	F	Bc.		43	referentka městské samosprávy	Chuchelna	99	80	A
-5104	577154	1	2	902	4	Petr	Schlesinger	M	Ing.		47	projektant	Chuchelna	99	80	A
-5104	577154	1	2	902	5	Magdalena	Ceé	F		DiS.	38	referentka krajské hygienické stanice	Chuchelna	99	80	A
-5104	577154	1	2	902	6	Lukáš	Prskavec	M			31	policista	Komárov	99	80	A
-5104	577154	1	2	902	7	Martin	Pitl	M			45	živnostník	Chuchelna	99	80	A
-5104	577154	1	2	902	8	Michal	Prousek	M	Mgr.		39	právník	Chuchelna	99	80	A
-5104	577154	1	2	902	9	Tomáš	Hejl	M			39	pojišťovací poradce	Lhota	99	80	A
-5104	577154	1	2	902	10	Jan	Picek	M	Ing.		46	vedoucí pracovník katastrálního úřadu	Chuchelna	99	80	A
-5104	577154	1	2	902	11	Daniela	Plívová	F			47	vedoucí klientského pracoviště VZP	Chuchelna	99	80	A
-5104	577154	1	2	902	12	Jaroslav	Vocelka	M			52	truhlář	Chuchelna	99	80	A
-5104	577154	1	2	902	13	Šárka	Bažantová	F	Mgr.		45	lektorka	Chuchelna	99	80	A
-5104	577154	1	2	902	14	Vladimír	Tomeš	M	Ing.		45	soustružník	Chuchelna	99	80	A
-5104	577154	1	2	902	15	Jan	Plíva	M			47	živnostník	Chuchelna	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5104	577154	1	1	901	1	Jaroslav	Dostrašil			57	řidič	Komárov	99	80	A	M
+5104	577154	1	2	902	1	Tomáš	Šimek	Ing.		51	starosta obce	Chuchelna	99	80	A	M
+5104	577154	1	1	901	2	Martin	Ráž			34	dispečer	Chuchelna	99	80	A	M
+5104	577154	1	2	902	2	Jiří	Machačný			44	technolog	Lhota	99	80	A	M
+5104	577154	1	1	901	3	David	Hošek	Ing.		27	energetik	Chuchelna	99	80	A	M
+5104	577154	1	2	902	3	Lenka	Soukupová	Bc.		43	referentka městské samosprávy	Chuchelna	99	80	A	F
+5104	577154	1	1	901	4	Miroslav	Holub	MUDr.		65	lékař	Chuchelna	99	80	A	M
+5104	577154	1	2	902	4	Petr	Schlesinger	Ing.		47	projektant	Chuchelna	99	80	A	M
+5104	577154	1	1	901	5	Veronika	Hajná			40	šička	Chuchelna	99	80	A	F
+5104	577154	1	2	902	5	Magdalena	Ceé		DiS.	38	referentka krajské hygienické stanice	Chuchelna	99	80	A	F
+5104	577154	1	1	901	6	Petr	Coufal			43	závodní lomu	Lhota	99	80	A	M
+5104	577154	1	2	902	6	Lukáš	Prskavec			31	policista	Komárov	99	80	A	M
+5104	577154	1	1	901	7	Marcela	Koucká			53	učitelka MŠ	Chuchelna	99	80	A	F
+5104	577154	1	2	902	7	Martin	Pitl			45	živnostník	Chuchelna	99	80	A	M
+5104	577154	1	1	901	8	Ivo	Vrabec			59	OSVČ	Chuchelna	99	80	A	M
+5104	577154	1	2	902	8	Michal	Prousek	Mgr.		39	právník	Chuchelna	99	80	A	M
+5104	577154	1	1	901	9	Eva	Peštová	Bc.		38	úřednice na MD	Chuchelna	99	80	A	F
+5104	577154	1	2	902	9	Tomáš	Hejl			39	pojišťovací poradce	Lhota	99	80	A	M
+5104	577154	1	1	901	10	Michal	Strnad	Ing.		31	OSVČ	Chuchelna	99	80	A	M
+5104	577154	1	2	902	10	Jan	Picek	Ing.		46	vedoucí pracovník katastrálního úřadu	Chuchelna	99	80	A	M
+5104	577154	1	1	901	11	Aleš	Posledník			34	referent na úřadu práce	Lhota	99	80	A	M
+5104	577154	1	2	902	11	Daniela	Plívová			47	vedoucí klientského pracoviště VZP	Chuchelna	99	80	A	F
+5104	577154	1	1	901	12	Tomáš	Makovička			41	policista	Chuchelna	99	80	A	M
+5104	577154	1	2	902	12	Jaroslav	Vocelka			52	truhlář	Chuchelna	99	80	A	M
+5104	577154	1	1	901	13	Iveta	Bílková			54	skladnice	Chuchelna	99	80	A	F
+5104	577154	1	2	902	13	Šárka	Bažantová	Mgr.		45	lektorka	Chuchelna	99	80	A	F
+5104	577154	1	1	901	14	Jiří	Řehák			49	technik	Lhota	99	80	A	M
+5104	577154	1	2	902	14	Vladimír	Tomeš	Ing.		45	soustružník	Chuchelna	99	80	A	M
+5104	577154	1	1	901	15	Jan	Wohlmuth	Ing.		41	ředitel - ŘSD, správa Liberec	Chuchelna	99	80	A	M
+5104	577154	1	2	902	15	Jan	Plíva			47	živnostník	Chuchelna	99	80	A	M

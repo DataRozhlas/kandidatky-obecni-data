@@ -1,32 +1,32 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2110	531618	1	1	901	1	Dušan	Mrňa	M	PhDr.		52	podnikatel	Nučice	99	80	0
-2110	531618	1	1	901	2	Martin	Kozák	M	Bc.		25	student	Nučice	99	80	0
-2110	531618	1	1	901	3	Jana	Čapková	F			56	učitelka-vychovatelka	Nučice	99	80	0
-2110	531618	1	1	901	4	Pavel	Syrový	M			58	správce FVE	Nučice	99	80	0
-2110	531618	1	1	901	5	Jiří	Svačina	M			61	správce FVE	Nučice	99	80	0
-2110	531618	1	1	901	6	Bohumil	Kšána	M			54	zámečník	Nučice	99	80	0
-2110	531618	1	1	901	7	Václav	Dobrovodský	M			59	podnikatel	Nučice	99	80	0
-2110	531618	1	2	904	1	Vladimír	Kubík	M			45	živnostník	Nučice	99	80	0
-2110	531618	1	2	904	2	Miroslav	Babka	M	Ing.		50	technický konzultant	Nučice	99	80	0
-2110	531618	1	2	904	3	Eliška	Sedláčková	F			53	referent	Nučice	99	80	0
-2110	531618	1	2	904	4	Milan	Kropáč	M	Ing.		45	technický konzultant	Nučice	99	80	0
-2110	531618	1	2	904	5	Tomáš	Grežo	M			33	živnostník	Nučice	99	80	0
-2110	531618	1	2	904	6	Ivana	Kubíková	F	Ing.		37	stavební inženýr	Nučice	99	80	0
-2110	531618	1	2	904	7	Daniela	Havlová	F			41	obchodní manažer	Nučice	99	80	0
-2110	531618	1	2	904	8	Ladislav	Novotný	M	RNDr.		56	manažer řízení nabídek	Nučice	99	80	0
-2110	531618	1	3	903	1	Ludmila	Svobodová	F			56	ekonom	Nučice	99	80	0
-2110	531618	1	3	903	2	Luboš	Poláček	M			56	podnikatel	Nučice	99	80	0
-2110	531618	1	3	903	3	Marcela	Kubátová	F			51	zástupkyně ŘŠ pro MŠ	Nučice	99	80	0
-2110	531618	1	3	903	4	Miloslav	Douša	M			61	technik	Nučice	99	80	0
-2110	531618	1	3	903	5	Peter	Juráš	M			41	obchodní manažer	Nučice	99	80	0
-2110	531618	1	3	903	6	Jiří	Martínek	M	Ing.		39	programátor	Nučice	99	80	0
-2110	531618	1	3	903	7	Jaromír	Janda	M			48	řidič	Nučice	99	80	0
-2110	531618	1	3	903	8	Antonín	Huntier	M			35	živnostník	Nučice	99	80	0
-2110	531618	1	4	902	1	Martin	Hejl	M	Mgr.		36	finanční poradce a ředitel NNO	Nučice	99	80	0
-2110	531618	1	4	902	2	Antonín	Švach	M			39	vedoucí reportážní techniky ČT	Nučice	99	80	0
-2110	531618	1	4	902	3	Aleš	Novák	M	JUDr.		63	právník	Nučice	99	80	0
-2110	531618	1	4	902	4	Daniela	Bártová	F			44	asistentka jednatelů	Nučice	99	80	0
-2110	531618	1	4	902	5	Jaroslav	Martinčík	M	Ing.		44	projektový manažer	Nučice	99	80	0
-2110	531618	1	4	902	6	Daniel	Průšek	M			45	stavbyvedoucí	Nučice	99	80	0
-2110	531618	1	4	902	7	Jaroslav	Šíp	M			45	dirigent a skladatel	Nučice	99	80	0
-2110	531618	1	4	902	8	Eduard	Jiran	M	Mgr.		43	manažer IT	Nučice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2110	531618	1	1	901	1	Dušan	Mrňa	PhDr.		52	podnikatel	Nučice	99	80	0	M
+2110	531618	1	2	904	1	Vladimír	Kubík			45	živnostník	Nučice	99	80	0	M
+2110	531618	1	3	903	1	Ludmila	Svobodová			56	ekonom	Nučice	99	80	0	F
+2110	531618	1	4	902	1	Martin	Hejl	Mgr.		36	finanční poradce a ředitel NNO	Nučice	99	80	0	M
+2110	531618	1	1	901	2	Martin	Kozák	Bc.		25	student	Nučice	99	80	0	M
+2110	531618	1	2	904	2	Miroslav	Babka	Ing.		50	technický konzultant	Nučice	99	80	0	M
+2110	531618	1	3	903	2	Luboš	Poláček			56	podnikatel	Nučice	99	80	0	M
+2110	531618	1	4	902	2	Antonín	Švach			39	vedoucí reportážní techniky ČT	Nučice	99	80	0	M
+2110	531618	1	1	901	3	Jana	Čapková			56	učitelka-vychovatelka	Nučice	99	80	0	F
+2110	531618	1	2	904	3	Eliška	Sedláčková			53	referent	Nučice	99	80	0	F
+2110	531618	1	3	903	3	Marcela	Kubátová			51	zástupkyně ŘŠ pro MŠ	Nučice	99	80	0	F
+2110	531618	1	4	902	3	Aleš	Novák	JUDr.		63	právník	Nučice	99	80	0	M
+2110	531618	1	1	901	4	Pavel	Syrový			58	správce FVE	Nučice	99	80	0	M
+2110	531618	1	2	904	4	Milan	Kropáč	Ing.		45	technický konzultant	Nučice	99	80	0	M
+2110	531618	1	3	903	4	Miloslav	Douša			61	technik	Nučice	99	80	0	M
+2110	531618	1	4	902	4	Daniela	Bártová			44	asistentka jednatelů	Nučice	99	80	0	F
+2110	531618	1	1	901	5	Jiří	Svačina			61	správce FVE	Nučice	99	80	0	M
+2110	531618	1	2	904	5	Tomáš	Grežo			33	živnostník	Nučice	99	80	0	M
+2110	531618	1	3	903	5	Peter	Juráš			41	obchodní manažer	Nučice	99	80	0	M
+2110	531618	1	4	902	5	Jaroslav	Martinčík	Ing.		44	projektový manažer	Nučice	99	80	0	M
+2110	531618	1	1	901	6	Bohumil	Kšána			54	zámečník	Nučice	99	80	0	M
+2110	531618	1	2	904	6	Ivana	Kubíková	Ing.		37	stavební inženýr	Nučice	99	80	0	F
+2110	531618	1	3	903	6	Jiří	Martínek	Ing.		39	programátor	Nučice	99	80	0	M
+2110	531618	1	4	902	6	Daniel	Průšek			45	stavbyvedoucí	Nučice	99	80	0	M
+2110	531618	1	1	901	7	Václav	Dobrovodský			59	podnikatel	Nučice	99	80	0	M
+2110	531618	1	2	904	7	Daniela	Havlová			41	obchodní manažer	Nučice	99	80	0	F
+2110	531618	1	3	903	7	Jaromír	Janda			48	řidič	Nučice	99	80	0	M
+2110	531618	1	4	902	7	Jaroslav	Šíp			45	dirigent a skladatel	Nučice	99	80	0	M
+2110	531618	1	2	904	8	Ladislav	Novotný	RNDr.		56	manažer řízení nabídek	Nučice	99	80	0	M
+2110	531618	1	3	903	8	Antonín	Huntier			35	živnostník	Nučice	99	80	0	M
+2110	531618	1	4	902	8	Eduard	Jiran	Mgr.		43	manažer IT	Nučice	99	80	0	M

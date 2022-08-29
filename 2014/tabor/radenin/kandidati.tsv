@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3107	552917	1	1	902	1	Vladimír	Fleischhans	M			30	živnostník	Lažany	99	80	0
-3107	552917	1	1	902	2	Lenka	Vaníčková Kučerová	F			32	mateřská dovolená	Radenín	99	80	0
-3107	552917	1	1	902	3	Jaroslav	Vaníček	M			34	dělník	Radenín	99	80	0
-3107	552917	1	2	901	1	Jaroslav	Kraus	M			62	starosta	Radenín	99	80	0
-3107	552917	1	2	901	2	Zdeněk	Kopecký	M			51	místostarosta	Radenín	99	80	0
-3107	552917	1	2	901	3	Lucie	Klejnová	F			32	vedoucí zahradnice	Terezín	99	80	0
-3107	552917	1	2	901	4	Milan	Knotek	M	Ing.		57	soukromý podnikatel	Radenín	99	80	0
-3107	552917	1	2	901	5	Luboš	Sedláček	M			39	elektromontér	Radenín	99	80	0
-3107	552917	1	2	901	6	Vít	Pošvář	M			30	elektromontér	Lažany	99	80	0
-3107	552917	1	2	901	7	Martin	Křivánek	M	Bc.		24	obchodní manager	Nuzbely	99	80	0
-3107	552917	1	2	901	8	Lenka	Janurová	F			23	student	Kozmice	99	80	0
-3107	552917	1	2	901	9	Jan	Janů	M			34	traktorista	Kozmice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3107	552917	1	1	902	1	Vladimír	Fleischhans			30	živnostník	Lažany	99	80	0	M
+3107	552917	1	2	901	1	Jaroslav	Kraus			62	starosta	Radenín	99	80	0	M
+3107	552917	1	1	902	2	Lenka	Vaníčková Kučerová			32	mateřská dovolená	Radenín	99	80	0	F
+3107	552917	1	2	901	2	Zdeněk	Kopecký			51	místostarosta	Radenín	99	80	0	M
+3107	552917	1	1	902	3	Jaroslav	Vaníček			34	dělník	Radenín	99	80	0	M
+3107	552917	1	2	901	3	Lucie	Klejnová			32	vedoucí zahradnice	Terezín	99	80	0	F
+3107	552917	1	2	901	4	Milan	Knotek	Ing.		57	soukromý podnikatel	Radenín	99	80	0	M
+3107	552917	1	2	901	5	Luboš	Sedláček			39	elektromontér	Radenín	99	80	0	M
+3107	552917	1	2	901	6	Vít	Pošvář			30	elektromontér	Lažany	99	80	0	M
+3107	552917	1	2	901	7	Martin	Křivánek	Bc.		24	obchodní manager	Nuzbely	99	80	0	M
+3107	552917	1	2	901	8	Lenka	Janurová			23	student	Kozmice	99	80	0	F
+3107	552917	1	2	901	9	Jan	Janů			34	traktorista	Kozmice	99	80	0	M

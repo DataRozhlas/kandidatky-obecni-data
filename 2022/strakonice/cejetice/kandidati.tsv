@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3106	550922	1	1	470	1	Ivana	Zelenková	F			59	starostka	Čejetice	166	166	A
-3106	550922	1	1	470	2	Radek	Vachuška	M			52	mechanizátor	Čejetice	99	80	A
-3106	550922	1	1	470	3	Radim	Novák	M			38	OSVČ	Sudoměř	99	80	A
-3106	550922	1	1	470	4	Radek	Velíšek	M			35	OSVČ	Čejetice	99	80	A
-3106	550922	1	1	470	5	Klára	Slavatová	F	MVDr.		33	veterinární lékařka	Sudoměř	99	80	A
-3106	550922	1	1	470	6	Kryštof	Hofman	M			31	OSVČ	Čejetice	99	80	A
-3106	550922	1	1	470	7	Libor	Červinčák	M			52	řidič	Čejetice	99	80	A
-3106	550922	1	1	470	8	Milan	Babka	M			34	OSVČ	Čejetice	99	80	A
-3106	550922	1	1	470	9	Václava	Bublíková	F			49	třídička textilu	Čejetice	99	80	A
-3106	550922	1	2	355	1	Jana	Hrdinová	F			46	OSVČ	Sudoměř	1	1	A
-3106	550922	1	2	355	2	Eva	Hurychová	F			46	administrativní pracovnice	Sedlíkovice	99	80	A
-3106	550922	1	2	355	3	Jan	Sedláček	M	Ing.		49	ekonom	Čejetice	99	80	A
-3106	550922	1	2	355	4	Luděk	Král	M			52	strojař	Čejetice	99	80	A
-3106	550922	1	2	355	5	Jitka	Fialová	F	Mgr. Ing.	MBA	37	vědecký pracovník	Čejetice	1	1	A
-3106	550922	1	2	355	6	Pavel	Diviš	M			44	podnikatel	Sudoměř	99	80	A
-3106	550922	1	2	355	7	Michal	Hradský	M			45	OSVČ	Čejetice	99	80	A
-3106	550922	1	2	355	8	Jiří	Dunovský	M			41	OSVČ	Sudoměř	99	80	A
-3106	550922	1	2	355	9	Karel	Háva	M			35	OSVČ	Sudoměř	99	80	A
-3106	550922	1	3	901	1	Jaromír	Toman	M			40	zemědělský technik	Mladějovice	99	80	A
-3106	550922	1	3	901	2	Miroslav	Čížek	M			34	stavbyvedoucí	Mladějovice	99	80	A
-3106	550922	1	3	901	3	Petr	Novák	M			35	samostatný referent	Mladějovice	99	80	A
-3106	550922	1	3	901	4	Martina	Rišková	F	Ing.		36	referentka odbytu	Mladějovice	99	80	A
-3106	550922	1	3	901	5	Miroslav	Valenta	M			57	strojní technik	Mladějovice	99	80	A
-3106	550922	1	3	901	6	Vladimír	Riederer	M			67	důchodce	Mladějovice	99	80	A
-3106	550922	1	3	901	7	Vladislav	Zíka	M			42	bezpečnostní technik	Mladějovice	99	80	A
-3106	550922	1	3	901	8	Eva	Tomanová	F			41	OSVČ	Sedliště	99	80	A
-3106	550922	1	3	901	9	Václav	Čížek	M			48	OSVČ	Mladějovice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3106	550922	1	1	470	1	Ivana	Zelenková			59	starostka	Čejetice	166	166	A	F
+3106	550922	1	2	355	1	Jana	Hrdinová			46	OSVČ	Sudoměř	1	1	A	F
+3106	550922	1	3	901	1	Jaromír	Toman			40	zemědělský technik	Mladějovice	99	80	A	M
+3106	550922	1	1	470	2	Radek	Vachuška			52	mechanizátor	Čejetice	99	80	A	M
+3106	550922	1	2	355	2	Eva	Hurychová			46	administrativní pracovnice	Sedlíkovice	99	80	A	F
+3106	550922	1	3	901	2	Miroslav	Čížek			34	stavbyvedoucí	Mladějovice	99	80	A	M
+3106	550922	1	1	470	3	Radim	Novák			38	OSVČ	Sudoměř	99	80	A	M
+3106	550922	1	2	355	3	Jan	Sedláček	Ing.		49	ekonom	Čejetice	99	80	A	M
+3106	550922	1	3	901	3	Petr	Novák			35	samostatný referent	Mladějovice	99	80	A	M
+3106	550922	1	1	470	4	Radek	Velíšek			35	OSVČ	Čejetice	99	80	A	M
+3106	550922	1	2	355	4	Luděk	Král			52	strojař	Čejetice	99	80	A	M
+3106	550922	1	3	901	4	Martina	Rišková	Ing.		36	referentka odbytu	Mladějovice	99	80	A	F
+3106	550922	1	1	470	5	Klára	Slavatová	MVDr.		33	veterinární lékařka	Sudoměř	99	80	A	F
+3106	550922	1	2	355	5	Jitka	Fialová	Mgr. Ing.	MBA	37	vědecký pracovník	Čejetice	1	1	A	F
+3106	550922	1	3	901	5	Miroslav	Valenta			57	strojní technik	Mladějovice	99	80	A	M
+3106	550922	1	1	470	6	Kryštof	Hofman			31	OSVČ	Čejetice	99	80	A	M
+3106	550922	1	2	355	6	Pavel	Diviš			44	podnikatel	Sudoměř	99	80	A	M
+3106	550922	1	3	901	6	Vladimír	Riederer			67	důchodce	Mladějovice	99	80	A	M
+3106	550922	1	1	470	7	Libor	Červinčák			52	řidič	Čejetice	99	80	A	M
+3106	550922	1	2	355	7	Michal	Hradský			45	OSVČ	Čejetice	99	80	A	M
+3106	550922	1	3	901	7	Vladislav	Zíka			42	bezpečnostní technik	Mladějovice	99	80	A	M
+3106	550922	1	1	470	8	Milan	Babka			34	OSVČ	Čejetice	99	80	A	M
+3106	550922	1	2	355	8	Jiří	Dunovský			41	OSVČ	Sudoměř	99	80	A	M
+3106	550922	1	3	901	8	Eva	Tomanová			41	OSVČ	Sedliště	99	80	A	F
+3106	550922	1	1	470	9	Václava	Bublíková			49	třídička textilu	Čejetice	99	80	A	F
+3106	550922	1	2	355	9	Karel	Háva			35	OSVČ	Sudoměř	99	80	A	M
+3106	550922	1	3	901	9	Václav	Čížek			48	OSVČ	Mladějovice	99	80	A	M

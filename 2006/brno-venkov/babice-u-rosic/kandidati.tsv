@@ -1,22 +1,22 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	582808	1	1	901	1	Libor	Zelinka	M			34	řidič z povolání	Babice u Rosic	99	80	0
-6203	582808	1	1	901	2	Ladislav	Brabec	M			35	operátor skladu	Babice u Rosic	99	80	0
-6203	582808	1	1	901	3	Bohumil	Foral	M	Ing.		38	strojní inženýr	Babice u Rosic	99	80	0
-6203	582808	1	1	901	4	Jan	Zelinka	M			34	řidič z povolání	Babice u Rosic	99	80	0
-6203	582808	1	1	901	5	Martina	Křížová	F			33	prodavačka	Babice u Rosic	99	80	0
-6203	582808	1	1	901	6	František	Brim	M			38	manažer	Babice u Rosic	99	80	0
-6203	582808	1	2	449	1	Vladimír	Blažejovský	M			37	starosta obce	Babice u Rosic	99	80	0
-6203	582808	1	2	449	2	Renata	Vytopilová	F	Ing.		35	manažer pobočky	Babice u Rosic	99	80	0
-6203	582808	1	2	449	3	Oldřich	Kolář	M			54	dělník	Babice u Rosic	99	80	0
-6203	582808	1	2	449	4	Ivana	Machová	F	Mgr.		41	učitelka	Babice u Rosic	99	80	0
-6203	582808	1	2	449	5	Alois	Švihálek	M			68	důchodce	Babice u Rosic	99	80	0
-6203	582808	1	2	449	6	Hana	Pazderová	F			30	ošetřovatelka	Babice u Rosic	99	80	0
-6203	582808	1	2	449	7	Petr	Procházka	M			52	soukromý podnikatel	Babice u Rosic	99	80	0
-6203	582808	1	2	449	8	Emilie	Krásenská	F			60	důchodce	Babice u Rosic	99	80	0
-6203	582808	1	3	53	1	Jan	Kotas	M	Ing.		44	vedoucí pracovník - THP	Babice u Rosic	53	53	0
-6203	582808	1	3	53	2	Pavel	Neuman	M			47	OSVČ	Babice u Rosic	99	53	0
-6203	582808	1	3	53	3	Aleš	Jurda	M			33	řidič	Babice u Rosic	99	53	0
-6203	582808	1	3	53	4	Václav	Badura	M	Ing.		58	technik	Babice u Rosic	99	53	0
-6203	582808	1	3	53	5	Jan	Vlček	M			29	OSVČ	Babice u Rosic	99	53	0
-6203	582808	1	3	53	6	Kateřina	Boleslavová	F			30	obchodní zástupce	Babice u Rosic	99	53	0
-6203	582808	1	3	53	7	Miroslav	Kocian	M			45	OSVČ	Babice u Rosic	99	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	582808	1	1	901	1	Libor	Zelinka			34	řidič z povolání	Babice u Rosic	99	80	0	M
+6203	582808	1	2	449	1	Vladimír	Blažejovský			37	starosta obce	Babice u Rosic	99	80	0	M
+6203	582808	1	3	53	1	Jan	Kotas	Ing.		44	vedoucí pracovník - THP	Babice u Rosic	53	53	0	M
+6203	582808	1	1	901	2	Ladislav	Brabec			35	operátor skladu	Babice u Rosic	99	80	0	M
+6203	582808	1	2	449	2	Renata	Vytopilová	Ing.		35	manažer pobočky	Babice u Rosic	99	80	0	F
+6203	582808	1	3	53	2	Pavel	Neuman			47	OSVČ	Babice u Rosic	99	53	0	M
+6203	582808	1	1	901	3	Bohumil	Foral	Ing.		38	strojní inženýr	Babice u Rosic	99	80	0	M
+6203	582808	1	2	449	3	Oldřich	Kolář			54	dělník	Babice u Rosic	99	80	0	M
+6203	582808	1	3	53	3	Aleš	Jurda			33	řidič	Babice u Rosic	99	53	0	M
+6203	582808	1	1	901	4	Jan	Zelinka			34	řidič z povolání	Babice u Rosic	99	80	0	M
+6203	582808	1	2	449	4	Ivana	Machová	Mgr.		41	učitelka	Babice u Rosic	99	80	0	F
+6203	582808	1	3	53	4	Václav	Badura	Ing.		58	technik	Babice u Rosic	99	53	0	M
+6203	582808	1	1	901	5	Martina	Křížová			33	prodavačka	Babice u Rosic	99	80	0	F
+6203	582808	1	2	449	5	Alois	Švihálek			68	důchodce	Babice u Rosic	99	80	0	M
+6203	582808	1	3	53	5	Jan	Vlček			29	OSVČ	Babice u Rosic	99	53	0	M
+6203	582808	1	1	901	6	František	Brim			38	manažer	Babice u Rosic	99	80	0	M
+6203	582808	1	2	449	6	Hana	Pazderová			30	ošetřovatelka	Babice u Rosic	99	80	0	F
+6203	582808	1	3	53	6	Kateřina	Boleslavová			30	obchodní zástupce	Babice u Rosic	99	53	0	F
+6203	582808	1	2	449	7	Petr	Procházka			52	soukromý podnikatel	Babice u Rosic	99	80	0	M
+6203	582808	1	3	53	7	Miroslav	Kocian			45	OSVČ	Babice u Rosic	99	53	0	M
+6203	582808	1	2	449	8	Emilie	Krásenská			60	důchodce	Babice u Rosic	99	80	0	F

@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7201	589128	1	1	470	1	Martin	Suchý	M			43	manažer / místostarosta	Věžky	99	166	A
-7201	589128	1	1	470	2	Roman	Jelínek	M	Ing.		39	OSVČ	Věžky	99	80	A
-7201	589128	1	1	470	3	Soňa	Prandorfiová	F			57	úřednice	Věžky	99	80	A
-7201	589128	1	1	470	4	Stanislav	Kopeček	M			56	montér v plynárnách	Věžky	99	80	A
-7201	589128	1	1	470	5	Michal	Kovář	M			35	zaměstnanec družstva	Věžky	99	80	A
-7201	589128	1	1	470	6	Pavel	Krčmář	M			38	obsluha CNC	Věžky	99	80	A
-7201	589128	1	1	470	7	Bohumíra	Daňková	F			38	dělnice	Věžky	99	80	A
-7201	589128	1	2	901	1	Aleš	Bosák	M	Bc.		36	starosta	Věžky	99	80	A
-7201	589128	1	2	901	2	Simona	Chromcová	F			46	pracovník v sociálních službách	Vlčí Doly	99	80	A
-7201	589128	1	2	901	3	Veronika	Nováková	F			30	referent zaměstnanosti	Věžky	99	80	A
-7201	589128	1	2	901	4	Lucie	Tronečková	F	Bc.		32	specialistka prodeje	Věžky	99	80	A
-7201	589128	1	2	901	5	Martin	Zavadil	M			31	OSVČ	Věžky	99	80	A
-7201	589128	1	2	901	6	Jaromír	Daněk	M			38	manipulátor ve výrobě	Věžky	99	80	A
-7201	589128	1	2	901	7	Pavel	Gazda	M			25	OSVČ	Věžky	99	80	A
-7201	589128	1	2	901	8	Jana	Mrhálková	F			53	účetní	Věžky	99	80	A
-7201	589128	1	2	901	9	Ivanka	Zavadilová	F			57	OSVČ	Věžky	99	80	A
-7201	589128	1	3	902	1	Marek	Mrhálek	M			29	profesionální řidič	Věžky	99	80	A
-7201	589128	1	3	902	2	Michal	Troneček	M			38	technik STK	Věžky	99	80	A
-7201	589128	1	3	902	3	Radovan	Sas	M			50	dělník	Vlčí Doly	99	80	A
-7201	589128	1	3	902	4	Tomáš	Hýsek	M			39	živnostník	Věžky	99	80	A
-7201	589128	1	3	902	5	Kristýna	Zavřelová	F			43	kuchařka	Věžky	99	80	A
-7201	589128	1	3	902	6	Pavel	Konečný	M			59	strojírenský technik	Věžky	99	80	A
-7201	589128	1	3	902	7	Martin	Majda	M			43	skladník	Věžky	99	80	A
-7201	589128	1	3	902	8	Šárka	Nováková	F			24	písařka	Věžky	99	80	A
-7201	589128	1	3	902	9	Robert	Gazda	M			43	živnostník	Věžky	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7201	589128	1	1	470	1	Martin	Suchý			43	manažer / místostarosta	Věžky	99	166	A	M
+7201	589128	1	2	901	1	Aleš	Bosák	Bc.		36	starosta	Věžky	99	80	A	M
+7201	589128	1	3	902	1	Marek	Mrhálek			29	profesionální řidič	Věžky	99	80	A	M
+7201	589128	1	1	470	2	Roman	Jelínek	Ing.		39	OSVČ	Věžky	99	80	A	M
+7201	589128	1	2	901	2	Simona	Chromcová			46	pracovník v sociálních službách	Vlčí Doly	99	80	A	F
+7201	589128	1	3	902	2	Michal	Troneček			38	technik STK	Věžky	99	80	A	M
+7201	589128	1	1	470	3	Soňa	Prandorfiová			57	úřednice	Věžky	99	80	A	F
+7201	589128	1	2	901	3	Veronika	Nováková			30	referent zaměstnanosti	Věžky	99	80	A	F
+7201	589128	1	3	902	3	Radovan	Sas			50	dělník	Vlčí Doly	99	80	A	M
+7201	589128	1	1	470	4	Stanislav	Kopeček			56	montér v plynárnách	Věžky	99	80	A	M
+7201	589128	1	2	901	4	Lucie	Tronečková	Bc.		32	specialistka prodeje	Věžky	99	80	A	F
+7201	589128	1	3	902	4	Tomáš	Hýsek			39	živnostník	Věžky	99	80	A	M
+7201	589128	1	1	470	5	Michal	Kovář			35	zaměstnanec družstva	Věžky	99	80	A	M
+7201	589128	1	2	901	5	Martin	Zavadil			31	OSVČ	Věžky	99	80	A	M
+7201	589128	1	3	902	5	Kristýna	Zavřelová			43	kuchařka	Věžky	99	80	A	F
+7201	589128	1	1	470	6	Pavel	Krčmář			38	obsluha CNC	Věžky	99	80	A	M
+7201	589128	1	2	901	6	Jaromír	Daněk			38	manipulátor ve výrobě	Věžky	99	80	A	M
+7201	589128	1	3	902	6	Pavel	Konečný			59	strojírenský technik	Věžky	99	80	A	M
+7201	589128	1	1	470	7	Bohumíra	Daňková			38	dělnice	Věžky	99	80	A	F
+7201	589128	1	2	901	7	Pavel	Gazda			25	OSVČ	Věžky	99	80	A	M
+7201	589128	1	3	902	7	Martin	Majda			43	skladník	Věžky	99	80	A	M
+7201	589128	1	2	901	8	Jana	Mrhálková			53	účetní	Věžky	99	80	A	F
+7201	589128	1	3	902	8	Šárka	Nováková			24	písařka	Věžky	99	80	A	F
+7201	589128	1	2	901	9	Ivanka	Zavadilová			57	OSVČ	Věžky	99	80	A	F
+7201	589128	1	3	902	9	Robert	Gazda			43	živnostník	Věžky	99	80	A	M

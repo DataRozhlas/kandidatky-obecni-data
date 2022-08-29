@@ -1,25 +1,25 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	583499	1	1	901	1	Milan	Vrba	M			45	soukromý podnikatel	Nesvačilka	99	80	0
-6203	583499	1	1	901	2	Martin	Antl	M			36	živnostník	Nesvačilka	99	80	0
-6203	583499	1	1	901	3	Pavel	Nádeníček	M			34	živnostník	Nesvačilka	99	80	0
-6203	583499	1	1	901	4	Danuše	Kulíšková	F			47	koordinátorka	Nesvačilka	99	80	0
-6203	583499	1	1	901	5	Oldřich	Vystavěl	M			58	dělník	Nesvačilka	99	80	0
-6203	583499	1	1	901	6	Pavel	Lízal	M			34	živnostník	Nesvačilka	99	80	0
-6203	583499	1	1	901	7	Lubomír	Lízal	M			34	živnostník	Nesvačilka	99	80	0
-6203	583499	1	1	901	8	Milan	Hrouzek	M			52	soukromý podnikatel	Nesvačilka	99	80	0
-6203	583499	1	1	901	9	Vít	Lízal	M			32	geodet	Nesvačilka	99	80	0
-6203	583499	1	2	166	1	Jiří	Máca	M			54	místostarosta	Nesvačilka	99	166	0
-6203	583499	1	2	166	2	Hana	Ondráčková	F			46	dělnice	Nesvačilka	99	166	0
-6203	583499	1	2	166	3	Ivan	Krejčiřík	M			50	servisní technik	Nesvačilka	99	166	0
-6203	583499	1	2	166	4	Iva	Husáková	F			43	zlatnice	Nesvačilka	99	166	0
-6203	583499	1	2	166	5	Jiří	Endlicher	M			46	podnikatel	Nesvačilka	99	166	0
-6203	583499	1	2	166	6	Jana	Bednářová	F			40	administrativní pracovník	Nesvačilka	99	166	0
-6203	583499	1	2	166	7	Lubomír	Klusák	M			33	podnikatel	Nesvačilka	99	166	0
-6203	583499	1	3	1	1	Martin	Barták	M			30	živnostník	Nesvačilka	99	1	0
-6203	583499	1	3	1	2	Jan	Hrdlička	M			22	státní zaměstnanec	Nesvačilka	99	1	0
-6203	583499	1	3	1	3	Roman	Přerovský	M			45	instalatér	Nesvačilka	99	1	0
-6203	583499	1	3	1	4	Zdeněk	Vozdecký	M			58	dělník	Nesvačilka	99	1	0
-6203	583499	1	3	1	5	Marie	Vašková	F			64	důchodkyně	Nesvačilka	99	1	0
-6203	583499	1	3	1	6	František	Hrdlička	M			60	zedník	Nesvačilka	1	1	0
-6203	583499	1	3	1	7	Jaroslav	Klanica	M			66	důchodce	Nesvačilka	99	1	0
-6203	583499	1	3	1	8	Miloš	Poláček	M			47	živnostník	Nesvačilka	1	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	583499	1	1	901	1	Milan	Vrba			45	soukromý podnikatel	Nesvačilka	99	80	0	M
+6203	583499	1	2	166	1	Jiří	Máca			54	místostarosta	Nesvačilka	99	166	0	M
+6203	583499	1	3	1	1	Martin	Barták			30	živnostník	Nesvačilka	99	1	0	M
+6203	583499	1	1	901	2	Martin	Antl			36	živnostník	Nesvačilka	99	80	0	M
+6203	583499	1	2	166	2	Hana	Ondráčková			46	dělnice	Nesvačilka	99	166	0	F
+6203	583499	1	3	1	2	Jan	Hrdlička			22	státní zaměstnanec	Nesvačilka	99	1	0	M
+6203	583499	1	1	901	3	Pavel	Nádeníček			34	živnostník	Nesvačilka	99	80	0	M
+6203	583499	1	2	166	3	Ivan	Krejčiřík			50	servisní technik	Nesvačilka	99	166	0	M
+6203	583499	1	3	1	3	Roman	Přerovský			45	instalatér	Nesvačilka	99	1	0	M
+6203	583499	1	1	901	4	Danuše	Kulíšková			47	koordinátorka	Nesvačilka	99	80	0	F
+6203	583499	1	2	166	4	Iva	Husáková			43	zlatnice	Nesvačilka	99	166	0	F
+6203	583499	1	3	1	4	Zdeněk	Vozdecký			58	dělník	Nesvačilka	99	1	0	M
+6203	583499	1	1	901	5	Oldřich	Vystavěl			58	dělník	Nesvačilka	99	80	0	M
+6203	583499	1	2	166	5	Jiří	Endlicher			46	podnikatel	Nesvačilka	99	166	0	M
+6203	583499	1	3	1	5	Marie	Vašková			64	důchodkyně	Nesvačilka	99	1	0	F
+6203	583499	1	1	901	6	Pavel	Lízal			34	živnostník	Nesvačilka	99	80	0	M
+6203	583499	1	2	166	6	Jana	Bednářová			40	administrativní pracovník	Nesvačilka	99	166	0	F
+6203	583499	1	3	1	6	František	Hrdlička			60	zedník	Nesvačilka	1	1	0	M
+6203	583499	1	1	901	7	Lubomír	Lízal			34	živnostník	Nesvačilka	99	80	0	M
+6203	583499	1	2	166	7	Lubomír	Klusák			33	podnikatel	Nesvačilka	99	166	0	M
+6203	583499	1	3	1	7	Jaroslav	Klanica			66	důchodce	Nesvačilka	99	1	0	M
+6203	583499	1	1	901	8	Milan	Hrouzek			52	soukromý podnikatel	Nesvačilka	99	80	0	M
+6203	583499	1	3	1	8	Miloš	Poláček			47	živnostník	Nesvačilka	1	1	0	M
+6203	583499	1	1	901	9	Vít	Lízal			32	geodet	Nesvačilka	99	80	0	M

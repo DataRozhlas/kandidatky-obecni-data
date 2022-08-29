@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5104	577006	1	1	902	1	Lucie	Šnaiberková	F	Bc.		37	úřednice	Bozkov	99	80	0
-5104	577006	1	1	902	2	Vladimír	Lampa	M	Ing.		54	úředník	Bozkov	99	80	0
-5104	577006	1	1	902	3	Lucie	Bartoňová	F			30	logistik	Bozkov	99	80	0
-5104	577006	1	1	902	4	Petr	Jakubička	M			53	živnostník	Bozkov	99	80	0
-5104	577006	1	1	902	5	Jaroslav	Hlava	M			55	živnostník	Bozkov	99	80	0
-5104	577006	1	1	902	6	Jakub	Svoboda	M			34	vedoucí servisu	Bozkov	99	80	0
-5104	577006	1	1	902	7	Josef	Kurfiřt	M			57	technicko hospodářský pracovník	Bozkov	99	80	0
-5104	577006	1	1	902	8	Josef	Pánek	M			31	IT konzultant	Bozkov	99	80	0
-5104	577006	1	1	902	9	Lukáš	Suchý	M			31	projektový manažer	Bozkov	99	80	0
-5104	577006	1	1	902	10	Jiří	Lampa	M			47	grafik	Bozkov	99	80	0
-5104	577006	1	1	902	11	Stanislav	Kasan	M	Ing.		57	odborný ekolog	Bozkov	99	80	0
-5104	577006	1	1	902	12	Marie	Kasanová	F	Ing.		59	referent správy majetku státu	Bozkov	99	80	0
-5104	577006	1	1	902	13	Jakub	Pfeifer	M			25	strojař	Bozkov	99	80	0
-5104	577006	1	1	902	14	Milan	Honců	M			50	živnostník	Bozkov	99	80	0
-5104	577006	1	1	902	15	Pavel	Jeřábek	M			41	truhlář	Bozkov	99	80	0
-5104	577006	1	2	901	1	Stanislav	Doubek	M			42	starosta	Bozkov	99	80	0
-5104	577006	1	2	901	2	Vratislav	Ouhrabka	M	Mgr.		51	speleolog	Bozkov	99	80	0
-5104	577006	1	2	901	3	Karel	Valha	M			39	OSVČ - instalatér	Bozkov	99	80	0
-5104	577006	1	2	901	4	Zuzana	Nesvadbová	F			45	OSVČ - vedoucí servisu	Bozkov	99	80	0
-5104	577006	1	2	901	5	Karel	Čermák	M	Bc.		40	vedoucí provozu	Bozkov	99	80	0
-5104	577006	1	2	901	6	Filip	Balatka	M			33	obchodní náměstek	Bozkov	99	80	0
-5104	577006	1	2	901	7	Zdeněk	Vodseďálek	M			51	podnikatel - majitel stavební firmy	Bozkov	99	80	0
-5104	577006	1	2	901	8	Milan	Kurfiřt	M			44	řidič - prodejce	Bozkov	99	80	0
-5104	577006	1	2	901	9	Blanka	Babcová	F			49	vychovatelka	Bozkov	99	80	0
-5104	577006	1	2	901	10	Milada	Picková	F			44	prodavačka	Bozkov	99	80	0
-5104	577006	1	2	901	11	Eva	Kurfiřtová	F			59	ředitelka MŠ a ZŠ	Bozkov	99	80	0
-5104	577006	1	2	901	12	Jana	Baánová	F			36	referentka odbytu	Bozkov	99	80	0
-5104	577006	1	2	901	13	Josef	Dolenský	M			40	OSVČ - elektrikář	Bozkov	99	80	0
-5104	577006	1	2	901	14	Stanislav	Doubek	M			67	důchodce	Bozkov	768	80	0
-5104	577006	1	2	901	15	Oldřich	Zilvar	M			85	důchodce	Bozkov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5104	577006	1	1	902	1	Lucie	Šnaiberková	Bc.		37	úřednice	Bozkov	99	80	0	F
+5104	577006	1	2	901	1	Stanislav	Doubek			42	starosta	Bozkov	99	80	0	M
+5104	577006	1	1	902	2	Vladimír	Lampa	Ing.		54	úředník	Bozkov	99	80	0	M
+5104	577006	1	2	901	2	Vratislav	Ouhrabka	Mgr.		51	speleolog	Bozkov	99	80	0	M
+5104	577006	1	1	902	3	Lucie	Bartoňová			30	logistik	Bozkov	99	80	0	F
+5104	577006	1	2	901	3	Karel	Valha			39	OSVČ - instalatér	Bozkov	99	80	0	M
+5104	577006	1	1	902	4	Petr	Jakubička			53	živnostník	Bozkov	99	80	0	M
+5104	577006	1	2	901	4	Zuzana	Nesvadbová			45	OSVČ - vedoucí servisu	Bozkov	99	80	0	F
+5104	577006	1	1	902	5	Jaroslav	Hlava			55	živnostník	Bozkov	99	80	0	M
+5104	577006	1	2	901	5	Karel	Čermák	Bc.		40	vedoucí provozu	Bozkov	99	80	0	M
+5104	577006	1	1	902	6	Jakub	Svoboda			34	vedoucí servisu	Bozkov	99	80	0	M
+5104	577006	1	2	901	6	Filip	Balatka			33	obchodní náměstek	Bozkov	99	80	0	M
+5104	577006	1	1	902	7	Josef	Kurfiřt			57	technicko hospodářský pracovník	Bozkov	99	80	0	M
+5104	577006	1	2	901	7	Zdeněk	Vodseďálek			51	podnikatel - majitel stavební firmy	Bozkov	99	80	0	M
+5104	577006	1	1	902	8	Josef	Pánek			31	IT konzultant	Bozkov	99	80	0	M
+5104	577006	1	2	901	8	Milan	Kurfiřt			44	řidič - prodejce	Bozkov	99	80	0	M
+5104	577006	1	1	902	9	Lukáš	Suchý			31	projektový manažer	Bozkov	99	80	0	M
+5104	577006	1	2	901	9	Blanka	Babcová			49	vychovatelka	Bozkov	99	80	0	F
+5104	577006	1	1	902	10	Jiří	Lampa			47	grafik	Bozkov	99	80	0	M
+5104	577006	1	2	901	10	Milada	Picková			44	prodavačka	Bozkov	99	80	0	F
+5104	577006	1	1	902	11	Stanislav	Kasan	Ing.		57	odborný ekolog	Bozkov	99	80	0	M
+5104	577006	1	2	901	11	Eva	Kurfiřtová			59	ředitelka MŠ a ZŠ	Bozkov	99	80	0	F
+5104	577006	1	1	902	12	Marie	Kasanová	Ing.		59	referent správy majetku státu	Bozkov	99	80	0	F
+5104	577006	1	2	901	12	Jana	Baánová			36	referentka odbytu	Bozkov	99	80	0	F
+5104	577006	1	1	902	13	Jakub	Pfeifer			25	strojař	Bozkov	99	80	0	M
+5104	577006	1	2	901	13	Josef	Dolenský			40	OSVČ - elektrikář	Bozkov	99	80	0	M
+5104	577006	1	1	902	14	Milan	Honců			50	živnostník	Bozkov	99	80	0	M
+5104	577006	1	2	901	14	Stanislav	Doubek			67	důchodce	Bozkov	768	80	0	M
+5104	577006	1	1	902	15	Pavel	Jeřábek			41	truhlář	Bozkov	99	80	0	M
+5104	577006	1	2	901	15	Oldřich	Zilvar			85	důchodce	Bozkov	99	80	0	M

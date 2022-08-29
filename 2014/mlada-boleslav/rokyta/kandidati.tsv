@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2107	529605	1	1	902	1	Jiřina	Loupová	F			67	důchodce	Dolní Rokytá - Rokytá	99	80	0
-2107	529605	1	1	902	2	Josef	Malík	M			55	pracovník VaK MB	Dolní Rokytá - Rokytá	99	80	0
-2107	529605	1	1	902	3	Josef	Růžička	M			67	důchodce	Dolní Rokytá - Rokytá	99	80	0
-2107	529605	1	1	902	4	Antonín	Marek	M			45	pracovník Škoda Auto	Horní Rokytá - Rokytá	99	80	0
-2107	529605	1	1	902	5	Martin	Václavík	M			51	zemědělec	Horní Rokytá - Rokytá	99	80	0
-2107	529605	1	1	902	6	Martina	Procházková	F			39	vedoucí logistiky	Horní Rokytá - Rokytá	99	80	0
-2107	529605	1	1	902	7	Ladislav	Doleček	M			65	testovací řidič	Dolní Rokytá - Rokytá	99	80	0
-2107	529605	1	1	902	8	Radka	Marková	F			40	zaměstnanec LDN MH	Horní Rokytá - Rokytá	99	80	0
-2107	529605	1	1	902	9	Kateřina	Hlaváčková	F			37	žena v domácnosti	Dolní Rokytá - Rokytá	99	80	0
-2107	529605	1	2	901	1	Aleš	Pícl	M		MBA	41	obchodník	Horní Rokytá	99	80	0
-2107	529605	1	2	901	2	Hana	Vodolanová	F			39	porodní asistentka	Horní Rokytá	99	80	0
-2107	529605	1	2	901	3	Václav	Hyka	M			34	seřizovač strojů	Dolní Rokytá	99	80	0
-2107	529605	1	2	901	4	Petr	Antoš	M			35	karosář	Dolní Rokytá	99	80	0
-2107	529605	1	2	901	5	Kateřina	Nevřelová	F	Bc.	DiS.	29	předškolní pedagog	Dolní Rokytá	99	80	0
-2107	529605	1	2	901	6	Miroslav	Janoušek	M			44	mechanik	Mnichovo Hradiště	99	80	0
-2107	529605	1	2	901	7	Jan	Rezler	M	Ing.		36	projektový inženýr	Dolní Rokytá	99	80	0
-2107	529605	1	2	901	8	Jakub	Verfl	M			29	seřizovač strojů	Horní Rokytá	99	80	0
-2107	529605	1	2	901	9	Petr	Himl	M			36	opravář zemědělských strojů	Dolní Rokytá	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2107	529605	1	1	902	1	Jiřina	Loupová			67	důchodce	Dolní Rokytá - Rokytá	99	80	0	F
+2107	529605	1	2	901	1	Aleš	Pícl		MBA	41	obchodník	Horní Rokytá	99	80	0	M
+2107	529605	1	1	902	2	Josef	Malík			55	pracovník VaK MB	Dolní Rokytá - Rokytá	99	80	0	M
+2107	529605	1	2	901	2	Hana	Vodolanová			39	porodní asistentka	Horní Rokytá	99	80	0	F
+2107	529605	1	1	902	3	Josef	Růžička			67	důchodce	Dolní Rokytá - Rokytá	99	80	0	M
+2107	529605	1	2	901	3	Václav	Hyka			34	seřizovač strojů	Dolní Rokytá	99	80	0	M
+2107	529605	1	1	902	4	Antonín	Marek			45	pracovník Škoda Auto	Horní Rokytá - Rokytá	99	80	0	M
+2107	529605	1	2	901	4	Petr	Antoš			35	karosář	Dolní Rokytá	99	80	0	M
+2107	529605	1	1	902	5	Martin	Václavík			51	zemědělec	Horní Rokytá - Rokytá	99	80	0	M
+2107	529605	1	2	901	5	Kateřina	Nevřelová	Bc.	DiS.	29	předškolní pedagog	Dolní Rokytá	99	80	0	F
+2107	529605	1	1	902	6	Martina	Procházková			39	vedoucí logistiky	Horní Rokytá - Rokytá	99	80	0	F
+2107	529605	1	2	901	6	Miroslav	Janoušek			44	mechanik	Mnichovo Hradiště	99	80	0	M
+2107	529605	1	1	902	7	Ladislav	Doleček			65	testovací řidič	Dolní Rokytá - Rokytá	99	80	0	M
+2107	529605	1	2	901	7	Jan	Rezler	Ing.		36	projektový inženýr	Dolní Rokytá	99	80	0	M
+2107	529605	1	1	902	8	Radka	Marková			40	zaměstnanec LDN MH	Horní Rokytá - Rokytá	99	80	0	F
+2107	529605	1	2	901	8	Jakub	Verfl			29	seřizovač strojů	Horní Rokytá	99	80	0	M
+2107	529605	1	1	902	9	Kateřina	Hlaváčková			37	žena v domácnosti	Dolní Rokytá - Rokytá	99	80	0	F
+2107	529605	1	2	901	9	Petr	Himl			36	opravář zemědělských strojů	Dolní Rokytá	99	80	0	M

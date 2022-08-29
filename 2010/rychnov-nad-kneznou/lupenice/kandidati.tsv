@@ -1,8 +1,8 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5204	576506	1	1	901	1	Ivo	Muthsam	M	Ing.		54	podnikatel	Lupenice	53	80	0
-5204	576506	1	1	901	2	Josef	Tichý	M			47	zámečník	Lupenice	53	80	0
-5204	576506	1	1	901	3	David	Čižinský	M	Ing.		31	výkonný ředitel	Lupenice	53	80	0
-5204	576506	1	1	901	4	Josef	Šklíba	M	Ing.		36	obchodní zástupce	Lupenice	53	80	0
-5204	576506	1	1	901	5	Ladislav	Horák	M			52	dělník	Lupenice	99	80	0
-5204	576506	1	1	901	6	Lenka	Hejhalová	F			37	zdravotní sestra	Lupenice	99	80	0
-5204	576506	1	1	901	7	Renata	Dostálová	F			36	úřednice	Lupenice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5204	576506	1	1	901	1	Ivo	Muthsam	Ing.		54	podnikatel	Lupenice	53	80	0	M
+5204	576506	1	1	901	2	Josef	Tichý			47	zámečník	Lupenice	53	80	0	M
+5204	576506	1	1	901	3	David	Čižinský	Ing.		31	výkonný ředitel	Lupenice	53	80	0	M
+5204	576506	1	1	901	4	Josef	Šklíba	Ing.		36	obchodní zástupce	Lupenice	53	80	0	M
+5204	576506	1	1	901	5	Ladislav	Horák			52	dělník	Lupenice	99	80	0	M
+5204	576506	1	1	901	6	Lenka	Hejhalová			37	zdravotní sestra	Lupenice	99	80	0	F
+5204	576506	1	1	901	7	Renata	Dostálová			36	úřednice	Lupenice	99	80	0	F

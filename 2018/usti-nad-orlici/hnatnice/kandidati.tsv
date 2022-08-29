@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5304	580261	1	1	902	1	Jiří	Dušek	M			61	starosta obce	Hnátnice	99	80	A
-5304	580261	1	1	902	2	Vladislav	Aliger	M			54	podnikatel	Hnátnice	99	80	A
-5304	580261	1	1	902	3	Alan	Vebr	M			52	konstruktér	Hnátnice	99	80	A
-5304	580261	1	1	902	4	Miroslav	Appl	M	Ing.		49	konstruktér	Hnátnice	99	80	A
-5304	580261	1	1	902	5	Vít	Červinka	M	Bc.		42	grafik	Hnátnice	99	80	A
-5304	580261	1	1	902	6	Monika	Gottwaldová	F			48	administrativní pracovnice	Hnátnice	99	80	A
-5304	580261	1	1	902	7	Milan	Strnad	M			48	řidič	Hnátnice	99	80	A
-5304	580261	1	1	902	8	Miloš	Urban	M			45	konstruktér	Hnátnice	99	80	A
-5304	580261	1	1	902	9	Petr	Hubálek	M			45	dělník	Hnátnice	99	80	A
-5304	580261	1	1	902	10	Jiří	Petráček	M			47	řidič	Hnátnice	99	80	A
-5304	580261	1	1	902	11	Martin	Kotyza	M			42	řidič	Hnátnice	99	80	A
-5304	580261	1	2	1	1	Ladislav	Vítek	M	Ing.		58	vedoucí správy nemovitostí	Hnátnice	99	1	A
-5304	580261	1	2	1	2	Václav	Jiruška	M	PhDr. Ing. Mgr.	MBA	46	vedoucí projektu - jednoúčelové stroje	Hnátnice	99	1	A
-5304	580261	1	2	1	3	Eliška	Kovrzková	F			50	zdravotní sestra	Hnátnice	99	1	A
-5304	580261	1	2	1	4	Renáta	Motlová	F			37	mateřská dovolená	Hnátnice	99	1	A
-5304	580261	1	2	1	5	Václav	Jiruška	M			74	důchodce	Hnátnice	1	1	A
-5304	580261	1	2	1	6	Miluše	Dušková	F			66	důchodce	Hnátnice	99	1	A
-5304	580261	1	2	1	7	Jana	Pozdníková	F	Mgr.		43	pedagogický pracovník	Hnátnice	99	1	A
-5304	580261	1	2	1	8	Vlasta	Snášelová	F	Mgr.		46	učitelka	Hnátnice	99	1	A
-5304	580261	1	2	1	9	Jaroslava	Babáková	F			44	osobní asistentka	Hnátnice	99	1	A
-5304	580261	1	2	1	10	Bedřich	Suchomel	M			65	důchodce	Hnátnice	1	1	A
-5304	580261	1	2	1	11	Jan	Štěpán	M			62	dělník	Hnátnice	1	1	A
-5304	580261	1	3	901	1	Karel	Beran	M	Ing.		46	pedagogický pracovník	Hnátnice	99	80	A
-5304	580261	1	3	901	2	Pavel	Bartoš	M	Mgr.		75	důchodce	Hnátnice	99	80	A
-5304	580261	1	3	901	3	Ladislav	Hýbl	M			37	obráběč kovů	Hnátnice	99	80	A
-5304	580261	1	3	901	4	Jan	Mazálek	M			36	truhlář	Hnátnice	99	80	A
-5304	580261	1	3	901	5	Jiří	Pražák	M			35	dispečer výroby	Hnátnice	99	80	A
-5304	580261	1	3	901	6	Albín	Stejskal	M			55	logistik dopravy	Hnátnice	99	80	A
-5304	580261	1	3	901	7	Patrik	Vebr	M			27	svářeč	Hnátnice	99	80	A
-5304	580261	1	3	901	8	Petr	Vyčítal	M			34	strojní zámečník	Hnátnice	99	80	A
-5304	580261	1	3	901	9	Radek	Zítko	M			45	nástrojař	Hnátnice	99	80	A
-5304	580261	1	3	901	10	Miloš	Vyčítal	M			30	obráběč kovů	Hnátnice	99	80	A
-5304	580261	1	3	901	11	Jurij	Popovyč	M			29	nástrojař	Hnátnice	99	80	A
-5304	580261	1	4	47	1	Jaroslav	Krátký	M	Ing.		55	invalidní důchodce	Hnátnice	99	47	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5304	580261	1	1	902	1	Jiří	Dušek			61	starosta obce	Hnátnice	99	80	A	M
+5304	580261	1	2	1	1	Ladislav	Vítek	Ing.		58	vedoucí správy nemovitostí	Hnátnice	99	1	A	M
+5304	580261	1	3	901	1	Karel	Beran	Ing.		46	pedagogický pracovník	Hnátnice	99	80	A	M
+5304	580261	1	4	47	1	Jaroslav	Krátký	Ing.		55	invalidní důchodce	Hnátnice	99	47	A	M
+5304	580261	1	1	902	2	Vladislav	Aliger			54	podnikatel	Hnátnice	99	80	A	M
+5304	580261	1	2	1	2	Václav	Jiruška	PhDr. Ing. Mgr.	MBA	46	vedoucí projektu - jednoúčelové stroje	Hnátnice	99	1	A	M
+5304	580261	1	3	901	2	Pavel	Bartoš	Mgr.		75	důchodce	Hnátnice	99	80	A	M
+5304	580261	1	1	902	3	Alan	Vebr			52	konstruktér	Hnátnice	99	80	A	M
+5304	580261	1	2	1	3	Eliška	Kovrzková			50	zdravotní sestra	Hnátnice	99	1	A	F
+5304	580261	1	3	901	3	Ladislav	Hýbl			37	obráběč kovů	Hnátnice	99	80	A	M
+5304	580261	1	1	902	4	Miroslav	Appl	Ing.		49	konstruktér	Hnátnice	99	80	A	M
+5304	580261	1	2	1	4	Renáta	Motlová			37	mateřská dovolená	Hnátnice	99	1	A	F
+5304	580261	1	3	901	4	Jan	Mazálek			36	truhlář	Hnátnice	99	80	A	M
+5304	580261	1	1	902	5	Vít	Červinka	Bc.		42	grafik	Hnátnice	99	80	A	M
+5304	580261	1	2	1	5	Václav	Jiruška			74	důchodce	Hnátnice	1	1	A	M
+5304	580261	1	3	901	5	Jiří	Pražák			35	dispečer výroby	Hnátnice	99	80	A	M
+5304	580261	1	1	902	6	Monika	Gottwaldová			48	administrativní pracovnice	Hnátnice	99	80	A	F
+5304	580261	1	2	1	6	Miluše	Dušková			66	důchodce	Hnátnice	99	1	A	F
+5304	580261	1	3	901	6	Albín	Stejskal			55	logistik dopravy	Hnátnice	99	80	A	M
+5304	580261	1	1	902	7	Milan	Strnad			48	řidič	Hnátnice	99	80	A	M
+5304	580261	1	2	1	7	Jana	Pozdníková	Mgr.		43	pedagogický pracovník	Hnátnice	99	1	A	F
+5304	580261	1	3	901	7	Patrik	Vebr			27	svářeč	Hnátnice	99	80	A	M
+5304	580261	1	1	902	8	Miloš	Urban			45	konstruktér	Hnátnice	99	80	A	M
+5304	580261	1	2	1	8	Vlasta	Snášelová	Mgr.		46	učitelka	Hnátnice	99	1	A	F
+5304	580261	1	3	901	8	Petr	Vyčítal			34	strojní zámečník	Hnátnice	99	80	A	M
+5304	580261	1	1	902	9	Petr	Hubálek			45	dělník	Hnátnice	99	80	A	M
+5304	580261	1	2	1	9	Jaroslava	Babáková			44	osobní asistentka	Hnátnice	99	1	A	F
+5304	580261	1	3	901	9	Radek	Zítko			45	nástrojař	Hnátnice	99	80	A	M
+5304	580261	1	1	902	10	Jiří	Petráček			47	řidič	Hnátnice	99	80	A	M
+5304	580261	1	2	1	10	Bedřich	Suchomel			65	důchodce	Hnátnice	1	1	A	M
+5304	580261	1	3	901	10	Miloš	Vyčítal			30	obráběč kovů	Hnátnice	99	80	A	M
+5304	580261	1	1	902	11	Martin	Kotyza			42	řidič	Hnátnice	99	80	A	M
+5304	580261	1	2	1	11	Jan	Štěpán			62	dělník	Hnátnice	1	1	A	M
+5304	580261	1	3	901	11	Jurij	Popovyč			29	nástrojař	Hnátnice	99	80	A	M

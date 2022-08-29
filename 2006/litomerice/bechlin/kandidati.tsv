@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4203	564575	1	1	47	1	Václav	Frýda	M			57	elektrikář	Předonín	99	47	0
-4203	564575	1	1	47	2	Martin	Podrápský	M	Mgr.		37	právník	Bechlín	99	47	0
-4203	564575	1	1	47	3	Jana	Macková	F			27	administrativní pracovnice	Bechlín	99	47	0
-4203	564575	1	1	47	4	Ludmila	Nosková	F			53	administrativní pracovnice	Předonín	47	47	0
-4203	564575	1	1	47	5	Milan	Cedrych	M			46	zámečník	Bechlín	99	47	0
-4203	564575	1	1	47	6	Miroslav	Poláček	M			52	elektrikář	Bechlín	99	47	0
-4203	564575	1	1	47	7	Jindřich	Konfršt	M			45	zámečník	Bechlín	99	47	0
-4203	564575	1	1	47	8	Zdeněk	Barcal	M			56	zemědělec	Bechlín	47	47	0
-4203	564575	1	1	47	9	Simona	Barcalová	F			31	servírka	Bechlín	99	47	0
-4203	564575	1	1	47	10	Václav	Mysík	M			36	hasič	Předonín	99	47	0
-4203	564575	1	1	47	11	Věra	Kubíčková	F			61	důchodkyně	Předonín	47	47	0
-4203	564575	1	2	7	1	Alexander	Suchý	M			48	starosta obce	Bechlín	7	7	0
-4203	564575	1	2	7	2	Jan	Hruška	M			57	odborný referent	Předonín	99	7	0
-4203	564575	1	2	7	3	Ilona	Řejhová	F	Mgr.		52	ředitelka příspěvkové organiz.	Bechlín	99	7	0
-4203	564575	1	2	7	4	Milan	Fiala	M			37	truhlář	Bechlín	99	7	0
-4203	564575	1	2	7	5	Jaroslav	Vocásek	M			43	elektormontér	Předonín	99	7	0
-4203	564575	1	2	7	6	Karel	Podrápský	M			59	ekonom ZDV	Bechlín	99	7	0
-4203	564575	1	2	7	7	Petr	Petráček	M			43	chladírenský technik	Bechlín	99	7	0
-4203	564575	1	2	7	8	Zdeněk	Kubizňák	M			52	stavební dělník	Předonín	99	7	0
-4203	564575	1	2	7	9	Stanislav	Stanislav	M			30	manager obchodu a zakázek	Bechlín	99	7	0
-4203	564575	1	2	7	10	Karel	Červenka	M			63	soukromý podnikatel	Předonín	99	7	0
-4203	564575	1	2	7	11	Pavel	Barcal	M			32	chladírenský technik	Bechlín	99	7	0
-4203	564575	1	3	801	1	Jaroslav	Šolc	M			53	agronom	Bechlín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4203	564575	1	1	47	1	Václav	Frýda			57	elektrikář	Předonín	99	47	0	M
+4203	564575	1	2	7	1	Alexander	Suchý			48	starosta obce	Bechlín	7	7	0	M
+4203	564575	1	3	801	1	Jaroslav	Šolc			53	agronom	Bechlín	99	80	0	M
+4203	564575	1	1	47	2	Martin	Podrápský	Mgr.		37	právník	Bechlín	99	47	0	M
+4203	564575	1	2	7	2	Jan	Hruška			57	odborný referent	Předonín	99	7	0	M
+4203	564575	1	1	47	3	Jana	Macková			27	administrativní pracovnice	Bechlín	99	47	0	F
+4203	564575	1	2	7	3	Ilona	Řejhová	Mgr.		52	ředitelka příspěvkové organiz.	Bechlín	99	7	0	F
+4203	564575	1	1	47	4	Ludmila	Nosková			53	administrativní pracovnice	Předonín	47	47	0	F
+4203	564575	1	2	7	4	Milan	Fiala			37	truhlář	Bechlín	99	7	0	M
+4203	564575	1	1	47	5	Milan	Cedrych			46	zámečník	Bechlín	99	47	0	M
+4203	564575	1	2	7	5	Jaroslav	Vocásek			43	elektormontér	Předonín	99	7	0	M
+4203	564575	1	1	47	6	Miroslav	Poláček			52	elektrikář	Bechlín	99	47	0	M
+4203	564575	1	2	7	6	Karel	Podrápský			59	ekonom ZDV	Bechlín	99	7	0	M
+4203	564575	1	1	47	7	Jindřich	Konfršt			45	zámečník	Bechlín	99	47	0	M
+4203	564575	1	2	7	7	Petr	Petráček			43	chladírenský technik	Bechlín	99	7	0	M
+4203	564575	1	1	47	8	Zdeněk	Barcal			56	zemědělec	Bechlín	47	47	0	M
+4203	564575	1	2	7	8	Zdeněk	Kubizňák			52	stavební dělník	Předonín	99	7	0	M
+4203	564575	1	1	47	9	Simona	Barcalová			31	servírka	Bechlín	99	47	0	F
+4203	564575	1	2	7	9	Stanislav	Stanislav			30	manager obchodu a zakázek	Bechlín	99	7	0	M
+4203	564575	1	1	47	10	Václav	Mysík			36	hasič	Předonín	99	47	0	M
+4203	564575	1	2	7	10	Karel	Červenka			63	soukromý podnikatel	Předonín	99	7	0	M
+4203	564575	1	1	47	11	Věra	Kubíčková			61	důchodkyně	Předonín	47	47	0	F
+4203	564575	1	2	7	11	Pavel	Barcal			32	chladírenský technik	Bechlín	99	7	0	M

@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4207	568309	1	1	901	1	Radka	Wenclová	F	Mgr.		49	mediátorka	Tisá	99	80	A
-4207	568309	1	1	901	2	Zbyněk	Michal	M	Mgr.		40	učitel	Tisá	99	80	A
-4207	568309	1	1	901	3	Pavel	Aksamit	M	Ing.		48	ředitel výstavby	Tisá	99	80	A
-4207	568309	1	1	901	4	Jan	Kudrmann	M			59	vychovatel	Tisá	99	80	A
-4207	568309	1	1	901	5	Alberto	Malucelli	M	MUDr.	Ph.D.	41	lékař	Tisá	99	80	A
-4207	568309	1	1	901	6	Hana	Růžičková	F	Mgr.		49	kontrolorka	Tisá	99	80	A
-4207	568309	1	1	901	7	Pavel	Hošek	M	Mgr.		54	redaktor	Tisá	99	80	A
-4207	568309	1	1	901	8	Jan	Stanka	M	Ing.		47	systémový analytik	Tisá	99	80	A
-4207	568309	1	1	901	9	Milan	Vavruška	M			46	živnostník	Tisá	99	80	A
-4207	568309	1	2	903	1	Jiří	Švejdar	M			59	školník	Tisá	99	80	A
-4207	568309	1	2	903	2	Luboš	Miltner	M	Ing.		46	vedoucí investičního úseku	Tisá	99	80	A
-4207	568309	1	2	903	3	Jan	Povejšil	M			65	důchodce	Tisá	99	80	A
-4207	568309	1	2	903	4	Petr	Kostacký	M			53	technik	Tisá	99	80	A
-4207	568309	1	2	903	5	Josef	Trnka	M	Bc.		36	inženýr železniční dopravy	Tisá	99	80	A
-4207	568309	1	2	903	6	Marek	Povejšil	M			34	dělník	Tisá	99	80	A
-4207	568309	1	2	903	7	Ilona	Mistrová	F	Bc.		31	rodičovská dovolená	Tisá	99	80	A
-4207	568309	1	2	903	8	Anna	Salabová	F			66	důchodce	Tisá	99	80	A
-4207	568309	1	2	903	9	Jan	Taslar	M			41	dělník	Tisá	99	80	A
-4207	568309	1	3	902	1	Jiří	Červinka	M			50	místostarosta	Tisá	99	80	A
-4207	568309	1	3	902	2	David	Babača	M			29	pracovník v zemědělství	Tisá	99	80	A
-4207	568309	1	3	902	3	Pavel	Bláha	M			48	kuchař	Tisá	99	80	A
-4207	568309	1	3	902	4	Jiří	Pernekr	M			52	mechanik SZT - správa železnic	Tisá	99	80	A
-4207	568309	1	3	902	5	Čestmír	Kuchařík	M			31	zástupce ve výrobě	Tisá	99	80	A
-4207	568309	1	3	902	6	Zdeněk	Kořenský	M			42	správa budov	Tisá	99	80	A
-4207	568309	1	3	902	7	Anna	Soldatova	F			47	zdravotní sestra	Tisá	99	80	A
-4207	568309	1	3	902	8	Lenka	Patzenhauerová	F			46	podnikatel	Tisá	99	80	A
-4207	568309	1	3	902	9	Ondřej	Bláha	M			20	student	Tisá	99	80	A
-4207	568309	1	4	904	1	Johana	Štroblová	F			37	výkonný manažer	Tisá	99	80	A
-4207	568309	1	4	904	2	Tomáš	Kratochvíl	M	Ing.		71	starosta obce Tisá	Tisá	99	80	A
-4207	568309	1	4	904	3	Petr	Bureš	M			46	překladatel	Tisá	99	80	A
-4207	568309	1	4	904	4	Tomáš	Mikovec	M			51	OSVČ	Tisá	99	80	A
-4207	568309	1	4	904	5	Jakub	Beneš	M	Bc.		26	provozní	Tisá	99	80	A
-4207	568309	1	4	904	6	Vít	Vagner	M	Ing.		44	daňový poradce	Tisá	99	80	A
-4207	568309	1	4	904	7	Jaroslava	Leufenová	F	MgA.		61	OSVČ	Tisá	99	80	A
-4207	568309	1	4	904	8	Jan	Maška	M			44	hasič	Tisá	99	80	A
-4207	568309	1	4	904	9	Jiří	Turek	M			48	OSVČ	Tisá	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4207	568309	1	1	901	1	Radka	Wenclová	Mgr.		49	mediátorka	Tisá	99	80	A	F
+4207	568309	1	2	903	1	Jiří	Švejdar			59	školník	Tisá	99	80	A	M
+4207	568309	1	3	902	1	Jiří	Červinka			50	místostarosta	Tisá	99	80	A	M
+4207	568309	1	4	904	1	Johana	Štroblová			37	výkonný manažer	Tisá	99	80	A	F
+4207	568309	1	1	901	2	Zbyněk	Michal	Mgr.		40	učitel	Tisá	99	80	A	M
+4207	568309	1	2	903	2	Luboš	Miltner	Ing.		46	vedoucí investičního úseku	Tisá	99	80	A	M
+4207	568309	1	3	902	2	David	Babača			29	pracovník v zemědělství	Tisá	99	80	A	M
+4207	568309	1	4	904	2	Tomáš	Kratochvíl	Ing.		71	starosta obce Tisá	Tisá	99	80	A	M
+4207	568309	1	1	901	3	Pavel	Aksamit	Ing.		48	ředitel výstavby	Tisá	99	80	A	M
+4207	568309	1	2	903	3	Jan	Povejšil			65	důchodce	Tisá	99	80	A	M
+4207	568309	1	3	902	3	Pavel	Bláha			48	kuchař	Tisá	99	80	A	M
+4207	568309	1	4	904	3	Petr	Bureš			46	překladatel	Tisá	99	80	A	M
+4207	568309	1	1	901	4	Jan	Kudrmann			59	vychovatel	Tisá	99	80	A	M
+4207	568309	1	2	903	4	Petr	Kostacký			53	technik	Tisá	99	80	A	M
+4207	568309	1	3	902	4	Jiří	Pernekr			52	mechanik SZT - správa železnic	Tisá	99	80	A	M
+4207	568309	1	4	904	4	Tomáš	Mikovec			51	OSVČ	Tisá	99	80	A	M
+4207	568309	1	1	901	5	Alberto	Malucelli	MUDr.	Ph.D.	41	lékař	Tisá	99	80	A	M
+4207	568309	1	2	903	5	Josef	Trnka	Bc.		36	inženýr železniční dopravy	Tisá	99	80	A	M
+4207	568309	1	3	902	5	Čestmír	Kuchařík			31	zástupce ve výrobě	Tisá	99	80	A	M
+4207	568309	1	4	904	5	Jakub	Beneš	Bc.		26	provozní	Tisá	99	80	A	M
+4207	568309	1	1	901	6	Hana	Růžičková	Mgr.		49	kontrolorka	Tisá	99	80	A	F
+4207	568309	1	2	903	6	Marek	Povejšil			34	dělník	Tisá	99	80	A	M
+4207	568309	1	3	902	6	Zdeněk	Kořenský			42	správa budov	Tisá	99	80	A	M
+4207	568309	1	4	904	6	Vít	Vagner	Ing.		44	daňový poradce	Tisá	99	80	A	M
+4207	568309	1	1	901	7	Pavel	Hošek	Mgr.		54	redaktor	Tisá	99	80	A	M
+4207	568309	1	2	903	7	Ilona	Mistrová	Bc.		31	rodičovská dovolená	Tisá	99	80	A	F
+4207	568309	1	3	902	7	Anna	Soldatova			47	zdravotní sestra	Tisá	99	80	A	F
+4207	568309	1	4	904	7	Jaroslava	Leufenová	MgA.		61	OSVČ	Tisá	99	80	A	F
+4207	568309	1	1	901	8	Jan	Stanka	Ing.		47	systémový analytik	Tisá	99	80	A	M
+4207	568309	1	2	903	8	Anna	Salabová			66	důchodce	Tisá	99	80	A	F
+4207	568309	1	3	902	8	Lenka	Patzenhauerová			46	podnikatel	Tisá	99	80	A	F
+4207	568309	1	4	904	8	Jan	Maška			44	hasič	Tisá	99	80	A	M
+4207	568309	1	1	901	9	Milan	Vavruška			46	živnostník	Tisá	99	80	A	M
+4207	568309	1	2	903	9	Jan	Taslar			41	dělník	Tisá	99	80	A	M
+4207	568309	1	3	902	9	Ondřej	Bláha			20	student	Tisá	99	80	A	M
+4207	568309	1	4	904	9	Jiří	Turek			48	OSVČ	Tisá	99	80	A	M

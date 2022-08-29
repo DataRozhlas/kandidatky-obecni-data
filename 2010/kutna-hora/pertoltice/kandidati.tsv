@@ -1,12 +1,12 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2105	534307	1	1	7	1	Miroslav	Vidlák	M			49	dělník	Pertoltice	99	7	0
-2105	534307	1	1	7	2	Petr	Kovařík	M			46	dělník	Pertoltice-Machovice	99	7	0
-2105	534307	1	1	7	3	Jiří	Vorlíček	M			44	dělník	Pertoltice-Laziště	99	7	0
-2105	534307	1	1	7	4	Martin	Pajer	M			42	údržbář	Pertoltice	99	7	0
-2105	534307	1	1	7	5	Hana	Fantová	F			49	invalidní důchodce	Pertoltice	99	7	0
-2105	534307	1	2	802	1	Pavel	Kalina	M			61	důchodce	Pertoltice	99	80	0
-2105	534307	1	3	805	1	Vratislav	Staněk	M			45	obsluha CNC strojů	Pertoltice	99	80	0
-2105	534307	1	4	803	1	Václav	Boleš	M			64	důchodce	Pertoltice	99	80	0
-2105	534307	1	5	801	1	Jaroslava	Zichová	F			58	důchodce	Pertoltice	99	80	0
-2105	534307	1	6	806	1	Martin	Kačírek	M			29	truhlář	Pertoltice	99	80	0
-2105	534307	1	7	804	1	Martina	Pajerová	F			30	mistrová	Laziště	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2105	534307	1	1	7	1	Miroslav	Vidlák			49	dělník	Pertoltice	99	7	0	M
+2105	534307	1	2	802	1	Pavel	Kalina			61	důchodce	Pertoltice	99	80	0	M
+2105	534307	1	3	805	1	Vratislav	Staněk			45	obsluha CNC strojů	Pertoltice	99	80	0	M
+2105	534307	1	4	803	1	Václav	Boleš			64	důchodce	Pertoltice	99	80	0	M
+2105	534307	1	5	801	1	Jaroslava	Zichová			58	důchodce	Pertoltice	99	80	0	F
+2105	534307	1	6	806	1	Martin	Kačírek			29	truhlář	Pertoltice	99	80	0	M
+2105	534307	1	7	804	1	Martina	Pajerová			30	mistrová	Laziště	99	80	0	F
+2105	534307	1	1	7	2	Petr	Kovařík			46	dělník	Pertoltice-Machovice	99	7	0	M
+2105	534307	1	1	7	3	Jiří	Vorlíček			44	dělník	Pertoltice-Laziště	99	7	0	M
+2105	534307	1	1	7	4	Martin	Pajer			42	údržbář	Pertoltice	99	7	0	M
+2105	534307	1	1	7	5	Hana	Fantová			49	invalidní důchodce	Pertoltice	99	7	0	F

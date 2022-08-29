@@ -1,40 +1,40 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2109	538523	1	1	7	1	Pavel	Dolinek	M			25	podnikatel	Srbín	7	7	0
-2109	538523	1	1	7	2	Jiří	Červenka	M			25	manažer, dispečer	Srbín	7	7	0
-2109	538523	1	1	7	3	Jana	Červená	F		DiS.	31	manažerka	Srbín	99	7	0
-2109	538523	1	1	7	4	Karel	Holub	M			21	technik	Mukařov	7	7	0
-2109	538523	1	1	7	5	Pavla	Brůhová	F	Mgr.		26	učitelka	Mukařov	99	7	0
-2109	538523	1	1	7	6	Jitka	Brychtová	F			40	účetní	Srbín	7	7	0
-2109	538523	1	1	7	7	Jan	Prachař	M			23	manažér	Mukařov	7	7	0
-2109	538523	1	1	7	8	David	Dolinek	M			22	podnikatel	Srbín	7	7	0
-2109	538523	1	1	7	9	Iveta	Pýchová	F			26	asistentka, manažerka	Srbín	99	7	0
-2109	538523	1	1	7	10	Jitka	Červená	F			35	mateřská dovolená	Srbín	99	7	0
-2109	538523	1	1	7	11	František	Pokorný	M			62	podnikatel	Mukařov	99	7	0
-2109	538523	1	1	7	12	Tomáš	Červenka	M			26	podnikatel	Mukařov	7	7	0
-2109	538523	1	1	7	13	Oldřich	Ventura	M			45	řidič	Srbín	99	7	0
-2109	538523	1	2	721	1	Karel	Jindra	M		MBA	47	finanční poradce	Mukařov	721	721	0
-2109	538523	1	2	721	2	Ondřej	Jakob	M	Mgr.		36	mluvčí ministerstva financí	Mukařov	721	721	0
-2109	538523	1	2	721	3	Olaf	Zuckerstein	M	Bc.		40	obchodní ředitel	Žernovka	721	721	0
-2109	538523	1	2	721	4	Jana	Klimentová	F	JUDr.		55	právnička	Srbín	721	721	0
-2109	538523	1	2	721	5	Ivana	Malá	F	Ing.		50	daňová poradkyně	Mukařov	721	721	0
-2109	538523	1	2	721	6	Petr	Červenka	M			26	obchodní referent	Srbín	721	721	0
-2109	538523	1	2	721	7	Václav	Tichý	M			24	analytik	Mukařov	99	721	0
-2109	538523	1	2	721	8	Jiří	Šavrda	M	Ing.		32	programátor	Mukařov	99	721	0
-2109	538523	1	2	721	9	Tomáš	Justa	M			40	podnikatel	Srbín	99	721	0
-2109	538523	1	2	721	10	Jan	Zákoucký	M			20	student	Mukařov	99	721	0
-2109	538523	1	2	721	11	Gabriela	Nižníková	F			46	učitelka	Mukařov	99	721	0
-2109	538523	1	2	721	12	Radmila	Muchová	F	MUDr.		45	lékařka	Žernovka	99	721	0
-2109	538523	1	2	721	13	Helena	Malegová	F			43	prodavačka	Srbín	99	721	0
-2109	538523	1	3	901	1	Rudolf	Semanský	M			42	starosta obce	Mukařov	166	80	0
-2109	538523	1	3	901	2	Přemysl	Zima	M	Ing.		31	ekonom, účetní	Srbín	99	80	0
-2109	538523	1	3	901	3	Marcela	Eichnerová	F	Ing.		58	technik	Mukařov	99	80	0
-2109	538523	1	3	901	4	Vít	Šoupal	M	Ing.		35	manažer	Mukařov	53	80	0
-2109	538523	1	3	901	5	Tomáš	Bergmann	M			34	podnikatel v gastronomii	Mukařov	99	80	0
-2109	538523	1	3	901	6	Alena	Semanská	F			46	vrchní sestra	Mukařov	99	80	0
-2109	538523	1	3	901	7	Patrik	Třeštík	M	Ing.		34	programátor	Srbín	99	80	0
-2109	538523	1	3	901	8	Karel	Löwy	M			38	podnikatel ve stavebnictví	Mukařov	99	80	0
-2109	538523	1	3	901	9	Jan	Uzel	M			32	soukromý zemědělec	Žernovka	99	80	0
-2109	538523	1	3	901	10	Petra	Přikrylová	F			39	manažer	Mukařov	99	80	0
-2109	538523	1	3	901	11	Kateřina	Čadilová	F	PhDr.		46	konzultantka	Mukařov	99	80	0
-2109	538523	1	3	901	12	Jiří	Rősler	M			49	technik státní správy	Srbín	99	80	0
-2109	538523	1	3	901	13	Martina	Vinšová	F			38	mateřská dovolená	Srbín	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2109	538523	1	1	7	1	Pavel	Dolinek			25	podnikatel	Srbín	7	7	0	M
+2109	538523	1	2	721	1	Karel	Jindra		MBA	47	finanční poradce	Mukařov	721	721	0	M
+2109	538523	1	3	901	1	Rudolf	Semanský			42	starosta obce	Mukařov	166	80	0	M
+2109	538523	1	1	7	2	Jiří	Červenka			25	manažer, dispečer	Srbín	7	7	0	M
+2109	538523	1	2	721	2	Ondřej	Jakob	Mgr.		36	mluvčí ministerstva financí	Mukařov	721	721	0	M
+2109	538523	1	3	901	2	Přemysl	Zima	Ing.		31	ekonom, účetní	Srbín	99	80	0	M
+2109	538523	1	1	7	3	Jana	Červená		DiS.	31	manažerka	Srbín	99	7	0	F
+2109	538523	1	2	721	3	Olaf	Zuckerstein	Bc.		40	obchodní ředitel	Žernovka	721	721	0	M
+2109	538523	1	3	901	3	Marcela	Eichnerová	Ing.		58	technik	Mukařov	99	80	0	F
+2109	538523	1	1	7	4	Karel	Holub			21	technik	Mukařov	7	7	0	M
+2109	538523	1	2	721	4	Jana	Klimentová	JUDr.		55	právnička	Srbín	721	721	0	F
+2109	538523	1	3	901	4	Vít	Šoupal	Ing.		35	manažer	Mukařov	53	80	0	M
+2109	538523	1	1	7	5	Pavla	Brůhová	Mgr.		26	učitelka	Mukařov	99	7	0	F
+2109	538523	1	2	721	5	Ivana	Malá	Ing.		50	daňová poradkyně	Mukařov	721	721	0	F
+2109	538523	1	3	901	5	Tomáš	Bergmann			34	podnikatel v gastronomii	Mukařov	99	80	0	M
+2109	538523	1	1	7	6	Jitka	Brychtová			40	účetní	Srbín	7	7	0	F
+2109	538523	1	2	721	6	Petr	Červenka			26	obchodní referent	Srbín	721	721	0	M
+2109	538523	1	3	901	6	Alena	Semanská			46	vrchní sestra	Mukařov	99	80	0	F
+2109	538523	1	1	7	7	Jan	Prachař			23	manažér	Mukařov	7	7	0	M
+2109	538523	1	2	721	7	Václav	Tichý			24	analytik	Mukařov	99	721	0	M
+2109	538523	1	3	901	7	Patrik	Třeštík	Ing.		34	programátor	Srbín	99	80	0	M
+2109	538523	1	1	7	8	David	Dolinek			22	podnikatel	Srbín	7	7	0	M
+2109	538523	1	2	721	8	Jiří	Šavrda	Ing.		32	programátor	Mukařov	99	721	0	M
+2109	538523	1	3	901	8	Karel	Löwy			38	podnikatel ve stavebnictví	Mukařov	99	80	0	M
+2109	538523	1	1	7	9	Iveta	Pýchová			26	asistentka, manažerka	Srbín	99	7	0	F
+2109	538523	1	2	721	9	Tomáš	Justa			40	podnikatel	Srbín	99	721	0	M
+2109	538523	1	3	901	9	Jan	Uzel			32	soukromý zemědělec	Žernovka	99	80	0	M
+2109	538523	1	1	7	10	Jitka	Červená			35	mateřská dovolená	Srbín	99	7	0	F
+2109	538523	1	2	721	10	Jan	Zákoucký			20	student	Mukařov	99	721	0	M
+2109	538523	1	3	901	10	Petra	Přikrylová			39	manažer	Mukařov	99	80	0	F
+2109	538523	1	1	7	11	František	Pokorný			62	podnikatel	Mukařov	99	7	0	M
+2109	538523	1	2	721	11	Gabriela	Nižníková			46	učitelka	Mukařov	99	721	0	F
+2109	538523	1	3	901	11	Kateřina	Čadilová	PhDr.		46	konzultantka	Mukařov	99	80	0	F
+2109	538523	1	1	7	12	Tomáš	Červenka			26	podnikatel	Mukařov	7	7	0	M
+2109	538523	1	2	721	12	Radmila	Muchová	MUDr.		45	lékařka	Žernovka	99	721	0	F
+2109	538523	1	3	901	12	Jiří	Rősler			49	technik státní správy	Srbín	99	80	0	M
+2109	538523	1	1	7	13	Oldřich	Ventura			45	řidič	Srbín	99	7	0	M
+2109	538523	1	2	721	13	Helena	Malegová			43	prodavačka	Srbín	99	721	0	F
+2109	538523	1	3	901	13	Martina	Vinšová			38	mateřská dovolená	Srbín	99	80	0	F

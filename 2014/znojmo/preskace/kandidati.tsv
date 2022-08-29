@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6207	550078	1	1	355	1	Emil	Otoupal	M			64	elektrikář	Přeskače	99	80	0
-6207	550078	1	1	355	2	Jiří	Němec	M	Ing.		43	člen Rady JMK, zemědělec	Přeskače	1	1	0
-6207	550078	1	1	355	3	Pavel	Dobeš	M	Ing.		39	ekonom	Přeskače	1	1	0
-6207	550078	1	1	355	4	Ilona	Navrátilová	F			46	učitelka	Přeskače	99	80	0
-6207	550078	1	1	355	5	Roman	Vyklický	M			36	podnikatel	Přeskače	99	80	0
-6207	550078	1	1	355	6	Ivana	Krpatová	F			27	rodičovská dovolená	Přeskače	99	1	0
-6207	550078	1	1	355	7	Jan	Vrana	M			23	elektrikář	Přeskače	99	80	0
-6207	550078	1	1	355	8	Marek	Adámek	M			22	obráběč kovů	Přeskače	99	80	0
-6207	550078	1	1	355	9	Marie	Francová	F	Mgr.		48	ředitelka ZŠ	Přeskače	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6207	550078	1	1	355	1	Emil	Otoupal			64	elektrikář	Přeskače	99	80	0	M
+6207	550078	1	1	355	2	Jiří	Němec	Ing.		43	člen Rady JMK, zemědělec	Přeskače	1	1	0	M
+6207	550078	1	1	355	3	Pavel	Dobeš	Ing.		39	ekonom	Přeskače	1	1	0	M
+6207	550078	1	1	355	4	Ilona	Navrátilová			46	učitelka	Přeskače	99	80	0	F
+6207	550078	1	1	355	5	Roman	Vyklický			36	podnikatel	Přeskače	99	80	0	M
+6207	550078	1	1	355	6	Ivana	Krpatová			27	rodičovská dovolená	Přeskače	99	1	0	F
+6207	550078	1	1	355	7	Jan	Vrana			23	elektrikář	Přeskače	99	80	0	M
+6207	550078	1	1	355	8	Marek	Adámek			22	obráběč kovů	Přeskače	99	80	0	M
+6207	550078	1	1	355	9	Marie	Francová	Mgr.		48	ředitelka ZŠ	Přeskače	99	80	0	F

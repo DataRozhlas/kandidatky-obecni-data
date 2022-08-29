@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5101	530387	1	1	901	1	Petr	Ullrich	M	Ing.		55	technik	Radvanec	703	80	A
-5101	530387	1	1	901	2	Naďa	Formánková	F			62	účetní	Radvanec	99	80	A
-5101	530387	1	1	901	3	Tomáš	Januš	M			50	ředitel firmy	Radvanec	99	80	A
-5101	530387	1	1	901	4	David	Fof	M	Bc.		39	státní zaměstnanec - policista	Maxov	99	80	A
-5101	530387	1	1	901	5	Miloš	Halama	M	Ing.		36	konstruktér	Radvanec	99	80	A
-5101	530387	1	1	901	6	Pavel	Cyrus	M			36	plánovač	Radvanec	99	80	A
-5101	530387	1	1	901	7	Vladimír	Matoušek	M			66	důchodce	Radvanec	99	80	A
-5101	530387	1	1	901	8	Zdeněk	Kunc	M			35	sklář	Radvanec	99	80	A
-5101	530387	1	1	901	9	Michal	Kosina	M	Mgr.		46	středoškolský učitel	Radvanec	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5101	530387	1	1	901	1	Petr	Ullrich	Ing.		55	technik	Radvanec	703	80	A	M
+5101	530387	1	1	901	2	Naďa	Formánková			62	účetní	Radvanec	99	80	A	F
+5101	530387	1	1	901	3	Tomáš	Januš			50	ředitel firmy	Radvanec	99	80	A	M
+5101	530387	1	1	901	4	David	Fof	Bc.		39	státní zaměstnanec - policista	Maxov	99	80	A	M
+5101	530387	1	1	901	5	Miloš	Halama	Ing.		36	konstruktér	Radvanec	99	80	A	M
+5101	530387	1	1	901	6	Pavel	Cyrus			36	plánovač	Radvanec	99	80	A	M
+5101	530387	1	1	901	7	Vladimír	Matoušek			66	důchodce	Radvanec	99	80	A	M
+5101	530387	1	1	901	8	Zdeněk	Kunc			35	sklář	Radvanec	99	80	A	M
+5101	530387	1	1	901	9	Michal	Kosina	Mgr.		46	středoškolský učitel	Radvanec	99	80	A	M

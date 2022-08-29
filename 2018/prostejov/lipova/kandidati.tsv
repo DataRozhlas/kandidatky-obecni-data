@@ -1,37 +1,37 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589691	1	1	1	1	Jan	Ševčík	M			60	ved. odd. nákupu	Seč	99	1	A
-7103	589691	1	1	1	2	Petr	Grepl	M			36	technolog	Hrochov	99	1	A
-7103	589691	1	1	1	3	Helena	Komárková	F			62	manager	Lipová	99	1	A
-7103	589691	1	1	1	4	Josef	Kolář	M			58	zedník	Lipová	99	1	A
-7103	589691	1	1	1	5	Josef	Liška	M			73	důchodce	Lipová	1	1	A
-7103	589691	1	1	1	6	Josef	Švec	M			68	důchodce	Lipová	1	1	A
-7103	589691	1	1	1	7	Pavel	Koudelka	M			50	dělník	Hrochov	99	1	A
-7103	589691	1	1	1	8	Alois	Pospíšil	M			49	mistr	Hrochov	99	1	A
-7103	589691	1	1	1	9	Pavel	Zubal	M			74	důchodce	Hrochov	99	1	A
-7103	589691	1	2	902	1	Lukáš	Havelka	M	Ing.		30	profesionální hasič	Lipová	99	80	A
-7103	589691	1	2	902	2	Lenka	Burgetová	F	JUDr.		31	advokátka	Lipová	99	80	A
-7103	589691	1	2	902	3	Eduard	Beníšek	M			55	dělník	Lipová	99	80	A
-7103	589691	1	2	902	4	Miroslav	Kalabis	M			41	dělník	Lipová	99	80	A
-7103	589691	1	2	902	5	Oldřich	Hrubý	M			38	automechanik	Seč	99	80	A
-7103	589691	1	2	902	6	Marie	Bochýnková	F	Mgr.		28	učitelka	Hrochov	99	80	A
-7103	589691	1	2	902	7	David	Hampl	M			41	OSVČ	Lipová	99	80	A
-7103	589691	1	2	902	8	Pavel	Ševčík	M			47	OSVČ	Lipová	99	80	A
-7103	589691	1	2	902	9	Jakub	Havelka	M			35	OSVČ	Lipová	99	80	A
-7103	589691	1	3	903	1	Michal	Kolář	M			40	seřizovač	Lipová	99	80	A
-7103	589691	1	3	903	2	Ivana	Kroutilová	F	Mgr.		46	lékárník	Hrochov	99	80	A
-7103	589691	1	3	903	3	František	Koudelka	M	Ing.		52	OSVČ	Lipová	99	80	A
-7103	589691	1	3	903	4	Radek	Hrubý	M			40	majitel autoservisu	Seč	99	80	A
-7103	589691	1	3	903	5	Roman	Grepl	M			40	OSVČ	Lipová	99	80	A
-7103	589691	1	3	903	6	Marek	Hampl	M			43	automechanik	Lipová	99	80	A
-7103	589691	1	3	903	7	Alois	Abrahám	M			61	skladník	Lipová	99	80	A
-7103	589691	1	3	903	8	Svatopluk	Koudelka	M			49	obráběč	Lipová	99	80	A
-7103	589691	1	3	903	9	Vladimír	Kalabis	M			67	předseda ZD Lipová	Lipová	99	80	A
-7103	589691	1	4	901	1	František	Šustr	M	Ing.		69	starosta	Hrochov	99	80	A
-7103	589691	1	4	901	2	Milan	Sekanina	M	Ing.		49	ředitel podniku	Lipová	99	80	A
-7103	589691	1	4	901	3	Eva	Havlenová	F	Mgr.		40	ředitelka školy	Lipová	99	80	A
-7103	589691	1	4	901	4	Zdeněk	Zatloukal	M			63	důchodce	Hrochov	99	80	A
-7103	589691	1	4	901	5	Martina	Karkošková	F	Mgr.		42	státní zaměstnanec	Seč	99	80	A
-7103	589691	1	4	901	6	Marie	Brančíková	F	Mgr.		62	překladatelka	Lipová	99	80	A
-7103	589691	1	4	901	7	Darina	Režná	F	Ing.		29	provozní manažerka	Lipová	99	80	A
-7103	589691	1	4	901	8	Antonín	Žemlička	M			67	OSVČ	Seč	99	80	A
-7103	589691	1	4	901	9	Oldřich	Pírek	M			37	státní zaměstnanec	Hrochov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589691	1	1	1	1	Jan	Ševčík			60	ved. odd. nákupu	Seč	99	1	A	M
+7103	589691	1	2	902	1	Lukáš	Havelka	Ing.		30	profesionální hasič	Lipová	99	80	A	M
+7103	589691	1	3	903	1	Michal	Kolář			40	seřizovač	Lipová	99	80	A	M
+7103	589691	1	4	901	1	František	Šustr	Ing.		69	starosta	Hrochov	99	80	A	M
+7103	589691	1	1	1	2	Petr	Grepl			36	technolog	Hrochov	99	1	A	M
+7103	589691	1	2	902	2	Lenka	Burgetová	JUDr.		31	advokátka	Lipová	99	80	A	F
+7103	589691	1	3	903	2	Ivana	Kroutilová	Mgr.		46	lékárník	Hrochov	99	80	A	F
+7103	589691	1	4	901	2	Milan	Sekanina	Ing.		49	ředitel podniku	Lipová	99	80	A	M
+7103	589691	1	1	1	3	Helena	Komárková			62	manager	Lipová	99	1	A	F
+7103	589691	1	2	902	3	Eduard	Beníšek			55	dělník	Lipová	99	80	A	M
+7103	589691	1	3	903	3	František	Koudelka	Ing.		52	OSVČ	Lipová	99	80	A	M
+7103	589691	1	4	901	3	Eva	Havlenová	Mgr.		40	ředitelka školy	Lipová	99	80	A	F
+7103	589691	1	1	1	4	Josef	Kolář			58	zedník	Lipová	99	1	A	M
+7103	589691	1	2	902	4	Miroslav	Kalabis			41	dělník	Lipová	99	80	A	M
+7103	589691	1	3	903	4	Radek	Hrubý			40	majitel autoservisu	Seč	99	80	A	M
+7103	589691	1	4	901	4	Zdeněk	Zatloukal			63	důchodce	Hrochov	99	80	A	M
+7103	589691	1	1	1	5	Josef	Liška			73	důchodce	Lipová	1	1	A	M
+7103	589691	1	2	902	5	Oldřich	Hrubý			38	automechanik	Seč	99	80	A	M
+7103	589691	1	3	903	5	Roman	Grepl			40	OSVČ	Lipová	99	80	A	M
+7103	589691	1	4	901	5	Martina	Karkošková	Mgr.		42	státní zaměstnanec	Seč	99	80	A	F
+7103	589691	1	1	1	6	Josef	Švec			68	důchodce	Lipová	1	1	A	M
+7103	589691	1	2	902	6	Marie	Bochýnková	Mgr.		28	učitelka	Hrochov	99	80	A	F
+7103	589691	1	3	903	6	Marek	Hampl			43	automechanik	Lipová	99	80	A	M
+7103	589691	1	4	901	6	Marie	Brančíková	Mgr.		62	překladatelka	Lipová	99	80	A	F
+7103	589691	1	1	1	7	Pavel	Koudelka			50	dělník	Hrochov	99	1	A	M
+7103	589691	1	2	902	7	David	Hampl			41	OSVČ	Lipová	99	80	A	M
+7103	589691	1	3	903	7	Alois	Abrahám			61	skladník	Lipová	99	80	A	M
+7103	589691	1	4	901	7	Darina	Režná	Ing.		29	provozní manažerka	Lipová	99	80	A	F
+7103	589691	1	1	1	8	Alois	Pospíšil			49	mistr	Hrochov	99	1	A	M
+7103	589691	1	2	902	8	Pavel	Ševčík			47	OSVČ	Lipová	99	80	A	M
+7103	589691	1	3	903	8	Svatopluk	Koudelka			49	obráběč	Lipová	99	80	A	M
+7103	589691	1	4	901	8	Antonín	Žemlička			67	OSVČ	Seč	99	80	A	M
+7103	589691	1	1	1	9	Pavel	Zubal			74	důchodce	Hrochov	99	1	A	M
+7103	589691	1	2	902	9	Jakub	Havelka			35	OSVČ	Lipová	99	80	A	M
+7103	589691	1	3	903	9	Vladimír	Kalabis			67	předseda ZD Lipová	Lipová	99	80	A	M
+7103	589691	1	4	901	9	Oldřich	Pírek			37	státní zaměstnanec	Hrochov	99	80	A	M

@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3104	549703	1	1	903	1	Michal	Kříž	M			45	traktorista	Oslov	99	80	A
-3104	549703	1	1	903	2	Zdeněk	Charvát	M			50	OSVČ	Oslov	99	80	A
-3104	549703	1	1	903	3	Josef	Picka	M			34	provozovatel čerpací stanice	Oslov	99	80	A
-3104	549703	1	1	903	4	Kateřina	Talafousová	F			32	ošetřovatelka skotu	Oslov	99	80	A
-3104	549703	1	2	902	1	Marcel	Starý	M			43	hasič	Oslov	99	80	A
-3104	549703	1	2	902	2	Ján	Kaška	M			60	zootechnik	Oslov	99	80	A
-3104	549703	1	2	902	3	Denisa	Picková	F			34	účetní	Oslov	99	80	A
-3104	549703	1	2	902	4	Petr	Pavlovec	M			24	student	Oslov	99	80	A
-3104	549703	1	3	53	1	Pavel	Němec	M			45	jednatel společnosti	Oslov	99	53	A
-3104	549703	1	3	53	2	Václav	Český	M	Ing.		62	státní úředník	Oslov	99	53	A
-3104	549703	1	3	53	3	Soňa	Ramajzlová	F		DiS.	44	účetní	Oslov	99	53	A
-3104	549703	1	3	53	4	Martin	Ramajzl	M			47	podnikatel	Oslov	99	53	A
-3104	549703	1	3	53	5	Jaroslav	Pavlíček	M			51	jednatel společnosti	Oslov	99	53	A
-3104	549703	1	3	53	6	Milan	Malý	M			55	elektromechanik	Oslov	99	53	A
-3104	549703	1	3	53	7	Olga	Brožová	F	PhDr.		64	důchodkyně	Tukleky	99	53	A
-3104	549703	1	3	53	8	František	Čapek	M	Ing.	Ph.D.	45	zástupce ředitele lesnické školy	Oslov	53	53	A
-3104	549703	1	3	53	9	Josef	Němec	M			68	důchodce	Oslov	53	53	A
-3104	549703	1	4	904	1	František	Hašek	M			46	starosta	Tukleky	99	80	A
-3104	549703	1	4	904	2	Karel	Mašek	M			43	OSVČ	Tukleky	99	80	A
-3104	549703	1	4	904	3	Zdeněk	Brůžek	M			51	dozorčí provozu	Tukleky	99	80	A
-3104	549703	1	4	904	4	Petr	Řežábek	M			48	traktorista	Oslov	99	80	A
-3104	549703	1	5	901	1	Petr	Vysokomýtský	M			56	předseda AGRO družstva	Oslov	99	80	A
-3104	549703	1	5	901	2	Josef	Průša	M			44	truhlář	Oslov	99	80	A
-3104	549703	1	5	901	3	Jakub	Tlášek	M			42	vedoucí odboru	Oslov	99	80	A
-3104	549703	1	5	901	4	Adam	Hais	M			25	mistr výroby	Oslov	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3104	549703	1	1	903	1	Michal	Kříž			45	traktorista	Oslov	99	80	A	M
+3104	549703	1	2	902	1	Marcel	Starý			43	hasič	Oslov	99	80	A	M
+3104	549703	1	3	53	1	Pavel	Němec			45	jednatel společnosti	Oslov	99	53	A	M
+3104	549703	1	4	904	1	František	Hašek			46	starosta	Tukleky	99	80	A	M
+3104	549703	1	5	901	1	Petr	Vysokomýtský			56	předseda AGRO družstva	Oslov	99	80	A	M
+3104	549703	1	1	903	2	Zdeněk	Charvát			50	OSVČ	Oslov	99	80	A	M
+3104	549703	1	2	902	2	Ján	Kaška			60	zootechnik	Oslov	99	80	A	M
+3104	549703	1	3	53	2	Václav	Český	Ing.		62	státní úředník	Oslov	99	53	A	M
+3104	549703	1	4	904	2	Karel	Mašek			43	OSVČ	Tukleky	99	80	A	M
+3104	549703	1	5	901	2	Josef	Průša			44	truhlář	Oslov	99	80	A	M
+3104	549703	1	1	903	3	Josef	Picka			34	provozovatel čerpací stanice	Oslov	99	80	A	M
+3104	549703	1	2	902	3	Denisa	Picková			34	účetní	Oslov	99	80	A	F
+3104	549703	1	3	53	3	Soňa	Ramajzlová		DiS.	44	účetní	Oslov	99	53	A	F
+3104	549703	1	4	904	3	Zdeněk	Brůžek			51	dozorčí provozu	Tukleky	99	80	A	M
+3104	549703	1	5	901	3	Jakub	Tlášek			42	vedoucí odboru	Oslov	99	80	A	M
+3104	549703	1	1	903	4	Kateřina	Talafousová			32	ošetřovatelka skotu	Oslov	99	80	A	F
+3104	549703	1	2	902	4	Petr	Pavlovec			24	student	Oslov	99	80	A	M
+3104	549703	1	3	53	4	Martin	Ramajzl			47	podnikatel	Oslov	99	53	A	M
+3104	549703	1	4	904	4	Petr	Řežábek			48	traktorista	Oslov	99	80	A	M
+3104	549703	1	5	901	4	Adam	Hais			25	mistr výroby	Oslov	99	80	A	M
+3104	549703	1	3	53	5	Jaroslav	Pavlíček			51	jednatel společnosti	Oslov	99	53	A	M
+3104	549703	1	3	53	6	Milan	Malý			55	elektromechanik	Oslov	99	53	A	M
+3104	549703	1	3	53	7	Olga	Brožová	PhDr.		64	důchodkyně	Tukleky	99	53	A	F
+3104	549703	1	3	53	8	František	Čapek	Ing.	Ph.D.	45	zástupce ředitele lesnické školy	Oslov	53	53	A	M
+3104	549703	1	3	53	9	Josef	Němec			68	důchodce	Oslov	53	53	A	M

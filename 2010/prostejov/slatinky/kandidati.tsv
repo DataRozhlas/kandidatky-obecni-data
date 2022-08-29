@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	590011	1	1	901	1	Jaromír	Crha	M			48	tesař	Slatinky	99	80	0
-7103	590011	1	1	901	2	Iveta	Chudobová	F			46	podnikatelka	Slatinky	99	80	0
-7103	590011	1	1	901	3	Jiří	Čep	M			41	malíř	Slatinky	99	80	0
-7103	590011	1	1	901	4	Jiří	Bílý	M			48	podnikatel	Slatinky	99	80	0
-7103	590011	1	1	901	5	Lubomír	Kubíček	M			48	zámečník	Slatinky	99	80	0
-7103	590011	1	1	901	6	František	Hrazdil	M			38	elektrikář	Slatinky	99	80	0
-7103	590011	1	1	901	7	Vlastimil	Lakomý	M			46	technik	Slatinky	99	80	0
-7103	590011	1	2	721	1	Roman	Luczka	M	Ing.		45	pracovník veřejné správy	Slatinky	721	721	0
-7103	590011	1	2	721	2	Iveta	Vlachová	F			40	administrativní pracovnice	Slatinky	99	721	0
-7103	590011	1	2	721	3	Martin	Horejš	M	Ing.		36	obchodní zástupce	Slatinky	99	721	0
-7103	590011	1	2	721	4	Tomáš	Čepec	M			30	živnostník	Slatinky	99	721	0
-7103	590011	1	2	721	5	Lukáš	Doležel	M	Mgr.		30	učitel	Slatinky	99	721	0
-7103	590011	1	2	721	6	Magda	Menšíková	F			34	administrativní pracovnice	Slatinky	99	721	0
-7103	590011	1	2	721	7	Tomáš	Navrátil	M	Ing.		44	konstruktér	Slatinky	99	721	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	590011	1	1	901	1	Jaromír	Crha			48	tesař	Slatinky	99	80	0	M
+7103	590011	1	2	721	1	Roman	Luczka	Ing.		45	pracovník veřejné správy	Slatinky	721	721	0	M
+7103	590011	1	1	901	2	Iveta	Chudobová			46	podnikatelka	Slatinky	99	80	0	F
+7103	590011	1	2	721	2	Iveta	Vlachová			40	administrativní pracovnice	Slatinky	99	721	0	F
+7103	590011	1	1	901	3	Jiří	Čep			41	malíř	Slatinky	99	80	0	M
+7103	590011	1	2	721	3	Martin	Horejš	Ing.		36	obchodní zástupce	Slatinky	99	721	0	M
+7103	590011	1	1	901	4	Jiří	Bílý			48	podnikatel	Slatinky	99	80	0	M
+7103	590011	1	2	721	4	Tomáš	Čepec			30	živnostník	Slatinky	99	721	0	M
+7103	590011	1	1	901	5	Lubomír	Kubíček			48	zámečník	Slatinky	99	80	0	M
+7103	590011	1	2	721	5	Lukáš	Doležel	Mgr.		30	učitel	Slatinky	99	721	0	M
+7103	590011	1	1	901	6	František	Hrazdil			38	elektrikář	Slatinky	99	80	0	M
+7103	590011	1	2	721	6	Magda	Menšíková			34	administrativní pracovnice	Slatinky	99	721	0	F
+7103	590011	1	1	901	7	Vlastimil	Lakomý			46	technik	Slatinky	99	80	0	M
+7103	590011	1	2	721	7	Tomáš	Navrátil	Ing.		44	konstruktér	Slatinky	99	721	0	M

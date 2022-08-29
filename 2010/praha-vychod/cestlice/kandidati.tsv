@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2109	538141	1	1	903	1	Bedřich	Brtek	M	Ing.		59	živnostník	Čestlice	99	80	0
-2109	538141	1	1	903	2	Miroslav	Doksanský	M			59	technik	Čestlice	99	80	0
-2109	538141	1	1	903	3	Josef	Černý	M	Ing.		61	technik	Čestlice	99	80	0
-2109	538141	1	1	903	4	Tomáš	Čurda	M			33	živnostník	Čestlice	99	80	0
-2109	538141	1	1	903	5	David	Tomis	M			44	mistr strojírenské výroby	Čestlice	99	80	0
-2109	538141	1	1	903	6	Jiří	Padevět	M			40	podnikatel	Čestlice	99	80	0
-2109	538141	1	1	903	7	Jaromír	Zeman	M			57	zedník	Čestlice	99	80	0
-2109	538141	1	2	902	1	Ivana	Nováková	F	Mgr.		54	šéfredaktorka	Čestlice	99	80	0
-2109	538141	1	2	902	2	Milan	Kovář	M	Ing.		59	úředník	Čestlice	99	80	0
-2109	538141	1	2	902	3	Jana	Zemanová	F	Ing.		42	referentka	Čestlice	99	80	0
-2109	538141	1	2	902	4	Pavel	Pisk	M	Mgr.		37	manažer v logistice	Čestlice	99	80	0
-2109	538141	1	2	902	5	Martin	Diviš	M			38	živnostník	Čestlice	99	80	0
-2109	538141	1	2	902	6	Ivana	Hoffmannová	F	MVDr.		44	veterinářka	Čestlice	99	80	0
-2109	538141	1	2	902	7	Petr	Hofman	M			40	elektromontér	Čestlice	99	80	0
-2109	538141	1	2	902	8	Hana	Kovářová	F	Mgr.		55	úřednice	Čestlice	99	80	0
-2109	538141	1	2	902	9	Petr	Hošek	M	JUDr.		54	advokát	Čestlice	99	80	0
-2109	538141	1	3	53	1	Stanislav	Veselý	M			61	starosta	Čestlice	99	53	0
-2109	538141	1	3	53	2	Petr	Šachl	M			59	místostarosta	Čestlice	99	53	0
-2109	538141	1	3	53	3	Božena	Beranová	F			61	místostarostka	Čestlice	99	53	0
-2109	538141	1	3	53	4	Renáta	Hofmanová	F	JUDr.		45	právnička	Čestlice	99	53	0
-2109	538141	1	3	53	5	Jan	Šaššák	M			53	úředník	Čestlice	99	53	0
-2109	538141	1	3	53	6	Sabina	Kupilíková	F			37	podnikatelka	Čestlice	99	53	0
-2109	538141	1	3	53	7	Michaela	Losová	F	PhDr.		53	novinářka	Čestlice	99	53	0
-2109	538141	1	3	53	8	Veronika	Ďörďová	F			28	podnikatelka	Čestlice	99	53	0
-2109	538141	1	3	53	9	Václav	Vedral	M			63	podnikatel	Čestlice	99	53	0
-2109	538141	1	4	901	1	Marcela	Berounská	F			58	administrativní pracovnice	Čestlice	99	80	0
-2109	538141	1	4	901	2	Hana	Švehlová	F			45	soukromá podnikatelka	Čestlice	99	80	0
-2109	538141	1	4	901	3	Jana	Navrátilová	F			46	odborná asistentka	Čestlice	99	80	0
-2109	538141	1	4	901	4	Zdeňka	Povolná	F			50	kuchařka	Čestlice	99	80	0
-2109	538141	1	4	901	5	Jiřina	Borovková	F			32	administrativní pracovnice	Čestlice	99	80	0
-2109	538141	1	4	901	6	Petra	Brabcová	F			31	kuchařka	Čestlice	99	80	0
-2109	538141	1	4	901	7	Anna	Šaššáková	F			46	úřednice	Čestlice	99	80	0
-2109	538141	1	4	901	8	Dana	Borová	F			33	prodavačka	Čestlice	99	80	0
-2109	538141	1	4	901	9	Petra	Kyselová	F			31	dietní sestra	Čestlice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2109	538141	1	1	903	1	Bedřich	Brtek	Ing.		59	živnostník	Čestlice	99	80	0	M
+2109	538141	1	2	902	1	Ivana	Nováková	Mgr.		54	šéfredaktorka	Čestlice	99	80	0	F
+2109	538141	1	3	53	1	Stanislav	Veselý			61	starosta	Čestlice	99	53	0	M
+2109	538141	1	4	901	1	Marcela	Berounská			58	administrativní pracovnice	Čestlice	99	80	0	F
+2109	538141	1	1	903	2	Miroslav	Doksanský			59	technik	Čestlice	99	80	0	M
+2109	538141	1	2	902	2	Milan	Kovář	Ing.		59	úředník	Čestlice	99	80	0	M
+2109	538141	1	3	53	2	Petr	Šachl			59	místostarosta	Čestlice	99	53	0	M
+2109	538141	1	4	901	2	Hana	Švehlová			45	soukromá podnikatelka	Čestlice	99	80	0	F
+2109	538141	1	1	903	3	Josef	Černý	Ing.		61	technik	Čestlice	99	80	0	M
+2109	538141	1	2	902	3	Jana	Zemanová	Ing.		42	referentka	Čestlice	99	80	0	F
+2109	538141	1	3	53	3	Božena	Beranová			61	místostarostka	Čestlice	99	53	0	F
+2109	538141	1	4	901	3	Jana	Navrátilová			46	odborná asistentka	Čestlice	99	80	0	F
+2109	538141	1	1	903	4	Tomáš	Čurda			33	živnostník	Čestlice	99	80	0	M
+2109	538141	1	2	902	4	Pavel	Pisk	Mgr.		37	manažer v logistice	Čestlice	99	80	0	M
+2109	538141	1	3	53	4	Renáta	Hofmanová	JUDr.		45	právnička	Čestlice	99	53	0	F
+2109	538141	1	4	901	4	Zdeňka	Povolná			50	kuchařka	Čestlice	99	80	0	F
+2109	538141	1	1	903	5	David	Tomis			44	mistr strojírenské výroby	Čestlice	99	80	0	M
+2109	538141	1	2	902	5	Martin	Diviš			38	živnostník	Čestlice	99	80	0	M
+2109	538141	1	3	53	5	Jan	Šaššák			53	úředník	Čestlice	99	53	0	M
+2109	538141	1	4	901	5	Jiřina	Borovková			32	administrativní pracovnice	Čestlice	99	80	0	F
+2109	538141	1	1	903	6	Jiří	Padevět			40	podnikatel	Čestlice	99	80	0	M
+2109	538141	1	2	902	6	Ivana	Hoffmannová	MVDr.		44	veterinářka	Čestlice	99	80	0	F
+2109	538141	1	3	53	6	Sabina	Kupilíková			37	podnikatelka	Čestlice	99	53	0	F
+2109	538141	1	4	901	6	Petra	Brabcová			31	kuchařka	Čestlice	99	80	0	F
+2109	538141	1	1	903	7	Jaromír	Zeman			57	zedník	Čestlice	99	80	0	M
+2109	538141	1	2	902	7	Petr	Hofman			40	elektromontér	Čestlice	99	80	0	M
+2109	538141	1	3	53	7	Michaela	Losová	PhDr.		53	novinářka	Čestlice	99	53	0	F
+2109	538141	1	4	901	7	Anna	Šaššáková			46	úřednice	Čestlice	99	80	0	F
+2109	538141	1	2	902	8	Hana	Kovářová	Mgr.		55	úřednice	Čestlice	99	80	0	F
+2109	538141	1	3	53	8	Veronika	Ďörďová			28	podnikatelka	Čestlice	99	53	0	F
+2109	538141	1	4	901	8	Dana	Borová			33	prodavačka	Čestlice	99	80	0	F
+2109	538141	1	2	902	9	Petr	Hošek	JUDr.		54	advokát	Čestlice	99	80	0	M
+2109	538141	1	3	53	9	Václav	Vedral			63	podnikatel	Čestlice	99	53	0	M
+2109	538141	1	4	901	9	Petra	Kyselová			31	dietní sestra	Čestlice	99	80	0	F

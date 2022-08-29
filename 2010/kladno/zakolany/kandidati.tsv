@@ -1,19 +1,19 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2103	533092	1	1	902	1	Vladimír	DOBEŠ	M	Ing.	M.Sc.	48	poradce pro životní prostředí	Kováry	99	80	0
-2103	533092	1	1	902	2	Lucie	WITTLICHOVÁ	F	PhDr.		44	řed.Inform.centra Úřadu vlády	Trněný Újezd	99	80	0
-2103	533092	1	1	902	3	Eduard	REJFÍŘ	M	Ing.		60	ředitel firmy	Kováry	99	80	0
-2103	533092	1	1	902	4	Jan	ŽĎÁREK	M	prof.RNDr.	DrSc.	72	vědecký pracovník	Zákolany	99	80	0
-2103	533092	1	1	902	5	Jan	KOLENČÍK	M			36	podnikatel	Trněný Újezd	99	80	0
-2103	533092	1	1	902	6	Michal	NOSEK	M	Ing.		47	investiční manažer	Kováry	99	80	0
-2103	533092	1	1	902	7	Pavlína	URBANOVÁ	F	Mgr.		45	učit.v ZŠ Zákolany, překladat.	Kováry	99	80	0
-2103	533092	1	1	902	8	Vladimíra	JAROŠOVÁ	F			40	poštovní doručovatelka	Zákolany	99	80	0
-2103	533092	1	1	902	9	Irena	BARTOŠKOVÁ	F			48	sekretářka,tč.na mat.dovolené	Zákolany	99	80	0
-2103	533092	1	2	901	1	Jiří	ŠUP	M			49	OSVČ	Trněný Újezd	99	80	0
-2103	533092	1	2	901	2	Petr	BLÁHA	M	Bc.		35	státní zaměstnanec	Trněný Újezd	99	80	0
-2103	533092	1	2	901	3	Josef	MÍKA	M			48	OSVČ	Zákolany	99	80	0
-2103	533092	1	2	901	4	Jakub	NOSEK	M			26	soukromý zemědělec	Trněný Újezd	99	80	0
-2103	533092	1	2	901	5	Jiří	MAIRICH	M	Ing.		62	vedoucí účetní	Trněný Újezd	99	80	0
-2103	533092	1	2	901	6	Zdeněk	HEJNÝ	M			57	technik kontroly	Kováry	99	80	0
-2103	533092	1	2	901	7	Sandra	BEJŠÁKOVÁ	F	Bc.		23	studentka FSV UK	Kováry	99	80	0
-2103	533092	1	2	901	8	Petr	NEKVINDA	M	MUDr.		39	lékař	Trněný Újezd	99	80	0
-2103	533092	1	2	901	9	Jarmila	HLADÍKOVÁ	F			63	důchodce	Zákolany	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2103	533092	1	1	902	1	Vladimír	DOBEŠ	Ing.	M.Sc.	48	poradce pro životní prostředí	Kováry	99	80	0	M
+2103	533092	1	2	901	1	Jiří	ŠUP			49	OSVČ	Trněný Újezd	99	80	0	M
+2103	533092	1	1	902	2	Lucie	WITTLICHOVÁ	PhDr.		44	řed.Inform.centra Úřadu vlády	Trněný Újezd	99	80	0	F
+2103	533092	1	2	901	2	Petr	BLÁHA	Bc.		35	státní zaměstnanec	Trněný Újezd	99	80	0	M
+2103	533092	1	1	902	3	Eduard	REJFÍŘ	Ing.		60	ředitel firmy	Kováry	99	80	0	M
+2103	533092	1	2	901	3	Josef	MÍKA			48	OSVČ	Zákolany	99	80	0	M
+2103	533092	1	1	902	4	Jan	ŽĎÁREK	prof.RNDr.	DrSc.	72	vědecký pracovník	Zákolany	99	80	0	M
+2103	533092	1	2	901	4	Jakub	NOSEK			26	soukromý zemědělec	Trněný Újezd	99	80	0	M
+2103	533092	1	1	902	5	Jan	KOLENČÍK			36	podnikatel	Trněný Újezd	99	80	0	M
+2103	533092	1	2	901	5	Jiří	MAIRICH	Ing.		62	vedoucí účetní	Trněný Újezd	99	80	0	M
+2103	533092	1	1	902	6	Michal	NOSEK	Ing.		47	investiční manažer	Kováry	99	80	0	M
+2103	533092	1	2	901	6	Zdeněk	HEJNÝ			57	technik kontroly	Kováry	99	80	0	M
+2103	533092	1	1	902	7	Pavlína	URBANOVÁ	Mgr.		45	učit.v ZŠ Zákolany, překladat.	Kováry	99	80	0	F
+2103	533092	1	2	901	7	Sandra	BEJŠÁKOVÁ	Bc.		23	studentka FSV UK	Kováry	99	80	0	F
+2103	533092	1	1	902	8	Vladimíra	JAROŠOVÁ			40	poštovní doručovatelka	Zákolany	99	80	0	F
+2103	533092	1	2	901	8	Petr	NEKVINDA	MUDr.		39	lékař	Trněný Újezd	99	80	0	M
+2103	533092	1	1	902	9	Irena	BARTOŠKOVÁ			48	sekretářka,tč.na mat.dovolené	Zákolany	99	80	0	F
+2103	533092	1	2	901	9	Jarmila	HLADÍKOVÁ			63	důchodce	Zákolany	99	80	0	F

@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-2101	529940	1	1	901	1	Luboš	Sládek	M			43	automechanik	Kozmice	99	80	A
-2101	529940	1	1	901	2	Veronika	Mikelová	F			36	OSVČ	Kozmice	99	80	A
-2101	529940	1	1	901	3	Miroslava	Brožová	F			55	kontrolor práce neschopných	Kozmice	99	80	A
-2101	529940	1	1	901	4	Marek	Bára	M			35	servisní mechanik	Kozmice	99	80	A
-2101	529940	1	1	901	5	Iva	Mikelová	F			38	barmanka	Kozmice	99	80	A
-2101	529940	1	2	53	1	Radek	Krupa	M			39	výkonný ředitel	Kácova Lhota	99	53	A
-2101	529940	1	2	53	2	Markéta	Jágrová	F	Bc.		36	specialista PR & reklamy	Kozmice	99	53	A
-2101	529940	1	2	53	3	Iveta	Mládková	F			32	rodičovská dovolená	Kácova Lhota	99	53	A
-2101	529940	1	2	53	4	Helena	Matoušková	F			51	starostka obce	Kozmice	99	53	A
-2101	529940	1	2	53	5	František	Nepraš	M			51	bankéř	Kácova Lhota	99	53	A
-2101	529940	1	2	53	6	Pavel	Novák	M	Ing.		42	obchodní manažer	Kozmice	99	53	A
-2101	529940	1	2	53	7	Martin	Papež	M			49	technický ředitel	Kácova Lhota	99	53	A
-2101	529940	1	2	53	8	Irena	Semančíková	F	Mgr. Ing.		36	psycholog ve zdravotnictví	Rousínov	99	53	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+2101	529940	1	1	901	1	Luboš	Sládek			43	automechanik	Kozmice	99	80	A	M
+2101	529940	1	2	53	1	Radek	Krupa			39	výkonný ředitel	Kácova Lhota	99	53	A	M
+2101	529940	1	1	901	2	Veronika	Mikelová			36	OSVČ	Kozmice	99	80	A	F
+2101	529940	1	2	53	2	Markéta	Jágrová	Bc.		36	specialista PR & reklamy	Kozmice	99	53	A	F
+2101	529940	1	1	901	3	Miroslava	Brožová			55	kontrolor práce neschopných	Kozmice	99	80	A	F
+2101	529940	1	2	53	3	Iveta	Mládková			32	rodičovská dovolená	Kácova Lhota	99	53	A	F
+2101	529940	1	1	901	4	Marek	Bára			35	servisní mechanik	Kozmice	99	80	A	M
+2101	529940	1	2	53	4	Helena	Matoušková			51	starostka obce	Kozmice	99	53	A	F
+2101	529940	1	1	901	5	Iva	Mikelová			38	barmanka	Kozmice	99	80	A	F
+2101	529940	1	2	53	5	František	Nepraš			51	bankéř	Kácova Lhota	99	53	A	M
+2101	529940	1	2	53	6	Pavel	Novák	Ing.		42	obchodní manažer	Kozmice	99	53	A	M
+2101	529940	1	2	53	7	Martin	Papež			49	technický ředitel	Kácova Lhota	99	53	A	M
+2101	529940	1	2	53	8	Irena	Semančíková	Mgr. Ing.		36	psycholog ve zdravotnictví	Rousínov	99	53	A	F

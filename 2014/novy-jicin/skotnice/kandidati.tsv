@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8104	568716	1	1	901	1	Anna	Mužná	F	Bc.		50	starostka	Skotnice	99	80	0
-8104	568716	1	1	901	2	Lubomír	Hoffmann	M			59	slévač	Skotnice	99	80	0
-8104	568716	1	1	901	3	Drahomíra	Štěpánová	F			53	zaměstnanec v sociálních službách	Skotnice	99	80	0
-8104	568716	1	1	901	4	Martin	Simper	M			42	OSVČ	Skotnice	99	80	0
-8104	568716	1	1	901	5	Ladislava	Veisenpacherová	F			43	technik	Skotnice	99	80	0
-8104	568716	1	1	901	6	Radomír	Čapka ml.	M	Ing.		39	agronom	Skotnice	99	80	0
-8104	568716	1	1	901	7	Pavel	Pelzer	M			39	technik	Skotnice	99	80	0
-8104	568716	1	1	901	8	Josef	Jalůvka	M			61	projektový manažer	Skotnice	99	80	0
-8104	568716	1	1	901	9	Petr	Pustějovský	M			48	technik	Skotnice	99	80	0
-8104	568716	1	2	902	1	Radek	Šmiřák	M			33	chemik	Skotnice	99	80	0
-8104	568716	1	2	902	2	Lumír	Blažek	M			40	vedoucí lakovny	Skotnice	99	80	0
-8104	568716	1	2	902	3	Markéta	Huvarová	F			30	mateřská dovolená	Skotnice	99	80	0
-8104	568716	1	2	902	4	Bronislava	Vjaclovská	F	MUDr.		54	dětský lékař	Skotnice	99	80	0
-8104	568716	1	2	902	5	Jitka	Foltýnová	F	Ing.		34	referent KÚ MSK	Skotnice	99	80	0
-8104	568716	1	2	902	6	Miroslav	Galia	M	Ing.		29	nezaměstnaný	Skotnice	99	80	0
-8104	568716	1	2	902	7	Marek	Šátek	M			30	střelmistr	Skotnice	99	80	0
-8104	568716	1	2	902	8	Tomáš	Šeděnka	M			38	tesař	Skotnice	99	80	0
-8104	568716	1	2	902	9	Blanka	Galiová	F	Bc.	DiS.	29	fakturantka	Skotnice	99	80	0
-8104	568716	1	3	7	1	Petra	Richterová	F			35	odborný referent	Skotnice	7	7	0
-8104	568716	1	3	7	2	Dana	Nagyová	F			30	zubní technik	Skotnice	99	7	0
-8104	568716	1	3	7	3	Monika	Holečková	F			41	prodavačka	Skotnice	99	7	0
-8104	568716	1	3	7	4	Radek	Richter	M			35	obchodní zástupce	Skotnice	99	7	0
-8104	568716	1	3	7	5	Josef	Pavlín	M			36	mistr výroby	Skotnice	99	7	0
-8104	568716	1	3	7	6	Milan	Říha	M			39	montážní dělník	Skotnice	99	7	0
-8104	568716	1	3	7	7	Renáta	Pelzerová	F			37	kontrolorka kvality	Skotnice	99	7	0
-8104	568716	1	3	7	8	Monika	Demlová	F			37	operátor	Skotnice	99	7	0
-8104	568716	1	3	7	9	Anna	Herrmannová	F			59	důchodkyně	Skotnice	99	7	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8104	568716	1	1	901	1	Anna	Mužná	Bc.		50	starostka	Skotnice	99	80	0	F
+8104	568716	1	2	902	1	Radek	Šmiřák			33	chemik	Skotnice	99	80	0	M
+8104	568716	1	3	7	1	Petra	Richterová			35	odborný referent	Skotnice	7	7	0	F
+8104	568716	1	1	901	2	Lubomír	Hoffmann			59	slévač	Skotnice	99	80	0	M
+8104	568716	1	2	902	2	Lumír	Blažek			40	vedoucí lakovny	Skotnice	99	80	0	M
+8104	568716	1	3	7	2	Dana	Nagyová			30	zubní technik	Skotnice	99	7	0	F
+8104	568716	1	1	901	3	Drahomíra	Štěpánová			53	zaměstnanec v sociálních službách	Skotnice	99	80	0	F
+8104	568716	1	2	902	3	Markéta	Huvarová			30	mateřská dovolená	Skotnice	99	80	0	F
+8104	568716	1	3	7	3	Monika	Holečková			41	prodavačka	Skotnice	99	7	0	F
+8104	568716	1	1	901	4	Martin	Simper			42	OSVČ	Skotnice	99	80	0	M
+8104	568716	1	2	902	4	Bronislava	Vjaclovská	MUDr.		54	dětský lékař	Skotnice	99	80	0	F
+8104	568716	1	3	7	4	Radek	Richter			35	obchodní zástupce	Skotnice	99	7	0	M
+8104	568716	1	1	901	5	Ladislava	Veisenpacherová			43	technik	Skotnice	99	80	0	F
+8104	568716	1	2	902	5	Jitka	Foltýnová	Ing.		34	referent KÚ MSK	Skotnice	99	80	0	F
+8104	568716	1	3	7	5	Josef	Pavlín			36	mistr výroby	Skotnice	99	7	0	M
+8104	568716	1	1	901	6	Radomír	Čapka ml.	Ing.		39	agronom	Skotnice	99	80	0	M
+8104	568716	1	2	902	6	Miroslav	Galia	Ing.		29	nezaměstnaný	Skotnice	99	80	0	M
+8104	568716	1	3	7	6	Milan	Říha			39	montážní dělník	Skotnice	99	7	0	M
+8104	568716	1	1	901	7	Pavel	Pelzer			39	technik	Skotnice	99	80	0	M
+8104	568716	1	2	902	7	Marek	Šátek			30	střelmistr	Skotnice	99	80	0	M
+8104	568716	1	3	7	7	Renáta	Pelzerová			37	kontrolorka kvality	Skotnice	99	7	0	F
+8104	568716	1	1	901	8	Josef	Jalůvka			61	projektový manažer	Skotnice	99	80	0	M
+8104	568716	1	2	902	8	Tomáš	Šeděnka			38	tesař	Skotnice	99	80	0	M
+8104	568716	1	3	7	8	Monika	Demlová			37	operátor	Skotnice	99	7	0	F
+8104	568716	1	1	901	9	Petr	Pustějovský			48	technik	Skotnice	99	80	0	M
+8104	568716	1	2	902	9	Blanka	Galiová	Bc.	DiS.	29	fakturantka	Skotnice	99	80	0	F
+8104	568716	1	3	7	9	Anna	Herrmannová			59	důchodkyně	Skotnice	99	7	0	F

@@ -1,36 +1,36 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4202	563056	1	1	903	1	Rostislav	Vaňous	M			64	důchodce	Droužkovice	99	80	0
-4202	563056	1	1	903	2	Eliška	Kratochvílová	F	Bc.		47	úřednice	Droužkovice	99	80	0
-4202	563056	1	1	903	3	Štěpán	Národa	M			62	řidič	Droužkovice	99	80	0
-4202	563056	1	1	903	4	Bronislav	Miroš	M			58	učitel	Droužkovice	99	80	0
-4202	563056	1	1	903	5	Miroslav	Mašata	M			57	část. inv. důchodce	Droužkovice	99	80	0
-4202	563056	1	1	903	6	František	Klinga	M			55	řidič	Droužkovice	99	80	0
-4202	563056	1	1	903	7	Václav	Kohout	M			60	důchodce	Droužkovice	99	80	0
-4202	563056	1	2	53	1	Rudolf	Vojtěch	M			58	podnikatel	Droužkovice	53	53	0
-4202	563056	1	2	53	2	Miroslav	Rampas	M	Ing.		47	systémový inženýr	Droužkovice	53	53	0
-4202	563056	1	2	53	3	Eva	Gruntorádová	F			54	úřednice Obecního úřadu	Droužkovice	99	53	0
-4202	563056	1	2	53	4	Jakub	Michalec	M			23	řidič	Droužkovice	53	53	0
-4202	563056	1	2	53	5	Václav	Merhaut	M			38	technik pro topná a solár.zař.	Droužkovice	53	53	0
-4202	563056	1	2	53	6	Pavla	Rendová	F			45	dělnice	Droužkovice	99	53	0
-4202	563056	1	2	53	7	Jan	Kufa	M			34	jednatel společnosti	Droužkovice	99	53	0
-4202	563056	1	3	902	1	Milan	Živný	M			62	starosta obce	Droužkovice	99	80	0
-4202	563056	1	3	902	2	Luděk	Nesládek	M			42	elektrikář	Droužkovice	99	80	0
-4202	563056	1	3	902	3	Martin	Pipek	M			42	soukromý pod.	Droužkovice	99	80	0
-4202	563056	1	3	902	4	Marian	Ješko	M			40	soukromý pod.	Droužkovice	99	80	0
-4202	563056	1	3	902	5	Jiří	Sýkora	M			43	soukromý pod.	Droužkovice	99	80	0
-4202	563056	1	3	902	6	Jiří	Dolejška	M			48	elektrikář	Droužkovice	99	80	0
-4202	563056	1	3	902	7	Vladimír	Renda	M			48	soukromý pod.	Droužkovice	99	80	0
-4202	563056	1	4	47	1	František	Dvořák	M			59	bezpečnostní pracovník	Droužkovice	99	47	0
-4202	563056	1	4	47	2	Rostislav	Kikal	M			48	podnikatel	Droužkovice	99	47	0
-4202	563056	1	4	47	3	Petr	Albrecht	M			62	důchodce	Droužkovice	99	47	0
-4202	563056	1	4	47	4	Tomáš	Dvořák	M			31	řidič	Droužkovice	47	47	0
-4202	563056	1	4	47	5	Danuše	Kejaková	F			73	důchodce	Droužkovice	99	47	0
-4202	563056	1	4	47	6	Václav	Nedbálek	M			41	řidič	Droužkovice	99	47	0
-4202	563056	1	4	47	7	Bohumil	Kos	M			67	důchodce	Droužkovice	47	47	0
-4202	563056	1	5	901	1	Jan	Okénka	M			48	OSVČ	Droužkovice	99	80	0
-4202	563056	1	5	901	2	Radek	Vaňous	M			42	technik TV	Droužkovice	99	80	0
-4202	563056	1	5	901	3	Zdeněk	Národa	M	Ing.		37	veterinární asistent	Droužkovice	99	80	0
-4202	563056	1	5	901	4	Josef	Brodníček	M			40	provozní zámečník	Droužkovice	99	80	0
-4202	563056	1	5	901	5	Josef	Řeřicha	M			32	stavbyvedoucí	Droužkovice	99	80	0
-4202	563056	1	5	901	6	Věra	Funková	F			44	vychovatelka	Droužkovice	99	80	0
-4202	563056	1	5	901	7	Jaroslava	Milasevičová	F			55	soudní tajemnice	Droužkovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4202	563056	1	1	903	1	Rostislav	Vaňous			64	důchodce	Droužkovice	99	80	0	M
+4202	563056	1	2	53	1	Rudolf	Vojtěch			58	podnikatel	Droužkovice	53	53	0	M
+4202	563056	1	3	902	1	Milan	Živný			62	starosta obce	Droužkovice	99	80	0	M
+4202	563056	1	4	47	1	František	Dvořák			59	bezpečnostní pracovník	Droužkovice	99	47	0	M
+4202	563056	1	5	901	1	Jan	Okénka			48	OSVČ	Droužkovice	99	80	0	M
+4202	563056	1	1	903	2	Eliška	Kratochvílová	Bc.		47	úřednice	Droužkovice	99	80	0	F
+4202	563056	1	2	53	2	Miroslav	Rampas	Ing.		47	systémový inženýr	Droužkovice	53	53	0	M
+4202	563056	1	3	902	2	Luděk	Nesládek			42	elektrikář	Droužkovice	99	80	0	M
+4202	563056	1	4	47	2	Rostislav	Kikal			48	podnikatel	Droužkovice	99	47	0	M
+4202	563056	1	5	901	2	Radek	Vaňous			42	technik TV	Droužkovice	99	80	0	M
+4202	563056	1	1	903	3	Štěpán	Národa			62	řidič	Droužkovice	99	80	0	M
+4202	563056	1	2	53	3	Eva	Gruntorádová			54	úřednice Obecního úřadu	Droužkovice	99	53	0	F
+4202	563056	1	3	902	3	Martin	Pipek			42	soukromý pod.	Droužkovice	99	80	0	M
+4202	563056	1	4	47	3	Petr	Albrecht			62	důchodce	Droužkovice	99	47	0	M
+4202	563056	1	5	901	3	Zdeněk	Národa	Ing.		37	veterinární asistent	Droužkovice	99	80	0	M
+4202	563056	1	1	903	4	Bronislav	Miroš			58	učitel	Droužkovice	99	80	0	M
+4202	563056	1	2	53	4	Jakub	Michalec			23	řidič	Droužkovice	53	53	0	M
+4202	563056	1	3	902	4	Marian	Ješko			40	soukromý pod.	Droužkovice	99	80	0	M
+4202	563056	1	4	47	4	Tomáš	Dvořák			31	řidič	Droužkovice	47	47	0	M
+4202	563056	1	5	901	4	Josef	Brodníček			40	provozní zámečník	Droužkovice	99	80	0	M
+4202	563056	1	1	903	5	Miroslav	Mašata			57	část. inv. důchodce	Droužkovice	99	80	0	M
+4202	563056	1	2	53	5	Václav	Merhaut			38	technik pro topná a solár.zař.	Droužkovice	53	53	0	M
+4202	563056	1	3	902	5	Jiří	Sýkora			43	soukromý pod.	Droužkovice	99	80	0	M
+4202	563056	1	4	47	5	Danuše	Kejaková			73	důchodce	Droužkovice	99	47	0	F
+4202	563056	1	5	901	5	Josef	Řeřicha			32	stavbyvedoucí	Droužkovice	99	80	0	M
+4202	563056	1	1	903	6	František	Klinga			55	řidič	Droužkovice	99	80	0	M
+4202	563056	1	2	53	6	Pavla	Rendová			45	dělnice	Droužkovice	99	53	0	F
+4202	563056	1	3	902	6	Jiří	Dolejška			48	elektrikář	Droužkovice	99	80	0	M
+4202	563056	1	4	47	6	Václav	Nedbálek			41	řidič	Droužkovice	99	47	0	M
+4202	563056	1	5	901	6	Věra	Funková			44	vychovatelka	Droužkovice	99	80	0	F
+4202	563056	1	1	903	7	Václav	Kohout			60	důchodce	Droužkovice	99	80	0	M
+4202	563056	1	2	53	7	Jan	Kufa			34	jednatel společnosti	Droužkovice	99	53	0	M
+4202	563056	1	3	902	7	Vladimír	Renda			48	soukromý pod.	Droužkovice	99	80	0	M
+4202	563056	1	4	47	7	Bohumil	Kos			67	důchodce	Droužkovice	47	47	0	M
+4202	563056	1	5	901	7	Jaroslava	Milasevičová			55	soudní tajemnice	Droužkovice	99	80	0	F

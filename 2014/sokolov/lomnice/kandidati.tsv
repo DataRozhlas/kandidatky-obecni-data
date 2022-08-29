@@ -1,43 +1,43 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4103	560545	1	1	902	1	Miloslav	Matoušek	M			63	starosta	Týn	99	80	0
-4103	560545	1	1	902	2	Karel	Lídl	M			42	vedoucí údržby	Týn	99	80	0
-4103	560545	1	1	902	3	Naděžda	Černíková	F			52	ředitelka MŠ	Lomnice	99	80	0
-4103	560545	1	1	902	4	Jaroslav	Ondrejčík	M			57	makléř	Týn	99	80	0
-4103	560545	1	1	902	5	Jaroslav	Blcha	M			47	zámečník	Týn	99	80	0
-4103	560545	1	1	902	6	Markéta	Nováková	F			31	učitelka	Týn	99	80	0
-4103	560545	1	1	902	7	Josef	Janura	M			38	referent finančního oddělení	Týn	99	80	0
-4103	560545	1	1	902	8	Jitka	Pugnerová	F			51	učitelka	Lomnice	99	80	0
-4103	560545	1	1	902	9	Josef	Kadlec	M			47	technik	Lomnice	99	80	0
-4103	560545	1	1	902	10	Eva	Sásová	F			52	provozní	Lomnice	99	80	0
-4103	560545	1	1	902	11	Petr	Böhm	M			60	důchodce	Lomnice	99	80	0
-4103	560545	1	1	902	12	Karel	Baumann	M			55	elektrikář	Lomnice	99	80	0
-4103	560545	1	1	902	13	Antonín	Téma	M			64	důchodce	Týn	99	80	0
-4103	560545	1	2	483	1	Renata	Málková	F			24	ekonom	Lomnice	724	724	0
-4103	560545	1	2	483	2	Vladimír	Gregor	M			21	policista	Týn	99	80	0
-4103	560545	1	2	483	3	Petra	Gregorová	F			49	učitelka	Týn	99	80	0
-4103	560545	1	3	47	1	Jan	Dudáš	M			68	důchodce	Lomnice	47	47	0
-4103	560545	1	3	47	2	Jitka	Klimešová	F	Bc.		40	ekolog	Lomnice	99	47	0
-4103	560545	1	3	47	3	Miroslav	Ritoch	M			45	dělník	Týn	99	47	0
-4103	560545	1	3	47	4	Ladislav	Ondrejka	M			56	mistr	Lomnice	99	47	0
-4103	560545	1	3	47	5	Eduard	Hiller	M			37	technik	Týn	99	47	0
-4103	560545	1	3	47	6	Jaroslav	Pitner	M			47	dělník	Lomnice	99	47	0
-4103	560545	1	3	47	7	Stanislav	Burkhardt	M			57	elektromontér	Lomnice	99	47	0
-4103	560545	1	3	47	8	Radim	Polívka	M			39	elektrikář	Týn	99	47	0
-4103	560545	1	3	47	9	Jana	Ritochová	F			20	student	Týn	99	47	0
-4103	560545	1	3	47	10	Jana	Hillerová	F			32	úřednice	Týn	99	47	0
-4103	560545	1	3	47	11	František	Klimeš	M			67	důchodce	Lomnice	47	47	0
-4103	560545	1	3	47	12	Jiřina	Michalcová	F			19	student	Lomnice	99	47	0
-4103	560545	1	3	47	13	Zdeňka	Dudášová	F			65	důchodce	Lomnice	99	47	0
-4103	560545	1	4	901	1	Ludvík	Maňák	M			39	státní zaměstnanec	Lomnice	99	80	0
-4103	560545	1	4	901	2	Ladislav	Litvák	M	Mgr.		49	správce sportovního areálu	Lomnice	99	80	0
-4103	560545	1	4	901	3	Miloš	Matoušek	M			37	technický pracovník	Týn	99	80	0
-4103	560545	1	4	901	4	Vladimír	Vondruška	M			51	zámečník	Týn	99	80	0
-4103	560545	1	4	901	5	Josef	Kordík	M			57	elektromechanik	Týn	99	80	0
-4103	560545	1	4	901	6	Radovan	Vajdík	M			46	seřizovač	Týn	99	80	0
-4103	560545	1	4	901	7	Petr	Šimáček	M			37	skladník	Týn	99	80	0
-4103	560545	1	4	901	8	Josef	Pitner	M			49	státní zaměstnanec	Lomnice	99	80	0
-4103	560545	1	4	901	9	Ivana	Böhmová	F			33	učitelka MŠ	Týn	99	80	0
-4103	560545	1	4	901	10	Vladimír	Mazurkovič	M			48	OSVČ	Lomnice	99	80	0
-4103	560545	1	4	901	11	Rudolf	Štěpanovský	M			47	zedník	Lomnice	99	80	0
-4103	560545	1	4	901	12	Gabriela	Pojerová	F			48	částečný invalidní důchodce	Týn	99	80	0
-4103	560545	1	4	901	13	Milan	Štursa	M			44	OSVČ	Lomnice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4103	560545	1	1	902	1	Miloslav	Matoušek			63	starosta	Týn	99	80	0	M
+4103	560545	1	2	483	1	Renata	Málková			24	ekonom	Lomnice	724	724	0	F
+4103	560545	1	3	47	1	Jan	Dudáš			68	důchodce	Lomnice	47	47	0	M
+4103	560545	1	4	901	1	Ludvík	Maňák			39	státní zaměstnanec	Lomnice	99	80	0	M
+4103	560545	1	1	902	2	Karel	Lídl			42	vedoucí údržby	Týn	99	80	0	M
+4103	560545	1	2	483	2	Vladimír	Gregor			21	policista	Týn	99	80	0	M
+4103	560545	1	3	47	2	Jitka	Klimešová	Bc.		40	ekolog	Lomnice	99	47	0	F
+4103	560545	1	4	901	2	Ladislav	Litvák	Mgr.		49	správce sportovního areálu	Lomnice	99	80	0	M
+4103	560545	1	1	902	3	Naděžda	Černíková			52	ředitelka MŠ	Lomnice	99	80	0	F
+4103	560545	1	2	483	3	Petra	Gregorová			49	učitelka	Týn	99	80	0	F
+4103	560545	1	3	47	3	Miroslav	Ritoch			45	dělník	Týn	99	47	0	M
+4103	560545	1	4	901	3	Miloš	Matoušek			37	technický pracovník	Týn	99	80	0	M
+4103	560545	1	1	902	4	Jaroslav	Ondrejčík			57	makléř	Týn	99	80	0	M
+4103	560545	1	3	47	4	Ladislav	Ondrejka			56	mistr	Lomnice	99	47	0	M
+4103	560545	1	4	901	4	Vladimír	Vondruška			51	zámečník	Týn	99	80	0	M
+4103	560545	1	1	902	5	Jaroslav	Blcha			47	zámečník	Týn	99	80	0	M
+4103	560545	1	3	47	5	Eduard	Hiller			37	technik	Týn	99	47	0	M
+4103	560545	1	4	901	5	Josef	Kordík			57	elektromechanik	Týn	99	80	0	M
+4103	560545	1	1	902	6	Markéta	Nováková			31	učitelka	Týn	99	80	0	F
+4103	560545	1	3	47	6	Jaroslav	Pitner			47	dělník	Lomnice	99	47	0	M
+4103	560545	1	4	901	6	Radovan	Vajdík			46	seřizovač	Týn	99	80	0	M
+4103	560545	1	1	902	7	Josef	Janura			38	referent finančního oddělení	Týn	99	80	0	M
+4103	560545	1	3	47	7	Stanislav	Burkhardt			57	elektromontér	Lomnice	99	47	0	M
+4103	560545	1	4	901	7	Petr	Šimáček			37	skladník	Týn	99	80	0	M
+4103	560545	1	1	902	8	Jitka	Pugnerová			51	učitelka	Lomnice	99	80	0	F
+4103	560545	1	3	47	8	Radim	Polívka			39	elektrikář	Týn	99	47	0	M
+4103	560545	1	4	901	8	Josef	Pitner			49	státní zaměstnanec	Lomnice	99	80	0	M
+4103	560545	1	1	902	9	Josef	Kadlec			47	technik	Lomnice	99	80	0	M
+4103	560545	1	3	47	9	Jana	Ritochová			20	student	Týn	99	47	0	F
+4103	560545	1	4	901	9	Ivana	Böhmová			33	učitelka MŠ	Týn	99	80	0	F
+4103	560545	1	1	902	10	Eva	Sásová			52	provozní	Lomnice	99	80	0	F
+4103	560545	1	3	47	10	Jana	Hillerová			32	úřednice	Týn	99	47	0	F
+4103	560545	1	4	901	10	Vladimír	Mazurkovič			48	OSVČ	Lomnice	99	80	0	M
+4103	560545	1	1	902	11	Petr	Böhm			60	důchodce	Lomnice	99	80	0	M
+4103	560545	1	3	47	11	František	Klimeš			67	důchodce	Lomnice	47	47	0	M
+4103	560545	1	4	901	11	Rudolf	Štěpanovský			47	zedník	Lomnice	99	80	0	M
+4103	560545	1	1	902	12	Karel	Baumann			55	elektrikář	Lomnice	99	80	0	M
+4103	560545	1	3	47	12	Jiřina	Michalcová			19	student	Lomnice	99	47	0	F
+4103	560545	1	4	901	12	Gabriela	Pojerová			48	částečný invalidní důchodce	Týn	99	80	0	F
+4103	560545	1	1	902	13	Antonín	Téma			64	důchodce	Týn	99	80	0	M
+4103	560545	1	3	47	13	Zdeňka	Dudášová			65	důchodce	Lomnice	99	47	0	F
+4103	560545	1	4	901	13	Milan	Štursa			44	OSVČ	Lomnice	99	80	0	M

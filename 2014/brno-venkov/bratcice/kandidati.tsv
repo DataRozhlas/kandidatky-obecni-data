@@ -1,24 +1,24 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	582883	1	1	903	1	Petr	Haramach	M		MBA	53	technik	Bratčice	99	80	0
-6203	582883	1	1	903	2	Miloš	Pokorný	M			54	údržbář	Bratčice	99	80	0
-6203	582883	1	1	903	3	Věra	Kopřivová	F			39	referentka	Bratčice	99	80	0
-6203	582883	1	1	903	4	Dušan	Krátký	M			45	soukromý zemědělec	Bratčice	99	80	0
-6203	582883	1	2	904	1	Petr	Schlesinger	M	JUDr.		62	advokát	Bratčice	99	80	0
-6203	582883	1	2	904	2	Roman	Souček	M			50	elektromechanik	Bratčice	99	80	0
-6203	582883	1	2	904	3	Jana	Flodrová	F			41	poštovní úřednice	Bratčice	99	80	0
-6203	582883	1	2	904	4	Jarmila	Jestřabíková	F			55	živnostnice	Bratčice	99	80	0
-6203	582883	1	3	902	1	Jan	Buršík	M	Bc.		35	OSVČ	Bratčice	99	80	0
-6203	582883	1	3	902	2	Jana	Jersenská	F	Ing.		62	ředitelka školy	Bratčice	99	80	0
-6203	582883	1	3	902	3	Pavel	Janek	M		DiS.	27	administrátor IT	Bratčice	99	80	0
-6203	582883	1	3	902	4	Zdeňka	Schořová	F	Ing.		43	referent finan.úřadu	Bratčice	99	80	0
-6203	582883	1	3	902	5	Lubomír	Ondra	M			63	důchodce	Bratčice	99	80	0
-6203	582883	1	3	902	6	Robin	Bartoš	M	Bc.		29	projektant pozem.staveb	Bratčice	99	80	0
-6203	582883	1	3	902	7	Marek	Spáčal	M	Bc.		26	účetní	Bratčice	99	80	0
-6203	582883	1	3	902	8	Martin	Zittner	M			30	profesionální hasič	Bratčice	99	80	0
-6203	582883	1	4	901	1	Jiří	Homola	M			36	OSVČ	Bratčice	99	80	0
-6203	582883	1	4	901	2	Martin	Homolka	M			36	zámečník	Bratčice	99	80	0
-6203	582883	1	4	901	3	Radek	Březina	M			39	správce zámku	Bratčice	99	80	0
-6203	582883	1	4	901	4	Vladimír	Kelbl	M			37	Podnikatel	Bratčice	99	80	0
-6203	582883	1	4	901	5	Jaroslava	Marešová	F		DiS.	45	Úřednice	Bratčice	99	80	0
-6203	582883	1	4	901	6	Pavel	Hanreich	M			35	Konstruktér	Bratčice	99	80	0
-6203	582883	1	4	901	7	Radek	Novák	M	Ing.		53	Technický dozor investora	Bratčice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	582883	1	1	903	1	Petr	Haramach		MBA	53	technik	Bratčice	99	80	0	M
+6203	582883	1	2	904	1	Petr	Schlesinger	JUDr.		62	advokát	Bratčice	99	80	0	M
+6203	582883	1	3	902	1	Jan	Buršík	Bc.		35	OSVČ	Bratčice	99	80	0	M
+6203	582883	1	4	901	1	Jiří	Homola			36	OSVČ	Bratčice	99	80	0	M
+6203	582883	1	1	903	2	Miloš	Pokorný			54	údržbář	Bratčice	99	80	0	M
+6203	582883	1	2	904	2	Roman	Souček			50	elektromechanik	Bratčice	99	80	0	M
+6203	582883	1	3	902	2	Jana	Jersenská	Ing.		62	ředitelka školy	Bratčice	99	80	0	F
+6203	582883	1	4	901	2	Martin	Homolka			36	zámečník	Bratčice	99	80	0	M
+6203	582883	1	1	903	3	Věra	Kopřivová			39	referentka	Bratčice	99	80	0	F
+6203	582883	1	2	904	3	Jana	Flodrová			41	poštovní úřednice	Bratčice	99	80	0	F
+6203	582883	1	3	902	3	Pavel	Janek		DiS.	27	administrátor IT	Bratčice	99	80	0	M
+6203	582883	1	4	901	3	Radek	Březina			39	správce zámku	Bratčice	99	80	0	M
+6203	582883	1	1	903	4	Dušan	Krátký			45	soukromý zemědělec	Bratčice	99	80	0	M
+6203	582883	1	2	904	4	Jarmila	Jestřabíková			55	živnostnice	Bratčice	99	80	0	F
+6203	582883	1	3	902	4	Zdeňka	Schořová	Ing.		43	referent finan.úřadu	Bratčice	99	80	0	F
+6203	582883	1	4	901	4	Vladimír	Kelbl			37	Podnikatel	Bratčice	99	80	0	M
+6203	582883	1	3	902	5	Lubomír	Ondra			63	důchodce	Bratčice	99	80	0	M
+6203	582883	1	4	901	5	Jaroslava	Marešová		DiS.	45	Úřednice	Bratčice	99	80	0	F
+6203	582883	1	3	902	6	Robin	Bartoš	Bc.		29	projektant pozem.staveb	Bratčice	99	80	0	M
+6203	582883	1	4	901	6	Pavel	Hanreich			35	Konstruktér	Bratčice	99	80	0	M
+6203	582883	1	3	902	7	Marek	Spáčal	Bc.		26	účetní	Bratčice	99	80	0	M
+6203	582883	1	4	901	7	Radek	Novák	Ing.		53	Technický dozor investora	Bratčice	99	80	0	M
+6203	582883	1	3	902	8	Martin	Zittner			30	profesionální hasič	Bratčice	99	80	0	M

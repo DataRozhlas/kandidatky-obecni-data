@@ -1,15 +1,15 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7103	589586	1	1	901	1	Petr	Mazánek	M			44	zdravotník	Jesenec	99	80	A
-7103	589586	1	1	901	2	Antonín	Kučera	M	Ing.		54	soukr. zemědělec	Jesenec	99	80	A
-7103	589586	1	1	901	3	Ondřej	Najbr	M	Ing.		26	elektromechanik	Jesenec	99	80	A
-7103	589586	1	1	901	4	Jaroslav	Korkeš	M			39	skladník	Jesenec	99	80	A
-7103	589586	1	1	901	5	Teťana	Hrabalová	F			46	švadlena	Jesenec	99	80	A
-7103	589586	1	1	901	6	Hana	Hrazdilová	F			51	účetní	Jesenec	99	80	A
-7103	589586	1	1	901	7	Hana	Němcová	F			51	skladnice	Jesenec	99	80	A
-7103	589586	1	2	902	1	Dominik	Bečvář	M	Mgr.		39	učitel	Jesenec	99	80	A
-7103	589586	1	2	902	2	Vendula	Hegrová	F			40	zdravotní sestra	Jesenec	99	80	A
-7103	589586	1	2	902	3	Libor	Švec	M	MUDr.		47	lékař	Jesenec	99	80	A
-7103	589586	1	2	902	4	František	Staněk	M			61	lakýrník	Jesenec	99	80	A
-7103	589586	1	2	902	5	Pavel	Kvapil	M			51	automechanik	Jesenec	99	80	A
-7103	589586	1	2	902	6	Martin	Němec	M			28	servisní technik	Jesenec	99	80	A
-7103	589586	1	2	902	7	Jan	Kvapil	M			69	starosta	Jesenec	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7103	589586	1	1	901	1	Petr	Mazánek			44	zdravotník	Jesenec	99	80	A	M
+7103	589586	1	2	902	1	Dominik	Bečvář	Mgr.		39	učitel	Jesenec	99	80	A	M
+7103	589586	1	1	901	2	Antonín	Kučera	Ing.		54	soukr. zemědělec	Jesenec	99	80	A	M
+7103	589586	1	2	902	2	Vendula	Hegrová			40	zdravotní sestra	Jesenec	99	80	A	F
+7103	589586	1	1	901	3	Ondřej	Najbr	Ing.		26	elektromechanik	Jesenec	99	80	A	M
+7103	589586	1	2	902	3	Libor	Švec	MUDr.		47	lékař	Jesenec	99	80	A	M
+7103	589586	1	1	901	4	Jaroslav	Korkeš			39	skladník	Jesenec	99	80	A	M
+7103	589586	1	2	902	4	František	Staněk			61	lakýrník	Jesenec	99	80	A	M
+7103	589586	1	1	901	5	Teťana	Hrabalová			46	švadlena	Jesenec	99	80	A	F
+7103	589586	1	2	902	5	Pavel	Kvapil			51	automechanik	Jesenec	99	80	A	M
+7103	589586	1	1	901	6	Hana	Hrazdilová			51	účetní	Jesenec	99	80	A	F
+7103	589586	1	2	902	6	Martin	Němec			28	servisní technik	Jesenec	99	80	A	M
+7103	589586	1	1	901	7	Hana	Němcová			51	skladnice	Jesenec	99	80	A	F
+7103	589586	1	2	902	7	Jan	Kvapil			69	starosta	Jesenec	99	80	A	M

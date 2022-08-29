@@ -1,39 +1,39 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	596957	1	1	47	1	Eva	Laštovicová	F			51	státní úředník	Věcov	99	47	0
-6105	596957	1	1	47	2	Miroslava	Prudká	F	Mgr.		44	ředitelka ZŠ	Roženecké Paseky	99	47	0
-6105	596957	1	1	47	3	Pavel	Prchal	M			42	lesní technik	Roženecké Paseky	99	47	0
-6105	596957	1	1	47	4	Milan	Černý	M			39	automechanik	Koníkov	99	47	0
-6105	596957	1	1	47	5	Josef	Šikula	M			47	člen ZD	Míchov	99	47	0
-6105	596957	1	1	47	6	Pavel	Hanych	M	Ing.		34	technolog	Odranec	99	47	0
-6105	596957	1	1	47	7	Pavel	Buchta	M			36	člen ZD	Míchov	99	47	0
-6105	596957	1	1	47	8	Vladimír	Kosek	M			34	automechanik	Věcov	99	47	0
-6105	596957	1	1	47	9	Jarmila	Librová	F			49	zubní laborantka	Věcov	99	47	0
-6105	596957	1	1	47	10	Martin	Buchta	M			33	automechanik	Míchov	99	47	0
-6105	596957	1	1	47	11	Věra	Dvořáková	F	Ing.		56	agronomka	Věcov	99	47	0
-6105	596957	1	1	47	12	Zdeněk	Votava	M			37	dělník	Věcov	99	47	0
-6105	596957	1	1	47	13	Jiří	Boháč	M			65	důchodce	Odranec	47	47	0
-6105	596957	1	1	47	14	Josef	Michalík	M			53	dělník	Jimramovské Pavlovice	99	47	0
-6105	596957	1	1	47	15	Vojtěch	Skryja	M			69	důchodce	Roženecké Paseky	47	47	0
-6105	596957	1	2	7	1	Zdeněk	Vraspír	M			43	starosta	Jimramovské Pavlovice	7	7	0
-6105	596957	1	2	7	2	Miroslav	Buřval	M			50	energetik	Roženecké Paseky	99	7	0
-6105	596957	1	2	7	3	Věra	Zobačová	F			62	důchodce	Věcov	7	7	0
-6105	596957	1	2	7	4	Kateřina	Havlová	F			37	staniční sestra	Míchov	99	7	0
-6105	596957	1	2	7	5	Marcela	Lamplotová Kadlecová	F			36	všeobecná sestra	Odranec	99	7	0
-6105	596957	1	2	7	6	Alena	Štěrbová	F	Ing.		47	ekonomka ZŠ	Věcov	7	7	0
-6105	596957	1	2	7	7	Jan	Chroust	M	Ing.		36	OSVČ	Jimramovské Pavlovice	99	7	0
-6105	596957	1	2	7	8	Ladislav	Prchal	M			44	řidič	Věcov	99	7	0
-6105	596957	1	2	7	9	Josef	Sedláček	M			61	důchodce	Míchov	99	7	0
-6105	596957	1	2	7	10	Eva	Totušková	F			46	dámská krejčová	Jimramovské Pavlovice	7	7	0
-6105	596957	1	2	7	11	Pavel	Bukáček	M			30	horník	Roženecké Paseky	99	7	0
-6105	596957	1	2	7	12	Milan	Kosek	M			46	OSVČ	Věcov	99	7	0
-6105	596957	1	2	7	13	Josef	Svoboda	M			73	důchodce	Koníkov	7	7	0
-6105	596957	1	2	7	14	Radek	Zobač	M			36	traktorista	Věcov	99	7	0
-6105	596957	1	2	7	15	Milan	Topinka	M			39	katrista	Odranec	99	7	0
-6105	596957	1	3	1	1	František	Vrátný	M			47	soustružník	Míchov	1	1	0
-6105	596957	1	3	1	2	Jan	Tatíček	M			71	důchodce	Odranec	99	1	0
-6105	596957	1	3	1	3	Jan	Straka	M			38	OSVČ	Míchov	1	1	0
-6105	596957	1	3	1	4	Tomáš	Hájek	M			36	elektrikář	Věcov	99	1	0
-6105	596957	1	3	1	5	Pavel	Sedláček	M			48	OSVČ	Míchov	1	1	0
-6105	596957	1	3	1	6	František	Sedláček	M			54	technik	Míchov	1	1	0
-6105	596957	1	3	1	7	František	Straka	M			34	elektrikář	Míchov	99	1	0
-6105	596957	1	3	1	8	Vlastimila	Vrátná	F			41	OSVČ	Míchov	99	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	596957	1	1	47	1	Eva	Laštovicová			51	státní úředník	Věcov	99	47	0	F
+6105	596957	1	2	7	1	Zdeněk	Vraspír			43	starosta	Jimramovské Pavlovice	7	7	0	M
+6105	596957	1	3	1	1	František	Vrátný			47	soustružník	Míchov	1	1	0	M
+6105	596957	1	1	47	2	Miroslava	Prudká	Mgr.		44	ředitelka ZŠ	Roženecké Paseky	99	47	0	F
+6105	596957	1	2	7	2	Miroslav	Buřval			50	energetik	Roženecké Paseky	99	7	0	M
+6105	596957	1	3	1	2	Jan	Tatíček			71	důchodce	Odranec	99	1	0	M
+6105	596957	1	1	47	3	Pavel	Prchal			42	lesní technik	Roženecké Paseky	99	47	0	M
+6105	596957	1	2	7	3	Věra	Zobačová			62	důchodce	Věcov	7	7	0	F
+6105	596957	1	3	1	3	Jan	Straka			38	OSVČ	Míchov	1	1	0	M
+6105	596957	1	1	47	4	Milan	Černý			39	automechanik	Koníkov	99	47	0	M
+6105	596957	1	2	7	4	Kateřina	Havlová			37	staniční sestra	Míchov	99	7	0	F
+6105	596957	1	3	1	4	Tomáš	Hájek			36	elektrikář	Věcov	99	1	0	M
+6105	596957	1	1	47	5	Josef	Šikula			47	člen ZD	Míchov	99	47	0	M
+6105	596957	1	2	7	5	Marcela	Lamplotová Kadlecová			36	všeobecná sestra	Odranec	99	7	0	F
+6105	596957	1	3	1	5	Pavel	Sedláček			48	OSVČ	Míchov	1	1	0	M
+6105	596957	1	1	47	6	Pavel	Hanych	Ing.		34	technolog	Odranec	99	47	0	M
+6105	596957	1	2	7	6	Alena	Štěrbová	Ing.		47	ekonomka ZŠ	Věcov	7	7	0	F
+6105	596957	1	3	1	6	František	Sedláček			54	technik	Míchov	1	1	0	M
+6105	596957	1	1	47	7	Pavel	Buchta			36	člen ZD	Míchov	99	47	0	M
+6105	596957	1	2	7	7	Jan	Chroust	Ing.		36	OSVČ	Jimramovské Pavlovice	99	7	0	M
+6105	596957	1	3	1	7	František	Straka			34	elektrikář	Míchov	99	1	0	M
+6105	596957	1	1	47	8	Vladimír	Kosek			34	automechanik	Věcov	99	47	0	M
+6105	596957	1	2	7	8	Ladislav	Prchal			44	řidič	Věcov	99	7	0	M
+6105	596957	1	3	1	8	Vlastimila	Vrátná			41	OSVČ	Míchov	99	1	0	F
+6105	596957	1	1	47	9	Jarmila	Librová			49	zubní laborantka	Věcov	99	47	0	F
+6105	596957	1	2	7	9	Josef	Sedláček			61	důchodce	Míchov	99	7	0	M
+6105	596957	1	1	47	10	Martin	Buchta			33	automechanik	Míchov	99	47	0	M
+6105	596957	1	2	7	10	Eva	Totušková			46	dámská krejčová	Jimramovské Pavlovice	7	7	0	F
+6105	596957	1	1	47	11	Věra	Dvořáková	Ing.		56	agronomka	Věcov	99	47	0	F
+6105	596957	1	2	7	11	Pavel	Bukáček			30	horník	Roženecké Paseky	99	7	0	M
+6105	596957	1	1	47	12	Zdeněk	Votava			37	dělník	Věcov	99	47	0	M
+6105	596957	1	2	7	12	Milan	Kosek			46	OSVČ	Věcov	99	7	0	M
+6105	596957	1	1	47	13	Jiří	Boháč			65	důchodce	Odranec	47	47	0	M
+6105	596957	1	2	7	13	Josef	Svoboda			73	důchodce	Koníkov	7	7	0	M
+6105	596957	1	1	47	14	Josef	Michalík			53	dělník	Jimramovské Pavlovice	99	47	0	M
+6105	596957	1	2	7	14	Radek	Zobač			36	traktorista	Věcov	99	7	0	M
+6105	596957	1	1	47	15	Vojtěch	Skryja			69	důchodce	Roženecké Paseky	47	47	0	M
+6105	596957	1	2	7	15	Milan	Topinka			39	katrista	Odranec	99	7	0	M

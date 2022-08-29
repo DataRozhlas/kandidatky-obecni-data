@@ -1,40 +1,40 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6104	591904	1	1	1	1	Jiří	Zejda	M			39	dělník	Hostákov	99	1	0
-6104	591904	1	1	1	2	Jaroslav	Doležal	M			46	technik	Střížov	99	1	0
-6104	591904	1	1	1	3	Jan	Kratochvíl	M			61	invalidní důchodce	Vladislav	99	1	0
-6104	591904	1	1	1	4	Bohuslav	Dvořák	M			55	učitel odborného výcviku	Vladislav	99	1	0
-6104	591904	1	1	1	5	Ladislav	Havlát	M			60	důchodce	Vladislav	99	1	0
-6104	591904	1	1	1	6	František	Svoboda	M	Ing.		64	živnostník	Vladislav	99	1	0
-6104	591904	1	1	1	7	Josef	Kotrba	M			28	prac.střed.obchodu	Střížov	99	1	0
-6104	591904	1	1	1	8	Vlasta	Václavková	F			45	administrativní pracovnice	Vladislav	99	1	0
-6104	591904	1	1	1	9	Antonín	Lisý	M	Ing.		38	obsluha CNC strojů	Vladislav	99	1	0
-6104	591904	1	1	1	10	František	Polehla	M			23	řidič	Vladislav	99	1	0
-6104	591904	1	1	1	11	Helena	Jelínková	F			49	administrativní pracovnice	Vladislav	99	1	0
-6104	591904	1	1	1	12	Marek	Chalupa	M	Ing.		55	mistr el. výroby	Vladislav	99	1	0
-6104	591904	1	1	1	13	Aleš	Lysák	M			43	truhlář	Hostákov	99	1	0
-6104	591904	1	1	1	14	Jiří	Zelníček	M			44	řidič	Hostákov	99	1	0
-6104	591904	1	1	1	15	Jaroslav	Vávra	M			43	podnikatel	Vladislav	99	1	0
-6104	591904	1	2	47	1	Květoslav	Havlíček	M	Mgr.		60	starosta OÚ	Vladislav	47	47	0
-6104	591904	1	2	47	2	Jaroslav	Oborný	M	Bc.		31	státní zaměstnanec	Hostákov	99	47	0
-6104	591904	1	2	47	3	Marek	Nevoral	M			31	zaměstnanec bezp. agentury	Vladislav	47	47	0
-6104	591904	1	2	47	4	Jaroslav	Pulkrábek	M			34	dělník	Střížov	47	47	0
-6104	591904	1	2	47	5	Milada	Havelková	F			32	vedoucí velkoobchodu	Vladislav	99	47	0
-6104	591904	1	2	47	6	Věra	Růžičková	F			54	dělnice	Vladislav	99	47	0
-6104	591904	1	2	47	7	Josef	Horáček	M			56	typograf	Vladislav	47	47	0
-6104	591904	1	2	47	8	Leoš	Nováček	M			30	dělník	Vladislav	47	47	0
-6104	591904	1	2	47	9	Evžen	Havel	M			54	zaměstnanec bezp. agentury	Vladislav	47	47	0
-6104	591904	1	2	47	10	Drahomír	Havlíček	M			69	důchodce	Vladislav	99	47	0
-6104	591904	1	2	47	11	Jiří	Sýkora	M			73	důchodce	Vladislav	47	47	0
-6104	591904	1	2	47	12	Vladimír	Augustin	M			64	důchodce	Vladislav	47	47	0
-6104	591904	1	2	47	13	Jaromír	Smola	M			77	důchodce	Vladislav	47	47	0
-6104	591904	1	2	47	14	Jiří	Havelka	M			69	důchodce	Vladislav	47	47	0
-6104	591904	1	2	47	15	Albín	Caha	M			73	důchodce	Vladislav	47	47	0
-6104	591904	1	3	901	1	Jan	Havlena	M			65	důchodce	Vladislav	99	80	0
-6104	591904	1	3	901	2	Milada	Oborná	F			56	zdravotní sestra	Hostákov	99	80	0
-6104	591904	1	3	901	3	Martin	Otruba	M			26	technik	Vladislav	99	80	0
-6104	591904	1	3	901	4	Ivana	Doležalová	F			39	servírka	Střížov	99	80	0
-6104	591904	1	3	901	5	Stanislava	Borůvková	F			47	zdravotní sestra	Vladislav	99	80	0
-6104	591904	1	3	901	6	Miloš	Navrátil	M			54	řezník-uzenář	Hostákov	99	80	0
-6104	591904	1	3	901	7	Vladimíra	Rezová	F	MUDr.		51	lékařka	Vladislav	99	80	0
-6104	591904	1	3	901	8	Jaroslava	Černá	F			32	nezaměstnaná	Hostákov	99	80	0
-6104	591904	1	3	901	9	Jiří	Sedlák	M			51	živnostník	Vladislav	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6104	591904	1	1	1	1	Jiří	Zejda			39	dělník	Hostákov	99	1	0	M
+6104	591904	1	2	47	1	Květoslav	Havlíček	Mgr.		60	starosta OÚ	Vladislav	47	47	0	M
+6104	591904	1	3	901	1	Jan	Havlena			65	důchodce	Vladislav	99	80	0	M
+6104	591904	1	1	1	2	Jaroslav	Doležal			46	technik	Střížov	99	1	0	M
+6104	591904	1	2	47	2	Jaroslav	Oborný	Bc.		31	státní zaměstnanec	Hostákov	99	47	0	M
+6104	591904	1	3	901	2	Milada	Oborná			56	zdravotní sestra	Hostákov	99	80	0	F
+6104	591904	1	1	1	3	Jan	Kratochvíl			61	invalidní důchodce	Vladislav	99	1	0	M
+6104	591904	1	2	47	3	Marek	Nevoral			31	zaměstnanec bezp. agentury	Vladislav	47	47	0	M
+6104	591904	1	3	901	3	Martin	Otruba			26	technik	Vladislav	99	80	0	M
+6104	591904	1	1	1	4	Bohuslav	Dvořák			55	učitel odborného výcviku	Vladislav	99	1	0	M
+6104	591904	1	2	47	4	Jaroslav	Pulkrábek			34	dělník	Střížov	47	47	0	M
+6104	591904	1	3	901	4	Ivana	Doležalová			39	servírka	Střížov	99	80	0	F
+6104	591904	1	1	1	5	Ladislav	Havlát			60	důchodce	Vladislav	99	1	0	M
+6104	591904	1	2	47	5	Milada	Havelková			32	vedoucí velkoobchodu	Vladislav	99	47	0	F
+6104	591904	1	3	901	5	Stanislava	Borůvková			47	zdravotní sestra	Vladislav	99	80	0	F
+6104	591904	1	1	1	6	František	Svoboda	Ing.		64	živnostník	Vladislav	99	1	0	M
+6104	591904	1	2	47	6	Věra	Růžičková			54	dělnice	Vladislav	99	47	0	F
+6104	591904	1	3	901	6	Miloš	Navrátil			54	řezník-uzenář	Hostákov	99	80	0	M
+6104	591904	1	1	1	7	Josef	Kotrba			28	prac.střed.obchodu	Střížov	99	1	0	M
+6104	591904	1	2	47	7	Josef	Horáček			56	typograf	Vladislav	47	47	0	M
+6104	591904	1	3	901	7	Vladimíra	Rezová	MUDr.		51	lékařka	Vladislav	99	80	0	F
+6104	591904	1	1	1	8	Vlasta	Václavková			45	administrativní pracovnice	Vladislav	99	1	0	F
+6104	591904	1	2	47	8	Leoš	Nováček			30	dělník	Vladislav	47	47	0	M
+6104	591904	1	3	901	8	Jaroslava	Černá			32	nezaměstnaná	Hostákov	99	80	0	F
+6104	591904	1	1	1	9	Antonín	Lisý	Ing.		38	obsluha CNC strojů	Vladislav	99	1	0	M
+6104	591904	1	2	47	9	Evžen	Havel			54	zaměstnanec bezp. agentury	Vladislav	47	47	0	M
+6104	591904	1	3	901	9	Jiří	Sedlák			51	živnostník	Vladislav	99	80	0	M
+6104	591904	1	1	1	10	František	Polehla			23	řidič	Vladislav	99	1	0	M
+6104	591904	1	2	47	10	Drahomír	Havlíček			69	důchodce	Vladislav	99	47	0	M
+6104	591904	1	1	1	11	Helena	Jelínková			49	administrativní pracovnice	Vladislav	99	1	0	F
+6104	591904	1	2	47	11	Jiří	Sýkora			73	důchodce	Vladislav	47	47	0	M
+6104	591904	1	1	1	12	Marek	Chalupa	Ing.		55	mistr el. výroby	Vladislav	99	1	0	M
+6104	591904	1	2	47	12	Vladimír	Augustin			64	důchodce	Vladislav	47	47	0	M
+6104	591904	1	1	1	13	Aleš	Lysák			43	truhlář	Hostákov	99	1	0	M
+6104	591904	1	2	47	13	Jaromír	Smola			77	důchodce	Vladislav	47	47	0	M
+6104	591904	1	1	1	14	Jiří	Zelníček			44	řidič	Hostákov	99	1	0	M
+6104	591904	1	2	47	14	Jiří	Havelka			69	důchodce	Vladislav	47	47	0	M
+6104	591904	1	1	1	15	Jaroslav	Vávra			43	podnikatel	Vladislav	99	1	0	M
+6104	591904	1	2	47	15	Albín	Caha			73	důchodce	Vladislav	47	47	0	M

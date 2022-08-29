@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5303	578355	1	1	901	1	Alois	Kovář	M			48	traktorista	Lubná	99	80	0
-5303	578355	1	1	901	2	Josef	Chadima	M			44	technik	Lubná	99	80	0
-5303	578355	1	1	901	3	Jitka	Kučerová	F	Mgr.		39	ředitelka	Lubná	99	80	0
-5303	578355	1	1	901	4	Radek	Bartoš	M			33	soukromý podnikatel	Lubná	99	80	0
-5303	578355	1	1	901	5	Irena	Rensová	F			42	vedoucí učitelka	Lubná	99	80	0
-5303	578355	1	1	901	6	Zdeněk	Pícha	M			59	elektromontér	Lubná	99	80	0
-5303	578355	1	1	901	7	Radomír	Břeň	M			34	řidič	Lubná	99	80	0
-5303	578355	1	1	901	8	Eva	Chadimová	F			41	administrativní pracovnice	Lubná	99	80	0
-5303	578355	1	1	901	9	Zbyněk	Soušek	M			34	svářeč	Lubná	99	80	0
-5303	578355	1	1	901	10	Radek	Zavoral	M			35	traktorista	Lubná	99	80	0
-5303	578355	1	1	901	11	Alena	Vomáčková	F			37	účetní	Lubná	99	80	0
-5303	578355	1	1	901	12	Stanislava	Flídrová	F			40	účetní	Lubná	99	80	0
-5303	578355	1	1	901	13	Martin	Bednář	M			31	zámečník	Lubná	99	80	0
-5303	578355	1	1	901	14	Jaroslava	Klejchová	F			33	prodavačka	Lubná	99	80	0
-5303	578355	1	1	901	15	Pavel	Štefl	M			40	tesař	Lubná	99	80	0
-5303	578355	1	2	1	1	Karel	Haupt	M			38	podnikatel	Lubná	99	1	0
-5303	578355	1	2	1	2	Jiří	Boštík	M	Ing.		45	marketingový pracovník	Lubná	99	1	0
-5303	578355	1	2	1	3	Jaromír	Klusoň	M	Ing.		40	ekonom	Lubná	99	1	0
-5303	578355	1	2	1	4	Marie	Šplíchalová	F			42	vedoucí pošty	Lubná	1	1	0
-5303	578355	1	2	1	5	Jiří	Pohorský	M			52	zedník	Lubná	1	1	0
-5303	578355	1	2	1	6	Miloš	Chládek	M	Ing.		50	ředitel agentury	Lubná	99	1	0
-5303	578355	1	2	1	7	Ludmila	Kopecká	F	MUDr.		39	lékařka	Lubná	99	1	0
-5303	578355	1	2	1	8	Radmila	Stráníková	F			31	pracovnice bramborárny	Lubná	99	1	0
-5303	578355	1	2	1	9	Hana	Chadimová	F			32	kadeřnice	Lubná	99	1	0
-5303	578355	1	2	1	10	Ivana	Pavlišová	F			41	zootechnička	Lubná	99	1	0
-5303	578355	1	2	1	11	Josef	Kučera	M			36	opravář	Lubná	99	1	0
-5303	578355	1	2	1	12	Marta	Sýkorová	F			38	invalidní důchodkyně	Lubná	99	1	0
-5303	578355	1	2	1	13	Josef	Bouška	M			31	technik	Lubná	99	1	0
-5303	578355	1	2	1	14	Petr	Renza	M			33	podnikatel	Lubná	99	1	0
-5303	578355	1	2	1	15	Josef	Kovář	M			60	zedník	Lubná	1	1	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5303	578355	1	1	901	1	Alois	Kovář			48	traktorista	Lubná	99	80	0	M
+5303	578355	1	2	1	1	Karel	Haupt			38	podnikatel	Lubná	99	1	0	M
+5303	578355	1	1	901	2	Josef	Chadima			44	technik	Lubná	99	80	0	M
+5303	578355	1	2	1	2	Jiří	Boštík	Ing.		45	marketingový pracovník	Lubná	99	1	0	M
+5303	578355	1	1	901	3	Jitka	Kučerová	Mgr.		39	ředitelka	Lubná	99	80	0	F
+5303	578355	1	2	1	3	Jaromír	Klusoň	Ing.		40	ekonom	Lubná	99	1	0	M
+5303	578355	1	1	901	4	Radek	Bartoš			33	soukromý podnikatel	Lubná	99	80	0	M
+5303	578355	1	2	1	4	Marie	Šplíchalová			42	vedoucí pošty	Lubná	1	1	0	F
+5303	578355	1	1	901	5	Irena	Rensová			42	vedoucí učitelka	Lubná	99	80	0	F
+5303	578355	1	2	1	5	Jiří	Pohorský			52	zedník	Lubná	1	1	0	M
+5303	578355	1	1	901	6	Zdeněk	Pícha			59	elektromontér	Lubná	99	80	0	M
+5303	578355	1	2	1	6	Miloš	Chládek	Ing.		50	ředitel agentury	Lubná	99	1	0	M
+5303	578355	1	1	901	7	Radomír	Břeň			34	řidič	Lubná	99	80	0	M
+5303	578355	1	2	1	7	Ludmila	Kopecká	MUDr.		39	lékařka	Lubná	99	1	0	F
+5303	578355	1	1	901	8	Eva	Chadimová			41	administrativní pracovnice	Lubná	99	80	0	F
+5303	578355	1	2	1	8	Radmila	Stráníková			31	pracovnice bramborárny	Lubná	99	1	0	F
+5303	578355	1	1	901	9	Zbyněk	Soušek			34	svářeč	Lubná	99	80	0	M
+5303	578355	1	2	1	9	Hana	Chadimová			32	kadeřnice	Lubná	99	1	0	F
+5303	578355	1	1	901	10	Radek	Zavoral			35	traktorista	Lubná	99	80	0	M
+5303	578355	1	2	1	10	Ivana	Pavlišová			41	zootechnička	Lubná	99	1	0	F
+5303	578355	1	1	901	11	Alena	Vomáčková			37	účetní	Lubná	99	80	0	F
+5303	578355	1	2	1	11	Josef	Kučera			36	opravář	Lubná	99	1	0	M
+5303	578355	1	1	901	12	Stanislava	Flídrová			40	účetní	Lubná	99	80	0	F
+5303	578355	1	2	1	12	Marta	Sýkorová			38	invalidní důchodkyně	Lubná	99	1	0	F
+5303	578355	1	1	901	13	Martin	Bednář			31	zámečník	Lubná	99	80	0	M
+5303	578355	1	2	1	13	Josef	Bouška			31	technik	Lubná	99	1	0	M
+5303	578355	1	1	901	14	Jaroslava	Klejchová			33	prodavačka	Lubná	99	80	0	F
+5303	578355	1	2	1	14	Petr	Renza			33	podnikatel	Lubná	99	1	0	M
+5303	578355	1	1	901	15	Pavel	Štefl			40	tesař	Lubná	99	80	0	M
+5303	578355	1	2	1	15	Josef	Kovář			60	zedník	Lubná	1	1	0	M

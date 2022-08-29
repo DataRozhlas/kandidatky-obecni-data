@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	595756	1	1	1	1	Václav	Lacina	M			40	člen ZD	Jámy	1	1	0
-6105	595756	1	1	1	2	Josef	Hudeček	M			43	soukr.podnikatel	Jámy	1	1	0
-6105	595756	1	1	1	3	Pavel	Novotný	M			57	cenař ŽĎAS a.s.	Jámy	1	1	0
-6105	595756	1	1	1	4	Roman	Bláha	M			34	technik ŽĎAS a.s.	Jámy	99	1	0
-6105	595756	1	1	1	5	Marie	Hudečková	F			42	administrativní pracovnice	Jámy	99	1	0
-6105	595756	1	1	1	6	Alena	Mužátková	F			38	zdravotní sestra	Jámy	99	1	0
-6105	595756	1	1	1	7	Josef	Novotný	M	Ing.		59	agronom ZD	Jámy	1	1	0
-6105	595756	1	1	1	8	Miroslav	Ondráček	M			27	soukr.podnikatel	Jámy	99	1	0
-6105	595756	1	1	1	9	Pavel	Mužátko	M			32	technik elektro	Jámy	99	1	0
-6105	595756	1	1	1	10	Václav	Janů	M			56	člen ZD	Jámy	99	1	0
-6105	595756	1	2	47	1	Josef	Mach	M			58	člen ZD	Jámy	47	47	0
-6105	595756	1	2	47	2	Jaroslav	Homolka	M			46	výtvarník	Jámy	99	47	0
-6105	595756	1	2	47	3	Jaroslav	Ptáček	M			50	traktorista	Jámy	99	47	0
-6105	595756	1	2	47	4	Vladimír	Čermák	M			42	skladník	Jámy	99	47	0
-6105	595756	1	3	901	1	Jiří	Šikl	M			46	strojní zámečník	Jámy	99	80	0
-6105	595756	1	3	901	2	Josef	Chroust	M			47	automechanik	Jámy	99	80	0
-6105	595756	1	3	901	3	Radomír	Kondrát	M			39	skladník	Jámy	99	80	0
-6105	595756	1	3	901	4	Josef	Sochor	M			50	traktorista	Jámy	99	80	0
-6105	595756	1	3	901	5	Luboš	Brychta	M			39	zedník	Jámy	99	80	0
-6105	595756	1	3	901	6	František	Bratránek	M			49	traktorista	Jámy	99	80	0
-6105	595756	1	3	901	7	Jan	Mach	M			35	referent zásobování	Jámy	99	80	0
-6105	595756	1	3	901	8	Alena	Švomová	F			32	administrátorka	Jámy	99	80	0
-6105	595756	1	3	901	9	Stanislav	Bláha	M			35	strojní zámečník	Jámy	99	80	0
-6105	595756	1	3	901	10	František	Doležal	M			30	automechanik	Jámy	99	80	0
-6105	595756	1	3	901	11	Miroslav	Švoma	M			31	zásobovač	Jámy	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	595756	1	1	1	1	Václav	Lacina			40	člen ZD	Jámy	1	1	0	M
+6105	595756	1	2	47	1	Josef	Mach			58	člen ZD	Jámy	47	47	0	M
+6105	595756	1	3	901	1	Jiří	Šikl			46	strojní zámečník	Jámy	99	80	0	M
+6105	595756	1	1	1	2	Josef	Hudeček			43	soukr.podnikatel	Jámy	1	1	0	M
+6105	595756	1	2	47	2	Jaroslav	Homolka			46	výtvarník	Jámy	99	47	0	M
+6105	595756	1	3	901	2	Josef	Chroust			47	automechanik	Jámy	99	80	0	M
+6105	595756	1	1	1	3	Pavel	Novotný			57	cenař ŽĎAS a.s.	Jámy	1	1	0	M
+6105	595756	1	2	47	3	Jaroslav	Ptáček			50	traktorista	Jámy	99	47	0	M
+6105	595756	1	3	901	3	Radomír	Kondrát			39	skladník	Jámy	99	80	0	M
+6105	595756	1	1	1	4	Roman	Bláha			34	technik ŽĎAS a.s.	Jámy	99	1	0	M
+6105	595756	1	2	47	4	Vladimír	Čermák			42	skladník	Jámy	99	47	0	M
+6105	595756	1	3	901	4	Josef	Sochor			50	traktorista	Jámy	99	80	0	M
+6105	595756	1	1	1	5	Marie	Hudečková			42	administrativní pracovnice	Jámy	99	1	0	F
+6105	595756	1	3	901	5	Luboš	Brychta			39	zedník	Jámy	99	80	0	M
+6105	595756	1	1	1	6	Alena	Mužátková			38	zdravotní sestra	Jámy	99	1	0	F
+6105	595756	1	3	901	6	František	Bratránek			49	traktorista	Jámy	99	80	0	M
+6105	595756	1	1	1	7	Josef	Novotný	Ing.		59	agronom ZD	Jámy	1	1	0	M
+6105	595756	1	3	901	7	Jan	Mach			35	referent zásobování	Jámy	99	80	0	M
+6105	595756	1	1	1	8	Miroslav	Ondráček			27	soukr.podnikatel	Jámy	99	1	0	M
+6105	595756	1	3	901	8	Alena	Švomová			32	administrátorka	Jámy	99	80	0	F
+6105	595756	1	1	1	9	Pavel	Mužátko			32	technik elektro	Jámy	99	1	0	M
+6105	595756	1	3	901	9	Stanislav	Bláha			35	strojní zámečník	Jámy	99	80	0	M
+6105	595756	1	1	1	10	Václav	Janů			56	člen ZD	Jámy	99	1	0	M
+6105	595756	1	3	901	10	František	Doležal			30	automechanik	Jámy	99	80	0	M
+6105	595756	1	3	901	11	Miroslav	Švoma			31	zásobovač	Jámy	99	80	0	M

@@ -1,31 +1,31 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4207	567973	1	1	904	1	Ladislav	Ptáček	M			64	důchodce	Homole u Panny	99	80	0
-4207	567973	1	1	904	2	Václav	Choura	M			71	důchodce	Homole u Panny	99	80	0
-4207	567973	1	1	904	3	Zdeněk	Pinc	M			58	lesní dělník	Homole u Panny	99	80	0
-4207	567973	1	1	904	4	Dagmar	Mužíková	F			34	SMP	Homole u Panny	99	80	0
-4207	567973	1	1	904	5	Jaroslava	Vaněčková	F			48	obchodní zástupce	Haslice	99	80	0
-4207	567973	1	1	904	6	Jiří	Říha	M			39	automechanik	Homole u Panny	99	80	0
-4207	567973	1	1	904	7	Jiří	Frk	M			72	důchodce	Haslice	99	80	0
-4207	567973	1	2	903	1	Daniel	Tausche	M			38	státní zaměstnanec	Homole u Panny	99	80	0
-4207	567973	1	2	903	2	Jana	Nováková	F			49	účetní	Haslice	99	80	0
-4207	567973	1	2	903	3	Ladislava	Pružincová	F			65	důchodce	Doubravice	99	80	0
-4207	567973	1	2	903	4	Jarmila	Kopicová	F			45	strážná	Lhota pod Pannou	99	80	0
-4207	567973	1	2	903	5	Leopold	Jirásek	M			72	důchodce	Homole u Panny	99	80	0
-4207	567973	1	3	905	1	Josef	Dobiáš	M			64	důchodce	Suletice	99	80	0
-4207	567973	1	3	905	2	Pavel	Antoško	M			46	servisní pracovník	Bynov	99	80	0
-4207	567973	1	3	905	3	Karel	Vaníček	M			74	důchodce	Nová Ves	99	80	0
-4207	567973	1	3	905	4	Štefan	Pružinec	M			71	důchodce	Doubravice	99	80	0
-4207	567973	1	3	905	5	Jan	Šíma	M	Ing.		66	důchodce	Suletice	99	80	0
-4207	567973	1	3	905	6	Alena	Krejčíková	F			59	invalidní důchodce	Suletice	99	80	0
-4207	567973	1	3	905	7	Jana	Antošková	F			35	OSVČ	Bynov	99	80	0
-4207	567973	1	4	901	1	Jaroslav	Hála	M			46	státní zaměstnanec	Homole u Panny	99	80	0
-4207	567973	1	4	901	2	Žaneta	Koubková	F			35	asistent soukromého zemědělce	Lhota pod Pannou	99	80	0
-4207	567973	1	4	901	3	Lukáš	Ptáček	M			34	vedoucí prodeje	Homole u Panny	99	80	0
-4207	567973	1	4	901	4	Květa	Hastrdlová	F			35	vedoucí prodeje	Suletice	99	80	0
-4207	567973	1	4	901	5	Eva	Struhárová	F			53	invalidní důchodce	Homole u Panny	99	80	0
-4207	567973	1	4	901	6	Ilona	Hálová	F			24	asistent pedagog	Homole u Panny	99	80	0
-4207	567973	1	4	901	7	Ludvík	Janda	M			45	zedník	Homole u Panny	99	80	0
-4207	567973	1	5	902	1	Jan	Adalský	M			38	státní zaměstnanec	Doubravice	99	80	0
-4207	567973	1	5	902	2	Ilona	Petráková	F			51	strážná	Homole u Panny	99	80	0
-4207	567973	1	5	902	3	Marie	Vaňková	F			27	mateřská dovolená	Lhota pod Pannou	99	80	0
-4207	567973	1	5	902	4	Josef	Petrák	M			27	zahradník	Homole u Panny	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4207	567973	1	1	904	1	Ladislav	Ptáček			64	důchodce	Homole u Panny	99	80	0	M
+4207	567973	1	2	903	1	Daniel	Tausche			38	státní zaměstnanec	Homole u Panny	99	80	0	M
+4207	567973	1	3	905	1	Josef	Dobiáš			64	důchodce	Suletice	99	80	0	M
+4207	567973	1	4	901	1	Jaroslav	Hála			46	státní zaměstnanec	Homole u Panny	99	80	0	M
+4207	567973	1	5	902	1	Jan	Adalský			38	státní zaměstnanec	Doubravice	99	80	0	M
+4207	567973	1	1	904	2	Václav	Choura			71	důchodce	Homole u Panny	99	80	0	M
+4207	567973	1	2	903	2	Jana	Nováková			49	účetní	Haslice	99	80	0	F
+4207	567973	1	3	905	2	Pavel	Antoško			46	servisní pracovník	Bynov	99	80	0	M
+4207	567973	1	4	901	2	Žaneta	Koubková			35	asistent soukromého zemědělce	Lhota pod Pannou	99	80	0	F
+4207	567973	1	5	902	2	Ilona	Petráková			51	strážná	Homole u Panny	99	80	0	F
+4207	567973	1	1	904	3	Zdeněk	Pinc			58	lesní dělník	Homole u Panny	99	80	0	M
+4207	567973	1	2	903	3	Ladislava	Pružincová			65	důchodce	Doubravice	99	80	0	F
+4207	567973	1	3	905	3	Karel	Vaníček			74	důchodce	Nová Ves	99	80	0	M
+4207	567973	1	4	901	3	Lukáš	Ptáček			34	vedoucí prodeje	Homole u Panny	99	80	0	M
+4207	567973	1	5	902	3	Marie	Vaňková			27	mateřská dovolená	Lhota pod Pannou	99	80	0	F
+4207	567973	1	1	904	4	Dagmar	Mužíková			34	SMP	Homole u Panny	99	80	0	F
+4207	567973	1	2	903	4	Jarmila	Kopicová			45	strážná	Lhota pod Pannou	99	80	0	F
+4207	567973	1	3	905	4	Štefan	Pružinec			71	důchodce	Doubravice	99	80	0	M
+4207	567973	1	4	901	4	Květa	Hastrdlová			35	vedoucí prodeje	Suletice	99	80	0	F
+4207	567973	1	5	902	4	Josef	Petrák			27	zahradník	Homole u Panny	99	80	0	M
+4207	567973	1	1	904	5	Jaroslava	Vaněčková			48	obchodní zástupce	Haslice	99	80	0	F
+4207	567973	1	2	903	5	Leopold	Jirásek			72	důchodce	Homole u Panny	99	80	0	M
+4207	567973	1	3	905	5	Jan	Šíma	Ing.		66	důchodce	Suletice	99	80	0	M
+4207	567973	1	4	901	5	Eva	Struhárová			53	invalidní důchodce	Homole u Panny	99	80	0	F
+4207	567973	1	1	904	6	Jiří	Říha			39	automechanik	Homole u Panny	99	80	0	M
+4207	567973	1	3	905	6	Alena	Krejčíková			59	invalidní důchodce	Suletice	99	80	0	F
+4207	567973	1	4	901	6	Ilona	Hálová			24	asistent pedagog	Homole u Panny	99	80	0	F
+4207	567973	1	1	904	7	Jiří	Frk			72	důchodce	Haslice	99	80	0	M
+4207	567973	1	3	905	7	Jana	Antošková			35	OSVČ	Bynov	99	80	0	F
+4207	567973	1	4	901	7	Ludvík	Janda			45	zedník	Homole u Panny	99	80	0	M

@@ -1,28 +1,28 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-8105	556700	1	1	1188	1	Miroslav	Kořistka	M			47	elektrikář	Vávrovice	1188	1188	A
-8105	556700	1	1	1188	2	Jiří	Koreník	M			49	prodejce výpočetní techniky	Vávrovice	1188	1188	A
-8105	556700	1	1	1188	3	Kamil	Ludwig	M			54	OSVČ kameník	Vávrovice	99	1188	A
-8105	556700	1	1	1188	4	Lumíra	Galvasová	F			62	zdravotní sestra	Vávrovice	99	1188	A
-8105	556700	1	1	1188	5	Jaromír	Blaščík	M	Ing.		61	vedoucí údržby	Vávrovice	99	1188	A
-8105	556700	1	1	1188	6	Jakub	Grigar	M			28	sanitář-DRNR	Opava Předměstí	99	1188	A
-8105	556700	1	1	1188	7	Jiří	Kolarczyk	M			59	OSVČ	Opava Předměstí	99	1188	A
-8105	556700	1	1	1188	8	Daniel	Stanke	M			41	státní zaměstnanec	Vávrovice	99	1188	A
-8105	556700	1	1	1188	9	Jan	Vrbický	M			63	důchodce	Opava Předměstí	99	1188	A
-8105	556700	1	2	902	1	Ivo	Schreier	M	Mgr.		51	státní zaměstnanec	Vávrovice	99	80	A
-8105	556700	1	2	902	2	Petr	Blaščík	M			52	zámečník	Vávrovice	99	80	A
-8105	556700	1	2	902	3	Renáta	Repková	F			48	OSVČ	Vávrovice	99	80	A
-8105	556700	1	2	902	4	Dana	Schreierová	F			50	státní zaměstnanec	Vávrovice	99	80	A
-8105	556700	1	2	902	5	Vítězslav	Černín	M			51	zemědělec	Vávrovice	99	80	A
-8105	556700	1	2	902	6	Pavlína	Smolková	F	Mgr.		50	speciální pedagog	Vávrovice	99	80	A
-8105	556700	1	2	902	7	Pavla	Loukotová	F			52	pracovník administrace	Vávrovice	99	80	A
-8105	556700	1	2	902	8	Oldřich	Smolka	M			52	strojvedoucí	Vávrovice	99	80	A
-8105	556700	1	2	902	9	Věra	Kudelová	F			65	důchodce	Vávrovice	99	80	A
-8105	556700	1	3	901	1	Emilie	Dubová	F	Bc.		60	státní zaměstnanec	Předměstí	99	80	A
-8105	556700	1	3	901	2	Vladimír	Stoniš	M			60	OSVČ	Vávrovice	99	80	A
-8105	556700	1	3	901	3	Štěpán	Kršík	M			44	nezaměstnaný	Předměstí	99	80	A
-8105	556700	1	3	901	4	Radomír	Vidlička	M			55	zaměstnanec	Vávrovice	99	80	A
-8105	556700	1	3	901	5	Ladislav	Kriegisch	M	Ing.		31	produktový manažer	Předměstí	99	80	A
-8105	556700	1	3	901	6	Michal	Ondřej	M			40	OSVČ	Vávrovice	99	80	A
-8105	556700	1	3	901	7	Kateřina	Nováková	F	Mgr.		30	produktová koordinátorka	Předměstí	99	80	A
-8105	556700	1	3	901	8	Věra	Meierová	F			42	zdravotní sestra	Předměstí	99	80	A
-8105	556700	1	3	901	9	Libor	Neugebauer	M			42	montér	Předměstí	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+8105	556700	1	1	1188	1	Miroslav	Kořistka			47	elektrikář	Vávrovice	1188	1188	A	M
+8105	556700	1	2	902	1	Ivo	Schreier	Mgr.		51	státní zaměstnanec	Vávrovice	99	80	A	M
+8105	556700	1	3	901	1	Emilie	Dubová	Bc.		60	státní zaměstnanec	Předměstí	99	80	A	F
+8105	556700	1	1	1188	2	Jiří	Koreník			49	prodejce výpočetní techniky	Vávrovice	1188	1188	A	M
+8105	556700	1	2	902	2	Petr	Blaščík			52	zámečník	Vávrovice	99	80	A	M
+8105	556700	1	3	901	2	Vladimír	Stoniš			60	OSVČ	Vávrovice	99	80	A	M
+8105	556700	1	1	1188	3	Kamil	Ludwig			54	OSVČ kameník	Vávrovice	99	1188	A	M
+8105	556700	1	2	902	3	Renáta	Repková			48	OSVČ	Vávrovice	99	80	A	F
+8105	556700	1	3	901	3	Štěpán	Kršík			44	nezaměstnaný	Předměstí	99	80	A	M
+8105	556700	1	1	1188	4	Lumíra	Galvasová			62	zdravotní sestra	Vávrovice	99	1188	A	F
+8105	556700	1	2	902	4	Dana	Schreierová			50	státní zaměstnanec	Vávrovice	99	80	A	F
+8105	556700	1	3	901	4	Radomír	Vidlička			55	zaměstnanec	Vávrovice	99	80	A	M
+8105	556700	1	1	1188	5	Jaromír	Blaščík	Ing.		61	vedoucí údržby	Vávrovice	99	1188	A	M
+8105	556700	1	2	902	5	Vítězslav	Černín			51	zemědělec	Vávrovice	99	80	A	M
+8105	556700	1	3	901	5	Ladislav	Kriegisch	Ing.		31	produktový manažer	Předměstí	99	80	A	M
+8105	556700	1	1	1188	6	Jakub	Grigar			28	sanitář-DRNR	Opava Předměstí	99	1188	A	M
+8105	556700	1	2	902	6	Pavlína	Smolková	Mgr.		50	speciální pedagog	Vávrovice	99	80	A	F
+8105	556700	1	3	901	6	Michal	Ondřej			40	OSVČ	Vávrovice	99	80	A	M
+8105	556700	1	1	1188	7	Jiří	Kolarczyk			59	OSVČ	Opava Předměstí	99	1188	A	M
+8105	556700	1	2	902	7	Pavla	Loukotová			52	pracovník administrace	Vávrovice	99	80	A	F
+8105	556700	1	3	901	7	Kateřina	Nováková	Mgr.		30	produktová koordinátorka	Předměstí	99	80	A	F
+8105	556700	1	1	1188	8	Daniel	Stanke			41	státní zaměstnanec	Vávrovice	99	1188	A	M
+8105	556700	1	2	902	8	Oldřich	Smolka			52	strojvedoucí	Vávrovice	99	80	A	M
+8105	556700	1	3	901	8	Věra	Meierová			42	zdravotní sestra	Předměstí	99	80	A	F
+8105	556700	1	1	1188	9	Jan	Vrbický			63	důchodce	Opava Předměstí	99	1188	A	M
+8105	556700	1	2	902	9	Věra	Kudelová			65	důchodce	Vávrovice	99	80	A	F
+8105	556700	1	3	901	9	Libor	Neugebauer			42	montér	Předměstí	99	80	A	M

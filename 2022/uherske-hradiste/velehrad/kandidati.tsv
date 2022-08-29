@@ -1,35 +1,35 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7202	592790	1	1	1114	1	Hynek	Chovánek	M			54	chemik	Velehrad	1114	1114	A
-7202	592790	1	2	903	1	Aleš	Mergental	M	Mgr.		43	starosta obce	Velehrad	99	80	A
-7202	592790	1	2	903	2	Kristýna	Krysová	F			44	zdravotní záchranář	Velehrad	99	80	A
-7202	592790	1	2	903	3	Vojtěch	Luža	M	Ing.		31	správce kempu	Velehrad	99	80	A
-7202	592790	1	2	903	4	Ondřej	Oliva	M	MgA.		40	sochař	Velehrad	99	80	A
-7202	592790	1	2	903	5	Zbyněk	Lukáš	M	Ing.		42	jednatel společnosti	Velehrad	99	80	A
-7202	592790	1	2	903	6	Josef	Maděra	M			35	gumař	Velehrad	99	80	A
-7202	592790	1	2	903	7	Pavel	Vrzala	M	Ing.		70	aktivní senior	Velehrad	99	80	A
-7202	592790	1	2	903	8	Vojtěch	Luža	M			58	manager prodeje	Velehrad	99	80	A
-7202	592790	1	2	903	9	František	Badin	M			34	správce e-shopu	Velehrad	99	80	A
-7202	592790	1	2	903	10	Zdenka	Němečková	F	Mgr. et Mgr.		57	zákaznický servis	Velehrad	99	80	A
-7202	592790	1	2	903	11	Vladimíra	Tomaštíková	F			51	učitelka v mateřské škole	Velehrad	99	80	A
-7202	592790	1	3	901	1	Zdeněk	Sonntag	M			51	živnostník, OSVČ	Velehrad	99	80	A
-7202	592790	1	3	901	2	Tomáš	Luža	M	Ing.		50	obchodní zástupce, OSVČ	Velehrad	99	80	A
-7202	592790	1	3	901	3	Silvie	Vaculová	F			43	účetní	Velehrad	99	80	A
-7202	592790	1	3	901	4	Karel	Ševčík	M	Ing.		33	inženýr energetik	Velehrad	99	80	A
-7202	592790	1	3	901	5	Eva	Sonntagová	F	Mgr.		43	sociální pracovnice	Velehrad	99	80	A
-7202	592790	1	3	901	6	Ondřej	Junášek	M			31	montážní technik	Velehrad	99	80	A
-7202	592790	1	3	901	7	Ivana	Zůbková	F	Mgr.		57	ředitelka DDM Šikula	Velehrad	99	80	A
-7202	592790	1	3	901	8	Radim	Němeček	M			32	technik obchodu	Velehrad	99	80	A
-7202	592790	1	3	901	9	Anežka	Dudová	F			65	penzistka	Velehrad	99	80	A
-7202	592790	1	3	901	10	Tomáš	Valer	M	Ing.		45	manažer	Velehrad	99	80	A
-7202	592790	1	3	901	11	Miroslav	Mazůrek	M			58	obchodní manager	Velehrad	99	80	A
-7202	592790	1	4	902	1	Jan Václav	Kučera	M	Bc.		47	velitel stanice HZS	Velehrad	99	80	A
-7202	592790	1	4	902	2	Tereza	Kovaříková	F	Mgr.		45	učitelka	Velehrad	99	80	A
-7202	592790	1	4	902	3	Lukáš	Vaněk	M	Ing.		30	technik	Velehrad	99	80	A
-7202	592790	1	4	902	4	Miroslav	Maňásek	M	Mgr.	MBA	62	člen správní rady a ředitel vnějších vztahů	Velehrad	99	80	A
-7202	592790	1	4	902	5	Tomáš	Chytka	M	Mgr.		47	pedagog	Velehrad	99	80	A
-7202	592790	1	4	902	6	Lukáš	Novotný	M	Ing.		43	technik	Velehrad	99	80	A
-7202	592790	1	4	902	7	Petr	Ševčík	M			32	elektrikář	Velehrad	99	80	A
-7202	592790	1	4	902	8	Adam	Salinger	M	Ing.		41	vývojový inženýr	Velehrad	99	80	A
-7202	592790	1	4	902	9	Antonín	Krempl	M	Ing.		50	projektový koordinátor	Velehrad	99	80	A
-7202	592790	1	4	902	10	Pavel	Brázdil	M	Ing. Mgr.		36	ministerský rada na Ministerstvu zemědělství	Velehrad	99	80	A
-7202	592790	1	4	902	11	Jana	Březinová	F	Ing.		39	účetní obce	Velehrad	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7202	592790	1	1	1114	1	Hynek	Chovánek			54	chemik	Velehrad	1114	1114	A	M
+7202	592790	1	2	903	1	Aleš	Mergental	Mgr.		43	starosta obce	Velehrad	99	80	A	M
+7202	592790	1	3	901	1	Zdeněk	Sonntag			51	živnostník, OSVČ	Velehrad	99	80	A	M
+7202	592790	1	4	902	1	Jan Václav	Kučera	Bc.		47	velitel stanice HZS	Velehrad	99	80	A	M
+7202	592790	1	2	903	2	Kristýna	Krysová			44	zdravotní záchranář	Velehrad	99	80	A	F
+7202	592790	1	3	901	2	Tomáš	Luža	Ing.		50	obchodní zástupce, OSVČ	Velehrad	99	80	A	M
+7202	592790	1	4	902	2	Tereza	Kovaříková	Mgr.		45	učitelka	Velehrad	99	80	A	F
+7202	592790	1	2	903	3	Vojtěch	Luža	Ing.		31	správce kempu	Velehrad	99	80	A	M
+7202	592790	1	3	901	3	Silvie	Vaculová			43	účetní	Velehrad	99	80	A	F
+7202	592790	1	4	902	3	Lukáš	Vaněk	Ing.		30	technik	Velehrad	99	80	A	M
+7202	592790	1	2	903	4	Ondřej	Oliva	MgA.		40	sochař	Velehrad	99	80	A	M
+7202	592790	1	3	901	4	Karel	Ševčík	Ing.		33	inženýr energetik	Velehrad	99	80	A	M
+7202	592790	1	4	902	4	Miroslav	Maňásek	Mgr.	MBA	62	člen správní rady a ředitel vnějších vztahů	Velehrad	99	80	A	M
+7202	592790	1	2	903	5	Zbyněk	Lukáš	Ing.		42	jednatel společnosti	Velehrad	99	80	A	M
+7202	592790	1	3	901	5	Eva	Sonntagová	Mgr.		43	sociální pracovnice	Velehrad	99	80	A	F
+7202	592790	1	4	902	5	Tomáš	Chytka	Mgr.		47	pedagog	Velehrad	99	80	A	M
+7202	592790	1	2	903	6	Josef	Maděra			35	gumař	Velehrad	99	80	A	M
+7202	592790	1	3	901	6	Ondřej	Junášek			31	montážní technik	Velehrad	99	80	A	M
+7202	592790	1	4	902	6	Lukáš	Novotný	Ing.		43	technik	Velehrad	99	80	A	M
+7202	592790	1	2	903	7	Pavel	Vrzala	Ing.		70	aktivní senior	Velehrad	99	80	A	M
+7202	592790	1	3	901	7	Ivana	Zůbková	Mgr.		57	ředitelka DDM Šikula	Velehrad	99	80	A	F
+7202	592790	1	4	902	7	Petr	Ševčík			32	elektrikář	Velehrad	99	80	A	M
+7202	592790	1	2	903	8	Vojtěch	Luža			58	manager prodeje	Velehrad	99	80	A	M
+7202	592790	1	3	901	8	Radim	Němeček			32	technik obchodu	Velehrad	99	80	A	M
+7202	592790	1	4	902	8	Adam	Salinger	Ing.		41	vývojový inženýr	Velehrad	99	80	A	M
+7202	592790	1	2	903	9	František	Badin			34	správce e-shopu	Velehrad	99	80	A	M
+7202	592790	1	3	901	9	Anežka	Dudová			65	penzistka	Velehrad	99	80	A	F
+7202	592790	1	4	902	9	Antonín	Krempl	Ing.		50	projektový koordinátor	Velehrad	99	80	A	M
+7202	592790	1	2	903	10	Zdenka	Němečková	Mgr. et Mgr.		57	zákaznický servis	Velehrad	99	80	A	F
+7202	592790	1	3	901	10	Tomáš	Valer	Ing.		45	manažer	Velehrad	99	80	A	M
+7202	592790	1	4	902	10	Pavel	Brázdil	Ing. Mgr.		36	ministerský rada na Ministerstvu zemědělství	Velehrad	99	80	A	M
+7202	592790	1	2	903	11	Vladimíra	Tomaštíková			51	učitelka v mateřské škole	Velehrad	99	80	A	F
+7202	592790	1	3	901	11	Miroslav	Mazůrek			58	obchodní manager	Velehrad	99	80	A	M
+7202	592790	1	4	902	11	Jana	Březinová	Ing.		39	účetní obce	Velehrad	99	80	A	F

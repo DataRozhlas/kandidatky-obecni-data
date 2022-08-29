@@ -1,26 +1,26 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	582841	1	1	1	1	Vladimír	Kuklínek	M			61	starosta obce	Blažovice	1	1	0
-6203	582841	1	1	1	2	Petr	Pleva	M			38	zaměstnanec obecního úřadu	Blažovice	99	1	0
-6203	582841	1	1	1	3	Jan	Dvořák	M			49	skladník	Blažovice	99	1	0
-6203	582841	1	1	1	4	František	Paulík	M			45	řidič	Blažovice	99	1	0
-6203	582841	1	1	1	5	Alois	Kaláb	M			26	živnostník	Blažovice	99	1	0
-6203	582841	1	1	1	6	Karel	Štěpánek	M	Ing.		52	projektant	Blažovice	1	1	0
-6203	582841	1	1	1	7	Marie	Paulíková	F			54	komerční pracovník	Blažovice	1	1	0
-6203	582841	1	1	1	8	Jan	Kašpařík	M	Ing.		69	důchodce	Blažovice	1	1	0
-6203	582841	1	1	1	9	Radmila	Tužínová	F			75	důchodce	Blažovice	1	1	0
-6203	582841	1	1	1	10	Jiří	Nohel	M	Ing.		68	důchodce	Blažovice	1	1	0
-6203	582841	1	2	902	1	Petr	Martinák	M	Ing.	Ph.D.	32	projektant	Blažovice	99	80	0
-6203	582841	1	2	902	2	Miroslav	Brtník	M			45	soukromý podnikatel	Blažovice	99	80	0
-6203	582841	1	2	902	3	Miroslav	Bernátek	M		akad. sochař	45	soukromý podnikatel	Blažovice	99	80	0
-6203	582841	1	2	902	4	Marta	Dvořáková	F			45	dělnice	Blažovice	99	80	0
-6203	582841	1	2	902	5	Vratislav	Kubínek	M			48	soukromý podnikatel	Blažovice	99	80	0
-6203	582841	1	2	902	6	Pavel	Bartůšek	M			27	stavební dělník	Blažovice	99	80	0
-6203	582841	1	2	902	7	Jana	Paulíková	F			39	invalidní důchodkyně	Blažovice	99	80	0
-6203	582841	1	2	902	8	Petr	Dohnálek	M			26	soukromý podnikatel	Blažovice	99	80	0
-6203	582841	1	3	901	1	Ivana	Tužínová	F			40	zdravotní sestra	Blažovice	99	80	0
-6203	582841	1	3	901	2	Alois	Kotulan	M			55	montér	Blažovice	99	80	0
-6203	582841	1	3	901	3	Hana	Vojtová	F	Ing.Mgr.		50	ředitelka základní školy	Blažovice	99	80	0
-6203	582841	1	3	901	4	Zita	Štefková	F			49	zdravotní sestra	Blažovice	99	80	0
-6203	582841	1	3	901	5	Ludmila	Nohelová	F			49	ošetřovatelka	Blažovice	99	80	0
-6203	582841	1	3	901	6	Marie	Daňková	F			43	prodavačka	Blažovice	99	80	0
-6203	582841	1	3	901	7	Milan	Mareš	M			36	montér	Blažovice	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	582841	1	1	1	1	Vladimír	Kuklínek			61	starosta obce	Blažovice	1	1	0	M
+6203	582841	1	2	902	1	Petr	Martinák	Ing.	Ph.D.	32	projektant	Blažovice	99	80	0	M
+6203	582841	1	3	901	1	Ivana	Tužínová			40	zdravotní sestra	Blažovice	99	80	0	F
+6203	582841	1	1	1	2	Petr	Pleva			38	zaměstnanec obecního úřadu	Blažovice	99	1	0	M
+6203	582841	1	2	902	2	Miroslav	Brtník			45	soukromý podnikatel	Blažovice	99	80	0	M
+6203	582841	1	3	901	2	Alois	Kotulan			55	montér	Blažovice	99	80	0	M
+6203	582841	1	1	1	3	Jan	Dvořák			49	skladník	Blažovice	99	1	0	M
+6203	582841	1	2	902	3	Miroslav	Bernátek		akad. sochař	45	soukromý podnikatel	Blažovice	99	80	0	M
+6203	582841	1	3	901	3	Hana	Vojtová	Ing.Mgr.		50	ředitelka základní školy	Blažovice	99	80	0	F
+6203	582841	1	1	1	4	František	Paulík			45	řidič	Blažovice	99	1	0	M
+6203	582841	1	2	902	4	Marta	Dvořáková			45	dělnice	Blažovice	99	80	0	F
+6203	582841	1	3	901	4	Zita	Štefková			49	zdravotní sestra	Blažovice	99	80	0	F
+6203	582841	1	1	1	5	Alois	Kaláb			26	živnostník	Blažovice	99	1	0	M
+6203	582841	1	2	902	5	Vratislav	Kubínek			48	soukromý podnikatel	Blažovice	99	80	0	M
+6203	582841	1	3	901	5	Ludmila	Nohelová			49	ošetřovatelka	Blažovice	99	80	0	F
+6203	582841	1	1	1	6	Karel	Štěpánek	Ing.		52	projektant	Blažovice	1	1	0	M
+6203	582841	1	2	902	6	Pavel	Bartůšek			27	stavební dělník	Blažovice	99	80	0	M
+6203	582841	1	3	901	6	Marie	Daňková			43	prodavačka	Blažovice	99	80	0	F
+6203	582841	1	1	1	7	Marie	Paulíková			54	komerční pracovník	Blažovice	1	1	0	F
+6203	582841	1	2	902	7	Jana	Paulíková			39	invalidní důchodkyně	Blažovice	99	80	0	F
+6203	582841	1	3	901	7	Milan	Mareš			36	montér	Blažovice	99	80	0	M
+6203	582841	1	1	1	8	Jan	Kašpařík	Ing.		69	důchodce	Blažovice	1	1	0	M
+6203	582841	1	2	902	8	Petr	Dohnálek			26	soukromý podnikatel	Blažovice	99	80	0	M
+6203	582841	1	1	1	9	Radmila	Tužínová			75	důchodce	Blažovice	1	1	0	F
+6203	582841	1	1	1	10	Jiří	Nohel	Ing.		68	důchodce	Blažovice	1	1	0	M

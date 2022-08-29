@@ -1,13 +1,13 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-5302	575569	1	1	804	1	Lenka	Pištorová	F	Ing.		34	personální konzultant	Rohoznice	99	80	A
-5302	575569	1	2	803	1	Věra	Pokorná	F			46	kuchařka	Rohoznice	99	80	A
-5302	575569	1	3	901	1	Luboš	Branda	M	Ing.		60	technik	Rohoznice	99	80	A
-5302	575569	1	3	901	2	Veronika	Švadlenková	F	Ing. arch.		39	SŠ učitelka	Rohoznice	99	80	A
-5302	575569	1	3	901	3	Vlastimil	Halbich	M	Bc.		49	úředník městského úřadu	Rohoznice	99	80	A
-5302	575569	1	3	901	4	Karel	Špatenka	M			58	obchodní zástupce	Rohoznice	99	80	A
-5302	575569	1	3	901	5	Aleš	Demjančuk	M			38	ředitel stavební společnosti	Opatovice nad Labem	99	80	A
-5302	575569	1	3	901	6	Roman	Krupka	M			52	technolog	Rohoznice	99	80	A
-5302	575569	1	3	901	7	Vratislav	Holub	M			62	elektrikář	Rohoznice	99	80	A
-5302	575569	1	4	805	1	Radomír	Beněk ml.	M			27	laborant	Rohoznice	99	80	A
-5302	575569	1	5	801	1	Josef	Tomášek	M			55	lešenář	Rohoznice	99	80	A
-5302	575569	1	6	802	1	Radomír	Beněk st.	M			49	učitel odborného výcviku řezník - uzenář	Rohoznice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+5302	575569	1	1	804	1	Lenka	Pištorová	Ing.		34	personální konzultant	Rohoznice	99	80	A	F
+5302	575569	1	2	803	1	Věra	Pokorná			46	kuchařka	Rohoznice	99	80	A	F
+5302	575569	1	3	901	1	Luboš	Branda	Ing.		60	technik	Rohoznice	99	80	A	M
+5302	575569	1	4	805	1	Radomír	Beněk ml.			27	laborant	Rohoznice	99	80	A	M
+5302	575569	1	5	801	1	Josef	Tomášek			55	lešenář	Rohoznice	99	80	A	M
+5302	575569	1	6	802	1	Radomír	Beněk st.			49	učitel odborného výcviku řezník - uzenář	Rohoznice	99	80	A	M
+5302	575569	1	3	901	2	Veronika	Švadlenková	Ing. arch.		39	SŠ učitelka	Rohoznice	99	80	A	F
+5302	575569	1	3	901	3	Vlastimil	Halbich	Bc.		49	úředník městského úřadu	Rohoznice	99	80	A	M
+5302	575569	1	3	901	4	Karel	Špatenka			58	obchodní zástupce	Rohoznice	99	80	A	M
+5302	575569	1	3	901	5	Aleš	Demjančuk			38	ředitel stavební společnosti	Opatovice nad Labem	99	80	A	M
+5302	575569	1	3	901	6	Roman	Krupka			52	technolog	Rohoznice	99	80	A	M
+5302	575569	1	3	901	7	Vratislav	Holub			62	elektrikář	Rohoznice	99	80	A	M

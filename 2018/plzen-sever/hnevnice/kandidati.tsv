@@ -1,18 +1,18 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3205	530221	1	1	166	1	Petr	Čech	M			44	řidič	Hněvnice	99	166	A
-3205	530221	1	1	166	2	Ota	Boháč	M			43	montér	Hněvnice	99	166	A
-3205	530221	1	1	166	3	Pavel	Šebestík	M			51	OSVČ	Hněvnice	99	166	A
-3205	530221	1	1	166	4	Jiří	Prchal	M			44	strojník	Hněvnice	99	166	A
-3205	530221	1	1	166	5	Jan	Bartušek	M			62	řidič	Hněvnice	99	166	A
-3205	530221	1	1	166	6	Daniela	Heringová	F			32	asistentka	Hněvnice	99	166	A
-3205	530221	1	1	166	7	Jaroslav	Polák	M			55	řidič	Hněvnice	99	166	A
-3205	530221	1	1	166	8	Jan	Folta	M			65	důchodce	Hněvnice	99	166	A
-3205	530221	1	2	1183	1	Vlastimil	Veigl	M			51	OSVČ	Hněvnice	1183	1183	A
-3205	530221	1	3	901	1	Milan	Bouzek	M			61	úředník	Hněvnice	99	80	A
-3205	530221	1	3	901	2	Vladimír	Baumgartl	M			54	technik	Hněvnice	99	80	A
-3205	530221	1	3	901	3	Marcela	Junová	F			57	operatér výroby	Hněvnice	99	80	A
-3205	530221	1	3	901	4	Jiří	Kravčenko	M			31	technik	Hněvnice	99	80	A
-3205	530221	1	3	901	5	Ludmila	Goldscheiderová	F			71	důchodce	Hněvnice	99	80	A
-3205	530221	1	3	901	6	Petra	Mošovská	F			46	technik	Hněvnice	99	80	A
-3205	530221	1	3	901	7	Marie	Víderšperková	F			30	dělnice	Hněvnice	99	80	A
-3205	530221	1	3	901	8	Nikola	Mošovská	F			24	dělnice	Hněvnice	99	80	A
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3205	530221	1	1	166	1	Petr	Čech			44	řidič	Hněvnice	99	166	A	M
+3205	530221	1	2	1183	1	Vlastimil	Veigl			51	OSVČ	Hněvnice	1183	1183	A	M
+3205	530221	1	3	901	1	Milan	Bouzek			61	úředník	Hněvnice	99	80	A	M
+3205	530221	1	1	166	2	Ota	Boháč			43	montér	Hněvnice	99	166	A	M
+3205	530221	1	3	901	2	Vladimír	Baumgartl			54	technik	Hněvnice	99	80	A	M
+3205	530221	1	1	166	3	Pavel	Šebestík			51	OSVČ	Hněvnice	99	166	A	M
+3205	530221	1	3	901	3	Marcela	Junová			57	operatér výroby	Hněvnice	99	80	A	F
+3205	530221	1	1	166	4	Jiří	Prchal			44	strojník	Hněvnice	99	166	A	M
+3205	530221	1	3	901	4	Jiří	Kravčenko			31	technik	Hněvnice	99	80	A	M
+3205	530221	1	1	166	5	Jan	Bartušek			62	řidič	Hněvnice	99	166	A	M
+3205	530221	1	3	901	5	Ludmila	Goldscheiderová			71	důchodce	Hněvnice	99	80	A	F
+3205	530221	1	1	166	6	Daniela	Heringová			32	asistentka	Hněvnice	99	166	A	F
+3205	530221	1	3	901	6	Petra	Mošovská			46	technik	Hněvnice	99	80	A	F
+3205	530221	1	1	166	7	Jaroslav	Polák			55	řidič	Hněvnice	99	166	A	M
+3205	530221	1	3	901	7	Marie	Víderšperková			30	dělnice	Hněvnice	99	80	A	F
+3205	530221	1	1	166	8	Jan	Folta			65	důchodce	Hněvnice	99	166	A	M
+3205	530221	1	3	901	8	Nikola	Mošovská			24	dělnice	Hněvnice	99	80	A	F

@@ -1,21 +1,21 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-4102	555533	1	1	47	1	Jiří	Korbel	M			58	strojírenský technolog	Lesov	47	47	0
-4102	555533	1	1	47	2	Pavel	Levko	M			24	kuchař	Sadov	99	47	0
-4102	555533	1	1	47	3	Laci	Levko	M			60	konstruktér elektro	Sadov	47	47	0
-4102	555533	1	2	901	1	Eduard	Frisch	M			51	starosta	Sadov	99	80	0
-4102	555533	1	2	901	2	Ladislav	Ludvík	M			46	místostarosta	Sadov	99	80	0
-4102	555533	1	2	901	3	Marek	Frisch	M	Bc.		29	státní zaměstnanec	Sadov	99	80	0
-4102	555533	1	2	901	4	Daniel	Oliva	M			32	projektant elektro	Lesov	99	80	0
-4102	555533	1	2	901	5	David	Frisch	M			23	pracovník expedice	Sadov	99	80	0
-4102	555533	1	2	901	6	Pavel	Drda	M			68	důchodce	Lesov	99	80	0
-4102	555533	1	2	901	7	Simona	Hrubá	F			40	administrativní pracovnice	Stráň	99	80	0
-4102	555533	1	2	901	8	Radek	Koch	M			49	opravář výtahů	Sadov	99	80	0
-4102	555533	1	2	901	9	Robert	Kolaci	M			47	podnikatel	Sadov	99	80	0
-4102	555533	1	3	902	1	Šimon	Dvořák	M	Bc.		24	student	Sadov	99	80	0
-4102	555533	1	3	902	2	Petra	Zábojníková	F	Mgr.		29	pedagog	Sadov	99	80	0
-4102	555533	1	3	902	3	Nikola	Kočandrlová	F	Mgr.		27	právní koncipient	Sadov	99	80	0
-4102	555533	1	3	902	4	Zdeněk	Varga	M			24	student	Sadov	99	80	0
-4102	555533	1	3	902	5	Jana	Grossmannová	F			22	student	Bor	99	80	0
-4102	555533	1	3	902	6	Michaela	Krejnická	F	Ing.		26	marketingový specialista	Lesov	99	80	0
-4102	555533	1	3	902	7	Martin	Zábojník	M			35	stavbyvedoucí	Sadov	99	80	0
-4102	555533	1	3	902	8	Renata	Marešová	F	Bc.		23	asistent pedagoga	Sadov	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+4102	555533	1	1	47	1	Jiří	Korbel			58	strojírenský technolog	Lesov	47	47	0	M
+4102	555533	1	2	901	1	Eduard	Frisch			51	starosta	Sadov	99	80	0	M
+4102	555533	1	3	902	1	Šimon	Dvořák	Bc.		24	student	Sadov	99	80	0	M
+4102	555533	1	1	47	2	Pavel	Levko			24	kuchař	Sadov	99	47	0	M
+4102	555533	1	2	901	2	Ladislav	Ludvík			46	místostarosta	Sadov	99	80	0	M
+4102	555533	1	3	902	2	Petra	Zábojníková	Mgr.		29	pedagog	Sadov	99	80	0	F
+4102	555533	1	1	47	3	Laci	Levko			60	konstruktér elektro	Sadov	47	47	0	M
+4102	555533	1	2	901	3	Marek	Frisch	Bc.		29	státní zaměstnanec	Sadov	99	80	0	M
+4102	555533	1	3	902	3	Nikola	Kočandrlová	Mgr.		27	právní koncipient	Sadov	99	80	0	F
+4102	555533	1	2	901	4	Daniel	Oliva			32	projektant elektro	Lesov	99	80	0	M
+4102	555533	1	3	902	4	Zdeněk	Varga			24	student	Sadov	99	80	0	M
+4102	555533	1	2	901	5	David	Frisch			23	pracovník expedice	Sadov	99	80	0	M
+4102	555533	1	3	902	5	Jana	Grossmannová			22	student	Bor	99	80	0	F
+4102	555533	1	2	901	6	Pavel	Drda			68	důchodce	Lesov	99	80	0	M
+4102	555533	1	3	902	6	Michaela	Krejnická	Ing.		26	marketingový specialista	Lesov	99	80	0	F
+4102	555533	1	2	901	7	Simona	Hrubá			40	administrativní pracovnice	Stráň	99	80	0	F
+4102	555533	1	3	902	7	Martin	Zábojník			35	stavbyvedoucí	Sadov	99	80	0	M
+4102	555533	1	2	901	8	Radek	Koch			49	opravář výtahů	Sadov	99	80	0	M
+4102	555533	1	3	902	8	Renata	Marešová	Bc.		23	asistent pedagoga	Sadov	99	80	0	F
+4102	555533	1	2	901	9	Robert	Kolaci			47	podnikatel	Sadov	99	80	0	M

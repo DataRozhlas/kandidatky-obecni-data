@@ -1,17 +1,17 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6203	583090	1	1	901	1	Michaela	Košvicová	F	Ing.		25	ekonom	Hvozdec	99	80	0
-6203	583090	1	1	901	2	Jaroslav	Šimek	M	Bc.		33	vojenský pilot	Hvozdec	99	80	0
-6203	583090	1	1	901	3	Barbora	Šťastná	F			23	studentka vysoké školy	Hvozdec	99	80	0
-6203	583090	1	1	901	4	Marek	Zounek	M			33	živnostník	Hvozdec	99	80	0
-6203	583090	1	1	901	5	Zuzana	Procházková	F			27	administrativní pracovnice	Hvozdec	99	80	0
-6203	583090	1	1	901	6	Jan	Procházka	M			35	obchodní zástupce	Hvozdec	99	80	0
-6203	583090	1	1	901	7	Martin	Bém	M			35	řidič	Hvozdec	99	80	0
-6203	583090	1	1	901	8	Natálie	Gomolová	F			27	zdravotní sestra	Hvozdec	99	80	0
-6203	583090	1	1	901	9	Martin	Zelinka	M			35	řidič	Hvozdec	99	80	0
-6203	583090	1	2	53	1	Radim	Světlík	M	Ing.		45	obchodní ředitel	Hvozdec	53	53	0
-6203	583090	1	2	53	2	Jan	Vaněk	M			32	technik	Hvozdec	53	53	0
-6203	583090	1	2	53	3	Martin	Košvica	M			27	živnostník	Hvozdec	53	53	0
-6203	583090	1	2	53	4	Jiří	Sedláček	M			26	živnostník	Hvozdec	53	53	0
-6203	583090	1	2	53	5	Pavlína	Hemalová	F			40	mzdová účetní	Hvozdec	99	53	0
-6203	583090	1	2	53	6	Martina	Šimková	F			36	servírka, nyní v domácnosti	Hvozdec	99	53	0
-6203	583090	1	2	53	7	Jiří	Mytyzek	M			45	sadař	Hvozdec	53	53	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6203	583090	1	1	901	1	Michaela	Košvicová	Ing.		25	ekonom	Hvozdec	99	80	0	F
+6203	583090	1	2	53	1	Radim	Světlík	Ing.		45	obchodní ředitel	Hvozdec	53	53	0	M
+6203	583090	1	1	901	2	Jaroslav	Šimek	Bc.		33	vojenský pilot	Hvozdec	99	80	0	M
+6203	583090	1	2	53	2	Jan	Vaněk			32	technik	Hvozdec	53	53	0	M
+6203	583090	1	1	901	3	Barbora	Šťastná			23	studentka vysoké školy	Hvozdec	99	80	0	F
+6203	583090	1	2	53	3	Martin	Košvica			27	živnostník	Hvozdec	53	53	0	M
+6203	583090	1	1	901	4	Marek	Zounek			33	živnostník	Hvozdec	99	80	0	M
+6203	583090	1	2	53	4	Jiří	Sedláček			26	živnostník	Hvozdec	53	53	0	M
+6203	583090	1	1	901	5	Zuzana	Procházková			27	administrativní pracovnice	Hvozdec	99	80	0	F
+6203	583090	1	2	53	5	Pavlína	Hemalová			40	mzdová účetní	Hvozdec	99	53	0	F
+6203	583090	1	1	901	6	Jan	Procházka			35	obchodní zástupce	Hvozdec	99	80	0	M
+6203	583090	1	2	53	6	Martina	Šimková			36	servírka, nyní v domácnosti	Hvozdec	99	53	0	F
+6203	583090	1	1	901	7	Martin	Bém			35	řidič	Hvozdec	99	80	0	M
+6203	583090	1	2	53	7	Jiří	Mytyzek			45	sadař	Hvozdec	53	53	0	M
+6203	583090	1	1	901	8	Natálie	Gomolová			27	zdravotní sestra	Hvozdec	99	80	0	F
+6203	583090	1	1	901	9	Martin	Zelinka			35	řidič	Hvozdec	99	80	0	M

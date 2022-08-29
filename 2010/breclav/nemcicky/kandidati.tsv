@@ -1,33 +1,33 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6204	584703	1	1	1	1	Eliška	Kopřivová	F	Ing.		39	rostlinolékařský inspektor	Němčičky	1	1	0
-6204	584703	1	1	1	2	Lucie	Hrabcová	F	Mgr.		29	právník	Němčičky	1	1	0
-6204	584703	1	1	1	3	Aleš	Hádlík	M	Ing.		44	obchodní zástupce	Němčičky	99	1	0
-6204	584703	1	1	1	4	Ondřej	Svoboda	M			22	referent	Němčičky	99	1	0
-6204	584703	1	1	1	5	Pavlína	Hyclová	F			38	kuchařka	Němčičky	99	1	0
-6204	584703	1	1	1	6	Hana	Šalášková	F			41	zaměstnanec tělových.jednoty	Němčičky	99	1	0
-6204	584703	1	1	1	7	Lukáš	Blaha	M			22	student	Němčičky	99	1	0
-6204	584703	1	1	1	8	Jitka	Svobodová	F			45	účetní	Němčičky	99	1	0
-6204	584703	1	1	1	9	Marie	Kopřivová	F	Ing.		60	rostlinolékařský inspektor	Němčičky	99	1	0
-6204	584703	1	2	53	1	Petr	Slezák	M			30	starosta obce	Němčičky	53	53	0
-6204	584703	1	2	53	2	Pavel	Stávek	M			38	vinař	Němčičky	53	53	0
-6204	584703	1	2	53	3	Petr	Antoš	M	Mgr.		35	ředitel Základní školy	Němčičky	53	53	0
-6204	584703	1	2	53	4	Radomír	Oslzlý	M			30	grafik,programátor	Němčičky	53	53	0
-6204	584703	1	2	53	5	Hana	Janů	F	MUDr.		56	zubařka	Němčičky	53	53	0
-6204	584703	1	2	53	6	Patrik	Komárek	M	Ing.		37	burzovní makléř	Němčičky	53	53	0
-6204	584703	1	2	53	7	Jana	Hádlíková	F			45	učitelka	Němčičky	99	53	0
-6204	584703	1	2	53	8	Pavel	Čermák	M			42	podnikatel	Němčičky	99	53	0
-6204	584703	1	2	53	9	Radim	Stávek	M			36	vinař	Němčičky	53	53	0
-6204	584703	1	3	901	1	Jiří	Stávek	M			29	dělník	Němčičky	99	80	0
-6204	584703	1	3	901	2	Dalibor	Komárek	M			44	bankéř	Němčičky	99	80	0
-6204	584703	1	3	901	3	Zbyněk	Slezák	M			36	manažer nákupu a služeb	Němčičky	99	80	0
-6204	584703	1	3	901	4	Marek	Procházka	M			34	soukromý podnikatel	Němčičky	99	80	0
-6204	584703	1	3	901	5	Andrea	Čapková	F			31	pečovatelka	Němčičky	99	80	0
-6204	584703	1	3	901	6	Richard	Lang	M			37	technik	Němčičky	99	80	0
-6204	584703	1	3	901	7	Tomáš	Stávek	M			35	vedoucí údržby	Němčičky	99	80	0
-6204	584703	1	3	901	8	Pavlína	Kacrová	F			31	servírka	Němčičky	99	80	0
-6204	584703	1	3	901	9	Blanka	Stávková	F	Ing.		27	tajemnice	Němčičky	99	80	0
-6204	584703	1	4	47	1	Jaroslav	Stávek	M			60	vedoucí sportovního areálu	Němčičky	47	47	0
-6204	584703	1	4	47	2	Karel	Novotný	M			26	strojvedoucí	Němčičky	99	47	0
-6204	584703	1	4	47	3	Josef	Rusman	M			61	důchodce	Němčičky	47	47	0
-6204	584703	1	4	47	4	Vladimír	Novotný	M			54	skladník	Němčičky	47	47	0
-6204	584703	1	4	47	5	Zdeněk	Kacr	M			61	důchodce	Němčičky	47	47	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6204	584703	1	1	1	1	Eliška	Kopřivová	Ing.		39	rostlinolékařský inspektor	Němčičky	1	1	0	F
+6204	584703	1	2	53	1	Petr	Slezák			30	starosta obce	Němčičky	53	53	0	M
+6204	584703	1	3	901	1	Jiří	Stávek			29	dělník	Němčičky	99	80	0	M
+6204	584703	1	4	47	1	Jaroslav	Stávek			60	vedoucí sportovního areálu	Němčičky	47	47	0	M
+6204	584703	1	1	1	2	Lucie	Hrabcová	Mgr.		29	právník	Němčičky	1	1	0	F
+6204	584703	1	2	53	2	Pavel	Stávek			38	vinař	Němčičky	53	53	0	M
+6204	584703	1	3	901	2	Dalibor	Komárek			44	bankéř	Němčičky	99	80	0	M
+6204	584703	1	4	47	2	Karel	Novotný			26	strojvedoucí	Němčičky	99	47	0	M
+6204	584703	1	1	1	3	Aleš	Hádlík	Ing.		44	obchodní zástupce	Němčičky	99	1	0	M
+6204	584703	1	2	53	3	Petr	Antoš	Mgr.		35	ředitel Základní školy	Němčičky	53	53	0	M
+6204	584703	1	3	901	3	Zbyněk	Slezák			36	manažer nákupu a služeb	Němčičky	99	80	0	M
+6204	584703	1	4	47	3	Josef	Rusman			61	důchodce	Němčičky	47	47	0	M
+6204	584703	1	1	1	4	Ondřej	Svoboda			22	referent	Němčičky	99	1	0	M
+6204	584703	1	2	53	4	Radomír	Oslzlý			30	grafik,programátor	Němčičky	53	53	0	M
+6204	584703	1	3	901	4	Marek	Procházka			34	soukromý podnikatel	Němčičky	99	80	0	M
+6204	584703	1	4	47	4	Vladimír	Novotný			54	skladník	Němčičky	47	47	0	M
+6204	584703	1	1	1	5	Pavlína	Hyclová			38	kuchařka	Němčičky	99	1	0	F
+6204	584703	1	2	53	5	Hana	Janů	MUDr.		56	zubařka	Němčičky	53	53	0	F
+6204	584703	1	3	901	5	Andrea	Čapková			31	pečovatelka	Němčičky	99	80	0	F
+6204	584703	1	4	47	5	Zdeněk	Kacr			61	důchodce	Němčičky	47	47	0	M
+6204	584703	1	1	1	6	Hana	Šalášková			41	zaměstnanec tělových.jednoty	Němčičky	99	1	0	F
+6204	584703	1	2	53	6	Patrik	Komárek	Ing.		37	burzovní makléř	Němčičky	53	53	0	M
+6204	584703	1	3	901	6	Richard	Lang			37	technik	Němčičky	99	80	0	M
+6204	584703	1	1	1	7	Lukáš	Blaha			22	student	Němčičky	99	1	0	M
+6204	584703	1	2	53	7	Jana	Hádlíková			45	učitelka	Němčičky	99	53	0	F
+6204	584703	1	3	901	7	Tomáš	Stávek			35	vedoucí údržby	Němčičky	99	80	0	M
+6204	584703	1	1	1	8	Jitka	Svobodová			45	účetní	Němčičky	99	1	0	F
+6204	584703	1	2	53	8	Pavel	Čermák			42	podnikatel	Němčičky	99	53	0	M
+6204	584703	1	3	901	8	Pavlína	Kacrová			31	servírka	Němčičky	99	80	0	F
+6204	584703	1	1	1	9	Marie	Kopřivová	Ing.		60	rostlinolékařský inspektor	Němčičky	99	1	0	F
+6204	584703	1	2	53	9	Radim	Stávek			36	vinař	Němčičky	53	53	0	M
+6204	584703	1	3	901	9	Blanka	Stávková	Ing.		27	tajemnice	Němčičky	99	80	0	F

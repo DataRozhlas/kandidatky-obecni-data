@@ -1,10 +1,10 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-3106	530018	1	1	901	1	Tomáš	Kodat	M			42	zemědělec	Březí	99	80	0
-3106	530018	1	1	901	2	Karel	Jeníček	M	Ing.		56	OSVČ	Březí	99	80	0
-3106	530018	1	1	901	3	Josef	Pinta	M	Ing.		35	administrativní pracovník	Březí	99	80	0
-3106	530018	1	1	901	4	Jaroslav	Fous	M			49	zemědělec	Březí	99	80	0
-3106	530018	1	1	901	5	Miloslav	Straka	M			51	zemědělec	Březí	99	80	0
-3106	530018	1	2	902	1	Václav	Klouček	M			66	důchodce	Březí	99	80	0
-3106	530018	1	2	902	2	Dana	Malá	F			52	dělnice	Březí	99	80	0
-3106	530018	1	2	902	3	Josef	Polák	M			24	administrativní pracovník	Březí	99	80	0
-3106	530018	1	2	902	4	Kateřina	Kodatová	F			21	student	Březí	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+3106	530018	1	1	901	1	Tomáš	Kodat			42	zemědělec	Březí	99	80	0	M
+3106	530018	1	2	902	1	Václav	Klouček			66	důchodce	Březí	99	80	0	M
+3106	530018	1	1	901	2	Karel	Jeníček	Ing.		56	OSVČ	Březí	99	80	0	M
+3106	530018	1	2	902	2	Dana	Malá			52	dělnice	Březí	99	80	0	F
+3106	530018	1	1	901	3	Josef	Pinta	Ing.		35	administrativní pracovník	Březí	99	80	0	M
+3106	530018	1	2	902	3	Josef	Polák			24	administrativní pracovník	Březí	99	80	0	M
+3106	530018	1	1	901	4	Jaroslav	Fous			49	zemědělec	Březí	99	80	0	M
+3106	530018	1	2	902	4	Kateřina	Kodatová			21	student	Březí	99	80	0	F
+3106	530018	1	1	901	5	Miloslav	Straka			51	zemědělec	Březí	99	80	0	M

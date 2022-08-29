@@ -1,14 +1,14 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-6105	595918	1	1	527	1	Jan	Sedláček	M	Ing. Mgr.		40	starosta	Moravské Křižánky	779	779	0
-6105	595918	1	1	527	2	Jaroslav	Šír	M			53	nástrojař	Moravské Křižánky	99	80	0
-6105	595918	1	1	527	3	Lenka	Zdražilová	F			40	šička	Moravské Křižánky	99	80	0
-6105	595918	1	1	527	4	Ivan	Vašek	M			66	důchodce	Moravské Křižánky	99	80	0
-6105	595918	1	1	527	5	Zdeněk	Dvořák	M			58	malíř pokojů	Moravské Křižánky	99	80	0
-6105	595918	1	1	527	6	Josef	Trávníček	M			30	kuchař	České Milovy	99	80	0
-6105	595918	1	2	901	1	Luboš	Vítek	M			50	mistr nástrojárny	Moravské Křižánky	99	80	0
-6105	595918	1	2	901	2	Ladislav	Procházka	M			51	podnikatel	Moravské Křižánky	99	80	0
-6105	595918	1	2	901	3	Tomáš	Prýgl	M			34	voják z povolání	České Křižánky	99	80	0
-6105	595918	1	2	901	4	Jaroslav	Vítek	M			55	soukromý zemědělec	České Křižánky	99	80	0
-6105	595918	1	2	901	5	Dana	Slámová	F			43	dělnice	Moravské Křižánky	99	80	0
-6105	595918	1	2	901	6	Richard	Řádek	M			30	programátor CNC strojů	Moravské Křižánky	99	80	0
-6105	595918	1	2	901	7	Michal	Basovník	M	Ing.		39	ředitel chovatelského družstva	České Křižánky	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+6105	595918	1	1	527	1	Jan	Sedláček	Ing. Mgr.		40	starosta	Moravské Křižánky	779	779	0	M
+6105	595918	1	2	901	1	Luboš	Vítek			50	mistr nástrojárny	Moravské Křižánky	99	80	0	M
+6105	595918	1	1	527	2	Jaroslav	Šír			53	nástrojař	Moravské Křižánky	99	80	0	M
+6105	595918	1	2	901	2	Ladislav	Procházka			51	podnikatel	Moravské Křižánky	99	80	0	M
+6105	595918	1	1	527	3	Lenka	Zdražilová			40	šička	Moravské Křižánky	99	80	0	F
+6105	595918	1	2	901	3	Tomáš	Prýgl			34	voják z povolání	České Křižánky	99	80	0	M
+6105	595918	1	1	527	4	Ivan	Vašek			66	důchodce	Moravské Křižánky	99	80	0	M
+6105	595918	1	2	901	4	Jaroslav	Vítek			55	soukromý zemědělec	České Křižánky	99	80	0	M
+6105	595918	1	1	527	5	Zdeněk	Dvořák			58	malíř pokojů	Moravské Křižánky	99	80	0	M
+6105	595918	1	2	901	5	Dana	Slámová			43	dělnice	Moravské Křižánky	99	80	0	F
+6105	595918	1	1	527	6	Josef	Trávníček			30	kuchař	České Milovy	99	80	0	M
+6105	595918	1	2	901	6	Richard	Řádek			30	programátor CNC strojů	Moravské Křižánky	99	80	0	M
+6105	595918	1	2	901	7	Michal	Basovník	Ing.		39	ředitel chovatelského družstva	České Křižánky	99	80	0	M

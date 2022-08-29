@@ -1,23 +1,23 @@
-OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	POHLAVI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST
-7202	592714	1	1	902	1	Roman	Šmít	M			36	zámečník	Tučapy	99	80	0
-7202	592714	1	1	902	2	Radek	Machynka	M			30	obráběč kovů	Tučapy	99	80	0
-7202	592714	1	1	902	3	Anna	Spišiaková	F			28	účetní	Tučapy	99	80	0
-7202	592714	1	1	902	4	Roman	Zapletal	M			31	strojní mechanik	Tučapy	99	80	0
-7202	592714	1	1	902	5	Miroslava	Fryštáková	F			26	dělnice	Tučapy	99	80	0
-7202	592714	1	1	902	6	Bronislav	Hulín	M			34	podlahář	Tučapy	99	80	0
-7202	592714	1	1	902	7	Ondřej	Šesták	M			18	student	Tučapy	99	80	0
-7202	592714	1	2	901	1	Zdeněk	Rožek	M			56	řidič	Tučapy	99	80	0
-7202	592714	1	2	901	2	Radek	Elis	M			37	OSVČ	Tučapy	99	80	0
-7202	592714	1	2	901	3	Roman	Brázdil	M			32	samostatně hospodařící rolník	Tučapy	99	80	0
-7202	592714	1	2	901	4	Martin	Čožík	M			30	bezpečnostní manager	Tučapy	99	80	0
-7202	592714	1	2	901	5	Lubomír	Šedý	M			60	dělník	Tučapy	99	80	0
-7202	592714	1	2	901	6	Jaroslav	Zapletal	M			33	traktorista	Tučapy	99	80	0
-7202	592714	1	2	901	7	Zdeněk	Valenta	M			23	montážní technik	Tučapy	99	80	0
-7202	592714	1	3	801	1	Vilko	Šafář	M			55	důchodce	Tučapy	99	80	1
-7202	592714	1	4	903	1	Petr	Elis	M			41	podnikatel	Tučapy	99	80	0
-7202	592714	1	4	903	2	Radek	Zelinka	M			35	zahradník	Tučapy	99	80	0
-7202	592714	1	4	903	3	Pavel	Elis	M			39	technik	Tučapy	99	80	0
-7202	592714	1	4	903	4	Zdeněk	Valenta	M			45	podnikatel	Tučapy	99	80	0
-7202	592714	1	4	903	5	František	Fryšták	M			36	technik	Tučapy	99	80	0
-7202	592714	1	4	903	6	Lukáš	Rožek	M			23	svářeč	Tučapy	99	80	0
-7202	592714	1	4	903	7	Miroslav	Vanda	M			48	strojník	Tučapy	99	80	0
+OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
+7202	592714	1	1	902	1	Roman	Šmít			36	zámečník	Tučapy	99	80	0	M
+7202	592714	1	2	901	1	Zdeněk	Rožek			56	řidič	Tučapy	99	80	0	M
+7202	592714	1	3	801	1	Vilko	Šafář			55	důchodce	Tučapy	99	80	1	M
+7202	592714	1	4	903	1	Petr	Elis			41	podnikatel	Tučapy	99	80	0	M
+7202	592714	1	1	902	2	Radek	Machynka			30	obráběč kovů	Tučapy	99	80	0	M
+7202	592714	1	2	901	2	Radek	Elis			37	OSVČ	Tučapy	99	80	0	M
+7202	592714	1	4	903	2	Radek	Zelinka			35	zahradník	Tučapy	99	80	0	M
+7202	592714	1	1	902	3	Anna	Spišiaková			28	účetní	Tučapy	99	80	0	F
+7202	592714	1	2	901	3	Roman	Brázdil			32	samostatně hospodařící rolník	Tučapy	99	80	0	M
+7202	592714	1	4	903	3	Pavel	Elis			39	technik	Tučapy	99	80	0	M
+7202	592714	1	1	902	4	Roman	Zapletal			31	strojní mechanik	Tučapy	99	80	0	M
+7202	592714	1	2	901	4	Martin	Čožík			30	bezpečnostní manager	Tučapy	99	80	0	M
+7202	592714	1	4	903	4	Zdeněk	Valenta			45	podnikatel	Tučapy	99	80	0	M
+7202	592714	1	1	902	5	Miroslava	Fryštáková			26	dělnice	Tučapy	99	80	0	F
+7202	592714	1	2	901	5	Lubomír	Šedý			60	dělník	Tučapy	99	80	0	M
+7202	592714	1	4	903	5	František	Fryšták			36	technik	Tučapy	99	80	0	M
+7202	592714	1	1	902	6	Bronislav	Hulín			34	podlahář	Tučapy	99	80	0	M
+7202	592714	1	2	901	6	Jaroslav	Zapletal			33	traktorista	Tučapy	99	80	0	M
+7202	592714	1	4	903	6	Lukáš	Rožek			23	svářeč	Tučapy	99	80	0	M
+7202	592714	1	1	902	7	Ondřej	Šesták			18	student	Tučapy	99	80	0	M
+7202	592714	1	2	901	7	Zdeněk	Valenta			23	montážní technik	Tučapy	99	80	0	M
+7202	592714	1	4	903	7	Miroslav	Vanda			48	strojník	Tučapy	99	80	0	M
