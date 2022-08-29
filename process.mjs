@@ -3,6 +3,14 @@ import { csvParse, tsvFormat } from "d3-dsv";
 
 const roky = process.argv.splice(2, process.argv.length);
 
+//zkopíruj číselník stran
+if (!fs.existsSync("2022")) {
+  fs.mkdirSync("2022");
+}
+const rawCVS = fs.readFileSync(`raw/2022/cvs.csv`, "utf8");
+const CVS = csvParse(rawCVS);
+fs.writeFileSync(`2022/cvs.tsv`, tsvFormat(CVS));
+
 roky.forEach(rok => {
   if (!fs.existsSync(rok)) {
     fs.mkdirSync(rok);
@@ -121,7 +129,26 @@ roky.forEach(rok => {
   fs.writeFileSync(`${rok}/kandidati.tsv`, tsvFormat(kandidati));
   console.log(`${rok} kandidati ok`);
 
-  //vyegneruj kandidáty a zastupitelstva pro každý okres
+  const rawStrany = fs.readFileSync(`raw/${rok}/kvros.csv`, "utf8");
+
+  const strany = csvParse(rawStrany).map(strana => {
+    //Březina Blansko=>Brno-venkov
+    if (rok === "2006" && strana.KODZASTUP === "581429") {
+      strana.OKRES = "6203";
+    }
+
+    //aby Praha byla Praha
+    if (strana.OKRES === "1100") {
+      strana.OKRES = "1199";
+    }
+
+    return strana;
+  });
+
+  fs.writeFileSync(`${rok}/strany.tsv`, tsvFormat(strany));
+  console.log(`${rok} strany ok`);
+
+  //vyegneruj zastupitelstva, kandidáty a strany pro každý okres
   okresy.forEach(okres => {
     const zastupitelstvaOkresu = zastUniq.filter(
       zastupitelstvo => zastupitelstvo.OKRES === okres.NUMNUTS
@@ -129,6 +156,10 @@ roky.forEach(rok => {
     const kandidatiOkresu = kandidati.filter(
       kandidat => kandidat.OKRES === okres.NUMNUTS
     );
+    const stranyOkresu = strany.filter(
+      strana => strana.OKRES === okres.NUMNUTS
+    );
+
     if (!fs.existsSync(`${rok}/${okres.key}`)) {
       fs.mkdirSync(`${rok}/${okres.key}`);
     }
@@ -145,10 +176,16 @@ roky.forEach(rok => {
     );
     console.log(`${rok} kandidáti ${okres.NAZEVNUTS} ok`);
 
+    fs.writeFileSync(`${rok}/${okres.key}/strany.tsv`, tsvFormat(stranyOkresu));
+    console.log(`${rok} strany ${okres.NAZEVNUTS} ok`);
+
     // vygeneruj kandidáty pro každou obec
     zastupitelstvaOkresu.forEach(zastupitelstvo => {
       const kandidatiObce = kandidatiOkresu.filter(
         kandidat => zastupitelstvo.KODZASTUP === kandidat.KODZASTUP
+      );
+      const stranyObce = stranyOkresu.filter(
+        strana => zastupitelstvo.KODZASTUP === strana.KODZASTUP
       );
 
       if (!fs.existsSync(`${rok}/${okres.key}/${zastupitelstvo.key}`)) {
@@ -158,7 +195,14 @@ roky.forEach(rok => {
         `${rok}/${okres.key}/${zastupitelstvo.key}/kandidati.tsv`,
         tsvFormat(kandidatiObce)
       );
+
       console.log(`${rok} kandidáti ${zastupitelstvo.NAZEVZAST} ${rok} ok`);
+
+      fs.writeFileSync(
+        `${rok}/${okres.key}/${zastupitelstvo.key}/strany.tsv`,
+        tsvFormat(stranyObce)
+      );
+      console.log(`${rok} strany ${zastupitelstvo.NAZEVZAST} ${rok} ok`);
     });
   });
 });

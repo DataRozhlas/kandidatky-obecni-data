@@ -40,6 +40,7 @@ for (i in roky) {
   }
 }
 
+
 # convert XML numnuts to CSV numnuts
 roky = c(2006, 2010, 2014)
 for (i in roky) {
