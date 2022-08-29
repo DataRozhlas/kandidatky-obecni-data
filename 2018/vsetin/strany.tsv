@@ -9,7 +9,7 @@ OKRES	KODZASTUP	NAZEVZAST	COBVODU	POR_STR_HL	OSTRANA	VSTRANA	NAZEVCELK	ZKRATKAO3
 7203	541630	Vsetín	1	1	720	720	Česká pirátská strana	Česká pirátská strana	Piráti	1	720	7399	4.63	0
 7203	541630	Vsetín	1	2	364	364	KOALICE PRO OTEVŘENÝ VSETÍN	KOALICE PRO OTEVŘENÝ VSETÍN	Zelení+NK	2	005,080	17686	11.08	3
 7203	541630	Vsetín	1	3	53	53	Občanská demokratická strana	Občanská demokratická strana	ODS	1	053	16057	10.06	2
-7203	541630	Vsetín	1	4	482	482	S.O.S. POMOZME ZVÍŘATŮM - sdružení DSZ a NK	SOS POMOZME ZVÍŘATŮM	NA	2	080,715	303	3.98	0
+7203	541630	Vsetín	1	4	482	482	S.O.S. POMOZME ZVÍŘATŮM - sdružení DSZ a NK	SOS POMOZME ZVÍŘATŮM		2	080,715	303	3.98	0
 7203	541630	Vsetín	1	5	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	8739	5.47	1
 7203	541630	Vsetín	1	6	166	166	STAROSTOVÉ A NEZÁVISLÍ	STAROSTOVÉ A NEZÁVISLÍ	STAN	1	166	22785	14.28	3
 7203	541630	Vsetín	1	7	768	768	ANO 2011	ANO 2011	ANO	1	768	20208	12.66	3
@@ -44,9 +44,9 @@ OKRES	KODZASTUP	NAZEVZAST	COBVODU	POR_STR_HL	OSTRANA	VSTRANA	NAZEVCELK	ZKRATKAO3
 7203	542679	Halenkov	1	3	7	7	Česká strana sociálně demokratická	Česká str.sociálně demokrat.	ČSSD	1	007	1080	8.02	1
 7203	542679	Halenkov	1	4	181	181	Nestraníci	Nestraníci	Nestran.	1	181	918	6.82	1
 7203	542679	Halenkov	1	5	903	90	PRO HALENKOV	PRO HALENKOV	SNK	1	080	3081	22.89	4
-7203	542679	Halenkov	1	6	901	90	"Sdružení nezávislých kandidátů - pro rozvoj obce"""	"SNK - pro rozvoj obce"""	SNK	1	080	1765	13.11	2
+7203	542679	Halenkov	1	6	901	90	"Sdružení nezávislých kandidátů - ""pro rozvoj obce"""	"SNK - ""pro rozvoj obce"""	SNK	1	080	1765	13.11	2
 7203	542679	Halenkov	1	7	902	90	Sdružení za úspěšný Halenkov	Sdružení za úspěšný Halenkov	SNK	1	080	3459	25.7	4
-7203	542687	Horní Bečva	1	1	470	470	Nezávislí z Horní Bečvy	Nezávislí z Horní Bečvy	NA	2	080,166	3379	25.48	4
+7203	542687	Horní Bečva	1	1	470	470	Nezávislí z Horní Bečvy	Nezávislí z Horní Bečvy		2	080,166	3379	25.48	4
 7203	542687	Horní Bečva	1	2	7	7	Česká strana sociálně demokratická	Česká str.sociálně demokrat.	ČSSD	1	007	6287	47.42	7
 7203	542687	Horní Bečva	1	3	1	1	Křesťanská a demokratická unie - Československá strana lidová	Křesť.demokr.unie-Čs.str.lid.	KDU-ČSL	1	001	3592	27.09	4
 7203	542725	Horní Lideč	1	1	1	1	Křesťanská a demokratická unie - Československá strana lidová	Křesť.demokr.unie-Čs.str.lid.	KDU-ČSL	1	001	4822	53.14	8
@@ -82,7 +82,7 @@ OKRES	KODZASTUP	NAZEVZAST	COBVODU	POR_STR_HL	OSTRANA	VSTRANA	NAZEVCELK	ZKRATKAO3
 7203	542784	Huslenky	1	1	721	721	TOP 09	TOP 09	TOP 09	1	721	2395	18.17	3
 7203	542784	Huslenky	1	2	901	90	Sdružení pro rozvoj obce	Sdružení pro rozvoj obce	SNK	1	080	1654	13.44	2
 7203	542784	Huslenky	1	3	7	7	Česká strana sociálně demokratická	Česká str.sociálně demokrat.	ČSSD	1	007	689	5.22	0
-7203	542784	Huslenky	1	4	470	470	PRO ROZVOJ OBCE HUSLENKY	PRO ROZVOJ OBCE HUSLENKY	NA	2	080,166	6491	49.26	8
+7203	542784	Huslenky	1	4	470	470	PRO ROZVOJ OBCE HUSLENKY	PRO ROZVOJ OBCE HUSLENKY		2	080,166	6491	49.26	8
 7203	542784	Huslenky	1	5	1	1	Křesťanská a demokratická unie - Československá strana lidová	Křesť.demokr.unie-Čs.str.lid.	KDU-ČSL	1	001	1948	14.78	2
 7203	542814	Hutisko-Solanec	1	1	901	90	SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ	SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ	SNK	1	080	10622	87.51	14
 7203	542814	Hutisko-Solanec	1	2	1	1	Křesťanská a demokratická unie - Československá strana lidová	Křesť.demokr.unie-Čs.str.lid.	KDU-ČSL	1	001	1516	12.48	1
@@ -112,12 +112,12 @@ OKRES	KODZASTUP	NAZEVZAST	COBVODU	POR_STR_HL	OSTRANA	VSTRANA	NAZEVCELK	ZKRATKAO3
 7203	542903	Jarcová	1	17	813	80	Jana Kozáková	Jana Kozáková	NK	1	080	158	61.08	1
 7203	542903	Jarcová	1	18	806	80	Jaroslav Směták	Jaroslav Směták	NK	1	080	155	59.92	1
 7203	542903	Jarcová	1	19	807	80	Petr Konvičný	Petr Konvičný	NK	1	080	68	26.29	0
-7203	542911	Karolinka	1	1	901	90	"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ - KAROLINKA"""	"SNK - KAROLINKA"""	SNK	1	080	7130	45.31	8
+7203	542911	Karolinka	1	1	901	90	"""SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ - KAROLINKA"""	"""SNK - KAROLINKA"""	SNK	1	080	7130	45.31	8
 7203	542911	Karolinka	1	2	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	785	5.34	0
 7203	542911	Karolinka	1	3	53	53	Občanská demokratická strana	Občanská demokratická strana	ODS	1	053	2137	13.58	2
 7203	542911	Karolinka	1	4	7	7	Česká strana sociálně demokratická	Česká str.sociálně demokrat.	ČSSD	1	007	1355	8.61	1
 7203	542911	Karolinka	1	5	902	90	ZA OPRAVDOVÉ MĚSTO	ZA OPRAVDOVÉ MĚSTO	SNK	1	080	3427	21.77	3
-7203	542911	Karolinka	1	6	903	90	"PRO LEPŠÍ KAROLINKU"""	"PRO LEPŠÍ KAROLINKU"""	SNK	1	080	902	5.73	1
+7203	542911	Karolinka	1	6	903	90	"""PRO LEPŠÍ KAROLINKU"""	"""PRO LEPŠÍ KAROLINKU"""	SNK	1	080	902	5.73	1
 7203	542946	Kateřinice	1	1	805	80	Jaroslav Zubíček	Jaroslav Zubíček	NK	1	080	209	57.05	1
 7203	542946	Kateřinice	1	2	817	80	Bc. Ladislav Mičkal	Ladislav Mičkal	NK	1	080	208	56.77	1
 7203	542946	Kateřinice	1	3	802	80	Ing. Jiří Stehno	Jiří Stehno	NK	1	080	297	81.07	1
@@ -158,9 +158,9 @@ OKRES	KODZASTUP	NAZEVZAST	COBVODU	POR_STR_HL	OSTRANA	VSTRANA	NAZEVCELK	ZKRATKAO3
 7203	543021	Kunovice	1	2	901	90	Myslivci	Myslivci	SNK	1	080	655	22.88	2
 7203	543021	Kunovice	1	3	902	90	TJ Sokol Kunovice	TJ Sokol Kunovice	SNK	1	080	653	22.81	2
 7203	543098	Lačnov	1	1	902	90	LAČNOV POTŘEBUJE ZMĚNU	LAČNOV POTŘEBUJE ZMĚNU	SNK	1	080	104	5.21	0
-7203	543098	Lačnov	1	2	355	355	"Za obec krásnější"""	"Za obec krásnější"""	NA	2	001,080	1624	45.21	4
-7203	543098	Lačnov	1	3	901	90	"LAČNOVJANÉ PRO LEPŠÍ LAČNOV"""	"LAČNOVJANÉ PRO LEPŠÍ LAČNOV"""	SNK	1	080	1864	51.89	5
-7203	544264	Leskovec	1	1	901	90	"Sdružení nezávislých kandidátů - Občanské sdružení 1"""	"SNK - Občanské sdružení 1"""	SNK	1	080	1383	50.38	5
+7203	543098	Lačnov	1	2	355	355	"""Za obec krásnější"""	"""Za obec krásnější"""		2	001,080	1624	45.21	4
+7203	543098	Lačnov	1	3	901	90	"""LAČNOVJANÉ PRO LEPŠÍ LAČNOV"""	"""LAČNOVJANÉ PRO LEPŠÍ LAČNOV"""	SNK	1	080	1864	51.89	5
+7203	544264	Leskovec	1	1	901	90	"""Sdružení nezávislých kandidátů - Občanské sdružení 1"""	"""SNK - Občanské sdružení 1"""	SNK	1	080	1383	50.38	5
 7203	544264	Leskovec	1	2	903	90	SPOLEČNĚ PRO LESKOVEC	SPOLEČNĚ PRO LESKOVEC	SNK	1	080	815	29.69	2
 7203	544264	Leskovec	1	3	902	90	Pro rozvoj obce	Pro rozvoj obce	SNK	1	080	547	19.92	2
 7203	544302	Lešná	1	1	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	511	6.52	0
@@ -176,16 +176,16 @@ OKRES	KODZASTUP	NAZEVZAST	COBVODU	POR_STR_HL	OSTRANA	VSTRANA	NAZEVCELK	ZKRATKAO3
 7203	544418	Loučka	1	2	901	90	SPORTOVCI 2018	SPORTOVCI 2018	SNK	1	080	1089	27.27	3
 7203	544418	Loučka	1	3	903	90	Hasiči	Hasiči	SNK	1	080	1355	33.94	4
 7203	544434	Lužná	1	1	901	90	Sdružení nezávislých kandidátů 2018	SNK 2018	SNK	1	080	1444	49.6	4
-7203	544434	Lužná	1	2	902	90	"ZA ROZVOJ OBCE LUŽNÁ"""	"ZA ROZVOJ OBCE LUŽNÁ"""	SNK	1	080	1467	50.39	5
+7203	544434	Lužná	1	2	902	90	"""ZA ROZVOJ OBCE LUŽNÁ"""	"""ZA ROZVOJ OBCE LUŽNÁ"""	SNK	1	080	1467	50.39	5
 7203	544469	Malá Bystřice	1	1	901	90	Za obec krásnější	Za obec krásnější	SNK	1	080	799	100	7
-7203	544507	Mikulůvka	1	1	477	477	Mikulůvka Jinak 2018	Mikulůvka Jinak 2018	NA	2	080,714	931	24.5	2
+7203	544507	Mikulůvka	1	1	477	477	Mikulůvka Jinak 2018	Mikulůvka Jinak 2018		2	080,714	931	24.5	2
 7203	544507	Mikulůvka	1	2	901	90	Pro rozvoj obce Mikulůvka	Pro rozvoj obce Mikulůvka	SNK	1	080	2868	75.49	9
 7203	544566	Nový Hrozenkov	1	1	181	181	Nestraníci	Nestraníci	Nestran.	1	181	1575	11.41	2
 7203	544566	Nový Hrozenkov	1	2	7	7	Česká strana sociálně demokratická	Česká str.sociálně demokrat.	ČSSD	1	007	2883	20.88	3
-7203	544566	Nový Hrozenkov	1	3	389	389	ODS a nezávislí	ODS a nezávislí	NA	2	053,080	3107	22.51	3
+7203	544566	Nový Hrozenkov	1	3	389	389	ODS a nezávislí	ODS a nezávislí		2	053,080	3107	22.51	3
 7203	544566	Nový Hrozenkov	1	4	1	1	Křesťanská a demokratická unie - Československá strana lidová	Křesť.demokr.unie-Čs.str.lid.	KDU-ČSL	1	001	2432	17.62	3
 7203	544566	Nový Hrozenkov	1	5	901	90	Pro rozvoj městyse - sdružení nezávislých kandidátů	Pro rozvoj městyse - SNK	SNK	1	080	2988	21.65	3
-7203	544566	Nový Hrozenkov	1	6	470	470	Novohrozenkovjané	Novohrozenkovjané	NA	2	080,166	816	5.91	1
+7203	544566	Nový Hrozenkov	1	6	470	470	Novohrozenkovjané	Novohrozenkovjané		2	080,166	816	5.91	1
 7203	544574	Oznice	1	1	801	80	Přemysl Sousedík	Přemysl Sousedík	NK	1	080	110	53.71	0
 7203	544574	Oznice	1	2	806	80	Martin Gerža	Martin Gerža	NK	1	080	273	133.31	1
 7203	544574	Oznice	1	3	802	80	Radek Skýpala	Radek Skýpala	NK	1	080	116	56.64	1
@@ -199,18 +199,18 @@ OKRES	KODZASTUP	NAZEVZAST	COBVODU	POR_STR_HL	OSTRANA	VSTRANA	NAZEVCELK	ZKRATKAO3
 7203	544574	Oznice	1	11	804	80	Danica Šebestová	Danica Šebestová	NK	1	080	156	76.18	1
 7203	544574	Oznice	1	12	803	80	Vlastimil Šimčík	Vlastimil Šimčík	NK	1	080	175	85.45	1
 7203	544621	Police	1	1	903	90	NEZÁVISLÍ	NEZÁVISLÍ	SNK	1	080	693	24.18	3
-7203	544621	Police	1	2	470	470	Za další rozvoj obce Police	Za další rozvoj obce Police	NA	2	080,166	1209	42.18	5
+7203	544621	Police	1	2	470	470	Za další rozvoj obce Police	Za další rozvoj obce Police		2	080,166	1209	42.18	5
 7203	544621	Police	1	3	901	90	Tělovýchovná jednota Police	Tělovýchovná jednota Police	SNK	1	080	462	17.73	1
 7203	544621	Police	1	4	902	90	Myslivecký spolek Police - Jasenec	Mysliv.spolek Police-Jasenec	SNK	1	080	502	17.51	2
 7203	544655	Pozděchov	1	1	1	1	Křesťanská a demokratická unie - Československá strana lidová	Křesť.demokr.unie-Čs.str.lid.	KDU-ČSL	1	001	606	42.79	2
 7203	544655	Pozděchov	1	2	166	166	STAROSTOVÉ A NEZÁVISLÍ	STAROSTOVÉ A NEZÁVISLÍ	STAN	1	166	1518	71.46	7
 7203	544671	Prlov	1	1	7	7	Česká strana sociálně demokratická	Česká str.sociálně demokrat.	ČSSD	1	007	412	27.03	1
-7203	544671	Prlov	1	2	470	470	Pro Prlov	Pro Prlov	NA	2	080,166	1366	76.82	6
+7203	544671	Prlov	1	2	470	470	Pro Prlov	Pro Prlov		2	080,166	1366	76.82	6
 7203	544698	Prostřední Bečva	1	1	1	1	Křesťanská a demokratická unie - Československá strana lidová	Křesť.demokr.unie-Čs.str.lid.	KDU-ČSL	1	001	1351	17.56	2
 7203	544698	Prostřední Bečva	1	2	901	90	Šance pro lepší Prostřední Bečvu	Šance pro lepší Prostř. Bečvu	SNK	1	080	3975	51.67	6
 7203	544698	Prostřední Bečva	1	3	903	90	V I Z E    22	V I Z E   22	SNK	1	080	973	12.64	1
 7203	544698	Prostřední Bečva	1	4	902	90	Sdružení nezávislých kandidátů	Sdružení nezávislých kandidátů	SNK	1	080	1393	18.1	2
-7203	544728	Pržno	1	1	389	389	Občanští demokraté a nezávislé osobnosti	Občanští demokraté a nezávislé	NA	2	053,080	623	27.44	2
+7203	544728	Pržno	1	1	389	389	Občanští demokraté a nezávislé osobnosti	Občanští demokraté a nezávislé		2	053,080	623	27.44	2
 7203	544728	Pržno	1	2	166	166	STAROSTOVÉ A NEZÁVISLÍ	STAROSTOVÉ A NEZÁVISLÍ	STAN	1	166	1647	72.55	7
 7203	544787	Ratiboř	1	1	53	53	Občanská demokratická strana	Občanská demokratická strana	ODS	1	053	1981	22.77	3
 7203	544787	Ratiboř	1	2	901	90	Dobrovolní hasiči a občané Ratiboře	Dobrov. hasiči a občané Rat.	SNK	1	080	1288	14.8	1
@@ -228,10 +228,10 @@ OKRES	KODZASTUP	NAZEVZAST	COBVODU	POR_STR_HL	OSTRANA	VSTRANA	NAZEVCELK	ZKRATKAO3
 7203	544841	Rožnov pod Radhoštěm	1	9	720	720	Česká pirátská strana	Česká pirátská strana	Piráti	1	720	6033	5.29	1
 7203	544850	Růžďka	1	1	901	90	Sdružení nezávislých kandidátů - Čas pro změnu	SNK - Čas pro změnu	SNK	1	080	2376	50.95	6
 7203	544850	Růžďka	1	2	902	90	Růžďka pro Dušnou - Dušná pro Růžďku	Růžďka pro Dušnou-Duš.proRůžď	SNK	1	080	662	22.3	1
-7203	544850	Růžďka	1	3	903	90	"Sdružení nezávislých kandidátů Růžďka"""	"SNK Růžďka"""	SNK	1	080	1625	34.84	4
+7203	544850	Růžďka	1	3	903	90	"Sdružení nezávislých kandidátů ""Růžďka"""	"SNK ""Růžďka"""	SNK	1	080	1625	34.84	4
 7203	544906	Seninka	1	1	902	90	Seninka I	Seninka I	SNK	1	080	715	66.14	5
 7203	544906	Seninka	1	2	901	90	HASIČI PRO OBČANY	HASIČI PRO OBČANY	SNK	1	080	366	33.85	2
-7203	544914	Střelná	1	1	470	470	"Za všestranný rozvoj obce"""	"Za všestranný rozvoj obce"""	NA	2	080,166	1387	100	7
+7203	544914	Střelná	1	1	470	470	"""Za všestranný rozvoj obce"""	"""Za všestranný rozvoj obce"""		2	080,166	1387	100	7
 7203	544922	Střítež nad Bečvou	1	1	814	80	Matouš Melichařík	Matouš Melichařík	NK	1	080	194	73.37	1
 7203	544922	Střítež nad Bečvou	1	2	813	80	Vladislav Vaněk	Vladislav Vaněk	NK	1	080	196	74.13	1
 7203	544922	Střítež nad Bečvou	1	3	809	80	Ivo Šrámek	Ivo Šrámek	NK	1	080	131	49.54	0
@@ -258,12 +258,12 @@ OKRES	KODZASTUP	NAZEVZAST	COBVODU	POR_STR_HL	OSTRANA	VSTRANA	NAZEVCELK	ZKRATKAO3
 7203	544931	Študlov	1	3	1	1	Křesťanská a demokratická unie - Československá strana lidová	Křesť.demokr.unie-Čs.str.lid.	KDU-ČSL	1	001	1126	46.03	4
 7203	544949	Valašská Bystřice	1	1	1	1	Křesťanská a demokratická unie - Československá strana lidová	Křesť.demokr.unie-Čs.str.lid.	KDU-ČSL	1	001	5188	35.59	5
 7203	544949	Valašská Bystřice	1	2	901	90	Sdružení nezávislých kandidátů	Sdružení nezávislých kandidátů	SNK	1	080	9386	64.4	10
-7203	544990	Valašská Polanka	1	1	901	90	"Společně pro obec"""	"Společně pro obec"""	SNK	1	080	2165	38.5	4
+7203	544990	Valašská Polanka	1	1	901	90	"""Společně pro obec"""	"""Společně pro obec"""	SNK	1	080	2165	38.5	4
 7203	544990	Valašská Polanka	1	2	902	90	Pro Polanku	Pro Polanku	SNK	1	080	767	20.46	1
 7203	544990	Valašská Polanka	1	3	1	1	Křesťanská a demokratická unie - Československá strana lidová	Křesť.demokr.unie-Čs.str.lid.	KDU-ČSL	1	001	1248	33.29	2
-7203	544990	Valašská Polanka	1	4	470	470	Za živý venkov	Za živý venkov	NA	2	080,166	1443	25.66	2
-7203	545058	Valašské Meziříčí	1	1	470	470	PROVALMEZ	PROVALMEZ	NA	2	080,166	15180	9.05	3
-7203	545058	Valašské Meziříčí	1	2	1101	1101	ODS a Svobodní	ODS a Svobodní	NA	2	053,714	18563	11.07	3
+7203	544990	Valašská Polanka	1	4	470	470	Za živý venkov	Za živý venkov		2	080,166	1443	25.66	2
+7203	545058	Valašské Meziříčí	1	1	470	470	PROVALMEZ	PROVALMEZ		2	080,166	15180	9.05	3
+7203	545058	Valašské Meziříčí	1	2	1101	1101	ODS a Svobodní	ODS a Svobodní		2	053,714	18563	11.07	3
 7203	545058	Valašské Meziříčí	1	3	1390	1390	Nezávislí a Soukromníci	Nezávislí a Soukromníci	NEZ+Soukromníci	2	088,716	9707	5.79	1
 7203	545058	Valašské Meziříčí	1	4	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	8196	4.89	0
 7203	545058	Valašské Meziříčí	1	5	768	768	ANO 2011	ANO 2011	ANO	1	768	59679	35.6	11
@@ -271,7 +271,7 @@ OKRES	KODZASTUP	NAZEVZAST	COBVODU	POR_STR_HL	OSTRANA	VSTRANA	NAZEVCELK	ZKRATKAO3
 7203	545058	Valašské Meziříčí	1	7	7	7	Česká strana sociálně demokratická	Česká str.sociálně demokrat.	ČSSD	1	007	6816	4.06	0
 7203	545058	Valašské Meziříčí	1	8	1114	1114	Svoboda a přímá demokracie - Tomio Okamura (SPD)	Svob.a př.dem.-T.Okamura (SPD)	SPD	1	1114	9254	5.52	1
 7203	545058	Valašské Meziříčí	1	9	720	720	Česká pirátská strana	Česká pirátská strana	Piráti	1	720	5853	5.13	1
-7203	545058	Valašské Meziříčí	1	10	480	480	TOP 09 a nezávislí kandidáti	TOP 09 a nezávislí kandidáti	NA	2	080,721	5885	3.51	0
+7203	545058	Valašské Meziříčí	1	10	480	480	TOP 09 a nezávislí kandidáti	TOP 09 a nezávislí kandidáti		2	080,721	5885	3.51	0
 7203	545112	Valašské Příkazy	1	1	901	90	NEZÁVISLÍ I	NEZÁVISLÍ I	SNK	1	080	687	55.18	5
 7203	545112	Valašské Příkazy	1	2	902	90	Sdružení nezávislých kandidátů II	Sdr. nezávislých kandidátů II	SNK	1	080	558	44.81	4
 7203	545147	Velká Lhota	1	1	813	80	Jiří Chromela	Jiří Chromela	NK	1	080	104	47.12	0
@@ -302,10 +302,10 @@ OKRES	KODZASTUP	NAZEVZAST	COBVODU	POR_STR_HL	OSTRANA	VSTRANA	NAZEVCELK	ZKRATKAO3
 7203	545210	Vigantice	1	2	901	90	Nezávislí kandidáti	Nezávislí kandidáti	SNK	1	080	4204	82.64	8
 7203	545236	Zašová	1	1	720	720	Česká pirátská strana	Česká pirátská strana	Piráti	1	720	224	6.29	0
 7203	545236	Zašová	1	2	902	90	Lepší život pro Zašovou a Veselou	Lep.živ. pro Zašovou a Veselou	SNK	1	080	2173	12.21	2
-7203	545236	Zašová	1	3	470	470	SPOLEČNĚ PRO OBČANY	SPOLEČNĚ PRO OBČANY	NA	2	080,166	3919	22.02	3
+7203	545236	Zašová	1	3	470	470	SPOLEČNĚ PRO OBČANY	SPOLEČNĚ PRO OBČANY		2	080,166	3919	22.02	3
 7203	545236	Zašová	1	4	901	90	NEZÁVISLÍ PRO NAŠI OBEC	NEZÁVISLÍ PRO NAŠI OBEC	SNK	1	080	5139	28.87	4
 7203	545236	Zašová	1	5	1	1	Křesťanská a demokratická unie - Československá strana lidová	Křesť.demokr.unie-Čs.str.lid.	KDU-ČSL	1	001	6341	35.63	6
-7203	545244	Zděchov	1	1	902	90	"Za další rozvoj obce"""	"Za další rozvoj obce"""	SNK	1	080	1814	55.45	6
+7203	545244	Zděchov	1	1	902	90	"""Za další rozvoj obce"""	"""Za další rozvoj obce"""	SNK	1	080	1814	55.45	6
 7203	545244	Zděchov	1	2	901	90	SDH Zděchov	SDH Zděchov	SNK	1	080	631	19.29	2
 7203	545244	Zděchov	1	3	1	1	Křesťanská a demokratická unie - Československá strana lidová	Křesť.demokr.unie-Čs.str.lid.	KDU-ČSL	1	001	826	25.25	3
 7203	545252	Zubří	1	1	901	90	Společně pro Zubří	Společně pro Zubří	SNK	1	080	9066	21.12	5
@@ -317,6 +317,10 @@ OKRES	KODZASTUP	NAZEVZAST	COBVODU	POR_STR_HL	OSTRANA	VSTRANA	NAZEVCELK	ZKRATKAO3
 7203	545252	Zubří	1	7	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	1488	3.46	0
 7203	545252	Zubří	1	8	7	7	Česká strana sociálně demokratická	Česká str.sociálně demokrat.	ČSSD	1	007	9163	21.35	5
 7203	545252	Zubří	1	9	768	768	ANO 2011	ANO 2011	ANO	1	768	4326	10.08	2
+7203	553026	Valašská Senice	1	1	902	90	Sdružení mladých Seničanů	Sdružení mladých Seničanů	SNK	1	080	663	28.39	3
+7203	553026	Valašská Senice	1	2	1	1	Křesťanská a demokratická unie - Československá strana lidová	Křesť.demokr.unie-Čs.str.lid.	KDU-ČSL	1	001	1217	52.11	5
+7203	553026	Valašská Senice	1	3	901	90	STOP Zadlužování Senice	STOP Zadlužování Senice	SNK	1	080	134	10.32	0
+7203	553026	Valašská Senice	1	4	903	90	Volba pro Senici	Volba pro Senici	SNK	1	080	321	13.74	1
 7203	556866	Lhota u Vsetína	1	1	901	90	Lhota u Vsetína - Za práva občanů	Lhota u Vs. - Za práva občanů	SNK	1	080	1108	24.5	3
 7203	556866	Lhota u Vsetína	1	2	902	90	Nezávislí občané	Nezávislí občané	SNK	1	080	263	5.81	0
 7203	556866	Lhota u Vsetína	1	3	903	90	Lhota 2018	Lhota 2018	SNK	1	080	922	20.38	2

@@ -1,4 +1,19 @@
 OKRES	KODZASTUP	NAZEVZAST	COBVODU	POR_STR_HL	OSTRANA	VSTRANA	NAZEVCELK	ZKRATKAO30	ZKRATKAO8	POCSTR_SLO	SLOZENI	HLASY_STR	PROCHLSTR	MAND_STR
+5103	530433	Kunratice	1	1	901	90	HASIČI KUNRATICE	HASIČI KUNRATICE	SNK	1	080	962	65.08	6
+5103	530433	Kunratice	1	2	902	90	TJ Sokol Kunratice	TJ Sokol Kunratice	SNK	1	080	516	34.91	3
+5103	530468	Dlouhý Most	1	1	901	90	Občané pro Dlouhý Most	Občané pro Dlouhý Most	SNK	1	080	1959	64.12	6
+5103	530468	Dlouhý Most	1	2	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	464	17.08	1
+5103	530468	Dlouhý Most	1	3	53	53	Občanská demokratická strana	Občanská demokratická strana	ODS	1	053	632	20.68	2
+5103	530484	Jeřmanice	1	1	807	80	Ing. Radovan Cop	Radovan Cop	NK	1	080	108	80.86	1
+5103	530484	Jeřmanice	1	2	801	80	Pavel Kleiner 1981	Pavel Kleiner 1981	NK	1	080	141	105.57	1
+5103	530484	Jeřmanice	1	3	802	80	Stanislav Brukner	Stanislav Brukner	NK	1	080	59	44.17	0
+5103	530484	Jeřmanice	1	4	808	80	Petra Kříčková	Petra Kříčková	NK	1	080	126	94.34	1
+5103	530484	Jeřmanice	1	5	804	80	Mgr. Helena Fiebigerová	Helena Fiebigerová	NK	1	080	180	134.77	1
+5103	530484	Jeřmanice	1	6	806	80	Karel Munzar	Karel Munzar	NK	1	080	81	60.64	1
+5103	530484	Jeřmanice	1	7	805	80	Eva Kaprálková	Eva Kaprálková	NK	1	080	159	119.05	1
+5103	530484	Jeřmanice	1	8	809	80	Jan Kűhnel	Jan Kűhnel	NK	1	080	113	84.6	1
+5103	530484	Jeřmanice	1	9	803	80	Martin Vojtěch	Martin Vojtěch	NK	1	080	118	88.35	1
+5103	530484	Jeřmanice	1	10	810	80	Ing. Michal Kaprálek	Michal Kaprálek	NK	1	080	117	87.6	1
 5103	544345	Proseč pod Ještědem	1	1	902	90	PRO JAVORNÍK	PRO JAVORNÍK	SNK	1	080	664	46.43	4
 5103	544345	Proseč pod Ještědem	1	2	901	90	PRO PROSEČ	PRO PROSEČ	SNK	1	080	766	53.56	5
 5103	544353	Heřmanice	1	1	901	90	Sbor dobrovolných hasičů Heřmanice	Sbor DH Heřmanice	SNK	1	080	663	100	9
@@ -19,18 +34,192 @@ OKRES	KODZASTUP	NAZEVZAST	COBVODU	POR_STR_HL	OSTRANA	VSTRANA	NAZEVCELK	ZKRATKAO3
 5103	544582	Radimovice	1	9	808	80	Robert MAREK	Robert MAREK	NK	1	080	115	84.47	1
 5103	544604	Žďárek	1	1	901	90	PRO ŽĎÁREK	PRO ŽĎÁREK	SNK	1	080	109	24.53	1
 5103	544604	Žďárek	1	2	902	90	SDH ŽĎÁREK	SDH ŽĎÁREK	SNK	1	080	513	82.47	6
+5103	545937	Lažany	1	1	901	90	Sdružení nezávislých kandidátů Lažany	SNK Lažany	SNK	1	080	628	100	7
+5103	545953	Paceřice	1	1	902	90	Obec pro občany	Obec pro občany	SNK	1	080	328	38.9	3
+5103	545953	Paceřice	1	2	901	90	Občané pro obec	Občané pro obec	SNK	1	080	515	61.09	4
+5103	545996	Černousy	1	1	902	90	Naše obec - náš domov	Naše obec - náš domov	SNK	1	080	280	20.64	2
+5103	545996	Černousy	1	2	901	90	Pro obec Černousy	Pro obec Černousy	SNK	1	080	609	44.91	5
+5103	545996	Černousy	1	3	903	90	Za lepší Černousy	Za lepší Černousy	SNK	1	080	241	17.77	1
+5103	545996	Černousy	1	4	1114	1114	Svoboda a přímá demokracie - Tomio Okamura (SPD)	Svob.a př.dem.-T.Okamura (SPD)	SPD	1	1114	63	4.64	0
+5103	545996	Černousy	1	5	904	90	Dobří lidé z Černous	Dobří lidé z Černous	SNK	1	080	163	12.02	1
+5103	546593	Nová Ves	1	1	901	90	SDRUŽENÍ PRO OBEC	SDRUŽENÍ PRO OBEC	SNK	1	080	2019	74.83	5
+5103	546593	Nová Ves	1	2	768	768	ANO 2011	ANO 2011	ANO	1	768	679	25.16	2
+5103	546607	Dětřichov	1	1	703	703	Starostové pro Liberecký kraj	Starostové pro Liberecký kraj	SLK	1	703	1917	41.09	6
+5103	546607	Dětřichov	1	2	901	90	SDRUŽENÍ ZA ROZVOJ OBCE DĚTŘICHOV	SDR. ZA ROZVOJ OBCE DĚTŘICHOV	SNK	1	080	1714	36.74	6
+5103	546607	Dětřichov	1	3	902	90	NEZÁVISLÍ KANDIDÁTI ZA DĚTŘICHOV	NEZÁVISLÍ KANDID. ZA DĚTŘICHOV	SNK	1	080	1034	22.16	3
+5103	546631	Bílý Potok	1	1	902	90	Sdružení hasičů a občanů obce Bílý Potok	Sdr. has.a obč. ob. Bílý Potok	SNK	1	080	444	16.64	1
+5103	546631	Bílý Potok	1	2	903	90	Pro rozvoj obce Bílý Potok	Pro rozvoj obce Bílý Potok	SNK	1	080	406	15.22	1
+5103	546631	Bílý Potok	1	3	475	475	Za další rozvoj obce	Za další rozvoj obce		2	080,703	753	28.23	3
+5103	546631	Bílý Potok	1	4	801	80	Ondřej Kohut	Ondřej Kohut	NK	1	080	22	7.42	0
+5103	546631	Bílý Potok	1	5	901	90	OTEVŘENO	OTEVŘENO	SNK	1	080	1042	39.07	4
+5103	546658	Janův Důl	1	1	901	90	JANODOLŠTÍ za rozvoj obce	JANODOLŠTÍ za rozvoj obce	SNK	1	080	398	100	7
 5103	556891	Liberec-Vratislavice nad Nisou	1	1	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	1790	4.41	0
 5103	556891	Liberec-Vratislavice nad Nisou	1	2	703	703	Starostové pro Liberecký kraj	Starostové pro Liberecký kraj	SLK	1	703	28427	70.19	12
 5103	556891	Liberec-Vratislavice nad Nisou	1	3	7	7	Česká strana sociálně demokratická	Česká str.sociálně demokrat.	ČSSD	1	007	1430	3.53	0
 5103	556891	Liberec-Vratislavice nad Nisou	1	4	119	119	Unie pro sport a zdraví	Unie pro sport a zdraví	USZ	1	119	2540	6.27	1
 5103	556891	Liberec-Vratislavice nad Nisou	1	5	53	53	Občanská demokratická strana	Občanská demokratická strana	ODS	1	053	2306	5.69	1
-5103	556891	Liberec-Vratislavice nad Nisou	1	6	411	411	Volba pro Vratislavice	Volba pro Vratislavice	NA	2	080,113	4006	9.89	1
+5103	556891	Liberec-Vratislavice nad Nisou	1	6	411	411	Volba pro Vratislavice	Volba pro Vratislavice		2	080,113	4006	9.89	1
 5103	561631	Jablonné v Podještědí	1	1	7	7	Česká strana sociálně demokratická	Česká str.sociálně demokrat.	ČSSD	1	007	642	3.72	0
 5103	561631	Jablonné v Podještědí	1	2	901	90	OS Pardálové	OS Pardálové	SNK	1	080	6124	35.51	7
 5103	561631	Jablonné v Podještědí	1	3	53	53	Občanská demokratická strana	Občanská demokratická strana	ODS	1	053	1609	9.33	1
-5103	561631	Jablonné v Podještědí	1	4	475	475	Starostové pro Liberecký kraj a nezávislí	SLK,NK	NA	2	080,703	2529	14.66	3
+5103	561631	Jablonné v Podještědí	1	4	475	475	Starostové pro Liberecký kraj a nezávislí	SLK,NK		2	080,703	2529	14.66	3
 5103	561631	Jablonné v Podještědí	1	5	724	724	Strana Práv Občanů ZEMANOVCI	Strana Práv Občanů ZEMANOVCI	SPOZ	1	724	85	2.09	0
 5103	561631	Jablonné v Podještědí	1	6	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	1401	9.2	1
 5103	561631	Jablonné v Podještědí	1	7	768	768	ANO 2011	ANO 2011	ANO	1	768	2258	13.09	2
 5103	561631	Jablonné v Podještědí	1	8	785	785	PRO Zdraví a Sport	PRO Zdraví a Sport	PRO Zdraví	1	785	2596	15.05	3
 5103	561657	Janovice v Podještědí	1	1	901	90	Za lepší Janovice	Za lepší Janovice	SNK	1	080	184	100	7
+5103	563889	Liberec	1	1	119	119	Unie pro sport a zdraví	Unie pro sport a zdraví	USZ	1	119	50604	4.25	0
+5103	563889	Liberec	1	2	1114	1114	Svoboda a přímá demokracie - Tomio Okamura (SPD)	Svob.a př.dem.-T.Okamura (SPD)	SPD	1	1114	54539	4.58	0
+5103	563889	Liberec	1	3	703	703	Starostové pro Liberecký kraj	Starostové pro Liberecký kraj	SLK	1	703	381613	32.1	16
+5103	563889	Liberec	1	4	53	53	Občanská demokratická strana	Občanská demokratická strana	ODS	1	053	99621	8.38	4
+5103	563889	Liberec	1	5	768	768	ANO 2011	ANO 2011	ANO	1	768	253959	21.36	11
+5103	563889	Liberec	1	6	1363	1363	Liberec otevřený lidem - LOL!	Liberec otevřený lidem - LOL!	TJ.+NK	2	080,1185	62686	5.27	2
+5103	563889	Liberec	1	7	1362	1362	PRO 2016 s podporou Svobodných	PRO 2016 s podporou Svobodných	Svob+PRO2016+NK	3	080,714,1134	42636	3.68	0
+5103	563889	Liberec	1	8	530	530	Liberec Plus+	Liberec Plus+		2	080,793	18622	1.56	0
+5103	563889	Liberec	1	9	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	35979	3.02	0
+5103	563889	Liberec	1	10	521	521	Změna pro Liberec	Změna pro Liberec	Zelení+Změna+NK	3	005,080,771	157737	13.26	6
+5103	563889	Liberec	1	11	716	716	Strana soukromníků České republiky	Strana soukromníků ČR	Soukromníci	1	716	5491	0.51	0
+5103	563889	Liberec	1	12	7	7	Česká strana sociálně demokratická	Česká str.sociálně demokrat.	ČSSD	1	007	25192	2.11	0
+5103	563901	Bílá	1	1	901	90	Občané Vlčetína	Občané Vlčetína	SNK	1	080	499	11.69	1
+5103	563901	Bílá	1	2	905	90	HASIČI VLČETÍN	HASIČI VLČETÍN	SNK	1	080	347	12.78	1
+5103	563901	Bílá	1	3	902	90	Hasiči Petrašovice	Hasiči Petrašovice	SNK	1	080	1450	33.98	4
+5103	563901	Bílá	1	4	903	90	SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ HRADČANY	SNK HRADČANY	SNK	1	080	653	15.3	1
+5103	563901	Bílá	1	5	904	90	Sdružení nezávislých kandidátů Bílá	SNK Bílá	SNK	1	080	1317	30.87	4
+5103	563919	Bílý Kostel nad Nisou	1	1	901	90	Sdružení občanů Bílého Kostela nad Nisou	Sdružení občanů Bílého Kostela	SNK	1	080	3306	82.36	8
+5103	563919	Bílý Kostel nad Nisou	1	2	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	708	17.63	1
+5103	563935	Bulovka	1	1	901	90	MYSLIVCI BULOVKA	MYSLIVCI BULOVKA	SNK	1	080	506	19.47	2
+5103	563935	Bulovka	1	2	902	90	ZA OBEC KRÁSNĚJŠÍ A ŽIVĚJŠÍ	ZA OBEC KRÁSNĚJŠÍ A ŽIVĚJŠÍ	SNK	1	080	1087	41.83	4
+5103	563935	Bulovka	1	3	903	90	TJ SOKOL BULOVKA	TJ SOKOL BULOVKA	SNK	1	080	1005	38.68	3
+5103	563943	Cetenov	1	1	802	80	KLÁRA NOVÁKOVÁ	KLÁRA NOVÁKOVÁ	NK	1	080	42	81.21	1
+5103	563943	Cetenov	1	2	808	80	Josef Bergman	Josef Bergman	NK	1	080	26	50.27	0
+5103	563943	Cetenov	1	3	806	80	Václav Ulrych	Václav Ulrych	NK	1	080	45	87.01	1
+5103	563943	Cetenov	1	4	803	80	Petr Kováč	Petr Kováč	NK	1	080	28	54.14	0
+5103	563943	Cetenov	1	5	804	80	Helena Kováčová	Helena Kováčová	NK	1	080	34	65.74	1
+5103	563943	Cetenov	1	6	801	80	IVANA NAJMANOVÁ	IVANA NAJMANOVÁ	NK	1	080	48	92.81	1
+5103	563943	Cetenov	1	7	805	80	Romana Řeháčková	Romana Řeháčková	NK	1	080	20	38.67	0
+5103	563943	Cetenov	1	8	807	80	JAROSLAV NEDVĚD	JAROSLAV NEDVĚD	NK	1	080	34	65.74	1
+5103	563943	Cetenov	1	9	809	80	PETRA ŠULCOVÁ	PETRA ŠULCOVÁ	NK	1	080	48	92.81	1
+5103	563943	Cetenov	1	10	810	80	Tereza Vejlupková	Tereza Vejlupková	NK	1	080	37	71.54	1
+5103	563960	Český Dub	1	1	389	389	Občané pro Českodubsko	Občané pro Českodubsko		2	053,080	2924	20.78	3
+5103	563960	Český Dub	1	2	901	90	NEZÁVISLÉ SDRUŽENÍ OBČANŮ	NEZÁVISLÉ SDRUŽENÍ OBČANŮ	SNK	1	080	11146	79.21	12
+5103	563994	Dolní Řasnice	1	1	902	90	HASIČI	HASIČI	SNK	1	080	383	19.1	2
+5103	563994	Dolní Řasnice	1	2	903	90	SPORTOVCI	SPORTOVCI	SNK	1	080	509	25.38	2
+5103	563994	Dolní Řasnice	1	3	904	90	Za lepší Řasnici	Za lepší Řasnici	SNK	1	080	551	27.48	2
+5103	563994	Dolní Řasnice	1	4	901	90	Klub žen	Klub žen	SNK	1	080	369	18.4	2
+5103	563994	Dolní Řasnice	1	5	905	90	Strana mladých	Strana mladých	SNK	1	080	193	9.62	1
+5103	564028	Frýdlant	1	1	548	548	Nezávislí pro Frýdlant	Nezávislí pro Frýdlant	ŘN - VU+NK	2	080,769	2584	5.24	1
+5103	564028	Frýdlant	1	2	1134	1134	Politické hnutí PRO 2016	Politické hnutí PRO 2016	PRO2016	1	1134	2456	4.98	0
+5103	564028	Frýdlant	1	3	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	3417	6.93	2
+5103	564028	Frýdlant	1	4	53	53	Občanská demokratická strana	Občanská demokratická strana	ODS	1	053	12583	25.54	7
+5103	564028	Frýdlant	1	5	7	7	Česká strana sociálně demokratická	Česká str.sociálně demokrat.	ČSSD	1	007	2378	4.82	0
+5103	564028	Frýdlant	1	6	112	112	HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST	HN.ZA HARM.ROZVOJ OBCÍ A MĚST	HNHRM	1	112	5449	11.06	3
+5103	564028	Frýdlant	1	7	550	550	ZA LEPŠÍ FRÝDLANT	ZA LEPŠÍ FRÝDLANT		2	080,780	2288	4.64	0
+5103	564028	Frýdlant	1	8	407	407	SOS pro Frýdlant	SOS pro Frýdlant		2	080,103	5165	10.48	3
+5103	564028	Frýdlant	1	9	401	401	domov můj Frýdlant	domov můj Frýdlant		2	080,088	2116	4.29	0
+5103	564028	Frýdlant	1	10	703	703	Starostové pro Liberecký kraj	Starostové pro Liberecký kraj	SLK	1	703	4732	9.6	3
+5103	564028	Frýdlant	1	11	1114	1114	Svoboda a přímá demokracie - Tomio Okamura (SPD)	Svob.a př.dem.-T.Okamura (SPD)	SPD	1	1114	2370	4.81	0
+5103	564028	Frýdlant	1	12	901	90	Frýdlant sobě	Frýdlant sobě	SNK	1	080	3719	7.55	2
+5103	564036	Habartice	1	1	901	90	NEZÁVISLÍ 1.	NEZÁVISLÍ 1.	SNK	1	080	979	66.82	6
+5103	564036	Habartice	1	2	902	90	NEZÁVISLÍ 2.	NEZÁVISLÍ 2.	SNK	1	080	486	33.17	3
+5103	564044	Hejnice	1	1	901	90	ŽIVÉ HEJNICE	ŽIVÉ HEJNICE	SNK	1	080	2987	19.21	3
+5103	564044	Hejnice	1	2	903	90	Za lepší Hejnice	Za lepší Hejnice	SNK	1	080	7471	48.06	7
+5103	564044	Hejnice	1	3	902	90	SPOLEČNĚ PRO HEJNICE	SPOLEČNĚ PRO HEJNICE	SNK	1	080	5085	32.71	5
+5103	564052	Hlavice	1	1	807	80	DAVID VINCOUR	DAVID VINCOUR	NK	1	080	56	60.14	1
+5103	564052	Hlavice	1	2	805	80	JAROSLAV NAJMAN	JAROSLAV NAJMAN	NK	1	080	96	103.1	1
+5103	564052	Hlavice	1	3	810	80	Jaroslav KRISTEK	Jaroslav KRISTEK	NK	1	080	77	82.69	1
+5103	564052	Hlavice	1	4	806	80	Martin Hozák	Martin Hozák	NK	1	080	82	88.06	1
+5103	564052	Hlavice	1	5	802	80	HANA PELINKOVÁ	HANA PELINKOVÁ	NK	1	080	54	57.99	0
+5103	564052	Hlavice	1	6	811	80	Mgr. JANA ARLTOVÁ	JANA ARLTOVÁ	NK	1	080	102	109.54	1
+5103	564052	Hlavice	1	7	809	80	Bc. Lenka KRISTKOVÁ	Lenka KRISTKOVÁ	NK	1	080	87	93.43	1
+5103	564052	Hlavice	1	8	803	80	Mgr. ŠTĚPÁNKA SICHROVSKÁ	ŠTĚPÁNKA SICHROVSKÁ	NK	1	080	83	89.14	1
+5103	564052	Hlavice	1	9	808	80	Ing. JOSEF PYTLOUN	JOSEF PYTLOUN	NK	1	080	79	84.84	1
+5103	564052	Hlavice	1	10	801	80	Nikola Melicharová	Nikola Melicharová	NK	1	080	50	53.69	0
+5103	564052	Hlavice	1	11	804	80	Ing. Renata Pytlounová	Renata Pytlounová	NK	1	080	72	77.32	1
+5103	564061	Hodkovice nad Mohelkou	1	1	119	119	Unie pro sport a zdraví	Unie pro sport a zdraví	USZ	1	119	1148	6.59	1
+5103	564061	Hodkovice nad Mohelkou	1	2	768	768	ANO 2011	ANO 2011	ANO	1	768	2630	15.1	2
+5103	564061	Hodkovice nad Mohelkou	1	3	901	90	BUDOUCNOST PRO HODKOVICE	BUDOUCNOST PRO HODKOVICE	SNK	1	080	9033	51.88	8
+5103	564061	Hodkovice nad Mohelkou	1	4	129	129	SNK Evropští demokraté	SNK Evropští demokraté	SNK ED	1	129	4599	26.41	4
+5103	564079	Horní Řasnice	1	1	901	90	Sdružení pro spokojenou Řasnici	Sdružení pro spok. Řasnici	SNK	1	080	546	100	7
+5103	564095	Hrádek nad Nisou	1	1	901	90	Hrádek potřebuje změny!	Hrádek potřebuje změny!	SNK	1	080	47777	82.73	21
+5103	564095	Hrádek nad Nisou	1	2	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	4771	9.38	2
+5103	564095	Hrádek nad Nisou	1	3	768	768	ANO 2011	ANO 2011	ANO	1	768	5201	16.08	2
+5103	564109	Chotyně	1	1	901	90	CHOTYNĚ-OBEC, KDE SE HEZKY ŽIJE	CHOTYNĚ-OBEC,KDE SE HEZKY ŽIJE	SNK	1	080	2928	100	15
+5103	564117	Chrastava	1	1	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	2498	7.25	1
+5103	564117	Chrastava	1	2	703	703	Starostové pro Liberecký kraj	Starostové pro Liberecký kraj	SLK	1	703	20498	59.49	13
+5103	564117	Chrastava	1	3	53	53	Občanská demokratická strana	Občanská demokratická strana	ODS	1	053	2714	9.97	1
+5103	564117	Chrastava	1	4	7	7	Česká strana sociálně demokratická	Česká str.sociálně demokrat.	ČSSD	1	007	2262	6.56	1
+5103	564117	Chrastava	1	5	768	768	ANO 2011	ANO 2011	ANO	1	768	5077	14.73	3
+5103	564117	Chrastava	1	6	1114	1114	Svoboda a přímá demokracie - Tomio Okamura (SPD)	Svob.a př.dem.-T.Okamura (SPD)	SPD	1	1114	1402	4.06	0
+5103	564133	Jindřichovice pod Smrkem	1	1	902	90	Společně pro Jindřichovice	Společně pro Jindřichovice	SNK	1	080	709	29.22	2
+5103	564133	Jindřichovice pod Smrkem	1	2	901	90	JINDŘICHOVICKÝ PATRIOT	JINDŘICHOVICKÝ PATRIOT	SNK	1	080	1425	58.73	6
+5103	564133	Jindřichovice pod Smrkem	1	3	703	703	Starostové pro Liberecký kraj	Starostové pro Liberecký kraj	SLK	1	703	292	12.03	1
+5103	564141	Kobyly	1	1	901	90	SOKOL KOBYLY	SOKOL KOBYLY	SNK	1	080	574	48.43	3
+5103	564141	Kobyly	1	2	903	90	SH ČMS - Sbor dobrovolných hasičů Kobyly	SH ČMS - SDH Kobyly	SNK	1	080	310	26.16	2
+5103	564141	Kobyly	1	3	902	90	SDH Havlovice	SDH Havlovice	SNK	1	080	301	25.4	2
+5103	564168	Krásný Les	1	1	901	90	PRO NAŠI OBEC	PRO NAŠI OBEC	SNK	1	080	1276	75.68	7
+5103	564168	Krásný Les	1	2	902	90	ZA OBEC	ZA OBEC	SNK	1	080	410	24.31	2
+5103	564176	Kryštofovo Údolí	1	1	901	90	"""Kryštof"""	"""Kryštof"""	SNK	1	080	1209	69.48	6
+5103	564176	Kryštofovo Údolí	1	2	902	90	"""ZMĚNA-103"""	"""ZMĚNA-103"""	SNK	1	080	531	30.51	3
+5103	564184	Křižany	1	1	901	90	ŽIBŘIDICE 2018	ŽIBŘIDICE 2018	SNK	1	080	989	42.1	4
+5103	564184	Křižany	1	2	902	90	PRO NAŠÍ OBEC	PRO NAŠÍ OBEC	SNK	1	080	2534	71.92	11
+5103	564206	Lázně Libverda	1	1	901	90	Sdružení PRO Libverdu	Sdružení PRO Libverdu	SNK	1	080	947	100	9
+5103	564231	Mníšek	1	1	901	90	Sdružení nezávislých kandidátů 1	Sdružení NK 1	SNK	1	080	2458	100	9
+5103	564265	Nové Město pod Smrkem	1	1	543	543	Nové Město Nově	Nové Město Nově		2	080,795	687	3.81	0
+5103	564265	Nové Město pod Smrkem	1	2	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	2334	12.94	2
+5103	564265	Nové Město pod Smrkem	1	3	389	389	Občané pro Nové Město pod Smrkem, Ludvíkov, Hajniště a Přebytek	Občané pro Nové Město		2	053,080	4850	26.9	5
+5103	564265	Nové Město pod Smrkem	1	4	768	768	ANO 2011	ANO 2011	ANO	1	768	1985	11.01	2
+5103	564265	Nové Město pod Smrkem	1	5	475	475	SLK pro naše město	SLK pro naše město		2	080,703	3873	21.48	4
+5103	564265	Nové Město pod Smrkem	1	6	470	470	STAN PRO NOVOMĚSTSKO	STAN PRO NOVOMĚSTSKO		2	080,166	1742	9.66	2
+5103	564265	Nové Město pod Smrkem	1	7	550	550	NOVÁ BUDOUCNOST pro Nové Město pod Smrkem a okolí	NOVÁ BUDOUCNOST pro Nové Město		2	080,780	2553	14.16	2
+5103	564281	Oldřichov v Hájích	1	1	902	90	Obecní úřad pro občany	Obecní úřad pro občany	SNK	1	080	1401	52.72	4
+5103	564281	Oldřichov v Hájích	1	2	903	90	Nezávislí 2014	Nezávislí 2014	SNK	1	080	855	32.17	2
+5103	564281	Oldřichov v Hájích	1	3	901	90	Společně pro Oldřichov	Společně pro Oldřichov	SNK	1	080	401	15.09	1
+5103	564290	Osečná	1	1	901	90	SDRUŽENÍ PRO OSEČNOU	SDRUŽENÍ PRO OSEČNOU	SNK	1	080	1474	33.5	4
+5103	564290	Osečná	1	2	7	7	Česká strana sociálně demokratická	Česká str.sociálně demokrat.	ČSSD	1	007	2925	66.49	7
+5103	564303	Pěnčín	1	1	809	80	Anna Laššová	Anna Laššová	NK	1	080	183	85.55	1
+5103	564303	Pěnčín	1	2	810	80	Ing. Jaroslav Šáral	Jaroslav Šáral	NK	1	080	182	85.09	1
+5103	564303	Pěnčín	1	3	803	80	Marcela Beranová	Marcela Beranová	NK	1	080	168	78.54	1
+5103	564303	Pěnčín	1	4	808	80	Eva Trosbergová	Eva Trosbergová	NK	1	080	201	93.97	1
+5103	564303	Pěnčín	1	5	807	80	Ing. Karel Bičík	Karel Bičík	NK	1	080	244	114.07	1
+5103	564303	Pěnčín	1	6	804	80	Jiří Plíva	Jiří Plíva	NK	1	080	197	92.1	1
+5103	564303	Pěnčín	1	7	802	80	Marcela Bradáčová	Marcela Bradáčová	NK	1	080	205	95.84	1
+5103	564303	Pěnčín	1	8	801	80	Miroslav Laurin	Miroslav Laurin	NK	1	080	137	64.05	0
+5103	564303	Pěnčín	1	9	806	80	Ing. Pavel Král	Pavel Král	NK	1	080	231	108	1
+5103	564303	Pěnčín	1	10	805	80	Jindřich Fanta	Jindřich Fanta	NK	1	080	177	82.75	1
+5103	564311	Pertoltice	1	1	901	90	Sdružení nezávislých kandidátů	Sdružení nezávislých kandidátů	SNK	1	080	529	100	9
+5103	564354	Příšovice	1	1	901	90	Sbor dobrovolných hasičů Příšovice	SDH Příšovice	SNK	1	080	3850	58.18	9
+5103	564354	Příšovice	1	2	902	90	Nezávislí-Rozumná cesta	Nezávislí-Rozumná cesta	SNK	1	080	2767	41.81	6
+5103	564371	Raspenava	1	1	387	387	Komunistická strana Čech a Moravy a nezávislí kandidáti	KSČM a NK		2	047,080	1629	14.4	2
+5103	564371	Raspenava	1	2	901	90	Za obnovu obce	Za obnovu obce	SNK	1	080	4990	44.13	7
+5103	564371	Raspenava	1	3	903	90	SDRUŽENÍ OBČANŮ RASPENAVY	SDRUŽENÍ OBČANŮ RASPENAVY	SNK	1	080	1908	16.87	2
+5103	564371	Raspenava	1	4	902	90	Pro rozvoj města	Pro rozvoj města	SNK	1	080	2780	24.58	4
+5103	564397	Rynoltice	1	1	901	90	Nezávislí - Jítravští Za Demokracii (N-JZD)	N-JZD	SNK	1	080	1624	36.5	5
+5103	564397	Rynoltice	1	2	902	90	PRO RYNOLTICE	PRO RYNOLTICE	SNK	1	080	2825	63.49	10
+5103	564401	Soběslavice	1	1	901	90	Sdružení nezávislých kandidátů obce Soběslavice	SNK obce Soběslavice	SNK	1	080	287	90.74	6
+5103	564401	Soběslavice	1	2	902	90	Sbor dobrovolných hasičů Soběslavice	SDH Soběslavice	SNK	1	080	82	51.85	1
+5103	564427	Světlá pod Ještědem	1	1	801	80	DAVID LANK	DAVID LANK	NK	1	080	60	11.6	0
+5103	564427	Světlá pod Ještědem	1	2	901	90	Za krásné Podještědí	Za krásné Podještědí	SNK	1	080	2443	67.52	5
+5103	564427	Světlá pod Ještědem	1	3	902	90	Horácké hnutí	Horácké hnutí	SNK	1	080	1115	30.81	2
+5103	564435	Svijanský Újezd	1	1	904	90	Český zahrádkářský svaz	Český zahrádkářský svaz	SNK	1	080	287	20.04	1
+5103	564435	Svijanský Újezd	1	2	902	90	SDRUŽENÍ PŘÁTEL VESNICE	SDRUŽENÍ PŘÁTEL VESNICE	SNK	1	080	270	18.85	1
+5103	564435	Svijanský Újezd	1	3	901	90	Sbor dobrovolných hasičů	Sbor dobrovolných hasičů	SNK	1	080	641	44.76	4
+5103	564435	Svijanský Újezd	1	4	903	90	PRO ÚJEZD	PRO ÚJEZD	SNK	1	080	234	16.34	1
+5103	564443	Svijany	1	1	902	90	Zelená alternativa	Zelená alternativa	SNK	1	080	215	13.03	1
+5103	564443	Svijany	1	2	903	90	PRO Svijany	PRO Svijany	SNK	1	080	273	16.55	1
+5103	564443	Svijany	1	3	901	90	Jednotné Svijany	Jednotné Svijany	SNK	1	080	1161	70.4	7
+5103	564451	Sychrov	1	1	901	90	Sdružení nezávíslých kandidátů Sychrov	SNK Sychrov	SNK	1	080	624	97.5	7
+5103	564451	Sychrov	1	2	7	7	Česká strana sociálně demokratická	Česká str.sociálně demokrat.	ČSSD	1	007	16	2.5	0
+5103	564460	Šimonovice	1	1	901	90	ŠIMONOVICE 2018	ŠIMONOVICE 2018	SNK	1	080	1203	25.6	2
+5103	564460	Šimonovice	1	2	475	475	Sdružení kandidátů pro rozvoj Šimonovic s podporou Starostů pro Liberecký kraj	Sdr. kand. pro rozv. Šimonovic		2	080,703	3496	74.39	7
+5103	564494	Višňová	1	1	905	90	HASIČI	HASIČI	SNK	1	080	1298	14.72	2
+5103	564494	Višňová	1	2	904	90	DEVÍTKA	DEVÍTKA	SNK	1	080	1595	18.1	3
+5103	564494	Višňová	1	3	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	1049	11.9	2
+5103	564494	Višňová	1	4	901	90	Pro sport a kulturu	Pro sport a kulturu	SNK	1	080	1301	14.76	2
+5103	564494	Višňová	1	5	902	90	SPOLEČNĚ a NAROVINU	SPOLEČNĚ a NAROVINU	SNK	1	080	1083	12.29	2
+5103	564494	Višňová	1	6	903	90	PRO NAŠI OBEC	PRO NAŠI OBEC	SNK	1	080	2486	28.21	4
+5103	564516	Vlastibořice	1	1	902	90	Sdružení nezávislých kandidátů VLASTIBOŘICKO	SNK VLASTIBOŘICKO	SNK	1	080	814	59.37	4
+5103	564516	Vlastibořice	1	2	901	90	ZA VLASTIBOŘICKO KRÁSNĚJŠÍ	ZA VLASTIBOŘICKO KRÁSNĚJŠÍ	SNK	1	080	557	40.62	3
+5103	564532	Všelibice	1	1	902	90	PRO OBEC VŠELIBICE	PRO OBEC VŠELIBICE	SNK	1	080	696	15.06	2
+5103	564532	Všelibice	1	2	903	90	NEZÁVISLÍ ZA VŠELIBICE	NEZÁVISLÍ ZA VŠELIBICE	SNK	1	080	714	15.45	2
+5103	564532	Všelibice	1	3	901	90	SDH VŠELIBICE	SDH VŠELIBICE	SNK	1	080	3210	69.48	11
+5103	564541	Zdislava	1	1	901	90	VIZE 2018	VIZE 2018	SNK	1	080	470	100	7

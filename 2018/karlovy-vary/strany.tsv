@@ -1,18 +1,203 @@
 OKRES	KODZASTUP	NAZEVZAST	COBVODU	POR_STR_HL	OSTRANA	VSTRANA	NAZEVCELK	ZKRATKAO30	ZKRATKAO8	POCSTR_SLO	SLOZENI	HLASY_STR	PROCHLSTR	MAND_STR
-4102	500101	Bražec	1	1	470	470	BRAŽEČÁCI	BRAŽEČÁCI	NA	2	080,166	131	16.92	1
+4102	500101	Bražec	1	1	470	470	BRAŽEČÁCI	BRAŽEČÁCI		2	080,166	131	16.92	1
 4102	500101	Bražec	1	2	903	90	MODERNÍ BRAŽEC	MODERNÍ BRAŽEC	SNK	1	080	298	38.5	3
 4102	500101	Bražec	1	3	902	90	PRO OBEC	PRO OBEC	SNK	1	080	245	31.65	2
 4102	500101	Bražec	1	4	901	90	Nezávislí kandidáti	Nezávislí kandidáti	SNK	1	080	100	12.91	1
 4102	500127	Doupovské Hradiště	1	1	902	90	Sdružení nezávislých kandidátů I.	Sdružení nezávis. kandidátů I.	SNK	1	080	99	14.49	1
 4102	500127	Doupovské Hradiště	1	2	903	90	Doupovské Hradiště	Doupovské Hradiště	SNK	1	080	465	68.08	5
-4102	500127	Doupovské Hradiště	1	3	901	90	"SNK - Občané za rozumný rozvoj obce"""	"SNK-Obč.za rozum.rozvoj ob."""	SNK	1	080	119	17.42	1
+4102	500127	Doupovské Hradiště	1	3	901	90	"SNK - ""Občané za rozumný rozvoj obce"""	"SNK-""Obč.za rozum.rozvoj ob."""	SNK	1	080	119	17.42	1
 4102	506486	Boží Dar	1	1	801	80	Ing. Pavlína Nováková	Ing. Pavlína Nováková	NK	1	080	26	34.86	0
 4102	506486	Boží Dar	1	2	166	166	STAROSTOVÉ A NEZÁVISLÍ	STAROSTOVÉ A NEZÁVISLÍ	STAN	1	166	496	95.01	7
 4102	506494	Nové Hamry	1	1	901	90	Sdružení nezávislých kandidátů	Sdružení nezávislých kandidátů	SNK	1	080	1114	71	7
 4102	506494	Nové Hamry	1	2	902	90	Nové Hamry nově	Nové Hamry nově	SNK	1	080	455	28.99	2
 4102	506621	Čichalov	1	1	901	90	NEZÁVISLÍ	NEZÁVISLÍ	SNK	1	080	419	63	5
 4102	506621	Čichalov	1	2	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	246	36.99	2
+4102	537845	Teplička	1	1	901	90	VOLBA PRO TEPLIČKU	VOLBA PRO TEPLIČKU	SNK	1	080	118	34	2
+4102	537845	Teplička	1	2	902	90	Za krásnější domov	Za krásnější domov	SNK	1	080	229	65.99	3
+4102	537870	Březová	1	1	470	470	KANDIDÁTI PRO ROZVOJ OBCE BŘEZOVÁ	KAND. PRO ROZVOJ OBCE BŘEZOVÁ		2	080,166	1171	97.33	7
+4102	537870	Březová	1	2	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	32	18.62	0
+4102	537918	Dalovice	1	1	53	53	Občanská demokratická strana	Občanská demokratická strana	ODS	1	053	366	7.39	0
+4102	537918	Dalovice	1	2	112	112	HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST	HN.ZA HARM.ROZVOJ OBCÍ A MĚST	HNHRM	1	112	1685	34.03	3
+4102	537918	Dalovice	1	3	166	166	STAROSTOVÉ A NEZÁVISLÍ	STAROSTOVÉ A NEZÁVISLÍ	STAN	1	166	1526	30.82	2
+4102	537918	Dalovice	1	4	1129	1129	Sdružení nezávislých kandidátů 1	Sdružení nezávis. kandidátů 1	SNK1	1	1129	842	17	1
+4102	537918	Dalovice	1	5	1118	1118	VOK - Volba pro Karlovarský kraj	VOK-Volba pro Karlovarský kraj	VOK	1	1118	532	10.74	1
+4102	537926	Jenišov	1	1	901	90	"Sdružení nezávislých kandidátů ""Jenišov"""	"SNK ""Jenišov"""	SNK	1	080	1371	100	9
+4102	537934	Mírová	1	1	901	90	OBČANÉ PRO MÍROVOU	OBČANÉ PRO MÍROVOU	SNK	1	080	494	40.86	3
+4102	537934	Mírová	1	2	470	470	SDRUŽENÍ ZA PERSPEKTIVNÍ MÍROVOU	SDRUŽ. ZA PERSPEKTIVNÍ MÍROVOU		2	080,166	715	59.13	4
+4102	537969	Otovice	1	1	1314	1314	Sdružení nezávislých kandidátů za Otovice	Sdruž.nezáv.kand. za Otovice	SNK1+NK	2	080,1129	1922	100	7
+4102	538001	Andělská Hora	1	1	901	90	"""Společně pro Andělku"""	"""Společně pro Andělku"""	SNK	1	080	753	100	7
+4102	538019	Černava	1	1	901	90	Sdružení nezávislých kandidátů Černava - Rájec	Sdruž.nez.kan. Černava - Rájec	SNK	1	080	681	100	7
+4102	538027	Smolné Pece	1	1	901	90	Sdružení nezávislých kandidátů č. I.	Sdruž. nezávisl. kand. č. I.	SNK	1	080	376	100	7
+4102	538116	Děpoltovice	1	1	901	90	Sdružení nezávislých kandidátů obce Děpoltovice	Sdruž.nez.kand. o. Děpoltovice	SNK	1	080	819	59.13	5
+4102	538116	Děpoltovice	1	2	903	90	SDRUŽENÍ KANDIDÁTŮ II	SDRUŽENÍ KANDIDÁTŮ II	SNK	1	080	247	17.83	1
+4102	538116	Děpoltovice	1	3	902	90	SDRUŽENÍ KANDIDÁTŮ I.	SDRUŽENÍ KANDIDÁTŮ I.	SNK	1	080	319	23.03	1
+4102	538159	Hájek	1	1	1118	1118	VOK - Volba pro Karlovarský kraj	VOK-Volba pro Karlovarský kraj	VOK	1	1118	411	16.82	1
+4102	538159	Hájek	1	2	1129	1129	Sdružení nezávislých kandidátů 1	Sdružení nezávis. kandidátů 1	SNK1	1	1129	2032	83.17	6
+4102	551651	Hory	1	1	902	90	Klidné Hory	Klidné Hory	SNK	1	080	544	54.45	4
+4102	551651	Hory	1	2	901	90	HORY 2018	HORY 2018	SNK	1	080	455	45.54	3
+4102	554961	Karlovy Vary	1	1	743	743	Hnutí O co jim jde?!	Hnutí O co jim jde?!	OCJJ	1	743	17378	3.8	0
+4102	554961	Karlovy Vary	1	2	512	512	ZMĚNA PRO KARLOVY VARY ZA PODPORY OBČANSKÉ KONZERVATIVNÍ STRANY	ZMĚNA PRO K.V. ZA PODPORY OKS		2	080,1006	6394	1.44	0
+4102	554961	Karlovy Vary	1	3	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	23120	5.06	2
+4102	554961	Karlovy Vary	1	4	1399	1399	KRÁSNÉ KARLOVY VARY	KRÁSNÉ KARLOVY VARY	ODA+NK	2	080,1173	10723	2.34	0
+4102	554961	Karlovy Vary	1	5	7	7	Česká strana sociálně demokratická	Česká str.sociálně demokrat.	ČSSD	1	007	13033	2.85	0
+4102	554961	Karlovy Vary	1	6	1114	1114	Svoboda a přímá demokracie - Tomio Okamura (SPD)	Svob.a př.dem.-T.Okamura (SPD)	SPD	1	1114	22485	4.92	0
+4102	554961	Karlovy Vary	1	7	785	785	PRO Zdraví a Sport	PRO Zdraví a Sport	PRO Zdraví	1	785	9473	2.07	0
+4102	554961	Karlovy Vary	1	8	720	720	Česká pirátská strana	Česká pirátská strana	Piráti	1	720	45500	9.97	5
+4102	554961	Karlovy Vary	1	9	1028	1028	Karlovaráci	Karlovaráci	KVC	1	1028	71318	15.62	8
+4102	554961	Karlovy Vary	1	10	1338	1338	ZVOLITELNÍ - koalice KDU-ČSL + Strana svobodných občanů + Strana zelených + Unie pro sport a zdraví	ZVOLITELNÍ - koalice	KDU+Zel+USZ+Svo	4	001,005,119,714	10259	2.24	0
+4102	554961	Karlovy Vary	1	11	1205	1205	KOLONÁDA - HNUTÍ PATRIOTŮ	KOLONÁDA - HNUTÍ PATRIOTŮ	KOLONÁDA	1	1205	14217	3.11	0
+4102	554961	Karlovy Vary	1	12	182	182	Karlovarská občanská alternativa	Karlovar.občanská alternativa	KOA	1	182	51870	11.36	5
+4102	554961	Karlovy Vary	1	13	659	659	STAN a TOP 09	STAN a TOP 09	TOP+STAN	2	166,721	16294	3.57	0
+4102	554961	Karlovy Vary	1	14	389	389	Občanská demokratická strana s podporou Strany soukromníků ČR a Mladých konzervativců	ODS s podp. Str. s. ČR a MK		2	053,080	35401	7.75	3
+4102	554961	Karlovy Vary	1	15	768	768	ANO 2011	ANO 2011	ANO	1	768	108878	23.85	12
+4102	554979	Abertamy	1	1	1118	1118	VOK - Volba pro Karlovarský kraj	VOK-Volba pro Karlovarský kraj	VOK	1	1118	1199	45.76	4
+4102	554979	Abertamy	1	2	53	53	Občanská demokratická strana	Občanská demokratická strana	ODS	1	053	1098	41.9	4
+4102	554979	Abertamy	1	3	1129	1129	Sdružení nezávislých kandidátů 1	Sdružení nezávis. kandidátů 1	SNK1	1	1129	323	18.49	1
+4102	554995	Bečov nad Teplou	1	1	355	355	Volba pro Bečov	Volba pro Bečov		2	001,080	1103	32.81	3
+4102	554995	Bečov nad Teplou	1	2	901	90	Sdružení nezávislých kandidátů pro Bečov nad Teplou, Vodnou, Krásný Jez	SNK pro B.nad T., V., K. Jez	SNK	1	080	1525	45.37	4
+4102	554995	Bečov nad Teplou	1	3	112	112	HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST	HN.ZA HARM.ROZVOJ OBCÍ A MĚST	HNHRM	1	112	733	21.8	2
+4102	555029	Bochov	1	1	112	112	HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST	HN.ZA HARM.ROZVOJ OBCÍ A MĚST	HNHRM	1	112	5837	69.76	12
+4102	555029	Bochov	1	2	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	863	10.31	1
+4102	555029	Bochov	1	3	901	90	Zahrádkáři pro Bochov	Zahrádkáři pro Bochov	SNK	1	080	898	10.73	1
+4102	555029	Bochov	1	4	53	53	Občanská demokratická strana	Občanská demokratická strana	ODS	1	053	769	9.19	1
+4102	555045	Božičany	1	1	901	90	Nezávislí	Nezávislí	SNK	1	080	856	100	7
+4102	555169	Horní Blatná	1	1	901	90	Za společné soužití občanů	Za společné soužití občanů	SNK	1	080	583	100	7
+4102	555185	Hroznětín	1	1	902	90	SNK - NÁŠ HROZNĚTÍN	SNK - NÁŠ HROZNĚTÍN	SNK	1	080	1729	17.78	3
+4102	555185	Hroznětín	1	2	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	516	6.12	0
+4102	555185	Hroznětín	1	3	1	1	Křesťanská a demokratická unie - Československá strana lidová	Křesť.demokr.unie-Čs.str.lid.	KDU-ČSL	1	001	57	8.79	0
+4102	555185	Hroznětín	1	4	901	90	Sdružení nezávislých kandidátů I.	Sdružení nezávisl. kandidátů I	SNK	1	080	7422	76.32	12
+4102	555207	Chyše	1	1	901	90	Sdružení nezávislých kandidátů - pro město Chyše a jeho okolí	SNK-pro m. Chyše a jeho okolí	SNK	1	080	1115	100	9
+4102	555215	Jáchymov	1	1	480	480	Volba pro Jáchymov	Volba pro Jáchymov		2	080,721	3091	29.33	5
+4102	555215	Jáchymov	1	2	524	524	PATRIOTI	PATRIOTI		2	080,1004	2844	26.99	4
+4102	555215	Jáchymov	1	3	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	483	5.28	0
+4102	555215	Jáchymov	1	4	901	90	JÁCHYMOV V OBRAZECH	JÁCHYMOV V OBRAZECH	SNK	1	080	1852	17.57	3
+4102	555215	Jáchymov	1	5	541	541	Náš Jáchymov	Náš Jáchymov		2	080,720	2267	21.51	3
+4102	555258	Kolová	1	1	902	90	Pro obec	Pro obec	SNK	1	080	2009	61.36	6
+4102	555258	Kolová	1	2	901	90	Sdružení KOLOVÁ-HÁJE	Sdružení KOLOVÁ-HÁJE	SNK	1	080	1265	38.63	3
+4102	555304	Krásné Údolí	1	1	803	80	Ing. Martin FRANK	Ing. Martin FRANK	NK	1	080	164	116.58	1
+4102	555304	Krásné Údolí	1	2	805	80	Marie LAKOMÁ	Marie LAKOMÁ	NK	1	080	117	83.17	1
+4102	555304	Krásné Údolí	1	3	806	80	Mgr. Ondřej PETRŽELKA	Mgr. Ondřej PETRŽELKA	NK	1	080	91	64.69	0
+4102	555304	Krásné Údolí	1	4	808	80	Horst SCHLEICHER	Horst SCHLEICHER	NK	1	080	153	108.76	1
+4102	555304	Krásné Údolí	1	5	804	80	Vladimír JEŽEK	Vladimír JEŽEK	NK	1	080	117	83.17	1
+4102	555304	Krásné Údolí	1	6	802	80	Zdeněk DVOŘÁK	Zdeněk DVOŘÁK	NK	1	080	152	108.05	1
+4102	555304	Krásné Údolí	1	7	809	80	Jaroslav SLABÝ	Jaroslav SLABÝ	NK	1	080	99	70.37	1
+4102	555304	Krásné Údolí	1	8	801	80	Hana DRBALOVÁ	Hana DRBALOVÁ	NK	1	080	117	83.17	1
+4102	555304	Krásné Údolí	1	9	807	80	Mgr. Romana PRÁŠILOVÁ	Mgr. Romana PRÁŠILOVÁ	NK	1	080	129	91.7	1
+4102	555304	Krásné Údolí	1	10	810	80	Miloslava VYTISKOVÁ	Miloslava VYTISKOVÁ	NK	1	080	127	90.28	1
+4102	555347	Kyselka	1	1	1129	1129	Sdružení nezávislých kandidátů 1	Sdružení nezávis. kandidátů 1	SNK1	1	1129	2259	75.4	7
+4102	555347	Kyselka	1	2	901	90	PRO KYSELKU I.	PRO KYSELKU I.	SNK	1	080	434	14.48	1
+4102	555347	Kyselka	1	3	902	90	PRO KYSELKU II.	PRO KYSELKU II.	SNK	1	080	303	10.11	1
+4102	555363	Merklín	1	1	905	90	Mladí hasiči s podporou za návrat k tradicím	Ml. hasiči s podp.za návr.k t	SNK	1	080	392	10.58	1
+4102	555363	Merklín	1	2	1	1	Křesťanská a demokratická unie - Československá strana lidová	Křesť.demokr.unie-Čs.str.lid.	KDU-ČSL	1	001	192	5.18	0
+4102	555363	Merklín	1	3	903	90	ZOOM - ZÁZEMÍ OBČANŮ OBCE MERKLÍN	ZOOM - ZÁZEMÍ OBČ.OBCE MERKLÍN	SNK	1	080	489	13.2	1
+4102	555363	Merklín	1	4	902	90	"SNK - ""PRO MERKLÍN"""	"SNK - ""PRO MERKLÍN"""	SNK	1	080	526	14.2	1
+4102	555363	Merklín	1	5	901	90	SDRUŽENÍ PRO ROZVOJ MERKLÍNA	SDRUŽENÍ PRO ROZVOJ MERKLÍNA	SNK	1	080	1410	38.07	4
+4102	555363	Merklín	1	6	904	90	SNK - Merklín pro život	SNK - Merklín pro život	SNK	1	080	694	18.74	2
+4102	555380	Nejdek	1	1	5	5	Strana zelených	Strana zelených	Zelení	1	005	2520	8.98	1
+4102	555380	Nejdek	1	2	7	7	Česká strana sociálně demokratická	Česká str.sociálně demokrat.	ČSSD	1	007	1563	5.57	1
+4102	555380	Nejdek	1	3	714	714	Strana svobodných občanů	Strana svobodných občanů	Svobodní	1	714	2933	10.45	2
+4102	555380	Nejdek	1	4	716	716	Strana soukromníků České republiky	Strana soukromníků ČR	Soukromníci	1	716	1984	7.07	1
+4102	555380	Nejdek	1	5	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	1178	4.19	0
+4102	555380	Nejdek	1	6	768	768	ANO 2011	ANO 2011	ANO	1	768	7056	25.15	4
+4102	555380	Nejdek	1	7	112	112	HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST	HN.ZA HARM.ROZVOJ OBCÍ A MĚST	HNHRM	1	112	6640	23.66	4
+4102	555380	Nejdek	1	8	483	483	PRO NEJDEK	PRO NEJDEK	SPOZ+NK	2	080,724	1798	6.4	1
+4102	555380	Nejdek	1	9	600	600	Město občanům, ne fabrikám, s podporou Dělnické strany sociální spravedlnosti	Město občanů s podporou DSSS	DSSS+NF	2	156,761	848	3.02	0
+4102	555380	Nejdek	1	10	53	53	Občanská demokratická strana	Občanská demokratická strana	ODS	1	053	1533	5.46	1
+4102	555398	Nová Role	1	1	112	112	HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST	HN.ZA HARM.ROZVOJ OBCÍ A MĚST	HNHRM	1	112	2648	11.36	2
+4102	555398	Nová Role	1	2	7	7	Česká strana sociálně demokratická	Česká str.sociálně demokrat.	ČSSD	1	007	1491	6.39	1
+4102	555398	Nová Role	1	3	470	470	VOLBA PRO NOVOU ROLI, MEZIROLÍ, JIMLÍKOV - ZA OBCE KRÁSNĚJŠÍ	VOLBA PRO N.R.,M.,J.-ZA O. KR.		2	080,166	7693	33.01	6
+4102	555398	Nová Role	1	4	389	389	ODS a nezávislí Nová Role	ODS a nezávislí Nová Role		2	053,080	3860	16.56	3
+4102	555398	Nová Role	1	5	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	860	3.69	0
+4102	555398	Nová Role	1	6	768	768	ANO 2011	ANO 2011	ANO	1	768	3519	15.1	2
+4102	555398	Nová Role	1	7	902	90	Sdružení nezávislých kandidátů Nová Role - Mezirolí	SNK Nová Role - Mezirolí	SNK	1	080	2166	9.29	1
+4102	555398	Nová Role	1	8	901	90	Sdružení nezávislých kandidátů Naše Mezirolí	SNK Naše Mezirolí	SNK	1	080	1064	4.56	0
+4102	555428	Ostrov	1	1	1118	1118	VOK - Volba pro Karlovarský kraj	VOK-Volba pro Karlovarský kraj	VOK	1	1118	1865	1.9	0
+4102	555428	Ostrov	1	2	768	768	ANO 2011	ANO 2011	ANO	1	768	15548	15.92	4
+4102	555428	Ostrov	1	3	1114	1114	Svoboda a přímá demokracie - Tomio Okamura (SPD)	Svob.a př.dem.-T.Okamura (SPD)	SPD	1	1114	5145	5.26	1
+4102	555428	Ostrov	1	4	7	7	Česká strana sociálně demokratická	Česká str.sociálně demokrat.	ČSSD	1	007	5451	5.58	1
+4102	555428	Ostrov	1	5	112	112	HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST	HN.ZA HARM.ROZVOJ OBCÍ A MĚST	HNHRM	1	112	19401	19.86	5
+4102	555428	Ostrov	1	6	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	7299	7.47	1
+4102	555428	Ostrov	1	7	53	53	Občanská demokratická strana	Občanská demokratická strana	ODS	1	053	17348	17.76	4
+4102	555428	Ostrov	1	8	540	540	Ostrováci.cz - sdružení nezávislých kandidátů s podporou TOP-09 a KDU-ČSL	Ostrováci.cz		3	001,080,721	14153	14.49	3
+4102	555428	Ostrov	1	9	119	119	Unie pro sport a zdraví	Unie pro sport a zdraví	USZ	1	119	11448	11.72	2
+4102	555444	Otročín	1	1	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	275	15.7	1
+4102	555444	Otročín	1	2	901	90	Otročínsko	Otročínsko	SNK	1	080	232	13.24	1
+4102	555444	Otročín	1	3	1	1	Křesťanská a demokratická unie - Československá strana lidová	Křesť.demokr.unie-Čs.str.lid.	KDU-ČSL	1	001	1244	71.04	7
+4102	555452	Pernink	1	1	901	90	Pernink náš domov	Pernink náš domov	SNK	1	080	1736	71.41	7
+4102	555452	Pernink	1	2	470	470	PRO PERNINK SPOLEČNĚ	PRO PERNINK SPOLEČNĚ		2	080,166	695	28.58	2
+4102	555479	Potůčky	1	1	803	80	Martin Zábrana	Martin Zábrana	NK	1	080	43	26.52	0
+4102	555479	Potůčky	1	2	801	80	Zuzana Švihoriková, DiS.	Zuzana Švihoriková	NK	1	080	63	38.86	0
+4102	555479	Potůčky	1	3	804	80	Manfred Schöniger	Manfred Schöniger	NK	1	080	53	32.69	0
+4102	555479	Potůčky	1	4	805	80	Vladimír Kvíčera	Vladimír Kvíčera	NK	1	080	73	45.03	0
+4102	555479	Potůčky	1	5	807	80	Dagmar Fořtová	Dagmar Fořtová	NK	1	080	69	42.56	0
+4102	555479	Potůčky	1	6	901	90	SNK - Potůčky pro všechny	SNK - Potůčky pro všechny	SNK	1	080	917	62.85	9
+4102	555479	Potůčky	1	7	808	80	Soňa Volrábová	Soňa Volrábová	NK	1	080	40	24.67	0
+4102	555479	Potůčky	1	8	809	80	Jan Husařík	Jan Husařík	NK	1	080	40	24.67	0
+4102	555479	Potůčky	1	9	802	80	Michal Gewitscher	Michal Gewitscher	NK	1	080	84	51.81	0
+4102	555479	Potůčky	1	10	806	80	Josef Fořt	Josef Fořt	NK	1	080	77	47.49	0
+4102	555525	Pšov	1	1	904	90	Sdružení nezávislých kandidátů pro venkov	Sdruž. nezáv. kand. pro venkov	SNK	1	080	294	12.84	1
+4102	555525	Pšov	1	2	901	90	NEZÁVISLÍ KANDIDÁTI	NEZÁVISLÍ KANDIDÁTI	SNK	1	080	768	29.82	3
+4102	555525	Pšov	1	3	902	90	SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ	SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ	SNK	1	080	1017	39.49	4
+4102	555525	Pšov	1	4	903	90	Sdružení nezávislých kandidátů mladí pro budoucnost	SNK mladí pro budoucnost	SNK	1	080	144	5.59	0
+4102	555525	Pšov	1	5	905	90	Sdružení nezávislých kandidátů náš domov	Sdruž. nezáv. kand. náš domov	SNK	1	080	352	13.66	1
+4102	555533	Sadov	1	1	901	90	Domorodci	Domorodci	SNK	1	080	1375	36.07	2
+4102	555533	Sadov	1	2	1129	1129	Sdružení nezávislých kandidátů 1	Sdružení nezávis. kandidátů 1	SNK1	1	1129	2323	60.95	5
+4102	555533	Sadov	1	3	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	113	6.91	0
+4102	555550	Stanovice	1	1	901	90	Věci Stanovické	Věci Stanovické	SNK	1	080	458	18.33	1
+4102	555550	Stanovice	1	2	903	90	NEZÁVISLÍ	NEZÁVISLÍ	SNK	1	080	526	21.05	2
+4102	555550	Stanovice	1	3	902	90	Rozvoj obce Stanovice	Rozvoj obce Stanovice	SNK	1	080	1514	60.6	6
+4102	555584	Stráž nad Ohří	1	1	903	90	Sdružení nezávislých kandidátů Stráž nad Ohří 2018	SNK Stráž nad Ohří 2018	SNK	1	080	641	27.74	2
+4102	555584	Stráž nad Ohří	1	2	901	90	Strana nezávislých kandidátů	Strana nezávislých kandidátů	SNK	1	080	885	38.31	4
+4102	555584	Stráž nad Ohří	1	3	902	90	Sdružení nezávislých kandidátů pro všechny obce Stráže nad Ohří	SNK pro všechny obce Stráže	SNK	1	080	784	33.93	3
+4102	555592	Stružná	1	1	901	90	BEZMLHY	BEZMLHY	SNK	1	080	529	25.37	2
+4102	555592	Stružná	1	2	470	470	OBEC PRO OBČANY	OBEC PRO OBČANY		2	080,166	1556	74.62	5
+4102	555614	Šemnice	1	1	901	90	NEZÁVISLÍ	NEZÁVISLÍ	SNK	1	080	1239	100	7
+4102	555622	Štědrá	1	1	901	90	Sdružení nezávislých kandidátů	Sdružení nezávislých kandidátů	SNK	1	080	900	94.24	7
+4102	555622	Štědrá	1	2	801	80	Nezávislý kandidát Martin Pechát	Nezávisl. kand. Martin Pechát	NK	1	080	55	40.31	0
+4102	555657	Toužim	1	1	47	47	Komunistická strana Čech a Moravy	Komunistická str.Čech a Moravy	KSČM	1	047	1824	11.09	1
+4102	555657	Toužim	1	2	389	389	Hnutí pro město Toužim 2018	Hnutí pro město Toužim 2018		2	053,080	6794	41.32	7
+4102	555657	Toužim	1	3	785	785	PRO Zdraví a Sport	PRO Zdraví a Sport	PRO Zdraví	1	785	3943	23.98	4
+4102	555657	Toužim	1	4	112	112	HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST	HN.ZA HARM.ROZVOJ OBCÍ A MĚST	HNHRM	1	112	2634	16.02	2
+4102	555657	Toužim	1	5	142	142	Starostové pro kraj	Starostové pro kraj	Starostové	1	142	1246	7.57	1
+4102	555681	Útvina	1	1	902	90	Sdružení nezávislých kandidátů obce Útvina	Sdruž.nezáv.kand. obce Útvina	SNK	1	080	1386	53.41	5
+4102	555681	Útvina	1	2	901	90	Pro lepší obec	Pro lepší obec	SNK	1	080	1209	46.58	4
+4102	555690	Valeč	1	1	901	90	"""VALEČSKO"""	"""VALEČSKO"""	SNK	1	080	423	25.65	3
+4102	555690	Valeč	1	2	720	720	Česká pirátská strana	Česká pirátská strana	Piráti	1	720	156	9.46	1
+4102	555690	Valeč	1	3	905	90	"""Radnice bez P+P"""	"""Radnice bez P+P"""	SNK	1	080	132	8	0
+4102	555690	Valeč	1	4	903	90	Pro Valeč	Pro Valeč	SNK	1	080	390	23.65	2
+4102	555690	Valeč	1	5	904	90	"""ZMĚNA"""	"""ZMĚNA"""	SNK	1	080	306	18.55	2
+4102	555690	Valeč	1	6	902	90	Občané Valče	Občané Valče	SNK	1	080	242	14.67	1
+4102	555703	Velichov	1	1	901	90	SNK - Za lepší Velichov	SNK - Za lepší Velichov	SNK	1	080	714	29.21	3
+4102	555703	Velichov	1	2	1114	1114	Svoboda a přímá demokracie - Tomio Okamura (SPD)	Svob.a př.dem.-T.Okamura (SPD)	SPD	1	1114	376	15.38	1
+4102	555703	Velichov	1	3	1129	1129	Sdružení nezávislých kandidátů 1	Sdružení nezávis. kandidátů 1	SNK1	1	1129	1354	55.4	5
+4102	555711	Verušičky	1	1	901	90	Sdružení nezávislých kandidátů	Sdružení nezávislých kandidátů	SNK	1	080	953	75.87	6
+4102	555711	Verušičky	1	2	902	90	"""Za naši obec"""	"""Za naši obec"""	SNK	1	080	303	24.12	1
+4102	555738	Vojkovice	1	1	901	90	ZA OBEC KRÁSNĚJŠÍ	ZA OBEC KRÁSNĚJŠÍ	SNK	1	080	867	43.26	3
+4102	555738	Vojkovice	1	2	470	470	Za rozvoj Vojkovic a Jakubova	Za rozvoj Vojkovic a Jakubova		2	080,166	1137	56.73	4
+4102	555762	Žlutice	1	1	53	53	Občanská demokratická strana	Občanská demokratická strana	ODS	1	053	314	4.27	0
+4102	555762	Žlutice	1	2	470	470	NOVÁ CESTA	NOVÁ CESTA		2	080,166	426	5.79	0
+4102	555762	Žlutice	1	3	1	1	Křesťanská a demokratická unie - Československá strana lidová	Křesť.demokr.unie-Čs.str.lid.	KDU-ČSL	1	001	1370	18.63	2
+4102	555762	Žlutice	1	4	902	90	ŽLUTICKÉ MAMINKY	ŽLUTICKÉ MAMINKY	SNK	1	080	528	7.18	1
+4102	555762	Žlutice	1	5	112	112	HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST	HN.ZA HARM.ROZVOJ OBCÍ A MĚST	HNHRM	1	112	1495	20.33	2
+4102	555762	Žlutice	1	6	721	721	TOP 09	TOP 09	TOP 09	1	721	862	11.72	1
+4102	555762	Žlutice	1	7	716	716	Strana soukromníků České republiky	Strana soukromníků ČR	Soukromníci	1	716	857	11.65	1
+4102	555762	Žlutice	1	8	1114	1114	Svoboda a přímá demokracie - Tomio Okamura (SPD)	Svob.a př.dem.-T.Okamura (SPD)	SPD	1	1114	677	9.2	1
+4102	555762	Žlutice	1	9	901	90	MĚSTO LIDEM	MĚSTO LIDEM	SNK	1	080	823	11.19	1
 4102	556947	Pila	1	1	901	90	Pilští nezávislí	Pilští nezávislí	SNK	1	080	1135	100	7
 4102	566675	Vrbice	1	1	902	90	Pro venkov	Pro venkov	SNK	1	080	306	49.67	4
 4102	566675	Vrbice	1	2	903	90	Občané Vrbice, Bošova a Skřípové	Občané Vrbice,Bošova,Skřípové	SNK	1	080	76	12.33	0
 4102	566675	Vrbice	1	3	901	90	Lepší venkov	Lepší venkov	SNK	1	080	234	37.98	3
+4102	578011	Chodov	1	1	902	90	"""Sdružení nezávislých kandidátů č. 1"""	"""Sdruž. nezávisl. kand. č. 1"""	SNK	1	080	133	44.33	3
+4102	578011	Chodov	1	2	903	90	PRO ROZVOJ	PRO ROZVOJ	SNK	1	080	44	14.66	0
+4102	578011	Chodov	1	3	901	90	"""Sdružení nezávislých kandidátů č. 2"""	"""Sdruž. nezávisl. kand. č. 2"""	SNK	1	080	123	41	2
+4102	578029	Vysoká Pec	1	1	803	80	Mgr. Josef Dvořáček	Mgr. Josef Dvořáček	NK	1	080	60	55.62	0
+4102	578029	Vysoká Pec	1	2	806	80	Radek Šaroch	Radek Šaroch	NK	1	080	61	56.55	1
+4102	578029	Vysoká Pec	1	3	802	80	Jakub Šaroch	Jakub Šaroch	NK	1	080	26	24.1	0
+4102	578029	Vysoká Pec	1	4	804	80	Jan Hüttner	Jan Hüttner	NK	1	080	94	87.15	1
+4102	578029	Vysoká Pec	1	5	810	80	Bc. Vlastimil Zázvorka	Bc. Vlastimil Zázvorka	NK	1	080	89	82.51	1
+4102	578029	Vysoká Pec	1	6	807	80	Ing. Petr Josef Zettl	Ing. Petr Josef Zettl	NK	1	080	100	92.71	1
+4102	578029	Vysoká Pec	1	7	808	80	Václav Malý	Václav Malý	NK	1	080	65	60.26	1
+4102	578029	Vysoká Pec	1	8	809	80	Jakub Franta	Jakub Franta	NK	1	080	60	55.62	0
+4102	578029	Vysoká Pec	1	9	805	80	Ing. Jindřich Košner	Ing. Jindřich Košner	NK	1	080	96	89	1
+4102	578029	Vysoká Pec	1	10	801	80	Tomáš Hüttner	Tomáš Hüttner	NK	1	080	104	96.42	1
+4102	578045	Krásný Les	1	1	901	90	Sdružení nezávislých kandidátů Obce Krásný Les	Sdruž. nezáv. kand. Obce K. L.	SNK	1	080	777	100	9
