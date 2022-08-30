@@ -189,6 +189,11 @@ roky.forEach(rok => {
         strana => zastupitelstvo.KODZASTUP === strana.KODZASTUP
       );
 
+      const zastObceUniq = [
+        //každá strana stačí jednou (aby se neopakovaly strany v obcích s více obvody)
+        ...new Map(stranyObce.map(v => [v.OSTRANA, v])).values(),
+      ];
+
       if (!fs.existsSync(`${rok}/${okres.key}/${zastupitelstvo.key}`)) {
         fs.mkdirSync(`${rok}/${okres.key}/${zastupitelstvo.key}`);
       }
@@ -201,7 +206,7 @@ roky.forEach(rok => {
 
       fs.writeFileSync(
         `${rok}/${okres.key}/${zastupitelstvo.key}/strany.tsv`,
-        tsvFormat(stranyObce)
+        tsvFormat(zastObceUniq)
       );
       console.log(`${rok} strany ${zastupitelstvo.NAZEVZAST} ${rok} ok`);
     });
