@@ -102,7 +102,7 @@ roky.forEach(rok => {
   // převeď kandidáty do JSONu
   const rawKandidati = fs.readFileSync(`raw/${rok}/kvrk-gender.csv`, "utf8");
   const kandidati = csvParse(rawKandidati)
-    .filter(kandidat => kandidat.platnost === "A")
+    .filter(kandidat => kandidat.PLATNOST === "A")
     .map(kandidat => {
       //Březina Blansko=>Brno-venkov
       if (rok === "2006" && kandidat.KODZASTUP === "581429") {
