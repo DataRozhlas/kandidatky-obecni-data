@@ -3,21 +3,11 @@ library(readxl)
 library(xml2)
 
 
-# convert semicolon to comma delimited and fix encoding
 
-
-for (i in c(2018)) {
-  files = list.files(paste0("raw/", i), "*.csv")
-  for (j in files) {
-  data=read_csv2(paste0("raw/", i, "/", j), locale = locale(encoding = "WINDOWS-1250"))
-  write_csv(data, paste0("raw/", i, "/", j), quote = "all")
-  }
-  
-}
 
 # convert xls to csv
 
-for (i in c(2014, 2010, 2006)) {
+for (i in c(2018, 2014, 2010, 2006)) {
   files = list.files(paste0("raw/", i), "*.xlsx")
   for (j in files) {
     data=read_xlsx(paste0("raw/", i, "/", j))
