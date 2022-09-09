@@ -19,7 +19,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	552500	1	1	901	1	Jan	Šeděnka			43	OSVČ	Pazderna	99	80	A	M
 8102	552518	1	1	901	1	Jiří	Myšinský	Mgr. Bc.		57	starosta	Nošovice	99	80	A	M
 8102	552526	1	1	902	1	Šárka	Prymusová	Ing.		42	podnikatelka, místostarostka obce Nižních Lhot	Nižní Lhoty	99	80	A	F
-8102	552542	1	1	901	1	Ondřej	Spilka	Ing.		48	softwareový inženýr	Dobratice	53	80	A	
+8102	552542	1	1	901	1	Ondřej	Spilka	Ing.		48	softwareový inženýr	Dobratice	53	80	A	M
 8102	552551	1	1	901	1	Marek	Pohl			42	referent přípravy dopravních staveb	Staré Město	99	80	A	M
 8102	552569	1	1	901	1	Libor	Macháček	Ing.		52	starosta	Staříč	99	80	A	M
 8102	552577	1	1	902	1	Milan	Vaněk	Ing.		65	starosta	Pstruží	99	80	A	M
@@ -85,7 +85,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	512176	1	2	470	1	Robert	Borski			51	starosta obce	Hrádek	166	166	A	M
 8102	512184	1	2	901	1	Michal	Bílek	Ing.		39	stavební technik	Metylovice	99	80	A	M
 8102	512192	1	2	903	1	Zdeněk	Oborný	Mgr.		67	učitel ZŠ	Horní Domaslavice	99	80	A	M
-8102	549665	1	2	801	1	Jan	Muroň	Ing.		69	technik	Raškovice	99	80	A	
+8102	549665	1	2	801	1	Jan	Muroň	Ing.		69	technik	Raškovice	99	80	A	M
 8102	552526	1	2	901	1	Marie	Gryžboňová Mališová			58	starostka	Nižní Lhoty	99	80	A	F
 8102	552542	1	2	902	1	Radovan	Otipka			48	vedoucí výroby	Dobratice	99	80	A	M
 8102	552551	1	2	1	1	Petr	Ručka			35	řidič	Staré Město	1	1	A	M
@@ -124,13 +124,13 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	598259	1	2	401	1	Petr	Gawlas			60	ředitel společnosti, emeritní senátor	Jablunkov	99	88	A	M
 8102	598275	1	2	807	1	Nataša	Korduliaková			56	administrativní pracovnice	Kaňovice	99	80	A	F
 8102	598321	1	2	53	1	Miroslav	Tofel	Ing.		61	starosta obce	Kozlovice	53	53	A	M
-8102	598348	1	2	541	1	Marek	Čmiel			30	jednatel Komínexpres s.r.o., kominík, člen kontrolního výboru obce	Krmelín	720	720	A	
+8102	598348	1	2	541	1	Marek	Čmiel			30	jednatel Komínexpres s.r.o., kominík, člen kontrolního výboru obce	Krmelín	720	720	A	M
 8102	598356	1	2	470	1	Michaela	Šebelová	Mgr.		40	starostka obce, poslankyně Parlamentu ČR	Kunčice pod Ondřejníkem	166	166	A	F
 8102	598399	1	2	901	1	René	Žák			51	podnikatel	Lučina	99	80	A	M
 8102	598445	1	2	904	1	Zdeněk	Ševčík	Ing.		65	senior konzultant	Morávka	99	80	A	M
 8102	598453	1	2	1	1	Zuzana	Sikorová	Mgr.		49	referent státní správy	Mosty u Jablunkova	99	1	A	F
 8102	598542	1	2	901	1	Jiří	Pavlán			52	technik	Ostravice	99	80	A	M
-8102	598551	1	2	387	1	Dalibor	Rada			47	školník	Palkovice	99	80	A	
+8102	598551	1	2	387	1	Dalibor	Rada			47	školník	Palkovice	47	80	A	M
 8102	598569	1	2	53	1	Zdeňka	Šimíčková	Mgr.		61	učitelka	Paskov	53	53	A	F
 8102	598674	1	2	903	1	Jaromír	Krejčok	Ing.		56	starosta	Sedliště	99	80	A	M
 8102	598691	1	2	901	1	Luděk	Bujnošek	Mgr.		51	starosta	Rychaltice	99	80	A	M
@@ -269,7 +269,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	554014	1	7	88	1	Robert	Karch			42	podnikatel	Návsí	99	88	A	M
 8102	554928	1	7	901	1	Raimund	Sikora		DiS.	45	starosta obce	Vendryně	99	80	A	M
 8102	598003	1	7	720	1	Jakub	Tichý			37	ředitel divadla, radní pro kulturu a památkovou péči	Frýdek	720	720	A	M
-8102	598038	1	7	371	1	Tomáš	Kocourek	Mgr.		27	historik, doktorand	Brušperk	7	7	A	
+8102	598038	1	7	371	1	Tomáš	Kocourek	Mgr.		27	historik, doktorand	Brušperk	7	7	A	M
 8102	598259	1	7	902	1	Jerzy	Goryl			34	režisér Werk Arény, manažer	Jablunkov	99	80	A	M
 8102	598275	1	7	803	1	Adam	Supík	Mgr.		41	středoškolský učitel	Kaňovice	99	80	A	M
 8102	598810	1	7	1	1	Pavla	Golasowská	Mgr. Bc.	DiS.	58	radní města Třinec, poslankyně PSP ČR	Oldřichovice	1	1	A	F
@@ -320,7 +320,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	569631	1	1	53	2	Jan	Karásek	Ing.		40	provozní ředitel	Sviadnov	53	53	A	M
 8102	598003	1	1	1114	2	Jiří	Prokop			58	vedoucí energetik	Místek	1114	1114	A	M
 8102	598011	1	1	1	2	Pavel	Eliáš	Mgr.		55	učitel	Baška	99	1	A	M
-8102	598020	1	1	387	2	Helena	Janošcová			64	kuchařka	Bílá	99	80	A	
+8102	598020	1	1	387	2	Helena	Janošcová			64	kuchařka	Bílá	99	80	A	F
 8102	598038	1	1	1	2	Marie	Šupíková			49	zubní instrumentářka	Brušperk	1	1	A	F
 8102	598046	1	1	902	2	Lenka	Ignasová			52	vychovatelka	Bruzovice	99	80	A	F
 8102	598062	1	1	389	2	Jakub	Kołodziej			29	prodejce	Bystřice	53	53	A	M
@@ -804,7 +804,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	554014	1	7	88	3	Miroslav	Martynek			41	podnikatel	Návsí	99	88	A	M
 8102	554928	1	7	901	3	Petr	Váňa	Ing.	MBA	52	stavební inženýr	Vendryně	99	80	A	M
 8102	598003	1	7	720	3	Leonard	Varga			35	náměstek primátora, horal, biker, veganfighter	Místek	720	720	A	M
-8102	598038	1	7	371	3	Svatopluk	Slovák	Ing.	Ph.D.	49	vysokoškolský pedagog, ekonom	Brušperk	7	7	A	
+8102	598038	1	7	371	3	Svatopluk	Slovák	Ing.	Ph.D.	49	vysokoškolský pedagog, ekonom	Brušperk	7	7	A	M
 8102	598259	1	7	902	3	Halina	Kadlubiecová			37	OSVČ	Jablunkov	99	80	A	F
 8102	598810	1	7	1	3	Roman	Brzezina	Mgr.		44	pastor	Konská	1	1	A	M
 8102	598003	1	8	1501	3	Pavel	Machala	Mgr.		36	poradce v oblasti energií	Frýdek-Místek, Zelinkovice	7	7	A	M
@@ -1059,7 +1059,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	556971	1	6	1	4	Jan	Hracki			60	metrolog	Ropice	99	1	A	M
 8102	598011	1	6	7	4	Pavel	Miřinský			58	technik	Baška	99	7	A	M
 8102	598038	1	6	901	4	Daniel	Šilák	PharmDr.		56	lékárník	Brušperk	99	80	A	M
-8102	598062	1	6	902	4	Petr	Czudková			44	podnikatelka	Bystřice	99	80	A	M
+8102	598062	1	6	902	4	Petra	Czudková			44	podnikatelka	Bystřice	99	80	A	F
 8102	598071	1	6	88	4	Daniela	Nešporková			37	realitní makléřka	Čeladná	99	88	A	F
 8102	598143	1	6	1533	4	Lumír	Kaplan	Ing.	MBA	59	ředitel IT	Frýdlant	53	53	A	M
 8102	598259	1	6	901	4	Kateřina	Čečotková Gorová	Mgr.		37	učitelka	Jablunkov	99	80	A	F
@@ -1069,7 +1069,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	554014	1	7	88	4	Robert	Przybyla			48	podnikatel	Návsí	99	88	A	M
 8102	554928	1	7	901	4	Ivo	Špaček	Ing.		67	zastupitel obce	Vendryně	99	80	A	M
 8102	598003	1	7	720	4	Markéta	Ubíková	Mgr.		38	digitální koučka a lektorka na volné noze, zastupitelka města	Místek	720	720	A	F
-8102	598038	1	7	371	4	Pavel	Horkel	BcA.		33	filmař, mistr zvuku	Brušperk	99	80	A	
+8102	598038	1	7	371	4	Pavel	Horkel	BcA.		33	filmař, mistr zvuku	Brušperk	99	80	A	M
 8102	598259	1	7	902	4	Jiří	Bojko			31	revírník Lesy ČR	Jablunkov	99	80	A	M
 8102	598810	1	7	1	4	Josef	Konderla			33	jeřábník	Lyžbice	1	1	A	M
 8102	598003	1	8	1501	4	Petr	Kozák	MUDr.		61	primář ortopedie	Frýdek-Místek, Frýdek	99	7	A	M
@@ -1334,7 +1334,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	554014	1	7	88	5	Václav	Jurosz			36	předák údržby TŽ	Návsí	99	88	A	M
 8102	554928	1	7	901	5	David	Báča			49	technik	Vendryně	99	80	A	M
 8102	598003	1	7	720	5	Martin	Škapa	Ing.		40	programátor, ekonom, majitel zubní ordinace a výrobní firmy	Místek	720	720	A	M
-8102	598038	1	7	371	5	Martina	Hájková	Ing.	Ph.D.	44	podnikový ekolog	Brušperk	7	7	A	
+8102	598038	1	7	371	5	Martina	Hájková	Ing.	Ph.D.	44	podnikový ekolog	Brušperk	7	7	A	F
 8102	598259	1	7	902	5	Lucie	Brzezniaková			38	OSVČ	Jablunkov	99	80	A	F
 8102	598810	1	7	1	5	Kateřina	Cubrová	Mgr.		45	učitelka MŠ	Lyžbice	1	1	A	F
 8102	598003	1	8	1501	5	Lenka	Čubová			44	vrchní zdravotní sestra	Frýdek-Místek, Skalice	7	7	A	F
@@ -1513,7 +1513,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	598321	1	3	7	6	Jiří	Bařina			61	strojvedoucí	Kozlovice	99	7	A	M
 8102	598348	1	3	53	6	Kateřina	Bonito	Mgr.		44	ředitel Světa techniky Ostrava	Krmelín	99	53	A	F
 8102	598356	1	3	901	6	Tomáš	Beránek	Ing.		46	obchodní ředitel	Kunčice pod Ondřejníkem	99	80	A	M
-8102	598399	1	3	902	6	Zuzana	Lhotská	Bc.		35	personalistka	Lučina	99	80	A	
+8102	598399	1	3	902	6	Zuzana	Lhotská	Bc.		35	personalistka	Lučina	99	80	A	F
 8102	598445	1	3	901	6	Monika	Foldynová	Bc.		32	učitelka mateřské školy	Morávka	99	80	A	F
 8102	598453	1	3	392	6	Josef	Marszałek			38	technik	Mosty u Jablunkova	7	80	A	M
 8102	598542	1	3	524	6	Leoš	Paluzga	Ing.		49	OSVČ	Ostravice	99	80	A	M
@@ -1549,7 +1549,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	598143	1	4	1376	6	Eva	Kijonková	Mgr.		54	PR specialista	Frýdlant	99	80	A	F
 8102	598160	1	4	902	6	David	Wowerka			38	plánovač výroby	Hnojník	99	80	A	M
 8102	598259	1	4	1	6	Roman	Karczmarczyk			39	učitel střední školy	Jablunkov	1	1	A	M
-8102	598348	1	4	371	6	Martina	Helísková			44	školnice ZŠ TGM Krmelín, kronikářka obce	Krmelín	99	80	A	
+8102	598348	1	4	371	6	Martina	Helísková			44	školnice ZŠ TGM Krmelín, kronikářka obce	Krmelín	99	80	A	F
 8102	598356	1	4	1	6	Tomáš	Svoboda	Ing.		57	odborný lesní hospodář	Kunčice pod Ondřejníkem	99	1	A	M
 8102	598399	1	4	903	6	Petra	Stempáková			35	OSVČ - floristka	Lučina	99	80	A	F
 8102	598445	1	4	902	6	Iveta	Mikolášová	Ing.		52	obchodní manažer	Morávka	99	80	A	F
@@ -1595,7 +1595,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	554014	1	7	88	6	Erika	Martynková	Mgr. Bc.		38	učitelka	Návsí	99	88	A	F
 8102	554928	1	7	901	6	Jiřina	Motyková	Bc.		60	vedoucí sociálních služeb	Vendryně	99	80	A	F
 8102	598003	1	7	720	6	Michaela	Davidová	Mgr.		37	šéfredaktorka online magazínu Ostravské univerzity, popularizátorka inovativního školství	Místek	720	720	A	F
-8102	598038	1	7	371	6	Petr	Červenka	Ing.		24	dopravní inženýr	Brušperk	99	80	A	
+8102	598038	1	7	371	6	Petr	Červenka	Ing.		24	dopravní inženýr	Brušperk	99	80	A	M
 8102	598259	1	7	902	6	Jakub	Bojko	MDDr.		36	zubní lékař	Jablunkov	99	80	A	M
 8102	598810	1	7	1	6	Marta	Bezecná	Bc.		65	důchodkyně	Konská	99	1	A	F
 8102	598003	1	8	1501	6	Kamil	Mach	Ing.	MBA	51	soudní znalec	Frýdek-Místek, Místek	1046	1046	A	M
@@ -1858,7 +1858,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	598003	1	7	720	7	Veronika	Madejová	Mgr.		40	manažerka projektů, šéfka dětské skupiny	Frýdek	99	720	A	F
 8102	598038	1	7	371	7	Lukáš	Krupník			41	elektromontér	Brušperk	7	7	A	M
 8102	598259	1	7	902	7	Petra	Martynková			38	účetní	Jablunkov	99	80	A	F
-8102	598810	1	7	1	7	Renáta	Turoňová	Mgr.		46	ředitelka Bunkru, o. s. p.	Staré Město	1	1	A	F
+8102	598810	1	7	1	7	Renáta	Turoňová	Mgr.		46	ředitelka Bunkru, o. p. s.	Staré Město	1	1	A	F
 8102	598003	1	8	1501	7	Jaroslav	Chýlek	Ing.	MBA	49	ředitel	Frýdek-Místek, Místek	7	7	A	M
 8102	598003	1	9	47	7	Pavel	Herák			48	operátor kvality	Frýdek	47	47	A	M
 8102	507091	1	1	903	8	Jan	Lubojacki			58	OSVČ	Nýdek	99	80	A	M
@@ -2108,7 +2108,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	598810	1	7	1	8	Hana	Worková	Mgr.		54	OSVČ	Lyžbice	1	1	A	F
 8102	598003	1	8	1501	8	Štěpánka	Lukšová	Mgr.		57	zástupkyně ředitele ZŠ	Frýdek-Místek, Frýdek	7	7	A	F
 8102	598003	1	9	47	8	Ivan	Formánek			66	důchodce	Místek	47	47	A	M
-8102	568830	1	0	901	9	Roman	Polach	Ing.		50	elektrotechnik	Řepiště	99	80	A	
 8102	507091	1	1	903	9	Ladislav	Vitásek			33	OSVČ	Nýdek	99	80	A	M
 8102	507181	1	1	166	9	Michael	Václavík	PhDr.		46	psycholog	Pržno	99	166	A	M
 8102	507237	1	1	904	9	Michaela	Walachová			52	učitelka	Komorní Lhotka	99	80	A	F
@@ -2247,6 +2246,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	554928	1	3	768	9	Renáta	Brancová	Bc.		49	účetní	Vendryně	99	768	A	F
 8102	556971	1	3	904	9	Jiří	Martiniak			45	obchodní ředitel	Ropice	99	80	A	M
 8102	568791	1	3	902	9	Tomáš	Válek			54	invalidní důchodce	Soběšovice	99	80	A	M
+8102	568830	1	3	901	9	Roman	Polach	Ing.		50	elektrotechnik	Řepiště	99	80	A	M
 8102	569631	1	3	7	9	Tomáš	Vlk			45	podnikatel	Sviadnov	99	7	A	M
 8102	598003	1	3	1327	9	Jan	Caletka	Mgr.		70	středoškolský učitel	Místek	721	721	A	M
 8102	598011	1	3	903	9	Karolína	Němcová	Ing.		24	studentka	Hodoňovice	99	80	A	F
@@ -2289,7 +2289,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	598003	1	4	768	9	Romana	Kiecková			31	OSVČ, kosmetické služby	Frýdek-Místek, Frýdek	768	768	A	F
 8102	598011	1	4	53	9	Anna	Jasková	Mgr.		30	marketingová manažerka	Baška	53	53	A	F
 8102	598038	1	4	449	9	Xenie	Valušáková	Mgr.		26	učitelka, členka SDH Brušperk	Brušperk	99	80	A	F
-8102	598062	1	4	355	9	Markéta	Kuníková	Bc.		31	speciální padagog	Bystřice	99	80	A	F
+8102	598062	1	4	355	9	Markéta	Kuníková	Bc.		31	speciální pedagog	Bystřice	99	80	A	F
 8102	598071	1	4	53	9	Katrin	Hermanová			25	rodičovská dovolená	Čeladná	99	53	A	F
 8102	598089	1	4	355	9	Jan	Gryžboň	Ing.		33	produktový inženýr	Dobrá	99	80	A	M
 8102	598135	1	4	53	9	Zdenek	Dvorský			73	důchodce	Fryčovice	53	53	A	M
@@ -2300,7 +2300,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	598356	1	4	1	9	Martin	Urbánek			48	vrchní operátor	Kunčice pod Ondřejníkem	99	1	A	M
 8102	598399	1	4	903	9	Kateřina	Majvitorová			35	finanční konzultant	Lučina	99	80	A	F
 8102	598445	1	4	902	9	Romana	Miketová			39	referent	Morávka	99	80	A	F
-8102	598453	1	4	480	9	Pavla	Gajová Tauferová			40	jednatelka společnosti	Mosty u Jablunkova	99	721	A	
+8102	598453	1	4	480	9	Pavla	Gajová Tauferová			40	jednatelka společnosti	Mosty u Jablunkova	99	721	A	F
 8102	598542	1	4	47	9	Karel	Šigut			57	dělník	Ostravice	47	47	A	M
 8102	598551	1	4	1327	9	Barbora	Kuchařová			46	živnostník	Palkovice	99	721	A	F
 8102	598569	1	4	902	9	Milan	Kyselovský			55	mistr výroby	Paskov	99	80	A	M
@@ -2347,7 +2347,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	598810	1	7	1	9	Miroslav	Javorek			47	elektrikář	Lyžbice	1	1	A	M
 8102	598003	1	8	1501	9	Josef	Hálka			39	provozní ředitel	Frýdek-Místek, Frýdek	7	7	A	M
 8102	598003	1	9	47	9	Vítězslav	Tomek	Ing.		60	systémový inženýr	Frýdek	47	47	A	M
-8102	568830	1	0	901	10	Vítězslav	Kukučka			56	technik údržby	Řepiště	99	80	A	
 8102	507091	1	1	903	10	Josef	Frech			57	elektrikář	Nýdek	99	80	A	M
 8102	507237	1	1	904	10	Jiří	Šimík			53	lesník	Komorní Lhotka	99	80	A	M
 8102	507423	1	1	166	10	Miloslav	Chrobák	Mgr.		68	pedagog, volejbalový trenér	Janovice	99	166	A	M
@@ -2420,7 +2419,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	598348	1	2	541	10	Jiří	Šindel	Ing.		29	bezpečnostní technik	Krmelín	99	80	A	M
 8102	598356	1	2	470	10	Tomáš	Maralík			40	zaměstnanec pro údržbu obce, zastupitel obce, starosta SDH Kunčice p. O.	Kunčice pod Ondřejníkem	99	80	A	M
 8102	598399	1	2	901	10	Jakub	Myšinský			40	podnikatel	Lučina	99	80	A	M
-8102	598453	1	2	1	10	Kamil	Turek	Ing.	Ph.D., DiS.	42	lesník	Mosty u Jablunkova	1	1	A	
+8102	598453	1	2	1	10	Kamil	Turek	Ing.	Ph.D., DiS.	42	lesník	Mosty u Jablunkova	1	1	A	M
 8102	598542	1	2	901	10	Pavel	Božoň			68	důchodce	Ostravice	99	80	A	M
 8102	598551	1	2	387	10	Theodor	Mucha			68	důchodce	Palkovice	99	80	A	M
 8102	598569	1	2	53	10	Jiří	Vašíček	Ing.	MBA	44	učitel SŠ	Paskov	99	53	A	M
@@ -2441,6 +2440,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	554928	1	3	768	10	Olga	Drapová			44	farmaceutický asistent	Vendryně	99	768	A	F
 8102	556971	1	3	904	10	Tomáš	Stebel			42	podnikatel	Ropice	99	80	A	M
 8102	568791	1	3	902	10	Rudolf	Šmolka	Bc.		24	student	Soběšovice	99	80	A	M
+8102	568830	1	3	901	10	Vítězslav	Kukučka			56	technik údržby	Řepiště	99	80	A	M
 8102	569631	1	3	7	10	Milan	Mališ			59	projektový manažer	Sviadnov	99	7	A	M
 8102	598003	1	3	1327	10	Martin	Kleinwächter			38	zastupitel města, spolumajitel tiskárny	Místek	1	1	A	M
 8102	598011	1	3	903	10	Václav	Žáček	Bc.		56	ředitel pobočky	Hodoňovice	99	80	A	M
@@ -2532,7 +2532,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	598810	1	7	1	10	Tadeusz	Czapla	Ing.		34	OSVČ	Konská	99	1	A	M
 8102	598003	1	8	1501	10	Martin	Kožoušek	Ing.		59	ekonom	Frýdek-Místek, Frýdek	1046	1046	A	M
 8102	598003	1	9	47	10	Denis	Keka			53	sanitář	Frýdek	47	47	A	M
-8102	568830	1	0	901	11	Rostislav	Vašíček	Bc.		24	hasič	Řepiště	99	80	A	
 8102	507091	1	1	903	11	Jaromír	Niemiec			55	zámečník	Nýdek	99	80	A	M
 8102	507237	1	1	904	11	Lubomír	Niemiec			65	důchodce	Komorní Lhotka	99	80	A	M
 8102	507423	1	1	166	11	Václav	Vrzgula	Ing.		30	podnikatel	Janovice	99	166	A	M
@@ -2576,7 +2575,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	507091	1	2	901	11	Luboš	Cienciala			35	procesní inženýr	Nýdek	99	80	A	M
 8102	507237	1	2	903	11	Alexander	Przeczek	Ing.		65	důchodce	Komorní Lhotka	99	80	A	M
 8102	507423	1	2	1327	11	Ladislav	Boor			19	student, strojař	Janovice	99	53	A	M
-8102	507547	1	2	72	11	Eva	Wojnarová	Bc.		55	referent / referent	Milíkov	99	72	A	
+8102	507547	1	2	72	11	Eva	Wojnarová	Bc.		55	referent / referent	Milíkov	99	72	A	F
 8102	511935	1	2	1	11	Ludmila	Poloková			64	důchodkyně	Bukovec	1	1	A	F
 8102	512176	1	2	470	11	Věra	Garbová	Mgr.		34	vedoucí centra volného času	Hrádek	99	80	A	F
 8102	512184	1	2	901	11	Zuzana	Bílková	Mgr.		35	zdravotní sestra	Metylovice	99	80	A	F
@@ -2626,6 +2625,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	554928	1	3	768	11	Libor	Macura			49	technik	Vendryně	99	768	A	M
 8102	556971	1	3	904	11	Roman	Ščotka			56	kontrolor TŽ	Ropice	99	80	A	M
 8102	568791	1	3	902	11	Jiří	Kerzl	MUDr.		26	lékař	Soběšovice	99	80	A	M
+8102	568830	1	3	901	11	Rostislav	Vašíček	Bc.		24	hasič	Řepiště	99	80	A	M
 8102	569631	1	3	7	11	Věra	Poubová	MUDr.		64	lékařka	Sviadnov	99	7	A	F
 8102	598003	1	3	1327	11	Lukáš	Slíva	Mgr.		34	učitel na ZŠ P. Bezruče F-M, člen komise Rady města pro výchovu a vzdělávání	Frýdek	1	1	A	M
 8102	598011	1	3	903	11	Alena	Vítová	Ing.		43	na mateřské dovolené	Baška	99	80	A	F
@@ -2717,7 +2717,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	598810	1	7	1	11	Jitka	Kyvalská	JUDr.		68	důchodkyně	Lyžbice	99	1	A	F
 8102	598003	1	8	1501	11	Patrik	Siegelstein	Mgr.		47	ředitel SVČ Klíč	Frýdek-Místek, Frýdek	99	7	A	M
 8102	598003	1	9	47	11	Vlastimil	Bělík			65	důchodce	Frýdek	47	47	A	M
-8102	568830	1	0	901	12	Pavla	Polachová			47	správce	Řepiště	99	80	A	
 8102	507091	1	1	903	12	Jan	Dadak			48	soustružník	Nýdek	99	80	A	M
 8102	507423	1	1	166	12	Ilona	Magdoňová		DiS.	57	úřednice	Janovice	99	166	A	F
 8102	507547	1	1	901	12	Daniel	Nieslanik			24	řidič	Milíkov	99	80	A	M
@@ -2790,8 +2789,9 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	552691	1	3	902	12	Martin	Král			45	brusič	Žabeň	99	80	A	M
 8102	554014	1	3	5	12	Karel	Sikora			53	dělník ve výrobě	Návsí	99	5	A	M
 8102	554928	1	3	768	12	Vladimír	Vrlík			41	stavební mistr	Vendryně	99	768	A	M
-8102	556971	1	3	904	12	Jana	Kęndziorová			61	zdravotní sestra - záchranářka	Ropice	99	80	A	F
+8102	556971	1	3	904	12	Jana	Kędziorová			61	zdravotní sestra - záchranářka	Ropice	99	80	A	F
 8102	568791	1	3	902	12	Zdeňka	Donová			39	vedoucí prodejny	Soběšovice	99	80	A	F
+8102	568830	1	3	901	12	Pavla	Polachová			47	správce	Řepiště	99	80	A	F
 8102	569631	1	3	7	12	Marie	Michalčíková			74	důchodkyně	Sviadnov	99	7	A	F
 8102	598003	1	3	1327	12	Libor	Lepík	Mgr.		58	středoškolský učitel	Frýdek	99	53	A	M
 8102	598011	1	3	903	12	Jiří	Kocich	Mgr.	MBA	44	jednatel společnosti	Baška	99	80	A	M
@@ -2873,7 +2873,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	598810	1	7	1	12	René	Wojnar	Ing.		48	technolog	Lyžbice	1	1	A	M
 8102	598003	1	8	1501	12	David	Polčák	Mgr.		38	učitel na gymnáziu, člen předsednictva školských odborů	Frýdek-Místek, Místek	7	7	A	M
 8102	598003	1	9	47	12	Jan	Gogola	Bc.		23	OSVČ	Lysůvky	99	47	A	M
-8102	568830	1	0	901	13	Jan	Matějka			23	student	Řepiště	99	80	A	
 8102	507091	1	1	903	13	Jaroslav	Přikryl			67	důchodce	Nýdek	99	80	A	M
 8102	507423	1	1	166	13	Marie	Janáková			44	podnikatelka	Janovice	99	166	A	F
 8102	507547	1	1	901	13	Roman	Samiec			58	revizní zámečník VP	Milíkov	99	80	A	M
@@ -2948,6 +2947,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	554928	1	3	768	13	David	Martynek			31	jeřábník, řidič	Vendryně	99	768	A	M
 8102	556971	1	3	904	13	Tomáš	Dostal			49	vedoucí obch.-technický referent	Ropice	99	80	A	M
 8102	568791	1	3	902	13	Oldřich	Petržela	Ing.		75	důchodce	Soběšovice	99	80	A	M
+8102	568830	1	3	901	13	Jan	Matějka			23	student	Řepiště	99	80	A	M
 8102	569631	1	3	7	13	Václav	Michna			53	řidič	Sviadnov	99	7	A	M
 8102	598003	1	3	1327	13	Libor	Janečka			63	majitel zemědělské farmy Chlebovické brambory, člen osadního výboru Chlebovice	Chlebovice	1	1	A	M
 8102	598011	1	3	903	13	Zdeňka	Mojžíšková			74	v důchodu	Baška	99	80	A	F
@@ -3022,12 +3022,11 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	554014	1	7	88	13	Miroslav	Jurosz			54	elektrikář	Návsí	99	88	A	M
 8102	554928	1	7	901	13	Richard	Kotajny	Ing.		55	geodet	Vendryně	99	80	A	M
 8102	598003	1	7	720	13	Jakub	Larisch	Bc.		39	sociální pracovník, terapeut, ekolog, trenér psů	Místek	99	720	A	M
-8102	598038	1	7	371	13	Miloslav	Kuchař	Ing.		65	strojní inženýr	Brušperk	99	80	A	
+8102	598038	1	7	371	13	Miloslav	Kuchař	Ing.		65	strojní inženýr	Brušperk	99	80	A	M
 8102	598259	1	7	902	13	Martin	Roženek			43	zvukař	Jablunkov	99	80	A	M
 8102	598810	1	7	1	13	Barbora	Tolaszová	Mgr.		42	finanční poradkyně, oblastní ředitelka	Karpentná	99	1	A	F
 8102	598003	1	8	1501	13	Přemysl	Kubala			48	volejbalový olympionik	Frýdek-Místek, Frýdek	99	1046	A	M
 8102	598003	1	9	47	13	Irena	Wohlmuthová			55	uklízečka	Frýdek	99	47	A	F
-8102	568830	1	0	901	14	Petr	Bezruč			33	specialista logistiky	Řepiště	99	80	A	
 8102	507091	1	1	903	14	Petr	Heczko			55	materiálový disponent	Nýdek	99	80	A	M
 8102	507423	1	1	166	14	Vladimíra	Juříčková	Ing.		58	ekolog závodu, zastupitelka obce	Janovice	99	166	A	F
 8102	512176	1	1	72	14	Kateřina	Stroková	Ing.		41	účetní / księgowa	Hrádek	99	72	A	F
@@ -3095,6 +3094,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	554928	1	3	768	14	Radim	Sikora	Ing.		44	vedoucí projektů	Vendryně	99	768	A	M
 8102	556971	1	3	904	14	Miroslav	Fojcik			40	OSVČ	Ropice	99	80	A	M
 8102	568791	1	3	902	14	Vojtěch	Morčinko			73	důchodce	Soběšovice	99	80	A	M
+8102	568830	1	3	901	14	Petr	Bezruč			33	specialista logistiky	Řepiště	99	80	A	M
 8102	569631	1	3	7	14	Tereza	Menšíková	Ing.		32	fakturantka	Sviadnov	99	7	A	F
 8102	598003	1	3	1327	14	Miroslav	Janoviak	Mgr.		43	obchodní ředitel	Frýdek	53	53	A	M
 8102	598011	1	3	903	14	Kamil	Šnajder			48	majitel firmy	Kunčičky u Bašky	99	80	A	M
@@ -3173,7 +3173,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	598810	1	7	1	14	Dominik	Szlaur	Ing.		44	agronom	Oldřichovice	99	1	A	M
 8102	598003	1	8	1501	14	Patrik	Herák	Ing.		40	provozní ředitel	Frýdek-Místek, Frýdek	7	7	A	M
 8102	598003	1	9	47	14	Rostislav	Blažek			35	skladník	Frýdek	99	47	A	M
-8102	568830	1	0	901	15	Petra	Adamusová	Ing.		45	ekonom	Řepiště	99	80	A	
 8102	507091	1	1	903	15	David	Fizek			47	zámečník	Nýdek	99	80	A	M
 8102	507423	1	1	166	15	Jiří	Kocián			81	záchranář	Janovice	99	166	A	M
 8102	512176	1	1	72	15	Irena	Medková			56	OSVČ	Hrádek	99	72	A	F
@@ -3201,7 +3200,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	598542	1	1	53	15	Dalibor	Mareš			33	operátor výroby	Ostravice	99	53	A	M
 8102	598551	1	1	1245	15	Robin	Knězek			30	hasič	Palkovice	99	1245	A	M
 8102	598569	1	1	1	15	Vladimír	Neuhybl			67	důchodce	Paskov	99	1	A	M
-8102	598691	1	1	1	15	Jiří	Písařovic			67	stolař	Hukvaldy	1	1	A	
+8102	598691	1	1	1	15	Jiří	Písařovic			67	stolař	Hukvaldy	1	1	A	M
 8102	598810	1	1	687	15	Václav	Kufa	Ing.		34	ředitel společnosti	Dolní Líštná	53	53	A	M
 8102	507091	1	2	901	15	Anna	Wojnarová	Bc.		39	fyzioterapeut	Nýdek	99	80	A	F
 8102	507423	1	2	1327	15	Ivo	Lichna			65	finanční poradce	Janovice	99	53	A	M
@@ -3240,6 +3239,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	554928	1	3	768	15	Ilona	Vítková			53	administrativní pracovník	Vendryně	99	768	A	F
 8102	556971	1	3	904	15	Vladimír	Hracký			57	servisní technik	Ropice	99	80	A	M
 8102	568791	1	3	902	15	Petr	Pavlok			55	OSVČ	Soběšovice	99	80	A	M
+8102	568830	1	3	901	15	Petra	Adamusová	Ing.		45	ekonom	Řepiště	99	80	A	F
 8102	569631	1	3	7	15	Jiří	Zlý	Mgr. Bc.	MBA	49	ředitel služby dopravní policie ČR	Sviadnov	99	7	A	M
 8102	598003	1	3	1327	15	Radim	Kocourek	MUDr.		55	zubař	Skalice	721	721	A	M
 8102	598011	1	3	903	15	Jana	Bacílková	Ing.		51	specialistka účetnictví	Baška	99	80	A	F
@@ -3557,7 +3557,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8102	598810	1	3	470	24	Eva	Kiedroňová			59	ředitelka Baby clubu Kenny	Staré Město	99	80	A	F
 8102	598003	1	4	768	24	Roman	Zámečník			52	operátor CNC	Frýdek-Místek, Frýdek	99	768	A	M
 8102	598810	1	4	371	24	Tadeáš	Heczko			44	zaměstnanec TŽ a.s.	Kanada	99	80	A	M
-8102	598810	1	5	768	24	Daniel	Razska			63	důchodce	Lyžbice	99	768	A	M
+8102	598810	1	5	768	24	Daniel	Raszka			63	důchodce	Lyžbice	99	768	A	M
 8102	598003	1	7	720	24	Michaela	Šimoníková			43	pedagog v lesní MŠ	Skalice	99	720	A	F
 8102	598810	1	7	1	24	Iveta	Kozoková			55	účetní	Dolní Líštná	99	1	A	F
 8102	598003	1	8	1501	24	Libuše	Kolková	Bc.		41	zdravotní sestra	Frýdek-Místek, Frýdek	7	7	A	F

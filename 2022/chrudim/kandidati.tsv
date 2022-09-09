@@ -181,7 +181,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5301	572471	1	2	801	1	Václav	Sýkora			37	voják z povolání	Vejvanovice	99	80	A	M
 5301	572497	1	2	902	1	Hana	Hromádková	Ing.		42	ekonom	Stan	99	80	A	F
 5301	572501	1	2	1	1	Jaroslav	Kyncl			59	starosta obce	Vojtěchov	1	1	A	M
-5301	572527	1	2	901	1	Ladislav	Šmahel			43	technik Vodárenské společnosti Chrudim	Lhoty	99	80	A	
+5301	572527	1	2	901	1	Ladislav	Šmahel			43	technik Vodárenské společnosti Chrudim	Lhoty	99	80	A	M
 5301	572535	1	2	1	1	Pavel	Macas			42	automechanik	Vrbatův Kostelec	1	1	A	M
 5301	572551	1	2	901	1	Tomáš	Dubský			49	starosta obce, poslanec PS PČR	Možděnice	166	80	A	M
 5301	572578	1	2	901	1	František	Mihulka	Ing.		62	ředitel střední školy	Zaječice	99	80	A	M
@@ -509,7 +509,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5301	572217	1	1	181	2	Milan	Jurnikl			58	OSVČ	Řestoky	99	181	A	M
 5301	572225	1	1	901	2	Milan	Cipryán	Ing.		53	vedoucí technických služeb	Seč	99	80	A	M
 5301	572241	1	1	902	2	Tomáš	Vařejčko	Ing.		52	OSVČ - ekonom	Radčice	99	80	A	M
-5301	572268	1	1	179	2	Jana	Švecová	Bc.		46	OSVČ (provozuje specializovaný maloobchod s čajem a kávou)	Slatiňany	179	179	A	
+5301	572268	1	1	179	2	Jana	Švecová	Bc.		46	OSVČ (provozuje specializovaný maloobchod s čajem a kávou)	Slatiňany	179	179	A	F
 5301	572276	1	1	901	2	Viktória	Pavlíková			46	OSVČ	Sobětuchy	99	80	A	F
 5301	572322	1	1	1	2	Marie	Šťáralová			57	kožešnice	Studnice	99	1	A	F
 5301	572331	1	1	901	2	Jana	Novotná	Mgr.		52	metodik řízení obcí v oblasti účetnictví	Svídnice	99	80	A	F
@@ -587,7 +587,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5301	572411	1	2	902	2	Lenka	Horková			46	finanční poradce	Třemošnice	99	80	A	F
 5301	572497	1	2	902	2	Jiří	Tláskal			53	pracovník expedice	Vítanov	99	80	A	M
 5301	572501	1	2	1	2	Josef	Havel			57	vedoucí výroby	Vojtěchov	99	1	A	M
-5301	572527	1	2	901	2	Petr	Klas			60	ředitel Základní umělecké školy Hlinsko	Lhoty	99	80	A	
+5301	572527	1	2	901	2	Petr	Klas			60	ředitel Základní umělecké školy Hlinsko	Lhoty	99	80	A	M
 5301	572535	1	2	1	2	Lenka	Hájková			41	kuchařka	Vrbatův Kostelec	99	1	A	F
 5301	572551	1	2	901	2	Zdeněk	Dubský			55	podnikatel	Možděnice	99	80	A	M
 5301	572578	1	2	901	2	Lenka	Štefanová	MUDr.		47	lékařka	Zaječice	99	80	A	F
@@ -1973,7 +1973,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5301	572179	1	1	901	10	Michal	Hornýš	Ing.		68	důchodce	Rosice	99	80	A	M
 5301	572225	1	1	901	10	Tomáš	Trojan			34	technik	Počátky	99	80	A	M
 5301	572241	1	1	902	10	Jiří Marek	Beneš			48	obchodní manažer	Hněvětice	99	80	A	M
-5301	572268	1	1	179	10	Matěj	Kozák	Mgr.		27	student historie	Slatiňany	99	179	A	M
+5301	572268	1	1	179	10	Matěj	Kozák	Mgr.		27	student historie	Trpišov	99	179	A	M
 5301	572276	1	1	901	10	Tereza	Čermáková	Bc.		33	asistent pedagoga, fotograf	Vrcha	99	80	A	F
 5301	572411	1	1	903	10	Lenka	Ventluková			34	manikérka a nehtová designérka	Třemošnice	99	80	A	F
 5301	572578	1	1	532	10	Dušan	Pejcha			44	mechanik vojenské techniky	Zaječice	99	80	A	M
@@ -2092,7 +2092,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5301	571385	1	3	1	11	Jiří	Kabát		MMus.	38	ředitel ZUŠ, hudebník	Heřmanův Městec	1	1	A	M
 5301	571393	1	3	470	11	Jakub	Kyncl			22	student	Blatno	99	80	A	M
 5301	571491	1	3	1	11	Marie	Hoskovcová			64	dámská krejčová	Hrochův Týnec	1	1	A	F
-5301	571539	1	3	720	11	Miroslav	Fořt			44	technický manager	Chrast	99	720	A	
+5301	571539	1	3	720	11	Miroslav	Fořt			44	technický manager	Chrast	99	720	A	M
 5301	571661	1	3	1	11	Aneta	Filipiová			21	studentka	Krouna	99	1	A	F
 5301	571776	1	3	470	11	Michal	Millich			39	řidič	Srbce	99	80	A	M
 5301	571831	1	3	902	11	Jaroslav	Chour			41	logistik	Miřetice	99	80	A	M
@@ -2423,7 +2423,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5301	571539	1	4	902	15	Michaela	Holická	Mgr.		32	personalistka	Chrast	99	80	A	F
 5301	571661	1	4	901	15	Lenka	Frídlová			51	vedoucí odboru kultury a školství MěÚ Skuteč	Krouna	99	80	A	F
 5301	571776	1	4	181	15	Vladimír	Novák			67	řezník	Luže	99	181	A	M
-5301	571911	1	4	901	15	Martin	Bartoš			54	vedoucí prodejny	Nasavrky	99	80	A	
+5301	571911	1	4	901	15	Martin	Bartoš			54	vedoucí prodejny	Nasavrky	99	80	A	M
 5301	572241	1	4	47	15	František	Bureš			67	důchodce	Skuteč	47	47	A	M
 5301	572268	1	4	1114	15	Antonín	Vašák			76	technik	Slatiňany	99	1114	A	M
 5301	572411	1	4	129	15	Kamil	Handlíř			47	živnostník	Třemošnice	99	129	A	M

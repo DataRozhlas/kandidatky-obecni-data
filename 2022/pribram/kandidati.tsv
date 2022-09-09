@@ -172,7 +172,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	541044	1	2	166	1	Petr	Jüngling			34	živnostník	Petrovice	166	166	A	M
 2111	541133	1	2	803	1	Vladimír	Krejčí			60	vedoucí výroby	Prosenická Lhota	99	80	A	M
 2111	541206	1	2	47	1	Luboš	Kovač			60	bagrista	Rosovice	47	47	A	M
-2111	541231	1	2	901	1	Milan	Pojer			49	rybář	Starý Rožmitál p. Tř.	99	80	A	M
+2111	541231	1	2	901	1	Milan	Pojer			49	rybář	Starý Rožmitál	99	80	A	M
 2111	541281	1	2	901	1	Petr	Jindrák			48	podnikatel	Sedlčany	99	80	A	M
 2111	541311	1	2	902	1	Miroslav	Mařík			66	mistr údržby	Smolotely	99	80	A	M
 2111	541338	1	2	53	1	Miloš	Červenka	Bc.	MRICS	40	podnikatel	Stará Huť	53	53	A	M
@@ -198,7 +198,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	564605	1	2	806	1	Martin	Novotný			24	student	Hlubyně	99	80	A	M
 2111	564630	1	2	808	1	Jiří	Pislcajk			46	řidič	Sedlice	99	80	A	M
 2111	564664	1	2	805	1	Vratislav	Šrajer	Bc.	DiS.	40	realizační technik	Sedlečko	99	80	A	M
-2111	598330	1	2	801	1	Miroslav	Suchý			49	předseda správní rady Nadačního fondu Vánoce v červnu	Tušovice	99	80	A	
+2111	598330	1	2	801	1	Miroslav	Suchý			49	předseda správní rady Nadačního fondu Vánoce v červnu	Tušovice	99	80	A	M
 2111	598381	1	2	902	1	Jaroslav	Kuba			54	programátor PLC	Dubenec	99	80	A	M
 2111	598402	1	2	805	1	Martin	Steinbach			53	technik	Háje	99	80	A	M
 2111	598411	1	2	901	1	David	Hnízdil	Bc.		33	technický ředitel	Lhota u Příbramě	99	80	A	M
@@ -220,7 +220,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	539970	1	3	804	1	Lucie	Špínová			43	finanční controlor	Dražetice	99	80	A	F
 2111	540013	1	3	47	1	Josef	Ovsík			56	osoba výdělečně činná	Březnice	99	47	A	M
 2111	540072	1	3	807	1	Jiří	Firýt			48	seřizovač	Čenkov	99	80	A	M
-2111	540099	1	3	808	1	Radka	Mlýnková	Ing.		54	učitelka na střední škole	Daleké Dušníky	99	80	A	
+2111	540099	1	3	808	1	Radka	Mlýnková	Ing.		54	učitelka na střední škole	Daleké Dušníky	99	80	A	F
 2111	540111	1	3	389	1	Pavel	Svoboda	Ing.		52	starosta	Dobříš	99	80	A	M
 2111	540145	1	3	902	1	Václav	Scherfer			42	OSVČ - podnikatel	Drahlín	99	80	A	M
 2111	540170	1	3	807	1	Petra	Vodenková			43	prodavačka	Drevníky	99	80	A	F
@@ -305,7 +305,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	564338	1	4	810	1	Petr	Burian			25	rehabilitační pracovník	Županovice	99	80	A	M
 2111	564389	1	4	803	1	Josef	Bálek			71	důchodce	Radětice	99	80	A	M
 2111	564486	1	4	903	1	Milan	Kolařík			50	obráběč kovů	Podlesí	99	80	A	M
-2111	564583	1	4	804	1	Jiří	Luhan	Ing.		49	mechanizátor	Starosedlský Hrádek	99	80	A	
+2111	564583	1	4	804	1	Jiří	Luhan	Ing.		49	mechanizátor	Starosedlský Hrádek	99	80	A	M
 2111	564605	1	4	804	1	Lucie	Kardosová	Ing.		30	projektant	Hlubyně	99	80	A	F
 2111	564630	1	4	803	1	Josef	Málek			54	dělník	Sedlice	99	80	A	M
 2111	564664	1	4	803	1	Jiří	Macoun			56	řezník - uzenář	Bukovany	99	80	A	M
@@ -321,10 +321,10 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	529672	1	5	810	1	Radka	Linhová			49	logistik dopravy	Bezděkov pod Třemšínem	99	80	A	F
 2111	529681	1	5	801	1	Klára	Pešková			36	ošetřovatelka skotu	Koupě	99	80	A	F
 2111	539911	1	5	53	1	Miroslav	Peterka			53	OSVČ	Příbram VIII	53	53	A	M
-2111	539970	1	5	806	1	Martina	Patriková	Mgr.		30	speciální pedagog	Dražetice	99	80	A	
+2111	539970	1	5	806	1	Martina	Patriková	Mgr.		30	speciální pedagog	Dražetice	99	80	A	F
 2111	540072	1	5	808	1	Václav	Komínek	Ing.		72	důchodce	Čenkov	99	80	A	M
 2111	540099	1	5	802	1	Pavla	Kadlecová			29	rodičovská dovolená	Daleké Dušníky	99	80	A	F
-2111	540111	1	5	166	1	Jindřiška	Romba	Mgr.	MPA.	40	právník odboru školství	Dobříš	166	166	A	
+2111	540111	1	5	166	1	Jindřiška	Romba	Mgr.	MPA	40	právník odboru školství	Dobříš	166	166	A	F
 2111	540170	1	5	802	1	Ladislav	Hrabík			71	starobní důchodce	Drevníky	99	80	A	M
 2111	540374	1	5	812	1	Oldřich	Skuhrovec			66	důchodce	Jablonná	99	80	A	M
 2111	540391	1	5	806	1	Jiří	Kožmín			58	automechanik	Jesenice	99	80	A	M
@@ -374,7 +374,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	541206	1	6	905	1	Jan	Gregorek			55	starosta obce	Rosovice	99	80	A	M
 2111	541231	1	6	7	1	Pavel	Bártl	Mgr.		60	ředitel školy	Rožmitál pod Třemšínem	7	7	A	M
 2111	541371	1	6	803	1	Emil	Tabaček			65	starosta	Suchodol	99	80	A	M
-2111	564249	1	6	804	1	Eva	Zvěřinová	RNDr.		48	obchodní zástupkyně	Lisovice	99	80	A	
+2111	564249	1	6	804	1	Eva	Zvěřinová	RNDr.		48	obchodní zástupkyně	Lisovice	99	80	A	F
 2111	564338	1	6	806	1	Petr	Dušek			54	OSVČ	Županovice	99	80	A	M
 2111	564389	1	6	807	1	Václav	Sklenář			57	nástrojař	Radětice	99	80	A	M
 2111	564605	1	6	807	1	Lucie	Karasová	Mgr.		54	učitelka	Hlubyně	99	80	A	F
@@ -430,7 +430,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	540897	1	8	806	1	Jiří	Hrbek			65	důchodce	Porostliny	99	80	A	M
 2111	540943	1	8	801	1	Ivana	Lundáková	Ing.		57	technik	Obory	99	80	A	F
 2111	541010	1	8	809	1	Jiří	Vrábík			57	OSVČ	Ouběnice	99	80	A	M
-2111	541206	1	8	904	1	Milan	Rampa			57	instalatér	Rosovice	99	80	A	M
+2111	541206	1	8	904	1	Milan	Rampa			57	instalatér, topenář	Rosovice	99	80	A	M
 2111	541371	1	8	804	1	Petra	Bláhová			47	fakturantka	Suchodol	99	80	A	F
 2111	564249	1	8	810	1	Martin	Kačena			30	skladník	Oslí	99	80	A	M
 2111	564338	1	8	801	1	Lucie	Velebilová			21	klientský poradce	Županovice	99	80	A	F
@@ -473,7 +473,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	540579	1	10	811	1	Alena	Kramešová Křížková			48	OSVČ	Křepenice	99	80	A	F
 2111	540897	1	10	801	1	Hana	Vandasová			32	OSVČ	Nové Dvory	99	80	A	F
 2111	540943	1	10	805	1	Martin	Plavec			53	vedoucí prodeje	Obory	99	80	A	M
-2111	564249	1	10	816	1	Ivana	Kučerová	Mgr.		69	důchodce	Lisovice	99	80	A	
+2111	564249	1	10	816	1	Ivana	Kučerová	Mgr.		69	důchodce	Lisovice	99	80	A	F
 2111	564338	1	10	809	1	Jiří	Dušek			60	OSVČ	Županovice	99	80	A	M
 2111	564605	1	10	803	1	Pavel	Novotný			58	truhlář	Hlubyně	99	80	A	M
 2111	564630	1	10	810	1	Jiří	Čech			42	projektant	Sedlice	99	80	A	M
@@ -575,7 +575,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	541311	1	1	901	2	Alena	Mikula Žáková			39	analytik	Smolotely	99	80	A	F
 2111	541320	1	1	901	2	Lukáš	Kornfeld			33	obchodní manažer/starosta	Solenice	721	80	A	M
 2111	541338	1	1	901	2	Marie	Guillenová			50	místostarostka	Stará Huť	99	80	A	F
-2111	541389	1	1	901	2	Petr	Kozohorský	Mgr.		39	fyzioterapeut	Svaté Pole	99	80	A	
+2111	541389	1	1	901	2	Petr	Kozohorský	Mgr.		39	fyzioterapeut	Svaté Pole	99	80	A	M
 2111	541397	1	1	901	2	Veronika	Kytýrová	Bc.		38	zdravotní sestra	Hrachov	99	80	A	F
 2111	541419	1	1	901	2	Karel	Fiksl			59	pracovník elektroúdržby	Chrastava	99	80	A	M
 2111	541427	1	1	902	2	Dalibor	Kubát			64	strojník	Tochovice	99	80	A	M
@@ -683,7 +683,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	540781	1	3	903	2	Pavla	Bílková			52	průvodkyně, knihovnice a správce webu	Mokrovraty	99	80	A	F
 2111	540846	1	3	470	2	Michal	Kolín			29	zemědělec	Březí	99	166	A	M
 2111	540889	1	3	902	2	Jana	Korbová	Mgr.		37	pedagog	Nová Ves pod Pleší	99	80	A	F
-2111	540901	1	3	53	2	Petra	Moravcová			52	personalistka skupiny Domov Alzheimer	Sudovice	99	53	A	F
+2111	540901	1	3	53	2	Petra	Moravcová			52	personalista skupiny Domov Alzheimer	Sudovice	99	53	A	F
 2111	540951	1	3	902	2	Jiří	Purkart	Mgr.		54	ředitel správy	Obořiště	99	80	A	M
 2111	541044	1	3	1	2	Petr	Čihák		MBA	49	vedoucí technologie	Ohrada	99	1	A	M
 2111	541206	1	3	901	2	Lukáš	Kordule	Ing.		31	podnikatel	Rosovice	99	80	A	M
@@ -736,7 +736,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	539911	1	10	1435	2	Dagmar	Říhová	JUDr.		69	advokátka	Příbram V - Zdaboř	99	80	A	F
 2111	539911	1	11	47	2	Patrik	Švarc			25	elektrotechnik	Příbram VIII	47	47	A	M
 2111	539911	1	12	156	2	František	Hrubý			65	elektrikář	Příbram VIII	99	156	A	M
-2111	540897	1	12	901	2	Zdeněk	Pilecký			53	OSVČ	Buš	99	80	A	M
+2111	540897	1	12	901	2	Zdeněk	Pilecký			53	OSVČ	Nové Dvory	99	80	A	M
 2111	513521	1	1	901	3	Pavla	Vitišová	Bc.		34	učitelka MŠ	Lešetice	99	80	A	F
 2111	513539	1	1	902	3	Jana	Vacková	Bc.		46	koordinátor správy zeleně	Velká Lečice	99	80	A	F
 2111	513555	1	1	902	3	Radomíra Diana	Nosálová			54	OSVČ	Kotenčice	99	80	A	F
@@ -955,7 +955,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	539911	1	12	156	3	Vilém	Dlouhý			76	důchodce - horník UD	Příbram VII	99	156	A	M
 2111	540897	1	12	901	3	Josef	Weigl	JUDr.		45	advokát	Nové Dvory	99	80	A	M
 2111	513521	1	1	901	4	David	Bartoš			44	dělník	Lešetice	99	80	A	M
-2111	513539	1	1	902	4	Štěpán	Kouklík		DiS.	47	lesník	Velká Lečice	99	80	A	
+2111	513539	1	1	902	4	Štěpán	Kouklík		DiS.	47	lesník	Velká Lečice	99	80	A	M
 2111	513555	1	1	902	4	Jaroslava	Trnková			46	referent majetkové správy	Kotenčice	99	80	A	F
 2111	513571	1	1	902	4	Jan	Kramný	Ing.		38	obchodně technický poradce	Občov	99	80	A	M
 2111	529664	1	1	7	4	David	Grunthal			51	lékař	Těchařovice	7	7	A	M
@@ -1008,7 +1008,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	541311	1	1	901	4	Jiří	Rotter			49	říční dozor	Smolotely	99	80	A	M
 2111	541320	1	1	901	4	Gabriela	Dvořáková			45	učitelka MŠ	Solenice	99	80	A	F
 2111	541338	1	1	901	4	Petr	Trojan			71	státní zaměstnanec	Stará Huť	99	80	A	M
-2111	541389	1	1	901	4	Martina	Kujanová	RNDr.	PhD.	42	bioložka	Svaté Pole	99	80	A	
+2111	541389	1	1	901	4	Martina	Kujanová	RNDr.	PhD.	42	bioložka	Svaté Pole	99	80	A	F
 2111	541397	1	1	901	4	Zdeňka	Němcová			47	záchranář	Hojšín	99	80	A	F
 2111	541419	1	1	901	4	Zuzana	Süsserová	Ing.		55	podnikatel	Štětkovice	99	80	A	F
 2111	541427	1	1	902	4	Jiří	Jarolímek			59	skladník	Hořejany	99	80	A	M
@@ -1029,7 +1029,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	564362	1	1	901	4	Ondřej	Janoušek	Ing.		28	vedoucí stavby	Vrančice	99	80	A	M
 2111	564419	1	1	901	4	Pavel	Eis			61	důchodce	Cetyně	99	80	A	M
 2111	564478	1	1	902	4	Miroslav	Dubský			65	důchodce	Narysov	99	80	A	M
-2111	564486	1	1	901	4	Michaela	Fousouvá			45	státní úředník	Podlesí	99	80	A	F
+2111	564486	1	1	901	4	Michaela	Fousová			45	státní úředník	Podlesí	99	80	A	F
 2111	564508	1	1	902	4	Tomáš	Čermák			39	provozní technik	Dubno	99	80	A	M
 2111	564524	1	1	902	4	Michaela	Beranová			32	mateřská dovolená	Nepomuk	99	80	A	F
 2111	564559	1	1	901	4	David	Bruna			36	servisní mechanik	Bohostice	99	80	A	M
@@ -1096,7 +1096,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	598381	1	2	902	4	Ivo	Kašpar			40	obchodní zástupce	Dubenec	99	80	A	M
 2111	598411	1	2	901	4	Vladimír	Vyšín			32	OSVČ	Lhota u Příbramě	99	80	A	M
 2111	598429	1	2	47	4	Miroslav	Pokorný			57	invalidní důchodce	Trhové Dušníky	99	47	A	M
-2111	599204	1	2	902	4	Alžběta	Koldovská			42	OSVČ	Korkyně	99	80	A	
+2111	599204	1	2	902	4	Alžběta	Koldovská			42	OSVČ	Korkyně	99	80	A	F
 2111	513580	1	3	902	4	Zdeněk	Svoboda	Ing.		39	ekonom	Hudčice	99	80	A	M
 2111	530573	1	3	470	4	Tomáš	Pištěk	Ing.		34	agronom	Prčice	99	166	A	M
 2111	539911	1	3	720	4	Antonín	Svoboda		DiS.	31	IT specialista	Lisovice	720	720	A	M
@@ -1390,7 +1390,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	539911	1	1	768	6	Milan	Hrudka			59	OSVČ	Příbram VII	768	768	A	M
 2111	539953	1	1	901	6	Josef	Bělský			63	strojník	Havírna	99	80	A	M
 2111	539988	1	1	901	6	Martin	Zítek			52	produktový manažer	Dominikální Paseky	99	80	A	M
-2111	540013	1	1	355	6	Lucie	Zemková		DiS.	41	vedoucí nákupu v s.r.o.	Dobrá Voda	99	80	A	
+2111	540013	1	1	355	6	Lucie	Zemková		DiS.	41	vedoucí nákupu v s.r.o.	Dobrá Voda	99	80	A	F
 2111	540021	1	1	901	6	Svatopluk	Lád			48	ekonom	Buková u Příbramě	99	80	A	M
 2111	540081	1	1	901	6	Gabriela	Casková	Bc.		39	státní zaměstnanec	Čím	99	80	A	F
 2111	540111	1	1	355	6	Irena	Bláhová			54	pastorační referentka/kadeřnice	Dobříš	1	1	A	F
@@ -1473,7 +1473,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	539911	1	2	1114	6	Monika	Petrová	Ing.	Ph.D.	34	referent příjmu žádostí a LPIS	Příbram II	1114	1114	A	F
 2111	540013	1	2	470	6	Jiří	Nepivoda	Ing.		58	středoškolský učitel	Březnice	99	80	A	M
 2111	540111	1	2	768	6	Eva	Burešová	Mgr.		51	ředitelka školy	Dobříš	99	768	A	F
-2111	540145	1	2	901	6	Vladislav	Šrámek			69	důchodce	Drahlín	99	80	A	M
+2111	540145	1	2	901	6	Ladislav	Šrámek			69	důchodce	Drahlín	99	80	A	M
 2111	540153	1	2	902	6	Eva	Kuntová			51	zubní technik	Drásov	99	80	A	F
 2111	540188	1	2	901	6	Josef	Routa			30	řidič	Drhovy	99	80	A	M
 2111	540218	1	2	901	6	Marek	Tatek			47	OSVČ	Dublovice	99	80	A	M
@@ -1484,7 +1484,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	540404	1	2	47	6	Miroslav	Sedlák			70	důchodce	Jince	99	47	A	M
 2111	540439	1	2	903	6	Miroslav	Chýle			47	jednatel společnosti	Kamýk nad Vltavou	99	80	A	M
 2111	540447	1	2	902	6	Tomáš	Kyselý	Ing.		26	IT byznys konzultant	Klučenice	99	80	A	M
-2111	540498	1	2	901	6	Ladislav	Sůva			55	skladník	Kosova Hora	99	80	A	
+2111	540498	1	2	901	6	Ladislav	Sůva			55	skladník	Kosova Hora	99	80	A	M
 2111	540536	1	2	902	6	Lenka	Skalová			44	fyzioterapeut	Kozárovice	99	80	A	F
 2111	540552	1	2	901	6	Richard	Triner			37	řidič kamionu	Krásná Hora nad Vltavou	99	80	A	M
 2111	540714	1	2	904	6	Petr	Kardinál	Ing.	DiS.	44	kriminalista	Velká Hraštice	99	80	A	M
@@ -1573,7 +1573,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	564486	1	5	905	6	Michal	Sokol			44	OSVČ	Podlesí	99	80	A	M
 2111	598411	1	5	905	6	Anna	Pavlásková			34	mateřská dovolená	Lhota u Příbramě	99	80	A	F
 2111	539911	1	6	355	6	Zdeněk	Havrančík			53	řemeslník, OSVČ	Příbram VII	99	1	A	M
-2111	540111	1	6	1627	6	Karel	Vítek	Ing.		70	akredit. poradce Min. Zemědělství	Dobříš	99	80	A	M
+2111	540111	1	6	1627	6	Karel	Vítek	Ing.		70	akreditovaný poradce Ministerstva zemědělství	Dobříš	99	80	A	M
 2111	541206	1	6	905	6	Josef	Havránek			53	zaměstnanec obce	Rosovice	99	80	A	M
 2111	541231	1	6	7	6	Jiřina	Rabochová			63	vychovatelka	Rožmitál pod Třemšínem	99	7	A	F
 2111	539911	1	7	1522	6	Jan	Cikler	Ing. Mgr.		59	produktový manažer	Příbram II	721	721	A	M
@@ -1581,7 +1581,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	541206	1	7	903	6	Ondřej	Krákora			28	servisní technik	Rosovice	99	80	A	M
 2111	539911	1	8	1624	6	Vladimír	Srnka			65	podnikatel	Příbram VI - Březové Hory	99	80	A	M
 2111	541206	1	8	904	6	Miroslav	Lojín			64	důchodce	Rosovice	99	80	A	M
-2111	539911	1	9	457	6	Martina	Fúsiková	Bc.		33	IT specialista	Příbram III	99	181	A	F
+2111	539911	1	9	457	6	Martina	Fúsiková	Bc.		33	IT specialistka	Příbram III	99	181	A	F
 2111	539911	1	10	1435	6	Petr	Magera	ing.		56	projektový manažer	Kozičín	99	80	A	M
 2111	539911	1	11	47	6	Simona	Pospíšilová			42	ředitelka charitativní organizace	Příbram III	47	47	A	F
 2111	539911	1	12	156	6	Vladimír	Gryghar			58	dělník	Příbram VII	99	156	A	M
@@ -1796,7 +1796,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	540404	1	1	901	8	Gabriela	Sklenářová	Mgr.		50	učitelka	Jince	99	80	A	F
 2111	540439	1	1	901	8	Richard	Pešek			55	zámečník	Kamýk nad Vltavou	99	80	A	M
 2111	540447	1	1	1	8	Luboš	Řezník	Ing.		30	obchodní zástupce	Klučenice	99	1	A	M
-2111	540498	1	1	470	8	Ondřej	Sejkora	Ing.		37	vedoucí oddělení SFŽP ČR Kosova Hora	Kosova Hora	99	166	A	M
+2111	540498	1	1	470	8	Ondřej	Sejkora	Ing.		37	vedoucí oddělení SFŽP ČR	Dohnalova Lhota	99	166	A	M
 2111	540536	1	1	901	8	Alexandr	Hlavín			69	důchodce	Kozárovice	99	80	A	M
 2111	540552	1	1	903	8	Rostislav	Beneš			49	OSVČ	Krásná Hora nad Vltavou	99	80	A	M
 2111	540714	1	1	902	8	Lukáš	Kraif			26	strojník	Malá Hraštice	99	80	A	M
@@ -1812,7 +1812,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	540960	1	1	901	8	Lenka	Vejrová			43	vedoucí logistiky	Ohrazenice	99	80	A	F
 2111	541028	1	1	901	8	Martin	Kroupa			21	automechanik	Pečice	99	80	A	M
 2111	541044	1	1	901	8	Petr	Štěpánek			24	elektrikář	Petrovice	99	80	A	M
-2111	541052	1	1	901	8	Barbora	Burešová	Ing.		33	státní zaměstnanec	Pičín	99	80	A	F
+2111	541052	1	1	901	8	Barbora	Burešová	Ing.		35	státní zaměstnanec	Pičín	99	80	A	F
 2111	541087	1	1	901	8	Lucie	Martínková	Bc.		23	studentka ekonomie	Rovina	99	80	A	F
 2111	541206	1	1	906	8	David	Hlaváček			36	řezník	Rosovice	99	80	A	M
 2111	541231	1	1	470	8	Karel	Trefný			43	jednatel společnosti	Rožmitál pod Třemšínem	99	80	A	M
@@ -1945,7 +1945,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	539911	1	8	1624	8	Tomáš	Wágner			32	profesionální sportovec	Příbram VII	99	80	A	M
 2111	541206	1	8	904	8	Jaroslav	Kilián			54	elektrikář	Rosovice	99	80	A	M
 2111	539911	1	9	457	8	Martina	Nuslová		BBA.	34	manažerka mobility	Příbram II	99	181	A	F
-2111	539911	1	10	1435	8	Karel	Nekolný		Bbus(Hons)	46	datový analytik	Příbram IX	99	80	A	M
+2111	539911	1	10	1435	8	Karel	Nekolný		BBus(Hons)	46	datový analytik	Příbram IX	99	80	A	M
 2111	539911	1	11	47	8	Jan	Suchánek			48	řidič	Příbram V - Zdaboř	47	47	A	M
 2111	539911	1	12	156	8	Radko	Vávra			68	důchodce - armovač	Příbram VII	99	156	A	M
 2111	540897	1	12	901	8	Jiří	Klouda			55	mistr výroby	Nové Dvory	99	80	A	M
@@ -1955,7 +1955,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	539953	1	1	901	9	Pavlína	Bambasová	Mgr.		46	státní zaměstnanec	Vysoká Pec	99	80	A	F
 2111	539988	1	1	901	9	Ilona	Plecitá	Mgr.		49	zdravotní sestra JIP	Dominikální Paseky	99	80	A	F
 2111	540013	1	1	355	9	Dušan	Štika	Mgr.		50	učitel ZŠ	Březnice	99	80	A	M
-2111	540021	1	1	901	9	Irena	Skripová			46	asistentka	Buková u Příbramě	99	80	A	F
+2111	540021	1	1	901	9	Ilona	Skripová			46	asistentka	Buková u Příbramě	99	80	A	F
 2111	540081	1	1	901	9	Kamil	Vild			37	zaměstnanec	Čím	99	80	A	M
 2111	540111	1	1	355	9	Andrej	Prno		MSc.	46	ředitel správy majetku	Dobříš	99	1	A	M
 2111	540129	1	1	901	9	Jiří	Žák			43	elektrikář	Jelence	99	80	A	M
@@ -2016,7 +2016,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	539911	1	2	1114	9	Karel	Kousek			44	logistika	Příbram VII	1114	1114	A	M
 2111	540013	1	2	470	9	Jana	Krajmerová			69	učitelka na penzi	Březnice	99	80	A	F
 2111	540111	1	2	768	9	Vladimír	Svoboda	PhDr.		67	soudní znalec	Dobříš	99	768	A	M
-2111	540145	1	2	901	9	Josef	Lebeda	Bc.		61	technik	Drahlín	99	80	A	M
+2111	540145	1	2	901	9	Josef	Lebeda			61	technik	Drahlín	99	80	A	M
 2111	540153	1	2	902	9	Lenka	Hotová			56	matrikářka	Drásov	99	80	A	F
 2111	540188	1	2	901	9	Roman	Pudil	Ing.		47	elektrotechnik	Drhovy	99	80	A	M
 2111	540218	1	2	901	9	Tereza	Kalašová		DiS.	31	administrativní pracovník	Dublovice	99	80	A	F
@@ -2095,9 +2095,9 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	541206	1	5	902	9	Jan	Kleindienst			26	instalatér	Rosovice	99	80	A	M
 2111	541231	1	5	1508	9	David	Pánek		Dis.	43	sales manager	Rožmitál pod Třemšínem	99	80	A	M
 2111	564486	1	5	905	9	Miroslav	Chmel			46	zaměstnanec městské policie	Podlesí	99	80	A	M
-2111	539911	1	6	355	9	Jana	Suková	Mgr.		82	středočeská učitelka	Příbram V - Zdaboř	1	1	A	F
+2111	539911	1	6	355	9	Jana	Suková	Mgr.		82	středoškolská učitelka	Příbram V - Zdaboř	1	1	A	F
 2111	540111	1	6	1627	9	Markéta	Kolačná			50	OSVČ	Dobříš	99	80	A	F
-2111	541206	1	6	905	9	Simona	Štofírová			51	živnostník	Rosovice	99	80	A	
+2111	541206	1	6	905	9	Simona	Štofírová			51	živnostník	Rosovice	99	80	A	F
 2111	541231	1	6	7	9	Václav	Šedivý			60	obchodní zástupce	Strýčkovy	99	7	A	M
 2111	539911	1	7	1522	9	Jan	Mára	Ing.		56	ekonom	Příbram V - Zdaboř	99	721	A	M
 2111	540111	1	7	1257	9	Lucie	Houbová			31	státní zaměstnanec	Dobříš	99	1257	A	F
@@ -2185,7 +2185,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	540111	1	7	1257	10	Roman	Zíbr			54	živnostník	Dobříš	99	1257	A	M
 2111	539911	1	8	1624	10	Dagmar	Vaňousová Pešková			57	ošetřovatelka v sociálních službách	Příbram III	99	80	A	F
 2111	539911	1	9	457	10	Jana	Fedorová	Ing.		27	učitelka na základní škole	Příbram V-Zdaboř	99	181	A	F
-2111	539911	1	10	1435	10	Viktor	Stejskal			29	technik	Příbram III	99	55	A	M
+2111	539911	1	10	1435	10	Viktor	Stejskal			29	technik	Příbram III	99	80	A	M
 2111	539911	1	11	47	10	Jarmila	Potůčková	Mgr.		70	učitelka	Příbram VIII	47	47	A	F
 2111	539911	1	12	156	10	Jaromír	Zikmund			66	důchodce - lakýrník	Příbram VIII	99	156	A	M
 2111	530573	1	1	371	11	František	Hrma			61	řidič	Jetřichovice	7	7	A	M
@@ -2285,7 +2285,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	540439	1	2	903	12	Michal	Dědina			42	specialista testování	Kamýk nad Vltavou	99	80	A	M
 2111	540498	1	2	901	12	Petra	Skálová			39	účetní	Kosova Hora	99	80	A	F
 2111	540552	1	2	901	12	Lucie	Příhodová			36	mateřská dovolená	Krásná Hora nad Vltavou	99	80	A	F
-2111	540757	1	2	901	12	Ken Mark	Natana			26	logistik	Milín	99	80	A	M
+2111	540757	1	2	901	12	Ken-Mark	Natana			26	logistik	Milín	99	80	A	M
 2111	540901	1	2	901	12	David	Patera			21	elektromechanik	Nový Knín	99	80	A	M
 2111	540935	1	2	901	12	Tomáš	Šilhan			44	zaměstnanec MŽÚ	Oseč	99	80	A	M
 2111	541044	1	2	166	12	Miroslav	Kudrna			64	živnostník	Petrovice	99	166	A	M
@@ -2298,7 +2298,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	540404	1	3	903	12	Michal	Tichý			29	pracovník zákaznického centra	Jince	99	80	A	M
 2111	540439	1	3	902	12	Hana	Viskupová			64	vychovatelka	Kamýk nad Vltavou	99	80	A	F
 2111	540552	1	3	902	12	Eva	Bartošová			45	přechodná pěstounka	Krásná Hora nad Vltavou	99	80	A	F
-2111	540757	1	3	355	12	Karel	Džbánek			66	důchodce	Milín	99	80	A	M
+2111	540757	1	3	355	12	Karel	Žbánek			66	důchodce	Milín	99	80	A	M
 2111	540901	1	3	53	12	Jana	Patová			57	podnikatel	Nový Knín	99	53	A	F
 2111	541044	1	3	1	12	Jana	Křížová			65	důchodce	Kojetín	1	1	A	F
 2111	541231	1	3	902	12	Luboš	Havlena	Ing.		54	ředitel správy a obchodu	Rožmitál pod Třemšínem	99	80	A	M
@@ -2415,7 +2415,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	541231	1	2	901	14	Milan	Málek			72	důchodce	Rožmitál pod Třemšínem	99	80	A	M
 2111	541281	1	2	901	14	Radek	Valsa			45	podnikatel	Sedlčany	99	80	A	M
 2111	530573	1	3	470	14	Josef	Sládek			71	důchodce	Sedlec	99	166	A	M
-2111	539911	1	3	720	14	Hana	Alberchtová			20	studentka	Příbram II	99	720	A	F
+2111	539911	1	3	720	14	Hana	Albrechtová			20	studentka	Příbram II	99	720	A	F
 2111	540013	1	3	47	14	Jaroslav	Hofman			82	důchodce	Březnice	99	47	A	M
 2111	540111	1	3	389	14	Dana	Melšová		DiS.	40	fyzioterapeut, OSVČ	Dobříš	99	80	A	F
 2111	540404	1	3	903	14	Petra	Synková			50	pracovnice ostrahy	Jince	99	80	A	F
@@ -2498,15 +2498,15 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	540111	1	5	166	15	Miroslav	Brajer			52	bankovní poradce, Projektové a exportní financování	Dobříš	99	166	A	M
 2111	540404	1	5	904	15	Patricie	Hoffmannová	MUDr.		39	lékařka	Jince	99	80	A	F
 2111	540901	1	5	904	15	Miroslav	Konopásek			70	mechanik	Sudovice	99	80	A	M
-2111	541231	1	5	1508	15	Hubert	Hoyer			73	regenschori a učitel ZUŠ	Rožmitál pod Třemšínem	53	53	A	M
-2111	539911	1	6	355	15	Jiří	Kučera			36	dispečer	Příbram I	99	1	A	
+2111	541231	1	5	1508	15	Hubert	Hoyer			73	regenschori, ekonom ZUŠ	Rožmitál pod Třemšínem	53	53	A	M
+2111	539911	1	6	355	15	Jiří	Kučera			36	dispečer	Příbram I	99	1	A	M
 2111	540111	1	6	1627	15	Milan	Pjaták			59	OSVČ	Dobříš	99	80	A	M
 2111	541231	1	6	7	15	Ladislav	Velek			65	důchodce	Rožmitál pod Třemšínem	99	7	A	M
 2111	539911	1	7	1522	15	Markéta	Klemšová	Ing.		52	učitelka	Příbram V - Zdaboř	99	721	A	F
 2111	540111	1	7	1257	15	Petr	Smižík			34	pracovník v gastronomii	Dobříš	99	1257	A	M
 2111	539911	1	8	1624	15	Roman	Vorel			54	řidič kontejnerové dopravy	Příbram II	99	80	A	M
 2111	539911	1	9	457	15	Markéta	Bambasová	Mgr.		39	učitelka na střední škole	Příbram IV	99	181	A	F
-2111	539911	1	10	1435	15	Eugen	Revai			62	zdravotnický pracovník	Příbram I	99	80	A	M
+2111	539911	1	10	1435	15	Eugen	Révai			62	zdravotnický pracovník	Příbram I	99	80	A	M
 2111	539911	1	11	47	15	Jaroslava	Šilhavá			68	důchodce	Příbram V - Zdaboř	47	47	A	F
 2111	539911	1	1	768	16	Pavla	Riegelová	Mgr.		55	odborný rada	Příbram VII	99	768	A	F
 2111	540111	1	1	355	16	Jana	Salcmanová	Ing.		58	pracovnice v sociálních službách	Dobříš	1	1	A	F
@@ -2522,7 +2522,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	541281	1	4	1	16	Hynek	Chlumecký			34	plavčík, saunér	Sedlčany	99	1	A	M
 2111	539911	1	5	53	16	Václav	Antonín			66	optik - optometrista	Příbram II	53	53	A	M
 2111	540111	1	5	166	16	Milan	Havlíček			46	podnikatel v autodopravě	Dobříš	99	166	A	M
-2111	539911	1	6	355	16	Vladimír	Kříž	PaedDr.		78	vysokoškolský pedagog	Příbram VII	99	1	A	
+2111	539911	1	6	355	16	Vladimír	Kříž	PaedDr.		78	vysokoškolský pedagog	Příbram VII	99	1	A	M
 2111	540111	1	6	1627	16	Čeněk	Brabec			57	OSVČ	Dobříš	99	80	A	M
 2111	539911	1	7	1522	16	Jan	Schneider			25	právní asistent	Příbram VIII	721	721	A	M
 2111	540111	1	7	1257	16	Nicollete	Suchanová			20	student	Dobříš	99	1257	A	F
@@ -2627,7 +2627,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2111	540111	1	3	389	21	Klára	Černá	Ing.		32	projektová manažerka	Dobříš	99	80	A	F
 2111	541281	1	3	902	21	Barbora	Matulová	MUDr.		42	lékařka	Sedlčany	99	80	A	F
 2111	539911	1	4	371	21	Jiří	Míka			69	důchodce	Příbram VI - Březové Hory	99	80	A	M
-2111	540111	1	4	88	21	Tomáš	Vágner	Bc.		27	software developer	Dobříš	99	88	A	M
+2111	540111	1	4	88	21	Tomáš	Vágner	Bc.		29	software developer	Dobříš	99	88	A	M
 2111	541281	1	4	1	21	Josef	Kopka			77	důchodce	Sedlčany	1	1	A	M
 2111	539911	1	5	53	21	Michal	Pohořálek			47	živnostník	Příbram VI - Březové Hory	99	53	A	M
 2111	540111	1	5	166	21	Jitka	Fulínová			58	metodik účetnictví	Dobříš	99	166	A	F

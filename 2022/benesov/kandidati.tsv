@@ -18,7 +18,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	529796	1	1	903	1	Martin	Smetana	Mgr.		48	advokát	Chocerady	99	80	A	M
 2101	529818	1	1	901	1	Bohuslav	Kovář			47	starosta obce	Chotýšany	99	80	A	M
 2101	529842	1	1	721	1	Jitka	Jonsztová	Bc.		57	starostka, ekonomka	Jankov	721	721	A	F
-2101	529851	1	1	804	1	Karel	Váňa ml.			34	skladník	Javorník	99	80	A	M
+2101	529851	1	1	804	1	KAREL	VÁŇA ML.			34	skladník	Javorník	99	80	A	M
 2101	529907	1	1	901	1	Rostislav	Baran	Mgr.		60	učitel	Keblov	99	80	A	M
 2101	529931	1	1	901	1	Josef	Šanda			46	tesař	Kondrac	99	80	A	M
 2101	529940	1	1	901	1	Luboš	Sládek			43	automechanik	Kozmice	99	80	A	M
@@ -54,7 +54,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	530531	1	1	902	1	Petr	Gut			38	OSVČ	Radošovice	99	80	A	M
 2101	530549	1	1	901	1	Jaroslav	Vošický			66	důchodce	Rataje	99	80	A	M
 2101	530611	1	1	901	1	Zdeněk	Dvořák			72	důchodce	Smilkov	99	80	A	M
-2101	530638	1	1	808	1	Markéta	Poláková			43	klavíristka, učitelka klavíru	Phov	99	80	A	F
+2101	530638	1	1	808	1	Markéta	Poláková	MgA.		43	klavíristka, učitelka klavíru	Phov	99	80	A	F
 2101	530689	1	1	902	1	Marcela	Černá		MBA	42	bankovní specialista	Myslíč	99	80	A	F
 2101	530701	1	1	901	1	Miloš	Jelínek			55	starosta	Střezimíř	99	80	A	M
 2101	530719	1	1	901	1	Petra	Zelenková	Mgr.		43	učitelka	Studený	99	80	A	F
@@ -120,7 +120,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	529516	1	2	901	1	Michal	Tupý	JUDr. Mgr.		47	ministerský úředník, dlouholetý vedoucí dětského oddílu, zastupitel	Čerčany	99	80	A	M
 2101	529532	1	2	803	1	Martin	Zoul			44	obuvník	Červený Újezd	99	80	A	M
 2101	529541	1	2	902	1	Petr	Houžvička	Ing.		42	analytik,kontrolor	Český Šternberk	99	80	A	M
-2101	529567	1	2	902	1	Klára	Heczková			43	technicko-administrativní pracovník	Čtyřkoly	99	80	A	
+2101	529567	1	2	902	1	Klára	Heczková			43	technicko-administrativní pracovník	Čtyřkoly	99	80	A	F
 2101	529621	1	2	1	1	Charlotta	Kurcová	Mgr.		59	ředitelka školy	Lbosín	99	1	A	F
 2101	529648	1	2	129	1	Josef	Dvořák			64	jednatel	Dolní Kralovice	129	129	A	M
 2101	529770	1	2	803	1	Václav	Kopecký			58	OSVČ	Chlum	99	80	A	M
@@ -142,7 +142,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	530166	1	2	901	1	Václav	Karda			46	starosta	Miličín	99	80	A	M
 2101	530174	1	2	903	1	Josef	Přitasil ml.	Ing.		30	OSVČ	Miřetice	99	80	A	M
 2101	530204	1	2	463	1	František	Zvolský			61	starosta obce	Mrač	99	80	A	M
-2101	530212	1	2	902	1	Petr	Postřihač	Ing.		56	výkonný ředitel RECTA s. r. o.	Načeradec	99	80	A	M
+2101	530212	1	2	902	1	Petr	Postřihač	Ing.		56	výkonný ředitel RECTA s.r.o.	Načeradec	99	80	A	M
 2101	530263	1	2	902	1	Michal	Kuchař	MgA.		59	produkční	Nespeky	99	80	A	M
 2101	530301	1	2	902	1	Daniel	Adam	Ing.		27	zemědělec	Chlístov	99	80	A	M
 2101	530310	1	2	1	1	Jakub	Pohořal			24	mechanik revizor DČD	Neveklov	1	1	A	M
@@ -212,7 +212,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	530158	1	3	810	1	Alena	Kaňková			54	účetní	Lažany	99	80	A	F
 2101	530166	1	3	902	1	Karel	Trefil	Ing.		30	projektant	Malovice	99	80	A	M
 2101	530174	1	3	901	1	Vladimír	Vesecký	Ing.		58	ekonom	Miřetice	99	80	A	M
-2101	530204	1	3	901	1	Tomáš	Pechman	Ing. arch.		46	architekt	Mrač	99	80	A	
+2101	530204	1	3	901	1	Tomáš	Pechman	Ing. arch.		46	architekt	Mrač	99	80	A	M
 2101	530212	1	3	901	1	Antonín	Hlinský			48	řezník	Načeradec	99	80	A	M
 2101	530301	1	3	901	1	Tomáš	Vrtiška		DiS.	29	grafik, tiskař	Neustupov	99	80	A	M
 2101	530310	1	3	904	1	Michal	Sejk			41	státní úředník	Neveklov	99	80	A	M
@@ -297,7 +297,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	599395	1	4	805	1	Josef	Rataj			49	OSVČ	Ostrov	99	80	A	M
 2101	529303	1	5	1487	1	Lucie	Vrbová			45	pracovnice servisu vozidel	Benešov	1114	1114	A	F
 2101	529478	1	5	810	1	Miroslava	Cibuľová Šandlová		DiS.	34	nutriční terapeut	Čakov	99	80	A	F
-2101	529486	1	5	801	1	Vladimír	Papež, ml.			39	údržbář specialista	Jeníkov	99	80	A	M
+2101	529486	1	5	801	1	Vladimír	Papež ml.			39	údržbář specialista	Jeníkov	99	80	A	M
 2101	529532	1	5	805	1	Markéta	Nováková			48	systémový specialista	Třetužel	99	80	A	F
 2101	529770	1	5	804	1	Ladislav	Veselý	JUDr. Bc.		45	advokát	Chlum	99	80	A	M
 2101	529788	1	5	809	1	Iveta	Filipová	Mgr.		27	učitelka	Chmelná	99	80	A	F
@@ -360,7 +360,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	532568	1	6	901	1	Antonín	Bőhm			51	technik	Bernartice	99	80	A	M
 2101	532606	1	6	804	1	Václav	Jedlička	Ing.		65	v důchodu	Choratice	99	80	A	M
 2101	532614	1	6	804	1	Jiří	Chlumský			63	dělník	Vodslivy	99	80	A	M
-2101	532690	1	6	803	1	Olga	Fantová	Mgr.		71	učitelka	Ctiboř	99	80	A	F
+2101	532690	1	6	803	1	Olga	Fantová	Mgr.		71	učitelka	Hrádek	99	80	A	F
 2101	532746	1	6	804	1	Karel	Hájek			38	policista	Děkanovice	99	80	A	M
 2101	533084	1	6	808	1	Jaroslav	Dušek			39	montér	Kladruby	99	80	A	M
 2101	538710	1	6	427	1	Magdaléna	Perič	Ing.		40	zastupitelka, lektorka	Malešín	99	143	A	F
@@ -372,7 +372,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	529532	1	7	806	1	Vlastimil	Říha			47	defektoskopista	Červený Újezd	99	80	A	M
 2101	529770	1	7	805	1	Petr	Zíka	Mgr.		47	advokát	Chlum	99	80	A	M
 2101	529788	1	7	806	1	Tomáš	Kučera			45	truhlář	Chmelná	99	80	A	M
-2101	529851	1	7	805	1	Ladislav	Kopecký			58	ošetřovatel skotu	Javorník	99	80	A	
+2101	529851	1	7	805	1	Ladislav	Kopecký			58	ošetřovatel skotu	Javorník	99	80	A	M
 2101	530093	1	7	806	1	Marcela	Dyndová		DiS.	30	účetní	Všebořice	99	80	A	F
 2101	530158	1	7	805	1	Roman	Šimek			43	OSVČ	Mezno	99	80	A	M
 2101	530409	1	7	801	1	Jaroslava	Škvorová			55	vychovatelka	Petroupec	99	80	A	F
@@ -420,7 +420,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	599361	1	8	802	1	Vladimír	Toman			50	OSVČ	Strojetice	99	80	A	M
 2101	599379	1	8	811	1	Josef	Buzek			39	vývojový pracovník	Stranný	99	80	A	M
 2101	529478	1	9	808	1	Vladimír	Šenk			34	soukromý podnikatel	Tatouňovice	99	80	A	M
-2101	529532	1	9	812	1	Jaroslav	Slepička			56	vedoucí kotelny a spalovny	Nové Dvory	99	80	A	M
 2101	529788	1	9	807	1	Petr	Holejšovský			28	soukromý zemědělec	Chmelná	99	80	A	M
 2101	529851	1	9	810	1	Michal	Kohout			45	vědecký pracovník	Javorník	99	80	A	M
 2101	530093	1	9	813	1	Karel	Mareš			57	řidič	Alberovice	99	80	A	M
@@ -565,10 +564,10 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	529486	1	2	902	2	Štěpánka	Moravcová	Ing.		33	státní zaměstnanec	Nakvasovice	99	80	A	F
 2101	529516	1	2	901	2	Martin	Nerad			47	ředitel strojírenského podniku, předseda spolku Čerčany v obraze	Čerčany	99	80	A	M
 2101	529541	1	2	902	2	Jaroslava	Jindráková			59	manažer	Český Šternberk	99	80	A	F
-2101	529567	1	2	902	2	Lukáš	Kokoška			37	IT architekt, skautský vedoucí	Javorník	99	80	A	
+2101	529567	1	2	902	2	Lukáš	Kokoška			37	IT architekt, skautský vedoucí	Javorník	99	80	A	M
 2101	529621	1	2	1	2	Daniel	Saifrt			22	student VŠ	Divišov	721	1	A	M
 2101	529648	1	2	129	2	Jaromír	Mareš			47	řidič	Dolní Kralovice	99	129	A	M
-2101	529796	1	2	902	2	Martin	Dřízhal			43	IT specialista	Chocerady	99	80	A	M
+2101	529796	1	2	902	2	Martin	Dřízhal	Bc.		43	IT specialista	Chocerady	99	80	A	M
 2101	529818	1	2	1482	2	Markéta	Špalová	Mgr.		38	speciální pedagog	Křemení	99	80	A	F
 2101	529842	1	2	47	2	Marcela	Tylová			45	zahradnice	Bedřichovice	99	47	A	F
 2101	529931	1	2	902	2	Eva	Macešková	Ing.		44	specialista logistiky	Krasovice	99	80	A	F
@@ -609,7 +608,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	532941	1	2	901	2	Jan	Horálek			38	obchodní zástupce	Řimovice	99	80	A	M
 2101	534382	1	2	901	2	Václav	Mika			60	podnikatel	Sázava	99	80	A	M
 2101	538680	1	2	166	2	Dana	Drábová	Ing.	Ph.D., dr.hc.	61	státní úředník	Pyšely	99	166	A	F
-2101	529303	1	3	474	2	Michal	Budlovský			54	stavební technik	Benešov	47	80	A	M
+2101	529303	1	3	474	2	Michal	Budlovský			54	stavební technik	Benešov	47	47	A	M
 2101	529451	1	3	532	2	Milan	Vosátka			46	jednatel společnosti	Hlivín	99	80	A	M
 2101	529486	1	3	210	2	Marie	Marhanová			58	místostarostka	Černičí	99	1	A	F
 2101	529516	1	3	1114	2	Šárka	Doleželová			54	zdravotní sestra	Vysoká Lhota	1114	1114	A	F
@@ -672,7 +671,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	529303	1	7	1327	2	Pavel	Pavlík	Ing.		52	statutární náměstek hejtmanky Středočeského kraje	Benešov	53	53	A	M
 2101	530816	1	7	907	2	Pavla	Kořínková	Bc.		34	manažer nákupu	Trhový Štěpánov	99	80	A	F
 2101	599395	1	7	901	2	Jaromír	Zvára			62	OSVČ	Ostrov	99	80	A	M
-2101	529303	1	8	470	2	Jana	Čechová	Ing.		50	OSVČ a radní města, předsedkyně mateřského centra	Benešov	99	166	A	F
+2101	529303	1	8	470	2	Jana	Čechová	Ing.		50	OSVČ, radní města, předsedkyně mateřského centra	Benešov	99	166	A	F
 2101	530816	1	8	906	2	Antonín	Vošický	Ing.		55	učitel	Dubějovice	99	80	A	M
 2101	530093	1	17	389	2	Petr	Vošický	Ing.		49	ekonom	Brzotice	99	53	A	M
 2101	513482	1	1	901	3	Michaela	Kadeřábková	Bc.		24	bankovní úřednice	Větrov	99	80	A	F
@@ -830,7 +829,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	532151	1	3	904	3	Ladislav	Strnad			29	šlechtitel ovcí a koz	Drahňovice	99	80	A	M
 2101	532649	1	3	901	3	Karel	Hendrych			65	důchodce	Popovice	99	80	A	M
 2101	532690	1	3	901	3	Martin	Vosátka			31	elektrotechnik	Ctiboř	99	80	A	M
-2101	538680	1	3	53	3	Martin	Zaradička	Mgr.		57	podnikatel	Pyšely	53	53	A	
+2101	538680	1	3	53	3	Martin	Zaradička	Mgr.		57	podnikatel	Pyšely	53	53	A	M
 2101	529303	1	4	532	3	Jiří	Švadlena	Ing.		68	OSVČ	Benešov	768	768	A	M
 2101	529451	1	4	901	3	Libor	Kožíšek	Ing.		45	státní zaměstnanec	Bystřice	99	80	A	M
 2101	529486	1	4	901	3	Oldřich	Šlambora	Mgr.		40	OSVČ	Černičí	99	80	A	M
@@ -923,7 +922,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	530841	1	1	371	4	Jan	Mašek	Ing.		29	vývojář softwaru	Krusičany	99	80	A	M
 2101	530883	1	1	470	4	Olga	Šťastná	Mgr.		68	ředitelka ZŠ Sídliště	Vlašim	99	166	A	F
 2101	530891	1	1	901	4	Lenka	Litošová			55	účetní	Bezmíř	99	80	A	F
-2101	530905	1	1	1595	4	Matěj	Voráček			30	profesionální trenér mládeže	Votice	99	181	A	
+2101	530905	1	1	1595	4	Matěj	Voráček			30	profesionální trenér mládeže	Votice	99	181	A	M
 2101	530913	1	1	901	4	Petr	Šimánek			31	hasič	Malovidy	99	80	A	M
 2101	530948	1	1	901	4	Stanislav	Suchan			51	živnostník	Vrchotovy Janovice	99	80	A	M
 2101	531022	1	1	7	4	Jiří	Bouček			55	malíř	Zdislavice	99	7	A	M
@@ -1009,7 +1008,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	530115	1	3	902	4	Kateřina	Pěčová	Bc.		37	admin.pracovnice, studentka Policejní Akademie ČR a VŠE	Zderadice	99	80	A	F
 2101	530166	1	3	902	4	Jiří	Cikhart			33	OSVČ	Nové Dvory	99	80	A	M
 2101	530174	1	3	901	4	Miloslav	Vogl			48	seřizovač	Miřetice	99	80	A	M
-2101	530204	1	3	901	4	Kateřina	Fumferová	Mgr.		32	právnička	Mrač	99	80	A	
+2101	530204	1	3	901	4	Kateřina	Fumferová	Mgr.		32	právnička	Mrač	99	80	A	F
 2101	530212	1	3	901	4	Kateřina	Špačková			54	OSVČ	Načeradec	99	80	A	F
 2101	530301	1	3	901	4	David	Čichovský			47	OSVČ	Neustupov	99	80	A	M
 2101	530310	1	3	904	4	Tereza	Lajšnerová	Ing.		33	manažer životního prostředí	Neveklov	99	80	A	F
@@ -1019,7 +1018,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	530841	1	3	427	4	Luděk	Skalický			60	mistr slévárny	Týnec nad Sázavou	99	80	A	M
 2101	530883	1	3	371	4	Josef	Setnička	Ing.		69	soudní znalec, hasič	Vlašim	99	80	A	M
 2101	530905	1	3	47	4	Jitka	Šmídová			65	důchodce	Votice	47	47	A	F
-2101	532151	1	3	904	4	Pavel	Chytil			51	odborný prodejce	Drahňovice	99	80	A	M
 2101	532649	1	3	901	4	Jiří	Voříšek			59	technik	Popovice	99	80	A	M
 2101	532690	1	3	901	4	Petr	Babický			31	kvality engineer	Ctiboř	99	80	A	M
 2101	538680	1	3	53	4	Martin	Láska	Ing.		47	konzultant v oblasti marketingu a obchodu	Zaječice	99	53	A	M
@@ -1036,7 +1034,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	530816	1	4	901	4	Stanislav	Kužel	Mgr.		67	starob. důchodce	Trhový Štěpánov	99	80	A	M
 2101	530883	1	4	1114	4	Karel	Matuška			58	živnostník	Vlašim	1114	1114	A	M
 2101	530905	1	4	7	4	Olga	Peterová			47	zdravotní sestra	Votice	99	7	A	F
-2101	532151	1	4	903	4	Pavel	Chytil			85	důchodce	Drahňovice	99	80	A	M
 2101	534382	1	4	7	4	Lada	Fialová	Ing.		48	pedagog	Sázava	99	7	A	F
 2101	529303	1	5	1487	4	Jana	Bursíková			48	živnostnice	Benešov	1227	1227	A	F
 2101	530051	1	5	905	4	Petr	Rybář	Ing.		54	projektant	Lešany	99	80	A	M
@@ -1123,7 +1120,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	532045	1	1	901	5	Jitka	Dostálová			57	OSVČ	Žabovřesky	99	80	A	F
 2101	532061	1	1	901	5	Karel	Chlístovský			63	elektrotechnik	Zbožnice	99	80	A	M
 2101	532096	1	1	901	5	Iva	Růžková	Mgr.		30	učitelka	Borovnice	99	80	A	F
-2101	532151	1	1	902	5	Sandra	Chytilová			29	cukrářka	Drahňovice	99	80	A	F
 2101	532193	1	1	463	5	Martin	Kaprálek	Ing.		49	pracovník bezpečnostní služby	Lštění	99	80	A	M
 2101	532231	1	1	901	5	Lukáš	Jeřábek			51	invalidní důchodce	Slověnice	99	80	A	M
 2101	532258	1	1	901	5	Ivana	Ševčíková			40	zaměstnanec státní správy	Litichovice	99	80	A	F
@@ -1163,7 +1159,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	530166	1	2	901	5	Michal	Hevera			27	řidič	Miličín	99	80	A	M
 2101	530174	1	2	903	5	Jaroslav	Čáp			47	elektro-technik	Miřetice	99	80	A	M
 2101	530204	1	2	463	5	Eva	Krčilová			48	asistentka náměstka hejtmanky	Mrač	99	80	A	F
-2101	530212	1	2	902	5	Josef	Křemen			54	jednatel AGROSPOL s. r. o.	Načeradec	99	80	A	M
+2101	530212	1	2	902	5	Josef	Křemen			54	jednatel AGROSPOL s.r.o.	Načeradec	99	80	A	M
 2101	530263	1	2	902	5	Jaroslav	Lukeš			38	konzultant	Nespeky	99	80	A	M
 2101	530301	1	2	902	5	Václav	Pilík			39	elektromontér	Barčov	99	80	A	M
 2101	530310	1	2	1	5	Jiří	Polcar		DiS.	24	zástupce vedoucího servis. střediska	Bělice	99	1	A	M
@@ -1320,8 +1316,8 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	532380	1	1	901	6	František	Dědič			56	podnikatel	Blažejovice	99	80	A	M
 2101	532509	1	1	901	6	Jaroslav	Dědič			51	živnostník	Šetějovice	99	80	A	M
 2101	532550	1	1	470	6	Zdeněk	Rezek	Ing.		42	obchodní zástupce	Ratměřice	99	80	A	M
-2101	532592	1	1	901	6	Pavel	Růžička			52	OSVČ	Tisem	99	80	A	
-2101	532878	1	1	901	6	Jana	Bartáková			32	sociální pracovnice	Chleby	99	80	A	F
+2101	532592	1	1	901	6	Pavel	Růžička			52	OSVČ	Tisem	99	80	A	M
+2101	532878	1	1	901	6	Jana	Bartáková		DiS.	32	sociální pracovnice	Chleby	99	80	A	F
 2101	532886	1	1	901	6	Jakub	Žáček			37	odborný poradce	Chářovice	99	80	A	M
 2101	532924	1	1	470	6	Tomáš	Kreps	Ing.		33	finanční kontrolor	Bukovany	99	80	A	M
 2101	532932	1	1	901	6	Ivan	Kudrna			61	učitel	Hradiště	99	80	A	M
@@ -1342,7 +1338,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	529842	1	2	47	6	Antonín	Zeman			69	důchodce	Jankov	99	47	A	M
 2101	529931	1	2	902	6	Jana	Havlíková	Ing.		37	vedoucí bankovních poradců	Kondrac	99	80	A	F
 2101	529940	1	2	53	6	Pavel	Novák	Ing.		42	obchodní manažer	Kozmice	99	53	A	M
-2101	529958	1	2	902	6	Simon	Anfilov			49	tvůrce,grafik,srandista	Krhanice	99	80	A	
+2101	529958	1	2	902	6	Simon	Anfilov			49	tvůrce,grafik,srandista	Krhanice	99	80	A	M
 2101	529991	1	2	902	6	Zbyněk	Šobíšek			47	servisní technik	Nahoruby	99	80	A	M
 2101	530000	1	2	902	6	Luboš	Ptáček			54	seřizovač	Křivsoudov	99	80	A	M
 2101	530051	1	2	904	6	Roman	Kotek			49	elektromechanik	Břežany	99	80	A	M
@@ -1385,7 +1381,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	530115	1	3	902	6	Josef	Veselý			44	vedoucí směny v práškové lakovně	Maršovice	99	80	A	M
 2101	530166	1	3	902	6	Jan	Augusta			56	chovatel psů	Petrovice	99	80	A	M
 2101	530174	1	3	901	6	Jiří	Jantač	Ing.		65	důchodce	Miřetice	99	80	A	M
-2101	530204	1	3	901	6	Josef	Petzold	Ing. Mgr.		51	zemědělec, stavař	Mrač	99	80	A	
+2101	530204	1	3	901	6	Josef	Petzold	Ing. Mgr.		51	zemědělec, stavař	Mrač	99	80	A	M
 2101	530212	1	3	901	6	Josef	Janouš			52	vedoucí výroby	Načeradec	99	80	A	M
 2101	530301	1	3	901	6	Marek	Slunečko			26	dělník	Neustupov	99	80	A	M
 2101	530310	1	3	904	6	Radek	Slabý			45	vedoucí dopravy stavební firmy	Tloskov	99	80	A	M
@@ -1454,7 +1450,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	530069	1	1	901	7	Jaroslav	Holík			54	OSVČ	Libež	99	80	A	M
 2101	530107	1	1	901	7	Vít	Bartoš			38	elektrotechnik	Louňovice pod Blaníkem	99	80	A	M
 2101	530115	1	1	903	7	Daniela	Mikšíková			57	v domácnosti	Zaječí	99	80	A	F
-2101	530191	1	1	901	7	Pavel	Šťastný	Ing.		36	vedoucí odd.nových projektů	Mnichovice	99	80	A	M
+2101	530191	1	1	901	7	Pavel	Šťastný	Ing.		36	vedoucí odd. nových projektů	Mnichovice	99	80	A	M
 2101	530204	1	1	470	7	Přemysl	Žák	Mgr. ThBc.	CSc.	57	učitel ZŠ Archa	Mrač	99	80	A	M
 2101	530212	1	1	903	7	Tomáš	Petřík	Ing.		52	IT manažer	Načeradec	99	80	A	M
 2101	530263	1	1	901	7	Jaroslav	Basl			45	OSVČ	Nespeky	99	80	A	M
@@ -1488,7 +1484,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	532045	1	1	901	7	Hana	Voříšková			51	skladová účetní	Racek	99	80	A	F
 2101	532061	1	1	901	7	Miroslav	Vrňák			59	administrátor dopravy	Václavice	99	80	A	M
 2101	532096	1	1	901	7	Martin	Maršoun			29	kontrolor kvality	Borovnice	99	80	A	M
-2101	532193	1	1	463	7	Zdeňka	Abrhámová			68	důchodce	Zlenice	99	80	A	
+2101	532193	1	1	463	7	Zdeňka	Abrhámová			68	důchodce	Zlenice	99	80	A	F
 2101	532258	1	1	901	7	Richard	Záruba			51	ředitel	Litichovice	99	80	A	M
 2101	532266	1	1	902	7	Marie	Kunešová			53	účetní	Všechlapy	99	80	A	F
 2101	532304	1	1	902	7	Vojtěch	Doupal			35	OSVČ	Třebešice	99	80	A	M
@@ -1521,7 +1517,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	530166	1	2	901	7	Renata	Vindušková			45	vedoucí školní jídelny	Miličín	99	80	A	F
 2101	530174	1	2	903	7	Petr	Jenšík			27	konstruktér	Miřetice	99	80	A	M
 2101	530204	1	2	463	7	Nikola	Kozáková	Bc.		24	asistentka projektu	Mrač	99	80	A	F
-2101	530212	1	2	902	7	Tomáš	Hlinský			24	E-commerce manager MASO-PROFIT s. r. o.	Načeradec	99	80	A	M
+2101	530212	1	2	902	7	Tomáš	Hlinský			24	E-commerce manager MASO-PROFIT s.r.o.	Načeradec	99	80	A	M
 2101	530263	1	2	902	7	Lenka	Hamajdová	Mgr.		54	učitelka hudby a jazyků	Nespeky	99	80	A	F
 2101	530301	1	2	902	7	Luboš	Rytíř			54	skladník	Barčov	99	80	A	M
 2101	530310	1	2	1	7	Kateřina	Hoffmannová			45	pracovník charity	Neveklov	1	1	A	F
@@ -1555,7 +1551,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	530115	1	3	902	7	Josef	Zavadil			32	OSVČ	Mstětice	99	80	A	M
 2101	530166	1	3	902	7	Zuzana	Trefilová			52	servírka	Malovice	99	80	A	F
 2101	530174	1	3	901	7	Martin	Zamrzla			33	OSVČ	Miřetice	99	80	A	M
-2101	530204	1	3	901	7	Tomáš	Kos	Bc.		31	IT manažer	Mrač	99	80	A	
+2101	530204	1	3	901	7	Tomáš	Kos	Bc.		31	IT manažer	Mrač	99	80	A	M
 2101	530212	1	3	901	7	Michal	Červeňák			42	zedník	Načeradec	99	80	A	M
 2101	530301	1	3	901	7	Jaroslav	Vinduška			36	hasič	Neustupov	99	80	A	M
 2101	530310	1	3	904	7	Václav	Šiška			38	stavbyvedoucí	Tloskov	99	80	A	M
@@ -1569,7 +1565,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	538680	1	3	53	7	Antonín	Bareš			58	stavbyvedoucí	Borová Lhota	99	53	A	M
 2101	529303	1	4	532	7	Pavel	Dvořák			51	OSVČ	Benešov	99	80	A	M
 2101	529451	1	4	901	7	Jan	Mádl	Bc.		48	zaměstnanec PČR	Mokrá Lhota	99	80	A	M
-2101	529486	1	4	901	7	Václav	Kahoun			35	OSVČ, topenář	Čechtice	99	80	A	M
+2101	529486	1	4	901	7	Václav	Kahoun			35	OSVČ, topenář-instalatér	Čechtice	99	80	A	M
 2101	529516	1	4	903	7	Jan	Vyskočil			32	manažer logistiky	Čerčany	99	80	A	M
 2101	529648	1	4	166	7	David	Zubec			45	dřevorubec	Vraždovy Lhotice	99	166	A	M
 2101	530051	1	4	906	7	Ján	Šagát			52	stavbyvedoucí	Břežany	99	80	A	M
@@ -1718,7 +1714,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	530883	1	3	371	8	Josef	Benke			54	OSVČ	Vlašim	99	80	A	M
 2101	532649	1	3	901	8	Miloš	Dvořák			47	instalatér	Mladovice	99	80	A	M
 2101	538680	1	3	53	8	Ladislava	Pášová	Ing.		39	účetní	Pyšely	99	53	A	F
-2101	529303	1	4	532	8	Jan	Zamrazil			35	instruktor - medik	Benešov	768	768	A	M
+2101	529303	1	4	532	8	Jan	Zamrazil			35	instruktor - medik	Benešov	99	768	A	M
 2101	529451	1	4	901	8	Ctirad	Sedláček		dipl. um.	44	učitel hudby v ZUŠ, varhaník	Líšno	99	80	A	M
 2101	529486	1	4	901	8	Jan	Průša	Ing.		31	OSVČ	Pálčice	99	80	A	M
 2101	529516	1	4	903	8	Jana	Hrubá	Ing.		38	podnikatelka	Čerčany	99	80	A	F
@@ -1776,7 +1772,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	530441	1	1	470	9	Ivan	Vorel	Ing.		63	technik	Poříčí nad Sázavou	99	80	A	M
 2101	530450	1	1	470	9	Václav	Šesták			56	operátor energobloku	Postupice	1	80	A	M
 2101	530476	1	1	901	9	Petr	Janda			49	ostraha	Pravonín	99	80	A	M
-2101	530522	1	1	901	9	Karel	Matyáš	Ing.		44	IT manager	Rabyně	99	80	A	
+2101	530522	1	1	901	9	Karel	Matyáš	Ing.		44	IT manager	Rabyně	99	80	A	M
 2101	530689	1	1	902	9	Igor	Turzik	Mgr.		47	počítačový specialista	Horní Podhájí	99	80	A	M
 2101	530701	1	1	901	9	Pavel	Otradovec			51	živnostník	Střezimíř	99	80	A	M
 2101	530743	1	1	901	9	Renata	Hessová			42	aktivizační pracovnice	Bílkovice	99	80	A	F
@@ -1840,7 +1836,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	530051	1	3	901	9	Tomáš	Adam			51	řidič	Lešany	99	80	A	M
 2101	530115	1	3	902	9	Tomáš	Kahoun			60	podnikatel	Maršovice	99	80	A	M
 2101	530166	1	3	902	9	Lukáš	Pětník			36	traktorista	Petrovice	99	80	A	M
-2101	530204	1	3	901	9	Magdalena	Sarnovská	Mgr.		34	finanční analytička	Mrač	99	80	A	
+2101	530204	1	3	901	9	Magdalena	Sarnovská	Mgr.		34	finanční analytička	Mrač	99	80	A	F
 2101	530212	1	3	901	9	Magdalena	Čechová			49	šička	Načeradec	99	80	A	F
 2101	530301	1	3	901	9	Gabriela	Vrtišková			51	knihovnice	Neustupov	99	80	A	F
 2101	530310	1	3	904	9	Lubomír	Mošnička			67	OSVČ	Neveklov	99	80	A	M
@@ -1937,7 +1933,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	529991	1	3	901	10	Karel	Český			42	zedník	Vlkonice	99	80	A	M
 2101	530051	1	3	901	10	Pavel	Melichar			31	administrativní referent	Lešany	99	80	A	M
 2101	530115	1	3	902	10	Jiří	Suk			52	vedoucí obchodního zastoupení Inter-team	Dlouhá Lhota	99	80	A	M
-2101	530204	1	3	901	10	Jan	Popp	Mgr.		41	IT specialista	Mrač	99	80	A	
+2101	530204	1	3	901	10	Jan	Popp	Mgr.		41	IT specialista	Mrač	99	80	A	M
 2101	530212	1	3	901	10	Daniela	Křemenová			55	kadeřnice	Načeradec	99	80	A	F
 2101	530310	1	3	904	10	Jiří	Semerád			45	živnostník	Neveklov	99	80	A	M
 2101	530344	1	3	902	10	Vasilka	Pohnánová	Bc.		44	elektroenergetik	Olbramovice Ves	99	80	A	F
@@ -1985,7 +1981,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	529991	1	1	903	11	Miroslav	Senft			66	důchodce	Křečovice	99	80	A	M
 2101	530051	1	1	902	11	Jana	Přibylová			41	OSVČ	Břežany	99	80	A	F
 2101	530107	1	1	901	11	Vlastislav	Chatrný	Bc.		42	OSVČ	Louňovice pod Blaníkem	99	80	A	M
-2101	530115	1	1	903	11	Vladimír	Křížová			50	kuchařka	Strnadice	99	80	A	M
+2101	530115	1	1	903	11	Vladimíra	Křížová			50	kuchařka	Strnadice	99	80	A	F
 2101	530204	1	1	470	11	Michal	Pobežal	Mgr.		44	generální ředitel společnosti	Mrač	99	80	A	M
 2101	530212	1	1	903	11	Lenka	Braná	Ing.		34	úřednice	Načeradec	99	80	A	F
 2101	530298	1	1	901	11	Jitka	Povolná			59	ředitelka MŠ	Netvořice	99	80	A	F
@@ -2150,7 +2146,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	530107	1	1	901	13	Iva	Tichá			55	úřednice	Louňovice pod Blaníkem	99	80	A	F
 2101	530212	1	1	903	13	Antonín	Rezek			33	jednatel firmy	Dolní Lhota	99	80	A	M
 2101	530298	1	1	901	13	Šárka	Zemanová	Ing.		53	OSVČ	Netvořice	99	80	A	F
-2101	530310	1	1	480	13	Gita	Triznová	Mgr.		37	asistent pedagoga	Neveklov	99	80	A	
+2101	530310	1	1	480	13	Gita	Triznová	Mgr.		37	asistent pedagoga	Neveklov	99	80	A	F
 2101	530441	1	1	470	13	Josef	Chalupecký			73	důchodce	Poříčí nad Sázavou	99	80	A	M
 2101	530816	1	1	905	13	Adéla	Hájková			26	sociální pracovnice	Trhový Štěpánov	99	80	A	F
 2101	530841	1	1	371	13	Martin	Bartůšek			52	strážník městské policie	Podělusy	99	80	A	M
@@ -2386,7 +2382,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	529303	1	1	401	17	Michael	Richter	MUDr.		51	lékař	Benešov	99	80	A	M
 2101	529451	1	1	53	17	Petr	Nápravník			64	OSVČ, důchodce	Líšno	53	53	A	M
 2101	530841	1	1	371	17	Jiří	Šebek			63	podnikatel	Týnec nad Sázavou	99	80	A	M
-2101	530883	1	1	470	17	Evžen	Reitschläger			60	jednatel firmy Metalkov	Vlašim	99	80	A	
+2101	530883	1	1	470	17	Evžen	Reitschläger			60	jednatel firmy Metalkov	Vlašim	99	80	A	M
 2101	530905	1	1	1595	17	Martin	Otradovec			38	farmář	Nazdice	99	181	A	M
 2101	529303	1	2	720	17	Jan	Hrdý	Bc.		26	programátor	Benešov	99	720	A	M
 2101	529451	1	2	470	17	Jaroslav	Bartůšek			40	servisní specialista zemědělských strojů	Radošovice	99	80	A	M
@@ -2496,14 +2492,14 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2101	529303	1	1	401	25	Tomáš	Bouček	Mgr.		54	lékárník	Benešov	99	80	A	M
 2101	529303	1	2	720	25	Miroslav	Purkert	Ing.		40	OSVČ projektant TZB, technický dozor investora	Benešov	99	720	A	M
 2101	529303	1	3	474	25	Jan	Smolík	JUDr.		78	kontrolor	Benešov	47	47	A	M
-2101	529303	1	4	532	25	Otakar	Cerman			37	manažer	Benešov	99	768	A	M
+2101	529303	1	4	532	25	Otakar	Cerman			37	manažer	Benešov	99	80	A	M
 2101	529303	1	6	901	25	Tereza	Šustová			35	distributor marketingu	Benešov	99	80	A	F
 2101	529303	1	7	1327	25	Sabina	Bartůšková		DiS.	29	sociální pracovnice	Benešov	99	721	A	F
 2101	529303	1	8	470	25	Martina	Götzová			51	pracovnice mateřského centra	Benešov	99	166	A	F
 2101	529303	1	1	401	26	Pavel	Doksanský	Ing.		51	manažer	Benešov	99	80	A	M
 2101	529303	1	2	720	26	Karel	Mudra			30	vývojář	Benešov	99	720	A	M
 2101	529303	1	3	474	26	Jana	Hrstková			71	důchodkyně	Benešov	47	47	A	F
-2101	529303	1	4	532	26	Tomáš	Goldschmied			33	hasič	Benešov	99	768	A	M
+2101	529303	1	4	532	26	Tomáš	Goldschmied			33	hasič	Benešov	99	80	A	M
 2101	529303	1	6	901	26	Jakub	Kruliš			35	obchodní manažer	Benešov	99	80	A	M
 2101	529303	1	7	1327	26	Andrea	Venerová			47	OSVČ	Benešov	99	721	A	F
 2101	529303	1	8	470	26	Monika	Balatová	Ing.		56	učitelka základní školy	Benešov	99	166	A	F

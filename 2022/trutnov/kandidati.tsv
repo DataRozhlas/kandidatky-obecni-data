@@ -162,7 +162,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579645	1	3	901	1	Jiří	Vondrák			54	místostarosta, OSVČ	Rudník	99	80	A	M
 5205	579661	1	3	470	1	Markéta	Cimbotová			43	vedoucí Pošta Partner	Prostřední Staré Buky	99	166	A	F
 5205	579726	1	3	809	1	Pavel	Romášek	Ing.		44	projektant	Suchovršice	99	80	A	M
-5205	579734	1	3	903	1	Ondřej	Oravec	Mgr.		41	stavební technik	Svoboda nad Úpou	99	80	A	
+5205	579734	1	3	903	1	Ondřej	Oravec	Mgr.		41	stavební technik	Svoboda nad Úpou	99	80	A	M
 5205	579742	1	3	480	1	Hynek	Dvořák	Mgr.		50	obchodní ředitel	Špindlerův Mlýn	99	721	A	M
 5205	579769	1	3	801	1	Tomáš	Minář	MUDr.		53	lékař	Třebihošť	99	80	A	M
 5205	579777	1	3	543	1	Petr	Hron			45	starosta Města Úpice	Radeč	795	80	A	M
@@ -171,7 +171,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579815	1	3	47	1	Věra	Marelová			72	seniorka	Kocléřov	99	47	A	F
 5205	579823	1	3	47	1	Jan	Horký			45	strojvedoucí	Vlčice	47	47	A	M
 5205	579858	1	3	901	1	Jan	Sobotka	Ing.		61	stavební technik	Vrchlabí	99	80	A	M
-5205	579874	1	3	470	1	Marek	Gracík			51	podnikatel	Bobr	166	166	A	M
+5205	579874	1	3	470	1	Marek	Gracík			51	podnikatel	Bobr	99	166	A	M
 5205	548804	1	4	903	1	Nikola	Kvíz			31	strážník	Lampertice	99	80	A	F
 5205	548847	1	4	805	1	Luděk	Zívr			49	operátor CNC stroje	Zdobín	99	80	A	M
 5205	554863	1	4	803	1	Marcela	Janáková			56	starostka obce	Dolní Brusnice	99	80	A	F
@@ -274,7 +274,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579076	1	12	802	1	Jan	Kafka			33	servisní technik	Bílé Poličany	99	80	A	M
 5205	579475	1	12	808	1	Marie	Kuldová			69	starobní důchodce	Libňatov	99	80	A	F
 5205	579530	1	12	801	1	Jiří	Galuščák			47	sladovník	Maršov u Úpice	99	80	A	M
-5205	579769	1	12	806	1	Barbora	Cermanová	Mgr.		46	ošetřovatel hospodářských zvířat	Třebihošť	99	80	A	F
+5205	579769	1	12	806	1	Barbora	Cermanová	Mgr.		47	ošetřovatel hospodářských zvířat	Třebihošť	99	80	A	F
 5205	554863	1	13	805	1	Petr	Zaplatílek			33	traktorista	Dolní Brusnice	99	80	A	M
 5205	579076	1	13	808	1	Blanka Molly	Zaňková			47	zdravotní sestra	Bílé Poličany	99	80	A	F
 5205	579475	1	13	811	1	Michal	Souček			36	projektant elektro	Libňatov	99	80	A	M
@@ -317,7 +317,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579173	1	1	902	2	Petra	Stránská			45	administrativní pracovník	Dolní Olešnice	99	80	A	F
 5205	579181	1	1	901	2	Karel	Hrdina	Ing.		61	podnikatel	Doubravice	99	80	A	M
 5205	579190	1	1	901	2	Petr	Krejčí			43	vedoucí provozu	Dubenec	99	80	A	M
-5205	579203	1	1	720	2	Jiří	Prouza	Mgr.		39	učitel, pedagog	Dvůr Králové nad Labem	720	720	A	M
+5205	579203	1	1	720	2	Jiří	Prouza	Mgr.		39	učitel/pedagog	Dvůr Králové nad Labem	720	720	A	M
 5205	579211	1	1	901	2	Leoš	Patka	Mgr.		42	podnikatel	Hajnice	99	80	A	M
 5205	579220	1	1	902	2	Milan	Vodička			43	vedoucí střediska	Havlovice	99	80	A	M
 5205	579254	1	1	901	2	Petr	Nosek			45	výrobní ředitel	Horní Kalná	99	80	A	M
@@ -397,7 +397,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579556	1	2	1	2	Marek	Albrecht			53	podnikatel	Mostek	99	1	A	M
 5205	579581	1	2	53	2	Zdeněk	Horák	Ing.		59	podnikatel	Pec pod Sněžkou	53	53	A	M
 5205	579602	1	2	902	2	Jan	Basař			43	zemědělec	Prosečné	99	80	A	M
-5205	579629	1	2	901	2	Petra	Királová	Mgr.		33	právník	Radvanice	99	80	A	
+5205	579629	1	2	901	2	Petra	Királová	Mgr.		33	právník	Radvanice	99	80	A	F
 5205	579637	1	2	901	2	Hana	Vondráčková	Mgr.		55	ředitelka ZŠ a ZUŠ	Rtyně v Podkrkonoší	99	80	A	F
 5205	579661	1	2	53	2	Radek	Procházka			49	gumař	Horní Staré Buky	99	53	A	M
 5205	579734	1	2	901	2	Helmut	Ruse	Ing.		57	analytik	Svoboda nad Úpou	99	80	A	M
@@ -431,14 +431,14 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579629	1	3	904	2	Květa	Jirmanová			32	referent obchodního oddělení	Radvanice	99	80	A	F
 5205	579645	1	3	901	2	Aleš	Maloch			46	starosta, krajský zastupitel	Rudník	99	80	A	M
 5205	579661	1	3	470	2	Jiří	Bischof			79	starosta	Prostřední Staré Buky	166	166	A	M
-5205	579734	1	3	903	2	Zdeněk	Šafář	Mgr.		44	trenér lyžování	Svoboda nad Úpou	99	80	A	
+5205	579734	1	3	903	2	Zdeněk	Šafář	Mgr.		44	trenér lyžování	Svoboda nad Úpou	99	80	A	M
 5205	579742	1	3	480	2	Tomáš	Kyrián			47	vedoucí hrázný	Přední Labská	99	721	A	M
 5205	579777	1	3	543	2	Jaromíra	Galuščáková			49	dětská sestra	Radeč	99	80	A	F
 5205	579785	1	3	901	2	Libor	Kneifel	Ing.		52	technik IT	Velké Svatoňovice	99	80	A	M
 5205	579815	1	3	47	2	Dana	Řepková			51	vedoucí prodeje stavebnin	Huntířov	99	47	A	F
 5205	579823	1	3	47	2	Jiří	Ondráček			67	důchodce	Vlčice	47	47	A	M
 5205	579858	1	3	901	2	Michal	Vávra	PhDr.		44	politolog	Vrchlabí	99	80	A	M
-5205	579874	1	3	470	2	Zuzana	Rousková			65	zdravotní sestra	Žacléř	166	166	A	F
+5205	579874	1	3	470	2	Zuzana	Rousková			65	zdravotní sestra	Žacléř	99	166	A	F
 5205	548804	1	4	903	2	Jaroslava	Jurčová			58	pečovatelka o osobu blízkou	Lampertice	99	80	A	F
 5205	579025	1	4	53	2	Pavel	Káňa	Mgr.		48	učitel	Oblanov	53	53	A	M
 5205	579041	1	4	901	2	Lenka	Ducháčová			49	administrativní pracovnice	Batňovice	99	80	A	F
@@ -580,7 +580,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579629	1	2	901	3	Marcela	Krajniaková			51	personální účetní	Radvanice	99	80	A	F
 5205	579637	1	2	901	3	Albert	Janko			50	podnikatel	Rtyně v Podkrkonoší	99	80	A	M
 5205	579661	1	2	53	3	Jan	Mejvald			41	IT manager	Prostřední Staré Buky	99	53	A	M
-5205	579734	1	2	901	3	Jaroslav	Chmelař	Ing.		72	starobní důchodce	Svoboda nad Úpou	99	80	A	
+5205	579734	1	2	901	3	Jaroslav	Chmelař	Ing.		72	starobní důchodce	Svoboda nad Úpou	99	80	A	M
 5205	579742	1	2	53	3	Tomáš	Zeman			36	lyžařský trenér	Špindlerův Mlýn	53	53	A	M
 5205	579777	1	2	47	3	Radim	Fryčka			73	důchodce	Úpice	47	47	A	M
 5205	579785	1	2	902	3	Aleš	Těžký			54	obchodní zástupce - řidič	Markoušovice	99	80	A	M
@@ -611,14 +611,14 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579629	1	3	904	3	Miluše	Dubnová			51	prodavačka	Radvanice	99	80	A	F
 5205	579645	1	3	901	3	Jan	Teplý			43	administrativní pracovník	Rudník	99	80	A	M
 5205	579661	1	3	470	3	Hana	Váňová	Mgr.		57	učitelka	Prostřední Staré Buky	99	166	A	F
-5205	579734	1	3	903	3	Martin	Vlášek	Bc.		45	strážce KRNAP	Svoboda nad Úpou	99	80	A	
+5205	579734	1	3	903	3	Martin	Vlášek	Bc.		45	strážce KRNAP	Svoboda nad Úpou	99	80	A	M
 5205	579742	1	3	480	3	Jiří	Petrlík			64	důchodce	Bedřichov	99	721	A	M
 5205	579777	1	3	543	3	Marie	Matysková	MUDr.		62	lékařka Oblastní charita Červený Kostelec	Úpice	99	80	A	F
 5205	579785	1	3	901	3	Jiří	Bolehovský			48	živnostník	Markoušovice	99	80	A	M
 5205	579815	1	3	47	3	Roman	Říčař			45	řidič	Huntířov	99	47	A	M
 5205	579823	1	3	47	3	Karel	Petr			67	důchodce	Vlčice	47	47	A	M
 5205	579858	1	3	901	3	Jakub	Omrt			41	informatik a reklamní specialista	Podhůří	99	80	A	M
-5205	579874	1	3	470	3	Radka	Kovačíková Luštincová	Ing.		31	jednatelka firmy	Žacléř	166	166	A	F
+5205	579874	1	3	470	3	Radka	Kovačíková Luštincová	Ing.		31	jednatelka firmy	Žacléř	99	166	A	F
 5205	548804	1	4	903	3	Lenka	Vondráková			51	obsluha čerpací stanice	Lampertice	99	80	A	F
 5205	579025	1	4	53	3	Libor	Kasík	MgA.		51	ředitel UFFO	Poříčí	53	53	A	M
 5205	579041	1	4	901	3	Tomáš	Seňko			34	policista	Batňovice	99	80	A	M
@@ -810,7 +810,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579548	1	4	1404	4	Jakub	Zálabský			40	mechanik	Mladé Buky	99	80	A	M
 5205	579581	1	4	903	4	František	Vaněk			30	soukromý podnikatel	Pec pod Sněžkou	99	80	A	M
 5205	579629	1	4	903	4	Hana	Stonjeková			45	mzdová účetní	Radvanice	99	80	A	F
-5205	579645	1	4	902	4	Michal	Hronek			50	jednatel společnosti	Arnultovice	99	80	A	
+5205	579645	1	4	902	4	Michal	Hronek			50	jednatel společnosti	Arnultovice	99	80	A	M
 5205	579742	1	4	903	4	Pavel	Stehno			55	podnikatel	Přední Labská	99	80	A	M
 5205	579777	1	4	53	4	Josef	Sedláček	Ing.		61	technik ČOV	Úpice	53	53	A	M
 5205	579785	1	4	904	4	Petr	Bujárek			50	elektrikář	Markoušovice	99	80	A	M
@@ -919,7 +919,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579211	1	2	53	5	Miroslava	Nováková	PhDr.		56	učitelka - zástupce ředitele	Hajnice	99	53	A	F
 5205	579220	1	2	901	5	Jaroslav	Balcar	Mgr.		53	ředitel školy	Havlovice	99	80	A	M
 5205	579254	1	2	902	5	Alena	Kalenská			39	administrativní pracovník	Horní Kalná	99	80	A	F
-5205	579262	1	2	470	5	Adam	Strakoš			44	OSVČ	Horní Maršov	99	80	A	
+5205	579262	1	2	470	5	Adam	Strakoš			44	OSVČ	Horní Maršov	99	80	A	M
 5205	579271	1	2	904	5	Romana	Hambaleková			53	zaměstnanec	Horní Olešnice	99	80	A	F
 5205	579297	1	2	902	5	Štěpán	Svoboda			21	koordinátor vzdělávacích projektů, student	Hostinné	720	80	A	M
 5205	579319	1	2	903	5	Martina	Hanovská	Mgr. Bc.		56	policistka ve výslužbě	Chotěvice	99	80	A	F
@@ -1103,7 +1103,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579319	1	2	903	6	Roman	Hron			58	instalatér	Chotěvice	99	80	A	M
 5205	579327	1	2	902	6	Pavel	Rausa			54	podnikatel	Choustníkovo Hradiště	99	80	A	M
 5205	579335	1	2	902	6	Martin	Halmo	Ing.		47	státní zaměstnanec	Chvaleč	99	80	A	M
-5205	579351	1	2	902	6	Tomáš	Havlina			47	řidič technik TSJL	Janské Lázně	99	80	A	M
+5205	579351	1	2	902	6	Tomáš	Havlina			47	řidič technik TS JL	Janské Lázně	99	80	A	M
 5205	579378	1	2	902	6	Marek	Marčok			35	mistr provozu	Jívka	99	80	A	M
 5205	579416	1	2	903	6	Michal	Staněk			32	ošetřovatel ZOO	Kuks	99	80	A	M
 5205	579424	1	2	901	6	Zdeňka	Rousková			47	prodavačka	Kunčice nad Labem	99	80	A	F
@@ -1146,7 +1146,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579629	1	3	904	6	Gabriela	Lukášková	Ing.		48	investiční kontrolor	Radvanice	99	80	A	F
 5205	579645	1	3	901	6	Petra	Sekerková			39	pedagog, kronikářka obce	Rudník	99	80	A	F
 5205	579661	1	3	470	6	Pavel	Poděbradský			52	podnikatel	Dolní Staré Buky	99	166	A	M
-5205	579734	1	3	903	6	Jiří	Horák			53	živnostník	Svoboda nad Úpou	99	80	A	
+5205	579734	1	3	903	6	Jiří	Horák			53	živnostník	Svoboda nad Úpou	99	80	A	M
 5205	579742	1	3	480	6	Tomáš	Kverka			36	jednatel	Špindlerův Mlýn	99	721	A	M
 5205	579777	1	3	543	6	Jaroslav	Jörka			41	podnikatel v gastronomii Orange Catering., s.r.o.	Úpice	99	80	A	M
 5205	579785	1	3	901	6	Jaroslav	Prouza			53	živnostník	Markoušovice	53	80	A	M
@@ -1179,7 +1179,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579742	1	5	902	6	Pavel	Viktorin			43	dobrovolný hasič a OSVČ	Bedřichov	99	80	A	M
 5205	579777	1	5	480	6	Jakub	Beránek	Ing.		32	ekonom	Úpice	99	721	A	M
 5205	579874	1	5	901	6	Simona	Šedivá			52	referent jakosti	Žacléř	99	80	A	F
-5205	579025	1	6	1114	6	Jana	Hanykovicsová			43	pracovnice v logistice výroby	Dolní Staré Město	99	1114	A	F
+5205	579025	1	6	1114	6	Jana	Hanykovicsová			43	logistik	Dolní Staré Město	99	1114	A	F
 5205	579203	1	6	1479	6	Stanislav	Ježek	Mgr.		45	učitel SŠ	Dvůr Králové nad Labem	99	80	A	M
 5205	579351	1	6	113	6	Štěpán	Pleskač			47	manager marketingu	Janské Lázně	99	113	A	M
 5205	579777	1	6	470	6	Lukáš	Selinger			37	zaměstnanec JUTA a.s.	Úpice	99	80	A	M
@@ -1255,9 +1255,9 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579858	1	1	1344	7	Martin	Bartoš	Mgr.		59	pedagog	Vrchlabí	5	5	A	M
 5205	579874	1	1	902	7	Radek	Kotyk	Mgr.		42	policista	Žacléř	99	80	A	M
 5205	548804	1	2	904	7	Gabriela	Světíková			33	OSVČ	Lampertice	99	80	A	F
-5205	548812	1	2	902	7	Zuzana	Buřicová			36	mateřská dovolená	Stanovice	99	80	A	F
+5205	548812	1	2	902	7	Zuzana	Buřičová			36	mateřská dovolená	Stanovice	99	80	A	F
 5205	574597	1	2	902	7	Pavlína	Blahovcová			42	účetní	Vilantice	99	80	A	F
-5205	579025	1	2	113	7	Jan	Sokol			37	podnikatel - Gumátor	Horní Staré Město	99	113	A	
+5205	579025	1	2	113	7	Jan	Sokol			37	podnikatel - Gumátor	Horní Staré Město	99	113	A	M
 5205	579041	1	2	1	7	Štěpánka	Vojteková		DiS.	49	úřednice OSSZ	Batňovice	99	1	A	F
 5205	579050	1	2	904	7	Milan	Dušánek			76	důchodce	Bernartice	99	80	A	M
 5205	579068	1	2	902	7	Kateřina	Poživilová	Mgr.		60	učitelka	Bílá Třemešná	99	80	A	F
@@ -1363,7 +1363,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579025	1	9	470	7	Lucie	Pangrácová	Mgr.		42	ředitelka Galerie Trutnov	Střední Předměstí	99	166	A	F
 5205	579025	1	10	364	7	Roman	Prycl	Ing.		55	dopravní inženýr a výpravčí	Horní Předměstí	99	80	A	M
 5205	579025	1	11	1601	7	Petra	Šormová		DiS.	45	oční optik	Vnitřní Město	99	1265	A	F
-5205	579025	1	12	1415	7	Ivana	Tezcan	Mgr.		40	jednatelka společnosti, zastupitelka	Bojiště	99	80	A	
+5205	579025	1	12	1415	7	Ivana	Tezcan	Mgr.		40	jednatelka společnosti, zastupitelka	Bojiště	99	80	A	F
 5205	546470	1	1	901	8	Jiří	Nagy			34	mechanik	Nouzov	99	80	A	M
 5205	548804	1	1	902	8	Jan	Šturma			43	OSVČ	Lampertice	99	80	A	M
 5205	548839	1	1	901	8	Martin	Jukl			42	ředitel	Řečice	99	80	A	M
@@ -1448,8 +1448,8 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579629	1	2	901	8	Kristýna	Krajniaková			29	sociální pracovnice	Radvanice	99	80	A	F
 5205	579637	1	2	901	8	Lenka	Kašparová	Mgr.		38	učitelka	Rtyně v Podkrkonoší	99	80	A	F
 5205	579661	1	2	53	8	Milan	Mejsnar			40	údržbář Vitesco	Prostřední Staré Buky	99	53	A	M
-5205	579734	1	2	901	8	Jan	Bartoníček			43	technik	Svoboda nad Úpou	99	80	A	
-5205	579742	1	2	53	8	Vojtěch	Kubů			31	kuchař	Bedřichov	99	53	A	
+5205	579734	1	2	901	8	Jan	Bartoníček			43	technik	Svoboda nad Úpou	99	80	A	M
+5205	579742	1	2	53	8	Vojtěch	Kubů			31	kuchař	Bedřichov	99	53	A	M
 5205	579777	1	2	47	8	Milada	Žárská			68	důchodce	Úpice	47	47	A	F
 5205	579785	1	2	902	8	Josef	Dvořák	Dr.		69	důchodce	Markoušovice	99	80	A	M
 5205	579793	1	2	901	8	Gabriela	Andrlová			46	servírka v lázních	Velký Vřešťov	99	80	A	F
@@ -1538,7 +1538,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579203	1	1	720	9	Lukáš	Baše	Bc.		33	business manager	Dvůr Králové nad Labem	99	720	A	M
 5205	579211	1	1	901	9	Marek	Téra			27	hasič	Hajnice	99	80	A	M
 5205	579220	1	1	902	9	Jakub	Balcar			30	policista	Havlovice	99	80	A	M
-5205	579262	1	1	364	9	Martin	Hančil	Ing.		41	vedoucí oddělení průmyslového inženýrství	Horní Maršov	99	80	A	
+5205	579262	1	1	364	9	Martin	Hančil	Ing.		41	vedoucí oddělení průmyslového inženýrství	Horní Maršov	99	80	A	M
 5205	579297	1	1	1	9	Jiří	Tichý			37	technik	Hostinné	99	1	A	M
 5205	579301	1	1	901	9	Jaroslav	Voňka			49	strojník pracovních strojů	Hvězda	99	80	A	M
 5205	579319	1	1	901	9	Alena	Jiřičková			45	zaměstnankyně	Chotěvice	99	80	A	F
@@ -1561,7 +1561,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579629	1	1	902	9	Petra	Behrová			52	zaměstnanec	Radvanice	99	80	A	F
 5205	579637	1	1	1508	9	Monika	Kaněrová	Ing.		48	sales engineer	Rtyně v Podkrkonoší	1	1	A	F
 5205	579645	1	1	903	9	Tereza	Szeidermannová			38	operátor ve výrobě	Rudník	99	80	A	F
-5205	579734	1	1	902	9	Anna	Tichá			36	účetní	Svoboda nad Úpou	99	80	A	
+5205	579734	1	1	902	9	Anna	Tichá			36	účetní	Svoboda nad Úpou	99	80	A	F
 5205	579742	1	1	901	9	Rudolf	Polesný			51	podnikatel v gastronomii	Bedřichov	99	80	A	M
 5205	579777	1	1	1479	9	Martin	Pátra			50	obráběč kovů	Úpice	7	80	A	M
 5205	579785	1	1	903	9	Petr	Šafář			48	báňský záchranář	Velké Svatoňovice	99	80	A	M
@@ -1616,7 +1616,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579203	1	3	1344	9	Blanka	Porcalová	Ing.		64	důchodkyně, cvičitelka TJ Sokol Lipnice	Lipnice	99	80	A	F
 5205	579297	1	3	901	9	Kateřina	Víznerová			46	hospodářka školy	Hostinné	99	80	A	F
 5205	579319	1	3	902	9	Václava	Blažková	Bc.		37	na mateřské dovolené	Chotěvice	99	80	A	F
-5205	579351	1	3	901	9	Radmila	Růžičková			41	zdravotní sestra - Vesna Janské Lázně	Janské Lázně	99	80	A	
+5205	579351	1	3	901	9	Radmila	Růžičková			41	zdravotní sestra - Vesna Janské Lázně	Janské Lázně	99	80	A	F
 5205	579416	1	3	902	9	Eva	Dvorská			58	dělnice	Kuks	99	80	A	F
 5205	579424	1	3	903	9	Jarmila	Kopáčková			50	operátor DTP KRPA - FORM, a.s., členka TJ Sokol Kunčice n/L	Kunčice nad Labem	99	80	A	F
 5205	579432	1	3	901	9	Martin	Tauš			52	vedoucí provozu služby města Vrchlabí	Prostřední Lánov	99	80	A	M
@@ -1643,7 +1643,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579548	1	4	1404	9	Michal	Skalka	Ing.		55	vedoucí ekologické výchovy KRNAP	Mladé Buky	99	80	A	M
 5205	579581	1	4	903	9	Kamil	Veselý			67	soukromý podnikatel	Velká Úpa	99	80	A	M
 5205	579629	1	4	903	9	Jakub	Novotný			27	OSVČ	Radvanice	99	80	A	M
-5205	579645	1	4	902	9	Martin	Brož			46	jednatel společnosti	Rudník	99	80	A	
+5205	579645	1	4	902	9	Martin	Brož			46	jednatel společnosti	Rudník	99	80	A	M
 5205	579742	1	4	903	9	Stanislav	Paulů			25	číšník	Bedřichov	99	80	A	M
 5205	579777	1	4	53	9	Lenka	Jursíková			48	administrátor turist. Informačního centra	Úpice	99	53	A	F
 5205	579785	1	4	904	9	Jiří	Kouba	Ing.		71	finanční specialista	Markoušovice	99	80	A	M
@@ -1657,7 +1657,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579742	1	5	902	9	Monika	Kyriánová	Bc.		44	členka komise pro občanské záležitosti a zaměstnanec Povodí Labe, s.p.	Přední Labská	99	80	A	F
 5205	579777	1	5	480	9	Markéta	Petirová			41	účetní	Úpice	99	721	A	F
 5205	579874	1	5	901	9	Miluše	Třebešková	Bc.		48	sociální pracovník	Žacléř	99	80	A	F
-5205	579025	1	6	1114	9	Miluše	Felcmanová	Ing.		70	spolumajitelka textilní společnosti	Dolní Staré Město	99	1114	A	F
+5205	579025	1	6	1114	9	Miluše	Felcmanová	Ing.		70	podnikatel	Dolní Staré Město	99	1114	A	F
 5205	579203	1	6	1479	9	Vojtěch	Hulík	Mgr.		35	učitel ZŠ	Dvůr Králové nad Labem	99	80	A	M
 5205	579351	1	6	113	9	Kamil	Mašek			45	projektový manager	Janské Lázně	99	113	A	M
 5205	579777	1	6	470	9	Jitka	Vlčková			60	vedoucí školní jídelny Gymnázia Úpice	Úpice	99	80	A	F
@@ -1731,7 +1731,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579513	1	3	903	10	Gabriela	Burkoňová			45	vedoucí nákupu	Malé Svatoňovice	99	80	A	F
 5205	579548	1	3	901	10	Filip	Stöhr			39	dělník	Mladé Buky	99	80	A	M
 5205	579556	1	3	901	10	Michal	Čedík			47	údržba zeleně, obsluha ČOV	Mostek	99	80	A	M
-5205	579645	1	3	901	10	Petr	Birtus			51	technik OÚ, velitel hasičů	Rudník	99	80	A	
+5205	579645	1	3	901	10	Petr	Birtus			51	technik OÚ, velitel hasičů	Rudník	99	80	A	M
 5205	579734	1	3	903	10	Pavel	Čekaňák			47	OSVČ	Svoboda nad Úpou	99	80	A	M
 5205	579742	1	3	480	10	Václava	Kuříková			42	referentka	Bedřichov	99	721	A	F
 5205	579777	1	3	543	10	Karel	Slavík			48	živnostník OSVČ	Úpice	99	80	A	M
@@ -1763,7 +1763,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579777	1	7	1	10	Jiří	Lanta			77	strojník v důchodu	Úpice	1	1	A	M
 5205	579025	1	8	720	10	Jindřich	Havrda			43	řemeslník	Starý Rokytník	99	720	A	M
 5205	579777	1	8	1114	10	Irena	Sejkorová			55	sanitářka	Úpice	99	1114	A	F
-5205	579025	1	9	470	10	Martin	Vokatý	Ing. arch.		54	architekt, ATIP Trutnov	Horní Předměstí	99	166	A	
+5205	579025	1	9	470	10	Martin	Vokatý	Ing. arch.		54	architekt, ATIP Trutnov	Horní Předměstí	99	166	A	M
 5205	579025	1	10	364	10	Silvie	Kozlovská	Ing.	Ph.D.	42	lektorka ekologické výchovy	Horní Staré Město	99	80	A	F
 5205	579025	1	11	1601	10	Jan	Rükr			44	konstruktér	Střední Předměstí	99	1265	A	M
 5205	579025	1	12	1415	10	Matyáš Martin	Věchet			18	student gymnázia	Střední Předměstí	99	80	A	M
@@ -1802,7 +1802,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579203	1	2	1574	11	Jiří	Damianidis			46	servisní technik	Dvůr Králové nad Labem	99	80	A	M
 5205	579211	1	2	53	11	Jaroslav	Švorc			59	OSVČ - kovovýroba	Hajnice	99	53	A	M
 5205	579220	1	2	901	11	Jiří	Zelinka			41	soukromý podnikatel	Havlovice	99	80	A	M
-5205	579262	1	2	470	11	Jan	Puhlovský			49	OSVČ	Horní Maršov	99	80	A	
+5205	579262	1	2	470	11	Jan	Puhlovský			49	OSVČ	Horní Maršov	99	80	A	M
 5205	579297	1	2	902	11	Petr	Buchar	Ing.		61	ekonom	Hostinné	99	80	A	M
 5205	579319	1	2	903	11	Kateřina	Danielová			25	obchodník	Chotěvice	99	80	A	F
 5205	579327	1	2	902	11	Lucie	Jahodová			37	pracovník městyse	Choustníkovo Hradiště	99	80	A	F
@@ -1892,7 +1892,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579203	1	2	1574	12	Hana	Dalibabová		DiS.	24	dentální hygienistka	Dvůr Králové nad Labem	99	166	A	F
 5205	579211	1	2	53	12	Petr	Lokvenc			43	vedoucí prodejny	Hajnice	99	53	A	M
 5205	579220	1	2	901	12	Bronislav	Gazda	Ing.		56	zástupce ředitele na střední škole	Havlovice	99	80	A	M
-5205	579262	1	2	470	12	Soběslav	Neufuss	Ing.		49	OSVČ	Dolní Albeřice	99	80	A	
+5205	579262	1	2	470	12	Soběslav	Neufuss	Ing.		49	OSVČ	Dolní Albeřice	99	80	A	M
 5205	579297	1	2	902	12	Taťána	Bradlerová			50	asistentka pedagoga	Hostinné	99	80	A	F
 5205	579327	1	2	902	12	Jan	Říha			47	operátor výroby JUTA a.s.	Choustníkovo Hradiště	99	80	A	M
 5205	579351	1	2	902	12	Marie	Štelzerová			24	manipulantka	Janské Lázně	99	80	A	F
@@ -1913,7 +1913,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579432	1	3	901	12	Michael	Erben			52	vedoucí WLC VZ Bedřichov	Horní Lánov	99	80	A	M
 5205	579513	1	3	903	12	Lenka	Farská			23	obchodní referent NN Steel	Malé Svatoňovice	99	80	A	F
 5205	579548	1	3	901	12	Jan	Farkaš			35	vedoucí prodejny	Mladé Buky	99	80	A	M
-5205	579645	1	3	901	12	David	Čáp			26	OSVČ, zástupce velitele hasičů	Rudník	99	80	A	
+5205	579645	1	3	901	12	David	Čáp			26	OSVČ, zástupce velitele hasičů	Rudník	99	80	A	M
 5205	579734	1	3	903	12	Roman	Brukner			49	směnový mistr	Svoboda nad Úpou	99	80	A	M
 5205	579742	1	3	480	12	Lenka	Erlebachová			35	realitní makléřka	Bedřichov	99	721	A	F
 5205	579777	1	3	543	12	Jiří	Peterka			47	vedoucí IT Farmet a.s.	Úpice	99	80	A	M
@@ -1964,7 +1964,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579548	1	1	902	13	Václav	Vágner			51	kormidelník	Mladé Buky	99	80	A	M
 5205	579637	1	1	1508	13	Jan	Hanuš	Ing.		48	programátor	Rtyně v Podkrkonoší	1	1	A	M
 5205	579645	1	1	903	13	Gabriela	Bendová			32	žena v domácnosti	Rudník	99	80	A	F
-5205	579734	1	1	902	13	Jakub	Karmáček	Bc.		25	student	Svoboda nad Úpou	99	80	A	
+5205	579734	1	1	902	13	Jakub	Karmáček	Bc.		25	student	Svoboda nad Úpou	99	80	A	M
 5205	579742	1	1	901	13	Martin	Dočekal			44	podnikatel v IT	Bedřichov	99	80	A	M
 5205	579777	1	1	1479	13	Jaroslava	Říhová			64	učitelka v MŠ	Úpice	99	80	A	F
 5205	579858	1	1	1344	13	Jana	Michlová	MUDr.		44	lékařka	Vrchlabí	99	80	A	F
@@ -1984,7 +1984,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579513	1	2	901	13	Hana	Vosyka Jelínková			44	vychovatelka ŠD	Malé Svatoňovice	99	80	A	F
 5205	579548	1	2	903	13	Petra	Navrkalová			45	pojišťovací poradce	Hertvíkovice	99	80	A	F
 5205	579637	1	2	901	13	Michal	Rak			23	student	Rtyně v Podkrkonoší	99	80	A	M
-5205	579734	1	2	901	13	Zdena	Fiedlerová			52	laborantka	Svoboda nad Úpou	99	80	A	
+5205	579734	1	2	901	13	Zdena	Fiedlerová			52	laborantka	Svoboda nad Úpou	99	80	A	F
 5205	579742	1	2	53	13	Ester	Fryšová			51	výtvarnice	Bedřichov	99	53	A	F
 5205	579777	1	2	47	13	Milan	Krejzl			72	důchodce	Úpice	47	47	A	M
 5205	579858	1	2	113	13	Petr	Jindra	MUDr.		44	lékař	Vrchlabí	99	113	A	M
@@ -1997,7 +1997,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579432	1	3	901	13	Petr	Kratochvíl			40	manažer projektů ve stavební firmě MBQ s.r.o.	Prostřední Lánov	99	80	A	M
 5205	579513	1	3	903	13	František	Přibyl			42	konstruktér	Odolov	99	80	A	M
 5205	579548	1	3	901	13	Eva	Kouřilová			56	OSVČ	Kalná Voda	99	80	A	F
-5205	579645	1	3	901	13	Diana	Jindřišková			47	šička, členka kulturní komise	Rudník	99	80	A	
+5205	579645	1	3	901	13	Diana	Jindřišková			47	šička, členka kulturní komise	Rudník	99	80	A	F
 5205	579734	1	3	903	13	Eva	Ženková			38	servírka	Svoboda nad Úpou	99	80	A	F
 5205	579742	1	3	480	13	Jan	Posker			47	řidič	Špindlerův Mlýn	99	721	A	M
 5205	579777	1	3	543	13	Lukáš	Bárta			41	podnikatel	Úpice	99	80	A	M
@@ -2039,7 +2039,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579203	1	1	720	14	Kristýna	Farhani			32	vychovatelka	Dvůr Králové nad Labem	99	720	A	F
 5205	579211	1	1	901	14	Jan	Čermák	Ing.		40	OSVČ	Horní Žďár	99	80	A	M
 5205	579220	1	1	902	14	Jiří	Kopecký			46	obchodní zástupce	Havlovice	99	80	A	M
-5205	579262	1	1	364	14	Vanda	Krátká	Bc.		33	učitelka, mateřská dovolená	Temný Důl	99	80	A	
+5205	579262	1	1	364	14	Vanda	Krátká	Bc.		33	učitelka, mateřská dovolená	Temný Důl	99	80	A	F
 5205	579297	1	1	1	14	Miroslav	Baklík	Bc. et Bc.		25	pedagog	Hostinné	99	1	A	M
 5205	579327	1	1	901	14	Lucie	Kreislová			44	pečovatelka	Choustníkovo Hradiště	99	80	A	F
 5205	579351	1	1	480	14	Eliška	Salavcová	Mgr.		41	právnička	Janské Lázně	99	80	A	F
@@ -2060,7 +2060,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579203	1	2	1574	14	Zdeněk	Pikl	Bc.		47	zdravotnický záchranář	Dvůr Králové nad Labem	99	80	A	M
 5205	579211	1	2	53	14	Pavla	Fekiačová			50	účetní	Výšinka	99	53	A	F
 5205	579220	1	2	901	14	Jan	Nývlt	Mgr.		34	zástupce ředitele na gymnáziu	Havlovice	99	80	A	M
-5205	579262	1	2	470	14	Petr	Dostál			37	řidič, strojník	Horní Maršov	99	80	A	
+5205	579262	1	2	470	14	Petr	Dostál			37	řidič, strojník	Horní Maršov	99	80	A	M
 5205	579297	1	2	902	14	Milan	Polomčák			48	tiskař	Hostinné	99	80	A	M
 5205	579327	1	2	902	14	Jaroslava	Vopálková			40	skladnice	Choustníkovo Hradiště	99	80	A	F
 5205	579351	1	2	902	14	Vít	Štelzer			30	číšník	Janské Lázně	99	80	A	M
@@ -2120,7 +2120,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579025	1	1	47	15	Jaroslav	Jirman			67	důchodce	Horní Staré Město	47	47	A	M
 5205	579050	1	1	901	15	Jiří	Kulda			49	mistr výroby	Bernartice	99	80	A	M
 5205	579114	1	1	901	15	Michal	Rodr			54	OSVČ	Fořt	99	80	A	M
-5205	579203	1	1	720	15	Jitka	Porcalová			36	fotograf nemovitostí / makléř	Lipnice	99	720	A	F
+5205	579203	1	1	720	15	Jitka	Porcalová			36	fotograf nemovitostí/makléř	Lipnice	99	720	A	F
 5205	579211	1	1	901	15	Štěpán	Huťka			35	hasič	Hajnice	99	80	A	M
 5205	579220	1	1	902	15	Marcel	Švihálek			44	technik	Havlovice	99	80	A	M
 5205	579262	1	1	364	15	Lenka	Klimešová	Ing.		61	OSVČ - podnikatelka v cestovním ruchu	Temný Důl	99	80	A	F
@@ -2132,7 +2132,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579548	1	1	902	15	Emilie	Svobodová			76	důchodkyně	Mladé Buky	99	80	A	F
 5205	579637	1	1	1508	15	Lenka	Kuldová	Mgr.		44	učitelka	Rtyně v Podkrkonoší	1	1	A	F
 5205	579645	1	1	903	15	Pavel	Dlouhý			47	strojník	Rudník	99	80	A	M
-5205	579734	1	1	902	15	Kamil	Novák			55	technik	Svoboda nad Úpou	99	80	A	
+5205	579734	1	1	902	15	Kamil	Novák			55	technik	Svoboda nad Úpou	99	80	A	M
 5205	579742	1	1	901	15	Petr	Kraus			51	ředitel Dětské ozdravovny	Bedřichov	53	80	A	M
 5205	579777	1	1	1479	15	Karel	Šklíba			72	důchodce	Úpice	7	80	A	M
 5205	579858	1	1	1344	15	Lucie	Venclová	Bc.		34	technik stanice jízdních zkoušek	Vrchlabí	99	5	A	F
@@ -2151,7 +2151,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579432	1	2	902	15	Miroslav	Foubík			50	řidič	Horní Lánov	99	80	A	M
 5205	579513	1	2	901	15	David	Rudolf			28	technik údržby	Malé Svatoňovice	99	80	A	M
 5205	579548	1	2	903	15	Petr	Kouba			37	analytik	Hertvíkovice	99	80	A	M
-5205	579637	1	2	901	15	Radek	Kaplan			46	jednatel společnosti	Rtyně v Podkrkonoší	99	80	A	
+5205	579637	1	2	901	15	Radek	Kaplan			46	jednatel společnosti	Rtyně v Podkrkonoší	99	80	A	M
 5205	579734	1	2	901	15	Milan	Zelinský			72	podnikatel	Svoboda nad Úpou	99	80	A	M
 5205	579742	1	2	53	15	Jan	Lukáš			57	učitel ZŠ	Bedřichov	99	53	A	M
 5205	579777	1	2	47	15	Václav	Kriegel			83	důchodce	Úpice	47	47	A	M
@@ -2167,7 +2167,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579548	1	3	901	15	Jiří	Zeman			61	příslušník policie ČR	Mladé Buky	99	80	A	M
 5205	579645	1	3	901	15	Karolina	Pihlíková			47	asistent pedagoga	Javorník	99	80	A	F
 5205	579734	1	3	903	15	Jaroslav	Vendler			50	řidič	Svoboda nad Úpou	99	80	A	M
-5205	579742	1	3	480	15	Martin	Sedláček			35	manager hotelového provozu	Špindlerův Mlýn	99	80	A	
+5205	579742	1	3	480	15	Martin	Sedláček			35	manager hotelového provozu	Špindlerův Mlýn	99	80	A	M
 5205	579777	1	3	543	15	Pavlína	Gabrielová	Bc.		54	personalistka JUTA a.s.	Úpice	99	80	A	F
 5205	579858	1	3	901	15	Tomáš	Jirků	Mgr.		31	pedagog, hlavní trenér dospělých a mládeže hokejového klubu	Vrchlabí	99	80	A	M
 5205	579874	1	3	470	15	Lucie	Kligerová	Mgr. et Mgr.		29	speciální pedagog, učitelka	Žacléř	99	80	A	F
@@ -2176,7 +2176,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579203	1	4	53	15	Viktor	Schrabal			51	pracovník v logistice	Dvůr Králové nad Labem	53	53	A	M
 5205	579297	1	4	470	15	Ladislava	Bohačíková			51	zdravotní sestra	Hostinné	99	166	A	F
 5205	579351	1	4	470	15	Ladislav	Čožík			51	skladník	Janské Lázně	99	80	A	M
-5205	579548	1	4	1404	15	Tereza	Panchártková	MDDr.		33	zubní lékařka	Mladé Buky	99	80	A	
+5205	579548	1	4	1404	15	Tereza	Panchártková	MDDr.		33	zubní lékařka	Mladé Buky	99	80	A	F
 5205	579645	1	4	902	15	Lukáš	Pomahač			45	OSVČ obor stavebnictví	Javorník	99	80	A	M
 5205	579742	1	4	903	15	Pavel	Veselý	Mgr.		69	v důchodu	Špindlerův Mlýn	99	80	A	M
 5205	579777	1	4	53	15	Jiří	Marek	Ing.		73	stavební inženýr	Radeč	53	53	A	M
@@ -2470,7 +2470,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5205	579025	1	11	1601	29	Tomáš	Novák			48	profesionální řidič mezinárodní dopravy	Poříčí	99	1265	A	M
 5205	579025	1	12	1415	29	Martin	Adámek			56	autodopravce	Kryblice	99	80	A	M
 5205	579025	1	1	47	30	Věra	Kábrtová			80	důchodce	Horní Předměstí	47	47	A	F
-5205	579025	1	2	113	30	Martina	Vítová	Mgr.		43	podnikatelka, posilovna OlfinCar, školka BoGi	Kryblice	99	113	A	
+5205	579025	1	2	113	30	Martina	Vítová	Mgr.		43	podnikatelka, posilovna OlfinCar, školka BoGi	Kryblice	99	113	A	F
 5205	579025	1	3	540	30	Zdeněk	Vojíř			72	důchodce	Střední Předměstí	99	721	A	M
 5205	579025	1	4	53	30	Pavel	Škop			52	OSVČ	Poříčí	53	53	A	M
 5205	579025	1	5	1479	30	Jaroslav	Vrběcký	Ing.		82	OSVČ	Kryblice	99	80	A	M

@@ -140,7 +140,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5304	580121	1	2	355	1	Vlastimil	Mlynář	Ing.		58	investiční technik	Dolní Dobrouč	1	1	A	M
 5304	580147	1	2	902	1	Jana	Hodovalová			58	starostka	Dolní Libchavy	99	80	A	F
 5304	580163	1	2	902	1	Richard	Novák	Ing. arch.		37	starosta, architekt	Velká Morava	99	80	A	M
-5304	580228	1	2	808	1	Jan	Šeda			36	mechanik	Křižánky	99	80	A	
+5304	580228	1	2	808	1	Jan	Šeda			36	mechanik	Křižánky	99	80	A	M
 5304	580261	1	2	902	1	Patrik	Vebr			31	svářeč	Hnátnice	99	80	A	M
 5304	580333	1	2	901	1	Petr	Mačát			31	kovář, podkovář	Horní Třešňovec	99	80	A	M
 5304	580350	1	2	1	1	Anežka	Pavlišová	Mgr.		40	projektová manažerka, zakladatelka mateřského centra Kamínek	Choceň	99	1	A	F
@@ -1013,7 +1013,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5304	573426	1	2	902	4	Michal	Pavlišta			25	kontrolor kvality	Helvíkov	99	80	A	M
 5304	574392	1	2	901	4	Jiří	Palek			59	elektromontér	Sázava	99	80	A	M
 5304	579891	1	2	901	4	Vladimír	Chudý			45	hotelový manažer, trenér mládeže	Ústí nad Orlicí	99	80	A	M
-5304	579947	1	2	903	4	Roman	Buchtel			42	OSVČ	Brandýs nad Orlicí	99	80	A	M
+5304	579947	1	2	903	4	Roman	Buchtel			42	předseda dětské organizace	Brandýs nad Orlicí	99	80	A	M
 5304	579980	1	2	903	4	Růžena	Konečná	Bc.		34	moderátorka, produkční	Herbortice	99	80	A	F
 5304	580015	1	2	903	4	David	Švestka	MVDr.		38	veterinární lékař, člen Rady obce Červená Voda, zakladatel skupiny Kapky	Červená Voda	99	80	A	M
 5304	580031	1	2	901	4	Tereza	Hýblová			26	obchodní referentka, členka Českého svazu ochránců přírody, zastupitelka	Česká Třebová	5	80	A	F
@@ -1822,7 +1822,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5304	580945	1	1	901	8	Lenka	Koukalová			60	finanční poradce	Slatina	99	80	A	F
 5304	580961	1	1	901	8	Jakub	Hynek			30	hasič Hasičského záchranného sboru správy železnic	Sopotnice	99	80	A	M
 5304	580970	1	1	901	8	Aneta	Černá		DiS.	41	projektový manažer	Sruby	99	80	A	F
-5304	580988	1	1	901	8	Martin	Petr			35	nástrojař	Strážná	99	80	A	M
 5304	581038	1	1	901	8	Tereza	Adamcová			36	operátor výroby	Šedivec	99	80	A	F
 5304	581046	1	1	1	8	Rostislav	Grof			54	OSVČ	Tatenice	99	1	A	M
 5304	581054	1	1	47	8	Mikuláš	Papoušek	JUDr.		73	důchodce	Těchonín	99	47	A	M
@@ -2234,7 +2233,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5304	580538	1	1	1327	11	Jonáš	Syrovátka			25	finanční poradce	Letohrad	99	721	A	M
 5304	580627	1	1	901	11	Šárka	Bollo			38	sociální pracovnice	Lukavice	99	80	A	F
 5304	580643	1	1	1	11	Petr	Nastoupil			32	podnikatel	Mistrovice	99	1	A	M
-5304	580848	1	1	901	11	Lenka Kosa	Dušková			44	pedagog	Rudoltice	99	80	A	F
+5304	580848	1	1	901	11	Lenka	Kosa Dušková			44	pedagog	Rudoltice	99	80	A	F
 5304	580961	1	1	901	11	Miloslav	Kubový	Bc.		35	technický pracovník	Sopotnice	99	80	A	M
 5304	581054	1	1	47	11	Radim	Merta			47	seřizovač CNC lisů	Těchonín	99	47	A	M
 5304	581151	1	1	470	11	Markéta	Schejbalová	Mgr.		46	učitelka	Svatý Mikuláš	99	166	A	F
@@ -2589,7 +2588,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5304	580112	1	2	1	15	Anežka	Macanová			18	student	Jakubovice	99	1	A	F
 5304	580121	1	2	355	15	Jitka	Vodáková			55	prodavačka	Dolní Dobrouč	99	1	A	F
 5304	580147	1	2	902	15	Jiří	Čermák			57	podnikatel	Dolní Libchavy	99	80	A	M
-5304	580350	1	2	1	15	Vlasta	Marková	Bc.		42	učitelka MŠ	Choceň	99	1	A	
+5304	580350	1	2	1	15	Vlasta	Marková	Bc.		42	učitelka MŠ	Choceň	99	1	A	F
 5304	580376	1	2	181	15	Erika	Halásová	Mgr.		47	úřednice	Jablonné nad Orlicí	99	181	A	F
 5304	580481	1	2	1004	15	Pavel	Mačát			55	OSVČ	Králíky	99	1004	A	M
 5304	580511	1	2	47	15	Jaroslav	Mareš			74	důchodce	Ostrovské Předměstí	47	47	A	M
@@ -2845,7 +2844,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5304	580511	1	1	355	21	Věra	Zemanová			65	středoškolská učitelka	Dolní Třešňovec	99	80	A	F
 5304	580538	1	1	1327	21	Petr	Hoffmann			53	rada katastrálního úřadu	Letohrad	99	1	A	M
 5304	581186	1	1	181	21	Dušan	Lipavský	Ing.		54	programátor	Pražské Předměstí	99	181	A	M
-5304	581259	1	1	470	21	Jaromír	Motl			57	OSVČ	Žamberk	99	80	A	
+5304	581259	1	1	470	21	Jaromír	Motl			57	OSVČ	Žamberk	99	80	A	M
 5304	579891	1	2	901	21	Iva	Vávrová	Bc.		46	ředitelka mateřské školy	Černovír	99	80	A	F
 5304	580031	1	2	901	21	Jiří	Němec			36	referent nákupu, hudebník, rozhodčí florbalu, člen kulturní komise rady města	Česká Třebová	99	80	A	M
 5304	580350	1	2	1	21	Věra	Luxová			67	zastupitelka města Chocně	Dvořisko	1	1	A	F

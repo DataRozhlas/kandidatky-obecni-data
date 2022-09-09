@@ -234,7 +234,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	568244	1	4	901	1	Bohuslava	Krupová	Mgr.		39	starostka obce	Vřesina	99	80	A	F
 8105	568317	1	4	903	1	Šárka	Volná	Ing.		33	zootechnik	Radkov	99	80	A	F
 8105	569097	1	4	804	1	Rostislav	Knob			48	technik	Moravice	99	80	A	M
-8105	569101	1	4	903	1	Marcel	Bolacký			47	montér	Třebom	99	80	A	
+8105	569101	1	4	903	1	Marcel	Bolacký			47	montér	Třebom	99	80	A	M
 8105	569950	1	4	1	1	Milan	Baroň			54	vedoucí střediska	Čermná ve Slezsku	1	1	A	M
 8105	505927	1	5	510	1	Ondřej	Veselý	Ing.	MBA	49	ekonom, ředitel realitní kanceláře	Jaktař	99	80	A	M
 8105	506451	1	5	901	1	David	Cihlář			44	řidič, strojník	Leskovec	99	80	A	M
@@ -563,7 +563,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	505927	1	11	401	2	Jan	Štěrba			60	dispečer MDPO, zastupitel SMO	Předměstí	99	80	A	M
 8105	505927	1	12	768	2	Michal	Štěpánek	Ing.		52	jednatel společnosti GRAFICO	Předměstí	768	768	A	M
 8105	505927	1	13	1114	2	Jiří	Lévay			35	strážník městské policie, zastupitel SMO	Předměstí	1114	1114	A	M
-8105	505927	1	14	1271	2	Petra	Gallusová	Ing.		41	OSVČ, výrobce potravin	Předměstí	99	1271	A	
+8105	505927	1	14	1271	2	Petra	Gallusová	Ing.		41	OSVČ, výrobce potravin	Předměstí	99	1271	A	F
 8105	505927	1	1	1188	3	Miroslava	Konečná	Mgr.		66	starostka MČ Malé Hoštice	Malé Hoštice	1188	1188	A	F
 8105	506192	1	1	902	3	Petr	Kubík			38	hasič	Bohuslavice	99	80	A	M
 8105	506214	1	1	901	3	Matěj	Boček	RNDr.	Ph.D.	31	projektový manažer	Bolatice	99	80	A	M
@@ -728,7 +728,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	509647	1	3	901	3	Daniel	Šebestík	Ing.		55	manažer nákupu	Píšť	99	80	A	M
 8105	509736	1	3	901	3	Vlastimil	Hrádek	Mgr.		52	ředitel školy	Pustá Polom	99	80	A	M
 8105	509841	1	3	902	3	Radek	Motl			45	dispečer	Raduň	99	80	A	M
-8105	510131	1	3	901	3	Milan	Lindovský	Ing. Bc.	Ph.D.. MBA	66	OSVČ, zakladatel neziskové organizace	Skřipov	99	80	A	M
+8105	510131	1	3	901	3	Milan	Lindovský	Ing. Bc.	Ph.D. MBA	66	OSVČ, zakladatel neziskové organizace	Skřipov	99	80	A	M
 8105	510297	1	3	903	3	Roman	Tománek	Bc.		40	finanční a projektový manažer	Služovice	99	80	A	M
 8105	510378	1	3	903	3	Michal	Mikluš	Ing.		38	technolog	Sudice	99	80	A	M
 8105	510432	1	3	1114	3	Tomáš	Lazar			47	referent prodeje	Šilheřovice	99	1114	A	M
@@ -819,7 +819,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	506702	1	1	904	4	Monika	Gebauerová	Mgr.		45	ředitelka střední školy	Dolní Benešov	99	80	A	F
 8105	506753	1	1	1	4	Ivana	Gibson	Bc.	MBA	52	personální ředitelka	Smolkov	99	1	A	F
 8105	507016	1	1	1	4	Aleš	Hanslík	Ing.	Ph.D.	39	technický ředitel	Hlučín	1	1	A	M
-8105	507105	1	1	901	4	Petr	Stříbrný	Ing.		39	OSVČ	Hněvošice	99	80	A	M
+8105	507105	1	1	901	4	Petr	Stříbný	Ing.		39	OSVČ	Hněvošice	99	80	A	M
 8105	507261	1	1	902	4	Aleš	Chromý			53	starosta obce	Hrabyně	99	80	A	M
 8105	507270	1	1	768	4	Alexandr	Bareš			41	jednatel společnosti	Žimrovice	768	768	A	M
 8105	507334	1	1	904	4	Patrik	Novák			45	manažer nákupu	Chuchelná	99	80	A	M
@@ -842,7 +842,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	510378	1	1	901	4	Radek	Havala			55	fyzioterapeut	Sudice	99	80	A	M
 8105	510432	1	1	768	4	David	Robenek			44	podnikatel	Šilheřovice	99	768	A	M
 8105	510483	1	1	902	4	Martin	Záloha	Ing.		39	projektový manažer	Štěpánkovice	99	80	A	M
-8105	510491	1	1	902	4	Jan	Radek	Bc.		46	manager	Štítina	99	80	A	M
+8105	510491	1	1	902	4	Jan	Radek	Bc.		46	projektový meneger	Štítina	99	80	A	M
 8105	510891	1	1	53	4	Marcel	Zemborski			44	elektrikář OSVČ	Velké Heraltice	99	53	A	M
 8105	510939	1	1	902	4	Romana	Vaňková			51	OSVČ	Velké Hoštice	99	80	A	F
 8105	511021	1	1	902	4	Pavel	Vašátko			47	hasič	Vítkov	99	80	A	M
@@ -1037,13 +1037,13 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	506702	1	6	902	4	René	Dihel			23	student lékařské fakulty	Dolní Benešov	99	80	A	M
 8105	507016	1	6	129	4	Jiří	Stařínský			66	OSVČ	Darkovičky	99	129	A	M
 8105	507270	1	6	401	4	Markéta	Střižíková			47	zdravotní sestra	Hradec nad Moravicí	99	88	A	F
-8105	507580	1	6	389	4	Šárka	Klemensová	Mgr.		33	učitelka jazyků, vicemiss ČR 2011	Kravaře	99	53	A	
+8105	507580	1	6	389	4	Šárka	Klemensová	Mgr.		33	učitelka jazyků, vicemiss ČR 2011	Kravaře	99	53	A	F
 8105	508373	1	6	903	4	David	Gregor			22	OSVČ	Mokré Lazce	99	80	A	M
 8105	510939	1	6	905	4	Renata	Pospiechová	Mgr.		62	ředitelka ZŠ	Velké Hoštice	99	80	A	F
 8105	505927	1	7	1	4	Lucie	Pobořilová	Mgr.		45	pracovník v chráněném bydlení	Kateřinky	1	1	A	F
 8105	506702	1	7	903	4	Patrik	Stanovský			36	stavební dělník	Zábřeh	99	80	A	M
 8105	507016	1	7	541	4	Blanka	Kotrlová			55	pracovník obchodu - eshop	Bobrovníky	99	80	A	F
-8105	507270	1	7	47	4	Dana	Gebauerová			70	důchodce	Bohučovice	99	47	A	
+8105	507270	1	7	47	4	Dana	Gebauerová			70	důchodce	Bohučovice	99	47	A	F
 8105	507580	1	7	903	4	Jana	Kokešová	Mgr.		34	právník	Kravaře	99	80	A	F
 8105	508373	1	7	901	4	Petr	Komár	Bc.		56	stavební technik	Mokré Lazce	99	80	A	M
 8105	505927	1	8	1227	4	Lidia Monika	Kopťáková	Ing.		54	státní zaměstnanec	Předměstí	1227	1227	A	F
@@ -1055,7 +1055,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	505927	1	12	768	4	Michal	Kokošek	Ing.		40	1. náměstek primátora statutárního města Opavy	Malé Hoštice	768	768	A	M
 8105	505927	1	13	1114	4	Ivo	Špičák	Bc.		51	vychovatel v dětském domově	Kateřinky	99	1114	A	M
 8105	505927	1	14	1271	4	Marián	Gábor			45	hudebník	Kateřinky	1271	1271	A	M
-8105	505927	1	1	1188	5	Zdeněk	Hoza			56	vedoucí výroby, starosta MČ Podvihov	Podvihov	1188	1188	A	M
+8105	505927	1	1	1188	5	Zdeněk	Hoza			56	starosta MČ Podvihov, vedoucí výroby	Podvihov	1188	1188	A	M
 8105	506192	1	1	902	5	David	Pašek			24	manager obchodu	Bohuslavice	99	80	A	M
 8105	506214	1	1	901	5	Libor	Šefčík	Ing.		52	strojní konstruktér	Bolatice	99	80	A	M
 8105	506320	1	1	901	5	Pavel	Vrbický			50	OSVČ	Skrochovice	99	80	A	M
@@ -1111,7 +1111,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	555339	1	1	901	5	Karel	Kopperberg			57	referent Městský úřad Kravaře, zastupitel	Pusté Jakartice	99	80	A	M
 8105	555355	1	1	1	5	Zuzana	Smolková			40	sekretářka v advokátní kanceláři	Komárov	99	1	A	F
 8105	555371	1	1	1188	5	Tomáš	Kubesa			49	OSVČ	Suché Lazce	99	1188	A	M
-8105	555401	1	1	901	5	Petra	Heinzová			33	rodičovská dovolená, účetní	Podvihov	99	80	A	F
+8105	555401	1	1	901	5	Petra	Heinzová			33	RD, účetní	Podvihov	99	80	A	F
 8105	555436	1	1	902	5	Martin	Buček		DiS.	35	OSVČ	Milostovice	99	80	A	M
 8105	555461	1	1	1188	5	Petr	Zalibor			55	OSVČ	Vlaštovičky	99	1188	A	M
 8105	556700	1	1	355	5	Zdeněk	Richlý			59	zámečník	Vávrovice	99	80	A	M
@@ -1250,7 +1250,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	508373	1	4	1	5	Jiří	Martiník			36	realitní makléř	Mokré Lazce	99	1	A	M
 8105	509736	1	4	7	5	Radek	Juchelka	Ing.		50	vedoucí obchodu	Pustá Polom	99	7	A	M
 8105	509841	1	4	901	5	Lumír	Majnuš			58	živnostník	Raduň	99	80	A	M
-8105	510432	1	4	901	5	Michal	Šomodi			39	hasič-strojník	Šilheřovice	99	80	A	
+8105	510432	1	4	901	5	Michal	Šomodi			39	hasič-strojník	Šilheřovice	99	80	A	M
 8105	510491	1	4	904	5	Radek	Machold			33	specialista CAN	Štítina	99	80	A	M
 8105	510891	1	4	47	5	Jaroslava	Vyhlídalová			50	dělnice	Sádek	99	47	A	F
 8105	510939	1	4	904	5	Martin	Janecký	Ing.		44	ekonom	Velké Hoštice	99	80	A	M
@@ -1286,7 +1286,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	505927	1	7	1	5	Monika	Jarošová	Mgr.		51	ředitelka ZŠ, překladatelka	Kylešovice	99	1	A	F
 8105	506702	1	7	903	5	Jana	Bastlová			37	zdravotní sestra	Zábřeh	99	80	A	F
 8105	507016	1	7	541	5	Eva	Kotková	Mgr.		58	výtvarnice	Hlučín	99	80	A	F
-8105	507270	1	7	47	5	Jaroslav	Zberovský			68	důchodce	Hradec nad Moravicí	99	47	A	
+8105	507270	1	7	47	5	Jaroslav	Zberovský			68	důchodce	Hradec nad Moravicí	99	47	A	M
 8105	507580	1	7	903	5	Karel	Kotzian			51	OSVČ - elektrotechnik	Kravaře	99	80	A	M
 8105	508373	1	7	901	5	Adéla	Šimečková			33	zdravotní sestra	Mokré Lazce	99	80	A	F
 8105	505927	1	8	1227	5	Jakub	Moński	Ing.		33	středoškolský učitel	Kateřinky	99	1227	A	M
@@ -1297,7 +1297,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	505927	1	11	401	5	Roman	Jamnický	Ing.		63	emeritní ředitel firmy	Jaktař	99	80	A	M
 8105	505927	1	12	768	5	Dalibor	Bárta	Mgr.		51	učitel, podnikatel, jednatel společnosti Hokejový klub Opava	Malé Hoštice	768	768	A	M
 8105	505927	1	13	1114	5	Hana	Říčná			58	OSVČ, ID	Kateřinky	1114	1114	A	F
-8105	505927	1	14	1271	5	Václav	Kubný	Bc.		60	elektroprojektant	Předměstí	99	1271	A	
+8105	505927	1	14	1271	5	Václav	Kubný	Bc.		60	elektroprojektant	Předměstí	99	1271	A	M
 8105	505927	1	1	1188	6	Kamil	Ručil			52	starosta MČ Milostovice, vedoucí střediska	Milostovice	1188	1188	A	M
 8105	506192	1	1	902	6	Petr	Tulis	Ing.	MBA	48	obchodní ředitel	Bohuslavice	99	80	A	M
 8105	506214	1	1	901	6	Stanislav	Pašek	Ing.	MBA	40	manažer finančního oddělení	Bolatice	99	80	A	M
@@ -1369,8 +1369,8 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	568317	1	1	904	6	Radovan	Bierski			33	produktový manažer	Radkov	99	80	A	M
 8105	568333	1	1	901	6	Libor	Beneš			47	údržbář	Štáblovice	99	80	A	M
 8105	568341	1	1	902	6	Jiří	Pretsch			35	IT specialista	Uhlířov	99	80	A	M
-8105	568368	1	1	902	6	Petr	Orlík			28	OSVČ	Hlubočec	99	80	A	
-8105	568376	1	1	902	6	Jiří	Stříbný			42	opravář zemědělských strojů	Rohov	99	80	A	
+8105	568368	1	1	902	6	Petr	Orlík			28	OSVČ	Hlubočec	99	80	A	M
+8105	568376	1	1	902	6	Jiří	Stříbný			42	opravář zemědělských strojů	Rohov	99	80	A	M
 8105	569101	1	1	901	6	Marek	Varmus			35	řidič	Třebom	99	80	A	M
 8105	569895	1	1	166	6	Michal	Lišaník	MUDr.		51	lékař	Dobroslavice	99	166	A	M
 8105	569909	1	1	901	6	Jaroslav	Németh			62	vedoucí oddělení technologie	Chvalíkovice	99	80	A	M
@@ -2333,7 +2333,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	505927	1	11	401	10	Luděk	Kyjovský			58	podnikající osoba	Předměstí	99	80	A	M
 8105	505927	1	12	768	10	Vladimír	Schreier	Ing.		62	jednatel společnosti ADIV - ŠKODA AUTO	Kylešovice	99	768	A	M
 8105	505927	1	13	1114	10	Marcela	Matějková			48	obsluha čerpací stanice	Město	99	1114	A	F
-8105	505927	1	14	1271	10	Jozef	Vagai			67	důchodce, podlahář	Předměstí	99	1271	A	
+8105	505927	1	14	1271	10	Jozef	Vagai			67	důchodce, podlahář	Předměstí	99	1271	A	M
 8105	505927	1	1	1188	11	Lumír	Král	Mgr.		52	učitel	Zlatníky	1188	1188	A	M
 8105	506192	1	1	902	11	Zuzana	Černá	Bc.		50	úředník	Bohuslavice	99	80	A	F
 8105	506214	1	1	901	11	Zdeněk	Kročil			57	ředitel společnosti	Bolatice	99	80	A	M
@@ -2402,7 +2402,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	568228	1	2	901	11	Martin	Vilášek	Mgr.		44	SŠ učitel	Darkovice	99	80	A	M
 8105	568236	1	2	901	11	Petr	Libscher			53	senior technolog	Děhylov	99	80	A	M
 8105	568244	1	2	903	11	Aleš	Halfar			55	stavbyvedoucí	Vřesina	99	80	A	M
-8105	570036	1	2	1	11	Daniel	Galčan	Ing.		38	IT architekt	Větřkovice	99	1	A	M
+8105	570036	1	2	1	11	Daniel	Galčan	Ing.		41	IT architekt	Větřkovice	99	1	A	M
 8105	505927	1	3	7	11	Petr	Palyza	Bc.		47	strážník MP	Kylešovice	7	7	A	M
 8105	506192	1	3	901	11	Václav	Kopka			32	skladník	Bohuslavice	99	80	A	M
 8105	506214	1	3	480	11	Jakub	Langer	Ing.		35	procesní inženýr	Bolatice	99	80	A	M
@@ -2459,7 +2459,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	505927	1	7	1	11	Ivo	Vaněček	Bc.		58	ředitel Elimu	Předměstí	99	1	A	M
 8105	506702	1	7	903	11	Pavel	Jařáb			58	zámečník	Zábřeh	99	80	A	M
 8105	507016	1	7	541	11	Radka	Kratochvílová		DiS.	43	ergoterapeutka	Darkovičky	99	80	A	F
-8105	507270	1	7	47	11	Dušan	Hrbáč	JUDr.		71	důchodce	Hradec nad Moravicí	99	47	A	
+8105	507270	1	7	47	11	Dušan	Hrbáč	JUDr.		71	důchodce	Hradec nad Moravicí	99	47	A	M
 8105	507580	1	7	903	11	Lenka	Strachotová			48	sanitářka	Dvořisko	99	80	A	F
 8105	505927	1	8	1227	11	Michaela	Němcová	Ing.		28	provozní	Kateřinky	99	1227	A	F
 8105	507270	1	8	901	11	Tomáš	Volný	Mgr.		51	farmaceut	Hradec nad Moravicí	99	80	A	M
@@ -2582,7 +2582,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	505927	1	7	1	12	Vasil	Husár			43	rómský aktivista, zakladatel romského festivalu	Město	1	1	A	M
 8105	506702	1	7	903	12	Radek	Bastl			42	státní zaměstnanec	Zábřeh	99	80	A	M
 8105	507016	1	7	541	12	Radim	Matějček			50	jednatel společnosti	Hlučín	99	80	A	M
-8105	507270	1	7	47	12	Milada	Kovalská			65	důchodce	Hradec nad Moravicí	99	47	A	
+8105	507270	1	7	47	12	Milada	Kovalská			65	důchodce	Hradec nad Moravicí	99	47	A	F
 8105	507580	1	7	903	12	Jiří	Papež	Ing.		58	technolog	Kouty	99	80	A	M
 8105	505927	1	8	1227	12	Milan	Jureček	Ing.		64	ekonom	Kylešovice	99	1227	A	M
 8105	507270	1	8	901	12	Roman	Vavrys			47	tesař	Kajlovec	99	80	A	M
@@ -2628,7 +2628,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	506192	1	2	903	13	Jakub	Fichna	Ing.		36	obchodní manažer	Bohuslavice	99	80	A	M
 8105	506320	1	2	902	13	Leopold	Blažek	Bc.		29	policista	Brumovice	99	80	A	M
 8105	506451	1	2	903	13	Martina	Lichovníková	Bc.		47	OSVČ - provozovatelka ČS	Březová	99	80	A	F
-8105	506460	1	2	53	13	Emilie	Ščurková	Mgr.		52	učitelka MŠ	Budišov nad Budišovkou	99	53	A	F
+8105	506460	1	2	53	13	Emílie	Ščurková	Mgr.		52	učitelka MŠ	Budišov nad Budišovkou	99	53	A	F
 8105	506702	1	2	901	13	Vendula	Svobodová	Bc.		42	pedagogický asistent	Dolní Benešov	99	80	A	F
 8105	506753	1	2	449	13	Vladimíra	Berousková	Mgr.		38	vrchní sestra domova pro seniory	Lhota	99	80	A	F
 8105	507016	1	2	53	13	Libor	Weiss			57	OSVČ	Darkovičky	99	53	A	M
@@ -2705,7 +2705,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	505927	1	7	1	13	Jana	Dostálová			62	vedoucí centra pro rodinu	Kylešovice	99	1	A	F
 8105	506702	1	7	903	13	Jaroslav	Albrecht	Ing.		45	geodet	Zábřeh	99	80	A	M
 8105	507016	1	7	541	13	Dominika	Enderová		DiS.	27	bankéř klientské péče	Darkovičky	99	80	A	F
-8105	507270	1	7	47	13	Svatopluk	Řemelka			76	důchodce	Hradec nad Moravicí	99	47	A	
+8105	507270	1	7	47	13	Svatopluk	Řemelka			76	důchodce	Hradec nad Moravicí	99	47	A	M
 8105	507580	1	7	903	13	Michal	Hlubek			37	OSVČ - revizní technik	Kravaře	99	80	A	M
 8105	505927	1	8	1227	13	Roman	Bárta	JUDr.		62	právník	Předměstí	99	1227	A	M
 8105	507270	1	8	901	13	David	Sekula			39	kovář	Benkovice	99	80	A	M
@@ -2715,7 +2715,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	505927	1	11	401	13	Ladislav	Kačena			43	jednatel společnosti	Kylešovice	99	80	A	M
 8105	505927	1	12	768	13	Jakub	Kopťák	Bc.		39	podnikatel	Kylešovice	768	768	A	M
 8105	505927	1	13	1114	13	Jaroslav	Klímek			49	ošetřovatel ve zdravotnictví	Předměstí	99	1114	A	M
-8105	505927	1	14	1271	13	Gražyna	Grimová	Ing.		50	zdravotní sestra	Lyžbice	99	1271	A	
+8105	505927	1	14	1271	13	Gražyna	Grimová	Ing.		50	zdravotní sestra	Lyžbice	99	1271	A	F
 8105	505927	1	1	1188	14	Jaroslav	Cigánek			52	místostarosta MČ Zlatníky, údržbář	Zlatníky	1188	1188	A	M
 8105	506192	1	1	902	14	Petr	Kocur			55	školník	Bohuslavice	99	80	A	M
 8105	506214	1	1	901	14	David	Steffek	Mgr.		34	učitel, fotbalový trenér	Bolatice	99	80	A	M
@@ -2836,7 +2836,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	505927	1	11	401	14	Jakub	Vlček	Ing.		33	majitel vzdělávací organizace	Kylešovice	99	80	A	M
 8105	505927	1	12	768	14	Igor	Hendrych	PhDr.	Ph.D.	54	poslanec Parlamentu ČR, vysokoškolský pedagog	Předměstí	768	768	A	M
 8105	505927	1	13	1114	14	Edita	Kolačná			38	pracovník v soc. službách	Předměstí	99	1114	A	F
-8105	505927	1	14	1271	14	Eliška	Šnajdrová			66	důchodkyně, pedikérka	Předměstí	99	1271	A	
+8105	505927	1	14	1271	14	Eliška	Šnajdrová			66	důchodkyně, pedikérka	Předměstí	99	1271	A	F
 8105	505927	1	1	1188	15	Milan	Trulej	Mgr. Bc.	LL.M., MBA	45	zastupitel MČ Komárov, státní zaměstnanec	Komárov	99	1188	A	M
 8105	506192	1	1	902	15	Kateřina	Vitásková			40	mzdová účetní	Bohuslavice	99	80	A	F
 8105	506214	1	1	901	15	Lydie	Peterková			67	seniorka	Bolatice	99	80	A	F
@@ -2844,7 +2844,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	506451	1	1	904	15	Vít	Minařík			55	soukromý zemědělec	Jančí	99	80	A	M
 8105	506460	1	1	1	15	Lukáš	Hrabina			46	OSVČ	Guntramovice	99	1	A	M
 8105	506702	1	1	904	15	Jana	Petrásková			60	knihovnice	Dolní Benešov	99	80	A	F
-8105	506753	1	1	1	15	Kamil	Tůma			39	OSVČ	Chabičov	99	1	A	M
+8105	506753	1	1	1	15	Kamil	Tůma			39	osoba samostatně výdělečně činná	Chabičov	99	1	A	M
 8105	507016	1	1	1	15	Danuše	Lorencová			62	důchodkyně	Hlučín	99	1	A	F
 8105	507270	1	1	768	15	Barbora	Hozová			23	projektový manažer	Hradec nad Moravicí	99	768	A	F
 8105	507334	1	1	904	15	Daniel	Štefek			51	elektromontér	Chuchelná	99	80	A	M
@@ -2945,7 +2945,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	505927	1	7	1	15	Lenka	Roháčková			60	zdravotní sestra mobilního hospice Charity Opava	Předměstí	99	1	A	F
 8105	506702	1	7	903	15	Maxmilián	Slanina	Ing.		64	důchodce	Zábřeh	99	80	A	M
 8105	507016	1	7	541	15	Ivo	Kratochvíl			44	informatik	Darkovičky	99	80	A	M
-8105	507270	1	7	47	15	Lubomír	Mička			76	důchodce	Hradec nad Moravicí	99	47	A	
+8105	507270	1	7	47	15	Lubomír	Mička			76	důchodce	Hradec nad Moravicí	99	47	A	M
 8105	507580	1	7	903	15	Jana	Gebauer	Mgr.	LL.M.	28	právník	Kouty	99	80	A	F
 8105	505927	1	8	1227	15	Lenka	Minaříková			56	manipulant montáže	Kateřinky	99	1227	A	F
 8105	507270	1	8	901	15	Vladimír	Gřunděl			49	operátor CNC strojů	Hradec nad Moravicí	99	80	A	M
@@ -3091,7 +3091,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	505927	1	7	1	18	Radim	Prymus			57	optometrista	Předměstí	99	1	A	M
 8105	507016	1	7	541	18	Jan	Janeček			39	elektromechanik	Darkovičky	99	80	A	M
 8105	507270	1	7	47	18	Jaroslav	Janek			69	důchodce	Žimrovice	47	47	A	M
-8105	507580	1	7	903	18	Daniel	Skřeček	Ing.		35	specialista kontaktu se zákazníky	Kravaře	99	80	A	
+8105	507580	1	7	903	18	Daniel	Skřeček	Ing.		35	specialista kontaktu se zákazníky	Kravaře	99	80	A	M
 8105	505927	1	8	1227	18	Zdenka	Antošová			64	důchodce	Kateřinky	99	1227	A	F
 8105	507270	1	8	901	18	Rudolf	Sosna	Ing.		67	důchodce	Hradec nad Moravicí	99	80	A	M
 8105	507580	1	8	1	18	Martin	Rzehulka	Ing.		51	správce systémů	Kouty	99	1	A	M
@@ -3145,7 +3145,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	505927	1	10	364	19	Tereza	Krekáňová	Bc.		26	pracovnice v sociálních službách	Vítkov	5	5	A	F
 8105	505927	1	11	401	19	David	Zobel	Mgr.		46	farmaceut	Předměstí	99	80	A	M
 8105	505927	1	12	768	19	Vítězslav	Doleží	Ing.		55	ředitel Střední školy průmyslové a umělecké, Opava	Kateřinky	768	768	A	M
-8105	505927	1	13	1114	19	Marie	Sokolová	Ing.		78	důchodce	Předměstí	1114	1114	A	
+8105	505927	1	13	1114	19	Marie	Sokolová	Ing.		78	důchodce	Předměstí	1114	1114	A	F
 8105	505927	1	14	1271	19	Petr	Šusták			58	konstruktér	Předměstí	99	1271	A	M
 8105	505927	1	1	1188	20	Petr	Kubesa			47	sociální pracovník	Vávrovice	99	1188	A	M
 8105	506753	1	1	1	20	Martina	Suchánková	Bc.		48	referent společné státní správy a samosprávy	Chabičov	99	1	A	F
@@ -3188,10 +3188,10 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	505927	1	11	401	20	Dalibor	Hrda		DiS.	64	sólista opery Slezského divadla	Kateřinky	99	80	A	M
 8105	505927	1	12	768	20	Vladimír	Pfeffer	PhDr.	Ph.D.	80	důchodce, univerzitní pedagog, lingvista, muzeolog	Město	99	768	A	M
 8105	505927	1	13	1114	20	Radek	Winarek			53	OSVČ	Kateřinky	99	1114	A	M
-8105	505927	1	14	1271	20	Sára	Stoschková			18	ošetřovatelka	Město	99	1271	A	
+8105	505927	1	14	1271	20	Sára	Stoschková			18	ošetřovatelka	Město	99	1271	A	F
 8105	505927	1	1	1188	21	Marie	Vegelová	Ing.		40	zastupitelka MČ Malé Hoštice, pracovník logistiky	Malé Hoštice	99	1188	A	F
 8105	506753	1	1	1	21	Vlasta	Kadulová			74	ekonom	Smolkov	1	1	A	F
-8105	507016	1	1	1	21	Josef	Barták	Ing.		80	designer-architekt	Hlučín	1	1	A	
+8105	507016	1	1	1	21	Josef	Barták	Ing.		80	designer-architekt	Hlučín	1	1	A	M
 8105	507270	1	1	768	21	Zdeněk	Bareš			49	řidič, jeřábník	Žimrovice	99	768	A	M
 8105	507580	1	1	768	21	Pavel	Moravec	Ing.		54	jednatel společnosti	Kouty	99	768	A	M
 8105	511021	1	1	902	21	Dagmar	Beranová			71	důchodce	Vítkov	99	80	A	F
@@ -3282,7 +3282,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	505927	1	11	401	25	Dan	Čančík			44	softwarový inženýr	Předměstí	99	80	A	M
 8105	505927	1	12	768	25	Ladislav	Kreisel			66	vedoucí pracoviště servisního centra sportu ČUS v Opavě	Předměstí	99	768	A	M
 8105	505927	1	13	1114	25	Klára	Špičáková			29	učitelka ZŠ	Kateřinky	99	1114	A	F
-8105	505927	1	14	1271	25	Lucie	Michalčíková	Mgr.		36	speciální pedagog	Předměstí	99	1271	A	
+8105	505927	1	14	1271	25	Lucie	Michalčíková	Mgr.		36	speciální pedagog	Předměstí	99	1271	A	F
 8105	505927	1	1	1188	26	Roman	Krusberský			54	starosta okresního sdružení hasičů, OSVČ	Zlatníky	99	1188	A	M
 8105	505927	1	3	7	26	Olga	Kmínková Sobotková	Ing.		35	mateřská dovolená	Předměstí	99	7	A	F
 8105	505927	1	4	687	26	Jan	Rambousek	MUDr.		68	lékař	Kateřinky	53	53	A	M
@@ -3363,14 +3363,14 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	505927	1	3	7	32	Veronika	Urbancová			22	vychovatelka v dětském domově	Město	99	7	A	F
 8105	505927	1	4	687	32	Václav	Rychtář	Ing.		62	majitel stavební firmy	Jaktař	53	53	A	M
 8105	505927	1	5	510	32	Jan	Ondračka			47	vedoucí provozu	Předměstí	99	80	A	M
-8105	505927	1	6	47	32	Svatava	Lhotská			50	invalidní důchodkyně	Předměstí	99	47	A	
+8105	505927	1	6	47	32	Svatava	Lhotská			50	invalidní důchodkyně	Předměstí	99	47	A	F
 8105	505927	1	7	1	32	Albert	Červeň	Ing.		62	úředník	Předměstí	99	1	A	M
 8105	505927	1	9	541	32	Iveta	Hrubá	Ing.		52	státní úředník	Předměstí	99	720	A	F
 8105	505927	1	10	364	32	Martina	Hrazdilová	Mgr.		50	lékárnice	Kateřinky	99	5	A	F
 8105	505927	1	11	401	32	Sabina	Slívková			29	vedoucí recepce	Předměstí	99	80	A	F
 8105	505927	1	12	768	32	Miroslava	Kolář	MUDr.		38	oční lékař	Kateřinky	99	768	A	F
 8105	505927	1	13	1114	32	Patrik	Bőhm			36	IT technik, OSVČ	Předměstí	99	1114	A	M
-8105	505927	1	14	1271	32	Luděk	Štifner			48	OSVČ, podlahář	Předměstí	99	1271	A	
+8105	505927	1	14	1271	32	Luděk	Štifner			48	OSVČ, podlahář	Předměstí	99	1271	A	M
 8105	505927	1	1	1188	33	Petr	Curylo			47	zastupitel MČ Vlaštovičky, skladník	Vlaštovičky	99	1188	A	M
 8105	505927	1	3	7	33	Radovan	Kučeřík			50	ošetřovatel	Město	99	7	A	M
 8105	505927	1	4	687	33	Petr	Vimmer			60	OSVČ	Předměstí	53	53	A	M
@@ -3382,7 +3382,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	505927	1	11	401	33	Janetta	Hanzlová			48	odborná referentka	Kateřinky	99	80	A	F
 8105	505927	1	12	768	33	Drahomíra	Špičková	Ing.		54	zakladatelka klubu Sportovní gymnastika dětí Špičková Opava	Předměstí	99	768	A	F
 8105	505927	1	13	1114	33	Jitka	Lévayová			34	prodejní asistent	Předměstí	99	1114	A	F
-8105	505927	1	14	1271	33	Pavla	Solnická	Ing.		38	biotechnolog	Předměstí	99	1271	A	
+8105	505927	1	14	1271	33	Pavla	Solnická	Ing.		38	biotechnolog	Předměstí	99	1271	A	F
 8105	505927	1	1	1188	34	Jakub	Zygula			32	OSVČ	Předměstí	99	1188	A	M
 8105	505927	1	3	7	34	Bedřich	Lešenar	Ing.		87	důchodce	Kateřinky	7	7	A	M
 8105	505927	1	4	687	34	Lucie	Veselá			48	investiční technik	Kylešovice	53	53	A	F
@@ -3402,7 +3402,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	505927	1	6	47	35	Pavla	Dvořáčková			71	důchodkyně	Kateřinky	99	47	A	F
 8105	505927	1	7	1	35	Martin	Kusák			44	operátor výroby	Předměstí	1	1	A	M
 8105	505927	1	9	541	35	Jan	Havelka			40	invalidní důchodce	Město	99	720	A	M
-8105	505927	1	10	364	35	Jana	Kašparová	Ing.		56	projektová manažerka	Předměstí	99	5	A	
+8105	505927	1	10	364	35	Jana	Kašparová	Ing.		56	projektová manažerka	Předměstí	99	5	A	F
 8105	505927	1	11	401	35	Jiří	Mikulec			57	geodet	Kateřinky	99	80	A	M
 8105	505927	1	12	768	35	Antonín	Bouda	Ing.		75	důchodce, člen představenstva MDPO	Předměstí	768	768	A	M
 8105	505927	1	13	1114	35	Karel	Tesarczyk			64	dělník	Město	99	1114	A	M
@@ -3442,7 +3442,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8105	505927	1	11	401	38	Werner	Gulba			86	důchodce	Město	99	80	A	M
 8105	505927	1	12	768	38	Roman	Kovář			41	místopředseda představenstva SFC Opava	Předměstí	99	768	A	M
 8105	505927	1	13	1114	38	Hana	Šromová			55	poštovní doručovatelka	Kateřinky	99	1114	A	F
-8105	505927	1	14	1271	38	Karolína	Muchová			28	rodičovská dovolená	Kateřinky	99	1271	A	
+8105	505927	1	14	1271	38	Karolína	Muchová			28	rodičovská dovolená	Kateřinky	99	1271	A	F
 8105	505927	1	1	1188	39	Jan	Eszler			33	manažer prodeje, servisní technik	Kylešovice	99	1188	A	M
 8105	505927	1	3	7	39	Martin	Orieščík	Bc.		34	technolog	Suché Lazce	7	7	A	M
 8105	505927	1	4	687	39	Oldřich	Malota	Bc.		60	majitel realitní kanceláře	Město	53	53	A	M

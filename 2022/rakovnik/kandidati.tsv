@@ -21,7 +21,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542016	1	1	901	1	Věra	Čermáková			48	stavební inženýr	Lišany	99	80	A	F
 2112	542032	1	1	904	1	Radek	Vyskočil	Mgr.		51	ředitel školy	Lubná	99	80	A	M
 2112	542041	1	1	902	1	Petra	Roučová	Mgr.		48	účetní	Lužná	99	80	A	F
-2112	542067	1	1	901	1	Jaroslav	Jirásek			57	Starosta obce	Městečko	99	80	A	M
+2112	542067	1	1	901	1	Jaroslav	Jirásek			57	starosta obce	Městečko	99	80	A	M
 2112	542075	1	1	902	1	Martina	Böhmová			55	účetní	Milostín	99	80	A	F
 2112	542105	1	1	166	1	Jiří	Loskot			66	starosta městyse	Mšec	166	166	A	M
 2112	542113	1	1	901	1	Pavlína	Skleničková	Mgr.		42	učitelka	Lodenice	99	80	A	F
@@ -50,7 +50,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542474	1	1	901	1	Zdeněk	Netrh			43	OSVČ	Šanov	99	80	A	M
 2112	542504	1	1	803	1	Karel	Rais			28	elektromechanik	Třeboc	99	80	A	M
 2112	542512	1	1	53	1	Ivana	Kloučková Nováčková			51	OSVČ	Třtice	99	53	A	F
-2112	542563	1	1	901	1	Pavel	Moucha	Ing.		56	Lesník	Velká Buková	99	80	A	M
+2112	542563	1	1	901	1	Pavel	Moucha	Ing.		56	lesník	Velká Buková	99	80	A	M
 2112	542598	1	1	901	1	František	Závora			73	důchodce	Všetaty	99	80	A	M
 2112	542601	1	1	901	1	David	Bretšnajdr			43	vedoucí výroby elektro	Zavidov	99	80	A	M
 2112	542610	1	1	901	1	Jiří	Těhan	Ing.	MBA	56	starosta	Újezd nad Zbečnem	166	80	A	M
@@ -83,7 +83,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	598585	1	1	901	1	Jitka	Vydrová			60	důchodce	Nezabudice	99	80	A	F
 2112	599760	1	1	902	1	Tomáš	Kohout	Bc.		41	strojař	Račice	99	80	A	M
 2112	541656	1	2	1452	1	Pavel	Jenšovský	JUDr.		61	ředitel DS Rakovník	Rakovník II.	7	7	A	M
-2112	541699	1	2	387	1	Jiří	Votrobek			46	OSVČ	Čistá	99	80	A	M
+2112	541699	1	2	387	1	Jiří	Votroubek			46	OSVČ	Čistá	99	80	A	M
 2112	541737	1	2	901	1	Stanislav	Vojáček			49	OSVČ	Hokov	99	80	A	M
 2112	541761	1	2	902	1	Václav	Krůta	Mgr.		35	státní zaměstnanec	Týřovice	99	80	A	M
 2112	541834	1	2	53	1	Jan	Polák	Ing.		40	starosta	Jesenice	99	53	A	M
@@ -143,7 +143,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542016	1	3	7	1	Dana	Medřická			59	starostka	Lišany	7	7	A	F
 2112	542032	1	3	903	1	Jiřina	Endrštová	Mgr.		42	advokát	Lubná	99	80	A	F
 2112	542041	1	3	480	1	Jitka	Krabcová			47	OSVČ	Lužná	99	721	A	F
-2112	542105	1	3	53	1	Tomáš	Jílek			50	obchodní manažer	Mšec	99	53	A	
+2112	542105	1	3	53	1	Tomáš	Jílek			50	obchodní manažer	Mšec	99	53	A	M
 2112	542121	1	3	47	1	Pavel	Hrbek			45	státní zaměstnanec	Mutějovice	99	47	A	M
 2112	542164	1	3	470	1	Pavel	Novák	Bc.		45	ekonom, IT specialista	Nové Strašecí	99	80	A	M
 2112	542199	1	3	53	1	Jiří	Lengyel	Ing.		60	jednatel lesní společnosti	Olešná	99	53	A	M
@@ -237,7 +237,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542016	1	1	901	2	Zuzana	Zákonová			41	pedagog ZŠ	Lišany	99	80	A	F
 2112	542032	1	1	904	2	Martina	Jelínková		DiS.	50	učitelka ZUŠ	Lubná	99	80	A	F
 2112	542041	1	1	902	2	Pavel	Pešek			36	hasič	Lužná	99	80	A	M
-2112	542067	1	1	901	2	Jan	Kučera			43	Vrchní směnový mistr DPP	Městečko	99	80	A	M
+2112	542067	1	1	901	2	Jan	Kučera			43	vrchní směnový mistr DPP	Městečko	99	80	A	M
 2112	542075	1	1	902	2	Miroslav	Čermák	Ing.		42	soukromý zemědělec	Povlčín	99	80	A	M
 2112	542105	1	1	166	2	Marek	Tichý			37	technik	Mšec	99	166	A	M
 2112	542113	1	1	901	2	Jan	Nejedlý	Ing.		48	OSVČ	Mšecké Žehrovice	99	80	A	M
@@ -305,14 +305,14 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542032	1	2	902	2	Petr	Cajthaml			51	dělník	Lubná	99	80	A	M
 2112	542041	1	2	903	2	Adéla	Rumrichová			29	OSVČ	Lužná	99	80	A	F
 2112	542075	1	2	901	2	Milan	Vágner			48	strojník vodohospodářského zařízení	Milostín	99	80	A	M
-2112	542105	1	2	901	2	Alena	Dubnová			44	učitelka v základní škole	Mšec	99	80	A	F
+2112	542105	1	2	901	2	Alena	Dubnová			44	učitelka na základní škole	Mšec	99	80	A	F
 2112	542113	1	2	902	2	Zdeněk	Janoušek			64	důchodce, místostarosta obce 2018 až 2022	Lodenice	99	80	A	M
 2112	542121	1	2	901	2	Hana	Čudová			49	poštovní doručovatelka	Mutějovice	99	80	A	F
 2112	542164	1	2	47	2	Alexandra	Štohrová			64	úřednice	Nové Strašecí	99	47	A	F
 2112	542199	1	2	901	2	Martin	Ohnemichl			51	řidič MÚ Rakovník	Olešná	99	80	A	M
 2112	542211	1	2	901	2	Veronika	Melčová			36	náborářka	Panoší Újezd	99	80	A	F
 2112	542288	1	2	901	2	Marcela	Hůlová			45	referent	Pustověty	99	80	A	F
-2112	542326	1	2	387	2	Jitka	Habrcetlová			61	projektantka	Ruda	99	80	A	
+2112	542326	1	2	387	2	Jitka	Habrcetlová			61	projektantka	Ruda	99	80	A	F
 2112	542334	1	2	903	2	Jakub	Houba			37	facility manažer	Rynholec	99	80	A	M
 2112	542351	1	2	901	2	Nikola	Mečířová			28	administrativní pracovnice	Řevničov	99	80	A	F
 2112	542377	1	2	901	2	Aleš	Polcar			44	obchodní a provozní ředitel	Senomaty	99	80	A	M
@@ -357,7 +357,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542105	1	4	902	2	Michaela	Dokládalová		DiS.	38	samostatná účetní	Mšec	99	80	A	F
 2112	542164	1	4	53	2	Pavel	Vaic	Ing.		68	důchodce	Nové Strašecí	53	53	A	M
 2112	542334	1	4	47	2	Zdeněk	Ledvinka			27	hasič	Rynholec	99	47	A	M
-2112	542351	1	4	1305	2	Antonín	Zábranský			57	technik údržbář	Řevničov	99	1114	A	
+2112	542351	1	4	1305	2	Antonín	Zábranský			57	technik údržbář	Řevničov	99	1114	A	M
 2112	542415	1	4	47	2	Pavel	Cílek			51	státní úředník	Svinařov	99	47	A	M
 2112	544248	1	4	166	2	Petr	Kýna	Ing.		42	referent MěÚ Rako	Pavlíkov	99	166	A	M
 2112	565466	1	4	901	2	Karel	Šmída			46	montér spec. prací	Milý	99	80	A	M
@@ -395,7 +395,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542016	1	1	901	3	Marek	Lisse			46	jednatel společnosti	Lišany	99	80	A	M
 2112	542032	1	1	904	3	Veronika	Svobodová	Bc.	Dis.	40	úředník ve státní správě	Lubná	99	80	A	F
 2112	542041	1	1	902	3	Ondřej	Strnad			20	provozní technik	Lužná	99	80	A	M
-2112	542067	1	1	901	3	Jiří	Chmelík			65	Důchodce	Městečko	99	80	A	M
+2112	542067	1	1	901	3	Jiří	Chmelík			65	důchodce	Městečko	99	80	A	M
 2112	542075	1	1	902	3	Marie	Tichá	lic.		34	učitelka/rodičovská dovolená	Milostín	99	80	A	F
 2112	542105	1	1	166	3	Jaroslav	Šlehofer			26	podnikatel	Mšec	99	166	A	M
 2112	542113	1	1	901	3	Martina	Tothová			42	cukrářka	Mšecké Žehrovice	99	80	A	F
@@ -422,7 +422,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542466	1	1	902	3	Zdeněk	Dvořák			49	dispečer dopravy	Sýkořice	99	80	A	M
 2112	542474	1	1	901	3	Jiří	Dyršmíd			54	řidič	Šanov	99	80	A	M
 2112	542512	1	1	53	3	Roman	Rosenbaum			49	technik	Třtice	99	53	A	M
-2112	542563	1	1	901	3	Zdeněk	Ledvinka	Doc. Ing.	CSc.	66	Důchodce	Kalubice	99	80	A	M
+2112	542563	1	1	901	3	Zdeněk	Ledvinka	Doc. Ing.	CSc.	66	důchodce	Kalubice	99	80	A	M
 2112	542598	1	1	901	3	Pavel	Závora			45	OSVČ	Všetaty	99	80	A	M
 2112	542601	1	1	901	3	Milan	Bricyn			53	vedoucí technického oddělení	Zavidov	99	80	A	M
 2112	542610	1	1	901	3	Blanka	Dvořáková			62	administrativní pracovnice	Zbečno	99	80	A	F
@@ -502,7 +502,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542164	1	3	470	3	Alena	Burešová	Ing.		50	krajinářský architekt	Pecínov	99	80	A	F
 2112	542199	1	3	53	3	Radek	Hornof			43	OSVČ	Olešná	99	53	A	M
 2112	542253	1	3	901	3	Martina	Vorlová	Mgr.		50	učitelka	Příčina	99	80	A	F
-2112	542326	1	3	901	3	Lenka	Vaitová	Mgr.		55	OSVČ	Ruda	99	80	A	
+2112	542326	1	3	901	3	Lenka	Vaitová	Mgr.		55	OSVČ	Ruda	99	80	A	F
 2112	542334	1	3	902	3	David	Svojš	Ing.		44	IT manažer	Rynholec	99	80	A	M
 2112	542351	1	3	902	3	Petr	Knobloch	Ing.		36	revírník LČR	Řevničov	99	80	A	M
 2112	542415	1	3	903	3	Petra	Macáková	Ing.		29	personální a mzdová účetní	Svinařov	99	80	A	F
@@ -517,7 +517,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542351	1	4	1305	3	Jan	Blecha	Ing.		34	datový analytik	Řevničov	99	1114	A	M
 2112	542415	1	4	47	3	Alena	Hnízdilová			30	učitelka	Slabce	99	47	A	F
 2112	544248	1	4	166	3	Luboš	Gebhart			55	OSVČ	Pavlíkov	99	166	A	M
-2112	565466	1	4	901	3	Aleš	Kroczak			47	OSVČ, realizace zahrad	Milý	99	80	A	
+2112	565466	1	4	901	3	Aleš	Kroczak			47	OSVČ, realizace zahrad	Milý	99	80	A	M
 2112	541656	1	5	53	3	Zdeněk	Nejdl	Ing.		63	OSVČ, člen rady města	Rakovník II.	53	53	A	M
 2112	542041	1	5	901	3	Jaroslav	Soukup			66	účetní	Lužná	99	80	A	M
 2112	542164	1	5	903	3	Martin	Vondra	Ing.	MBA	35	hasič - ředitel územního odboru HZS	Nové Strašecí	99	80	A	M
@@ -544,7 +544,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	541877	1	1	53	4	Petr	Bradáč	Ing.		65	důchodce	Kněževes	53	53	A	M
 2112	541893	1	1	901	4	Jiří	Čečrdle			41	manažer	Kolešovice	99	80	A	M
 2112	541907	1	1	47	4	Martin	Eichler			37	traktorista	Kounov	99	47	A	M
-2112	541940	1	1	901	4	Jana	Kratinová	PhDr.		44	psycholog - pedagog	Kroučová	99	80	A	
+2112	541940	1	1	901	4	Jana	Kratinová	PhDr.		44	psycholog - pedagog	Kroučová	99	80	A	F
 2112	541966	1	1	901	4	Zdeněk	Hauner			40	automechanik	Krupá	99	80	A	M
 2112	541974	1	1	166	4	Libor	Zejmon			57	OSVČ	Krušovice	99	166	A	M
 2112	541982	1	1	901	4	Jana	Povolná	Ing.		48	krajinář	Křivoklát	99	80	A	F
@@ -552,7 +552,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542016	1	1	901	4	Martin	Zedník			35	dozorce vězeňské služby	Lišany	99	80	A	M
 2112	542032	1	1	904	4	Radovan	Volf			54	učitel SPŠ Rakovník	Lubná	99	80	A	M
 2112	542041	1	1	902	4	Karel	Jelínek	Ing.		63	hasič ve výslužbě	Lužná	99	80	A	M
-2112	542067	1	1	901	4	Eva	Pásztorová			56	Referent prodeje	Městečko	99	80	A	F
+2112	542067	1	1	901	4	Eva	Pásztorová			56	referent prodeje	Městečko	99	80	A	F
 2112	542075	1	1	902	4	Radek	Hejda			40	podnikatel	Milostín	99	80	A	M
 2112	542105	1	1	166	4	Stanislav	Louda			29	logistik	Mšec	99	166	A	M
 2112	542113	1	1	901	4	Miroslav	Štáfek			46	OSVČ - zemědělec	Mšecké Žehrovice	99	80	A	M
@@ -579,7 +579,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542466	1	1	902	4	Jaroslava	Poláková			38	učitelka	Sýkořice	99	80	A	F
 2112	542474	1	1	901	4	Antonín	Saifert			46	řidič	Šanov	99	80	A	M
 2112	542512	1	1	53	4	Pavel	Ryba	Ing.		44	inspektor	Třtice	99	53	A	M
-2112	542563	1	1	901	4	Eva	Nejedlá			68	Důchodce	Velká Buková	99	80	A	F
+2112	542563	1	1	901	4	Eva	Nejedlá			68	důchodce	Velká Buková	99	80	A	F
 2112	542598	1	1	901	4	Libor	Pešek			41	dispečer	Všetaty	99	80	A	M
 2112	542601	1	1	901	4	Roman	Bestvina			44	CNC programátor	Zavidov	99	80	A	M
 2112	542610	1	1	901	4	Jiří	Vild	Mgr.		42	vyšetřovatel GIBS	Újezd nad Zbečnem	99	80	A	M
@@ -674,7 +674,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542351	1	4	1305	4	Václav	Šíma			54	vedoucí dispečinku	Řevničov	99	1114	A	M
 2112	542415	1	4	47	4	Zbyněk	Vyskočil	Ing.		57	zemědělský inženýr	Slabce	99	47	A	M
 2112	544248	1	4	166	4	Vlastimil	Fiedler	Mgr.		54	akademický pracovník	Pavlíkov	99	166	A	M
-2112	565466	1	4	901	4	Karel	Tesař			49	OSVČ, montáž výtahů	Milý	99	80	A	
+2112	565466	1	4	901	4	Karel	Tesař			49	OSVČ, montáž výtahů	Milý	99	80	A	M
 2112	541656	1	5	53	4	Jan	Biňovec	MVDr.		58	veterinární lékař	Rakovník II.	99	53	A	M
 2112	542041	1	5	901	4	Pavel	Kulhánek			42	OSVČ	Lužná	99	80	A	M
 2112	542164	1	5	903	4	Jana	Bláhová	Ing.		41	ředitelka střední školy	Nové Strašecí	99	80	A	F
@@ -709,7 +709,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542016	1	1	901	5	Jakub	Halámek			39	řidič nákladního vozu	Lišany	99	80	A	M
 2112	542032	1	1	904	5	Dagmar	Erbáková	Mgr.		67	důchodce	Lubná	99	80	A	F
 2112	542041	1	1	902	5	Jan	Svoboda			21	hasič	Lužná	99	80	A	M
-2112	542067	1	1	901	5	Ivo	Jirásek			61	Důchodce	Městečko	99	80	A	M
+2112	542067	1	1	901	5	Ivo	Jirásek			61	důchodce	Městečko	99	80	A	M
 2112	542075	1	1	902	5	Bohumila	Erteltová	Mgr. Bc.		44	učitelka	Milostín	99	80	A	F
 2112	542105	1	1	166	5	Renáta	Rosenová			46	administrativní pracovník	Mšec	99	166	A	F
 2112	542113	1	1	901	5	František	Náprstek			43	stavební technik	Mšecké Žehrovice	99	80	A	M
@@ -725,7 +725,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542270	1	1	901	5	David	Eis			39	servisní technik	Pšovlky	99	80	A	M
 2112	542288	1	1	902	5	Dušan	Šnobl			48	státní zaměstnanec	Pustověty	99	80	A	M
 2112	542326	1	1	902	5	Michal	Repaský	Ing.		37	specialista výpočetní techniky	Ruda	99	80	A	M
-2112	542334	1	1	1245	5	Tomáš	Ryska			37	instalatér	Rynholec	99	1245	A	
+2112	542334	1	1	1245	5	Tomáš	Ryska			37	instalatér	Rynholec	99	1245	A	M
 2112	542351	1	1	903	5	Lucie	Kováčiková	Bc.		35	rodičovská dovolená	Řevničov	99	80	A	F
 2112	542369	1	1	901	5	Dana	Lajblová			62	učitelka	Senec	99	80	A	F
 2112	542377	1	1	902	5	Jana	Macáková	Mgr.		38	učitelka	Senomaty	99	80	A	F
@@ -736,7 +736,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542466	1	1	902	5	Jaromír	Trousil	Ing.		49	manažer	Sýkořice	99	80	A	M
 2112	542474	1	1	901	5	Jiří	Brabec			42	personalista	Šanov	99	80	A	M
 2112	542512	1	1	53	5	Luboš	Hejda	Ing.		70	důchodce	Třtice	53	53	A	M
-2112	542563	1	1	901	5	Václav	Matějovský			47	Farmář	Velká Buková	99	80	A	M
+2112	542563	1	1	901	5	Václav	Matějovský			47	farmář	Velká Buková	99	80	A	M
 2112	542598	1	1	901	5	Martin	Nedvěd			47	technik	Všetaty	99	80	A	M
 2112	542601	1	1	901	5	Radek	Tomek			52	OSVČ	Zavidov	99	80	A	M
 2112	542610	1	1	901	5	Ivana	Medová			45	živnostník, t.č. rodičovská dovolená	Zbečno	99	80	A	F
@@ -829,7 +829,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542351	1	4	1305	5	Zdeněk	Černohorský	Ing.		68	voják z povolání	Řevničov	99	1114	A	M
 2112	542415	1	4	47	5	Lukáš	Opat			35	řidič	Slabce	99	47	A	M
 2112	544248	1	4	166	5	Soňa	Jančíková			65	důchodkyně	Pavlíkov	99	166	A	F
-2112	565466	1	4	901	5	Helena	Mandová	Mgr.		45	administ. pracovník	Milý	99	80	A	
+2112	565466	1	4	901	5	Helena	Mandová	Mgr.		45	administ. pracovník	Milý	99	80	A	F
 2112	541656	1	5	53	5	Mirko	Kunft	Ing.		76	důchodce, ekonom	Rakovník I.	53	53	A	M
 2112	542041	1	5	901	5	Zbyněk	Drlík	Ing.		53	státní pokladna Ministerstva financí	Lužná	99	80	A	M
 2112	542164	1	5	903	5	Vladimír	Kozel			66	referent městského úřadu	Nové Strašecí	99	80	A	M
@@ -864,11 +864,11 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542016	1	1	901	6	Vít	Růžička			43	řidič ZZS	Lišany	99	80	A	M
 2112	542032	1	1	904	6	Pavel	Procházka			39	operátor výroby	Lubná	99	80	A	M
 2112	542041	1	1	902	6	Luděk	Hermann			48	operátor výroby	Lužná	99	80	A	M
-2112	542067	1	1	901	6	Miroslav	Kebrle			49	Státní zaměstnanec	Městečko	99	80	A	M
+2112	542067	1	1	901	6	Miroslav	Kebrle			49	státní zaměstnanec	Městečko	99	80	A	M
 2112	542075	1	1	902	6	Jaroslav	Síč	Ing.		52	technik státní správy	Povlčín	99	80	A	M
 2112	542105	1	1	166	6	Vladimír	Ponka			56	podnikatel	Mšec	99	166	A	M
 2112	542113	1	1	901	6	Martin	Ryss			52	OSVČ - instalatér	Mšecké Žehrovice	99	80	A	M
-2112	542121	1	1	902	6	Josef	Švamberk			48	OSVČ	Mutějovice	99	80	A	M
+2112	542121	1	1	902	6	Josef	Švamberk			48	osoba samostatně výdělečně činná	Mutějovice	99	80	A	M
 2112	542130	1	1	901	6	David	Bureš	Ing.		44	IT specialista	Nesuchyně	99	80	A	M
 2112	542164	1	1	901	6	Daniela	Kalistová	Mgr.		51	učitelka	Nové Strašecí	99	80	A	F
 2112	542181	1	1	901	6	Pavel	Kučera			54	elektrikář	Nový Dům	99	80	A	M
@@ -891,7 +891,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542466	1	1	902	6	Zbyněk	Karas			41	podnikatel	Sýkořice	99	80	A	M
 2112	542474	1	1	901	6	Alena	Hubková			49	oblastní ředitelka ČSOB Pojišťovny	Šanov	99	80	A	F
 2112	542512	1	1	53	6	Vít	Fabinger			44	nákupčí MTZ	Třtice	99	53	A	M
-2112	542563	1	1	901	6	Pavel	Svoboda	Ing.		32	Správce	Velká Buková	99	80	A	M
+2112	542563	1	1	901	6	Pavel	Svoboda	Ing.		32	správce	Velká Buková	99	80	A	M
 2112	542598	1	1	901	6	Radomír	Gebhart			41	dělník, údržbář	Všetaty	99	80	A	M
 2112	542601	1	1	901	6	Michal	Pivoňka	Ing.		27	technik	Zavidov	99	80	A	M
 2112	542610	1	1	901	6	Lucie	Pavlíčková			33	učitelka DS, t.č. rodičovská dovolená	Újezd nad Zbečnem	99	80	A	F
@@ -900,7 +900,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	565199	1	1	901	6	Karel	Kolman			49	školník	Kolešov	99	80	A	M
 2112	565202	1	1	901	6	Jaromír	Huml			50	zemědělec	Hracholusky	99	80	A	M
 2112	565288	1	1	901	6	Luboš	Novák			41	zámečník	Karlova Ves	99	80	A	M
-2112	565326	1	1	901	6	Václav	Jeníček			66	důchodce	Švihov	99	80	A	
+2112	565326	1	1	901	6	Václav	Jeníček			66	důchodce	Švihov	99	80	A	M
 2112	565351	1	1	901	6	Kristýna	Mikolášová			32	operátor výroby	Krakov	99	80	A	F
 2112	565377	1	1	901	6	Dominik	Melč	Bc.		26	policista	Malinová	99	80	A	M
 2112	565423	1	1	901	6	Petr	Trachta	Ing.		50	programátor	Bdín	99	80	A	M
@@ -980,7 +980,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542351	1	4	1305	6	Kateřina	Peslová			41	vrchní inspektor	Řevničov	99	1114	A	F
 2112	542415	1	4	47	6	Zdeněk	Řezáč			48	zedník	Slabce	99	47	A	M
 2112	544248	1	4	166	6	Zuzana	Kotková		DiS.	40	OSVČ	Pavlíkov	99	166	A	F
-2112	565466	1	4	901	6	Martin	Rulíšek	Bc.		55	státní zaměstnanec - kriminalista	Milý	99	80	A	
+2112	565466	1	4	901	6	Martin	Rulíšek	Bc.		55	státní zaměstnanec - kriminalista	Milý	99	80	A	M
 2112	541656	1	5	53	6	Matěj	Michalička			24	finanční analytik, student	Rakovník II.	99	53	A	M
 2112	542041	1	5	901	6	Jiří	Rumrich			76	důchodce	Lužná	99	80	A	M
 2112	542164	1	5	903	6	Štěpán	Polívka	Bc.		31	projektový manažer	Nové Strašecí	99	80	A	M
@@ -1037,7 +1037,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542466	1	1	902	7	Radek	Malina			44	novinář	Sýkořice	99	80	A	M
 2112	542474	1	1	901	7	Iva	Cafourková	Mgr.		57	učitelka	Šanov	99	80	A	F
 2112	542512	1	1	53	7	Alena	Vejražková			54	administrativní pracovnice	Třtice	99	53	A	F
-2112	542563	1	1	901	7	Štěpánka	Matějovská			31	Kadeřnice	Velká Buková	99	80	A	F
+2112	542563	1	1	901	7	Štěpánka	Matějovská			31	kadeřnice	Velká Buková	99	80	A	F
 2112	542598	1	1	901	7	Jakub	Novák			30	prodejce zahradní techniky	Všetaty	99	80	A	M
 2112	542601	1	1	901	7	Jaroslava	Burešová			65	důchodce	Zavidov	99	80	A	F
 2112	542610	1	1	901	7	Josef	Cyrus			56	řidič	Zbečno	99	80	A	M
@@ -1073,7 +1073,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542199	1	2	901	7	Markéta	Lamine			44	operátor výroby	Olešná	99	80	A	F
 2112	542211	1	2	901	7	Tomáš	Černý			30	OSVČ	Panoší Újezd	99	80	A	M
 2112	542288	1	2	901	7	Eva	Nová			47	kadeřnice	Pustověty	99	80	A	F
-2112	542326	1	2	387	7	Libuše	Nepokojová	Ing.		75	důchodce	Ruda	99	80	A	
+2112	542326	1	2	387	7	Libuše	Nepokojová	Ing.		75	důchodkyně	Ruda	99	80	A	F
 2112	542334	1	2	903	7	Romana	Ondrůjová	Mgr.		54	lektor vzdělávání dospělých	Rynholec	99	80	A	F
 2112	542351	1	2	901	7	Pavel	Samek			26	informatik	Řevničov	99	80	A	M
 2112	542377	1	2	901	7	Luděk	Fišer			45	předseda představenstva ZD Senomaty	Senomaty	99	80	A	M
@@ -1111,7 +1111,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	541656	1	4	480	7	Josef	Rod			63	směnový mistr	Rakovník II.	99	80	A	M
 2112	542032	1	4	901	7	Jaroslav	Kasl			21	seřizovač	Lubná	99	80	A	M
 2112	542041	1	4	387	7	Petr	Špička			62	operátor	Lužná	47	47	A	M
-2112	542105	1	4	902	7	Roman	Kapek	Bc.		27	OSVČ - reklamní činnost	Mšec	99	80	A	
+2112	542105	1	4	902	7	Roman	Kapek	Bc.		27	OSVČ - reklamní činnost	Mšec	99	80	A	M
 2112	542164	1	4	53	7	Kateřina	Hubáčková	Ing. et Ing.		34	interní auditorka, nyní na mateřské dovolené	Nové Strašecí	99	53	A	F
 2112	542334	1	4	47	7	Irena	Barochová			68	důchodce	Rynholec	47	47	A	F
 2112	542351	1	4	1305	7	Pavel	Jaroš			35	řidič autobusu	Řevničov	99	1114	A	M
@@ -1166,7 +1166,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542458	1	1	901	8	Lucie	Burgerová			37	podnikatel	Svojetín	99	80	A	F
 2112	542474	1	1	901	8	Luděk	Knor	Ing.		62	OSVČ	Šanov	99	80	A	M
 2112	542512	1	1	53	8	Alena	Köhlerová			54	mzdová účetní	Třtice	99	53	A	F
-2112	542563	1	1	901	8	Vendula	Fráňová			45	Učitelka v MŠ	Velká Buková	99	80	A	F
+2112	542563	1	1	901	8	Vendula	Fráňová			45	učitelka MŠ	Velká Buková	99	80	A	F
 2112	542601	1	1	901	8	Daniel	Štiller			34	obráběč kovů	Zavidov	99	80	A	M
 2112	542610	1	1	901	8	Jaroslav	Hokr	Mgr.		62	úředník	Újezd nad Zbečnem	99	80	A	M
 2112	544248	1	1	903	8	Petra	Pilíková			37	na mateřské dovolené	Skřivaň	99	80	A	F
@@ -1275,7 +1275,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	542431	1	1	902	9	Dominik	Cimrman			19	OSVČ	Srbeč	99	80	A	M
 2112	542474	1	1	901	9	David	Šika			30	OSVČ	Šanov	99	80	A	M
 2112	542512	1	1	53	9	Jan	Jirka			42	jednatel společnosti	Třtice	99	53	A	M
-2112	542563	1	1	901	9	Martin	Panc			32	Zemědělec	Velká Buková	99	80	A	M
+2112	542563	1	1	901	9	Martin	Panc			32	zemědělec	Velká Buková	99	80	A	M
 2112	542601	1	1	901	9	Jakub	Nachtigal			25	OSVČ	Zavidov	99	80	A	M
 2112	542610	1	1	901	9	Josef	Doksanský			61	stavební technik	Újezd nad Zbečnem	99	80	A	M
 2112	544248	1	1	903	9	František	Pilík			40	řidič, údržba zeleně	Skřivaň	99	80	A	M
@@ -1351,7 +1351,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	541877	1	1	53	10	Miroslav	Jeníkovský			54	instalatér, OSVČ	Kněževes	99	53	A	M
 2112	542032	1	1	904	10	Zuzana	Glacová	Ing.		47	administrativní pracovnice	Lubná	99	80	A	F
 2112	542041	1	1	902	10	Kateřina	Typoltová		DiS.	24	pracovník poštovní přepážky	Lužná	99	80	A	F
-2112	542121	1	1	902	10	Martina	Hovorková			54	OSVČ	Mutějovice	99	80	A	F
+2112	542121	1	1	902	10	Martina	Hovorková			54	osoba samostatně výdělečně činná	Mutějovice	99	80	A	F
 2112	542164	1	1	901	10	Peter	Kodyš	doc. RNDr.	CSc.	60	fyzik, vysokoškolský pedagog	Nové Strašecí	99	80	A	M
 2112	542351	1	1	903	10	Petra	Balvínová	Ing.		38	rodičovská dovolená	Řevničov	99	80	A	F
 2112	542377	1	1	902	10	David	Bouda			30	mechanik	Senomaty	99	80	A	M
@@ -1501,7 +1501,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	541656	1	5	53	14	Zdeněk	Weis	Mgr.		65	soukromý podnikatel	Rakovník II.	99	53	A	M
 2112	542041	1	5	901	14	Petr	Dufek			71	důchodce	Lužná	99	80	A	M
 2112	542164	1	5	903	14	Marcela	Semerádová			50	pracovnice přímé a rehabilitační péče v DS	Nové Strašecí	99	80	A	F
-2112	541656	1	6	510	14	Kateřina	Levová	Mgr.		32	IT specialistka, lektorka francouzštiny	Rakovník	99	80	A	F
+2112	541656	1	6	510	14	Kateřina	Levová	Mgr.		32	IT specialistka, lektorka francouzštiny	Rakovník II	99	80	A	F
 2112	542164	1	6	902	14	Miroslav	Černý			50	učitel	Nové Strašecí	99	80	A	M
 2112	542164	1	7	480	14	Iveta	Mrnková			49	státní zaměstnanec	Pecínov	99	721	A	F
 2112	541656	1	8	47	14	Jakub	Vicjan			30	technik IT	Rakovník II.	99	47	A	M
@@ -1530,7 +1530,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2112	541656	1	2	1452	16	Helena	Polcarová			41	účetní	Rakovník II.	99	768	A	F
 2112	542164	1	2	47	16	Miloslav	Veselý			84	důchodce	Nové Strašecí	99	47	A	M
 2112	541656	1	3	1361	16	Jan	Kronich	ing.		44	OSVČ - odhadce	Rakovník I.	99	166	A	M
-2112	542164	1	3	470	16	Barbora	Vernerová	MUDr.		27	lékařka	Nové Strašecí	99	80	A	
+2112	542164	1	3	470	16	Barbora	Vernerová	MUDr.		27	lékařka	Nové Strašecí	99	80	A	F
 2112	541656	1	4	480	16	Kristýna	Vargová			35	kosmetická poradkyně	Rakovník II.	99	80	A	F
 2112	542164	1	4	53	16	Štefan	Podhorec			62	technik	Nové Strašecí	53	53	A	M
 2112	541656	1	5	53	16	Zdeněk	Žihla			51	OSVČ	Rakovník II.	99	53	A	M

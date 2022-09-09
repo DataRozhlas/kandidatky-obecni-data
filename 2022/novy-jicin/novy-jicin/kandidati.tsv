@@ -7,7 +7,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8104	599191	1	6	1179	1	Jiří	Osadník	Mgr.		68	podnikatel	Nový Jičín	1179	1179	A	M
 8104	599191	1	7	768	1	Stanislav	Kopecký	Mgr.		50	starosta města Nový Jičín	Loučka	768	768	A	M
 8104	599191	1	8	371	1	Jiří	Klein	Mgr.		51	ředitel Městské policie	Nový Jičín	7	7	A	M
-8104	599191	1	9	387	1	Kateřina	Konečná			41	poslankyně Evropského parlamentu	Nový Jičín	47	47	A	
+8104	599191	1	9	387	1	Kateřina	Konečná			41	poslankyně Evropského parlamentu	Nový Jičín	47	47	A	F
 8104	599191	1	1	1351	2	Martin	Gazda			37	softwarový inženýr	Loučka	721	721	A	M
 8104	599191	1	2	477	2	Dalibor	Mikuš			48	ředitel závodu	Straník	99	80	A	M
 8104	599191	1	3	1114	2	Pavel	Liška			51	živnostník - servisní technik	Loučka	1114	1114	A	M
@@ -32,7 +32,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8104	599191	1	4	53	4	Dan	Šmajstrla			23	student VŠ, podnikatel	Nový Jičín	53	53	A	M
 8104	599191	1	5	1	4	Milan	Urban			56	jednatel	Nový Jičín	99	1	A	M
 8104	599191	1	6	1179	4	Otakar	Baroš			49	podnikatel	Nový Jičín	1179	1179	A	M
-8104	599191	1	7	768	4	Hana	El-Shikha			63	asistentka prodeje	Loučka	768	768	A	
+8104	599191	1	7	768	4	Hana	El-Shikha			63	asistentka prodeje	Loučka	768	768	A	F
 8104	599191	1	8	371	4	Radek	Polach			46	historik	Žilina	99	80	A	M
 8104	599191	1	9	387	4	Svatoslava	Lenartová			67	předseda výboru sdružení přátel sboru Ondrášek	Nový Jičín	47	47	A	F
 8104	599191	1	1	1351	5	Petr	Brandejs			52	středoškolský učitel	Bludovice	99	166	A	M
@@ -57,7 +57,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8104	599191	1	3	1114	7	Monika	Krutílková			45	operátorka skladování	Straník	1114	1114	A	F
 8104	599191	1	4	53	7	Tomáš	Vindiš	Mgr.		57	ředitel školy	Nový Jičín	99	53	A	M
 8104	599191	1	5	1	7	Lubomír	Furmánek	Mgr.	MBA	46	ekonom	Nový Jičín	1	1	A	M
-8104	599191	1	7	768	7	Jiří	Strýček	Ing.		63	poslanec Parlamentu ČR	Straník	768	768	A	
+8104	599191	1	7	768	7	Jiří	Strýček	Ing.		63	poslanec Parlamentu ČR	Straník	768	768	A	M
 8104	599191	1	8	371	7	Jaroslav	Dvořák	PhDr.		46	ředitel Museum+	Loučka	7	7	A	M
 8104	599191	1	9	387	7	Andrea	Neklová			47	pracovnice v sociálních službách	Nový Jičín	99	80	A	F
 8104	599191	1	1	1351	8	Kateřina	Novotná			47	manažerka	Nový Jičín	99	5	A	F
@@ -99,9 +99,9 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8104	599191	1	5	1	12	Andrea	Suchánková	Bc.		47	pracovník v sociálních službách	Nový Jičín	99	1	A	F
 8104	599191	1	7	768	12	Jindřich	Beneš	Mgr.		50	pedagog II. stupně ZŠ	Žilina	99	768	A	M
 8104	599191	1	8	371	12	Lea	Řehulková			59	zdravotní sestra	Nový Jičín	99	80	A	F
-8104	599191	1	9	387	12	Zdeněk	Randýsek			43	projektant	Nový Jičín	99	80	A	
+8104	599191	1	9	387	12	Zdeněk	Randýsek			43	projektant	Nový Jičín	99	80	A	M
 8104	599191	1	1	1351	13	Bohumír	Večerek			42	speciální pedagog	Loučka	99	5	A	M
-8104	599191	1	2	477	13	Robert	Gazdoš			47	OSVČ	Nový Jičín	99	80	A	
+8104	599191	1	2	477	13	Robert	Gazdoš			47	OSVČ	Nový Jičín	99	80	A	M
 8104	599191	1	3	1114	13	Daniel	Adámek			47	živnostník - gastronomie	Nový Jičín	99	1114	A	M
 8104	599191	1	4	53	13	Marek	Pavelka			37	bytový technik města	Straník	99	53	A	M
 8104	599191	1	5	1	13	Hana	Rajnochová			53	zdravotní sestra	Nový Jičín	1	1	A	F
@@ -178,7 +178,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8104	599191	1	4	53	22	Vladimír	Bárta	Ing.		70	důchodce	Nový Jičín	99	53	A	M
 8104	599191	1	5	1	22	Monika	Randusová			46	asistent pedagoga	Nový Jičín	99	1	A	F
 8104	599191	1	7	768	22	Petr	Tichánek			53	mistr výroby	Nový Jičín	99	768	A	M
-8104	599191	1	8	371	22	Adam	Meixner			39	autoelektrikář	Nový Jičín	99	80	A	
+8104	599191	1	8	371	22	Adam	Meixner			39	autoelektrikář	Nový Jičín	99	80	A	M
 8104	599191	1	9	387	22	Rostislav	Blinka			73	důchodce	Nový Jičín	47	47	A	M
 8104	599191	1	1	1351	23	Lumír	Schmidt			58	ekonom	Nový Jičín	721	721	A	M
 8104	599191	1	2	477	23	Ivana	Bystroňová			23	specialista zákaznické péče	Nový Jičín	99	80	A	F

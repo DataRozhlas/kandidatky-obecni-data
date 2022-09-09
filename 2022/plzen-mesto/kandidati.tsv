@@ -306,7 +306,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3203	554791	1	7	482	3	Alena	Odstrčilíková			43	pečovatelka, ochránce zvířat	Plzeň 3	99	80	A	F
 3203	545970	1	8	166	3	Zuzana	Buriánová	Mgr.		35	speciální pedagožka	Plzeň 1	166	166	A	F
 3203	545988	1	8	497	3	Martin	Chyba			35	technik	Plzeň 2-Slovany	99	80	A	M
-3203	546003	1	8	720	3	Zdeněk	Pech	Mgr.		38	jednatel firmy, specialista v oblasti prezentační techniky	Plzeň 3	720	720	A	
+3203	546003	1	8	720	3	Zdeněk	Pech	Mgr.		38	jednatel firmy, specialista v oblasti prezentační techniky	Plzeň 3	720	720	A	M
 3203	546208	1	8	600	3	Radek	Martínek			48	řemeslník	Plzeň 4	99	761	A	M
 3203	554791	1	8	600	3	Petr	Bratrych			37	vedoucí odboru	Plzeň 1	99	761	A	M
 3203	545970	1	9	47	3	Edita	Krislová	Ing.		58	OSVČ	Plzeň 1	99	47	A	F
@@ -465,7 +465,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3203	554758	1	3	1014	5	Kristýna	Záhoříková			26	zubní instrumentářka, plavkyně	Plzeň 6-Litice	99	1014	A	F
 3203	554766	1	3	1327	5	Jan	Beránek	Ing.	MBA	41	podnikatel	Plzeň 7-Radčice	99	53	A	M
 3203	554774	1	3	1327	5	Lucie	Kubalíková			46	účetní	Plzeň 8-Černice	99	721	A	F
-3203	554791	1	3	47	5	Zdeněk	Janda	Mgr. Bc.		44	učitel	Plzeň 3	47	47	A	M
+3203	554791	1	3	47	5	Zdeněk	Janda	Mgr. Bc.		44	učitel	Plzeň 3	99	47	A	M
 3203	557846	1	3	902	5	Josef	Červený			65	podnikatel	Chválenice	99	80	A	M
 3203	557978	1	3	1327	5	Daniel	Čížek	Ing.		42	konstruktér	Plzeň 10-Lhota	53	53	A	M
 3203	558371	1	3	470	5	Hana	Stýblová	Mgr. Bc.		64	ředitelka základní a mateřské školy	Starý Plzenec	99	80	A	F
@@ -595,7 +595,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3203	554791	1	6	55	6	Václav	Vondrovský			59	muzejní pracovník	Plzeň 2-Slovany	99	55	A	M
 3203	545970	1	7	1327	6	Jan	Husák	Mgr.		45	jednatel společnosti	Plzeň 1	53	53	A	M
 3203	545988	1	7	371	6	Petra	Šípková			43	zaměstnankyně samosprávy	Plzeň 2-Slovany	7	7	A	F
-3203	546003	1	7	387	6	Iva	Skalická		DiS.	41	manažerka	Plzeň 3	99	80	A	
+3203	546003	1	7	387	6	Iva	Skalická		DiS.	41	manažerka	Plzeň 3	99	80	A	F
 3203	546208	1	7	1327	6	Lenka	Brodzianská	Ing.		69	podnikatelka	Plzeň 4	53	53	A	F
 3203	554791	1	7	482	6	Antonín	Kočka			60	artista, podnikatel, dobrovolný hasič	Plzeň 2-Slovany	99	80	A	M
 3203	545970	1	8	166	6	Aleš	Hejna	Ing.		44	mapař, autor pohádek	Plzeň 1	99	166	A	M
@@ -818,7 +818,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3203	558371	1	1	1327	9	Petr	Kvarda	Ing.		45	ekonom	Starý Plzenec	99	721	A	M
 3203	558427	1	1	901	9	Lukáš	Huňáček			39	jednatel společnosti	Šťáhlavy	99	80	A	M
 3203	558460	1	1	902	9	David	Koranda			42	skladník	Tymákov	99	80	A	M
-3203	558851	1	1	901	9	Aneta	Hájková			33	obchodní ředitelka realitní kanceláře	Dýšina	99	80	A	F
+3203	558851	1	1	901	9	Aneta	Hájková	Bc.		33	obchodní ředitelka realitní kanceláře	Dýšina	99	80	A	F
 3203	558966	1	1	901	9	Marie	Frömmelová	Ing.		54	účetní specialista	Chrást	99	80	A	F
 3203	559199	1	1	1327	9	Vladimír	Holub			45	řidič	Plzeň 9-Malesice	99	721	A	M
 3203	540641	1	2	902	9	Libor	Nový			49	servisní technik	Mokrouše	99	80	A	M
@@ -898,7 +898,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3203	545988	1	1	1327	10	David	Soukup			44	jednatel společnosti	Plzeň 2-Slovany	721	721	A	M
 3203	546003	1	1	1327	10	Jan	Fischer			44	předseda Vodní záchranné služby Českého červeného kříže Plzeň, živnostník	Plzeň 3	53	53	A	M
 3203	546208	1	1	371	10	Michaela	Otcová	Bc.		30	obchodní asistentka	Plzeň 4	99	80	A	F
-3203	554731	1	1	470	10	Vladimír	Lobkowicz			49	OSVČ, farmář-zelinář	Plzeň 5-Křimice	99	80	A	M
+3203	554731	1	1	470	10	Vladimír	Lobkowicz		MBA	49	OSVČ, farmář-zelinář	Plzeň 5-Křimice	99	80	A	M
 3203	554758	1	1	532	10	Václav	Kehart			49	realizace interiérů	Plzeň 6-Litice	99	80	A	M
 3203	554791	1	1	1014	10	Roman	Andrlík			55	místostarosta Městského obvodu Plzeň 2 - Slovany	Plzeň 2-Slovany	99	1014	A	M
 3203	558141	1	1	901	10	Zdeněk	Krňoul	Ing.	Ph.D.	43	odborný asistent na katedře kybernetiky ZČU	Olešná	99	80	A	M
@@ -932,7 +932,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3203	545988	1	4	166	10	Martina	Náhlíková	MgA.		27	herečka, tajemnice činohry Národního divadla Brno	Plzeň 2-Slovany	99	166	A	F
 3203	546003	1	4	371	10	Pavel	Kotas	Ing.		41	náměstek ředitele, člen zastupitelstva města Plzně	Plzeň 3	7	7	A	M
 3203	546208	1	4	166	10	Ivo	Opl	Bc.		31	vedoucí vývoje a výroby	Plzeň 4	99	166	A	M
-3203	554758	1	4	470	10	Karel	Cvrk	Ing.		75	senior	Plzeň 6-Litice	99	166	A	
+3203	554758	1	4	470	10	Karel	Cvrk	Ing.		75	senior	Plzeň 6-Litice	99	166	A	M
 3203	554791	1	4	166	10	Vít	Mojžíš			52	starosta městského obvodu Plzeň 5-Křimice, předseda TJ Sokol Křimice	Plzeň 5-Křimice	99	166	A	M
 3203	558371	1	4	901	10	Jiřina	Petříková	Ing.		36	bankovní sektor, prevence praní špinavých peněz	Starý Plzenec	99	80	A	F
 3203	545970	1	5	1014	10	Tomáš	Ulč	PaedDr.	DiS.	31	pedagog, nutriční terapeut	Plzeň 1	99	1014	A	M
@@ -1122,7 +1122,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3203	545988	1	5	532	13	Kristýna	Sudová			30	personalistka - konzultant	Plzeň 2-Slovany	768	768	A	F
 3203	546003	1	5	532	13	Vlastimil	Gola	Ing.		65	radní města Plzně	Plzeň 3	768	768	A	M
 3203	546208	1	5	1014	13	Tomáš	Bořík	Bc.		31	manažer prodeje	Plzeň 4	99	1014	A	M
-3203	554791	1	5	720	13	Radek	Proch	Ing.		33	mzdový účetní	Teplice	99	720	A	M
+3203	554791	1	5	720	13	Radek	Proch	Ing.		33	mzdový účetní	Plzeň 3	99	720	A	M
 3203	545970	1	6	532	13	Pavel	Jordanov			45	energetik	Plzeň 1	768	768	A	M
 3203	545988	1	6	720	13	Ondřej	Brejcha	Bc.		40	živnostník	Plzeň 2-Slovany	99	720	A	M
 3203	546003	1	6	166	13	Miloš	Tibitancl	Ing. Bc.		55	pracovník České pošty	Plzeň 3	166	166	A	M
@@ -1674,7 +1674,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3203	545988	1	2	1014	25	Anna	Ungrová			31	umělecká pozlacovačka, zpěvačka	Plzeň 2-Slovany	1014	1014	A	F
 3203	546003	1	2	1014	25	Roman	Reš			79	důchodce, automechanik	Plzeň 3	99	1014	A	M
 3203	546208	1	2	532	25	Iva	Mainerová			49	asistentka	Plzeň 4	99	80	A	F
-3203	554791	1	2	1327	25	Martin	Černý	Ing. Mgr.	MBA	47	státní zaměstnanec	Plzeň 8-Černice	99	1	A	M
+3203	554791	1	2	1327	25	Martin	Černý	Ing. Mgr.	MBA	47	státní zaměstnanec	Plzeň 2-Slovany	99	1	A	M
 3203	545970	1	3	720	25	Martin	Střeska			53	učitel hudby, hudebník	Plzeň 1	99	720	A	M
 3203	545988	1	3	387	25	Jindřich	Merhout			64	OSVČ	Plzeň 2-Slovany	99	47	A	M
 3203	546208	1	3	387	25	Jaroslava	Matějková			80	důchodkyně	Plzeň 4	47	47	A	F
@@ -1848,7 +1848,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3203	546003	1	8	720	31	Tomáš	Tölg	Ing.		56	VŠ akademický pracovník	Plzeň 3	99	720	A	M
 3203	554791	1	9	1265	31	Anna	Městecká			81	důchodce	Plzeň 2-Slovany	99	1265	A	F
 3203	554791	1	10	532	31	Michal	Statevský	Ing.		52	manager obchodu	Plzeň 2-Slovany	768	768	A	M
-3203	554791	1	11	1245	31	Ladislav	Poljak	Ing.		34	softwarový inženýr	Plzeň 4	99	1245	A	M
+3203	554791	1	11	1245	31	Ladislav	Poljak	Ing.		34	softwarový inženýr	Plzeň 2	99	1245	A	M
 3203	554791	1	12	371	31	Milan	Petřík	Bc.		59	invalidní důchodce	Plzeň 1	7	7	A	M
 3203	554791	1	13	497	31	Jasmína-Liana	Rotariu			35	pracovnice call-centra	Plzeň 2-Slovany	99	80	A	M
 3203	554791	1	14	1114	31	Jiří	Drobný			44	obchodní zástupce	Plzeň 2-Slovany	99	1114	A	M

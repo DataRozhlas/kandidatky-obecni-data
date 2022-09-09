@@ -20,7 +20,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531308	1	1	901	1	Václav	Ungr	Ing.		44	vedoucí měření a techn.podpory	Jivina	99	80	A	M
 2102	531316	1	1	901	1	Petr	Rampas			56	starosta	Karlštejn	99	80	A	M
 2102	531324	1	1	902	1	Jaroslav	Klekner			62	podnikatel	Komárov	99	80	A	M
-2102	531332	1	1	901	1	Stanislava	Králová			56	místostarostka obce, OSVČ - kraniosakrální terapeut	Koněprusy	99	80	A	F
+2102	531332	1	1	901	1	Stanislava	Králová			56	místostarostka obce, OSVČ - kraniosakrární terapeut	Koněprusy	99	80	A	F
 2102	531375	1	1	802	1	Jaroslav	Šafránek			72	starobní důchodce	Kublov	99	80	A	M
 2102	531448	1	1	801	1	Jiří	Doležal			19	student	Libomyšl	53	80	A	M
 2102	531456	1	1	470	1	Jaroslav	Merta	MVDr.		35	veterinární lékař	Leč	99	166	A	M
@@ -92,7 +92,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531171	1	2	902	1	Tomáš	Snopek	Ing.		36	starosta obce Hlásná Třebaň	Hlásná Třebaň	99	80	A	M
 2102	531189	1	2	1494	1	Jiří	Peřina	Dr. Ing.		55	starosta	Hořovice	1257	1257	A	M
 2102	531201	1	2	470	1	Vít	Šťáhlavský			44	starosta	Bezdědice	99	166	A	M
-2102	531227	1	2	904	1	Lenka	Treglerová	Mgr.		49	učitelka ZŠ	Hudlice	99	80	A	
+2102	531227	1	2	904	1	Lenka	Treglerová	Mgr.		49	učitelka ZŠ	Hudlice	99	80	A	F
 2102	531243	1	2	902	1	Richard	Kouřil			32	revizní technik	Hýskov	99	80	A	M
 2102	531294	1	2	902	1	Lenka	Hladká			53	účetní	Chyňava	99	80	A	F
 2102	531316	1	2	902	1	Josef	Čvančara			62	OSVČ	Karlštejn	99	80	A	M
@@ -139,7 +139,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531189	1	3	112	1	Antonín	Spal	MDDr.		37	zubní lékař	Hořovice	99	112	A	M
 2102	531201	1	3	901	1	Lukáš	Příhoda			39	stavební technik	Hostomice	99	80	A	M
 2102	531227	1	3	387	1	Erika	Tejnorová	Mgr.		33	státní zaměstnanec	Hudlice	99	80	A	F
-2102	531316	1	3	53	1	Petr	Weber	PhDr., Mgr.		39	manažer, místostarosta městyse	Karlštejn	53	53	A	M
+2102	531316	1	3	53	1	Petr	Weber	PhDr. Mgr.		39	manažer, místostarosta městyse	Karlštejn	53	53	A	M
 2102	531324	1	3	901	1	Radim	Šíma			42	místostarosta	Komárov	99	80	A	M
 2102	531375	1	3	901	1	Michal	Špiryt	Ing.		44	podnikatel	Kublov	99	80	A	M
 2102	531464	1	3	53	1	Karel	Dvořák	Mgr.		58	pedagog, člen zastupitelstva	Jánská	99	53	A	M
@@ -367,7 +367,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531227	1	5	901	2	Miloslav	Landa			47	státní zaměstnanec	Hudlice	99	80	A	M
 2102	531782	1	5	904	2	Jiří	Vnouček			34	technická údržba	Suchomasty	99	80	A	M
 2102	531961	1	5	523	2	Petra	Arnold			37	referentka ČVUT	Kuchař	99	80	A	F
-2102	532011	1	5	901	2	Martina	Rajtmajerová	Mgr. Bc.		53	ředitelka ZUŠ V.Talicha Beroun, pedagog	Zdice	99	80	A	F
+2102	532011	1	5	901	2	Martina	Rajtmajerová	Mgr. Bc.		53	ředitelka ZUŠ V. Talicha Beroun, pedagog	Zdice	99	80	A	F
 2102	533203	1	5	768	2	Milan	Exner			52	OSVČ - starosta Sokola KD	Králův Dvůr	99	768	A	M
 2102	531057	1	6	1305	2	Petr	Vajo	Mgr.		49	technolog výroby	Beroun-Město	1227	1114	A	M
 2102	531189	1	6	901	2	Drahomír	Sýkora			67	právník	Hořovice	99	80	A	M
@@ -508,7 +508,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531201	1	3	901	3	Jana	Císařová	Mgr.		42	učitelka SŠ	Bezdědice	99	80	A	F
 2102	531227	1	3	387	3	Pavel	Hubený			68	starosta	Hudlice	47	47	A	M
 2102	531316	1	3	53	3	Marie	Weberová		DiS.	40	pracovník NPÚ	Karlštejn	99	53	A	F
-2102	531324	1	3	901	3	Radoslav	Lisý			47	podnikatel	Komárov	99	80	A	M
+2102	531324	1	3	901	3	Radovan	Lisý			47	podnikatel	Komárov	99	80	A	M
 2102	531375	1	3	901	3	Tomáš	Kapal	Ing.		41	projektant	Kublov	53	80	A	M
 2102	531464	1	3	53	3	Jana	Moravcová	Mgr.		61	státní zaměstnanec	Jánská	99	53	A	F
 2102	531588	1	3	901	3	Petr	Míka			48	podnikatel	Neumětely	99	80	A	M
@@ -542,7 +542,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	532011	1	5	901	3	Dalibor	Šebesta			47	podnikatel	Zdice	99	80	A	M
 2102	533203	1	5	768	3	Ivana	Mašková			54	servírka	Králův Dvůr	768	768	A	F
 2102	531057	1	6	1305	3	Dana	Braunerová			58	administrativní pracovnice	Beroun-Město	1114	1114	A	F
-2102	531189	1	6	901	3	Věra	Eschnerová	Ing.		39	marketingová manažerka	Hořovice	99	80	A	
+2102	531189	1	6	901	3	Věra	Eschnerová	Ing.		39	marketingová manažerka	Hořovice	99	80	A	F
 2102	531782	1	6	901	3	Filip	Kincl		DiS.	21	zvukový technik	Suchomasty	99	80	A	M
 2102	531057	1	7	53	3	Viktor	Burkert	Ing.		43	podnikatel, zastupitel, předseda finančního výboru města Beroun	Beroun-Centrum	53	53	A	M
 2102	531189	1	7	1	3	Jiří	Konrád	Ing.		68	dopravní inženýr	Hořovice	1	1	A	M
@@ -712,11 +712,10 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531961	1	5	523	4	Denisa	Fialová	Ing.	MBA	33	zaměstnankyně generálního finančního ředitelství	Vysoký Újezd	99	80	A	F
 2102	532011	1	5	901	4	Ervín Idris	Beshir	MUDr.		54	lékař, spisovatel, lektor	Zdice	99	80	A	M
 2102	533203	1	5	768	4	František	Beneš			75	důchodce	Zahořany	768	768	A	M
-2102	531057	1	6	1305	4	Miloslav	Glässner			54	šéfkuchař	Beroun-Centrum	99	1114	A	M
 2102	531189	1	6	901	4	Marcela	Flídrová			63	designérka	Hořovice	99	80	A	F
 2102	531782	1	6	901	4	Roman	Hanzlík			53	řidič	Suchomasty	99	80	A	M
 2102	531057	1	7	53	4	Martin	Tuček	Ing.		37	manažer finančních poradců	Beroun-Město	53	53	A	M
-2102	531189	1	7	1	4	Jaroslav	Sternwald			53	IT specialista	Hořovice	99	1	A	
+2102	531189	1	7	1	4	Jaroslav	Sternwald			53	IT specialista	Hořovice	99	1	A	M
 2102	531782	1	7	902	4	Alena	Krčílková			40	OSVČ	Suchomasty	99	80	A	F
 2102	531057	1	8	470	4	Martin	Dolejší	Ing.		37	ekonom	Beroun-Město	721	166	A	M
 2102	531189	1	8	53	4	Kamil	Sukovský	MUDr.		50	lékař, primář radiodiagnostického oddělení	Hořovice	99	53	A	M
@@ -727,7 +726,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531073	1	1	901	5	Václav	Vinš			33	kontrolor výroby	Běštín	99	80	A	M
 2102	531081	1	1	901	5	Renata	Belanská			58	zdravotní laborantka	Broumy	99	80	A	F
 2102	531090	1	1	901	5	Eva	Ticháková			47	finanční a realitní makléřka	Březová	99	80	A	F
-2102	531103	1	1	902	5	Zuzana	Faitová			43	mark.manažer	Bubovice	99	80	A	F
+2102	531103	1	1	902	5	Zuzana	Faitová			43	mark. Manažer	Bubovice	99	80	A	F
 2102	531120	1	1	901	5	Václav	Ryska			40	mechanik	Bzová	99	80	A	M
 2102	531138	1	1	901	5	Adam	Šlechta			26	IT technik	Třenice	99	80	A	M
 2102	531154	1	1	53	5	Jiří	Měšťan			33	stavební dozor	Drozdov	99	53	A	M
@@ -743,7 +742,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531294	1	1	901	5	Daniel	Steiner			31	vedoucí zákaznické podpory a reklamací	Chyňava	99	80	A	M
 2102	531308	1	1	901	5	Stanislav	Žáček			48	OSVČ	Jivina	99	80	A	M
 2102	531316	1	1	901	5	Karel	Vobořil			48	podnikatel	Karlštejn	99	80	A	M
-2102	531324	1	1	902	5	Tomáš	Suttr			41	konstruktér	Komárov	99	80	A	
+2102	531324	1	1	902	5	Tomáš	Suttr			41	konstruktér	Komárov	99	80	A	M
 2102	531332	1	1	901	5	Jaroslava	Čampulová			67	zastupitelka obce, důchodkyně, bývalá ředitelka mateřské školy	Koněprusy	99	80	A	F
 2102	531456	1	1	470	5	Martin	Homola			48	soukromý zemědělec	Běleč	99	166	A	M
 2102	531464	1	1	901	5	Hana	Hrubanová			50	odborný ekonom	Loděnice	99	80	A	F
@@ -877,14 +876,14 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	532011	1	4	1327	5	Břetislav	Prokop	Ing.		52	výrobní manažer	Zdice	99	721	A	M
 2102	533203	1	4	540	5	Michal	Szabó	Bc.		32	fitness trenér, majitel tělocvičny Super Kruháč	Počaply	99	80	A	M
 2102	531057	1	5	720	5	Ilona	Vokáčová			43	vrátná	Beroun-Zavadilka	99	720	A	F
-2102	531189	1	5	1614	5	Anna	Karbanová			53	vedoucí prodejny	Hořovice	768	768	A	
+2102	531189	1	5	1614	5	Anna	Karbanová			53	vedoucí prodejny	Hořovice	768	768	A	F
 2102	531227	1	5	901	5	Ivana	Mezková			50	účetní	Hudlice	99	80	A	F
 2102	531782	1	5	904	5	Zdeněk	Kaňa			36	truhlář	Suchomasty	99	80	A	M
 2102	531961	1	5	523	5	Věra	Lišková			53	vedoucí referátu zdravotní pojišťovny	Vysoký Újezd	99	53	A	F
 2102	532011	1	5	901	5	Josef	Matějka	Mgr.		40	učitel, trenér tenisu	Zdice	99	80	A	M
 2102	533203	1	5	768	5	Eva	Švorcová			47	administrativní pracovník	Králův Dvůr	99	768	A	F
 2102	531057	1	6	1305	5	Michal	Celina			34	všeobecná zdravotní sestra	Beroun-Město	1114	1114	A	M
-2102	531189	1	6	901	5	Ivana	Sirůčková	Bc.		36	státní zaměstnanec	Hořovice	99	80	A	
+2102	531189	1	6	901	5	Ivana	Sirůčková	Bc.		36	státní zaměstnanec	Hořovice	99	80	A	F
 2102	531782	1	6	901	5	Vladimír	Kincl			57	OSVČ	Suchomasty	99	80	A	M
 2102	531057	1	7	53	5	Lenka	Viche	Ing.		41	bankovní poradce pro financování nemovitostí	Beroun-Závodí	53	53	A	F
 2102	531189	1	7	1	5	Vladimír	Smíšek	Ing.		61	konstruktér - učitel	Hořovice	99	1	A	M
@@ -979,7 +978,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531294	1	2	902	6	Eva	Blahůtová	Ing.		35	podnikatelka	Chyňava	99	80	A	F
 2102	531316	1	2	902	6	Jakub	Kříž			22	OSVČ	Karlštejn	99	80	A	M
 2102	531324	1	2	1482	6	František	Sojka	Ing.		66	energetický specialista, OSVČ	Komárov	1227	1227	A	M
-2102	531332	1	2	902	6	Jan	Hofmeister	RNDr.	PhD.	49	vědecký pracovník	Koněprusy	99	80	A	M
+2102	531332	1	2	902	6	Jan	Hofmeister	RNDr.	Ph.D.	49	vědecký pracovník	Koněprusy	99	80	A	M
 2102	531448	1	2	901	6	Jiří	Pitelka			39	manažer logistiky	Libomyšl	99	80	A	M
 2102	531456	1	2	480	6	Petr	Beránek			49	manažer vývoje softwaru	Liteň	99	80	A	M
 2102	531464	1	2	902	6	Filip	Melichar			22	zámečník	Jánská	99	80	A	M
@@ -1049,8 +1048,8 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531961	1	5	523	6	Helena	Šnajdrová	JUDr.		73	advokátka	Vysoký Újezd	99	80	A	F
 2102	532011	1	5	901	6	Marek	Pollak			51	vrchní inspektor HZS Středočeského kraje	Zdice	99	80	A	M
 2102	533203	1	5	768	6	Petra	Kalašová	Mgr.		46	ekonomka	Králův Dvůr	99	768	A	F
-2102	531057	1	6	1305	6	Lukáš	Težký			22	živnostník	Beroun-Závodí	99	1114	A	M
-2102	531189	1	6	901	6	Alois	Macek	Ing.		69	stavební inženýr	Hořovice	99	80	A	
+2102	531057	1	6	1305	6	Lukáš	Těžký			22	živnostník	Beroun-Závodí	99	1114	A	M
+2102	531189	1	6	901	6	Alois	Macek	Ing.		69	stavební inženýr	Hořovice	99	80	A	M
 2102	531782	1	6	901	6	Vladimír	Týbl			64	OSVČ	Suchomasty	99	80	A	M
 2102	531057	1	7	53	6	Patrik	Repš			19	student	Beroun-Město	53	53	A	M
 2102	531189	1	7	1	6	Jaroslava	Slavíková		DiS.	59	sociální pracovnice	Hořovice	1	1	A	F
@@ -1135,7 +1134,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531201	1	2	470	7	Vladimír	Zachoval	Ing.		67	ekonom	Hostomice	99	166	A	M
 2102	531227	1	2	904	7	Jiří	Zíma			24	obráběč CNC	Hudlice	99	80	A	M
 2102	531243	1	2	902	7	Miluše	Milerová			73	důchodce	Hýskov	99	80	A	F
-2102	531294	1	2	902	7	Ĺubica	Kotoučková	Ing.		58	dotační poradce	Chyňava	99	80	A	F
+2102	531294	1	2	902	7	Ľubica	Kotoučková	Ing.		58	dotační poradce	Chyňava	99	80	A	F
 2102	531316	1	2	902	7	Viktor	Pastorek			31	programátor	Karlštejn	99	80	A	M
 2102	531324	1	2	1482	7	Adriana	Dršková			24	rodičovská dovolená	Újezd	99	80	A	F
 2102	531332	1	2	902	7	Lucie	Trenčínská	Bc.		39	ergoterapeut	Bítov	99	80	A	F
@@ -1144,8 +1143,8 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531464	1	2	902	7	Jan	Tomaštík			57	lektor	Loděnice	721	80	A	M
 2102	531472	1	2	901	7	Roman	Ernest			58	podnikatel	Lochovice	99	80	A	M
 2102	531537	1	2	902	7	Richard	Majer			61	technik čerpacích stanic	Mezouň	99	80	A	M
-2102	531588	1	2	53	7	Petr	Sejpal	MgA.		48	hudebník, pedagog	Neumětely	99	53	A	
-2102	531596	1	2	902	7	Irena	Berková	Mgr.		27	vedoucí admin.oddělení	Nižbor	99	80	A	F
+2102	531588	1	2	53	7	Petr	Sejpal		MgA.	48	hudebník, pedagog	Neumětely	99	53	A	M
+2102	531596	1	2	902	7	Irena	Berková	Mgr.		27	vedoucí admin. oddělení	Nižbor	99	80	A	F
 2102	531634	1	2	902	7	Jiří	Mužík			35	nástrojař	Osek	99	80	A	M
 2102	531669	1	2	901	7	Ludmila	Hobzová			43	administrativní pracovnice	Otročiněves	99	80	A	F
 2102	531758	1	2	902	7	Petr	Kaucký			48	údržbář	Srbsko	99	80	A	M
@@ -1174,13 +1173,13 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531201	1	3	901	7	Zdeněk	Lapáček			30	svářeč	Hostomice	99	80	A	M
 2102	531227	1	3	387	7	Jana	Paterová			57	referent dopravy	Hudlice	99	80	A	F
 2102	531316	1	3	53	7	Karel	Kříž			56	živnostník	Karlštejn	99	53	A	M
-2102	531324	1	3	901	7	Jiří	Klekner	Ing.	Ph.D.	40	manažer rodinné firmy	Komárov	99	80	A	
+2102	531324	1	3	901	7	Jiří	Klekner	Ing.	Ph.D.	40	manažer rodinné firmy	Komárov	99	80	A	M
 2102	531375	1	3	901	7	Petr	Jirásek	Ing.		44	vedoucí technologického úseku	Kublov	99	80	A	M
 2102	531464	1	3	53	7	Radek	Žižka			27	servisní technik	Loděnice	99	53	A	M
 2102	531588	1	3	901	7	Marcel	Mandík			46	podnikatel	Neumětely	99	80	A	M
-2102	531596	1	3	901	7	Valéria	Heregová			44	učitelka	Nižbor	99	80	A	
+2102	531596	1	3	901	7	Valéria	Heregová			44	učitelka	Nižbor	99	80	A	F
 2102	531634	1	3	903	7	Radek	Hejtmánek			35	konstruktér strojů	Osek	99	80	A	M
-2102	531758	1	3	901	7	Marek	Zapletal	Ing.		35	Software vývojář	Srbsko	99	80	A	M
+2102	531758	1	3	901	7	Marek	Zapletal	Ing.		35	software vývojář	Srbsko	99	80	A	M
 2102	531782	1	3	907	7	Jaroslav	Koláček			38	projektant	Suchomasty	99	80	A	M
 2102	531961	1	3	902	7	Tomáš	Kunc	Ing.		39	finanční ředitel	Vysoký Újezd	99	80	A	M
 2102	531979	1	3	903	7	Pavla	Blechová	MUDr.		49	zubní lékařka	Zadní Třebaň	99	80	A	F
@@ -1208,7 +1207,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	532011	1	5	901	7	Jiří	Kulhánek			45	technik	Zdice	99	80	A	M
 2102	533203	1	5	768	7	Jan	Horák	Ing.		40	strojvedoucí	Králův Dvůr	99	768	A	M
 2102	531057	1	6	1305	7	Ondřej	Mach			21	zámečník	Beroun-Město	1227	1114	A	M
-2102	531189	1	6	901	7	Ladislav	Ludvík	Ing.		57	náměstek ředitele	Hořovice	99	80	A	
+2102	531189	1	6	901	7	Ladislav	Ludvík	Ing.		57	náměstek ředitele	Hořovice	99	80	A	M
 2102	531782	1	6	901	7	Hana	Sudíková Musilová			51	referent obce	Suchomasty	99	80	A	F
 2102	531057	1	7	53	7	Petr	Bureš			54	podnikatel, majitel autoškoly	Beroun-Město	99	53	A	M
 2102	531189	1	7	1	7	Jiří	Abel	Ing.		59	vedoucí odd. OŘČD	Hořovice	99	1	A	M
@@ -1323,7 +1322,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531782	1	3	907	8	Ladislav	Lopušan			35	operátor nakládky	Suchomasty	99	80	A	M
 2102	531961	1	3	902	8	Lenka	Matějková	Mgr.		38	právnička	Vysoký Újezd	99	80	A	F
 2102	531979	1	3	903	8	Klára	Pazderková			26	manažerka zákaznického servisu	Zadní Třebaň	99	80	A	F
-2102	531995	1	3	901	8	Irena	Nezbedová			64	místostarostka obce	Zaječov	99	80	A	F
+2102	531995	1	3	901	8	Irena	Nezbedová			65	místostarostka obce	Zaječov	99	80	A	F
 2102	532011	1	3	1305	8	Jiří	Štefan			34	živnostník	Zdice	99	1114	A	M
 2102	533203	1	3	166	8	Libuše	Suchantová	Mgr.		72	učitelka ZŠ	Králův Dvůr	99	166	A	F
 2102	531057	1	4	532	8	Etienne	Samoura	Ing.	MBA	63	ekonom	Beroun-Město	99	80	A	M
@@ -1336,7 +1335,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531961	1	4	903	8	Ondřej	Kurucz	Ing.		29	ekonom	Vysoký Újezd	99	80	A	M
 2102	531979	1	4	902	8	Jakub	Ondřejovský			47	údržbář ÚJP	Zadní Třebaň	99	80	A	M
 2102	531995	1	4	544	8	Jiří	Vavera			50	team leader	Zaječov	99	80	A	M
-2102	532011	1	4	1327	8	Martin	Malý	Ing. PhDr.		56	OSVČ	Zdice	99	53	A	M
+2102	532011	1	4	1327	8	Martin	Malý	Ing.,  PhDr.		56	OSVČ	Zdice	99	53	A	M
 2102	533203	1	4	540	8	Martina	Hodačová			38	vlakvedoucí	Králův Dvůr	99	80	A	F
 2102	531057	1	5	720	8	Markéta	Shanaáh	Bc.		28	telefundraiser	Beroun-Město	99	720	A	F
 2102	531189	1	5	1614	8	David	Bláha			41	kuchař	Hořovice	99	1227	A	M
@@ -1367,7 +1366,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531227	1	1	902	9	Kateřina	Landová			30	software tester	Hudlice	99	80	A	F
 2102	531235	1	1	387	9	Kateřina	Tůmová	Ing.		29	manažerka	Hvozdec	99	80	A	F
 2102	531243	1	1	901	9	Vít	Šícha			28	poříčný	Hýskov	99	80	A	M
-2102	531294	1	1	901	9	Martin	Malý		MSc., DBA., MRICS.	50	technický ředitel	Chyňava	99	80	A	M
+2102	531294	1	1	901	9	Martin	Malý		MSc., DBA., MRICS	50	technický ředitel	Chyňava	99	80	A	M
 2102	531308	1	1	901	9	Stanislav	Křížek	Ing.		31	agronom	Jivina	99	80	A	M
 2102	531316	1	1	901	9	Jan	Mottl			51	elektrotechnik	Karlštejn	99	80	A	M
 2102	531324	1	1	902	9	Tomáš	Richter			42	OSVČ	Komárov	99	80	A	M
@@ -1469,7 +1468,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	532011	1	5	901	9	Josef	Košťálek	Ing.	Ph.D.	37	vysokoškolský pedagog	Zdice	99	80	A	M
 2102	533203	1	5	768	9	Bohumír	Vykutil			61	elektromontér ČEZ	Králův Dvůr	99	768	A	M
 2102	531057	1	6	1305	9	Michaela	Östereicherová			49	laborantka	Beroun-Město	99	1114	A	F
-2102	531189	1	6	901	9	Radka	Štěrbová	Mgr.		54	obchodní manažerka	Hořovice	99	80	A	
+2102	531189	1	6	901	9	Radka	Štěrbová	Mgr.		54	obchodní manažerka	Hořovice	99	80	A	F
 2102	531782	1	6	901	9	Helena	Hanzlíková			45	administrativní pracovnice	Suchomasty	99	80	A	F
 2102	531057	1	7	53	9	Daniel	Roztočil			56	manažer ve stavebnictví	Beroun-Závodí	99	53	A	M
 2102	531782	1	7	902	9	Jindra	Chrzová			39	doručovatelka	Suchomasty	99	80	A	F
@@ -1533,7 +1532,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	532011	1	5	901	10	Radek	Marcin			41	mechanik	Zdice	99	80	A	M
 2102	533203	1	5	768	10	Karel	Zakar			62	svobodné povolání	Králův Dvůr	768	768	A	M
 2102	531057	1	6	1305	10	Lenka	Kebrdlová			51	disponent přepravy	Beroun-Město	99	1114	A	F
-2102	531189	1	6	901	10	Jan	Eschner	Ing.		39	projektový manažer	Hořovice	99	80	A	
+2102	531189	1	6	901	10	Jan	Eschner	Ing.		39	projektový manažer	Hořovice	99	80	A	M
 2102	531057	1	7	53	10	Alena	Frausová	MUDr.		74	lékařka - cévní chirurgie	Beroun-Závodí	53	53	A	F
 2102	531057	1	8	470	10	Vít	Kolovrat			46	manažer	Beroun-Závodí	99	80	A	M
 2102	531189	1	8	53	10	Marek	Srp			29	konstruktér	Hořovice	53	53	A	M
@@ -1570,7 +1569,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531855	1	2	902	11	Romana	Nováková	Bc.		45	učitelka ZŠ	Tmaň	99	80	A	F
 2102	531995	1	2	463	11	Václav	Solar	Ing.		31	technolog	Zaječov	99	80	A	M
 2102	532011	1	2	1257	11	Michael	Macourek	Ing.		32	úředník	Zdice	99	1257	A	M
-2102	532029	1	2	901	11	Petr	Šlejhar			47	jednatel společnosti	Žebrák	99	80	A	
+2102	532029	1	2	901	11	Petr	Šlejhar			47	jednatel společnosti	Žebrák	99	80	A	M
 2102	533203	1	2	901	11	Milan	Šívr	Ing.		63	projektant, autorizovaný inženýr	Zahořany	99	80	A	M
 2102	531057	1	3	477	11	Dagmar	Žáková			58	provozovatelka baru U Madly	Beroun-Město	99	714	A	F
 2102	531189	1	3	112	11	Milan	Vrba	Bc.		46	podnikatel	Hořovice	99	112	A	M
@@ -1596,7 +1595,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531189	1	6	901	11	Hana	Šlajerová			64	ekonomka	Hořovice	99	80	A	F
 2102	531057	1	7	53	11	David	Krátký	Ing.		43	certifikovaný realitní makléř	Beroun-Město	99	53	A	M
 2102	531057	1	8	470	11	Roman	Freiberg	Bc.		35	operátor diváckého centra České televize	Beroun-Město	721	166	A	M
-2102	531189	1	8	53	11	Miroslav	Karmazin	Ing.		30	živnostník	Hořovice	99	53	A	
+2102	531189	1	8	53	11	Miroslav	Karmazin	Ing.		30	živnostník	Hořovice	99	53	A	M
 2102	531057	1	9	371	11	Michal	Suchý			19	student	Beroun-Město	99	80	A	M
 2102	531057	1	10	387	11	Anna	Doušová			82	prodavačka	Beroun-Město	47	47	A	F
 2102	531057	1	1	463	12	Antonín	Marx	Mgr.		37	manažer sportovních zařízení města	Beroun-Město	99	80	A	M
@@ -1624,7 +1623,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531464	1	2	902	12	Miroslav	Voleský			50	strojvedoucí	Loděnice	99	80	A	M
 2102	531596	1	2	902	12	David	Ježek	Bc.		28	účetní	Nižbor	99	80	A	M
 2102	531855	1	2	902	12	Karel	Franěk			38	učitel ZŠ	Lounín	99	80	A	M
-2102	531995	1	2	463	12	Pavel	Kratochvíl			58	technik výroby	Zaječov	99	80	A	
+2102	531995	1	2	463	12	Pavel	Kratochvíl			58	technik výroby	Zaječov	99	80	A	M
 2102	532011	1	2	1257	12	Jan	Vožeh	Ing.		36	projektant	Zdice	1257	1257	A	M
 2102	532029	1	2	901	12	Martin	Sojka			54	technik	Žebrák	99	80	A	M
 2102	533203	1	2	901	12	Josef	Stojka			44	dělník	Králův Dvůr	99	80	A	M
@@ -1761,7 +1760,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	532011	1	5	901	14	Roman	Praizler			59	zedník	Zdice	99	80	A	M
 2102	533203	1	5	768	14	Veronika	Raková		DiS.	28	sociální pracovnice	Králův Dvůr	99	768	A	F
 2102	531057	1	6	1305	14	Božena	Becková			57	barmanka	Beroun-Město	99	1114	A	F
-2102	531189	1	6	901	14	Jiří	Eschner			40	vedoucí oddělení	Hořovice	99	80	A	M
+2102	531189	1	6	901	14	Jiří	Eschner	Ing.		40	vedoucí oddělení	Hořovice	99	80	A	M
 2102	531057	1	7	53	14	Lenka	Velká			43	OSVČ, kadeřnice	Beroun-Město	99	53	A	F
 2102	531057	1	8	470	14	Jiří	Prošek			54	vydavatel berounského magazínu Kurýr	Beroun-Závodí	99	166	A	M
 2102	531189	1	8	53	14	Jan	Slaboch			43	farmaceutický asistent	Hořovice	99	53	A	M
@@ -1884,9 +1883,9 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531189	1	3	112	19	Jana	Machová			78	důchodkyně	Hořovice	99	112	A	F
 2102	531057	1	4	532	19	Antonín	Macourek			41	prodejce	Beroun-Závodí	99	80	A	M
 2102	531189	1	4	7	19	Jakub	Hormandl			37	OSVČ	Hořovice	99	7	A	M
-2102	531189	1	5	1614	19	Ladislav	Krumphanzl			54	řidič	Hořovice	99	768	A	
+2102	531189	1	5	1614	19	Ladislav	Krumphanzl			57	řidič	Hořovice	99	768	A	M
 2102	531057	1	6	1305	19	Naděžda	Lébrová			51	manipulant ve výrobě	Beroun-Město	99	1114	A	F
-2102	531189	1	6	901	19	Peter	Sýkora	Ing.		58	ekonom	Hořovice	99	80	A	
+2102	531189	1	6	901	19	Peter	Sýkora	Ing.		58	ekonom	Hořovice	99	80	A	M
 2102	531057	1	7	53	19	Zdeňka	Minaříková			78	důchodkyně	Beroun-Město	53	53	A	F
 2102	531057	1	8	470	19	Alena	Veleva			44	účetní	Beroun-Závodí	99	166	A	F
 2102	531189	1	8	53	19	Eva	Škvárová	Mgr.		77	důchodkyně	Hořovice	99	53	A	F
@@ -1916,7 +1915,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2102	531189	1	4	7	21	Ludmila	Vyhnalová			67	důchodkyně	Hořovice	99	7	A	F
 2102	531189	1	5	1614	21	Petr	Holub			52	OSVČ	Hořovice	99	1227	A	M
 2102	531057	1	6	1305	21	Pavel	Novotný			54	pracovník ostrahy	Beroun-Zavadilka	99	1114	A	M
-2102	531189	1	6	901	21	Kateřina	Srpová	Mgr.		49	učitelka	Hořovice	99	80	A	
+2102	531189	1	6	901	21	Kateřina	Srpová	Mgr.		49	učitelka	Hořovice	99	80	A	F
 2102	531057	1	7	53	21	Martin	Hašler			57	manažer rozvoje obchodu	Beroun-Město	53	53	A	M
 2102	531057	1	8	470	21	Pavel	Konrád			64	vedoucí technického oddělení	Beroun-Závodí	99	166	A	M
 2102	531189	1	8	53	21	Jitka	Lemfeldová			52	zdravotní sestra	Hořovice	99	53	A	F

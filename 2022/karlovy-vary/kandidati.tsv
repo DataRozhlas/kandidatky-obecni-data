@@ -576,7 +576,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4102	555347	1	1	1314	4	Ivan	Němec	Mgr.		67	důchodce	Radošov	99	80	A	M
 4102	555363	1	1	901	4	Dagmar	Baslová			63	podnikatelka	Merklín	99	80	A	F
 4102	555380	1	1	768	4	Stanislav	Franc			41	manažer kvality senior	Nejdek	99	768	A	M
-4102	555398	1	1	901	4	Kateřina	Pavlíčková	Ing. arch.		31	architektka	Nová Role	99	80	A	
+4102	555398	1	1	901	4	Kateřina	Pavlíčková	Ing. arch.		31	architektka	Nová Role	99	80	A	F
 4102	555428	1	1	53	4	Petr	Šindelář	Mgr.	LL.M.	49	advokát	Ostrov	53	53	A	M
 4102	555444	1	1	1	4	Tomáš	Veselý	Bc.		32	agronom	Otročín	99	1	A	M
 4102	555452	1	1	901	4	Miroslav	Kotrla			53	vedoucí provozu	Pernink	99	80	A	M
@@ -735,7 +735,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4102	555169	1	1	1314	5	Petr	Hájek			37	pracovník v sociálních službách	Horní Blatná	99	80	A	M
 4102	555185	1	1	47	5	Josef	Kratochvíl	Bc.		70	důchodce	Hroznětín	99	47	A	M
 4102	555207	1	1	901	5	Miroslava	Klímová			43	manažerka	Chyše	99	80	A	F
-4102	555215	1	1	902	5	Lucie	Kubínová			34	vedoucí recepce LC Agricola	Jáchymov	99	80	A	
+4102	555215	1	1	902	5	Lucie	Kubínová			34	vedoucí recepce LC Agricola	Jáchymov	99	80	A	F
 4102	555258	1	1	902	5	Tomáš	Lafek	Ing.		40	OSVČ	Kolová	53	80	A	M
 4102	555347	1	1	1314	5	Tomáš	Petrilák			48	specialista správy a ochrany sítí	Radošov	99	80	A	M
 4102	555363	1	1	901	5	Milan	Vlčko			42	servisní technik	Merklín	99	80	A	M
@@ -851,7 +851,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4102	555762	1	5	901	5	Gabriela	Baštářová			51	učitelka MŠ	Žlutice	99	80	A	F
 4102	537918	1	6	480	5	Anna	Peterková			34	v domácnosti, zpěvačka písní, zasloužilá matka	Dalovice	99	721	A	F
 4102	554961	1	6	1598	5	Jakub	Randuška			19	student	Rybáře	1245	1245	A	M
-4102	555380	1	6	371	5	Sonja	Bourová	Bc.		30	self-manager, místopředsedkyně z. s. JoN	Nejdek	99	80	A	F
+4102	555380	1	6	371	5	Sonja	Bourová	Bc.	DiS.	30	self-manager, místopředsedkyně z. s. JoN	Nejdek	99	80	A	F
 4102	555398	1	6	389	5	Dagmar	Schlapáková	Mgr.		45	učitelka ZŠ	Nová Role	99	80	A	F
 4102	555428	1	6	47	5	Tibor	Hulák			52	řidič autobusu	Ostrov	47	47	A	M
 4102	555657	1	6	1556	5	Patrik	Staněk			25	krupiér	Kosmová	99	80	A	M
@@ -1039,7 +1039,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4102	554961	1	13	720	6	Jana	Jandová	Bc.	DiS.	68	předsedkyně spolku, členka Kontrolního výboru kraje a města, srdcařka	Tašovice	720	720	A	F
 4102	500101	1	1	902	7	Karel	Fišer			24	řezník	Bražec	99	80	A	M
 4102	500127	1	1	901	7	Dominika	Bartáková	Bc.		32	sociální pracovnice	Lučiny	99	80	A	F
-4102	506494	1	1	901	7	Pavel	Král	Ing.		64	technik	Nové Hamry	99	80	A	M
+4102	506494	1	1	901	7	Pavel	Král			64	technik	Nové Hamry	99	80	A	M
 4102	506621	1	1	901	7	Václav	Průša			45	ošetřovatel	Mokrá	99	80	A	M
 4102	537918	1	1	53	7	Petra	Kršová			37	pracovnice v sociálních službách	Vysoká	99	53	A	F
 4102	537926	1	1	1481	7	Stanislav	Hanuš			68	obchodní zástupce	Jenišov	99	80	A	M
@@ -1074,7 +1074,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4102	555614	1	1	901	7	Jindřich	Oláh			46	OSVČ	Pulovice	99	80	A	M
 4102	555622	1	1	901	7	Roman	Šantora			44	vedoucí provozu	Přestání	99	80	A	M
 4102	555657	1	1	112	7	Jakub	Červený			42	odborný konzultant	Toužim	99	112	A	M
-4102	555690	1	1	720	7	Šárka	Švabergová			53	vedoucí školní jídelny	Valeč	99	720	A	F
+4102	555690	1	1	720	7	Šárka	Švanbergová			53	vedoucí školní jídelny	Valeč	99	720	A	F
 4102	555703	1	1	1114	7	Jan	Zelenka			35	živnostník	Velichov	99	1114	A	M
 4102	555711	1	1	901	7	Miroslava	Křenčilová			41	kuchařka	Verušičky	99	80	A	F
 4102	555738	1	1	901	7	Vladimír	Brynda			49	zástupce šéfkuchaře	Vojkovice	99	80	A	M
@@ -1170,7 +1170,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4102	537918	1	6	480	7	Eliška	Kramperová			27	policistka, jezdkyně na jednokolce	Dalovice	99	721	A	F
 4102	554961	1	6	1598	7	Monika	Jiříková			49	zdravotní sestra	Stará Role	99	1265	A	F
 4102	555380	1	6	371	7	Tomáš	Vymazal	Mgr.		44	učitel	Nejdek	99	80	A	M
-4102	555398	1	6	389	7	Jitka	Vávrová			52	THP THUN - Porcelán	Mezirolí	99	80	A	
+4102	555398	1	6	389	7	Jitka	Vávrová			52	THP THUN - Porcelán	Mezirolí	99	80	A	F
 4102	555428	1	6	47	7	Vladimír	Lesser			72	starobní důchodce	Ostrov	47	47	A	M
 4102	555657	1	6	1556	7	Radek	Svoboda			49	vedoucí obchodního oddělení	Toužim	99	80	A	M
 4102	555681	1	6	902	7	Eva	Fedosejevová			42	stavbyvedoucí	Chylice	99	80	A	F
@@ -1208,7 +1208,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4102	554979	1	1	1118	8	Marek	Hrdlička			50	podnikatel	Hřebečná	99	1118	A	M
 4102	554995	1	1	355	8	Jiří	Šindelář	Ing.		46	zahradní architekt	Bečov nad Teplou	99	80	A	M
 4102	555029	1	1	112	8	Lucie	Černoková	Mgr.		38	ředitelka MŠ	Bochov	99	112	A	F
-4102	555045	1	1	901	8	René	Klieber			45	strojní mechanik	Božičany	99	80	A	M
+4102	555045	1	1	901	8	René	Kleiber			45	strojní mechanik	Božičany	99	80	A	M
 4102	555169	1	1	1314	8	Dominik	Brodny			26	obsluha CNC	Horní Blatná	99	80	A	M
 4102	555207	1	1	901	8	Miroslav	Dorňák	Bc.		33	hasič ČR	Chyše	99	80	A	M
 4102	555215	1	1	902	8	Petr	Hellmich			39	kontrolor výroby, Německo	Jáchymov	99	80	A	M
@@ -1293,7 +1293,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4102	555185	1	4	901	8	Karel	Komárek			46	živnostník	Hroznětín	99	80	A	M
 4102	555215	1	4	1118	8	Luděk	Kohout			44	energetik Skiareálu Klínovec	Suchá	99	1118	A	M
 4102	555363	1	4	540	8	Alena	Bačová			67	důchodce	Merklín	99	80	A	F
-4102	555380	1	4	1534	8	Jan	Ďuvovič			32	chemik	Nejdek	99	761	A	M
+4102	555380	1	4	1534	8	Jan	Ďurovič			32	chemik	Nejdek	99	761	A	M
 4102	555398	1	4	1534	8	Petr	Andrle			48	masér	Nová Role	99	1244	A	M
 4102	555428	1	4	1114	8	Simona	Havelková			47	personalistka u soudu	Ostrov	1114	1114	A	F
 4102	555525	1	4	901	8	Soňa	Vojíková			57	učitelka ZŠ	Pšov	99	80	A	F
@@ -1337,7 +1337,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4102	554961	1	12	1114	8	Pavel	Strejček			61	spolumajitel firmy - vedoucí revizní technik	Stará Role	99	1114	A	M
 4102	554961	1	13	720	8	Olga	Bischofová			52	investigativec karlovarských zákoutí, Holka z Moskevské	Rybáře	99	720	A	F
 4102	500127	1	1	901	9	Aleš	Brožík			45	OSVČ - služby	Svatobor	99	80	A	M
-4102	506494	1	1	901	9	Karel	Vozáb			76	důchodce	Nové Hamry	99	80	A	M
+4102	506494	1	1	901	9	Karel	Vozáb	Ing.		76	důchodce	Nové Hamry	99	80	A	M
 4102	537926	1	1	1481	9	Karel	Pfaff			60	OSVČ	Jenišov	99	80	A	M
 4102	537934	1	1	901	9	Eva	Hlinková			67	důchodce	Mírová	99	80	A	F
 4102	538116	1	1	901	9	Ivana	Valešová			36	asistentka ředitele	Děpoltovice	99	80	A	F
@@ -2024,7 +2024,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4102	554961	1	5	1625	27	Jan	Hladký			31	číšník	Rybáře	99	1244	A	M
 4102	554961	1	6	1598	27	Kateřina	Olaitan Kellerová			49	pokladní v sázkové kanceláři	Rybáře	99	1265	A	F
 4102	554961	1	7	166	27	Marek	Pospíchal	Ing.		50	učitel	Rybáře	99	166	A	M
-4102	554961	1	8	1327	27	Kateřina	Maružánová	Bc.		36	projektový manažer	Rybáře	721	721	A	F
+4102	554961	1	8	1327	27	Kateřina	Maružánová	Bc.		36	projektový manager	Rybáře	721	721	A	F
 4102	554961	1	9	1227	27	Josef	Švarc			76	důchodce	Karlovy Vary	99	1227	A	M
 4102	554961	1	10	47	27	Zdeňka	Slavíková			84	důchodkyně	Karlovy Vary	47	47	A	F
 4102	554961	1	11	1028	27	Robert	Bozděch			48	řidič z povolání	Stará Role	1028	1028	A	M
@@ -2109,7 +2109,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4102	554961	1	13	720	33	Kamila	Nováčková			45	knihovnice	Rybáře	99	720	A	F
 4102	554961	1	1	768	34	Helena	Jendrolliková			74	pracovnice v obchodu, důchodce	Doubí	99	768	A	F
 4102	554961	1	3	182	34	Adéla	Rovná	Ing.		25	chemická inženýrka	Karlovy Vary	99	182	A	F
-4102	554961	1	4	1556	34	Milan	Kováč			57	zakladatel obecně prospěšné společnosti	Sedlec	99	80	A	M
+4102	554961	1	4	1556	34	Milan	Kováč			57	ředitel obecně prospěšné společnosti	Sedlec	99	80	A	M
 4102	554961	1	5	1625	34	Petra	Komárková			48	optik	Stará Role	99	1244	A	F
 4102	554961	1	6	1598	34	Iveta	Sokolová			50	zubní asistentka	Karlovy Vary	1245	1245	A	F
 4102	554961	1	7	166	34	Tomáš	Kosík			46	číšník	Drahovice	99	166	A	M

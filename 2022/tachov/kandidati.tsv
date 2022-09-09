@@ -94,7 +94,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3207	560839	1	3	901	1	Milan	Rathouský			53	mistr logistiky	Dlouhý Újezd	99	80	A	M
 3207	560863	1	3	903	1	Jana	Kiššová			69	důchodce-zastupitelka	Halže	47	80	A	F
 3207	560898	1	3	1245	1	Jiří	Draxal			60	zemědělský inženýr	Hošťka	99	1245	A	M
-3207	560901	1	3	389	1	Luboš	Hlačík			46	starost	Chodová Planá	53	53	A	M
+3207	560901	1	3	389	1	Luboš	Hlačík			46	starosta	Chodová Planá	53	53	A	M
 3207	560910	1	3	902	1	Zdeněk	Pokorný			39	OSVČ	Nahý Újezdec	99	80	A	M
 3207	560928	1	3	47	1	Eduard	Kvasnička			62	účetní, OSVČ	Kladruby	47	47	A	M
 3207	561002	1	3	904	1	Marta	Bartošová			59	učitelka MŠ	Lesná	99	80	A	F
@@ -299,7 +299,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3207	561231	1	1	901	3	Josef	Solař			56	instalatér	Sulislav	99	80	A	M
 3207	561258	1	1	901	3	Tomáš	Petráň			41	místostarosta obce	Svojšín	99	80	A	M
 3207	561291	1	1	387	3	Jitka	Šedivá			49	stavební prodejce	Trpísty	99	80	A	F
-3207	561304	1	1	901	3	Karel	Gebauer	RNDr.		64	OSVČ	Dubec	99	80	A	
+3207	561304	1	1	901	3	Karel	Gebauer	RNDr.		64	OSVČ	Dubec	99	80	A	M
 3207	566888	1	1	901	3	Václav	Kaválek			44	tesař	Olbramov	99	80	A	M
 3207	579459	1	1	901	3	Ondřej	Čumpelík	BcA.		32	konstruktér	Ctiboř	99	80	A	M
 3207	579467	1	1	901	3	Jana	Nedvědová			50	finanční manažerka	Skapce	99	80	A	F
@@ -560,7 +560,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3207	541621	1	2	901	5	Jan	Klečka			40	OSVČ	Kumpolec	99	80	A	M
 3207	560715	1	2	1560	5	Karel	Machač			69	strážce přírody Plzeňského kraje	Tachov	99	1233	A	M
 3207	560740	1	2	903	5	Milan	Červenka			60	elektrikář	Bezdružice	99	80	A	M
-3207	560758	1	2	1435	5	Olga	Chvátalová	Ing.		43	starostka SDH Bor	Bor	99	80	A	
+3207	560758	1	2	1435	5	Olga	Chvátalová	Ing.		43	starostka SDH Bor	Bor	99	80	A	F
 3207	560804	1	2	902	5	Alena	Virková			52	OSVČ	Částkov	99	80	A	F
 3207	560812	1	2	387	5	Miroslav	Tancoš			45	řidič	Černošín	99	80	A	M
 3207	560839	1	2	902	5	Jakub	Drexler			40	automechanik	Dlouhý Újezd	99	80	A	M
@@ -1012,7 +1012,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3207	560715	1	3	371	9	Martina	Vávrová	Mgr.		45	dispečer kamionové dopravy	Tachov	99	80	A	F
 3207	560740	1	3	902	9	Petr	Čapek			27	dělník	Bezdružice	99	80	A	M
 3207	560758	1	3	903	9	Jaromír	Popelka			65	důchodce	Bor	99	80	A	M
-3207	560812	1	3	5	9	Jana	Krejčová			50	mzdová účetní	Černošín	99	5	A	
+3207	560812	1	3	5	9	Jana	Krejčová			50	mzdová účetní	Černošín	99	5	A	F
 3207	560839	1	3	901	9	Slavomír	Kozák			70	důchodce	Dlouhý Újezd	99	80	A	M
 3207	560863	1	3	903	9	Oldřich	Pavlíček	JUDr.		71	podnikatel	Halže	99	80	A	M
 3207	560901	1	3	389	9	Libuše	Keruľová			55	investiční technik	Chodová Planá	99	80	A	F

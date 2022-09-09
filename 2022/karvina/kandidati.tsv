@@ -37,7 +37,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8103	555088	1	3	1618	1	Darja	Škutová	Bc. et Bc.		34	jednatelka společnosti, zastupitelka	Havířov - Podlesí	99	80	A	F
 8103	555291	1	3	53	1	Marie	Walachová	Ing.		40	účetní	Chotěbuz	53	53	A	F
 8103	568864	1	3	88	1	Dáša	Murycová	Mgr.		64	starostka obce	Doubrava	99	88	A	F
-8103	598178	1	3	474	1	Jana	Pohludková			61	předsedkyně OV	Horní Bludovice - Prostřední Bludovice	47	47	A	
+8103	598178	1	3	474	1	Jana	Pohludková			61	předsedkyně OV	Horní Bludovice - Prostřední Bludovice	47	47	A	F
 8103	598917	1	3	7	1	Jan	Wolf	Ing.		54	primátor města Karviné	Hranice	7	7	A	M
 8103	598925	1	3	7	1	Juraj	Legindi			61	státní zaměstnanec	Albrechtice	7	7	A	M
 8103	598933	1	3	687	1	Miroslav	Sluštík	Ing.		49	bezpečnostní manažer	Český Těšín	53	53	A	M
@@ -275,7 +275,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8103	599140	1	4	902	3	Pavel	Žemlička			41	obchodní zástupce	Stonava	99	80	A	M
 8103	599158	1	4	768	3	Radek	Bystroň	Ing.		42	vedoucí výrobního závodu	Těrlicko - Hradiště	99	768	A	M
 8103	555088	1	5	371	3	Milan	Černý	Ing.		62	ředitel sociálních služeb	Havířov - Podlesí	7	7	A	M
-8103	555291	1	5	88	3	Tomáš	Drobisz	Bc.		38	IT specialista	Chotěbuz	99	88	A	
+8103	555291	1	5	88	3	Tomáš	Drobisz	Bc.		38	IT specialista	Chotěbuz	99	88	A	M
 8103	598917	1	5	1114	3	Jaroslav	Slezák	Bc.		39	finanční poradce	Mizerov	1114	1114	A	M
 8103	598925	1	5	72	3	Albín	Budjač	Ing.		56	vedoucí skladu	Albrechtice	99	72	A	M
 8103	598933	1	5	401	3	Alena	Hasáková	PhDr.		67	pedagog	Český Těšín	88	88	A	F
@@ -377,7 +377,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8103	599069	1	4	88	4	Petr	Drozdík			39	specialista technické podpory	Orlová-Lutyně	88	88	A	M
 8103	599085	1	4	7	4	Martin	Graf			57	školník	Petřvald	7	7	A	M
 8103	599107	1	4	166	4	Šárka	Gawlasová	Ing.		48	osobní bankéřka	Rychvald	99	166	A	F
-8103	599140	1	4	902	4	Pavel	Balicki	Bc.		59	dopravní policista	Stonava	99	80	A	
+8103	599140	1	4	902	4	Pavel	Balicki	Bc.		59	dopravní policista	Stonava	99	80	A	M
 8103	599158	1	4	768	4	Roman	Mikula			51	údržbář	Těrlicko - Horní Těrlicko	99	768	A	M
 8103	555088	1	5	371	4	Milan	Dlábek	MUDr.		64	ředitel domova seniorů	Havířov - Město	99	80	A	M
 8103	555291	1	5	88	4	Jan	Popiolek			39	obchodní manager	Chotěbuz	99	88	A	M
@@ -390,7 +390,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8103	599069	1	5	733	4	Roman	Koutný	Ing.		52	technik	Orlová-Lutyně	733	733	A	M
 8103	599085	1	5	53	4	Václav	Holeček	Ing.		70	důchodce	Petřvald	99	53	A	M
 8103	599107	1	5	716	4	Robin	Król			21	student	Rychvald	99	716	A	M
-8103	599158	1	5	371	4	Petr	Skotnica	Ing.		41	Branch manager, vedoucí pobočky	Těrlicko - Horní Těrlicko	99	80	A	
+8103	599158	1	5	371	4	Petr	Skotnica	Ing.		41	Branch manager, vedoucí pobočky	Těrlicko - Horní Těrlicko	99	80	A	M
 8103	555088	1	6	114	4	Martin	Svoboda	MVDr.		55	ředitel základní školy	Havířov - Podlesí	114	114	A	M
 8103	598917	1	6	1327	4	Tereza	Ondruszová	Mgr.	Ph.D.	36	administrativní pracovník ŘKF Karviná	Mizerov	1	1	A	F
 8103	598925	1	6	364	4	Michal	Vlašic			33	živnostník	Albrechtice	99	80	A	M
@@ -671,7 +671,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8103	598917	1	3	7	7	Jan	Firla	Ing.		53	zástupce ředitele Střediska volného času Juventus	Mizerov	99	7	A	M
 8103	598925	1	3	7	7	Hana	Kaperová	Bc.		50	ekonomka	Albrechtice	99	7	A	F
 8103	598933	1	3	687	7	Linda	Heclová	Ing.		28	marketing manažer	Dolní Žukov	53	53	A	F
-8103	598941	1	3	901	7	Roman	Sikora	Ing.	MBA	57	předseda představenstva	Dětmarovice	99	80	A	
+8103	598941	1	3	901	7	Roman	Sikora	Ing.	MBA	57	předseda představenstva	Dětmarovice	99	80	A	M
 8103	598968	1	3	1	7	Ondřej	Semer			36	IT technik	Dolní Lutyně	99	1	A	M
 8103	599051	1	3	768	7	Petr	Sobota	Mgr.		65	středoškolský učitel	Bohumín - Záblatí	99	768	A	M
 8103	599069	1	3	768	7	Petr	Huplík			50	strážník Městské policie	Orlová-Lutyně	768	768	A	M
@@ -1181,7 +1181,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8103	598917	1	3	7	12	Stanislav	Sobel			45	OSVČ	Mizerov	7	7	A	M
 8103	598925	1	3	7	12	Šárka	Jančarová			51	učitelka MŠ	Albrechtice	99	7	A	F
 8103	598933	1	3	687	12	Milan	Pecka	PaedDr.		76	důchodce	Český Těšín	53	53	A	M
-8103	598941	1	3	901	12	Ondřej	Menšík	Ing.		40	obchodní ředitel	Dětmarovice	99	80	A	
+8103	598941	1	3	901	12	Ondřej	Menšík	Ing.		40	obchodní ředitel	Dětmarovice	99	80	A	M
 8103	599051	1	3	768	12	Jan	Sedláček			43	podnikatel	Bohumín - Nový Bohumín	768	768	A	M
 8103	599069	1	3	768	12	Oldřich	Sidzina			68	důchodce	Orlová-Poruba	768	768	A	M
 8103	599077	1	3	1	12	Jarmila	Pamroková			44	poštovní doručovatelka	Petrovice u Karviné	99	1	A	F
@@ -1334,7 +1334,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8103	598933	1	8	1227	13	Martin	Civín		DiS.	36	operátor výroby	Český Těšín	1227	1227	A	M
 8103	599069	1	8	716	13	Petr	Kavan			53	realitní makléř	Orlová-Lutyně	99	716	A	M
 8103	599107	1	8	768	13	Jaroslava	Tomášová			51	asistent pedagoga	Rychvald	768	768	A	F
-8103	555088	1	9	1531	13	Petr	Křístek	Ing.		52	ústřední báňský inspektor	Havířov - Podlesí	99	1	A	
+8103	555088	1	9	1531	13	Petr	Křístek	Ing.		52	ústřední báňský inspektor	Havířov - Podlesí	99	1	A	M
 8103	598933	1	9	1	13	René	Knopp	Ing.		49	technik	Dolní Žukov	1	1	A	M
 8103	599069	1	9	1327	13	Roman	Farana	doc. Mgr.	Ph.D.	42	vysokoškolský pedagog, proděkan	Orlová-Lutyně	53	53	A	M
 8103	599107	1	9	53	13	Miroslav	Mihočka			72	důchodce	Rychvald	99	53	A	M
@@ -1472,7 +1472,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8103	599158	1	2	901	15	Jana	Unucková			56	poštovní úřednice	Těrlicko - Horní Těrlicko	99	80	A	F
 8103	552739	1	3	1	15	Ivana	Lišková	Bc.		58	sociální pracovnice	Horní Suchá	99	1	A	F
 8103	555088	1	3	1618	15	Jan	Kirschner	Ing.		45	projektant	Havířov - Město	99	80	A	M
-8103	568864	1	3	88	15	Michal	Jersak			43	provozní zámečník	Doubrava	99	88	A	
+8103	568864	1	3	88	15	Michal	Jersak			43	provozní zámečník	Doubrava	99	88	A	M
 8103	598178	1	3	474	15	Pavel	Janík			75	důchodce	Horní Bludovice - Horní Bludovice	99	47	A	M
 8103	598917	1	3	7	15	Michael	Klos	Mgr.		41	ředitel základní školy	Ráj	99	7	A	M
 8103	598925	1	3	7	15	Vanda	Dziubková			69	důchodkyně	Albrechtice	99	7	A	F
@@ -1678,7 +1678,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8103	598933	1	1	470	19	Danuta	Siderková	Mgr.		66	učitelka v důchodu	Český Těšín	99	80	A	F
 8103	599051	1	1	47	19	Jaroslav	Kijonka			72	elektrikář	Bohumín - Skřečoň	47	47	A	M
 8103	599069	1	1	720	19	Hana	Svačina			27	mateřská dovolená	Orlová-Město	99	720	A	F
-8103	599077	1	1	470	19	Jana	Rigová			49	vedoucí školní jídelny	Dolní Marklovice	99	80	A	F
+8103	599077	1	1	470	19	Janina	Rigová			49	vedoucí školní jídelny	Dolní Marklovice	99	80	A	F
 8103	555088	1	2	1609	19	Lumír	Ščerba			52	technik	Havířov - Prostřední Suchá	99	1245	A	M
 8103	598917	1	2	720	19	Hedvika	Grézlová			79	důchodkyně	Nové Město	99	720	A	F
 8103	598933	1	2	720	19	Jiří	Smelík	Bc.		36	stavební mistr	Český Těšín	99	720	A	M
@@ -1817,8 +1817,8 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8103	599051	1	2	720	22	Jakub	Rymař			33	social media specialist	Bohumín - Nový Bohumín	99	720	A	M
 8103	599069	1	2	47	22	Evžen	Věčorek			81	důchodce	Orlová-Poruba	47	47	A	M
 8103	555088	1	3	1618	22	Zdislav	Krokosz	Mgr. Bc.		45	učitel	Havířov - Šumbark	99	80	A	M
-8103	598917	1	3	7	22	Tomáš	Javorčík	Mgr.		33	vysokoškolský pedagog	Mizerov	7	7	A	M
-8103	598933	1	3	687	22	Rostislav	Zabystrzan	dipl. Ing.		56	jednatel - ředitel firmy	Dolní Žukov	53	53	A	M
+8103	598917	1	3	7	22	Tomáš	Javorčík	Mgr.	Ph.D.	33	vysokoškolský pedagog	Mizerov	7	7	A	M
+8103	598933	1	3	687	22	Rostislav	Zabystrzan	Dipl. Ing.		56	jednatel - ředitel firmy	Dolní Žukov	53	53	A	M
 8103	599051	1	3	768	22	Pavel	Šuta	Ing.		66	důchodce	Bohumín - Záblatí	99	768	A	M
 8103	599069	1	3	768	22	Jana	Galgaňáková			73	důchodkyně	Orlová-Lutyně	99	768	A	F
 8103	555088	1	4	720	22	Robert	Kokeš			56	terénní pracovník	Havířov - Město	99	720	A	M
@@ -2046,7 +2046,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8103	599069	1	4	88	28	Daniel	Sztwiertnia			36	vedoucí směny, starosta SDH Orlová-Město	Orlová-Lutyně	99	88	A	M
 8103	555088	1	5	371	28	Michaela	Balová		DiS.	25	pedagog mateřské školy	Havířov - Šumbark	99	80	A	F
 8103	598917	1	5	1114	28	Petr	Gavenda			39	živnostník	Hranice	99	1114	A	M
-8103	599069	1	5	733	28	Marta	Mütherová	Ing.		25	učitelka základní školy	Orlová-Lutyně	99	733	A	
+8103	599069	1	5	733	28	Marta	Mütherová	Ing.		25	učitelka základní školy	Orlová-Lutyně	99	733	A	F
 8103	555088	1	6	114	28	Šárka	Dytková	Mgr.		30	učitelka	Havířov - Šumbark	99	114	A	F
 8103	598917	1	6	1327	28	Petr	Skalnický	Ing.		32	projektový manažer	Staré Město	53	53	A	M
 8103	599069	1	6	7	28	Dagmar	Šenkeříková			75	důchodce	Orlová-Lutyně	7	7	A	F
@@ -2125,7 +2125,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8103	598917	1	5	1114	31	Dagmar	Hammerová			42	asistent pedagoga	Ráj	99	1114	A	F
 8103	599069	1	5	733	31	Jiří	Grossmann			62	důchodce	Orlová-Lutyně	99	733	A	M
 8103	555088	1	6	114	31	Lukáš	Strouhal			21	policista PČR	Havířov - Prostřední Suchá	99	114	A	M
-8103	598917	1	6	1327	31	Martin	Blatoň	Ing. Bc.	Ph.D.	39	ředitel školy	Mizerov	1	1	A	M
+8103	598917	1	6	1327	31	Martin	Blatoň	Bc. Ing.	Ph.D.	39	ředitel školy	Mizerov	1	1	A	M
 8103	599069	1	6	7	31	Lukáš	Kohel			33	technik	Orlová-Lutyně	99	7	A	M
 8103	555088	1	7	1114	31	Lubomír	Dvořák			52	technicko-hospodářský pracovník	Havířov - Město	99	1114	A	M
 8103	598917	1	7	166	31	Monika	Němečková			29	pracovnice v sociálních službách	Hranice	99	166	A	F
@@ -2243,7 +2243,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8103	598917	1	5	1114	38	Aleš	Galuszka			35	tažec drátů	Ráj	99	1114	A	M
 8103	555088	1	6	114	38	Alena	Petrášová			75	důchodce, bývalá ředitelka SANTÉ	Havířov - Město	99	114	A	F
 8103	598917	1	6	1327	38	Pavla	Matušínská			64	důchodkyně	Ráj	1	1	A	F
-8103	555088	1	7	1114	38	Marcela	Koloničná			49	servírka	Havířov - Šumbark	99	1114	A	
+8103	555088	1	7	1114	38	Marcela	Koloničná			49	servírka	Havířov - Šumbark	99	1114	A	F
 8103	598917	1	7	166	38	Dana	Homolová			58	prodavačka	Hranice	99	166	A	F
 8103	555088	1	9	1531	38	David	Hajdu	Bc.	MBA	38	podnikatel	Havířov - Město	99	53	A	M
 8103	555088	1	10	47	38	Stanislav	Mlčák			75	střelmistr	Havířov - Dolní Suchá	47	47	A	M

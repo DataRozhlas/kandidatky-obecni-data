@@ -53,7 +53,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8106	554332	1	2	53	1	Rudolf	Volný			52	jednatel společnosti	Hošťálkovice	53	53	A	M
 8106	554375	1	2	387	1	Václav	Kopera			75	důchodce	Proskovice	99	80	A	M
 8106	554430	1	2	470	1	Vladimír	Kozel	Ing.		66	místostarosta	Michálkovice	99	166	A	M
-8106	554537	1	2	1	1	Jakub	Sládek	Ing.		35	procesní manažer	Bartovice	99	1	A	M
+8106	554537	1	2	1	1	Jakub	Sládek	Ing.		35	procesní inženýr	Bartovice	99	1	A	M
 8106	554561	1	2	1	1	Tomáš	Výtisk	Ing.		57	starosta	Krásné Pole	99	1	A	M
 8106	554570	1	2	902	1	Radim	Kolář			37	hasič	Martinov	99	80	A	M
 8106	554588	1	2	901	1	Jiří	Šlachta			56	bankovní specialista	Polanka nad Odrou	99	80	A	M
@@ -211,7 +211,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8106	554570	1	1	901	2	Jiří	Ďurák	Ing.		56	OSVČ	Martinov	99	80	A	M
 8106	554588	1	1	53	2	Václav	Planka	Ing.	DiS.	38	ředitel společnosti	Polanka nad Odrou	53	53	A	M
 8106	554669	1	1	355	2	Hana	Chlupatá			37	OSVČ	Hrabová	99	80	A	F
-8106	554685	1	1	371	2	Lenka	Hrušková	Mgr.		53	středoškolská učitelka	Svinov	99	80	A	F
+8106	554685	1	1	371	2	Lenka	Hrušková	Mgr.		52	středoškolská učitelka	Svinov	99	80	A	F
 8106	554715	1	1	901	2	Martin	Flíbor	Ing.		39	technik IT	Třebovice	99	80	A	M
 8106	554723	1	1	53	2	Sylva	Zajícová	MUDr.		46	lékařka - dermatolog	Plesná	53	53	A	F
 8106	554821	1	1	755	2	Iveta	Vozňáková	doc. Ing.	Ph.D.	57	vysokoškolský pedagog, děkanka VŠ	Slezská Ostrava	755	755	A	F
@@ -400,7 +400,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8106	554570	1	1	901	3	Michal	Stebelak	Bc.		48	státní zaměstnanec	Martinov	99	80	A	M
 8106	554588	1	1	53	3	Jarmila	Rappersberger	Ing.		62	majitelka společnosti	Polanka nad Odrou	53	53	A	F
 8106	554669	1	1	355	3	Tomáš	Jurečka			31	elektrotechnik v robotice	Hrabová	99	80	A	M
-8106	554685	1	1	371	3	Pavlína	Kuráňová Forstová	Ing.		37	odborný asistent VŠB-TU OSTRAVA	Svinov	7	7	A	F
+8106	554685	1	1	371	3	Pavlína	Kuráňová Forstová	Ing.	Ph.D.	37	odborný asistent VŠB-TU OSTRAVA	Svinov	7	7	A	F
 8106	554715	1	1	901	3	Jiří	Volný			59	řidič	Třebovice	99	80	A	M
 8106	554723	1	1	53	3	Jaroslav	Zapletal			59	OSVČ	Plesná	53	53	A	M
 8106	554821	1	1	755	3	Michal	Mariánek	Mgr.	MBA	47	ředitel domova pro seniory	Petřkovice	755	755	A	M
@@ -444,7 +444,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8106	598739	1	2	901	3	Jan	Menšík	Ing.		60	stavební technik	Stará Ves	99	80	A	M
 8106	598798	1	2	902	3	Tamara	Zálejská	Mgr. et Mgr.		58	učitelka ZŠ	Šenov	99	80	A	F
 8106	598879	1	2	901	3	Radek	Nitka	Mgr.		39	fyzioterapeut	Vratimov	99	80	A	M
-8106	599549	1	2	389	3	Ondřej	Mika			33	státní zaměstnanec, zastupitel města Klimkovic, velitel jednotky SDH Klimkovice	Klimkovice	99	80	A	M
+8106	599549	1	2	389	3	Ondřej	Mika			33	státní zaměstnanec, zastupitel města Klimkovic, velitel Jednotky SDH Klimkovice	Klimkovice	99	80	A	M
 8106	500291	1	3	1	3	Tomáš	Mičaník	Ing.	Ph.D.	61	projektový manažer	Vřesina	1	1	A	M
 8106	506711	1	3	902	3	Bohumil	Kokeš			58	hasič technik	Dolní Lhota	99	80	A	M
 8106	510882	1	3	47	3	Věra	Fialová			67	důchodkyně	Velká Polom	99	47	A	F
@@ -569,7 +569,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8106	510882	1	1	470	4	Radim	Jureček			49	podnikatel, zastupitel obce	Velká Polom	166	166	A	M
 8106	545911	1	1	387	4	Josef	Blahuta			67	technik	Moravská Ostrava	47	47	A	M
 8106	546046	1	1	540	4	Petr	Kudela	Ing.		53	zástupce ředitele TV NOE	Heřmanice	1	1	A	M
-8106	546135	1	1	1570	4	Milan	Sláma			42	trenér 1. FK Ostrava-Jih	Hrabůvka	99	785	A	M
+8106	546135	1	1	1570	4	Milan	Sláma			42	trenér 1.FK Ostrava-Jih	Hrabůvka	99	785	A	M
 8106	546224	1	1	166	4	Pavel	Borovička	Bc.		46	TH pracovník NDT, mistr světa v kickboxu	Poruba	166	166	A	M
 8106	554049	1	1	901	4	Lucie	Bulavová	Ing.		33	rodičovská dovolená	Olbramice	99	80	A	F
 8106	554219	1	1	1	4	Tomáš	Kaloč			42	OSVČ	Nová Bělá	99	1	A	M
@@ -1239,7 +1239,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8106	554669	1	4	901	7	Andrea	Podhorná	Bc.		49	asistentka	Hrabová	53	80	A	F
 8106	554685	1	4	53	7	Michal	Pravdík	Ing.	MBA	50	ředitel společnosti	Svinov	53	53	A	M
 8106	554715	1	4	129	7	Robert	Král			45	podnikatel	Třebovice	99	129	A	M
-8106	554723	1	4	387	7	Jan	Hromica			69	důchodce	Plesná	47	47	A	
+8106	554723	1	4	387	7	Jan	Hromica			69	důchodce	Plesná	47	47	A	M
 8106	554821	1	4	1245	7	Pavel	Pabjan			71	podnikatel v autodopravě	Zábřeh	1245	1245	A	M
 8106	569500	1	4	901	7	Michal	Sehnalík			45	stavební dělník	Horní Lhota	99	80	A	M
 8106	598798	1	4	371	7	Tomáš	Nogol			57	strojník těžního zařízení	Šenov	7	7	A	M
@@ -1305,7 +1305,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8106	554227	1	11	1555	7	Jaroslav	Minařík			43	zaměstnanec	Vítkovice	99	1191	A	M
 8106	554286	1	11	1245	7	Zdeňka	Kretková			46	pečovatelka	Mariánské Hory	99	1245	A	F
 8106	554821	1	11	1570	7	Karla	Ingrová			55	administrativní pracovník	Poruba	1227	1227	A	F
-8106	554227	1	12	1514	7	Emília	Dunková			57	důchodkyně	Vítkovice	99	80	A	F
 8106	554286	1	12	1521	7	Kamila	Florčíková			58	pěstounka	Mariánské Hory	99	80	A	F
 8106	554821	1	12	522	7	Eva	Beránková		DiS.	60	sociální pracovnice	Vítkovice	99	80	A	F
 8106	554286	1	13	47	7	Jana	Sedláčková			65	důchodce	Mariánské Hory	47	47	A	F
@@ -1693,7 +1692,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8106	554570	1	1	901	10	Marcel	Lesník			57	OSVČ	Martinov	99	80	A	M
 8106	554588	1	1	53	10	Lenka	Kristofory	Ing.		43	OSVČ	Polanka nad Odrou	99	53	A	F
 8106	554669	1	1	355	10	Marie	Bayerová			73	důchodce	Hrabová	1	1	A	F
-8106	554685	1	1	371	10	Jaroslav	Horáček			54	důchodce	Svinov	99	80	A	M
+8106	554685	1	1	371	10	Jaroslav	Horáček			64	důchodce	Svinov	99	80	A	M
 8106	554715	1	1	901	10	Luděk	Odstrčilík			51	profesionální hasič	Třebovice	99	80	A	M
 8106	554723	1	1	53	10	David	Färber	Mgr.		47	manažer	Plesná	99	53	A	M
 8106	554821	1	1	755	10	Leopold	Sulovský	Ing.		68	horolezec, senátor	Moravská Ostrava	755	755	A	M
@@ -1897,7 +1896,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8106	554821	1	2	752	11	Klára	Hinterreiter	Mgr.		46	lékárnice	Přívoz	99	752	A	F
 8106	569500	1	2	902	11	Martin	Adamec	RNDr.	Ph.D.	48	hydrolog	Horní Lhota	99	80	A	M
 8106	598739	1	2	901	11	Tereza	Novobilská			30	OSVČ	Stará Ves	99	80	A	F
-8106	598798	1	2	902	11	Barbara	Vrábelová			57	invalidní důchodkyně	Šenov	99	80	A	F
+8106	598798	1	2	902	11	Barbara	Vrábeĺová			57	invalidní důchodkyně	Šenov	99	80	A	F
 8106	598879	1	2	901	11	Martin	Winkler			43	OSVČ - provozovatel restaurace Koliba	Vratimov - Horní Datyně	99	80	A	M
 8106	599549	1	2	389	11	Jiří	Halfar			39	předák chemické výroby, předseda oddílu badmintonu TJ Sokol Klimkovice	Klimkovice	99	80	A	M
 8106	500291	1	3	1	11	Ladislava	Vantuchová			47	podnikatel a srdcem Vřešák	Vřesina	99	1	A	F
@@ -2118,7 +2117,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8106	546224	1	5	755	12	Zuzana	Olmová	Mgr.	DiS.	55	sociální pracovnice	Poruba	99	755	A	F
 8106	554227	1	5	522	12	Simona	Lhotská			43	administrativní pracovnice	Vítkovice	99	80	A	F
 8106	554243	1	5	902	12	Marek	Ždánský	Bc.		23	student	Pustkovec	99	80	A	M
-8106	554286	1	5	785	12	Dana	Blanátová			64	bývalá obchodní regionální ředitelka, motorkářka	Mariánské Hory	99	785	A	F
+8106	554286	1	5	785	12	Dana	Blanárová			64	bývalá obchodní regionální ředitelka, motorkářka	Mariánské Hory	99	785	A	F
 8106	554537	1	5	901	12	Jarmila	Rojková	Mgr.		73	učitelka ZŠ	Radvanice	99	80	A	F
 8106	554561	1	5	901	12	Pavlína	Tesarčíková	Bc.		44	referent finanční správy	Krásné Pole	99	80	A	F
 8106	554669	1	5	53	12	Šárka	Grunerová			54	strážná	Hrabová	53	53	A	F
@@ -2158,7 +2157,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8106	546046	1	9	387	12	Pavel	Vrátný			49	osoba samostatně výdělečně činná	Heřmanice	99	80	A	M
 8106	546135	1	9	387	12	Helena	Graňáková			65	důchodce	Výškovice	99	80	A	F
 8106	546224	1	9	387	12	František	Varaďa			75	důchodce	Poruba	47	47	A	M
-8106	554227	1	9	768	12	Boris	Šapov			55	důchodce	Vítkovice	99	768	A	M
 8106	554286	1	9	755	12	Renáta	Ševčíková Strejčková			50	invalidní důchodce	Mariánské Hory	99	755	A	F
 8106	554821	1	9	387	12	Táňa	Apostolovová	Ing.		35	ekonom	Moravská Ostrava	99	80	A	F
 8106	545911	1	10	1114	12	Tereza	Dittrichová			28	účetní junior	Moravská Ostrava	99	1114	A	F
@@ -2511,7 +2509,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8106	545911	1	1	387	15	Jarmila	Konvičková			45	invalidní důchodce	Moravská Ostrava	47	47	A	F
 8106	546046	1	1	540	15	Ludmila	Čechová	Ing.		64	důchodce	Koblov	1	1	A	F
 8106	546135	1	1	1570	15	Martin	Marzec			46	podnikatel	Klimkovice	99	785	A	M
-8106	546224	1	1	166	15	Jiří	Klásek			21	student jaderné fakulty	Poruba	166	166	A	
+8106	546224	1	1	166	15	Jiří	Klásek			21	student jaderné fakulty	Poruba	166	166	A	M
 8106	554219	1	1	1	15	Tomáš	Šereda			53	dřevomodelář	Nová Bělá	99	1	A	M
 8106	554227	1	1	1482	15	Ivana	Wittasková			66	důchodkyně	Vítkovice	99	80	A	F
 8106	554235	1	1	1327	15	David	Hořínek			20	student	Stará Bělá	1	1	A	M
@@ -2671,7 +2669,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8106	545911	1	1	387	16	Radim	Pětvalský			48	invalidní důchodce	Moravská Ostrava	47	47	A	M
 8106	546046	1	1	540	16	Zdeňka	Sasínová			61	obsluha čerpací st.	Hrušov	99	80	A	F
 8106	546135	1	1	1570	16	Eva	Pavelková			42	prodavačka	Zábřeh	99	80	A	F
-8106	546224	1	1	166	16	Zuzana	Bednaříková	Mgr.		26	sociálně-zdravotní pracovnice	Poruba	99	166	A	
+8106	546224	1	1	166	16	Zuzana	Bednaříková	Mgr.		26	sociálně-zdravotní pracovnice	Poruba	99	166	A	F
 8106	554537	1	1	387	16	Stanislav	Zientek			55	strojvedoucí	Radvanice	99	80	A	M
 8106	554685	1	1	371	16	Tomáš	Kucharik			34	vedoucí oddělení nářadí/železářství	Svinov	99	80	A	M
 8106	554821	1	1	755	16	David	Nespěšný	Ing.	MBA	47	ředitel vyšší odborné školy	Poruba	99	755	A	M
@@ -3298,7 +3296,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8106	545911	1	7	755	26	Martin	Rymel			50	telekomunikační technik	Moravská Ostrava	99	755	A	M
 8106	546046	1	7	470	26	Oldřiška	Kopeščanská			54	pracovník v sociálních službách	Muglinov	99	80	A	F
 8106	546135	1	7	401	26	Patrik	Černý			26	logistik	Zábřeh	99	88	A	M
-8106	546224	1	7	1245	26	Juraj	Tőrők			59	důchodce	Poruba	99	1245	A	
+8106	546224	1	7	1245	26	Juraj	Tőrők			59	důchodce	Poruba	99	1245	A	M
 8106	554821	1	7	470	26	Dušan	Tobiáš	Ing.		53	ředitel banky, ekonom	Výškovice	166	166	A	M
 8106	545911	1	8	470	26	Pavlína	Šestáková			53	mzdová účetní	Moravská Ostrava	99	166	A	F
 8106	546046	1	8	1245	26	Zdeněk	Charvát			54	technik	Slezská Ostrava	99	1245	A	M
@@ -3458,7 +3456,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8106	546046	1	7	470	29	Šárka	Miencilová	Bc.		49	pedagog	Muglinov	99	80	A	F
 8106	546135	1	7	401	29	Vojtěch	Lukáš			23	student vysoké školy, audio engineer	Dubina	99	88	A	M
 8106	546224	1	7	1245	29	Kamil	Hrubý			52	řidič MHD	Poruba	99	1245	A	M
-8106	554821	1	7	470	29	Lukáš	Herčík	Ing.		36	administrativní pracovník	Poruba	166	166	A	
+8106	554821	1	7	470	29	Lukáš	Herčík	Ing.		36	administrativní pracovník	Poruba	166	166	A	M
 8106	545911	1	8	470	29	Anna	Krejčí			79	důchodce	Moravská Ostrava	99	166	A	F
 8106	546046	1	8	1245	29	František	Mihok			65	důchodce	Muglinov	99	1245	A	M
 8106	546135	1	8	755	29	Danuše	Boucná			58	dispečerka	Hrabůvka	99	755	A	F
@@ -3495,7 +3493,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8106	545911	1	4	768	30	Alice	Návratová			36	asistentka	Moravská Ostrava	99	768	A	F
 8106	546046	1	4	720	30	Filip	Nguyen			25	obchodní zástupce	Slezská Ostrava	99	720	A	M
 8106	546135	1	4	1114	30	Josef	Plíštil			55	dělník ve výrobě	Zábřeh	99	1114	A	M
-8106	546224	1	4	720	30	Petr	Svoboda	Ing. arch. et Ing.		33	architekt	Poruba	99	720	A	
+8106	546224	1	4	720	30	Petr	Svoboda	Ing. arch. et Ing.		33	architekt	Poruba	99	720	A	M
 8106	554821	1	4	1245	30	Petr	Prosický			66	invalidní důchodce	Zábřeh	99	1245	A	M
 8106	545911	1	5	1245	30	Ivana	Čanová			53	prodavačka	Moravská Ostrava	99	1245	A	F
 8106	546046	1	5	1555	30	Dalibor	Fröhlich			56	trenér	Slezská Ostrava	99	1191	A	M
@@ -3893,7 +3891,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8106	554821	1	11	1570	38	Alena	Vítková			68	důchodce	Hrabová	99	1227	A	F
 8106	554821	1	12	522	38	Jiří	Beránek			56	řidič	Vítkovice	99	80	A	M
 8106	554821	1	13	1327	38	Jan	Králík			19	student	Moravská Ostrava	721	721	A	M
-8106	554821	1	14	1196	38	Hana	Dolasová			33	referent správy nemovitosti - senior	Michálkovice	1196	1196	A	
+8106	554821	1	14	1196	38	Hana	Dolasová			33	referent správy nemovitosti - senior	Michálkovice	1196	1196	A	F
 8106	546135	1	1	1570	39	Drahomíra	Hynarová			80	důchodkyně	Zábřeh	99	1227	A	F
 8106	546224	1	1	166	39	Václav	Nagy			42	kuchař	Poruba	99	166	A	M
 8106	554821	1	1	755	39	Michal	Lach	Ing.		58	OSVČ	Svinov	99	755	A	M

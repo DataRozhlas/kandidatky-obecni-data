@@ -42,7 +42,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	534081	1	1	901	1	Michal	Bělík			44	programátor	Chabeřice	99	80	A	M
 2105	534099	1	1	387	1	Karel	Kršňák			56	řidič	Žandov	99	80	A	M
 2105	534102	1	1	805	1	Iveta	Smejkalová			41	specialista prodeje - DEK	Chotusice	99	80	A	F
-2105	534129	1	1	470	1	Soňa	Křenová	Mgr.		55	starostka	Kácov	99	166	A	
+2105	534129	1	1	470	1	Soňa	Křenová	Mgr.		55	starostka	Kácov	99	166	A	F
 2105	534137	1	1	901	1	Jiřina	Šrámková	Ing.		31	místostarostka obce Kluky, projektant, dotační činnost pro obec	Kluky	99	80	A	F
 2105	534153	1	1	901	1	Bohumila	Jeřichová	Bc.		42	účetní,fakturace	Chedrbí	99	80	A	F
 2105	534161	1	1	901	1	Roman	Vlasák			36	starosta	Chrást	99	80	A	M
@@ -159,7 +159,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	531359	1	3	804	1	Petra	Mužíková	Bc.	DiS.	42	sociální pracovnice	Horky	99	80	A	F
 2105	531383	1	3	806	1	Marek	Vániš			34	poříčný	Schořov	99	80	A	M
 2105	531391	1	3	802	1	Jaroslav	Láska			47	zámečník	Sudějov	99	80	A	M
-2105	531413	1	3	803	1	Daniela	Rajdl Knőnagelová			38	prodejce a vazačka kytek	Hraběšín	99	80	A	F
+2105	531413	1	3	803	1	Daniela	Rajdl Knönagelová			38	prodejce a vazačka kytek	Hraběšín	99	80	A	F
 2105	531421	1	3	805	1	Miroslav	Mládek			56	SOU Čáslav správce budov	Šebestěnice	99	80	A	M
 2105	533955	1	3	1	1	Patricie	Koubská	Mgr.		49	pedagog/výtvarnice	Sedlec	1	1	A	F
 2105	533980	1	3	902	1	Milan	Dlouhý			46	starosta obce	Prostřední Ves	99	80	A	M
@@ -183,7 +183,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	534587	1	3	1114	1	Petr	Novotný			55	živnostník,stavební a zemní práce,člen Rady obce Vrdy	Horní Bučice	1114	1114	A	M
 2105	534617	1	3	901	1	Jaroslav	Kroutil			72	důchodce	Rápošov	99	80	A	M
 2105	534625	1	3	803	1	Martin	Vančura			31	agronom	Damírov	99	80	A	M
-2105	534633	1	3	1305	1	Josef	Zahradník	Bc.		37	operátor výroby	Zruč nad Sázavou	1114	1114	A	M
 2105	534668	1	3	166	1	Vlastimil	Kožený	Ing.	MBA	46	finanční ředitel	Žleby	99	166	A	M
 2105	551465	1	3	802	1	Miroslava	Klečáková			53	operátor výroby	Košice	99	80	A	F
 2105	526622	1	4	809	1	Jiří	Vaníček	Ing.		58	ekonom	Rohozec	99	80	A	M
@@ -202,7 +201,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	531413	1	4	805	1	Hana	Strnadelová		DiS.	40	účetní	Hraběšín	99	80	A	F
 2105	531421	1	4	802	1	Alena	Havlová			60	učitelka OV	Šebestěnice	99	80	A	F
 2105	533955	1	4	477	1	Jiří	Beránek	Ing.		36	bankéř	Hlouška	99	714	A	M
-2105	534005	1	4	482	1	Tomáš	Ouředník	Mgr.		43	novinář,OSVČ,zakladatel Máme rádi Čáslav - podpora kultury,spolkové činnosti a cestovního ruchu	Čáslav-Nové Město	99	80	A	M
+2105	534005	1	4	482	1	Tomáš	Ouředník	Mgr.		43	novinář, OSVČ, zakladatel Máme rádi Čáslav - podpora kultury, spolkové činnosti a cestovního ruchu	Čáslav-Nové Město	99	80	A	M
 2105	534099	1	4	903	1	Zdeněk	Janovský	RNDr.	Ph.D.	36	VŠ pedagog, botanik, statistik	Svatý Jan t. Krsovice	99	80	A	M
 2105	534102	1	4	803	1	Petr	Novák			41	soukromý podnikatel	Chotusice	99	80	A	M
 2105	534196	1	4	480	1	Martina	Suková	Ing.		56	starostka obce, ekonom	Svatý Mikuláš	99	721	A	F
@@ -446,7 +445,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	534668	1	3	166	2	Svatopluk	Zajíček	Ing.		66	důchodce	Žleby	99	166	A	M
 2105	528196	1	4	901	2	Tomáš	Bohata			35	manažer výkupu vozidel v autocentru	Zalíbená	99	80	A	M
 2105	533955	1	4	477	2	Tomáš	Pilc	Ing.		48	ředitel teplárny, zastupitel Kutné Hory	Šipší	714	714	A	M
-2105	534005	1	4	482	2	David	Smejkal	Mgr.		43	učitel - specializace němčina,francouzština,italština,OSVČ,vedoucí rodinné cestovní agentury	Čáslav-Nové Město	99	80	A	M
+2105	534005	1	4	482	2	David	Smejkal	Mgr.		43	učitel - specializace němčina, francouzština, italština, OSVČ, vedoucí rodinné cestovní agentury	Čáslav-Nové Město	99	80	A	M
 2105	534099	1	4	903	2	Ondřej	Kruliš	Ing.		37	vedoucí vodoprávního úřadu v Kutné Hoře	Kralice	99	80	A	M
 2105	534196	1	4	480	2	Radka	Šumberová	PhDr.	PhD.	56	archeolog	Svatý Mikuláš	99	80	A	F
 2105	534374	1	4	901	2	Jaroslava	Kratochvílová			61	výpravčí	Přívlaky	99	80	A	F
@@ -554,7 +553,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	533971	1	2	902	3	Magdalena	Pavlíková	Bc.		39	asistentka	Zaříčany	99	80	A	F
 2105	533980	1	2	903	3	Anna	Holubová	Bc.		57	specialistka zahraničního obchodu	Bohdaneč	99	80	A	F
 2105	533998	1	2	7	3	Ludmila	Hrušková	Mgr.		43	ředitelka ZŠ Církvice	Jakub	99	7	A	F
-2105	534005	1	2	355	3	Jana	Přibylová	Mgr. et. Bc.		44	psycholožka	Čáslav-Nové Město	99	80	A	F
+2105	534005	1	2	355	3	Jana	Přibylová	Mgr. et Bc.		44	psycholožka	Čáslav-Nové Město	99	80	A	F
 2105	534013	1	2	901	3	Ladislav	Mašín			54	zaměstnanec obce	Krasoňovice	99	80	A	M
 2105	534021	1	2	902	3	Josef	Víta			52	rybář	Červené Janovice	99	80	A	M
 2105	534030	1	2	902	3	Markéta	Havrdová	Bc.		51	obchodnice	Kněž	99	80	A	F
@@ -600,8 +599,8 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	534633	1	3	1305	3	Valerie	Řezníčková			27	prodavačka	Zruč nad Sázavou	99	1114	A	F
 2105	534668	1	3	166	3	Josef	Novotný			70	důchodce	Žleby	99	166	A	M
 2105	528196	1	4	901	3	Vladimír	Javůrek			63	podnikatel	Útěchvosty	99	80	A	M
-2105	533955	1	4	477	3	Petr	Geřábek	MUDr.		47	lékař - ortoped, traumatolog, vedoucí pozice ve zdravotnictví (ředitel nemocnice, náměstek, primář), voják z povolání	Kutná Hora - Vnitřní Město	99	714	A	
-2105	534005	1	4	482	3	Alena	Smejkalová			79	vedoucí účetní,předsedkyně SVJ bytových domů Prokopa Holého,starostka-Sokolská župa Havlíčkova,zakladatelka rodinné cestovní agentury	Čáslav-Nové Město	99	80	A	F
+2105	533955	1	4	477	3	Petr	Geřábek	MUDr.		47	lékař - ortoped, traumatolog, vedoucí pozice ve zdravotnictví (ředitel nemocnice, náměstek, primář), voják z povolání	Kutná Hora - Vnitřní Město	99	714	A	M
+2105	534005	1	4	482	3	Alena	Smejkalová			79	vedoucí účetní, předsedkyně SVJ bytových domů Prokopa Holého, starostka-Sokolská župa Havlíčkova, zakladatelka rodinné cestovní agentury	Čáslav-Nové Město	99	80	A	F
 2105	534099	1	4	903	3	Bohuslav	Ryšánek			63	důchodce, hudebník	Chlístovice	99	80	A	M
 2105	534196	1	4	480	3	Lenka	Krajíčková			44	účetní	Svatá Kateřina	99	80	A	F
 2105	534374	1	4	901	3	Robert	Porkert	Mgr.		57	OSVČ	Mrchojedy	99	80	A	M
@@ -750,7 +749,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	534633	1	3	1305	4	Ladislav	Dolejš			19	vysokoškolský student	Zruč nad Sázavou	99	80	A	M
 2105	534668	1	3	166	4	Daniel	Rek	Bc.	DiS.	48	učitel	Žleby	99	166	A	M
 2105	528196	1	4	901	4	Marcel	Mejstřík			34	podnikatel	Podveky	99	80	A	M
-2105	533955	1	4	477	4	Soňa	Žáčková			48	vinař, radní Kutné Hory	Hlouška	99	714	A	
+2105	533955	1	4	477	4	Soňa	Žáčková			48	vinař, radní Kutné Hory	Hlouška	99	714	A	F
 2105	534005	1	4	482	4	Jarmila	Frajerová	JUDr.		65	právnička	Čáslav-Nové Město	99	715	A	F
 2105	534099	1	4	903	4	Jaroslav	Vokolek	Ing.		71	projektant	Chroustkov	99	80	A	M
 2105	534196	1	4	480	4	Martina	Podhradská			54	mzdová účetní	Sulovice	99	80	A	F
@@ -776,7 +775,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	533955	1	8	497	4	Ivo	Šalátek			65	podnikatel	Kutná Hora - Vnitřní Město	99	80	A	M
 2105	534005	1	8	371	4	Ervin	Petrikovič	MUDr.		59	lékař	Čáslav-Nové Město	99	80	A	M
 2105	533955	1	9	1211	4	Bedřich	Prokop	JUDr.		66	v důchodu, bývalý advokát	Žižkov	99	1211	A	M
-2105	534005	1	9	1619	4	Věra	Polnická		Dipl.um.,	47	učitelka	Čáslav-Nové Město	99	80	A	
+2105	534005	1	9	1619	4	Věra	Polnická		Dipl.um.	47	učitelka	Čáslav-Nové Město	99	80	A	F
 2105	533955	1	10	470	4	Jakub	Obraz	Mgr.		45	učitel	Kutná Hora - Vniřní Město	99	166	A	M
 2105	533955	1	11	687	4	Josef	Treml	Ing.		47	učitel, ředitel školy	Žižkov	53	53	A	M
 2105	528196	1	1	903	5	Veronika	Šourková	Ing.		34	mateřská dovolená	Podveky	99	80	A	F
@@ -793,7 +792,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	531367	1	1	901	5	Pavel	Hnátek	Ing.		51	strojvedoucí,instruktor	Adamov	99	80	A	M
 2105	531405	1	1	901	5	Martina	Štěpánková			46	finanční účetní	Kobylnice	99	80	A	F
 2105	531481	1	1	901	5	Vladislava	Kárníková			71	důchodkyně	Horušice	99	80	A	F
-2105	533955	1	1	371	5	Alexandr	Špalek			42	IT specialista	Šipší	99	80	A	M
+2105	533955	1	1	371	5	Alexandr	Špalek		DiS.	42	IT specialista	Šipší	99	80	A	M
 2105	533971	1	1	901	5	Iveta	Milíková			36	mateřská dovolená	Bílé Podolí	99	80	A	F
 2105	533998	1	1	1411	5	Karolína	Solovov			29	odborná referentka	Církvice	99	80	A	F
 2105	534005	1	1	768	5	Jan	Šulc			37	zaměstnanec Městského úřadu	Čáslav-Nové Město	768	768	A	M
@@ -899,7 +898,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	534668	1	3	166	5	Lukáš	Podaný		DiS.	25	student	Žleby	99	166	A	M
 2105	528196	1	4	901	5	Daniel	Amler			19	student	Podveky	99	80	A	M
 2105	533955	1	4	477	5	Ludmila	Miřijovská			26	podnikatelka	Žižkov	99	714	A	F
-2105	534005	1	4	482	5	Vladimír	Gladkov	RNDr.		61	ekolog,předseda oddílu karate Sokol Čáslav	Čáslav-Nové Město	99	80	A	M
+2105	534005	1	4	482	5	Vladimír	Gladkov	RNDr.		61	ekolog, předseda oddílu karate Sokol Čáslav	Čáslav-Nové Město	99	80	A	M
 2105	534099	1	4	903	5	Lenka	Michalová	Mgr.		33	sociální pracovnice na MěÚ Kutná Hora	Svatý Jan t. Krsovice	99	80	A	F
 2105	534196	1	4	480	5	Michaela	Zelená	Ing.		32	OSVČ	Svatý Mikuláš	99	80	A	F
 2105	534374	1	4	901	5	Blanka	Coubalová			55	OSVČ	Přívlaky	99	80	A	F
@@ -1044,7 +1043,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	534005	1	4	482	6	Věra	Strnadová			68	vedoucí účetní	Čáslav-Nové Město	99	80	A	F
 2105	534099	1	4	903	6	Dagmar	Mašinová			50	vyšší soudní úřednice, soudní přísedící	Všesoky	99	80	A	F
 2105	534196	1	4	480	6	Miloslav	Čepek	Ing.		34	OSVČ	Svatá Kateřina	721	721	A	M
-2105	534374	1	4	901	6	Miroslav	Schiffler			65	důchodce, OSVČ	Samopše	99	80	A	
+2105	534374	1	4	901	6	Miroslav	Schiffler			65	důchodce, OSVČ	Samopše	99	80	A	M
 2105	534439	1	4	901	6	Vít	Kadeřábek			46	OSVČ	Suchdol	99	80	A	M
 2105	534498	1	4	389	6	Veronika	Zahradníková	Ing.	DiS.	40	marketing manager	Uhlířské Janovice	99	80	A	F
 2105	534528	1	4	901	6	Lenka	Šanková			39	cukrářka	Vavřinec	99	80	A	F
@@ -1065,7 +1064,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	533955	1	8	497	6	Šárka	Zmeková		PFP	34	finanční manažerka	Šipší	99	80	A	F
 2105	534005	1	8	371	6	Zdeňka	Nezbedová	Ing.		49	redaktorka	Čáslav-Staré Město	99	80	A	F
 2105	533955	1	9	1211	6	Jindřich	Bartoň	Mgr.		52	učitel Gymnázia Jiřího Ortena	Šipší	99	1211	A	M
-2105	534005	1	9	1619	6	Veronika	Smutná			38	pracovnice v sociálních službách	Čáslav-Nové Město	99	80	A	F
+2105	534005	1	9	1619	6	Veronika	Smutná		DiS.	38	pracovnice v sociálních službách	Čáslav-Nové Město	99	80	A	F
 2105	533955	1	10	470	6	Jana	Kuželová			50	kavárnice	Kaňk	99	166	A	F
 2105	533955	1	11	687	6	Jan	Štěpnička	Ing.		47	majitel firmy	Žižkov	99	53	A	M
 2105	528196	1	1	903	7	Josef	Protiva			19	student	Ježovice	99	80	A	M
@@ -1288,7 +1287,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	534668	1	3	166	8	Petra	Vondráčková			55	uklízečka	Zehuby	99	166	A	F
 2105	528196	1	4	901	8	Zdeněk	Novotný			38	policista	Podveky	99	80	A	M
 2105	533955	1	4	477	8	Miroslav	Jahoda			29	majitel kominické firmy	Karlov	99	714	A	M
-2105	534005	1	4	482	8	Jaroslav	Piták	Ing.		85	elektrospecialista,konstrukce letadel	Čáslav-Nové Město	99	80	A	M
+2105	534005	1	4	482	8	Jaroslav	Piták	Ing.		85	elektrospecialista, konstrukce letadel	Čáslav-Nové Město	99	80	A	M
 2105	534099	1	4	903	8	Michal	Ščerbanič			37	OSVČ	Kralice	99	80	A	M
 2105	534196	1	4	480	8	Miloslava	Tvarohová			52	OSVČ, účetní	Svatý Mikuláš	99	80	A	F
 2105	534439	1	4	901	8	Daniel	Braun			38	vedoucí pracovník ve výrobě	Suchdol	99	80	A	M
@@ -1326,7 +1325,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	534030	1	1	901	9	Zuzana	Červenková			43	operátor ve výrobě	Milotice	99	80	A	F
 2105	534056	1	1	901	9	Pavel	Březina			25	hypoteční specialista - bankéř	Čejtice	99	80	A	M
 2105	534099	1	1	387	9	Zdeněk	Hanousek			61	dělník	Žandov	99	80	A	M
-2105	534129	1	1	470	9	Aleš	Matějka			45	státní zaměstnanec	Kácov	99	166	A	
+2105	534129	1	1	470	9	Aleš	Matějka			45	státní zaměstnanec	Kácov	99	166	A	M
 2105	534137	1	1	901	9	Lukáš	Kudláč	Ing.		32	inženýr zákaznické kvality	Olšany	99	80	A	M
 2105	534161	1	1	901	9	Jiří	Faltýn	Ing.		36	manager logistiky	Křesetice	99	80	A	M
 2105	534188	1	1	166	9	Jan	Jäger	Ing.		71	důchodce	Malešov	99	166	A	M
@@ -1397,7 +1396,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	534005	1	4	482	9	Jana	Vobořilová			40	specialistka prodeje, podporovatelka ekologické organizace Greenpeace	Čáslav-Nové Město	99	80	A	F
 2105	534099	1	4	903	9	Martina	Záleská			44	truhlářka	Chlístovice	99	80	A	F
 2105	534196	1	4	480	9	Věra	Beranová			48	spolupodnikající	Svatá Kateřina	99	80	A	F
-2105	534439	1	4	901	9	Lukáš	Flaks			38	OSVČ	Suchdol	99	80	A	
+2105	534439	1	4	901	9	Lukáš	Flaks			38	OSVČ	Suchdol	99	80	A	M
 2105	534498	1	4	389	9	Miloš	Sion			42	IT analytik	Uhlířské Janovice	99	80	A	M
 2105	534528	1	4	901	9	Petr	Konvalinka			34	řidič	Vavřinec	99	80	A	M
 2105	534579	1	4	1	9	Miroslav	Jonáš			39	zaměstnanec obce	Vlkaneč	99	1	A	M
@@ -1429,7 +1428,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	534498	1	1	902	10	Marie	Šedivá	Mgr.		56	učitelka základní školy	Uhlířské Janovice	99	80	A	F
 2105	534587	1	1	470	10	Jiří	Lebduška			58	vedoucí komunikací	Horní Bučice	99	80	A	M
 2105	534617	1	1	53	10	Zdeňka	Šandová			48	vedoucí knihovny Zbraslavice	Zbraslavice	99	53	A	F
-2105	534633	1	1	901	10	Naděžda	Hamplová	Ing.		46	podniková ekoložka	Zruč nad Sázavou	99	80	A	
+2105	534633	1	1	901	10	Naděžda	Hamplová	Ing.		46	podniková ekoložka	Zruč nad Sázavou	99	80	A	F
 2105	534668	1	1	901	10	Jaromír	Dvořák			38	OSVČ	Žleby	99	80	A	M
 2105	533955	1	2	1491	10	Mirka	Piková			55	telefonní operátorka	Kaňk	99	1114	A	F
 2105	534005	1	2	355	10	Markéta	Lněničková			21	učitelka	Čáslav-Nové Město	99	80	A	F
@@ -1449,7 +1448,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	534617	1	3	901	10	Tomáš	Vadinský			36	truhlář	Ostrov	99	80	A	M
 2105	534633	1	3	1305	10	Božena	Nekulová			27	cukrářka, cvičitelka psů, kynoložka	Zruč nad Sázavou	99	80	A	F
 2105	533955	1	4	477	10	Jana	Jelínková			59	účetní	Šipší	99	714	A	F
-2105	534005	1	4	482	10	Marek	Černý			49	občanský zaměstnanec letiště Čáslav,certifikovaný pilot dronu	Čáslav-Nové Město	99	80	A	M
+2105	534005	1	4	482	10	Marek	Černý			49	občanský zaměstnanec letiště Čáslav, certifikovaný pilot dronu	Čáslav-Nové Město	99	80	A	M
 2105	534099	1	4	903	10	Miroslav	Šulc			35	OSVČ	Kralice	99	80	A	M
 2105	534439	1	4	901	10	Ladislav	Háněl			49	řidič	Suchdol	99	80	A	M
 2105	534498	1	4	389	10	Petr	Burda			36	projektový manažer	Uhlířské Janovice	99	80	A	M
@@ -1544,7 +1543,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	534498	1	3	47	12	Emilie	Hýnová			74	důchodce	Uhlířské Janovice	99	47	A	F
 2105	534587	1	3	1114	12	Josef	Vraný			52	traktorista	Dolní Bučice	99	1114	A	M
 2105	533955	1	4	477	12	Monika	Volná			36	operátor ve výrobě	Šipší	99	714	A	F
-2105	534005	1	4	482	12	Stanislav	Panýrek			68	inspekční zámečník	Čáslav-Filipov	99	80	A	M
+2105	534005	1	4	482	12	Stanislav	Panýrek			68	inspekční zámečník	Filipov	99	80	A	M
 2105	534099	1	4	903	12	Adéla	Richterová	Mgr.		33	učitelka	Žandov	99	80	A	F
 2105	534439	1	4	901	12	Aleš	Pařez			54	THP - vedoucí výroby	Suchdol	99	80	A	M
 2105	534498	1	4	389	12	Karla	Nešporová	MUDr.		67	lékařka	Uhlířské Janovice	99	80	A	F
@@ -1628,7 +1627,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	534498	1	3	47	14	Josef	Zouplna			71	důchodce	Uhlířské Janovice	99	47	A	M
 2105	534587	1	3	1114	14	Petra	Reimannová	Mgr.		31	zástupkyně ředitele základní školy	Zbyslav	99	1114	A	F
 2105	533955	1	4	477	14	Michaela	Turková			31	teamleader, v současnosti mateřská dovolená	Šipší	99	714	A	F
-2105	534005	1	4	482	14	Stanislav	Novotný			80	stavební rozpočtář,dlouholetý člen výboru Sokol Čáslav	Čáslav-Nové Město	99	80	A	M
+2105	534005	1	4	482	14	Stanislav	Novotný			80	stavební rozpočtář, dlouholetý člen výboru Sokol Čáslav	Čáslav-Nové Město	99	80	A	M
 2105	534099	1	4	903	14	Václav	Vlk			56	živnostník	Chlístovice	99	80	A	M
 2105	534439	1	4	901	14	Božena	Saláková	PaedDr.		57	učitelka	Suchdol	99	80	A	F
 2105	534498	1	4	389	14	Petr	Černík			38	zootechnik	Uhlířské Janovice	99	80	A	M
@@ -1777,7 +1776,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2105	533955	1	3	1	20	Jan	Hlavinka			33	pracovník v cestovním ruchu	Žižkov	1	1	A	M
 2105	534005	1	3	720	20	Richard	Veselý			42	export-import řidič	Čáslav-Nové Město	99	720	A	M
 2105	533955	1	4	477	20	Lenka	Chybová			48	galeristka	Šipší	99	714	A	F
-2105	534005	1	4	482	20	Libuše	Panýrková			68	zahradnice	Čáslav-Filipov	99	80	A	F
+2105	534005	1	4	482	20	Libuše	Panýrková			68	zahradnice	Filipov	99	80	A	F
 2105	533955	1	5	541	20	Michael	Němec			29	vedoucí směny	Sedlec	99	720	A	M
 2105	534005	1	5	53	20	Eduard	Wagner			62	zootechnik	Čáslav-Nové Město	99	53	A	M
 2105	533955	1	6	768	20	Jiří	Klečák	Mgr.		78	důchodce	Žižkov	99	768	A	M

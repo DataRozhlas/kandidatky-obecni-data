@@ -151,7 +151,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	589934	1	2	902	1	Iveta	Pořízková	Ing.		48	starostka, ekonom	Přemyslovice	99	80	A	F
 7103	589942	1	2	901	1	Pavel	Šnajdr			47	podnikatel	Ptení	99	80	A	M
 7103	589951	1	2	902	1	Václav	Konečný			44	IT analytik	Raková u Konice	99	80	A	M
-7103	589969	1	2	802	1	Iva	Vostrejžová			38	zahradní architektka	Rakůvka	99	80	A	F
+7103	589969	1	2	802	1	Iva	Vostrejžová	Ing.		38	zahradní architektka	Rakůvka	99	80	A	F
 7103	589977	1	2	901	1	Roman	Kratochvíl			43	OSVČ	Rozstání	99	80	A	M
 7103	589993	1	2	801	1	Miroslav	Adámek			46	telekomunikace	Skalka	99	80	A	M
 7103	590002	1	2	901	1	Otto	Schölzl			53	obráběč kovů	Skřípov	99	80	A	M
@@ -222,7 +222,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	589527	1	4	901	1	Jiří	Obruča			48	OSVČ	Kobeřice	99	80	A	M
 7103	589543	1	4	902	1	Lucie	Zbořílková	Mgr.		35	radiologický asistent	Hrubčice	99	80	A	F
 7103	589624	1	4	371	1	Jaroslav	Kuba			51	bezpečnostní manažer	Konice	7	7	A	M
-7103	589632	1	4	1114	1	Roman	Kocourek			53	jednatel firmy	Kostelec na Hané	99	1114	A	
+7103	589632	1	4	1114	1	Roman	Kocourek			53	jednatel firmy	Kostelec na Hané	99	1114	A	M
 7103	589659	1	4	905	1	Jiří	Macháček			54	OSVČ	Kralice na Hané	99	80	A	M
 7103	589683	1	4	806	1	Drahomíra	Kubesová			63	důchodkyně	Lešany	99	80	A	F
 7103	589721	1	4	902	1	Dušan	Jurtík			55	stavbyvedoucí	Mořice	99	80	A	M
@@ -247,7 +247,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	589624	1	5	901	1	Vlastimil	Šmída			59	starosta SDH	Konice	99	80	A	M
 7103	589632	1	5	371	1	Ladislav	Hynek			54	1. místostarosta města	Kostelec na Hané	7	7	A	M
 7103	589659	1	5	903	1	Veronika	Petrželová Bašná	Mgr.		32	starostka	Kralice na Hané	99	80	A	F
-7103	589683	1	5	808	1	Eva	Kukalová			57	mzdová účetní	Lešany	99	80	A	F
+7103	589683	1	5	808	1	Eva	Koukalová			57	mzdová účetní	Lešany	99	80	A	F
 7103	589756	1	5	901	1	Martina	Kouřilová			44	ředitelka MAS Hanácký venkov, z.s.	Němčice nad Hanou	99	80	A	F
 7103	589811	1	5	1	1	Martin	Bílý	Ing.		51	starosta obce, zootechnik	Ochoz	1	1	A	M
 7103	589845	1	5	1114	1	Jiří	Hájek			47	strojní technik	Otaslavice	1114	1114	A	M
@@ -442,7 +442,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	590193	1	2	904	2	Alena	Kolářová	Ing.		34	finanční účetní junior	Vrchoslavice	99	80	A	F
 7103	590207	1	2	387	2	Josef	Palla			68	důchodce	Vřesovice	47	47	A	M
 7103	589250	1	3	1114	2	Martin	Křupka			47	ředitel společnosti	Prostějov	1114	1114	A	M
-7103	589268	1	3	903	2	Zděněk	Bezrouk	MVDr.		41	veterinární lékař	Bedihošť	99	80	A	M
+7103	589268	1	3	903	2	Zdeněk	Bezrouk	MVDr.		41	veterinární lékař	Bedihošť	99	80	A	M
 7103	589322	1	3	903	2	Jiřina	Krejčí	Ing. Mgr.		63	ředitelka „Domov na Zámku“	Brodek u Prostějova	99	80	A	F
 7103	589349	1	3	901	2	Jitka	Vrbová	Bc.		55	ekonomka, vedoucí finančního odboru	Budětsko	99	80	A	F
 7103	589365	1	3	903	2	Jaroslav	Špaček	Ing.		57	ředitel centra leteckého výcviku	Čehovice	99	80	A	M
@@ -566,7 +566,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	589594	1	1	901	3	Jitka	Serynová			47	dělnice	Kladky	99	80	A	F
 7103	589608	1	1	1	3	Tomáš	Mráček			36	zedník - OSVČ	Klenovice na Hané	99	1	A	M
 7103	589616	1	1	47	3	Martin	Nemeček			44	řidič	Klopotovice	47	47	A	M
-7103	589624	1	1	53	3	Ivan	Lakomý			62	OSVČ	Konice	99	53	A	M
+7103	589624	1	1	53	3	Ivan	Lakomý			62	OSVČ	Konice	53	53	A	M
 7103	589632	1	1	355	3	Hana	Hublarová	Mgr.		52	učitelka v mateřské školce	Kostelec na Hané	99	1	A	F
 7103	589641	1	1	901	3	Josef	Navrátil			57	strojník ČOV	Koválovice	99	80	A	M
 7103	589659	1	1	901	3	Ivan	Hrbáček			61	kontrolor	Kralice na Hané	99	80	A	M
@@ -577,7 +577,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	589713	1	1	163	3	Marcela	Matoušková			41	obchodní zástupce	Malé Hradisko	99	163	A	F
 7103	589721	1	1	901	3	Karel	Klesnil			56	řidič	Mořice	99	80	A	M
 7103	589730	1	1	902	3	Jaroslav	Karafiát			45	prodavač	Mostkovice	99	80	A	M
-7103	589748	1	1	902	3	Andrea	Pokovbová			33	fakturantka	Myslejovice	99	80	A	F
+7103	589748	1	1	902	3	Aneta	Pokovbová			33	fakturantka	Myslejovice	99	80	A	F
 7103	589756	1	1	387	3	Milan	Tesařík			71	důchodce	Němčice nad Hanou	47	47	A	M
 7103	589764	1	1	903	3	Petr	Moravec			47	vedoucí výroby	Nezamyslice	99	80	A	M
 7103	589772	1	1	901	3	Hana	Šmerdová			41	mistr	Niva	99	80	A	F
@@ -591,7 +591,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	589888	1	1	901	3	Dagmar	Zbožínková			60	ředitelka Mateřské školy Pivín	Pivín	99	80	A	F
 7103	589896	1	1	902	3	Tomáš	Piňos		DiS.	45	zdravotní sestra na ARO	Plumlov	99	80	A	M
 7103	589918	1	1	902	3	Julie	Kobzová			27	OSVČ	Prostějovičky	99	80	A	F
-7103	589926	1	1	901	3	Miloslav	Kitner	RNDr.	Ph.D.	46	odborný asistent	Protivanov	99	80	A	M
+7103	589926	1	1	901	3	Miloslav	Kitner	RNDr.	PhD.	46	odborný asistent	Protivanov	99	80	A	M
 7103	589934	1	1	901	3	Karel	Kolář			51	OSVČ	Přemyslovice	99	80	A	M
 7103	589942	1	1	902	3	Markéta	Sekaninová	Mgr.		33	učitelka	Ptení	99	80	A	F
 7103	589977	1	1	902	3	Martin	Maňoušek			40	specialista v dopravě	Rozstání	99	80	A	M
@@ -621,7 +621,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	506761	1	2	901	3	Tomáš	Svoboda			52	OSVČ	Alojzov	99	80	A	M
 7103	506770	1	2	902	3	Tomáš	Trnečka			21	student	Seloutky	99	80	A	M
 7103	549967	1	2	1	3	Libor	Němčák			43	mistr ve str. výrobě	Hačky	99	1	A	M
-7103	589250	1	2	1612	3	Jana	Jílková	Mgr.	DiS.	41	vychovatelka na ZŠ, aktivistka, předsedkyně spolu AJDONY	Čechovice	5	5	A	F
+7103	589250	1	2	1612	3	Jana	Jílková	Mgr.	DiS.	41	vychovatelka na ZŠ, aktivistka, předsedkyně spolku AJDONY	Čechovice	5	5	A	F
 7103	589268	1	2	901	3	Zdeněk	Hrubý			35	skladník	Bedihošť	99	80	A	M
 7103	589284	1	2	902	3	František	Buchta			41	manažer místního prodeje	Biskupice	99	80	A	M
 7103	589292	1	2	901	3	Roman	Havlíček			47	mistr výroby	Bohuslavice	99	80	A	M
@@ -680,7 +680,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	590100	1	2	901	3	Petr	Horák			32	zemědělec AGD Tištín	Tištín	99	80	A	M
 7103	590134	1	2	901	3	Jana	Musilová			40	účetní	Víceměřice	99	80	A	F
 7103	590142	1	2	903	3	Aleš	Zatloukal			31	soukromý podnikatel	Vícov	99	80	A	M
-7103	590177	1	2	902	3	Lenka	Hrudová			53	administrativní pracovnice	Vranovice	99	80	A	
+7103	590177	1	2	902	3	Lenka	Hrudová			53	administrativní pracovnice	Vranovice	99	80	A	F
 7103	590185	1	2	903	3	Petr	Kvapil	Ing.		34	elektroenergetik	Vrbátky	99	80	A	M
 7103	590193	1	2	904	3	Jakub	Zahradník			25	příslušník HZS OLK	Vrchoslavice	99	80	A	M
 7103	590207	1	2	387	3	Lukáš	Přikryl	Mgr.		39	státní zaměstnanec	Vřesovice	99	80	A	M
@@ -875,7 +875,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	589357	1	2	901	4	Michal	Mikeš			24	řidič	Buková	99	80	A	M
 7103	589365	1	2	902	4	Jana	Sedlářová			47	OSVČ	Čehovice	99	80	A	F
 7103	589381	1	2	371	4	Robert	Tyl			49	živnostník	Čechy pod Kosířem	99	80	A	M
-7103	589390	1	2	901	4	Marcela	Eliášová			48	prodavačka	Čelčice	99	80	A	F
+7103	589390	1	2	901	4	Marcela	Eliašová			48	prodavačka	Čelčice	99	80	A	F
 7103	589403	1	2	470	4	Miloslav	Čech			34	řidič	Čelechovice na Hané	99	80	A	M
 7103	589420	1	2	901	4	Antonie	Sokelová			49	bankovní poradce	Dětkovice	99	80	A	F
 7103	589446	1	2	903	4	Kateřina	Bombíková	Mgr.		41	koordinátor FN Olomouc	Dobromilice	99	80	A	F
@@ -899,7 +899,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	589713	1	2	901	4	Vladimír	Svoboda			49	externí poradce BOZP	Malé Hradisko	99	80	A	M
 7103	589721	1	2	903	4	Marcel	Lupač			51	stavbyvedoucí	Mořice	99	80	A	M
 7103	589730	1	2	210	4	Petr	Kolařík			58	manažer společnosti	Mostkovice	53	53	A	M
-7103	589748	1	2	901	4	Lubomír	Halouzka			59	opravář zemědělských strojů	Kobylničky	99	80	A	M
+7103	589748	1	2	901	4	Lubomír	Halouzka			59	opravář zem. strojů	Kobylničky	99	80	A	M
 7103	589756	1	2	129	4	Jiří	Zatloukal			72	důchodce	Němčice nad Hanou	99	129	A	M
 7103	589764	1	2	902	4	David	Pospíšil			49	manažer	Nezamyslice	99	80	A	M
 7103	589799	1	2	901	4	František	Čepl			40	seřizovač	Obědkovice	99	80	A	M
@@ -964,7 +964,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	590142	1	3	901	4	Marek	Pliska	Ing.		46	stavební technik	Vícov	99	80	A	M
 7103	590177	1	3	355	4	Jana	Dostálová	Bc.		60	ředitelka MŠ	Kelčice	99	1	A	F
 7103	590185	1	3	902	4	Jiří	Ćmiel	Ing.		35	státní zaměstnanec	Vrbátky	99	80	A	M
-7103	590193	1	3	902	4	Michal	Svozilek			30	operátor laserových zařízení	Vrchoslavice	99	80	A	
+7103	590193	1	3	902	4	Michal	Svozilek			30	operátor laserových zařízení	Vrchoslavice	99	80	A	M
 7103	589250	1	4	355	4	Pavel	Vavrouch	Ing.		55	elektrotechnik, Občanský Demokrat Srdcem	Prostějov	99	1	A	M
 7103	589268	1	4	1	4	Michaela	Kubeláková	Bc.		38	sestra specialista	Bedihošť	99	1	A	F
 7103	589381	1	4	1	4	Richard	Zaoral			50	řidič - zásobovač	Čechy pod Kosířem	99	1	A	M
@@ -1140,7 +1140,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	589713	1	2	901	5	Adam	Komínek	Ing.		26	strojní inženýr	Malé Hradisko	99	80	A	M
 7103	589721	1	2	903	5	Josef	Krábek			48	údržbář	Mořice	99	80	A	M
 7103	589730	1	2	210	5	Jiří	Hanák			44	podnikatel	Mostkovice	99	1	A	M
-7103	589748	1	2	901	5	Lenka	Pospíšilová	PhDr.	Ph.D.	41	učitelka	Myslejovice	99	80	A	F
+7103	589748	1	2	901	5	Lenka	Pospíšilová	PhDr.	PhD.	41	učitelka	Myslejovice	99	80	A	F
 7103	589756	1	2	129	5	František	Velčovský			55	podnikatel	Němčice nad Hanou	99	129	A	M
 7103	589764	1	2	902	5	Jiří	Šimik			69	důchodce	Nezamyslice	99	80	A	M
 7103	589799	1	2	901	5	Roman	Labounek			39	kuchař	Obědkovice	99	80	A	M
@@ -1161,7 +1161,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	590088	1	2	1	5	Pavel	Grepl			57	elektromechanik	Labutice	99	1	A	M
 7103	590096	1	2	903	5	Lukáš	Rajtr			27	svářeč	Šubířov	99	80	A	M
 7103	590100	1	2	901	5	Jindřich	Hanák			39	řidič	Tištín	99	80	A	M
-7103	590134	1	2	901	5	Jiří	Dostálík			38	řidič	Víceměřice	99	80	A	
+7103	590134	1	2	901	5	Jiří	Dostálík			38	řidič	Víceměřice	99	80	A	M
 7103	590142	1	2	903	5	Alena	Grulichová	Mgr.		30	fyzioterapeutka	Vícov	99	80	A	F
 7103	590177	1	2	902	5	Tomáš	Kučera			33	referent prodeje	Vranovice	99	80	A	M
 7103	590185	1	2	903	5	Kateřina	Šňupárková	Ing.		37	příslušnice HZS Olomouckého kraje	Štětovice	99	80	A	F
@@ -1370,7 +1370,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	589616	1	2	901	6	Tomáš	Mouka			43	strojník	Klopotovice	99	80	A	M
 7103	589624	1	2	1	6	Naděžda	Páleníková		DiS.	44	ředitelka - Charita Konice	Konice	99	1	A	F
 7103	589632	1	2	480	6	Miloš	Dofek			47	státní zaměstnanec	Kostelec na Hané	99	80	A	M
-7103	589659	1	2	904	6	Markéta	Navrátilová			48	administrativní pracovnice	Kralice na Hané	99	80	A	F
+7103	589659	1	2	904	6	Marketa	Navrátilová			48	administrativní pracovnice	Kralice na Hané	99	80	A	F
 7103	589675	1	2	1	6	Jiří	Štolpa	Ing.		40	programátor	Laškov	1	1	A	M
 7103	589691	1	2	901	6	Karel	Síbr			49	policista	Seč	99	80	A	M
 7103	589705	1	2	902	6	Olga	Müllerová			34	operátorka výroby	Ospělov	99	80	A	F
@@ -1454,7 +1454,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	589659	1	4	905	6	Václav	Kadlčík			46	OSVČ	Kralice na Hané	99	80	A	M
 7103	589721	1	4	902	6	Zdeněk	Bednář			31	zedník	Mořice	99	80	A	M
 7103	589756	1	4	903	6	Petra	Brabcová			45	asistentka pedagoga	Němčice nad Hanou	99	80	A	F
-7103	589764	1	4	901	6	Adela	Nováková		DiS.	46	kontrolní pracovník	Nezamyslice	99	80	A	
+7103	589764	1	4	901	6	Adela	Nováková		DiS.	46	kontrolní pracovník	Nezamyslice	99	80	A	F
 7103	589845	1	4	389	6	Vít	Krátký			28	projektant	Otaslavice	53	53	A	M
 7103	589896	1	4	371	6	Martina	Knallová			52	pěstounka	Žárovice	99	80	A	F
 7103	589918	1	4	355	6	Marketa	Galandáková			48	bezpečnostní pracovník	Prostějovičky	99	1	A	F
@@ -1613,7 +1613,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	589756	1	2	129	7	Rudolf	Šenkyřík			63	důchodce	Němčice nad Hanou	99	129	A	M
 7103	589764	1	2	902	7	Marcela	Horáková	Mgr.		47	učitelka ZŠ	Nezamyslice	99	80	A	F
 7103	589799	1	2	901	7	Pavel	Přikryl			36	zemědělec	Obědkovice	99	80	A	M
-7103	589829	1	2	901	7	Silvie	Götzová			28	učitelka	Hablov	99	80	A	F
+7103	589829	1	2	901	7	Silvie	Gőtzová			28	učitelka	Hablov	99	80	A	F
 7103	589845	1	2	470	7	Milena	Hloušková			44	laborantka	Otaslavice	99	80	A	F
 7103	589870	1	2	901	7	Martin	Kořenek			47	elektromechanik, správce budov	Pěnčín	99	80	A	M
 7103	589888	1	2	1	7	Klára	Janíková	Bc.		24	student	Pivín	99	1	A	F
@@ -1723,7 +1723,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	506770	1	1	901	8	Karel	Stránský			61	vedoucí odborného výcviku	Seloutky	99	80	A	M
 7103	544710	1	1	901	8	Matěj	Štěpánek			21	elektrotechnik	Vincencov	99	80	A	M
 7103	557196	1	1	901	8	Milan	Lešikar			57	OSVČ	Pavlovice u Kojetína	99	80	A	M
-7103	558419	1	1	901	8	Zdeněk	Vařeka			47	zámečník	Držovice	99	80	A	M
+7103	558419	1	1	901	8	Zdeněk	Vařecha			47	zámečník	Držovice	99	80	A	M
 7103	589268	1	1	389	8	Alice	Opavská			48	zdravotní sestra	Bedihošť	99	53	A	F
 7103	589276	1	1	901	8	Pavel	Synek			48	sklenář	Bílovice	99	80	A	M
 7103	589306	1	1	470	8	Simona	Havlenová			28	pečovatelka	Bousín	99	166	A	F
@@ -1731,7 +1731,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	589331	1	1	901	8	Jaroslav	Hanzalík			57	operátor výroby	Březsko	99	80	A	M
 7103	589349	1	1	902	8	Marek	Vinkler			44	automechanik	Budětsko	99	80	A	M
 7103	589357	1	1	902	8	Kamil	Kopřiva			48	podnikatel	Buková	99	80	A	M
-7103	589403	1	1	47	8	Stanislav	Tesař			52	tesař	Čelechovice na Hané	99	47	A	M
+7103	589403	1	1	47	8	Jaroslav	Tesař			52	tesař	Čelechovice na Hané	99	47	A	M
 7103	589420	1	1	1	8	Hana	Řehulková	Ing.		49	podnikatelka	Dětkovice	99	1	A	F
 7103	589446	1	1	387	8	Ivana	Páleníková			61	uklízečka	Dobromilice	99	80	A	F
 7103	589462	1	1	181	8	Věra	Škvařilová	Ing.		31	rodičovská dovolená	Drahany	99	181	A	F
@@ -1831,7 +1831,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	590100	1	2	901	8	Ilona	Svozilová			24	mateřská dovolená	Tištín	99	80	A	F
 7103	590134	1	2	901	8	Jiřina	Malčíková			57	pracovník sociální péče	Víceměřice	99	80	A	F
 7103	590142	1	2	903	8	Věra	Vejrostová			36	referent prodeje	Vícov	99	80	A	F
-7103	590177	1	2	902	8	Kateřina	Friedlová	Mgr.		40	učitelka	Kelčice	99	80	A	F
+7103	590177	1	2	902	8	Kateřina	Friedlová	Mgr.		40	učitelka	Vranovice	99	80	A	F
 7103	590185	1	2	903	8	Iveta	Rohovská	Bc.		25	příslušnice HZS Olomouckého kraje	Štětovice	99	80	A	F
 7103	590193	1	2	904	8	Barbora	Bašková			21	studentka	Vrchoslavice	99	80	A	F
 7103	590207	1	2	387	8	Radek	Dostál			28	zedník	Vřesovice	99	80	A	M
@@ -1939,7 +1939,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	589721	1	1	901	9	Petr	Zouhar			38	řidič	Mořice	99	80	A	M
 7103	589730	1	1	902	9	Věra	Povýšilová			43	asistent pedagoga	Mostkovice	99	80	A	F
 7103	589748	1	1	902	9	Jan	Strolený			38	seřizovač vstřikolisů	Myslejovice	99	80	A	M
-7103	589756	1	1	387	9	Iva	Gronychová			65	důchodkyně	Němčice nad Hanou	99	80	A	
+7103	589756	1	1	387	9	Iva	Gronychová			65	důchodkyně	Němčice nad Hanou	99	80	A	F
 7103	589764	1	1	903	9	Pavel	Tihelka			56	předseda AGD Tištín	Nezamyslice	99	80	A	M
 7103	589772	1	1	901	9	Jaroslav	Servus	Ing.		38	obchodní ředitel	Niva	99	80	A	M
 7103	589829	1	1	902	9	Jaroslav	Dokoupil			44	řidič z povolání	Olšany u Prostějova	99	80	A	M
@@ -2128,7 +2128,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	589730	1	3	901	10	Ladislav	Krátký			61	OSVČ	Mostkovice	99	80	A	M
 7103	589748	1	3	903	10	Jaroslav	Hýbl			39	provozní technik	Myslejovice	99	80	A	M
 7103	589756	1	3	1114	10	Ludmila	Hučíková			63	prodavačka	Němčice nad Hanou	99	1114	A	F
-7103	589896	1	3	1	10	Zdenka	Nováková	Bc.		45	terapeutka a pěstounka	Plumlov	1	1	A	F
+7103	589896	1	3	1	10	Zdenka	Nováková	Bc.		45	terapeutka a pěstounka	Plumlov	99	1	A	F
 7103	589942	1	3	1	10	Veronika	Dočkalová			42	zdravotní sestra	Ptení	1	1	A	F
 7103	590185	1	3	902	10	Dušan	Romanovský			46	hlavní trávníkář SK Sigma Olomouc	Dubany	99	80	A	M
 7103	590193	1	3	902	10	Vladimír	Bulko			40	OSVČ	Vrchoslavice	99	80	A	M
@@ -2280,7 +2280,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	589624	1	6	166	12	František	Grepl			59	technik	Konice	99	166	A	M
 7103	589756	1	6	1	12	Pavel	Oulehla			64	podnikatel	Němčice nad Hanou	99	1	A	M
 7103	589896	1	6	901	12	Jiří	Nekola			53	manažer	Soběsuky	99	80	A	M
-7103	589250	1	7	387	12	Eva	Hurbanová			52	administrativní pracovnice	Prostějov	99	80	A	
+7103	589250	1	7	387	12	Eva	Hurbanová			52	administrativní pracovnice	Prostějov	99	80	A	F
 7103	589756	1	7	7	12	Alice	Štěpánková			51	mzdová účetní	Němčice nad Hanou	7	7	A	F
 7103	589250	1	8	720	12	Miroslav	Radiměřský	Ing.		36	analytik	Vrahovice	720	720	A	M
 7103	589756	1	8	902	12	Iveta	Foltýnová			40	referentka	Němčice nad Hanou	99	80	A	F
@@ -2414,7 +2414,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	589748	1	3	903	15	Marcela	Knotková			52	vedoucí prodejny	Myslejovice	99	80	A	F
 7103	589756	1	3	1114	15	Zdeněk	Spiller			41	mechanik	Němčice nad Hanou	99	1114	A	M
 7103	589896	1	3	1	15	Ladislav	Otruba			71	důchodce, kameník	Plumlov	1	1	A	M
-7103	590185	1	3	902	15	Kateřina	Ritterová	Mgr.	Ph.D.	54	vysokoškolská pedagožka	Dubany	99	80	A	F
+7103	590185	1	3	902	15	Kateřina	Ritterová	Mgr.	PhD.	54	vysokoškolská pedagožka	Dubany	99	80	A	F
 7103	589250	1	4	355	15	Andrea	Thomesová			31	asistentka pedagoga	Prostějov	1	1	A	F
 7103	589624	1	4	371	15	Hana	Švecová			42	dělnice	Čunín	99	80	A	F
 7103	589756	1	4	903	15	Ondřej	Franěk			33	OSVČ	Němčice nad Hanou	99	80	A	M
@@ -2425,7 +2425,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	589632	1	5	371	15	Dana	Blažková			49	ekonom	Kostelec na Hané	99	80	A	F
 7103	589756	1	5	901	15	Renata	Hanzlíková			55	administrativní pracovnice Nemocnice Agel Prostějov	Němčice nad Hanou	99	80	A	F
 7103	589896	1	5	721	15	Dagmar	Zoubalová	Mgr.		48	obchodní zástupce pivovaru	Plumlov	99	721	A	F
-7103	589250	1	6	389	15	Jan	Lázna			62	středoškolský učitel na Střední zdravotnické škole Prostějov, krajský garant Středoškolské odborné činnosti	Prostějov	99	53	A	M
+7103	589250	1	6	389	15	Jan	Lázna	RNDr.		62	středoškolský učitel na Střední zdravotnické škole Prostějov, krajský garant Středoškolské odborné činnosti	Prostějov	99	53	A	M
 7103	589624	1	6	166	15	Tomáš	Trbůšek			50	jednatel Nabiswera	Konice	99	166	A	M
 7103	589756	1	6	1	15	Pavel	Navrátil	Mgr.		42	učitel	Němčice nad Hanou	1	1	A	M
 7103	589896	1	6	901	15	Lenka	Ambrožová			62	ekonomka	Soběsuky	99	80	A	F
@@ -2492,11 +2492,11 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7103	589250	1	2	1612	22	Martin	Zigmund			19	student	Prostějov	99	166	A	M
 7103	589250	1	3	1114	22	Roman	Zdařil			59	obchodník	Krasice	99	1114	A	M
 7103	589250	1	4	355	22	Hana	Gottwaldová			47	učitelka MŠ Rumunská	Prostějov	99	1	A	F
-7103	589250	1	5	768	22	Leona	Skokánková			53	pracovník centra sociálních služeb	Prostějov	99	768	A	
+7103	589250	1	5	768	22	Leona	Skokánková			53	pracovník centra sociálních služeb	Prostějov	99	768	A	F
 7103	589250	1	6	389	22	Tomáš	Tesař			30	bezpečnostní technik, pracovník Vzdělávacího institutu	Prostějov	99	53	A	M
 7103	589250	1	7	387	22	Petr	Kalandra			73	důchodce	Prostějov	47	47	A	M
 7103	589250	1	8	720	22	Martin	Soldán			49	facility manager, hudebník	Prostějov	99	720	A	M
-7103	589250	1	9	1020	22	Bořek	Nagy	Ing.		47	podnikatel	Prostějov	99	1020	A	
+7103	589250	1	9	1020	22	Bořek	Nagy	Ing.		47	podnikatel	Prostějov	99	1020	A	M
 7103	589250	1	10	7	22	Zdeněk	Fišer	Ing.		67	stavební inženýr-projektant	Krasice	7	7	A	M
 7103	589250	1	2	1612	23	Jaromír	Tobola			59	zaměstnanec Domova Daliborka Charity Prostějov	Prostějov	721	721	A	M
 7103	589250	1	3	1114	23	Marek	Mlčoch			48	IT specialista	Domamyslice	99	1114	A	M

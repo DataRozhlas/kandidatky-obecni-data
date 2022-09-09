@@ -84,7 +84,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584487	1	2	902	1	Petr	Tichý	Ing. Bc.		47	vedoucí pěstitelské pálenice	Hrušky	99	80	A	M
 6204	584495	1	2	53	1	Oldřich	Vachala	Ing.		32	vinař a ekonom, krajský zastupitel	Hustopeče	53	53	A	M
 6204	584541	1	2	480	1	Marian	Dvořák			45	automechanik	Klentnice	99	80	A	M
-6204	584550	1	2	1	1	Zdeněk	Špaček	PharmDr. Mgr.		56	general manager	Klobouky u Brna	99	1	A	
+6204	584550	1	2	1	1	Zdeněk	Špaček	PharmDr. Mgr.		56	general manager	Klobouky u Brna	99	1	A	M
 6204	584568	1	2	768	1	Jiří	Možný	Ing. Mgr.		50	policista, pedagog	Kobylí	99	768	A	M
 6204	584576	1	2	47	1	Jiří	Janulík			63	technik	Kostice	99	47	A	M
 6204	584584	1	2	210	1	Martin	Valihrach			36	soukromý zemědělec	Krumvíř	1	1	A	M
@@ -250,7 +250,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584291	1	12	1325	1	Olga	Kelemenová			49	podnikatelka	Břeclav	99	80	A	F
 6204	555282	1	1	355	2	Martin	Klepáč			43	prodavač, nábytkář	Kurdějov	99	1	A	M
 6204	558443	1	1	1	2	Stanislav	Maxa			66	důchodce	Ladná	99	1	A	M
-6204	584291	1	1	464	2	Kamila	Rausová	Bc.		49	hlavní účetní	Charvátská Nová ves	99	83	A	F
+6204	584291	1	1	464	2	Kamila	Rausová	Bc.		49	hlavní účetní	Charvátská Nová Ves	99	83	A	F
 6204	584304	1	1	902	2	Adam	Bursík	Ing.		31	rizikový analytik	Bavory	99	80	A	M
 6204	584321	1	1	901	2	Petr	Koráb	Mgr.		47	živnostník	Boleradice	99	80	A	M
 6204	584339	1	1	1	2	Josef	Novák			67	důchodce	Borkovany	1	1	A	M
@@ -530,7 +530,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584754	1	1	901	3	Lilija-Vasylyna	Omeljaš	Bc.		32	obchodní zástupce	Nový Přerov	99	80	A	M
 6204	584771	1	1	902	3	Josef	Buršík			33	řidič	Pavlov	99	80	A	M
 6204	584789	1	1	1	3	Jiří	Michlovský	Ing.		34	živnostník	Perná	99	1	A	M
-6204	584797	1	1	47	3	Dušan	Šottník			62	řidič	Podivín	99	47	A	M
+6204	584797	1	1	47	3	Dušan	Šottnik			62	řidič	Podivín	99	47	A	M
 6204	584819	1	1	1	3	Kamil	Malík	Ing.		47	projektový inženýr	Popice	99	1	A	M
 6204	584835	1	1	83	3	Renata	Halámková	Ing.		53	kontrolorka pro Jihomoravský kraj	Pouzdřany	99	83	A	F
 6204	584851	1	1	902	3	Oldřich	Polínek			60	dělník na OÚ	Přítluky	99	80	A	M
@@ -615,7 +615,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584380	1	3	902	3	Romana	Bařinová			52	operátor výroby	Bulhary	99	80	A	F
 6204	584410	1	3	903	3	Julie	Krsková	Ing. Bc.		40	reaktorový fyzik	Dobré Pole	99	80	A	F
 6204	584428	1	3	470	3	Dalibor	Malý	Bc.		24	pedagog	Dolní Dunajovice	99	80	A	M
-6204	584436	1	3	904	3	Jiří	Červinka			39	mechanik	Dolní Věstonice	99	80	A	M
 6204	584452	1	3	1	3	Karel	Vlašic			54	skladník	Hlohovec	1	1	A	M
 6204	584461	1	3	902	3	Zbyněk	Prokeš			40	vinař	Horní Bojanovice	99	80	A	M
 6204	584487	1	3	1	3	Petr	Dresler	Mgr.	Ph.D.	44	archeolog	Hrušky	99	1	A	M
@@ -692,7 +691,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584797	1	5	1	3	Martina	Konečná	Ing.		39	manažer	Podivín	99	1	A	F
 6204	584908	1	5	902	3	Ivan	Čavoj	Ing.		56	zástupce ředitele autocentra	Starovičky	99	80	A	M
 6204	584916	1	5	166	3	Hana	Trunečková			37	účetní	Strachotín	99	166	A	F
-6204	584941	1	5	902	3	Martina	Hanzelková	Ing.	Ph.D.	36	projektantka	Tvrdonice	99	80	A	
+6204	584941	1	5	902	3	Martina	Hanzelková	Ing.	Ph.D.	36	projektantka	Tvrdonice	99	80	A	F
 6204	584959	1	5	901	3	Sylva	Hrubá	Mgr.		55	učitelka	Týnec	99	80	A	F
 6204	584975	1	5	902	3	Martin	Lišovský	Ing.		29	technolog	Valtice	99	80	A	M
 6204	585009	1	5	901	3	Přemysl	Burian	Ing.		43	konstruktér	Velké Němčice	99	80	A	M
@@ -805,7 +804,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584380	1	2	901	4	Milan	Čejka			41	OSVČ	Bulhary	99	80	A	M
 6204	584410	1	2	901	4	Josef	Sivera			55	operátor výroby	Dobré Pole	99	80	A	M
 6204	584428	1	2	901	4	Otakar	Šimoník			62	celní deklarant	Dolní Dunajovice	99	80	A	M
-6204	584436	1	2	903	4	Oldřich	Klanica			55	zámečník	Dolní Věstonice	99	80	A	M
 6204	584444	1	2	901	4	Dalibor	Huťka			37	dispečer	Drnholec	99	80	A	M
 6204	584452	1	2	53	4	Karel	Malý	Ing.	Ph.D.	44	podnikatel	Hlohovec	99	53	A	M
 6204	584461	1	2	53	4	František	Kopčík			57	zedník - OSVČ	Horní Bojanovice	99	53	A	M
@@ -868,7 +866,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584592	1	3	902	4	Václav	Staněk			47	OSVČ	Křepice	99	80	A	M
 6204	584622	1	3	901	4	Dušan	Radoň			48	bankéř klientské péče	Lanžhot	99	80	A	M
 6204	584631	1	3	768	4	Ondřej	Nedvěd			30	OSVČ	Lednice	99	768	A	M
-6204	584649	1	3	768	4	Petr	Kulhavý		B. A.	45	policista	Mikulov	99	768	A	M
+6204	584649	1	3	768	4	Petr	Kulhavý		BA	45	policista	Mikulov	99	768	A	M
 6204	584665	1	3	480	4	Jaroslav	Nešpor			42	majitel vinařství	Moravská Nová Ves	99	80	A	M
 6204	584673	1	3	53	4	Vladislava	Příborská Vojtková			61	důchodce	Moravský Žižkov	53	53	A	F
 6204	584703	1	3	53	4	Patrik	Komárek	Ing.		49	podnikatel	Němčičky	53	53	A	M
@@ -951,7 +949,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	585017	1	6	47	4	Jaroslava	Janů			63	prodavačka - důchodce	Velké Pavlovice	47	47	A	F
 6204	584291	1	7	768	4	Martin	Marták	Ing.		45	manažer	Břeclav	768	768	A	M
 6204	584631	1	7	83	4	Jiří	Nahodil			47	OSVČ	Lednice	83	83	A	M
-6204	584649	1	7	53	4	Petr	Marcinčák	Ing.	B. A.	57	vinař	Mikulov	53	53	A	M
+6204	584649	1	7	53	4	Petr	Marcinčák	Ing.	BA	57	vinař	Mikulov	53	53	A	M
 6204	584665	1	7	902	4	Pavel	Tkáč			58	strojvedoucí ČD	Moravská Nová Ves	99	80	A	M
 6204	584941	1	7	47	4	Ludvík	Sasín			53	řidič	Tvrdonice	47	47	A	M
 6204	584975	1	7	47	4	Miroslav	Štěpánek	Ing.		81	důchodce	Valtice	47	47	A	M
@@ -985,7 +983,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584401	1	1	901	5	Pavel	Gratzl			38	operátor	Diváky	99	80	A	M
 6204	584410	1	1	902	5	Jiří	Bravenec			32	svářeč- zámečník	Dobré Pole	99	80	A	M
 6204	584428	1	1	902	5	Roman	Kroupa			48	podnikatel	Dolní Dunajovice	99	80	A	M
-6204	584436	1	1	902	5	Tomáš	Bureš			53	živnostník	Dolní Věstonice	99	80	A	M
 6204	584444	1	1	902	5	Vlastimil	Tomaštík			29	OSVČ	Drnholec	99	80	A	M
 6204	584452	1	1	901	5	František	Jankovič			52	vedoucí prodejny	Hlohovec	99	80	A	M
 6204	584461	1	1	901	5	Leona	Juříčková			48	skladnice	Horní Bojanovice	99	80	A	F
@@ -1179,7 +1176,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584975	1	5	902	5	Martin	Štěpánek			49	profesionální hasič	Valtice	99	80	A	M
 6204	585009	1	5	901	5	Jiří	Macháček	Mgr.		57	manažer - kvalitář	Velké Němčice	99	80	A	M
 6204	585017	1	5	904	5	Pavel	Hanzálek	Ing.		27	učitel ZŠ Velké Pavlovice	Velké Pavlovice	99	80	A	M
-6204	584291	1	6	387	5	Jaroslava	Fryštáková			55	vlakvedoucí ČD	Charvátská Nová ves	47	47	A	F
+6204	584291	1	6	387	5	Jaroslava	Fryštáková			55	vlakvedoucí ČD	Charvátská Nová Ves	47	47	A	F
 6204	584380	1	6	1	5	Vítězslav	Pochylý			57	technik, vinohradník	Bulhary	99	1	A	M
 6204	584495	1	6	88	5	Roman	Záruba			47	obchodní manažer	Hustopeče	99	88	A	M
 6204	584631	1	6	903	5	Oto	Bernad			56	správce zámeckého parku	Lednice	99	80	A	M
@@ -1490,7 +1487,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584681	1	1	902	7	Dagmar	Zezulová	Ing.		39	externí účetní	Morkůvky	99	80	A	F
 6204	584703	1	1	902	7	Jan	Doležel			38	manažer	Němčičky	99	80	A	M
 6204	584711	1	1	901	7	Adam	Sláma			30	obráběč kovů	Nikolčice	99	80	A	M
-6204	584746	1	1	901	7	Tereza	Smetanová		B. A.	37	mateřská dovolená	Novosedly	99	80	A	F
+6204	584746	1	1	901	7	Tereza	Smetanová		BA	37	mateřská dovolená	Novosedly	99	80	A	F
 6204	584754	1	1	901	7	Radek	Šebesta			36	operátor CNC	Nový Přerov	99	80	A	M
 6204	584771	1	1	902	7	Zdeněk	Ďuriš			42	číšník	Pavlov	99	80	A	M
 6204	584789	1	1	1	7	Marie	Bílková			71	důchodkyně	Perná	1	1	A	F
@@ -1660,7 +1657,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584975	1	5	902	7	Zdeněk	Mlynář			45	OSVČ	Valtice	99	80	A	M
 6204	585009	1	5	901	7	Milan	Novotný	Ing.		48	lesník - vedoucí polesí	Velké Němčice	99	80	A	M
 6204	585017	1	5	904	7	Roman	Pláteník			47	vedoucí stavebního úřadu	Velké Pavlovice	99	80	A	M
-6204	584291	1	6	387	7	Ivan	Filipský	Mgr.		28	asistent, Universita Palackého, Olomouc	Charvátská Nová ves	47	47	A	M
+6204	584291	1	6	387	7	Ivan	Filipský	Mgr.		28	asistent, Universita Palackého Olomouc	Charvátská Nová Ves	47	47	A	M
 6204	584380	1	6	1	7	Miroslav	Kodar			32	OSVČ	Bulhary	99	1	A	M
 6204	584495	1	6	88	7	Alexandr	Batoušek			42	jednatel společnosti	Hustopeče	99	88	A	M
 6204	584631	1	6	903	7	Radek	Miča			50	fotoreportér	Lednice	99	80	A	M
@@ -1718,7 +1715,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584576	1	1	902	8	Petr	Darmovzal			47	státní zaměstnanec	Kostice	99	80	A	M
 6204	584584	1	1	901	8	Lukáš	Kobylka			37	OSVČ	Krumvíř	99	80	A	M
 6204	584592	1	1	901	8	Ivo	Brychta			40	OSVČ	Křepice	99	80	A	M
-6204	584622	1	1	371	8	Dalibor	Švach			33	řidič autobusu	Lanžhot	99	80	A	
+6204	584622	1	1	371	8	Dalibor	Švach			33	řidič autobusu	Lanžhot	99	80	A	M
 6204	584631	1	1	901	8	Martin	Majerník			47	stolař, restaurátor, ZSON z.s.	Nejdek	99	80	A	M
 6204	584649	1	1	47	8	Milan	Křivánek			51	dělník	Mikulov	99	47	A	M
 6204	584657	1	1	901	8	Žaneta	Helešicová			31	soukromý podnikatel	Milovice	99	80	A	F
@@ -1784,7 +1781,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584819	1	2	901	8	Josef	Patka			49	kuchař	Popice	99	80	A	M
 6204	584835	1	2	1245	8	Pavel	Losa			56	zámečník, svářeč	Pouzdřany	99	1245	A	M
 6204	584851	1	2	901	8	Petr	Šmerda			30	mistr - vodovody a kanalizace	Nové Mlýny	99	80	A	M
-6204	584860	1	2	53	8	Michal	Navrátil			46	živnostník	Rakvice	53	53	A	
+6204	584860	1	2	53	8	Michal	Navrátil			46	živnostník	Rakvice	53	53	A	M
 6204	584908	1	2	904	8	Miroslav	Dolák			50	šéfmontér chlazení	Starovičky	99	80	A	M
 6204	584941	1	2	903	8	Bronislav	Samson			49	OSVČ	Tvrdonice	99	80	A	M
 6204	584959	1	2	470	8	Věra	Pretóryová			58	asistentka pedagoga v ZŠ	Týnec	99	80	A	F
@@ -1813,7 +1810,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584576	1	3	901	8	Marie	Čížová	Mgr. Bc.	MBA, DiS.	54	referent stavebního úřadu	Kostice	99	80	A	F
 6204	584592	1	3	902	8	Marek	Rouzek	Ing.		41	vedoucí MTZ	Křepice	99	80	A	M
 6204	584622	1	3	901	8	Lucie	Bartošová	Ing.		43	učitelka základní školy	Lanžhot	99	80	A	F
-6204	584631	1	3	768	8	Ivan	Turek			59	OSVČ	Lednice	99	768	A	
+6204	584631	1	3	768	8	Ivan	Turek			59	OSVČ	Lednice	99	768	A	M
 6204	584649	1	3	768	8	Zdeněk	Sedláček			63	vedoucí skladu	Mikulov	99	768	A	M
 6204	584665	1	3	480	8	Radana	Švrčulová			46	obchodní zástupce	Moravská Nová Ves	99	80	A	F
 6204	584673	1	3	53	8	Karel	Osička			47	vedoucí dílny	Moravský Žižkov	99	53	A	M
@@ -1915,7 +1912,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584371	1	1	470	9	Martin	Šuta			48	ekonom	Březí	99	80	A	M
 6204	584380	1	1	904	9	Karel	Čápek			43	montážní dělník	Bulhary	99	80	A	M
 6204	584401	1	1	901	9	Miroslav	Mrhal			38	dělník	Diváky	99	80	A	M
-6204	584428	1	1	902	9	Silvestr	Jakubec			23	svářeč- zámečník	Dolní Dunajovice	99	80	A	M
+6204	584428	1	1	902	9	Silvestr	Jakubec			23	svářeč - zámečník	Dolní Dunajovice	99	80	A	M
 6204	584444	1	1	902	9	Pavel	Božek			49	programátor	Drnholec	99	80	A	M
 6204	584452	1	1	901	9	Elena	Výtisková	Mgr.		47	sociální pracovník	Hlohovec	99	80	A	F
 6204	584479	1	1	901	9	Lukáš	Machala			38	živnostník	Horní Věstonice	99	80	A	M
@@ -1983,7 +1980,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584649	1	2	166	9	Dagmar	Studénková			52	účetní	Mikulov	99	166	A	F
 6204	584673	1	2	1	9	Radek	Hromek			48	mistr údržby	Moravský Žižkov	99	1	A	M
 6204	584681	1	2	901	9	Klára	Hanáková			42	kuchařka	Morkůvky	99	80	A	F
-6204	584703	1	2	1	9	Agnieszka Anna	Prchal			48	psychosociální pracovnice domácího hospice	Němčičky	1	1	A	
+6204	584703	1	2	1	9	Agnieszka Anna	Prchal			48	psychosociální pracovnice domácího hospice	Němčičky	1	1	A	F
 6204	584746	1	2	53	9	Jan	Šesták			29	OSVČ	Novosedly	99	53	A	M
 6204	584754	1	2	903	9	Ilona	Matějková			46	dělnice	Nový Přerov	99	80	A	F
 6204	584771	1	2	470	9	Jiří	Šilinek			61	vinař	Pavlov	99	80	A	M
@@ -2015,7 +2012,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584452	1	3	1	9	Josef	Garčic			57	bankovní úředník	Hlohovec	1	1	A	M
 6204	584487	1	3	1	9	Pavel	Filipovič			47	soukromý podnikatel	Hrušky	99	1	A	M
 6204	584495	1	3	5	9	Tomáš	Greguš			33	podnikatel	Hustopeče	99	5	A	M
-6204	584541	1	3	1	9	Iveta	Sekaninová			50	zaměstnanec Srdce v domě Klentnice	Klentnice	99	1	A	F
 6204	584550	1	3	768	9	Radim	Ondrůj			40	instruktor autoškoly	Klobouky u Brna	99	768	A	M
 6204	584568	1	3	901	9	Zdeněk	Sovadina	Mgr.		56	pedagog	Kobylí	99	80	A	M
 6204	584576	1	3	901	9	David	Kalina			47	OSVČ	Kostice	99	80	A	M
@@ -2062,7 +2058,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584860	1	4	902	9	Radek	Hrdina			42	živnostník	Rakvice	99	80	A	M
 6204	584908	1	4	901	9	Martin	Trněný			41	soukromý podnikatel	Starovičky	99	80	A	M
 6204	584916	1	4	904	9	Vladimíra	Vysekalová			60	v domácnosti	Strachotín	99	80	A	F
-6204	584941	1	4	1	9	Alexandra	Kuklová	Ing.		28	projektant, zahradní a krajinářská architektura	Tvrdonice	99	1	A	
+6204	584941	1	4	1	9	Alexandra	Kuklová	Ing.		28	projektant, zahradní a krajinářská architektura	Tvrdonice	99	1	A	F
 6204	584959	1	4	902	9	Karin	Hrnčířová			48	vedoucí pošty Týnec	Týnec	99	80	A	F
 6204	584975	1	4	901	9	Radovan	Svoboda			32	elektromontér	Valtice	99	80	A	M
 6204	585009	1	4	902	9	Jaroslav	Mrkvica			56	řidič	Velké Němčice	99	80	A	M
@@ -2132,7 +2128,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584631	1	1	901	10	Dagmar	Štorková	Ing.		44	podnikatelka	Lednice	99	80	A	F
 6204	584649	1	1	47	10	Jana	Šmédková			66	důchodce	Mikulov	47	47	A	F
 6204	584665	1	1	768	10	Vlasta	Garšicová			51	státní zaměstnanec	Moravská Nová Ves	99	768	A	F
-6204	584673	1	1	901	10	Lenka	Pálková	Bc.		29	laborantka	Moravský Žižkov	99	80	A	
+6204	584673	1	1	901	10	Lenka	Pálková	Bc.		29	laborantka	Moravský Žižkov	99	80	A	F
 6204	584746	1	1	901	10	Jan	Sikyta			32	OSVČ	Novosedly	99	80	A	M
 6204	584797	1	1	47	10	Libuše	Kršková			74	důchodce	Podivín	47	47	A	F
 6204	584819	1	1	1	10	Miloš	Kotlán	Mgr.		48	státní zaměstnanec	Popice	99	1	A	M
@@ -2259,7 +2255,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584291	1	10	1	10	Milada	Volejníková			68	sociální pracovnice	Břeclav	1	1	A	F
 6204	584631	1	10	449	10	Miroslav	Schallenberger			62	dispečer	Lednice	99	80	A	M
 6204	584975	1	10	53	10	Petr	Sekanina			43	kuchař	Valtice	99	53	A	M
-6204	584291	1	11	480	10	Richard	Bartoš	Ing.		52	sportovní manažer	Břeclav	99	80	A	
+6204	584291	1	11	480	10	Richard	Bartoš	Ing.		52	sportovní manažer	Břeclav	99	80	A	M
 6204	584291	1	12	1325	10	Kamila	Haraštová	Mgr.		50	státní zaměstnanec, personalistka	Břeclav	99	80	A	F
 6204	584291	1	1	464	11	Jaromír	Janota			62	hudební producent	Charvátská Nová Ves	99	83	A	M
 6204	584321	1	1	901	11	Jan	Stehlík			46	živnostník	Boleradice	99	80	A	M
@@ -2361,7 +2357,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584631	1	4	902	11	Ludmila	Michalicová			64	důchodkyně	Lednice	99	80	A	F
 6204	584649	1	4	901	11	David	Kvinta			37	majitel autodílny	Mikulov	99	80	A	M
 6204	584665	1	4	904	11	Jaromír	Kučera			73	důchodce	Moravská Nová Ves	99	80	A	M
-6204	584797	1	4	901	11	Aleš	Zemek			41	vedoucí údržby	Podivín	99	80	A	M
 6204	584941	1	4	1	11	Markéta	Zháňalová		DiS.	29	sociální pracovnice	Tvrdonice	99	1	A	F
 6204	584959	1	4	902	11	Michal	Pelikán			43	sociální služby občanům	Týnec	99	80	A	M
 6204	584975	1	4	901	11	Pavel	Doskočil	Ing.		46	obchodní manažer	Valtice	99	80	A	M
@@ -2642,7 +2637,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	585017	1	3	210	13	Veronika	Prokešová			44	učitelka ZŠ	Velké Pavlovice	99	1	A	F
 6204	585050	1	3	389	13	Dušan	Létal			50	OSVČ	Zaječí	99	80	A	M
 6204	584291	1	4	53	13	Jan	Radda			26	živnostník	Břeclav	53	53	A	M
-6204	584347	1	4	1	13	Milan	Škranc			51	malíř pokojů	Bořetice	99	1	A	
+6204	584347	1	4	1	13	Milan	Škranc			51	malíř pokojů	Bořetice	99	1	A	M
 6204	584363	1	4	901	13	Roman	Prokeš			53	strážník městské policie Brno	Brumovice	99	80	A	M
 6204	584371	1	4	902	13	Blanka	Kyněrová			45	OSVČ, kadeřnictví	Březí	99	80	A	F
 6204	584428	1	4	903	13	Miroslav	Ivaniš	Mgr.		68	důchodce	Dolní Dunajovice	99	80	A	M
@@ -3091,7 +3086,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584495	1	3	5	19	Aneta	Zatloukalová			28	baristka	Hustopeče	99	5	A	F
 6204	584622	1	3	901	19	Barbora	Uhrová	Ing.		42	manažerka	Lanžhot	99	80	A	F
 6204	584649	1	3	768	19	Josef	Studénka			55	jednatel	Mikulov	99	768	A	M
-6204	584291	1	4	53	19	Zdeněk	Huťka			69	důchodce	Charvátská Nová ves	53	53	A	M
+6204	584291	1	4	53	19	Zdeněk	Huťka			69	důchodce	Charvátská Nová Ves	53	53	A	M
 6204	584495	1	4	1	19	Stanislav	Jeřábek			72	topič	Hustopeče	1	1	A	M
 6204	584622	1	4	1	19	Denisa	Spevárová			46	univerzitní knihovnice	Lanžhot	99	1	A	F
 6204	584649	1	4	901	19	Dominika	Kopřivová	Mgr.		32	učitelka	Mikulov	99	80	A	F
@@ -3196,7 +3191,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6204	584649	1	2	166	23	Jan	Miklín	RNDr. Ph.D.		36	geoinformatik, fotograf	Mikulov	99	166	A	M
 6204	584291	1	3	401	23	Jana	Krejčí	PharmDr.		64	lékárnice	Břeclav	99	80	A	F
 6204	584649	1	3	768	23	Michal	Malár			43	závozník	Mikulov	99	768	A	M
-6204	584291	1	4	53	23	Lydie	Filipová	Ing. arch.		65	pořizovatel územních plánů	Charvátská Nová ves	53	53	A	F
+6204	584291	1	4	53	23	Lydie	Filipová	Ing. arch.		65	pořizovatel územních plánů	Charvátská Nová Ves	53	53	A	F
 6204	584649	1	4	901	23	Matěj	Mihalík	Mgr.		27	fyzioterapeut	Mikulov	99	80	A	M
 6204	584291	1	5	1305	23	Ivan	Žilka			54	hudebník, inspektor ostrahy	Charvátská Nová Ves	99	80	A	M
 6204	584649	1	5	720	23	Hana	Kolínková			48	fyzioterapeutka	Mikulov	99	720	A	F

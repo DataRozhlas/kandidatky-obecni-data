@@ -94,7 +94,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4101	554499	1	4	474	1	Marcela	Šnajdrová	Mgr.		61	učitelka	Aš	99	47	A	F
 4101	554511	1	4	768	1	Ludmila	Hnátová			52	realitní makléřka	Drmoul	768	768	A	F
 4101	554529	1	4	901	1	Lenka	Průšová	Mgr.		43	člen zastupitelstva města, manažer LD Savoy	Františkovy Lázně	99	80	A	F
-4101	554545	1	4	166	1	Hana	Hauptig			33	zdravotní asistent, OSVČ	Hazlov	166	166	A	F
+4101	554545	1	4	166	1	Hana	Hauptig			33	zdravotnický asistent, OSVČ	Hazlov	166	166	A	F
 4101	554626	1	4	903	1	Tomáš	Luňák		DiS.	45	vedoucí prodeje	Lipová	99	80	A	M
 4101	554642	1	4	510	1	Miloslav	Pelc	Mgr.		65	ředitel gymnázia a obchodní akademie	Úšovice	99	771	A	M
 4101	554651	1	4	482	1	František	Dojčár			69	důchodce	Milhostov	99	715	A	M
@@ -128,7 +128,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4101	554481	1	9	1344	1	Karel	Tyrpekl	MUDr.		59	lékař	Podhrad	99	80	A	M
 4101	554642	1	9	720	1	Martin	Kalina	Ing.		38	starosta	Mariánské Lázně	720	720	A	M
 4101	538795	1	1	901	2	Petr	Paprsek	Bc.		43	příslušník HZS ČR	Krásná	99	80	A	M
-4101	538817	1	1	901	2	Vojtěch	Čopák			56	zedník	Podhradí	99	80	A	M
+4101	538817	1	1	901	2	Vojtech	Čopák			56	zedník	Podhradí	99	80	A	M
 4101	538868	1	1	901	2	Petr	Kurča	Bc.		42	policista	Pomezí nad Ohří	99	80	A	M
 4101	538906	1	1	1314	2	Radka	Hanušová			44	OSVČ	Milíkov	99	80	A	F
 4101	538922	1	1	901	2	Lenka	Skljarenko Suská			49	účetní	Jesenice	99	80	A	F
@@ -176,10 +176,10 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4101	554511	1	2	902	2	Stanislav	Paclt			44	podnikatel	Drmoul	99	80	A	M
 4101	554529	1	2	364	2	Miroslav	Nezdara	Ing.		69	projektant	Františkovy Lázně	99	80	A	M
 4101	554545	1	2	1114	2	Kateřina	Nováková			42	dělnice ve výrobě	Hazlov	99	1114	A	F
-4101	554553	1	2	7	2	Jiří	Přenosil			41	daňový účetní	Hranice	99	7	A	M
+4101	554553	1	2	7	2	Jiří	Přenosil			41	daňový účetní	Hranice	7	7	A	M
 4101	554600	1	2	1481	2	Michal	Businský	Bc.		42	pracovník ochrany majetku	Lázně Kynžvart	99	80	A	M
 4101	554618	1	2	902	2	Jan	Rossmeisl			37	truhlář	Libá	99	80	A	M
-4101	554626	1	2	902	2	Michaela	Lámerová	Mgr.		57	ředitelka ZŠ a MŠ	Lipová	99	80	A	F
+4101	554626	1	2	902	2	Michaela	Lámerová	Mgr.		57	ředitelka ZŠ a MŠ Lipová	Lipová	99	80	A	F
 4101	554634	1	2	1	2	Naděžda	Vargová	Ing.		39	ředitelka banky	Luby	99	1	A	F
 4101	554642	1	2	1114	2	Martin	Hladík			52	podnikatel ve stavebnictví	Mariánské Lázně	99	1114	A	M
 4101	554677	1	2	901	2	Tomáš	Kožuško			38	řidič	Sítiny	99	80	A	M
@@ -343,7 +343,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4101	554481	1	7	1114	3	Mirko	Majer			77	hokejový trenér	Cheb	99	1114	A	M
 4101	554499	1	7	53	3	Jiřina	Červenková	Mgr.		57	ředitelka školy	Aš	53	53	A	F
 4101	554642	1	7	47	3	Eva	Klestilová			68	podnikatelka	Mariánské Lázně	47	47	A	F
-4101	554642	1	8	1482	3	Radek	Míka			56	vydavatel	Mariánské Lázně	99	80	A	
+4101	554642	1	8	1482	3	Radek	Míka			56	vydavatel	Mariánské Lázně	99	80	A	M
 4101	554481	1	9	1344	3	Libuše	Hoyerová	Mgr.		52	speciální pedagog	Cheb	1	1	A	F
 4101	554642	1	9	720	3	Lukáš	Jadlovský			37	OSVČ	Hamrníky	720	720	A	M
 4101	538795	1	1	901	4	Radek	Janousch			48	vedoucí nástrojárny	Krásná	99	80	A	M
@@ -402,7 +402,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4101	554634	1	2	1	4	Petr	Riedl			54	řidič	Luby	99	1	A	M
 4101	554642	1	2	1114	4	Vilém	Kolaja			46	servisní technik	Hamrníky	1114	1114	A	M
 4101	554677	1	2	901	4	Tomáš	Bělina			36	hasič	Mnichov	99	80	A	M
-4101	554693	1	2	901	4	Nikola	Turnerová			20	zdravotnický asistent	Nebanice	99	80	A	
+4101	554693	1	2	901	4	Nikola	Turnerová			20	zdravotnický asistent	Nebanice	99	80	A	F
 4101	554707	1	2	355	4	Stanislav	Turek			45	školník	Spálená	99	1	A	M
 4101	554740	1	2	902	4	Martin	Polívka			30	sociální pracovník	Plesná	99	80	A	M
 4101	554812	1	2	902	4	Šárka	Bartková	Ing.		44	vedoucí odbytu	Skalná	99	80	A	F
@@ -551,7 +551,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4101	554642	1	5	1415	5	Iva	Langerová			57	ředitelka MŠ	Úšovice	99	80	A	F
 4101	554651	1	5	1114	5	Lumír	Bednařík			37	dělník	Milhostov	99	1114	A	M
 4101	554880	1	5	904	5	Martin	Jirmann			55	automechanik	Tři Sekery	99	80	A	M
-4101	555631	1	5	903	5	Martin	Schönwälder			43	OSVČ	Teplá	99	80	A	
+4101	555631	1	5	903	5	Martin	Schönwälder			43	OSVČ	Teplá	99	80	A	M
 4101	554481	1	6	1118	5	Jan	Hájek	Ing.		32	prokurista společnosti	Cheb	1118	1118	A	M
 4101	554499	1	6	1074	5	Jiří	Jurák	Ing.		57	geodet	Aš	721	721	A	M
 4101	554529	1	6	47	5	Milan	Štěpán			49	dělník	Františkovy Lázně	47	47	A	M
@@ -606,7 +606,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4101	539538	1	2	901	6	Kateřina	Třešňáková	Bc.		34	fyzioterapeutka	Prameny	99	80	A	F
 4101	539554	1	2	902	6	Ján	Pandoš			67	důchodce	Dobroše	99	80	A	M
 4101	554481	1	2	53	6	Josef	Tochor			24	student	Podhrad	53	53	A	M
-4101	554499	1	2	768	6	Miluše Glave	Flašková	Mgr.		48	učitelka ZŠ, několikanásobná mistryně ČR a bývalá trenérka ženské reprezentace silniční cyklistiky	Aš	99	768	A	F
+4101	554499	1	2	768	6	Miluše	Glave Flašková	Mgr.		48	učitelka ZŠ, několikanásobná mistryně ČR a bývalá trenérka ženské reprezentace silniční cyklistiky	Aš	99	768	A	F
 4101	554502	1	2	901	6	Jitka	Kortanová			56	podnikatelka	Dolní Žandov	99	80	A	F
 4101	554511	1	2	902	6	František	Soukup			49	zedník	Drmoul	99	80	A	M
 4101	554529	1	2	364	6	Petra	Löhnertová	Bc.		49	učitelka jazyků, překladatelka	Františkovy Lázně	99	80	A	F
@@ -651,7 +651,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4101	554651	1	4	482	6	Adam	Smik			26	svářeč	Milhostov	99	80	A	M
 4101	554880	1	4	901	6	Jaroslav	Nápravník			57	informatik	Krásné	99	80	A	M
 4101	555631	1	4	901	6	Klára	Berková			39	referent odbytu	Teplá	99	80	A	F
-4101	554481	1	5	47	6	Josef	Kubíčko	Ing.		69	jednatel společnosti	Cheb	47	47	A	
+4101	554481	1	5	47	6	Josef	Kubíčko	Ing.		69	jednatel společnosti	Cheb	47	47	A	M
 4101	554499	1	5	166	6	Vladimír	Kalouš			67	grafik	Aš	99	166	A	M
 4101	554529	1	5	768	6	Vojtěch	Matoušek			44	manažer	Františkovy Lázně	768	768	A	M
 4101	554545	1	5	901	6	Martin	Drozdek			36	podnikatel	Hazlov	99	80	A	M
@@ -686,7 +686,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4101	554499	1	1	785	7	Iveta	Trázníková	Mgr.		48	učitelka	Aš	99	785	A	F
 4101	554502	1	1	1481	7	Roman	Trubka			55	údržbář	Dolní Žandov	99	1118	A	M
 4101	554511	1	1	903	7	Marcel	Katrňák			53	školník a velitel družstva hasičů	Drmoul	99	80	A	M
-4101	554529	1	1	902	7	Marek	Coufar			46	podnikatel	Žírovice	99	80	A	M
+4101	554529	1	1	902	7	Marek	Coufal			46	podnikatel	Žírovice	99	80	A	M
 4101	554545	1	1	540	7	Slavomír	Randis			43	učitel	Vlastislav	99	721	A	M
 4101	554553	1	1	902	7	Jaroslav	Vajgl			51	vedoucí výroby	Hranice	99	80	A	M
 4101	554596	1	1	901	7	Jiří	Rada			66	důchodce	Křižovatka	99	80	A	M
@@ -705,7 +705,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4101	555631	1	1	1508	7	Jan	Veselovský			42	živnostník - elektrikář	Teplá	99	80	A	M
 4101	577979	1	1	1314	7	Zuzana	Ševčíková			34	podnikatel	Ostroh	99	1129	A	F
 4101	538922	1	2	166	7	Radek	Soukup			44	dělník	Jesenice	99	166	A	M
-4101	539023	1	2	902	7	Antonín	Hes			54	OSVČ	Třebeň	99	80	A	
+4101	539023	1	2	902	7	Antonín	Hes			54	OSVČ	Třebeň	99	80	A	M
 4101	539279	1	2	768	7	Jakub	Šťastný	Mgr. Bc.		34	advokát	Velká Hleďsebe	99	768	A	M
 4101	539376	1	2	901	7	Miloslav	Henzl			48	podnikatel	Martinov	99	80	A	M
 4101	539431	1	2	903	7	Milan	Hampejs			59	technik	Milhostov	99	80	A	M
@@ -1091,8 +1091,8 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4101	554642	1	3	1508	12	Vladimír	Kajlik	Dr.	Ph.D., MSI	76	vysokoškolský pedagog	Mariánské Lázně	53	53	A	M
 4101	555631	1	3	902	12	Pavel	Mundil			45	OSVČ	Teplá	99	80	A	M
 4101	554481	1	4	720	12	Barbora	Rybová	Bc.		24	zdravotní záchranář	Cheb	99	720	A	F
-4101	554499	1	4	474	12	Miroslav	Linhart			69	důchodce	Aš	47	47	A	M
-4101	554529	1	4	901	12	Blanka	Hodinková			51	referentka katastrálního úřadu	Slatina	99	80	A	F
+4101	554499	1	4	474	12	Miloslav	Linhart			69	důchodce	Aš	47	47	A	M
+4101	554529	1	4	901	12	Blanka	Hodinková	Ing.		51	referentka katastrálního úřadu	Slatina	99	80	A	F
 4101	554642	1	4	510	12	Jiří	Malý	Ing.		67	technik	Úšovice	99	80	A	M
 4101	555631	1	4	901	12	Josef	Bílek			40	OSVČ	Teplá	99	80	A	M
 4101	554481	1	5	47	12	Stanislav	Kobr	Bc.		65	důchodce	Cheb	99	47	A	M
@@ -1275,7 +1275,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4101	554642	1	5	1415	17	Jan	Podlucký			25	instalatér	Úšovice	99	80	A	M
 4101	554481	1	6	1118	17	Alžběta	Korbičková	BSc.		25	asistentka pedagoga	Cheb	99	1118	A	F
 4101	554499	1	6	1074	17	Martina	Sedláčková			50	personalistka	Aš	99	721	A	F
-4101	554642	1	6	166	17	Miroslava	Dantlingerová	Bc.		40	BOZP specialistka, logistika	Úšovice	99	166	A	F
+4101	554642	1	6	166	17	Miroslava	Dantlingerová	Bc.		40	BOZP specialista, logistika	Úšovice	99	166	A	F
 4101	554481	1	7	1114	17	Petra	Kapková			35	prodavačka	Cheb	99	1114	A	F
 4101	554499	1	7	53	17	Josef	Cimprich			75	aktivní důchodce	Aš	53	53	A	M
 4101	554642	1	7	47	17	Jaromír	Vlček			67	montér	Úšovice	47	47	A	M

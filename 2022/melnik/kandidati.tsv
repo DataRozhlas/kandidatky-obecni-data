@@ -6,9 +6,9 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	531511	1	1	902	1	Petr	Belica			41	podnikatel (OSVČ)	Zlončice	99	80	A	M
 2106	531561	1	1	902	1	Lenka	Čechová			37	manager	Tuhaň	99	80	A	F
 2106	531570	1	1	901	1	Jan	Špaček			71	důchodce	Jestřebice	99	80	A	M
-2106	531651	1	1	801	1	Michal Václav	Hanzelín			47	odborný a sociální asistent	Kanina	99	80	A	
+2106	531651	1	1	801	1	Michal Václav	Hanzelín			47	odborný a sociální asistent	Kanina	99	80	A	M
 2106	531677	1	1	53	1	Eva	Svěrčinová	Mgr.		58	ředitelka kontaktního pracoviště Úřad práce ČR	Lobeč	99	53	A	F
-2106	531707	1	1	901	1	Lenka	Střihavková			50	účetní, OSVČ	Nosálov	99	80	A	
+2106	531707	1	1	901	1	Lenka	Střihavková			50	účetní, OSVČ	Nosálov	99	80	A	F
 2106	531731	1	1	901	1	Štefan	Dvorščík			73	penzista	Stránka	99	80	A	M
 2106	531774	1	1	901	1	Jiří	Hanzel	Ing.		59	hasič	Kadlín	99	80	A	M
 2106	531863	1	1	901	1	Jitka	Štyksová	Ing.		49	starostka	Nedomice	99	80	A	F
@@ -61,7 +61,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	535354	1	1	901	1	Jiří	Čížek			53	starosta	Zálezlice	99	80	A	M
 2106	535389	1	1	166	1	Jan	Krajíček			48	starosta obce	Zlosyň	99	166	A	M
 2106	535397	1	1	802	1	Jana	Brandelová			44	asistentka ředitele	Želízy	99	80	A	F
-2106	538345	1	1	901	1	Jan	Šťastný		DiS.	38	obchodní zástupce ve zdravotnické laboratoři	Kojetice	99	80	A	
+2106	538345	1	1	901	1	Jan	Šťastný		DiS.	38	obchodní zástupce ve zdravotnické laboratoři	Kojetice	99	80	A	M
 2106	538647	1	1	389	1	Martin	Douša			46	key acount manager, přeseda ODS Postřižín	Postřižín	53	53	A	M
 2106	539201	1	1	901	1	Tomáš	Vlasák	Ing.		56	pilot	Dolany nad Vltavou	99	80	A	M
 2106	571784	1	1	902	1	Pavlína	Komeštíková	Mgr.		50	starostka	Libiš	99	80	A	F
@@ -89,7 +89,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	534901	1	2	901	1	Jiří	Přibyl	Ing.		55	vedoucí konstrukce	Kokořín	99	80	A	M
 2106	534935	1	2	53	1	Josef	Chalupa			58	starosta	Kostelec nad Labem	53	53	A	M
 2106	534951	1	2	53	1	Libor	Lesák			57	místostarosta města, člen Rady Středočeského kraje	Kralupy nad Vltavou	53	53	A	M
-2106	535028	1	2	901	1	Jaroslav	Kerpl			39	supervisor maintenance	Lužec nad Vltavou	99	80	A	
+2106	535028	1	2	901	1	Jaroslav	Kerpl			39	supervisor maintenance	Lužec nad Vltavou	99	80	A	M
 2106	535036	1	2	166	1	David	Hiršal	Ing.		33	vedoucí servisu	Jelenice	99	166	A	M
 2106	535044	1	2	470	1	Marcela	Hrejsová	Ing.		56	ředitelka SOŠ a SOU Neratovice	Vysoká Libeň	99	80	A	F
 2106	535052	1	2	902	1	Jiří	Říha			36	vedoucí střediska údržby komunikací	Mšeno	99	80	A	M
@@ -161,7 +161,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	535087	1	4	387	1	Hana	Vojtová			56	profesorka	Neratovice - Lobkovice	47	47	A	F
 2106	535117	1	4	901	1	Renáta	Hakrová	Ing.		41	OSVČ, místostarostka	Staré Ouholice	99	80	A	F
 2106	535192	1	4	389	1	Barbora	Horáčková	Mgr.		25	student	Spomyšl	99	80	A	F
-2106	535222	1	4	387	1	Tereza	Čechová Humpolcová	Mgr. Ing.	Ph.D.	35	profesorka	Tišice	47	47	A	
+2106	535222	1	4	387	1	Tereza	Čechová Humpolcová	Mgr. Ing.	Ph.D.	35	profesorka	Tišice	47	47	A	F
 2106	535338	1	4	903	1	Lucia	Dittrtová	Ing.		54	ekonom	Bosyně	99	80	A	F
 2106	535397	1	4	801	1	Miroslav	Steinz	Ing.		34	hasič, OSVČ	Želízy	99	80	A	M
 2106	571784	1	4	477	1	Pavel	Fogl	Mgr.		46	OSVČ	Libiš	714	714	A	M
@@ -225,7 +225,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	531677	1	1	53	2	Olga	Vanická			49	v domácnosti	Lobeč	99	53	A	F
 2106	531707	1	1	901	2	Jaroslava	Básnerová			55	obsluha rozhledny	Nosálov - Libovice	99	80	A	F
 2106	531731	1	1	901	2	Jaroslava	Kloudová			54	distribuční manažer	Stránka	99	80	A	F
-2106	531774	1	1	901	2	Jana	Podráská			49	pracovník v sociálních službách	Kadlín	99	80	A	
+2106	531774	1	1	901	2	Jana	Podráská			49	pracovník v sociálních službách	Kadlín	99	80	A	F
 2106	531863	1	1	901	2	Ondřej	Ječný	Ing.		37	státní zaměstnanec	Nedomice	99	80	A	M
 2106	531871	1	1	901	2	Petr	Duchoslav			39	technik správy nemovitostí	Jeviněves	99	80	A	M
 2106	531928	1	1	902	2	Dominika	Kontrová	Bc.		23	studentka veřejné správy, reg. rozvoje Česká zemědělská univerzita v Praze	Hostín u Vojkovic	99	80	A	F
@@ -255,7 +255,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	535052	1	1	364	2	Hana	Nečasová	Mgr.		53	zástupkyně ředitelky ZŠ	Mšeno	99	80	A	F
 2106	535061	1	1	904	2	Jan	Čermák	Ing.		73	starosta obce	Nebužely	99	80	A	M
 2106	535079	1	1	901	2	Zdeněk	Schneider			57	místostarosta	Nelahozeves	99	80	A	M
-2106	535087	1	1	1521	2	Marcela	Brodilová	Mgr.		68	odbornice v oblasti sociální politiky	Neratovice	99	80	A	
+2106	535087	1	1	1521	2	Marcela	Brodilová	Mgr.		68	odbornice v oblasti sociální politiky	Neratovice	99	80	A	F
 2106	535117	1	1	902	2	Petr	Štorek	Ing.		49	výkonný ředitel	Staré Ouholice	99	80	A	M
 2106	535133	1	1	901	2	Libor	Tichota			31	prodejní referent Cayman Pharma, s.r.o.	Obříství	99	80	A	M
 2106	535141	1	1	901	2	Jaroslav	Křeček			45	OSVČ	Ovčáry	99	80	A	M
@@ -322,11 +322,11 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	531651	1	3	902	2	Miroslav	Šupola			41	řidič	Kanina	99	80	A	M
 2106	534676	1	3	1252	2	Dominik	Malinský			26	strojník	Mělník	1252	1252	A	M
 2106	534714	1	3	903	2	Zuzana	Beníšková	Ing.		32	učitelka	Býkev	99	80	A	F
-2106	534731	1	3	470	2	Kateřina	Mynaříková	Ing.		42	energetický manažer	Cítov	99	80	A	
+2106	534731	1	3	470	2	Kateřina	Mynaříková	Ing.		42	energetický manažer	Cítov	99	80	A	F
 2106	534790	1	3	389	2	Jiří	Svačina			70	starosta	Horní Počaply	53	53	A	M
 2106	534803	1	3	903	2	Jan	Žižka	Ing.		51	hasič	Hořín	99	80	A	M
 2106	534897	1	3	166	2	Jiří	Král			51	hasič	Kly	99	166	A	M
-2106	534935	1	3	901	2	Jan Havlík	Ph.D.	Ing.		47	vysokoškolský pedagog	Kostelec nad Labem	99	80	A	M
+2106	534935	1	3	901	2	Jan	Havlík	Ing.	Ph.D.	47	vysokoškolský pedagog	Kostelec nad Labem	99	80	A	M
 2106	534951	1	3	532	2	Tomáš	Pekárek			39	vědecký pracovník, podnikatel	Lobeček	768	768	A	M
 2106	535028	1	3	53	2	Patrik	Rollo			49	starosta	Lužec nad Vltavou	99	53	A	M
 2106	535044	1	3	901	2	Pavlína	Saifrtová			39	učitelka v MŠ	Mělnické Vtelno	99	80	A	F
@@ -359,9 +359,9 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	534676	1	5	411	2	Jiří	Rejman	Mgr.		50	novinář, komentátor	Mělník	99	80	A	M
 2106	534951	1	5	427	2	Luboš	Truhlář	Ing.		35	IT poradce	Kralupy nad Vltavou	99	80	A	M
 2106	535061	1	5	905	2	Jana	Nováková			37	mateřská dovolená	Nebužely	99	80	A	F
-2106	535087	1	5	902	2	Pavel	Novotný	Ing.		46	lesní inženýr, manažer, obchodník	Neratovice	99	80	A	
+2106	535087	1	5	902	2	Pavel	Novotný	Ing.		46	lesní inženýr, manažer, obchodník	Neratovice	99	80	A	M
 2106	535222	1	5	371	2	Bohuslav	Štolba	Ing.		70	středoškolský pedagog	Tišice	7	7	A	M
-2106	571784	1	5	470	2	Vladimír	Liebezeit			65	OSVČ	Libiš	99	166	A	
+2106	571784	1	5	470	2	Vladimír	Liebezeit			65	OSVČ	Libiš	99	166	A	M
 2106	535087	1	6	901	2	Marek	Duchoslav			35	firemní bankéř	Neratovice	99	80	A	M
 2106	535222	1	6	903	2	Artur	Rybář	Bc.		54	technik BOZP a PO	Tišice - Kozly	99	80	A	M
 2106	571784	1	6	1245	2	Filip	Mírek			44	OSVČ	Libiš	99	1245	A	M
@@ -439,12 +439,12 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	598291	1	1	901	3	Václav	Landsinger			50	hlavní technik	Čakovičky	99	80	A	M
 2106	529575	1	2	902	3	Dana	Miková			53	pokladní	Medonosy	99	80	A	F
 2106	531511	1	2	901	3	Dagmar	Skalníková	PaedDr.		61	OSVČ	Zlončice	99	80	A	F
-2106	531561	1	2	1265	3	Roman	Till			44	kuchař	Tuhaň	1265	1265	A	
+2106	531561	1	2	1265	3	Roman	Till			44	kuchař	Tuhaň	1265	1265	A	M
 2106	531651	1	2	903	3	Martin	Gaj			38	facility specialista	Kanina	99	80	A	M
 2106	531928	1	2	901	3	Kateřina	Nociarová			37	rodičovská dovolená	Hostín u Vojkovic	99	80	A	F
 2106	534676	1	2	449	3	Jan	Lank	Mgr.		56	ředitel společnosti TRIO-INTERIER	Mělník	99	129	A	M
 2106	534714	1	2	901	3	Radka	Hrnčířová			48	projektant	Býkev	99	80	A	F
-2106	534722	1	2	389	3	František	Viktorin	Mgr.		51	ředitel ZŠ a MŠ Byšice	Byšice	99	53	A	
+2106	534722	1	2	389	3	František	Viktorin	Mgr.		51	ředitel ZŠ a MŠ Byšice	Byšice	99	53	A	M
 2106	534731	1	2	901	3	Veronika	Ederová			36	manažerka	Cítov	99	80	A	F
 2106	534749	1	2	901	3	Josef	Najman			47	řidič	Čečelice	99	80	A	M
 2106	534790	1	2	119	3	Václav	Škaloud			54	elektromechanik	Horní Počaply	119	119	A	M
@@ -452,7 +452,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	534838	1	2	901	3	Michal	Puc	Bc.		37	nákupčí v autom. průmyslu	Chorušice	99	80	A	M
 2106	534897	1	2	902	3	Roman	Truneček	Ing. arch.		53	autorizovaný projektant	Záboří	99	80	A	M
 2106	534901	1	2	901	3	Miloslava	Havlíčková	PhDr.		69	odborná pracovnice muzea	Kokořín	99	80	A	F
-2106	534935	1	2	53	3	Miroslav	Okluský	Ing.		59	biomedicínský inženýr	Kostelec nad Labem	99	53	A	
+2106	534935	1	2	53	3	Miroslav	Okluský	Ing.		59	biomedicínský inženýr	Kostelec nad Labem	99	53	A	M
 2106	534951	1	2	53	3	Jiřina	Hereinová	Mgr.		65	ředitelka ZŠ Komenského nám., předsedkyně městské komise školské a prevence kriminality	Kralupy nad Vltavou	53	53	A	F
 2106	535028	1	2	901	3	Martin	Kučaba			40	manažer pobočky	Lužec nad Vltavou	99	80	A	M
 2106	535036	1	2	166	3	Andrea	Haufová	Ing. Bc.		37	středoškolský pedagog	Malý Újezd	99	166	A	F
@@ -523,7 +523,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	535087	1	6	901	3	Pavel	Kočí			32	firemní bankéř	Neratovice	99	80	A	M
 2106	535222	1	6	903	3	Kristína	Částková	Ing.		45	zástupce ředitele	Tišice - Kozly	99	80	A	F
 2106	571784	1	6	1245	3	Martina	Novotná			31	učitelka	Libiš	99	1245	A	F
-2106	534676	1	7	529	3	Jakub	Kafka			35	obchodní zástupce	Mělník	99	720	A	
+2106	534676	1	7	529	3	Jakub	Kafka			35	obchodní zástupce	Mělník	99	720	A	M
 2106	535087	1	7	53	3	Petr	Vrána			20	student VŠ, web designér a PR konzultant	Neratovice	53	53	A	M
 2106	571784	1	7	901	3	Marek	Ryšlavý			46	technik	Libiš	99	80	A	M
 2106	534676	1	8	768	3	Michaela	Mourková			44	realitní makléř	Mělník	99	768	A	F
@@ -533,7 +533,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	534676	1	10	477	3	Otto	Ečer	Mgr.	DiS.	40	předškolní a speciální pedagog	Mělník	99	714	A	M
 2106	534676	1	11	497	3	Michal	Naimann	Bc.		35	nákupčí, profesionální sportovec	Mělník	716	716	A	M
 2106	534676	1	12	687	3	Jindřich	Špergl	JUDr.		40	podnikatel, majitel Autobusy Mělník s.r.o.	Mělník	99	721	A	M
-2106	529575	1	1	901	4	Antonín	Kuča			67	důchodce	Chudolazy	99	80	A	
+2106	529575	1	1	901	4	Antonín	Kuča			67	důchodce	Chudolazy	99	80	A	M
 2106	531502	1	1	901	4	Jaroslav	Efler			49	dělník	Liblice	99	80	A	M
 2106	531511	1	1	902	4	Michal	Švihnos	Mgr.		37	e-commerce manager	Zlončice	99	80	A	M
 2106	531561	1	1	902	4	Lenka	Vallová	Ing.		48	finanční manager	Tuhaň	99	80	A	F
@@ -600,7 +600,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	531561	1	2	1265	4	Andrea	Heissler Klaudy	Mgr.		43	učitelka na ZŠ	Tuhaň	99	1265	A	F
 2106	531651	1	2	903	4	Marta	Kalužná			30	zahradník - aranžér	Kanina	99	80	A	F
 2106	531928	1	2	901	4	Jiří	Linhart			46	automatický systém řízení Tamero Invest	Hostín u Vojkovic	99	80	A	M
-2106	534676	1	2	449	4	Lenka	Ságnerová	Mgr. Bc.	Dipl. erg.	46	rodinný terapeut, lektor	Mělník	99	80	A	
+2106	534676	1	2	449	4	Lenka	Ságnerová	Mgr. Bc.	Dipl. erg.	46	rodinný terapeut, lektor	Mělník	99	80	A	F
 2106	534714	1	2	901	4	Ivan	Šlajs	Mgr.		46	manažer	Býkev	99	80	A	M
 2106	534722	1	2	389	4	Vladimíra	Chalupová	Ing.		45	odborná referentka VZP	Byšice	99	53	A	F
 2106	534731	1	2	901	4	Jakub	Kaňkovský			23	vedoucí pobočky oční optiky	Cítov	99	80	A	M
@@ -645,7 +645,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	534951	1	3	532	4	Filip	Prantl			42	podnikatel	Mikovice	99	768	A	M
 2106	535028	1	3	53	4	Tomáš	Hikl			44	obsluha ČOV	Lužec nad Vltavou	99	53	A	M
 2106	535044	1	3	901	4	Martin	Videman	Ing.		56	technický vedoucí	Vysoká Libeň	99	80	A	M
-2106	535052	1	3	901	4	Jaromír	Flígl			59	úředník	Mšeno	99	80	A	
+2106	535052	1	3	901	4	Jaromír	Flígl			59	úředník	Mšeno	99	80	A	M
 2106	535061	1	3	902	4	Lukáš	Novák			35	vedoucí skladu	Nebužely	99	80	A	M
 2106	535079	1	3	902	4	Markéta	Hanáková			41	účetní a daňová metodička s mezinárodní praxí	Lešany	99	80	A	F
 2106	535087	1	3	1114	4	Květa	Halašková			65	sekretářka ředitele	Neratovice	99	1114	A	F
@@ -674,7 +674,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	534676	1	5	411	4	Vilém	Kraus			43	podnikatel - vinař	Mělník	99	80	A	M
 2106	534951	1	5	427	4	Vladimír	Vymětalík	Ing.	PhD.	41	stavební specialista	Lobeček	99	80	A	M
 2106	535061	1	5	905	4	Milan	Havlík			33	strojník	Nebužely	99	80	A	M
-2106	535087	1	5	902	4	Rostislav	Vebr			56	strojvedoucí - instruktor, zastupitel	Neratovice	99	80	A	
+2106	535087	1	5	902	4	Rostislav	Vebr			56	strojvedoucí - instruktor, zastupitel	Neratovice	99	80	A	M
 2106	535222	1	5	371	4	Jan	Vacek			46	technik	Tišice - Kozly	7	7	A	M
 2106	571784	1	5	470	4	Michal	Němec			43	státní zaměstnanec	Libiš	99	166	A	M
 2106	535087	1	6	901	4	Jaroslav	Mikeš	Mgr.		36	manažer prevence kriminality	Neratovice	99	80	A	M
@@ -841,10 +841,10 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	571784	1	7	901	5	Jaroslav	Janda			57	dělník	Libiš	99	80	A	M
 2106	534676	1	8	768	5	Pavel	Dušek	Ing.		61	podnikatel ve stavebnictví	Mělník	768	768	A	M
 2106	535087	1	8	480	5	Ondřej	Hergesell	Ing.		46	žurnalista, pořadatel Festivalu piva v Neratovicích	Neratovice	99	80	A	M
-2106	571784	1	8	449	5	Lukáš	Liebezeit			40	OSVČ	Libiš	99	80	A	
+2106	571784	1	8	449	5	Lukáš	Liebezeit			40	OSVČ	Libiš	99	80	A	M
 2106	534676	1	9	470	5	Lucie	Línková	Mgr.		41	manažerka řízení dotačních projektů Středočeského kraje	Mělník	99	80	A	F
 2106	534676	1	10	477	5	Filip	Timbaris			37	instruktor bojových umění	Mělník	99	714	A	M
-2106	534676	1	11	497	5	Viktorie	Valdová	Ing.		25	marketingový manager v Pivovaře	Mělník	99	80	A	
+2106	534676	1	11	497	5	Viktorie	Valdová	Ing.		25	marketingový manager v Pivovaře	Mělník	99	80	A	F
 2106	534676	1	12	687	5	Drahomíra	Pavlíková	PhDr.		51	ředitelka Centra seniorů Mělník	Mělník	99	53	A	F
 2106	529575	1	1	901	6	Arjana	Benešová			50	OSVČ	Chudolazy	99	80	A	F
 2106	531502	1	1	901	6	Kamil	Kmeťo			29	technik	Liblice	99	80	A	M
@@ -854,7 +854,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	531677	1	1	53	6	Zuzana	Pavlíková - Šimonková	Ing.		47	podnikatelka	Lobeč	53	53	A	F
 2106	531707	1	1	901	6	Michal	Fiedler			48	prokurista	Nosálov	99	80	A	M
 2106	531731	1	1	901	6	Lubor	Saska			56	pracovník správy silnic	Stránka	99	80	A	M
-2106	531774	1	1	901	6	Miroslava	Sčípová			44	pracovnice v sociálních službách	Kadlín	99	80	A	F
+2106	531774	1	1	901	6	Miroslava	Ščípová			44	pracovnice v sociálních službách	Kadlín	99	80	A	F
 2106	531863	1	1	901	6	Josef	Kubánek			42	servisní technik	Nedomice	99	80	A	M
 2106	531871	1	1	901	6	Kateřina	Hegrová	Mgr.		35	administrativní pracovnice	Jeviněves	99	80	A	F
 2106	531928	1	1	902	6	Jiří	Bican			54	výrobní technik	Hostín u Vojkovic	99	80	A	M
@@ -899,7 +899,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	535303	1	1	901	6	Ondřej	Mamula	Ing.	MBA	49	výzkumný pracovník	Vraňany	99	80	A	M
 2106	535311	1	1	901	6	Hana	Pavlinská			65	důchodce	Všestudy	99	80	A	F
 2106	535320	1	1	901	6	Jiří	Hošek	Ing.		50	oblastní manažer	Přívory	99	80	A	M
-2106	535338	1	1	902	6	Václav	Habák			40	zemědělec	Vysoká	99	80	A	
+2106	535338	1	1	902	6	Václav	Habák			40	zemědělec	Vysoká	99	80	A	M
 2106	535354	1	1	901	6	Jiří	Jelínek			71	důchodce	Zálezlice	99	80	A	M
 2106	535389	1	1	166	6	Ladislav	Kubíček	Ing.		40	stavební inženýr	Zlosyň	99	166	A	M
 2106	538345	1	1	901	6	Jiří	Šrámek			42	logistický manažer	Kojetice	99	80	A	M
@@ -946,7 +946,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	538647	1	2	901	6	Lenka	Gvuzdová			34	privátní bankéř – t. č. MD	Postřižín	99	80	A	F
 2106	571784	1	2	903	6	Martina	Mrózová			43	kadeřnice - OSVČ	Libiš	99	80	A	F
 2106	571792	1	2	166	6	Radomil	Rubeš			58	včelař	Kozomín	99	166	A	M
-2106	598291	1	2	902	6	Otto	Kovařík	Bc.		36	IT manažer	Čakovičky	99	80	A	
+2106	598291	1	2	902	6	Otto	Kovařík	Bc.		36	IT manažer	Čakovičky	99	80	A	M
 2106	531561	1	3	901	6	Tereza	Dudková			26	skladová operátorka	Tuhaň	99	80	A	F
 2106	534714	1	3	903	6	Martina	Nováková			41	specialista stavebniny	Býkev	99	80	A	F
 2106	534731	1	3	470	6	Jana	Ečerová	Ing.		41	manažer	Cítov	99	80	A	F
@@ -983,16 +983,16 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	535192	1	4	389	6	Karolína	Kubálková			25	administrativa - referent majetkové správy	Spomyšl	99	80	A	F
 2106	535338	1	4	903	6	Petr	Jindráček			47	podnikatel v oboru informačních technologií a inteligentních elektroinstalací	Bosyně	99	80	A	M
 2106	571784	1	4	477	6	Jiří	Derfl			33	OSVČ	Libiš	99	80	A	M
-2106	534676	1	5	411	6	Marie	Urbánková	Mgr. et Bc.	MBA	60	ředitelka základní školy	Mělník	99	80	A	
+2106	534676	1	5	411	6	Marie	Urbánková	Mgr. et Bc.	MBA	60	ředitelka základní školy	Mělník	99	80	A	F
 2106	534951	1	5	427	6	Věra	Špačková	Mgr.		59	ředitelka školy	Kralupy nad Vltavou	99	80	A	F
 2106	535061	1	5	905	6	Petra	Jáchymstálová	Ing.		57	ekonomka	Nebužely	99	80	A	F
-2106	535087	1	5	902	6	Jana	Szeryńská	Bc.		46	marketingová asistentka, učitelka	Neratovice	720	80	A	
+2106	535087	1	5	902	6	Jana	Szeryńská	Bc.		46	marketingová asistentka, učitelka	Neratovice	720	80	A	F
 2106	535222	1	5	371	6	Petr	Rohal			51	řidič	Tišice Kozly	99	80	A	M
 2106	571784	1	5	470	6	Josef	Vaniš			57	strojvedoucí	Libiš	99	166	A	M
 2106	535087	1	6	901	6	Milan	Jiřička			46	hasič, velitel směny HZS podniku	Neratovice	99	80	A	M
 2106	535222	1	6	903	6	Michaela	Binderová	Bc.		53	pedagog	Tišice - Chrást	99	80	A	F
 2106	571784	1	6	1245	6	Jan	Novotný			34	svářeč plastu	Libiš	99	1245	A	M
-2106	534676	1	7	529	6	Miroslava	Soukupová	Ing.		39	věda a výzkum v ochraně ŽP	Mělník	99	80	A	
+2106	534676	1	7	529	6	Miroslava	Soukupová	Ing.		39	věda a výzkum v ochraně ŽP	Mělník	99	80	A	F
 2106	535087	1	7	53	6	Veronika	Luňáková	Mgr.		32	tajemnice České komory farmaceutických asistentů	Neratovice	53	53	A	F
 2106	571784	1	7	901	6	Jaroslava	Vetešníková			39	asistentka prodeje elektro	Libiš	99	80	A	F
 2106	534676	1	8	768	6	Petr	Kalkant			59	vedoucí prodejny	Mělník	99	768	A	M
@@ -1092,7 +1092,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	535141	1	2	902	7	Michal	Zedník			36	hasič	Ovčáry	99	80	A	M
 2106	535168	1	2	901	7	Ivan	Horák	Ing.		46	celník	Řepín	99	80	A	M
 2106	535192	1	2	166	7	Šarlota	Šípošová			52	dělnice	Spomyšl	99	166	A	F
-2106	535214	1	2	1482	7	Zbyšek	Hrstka			57	zaměstnanec servisu THIM	Jenichov	99	80	A	
+2106	535214	1	2	1482	7	Zbyšek	Hrstka			57	zaměstnanec servisu THIM	Jenichov	99	80	A	M
 2106	535222	1	2	901	7	Matyáš	Markl			34	školník	Chrást	99	80	A	M
 2106	535265	1	2	387	7	Pavel	Fiala			36	jednatel společnosti	Velký Borek	99	80	A	M
 2106	535273	1	2	541	7	Nikola	Klečková			18	studentka Dvořákova gymnázia	Veltrusy	99	720	A	F
@@ -1147,12 +1147,12 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	535087	1	6	901	7	Petr	Vokšický	Mgr.		53	hydrogeolog	Neratovice	99	80	A	M
 2106	535222	1	6	903	7	Květa	Pokorná			46	kuchařka	Tišice - Kozly	99	80	A	F
 2106	571784	1	6	1245	7	Marcela	Horáková			42	administrativní pracovnice	Libiš	99	1245	A	F
-2106	534676	1	7	529	7	Aida	Líhová Legnerová	Mgr.		54	výtvarnice a středoškolská profesorka	Mělník	99	720	A	
+2106	534676	1	7	529	7	Aida	Líhová Legnerová	Mgr.		54	výtvarnice a středoškolská profesorka	Mělník	99	720	A	F
 2106	535087	1	7	53	7	Aleš	Dlouhý	Ing.		41	manažer prodeje nových vozů	Neratovice	53	53	A	M
 2106	571784	1	7	901	7	Jan	Antonín			48	tesař - OSVČ	Libiš	99	80	A	M
 2106	534676	1	8	768	7	Lucie	Kovářová	Mgr.		34	účetní	Mělník	768	768	A	F
 2106	535087	1	8	480	7	Ladislav	Židoň	Mgr.		46	manažer v polygrafickém průmyslu	Neratovice	99	80	A	M
-2106	571784	1	8	449	7	Jakub	Janda			34	technik	Libiš	99	80	A	
+2106	571784	1	8	449	7	Jakub	Janda			34	technik	Libiš	99	80	A	M
 2106	534676	1	9	470	7	Petr	Vondrouš			28	projektový manažer	Mělník	99	80	A	M
 2106	534676	1	10	477	7	Václav	Koros			31	OSVČ	Mělník	99	714	A	M
 2106	534676	1	11	497	7	Jitka	Samková Volemanová	Mgr.		53	učitelka ZŠ	Mělník	99	80	A	F
@@ -1183,7 +1183,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	535001	1	1	901	8	Jan	Balogh			53	stavbyvedoucí	Liběchov	99	80	A	M
 2106	535028	1	1	902	8	Ondřej	Kladiva			51	policista	Chramostek	99	80	A	M
 2106	535036	1	1	901	8	Roman	Trnka			52	ředitel hotelu	Jelenice	99	80	A	M
-2106	535044	1	1	902	8	Věra Lucie	Válová	Ing.		51	referent - Životní prostředí a zemědělství	Mělnické Vtelno	99	80	A	
+2106	535044	1	1	902	8	Věra Lucie	Válová	Ing.		51	referent - Životní prostředí a zemědělství	Mělnické Vtelno	99	80	A	F
 2106	535052	1	1	364	8	Tomáš	Uher			46	realitní poradce	Mšeno	99	80	A	M
 2106	535079	1	1	901	8	Tereza	Popková			30	knihkupec	Hleďsebe 1. díl	99	80	A	F
 2106	535087	1	1	1521	8	Petra	Dundrová	Mgr.	DiS.	53	sociální pracovnice	Neratovice	99	80	A	F
@@ -1214,7 +1214,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	534714	1	2	901	8	Zdeňka	Kvídová			51	dělnice	Býkev	99	80	A	F
 2106	534722	1	2	389	8	Martin	Hora			47	programátor a vývojář SW	Byšice	99	53	A	M
 2106	534731	1	2	901	8	Jiří	Vališ			49	podnikatel	Cítov	99	80	A	M
-2106	534749	1	2	901	8	Jan	Langmajer	Bc.		27	Project/Product Manager Junior	Čečelice	99	80	A	
+2106	534749	1	2	901	8	Jan	Langmajer	Bc.		27	Project/Product Manager Junior	Čečelice	99	80	A	M
 2106	534790	1	2	119	8	Stanislav	Grohman			42	podnikatel	Horní Počaply	99	119	A	M
 2106	534803	1	2	901	8	Matěj	Sedláček			23	OSVČ	Vrbno	99	80	A	M
 2106	534838	1	2	901	8	Zuzana	Novotná	Ing.	DiS.	41	ekonomka	Velký Újezd	99	80	A	F
@@ -1349,7 +1349,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	534749	1	2	901	9	Jiří	Szen			29	živnostník	Čečelice	99	80	A	M
 2106	534790	1	2	119	9	Pavel	Březina			58	zemědělec	Horní Počaply	99	119	A	M
 2106	534803	1	2	901	9	Jana	Šmíd Winterová	Ing.	MPA	38	státní zaměstnanec	Vrbno	99	80	A	F
-2106	534838	1	2	901	9	Natálie	Tichá			19	studentka	Chorušice	99	80	A	
+2106	534838	1	2	901	9	Natálie	Tichá			19	studentka	Chorušice	99	80	A	F
 2106	534897	1	2	902	9	Martin	Malý			47	soukromý podnikatel	Kly	99	80	A	M
 2106	534901	1	2	901	9	Jiří	Kopernický			70	důchodce	Kokořín	99	80	A	M
 2106	534935	1	2	53	9	Ivana	Matková	Ing.		57	podnikatelka	Kostelec nad Labem	99	53	A	F
@@ -1379,7 +1379,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	534897	1	3	166	9	Tomáš	Troják			45	podnikatel	Záboří	99	166	A	M
 2106	534935	1	3	901	9	Radim	Zurynek			48	elektromontér	Kostelec nad Labem	99	80	A	M
 2106	534951	1	3	532	9	Hana	Uhlířová			41	staniční sestra	Lobeček	99	768	A	F
-2106	535028	1	3	53	9	Stanislav	Moskáľ			32	strojník	Lužec nad Vltavou	99	53	A	
+2106	535028	1	3	53	9	Stanislav	Moskáľ			32	strojník	Lužec nad Vltavou	99	53	A	M
 2106	535044	1	3	901	9	Jiří	Doležal			51	OSVČ	Vysoká Libeň	99	80	A	M
 2106	535052	1	3	901	9	Dana	Svobodová			53	ředitelka MŠ	Mšeno	99	80	A	F
 2106	535079	1	3	902	9	Jiří	Horník	Ing.	MBA	40	projektový manažer v oblasti informačních technologií	Lešany	99	80	A	M
@@ -1410,7 +1410,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	535087	1	6	901	9	Jakub	Frank	Ing.		33	podnikatel	Neratovice	99	80	A	M
 2106	535222	1	6	903	9	Karolína	Křivská			25	fotbalistka	Tišice - Chrást	99	80	A	F
 2106	571784	1	6	1245	9	Daniela	Opltová			43	Category management	Libiš	99	1245	A	F
-2106	534676	1	7	529	9	Bedřich	Marjanko	PhDr.		65	historik	Mělník	99	720	A	
+2106	534676	1	7	529	9	Bedřich	Marjanko	PhDr.		65	historik	Mělník	99	720	A	M
 2106	535087	1	7	53	9	Vladimír	Parusnikov			42	"""PIŇĎA"" - vedoucí A týmu HC Buldoci"	Neratovice	99	53	A	M
 2106	571784	1	7	901	9	Augustin	Šimončič			65	důchodce	Libiš	99	80	A	M
 2106	534676	1	8	768	9	Dagmar	Strouhalová	Mgr.		65	lektorka	Mělník	768	768	A	F
@@ -1514,7 +1514,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	534951	1	3	532	11	Antonín	Komárek	Ing.		79	trenér mládeže	Lobeček	99	768	A	M
 2106	535028	1	3	53	11	Hana	Zavázalová			52	servírka	Lužec nad Vltavou	99	53	A	F
 2106	535052	1	3	901	11	Milena	Maštalířová			47	sestra v DS	Mšeno	99	80	A	F
-2106	535087	1	3	1114	11	Tomáš	Šanda			33	elektrikář	Neratovice Byškovice	1114	1114	A	
+2106	535087	1	3	1114	11	Tomáš	Šanda			33	elektrikář	Neratovice Byškovice	1114	1114	A	M
 2106	535133	1	3	1305	11	Pavlína	Hyková			42	účetní	Obříství	99	1114	A	F
 2106	535222	1	3	904	11	Zuzana	Rybářová	Bc.	DiS.	33	technik BOZP a PO	Tišice - Kozly	99	80	A	F
 2106	535273	1	3	901	11	Marta	Hrdličková			46	analytik, na mateřské dovolené	Veltrusy	99	80	A	F
@@ -1581,7 +1581,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2106	571784	1	5	470	12	Pavel	Šerák			41	vedoucí provozu	Libiš	99	166	A	M
 2106	535087	1	6	901	12	Kateřina	Šebestová			33	učitelka	Neratovice	99	80	A	F
 2106	571784	1	6	1245	12	Vladimíra	Nováková			56	vedoucí odboru pojištění	Libiš	99	1245	A	F
-2106	534676	1	7	529	12	Tomáš	Vlček	Mgr.		58	Doktorand Institut komunikačních studií a žurnalistiky, FSV UK	Mělník	99	720	A	
+2106	534676	1	7	529	12	Tomáš	Vlček	Mgr.		58	Doktorand Institut komunikačních studií a žurnalistiky, FSV UK	Mělník	99	720	A	M
 2106	535087	1	7	53	12	Daniel	Kašpar	Ing.		44	specialista Asset Managementu	Neratovice	53	53	A	M
 2106	571784	1	7	901	12	Karel	Dvořák			68	důchodce	Libiš	99	80	A	M
 2106	534676	1	8	768	12	Lukáš	Brožek			38	podnikatel v oblasti služeb	Mělník	99	768	A	M

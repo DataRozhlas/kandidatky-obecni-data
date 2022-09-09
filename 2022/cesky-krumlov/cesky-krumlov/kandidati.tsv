@@ -22,7 +22,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	545392	1	10	1022	2	Robin	Schinko	Ing. arch.		63	architekt	Latrán	99	1022	A	M
 3102	545392	1	11	1	2	Radim	Rouče	Mgr.		37	právník, ředitel úřadu	Horní Brána	99	1	A	M
 3102	545392	1	1	1481	3	Jana	Suchá			58	porodní asistentka	Plešivec	99	1118	A	F
-3102	545392	1	2	53	3	Jiří	Čtvrtník			57	ředitel společnosti	Plešivec	53	53	A	M
+3102	545392	1	2	53	3	Jiří	Čtvrtník	Ing. Bc.		57	ředitel společnosti	Plešivec	53	53	A	M
 3102	545392	1	3	401	3	Jan	Sommer			43	fotograf, kameraman	Nové Spolí	99	88	A	M
 3102	545392	1	4	364	3	Vendula	Pohlová	Ing.		39	vedoucí kontaktního pracoviště Úřadu práce	Domoradice	99	80	A	F
 3102	545392	1	5	477	3	Jiří	Kopal	MUC. Bc.		32	student 6. roč. všeobecného lékařství	Horní Brána	99	714	A	M
@@ -44,7 +44,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	545392	1	10	1022	4	Marie	Hlušková	Mgr.		41	sociální pracovnice, psychoterapeutka	Horní Brána	99	1022	A	F
 3102	545392	1	11	1	4	Roman	Kneifl	Mgr.		59	středoškolský učitel	Vyšný	99	1	A	M
 3102	545392	1	1	1481	5	David	Kopenec			46	podnikatel	Plešivec	99	1118	A	M
-3102	545392	1	2	53	5	Kateřina	Slavíková			55	stavební inženýrka	Plešivec	53	53	A	F
+3102	545392	1	2	53	5	Kateřina	Slavíková	Ing.		55	stavební inženýrka	Plešivec	53	53	A	F
 3102	545392	1	3	401	5	Miroslava	Augustinová			53	OSVČ - terapeutka tradiční čínské medicíny	Nádražní Předměstí	99	80	A	F
 3102	545392	1	4	364	5	Milada	Filipová	MUDr.		64	lékařka	Vnitřní Město	99	80	A	F
 3102	545392	1	5	477	5	Eva	Koblasová			38	vedoucí pracovnice	Domoradice	99	714	A	F
@@ -55,7 +55,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	545392	1	10	1022	5	Oto	Šrámek	Ing.		54	stavbyvedoucí, turistický průvodce	Plešivec	99	1022	A	M
 3102	545392	1	11	1	5	Naděžda	Perníková			48	podnikatelka	Vyšný	99	1	A	F
 3102	545392	1	1	1481	6	Zuzana	Pekárková	Bc.		30	instruktorka plavání dětí	Plešivec	99	80	A	F
-3102	545392	1	2	53	6	Tomáš	Kubát			46	informatik	Nádražní Předměstí	53	53	A	M
+3102	545392	1	2	53	6	Tomáš	Kubát	Bc.		46	informatik	Nádražní Předměstí	53	53	A	M
 3102	545392	1	3	401	6	Tomáš	Šťastný			40	podnikatel	Plešivec	99	80	A	M
 3102	545392	1	4	364	6	Kateřina	Kuchtová			23	studentka AVU	Vnitřní Město	5	5	A	F
 3102	545392	1	5	477	6	Renata	Velková	Mgr.		32	vedoucí marketingového oddělení	Domoradice	99	80	A	F
@@ -66,7 +66,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	545392	1	10	1022	6	Jaroslav	Rada			45	podnikatel	Horní Brána	99	1022	A	M
 3102	545392	1	11	1	6	Markéta	Frantová	Ing. arch.		39	architektka	Horní Brána	1	1	A	F
 3102	545392	1	1	1481	7	Roman	Hnilička			47	živnostník	Vnitřní Město	99	80	A	M
-3102	545392	1	2	53	7	Vít	Dvořák			35	terapeut psych. léčebny	Latrán	53	53	A	M
+3102	545392	1	2	53	7	Vít	Dvořák	Mgr.		35	terapeut psych. léčebny	Latrán	53	53	A	M
 3102	545392	1	3	401	7	Marek	Špát			51	restauratér	Latrán	99	80	A	M
 3102	545392	1	4	364	7	Jaroslava	Dominová			66	podnikatelka	Nádražní Předměstí	5	5	A	F
 3102	545392	1	5	477	7	Barbora	Němec		BBA	30	odborná referentka EF JU	Nové Spolí	99	80	A	F
@@ -92,7 +92,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	545392	1	3	401	9	Martin	Kučera			45	podnikatel - deratizér	Vyšný	99	80	A	M
 3102	545392	1	4	364	9	Jerguš	Jančúch	Ing.		42	inženýr ve vývojovém oddělení	Domoradice	99	80	A	M
 3102	545392	1	5	477	9	Anna	Kolářová			62	důchodkyně	Latrán	99	80	A	F
-3102	545392	1	6	766	9	Karolína	Kortusová	Mgr.		53	překladatelka	Nádražní Předměstí	99	766	A	F
+3102	545392	1	6	766	9	Karolína	Kortusová	Ing.		53	překladatelka	Nádražní Předměstí	99	766	A	F
 3102	545392	1	7	480	9	David	Šindelář	Ing.		47	ředitel společnosti	Horní Brána	721	721	A	M
 3102	545392	1	8	251	9	Štefan	Smolen	Ing.		71	podnikatel	Horní Brána	47	47	A	M
 3102	545392	1	9	768	9	Zdeněk	Kubart	Ing.		63	vedoucí nákupu	Horní Brána	99	768	A	M
@@ -154,7 +154,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	545392	1	10	1022	14	Klára	Procházková	Bc.		51	živnostnice	Domoradice	99	1022	A	F
 3102	545392	1	11	1	14	Bohumil	Florián	Mgr.		73	učitel	Domoradice	99	1	A	M
 3102	545392	1	1	1481	15	Barbora	Berková			19	studentka	Plešivec	99	80	A	F
-3102	545392	1	2	53	15	Miroslav	Valach			66	referent	Domoradice	53	53	A	M
+3102	545392	1	2	53	15	Miroslav	Valach	Ing.		66	referent	Domoradice	53	53	A	M
 3102	545392	1	3	401	15	Lubomír	Viktorín			42	podnikatel	Horní Brána	99	80	A	M
 3102	545392	1	4	364	15	Jiří	Podhorecký			49	grafik	Nádražní Předměstí	99	80	A	M
 3102	545392	1	5	477	15	Dagmar	Pexová			68	provozovatelka restaurace	Nádražní Předměstí	99	80	A	F
@@ -213,14 +213,14 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	545392	1	3	401	20	Jakub	Děkan			29	podnikatel ve stavebnictví	Plešivec	99	80	A	M
 3102	545392	1	4	364	20	Hana	Lauková	Mgr.		70	pečovatelka	Horní Brána	99	80	A	F
 3102	545392	1	5	477	20	Marcela	Žilavá			50	invalidní důchodkyně	Domoradice	99	80	A	F
-3102	545392	1	6	766	20	Roman	Hommer			57	strážník městské policie	Horní Brána	99	766	A	M
+3102	545392	1	6	766	20	Roman	Hommer	Mgr.		57	strážník městské policie	Horní Brána	99	766	A	M
 3102	545392	1	7	480	20	Tomáš	Zunt			48	ředitel obecně prospěšné společnosti	Vnitřní Město	99	80	A	M
 3102	545392	1	8	251	20	Stanislav	Přívratský			88	důchodce	Nádražní Předměstí	47	47	A	M
 3102	545392	1	9	768	20	Vlastimil	Šedina	Mgr.		73	filmový technik	Latrán	99	768	A	M
 3102	545392	1	10	1022	20	Milan	Turek			42	živnostník	Nádražní Předměstí	99	1022	A	M
 3102	545392	1	11	1	20	Jitka	Carrascová	MUDr.		66	zubní lékařka	Horní Brána	99	1	A	F
 3102	545392	1	1	1481	21	Tereza	Mušková			18	studentka	Plešivec	99	80	A	F
-3102	545392	1	2	53	21	Jan	Štaberňák			46	vedoucí finančního odboru	Vyšný	53	53	A	M
+3102	545392	1	2	53	21	Jan	Štaberňák	Ing.		46	vedoucí finančního odboru	Vyšný	53	53	A	M
 3102	545392	1	3	401	21	Klára	Adamczyková			31	knihařka	Nádražní Předměstí	99	80	A	F
 3102	545392	1	4	364	21	Jana	Pešková	Mgr.		75	výtvarnice	Plešivec	99	80	A	F
 3102	545392	1	5	477	21	Jan	Kápar			38	seřizovač strojů	Nádražní Předměstí	99	80	A	M
@@ -251,4 +251,4 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	545392	1	8	251	23	Jan	Novák			90	důchodce	Nádražní Předměstí	47	47	A	M
 3102	545392	1	9	768	23	Vlastimil	Kordík			66	exvedoucí provozu	Horní Brána	99	768	A	M
 3102	545392	1	10	1022	23	Michal	Povolný	Ing.		44	projektant	Domoradice	99	1022	A	M
-3102	545392	1	11	1	23	Veronika	Večeřová			30	historička	Latrán	99	1	A	F
+3102	545392	1	11	1	23	Veronika	Večeřová	Mgr.		30	historička	Latrán	99	1	A	F

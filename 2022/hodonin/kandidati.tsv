@@ -24,7 +24,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586251	1	1	801	1	Anastazie	Svobodová			52	operátor ve výrobě	Kelčany	99	80	A	F
 6205	586269	1	1	1	1	Josef	Zubatý			50	řezník	Kněždub	1	1	A	M
 6205	586277	1	1	53	1	Miroslav	Matyáš	Ing.		59	OSVČ	Kostelec	99	53	A	M
-6205	586285	1	1	901	1	Otakar	Březina	Bc.		56	starosta	Kozojídky	99	80	A	
+6205	586285	1	1	901	1	Otakar	Březina	Bc.		56	starosta	Kozojídky	99	80	A	M
 6205	586293	1	1	901	1	Milan	Kostelanský			45	starosta	Kuželov	99	80	A	M
 6205	586307	1	1	1	1	Pavel	Berka	Ing.		50	jednatel společnosti	Kyjov	1	1	A	M
 6205	586315	1	1	902	1	Pavel	Poizl	Ing.		54	jednatel	Labuty	99	80	A	M
@@ -43,7 +43,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586447	1	1	463	1	Petr	Zálešák			54	starosta	Nenkovice	99	80	A	M
 6205	586455	1	1	903	1	Josef	Štipčák			65	OSVČ	Nová Lhota	99	80	A	M
 6205	586463	1	1	901	1	Zdeněk	Brhel			54	OSVČ	Nový Poddvorov	99	80	A	M
-6205	586471	1	1	1	1	Veronika	Budská,		DiS.	40	vedoucí učitelka MŠ	Ostrovánky	99	1	A	F
+6205	586471	1	1	1	1	Veronika	Budská		DiS.	40	vedoucí učitelka MŠ	Ostrovánky	99	1	A	F
 6205	586480	1	1	902	1	Petr	Klásek	Ing.		46	živnostník	Petrov	99	80	A	M
 6205	586498	1	1	902	1	Jan	Váňa			51	provozní ředitel	Prušánky	99	80	A	M
 6205	586501	1	1	470	1	Martin	Hájek	Mgr.		52	poslanec	Radějov	166	166	A	M
@@ -538,7 +538,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586641	1	6	1	2	Ludmila	Nedůchalová	Ing. et Ing.		32	projektantka	Šardice	99	1	A	F
 6205	586722	1	6	480	2	Eva	Bezděková	MUDr.		60	lékařka	Veselí nad Moravou	721	721	A	F
 6205	586765	1	6	901	2	Marián	Nikl	Mgr.		28	ekonom a personalista v pekařství, hokejový rozhodčí	Vracov	99	80	A	M
-6205	586021	1	7	53	2	Kamila	Hűblová	Mgr.		44	učitelka	Hodonín	99	53	A	
+6205	586021	1	7	53	2	Kamila	Hűblová	Mgr.		44	učitelka	Hodonín	99	53	A	F
 6205	586081	1	7	470	2	Miroslav	Goliáš			50	OSVČ	Bzenec	99	166	A	M
 6205	586404	1	7	83	2	Vlastimil	Hanáček			41	OSVČ	Moravský Písek	99	83	A	M
 6205	586722	1	7	464	2	Petr	Čech	Ing. Bc.		67	soudní znalec	Veselí nad Moravou	99	80	A	M
@@ -554,7 +554,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586030	1	1	902	3	David	Fila			42	OSVČ	Archlebov	99	80	A	M
 6205	586048	1	1	470	3	Lucie	Cíchová	Mgr.		34	učitelka	Blatnice pod Svatým Antonínkem	99	80	A	F
 6205	586056	1	1	903	3	Roman	Bártek			32	aplikační technik	Blatnička	99	80	A	M
-6205	586072	1	1	53	3	Kamil	Daněk			49	OSVČ	Bukovany	99	53	A	
+6205	586072	1	1	53	3	Kamil	Daněk			49	OSVČ	Bukovany	99	53	A	M
 6205	586081	1	1	478	3	Andrea	Zgodová	Ing.		25	personalista, absolventka studia regionálního rozvoje	Bzenec	99	80	A	F
 6205	586099	1	1	901	3	Michal	Herůfek	Ing.		37	výrobce čokolády	Čejč	99	80	A	M
 6205	586102	1	1	904	3	David	Šťavík			33	manažer obchodu	Čejkovice	99	80	A	M
@@ -683,7 +683,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586641	1	2	47	3	Marie	Košuličová			63	finanční poradkyně	Šardice	47	47	A	F
 6205	586650	1	2	83	3	Martin	Nálepa			40	řidič v nákladní autodopravě	Tasov	99	83	A	M
 6205	586668	1	2	901	3	Andrea	Goliášová	Mgr.	DiS.	46	referent SPOD a NRP	Těmice	99	80	A	F
-6205	586676	1	2	166	3	Veronika	Prantlová	Bc.	DiS.	46	vedoucí v sociálních službách	Terezín	99	166	A	
+6205	586676	1	2	166	3	Veronika	Prantlová	Bc.	DiS.	46	vedoucí v sociálních službách	Terezín	99	166	A	F
 6205	586684	1	2	1	3	Jana	Aberlová	Mgr.		35	učitelka	Tvarožná Lhota	99	1	A	F
 6205	586692	1	2	902	3	Roman	Gryga	Bc.		40	geodet	Uhřice	99	80	A	M
 6205	586706	1	2	901	3	Pavel	Ingr	Mgr.	DiS.	41	odborný učitel	Vacenovice	99	80	A	M
@@ -736,7 +736,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586641	1	3	903	3	Ilona	Sadílková			48	úřednice	Šardice	99	80	A	F
 6205	586668	1	3	902	3	Tomáš	Glaser			26	prodejce vozidel	Těmice	99	80	A	M
 6205	586692	1	3	1	3	Filip	Slovák	Ing.		25	chemický inženýr	Uhřice	99	1	A	M
-6205	586706	1	3	389	3	Vítězslava	Vaculíková	Ing.		53	pojišťovací zprostředkovatel	Vacenovice	53	53	A	F
+6205	586706	1	3	389	3	Vítězslava	Vaculková	Ing.		53	pojišťovací zprostředkovatel	Vacenovice	53	53	A	F
 6205	586714	1	3	901	3	Martin	Kománek	Ing.		45	obchodní manažer, muzikant	Velká nad Veličkou	99	80	A	M
 6205	586722	1	3	7	3	Ivan	Ohlídal	Prof. RNDr.	DrSc.	77	vysokoškolský učitel	Veselí nad Moravou	7	7	A	M
 6205	586757	1	3	470	3	Josef	Korvas			58	OSVČ	Vnorovy	99	80	A	M
@@ -760,7 +760,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586404	1	4	371	3	Petr	Týzner			43	zaměstnanec obce	Moravský Písek	7	7	A	M
 6205	586412	1	4	53	3	Jaromíra	Plchutová		DiS.	47	projektantka	Mutěnice	99	53	A	F
 6205	586455	1	4	902	3	Ondřej	Státník			43	dispečer	Nová Lhota	99	80	A	M
-6205	586510	1	4	903	3	Jan	Toman	Ing.		39	obchodní manažer	Ratíškovice	99	80	A	
+6205	586510	1	4	903	3	Jan	Toman	Ing.		39	obchodní manažer	Ratíškovice	99	80	A	M
 6205	586528	1	4	88	3	Jan	Zemský			52	technik	Rohatec	99	88	A	M
 6205	586552	1	4	166	3	Tomáš	Kiška			37	finanční poradce	Sobůlky	99	166	A	M
 6205	586561	1	4	901	3	Eva	Hájková			35	zástupce vedoucí	Starý Poddvorov	99	80	A	F
@@ -787,7 +787,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586331	1	5	904	3	Marek	Hudeček	Bc.		33	OSVČ	Louka	99	80	A	M
 6205	586391	1	5	905	3	Marcela	Zbořilová			61	administrativní pracovnice	Moravany	99	80	A	F
 6205	586404	1	5	901	3	Richard	Andrýsek	Bc.		57	státní zaměstnanec ve výslužbě	Moravský Písek	99	80	A	M
-6205	586412	1	5	470	3	Ľubomír	Varga	Ing.		40	středoškolský učitel-vinařská škola	Mutěnice	99	80	A	
+6205	586412	1	5	470	3	Ľubomír	Varga	Ing.		40	středoškolský učitel-vinařská škola	Mutěnice	99	80	A	M
 6205	586510	1	5	901	3	Hana	Klimešová	Ing.		34	ekonom, účetní	Ratíškovice	99	80	A	F
 6205	586552	1	5	901	3	Pavel	Hrbotický	Ing.		42	referent, má rád sport a kvalitní hudbu	Sobůlky	99	80	A	M
 6205	586587	1	5	901	3	Alois	Crhonek			51	zaměstnanec pošty	Strážnice	99	80	A	M
@@ -1097,7 +1097,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586048	1	1	470	5	Svatava	Vozárová			52	OSVČ	Blatnice pod Svatým Antonínkem	99	80	A	F
 6205	586056	1	1	903	5	Radek	Kráčalík			53	OSVČ, pojišťovnictví	Blatnička	99	80	A	M
 6205	586072	1	1	53	5	Bohumila	Hanzlová			45	všeobecná sestra	Bukovany	99	53	A	F
-6205	586081	1	1	478	5	Vanda	Klennerová	Ing.		52	středoškolská učitelka, Bzenecké drmolice	Bzenec	99	80	A	
+6205	586081	1	1	478	5	Vanda	Klennerová	Ing.		52	středoškolská učitelka, Bzenecké drmolice	Bzenec	99	80	A	F
 6205	586099	1	1	901	5	Radka	Rozkydalová	Ing.		46	šlechtitel	Čejč	99	80	A	F
 6205	586102	1	1	904	5	Stanislav	Škrobák	Ing.		32	OSVČ	Čejkovice	99	80	A	M
 6205	586111	1	1	901	5	Michaela	Ježková			46	účetní	Čeložnice	99	80	A	F
@@ -1350,7 +1350,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586641	1	6	1	5	Ilona	Vašíčková	Ing. Bc.		29	radiologická asistentka	Šardice	99	1	A	F
 6205	586722	1	6	480	5	Tomáš	Zbořil			34	vinař	Veselí nad Moravou	99	80	A	M
 6205	586765	1	6	901	5	Lukáš	Říha			28	seřizovač a programátor CNC strojů, chovatel drobného ptactva	Vracov	99	80	A	M
-6205	586021	1	7	53	5	Lucie	Hűblová	Mgr.		40	manažerka	Hodonín	99	53	A	
+6205	586021	1	7	53	5	Lucie	Hűblová	Mgr.		40	manažerka	Hodonín	99	53	A	F
 6205	586081	1	7	470	5	Jiří	Křivánek			59	vinař	Bzenec	99	80	A	M
 6205	586404	1	7	83	5	Zdeněk	Sečka			48	soukromý zemědělec	Moravský Písek	99	83	A	M
 6205	586722	1	7	464	5	Marek	Galuška			20	student	Veselí nad Moravou	99	80	A	M
@@ -1561,7 +1561,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586323	1	4	53	6	Pavel	Polehňa			54	jednatel	Lipov	53	53	A	M
 6205	586331	1	4	902	6	Zuzana	Machálková	Ing.		41	vedoucí pošty	Louka	99	80	A	F
 6205	586358	1	4	902	6	Milan	Foldyna	Ing.		60	podnikatel	Lužice	99	80	A	M
-6205	586374	1	4	1	6	Renata	Hufová			57	prodavačka	Mikulčice	99	1	A	
+6205	586374	1	4	1	6	Renata	Hufová			57	prodavačka	Mikulčice	99	1	A	F
 6205	586391	1	4	902	6	Robin	Habarta			30	hasič	Moravany	99	80	A	M
 6205	586404	1	4	371	6	Pavel	Němeček			52	OSVČ	Moravský Písek	99	80	A	M
 6205	586412	1	4	53	6	Petr	Plchut	Ing.		48	obchodní zástupce, vinař	Mutěnice	53	53	A	M
@@ -1592,7 +1592,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586331	1	5	904	6	Vít	Štědronský			23	elektrotechnik	Louka	99	80	A	M
 6205	586391	1	5	905	6	Pavlína	Vaculíková			54	dělnice	Moravany	99	80	A	F
 6205	586404	1	5	901	6	Miroslav	Šturc			47	vedoucí technického úseku	Moravský Písek	99	80	A	M
-6205	586412	1	5	470	6	Štěpán	Tesařík	Ing.		26	vinařský technolog	Mutěnice	99	80	A	
+6205	586412	1	5	470	6	Štěpán	Tesařík	Ing.		26	vinařský technolog	Mutěnice	99	80	A	M
 6205	586510	1	5	901	6	Radim	Slezar	Ing.		47	obchodní manažer	Ratíškovice	99	80	A	M
 6205	586552	1	5	901	6	Pavla	Leciánová			52	záchranářka, největší radostí a starostí jsou vnoučata	Sobůlky	99	80	A	F
 6205	586587	1	5	901	6	Michal	Daněk	Ing.	Ph.D.	46	obchodní manažer	Strážnice	99	80	A	M
@@ -1849,7 +1849,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586404	1	5	901	7	Dagmar	Vaculíková			48	zdravotní sestra	Moravský Písek	99	80	A	F
 6205	586412	1	5	470	7	Květoslava	Svobodová	Ing.		39	státní zaměstnankyně	Mutěnice	99	80	A	F
 6205	586510	1	5	901	7	Lukáš	Břoušek	Ing.		31	technický inženýr	Ratíškovice	99	80	A	M
-6205	586552	1	5	901	7	Ivana	Vaverková			56	učitelka MŠ, volný čas tráví četbou a poslechem hudby	Sobůlky	99	80	A	
+6205	586552	1	5	901	7	Ivana	Vaverková			56	učitelka MŠ, volný čas tráví četbou a poslechem hudby	Sobůlky	99	80	A	F
 6205	586587	1	5	901	7	Klára	Kamenská	Mgr.		38	učitelka ZŠ	Strážnice	99	80	A	F
 6205	586641	1	5	902	7	Antonín	Veselka	Mgr.		43	pedagog	Šardice	99	80	A	M
 6205	586722	1	5	541	7	Radek	Bartošík			49	živnostník	Veselí nad Moravou	99	80	A	M
@@ -1870,7 +1870,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586722	1	6	480	7	Radka	Matějná			47	majitelka autoškoly	Milokošť	99	80	A	F
 6205	586765	1	6	901	7	Gašpar	Čamlík	Mgr.		37	zoolog	Vracov	99	80	A	M
 6205	586021	1	7	53	7	Patrik	Baldrian			38	ekonomický manažer	Hodonín	99	53	A	M
-6205	586081	1	7	470	7	Aleš	Lorenc	Ing.		38	OSVČ	Bzenec	99	80	A	
+6205	586081	1	7	470	7	Aleš	Lorenc	Ing.		38	OSVČ	Bzenec	99	80	A	M
 6205	586404	1	7	83	7	Jitka	Gacková		DiS.	49	zdravotní sestra	Moravský Písek	99	83	A	F
 6205	586722	1	7	464	7	Ludmila	Jakubová	Mgr.		66	zástupce ředitele ZŠ	Zarazice	99	80	A	F
 6205	586021	1	8	1245	7	Josef	Motyčka			57	kovoobráběč	Hodonín	99	1245	A	M
@@ -1971,7 +1971,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586404	1	2	88	8	Alena	Crlová			40	farmaceutická asistentka	Moravský Písek	99	88	A	F
 6205	586412	1	2	1	8	Pavel	Kůřil		DiS.	38	mechanik - seřizovač pečicích strojů	Mutěnice	1	1	A	M
 6205	586421	1	2	166	8	Jaromír	Boháček			63	jednatel	Násedlovice	99	166	A	M
-6205	586439	1	2	1	8	Miloslav	Horňák			53	vedoucí výroby	Nechvalín	1	1	A	
+6205	586439	1	2	1	8	Miloslav	Horňák			53	vedoucí výroby	Nechvalín	1	1	A	M
 6205	586455	1	2	904	8	Miroslav	Bajko	Ing.		40	OSVČ	Nová Lhota	99	80	A	M
 6205	586480	1	2	901	8	Miloš	Dokoupil	Ing. Bc.		66	důchodce	Petrov	99	80	A	M
 6205	586498	1	2	463	8	Lubomír	Slabý			53	technik	Prušánky	99	80	A	M
@@ -2077,7 +2077,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586323	1	5	1	8	Miloš	Maňák	Ing.		54	facility manager (technik)	Lipov	99	1	A	M
 6205	586331	1	5	904	8	Petr	Čajka			24	OSVČ	Louka	99	80	A	M
 6205	586404	1	5	901	8	Tomáš	Michalec			39	vedoucí obchodního oddělení	Moravský Písek	99	80	A	M
-6205	586412	1	5	470	8	Jiří	Holešínský		DiS.	31	vinařský technolog	Mutěnice	99	80	A	
+6205	586412	1	5	470	8	Jiří	Holešínský		DiS.	31	vinařský technolog	Mutěnice	99	80	A	M
 6205	586510	1	5	901	8	Monika	Hroudná			33	mzdová účetní	Ratíškovice	99	80	A	F
 6205	586552	1	5	901	8	Barbora	Gajdošová			42	makléřka nemovitostí, sleduje a baví ji móda	Sobůlky	99	80	A	F
 6205	586587	1	5	901	8	Jana	Hanáková			55	učitelka MŠ	Strážnice	99	80	A	F
@@ -2226,7 +2226,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586790	1	2	902	9	František	Černý	Bc.		29	vedoucí programátor	Žarošice	99	80	A	M
 6205	586803	1	2	371	9	Soňa	Matějková			62	důchodkyně	Ždánice	99	80	A	F
 6205	586811	1	2	1	9	Vladimíra	Malíková		DiS.	34	farmaceutická asistentka	Želetice	99	1	A	F
-6205	586021	1	3	355	9	Lucie	Ambrozková			54	ředitelka Centra pro rodinu a sociální péči Hodonín	Hodonín	99	1	A	
+6205	586021	1	3	355	9	Lucie	Ambrozková			54	ředitelka Centra pro rodinu a sociální péči Hodonín	Hodonín	99	1	A	F
 6205	586048	1	3	1	9	Anna	Kuřinová			72	důchodkyně	Blatnice pod Svatým Antonínkem	1	1	A	F
 6205	586056	1	3	904	9	Miroslav	Stuchlík			52	servisní technik	Blatnička	99	80	A	M
 6205	586081	1	3	181	9	Dušan	Černoch			52	OSVČ	Bzenec	99	181	A	M
@@ -2295,7 +2295,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586021	1	5	768	9	Kateřina	Maňáková	Mgr.		50	učitelka	Hodonín	99	768	A	F
 6205	586048	1	5	901	9	Petr	Hruška			57	strojvedoucí SŽ	Blatnice pod Svatým Antonínkem	99	80	A	M
 6205	586081	1	5	371	9	Vlastimir	Božek			64	důchodce, muzikant	Bzenec	99	7	A	M
-6205	586102	1	5	902	9	Hana	Latíková			51	agronom	Čejkovice	99	80	A	
+6205	586102	1	5	902	9	Hana	Latíková			51	agronom	Čejkovice	99	80	A	F
 6205	586161	1	5	901	9	Michaela	Staňková	Bc.		31	vedoucí týmu rakouských plateb, nyní rodičovská dovolená	Dubňany	99	80	A	F
 6205	586170	1	5	901	9	Ingrid	Vindišová	Ing.		39	manažer zahraničního obchodu	Hovorany	99	80	A	F
 6205	586307	1	5	53	9	Kamil	Slížek			40	manažer investičního fondu	Kyjov	53	53	A	M
@@ -2403,7 +2403,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586021	1	3	355	10	Petr	Vytrhlík			35	bankéř	Hodonín	721	1	A	M
 6205	586048	1	3	1	10	Blanka	Cintulová			48	uklízečka	Blatnice pod Svatým Antonínkem	99	1	A	F
 6205	586081	1	3	181	10	Richard	Horký			42	OSVČ	Bzenec	99	181	A	M
-6205	586102	1	3	903	10	Rudolf	Slovenský	Ing.		49	vedoucí oddělení zdravotnické techniky	Čejkovice	99	80	A	
+6205	586102	1	3	903	10	Rudolf	Slovenský	Ing.		49	vedoucí oddělení zdravotnické techniky	Čejkovice	99	80	A	M
 6205	586129	1	3	902	10	Stanislava	Sopouchová	Ing.		44	asistentka pedagoga	Dambořice	99	80	A	F
 6205	586161	1	3	902	10	Marie	Tomanová	Mgr.		67	lektorka německého jazyka, dobrovolnice Hnutí Duha	Dubňany	99	80	A	F
 6205	586170	1	3	902	10	Tomas	McComb		B.A., B.Ed.	49	Za životní prostředí Hovorany, z.s., OSVČ - Language Services	Hovorany	99	80	A	M
@@ -2484,7 +2484,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586021	1	8	1245	10	Irena	Poláchová			57	nezaměstnaná	Hodonín	99	1245	A	F
 6205	586081	1	8	83	10	Eva	Skřivánková			31	mateřská dovolená, agroturistika na rodinném ranči, humanitární pracovník, pořadatelka charitativních akcí	Bzenec	99	83	A	F
 6205	586722	1	8	768	10	Veronika	Beránková	Mgr.		28	sociální pracovnice	Veselí nad Moravou	99	768	A	F
-6205	586021	1	9	1621	10	Petra	Hanáčková	Mgr.	MBA	41	ředitelka střední školy	Hodonín	99	80	A	
+6205	586021	1	9	1621	10	Petra	Hanáčková	Mgr.	MBA	41	ředitelka střední školy	Hodonín	99	80	A	F
 6205	586081	1	9	901	10	Milan	Řihánek			42	signalista u Správy železnic	Bzenec	99	80	A	M
 6205	586722	1	9	1305	10	Dagmar	Daňková			45	skladnice	Veselí nad Moravou	99	80	A	F
 6205	586081	1	10	158	10	Petr	Váňa			55	technik	Bzenec	99	158	A	M
@@ -2650,7 +2650,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586161	1	1	903	12	Josef	Dohnálek	Ing.		56	OSVČ	Dubňany	99	80	A	M
 6205	586170	1	1	53	12	Jan	Lesovský			61	OSVČ	Hovorany	99	53	A	M
 6205	586188	1	1	901	12	Miroslav	Kusalík	Mgr.	MBA	46	profesionální hasič	Hroznová Lhota	99	80	A	M
-6205	586307	1	1	1	12	Petra	Trávníková	Mgr. et Mgr.	Ph.D.	47	vysokoškolská pedagožka	Nětčice	99	1	A	
+6205	586307	1	1	1	12	Petra	Trávníková	Mgr. et Mgr.	Ph.D.	47	vysokoškolská pedagožka	Nětčice	99	1	A	F
 6205	586323	1	1	903	12	Eva	Stašová			60	účetní	Lipov	99	80	A	F
 6205	586358	1	1	355	12	Jaroslav	Gožďál			56	seřizovač	Lužice	99	1	A	M
 6205	586374	1	1	901	12	Marek	Král			42	OSVČ	Mikulčice	99	80	A	M
@@ -2720,7 +2720,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586765	1	3	1	12	Eva	Gasnárková			47	pečovatelka - Charita Kyjov	Vracov	99	1	A	F
 6205	586790	1	3	1	12	Darja	Beláková	Mgr.		47	pedagožka	Žarošice	99	1	A	F
 6205	586803	1	3	53	12	Ilona	Navrátilová			58	farmaceutická asistentka	Ždánice	99	53	A	F
-6205	586021	1	4	1203	12	Beata	Kulyková	Mgr.		48	zástupkyně ředitele pro I. stupeň	Hodonín	1203	1203	A	
+6205	586021	1	4	1203	12	Beata	Kulyková	Mgr.		48	zástupkyně ředitele pro I. stupeň	Hodonín	1203	1203	A	F
 6205	586081	1	4	1305	12	Marcel	Dvořan			44	řidič MKD	Bzenec	99	80	A	M
 6205	586102	1	4	1	12	Eva	Třasoňová	Mgr.		37	učitelka	Čejkovice	99	1	A	F
 6205	586161	1	4	47	12	Martin	Gasnárek			70	důchodce	Dubňany	47	47	A	M
@@ -2935,7 +2935,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586641	1	1	904	14	Soňa	Kovaničová			49	dělnice	Šardice	99	80	A	F
 6205	586714	1	1	902	14	Jana	Matulová			52	poštovní doručovatelka	Velká nad Veličkou	99	80	A	F
 6205	586722	1	1	47	14	Ján	Kret			72	důchodce	Veselí nad Moravou	47	47	A	M
-6205	586757	1	1	480	14	Radka	Vaštíková	Mgr.		26	učitelka	Lidéřovice	99	721	A	
+6205	586757	1	1	480	14	Radka	Vaštíková	Mgr.		26	učitelka	Lidéřovice	99	721	A	F
 6205	586765	1	1	371	14	Kateřina	Tužilová			20	studentka	Vracov	99	80	A	F
 6205	586790	1	1	901	14	Ladislav	Kvapil			42	vedoucí pracovník	Žarošice	99	80	A	M
 6205	586803	1	1	901	14	Zdeněk	Gavenda			56	školník	Ždánice	99	80	A	M
@@ -2961,7 +2961,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586625	1	2	901	14	Monika	Hajná			46	kadeřnice	Svatobořice	99	80	A	F
 6205	586641	1	2	47	14	Jaroslav	Padalík			40	osoba samostatně výdělečně činná	Šardice	99	47	A	M
 6205	586714	1	2	355	14	Jan	Schwarz			44	pracovník OÚ, hasič	Velká nad Veličkou	99	1	A	M
-6205	586722	1	2	1	14	Lukáš	Gelnar	Ing. arch.		41	architekt	Milokošť	1	1	A	
+6205	586722	1	2	1	14	Lukáš	Gelnar	Ing. arch.		41	architekt	Milokošť	1	1	A	M
 6205	586757	1	2	181	14	Josef	Břečka			74	důchodce	Lidéřovice	99	181	A	M
 6205	586765	1	2	902	14	Michal	Nemček			40	manažer prodeje	Vracov	99	80	A	M
 6205	586790	1	2	902	14	Libor	Cikánek			37	zedník	Žarošice	99	80	A	M
@@ -3204,7 +3204,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586587	1	4	1	16	Aleš	Smutný			57	ředitel ZUŠ Veselí nad Moravou	Strážnice	1	1	A	M
 6205	586722	1	4	389	16	Milan	Maxera	Bc.		38	sportovní manažer	Veselí nad Moravou	53	53	A	M
 6205	586021	1	5	768	16	Jaromír	Vála			43	OSVČ	Hodonín	99	768	A	M
-6205	586161	1	5	901	16	Markéta	Jestřábová	Ing.		38	projektová manažerka	Dubňany	99	80	A	
+6205	586161	1	5	901	16	Markéta	Jestřábová	Ing.		38	projektová manažerka	Dubňany	99	80	A	F
 6205	586307	1	5	53	16	Markéta	Kusáková			42	podnikatelka	Kyjov	53	53	A	F
 6205	586587	1	5	901	16	Bohumila	Sporyszová			43	kadeřnice	Strážnice	99	80	A	F
 6205	586722	1	5	541	16	Jan	Bednařík			42	referent nákupu	Veselí nad Moravou	99	80	A	M
@@ -3471,7 +3471,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586021	1	5	768	27	Stanislav	Kubík	Bc.		51	stavební technik	Hodonín	99	768	A	M
 6205	586021	1	6	47	27	František	Chmelař			66	technik	Hodonín	47	47	A	M
 6205	586021	1	7	53	27	Alexandra	Večerková			51	manažer	Hodonín	99	53	A	F
-6205	586021	1	8	1245	27	Marie	Žurková			46	operátorka výroby DELIMAX	Hodonín	99	1245	A	
+6205	586021	1	8	1245	27	Marie	Žurková			46	operátorka výroby DELIMAX	Hodonín	99	1245	A	F
 6205	586021	1	9	1621	27	Martin	Vaněk			40	směnárník	Hodonín	83	83	A	M
 6205	586021	1	1	1114	28	Marek	Lipták			25	operátor ve výrobě	Hodonín	99	1114	A	M
 6205	586021	1	2	1251	28	Zdeněk	Novák			40	operátor, hasič	Hodonín	99	1251	A	M
@@ -3495,7 +3495,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6205	586021	1	2	1251	30	Simona	Koutná			42	vedoucí pracovník	Hodonín	99	1251	A	F
 6205	586021	1	3	355	30	Anna	Matějková	Ing.		67	senior	Hodonín	1	1	A	F
 6205	586021	1	4	1203	30	Radim	Frejlach	Mgr.		47	jednatel společnosti	Hodonín	99	1203	A	M
-6205	586021	1	5	768	30	Iva	Barvová			51	učitelka v autoškole	Hodonín	99	768	A	
+6205	586021	1	5	768	30	Iva	Barvová			51	učitelka v autoškole	Hodonín	99	768	A	F
 6205	586021	1	6	47	30	Stanislav	Jedlička			79	důchodce	Hodonín	47	47	A	M
 6205	586021	1	7	53	30	Josef	Večerka			53	OSVČ	Hodonín	99	53	A	M
 6205	586021	1	8	1245	30	Petr	Mlýnek			36	operátor výroby	Hodonín	99	1245	A	M

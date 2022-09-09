@@ -55,7 +55,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	539732	1	1	901	1	Kateřina	Rožníčková			41	starostka	Štěchovice	99	80	A	F
 2110	539759	1	1	903	1	Marek	Jaroušek			47	vedoucí technický pracovník	Třebotov	99	80	A	M
 2110	539767	1	1	902	1	Martin	Růžička			49	místostarosta obce	Tuchoměřice	99	80	A	M
-2110	539775	1	1	902	1	Pavlína	Vašičková	Ing.		55	státní zaměstnanec	Tursko	99	80	A	
+2110	539775	1	1	902	1	Pavlína	Vašičková	Ing.		55	státní zaměstnanec	Tursko	99	80	A	F
 2110	539805	1	1	902	1	Kateřina	Hájková	Ing.		49	datový analytik	Únětice	99	80	A	F
 2110	539813	1	1	470	1	Věra	Čermáková			69	starostka obce	Velké Přílepy	166	166	A	F
 2110	539830	1	1	901	1	Tomáš	Beneš	Ing.		58	starosta, OSVČ, projektant v oboru architektura interiérů	Vonoklasy	99	80	A	M
@@ -83,14 +83,14 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	531618	1	2	901	1	Martin	Hejl	Mgr.	MBA, LL.M.	44	starosta obce	Nučice	99	80	A	M
 2110	531723	1	2	389	1	Jan	Sýkora	Bc.		31	manažer v logistice	Rudná	53	53	A	M
 2110	531821	1	2	901	1	Jiří	Sovina	Ing.	Ph.D.	67	místostarosta, projektant, urbanista	Tachlovice	99	80	A	M
-2110	532215	1	2	901	1	Václav	Ladman			61	starosta obce	Červený Újezd	99	80	A	
+2110	532215	1	2	901	1	Václav	Ladman			61	starosta obce	Červený Újezd	99	80	A	M
 2110	532789	1	2	901	1	Miloš	Dvorský	Ing.		63	starosta	Ptice	99	80	A	M
 2110	532991	1	2	905	1	Martin	Slaboch	Ing. Mgr.		50	pedagog	Úhonice	99	80	A	M
 2110	539139	1	2	53	1	Michal	Strejček	Mgr.		63	podnikatel	Černošice	53	53	A	M
 2110	539198	1	2	389	1	Petr	Hampl	Ing.		50	starosta	Dobřichovice	53	53	A	M
 2110	539210	1	2	389	1	Jan	Jedlička	Ing.		48	ekonom	Dolní Břežany	99	80	A	M
 2110	539236	1	2	166	1	Aleš	Sedláček	Ing.		46	předseda České rady dětí a mládeže, 1. místostarosta	Horoměřice	166	166	A	M
-2110	539244	1	2	901	1	Klára	Čápová	Ing. arch.		46	starostka, architektka	Hostivice	99	80	A	
+2110	539244	1	2	901	1	Klára	Čápová	Ing. arch		46	starostka, architektka	Hostivice	99	80	A	F
 2110	539252	1	2	901	1	Lucie	Hašková			39	knihovnice	Hradištko	99	80	A	F
 2110	539317	1	2	901	1	Michal	Stark			57	starosta	Jeneč	99	80	A	M
 2110	539325	1	2	716	1	Martin	Kuruc			33	místostarosta města Jesenice	Jesenice	99	716	A	M
@@ -279,7 +279,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	571351	1	1	901	2	Vilém	Kozel			56	servisní manažer	Úholičky	99	80	A	M
 2110	598313	1	1	901	2	Magdalena	Dyršmídová			64	jednatelka	Trnová	99	80	A	F
 2110	599727	1	1	902	2	Jan	Šimek			70	důchodce	Karlík	99	80	A	M
-2110	599735	1	1	904	2	Ivana	Hořeňovská	Mgr.	MBA	57	finanční manžer	Oleško	99	80	A	F
+2110	599735	1	1	904	2	Ivana	Hořeňovská	Mgr.	MBA	57	finanční manažer	Oleško	99	80	A	F
 2110	513458	1	2	470	2	Jiří	Řízek	Ing.		66	místostarosta obce	Vestec	99	80	A	M
 2110	531146	1	2	901	2	Tomáš	Čermák	Ing.	DiS.	37	ministerský rada, zdravotnický záchranář	Drahelčice	99	80	A	M
 2110	531618	1	2	901	2	Eliška	Sedláčková			61	místostarostka obce	Nučice	99	80	A	F
@@ -309,7 +309,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	539571	1	2	902	2	Miroslav	Langr			65	vedoucí technik	Průhonice	99	80	A	M
 2110	539627	1	2	901	2	Ivana	Bartizalová	Ing.		61	vrchní disponentka - upisovatelka	Roztoky	99	80	A	F
 2110	539643	1	2	477	2	Adam	Langr			33	ředitel produkční agentury	Řevnice	99	714	A	M
-2110	539651	1	2	903	2	Štefan	Matejčík	JUDr.		69	podnikatel	Řitka	99	80	A	
+2110	539651	1	2	903	2	Štefan	Matejčík	JUDr.		69	podnikatel	Řitka	99	80	A	M
 2110	539686	1	2	540	2	Zuzana	Hanáčková	Ing.		38	konzultantka	Statenice	721	721	A	F
 2110	539708	1	2	901	2	Ondřej	Kouba			40	podnikatel	Středokluky	99	80	A	M
 2110	539732	1	2	902	2	Stanislav	Žemlička			65	důchodce, OSVČ	Třebenice	99	80	A	M
@@ -514,7 +514,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	539767	1	2	901	3	Miroslav	Rolc			65	podnikatel	Tuchoměřice	99	80	A	M
 2110	539775	1	2	901	3	Martin	Fusek	prof. Ing.	CSc.	63	chemik	Tursko	99	80	A	M
 2110	539805	1	2	901	3	Radim	Krupička			48	ředitel obchodní společnosti a zastupitel	Únětice	99	80	A	M
-2110	539813	1	2	901	3	Jiří	Hanzal			46	OSVČ	Velké Přílepy	99	80	A	
+2110	539813	1	2	901	3	Jiří	Hanzal			46	OSVČ	Velké Přílepy	99	80	A	M
 2110	539848	1	2	902	3	Jan	Kukla	Ing.		39	pilot dopravního letadla	Vrané nad Vltavou	99	80	A	M
 2110	539872	1	2	902	3	Otakar	Novotný	Mgr.		78	technický ředitel	Zbuzany	99	80	A	M
 2110	539881	1	2	389	3	Petr	Čermák	Ing. arch.		34	architekt, fotograf, 3D grafik	Hodkovice	99	80	A	M
@@ -559,7 +559,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	532991	1	4	166	3	Michal	Tuhý	Bc.		39	úředník ve státní správě	Úhonice	99	166	A	M
 2110	539139	1	4	1227	3	Eva	Stará			82	důchodce	Černošice	1227	1227	A	F
 2110	539236	1	4	480	3	Petr	Mikeš			53	dělník	Horoměřice	99	721	A	M
-2110	539244	1	4	480	3	Drahomír	Suchánek	PhDr. ThLic.	Ph.D., Th.D.	50	vysokoškolský pedagog	Hostivice	721	721	A	
+2110	539244	1	4	480	3	Drahomír	Suchánek	PhDr. ThLic.	Ph.D., Th.D.	50	vysokoškolský pedagog	Hostivice	721	721	A	M
 2110	539325	1	4	53	3	Antonín	Šimek			31	podnikatel	Jesenice	53	53	A	M
 2110	539333	1	4	5	3	Petra	Šimonová	Mgr.		40	učitelka	Kabáty	99	5	A	F
 2110	539414	1	4	903	3	Lukáš	Reichel			42	obchodní zástupce	Libčice nad Vltavou	99	80	A	M
@@ -615,7 +615,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	539171	1	1	901	4	Hana	Krupičková			31	OSVČ	Dobrovíz	99	80	A	F
 2110	539180	1	1	901	4	David	Budinka			52	technik	Dobříč	99	80	A	M
 2110	539198	1	1	901	4	Markéta	Dvořáková	Ing.		53	specialistka informačních technologií	Dobřichovice	99	80	A	F
-2110	539210	1	1	470	4	Zdeněk	Kovařík	Ing.		67	místostarosta	Dolní Břežany	99	166	A	M
+2110	539210	1	1	470	4	Zdeněk	Kovářík	Ing.		67	místostarosta	Dolní Břežany	99	166	A	M
 2110	539228	1	1	901	4	Daniel	Dubský	Ing.		43	analytik	Kozinec	99	80	A	M
 2110	539236	1	1	901	4	Vlastimil	Altmann	doc. Ing.	Ph.D.	62	vysokoškolský pedagog	Horoměřice	99	80	A	M
 2110	539244	1	1	773	4	Jaroslav	Kratochvíl			73	podnikatel	Hostivice	773	773	A	M
@@ -623,7 +623,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	539261	1	1	901	4	Lenka	Salomonová			59	správkyně kempu	Hvozdnice	99	80	A	F
 2110	539287	1	1	901	4	Ladislav	Staněk			43	automechanik	Choteč	99	80	A	M
 2110	539295	1	1	901	4	Kateřina	Sedláková			49	fakturantka	Chrášťany	99	80	A	F
-2110	539309	1	1	901	4	Veronika	Brunhofer	Mgr.		41	právnička	Chýně	99	80	A	
+2110	539309	1	1	901	4	Veronika	Brunhofer	Mgr.		41	právnička	Chýně	99	80	A	F
 2110	539317	1	1	47	4	Jaroslava	Vršková			77	důchodce	Jeneč	47	47	A	F
 2110	539325	1	1	427	4	Karolina	Petrová	Ing.	Ph.D.	41	podnikatelka	Osnice	99	80	A	F
 2110	539333	1	1	901	4	Dominik	Kaše			29	podnikatel	Jílové u Prahy	99	80	A	M
@@ -755,7 +755,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	532991	1	4	166	4	Aleš	Němeček			53	IT projektový manažer	Úhonice	99	166	A	M
 2110	539236	1	4	480	4	Alena	Ihmová			50	podnikatel	Horoměřice	99	721	A	F
 2110	539244	1	4	480	4	Karel	Malík	Ing.		58	manažer nákupu	Hostivice	99	80	A	M
-2110	539325	1	4	53	4	Zdeňka	Pašková			60	uvolněná radní	Jesenice	53	53	A	F
+2110	539325	1	4	53	4	Zdeňka	Pašková			60	podnikatelka, zastupitelka města Jesenice	Jesenice	53	53	A	F
 2110	539333	1	4	5	4	Michal	Bernard	JUDr.	Ph.D.	42	právník	Jílové u Prahy	99	5	A	M
 2110	539414	1	4	903	4	Zuzana	Cejpková			34	projektant	Libčice nad Vltavou	99	80	A	F
 2110	539627	1	4	902	4	Marcela	Šášinková	Mgr.		59	historička	Roztoky	99	80	A	F
@@ -782,7 +782,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	540765	1	5	529	4	Luboš	Kožíšek	Mgr.		36	vedoucí pracovník	Mníšek pod Brdy	5	5	A	M
 2110	599735	1	5	905	4	Karel	Nepraš			56	revizní technik elektro	Oleško	99	80	A	M
 2110	531723	1	6	543	4	Zbyněk	Průcha			43	obchodní manažer	Rudná	99	80	A	M
-2110	532991	1	6	902	4	Miluška	Havlíčková			71	důchodkyně	Úhonice	99	80	A	
+2110	532991	1	6	902	4	Miluška	Havlíčková			71	důchodkyně	Úhonice	99	80	A	F
 2110	539325	1	6	901	4	Radan	Miksa	Ing.		42	ředitel, předseda SK Slavia Jesenice	Jesenice	99	80	A	M
 2110	539627	1	6	353	4	Martin	Ryneš	Ing.		41	podnikatel	Roztoky	53	53	A	M
 2110	539643	1	6	470	4	Jan	Chroust			40	automechanik	Řevnice	99	80	A	M
@@ -916,7 +916,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	571288	1	2	902	5	František	Strnad			44	logistik	Zahořany	99	80	A	M
 2110	571326	1	2	901	5	Miroslav	Soliš			67	důchodce	Lichoceves	99	80	A	M
 2110	571334	1	2	901	5	Miroslav	Schmied			41	automechanik	Okoř	99	80	A	M
-2110	571351	1	2	480	5	Radka	Šulová			35	administrativní pracovník	Úholičky	99	721	A	
+2110	571351	1	2	480	5	Radka	Šulová			35	administrativní pracovník	Úholičky	99	721	A	F
 2110	599727	1	2	901	5	Jaroslav	Štrof			68	lékař	Karlík	99	80	A	M
 2110	599735	1	2	903	5	Petr	Skokan			45	odborník IT	Březová	99	80	A	M
 2110	531723	1	3	427	5	Ondřej	Šindler	Ing.		45	podnikatel	Rudná	99	80	A	M
@@ -963,7 +963,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	540765	1	4	427	5	Ondřej	Solnička	Mgr.		34	učitel	Mníšek pod Brdy	99	80	A	M
 2110	571326	1	4	902	5	Matěj	Weig			22	student	Lichoceves	99	80	A	M
 2110	599735	1	4	901	5	Patrik	Rynda			55	OSVČ	Březová	99	80	A	M
-2110	531723	1	5	470	5	Jakub	Vrbský			18	student	Rudná	53	80	A	
+2110	531723	1	5	470	5	Jakub	Vrbský			18	student	Rudná	53	80	A	M
 2110	532991	1	5	906	5	Renata	Mestlová	Ing.		50	ministerský rada	Úhonice	99	80	A	F
 2110	539139	1	5	902	5	Jan	Biskup	MUDr. Ing.		32	lékař	Černošice	99	80	A	M
 2110	539236	1	5	53	5	Jana	Kohoutová	Bc.		56	ekonomka	Horoměřice	99	53	A	F
@@ -1124,7 +1124,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	539414	1	3	901	6	Jiřina	Lužová	Ing.		32	ekonom	Libčice nad Vltavou	99	80	A	F
 2110	539490	1	3	901	6	Lucie	Motlíková	Mgr.		50	advokátka	Měchenice	99	80	A	F
 2110	539503	1	3	903	6	Zdeněk	Vaněk			74	důchodce	Ohrobec	99	80	A	M
-2110	539627	1	3	903	6	Tomáš	Rolc			29	OSVČ, programátor	Roztoky	99	80	A	
+2110	539627	1	3	903	6	Tomáš	Rolc			29	OSVČ, programátor	Roztoky	99	80	A	M
 2110	539643	1	3	480	6	Stanislav	Marek			45	živnostník	Řevnice	99	721	A	M
 2110	539651	1	3	904	6	Grigorij	Vdovičenko			43	ředitel firmy	Řitka	99	80	A	M
 2110	539686	1	3	904	6	Alena	Heverová			39	manažerka v cestovním ruchu	Statenice	99	80	A	F
@@ -1249,11 +1249,11 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	571288	1	1	901	7	Matěj	Barla	Ing. arch.		46	architekt	Zahořany	99	80	A	M
 2110	571318	1	1	901	7	Květa	Krejzková	Mgr.		29	pedagog	Roblín	99	80	A	F
 2110	571326	1	1	904	7	Štěpánka	Stehlíková - Kutmanová			54	1. violoncellistka státní opera Praha	Noutonice - Višňovka	99	80	A	F
-2110	571342	1	1	901	7	Milan	Zárobský	Ing.		57	podnikatel	Svrkyně	99	80	A	
+2110	571342	1	1	901	7	Milan	Zárobský	Ing.		57	podnikatel	Svrkyně	99	80	A	M
 2110	571351	1	1	901	7	Jaroslav	Hertl			54	vedoucí obchodu	Úholičky	99	80	A	M
 2110	598313	1	1	901	7	Tomáš	Cígler			43	jednatel	Trnová	99	80	A	M
 2110	599727	1	1	902	7	Michal	Kustoš			60	technik TZB	Karlík	99	80	A	M
-2110	599735	1	1	904	7	Marcela	Vítková	Mgr.		52	finanční analytik	Březová	99	80	A	F
+2110	599735	1	1	904	7	Marcela	Vítková	Mgr.		52	finanční analytik	Oleško	99	80	A	F
 2110	513458	1	2	470	7	Dita	Klímová	Mgr.		45	ředitelka MŠ Vestec	Vestec	99	80	A	F
 2110	531146	1	2	901	7	Michal	Machurka			33	informátor v dopravě	Drahelčice	99	80	A	M
 2110	531618	1	2	901	7	Radek	Bouček			47	vedoucí technických služeb obce, řidič záchranář ZZS, člen výboru pro rozvoj obce	Nučice	99	80	A	M
@@ -1523,7 +1523,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	539759	1	4	904	8	Michal	Drkoš			50	podnikatel	Třebotov	99	80	A	M
 2110	539856	1	4	902	8	Martin	Pazderník	Ing.		42	grafik	Všenory	99	80	A	M
 2110	539881	1	4	903	8	Petra	Zemanová	Ing.		30	mateřská dovolená	Zlatníky	99	80	A	F
-2110	540765	1	4	427	8	Tadeáš	Takeshi Richter			21	student	Mníšek pod Brdy	99	80	A	M
+2110	540765	1	4	427	8	Tadeáš Takeshi	Richter			21	student	Mníšek pod Brdy	99	80	A	M
 2110	571326	1	4	902	8	Radek	Prokopius			46	trenér	Lichoceves	99	80	A	M
 2110	599735	1	4	901	8	Dominika	Figelová	Mgr.		33	právník	Březová	99	80	A	F
 2110	531723	1	5	470	8	Jitka	Panenková			60	účetní	Rudná	99	80	A	F
@@ -1728,7 +1728,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	539139	1	1	721	10	Miroslav	Janoušek	PharmDr.		58	farmaceut	Černošice	721	721	A	M
 2110	539163	1	1	901	10	Jakub	Obermajer	Ing.		25	projektant	Sázava	99	80	A	M
 2110	539198	1	1	901	10	Petr	Horčík			49	OSVČ	Dobřichovice	99	80	A	M
-2110	539210	1	1	470	10	Jan	Záruba	Ing.	MBA	50	manažer/telekomunikace	Dolní Břežany	99	166	A	M
+2110	539210	1	1	470	10	Jan	Záruba	Ing.	MBA	50	manažér/telekomunikace	Dolní Břežany	99	166	A	M
 2110	539236	1	1	901	10	Jan	Pilch			46	starožitník	Horoměřice	99	80	A	M
 2110	539244	1	1	773	10	Petr	Lovíšek	Ing.		46	technickoekonomický konzultant pro R&D projekty	Hostivice	99	773	A	M
 2110	539252	1	1	902	10	Iva	Varcabová			51	zdravotní sestra	Hradištko	99	80	A	F
@@ -1761,7 +1761,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	539236	1	2	166	10	Jan	Havaš			41	pracovník v poradenské společnosti	Horoměřice	99	166	A	M
 2110	539244	1	2	901	10	Pavel	Bednář	Mgr.		46	IT analytik	Hostivice	99	80	A	M
 2110	539252	1	2	901	10	Jana	Svačinová	Ing.		43	ekonom	Rajchardov	99	80	A	F
-2110	539325	1	2	716	10	Viktor	Kellerstein			70	ředitel společnosti	Osnice	99	716	A	M
+2110	539325	1	2	716	10	Viktor	Kellerstein			67	ředitel společnosti	Osnice	99	716	A	M
 2110	539333	1	2	53	10	Michal	Staněk			45	OSVČ	Jílové u Prahy	99	53	A	M
 2110	539368	1	2	901	10	Tereza	Trojánková			35	kadeřnice	Kamenný Přívoz	99	80	A	F
 2110	539384	1	2	901	10	Luděk	Černý	Mgr.		62	obchodní ředitel	Kněževes	99	80	A	M
@@ -1779,7 +1779,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	539902	1	2	901	10	Julie	Ulrychová	Bc.		34	ekonomka	Zvole	99	80	A	F
 2110	540765	1	2	463	10	Martin	Cihla	Bc.		46	analytik dat	Mníšek pod Brdy	99	80	A	M
 2110	531723	1	3	427	10	Pavel	Mařánek			73	důchodce	Rudná	99	80	A	M
-2110	539139	1	3	901	10	Karel	Műller	prof. PhDr.	Ph.D.	50	VŠ pedagog	Černošice	99	80	A	
+2110	539139	1	3	901	10	Karel	Műller	prof. PhDr.	Ph.D.	50	VŠ pedagog	Černošice	99	80	A	M
 2110	539198	1	3	495	10	Marie	Nehasilová	Ing.	Ph.D.	35	vědecký pracovník - stavebnictví	Dobřichovice	99	80	A	F
 2110	539244	1	3	53	10	Hana	Šinkovičová			50	referent	Hostivice	99	53	A	F
 2110	539325	1	3	470	10	Petr	Solař	Bc.		24	student diplomacie, stážista v Radě EU	Jesenice	99	80	A	M
@@ -1847,7 +1847,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	539660	1	1	901	11	Pavel	Hynek			77	důchodce	Slapy	99	80	A	M
 2110	539732	1	1	901	11	Miloš	Čapek			74	důchodce	Masečín	99	80	A	M
 2110	539759	1	1	903	11	Václav	Fafejta	Ing.		47	letecký konstruktér	Třebotov	99	80	A	M
-2110	539813	1	1	470	11	Jan	Farfán	Ing.		49	manažer v nadnárodní společnosti	Velké Přílepy	99	166	A	
+2110	539813	1	1	470	11	Jan	Farfán	Ing.		49	manažer v nadnárodní společnosti	Velké Přílepy	99	166	A	M
 2110	539848	1	1	901	11	Stanislav	Drábek	JUDr.		63	advokát	Vrané nad Vltavou	99	80	A	M
 2110	539872	1	1	901	11	Petr	Beránek			55	konzultant	Zbuzany	99	80	A	M
 2110	539881	1	1	902	11	Roman	Janoušek			50	provozní	Zlatníky	99	80	A	M
@@ -1909,7 +1909,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	539881	1	4	903	11	David	Marienka			36	truhlář, operátor	Zlatníky	99	80	A	M
 2110	540765	1	4	427	11	Eva	Wollnerová	Ing.		42	manažerka controllingu	Mníšek pod Brdy	99	80	A	F
 2110	531723	1	5	470	11	Marta	Čížková		DiS.	43	administrátorka projektů, Lesy ČR	Rudná	99	80	A	F
-2110	539139	1	5	902	11	Ondřej	Pařík	Ing.		39	projektový manažer M&A, galanterista, zastupitel	Černošice	99	80	A	
+2110	539139	1	5	902	11	Ondřej	Pařík	Ing.		39	projektový manažer M&A, galanterista, zastupitel	Černošice	99	80	A	M
 2110	539236	1	5	53	11	Lucie	Šrajerová			37	administrativní pracovnice	Horoměřice	99	53	A	F
 2110	539244	1	5	371	11	Jana	Bedrnová			52	účetní	Hostivice	7	7	A	F
 2110	539325	1	5	501	11	Petra	Quirsfeldová			48	office manager	Jesenice	99	80	A	F
@@ -2011,7 +2011,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	531723	1	1	1360	13	Dagmar	Königová			69	důchodce	Rudná	99	80	A	F
 2110	539139	1	1	721	13	Petr	Hopfinger	Mgr.		44	ředitel gymnázia	Černošice	99	721	A	M
 2110	539198	1	1	901	13	Samuel John	King	BcA.		28	grafik - výtvarník	Dobřichovice	99	80	A	M
-2110	539210	1	1	470	13	Jan	Tomášek		DiS.	41	produktový specialista/obchodní manažer	Dolní Břežany	99	166	A	M
+2110	539210	1	1	470	13	Jan	Tomášek		DiS.	41	produktový specialista/obchodní manažér	Dolní Břežany	99	166	A	M
 2110	539236	1	1	901	13	Jan	Mikulka	doc. Ing.	CSc.	69	vědecký pracovník	Horoměřice	99	80	A	M
 2110	539244	1	1	773	13	Josef	Lopata	Ing.		60	podnikatel	Hostivice	773	773	A	M
 2110	539309	1	1	901	13	Aleš	Jíra	doc. Ing.	Ph.D.	43	vysokoškolský pedagog	Chýně	99	80	A	M
@@ -2111,7 +2111,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	539848	1	1	901	14	Michaela	Šlocarová			28	mateřská dovolená	Vrané nad Vltavou	99	80	A	F
 2110	539902	1	1	902	14	David	Synek			41	řidič Zdravotnické záchranné služby/vedoucí údržby	Zvole	99	80	A	M
 2110	540765	1	1	166	14	Josef	Vítek	Ing.		39	produkt manager IT	Mníšek pod Brdy	99	166	A	M
-2110	513458	1	2	470	14	Roman	Ihl			55	podnikatel	Vestec	99	80	A	
+2110	513458	1	2	470	14	Roman	Ihl			55	podnikatel	Vestec	99	80	A	M
 2110	531723	1	2	389	14	Irena	Prokůpková			30	podnikatelka	Rudná	99	80	A	F
 2110	539139	1	2	53	14	Lenka	Košťálová	Bc.		36	podnikatel	Černošice	99	53	A	F
 2110	539198	1	2	389	14	Jan	Neubert	MgA.		70	svobodný umělec, fotograf	Dobřichovice	99	80	A	M
@@ -2330,7 +2330,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 2110	539325	1	5	501	19	Milan	Dubravský		DiS.	29	marketingový specialista	Jesenice	99	80	A	M
 2110	539325	1	6	901	19	Michal	Marek			61	soukromý podnikatel	Osnice	99	80	A	M
 2110	539627	1	6	353	19	Tomáš	Drábek			21	student	Roztoky	53	53	A	M
-2110	539627	1	7	470	19	Jan	Havlíček			49	obchodní zástupce	Roztoky	166	166	A	
+2110	539627	1	7	470	19	Jan	Havlíček			49	obchodní zástupce	Roztoky	166	166	A	M
 2110	539139	1	1	721	20	Petr	Pánek			53	prodavač	Černošice	99	721	A	M
 2110	539325	1	1	427	20	Lucie	Bansetová	Bc.		40	referent Krajská hygienická správa	Osnice	99	80	A	F
 2110	539627	1	1	480	20	Kamila	Carbolová	Mgr.		43	psychoterapeutka	Roztoky	99	721	A	F

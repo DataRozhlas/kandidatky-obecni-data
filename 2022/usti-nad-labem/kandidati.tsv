@@ -21,7 +21,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4207	568147	1	1	901	1	Walter	Wolf			62	vedoucí údržby	Petrovice	99	80	A	M
 4207	568155	1	1	1245	1	Michaela	Hanusíková			43	státní zaměstnanec	Povrly	99	1245	A	F
 4207	568201	1	1	47	1	Anna	Říhová			64	důchodkyně	Stadice	99	47	A	F
-4207	568287	1	1	902	1	Barbora	Kopecká	Mgr.		39	asistent pedagoga, jednatel	Tašov	99	80	A	F
+4207	568287	1	1	902	1	Barbora	Kopecká			39	asistent pedagoga, jednatel	Tašov	99	80	A	F
 4207	568295	1	1	901	1	Jan	Doubrava	Ing.		42	starosta obce	Varvažov	99	80	A	M
 4207	568309	1	1	901	1	Radka	Wenclová	Mgr.		49	mediátorka	Tisá	99	80	A	F
 4207	568350	1	1	53	1	Michal	Kulhánek	Mgr.		42	učitel SŠ	Velké Březno	53	53	A	M
@@ -301,7 +301,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4207	568287	1	1	902	3	Jitka	Machoňová			58	hlavní účetní	Tašov	99	80	A	F
 4207	568295	1	1	901	3	Lenka	Kurtová	Ing.		44	specialista kvality	Varvažov	99	80	A	F
 4207	568309	1	1	901	3	Pavel	Aksamit	Ing.		48	ředitel výstavby	Tisá	99	80	A	M
-4207	568350	1	1	53	3	Petr	Žižka			46	manager	Valtířov	53	53	A	M
+4207	568350	1	1	53	3	Petr	Žižka			46	manažer	Valtířov	53	53	A	M
 4207	568384	1	1	902	3	Roman	Svoboda			54	technik	Zubrnice	99	80	A	M
 4207	501298	1	2	1487	3	Petr	Krause	Ing.		42	projektový inženýr-senior	Severní Terasa	1227	1227	A	M
 4207	502081	1	2	1128	3	Bohumila	Moravcová	Ing.		38	manažer pro oblast životního prostředí	Krásné Březno	1128	1128	A	F
@@ -498,7 +498,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4207	502081	1	5	540	4	Jiří	Rejzek			57	živnostník, bytový servis	Neštěmice	99	80	A	M
 4207	502316	1	5	1195	4	Tomáš	Růžička	Bc.		28	vedoucí autoservisu	Střekov	99	1195	A	M
 4207	553697	1	5	901	4	Martina	Šimková			49	provozní	Trmice	99	80	A	F
-4207	554804	1	5	1616	4	Jiří	Němec			44	biomedicinský technik	Klíše	1247	1247	A	M
+4207	554804	1	5	1616	4	Jiří	Němec			44	biomedicínský technik	Klíše	1247	1247	A	M
 4207	567892	1	5	768	4	Slavomír	Chroust	Ing.		44	vedoucí oddělení ochrany spotřebitele	Ústí nad Labem-centrum	768	768	A	M
 4207	568007	1	5	129	4	Václav	Čermák	Ing.		58	energetik	Chabařovice	99	129	A	M
 4207	568015	1	5	901	4	Václav	Sklenář			48	oblastní ředitel	Chlumec	99	80	A	M
@@ -594,7 +594,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4207	568104	1	2	902	5	Pavel	Vidlička			46	jednatel společnosti	Březí	99	80	A	M
 4207	568147	1	2	902	5	Rudolf	Glaser			44	obchodní zástupce	Petrovice	99	80	A	M
 4207	568155	1	2	901	5	Libor	Hladík			55	podnikatel	Povrly	99	80	A	M
-4207	568201	1	2	903	5	Miloš	Hostovský			44	marketing náměstek	Habří	99	80	A	M
+4207	568201	1	2	903	5	Miloš	Hostovský			44	marketing. náměstek	Habří	99	80	A	M
 4207	568287	1	2	901	5	Renáta	Horníčková			40	prodavačka	Tašov	99	80	A	F
 4207	568309	1	2	903	5	Josef	Trnka	Bc.		36	inženýr železniční dopravy	Tisá	99	80	A	M
 4207	568350	1	2	903	5	Daniel	Červinka	Mgr.		54	státní zaměstnanec	Velké Březno	99	80	A	M
@@ -617,7 +617,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4207	568309	1	3	902	5	Čestmír	Kuchařík			31	zástupce ve výrobě	Tisá	99	80	A	M
 4207	568350	1	3	902	5	Martin	Kratochvíl	Bc.		41	obchodní zástupce	Velké Březno	99	80	A	M
 4207	501298	1	4	1616	5	Ivana	Filégrová			55	obchodní zástupce	Severní Terasa	99	80	A	F
-4207	502081	1	4	785	5	Vladimír	Budinský	Ing.		69	projektant dopravních staveb, koncepce cyklistických tras v Ústí n.L.	Neštěmice	785	785	A	M
+4207	502081	1	4	785	5	Vladimír	Budinský	Ing.		69	projektant dopravních staveb, koncepce cyklistických tras v ÚK	Neštěmice	785	785	A	M
 4207	502316	1	4	1616	5	Miroslav	Kindl			19	student	Svádov	99	80	A	M
 4207	553697	1	4	40	5	Adéla	Lázničková			21	asistentka pedagoga, studentka	Koštov	99	40	A	F
 4207	554804	1	4	166	5	Jiří	Drbal			66	ředitel obchodní firmy	Střekov	166	166	A	M
@@ -704,7 +704,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4207	568023	1	1	903	6	Zdeněk	Vlásek			49	obchodní zástupce	Žežice	99	80	A	M
 4207	568058	1	1	902	6	Eliška	Kalousová			32	vedoucí provozního úseku	Libouchec	99	80	A	F
 4207	568091	1	1	905	6	Lenka	Havlíčková			46	OSVČ/ zdravotní sestra	Malé Březno	99	80	A	F
-4207	568104	1	1	901	6	Roman	Duchoň			43	technik-chemik	Horní Zálezly	99	80	A	M
+4207	568104	1	1	901	6	Roman	Duchoň			43	technik - chemik	Horní Zálezly	99	80	A	M
 4207	568147	1	1	901	6	Matěj	Žák			28	stavební technik	Krásný Les	99	80	A	M
 4207	568155	1	1	1245	6	Martina	Vavrochová			37	rodičovská dovolená	Neštědice	99	1245	A	F
 4207	568201	1	1	47	6	Roman	Gargalík			53	truhlář	Řehlovice	99	47	A	M
@@ -727,7 +727,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4207	568023	1	2	902	6	Martin	Jouza	Ing.		68	jednatel společnosti	Chuderov	99	80	A	M
 4207	568058	1	2	785	6	Jitka	Müllerová			46	OSVČ	Libouchec	99	785	A	F
 4207	568091	1	2	903	6	Marcel	Kondrád			28	technik	Leština	99	80	A	M
-4207	568104	1	2	902	6	Miroslav	Kopecký	Bc.		55	policista-komisař SKPV	Čeřeniště	99	80	A	M
+4207	568104	1	2	902	6	Miroslav	Kopecký	Bc.		55	policista - komisař SKPV	Čeřeniště	99	80	A	M
 4207	568147	1	2	902	6	Jakub	Adámek			37	technicko-hospodářský pracovník	Petrovice	99	80	A	M
 4207	568155	1	2	901	6	Jakub	Hacko	Mgr.		34	učitel	Povrly	99	80	A	M
 4207	568201	1	2	903	6	Kateřina Radana	Drbalová			40	učitelka	Moravany	99	80	A	F
@@ -950,7 +950,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4207	567892	1	11	1128	7	Olga	Popelková	MUDr.		67	lékař stomatologie	Ústí nad Labem-centrum	99	1128	A	F
 4207	502081	1	12	1487	7	Stanislava	Háková			68	asistentka	Krásné Březno	1114	1114	A	F
 4207	502316	1	12	1487	7	Lucie	Nešporová			36	řidička	Sebuzín	1114	1114	A	F
-4207	554804	1	12	540	7	Aleš	Fajstaver			19	student Právnické fakulty UK, předseda mladých lidovců v Ústeckém kraji	Střekov	1	1	A	M
+4207	554804	1	12	540	7	Aleš	Fajstaver			19	student Právnické fakulty UK, předseda Mladých lidovců v Ústeckém kraji	Střekov	1	1	A	M
 4207	567892	1	12	1012	7	Roman	Eckert			56	profesionální trenér plavání v AKADEMII ÚSTECKÝCH SPORTŮ	Klíše	1012	1012	A	M
 4207	502316	1	13	53	7	Jana	Tošovská	Mgr.		45	finanční manažerka	Brná	53	53	A	F
 4207	554804	1	13	1245	7	Jana	Makovská			65	účetní	Ústí nad Labem-centrum	99	1245	A	F
@@ -968,7 +968,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4207	568023	1	1	903	8	Petr	Uhlíř	Bc.		41	obchodní ředitel	Chuderov	99	80	A	M
 4207	568058	1	1	902	8	Jan	Rickl			40	řidič	Libouchec	99	80	A	M
 4207	568091	1	1	905	8	Adrijana	Vildová			45	účetní	Malé Březno	99	80	A	F
-4207	568104	1	1	901	8	Martin	Fengl	Ing.		48	technik-vedoucí oddělení	Čeřeniště	99	80	A	M
+4207	568104	1	1	901	8	Martin	Fengl	Ing.		48	technik - vedoucí oddělení	Čeřeniště	99	80	A	M
 4207	568147	1	1	901	8	Marek	Peters			22	geodet	Petrovice	99	80	A	M
 4207	568155	1	1	1245	8	Kateřina	Nováková			47	žena v domácnosti	Povrly	99	1245	A	F
 4207	568201	1	1	47	8	Antonín	Hrdlička			53	řidič	Stadice	99	47	A	M
@@ -1095,7 +1095,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4207	568023	1	1	903	9	Miroslav	Stejskal			53	řidič ŘSD	Radešín	99	80	A	M
 4207	568058	1	1	902	9	Petr	Wild			48	dělník	Libouchec	99	80	A	M
 4207	568091	1	1	905	9	Josef	Švejda			71	důchodce	Leština	99	80	A	M
-4207	568104	1	1	901	9	Ivana	Šťastná			42	mzdová účetní-personalistka	Malečov	99	80	A	F
+4207	568104	1	1	901	9	Ivana	Šťastná			42	mzdová účetní - personalistka	Malečov	99	80	A	F
 4207	568147	1	1	901	9	Pavel	Antolič			38	inspektor BOZP	Petrovice	99	80	A	M
 4207	568155	1	1	1245	9	Oldřich Jan	Červenka		DiS.	34	učitel	Povrly	99	1245	A	M
 4207	568201	1	1	47	9	Petr	Říha			50	stavbyvedoucí	Stadice	99	47	A	M
@@ -1240,7 +1240,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4207	554804	1	3	53	10	Pavel	Kašpar			47	obchodní ředitel v soukromé společnosti	Svádov	53	53	A	M
 4207	567892	1	3	166	10	Marta	Žitková			50	laborantka	Bukov	99	166	A	F
 4207	568007	1	3	901	10	Roman	Kučera			47	řidič	Chabařovice	99	80	A	M
-4207	568015	1	3	88	10	Vladislav	Trnka			33	zdravotnický záchranář	Chlumec	99	88	A	
+4207	568015	1	3	88	10	Vladislav	Trnka			33	zdravotnický záchranář	Chlumec	99	88	A	M
 4207	568058	1	3	901	10	Václav	Honsa			51	technik	Libouchec	99	80	A	M
 4207	568091	1	3	901	10	Kateřina	Mikšovská	Bc.	DiS.	43	radiologický asistent	Malé Březno	99	80	A	F
 4207	568155	1	3	53	10	Kamil	Němec	Mgr.		71	důchodce	Povrly	53	53	A	M
@@ -1577,7 +1577,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4207	554804	1	6	768	13	Jiří	Krois	Mgr.		33	pedagog	Střekov	99	768	A	M
 4207	567892	1	6	53	13	Michal	Livora			73	důchodce	Bukov	99	53	A	M
 4207	568007	1	6	1114	13	Jan	Soukup			37	živnostník - automechanik	Chabařovice	99	1114	A	M
-4207	568015	1	6	456	13	Jiřina	Štechová			56	stavbyvedoucí	Chlumec	99	80	A	
+4207	568015	1	6	456	13	Jiřina	Štechová			56	stavbyvedoucí	Chlumec	99	80	A	F
 4207	501298	1	7	1128	13	Eliška	Parýzková	Mgr.		24	učitelka	Severní Terasa	99	1128	A	F
 4207	502081	1	7	529	13	Martin	Novotný	Bc.		28	softwarový vývojář	Krásné Březno	99	80	A	M
 4207	502316	1	7	529	13	Erika	Šperlová			62	konzultantka pro korporátní klientelu	Brná	99	80	A	F
@@ -1691,7 +1691,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4207	567892	1	8	529	14	Karolína	Žákovská	JUDr.	Ph.D.	46	právnička, vysokoškolská pedagožka, krajská zastupitelka zabývající se problematikou národnostních menšin a cizinců	Ústí nad Labem-centrum	5	5	A	F
 4207	568007	1	8	1327	14	Šárka	Bezchlebová	Bc.		41	vedoucí ekonomicko-administrativního úseku v Hospicu sv.Štěpána	Chabařovice	99	53	A	F
 4207	568015	1	8	902	14	Václav	Suchý	Mgr.		60	profesor SEŠ	Chlumec	99	80	A	M
-4207	502081	1	9	768	14	Helena	Nováková	Ing.		28	pracovníce útvaru pro kontakt s veřejností	Neštěmice	99	768	A	F
+4207	502081	1	9	768	14	Helena	Nováková	Ing.		28	pracovnice útvaru pro kontakt s veřejností	Neštěmice	99	768	A	F
 4207	502316	1	9	1012	14	Roland	Goltsch	Ing.		27	IT specialista	Střekov	99	1012	A	M
 4207	554804	1	9	1195	14	Klára	Nováková			48	zdravotní laborantka	Střekov	99	1195	A	F
 4207	567892	1	9	540	14	Monika	Zachariášová			43	vedoucí autoservisu	Skorotice	99	80	A	F
@@ -1864,7 +1864,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4207	554804	1	4	166	18	Lukáš	Berger			35	pracovník v automotive	Vaňov	99	166	A	M
 4207	554804	1	5	1616	18	Robert	Holub			51	OSVČ	Klíše	99	80	A	M
 4207	567892	1	5	768	18	Petr	Vítek			19	student	Ústí nad Labem-centrum	99	768	A	M
-4207	554804	1	6	768	18	Tom	Nestorski			33	systémový specialista	Severní Terasa	768	768	A	M
+4207	554804	1	6	768	18	Tom	Nestoroski			33	systémový specialista	Severní Terasa	768	768	A	M
 4207	567892	1	6	53	18	Petr	Kubát	Ing.		60	vedoucí vývojového pracoviště	Bukov	53	53	A	M
 4207	554804	1	7	785	18	Zuzana	Hašková	MUDr.		66	praktická lékařka	Božtěšice	99	785	A	F
 4207	567892	1	7	1616	18	Zuzana	Dytrychová			47	zdravotní sestra	Ústí nad Labem-centrum	99	80	A	F
@@ -1920,7 +1920,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4207	567892	1	8	529	20	Tomáš	Rubinstein			49	řidič MHD	Bukov	720	720	A	M
 4207	554804	1	9	1195	20	Kateřina	Kohoutová			43	administrativní pracovník	Střekov	99	1195	A	F
 4207	567892	1	9	540	20	Josef	Vlach	Ing.		47	analytik České pošty	Božtěšice	99	80	A	M
-4207	554804	1	10	529	20	Petra	Holasová	Mgr. Bc.		60	ředitelka základní školy, členka rady mětského obvodu Ústí nad Labem-město	Ústí nad Labem-centrum	99	80	A	F
+4207	554804	1	10	529	20	Petra	Holasová	Mgr. Bc.		60	ředitelka základní školy, členka rady městkého obvodu Ústí nad Labem-město	Ústí nad Labem-centrum	99	80	A	F
 4207	567892	1	10	1487	20	Josef	Devera			79	mostní zámečník	Ústí nad Labem-centrum	99	1114	A	M
 4207	554804	1	11	47	20	Petra	Buldrová			41	obchodní referent	Krásné Březno	99	47	A	F
 4207	567892	1	11	1128	20	Marek	Šára			27	podnikatel	Skorotice	99	1128	A	M
@@ -2022,12 +2022,12 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4207	554804	1	4	166	27	Milan	Císař			48	OSVČ	Neštěmice	99	166	A	M
 4207	554804	1	5	1616	27	Jana	Mešo	Mgr.		52	učitelka	Bukov	99	80	A	F
 4207	554804	1	6	768	27	Josef	Říha			72	senior	Mojžíř	99	768	A	M
-4207	554804	1	7	785	27	Iveta	Černohorská	Mgr.		54	vrchní sestra interního oddělení Masarykova nemocnice Ústí n.L.	Severní Terasa	7	785	A	F
+4207	554804	1	7	785	27	Iveta	Černohorská	Mgr.		54	vrchní sestra interního oddělení Masarykovy nemocnice v Ústí n.L.	Severní Terasa	7	785	A	F
 4207	554804	1	8	1487	27	Antonín	Kotyza	Ing.		57	středoškolský učitel	Krásné Březno	1227	1227	A	M
 4207	554804	1	9	1195	27	Kateřina	Polenová			48	obchodní zástupce	Střekov	99	1195	A	F
 4207	554804	1	10	529	27	Tereza	Konzalová			41	obchodní pracovník	Severní Terasa	99	80	A	F
 4207	554804	1	11	47	27	Oldřich	Turner			84	důchodce	Ústí nad Labem-centrum	47	47	A	M
-4207	554804	1	12	540	27	Irena	Skálová			71	oční optik, optometristka	Severní Terasa	99	80	A	F
+4207	554804	1	12	540	27	Irena	Skálová			71	oční optik, optometrista	Severní Terasa	99	80	A	F
 4207	554804	1	13	1245	27	Aleš	Kaplan			36	OSVČ	Severní Terasa	99	1245	A	M
 4207	554804	1	1	1012	28	Iva	Berčíková	Mgr.		63	předsedkyně MENSA Ústí n.L.	Severní Terasa	99	1012	A	F
 4207	554804	1	2	1128	28	Jiří	Barlog	Mgr.		43	jednatel společnosti	Severní Terasa	99	1128	A	M
@@ -2064,7 +2064,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4207	554804	1	7	785	30	Milan	Adámek	Mgr.		43	pedagog ZŠ, hudebník	Ústí nad Labem-centrum	7	785	A	M
 4207	554804	1	8	1487	30	Marta	Ševčíková			71	účetní	Všebořice	1114	1114	A	F
 4207	554804	1	9	1195	30	Šárka	Nekovářová			41	šička	Střekov	99	1195	A	F
-4207	554804	1	10	529	30	Karel	Karika			61	místopředseda městského obvodu Ústí nad Labem-město	Ústí nad Labem-centrum	720	720	A	M
+4207	554804	1	10	529	30	Karel	Karika			61	místostarosta městského obvodu Ústí nad Labem-město	Ústí nad Labem-centrum	720	720	A	M
 4207	554804	1	11	47	30	František	Zavadil			71	důchodce	Klíše	47	47	A	M
 4207	554804	1	12	540	30	Omar	Al-Eraidi			20	student chovu koní, instruktor výcviku problémových koní a přeprava zvířat	Strážky	99	80	A	M
 4207	554804	1	13	1245	30	Josef	Paus			85	důchodce	Ústí nad Labem-centrum	99	1245	A	M
@@ -2100,7 +2100,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4207	554804	1	4	166	33	Irena	Výborná			67	zdravotní sestra	Střekov	99	166	A	F
 4207	554804	1	5	1616	33	Natalie	Tajflová			19	studentka	Ústí nad Labem-centrum	99	80	A	F
 4207	554804	1	6	768	33	Josef	Janeček			56	podnikatel	Vaňov	99	768	A	M
-4207	554804	1	7	785	33	Aleš	Novotný	Mgr.		42	pedagog, učitel plavání. trenér plavání	Severní Terasa	99	785	A	M
+4207	554804	1	7	785	33	Aleš	Novotný	Mgr.		42	pedagog, učitel plavání, trenér plavání	Severní Terasa	99	785	A	M
 4207	554804	1	8	1487	33	Alena	Chroustová	Ing.		46	delegátka cestovního ruchu	Severní Terasa	1227	1227	A	F
 4207	554804	1	9	1195	33	Dominik	Bandas	Bc.		27	středoškolský učitel	Střekov	99	1195	A	M
 4207	554804	1	10	529	33	Marta	Šašková	Ing.		41	referentka Krajského úřadu	Severní Terasa	99	80	A	F
@@ -2108,7 +2108,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4207	554804	1	12	540	33	František	Konečný			47	procesní inženýr	Střekov	721	721	A	M
 4207	554804	1	13	1245	33	Matěj	Konfal			33	junior manažer	Střekov	99	1245	A	M
 4207	554804	1	1	1012	34	Lucie	Gerychová	Ing.		44	zástupce ředitele ZŠ Pod Vodojemem	Klíše	99	1012	A	F
-4207	554804	1	2	1128	34	Ivana	Kurljková			67	zastupitelka města Ústí nad Labem	Ústí nad Labem-centrum	1128	1128	A	F
+4207	554804	1	2	1128	34	Ivana	Kurljuková			67	zastupitelka města Ústí nad Labem	Ústí nad Labem-centrum	1128	1128	A	F
 4207	554804	1	3	53	34	Vojta	Kočárník			18	student	Brná	99	53	A	M
 4207	554804	1	4	166	34	Michaela	Svatoňová			39	provozní manažerka	Bukov	99	166	A	F
 4207	554804	1	5	1616	34	Hana	Klikarová	Ing.		52	úvěrový poradce	Klíše	99	80	A	F
@@ -2126,7 +2126,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4207	554804	1	4	166	35	Marta	Žitková			50	laborantka	Bukov	99	166	A	F
 4207	554804	1	5	1616	35	Kristýna	Ečerová			28	pracovník obchodního provozu	Neštěmice	99	80	A	F
 4207	554804	1	6	768	35	Tomáš	Nesvadba			32	zástupce prodejny telekomunikačního operátora	Bukov	99	768	A	M
-4207	554804	1	7	785	35	Miroslav Edward	Beneš			46	IT technik, Ústav experimentální mediciny Akademie věd ČR	Krásné Březno	99	785	A	M
+4207	554804	1	7	785	35	Miroslav Edward	Beneš			46	IT technik, Ústav experimentální medicíny Akademie věd ČR	Krásné Březno	99	785	A	M
 4207	554804	1	8	1487	35	Pavlína	Slavíková			22	studentka	Klíše	99	1114	A	F
 4207	554804	1	9	1195	35	Jana	Seibertová			48	farmaceutický asistent	Brná	99	1195	A	F
 4207	554804	1	10	529	35	Pavel	Semerád	Ing.		44	diagnostik, vodohospodář	Severní Terasa	99	80	A	M

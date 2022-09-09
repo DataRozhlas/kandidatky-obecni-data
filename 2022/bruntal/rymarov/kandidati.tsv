@@ -44,7 +44,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8101	597783	1	10	129	4	Petr	Kroutil	Mgr.		47	zástupce ředitelky Gymnázia a SOŠ	Rýmařov	99	129	A	M
 8101	597783	1	11	47	4	Marcela	Kovářová			66	ekonom	Rýmařov	47	47	A	F
 8101	597783	1	1	1	5	Radovan	Servus	Bc.		39	technik	Rýmařov	99	1	A	M
-8101	597783	1	2	371	5	Marek	Bocián	PaedDr.		46	pedagog	Rýmařov	7	7	A	
+8101	597783	1	2	371	5	Marek	Bocián	PaedDr.		46	pedagog	Rýmařov	7	7	A	M
 8101	597783	1	3	768	5	Michal	Furik			30	podnikatel	Rýmařov	99	768	A	M
 8101	597783	1	4	901	5	Martin	Romanov			32	realitní makléř	Rýmařov	99	80	A	M
 8101	597783	1	5	166	5	Miroslav	Glacner	Ing.		52	manažer	Edrovice	99	166	A	M
@@ -91,7 +91,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8101	597783	1	2	371	9	Pavel	Merva			36	OSVČ	Rýmařov	7	7	A	M
 8101	597783	1	3	768	9	Bedřich	Štěpaník			26	inspektor PČR	Rýmařov	99	768	A	M
 8101	597783	1	4	901	9	Jan	Rydzyk			33	OSVČ, obchodní zástupce	Rýmařov	99	80	A	M
-8101	597783	1	5	166	9	Jana	Egidová	Bc.		63	důchodce	Rýmařov	99	166	A	
+8101	597783	1	5	166	9	Jana	Egidová	Bc.		63	důchodce	Rýmařov	99	166	A	F
 8101	597783	1	6	401	9	Anna	Krajíčková			46	učitelka MŠ	Rýmařov	99	80	A	F
 8101	597783	1	7	902	9	Jakub	Zaprianov	Ing.		37	podnikatel	Rýmařov	99	80	A	M
 8101	597783	1	8	1114	9	Zdeněk	Gorčík			46	řidič	Stránské	1114	1114	A	M
@@ -123,7 +123,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8101	597783	1	1	1	12	Miroslav	Hanuš	PhDr. Mgr.		53	učitel	Jamartice	99	1	A	M
 8101	597783	1	2	371	12	Petr	Dolák	MUDr.		72	lékař	Rýmařov	99	80	A	M
 8101	597783	1	3	768	12	Jarolím	Ftáček			70	důchodce	Rýmařov	99	768	A	M
-8101	597783	1	4	901	12	Jan	Fréhar			29	podnikatel	Rýmařov	99	80	A	
+8101	597783	1	4	901	12	Jan	Fréhar			29	podnikatel	Rýmařov	99	80	A	M
 8101	597783	1	5	166	12	Olga	Čajanová			59	zdravotní sestra	Rýmařov	99	166	A	F
 8101	597783	1	6	401	12	Oldřich	Tylšar			31	OSVČ	Rýmařov	99	80	A	M
 8101	597783	1	7	902	12	Lenka	Kastnerová	Ing.		39	účetní	Rýmařov	99	80	A	F
@@ -157,7 +157,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8101	597783	1	2	371	15	Marie	Prášilová			65	zdravotní sestra	Rýmařov	99	80	A	F
 8101	597783	1	3	768	15	Jiří	Lesák			26	policista	Janovice	99	768	A	M
 8101	597783	1	4	901	15	Tomáš	Bednář	Mgr.		37	učitel	Rýmařov	99	80	A	M
-8101	597783	1	5	166	15	František	Příkaský	Ing.		65	podnikatel ve zpracování dřeva	Rýmařov	99	166	A	
+8101	597783	1	5	166	15	František	Příkaský	Ing.		65	podnikatel ve zpracování dřeva	Rýmařov	99	166	A	M
 8101	597783	1	6	401	15	Barbora	Rydzyková			55	účetní	Rýmařov	99	80	A	F
 8101	597783	1	7	902	15	Kamila	Kinclová			46	zaměstnanec	Rýmařov	99	80	A	F
 8101	597783	1	8	1114	15	Jaromír	Koňárek			34	seřizovač	Rýmařov	99	1114	A	M
@@ -170,7 +170,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8101	597783	1	4	901	16	Marek	Hnát			36	technicko - administrativní pracovník	Rýmařov	99	80	A	M
 8101	597783	1	5	166	16	Jan	Rapouch	Ing.		58	jednatel s.r.o.	Janovice	99	166	A	M
 8101	597783	1	6	401	16	Alena	Kučerová			56	účetní	Rýmařov	99	80	A	F
-8101	597783	1	7	902	16	Zdeňka	Pátíková			69	pracující důchodce	Rýmařov	99	80	A	
+8101	597783	1	7	902	16	Zdeňka	Pátíková			69	pracující důchodce	Rýmařov	99	80	A	F
 8101	597783	1	8	1114	16	Lukáš	Langr			35	dělník	Rýmařov	99	1114	A	M
 8101	597783	1	9	53	16	Karolína	Ryšková			19	student	Rýmařov	99	53	A	F
 8101	597783	1	10	129	16	Romana	Valová			41	administrativní pracovnice	Rýmařov	99	129	A	F
@@ -179,7 +179,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8101	597783	1	2	371	17	Miroslav	Merva st.			71	důchodce	Rýmařov	99	80	A	M
 8101	597783	1	3	768	17	Aleš	Podubecký			44	mistr provozu	Rýmařov	99	768	A	M
 8101	597783	1	4	901	17	Petr	Pohanka			38	provozní tiskárny	Edrovice	99	80	A	M
-8101	597783	1	5	166	17	Václav	Orlík	Mgr.		79	důchodce	Rýmařov	99	166	A	
+8101	597783	1	5	166	17	Václav	Orlík	Mgr.		79	důchodce	Rýmařov	99	166	A	M
 8101	597783	1	6	401	17	Anna	Wagnerová			74	referentka	Rýmařov	99	80	A	F
 8101	597783	1	7	902	17	Jiří	Rožňák			61	důchodce	Rýmařov	99	80	A	M
 8101	597783	1	8	1114	17	Iva	Pudová			53	skladnice	Rýmařov	99	1114	A	F
@@ -200,10 +200,10 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8101	597783	1	1	1	19	Pavlína	Juřenová			49	kuchařka	Rýmařov	99	1	A	F
 8101	597783	1	2	371	19	Jiří	Volek			57	OSVČ	Rýmařov	7	7	A	M
 8101	597783	1	3	768	19	František	Juráš			80	důchodce	Rýmařov	99	768	A	M
-8101	597783	1	4	901	19	Kristina	Volková	MUDr.		67	lékařka	Rýmařov	99	80	A	
+8101	597783	1	4	901	19	Kristina	Volková	MUDr.		67	lékařka	Rýmařov	99	80	A	F
 8101	597783	1	5	166	19	Soňa	Kováříková	Ing.		66	důchodce	Rýmařov	99	166	A	F
 8101	597783	1	6	401	19	Josef	Gregovský			43	operátor - manipulant	Rýmařov	99	80	A	M
-8101	597783	1	7	902	19	Aleš	Polák			56	vedoucí manažer	Edrovice	99	80	A	
+8101	597783	1	7	902	19	Aleš	Polák			56	vedoucí manažer	Edrovice	99	80	A	M
 8101	597783	1	8	1114	19	Zdeněk	Sedláček			72	řidič	Rýmařov	1114	1114	A	M
 8101	597783	1	9	53	19	Ivana	Rechtoriková			57	vychovatelka SD	Rýmařov	99	53	A	F
 8101	597783	1	10	129	19	Alena	Selucká			59	farmaceutická asistentka	Rýmařov	99	129	A	F
@@ -211,7 +211,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 8101	597783	1	1	1	20	Josef	Haničinec			79	stavitel	Rýmařov	1	1	A	M
 8101	597783	1	2	371	20	Vladislav	Hýbl			59	průvodce	Rýmařov	99	80	A	M
 8101	597783	1	3	768	20	Petr	Ziegler	Ing.		51	stavební technik	Rýmařov	99	768	A	M
-8101	597783	1	4	901	20	Filip	Hanslián			35	voják AČR	Rýmařov	99	80	A	
+8101	597783	1	4	901	20	Filip	Hanslián			35	voják AČR	Rýmařov	99	80	A	M
 8101	597783	1	5	166	20	Josef	Bernátek			72	podnikatel	Edrovice	99	166	A	M
 8101	597783	1	6	401	20	Dominik	Baďura			26	řidič VZV	Rýmařov	99	80	A	M
 8101	597783	1	7	902	20	Alžběta	Hnilová			38	zaměstnanec	Janovice	99	80	A	F

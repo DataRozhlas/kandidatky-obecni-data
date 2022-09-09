@@ -22,7 +22,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	536687	1	1	901	1	Lukáš	Pospíšil	Ing.		40	vedoucí oddělení dotací	Klopina	99	80	A	M
 7105	536733	1	1	901	1	Eva	Poulíková			59	starostka obce Kolšov	Kolšov	99	80	A	F
 7105	536814	1	1	166	1	Eva	Pěničková			58	laborantka	Kosov	99	166	A	F
-7105	537284	1	1	901	1	Jan	Knobloch			41	obchodní zástupce	Lesnice	99	80	A	
+7105	537284	1	1	901	1	Jan	Knobloch			41	obchodní zástupce	Lesnice	99	80	A	M
 7105	537713	1	1	901	1	Pavel	Hojgr	Ing.		61	starosta	Leština	99	80	A	M
 7105	539961	1	1	7	1	Lada	Cinegrová	Bc.		48	hygienik	Libina	99	7	A	F
 7105	540161	1	1	902	1	Lucie	Dvořáková	Mgr.		35	vychovatelka	Líšnice	99	80	A	F
@@ -98,7 +98,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	536733	1	2	902	1	Andrea	Šmídová			48	účetní	Kolšov	99	80	A	F
 7105	537284	1	2	902	1	Jiří	Chlebníček	Ing.		62	starosta obce	Lesnice	99	80	A	M
 7105	537713	1	2	1	1	Milena	Hradilová			56	vedoucí pošty Partner	Leština	1	1	A	F
-7105	539961	1	2	480	1	Tomáš	Kobza	Mgr. Ing.		44	ekonom a právník, učitel, starosta SDH	Dolní Libina	99	80	A	M
+7105	539961	1	2	480	1	Tomáš	Kobza	Mgr. Ing.		44	ekonom a právník, učitel, starosta SDH	Dolní Libina	99	721	A	M
 7105	540161	1	2	903	1	Kamil	Stratil			44	elektromechanik	Líšnice	99	80	A	M
 7105	540196	1	2	903	1	Jan	Konečný			59	OSVČ	Loštice	99	80	A	M
 7105	540226	1	2	901	1	Martin	Přidalík	Mgr. Bc.	MBA	40	místostarosta obce, profesionální hasič	Kociánov	99	80	A	M
@@ -153,7 +153,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	536393	1	3	901	1	Eva	Janíčková			60	invalidní důchodce	Jestřebí	99	80	A	F
 7105	536521	1	3	902	1	Martin	Navrátil			47	technický pracovník	Jindřichov	99	80	A	M
 7105	536571	1	3	903	1	Vendula	Gottlieb Klosová			36	ekonom - účetní	Kamenná	99	80	A	F
-7105	536733	1	3	181	1	Marek	Doubrava	Mgr.		48	manažer	Kolšov	99	181	A	
+7105	536733	1	3	181	1	Marek	Doubrava	Mgr.		48	manažer	Kolšov	99	181	A	M
 7105	539961	1	3	902	1	Aleš	Skála	Mgr.		39	starosta obce	Libina	99	80	A	M
 7105	540161	1	3	901	1	Jiří	Kvíčala		DiS.	55	starosta obce	Líšnice	99	80	A	M
 7105	540196	1	3	902	1	Šárka	Havelková Seifertová	Bc.		48	management a ekonomika ve veřejné správě	Loštice	99	80	A	F
@@ -175,7 +175,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	541125	1	3	901	1	Lukáš	Frank	Bc.		37	dozorce VSČR	Svébohov	99	80	A	M
 7105	541168	1	3	901	1	Oto	Wonke	Ing.		40	policista	Březná	99	80	A	M
 7105	541222	1	3	902	1	Benedikt	Lavrinčík	Mgr.		32	učitel	Úsov	99	80	A	M
-7105	541265	1	3	480	1	Jana	Fialová	Ing.		46	starostka	Velké Losiny	99	80	A	F
+7105	541265	1	3	480	1	Jana	Fialová	Ing.		46	starostka	Velké Losiny	99	721	A	F
 7105	541354	1	3	53	1	Antonín	Kapl	Mgr. Bc.		58	učitel	Zábřeh	53	53	A	M
 7105	541478	1	3	902	1	Zdeněk	Skřivánek			55	technolog	Zvole	99	80	A	M
 7105	553221	1	3	901	1	Pavel	Hopjan	Ing.		44	specialista vodního hospodářství	Hrabová	99	80	A	M
@@ -233,7 +233,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	540986	1	5	904	1	Iveta	Fojtíková			59	starostka	Sobotín	99	80	A	F
 7105	541079	1	5	903	1	Lukáš	Koreš			41	vedoucí provozu	Staré Město	99	80	A	M
 7105	541109	1	5	53	1	Petr	Fornůsek	Ing.		42	OSVČ	Sudkov	53	53	A	M
-7105	541168	1	5	1114	1	Jaroslav	Nýdecký	Mgr.		58	učitel základní školy	Štíty	1114	1114	A	
+7105	541168	1	5	1114	1	Jaroslav	Nýdecký	Mgr.		58	učitel základní školy	Štíty	1114	1114	A	M
 7105	541265	1	5	1	1	Marta	Hradilová			58	zdravotní sestra	Velké Losiny	1	1	A	F
 7105	541354	1	5	1	1	František	John	RNDr. Mgr.	Ph.D.	44	starosta	Zábřeh	1	1	A	M
 7105	553379	1	5	166	1	Radim	Sršeň	Ing.	Ph.D.	42	starosta obce, náměstek ministra, učitel VŠ	Dolní Studénky	166	166	A	M
@@ -245,7 +245,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	539961	1	6	53	1	Jitka	Zahradníková	Mgr.		40	učitelka	Libina	53	53	A	F
 7105	540196	1	6	401	1	Lubomír	Faltus	Mgr.		55	ředitel školy	Loštice	99	80	A	M
 7105	540471	1	6	501	1	Luděk	Pivoňka			51	analytik rizik ČSOB	Mohelnice	721	721	A	M
-7105	540862	1	6	523	1	Ivo	Škrabal	Mgr.		46	ředitel organizace, předseda finančního výboru, cyklista	Rapotín	99	53	A	
+7105	540862	1	6	523	1	Ivo	Škrabal	Mgr.		46	ředitel organizace, předseda finančního výboru, cyklista	Rapotín	99	53	A	M
 7105	540871	1	6	908	1	Antonín	Kutálek			27	technik dopravy	Rohle	99	80	A	M
 7105	540986	1	6	902	1	Petr	Machus			42	technik, OSVČ	Sobotín	1245	80	A	M
 7105	541079	1	6	902	1	Jana	Lysáková	Mgr.		45	pověřená vedením ZŠ a MŠ	Staré Město	99	80	A	F
@@ -361,7 +361,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	533688	1	2	901	2	Josef	Bubeník	Ing.		73	výzkumný pracovník	Dlouhomilov	99	80	A	M
 7105	534927	1	2	1	2	Radomír	Pech	Ing.		65	provozovatel vodovodu	Dubicko	99	1	A	M
 7105	535532	1	2	903	2	Milan	Podhradský			56	manager obchodu	Hanušovice	99	80	A	M
-7105	535885	1	2	1	2	Kateřina	Suchá			42	pedagog	Hoštejn	99	1	A	
+7105	535885	1	2	1	2	Kateřina	Suchá			42	pedagog	Hoštejn	99	1	A	F
 7105	536091	1	2	470	2	Stanislav	Fidra			55	domovník ZŠ	Hrabišín	99	166	A	M
 7105	536288	1	2	1	2	Milan	Pospíšil			40	truhlář	Jedlí	99	1	A	M
 7105	536393	1	2	902	2	Antonín	Němec			38	státní zaměstnanec	Pobučí	99	80	A	M
@@ -371,7 +371,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	536733	1	2	902	2	Břetislav	Hecl	Ing.		61	středoškolský učitel	Kolšov	99	80	A	M
 7105	537284	1	2	902	2	Jan	Slabý			44	manažer logistiky	Lesnice	99	80	A	M
 7105	537713	1	2	1	2	Pavel	Kleibl	Mgr.		54	technik	Leština	99	1	A	M
-7105	539961	1	2	480	2	Ladislav	Nevřala	Bc.		55	policista, vedoucí skautského oddílu	Libina	99	80	A	M
+7105	539961	1	2	480	2	Ladislav	Nevřala	Bc.		55	policista, vedoucí skautského oddílu	Libina	99	721	A	M
 7105	540161	1	2	903	2	Zdeněk	Koupil	Ing.		42	obchodní manažer	Vyšehorky	99	80	A	M
 7105	540196	1	2	903	2	Vlastislav	Heidenreich			63	OSVČ	Loštice	99	80	A	M
 7105	540226	1	2	901	2	Pavel	Zouhar			58	živnostník	Rejhotice	99	80	A	M
@@ -637,7 +637,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	536733	1	2	902	3	Markéta	Pospíšilová			42	prodejce	Kolšov	99	80	A	F
 7105	537284	1	2	902	3	Jana	Daříčková			59	zaměstnanec obce	Lesnice	99	80	A	F
 7105	537713	1	2	1	3	Eva	Žáková	Mgr.		58	sociální pracovnice Úřadu práce ČR	Leština	99	1	A	F
-7105	539961	1	2	480	3	Iva	Navrátilová	Mgr. Bc.		48	ředitelka ZŠ Libina	Libina	99	80	A	F
+7105	539961	1	2	480	3	Iva	Navrátilová	Mgr. Bc.		48	ředitelka ZŠ Libina	Libina	99	721	A	F
 7105	540161	1	2	903	3	Lukáš	Plesník			30	seřizovač	Vyšehorky	99	80	A	M
 7105	540196	1	2	903	3	Dana	Vavrdová	Ing.		64	ekonomka	Loštice	99	80	A	F
 7105	540226	1	2	901	3	Jan	Borek	MUDr.		31	praktický lékař	Filipová	99	80	A	M
@@ -705,7 +705,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	540773	1	3	1114	3	Petra	Krmelová	Ing.		47	vedoucí výrobní kontroly	Postřelmov	99	1114	A	F
 7105	540854	1	3	901	3	Martin	Jílek	Bc.		32	ekolog u SŽ	Rájec	99	80	A	M
 7105	540862	1	3	902	3	Leona	Pekařová	Ing.		45	interiérový designer	Rapotín	99	80	A	F
-7105	540871	1	3	902	3	Jiří	Váňa			42	automechanik	Janoslavice	99	80	A	
+7105	540871	1	3	902	3	Jiří	Váňa			42	automechanik	Janoslavice	99	80	A	M
 7105	540978	1	3	902	3	Marek	Kamler	Ing.		34	stavební inženýr	Hrabenov	99	80	A	M
 7105	540986	1	3	901	3	Ludmila	Mašlejová			35	administrativní pracovnice	Sobotín	99	80	A	F
 7105	541079	1	3	901	3	Jiří	Albert ml.			31	řidič	Chrastice	99	80	A	M
@@ -713,7 +713,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	541125	1	3	901	3	Květa	Pecháčková	Mgr.		35	SŠ pedagog	Svébohov	99	80	A	F
 7105	541168	1	3	901	3	Vlastimil	Kulhánek			33	inženýr kvality	Štíty	99	80	A	M
 7105	541222	1	3	902	3	Zdeněk	Ticháček	Ing.		62	důchodce	Úsov	99	80	A	M
-7105	541265	1	3	480	3	Karel	Minařík			52	vedoucí provozovny	Velké Losiny	99	80	A	M
+7105	541265	1	3	480	3	Karel	Minařík			52	vedoucí provozovny	Velké Losiny	99	721	A	M
 7105	541354	1	3	53	3	Vratislav	Jarmar	Bc.		44	produkční	Zábřeh	53	53	A	M
 7105	541478	1	3	902	3	Zdeňka	Macháčková			63	učitelka MŠ	Zvole	99	80	A	F
 7105	553221	1	3	901	3	Marcel	Zatloukal			41	řidič	Hrabová	99	80	A	M
@@ -822,7 +822,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	535885	1	1	901	4	Milena	Kreutzová			51	vedoucí kontroly	Hoštejn	99	80	A	F
 7105	536091	1	1	901	4	Václav	Ston			43	vývojář	Hrabišín	99	80	A	M
 7105	536113	1	1	901	4	Rostislav	Kozák			48	zedník	Hynčina	99	80	A	M
-7105	536288	1	1	901	4	Michal	Frydrych			43	OSVČ	Jedlí	99	80	A	
+7105	536288	1	1	901	4	Michal	Frydrych			43	OSVČ	Jedlí	99	80	A	M
 7105	536393	1	1	1	4	Ladislav	Jakl			31	kuchař	Jestřebí	1	1	A	M
 7105	536521	1	1	166	4	Jiří	Winkler			33	stolař, Dřevostav Hanušovice	Jindřichov	99	166	A	M
 7105	536571	1	1	902	4	Karel	Novák			52	IT podpora a vývoj aplikací	Kamenná	99	80	A	M
@@ -903,11 +903,11 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	536733	1	2	902	4	Eva	Zavřelová Valentová	Bc.		44	administrativní pracovník	Kolšov	99	80	A	F
 7105	537284	1	2	902	4	Michal	Hajduk			47	odborný referent	Lesnice	99	80	A	M
 7105	537713	1	2	1	4	Jana	Vepřková			58	referent městského úřadu	Leština	1	1	A	F
-7105	539961	1	2	480	4	Petra	Mazalová	Ing.		46	ekonomka	Dolní Libina	99	80	A	F
+7105	539961	1	2	480	4	Petra	Mazalová	Ing.		46	ekonomka	Dolní Libina	99	721	A	F
 7105	540161	1	2	903	4	Jaroslav	Pátek			47	strojní mechanik	Líšnice	99	80	A	M
 7105	540196	1	2	903	4	Marcela	Drkošová	Mgr.		51	zástupkyně ředitele ZŠ	Loštice	99	80	A	F
 7105	540226	1	2	901	4	Lenka	Diamond			46	referentka odbytu	Loučná nad Desnou	99	80	A	F
-7105	540234	1	2	901	4	Miroslava	Krausová			45	administrativní pracovník	Slavoňov	99	80	A	
+7105	540234	1	2	901	4	Miroslava	Krausová			45	administrativní pracovník	Slavoňov	99	80	A	F
 7105	540331	1	2	901	4	Olga	Temňáková	Mgr.		39	projektová manažerka	Vojtíškov	99	80	A	F
 7105	540366	1	2	901	4	Rostislav	Kotrlý			48	OSVČ	Starý Maletín	99	80	A	M
 7105	540471	1	2	532	4	Martin	Škurek	JUDr.	Ph.D.	38	vysokoškolský pedagog	Mohelnice	768	768	A	M
@@ -925,7 +925,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	541079	1	2	768	4	Lubomír	Tylich			34	zemědělec	Staré Město	99	768	A	M
 7105	541109	1	2	903	4	Sylva	Kvapilová	Bc.		58	diplomovaný radiologický asistent	Sudkov	99	80	A	F
 7105	541125	1	2	902	4	Michal	Norbert			56	řidič autobusu	Svébohov	99	80	A	M
-7105	541168	1	2	1	4	Václav	Kristek	Ing.		37	technik	Štíty	99	1	A	
+7105	541168	1	2	1	4	Václav	Kristek	Ing.		37	technik	Štíty	99	1	A	M
 7105	541222	1	2	47	4	Pavel	Hýbl			50	pracovník ŽV	Úsov	99	47	A	M
 7105	541265	1	2	166	4	Pavel	Šenekl			49	řidič	Velké Losiny	99	166	A	M
 7105	541354	1	2	1350	4	Aleš	Valnoha			40	spolumajitel rodinné cestovní kanceláře, průvodce vojensko-historických zájezdů, člen komise pro životní prostředí a místní části rady města	Zábřeh	720	720	A	M
@@ -976,7 +976,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	541125	1	3	901	4	Radek	Odstrčil	Ing.		34	referent speciálního nářadí	Svébohov	99	80	A	M
 7105	541168	1	3	901	4	Jan	Švéda	Bc.		37	zemědělec	Crhov	99	80	A	M
 7105	541222	1	3	902	4	Leoš	Eckelhart			57	OSVČ	Úsov	99	80	A	M
-7105	541265	1	3	480	4	Jiří	Ševčík	Mgr.		58	ředitel školy	Velké Losiny	99	80	A	M
+7105	541265	1	3	480	4	Jiří	Ševčík	Mgr.		58	ředitel školy	Velké Losiny	99	721	A	M
 7105	541354	1	3	53	4	Tomáš	Jankovský	Ing.		46	IT specialista	Zábřeh	53	53	A	M
 7105	541478	1	3	902	4	Jana	Šoustalová	Ing.		61	OSVČ	Zvole	99	80	A	F
 7105	553221	1	3	901	4	Radim	Potěšil	Ing.		44	programátor	Hrabová	99	80	A	M
@@ -1040,7 +1040,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	500020	1	6	7	4	Jaroslav	Prosser			41	vychovatel	Petrov nad Desnou	99	7	A	M
 7105	523704	1	6	47	4	Ladislav	Ščuka			46	podnikatel	Šumperk	99	47	A	M
 7105	539961	1	6	53	4	Monika	Charvátová			39	účetní	Libina	99	53	A	F
-7105	540196	1	6	401	4	Martin	Rosta			45	agronom	Loštice	99	80	A	
+7105	540196	1	6	401	4	Martin	Rosta			45	agronom	Loštice	99	80	A	M
 7105	540471	1	6	501	4	Roman	Paprsek			55	hasič - velitel směny	Mohelnice	721	721	A	M
 7105	540862	1	6	523	4	Vladimír	Čech			59	manažer, starosta Sdružení dobrovolných hasičů Rapotín	Rapotín	99	53	A	M
 7105	540871	1	6	908	4	Josef	Horneš			30	strojník	Rohle	99	80	A	M
@@ -1163,7 +1163,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	536733	1	2	902	5	Pavel	Winter	Ing.		54	stavební mistr	Kolšov	99	80	A	M
 7105	537284	1	2	902	5	Zdeňka	Václavíková	Mgr.		46	personalistka	Lesnice	99	80	A	F
 7105	537713	1	2	1	5	Jaroslava	Svatoňová	Mgr.		71	důchodkyně	Leština	99	1	A	F
-7105	539961	1	2	480	5	Eliška	Grmelová			64	učitelka MŠ	Libina	99	80	A	F
+7105	539961	1	2	480	5	Eliška	Grmelová			64	učitelka MŠ	Libina	99	721	A	F
 7105	540161	1	2	903	5	Kateřina	Pallová	Mgr.		33	exportní manažer	Vyšehorky	99	80	A	F
 7105	540196	1	2	903	5	Jiří	Špička	Ing.		70	jednatel s. r. o.	Loštice	99	80	A	M
 7105	540226	1	2	901	5	Marek	Diviš	Bc.	DiS.	40	programátor PLC a SCADA systému	Loučná nad Desnou	99	80	A	M
@@ -1236,7 +1236,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	541125	1	3	901	5	Tomáš	Krejčí			23	nástrojař	Svébohov	99	80	A	M
 7105	541168	1	3	901	5	Pavel	Klein	Mgr.		34	pedagog	Štíty	99	80	A	M
 7105	541222	1	3	902	5	Aneta	Malá	Ing.		32	skladová účetní	Úsov	99	80	A	F
-7105	541265	1	3	480	5	Ondřej	Bureš	Bc.		26	provozně technický referent nemocnice Šumperk	Velké Losiny	99	80	A	M
+7105	541265	1	3	480	5	Ondřej	Bureš	Bc.		26	provozně technický referent Nemocnice Šumperk	Velké Losiny	99	721	A	M
 7105	541354	1	3	53	5	Jakub	Hajtmar	Mgr.		35	schvalování drážních vozidel	Zábřeh	53	53	A	M
 7105	541478	1	3	902	5	Jiří	Straka	Ing.		44	ekonom	Zvole	99	80	A	M
 7105	553221	1	3	901	5	Kamil	Smékal			45	seřizovač	Hrabová	99	80	A	M
@@ -1269,7 +1269,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	541109	1	4	902	5	Jaroslav	Novák	Ing.	Ph.D.	39	THP	Sudkov	99	80	A	M
 7105	541168	1	4	47	5	Silvie	Sopelová Kovářová			39	vedoucí prodejny	Štíty	99	47	A	F
 7105	541222	1	4	463	5	Ivo	Polončík			62	zámečník	Úsov	99	80	A	M
-7105	541265	1	4	47	5	František	Balaž			51	zedník	Velké Losiny	99	47	A	M
+7105	541265	1	4	47	5	František	Baláž			51	zedník	Velké Losiny	99	47	A	M
 7105	541354	1	4	461	5	Michal	Sládek	Ing.		35	koordinátor kontaktního centra	Zábřeh	99	163	A	M
 7105	553379	1	4	1	5	Ondřej	Grulich			22	student VUT v Brně	Králec	99	1	A	M
 7105	553476	1	4	470	5	Jakub	Hozík	Ing.		30	vedoucí nabídkového centra	Nemile	99	80	A	M
@@ -1409,7 +1409,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	525880	1	2	902	6	Veronika	Vernerová	Ing.		35	rodičovská dovolená	Bohuslavice	99	80	A	F
 7105	526169	1	2	902	6	Zdeněk	Bureš			57	kontrolor	Branná	99	80	A	M
 7105	530727	1	2	901	6	Michaela	Drozdová	Ing.		29	zootechnička	Strupšín	99	80	A	F
-7105	534927	1	2	1	6	Jana	Linhartová	Bc.		36	účetní	Dubicko	99	1	A	
+7105	534927	1	2	1	6	Jana	Linhartová	Bc.		36	účetní	Dubicko	99	1	A	F
 7105	535532	1	2	903	6	Pavel	Junk			55	státní správa	Hanušovice	99	80	A	M
 7105	535885	1	2	1	6	Alena	Mikolajková			63	dělnice	Hoštejn	1	1	A	F
 7105	536091	1	2	470	6	Ondřej	Pospíšil			42	specialista logistiky	Hrabišín	99	166	A	M
@@ -1420,7 +1420,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	536733	1	2	902	6	Michal	Chládek			39	technický pracovník	Kolšov	99	80	A	M
 7105	537284	1	2	902	6	Jaroslav	Havlík	Ing.		42	projektant	Lesnice	99	80	A	M
 7105	537713	1	2	1	6	Pavel	Klemš			48	kvalitář	Leština	99	1	A	M
-7105	539961	1	2	480	6	Miroslav	Pelikán			55	živnostník	Libina	99	80	A	M
+7105	539961	1	2	480	6	Miroslav	Pelikán			55	živnostník	Libina	99	721	A	M
 7105	540161	1	2	903	6	Martin	Zapletal			35	vedoucí technologie	Líšnice	99	80	A	M
 7105	540196	1	2	903	6	Petr	Dvořák			42	IT technik	Loštice	99	80	A	M
 7105	540226	1	2	901	6	Jiří	Charvát			57	technický pracovník	Rejhotice	99	80	A	M
@@ -1492,7 +1492,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	541125	1	3	901	6	Martin	Šanovec	Ing.		39	konstruktér	Svébohov	99	80	A	M
 7105	541168	1	3	901	6	Marcel	Kubíček			36	mistr výroby	Štíty	99	80	A	M
 7105	541222	1	3	902	6	Michaela	Hašková	Bc.		37	strategická nákupčí	Úsov	99	80	A	F
-7105	541265	1	3	480	6	Jan	Krňávek	Bc.		35	ředitel Ruční papírny	Velké Losiny	99	80	A	M
+7105	541265	1	3	480	6	Jan	Krňávek	Bc.		35	ředitel Ruční papírny	Velké Losiny	99	721	A	M
 7105	541354	1	3	53	6	David	Jílek	Bc.		35	učitel, OSVČ, triatlonista	Zábřeh	99	53	A	M
 7105	553221	1	3	901	6	Dalibor	Hastík	Ing.		52	manažer logistiky	Hrabová	99	80	A	M
 7105	553476	1	3	902	6	Dana	Zemanová			48	školnice	Lupěné	99	80	A	F
@@ -1671,7 +1671,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	536733	1	2	902	7	Radek	Fišnar			44	technický pracovník	Kolšov	99	80	A	M
 7105	537284	1	2	902	7	Zdeněk	Trendl			48	zaměstnanec ostrahy	Lesnice	99	80	A	M
 7105	537713	1	2	1	7	Dana	Ruprechtová			44	prodavačka	Leština	1	1	A	F
-7105	539961	1	2	480	7	Radek	Přibyl			46	kameník	Dolní Libina	99	80	A	M
+7105	539961	1	2	480	7	Radek	Přibyl			46	kameník	Dolní Libina	99	721	A	M
 7105	540161	1	2	903	7	Miloslava	Pulkertová			58	dělnice, OSVČ	Líšnice	99	80	A	F
 7105	540196	1	2	903	7	Gabriela	Kleinová			48	vizážistka	Loštice	99	80	A	F
 7105	540226	1	2	901	7	Markéta	Dobrovolná		DiS.	34	bytová designérka	Filipová	99	80	A	F
@@ -1743,7 +1743,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	541125	1	3	901	7	Jiří	Kunert			42	obsluha CNC stroje	Svébohov	99	80	A	M
 7105	541168	1	3	901	7	Zdeněk	Fingr			47	vedoucí technologie	Štíty	99	80	A	M
 7105	541222	1	3	902	7	Jaromír	Maštalíř			64	důchodce	Úsov	99	80	A	M
-7105	541265	1	3	480	7	Lukáš	Šefraný	Ing.		47	obchodní manažer	Velké Losiny	99	80	A	M
+7105	541265	1	3	480	7	Lukáš	Šefraný	Ing.		47	obchodní manažer	Velké Losiny	99	721	A	M
 7105	541354	1	3	53	7	Martin	Navrátil	Ing.		47	stavební technik	Zábřeh	99	53	A	M
 7105	553221	1	3	901	7	Lukáš	Šebesta			36	řidič	Hrabová	99	80	A	M
 7105	553476	1	3	902	7	Milan	Hojgr			45	OSVČ	Nemile	99	80	A	M
@@ -1755,7 +1755,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	523704	1	4	461	7	Luboš	Cekr	Ing.		51	manažer	Šumperk	99	80	A	M
 7105	525588	1	4	461	7	Milan	Adam			41	obchodní zástupce	Bludov	99	163	A	M
 7105	525804	1	4	902	7	Štěpánka	Divišová	Mgr.		37	učitelka	Komňátka	99	80	A	F
-7105	526169	1	4	903	7	Milan	Vlach			55	podnikatel	Branná	99	80	A	M
+7105	526169	1	4	903	7	Milan	Vach			55	podnikatel	Branná	99	80	A	M
 7105	534927	1	4	902	7	Anežka	Purová			21	studentka	Dubicko	99	80	A	F
 7105	535532	1	4	901	7	Jiří	Machovský			25	obchodní zástupce	Hanušovice	99	80	A	M
 7105	536571	1	4	901	7	Vlasta	Žáčková			63	důchodce	Kamenná	99	80	A	F
@@ -1912,7 +1912,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	536687	1	2	902	8	Zuzana	Jehlíková	MUDr.		56	lékařka	Klopina	99	80	A	F
 7105	537284	1	2	902	8	Radek	Poisl			38	jednatel firmy	Lesnice	99	80	A	M
 7105	537713	1	2	1	8	Lenka	Štěpánová	Bc.		43	OSVČ	Leština	99	1	A	F
-7105	539961	1	2	480	8	Jitka	Benešová	Mgr.		44	učitelka 1. st. ZŠ	Libina	99	80	A	F
+7105	539961	1	2	480	8	Jitka	Benešová	Mgr.		44	učitelka 1. st. ZŠ	Libina	99	721	A	F
 7105	540196	1	2	903	8	Ester	Salamonová			46	OSVČ	Loštice	99	80	A	F
 7105	540226	1	2	901	8	Drahomír	Švestka			48	údržbář strojního zařízení	Rejhotice	99	80	A	M
 7105	540234	1	2	901	8	Lenka	Urbanová	Ing.		40	manažerka kvality	Slavoňov	99	80	A	F
@@ -1976,7 +1976,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	541125	1	3	901	8	Bedřich	Janíček			41	směnový mistr v logistice	Svébohov	99	80	A	M
 7105	541168	1	3	901	8	Cecilie	Kissová	Mgr.		51	pedagog	Štíty	99	80	A	F
 7105	541222	1	3	902	8	Eva	Michalovičová			32	mateřská dovolená	Úsov	99	80	A	F
-7105	541265	1	3	480	8	Zbyněk	Orel	Ing.		44	hasič	Ludvíkov	99	80	A	M
+7105	541265	1	3	480	8	Zbyněk	Orel	Ing.		44	hasič	Ludvíkov	99	721	A	M
 7105	541354	1	3	53	8	Tomáš	Witiska			34	IT specialista	Zábřeh	53	53	A	M
 7105	553221	1	3	901	8	Jaromír	Diblík			52	dělník	Hrabová	99	80	A	M
 7105	554146	1	3	904	8	Vladan	Řičař			60	podnikový metrolog	Vernířovice	99	80	A	M
@@ -2067,7 +2067,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	525880	1	1	901	9	Jan	Čulík			34	kontrolor kvality	Bohuslavice	99	80	A	M
 7105	526169	1	1	901	9	Edita	Korytarová			25	manažer provozu	Branná	99	80	A	F
 7105	532894	1	1	901	9	Roman	Osladil			47	dělník	Bušín	99	80	A	M
-7105	534927	1	1	901	9	Zdeněk	Monse			43	vedoucí	Dubicko	99	80	A	
+7105	534927	1	1	901	9	Zdeněk	Monse			43	vedoucí	Dubicko	99	80	A	M
 7105	535532	1	1	163	9	Jana	Burianová	Ing.		36	OSVČ	Hynčice nad Moravou	99	163	A	F
 7105	535885	1	1	901	9	Miloslav	Tomášek			27	zaměstnanec obce	Hoštejn	99	80	A	M
 7105	536091	1	1	901	9	Jana	Hrochová	Mgr.		27	referent	Hrabišín	99	80	A	F
@@ -2135,7 +2135,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	536687	1	2	902	9	Olga	Pavlicová			55	referentka	Klopina	99	80	A	F
 7105	537284	1	2	902	9	Lubomír	Horký			54	technik STK	Lesnice	99	80	A	M
 7105	537713	1	2	1	9	Jana	Kotrle			46	účetní	Leština	1	1	A	F
-7105	539961	1	2	480	9	Martin	Čapka			33	živnostník	Libina	99	80	A	M
+7105	539961	1	2	480	9	Martin	Čapka			33	živnostník	Libina	99	721	A	M
 7105	540196	1	2	903	9	Jan	Roguljič	Bc.		36	auditor	Loštice	99	80	A	M
 7105	540226	1	2	901	9	Lenka	Přidalíková	Ing.		36	auditorka kvality provozu	Filipová	99	80	A	F
 7105	540234	1	2	901	9	Pavel	Beran			37	kontrolor	Slavoňov	99	80	A	M
@@ -2198,7 +2198,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	541109	1	3	47	9	Jan	Kouřil			72	důchodce	Sudkov	99	47	A	M
 7105	541168	1	3	901	9	Radek	Sedláček			44	obchodní zástupce	Štíty	99	80	A	M
 7105	541222	1	3	902	9	Jakub	Šindelář			32	optik	Úsov	99	80	A	M
-7105	541265	1	3	480	9	Miroslav	Chromek			39	OSVČ lesní dělník	Velké Losiny	99	80	A	M
+7105	541265	1	3	480	9	Miroslav	Chromek			39	OSVČ lesní dělník	Velké Losiny	99	721	A	M
 7105	541354	1	3	53	9	Tomáš	Hoplíček	Ing.		43	odhadce nemovitého majetku	Zábřeh	99	53	A	M
 7105	553221	1	3	901	9	Roman	Schubert			46	dělník	Hrabová	99	80	A	M
 7105	554146	1	3	904	9	Rostislav	Koháček			73	projektant elektro	Vernířovice	99	80	A	M
@@ -2239,7 +2239,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	540196	1	5	1	9	Jarmila	Saparová			47	dělnice	Loštice	99	1	A	F
 7105	540471	1	5	47	9	Josef	Kryl			76	důchodce	Mohelnice	99	47	A	M
 7105	540501	1	5	163	9	Pavla	Šustková			43	sanitářka	Nový Malín	99	163	A	F
-7105	540773	1	5	1	9	Michal	Jáně			32	elektrikář	Postřelmov	99	1	A	
+7105	540773	1	5	1	9	Michal	Jáně			32	elektrikář	Postřelmov	99	1	A	M
 7105	540862	1	5	714	9	Lubomír	Černý			49	technik	Rapotín	99	714	A	M
 7105	540871	1	5	910	9	Radek	Hirt			37	dělník	Rohle	99	80	A	M
 7105	540986	1	5	904	9	Růžena	Linhartová	Ing.		71	důchodce	Rudoltice	99	80	A	F
@@ -2311,7 +2311,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	525804	1	2	903	10	Naděžda	Osladilová			50	sanitářka	Bohdíkov	99	80	A	F
 7105	534927	1	2	1	10	Antonín	Janíček			49	technik výroby	Dubicko	99	1	A	M
 7105	535532	1	2	903	10	Miroslav	Šesták			44	řidič	Hynčice nad Moravou	99	80	A	M
-7105	539961	1	2	480	10	Bohuslav	Kalivoda	Ing.		65	školitel	Dolní Libina	99	80	A	M
+7105	539961	1	2	480	10	Bohuslav	Kalivoda	Ing.		65	školitel	Dolní Libina	99	721	A	M
 7105	540196	1	2	903	10	Jiří	Svoboda			45	technik	Žádlovice	99	80	A	M
 7105	540234	1	2	901	10	Jiří	Jarmar			37	operátor	Lukavice	99	80	A	M
 7105	540471	1	2	532	10	Petr	Vykydal			32	ředitel pobočky	Libivá	99	80	A	M
@@ -2349,7 +2349,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	541109	1	3	47	10	Milena	Schránilová			72	důchodkyně	Sudkov	99	47	A	F
 7105	541168	1	3	901	10	Radim	Havlíček			38	traktorista	Štíty	99	80	A	M
 7105	541222	1	3	902	10	Josef	Janíček			53	řidič	Úsov	99	80	A	M
-7105	541265	1	3	480	10	Andrea	Miličková			45	účetní	Velké Losiny	99	80	A	F
+7105	541265	1	3	480	10	Andrea	Miličková			45	účetní	Velké Losiny	99	721	A	F
 7105	541354	1	3	53	10	Jiří	Neuwirth	Mgr.		59	učitel	Zábřeh	99	53	A	M
 7105	553221	1	3	901	10	Aleš	Neumann			44	městský policista	Hrabová	99	80	A	M
 7105	569445	1	3	904	10	Irena	Kučerová			66	OSVČ	Vikýřovice	99	80	A	F
@@ -2449,7 +2449,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	525804	1	2	903	11	Jan	Skopal			18	student	Bohdíkov	99	80	A	M
 7105	534927	1	2	1	11	Helena	Kylarová			54	pečující osoba	Dubicko	99	1	A	F
 7105	535532	1	2	903	11	Lubomír	Kotík			63	systémový analytik	Hanušovice	99	80	A	M
-7105	539961	1	2	480	11	Jan	Zouhar			53	živnostník	Obědné	99	80	A	M
+7105	539961	1	2	480	11	Jan	Zouhar			53	živnostník	Obědné	99	721	A	M
 7105	540196	1	2	903	11	Lenka	Rulfová	MUDr.		67	lékařka	Loštice	99	80	A	F
 7105	540234	1	2	901	11	Jana	Pulkertová			40	administrativní pracovník	Vlachov	99	80	A	F
 7105	540471	1	2	532	11	Jana	Budišová			60	státní zaměstnanec úřadu práce	Mohelnice	99	80	A	F
@@ -2487,7 +2487,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	541109	1	3	47	11	Františka	Bínová			64	důchodkyně	Sudkov	47	47	A	F
 7105	541168	1	3	901	11	Tomáš	Doležal			36	manager	Štíty	99	80	A	M
 7105	541222	1	3	902	11	Lenka	Drobná			42	operátor	Úsov	99	80	A	F
-7105	541265	1	3	480	11	Ondřej	Ščuglík			55	OSVČ v zemědělství	Bukovice	99	80	A	M
+7105	541265	1	3	480	11	Ondřej	Ščuglík			55	OSVČ v zemědělství	Bukovice	99	721	A	M
 7105	541354	1	3	53	11	Jindřiška	Jankovská			66	důchodce	Zábřeh	99	53	A	F
 7105	553221	1	3	901	11	František	Hajtmar			70	důchodce	Hrabová	99	80	A	M
 7105	569445	1	3	904	11	Jana	Vavrušová	Ing.		55	učitelka	Vikýřovice	99	80	A	F
@@ -2580,7 +2580,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	525804	1	2	903	12	Ida	Maršálková			43	podnikatelka	Bohdíkov	99	80	A	F
 7105	534927	1	2	1	12	Marian	Urbášek			50	skladník	Dubicko	99	1	A	M
 7105	535532	1	2	903	12	Jiří	Fiedler			44	strojvedoucí	Hynčice nad Moravou	99	80	A	M
-7105	539961	1	2	480	12	David	Kohl			39	seřizovač montáže	Dolní Libina	99	80	A	M
+7105	539961	1	2	480	12	David	Kohl			39	seřizovač montáže	Dolní Libina	99	721	A	M
 7105	540196	1	2	903	12	Marie	Kašparová			70	učitelka hudby	Loštice	99	80	A	F
 7105	540234	1	2	901	12	Jan	Hajtmar			71	důchodce	Lukavice	99	80	A	M
 7105	540471	1	2	532	12	Martin	Blažek			51	dělník	Mohelnice	99	80	A	M
@@ -2612,7 +2612,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	541109	1	3	47	12	Václav	Hašek			78	důchodce	Sudkov	99	47	A	M
 7105	541168	1	3	901	12	Marek	Kostelecký			38	operátor lisu	Štíty	99	80	A	M
 7105	541222	1	3	902	12	Lukáš	Lorenc			34	automechanik	Bezděkov u Úsova	99	80	A	M
-7105	541265	1	3	480	12	Světlana	Podhajská	Mgr.		55	učitelka	Velké Losiny	99	80	A	F
+7105	541265	1	3	480	12	Světlana	Podhajská	Mgr.		55	učitelka	Velké Losiny	99	721	A	F
 7105	541354	1	3	53	12	Vladimír	Vysocký	Mgr.		64	sportovní trenér mládeže	Zábřeh	99	53	A	M
 7105	569445	1	3	904	12	Jiří	Vykoukal			46	OSVČ	Vikýřovice	99	80	A	M
 7105	523704	1	4	461	12	Milan	Polášek	PaedDr.		62	učitel SŠ	Šumperk	99	80	A	M
@@ -2627,7 +2627,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	540773	1	4	47	12	Eva	Zbožínková			64	důchodkyně	Postřelmov	99	47	A	F
 7105	540862	1	4	901	12	Pavel	Vavrečka			34	manager RK Losinka	Rapotín	99	80	A	M
 7105	540978	1	4	47	12	Vladimír	Blažek			77	důchodce	Hrabenov	47	47	A	M
-7105	541079	1	4	464	12	Yvona	Zacharová			54	pracovník skladu	Staré Město	99	80	A	
+7105	541079	1	4	464	12	Yvona	Zacharová			54	pracovník skladu	Staré Město	99	80	A	F
 7105	541109	1	4	902	12	Slávek	Hudlík			23	policista	Sudkov	99	80	A	M
 7105	541168	1	4	47	12	Josef	Havlena			75	důchodce	Štíty	47	47	A	M
 7105	541222	1	4	463	12	Miroslava	Rečková			53	kuchařka	Úsov	99	80	A	F
@@ -2695,9 +2695,9 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	525804	1	2	903	13	Pavlína	Strýčková			43	kynolog	Bohdíkov	99	80	A	F
 7105	534927	1	2	1	13	Tomáš	Jedelský			41	podnikatel	Dubicko	99	1	A	M
 7105	535532	1	2	903	13	Petr	Pátek			49	technik	Hanušovice	99	80	A	M
-7105	539961	1	2	480	13	Miloslav	Resler			67	důchodce	Obědné	99	80	A	M
+7105	539961	1	2	480	13	Miloslav	Resler			67	důchodce	Obědné	99	721	A	M
 7105	540196	1	2	903	13	Roman	Kaniščev			31	technik	Loštice	99	80	A	M
-7105	540234	1	2	901	13	Martin	Střecha	Bc.		32	konstruktér	Lukavice	99	80	A	
+7105	540234	1	2	901	13	Martin	Střecha	Bc.		32	konstruktér	Lukavice	99	80	A	M
 7105	540471	1	2	532	13	Kamil	Tichý			33	procesní inženýr	Mohelnice	99	80	A	M
 7105	540501	1	2	687	13	Michael	Veselý	Mgr.		42	učitel na základní škole	Nový Malín	99	53	A	M
 7105	540773	1	2	901	13	Miroslav	Novák			71	důchodce	Postřelmov	7	80	A	M
@@ -2726,7 +2726,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	541079	1	3	901	13	Bohuslav	Mikuláš			64	důchodce	Staré Město	99	80	A	M
 7105	541168	1	3	901	13	Aleš	Kreuziger			48	řidič	Štíty	99	80	A	M
 7105	541222	1	3	902	13	Michal	Demel	Bc.		32	manipulant	Úsov	99	80	A	M
-7105	541265	1	3	480	13	Jiří	Musil			45	OSVČ v lesnictví	Velké Losiny	99	80	A	M
+7105	541265	1	3	480	13	Jiří	Musil			45	OSVČ v lesnictví	Velké Losiny	99	721	A	M
 7105	541354	1	3	53	13	Kristýna	Jílková	Mgr.		29	učitelka ZŠ	Zábřeh	99	53	A	F
 7105	569445	1	3	904	13	Pavel	Ždánský			67	jednatel soukromé firmy	Vikýřovice	99	80	A	M
 7105	523704	1	4	461	13	Jan	Kostecký	Ing.		30	vývojář	Šumperk	99	80	A	M
@@ -2756,7 +2756,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	540196	1	5	1	13	Jan	Svoboda			88	důchodce	Loštice	1	1	A	M
 7105	540471	1	5	47	13	Dana	Štenclová			56	prodavačka	Mohelnice	99	47	A	F
 7105	540501	1	5	163	13	Martin	Matýsek			38	OSVČ	Nový Malín	99	163	A	M
-7105	540773	1	5	1	13	Libor	Hecl			35	obchodní manažer	Postřelmov	99	1	A	
+7105	540773	1	5	1	13	Libor	Hecl			35	obchodní manažer	Postřelmov	99	1	A	M
 7105	540862	1	5	714	13	Leoš	Prachař			48	OSVČ	Rapotín	99	714	A	M
 7105	541079	1	5	903	13	Petra	Faturová	Ing.		30	manažer prodeje	Staré Město	99	80	A	F
 7105	541168	1	5	1114	13	Hana	Ptáčková			32	telefonní operátorka	Štíty	99	1114	A	F
@@ -2809,7 +2809,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	525804	1	2	903	14	Kateřina	Podhorná	Ing.		43	výzkumná pracovnice	Bohdíkov	99	80	A	F
 7105	534927	1	2	1	14	Kamila	Suchá			45	účetní	Dubicko	99	1	A	F
 7105	535532	1	2	903	14	Štefan	Fatura			63	zástupce vedoucího dopravy	Hanušovice	99	80	A	M
-7105	539961	1	2	480	14	Jaroslav	Vojáček	Mgr.		64	vychovatel	Libina	99	80	A	M
+7105	539961	1	2	480	14	Jaroslav	Vojáček	Mgr.		64	vychovatel	Libina	99	721	A	M
 7105	540196	1	2	903	14	Květoslava	Kubová			55	celní deklarantka	Žádlovice	99	80	A	F
 7105	540234	1	2	901	14	Anna	Hegrová	Bc.		35	zdravotní sestra	Lukavice	99	80	A	F
 7105	540471	1	2	532	14	Pavel	Luňák	Ing.		37	středoškolský pedagog	Mohelnice	99	80	A	M
@@ -2840,7 +2840,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	541079	1	3	901	14	Petra	Matoušková	Mgr.		39	učitelka	Staré Město	99	80	A	F
 7105	541168	1	3	901	14	Josef	Břinčil			40	podnikatel	Štíty	99	80	A	M
 7105	541222	1	3	902	14	Denisa	Drtilová			34	nepedagogický pracovník	Úsov	99	80	A	F
-7105	541265	1	3	480	14	Vladimír	Kopal			71	důchodce	Velké Losiny	99	80	A	M
+7105	541265	1	3	480	14	Vladimír	Kopal			71	důchodce	Velké Losiny	99	721	A	M
 7105	541354	1	3	53	14	David	Husovský			47	ředitel provozu banky	Zábřeh	99	53	A	M
 7105	569445	1	3	904	14	Hana	Sadilová			45	učitelka v ZŠ	Vikýřovice	99	80	A	F
 7105	523704	1	4	461	14	Jiří	Valert	Ing. arch.		70	architekt	Šumperk	99	80	A	M
@@ -2862,7 +2862,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	541265	1	4	47	14	Miroslava	Rýznarová			53	úřednice	Žárová	99	47	A	F
 7105	541354	1	4	461	14	Alena	Michalčáková	Ing.		48	účetní společnosti EKO servis	Zábřeh	99	80	A	F
 7105	553379	1	4	1	14	Zuzana	Homolová	Mgr.		39	učitelka	Králec	99	1	A	F
-7105	569445	1	4	1327	14	Tomáš	Oplatek	Ing.		54	ředitel nákupu a logistiky	Vikýřovice	721	721	A	
+7105	569445	1	4	1327	14	Tomáš	Oplatek	Ing.		54	ředitel nákupu a logistiky	Vikýřovice	721	721	A	M
 7105	523704	1	5	401	14	Gabriela	Jurčová			47	učitelka	Šumperk	99	80	A	F
 7105	525588	1	5	53	14	Jindřich	Matěj			74	podnikatel	Bludov	53	53	A	M
 7105	535532	1	5	1	14	Marie	Felnerová			86	důchodce	Hanušovice	1	1	A	F
@@ -2923,7 +2923,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	525804	1	2	903	15	Klára	Divišová	Mgr.		25	studentka	Bohdíkov	99	80	A	F
 7105	534927	1	2	1	15	Růžena	Wolfová			66	důchodkyně	Dubicko	99	1	A	F
 7105	535532	1	2	903	15	Petr	Štefanec			80	důchodce	Hanušovice	99	80	A	M
-7105	539961	1	2	480	15	Vlastimil	Navrátil			46	kvalita ve výrobě	Libina	99	80	A	M
+7105	539961	1	2	480	15	Vlastimil	Navrátil			46	kvalita ve výrobě	Libina	99	721	A	M
 7105	540196	1	2	903	15	Alena	Harbichová	Mgr.		77	pedagog na penzi	Žádlovice	99	80	A	F
 7105	540234	1	2	901	15	Kateřina	Groharová			40	dílenský plánovač	Lukavice	99	80	A	F
 7105	540471	1	2	532	15	Petra	Unzeitigová	Ing.		28	obchodní asistentka - příprava zakázek	Mohelnice	99	80	A	F
@@ -2954,7 +2954,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	541079	1	3	901	15	Martin	Michalčák			48	údržbář	Staré Město	99	80	A	M
 7105	541168	1	3	901	15	Jiří	Kubelka			37	obráběč kovů	Štíty	99	80	A	M
 7105	541222	1	3	902	15	Josef	Kondler			63	zaměstnanec MěÚ	Úsov	99	80	A	M
-7105	541265	1	3	480	15	Jiří	Žák			73	důchodce	Velké Losiny	99	80	A	M
+7105	541265	1	3	480	15	Jiří	Žák			73	důchodce	Velké Losiny	99	721	A	M
 7105	541354	1	3	53	15	Petra	Buřívalová			36	podnikatelka	Zábřeh	99	53	A	F
 7105	569445	1	3	904	15	Dušan	Čížek	Ing.		69	důchodce	Vikýřovice	99	80	A	M
 7105	523704	1	4	461	15	Eva	Filipiová	Mgr.		36	fyzioterapeut	Šumperk	99	80	A	F
@@ -3052,7 +3052,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	541354	1	5	1	17	Jana	Kubíčková	Mgr.		46	učitelka	Zábřeh	1	1	A	F
 7105	523704	1	6	47	17	Jan	Vinkler			64	řidič	Šumperk	99	47	A	M
 7105	540471	1	6	501	17	Tomáš	Mrňka			46	servisní koordinátor pro ČR	Mohelnice	721	721	A	M
-7105	523704	1	7	355	17	Petr	Jakoubek	Ing.		61	středoškolský pedagog	Šumperk	99	1	A	M
+7105	523704	1	7	355	17	Petr	Jakoubek	Mgr.		61	středoškolský pedagog	Šumperk	99	1	A	M
 7105	540471	1	7	1479	17	Kateřina	Šebestová			43	členka osadního výboru Řepová, dělnice	Řepová	99	80	A	F
 7105	541354	1	7	474	17	Jan	Janošík			42	soustružník	Zábřeh	99	80	A	M
 7105	523704	1	8	53	17	Roman	Kovář			53	živnostník, OSVČ	Šumperk	99	53	A	M
@@ -3095,13 +3095,13 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	541354	1	3	53	19	Věra	Hanuliaková	MUDr.		65	důchodce	Zábřeh	99	53	A	F
 7105	523704	1	4	461	19	Josef	Havlík	Mgr.		33	učitel SŠ	Šumperk	99	80	A	M
 7105	540471	1	4	53	19	Ivanka	Pytlíčková			76	učitelka ve výslužbě	Mohelnice	53	53	A	F
-7105	541354	1	4	461	19	Zdeňka	Jásenská	Mgr.		63	důchodkyně, učitelka ZUŠ Zábřeh	Zábřeh	99	80	A	
+7105	541354	1	4	461	19	Zdeňka	Jásenská	Mgr.		63	důchodkyně, učitelka ZUŠ Zábřeh	Zábřeh	99	80	A	F
 7105	523704	1	5	401	19	Vladislav	Mesiarkin	Ing.		68	důchodce	Šumperk	99	80	A	M
 7105	540471	1	5	47	19	Václav	Mičker			66	důchodce	Mohelnice	99	47	A	M
 7105	541354	1	5	1	19	František	Rochovanský	Ing.		38	IT specialista	Zábřeh	1	1	A	M
 7105	523704	1	6	47	19	Květoslav	Štětina			73	důchodce	Šumperk	47	47	A	M
 7105	540471	1	6	501	19	Radek	Šedina	Ing.		56	ekonomický ředitel	Mohelnice	721	721	A	M
-7105	523704	1	7	355	19	Martin	Reiner			38	puškař	Šumperk	99	80	A	M
+7105	523704	1	7	355	19	Martin	Reiner			38	nástrojař - puškař	Šumperk	99	80	A	M
 7105	540471	1	7	1479	19	Patrik	Kovář	Bc.		24	ekonom, student	Mohelnice	99	1228	A	M
 7105	541354	1	7	474	19	Jan	Habiger			86	důchodce	Zábřeh	47	47	A	M
 7105	523704	1	8	53	19	Martin	Hons	Ing.	DiS.	35	IT, odhadce	Šumperk	99	53	A	M
@@ -3194,7 +3194,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 7105	523704	1	6	47	25	Jaroslava	Čermáková			79	důchodkyně	Šumperk	47	47	A	F
 7105	523704	1	7	355	25	Jan	Bludský	Mgr.		34	policista Policie ČR	Šumperk	99	80	A	M
 7105	523704	1	8	53	25	Martina	Klusáková	Ing.		45	majitelka cukrárny	Šumperk	99	53	A	F
-7105	523704	1	10	532	25	Jiří	Hoždora			35	jednatel malířské firmy	Šumperk	99	80	A	M
+7105	523704	1	10	532	25	Jiří	Hoždora			35	jednatel malířské firmy	Šumperk	768	768	A	M
 7105	523704	1	11	137	25	Aleš	Veselý			49	OSVČ	Šumperk	99	137	A	M
 7105	523704	1	1	1114	26	Rudolf	Ošanec			72	technolog	Šumperk	99	1114	A	M
 7105	523704	1	2	659	26	Tomáš	Adámek			41	provozní manažer, OSVČ	Šumperk	99	721	A	M

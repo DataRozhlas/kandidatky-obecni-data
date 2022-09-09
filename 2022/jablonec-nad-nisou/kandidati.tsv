@@ -68,7 +68,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5102	563510	1	3	703	1	Jana	Hamplová	Ing.		46	ekonomická náměstkyně Muzea skla a bižuterie v Jablonci nad Nisou, vedoucí Folklorního souboru Nisanka	Kokonín	703	703	A	F
 5102	563528	1	3	902	1	Adam	Hübner	Mgr.		42	operační důstojník HZS ČR	Albrechtice v Jizerských horách	99	80	A	M
 5102	563536	1	3	902	1	Petr	Vokatý	Bc.		41	sládek	Bedřichov	99	80	A	M
-5102	563552	1	3	470	1	Josef	Želinský			43	strojník, malé vodní elektrárny	Desná II	99	166	A	M
+5102	563552	1	3	470	1	Josef	Želinský			43	strojník malé vodní elektrárny	Desná II	99	166	A	M
 5102	563579	1	3	813	1	Monika	Brabcová			52	montér kabelových svazků	Frýdštejn	99	80	A	F
 5102	563595	1	3	470	1	Adam	Kulich	Mgr.		42	učitel ZŠ	Janov nad Nisou	99	80	A	M
 5102	563609	1	3	801	1	Adéla	Mikulová			27	administrativní pracovník	Odolenovice	99	80	A	F
@@ -120,7 +120,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5102	563510	1	10	768	1	David	Mánek	Mgr.		39	náměstek primátora pro oblast humanitní	Proseč nad Nisou	768	768	A	M
 5102	563579	1	10	806	1	Aleš	Melichar			35	technik CNC	Bezděčín	99	80	A	M
 5102	563609	1	10	808	1	Jana	Kadečková			66	učitelka	Jenišovice	99	80	A	F
-5102	563510	1	11	479	1	Lenka	Opočenská	RNDr.		43	vedoucí projektů v oblasti životního prostředí, předsedkyně společenství vlastníků	Mšeno nad Nisou	5	5	A	F
+5102	563510	1	11	479	1	Lenka	Opočenská	RNDr.		43	vedoucí projektů v oblasti životního prostředí, předsedkyně výboru společenství vlastníků	Mšeno nad Nisou	5	5	A	F
 5102	563579	1	11	814	1	Anna	Rozmarová	Mgr.		70	důchodce	Voděrady	99	80	A	F
 5102	563609	1	11	805	1	Miroslava	Marková	Ing.		48	vedoucí účtárny a controllingu	Jenišovice	99	80	A	F
 5102	563579	1	12	803	1	Miroslav	Mencl			40	starosta	Voděrady	99	80	A	M
@@ -364,7 +364,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5102	563803	1	1	901	4	Alena	Halamová	Mgr.		63	učitelka	Skuhrov	99	80	A	F
 5102	563811	1	1	1114	4	Jan	Černý			65	automechanik	Smržovka	99	1114	A	M
 5102	563820	1	1	1314	4	Lenka	Harcubová			46	sociální pracovnice RC Maják	Tanvald	99	80	A	F
-5102	563838	1	1	475	4	Jaroslav	Najman	Ing.		63	starosta	Bohdalovice	99	80	A	M
+5102	563838	1	1	475	4	Jaroslav	Najman	Ing.		63	starosta	Bohdalovice	703	80	A	M
 5102	563846	1	1	901	4	David	Barták			44	živnostník	Vlastiboř	99	80	A	M
 5102	563854	1	1	902	4	Luděk	Kadečka	Ing.		68	podnikatel	Zásada	99	80	A	M
 5102	563862	1	1	901	4	Hana	Vedralová			56	kadeřnice	Zlatá Olešnice	99	80	A	F
@@ -375,7 +375,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5102	546585	1	2	902	4	David	Dostrašil			48	operátor skladu	Jiřetín pod Bukovou	99	80	A	M
 5102	563510	1	2	1265	4	Jaroslava	Slabá			71	emeritní ředitelka Muzea skla a bižuterie	Jablonec nad Nisou	99	1265	A	F
 5102	563528	1	2	901	4	Šárka	Kubátová			51	soukromý podnikatel	Albrechtice v Jizerských horách	99	80	A	F
-5102	563536	1	2	470	4	Jiří	Groh st.			69	důchodce	Bedřichov	99	80	A	M
+5102	563536	1	2	470	4	Jiří	Groh			69	důchodce	Bedřichov	99	80	A	M
 5102	563552	1	2	541	4	Tomáš	Strnad	Ing.		49	projektový manažer	Desná II	99	80	A	M
 5102	563561	1	2	901	4	Lenka	Dostálová	Bc.		35	mateřská dovolená	Držkov	99	80	A	F
 5102	563595	1	2	475	4	Pavel	Pěnička			55	referent	Janov nad Nisou	99	80	A	M
@@ -763,7 +763,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5102	563820	1	1	1314	8	Petr	Chlumecký			62	správce Sokolovny Český Šumburk	Šumburk nad Desnou	99	80	A	M
 5102	563838	1	1	475	8	Vladimír	Prousek			29	svářeč	Velké Hamry	99	80	A	M
 5102	563854	1	1	902	8	Jiří	Kozlovský	Mgr.		61	ředitel gymnázia	Zásada	99	80	A	M
-5102	563862	1	1	901	8	Jiří	Plešigner			39	truhlář	Zlatá Olešnice	99	80	A	M
+5102	563862	1	1	901	8	Jiří	Plešinger			39	truhlář	Zlatá Olešnice	99	80	A	M
 5102	563871	1	1	901	8	Radek	Hubáček			49	OSVČ	Železný Brod	99	80	A	M
 5102	577081	1	1	901	8	David	Jeník			42	OSVČ	Harrachov	99	80	A	M
 5102	530425	1	2	902	8	Jiří	Kerhart			38	soukromý podnikatel	Dalešice	99	80	A	M
@@ -1031,7 +1031,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5102	563790	1	1	902	12	Simona	Rašínová	MUDr.		53	lékařka	Rychnov u Jablonce nad Nisou	99	80	A	F
 5102	563811	1	1	1114	12	Zdeněk	Oeser			55	temperovač skla	Smržovka	99	1114	A	M
 5102	563820	1	1	1314	12	Kateřina	Lorencová			50	vedoucí pokladen OBI	Šumburk nad Desnou	99	80	A	F
-5102	563838	1	1	475	12	Irena	Kovářová			35	učitelka ZŠ	Bohdalovice	99	80	A	F
+5102	563838	1	1	475	12	Irena	Legindi			35	učitelka ZŠ	Bohdalovice	99	80	A	F
 5102	563871	1	1	901	12	Pavel	Čermák			30	inženýr kvality	Železný Brod	99	80	A	M
 5102	563510	1	2	1265	12	Tomáš	Rakouš	Bc.		56	státní zaměstnanec	Jablonec nad Nisou	99	1265	A	M
 5102	563552	1	2	541	12	Michal	Nechanický			31	kmenař	Desná II	99	80	A	M
@@ -1180,7 +1180,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5102	563811	1	2	901	16	Jan	Beránek			44	podnikatel	Smržovka	99	80	A	M
 5102	563820	1	2	532	16	David	Kříž			45	OSVČ	Šumburk nad Desnou	99	80	A	M
 5102	563510	1	3	703	16	Helena	Kolářová			65	fyzioterapeutka, předsedkyně sdružení Sportovní rekreační kluby Jablonec nad Nisou, tanečnice	Mšeno nad Nisou	99	703	A	F
-5102	563811	1	3	902	16	Svatoslava	Jakoubková			76	majitelka Muzea hraček	Smržovka	99	80	A	F
+5102	563811	1	3	902	16	Svatoslava	Jakoubková			76	majitelka Muzea panenek	Smržovka	99	80	A	F
 5102	563820	1	3	47	16	Bohuslava	Hladíková			78	důchodkyně	Tanvald	99	47	A	F
 5102	563510	1	4	550	16	Adam	Pekárek			25	finanční specialista v oblasti finančního plánování	Vrkoslavice	99	780	A	M
 5102	563811	1	4	53	16	Pavel	Černý			54	živnostník - zámečník	Smržovka	99	53	A	M

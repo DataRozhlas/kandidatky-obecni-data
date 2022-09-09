@@ -65,7 +65,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561401	1	2	901	1	Vítězslava	Herčíková			48	v domácnosti	Houska	99	80	A	F
 5101	561410	1	2	901	1	Romana	Dvořáková			64	starosta	Blíževedly	99	80	A	F
 5101	561428	1	2	801	1	Josef	Šafránek		DiS.	48	inspektor Vězeňská služba ČR	Bohatice	99	80	A	M
-5101	561444	1	2	902	1	Michal	Vinš	Mgr.		41	starosta obce Brniště	Luhov	99	80	A	
+5101	561444	1	2	902	1	Michal	Vinš	Mgr.		41	starosta obce Brniště	Luhov	99	80	A	M
 5101	561479	1	2	7	1	Michal	Vojtěch			46	energetik	Cvikov II	7	7	A	M
 5101	561495	1	2	112	1	Kamila	Rutterová			50	knihovnice	Doksy	112	112	A	F
 5101	561533	1	2	703	1	Tomáš	Novák			54	podnikatel	Dubá	703	703	A	M
@@ -122,7 +122,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	562246	1	3	903	1	Petr	Doležal	JUDr.		59	advokát	Borek	99	80	A	M
 5101	562262	1	3	902	1	Radek	Lípa	Ing.		42	starosta	Lasvice	703	80	A	M
 5101	562297	1	3	475	1	Zbyněk	Polák			51	starosta	Žandov	99	703	A	M
-5101	544337	1	4	510	1	Romana	Formánková			49	prof. pěstounka v evidenci ČR, OSVČ	Hamr na Jezeře	99	771	A	
+5101	544337	1	4	510	1	Romana	Formánková			49	prof. pěstounka v evidenci ČR, OSVČ	Hamr na Jezeře	99	771	A	F
 5101	561380	1	4	720	1	Ondřej	Víteček			41	zastupitel, referent e-shopu, spolupořadatel festivalu Všudybud	Česká Lípa	720	720	A	M
 5101	561479	1	4	903	1	Jiří	Beránek			59	zkušební komisař	Cvikov II	99	80	A	M
 5101	561495	1	4	475	1	Eva	Burešová	Ing.		44	starostka	Doksy	703	703	A	F
@@ -160,7 +160,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561380	1	7	1227	1	Martina	Bechyňová			52	pedikérka	Česká Lípa	1227	1227	A	F
 5101	561479	1	7	53	1	Jaroslav	Švehla	JUDr.		67	starosta	Cvikov I	53	53	A	M
 5101	561991	1	7	802	1	Soňa	Fišerová			52	vedoucí prodejny	Dolní Prysk	99	80	A	F
-5101	562092	1	7	475	1	Zdeněk	Hlinčík			62	starosta	Stráž pod Ralskem	99	80	A	M
+5101	562092	1	7	475	1	Zdeněk	Hlinčík	Mgr.		62	starosta	Stráž pod Ralskem	99	80	A	M
 5101	561380	1	8	714	1	Josef	Šídlo			40	manažer - odborník na vyhledávání úspor a zlepšování	Česká Lípa	714	714	A	M
 5101	561479	1	8	768	1	Pavel	Kovalev			57	OSVČ	Cvikov II	768	768	A	M
 5101	561991	1	8	809	1	Martin	Pilecký			34	automechanik	Vesnička	99	80	A	M
@@ -239,7 +239,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561398	1	2	902	2	Marek	Bártl			28	dopravní inspektor	Bezděz	99	80	A	M
 5101	561401	1	2	901	2	Michal	Jindra			40	pracovník ve výrobě	Houska	99	80	A	M
 5101	561410	1	2	901	2	Antonín	Kubišta			44	stavební dělník	Blíževedly	99	80	A	M
-5101	561444	1	2	902	2	Igor	Jediný	Ing.		64	místostarosta obce Brniště	Velký Grunov	99	80	A	
+5101	561444	1	2	902	2	Igor	Jediný	Ing.		64	místostarosta obce Brniště	Velký Grunov	99	80	A	M
 5101	561479	1	2	7	2	Jan	Procházka			49	OSVČ	Cvikov II	7	7	A	M
 5101	561495	1	2	112	2	Romana	Balíková			53	administrativní pracovnice	Staré Splavy	112	112	A	F
 5101	561533	1	2	703	2	Gabriela	Garrihy			47	učitelka v mateřské škole	Nedamov	99	703	A	F
@@ -261,7 +261,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	562025	1	2	1114	2	Zbyněk	Vaculík			53	vedoucí prodeje aut	Skalice u České Lípy	99	1114	A	M
 5101	562050	1	2	902	2	Jana	Pejčinovičová			55	místostarostka obce	Sloup v Čechách	99	80	A	F
 5101	562076	1	2	475	2	Jiří	Kladníček	Ing.		71	důchodce	Sosnová	99	80	A	M
-5101	562092	1	2	905	2	Michaela	Perná			32	na mateřské dovolené	Stráž pod Ralskem	99	80	A	F
+5101	562092	1	2	905	2	Michaela	Perná	Bc.		32	na mateřské dovolené	Stráž pod Ralskem	99	80	A	F
 5101	562106	1	2	901	2	Jiří	Kopp			57	policista ve výslužbě	Jezvé	99	80	A	M
 5101	562114	1	2	510	2	Lenka	Fleklová			50	podnikatelka	Stvolínky	99	80	A	F
 5101	562131	1	2	903	2	Miloslava	Bakovská			52	úřednice	Svor	99	80	A	F
@@ -293,7 +293,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	562246	1	3	903	2	Aleš	Černín	Ing.	Ph.D.	50	jednatel firmy	Zahrádky	99	80	A	M
 5101	562262	1	3	902	2	Iva	Kreisingerová	Bc.		43	místostarostka města 2010-2018	Zákupy	99	80	A	F
 5101	562297	1	3	475	2	Michal	Beň	Bc.		48	místostarosta	Žandov	99	703	A	M
-5101	544337	1	4	510	2	Jan	Dostál			41	profesní technik	Hamr na Jezeře	99	771	A	
+5101	544337	1	4	510	2	Jan	Dostál			41	profesní technik	Hamr na Jezeře	99	771	A	M
 5101	561380	1	4	720	2	Jan	Munzar			33	projektový inženýr	Lada	720	720	A	M
 5101	561479	1	4	903	2	Radek	Marciník			55	myslivec, kynolog	Cvikov I	99	80	A	M
 5101	561495	1	4	475	2	Jiří	Holub			57	místostarosta; ředitel OPS Máchovo jezero; rybářský hospodář	Doksy	99	80	A	M
@@ -320,14 +320,14 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561380	1	6	1221	2	Miroslav	Boreš			50	živnostník	Česká Lípa	99	1221	A	M
 5101	561479	1	6	47	2	Miroslav	Hokr	Ing.		70	technik	Cvikov II	47	47	A	M
 5101	561495	1	6	53	2	Kamil	Popper			50	podnikatel	Doksy	53	53	A	M
-5101	561835	1	6	7	2	Zdeněk	Pekař			60	pracovník Diama a podnikatel	Mimoň I	7	7	A	M
+5101	561835	1	6	7	2	Zdeněk	Pekař			60	pracovník Diamo, s.p., podnikatel	Mimoň I	7	7	A	M
 5101	562017	1	6	463	2	Ján	Golier			72	živnostník	Hvězdov	99	80	A	M
 5101	562025	1	6	475	2	Hana	Šídlová			66	místostarostka obce	Skalice u České Lípy	99	80	A	F
 5101	562092	1	6	401	2	Jan	Raáb			30	vedoucí dispečinku	Stráž pod Ralskem	99	80	A	M
 5101	562246	1	6	901	2	Irena	Skrejvalová			63	důchodce	Zahrádky	99	80	A	F
 5101	561380	1	7	1227	2	Tomáš	Policer	Mgr.		44	zástupce ředitele základní školy Slovanka	Česká Lípa	99	1227	A	M
 5101	561479	1	7	53	2	Marek	Říha			48	podnikatel	Lindava	53	53	A	M
-5101	562092	1	7	475	2	Lucie	Suchardová			37	personální manažer	Stráž pod Ralskem	99	80	A	F
+5101	562092	1	7	475	2	Lucie	Suchardová	Ing.		37	personální manažer	Stráž pod Ralskem	99	80	A	F
 5101	561380	1	8	714	2	Viktor	Česenek			25	učitel, kapitán Loko Česká Lípa	Česká Lípa	99	714	A	M
 5101	561479	1	8	768	2	Miloš	Doležal			61	OSVČ	Cvikov I	99	768	A	M
 5101	562092	1	8	47	2	Jan	Malec	Ing.		53	referent systému jakosti	Stráž pod Ralskem	47	47	A	M
@@ -370,7 +370,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561827	1	1	901	3	Renata	Hrochová			51	vychovatelka	Mařenice	99	80	A	F
 5101	561835	1	1	903	3	René	Zubko			49	podnikatel	Mimoň I	99	80	A	M
 5101	561851	1	1	903	3	Renata	Lazárová	Bc.		25	učitelka MŠ	Noviny pod Ralskem	99	80	A	F
-5101	561860	1	1	449	3	Viktor	Novotný			45	podnikatel	Nový Bor	99	80	A	M
+5101	561860	1	1	449	3	Viktor	Novotný			45	podnikatel	Nový Bor	99	129	A	M
 5101	561878	1	1	901	3	Pavel	Sedláček			34	obsluha technologického zařízení	Mistrovice	99	80	A	M
 5101	561886	1	1	902	3	Milan	Vysušil			40	elektrikář	Okna	99	80	A	M
 5101	561894	1	1	497	3	Nikola	Balvínová	Bc.		27	bankovní poradkyně	Okrouhlá	99	80	A	F
@@ -479,7 +479,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561380	1	6	1221	3	Roman	Sklenka			52	živnostník	Stará Lípa	99	1221	A	M
 5101	561479	1	6	47	3	Ivo	Henke			56	strojní zámečník	Drnovec	99	47	A	M
 5101	561495	1	6	53	3	Šárka	Harcubová			54	vedoucí školní jídelny Mateřské školy Provodín	Staré Splavy	53	53	A	F
-5101	561835	1	6	7	3	Martin	Štrumfa	Ing.		62	IT manažér	Mimoň I	7	7	A	M
+5101	561835	1	6	7	3	Martin	Štrumfa	Ing.		62	IT manažer	Mimoň I	7	7	A	M
 5101	562017	1	6	463	3	Zdeněk	Kulísek	Ing.		62	referent majetkové správy	Hradčany	99	80	A	M
 5101	562025	1	6	475	3	Petr	Svoboda			48	podnikatel	Skalice u České Lípy	99	80	A	M
 5101	562092	1	6	401	3	Věra	Röslerová			39	operátorka šicího stroje	Stráž pod Ralskem	99	80	A	F
@@ -492,7 +492,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	562092	1	8	47	3	Jaroslav	Holub	Ing.		72	specialista sanačních prací	Stráž pod Ralskem	99	47	A	M
 5101	561380	1	9	768	3	Roman	Hejna			59	obchodní ředitel pivovar Cvikov, člen Rady města Česká Lípa, zastupitel Libereckého kraje	Česká Lípa	768	768	A	M
 5101	561479	1	9	901	3	Kateřina	Sýkorová	Ing.		36	manažerka	Drnovec	99	80	A	F
-5101	561380	1	10	47	3	Milan	Cina			45	řidič autobusu	Česká Lípa	99	47	A	M
+5101	561380	1	10	47	3	Milan	Cina			45	řidič autobusu	Česká Lípa	1252	47	A	M
 5101	561380	1	11	1327	3	Petra	Kašparová	Mgr.		58	ředitelka soukromé střední školy	Česká Lípa	53	53	A	F
 5101	561380	1	12	1114	3	Romana	Žatecká	Mgr.		57	mediální konzultantka, zastupitelka města Česká Lípa	Česká Lípa	99	1114	A	F
 5101	513890	1	1	901	4	Vladimír	Zajkr			53	údržbář v základní škole	Skalka u Doks	99	80	A	M
@@ -527,7 +527,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561738	1	1	901	4	Luboš	Krejčík			57	strojník vodohospodářských zařízení	Krompach	99	80	A	M
 5101	561746	1	1	901	4	Helena	Maupicová	Ing.		54	kulturní referent	Kunratice u Cvikova	99	80	A	F
 5101	561827	1	1	901	4	Pavlína	Šolínová			43	úřednice	Mařenice	99	80	A	F
-5101	561835	1	1	903	4	Michaela	Janů	Bc.		44	referentka ekonomického odboru KÚLK	Mimoň I	99	80	A	
+5101	561835	1	1	903	4	Michaela	Janů	Bc.		44	referentka ekonomického odboru KÚLK	Mimoň I	99	80	A	F
 5101	561851	1	1	903	4	Miloslav	Hercík			67	údržbář	Noviny pod Ralskem	99	80	A	M
 5101	561860	1	1	449	4	Milan	Přívratský	Ing.		64	ředitel obchodní společnosti	Nový Bor	5	80	A	M
 5101	561878	1	1	901	4	Hana	Riantová			48	mistr výroby	Nový Oldřichov	99	80	A	F
@@ -554,7 +554,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	546267	1	2	902	4	Zdeněk	Čihulka			41	technik	Tuhaň	99	80	A	M
 5101	546275	1	2	902	4	Petr	Svoboda			37	manažer obchodu	Slunečná	99	80	A	M
 5101	561380	1	2	7	4	Vilém	Válek			58	předseda odborové organizace	Česká Lípa	99	7	A	M
-5101	561398	1	2	902	4	Luděk	Strojsa			41	technolog výroby	Bezděz	99	80	A	M
+5101	561398	1	2	902	4	Luděk	Štrojsa			41	technolog výroby	Bezděz	99	80	A	M
 5101	561401	1	2	901	4	Eva	Paříková			66	starobní důchodce	Houska	99	80	A	F
 5101	561410	1	2	901	4	Jan	Česaný			45	OSVČ	Skalka	99	80	A	M
 5101	561444	1	2	902	4	Libuše	Horáčková	Mgr.		66	pedagogický pracovník	Brniště	99	80	A	F
@@ -584,7 +584,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	562114	1	2	510	4	Jaroslav	Chalupa			65	podnikatel	Stvolínky	99	80	A	M
 5101	562131	1	2	903	4	Josef	Smeták			74	důchodce	Svor	99	80	A	M
 5101	562173	1	2	902	4	Šárka	Zárubová			51	účetní	Velenice	99	80	A	F
-5101	562203	1	2	902	4	Monika	Gün			50	prokuristka a účetní soukromé firmy	Velký Valtinov	99	80	A	F
+5101	562203	1	2	902	4	Monika	Gün			50	prokuristka účetní soukromé firmy	Velký Valtinov	99	80	A	F
 5101	562220	1	2	1114	4	Jan	Novotný			40	technický pracovník	Volfartice	99	1114	A	M
 5101	562262	1	2	901	4	Eva	Šefčíková			49	učitelka MŠ	Zákupy	99	80	A	F
 5101	562297	1	2	902	4	Ivo	Kubelka			51	elektrikář	Heřmanice	99	80	A	M
@@ -645,15 +645,14 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	562246	1	6	901	4	Dagmar	Zachová			45	pracovník v administrativě	Zahrádky	99	80	A	F
 5101	561380	1	7	1227	4	Antonín	Bechyně			61	jednatel firmy	Česká Lípa	1227	1227	A	M
 5101	561479	1	7	53	4	Jan	Krejčí			55	technik	Cvikov II	53	53	A	M
-5101	562092	1	7	475	4	Michaela	Mašatová			37	vedoucí pečovatelské služby	Stráž pod Ralskem	99	80	A	F
-5101	561380	1	8	714	4	Milada	Hořínková			47	OSVČ	Česká Lípa	99	714	A	F
+5101	562092	1	7	475	4	Michaela	Mašatová	Bc.	DiS.	37	vedoucí pečovatelské služby	Stráž pod Ralskem	99	80	A	F
 5101	561479	1	8	768	4	Vladimír	Vančura			67	důchodce	Cvikov II	99	768	A	M
 5101	562092	1	8	47	4	Jaroslav	Machytka			71	důchodce - mistr elektroúdržby	Stráž pod Ralskem	47	47	A	M
 5101	561380	1	9	768	4	Martin	Volf	Ing.		59	ředitel SPZO Praha, člen Rady města Česká Lípa, předseda finančního výboru	Česká Lípa	768	768	A	M
 5101	561479	1	9	901	4	Tomáš	Rudinský			53	koordinátor VPP	Cvikov II	99	80	A	M
 5101	561380	1	10	47	4	Martin	Machač			55	správce vozového parku	Česká Lípa	47	47	A	M
 5101	561380	1	11	1327	4	Jana	Kalousová	Mgr.	MBA	51	ředitelka divize cestovního ruchu	Česká Lípa	1	1	A	F
-5101	561380	1	12	1114	4	Brigita	Vildová			54	referent výroby	Česká Lípa	1114	1114	A	F
+5101	561380	1	12	1114	4	Brigitta	Vildová			54	referent výroby	Česká Lípa	1114	1114	A	F
 5101	513890	1	1	901	5	Petr	Pelc			63	automechanik	Skalka u Doks	99	80	A	M
 5101	514161	1	1	901	5	Martin	Šíma			50	dělník	Luka	99	80	A	M
 5101	514195	1	1	901	5	Zbyněk	Zelenka			70	důchodce	Ždírec	99	80	A	M
@@ -728,7 +727,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561746	1	2	902	5	Zdeněk	Špak			46	OSVČ	Kunratice u Cvikova	99	80	A	M
 5101	561827	1	2	902	5	Renata	Jankechová			54	provozní	Mařenice	99	80	A	F
 5101	561835	1	2	721	5	Jan	Bielik			33	servisní technik	Mimoň I	99	721	A	M
-5101	561851	1	2	902	5	Milan	Březina			43	řidič - skladník	Noviny pod Ralskem	99	80	A	M
+5101	561851	1	2	902	5	Milan	Březina			43	řidič, skladník	Noviny pod Ralskem	99	80	A	M
 5101	561860	1	2	47	5	Veronika	Veťková			34	pedagožka mimoškolní výchovy - vychovatelka, zaměstnanec České pošty	Arnultovice	99	47	A	F
 5101	561886	1	2	901	5	Ivana	Horčíková			61	hospodářka školy	Okna	99	80	A	F
 5101	561894	1	2	703	5	Eliška	Ehrenbergerová	Ing.		66	důchodkyně	Okrouhlá	99	703	A	F
@@ -799,7 +798,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561835	1	6	7	5	Ivana	Bodláková			34	správce budov města Mimoň	Mimoň I	99	7	A	F
 5101	562017	1	6	463	5	Jana	Poláchová	Mgr.		62	učitelka ZŠ	Hradčany	99	80	A	F
 5101	562025	1	6	475	5	Martin	Husák			54	podnikatel	Skalice u České Lípy	99	80	A	M
-5101	562092	1	6	401	5	Lucie	Korpášová			39	OSVČ	Stráž pod Ralskem	99	80	A	F
+5101	562092	1	6	401	5	Lucie	Korpášová			40	OSVČ	Stráž pod Ralskem	99	80	A	F
 5101	562246	1	6	901	5	Radka	Chvojková			37	operátor výroby	Zahrádky	99	80	A	F
 5101	561380	1	7	1227	5	Petr	Novák	Bc.		48	učitel, sbormistr Českolip. dět. sb.	Česká Lípa	1227	1227	A	M
 5101	561479	1	7	53	5	Vladimír	Poudera			49	živnostník	Cvikov I	53	53	A	M
@@ -953,7 +952,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561380	1	6	1221	6	Roman	Boreš			59	živnostník	Česká Lípa	99	1221	A	M
 5101	561479	1	6	47	6	Václav	Breburda			48	technik	Cvikov II	99	47	A	M
 5101	561495	1	6	53	6	Zuzana	Veselá			37	asistentka vedení společnosti	Zbyny	99	53	A	F
-5101	561835	1	6	7	6	Martin	Hons			36	mechatronik Škoda Auto a.s.	Mimoň IV	99	7	A	M
+5101	561835	1	6	7	6	Martin	Hons			36	mechatronik ŠKODA AUTO a.s.	Mimoň IV	99	7	A	M
 5101	562017	1	6	463	6	Miloslav	Zikmund	Ing.	Ph.D.	48	provozní technik	Ploužnice	99	80	A	M
 5101	562025	1	6	475	6	Renata	Jiráčková			41	účetní	Skalice u České Lípy	99	80	A	F
 5101	562092	1	6	401	6	Filip	Sucharda			41	báňský úpravář	Stráž pod Ralskem	99	80	A	M
@@ -1026,7 +1025,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561380	1	2	7	7	Anděla	Jirásková			53	asistent prevence kriminality	Česká Lípa	99	7	A	F
 5101	561398	1	2	902	7	Dana	Jandová			68	důchodkyně	Bezděz	99	80	A	F
 5101	561410	1	2	901	7	Ilona	Ungerová			48	kontrolorka	Blíževedly	99	80	A	F
-5101	561444	1	2	902	7	Martin	Čech	Ing.		42	tajemník Magistrátu města Liberec	Hlemýždí	99	80	A	
+5101	561444	1	2	902	7	Martin	Čech	Ing.		42	tajemník Magistrátu města Liberec	Hlemýždí	99	80	A	M
 5101	561479	1	2	7	7	Hana	Bérová			46	hlavní účetní	Cvikov II	99	7	A	F
 5101	561495	1	2	112	7	Pavel	Landa			56	operátor logistiky	Doksy	112	112	A	M
 5101	561533	1	2	703	7	Tomáš	Mařík			48	hasič	Dubá	99	703	A	M
@@ -1099,7 +1098,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561681	1	5	903	7	Kamila	Turzová	Mgr.		34	učitelka	Kamenický Šenov	99	80	A	F
 5101	561835	1	5	768	7	Jan	Sutr			42	OSVČ	Mimoň III	99	768	A	M
 5101	561860	1	5	703	7	Jakub	Ujka	Mgr.		44	ředitel základní školy	Nový Bor	99	703	A	M
-5101	562017	1	5	7	7	Martina	Kubištová			48	pedagog	Kuřívody	7	7	A	F
+5101	562017	1	5	7	7	Martina	Kubištová			48	pedagog	Kuřívody	99	7	A	F
 5101	562025	1	5	901	7	Martin	Kubát			48	dobrovolný hasič, invalidní důchodce	Skalice u České Lípy	99	80	A	M
 5101	562092	1	5	902	7	Jan	Ondrák	Ing.		35	státní zaměstnanec	Stráž pod Ralskem	99	80	A	M
 5101	562246	1	5	905	7	Dana	Machová			30	pedagog volného času	Zahrádky	99	80	A	F
@@ -1243,7 +1242,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561681	1	5	903	8	Václav	Och			21	student	Kamenický Šenov	99	80	A	M
 5101	561835	1	5	768	8	Tomáš	Kobr	Ing.	MBA	43	pedagog	Mimoň I	99	768	A	M
 5101	561860	1	5	703	8	Josef	Zhorný	Mgr.		38	středoškolský pedagog	Nový Bor	99	703	A	M
-5101	562017	1	5	7	8	Milan	Herák			50	dělník	Ploužnice	7	7	A	M
+5101	562017	1	5	7	8	Milan	Herák			50	dělník	Ploužnice	99	7	A	M
 5101	562025	1	5	901	8	Tomáš	Boček			44	operátor experimentálního zařízení	Skalice u České Lípy	99	80	A	M
 5101	562092	1	5	902	8	Magdalena	Krejčová			31	zaměstnankyně volnočasového centra	Stráž pod Ralskem	99	80	A	F
 5101	562246	1	5	905	8	František	Novotný			28	truhlář	Zahrádky	99	80	A	M
@@ -1257,7 +1256,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	562246	1	6	901	8	Tereza	Popová			28	rodičovská dovolená	Zahrádky	99	80	A	F
 5101	561380	1	7	1227	8	Josef	Prokůpek			45	OSVČ	Česká Lípa	99	1227	A	M
 5101	561479	1	7	53	8	Ladislav	Pěnička			73	důchodce	Cvikov II	99	53	A	M
-5101	562092	1	7	475	8	Jarmila	Hlinčíková			60	učitelka	Stráž pod Ralskem	99	80	A	F
+5101	562092	1	7	475	8	Jarmila	Hlinčíková	Mgr.		60	učitelka	Stráž pod Ralskem	99	80	A	F
 5101	561380	1	8	714	8	Ivan	Formánek			40	práce ve stavebnictví	Česká Lípa	99	714	A	M
 5101	561479	1	8	768	8	Eliška	Jelínková	Mgr.		56	asistentka pedagoga	Naděje	99	768	A	F
 5101	562092	1	8	47	8	Pavel	Šmejkal			57	zámečník	Stráž pod Ralskem	99	47	A	M
@@ -1342,7 +1341,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	562173	1	2	902	9	Jaroslav	Jirků			55	provozní	Velenice	99	80	A	M
 5101	562262	1	2	901	9	Šárka	Pásková			34	ekolog	Zákupy	99	80	A	F
 5101	562297	1	2	902	9	Soňa	Dobrovolná Roudenská			46	zdravotní sestra	Žandov	99	80	A	F
-5101	544337	1	3	902	9	Petra	Furchová			43	dělník, Vojenské lesy a statky	Břevniště	99	80	A	F
+5101	544337	1	3	902	9	Petra	Furchová			43	dělník, Vojenské lesy a statky ČR	Břevniště	99	80	A	F
 5101	546259	1	3	902	9	Veronika	Staňková			34	vychovatelka	Kvítkov	99	80	A	F
 5101	546275	1	3	901	9	Anděla	Šarbortová			69	důchodce	Slunečná	99	80	A	F
 5101	561380	1	3	475	9	Michal	Rádl	Mgr.		41	archivář, historik	Česká Lípa	1047	80	A	M
@@ -1355,7 +1354,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561835	1	3	902	9	Martin	Antoch			45	OSVČ	Mimoň I	99	80	A	M
 5101	561860	1	3	53	9	Iveta	Šudová			57	učitelka	Nový Bor	99	53	A	F
 5101	561894	1	3	901	9	Petr	Průšek	MUDr.		52	lékař	Okrouhlá	99	80	A	M
-5101	562017	1	3	1305	9	Martin	Kalva			52	řezník, uzenář	Ploužnice	99	80	A	M
+5101	562017	1	3	1305	9	Martin	Kalva			52	řezník, uzenář	Ploužnice	1114	1114	A	M
 5101	562025	1	3	903	9	Jaromír	Bořil			47	údržbář	Skalice u České Lípy	99	80	A	M
 5101	562076	1	3	902	9	Stanislav	Lacek			48	manager	Sosnová	99	80	A	M
 5101	562092	1	3	903	9	Patrik	Želechovský			48	osoba samostatně výdělečně činná	Stráž pod Ralskem	99	80	A	M
@@ -1363,7 +1362,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	562246	1	3	903	9	Markéta	Navrátilová			45	sálová instrumentářka	Zahrádky	99	80	A	F
 5101	562262	1	3	902	9	Evžen	Gabriel			47	dělník	Zákupy	99	80	A	M
 5101	562297	1	3	475	9	Jan	Kaňka			48	zkušební technik	Žandov	99	80	A	M
-5101	544337	1	4	510	9	Martin	Ferdan			34	obchodní zástupce v energetice	Břevniště	99	771	A	
+5101	544337	1	4	510	9	Martin	Ferdan			34	obchodní zástupce v energetice	Břevniště	99	771	A	M
 5101	561380	1	4	720	9	Oldřich	Hříbal			32	programátor	Česká Lípa	99	720	A	M
 5101	561479	1	4	903	9	Květuše	Petrnoušková			69	důchodkyně	Svitava	99	80	A	F
 5101	561495	1	4	475	9	Karel	Červinka			63	podnikatel v oblasti automob. prům.; trenér dětí kopané TJ Doksy	Doksy	99	80	A	M
@@ -1380,7 +1379,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561479	1	5	902	9	Ivo	Škola	Bc.		58	geodet	Cvikov I	99	80	A	M
 5101	561495	1	5	901	9	Tomáš	Bláha	Bc.		31	kondiční trenér, masér	Doksy	99	80	A	M
 5101	561681	1	5	903	9	Jindřich	Schedelbauer			62	podnikatel	Kamenický Šenov	99	80	A	M
-5101	561835	1	5	768	9	Roman	Bizoň	Ing.		55	technik BOZP	Mimoň I	768	768	A	M
+5101	561835	1	5	768	9	Roman	Bizoň	Ing.		54	technik BOZP	Mimoň I	768	768	A	M
 5101	561860	1	5	703	9	Michal	Rejholec			47	manažer Kultura s.r.o.	Nový Bor	99	703	A	M
 5101	562017	1	5	7	9	Miroslav	Mareš			81	elektromechanik	Kuřívody	7	7	A	M
 5101	562025	1	5	901	9	Michal	Janko			41	projektový manažer	Skalice u České Lípy	99	80	A	M
@@ -1389,14 +1388,14 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561380	1	6	1221	9	Martin	Braneac			32	živnostník	Česká Lípa	99	1221	A	M
 5101	561479	1	6	47	9	Zdeňka	Blažková			65	brusička	Cvikov II	99	47	A	F
 5101	561495	1	6	53	9	Jaroslav	Novák			67	projektový manažer	Doksy	53	53	A	M
-5101	561835	1	6	7	9	Jana	Bláhová			57	kuchařka - sociální služby města Mimoň	Mimoň IV	99	7	A	F
+5101	561835	1	6	7	9	Jana	Bláhová			57	kuchařka, Sociální služby města Mimoň, p.o.	Mimoň IV	99	7	A	F
 5101	562017	1	6	463	9	Vítězslav	Novotný			66	důchodce	Boreček	99	80	A	M
 5101	562025	1	6	475	9	Iva	Větrovcová			73	důchodkyně	Skalice u České Lípy	99	80	A	F
 5101	562092	1	6	401	9	Karolína	Raábová			33	technik kvality	Stráž pod Ralskem	99	80	A	F
 5101	562246	1	6	901	9	Romana	Čemeryšová			50	operátor výroby	Zahrádky	99	80	A	F
 5101	561380	1	7	1227	9	Vasil	Chasanovitis			65	OSVČ stavař	Dolní Libchava	99	1227	A	M
 5101	561479	1	7	53	9	Jaroslav	Freier			53	strojník	Cvikov II	99	53	A	M
-5101	562092	1	7	475	9	Ivana	Kučírková			59	učitelka	Stráž pod Ralskem	99	80	A	F
+5101	562092	1	7	475	9	Ivana	Kučírková	Mgr.		59	učitelka	Stráž pod Ralskem	99	80	A	F
 5101	561380	1	8	714	9	Ondřej	Pour			25	hudebník	Česká Lípa	99	714	A	M
 5101	561479	1	8	768	9	Vítězslav	Mataj			68	důchodce	Cvikov II	768	768	A	M
 5101	562092	1	8	47	9	Luděk	Loužecký			71	důlní měřič	Stráž pod Ralskem	47	47	A	M
@@ -1511,7 +1510,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561835	1	1	903	11	Nina	Smolíková			44	podnikatelka	Mimoň V	99	80	A	F
 5101	561860	1	1	449	11	Petra	Bröcklová	Mgr.		56	ředitelka	Nový Bor	99	80	A	F
 5101	561894	1	1	497	11	Richard	Šulc			20	programátor	Okrouhlá	99	80	A	M
-5101	561959	1	1	901	11	Elena	Průchová	Mgr.		54	ředitelka ZŠ a MŠ	Polevsko	99	80	A	F
 5101	562017	1	1	47	11	Jiří	Sedlák			43	živnostník	Ploužnice	99	47	A	M
 5101	562025	1	1	902	11	Jaroslav	Jílek	Ing.		46	jednatel společnosti	Skalice u České Lípy	99	80	A	M
 5101	562050	1	1	901	11	Jan	Vrána			47	podnikatel	Sloup v Čechách	99	80	A	M
@@ -1694,7 +1692,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561894	1	2	703	13	Radovan	Verner	Ing.		63	konstruktér	Okrouhlá	99	703	A	M
 5101	562017	1	2	480	13	Václav	Musil			46	živnostník, zemní práce	Ploužnice	99	80	A	M
 5101	562076	1	2	475	13	Jiří	Vronský	Ing.		81	důchodce	Sosnová	99	80	A	M
-5101	562092	1	2	905	13	Petra	Janáková			33	učitelka	Stráž pod Ralskem	99	80	A	F
+5101	562092	1	2	905	13	Petra	Janáková	Mgr., Bc.		33	učitelka	Stráž pod Ralskem	99	80	A	F
 5101	562262	1	2	901	13	Petr	Žďánský			41	jednatel společnosti	Kamenice	99	80	A	M
 5101	562297	1	2	902	13	Emilie	Paštyková			77	důchodkyně	Žandov	99	80	A	F
 5101	561380	1	3	475	13	Iva	Kovandová	Bc.		35	koordinátorka rodinného centra	Česká Lípa	99	80	A	F
@@ -1713,7 +1711,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561479	1	4	903	13	Eva	Beránková			55	vychovatelka	Cvikov II	99	80	A	F
 5101	561495	1	4	475	13	Ivana	Moudrá	Mgr.		54	speciální pedagog; logoped; bývalá ředitelka MŠ Pražská	Doksy	99	80	A	F
 5101	561681	1	4	53	13	Hana	Dutá			59	vychovatelka	Kamenický Šenov	99	53	A	F
-5101	561835	1	4	901	13	Věra	Strižová			39	technička VLS ČR	Mimoň I	99	80	A	F
+5101	561835	1	4	901	13	Věra	Strižová			39	technička Vojenské lesy a statky ČR, s.p.	Mimoň I	99	80	A	F
 5101	561860	1	4	768	13	Martin	Havlák			46	jednatel společnosti	Pihel	99	768	A	M
 5101	562017	1	4	768	13	Stanislav	Pelc			58	OSVČ	Kuřívody	99	768	A	M
 5101	562076	1	4	901	13	Jana	Mrázová			58	kontrolorka	Sosnová	99	80	A	F
@@ -1730,12 +1728,12 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561380	1	6	1221	13	Pavlína	Kadlecová			38	živnostník	Česká Lípa	99	1221	A	F
 5101	561479	1	6	47	13	Petr	Dvořák			66	zámečník	Cvikov I	99	47	A	M
 5101	561495	1	6	53	13	Lenka	Mordychová	Ing.		42	manažerka nákupu	Doksy	99	53	A	F
-5101	561835	1	6	7	13	Pavel	Kozák			60	pracovník Diama	Mimoň IV	7	7	A	M
+5101	561835	1	6	7	13	Pavel	Kozák			60	pracovník Diamo, s.p.	Mimoň IV	7	7	A	M
 5101	562017	1	6	463	13	Pavla	Wágnerová			30	zástupce manažera	Hvězdov	99	80	A	F
 5101	562092	1	6	401	13	Jan	Horák			22	automechanik	Stráž pod Ralskem	99	80	A	M
 5101	561380	1	7	1227	13	Hana	Dubová			60	OSVČ floristka	Česká Lípa	99	1227	A	F
 5101	561479	1	7	53	13	Martin	Vondráček			59	topenář	Cvikov II	99	53	A	M
-5101	562092	1	7	475	13	Kamila	Špirková			39	učitelka	Stráž pod Ralskem	99	80	A	F
+5101	562092	1	7	475	13	Kamila	Špirková	Mgr.		39	učitelka	Stráž pod Ralskem	99	80	A	F
 5101	561380	1	8	714	13	Dagmar	Kolegarová	Bc.		32	účetní na rodičovské dovolené	Česká Lípa	99	714	A	F
 5101	561479	1	8	768	13	Petra	Tomišová			54	prodavačka	Cvikov I	99	768	A	F
 5101	562092	1	8	47	13	Andrea	Cvachová			19	studentka	Stráž pod Ralskem	99	47	A	F
@@ -1800,7 +1798,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561380	1	6	1221	14	Ivana	Hlaváčková			51	servírka	Česká Lípa	99	1221	A	F
 5101	561479	1	6	47	14	Jiří	Šolc			68	podnikatel	Cvikov II	47	47	A	M
 5101	561495	1	6	53	14	David	Šeler			34	majitel přepravní společnosti	Staré Splavy	99	53	A	M
-5101	561835	1	6	7	14	Jan	Rožánek			45	pracovník montáže Škoda Auto a.s.	Mimoň I	7	7	A	M
+5101	561835	1	6	7	14	Jan	Rožánek			45	pracovník montáže ŠKODA AUTO a.s.	Mimoň I	7	7	A	M
 5101	562017	1	6	463	14	Iva	Svobodová			39	referentka odboru rozvoje a majetku	Kuřívody	99	80	A	F
 5101	562092	1	6	401	14	Miroslav	Volejník			44	zdravotní záchranář	Stráž pod Ralskem	99	80	A	M
 5101	561380	1	7	1227	14	Marek	Efler			36	pracovník expedice	Česká Lípa	99	1227	A	M
@@ -1821,7 +1819,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561720	1	1	901	15	Oldřich	Rulík			37	operátor výroby	Sezímky	99	80	A	M
 5101	561835	1	1	903	15	Pavel	Libra			64	zámečník	Mimoň V	99	80	A	M
 5101	561860	1	1	449	15	Marie	Tryhubová			38	bankovní poradce	Nový Bor	5	80	A	F
-5101	562017	1	1	47	15	Růžena	Bilická			81	úřednice - důchodce	Kuřívody	99	47	A	F
+5101	562017	1	1	47	15	Růžena	Bilická			81	úřednice - důchodce	Kuřívody	47	47	A	F
 5101	562076	1	1	355	15	Pavel	Jedlička			75	důchodce	Sosnová	99	1	A	M
 5101	562092	1	1	904	15	Pavel	Virág			71	horník v penzi, včelař	Stráž pod Ralskem	99	80	A	M
 5101	562262	1	1	387	15	Věra	Broulíková			49	operátorka výroby	Zákupy	99	80	A	F
@@ -1949,10 +1947,10 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561380	1	6	1221	17	Dagmar	Kráglová			73	starobní důchodce	Česká Lípa	99	1221	A	F
 5101	561479	1	6	47	17	Jiří	Kameník			72	technik	Cvikov II	99	47	A	M
 5101	561835	1	6	7	17	František	Pavlíček			76	důchodce	Mimoň I	7	7	A	M
-5101	562092	1	6	401	17	Karel	Halíř			65	důchodce	Stráž pod Ralskem	99	80	A	M
+5101	562092	1	6	401	17	Karel	Halíř	Ing.		65	důchodce	Stráž pod Ralskem	99	80	A	M
 5101	561380	1	7	1227	17	Venuše	Dubová			59	OSVČ optička	Česká Lípa	99	1227	A	F
 5101	561479	1	7	53	17	Petr	Oberreiter			72	důchodce	Cvikov I	99	53	A	M
-5101	562092	1	7	475	17	Kateřina	Bendová			48	laborantka	Stráž pod Ralskem	99	80	A	F
+5101	562092	1	7	475	17	Kateřina	Lubovská			48	laborantka	Stráž pod Ralskem	99	80	A	F
 5101	561380	1	8	714	17	Martin	Kolegar			36	logistický supervizor	Česká Lípa	99	714	A	M
 5101	561479	1	8	768	17	Ladislav	Vetešník			62	technik	Cvikov II	99	768	A	M
 5101	562092	1	8	47	17	František	Netymach			67	důchodce - státní zaměstnanec	Stráž pod Ralskem	99	47	A	M
@@ -2098,7 +2096,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 5101	561380	1	12	1114	24	Vítězslav	Neumann			56	výrobce autobaterií	Vlčí Důl	99	1114	A	M
 5101	561380	1	1	1245	25	Ladislav	Pohnan			40	operátor výroby v automobilovém průmyslu	Česká Lípa	99	1245	A	M
 5101	561380	1	3	475	25	Zdeněk	Šmída	Mgr.		47	ředitel ZŠ Kravaře, vedoucí turistického oddílu mládeže	Česká Lípa	99	80	A	M
-5101	561380	1	4	720	25	Iveta	Martínková			58	dietolog	Česká Lípa	99	720	A	F
+5101	561380	1	4	720	25	Iveta	Martínková			58	dietolog	Dolní Libchava	99	720	A	F
 5101	561380	1	5	457	25	Ondřej	Špaček	Ing.		55	realitní makléř, sportovec, houbař	Česká Lípa	99	181	A	M
 5101	561380	1	6	1221	25	Růžena	Janová			67	starobní důchodce	Česká Lípa	99	1221	A	F
 5101	561380	1	7	1227	25	Jiří	Chudoba			74	důchodce	Česká Lípa	99	1227	A	M

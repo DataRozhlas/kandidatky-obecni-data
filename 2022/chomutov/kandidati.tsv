@@ -1,7 +1,4 @@
 OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
-4202	563480	1	-3	902	1	Zdeněk	Řehoř			44	technik telekomunikace	Všestudy	99	80	A	M
-4202	563480	1	-2	901	1	Jiří	Hecl			65	důchodce	Všestudy	99	80	A	M
-4202	563480	1	-1	2	1	Miloslav	Čermák			48	podnikatel	Všestudy	99	2	A	M
 4202	546062	1	1	901	1	Miroslav	Hess			44	řidič strojník	Pesvice	99	80	A	M
 4202	546071	1	1	902	1	Antonín	Bartoň			31	starosta obce Račetice	Račetice	99	80	A	M
 4202	546160	1	1	901	1	Marcela	Jarošová			52	starostka	Hořenec	99	80	A	F
@@ -43,12 +40,13 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563439	1	1	47	1	Pavel	Kotlan			48	OSVČ	Vinaře	47	47	A	M
 4202	563463	1	1	901	1	Vladimír	Netolický			59	podnikatel	Zaječice	99	80	A	M
 4202	563471	1	1	902	1	Irena	Čechová			66	tlumočník	Všehrdy	99	80	A	F
+4202	563480	1	1	901	1	Jiří	Hecl			65	důchodce	Všestudy	99	80	A	M
 4202	563498	1	1	53	1	Dagmar	Čadílková	Ing.		67	místostarostka Výsluní	Výsluní	99	53	A	F
 4202	563501	1	1	901	1	Milan	Čapek			52	starosta obce	Vysoká Pec	99	80	A	M
 4202	546062	1	2	902	1	Marie	Žovinová			69	starostka	Pesvice	99	80	A	F
 4202	546071	1	2	901	1	Vlastislav	Hofman			63	stavební technik	Račetice	99	80	A	M
 4202	546518	1	2	902	1	Michaela	Vojtová	Ing.		54	ekonomka	Loučná	99	80	A	F
-4202	562971	1	2	1497	1	Jiří	Richter	Bc.		25	státní zaměstnanec	Chomutov	99	80	A	
+4202	562971	1	2	1497	1	Jiří	Richter	Bc.		25	státní zaměstnanec	Chomutov	99	80	A	M
 4202	562980	1	2	902	1	Roman	Bilák	Mgr.		48	úředník	Bílence	99	80	A	M
 4202	563005	1	2	903	1	Alexandr	Peteřík			47	podnikatel v oboru lesnictví	Orasín	99	80	A	M
 4202	563013	1	2	47	1	Josef	Bodnárik			57	vedoucí provozu	Březno	99	47	A	M
@@ -79,6 +77,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563439	1	2	902	1	Radek	Přikryl			46	jednatel	Vilémov	99	80	A	M
 4202	563463	1	2	902	1	Václav	Hora	Bc.		55	starosta	Vrskmaň	99	80	A	M
 4202	563471	1	2	901	1	Petra	Březinová	Ing.		36	starostka	Všehrdy	99	80	A	F
+4202	563480	1	2	2	1	Miloslav	Čermák			48	podnikatel	Všestudy	99	2	A	M
 4202	563498	1	2	903	1	Pavel	Krob			55	technik dopravy	Výsluní	99	80	A	M
 4202	563501	1	2	902	1	Jiří	Mikšátko			62	zámečník	Vysoká Pec	99	80	A	M
 4202	546518	1	3	53	1	Jaroslav	Oršuliak			52	předseda představenstva	Loučná	99	53	A	M
@@ -102,6 +101,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563382	1	3	902	1	Roman	Srbecký			50	jednatel společnosti	Přečaply	99	80	A	M
 4202	563404	1	3	166	1	Vlastimír	Volín			57	vedoucí Domova pro seniory	Vejprty	99	166	A	M
 4202	563439	1	3	903	1	Martin	Fefrčík	Ing.		52	vedoucí útvaru	Vilémov	99	80	A	M
+4202	563480	1	3	902	1	Zdeněk	Řehoř			44	technik telekomunikace	Všestudy	99	80	A	M
 4202	563498	1	3	7	1	Michal	Janeje			62	řezník	Výsluní	99	7	A	M
 4202	563501	1	3	903	1	Kamila	Skalická Minaříková	Mgr.		30	žurnalistka	Vysoká Pec	99	80	A	F
 4202	562971	1	4	1493	1	Marian	Bystroň	MUDr.		51	lékař	Chomutov	99	80	A	M
@@ -149,9 +149,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563099	1	10	5	1	Jaroslav	Stejný			65	bývalý kastelán na Jezeří a Červeném Hrádku, Muzeum Čertů	Jirkov	99	5	A	M
 4202	562971	1	11	166	1	Daniel	Černý	Ing.		49	obchodní ředitel	Chomutov	166	166	A	M
 4202	563099	1	11	768	1	Jindřich	Nádvorník			57	operátor výroby, zastupitel města	Jirkov	768	768	A	M
-4202	563480	1	-3	902	2	Tomáš	Hauser			44	řidič dopravního podniku	Všestudy	99	80	A	M
-4202	563480	1	-2	901	2	Jiří	Kejř			56	podnikatel	Všestudy	99	80	A	M
-4202	563480	1	-1	2	2	Tereza	Matlochová	Bc.		32	zdravotnický záchranář	Všestudy	99	2	A	F
 4202	546062	1	1	901	2	Julius	Šabler	Bc.		42	IT technik	Pesvice	99	80	A	M
 4202	546071	1	1	902	2	Josef	Ryšavý	Ing.		39	ředitel obecně prospěšné společnosti	Račetice	99	80	A	M
 4202	546160	1	1	901	2	Jiří	Šohaj	Ing.		62	technik	Hořenec	99	80	A	M
@@ -193,6 +190,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563439	1	1	47	2	Antonín	Dvořák			66	automechanik	Blov	99	47	A	M
 4202	563463	1	1	901	2	Petr	Balcar	Ing.		70	důchodce	Zaječice	99	80	A	M
 4202	563471	1	1	902	2	Marie	Vášová			48	kontrolor výroby	Všehrdy	99	80	A	F
+4202	563480	1	1	901	2	Jiří	Kejř			56	podnikatel	Všestudy	99	80	A	M
 4202	563498	1	1	53	2	Milan	Bernard			47	stavební technik	Výsluní	99	53	A	M
 4202	563501	1	1	901	2	Pavel	Sláma			54	zámečník	Vysoká Pec	99	80	A	M
 4202	546062	1	2	902	2	Radoslav	Pokorný			49	zámečník	Pesvice	99	80	A	M
@@ -228,6 +226,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563439	1	2	902	2	Zdeněk	Kratina			42	strojník	Vinaře	99	80	A	M
 4202	563463	1	2	902	2	Antonín	Šneiberg			75	místostarosta	Vrskmaň	99	80	A	M
 4202	563471	1	2	901	2	Alena	Borlová			58	obsluha čerpací stanice	Všehrdy	99	80	A	F
+4202	563480	1	2	2	2	Tereza	Matlochová	Bc.		32	zdravotnický záchranář	Všestudy	99	2	A	F
 4202	563498	1	2	903	2	Jiří	Crkal			53	terénní technik	Výsluní	99	80	A	M
 4202	563501	1	2	902	2	Milan	Sulanský			61	důchodce	Vysoká Pec	99	80	A	M
 4202	546518	1	3	53	2	Katrin	Günther	Ing.		42	jednatelka	Loučná	99	53	A	F
@@ -251,6 +250,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563382	1	3	902	2	Michal	Brůha			33	řidič	Přečaply	99	80	A	M
 4202	563404	1	3	166	2	Milan	Suchánek			51	profesionální hasič, řidič	Vejprty	99	166	A	M
 4202	563439	1	3	903	2	Radek	Kulich	Bc.		41	THP	Vilémov	99	80	A	M
+4202	563480	1	3	902	2	Tomáš	Hauser			44	řidič dopravního podniku	Všestudy	99	80	A	M
 4202	563498	1	3	7	2	Ladislav	Kubeček			49	voják	Sobětice	99	7	A	M
 4202	563501	1	3	903	2	Radoslav	Malarik	Bc.		50	"ředitel střediska volného času „Domeček"""	Drmaly	99	80	A	M
 4202	562971	1	4	1493	2	Andrea	Löblová	Mgr.		46	OSVČ, projektová manažerka	Chomutov	99	80	A	F
@@ -264,7 +264,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563200	1	4	901	2	Adéla	Vodrážková			50	učitelka odborného výcviku	Zelená	99	80	A	F
 4202	563218	1	4	47	2	Václav	Pixa		DiS.	73	strojař	Mašťov	99	47	A	M
 4202	563285	1	4	1259	2	Veronika	Pajdlová	Mgr.		40	učitelka ZŠ	Perštejn	99	1259	A	F
-4202	563323	1	4	47	2	Eva	Heicke			46	ostraha	Kojetín	47	47	A	F
+4202	563323	1	4	47	2	Eva	Hiecke			46	ostraha	Kojetín	47	47	A	F
 4202	563358	1	4	901	2	Michaela	Švecová	Ing.		46	ekonomka	Strupčice	99	80	A	F
 4202	563382	1	4	901	2	Miroslav	Urbánek			55	technik	Údlice	99	80	A	M
 4202	563439	1	4	901	2	Pavel	Klíma			54	zámečník	Vilémov	99	80	A	M
@@ -298,9 +298,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563099	1	10	5	2	Tomáš	Přibyl			49	číšník	Jirkov	99	5	A	M
 4202	562971	1	11	166	2	Marcela	Soukupová	Bc.	MBA	54	majitelka bezpečnostní agentury	Chomutov	166	166	A	F
 4202	563099	1	11	768	2	Robert	Plzák			55	radní města	Jirkov	768	768	A	M
-4202	563480	1	-3	902	3	Hana	Skoková			34	OSVČ	Všestudy	99	80	A	F
-4202	563480	1	-2	901	3	Petr	Vojík			52	důchodce	Všestudy	99	80	A	M
-4202	563480	1	-1	2	3	Jiří	Szybakowski			43	podnikatel	Všestudy	99	2	A	M
 4202	546062	1	1	901	3	Karel	Kulhánek			44	voják	Pesvice	99	80	A	M
 4202	546071	1	1	902	3	Aleš	Kvasnička	Bc.		35	státní zaměstnanec	Račetice	99	80	A	M
 4202	546160	1	1	901	3	Pavel	Novotný			48	OSVČ	Hořenec	99	80	A	M
@@ -342,6 +339,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563439	1	1	47	3	Vít	Kindl			43	hasič	Vilémov	47	47	A	M
 4202	563463	1	1	901	3	Vít	Hucek	Bc.		34	učitel odborného výcviku	Zaječice	99	80	A	M
 4202	563471	1	1	902	3	Libor	Šajner			59	obráběč kovů	Všehrdy	99	80	A	M
+4202	563480	1	1	901	3	Petr	Vojík			52	důchodce	Všestudy	99	80	A	M
 4202	563498	1	1	53	3	Pavel	Peer			54	voják	Výsluní	99	53	A	M
 4202	563501	1	1	901	3	Libuše	Houdová	Bc.		60	ředitelka dětského domova	Vysoká Pec	99	80	A	F
 4202	546062	1	2	902	3	Josef	Simet			59	učitel	Pesvice	99	80	A	M
@@ -377,6 +375,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563439	1	2	902	3	Václav	Markus			44	řidič záchranné služby	Vilémov	99	80	A	M
 4202	563463	1	2	902	3	Zdeněk	Prát			51	vedoucí pobočky	Vrskmaň	99	80	A	M
 4202	563471	1	2	901	3	Jana	Arnetová			38	zubní technik	Všehrdy	99	80	A	F
+4202	563480	1	2	2	3	Jiří	Szybakowski			43	podnikatel	Všestudy	99	2	A	M
 4202	563498	1	2	903	3	Josef	Švec			64	ředitel stud. střediska VŠ	Výsluní	99	80	A	M
 4202	563501	1	2	902	3	Emil	Berthold			56	zámečník	Vysoká Pec	99	80	A	M
 4202	546518	1	3	53	3	Pavel	Halaš	Ing.	MBA	61	manažer	Loučná	99	53	A	M
@@ -400,6 +399,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563382	1	3	902	3	Stanislav	Pokorný			49	vedoucí dopravy	Údlice	99	80	A	M
 4202	563404	1	3	166	3	Dalibor	Chovanec	PharmDr.		67	podnikatel	Vejprty	99	166	A	M
 4202	563439	1	3	903	3	Jiří	Kasl			48	TP	Vilémov	99	80	A	M
+4202	563480	1	3	902	3	Hana	Skoková			34	OSVČ	Všestudy	99	80	A	F
 4202	563498	1	3	7	3	Jindřich	Kříž			44	vedoucí	Výsluní	99	7	A	M
 4202	563501	1	3	903	3	Barbora	Eichlerová	MUDr.		30	oční lékařka	Pyšná	99	80	A	F
 4202	562971	1	4	1493	3	Vlastimil	Polívka			71	poradce pro personalistku a mzdy	Chomutov	99	1126	A	M
@@ -408,7 +408,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563072	1	4	901	3	Pavlína	Krulišová			49	administrativní pracovník	Hrušovany	99	80	A	F
 4202	563099	1	4	734	3	Daniel	Šmec			36	lektor tělovýchovných a sportovních služeb	Jirkov	99	734	A	M
 4202	563102	1	4	1259	3	Petr	Jindra			75	referent majetkové správy	Kadaň	99	1259	A	M
-4202	563129	1	4	1599	3	Lenka	Kodytková	Mgr.		52	učitelka	Klášterec nad Ohří	1187	1187	A	
+4202	563129	1	4	1599	3	Lenka	Kodytková	Mgr.		52	učitelka	Klášterec nad Ohří	1187	1187	A	F
 4202	563137	1	4	5	3	Petr	Frank			54	OSVČ	Kovářská	99	5	A	M
 4202	563200	1	4	901	3	Ivan	Pilík			54	poříčný	Zelená	99	80	A	M
 4202	563218	1	4	47	3	Vladimír	Vopat			68	automechanik	Mašťov	47	47	A	M
@@ -417,7 +417,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563358	1	4	901	3	Ivan	Pavliš	Ing.		58	stavební technik	Strupčice	99	80	A	M
 4202	563382	1	4	901	3	Jana	Burešová			45	audiometrická sestra	Údlice	99	80	A	F
 4202	563439	1	4	901	3	Ludmila	Markusová			63	důchodkyně	Vilémov	99	80	A	F
-4202	563498	1	4	901	3	Ľubomír	Stránsky			51	elektrotechnik	Sobětice	99	80	A	
+4202	563498	1	4	901	3	Ľubomír	Stránsky			51	elektrotechnik	Sobětice	99	80	A	M
 4202	562971	1	5	1568	3	Petr	Haldovský			54	zastupitel Chomutova, revizní technik	Chomutov	99	1221	A	M
 4202	563013	1	5	902	3	Lenka	Kabeláčová	Bc.		40	šéfredaktorka	Březno	99	80	A	F
 4202	563099	1	5	1497	3	Petra	Rohuschová	Mgr.		46	učitelka	Červený Hrádek	99	80	A	F
@@ -447,9 +447,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563099	1	10	5	3	Martina	Walterová			52	zdravotní sestra	Jirkov	99	5	A	F
 4202	562971	1	11	166	3	Petr	Drobný			49	předseda sportovního klubu	Chomutov	166	166	A	M
 4202	563099	1	11	768	3	Jiří	Šruma	Ing.		38	manažer, radní města	Jirkov	768	768	A	M
-4202	563480	1	-3	902	4	Kateřina	Kejřová			23	OSVČ	Všestudy	99	80	A	F
-4202	563480	1	-2	901	4	Petra	Nemešová			48	prodavačka	Všestudy	99	80	A	F
-4202	563480	1	-1	2	4	Monika	Bláhová	Mgr.		52	učitelka	Všestudy	99	2	A	F
 4202	546062	1	1	901	4	Petra	Kelerová			42	učitelka MŠ	Pesvice	99	80	A	F
 4202	546071	1	1	902	4	Radek	Sluníčko			43	technik mechanik	Račetice	99	80	A	M
 4202	546160	1	1	901	4	Pavel	Milasevič			44	zemědělec	Hořenec	99	80	A	M
@@ -484,13 +481,14 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563323	1	1	901	4	Kateřina	Tumpachová	Ing.		47	rozpočtář	Radonice	99	80	A	F
 4202	563331	1	1	901	4	Pavlína	Horváthová			51	domovnice	Hradec	99	80	A	F
 4202	563340	1	1	901	4	Stanislav	Rychetský	Ing.		29	projektový inženýr	Spořice	99	80	A	M
-4202	563358	1	1	1114	4	Jaroslav	Vostrý			73	technik báňské záchranné služby ARO Ústeckého kraje	Strupčice	99	1114	A	M
+4202	563358	1	1	1114	4	Jaroslav	Vostrý			73	technik báňské záchranné služby	Strupčice	99	1114	A	M
 4202	563382	1	1	903	4	Markéta	Beránková	Mgr.		46	speciální pedagog	Údlice	99	80	A	F
 4202	563404	1	1	53	4	František	Ficker			57	ředitel Služby města Vejprty	Vejprty	53	53	A	M
 4202	563412	1	1	902	4	Rudolf	Vávra			43	OSVČ zedník	Široké Třebčice	99	80	A	M
 4202	563439	1	1	47	4	Tomáš	Takáč			47	vedoucí	Blov	99	47	A	M
 4202	563463	1	1	901	4	Zdeněk	Jonáš			52	elektrikář	Vrskmaň	99	80	A	M
 4202	563471	1	1	902	4	Josef	Vavřík Kočí			49	pracovník v pohřebnictví	Všehrdy	99	80	A	M
+4202	563480	1	1	901	4	Petra	Nemešová			48	prodavačka	Všestudy	99	80	A	F
 4202	563498	1	1	53	4	Žaneta	Priadková			40	administrativní pracovník	Výsluní	99	53	A	F
 4202	563501	1	1	901	4	Libor	Řezníček	Mgr. Bc.		57	učitel střední školy	Vysoká Pec	99	80	A	M
 4202	546062	1	2	902	4	Karel	Svatoš	Bc.		37	skladník	Pesvice	99	80	A	M
@@ -526,6 +524,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563439	1	2	902	4	Pavel	Kratina			44	koordinátor výroby	Vilémov	99	80	A	M
 4202	563463	1	2	902	4	Romana	Kášová			44	státní zaměstnanec	Zaječice	99	80	A	F
 4202	563471	1	2	901	4	Aleš	Vinduška			41	CNC frézař, místostarosta	Všehrdy	99	80	A	M
+4202	563480	1	2	2	4	Monika	Bláhová	Mgr.		52	učitelka	Všestudy	99	2	A	F
 4202	563498	1	2	903	4	Miroslav	Badaň			52	podnikatel	Výsluní	99	80	A	M
 4202	563501	1	2	902	4	Robert	Šenfeld			47	mechanik IT	Vysoká Pec	99	80	A	M
 4202	546518	1	3	53	4	Ladislav	Hamsa			55	podnikatel	Oldřichov	99	53	A	M
@@ -549,6 +548,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563382	1	3	902	4	Jiří	Chloupek			57	provozní elektrikář	Údlice	99	80	A	M
 4202	563404	1	3	166	4	Michaela	Vlašicová	Ing.		38	ekonomka	Vejprty	99	166	A	F
 4202	563439	1	3	903	4	Vít	Šlangal			51	řidič VKS	Vilémov	99	80	A	M
+4202	563480	1	3	902	4	Kateřina	Kejřová			23	OSVČ	Všestudy	99	80	A	F
 4202	563498	1	3	7	4	Václav	Volf			47	elektrikář	Výsluní	99	7	A	M
 4202	563501	1	3	903	4	Markéta	Bačíková			34	zdravotní sestra	Vysoká Pec	99	80	A	F
 4202	562971	1	4	1493	4	David	Palán			43	stoik, student práv, ochránce přírody	Chomutov	99	720	A	M
@@ -596,9 +596,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563099	1	10	5	4	Roman	Kačerik			58	podnikatel	Jirkov	99	5	A	M
 4202	562971	1	11	166	4	Tomáš	Trávníček	Ing.	MPA	40	vedoucího Stavebního úřadu a životního prostředí	Chomutov	166	166	A	M
 4202	563099	1	11	768	4	Luboš	Nosál	Ing.		64	pedagog, zastupitel města	Jirkov	768	768	A	M
-4202	563480	1	-3	902	5	Věra	Zahradníčková			45	technik	Všestudy	99	80	A	F
-4202	563480	1	-2	901	5	Tibor	Végh			72	důchodce	Všestudy	99	80	A	M
-4202	563480	1	-1	2	5	Jan	Hrošek			32	manažer kvality	Všestudy	99	2	A	M
 4202	546062	1	1	901	5	Květa	Bednářová			44	mateřská dovolená	Pesvice	99	80	A	F
 4202	546071	1	1	902	5	Miroslav	Přibík			39	svářeč	Račetice	99	80	A	M
 4202	546160	1	1	901	5	Lada	Mixová			52	ředitelka MŠ	Nezabylice	99	80	A	F
@@ -640,6 +637,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563439	1	1	47	5	Lucie	Kindlová			42	prodavačka	Vilémov	47	47	A	F
 4202	563463	1	1	901	5	Pavla	Hrzinová			51	žena v domácnosti	Zaječice	99	80	A	F
 4202	563471	1	1	902	5	Zlatuše	Pekingová			56	dispečerka dopravy	Všehrdy	99	80	A	F
+4202	563480	1	1	901	5	Tibor	Végh			72	důchodce	Všestudy	99	80	A	M
 4202	563498	1	1	53	5	Mitko	Pajkov			54	pedagog volného času	Výsluní	99	53	A	M
 4202	563501	1	1	901	5	Filip	Wojtowicz		DiS.	43	manažer	Vysoká Pec	99	80	A	M
 4202	546062	1	2	902	5	Miroslav	Potměšil			41	zámečník	Pesvice	99	80	A	M
@@ -675,11 +673,12 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563439	1	2	902	5	Miroslav	Slanina			47	zámečník	Vilémov	99	80	A	M
 4202	563463	1	2	902	5	Radek	Fehnl			41	obsluha CNC stroje	Vrskmaň	99	80	A	M
 4202	563471	1	2	901	5	Gabriela	Halásová			41	manažer plánování a realizace	Všehrdy	99	80	A	F
+4202	563480	1	2	2	5	Jan	Hrošek			32	manažer kvality	Všestudy	99	2	A	M
 4202	563498	1	2	903	5	Jana	Červeňanská			55	support koordinator	Volyně	99	80	A	F
 4202	563501	1	2	902	5	Miroslav	Vaverka			51	přestavbář	Vysoká Pec	99	80	A	M
 4202	546518	1	3	53	5	Filip	Postávka	Ing.		50	ekonom	Roztoky	99	53	A	M
 4202	562971	1	3	1535	5	Ladislav	Kosán	JUDr.		70	bývalý šéf okresního státního zastupitelství	Chomutov	99	1265	A	M
-4202	563005	1	3	470	5	Josef	Švancar			49	sochař, výtvarník	Orasín	99	80	A	
+4202	563005	1	3	470	5	Josef	Švancar			49	sochař, výtvarník	Orasín	99	80	A	M
 4202	563013	1	3	901	5	Martina	Staňková	Ing.		36	HR specialistka	Březno	99	80	A	F
 4202	563064	1	3	903	5	Pavel	Karásek			51	OSVČ	Hora Svatého Šebestiána	99	80	A	M
 4202	563072	1	3	47	5	Ludvík	Miklovič			64	obsluha zařízení	Hrušovany	99	47	A	M
@@ -698,6 +697,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563382	1	3	902	5	František	Kopřiva			63	sklenář	Údlice	99	80	A	M
 4202	563404	1	3	166	5	Jan	Bittner			52	živnostník	Vejprty	99	166	A	M
 4202	563439	1	3	903	5	Miroslav	Hybrant			52	OSVČ	Vilémov	99	80	A	M
+4202	563480	1	3	902	5	Věra	Zahradníčková			45	technik	Všestudy	99	80	A	F
 4202	563498	1	3	7	5	Jiří	Müller			47	zámečník	Volyně	99	7	A	M
 4202	563501	1	3	903	5	David	Garáb			42	vedoucí technického oddělení	Drmaly	99	80	A	M
 4202	562971	1	4	1493	5	Jan	Rödling	Mgr.		40	publicista, zastupitel	Chomutov	721	721	A	M
@@ -729,7 +729,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	562971	1	6	768	5	Jiří	Weber			49	podnikatel v zemědělství, radní města Chomutova	Chomutov	768	768	A	M
 4202	563099	1	6	47	5	Šárka	Černá			49	prodavačka	Jirkov	47	47	A	F
 4202	563102	1	6	768	5	Jan	Lazarčík	Ing.		57	podnikatel ve stavebnictví	Kadaň	768	768	A	M
-4202	563129	1	6	1305	5	Michal	Výborný			28	bezpečnostní technik	Miřetice u Klášterce nad Ohří	99	80	A	M
+4202	563129	1	6	1305	5	Michal	Výborný			28	bezpečnostní pracovník	Miřetice u Klášterce nad Ohří	99	80	A	M
 4202	563285	1	6	53	5	Jan	Dragomír	JUDr.		53	právník	Perštejn	53	53	A	M
 4202	562971	1	7	1269	5	Roman	Vašíček	Ing.		43	vedoucí chemické laboratoře	Chomutov	99	1269	A	M
 4202	563099	1	7	1535	5	Jakub	Filípek			29	obchodní manažer	Jirkov	1265	1265	A	M
@@ -745,9 +745,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563099	1	10	5	5	Olga	Meleganičová			28	na mateřské	Jirkov	99	5	A	F
 4202	562971	1	11	166	5	Jitka	Fischerová	Mgr.		67	důchodkyně	Chomutov	99	166	A	F
 4202	563099	1	11	768	5	Jitka	Nováková	Mgr.		59	pedagožka	Jirkov	99	768	A	F
-4202	563480	1	-3	902	6	Stanislav	Pachmann			40	řidič zemědělské techniky	Všestudy	99	80	A	M
-4202	563480	1	-2	901	6	Petr	Brziak			50	směnový technik	Všestudy	99	80	A	M
-4202	563480	1	-1	2	6	Šárka	Žáková			38	zdravotní sestra	Všestudy	99	2	A	F
 4202	546071	1	1	902	6	Michal	Prokop			45	technik	Račetice	99	80	A	M
 4202	546160	1	1	901	6	Lukáš	Šantora			37	OSVČ	Hořenec	99	80	A	M
 4202	546518	1	1	901	6	Radek	Hasala			51	strojník	Háj	99	80	A	M
@@ -781,13 +778,14 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563323	1	1	901	6	Lucie	Nagyová	Mgr.		45	učitelka	Radonice	99	80	A	F
 4202	563331	1	1	901	6	Martina	Kaschelová			29	rodičovská dovolená	Hradec	99	80	A	F
 4202	563340	1	1	901	6	Radek	Mořkovský			54	technik dopravy	Spořice	99	80	A	M
-4202	563358	1	1	1114	6	Jaroslava	Helebrantová	MUDr.		53	lékařka záchranné služby ARO Ústeckého kraje	Strupčice	99	1114	A	F
+4202	563358	1	1	1114	6	Jaroslava	Helebrantová	MUDr.		53	lékařka záchranné služby Ústeckého kraje a ARO	Strupčice	99	1114	A	F
 4202	563382	1	1	903	6	Petra	Čížková	Mgr.		40	učitelka	Údlice	99	80	A	F
 4202	563404	1	1	53	6	Egon	Fottr			61	koordinátor prací SmV	Vejprty	99	53	A	M
 4202	563412	1	1	902	6	Ladislav	Kouba			46	strojník	Nové Třebčice	99	80	A	M
 4202	563439	1	1	47	6	Rudolf	Novotný			65	klempíř	Zahořany	99	47	A	M
 4202	563463	1	1	901	6	Jana	Jonášová	Mgr.	DiS.	45	státní zaměstnanec	Vrskmaň	99	80	A	F
 4202	563471	1	1	902	6	Lenka	Šajnerová			30	operátor CNC strojů	Všehrdy	99	80	A	F
+4202	563480	1	1	901	6	Petr	Brziak			50	směnový technik	Všestudy	99	80	A	M
 4202	563498	1	1	53	6	Vladimír	Šťastný			60	revizní technik	Volyně	99	53	A	M
 4202	563501	1	1	901	6	Ingrid	Balážová	Mgr.		60	ředitelka ZŠ a MŠ	Vysoká Pec	99	80	A	F
 4202	546062	1	2	902	6	Lucie	Krejzová			44	technik	Pesvice	99	80	A	F
@@ -822,6 +820,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563439	1	2	902	6	Michal	Weiss			26	prodavač	Zahořany	99	80	A	M
 4202	563463	1	2	902	6	Miroslav	Wenzel			34	správce budov a zařízení	Vrskmaň	99	80	A	M
 4202	563471	1	2	901	6	Jakub	Novák			32	mechanik výdejních automatů	Všehrdy	99	80	A	M
+4202	563480	1	2	2	6	Šárka	Žáková			38	zdravotní sestra	Všestudy	99	2	A	F
 4202	563498	1	2	903	6	Zuzana	Netoličková			47	podnikatelka	Výsluní	99	80	A	F
 4202	563501	1	2	902	6	Libor	Svoboda			55	strojník	Drmaly	99	80	A	M
 4202	546518	1	3	53	6	David	Skřička			52	podnikatel	Háj	99	53	A	M
@@ -845,6 +844,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563382	1	3	902	6	Klára	Krejříková	Ing.		29	vedoucí bankovní pobočky	Údlice	99	80	A	F
 4202	563404	1	3	166	6	Martin	Šlechta			23	učitel	Vejprty	99	166	A	M
 4202	563439	1	3	903	6	Dita	Fefrčíková			51	vedoucí úseku	Vilémov	99	80	A	F
+4202	563480	1	3	902	6	Stanislav	Pachmann			40	řidič zemědělské techniky	Všestudy	99	80	A	M
 4202	563498	1	3	7	6	Monika	Volfová			46	OSVČ	Výsluní	99	7	A	F
 4202	563501	1	3	903	6	Helena	Požárková Dušková			37	ošetřovatelka zvířat v zoo	Vysoká Pec	99	80	A	F
 4202	562971	1	4	1493	6	Veronika	Roubínková			29	OSVČ, organizátorka kulturních akcí, asistentka senátora P. Rabase	Chomutov	721	721	A	F
@@ -891,9 +891,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563099	1	10	5	6	Marek	Elexa			49	předseda ZO Strany zelených	Jirkov	5	5	A	M
 4202	562971	1	11	166	6	Martin	Leon			44	technický ředitel	Chomutov	166	166	A	M
 4202	563099	1	11	768	6	Petr	Svoboda			66	ředitel dřevařské výroby	Jirkov	99	768	A	M
-4202	563480	1	-3	902	7	Monika	Drdová			35	ošetřovatelka	Všestudy	99	80	A	F
-4202	563480	1	-2	901	7	Jolana	Kejřová			29	technik rostlinné výroby	Všestudy	99	80	A	F
-4202	563480	1	-1	2	7	Věra	Slezáková	Mgr.		75	důchodce	Všestudy	99	2	A	F
 4202	546071	1	1	902	7	Hana	Jenčová			48	ředitelka MŠ	Račetice	99	80	A	F
 4202	546160	1	1	901	7	Roman	Křapek			39	OSVČ	Nezabylice	99	80	A	M
 4202	546518	1	1	901	7	Antonín	Stříbrný	Ing.		56	podnikatel	Háj	99	80	A	M
@@ -932,6 +929,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563439	1	1	47	7	František	Šlangal			74	zámečník	Vilémov	47	47	A	M
 4202	563463	1	1	901	7	Markéta	Lebedová			38	technický pracovník	Vrskmaň	99	80	A	F
 4202	563471	1	1	902	7	Mirka	Pelikánová			62	dámská krejčová	Všehrdy	99	80	A	F
+4202	563480	1	1	901	7	Jolana	Kejřová			29	technik rostlinné výroby	Všestudy	99	80	A	F
 4202	563498	1	1	53	7	Mária	Špinková			67	důchodkyně	Výsluní	99	53	A	F
 4202	563501	1	1	901	7	Eva	Hrebeniaková	Mgr.		41	referentka	Vysoká Pec	99	80	A	F
 4202	546071	1	2	901	7	Květoslava	Kašperová			50	technik výroby	Račetice	99	80	A	F
@@ -965,6 +963,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563439	1	2	902	7	Lukáš	Vild			35	zámečník	Vilémov	99	80	A	M
 4202	563463	1	2	902	7	Pavel	Provazník			42	zlatník	Vrskmaň	99	80	A	M
 4202	563471	1	2	901	7	Andrea	Lukešová			39	noční vychovatelka v DD	Všehrdy	99	80	A	F
+4202	563480	1	2	2	7	Věra	Slezáková	Mgr.		75	důchodce	Všestudy	99	2	A	F
 4202	563498	1	2	903	7	Daniel	Krob			32	technik - montér	Výsluní	99	80	A	M
 4202	563501	1	2	902	7	Václav	Vondrášek			50	řidič MKD	Vysoká Pec	99	80	A	M
 4202	546518	1	3	53	7	Marek	Popelka	Mgr.	LL.M.	43	policista	Loučná	99	53	A	M
@@ -988,6 +987,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563382	1	3	902	7	Miroslav	Dubský			47	řidič	Přečaply	99	80	A	M
 4202	563404	1	3	166	7	Michal	Hlavatý			46	dělník, hospodář a jednatel MSČRS, člen Rybářské stráže	Vejprty	99	166	A	M
 4202	563439	1	3	903	7	František	Weiss			52	zámečník	Zahořany	99	80	A	M
+4202	563480	1	3	902	7	Monika	Drdová			35	ošetřovatelka	Všestudy	99	80	A	F
 4202	563498	1	3	7	7	Filip	Hrošek			19	student	Výsluní	99	7	A	M
 4202	563501	1	3	903	7	Libor	Skalický	Ing.		37	vedoucí oddělení automatizace	Vysoká Pec	99	80	A	M
 4202	562971	1	4	1493	7	Michal	Vlach	Mgr.		50	ředitel školy	Chomutov	721	721	A	M
@@ -1034,7 +1034,6 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563099	1	10	5	7	Nikola	Vrbová			20	studentka	Jirkov	99	5	A	F
 4202	562971	1	11	166	7	Václav	Rusňák	Ing. arch.		36	architekt	Chomutov	99	166	A	M
 4202	563099	1	11	768	7	Petr	Kamenický			36	rentgenář	Jirkov	99	768	A	M
-4202	563480	1	-1	2	8	Hana	Hrošková			54	účetní	Všestudy	99	2	A	F
 4202	546071	1	1	902	8	Sylvie	Jarošová	Mgr.		37	učitelka ZŠ	Račetice	99	80	A	F
 4202	546160	1	1	901	8	Michaela	Chudá	Ing.		39	energetik	Nezabylice	99	80	A	F
 4202	546518	1	1	901	8	Stanislav	Roháček	Ing.		65	podnikatel	Háj	99	80	A	M
@@ -1096,6 +1095,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563439	1	2	902	8	František	Weiss			74	důchodce	Zahořany	99	80	A	M
 4202	563463	1	2	902	8	Věra	Prátová			52	vedoucí záchranářů	Vrskmaň	99	80	A	F
 4202	563471	1	2	901	8	Pavel	Černý			62	provozní elektrikář	Všehrdy	99	80	A	M
+4202	563480	1	2	2	8	Hana	Hrošková			54	účetní	Všestudy	99	2	A	F
 4202	563498	1	2	903	8	Kamil	Babič			50	mistr dílen SÚS	Výsluní	99	80	A	M
 4202	546518	1	3	53	8	Petra	Choděrová	Mgr.		40	referent MPO	Strašnice	99	53	A	F
 4202	562971	1	3	1535	8	Ladislav	Tatai			52	fitness trenér	Chomutov	99	1114	A	M
@@ -1526,7 +1526,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563099	1	5	1497	14	Pavel	Fára			47	vychovatel	Jirkov	99	80	A	M
 4202	563102	1	5	355	14	Jana	Selinger	Mgr.		47	vedoucí pedagogicko-psychologické poradny	Kadaň	99	80	A	F
 4202	563129	1	5	470	14	Vladimír	Dvořák	Mgr.		62	předseda HC Tygři Klášterec nad Ohří, obchodní manažer	Útočiště	99	80	A	M
-4202	563137	1	5	901	14	Jana	Koulová	MUDr.		53	lékařka	Kovářská	99	80	A	F
+4202	563137	1	5	901	14	Jana	Kouklová	MUDr.		53	lékařka	Kovářská	99	80	A	F
 4202	562971	1	6	768	14	Vítězslav	Vild	Bc.		37	strážník městské policie	Chomutov	99	768	A	M
 4202	563099	1	6	47	14	Pavel	Abraham			48	řidič	Jirkov	47	47	A	M
 4202	563102	1	6	768	14	Ilona	Straková			63	daňová poradkyně	Kadaň	99	768	A	F
@@ -1748,7 +1748,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563102	1	6	768	20	Jaroslav	Sadílek			67	senior	Kadaň	99	768	A	M
 4202	563129	1	6	1305	20	Václav	Zahrádka			63	řidič autobusu MHD	Klášterec nad Ohří	99	80	A	M
 4202	562971	1	7	1269	20	Jiří	Roth	PaedDr.		82	bylinkář a mykolog	Chomutov	99	1269	A	M
-4202	563099	1	7	1535	20	Miroslav	Hugya			22	soustružník / obráběč	Jirkov	99	1114	A	M
+4202	563099	1	7	1535	20	Miroslav	Hugya			22	soustružník/obráběč	Jirkov	99	1114	A	M
 4202	563129	1	7	768	20	Nikola	Müllerová	Bc.		29	strážník městské policie	Miřetice u Klášterce nad Ohří	99	768	A	F
 4202	562971	1	8	1017	20	Jakub	Märc	Mgr.		31	fyzioterapeut	Chomutov	99	1017	A	M
 4202	563099	1	8	145	20	Jan	Vološin			56	zámečník	Jirkov	99	145	A	M
@@ -1831,7 +1831,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	563102	1	5	355	23	Kateřina	Měřínská	Mgr.		44	fitness trenérka	Kadaň	99	80	A	F
 4202	562971	1	6	768	23	Vladimír	Boháč	Ing.		64	technik	Chomutov	99	768	A	M
 4202	563099	1	6	47	23	Václav	Čermák			76	technik	Jirkov	47	47	A	M
-4202	563102	1	6	768	23	Alena	Mezerová			56	invalidní důchodce	Kadaň	99	768	A	F
+4202	563102	1	6	768	23	Alena	Mezerová			56	invalidní důchodkyně	Kadaň	99	768	A	F
 4202	562971	1	7	1269	23	Michal	Vostrý			31	sportovec-MMA zápasník	Chomutov	99	1269	A	M
 4202	563099	1	7	1535	23	Nikola	Jedličková			23	asistentka prodeje	Jirkov	99	1114	A	F
 4202	562971	1	8	1017	23	Pavel	Heier			41	stavební technik	Chomutov	99	1017	A	M
@@ -1848,7 +1848,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 4202	562971	1	3	1535	24	Miroslava	Drábová	Ing.		59	finanční účetní senior	Chomutov	99	1265	A	F
 4202	563099	1	3	53	24	František	Sedláček			64	technik	Jirkov	99	53	A	M
 4202	563102	1	3	720	24	Štěpánka	Tupá			21	studentka	Kadaň	99	720	A	F
-4202	562971	1	4	1493	24	Nikola	Kejaková			29	prokuristka v rodinné firmě	Chomutov	99	80	A	F
+4202	562971	1	4	1493	24	Nikola	Kallistová			29	prokuristka v rodinné firmě	Chomutov	99	80	A	F
 4202	563099	1	4	734	24	Jiří	Kanaloš			52	jednatel společnosti	Jirkov	99	734	A	M
 4202	563102	1	4	1259	24	Tomáš	Laitl			31	technik	Kadaň	7	1259	A	M
 4202	562971	1	5	1568	24	Dana	Kabeláčová			46	operátor výroby	Chomutov	99	1221	A	F

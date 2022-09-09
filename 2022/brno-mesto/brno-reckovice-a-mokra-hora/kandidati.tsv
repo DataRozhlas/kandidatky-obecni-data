@@ -9,7 +9,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6202	551244	1	2	463	2	Česlav	Ulrich			44	chemik	Brno-Řečkovice a Mokrá Hora	99	80	A	M
 6202	551244	1	3	687	2	Richard	Foltýn			49	manažer basketbalového oddílu KP Brno, místopředseda Unie sportovních klubů města Brna	Brno-Řečkovice a Mokrá Hora	53	53	A	M
 6202	551244	1	4	1	2	Jiří	Libus	Ing.		40	finanční manažer, akvarista, vedoucí skautského střediska	Brno-Řečkovice a Mokrá Hora	1	1	A	M
-6202	551244	1	5	768	2	Vladislav	Musil	Prof. Ing.	CSc.	69	vysokoškolský učitel	Brno-Řečkovice a Mokrá Hora	768	768	A	
+6202	551244	1	5	768	2	Vladislav	Musil	Prof. Ing.	CSc.	69	vysokoškolský učitel	Brno-Řečkovice a Mokrá Hora	768	768	A	M
 6202	551244	1	6	1504	2	Veronika	Szabóová			35	vedoucí pošty	Brno-Řečkovice a Mokrá Hora	99	1221	A	F
 6202	551244	1	1	371	3	Vlasta	Zelinková	Ing.		47	vedoucí oddělení informatiky Nejvyššího soudu	Brno-Řečkovice a Mokrá Hora	7	7	A	F
 6202	551244	1	2	463	3	Jiří	Růžička	Ing.		74	starosta Sokola v.v.	Brno-Řečkovice a Mokrá Hora	99	80	A	M
@@ -22,12 +22,12 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6202	551244	1	3	687	4	Stanislav	Michalík	Ing.		59	projektový manažer	Brno-Řečkovice a Mokrá Hora	53	53	A	M
 6202	551244	1	4	1	4	Kateřina	Svobodová			50	produktová manažerka, režisérka ochotnického divadla Ř13	Brno-Řečkovice a Mokrá Hora	1	1	A	F
 6202	551244	1	5	768	4	Daniel	Struž	Ing.	MBA	53	manager	Brno-Řečkovice a Mokrá Hora	768	768	A	M
-6202	551244	1	6	1504	4	Miloš	Šujan			49	řidič	Brno-Řečkovice a Mokrá Hora	99	47	A	
+6202	551244	1	6	1504	4	Miloš	Šujan			49	řidič	Brno-Řečkovice a Mokrá Hora	99	47	A	M
 6202	551244	1	1	371	5	Jan	Vaculín	Ing.		39	obchodní ředitel	Brno-Řečkovice a Mokrá Hora	7	7	A	M
-6202	551244	1	2	463	5	Petra	Skalická	Ing.	Ph.D.	37	dopravní inženýrka, místopředseda TAK Hellas	Brno-Řečkovice a Mokrá Hora	99	80	A	
+6202	551244	1	2	463	5	Petra	Skalická	Ing.	Ph.D.	37	dopravní inženýrka, místopředseda zápasu TAK Hellas	Brno-Řečkovice a Mokrá Hora	99	80	A	F
 6202	551244	1	3	687	5	Jiří	Feyrer	Mgr.		50	právník	Brno-Řečkovice a Mokrá Hora	53	53	A	M
 6202	551244	1	4	1	5	Oldřich	Gardáš			56	divadelní technik, organizátor Dětského dne a Letní noci	Brno-Řečkovice a Mokrá Hora	1	1	A	M
-6202	551244	1	5	768	5	Karel	Vonášek			53	OSVČ	Brno-Řečkovice a Mokrá Hora	768	768	A	
+6202	551244	1	5	768	5	Karel	Vonášek			53	OSVČ	Brno-Řečkovice a Mokrá Hora	768	768	A	M
 6202	551244	1	6	1504	5	Jan	Dvořák			49	technický pracovník	Brno-Řečkovice a Mokrá Hora	99	759	A	M
 6202	551244	1	1	371	6	Josef	Kugler			58	operátor CNC	Brno-Řečkovice a Mokrá Hora	99	80	A	M
 6202	551244	1	2	463	6	Lukáš	Doležal	Bc.		33	politolog, analytik	Brno-Řečkovice a Mokrá Hora	720	80	A	M
@@ -63,9 +63,9 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6202	551244	1	2	463	11	Kamil	Kuhn			36	prodejce nových automobilů	Brno-Řečkovice a Mokrá Hora	99	80	A	M
 6202	551244	1	3	687	11	Miroslav	Velen	Mgr.		50	programátor	Brno-Řečkovice a Mokrá Hora	99	53	A	M
 6202	551244	1	4	1	11	Pavel	Olbrich			58	mechanik	Brno-Řečkovice a Mokrá Hora	1	1	A	M
-6202	551244	1	5	768	11	Tomáš	Pokorný			50	podnikatel	Brno-Řečkovice a Mokrá Hora	768	768	A	
-6202	551244	1	6	1504	11	Marek	Chudík			21	pracovník ostrahy	Brno-Řečkovice a Mokrá Hora	99	1221	A	
-6202	551244	1	1	371	12	Vladimíra	Chvátalová			48	mzdová účetní	Brno-Řečkovice a Mokrá Hora	7	7	A	
+6202	551244	1	5	768	11	Tomáš	Pokorný			50	podnikatel	Brno-Řečkovice a Mokrá Hora	768	768	A	M
+6202	551244	1	6	1504	11	Marek	Chudík			21	pracovník ostrahy	Brno-Řečkovice a Mokrá Hora	99	1221	A	M
+6202	551244	1	1	371	12	Vladimíra	Chvátalová			48	mzdová účetní	Brno-Řečkovice a Mokrá Hora	7	7	A	F
 6202	551244	1	2	463	12	Miloslav	Látal	Ing.		72	vedoucí velkoobchodu	Brno-Řečkovice a Mokrá Hora	99	80	A	M
 6202	551244	1	3	687	12	Vladimír	Jelínek	Ing.		47	grafik	Brno-Řečkovice a Mokrá Hora	721	721	A	M
 6202	551244	1	4	1	12	Alena	Oprchalová			18	studentka pedagogického lycea, hodová stárka	Brno-Řečkovice a Mokrá Hora	99	1	A	F
@@ -90,7 +90,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6202	551244	1	5	768	15	Jiří	Konior	JUDr.		69	advokát	Brno-Řečkovice a Mokrá Hora	99	768	A	M
 6202	551244	1	6	1504	15	Věra	Chudíková			41	technická pracovnice	Brno-Řečkovice a Mokrá Hora	99	1221	A	F
 6202	551244	1	1	371	16	Dagmar	Navrátilová	Mgr.		65	sociální pedagožka, vedoucí klubu seniorů	Brno-Řečkovice a Mokrá Hora	7	7	A	F
-6202	551244	1	2	463	16	David	Jančík			51	regionální vedoucí prodeje	Brno-Řečkovice a Mokrá Hora	99	80	A	
+6202	551244	1	2	463	16	David	Jančík			51	regionální vedoucí prodeje	Brno-Řečkovice a Mokrá Hora	99	80	A	M
 6202	551244	1	3	687	16	Petr	Šebesta			49	podnikatel	Brno-Řečkovice a Mokrá Hora	99	53	A	M
 6202	551244	1	4	1	16	Monika	Bublová		DiS.	43	asistentka pedagoga na ZŠ Horácké náměstí	Brno-Řečkovice a Mokrá Hora	99	1	A	F
 6202	551244	1	5	768	16	Olga	Hanušková			47	administrativa	Brno-Řečkovice a Mokrá Hora	99	768	A	F
@@ -100,12 +100,12 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6202	551244	1	4	1	17	Jan	Holík	Ing.		77	důchodce, bývalý starosta městské části Brno-Řečkovice a Mokrá Hora	Brno-Řečkovice a Mokrá Hora	1	1	A	M
 6202	551244	1	5	768	17	Marek	Suchomel			39	OSVČ	Brno-Řečkovice a Mokrá Hora	99	768	A	M
 6202	551244	1	1	371	18	Bohdan	Kratochvíl	RNDr.		59	geofyzik	Brno-Řečkovice a Mokrá Hora	7	7	A	M
-6202	551244	1	2	463	18	Vojtěch	Matal	Bc.		28	pracovník integrovaného záchranného systému	Brno-Řečkovice a Mokrá Hora	99	80	A	
+6202	551244	1	2	463	18	Vojtěch	Matal	Bc.		28	pracovník integrovaného záchranného systému	Brno-Řečkovice a Mokrá Hora	99	80	A	M
 6202	551244	1	3	687	18	Luděk	Bláha	prof. RNDr.	Ph.D.	49	akademický pracovník	Brno-Řečkovice a Mokrá Hora	99	721	A	M
 6202	551244	1	4	1	18	Milan	Trnka	Ing.		74	důchodce, předseda Sněmu Moravského kulatého stolu	Brno-Řečkovice a Mokrá Hora	99	1	A	M
 6202	551244	1	5	768	18	Magda	Felklová			39	skladník	Brno-Řečkovice a Mokrá Hora	99	768	A	F
-6202	551244	1	1	371	19	Šárka	Strejčková	Mgr.		51	vrchní sestra	Brno-Řečkovice a Mokrá Hora	7	7	A	
-6202	551244	1	2	463	19	Zuzana	Toušová	Mgr.	Ph.D.	37	výzkumná pracovnice v oboru životní prostředí	Brno-Řečkovice a Mokrá Hora	99	80	A	
+6202	551244	1	1	371	19	Šárka	Strejčková	Mgr.		51	vrchní sestra	Brno-Řečkovice a Mokrá Hora	7	7	A	F
+6202	551244	1	2	463	19	Zuzana	Toušová	Mgr.	Ph.D.	37	výzkumná pracovnice v oboru životní prostředí	Brno-Řečkovice a Mokrá Hora	99	80	A	F
 6202	551244	1	3	687	19	Emília	Kosová	Mgr.		71	učitelka	Brno-Řečkovice a Mokrá Hora	99	53	A	F
 6202	551244	1	4	1	19	Radim	Prokeš			33	majitel finančně poradenské kanceláře, lektor finanční gramotnosti	Brno-Řečkovice a Mokrá Hora	1	1	A	M
 6202	551244	1	5	768	19	František	Coufal			69	důchodce	Brno-Řečkovice a Mokrá Hora	99	768	A	M
@@ -120,7 +120,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6202	551244	1	4	1	21	Miroslava	Suchá			67	důchodkyně, bývalá zaměstnankyně Centra Naděje	Brno-Řečkovice a Mokrá Hora	99	1	A	F
 6202	551244	1	5	768	21	Karel	Kříž			69	důchodce	Brno-Řečkovice a Mokrá Hora	99	768	A	M
 6202	551244	1	1	371	22	Zdeňka	Doubravská			62	referentka MMB	Brno-Řečkovice a Mokrá Hora	7	7	A	F
-6202	551244	1	2	463	22	Jiří	Nekuda			48	servisní technik	Brno-Řečkovice a Mokrá Hora	99	80	A	
+6202	551244	1	2	463	22	Jiří	Nekuda			48	servisní technik	Brno-Řečkovice a Mokrá Hora	99	80	A	M
 6202	551244	1	3	687	22	Tomáš	Kovanda			74	důchodce	Brno-Řečkovice a Mokrá Hora	99	53	A	M
 6202	551244	1	4	1	22	Miroslav	Jůzl	doc. Ing.	Ph.D.	43	akademický pracovník Mendelovy univerzity v Brně, futsalový trenér	Brno-Řečkovice a Mokrá Hora	99	1	A	M
 6202	551244	1	5	768	22	Nikola	Šimka			35	sommelier	Brno-Řečkovice a Mokrá Hora	99	768	A	F

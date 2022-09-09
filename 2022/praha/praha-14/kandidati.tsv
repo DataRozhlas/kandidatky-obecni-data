@@ -1,6 +1,6 @@
 OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TITULZA	VEK	POVOLANI	BYDLISTEN	PSTRANA	NSTRANA	PLATNOST	POHLAVI
 1199	547361	1	1	901	1	Petr	Zeman			54	předseda Výboru pro územní rozvoj, územní plán a památkovou péči zastupitelstva hl. m. Prahy, zastupitel hl. m. Prahy, zakladatel spolku Prázdné domy	Praha 14	99	80	A	M
-1199	547361	1	2	529	1	Petr	Hukal	Ing.	DiS., Ph.D.	42	projektový manager, zastupitel MČ Praha 14	Praha 14	99	80	A	
+1199	547361	1	2	529	1	Petr	Hukal	Ing.	DiS., Ph.D.	42	projektový manager, zastupitel MČ Praha 14	Praha 14	99	80	A	M
 1199	547361	1	3	340	1	Zuzana	Jelenová	PhDr.		60	místostarostka Prahy 14, předsedkyně správní rady KC Motýlek, z.ú.	Praha 14	166	166	A	F
 1199	547361	1	4	389	1	Jiří	Zajac			45	starosta Prahy 14	Praha 14	53	53	A	M
 1199	547361	1	5	1544	1	František	Podhajský	Mgr.	Ph.D.	41	učitel	Praha 14	7	7	A	M
@@ -36,7 +36,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 1199	547361	1	5	1544	4	Pavel	Blecha	Ing.		58	jednatel	Praha 14	99	1245	A	M
 1199	547361	1	6	47	4	Marek	Kopřiva			44	prodavač	Praha 14	99	47	A	M
 1199	547361	1	7	1210	4	Jaroslav	Šůs			54	profesionální řidič	Praha 14	1210	1210	A	M
-1199	547361	1	8	480	4	Lubomír	Kulíšek	MUDr.		67	odborný lékař, ortoped na Černém Mostě	Praha 14	99	80	A	M
+1199	547361	1	8	480	4	Lubomír	Kulíšek	MUDr.		67	odborný lékař ortoped na Černém Mostě	Praha 14	99	80	A	M
 1199	547361	1	9	1491	4	Marek	Zeman			55	dispečer	Praha 14	1114	1114	A	M
 1199	547361	1	10	768	4	Aneta	Hejrovská			30	projektová manažerka, dobrovolnice	Praha 14	768	768	A	F
 1199	547361	1	1	901	5	Tomáš	Novotný	Ing.		29	konzultant a analytik trhu komerčních nemovitostí, zastupitel Prahy 14	Praha 14	99	80	A	M
@@ -62,7 +62,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 1199	547361	1	1	901	7	Miroslav	Grossmann	Ing.		43	projektový manažer rekonstrukcí tramvajových tratí a odborník na preferenci MHD	Praha 14	99	80	A	M
 1199	547361	1	2	529	7	Matěj	Kubíček	Ing.		34	HR manager, personální ředitel	Praha 14	720	720	A	M
 1199	547361	1	3	340	7	Jan	Brůna	Ing.		35	daňový poradce	Praha 14	166	166	A	M
-1199	547361	1	4	389	7	Josef	Baláž	Mgr.		47	jednatel Technické služby Praha 14	Praha 14	99	53	A	M
+1199	547361	1	4	389	7	Jozef	Baláž	Mgr.		47	jednatel Technické služby Prahy 14	Praha 14	99	53	A	M
 1199	547361	1	5	1544	7	Václav	Bříza	Bc.		58	IT konzultant	Praha 14	7	7	A	M
 1199	547361	1	6	47	7	Jitka	Krátká			75	důchodkyně	Praha 14	47	47	A	F
 1199	547361	1	7	1210	7	Miroslav	Froněk	Ing.		62	vydavatel	Praha 14	1210	1210	A	M
@@ -106,7 +106,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 1199	547361	1	5	1544	11	Radka	Houdková			30	laborantka	Praha 14	99	7	A	F
 1199	547361	1	6	47	11	Jan	Brožík			63	řidič	Praha 14	99	47	A	M
 1199	547361	1	7	1210	11	Miroslav	Jíra	Mgr.		46	pedagog a fotbalový trenér	Praha 14	1210	1210	A	M
-1199	547361	1	8	480	11	Petr	Vaněk	Ing.		58	projektový manažer a historik, bloger Příběhu Prahy 14	Praha 14	99	80	A	M
+1199	547361	1	8	480	11	Petr	Vaněk			58	projektový manažer a historik, bloger Příběhu Prahy 14	Praha 14	99	80	A	M
 1199	547361	1	9	1491	11	Jiří	Flutka			53	obchodník	Praha 14	1227	1227	A	M
 1199	547361	1	10	768	11	Jiří	Šebek			72	důchodce	Praha 14	99	768	A	M
 1199	547361	1	1	901	12	Lucie	Roušavá			49	podnikatelka, majitelka Vinného baru Lucie	Praha 14	99	80	A	F
@@ -212,7 +212,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 1199	547361	1	1	901	22	Zuzana	Cinařová	Bc.		37	projektová manažerka ve finanční instituci	Praha 14	99	80	A	F
 1199	547361	1	2	529	22	Antonín	Motošický			44	senior specialist of general ledger accounting v nadnárodní firmě	Praha 14	99	720	A	M
 1199	547361	1	3	340	22	Irena	Vondrlíková			37	marketingová specialistka	Praha 14	99	166	A	F
-1199	547361	1	4	389	22	Jakub	Stich		DiS.	42	herec, ředitel divadla	Praha 14	53	53	A	
+1199	547361	1	4	389	22	Jakub	Stich		DiS.	42	herec, ředitel divadla	Praha 14	53	53	A	M
 1199	547361	1	5	1544	22	Jiří	Pačes			45	elektromechanik	Praha 14	99	1245	A	M
 1199	547361	1	6	47	22	Ivana	Šímová			54	OSVČ	Praha 14	99	47	A	F
 1199	547361	1	7	1210	22	Kateřina	Prášková	Bc.		30	mateřská dovolená	Praha 14	99	1210	A	F
@@ -244,7 +244,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 1199	547361	1	3	340	25	Vojtěch	Pospíšil			61	celní deklarant	Praha 14	99	1	A	M
 1199	547361	1	4	389	25	Michael	Moravec	Ing.		55	podnikatel	Praha 14	53	53	A	M
 1199	547361	1	5	1544	25	Miroslav	Bodický			72	manažer	Praha 14	99	7	A	M
-1199	547361	1	6	47	25	Jitka	Poláková			76	důchodkyně	Praha 14	47	47	A	F
+1199	547361	1	6	47	25	Jitka	Poláková			76	důchodkyně	Praha 14	99	47	A	F
 1199	547361	1	7	1210	25	Vladimír	Jandus			25	řidič	Praha 14	99	1210	A	M
 1199	547361	1	8	480	25	Martina	Sovová			45	marketingová manažerka	Praha 14	99	80	A	F
 1199	547361	1	9	1491	25	Barbora	Novotná			19	aranžérka	Praha 14	99	1114	A	F

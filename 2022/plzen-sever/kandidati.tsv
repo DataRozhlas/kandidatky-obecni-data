@@ -5,7 +5,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	530271	1	1	901	1	Alena	Čechová			49	kuchařka	Sedlec	99	80	A	F
 3205	530280	1	1	901	1	Jitka	Krivošová		DiS.	37	účetní	Vysoká Libyně	99	80	A	F
 3205	530328	1	1	901	1	Roman	Reiser	Ing.		50	starosta obce Čerňovice	Čerňovice	99	80	A	M
-3205	530336	1	1	902	1	Aleš	Taut	Ing.		45	projektant	Ondřejov	99	80	A	M
+3205	530336	1	1	901	1	Aleš	Taut	Ing.		45	projektant	Ondřejov	99	80	A	M
 3205	538183	1	1	901	1	Jana	Omraiová			75	důchodce	Kbelany	99	80	A	F
 3205	546411	1	1	901	1	Jana	Hošková	Mgr.		61	učitelka	Úherce	99	80	A	F
 3205	553603	1	1	901	1	Libor	Smolík			58	řidič	Studená	99	80	A	M
@@ -99,7 +99,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	578983	1	1	901	1	Jaroslav	Beneš	Ing.		61	ekonom	Tatiná	99	80	A	M
 3205	530247	1	2	902	1	Miluše	Pěnkavová			56	učitelka	Potvorov	99	80	A	F
 3205	530280	1	2	902	1	Lukáš	Dvořák			28	vedoucí logistiky	Vysoká Libyně	99	80	A	M
-3205	530336	1	2	901	1	Josef	Domabyl	Ing.		59	starosta obce	Korýtka	99	80	A	M
+3205	530336	1	2	166	1	Josef	Domabyl	Ing.		59	starosta obce	Korýtka	99	166	A	M
 3205	538183	1	2	1245	1	Karolína	Žďárská			22	poradce ve finančnictví	Kbelany	1245	1245	A	F
 3205	558656	1	2	903	1	Eva	Hlavatá			41	vedoucí pošty	Bezvěrov	99	80	A	F
 3205	558672	1	2	801	1	Antonín	Rezek			56	invalidní důchodce	Blatnice	99	80	A	M
@@ -200,7 +200,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559245	1	4	806	1	Lenka	Svobodová	Ing.		38	projektant řídicích systémů	Mrtník	99	80	A	F
 3205	559270	1	4	903	1	Josef	Pangrác			71	důchodce	Nekmíř	99	80	A	M
 3205	559300	1	4	1305	1	Lubomír	Hrudička	Ing.		58	vedoucí správy letiště	Nýřany	99	80	A	M
-3205	559351	1	4	901	1	Eliška	Palmová	Mgr.		27	referentka dopravních přestupků	Plasy	721	80	A	F
+3205	559351	1	4	480	1	Eliška	Palmová	Mgr.		27	referentka dopravních přestupků	Plasy	721	721	A	F
 3205	559369	1	4	803	1	Josef	Wočadlo			58	zemědělec	Plešnice	99	80	A	M
 3205	559504	1	4	903	1	Petra	Martínková Šumlovová	Bc.		48	starostka	Trnová	99	80	A	F
 3205	559571	1	4	904	1	Jiří	Koutný			44	OSVČ	Úterý	99	80	A	M
@@ -228,7 +228,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	558991	1	6	807	1	Kristýna	Boudová			43	vedoucí pobočky	Kaceřov	99	80	A	F
 3205	559075	1	6	53	1	Lukáš	Janko	Ing.		40	místostarosta města Kralovice, zemědělský podnikatel	Kralovice	53	53	A	M
 3205	559245	1	6	803	1	Petr	Eret	Ing.		47	ekonom	Mrtník	99	80	A	M
-3205	559351	1	6	903	1	Tomáš	Kouba	Bc.		41	velitel čety - požární stanice Plasy	Horní Hradiště	99	80	A	M
+3205	559351	1	6	901	1	Tomáš	Kouba	Bc.		41	velitel čety - požární stanice Plasy	Horní Hradiště	99	80	A	M
 3205	566632	1	6	808	1	Tomáš	Bílek			27	OSVČ	Černíkovice	99	80	A	M
 3205	566781	1	6	804	1	Jiří	Vršecký			74	důchodce	Pastuchovice	99	80	A	M
 3205	558982	1	7	808	1	Martina	Kroftová Tobiášková			48	vychovatelka	Jarov	99	80	A	F
@@ -251,7 +251,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	530271	1	1	901	2	Jan	Kožíšek	MVDr.		65	veterinář	Sedlec	99	80	A	M
 3205	530280	1	1	901	2	Iveta	Cepková			43	chovatelka koní	Vysoká Libyně	99	80	A	F
 3205	530328	1	1	901	2	Radomír	Novák			45	místostarosta obce Čerňovice	Čerňovice	99	80	A	M
-3205	530336	1	1	902	2	Jiří	Kříž	Mgr.		46	historik	Korýtka	99	80	A	M
+3205	530336	1	1	901	2	Jiří	Kříž	Mgr.		46	historik	Korýtka	99	80	A	M
 3205	538183	1	1	901	2	Petr	Špatenka			35	dělník	Kbelany	99	80	A	M
 3205	546411	1	1	901	2	Vlastimil	Blažek			63	starosta	Úherce	99	80	A	M
 3205	553603	1	1	901	2	Jaroslava	Stachová	Ing.		31	MD	Studená	99	80	A	F
@@ -338,7 +338,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	578983	1	1	901	2	Jaroslav	Beneš			38	OSVČ	Tatiná	99	80	A	M
 3205	530247	1	2	902	2	Miroslav	Nezbeda			31	technik	Potvorov	99	80	A	M
 3205	530280	1	2	902	2	Štěpánka	Šmausová			34	obchodní referentka	Vysoká Libyně	99	80	A	F
-3205	530336	1	2	901	2	Jiří	Taut			47	OSVČ	Pláně	99	80	A	M
+3205	530336	1	2	166	2	Jiří	Taut			47	OSVČ	Pláně	99	166	A	M
 3205	538183	1	2	1245	2	Adéla	Síbalová	Bc.		24	vychovatelka	Kbelany	99	1245	A	F
 3205	558656	1	2	903	2	Jaroslav	Rada	Bc.		47	vedoucí pracovník	Bezvěrov	99	80	A	M
 3205	558699	1	2	902	2	Petr	Netrh			49	strojvedoucí správy železnic	Bučí	99	80	A	M
@@ -370,7 +370,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559377	1	2	901	2	Pavel	Hrdonka	Ing.		57	manažer	Pňovany	99	80	A	M
 3205	559393	1	2	901	2	Veronika	Tichá			30	mateřská dovolená	Přehýšov	99	80	A	F
 3205	559482	1	2	902	2	Martin	Frank			41	seřizovač	Tis u Blatna	99	80	A	M
-3205	559504	1	2	901	2	Pavel	Kříž	Bc.		36	Team leader	Trnová	99	80	A	M
+3205	559504	1	2	901	2	Pavel	Kříž	Bc.		36	team leader	Trnová	99	80	A	M
 3205	559521	1	2	901	2	Petr	Žižka	Mgr.		60	místostarosta	Třemošná	99	80	A	M
 3205	559555	1	2	901	2	Martina	Kurfirstová	Mgr.		49	podnikatelka	Úlice	99	80	A	F
 3205	559563	1	2	902	2	Radek	Sak			47	dělník, dobrovolný hasič	Úněšov	99	80	A	M
@@ -421,7 +421,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559237	1	4	902	2	Václav	Šmídl			36	vedoucí chovu	Strážiště	99	80	A	M
 3205	559270	1	4	903	2	Pavel	Pašek			58	servisní technik	Nekmíř	99	80	A	M
 3205	559300	1	4	1305	2	Mária	Maresch			41	manažer logistiky	Nýřany	1114	1114	A	F
-3205	559351	1	4	901	2	Jindřich	Kučírek			52	soukromý podnikatel	Plasy	99	80	A	M
+3205	559351	1	4	480	2	Jindřich	Kučírek			52	soukromý podnikatel	Plasy	99	80	A	M
 3205	559504	1	4	903	2	Jiří	Koza	MUDr.		52	lékař	Trnová	99	80	A	M
 3205	559571	1	4	904	2	Zdeňka	Koutská			49	vedoucí oddělení Backoffice	Úterý	99	80	A	F
 3205	559580	1	4	541	2	Ladislav	Vostrý	Ing.		63	projektant, zastupitel obce	Vejprnice	99	80	A	M
@@ -437,7 +437,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559504	1	5	53	2	Josef	Kraus	Mgr.		58	učitel ZŠ	Trnová	53	53	A	M
 3205	559661	1	5	470	2	Jiří	Hájek	Ing.		66	bývalý starosta obce	Zbůch	99	166	A	M
 3205	559075	1	6	53	2	Aleš	Mandaus			39	pošťák	Kralovice	53	53	A	M
-3205	559351	1	6	903	2	Jiří	Novotný	Mgr.		60	vysokoškolský pedagog	Plasy	99	80	A	M
+3205	559351	1	6	901	2	Jiří	Novotný	Mgr.		60	vysokoškolský pedagog	Plasy	99	80	A	M
 3205	559075	1	7	47	2	Jana	Kuchařová			49	prodavačka	Kralovice	47	47	A	F
 3205	559075	1	8	904	2	Iveta	Trnková	Ing.		57	referent OSSZ	Kralovice	99	80	A	F
 3205	530221	1	1	166	3	Jiří	Prchal			47	seřizovač	Hněvnice	99	166	A	M
@@ -446,7 +446,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	530271	1	1	901	3	Václav	Knedlhans			63	skladník	Sedlec	99	80	A	M
 3205	530280	1	1	901	3	Karel	Štrunc			34	řidič	Vysoká Libyně	99	80	A	M
 3205	530328	1	1	901	3	Olga	Vaňková			47	technicko-hospodářský pracovník	Čerňovice	99	80	A	F
-3205	530336	1	1	902	3	Josef	Urbánek			47	lesní dělník	Vrážné	99	80	A	M
+3205	530336	1	1	901	3	Josef	Urbánek			47	lesní dělník	Vrážné	99	80	A	M
 3205	538183	1	1	901	3	Květoslav	Malý			58	vedoucí konstrukce	Kbelany	99	80	A	M
 3205	546411	1	1	901	3	Miroslav	Fořt			57	mechanizátor	Úherce	99	80	A	M
 3205	553603	1	1	901	3	Zdeněk	Rybáček	Ing.		51	vedoucí závodu	Studená	99	80	A	M
@@ -533,7 +533,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	578983	1	1	901	3	Martina	Červená			43	personální referentka	Tatiná	99	80	A	F
 3205	530247	1	2	902	3	Alena	Staňková			46	OSVČ	Potvorov	99	80	A	F
 3205	530280	1	2	902	3	Kateřina	Štípková			40	dělník ve výrobě	Vysoká Libyně	99	80	A	F
-3205	530336	1	2	901	3	Lukáš	Hodaň			42	manažer	Vrážné	99	80	A	M
+3205	530336	1	2	166	3	Lukáš	Hodaň			42	manažer	Vrážné	99	166	A	M
 3205	538183	1	2	1245	3	Ivana	Valentová			68	důchodce	Kbelany	99	1245	A	F
 3205	558656	1	2	903	3	Jan	Zadražil			47	řidič	Bezvěrov	99	80	A	M
 3205	558699	1	2	902	3	Jaroslav	Král			47	automatář	Bučí	99	80	A	M
@@ -616,7 +616,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559237	1	4	902	3	Miroslava	Oláhová			46	učitelka MŠ	Chrášťovice	99	80	A	F
 3205	559270	1	4	903	3	Jan	Hanzlík			34	servisní technik	Nekmíř	99	80	A	M
 3205	559300	1	4	1305	3	Miroslava	Weberová			46	obsluha benzínové pumpy	Nýřany	1114	1114	A	F
-3205	559351	1	4	901	3	Veronika	Kašková	Ing.		39	geodetka	Nebřeziny	99	80	A	F
+3205	559351	1	4	480	3	Veronika	Kašková	Ing.		39	geodetka	Nebřeziny	99	721	A	F
 3205	559504	1	4	903	3	Tereza	Foukalová	Ing.		33	stavební projektantka	Trnová	99	80	A	F
 3205	559571	1	4	904	3	Viktor	Koutný			42	vedoucí střediska	Olešovice	99	80	A	M
 3205	559580	1	4	541	3	Gabriel	Fabry			31	marketing specialista	Vejprnice	720	720	A	M
@@ -632,7 +632,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559504	1	5	53	3	Petr	Randa			56	manažer výroby	Trnová	99	53	A	M
 3205	559661	1	5	470	3	Josef	Skála			47	prodejce	Zbůch	99	166	A	M
 3205	559075	1	6	53	3	Martin	Zeman	Mgr.		32	pedagog	Kralovice	99	53	A	M
-3205	559351	1	6	903	3	Miroslav	Červený	Ing.		64	revírník - LS Plasy	Plasy	99	80	A	M
+3205	559351	1	6	901	3	Miroslav	Červený	Ing.		64	revírník - LS Plasy	Plasy	99	80	A	M
 3205	559075	1	7	47	3	Anna	Kvasničková			72	důchodce	Kralovice	47	47	A	F
 3205	559075	1	8	904	3	Jiří	Soukup			64	OSVČ účetní	Kralovice	99	80	A	M
 3205	530221	1	1	166	4	Daniela	Heringová			36	asistentka	Hněvnice	99	166	A	F
@@ -641,7 +641,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	530271	1	1	901	4	Petr	Čech			48	OSVČ	Sedlec	99	80	A	M
 3205	530280	1	1	901	4	Tibor	Eremiaš			43	úřad práce	Vysoká Libyně	99	80	A	M
 3205	530328	1	1	901	4	Oldřich	Nyč			30	frézař	Čerňovice	99	80	A	M
-3205	530336	1	1	902	4	Ladislava	Hrabovská	Ing.		54	státní úřednice	Pláně	99	80	A	F
+3205	530336	1	1	901	4	Ladislava	Hrabovská	Ing.		54	státní úřednice	Pláně	99	80	A	F
 3205	538183	1	1	901	4	Klára	Boháčová			38	referent call centra	Kbelany	99	80	A	F
 3205	546411	1	1	901	4	Alexandr	Matoušek			46	hasič	Úherce	99	80	A	M
 3205	553603	1	1	901	4	Bohumil	Stach			76	důchodce	Studená	99	80	A	M
@@ -728,7 +728,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	578983	1	1	901	4	Jiří	Kajer			53	OSVČ	Tatiná	99	80	A	M
 3205	530247	1	2	902	4	Vojtěch	Pěnkava			31	biomedicínský inženýr	Potvorov	99	80	A	M
 3205	530280	1	2	902	4	Martin	Zeman			21	student	Vysoká Libyně	99	80	A	M
-3205	530336	1	2	901	4	Luboš	Eret			42	soukromý zemědělec	Pláně	99	80	A	M
+3205	530336	1	2	166	4	Luboš	Eret			42	soukromý zemědělec	Pláně	99	166	A	M
 3205	538183	1	2	1245	4	Lenka	Kubánková			37	vedoucí personálního oddělení	Kbelany	99	1245	A	F
 3205	558656	1	2	903	4	Petra	Štorková			47	operátor výroby	Bezvěrov	99	80	A	F
 3205	558699	1	2	902	4	František	Dobrý	Bc.		46	strážník městské policie	Bučí	99	80	A	M
@@ -810,7 +810,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559237	1	4	902	4	Petr	Oláh			49	OSVČ	Černá Hať	99	80	A	M
 3205	559270	1	4	903	4	Jindřich	Tyc			58	majitel firmy	Nekmíř	99	80	A	M
 3205	559300	1	4	1305	4	Roman	Vacík			50	strojník	Nýřany	1114	1114	A	M
-3205	559351	1	4	901	4	Veronika	Urbanová	Mgr. Bc.		49	vedoucí pečovatelské služby	Plasy	99	80	A	F
+3205	559351	1	4	480	4	Veronika	Urbanová	Mgr. Bc.		49	vedoucí pečovatelské služby	Plasy	99	80	A	F
 3205	559504	1	4	903	4	Petr	Jindra	Bc.	DiS.	47	sociální pracovník	Trnová	99	80	A	M
 3205	559571	1	4	904	4	Eva	Honzíková			29	prodejce vozů	Olešovice	99	80	A	F
 3205	559580	1	4	541	4	Stanislav	Kopřiva			50	OSVČ	Vejprnice	99	80	A	M
@@ -826,7 +826,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559504	1	5	53	4	Šárka	Rieckelová			55	zdravotní sestra	Trnová	99	53	A	F
 3205	559661	1	5	470	4	František	Marek	Ing.		32	procesní technolog	Zbůch	99	166	A	M
 3205	559075	1	6	53	4	Martin	Sklenář			54	jednatel firmy	Kralovice	99	53	A	M
-3205	559351	1	6	903	4	Miloš	Holota			52	technik	Nebřeziny	99	80	A	M
+3205	559351	1	6	901	4	Miloš	Holota			52	technik	Nebřeziny	99	80	A	M
 3205	559075	1	7	47	4	Zdeňka	Macková			76	důchodce	Kralovice	99	47	A	F
 3205	559075	1	8	904	4	Petr	Knedlík			57	OSVČ kominík	Kralovice	99	80	A	M
 3205	530221	1	1	166	5	Jan	Bartušek			66	důchodce	Hněvnice	99	166	A	M
@@ -835,7 +835,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	530271	1	1	901	5	Martin	Řenč			48	OSVČ	Sedlec	99	80	A	M
 3205	530280	1	1	901	5	Petr	Balog			46	údržbář	Vysoká Libyně	99	80	A	M
 3205	530328	1	1	901	5	Markéta	Hrbáčková			57	v domácnosti	Čerňovice	99	80	A	F
-3205	530336	1	1	902	5	Jaroslav	Sládek	Mgr.		43	policista	Ondřejov	99	80	A	M
+3205	530336	1	1	901	5	Jaroslav	Sládek	Mgr.		43	policista	Ondřejov	99	80	A	M
 3205	538183	1	1	901	5	Barbora	Eleková			25	kvalitářka	Kbelany	99	80	A	F
 3205	546411	1	1	901	5	Miloslav	Matoušek			52	invalidní důchodce	Úherce	99	80	A	M
 3205	553603	1	1	901	5	Jiří	Vopata			52	řidič	Studená	99	80	A	M
@@ -894,7 +894,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559571	1	1	902	5	Klára Zuzana	Bevan			47	lektorka	Vidžín	99	80	A	F
 3205	559580	1	1	355	5	Jan	Valenčat			43	OSVČ, předseda TJ SOKOL Vejprnice	Vejprnice	99	80	A	M
 3205	559601	1	1	902	5	Michaela	Menhartová	Ing.		28	disponent kamionové dopravy	Vochov	99	80	A	F
-3205	559628	1	1	53	5	Jaromír	Eisman		Dis.	43	jednatel stavební společnosti	Kokořov	53	53	A	M
+3205	559628	1	1	53	5	Jaromír	Eisman		DiS.	43	jednatel stavební společnosti	Kokořov	53	53	A	M
 3205	559661	1	1	901	5	Milan	Švec			28	vedoucí prodejny	Zbůch	768	80	A	M
 3205	559679	1	1	47	5	Jaroslava	Hrabáková			72	důchodkyně	Zruč	47	47	A	F
 3205	559695	1	1	532	5	Vendula	Rázková			44	mateřská dovolená	Žihle	99	80	A	F
@@ -921,7 +921,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	578924	1	1	901	5	Pavel	Hora			63	důchodce	Velečín	99	80	A	M
 3205	578983	1	1	901	5	Jaroslav	Kašpar			58	strojní zámečník	Tatiná	99	80	A	M
 3205	530280	1	2	902	5	Pavel	Názler			65	důchodce	Vysoká Libyně	99	80	A	M
-3205	530336	1	2	901	5	Ivo	Horák	Bc.		46	OSVČ	Korýtka	99	80	A	M
+3205	530336	1	2	166	5	Ivo	Horák	Bc.		46	OSVČ	Korýtka	99	166	A	M
 3205	538183	1	2	1245	5	Radek	Hirschl			46	řidič nákladního automobilu	Kbelany	99	1245	A	M
 3205	558656	1	2	903	5	Martin	Eret			43	řidič	Dolní Jamné	99	80	A	M
 3205	558699	1	2	902	5	Petr	Frána			45	OSVČ	Bučí	99	80	A	M
@@ -1002,7 +1002,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559237	1	4	902	5	Josef	Oláh			27	seřizovač	Chrášťovice	99	80	A	M
 3205	559270	1	4	903	5	Jiřina	Paseková			45	asistentka	Nekmíř	99	80	A	F
 3205	559300	1	4	1305	5	Milan	Kochman			54	provozář	Nýřany	1114	1114	A	M
-3205	559351	1	4	901	5	Štěpánka	Kočová	Ing.		26	referentka územního plánování	Žebnice	99	80	A	F
+3205	559351	1	4	480	5	Štěpánka	Kočová	Ing.		26	referentka územního plánování	Žebnice	99	721	A	F
 3205	559504	1	4	903	5	Antonín	Šípek			55	pracovník skladu	Trnová	99	80	A	M
 3205	559571	1	4	904	5	Miroslav	Konstantinovič			28	stavební dělník	Úterý	99	80	A	M
 3205	559580	1	4	541	5	Daniela	Kopřivová	Bc.		43	zaměstnankyně ZČU v Plzni	Vejprnice	99	80	A	F
@@ -1018,7 +1018,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559504	1	5	53	5	Jindřich	Janoch			46	podnikatel	Trnová	99	53	A	M
 3205	559661	1	5	470	5	Stanislav	Schejbal			38	servisní technik	Zbůch	99	166	A	M
 3205	559075	1	6	53	5	Michaela	Vaníčková			50	administrativní pracovnice	Bukovina	99	53	A	F
-3205	559351	1	6	903	5	Michal	Tegi			48	finanční analytik	Plasy	99	80	A	M
+3205	559351	1	6	901	5	Michal	Tegi			48	finanční analytik	Plasy	99	80	A	M
 3205	559075	1	7	47	5	Josef	Trkal			69	důchodce	Kralovice	47	47	A	M
 3205	559075	1	8	904	5	Ctirad	Kozderka	MUDr.		67	dětský lékař	Kralovice	99	80	A	M
 3205	530221	1	1	166	6	Naděžda	Žáková			44	účetní	Hněvnice	99	166	A	F
@@ -1027,7 +1027,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	530271	1	1	901	6	Markéta	Řenčová			47	kuchařka	Sedlec	99	80	A	F
 3205	530280	1	1	901	6	Václav	Valach			41	OSVČ	Vysoká Libyně	99	80	A	M
 3205	530328	1	1	901	6	Bohumila	Petrová			43	operátorka skladu	Čerňovice	99	80	A	F
-3205	530336	1	1	902	6	Michal	Domabyl			28	OSVČ	Pláně	99	80	A	M
+3205	530336	1	1	901	6	Michal	Domabyl			28	OSVČ	Pláně	99	80	A	M
 3205	538183	1	1	901	6	Jaroslav	Beneš			44	živnostník OSVČ	Kbelany	99	80	A	M
 3205	546411	1	1	901	6	Tomáš	Pavlíček	Ing.		50	výrobní ředitel	Úherce	99	80	A	M
 3205	553603	1	1	901	6	Jarmila	Holá			69	důchodce	Studená	99	80	A	F
@@ -1110,7 +1110,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	578924	1	1	901	6	Štěpán	Vynohradnyk			70	důchodce	Ostrovec	99	80	A	M
 3205	578983	1	1	901	6	Stanislav	Loula	Ing.		36	obchodní zástupce	Tatiná	99	80	A	M
 3205	530280	1	2	902	6	Soňa	Králová			45	kuchařka	Vysoká Libyně	99	80	A	F
-3205	530336	1	2	901	6	Lenka	Radvanovská			46	státní úřednice	Pláně	99	80	A	F
+3205	530336	1	2	166	6	Lenka	Radvanovská			46	státní úřednice	Pláně	99	166	A	F
 3205	538183	1	2	1245	6	Zdeněk	Kohout			61	zedník	Kbelany	99	1245	A	M
 3205	558656	1	2	903	6	Václava	Kozáková	Bc.		33	všeobecná sestra	Bezvěrov	99	80	A	F
 3205	558699	1	2	902	6	Filip	Varvařovský			43	obchodní zástupce	Bučí	99	80	A	M
@@ -1191,7 +1191,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559237	1	4	902	6	Petr	Šťastný			34	jednatel	Strážiště	99	80	A	M
 3205	559270	1	4	903	6	Blažena	Šoulová			57	invalidní důchodce	Nekmíř	99	80	A	F
 3205	559300	1	4	1305	6	Eva	Kochmanová			52	státní zaměstnankyně	Nýřany	1114	1114	A	F
-3205	559351	1	4	901	6	Jaroslav	Král			63	řidič	Plasy	721	80	A	M
+3205	559351	1	4	480	6	Jaroslav	Král			63	řidič	Plasy	721	721	A	M
 3205	559504	1	4	903	6	Jiří	Berdych	Ing.		34	regionální manažer	Trnová	99	80	A	M
 3205	559571	1	4	904	6	Lucie	Koutská			29	OSVČ	Úterý	99	80	A	F
 3205	559580	1	4	541	6	Eva	Plzáková	Bc.		46	účetní	Vejprnice	99	80	A	F
@@ -1207,7 +1207,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559504	1	5	53	6	René	Hartman			50	technik	Trnová	99	53	A	M
 3205	559661	1	5	470	6	Josef	Šlauf			59	technik	Zbůch	99	166	A	M
 3205	559075	1	6	53	6	Petra	Janouškovcová			41	administrativní pracovnice	Kralovice	53	53	A	F
-3205	559351	1	6	903	6	Lucie	Hejlková	Mgr.		38	pedagog	Plasy	99	80	A	F
+3205	559351	1	6	901	6	Lucie	Hejlková	Mgr.		38	pedagog	Plasy	99	80	A	F
 3205	559075	1	7	47	6	Milan	Let			73	důchodce	Kralovice	47	47	A	M
 3205	559075	1	8	904	6	Josef	Zíka	Ing.		60	technik	Kralovice	99	80	A	M
 3205	530221	1	1	166	7	Jaroslav	Polák			59	řidič	Hněvnice	99	166	A	M
@@ -1216,7 +1216,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	530271	1	1	901	7	Radek	Knedlhans			37	rozpočtář	Sedlec	99	80	A	M
 3205	530280	1	1	901	7	Kristina	Třísková			64	zubní technik	Vysoká Libyně	99	80	A	F
 3205	530328	1	1	901	7	Vlastislav	Ráža			65	důchodce	Čerňovice	99	80	A	M
-3205	530336	1	1	902	7	David	Hošek			29	podnikatel	Ondřejov	99	80	A	M
+3205	530336	1	1	901	7	David	Hošek			29	podnikatel	Ondřejov	99	80	A	M
 3205	538183	1	1	901	7	Kateřina	Fleissigová	Ing.		28	OSVČ	Kbelany	99	80	A	F
 3205	546411	1	1	901	7	David	Tvrdík			44	OSVČ	Úherce	99	80	A	M
 3205	553603	1	1	901	7	Vlastimil	Albrecht	Ing.		64	důchodce	Studená	99	80	A	M
@@ -1236,7 +1236,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559008	1	1	901	7	Jindřich	Běhounek			59	kontrolní technik	Kaznějov	99	80	A	M
 3205	559024	1	1	901	7	Lukáš	Boček			37	OSVČ	Kopidlo	99	80	A	M
 3205	559032	1	1	901	7	Radek	Levora			52	živnostník	Koryta	99	80	A	M
-3205	559041	1	1	901	7	Petr	Pánek			25	mechanik-seřizovač	Kozojedy	99	80	A	
+3205	559041	1	1	901	7	Petr	Pánek			25	mechanik-seřizovač	Kozojedy	99	80	A	M
 3205	559059	1	1	470	7	Aleš	Drábek			43	státní zaměstnanec VS ČR	Kozolupy	99	166	A	M
 3205	559067	1	1	902	7	Jiří	Janeček			53	řidič	Hedčany	99	80	A	M
 3205	559075	1	1	901	7	Jakub	Španbauer			32	automechanik, vedoucí kroužku skateboardingu při DDM	Kralovice	99	80	A	M
@@ -1289,7 +1289,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	578827	1	1	901	7	Aleš	Tyc			33	zámečník	Hůrky	99	80	A	M
 3205	578983	1	1	901	7	Martin	Novák			29	obráběč kovů	Tatiná	99	80	A	M
 3205	530280	1	2	902	7	Petra	Janková			41	OSVČ	Vysoká Libyně	99	80	A	F
-3205	530336	1	2	901	7	Jaroslav	Bořík			38	IT specialista	Pláně	99	80	A	M
+3205	530336	1	2	166	7	Jaroslav	Bořík			38	IT specialista	Pláně	99	166	A	M
 3205	538183	1	2	1245	7	František	Žďárský			53	elektromechanik	Kbelany	99	1245	A	M
 3205	558656	1	2	903	7	Andrej	Posselt			45	OSVČ	Bezvěrov	99	80	A	M
 3205	558699	1	2	902	7	Jiří	Piškule			42	obchodní zástupce	Bučí	99	80	A	M
@@ -1370,10 +1370,10 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559237	1	4	902	7	Václav	Mour			37	skladník	Chrášťovice	99	80	A	M
 3205	559270	1	4	903	7	Lukáš	Koudela			35	vývojový pracovník	Nekmíř	99	80	A	M
 3205	559300	1	4	1305	7	Irena	Homolková			57	asistentka prodeje	Nýřany	1114	1114	A	F
-3205	559351	1	4	901	7	Pavlína	Černá			50	mzdová a hlavní účetní	Babina	99	80	A	F
+3205	559351	1	4	480	7	Pavlína	Černá			50	mzdová a hlavní účetní	Babina	99	80	A	F
 3205	559504	1	4	903	7	Jitka	Tupá			64	úřednice	Trnová	99	80	A	F
 3205	559571	1	4	904	7	Miroslav	Vlažný			49	OSVČ	Olešovice	99	80	A	M
-3205	559580	1	4	541	7	Miloslav	Linhart			47	manager BOZP a PO	Vejprnice	99	80	A	
+3205	559580	1	4	541	7	Miloslav	Linhart			47	manager BOZP a PO	Vejprnice	99	80	A	M
 3205	559601	1	4	904	7	Stanislav	Petráš			54	technik defektoskopie	Vochov	99	80	A	M
 3205	559661	1	4	427	7	Zdeněk	Hájek			48	OSVČ	Zbůch	99	80	A	M
 3205	559679	1	4	470	7	Petr	Král	Ing.		55	OSVČ	Senec	99	166	A	M
@@ -1386,15 +1386,14 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559504	1	5	53	7	Tereza	Krausová	MUDr.		25	lékař	Trnová	99	53	A	F
 3205	559661	1	5	470	7	Stanislav	Kojzar			46	dělník	Zbůch	99	166	A	M
 3205	559075	1	6	53	7	Milan	Houda			61	OSVČ	Kralovice	99	53	A	M
-3205	559351	1	6	903	7	Radek	Chytil			33	hasič - strojník, HZS SŽ Plzeň	Horní Hradiště	99	80	A	M
+3205	559351	1	6	901	7	Radek	Chytil			33	hasič - strojník, HZS SŽ Plzeň	Horní Hradiště	99	80	A	M
 3205	559075	1	7	47	7	Iva	Kondelíková			47	důchodce	Kralovice	47	47	A	F
 3205	559075	1	8	904	7	Gabriela	Hofmanová			50	vedoucí lakovny	Kralovice	99	80	A	F
-3205	559041	1	0	901	8	Olga	Kuncová			46	OSVČ	Kozojedy	99	80	A	
 3205	530221	1	1	166	8	Milan	Brunovský			38	OSVČ	Hněvnice	99	166	A	M
 3205	530239	1	1	901	8	David	Hahn			29	dělník	Bílov	99	80	A	M
 3205	530271	1	1	901	8	Drahomíra	Bouberlová			56	personalista	Sedlec	99	80	A	F
 3205	530328	1	1	901	8	Ladislav	Švec			52	elektrokonstruktér	Čerňovice	99	80	A	M
-3205	530336	1	1	902	8	Martina	Bartásková			45	kuchařka	Vrážné	99	80	A	F
+3205	530336	1	1	901	8	Martina	Bartásková			45	kuchařka	Vrážné	99	80	A	F
 3205	538183	1	1	901	8	Josef	Fleissig			59	OSVČ	Kbelany	99	80	A	M
 3205	546411	1	1	901	8	Kateřina	Bosáková	Bc.	DiS.	34	ministerský rada	Úherce	99	80	A	F
 3205	553603	1	1	901	8	Milan	Potůček			53	vrátný	Studená	99	80	A	M
@@ -1411,6 +1410,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559008	1	1	901	8	David	Müller			38	Policie ČR	Kaznějov	99	80	A	M
 3205	559024	1	1	901	8	Michaela	Bihariová			28	referent k.ú.	Kopidlo	99	80	A	F
 3205	559032	1	1	901	8	Jan	Kůst			48	živnostník	Koryta	99	80	A	M
+3205	559041	1	1	901	8	Olga	Kuncová			46	OSVČ	Kozojedy	99	80	A	F
 3205	559059	1	1	470	8	Pavel	Novák			43	procesní auditor	Kozolupy	99	166	A	M
 3205	559067	1	1	902	8	Radek	Klaus			38	soukromý podnikatel	Kožlany	99	80	A	M
 3205	559075	1	1	901	8	Jaroslav	Černý	Ing.		31	vedoucí provozu, instruktor sebeobrany	Kralovice	99	80	A	M
@@ -1451,7 +1451,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	578797	1	1	1	8	Monika	Janouškovcová			47	prodavačka	Štichovice	99	1	A	F
 3205	578827	1	1	901	8	Miroslav	Kúš			36	automechanik	Zahrádka	99	80	A	M
 3205	578983	1	1	901	8	Štěpánka	Nováková			39	mateřská dovolená	Tatiná	99	80	A	F
-3205	530336	1	2	901	8	Marian	Bartásek			39	soukromý zemědělec	Vrážné	99	80	A	M
+3205	530336	1	2	166	8	Marian	Bartásek			39	soukromý zemědělec	Vrážné	99	166	A	M
 3205	558656	1	2	903	8	Marta	Fadrná			37	OSVČ	Bezvěrov	99	80	A	F
 3205	558699	1	2	902	8	Jiří	Fleisner			39	OSVČ	Bučí	99	80	A	M
 3205	558877	1	2	901	8	Ilona	Dolejšová	Bc.		47	vychovatelka	Horní Bělá	99	80	A	F
@@ -1520,7 +1520,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559237	1	4	902	8	Josef	Čech			44	údržbář	Chrášťovice	99	80	A	M
 3205	559270	1	4	903	8	Tomáš	Hanzlík			47	obchodní zástupce	Nekmíř	99	80	A	M
 3205	559300	1	4	1305	8	Petr	Kratochvíl			33	střihač	Nýřany	1114	1114	A	M
-3205	559351	1	4	901	8	Štěpán	Soutner	Mgr. art.		39	designer, pedagog	Plasy	99	80	A	M
+3205	559351	1	4	480	8	Štěpán	Soutner	Mgr. art.		39	designer, pedagog	Plasy	99	80	A	M
 3205	559504	1	4	903	8	Petr	Fišer			56	řidič	Trnová	99	80	A	M
 3205	559571	1	4	904	8	Kateřina	Vlažná			48	učitelka	Olešovice	99	80	A	F
 3205	559580	1	4	541	8	Petr	Štípek	Ing.		50	OSVČ, šéf konstruktér	Vejprnice	99	80	A	M
@@ -1536,14 +1536,13 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559504	1	5	53	8	Jiří	Rauch	Bc.		25	student	Trnová	99	53	A	M
 3205	559661	1	5	470	8	Denisa	Němcová			41	dělnice	Zbůch	99	166	A	F
 3205	559075	1	6	53	8	Zdeněk	Chaloupka			68	důchodce	Kralovice	53	53	A	M
-3205	559351	1	6	903	8	Jakub	Patejdl			43	živnostník - lesní hospodářství	Plasy	99	80	A	M
+3205	559351	1	6	901	8	Jakub	Patejdl			43	živnostník - lesní hospodářství	Plasy	99	80	A	M
 3205	559075	1	7	47	8	Antonín	Janoušek			72	důchodce	Kralovice	47	47	A	M
 3205	559075	1	8	904	8	Andrea	Schreiberová			27	pedagog volného času	Kralovice	99	80	A	F
-3205	559041	1	0	901	9	Pavel	Volín			31	obsluha restaurace	Kozojedy	99	80	A	
 3205	530239	1	1	901	9	Jana	Musilová	Ing.		55	referentka	Bílov	99	80	A	F
 3205	530271	1	1	901	9	Karel	Šilhan			76	důchodce	Sedlec	99	80	A	M
 3205	538183	1	1	901	9	Miroslav	Kraus			64	důchodce	Kbelany	99	80	A	M
-3205	546411	1	1	901	9	Václav	Louda ml.	Ing.		30	projektant	Úherce	99	80	A	M
+3205	546411	1	1	901	9	Václav	Louda	Ing.		30	projektant	Úherce	99	80	A	M
 3205	553603	1	1	901	9	Jitka	Králová			69	důchodce	Studená	99	80	A	F
 3205	558656	1	1	901	9	Stanislav	Stoček			39	samoplátce	Služetín	99	80	A	M
 3205	558672	1	1	901	9	Petr	Kaprál	Bc.		42	celní správa	Blatnice	99	80	A	M
@@ -1554,6 +1553,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	558940	1	1	470	9	Petr	Pražák			56	podnikatel	Chotíkov	99	166	A	M
 3205	559008	1	1	901	9	Pavel	Štefl			41	technik klimatizací	Kaznějov	99	80	A	M
 3205	559024	1	1	901	9	Petr	Zábranský			49	řidič	Kopidlo	99	80	A	M
+3205	559041	1	1	901	9	Pavel	Volín			31	obsluha restaurace	Kozojedy	99	80	A	M
 3205	559059	1	1	470	9	Vojtěch	Kovář			24	hasič chemik	Kozolupy	99	166	A	M
 3205	559067	1	1	902	9	Jaroslav	Berbr	Mgr.		57	učitel	Kožlany	99	80	A	M
 3205	559075	1	1	901	9	Markéta	Kučerová	Bc.		31	učitelka - momentálně na RD, trenérka mládeže - tenis	Kralovice	99	80	A	F
@@ -1575,7 +1575,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559491	1	1	901	9	Petr	Holub	Mgr.		53	referent samosprávy	Tlučná	99	80	A	M
 3205	559521	1	1	53	9	Josef	Dobrý			28	zaměstnanec	Třemošná	99	53	A	M
 3205	559555	1	1	902	9	Zuzana	Kastnerová			47	sekretářka	Jezná	99	80	A	F
-3205	559563	1	1	901	9	Miroslav	Tampier		Dis.	39	policista ČR	Číhaná	99	80	A	M
+3205	559563	1	1	901	9	Miroslav	Tampier		DiS.	39	policista ČR	Číhaná	99	80	A	M
 3205	559580	1	1	355	9	Tamara	Skopečková	Mgr.		37	učitelka ZŠ	Vejprnice	99	80	A	F
 3205	559601	1	1	902	9	Václav	Zajíček			51	obchodní zástupce	Vochov	99	80	A	M
 3205	559628	1	1	53	9	Pavel	Schejbal	Ing.		37	stavební inženýr	Všeruby	99	53	A	M
@@ -1647,7 +1647,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559237	1	4	902	9	Petr	Ouředník			47	servisní technik	Chrášťovice	99	80	A	M
 3205	559270	1	4	903	9	René	Hladík			50	řidič	Nekmíř	99	80	A	M
 3205	559300	1	4	1305	9	Jan	Smereka			42	operátor výroby	Nýřany	1114	1114	A	M
-3205	559351	1	4	901	9	Jakub	Palma			33	projektant HW	Plasy	99	80	A	M
+3205	559351	1	4	480	9	Jakub	Palma			33	projektant HW	Plasy	99	721	A	M
 3205	559504	1	4	903	9	Pavla	Čásová			45	prodavačka	Trnová	99	80	A	F
 3205	559571	1	4	904	9	Robert	Lopuzsynski			46	vodárenský technik	Vidžín	99	80	A	M
 3205	559580	1	4	541	9	Jiří	Stupka			46	lean senior specialist	Vejprnice	99	80	A	M
@@ -1663,15 +1663,15 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559504	1	5	53	9	Petr	Dohnal			45	podnikatel	Trnová	99	53	A	M
 3205	559661	1	5	470	9	Denisa	Nesvadbová			21	studentka ZČU Plzeň	Zbůch	99	166	A	F
 3205	559075	1	6	53	9	Václav	Košař			50	OSVČ	Kralovice	99	53	A	M
-3205	559351	1	6	903	9	Jan	Kovářík	Ing.		43	vedoucí IT oddělení	Plasy	99	80	A	M
+3205	559351	1	6	901	9	Jan	Kovářík	Ing.		43	vedoucí IT oddělení	Plasy	99	80	A	M
 3205	559075	1	7	47	9	Karel	Kűbele			63	důchodce	Kralovice	47	47	A	M
 3205	559075	1	8	904	9	Ladislav	Beneš			55	podnikatel	Kralovice	99	80	A	M
-3205	559041	1	0	901	10	Antonín	Kobza			46	obsluha čerpací stanice	Kozojedy	99	80	A	
 3205	558869	1	1	901	10	Irena	Urbanczyková			58	administrativní pracovnice	Vlkýš	99	80	A	F
 3205	558885	1	1	901	10	Václav	Bělík			48	skladník	Horní Bříza	99	80	A	M
 3205	558915	1	1	470	10	Luděk	Štrunc			42	rozpočtář staveb	Chotiná	99	80	A	M
 3205	558940	1	1	470	10	Věra	Klapáčová			71	stavební technik	Chotíkov	99	166	A	F
 3205	559008	1	1	901	10	Jan	Bratek	Bc.		37	výrobní inženýr	Kaznějov	99	80	A	M
+3205	559041	1	1	901	10	Antonín	Kobza			46	obsluha čerpací stanice	Kozojedy	99	80	A	M
 3205	559067	1	1	902	10	Monika	Kozlerová	Bc.		30	na mateřské dovolené	Kožlany	99	80	A	F
 3205	559075	1	1	901	10	Jiří	Bulín	Mgr.		37	ředitel DDM Kamarád Třemošná	Bukovina	99	80	A	M
 3205	559164	1	1	901	10	Stanislav	Tlachač			62	ředitel společnosti	Líně	99	80	A	M
@@ -1723,7 +1723,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559202	1	4	904	10	Václav	Hlous			58	řidič	Manětín	99	80	A	M
 3205	559211	1	4	355	10	Miloš	Havlíček			67	automechanik	Město Touškov	99	80	A	M
 3205	559300	1	4	1305	10	Ladislav	Marek			53	řidič	Nýřany	1114	1114	A	M
-3205	559351	1	4	901	10	Vojtěch	Dlouhý			24	student	Plasy	99	80	A	M
+3205	559351	1	4	480	10	Vojtěch	Dlouhý			24	student	Plasy	99	721	A	M
 3205	559580	1	4	541	10	Martin	Bouda	Ing.	Ph.D.	47	konstruktér	Vejprnice	99	80	A	M
 3205	559661	1	4	427	10	Petr	Matějů			62	OSVČ	Červený Újezd	99	80	A	M
 3205	559679	1	4	470	10	Michal	Horák			42	OSVČ	Senec	99	166	A	M
@@ -1733,15 +1733,15 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559351	1	5	7	10	Karel	Hubka			69	OSVČ	Lomnička	99	7	A	M
 3205	559661	1	5	470	10	Libor	Šiman			38	řidič	Zbůch	99	166	A	M
 3205	559075	1	6	53	10	Jiří	Tišer	RNDr.		59	vedoucí stavebního odboru	Kralovice	53	53	A	M
-3205	559351	1	6	903	10	Ivana	Hoffmanová			52	bezpečnostní pracovník	Plasy	99	80	A	F
+3205	559351	1	6	901	10	Ivana	Hoffmanová			52	bezpečnostní pracovník	Plasy	99	80	A	F
 3205	559075	1	7	47	10	Václav	Koura			73	důchodce	Kralovice	47	47	A	M
 3205	559075	1	8	904	10	Otakar	Bukač	MVDr.		73	veterinární lékař	Kralovice	99	80	A	M
-3205	559041	1	0	901	11	Ladislav	Zábranský			41	vedoucí přípravy a realizace staveb	Kozojedy	99	80	A	
 3205	558869	1	1	901	11	Jaromír	Zelenka			63	důchodce	Vlkýš I	99	80	A	M
 3205	558885	1	1	901	11	Jiří	Průcha			36	asistent pedagoga	Horní Bříza	99	80	A	M
 3205	558915	1	1	470	11	Jan	Engelthaler	Ing.		71	důchodce	Hromnice	99	80	A	M
 3205	558940	1	1	470	11	Miroslav	Vejskal	Ing.		60	stavební technik	Chotíkov	99	166	A	M
 3205	559008	1	1	901	11	Ivana	Uhrová			45	administrativní pracovnice	Kaznějov	99	80	A	F
+3205	559041	1	1	901	11	Ladislav	Zábranský			41	vedoucí přípravy a realizace staveb	Kozojedy	99	80	A	M
 3205	559067	1	1	902	11	Daniela	Siváková			45	operátorka v elektrovýrobě	Dřevec	99	80	A	F
 3205	559075	1	1	901	11	Martin	Oršulák			46	skladový referent, fotbalový trenér	Kralovice	99	80	A	M
 3205	559164	1	1	901	11	Radek	Bauer			53	podnikatel	Líně	99	80	A	M
@@ -1793,7 +1793,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559202	1	4	904	11	Vladislav	Maršán	Bc.		57	státní zaměstnanec	Újezd	99	80	A	M
 3205	559211	1	4	355	11	Bronislava	Samková	Mgr.		33	personální činnost	Město Touškov	99	80	A	F
 3205	559300	1	4	1305	11	František	Tichávek			75	zámečník	Nýřany	99	80	A	M
-3205	559351	1	4	901	11	Jaroslav	Maur			53	podnikatel	Plasy	99	80	A	M
+3205	559351	1	4	480	11	Jaroslav	Maur			53	podnikatel	Plasy	99	80	A	M
 3205	559580	1	4	541	11	Kristýna	Martinová	Bc.		36	úvěrový specialista	Vejprnice	99	80	A	F
 3205	559661	1	4	427	11	Martin	Plocar			46	OSVČ	Zbůch	99	80	A	M
 3205	559679	1	4	470	11	Václav	Svrček	Ing.		68	technik	Senec	99	166	A	M
@@ -1803,7 +1803,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559351	1	5	7	11	Pavel	Pospíšil	Ing.		52	OSVČ	Plasy	99	7	A	M
 3205	559661	1	5	470	11	Luděk	Štengl			60	OSVČ	Zbůch	99	166	A	M
 3205	559075	1	6	53	11	Robert	Fryček			53	OSVČ	Kralovice	53	53	A	M
-3205	559351	1	6	903	11	Jan	Rovner	Ing.	Ph.D.	46	specialista informačních technologií	Plasy	99	80	A	M
+3205	559351	1	6	901	11	Jan	Rovner	Ing.	Ph.D.	46	specialista informačních technologií	Plasy	99	80	A	M
 3205	559075	1	7	47	11	Josef	Kondelík			42	řezník	Kralovice	47	47	A	M
 3205	559075	1	8	904	11	František	Lűftner	Ing.		61	technik	Kralovice	99	80	A	M
 3205	558869	1	1	901	12	Helena	Gahnová			65	důchodce	Dolní Sekyřany	99	80	A	F
@@ -1856,7 +1856,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559202	1	4	904	12	Ondřej	Plic			38	řidič	Mezí	99	80	A	M
 3205	559211	1	4	355	12	Ludmila	Mouleová		DiS.	35	úřednice	Město Touškov	99	80	A	F
 3205	559300	1	4	1305	12	Jaroslav	Mihovič			45	zedník	Nýřany	99	80	A	M
-3205	559351	1	4	901	12	Michaela	Helusová	Mgr.		26	technický asistent výzkumu	Plasy	99	80	A	F
+3205	559351	1	4	480	12	Michaela	Helusová	Mgr.		26	technický asistent výzkumu	Plasy	99	721	A	F
 3205	559580	1	4	541	12	Roland	Martin			36	IT	Vejprnice	99	80	A	M
 3205	559661	1	4	427	12	Karel	Sedláček			77	důchodce	Zbůch	99	80	A	M
 3205	559695	1	4	371	12	Barbora	Šuchová			21	student	Žihle	99	80	A	F
@@ -1865,7 +1865,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559351	1	5	7	12	Petr	Miler			54	instalatér	Plasy	99	7	A	M
 3205	559661	1	5	470	12	Andrea	Kojzarová			19	studentka CIŠ Plzeň	Zbůch	99	166	A	F
 3205	559075	1	6	53	12	Lenka	Pecková		DiS.	42	ředitelka mateřské školy	Kralovice	99	53	A	F
-3205	559351	1	6	903	12	Jaromír	Vaněk			43	živnostník automechanik	Plasy	99	80	A	M
+3205	559351	1	6	901	12	Jaromír	Vaněk			43	živnostník automechanik	Plasy	99	80	A	M
 3205	559075	1	7	47	12	Ludmila	Štulcová			78	důchodce	Kralovice	47	47	A	F
 3205	559075	1	8	904	12	Jaroslav	Havel			64	technik	Kralovice	99	80	A	M
 3205	558869	1	1	901	13	Tomáš	Sedláček			50	řidič	Vlkýš	99	80	A	M
@@ -1918,7 +1918,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559202	1	4	904	13	Lukáš	Šafr	Ing.		46	technický manažer	Manětín	99	80	A	M
 3205	559211	1	4	355	13	Anna	Loudová			64	asistentka	Město Touškov	1	1	A	F
 3205	559300	1	4	1305	13	Marek	Bajzák			46	operátor výroby	Nýřany	99	80	A	M
-3205	559351	1	4	901	13	Iveta	Mannová			57	OSVĆ	Nebřeziny	99	80	A	F
+3205	559351	1	4	480	13	Iveta	Mannová			57	OSVĆ	Nebřeziny	99	80	A	F
 3205	559580	1	4	541	13	Martin	Kubát	Mgr.		38	vývojář software	Vejprnice	99	80	A	M
 3205	559661	1	4	427	13	Kamil	Veselý			36	technik	Červený Újezd	99	80	A	M
 3205	559695	1	4	371	13	Václav	Grűner	Ing.	CSc.	78	zemědělský inženýr	Žihle	7	7	A	M
@@ -1927,7 +1927,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559351	1	5	7	13	Jaromír	Kovářík			71	důchodce	Plasy	99	7	A	M
 3205	559661	1	5	470	13	Zbyněk	Valenta			39	dělník	Zbůch	99	166	A	M
 3205	559075	1	6	53	13	Martina	Vracovská	Bc.		38	pojišťovací poradce	Kralovice	53	53	A	F
-3205	559351	1	6	903	13	Jiří	Dub			40	řidič	Plasy	99	80	A	M
+3205	559351	1	6	901	13	Jiří	Dub			40	řidič	Plasy	99	80	A	M
 3205	559075	1	7	47	13	Josef	Kondelík			70	důchodce	Kralovice	47	47	A	M
 3205	559075	1	8	904	13	Jiří	Mareš	MUDr.		64	praktický lékař	Kralovice	99	80	A	M
 3205	558869	1	1	901	14	Marcela	Londová			44	dámská krejčová	Vlkýš	99	80	A	F
@@ -1976,7 +1976,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559075	1	4	903	14	Petr	Vopat			49	technik STK	Kralovice	99	80	A	M
 3205	559211	1	4	355	14	Libor	Kubík			73	důchodce	Město Touškov	99	80	A	M
 3205	559300	1	4	1305	14	Lukáš	Hasenőhrl			39	technik	Doubrava	99	80	A	M
-3205	559351	1	4	901	14	Mikuláš	Pavúk			69	důchodce, dřevorubec	Plasy	99	80	A	M
+3205	559351	1	4	480	14	Mikuláš	Pavúk			69	důchodce, dřevorubec	Plasy	99	80	A	M
 3205	559580	1	4	541	14	Robert	Plzák	Bc.		48	logistický specialista	Vejprnice	99	80	A	M
 3205	559661	1	4	427	14	Tereza	Mourková			35	manažerka	Červený Újezd	99	80	A	F
 3205	559695	1	4	371	14	Karel	Bušek			74	technik	Žihle	7	7	A	M
@@ -1985,7 +1985,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559351	1	5	7	14	Miloš	Zpěváček			66	autolakýrník	Plasy	99	7	A	M
 3205	559661	1	5	470	14	Petr	Diviš			40	dělník	Zbůch	99	166	A	M
 3205	559075	1	6	53	14	Jiří	Hanzlík			57	vedoucí provozu	Kralovice	53	53	A	M
-3205	559351	1	6	903	14	Jaromír	Antoš			49	živnostník - truhlář	Lomnička	99	80	A	M
+3205	559351	1	6	901	14	Jaromír	Antoš			49	živnostník - truhlář	Lomnička	99	80	A	M
 3205	559075	1	7	47	14	Kateřina	Kondelíková			44	mateřská dovolená	Kralovice	99	47	A	F
 3205	559075	1	8	904	14	Marie	Jíchová	Ing.		57	pedagog	Kralovice	99	80	A	F
 3205	558869	1	1	901	15	Kateřina	Jindrová			44	THP lesnictví	Vlkýš	99	80	A	F
@@ -2031,7 +2031,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559075	1	4	903	15	Jana	Poslední			49	zástupce vedoucího Penny	Kralovice	99	80	A	F
 3205	559211	1	4	355	15	Lucie	Kubíková			18	studentka	Město Touškov	99	80	A	F
 3205	559300	1	4	1305	15	David	Staněk			36	asistent prodeje	Nýřany	99	80	A	M
-3205	559351	1	4	901	15	Jiří	Prantner	Ing.		70	důchodce	Plasy	721	80	A	M
+3205	559351	1	4	480	15	Jiří	Prantner	Ing.		70	důchodce	Plasy	721	721	A	M
 3205	559580	1	4	541	15	Jiří	Vostrý			30	manažer restaurace	Vejprnice	99	80	A	M
 3205	559661	1	4	427	15	Klára	Veselá Majerová			34	manažerka	Červený Újezd	99	80	A	F
 3205	559695	1	4	371	15	František	Kiml			71	řidič	Žihle	7	7	A	M
@@ -2040,7 +2040,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3205	559351	1	5	7	15	Stanislav	Bořík			63	obráběč kovů	Plasy	99	7	A	M
 3205	559661	1	5	470	15	Miroslav	Steinbach			50	strojník	Zbůch	99	166	A	M
 3205	559075	1	6	53	15	Tomáš	Soukup	MVDr.		73	veterinární lékař	Kralovice	99	53	A	M
-3205	559351	1	6	903	15	Luboš	Šiml			47	řidič stavebních strojů	Žebnice	99	80	A	M
+3205	559351	1	6	901	15	Luboš	Šiml			47	řidič stavebních strojů	Žebnice	99	80	A	M
 3205	559075	1	7	47	15	Ludmila	Kourová			69	důchodce	Kralovice	99	47	A	F
 3205	559075	1	8	904	15	Jaroslav	Bulín	Ing.		62	předseda představenstva	Kralovice	99	80	A	M
 3205	558885	1	1	901	16	Patrik	Domanický			18	obsluha CNC stroje	Horní Bříza	99	80	A	M

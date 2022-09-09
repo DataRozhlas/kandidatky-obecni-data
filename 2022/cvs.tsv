@@ -294,7 +294,7 @@ VSTRANA	NAZEVCELK	NAZEV_STRV	ZKRATKAV30	ZKRATKAV8	POCSTR_SLO	SLOZENI	ZKRATKA_OF	
 356	Sdružení KDU-ČSL, DEU, NK	Sdružení KDU-ČSL, DEU, NK	Sdružení KDU-ČSL, DEU, NK	KDU-ČSL+DEU+NK	3	001,080,081		D	
 357	Sdružení KDU-ČSL, US-DEU, NK	Sdružení KDU-ČSL, US-DEU, NK	Sdružení KDU-ČSL, US-DEU, NK	KDU+US-DEU+NK	3	001,080,102		D	
 358	Sdružení KDU-ČSL, SKS, NK	Sdružení KDU-ČSL, SKS, NK	Sdružení KDU-ČSL, SKS, NK	KDU-ČSL+SKS+NK	3	001,080,105		D	
-359	Sdružení ČSNS, Zelení, KAN, D 92, MDS, NEZ, PB, OK, NK	Sdružení ČSNS,Zelení,KAN,D 92,MDS,NEZ,PB,OK,NK	ČSNS,Z,KA,D92,MDS,NEZ,PB,OK,NK		9	002,005,040,065,068,080,088,098,104		D	
+359	Sdružení ČSNS, Zelení, KAN, D 92, MDS, NEZ, PB, OK, NK	Sdružení ČSNS,Zelení,KAN,D 92,MDS,NEZ,PB,OK,NK	ČSNS,Z,KA,D92,MDS,NEZ,PB,OK,NK	359	9	002,005,040,065,068,080,088,098,104		D	
 360	Sdružení ČSNS, ODA, NK	Sdružení ČSNS, ODA, NK	Sdružení ČSNS, ODA, NK	ČSNS+ODA+NK	3	002,013,080		D	
 361	Sdružení ČSNS, NK	Sdružení ČSNS, NK	Sdružení ČSNS, NK	ČSNS+NK	2	002,080		D	
 362	Sdružení Zelení, SŽJ, NK	Sdružení Zelení, SŽJ, NK	Sdružení Zelení, SŽJ, NK	Zelení+SŽJ+NK	3	005,020,080		D	
@@ -381,13 +381,13 @@ VSTRANA	NAZEVCELK	NAZEV_STRV	ZKRATKAV30	ZKRATKAV8	POCSTR_SLO	SLOZENI	ZKRATKA_OF	
 452	Sdružení SDŽP, NK	Sdružení SDŽP, NK	Sdružení SDŽP, NK	SDŽP+NK	2	080,165		D	
 453	Sdružení ČSNS 2005, NK	Sdružení ČSNS 2005, NK	Sdružení ČSNS 2005, NK	ČSNS 2005+NK	2	080,175		D	
 454	Sdružení NEZ/DEM, NK	Sdružení NEZ/DEM, NK	Sdružení NEZ/DEM, NK	NEZ/DEM+NK	2	080,172		D	
-455	Sdružení SOS, KDU-ČSL, CZ, US-DEU, VPM, Rozumní, NK	Sdružení SOS, KDU-ČSL, CZ, US-DEU, VPM, Rozumní,NK	SOS,KDU,CZ,US-DEU,VPM,Rozum,NK		7	001,080,102,103,113,133,137		D	
+455	Sdružení SOS, KDU-ČSL, CZ, US-DEU, VPM, Rozumní, NK	Sdružení SOS, KDU-ČSL, CZ, US-DEU, VPM, Rozumní,NK	SOS,KDU,CZ,US-DEU,VPM,Rozum,NK	455	7	001,080,102,103,113,133,137		D	
 456	Sdružení MHNHRM, NK	Sdružení MHNHRM, NK	Sdružení MHNHRM, NK	MHNHRM+NK	2	080,112		D	
 457	Sdružení Nestraníci, NK	Sdružení Nestraníci, NK	Sdružení Nestraníci, NK	Nestraníci+NK	2	080,181		D	
 458	Sdružení Zelení, SOM, NK	Sdružení Zelení, SOM, NK	Sdružení Zelení, SOM, NK	Zelení+SOM+NK	3	005,080,158		D	
 459	Sdružení Zelení, US-DEU, NK	Sdružení Zelení, US-DEU, NK	Sdružení Zelení, US-DEU, NK	Zelení+USDEU+NK	3	005,080,102		D	
 461	Sdružení NV, NK	Sdružení NV, NK	Sdružení NV, NK	NV+NK	2	080,163		D	
-462	Sdružení Zelení, US-DEU, SOS, SNK ED, SD-SN, NK	Sdružení Zelení, US-DEU, SOS, SNK ED, SD-SN, NK	Zel.,USDEU,SOS,SNK ED,SD-SN,NK		6	005,080,102,103,129,143		D	
+462	Sdružení Zelení, US-DEU, SOS, SNK ED, SD-SN, NK	Sdružení Zelení, US-DEU, SOS, SNK ED, SD-SN, NK	Zel.,USDEU,SOS,SNK ED,SD-SN,NK	462	6	005,080,102,103,129,143		D	
 463	Sdružení SOM, NK	Sdružení SOM, NK	Sdružení SOM, NK	SOM+NK	2	080,158		D	
 464	Sdružení Moravané, NK	Sdružení Moravané, NK	Sdružení Moravané, NK	Moravané+NK	2	080,083		D	
 465	Sdružení DEUČR, NK	Sdružení DEUČR, NK	Sdružení DEUČR, NK	DEUČR+NK	2	080,157		D	
@@ -530,7 +530,7 @@ VSTRANA	NAZEVCELK	NAZEV_STRV	ZKRATKAV30	ZKRATKAV8	POCSTR_SLO	SLOZENI	ZKRATKA_OF	
 604	Koalice pro Českou republiku	Koalice pro Českou republiku	Koalice pro Českou republiku	Koal_ČR	6	002,009,040,157,159,178		K	
 605	Koalice SNK ED, KONS	Koalice SNK ED, KONS	Koalice SNK ED, KONS	SNK ED+KONS	2	024,129		K	
 606	Koalice VPM, US-DEU	Koalice VPM, US-DEU	Koalice VPM, US-DEU	VPM+US-DEU	2	102,113		K	
-607	Koalice Zelení, US-DEU, ODA, KONS, ČSNS 2005	Koalice Zelení, US-DEU, ODA, KONS, ČSNS 2005	Zelení,USDEU,ODA,KONS,ČSNS2005		5	005,013,024,102,175		K	
+607	Koalice Zelení, US-DEU, ODA, KONS, ČSNS 2005	Koalice Zelení, US-DEU, ODA, KONS, ČSNS 2005	Zelení,USDEU,ODA,KONS,ČSNS2005	607	5	005,013,024,102,175		K	
 608	Koalice KDU-ČSL, USZ	Koalice KDU-ČSL, USZ	Koalice KDU-ČSL, USZ	KDU-ČSL+USZ	2	001,119		K	
 609	Unie Prahy 4	Unie Prahy 4	Unie Prahy 4	Unie_P4	3	001,102,129		K	
 610	Koalice DEUČR, ODA, KAN	Koalice DEUČR, ODA, KAN	Koalice DEUČR, ODA, KAN	DEUČR+ODA+KAN	3	013,040,157		K	
@@ -572,7 +572,7 @@ VSTRANA	NAZEVCELK	NAZEV_STRV	ZKRATKAV30	ZKRATKAV8	POCSTR_SLO	SLOZENI	ZKRATKA_OF	
 664	Koalice VPM a VV	Koalice VPM a VV	Koalice VPM a VV	VPM+VV	2	113,144		K	
 665	Koalice Zelení, US-DEU a TOP 09	Koalice Zelení, US-DEU a TOP 09	Koalice Zelení, US-DEU, TOP 09	Zelen+USDEU+TOP	3	005,102,721		K	
 666	Koalice BPI a PP	Koalice BPI a PP	Koalice BPI, PP	BPI+PP	2	155,744		K	
-667	Koalice KDU-ČSL, Zelení, KONS, KAN, Rozumní a Piráti	Koalice KDU-ČSL,Zelení,KONS,KAN,Rozumní,Piráti	KDU,Zel.,KONS,KAN,Rozum.,Pir.		6	001,005,024,040,137,720		K	
+667	Koalice KDU-ČSL, Zelení, KONS, KAN, Rozumní a Piráti	Koalice KDU-ČSL,Zelení,KONS,KAN,Rozumní,Piráti	KDU,Zel.,KONS,KAN,Rozum.,Pir.	667	6	001,005,024,040,137,720		K	
 668	Koalice KDU-ČSL, MHNHRM	Koalice KDU-ČSL, MHNHRM	Koalice KDU-ČSL, MHNHRM	KDU-ČSL+MHNHRM	2	001,112		K	
 669	Koalice Zelení, Rozumní a SPOZ	Koalice Zelení, Rozumní a SPOZ	Koalice Zelení, Rozumní, SPOZ	Zel+Rozum+SPOZ	3	005,137,724		K	
 670	Koalice Zelení, VV a NV	Koalice Zelení, VV a NV	Koalice Zelení, VV, NV	Zelení+VV+NV	3	005,144,163		K	
@@ -984,7 +984,7 @@ VSTRANA	NAZEVCELK	NAZEV_STRV	ZKRATKAV30	ZKRATKAV8	POCSTR_SLO	SLOZENI	ZKRATKA_OF	
 1280	Malá strana velkých cílů	Malá strana velkých cílů	Malá strana velkých cílů	MSVC	1	1280	MSVC	S	
 1300	Koalice STAN a ProTR	Koalice STAN a ProTR	Koalice STAN a ProTR	STAN+ProTR	2	166,728		K	
 1301	Sdružení SPDV, NK	Sdružení SPDV, NK	Sdružení SPDV, NK	SPDV+NK	2	080,1041		D	
-1302	Koalice Zelení, ODS, STAN, Soukromníci a TOP 09	Koalice Zelení, ODS, STAN, Soukromníci a TOP 09	Zel.,ODS,STAN,Soukrom.,TOP 09		5	005,053,166,716,721		K	
+1302	Koalice Zelení, ODS, STAN, Soukromníci a TOP 09	Koalice Zelení, ODS, STAN, Soukromníci a TOP 09	Zel.,ODS,STAN,Soukrom.,TOP 09	1302	5	005,053,166,716,721		K	
 1303	Sdružení Svobodní, TOP 09, NK	Sdružení Svobodní, TOP 09, NK	Sdružení Svobodní, TOP 09, NK	Svobod+TOP09+NK	3	080,714,721		D	
 1304	Sdružení REAL, NK	Sdružení REAL, NK	Sdružení REAL, NK	REAL+NK	2	080,1176		D	
 1305	Sdružení SPD, NK	Sdružení SPD, NK	Sdružení SPD, NK	SPD+NK	2	080,1114		D	
@@ -1000,7 +1000,7 @@ VSTRANA	NAZEVCELK	NAZEV_STRV	ZKRATKAV30	ZKRATKAV8	POCSTR_SLO	SLOZENI	ZKRATKA_OF	
 1315	Koalice KDU-ČSL, STAN a TOP 09	Koalice KDU-ČSL, STAN a TOP 09	Koalice KDU-ČSL, STAN, TOP 09	KDU+STAN+TOP09	3	001,166,721		K	
 1316	Sdružení SMS, NK	Sdružení SMS, NK	Sdružení SMS, NK	SMS+NK	2	080,1202		D	
 1317	Sdružení Patrioti ČR, REAL, NK	Sdružení Patrioti ČR, REAL, NK	Sdružení Patrioti ČR, REAL, NK	PatČR+REAL+NK	3	080,1004,1176		D	
-1318	Koalice KDU-ČSL, ODS, COEX, Soukromníci a TOP 09	Koalice KDU-ČSL, ODS, COEX, Soukromníci a TOP 09	KDU-ČSL,ODS,COEX,Soukrom,TOP09		5	001,053,072,716,721		K	
+1318	Koalice KDU-ČSL, ODS, COEX, Soukromníci a TOP 09	Koalice KDU-ČSL, ODS, COEX, Soukromníci a TOP 09	KDU-ČSL,ODS,COEX,Soukrom,TOP09	1318	5	001,053,072,716,721		K	
 1319	Koalice ODS a TnT	Koalice ODS a TnT	Koalice ODS, TnT	ODS+TnT	2	053,1025		K	
 1320	Sdružení Z21, NK	Sdružení Z21, NK	Sdružení Z21, NK	Z21+NK	2	080,797		D	
 1321	Koalice Zelení, ODS, STAN a TOP 09	Koalice Zelení, ODS, STAN a TOP 09	Koalice Zelení,ODS,STAN,TOP 09	ZelODSSTANTOP09	4	005,053,166,721		K	
@@ -1028,7 +1028,7 @@ VSTRANA	NAZEVCELK	NAZEV_STRV	ZKRATKAV30	ZKRATKAV8	POCSTR_SLO	SLOZENI	ZKRATKA_OF	
 1343	Sdružení SPORTOVCI, NK	Sdružení SPORTOVCI, NK	Sdružení SPORTOVCI, NK	SPORTOVCI+NK	2	080,1182		D	
 1344	Sdružení KDU-ČSL, Zelení, TOP 09, NK	Sdružení KDU-ČSL, Zelení, TOP 09, NK	Sdružení KDU,Zelení,TOP09,NK	KDU+Zel+TOP+NK	4	001,005,080,721		D	
 1345	Sdružení KDU-ČSL, Zelení, ČSSD, NK	Sdružení KDU-ČSL, Zelení, ČSSD, NK	Sdružení KDU,Zelení,ČSSD,NK	KDU+Zel+ČSSD+NK	4	001,005,007,080		D	
-1346	Sdružení KDU-ČSL, Zelení, STAN, Piráti, TOP 09, JsmePRO!, NK	Sdružení KDU,Zelení,STAN,Piráti,TOP09,JsmePRO!,NK	KDU+Zel+STAN+Pir+TOP+PRO!+NK		7	001,005,080,166,720,721,1126		D	
+1346	Sdružení KDU-ČSL, Zelení, STAN, Piráti, TOP 09, JsmePRO!, NK	Sdružení KDU,Zelení,STAN,Piráti,TOP09,JsmePRO!,NK	KDU+Zel+STAN+Pir+TOP+PRO!+NK	1346	7	001,005,080,166,720,721,1126		D	
 1347	Koalice ČHNJ a Patrioti ČR	Koalice ČHNJ a Patrioti ČR	Koalice ČHNJ, Patrioti ČR	ČHNJ+PatriotiČR	2	123,1004		K	
 1348	Koalice Zelení, Piráti a OMMO	Koalice Zelení, Piráti a OMMO	Koalice Zelení, Piráti, OMMO	Zel+Piráti+OMMO	3	005,720,734		K	
 1349	Sdružení JIH 12, NK	Sdružení JIH 12, NK	Sdružení JIH 12, NK	JIH 12+NK	2	080,766		D	
@@ -1087,7 +1087,7 @@ VSTRANA	NAZEVCELK	NAZEV_STRV	ZKRATKAV30	ZKRATKAV8	POCSTR_SLO	SLOZENI	ZKRATKA_OF	
 1402	Koalice KDU-ČSL, KONS a TOP 09	Koalice KDU-ČSL, KONS a TOP 09	Koalice KDU-ČSL, KONS, TOP 09	KDU+KONS+TOP 09	3	001,024,721		K	
 1403	Sdružení HOZK, NK	Sdružení HOZK, NK	Sdružení HOZK, NK	HOZK+NK	2	080,772		D	
 1404	Sdružení KDU-ČSL, STAN, NK	Sdružení KDU-ČSL, STAN, NK	Sdružení KDU-ČSL, STAN, NK	KDU-ČSL+STAN+NK	3	001,080,166		D	
-1405	Koalice KONS, KAN, KČ, SNK ED, evropani a SMS	Koalice KONS, KAN, KČ, SNK ED, evropani a SMS	KONS,KAN,KČ,SNKED,evropani,SMS		6	024,040,055,129,1005,1202		K	
+1405	Koalice KONS, KAN, KČ, SNK ED, evropani a SMS	Koalice KONS, KAN, KČ, SNK ED, evropani a SMS	KONS,KAN,KČ,SNKED,evropani,SMS	1405	6	024,040,055,129,1005,1202		K	
 1406	Koalice STAN a Změna	Koalice STAN a Změna	Koalice STAN, Změna	STAN+Změna	2	166,771		K	
 1407	Sdružení KDU-ČSL, ČSSD, ODS, NK	Sdružení KDU-ČSL, ČSSD, ODS, NK	Sdružení KDU-ČSL,ČSSD,ODS,NK	KDU+ČSSD+ODS+NK	4	001,007,053,080		D	
 1408	Koalice Piráti a VIZE	Koalice Piráti a VIZE	Koalice Piráti, VIZE	Piráti+VIZE	2	720,1213		K	

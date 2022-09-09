@@ -122,7 +122,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	553875	1	2	805	1	Josef	Boček			64	důchodce	Louka	99	80	A	M
 6201	554162	1	2	901	1	Tomáš	Sýs			44	řidič	Crhov	99	80	A	M
 6201	556963	1	2	901	1	Dana	Kovaříková Veselá	Mgr.		45	medicínský reprezentant	Spešov	99	80	A	F
-6201	581283	1	2	47	1	Emil	Pernica	Bc.	DiS.	32	středoškolský učitel, předseda Okresního výboru KSČM	Těchov	47	47	A	M
+6201	581283	1	2	47	1	Emil	Pernica	Bc.	DiS.	32	středoškolský učitel, předseda Okresního výboru KSČM Blansko	Těchov	47	47	A	M
 6201	581291	1	2	53	1	Jiří	Němec			53	místostarosta	Adamov	53	53	A	M
 6201	581313	1	2	804	1	Jaroslav	Šmerda	Ing.		35	lesník	Bedřichov	99	80	A	M
 6201	581330	1	2	1	1	Michal	Kovařík			43	řidič autobusu	Benešov	99	1	A	M
@@ -174,7 +174,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	582336	1	2	1	1	Radomír	Burgr			55	operátor CNC	Skalice nad Svitavou	1	1	A	M
 6201	582344	1	2	803	1	Antonín	Konůpka			42	instalatér svářeč	Skrchov	99	80	A	M
 6201	582352	1	2	801	1	Oskar	Novák			64	soukromý podnikatel	Sloup	99	80	A	M
-6201	582433	1	2	801	1	Veronika	Roffeis	Mgr.		37	učitelka	Svinošice	99	80	A	
+6201	582433	1	2	801	1	Veronika	Roffeis	Mgr.		37	učitelka	Svinošice	99	80	A	F
 6201	582441	1	2	901	1	František	Plaček	Mgr.		40	zástupce ředitele gymnázia	Svitávka	1	80	A	M
 6201	582468	1	2	129	1	Zdeněk	Čížek			51	úředník	Šebetov	99	129	A	M
 6201	582484	1	2	901	1	Stanislav	Šindelka			51	starosta obce	Šošůvka	7	80	A	M
@@ -416,7 +416,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	581666	1	1	902	2	František	Petržela			33	provozní zámečník	Jabloňany	99	80	A	M
 6201	581682	1	1	1325	2	Kateřina	Klimešová	Ing.		56	ekonomka a hospodářka umělecké školy	Jedovnice	99	80	A	F
 6201	581721	1	1	1114	2	Milan	Peterka			51	elektrikář	Kněževes	99	1114	A	M
-6201	581739	1	1	181	2	Miroslav	Hartl	Bc.		39	tejmník MěÚ	Knínice	99	181	A	M
+6201	581739	1	1	181	2	Miroslav	Hartl	Bc.		39	tajemník MěÚ	Knínice	99	181	A	M
 6201	581755	1	1	902	2	Petr	Ševčík			45	OSVČ	Kořenec	99	80	A	M
 6201	581763	1	1	1	2	Martin	Kovář			31	učitel hudby	Kotvrdovice	99	1	A	M
 6201	581780	1	1	901	2	Martin	Peřinka			47	specialista IT	Krasová	99	80	A	M
@@ -497,7 +497,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	581356	1	2	166	2	Petr	Kouřil			44	řidič - záchranář	Borotín	99	166	A	M
 6201	581364	1	2	181	2	Marie	Petráková			61	nutriční terapeutka	Bořitov	99	181	A	F
 6201	581372	1	2	1327	2	Jaroslav	Dohnálek	Ing.		58	starosta Boskovic	Boskovice	53	53	A	M
-6201	581453	1	2	463	2	Aneta	Majerčíková	Mgr.		36	právnička	Bukovinka	99	80	A	
+6201	581453	1	2	463	2	Aneta	Majerčíková	Mgr.		36	právnička	Bukovinka	99	80	A	F
 6201	581470	1	2	1	2	Martin	Čapka			35	řidič	Cetkovice	1	1	A	M
 6201	581496	1	2	902	2	Martin	Poděbradský	Mgr.		37	vedoucí oddělení IZS a služeb HZS Jihomoravského kraje ÚO Blansko	Černá Hora	99	80	A	M
 6201	581534	1	2	901	2	Radomíra	Měkutová			61	ekonom	Chrudichromy	99	80	A	F
@@ -601,7 +601,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	581291	1	5	902	2	Libor	Křivánek			49	podnikatel	Adamov	99	80	A	M
 6201	581372	1	5	166	2	Radek	Mazáč	Ing.		50	ekonom	Boskovice	166	166	A	M
 6201	581496	1	5	371	2	Tomáš	Říha	Ing.		44	vedoucí oddělení plánování investičního rozvoje	Černá Hora	99	80	A	M
-6201	581542	1	5	903	2	Veronika	Janochová			41	vedoucí prodejny, předsedkyně MC Ponorka	Doubravice nad Svitavou	99	80	A	
+6201	581542	1	5	903	2	Veronika	Janochová			41	vedoucí prodejny, předsedkyně MC Ponorka	Doubravice nad Svitavou	99	80	A	F
 6201	581682	1	5	387	2	Petr	Šteflíček	Mgr.		53	odborný geolog	Jedovnice	1114	80	A	M
 6201	581739	1	5	903	2	Miroslav	Přikryl			65	jednatel	Knínice	99	80	A	M
 6201	581917	1	5	901	2	Martin	Hoder	Mgr.		58	technik	Letovice	99	80	A	M
@@ -869,7 +869,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	581356	1	1	902	4	Petr	Smékal			32	OSVČ obor zednictví	Borotín	99	80	A	M
 6201	581364	1	1	463	4	Bohumír	Verner	PaedDr.		69	důchodce	Bořitov	99	80	A	M
 6201	581372	1	1	7	4	Kamil	Litvik	Mgr.		37	sociální pracovník-věznice Kuřim	Boskovice	7	7	A	M
-6201	581445	1	1	901	4	Alice	Adamová			38	knihovnice	Bukovina	99	80	A	
+6201	581445	1	1	901	4	Alice	Adamová			38	knihovnice	Bukovina	99	80	A	F
 6201	581453	1	1	355	4	Vít	Bezoušek	Mgr.		45	konzultant ITS řešení	Bukovinka	99	80	A	M
 6201	581461	1	1	901	4	Libor	Hladil	Ing.		59	OSVČ zemědělec	Býkovice	99	80	A	M
 6201	581470	1	1	901	4	Jakub	Rozmánek			29	výrobní ředitel	Cetkovice	99	80	A	M
@@ -1052,9 +1052,9 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	581283	1	4	768	4	Bohuslav	Kučera			55	mistr výroby	Blansko	768	768	A	M
 6201	581291	1	4	47	4	Ladislav	Pozorský			42	OSVČ	Adamov	99	47	A	M
 6201	581364	1	4	1	4	Jiří	Dosedla			28	OSVČ	Bořitov	99	1	A	M
-6201	581372	1	4	1491	4	Zdeněk	Bušina			57	učitel	Boskovice	1227	1227	A	
+6201	581372	1	4	1491	4	Zdeněk	Bušina			57	učitel	Boskovice	1227	1227	A	M
 6201	581496	1	4	387	4	Jiří	Rokos	Ing.		68	asistent poslance	Černá Hora	1114	80	A	M
-6201	581542	1	4	902	4	Michal	Hájek	Ing.		39	trenér mládeže	Doubravice nad Svitavou	99	80	A	
+6201	581542	1	4	902	4	Michal	Hájek	Ing.		39	trenér mládeže	Doubravice nad Svitavou	99	80	A	M
 6201	581682	1	4	903	4	Hana	Šíblová	Mgr.		60	učitelka ZŠ	Jedovnice	99	80	A	F
 6201	581739	1	4	904	4	Martin	Oliva			20	student	Knínice	99	80	A	M
 6201	581828	1	4	355	4	Jaroslav	Gregor			54	vedoucí dílen ŠLP Křtiny	Křtiny	99	1	A	M
@@ -1065,7 +1065,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	582239	1	4	470	4	Petra	Doleželová	Ing.		33	IT auditorka	Rájec	99	80	A	F
 6201	582344	1	4	901	4	Ludmila	Drahošová			63	důchodce	Skrchov	99	80	A	F
 6201	582646	1	4	1	4	Jana	Ježová			59	vedoucí výroby	Velké Opatovice	99	1	A	F
-6201	582751	1	4	53	4	Dagmar	Kociánová			54	úředník	Žďárná	99	53	A	F
+6201	582751	1	4	53	4	Dagmar	Kocianová			54	úředník	Žďárná	99	53	A	F
 6201	581283	1	5	1305	4	Ladislav	Lór	Ing.		67	středoškolský učitel	Blansko	99	80	A	M
 6201	581291	1	5	902	4	Michal	Marek			48	technolog	Adamov	99	80	A	M
 6201	581372	1	5	166	4	Radek	Sušil			46	obchodník	Boskovice	99	166	A	M
@@ -1081,7 +1081,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	581283	1	6	1	4	Monika	Sirná	Ing. arch.		61	projektantka	Blansko	99	1	A	F
 6201	581372	1	6	47	4	Pavel	Kmeč			81	důchodce	Boskovice	47	47	A	M
 6201	581542	1	6	53	4	Petr	Daněk	MUDr.		59	lékař	Doubravice nad Svitavou	53	53	A	M
-6201	581682	1	6	901	4	Ondřej	Javorský			33	zdravotní pracovník	Jedovnice	99	80	A	M
+6201	581682	1	6	901	4	Ondřej	Javorský			33	pracovník ve zdravotnictví	Jedovnice	99	80	A	M
 6201	582239	1	6	355	4	Anna	Skotáková	MUDr.		28	lékařka	Rájec	99	1	A	F
 6201	581283	1	7	7	4	Lenka	Dvořáková			48	office manager	Blansko	7	7	A	F
 6201	581372	1	7	364	4	Josef	Přibyl			74	stavební podnikatel	Boskovice	99	80	A	M
@@ -1151,13 +1151,13 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	582131	1	1	1	5	Jana	Šamšulová	Ing.		34	datový analytik	Okrouhlá	99	1	A	F
 6201	582158	1	1	904	5	Ivana	Vysloužilová	Mgr.		34	pedagog	Olešnice	99	80	A	F
 6201	582166	1	1	901	5	Pavel	Husák			39	lesník	Olomučany	99	80	A	M
-6201	582182	1	1	1	5	Jana	Škaroupková	Bc.	DiS.	40	státní zaměstnanec	Ostrov u Macochy	99	1	A	
+6201	582182	1	1	1	5	Jana	Škaroupková	Bc.	DiS.	40	státní zaměstnanec	Ostrov u Macochy	99	1	A	F
 6201	582204	1	1	901	5	Marek	Trzaskalik	Ing.		51	jednatel společnosti	Petrov	99	80	A	M
 6201	582212	1	1	497	5	Roman	Skoták			36	elektromechanik	Petrovice	99	716	A	M
 6201	582221	1	1	1114	5	Lidmila	Bártová			61	prodavačka	Prostřední Poříčí	99	1114	A	F
 6201	582239	1	1	387	5	Miloslav	Navrátil			70	ekonom	Rájec	99	80	A	M
 6201	582247	1	1	387	5	Alena	Klimešová			70	důchodce	Ráječko	47	47	A	F
-6201	582271	1	1	1	5	Markéta	Sadílková	Mgr. Bc.		42	pedagožka	Rozseč nad Kunštátem	99	1	A	F
+6201	582271	1	1	1	5	Markéta	Sadílková	Mgr. et Bc.		42	pedagožka	Rozseč nad Kunštátem	99	1	A	F
 6201	582280	1	1	901	5	Pavel	Sedlák			65	důchodce	Rozsíčka	99	80	A	M
 6201	582298	1	1	1	5	Miroslav	Chemčuk			45	řidič	Rudice	99	1	A	M
 6201	582310	1	1	1	5	Edita	Šuterová			33	učitelka	Sebranice	99	1	A	F
@@ -1295,13 +1295,13 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	582158	1	4	902	5	Petr	Ryzí			51	zaměstnanec	Olešnice	99	80	A	M
 6201	582239	1	4	470	5	Miroslav	Hrbek			52	zemědělec	Karolín	99	80	A	M
 6201	582344	1	4	901	5	Marta	Oujezdská			39	zdravotní sestra	Skrchov	99	80	A	F
-6201	582646	1	4	1	5	Andrea	Přichystalová			23	studentka	Velké Opatovice	99	1	A	F
+6201	582646	1	4	1	5	Andrea	Přichystalová	Bc.		23	studentka	Velké Opatovice	99	1	A	F
 6201	582751	1	4	53	5	Barbora	Musilová	Mgr.		28	právník	Žďárná	99	53	A	F
 6201	581283	1	5	1305	5	Zuzana	Pallasová			36	asistentka	Blansko	1114	1114	A	F
 6201	581291	1	5	902	5	Lucie	Zavažanová			35	podnikatelka	Adamov	99	80	A	F
 6201	581372	1	5	166	5	Bohdan	Charvát			49	IT specialista	Boskovice	99	166	A	M
 6201	581496	1	5	371	5	Naděžda	Šabrňáková	Ing.		60	osoba samostatně výdělečně činná	Černá Hora	99	80	A	F
-6201	581542	1	5	903	5	Robert	Urbánek			50	odborný lesní hospodář	Doubravice nad Svitavou	99	80	A	
+6201	581542	1	5	903	5	Robert	Urbánek			50	odborný lesní hospodář	Doubravice nad Svitavou	99	80	A	M
 6201	581682	1	5	387	5	Jaroslav	Charvát			72	důchodce	Jedovnice	47	47	A	M
 6201	581739	1	5	903	5	Lenka	Ožvoldíková			43	mzdová účetní	Knínice	99	80	A	F
 6201	581917	1	5	901	5	Marcela	Královcová	Mgr.		37	advokátka	Letovice	99	80	A	F
@@ -1546,7 +1546,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	581372	1	9	720	6	Jan	Trna	doc. MUDr.	Ph.D.	42	lékař	Mladkov	99	720	A	M
 6201	581372	1	10	1325	6	Viktorie	Ježková	Mgr.		46	zástupce farmaceutické společnosti	Boskovice	99	80	A	F
 6201	530824	1	1	902	7	Marek	Ošlejšek			27	dělník	Velenov	99	80	A	M
-6201	531006	1	1	1	7	Kamil	Veselý	Bc.		47	OSVČ služby v lesnictví	Ludíkov	1	1	A	M
+6201	531006	1	1	1	7	Kamil	Veselý	Bc.		47	OSVČ služby v lesnictví	Ludíkov	99	1	A	M
 6201	534692	1	1	901	7	Marek	Štěrba			28	soustružník	Újezd u Boskovic	99	80	A	M
 6201	556963	1	1	902	7	Vladimír	Chlup			38	obchodní zástupce	Spešov	99	80	A	M
 6201	581283	1	1	1560	7	Andrea	Jurušová			51	plavčík	Blansko	99	80	A	F
@@ -1738,7 +1738,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	581291	1	5	902	7	Barbora	Kubíčková			30	referent logistiky	Adamov	99	80	A	F
 6201	581372	1	5	166	7	Michal	Gebel	Mgr.		47	učitel	Boskovice	99	166	A	M
 6201	581496	1	5	371	7	Jaroslav	Gric	Ing.		47	projektant vodohospodářských staveb	Černá Hora	99	80	A	M
-6201	581542	1	5	903	7	Rostislav	Pijáček			29	referent životního prostředí	Doubravice nad Svitavou	99	80	A	
+6201	581542	1	5	903	7	Rostislav	Pijáček			29	referent životního prostředí	Doubravice nad Svitavou	99	80	A	M
 6201	581682	1	5	387	7	Vlasta	Daňková			77	administrativní pracovnice	Jedovnice	99	80	A	F
 6201	581739	1	5	903	7	Roman	Ožvoldík			43	technik	Knínice	99	80	A	M
 6201	581917	1	5	901	7	Vít	Hrdlička			21	student	Letovice	99	80	A	M
@@ -1767,7 +1767,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	581364	1	1	463	8	Josef	Konečný			71	důchodce	Bořitov	99	80	A	M
 6201	581372	1	1	7	8	Drahomír	Skořepa	RNDr.		74	senior	Boskovice	7	7	A	M
 6201	581445	1	1	901	8	David	Packa	Ing.		48	technolog strojírenství	Bukovina	99	80	A	M
-6201	581461	1	1	901	8	Petr	Honsnejman			31	technolog	Býkovice	99	80	A	
+6201	581461	1	1	901	8	Petr	Honsnejman			31	technolog	Býkovice	99	80	A	M
 6201	581470	1	1	901	8	Hana	Markusová	Ing.		38	OSVČ projektant	Cetkovice	99	80	A	F
 6201	581496	1	1	901	8	Lukáš	Jurek			42	policista ČR	Černá Hora	99	80	A	M
 6201	581518	1	1	901	8	Pavel	Jurka			30	podnikatel	Deštná	99	80	A	M
@@ -1865,7 +1865,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	582441	1	2	901	8	Martin	Bureš	Mgr.		33	právník, koncipient	Svitávka	1	80	A	M
 6201	582484	1	2	901	8	Jiří	Obalil	Ing.		38	podnikatel	Šošůvka	99	80	A	M
 6201	582573	1	2	449	8	Soňa	Zmeškalová			45	manažer	Úsobrno	99	80	A	F
-6201	582581	1	2	901	8	Filip	Učeň			30	mechanik-seřizovač	Valchov	99	80	A	M
+6201	582581	1	2	901	8	Filip	Učeň			30	mechanik-seřizovač CNC	Valchov	99	80	A	M
 6201	582590	1	2	902	8	Lukáš	Kohoutek			35	zahradník	Drválovice	99	80	A	M
 6201	582603	1	2	902	8	Radim	Jarůšek			43	technolog	Veselice	99	80	A	M
 6201	582646	1	2	768	8	Jaroslav	Vrba			52	řidič	Velké Opatovice	99	768	A	M
@@ -2091,7 +2091,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	581291	1	5	902	9	Miroslav	Kilián			31	OSVČ	Adamov	99	80	A	M
 6201	581372	1	5	166	9	František	Jimramovský	MUDr.		63	lékař	Boskovice	99	166	A	M
 6201	581496	1	5	371	9	Stanislav	Blažek			38	technik montáží	Černá Hora	99	80	A	M
-6201	581542	1	5	903	9	Dušan	Tenora	MUDr.		54	primář	Doubravice nad Svitavou	99	80	A	
+6201	581542	1	5	903	9	Dušan	Tenora	MUDr.		54	primář	Doubravice nad Svitavou	99	80	A	M
 6201	581682	1	5	387	9	František	Marek			64	řidič	Jedovnice	47	47	A	M
 6201	581739	1	5	903	9	Veronika	Blahová			31	projektový manager	Knínice	99	80	A	F
 6201	581917	1	5	901	9	Marcela	Kratochvílová			30	mateřská dovolená	Letovice	99	80	A	F
@@ -2256,7 +2256,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	582182	1	2	7	11	Sabina	Nejezchlebová			28	referentka ÚP	Ostrov u Macochy	99	7	A	F
 6201	582239	1	2	53	11	Eva	Musilová			51	bankovní poradce	Jestřebí	99	53	A	F
 6201	582247	1	2	371	11	Jana	Adamová	Mgr.		52	projektová manažerka	Ráječko	7	7	A	F
-6201	582298	1	2	901	11	Dagmar	Malásková Kulaviaková	Mgr.		38	marketingová specialistka	Rudice	99	80	A	
+6201	582298	1	2	901	11	Dagmar	Malásková Kulaviaková	Mgr.		38	marketingová specialistka	Rudice	99	80	A	F
 6201	582441	1	2	901	11	Karel	Novák	Ing.		41	likvidátor pojistných událostí	Svitávka	99	80	A	M
 6201	582603	1	2	902	11	Aleš	Štolpa			47	svářeč	Veselice	99	80	A	M
 6201	582646	1	2	768	11	Petr	Kolář	Bc.		30	ekonom	Velké Opatovice	99	768	A	M
@@ -2281,7 +2281,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	582247	1	3	415	11	Robin	Procházka			30	obchodní ředitel	Ráječko	99	80	A	M
 6201	582646	1	3	470	11	Jana	Hrdličková			43	hlavní kuchařka	Velké Opatovice	99	80	A	F
 6201	582701	1	3	1	11	Jakub	Kakáč			38	výrobní ředitel	Molenburk	99	1	A	M
-6201	582751	1	3	902	11	Iveta	Hrazdírová			49	kuchařka	Žďárná	99	80	A	F
+6201	582751	1	3	902	11	Iveta	Hrazdilová			49	kuchařka	Žďárná	99	80	A	F
 6201	581283	1	4	768	11	Marie	Pšikalová			74	seniorka	Blansko	99	768	A	F
 6201	581291	1	4	47	11	Danuše	Řezáčová			66	cukrářka	Adamov	99	47	A	F
 6201	581364	1	4	1	11	Radek	Martínek			55	technik mechanizace	Bořitov	99	1	A	M
@@ -2324,7 +2324,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	581372	1	1	7	12	Josef	Malach	Mgr.		65	senior	Boskovice	7	7	A	M
 6201	581496	1	1	901	12	Vladimíra	Nečasová			57	vedoucí pošty	Černá Hora	99	80	A	F
 6201	581682	1	1	1325	12	Petr	Krejčiřík	Ing.		59	projektant	Jedovnice	99	80	A	M
-6201	581763	1	1	1	12	Jiří	Zouhar			58	zaměstnanec obce	Kotvrdovice	1	1	A	M
+6201	581763	1	1	1	12	Jiří	Zouhar			58	zaměstnanec obce	Kotvrdovice	99	1	A	M
 6201	581879	1	1	901	12	Jiří	Unčovský	Ing.		70	důchodce	Kunštát	99	80	A	M
 6201	581917	1	1	480	12	Milan	Reitschmied	Mgr.		57	zástupce ředitele střední školy	Letovice	7	80	A	M
 6201	581950	1	1	903	12	Luboš	Ševčík			55	pracovník bezpečnostní agentury	Lipovec	99	80	A	M
@@ -2342,7 +2342,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	581291	1	2	53	12	Aleš	Manoušek			32	technik	Adamov	99	53	A	M
 6201	581330	1	2	1	12	Jiří	Abrle			41	OSVČ	Benešov	99	1	A	M
 6201	581364	1	2	181	12	Roman	Bosák	Ing.		54	projektant	Bořitov	99	181	A	M
-6201	581372	1	2	1327	12	Petr	Šafránek	Ing.		37	středoškolský pedagog	Boskovice	721	721	A	M
+6201	581372	1	2	1327	12	Petr	Šafránek	Ing.	DiS.	37	středoškolský pedagog	Boskovice	721	721	A	M
 6201	581496	1	2	902	12	Ladislav	Boháč			45	obchodní manažer	Černá Hora	99	80	A	M
 6201	581682	1	2	1	12	Marie	Bezděková			58	učitelka MŠ	Jedovnice	99	1	A	F
 6201	581763	1	2	901	12	Lucie	Svobodová			37	administrativní pracovnice	Kotvrdovice	99	80	A	F
@@ -2569,7 +2569,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	581917	1	4	53	14	Ondřej	Kubát			42	podnikatel	Letovice	99	53	A	M
 6201	582158	1	4	902	14	Lenka	Pernická			50	živnostník	Olešnice	99	80	A	F
 6201	582239	1	4	470	14	Vojtěch	Valigura			31	IT administrátor	Rájec	99	80	A	M
-6201	582646	1	4	1	14	Lada	Vrablíková Kirstová			51	účetní	Velké Opatovice	99	1	A	F
+6201	582646	1	4	1	14	Lada	Vrábliková Kirstová			51	účetní	Velké Opatovice	99	1	A	F
 6201	581283	1	5	1305	14	Tomáš	Hanák			45	živnostník, dobrovolný hasič	Klepačov	99	80	A	M
 6201	581372	1	5	166	14	Michal	Bednařík	Ing.		51	manager	Boskovice	99	166	A	M
 6201	581496	1	5	371	14	Dagmar	Hermanová	Ing.		42	vedoucí týmu	Černá Hora	99	80	A	F
@@ -2705,7 +2705,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 6201	581372	1	9	720	16	Lukáš	Pokorný	Bc.		31	lektor globálního vzdělávání	Boskovice	99	720	A	M
 6201	581372	1	10	1325	16	Ctirad	Kohoutek			60	revírník	Boskovice	99	80	A	M
 6201	581283	1	1	1560	17	Lenka	Čechová			55	pěstounka	Klepačov	99	80	A	F
-6201	581372	1	1	7	17	Vítězslav	Kudláček			81	senior	Boskovice	7	7	A	M
+6201	581372	1	1	7	17	Vitězslav	Kudláček			81	senior	Boskovice	7	7	A	M
 6201	581917	1	1	480	17	Milan	Novák			48	OSVČ	Letovice	99	80	A	M
 6201	582239	1	1	387	17	Drahomíra	Švábová			71	prodavačka	Rájec	99	80	A	F
 6201	581283	1	2	47	17	František	Popelka			74	důchodce	Blansko	47	47	A	M

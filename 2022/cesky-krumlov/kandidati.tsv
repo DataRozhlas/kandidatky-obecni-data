@@ -79,7 +79,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	545724	1	2	901	1	Vítězslav	Jílek	Ing.		47	starosta	Přídolí	99	80	A	M
 3102	545767	1	2	903	1	Lenka	Schwarzová	Mgr.		61	pedagog	Rožmberk nad Vltavou	99	80	A	F
 3102	545775	1	2	901	1	Jaroslav	Vítů			39	řidič	Rožmitál na Šumavě	99	80	A	M
-3102	545805	1	2	806	1	Michael	Řepa			29	stavbyvedoucí	Soběnov	99	80	A	
+3102	545805	1	2	806	1	Michael	Řepa			29	stavbyvedoucí	Soběnov	99	80	A	M
 3102	545821	1	2	902	1	Petr	Vágner	Ing.		34	starosta města Velešín	Velešín	99	80	A	M
 3102	545830	1	2	88	1	Jaroslav	Vojtíšek	MUDr.		70	lékař	Větřní	99	88	A	M
 3102	545848	1	2	470	1	Jan	Straka	Bc.		36	místostarosta	Vyšší Brod	99	80	A	M
@@ -155,7 +155,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	545392	1	6	766	1	Martin	Hák	Mgr.		54	místostarosta města	Horní Brána	99	766	A	M
 3102	545465	1	6	906	1	Karel	Šrefl			39	jednatel obchodní společnosti	Dolní Dvořiště	99	80	A	M
 3102	545511	1	6	902	1	Vojtěch	Ščevík	Ing.		34	projektant	Horní Planá	99	80	A	M
-3102	545554	1	6	903	1	Jiří	Slovák			59	podnikatel	Kájov	99	80	A	M
+3102	545554	1	6	903	1	Jiří	Slovák			59	zahradník	Kájov	99	80	A	M
 3102	545562	1	6	1114	1	Václav	Mikeš			44	protipožární technik, zastupitel města Kaplice	Kaplice	1114	1114	A	M
 3102	545805	1	6	809	1	Roman	Grznárik			30	operátor CNC	Soběnov	99	80	A	M
 3102	545830	1	6	53	1	Petr	Hudec			56	ředitel společnosti	Větřní	53	53	A	M
@@ -286,7 +286,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	545821	1	3	714	2	Jiří	Jantač			31	promotér	Velešín	99	714	A	M
 3102	545830	1	3	47	2	František	Domin			26	tesař	Němče	47	47	A	M
 3102	545848	1	3	902	2	Jaroslav	Marek			44	poradce, provozovatel autodopravy	Vyšší Brod	53	80	A	M
-3102	545864	1	3	112	2	Jana	Eremiášová		Dipl.-Kffr. Univ. Ing.	37	managerka v cestovním ruchu	Rájov	99	112	A	F
+3102	545864	1	3	112	2	Jana	Eremiášová	Dipl.-Kffr.Univ.Ing.		37	managerka v cestovním ruchu	Rájov	99	112	A	F
 3102	545872	1	3	1	2	Karla	Bürgerová	Ing.		28	zkušební inženýrka	Zubčická Lhotka	99	1	A	F
 3102	598623	1	3	903	2	Jaroslav	Kostohryz			51	strojník	Mojné	99	80	A	M
 3102	545392	1	4	364	2	Dana	Kuchtová	Mgr.		61	ředitelka dětského domova	Vnitřní Město	5	5	A	F
@@ -392,7 +392,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	536253	1	2	902	3	Bohuslav	Biňovský			51	zedník	Bohdalovice	99	80	A	M
 3102	536296	1	2	901	3	Karel	Pánek			42	dispečer	Ostrov	99	80	A	M
 3102	536300	1	2	901	3	Josef	Ondřich			56	celník	Dolní Pláně	99	80	A	M
-3102	545392	1	2	53	3	Jiří	Čtvrtník			57	ředitel společnosti	Plešivec	53	53	A	M
+3102	545392	1	2	53	3	Jiří	Čtvrtník	Ing. Bc.		57	ředitel společnosti	Plešivec	53	53	A	M
 3102	545406	1	2	902	3	Miloslav	Zabilka			36	zámečník	Benešov nad Černou	99	80	A	M
 3102	545414	1	2	389	3	Jan	Zeman			38	školník	Besednice	53	53	A	M
 3102	545431	1	2	1	3	Marcel	Vyžral			53	technik	Brloh	99	1	A	M
@@ -453,7 +453,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	545830	1	3	47	3	Rostislav	Matoušek			60	stát. zaměstnanec ve výslužbě	Větřní	99	47	A	M
 3102	545848	1	3	902	3	Vladislav	Čížek		DiS.	59	učitel hudby, hudebník a hudební producent	Vyšší Brod	99	80	A	M
 3102	545864	1	3	112	3	Martin	Zeman	Bc.		39	vedoucí kulturního centra	Rájov	99	112	A	M
-3102	545872	1	3	1	3	František	Talíř	Mgr.		29	vícehejtman Jihočeského kraje	Zubčice	1	1	A	M
+3102	545872	1	3	1	3	František	Talíř	Mgr.		29	vicehejtman Jihočeského kraje	Zubčice	1	1	A	M
 3102	598623	1	3	903	3	Radek	Mráček			43	zemědělec	Mojné	99	80	A	M
 3102	545392	1	4	364	3	Vendula	Pohlová	Ing.		39	vedoucí kontaktního pracoviště Úřadu práce	Domoradice	99	80	A	F
 3102	545406	1	4	901	3	Robert	Daniel			25	hasič	Benešov nad Černou	99	80	A	M
@@ -724,7 +724,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	536253	1	2	902	5	Martin	Řezáč			36	servisní mechanik	Bohdalovice	99	80	A	M
 3102	536296	1	2	901	5	Tomáš	Gondek			34	podnikatel	Malšín	99	80	A	M
 3102	536300	1	2	901	5	Tomáš	Marek			46	hasič	Dolní Pláně	99	80	A	M
-3102	545392	1	2	53	5	Kateřina	Slavíková			55	stavební inženýrka	Plešivec	53	53	A	F
+3102	545392	1	2	53	5	Kateřina	Slavíková	Ing.		55	stavební inženýrka	Plešivec	53	53	A	F
 3102	545406	1	2	902	5	Jiří	Kostka			41	hasič	Děkanské Skaliny	99	80	A	M
 3102	545414	1	2	389	5	Vladislav	Havlíček			55	mistr zámečnictví	Besednice	99	80	A	M
 3102	545431	1	2	1	5	Tomáš	Farský	Ing.		47	stavitel	Brloh	99	1	A	M
@@ -886,12 +886,12 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	536253	1	2	902	6	Naděžda	Šejdová	Bc.		48	hlavní účetní	Bohdalovice	99	80	A	F
 3102	536296	1	2	901	6	Jan	Dunka			45	truhlář	Malšín	99	80	A	M
 3102	536300	1	2	901	6	Jiří	Vaněček			27	elektrikář	Dolní Pláně	99	80	A	M
-3102	545392	1	2	53	6	Tomáš	Kubát			46	informatik	Nádražní Předměstí	53	53	A	M
+3102	545392	1	2	53	6	Tomáš	Kubát	Bc.		46	informatik	Nádražní Předměstí	53	53	A	M
 3102	545406	1	2	902	6	Miroslav	Kvasničák			29	vedoucí výroby	Benešov nad Černou	99	80	A	M
 3102	545414	1	2	389	6	Jaroslav	Klein	Mgr.		42	policista ČR	Besednice	99	80	A	M
 3102	545431	1	2	1	6	Jan	Hrubeš	Ing.		58	konstruktér	Brloh	99	1	A	M
 3102	545449	1	2	901	6	Jiří	Jurka			48	OSVČ	Bujanov	99	80	A	M
-3102	545457	1	2	903	6	Klára	Bláhová			28	kuchařka	Černá v Pošumaví	99	80	A	F
+3102	545457	1	2	903	6	Klára	Homolková			28	kuchařka	Černá v Pošumaví	99	80	A	F
 3102	545465	1	2	904	6	Augustin	Panský			53	státní zaměstnanec	Trojany	99	80	A	M
 3102	545473	1	2	901	6	Miroslav	Kurz			33	skladník expedice	Horní Třebonín	99	80	A	M
 3102	545481	1	2	902	6	Zuzana	Frantálová	Mgr.		63	důchodce	Frymburk	99	80	A	F
@@ -1046,7 +1046,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	536237	1	2	1	7	Jan	Crkva			47	technik	Zvíkov	99	1	A	M
 3102	536296	1	2	901	7	Jana	Mačková			72	důchodce	Ostrov	99	80	A	F
 3102	536300	1	2	901	7	Miroslav	Stejskal			59	podnikatel	Věžovatá Pláně	99	80	A	M
-3102	545392	1	2	53	7	Vít	Dvořák			35	terapeut psych. léčebny	Latrán	53	53	A	M
+3102	545392	1	2	53	7	Vít	Dvořák	Mgr.		35	terapeut psych. léčebny	Latrán	53	53	A	M
 3102	545406	1	2	902	7	David	Michalisko			41	mistr kovovýroby	Klení	99	80	A	M
 3102	545414	1	2	389	7	Milan	Kanaloš			51	podnikatel	Besednice	99	80	A	M
 3102	545431	1	2	1	7	Věra	Macháčková	Ing.		38	učitelka	Brloh	99	1	A	F
@@ -1207,7 +1207,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	545473	1	2	901	8	Pavel	Bažant			44	podnikatel	Horní Třebonín	99	80	A	M
 3102	545481	1	2	902	8	Petr	Dvořák	Ing.		42	vedoucí oddělení IT	Frymburk	99	80	A	M
 3102	545490	1	2	1	8	Petr	Ouško			44	vedoucí obchodního zastoupení	Holubov	99	1	A	M
-3102	545503	1	2	7	8	Vladimír	Romof			75	jednatel společnosti	Horní Dvořiště	2	7	A	
+3102	545503	1	2	7	8	Vladimír	Romof			75	jednatel společnosti	Horní Dvořiště	2	7	A	M
 3102	545511	1	2	470	8	Josef	Šabaka			41	pekař, cukrář	Hůrka	99	80	A	M
 3102	545520	1	2	901	8	Henri	Lietavec			53	technik	Hořice na Šumavě	99	80	A	M
 3102	545546	1	2	901	8	Rudolf	Hemmer			75	technik	Chvalšiny	99	80	A	M
@@ -1422,7 +1422,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	545643	1	5	903	9	Lukáš	Krnínský			18	student	Netřebice	99	80	A	M
 3102	545821	1	5	1	9	Jan	Troják			30	vedoucí výroby	Velešín	99	1	A	M
 3102	545830	1	5	901	9	Miroslav	Lupták			59	stavební mistr	Větřní	99	80	A	M
-3102	545392	1	6	766	9	Karolína	Kortusová	Mgr.		53	překladatelka	Nádražní Předměstí	99	766	A	F
+3102	545392	1	6	766	9	Karolína	Kortusová	Ing.		53	překladatelka	Nádražní Předměstí	99	766	A	F
 3102	545465	1	6	906	9	Vendula	Pechová			21	studentka PeF JčU	Dolní Dvořiště	99	80	A	F
 3102	545511	1	6	902	9	Dominika	Tomčalová			30	provozní	Horní Planá	99	80	A	F
 3102	545554	1	6	903	9	Jakub	Průcha	Mgr.		45	pedagogický pracovník	Novosedly	99	80	A	M
@@ -1656,7 +1656,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	545830	1	5	901	12	Ondřej	Michalík			22	skladník	Větřní	99	80	A	M
 3102	545392	1	6	766	12	Radek	Šebela			49	strážník městské policie	Domoradice	99	766	A	M
 3102	545511	1	6	902	12	Jaroslav	Brožák			44	elektrotechnik	Horní Planá	99	80	A	M
-3102	545554	1	6	903	12	Štěpánka	Cimlová	Ing.		35	podnikatelka	Kájov	99	80	A	F
+3102	545554	1	6	903	12	Štěpánka	Cimlová	Ing.		35	učitelka	Kájov	99	80	A	F
 3102	545562	1	6	1114	12	Nikola	Fialová			35	technik ve výrobě	Kaplice	99	1114	A	F
 3102	545830	1	6	53	12	Dana	Majerská			34	vedoucí recepce	Větřní	99	53	A	F
 3102	545392	1	7	480	12	Eva	Pilná			49	manažerka hotelu	Nádražní Předměstí	721	721	A	F
@@ -1807,7 +1807,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	545830	1	1	7	15	Zdeněk	Zenkl			71	technik	Větřní	99	7	A	M
 3102	545848	1	1	901	15	Jiřina	Maurerová			50	soukromý zemědělec	Studánky	99	80	A	F
 3102	545864	1	1	902	15	Štěpánka	Kutláková			34	rodičovská dovolená	Zlatá Koruna	99	80	A	F
-3102	545392	1	2	53	15	Miroslav	Valach			66	referent	Domoradice	53	53	A	M
+3102	545392	1	2	53	15	Miroslav	Valach	Ing.		66	referent	Domoradice	53	53	A	M
 3102	545473	1	2	901	15	Jiří	Zeman			56	mistr	Dolní Třebonín	99	80	A	M
 3102	545511	1	2	470	15	Daniel	Selucký			58	OSVČ	Horní Planá	99	80	A	M
 3102	545554	1	2	902	15	Pavel	Branda			44	soukromý podnikatel	Kájov	99	80	A	M
@@ -1978,7 +1978,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	545562	1	4	401	20	Alexandra	Kárová	Mgr.		38	advokátka	Kaplice	99	80	A	F
 3102	545392	1	5	477	20	Marcela	Žilavá			50	invalidní důchodkyně	Domoradice	99	80	A	F
 3102	545562	1	5	5	20	Růžena	Macková			63	důchodkyně	Kaplice	99	5	A	F
-3102	545392	1	6	766	20	Roman	Hommer			57	strážník městské policie	Horní Brána	99	766	A	M
+3102	545392	1	6	766	20	Roman	Hommer	Mgr.		57	strážník městské policie	Horní Brána	99	766	A	M
 3102	545562	1	6	1114	20	Milada	Vojtová			60	vedoucí studené kuchyně	Kaplice	99	1114	A	F
 3102	545392	1	7	480	20	Tomáš	Zunt			48	ředitel obecně prospěšné společnosti	Vnitřní Město	99	80	A	M
 3102	545562	1	7	47	20	Hana	Hrdinová			84	důchodce	Kaplice	47	47	A	F
@@ -1994,7 +1994,7 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	545562	1	13	766	20	Drahoslava	Opekarová			50	konstruktér, herečka	Mostky	99	766	A	F
 3102	545392	1	1	1481	21	Tereza	Mušková			18	studentka	Plešivec	99	80	A	F
 3102	545562	1	1	53	21	Jan	Froněk ml.			53	podnikatel	Kaplice	99	53	A	M
-3102	545392	1	2	53	21	Jan	Štaberňák			46	vedoucí finančního odboru	Vyšný	53	53	A	M
+3102	545392	1	2	53	21	Jan	Štaberňák	Ing.		46	vedoucí finančního odboru	Vyšný	53	53	A	M
 3102	545562	1	2	371	21	Jiří	Ševčík			72	důchodce	Kaplice	7	7	A	M
 3102	545392	1	3	401	21	Klára	Adamczyková			31	knihařka	Nádražní Předměstí	99	80	A	F
 3102	545562	1	3	541	21	Lucie	Nožičková			29	sociální pracovník	Kaplice	99	80	A	F
@@ -2037,4 +2037,4 @@ OKRES	KODZASTUP	COBVODU	POR_STR_HL	OSTRANA	PORCISLO	JMENO	PRIJMENI	TITULPRED	TIT
 3102	545392	1	8	251	23	Jan	Novák			90	důchodce	Nádražní Předměstí	47	47	A	M
 3102	545392	1	9	768	23	Vlastimil	Kordík			66	exvedoucí provozu	Horní Brána	99	768	A	M
 3102	545392	1	10	1022	23	Michal	Povolný	Ing.		44	projektant	Domoradice	99	1022	A	M
-3102	545392	1	11	1	23	Veronika	Večeřová			30	historička	Latrán	99	1	A	F
+3102	545392	1	11	1	23	Veronika	Večeřová	Mgr.		30	historička	Latrán	99	1	A	F
